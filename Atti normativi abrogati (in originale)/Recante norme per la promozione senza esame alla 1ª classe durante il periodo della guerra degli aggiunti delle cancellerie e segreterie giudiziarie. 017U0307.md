@@ -16,7 +16,7 @@ Durante la guerra e fino a sei mesi dopo la stipulazione della pace, gli aggiunt
 
 ## Art. 2.
 
-Saranno esclusi dalle promozioni indicate nell' articolo precedente quegli aggiunti di 2ª classe che avranno ottenuto dai rispettivi capi delle Corti un numero di voti minore di sei sulla capacita', operosita' e condotta, giusta le prescrizioni dell'[art. 11 lettera B del R. decreto 8 dicembre 1907, n. 776](Che%20approva%20le%20annesse%20disposizioni%20riguardanti%20lesame%20di%20concorso%20ad%20alunno%20e%20di%20abilitazione%20agli%20uffici%20di%20cancelleria%20e%20segreteria%20giudiziarie.%20007U0776.md).
+Saranno esclusi dalle promozioni indicate nell' articolo precedente quegli aggiunti di 2ª classe che avranno ottenuto dai rispettivi capi delle Corti un numero di voti minore di sei sulla capacita', operosita' e condotta, giusta le prescrizioni dell'[art. 11 lettera B del R. decreto 8 dicembre 1907, n. 776](../Regi%20decreti/Che%20approva%20le%20annesse%20disposizioni%20riguardanti%20lesame%20di%20concorso%20ad%20alunno%20e%20di%20abilitazione%20agli%20uffici%20di%20cancelleria%20e%20segreteria%20giudiziarie.%20007U0776.md).
 
 ## Art. 3.
 

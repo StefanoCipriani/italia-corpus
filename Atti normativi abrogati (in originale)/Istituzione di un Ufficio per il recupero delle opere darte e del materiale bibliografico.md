@@ -18,7 +18,7 @@ Nazionale, effettuandone la restituzione al competente organo del Ministero dell
 ## Art. 2.
 
 Il capo di detto Ufficio verra' nominato con decreto Luogotenenziale, su proposta del Ministro per la pubblica istruzione, sentito il Consiglio dei Ministri.
- Qualora la nomina riguardasse persona estranea all'Amministrazione statale le funzioni si intendono affidate nella forma di incarico, con le modalita' e col trattamento di cui all'[art. 57 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md).
+ Qualora la nomina riguardasse persona estranea all'Amministrazione statale le funzioni si intendono affidate nella forma di incarico, con le modalita' e col trattamento di cui all'[art. 57 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md).
 
 ## Art. 3.
 

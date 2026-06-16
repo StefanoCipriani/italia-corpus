@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 31 ottobre 1923, n. 2523](https://www.normattiva.it/u
 
 Visto il [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
 
-Visto il [R. decreto 19 giugno 1924, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1217), col quale venne riordinato il R. Istituto industriale di Torino con la Regia Scuola di tirocinio annessa;
+Visto il [R. decreto 19 giugno 1924, n. 1217](../Regi%20decreti/Costituzione%20del%20Regio%20istituto%20industriale%20di%20Torino.%20024U1217.md), col quale venne riordinato il R. Istituto industriale di Torino con la Regia Scuola di tirocinio annessa;
 
 Vista la pianta organica del R. Istituto e della R. Scuola predetti approvata con decreto Ministeriale 31 ottobre 1925;
 

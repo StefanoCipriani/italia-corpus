@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 1° novembre 1928, n. 2546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-01;2546), col quale i comuni di Isola San Giulio ed Orta Novarese venivano riuniti in un unico Comune denominato «Orta San Giulio» con capoluogo ad Orta Novarese; 
+ Visto il [R. decreto 1° novembre 1928, n. 2546](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Isola%20San%20Giulio%20ed%20Orta%20Novarese%20in%20un%20unico%20Comune%20che%20assume%20la%20denominazione%20di%20Orta%20San%20Giulio%20con%20capoluogo%20ad%20Orta%20Novarese.%20028U2546.md), col quale i comuni di Isola San Giulio ed Orta Novarese venivano riuniti in un unico Comune denominato «Orta San Giulio» con capoluogo ad Orta Novarese; 
  
  Vista la deliberazione del podesta' di detto Comune, con la quale si chiede che per tutto il territorio del comune di Orta San Giulio funzioni un solo ufficio di conciliazione; 
  

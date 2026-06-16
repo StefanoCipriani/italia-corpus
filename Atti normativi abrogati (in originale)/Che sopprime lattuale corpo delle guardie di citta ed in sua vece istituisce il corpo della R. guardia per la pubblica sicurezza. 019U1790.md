@@ -192,7 +192,7 @@ L'avanzamento dei sottufficiali delle RR. guardie ha luogo nel seguente modo, se
 
 ## Art. 11.
 
-Ai componenti del corpo della Regia guardia sono applicabili le disposizioni della legge sullo stato degli ufficiali del Regio esercito, del regolamento di disciplina militare, di quello sullo stato dei sottufficiali e del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare con le modificazioni che lo speciale ordinamento del corpo rende necessarie, e che saranno stabilite dal regolamento organico.
+Ai componenti del corpo della Regia guardia sono applicabili le disposizioni della legge sullo stato degli ufficiali del Regio esercito, del regolamento di disciplina militare, di quello sullo stato dei sottufficiali e del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare con le modificazioni che lo speciale ordinamento del corpo rende necessarie, e che saranno stabilite dal regolamento organico.
 
 ## Art. 12.
 

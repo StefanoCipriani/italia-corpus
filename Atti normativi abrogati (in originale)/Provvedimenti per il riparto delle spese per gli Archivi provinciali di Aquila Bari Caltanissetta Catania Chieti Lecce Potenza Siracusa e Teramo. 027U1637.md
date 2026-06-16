@@ -14,7 +14,7 @@ PER, GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i Regi decreti 21 gennaio e 28 luglio 1866, nn. 2784 e 3160, nonche' il [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163);
+Visti i Regi decreti 21 gennaio e 28 luglio 1866, nn. 2784 e 3160, nonche' il [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md);
 
 Visto il [R. decreto-legge 16 luglio 1925, n. 1328](Norme%20per%20il%20ricupero%20delle%20somme%20da%20rimborsarsi%20da%20Comuni%20e%20da%20Provincie%20ad%20altri%20Enti%20per%20spese%20poste%20dalla%20legge%20a%20carico%20di%20gruppi%20di%20essi.%20025U1328.md);
 

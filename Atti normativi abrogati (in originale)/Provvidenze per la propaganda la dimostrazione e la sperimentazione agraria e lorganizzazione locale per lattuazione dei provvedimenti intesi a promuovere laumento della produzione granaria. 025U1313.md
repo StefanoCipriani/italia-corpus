@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 27 novembre 1919, n. 2265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2265); [21 ottobre 1923, n. 2471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2471) e [23 marzo 1924, n. 577](Approvazione%20del%20nuovo%20regolamento%20generale%20pel%20funzionamento%20delle%20cattedre%20ambulanti%20di%20agricoltura.%20024U0577.md);
+Visti i [Regi decreti 27 novembre 1919, n. 2265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2265); [21 ottobre 1923, n. 2471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-21;2471) e [23 marzo 1924, n. 577](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20generale%20pel%20funzionamento%20delle%20cattedre%20ambulanti%20di%20agricoltura.%20024U0577.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -54,7 +54,7 @@ Sulle direttive localmente concordate dalle Commissioni provinciali per la propa
 
 Per porre in grado le Stazioni agrarie regie e consorziali, gli Istituti superiori di agricoltura, e gli Istituti di ogni specie che si occupano di sperimentazione agraria, di intensificare, con mezzi adeguati al fine, lo studio dei problemi che interessano la produzione frumentaria, e' stanziata nello stato di previsione della spesa del Ministero per l'Economia Nazionale, la somma annua di L. 4,000,000, a partire dall'esercizio finanziario 1925-26. 
  
- L'assegnazione delle somme agli Istituti di cui al comma precedente sara' fatta in base a programmi, sui quali saranno sentiti il Comitato permanente del grano, l'adunanza annuale dei direttori degli Istituti sperimentali, il Consiglio di Amministrazione della Fondazione per la sperimentazione e la ricerca agraria, istituita con [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499).
+ L'assegnazione delle somme agli Istituti di cui al comma precedente sara' fatta in base a programmi, sui quali saranno sentiti il Comitato permanente del grano, l'adunanza annuale dei direttori degli Istituti sperimentali, il Consiglio di Amministrazione della Fondazione per la sperimentazione e la ricerca agraria, istituita con [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md).
 
 ### Art. 5.
 

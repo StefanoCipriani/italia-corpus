@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Per la durata della guerra e per due mesi successivi, in corrispondenza dei tenenti generali che siano fatti di mano in mano rientrare in organico giusta l'art. 1° del [R. decreto 7 febbraio 1915, n. 113](Riguardante%20la%20costituzione%20ed%20il%20funzionamento%20di%20alcuni%20speciali%20comandi%20e%20servizi%20militari.%20015U0113.md), e dei Nostri decreti 23 marzo 1916, n. 340, e 7 dicembre 1916, n. 1692, potranno essere tenuti a disposizione altrettanti maggiori generali in soprannumero all'organico, in eccedenza a quelli previsti dai decreti medesimi. 
+Per la durata della guerra e per due mesi successivi, in corrispondenza dei tenenti generali che siano fatti di mano in mano rientrare in organico giusta l'art. 1° del [R. decreto 7 febbraio 1915, n. 113](../Regi%20decreti/Riguardante%20la%20costituzione%20ed%20il%20funzionamento%20di%20alcuni%20speciali%20comandi%20e%20servizi%20militari.%20015U0113.md), e dei Nostri decreti 23 marzo 1916, n. 340, e 7 dicembre 1916, n. 1692, potranno essere tenuti a disposizione altrettanti maggiori generali in soprannumero all'organico, in eccedenza a quelli previsti dai decreti medesimi. 
  
  Il presente decreto avra' vigore dal giorno della sua data. 
  

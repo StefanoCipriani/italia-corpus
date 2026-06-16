@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[art. 158 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_158) approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono le disposizioni per diminuire le cause della malaria; 
+ Veduto l'[art. 158 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono le disposizioni per diminuire le cause della malaria; 
  
  Visti i Nostri decreti 22 febbraio 1903, n. 83, 20 luglio 1903, n. 366 e 2 giugno 1910, n. 405, concernenti, tra l'altro, la dichiarazione delle zone malariche nei territori dei comuni di Milano e Lambrate; 
  

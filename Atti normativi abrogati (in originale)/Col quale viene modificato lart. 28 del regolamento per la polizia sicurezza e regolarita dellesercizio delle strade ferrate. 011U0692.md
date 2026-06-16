@@ -30,7 +30,7 @@ Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici; Abb
 
 ## Articolo unico.
 
-L'art. 28 del regolamento circa la polizia, la sicurezza e la regolarita' dell'esercizio delle strade ferrate, approvato con [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687), e' modificato come appresso: 
+L'art. 28 del regolamento circa la polizia, la sicurezza e la regolarita' dell'esercizio delle strade ferrate, approvato con [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md), e' modificato come appresso: 
  
  «Art. 28. - Ogni locomotiva in servizio sara' affidata ad un macchinista e ad un fuochista che all'occorrenza sappia fermarla. 
  

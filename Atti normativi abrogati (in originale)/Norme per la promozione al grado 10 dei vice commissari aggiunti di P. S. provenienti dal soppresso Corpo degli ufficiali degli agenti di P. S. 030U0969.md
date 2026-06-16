@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto il [R. decreto-legge 11 dicembre 1927, n. 2380](Scioglimento%20del%20Corpo%20degli%20ufficiali%20degli%20agenti%20di%20P.%20S.%20e%20conseguenti%20provvedimenti.%20027U2380.md);
 
@@ -38,7 +38,7 @@ I vice commissari aggiunti di pubblica sicurezza provenienti dal disciolto Corpo
  
  Resta fermo nei confronti di essi il disposto dell'ultimo comma dell'[art. 9 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
- Agli effetti di quanto dispongono l'art. 21 e l'ultimo comma dell'[art. 42 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_42), la nomina al grado 10° conseguita a termine della disposizione contenuta nel primo comma del presente articolo, avra' efficacia soltanto a decorrere dalla data in cui i predetti vice commissari aggiunti abbiano compiuto l'anzianita' prescritta dal citato [art. 9 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e dall'[art. 104 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md). 
+ Agli effetti di quanto dispongono l'art. 21 e l'ultimo comma dell'[art. 42 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), la nomina al grado 10° conseguita a termine della disposizione contenuta nel primo comma del presente articolo, avra' efficacia soltanto a decorrere dalla data in cui i predetti vice commissari aggiunti abbiano compiuto l'anzianita' prescritta dal citato [art. 9 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e dall'[art. 104 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md). 
  
  Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

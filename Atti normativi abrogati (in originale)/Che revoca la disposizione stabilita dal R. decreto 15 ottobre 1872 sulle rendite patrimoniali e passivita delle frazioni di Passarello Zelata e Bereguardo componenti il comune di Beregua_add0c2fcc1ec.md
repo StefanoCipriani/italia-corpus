@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Visto il [Regio decreto 15 ottobre 1872, n. 1052](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1872-10-15;1052) (serie 2ª), con cui a partire dal 15 gennaio 1873 i comuni di Passarello e Zelata sono stati soppressi ed aggregati a quello di Bereguardo, tenendo separate le rendite patrimoniali e le passivita' a termini del paragrafo 3 dell'art. 13 della legge 20 marzo 1865, allegato A;
+Visto il [Regio decreto 15 ottobre 1872, n. 1052](../Regi%20decreti/Col%20quale%20alcuni%20Comuni%20della%20Provincia%20di%20Pavia%20sono%20soppressi%20ed%20aggregati%20ad%20altri%20Comuni.%20072U1052.md) (serie 2ª), con cui a partire dal 15 gennaio 1873 i comuni di Passarello e Zelata sono stati soppressi ed aggregati a quello di Bereguardo, tenendo separate le rendite patrimoniali e le passivita' a termini del paragrafo 3 dell'art. 13 della legge 20 marzo 1865, allegato A;
 
 Vista la deliberazione 12 luglio 1890 del Consiglio provinciale di Pavia;
 

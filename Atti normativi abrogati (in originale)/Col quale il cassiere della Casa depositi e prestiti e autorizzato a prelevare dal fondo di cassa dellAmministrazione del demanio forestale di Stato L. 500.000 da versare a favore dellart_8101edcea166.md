@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md);
 
-Visto l'art 44 del regolamento speciale di contabilita' dell'azienda del Demanio forestale di Stato, approvato con [R. decreto del 9 marzo 1911, n. 668](Che%20approva%20lannesso%20regolamento%20di%20contabilita%20per%20lazienda%20speciale%20del%20demanio%20forestale%20di%20Stato.%20011U0668.md);
+Visto l'art 44 del regolamento speciale di contabilita' dell'azienda del Demanio forestale di Stato, approvato con [R. decreto del 9 marzo 1911, n. 668](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20di%20contabilita%20per%20lazienda%20speciale%20del%20demanio%20forestale%20di%20Stato.%20011U0668.md);
 
 Vista la deliberazione del Consiglio d'amministrazione dell'azienda del Demanio stesso in data 22 luglio 1915, che autorizza di provvedere alle spese necessarie per la riduzione in assortimenti del legname da fornire la vendita a pubbliche Amministrazioni;
 

@@ -20,7 +20,7 @@ Con i fondi assegnati dalle [leggi 22 aprile 1905, n. 137, e 19 aprile 1906, n. 
  
  a) alle spese indicate nell'[art. 9, lettere a ed e, della legge 22 aprile 1905, n. 137](Che%20approva%20i%20provvedimenti%20per%20lesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20005U0137.md), in quanto occorrono per le ferrovie di cui al precedente art. 1; 
  
- b) all'acquisto del materiale mobile e di officina e delle provviste di proprieta' della Societa' Veneta, a sensi dell'art. 25 del contratto 29 agosto 1896, approvato con [R. decreto 9 dicembre 1897, n. 539](Che%20approva%20e%20rende%20esecutorio%20il%20Contratto%20stipulato%20fra%20lAmministrazione%20dello%20Stato%20e%20la%20Societa%20Veneta%20per%20imprese%20e%20costruzioni%20pubbliche%20per%20la%20concessione%20dellesercizio%20di%20alcune%20f_57c63da818a4.md).
+ b) all'acquisto del materiale mobile e di officina e delle provviste di proprieta' della Societa' Veneta, a sensi dell'art. 25 del contratto 29 agosto 1896, approvato con [R. decreto 9 dicembre 1897, n. 539](../Regi%20decreti/Che%20approva%20e%20rende%20esecutorio%20il%20Contratto%20stipulato%20fra%20lAmministrazione%20dello%20Stato%20e%20la%20Societa%20Veneta%20per%20imprese%20e%20costruzioni%20pubbliche%20per%20la%20concessione%20dellesercizio%20di%20alcune%20f_57c63da818a4.md).
 
 ## Art. 3.
 
@@ -36,7 +36,7 @@ Il personale stabile ed in prova al servizio della Societa' Veneta al 30 giugno 
 
 Gli agenti passati in conformita' del precedente articolo alla dipendenza dell'Amministrazione delle ferrovie dello Stato, saranno inscritti al nuovo Istituto di previdenza, creato con la [legge 29 marzo 1900, n. 101](Circa%20i%20provvedimenti%20definitivi%20per%20gli%20Istituti%20di%20previdenza%20del%20personale%20ferroviario.%20000U0101.md). 
  
- Il tempo impiegato in servizio delle ferrovie esercitate dalla Societa' Veneta potra' essere valutato nel periodo di compartecipazione a sensi dell'art. 56 dello statuto approvato col [R. decreto 31 gennaio 1901, n. 70](Che%20approva%20lo%20Statuto%20dellIstituto%20di%20previdenza%20per%20il%20personale%20ferroviario.%20001U0070.md). 
+ Il tempo impiegato in servizio delle ferrovie esercitate dalla Societa' Veneta potra' essere valutato nel periodo di compartecipazione a sensi dell'art. 56 dello statuto approvato col [R. decreto 31 gennaio 1901, n. 70](../Regi%20decreti/Che%20approva%20lo%20Statuto%20dellIstituto%20di%20previdenza%20per%20il%20personale%20ferroviario.%20001U0070.md). 
  
  La Societa' Veneta versera' all'Istituto, per conto degli agenti e agli effetti del disposto dell'art. 56 dello statuto precitato, la somma costituente la loro partita individuale, liquidata al 30 giugno 1906 in base alle disposizioni che regolano le rispettive istituzioni di previdenza. 
  

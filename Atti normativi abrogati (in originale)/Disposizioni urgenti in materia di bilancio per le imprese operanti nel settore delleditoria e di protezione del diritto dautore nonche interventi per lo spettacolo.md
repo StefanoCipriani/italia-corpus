@@ -143,7 +143,7 @@ Sono abrogati:
                             g)
                                 l'[articolo 6-bis, comma 2, del decreto-legge 27 agosto 1993, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323#art_6bis-com2), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20agosto%201993%20n.%20323%20recante%20provvedimenti%20urgenti%20in%20materia%20radiotelevisiva.md), limitatamente alle parole: "ricevuti i bilanci di cui all'[articolo 14 della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_14)";
                             h)
-                                l'[articolo 17, comma 1, del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../DPR/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md), limitatamente alle disposizioni di cui alla lettera b).
+                                l'[articolo 17, comma 1, del decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md), limitatamente alle disposizioni di cui alla lettera b).
 
 2.
 

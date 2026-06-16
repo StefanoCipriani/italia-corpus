@@ -252,7 +252,7 @@ Chiunque mediante ritenute sui salari, dirette o indirette, fa concorrere il lav
 
 Il lavoratore non puo', senza giustificato motivo, rifiutarsi, dietro richiesta ed a spese dell'Istituto assicuratore, di sottostare alle cure che l'Istituto stesso ritenga necessarie, e di entrare e tal fine in qualsiasi clinica, ospedale od altro luogo di cura che sia indicato dall'Istituto assicuratore. Fra tali cure non si intendono comprese le operazioni chirurgiche, salvo i minori atti operativi. In caso di ingiustificato rifiuto, puo' essere negata in tutto o in parte l'indennita', salvo, in caso di contestazione, il giudizio arbitrale. 
  
- Il lavoratore, il quale abbia simulato l'infortunio o ne abbia dolosamente aggravate le conseguenze, perde il diritto ad ogni indennizzo ed e' sottoposto alle penalita' comminate dagli [articoli 413](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [414 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Il lavoratore, il quale abbia simulato l'infortunio o ne abbia dolosamente aggravate le conseguenze, perde il diritto ad ogni indennizzo ed e' sottoposto alle penalita' comminate dagli [articoli 413](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [414 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 19.
 

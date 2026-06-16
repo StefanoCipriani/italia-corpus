@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 189 in data 4 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189), che modifica l'ordinamento dei servizi dipartimentali della Regia marina;
+Visto il [R. decreto n. 189 in data 4 gennaio 1923](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), che modifica l'ordinamento dei servizi dipartimentali della Regia marina;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Art. 1.
 
-E' soppresso il Comando in capo del dipartimento marittimo dell'Alto Adriatico con sede a Venezia, istituito in base all'[art. 2 del R. decreto n. 189 del 4 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189#art_2).
+E' soppresso il Comando in capo del dipartimento marittimo dell'Alto Adriatico con sede a Venezia, istituito in base all'[art. 2 del R. decreto n. 189 del 4 gennaio 1923](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md).
 
 ## Art. 2.
 
@@ -30,7 +30,7 @@ Il Comando in capo del dipartimento marittimo dell'Ionio e Basso Adriatico, con 
 
 ## Art. 3.
 
-In conseguenza degli articoli 1 e 2 del presente decreto, la tabella A annessa al [R. decreto n. 189 del 4 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189) resta cosi' modificata nella parte relativa ai Comandi in capo dei dipartimenti marittimi dell'Alto Adriatico e dell'Ionio e Basso Adriatico: 
+In conseguenza degli articoli 1 e 2 del presente decreto, la tabella A annessa al [R. decreto n. 189 del 4 gennaio 1923](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md) resta cosi' modificata nella parte relativa ai Comandi in capo dei dipartimenti marittimi dell'Alto Adriatico e dell'Ionio e Basso Adriatico: 
  
  Tabella A. 
  Giurisdizione costiera e dipendenze. 

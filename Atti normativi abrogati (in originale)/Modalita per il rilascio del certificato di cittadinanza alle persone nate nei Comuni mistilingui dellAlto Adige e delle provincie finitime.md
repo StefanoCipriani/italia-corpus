@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 21 agosto 1939, n. 1241](Norme%20per%20la%20perdita%20della%20cittadinanza%20da%20parte%20delle%20persone%20di%20origine%20e%20di%20lingua%20tedesca%20domiciliate%20in%20Alto%20Adige.%20039U1241.md);
 
-Visto il [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), sull'ordinamento dello stato civile;
+Visto il [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), sull'ordinamento dello stato civile;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

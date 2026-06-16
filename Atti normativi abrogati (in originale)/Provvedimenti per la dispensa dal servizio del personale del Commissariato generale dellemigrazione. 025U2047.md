@@ -72,9 +72,9 @@ Gli impiegati dispensati dal servizio a norma dei precedenti articoli sono ammes
  
  Agli impiegati indicati nei precedenti commi sara' inoltre indistintamente corrisposta un'indennita' pari a sei mesi dello stipendio goduto all'atto della dispensa dal servizio. 
  
- Le indennita' di cui al presente articolo sostituiscono ad ogni effetto quelle stabilite dal testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e da qualsiasi altra disposizione. 
+ Le indennita' di cui al presente articolo sostituiscono ad ogni effetto quelle stabilite dal testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e da qualsiasi altra disposizione. 
  
- Agli impiegati dispensati dal servizio a norma dell'art. 3 del presente decreto, i quali contino almeno 35 anni di servizio, sara' liquidata una pensione pari ai quattro quinti della media degli stipendi effettivamente ed integralmente percetti nell'ultimo biennio di servizio attivo, fermo il disposto del [primo comma dell'art. 16 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md). 
+ Agli impiegati dispensati dal servizio a norma dell'art. 3 del presente decreto, i quali contino almeno 35 anni di servizio, sara' liquidata una pensione pari ai quattro quinti della media degli stipendi effettivamente ed integralmente percetti nell'ultimo biennio di servizio attivo, fermo il disposto del [primo comma dell'art. 16 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md). 
  
  A coloro i quali contino meno di 35 anni di servizio, sara' computato un aumento di 5 anni sul servizio utile a pensione, tanto agli effetti del compimento del periodo minimo necessario per conseguire il diritto al trattamento di riposo, quanto ai fini della liquidazione degli assegni. 
  

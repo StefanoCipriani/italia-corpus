@@ -28,13 +28,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la tabella delle circoscrizioni elettorali annessa al testo unico sopracitato; 
  
- Visto il [R. decreto 11 luglio 1913, n. 900](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md) col quale gli elettori politici del comune di Germasino, nel collegio di Menaggio, venivano aggregati alla sezione elettorale di Stazzona; 
+ Visto il [R. decreto 11 luglio 1913, n. 900](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md) col quale gli elettori politici del comune di Germasino, nel collegio di Menaggio, venivano aggregati alla sezione elettorale di Stazzona; 
  
  Vista la deliberazione della Commissione elettorale provinciale di Como del 26 aprile 1916, che, avendo raggiunto gli elettori di Germasino il numero di 120, stabilisce di proporne la costituzione in sezione elettorale autonoma: 
  
  Abbiamo decretato e decretiamo: 
  
- Il citato [R. decreto 11 luglio 1913, n. 900](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), e' revocato nella parte con cui disponeva che gli elettori del comune di Germasino, nel collegio di Menaggio, venissero aggregati a quelli della sezione elettorale di Stazzona. 
+ Il citato [R. decreto 11 luglio 1913, n. 900](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), e' revocato nella parte con cui disponeva che gli elettori del comune di Germasino, nel collegio di Menaggio, venissero aggregati a quelli della sezione elettorale di Stazzona. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

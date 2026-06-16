@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto n. 106, del 31 gennaio 1909](Che%20approva%20lannessa%20convenzione%20per%20lo%20esercizio%20da%20parte%20dello%20Stato%20della%20ferrovia%20a%20vapore%20tra%20la%20stazione%20di%20Desenzano%20e%20il%20Lago%20di%20Garda.%20009U0106.md), col quale fu approvata la Convenzione stipulata il 15 gennaio 1909 tra il Governo e la impresa di navigazione sul lago di Garda per l'esercizio, a mezzo dell'Amministrazione delle ferrovie dello Stato, del tronco Desenzano-Lago di Garda. 
+ E' convertito in legge il [R. decreto n. 106, del 31 gennaio 1909](../Regi%20decreti/Che%20approva%20lannessa%20convenzione%20per%20lo%20esercizio%20da%20parte%20dello%20Stato%20della%20ferrovia%20a%20vapore%20tra%20la%20stazione%20di%20Desenzano%20e%20il%20Lago%20di%20Garda.%20009U0106.md), col quale fu approvata la Convenzione stipulata il 15 gennaio 1909 tra il Governo e la impresa di navigazione sul lago di Garda per l'esercizio, a mezzo dell'Amministrazione delle ferrovie dello Stato, del tronco Desenzano-Lago di Garda. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'art. 25 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
+Veduto l'art. 25 del testo unico delle leggi sulla istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
 Vedute le tabelle A e C annesse al testo unico predetto;
 

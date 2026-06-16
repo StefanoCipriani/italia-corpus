@@ -68,7 +68,7 @@ La misura del sussidio, stabilita per il caso di parto dall'[art. 4 della legge 
 
 ## Art. 8.
 
-Alle donne soggette all'obbligo dell'assicurazione contro la disoccupazione involontaria, compete, per il periodo di astensione dal lavoro di cui agli articoli 1, 2 e 3 del presente decreto, il sussidio di disoccupazione secondo le disposizioni del [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158). 
+Alle donne soggette all'obbligo dell'assicurazione contro la disoccupazione involontaria, compete, per il periodo di astensione dal lavoro di cui agli articoli 1, 2 e 3 del presente decreto, il sussidio di disoccupazione secondo le disposizioni del [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md). 
  
  Il sussidio decorre dal primo giorno di astensione dal lavoro ed e' aumentato di L. 0.50 al giorno.
 

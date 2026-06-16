@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il Codice per la marina mercantile approvato col [R. decreto 24 ottobre 1877, n. 4146](Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md);
+Visto il Codice per la marina mercantile approvato col [R. decreto 24 ottobre 1877, n. 4146](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md);
 
 Ritenuta la necessita' urgente ed assoluta di chiarire il carattere giuridico degli atti di concessioni demaniali marittime rispetto alla loro forma, e di dare all'Amministrazione della marina mercantile la facolta' di permettere nei casi di urgenza l'occupazione e l'uso di beni demaniali marittimi prima del perfezionamento degli atti di concessione;
 

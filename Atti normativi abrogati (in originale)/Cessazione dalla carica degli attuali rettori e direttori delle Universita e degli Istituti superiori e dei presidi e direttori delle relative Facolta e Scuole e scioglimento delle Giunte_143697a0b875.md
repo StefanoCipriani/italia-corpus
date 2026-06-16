@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni;
 
 Veduto il [R. decreto-legge 3 luglio 1930, n. 1176](Coordinamento%20delle%20norme%20relative%20agli%20Istituti%20di%20istruzione%20superiore.%20030U1176.md);
 

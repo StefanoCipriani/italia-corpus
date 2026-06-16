@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 marzo 1911, n. 291](Che%20approva%20lannessa%20convenzione%20pel%20servizio%20radiotelegrafico%20commerciale%20e%20militare%20delle%20stazioni%20costiere%20dellItalia%20e%20delle%20Colonie.%20011U0291.md), che fissa in centesimi 40 per parola la tassa radiotelegrafica per le navi mercantili italiane;
+Visto il [R. decreto 2 marzo 1911, n. 291](../Regi%20decreti/Che%20approva%20lannessa%20convenzione%20pel%20servizio%20radiotelegrafico%20commerciale%20e%20militare%20delle%20stazioni%20costiere%20dellItalia%20e%20delle%20Colonie.%20011U0291.md), che fissa in centesimi 40 per parola la tassa radiotelegrafica per le navi mercantili italiane;
 
 Visto il [R. decreto-legge 25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-25;44), convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), che fissa in centesimi 60 per parola la tassa costiera italiana, ed in centesimi 25 per parola la tassa telegrafica interna italiana;
 

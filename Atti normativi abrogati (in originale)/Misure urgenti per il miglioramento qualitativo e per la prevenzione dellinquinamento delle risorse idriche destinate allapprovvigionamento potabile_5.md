@@ -50,7 +50,7 @@ Nell'ambito delle azioni da realizzare in attuazione del piano nazionale di lott
 
 1.
 
-L'[articolo 94 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94), e' sostituito dal seguente: 
+L'[articolo 94 del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e' sostituito dal seguente: 
  "Art. 94. - La ricerca, l'estrazione e l'utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione in tutto il territorio nazionale. 
  L'estrazione e l'utilizzazione delle acque sotterranee devono essere compatibili con le capacita' di ricarica dell'acquifero in ciascun bacino. 
  Qualora sia accertato l'abbassamento del livello delle falde e nei periodi di siccita', l'amministrazione competente puo' ridurre l'estrazione di acque sotterranee in proporzione ai quantitativi estraibili in base a regolare titolo.".

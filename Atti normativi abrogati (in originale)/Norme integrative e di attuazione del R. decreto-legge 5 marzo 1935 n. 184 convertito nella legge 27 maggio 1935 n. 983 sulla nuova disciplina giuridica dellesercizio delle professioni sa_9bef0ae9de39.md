@@ -88,7 +88,7 @@ L'iscrizione negli albi professionali e', subordinata alla prova, da fornirsi da
 
 ### Art. 7.
 
-L'iscrizione nell'albo da' diritto al libero esercizio della professione oltreche' nella provincia cui l'albo si riferisce anche in tutto il territorio del Regno, salvo sempre il disposto dell'[art. 100, comma secondo, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_100-com2) approvato con R. decreto 27 luglio 1934-XII, n. 1265.
+L'iscrizione nell'albo da' diritto al libero esercizio della professione oltreche' nella provincia cui l'albo si riferisce anche in tutto il territorio del Regno, salvo sempre il disposto dell'[art. 100, comma secondo, del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto 27 luglio 1934-XII, n. 1265.
 
 ### Art. 8.
 
@@ -189,7 +189,7 @@ Alle notificazioni a eseguirsi a termini del R. decreto-legge 5 marzo 1935-XIII,
 
 ### Art. 21.
 
-Fermo rimanendo ai sensi dell'[art. 121 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_121) approvato con decreto 27 luglio 1934, n. 1265, l'obbligo della iscrizione nell'albo professionale del farmacista direttore responsabile delle farmacie prevedute nell'articolo 114 del predetto testo unico, e' obbligatoria la iscrizione nell'albo stesso dei farmacisti che prestino la loro opera nelle farmacie degli enti e delle societa' indicate negli articoli 371 e 373 del medesimo [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+Fermo rimanendo ai sensi dell'[art. 121 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con decreto 27 luglio 1934, n. 1265, l'obbligo della iscrizione nell'albo professionale del farmacista direttore responsabile delle farmacie prevedute nell'articolo 114 del predetto testo unico, e' obbligatoria la iscrizione nell'albo stesso dei farmacisti che prestino la loro opera nelle farmacie degli enti e delle societa' indicate negli articoli 371 e 373 del medesimo [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 ### Art. 22.
 
@@ -223,7 +223,7 @@ Ai componenti della Commissione centrale che non appartengano alle amministrazio
 
 ### Art. 27.
 
-Alle disposizioni degli [articoli 4](Nuove%20norme%20sugli%20stupefacenti.%20034U0151.md) e [5 del R. decreto-legge 15 gennaio 1934, n. 151](Nuove%20norme%20sugli%20stupefacenti.%20034U0151.md), richiamate nell'[art. 20 del R. decreto-legge 5 marzo 1935, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-03-05;184#art_20), si intendono sostituite le corrispondenti disposizioni contenute negli [articoli 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_152) e [153 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_153) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+Alle disposizioni degli [articoli 4](Nuove%20norme%20sugli%20stupefacenti.%20034U0151.md) e [5 del R. decreto-legge 15 gennaio 1934, n. 151](Nuove%20norme%20sugli%20stupefacenti.%20034U0151.md), richiamate nell'[art. 20 del R. decreto-legge 5 marzo 1935, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-03-05;184#art_20), si intendono sostituite le corrispondenti disposizioni contenute negli [articoli 152](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [153 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 ### Art. 28.
 

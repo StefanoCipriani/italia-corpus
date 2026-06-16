@@ -24,7 +24,7 @@ I seguenti decreti legislativi sono ratificati, salvi gli effetti degli atti leg
  24 gennaio 1947, n. 26 - Assegnazione di lire 350 milioni all'Istituto superiore di sanita' per la costruzione di un complesso di laboratori per la produzione della penicillina.
  21 marzo 1947, n. 153 - Riconoscimento della validita' dei contratti di compravendita di farmacie privilegiate stipulati dal 31 maggio 1943 al 26 novembre 1944 18 gennaio 1947, n. 165 - Soppressione degli Ispettorati di sanita' militare di Zona.
  21 marzo 1947, n. 182 - Elevazione del limite di eta' per l'assunzione di personale sanitario.
- 1 aprile 1947, n. 219 - Modificazione dell'[art. 34 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_34), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+ 1 aprile 1947, n. 219 - Modificazione dell'[art. 34 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
  17 aprile 1947, n. 282 - Concessione di un contributo alla Croce Rossa italiana.
  27 marzo 1947, n. 290 - Concessione di un contributo straordinario agli Istituti fisioterapici ospitalieri di Roma.
  29 aprile 1947, n. 318 - Norme per l'assistenza post-sanatoriale degli infermi tubercolotici dimessi dagli Istituti di ricovero per guarigione clinica o per stabilizzazione.

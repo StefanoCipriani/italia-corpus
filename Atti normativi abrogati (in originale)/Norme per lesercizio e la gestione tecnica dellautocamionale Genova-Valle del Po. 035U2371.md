@@ -20,7 +20,7 @@ Ritenuta la necessita' urgente ed assoluta, in seguito alla ultimazione della st
 
 Che tale compito puo' essere disimpegnato dall'Azienda autonoma statale della strada;
 
-Che, date le caratteristiche e le finalita' della strada in questione, si ravvisa la necessita' e l'urgenza di limitare l'uso di essa agli autoveicoli di cui all'[art. 54 del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e di imporre tasse di transito;
+Che, date le caratteristiche e le finalita' della strada in questione, si ravvisa la necessita' e l'urgenza di limitare l'uso di essa agli autoveicoli di cui all'[art. 54 del R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e di imporre tasse di transito;
 
 Vista la [legge 31 gennaio 1926, n. 100, art. 3, n. 2](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -44,15 +44,15 @@ L'uso di detta autocamionale e' riservato esclusivamente agli autocarri, con o s
 
 Con l'apertura al transito dell'autocamionale, gli autocarri di portata superiore ai venti quintali e tutti quelli trainanti rimorchi, non possono piu' percorrere la strada statale dei Giovi n. 35 fra gli estremi Genova (Ponte Decimo) e Serravalle. 
  
- I contravventori sono puniti a termini dell'ultimo comma dell'[art. 27 del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+ I contravventori sono puniti a termini dell'ultimo comma dell'[art. 27 del R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
 
 ## Art. 4.
 
-Con decreto Reale, su proposta del Ministro per i lavori pubblici, di concerto con il Ministro per le comunicazioni, sono stabilite le speciali norme per la circolazione sulla autocamionale a termini dell'[art. 23 del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+Con decreto Reale, su proposta del Ministro per i lavori pubblici, di concerto con il Ministro per le comunicazioni, sono stabilite le speciali norme per la circolazione sulla autocamionale a termini dell'[art. 23 del R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
 
 ## Art. 5.
 
-Le disposizioni del [R. decreto 14 marzo 1929, n. 410](Istituzione%20a%20favore%20dellAzienda%20autonoma%20statale%20della%20strada%20del%20monopolio%20della%20pubblicita%20lungo%20le%20strade%20statali%20ed%20in%20vista%20di%20esse.%20029U0410.md), circa il monopolio della pubblicita' sulle strade statali ed in vista di esse sono estese alla autocamionale Genova-Valle del Po. 
+Le disposizioni del [R. decreto 14 marzo 1929, n. 410](../Regi%20decreti/Istituzione%20a%20favore%20dellAzienda%20autonoma%20statale%20della%20strada%20del%20monopolio%20della%20pubblicita%20lungo%20le%20strade%20statali%20ed%20in%20vista%20di%20esse.%20029U0410.md), circa il monopolio della pubblicita' sulle strade statali ed in vista di esse sono estese alla autocamionale Genova-Valle del Po. 
  
  Le relative tariffe sono determinate dal Ministro per i lavori pubblici, presidente dell'Azienda autonoma statale della strada.
 

@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [R decreto 15 aprile 1915, n. 505](Col%20quale%20e%20approvato%20il%20nuovo%20regolamento%20per%20lesecuzione%20dei%20grandi%20trasporti%20militari%20015U0505.md), col quale e' approvato il nuovo regolamento per l'esecuzione dei grandi trasporti militari;
+Visto il [R decreto 15 aprile 1915, n. 505](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20nuovo%20regolamento%20per%20lesecuzione%20dei%20grandi%20trasporti%20militari%20015U0505.md), col quale e' approvato il nuovo regolamento per l'esecuzione dei grandi trasporti militari;
 
 Visto il R. decreto 15 aprile 1915. n. 672, concernente provvedimenti ferroviari eccezionali da attuare in caso di mobilitazione;
 
@@ -50,7 +50,7 @@ All'eseguimento di tutti gli altri trasporti ferroviari non contemplati nel prec
 
 ## Art. 3.
 
-Chiunque con qualsiasi mezzo si procuri una indebita fornitura di carri ferroviari od una illecita precedenza nella graduatoria di carico o comunque contravvenga agli ordini che l'autorita' competente ha pubblicato, anche prima dell'emanazione del presente decreto per regolare il servizio dei trasporti, e' punito con l'arresto fino a due anni e con l'ammenda da lire cento a lire duemila senza pregiudizio delle maggiori pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque con qualsiasi mezzo si procuri una indebita fornitura di carri ferroviari od una illecita precedenza nella graduatoria di carico o comunque contravvenga agli ordini che l'autorita' competente ha pubblicato, anche prima dell'emanazione del presente decreto per regolare il servizio dei trasporti, e' punito con l'arresto fino a due anni e con l'ammenda da lire cento a lire duemila senza pregiudizio delle maggiori pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il presente decreto avra' vigore a partire dal 16 luglio 1918. 
  

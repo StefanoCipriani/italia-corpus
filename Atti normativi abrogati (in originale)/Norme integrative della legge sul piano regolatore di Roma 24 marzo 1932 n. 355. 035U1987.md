@@ -80,7 +80,7 @@ La pubblicazione e la notifica, cosi' dell'elenco di cui all'art. 5, che della m
  
 a) mediante deposito per 20 giorni, presso l'Ufficio messi del Governatorato ed affissione all'Albo pretorio ed in altri luoghi pubblici dell'avviso di detto deposito; 
  
-b) mediante notifica agli interessati da eseguirsi dai messi governatoriali anche per mezzo della posta nelle forme stabilite dal [R. decreto 21 ottobre 1923, n. 2393](Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md). 
+b) mediante notifica agli interessati da eseguirsi dai messi governatoriali anche per mezzo della posta nelle forme stabilite dal [R. decreto 21 ottobre 1923, n. 2393](../Regi%20decreti/Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md). 
  
  Negli atti relativi alla detta notifica e pubblicazione deve avvertirsi che i contributi si riferiscono esclusivamente ai vantaggi provenienti dalle opere compiute in esecuzione del piano regolatore edilizio e di ampliamento di Roma e sono affatto indipendenti da quelli dovuti a norma degli articoli 236 e seguenti del testo unico di legge sulla finanza locale 14 settembre 1931, n. 1175. 
  
@@ -94,7 +94,7 @@ Le impugnative di cui al precedente articolo sono proposte con ricorso innanzi a
  
  Il Collegio giudica inappellabilmente, salvo ricorso per Cassazione, soltanto per incompetenza o violazione di legge. 
  
- Sono applicabili ai giudizi del Collegio le norme di procedura approvate con [R. decreto 16 giugno 1932, n. 901](Approvazione%20del%20regolamento%20di%20procedura%20innanzi%20al%20Collegio%20istituito%20presso%20la%20Corte%20dappello%20di%20Roma%20per%20i%20giudizi%20circa%20lindennita%20di%20espropriazione%20in%20dipendenza%20del%20piano%20regolator_f27a54f58662.md). 
+ Sono applicabili ai giudizi del Collegio le norme di procedura approvate con [R. decreto 16 giugno 1932, n. 901](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20procedura%20innanzi%20al%20Collegio%20istituito%20presso%20la%20Corte%20dappello%20di%20Roma%20per%20i%20giudizi%20circa%20lindennita%20di%20espropriazione%20in%20dipendenza%20del%20piano%20regolator_f27a54f58662.md). 
  
  Gli onorari di cui all'art. 11 del citato decreto, nei casi in cui sia necessario accedere sui luoghi, potranno raggiungere la somma di L. 500. 
  
@@ -120,7 +120,7 @@ Dal comma [n. 7 dell'art. 3 del R. decreto-legge 6 luglio 1931, n. 981](Approvaz
  
  Al comma stesso viene aggiunto il seguente alinea: 
  
- «La notifica individuale di cui all'[art. 88 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), viene eseguito, con eccezione di bollo, dal messo governatoriale anche per mezzo della posta nelle forme stabilite dal [R. decreto 21 ottobre 1923, n. 2393](Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md)».
+ «La notifica individuale di cui all'[art. 88 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), viene eseguito, con eccezione di bollo, dal messo governatoriale anche per mezzo della posta nelle forme stabilite dal [R. decreto 21 ottobre 1923, n. 2393](../Regi%20decreti/Norme%20per%20la%20notificazione%20degli%20atti%20giudiziari%20a%20mezzo%20della%20posta.%20023U2393.md)».
 
 ### Art. 11.
 

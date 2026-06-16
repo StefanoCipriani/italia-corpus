@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti la [legge 2 agosto 1897, n. 382](Che%20estende%20per%20lisola%20di%20Sardegna%20le%20disposizioni%20di%20alcuni%20articoli%20di%20quella%20in%20data%2030%20luglio%201896%20n.%20345%20concernente%20listituzione%20di%20un%20R.%20Commissario%20civile%20per%20la%20Sicilia.%20097U0382.md), portante provvedimenti per la Sardegna e il relativo regolamento approvato con [R. decreto 29 maggio 1898, n. 336](Che%20approva%20il%20Regolamento%20concernente%20i%20provvedimenti%20pel%20miglioramento%20agrario%20della%20Sardegna.%20098U0336.md);
+Visti la [legge 2 agosto 1897, n. 382](Che%20estende%20per%20lisola%20di%20Sardegna%20le%20disposizioni%20di%20alcuni%20articoli%20di%20quella%20in%20data%2030%20luglio%201896%20n.%20345%20concernente%20listituzione%20di%20un%20R.%20Commissario%20civile%20per%20la%20Sicilia.%20097U0382.md), portante provvedimenti per la Sardegna e il relativo regolamento approvato con [R. decreto 29 maggio 1898, n. 336](../Regi%20decreti/Che%20approva%20il%20Regolamento%20concernente%20i%20provvedimenti%20pel%20miglioramento%20agrario%20della%20Sardegna.%20098U0336.md);
 
 Vista la [legge 9 aprile 1931, n. 358](Norme%20per%20la%20disciplina%20e%20lo%20sviluppo%20delle%20migrazioni%20e%20della%20colonizzazione%20interna.%20031U0358.md), per la disciplina e lo sviluppo delle migrazioni e della colonizzazione interna;
 
-Visto il regolamento per gli Istituti di prevenzione e di pena, approvato con [R. decreto 18 giugno 1931, n. 787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;787);
+Visto il regolamento per gli Istituti di prevenzione e di pena, approvato con [R. decreto 18 giugno 1931, n. 787](../Regi%20decreti/Regolamento%20per%20gli%20istituti%20di%20prevenzione%20e%20di%20pena.%20031U0787.md);
 
 Visto il decreto del Capo del Governo in data 7 ottobre 1933, concernente la costituzione dell'Ente Ferrarese per la colonizzazione;
 

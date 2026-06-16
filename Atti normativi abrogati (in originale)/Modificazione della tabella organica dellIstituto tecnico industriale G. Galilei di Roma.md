@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
- Visto il [regio decreto 1 luglio 1940, n. 1159](Modificazione%20della%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Roma.%20040U1159.md), che approva la tabella organica dell'Istituto tecnico industriale "G. Galilei" di Roma;
+ Visto il [regio decreto 1 luglio 1940, n. 1159](../Regi%20decreti/Modificazione%20della%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Roma.%20040U1159.md), che approva la tabella organica dell'Istituto tecnico industriale "G. Galilei" di Roma;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

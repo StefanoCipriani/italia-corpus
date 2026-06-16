@@ -23,7 +23,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convalidato il [R. decreto 4 dicembre 1930, n. 1640](9a%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%201930-31.%20030U1640.md), che autorizza una 9a prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero dello finanze, per l'esercizio finanziario 1930-31. 
+ E' convalidato il [R. decreto 4 dicembre 1930, n. 1640](../Regi%20decreti/9a%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%201930-31.%20030U1640.md), che autorizza una 9a prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero dello finanze, per l'esercizio finanziario 1930-31. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  Data a Roma, addi' 26 marzo 1931 - Anno IX 
  

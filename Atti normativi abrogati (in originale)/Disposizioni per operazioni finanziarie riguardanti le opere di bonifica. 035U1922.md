@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 22 ottobre 1932, n. 1378](Determinazione%20del%20tass
 
 Visto l'[art. 3 del R. decreto-legge 5 febbraio 1925, n. 166](Esonero%20dei%20Comuni%20dal%20contributo%20per%20spese%20di%20bonifica%20attualmente%20a%20loro%20carico%20e%20concorso%20dello%20Stato%20e%20delle%20Provincie%20nel%20saggio%20di%20interesse%20sugli%20anticipi%20del%20capitale.%20025U0166.md), relativo alla determinazione del saggio massimo d'interesse sugli anticipi dei capitali occorrenti per l'esecuzione di opere di bonifica in concessione;
 
-Visto il [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), contenente le nuove norme per la bonifica integrale;
+Visto il [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), contenente le nuove norme per la bonifica integrale;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -16,7 +16,7 @@ UMBERTO I
  
  RE D'ITALIA 
  
- Visto il [R. decreto 10 novembre 1875, N. 2793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-11-10;2793) (Serie 3ª), col quale fu approvato il capitolato dei lavori da eseguirsi nel territorio della Direzione del Genio militare e della Direzione straordinaria per i lavori della R. Marina a Spezia; 
+ Visto il [R. decreto 10 novembre 1875, N. 2793](../Regi%20decreti/Che%20approva%20i%20capitolati-tipi%20pel%20servizio%20del%20genio%20militare.%20075U2793.md) (Serie 3ª), col quale fu approvato il capitolato dei lavori da eseguirsi nel territorio della Direzione del Genio militare e della Direzione straordinaria per i lavori della R. Marina a Spezia; 
  
  Visto il nuovo capitolato tipo 18 novembre 1888 per i suddetti lavori; 
  

@@ -16,7 +16,7 @@ Le contribuzioni per la formazione del fondo costituito col Nostro decreto del 2
 
 I ruoli vengono pubblicati dal 1° al 15 marzo 1917, mediante deposito presso le capitanerie di porto, le quali devono inoltre inviare, entro lo stesso periodo di tempo, in piego raccomandato, apposito avviso di liquidazione ai singoli interessati. 
  
- Detto avviso terra' luogo anche della cartella che deve notificarsi dagli esattori delle imposte, ai sensi dell'art. 25 del testo unico di legge sulla riscossione delle imposte dirette approvate con [R. decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md).
+ Detto avviso terra' luogo anche della cartella che deve notificarsi dagli esattori delle imposte, ai sensi dell'art. 25 del testo unico di legge sulla riscossione delle imposte dirette approvate con [R. decreto 29 giugno 1902, n. 281](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md).
 
 ## Art. 3.
 
@@ -34,7 +34,7 @@ La presentazione del reclamo non sospende la riscossione della somma inscritta n
 
 ## Art. 5.
 
-La riscossione delle contribuzioni viene fatta dagli esattori delle imposte dirette, i quali procedono contro i debitori morosi con le norme ed i privilegi stabiliti dal testo unico delle leggi approvato con [R. decreto del 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), e dal regolamento relativo approvato con [R. decreto del 10 luglio 1902, n. 296](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0296.md).
+La riscossione delle contribuzioni viene fatta dagli esattori delle imposte dirette, i quali procedono contro i debitori morosi con le norme ed i privilegi stabiliti dal testo unico delle leggi approvato con [R. decreto del 29 giugno 1902, n. 281](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md), e dal regolamento relativo approvato con [R. decreto del 10 luglio 1902, n. 296](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0296.md).
 
 ## Art. 6.
 

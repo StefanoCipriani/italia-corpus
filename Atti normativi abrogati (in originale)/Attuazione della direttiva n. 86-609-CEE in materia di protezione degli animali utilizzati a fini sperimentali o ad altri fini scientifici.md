@@ -129,7 +129,7 @@ La persona che esegue l'esperimento o ne ha la supervisione deve inoltre avere u
 
 8.
 
-Le violazioni di cui al comma 3, sono punite ai sensi dell'[art. 727 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), oltre che con la sanzione amministrativa da lire 10 milioni a lire 100 milioni; in caso di violazione continuata o di recidiva, la sanzione amministrativa e' aumentata di un terzo e, indipendentemente dal procedimento penale, il responsabile viene sospeso per un massimo di cinque anni da ogni autorizzazione ad effettuare esperimenti su animali.
+Le violazioni di cui al comma 3, sono punite ai sensi dell'[art. 727 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), oltre che con la sanzione amministrativa da lire 10 milioni a lire 100 milioni; in caso di violazione continuata o di recidiva, la sanzione amministrativa e' aumentata di un terzo e, indipendentemente dal procedimento penale, il responsabile viene sospeso per un massimo di cinque anni da ogni autorizzazione ad effettuare esperimenti su animali.
 
 9.
 

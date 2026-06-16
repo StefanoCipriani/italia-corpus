@@ -45,7 +45,7 @@ I residenti possono esportare al seguito:
 I residenti possono altresi':
                         a)
                             emettere assegni in lire interne, da trarre su banche residenti, a condizione che ciascun titolo, all'atto della emissione all'estero, presenti le seguenti caratteristiche: 
- contenga l'indicazione completa del beneficiario non residente e degli ulteriori requisiti di cui all'[art. 1 del regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736#art_1); 
+ contenga l'indicazione completa del beneficiario non residente e degli ulteriori requisiti di cui all'[art. 1 del regio decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md); 
  sia integrato con la clausola di non trasferibilita'; 
  sia d'importo non superiore a Lit. 5 milioni;
                         b)

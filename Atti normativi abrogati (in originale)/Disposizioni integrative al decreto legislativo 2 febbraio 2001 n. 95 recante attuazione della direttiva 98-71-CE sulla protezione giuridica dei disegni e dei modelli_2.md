@@ -18,7 +18,7 @@ Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive
 
 Visto il capo III del titolo IX del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
 
-Visto il [regio decreto 25 agosto 1940, n. 1411](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md), recante disposizioni legislative in materia di brevetti per modelli industriali, e successive modificazioni;
+Visto il [regio decreto 25 agosto 1940, n. 1411](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md), recante disposizioni legislative in materia di brevetti per modelli industriali, e successive modificazioni;
 
 Visto il [decreto legislativo 2 febbraio 2001, n. 95](Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), recante attuazione della [direttiva 98/71/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;71) relativa alla protezione giuridica dei disegni e dei modelli;
 
@@ -33,14 +33,14 @@ Emana il seguente decreto legislativo:
 ## Art. 1.
 
 1. L'[articolo 19 del decreto legislativo 2 febbraio 2001, n. 95](Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), e' sostituito dal seguente:
- "Art. 19. - 1. L'[articolo 12 del regio decreto 25 agosto 1940, n. 1411](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md), e' sostituito dal seguente:
+ "Art. 19. - 1. L'[articolo 12 del regio decreto 25 agosto 1940, n. 1411](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md), e' sostituito dal seguente:
  "Art. 12. - 1. La tassa di concessione per i brevetti per modelli di utilita' puo' essere pagata in un'unica rata o in due rate quinquennali.
  2. Gli importi delle tasse di concessione quinquennale, della tassa di prima proroga e della tassa delle proroghe successive relative alla registrazione di disegni o modelli sono corrispondenti, rispettivamente, alla prima, seconda e terza rata quinquennale previste dalla tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), Titolo IV, articolo 10, numero 2, lettere c) ed f).
  3. La tassa di concessione e di proroga per i disegni tessili puo' essere pagata in rate annuali.
- 4. Alle anzidette tasse e rate di concessione si applicano gli articoli 46 e seguenti, e connesse disposizioni, del [regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), riguardanti le tasse annuali di mantenimento in vigore dei brevetti per invenzioni industriali . .".
+ 4. Alle anzidette tasse e rate di concessione si applicano gli articoli 46 e seguenti, e connesse disposizioni, del [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), riguardanti le tasse annuali di mantenimento in vigore dei brevetti per invenzioni industriali . .".
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e' il seguente:
@@ -98,7 +98,7 @@ Avvertenza:
  1999/35/CE: direttiva del Consiglio, del 29 aprile 1999, relativa a un sistema di visite obbligatorie per l'esercizio in condizioni di sicurezza di traghetti roll-on-roll-off e di unita' veloci da passeggeri adibiti a servizi di linea.
  1999/38/CE: direttiva del Consiglio, del 29 aprile 1999, che modifica per la seconda volta la [direttiva 90/394/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;394) sulla protezione dei lavoratori contro i rischi derivanti da un'esposizione ad agenti cancerogeni durante il lavoro, estendendola ad agenti mutageni.".
  - Il capo III, titolo IX, libro V, del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) concerne "del diritto di brevetto per modelli di utilita' e per modelli e disegni ornamentali".
- - Il [regio decreto 25 agosto 1940, n. 1411](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md), concerne "Testo delle disposizioni legislative in materia di brevetti per modelli industriali"
+ - Il [regio decreto 25 agosto 1940, n. 1411](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md), concerne "Testo delle disposizioni legislative in materia di brevetti per modelli industriali"
  - Il [decreto legislativo 2 febbraio 2001, n. 95](Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), concerne "Attuazione della [direttiva 98/71/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;71) relativa alla protezione giuridica dei disegni e dei modelli".
  Note all'art. 1:
  - Le tariffe di cui alle lettere c) ed f), n. 2, art. 10, della tabella allegata al decreto ministeriale 28 dicembre 1995, che modifica quelle allegate al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), sono le seguenti:
@@ -107,13 +107,13 @@ Avvertenza:
  a) rata per il I quinquennio .... 500.000
  b) rata per il II quinquennio .... 600.000
  c) rata per il III quinquennio .... 1.000.000
- f) per il rilascio del brevetto di un tutto o una serie di modelli o disegni, a norma dell'[art. 6 del regio decreto 25 agosto 1940, n. 1411](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md), se la tassa e' invece pagata in tre rate:
+ f) per il rilascio del brevetto di un tutto o una serie di modelli o disegni, a norma dell'[art. 6 del regio decreto 25 agosto 1940, n. 1411](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md), se la tassa e' invece pagata in tre rate:
 
  1) rata per il I quinquennio .... 600.000
  2) rata per il II quinquennio .... 1.000.000
  3) rata per il III quinquennio ... 1.500.000".
  - L'[art. 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), concerne "Disciplina delle tasse sulle concessioni governative".
- - Il [regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), reca "Testo delle disposizioni legislative, in materia di brevetti per invenzioni industriali". (Pubblicato nella Gazzetta Ufficiale n. 189 del 14 agosto 1939).
+ - Il [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), reca "Testo delle disposizioni legislative, in materia di brevetti per invenzioni industriali". (Pubblicato nella Gazzetta Ufficiale n. 189 del 14 agosto 1939).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana.
 

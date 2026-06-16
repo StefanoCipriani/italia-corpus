@@ -10,19 +10,19 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visti gli [articoli 6](Che%20stabilisce%20le%20norme%20per%20liscrizione%20a%20carico%20dello%20Stato%20dei%20crediti%20verso%20i%20Comuni%20di%20Sicilia%20e%20pel%20pagamento%20dei%20relativi%20interessi.%20063U1223.md) e [7 del R. Decreto del 29 aprile 1863, n. 1223](Che%20stabilisce%20le%20norme%20per%20liscrizione%20a%20carico%20dello%20Stato%20dei%20crediti%20verso%20i%20Comuni%20di%20Sicilia%20e%20pel%20pagamento%20dei%20relativi%20interessi.%20063U1223.md);
+Visti gli [articoli 6](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20liscrizione%20a%20carico%20dello%20Stato%20dei%20crediti%20verso%20i%20Comuni%20di%20Sicilia%20e%20pel%20pagamento%20dei%20relativi%20interessi.%20063U1223.md) e [7 del R. Decreto del 29 aprile 1863, n. 1223](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20liscrizione%20a%20carico%20dello%20Stato%20dei%20crediti%20verso%20i%20Comuni%20di%20Sicilia%20e%20pel%20pagamento%20dei%20relativi%20interessi.%20063U1223.md);
 
 Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1863-05-12;1289#art_1), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1863-05-12;1289#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1863-05-12;1289#art_7) e [8 del Decreto del Ministero delle Finanze del 12 maggio 1863, n. 1289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1863-05-12;1289#art_8);
 
 Visto il Decreto del Ministero stesso del 21 ottobre 1863, n. 1533;
 
-Visto il [R. Decreto del 3 novembre 1866, n. 3321](Che%20ordina%20la%20soppressione%20delle%20Direzioni%20Compartimentali%20del%20Tesoro%20degli%20Uffici%20di%20Riscontro%20della%20Corte%20dei%20conti%20e%20delle%20Casse%20dei%20Depositi%20e%20Prestiti%20presso%20le%20Direzioni%20del%20Tesoro%20_0b35ccea8357.md), col quale a datare dal 1° gennaio 1867 sono soppresse le Direzioni compartimentali del Tesoro e gli Uffici di Riscontro;
+Visto il [R. Decreto del 3 novembre 1866, n. 3321](../Regi%20decreti/Che%20ordina%20la%20soppressione%20delle%20Direzioni%20Compartimentali%20del%20Tesoro%20degli%20Uffici%20di%20Riscontro%20della%20Corte%20dei%20conti%20e%20delle%20Casse%20dei%20Depositi%20e%20Prestiti%20presso%20le%20Direzioni%20del%20Tesoro%20_0b35ccea8357.md), col quale a datare dal 1° gennaio 1867 sono soppresse le Direzioni compartimentali del Tesoro e gli Uffici di Riscontro;
 
 Visto il Regolamento di contabilita' generale dello Stato, modificato in conseguenza della soppressione degli Uffici suddetti ed approvato col R. Decreto del 25 novembre 1866, n. 3381; DETERMINA QUANTO SEGUE:
 
 ## Art. 1.
 
-La Commissione istituita a Palermo col [R. Decreto del 29 aprile 1863, n. 1223](Che%20stabilisce%20le%20norme%20per%20liscrizione%20a%20carico%20dello%20Stato%20dei%20crediti%20verso%20i%20Comuni%20di%20Sicilia%20e%20pel%20pagamento%20dei%20relativi%20interessi.%20063U1223.md), per la verificazione dei debiti dei Comuni di Sicilia accollati allo Stato, sara' composta dei seguenti membri:
+La Commissione istituita a Palermo col [R. Decreto del 29 aprile 1863, n. 1223](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20liscrizione%20a%20carico%20dello%20Stato%20dei%20crediti%20verso%20i%20Comuni%20di%20Sicilia%20e%20pel%20pagamento%20dei%20relativi%20interessi.%20063U1223.md), per la verificazione dei debiti dei Comuni di Sicilia accollati allo Stato, sara' composta dei seguenti membri:
 
 1.
 

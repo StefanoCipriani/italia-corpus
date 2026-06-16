@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 23 maggio 1924, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;904), che proroga al 31 dicembre 1924 i termini stabiliti dal [R. decreto 27 agosto 1923, n. 1995](Norme%20per%20la%20trasformazione%20degli%20uffici%20postali%20telegrafici%20e%20telefonici%20delle%20nuove%20provincie%20in%20base%20allordinamento%20stabilito%20dal%20R.%20decreto%2018%20marzo%201923%20n.%20596.%20023U1995.md), relativo alla trasformazione degli uffici postali, telegrafici e telefonici delle nuove Provincie. 
+ E' convertito in legge il [R. decreto 23 maggio 1924, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;904), che proroga al 31 dicembre 1924 i termini stabiliti dal [R. decreto 27 agosto 1923, n. 1995](../Regi%20decreti/Norme%20per%20la%20trasformazione%20degli%20uffici%20postali%20telegrafici%20e%20telefonici%20delle%20nuove%20provincie%20in%20base%20allordinamento%20stabilito%20dal%20R.%20decreto%2018%20marzo%201923%20n.%20596.%20023U1995.md), relativo alla trasformazione degli uffici postali, telegrafici e telefonici delle nuove Provincie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

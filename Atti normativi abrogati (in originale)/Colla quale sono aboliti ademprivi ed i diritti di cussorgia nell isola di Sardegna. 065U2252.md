@@ -12,7 +12,7 @@ vigente: true
 
 Tutti gli usi conosciuti nell'isola di Sardegna sotto il nome di ademprivi nonche' i diritti di cussorgia sono aboliti. 
  
- Ogni atto di ulteriore esercizio di questi usi e diritti costituisce una violazione al diritto di proprieta', alla quale sara' applicato il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune.
+ Ogni atto di ulteriore esercizio di questi usi e diritti costituisce una violazione al diritto di proprieta', alla quale sara' applicato il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune.
 
 ## Art. 2.
 

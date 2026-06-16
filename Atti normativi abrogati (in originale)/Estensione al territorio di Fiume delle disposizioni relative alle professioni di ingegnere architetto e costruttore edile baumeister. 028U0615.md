@@ -28,15 +28,15 @@ Ai territori annessi al Regno in virtu' del [R. decreto-legge 22 febbraio 1924, 
  
  a) la [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395), sulla tutela del titolo e dell'esercizio professionale degli ingegneri e degli architetti; 
  
- b) il regolamento per l'esecuzione della legge predetta, approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537); 
+ b) il regolamento per l'esecuzione della legge predetta, approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md); 
  
  c) il [R. decreto 3 settembre 1926, n. 1660](Norme%20relative%20allesercizio%20professionale%20e%20alla%20iscrizione%20nellalbo%20degli%20architetti%20e%20dei%20tecnici%20baumeister%20delle%20nuove%20Provincie.%20026U1660.md), concernente la iscrizione nell'albo degli ingegneri e degli architetti di tecnici delle nuove provincie (baumeister); 
  
- d) il [R. decreto 27 ottobre 1927, n. 2145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-27;2145), relativo al coordinamento della legge e del regolamento sulle professioni di ingegnere e di architetto con la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e con il [R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), sulla disciplina giuridica dei rapporti collettivi del lavoro.
+ d) il [R. decreto 27 ottobre 1927, n. 2145](../Regi%20decreti/Norme%20di%20coordinamento%20della%20legge%20e%20del%20regolamento%20sulle%20professioni%20di%20ingegnere%20e%20di%20architetto%20con%20la%20legge%20sui%20rapporti%20collettivi%20del%20lavoro%20per%20cio%20che%20riflette%20la%20tenuta%20dellalbo_527749af84a8.md), relativo al coordinamento della legge e del regolamento sulle professioni di ingegnere e di architetto con la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e con il [R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), sulla disciplina giuridica dei rapporti collettivi del lavoro.
 
 ## Art. 2.
 
-Fra i titoli indicati nell'art. 73 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), e' compreso anche il diploma di ingegnere, di ingegnere industriale, di ingegnere chimico e di architetto conseguito nel Politecnico di Budapest.
+Fra i titoli indicati nell'art. 73 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), e' compreso anche il diploma di ingegnere, di ingegnere industriale, di ingegnere chimico e di architetto conseguito nel Politecnico di Budapest.
 
 ## Art. 3.
 

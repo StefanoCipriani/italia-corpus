@@ -10,11 +10,11 @@ vigente: true
 
 IL MINISTRO DELLA SANITA'
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
-Visto il testo unico della legge comunale e provinciale approvato con [regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md);
+Visto il testo unico della legge comunale e provinciale approvato con [regio decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md);
 
-Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md);
+Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md);
 
 Vista la [legge 23 gennaio 1968 n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-23;34)
 

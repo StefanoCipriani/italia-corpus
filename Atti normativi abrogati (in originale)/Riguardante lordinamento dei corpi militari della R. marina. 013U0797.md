@@ -262,7 +262,7 @@ Salvo quanto e' stabilito dal seguente art. 28, la presente legge avra' effetto 
 
 1913.
 
-Da questa data e sino a quando non saranno approvate le variazioni nei quadri organici per la prima applicazione della presente legge, come dal successivo art. 28, e non saranno avvenute le eventuali promozioni ai posti di risulta sara' sospesa l'applicazione degli [articoli 1](Provvedimenti%20a%20favore%20degli%20ufficiali%20e%20sottufficiali%20macchinisti%20della%20R.%20marina.%20010U0430.md) e [2 della legge 13 luglio 1910; n. 430](Provvedimenti%20a%20favore%20degli%20ufficiali%20e%20sottufficiali%20macchinisti%20della%20R.%20marina.%20010U0430.md), nonche' del [R. decreto 17 luglio 1910, n. 565](Sullapplicazione%20graduale%20dei%20nuovi%20limiti%20di%20eta%20stabiliti%20per%20gli%20ufficiali%20macchinisti%20della%20R.%20marina.%20010U0565.md).
+Da questa data e sino a quando non saranno approvate le variazioni nei quadri organici per la prima applicazione della presente legge, come dal successivo art. 28, e non saranno avvenute le eventuali promozioni ai posti di risulta sara' sospesa l'applicazione degli [articoli 1](Provvedimenti%20a%20favore%20degli%20ufficiali%20e%20sottufficiali%20macchinisti%20della%20R.%20marina.%20010U0430.md) e [2 della legge 13 luglio 1910; n. 430](Provvedimenti%20a%20favore%20degli%20ufficiali%20e%20sottufficiali%20macchinisti%20della%20R.%20marina.%20010U0430.md), nonche' del [R. decreto 17 luglio 1910, n. 565](../Regi%20decreti/Sullapplicazione%20graduale%20dei%20nuovi%20limiti%20di%20eta%20stabiliti%20per%20gli%20ufficiali%20macchinisti%20della%20R.%20marina.%20010U0565.md).
 
 ### Art. 27.
 

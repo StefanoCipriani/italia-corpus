@@ -34,7 +34,7 @@ E' data facolta' al Governo del Re di collocare in disponibilita' gli impiegati 
 
 ## Art. 7.
 
-Le disposizioni dell'art. 6 saranno applicabili soltanto a quegli impiegati che, per anzianita' di servizio e per avanzata eta', abbiano conseguito il diritto al collocamento a riposo secondo l'art. 1, lettera a, del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+Le disposizioni dell'art. 6 saranno applicabili soltanto a quegli impiegati che, per anzianita' di servizio e per avanzata eta', abbiano conseguito il diritto al collocamento a riposo secondo l'art. 1, lettera a, del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Gli assegni di disponibilita' ai detti impiegati saranno corrisposti con i fondi stanziati nel capitolo 248 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio 1907-908 ed al corrispondente capitolo dell'esercizio finanziario successivo.
 

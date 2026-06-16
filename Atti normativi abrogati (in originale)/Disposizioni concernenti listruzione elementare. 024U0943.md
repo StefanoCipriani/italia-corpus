@@ -22,24 +22,24 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-All'[art. 12, primo comma, del R. decreto 11 marzo 1923, n. 737](Che%20detta%20norme%20per%20ladozione%20dei%20libri%20di%20testo%20nelle%20scuole%20elementari%20e%20popolari%20pubbliche%20e%20private.%20023U0737.md), dopo le parole: «L'approvazione dei libri di testo per gli anni scolastici 1923-24, 1924-25 . . .», e' aggiunto: «. . . e 1925-26».
+All'[art. 12, primo comma, del R. decreto 11 marzo 1923, n. 737](../Regi%20decreti/Che%20detta%20norme%20per%20ladozione%20dei%20libri%20di%20testo%20nelle%20scuole%20elementari%20e%20popolari%20pubbliche%20e%20private.%20023U0737.md), dopo le parole: «L'approvazione dei libri di testo per gli anni scolastici 1923-24, 1924-25 . . .», e' aggiunto: «. . . e 1925-26».
 
 ## Art. 2.
 
-Sono abrogate tutte le disposizioni sugli esami nelle scuole elementari emanate anteriormente al 1° ottobre 1923, ed e' data facolta' al Governo del Re di disciplinare i modi e le forme dei detti esami con norme regolamentari, in relazione al disposto degli [articoli 12](Ordinamento%20dei%20gradi%20scolastici%20e%20dei%20programmi%20didattici%20dellistruzione%20elementare.%20023U2185.md) e [13 del R. decreto 1° ottobre 1923, n. 2185](Ordinamento%20dei%20gradi%20scolastici%20e%20dei%20programmi%20didattici%20dellistruzione%20elementare.%20023U2185.md). 
+Sono abrogate tutte le disposizioni sugli esami nelle scuole elementari emanate anteriormente al 1° ottobre 1923, ed e' data facolta' al Governo del Re di disciplinare i modi e le forme dei detti esami con norme regolamentari, in relazione al disposto degli [articoli 12](../Regi%20decreti/Ordinamento%20dei%20gradi%20scolastici%20e%20dei%20programmi%20didattici%20dellistruzione%20elementare.%20023U2185.md) e [13 del R. decreto 1° ottobre 1923, n. 2185](../Regi%20decreti/Ordinamento%20dei%20gradi%20scolastici%20e%20dei%20programmi%20didattici%20dellistruzione%20elementare.%20023U2185.md). 
  
  I fanciulli provenienti da scuola privata o paterna, per ottenere i certificati, di cui all'art. 13 citato nel comma precedente, devono sostenere l'esame presso le scuole pubbliche nei periodi di tempo che saranno stabiliti dal R. Ispettore scolastico.
 
 ## Art. 3.
 
-Il [secondo comma dell'art. 17 del R. decreto 7 ottobre 1923, n. 2132](Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), e' sostituito dal seguente: 
+Il [secondo comma dell'art. 17 del R. decreto 7 ottobre 1923, n. 2132](../Regi%20decreti/Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), e' sostituito dal seguente: 
  
  A parita' degli elementi di cui al comma precedente, il R.
 Provveditore agli studi da' la preferenza all'insegnante che debba essere destinato ad altra sede per soppressione o trasformazione a causa di scarso rendimento della scuola in cui insegna, a meno che lo scarso rendimento non sia a lui imputabile.
 
 ## Art. 4.
 
-Gli articoli 6, 7, 8, 9 (primo comma), 17, 18 e 21 del [Regio decreto 31 ottobre 1923, n. 2410](Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md), sono modificati come segue:
+Gli articoli 6, 7, 8, 9 (primo comma), 17, 18 e 21 del [Regio decreto 31 ottobre 1923, n. 2410](../Regi%20decreti/Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md), sono modificati come segue:
 
 1.
 
@@ -72,17 +72,17 @@ Gli articoli 6, 7, 8, 9 (primo comma), 17, 18 e 21 del [Regio decreto 31 ottobre
 
 ## Art. 5.
 
-Il [secondo comma dell'art. 14 del R. decreto 3 novembre 1923, n. 2453](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), e' modificato come segue: 
+Il [secondo comma dell'art. 14 del R. decreto 3 novembre 1923, n. 2453](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), e' modificato come segue: 
  
  Esso sara', coadiuvato da direttori sezionali, uno per ogni gruppo di trenta classi con maestro proprio, od uno anche per ogni gruppo piu' numeroso di classi, purche' riunite in un medesimo edificio scolastico.
 
 ## Art. 6.
 
-Nell'[art. 20 del R. decreto 3 novembre 1923, n. 2453](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), dopo le parole: «. . . per concorso», sono aggiunte le seguenti: «. . . per titoli ed esami da espletarsi secondo le disposizioni del regolamento».
+Nell'[art. 20 del R. decreto 3 novembre 1923, n. 2453](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), dopo le parole: «. . . per concorso», sono aggiunte le seguenti: «. . . per titoli ed esami da espletarsi secondo le disposizioni del regolamento».
 
 ## Art. 7.
 
-Il [secondo comma dell'art. 22 del R. decreto 3 novembre 1923, n. 2453](Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), e' completato come segue: 
+Il [secondo comma dell'art. 22 del R. decreto 3 novembre 1923, n. 2453](../Regi%20decreti/Norme%20concernenti%20lordinamento%20per%20listruzione%20elementare.%20023U2453.md), e' completato come segue: 
  
  «Le spese di arredamento, di illuminazione e riscaldamento, di custodia e pulizia del locale di ufficio sono a carico del Comune».
 
@@ -98,33 +98,33 @@ Nell'[art. 5 del R. decreto 31 dicembre 1923, n. 2996](https://www.normattiva.it
 
 ## Art. 10.
 
-E' data facolta' al Governo del Re di modificare le disposizioni anteriori al 31 dicembre 1923 sulle tasse di iscrizione, di frequenza, di esami e di diplomi nelle Scuole di Metodo per l'educazione materna e nei corsi estivi, proporzionando o mettendo in relazione le tasse stesse con quelle stabilite dal [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), per gli alunni di scuole medie similari. 
+E' data facolta' al Governo del Re di modificare le disposizioni anteriori al 31 dicembre 1923 sulle tasse di iscrizione, di frequenza, di esami e di diplomi nelle Scuole di Metodo per l'educazione materna e nei corsi estivi, proporzionando o mettendo in relazione le tasse stesse con quelle stabilite dal [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), per gli alunni di scuole medie similari. 
  
  Tali disposizioni sono estese alle Scuole di Metodo per la istruzione dei ciechi e dei sordomuti.
 
 ## Art. 11.
 
-All'[art. 4 del R. decreto 17 maggio 1923, n. 1130](Che%20detta%20norme%20per%20il%20servizio%20ispettivo%20nelle%20scuole%20elementari%20e%20popolari%20delle%20nuove%20provincie.%20023U1130.md), e' aggiunto il seguente ultimo capoverso: 
+All'[art. 4 del R. decreto 17 maggio 1923, n. 1130](../Regi%20decreti/Che%20detta%20norme%20per%20il%20servizio%20ispettivo%20nelle%20scuole%20elementari%20e%20popolari%20delle%20nuove%20provincie.%20023U1130.md), e' aggiunto il seguente ultimo capoverso: 
  
  «Gli ispettori scolastici predetti costituiranno nel ruolo del personale ispettivo un unico gruppo, nel quale ciascun di essi prendera' il posto spettantegli in base all'anzianita' di servizio, calcolata ai sensi del primo comma del presente articolo, indipendentemente dalla data della rispettiva nomina con carattere definitivo».
 
 ## Art. 12.
 
-Il termine, di cui all'[art. 5 del R. decreto 17 maggio 1923, n. 1130](Che%20detta%20norme%20per%20il%20servizio%20ispettivo%20nelle%20scuole%20elementari%20e%20popolari%20delle%20nuove%20provincie.%20023U1130.md), e' prorogato a tutto l'anno 1924.
+Il termine, di cui all'[art. 5 del R. decreto 17 maggio 1923, n. 1130](../Regi%20decreti/Che%20detta%20norme%20per%20il%20servizio%20ispettivo%20nelle%20scuole%20elementari%20e%20popolari%20delle%20nuove%20provincie.%20023U1130.md), e' prorogato a tutto l'anno 1924.
 
 ## Art. 13.
 
-Dopo il [comma primo dell'art. 2 del R. decreto 24 giugno 1923, n. 1506](Estensione%20alle%20nuove%20provincie%20delle%20norme%20per%20i%20concorsi%20a%20posti%20di%20direttore%20didattico%20governativo.%20023U1506.md), e' aggiunto il seguente comma: 
+Dopo il [comma primo dell'art. 2 del R. decreto 24 giugno 1923, n. 1506](../Regi%20decreti/Estensione%20alle%20nuove%20provincie%20delle%20norme%20per%20i%20concorsi%20a%20posti%20di%20direttore%20didattico%20governativo.%20023U1506.md), e' aggiunto il seguente comma: 
  
  «Agli effetti della nomina, di cui al comma precedente, e' considerato come continuazione del servizio di dirigenza definitiva precedentemente prestato il servizio reso presso gli Uffici scolastici o i Consigli scolastici delle Provincie annesse».
 
 ## Art. 14.
 
-I maestri compresi nelle graduatorie, la cui efficacia fu dichiarata cessata dall'[art. 6, comma secondo, del R. decreto 11 marzo 1923, n. 635](Che%20detta%20norme%20per%20i%20concorsi%20le%20nomine%20e%20la%20conferma%20degli%20insegnanti%20elementari.%20023U0635.md), saranno ammessi ai concorsi che verranno banditi dai Regi Provveditorati o dai Comuni autonomi, senza limite di eta'.
+I maestri compresi nelle graduatorie, la cui efficacia fu dichiarata cessata dall'[art. 6, comma secondo, del R. decreto 11 marzo 1923, n. 635](../Regi%20decreti/Che%20detta%20norme%20per%20i%20concorsi%20le%20nomine%20e%20la%20conferma%20degli%20insegnanti%20elementari.%20023U0635.md), saranno ammessi ai concorsi che verranno banditi dai Regi Provveditorati o dai Comuni autonomi, senza limite di eta'.
 
 ## Art. 15.
 
-Il termine di cui all'[art. 7 del R. decreto 7 ottobre 1923, n. 2186](Assimilazione%20giuridica%20ed%20economica%20del%20personale%20insegnante%20delle%20scuole%20popolari%20e%20civiche%20proveniente%20dal%20cessato%20regime.%20023U2186.md), e' prorogato di sei mesi.
+Il termine di cui all'[art. 7 del R. decreto 7 ottobre 1923, n. 2186](../Regi%20decreti/Assimilazione%20giuridica%20ed%20economica%20del%20personale%20insegnante%20delle%20scuole%20popolari%20e%20civiche%20proveniente%20dal%20cessato%20regime.%20023U2186.md), e' prorogato di sei mesi.
 
 ## Art. 16.
 

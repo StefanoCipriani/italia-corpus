@@ -22,9 +22,9 @@ Visto il testo unico delle leggi metriche 23 agosto 1890, n. 7088, serie 3ª;
 
 Vista la [legge 7 luglio 1910, n. 480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-07;480);
 
-Visto il regolamento per il servizio metrico, approvato col [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto il regolamento per il servizio metrico, approvato col [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
-Visto il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con [R. decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226);
+Visto il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con [R. decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md);
 
 Visti i provvedimenti integrativi e modificativi dei suddetti decreti;
 
@@ -104,7 +104,7 @@ In tutti gli uffici pubblici governativi o di enti locali di carattere amministr
 
 ## Art. 11.
 
-I pesi, le misure e tutti gli strumenti, in generale, previsti dal regolamento per la fabbricazione metrica approvato con [R. decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226), esposti in vendita od in uso di commercio ancorche' sprovvisti dei bolli legali stabiliti dal regolamento approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), dovranno essere legalizzati entro i termini da stabilirsi, per le varie localita', con apposito decreto governatoriale. 
+I pesi, le misure e tutti gli strumenti, in generale, previsti dal regolamento per la fabbricazione metrica approvato con [R. decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md), esposti in vendita od in uso di commercio ancorche' sprovvisti dei bolli legali stabiliti dal regolamento approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), dovranno essere legalizzati entro i termini da stabilirsi, per le varie localita', con apposito decreto governatoriale. 
  
  In sostituzione dei bolli della verificazione prima, e, temporaneamente, cogli stessi effetti, saranno, entro lo stesso termine, muniti di speciale contrassegno gli strumenti per pesare che, pur non essendo conformi alle norme predette, possano, a giudizio dell'ufficio metrico, essere adoperati in commercio senza nocumento, corrispondendo o potendosi ridurre alle condizioni di stabilita', esattezza, sensibilita' ed inalterabilita' prescritte secondo i vari casi. 
  

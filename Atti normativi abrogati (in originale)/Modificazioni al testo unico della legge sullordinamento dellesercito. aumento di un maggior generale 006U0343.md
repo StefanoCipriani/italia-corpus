@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Al testo unico delle leggi sull'ordinamento dell'esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) e modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904 e n. 347 del 9 luglio 1905](Modificazione%20alla%20tabella%20n.%2014%20degli%20ufficiali%20del%20corpo%20veterinario%20militare%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20de_d18d0c6cd3f2.md), sono apportate le seguenti modificazioni: 
+ Al testo unico delle leggi sull'ordinamento dell'esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) e modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904 e n. 347 del 9 luglio 1905](Modificazione%20alla%20tabella%20n.%2014%20degli%20ufficiali%20del%20corpo%20veterinario%20militare%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20de_d18d0c6cd3f2.md), sono apportate le seguenti modificazioni: 
  
  a) nell'articolo 14: ad «un ufficiale generale addetto (maggiore generale)» sostituire: «due ufficiali generali addetti (maggiori generali)»; 
  

@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Visto il [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [regio decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md);
+Visto il [regio decreto 27 novembre 1924, n. 2367](../Regi%20decreti/Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md);
 
 Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
-Visto il [regio decreto 27 gennaio 1933, n. 153](Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md);
+Visto il [regio decreto 27 gennaio 1933, n. 153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md);
 
 Visto il [regio decreto-legge 25 febbraio 1939, n. 335](Nuove%20norme%20per%20la%20valutazione%20dello%20stato%20civile%20ai%20fini%20delle%20nomine%20e%20promozioni%20del%20personale%20dipendente%20dalle%20pubbliche%20amministrazioni.%20039U0335.md);
 

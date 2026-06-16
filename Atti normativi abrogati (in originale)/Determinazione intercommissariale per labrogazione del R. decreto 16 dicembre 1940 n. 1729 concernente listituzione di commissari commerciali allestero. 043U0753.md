@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto 16 dicembre 1940, n. 1729](Nomina%20di%20commissari%20commerciali%20allestero.%20040U1729.md), relativo alla nomina dei commissari commerciali all'estero e' abrogato.
+Il [R. decreto 16 dicembre 1940, n. 1729](../Regi%20decreti/Nomina%20di%20commissari%20commerciali%20allestero.%20040U1729.md), relativo alla nomina dei commissari commerciali all'estero e' abrogato.
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 10 maggio 1946, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-10;262);
+Visto il [regio decreto legislativo 10 maggio 1946, n. 262](../Regi%20decreti%20legislativi/Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
 Vista la [legge 4 aprile 1935, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-04;499);
 

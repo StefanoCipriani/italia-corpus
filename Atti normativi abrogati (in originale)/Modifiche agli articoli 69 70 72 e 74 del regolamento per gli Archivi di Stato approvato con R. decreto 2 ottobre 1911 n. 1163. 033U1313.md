@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Articolo unico.
 
-Sono apportate le seguenti modifiche al regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163). 
+Sono apportate le seguenti modifiche al regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md). 
  
  All'ultimo comma dell'art. 69 e' sostituito il seguente: 
  

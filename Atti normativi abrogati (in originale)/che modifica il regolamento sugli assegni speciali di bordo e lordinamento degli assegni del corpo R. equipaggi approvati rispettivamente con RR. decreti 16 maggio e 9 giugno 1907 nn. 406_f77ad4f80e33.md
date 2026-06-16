@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'articolo 20 del regolamento sugli assegni speciali di bordo, approvato con [R. decreto 16 maggio 1907, n. 406](Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), e' abrogato e sostituito dal seguente: 
+L'articolo 20 del regolamento sugli assegni speciali di bordo, approvato con [R. decreto 16 maggio 1907, n. 406](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), e' abrogato e sostituito dal seguente: 
  
  «Art. 20. - 1° Sulle navi adibite al trasporto di materiali spetta al personale di bassa forza che ha direttamente contribuito all'imbarco, allo stivamento ed allo sbarco del materiale una retribuzione collettiva di L. 0,30 per ogni tonnellata o frazione di tonnellata di materiale imbarcato. La spesa relativa deve essere regolarizzata dalle dichiarazioni prescritte dal regolamento di amministrazione e contabilita'; quella relativa alla ripartizione dell'assegno deve essere fatta su elenco nominativo degli aventi diritto. 
  

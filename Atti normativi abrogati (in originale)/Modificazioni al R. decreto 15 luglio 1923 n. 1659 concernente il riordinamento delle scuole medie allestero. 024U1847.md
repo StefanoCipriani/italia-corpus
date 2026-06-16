@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md);
 
-Veduto il [R. decreto 15 luglio 1923, n. 1659](Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md);
+Veduto il [R. decreto 15 luglio 1923, n. 1659](../Regi%20decreti/Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri di 
 
 ## Art. 1.
 
-L'[art. 2 del R. decreto 15 luglio 1923, n. 1659](Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md), e' sostituito dall'articolo seguente: 
+L'[art. 2 del R. decreto 15 luglio 1923, n. 1659](../Regi%20decreti/Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md), e' sostituito dall'articolo seguente: 
  
  «Il corso inferiore quadriennale dell'istituto tecnico ha pure una sezione commerciale, separata per le sue materie speciali, che rilascia anche un diploma di licenza tecnico-commerciale, con le norme stabilite per gli esami di licenza nelle scuole del Regno».
 

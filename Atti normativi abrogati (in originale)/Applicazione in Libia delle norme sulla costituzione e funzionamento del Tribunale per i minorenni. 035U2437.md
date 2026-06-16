@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Il R. decreto-legge 20 luglio 1934-XII, n. 1404, sulla costituzione e funzionamento del Tribunale per i minorenni, convertito con modificazioni nella legge 27 maggio 1935-XIII, n. 835, e le relative norme di attuazione e transitorie di cui al [R. decreto 20 settembre 1934, n. 1579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;1579), sono applicabili in Libia, con le modificazioni contenute negli articoli seguenti.
+Il R. decreto-legge 20 luglio 1934-XII, n. 1404, sulla costituzione e funzionamento del Tribunale per i minorenni, convertito con modificazioni nella legge 27 maggio 1935-XIII, n. 835, e le relative norme di attuazione e transitorie di cui al [R. decreto 20 settembre 1934, n. 1579](../Regi%20decreti/Norme%20di%20attuazione%20e%20transitorie%20del%20Regio%20decreto-legge%2020%20luglio%201934%20n.%201404%20sulla%20istituzione%20e%20sul%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20034U1579.md), sono applicabili in Libia, con le modificazioni contenute negli articoli seguenti.
 
 ## Art. 2.
 
@@ -108,11 +108,11 @@ Nulla e' innovato a quanto stabilisce il vigente ordinamento organico per la Lib
 
 ## Art. 15.
 
-Le funzioni spettanti al Ministero della giustizia, nelle ipotesi previste dagli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;1579#art_16) e [17 del R. decreto 20 settembre 1934, n. 1579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;1579#art_17), sono attribuite al Ministero delle colonie.
+Le funzioni spettanti al Ministero della giustizia, nelle ipotesi previste dagli [articoli 16](../Regi%20decreti/Norme%20di%20attuazione%20e%20transitorie%20del%20Regio%20decreto-legge%2020%20luglio%201934%20n.%201404%20sulla%20istituzione%20e%20sul%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20034U1579.md) e [17 del R. decreto 20 settembre 1934, n. 1579](../Regi%20decreti/Norme%20di%20attuazione%20e%20transitorie%20del%20Regio%20decreto-legge%2020%20luglio%201934%20n.%201404%20sulla%20istituzione%20e%20sul%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20034U1579.md), sono attribuite al Ministero delle colonie.
 
 ## Art. 16.
 
-Alla data del 29 ottobre 1934 prevista negli [articoli 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;1579#art_18), [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;1579#art_20) e [21 del R. decreto 20 settembre 1934, n. 1579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;1579#art_21), e' sostituita quella della pubblicazione del presente decreto nel Bollettino ufficiale della Libia.
+Alla data del 29 ottobre 1934 prevista negli [articoli 18](../Regi%20decreti/Norme%20di%20attuazione%20e%20transitorie%20del%20Regio%20decreto-legge%2020%20luglio%201934%20n.%201404%20sulla%20istituzione%20e%20sul%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20034U1579.md), [20](../Regi%20decreti/Norme%20di%20attuazione%20e%20transitorie%20del%20Regio%20decreto-legge%2020%20luglio%201934%20n.%201404%20sulla%20istituzione%20e%20sul%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20034U1579.md) e [21 del R. decreto 20 settembre 1934, n. 1579](../Regi%20decreti/Norme%20di%20attuazione%20e%20transitorie%20del%20Regio%20decreto-legge%2020%20luglio%201934%20n.%201404%20sulla%20istituzione%20e%20sul%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20034U1579.md), e' sostituita quella della pubblicazione del presente decreto nel Bollettino ufficiale della Libia.
 
 ## Art. 17.
 

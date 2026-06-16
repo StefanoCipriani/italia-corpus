@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai titolari di assegni vitalizi liquidati o da liquidare a carico dell'Opera di previdenza, a norma del testo unico approvato con [R. decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), nonche' ai titolari di assegni vitalizi conferiti o da conferire sui fondi dell'ex Cassa sovvenzioni, in base allo stesso testo unico, e' concesso un assegno temporaneo di contingenza di L. 720 annue dalla data del 1° gennaio 1944 o da quella piu' recente da cui ne sia concesso il godimento.
+Ai titolari di assegni vitalizi liquidati o da liquidare a carico dell'Opera di previdenza, a norma del testo unico approvato con [R. decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md), nonche' ai titolari di assegni vitalizi conferiti o da conferire sui fondi dell'ex Cassa sovvenzioni, in base allo stesso testo unico, e' concesso un assegno temporaneo di contingenza di L. 720 annue dalla data del 1° gennaio 1944 o da quella piu' recente da cui ne sia concesso il godimento.
 
 ## Art. 2.
 

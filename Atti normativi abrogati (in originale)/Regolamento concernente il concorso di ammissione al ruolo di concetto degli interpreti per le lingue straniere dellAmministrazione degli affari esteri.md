@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
+Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
@@ -34,7 +34,7 @@ L'amministrazione bandisce, eventualmente anche con unico decreto, separati conc
  4) diploma di interprete conseguito presso scuole di interpreti italiane o straniere. Qualora il diploma di interprete abbia valore di diploma di istruzione secondaria di secondo grado si prescinde dal diploma di cui al punto 3);
  5) buona condotta, che sara' accertata d'ufficio, ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
  6) idoneita' fisica all'impiego.
- Si applicano le disposizioni del [quinto](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Si applicano le disposizioni del [quinto](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 2. — Domanda di ammissione
 
@@ -103,13 +103,13 @@ Le prove di esame hanno luogo in Roma.
 
 ## Art. 8. — Graduatoria e collocamento in ruolo
 
-6. A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e le altre vigenti disposizioni in materia di preferenza.
+6. A parita' di punteggio vengono applicati l'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e le altre vigenti disposizioni in materia di preferenza.
  Il Ministro per gli affari esteri, riconosciuta la regolarita' del procedimento del concorso, approva con proprio decreto, sotto condizione dell'accertamento dei requisiti per l'ammissione in carriera, la graduatoria di merito dei concorrenti risultati idonei nelle prove di esame.
- Qualora l'amministrazione bandisca contestualmente piu' concorsi per lingue differenti, le relative prove si svolgeranno con procedure concorsuali distinte dando luogo a distinte graduatorie di merito. I vincitori dei concorsi per ciascuna lingua sono collocati in ruolo secondo l'ordine derivante dal punteggio complessivo riportato da ciascuno dei vincitori nelle rispettive prove di esame. A parita' di merito si applicano le norme dell'[art. 5, quarto comma, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Qualora l'amministrazione bandisca contestualmente piu' concorsi per lingue differenti, le relative prove si svolgeranno con procedure concorsuali distinte dando luogo a distinte graduatorie di merito. I vincitori dei concorsi per ciascuna lingua sono collocati in ruolo secondo l'ordine derivante dal punteggio complessivo riportato da ciascuno dei vincitori nelle rispettive prove di esame. A parita' di merito si applicano le norme dell'[art. 5, quarto comma, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 9. — Rinvio
 
-Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), e successive modificazioni.
+Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), e successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

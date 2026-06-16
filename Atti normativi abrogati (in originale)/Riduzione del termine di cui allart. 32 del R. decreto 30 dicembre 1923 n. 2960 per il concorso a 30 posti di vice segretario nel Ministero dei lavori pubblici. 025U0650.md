@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 32 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_32); 
+ Visto l'[art. 32 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md); 
  
  Visto il [R. decreto 1° maggio 1925, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-01;585), con cui si autorizza il Ministro per i lavori pubblici a bandire un concorso per esami a 30 posti di vice segretario in prova nell'Amministrazione centrale dei lavori pubblici; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Per il concorso autorizzato col [R. decreto 1° maggio 1925, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-01;585), sopracitato, il periodo di due mesi che, giusta l'[articolo 32 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_32), deve intercorrere tra la pubblicazione del decreto Ministeriale che bandisce il concorso stesso e la data di inizio delle prove di esame, e' ridotto a venti giorni. 
+ Per il concorso autorizzato col [R. decreto 1° maggio 1925, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-01;585), sopracitato, il periodo di due mesi che, giusta l'[articolo 32 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), deve intercorrere tra la pubblicazione del decreto Ministeriale che bandisce il concorso stesso e la data di inizio delle prove di esame, e' ridotto a venti giorni. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge, ed entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

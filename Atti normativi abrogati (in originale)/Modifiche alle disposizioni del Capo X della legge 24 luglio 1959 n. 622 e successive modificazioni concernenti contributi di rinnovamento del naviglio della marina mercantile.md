@@ -21,7 +21,7 @@ Le disposizioni del Capo X della [legge 24 luglio 1959, n. 622](Interventi%20in%
 
 ### Art. 2.
 
-Ai proprietari di navi mercantili da carico secco e liquido, nonche' da passeggeri e miste e di navi da pesca oceanica che nell'anno di presentazione della domanda di cui all'articolo 4 risultino costruite da almeno quindici anni ed iscritte da almeno cinque anni nelle matricole o nei registri di cui all'[articolo 146 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), che procedono alla demolizione di tali navi ed alla costruzione di nuove unita' a scafo metallico possono essere concessi i benefici nella misura, condizioni e modalita' di cui alla presente legge. Si prescinde dalla data di costruzione ove vengano demolite navi che abbiano subito avarie superiori al 50 per cento del valore commerciale di mercato della nave, riconosciuto dal Ministero della marina mercantile.
+Ai proprietari di navi mercantili da carico secco e liquido, nonche' da passeggeri e miste e di navi da pesca oceanica che nell'anno di presentazione della domanda di cui all'articolo 4 risultino costruite da almeno quindici anni ed iscritte da almeno cinque anni nelle matricole o nei registri di cui all'[articolo 146 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), che procedono alla demolizione di tali navi ed alla costruzione di nuove unita' a scafo metallico possono essere concessi i benefici nella misura, condizioni e modalita' di cui alla presente legge. Si prescinde dalla data di costruzione ove vengano demolite navi che abbiano subito avarie superiori al 50 per cento del valore commerciale di mercato della nave, riconosciuto dal Ministero della marina mercantile.
  Le navi in possesso dei requisiti di cui al primo comma, la cui iscrizione sia posteriore al 10 gennaio 1962, possono fruire dei benefici della presente legge, purche' alla data di inizio della demolizione siano state complessivamente in esercizio per almeno cinque anni sotto bandiera italiana, a meno che il difetto di tale ultima condizione sia dovuto a sinistro.
  Per aver titolo ai benefici previsti dalle presenti disposizioni, i proprietari delle navi da demolire devono commettere la costruzione di nuovo naviglio per un tonnellaggio corrispondente ad almeno il 50 per cento di quello da demolire.
  La demolizione del naviglio vetusto e la commessa del nuovo naviglio devono essere ritenute conformi agli interessi della economia nazionale a giudizio del Ministro per la marina mercantile.
@@ -76,7 +76,7 @@ Il contributo di cui all'articolo 3 della presente legge e' concesso anche se il
 
 ### Art. 10.
 
-Per l'esecuzione della presente legge si applicano, in quanto compatibili, le disposizioni del Regolamento approvato con [regio decreto 13 aprile 1939, n. 1101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-13;1101), e successive modificazioni.
+Per l'esecuzione della presente legge si applicano, in quanto compatibili, le disposizioni del Regolamento approvato con [regio decreto 13 aprile 1939, n. 1101](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U1101.md), e successive modificazioni.
 
 ### Art. 11.
 

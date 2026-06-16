@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'[art. 25 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_25);
+Visto l'[art. 25 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Le promozioni ai gradi di primo capo tecnico e di capo disegnatore tecnico, nei ruoli tecnici del Ministero della marina, sono conferite, per un terzo dei posti, mediante esami di concorso per merito distinto, agli impiegati del grado 10° e 11°, e per gli altri due terzi, mediante esame di idoneita', agli impiegati del grado 10°, secondo le norme stabilite dall'[art. 21 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21). 
+Le promozioni ai gradi di primo capo tecnico e di capo disegnatore tecnico, nei ruoli tecnici del Ministero della marina, sono conferite, per un terzo dei posti, mediante esami di concorso per merito distinto, agli impiegati del grado 10° e 11°, e per gli altri due terzi, mediante esame di idoneita', agli impiegati del grado 10°, secondo le norme stabilite dall'[art. 21 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Con decreto del Ministro per la marina saranno stabilite le norme per gli esami.
 
@@ -42,7 +42,7 @@ Coloro, che nell'esame di concorso per merito distinto abbiano riportato punto n
 
 ## Art. 4.
 
-Qualora le norme per gli esami di cui al precedente art. 1 stabiliscano dei coefficienti di maggiorazione per le diverse materie, cosicche' nella prova orale sia necessario provvedere a votazioni parziali per ciascuna materia, non potra' essere dichiarato idoneo chi non ottenga nelle votazioni parziali almeno sei decimi, ferma restando la norma dell'[articolo 42 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_42), circa la votazione da raggiungere in complesso nella prova orale per superarla. 
+Qualora le norme per gli esami di cui al precedente art. 1 stabiliscano dei coefficienti di maggiorazione per le diverse materie, cosicche' nella prova orale sia necessario provvedere a votazioni parziali per ciascuna materia, non potra' essere dichiarato idoneo chi non ottenga nelle votazioni parziali almeno sei decimi, ferma restando la norma dell'[articolo 42 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), circa la votazione da raggiungere in complesso nella prova orale per superarla. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

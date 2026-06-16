@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[art. 189 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
+ Veduto l'[art. 189 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
  
- Riconosciuta la necessita' di conservare l'indennita' annua di cui alla tabella annessa al [R. decreto 27 settembre 1923, n. 2320](Riordinamento%20delle%20biblioteche%20pubbliche%20governative%20e%20nuova%20tabella%20del%20personale%20di%20ruolo%20addetto%20alle%20medesime.%20023U2320.md), per gli incarichi delle soprintendenze bibliografiche; 
+ Riconosciuta la necessita' di conservare l'indennita' annua di cui alla tabella annessa al [R. decreto 27 settembre 1923, n. 2320](../Regi%20decreti/Riordinamento%20delle%20biblioteche%20pubbliche%20governative%20e%20nuova%20tabella%20del%20personale%20di%20ruolo%20addetto%20alle%20medesime.%20023U2320.md), per gli incarichi delle soprintendenze bibliografiche; 
  
  Udito il Consiglio dei Ministri; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' conservata l'indennita' annua di cui alla tabella annessa al [R. decreto 27 settembre 1923, n. 2320](Riordinamento%20delle%20biblioteche%20pubbliche%20governative%20e%20nuova%20tabella%20del%20personale%20di%20ruolo%20addetto%20alle%20medesime.%20023U2320.md), per gli incarichi di soprintendenza bibliografica. 
+ E' conservata l'indennita' annua di cui alla tabella annessa al [R. decreto 27 settembre 1923, n. 2320](../Regi%20decreti/Riordinamento%20delle%20biblioteche%20pubbliche%20governative%20e%20nuova%20tabella%20del%20personale%20di%20ruolo%20addetto%20alle%20medesime.%20023U2320.md), per gli incarichi di soprintendenza bibliografica. 
  
  Il presente decreto che ha effetto dal 1° dicembre 1923, sara' presentato al Parlamento per la conversione in legge. 
  

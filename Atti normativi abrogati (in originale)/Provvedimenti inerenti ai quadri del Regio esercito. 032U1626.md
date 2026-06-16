@@ -362,7 +362,7 @@ CAPO VI.
 
 ### Art. 51.
 
-In deroga alle disposizioni contenute nell'[art. 11 del R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), che approva il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, i commissari di leva saranno tratti per concorso per titoli dai maggiori e dai capitani in servizio attivo permanente delle armi di fanteria e di cavalleria, sino a quando non risulteranno assorbite le eccedenze di organico esistenti in detti gradi nelle armi su menzionate, conseguenti alle promozioni effettuate ai gradi stessi in base al R. decreto-legge 2532 dell'8 novembre 1928.
+In deroga alle disposizioni contenute nell'[art. 11 del R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), che approva il testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, i commissari di leva saranno tratti per concorso per titoli dai maggiori e dai capitani in servizio attivo permanente delle armi di fanteria e di cavalleria, sino a quando non risulteranno assorbite le eccedenze di organico esistenti in detti gradi nelle armi su menzionate, conseguenti alle promozioni effettuate ai gradi stessi in base al R. decreto-legge 2532 dell'8 novembre 1928.
 
 ### Art. 52.
 
@@ -378,7 +378,7 @@ All'atto dell'assunzione in servizio i commissari di leva nominati in base al pr
 
 ### Art. 54.
 
-I commissari di leva nominati in base alla presente legge non sono assoggettati al periodo di esperimento della durata di un anno, di cui all'[art. 11 del R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md). 
+I commissari di leva nominati in base alla presente legge non sono assoggettati al periodo di esperimento della durata di un anno, di cui all'[art. 11 del R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md). 
  La loro nomina avviene con decreto Ministeriale.
 
 ### Art. 55.
@@ -388,7 +388,7 @@ I posti resisi vacanti nei ruoli delle armi di fanteria e di cavalleria in segui
 
 ### Art. 56.
 
-Rimangono immutate le disposizioni non in contrasto con la presente legge, contenute negli [articoli 11](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), [12](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md) e [13 del R. decreto 23 febbraio 1928, n. 327](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md).
+Rimangono immutate le disposizioni non in contrasto con la presente legge, contenute negli [articoli 11](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md), [12](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md) e [13 del R. decreto 23 febbraio 1928, n. 327](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20028U0327.md).
 
 ## Modificazioni alla legge 11 marzo 1926, n. 398.
 

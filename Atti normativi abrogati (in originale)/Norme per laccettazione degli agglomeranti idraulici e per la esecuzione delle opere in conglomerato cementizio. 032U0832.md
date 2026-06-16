@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 luglio 1930, n. 1133](Norme%20per%20le%20prove%20daccettazione%20degli%20agglomeranti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20030U1133.md), che approva le prescrizioni per l'accettazione degli agglomeranti idraulici e per l'esecuzione di opere in conglomerato cementizio semplice e armato;
+Visto il [R. decreto 18 luglio 1930, n. 1133](../Regi%20decreti/Norme%20per%20le%20prove%20daccettazione%20degli%20agglomeranti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20030U1133.md), che approva le prescrizioni per l'accettazione degli agglomeranti idraulici e per l'esecuzione di opere in conglomerato cementizio semplice e armato;
 
 Ritenuta l'urgente necessita' di apportare al detto decreto alcune modificazioni per corrispondere a bisogni riscontratisi nella pratica applicazione delle dette prescrizioni;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro «Segretario ali Stato per i lavori pubblici,
 
 ## Art. 1.
 
-Il [R. decreto 18 luglio 1930, n. 1133](Norme%20per%20le%20prove%20daccettazione%20degli%20agglomeranti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20030U1133.md), e' abrogato.
+Il [R. decreto 18 luglio 1930, n. 1133](../Regi%20decreti/Norme%20per%20le%20prove%20daccettazione%20degli%20agglomeranti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20030U1133.md), e' abrogato.
 
 ## Art. 2.
 

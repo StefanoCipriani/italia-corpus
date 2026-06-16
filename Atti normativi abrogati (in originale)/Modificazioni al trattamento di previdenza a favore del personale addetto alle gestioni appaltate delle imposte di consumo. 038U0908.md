@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'art. 316 del regolamento per la riscossione delle imposte di consumo, approvato con [R. decreto 30 aprile 1936, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-04-30;1138);
+Visto l'art. 316 del regolamento per la riscossione delle imposte di consumo, approvato con [R. decreto 30 aprile 1936, n. 1138](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20delle%20imposte%20di%20consumo.%20036U1138.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di c
 
 ## Art. 1.
 
-Al fondo di previdenza, istituito ai sensi dell'art. 316 del regolamento approvato con [R. decreto 30 aprile 1936, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-04-30;1138), e' iscritto il personale addetto alle gestioni delle imposte di consumo che non sia di nomina comunale. 
+Al fondo di previdenza, istituito ai sensi dell'art. 316 del regolamento approvato con [R. decreto 30 aprile 1936, n. 1138](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20delle%20imposte%20di%20consumo.%20036U1138.md), e' iscritto il personale addetto alle gestioni delle imposte di consumo che non sia di nomina comunale. 
  
  Il fondo ha lo scopo di provvedere a pensioni ed indennita' in caso di invalidita' o per anzianita' di servizio, ad un trattamento di previdenza in caso di morte, ed al pagamento delle indennita' di anzianita' di servizio, previste dal penultimo comma dell'[art. 10 del R. decreto-legge 13 novembre 1924, n. 1825](Disposizioni%20relative%20al%20contratto%20dimpiego%20privato.%20024U1825.md), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e dai contratti collettivi di lavoro.
 

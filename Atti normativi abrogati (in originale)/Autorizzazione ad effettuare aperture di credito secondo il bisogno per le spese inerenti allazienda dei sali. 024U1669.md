@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il [R. decreto 22 maggio 1924, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;786), che proroga l'applicazione di talune disposizioni del R. decreto predetto;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Articolo unico.
 
-Per le retribuzioni al personale operaio delle saline e per le spese di acquisto e di trasporto del sale, possono farsi, secondo il bisogno, a favore di funzionari delegati, aperture di credito oltre il limite fissato dagli [articoli 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56) e [284 del R. decreto 23 maggio 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;284), [n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827). 
+Per le retribuzioni al personale operaio delle saline e per le spese di acquisto e di trasporto del sale, possono farsi, secondo il bisogno, a favore di funzionari delegati, aperture di credito oltre il limite fissato dagli [articoli 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [284 del R. decreto 23 maggio 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;284), [n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

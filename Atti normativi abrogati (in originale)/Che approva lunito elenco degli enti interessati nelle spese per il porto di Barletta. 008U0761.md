@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 7 agosto 1887, n. 5053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-08-07;5053), col quale il porto di Barletta fu classificato nella seconda classe (2ª serie) della seconda categoria, e fu approvato l'elenco di riparto fra gli enti interessati in detto porto; Vista la deliberazione 5 dicembre 1903, con cui il Consiglio comunale di Foggia nel pronunziarsi sopra un nuovo elenco degli enti interessati nel porto di Manfredonia, nel quale era stato compreso, domando' di essere escluso dall'elenco degli enti interessati nel porto di Barletta, approvato con l'anzidetto R. decreto; 
+ Visto il [R. decreto 7 agosto 1887, n. 5053](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%201ª%20e%202ª%20categoria%20e%20nelle%20corrispondenti%20classi%20dei%20cinquanta%20porti%20indicati%20negli%20annessi%20elenchi.%20087U5053.md), col quale il porto di Barletta fu classificato nella seconda classe (2ª serie) della seconda categoria, e fu approvato l'elenco di riparto fra gli enti interessati in detto porto; Vista la deliberazione 5 dicembre 1903, con cui il Consiglio comunale di Foggia nel pronunziarsi sopra un nuovo elenco degli enti interessati nel porto di Manfredonia, nel quale era stato compreso, domando' di essere escluso dall'elenco degli enti interessati nel porto di Barletta, approvato con l'anzidetto R. decreto; 
  
  Ritenuto che essendo stata riconosciuta attendibile tale domanda, l'ufficio del genio civile di Bari ha proceduto alla compilazione di un nuovo elenco degli enti interessati nel porto di Barletta, in data 15 marzo 1907; 
  

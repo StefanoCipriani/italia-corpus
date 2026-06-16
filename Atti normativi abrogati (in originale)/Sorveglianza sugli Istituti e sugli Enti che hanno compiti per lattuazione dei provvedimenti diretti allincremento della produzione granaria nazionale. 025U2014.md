@@ -26,7 +26,7 @@ Otto funzionari del grado 6° del ruolo della carriera amministrativa dell'Ammin
 
 ## Art. 2.
 
-In dipendenza delle disposizioni di cui al precedente articolo, per la durata di anni sei, nel ruolo organico della carriera amministrativa dell'Amministrazione centrale del Ministero dell'economia nazionale, di cui alla tabella n. 80 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, sono aumentati otto posti nel grado 6°.
+In dipendenza delle disposizioni di cui al precedente articolo, per la durata di anni sei, nel ruolo organico della carriera amministrativa dell'Amministrazione centrale del Ministero dell'economia nazionale, di cui alla tabella n. 80 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, sono aumentati otto posti nel grado 6°.
 
 ## Art. 3.
 

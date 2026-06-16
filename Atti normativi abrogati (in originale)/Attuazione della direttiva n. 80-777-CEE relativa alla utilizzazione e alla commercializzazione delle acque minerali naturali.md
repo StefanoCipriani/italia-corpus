@@ -434,7 +434,7 @@ Nota redazionale
 
 1.
 
-I riconoscimenti delle acque minerali naturali in vendita alla data di entrata in vigore del presente decreto, ai sensi dell'[art. 199 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_199) e del [regio decreto 28 settembre 1919, n. 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1924), sono sottoposti a revisione entro trentasei mesi dall'entrata in vigore del presente decreto con le modalita' di cui all'art. 3. La domanda di revisione deve essere presentata entro tre mesi dalla data di entrata in vigore del presente decreto.
+I riconoscimenti delle acque minerali naturali in vendita alla data di entrata in vigore del presente decreto, ai sensi dell'[art. 199 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e del [regio decreto 28 settembre 1919, n. 1924](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20capo%20IV%20della%20legge%2016%20luglio%201916%20n.%20947%20contenente%20disposizioni%20circa%20le%20acque%20minerali%20e%20gli%20stabilimenti%20termali%20idroterapici%20di%20cure%20fi_6e4da07dc5ad.md), sono sottoposti a revisione entro trentasei mesi dall'entrata in vigore del presente decreto con le modalita' di cui all'art. 3. La domanda di revisione deve essere presentata entro tre mesi dalla data di entrata in vigore del presente decreto.
 
 2.
 

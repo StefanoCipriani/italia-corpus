@@ -40,7 +40,7 @@ Per tutto il periodo di tempo in cui avranno vigore le norme del precedente arti
 
 ## Art. 5.
 
-E' abrogata la disposizione del penultimo comma dell'articolo 143 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+E' abrogata la disposizione del penultimo comma dell'articolo 143 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
  La presente legge entra in vigore dall'anno accademico 1961-62.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

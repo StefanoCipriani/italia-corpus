@@ -240,7 +240,7 @@ Fino a quando non sia provveduto alle elezioni amministrative, e' facolta' del M
 
 ### Art. 32.
 
-I componenti i Consigli e i Comitati tributati sono tenuti al segreto di ufficio, a termine dell'[art. 326 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e sono passibili delle pene comminate dall'articolo medesimo. 
+I componenti i Consigli e i Comitati tributati sono tenuti al segreto di ufficio, a termine dell'[art. 326 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e sono passibili delle pene comminate dall'articolo medesimo. 
  
 Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello stato. 
  

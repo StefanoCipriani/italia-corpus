@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 20 ottobre 1935, n. 1850](Trasferimento%20al%20Ministero%20dellinterno%20del%20servizio%20relativo%20al%20soccorsi%20giornalieri%20alle%20famiglie%20bisognose%20dei%20militari%20richiamati%20o%20trattenuti%20alle%20armi.%20035U1850.md), sul trasferimento al Ministero dell'interno del servizio relativo ai detti soccorsi; 
  
- Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente l'amministrazione del patrimonio e la contabilita' generale dello Stata; 
+ Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente l'amministrazione del patrimonio e la contabilita' generale dello Stata; 
  
  In virtu' della facolta' concessa al Governo del Re col [R. decreto-legge 23 maggio 1935, n. 948](Facolta%20al%20Governo%20del%20Re%20di%20emanare%20disposizioni%20aventi%20vigore%20di%20legge%20per%20la%20difesa%20ed%20il%20riordinamento%20delle%20Colonie%20dellAfrica%20Orientale.%20035U0948.md); 
  

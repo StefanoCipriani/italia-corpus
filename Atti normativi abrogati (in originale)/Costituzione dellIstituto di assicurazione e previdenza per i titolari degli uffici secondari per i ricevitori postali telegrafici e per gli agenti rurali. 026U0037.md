@@ -34,7 +34,7 @@ L'Istituto provvede:
  
  a) alla rappresentanza ed all'amministrazione della Cassa mutua per le cauzioni dei titolari degli uffici secondari e dei ricevitori postali e telegrafici, istituita a decorrere dal 1° febbraio 1926; 
  
- b) alla rappresentanza ed all'amministrazione dell'Istituto nazionale degli orfani del personale delle ricevitorie postali e telegrafiche, riconosciuto col [R. decreto 22 luglio 1923, n. 1647](Erezione%20in%20ente%20morale%20dellIstituto%20nazionale%20per%20gli%20orfani%20del%20personale%20delle%20Regie%20ricevitorie%20postali%20e%20telegrafiche.%20023U1647.md), nonche' degli uffici secondari; 
+ b) alla rappresentanza ed all'amministrazione dell'Istituto nazionale degli orfani del personale delle ricevitorie postali e telegrafiche, riconosciuto col [R. decreto 22 luglio 1923, n. 1647](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellIstituto%20nazionale%20per%20gli%20orfani%20del%20personale%20delle%20Regie%20ricevitorie%20postali%20e%20telegrafiche.%20023U1647.md), nonche' degli uffici secondari; 
  
  c) all'assicurazione degli uffici postali e telegrafici contro i danni dell'incendio, del furto e della rapina, non dipendenti da forza maggiore o da dolo del personale degli uffici stessi e nei limiti di cui all'art. 13; 
  
@@ -310,7 +310,7 @@ In caso di cessazione dell'Istituto delle assicurazioni o dell'Istituto nazional
 
 ## Art. 31.
 
-Sono abrogati il [R. decreto 27 settembre 1923, n. 2225, gli articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;2225#art_1) e [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;2225#art_3) del [R. decreto-legge 28 dicembre 1924, n. 2293, l'art. 58](Modificazioni%20ai%20Regi%20decreti%20n.%202225%20del%2027%20settembre%201923%20e%20n.%201127%20del%2023%20maggio%201924%20concernenti%20le%20cauzioni%20dei%20ricevitori%20postali%20telegrafici%20telefonici.%20024U2293.md) del [R. decreto-legge 29 aprile 1925, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-29;988), ed ogni altra disposizione contraria al presente decreto. 
+Sono abrogati il [R. decreto 27 settembre 1923, n. 2225, gli articoli 1](../Regi%20decreti/Istituzione%20di%20una%20Cassa%20mutua%20per%20le%20cauzioni%20dei%20ricevitori%20postali-telegrafici.%20023U2225.md) e [3](../Regi%20decreti/Istituzione%20di%20una%20Cassa%20mutua%20per%20le%20cauzioni%20dei%20ricevitori%20postali-telegrafici.%20023U2225.md) del [R. decreto-legge 28 dicembre 1924, n. 2293, l'art. 58](Modificazioni%20ai%20Regi%20decreti%20n.%202225%20del%2027%20settembre%201923%20e%20n.%201127%20del%2023%20maggio%201924%20concernenti%20le%20cauzioni%20dei%20ricevitori%20postali%20telegrafici%20telefonici.%20024U2293.md) del [R. decreto-legge 29 aprile 1925, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-29;988), ed ogni altra disposizione contraria al presente decreto. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

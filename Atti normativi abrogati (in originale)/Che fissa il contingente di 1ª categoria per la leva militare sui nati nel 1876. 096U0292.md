@@ -14,7 +14,7 @@ Il contingente di 1ª categoria che dovra' essere somministrato dalla leva milit
 
 ## Art. 2.
 
-Dei predetti novantottomila uomini, quarantanovemila contrarranno la ferma di anni tre e gli altri quarantanovemila la ferma di anni due prevista dall'articolo 124 del testo unico delle leggi sul Reclutamento del Regio Esercito, approvato con [Regio decreto del 6 agosto 1888 n. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª).
+Dei predetti novantottomila uomini, quarantanovemila contrarranno la ferma di anni tre e gli altri quarantanovemila la ferma di anni due prevista dall'articolo 124 del testo unico delle leggi sul Reclutamento del Regio Esercito, approvato con [Regio decreto del 6 agosto 1888 n. 5655](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª).
 
 ## Art. 3.
 

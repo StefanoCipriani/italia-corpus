@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e le successive modificazioni;
+Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e le successive modificazioni;
 
 Visti i [Regi decreti 4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627), e [11 settembre 1925, n. 1717](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-11;1717), convertiti in [legge (18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md));
 

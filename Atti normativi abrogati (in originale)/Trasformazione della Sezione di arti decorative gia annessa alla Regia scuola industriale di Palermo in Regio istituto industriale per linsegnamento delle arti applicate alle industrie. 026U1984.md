@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 21 maggio 1924, n. 1200, art. 5](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md), [1](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md)°comma;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523);
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md);
 
 Visto l'art. 8, 1° comma, del decreto predetto e l'art. 4, 2° comma, del regolamento approvato con [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
 

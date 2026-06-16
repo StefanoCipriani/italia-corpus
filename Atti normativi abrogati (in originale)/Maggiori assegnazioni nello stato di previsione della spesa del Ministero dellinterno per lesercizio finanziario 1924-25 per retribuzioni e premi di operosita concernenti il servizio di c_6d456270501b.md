@@ -26,11 +26,11 @@ VITTORIO EMANUELE III
  
  Nello stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1924-25 sono introdotte le seguenti variazioni: 
  
- Cap. n. 2 (modificata la denominazione - Retribuzioni per il servizio di copia agli scrivani assunti a' sensi del [R. decreto 15 luglio 1923, n. 1794](Autorizzazione%20al%20Ministro%20dellinterno%20ad%20assumere%20per%20servizio%20di%20copia%20persone%20a%20ferma%20temporanea%20nel%20numero%20massimo%20di%20duecento.%20023U1794.md) . . . + L. 170,000 
+ Cap. n. 2 (modificata la denominazione - Retribuzioni per il servizio di copia agli scrivani assunti a' sensi del [R. decreto 15 luglio 1923, n. 1794](../Regi%20decreti/Autorizzazione%20al%20Ministro%20dellinterno%20ad%20assumere%20per%20servizio%20di%20copia%20persone%20a%20ferma%20temporanea%20nel%20numero%20massimo%20di%20duecento.%20023U1794.md) . . . + L. 170,000 
  
  Cap. n. 2-bis (di nuova istituzione) - Premi di operosita' agli impiegati di ruolo appartenenti al Gruppo C dell'Amministrazione dell'interno, per il servizio di copia dagli stessi disimpegnato oltre il normale orario di ufficio + » 80.000 
  
- I premi di cui al precedente capitolo n. 2-bis saranno corrisposti con l'osservanza delle disposizioni degli [articoli 4](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md) e [5 del R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md). 
+ I premi di cui al precedente capitolo n. 2-bis saranno corrisposti con l'osservanza delle disposizioni degli [articoli 4](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md) e [5 del R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md). 
  
  Questo decreto sara' presentato al Parlamento per essere convertito in legge ed andra' in vigore il giorno stesso della sua pubblicazione. 
  

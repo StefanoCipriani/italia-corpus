@@ -177,7 +177,7 @@ La vigilanza ed il controllo sugli stabilimenti di stagionatura e di assaggio de
 
 ### Art. 14.
 
-Gli stabilimenti di stagionatura e di assaggio delle sete che intendano funzionare come magazzini generali sono altresi' soggetti alle disposizioni del [R. decreto-legge 1° luglio 1926 n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;2290), convertito in legge con la [legge 9 giugno 1927, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-09;1138), e del relativo regolamento approvato con [R. decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126), nonche' della [legge 12 maggio 1930, n.685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-12;685).
+Gli stabilimenti di stagionatura e di assaggio delle sete che intendano funzionare come magazzini generali sono altresi' soggetti alle disposizioni del [R. decreto-legge 1° luglio 1926 n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;2290), convertito in legge con la [legge 9 giugno 1927, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-09;1138), e del relativo regolamento approvato con [R. decreto 16 gennaio 1927, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali%20e%20lapplicazione%20delle%20discipline%20doganali%20ai%20predetti%20Magazzini%20generali.%20027U0126.md), nonche' della [legge 12 maggio 1930, n.685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-12;685).
 
 ### Art. 15.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), con il quale sono state approvate le norme per la disciplina delle requisizioni e successive aggiunte e modificazioni, Visti il [decreto legislativo 6 settembre 1946, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-06;86), ed il [decreto legislativo 23 dicembre 1946, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-23;533), concernente norme sulle anzidette requisizioni;
+Visto il [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), con il quale sono state approvate le norme per la disciplina delle requisizioni e successive aggiunte e modificazioni, Visti il [decreto legislativo 6 settembre 1946, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-06;86), ed il [decreto legislativo 23 dicembre 1946, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-12-23;533), concernente norme sulle anzidette requisizioni;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -20,13 +20,13 @@ Vista la deliberazione del Consiglio dei Ministri, Sulla proposta del Presidente
 
 ## Art. 1.
 
-L'efficacia delle requisizioni disposte in applicazione delle norme approvate con il [regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), cessera' con il 31 maggio 1947.
+L'efficacia delle requisizioni disposte in applicazione delle norme approvate con il [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), cessera' con il 31 maggio 1947.
  Tuttavia, qualora ricorrano motivi di assoluta necessita' determinati da ragioni di pubblico interesse, il Presidente del Consiglio dei Ministri, su richiesta delle Amministrazioni interessate o dei Prefetti, potra' entro il termine indicato nel comma precedente disporre la proroga della efficacia delle requisizioni ivi previste.
  Tale proroga non potra', comunque, durare oltre il 31 agosto 1947.
 
 ## Art. 2.
 
-Contro provvedimenti di proroga di cui all'art. 1 e' dato ricorso nelle forme e nei modi previsti dalle norme, approvate con il [regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md).
+Contro provvedimenti di proroga di cui all'art. 1 e' dato ricorso nelle forme e nei modi previsti dalle norme, approvate con il [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md).
 
 ## Art. 3.
 

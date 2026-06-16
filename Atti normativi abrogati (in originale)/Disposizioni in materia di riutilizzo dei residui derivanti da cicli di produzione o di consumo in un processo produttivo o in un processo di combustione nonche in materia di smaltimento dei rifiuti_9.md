@@ -441,7 +441,7 @@ Per le attivita' di cui al comma 1, le autorizzazioni rilasciate ai sensi del [d
 
 6.
 
-Il [decreto del Presidente della Repubblica 9 maggio 1994, n. 407](../DPR/Regolamento%20recante%20modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20aprile%201992%20n.%20300%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20_f88bd2527513.md), non si applica alle domande di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti.
+Il [decreto del Presidente della Repubblica 9 maggio 1994, n. 407](../Regolamenti%20governativi/Regolamento%20recante%20modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20aprile%201992%20n.%20300%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20_f88bd2527513.md), non si applica alle domande di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti.
 
 7.
 
@@ -506,7 +506,7 @@ Le attivita' avviate o mantenute in esercizio nel rispetto delle norme dei [decr
 
 1.
 
-Le somme disponibili in conto residui per l'anno 1994 sul capitolo 2558 dello stato di previsione del Ministero dell'ambiente e sul capitolo 7911 dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato, non impegnate entro il medesimo anno possono esserlo nell'anno successivo. Per i residui dei capitoli 2556, 7603, 8001 e 8002 dello stato di previsione del Ministero dell'ambiente non operano, fino al 31 dicembre 1995, le disposizioni di cui all'[articolo 36, primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com1) e [terzo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com3), e successive modifiche ed integrazioni.
+Le somme disponibili in conto residui per l'anno 1994 sul capitolo 2558 dello stato di previsione del Ministero dell'ambiente e sul capitolo 7911 dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato, non impegnate entro il medesimo anno possono esserlo nell'anno successivo. Per i residui dei capitoli 2556, 7603, 8001 e 8002 dello stato di previsione del Ministero dell'ambiente non operano, fino al 31 dicembre 1995, le disposizioni di cui all'[articolo 36, primo](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [terzo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modifiche ed integrazioni.
 
 2.
 

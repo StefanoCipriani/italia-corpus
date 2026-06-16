@@ -64,7 +64,7 @@ Il Prefetto, previo deposito da parte del fabbricante delle somme occorrenti, fa
  
  e) ambienti eventualmente destinati a contenere gli apparecchi di produzione di vapore distinti da quelli di lavorazione. 
  
- I macelli, eventualmente annessi alle fabbriche di estratti di carne e brodi concentrati e dadi, debbono corrispondere ai requisiti voluti dal [R. decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298).
+ I macelli, eventualmente annessi alle fabbriche di estratti di carne e brodi concentrati e dadi, debbono corrispondere ai requisiti voluti dal [R. decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md).
 
 ### Art. 4.
 
@@ -74,7 +74,7 @@ Il Prefetto, sentito il parere della Commissione, autorizza l'apertura e l'eserc
 
 ### Art. 5.
 
-Al personale impiegato negli stabilimenti per la preparazione, manipolazione e confezionamento dei prodotti, contemplati dal presente decreto, si applica la disposizione contenuta nell'[articolo 262 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_262), approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+Al personale impiegato negli stabilimenti per la preparazione, manipolazione e confezionamento dei prodotti, contemplati dal presente decreto, si applica la disposizione contenuta nell'[articolo 262 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 ### Art. 6.
 

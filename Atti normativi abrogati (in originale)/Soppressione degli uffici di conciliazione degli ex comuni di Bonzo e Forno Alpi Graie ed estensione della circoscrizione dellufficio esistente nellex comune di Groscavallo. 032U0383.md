@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 1° dicembre 1927, n. 2346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-01;2346), col quale i comuni di Bonzo, Forno Alpi Graie e Groscavallo venivano riuniti in un solo comune denominato Groscavallo; 
+ Visto il [R. decreto 1° dicembre 1927, n. 2346](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bonzo%20Forno%20Alpi%20Graie%20e%20Groscavallo%20in%20un%20unico%20Comune%20denominato%20Groscavallo.%20027U2346.md), col quale i comuni di Bonzo, Forno Alpi Graie e Groscavallo venivano riuniti in un solo comune denominato Groscavallo; 
  Vista la deliberazione del 27 giugno 1931 di detto comune di Groscavallo con la quale si chiede che per tutto il territorio del comune di Groscavallo funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

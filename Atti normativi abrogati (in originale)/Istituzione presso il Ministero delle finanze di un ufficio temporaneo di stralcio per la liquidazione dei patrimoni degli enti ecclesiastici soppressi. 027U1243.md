@@ -50,7 +50,7 @@ L'Ufficio di stralcio dovra' esaurire ogni suo compito non oltre il 30 giugno 19
 
 ## Art. 4.
 
-Le spese di amministrazione e di funzionamento dell'Ufficio di stralcio saranno dal Demanio prelevate dalla fruttificazione del fondo speciale di rendita costituito in virtu' del [R. decreto 21 dicembre 1922, n. 1689](Che%20approva%20latto%20di%20transazione%20stipulato%20il%2020%20maggio%201922%20fra%20il%20Demanio%20dello%20Stato%20e%20lAmministrazione%20del%20fondo%20per%20il%20culto%20per%20la%20sistemazione%20dei%20loro%20rapporti%20contabili%20dipendent_7d95e292b713.md). 
+Le spese di amministrazione e di funzionamento dell'Ufficio di stralcio saranno dal Demanio prelevate dalla fruttificazione del fondo speciale di rendita costituito in virtu' del [R. decreto 21 dicembre 1922, n. 1689](../Regi%20decreti/Che%20approva%20latto%20di%20transazione%20stipulato%20il%2020%20maggio%201922%20fra%20il%20Demanio%20dello%20Stato%20e%20lAmministrazione%20del%20fondo%20per%20il%20culto%20per%20la%20sistemazione%20dei%20loro%20rapporti%20contabili%20dipendent_7d95e292b713.md). 
  
  Il presento decreto avra' vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

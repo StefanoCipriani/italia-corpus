@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-La realizzazione di opere di sbarramento che superano i 15 metri di altezza o che determinano un volume d'invaso superiore a 1.000.000 di metri cubi, di seguito denominate dighe, e' soggetta, oltre che alla concessione per la derivazione e la utilizzazione dell'acqua pubblica, in quanto necessaria ai sensi del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive modificazioni, all'approvazione tecnica del progetto. Sono altresi' da sottoporre alla medesima approvazione i progetti di tutte le dighe le cui onde di piena a seguito di manovre volontarie degli organi di scarico, ovvero di ipotetico collasso della diga possono provocare esondazioni tali da investire territori appartenenti a piu' regioni.
+La realizzazione di opere di sbarramento che superano i 15 metri di altezza o che determinano un volume d'invaso superiore a 1.000.000 di metri cubi, di seguito denominate dighe, e' soggetta, oltre che alla concessione per la derivazione e la utilizzazione dell'acqua pubblica, in quanto necessaria ai sensi del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive modificazioni, all'approvazione tecnica del progetto. Sono altresi' da sottoporre alla medesima approvazione i progetti di tutte le dighe le cui onde di piena a seguito di manovre volontarie degli organi di scarico, ovvero di ipotetico collasso della diga possono provocare esondazioni tali da investire territori appartenenti a piu' regioni.
 
 2.
 
@@ -36,7 +36,7 @@ Il [comma 3 dell'articolo 10 della legge 18 maggio 1989, n. 183](Norme%20per%20i
 3.
 
 Il [comma 4 dell'articolo 10 della legge 18 maggio 1989, n. 183](Norme%20per%20il%20riassetto%20organizzativo%20e%20funzionale%20della%20difesa%20del%20suolo.md), e' sostituito dal seguente: 
- " 4. Rientrano nella competenza delle regioni a statuto ordinario e a statuto speciale e delle province autonome di Trento e di Bolzano le attribuzioni di cui al [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), per gli sbarramenti che non superano i 15 metri di altezza e che determinano un invaso non superiore a 1.000.000 di metri cubi, ad eccezione degli sbarramenti al servizio di grandi derivazioni di acqua di competenza statale.".
+ " 4. Rientrano nella competenza delle regioni a statuto ordinario e a statuto speciale e delle province autonome di Trento e di Bolzano le attribuzioni di cui al [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), per gli sbarramenti che non superano i 15 metri di altezza e che determinano un invaso non superiore a 1.000.000 di metri cubi, ad eccezione degli sbarramenti al servizio di grandi derivazioni di acqua di competenza statale.".
 
 4.
 
@@ -86,7 +86,7 @@ Entro sei mesi dalla data di entrata in vigore del presente decreto, e' emanato,
 
 2.
 
-Fino alla data di entrata in vigore del regolamento di cui al comma 1, continuano ad avere applicazione il regolamento approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), e le disposizioni tecniche ed amministrative emanate sulla base di questo, salve le innovazioni apportate dalla legislazione successiva quanto al riparto di attribuzioni fra gli uffici statali e regionali.
+Fino alla data di entrata in vigore del regolamento di cui al comma 1, continuano ad avere applicazione il regolamento approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), e le disposizioni tecniche ed amministrative emanate sulla base di questo, salve le innovazioni apportate dalla legislazione successiva quanto al riparto di attribuzioni fra gli uffici statali e regionali.
 Nei casi di minore importanza il Servizio nazionale dighe puo' consentire l'applicazione parziale delle norme suddette.
 
 ## Art. 3.
@@ -105,7 +105,7 @@ Per le dighe di cui al comma 1, qualora non sia possibile determinare la quota d
 
 4.
 
-La domanda di approvazione in sanatoria deve essere presentata o inviata, nei modi previsti dall'[articolo 5 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), agli uffici periferici competenti per territorio del Servizio nazionale dighe, ovvero, ove questi ultimi non siano stati ancora insediati, agli uffici periferici del Ministero dei lavori pubblici, corredata della seguente documentazione, a firma, per quanto di rispettiva competenza, di ingegneri e geologi iscritti ai relativi albi professionali:
+La domanda di approvazione in sanatoria deve essere presentata o inviata, nei modi previsti dall'[articolo 5 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), agli uffici periferici competenti per territorio del Servizio nazionale dighe, ovvero, ove questi ultimi non siano stati ancora insediati, agli uffici periferici del Ministero dei lavori pubblici, corredata della seguente documentazione, a firma, per quanto di rispettiva competenza, di ingegneri e geologi iscritti ai relativi albi professionali:
                         a)
                             relazione tecnica generale che riporti: i dati caratteristici della diga, delle opere accessorie e del serbatoio; volume d'invaso e modalita' di valutazione dello stesso; l'indicazione delle vie di accesso; i sistemi di allarme e di comunicazione installati; le fonti di energia per la manovra degli organi di intercettazione degli scarichi; le modalita' di vigilanza e controllo;
                         b)
@@ -163,13 +163,13 @@ Chiunque non adempia alle prescrizioni di cui all'articolo 3, comma 5, ovvero de
 
 5.
 
-L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 
 1.
 
-All'[articolo 24 del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md), sono soppressi il comma 1, lettera a), ed il comma 4. Al comma 3, lettera a), dello stesso articolo sono altresi' soppresse le parole: "valuta altresi', ai sensi dell'articolo 10 della legge, l'attendibilita' delle previsioni di spesa in rapporto alle soluzioni tecniche proposte;".
+All'[articolo 24 del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../Regolamenti%20governativi/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md), sono soppressi il comma 1, lettera a), ed il comma 4. Al comma 3, lettera a), dello stesso articolo sono altresi' soppresse le parole: "valuta altresi', ai sensi dell'articolo 10 della legge, l'attendibilita' delle previsioni di spesa in rapporto alle soluzioni tecniche proposte;".
 
 ## Art. 6.
 

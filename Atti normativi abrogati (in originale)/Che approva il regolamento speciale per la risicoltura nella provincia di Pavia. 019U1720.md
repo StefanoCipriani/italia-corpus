@@ -26,13 +26,13 @@ VITTORIO EMANUELE III
  
  Sentito il Consiglio dei ministri; 
  
- Veduto il titolo IV del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636, contenente le disposizioni aula risicoltura ed i regolamenti generale e speciale per l'esecuzione di dette disposizioni approvati con i RR. decreti 29 marzo 1908, n. 157, e 5 gennaio 1911, n. 41; 
+ Veduto il titolo IV del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, contenente le disposizioni aula risicoltura ed i regolamenti generale e speciale per l'esecuzione di dette disposizioni approvati con i RR. decreti 29 marzo 1908, n. 157, e 5 gennaio 1911, n. 41; 
  
  Su proposta del Nostro ministro segretario di stato per gli affari dell'interno, presidente del Consiglio dei ministri, di concerto coi Nostri ministri, segretari di Stato per l'industria, il commercio e il lavoro e per la agricoltura; 
  
  Abbiamo decretato e decretiamo: 
  
- E' approvato il nuovo regolamento per la risicoltura in provincia di Pavia, deliberato dal Consiglio provinciale di detta Provincia con le notifiche introdottovi ai sensi dell'[articolo 74 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_74) e risultanti dall'esemplare che, vidimato e sottoscritto, d'ordine Nostro, dai ministri proponenti, costituisce parte integrante del presente decreto. 
+ E' approvato il nuovo regolamento per la risicoltura in provincia di Pavia, deliberato dal Consiglio provinciale di detta Provincia con le notifiche introdottovi ai sensi dell'[articolo 74 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e risultanti dall'esemplare che, vidimato e sottoscritto, d'ordine Nostro, dai ministri proponenti, costituisce parte integrante del presente decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

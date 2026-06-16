@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 28 settembre 1933, n. 2062](Trasformazione%20del%20Regio%20laboratorio-scuola%20per%20fabbri%20e%20falegnami%20di%20Pola%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2062.md), che approva lo statuto e la tabella organica della Scuola tecnica industriale governativa di Pola;
+Visto il [regio decreto 28 settembre 1933, n. 2062](../Regi%20decreti/Trasformazione%20del%20Regio%20laboratorio-scuola%20per%20fabbri%20e%20falegnami%20di%20Pola%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2062.md), che approva lo statuto e la tabella organica della Scuola tecnica industriale governativa di Pola;
 
 Visto il regio decreto 24: luglio 1938, n. 1742, riguardante la tabella organica della Scuola stessa;
 
-Visto il [regio decreto 24 agosto 1933, n. 2192](Trasformazione%20del%20Regio%20istituto%20nazionale%20di%20istruzione%20professionale%20di%20Roma%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2192.md), che approva lo statuto e la tabella organica dell'istituto tecnico industriale governativo "G.Galilei" di Roma e dell'annessa scuola tecnica industriale;
+Visto il [regio decreto 24 agosto 1933, n. 2192](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20nazionale%20di%20istruzione%20professionale%20di%20Roma%20in%20Regio%20istituto%20tecnico%20industriale.%20033U2192.md), che approva lo statuto e la tabella organica dell'istituto tecnico industriale governativo "G.Galilei" di Roma e dell'annessa scuola tecnica industriale;
 
-Vista la tabella organica del predetto istituto allegata al [regio decreto 1° luglio 1940, n. 1159](Modificazione%20della%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Roma.%20040U1159.md);
+Vista la tabella organica del predetto istituto allegata al [regio decreto 1° luglio 1940, n. 1159](../Regi%20decreti/Modificazione%20della%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Roma.%20040U1159.md);
 
-Vista la tabella D allegata al [regio decreto 21 giugno 1942, n. 970](Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md), relativa alla sezione costruttori aeronautici istituita presso l'Istituto stesso;
+Vista la tabella D allegata al [regio decreto 21 giugno 1942, n. 970](../Regi%20decreti/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md), relativa alla sezione costruttori aeronautici istituita presso l'Istituto stesso;
 
 Ritenuto che occorre regolarizzare formalmente le modifiche apportate all'ordinamento ed alle piante organiche della Scuola tecnica industriale governativa di Pola ed all'Istituto tecnico industriale "G. Galilei" di Roma, modifiche gia' in atto dal 1° ottobre 1944;
 
@@ -29,7 +29,7 @@ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di c
 ## Art. 1.
 
 A decorrere dall'anno scolastico 1944-45 e' soppressa la specializzazione per falegnami ebanisti esistente presso la Scuola tecnica industriale governativa di Pola.
- Di conseguenza viene soppresso il posto di insegnamento per incarico di tecnologia - disegno professionale (per falegnami ebanisti) previsto dal [regio decreto 24 luglio 1938, n. 1742](Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md) e quello di capofficina falegname di ruolo (gruppo B, gradi dall'11° al 10° contemplato dalla tabella organica annessa al [regio decreto 28 settembre 1933, n. 2062](Trasformazione%20del%20Regio%20laboratorio-scuola%20per%20fabbri%20e%20falegnami%20di%20Pola%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2062.md).
+ Di conseguenza viene soppresso il posto di insegnamento per incarico di tecnologia - disegno professionale (per falegnami ebanisti) previsto dal [regio decreto 24 luglio 1938, n. 1742](../Regi%20decreti/Modificazioni%20agli%20statuti%20e%20tabelle%20organiche%20di%20n.%2022%20Regie%20scuole%20tecniche%20a%20indirizzo%20commerciale.%20038U1742.md) e quello di capofficina falegname di ruolo (gruppo B, gradi dall'11° al 10° contemplato dalla tabella organica annessa al [regio decreto 28 settembre 1933, n. 2062](../Regi%20decreti/Trasformazione%20del%20Regio%20laboratorio-scuola%20per%20fabbri%20e%20falegnami%20di%20Pola%20in%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano.%20033U2062.md).
 
 ## Art. 2.
 

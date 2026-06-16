@@ -36,7 +36,7 @@ Con decreto del Ministro per le finanze saranno stabiliti il giorno dal quale ce
 
 ## Art. 4.
 
-Chiunque faccia incetta di monete di argento di conio nazionale incorre nelle pene comminate dall'[art. 501 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque faccia incetta di monete di argento di conio nazionale incorre nelle pene comminate dall'[art. 501 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Chiunque, trascorso il periodo assegnato per il cambio, sara' trovato in possesso di monete d'argento di conio nazionale, sara' passibile dell'ammenda da L. 100 a L. 2000.
 

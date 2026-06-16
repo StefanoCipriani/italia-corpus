@@ -30,7 +30,7 @@ L'Ufficio dell'asse ecclesiastico di Viterbo e' soppresso ed i relativi servizi 
 
 ## Art. 4.
 
-Ai sensi e per gli effetti del penultimo comma dell'articolo 25 del regolamento per il personale delle tasse sugli affari approvato con [Regio decreto in data 18 marzo 1909, n. 158](Che%20approva%20lannesso%20regolamento%20per%20lorganizzazione%20degli%20uffici%20esecutivi%20dipendenti%20dallAmministrazione%20delle%20tasse%20sugli%20affari.%20009U0158.md), la media delle riscossioni degli Uffici infradescritti viene determinata come segue: 
+Ai sensi e per gli effetti del penultimo comma dell'articolo 25 del regolamento per il personale delle tasse sugli affari approvato con [Regio decreto in data 18 marzo 1909, n. 158](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lorganizzazione%20degli%20uffici%20esecutivi%20dipendenti%20dallAmministrazione%20delle%20tasse%20sugli%20affari.%20009U0158.md), la media delle riscossioni degli Uffici infradescritti viene determinata come segue: 
  
  per l'Ufficio degli affitti e delle assicurazioni di Roma in via presuntiva di L. 1,195,000; 
  

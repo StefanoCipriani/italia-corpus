@@ -20,9 +20,9 @@ Vista la [legge 13 giugno 1935, n. 1116](https://www.normattiva.it/uri-res/N2Ls?
 
 Vista la [legge 22 dicembre 1939, n. 2185](Norme%20sulla%20reintegrazione%20nel%20grado%20perduto%20dagli%20ufficiali%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato%20in%20seguito%20a%20procedimento%20disciplinare.%20039U2185.md);
 
-Visto il [R. decreto 26 ottobre 1940, n. 1809](Norme%20esecutive%20della%20legge%2022%20dicembre%20l939-XVIII%20n.%202185%20riguardante%20la%20reintegrazione%20nel%20grado%20perduto%20dagli%20ufficiali%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stat_2fae444152e9.md);
+Visto il [R. decreto 26 ottobre 1940, n. 1809](../Regi%20decreti/Norme%20esecutive%20della%20legge%2022%20dicembre%20l939-XVIII%20n.%202185%20riguardante%20la%20reintegrazione%20nel%20grado%20perduto%20dagli%20ufficiali%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stat_2fae444152e9.md);
 
-Visto il [R. decreto 16 dicembre 1941, n. 1633](Modificazione%20dellart.%205%20del%20R.%20decreto-legge%2026%20ottobre%201940-XVIII%20n.%201809%20contenente%20norme%20per%20lesecuzione%20della%20legge%2022%20dicembre%201939-XVIII%20n.%202185%20sulla%20reintegrazione%20nel%20grado%20perd_66fd3d0de049.md);
+Visto il [R. decreto 16 dicembre 1941, n. 1633](../Regi%20decreti/Modificazione%20dellart.%205%20del%20R.%20decreto-legge%2026%20ottobre%201940-XVIII%20n.%201809%20contenente%20norme%20per%20lesecuzione%20della%20legge%2022%20dicembre%201939-XVIII%20n.%202185%20sulla%20reintegrazione%20nel%20grado%20perd_66fd3d0de049.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -48,7 +48,7 @@ La reintegrazione concessa ai sensi degli articoli precedenti decorre dalla data
 
 ## Art. 4.
 
-Si applicano, in quanto non contrastanti con il presente decreto, le norme contenute nella [legge 13 giugno 1935, n. 1116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1116), nella [legge 22 dicembre 1939, n. 2185](Norme%20sulla%20reintegrazione%20nel%20grado%20perduto%20dagli%20ufficiali%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato%20in%20seguito%20a%20procedimento%20disciplinare.%20039U2185.md), e nel [R. decreto 26 ottobre 1940, n. 1809](Norme%20esecutive%20della%20legge%2022%20dicembre%20l939-XVIII%20n.%202185%20riguardante%20la%20reintegrazione%20nel%20grado%20perduto%20dagli%20ufficiali%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stat_2fae444152e9.md).
+Si applicano, in quanto non contrastanti con il presente decreto, le norme contenute nella [legge 13 giugno 1935, n. 1116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-06-13;1116), nella [legge 22 dicembre 1939, n. 2185](Norme%20sulla%20reintegrazione%20nel%20grado%20perduto%20dagli%20ufficiali%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stato%20in%20seguito%20a%20procedimento%20disciplinare.%20039U2185.md), e nel [R. decreto 26 ottobre 1940, n. 1809](../Regi%20decreti/Norme%20esecutive%20della%20legge%2022%20dicembre%20l939-XVIII%20n.%202185%20riguardante%20la%20reintegrazione%20nel%20grado%20perduto%20dagli%20ufficiali%20sottufficiali%20e%20militari%20di%20truppa%20delle%20Forze%20armate%20dello%20Stat_2fae444152e9.md).
 
 ## Art. 5.
 

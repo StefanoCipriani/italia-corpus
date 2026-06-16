@@ -20,9 +20,9 @@ Visto il [R. decreto 10 febbraio 1927, n. 443](Approvazione%20del%20regolamento%
 
 Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
 
-Visto il [R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726), sull'ordinamento delle scuole militari;
+Visto il [R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), sull'ordinamento delle scuole militari;
 
-Visto il [R. decreto 29 giugno 1933, n. 944](Modificazioni%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20Scuole%20militari.%20033U0944.md), che apporta modificazioni al cennato [R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726);
+Visto il [R. decreto 29 giugno 1933, n. 944](Modificazioni%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20Scuole%20militari.%20033U0944.md), che apporta modificazioni al cennato [R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al [comma 2° dell'art. 18 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726#art_18-com2), e' aggiunta la seguente lettera d): 
+Al [comma 2° dell'art. 18 del R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), e' aggiunta la seguente lettera d): 
  
  «d) ai figli di sottufficiali di carriera in servizio o a riposo del Regio esercito, della Regia marina, della Regia aeronautica, della Regia guardia di finanza, di sottufficiali della Milizia volontaria per la sicurezza nazionale in servizio permanente effettivo».
 

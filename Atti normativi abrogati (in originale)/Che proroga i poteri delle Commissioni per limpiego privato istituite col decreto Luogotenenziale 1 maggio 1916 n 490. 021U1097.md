@@ -20,7 +20,7 @@ Veduti i [decreti Luogotenenziali 2 settembre 1917, n. 1448](https://www.normatt
 
 Veduto il [decreto-legge 9 febbraio 1919, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-02-09;112), sul contratto d'impiego privato;
 
-Veduto il [R. decreto 28 aprile 1921, n. 645](Che%20proroga%20i%20poteri%20delle%20Commissioni%20arbitrali%20provinciali%20e%20della%20Commissione%20centrale%20per%20limpiego%20privato%20instituite%20col%20decreto%20Luogotenenziale%201%20maggio%201916%20n.%20490.%20021U0645.md), col quale sono stati prorogati, sino a tutto il 30 luglio 1921, i poteri delle Commissioni arbitrali provinciali e della Commissione centrale per l'impiego privato istituite dal citato [decreto Luogotenenziale 1° maggio 1916, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-01;490);
+Veduto il [R. decreto 28 aprile 1921, n. 645](../Regi%20decreti/Che%20proroga%20i%20poteri%20delle%20Commissioni%20arbitrali%20provinciali%20e%20della%20Commissione%20centrale%20per%20limpiego%20privato%20instituite%20col%20decreto%20Luogotenenziale%201%20maggio%201916%20n.%20490.%20021U0645.md), col quale sono stati prorogati, sino a tutto il 30 luglio 1921, i poteri delle Commissioni arbitrali provinciali e della Commissione centrale per l'impiego privato istituite dal citato [decreto Luogotenenziale 1° maggio 1916, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-01;490);
 
 Sulla proposta del Nostro ministro segretario di Stato per il lavoro e la previdenza sociale, di concerto col presidente del Consiglio dei ministri, ministro dell'interno, e con i ministri per la giustizia e gli affari di culto e delle finanze;
 

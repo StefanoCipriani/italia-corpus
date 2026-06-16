@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 67 del regolamento per la carriera degli impiegati dell'Amministrazione delle carceri e dei RR. riformatori, approvato con [R. decreto 15 luglio 1909, n. 541](Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md); 
+ Visto l'art. 67 del regolamento per la carriera degli impiegati dell'Amministrazione delle carceri e dei RR. riformatori, approvato con [R. decreto 15 luglio 1909, n. 541](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md); 
  
  Vista la tabella B annessa al regolamento predetto, nella quale sono elencate le localita' dove manca l'alloggio in natura pei funzionari indicati nel succitato articolo e stabilite le indennita' da corrispondersi ai medesimi, in luogo dell'alloggio, cui hanno diritto. 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato o decretiamo: 
  
- Alle localita' indicate nella categoria seconda della tabella B, annessa al regolamento approvato con [Regio decreto 15 luglio 1909, n. 541](Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md), sono aggiunte quelle di «Oneglia», «Udine» e «Verona» ed alle localita' indicate nella categoria ottava e' aggiunta quella di «Montesarchio». 
+ Alle localita' indicate nella categoria seconda della tabella B, annessa al regolamento approvato con [Regio decreto 15 luglio 1909, n. 541](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md), sono aggiunte quelle di «Oneglia», «Udine» e «Verona» ed alle localita' indicate nella categoria ottava e' aggiunta quella di «Montesarchio». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

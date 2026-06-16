@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'ind
 
 ## Articolo unico.
 
-All'art. 2 delle norme predette, approvate con [R. decreto 5 luglio 1910, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-05;383), e' sostituito il seguente articolo: 
+All'art. 2 delle norme predette, approvate con [R. decreto 5 luglio 1910, n. 383](../Regi%20decreti/Che%20approva%20le%20annesse%20norme%20per%20la%20elezione%20la%20rinnovazione%20e%20il%20funzionamento%20del%20Comitato%20dei%20delegali%20e%20del%20Consiglio%20damministrazione%20del%20Consorzio%20obbligatorio%20per%20lindustria%20solfif_b50ba1676c56.md), e' sostituito il seguente articolo: 
  
  «L'Amministrazione del Consorzio, sulla base dei dati risultanti dai propri registri e di quelli forniti dal Sindacato obbligatorio per gli infortuni sul lavoro e dal corpo Reale delle miniere in Caltanissetta, rivede la lista dei consorziati aventi diritto al voto, ogni quattro anni, nel primo trimestre successivo alla fine dell'ultimo esercizio e stabilisce il numero dei voti a ciascuno spettanti». 
  

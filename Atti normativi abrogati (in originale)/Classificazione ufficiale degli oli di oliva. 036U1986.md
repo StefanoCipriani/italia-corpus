@@ -71,7 +71,7 @@ A partire dal 1° gennaio 1937 e' altresi' vietato vendere, detenere per la vend
 
 Si considerano messi in commercio per il consumo diretto gli oli che si trovano nei magazzini di vendita, sia all'ingrosso che al minuto. 
  
- Le denominazioni di cui agli articoli 1 e 2 debbono essere indicate nei documenti commerciali e apposte su recipienti contenenti gli oli, nei modi e con le forme prescritti nel regolamento approvato con [R. decreto 1° luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361), per l'esecuzione del [R. decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033).
+ Le denominazioni di cui agli articoli 1 e 2 debbono essere indicate nei documenti commerciali e apposte su recipienti contenenti gli oli, nei modi e con le forme prescritti nel regolamento approvato con [R. decreto 1° luglio 1926, n. 1361](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto%2015%20ottobre%201925%20n.%202033%20convertito%20in%20legge%20con%20la%20legge%2018%20marzo%201926%20n.%20562%20concernente%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20co_4e929fa93522.md), per l'esecuzione del [R. decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033).
 
 ## Art. 6.
 

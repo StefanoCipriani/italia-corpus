@@ -315,7 +315,7 @@ Capo VIII.
 
 ### Art. 36.
 
-Le contravvenzioni alle disposizioni della presente legge sono punibili con un'ammenda da L. 25 a L. 300, senza pregiudizio dell'applicazione di ogni altra sanzione e penalita' che sia prevista anche dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi per ogni singola fattispecie. 
+Le contravvenzioni alle disposizioni della presente legge sono punibili con un'ammenda da L. 25 a L. 300, senza pregiudizio dell'applicazione di ogni altra sanzione e penalita' che sia prevista anche dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi per ogni singola fattispecie. 
  
  Nei casi che interessano la sicurezza e la regolarita' dell'esercizio l'ammenda non puo' essere inferiore a L. 50. 
  
@@ -327,15 +327,15 @@ Le contravvenzioni alle disposizioni della presente legge sono punibili con un'a
 
 Con l'entrata in vigore della presente legge restano abrogati: 
  
- 1° il titolo III, e gli articoli 57, ultimo comma, e 62 del regolamento per i veicoli a trazione meccanica senza guida di rotaie approvato con [R. decreto 29 luglio 1909, n. 710](Che%20approva%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20009U0710.md); 
+ 1° il titolo III, e gli articoli 57, ultimo comma, e 62 del regolamento per i veicoli a trazione meccanica senza guida di rotaie approvato con [R. decreto 29 luglio 1909, n. 710](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20009U0710.md); 
  
- 2° la parte III del testo unico delle disposizioni' di legge per le ferrovie concesse all'industria privata, le tram-vie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), per quanto riguarda gli automobili; 
+ 2° la parte III del testo unico delle disposizioni' di legge per le ferrovie concesse all'industria privata, le tram-vie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), per quanto riguarda gli automobili; 
  
  3° la [legge 5 ottobre 1920, n. 1459](Che%20reca%20provvedimenti%20a%20favore%20dei%20concessionari%20di%20linee%20automobilistiche%20per%20i%20trasporti%20postali.%20020U1459.md); 
  
- 4° il [R. decreto 24 aprile 1921, n. 671](Che%20reca%20disposizioni%20per%20i%20trasporti%20postali%20automobilistici.%20021U0671.md); 
+ 4° il [R. decreto 24 aprile 1921, n. 671](../Regi%20decreti/Che%20reca%20disposizioni%20per%20i%20trasporti%20postali%20automobilistici.%20021U0671.md); 
  
- 5° il [R. decreto 7 maggio 1922, n. 705](Che%20reca%20modificazioni%20al%20regolamento%2029%20luglio%201909%20n.%20710%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20022U0705.md); 
+ 5° il [R. decreto 7 maggio 1922, n. 705](../Regi%20decreti/Che%20reca%20modificazioni%20al%20regolamento%2029%20luglio%201909%20n.%20710%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20022U0705.md); 
  
  6° il [R. decreto legge 21 ottobre 1923, n. 2386](Disposizioni%20per%20garantire%20la%20continuita%20e%20regolarita%20dei%20servizi%20pubblici%20automobilistici.%20023U2386.md); 
  

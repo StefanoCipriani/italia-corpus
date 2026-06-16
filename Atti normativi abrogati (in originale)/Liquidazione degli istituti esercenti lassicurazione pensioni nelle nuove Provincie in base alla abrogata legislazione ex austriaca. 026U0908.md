@@ -81,7 +81,7 @@ L'applicazione delle disposizioni di cui ai precedenti articoli 4, 5, 6 e 7, sar
 
 ## Art. 9.
 
-Agli ufficiali della marina mercantile che esercitarono la facolta' concessa dall'[art. 2 del R. decreto 27 gennaio 1924, n. 231](Estensione%20nei%20territori%20annessi%20delle%20funzioni%20della%20Cassa%20invalidi%20della%20marina%20mercantile.%20024U0231.md), non si applicano le disposizioni di cui all'art. 4 e al primo comma dell'art. 5.
+Agli ufficiali della marina mercantile che esercitarono la facolta' concessa dall'[art. 2 del R. decreto 27 gennaio 1924, n. 231](../Regi%20decreti/Estensione%20nei%20territori%20annessi%20delle%20funzioni%20della%20Cassa%20invalidi%20della%20marina%20mercantile.%20024U0231.md), non si applicano le disposizioni di cui all'art. 4 e al primo comma dell'art. 5.
 
 ## Art. 10.
 

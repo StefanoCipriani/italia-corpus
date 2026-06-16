@@ -27,7 +27,7 @@ Per l'anno scolastico 1969-70, gli scrutini finali e gli esami nelle scuole e ne
 ## Art. 2.
 
 Nei casi previsti dall'articolo precedente, gli scrutini finali per la promozione alle varie classi e quelli per la ammissione agli esami di qualsiasi tipo e specie saranno effettuati entro il 26 giugno, nei giorni che verranno fissati dai capi d'istituto o, in mancanza, dai provveditori agli studi.
- In deroga all'[art. 79 del regio decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), ed alle successive integrazioni e modificazioni, per effettuare gli scrutini e' sufficiente la presenza di tre professori appartenenti al consiglio di classe.
+ In deroga all'[art. 79 del regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), ed alle successive integrazioni e modificazioni, per effettuare gli scrutini e' sufficiente la presenza di tre professori appartenenti al consiglio di classe.
  La funzione di presidente puo' essere assunta dal professore piu' anziano fra i componenti del consiglio di classe.
 
 ## Art. 3.

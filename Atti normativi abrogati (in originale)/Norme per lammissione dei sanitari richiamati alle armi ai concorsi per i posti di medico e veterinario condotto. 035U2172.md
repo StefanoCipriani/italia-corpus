@@ -32,7 +32,7 @@ L'applicazione dell'[art. 34 del regolamento 11 marzo 1935, n. 281](https://www.
 
 ## Art. 2.
 
-Per l'ammissione ai concorsi di cui all'articolo precedente si prescinde dal limite di eta', per i sanitari richiamati o trattenuti alle armi posteriormente al 1° gennaio 1935 per esigenze militari di carattere eccezionale o che dopo tale data si siano arruolati volontariamente, sempreche' non abbiano superato il limite di eta' alla data suddetta e siano in possesso di tutti gli altri requisiti prescritti dal [R. decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281). 
+Per l'ammissione ai concorsi di cui all'articolo precedente si prescinde dal limite di eta', per i sanitari richiamati o trattenuti alle armi posteriormente al 1° gennaio 1935 per esigenze militari di carattere eccezionale o che dopo tale data si siano arruolati volontariamente, sempreche' non abbiano superato il limite di eta' alla data suddetta e siano in possesso di tutti gli altri requisiti prescritti dal [R. decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge ed il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

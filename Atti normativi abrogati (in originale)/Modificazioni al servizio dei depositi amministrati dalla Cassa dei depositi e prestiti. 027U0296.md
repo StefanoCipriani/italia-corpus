@@ -50,7 +50,7 @@ Le disposizioni contenute negli articoli precedenti sono estese ai depositi cauz
 
 ## Art. 5.
 
-I diritti di bollo, stabiliti dall'art. 49, lettere a e b della tariffa (allegato A) annessa al testo di legge approvato con [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), per le operazioni di tramutamento, di cui agli articoli 1, 3 e 4 del presente decreto, saranno assunti a carico dello Stato.
+I diritti di bollo, stabiliti dall'art. 49, lettere a e b della tariffa (allegato A) annessa al testo di legge approvato con [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), per le operazioni di tramutamento, di cui agli articoli 1, 3 e 4 del presente decreto, saranno assunti a carico dello Stato.
 
 ## Art. 6.
 

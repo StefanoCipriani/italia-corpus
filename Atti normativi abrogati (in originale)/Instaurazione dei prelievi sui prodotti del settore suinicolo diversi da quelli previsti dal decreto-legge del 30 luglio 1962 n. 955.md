@@ -95,7 +95,7 @@ All'esportazione verso altro Stato membro, per i prodotti di cui all'art. 1, let
 
 ## Art. 12.
 
-Per la risoluzione delle controversie fra le Dogane e gli esportatori o gli importatori, relative all'applicazione dei prelievi e delle restituzioni di cui al presente decreto, si applica il procedimento previsto dal testo unico delle leggi approvato con [regio decreto 9 aprile 1911, n. 330](Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), e successive modificazioni e aggiunte.
+Per la risoluzione delle controversie fra le Dogane e gli esportatori o gli importatori, relative all'applicazione dei prelievi e delle restituzioni di cui al presente decreto, si applica il procedimento previsto dal testo unico delle leggi approvato con [regio decreto 9 aprile 1911, n. 330](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20per%20la%20risoluzione%20delle%20controversie%20doganali.%20011U0330.md), e successive modificazioni e aggiunte.
 
 ## Art. 13.
 

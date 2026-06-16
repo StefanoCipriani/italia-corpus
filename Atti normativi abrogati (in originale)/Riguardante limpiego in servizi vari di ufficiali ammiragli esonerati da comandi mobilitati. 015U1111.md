@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista'la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md), riflettente il conferimento al Governo del Re di poteri straordinari in caso di guerra; 
  
- Visto il [R. decreto 22 maggio 1915, n. 690](Col%20quale%20sono%20indette%20la%20mobilitazione%20del%20R.%20esercito%20e%20della%20R.%20marina%20e%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli.%20015U0690.md), col quale e' indetta la mobilitazione generale del R. esercito e della R. marina; 
+ Visto il [R. decreto 22 maggio 1915, n. 690](../Regi%20decreti/Col%20quale%20sono%20indette%20la%20mobilitazione%20del%20R.%20esercito%20e%20della%20R.%20marina%20e%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli.%20015U0690.md), col quale e' indetta la mobilitazione generale del R. esercito e della R. marina; 
  
  Udito il Consiglio dei ministri; 
  

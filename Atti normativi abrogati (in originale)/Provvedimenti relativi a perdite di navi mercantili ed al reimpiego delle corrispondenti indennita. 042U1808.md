@@ -86,11 +86,11 @@ A partire dalla entrata in vigore del presente decreto gli atti di abbandono rel
 Le azioni giudiziarie relative ai contratti di assicurazione marittima contro i rischi di guerra debbono essere promosse davanti l'autorita' giudiziaria di Roma e nei confronti della Unione italiana di riassicurazione, quale unica retrocessionaria dei rischi per conto dello Stato, la quale sara' rappresentata e difesa in giudizio dall'Avvocatura generale dello Stato. 
  
  Per i giudizi di cui sopra l'Unione italiana di riassicurazione e', agli effetti tributari, equiparata alle Amministrazioni dello Stato.
-Nei giudizi stessi si applicano, nei riguardi dell'Unione predetta, le disposizioni di cui all'art. 11 del testo unico approvato con [R. decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611).
+Nei giudizi stessi si applicano, nei riguardi dell'Unione predetta, le disposizioni di cui all'art. 11 del testo unico approvato con [R. decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
 
 ## Art. 8.
 
-Fino al 180° giorno dopo la dichiarazione della cessazione dello stato di guerra la mancata contestazione, nel termine previsto dal [primo comma dell'art. 546 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), da parte delle Amministrazioni dello Stato, della validita' dell'abbandono di navi o galleggianti requisiti o noleggiati dalle Amministrazioni stesse, con assunzione dei rischi di guerra od ordinari di navigazione, non implica accettazione degli atti di abbandono se non dopo il decorso di sei mesi dalla data dell'abbandono stesso.
+Fino al 180° giorno dopo la dichiarazione della cessazione dello stato di guerra la mancata contestazione, nel termine previsto dal [primo comma dell'art. 546 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), da parte delle Amministrazioni dello Stato, della validita' dell'abbandono di navi o galleggianti requisiti o noleggiati dalle Amministrazioni stesse, con assunzione dei rischi di guerra od ordinari di navigazione, non implica accettazione degli atti di abbandono se non dopo il decorso di sei mesi dalla data dell'abbandono stesso.
 
 ## Art. 9.
 
@@ -100,7 +100,7 @@ Per il pagamento delle indennita' spettanti per il risarcimento dei danni di gue
 
 Le navi mercantili nazionali rifugiatesi, all'inizio della guerra, in porti neutrali possono essere requisite per acquisto dal Ministero delle comunicazioni, ai sensi della [legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), e successive modificazioni, anche con efficacia retroattiva. 
  
- Per tali navi potra' derogarsi alle condizioni previste dal [secondo](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md) e [terzo comma dell'art. 12 della legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), modificata, col [R. decreto 22 dicembre 1941, n. 1601](Modificazioni%20alla%20legge%2013%20luglio%201939-XVII%20n.%201154%20recanti%20norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20041U1601.md). 
+ Per tali navi potra' derogarsi alle condizioni previste dal [secondo](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md) e [terzo comma dell'art. 12 della legge 13 luglio 1939, n. 1154](Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), modificata, col [R. decreto 22 dicembre 1941, n. 1601](../Regi%20decreti/Modificazioni%20alla%20legge%2013%20luglio%201939-XVII%20n.%201154%20recanti%20norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20041U1601.md). 
  
  Alle indennita' di requisizione per acquisto delle navi suddette, se di stazza lorda superiore a 1000 tonnellate, sono applicabili le norme contenute negli articoli 1 e 2 del presente decreto. Tuttavia il versamento in contanti ai singoli aventi diritto, ai sensi della lettera b) del primo comma dell'art. 2, sara' ragguagliato al 20 % della somma netta dovuta ove trattisi di navi di stazza lorda superiore a 1600 tonnellate.
 

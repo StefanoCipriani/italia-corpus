@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 6 maggio 1928, n. 1319](Autorizzazione%20al%20Ministero%20dellaeronautica%20a%20partecipare%20alla%20costituzione%20di%20una%20Societa%20anonima%20da%20denominarsi%20Societa%20Aerea%20Mediterranea.%20028U1319.md), col quale si autorizza il Ministero dell'aeronautica a partecipare con un capitale di lire 7.200.000 alla costituzione della « Societa' Aerea Mediterranea » (S.A.M.);
+Visto il [R. decreto 6 maggio 1928, n. 1319](../Regi%20decreti/Autorizzazione%20al%20Ministero%20dellaeronautica%20a%20partecipare%20alla%20costituzione%20di%20una%20Societa%20anonima%20da%20denominarsi%20Societa%20Aerea%20Mediterranea.%20028U1319.md), col quale si autorizza il Ministero dell'aeronautica a partecipare con un capitale di lire 7.200.000 alla costituzione della « Societa' Aerea Mediterranea » (S.A.M.);
 
-Visto il [R. decreto 3 luglio 1930, n. 1249](Autorizzazione%20al%20Ministero%20dellaeronautica%20a%20sottoscrivere%20e%20versare%20la%20somma%20di%20L.%20800.000%20per%20aumentare%20di%20altrettante%20il%20capitale%20statale%20della%20Societa%20Aerea%20Mediterranea.%20030U1249.md), riguardante l'autorizzazione concessa al Ministero dell'aeronautica di sottoscrivere e versare in favore della « Societa' Aerea Mediterranea» (S.A.M.) la somma di lire 800.000;
+Visto il [R. decreto 3 luglio 1930, n. 1249](../Regi%20decreti/Autorizzazione%20al%20Ministero%20dellaeronautica%20a%20sottoscrivere%20e%20versare%20la%20somma%20di%20L.%20800.000%20per%20aumentare%20di%20altrettante%20il%20capitale%20statale%20della%20Societa%20Aerea%20Mediterranea.%20030U1249.md), riguardante l'autorizzazione concessa al Ministero dell'aeronautica di sottoscrivere e versare in favore della « Societa' Aerea Mediterranea» (S.A.M.) la somma di lire 800.000;
 
-Visto il [R. decreto 10 marzo 1932, n. 511](Aumento%20del%20capitale%20statale%20della%20Societa%20Aerea%20Mediterranea.%20032U0511.md), che eleva a complessive lire 18.000.000 la partecipazione del Ministero dell'aeronautica al capitale sociale della « Societa' Aerea Mediterranea. » (S.A.M.);
+Visto il [R. decreto 10 marzo 1932, n. 511](../Regi%20decreti/Aumento%20del%20capitale%20statale%20della%20Societa%20Aerea%20Mediterranea.%20032U0511.md), che eleva a complessive lire 18.000.000 la partecipazione del Ministero dell'aeronautica al capitale sociale della « Societa' Aerea Mediterranea. » (S.A.M.);
 
 Vista la [legge 7 giugno 1937, n. 855](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellaeronautica%20per%20lesercizio%20finanziario%20dal%201%20luglio%201937-XV%20al%2030%20giugno%201938-XVI.%20037U0855.md), che approva lo stato di previsione della spesa del Ministero dell'aeronautica per l'esercizio finanziario dal 1° luglio 1937-XV al 30 giugno 1938-XVI;
 

@@ -18,7 +18,7 @@ Visto il [R. decreto n. 198, in data 17 febbraio 1921](Concernente%20lassetto%20
 
 Visto il [R. decreto-legge 5 giugno 1921, n. 755](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-05;755);
 
-Visto il [R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189);
+Visto il [R. decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md);
 
 Sulla proposta del Nostro Ministro della marina, di concerto con quello delle finanze; Abbiamo decretato e decretiamo:
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro della marina, di concerto con quello delle fi
 
 L'arsenale militare marittimo di Pola, assume la denominazione di «Base navale di Pola», con l'attribuzione dei servizi di cui all'[art. 1, del R. decreto n. 755 in data 5 giugno 1921](Che%20da%20la%20denominazione%20di%20Basi%20navali%20agli%20arsenali%20della%20R.%20marina%20di%20Napoli%20e%20di%20Venezia%20nonche%20al%20cantiere%20navale%20di%20La%20Maddalena.%20021U0755.md), riguardante le Basi navali di Napoli, Venezia e Maddalena. 
  
- A parziale modifica dell'[art. 4 del R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189#art_4), il contr'ammiraglio comandante militare marittimo di Pola avra' anche la carica di comandante della Piazza marittima e della Base navale di Pola.
+ A parziale modifica dell'[art. 4 del R. decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), il contr'ammiraglio comandante militare marittimo di Pola avra' anche la carica di comandante della Piazza marittima e della Base navale di Pola.
 
 ## Art. 2.
 

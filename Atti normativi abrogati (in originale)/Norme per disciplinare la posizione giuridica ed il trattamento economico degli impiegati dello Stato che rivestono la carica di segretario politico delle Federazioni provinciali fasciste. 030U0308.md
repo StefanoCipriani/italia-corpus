@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Vista, la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -34,7 +34,7 @@ L'impiegato civile di ruolo non puo' rivestire la carica di segretario politico 
 
 ## Art. 2.
 
-Le disposizioni dell'articolo precedente sono applicabili, oltre che ai personali civili dello Stato disciplinati dal [Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), a tutti gli altri dipendenti statali di ruolo pei quali vigono speciali ordinamenti, nonche' ai maestri elementari inscritti nei ruoli dei Provveditorati regionali scolastici ed al personale delle scuole ed istituti d'istruzione mantenuti con concorso dello Stato. 
+Le disposizioni dell'articolo precedente sono applicabili, oltre che ai personali civili dello Stato disciplinati dal [Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), a tutti gli altri dipendenti statali di ruolo pei quali vigono speciali ordinamenti, nonche' ai maestri elementari inscritti nei ruoli dei Provveditorati regionali scolastici ed al personale delle scuole ed istituti d'istruzione mantenuti con concorso dello Stato. 
  
  Non si applicano ai professori delle Universita' ed Istituti superiori.
 

@@ -66,7 +66,7 @@ E' concessa l'esenzione dall'imposta e dalle relative sovrimposte, per la durata
  
  A tal fine dovra' essere presentata, a pena di decadenza, apposita documentata denunzia, all'Ufficio distrettuale delle imposte prima dell'inizio dei lavori e potra' essere riveduto il reddito imponibile dei fabbricati. 
  
- Decorso il decimo anno dall'ultimazione della ricostruzione, trasformazione o miglioria sara' provveduto alla revisione parziale del reddito ed a tal fine il contribuente dovra' produrre la dichiarazione entro il termine del 31 gennaio stabilito dall'[art. 2 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_2). 
+ Decorso il decimo anno dall'ultimazione della ricostruzione, trasformazione o miglioria sara' provveduto alla revisione parziale del reddito ed a tal fine il contribuente dovra' produrre la dichiarazione entro il termine del 31 gennaio stabilito dall'[art. 2 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md). 
  
  Nel caso di omessa dichiarazione, alla revisione parziale provvedera' l'Ufficio entro il 31 dicembre del medesimo anno, con effetto dal 1° gennaio dell'anno stesso.
 

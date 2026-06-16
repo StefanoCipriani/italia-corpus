@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 11 marzo 1928, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-11;567), col quale i comuni di Pantasina e Pianavia sono stati soppressi ed i rispettivi territori aggregati a quello di Vasia; 
+ Visto il [R. decreto 11 marzo 1928, n. 567](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Pianavia%20e%20Pantasina%20nonche%20di%20parte%20del%20territorio%20del%20comune%20di%20Prela%20a%20quello%20di%20Vasia%20ed%20aggregazione%20dei%20comuni%20di%20Valloria%20Marittima%20Tavole%20e%20Villa%20Talla%20_562bb0108193.md), col quale i comuni di Pantasina e Pianavia sono stati soppressi ed i rispettivi territori aggregati a quello di Vasia; 
  
  Vista la deliberazione del podesta' di Vasia rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Pantasina e Pianavia; 
  

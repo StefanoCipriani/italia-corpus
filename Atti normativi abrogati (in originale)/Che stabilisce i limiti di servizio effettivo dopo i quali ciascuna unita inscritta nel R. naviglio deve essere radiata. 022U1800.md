@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'Amministrazione e contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª) e sue successive modificazioni;
+Visto il testo unico delle leggi sull'Amministrazione e contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª) e sue successive modificazioni;
 
 Visto il regolamento per l'applicazione del predetto testo unico approvato con [R. decreto 4 maggio 1885, n.3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md) (serie 3ª) e sue successive modificazioni;
 

@@ -34,7 +34,7 @@ Le somme disponibili sul capitolo 93-bis del bilancio del Ministero d'agricoltur
 
 ## Art. 4.
 
-Il Consiglio del Comitato per l'istruzione agraria, istituiti coi RR. decreti 21 agosto 1885, n. 3287, e 21 maggio 1903, n. 233, e la Commissione centrale per l'insegnamento artistico industriale, creata con [R. decreto 23 ottobre 1884, n. 2731](Che%20istituisce%20una%20Commissione%20centrale%20per%20linsegnamento%20artistico%20industriale.%20084U2731.md), potranno essere trasformati per decreto Reale in Consiglio superiore dell'insegnamento agrario, industriale e commerciale, con giurisdizione su tutte le scuole, stazioni, osservatori, musei, ecc. dipendenti dal Ministero.
+Il Consiglio del Comitato per l'istruzione agraria, istituiti coi RR. decreti 21 agosto 1885, n. 3287, e 21 maggio 1903, n. 233, e la Commissione centrale per l'insegnamento artistico industriale, creata con [R. decreto 23 ottobre 1884, n. 2731](../Regi%20decreti/Che%20istituisce%20una%20Commissione%20centrale%20per%20linsegnamento%20artistico%20industriale.%20084U2731.md), potranno essere trasformati per decreto Reale in Consiglio superiore dell'insegnamento agrario, industriale e commerciale, con giurisdizione su tutte le scuole, stazioni, osservatori, musei, ecc. dipendenti dal Ministero.
 
 ## Art. 5.
 

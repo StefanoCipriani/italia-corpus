@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato con [regio decreto 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578);
+Visto il testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato con [regio decreto 15 ottobre 1925, n. 2578](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md);
 
-Visto il [regio decreto 14 giugno 1928, n. 1399](Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), concernente norme per i servizi comunali delle pubbliche affissioni e della pubblicita' affine;
+Visto il [regio decreto 14 giugno 1928, n. 1399](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), concernente norme per i servizi comunali delle pubbliche affissioni e della pubblicita' affine;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ TITOLO I.
 
 Sotto la denominazione di pubbliche affissioni si comprende l'esposizione di manifesti, avvisi ed altri mezzi pubblicitari stampati, litografati o manoscritti, in modo da essere totalmente e continuamente visibili dalle vie e dalle piazze pubbliche.
  Va compresa sotto la denominazione di pubblicita' affine ogni altra forma pubblicitaria eseguita con qualsiasi mezzo visivo od acustico, in modo da essere interamente visibile o percepibile dalle vie e piazze pubbliche.
- Ai funi del presente decreto, non sono considerati come mezzi pubblicitari le insegne, mostre ed avvisi di carattere permanente, che, ai sensi del testo unico approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono soggetti alla tassa sulle insegne.
+ Ai funi del presente decreto, non sono considerati come mezzi pubblicitari le insegne, mostre ed avvisi di carattere permanente, che, ai sensi del testo unico approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono soggetti alla tassa sulle insegne.
 
 ### Art. 2.
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 24 agosto 1928, n. 2141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-24;2141), col quale i Comuni di Brentino e di Belluno Veronese venivano riuniti in un solo Comune denominato Brentino-Belluno, con sede e capoluogo a Belluno Veronese; 
+ Visto il [R. decreto 24 agosto 1928, n. 2141](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brentino%20e%20Belluno%20Veronese%20in%20un%20unico%20Comune%20con%20denominazione%20Brentino-Belluno%20e%20capoluogo%20Belluno%20Veronese.%20028U2141.md), col quale i Comuni di Brentino e di Belluno Veronese venivano riuniti in un solo Comune denominato Brentino-Belluno, con sede e capoluogo a Belluno Veronese; 
  Vista la deliberazione del podesta' di detto Comune can la quale si chiede che per tutto il territorio del comune di Brentino-Belluno funzioni un solo ufficio di conciliazione; 
  Visti i pareri del primo presidente e del procuratore generale presso la Corte d'appello di Venezia; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, numero 728; 

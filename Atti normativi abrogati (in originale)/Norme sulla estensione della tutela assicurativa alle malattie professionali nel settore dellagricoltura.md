@@ -14,7 +14,7 @@ Visto l'[art. 2 della legge 21 marzo 1958, n. 313](../Leggi%20delega%20e%20relat
 
 Visto il [decreto-legge luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), e successive modificazioni, concernente l'assicurazione obbligatoria contro gli infortuni sul lavoro in agricoltura, nonche' le relative norme regolamentari;
 
-Visto il [regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), e successive aggiunte, integrazioni e modifiche, nonche' le relative norme regolamentari;
+Visto il [regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), e successive aggiunte, integrazioni e modifiche, nonche' le relative norme regolamentari;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Per l'assicurazione obbligatoria delle malattie professionali in agricoltura valgono le disposizioni concernenti gli infortuni sul lavoro agricolo ed altresi' le norme del [regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), relativo regolamento, successive, aggiunte, integrazioni e modifiche, in quanto applicabili e non in contrasto, salvo sempre quanto diversamente disposto con le norme che seguono.
+Per l'assicurazione obbligatoria delle malattie professionali in agricoltura valgono le disposizioni concernenti gli infortuni sul lavoro agricolo ed altresi' le norme del [regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), relativo regolamento, successive, aggiunte, integrazioni e modifiche, in quanto applicabili e non in contrasto, salvo sempre quanto diversamente disposto con le norme che seguono.
 
 ## Art. 2.
 

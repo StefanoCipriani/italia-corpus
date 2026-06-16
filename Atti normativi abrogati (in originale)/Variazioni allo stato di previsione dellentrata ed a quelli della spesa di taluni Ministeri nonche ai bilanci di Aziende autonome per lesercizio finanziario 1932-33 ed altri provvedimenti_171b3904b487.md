@@ -38,7 +38,7 @@ Nei bilanci dei Patrimoni riuniti ex-economali, dell'Azienda autonoma delle post
 
 ## Art. 4.
 
-Per lavori stradali, da eseguirsi in Cirenaica, e' autorizzata la ulteriore spesa di L. 30.000.000, in aggiunta a quella di L. 46.000.000 di cui al [R. decreto 16 gennaio 1930, n. 66](Ripartizione%20in%20piu%20esercizi%20finanziari%20della%20spesa%20occorrente%20per%20lavori%20stradali%20nella%20Cirenaica.%20030U0066.md). 
+Per lavori stradali, da eseguirsi in Cirenaica, e' autorizzata la ulteriore spesa di L. 30.000.000, in aggiunta a quella di L. 46.000.000 di cui al [R. decreto 16 gennaio 1930, n. 66](../Regi%20decreti/Ripartizione%20in%20piu%20esercizi%20finanziari%20della%20spesa%20occorrente%20per%20lavori%20stradali%20nella%20Cirenaica.%20030U0066.md). 
  
  Alla detta spesa di L. 30.000.000 sara' provveduto con le normali dotazioni del bilancio della Cirenaica, nel quale la spesa medesima verra' inscritta in ragione di L. 10.000.000 all'anno a decorrere dall'esercizio finanziario 1933-34 a tutto il 1935-36.
 

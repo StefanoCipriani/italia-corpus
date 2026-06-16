@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il testo unico di legge sugli Istituti di emissione, approvato col [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204); 
+ Visto il testo unico di legge sugli Istituti di emissione, approvato col [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md); 
  
- Visto l'articolo 3 dello statuto del Banco di Sicilia, approvato col [R. decreto 2 agosto 1908, n. 584](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Sicilia.%20008U0584.md); 
+ Visto l'articolo 3 dello statuto del Banco di Sicilia, approvato col [R. decreto 2 agosto 1908, n. 584](../Regi%20decreti/Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Sicilia.%20008U0584.md); 
  
  Vista la deliberazione 28 dicembre 1918 con cui il Consiglio generale del Banco di Sicilia approvo' la istituzione di una succursale del Banco stesso nella citta' di Trieste; 
  

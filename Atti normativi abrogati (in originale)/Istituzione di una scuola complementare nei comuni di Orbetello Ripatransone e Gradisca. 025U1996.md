@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e il [regolamento 6 giugno 1925, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1925-06-06;1084);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e il [regolamento 6 giugno 1925, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1925-06-06;1084);
 
 Veduti i voti espressi dalle Amministrazioni comunali e provinciali di Orbetello, Ripatransone e Gradisca, perche' nelle suddette citta' sia istituita, a decorrere dal 1° ottobre 1925, una Regia scuola complementare;
 
@@ -28,7 +28,7 @@ A decorrere dal 1° ottobre 1925 e' istituita una scuola complementare in ciascu
 
 ## Art. 2.
 
-Entro un mese dalla pubblicazione del presente decreto le Amministrazioni comunali predette faranno pervenire al Ministero della pubblica istruzione regolari deliberazioni approvate dalle autorita' tutorie con le quali si obblighino per il contributo annuo previsto dai [Regi decreti 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md), e 7 giugno 1923, n, 1408, e per gli oneri accessori posti a carico delle Amministrazioni medesime dagli [articoli 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_97), [100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_100) e [103 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_103).
+Entro un mese dalla pubblicazione del presente decreto le Amministrazioni comunali predette faranno pervenire al Ministero della pubblica istruzione regolari deliberazioni approvate dalle autorita' tutorie con le quali si obblighino per il contributo annuo previsto dai [Regi decreti 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md), e 7 giugno 1923, n, 1408, e per gli oneri accessori posti a carico delle Amministrazioni medesime dagli [articoli 97](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), [100](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [103 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 3.
 

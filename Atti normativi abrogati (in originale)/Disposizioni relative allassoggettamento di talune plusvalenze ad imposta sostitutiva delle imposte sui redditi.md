@@ -28,7 +28,7 @@ Sono soggette ad imposta sostitutiva delle imposte sui redditi le plusvalenze, d
 
 2.
 
-Sono soppressi la lettera c) del comma 1 dell'articolo 81 e il comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Sono soppressi la lettera c) del comma 1 dell'articolo 81 e il comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 ## Art. 2. — Modalita' di applicazione dell'imposta sostitutiva
 

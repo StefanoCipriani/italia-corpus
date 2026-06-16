@@ -988,7 +988,7 @@ Capo IV.
 
 ### Art. 129.
 
-Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio continuano ad essere applicabili le disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3257](Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md), sullo stato, avanzamento e trattamento di pensione degli ufficiali stessi, con le seguenti avvertenze: 
+Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio continuano ad essere applicabili le disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3257](../Regi%20decreti/Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md), sullo stato, avanzamento e trattamento di pensione degli ufficiali stessi, con le seguenti avvertenze: 
  
  a) che per l'accertamento dell'idoneita' all'avanzamento si osserveranno le disposizioni della presente legge; 
  

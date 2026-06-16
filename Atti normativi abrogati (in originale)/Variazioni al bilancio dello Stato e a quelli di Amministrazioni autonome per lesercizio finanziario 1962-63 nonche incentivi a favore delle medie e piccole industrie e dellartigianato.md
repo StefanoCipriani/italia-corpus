@@ -62,7 +62,7 @@ Nei bilanci dell'Amministrazione dei monopoli di Stato, dell'Azienda monopolio b
 
 ## Art. 11.
 
-Nell'elenco n. 1 annesso allo stato di previsione del Ministero del tesoro per l'esercizio finanziario 1962-63, concernente i capitoli per i quali e' concessa la facolta', di cui all'[articolo 40 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato sono aggiunti i seguenti capitoli:
+Nell'elenco n. 1 annesso allo stato di previsione del Ministero del tesoro per l'esercizio finanziario 1962-63, concernente i capitoli per i quali e' concessa la facolta', di cui all'[articolo 40 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato sono aggiunti i seguenti capitoli:
 
  Ministero del tesoro:
 
@@ -76,7 +76,7 @@ Nell'elenco n. 1 annesso allo stato di previsione del Ministero del tesoro per l
 
 ## Art. 12.
 
-Nell'elenco n. 4, annesso allo stato di previsione del Ministero del tesoro per l'esercizio finanziario 1962-63, concernente i capitoli per i quali e' concessa la facolta' di cui all'[articolo 41, secondo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com2), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, sono aggiunti i seguenti capitoli:
+Nell'elenco n. 4, annesso allo stato di previsione del Ministero del tesoro per l'esercizio finanziario 1962-63, concernente i capitoli per i quali e' concessa la facolta' di cui all'[articolo 41, secondo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, sono aggiunti i seguenti capitoli:
 
  Ministero delle finanze:
 

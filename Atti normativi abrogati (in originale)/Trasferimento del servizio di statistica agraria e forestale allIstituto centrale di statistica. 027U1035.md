@@ -18,7 +18,7 @@ Vista la [legge 9 luglio 1926, n. 1162](Riordinamento%20del%20servizio%20statist
 
 Visto il [R. decreto 9 ottobre 1924, n. 1765](Costituzione%20presso%20il%20Ministero%20delleconomia%20nazionale%20dellIstituto%20di%20economia%20e%20statistica%20agraria.%20024U1765.md), che costituisce presso il Ministero dell'economia nazionale un Istituto di economia e statistica agraria;
 
-Visto il [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), relativo alla istituzione ed erezione in ente morale della Fondazione per la sperimentazione e la ricerca agraria;
+Visto il [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), relativo alla istituzione ed erezione in ente morale della Fondazione per la sperimentazione e la ricerca agraria;
 
 Ritenuta la opportunita' di trasferire il servizio di statistica agraria e forestale dal Ministero dell'economia nazionale all'Istituto centrale di statistica, e di trasformare l'Istituto di economia e statistica agraria e forestale in Istituto di economia agraria;
 
@@ -72,13 +72,13 @@ A decorrere dall'esercizio finanziario 1927-28 saranno inscritte nel bilancio de
 
 ## Art. 5.
 
-La Fondazione per la sperimentazione e la ricerca agraria, di cui al [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), assegnera' annualmente un contributo all'Istituto centrale di statistica in base al programma dei lavori che questo intenda eseguire per la compilazione, l'aggiornamento e la pubblicazione dei catasti agrario e forestale. 
+La Fondazione per la sperimentazione e la ricerca agraria, di cui al [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), assegnera' annualmente un contributo all'Istituto centrale di statistica in base al programma dei lavori che questo intenda eseguire per la compilazione, l'aggiornamento e la pubblicazione dei catasti agrario e forestale. 
  
  Per il corrente esercizio finanziario 1926-27, sull'assegnazione fatta all'Istituto di economia e statistica agraria dalla detta Fondazione, sara' attribuita all'Istituto centrale di statistica la somma di L. 500,000.
 
 ## Art. 6.
 
-Con Regio decreto promosso dal Ministro per l'economia nazionale, udito il Consiglio di Stato, sara' provveduto a portare nel [R. decreto 9 ottobre 1924, n. 1765](Costituzione%20presso%20il%20Ministero%20delleconomia%20nazionale%20dellIstituto%20di%20economia%20e%20statistica%20agraria.%20024U1765.md), e nello statuto della Fondazione per la sperimentazione e la ricerca agraria, approvato con [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), le modificazioni conseguenti alle disposizioni del presente decreto. 
+Con Regio decreto promosso dal Ministro per l'economia nazionale, udito il Consiglio di Stato, sara' provveduto a portare nel [R. decreto 9 ottobre 1924, n. 1765](Costituzione%20presso%20il%20Ministero%20delleconomia%20nazionale%20dellIstituto%20di%20economia%20e%20statistica%20agraria.%20024U1765.md), e nello statuto della Fondazione per la sperimentazione e la ricerca agraria, approvato con [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), le modificazioni conseguenti alle disposizioni del presente decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

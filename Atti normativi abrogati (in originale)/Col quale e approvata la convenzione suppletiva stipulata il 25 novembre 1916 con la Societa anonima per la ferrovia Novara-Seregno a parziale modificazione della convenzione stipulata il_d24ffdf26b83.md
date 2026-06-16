@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 5 gennaio 1913, n. 18](Col%20quale%20viene%20approvata%20la%20convenzione%20con%20la%20Societa%20Anonima%20per%20la%20ferrovia%20Novara-Seregno%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20a%20trazione%20a%20vapore%20da%20C_a425a7409eb1.md), con cui venne approvata e resa esecutoria la convenzione 25 novembre 1912, stipulata con la «Societa' anonima per la ferrovia Novara-Seregno», per la concessione della ferrovia da Cairate-Lonate-Ceppino al confine svizzero; 
+ Visto il [R. decreto 5 gennaio 1913, n. 18](../Regi%20decreti/Col%20quale%20viene%20approvata%20la%20convenzione%20con%20la%20Societa%20Anonima%20per%20la%20ferrovia%20Novara-Seregno%20per%20la%20concessione%20della%20costruzione%20e%20dellesercizio%20della%20ferrovia%20a%20trazione%20a%20vapore%20da%20C_a425a7409eb1.md), con cui venne approvata e resa esecutoria la convenzione 25 novembre 1912, stipulata con la «Societa' anonima per la ferrovia Novara-Seregno», per la concessione della ferrovia da Cairate-Lonate-Ceppino al confine svizzero; 
  
  Vista l'istanza 19 dicembre 1915 della predetta Societa'; 
  

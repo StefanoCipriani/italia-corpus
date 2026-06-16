@@ -98,7 +98,7 @@ Il datore di lavoro che, ai sensi dell'ultimo comma dell'[art. 6 del R. decreto-
 
 ### Art. 8.
 
-Contro i morosi al pagamento del contributo, l'Istituto nazionale fascista della previdenza sociale puo' emettere ingiunzione di pagamento, comprensiva della quota dovuta, degli interessi di mora e delle eventuali spese. L'ingiunzione sara' resa esecutiva dal pretore del capoluogo della Provincia ove e' la sede dell'azienda del datore di lavoro, osservate per il procedimento le norme stabilite dal [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), che approva il testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato. 
+Contro i morosi al pagamento del contributo, l'Istituto nazionale fascista della previdenza sociale puo' emettere ingiunzione di pagamento, comprensiva della quota dovuta, degli interessi di mora e delle eventuali spese. L'ingiunzione sara' resa esecutiva dal pretore del capoluogo della Provincia ove e' la sede dell'azienda del datore di lavoro, osservate per il procedimento le norme stabilite dal [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), che approva il testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato. 
  
  L'ingiunzione costituisce anche titolo valido per la iscrizione dell'ipoteca sugli immobili dell'iscritto moroso.
 
@@ -148,7 +148,7 @@ Il datore di lavoro che ritardi od ometta il versamento del contributo, e' tenut
 
 ### Art. 14.
 
-Il prestatore d'opera che abbia dato scientemente notizie inesatte all'Istituto nazionale fascista della previdenza sociale al fine di ottenere indennita' maggiori di quelle dovutegli, perde il diritto anche alle indennita' di legge, salvo le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Il prestatore d'opera che abbia dato scientemente notizie inesatte all'Istituto nazionale fascista della previdenza sociale al fine di ottenere indennita' maggiori di quelle dovutegli, perde il diritto anche alle indennita' di legge, salvo le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 15.
 

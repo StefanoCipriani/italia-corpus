@@ -38,7 +38,7 @@ Il Prefetto della provincia ove ha sede il consorzio nominera' un commissario li
 
 ## Art. 3.
 
-L'esercizio del commercio delle pelli grezze nazionali e' consentito soltanto a coloro che, alla data di pubblicazione del presente decreto, risultino iscritti quali esercenti tale commercio nel registro delle ditte previste dal [R. decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
+L'esercizio del commercio delle pelli grezze nazionali e' consentito soltanto a coloro che, alla data di pubblicazione del presente decreto, risultino iscritti quali esercenti tale commercio nel registro delle ditte previste dal [R. decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
 
 ## Art. 4.
 

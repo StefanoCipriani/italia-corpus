@@ -18,7 +18,7 @@ Visto l'art. 6 del testo unico delle leggi sull'ordinamento della R. guardia di 
 
 Visto l'art. 70 del regolamento d'istituzione e di disciplina del corpo anzidetto, approvato con [R. decreto del 5 gennaio 1908, n. 27](Che%20approva%20lannesso%20regolamento%20distituzione%20e%20di%20disciplina%20pel%20corpo%20della%20R.%20guardia%20di%20finanza.%20008U0027.md);
 
-Visto l'[art. 1 del R. decreto 1° agosto 1913, n. 1002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-01;1002#art_1), modificato col [R. decreto 1° febbraio 1920, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;91), riguardante la composizione delle Commissioni per lo avanzamento nei vari gradi della R. guardia di finanza;
+Visto l'[art. 1 del R. decreto 1° agosto 1913, n. 1002](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20norme%20per%20lavanzamento%20nei%20vari%20gradi%20della%20R.%20guardia%20di%20finanza.%20013U1002.md), modificato col [R. decreto 1° febbraio 1920, n. 91](../Regi%20decreti/Che%20modifica%20quello%201%20agosto%201913%20n.1002%20relativamente%20alla%20composizione%20della%20Commissione%20per%20lesame%20delle%20proposte%20davanzamento%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20trupp_7c217cd9cc99.md), riguardante la composizione delle Commissioni per lo avanzamento nei vari gradi della R. guardia di finanza;
 
 Visto il [R. decreto 3 gennaio 1915, n. 1170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-03;1170), recante norme per l'ammissione agli esami di concorso per l'avanzamento al grado di maggiore nella R. guardia di finanza;
 

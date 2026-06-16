@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md), riguardante provvedimenti straordinari per il credito agrario avranno vigore fino al 31 dicembre 1916, con le modificazioni e aggiunte contenute negli articoli seguenti.
+Le disposizioni del [R. decreto 11 ottobre 1914, n. 1089](../Regi%20decreti/Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md), riguardante provvedimenti straordinari per il credito agrario avranno vigore fino al 31 dicembre 1916, con le modificazioni e aggiunte contenute negli articoli seguenti.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ A tutto il 1916 il ministro di agricoltura, industria e commercio ha facolta' di
 
 L'Istituto di credito agrario per la Liguria in Porto Maurizio e' autorizzalo fino a tutto il 1916 a concedere prestiti diretti della durata non maggiore di tre anni e per un ammontare non superiore a L. 3000 a proprietari di terreni in Liguria por provvedere i fondi di acqua potabile e di irrigazione e per trasformare le colture. 
  
- In questi prestiti puo' essere investita una somma complessiva non eccedente il quinto delle disponibilita' dell'Istituto e sono applicabili ad essi le disposizioni dell'[art. 11 del R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md).
+ In questi prestiti puo' essere investita una somma complessiva non eccedente il quinto delle disponibilita' dell'Istituto e sono applicabili ad essi le disposizioni dell'[art. 11 del R. decreto 11 ottobre 1914, n. 1089](../Regi%20decreti/Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md).
 
 ## Art. 6.
 

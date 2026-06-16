@@ -469,7 +469,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1926-1927 sono stabil
 
 ### Art. 22.
 
-Ai sensi dell'articolo n. 65 dell'ordinamento amministrativo-contabile per la Tripolitania e per la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), ai seguenti articoli del bilancio della Tripolitania per l'esercizio 1926-27 e' inscritta la somma per ciascuno di essi indicata: 
+Ai sensi dell'articolo n. 65 dell'ordinamento amministrativo-contabile per la Tripolitania e per la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), ai seguenti articoli del bilancio della Tripolitania per l'esercizio 1926-27 e' inscritta la somma per ciascuno di essi indicata: 
  
  Articolo n. 87 «Accantonamento per provvedere allo eventuale pagamento di saldi di spese residue, ecc.», lire 2.851.577,98. 
  
@@ -808,7 +808,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1927-28 sono stabilit
 
 ### Art. 38.
 
-Ai sensi dell'articolo n. 65 dell'ordinamento amministrativo-contabile per la Tripolitania e per la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), ai seguenti articoli del bilancio della Tripolitania, per l'esercizio 1927-28, e' inscritta la somma per ciascuno di essi indicata: 
+Ai sensi dell'articolo n. 65 dell'ordinamento amministrativo-contabile per la Tripolitania e per la Cirenaica, approvato con [Regio decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), ai seguenti articoli del bilancio della Tripolitania, per l'esercizio 1927-28, e' inscritta la somma per ciascuno di essi indicata: 
  
  Art. 88. - «Accantonamento per provvedere all'eventuale pagamento di saldi di spese residue, ecc.», lire 6.213.465,23. 
  
@@ -1160,7 +1160,7 @@ I residui passivi alla chiusura dell'esercizio finanziario 1928-29 sono stabilit
 
 ### Art. 55.
 
-Ai sensi dell'[articolo 65 del Regio decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento per la gestione amministrativo-contabile per le Colonie, l'avanzo accertato col consuntivo nella somma di lire 864.820,87, e' esclusivamente assegnato alla competenza dell'articolo aggiunto 84 del bilancio della Tripolitania per l'esercizio finanziario 1928-29, con la dizione: «Accantonamento per provvedere all'eventuale pagamento di saldi di spese residue, ecc.».
+Ai sensi dell'[articolo 65 del Regio decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento per la gestione amministrativo-contabile per le Colonie, l'avanzo accertato col consuntivo nella somma di lire 864.820,87, e' esclusivamente assegnato alla competenza dell'articolo aggiunto 84 del bilancio della Tripolitania per l'esercizio finanziario 1928-29, con la dizione: «Accantonamento per provvedere all'eventuale pagamento di saldi di spese residue, ecc.».
 
 ### Art. 56.
 

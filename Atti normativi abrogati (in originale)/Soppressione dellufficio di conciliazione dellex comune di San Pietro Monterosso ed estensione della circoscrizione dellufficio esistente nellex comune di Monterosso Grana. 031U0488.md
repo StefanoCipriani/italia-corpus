@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 4 marzo 1929, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-04;367), col quale i comuni di San Pietro Monterosso e di Monterosso Grana sono stati riuniti in un solo Comune denominato «Monterosso Grana»; 
+ Visto il [R. decreto 4 marzo 1929, n. 367](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Monterosso%20Grana%20e%20San%20Pietro%20di%20Monterosso%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Monterosso%20Grana.%20029U0367.md), col quale i comuni di San Pietro Monterosso e di Monterosso Grana sono stati riuniti in un solo Comune denominato «Monterosso Grana»; 
  
  Vista la deliberazione del podesta' di Monterosso Grana con la quale si chiede che per tutto il territorio del comune di Monterosso Grana funzioni un solo ufficio di conciliazione; 
  

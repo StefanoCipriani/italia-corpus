@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 28 del testo unico sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
+ Visto l'art. 28 del testo unico sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
  Visto l'art. 51 del regolamento approvato con [R. decreto 6 maggio 1912, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-06;556), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
  

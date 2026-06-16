@@ -22,13 +22,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 5 novembre 1911, n. 1247](Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md); 
+ Visto il [R. decreto 5 novembre 1911, n. 1247](../Regi%20decreti/Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md); 
  
- Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
+ Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 novembre 1912, n. 1205](../Regi%20decreti/riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
  
- Visti l'ordinamento giudiziario per la Tripolitania e la Cirenaica approvato con [R. decreto 20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), e le norme complementari di esso, approvate con Nostro decreto 15 aprile 1917, n. 938; 
+ Visti l'ordinamento giudiziario per la Tripolitania e la Cirenaica approvato con [R. decreto 20 marzo 1913, n. 289](../Regi%20decreti/Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), e le norme complementari di esso, approvate con Nostro decreto 15 aprile 1917, n. 938; 
  
- Visto il [R. decreto 17 aprile 1913, n. 356](Relativo%20allesercizio%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore%20nella%20Tripolitania%20e%20nella%20Cirenaica.%20013U0356.md), relativo all'esercizio delle professioni di avvocato e di procuratore nella Tripolitania e nella Cirenaica; 
+ Visto il [R. decreto 17 aprile 1913, n. 356](../Regi%20decreti/Relativo%20allesercizio%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore%20nella%20Tripolitania%20e%20nella%20Cirenaica.%20013U0356.md), relativo all'esercizio delle professioni di avvocato e di procuratore nella Tripolitania e nella Cirenaica; 
  
  Sentito il Consiglio dei ministri: 
  

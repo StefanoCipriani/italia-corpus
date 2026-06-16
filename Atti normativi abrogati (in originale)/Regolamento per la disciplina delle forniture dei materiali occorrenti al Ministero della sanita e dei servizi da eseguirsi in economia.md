@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8) e l'[art. 121 del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_121);
+Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e l'[art. 121 del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_121);
 
 Udito il parere del Consiglio di Stato;
 
@@ -78,10 +78,10 @@ Contro le deliberazioni delle commissioni di collaudo e' data facolta' di ricors
 
 ## Art. 7.
 
-Possono effettuarsi in economia le spese seguenti, nel limite non eccedente la somma indicata in materia dal [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni ed integrazioni, per i servizi della amministrazione centrale e degli uffici periferici che ne dipendono, quando le spese stesse non siano di competenza del provveditorato generale dello Stato:
+Possono effettuarsi in economia le spese seguenti, nel limite non eccedente la somma indicata in materia dal [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni ed integrazioni, per i servizi della amministrazione centrale e degli uffici periferici che ne dipendono, quando le spese stesse non siano di competenza del provveditorato generale dello Stato:
  a) acquisto e riparazione di stampe, libri, collezioni scientifiche, documenti ed arredi e riparazioni di mobili;
  b) riparazione e manutenzione di locali, infissi e di altri manufatti in uso all'amministrazione, salvo la competenza degli uffici del genio civile per i lavori di straordinaria manutenzione;
- c) riparazione e manutenzione di autoveicoli, natanti, motociclette ed acquisto di materiale di ricambio, con l'osservanza delle norme del regolamento del servizio automobilistico per le amministrazioni dello Stato, approvato con [regio decreto 3 aprile 1926, n. 746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-03;746);
+ c) riparazione e manutenzione di autoveicoli, natanti, motociclette ed acquisto di materiale di ricambio, con l'osservanza delle norme del regolamento del servizio automobilistico per le amministrazioni dello Stato, approvato con [regio decreto 3 aprile 1926, n. 746](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20automobilistico%20per%20le%20Amministrazioni%20dello%20Stato.%20026U0746.md);
  d) provvista di carburante e di lubrificanti e di altro materiale di consumo;
  e) illuminazione e riscaldamento dei locali sia in via ordinaria che straordinaria;
  f) trasporto di materiali igienico-sanitari, spedizioni o noli di vetture a trazione meccanica od animale;

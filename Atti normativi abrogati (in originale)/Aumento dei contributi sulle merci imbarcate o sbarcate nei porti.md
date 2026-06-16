@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 1279 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[art. 1279 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con i Ministr
 
 ## Art. 1.
 
-E' decuplicata la misura dei contributi previsti dall'[art. 1279, primo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [secondo comma, del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+E' decuplicata la misura dei contributi previsti dall'[art. 1279, primo](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [secondo comma, del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 2.
 

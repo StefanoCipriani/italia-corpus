@@ -18,7 +18,7 @@ UMBERTO I
  
  Vista la legge 7 aprile 1898, n, 116, relativa alla tassa sulle anticipazioni o sovvenzioni contro deposito o pegno, fatte dalle Casse di risparmio, dalle Societa' o dagli Istituti; 
  
- Visto l'articolo 52 del Regolamento approvato col [Regio decreto 25 settembre 1874, n. 2128](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulle%20tasse%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20alle%20due%20tasse%20di%20bollo%20e%20registro.%20074U2128.md); 
+ Visto l'articolo 52 del Regolamento approvato col [Regio decreto 25 settembre 1874, n. 2128](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulle%20tasse%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20alle%20due%20tasse%20di%20bollo%20e%20registro.%20074U2128.md); 
  
  Visto l'[articolo 8, del Regolamento 15 luglio 1887, n. 4743](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1887-07-15;4743#art_8); 
  

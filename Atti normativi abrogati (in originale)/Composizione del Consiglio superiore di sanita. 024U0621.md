@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con Nostro decreto 1° agosto 1907, n. 636, ed il Nostro decreto 30 dicembre 1923, n. 2889;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con Nostro decreto 1° agosto 1907, n. 636, ed il Nostro decreto 30 dicembre 1923, n. 2889;
 
 Sentito il Consiglio dei Ministri;
 

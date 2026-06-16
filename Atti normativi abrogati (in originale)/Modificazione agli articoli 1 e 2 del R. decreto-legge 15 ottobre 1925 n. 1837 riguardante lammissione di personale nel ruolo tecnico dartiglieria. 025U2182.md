@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la [legge 10 luglio 1910, n. 443](Istituzione%20del%20servizio%20tecnico%20e%20di%20un%20corso%20superiore%20tecnico%20dartiglieria.%20010U0443.md), che istituisce il servizio tecnico ed il corso superiore tecnico di artiglieria e successive modificazioni;
 
-Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento del Regio esercito e successive modificazioni;
+Visto il [R. decreto 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento del Regio esercito e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardante il reclutamento degli ufficiali in servizio attivo permanente;
+Visto il [R. decreto 30 dicembre 1923, n. 2986](../Regi%20decreti/Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardante il reclutamento degli ufficiali in servizio attivo permanente;
 
 Visto il [R. decreto 15 ottobre 1925, n. 1837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1837), riguardante ammissione nel ruolo tecnico di artiglieria;
 

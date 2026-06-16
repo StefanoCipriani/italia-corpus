@@ -77,7 +77,7 @@ La Commissione esaminatrice, nominata per ogni concorso con decreto del Ministro
 
 ### Art. 10.
 
-Per quanto riguarda il procedimento degli esami saranno osservate le disposizioni del capo VI del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni.
+Per quanto riguarda il procedimento degli esami saranno osservate le disposizioni del capo VI del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
 
 ### Art. 11.
 

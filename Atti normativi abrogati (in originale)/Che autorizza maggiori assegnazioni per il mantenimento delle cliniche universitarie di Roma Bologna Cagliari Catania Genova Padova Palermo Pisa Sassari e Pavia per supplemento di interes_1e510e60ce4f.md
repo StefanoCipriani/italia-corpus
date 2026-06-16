@@ -34,7 +34,7 @@ E' autorizzata l'assegnazione straordinaria di L. 40,000 da inscriversi nello st
 
 ## Art. 5.
 
-Agli effetti dell'art. 113 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), il Ministero dell'istruzione pubblica al principio di ogni anno finanziario comunichera' ai rettori delle Universita' ed ai capi degli istituti superiori, per loro norma e perche' ne diano notizia ai direttori dei singoli gabinetti, musei, cliniche e altri istituti, l'ammontare dello dotazioni di cui possono disporre nell'anno stesso, ed entro i cui limiti dovranno mantenere le spese rispettive. 
+Agli effetti dell'art. 113 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), il Ministero dell'istruzione pubblica al principio di ogni anno finanziario comunichera' ai rettori delle Universita' ed ai capi degli istituti superiori, per loro norma e perche' ne diano notizia ai direttori dei singoli gabinetti, musei, cliniche e altri istituti, l'ammontare dello dotazioni di cui possono disporre nell'anno stesso, ed entro i cui limiti dovranno mantenere le spese rispettive. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

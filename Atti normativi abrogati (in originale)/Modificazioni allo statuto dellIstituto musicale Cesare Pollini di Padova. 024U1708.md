@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 20 settembre 1922, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-20;1737) che approva lo statuto dell'Istituto musicale «Cesare Pollini» di Padova;
+Veduto il [R. decreto 20 settembre 1922, n. 1737](../Regi%20decreti/Erezione%20in%20Ente%20morale.%20022U1737.md) che approva lo statuto dell'Istituto musicale «Cesare Pollini» di Padova;
 
 Veduto il [R. decreto 6 aprile 1924, n. 897](Equiparazione%20dei%20diplomi%20rilasciati%20dallIstituto%20musicale%20Cesare%20Pollini%20di%20Padova%20a%20quelli%20rilasciati%20dai%20Regi%20conservatori%20di%20musica.%20024U0897.md) con cui si stabilisce l'equiparazione di alcuni diplomi rilasciati da detto istituto a quelli corrispondenti rilasciati dai Regi conservatori di musica;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Articolo unico.
 
-L'art. 5 dello statuto dell'Istituto musicale «Cesare Pollini» di Padova approvato con [R. decreto 20 settembre 1922, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-20;1737) e' cosi' sostituito: 
+L'art. 5 dello statuto dell'Istituto musicale «Cesare Pollini» di Padova approvato con [R. decreto 20 settembre 1922, n. 1737](../Regi%20decreti/Erezione%20in%20Ente%20morale.%20022U1737.md) e' cosi' sostituito: 
  
  «L'insegnamento si divide in teorico e pratico. 
  

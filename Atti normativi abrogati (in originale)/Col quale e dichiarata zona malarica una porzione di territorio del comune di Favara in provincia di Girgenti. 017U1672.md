@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), ed il regolamento, approvato con [R. decreto 28 febbraio 1907, n. 61](Che%20approva%20lannesso%20regolamento%20unico%20per%20la%20esecuzione%20delle%20leggi%20per%20diminuire%20le%20cause%20della%20malaria%20e%20per%20la%20vendita%20del%20chinino%20di%20Stato.%20007U0061.md), che contengono disposizioni per diminuire le cause della malaria; 
+ Veduto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), ed il regolamento, approvato con [R. decreto 28 febbraio 1907, n. 61](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20unico%20per%20la%20esecuzione%20delle%20leggi%20per%20diminuire%20le%20cause%20della%20malaria%20e%20per%20la%20vendita%20del%20chinino%20di%20Stato.%20007U0061.md), che contengono disposizioni per diminuire le cause della malaria; 
  
  Visto l'art. 7 del Nostro decreto 31 dicembre 1915, n. 1910; 
  
- Visto il [R. decreto 24 marzo 1904, n. 224](Contenente%20lelenco%20delle%20zone%20malariche%20esistenti%20in%20provincia%20di%20Girgenti.%20004U0224.md), concernente tra l'altro la dichiarazione di 4 zone malariche nel territorio del comune di Favara, in provincia di Girgenti; 
+ Visto il [R. decreto 24 marzo 1904, n. 224](../Regi%20decreti/Contenente%20lelenco%20delle%20zone%20malariche%20esistenti%20in%20provincia%20di%20Girgenti.%20004U0224.md), concernente tra l'altro la dichiarazione di 4 zone malariche nel territorio del comune di Favara, in provincia di Girgenti; 
  
  Visto il rapporto col quale il prefetto della provincia stessa ha inviato le proposte di quel medico provinciale per la designazione di una nuova zona malarica in detto Comune; 
  

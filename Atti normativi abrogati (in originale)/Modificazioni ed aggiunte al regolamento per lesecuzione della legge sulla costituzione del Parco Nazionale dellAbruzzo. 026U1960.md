@@ -15,7 +15,7 @@ All'art. 1 del regolamento sopra citato e' sostituito il seguente:
  
  «Tali avvisi saranno affissi anche nei Comuni limitrofi di Villetta Barrea, San Donato Val di Comino, Trasacco, Luco dei Marsi e Scanno, ed all'esterno delle stazioni ferroviarie di Avezzano, Pescina, Carritto-Ortona, Anversa-Scanno, Alfedena e Cassino. 
  
- «Per la segnalazione dei predetti divieti, agli effetti dell'[art. 712 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_712) e dell'[art. 428 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), saranno apposte tabelle con la semplice scritta «Parco Nazionale dell'Abruzzo», sul perimetro del territorio nei punti di intersezione del perimetro con ciascuna delle strade di accesso».
+ «Per la segnalazione dei predetti divieti, agli effetti dell'[art. 712 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_712) e dell'[art. 428 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), saranno apposte tabelle con la semplice scritta «Parco Nazionale dell'Abruzzo», sul perimetro del territorio nei punti di intersezione del perimetro con ciascuna delle strade di accesso».
 
 ## Art. 2.
 

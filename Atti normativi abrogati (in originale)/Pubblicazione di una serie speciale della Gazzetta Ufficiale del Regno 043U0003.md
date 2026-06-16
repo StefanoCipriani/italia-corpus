@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' disposta la pubblicazione presso la sede del Governo di una «Gazzetta Ufficiale» del Regno - serie speciale - che tiene luogo, a tutti gli effetti, della «Gazzetta Ufficiale» del Regno di cui al [R.D. 7 giugno 1923 n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-07;1252).
+E' disposta la pubblicazione presso la sede del Governo di una «Gazzetta Ufficiale» del Regno - serie speciale - che tiene luogo, a tutti gli effetti, della «Gazzetta Ufficiale» del Regno di cui al [R.D. 7 giugno 1923 n. 1252](../Regi%20decreti/Che%20dispone%20il%20passaggio%20della%20Gazzetta%20ufficiale%20del%20Regno%20dalla%20dipendenza%20del%20Ministero%20dellinterno%20a%20quella%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto%20e%20detta%20le%20norme%20per%20_1da86e0a2f37.md).
 
 ## Art. 2.
 

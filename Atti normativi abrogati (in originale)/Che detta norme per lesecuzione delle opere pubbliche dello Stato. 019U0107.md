@@ -82,7 +82,7 @@ L'importo massimo degli appalti che possono affidarsi per licitazione o trattati
  
  Per i Consorzi di cooperative l'importo massimo di appalto delle opere che possono essere loro affidate a termini dell'[art. 1 della legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422#art_1), non puo' superare la somma di lire 5.000.000, ne' il doppio dell'ammontare totale degli appalti che potrebbero essere affidati alle singole cooperative costituenti il Consorzio. 
  
- I limiti costituiti dai suddetti importi massimi di appalto si applicano anche ai casi previsti, per le cooperative, dalla [legge 19 aprile 1906, n. 126](Disposizioni%20per%20le%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20che%20concorrono%20alle%20pubbliche%20gare.%20006U0126.md), e per i Consorzi di cooperative dall'art. 75 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md).
+ I limiti costituiti dai suddetti importi massimi di appalto si applicano anche ai casi previsti, per le cooperative, dalla [legge 19 aprile 1906, n. 126](Disposizioni%20per%20le%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20che%20concorrono%20alle%20pubbliche%20gare.%20006U0126.md), e per i Consorzi di cooperative dall'art. 75 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md).
 
 ### Art. 7.
 
@@ -94,7 +94,7 @@ In un medesimo contratto d'appalto si possono comprendere opere da eseguirsi a c
 
 ### Art. 8.
 
-Nei contratti di appalto, da stipulare dopo la pubblicazione del presente decreto, per opere la cui esecuzione richieda lungo periodo di tempo, e per le quali si prevedano notevoli oscillazioni nei prezzi, si potranno introdurre clausole affinche', a determinate scadenze, i prezzi di contratto possano essere riveduti e modificati dall'Amministrazione appaltante, d'accordo con le imprese, o in difetto con provvedimento di ufficio, a termini dell'articolo 22, terzo comma del regolamento approvato con [R. decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md).
+Nei contratti di appalto, da stipulare dopo la pubblicazione del presente decreto, per opere la cui esecuzione richieda lungo periodo di tempo, e per le quali si prevedano notevoli oscillazioni nei prezzi, si potranno introdurre clausole affinche', a determinate scadenze, i prezzi di contratto possano essere riveduti e modificati dall'Amministrazione appaltante, d'accordo con le imprese, o in difetto con provvedimento di ufficio, a termini dell'articolo 22, terzo comma del regolamento approvato con [R. decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md).
 
 ### Art. 9.
 
@@ -266,11 +266,11 @@ Capo VI.
 
 Le disposizioni del presente decreto sono estese, in quanto applicabili, ai lavori che si eseguono, con o senza concorso dello Stato, dalle Provincie, dai Comuni, dai Consorzi amministrativi, e da enti autonomi per l'esecuzione di opere pubbliche. 
  
- Gli appalti mediante licitazione o trattative private e l'esecuzione in economia sono consentiti, anche fuori dei casi previsti negli articoli 183, 189 e 258 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), ferme restando le disposizioni degli articoli 184, 186, 187 e 188 del detto testo unico. 
+ Gli appalti mediante licitazione o trattative private e l'esecuzione in economia sono consentiti, anche fuori dei casi previsti negli articoli 183, 189 e 258 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), ferme restando le disposizioni degli articoli 184, 186, 187 e 188 del detto testo unico. 
  
  L'autorizzazione prefettizia per la dispensa dagli incanti e' richiesta soltanto per gli appalti il cui valore complessivo ecceda le L. 2000, se si tratti di Comuni, e le L. 5000, se si tratti di Provincie. 
  
- La risoluzione dei contratti nel caso previsto dall'art. 23 del presente decreto, e' pronunziata dalle Amministrazioni appaltanti nei modi e con le garanzie di legge. Gli svincoli parziali o anticipati delle cauzioni ammessi dagli articoli 14 e 29 e la restituzione anticipata delle ritenute di garanzia ammessa dall'art. 30, dovranno per le Provincie e per i Comuni essere autorizzate nei modi prescritti dall'art. 180 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297).
+ La risoluzione dei contratti nel caso previsto dall'art. 23 del presente decreto, e' pronunziata dalle Amministrazioni appaltanti nei modi e con le garanzie di legge. Gli svincoli parziali o anticipati delle cauzioni ammessi dagli articoli 14 e 29 e la restituzione anticipata delle ritenute di garanzia ammessa dall'art. 30, dovranno per le Provincie e per i Comuni essere autorizzate nei modi prescritti dall'art. 180 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md).
 
 ### Art. 33.
 

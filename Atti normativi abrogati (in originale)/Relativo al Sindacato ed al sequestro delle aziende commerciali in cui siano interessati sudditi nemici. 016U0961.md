@@ -28,7 +28,7 @@ Il Sindacato viene esercitato, sotto la vigilanza dell'intendente di finanza, da
 
 ## Art. 4.
 
-Chiunque rifiuti di fornire all'incaricato del Sindacato le informazioni da esso richieste nell'esercizio delle sue funzioni e' punito a termini dell'[art. 435 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque rifiuti di fornire all'incaricato del Sindacato le informazioni da esso richieste nell'esercizio delle sue funzioni e' punito a termini dell'[art. 435 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

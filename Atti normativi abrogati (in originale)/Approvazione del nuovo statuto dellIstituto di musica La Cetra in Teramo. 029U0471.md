@@ -14,7 +14,7 @@ N.
 
 471.
 
-R. decreto 24 febbraio 1929, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Istituto di musica «La Cetra», in Teramo, in sostituzione di quello approvato con [R. decreto 29 giugno 1924, n. 1173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-29;1173). 
+R. decreto 24 febbraio 1929, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Istituto di musica «La Cetra», in Teramo, in sostituzione di quello approvato con [R. decreto 29 giugno 1924, n. 1173](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellistituto%20sociale%20di%20musica%20La%20Cetra%20in%20Teramo.%20024U1173.md). 
  
  Visto, il Guardasigilli: ROCCO. 
  

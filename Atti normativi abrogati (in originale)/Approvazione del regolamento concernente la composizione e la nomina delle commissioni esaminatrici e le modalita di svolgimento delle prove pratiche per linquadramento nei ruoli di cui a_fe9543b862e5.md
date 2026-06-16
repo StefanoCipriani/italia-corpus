@@ -36,7 +36,7 @@ Le commissioni esaminatrici delle prove pratiche sia di inquadramento che di tra
 
 AVVERTENZA:
 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10 commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10 commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  NOTE
@@ -181,10 +181,10 @@ Nota all'art. 10, comma 1;
 
 1.
 
-Nei concorsi per l'accesso ai ruoli tecnici si applicano, per quanto non previsto ed in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md).
+Nei concorsi per l'accesso ai ruoli tecnici si applicano, per quanto non previsto ed in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md).
 
 Nota all'[art. 11:
- Il D.P.R. 23 dicembre 1983, n. 903](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), concerne: "Approvazione del regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia".
+ Il D.P.R. 23 dicembre 1983, n. 903](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), concerne: "Approvazione del regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

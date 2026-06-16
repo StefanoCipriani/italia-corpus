@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
+Visto il [R. decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
 
-Visto il [R. decreto-legge 13 novembre 1924, n. 1990](Reclutamento%20e%20avanzamento%20degli%20ufficiali%20del%20corpo%20di%20Stato%20Maggiore%20generale%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20sua%20costituzione.%20024U1990.md), ed il relativo regolamento approvato con [R. decreto 2 aprile 1925, n. 483](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto-legge%2013%20novembre%201924%20n.%201990%20relativo%20al%20reclutamento%20e%20avanzamento%20degli%20ufficiali%20del%20corpo%20di%20Stato%20Maggiore%20generale%20de_3087f8853713.md);
+Visto il [R. decreto-legge 13 novembre 1924, n. 1990](Reclutamento%20e%20avanzamento%20degli%20ufficiali%20del%20corpo%20di%20Stato%20Maggiore%20generale%20della%20Regia%20aeronautica%20durante%20il%20periodo%20di%20sua%20costituzione.%20024U1990.md), ed il relativo regolamento approvato con [R. decreto 2 aprile 1925, n. 483](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto-legge%2013%20novembre%201924%20n.%201990%20relativo%20al%20reclutamento%20e%20avanzamento%20degli%20ufficiali%20del%20corpo%20di%20Stato%20Maggiore%20generale%20de_3087f8853713.md);
 
 Udito il Consiglio dei Ministri;
 

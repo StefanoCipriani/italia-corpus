@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Viste le leggi di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e le successive modificazioni;
+Viste le leggi di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e le successive modificazioni;
 
 Visto il [decreto Luogotenenziale 15 giugno 1918, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-15;798);
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Visto il regolamento in esecuzione del testo unico di legge su mentovato, approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md); 
  
- Visto il regolamento per le spese ad economia delle biblioteche pubbliche governative approvato con [Regio decreto 28 settembre 1919, n. 2539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;2539); 
+ Visto il regolamento per le spese ad economia delle biblioteche pubbliche governative approvato con [Regio decreto 28 settembre 1919, n. 2539](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20spese%20ad%20economia%20delle%20biblioteche%20governative.%20019U2539.md); 
  
  Veduto il [decreto-legge Luogotenenziale 6 febbraio 1919, n.107](Che%20detta%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20dello%20Stato.%20019U0107.md); 
  
@@ -34,7 +34,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Agli articoli 2, 4 e 5 del regolamento per le spese ad economia nelle biblioteche pubbliche governative approvato con [R. decreto 28 settembre 1919, n. 2539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;2539) sono sostituiti i seguenti:
+ Agli articoli 2, 4 e 5 del regolamento per le spese ad economia nelle biblioteche pubbliche governative approvato con [R. decreto 28 settembre 1919, n. 2539](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20spese%20ad%20economia%20delle%20biblioteche%20governative.%20019U2539.md) sono sostituiti i seguenti:
 
 ## Art. 2.
 

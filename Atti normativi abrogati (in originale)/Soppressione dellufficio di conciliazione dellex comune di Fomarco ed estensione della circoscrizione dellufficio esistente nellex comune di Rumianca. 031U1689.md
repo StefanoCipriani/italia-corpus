@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 7 giugno 1928, n. 1524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-07;1524), col quale i comuni di Fomarco e Rumianca venivano riuniti in un solo Comune, con denominazione e capoluogo Pieve Vergonte; 
+ Visto il [R. decreto 7 giugno 1928, n. 1524](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Fomarco%20e%20Rumianca%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Pieve%20Vergonte.%20028U1524.md), col quale i comuni di Fomarco e Rumianca venivano riuniti in un solo Comune, con denominazione e capoluogo Pieve Vergonte; 
  Vista la deliberazione del podesta' di Pieve Vergonte, con la quale si chiede che per tutto il territorio del Comune medesimo funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728: 

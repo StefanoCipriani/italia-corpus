@@ -29,7 +29,7 @@ I piani annuali recanti le indicazioni dei macchinari, delle attrezzature, degli
 
 ## Art. 3.
 
-Per l'attuazione dei piani di cui al precedente articolo, il Ministero dell'interno e' autorizzato ad avvalersi, mediante contratti stipulati anche a trattativa privata, di enti ed imprese che abbiano particolare competenza ed idonei mezzi tecnici, eventualmente in deroga al disposto degli [articoli 107](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md) e [113 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+Per l'attuazione dei piani di cui al precedente articolo, il Ministero dell'interno e' autorizzato ad avvalersi, mediante contratti stipulati anche a trattativa privata, di enti ed imprese che abbiano particolare competenza ed idonei mezzi tecnici, eventualmente in deroga al disposto degli [articoli 107](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md) e [113 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
  Per i progetti, i contratti e le convenzioni per l'esecuzione dei lavori, provviste e forniture inerenti all'attuazione dei piani predetti, si deroga all'obbligo dei preventivi pareri prescritti dalle norme vigenti.
  Il Ministro dell'interno puo' delegare al direttore generale della protezione civile e dei servizi antincendi l'approvazione dei provvedimenti autorizzativi di spesa nell'ambito dei piani annuali di cui all'articolo 2.
 

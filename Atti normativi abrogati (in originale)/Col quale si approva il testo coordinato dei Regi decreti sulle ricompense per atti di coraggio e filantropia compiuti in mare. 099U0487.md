@@ -91,9 +91,9 @@ Il Consiglio Superiore di Marina esaminera' il merito dell'azione compiuta ed es
 
 ## Art. 13. — (Articolo 3 R. decreto 25 luglio 1899, n. 337).
 
-Non potranno conseguire la medaglia al valor di marina, e, avendola conseguita, saranno privati dal diritto di fregiarsene, coloro i quali siano incorsi nella interdizione perpetua dai pubblici uffici in conformita' del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo il caso di riabilitazione. 
+Non potranno conseguire la medaglia al valor di marina, e, avendola conseguita, saranno privati dal diritto di fregiarsene, coloro i quali siano incorsi nella interdizione perpetua dai pubblici uffici in conformita' del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo il caso di riabilitazione. 
  
- Parimenti non potranno conseguire la medaglia al valor di marina, ne', avendola conseguita, potranno fregiarsene coloro che siano incorsi nell'interdizione temporanea dai pubblici uffici, finche' dura siffatta interdizione, giusta le norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo sempre il caso di riabilitazione.
+ Parimenti non potranno conseguire la medaglia al valor di marina, ne', avendola conseguita, potranno fregiarsene coloro che siano incorsi nell'interdizione temporanea dai pubblici uffici, finche' dura siffatta interdizione, giusta le norme del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo sempre il caso di riabilitazione.
 
 ## Art. 14. — (Articolo 4 R. decreto 25 luglio 1899, n. 337).
 

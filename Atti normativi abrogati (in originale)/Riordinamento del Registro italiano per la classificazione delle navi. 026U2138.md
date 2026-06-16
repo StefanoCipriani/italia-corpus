@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il Codice per la marina mercantile e il regolamento per la esecuzione di esso, e successive modificazioni;
 
-Visto il [R. decreto 9 giugno 1921, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-09;898), col quale viene costituito ed eretto in ente morale, sotto la denominazione di «Registro italiano» (gia' «Registro navale italiano e Veritas Adriatico») un Istituto per la visita e la classificazione delle navi e dei galleggianti;
+Visto il [R. decreto 9 giugno 1921, n. 898](../Regi%20decreti/applicazione%20di%20tassa%20di%20esercizio%20ed%20erezione%20in%20ente%20morale%20021U0898.md), col quale viene costituito ed eretto in ente morale, sotto la denominazione di «Registro italiano» (gia' «Registro navale italiano e Veritas Adriatico») un Istituto per la visita e la classificazione delle navi e dei galleggianti;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le comunicazioni, di concerto con i Ministri per
 
 ## Art. 1.
 
-Il Registro italiano, costituito ed eretto in ente morale con [R. decreto 9 giugno 1921, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-09;898), e' regolato dalle disposizioni seguenti.
+Il Registro italiano, costituito ed eretto in ente morale con [R. decreto 9 giugno 1921, n. 898](../Regi%20decreti/applicazione%20di%20tassa%20di%20esercizio%20ed%20erezione%20in%20ente%20morale%20021U0898.md), e' regolato dalle disposizioni seguenti.
 
 ## Art. 2.
 

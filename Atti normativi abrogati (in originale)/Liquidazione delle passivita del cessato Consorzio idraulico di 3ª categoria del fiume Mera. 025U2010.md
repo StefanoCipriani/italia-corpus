@@ -18,7 +18,7 @@ Vista la [legge 10 luglio 1887, n. 4747](Che%20dichiara%20opere%20idrauliche%20d
 
 Ritenuta l'opportunita', in dipendenza della suddetta classificazione, di un intervento dello Stato nella annosa e complessa, liquidazione delle passivita' del cessato Consorzio idraulico di 3ª categoria del Mera, costituito nel 1875, a norma delle disposizioni della legge sui lavori pubblici, allegato F, 20 marzo 1865, n. 2248;
 
-Visto il testo unico delle disposizioni sulle opere idrauliche, approvato con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), modificato dalla [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md);
+Visto il testo unico delle disposizioni sulle opere idrauliche, approvato con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), modificato dalla [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -46,7 +46,7 @@ Allo scopo e' assegnato il termine di anni due per la ricostituzione del catasto
 
 ## Art. 6.
 
-Alla spesa, di cui al presente decreto, si provvedera' con i fondi assegnati al bilancio passivo del [Ministero dei lavori pubblici con il R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), per concorsi e sussidi ad opere idrauliche di 3ª, 4ª e 5ª categoria nell'Italia settentrionale, escluse le provincie Venete e di Mantova.
+Alla spesa, di cui al presente decreto, si provvedera' con i fondi assegnati al bilancio passivo del [Ministero dei lavori pubblici con il R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), per concorsi e sussidi ad opere idrauliche di 3ª, 4ª e 5ª categoria nell'Italia settentrionale, escluse le provincie Venete e di Mantova.
 
 ## Art. 7.
 

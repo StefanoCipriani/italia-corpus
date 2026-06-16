@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), sull'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato e il relativo regolamento, approvato con [Regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato e il relativo regolamento, approvato con [Regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni;
 
 Visto l'art. 782 del regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [R. decreto 10 febbraio 1927, n. 443](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20027U0443.md);
 

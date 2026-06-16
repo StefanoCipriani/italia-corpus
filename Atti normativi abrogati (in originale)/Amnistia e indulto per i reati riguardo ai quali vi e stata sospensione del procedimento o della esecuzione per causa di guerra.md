@@ -16,7 +16,7 @@ Visto l'[art. 5 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](..
 
 Vista la [legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md);
 
-Visto il [regio decreto 5 aprile 1943, n. 354](Norme%20Integrative%20della%20legge%209%20luglio%201940-XVIII%20n.%20924%20concernente%20la%20sospensione%20dei%20procedimenti%20penali%20e%20la%20esecuzione%20delle%20pene.%20043U0354.md);
+Visto il [regio decreto 5 aprile 1943, n. 354](../Regi%20decreti/Norme%20Integrative%20della%20legge%209%20luglio%201940-XVIII%20n.%20924%20concernente%20la%20sospensione%20dei%20procedimenti%20penali%20e%20la%20esecuzione%20delle%20pene.%20043U0354.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -45,7 +45,7 @@ Le misure di sicurezza sospese o differite a norma degli [articoli 8](Norme%20re
 
 ## Art. 5.
 
-Sono condonate le pene pecuniarie o detentive la cui esecuzione e' stata differita o sospesa, per considerazioni di indole familiare ai sensi dell'[art. 6 della legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md) e dell'[art. 3 del regio decreto 5 aprile 1943, n. 354](Norme%20Integrative%20della%20legge%209%20luglio%201940-XVIII%20n.%20924%20concernente%20la%20sospensione%20dei%20procedimenti%20penali%20e%20la%20esecuzione%20delle%20pene.%20043U0354.md).
+Sono condonate le pene pecuniarie o detentive la cui esecuzione e' stata differita o sospesa, per considerazioni di indole familiare ai sensi dell'[art. 6 della legge 9 luglio 1940, n. 924](Norme%20relative%20alla%20sospensione%20dei%20procedimenti%20penali%20e%20alla%20esecuzione%20delle%20pene.%20040U0924.md) e dell'[art. 3 del regio decreto 5 aprile 1943, n. 354](../Regi%20decreti/Norme%20Integrative%20della%20legge%209%20luglio%201940-XVIII%20n.%20924%20concernente%20la%20sospensione%20dei%20procedimenti%20penali%20e%20la%20esecuzione%20delle%20pene.%20043U0354.md).
 
 ## Art. 6.
 
@@ -53,7 +53,7 @@ Sono esclusi dai benefici indicati negli articoli 1, 3, 4 e 5 coloro che hanno r
 
 ## Art. 7.
 
-Per i recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per i delinquenti abituali o professionali o per tendenza resta esclusa, a norma dell'ultimo capoverso dell'[art. 151 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'applicazione dei benefici indicati negli articoli 1, 3, 4 e 5 del presente decreto.
+Per i recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per i delinquenti abituali o professionali o per tendenza resta esclusa, a norma dell'ultimo capoverso dell'[art. 151 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'applicazione dei benefici indicati negli articoli 1, 3, 4 e 5 del presente decreto.
 
 ## Art. 8.
 

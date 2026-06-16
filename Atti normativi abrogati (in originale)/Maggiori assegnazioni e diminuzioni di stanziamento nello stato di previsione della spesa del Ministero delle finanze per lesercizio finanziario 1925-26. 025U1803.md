@@ -86,7 +86,7 @@ VITTORIO EMANUELE III
  impiegati, ecc. . . . . . . . . . . . . . . . . . . . » 20,000
 
  Cap. 452 - Premi di operosita' e di rendimento ai sensi
- dell'[art. 63 del R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md),
+ dell'[art. 63 del R. decreto 30 settembre 1922, n. 1290](../Regi%20decreti/Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md),
  ecc. . . . . . . . . . . . . . . . . . . . . . . . . . » 300,000
 
  Cap. 468-bis - Spese per la formazione del nuovo catasto

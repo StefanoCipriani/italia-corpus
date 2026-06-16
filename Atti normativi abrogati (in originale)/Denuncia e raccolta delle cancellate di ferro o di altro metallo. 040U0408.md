@@ -62,7 +62,7 @@ I progetti di manufatti, che i proprietari ritenessero di sostituire alle cancel
 
 ## Art. 7.
 
-Chiunque ometta la denuncia prevista dal precedente art. 2 o faccia denuncia incompleta, o comunque violi le disposizioni di cui agli articoli 1 e 2, e' punito con l'arresto da sei mesi a tre anni e con l'ammenda non inferiore a L. 2000, senza pregiudizio delle maggiori o diverse sanzioni stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque ometta la denuncia prevista dal precedente art. 2 o faccia denuncia incompleta, o comunque violi le disposizioni di cui agli articoli 1 e 2, e' punito con l'arresto da sei mesi a tre anni e con l'ammenda non inferiore a L. 2000, senza pregiudizio delle maggiori o diverse sanzioni stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Ove si tratti di piccola quantita' dl materiale, e comunque non superiore ai 200 chilogrammi, la pena e' dell'ammenda dal triplo al decuplo del valore del materiale stesso, e, in ogni caso, non inferiore a L. 500.
 

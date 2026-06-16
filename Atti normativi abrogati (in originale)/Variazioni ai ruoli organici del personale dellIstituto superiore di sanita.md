@@ -22,12 +22,12 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I ruoli organici del personale dell'Istituto superiore di sanita' di cui alla tabella A allegata al [regio decreto 17 ottobre 1941, n. 1265](Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), sono sostituiti da quelli di cui alla tabella allegata al presente decreto, vistata dal Presidente del Consiglio dei Ministri e dal Ministro per il tesoro.
+I ruoli organici del personale dell'Istituto superiore di sanita' di cui alla tabella A allegata al [regio decreto 17 ottobre 1941, n. 1265](../Regi%20decreti/Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), sono sostituiti da quelli di cui alla tabella allegata al presente decreto, vistata dal Presidente del Consiglio dei Ministri e dal Ministro per il tesoro.
 
 ## Art. 2.
 
 Fra i capi di laboratorio potranno effettuarsi quattro promozioni al grado 4°.
- Le promozioni saranno conferite, ai sensi dell'[art. 19 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_19), previo giudizio espresso, sulla base del merito comparativo, dalla speciale Commissione prevista dall'art. 9 del presente decreto, ai capi, laboratorio che abbiano esercitato le relative funzioni da oltre cinque anni.
+ Le promozioni saranno conferite, ai sensi dell'[art. 19 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), previo giudizio espresso, sulla base del merito comparativo, dalla speciale Commissione prevista dall'art. 9 del presente decreto, ai capi, laboratorio che abbiano esercitato le relative funzioni da oltre cinque anni.
 
 ## Art. 3.
 
@@ -217,7 +217,7 @@ L'attuazione delle norme transitorie del presente decreto, puo' essere effettuat
 
 ### Art. 32.
 
-Per il personale entrato a far parte dei ruoli dell'Istituto in base alle disposizioni del [regio decreto 17 ottobre 1941, n. 1265](Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), e per quello che sara' assunto, a norma del presente decreto, il servizio comunque prestato, alle dipendenze dell'Istituto anteriormente all'assunzione in ruolo, sara' riscattabile ai fini della pensione, con le stesse norme vigenti per il personale non di ruolo delle Amministrazioni dello Stato.
+Per il personale entrato a far parte dei ruoli dell'Istituto in base alle disposizioni del [regio decreto 17 ottobre 1941, n. 1265](../Regi%20decreti/Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), e per quello che sara' assunto, a norma del presente decreto, il servizio comunque prestato, alle dipendenze dell'Istituto anteriormente all'assunzione in ruolo, sara' riscattabile ai fini della pensione, con le stesse norme vigenti per il personale non di ruolo delle Amministrazioni dello Stato.
 
 ### Art. 33.
 
@@ -237,7 +237,7 @@ Con decreto del Ministro per il tesoro saranno disposte le variazioni di bilanci
 
 ### Art. 36.
 
-Per quant'altro non e' espressamente stabilito nel presente decreto, saranno osservate, in quanto applicabili, le disposizioni contenute nel [regio decreto 17 ottobre 1941, n. 1265](Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), e successive modificazioni.
+Per quant'altro non e' espressamente stabilito nel presente decreto, saranno osservate, in quanto applicabili, le disposizioni contenute nel [regio decreto 17 ottobre 1941, n. 1265](../Regi%20decreti/Nuova%20denominazione%20dellIstituto%20di%20sanita%20pubblica%20e%20riordinamento%20dei%20ruoli%20del%20relativo%20personale.%20041U1265.md), e successive modificazioni.
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

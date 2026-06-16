@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio e 
 
 ## Art. 1.
 
-Nell'ultimo capoverso dell'art. 31 del testo unico delle leggi sul credito fondiario, approvato con [Regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e' soppresso il periodo seguente. «Ma tale aggiunta di onere non potra' colpire che i mutui il cui interesse sia fissato al tre e mezzo per cento, al quattro o al quattro e mezzo per cento».
+Nell'ultimo capoverso dell'art. 31 del testo unico delle leggi sul credito fondiario, approvato con [Regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e' soppresso il periodo seguente. «Ma tale aggiunta di onere non potra' colpire che i mutui il cui interesse sia fissato al tre e mezzo per cento, al quattro o al quattro e mezzo per cento».
 
 ## Art. 2.
 

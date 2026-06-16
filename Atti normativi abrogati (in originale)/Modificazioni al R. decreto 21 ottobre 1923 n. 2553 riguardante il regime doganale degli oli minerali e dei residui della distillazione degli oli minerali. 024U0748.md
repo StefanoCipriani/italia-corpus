@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la tariffa generale dei dazi doganali approvata con [decreto-legge 9 giugno 1921, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-06-09;806), e le modificazioni successivamente apportatevi;
 
-Visto il testo unico delle disposizioni sulle tare approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), e le modificazioni successivamente apportatevi;
+Visto il testo unico delle disposizioni sulle tare approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), e le modificazioni successivamente apportatevi;
 
-Visto il [R. decreto 21 ottobre 1923, n. 2553](Modificazioni%20al%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20di%20oli%20minerali.%20023U2553.md), che ha apportato modificazioni al regime doganale degli oli minerali e dei residui della distillazione di oli minerali;
+Visto il [R. decreto 21 ottobre 1923, n. 2553](../Regi%20decreti/Modificazioni%20al%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20di%20oli%20minerali.%20023U2553.md), che ha apportato modificazioni al regime doganale degli oli minerali e dei residui della distillazione di oli minerali;
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia, nazionale
 
 ## Art. 1.
 
-All'[art. 1 del R. decreto 21 ottobre 1923, n. 2553](Modificazioni%20al%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20di%20oli%20minerali.%20023U2553.md), e' sostituito il seguente: 
+All'[art. 1 del R. decreto 21 ottobre 1923, n. 2553](../Regi%20decreti/Modificazioni%20al%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20di%20oli%20minerali.%20023U2553.md), e' sostituito il seguente: 
  
  La voce 643 lettera a) e la voce 644 della tariffa generale dei dazi doganali approvata con [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), sono modificate come segue: 
  
@@ -42,13 +42,13 @@ Gli oli minerali soggetti a dazio superiore a L. 20 il quintale, importati in bo
 
 ## Art. 4.
 
-All'[art. 3 del R. decreto 21 ottobre 1923, n. 2553](Modificazioni%20al%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20di%20oli%20minerali.%20023U2553.md), e' aggiunto il seguente comma: 
+All'[art. 3 del R. decreto 21 ottobre 1923, n. 2553](../Regi%20decreti/Modificazioni%20al%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20di%20oli%20minerali.%20023U2553.md), e' aggiunto il seguente comma: 
  
  Chiunque intenda trasformare o rettificare oli minerali diversi da quelli previsti dal precedente comma e' soggetto a una tassa di licenza di L. 50, e deve sottoporsi, a proprie spese, alla vigilanza che l'Amministrazione delle finanze credera' di stabilire.
 
 ## Art. 5.
 
-Il [primo comma dell'art. 4 del R. decreto 21 ottobre 1923, n. 2553](Modificazioni%20al%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20di%20oli%20minerali.%20023U2553.md), e' modificato come segue: 
+Il [primo comma dell'art. 4 del R. decreto 21 ottobre 1923, n. 2553](../Regi%20decreti/Modificazioni%20al%20regime%20doganale%20degli%20oli%20minerali%20e%20dei%20residui%20della%20distillazione%20di%20oli%20minerali.%20023U2553.md), e' modificato come segue: 
  
  Chiunque voglia trasformare o rettificare oli minerali, compresi i residui, di origine estera, oltre ad osservare le disposizioni di cui all'articolo precedente, deve ottenere preventivamente una apposita autorizzazione da parte del Ministro per le finanze.
 

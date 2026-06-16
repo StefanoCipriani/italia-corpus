@@ -36,7 +36,7 @@ L'Amministrazione autonoma dei monopoli	Stato e' autorizzata ad accertare e risc
 
 L'Amministrazione del Fondo di massa del Corpo della R. Guardia di Finanza e' autorizzato ad accertare e riscuotere le entrate ed a far pagare le spese riguardanti l'esercizio finanziario dal 1° luglio 1945 al 30 giugno 1946, in conformita' del bilancio di previsione annesso al presente decreto. (Appendice n. 2). 
  
- Per gli effetti di cui all'[art. 40 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sulla contabilita' generale dello Stato, sono considerate spese obbligatorie e d'ordine dell'Amministrazione del Fondo di massa del Corpo della R. Guardia di Finanza, quelle descritte nell'elenco annesso al detto bilancio. 
+ Per gli effetti di cui all'[art. 40 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato, sono considerate spese obbligatorie e d'ordine dell'Amministrazione del Fondo di massa del Corpo della R. Guardia di Finanza, quelle descritte nell'elenco annesso al detto bilancio. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

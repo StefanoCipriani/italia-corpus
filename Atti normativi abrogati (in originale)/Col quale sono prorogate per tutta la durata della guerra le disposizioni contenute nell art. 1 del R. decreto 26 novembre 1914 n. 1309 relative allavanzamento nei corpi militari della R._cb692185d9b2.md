@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata e dei poteri straordinari concessi al Governo dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 26 novembre 1914, n. 1309](Da%20convertirsi%20in%20legge%20relativo%20a%20norme%20per%20lavanzamento%20degli%20ufficiali%20subalterni%20della%20R.%20marina%20014U1309.md), che stabilisce alcune norme speciali per l'avanzamento nei corpi militari della R. marina per la durata di un anno a decorrere dal 1° dicembre 1914; 
+ Visto il [R. decreto 26 novembre 1914, n. 1309](../Regi%20decreti/Da%20convertirsi%20in%20legge%20relativo%20a%20norme%20per%20lavanzamento%20degli%20ufficiali%20subalterni%20della%20R.%20marina%20014U1309.md), che stabilisce alcune norme speciali per l'avanzamento nei corpi militari della R. marina per la durata di un anno a decorrere dal 1° dicembre 1914; 
  
  Considerato che l'attuale stato di guerra rende necessario prorogare l'applicazione di tali norme; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Le disposizioni contenute nell'[art. 1 del R. decreto 26 novembre 1914, n. 1309](Da%20convertirsi%20in%20legge%20relativo%20a%20norme%20per%20lavanzamento%20degli%20ufficiali%20subalterni%20della%20R.%20marina%20014U1309.md), relative all'avanzamento nei corpi militari della R. marina, continueranno ad aver vigore per tutta la durata della guerra. 
+ Le disposizioni contenute nell'[art. 1 del R. decreto 26 novembre 1914, n. 1309](../Regi%20decreti/Da%20convertirsi%20in%20legge%20relativo%20a%20norme%20per%20lavanzamento%20degli%20ufficiali%20subalterni%20della%20R.%20marina%20014U1309.md), relative all'avanzamento nei corpi militari della R. marina, continueranno ad aver vigore per tutta la durata della guerra. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

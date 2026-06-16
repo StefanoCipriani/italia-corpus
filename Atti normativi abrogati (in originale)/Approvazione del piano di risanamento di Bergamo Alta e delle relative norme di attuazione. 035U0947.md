@@ -96,7 +96,7 @@ Tatto le costruzioni di edifici completamente nuovi, eseguite sia dai privati ch
 
 ## Art. 9.
 
-Il comune di Bergamo e' autorizzato ad imporre ai proprietari dei beni che siano avvantaggiati dalla esecuzione delle opere previste dal presente piano regolatore, contributi di miglioria nei limiti e con le forme previste dal testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
+Il comune di Bergamo e' autorizzato ad imporre ai proprietari dei beni che siano avvantaggiati dalla esecuzione delle opere previste dal presente piano regolatore, contributi di miglioria nei limiti e con le forme previste dal testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
 
 ## Art. 10.
 

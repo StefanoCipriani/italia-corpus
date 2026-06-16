@@ -30,7 +30,7 @@ E' autorizzato il pagamento delle spese del Ministero per la Costituente, per l'
 
 ## Art. 2.
 
-All'elenco n. 1 allegato allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1945-46, concernente i capitoli per i quali e' concessa al Governo la facolta' di cui all'[art. 40 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sono aggiunti i capitoli seguenti: 
+All'elenco n. 1 allegato allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1945-46, concernente i capitoli per i quali e' concessa al Governo la facolta' di cui all'[art. 40 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sono aggiunti i capitoli seguenti: 
  
  Ministero per la Costituente: 
  Cap. n. 9. - Spese postali e telegrafiche. 
@@ -38,7 +38,7 @@ All'elenco n. 1 allegato allo stato di previsione della spesa del Ministero del 
 
 ## Art. 3.
 
-All'elenco n. 3 allegato allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1945-46, concernente i capitoli per i quali e' concessa al Governo la facolta' di cui all'[art. 41 primo comma del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), e' aggiunto il seguente capitolo: 
+All'elenco n. 3 allegato allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1945-46, concernente i capitoli per i quali e' concessa al Governo la facolta' di cui all'[art. 41 primo comma del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e' aggiunto il seguente capitolo: 
  
  Ministero per la Costituente: 
  Cap. n. 1. - Stipendi ed altri assegni fissi al personale di ruolo. 

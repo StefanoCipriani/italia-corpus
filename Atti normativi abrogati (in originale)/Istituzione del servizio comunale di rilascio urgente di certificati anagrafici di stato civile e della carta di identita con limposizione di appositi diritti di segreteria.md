@@ -12,15 +12,15 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297);
+Visto il regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md);
 
-Visto il [R. decreto 22 marzo 1923, n. 761](Che%20modifica%20lallegato%20n.%205%20al%20regolamento%2012%20febbraio%201911%20n.%20297%20per%20lesecuzione%20della%20legge%20comunale%20e%20provinciale.%20023U0761.md);
+Visto il [R. decreto 22 marzo 1923, n. 761](../Regi%20decreti/Che%20modifica%20lallegato%20n.%205%20al%20regolamento%2012%20febbraio%201911%20n.%20297%20per%20lesecuzione%20della%20legge%20comunale%20e%20provinciale.%20023U0761.md);
 
-Visto il [R. decreto 21 marzo 1929, n. 371](Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md);
+Visto il [R. decreto 21 marzo 1929, n. 371](../Regi%20decreti/Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md);
 
-Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Visto l'[art. 291 del R. decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_291), che approva il regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) 18 giugno 1931, n. 773;
+Visto l'[art. 291 del R. decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_291), che approva il regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931, n. 773;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -43,7 +43,7 @@ La tariffa per il rilascio degli atti d'urgenza non puo' eccedere la cifra di L.
 ## Art. 3.
 
 L'allegato n. 5 al [regolamento 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-12;297), per l'esecuzione della legge comunale e provinciale.
- Modificato con i [Regi decreti 22 marzo 1923, n. 761](Che%20modifica%20lallegato%20n.%205%20al%20regolamento%2012%20febbraio%201911%20n.%20297%20per%20lesecuzione%20della%20legge%20comunale%20e%20provinciale.%20023U0761.md), e [21 marzo 1929, n. 371](Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md), e' abrogato e sostituito dal
+ Modificato con i [Regi decreti 22 marzo 1923, n. 761](../Regi%20decreti/Che%20modifica%20lallegato%20n.%205%20al%20regolamento%2012%20febbraio%201911%20n.%20297%20per%20lesecuzione%20della%20legge%20comunale%20e%20provinciale.%20023U0761.md), e [21 marzo 1929, n. 371](../Regi%20decreti/Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md), e' abrogato e sostituito dal
  ALLEGATO 5.
  Elenco descrittivo delle tasse e degli emolumenti che i Comuni e le Provincie sono autorizzate ad esigere per la spedizione degli atti infra descritti (oltre l'importo della carta bollata, della tassa sulle concessioni governative e dei diritti di registro nei casi previsti dalla legge), ai sensi degli articoli 172 e 265 della legge (ora [articoli 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_142) e [205 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_205)):
 
@@ -93,7 +93,7 @@ Per gli atti parte stampati e parte manoscritti, almeno per un terzo, il diritto
 
 ## Art. 4.
 
-La quota massima dei diritti di segreteria spettante ai segretari provinciali e comunali, a termini degli articoli 142, 2° comma, e 205, ultimo comma, del testo unico approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e commisurata alla meta' degli stipendi effettivamente percepiti dai segretari stessi, esclusa dal computo dello stipendio qualsiasi indennita' accessoria.
+La quota massima dei diritti di segreteria spettante ai segretari provinciali e comunali, a termini degli articoli 142, 2° comma, e 205, ultimo comma, del testo unico approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e commisurata alla meta' degli stipendi effettivamente percepiti dai segretari stessi, esclusa dal computo dello stipendio qualsiasi indennita' accessoria.
  Il presente decreto entrera' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

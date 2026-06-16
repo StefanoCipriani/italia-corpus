@@ -79,7 +79,7 @@ CAPO II
 
 ### Art. 6.
 
-Sono devoluti al direttore della casa di rieducazione i seguenti poteri attribuiti al Ministero di grazia e giustizia dal regolamento per il funzionamento delle case di rieducazione per minorenni, approvato con il [regio decreto 4 aprile 1939, n. 721](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-04;721):
+Sono devoluti al direttore della casa di rieducazione i seguenti poteri attribuiti al Ministero di grazia e giustizia dal regolamento per il funzionamento delle case di rieducazione per minorenni, approvato con il [regio decreto 4 aprile 1939, n. 721](../Regi%20decreti/Regolamento%20per%20il%20funzionamento%20delle%20Case%20di%20rieducazione%20per%20minorenni.%20039U0721.md):
  a) approvare l'orario generale secondo il quale devono svolgersi le operazioni giornaliere nelle dette case, nei casi previsti dall'art. 46;
  b) proporre al tribunale per i minorenni la dimissione dei minorenni colpiti da grave infermita' fisica o psichica, nei casi previsti dal secondo comma dell'articolo 63, e) richiedere l'opera di uno specialista, nella ipotesi prevista dall'art. 64 in caso di urgenza;
  d) autorizzare l'insegnamento delle lingue estere per i minorenni che vi dimostrino disposizione e che vogliano recarsi al lavoro all'estero, nei casi previsti dall'art. 71;
@@ -87,17 +87,17 @@ Sono devoluti al direttore della casa di rieducazione i seguenti poteri attribui
  f) autorizzare i minorenni a frequentare corsi di insegnamento di belle arti, musica, canto e recitazione presso istituti o scuole esistenti nella citta' dove ha sede la casa di rieducazione, nei casi previsti dall'art. 73;
  g) disporre che i corpi bandistici, istituiti nei casi previsti dall'art. 81, secondo comma, possano partecipare alle cerimonie alle quali intervengano una, o piu' squadre dell'istituto;
  h) rilasciare il diploma di abilitazione, nei casi previsti dal secondo comma dell'art. 87;
- i) concedere le ricompense indicate nell'art. 100, nel testo approvato con l'[art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4486](../DPR/Modificazioni%20al%20regolamento%20per%20le%20Case%20di%20rieducazione%20approvato%20con%20regio%20decreto%204%20aprile%201939%20n.%20721_2.md), nei casi previsti dal secondo comma dell'art. 101;
+ i) concedere le ricompense indicate nell'art. 100, nel testo approvato con l'[art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4486](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20per%20le%20Case%20di%20rieducazione%20approvato%20con%20regio%20decreto%204%20aprile%201939%20n.%20721_2.md), nei casi previsti dal secondo comma dell'art. 101;
  l) offrire in dono libri ai minorenni, nei casi previsti dal secondo comma dell'art. 102;
  m) accettare le offerte indirizzate a tutti i minorenni o ad alcune categorie di essi, nei casi previsti dal primo comma, dell'art 121.
 
 ### Art. 7.
 
-Per i provvedimenti del direttore della casa di rieducazione previsti dall'art. 79 del regolamento per il funzionamento delle case di rieducazione per minorenni, approvato con il [regio decreto 4 aprile 1939, n. 721, e dall'art. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-04;721#art_80), nel testo approvato con l'[art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4486](../DPR/Modificazioni%20al%20regolamento%20per%20le%20Case%20di%20rieducazione%20approvato%20con%20regio%20decreto%204%20aprile%201939%20n.%20721_2.md), e' soppresso, rispettivamente, l'obbligo dell'autorizzazione e dell'approvazione del Ministero.
+Per i provvedimenti del direttore della casa di rieducazione previsti dall'art. 79 del regolamento per il funzionamento delle case di rieducazione per minorenni, approvato con il [regio decreto 4 aprile 1939, n. 721, e dall'art. 80](../Regi%20decreti/Regolamento%20per%20il%20funzionamento%20delle%20Case%20di%20rieducazione%20per%20minorenni.%20039U0721.md), nel testo approvato con l'[art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4486](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20per%20le%20Case%20di%20rieducazione%20approvato%20con%20regio%20decreto%204%20aprile%201939%20n.%20721_2.md), e' soppresso, rispettivamente, l'obbligo dell'autorizzazione e dell'approvazione del Ministero.
 
 ### Art. 8.
 
-E' attribuito al presidente del Tribunale per i minorenni il potere di concedere ai minorenni licenze per sperimentare il loro comportamento fuori dell'istituto per una durata non superiore a sei mesi, ai sensi dell'art. 98 del regolamento per il funzionamento delle case di rieducazione per minorenni, approvato con il [regio decreto 4 aprile 1939, n. 721](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-04;721), nel testo approvato con l'[art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4486](../DPR/Modificazioni%20al%20regolamento%20per%20le%20Case%20di%20rieducazione%20approvato%20con%20regio%20decreto%204%20aprile%201939%20n.%20721_2.md).
+E' attribuito al presidente del Tribunale per i minorenni il potere di concedere ai minorenni licenze per sperimentare il loro comportamento fuori dell'istituto per una durata non superiore a sei mesi, ai sensi dell'art. 98 del regolamento per il funzionamento delle case di rieducazione per minorenni, approvato con il [regio decreto 4 aprile 1939, n. 721](../Regi%20decreti/Regolamento%20per%20il%20funzionamento%20delle%20Case%20di%20rieducazione%20per%20minorenni.%20039U0721.md), nel testo approvato con l'[art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4486](../Regolamenti%20governativi/Modificazioni%20al%20regolamento%20per%20le%20Case%20di%20rieducazione%20approvato%20con%20regio%20decreto%204%20aprile%201939%20n.%20721_2.md).
  Il provvedimento e' adottato su proposta del direttore, e di esso e' data comunicazione al Ministero di grazia o giustizia.
 
 ## Norme concernenti gli istituti di prevenzione e di pena per adulti  CAPO I Poteri devoluti agli ispettori
@@ -108,7 +108,7 @@ TITOLO II
 
 Presso ogni Procura generale di Corte di appello e' destinato un ispettore per gli istituti di prevenzione e pena, nei limiti dell'organico vigente.
  Il Ministro per la grazia e la giustizia puo' disporre, con suo decreto, che per piu' distretti di Corti di appello presti servizio un solo ispettore, stabilendone la sede.
- Agli ispettori distrettuali sono devolute, nell'ambito degli istituti di prevenzione e di pena per adulti esistenti nella circoscrizione loro assegnata e sotto la vigilanza, del competente procuratore generale della Repubblica, le funzioni di vigilanza e controllo attualmente esercitate dagli ispettori generali ai sensi dell'art. 90 del regolamento per il personale civile di ruolo degli istituti di prevenzione e di pena approvato con il [regio decreto 30 luglio 1940, n. 2041](Regolamento%20per%20il%20personale%20civile%20di%20ruolo%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20040U2041.md), nonche' quelle finora di competenza dell'Amministrazione centrale, di cui agli articoli indicati nel presente decreto.
+ Agli ispettori distrettuali sono devolute, nell'ambito degli istituti di prevenzione e di pena per adulti esistenti nella circoscrizione loro assegnata e sotto la vigilanza, del competente procuratore generale della Repubblica, le funzioni di vigilanza e controllo attualmente esercitate dagli ispettori generali ai sensi dell'art. 90 del regolamento per il personale civile di ruolo degli istituti di prevenzione e di pena approvato con il [regio decreto 30 luglio 1940, n. 2041](../Regi%20decreti/Regolamento%20per%20il%20personale%20civile%20di%20ruolo%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20040U2041.md), nonche' quelle finora di competenza dell'Amministrazione centrale, di cui agli articoli indicati nel presente decreto.
  Il procuratore generale ha la facolta' di provvedere, direttamente o su richiesta del Ministero, in casi di particolare importanza, alla trattazione di singoli affari.
 
 ### Art. 10.
@@ -159,7 +159,7 @@ CAPO II
 
 ### Art. 15.
 
-Sono devoluti al direttore dello stabilimento carcerario i seguenti poteri attribuiti al Ministero di grazia e giustizia dal regolamento per gli istituti di prevenzione e di pena, approvato con il [regio decreto 18 giugno 1931, n. 787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;787):
+Sono devoluti al direttore dello stabilimento carcerario i seguenti poteri attribuiti al Ministero di grazia e giustizia dal regolamento per gli istituti di prevenzione e di pena, approvato con il [regio decreto 18 giugno 1931, n. 787](../Regi%20decreti/Regolamento%20per%20gli%20istituti%20di%20prevenzione%20e%20di%20pena.%20031U0787.md):
  a) autorizzare, per casi singoli o con norme di carattere generale, i detenuti ad acquistare prodotti delle manifatture dello stabilimento, nei casi previsti dal secondo comma dell'art. 95;
  b) autorizzare l'intervento di un medico di fiducia, nei casi previsti dal primo comma dell'art. 109;
  c) sospendere l'isolamento diurno, nei casi previsti dall'art. 206.
@@ -167,7 +167,7 @@ Sono devoluti al direttore dello stabilimento carcerario i seguenti poteri attri
 
 ### Art. 16.
 
-I poteri conferiti al Ministero di grazia e giustizia dall'art. 121 del regolamento per gli istituti di prevenzione e di pena approvato con il [regio decreto 18 giugno 1931, n. 787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;787), sono attribuiti anche all'autorita' giudiziaria competente ai sensi del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), se trattasi di provvedere ad una conveniente utilizzazione dell'opera di detenuti che risultino forniti di particolare cultura; al direttore dello stabilimento, se trattisi di autorizzare detenuti che rivelino eccezionale perizia ad eseguire lavori della loro arte.
+I poteri conferiti al Ministero di grazia e giustizia dall'art. 121 del regolamento per gli istituti di prevenzione e di pena approvato con il [regio decreto 18 giugno 1931, n. 787](../Regi%20decreti/Regolamento%20per%20gli%20istituti%20di%20prevenzione%20e%20di%20pena.%20031U0787.md), sono attribuiti anche all'autorita' giudiziaria competente ai sensi del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), se trattasi di provvedere ad una conveniente utilizzazione dell'opera di detenuti che risultino forniti di particolare cultura; al direttore dello stabilimento, se trattisi di autorizzare detenuti che rivelino eccezionale perizia ad eseguire lavori della loro arte.
 
 ## Carceri mandamentali
 

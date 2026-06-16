@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 26 marzo 1911, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435); 
+ Visto il [R. decreto 26 marzo 1911, n. 435](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20la%20concessione%20e%20lamministrazione%20del%20palazzo%20di%20giustizia%20in%20Roma%20011U0435.md); 
  
  Visto il [decreto Luogotenenziale 22 aprile 1917, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-22;770); 
  

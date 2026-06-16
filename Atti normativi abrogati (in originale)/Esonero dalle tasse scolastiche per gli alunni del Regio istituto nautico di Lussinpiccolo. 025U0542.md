@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 4 febbraio 1923, n. 388](Portante%20miglioramenti%20economici%20agli%20insegnanti%20dei%20Regi%20istituti%20nautici.%20023U0388.md), e [21 ottobre 1923, n. 2438](Aumento%20della%20tassa%20di%20frequenza%20nei%20Regi%20istituti%20nautici.%20023U2438.md), per la parte che riguarda le tasse scolastiche per i Regi istituti nautici;
+Visti i [Regi decreti 4 febbraio 1923, n. 388](../Regi%20decreti/Portante%20miglioramenti%20economici%20agli%20insegnanti%20dei%20Regi%20istituti%20nautici.%20023U0388.md), e [21 ottobre 1923, n. 2438](../Regi%20decreti/Aumento%20della%20tassa%20di%20frequenza%20nei%20Regi%20istituti%20nautici.%20023U2438.md), per la parte che riguarda le tasse scolastiche per i Regi istituti nautici;
 
-Visto il [R. decreto 15 gennaio 1925, n. 53](Approvazione%20delle%20norme%20per%20lapplicazione%20delle%20disposizioni%20relative%20al%20pagamento%20ed%20agli%20esoneri%20dalle%20tasse%20scolastiche%20nei%20Regi%20istituti%20nautici.%20025U0053.md), che detta norme sul pagamento e sugli esoneri dalle tasse scolastiche nei Regi istituti nautici;
+Visto il [R. decreto 15 gennaio 1925, n. 53](../Regi%20decreti/Approvazione%20delle%20norme%20per%20lapplicazione%20delle%20disposizioni%20relative%20al%20pagamento%20ed%20agli%20esoneri%20dalle%20tasse%20scolastiche%20nei%20Regi%20istituti%20nautici.%20025U0053.md), che detta norme sul pagamento e sugli esoneri dalle tasse scolastiche nei Regi istituti nautici;
 
 Sentito il Consiglio dei Ministri;
 
@@ -34,7 +34,7 @@ Per circostanze eccezionali, o in occasione di gravi pubblici avvenimenti, il Mi
 
 ## Art. 3.
 
-Nel [1° comma dell'art. 7 del R. decreto 15 gennaio 1925, n. 53](Approvazione%20delle%20norme%20per%20lapplicazione%20delle%20disposizioni%20relative%20al%20pagamento%20ed%20agli%20esoneri%20dalle%20tasse%20scolastiche%20nei%20Regi%20istituti%20nautici.%20025U0053.md), le parole «e' accordato a coloro che siano di condizione disagiata o abbiano conseguito» sono abrogate e sostituite dalle seguenti: «e' accordato a coloro che siano di condizione disagiata ed abbiano conseguito». 
+Nel [1° comma dell'art. 7 del R. decreto 15 gennaio 1925, n. 53](../Regi%20decreti/Approvazione%20delle%20norme%20per%20lapplicazione%20delle%20disposizioni%20relative%20al%20pagamento%20ed%20agli%20esoneri%20dalle%20tasse%20scolastiche%20nei%20Regi%20istituti%20nautici.%20025U0053.md), le parole «e' accordato a coloro che siano di condizione disagiata o abbiano conseguito» sono abrogate e sostituite dalle seguenti: «e' accordato a coloro che siano di condizione disagiata ed abbiano conseguito». 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

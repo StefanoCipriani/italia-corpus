@@ -195,7 +195,7 @@ CAPO VI.
 ### Art. 24.
 
 E' in facolta' del Ministro per l'agricoltura e le foreste di infliggere sanzioni di carattere civile consistenti nel pagamento di un minimo di L. 50 sino ad un massimo di L. 2000 agli amministratori che contravvengono alle disposizioni del secondo comma dell'art. 1. della presente legge. 
- Eguali sanzioni, salve le pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), puo' lo stesso Ministro infliggere ai promotori, amministratori e sindaci che contravvengono alle disposizioni degli articoli 2, 3, 4, 8, 9, 10, 12, 13, 14, 15, 16, 19, 21 della presente legge e dello statuto.
+ Eguali sanzioni, salve le pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), puo' lo stesso Ministro infliggere ai promotori, amministratori e sindaci che contravvengono alle disposizioni degli articoli 2, 3, 4, 8, 9, 10, 12, 13, 14, 15, 16, 19, 21 della presente legge e dello statuto.
 
 ### Art. 25.
 

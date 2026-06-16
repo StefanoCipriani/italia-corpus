@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il [R. decreto-legge 11 gennaio 1937, n. 3](Approvazione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0003.md), col quale sono stati approvati i ruoli organici del personale del Ministero per la stampa e la propaganda, la cui denominazione e' stata modificata con quella di [Ministero della cultura popolare con R. decreto 27 maggio 1937, n. 752](Modificazione%20della%20denominazione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0752.md); 
+ Visto il [R. decreto-legge 11 gennaio 1937, n. 3](Approvazione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0003.md), col quale sono stati approvati i ruoli organici del personale del Ministero per la stampa e la propaganda, la cui denominazione e' stata modificata con quella di [Ministero della cultura popolare con R. decreto 27 maggio 1937, n. 752](../Regi%20decreti/Modificazione%20della%20denominazione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0752.md); 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

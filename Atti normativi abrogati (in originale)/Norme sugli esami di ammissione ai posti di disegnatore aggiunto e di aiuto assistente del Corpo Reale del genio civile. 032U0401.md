@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 5 ottobre 1920, n. 1431](Contenente%20provvedimenti%20pel%20personale%20dei%20disegnatori%20e%20degli%20assistenti%20del%20R.%20corpo%20del%20genio%20civile%20ed%20altri%20provvedimenti%20riguardanti%20il%20corpo%20stesso.%20020U1431.md), con la quale vennero istituite nel ruolo organico del Corpo Reale del genio civile le categorie dei disegnatori e degli assistenti;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni;
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
@@ -71,7 +71,7 @@ La Commissione esaminatrice e' nominata per ogni concorso con decreto del Minist
 
 ## Art. 5.
 
-Per quanto riguarda la regolarita' del procedimento degli esami saranno osservate le disposizioni del capo VI del [Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni. 
+Per quanto riguarda la regolarita' del procedimento degli esami saranno osservate le disposizioni del capo VI del [Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a Roma, addi' 1° febbraio 1932 - Anno X 
  

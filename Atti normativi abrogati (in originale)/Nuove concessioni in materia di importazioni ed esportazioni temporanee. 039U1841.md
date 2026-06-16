@@ -38,7 +38,7 @@ La temporanea importazione di perle coltivate, per effettuarne la cernita e la m
 
 ## Art. 5.
 
-E' abolito il limite di chilogrammi 25 fissato dall'[art. 80 del R. decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), che approva il regolamento sulle importazioni ed esportazioni temporanee, per i tessuti di ogni specie temporaneamente importati per essere ricamati.
+E' abolito il limite di chilogrammi 25 fissato dall'[art. 80 del R. decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), che approva il regolamento sulle importazioni ed esportazioni temporanee, per i tessuti di ogni specie temporaneamente importati per essere ricamati.
 
 ## Art. 6.
 

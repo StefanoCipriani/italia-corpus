@@ -40,7 +40,7 @@ I dipendenti iscritti nel quadro speciale sono mantenuti nell'impiego fino al co
 ## Art. 5.
 
 Al personale iscritto nel quadro speciale sono estese, in quanto applicabili, le disposizioni di carattere disciplinare vigenti per gli impiegati civili di ruolo delle Amministrazioni dello Stato.
- Oltre che nei casi previsti dall'[art. 66 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_66), l'impiegato incorre nella destituzione, senza procedimento disciplinare, quando riporti una condanna penale per la quale deve espiare una pena restrittiva della liberta' personale.
+ Oltre che nei casi previsti dall'[art. 66 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), l'impiegato incorre nella destituzione, senza procedimento disciplinare, quando riporti una condanna penale per la quale deve espiare una pena restrittiva della liberta' personale.
 
 ## Art. 6.
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive modificazioni; 
  
- Visto il [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), che dispone il concentramento nel Ministero dei lavori pubblici dei servizi relativi alla esecuzione di opere pubbliche per conto dello Stato; 
+ Visto il [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), che dispone il concentramento nel Ministero dei lavori pubblici dei servizi relativi alla esecuzione di opere pubbliche per conto dello Stato; 
  
  Ritenuto che per effetto di tale concentramento di servizi occorre trasferire al predetto Ministero, con i relativi posti in organico, il personale civile di ruolo dell'Amministrazione della Regia aeronautica, necessario per l'espletamento dei servizi gia' di pertinenza del Ministero dell'aeronautica, ed ora passati al Ministero dei lavori pubblici; 
  
@@ -82,7 +82,7 @@ I seguenti ruoli del personale del Ministero dei lavori pubblici sono aumentati 
 
 ## Art. 3.
 
-Nella prima attuazione del presente decreto i posti di cui al precedente art. 2 sono attribuiti al personale dei ruoli indicati nell'art. 1 che ricopra posti di gruppo e grado eguali a quello da conferire scelto d'intesa fra i Ministri per l'aeronautica e per i lavori pubblici, tra quello che si trova addetto ai servizi di cui al [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), e che in atto e' comandato presso l'Amministrazione dei lavori pubblici. 
+Nella prima attuazione del presente decreto i posti di cui al precedente art. 2 sono attribuiti al personale dei ruoli indicati nell'art. 1 che ricopra posti di gruppo e grado eguali a quello da conferire scelto d'intesa fra i Ministri per l'aeronautica e per i lavori pubblici, tra quello che si trova addetto ai servizi di cui al [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), e che in atto e' comandato presso l'Amministrazione dei lavori pubblici. 
  
  Detto personale sara' collocato col proprio grado nei ruoli del Ministero dei lavori pubblici, interpolandosi col personale appartenente a detti ruoli, in base all'anzianita' di grado rispettivamente acquisita alla data del trasferimento.
 

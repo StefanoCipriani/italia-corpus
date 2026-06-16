@@ -18,7 +18,7 @@ Vista la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni
 
 Viste le [leggi 24 agosto 1877, n. 4021; 22 luglio 1894, n. 339, e 2 maggio 1907, n. 222](Abolizione%20delle%20revisioni%20biennali%20dei%20redditi%20di%20ricchezza%20mobile%20ed%20altre%20modificazioni%20alla%20legge%20sulla%20imposta%20di%20ricchezza%20mobile.%20007U0222.md);
 
-Visti gli articoli 3 e 5 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visti gli articoli 3 e 5 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Sentito il Consiglio dei ministri;
 

@@ -36,7 +36,7 @@ Coloro che secondo le leggi anteriori sono incorsi, indipendentemente da condann
 
 ## Art. 3.
 
-Fino alla promulgazione di un [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per tutte le provincie del regno, le condanne alle pene di morte, dell'ergastolo e dei lavori forzati a vita traggono seco la perdita dei diritti politici, della potesta' patria e maritale, e la interdizione legale del condannato. 
+Fino alla promulgazione di un [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per tutte le provincie del regno, le condanne alle pene di morte, dell'ergastolo e dei lavori forzati a vita traggono seco la perdita dei diritti politici, della potesta' patria e maritale, e la interdizione legale del condannato. 
  
  L'interdizione legale toglie al condannato la capacita' di amministrare i suoi beni, di alienarli, ipotecarli o disporne altrimenti che per testamento. Al condannato interdetto legalmente e' nominato un tutore per rappresentarlo ed amministrare i suoi beni nel modo stabilito dal nuovo codice per gli interdetti giudizialmente. Le disposizioni riguardanti i beni degli interdetti giudizialmente sono applicabili ai beni del condannato interdetto legalmente; a questo non puo' essere assegnato che un tenue sussidio a titolo di alimenti. 
  

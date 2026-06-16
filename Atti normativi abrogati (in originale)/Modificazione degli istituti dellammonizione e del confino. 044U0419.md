@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Nell'[art. 164 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_164), approvato con [R. decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), sono soppresse le seguenti parole contenute nel primo comma: «o per gli ordinamenti politici delle Stato». 
+Nell'[art. 164 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), sono soppresse le seguenti parole contenute nel primo comma: «o per gli ordinamenti politici delle Stato». 
  
  Nell'art. 181 del predetto testo unico sono soppresse le seguenti parole contenute nel numero 3: «o un'attivita' comunque tale da recare nocumento agli interessi nazionali».
 
 ## Art. 2.
 
-Gli articoli 166 e 184 del predetto [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), gia' modificati con l'articolo unico della [legge 29 gennaio 1942, n. 182](Modificazione%20degli%20articoli%20166%20e%20184%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza%20approvato%20col%20R.%20decreto%2018%20giugno%201931-IX%20n.%20773.%20042U0182.md), sono abrogati e sostituiti dai seguenti: 
+Gli articoli 166 e 184 del predetto [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), gia' modificati con l'articolo unico della [legge 29 gennaio 1942, n. 182](Modificazione%20degli%20articoli%20166%20e%20184%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza%20approvato%20col%20R.%20decreto%2018%20giugno%201931-IX%20n.%20773.%20042U0182.md), sono abrogati e sostituiti dai seguenti: 
  
  «Art. 166: L'ammonizione ha la durata di due anni ed e' pronunciata, da una Commissione provinciale composta del prefetto, del procuratore del Re, di un giudice - designato dal presidente del tribunale - del questore, del comandante l'Arma dei carabinieri reali nella provincia e di un cittadino di specchiata probita' nominato dal sindaco del Comune capoluogo di provincia. Un funzionario di gruppo A di grado inferiore al 10° designato dal prefetto, assistera' come segretarie. 
  
@@ -32,7 +32,7 @@ Gli articoli 166 e 184 del predetto [testo unico delle leggi di pubblica sicurez
 
 ## Art. 3.
 
-Il secondo ed il terzo comma dell'art. 168 del predetto, [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) sono modificati rispettivamente come segue: 
+Il secondo ed il terzo comma dell'art. 168 del predetto, [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) sono modificati rispettivamente come segue: 
  
  «Qualora il denunziato non si presenti nel giorno e nell'ora indicati nell'invito e non giustifichi la non comparizione, la Commissione, accertata la regolarita'; della notificazione, ne ordina l'accompagnamento davanti ad essa per mezzo della forza pubblica. 
  

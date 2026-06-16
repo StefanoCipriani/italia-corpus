@@ -18,11 +18,11 @@ E' concessa amnistia:
  
  3° per i delitti contro la liberta' del lavoro; 
  
- 4° per i delitti di oltraggio, violenza, resistenza contro persone rivestite di pubblica autorita', di danneggiamento e per quelli contro l'incolumita' pubblica nel caso preveduto nell'[articolo 310 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando i delitti suddetti siano stati commessi in occasione di pubbliche dimostrazioni o tumulti; 
+ 4° per i delitti di oltraggio, violenza, resistenza contro persone rivestite di pubblica autorita', di danneggiamento e per quelli contro l'incolumita' pubblica nel caso preveduto nell'[articolo 310 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando i delitti suddetti siano stati commessi in occasione di pubbliche dimostrazioni o tumulti; 
  
- 5° per i delitti preveduti negli articoli 125, 126, 246, 247 e 251 a 255 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 5° per i delitti preveduti negli articoli 125, 126, 246, 247 e 251 a 255 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 6° per i delitti preveduti dall'[articolo 118 n. 2 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ 6° per i delitti preveduti dall'[articolo 118 n. 2 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

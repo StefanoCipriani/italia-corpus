@@ -146,7 +146,7 @@ L'ordine di merito fra i nuovi ammittendi, di cui all'[articolo 2, secondo comma
 
 ### Art. 11.
 
-Per le ammissioni alla prima classe delle sezioni macchinisti e costruttori, sono compresi nella graduatoria di cui all'art. 10 anche i giovani che, nella sessione estiva o nelle precedenti, hanno ottenuta la promozione dalla prima alla seconda classe di un Regio istituto industriale secondo l'ordinamento di cui al [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523).
+Per le ammissioni alla prima classe delle sezioni macchinisti e costruttori, sono compresi nella graduatoria di cui all'art. 10 anche i giovani che, nella sessione estiva o nelle precedenti, hanno ottenuta la promozione dalla prima alla seconda classe di un Regio istituto industriale secondo l'ordinamento di cui al [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md).
 
 ### Art. 12.
 

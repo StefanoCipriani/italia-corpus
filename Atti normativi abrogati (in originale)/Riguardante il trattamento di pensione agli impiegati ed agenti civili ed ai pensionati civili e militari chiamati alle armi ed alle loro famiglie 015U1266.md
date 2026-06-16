@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agl'impiegati civili contemplati dall'art. 8 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), agli operai ed agli agenti con diritto a pensione a carico del bilancio dello Stato chiamati o trattenuti sotto le armi nell'esercito, nell'armata e nei corpi e servizi ausiliari, in tempo di guerra, che per causa di servizio riportino ferite od infermita' che li rendano permanentemente inabili anche al servizio civile, in luogo della pensione privilegiata militare, sara' liquidata, se piu' favorevole, la pensione privilegiata civile, sulla base dello stipendio o secondo le relative norme speciali se agenti od operai. 
+Agl'impiegati civili contemplati dall'art. 8 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), agli operai ed agli agenti con diritto a pensione a carico del bilancio dello Stato chiamati o trattenuti sotto le armi nell'esercito, nell'armata e nei corpi e servizi ausiliari, in tempo di guerra, che per causa di servizio riportino ferite od infermita' che li rendano permanentemente inabili anche al servizio civile, in luogo della pensione privilegiata militare, sara' liquidata, se piu' favorevole, la pensione privilegiata civile, sulla base dello stipendio o secondo le relative norme speciali se agenti od operai. 
  
  La pensione privilegiata civile corrispondera' ai quattro quinti della media degli stipendi nei casi di cecita', amputazione o ,perdita assoluta dell'uso delle mani o dei piedi, ed alla meta' dello stipendio per le ferite od infermita' meno gravi. 
  

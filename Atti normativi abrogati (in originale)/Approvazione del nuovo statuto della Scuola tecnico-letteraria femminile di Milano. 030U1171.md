@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 6 giugno 1889, n. 3378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-06;3378) (serie 3ª, p. supplementare), che erige in ente morale la Scuola tecnico-letteraria femminile in Milano e ne approva lo statuto; 
+ Visto il [R. decreto 6 giugno 1889, n. 3378](../Regi%20decreti/Che%20erige%20in%20ente%20morale%20la%20scuola%20tecnico-letteraria%20femminile%20in%20Milano%20e%20ne%20approva%20lo%20statuto.%208903378R.md) (serie 3ª, p. supplementare), che erige in ente morale la Scuola tecnico-letteraria femminile in Milano e ne approva lo statuto; 
  
  Vista l'istanza in data 15 dicembre 1927 del presidente della Scuola predetta, intesa ad ottenere che sia approvato il nuovo statuto deliberato in data 16 gennaio 1926 dall'assemblea dei soci benemeriti e dal Consiglio direttivo della Scuola stessa; 
  

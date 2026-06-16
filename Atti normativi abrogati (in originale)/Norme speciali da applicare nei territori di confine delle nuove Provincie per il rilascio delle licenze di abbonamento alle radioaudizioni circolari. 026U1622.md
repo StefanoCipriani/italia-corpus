@@ -40,7 +40,7 @@ Tutte le licenze per l'impianto ed uso delle stazioni di cui all'articolo preced
 
 ## Art. 3.
 
-Per ogni infrazione al precedente art. 1 sono applicabili le sanzioni stabilite dall'[art. 18 del R. decreto n. 1067, dell'8 febbraio 1923](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md).
+Per ogni infrazione al precedente art. 1 sono applicabili le sanzioni stabilite dall'[art. 18 del R. decreto n. 1067, dell'8 febbraio 1923](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md).
 
 ## Art. 4.
 

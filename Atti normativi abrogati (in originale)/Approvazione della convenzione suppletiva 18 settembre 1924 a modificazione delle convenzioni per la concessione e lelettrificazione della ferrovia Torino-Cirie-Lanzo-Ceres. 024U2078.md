@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Viste le istanze 19 febbraio e 23 marzo 1923 con cui la Societa' concessionaria ha chiesto alcune modifiche ai patti di concessione; 
  
- Visto il testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447); 
+ Visto il testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md); 
  
  Visti i [decreti-legge 23 febbraio 1919, n. 303; 8 luglio 1919, n. 1327; 23 gennaio 1921, n. 56; 31 agosto 1921, numero 1222; 6 febbraio 1923, n. 431, e 23 maggio 1924, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-05-23;996); 
  

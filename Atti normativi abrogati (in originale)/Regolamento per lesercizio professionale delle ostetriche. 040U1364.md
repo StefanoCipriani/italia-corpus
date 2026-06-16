@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con il R. decreto 27 luglio 1934-XII, n. 1265;
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con il R. decreto 27 luglio 1934-XII, n. 1265;
 
 Veduti il R. decreto-legge 15 ottobre 1936-XIV, n. 2128, e il R. decreto-legge 1° luglio 1937-XV, n. 1520, riguardanti l'ordinamento delle scuole di ostetricia e la disciplina giuridica della professione di levatrice;
 

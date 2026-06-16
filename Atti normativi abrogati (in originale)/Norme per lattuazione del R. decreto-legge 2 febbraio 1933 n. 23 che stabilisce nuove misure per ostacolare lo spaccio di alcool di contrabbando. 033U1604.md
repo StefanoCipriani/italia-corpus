@@ -52,7 +52,7 @@ Chiunque intenda vendere estratti od essenze anche non contenenti alcool per la 
 
 ## Art. 4.
 
-Entro il 15 ottobre di ogni anno le Prefetture e le Questure debbono comunicare alla Intendenza di finanza, della rispettiva Provincia l'elenco delle licenze da esse rilasciate per la vendita di bevande alcooliche e valevoli per l'anno in corso, ai sensi degli [articoli 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_86) e [89 del testo unico delle leggi di P. S.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_89) e le Intendenze entro il 30 novembre a loro volta, debbono rimettere un elenco delle ditte alle quali ritengono non doversi rinnovare la licenza indicandone il motivo. 
+Entro il 15 ottobre di ogni anno le Prefetture e le Questure debbono comunicare alla Intendenza di finanza, della rispettiva Provincia l'elenco delle licenze da esse rilasciate per la vendita di bevande alcooliche e valevoli per l'anno in corso, ai sensi degli [articoli 86](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [89 del testo unico delle leggi di P. S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e le Intendenze entro il 30 novembre a loro volta, debbono rimettere un elenco delle ditte alle quali ritengono non doversi rinnovare la licenza indicandone il motivo. 
  
  Per nuove licenze richieste da ditte le Prefetture e le Questure trasmetteranno volta per volta le domande alla Intendenza di finanza per il prescritto parere.
 

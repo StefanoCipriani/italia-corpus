@@ -50,7 +50,7 @@ L'art. 39 della legge 8 luglio 1926-IV, n. 1178, e successive modificazioni, e' 
 
 ## Art. 3.
 
-Il 1° e 2° comma dell'art. 13 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Regia marina, approvato con [R. decreto 16 maggio 1932, n. 819](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), sono abrogati e sostituiti dai seguenti: 
+Il 1° e 2° comma dell'art. 13 del testo unico delle disposizioni legislative riguardanti gli ufficiali di complemento della Regia marina, approvato con [R. decreto 16 maggio 1932, n. 819](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), sono abrogati e sostituiti dai seguenti: 
  
  «Possono concorrere alla nomina ad ufficiale farmacista di complemento della Regia marina i cittadini italiani che posseggano la laurea in farmacia oppure il diploma in farmacia e la laurea in chimica oppure la laurea in chimica e farmacia (vecchio ordinamento). 
  

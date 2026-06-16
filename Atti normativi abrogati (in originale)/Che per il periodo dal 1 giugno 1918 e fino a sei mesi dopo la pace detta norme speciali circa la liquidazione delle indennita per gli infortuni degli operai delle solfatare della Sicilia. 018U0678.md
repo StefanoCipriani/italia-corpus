@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-La liquidazione delle indennita' per gli infortuni dagli operai delle solfare della Sicilia, che avverranno nel periodo dal 1° giugno 1918 fino a sei mesi dopo la conclusione della pace, sara' effettuata in base ai salari medi stabiliti nelle tabelle approvate col [R. decreto 14 maggio 1914, n. 500](Col%20quale%20sono%20approvate%20le%20nuove%20tabelle%20dei%20salari%20medi%20per%20la%20liquidazione%20delle%20indennita%20dovute%20nei%20casi%20di%20infortuni%20sul%20lavoro%20agli%20operai%20delle%20solfare%20di%20Sicilia%20ed%20ai%20loro%20avent_ceb99d5394c6.md), aumentati delle misure stabilite con l'articolo seguente, fermi rimanendo i limiti di indennita' e di salario di cui agli articoli 9 e, 12 della legge ([testo unico) 31 gennaio 1904; n.51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51).
+La liquidazione delle indennita' per gli infortuni dagli operai delle solfare della Sicilia, che avverranno nel periodo dal 1° giugno 1918 fino a sei mesi dopo la conclusione della pace, sara' effettuata in base ai salari medi stabiliti nelle tabelle approvate col [R. decreto 14 maggio 1914, n. 500](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20nuove%20tabelle%20dei%20salari%20medi%20per%20la%20liquidazione%20delle%20indennita%20dovute%20nei%20casi%20di%20infortuni%20sul%20lavoro%20agli%20operai%20delle%20solfare%20di%20Sicilia%20ed%20ai%20loro%20avent_ceb99d5394c6.md), aumentati delle misure stabilite con l'articolo seguente, fermi rimanendo i limiti di indennita' e di salario di cui agli articoli 9 e, 12 della legge ([testo unico) 31 gennaio 1904; n.51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-31;51).
 
 ## Art. 2.
 
-Agli effetti di cui nell'art. 1 del presente decreto i salari medi stabiliti nelle tabelle approvate con [Regio decreto 14 maggio 1914, n. 500](Col%20quale%20sono%20approvate%20le%20nuove%20tabelle%20dei%20salari%20medi%20per%20la%20liquidazione%20delle%20indennita%20dovute%20nei%20casi%20di%20infortuni%20sul%20lavoro%20agli%20operai%20delle%20solfare%20di%20Sicilia%20ed%20ai%20loro%20avent_ceb99d5394c6.md), sono aumentati delle misure seguenti: 
+Agli effetti di cui nell'art. 1 del presente decreto i salari medi stabiliti nelle tabelle approvate con [Regio decreto 14 maggio 1914, n. 500](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20nuove%20tabelle%20dei%20salari%20medi%20per%20la%20liquidazione%20delle%20indennita%20dovute%20nei%20casi%20di%20infortuni%20sul%20lavoro%20agli%20operai%20delle%20solfare%20di%20Sicilia%20ed%20ai%20loro%20avent_ceb99d5394c6.md), sono aumentati delle misure seguenti: 
  
  a) i salari della categoria 1: «Picconieri a solfo, alla manutenzione e alle ricerche» del 100 per 100; 
  

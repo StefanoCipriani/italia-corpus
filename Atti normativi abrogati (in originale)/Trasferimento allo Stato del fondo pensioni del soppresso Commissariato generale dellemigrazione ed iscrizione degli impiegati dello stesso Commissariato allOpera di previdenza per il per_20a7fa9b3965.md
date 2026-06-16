@@ -22,9 +22,9 @@ Visto il decreto del Ministro per gli affari esteri, in data 12 settembre 1926, 
 
 Visto l'[art. 4 del R. decreto-legge 28 aprile 1927, n. 628](Soppressione%20del%20Commissariato%20generale%20per%20lemigrazione%20ed%20istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20di%20una%20Direzione%20generale%20degli%20italiani%20allestero.%20027U0628.md);
 
-Visto il [R. decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), che approva il testo unico delle disposizioni legislative riguardanti l'Opera di previdenza pei personali civile e militare dello Stato;
+Visto il [R. decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md), che approva il testo unico delle disposizioni legislative riguardanti l'Opera di previdenza pei personali civile e militare dello Stato;
 
-Visto il [R. decreto 8 maggio 1933, n. 597](Trattamento%20di%20pensione%20per%20gli%20impiegati%20del%20soppresso%20Commissariato%20generale%20per%20lemigrazione.%20033U0597.md);
+Visto il [R. decreto 8 maggio 1933, n. 597](../Regi%20decreti/Trattamento%20di%20pensione%20per%20gli%20impiegati%20del%20soppresso%20Commissariato%20generale%20per%20lemigrazione.%20033U0597.md);
 
 Ritenuta la necessita' urgente ed assoluta di trasferire allo Stato il fondo pensioni del soppresso Commissariato generale dell'emigrazione e di disporre l'iscrizione degli impiegati del medesimo all'Opera di previdenza pei personali civile e militare dello Stato;
 

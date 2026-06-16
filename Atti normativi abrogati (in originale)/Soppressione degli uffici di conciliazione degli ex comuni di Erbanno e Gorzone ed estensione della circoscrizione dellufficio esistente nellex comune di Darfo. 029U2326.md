@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 7 marzo 1929, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-07;440), col quale i comuni di Erbanno, Gorzone e Darfo venivano riuniti in un sol Comune denominato Darfo; 
+ Visto il [R. decreto 7 marzo 1929, n. 440](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Erbanno%20Gorzone%20e%20Darfo%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Darfo.%20029U0440.md), col quale i comuni di Erbanno, Gorzone e Darfo venivano riuniti in un sol Comune denominato Darfo; 
  
  Vista la deliberazione del commissario prefettizio di detto Comune con la quale si chiede che per tutto il territorio del comune di Darfo funzioni un solo ufficio di conciliazione. 
  

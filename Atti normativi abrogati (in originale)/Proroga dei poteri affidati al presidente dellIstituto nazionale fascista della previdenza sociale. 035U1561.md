@@ -32,7 +32,7 @@ Sono prorogati di mesi tre - a decorrere dal 31 luglio 1935-XIII - i poteri del 
 
 ## Art. 2.
 
-Durante il periodo di applicazione del precedente articolo il presidente continuera' ad essere coadiuvato dai funzionari rappresentanti dei Ministeri delle corporazioni e delle finanze, di cui all'[art. 15 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_15), modificato col sopracitato [R. decreto-legge 27 marzo 1933, n. 371](Coordinamento%20degli%20organi%20amministrativi%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20della%20previdenza%20sociale.%20033U0371.md).
+Durante il periodo di applicazione del precedente articolo il presidente continuera' ad essere coadiuvato dai funzionari rappresentanti dei Ministeri delle corporazioni e delle finanze, di cui all'[art. 15 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), modificato col sopracitato [R. decreto-legge 27 marzo 1933, n. 371](Coordinamento%20degli%20organi%20amministrativi%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20della%20previdenza%20sociale.%20033U0371.md).
 
 ## Art. 3.
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;779), col quale i comuni di Martina Olba e di Olba venivano riuniti in un solo Comune denominato Urbe con capoluogo Martina Olba; 
+ Visto il [R. decreto 28 marzo 1929, n. 779](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Martina%20Olba%20e%20di%20Olba%20in%20un%20unico%20Comune%20denominato%20%20Urbe%20%20con%20sede%20del%20capoluogo%20a%20Martina%20Olba.%20029U0779.md), col quale i comuni di Martina Olba e di Olba venivano riuniti in un solo Comune denominato Urbe con capoluogo Martina Olba; 
  Vista la deliberazione del commissario prefettizio di detto Comune con la quale si chiede che per tutto il territorio del comune di Urbe funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Genova; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

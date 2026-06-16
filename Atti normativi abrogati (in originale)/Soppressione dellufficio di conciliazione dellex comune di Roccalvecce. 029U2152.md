@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 9 aprile 1928, n. 866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-09;866), col quale il comune di Roccalvecce e' stato soppresso ed il rispettivo territorio, esclusa la frazione di Sipicciano, unita al comune di Graffignano, e' stato aggregato a quello di Celleno; 
+ Visto il [R. decreto 9 aprile 1928, n. 866](../Regi%20decreti/Modificazioni%20di%20circoscrizioni%20comunali%20in%20provincia%20di%20Viterbo.%20028U0866.md), col quale il comune di Roccalvecce e' stato soppresso ed il rispettivo territorio, esclusa la frazione di Sipicciano, unita al comune di Graffignano, e' stato aggregato a quello di Celleno; 
  
  Vista la deliberazione del commissario prefettizio di Celleno, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Roccalvecce; 
  

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Gli Istituti di emissione l'anno facolta' di fare anticipazioni sopra fedi di deposito degli zolfi nei magazzini generali di cui nella [legge 15 luglio 1906, n. 333](Istituzione%20di%20un%20Consorzio%20e%20altri%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20006U0333.md), sino ai quattro quinti del valore dello zolfo rappresentato dalle fedi stesse, al netto dei prelevamenti. 
  
- La misura dell'interesse su tali anticipazioni potra' essere di non oltre l'uno per cento inferiore a quella normale sulle anticipazioni indicato nell'art. 31, testo unico della legge sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md). 
+ La misura dell'interesse su tali anticipazioni potra' essere di non oltre l'uno per cento inferiore a quella normale sulle anticipazioni indicato nell'art. 31, testo unico della legge sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](../Regi%20decreti/Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md). 
  
  L'eccedenza di circolazione con esenzione dell'aumento di tassa di cui all'art. 22 della legge 15 luglio 1906, consentita al Banco di Sicilia nel limite massimo di dieci milioni di lire dovra' essere esclusivamente applicabile alle operazioni di anticipazione su fedi di deposito e a quelle di sconto di note di pegno a saggio di favore sugli zolfi. 
  

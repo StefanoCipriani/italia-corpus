@@ -24,7 +24,7 @@ All'onere di cui sopra viene fatto fronte per lire 50.000.000 con riduzione dell
 
 ## Art. 3.
 
-Gli articoli 8 e 9 del testo unico approvato con [regio decreto 4 agosto 1932, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-08-04;1296), sono soppressi. 
+Gli articoli 8 e 9 del testo unico approvato con [regio decreto 4 agosto 1932, n. 1296](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md), sono soppressi. 
  La lettera c) dell'art. 10 del testo unico predetto e' soppressa. 
  La lettera d) del medesimo art. 10 e' sostituita dalla seguente: 
  "d) dei contributi annui dell'Alto Commissariato per l'igiene e la sanita' pubblica da destinare per la lotta contro il cancro ed i tumori maligni e per la lotta contro le malattie veneree".

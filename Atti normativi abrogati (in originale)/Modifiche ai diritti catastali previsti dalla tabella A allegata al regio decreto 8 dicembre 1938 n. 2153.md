@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-I diritti catastali da corrispondersi allo Stato per l'esecuzione di ogni voltura previsti dalla tabella A allegata al [regio decreto 8 dicembre 1938, n. 2153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-08;2153), e dalle disposizioni in essa, tabella richiamate nella colonna 3, sono fissati nella misura unica ed uniforme di lire 1,25 per mille sui valore dei beni immobili, rustici ed urbani, accertato agli effetti delle imposte di registro e di successione.
+I diritti catastali da corrispondersi allo Stato per l'esecuzione di ogni voltura previsti dalla tabella A allegata al [regio decreto 8 dicembre 1938, n. 2153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20conservazione%20del%20nuovo%20Catasto%20dei%20terreni.%20038U2153.md), e dalle disposizioni in essa, tabella richiamate nella colonna 3, sono fissati nella misura unica ed uniforme di lire 1,25 per mille sui valore dei beni immobili, rustici ed urbani, accertato agli effetti delle imposte di registro e di successione.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

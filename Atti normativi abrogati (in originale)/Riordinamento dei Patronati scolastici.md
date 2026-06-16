@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), che approva il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere d'integrazione;
+Visto il [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), che approva il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere d'integrazione;
 
 Visto il [regio decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297), che approva il regolamento generale sui servizi dell'istruzione elementare;
 
@@ -100,7 +100,7 @@ Al conseguimento dei fini di cui all'art. 2 il Patronato provvede:
 
 ## Art. 10.
 
-Il contributo obbligatorio al Patronato scolastico a carico del bilancio comunale, a norma dell'art. 91, lettera f), numero 13 del testo unico sulla legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e' fissato nella misura minima di lire due annue per abitante, sulla base della popolazione residente quale risulta dall'ultimo censimento con facolta' ai Comuni di determinare una eventuale maggiorazione nel bilancio annuale.
+Il contributo obbligatorio al Patronato scolastico a carico del bilancio comunale, a norma dell'art. 91, lettera f), numero 13 del testo unico sulla legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e' fissato nella misura minima di lire due annue per abitante, sulla base della popolazione residente quale risulta dall'ultimo censimento con facolta' ai Comuni di determinare una eventuale maggiorazione nel bilancio annuale.
  Qualora nei bilanci dei Comuni per l'esercizio anteriore a quello della entrata in vigore del presente decreto siano stati previsti a favore del Patronato scolastico, contributi per un importo superiore a quello di cui al precedente comma, il Ministero dell'interno puo', con proprio decreto, su richiesta del Provveditore agli studi, sentita l'autorita' tutora competente, vincolare tale eccedenza, con carattere continuativo, a favore del Patronato stesso.
 
 ## Art. 11.

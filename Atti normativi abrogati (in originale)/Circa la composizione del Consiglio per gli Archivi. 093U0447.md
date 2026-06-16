@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto l'articolo 1º del [R. decreto 26 marzo 1874 n. 1861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-03-26;1861), secondo il quale il Consiglio per gli Archivi e' composto di otto membri, oltre il Presidente;
+Veduto l'articolo 1º del [R. decreto 26 marzo 1874 n. 1861](../Regi%20decreti/Relativo%20al%20riordinamento%20degli%20Archivi%20di%20Stato%20074U1861.md), secondo il quale il Consiglio per gli Archivi e' composto di otto membri, oltre il Presidente;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 

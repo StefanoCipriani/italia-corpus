@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 aprile 1927, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-28;674), col quale il comune di Boccolo dei Tassi e' stato soppresso e quattro delle sei frazioni che lo componevano (Boccolo dei Tassi, Pione, Santa Giustina e Faggio) sono state aggregate a quello di Bardi; 
+ Visto il [R. decreto 28 aprile 1927, n. 674](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Pione%20a%20quello%20di%20Bardi.%20027U0674.md), col quale il comune di Boccolo dei Tassi e' stato soppresso e quattro delle sei frazioni che lo componevano (Boccolo dei Tassi, Pione, Santa Giustina e Faggio) sono state aggregate a quello di Bardi; 
  Vista la deliberazione del podesta' di Bardi rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Boccolo dei Tassi; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Bologna; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

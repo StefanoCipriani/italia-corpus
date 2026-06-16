@@ -24,15 +24,15 @@ Stilla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzio
 
 ## Art. 1.
 
-La Regia scuola di architettura di Roma fa parte, a tutti gli effetti, degli istituti superiori di cui alla tabella A, annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). E' abrogata ogni contraria disposizione.
+La Regia scuola di architettura di Roma fa parte, a tutti gli effetti, degli istituti superiori di cui alla tabella A, annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). E' abrogata ogni contraria disposizione.
 
 ## Art. 2.
 
-Fermo restando il disposto dell'[art. 80 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), lo statuto della Regia scuola di architettura di Roma e' approvato, e occorrendo modificato, per decreto Reale, udita una Commissione nominata dal Ministro per la pubblica istruzione e composta di un presidente e di altri sei membri, tre dei quali scelti tra i componenti il Consiglio superiore della pubblica istruzione e tre tra i componenti la Commissione centrale per le antichita' e belle arti; il presidente e' scelto invece tra persone estranee all'uno e all'altro consesso.
+Fermo restando il disposto dell'[art. 80 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), lo statuto della Regia scuola di architettura di Roma e' approvato, e occorrendo modificato, per decreto Reale, udita una Commissione nominata dal Ministro per la pubblica istruzione e composta di un presidente e di altri sei membri, tre dei quali scelti tra i componenti il Consiglio superiore della pubblica istruzione e tre tra i componenti la Commissione centrale per le antichita' e belle arti; il presidente e' scelto invece tra persone estranee all'uno e all'altro consesso.
 
 ## Art. 3.
 
-Oltre i componenti di cui all'[art. 10 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dall'[art. 1 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_1), fa parte del Consiglio d'amministrazione della Regia scuola di architettura di Roma altro rappresentante del Governo scelto dal Ministro tra funzionari addetti ai servizi delle antichita' e belle arti di grado non inferiore al 6°.
+Oltre i componenti di cui all'[art. 10 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dall'[art. 1 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_1), fa parte del Consiglio d'amministrazione della Regia scuola di architettura di Roma altro rappresentante del Governo scelto dal Ministro tra funzionari addetti ai servizi delle antichita' e belle arti di grado non inferiore al 6°.
 
 ## Art. 4.
 
@@ -48,7 +48,7 @@ Lo statuto della Regia scuola di architettura di Roma sara' approvato, in via pr
 
 ### Art. 7.
 
-Con decreto Reale, da emanarsi su proposta del Ministro per la pubblica istruzione, sara' stabilita ogni altra norma complementare e speciale per la applicazione del presente decreto e delle disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md).
+Con decreto Reale, da emanarsi su proposta del Ministro per la pubblica istruzione, sara' stabilita ogni altra norma complementare e speciale per la applicazione del presente decreto e delle disposizioni contenute nel [R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md).
 
 ### Art. 8.
 

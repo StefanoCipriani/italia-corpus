@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli impiegati, agli insegnanti ed agli agenti subalterni dipendenti dal Ministero per l'industria, il commercio e il lavoro sia di ruolo che straordinari ed avventizi, traslocati con regolari ordini Ministeriali da una ad altra localita', sono liquidate le competenze stabilite dal [R. decreto 1° novembre 1876, n. 3450](Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md) (serie 2ª), e dall'[art. 1 del R. decreto 23 maggio 1907, n. 428](Che%20estende%20agli%20impiegati%20dello%20Stato%20in%20missione%20o%20in%20trasferimento%20con%20indennita%20la%20concessione%20C%20della%20legge%2029%20dicembre%201901%20n.%20562.%20007U0428.md).
+Agli impiegati, agli insegnanti ed agli agenti subalterni dipendenti dal Ministero per l'industria, il commercio e il lavoro sia di ruolo che straordinari ed avventizi, traslocati con regolari ordini Ministeriali da una ad altra localita', sono liquidate le competenze stabilite dal [R. decreto 1° novembre 1876, n. 3450](../Regi%20decreti/Concernente%20le%20indennita%20di%20trasferimento%20agli%20impiegati%20civili.%20076U3450.md) (serie 2ª), e dall'[art. 1 del R. decreto 23 maggio 1907, n. 428](../Regi%20decreti/Che%20estende%20agli%20impiegati%20dello%20Stato%20in%20missione%20o%20in%20trasferimento%20con%20indennita%20la%20concessione%20C%20della%20legge%2029%20dicembre%201901%20n.%20562.%20007U0428.md).
 
 ## Art. 2.
 
@@ -24,7 +24,7 @@ Le ispezioni e le missioni, ad eccezione di quelle che rientrano nell'andamento 
 
 Per le ispezioni e missioni compiute da impiegati o da agenti subalterni dell'Amministrazione dell'industria, commercio e lavoro sono corrisposti i seguenti rimborsi di spese e le seguenti indennita': 
  
- a) rimborso (con le norme stabilite dal [R. decreto 23 maggio 1907, n. 428](Che%20estende%20agli%20impiegati%20dello%20Stato%20in%20missione%20o%20in%20trasferimento%20con%20indennita%20la%20concessione%20C%20della%20legge%2029%20dicembre%201901%20n.%20562.%20007U0428.md)), della spesa di viaggio in prima classe sulle ferrovie, sulle automobili e su altri veicoli a trazione meccanica e sui piroscafi, agli impiegati di ruolo, straordinari ed avventizi forniti dello stipendio di L. 6000 o piu' ed ai funzionari aventi grado o funzioni di ispettore centrale; rimborso della spesa in seconda classe agli altri impiegati e di terza classe agli agenti subalterni di ruolo, straordinari ed avventizi. 
+ a) rimborso (con le norme stabilite dal [R. decreto 23 maggio 1907, n. 428](../Regi%20decreti/Che%20estende%20agli%20impiegati%20dello%20Stato%20in%20missione%20o%20in%20trasferimento%20con%20indennita%20la%20concessione%20C%20della%20legge%2029%20dicembre%201901%20n.%20562.%20007U0428.md)), della spesa di viaggio in prima classe sulle ferrovie, sulle automobili e su altri veicoli a trazione meccanica e sui piroscafi, agli impiegati di ruolo, straordinari ed avventizi forniti dello stipendio di L. 6000 o piu' ed ai funzionari aventi grado o funzioni di ispettore centrale; rimborso della spesa in seconda classe agli altri impiegati e di terza classe agli agenti subalterni di ruolo, straordinari ed avventizi. 
  
  Quando non esistano ribassi di tariffe per le ferrovie, le automobili ed altri veicoli a trazione meccanica ed i piroscafi si rimborseranno i biglietti di tariffa ordinaria sulla base del minimo costo. 
  

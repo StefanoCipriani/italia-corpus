@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico - articolo 175 - delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto il testo unico - articolo 175 - delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Visto il testo unico delle leggi sull'ordinamento del R. Esercito e dei servizi dipendenti dall'Amministrazione della Guerra, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md);
 

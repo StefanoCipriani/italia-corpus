@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto il ruolo organico degli insegnanti di ginnastica nelle scuole secondarie classiche e tecniche, approvato col R. decreto 22 gennaio 1905; 
  
- Veduto il [R. decreto 31 agosto 1905, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-08-31;271), col quale fu approvata la conversione in governativo del R. liceo-ginnasio di Perugia; 
+ Veduto il [R. decreto 31 agosto 1905, n. 271](../Regi%20decreti/Concernente%20la%20conversione%20in%20governativo%20del%20liceo%20ginnasiale%20pareggiato%20di%20Perugia.%200500271R.md), col quale fu approvata la conversione in governativo del R. liceo-ginnasio di Perugia; 
  
  Veduto il R. decreto 18 settembre 1905, che approva la tabella pel personale del R. liceo-ginnasio «Garibaldi» di Napoli; 
  

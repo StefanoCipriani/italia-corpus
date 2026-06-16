@@ -20,7 +20,7 @@ Veduto l'[art. 2 del R. decreto-legge 31 marzo 1925, n. 360](Provvedimenti%20eco
 
 Veduto l'[art. 19 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md);
 
-Veduto il [R. decreto 7 agosto 1925, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-07;1533), col quale, a decorrere dall'8 settembre 1925, veniva ricostituito il comune di Col di Rodi col solo territorio gia' aggregato al comune di San Remo per effetto del [R. decreto 6 dicembre 1923, n. 2769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2769);
+Veduto il [R. decreto 7 agosto 1925, n. 1533](../Regi%20decreti/Modificazione%20ai%20Regi%20decreti%2021%20ottobre%201923%20n.%202360%20e%206%20dicembre%201923%20n.%202769%20riguardanti%20le%20circoscrizioni%20comunali%20della%20provincia%20di%20Imperia.%20025U1533.md), col quale, a decorrere dall'8 settembre 1925, veniva ricostituito il comune di Col di Rodi col solo territorio gia' aggregato al comune di San Remo per effetto del [R. decreto 6 dicembre 1923, n. 2769](../Regi%20decreti/Modificazioni%20alla%20circoscrizione%20di%20trenta%20comuni%20della%20provincia%20di%20Imperia.%20023U2769.md);
 
 Veduto l'elenco delle scuole classificate, legalmente istituite ed esistenti nel Comune stesso, poste nuovamente alla diretta dipendenza del R. Provveditorato agli studi di Genova a decorrere dalla predetta data dell'8 settembre 1925;
 

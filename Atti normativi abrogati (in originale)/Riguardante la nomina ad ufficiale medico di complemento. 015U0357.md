@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito, modificata con la [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md);
 
-Visto il regolamento per l'esecuzione della legge sull'avanzamento nel R. esercito approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md);
+Visto il regolamento per l'esecuzione della legge sull'avanzamento nel R. esercito approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md);
 
 Vista la [legge 25 gennaio 1888, n. 5177](Sugli%20obblighi%20di%20servizio%20degli%20ufficiali%20in%20congedo.%20088U5177.md), sugli obblighi di servizio degli ufficiali in congedo;
 

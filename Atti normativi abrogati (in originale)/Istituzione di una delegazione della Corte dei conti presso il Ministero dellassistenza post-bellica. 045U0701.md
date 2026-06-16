@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), che approva il testo unico delle leggi sull'ordinamento della Corte dei conti;
+Visto il [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), che approva il testo unico delle leggi sull'ordinamento della Corte dei conti;
 
-Visto il [R. decreto 12 ottobre 1933, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-12;1364), che approva il regolamento per la carriera e la disciplina del personale della Corte dei conti;
+Visto il [R. decreto 12 ottobre 1933, n. 1364](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20carriera%20e%20la%20disciplina%20del%20personale%20della%20Corte%20dei%20conti.%20033U1364.md), che approva il regolamento per la carriera e la disciplina del personale della Corte dei conti;
 
 Visto il [R. decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), contenente disposizioni circa i provvedimenti legislativi concernenti l'ordinamento e le funzioni della Corte dei conti, e sentita la Corte stessa a sezioni riunite;
 
@@ -52,7 +52,7 @@ Il presidente di Sezione addetto al coordinamento delle funzioni di controllo co
 
 ## Art. 4.
 
-Per quanto non previsto nel presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e le altre disposizioni relative alla Corte medesima.
+Per quanto non previsto nel presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e le altre disposizioni relative alla Corte medesima.
 
 ## Art. 5.
 

@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guer
 
 E' approvato il capitolato pei lavori del genio militare da eseguirsi nel territorio soggetto al Comando locale di Chieti, portante la data del 24 gennaio 1882, d'ordine Nostro firmato dal Ministro della Guerra, e depositato, per originale, presso l'Archivio di Stato, e, per copia autentica, presso la Corte dei conti, non che presso la Direzione del genio militare di Roma. 
  
- Restano invariate le disposizioni di cui agli articoli 2 e 3 del succitato [Regio decreto 10 novembre 1875, n. 2793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-11-10;2793) (Serie 2ª). 
+ Restano invariate le disposizioni di cui agli articoli 2 e 3 del succitato [Regio decreto 10 novembre 1875, n. 2793](../Regi%20decreti/Che%20approva%20i%20capitolati-tipi%20pel%20servizio%20del%20genio%20militare.%20075U2793.md) (Serie 2ª). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

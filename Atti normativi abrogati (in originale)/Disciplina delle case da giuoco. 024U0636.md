@@ -24,7 +24,7 @@ Capo I.
 
 ### Art. 1.
 
-In deroga agli [articoli 484](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [487 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nelle localita' che siano da almeno dieci anni sedi di stazioni climatiche, balneari od idrominerali e che non si trovino in prossimita' di centri con popolazione superiore ai 200 mila abitanti, puo' essere concessa l'apertura di case da giuoco, nelle quali e' permesso il giuoco anche di azzardo. 
+In deroga agli [articoli 484](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [487 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nelle localita' che siano da almeno dieci anni sedi di stazioni climatiche, balneari od idrominerali e che non si trovino in prossimita' di centri con popolazione superiore ai 200 mila abitanti, puo' essere concessa l'apertura di case da giuoco, nelle quali e' permesso il giuoco anche di azzardo. 
  
  La domanda per ottenere la concessione di apertura di case da giuoco, nelle quali e' permesso il giuoco anche di azzardo, e' diretta al Ministro per l'interno, per il tramite del Prefetto della Provincia, con l'osservanza delle prescrizioni del seguente art. 2.
 
@@ -90,7 +90,7 @@ Sul decreto Ministeriale di concessione di che all'art. 3, e' dovuta la tassa di
 
 ### Art. 10.
 
-La violazione alle disposizioni contenute negli articoli precedenti e la inosservanza degli obblighi e condizioni imposti nell'atto di concessione danno luogo alla applicazione delle sanzioni di cui all'[articolo 484 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+La violazione alle disposizioni contenute negli articoli precedenti e la inosservanza degli obblighi e condizioni imposti nell'atto di concessione danno luogo alla applicazione delle sanzioni di cui all'[articolo 484 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La pena e' in ogni caso singolarmente applicata a ciascuno degli amministratori e dei conduttori della casa da giuoco. Resta salva l'azione per i maggiori reati. 
  

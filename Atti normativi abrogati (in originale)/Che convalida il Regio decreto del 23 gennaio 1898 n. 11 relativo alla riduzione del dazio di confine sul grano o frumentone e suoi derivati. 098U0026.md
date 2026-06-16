@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convalidato l'annesso [Regio decreto del 23 gennaio 1898, n. 11](Col%20quale%20viene%20ridotto%20il%20dazio%20di%20confine%20sul%20grano%20o%20frumento.%20098U0011.md), col quale il dazio di confine sul grano o frumento venne ridotto a lire 50 la tonnellata, con effetto dal 25 gennaio al 31 maggio
+E' convalidato l'annesso [Regio decreto del 23 gennaio 1898, n. 11](../Regi%20decreti/Col%20quale%20viene%20ridotto%20il%20dazio%20di%20confine%20sul%20grano%20o%20frumento.%20098U0011.md), col quale il dazio di confine sul grano o frumento venne ridotto a lire 50 la tonnellata, con effetto dal 25 gennaio al 31 maggio
 
 1898.
 

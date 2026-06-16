@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 6 settembre 1934, n. 1434](Istituzione%20alla%20diretta%20dipendenza%20del%20Capo%20del%20Governo%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1434.md), che istituisce il Sottosegretariato di Stato per la stampa e la propaganda, modificato con [R. decreto 18 settembre 1934, n. 1565](Aumento%20del%20numero%20delle%20Direzioni%20generali%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1565.md);
+Visto il [R. decreto 6 settembre 1934, n. 1434](../Regi%20decreti/Istituzione%20alla%20diretta%20dipendenza%20del%20Capo%20del%20Governo%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1434.md), che istituisce il Sottosegretariato di Stato per la stampa e la propaganda, modificato con [R. decreto 18 settembre 1934, n. 1565](../Regi%20decreti/Aumento%20del%20numero%20delle%20Direzioni%20generali%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1565.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -68,7 +68,7 @@ e) di un rappresentante dei Gruppi universitari fascisti, che ricopra una carica
 
 ## Art. 4.
 
-L'[art. 6 del R. decreto 20 luglio 1934, n. 1301](Norme%20di%20attuazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201414%20contenente%20provvidenze%20varie%20a%20favore%20dellindustria%20cinematografica%20nazionale%20convertito%20in%20legge%20con%20la%20legge%205%20febbraio%201_af7df113fa78.md), e' modificato come appresso: 
+L'[art. 6 del R. decreto 20 luglio 1934, n. 1301](../Regi%20decreti/Norme%20di%20attuazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201414%20contenente%20provvidenze%20varie%20a%20favore%20dellindustria%20cinematografica%20nazionale%20convertito%20in%20legge%20con%20la%20legge%205%20febbraio%201_af7df113fa78.md), e' modificato come appresso: 
  
  « Per l'accertamento dei requisiti indicati nell'[art. 7 del R. decreto-legge 5 ottobre 1933, n. 1414](Provvidenze%20varie%20a%20favore%20dellindustria%20cinematografica%20nazionale.%20033U1414.md), il Sottosegretario di Stato per la stampa e la propaganda sentira' il parere di una Commissione costituita: 
  

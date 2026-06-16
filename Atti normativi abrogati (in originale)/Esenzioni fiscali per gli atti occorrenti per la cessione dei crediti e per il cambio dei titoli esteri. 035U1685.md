@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per la graz
 
 Gli atti e documenti occorrenti per la cessione obbligatoria dei crediti all'estero e per il cambio obbligatorio dei titoli esteri e dei titoli italiani emessi all'estero, ai sensi del R. decreto-legge 28 agosto 1935-XIII, n. 1614, sono esenti dalle tasse di bollo e di concessioni governative, e, ove occorra la registrazione, essa sara' eseguita gratuitamente. 
  
- Per le operazioni suddette relative al cambio dei titoli non e' necessario l'uso dei foglietti bollati di cui al [R. decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md). 
+ Per le operazioni suddette relative al cambio dei titoli non e' necessario l'uso dei foglietti bollati di cui al [R. decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md). 
  
  La prova di tali operazioni puo' essere data dalle distinte di consegna dei titoli alle banche, debitamente sottoscritte. 
  

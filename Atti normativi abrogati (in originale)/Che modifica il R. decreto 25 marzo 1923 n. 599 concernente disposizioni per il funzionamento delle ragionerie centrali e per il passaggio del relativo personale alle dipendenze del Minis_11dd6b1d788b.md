@@ -16,7 +16,7 @@ RE D'ITALIA.
 
 In virtu' dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Veduti i [Regi decreti 28 gennaio 1923, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;126), e [25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599);
+Veduti i [Regi decreti 28 gennaio 1923, n. 126](../Regi%20decreti/Concernente%20il%20passaggio%20degli%20uffici%20di%20ragioneria%20delle%20Amministrazioni%20centrali%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0126.md), e [25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 ## Art. 1.
 
-L'[art. 9 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_9), e' sostituito dal seguente: 
+L'[art. 9 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e' sostituito dal seguente: 
  
  Art. 9. - Sono trasferiti nel ruolo di cui alla lettera a) del precedente articolo, secondo le norme stabilite dagli articoli successivi: 
  
@@ -47,15 +47,15 @@ L'[art. 9 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri
  
  e) il personale appartenente ai ruoli della prima categoria dell'Amministrazione postale, telegrafica e telefonica, assegnato, al 1. gennaio 1923, alla Ragioneria centrale dell'Amministrazione medesima. 
  
- In relazione alla suddetta modificazione dell'[art. 9 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_9), il riferimento dell'art. 18 (terzo comma) dello stesso decreto, alla lettera g) del predetto articolo 9, e' rettificato alla lettera e) del nuovo testo.
+ In relazione alla suddetta modificazione dell'[art. 9 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), il riferimento dell'art. 18 (terzo comma) dello stesso decreto, alla lettera g) del predetto articolo 9, e' rettificato alla lettera e) del nuovo testo.
 
 ## Art. 2.
 
-Il personale di ragioneria occorrente per i Governi delle Colonie sara', di regola, designato fra quello del ruolo di concetto delle Ragionerie centrali, istituito con l'[art. 8 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_8), mediante decreti del Ministro delle Finanze, di concerto col Ministro delle Colonie, entro il numero massimo di trentadue. 
+Il personale di ragioneria occorrente per i Governi delle Colonie sara', di regola, designato fra quello del ruolo di concetto delle Ragionerie centrali, istituito con l'[art. 8 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), mediante decreti del Ministro delle Finanze, di concerto col Ministro delle Colonie, entro il numero massimo di trentadue. 
  
  Il personale cosi' designato ha l'obbligo del servizio in Colonia per non piu' di un quadriennio. 
  
- Fino a diversa disposizione, da emanarsi con decreto ministeriale nella forma anzidetta, s'intendono confermate le destinazioni gia' avvenute in colonia di personale di ragioneria di qualsiasi Amministrazione, trasferito alla dipendenza del Ministero delle Finanze, ai termini del [Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599). 
+ Fino a diversa disposizione, da emanarsi con decreto ministeriale nella forma anzidetta, s'intendono confermate le destinazioni gia' avvenute in colonia di personale di ragioneria di qualsiasi Amministrazione, trasferito alla dipendenza del Ministero delle Finanze, ai termini del [Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md). 
  
  Il personale di ragioneria di qualsiasi Amministrazione, esclusa quella coloniale, trasferito alla dipendenza del Ministero delle Finanze, ai sensi del citato Regio decreto n. 599 e del presente decreto, che sia stato gia' collocato fuori ruolo, in base alle disposizioni vigenti, perche' destinato in colonia, e confermato in tale destinazione per il secondo comma del presente articolo, rimarra' fuori ruolo anche per gli effetti di cui ai commi primo e secondo dell'art. 18 del citato decreto Reale n. 599, fino a quando non cessi dalla destinazione in colonia.
 
@@ -64,15 +64,15 @@ Il personale di ragioneria occorrente per i Governi delle Colonie sara', di rego
 Per il personale destinato in colonia a norma del precedente articolo, valgono tutte le disposizioni relative al trattamento economico applicabili al personale dell'Amministrazione coloniale.
 Gli stipendi, le indennita' ed ogni altro assegno o compenso spettanti al personale medesimo, escluso quello fuori ruolo, di cui al terzo comma dell'articolo precedente, finche'rimarra' in tale posizione, sono rimborsati all'Amministrazione coloniale a carico del bilancio del Ministero delle Finanze. 
  
- Il funzionario preposto alla direzione degli uffici di ragioneria presso il Governo coloniale, dovra' appartenere al ruolo del personale di concetto delle Ragionerie centrali istituito con l'[art. 8 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_8), e avere grado non inferiore a capo sezione. La sua designazione avra' luogo con decreto del Ministro delle Finanze, di concerto con quello delle Colonie. Gli attuali incaricati dovranno essere confermati nella detta forma, entro un mese dalla pubblicazione del presente decreto.
+ Il funzionario preposto alla direzione degli uffici di ragioneria presso il Governo coloniale, dovra' appartenere al ruolo del personale di concetto delle Ragionerie centrali istituito con l'[art. 8 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e avere grado non inferiore a capo sezione. La sua designazione avra' luogo con decreto del Ministro delle Finanze, di concerto con quello delle Colonie. Gli attuali incaricati dovranno essere confermati nella detta forma, entro un mese dalla pubblicazione del presente decreto.
 
 ## Art. 4.
 
-I posti di ragioniere che risulteranno vacanti nel ruolo separato del personale di concetto delle Ragionerie centrali per il Ministero delle Colonie, di cui all'art. 6 del presente decreto, potranno essere eccezionalmente conferiti, per non piu' di un terzo e per merito comparativo, su designazione del Consiglio di amministrazione di cui all'[art. 23 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_23), al personale straordinario che si trovi in servizio nell'Amministrazione coloniale alla entrata in vigore del presente decreto, e ad ufficiali effettivi, o di complemento, che abbiano in colonia incarichi civili purche' gli aspiranti, sia civili, che militari, siano muniti di licenza di Istituto tecnico (sezione commercio e ragioneria) o di altro titolo riconosciuto equipollente. Sara' titolo di preferenza l'aver prestato servizio in reparti combattenti in qualita' di ufficiale.
+I posti di ragioniere che risulteranno vacanti nel ruolo separato del personale di concetto delle Ragionerie centrali per il Ministero delle Colonie, di cui all'art. 6 del presente decreto, potranno essere eccezionalmente conferiti, per non piu' di un terzo e per merito comparativo, su designazione del Consiglio di amministrazione di cui all'[art. 23 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), al personale straordinario che si trovi in servizio nell'Amministrazione coloniale alla entrata in vigore del presente decreto, e ad ufficiali effettivi, o di complemento, che abbiano in colonia incarichi civili purche' gli aspiranti, sia civili, che militari, siano muniti di licenza di Istituto tecnico (sezione commercio e ragioneria) o di altro titolo riconosciuto equipollente. Sara' titolo di preferenza l'aver prestato servizio in reparti combattenti in qualita' di ufficiale.
 
 ## Art. 5.
 
-La tabella A, annessa al [Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), e' sostituita dalla seguente: 
+La tabella A, annessa al [Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e' sostituita dalla seguente: 
  
  Tabella A. 
  
@@ -186,7 +186,7 @@ Sono soppressi i ruoli del personale di concetto e del personale d'ordine, stabi
 
 ## Art. 7.
 
-L'[art. 30 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_30), e' sostituito dal seguente: 
+L'[art. 30 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e' sostituito dal seguente: 
  
  Art. 30. - Avvenuti i trasferimenti del personale di ragioneria delle varie amministrazioni appartenenti ai ruoli indicati all'art. 9, lettere a), b) ed e) del presente decreto, i ruoli stessi sono soppressi, restando, pero', conservato presso il Ministero dei Lavori Pubblici un posto di cassiere. 
  
@@ -204,7 +204,7 @@ L'[art. 30 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/ur
 
 ## Art. 8.
 
-La tabella F, annessa al [Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), e' sostituita dalla seguente: 
+La tabella F, annessa al [Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e' sostituita dalla seguente: 
  
 UNIFICAZIONE dei ruoli del personale di ragioneria delle Intendenze di finanza e del personale delle delegazioni del tesoro e di gestioni e controllo. 
  
@@ -212,13 +212,13 @@ UNIFICAZIONE dei ruoli del personale di ragioneria delle Intendenze di finanza e
 
 ## Art. 9.
 
-Il cambio di ruolo, di cui all'[art. 27 del R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_27), con funzionari di concetto delle ragionerie centrali, puo' essere concesso, nelle forme stabilite dall'articolo medesimo, ai funzionari di ragioneria dei ruoli provinciali, entro un triennio dalla pubblicazione del presente decreto, quando i predetti funzionari abbiano ottenuto la nomina nei ruoli cui appartengono prima della pubblicazione del Regio decreto sopra citato; ovvero, senza limite di tempo, quando posseggano il diploma di laurea, prescritto dall'art. 22 (primo comma) del Regio decreto medesimo per il personale di concetto delle Ragionerie centrali. 
+Il cambio di ruolo, di cui all'[art. 27 del R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), con funzionari di concetto delle ragionerie centrali, puo' essere concesso, nelle forme stabilite dall'articolo medesimo, ai funzionari di ragioneria dei ruoli provinciali, entro un triennio dalla pubblicazione del presente decreto, quando i predetti funzionari abbiano ottenuto la nomina nei ruoli cui appartengono prima della pubblicazione del Regio decreto sopra citato; ovvero, senza limite di tempo, quando posseggano il diploma di laurea, prescritto dall'art. 22 (primo comma) del Regio decreto medesimo per il personale di concetto delle Ragionerie centrali. 
  
  Per il personale del ruolo transitorio, di cui all'art. 14 del citato Regio decreto n. 599, il cambio di ruolo puo' essere concesso soltanto col personale della seconda categoria dell'amministrazione postale, telegrafica e telefonica.
 
 ## Art. 10.
 
-Per il personale di concetto del ruolo organico delle Ragionerie Centrali, di cui all'[art. 8 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_8), la progressione degli stipendi nel grado di ragioniere e' stabilita come segue: 
+Per il personale di concetto del ruolo organico delle Ragionerie Centrali, di cui all'[art. 8 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), la progressione degli stipendi nel grado di ragioniere e' stabilita come segue: 
  
  Stipendio iniziale . . . L. 6.000 
  
@@ -246,7 +246,7 @@ Il personale trasferite alla dipendenza del Ministero delle Finanze ai sensi del
 
 ## Art. 12.
 
-Fino al 30 giugno 1923, gli stipendi e gli assegni fissi, spettanti al personale delle Ragionerie Centrali, trasferito alla dipendenza del Ministero delle Finanze, a norma dei [Regi decreti 28 gennaio 1923, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;126), e [25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), e del presente decreto, continueranno ad essere pagati sui bilanci delle Amministrazioni di provenienza. 
+Fino al 30 giugno 1923, gli stipendi e gli assegni fissi, spettanti al personale delle Ragionerie Centrali, trasferito alla dipendenza del Ministero delle Finanze, a norma dei [Regi decreti 28 gennaio 1923, n. 126](../Regi%20decreti/Concernente%20il%20passaggio%20degli%20uffici%20di%20ragioneria%20delle%20Amministrazioni%20centrali%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0126.md), e [25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e del presente decreto, continueranno ad essere pagati sui bilanci delle Amministrazioni di provenienza. 
  
  Dal 1° luglio 1923 tutti gli stipendi, gli assegni, le retribuzioni, le indennita', i compensi di qualsiasi genere, saranno a carico del bilancio del Ministero delle Finanze, salvo pei funzionari fuori ruolo, finche' resteranno in tale posizione.
 

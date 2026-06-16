@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 29 luglio 1926, n. 1460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1460), col quale i comuni di Desenzano sul Lago e di Rivoltella venivano riuniti in un solo Comune denominato Desenzano del Garda con sede a Desenzano sul Lago; 
+ Visto il [R. decreto 29 luglio 1926, n. 1460](../Regi%20decreti/Riunione%20in%20unico%20Comune%20denominato%20Desenzano%20del%20Garda%20dei%20comuni%20di%20Desenzano%20sul%20Lago%20e%20Rivoltella%20sul%20Garda.%20026U1460.md), col quale i comuni di Desenzano sul Lago e di Rivoltella venivano riuniti in un solo Comune denominato Desenzano del Garda con sede a Desenzano sul Lago; 
  Vista la deliberazione del podesta' di detto Comune con la quale si chiede che per tutto il territorio del comune di Desenzano del Garda funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del presidente e dell'avvocato generale presso la sezione di Corte d'appello di Brescia; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

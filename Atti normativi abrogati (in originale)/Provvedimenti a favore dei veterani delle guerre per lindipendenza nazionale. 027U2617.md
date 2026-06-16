@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 9 giugno 1898, n. 274](Che%20approva%20il%20testo%20unico%20di%20leggi%20per%20la%20reintegrazione%20dei%20gradi%20militari%20perduti%20per%20causa%20politica%20le%20pensioni%20ai%20feriti%20ed%20alle%20famiglie%20dei%20morti%20per%20lindipendenza%20dItalia%20e%20la%20con_a50f756d4517.md);
+Visto il [R. decreto 9 giugno 1898, n. 274](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20di%20leggi%20per%20la%20reintegrazione%20dei%20gradi%20militari%20perduti%20per%20causa%20politica%20le%20pensioni%20ai%20feriti%20ed%20alle%20famiglie%20dei%20morti%20per%20lindipendenza%20dItalia%20e%20la%20con_a50f756d4517.md);
 
 Vista la [legge 4 giugno 1911, n. 486](Concernente%20lassegno%20vitalizio%20ai%20superstiti%20delle%20guerre%20per%20lindipendenza%20dItalia.%20011U0486.md);
 

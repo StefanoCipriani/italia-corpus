@@ -22,7 +22,7 @@ E' costituita, alla diretta dipendenza del Ministro per lavori pubblici, l'Azien
 
 ## Art. 2.
 
-Le strade statali alla cui manutenzione e sistemazione provvede l'Azienda autonoma statale della strada a norma del precedente articolo sono quelle risultanti dall'elenco annesso alla presente legge, il quale, a decorrere dal 1° luglio 1928, sostituisce a tutti gli effetti l'elenco annesso al [R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506).
+Le strade statali alla cui manutenzione e sistemazione provvede l'Azienda autonoma statale della strada a norma del precedente articolo sono quelle risultanti dall'elenco annesso alla presente legge, il quale, a decorrere dal 1° luglio 1928, sostituisce a tutti gli effetti l'elenco annesso al [R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md).
 
 ## Art. 3.
 
@@ -122,7 +122,7 @@ Per tutto quanto non sia da sottoporre all'approvazione del Consiglio di amminis
 
 ## Art. 10.
 
-Il direttore generale dell'Azienda e' classificato nel grado quarto dell'ordinamento gerarchico delle Amministrazioni dello Stato, approvato con [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed e' di diritto membro effettivo del Consiglio superiore dei lavori pubblici. 
+Il direttore generale dell'Azienda e' classificato nel grado quarto dell'ordinamento gerarchico delle Amministrazioni dello Stato, approvato con [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed e' di diritto membro effettivo del Consiglio superiore dei lavori pubblici. 
  
  Il direttore dei servizi amministrativi e' classificato nel grado quinto dell'ordinamento suddetto ed e' nominato con decreto Reale su proposta del Ministro per i lavori pubblici.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni, sono apportate le varianti di cui agli articoli seguenti.
+Al testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali della Regia marina, approvato con [Regio decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni, sono apportate le varianti di cui agli articoli seguenti.
 
 ## Art. 2.
 

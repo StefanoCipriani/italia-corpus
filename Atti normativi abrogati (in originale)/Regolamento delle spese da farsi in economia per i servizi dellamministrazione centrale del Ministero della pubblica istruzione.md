@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il regolamento concernente le spese da farsi in economia per i servizi del Ministero della pubblica istruzione, approvato con [regio decreto 13 aprile 1882, n. 811](Che%20approva%20il%20regolamento%20per%20le%20spese%20da%20farsi%20ad%20economia%20in%20servizio%20del%20Ministero%20della%20pubblica%20istruzione.%20082U0811.md);
+ Visto il regolamento concernente le spese da farsi in economia per i servizi del Ministero della pubblica istruzione, approvato con [regio decreto 13 aprile 1882, n. 811](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20spese%20da%20farsi%20ad%20economia%20in%20servizio%20del%20Ministero%20della%20pubblica%20istruzione.%20082U0811.md);
  Vista la [legge 10 dicembre 1953, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-12-10;936);
  Ravvisata la necessita' di modificare il regolamento sopra citato per renderlo adeguato alle attuali esigenze dell'amministrazione;
  Udito il parere del Consiglio di Stato n. 1690/70 espresso dall'adunanza generale il 29 ottobre 1970;

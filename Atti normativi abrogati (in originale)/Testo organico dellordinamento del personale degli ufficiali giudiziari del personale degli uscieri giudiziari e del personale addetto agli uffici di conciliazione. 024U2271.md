@@ -32,7 +32,7 @@ Vista la [legge 20 luglio 1922, n. 995](Che%20riforma%20la%20tariffa%20penale%20
 
 Visto il [R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), sulla riforma dell'Amministrazione dello Stato;
 
-Visto il [R. decreto 9 ottobre 1922, n. 1366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-09;1366), concernente la semplificazione di taluni servizi delle cancellerie e segreterie giudiziarie;
+Visto il [R. decreto 9 ottobre 1922, n. 1366](../Regi%20decreti/Concernente%20la%20semplificazione%20di%20taluni%20servizi%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20022U1366.md), concernente la semplificazione di taluni servizi delle cancellerie e segreterie giudiziarie;
 
 Visto il [R. decreto 3 maggio 1923, n. 1043](Che%20stabilisce%20le%20competenze%20dovute%20ai%20testimoni%20periti%20giurati%20e%20ufficiali%20giudiziari%20e%20le%20indennita%20spettanti%20ai%20magistrati%20e%20cancellieri%20per%20le%20trasferte.%20023U1043.md), che stabilisce le competenze dovute per le trasferte;
 
@@ -68,7 +68,7 @@ Visto il [R. decreto-legge 7 giugno 1920, n. 739](Che%20apporta%20modificazioni%
 
 Visto il [R. decreto 2 dicembre 1923, n. 2646](Disposizioni%20circa%20la%20nomina%20ad%20usciere%20giudiziario%20di%20invalidi%20di%20guerra%20o%20ex%20combattenti%20decorati%20gia%20in%20servizio%20negli%20uffici%20giudiziari.%20023U2646.md), contenente disposizioni circa la nomina ad usciere giudiziario di invalidi di guerra o ex combattenti decorati, gia' in servizio negli uffici giudiziari;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), contenente le disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), contenente le disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Visto il [R. decreto 20 marzo 1924, n. 466](Modificazioni%20alla%20pianta%20organica%20degli%20uscieri%20giudiziari.%20024U0466.md), che modifica la pianta organica degli uscieri giudiziari.
 

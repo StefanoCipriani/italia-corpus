@@ -73,7 +73,7 @@ Le spese di vigilanza per l'accertamento e liquidazione della imposta presso le 
 
 ## Art. 9.
 
-Le somme liquidate per effetto della applicazione del presente decreto e non versate entro il termine stabilito, sono riscosse dal ricevitore doganale con la procedura di cui al testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Le somme liquidate per effetto della applicazione del presente decreto e non versate entro il termine stabilito, sono riscosse dal ricevitore doganale con la procedura di cui al testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
  Su dette somme sara' dovuta l'indennita' di mora prevista dall'[art. 6 del decreto legislativo 25 novembre 1947, n. 1286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-25;1286#art_6).
  L'atto di opposizione all'ingiunzione di pagamento non e' valido se non e' fatto entro il termine perentorio di 15 giorni dalla data di eseguita notificazione e non e' preceduto dal pagamento della somma richiesta.
 
@@ -91,7 +91,7 @@ Il credito dello Stato per i diritti derivanti dall'applicazione del presente de
 Chiunque sottrae, con qualunque mezzo, i prodotti contemplati nell'art. 1 del presente decreto all'accertamento o al pagamento della imposta, e' punito indipendentemente dal pagamento del tributo dovuto con l'irrogazione di una multa non inferiore al doppio ne' superiore al decuplo dei diritti frodati o che avrebbero potuto essere frodati.
  In ogni caso la multa non potra' risultare inferiore alle duecentomila lire.
  I prodotti oggetto della frode ed i mezzi adoperati per perpetrarla sono confiscati. Per la confisca si applica l'art. 116 delle disposizioni della legge doganale 25 settembre 1940, n. 1424.
- La multa e' applicata senza pregiudizio delle altre pene sancito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La multa e' applicata senza pregiudizio delle altre pene sancito dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Il tentativo e' punito con la stessa pena stabilita per il reato consumato.
 
 ## Art. 13.
@@ -107,7 +107,7 @@ L'esercente che omette di presentare o presenta oltre il termine stabilito la de
 
 ## Art. 15.
 
-Le disposizioni del terz'ultimo ed ultimo comma dello art. 12 e quelle degli articoli 13 e 14 sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [26](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [56](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Le disposizioni del terz'ultimo ed ultimo comma dello art. 12 e quelle degli articoli 13 e 14 sono adottate in deroga agli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [26](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [56](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Per la cognizione dei reati previsti dal presente decreto e per le relative norme di procedura si osservano le disposizioni della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4).
 
 ## Art. 16.

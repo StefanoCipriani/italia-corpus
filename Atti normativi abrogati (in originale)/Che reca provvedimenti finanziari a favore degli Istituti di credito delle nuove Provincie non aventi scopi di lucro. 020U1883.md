@@ -72,7 +72,7 @@ Gli Istituti contemplati nel presente decreto sono posti sotto la vigilanza del 
 
 Il ministro del tesoro e' autorizzato a prendere opportuni accordi con gli Istituti di emissione per affidar loro od a un solo di essi l'esecuzione delle operazioni previste dalle disposizioni degli articoli 3, 4 e 5 del presente decreto, e per vigilare sull'andamento economico e amministrativo degli Enti sovvenuti. 
  
- La circolazione dei biglietti dipendente da siffatte operazioni non e' soggetta a tasse, ne' alle disposizioni dell'art. 11 del testo unico di legge sugli Istituti di emissione approvato con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204).
+ La circolazione dei biglietti dipendente da siffatte operazioni non e' soggetta a tasse, ne' alle disposizioni dell'art. 11 del testo unico di legge sugli Istituti di emissione approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
 
 ## Art. 9.
 

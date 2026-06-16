@@ -14,9 +14,9 @@ Visto il [decreto luogotenenziale 30 dicembre 1917, n. 2111](https://www.normatt
 
 Visto il [regio decreto-legge 9 luglio 1936, n. 1674](Riordinamento%20della%20circolazione%20monetaria%20metallica%20di%20Stato.%20036U1674.md), relativo al riordinamento della circolazione monetaria metallica dello Stato;
 
-Visto il [regio decreto 3 settembre 1936, n. 2511](Emissione%20delle%20monete%20imperiali%20di%20argento%20di%20nichelio%20e%20di%20bronzo.%20036U2511.md), concernente l'emissione delle monete imperiali di argento, di nichelio e di bronzo;
+Visto il [regio decreto 3 settembre 1936, n. 2511](../Regi%20decreti/Emissione%20delle%20monete%20imperiali%20di%20argento%20di%20nichelio%20e%20di%20bronzo.%20036U2511.md), concernente l'emissione delle monete imperiali di argento, di nichelio e di bronzo;
 
-Visto il [regio decreto 23 dicembre 1937, n. 2200](Determinazione%20del%20contingente%20in%20valore%20nominale%20delle%20nuove%20monete%20in%20relazione%20alle%20esigenze%20derivanti%20dalla%20costituzione%20dellImpero.%20037U2200.md), col quale fu determinato il contingente in valore nominale delle nuove monete, in relazione alle esigenze della costituzione dell'impero;
+Visto il [regio decreto 23 dicembre 1937, n. 2200](../Regi%20decreti/Determinazione%20del%20contingente%20in%20valore%20nominale%20delle%20nuove%20monete%20in%20relazione%20alle%20esigenze%20derivanti%20dalla%20costituzione%20dellImpero.%20037U2200.md), col quale fu determinato il contingente in valore nominale delle nuove monete, in relazione alle esigenze della costituzione dell'impero;
 
 Visto il [decreto del Capo provvisorio dello Stato 6 settembre 1946, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-09-06;298), col quale viene autorizzata la Zecca a fabbricare ed emettere monete metalliche "Italma";
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le finanze e il tesoro; HA SANZIONATO E PROMULGA
 
 ## Art. 1.
 
-Le monete di lega di nichel e rame da centesimi venti di cui al [decreto luogotenenziale 30 dicembre 1917, n. 2111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-30;2111), e quelle di argento da lire venti, lire dieci e lire cinque, di cui al [regio decreto 3 settembre 1936, n 2511](Emissione%20delle%20monete%20imperiali%20di%20argento%20di%20nichelio%20e%20di%20bronzo.%20036U2511.md), ed al [regio decreto 23 dicembre 1937, n. 2200](Determinazione%20del%20contingente%20in%20valore%20nominale%20delle%20nuove%20monete%20in%20relazione%20alle%20esigenze%20derivanti%20dalla%20costituzione%20dellImpero.%20037U2200.md), in circolazione, cesseranno di avere corso legale col 30 giugno 1947.
+Le monete di lega di nichel e rame da centesimi venti di cui al [decreto luogotenenziale 30 dicembre 1917, n. 2111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-30;2111), e quelle di argento da lire venti, lire dieci e lire cinque, di cui al [regio decreto 3 settembre 1936, n 2511](../Regi%20decreti/Emissione%20delle%20monete%20imperiali%20di%20argento%20di%20nichelio%20e%20di%20bronzo.%20036U2511.md), ed al [regio decreto 23 dicembre 1937, n. 2200](../Regi%20decreti/Determinazione%20del%20contingente%20in%20valore%20nominale%20delle%20nuove%20monete%20in%20relazione%20alle%20esigenze%20derivanti%20dalla%20costituzione%20dellImpero.%20037U2200.md), in circolazione, cesseranno di avere corso legale col 30 giugno 1947.
 
 ## Art. 2.
 

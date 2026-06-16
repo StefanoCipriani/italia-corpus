@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e successive modificazioni;
+Visto il testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e successive modificazioni;
 
 Udito il Consiglio dei ministri;
 
@@ -46,7 +46,7 @@ Gli inscritti di leva riconosciuti idonei al servizio militare marittimo, che no
 
 ## Art. 4.
 
-Il Governo del Re e' autorizzato a pubblicare un nuovo testo unico delle leggi sulla leva marittima, coordinando il precedente testo approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), con le disposizioni del presente decreto con quello del vigente [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o con le altre contenute nelle [leggi 30 giugno 1889, n. 6156](Che%20abroga%20la%20disposizione%20legislativa%20secondo%20la%20quale%20i%20sottufficiali%20della%20R.%20Marina%20debbono%20contrarre%20la%20ferma%20di%20sei%20anni.%20089U6156.md), serie 3ª; 1° febbraio 1900, n. 26; 31 gennaio 1901, n. 23 (articoli 33 e 34);27 giugno 1901, n. 276; 15 1uglio 1906, n. 345 (articolo 3); 27 dicembre 1906, n. 679; 5 luglio 1908, n. 348; 24 dicembre 1908, n.748; 18 luglio 1911, n. 765; 7 giugno 1914, n. 509 e 21 marzo 1918, n. 427, e con tutte le altre che abbiano comunque attinenza colla legge sulla leva marittima.
+Il Governo del Re e' autorizzato a pubblicare un nuovo testo unico delle leggi sulla leva marittima, coordinando il precedente testo approvato con [R. decreto 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), con le disposizioni del presente decreto con quello del vigente [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o con le altre contenute nelle [leggi 30 giugno 1889, n. 6156](Che%20abroga%20la%20disposizione%20legislativa%20secondo%20la%20quale%20i%20sottufficiali%20della%20R.%20Marina%20debbono%20contrarre%20la%20ferma%20di%20sei%20anni.%20089U6156.md), serie 3ª; 1° febbraio 1900, n. 26; 31 gennaio 1901, n. 23 (articoli 33 e 34);27 giugno 1901, n. 276; 15 1uglio 1906, n. 345 (articolo 3); 27 dicembre 1906, n. 679; 5 luglio 1908, n. 348; 24 dicembre 1908, n.748; 18 luglio 1911, n. 765; 7 giugno 1914, n. 509 e 21 marzo 1918, n. 427, e con tutte le altre che abbiano comunque attinenza colla legge sulla leva marittima.
 
 ## Art. 5.
 

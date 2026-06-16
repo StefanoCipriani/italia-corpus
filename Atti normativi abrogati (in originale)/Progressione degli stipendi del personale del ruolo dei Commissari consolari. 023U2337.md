@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Veduti i [Regi decreti 4 marzo 1923, n. 500](Concernente%20la%20formazione%20di%20un%20ruolo%20di%20commissari%20consolari.%20023U0500.md); [25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), e [14 giugno 1923, n. 1300](Che%20modifica%20il%20R.%20decreto%2025%20marzo%201923%20n.%20599%20concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alle%20dipendenze%20del%20Minis_11dd6b1d788b.md);
+Veduti i [Regi decreti 4 marzo 1923, n. 500](Concernente%20la%20formazione%20di%20un%20ruolo%20di%20commissari%20consolari.%20023U0500.md); [25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e [14 giugno 1923, n. 1300](Che%20modifica%20il%20R.%20decreto%2025%20marzo%201923%20n.%20599%20concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alle%20dipendenze%20del%20Minis_11dd6b1d788b.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato ad interim per gli affari esteri, di concerto con quello per le finanze;
 
@@ -48,7 +48,7 @@ Per il personale del ruolo dei Commissari consolari di cui al [R. decreto 4 marz
 
 ## Art. 2.
 
-La disposizione dell'[art. 22 del R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_22), e' estesa alle nuove assunzioni nel ruolo dei Commissari consolari, salvo il disposto dell'[articolo 5 del R. decreto 4 marzo 1923, n. 500](Concernente%20la%20formazione%20di%20un%20ruolo%20di%20commissari%20consolari.%20023U0500.md). 
+La disposizione dell'[art. 22 del R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e' estesa alle nuove assunzioni nel ruolo dei Commissari consolari, salvo il disposto dell'[articolo 5 del R. decreto 4 marzo 1923, n. 500](Concernente%20la%20formazione%20di%20un%20ruolo%20di%20commissari%20consolari.%20023U0500.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -20,7 +20,7 @@ Se nel giorno in cui entrera' in vigore la suddetta legge un atto di istruzione 
 
 ## Art. 3.
 
-Nelle cause in cui e' compiuta l'istruzione, ma non ancora e' stata fatta la relazione alla Commissione d'inchiesta, giusta l'[articolo 464 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, questa sara' fatta alla Camera di Consiglio.
+Nelle cause in cui e' compiuta l'istruzione, ma non ancora e' stata fatta la relazione alla Commissione d'inchiesta, giusta l'[articolo 464 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, questa sara' fatta alla Camera di Consiglio.
 
 ## Art. 4.
 

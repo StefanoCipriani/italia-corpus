@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), che detta norme per la esecuzione delle opere pubbliche;
+Visto il [R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), che detta norme per la esecuzione delle opere pubbliche;
 
 Sentito il Consiglio dei Ministri:
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-All'[art. 2 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e' sostituito il seguente: 
+All'[art. 2 del R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), e' sostituito il seguente: 
  
  I progetti di opere che si eseguono a cura delle Amministrazioni civili dello Stato, eccettuati quelli delle Ferrovie dello Stato, di competenza del Ministero delle comunicazioni, sono approvati dal Ministero competente previo il parere: 
  
@@ -36,7 +36,7 @@ All'[art. 2 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20a
  
  Per i lavori di manutenzione pluriennale, la competenza per l'approvazione in linea tecnica dei relativi progetti sara' determinata avendo riguardo all'importo del canone preveduto per ciascun anno. 
  
- Per l'approvazione dei progetti puo' prescindersi dalla revisione contabile dei calcoli e dei prezzi relativi di cui all'[art. 1 del R. decreto 24 gennaio 1875, n. 2364](Col%20quale%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20e%20istituito%20un%20ufficio%20tecnico%20di%20revisione.%20075U2364.md). 
+ Per l'approvazione dei progetti puo' prescindersi dalla revisione contabile dei calcoli e dei prezzi relativi di cui all'[art. 1 del R. decreto 24 gennaio 1875, n. 2364](../Regi%20decreti/Col%20quale%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20e%20istituito%20un%20ufficio%20tecnico%20di%20revisione.%20075U2364.md). 
  
  Nulla e' innovato alle attribuzioni spettanti al Magistrato alle acque a termini della [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md). 
  
@@ -60,7 +60,7 @@ Fra le condizioni dell'incanto puo' essere compresa quella del pagamento del pre
  
  Si puo' precedere all'appalto mediante licitazione privata, quando l'Amministrazione, sentito il Consiglio superiore dei lavori pubblici, o, nei limiti della rispettiva competenza, lo ispettore superiore di Circolo del Genio civile e l'ispettore capo superiore di cui al precedente articolo 2, comma 1, lettera a), ritenga opportuno per considerazioni relative alla natura o alle esigenze tecniche dell'opera, limitare la gara a Ditte fornite di speciali requisiti di idoneita', sia in rapporto alla esperienza acquistata e dimostrata in altre opere di eguale natura, sia per i mezzi tecnici o finanziari di cui sono provviste. 
  
- Quando l'Amministrazione nei casi previsti dall'[art. 4 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_4), intenda avvalersi dell'appalto-concorso, il giudizio e' dato, in relazione agli elementi economici e tecnici delle offerte, da una Commissione di 3 o 5 membri da nominarsi di volta in volta dalla Amministrazione stessa, quando non si tratti di lavori, alla direzione dei quali sia gia' preposta una speciale Commissione tecnica. La Commissione da nominarsi di volta in volta sara' presieduta dal presidente della competente Sezione del Consiglio superiore o da un suo delegato; e ne fara' parte, nei casi di particolare importanza tecnica, uno specialista della materia. Gli altri membri saranno scelti fra i componenti del Consiglio superiore. 
+ Quando l'Amministrazione nei casi previsti dall'[art. 4 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), intenda avvalersi dell'appalto-concorso, il giudizio e' dato, in relazione agli elementi economici e tecnici delle offerte, da una Commissione di 3 o 5 membri da nominarsi di volta in volta dalla Amministrazione stessa, quando non si tratti di lavori, alla direzione dei quali sia gia' preposta una speciale Commissione tecnica. La Commissione da nominarsi di volta in volta sara' presieduta dal presidente della competente Sezione del Consiglio superiore o da un suo delegato; e ne fara' parte, nei casi di particolare importanza tecnica, uno specialista della materia. Gli altri membri saranno scelti fra i componenti del Consiglio superiore. 
  
  Le mansioni di segretario della Commissione saranno disimpegnate dal funzionario preposto all'ufficio contratti da un suo delegato. 
  
@@ -122,7 +122,7 @@ La cessione totale o parziale dell'esecuzione delle opere - esclusi i cottimi - 
 
 All'art. 25 e' sostituito il seguente: 
  
- Non si puo' provvedere alla esecuzione delle opere dello Stato mediante trattativa privata se non concorrono le speciali ed eccezionali circostanze previste negli articoli, [6, primo comma del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6-com1), e 41 del [regolamento 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-05-23;827), recanti nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. Per l'accertamento di queste circostanze deve essere sentito il Consiglio superiore dei lavori pubblici, quando l'importo del progetto o base di appalto superi L. 25,000; negli altri casi l'ispettore superiore di Circolo del Genio civile o l'ispettore superiore capo di cui all'art. 2, comma 1°, lettera a). 
+ Non si puo' provvedere alla esecuzione delle opere dello Stato mediante trattativa privata se non concorrono le speciali ed eccezionali circostanze previste negli articoli, [6, primo comma del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e 41 del [regolamento 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-05-23;827), recanti nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. Per l'accertamento di queste circostanze deve essere sentito il Consiglio superiore dei lavori pubblici, quando l'importo del progetto o base di appalto superi L. 25,000; negli altri casi l'ispettore superiore di Circolo del Genio civile o l'ispettore superiore capo di cui all'art. 2, comma 1°, lettera a). 
  
  Allorche' per ragioni tecniche ed economiche sia da provvedere all'esecuzione in economia di lavori nei casi non preveduti in speciali leggi o regolamenti dovra' essere sentito il parere del Consiglio superiore dei lavori pubblici ogni qualvolta l'importo dei lavori superi L. 25,000.
 
@@ -150,15 +150,15 @@ All'art. 40 e' sostituito il seguente:
  
  Le disposizioni del presente decreto sono estese, in quanto applicabili, ai lavori che si eseguiscono con o senza concorso dello Stato, dalle provincie, dai comuni o dai consorzi amministrativi per l'esecuzione di opere pubbliche. 
  
- Gli appalti mediante licitazione o trattative private e l'esecuzione in economia sono consentiti salvo, per i comuni e le provincie, il parere del Consiglio di prefettura, anche fuori dei casi previsti nell'[art. 52 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), concernente la riforma della legge comunale e provinciale e nell'art. 258 del testo unico della legge comunale 
+ Gli appalti mediante licitazione o trattative private e l'esecuzione in economia sono consentiti salvo, per i comuni e le provincie, il parere del Consiglio di prefettura, anche fuori dei casi previsti nell'[art. 52 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), concernente la riforma della legge comunale e provinciale e nell'art. 258 del testo unico della legge comunale 
  
- e provinciale approvato con [R. decreto 4 febbraio 1915 numero 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), modificato dall'art. 92 del citato [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), quando ricorrano le stesse circostanze speciali ed eccezionali indicate nell'[art. 6 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), e 41 del [regolamento 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-05-23;827), sulla contabilita' generale dello Stato e nell'art. 7 del presente decreto. 
+ e provinciale approvato con [R. decreto 4 febbraio 1915 numero 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), modificato dall'art. 92 del citato [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), quando ricorrano le stesse circostanze speciali ed eccezionali indicate nell'[art. 6 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e 41 del [regolamento 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-05-23;827), sulla contabilita' generale dello Stato e nell'art. 7 del presente decreto. 
  
- Restano ferme le disposizioni degli articoli 184, 186, 187 e 188 del detto testo unico, salvo per quanto riguarda l'articolo 186 la modificazione ad esso apportata dall'art. 54 del citato [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
+ Restano ferme le disposizioni degli articoli 184, 186, 187 e 188 del detto testo unico, salvo per quanto riguarda l'articolo 186 la modificazione ad esso apportata dall'art. 54 del citato [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md). 
  
  L'autorizzazione Prefettizia per la dispensa dagli incanti e' richiesta soltanto per gli appalti il cui valore complessivo ecceda le L. 5000 se si tratti di Provincie e L. 2000 se di Comuni. 
  
- La risoluzione dei contratti nel caso previsto dall'art. 9 del presente decreto e' pronunziata dalle Amministrazioni appaltanti nei modi e con le garanzie di legge. Lo svincolo parziale o anticipato della cauzione ammesso dall'art. 21 di detto decreto dovra' per le Provincie e per i Comuni essere autorizzato nei modi prescritti dall'art. 180 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297). 
+ La risoluzione dei contratti nel caso previsto dall'art. 9 del presente decreto e' pronunziata dalle Amministrazioni appaltanti nei modi e con le garanzie di legge. Lo svincolo parziale o anticipato della cauzione ammesso dall'art. 21 di detto decreto dovra' per le Provincie e per i Comuni essere autorizzato nei modi prescritti dall'art. 180 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md). 
  
  La facolta' attribuita al Ministro per le opere dello Stato dal (testo mancante) comma dell'art. 9 del presente decreto, e' estesa alle Deputazioni provinciali, alle Giunte comunali ed agli organi corrispondenti dei Consorzi e degli Enti autonomi costituiti per l'esecuzione dei lavori pubblici, per le opere di rispettiva competenza.
 

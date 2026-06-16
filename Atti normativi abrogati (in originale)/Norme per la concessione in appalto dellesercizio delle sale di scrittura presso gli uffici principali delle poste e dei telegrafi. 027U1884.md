@@ -32,7 +32,7 @@ L'Amministrazione delle poste e dei telegrafi ha facolta' di concedere l'eserciz
 
 ## Art. 2.
 
-Le concessioni di cui all'articolo precedente saranno fatte con decreto del Ministro per le comunicazioni, in base a capitolato d'oneri, previo parere del Consiglio di amministrazione delle poste e dei telegrafi, con esonero dalle norme sancite dai [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni, sulla contabilita' generale dello Stato. 
+Le concessioni di cui all'articolo precedente saranno fatte con decreto del Ministro per le comunicazioni, in base a capitolato d'oneri, previo parere del Consiglio di amministrazione delle poste e dei telegrafi, con esonero dalle norme sancite dai [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni, sulla contabilita' generale dello Stato. 
  
  La misura del canone sara' stabilita volta per volta in proporzione alla importanza della sala di scrittura concessa e dovra' risultare dal decreto di cui al primo comma del presente articolo. 
  

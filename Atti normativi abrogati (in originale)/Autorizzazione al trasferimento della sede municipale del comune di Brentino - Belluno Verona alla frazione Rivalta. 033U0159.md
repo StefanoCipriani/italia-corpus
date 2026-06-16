@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto il parere favorevole espresso dal Rettorato della provincia di Verona nell'adunanza del 12 luglio 1932; 
  
- Veduti il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), il relativo regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297), il [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), nonche' le [leggi 4 febbraio 1926, n. 237, e 27 dicembre 1928, n. 2962](Riforma%20dellAmministrazione%20provinciale.%20028U2962.md); 
+ Veduti il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), il relativo regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md), il [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), nonche' le [leggi 4 febbraio 1926, n. 237, e 27 dicembre 1928, n. 2962](Riforma%20dellAmministrazione%20provinciale.%20028U2962.md); 
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro 'Segretario di Stato per gli affari dell'interno; 
  

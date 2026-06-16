@@ -48,7 +48,7 @@ Agli effetti della determinazione dei limiti di cui agli [articoli 1](Cessione%2
 
 ## Art. 3.
 
-Il Ministro per le comunicazioni, di concerto con i Ministri per le finanze, per l'economia nazionale e per i lavori pubblici, e' autorizzato a prorogare di un anno la durata delle vigenti convenzioni per l'esercizio dei servizi marittimi sovvenzionati, indispensabili o utili, stipulate in virtu' del [R. decreto 31 dicembre 1923, n. 3173](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), nelle quali sia fatto obbligo agli assuntori di provvedere alla costruzione di navi per i servizi assunti.
+Il Ministro per le comunicazioni, di concerto con i Ministri per le finanze, per l'economia nazionale e per i lavori pubblici, e' autorizzato a prorogare di un anno la durata delle vigenti convenzioni per l'esercizio dei servizi marittimi sovvenzionati, indispensabili o utili, stipulate in virtu' del [R. decreto 31 dicembre 1923, n. 3173](../Regi%20decreti/Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), nelle quali sia fatto obbligo agli assuntori di provvedere alla costruzione di navi per i servizi assunti.
 
 ## Art. 4.
 

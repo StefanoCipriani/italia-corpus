@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-La tabella C annessa al [regio decreto 21 giugno 1942, n. 929](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), e' sostituita dalla tabella annessa.
+La tabella C annessa al [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), e' sostituita dalla tabella annessa.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

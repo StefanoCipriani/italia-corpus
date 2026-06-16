@@ -16,11 +16,11 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), ed in relativo regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), ed in relativo regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Visto il [R. decreto-legge 21 dicembre 1922, n. 1661](Concernente%20la%20tassazione%20di%20determinate%20mercedi%20operaie%20agli%20effetti%20dellimposta%20di%20ricchezza%20mobile.%20022U1661.md);
 
-Visto il testo di disposizioni riguardanti le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette, approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visto il testo di disposizioni riguardanti le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette, approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Visto il [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md), convertito nella [legge 5 giugno 1933, n. 683](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20gennaio%201933%20n.%2018%20concernente%20provvedimenti%20per%20le%20dichiarazioni%20del%20redditi%20dl%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0683.md);
 

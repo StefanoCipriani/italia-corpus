@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- visto il [R. decreto 20 settembre 1928, n. 2189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;2189), col quale il comune di SS. Cosmo e Damiano e' stato soppresso ed il rispettivo territorio aggregato a quello di Castelforte; 
+ visto il [R. decreto 20 settembre 1928, n. 2189](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Castelforte%20e%20di%20Santi%20Cosmo%20e%20Damiano%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Castelforte.%20028U2189.md), col quale il comune di SS. Cosmo e Damiano e' stato soppresso ed il rispettivo territorio aggregato a quello di Castelforte; 
  
  Vista la deliberazione del podesta' di Castelforte rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di SS. Cosmo e Damiano; 
  

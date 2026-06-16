@@ -20,7 +20,7 @@ Viste le [leggi 18 ottobre 1942, nn. 1407 e 1408](https://www.normattiva.it/uri-
 
 Visto il [R. decreto-legge 21 ottobre 1938, n. 1923](Costituzione%20presso%20lIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20postelegrafonici%20di%20un%20fondo%20per%20le%20indennita%20di%20licenziamento%20ai%20gerenti%20ed%20ai%20supplenti%20delle%20ricevitorie%20postelegrafiche.%20038U1923.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Visto il Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e successive modificazioni;
+Visto il Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -55,7 +55,7 @@ Per la gestione sussidi di cui all'[art. 5 della legge 18 ottobre 1942, n. 1408]
 
 ## Art. 5.
 
-Una indennita' una volta tanto, pari alla somma dei contributi versati dai ricevitori maggiorata del 50%, e corrisposta ai ricevitori cessati o che cesseranno dalle funzioni dopo dieci anni di servizio e di contribuzioni per sopravvenuta e debitamente accertata inabilita' fisica norma del 1° comma dell'art. 311 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), o, in caso di morte, alle loro vedove, allorche', non avendo il ricevitore raggiunto il 55° anno di eta', non ricorrono gli estremi per l'attribuzione del trattamento di quiescenza o di riversibilita'.
+Una indennita' una volta tanto, pari alla somma dei contributi versati dai ricevitori maggiorata del 50%, e corrisposta ai ricevitori cessati o che cesseranno dalle funzioni dopo dieci anni di servizio e di contribuzioni per sopravvenuta e debitamente accertata inabilita' fisica norma del 1° comma dell'art. 311 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), o, in caso di morte, alle loro vedove, allorche', non avendo il ricevitore raggiunto il 55° anno di eta', non ricorrono gli estremi per l'attribuzione del trattamento di quiescenza o di riversibilita'.
 
 ## Art. 6.
 

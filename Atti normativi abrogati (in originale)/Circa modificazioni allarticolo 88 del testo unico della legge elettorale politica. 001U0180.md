@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Quando in talune delle categorie, sia generale che speciale, di funzionari eleggibili all'ufficio di Deputato al Parlamento, il numero degli eletti sia inferiore a quello prescritto dall'articolo 88 del testo unico della legge elettorale politica, approvato con [R. decreto 28 marzo 1895, n. 83](Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica.%20095U0083.md), i posti vacanti saranno assegnati ai funzionari eleggibili delle altre categorie che fossero in eccedenza, proporzionalmente al numero attribuito dalla legge, sia alla categoria generale che alle speciali. 
+ Quando in talune delle categorie, sia generale che speciale, di funzionari eleggibili all'ufficio di Deputato al Parlamento, il numero degli eletti sia inferiore a quello prescritto dall'articolo 88 del testo unico della legge elettorale politica, approvato con [R. decreto 28 marzo 1895, n. 83](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica.%20095U0083.md), i posti vacanti saranno assegnati ai funzionari eleggibili delle altre categorie che fossero in eccedenza, proporzionalmente al numero attribuito dalla legge, sia alla categoria generale che alle speciali. 
  
  Si procedera' al sorteggio, quando fosse superato il numero complessivo prescritto dal primo comma del predetto articolo. 
  

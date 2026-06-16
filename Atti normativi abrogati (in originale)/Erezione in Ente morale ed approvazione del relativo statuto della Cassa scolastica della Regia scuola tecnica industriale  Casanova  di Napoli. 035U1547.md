@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 30 aprile 1924, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-30;965); 
+ Visto il [R. decreto 30 aprile 1924, n. 965](../Regi%20decreti/Ordinamento%20interno%20delle%20Giunte%20e%20dei%20Regi%20istituti%20di%20istruzione%20media.%20024U0965.md); 
  
  Vista la domanda in data 1° febbraio 1935-XIII, con la quale il commissario governativo per la Regia scuola tecnica industriale « Casanova » di Napoli ha chiesto che la Cassa scolastica di quella Scuola venga eretta in ente morale e ne sia approvato il relativo statuto; 
  

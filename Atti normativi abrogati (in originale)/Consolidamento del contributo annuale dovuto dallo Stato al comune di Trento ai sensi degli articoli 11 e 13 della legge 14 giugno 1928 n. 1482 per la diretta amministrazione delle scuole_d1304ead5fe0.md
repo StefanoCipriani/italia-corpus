@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 16 settembre 1926, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-16;1798), col quale 
+ Visto il [R. decreto 16 settembre 1926, n. 1798](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Trento%20di%20dieci%20Comuni%20limitrofi.%20026U1798.md), col quale 
  
  comune di Meano e' stato aggregato al comune di Trento e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Trento alla diretta amministrazione del comune autonomo di Trento, a decorrere dal 1° gennaio 1929; 
  

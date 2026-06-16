@@ -38,7 +38,7 @@ L'art. 24 del R. decreto-legge 4 ottobre 1935-XIII, n. 1827, e' sostituito dal s
  
  «Art. 21. - Il Consiglio di amministrazione, su proposta del Comitato esecutivo, nomina non piu' di tre vice direttori generali i quali esercitano tutte quelle funzioni che sono loro affidate dal direttore generale, e determina quale di essi sostituisce il direttore generale in caso di assenza o di impedimento. 
  
- Al direttore generale e ai vice direttori generali si applicano le disposizioni sulle incompatibilita' stabilite dall'[art. 96 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_96), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato». 
+ Al direttore generale e ai vice direttori generali si applicano le disposizioni sulle incompatibilita' stabilite dall'[art. 96 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato». 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

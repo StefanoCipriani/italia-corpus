@@ -24,7 +24,7 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro segretario di
 
 Sono pubblicati nelle nuove Provincie annesse al Regno d'Italia in virtu' delle [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-12-19;1776): 
  
- a) il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md), (serie 3ª); 
+ a) il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md), (serie 3ª); 
  
  b) la [legge 10 luglio 1894, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-10;314), sui reati commessi con materie esplodenti; 
  
@@ -42,7 +42,7 @@ Il Codice e le leggi entreranno in vigore nelle nuove Provincie il 1° gennaio
 
 1922.
 
-Sino a tale data continuera' ad aver vigore nelle nuove Provincie il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 27 maggio 1852 B. L. I. n. 117, ma al riferimento che nelle sue disposizioni tale Codice fa all'ordinamento politico del passato regime ed ai suoi organi e' da ritenere sostituito quello all'ordinamento politico del Regno d'Italia ed ai corrispondenti organi del medesimo. 
+Sino a tale data continuera' ad aver vigore nelle nuove Provincie il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 27 maggio 1852 B. L. I. n. 117, ma al riferimento che nelle sue disposizioni tale Codice fa all'ordinamento politico del passato regime ed ai suoi organi e' da ritenere sostituito quello all'ordinamento politico del Regno d'Italia ed ai corrispondenti organi del medesimo. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

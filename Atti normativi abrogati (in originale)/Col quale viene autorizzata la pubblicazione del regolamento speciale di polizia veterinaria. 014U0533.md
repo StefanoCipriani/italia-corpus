@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il regolamento speciale di Polizia veterinaria approvato dal Nostro ministro dell'interno, con suo decreto 6 maggio 1914;
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con Nostro decreto 1° agosto 1907, n. 636;
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con Nostro decreto 1° agosto 1907, n. 636;
 
 Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
@@ -40,7 +40,7 @@ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto n
  Per gli affari dell'interno 
  Presidente del Consiglio dei ministri 
  
- Veduto l'[art. 193 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_193) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
+ Veduto l'[art. 193 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
  
  Sentito il parere del Consiglio superiore di sanita' e quello del Consiglio di Stato; 
  

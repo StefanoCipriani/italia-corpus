@@ -18,9 +18,9 @@ Visto il [R. decreto-legge 18 ottobre 1925, n. 1846](Istituzione%20di%20un%20cor
 
 Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md);
 
-Visto il [R. decreto 15 agosto 1925, n. 1555](Completamento%20dei%20quadri%20degli%20ufficiali%20del%20nuovo%20Corpo%20degli%20agenti%20di%20P.%20S.%20025U1555.md);
+Visto il [R. decreto 15 agosto 1925, n. 1555](../Regi%20decreti/Completamento%20dei%20quadri%20degli%20ufficiali%20del%20nuovo%20Corpo%20degli%20agenti%20di%20P.%20S.%20025U1555.md);
 
-Visto il [R. decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), e successiva modificazione apportata con [R. decreto 16 gennaio 1927, n. 48](Aumento%20dei%20posti%20di%20questore%20ed%20ispettore%20generale%20e%20di%20vice%20questore.%20027U0048.md);
+Visto il [R. decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), e successiva modificazione apportata con [R. decreto 16 gennaio 1927, n. 48](../Regi%20decreti/Aumento%20dei%20posti%20di%20questore%20ed%20ispettore%20generale%20e%20di%20vice%20questore.%20027U0048.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -100,7 +100,7 @@ Agli ufficiali del Corpo degli agenti di P. S. che non raggiungano il limite min
 
 I posti di questore e ispettore generale di 2a classe (grado 6°) sono aumentati di 5; quelli di commissario capo (grado 7°) di 5; quelli di commissario (grado 8°) di 10; quelli di commissario aggiunto (grado 9°) di 20; quelli di vice commissario (grado 10°) di 15; quelli di vice commissario aggiunto (grado 11°) di 10. 
  
- Restano di conseguenza variati i ruoli organici di cui alla tabella A) allegata al [R. decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), variata con [R. decreto 16 gennaio 1927, n. 48](Aumento%20dei%20posti%20di%20questore%20ed%20ispettore%20generale%20e%20di%20vice%20questore.%20027U0048.md), che sono sostituiti da quelli di cui alla tabella A) annessa al presente decreto.
+ Restano di conseguenza variati i ruoli organici di cui alla tabella A) allegata al [R. decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), variata con [R. decreto 16 gennaio 1927, n. 48](../Regi%20decreti/Aumento%20dei%20posti%20di%20questore%20ed%20ispettore%20generale%20e%20di%20vice%20questore.%20027U0048.md), che sono sostituiti da quelli di cui alla tabella A) annessa al presente decreto.
 
 ## Art. 11.
 

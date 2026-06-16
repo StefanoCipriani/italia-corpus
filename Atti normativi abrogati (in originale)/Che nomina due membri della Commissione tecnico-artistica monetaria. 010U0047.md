@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27), che istituisce presso il Ministero del tesoro la Commissione permanente tecnico-artistica monetaria per l'esame dei tipi delle nuove monete, e per lo studio delle questioni attinenti alla monetazione;
+Visto il [R. decreto 29 gennaio 1905, n. 27](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md), che istituisce presso il Ministero del tesoro la Commissione permanente tecnico-artistica monetaria per l'esame dei tipi delle nuove monete, e per lo studio delle questioni attinenti alla monetazione;
 
 Sulla proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 

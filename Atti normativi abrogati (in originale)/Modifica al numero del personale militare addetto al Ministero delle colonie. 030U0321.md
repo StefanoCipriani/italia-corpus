@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il quarto alinea del [1° comma dell'art. 1 del R. decreto 10 marzo 1927, n. 1149](Norme%20per%20lassegnazione%20di%20personali%20di%20altre%20Amministrazioni%20presso%20il%20Ministero%20delle%20colonie.%20027U1149.md), e' modificato come segue: 
+Il quarto alinea del [1° comma dell'art. 1 del R. decreto 10 marzo 1927, n. 1149](../Regi%20decreti/Norme%20per%20lassegnazione%20di%20personali%20di%20altre%20Amministrazioni%20presso%20il%20Ministero%20delle%20colonie.%20027U1149.md), e' modificato come segue: 
  
  « Un maggiore o capitano del Regio esercito di arma combattente e tre ufficiali inferiori del Regio esercito di arma combattente, di cui uno dell'arma di artiglieria ».
 

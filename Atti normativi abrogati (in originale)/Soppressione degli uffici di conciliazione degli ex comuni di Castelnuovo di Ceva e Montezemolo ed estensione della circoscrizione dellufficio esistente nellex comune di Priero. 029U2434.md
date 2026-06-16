@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 31 gennaio 1929, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-31;227), col quale i comuni di Castelnuovo di Ceva, Montezemolo e Priero venivano riuniti in un solo Comune denominato Priero Montezemolo, con capoluogo Priero; 
+ Visto il [R. decreto 31 gennaio 1929, n. 227](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Castelnuovo%20di%20Ceva%20Montezemolo%20e%20Priero%20in%20un%20unico%20Comune%20denominato%20Priero%20Montezemolo%20con%20capoluogo%20a%20Priero.%20029U0227.md), col quale i comuni di Castelnuovo di Ceva, Montezemolo e Priero venivano riuniti in un solo Comune denominato Priero Montezemolo, con capoluogo Priero; 
  
  Vista la deliberazione del podesta' di detto Comune con la quale si chiede che per tutto il territorio del comune di Priero Montezemolo funzioni un solo ufficio di conciliazione; 
  

@@ -274,13 +274,13 @@ Ai fini del rispetto dell'obbligo di copertura minima del costo complessivo di g
 
 4.
 
-I comuni possono determinare le tariffe del servizio di trasporto funebre di cui all'[articolo 16 del decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../DPR/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), in misura non superiore al 100 per cento del costo complessivo di gestione, in deroga all'[articolo 17, comma 1, della legge 21 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-21;41#art_17-com1).
+I comuni possono determinare le tariffe del servizio di trasporto funebre di cui all'[articolo 16 del decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), in misura non superiore al 100 per cento del costo complessivo di gestione, in deroga all'[articolo 17, comma 1, della legge 21 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-21;41#art_17-com1).
 
 ## Art. 16. — Disposizioni fiscali e tariffarie
 
 1.
 
-Il termine del 1 agosto previsto dall'articolo 273 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' fissato al 31 ottobre.
+Il termine del 1 agosto previsto dall'articolo 273 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' fissato al 31 ottobre.
 
 2.
 
@@ -292,7 +292,7 @@ Anche per far fronte ad eventuali maggiori spese di loro competenza in materia a
 
 4.
 
-Con effetto dall'anno 1992 sono abrogati l'[articolo 6 della legge 14 agosto 1991, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281#art_6), e l'articolo 136 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
+Con effetto dall'anno 1992 sono abrogati l'[articolo 6 della legge 14 agosto 1991, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281#art_6), e l'articolo 136 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
 
 5.
 
@@ -352,7 +352,7 @@ Non sono soggette ad esecuzione forzata le somme dei comuni, delle province e de
 
 1.
 
-Fino alla data di entrata in vigore delle leggi regionali di disciplina dei servizi assistenziali e fino al 31 dicembre 1992, per le funzioni di assistenza di cui all'[articolo 80 del regio decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), di assistenza di cui al [regio decreto-legge 8 maggio 1927, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-08;798), convertito dalla [legge 6 dicembre 1928, n. 2838](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20maggio%201927%20n.%20798%20concernente%20lordinamento%20del%20servizio%20di%20assistenza%20dei%20fanciulli%20illegittimi%20abbandonati%20o%20esposti%20allabbandono.%20028U2838.md), e successive modificazioni, di assistenza ai minori in stato di bisogno, di cui alla [legge 23 dicembre 1975, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-23;698), e successive modificazioni, nonche' per le altre eventuali funzioni assistenziali precedentemente esercitate, le amministrazioni provinciali promuovono e coordinano i relativi servizi a norma dell'[articolo 14 della legge n. 142 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;142#art_14) e sono tenute a garantirne l'espletamento in base a convenzioni con i comuni.
+Fino alla data di entrata in vigore delle leggi regionali di disciplina dei servizi assistenziali e fino al 31 dicembre 1992, per le funzioni di assistenza di cui all'[articolo 80 del regio decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), di assistenza di cui al [regio decreto-legge 8 maggio 1927, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-05-08;798), convertito dalla [legge 6 dicembre 1928, n. 2838](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20maggio%201927%20n.%20798%20concernente%20lordinamento%20del%20servizio%20di%20assistenza%20dei%20fanciulli%20illegittimi%20abbandonati%20o%20esposti%20allabbandono.%20028U2838.md), e successive modificazioni, di assistenza ai minori in stato di bisogno, di cui alla [legge 23 dicembre 1975, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-23;698), e successive modificazioni, nonche' per le altre eventuali funzioni assistenziali precedentemente esercitate, le amministrazioni provinciali promuovono e coordinano i relativi servizi a norma dell'[articolo 14 della legge n. 142 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;142#art_14) e sono tenute a garantirne l'espletamento in base a convenzioni con i comuni.
 
 2.
 
@@ -399,7 +399,7 @@ L'[articolo 3, primo comma, lettera l), del regio decreto-legge 8 maggio 1924, n
 
 10.
 
-Sono tenute al pagamento del diritto annuale, di cui all'[articolo 34 del decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786#art_34), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), le ditte iscritte o annotate nei registri delle ditte, di cui all'articolo 47 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
+Sono tenute al pagamento del diritto annuale, di cui all'[articolo 34 del decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786#art_34), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), le ditte iscritte o annotate nei registri delle ditte, di cui all'articolo 47 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
 
 11.
 
@@ -529,7 +529,7 @@ Entro il 31 dicembre 1992, la Direzione generale degli istituti di previdenza ad
 
 1.
 
-Le limitazioni dell'articolo 380 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e i divieti previsti dall'[articolo 1 della legge 23 ottobre 1960, n. 1369](Divieto%20di%20intermediazione%20ed%20interposizione%20nelle%20prestazioni%20di%20lavoro%20e%20nuova%20disciplina%20dellimpiego%20di%20mano%20dopera%20negli%20appalti%20di%20opere%20e%20di%20servizi.md), non trovano applicazione per le province, i comuni, le comunita' montane e i loro consorzi.
+Le limitazioni dell'articolo 380 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e i divieti previsti dall'[articolo 1 della legge 23 ottobre 1960, n. 1369](Divieto%20di%20intermediazione%20ed%20interposizione%20nelle%20prestazioni%20di%20lavoro%20e%20nuova%20disciplina%20dellimpiego%20di%20mano%20dopera%20negli%20appalti%20di%20opere%20e%20di%20servizi.md), non trovano applicazione per le province, i comuni, le comunita' montane e i loro consorzi.
 
 2.
 

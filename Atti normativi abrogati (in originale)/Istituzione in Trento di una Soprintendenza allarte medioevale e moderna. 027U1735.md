@@ -36,7 +36,7 @@ La circoscrizione della Soprintendenza all'arte medioevale e moderna di Verona e
 
 ## Art. 2.
 
-Il ruolo del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita', di cui alla Tabella A, annessa al [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), e' aumentato di un posto di soprintendente di 2ª classe (Gruppo A, grado 6°), di un posto di ispettore aggiunto (Gruppo A, grado 10°), di un posto di vice segretario (Gruppo B, grado 11°), di un posto di disegnatore (Gruppo B, grado 11°) e di un posto di applicato (Gruppo C, grado 12°). 
+Il ruolo del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita', di cui alla Tabella A, annessa al [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' aumentato di un posto di soprintendente di 2ª classe (Gruppo A, grado 6°), di un posto di ispettore aggiunto (Gruppo A, grado 10°), di un posto di vice segretario (Gruppo B, grado 11°), di un posto di disegnatore (Gruppo B, grado 11°) e di un posto di applicato (Gruppo C, grado 12°). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

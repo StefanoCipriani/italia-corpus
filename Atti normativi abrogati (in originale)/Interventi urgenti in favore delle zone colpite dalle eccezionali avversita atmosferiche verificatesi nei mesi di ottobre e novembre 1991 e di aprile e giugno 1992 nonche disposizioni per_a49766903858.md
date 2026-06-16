@@ -146,7 +146,7 @@ L'ANAS, nell'ambito delle proprie disponibilita' di bilancio, esegue, con priori
 
 7.
 
-Le opere di cui al comma 6 sono dichiarate di pubblica utilita', urgenti ed indifferibili ed in relazione alle medesime i capi compartimento sono autorizzati a derogare ai limiti stabiliti dall'articolo 70 del regolamento approvato con [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), e successive modificazioni.
+Le opere di cui al comma 6 sono dichiarate di pubblica utilita', urgenti ed indifferibili ed in relazione alle medesime i capi compartimento sono autorizzati a derogare ai limiti stabiliti dall'articolo 70 del regolamento approvato con [regio decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), e successive modificazioni.
 
 ## Art. 7.
 

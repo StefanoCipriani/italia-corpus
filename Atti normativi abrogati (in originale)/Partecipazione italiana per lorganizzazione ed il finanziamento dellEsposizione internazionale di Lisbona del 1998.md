@@ -23,7 +23,7 @@ Promulga la seguente legge:
 E' autorizzata la partecipazione dell'Italia all'Esposizione internazionale che si svolgera' a Lisbona nel 1998 (Expo' 1998).
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi e sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi e sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Istituzione di un commissariato generale
 
@@ -88,7 +88,7 @@ La predetta indennita', che non ha natura retributiva, e' stabilita con decreto 
 Per i periodi di servizio prestati fuori sede e' corrisposto, da parte del commissariato generale, il rimborso delle spese di viaggio, in conformita alle disposizioni vigenti.
 
 Nota agli [articoli 5](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md) e [6:
- - Il D.P.R. 30 aprile 1958, n. 571](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), reca: "Norme di esecuzione dell'art. 58 delle disposizioni sullo statuto degli impiegati civili dello Stato, approvato con [D.P.R. 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
+ - Il D.P.R. 30 aprile 1958, n. 571](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), reca: "Norme di esecuzione dell'art. 58 delle disposizioni sullo statuto degli impiegati civili dello Stato, approvato con [D.P.R. 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ## Art. 6. — Utilizzazione di personale
  dell'Amministrazione dello Stato
@@ -110,7 +110,7 @@ Il personale di cui al comma 1 ha diritto ad una indennita' a carico del commiss
 Per i periodi di servizio prestati fuori sede e' corrisposto, da parte del commissariato generale, il rimborso delle spese di viaggio, in conformita' alle disposizioni vigenti.
 
 Nota agli [articoli 5](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md) e [6:
- - Il D.P.R. 30 aprile 1958, n. 571](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), reca: "Norme di esecuzione dell'art. 58 delle disposizioni sullo statuto degli impiegati civili dello Stato, approvato con [D.P.R. 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
+ - Il D.P.R. 30 aprile 1958, n. 571](../DPR/Norme%20di%20esecuzione%20dellart.%2058%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), reca: "Norme di esecuzione dell'art. 58 delle disposizioni sullo statuto degli impiegati civili dello Stato, approvato con [D.P.R. 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)".
 
 ## Art. 7. — Altro personale
 

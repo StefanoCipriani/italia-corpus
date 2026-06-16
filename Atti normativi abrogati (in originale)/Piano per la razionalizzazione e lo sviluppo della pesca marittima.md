@@ -320,7 +320,7 @@ Ai soggetti indicati nel precedente articolo 12 e' concesso un premio per la dem
 b) lire 200.000 per ogni tonnellata di stazza lorda qualora vi
 sia la contemporanea costruzione di una nuova nave da pesca.
  I contributi sono concessi con decreto del Ministro della marina mercantile.
- Le zone di ripopolamento da realizzare mediante l'affondamento volontario di navi da pesca sono stabilite con la procedura prevista dall'articolo 98 del regolamento approvato con [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md).
+ Le zone di ripopolamento da realizzare mediante l'affondamento volontario di navi da pesca sono stabilite con la procedura prevista dall'articolo 98 del regolamento approvato con [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md).
 
 ## Art. 22. — Contributo per la cessione gratuita di navi da pesca ad istituti scientifici
 

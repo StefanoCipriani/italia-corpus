@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Il termine stabilito dall'[art. 21 del decreto-legge 1° luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-07-01;2290#art_21), entro il quale i Magazzini generali esistenti debbono avere ottenuto il decreto di autorizzazione per poter continuare l'esercizio, e' prorogato al 30 giugno 1927. Conseguentemente viene prorogato a tale data il termine fissato dall'art. 51, quarto capoverso, del regolamento approvato con [R. decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126). 
+Il termine stabilito dall'[art. 21 del decreto-legge 1° luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-07-01;2290#art_21), entro il quale i Magazzini generali esistenti debbono avere ottenuto il decreto di autorizzazione per poter continuare l'esercizio, e' prorogato al 30 giugno 1927. Conseguentemente viene prorogato a tale data il termine fissato dall'art. 51, quarto capoverso, del regolamento approvato con [R. decreto 16 gennaio 1927, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali%20e%20lapplicazione%20delle%20discipline%20doganali%20ai%20predetti%20Magazzini%20generali.%20027U0126.md). 
  
  Resta fermo il termine assegnato dall'art. 50 di detto regolamento per la presentazione delle domande da parte degli esercenti.
 

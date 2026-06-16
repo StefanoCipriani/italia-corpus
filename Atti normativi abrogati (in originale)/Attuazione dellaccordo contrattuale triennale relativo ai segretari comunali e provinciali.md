@@ -47,7 +47,7 @@ Ai segretari comunali e' consentita l'effettuazione di prestazioni lavorative ec
 
 ## Art. 4. — Copertura finanziaria ed entrata in vigore
 
-Alla spesa derivante dall'applicazione del presente decreto si provvede ai sensi dell'art. 173 del testo unico approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed integrazioni.
+Alla spesa derivante dall'applicazione del presente decreto si provvede ai sensi dell'art. 173 del testo unico approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed integrazioni.
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 121 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_121), relativo alle autorizzazioni di spesa per l'applicazione della legge sulla bonifica integrale;
+Visto l'[art. 121 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), relativo alle autorizzazioni di spesa per l'applicazione della legge sulla bonifica integrale;
 
 Visto il [R. decreto-legge 22 ottobre 1932, n. 1378](Determinazione%20del%20tasso%20dinteresse%20da%20adottare%20per%20il%20calcolo%20delle%20annualita%20per%20opere%20a%20pagamento%20differito.%20032U1378.md), convertito nella [legge 22 dicembre 1932, n. 1823](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20ottobre%201932%20n.%201378%20che%20reca%20norme%20per%20la%20determinazione%20del%20tasso%20di%20interesse%20da%20adottare%20per%20il%20calcolo%20delle%20annualita%20per%20opere%20a%20pagame_1c5aa06f0ed6.md);
 
@@ -36,7 +36,7 @@ Su in posta del Nostro Ministro Segretario di Stato per l'agricoltura e le fores
 
 ## Art. 1.
 
-Le autorizzazioni di spesa cui si riferiscono l'art. 121 (numeri 1 e 2) del [R. decreto 13 febbraio 1933, n. 215, e gli articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_1) e [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_2) del presente decreto debbono intendersi destinate anche all'esecuzione di opere di sistemazione idraulica forestale di bacini montani gia' previste dall'[art. 1 del R. decreto 24 luglio 1930, n. 1146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-07-24;1146#art_1), recante provvedimenti per la bonifica integrale. 
+Le autorizzazioni di spesa cui si riferiscono l'art. 121 (numeri 1 e 2) del [R. decreto 13 febbraio 1933, n. 215, e gli articoli 1](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) e [2](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) del presente decreto debbono intendersi destinate anche all'esecuzione di opere di sistemazione idraulica forestale di bacini montani gia' previste dall'[art. 1 del R. decreto 24 luglio 1930, n. 1146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-07-24;1146#art_1), recante provvedimenti per la bonifica integrale. 
  
  In esecuzione del disposto del precedente comma le denominazioni dei capitoli n. 105-bis e 115-bis del bilancio del Ministero dell'agricoltura e foreste dell'esercizio 1933-34 e quelle dei capitoli 113 e 118 dello stato di previsione dello stesso Ministero per l'esercizio 1934-35 sono modificate aggiungendo dopo le parole «opere di bonifica di competenza statale» il seguente inciso: «e di sistemazione idraulica forestale di bacini montani di cui all'[art. 1 del R. decreto 24 luglio 1930, n. 1146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-07-24;1146#art_1)».
 
@@ -258,7 +258,7 @@ Il Ministro per le finanze e' autorizzato a provvedere con propri decreti, di co
 
 ## Art. 9.
 
-Per pagamento degli assegni al personale straordinario comunque denominato in servizio presso gli Ispettorati agrari, gli Uffici Accentrati alle opere pubbliche e gli Uffici del genio civile sara' provveduto mediante ordine di accreditamento a favore dei rispettivi funzionari delegati, ai sensi dell'[art. 56, n. 10, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56-num10), sull'amministrazione e contabilita' generale dello Stato.
+Per pagamento degli assegni al personale straordinario comunque denominato in servizio presso gli Ispettorati agrari, gli Uffici Accentrati alle opere pubbliche e gli Uffici del genio civile sara' provveduto mediante ordine di accreditamento a favore dei rispettivi funzionari delegati, ai sensi dell'[art. 56, n. 10, del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione e contabilita' generale dello Stato.
 
 ## Art. 10.
 

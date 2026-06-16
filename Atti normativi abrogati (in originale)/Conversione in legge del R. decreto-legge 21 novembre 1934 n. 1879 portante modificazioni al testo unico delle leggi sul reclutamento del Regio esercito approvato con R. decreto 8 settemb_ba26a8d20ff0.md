@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 novembre 1934, n. 1879](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20settembre%201932%20n.%201332.%20034U1879.md), portante modificazioni testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md). 
+ E' convertito in legge il [R. decreto-legge 21 novembre 1934, n. 1879](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20settembre%201932%20n.%201332.%20034U1879.md), portante modificazioni testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 8 settembre 1932, n. 1332](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20032U1332.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

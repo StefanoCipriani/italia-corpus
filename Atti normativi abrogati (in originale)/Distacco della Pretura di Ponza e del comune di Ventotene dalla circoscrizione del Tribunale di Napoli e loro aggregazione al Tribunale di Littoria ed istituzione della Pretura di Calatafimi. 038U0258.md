@@ -42,7 +42,7 @@ A decorrere dal 1° luglio 1935-XVI e' istituita la sede della pretura nel comun
 
 ## Art. 3.
 
-Alle tabelle A e B annesse al [R. decreto 24 marzo 1923, n. 601](Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), relative al numero ed alle sedi delle Corti di appello, dei Tribunali e delle Preture del Regno, ed alla circoscrizione territoriale delle Preture, e successive varianti, sono apportate, in conseguenza delle variazioni di cui agli articoli 1 e 2 del presente decreto, le modificazioni contenute nelle corrispondenti tabelle A e B allegate al presente decreto, viste, d'ordine Nostro, dal Ministro Segretario di Stato per la grazia e giustizia.
+Alle tabelle A e B annesse al [R. decreto 24 marzo 1923, n. 601](../Regi%20decreti/Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), relative al numero ed alle sedi delle Corti di appello, dei Tribunali e delle Preture del Regno, ed alla circoscrizione territoriale delle Preture, e successive varianti, sono apportate, in conseguenza delle variazioni di cui agli articoli 1 e 2 del presente decreto, le modificazioni contenute nelle corrispondenti tabelle A e B allegate al presente decreto, viste, d'ordine Nostro, dal Ministro Segretario di Stato per la grazia e giustizia.
 
 ## Art. 4.
 

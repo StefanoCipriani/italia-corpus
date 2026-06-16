@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a noi delegata; 
  
- Visto l'art. 117-j delle aggiunte e varianti al regolamento speciale per il personale dei telefoni dello Stato, approvato col [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md); 
+ Visto l'art. 117-j delle aggiunte e varianti al regolamento speciale per il personale dei telefoni dello Stato, approvato col [R. decreto 6 aprile 1913, n. 462](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md); 
  
  Visto il R. decreto 30 dicembre 1906 col quale venne elevata la misura dell'indennita' di servizio straordinario al personale delle poste e dei telegrafi; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Con effetto dal 1° luglio 1917 l'art. 117-j delle aggiunte e varianti al regolamento speciale per il personale dei telefoni dello Stato, approvato col [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md), e' modificato nel modo seguente: 
+ Con effetto dal 1° luglio 1917 l'art. 117-j delle aggiunte e varianti al regolamento speciale per il personale dei telefoni dello Stato, approvato col [R. decreto 6 aprile 1913, n. 462](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md), e' modificato nel modo seguente: 
  
  1° e' soppressa la lettera b); 
  

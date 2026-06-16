@@ -62,7 +62,7 @@ In relazione a quanto e' previsto dall'[art. 10 della legge 20 luglio 1890, n. 6
  
  Tale autorizzazione sara' data per decreto Reale, previo parere del Consiglio di Stato, sentito il Consiglio dei ministri. 
  
- La deliberazione del Comune, contenente le proposte di sostituzione e opere, dovra' essere presa in osservanza dell'art. 162, n. 1 e 2, della legge comunale e provinciale (testo unico), approvato con [R. decreto 4 maggio 1898, n. 164): ed il decreto](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md) Reale di autorizzazione dovra' essere comunicato al Parlamento, in allegato alla relazione annuale di cui all'[art. 5 della legge 14 maggio 1881, n. 209](Concernente%20il%20concorso%20dello%20Stato%20nelle%20spese%20edilizie%20della%20citta%20di%20Roma.%20081U0209.md), che dovra' comprendere anche le opere edilizie contemplate dalla presente legge.
+ La deliberazione del Comune, contenente le proposte di sostituzione e opere, dovra' essere presa in osservanza dell'art. 162, n. 1 e 2, della legge comunale e provinciale (testo unico), approvato con [R. decreto 4 maggio 1898, n. 164): ed il decreto](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md) Reale di autorizzazione dovra' essere comunicato al Parlamento, in allegato alla relazione annuale di cui all'[art. 5 della legge 14 maggio 1881, n. 209](Concernente%20il%20concorso%20dello%20Stato%20nelle%20spese%20edilizie%20della%20citta%20di%20Roma.%20081U0209.md), che dovra' comprendere anche le opere edilizie contemplate dalla presente legge.
 
 ### Art. 4.
 
@@ -257,7 +257,7 @@ Gli impiegati dello Stato, che erano gia' sottoposti alla ritenuta per la pensio
  
  La pensione o l'indennita' a carico dell'erario dello Stato sara' calcolata, con le norme del testo unico predetto, sullo stipendio percepito durante il servizio governativo e in base alla durata del servizio stesso. Per gli anni di servizio prestato presso il R. istituto nazionale sara' provveduto al trattamento di riposo in conformita' di speciale regolamento. 
  
- Le disposizioni di questo articolo sono estese ai funzionari governativi che passino a prestare servizio nel R. istituto di studi commerciali di Roma, istituito col [R. decreto 5 novembre 1906, n. 591](Approvazione%20dellannesso%20statuto%20organico%20del%20R.%20istituto%20di%20studi%20commerciali%20in%20Roma.%20006U0591.md).
+ Le disposizioni di questo articolo sono estese ai funzionari governativi che passino a prestare servizio nel R. istituto di studi commerciali di Roma, istituito col [R. decreto 5 novembre 1906, n. 591](../Regi%20decreti/Approvazione%20dellannesso%20statuto%20organico%20del%20R.%20istituto%20di%20studi%20commerciali%20in%20Roma.%20006U0591.md).
 
 ### Art. 31.
 
@@ -311,7 +311,7 @@ Sono prorogate a tutto l'anno 1915, e con effetto dal 1° gennaio 1907, le dispo
 
 ### Art. 41.
 
-E' data facolta' al comune di Roma di imporre la tassa sul bestiame, di cui all'art. 164, n. 3, del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md), ragguagliandola cosi' al numero dei capi di bestiame direttamente accertati, come a quello che e' presumibile possa trovarsi nei fondi in base all'estimo pascolivo di questi, salvo le esenzioni disposte dalla [legge 13 dicembre 1903, n. 474](contenente%20modificazioni%20alla%20legge%20sul%20bonificamento%20dellAgro%20romano.%20003U0474.md), sul bonificamento dell'Agro romano. 
+E' data facolta' al comune di Roma di imporre la tassa sul bestiame, di cui all'art. 164, n. 3, del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 maggio 1898, n. 164](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md), ragguagliandola cosi' al numero dei capi di bestiame direttamente accertati, come a quello che e' presumibile possa trovarsi nei fondi in base all'estimo pascolivo di questi, salvo le esenzioni disposte dalla [legge 13 dicembre 1903, n. 474](contenente%20modificazioni%20alla%20legge%20sul%20bonificamento%20dellAgro%20romano.%20003U0474.md), sul bonificamento dell'Agro romano. 
  
  Il Consiglio comunale di Roma potra' proporre al Governo un regolamento speciale per l'applicazione della tassa sul bestiame.
 Tale regolamento sara' approvato per decreto Reale, promosso dal Ministero delle finanze udito il Consiglio di Stato.

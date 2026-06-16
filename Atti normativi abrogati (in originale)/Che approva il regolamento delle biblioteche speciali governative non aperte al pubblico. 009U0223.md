@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'art. 3 del regolamento generale per le biblioteche pubbliche governative, approvato con [R. decreto 24 ottobre 1907, n. 733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-10-24;733); 
+ Veduto l'art. 3 del regolamento generale per le biblioteche pubbliche governative, approvato con [R. decreto 24 ottobre 1907, n. 733](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20biblioteche%20pubbliche%20governative%20007U0733.md); 
  
  Sentito il parere del Consiglio di Stato; 
  

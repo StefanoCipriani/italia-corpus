@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, numero 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, numero 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la M. V. S. N.;
+Visto il [R. decreto 14 gennaio 1923, n. 31](../Regi%20decreti/Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la M. V. S. N.;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e le successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e le successive estensioni e modificazioni;
 
 Visti gli [articoli 9](Funzionamento%20della%20Milizia%20ferroviaria%20per%20la%20sicurezza%20nazionale.%20025U1174.md), [10](Funzionamento%20della%20Milizia%20ferroviaria%20per%20la%20sicurezza%20nazionale.%20025U1174.md) e [11 del R. decreto-legge 14 giugno 1925, n. 1174](Funzionamento%20della%20Milizia%20ferroviaria%20per%20la%20sicurezza%20nazionale.%20025U1174.md);
 
-Visto il [R. decreto-legge 6 novembre 1926, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1848), col quale si approva il [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+Visto il [R. decreto-legge 6 novembre 1926, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1848), col quale si approva il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Visto il [R. decreto-legge 16 maggio 1926, n. 1066](Istituzione%20della%20Milizia%20nazionale%20forestale.%20026U1066.md), sull'istituzione della Milizia nazionale forestale, convertito in legge con la [legge 9 giugno 1927, n. 1156](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20maggio%201926%20n.%201066%20relativo%20alla%20istituzione%20della%20Milizia%20nazionale%20forestale.%20027U1156.md);
 

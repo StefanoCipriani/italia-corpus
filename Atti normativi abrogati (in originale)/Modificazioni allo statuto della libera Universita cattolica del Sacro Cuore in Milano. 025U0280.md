@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Veduti gli [articoli 1](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [99 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md);
 
-Veduto il regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674);
+Veduto il regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md);
 
-Veduto il [R. decreto 2 ottobre 1924, n. 1661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-02;1661), che approva lo statuto della libera «Universita' cattolica del Sacro Cuore» di Milano;
+Veduto il [R. decreto 2 ottobre 1924, n. 1661](../Regi%20decreti/Istituzione%20dellUniversita%20cattolica%20del%20Sacro%20Cuore%20in%20Milano%20ed%20approvazione%20del%20relativo%20statuto.%20024U1661.md), che approva lo statuto della libera «Universita' cattolica del Sacro Cuore» di Milano;
 
 Considerato che occorre apportare alcune rettifiche allo statuto anzidetto;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Articolo unico.
 
-Gli articoli sottoindicati dello statuto della libera «Universita' cattolica del Sacro Cuore», approvato con [R. decreto 2 ottobre 1924, n.1661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-02;1661), sono rettificati come segue: 
+Gli articoli sottoindicati dello statuto della libera «Universita' cattolica del Sacro Cuore», approvato con [R. decreto 2 ottobre 1924, n.1661](../Regi%20decreti/Istituzione%20dellUniversita%20cattolica%20del%20Sacro%20Cuore%20in%20Milano%20ed%20approvazione%20del%20relativo%20statuto.%20024U1661.md), sono rettificati come segue: 
  
  Nella tabella annessa all'art. 11, al posto di: «Diritto coloniale - Un corso in due semestri di istituzioni» e' sostituito: «Diritto coloniale - Corsi semestrali». 
  

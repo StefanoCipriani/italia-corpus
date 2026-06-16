@@ -14,13 +14,13 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge del 22 novembre 1888, n. 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (serie 3ª), con la quale il Governo del Re fu autorizzato a pubblicare il nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno d'Italia, ed a fare per R. decreto le disposizioni transitorie e le altre necessarie per l'attuazione del Codice stesso;
+Vista la [legge del 22 novembre 1888, n. 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (serie 3ª), con la quale il Governo del Re fu autorizzato a pubblicare il nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno d'Italia, ed a fare per R. decreto le disposizioni transitorie e le altre necessarie per l'attuazione del Codice stesso;
 
-Visto il [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md) (serie 3ª), col quale fu approvato e fu data esecuzione al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) predetto;
+Visto il [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md) (serie 3ª), col quale fu approvato e fu data esecuzione al [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) predetto;
 
 Vista la legge sulla riforma penitenziaria del 14 luglio 1889, n. 6165 (serie 3ª);
 
-Visto il [R. decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md) (serie 3ª), col quale si approvano le norme relative all'attuazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Visto il [R. decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md) (serie 3ª), col quale si approvano le norme relative all'attuazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri, di concerto col Nostro guardasigilli, ministro segretario di Stato per gli affari della grazia e giustizia e dei culti;
 

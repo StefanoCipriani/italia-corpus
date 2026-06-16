@@ -140,7 +140,7 @@ Ove i reati di cui nella presente legge per qualunque motivo cadessero sotto le 
 
 ### Art. 23.
 
-La pena pecuniaria stabilita dalla presente legge, sara', nel caso di non effettuato pagamento, commutata nel carcere e negli arresti, a seconda del suo ammontare, osservati il ragguaglio ed il limite rispettivamente stabiliti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La pena pecuniaria stabilita dalla presente legge, sara', nel caso di non effettuato pagamento, commutata nel carcere e negli arresti, a seconda del suo ammontare, osservati il ragguaglio ed il limite rispettivamente stabiliti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 24. — null
 

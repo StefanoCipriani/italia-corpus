@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-A decorrere dal 1° luglio 1926 gli impiegati che, all'attuazione del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), avevano grado di aiutante, disegnatore o computista del catasto e dei servizi tecnici di finanza, e gia' provvisti di anzianita' di ruolo superiore a quella di coloro che per effetto dell'[art. 8 del R. decreto 7 giugno 1920, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;739#art_8), furono promossi al grado di aiutante principale, disegnatore principale o computista principale, sono collocati in quest'ultimo grado, se riconosciuti meritevoli dal Consiglio di amministrazione.
+A decorrere dal 1° luglio 1926 gli impiegati che, all'attuazione del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), avevano grado di aiutante, disegnatore o computista del catasto e dei servizi tecnici di finanza, e gia' provvisti di anzianita' di ruolo superiore a quella di coloro che per effetto dell'[art. 8 del R. decreto 7 giugno 1920, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;739#art_8), furono promossi al grado di aiutante principale, disegnatore principale o computista principale, sono collocati in quest'ultimo grado, se riconosciuti meritevoli dal Consiglio di amministrazione.
 
 ## Art. 2.
 

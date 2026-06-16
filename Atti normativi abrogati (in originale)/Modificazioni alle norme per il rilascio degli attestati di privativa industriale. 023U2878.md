@@ -30,7 +30,7 @@ L'atto di procura, di cui alla legge 30 ottobre 1859, numero 3731, art. 21, n. 5
  
  La lettera d'incarico sara' soggetta ad una tassa fissa di L. 30, che sara' pagata nei modi indicati dall'[art. 12 del R. decreto 29 luglio 1923, n. 1970](Servizio%20delle%20privative%20industriali.%20023U1970.md). 
  
- Detta lettera d'incarico e' equiparata alla scrittura privata di cui all'[art. 280 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Detta lettera d'incarico e' equiparata alla scrittura privata di cui all'[art. 280 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

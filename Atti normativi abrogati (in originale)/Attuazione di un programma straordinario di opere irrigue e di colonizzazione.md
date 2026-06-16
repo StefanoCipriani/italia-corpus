@@ -16,13 +16,13 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Per l'esecuzione di un programma straordinario di opere pubbliche di irrigazione nei comprensori di bonifica, ai sensi del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e' autorizzata la spesa di lire 25 miliardi.
+Per l'esecuzione di un programma straordinario di opere pubbliche di irrigazione nei comprensori di bonifica, ai sensi del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' autorizzata la spesa di lire 25 miliardi.
 
 ## Art. 2.
 
 Per lo sviluppo delle opere di trasformazione agraria e fondiaria e' autorizzata la spesa di 10 miliardi, da destinare:
- a) alla concessione dei sussidi, previsti dall'[articolo 38 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_38), sul costo dei lavori di competenza privata da eseguire in connessione col programma straordinario finanziato ai termini del precedente art. 1;
- b) al finanziamento delle spese per l'acquisto e la trasformazione fondiaria dei terreni che, ai termini dell'art. 14 del regolamento legislativo dell'Opera nazionale combattenti, approvato con [regio decreto-legge 16 settembre 1926, n. 1606](Approvazione%20del%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20026U1606.md), convertito in [legge 16 giugno 1927, n. 1100](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20settembre%201926%20n.%201606%20che%20approva%20il%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20027U1100.md), e per il combinato disposto dell'[art. 42 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_42), e dell'[art. 2 del decreto legislativo 31 dicembre 1947, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-12-31;1744#art_2), possono essere attribuiti in proprieta' all'Opera nazionale per i combattenti ed agli Enti di colonizzazione, per i territori di loro competenza.
+ a) alla concessione dei sussidi, previsti dall'[articolo 38 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), sul costo dei lavori di competenza privata da eseguire in connessione col programma straordinario finanziato ai termini del precedente art. 1;
+ b) al finanziamento delle spese per l'acquisto e la trasformazione fondiaria dei terreni che, ai termini dell'art. 14 del regolamento legislativo dell'Opera nazionale combattenti, approvato con [regio decreto-legge 16 settembre 1926, n. 1606](Approvazione%20del%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20026U1606.md), convertito in [legge 16 giugno 1927, n. 1100](Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20settembre%201926%20n.%201606%20che%20approva%20il%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20027U1100.md), e per il combinato disposto dell'[art. 42 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e dell'[art. 2 del decreto legislativo 31 dicembre 1947, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-12-31;1744#art_2), possono essere attribuiti in proprieta' all'Opera nazionale per i combattenti ed agli Enti di colonizzazione, per i territori di loro competenza.
 
 ## Art. 3.
 
@@ -41,7 +41,7 @@ I terreni acquistati e trasformati con i finanziamenti del precedente articolo s
 
 ## Art. 6.
 
-Oltre che a favore dei Consorzi, l'esproprio degli immobili dei proprietari inadempienti, previsto dal [primo comma dell'art. 42 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_42-com1), puo' essere disposto anche a favore degli Enti di colonizzazione.
+Oltre che a favore dei Consorzi, l'esproprio degli immobili dei proprietari inadempienti, previsto dal [primo comma dell'art. 42 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), puo' essere disposto anche a favore degli Enti di colonizzazione.
 
 ## Art. 7.
 

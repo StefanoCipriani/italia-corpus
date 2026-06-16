@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli operai e le operaie dell'officina governativa delle carte-valori, compresi gli assistenti-controllori, scrivani e contatori della carta, di cui alla tabella C, allegata al [R. decreto 22 ottobre 1903, n. 438](Che%20modifica%20il%20ruolo%20organico%20dellOfficina%20governativa%20carte-valori.%20003U0438.md), che si troveranno in servizio al momento della pubblicazione della presente legge, acquistano il diritto a pensione: 
+Gli operai e le operaie dell'officina governativa delle carte-valori, compresi gli assistenti-controllori, scrivani e contatori della carta, di cui alla tabella C, allegata al [R. decreto 22 ottobre 1903, n. 438](../Regi%20decreti/Che%20modifica%20il%20ruolo%20organico%20dellOfficina%20governativa%20carte-valori.%20003U0438.md), che si troveranno in servizio al momento della pubblicazione della presente legge, acquistano il diritto a pensione: 
  
  a) gli operai quando abbiano compiuti 60 anni; le operaie quando ne abbiano compiuti 55; 
  
@@ -22,7 +22,7 @@ Gli operai e le operaie dell'officina governativa delle carte-valori, compresi g
 
 Il tempo di servizio utile per la pensione e' rappresentato dalla somma dei successivi periodi di servizio prestato sotto qualsiasi forma e classifica, computando anche le assenze per malattia. 
  
- Nella determinazione della durata del servizio per la pensione saranno computati i servizi militari, ed i servizi civili prestati presso altre Amministrazioni dello Stato, nonche' le campagne di guerra a norma dell'art. 64 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+ Nella determinazione della durata del servizio per la pensione saranno computati i servizi militari, ed i servizi civili prestati presso altre Amministrazioni dello Stato, nonche' le campagne di guerra a norma dell'art. 64 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Nel caso in cui qualche operaio od operaia passasse o fosse gia' passato ad un ufficio civile, pel quale fosse stabilita una pensione, nella determinazione di questa sara' computato anche il periodo di tempo trascorso nella officina carte-valori.
 
@@ -34,7 +34,7 @@ La pensione annua dell'operaio che abbia raggiunti i 25 anni di servizio sara' l
 
 Questo moltiplicatore sara' aumentato di tre unita' per ogni anno di servizio oltre i 25 fino ai 45 e di sei unita' per ogni anno oltre i 45. 
  
- In nessun caso la pensione delle operaie potra' essere inferiore a L. 300 annue e quella degli operai a L. 480, e sara' sempre equiparata, per gli effetti dell'esenzione dall'imposta sui redditi di ricchezza mobile, alle rendite vitalizie liquidate dalla Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai, a norma del disposto dell'art. 24 del testo unico di legge sulla Cassa stessa, approvato con [R. decreto 28 luglio 1901, n. 387](Approvante%20il%20Testo%20unico%20della%20legge%20sulla%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20001U0387.md).
+ In nessun caso la pensione delle operaie potra' essere inferiore a L. 300 annue e quella degli operai a L. 480, e sara' sempre equiparata, per gli effetti dell'esenzione dall'imposta sui redditi di ricchezza mobile, alle rendite vitalizie liquidate dalla Cassa nazionale di previdenza per l'invalidita' e la vecchiaia degli operai, a norma del disposto dell'art. 24 del testo unico di legge sulla Cassa stessa, approvato con [R. decreto 28 luglio 1901, n. 387](../Regi%20decreti/Approvante%20il%20Testo%20unico%20della%20legge%20sulla%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20001U0387.md).
 
 ## Art. 4.
 

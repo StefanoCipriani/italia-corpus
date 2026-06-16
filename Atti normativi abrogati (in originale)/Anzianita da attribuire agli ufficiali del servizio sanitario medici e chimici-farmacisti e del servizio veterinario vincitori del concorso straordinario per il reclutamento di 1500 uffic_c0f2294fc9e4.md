@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
 
 Vista la [legge 6 giugno 1940, n. 630](Reclutamento%20straordinario%20di%201500%20subalterni%20in%20servizio%20permanente%20effettivo%20nel%20Regio%20esercito.%20040U0630.md), recante norme per il reclutamento straordinario di 1500 subalterni in servizio permanente effettivo nel Regio esercito;
 
@@ -52,7 +52,7 @@ Alla [legge 6 giugno 1940, n. 630](Reclutamento%20straordinario%20di%201500%20su
  
  per i vincitori del concorso compresi negli altri due terzi della graduatoria, considerando definitivo l'ordine di precedenza conseguito nella graduatoria del concorso stesso». 
  
- «Art. 8. - I vincitori del concorso di cui alla presente legge sono tenuti a frequentare da subalterno un corso tecnico professionale con le modalita' che saranno fissate dal Ministro per la guerra, ma non frequentano i corsi di applicazione o di perfezionamento di cui agli articoli 7 e 12 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni. 
+ «Art. 8. - I vincitori del concorso di cui alla presente legge sono tenuti a frequentare da subalterno un corso tecnico professionale con le modalita' che saranno fissate dal Ministro per la guerra, ma non frequentano i corsi di applicazione o di perfezionamento di cui agli articoli 7 e 12 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni. 
  
  Il corso tecnico professionale, previsto dal comma precedente da attuarsi nei limiti dei normali stanziamenti di bilancio, puo', per particolari esigenze a giudizio del Ministro per la guerra, non aver luogo».
 

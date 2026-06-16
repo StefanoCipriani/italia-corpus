@@ -16,7 +16,7 @@ Vista la [legge 31 maggio 1975, n. 191](Nuove%20norme%20per%20il%20servizio%20di
 
 Visto il [decreto del Presidente della Repubblica 14 febbraio 1964, n. 237](Leva%20e%20reclutamento%20obbligatorio%20nellEsercito%20nella%20Marina%20e%20nellAeronautica.md);
 
-Visto il [decreto del Presidente della Repubblica 1 giugno 1990, n. 204](../DPR/Regolamento%20recante%20la%20soppressione%20del%20consiglio%20di%20leva%20di%20Treviso%20e%20rideterminazione%20del%20numero%20delle%20sedi%20e%20delle%20zone%20di%20competenza%20territoriale%20dei%20consigli%20di%20leva.md);
+Visto il [decreto del Presidente della Repubblica 1 giugno 1990, n. 204](../Regolamenti%20governativi/Regolamento%20recante%20la%20soppressione%20del%20consiglio%20di%20leva%20di%20Treviso%20e%20rideterminazione%20del%20numero%20delle%20sedi%20e%20delle%20zone%20di%20competenza%20territoriale%20dei%20consigli%20di%20leva.md);
 
 Visto l'[art. 17, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
@@ -33,14 +33,14 @@ Sulla proposta del Ministro della difesa; E M A N A il seguente regolamento:
 1.
 
 I consigli di leva di Verona e Messina, compresi nella tabella allegata al [decreto del Presidente della Repubblica 1 giugno 1990, n. 
-204](../DPR/Regolamento%20recante%20la%20soppressione%20del%20consiglio%20di%20leva%20di%20Treviso%20e%20rideterminazione%20del%20numero%20delle%20sedi%20e%20delle%20zone%20di%20competenza%20territoriale%20dei%20consigli%20di%20leva.md), sono soppressi a decorrere dal 1 ottobre 1991.
+204](../Regolamenti%20governativi/Regolamento%20recante%20la%20soppressione%20del%20consiglio%20di%20leva%20di%20Treviso%20e%20rideterminazione%20del%20numero%20delle%20sedi%20e%20delle%20zone%20di%20competenza%20territoriale%20dei%20consigli%20di%20leva.md), sono soppressi a decorrere dal 1 ottobre 1991.
 
 2.
 
-Il numero, le sedi e le zone di competenza territoriale dei consigli di leva sono rideterminati nella tabella allegata che sostituisce quella in allegato al [decreto del Presidente della Repubblica 1 giugno 1990, n. 204](../DPR/Regolamento%20recante%20la%20soppressione%20del%20consiglio%20di%20leva%20di%20Treviso%20e%20rideterminazione%20del%20numero%20delle%20sedi%20e%20delle%20zone%20di%20competenza%20territoriale%20dei%20consigli%20di%20leva.md).
+Il numero, le sedi e le zone di competenza territoriale dei consigli di leva sono rideterminati nella tabella allegata che sostituisce quella in allegato al [decreto del Presidente della Repubblica 1 giugno 1990, n. 204](../Regolamenti%20governativi/Regolamento%20recante%20la%20soppressione%20del%20consiglio%20di%20leva%20di%20Treviso%20e%20rideterminazione%20del%20numero%20delle%20sedi%20e%20delle%20zone%20di%20competenza%20territoriale%20dei%20consigli%20di%20leva.md).
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 

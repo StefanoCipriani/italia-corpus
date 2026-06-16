@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 1° luglio 1937, n. 2023](Istituzione%20dellEnte%20autonomo%20Esposizione%20nazionale%20quadriennale%20darte%20di%20Roma.%20037U2023.md), riguardante l'istituzione dell'Ente autonomo "Esposizione nazionale quadriennale d'arte di Roma";
+Visto il [regio decreto 1° luglio 1937, n. 2023](../Regi%20decreti/Istituzione%20dellEnte%20autonomo%20Esposizione%20nazionale%20quadriennale%20darte%20di%20Roma.%20037U2023.md), riguardante l'istituzione dell'Ente autonomo "Esposizione nazionale quadriennale d'arte di Roma";
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

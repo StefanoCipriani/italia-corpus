@@ -26,11 +26,11 @@ E' concessa amnistia e cessano tutti gli effetti penali delle precedenti condann
  
  a) reati di azione pubblica preveduti nella legge sulla stampa; 
  
- b) delitti di duello preveduti negli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239 n. 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ b) delitti di duello preveduti negli [articoli 237](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [238](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [239 n. 3](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [241](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [244 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- c) delitti commessi per imprudenza o negligenza o per imperizia nell'arte o professione o per inosservanza di Regolamenti, ordini o discipline, indicati nell'[articolo 375 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), eccetto che ne siano derivate la morte, o lesioni personali prevedute nel n. 2 dell'articolo 372 del Codice stesso; 
+ c) delitti commessi per imprudenza o negligenza o per imperizia nell'arte o professione o per inosservanza di Regolamenti, ordini o discipline, indicati nell'[articolo 375 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), eccetto che ne siano derivate la morte, o lesioni personali prevedute nel n. 2 dell'articolo 372 del Codice stesso; 
  
- d) furti di legna commessi nei boschi, quando il valore della cosa rubata non ecceda le lire venti e non concorra alcuna delle circostanze previste nell'[articolo 404 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ d) furti di legna commessi nei boschi, quando il valore della cosa rubata non ecceda le lire venti e non concorra alcuna delle circostanze previste nell'[articolo 404 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  e) reati di diserzione dalle navi mercantili nazionali commessi sia da cittadini, sia da stranieri, e che sono preveduti negli articoli 264 a 280 del Codice per la marina mercantile.
 
@@ -44,13 +44,13 @@ Le disposizioni dell'articolo precedente non si applicano:
  
  1° agli ammoniti ai termini della legge di pubblica sicurezza quali oziosi, vagabondi o diffamati; 
  
- 2º a coloro che, per dichiarazione espressa nel dispositivo della sentenza, furono condannati per omicidio volontario, consumato o tentato, ovvero per lesioni personali che produssero la morte o alcuna delle conseguenze prevedute nel [n. 2 dell'articolo 372 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ 2º a coloro che, per dichiarazione espressa nel dispositivo della sentenza, furono condannati per omicidio volontario, consumato o tentato, ovvero per lesioni personali che produssero la morte o alcuna delle conseguenze prevedute nel [n. 2 dell'articolo 372 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4.
 
 E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto: 
  
- a) contravvenzioni prevedute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nel [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), fatta eccezione, per gli ammoniti, delle contravvenzioni di cui negli [articoli 464](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [465 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 110 della legge di pubblica sicurezza; 
+ a) contravvenzioni prevedute nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nel [testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), fatta eccezione, per gli ammoniti, delle contravvenzioni di cui negli [articoli 464](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [465 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 110 della legge di pubblica sicurezza; 
  
  b) contravvenzioni alle leggi e ai Regolamenti sullo stato civile; 
  
@@ -66,7 +66,7 @@ E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedent
  
  h) contravvenzioni agli articoli 177 e 180 del Codice di commercio; 
  
- i) contravvenzioni prevedute nel testo unico delle leggi relative ai pesi ed alle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª), nella legge sul saggio e marchio dei metalli preziosi del 2 maggio 1872, n. 806 (serie 2ª), e nei relativi Regolamenti approvati con i RR. decreti 7 novembre 1890, n. 7249 (serie 3ª), e 24 marzo 1892, n. 200; 
+ i) contravvenzioni prevedute nel testo unico delle leggi relative ai pesi ed alle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª), nella legge sul saggio e marchio dei metalli preziosi del 2 maggio 1872, n. 806 (serie 2ª), e nei relativi Regolamenti approvati con i RR. decreti 7 novembre 1890, n. 7249 (serie 3ª), e 24 marzo 1892, n. 200; 
  
  k) contravvenzioni prevedute nella legge sulla polizia mineraria 30 marzo 1893, n. 184, e nel relativo Regolamento approvato con [R. decreto 14 gennaio 1894, n. 19](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20polizia%20delle%20miniere%20cave%20e%20torbiere.%20094U0019.md); e contravvenzioni prevedute nell'articolo 18 del Regolamento approvato con Sovrano rescritto del 5 marzo 1851, per l'estrazione dello zolfo col sistema dei calcaroni in Sicilia; 
  
@@ -74,7 +74,7 @@ E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedent
  
  m) contravvenzioni prevedute nella legge sugli infortuni degli operai sul lavoro del 17 marzo 1898, n. 80, e nel relativo Regolamento, approvato con [R. decreto del 25 settembre 1898, n. 411](che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%2017%20marzo%201898%20n.%2080%20sugli%20infortuni%20del%20lavoro%20098U0411.md), fatta eccezione per le contravvenzioni di cui nell'articolo 21 della legge medesima; 
  
- n) contravvenzioni prevedute nel Regolamento circa la polizia, la sicurezza e la regolarita' delle strade ferrate, approvato con [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687) (serie 3ª); 
+ n) contravvenzioni prevedute nel Regolamento circa la polizia, la sicurezza e la regolarita' delle strade ferrate, approvato con [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md) (serie 3ª); 
  
  o) contravvenzioni prevedute negli [articoli 4](Sulla%20requisizione%20dei%20quadrupedi%20idonei%20al%20servizio%20militare.%20089U6168.md) e [5 della legge 30 giugno 1889, n. 6168](Sulla%20requisizione%20dei%20quadrupedi%20idonei%20al%20servizio%20militare.%20089U6168.md) (serie 3ª), sulla requisizione dei quadrupedi, purche' entro quattro mesi da oggi i contravventori facciano le dichiarazioni prescritte negli articoli medesimi; 
  

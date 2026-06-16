@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959), od il regolamento approvato con il [R. decreto 17 novembre 1913, n. 1514](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md);
+Visto il [testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959), od il regolamento approvato con il [R. decreto 17 novembre 1913, n. 1514](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md);
 
 Sulla proposta del ministro segretario di Stato pei lavori pubblici, di concerto con quelli di agricoltura, industria, commercio e lavoro, della guerra, della marina e del tesoro;
 
@@ -65,7 +65,7 @@ Alle opere di cui alla lettera a) dell'art. 1 sono applicabili le disposizioni d
 
 ## Art. 5.
 
-E' data facolta' alle Provincie ed ai Comuni interessati nei lavori di cui all'art. 1 del presente decreto ed ai nn. 1 e 2 della tabella annessa alla [legge 8 aprile 1915, n. 508](Concernente%20lesecuzione%20di%20opere%20di%20navigazione%20interna%20e%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%203%20e%2079%20del%20testo%20unico%2011%20luglio%201913%20n.%20959%20delle%20disposizioni%20di%20legge%20sulla%20navigazio_0fae9839d1f6.md), di corrispondere, mediante il rilascio delle delegazioni di cui all'art. 14 del regolamento approvato con [R. decreto 17 novembre 1913, n. 1514](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md), le rispettive aliquote di contribuenza in numero, non superiore a 50, di annualita' costanti anticipate, comprensive di capitale ed interessi al 4% a cominciare dall'anno successivo a quello di inizio dei lavori stessi.
+E' data facolta' alle Provincie ed ai Comuni interessati nei lavori di cui all'art. 1 del presente decreto ed ai nn. 1 e 2 della tabella annessa alla [legge 8 aprile 1915, n. 508](Concernente%20lesecuzione%20di%20opere%20di%20navigazione%20interna%20e%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%203%20e%2079%20del%20testo%20unico%2011%20luglio%201913%20n.%20959%20delle%20disposizioni%20di%20legge%20sulla%20navigazio_0fae9839d1f6.md), di corrispondere, mediante il rilascio delle delegazioni di cui all'art. 14 del regolamento approvato con [R. decreto 17 novembre 1913, n. 1514](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md), le rispettive aliquote di contribuenza in numero, non superiore a 50, di annualita' costanti anticipate, comprensive di capitale ed interessi al 4% a cominciare dall'anno successivo a quello di inizio dei lavori stessi.
 
 ## Art. 6.
 

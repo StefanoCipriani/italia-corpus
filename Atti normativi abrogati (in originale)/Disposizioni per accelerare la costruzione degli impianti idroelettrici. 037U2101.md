@@ -30,7 +30,7 @@ Quando i concessionari di derivazioni di acque pubbliche per impianti idroelettr
 
 ## Art. 2.
 
-In caso di decadenza o di rinuncia delle concessioni per impianti idroelettrici, la cauzione sara' in ogni caso incamerata in deroga dell'ultimo comma dell'[art. 11 del testo unico sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_11) 11 dicembre 1933, n. 1775.
+In caso di decadenza o di rinuncia delle concessioni per impianti idroelettrici, la cauzione sara' in ogni caso incamerata in deroga dell'ultimo comma dell'[art. 11 del testo unico sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) 11 dicembre 1933, n. 1775.
 
 ## Art. 3.
 

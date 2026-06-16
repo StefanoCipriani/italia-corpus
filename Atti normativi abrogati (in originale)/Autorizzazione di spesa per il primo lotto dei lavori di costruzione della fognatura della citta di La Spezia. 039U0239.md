@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-E' autorizzata la spesa di lire tre milioni quale contributo dello Stato in ragione del 50 per cento della spesa del primo lotto dei lavori di costruzione della fognatura della citta' di La Spezia da somministrarsi secondo le norme del decreto Interministeriale 30 giugno 1925 salva l'applicazione dell'[articolo 18 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md).
+E' autorizzata la spesa di lire tre milioni quale contributo dello Stato in ragione del 50 per cento della spesa del primo lotto dei lavori di costruzione della fognatura della citta' di La Spezia da somministrarsi secondo le norme del decreto Interministeriale 30 giugno 1925 salva l'applicazione dell'[articolo 18 del R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md).
 
 ## Art. 2.
 

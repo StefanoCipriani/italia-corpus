@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 1 dicembre 1927, n. 2349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-01;2349), col quale i comuni di Bognanco Fuori, Monteossolano e Bognanco Dentro venivano riuniti in un solo Comune denominato Bognanco; 
+ Visto il [R. decreto 1 dicembre 1927, n. 2349](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Monte%20Ossolano%20Bognanco%20Dentro%20e%20Bognanco%20Fuori%20in%20un%20unico%20Comune%20denominato%20Bognanco.%20027U2349.md), col quale i comuni di Bognanco Fuori, Monteossolano e Bognanco Dentro venivano riuniti in un solo Comune denominato Bognanco; 
  
  Vista la deliberazione del podesta' di detto Comune, con la quale si chiede che per tutto il territorio del comune di Bognanco funzioni un solo ufficio di conciliazione; 
  

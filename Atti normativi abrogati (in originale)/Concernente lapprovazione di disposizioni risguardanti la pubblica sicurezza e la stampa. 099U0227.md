@@ -24,7 +24,7 @@ In seguito a deliberazione del Consiglio dei Ministri; Abbiamo decretato e decre
 
 ## Art. 1.
 
-L'autorita' di pubblica sicurezza puo' vietare, per ragioni d'ordine pubblico, gli assembramenti e le riunioni pubbliche, ed i contravventori al divieto saranno puniti ai termini dell'[articolo 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'autorita' di pubblica sicurezza puo' vietare, per ragioni d'ordine pubblico, gli assembramenti e le riunioni pubbliche, ed i contravventori al divieto saranno puniti ai termini dell'[articolo 434 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 
@@ -32,7 +32,7 @@ Non si potranno portare, ne' esporre in pubblico insegne, stendardi o emblemi se
 
 ## Art. 3.
 
-Oltre le associazioni delittuose punite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il Ministro dell'Interno puo' sciogliere, con decreto motivato, tutte quelle altre le quali siano dirette a sovvertire, per vie di fatto, gli ordinamenti sociali o la costituzione dello Stato. 
+Oltre le associazioni delittuose punite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il Ministro dell'Interno puo' sciogliere, con decreto motivato, tutte quelle altre le quali siano dirette a sovvertire, per vie di fatto, gli ordinamenti sociali o la costituzione dello Stato. 
  
  Contro il decreto di scioglimento e' ammesso il ricorso alla IV Sezione del Consiglio di Stato, ai termini dell'[articolo 24 della legge 2 giugno 1889, n. 6166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-02;6166#art_24). Questo ricorso non avra' effetto sospensivo fuorche' nei riguardi del patrimonio delle associazioni disciolte. 
  
@@ -40,7 +40,7 @@ Oltre le associazioni delittuose punite dal [Codice penale](../Codici/Approvazio
 
 ## Art. 4.
 
-Gli impiegati, agenti ed operai addetti alle ferrovie, alle poste, ai telegrafi, alla illuminazione pubblica a gas o a luce elettrica, anche se tali servizi sono esercitati per mezzo di un privato assuntore, che in numero di tre o piu', previo concerto, abbandonino il proprio ufficio o incarico, od omettano di adempiere il regolare funzionamento del pubblico servizio, saranno puniti, qualora il fatto non costituisca reato piu' grave, con l'arresto fino a tre mesi o colla multa fino a lire mille, oltre le pene portate dall'[articolo 181 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando si tratti di pubblici ufficiali. 
+Gli impiegati, agenti ed operai addetti alle ferrovie, alle poste, ai telegrafi, alla illuminazione pubblica a gas o a luce elettrica, anche se tali servizi sono esercitati per mezzo di un privato assuntore, che in numero di tre o piu', previo concerto, abbandonino il proprio ufficio o incarico, od omettano di adempiere il regolare funzionamento del pubblico servizio, saranno puniti, qualora il fatto non costituisca reato piu' grave, con l'arresto fino a tre mesi o colla multa fino a lire mille, oltre le pene portate dall'[articolo 181 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando si tratti di pubblici ufficiali. 
  
  I promotori e i capi saranno puniti con l'arresto fino a sei mesi o con la multa fino a lire tremila.
 
@@ -66,13 +66,13 @@ Nel caso in cui i responsabili dei reati di diffamazione commessi a mezzo della 
 
 E' vietata la pubblicazione, per mezzo della stampa, degli atti di istruttoria penale e dei rendiconti o riassunti di dibattimenti nei giudizi per diffamazione, sotto pena dell'ammenda da lire cento a lire cinquecento, oltre la soppressione dello stampato. 
  
- Non si applica tale divieto ai giudizi previsti dal [n. 1 dell'articolo 394 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e a quelli nei quali la persona offesa sia un membro del Parlamento per causa delle sue funzioni.
+ Non si applica tale divieto ai giudizi previsti dal [n. 1 dell'articolo 394 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e a quelli nei quali la persona offesa sia un membro del Parlamento per causa delle sue funzioni.
 
 ## Art. 9.
 
-Agli articoli 56 dell'Editto sulla stampa, 124 e 400 ultimo capoverso del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), che sono abrogati, e' sostituita la seguente disposizione: 
+Agli articoli 56 dell'Editto sulla stampa, 124 e 400 ultimo capoverso del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), che sono abrogati, e' sostituita la seguente disposizione: 
  
- Per i delitti preveduti nell'[articolo 122 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non si procede che dietro autorizzazione del Ministro della Giustizia. Nel caso di offesa contro i Sovrani od i Capi dei Governi esteri l'azione penale non verra' esercitata se non in seguito a richiesta per parte dei Sovrani o dei Capi degli stessi Governi, fermo restando il disposto della legge 26 febbraio 1852. Nel caso di offesa contro gli inviati ed agenti diplomatici stranieri accreditati presso il Governo del Re, l'azione non verra' esercitata se non in seguito alla querela sporta dalla persona che si reputa offesa.
+ Per i delitti preveduti nell'[articolo 122 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non si procede che dietro autorizzazione del Ministro della Giustizia. Nel caso di offesa contro i Sovrani od i Capi dei Governi esteri l'azione penale non verra' esercitata se non in seguito a richiesta per parte dei Sovrani o dei Capi degli stessi Governi, fermo restando il disposto della legge 26 febbraio 1852. Nel caso di offesa contro gli inviati ed agenti diplomatici stranieri accreditati presso il Governo del Re, l'azione non verra' esercitata se non in seguito alla querela sporta dalla persona che si reputa offesa.
 
 ## Art. 10.
 

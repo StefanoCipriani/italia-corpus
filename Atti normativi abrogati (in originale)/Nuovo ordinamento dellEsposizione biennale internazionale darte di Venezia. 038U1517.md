@@ -351,7 +351,7 @@ La liquidazione dei diritti erariali sui proventi delle manifestazioni organizza
 
 ## Art. 33.
 
-La «Biennale» e' ammessa a godere, nei riguardi della imposta di ricchezza mobile, dell'esonero in via permanente di cui all'[art. 62 del R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md). Essa e' altresi' ammessa a godere della rappresentanza, del patrocinio e dell'assistenza in giudizio dell'Avvocatura dello Stato.
+La «Biennale» e' ammessa a godere, nei riguardi della imposta di ricchezza mobile, dell'esonero in via permanente di cui all'[art. 62 del R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md). Essa e' altresi' ammessa a godere della rappresentanza, del patrocinio e dell'assistenza in giudizio dell'Avvocatura dello Stato.
 
 ## Art. 34.
 

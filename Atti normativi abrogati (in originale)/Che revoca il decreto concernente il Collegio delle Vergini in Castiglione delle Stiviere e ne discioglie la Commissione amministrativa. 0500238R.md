@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 13 dicembre 1900, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-12-13;374), con cui il «Collegio delle Vergini» in Castiglione delle Stiviere veniva dichiarato Istituto pubblico di educazione femminile, e assoggettato alle norme dei RR. decreti 6 ottobre 1867, n. 1941 (parte supplementare) e 29 giugno 1883, n. 1514 (serie 3ª) e i RR. decreti 7 luglio 1901 e 5 settembre 1904, con i quali veniva nominata e confermata la Commissione amministrativa di quell'Istituto; 
+ Veduto il [R. decreto 13 dicembre 1900, n. 374](../Regi%20decreti/Che%20riconosce%20come%20istituto%20di%20pubblica%20istruzione%20il%20collegio%20delle%20Vergini%20in%20Castiglione%20delle%20Stiviere.%200000374R.md), con cui il «Collegio delle Vergini» in Castiglione delle Stiviere veniva dichiarato Istituto pubblico di educazione femminile, e assoggettato alle norme dei RR. decreti 6 ottobre 1867, n. 1941 (parte supplementare) e 29 giugno 1883, n. 1514 (serie 3ª) e i RR. decreti 7 luglio 1901 e 5 settembre 1904, con i quali veniva nominata e confermata la Commissione amministrativa di quell'Istituto; 
  
  Viste le sentenze 14-16 marzo 1904 della Corte d'appello di Brescia e 23 gennaio-10 marzo 1905 della Corte di cassazione di Torino, che hanno riconosciuto e rivendicato al detto Collegio la natura giuridica di fondazione laicale di ragione privata, da cui consegue la sua piena autonomia, salvo al Ministero della pubblica istruzione il diritto di vigilanza sull'andamento morale, igienico e didattico del Convitto e della scuola; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il [R. decreto 13 dicembre 1900, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-12-13;374), che dichiarava il «Collegio delle Vergini» in Castiglione delle Stiviere Istituto pubblico di educazione femminile e' revocato, e la Commissione amministrativa preposta all'Istituto medesimo e' disciolta. 
+ Il [R. decreto 13 dicembre 1900, n. 374](../Regi%20decreti/Che%20riconosce%20come%20istituto%20di%20pubblica%20istruzione%20il%20collegio%20delle%20Vergini%20in%20Castiglione%20delle%20Stiviere.%200000374R.md), che dichiarava il «Collegio delle Vergini» in Castiglione delle Stiviere Istituto pubblico di educazione femminile e' revocato, e la Commissione amministrativa preposta all'Istituto medesimo e' disciolta. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

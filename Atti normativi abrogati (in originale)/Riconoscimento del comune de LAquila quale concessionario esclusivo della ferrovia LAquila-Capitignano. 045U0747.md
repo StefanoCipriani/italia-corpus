@@ -30,7 +30,7 @@ E' approvata la convenzione 11 febbraio 1943 tra il comune de L'Aquila e la Soci
 
 ## Art. 2.
 
-Subordinatamente all'adempimento di quanto stabilito dall'art. 5 della convenzione approvata col presente decreto, il comune de L'Aquila e' riconosciuto concessionario esclusivo della ferrovia L'Aquila-Capitignano alle condizioni di cui agli atti 20 gennaio 1920 e 5 giugno 1922 approvati e resi esecutori coi [Regi decreti 7 marzo 1920, n. 390](Che%20approva%20e%20rende%20esecutoria%20la%20convenzione%2020%20gennaio%201920%20per%20la%20concessione%20della%20costruzione%20e%20del%20esercizio%20della%20ferrovia%20Aquila-Capitignano.%20020U0390.md), e [27 giugno 1922, n. 1105](Col%20quale%20si%20approva%20la%20convenzione%205%20giugno%201922%20suppletiva%20a%20quella%2020%20gennaio%201920%20per%20la%20concessione%20della%20ferrovia%20Aquila-Capitignano.%20022U1105.md).
+Subordinatamente all'adempimento di quanto stabilito dall'art. 5 della convenzione approvata col presente decreto, il comune de L'Aquila e' riconosciuto concessionario esclusivo della ferrovia L'Aquila-Capitignano alle condizioni di cui agli atti 20 gennaio 1920 e 5 giugno 1922 approvati e resi esecutori coi [Regi decreti 7 marzo 1920, n. 390](../Regi%20decreti/Che%20approva%20e%20rende%20esecutoria%20la%20convenzione%2020%20gennaio%201920%20per%20la%20concessione%20della%20costruzione%20e%20del%20esercizio%20della%20ferrovia%20Aquila-Capitignano.%20020U0390.md), e [27 giugno 1922, n. 1105](../Regi%20decreti/Col%20quale%20si%20approva%20la%20convenzione%205%20giugno%201922%20suppletiva%20a%20quella%2020%20gennaio%201920%20per%20la%20concessione%20della%20ferrovia%20Aquila-Capitignano.%20022U1105.md).
 
 ## Art. 3.
 

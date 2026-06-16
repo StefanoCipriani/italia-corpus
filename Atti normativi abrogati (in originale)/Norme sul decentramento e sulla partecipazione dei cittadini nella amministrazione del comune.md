@@ -50,11 +50,11 @@ Tutti i consigli circoscrizionali durano in carica per un periodo corrispondente
  I consigli circoscrizionali di cui al primo e al secondo comma
  dell'articolo 3 sono eletti contemporaneamente al consiglio comunale.
 Per la indizione delle elezioni si applica il disposto di cui
-all'articolo 18 del testo unico approvato con [decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../DPR/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md).
+all'articolo 18 del testo unico approvato con [decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../Testi%20Unici/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md).
 
 ## Art. 6.
 
-L'elezione diretta dei consigli circoscrizionali si effettua a scrutinio di lista con rappresentanza proporzionale e, per quanto non previsto nella presente legge, con l'osservanza delle norme stabilite dal testo unico approvato con [decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../DPR/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), e successive modificazioni, per la elezione dei consigli comunali con popolazione con oltre 5.000 abitanti.
+L'elezione diretta dei consigli circoscrizionali si effettua a scrutinio di lista con rappresentanza proporzionale e, per quanto non previsto nella presente legge, con l'osservanza delle norme stabilite dal testo unico approvato con [decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../Testi%20Unici/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), e successive modificazioni, per la elezione dei consigli comunali con popolazione con oltre 5.000 abitanti.
 
 ## Art. 7.
 
@@ -146,7 +146,7 @@ Le spese inerenti all'attuazione delle elezioni dei consigli circoscrizionali, i
 
 ## Art. 20.
 
-Nei comuni in cui sono istituiti i consigli circoscrizionali non sono applicabili gli [articoli 154](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), [155](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md) e [156 del regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e l'[articolo 57 del regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), nonche' ogni altra disposizione incompatibile con la presente legge.
+Nei comuni in cui sono istituiti i consigli circoscrizionali non sono applicabili gli [articoli 154](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), [155](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md) e [156 del regio decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e l'[articolo 57 del regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), nonche' ogni altra disposizione incompatibile con la presente legge.
 
 ### Art. 21.
 

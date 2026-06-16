@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'indennita' giornaliera di marcia prevista dal regolamento per le indennita' eventuali dell'Esercito, approvato con [regio decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), e successive modificazioni, e' estesa, nella misura vigente nel tempo per il personale di detta forza armata, al personale e ai reparti seguenti della Marina militare che svolgono servizi a terra:
+L'indennita' giornaliera di marcia prevista dal regolamento per le indennita' eventuali dell'Esercito, approvato con [regio decreto 19 aprile 1907, n. 201](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), e successive modificazioni, e' estesa, nella misura vigente nel tempo per il personale di detta forza armata, al personale e ai reparti seguenti della Marina militare che svolgono servizi a terra:
  a) militari di qualsiasi grado che si recano fuori dell'ordinaria residenza per prendere parte ad esercitazioni collettive;
  b) reparti che si trasferiscono da una ad altra residenza per ragioni di servizio collettivo o di carattere prettamente militare;
  c) drappelli impiegati nella sistemazione dei campi di tiro, quando obbligati a pernottare fuori della sede;

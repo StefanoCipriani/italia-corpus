@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche Amministrazioni, approvato con [R. decreto 5 giugno 1941, n. 874](Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), sono apportate le seguenti modificazioni:
+Al testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche Amministrazioni, approvato con [R. decreto 5 giugno 1941, n. 874](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), sono apportate le seguenti modificazioni:
  1. - L'art. 6, ultimo comma, e' modificato come appresso:
  "I prestiti possono essere contratti soltanto per periodi di cinque e dieci anni, salva l'applicazione degli articoli 14 e 24".
  2. - All'art. 7, 2° comma, si aggiungono le seguenti parole: "nonche' per gli impiegati e salariati ex combattenti della guerra di liberazione e per coloro che abbiano ottenuto il riconoscimento della qualifica di partigiano ai sensi, del [decreto legislativo Luogotenenziale 21 agosto 1945, n 518](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20riconoscimento%20delle%20qualifiche%20dei%20partigiani%20e%20lesame%20delle%20proposte%20di%20ricompensa.%20045U0518.md)" e il 3° comma e' sostituito dal seguente:

@@ -23,7 +23,7 @@ L'esperimento teorico e' dato presso gl'istituti di Marina mercantile, e presso 
 -------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 20 novembre 1869, n. 5371](Che%20rettifica%20lultimo%20alinea%20del%20Decreto%2017%20ottobre%201869%20riguardante%20la%20prova%20di%20esame%20per%20conseguire%20la%20patente%20ai%20diversi%20gradi%20della%20Marina%20mercantile.%20069U5371.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 20 novembre 1869, n. 5371](../Regi%20decreti/Che%20rettifica%20lultimo%20alinea%20del%20Decreto%2017%20ottobre%201869%20riguardante%20la%20prova%20di%20esame%20per%20conseguire%20la%20patente%20ai%20diversi%20gradi%20della%20Marina%20mercantile.%20069U5371.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 

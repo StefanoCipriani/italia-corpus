@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  il distacco dalla sezione elettorale del comune di Lona-Lases degli elettori politici del comune di Sevignano, essendo il primo Comune, per effetto della tabella delle circoscrizioni dei collegi elettorali politici, approvata con [R. decreto 24 gennaio 1926, n. 235](Approvazione%20della%20tabella%20delle%20circoscrizioni%20dei%20collegi%20elettorali%20politici.%20026U0235.md), passato a far parte del collegio di Trento; e la conseguente aggregazione alla sezione elettorale di Segonzano degli elettori politici del comune di Sevignano, i quali dalle liste del corrente anno risultano in numero di 77; 
  
- il distacco dalla sezione elettorale del comune di Carano degli elettori politici del comune di San Lugano, i quali, in seguito alla fusione di quest'ultimo col comune di Trodena ([R. decreto 21 gennaio 1926, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-21;184)), sono passati a far parte delle liste di Trodena; 
+ il distacco dalla sezione elettorale del comune di Carano degli elettori politici del comune di San Lugano, i quali, in seguito alla fusione di quest'ultimo col comune di Trodena ([R. decreto 21 gennaio 1926, n. 184](../Regi%20decreti/Aggregazione%20del%20comune%20di%20San%20Lugano%20a%20quello%20di%20Trodena%20in%20provincia%20di%20Trento.%20026U0184.md)), sono passati a far parte delle liste di Trodena; 
  
  3° Nel collegio elettorale di Riva-Tione: 
  

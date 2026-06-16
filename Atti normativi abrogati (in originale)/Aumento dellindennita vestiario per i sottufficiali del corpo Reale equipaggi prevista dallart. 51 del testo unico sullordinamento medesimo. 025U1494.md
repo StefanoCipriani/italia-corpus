@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 51 del testo unico delle disposizioni legislative sull'ordinamento del corpo Reale equipaggi e stato giuridico dei sottufficiali approvato con [R. decreto 21 agosto 1924, numero 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e successive varianti;
+Visto l'art. 51 del testo unico delle disposizioni legislative sull'ordinamento del corpo Reale equipaggi e stato giuridico dei sottufficiali approvato con [R. decreto 21 agosto 1924, numero 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e successive varianti;
 
 Sentito il Consiglio dei Ministri;
 

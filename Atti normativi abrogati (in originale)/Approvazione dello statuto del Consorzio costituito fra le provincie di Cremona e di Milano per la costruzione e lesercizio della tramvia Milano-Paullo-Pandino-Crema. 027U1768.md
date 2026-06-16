@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la domanda in data aprile 1926 con la quale l'avvocato gr.
 
-uff. Sileno Fabbri, nella sua qualita' di presidente del Consorzio costituitosi fra le provincie di Cremona e di Milano per la concessione della tramvia Milano-Paullo-Pandino-Crema, ha chiesto il riconoscimento del Consorzio stesso ai sensi dell'art. 12 del testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+uff. Sileno Fabbri, nella sua qualita' di presidente del Consorzio costituitosi fra le provincie di Cremona e di Milano per la concessione della tramvia Milano-Paullo-Pandino-Crema, ha chiesto il riconoscimento del Consorzio stesso ai sensi dell'art. 12 del testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Viste le deliberazioni 14 e 28 dicembre 1925 con le quali i Consigli provinciali di Cremona e di Milano hanno approvato la costituzione del detto Consorzio nominando i propri rappresentanti in seno al medesimo;
 

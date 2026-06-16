@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 febbraio 1922, n. 366](Che%20reca%20modificazioni%20alle%20norme%20per%20il%20pagamento%20delle%20rendite%20di%20debito%20pubblico%20normative%20e%20per%20il%20rimborso%20dei%20titoli%20estratti.%20022U0366.md);
+Visto il [R. decreto 19 febbraio 1922, n. 366](../Regi%20decreti/Che%20reca%20modificazioni%20alle%20norme%20per%20il%20pagamento%20delle%20rendite%20di%20debito%20pubblico%20normative%20e%20per%20il%20rimborso%20dei%20titoli%20estratti.%20022U0366.md);
 
-Visto il [R. decreto 3 febbraio 1927, n. 89](Segni%20caratteristici%20del%20nuovo%20modello%20dei%20titoli%20al%20nome%20del%20consolidato%203.50%20-%201906%20e%20dei%20relativi%20fogli%20di%20tagliandi.%20027U0089.md);
+Visto il [R. decreto 3 febbraio 1927, n. 89](../Regi%20decreti/Segni%20caratteristici%20del%20nuovo%20modello%20dei%20titoli%20al%20nome%20del%20consolidato%203.50%20-%201906%20e%20dei%20relativi%20fogli%20di%20tagliandi.%20027U0089.md);
 
-Visto il [R. decreto 29 dicembre 1932, n. 1740](Modifiche%20alle%20norme%20per%20il%20pagamento%20delle%20rendite%20di%20debito%20pubblico%20nominative%20dei%20consolidati%203%20350%201902%20e%20450.%20032U1740.md);
+Visto il [R. decreto 29 dicembre 1932, n. 1740](../Regi%20decreti/Modifiche%20alle%20norme%20per%20il%20pagamento%20delle%20rendite%20di%20debito%20pubblico%20nominative%20dei%20consolidati%203%20350%201902%20e%20450.%20032U1740.md);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 

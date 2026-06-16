@@ -102,7 +102,7 @@ Le informazioni, i documenti e gli elementi acquisiti dallo STAF nel corso delle
 
 4.
 
-Indagini patrimoniali possono essere estese, previa autorizzazione del procuratore della Repubblica del luogo di residenza o di sede, ai prossimi congiunti dei dipendenti dell'Amministrazione finanziaria, nonche' a terzi, persone fisiche o giuridiche, imprese ed enti rispetto ai quali vi siano specifici elementi per ritenere che agiscano come prestanome dei suddetti dipendenti. Per prossimi congiunti si intendono quelli indicati nell'articolo 307, ultimo comma, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Indagini patrimoniali possono essere estese, previa autorizzazione del procuratore della Repubblica del luogo di residenza o di sede, ai prossimi congiunti dei dipendenti dell'Amministrazione finanziaria, nonche' a terzi, persone fisiche o giuridiche, imprese ed enti rispetto ai quali vi siano specifici elementi per ritenere che agiscano come prestanome dei suddetti dipendenti. Per prossimi congiunti si intendono quelli indicati nell'articolo 307, ultimo comma, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 5.
 

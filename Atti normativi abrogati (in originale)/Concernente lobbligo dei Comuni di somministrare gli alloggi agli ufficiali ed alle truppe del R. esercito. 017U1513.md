@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 4 agosto 1861, n. 142, e 27 luglio 1862, n. 723](Con%20cui%20si%20prorogano%20le%20disposizioni%20di%20quella%20data%204%20agosto%201861%20sulle%20somministrazioni%20da%20farsi%20dai%20Comuni%20alle%20truppe.%20062U0723.md), nonche' il [R. decreto 26 marzo 1899, n. 155](Relativo%20alle%20somministrazioni%20da%20farsi%20dai%20Comuni%20alle%20truppe.%20099U0155.md), relativi alle somministrazioni da farsi dai Comuni alle truppe;
+Vista la [legge 4 agosto 1861, n. 142, e 27 luglio 1862, n. 723](Con%20cui%20si%20prorogano%20le%20disposizioni%20di%20quella%20data%204%20agosto%201861%20sulle%20somministrazioni%20da%20farsi%20dai%20Comuni%20alle%20truppe.%20062U0723.md), nonche' il [R. decreto 26 marzo 1899, n. 155](../Regi%20decreti/Relativo%20alle%20somministrazioni%20da%20farsi%20dai%20Comuni%20alle%20truppe.%20099U0155.md), relativi alle somministrazioni da farsi dai Comuni alle truppe;
 
 Sulla proposta del ministro segretario di Stato per gli affari della guerra, di concerto con quelli della marina, dell'interno, del tesoro e di grazia e giustizia e dei culti;
 
@@ -60,11 +60,11 @@ Per i combustibili e la paglia, occorrenti alle truppe ed ai quadrupedi in caso 
 
 ## Art. 8.
 
-In caso di omissione colpevole o di rifiuto non giustificato da parte delle autorita' comunali di eseguire le prescrizioni sugli alloggi militari sara' applicabile l'[art. 178 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) a chi ne venga riconosciuto responsabile. 
+In caso di omissione colpevole o di rifiuto non giustificato da parte delle autorita' comunali di eseguire le prescrizioni sugli alloggi militari sara' applicabile l'[art. 178 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) a chi ne venga riconosciuto responsabile. 
  
  L'inadempimento per causa non giustificata del precetto, intimato dall'autorita' comunale o direttamente dai comandanti delle truppe al cittadino obbligato, da' luogo di pieno diritto, ed a spese del precettato, alla esecuzione coattiva del precetto stesso per parte del Comune o della truppa, cui debbano essere fatte le somministrazioni. 
  
- Il contravventore e' inoltre passibile delle pene sancite dall'[art. 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Il contravventore e' inoltre passibile delle pene sancite dall'[art. 434 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il contravventore sara' ammesso a fare oblazione secondo la legge comunale e provinciale, fermo il disposto del 3° alinea di questo articolo.
 

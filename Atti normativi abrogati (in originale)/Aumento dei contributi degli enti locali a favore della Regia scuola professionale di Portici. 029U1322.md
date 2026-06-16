@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Articolo unico.
 
-I contributi di cui all'[art. 3 del R. decreto 5 gennaio 1922, n. 1651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-05;1651#art_3), a favore della Regia scuola professionale di Portici, sono modificati come appresso: 
+I contributi di cui all'[art. 3 del R. decreto 5 gennaio 1922, n. 1651](../Regi%20decreti/Istituzione%20di%20Regia%20scuola%20professionale.%20022U1651.md), a favore della Regia scuola professionale di Portici, sono modificati come appresso: 
  
  il Ministero della pubblica, istruzione . . . L. 23,800; 
  

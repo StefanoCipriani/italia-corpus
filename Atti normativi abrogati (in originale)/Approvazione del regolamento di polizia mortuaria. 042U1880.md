@@ -15,7 +15,7 @@ VITTORIO EMANUELE III
  RE D'ITALIA E DI ALBANIA 
  IMPERATORE D'ETIOPIA 
  
- Visto l'[art. 358 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_358) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); 
+ Visto l'[art. 358 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
  Visto l'art. 1, n. 1, della legge 31 gennaio 1926-IV, n. 100; 
  Udito il parere del Consiglio superiore di sanita'; 
  Udito il parere del Consiglio di Stato; 

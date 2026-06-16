@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Le disposizioni contenute nell'art. 1 dell'allegato A al [R. decreto 31 maggio 1916, n. 695](Recante%20aumento%20del%20contributo%20del%20centesimo%20di%20guerra%20provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari%20ed%20aumento%20delle%20tasse%20di%20spedizione%20dei%20pacchi%20postali%20016U0695.md) sono estese alla Tripolitania, Cirenaica, Eritrea e Somalia italiana con effetto dal 1° luglio
+Le disposizioni contenute nell'art. 1 dell'allegato A al [R. decreto 31 maggio 1916, n. 695](../Regi%20decreti/Recante%20aumento%20del%20contributo%20del%20centesimo%20di%20guerra%20provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari%20ed%20aumento%20delle%20tasse%20di%20spedizione%20dei%20pacchi%20postali%20016U0695.md) sono estese alla Tripolitania, Cirenaica, Eritrea e Somalia italiana con effetto dal 1° luglio
 
 1916.
 

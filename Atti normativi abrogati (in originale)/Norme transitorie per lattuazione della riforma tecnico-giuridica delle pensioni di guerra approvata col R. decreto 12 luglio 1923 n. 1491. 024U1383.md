@@ -32,27 +32,27 @@ Le ferite, lesioni o infermita' riportate o aggravate in occasione di effettiva 
 
 ## Art. 3.
 
-Ai sensi del [4° comma dell'art. 2 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), si considera servizio sedentario quello prestato negli uffici.
+Ai sensi del [4° comma dell'art. 2 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), si considera servizio sedentario quello prestato negli uffici.
 
 ## Art. 4.
 
-Le pensioni e gli assegni di cui all'[art. 3 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono conferiti in via provvisoria, salvo revoca quando il competente Ministero dichiari che il militare cadde prigioniero per circostanze a lui imputabili.
+Le pensioni e gli assegni di cui all'[art. 3 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono conferiti in via provvisoria, salvo revoca quando il competente Ministero dichiari che il militare cadde prigioniero per circostanze a lui imputabili.
 
 ## Art. 5.
 
-Per escludere il diritto a pensione od assegno di guerra per le infermita' di cui al [2° comma dell'art. 5 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' necessario provare che il servizio prestato non abbia esercitato nell'insorgere o nel decorso delle lesioni o delle infermita' alcuna nociva influenza.
+Per escludere il diritto a pensione od assegno di guerra per le infermita' di cui al [2° comma dell'art. 5 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' necessario provare che il servizio prestato non abbia esercitato nell'insorgere o nel decorso delle lesioni o delle infermita' alcuna nociva influenza.
 
 ## Art. 6.
 
-Agli effetti del [1° comma dell'art. 15](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e del [1° comma dell'art. 23 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), si presume la causa diretta ed immediata del servizio di guerra, quando risulti che le ferite, le lesioni o le infermita' siano state riportate o contratte, o si siano aggravate in conseguenza del servizio prestato nella zona delle azioni di combattimento, anche se manifestatesi fuori di detta zona.
+Agli effetti del [1° comma dell'art. 15](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e del [1° comma dell'art. 23 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), si presume la causa diretta ed immediata del servizio di guerra, quando risulti che le ferite, le lesioni o le infermita' siano state riportate o contratte, o si siano aggravate in conseguenza del servizio prestato nella zona delle azioni di combattimento, anche se manifestatesi fuori di detta zona.
 
 ## Art. 7.
 
-Solo per le invalidita' dipendenti esclusivamente e direttamente da ferite o lesioni riportate in combattimento e' ammessa la domanda di aggravamento oltre il termine di cinque anni stabilito dall'[art. 21 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
+Solo per le invalidita' dipendenti esclusivamente e direttamente da ferite o lesioni riportate in combattimento e' ammessa la domanda di aggravamento oltre il termine di cinque anni stabilito dall'[art. 21 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 ## Art. 8.
 
-Le disposizioni dell'art. 24, ultimo comma, e dei primi quattro comma dell'[art. 35 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono estese a favore delle vedove e della prole dei militari mutilati o invalidi di guerra per una infermita' ascrivibile alle categorie dalla quinta all'ottava della tabella A, annessa al decreto stesso. 
+Le disposizioni dell'art. 24, ultimo comma, e dei primi quattro comma dell'[art. 35 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sono estese a favore delle vedove e della prole dei militari mutilati o invalidi di guerra per una infermita' ascrivibile alle categorie dalla quinta all'ottava della tabella A, annessa al decreto stesso. 
  
  L'ultimo comma dell'art. 66 del citato Regio decreto non si applica quando l'evento di servizio siasi verificato anteriormente all'entrata in vigore del decreto medesimo.
 
@@ -64,27 +64,27 @@ Ai soli effetti del mantenimento del diritto ad assegno alimentare, per i padri 
  
  Agli effetti della riduzione, di cui al terzultimo comma del citato art. 37, non si tiene conto dei figli maschi, e, qualora si tratti di collaterali, dei fratelli ammogliati o con prole minorenne legittima o naturale, o comunque menomati nella loro capacita' lavorativa. 
  
- Si considerano menomati nella capacita' lavorativa i mutilati e gl'invalidi provvisti di pensione od assegno di guerra per invalidita' elencate nella tabella A annessa al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
+ Si considerano menomati nella capacita' lavorativa i mutilati e gl'invalidi provvisti di pensione od assegno di guerra per invalidita' elencate nella tabella A annessa al [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  Le disposizioni del 3°, 4° e 5° comma dell'art. 37 del R. decreto suindicato, non si applicano al genitore che si trovi nelle condizioni di cui al successivo art. 43.
 
 ## Art. 10.
 
-Nessun assegno o pensione di guerra puo' essere ridotto o revocato per miglioramento o per guarigione, se il mutilato o invalido non venga prima sottoposto a nuovi accertamenti sanitari, da eseguirsi a norma degli [articoli 56](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [57 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
+Nessun assegno o pensione di guerra puo' essere ridotto o revocato per miglioramento o per guarigione, se il mutilato o invalido non venga prima sottoposto a nuovi accertamenti sanitari, da eseguirsi a norma degli [articoli 56](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [57 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 ## Art. 11.
 
 Ai militari affetti da infermita' di nona categoria e' conservato il diritto all'assegno temporaneo di cui al [decreto Luogotenenziale 24 aprile 1919, n. 764](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-24;764). Tale assegno e' ridotto alla meta' quando non concorrano le condizioni richieste per la liquidazione di assegno privilegiato di guerra, ed e' concesso sino a tutto l'esercizio finanziario 1924-25, salvo successive disposizioni. 
  
- Il trattamento complessivo non potra' in nessun caso superare l'importo dell'assegno di ottava categoria, di cui alle tabelle annesse al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e le eventuali riduzioni saranno effettuate sull'assegno temporaneo predetto.
+ Il trattamento complessivo non potra' in nessun caso superare l'importo dell'assegno di ottava categoria, di cui alle tabelle annesse al [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e le eventuali riduzioni saranno effettuate sull'assegno temporaneo predetto.
 
 ## Art. 12.
 
-L'assegno supplementare di cura, di cui all'[art. 17 del Regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' concesso anche nei casi di infermita' tubercolari sospette, finche' tali.
+L'assegno supplementare di cura, di cui all'[art. 17 del Regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' concesso anche nei casi di infermita' tubercolari sospette, finche' tali.
 
 ## Art. 13.
 
-Le disposizioni di cui agli articoli precedenti sono applicabili, con effetto dalla data di entrata in vigore del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), per tutti gli eventi di servizio verificatisi anteriormente alla data medesima. 
+Le disposizioni di cui agli articoli precedenti sono applicabili, con effetto dalla data di entrata in vigore del [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), per tutti gli eventi di servizio verificatisi anteriormente alla data medesima. 
  
  I casi definiti in base alle disposizioni del predetto decreto 
  
@@ -92,9 +92,9 @@ Le disposizioni di cui agli articoli precedenti sono applicabili, con effetto da
 
 ## Art. 14.
 
-Le pensioni e gli assegni, di cui al primo ed ultimo comma dell'[art. 69 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), decorrono dalla data dell'evento, se dovuti per ferite o traumi, e dalla prima constatazione sanitaria, se trattasi di infermita'. 
+Le pensioni e gli assegni, di cui al primo ed ultimo comma dell'[art. 69 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), decorrono dalla data dell'evento, se dovuti per ferite o traumi, e dalla prima constatazione sanitaria, se trattasi di infermita'. 
  
- Le pensioni e gli assegni predetti, per il periodo che precede la data del 1° luglio 1923, saranno liquidati nella misura stabilita per i militari del Regio esercito dalle disposizioni anteriori al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
+ Le pensioni e gli assegni predetti, per il periodo che precede la data del 1° luglio 1923, saranno liquidati nella misura stabilita per i militari del Regio esercito dalle disposizioni anteriori al [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md). 
  
  Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, e sara' presentato al Parlamento per la conversione in legge. 
  

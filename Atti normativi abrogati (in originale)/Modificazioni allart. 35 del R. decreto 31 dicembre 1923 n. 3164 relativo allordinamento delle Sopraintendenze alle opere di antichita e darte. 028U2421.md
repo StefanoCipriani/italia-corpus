@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- L'[art. 35 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_35), e' sostituito dal seguente: 
+ L'[art. 35 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' sostituito dal seguente: 
  
  «Gli impiegati appartenenti a ruoli non dipendenti dall'Amministrazione delle antichita' e belle arti non possono prestar servizio ne' come comandati ne' sotto alcun altro titolo presso gli uffici e istituti considerati nel presento decreto». 
  

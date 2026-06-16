@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto il regolamento dei servizi di telecomunicazioni, approvato con [regio decreto 19 luglio 1941 n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
+Visto il regolamento dei servizi di telecomunicazioni, approvato con [regio decreto 19 luglio 1941 n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
-Vista la convenzione stipulata fra l'Amministrazione delle poste e dei telegrafi e la Societa' telefonica telefoni Italia media orientale (Timo) il 24 marzo 1925 e approvata con [regio decreto 23 aprile 1925, n. 507](Approvazione%20della%20Convenzione%20con%20la%20Societa%20telefoni%20Italia%20Media%20Orientale%20per%20la%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%20zona%20terza.%20025U0507.md) Considerata l'opportunita' di estendere temporaneamente, date le condizioni degli impianti telegrafici e telefonici nazionali distrutti o gravemente danneggiati dalla guerra, la trasmissione fonica dei telegrammi sulle linee sociali;
+Vista la convenzione stipulata fra l'Amministrazione delle poste e dei telegrafi e la Societa' telefonica telefoni Italia media orientale (Timo) il 24 marzo 1925 e approvata con [regio decreto 23 aprile 1925, n. 507](../Regi%20decreti/Approvazione%20della%20Convenzione%20con%20la%20Societa%20telefoni%20Italia%20Media%20Orientale%20per%20la%20concessione%20del%20servizio%20telefonico%20ad%20uso%20pubblico%20nella%20zona%20terza.%20025U0507.md) Considerata l'opportunita' di estendere temporaneamente, date le condizioni degli impianti telegrafici e telefonici nazionali distrutti o gravemente danneggiati dalla guerra, la trasmissione fonica dei telegrammi sulle linee sociali;
 
 Considerato che la nominata Societa' telefonica telefoni Italia media orientale (Timo) si e' impegnata di eseguire il predetto servizio di trasmissione fonica a condizioni piu' vantaggiose di quelle che potrebbero risultare dall'applicazione per analogia, dell'art. 237 del Codice postale e delle telecomunicazioni;
 

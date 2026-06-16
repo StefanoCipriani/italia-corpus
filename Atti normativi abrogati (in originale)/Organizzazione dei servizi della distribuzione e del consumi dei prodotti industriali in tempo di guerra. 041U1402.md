@@ -60,7 +60,7 @@ In casi eccezionali e per urgenti necessita' di servizio, il personale inviato i
  
  E' data facolta' di provvedere con ordini di accreditamento al pagamento delle indennita' di missione e degli stipendi al personale addetto, presso i Consigli provinciali delle corporazioni per i servizi della distribuzione e dei consumi dei prodotti industriali, nonche' ai pagamenti in conto di forniture fatte per le esigenze di detti servizi. 
  
- Per quanto riguarda tali forniture sono applicabili le disposizioni del secondo e terzo comma dell'art. 17 della legge 21 giugno 1940-XVIII, n. 856, ed i relativi ordini di accreditamento potranno essere emessi anche oltre i limiti stabiliti dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
+ Per quanto riguarda tali forniture sono applicabili le disposizioni del secondo e terzo comma dell'art. 17 della legge 21 giugno 1940-XVIII, n. 856, ed i relativi ordini di accreditamento potranno essere emessi anche oltre i limiti stabiliti dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
 
 ## Art. 6.
 

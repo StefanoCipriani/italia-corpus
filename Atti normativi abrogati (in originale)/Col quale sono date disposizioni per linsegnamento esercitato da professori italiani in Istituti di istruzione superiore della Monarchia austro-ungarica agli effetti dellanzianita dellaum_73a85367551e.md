@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dei poteri a Noi delegati;
 
-Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e il regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md);
+Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e il regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md);
 
 Udito il Consiglio dei ministri;
 

@@ -22,7 +22,7 @@ Vista la [deliberazione n. 139 in data 4 dicembre 1939](https://www.normattiva.i
 
 Vista la susseguente [deliberazione n. 75 in data 31 agosto 1940](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1940-08-31;75) della stessa Amministrazione provinciale di Taranto, approvata dalla Giunta provinciale amministrativa il 16 ottobre 1940, con la quale si modifica la precedente [deliberazione n. 139, in data 4 dicembre 1939](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1939-12-04;139), rinunciando alla subordinata relativa all'adesione del Consiglio provinciale delle corporazioni e si delibera l'incondizionata rinnovazione del Consorzio provinciale rimboschimento per il decennio 1939-49, fermo restando il contributo annuo di L. 10.000 di cui alla surripetuta precedente deliberazione n. 139;
 
-Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75), e l'[art. 99 del R. decreto 16 maggio 1926, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126#art_99);
+Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75), e l'[art. 99 del R. decreto 16 maggio 1926, n. 1126](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20dei%20R.%20decreto%2030%20dicembre%201923%20n.%203267%20concernente%20il%20riordinamento%20e%20la%20riforma%20della%20legislazione%20in%20materia%20di%20boschi%20e%20di%20terreni%20montani.%20026U1126.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste; Abbiamo decretato e decretiamo:
 

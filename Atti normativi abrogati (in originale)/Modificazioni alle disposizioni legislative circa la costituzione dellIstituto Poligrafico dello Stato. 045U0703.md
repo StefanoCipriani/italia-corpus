@@ -25,7 +25,7 @@ Alla [legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%
  
  4) L'art. 13 e' sostituito dal seguente: 
  «Il Provveditorato generale dello Stato esercitera', a propria cura e spesa, a mezzo di propri funzionari, il controllo sulla fabbricazione della carta da avvalorare e quello sulla stampa e distribuzione degli stampati rappresentativi di valore o soggetti a rigoroso controllo, 
- « Tale disposizione lascia impregiudicato quanto si riferisce alla competenza della Direzione generale del Tesoro e della Banca d'Italia nei riguardi della vigilanza e del controllo sui biglietti di banca e di Stato ai sensi del regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), e successive disposizioni ».
+ « Tale disposizione lascia impregiudicato quanto si riferisce alla competenza della Direzione generale del Tesoro e della Banca d'Italia nei riguardi della vigilanza e del controllo sui biglietti di banca e di Stato ai sensi del regolamento approvato con [R. decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), e successive disposizioni ».
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 275 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, e 3 della Legge in data dell'11 febbraio 1864;
+Visto l'[art. 275 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, e 3 della Legge in data dell'11 febbraio 1864;
 
 Sulla proposizione del Ministro della Guerra; Abbiamo decretato e decretiamo:
 

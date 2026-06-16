@@ -22,9 +22,9 @@ VITTORIO EMANUELE III
  
  Veduto il R. decreto n gennaio 1923, n. 233, col quale fu istituita in Bolzano una scuola tecnica, di tipo comune con annessi due corsi d'istituto tecnico, le cui spese di mantenimento furono poste sino a contraria disposizione a carico dello Stato; 
  
- Considerato che in applicazione del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), a detta scuola fu sostituito un Regio istituto tecnico; 
+ Considerato che in applicazione del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), a detta scuola fu sostituito un Regio istituto tecnico; 
  
- Ritenuto che per effetto del [R. decreto 9 novembre 1923, n. 2974](Convenzioni%20per%20il%20mantenimento%20degli%20istituti%20medi%20distruzione%20nelle%20nuove%20Provincie.%20023U2974.md), le spese di mantenimento di detto istituto continuarono ad essere a carico dello Stato, fermo rimanendo di conseguenza per la Provincia l'esonero dalle spese che avrebbe dovuto assumere, a norma del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e dal contributo di cui al [R. decreto 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md); 
+ Ritenuto che per effetto del [R. decreto 9 novembre 1923, n. 2974](../Regi%20decreti/Convenzioni%20per%20il%20mantenimento%20degli%20istituti%20medi%20distruzione%20nelle%20nuove%20Provincie.%20023U2974.md), le spese di mantenimento di detto istituto continuarono ad essere a carico dello Stato, fermo rimanendo di conseguenza per la Provincia l'esonero dalle spese che avrebbe dovuto assumere, a norma del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e dal contributo di cui al [R. decreto 11 marzo 1923, n. 685](../Regi%20decreti/Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md); 
  
  Ritenuto che sono variate le condizioni che giustificavano il detto provvedimento; 
  
@@ -36,9 +36,9 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Le spese per il mantenimento del Regio istituto tecnico di Bolzano, a cui la Provincia e' tenuta a norma del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), saranno per un triennio, a decorrere dall'anno scolastico 1927-28, sostenute per meta' dallo Stato e per meta' dalla Provincia e resteranno successivamente attribuite per intero alla Provincia a norma del citato [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054). 
+ Le spese per il mantenimento del Regio istituto tecnico di Bolzano, a cui la Provincia e' tenuta a norma del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), saranno per un triennio, a decorrere dall'anno scolastico 1927-28, sostenute per meta' dallo Stato e per meta' dalla Provincia e resteranno successivamente attribuite per intero alla Provincia a norma del citato [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
- Rimane fermo alla Provincia l'esonero dal contributo a cui essa e' tenuta per il Regio istituto tecnico, ai sensi del [R. decreto 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md). 
+ Rimane fermo alla Provincia l'esonero dal contributo a cui essa e' tenuta per il Regio istituto tecnico, ai sensi del [R. decreto 11 marzo 1923, n. 685](../Regi%20decreti/Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge, ed e' autorizzata la presentazione del relativo disegno di legge. 
  

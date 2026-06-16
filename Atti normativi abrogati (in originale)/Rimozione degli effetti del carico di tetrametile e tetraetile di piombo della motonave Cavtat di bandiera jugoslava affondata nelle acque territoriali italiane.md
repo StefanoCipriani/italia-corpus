@@ -24,11 +24,11 @@ Il Ministro per la marina mercantile e' autorizzato ad affidare ad imprese itali
 ## Art. 2.
 
 Per le spese derivanti dalle disposizioni di cui all'articolo 1, nonche' per quelle di funzionamento della commissione ivi prevista, e' autorizzata l'istituzione di un apposito capitolo nello stato di previsione della spesa del Ministero della marina mercantile, con uno stanziamento di lire 5.000 milioni per l'anno 1977 e di lire 5.000 milioni per l'anno 1978.
- Alle spese in questione si applicano le disposizioni contenute nel [terzo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com3), sulla contabilita' generale dello Stato, e successive modificazioni.
+ Alle spese in questione si applicano le disposizioni contenute nel [terzo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato, e successive modificazioni.
 
 ## Art. 3.
 
-Le cose che saranno recuperate nel corso dei lavori di cui articolo 1 saranno acquisite allo Stato e il Ministero della marina mercantile provvedera' alla loro custodia ed alla eventuale vendita secondo le norme stabilite dagli articoli 456 e 458 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
+Le cose che saranno recuperate nel corso dei lavori di cui articolo 1 saranno acquisite allo Stato e il Ministero della marina mercantile provvedera' alla loro custodia ed alla eventuale vendita secondo le norme stabilite dagli articoli 456 e 458 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
  Le somme ricavate verranno versate alle entrate del bilancio dello Stato con imputazione al capo 23, capitolo 3650, riguardante "Entrate eventuali e diverse concernenti il Ministero della marina mercantile".
 
 ## Art. 4.

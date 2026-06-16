@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 8 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8);
+Visto l'[art. 8 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Visto il regolamento per i servizi ad economia delle Direzioni dei lavori nei Regi arsenali e cantieri marittimi, approvato coi Regi decreti 28 maggio 1908 e [13 luglio 1911, numeri 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-07-13;292) e [817](Che%20modifica%20il%20regolamento%20per%20i%20servizi%20ad%20economia%20delle%20direzioni%20dei%20lavori%20nei%20RR.%20arsenali%20e%20cantieri%20marittimi.%20011U0817.md);
 

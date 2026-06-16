@@ -24,7 +24,7 @@ Le attribuzioni relative alla marina mercantile, all'esercizio della navigazione
  
  3. La Direzione generale d'aeronautica, conservando, in via provvisoria, il personale che attualmente ne fa parte, giusta il [R. decreto 25 gennaio 1920, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-25;64). 
  
- 4. Fino a che diversamente non sara' provveduto, la Direzione generale dei combustibili, istituita con l'[art. 1 del R. decreto 2 settembre 1919, n. 1587](Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md), la quale conservera', in via provvisoria, il personale che attualmente si trova ad essa addetto. Alla medesima sono aggregati anche gli uffici relativi ai combustibili liquidi esistenti presso il Ministero del tesoro e quello della guerra.
+ 4. Fino a che diversamente non sara' provveduto, la Direzione generale dei combustibili, istituita con l'[art. 1 del R. decreto 2 settembre 1919, n. 1587](../Regi%20decreti/Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md), la quale conservera', in via provvisoria, il personale che attualmente si trova ad essa addetto. Alla medesima sono aggregati anche gli uffici relativi ai combustibili liquidi esistenti presso il Ministero del tesoro e quello della guerra.
 
 ## Art. 3.
 
@@ -32,7 +32,7 @@ Nelle assegnazioni di combustibili, il ministro dell'industria dara' la preferen
 
 ## Art. 4.
 
-La Direzione generale per la ricostruzione del naviglio ed il Segretariato generale istituiti con l'[art. 2 del R. decreto 2 settembre 1919, n. 1587](Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md), sono soppressi.
+La Direzione generale per la ricostruzione del naviglio ed il Segretariato generale istituiti con l'[art. 2 del R. decreto 2 settembre 1919, n. 1587](../Regi%20decreti/Che%20provvede%20al%20riordinamento%20del%20Ministero%20per%20i%20trasporti%20marittimi%20e%20ferroviari.%20019U1587.md), sono soppressi.
 
 ## Art. 5.
 
@@ -56,7 +56,7 @@ Salvo per quanto dispongono l'art. 1 capoverso ultimo e gli articoli 7 e 8, l'ap
 
 ## Art. 9.
 
-Il ruolo speciale del personale ferroviario addetto al Ministero per i trasporti, istituito col [R. decreto 4 gennaio 1920, n. 27](Che%20approva%20la%20tabella%20organica%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20distaccato%20presso%20il%20Ministro%20dei%20trasporti.%20020U0027.md), e' soppresso.
+Il ruolo speciale del personale ferroviario addetto al Ministero per i trasporti, istituito col [R. decreto 4 gennaio 1920, n. 27](../Regi%20decreti/Che%20approva%20la%20tabella%20organica%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20distaccato%20presso%20il%20Ministro%20dei%20trasporti.%20020U0027.md), e' soppresso.
 
 ## Art. 10.
 
@@ -84,7 +84,7 @@ Con decreti Reali, da promuoversi dai competenti ministri, di concerto con quell
 
 ## Art. 14.
 
-E' abrogato il [R. decreto 27 novembre 1919, n. 2460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2460). Sono parimenti abrogati i primi tre articoli del [R. decreto 4 gennaio 1920, n. 27](Che%20approva%20la%20tabella%20organica%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20distaccato%20presso%20il%20Ministro%20dei%20trasporti.%20020U0027.md) ed ogni altra disposizione contraria a quelle del presente decreto.
+E' abrogato il [R. decreto 27 novembre 1919, n. 2460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2460). Sono parimenti abrogati i primi tre articoli del [R. decreto 4 gennaio 1920, n. 27](../Regi%20decreti/Che%20approva%20la%20tabella%20organica%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20distaccato%20presso%20il%20Ministro%20dei%20trasporti.%20020U0027.md) ed ogni altra disposizione contraria a quelle del presente decreto.
 
 ## Art. 15.
 

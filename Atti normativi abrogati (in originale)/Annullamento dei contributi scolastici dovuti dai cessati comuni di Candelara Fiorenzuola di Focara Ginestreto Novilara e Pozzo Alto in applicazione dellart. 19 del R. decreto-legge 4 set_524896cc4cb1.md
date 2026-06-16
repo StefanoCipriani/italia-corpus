@@ -18,7 +18,7 @@ Veduto il [R. decreto 13 ottobre 1927, n. 2746](Determinazione%20dei%20contribut
 
 Veduto che a carico dei comuni di Candelara, Fiorenzuola di Focara, Ginestreto, Novilara e Pozzo Alto furono rispettivamente liquidate le annue somme di L. 2400, L. 2000, L. 1200, L. 1200 e L. 1200;
 
-Veduto il [R. decreto 25 febbraio 1929, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-25;285), col quale gli enti predetti furono aggregati al comune di Pesaro;
+Veduto il [R. decreto 25 febbraio 1929, n. 285](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Candelara%20Fiorenzuola%20di%20Focara%20Ginestreto%20Novilara%20e%20Pozzo%20Alto%20al%20comune%20di%20Pesaro.%20029U0285.md), col quale gli enti predetti furono aggregati al comune di Pesaro;
 
 Considerato che, in conseguenza della citata variazione territoriale, gl'insegnanti elementari degli enti stessi passarono alla diretta dipendenza del comune di Pesaro a decorrere dal 1° agosto 1929;
 

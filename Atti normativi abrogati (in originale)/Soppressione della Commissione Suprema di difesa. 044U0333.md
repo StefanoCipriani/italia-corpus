@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 20 dicembre 1923; n. 2957](Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md);
+Visto il [R. decreto 20 dicembre 1923; n. 2957](../Regi%20decreti/Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md);
 
 Vista la [legge 21 maggio 1940, n. 416](Ordinamento%20e%20compiti%20della%20Commissione%20Suprema%20di%20difesa.%20040U0416.md);
 

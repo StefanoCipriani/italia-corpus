@@ -36,7 +36,7 @@ Pel mantenimento delle opere idrauliche indicate nell'art. 1 della presente legg
 
 ## Art. 5.
 
-Dall'elenco annesso al [Regio decreto 29 agosto 1875, numero 2693](Col%20quale%20sono%20classificate%20le%20opere%20idrauliche%20di%20seconda%20categoria%20nelle%20provincie%20venete.%20075U2693.md), il quale fu confermato con legge addi' 9 luglio 1876, numero 3200, sono escluse le seguenti iscrizioni di opere idrauliche: 
+Dall'elenco annesso al [Regio decreto 29 agosto 1875, numero 2693](../Regi%20decreti/Col%20quale%20sono%20classificate%20le%20opere%20idrauliche%20di%20seconda%20categoria%20nelle%20provincie%20venete.%20075U2693.md), il quale fu confermato con legge addi' 9 luglio 1876, numero 3200, sono escluse le seguenti iscrizioni di opere idrauliche: 
  
  a) Provincia di Verona: torrente Mezzane; argini e sponda a destra e sinistra, dalla sua confluenza con l'Illasi fino al ponte della ferrovia; 
  

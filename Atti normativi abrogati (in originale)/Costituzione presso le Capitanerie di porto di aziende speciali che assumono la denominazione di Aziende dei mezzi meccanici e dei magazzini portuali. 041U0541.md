@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visti gli articoli 122 e seguenti del regolamento per la esecuzione della legge sui porti, spiaggie e fari, approvato col [R. decreto 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-09-26;713);
+Visti gli articoli 122 e seguenti del regolamento per la esecuzione della legge sui porti, spiaggie e fari, approvato col [R. decreto 26 settembre 1904, n. 713](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%202%20aprile%201885%20testo%20unico%20n.%203095%20sui%20porti%20spiaggie%20e%20fari.%20004U0713.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

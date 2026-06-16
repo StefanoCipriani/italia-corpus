@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti la [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), sulla protezione ed assistenza degli invalidi di guerra, ed il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulle pensioni di guerra;
+Visti la [legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), sulla protezione ed assistenza degli invalidi di guerra, ed il [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulle pensioni di guerra;
 
-Visti il testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), ed il successivo [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), che reca in materia nuovi provvedimenti;
+Visti il testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), ed il successivo [R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), che reca in materia nuovi provvedimenti;
 
 Udito il Consiglio dei Ministri;
 
@@ -24,13 +24,13 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto col Minist
 
 ## Art. 1.
 
-Gli istituti di credito che otterranno l'autorizzazione di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), dovranno riservare una parte, da determinarsi dal Ministero dell'economia nazionale, delle somme destinate alla concessione, dei mutui ipotecari, di cui al decreto medesimo, per la concessione, ad invalidi di guerra, di mutui ipotecari ammortizzabili in venticinque anni, per l'acquisto di fondi rustici del valore di stima non superiore alle L. 20,000. 
+Gli istituti di credito che otterranno l'autorizzazione di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), dovranno riservare una parte, da determinarsi dal Ministero dell'economia nazionale, delle somme destinate alla concessione, dei mutui ipotecari, di cui al decreto medesimo, per la concessione, ad invalidi di guerra, di mutui ipotecari ammortizzabili in venticinque anni, per l'acquisto di fondi rustici del valore di stima non superiore alle L. 20,000. 
  
  Gli istituti concederanno i mutui agli invalidi per la totalita' di detto valore.
 
 ## Art. 2.
 
-I mutui di cui al presente decreto saranno concessi solo ad invalidi titolari di una pensione di guerra vitalizia, confermata dal Ministero delle finanze agli effetti del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), che siano lavoratori agricoli o coltivatori diretti della terra ed appartengano a famiglie di lavoratori agricoli o di coltivatori diretti della terra. 
+I mutui di cui al presente decreto saranno concessi solo ad invalidi titolari di una pensione di guerra vitalizia, confermata dal Ministero delle finanze agli effetti del [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), che siano lavoratori agricoli o coltivatori diretti della terra ed appartengano a famiglie di lavoratori agricoli o di coltivatori diretti della terra. 
  
  Sono esclusi gli invalidi i quali paghino per imposta fondiaria erariale una somma annua superiore a L. 100.
 
@@ -56,7 +56,7 @@ Le norme per la concessione dei benefici, di cui al presente decreto, ai singoli
 
 Per le operazioni di credito, di cui al presente decreto, valgono, in quanto applicabili, le norme vigenti per i mutui per acquisto di terreno allo scopo di costituire la piccola proprieta' coltivatrice. 
  
- Alle garanzie previste dal testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), e' aggiunta quella sulla pensione, di cui l'invalido e' fornito, a termini dell'[art. 21 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), per un importo non superiore ad un terzo della pensione medesima.
+ Alle garanzie previste dal testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), e' aggiunta quella sulla pensione, di cui l'invalido e' fornito, a termini dell'[art. 21 della legge 25 marzo 1917, n. 481](Che%20istituisce%20un%20ente%20denominato%20Opera%20nazionale%20per%20la%20protezione%20ed%20assistenza%20degli%20invalidi%20della%20guerra.%20017U0481.md), per un importo non superiore ad un terzo della pensione medesima.
 
 ## Art. 7.
 

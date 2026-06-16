@@ -18,7 +18,7 @@ Dei predetti novantacinquemila uomini, trentamila contrarranno la ferma di anni 
 
 ## Art. 3.
 
-Per l'esecuzione di quanto prescrive l'articolo 10 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto del 6 agosto 1888, num. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md), (Serie 3ª); il contingente di 1ª categoria assegnato alle singole provincie della Venezia ed a quella di Mantova sara' suddiviso fra i distretti amministrativi che le compongono. 
+Per l'esecuzione di quanto prescrive l'articolo 10 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto del 6 agosto 1888, num. 5655](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md), (Serie 3ª); il contingente di 1ª categoria assegnato alle singole provincie della Venezia ed a quella di Mantova sara' suddiviso fra i distretti amministrativi che le compongono. 
  
  Il distretto amministrativo vi rappresenta il mandamento per gli effetti contemplati nel citato testo unico delle leggi sul reclutamento. 
  

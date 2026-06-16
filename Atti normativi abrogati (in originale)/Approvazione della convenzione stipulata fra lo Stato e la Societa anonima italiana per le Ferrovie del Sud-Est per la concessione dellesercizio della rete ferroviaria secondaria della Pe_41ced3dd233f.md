@@ -29,7 +29,7 @@ E' approvata e resa esecutoria la convenzione stipulata il 14 ottobre 1931-IX fr
 ## Art. 2.
 
 L'art. 2 della legge di approvazione dello stato di previsione della spesa del Ministero delle comunicazioni per l'esercizio 1931-32 e' cosi' modificato: 
- « Il limite d'impegno per l'esercizio finanziario 1931-32 per le sovvenzioni chilometriche, per le costruzioni ed esercizio di ferrovie concesse all'industria privata, di cui all'articolo 32 del testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), nonche' per le sovvenzioni di esercizio necessarie per la sistemazione delle aziende ferroviarie in gestione commissariale e' fissato in L. 5.000.000 ».
+ « Il limite d'impegno per l'esercizio finanziario 1931-32 per le sovvenzioni chilometriche, per le costruzioni ed esercizio di ferrovie concesse all'industria privata, di cui all'articolo 32 del testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), nonche' per le sovvenzioni di esercizio necessarie per la sistemazione delle aziende ferroviarie in gestione commissariale e' fissato in L. 5.000.000 ».
 
 ## Art. 3.
 

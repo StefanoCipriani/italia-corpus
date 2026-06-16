@@ -42,7 +42,7 @@ All'eseguimento di tutti i trasporti per ferrovia di persone e di cose provvedon
 
 ## Art. 2.
 
-Chiunque, con qualsiasi mezzo, si procuri una indebita fornitura di carri ferroviari od una illecita precedenza nella graduatoria di carico o comunque contravvenga agli ordini dell'autorita' competente per regolare il servizio dei trasporti, e' punito con l'ammenda da L. 200 a L. 2000, senza pregiudizio delle maggiori pene previste dai [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque, con qualsiasi mezzo, si procuri una indebita fornitura di carri ferroviari od una illecita precedenza nella graduatoria di carico o comunque contravvenga agli ordini dell'autorita' competente per regolare il servizio dei trasporti, e' punito con l'ammenda da L. 200 a L. 2000, senza pregiudizio delle maggiori pene previste dai [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Chiunque, dopo aver chiesto ed ottenuto un carro non proceda al carico, nei termini stabiliti incorrre in una penale straordinaria di L. 50 oltre la perdita della caparra.
 

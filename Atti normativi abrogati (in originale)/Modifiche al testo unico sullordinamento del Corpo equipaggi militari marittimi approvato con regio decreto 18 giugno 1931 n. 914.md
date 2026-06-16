@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Il Ministero della difesa ha facolta' di bandire arruolamenti volontari a premio con ferma di anni sei nel Corpo equipaggi militari marittimi (C.E.M M.).
- Per gli arruolamenti volontari si osservano le norme del testo unico, approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
+ Per gli arruolamenti volontari si osservano le norme del testo unico, approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
  Agli arruolati sono applicabili, in quanto non contrarie e non modificate dalla presente legge, tutte le disposizioni riguardanti il personale volontario a premio previsto dal citato testo unico e successive modificazioni, comprese quelle relative alla frequenza del corso ordinario, la cui durata per ciascuna categoria e specialita' e' stabilita dal Ministero della difesa.
 
 ## Art. 2.
@@ -114,7 +114,7 @@ Per l'avanzamento dei volontari del Corpo equipaggi militari marittimi, categori
 
 ## Art. 17.
 
-I sottufficiali del Corpo equipaggi militari marittimi, categoria segnalatori, specialita' semaforisti, sono esentati, agli effetti dell'avanzamento, dall'obbligo dell'imbarco prescritto dall'art. 66 del testo unico sull'ordinamento del Corpo equipaggi militari marittimi, approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
+I sottufficiali del Corpo equipaggi militari marittimi, categoria segnalatori, specialita' semaforisti, sono esentati, agli effetti dell'avanzamento, dall'obbligo dell'imbarco prescritto dall'art. 66 del testo unico sull'ordinamento del Corpo equipaggi militari marittimi, approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
 
 ## Art. 18.
 
@@ -122,7 +122,7 @@ E' fatta salva la facolta' dell'Amministrazione di imbarcare il personale del Co
 
 ## Art. 19.
 
-Alla tabella A dell'art. 66 del testo unico delle disposizioni legislative riguardanti l'ordinamento del C.E.M.M., approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono apportate le seguenti varianti:
+Alla tabella A dell'art. 66 del testo unico delle disposizioni legislative riguardanti l'ordinamento del C.E.M.M., approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono apportate le seguenti varianti:
  I. - Nella colonna 6, la parte relativa all'avanzamento da capo di 3ª classe a capo di 2ª classe e' cosi' sostituita:
  "Il Ministro per la difesa fissa di volta in volta la aliquota dei capi di 3ª classe di ciascuna categoria e specialita' da scrutinare per la formazione del quadro di avanzamento a capo di 2ª classe, tenendo conto delle vacanze prevedibili fino al 31 dicembre dell'anno successivo. In nessun caso il numero dei capi di 3ª classe da scrutinare puo' essere inferiore a due per ciascuna categoria o specialita'".
  II. - Nella colonna 6, la parte relativa all'avanzamento da capo di 2ª classe a capo di 1ª classe e' cosi' sostituita:
@@ -158,7 +158,7 @@ Salva l'osservanza delle disposizioni per le assunzioni degli invalidi di guerra
 ## Art. 25.
 
 I volontari del C.E.M.M. che, alla data di entrata in vigore della presente legge, si trovino vincolati alla ferma volontaria a premio di anni cinque, di cui all'[art. 5 del decreto-legge 1 luglio 1938, n. 1368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1938-07-01;1368#art_5), convertito nella [legge 9 gennaio 1939, n. 216](Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201938-XVI%20n.%201368%20che%20porta%20modificazioni%20allordinamento%20del%20Corpo%20Reale%20Equipaggi%20Marittimi%20ed%20allo%20stato%20giuridico%20dei%20sottufficiali%20de_6ede12b6d673.md), possono chiedere la commutazione di tale ferma in quella di anni sei di cui all'art. 1 della presente legge e a tal fine sara' computato in aggiunta alla ferma quinquennale il periodo di otto mesi di frequenza del corso ordinario. Le domande devono essere presentate almeno tre mesi prima del termine della ferma di anni cinque o nel minor periodo intercorrente tra l'entrata in vigore della presente legge e il compimento della ferma stessa.
- I volontari vincolati alla ferma di anni cinque che non chiedano la commutazione di ferma o che, avendola chiesta, non l'ottengano conseguono la qualifica di comune di prima classe e l'avanzamento a sottocapo secondo le disposizioni contenute nel testo unico approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
+ I volontari vincolati alla ferma di anni cinque che non chiedano la commutazione di ferma o che, avendola chiesta, non l'ottengano conseguono la qualifica di comune di prima classe e l'avanzamento a sottocapo secondo le disposizioni contenute nel testo unico approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
 Compiuta la ferma di anni cinque, sono congedati con il grado di sottocapo.
 
 ## Art. 26.
@@ -169,7 +169,7 @@ Ai volontari spuntati della ferma di anni cinque e ai sergenti vincolati alla fe
 
 ## Art. 27.
 
-Sono abrogate, nelle parti regolate dalla presente legge o con questa in contrasto o incompatibili, le disposizioni contenute nel testo unico approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
+Sono abrogate, nelle parti regolate dalla presente legge o con questa in contrasto o incompatibili, le disposizioni contenute nel testo unico approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni.
  E' pure abrogata ogni altra disposizione contraria alla presente legge o con essa incompatibile.
 
 ## Art. 28.

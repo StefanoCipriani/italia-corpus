@@ -86,7 +86,7 @@ Ai beni di qualsiasi natura di proprieta' dello Stato non si applicano le dispos
 
 ## Art. 10.
 
-Il comune di Milano e' autorizzato ad imporre ai proprietari dei beni confinanti e contigui, che siano avvantaggiati dalla attuazione del piano regolatore, approvato con la presente legge, i contributi stabiliti dall'[art 77 e seguenti, della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e con le modalita' di applicazione e di esazione stabilite dalla legge stessa ed agli altri beni comunque avvantaggiati i contributi miglioria di cui agli articoli 236 e seguenti del testo unico dalla legge Sulla finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
+Il comune di Milano e' autorizzato ad imporre ai proprietari dei beni confinanti e contigui, che siano avvantaggiati dalla attuazione del piano regolatore, approvato con la presente legge, i contributi stabiliti dall'[art 77 e seguenti, della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e con le modalita' di applicazione e di esazione stabilite dalla legge stessa ed agli altri beni comunque avvantaggiati i contributi miglioria di cui agli articoli 236 e seguenti del testo unico dalla legge Sulla finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
 
 ## Art. 11.
 

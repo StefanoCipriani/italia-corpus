@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656), che istituisce la medaglia d'onore per lunga navigazione compiuta, modificato dal [R. decreto 29 dicembre 1910, n. 928](Che%20sostituisce%20lart.%203%20del%20decreto%20riflettente%20la%20istituzione%20della%20medaglia%20donore%20per%20lunga%20navigazione.%20010U0928.md), dal [decreto Luogotenenziale 31 ottobre 1918, n. 1846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-31;1846), e dal [R. decreto 24 settembre 1931, n. 1273](Modifiche%20al%20R.%20decreto%2027%20novembre%201904%20n.%20656%20relativo%20al%20conferimento%20ai%20marittimi%20della%20medaglia%20donore%20di%20lunga%20navigazione.%20031U1273.md);
+Visto il [R. decreto 27 novembre 1904, n. 656](../Regi%20decreti/Che%20istituisce%20una%20medaglia%20donore%20per%20lunga%20navigazione%20compiuta.%20004U0656.md), che istituisce la medaglia d'onore per lunga navigazione compiuta, modificato dal [R. decreto 29 dicembre 1910, n. 928](../Regi%20decreti/Che%20sostituisce%20lart.%203%20del%20decreto%20riflettente%20la%20istituzione%20della%20medaglia%20donore%20per%20lunga%20navigazione.%20010U0928.md), dal [decreto Luogotenenziale 31 ottobre 1918, n. 1846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-31;1846), e dal [R. decreto 24 settembre 1931, n. 1273](../Regi%20decreti/Modifiche%20al%20R.%20decreto%2027%20novembre%201904%20n.%20656%20relativo%20al%20conferimento%20ai%20marittimi%20della%20medaglia%20donore%20di%20lunga%20navigazione.%20031U1273.md);
 
 Visto l'[art. 1, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -70,7 +70,7 @@ Non possono ottenere la medaglia d'onore per lunga navigazione, e, avendola otte
 
 ## Art. 6.
 
-Sono abrogati il [Regio decreto 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656), e le successive modificazioni. 
+Sono abrogati il [Regio decreto 27 novembre 1904, n. 656](../Regi%20decreti/Che%20istituisce%20una%20medaglia%20donore%20per%20lunga%20navigazione%20compiuta.%20004U0656.md), e le successive modificazioni. 
  
  I decorati della medaglia d'onore di lunga navigazione conferita sotto l'impero delle disposizioni che vengono abrogate, possono ottenere, a loro domanda,in commutazione di tale decorazione, la medaglia d'onore di lunga navigazione di 1° grado prevista dal presente decreto.
 

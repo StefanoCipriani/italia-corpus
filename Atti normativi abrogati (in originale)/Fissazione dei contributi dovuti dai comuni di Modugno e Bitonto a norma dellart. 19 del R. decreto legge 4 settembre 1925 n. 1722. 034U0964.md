@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 settembre 1928, n. 2133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-06;2133), col quale le frazioni Palese del comune di Modugno e S. Spirito del comune di Bitonto, furono aggregate al comune di Bari;
+Veduto il [R. decreto 6 settembre 1928, n. 2133](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Bari%20delle%20frazioni%20Palese%20del%20comune%20di%20Modugno%20e%20Santo%20Spirito%20del%20comune%20di%20Bitonto%20nonche%20della%20parte%20di%20questultima%20frazione%20situata%20nel%20territorio%20del%20comu_72e8247af4ab.md), col quale le frazioni Palese del comune di Modugno e S. Spirito del comune di Bitonto, furono aggregate al comune di Bari;
 
 Veduto il [R. decreto 13 gennaio 1927, n. 301](Approvazione%20dei%20contributi%20scolastici%20dovuti%20dai%20Comuni%20delle%20provincie%20di%20Bari%20Foggia%20Lecce%20e%20Taranto%20per%20il%20quinquennio%201%20aprile%201925-31%20marzo%201930%20in%20esecuzione%20dellart.%2019%20del%20R.%20dec_cde39c35caef.md), col quale furono determinati in L. 29.600 ed in L. 12.000 i corrispondenti contributi che i comuni di Bitonto e Modugno devono versare a norma dell'[art. 19 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md), per il periodo 1° aprile 1925-31 marzo 1930;
 

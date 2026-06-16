@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sui pesi e sulle misure approvato con [R. decreto in data 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi sui pesi e sulle misure approvato con [R. decreto in data 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
-Visto il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare approvato con [R. decreto in data 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226).
+Visto il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare approvato con [R. decreto in data 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md).
 
 Sentito il parere conforme della Commissione superiore metrica e del saggio delle monete e dei metalli preziosi;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'indu
 
 ## Art. 1.
 
-L'art. 40 del regolamento per la fabbricazione dei pesi e delle misure e degli strumenti per pesare e per misurare, approvato con [R. decreto in data 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226), e' abrogato e sostituito dal seguente: 
+L'art. 40 del regolamento per la fabbricazione dei pesi e delle misure e degli strumenti per pesare e per misurare, approvato con [R. decreto in data 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md), e' abrogato e sostituito dal seguente: 
  
  Art. 40. - I misuratori a liquido devono essere provveduti di acconci apparecchi perche' si interrompa automaticamente l'efflusso del gas ogni qualvolta si aggiunga o si tolga una tale quantita' di liquido, che produca, nell'indicazione, un errore in piu' o in meno uguale o maggiore del 4 per cento per i misuratori che erogano non meno di 2400 litri di gas all'ora (20 becchi) e uguale o maggiore del 5 per cento per quelli di portata inferiore e cio' quando il misuratore si trovi nella posizione normale. 
  

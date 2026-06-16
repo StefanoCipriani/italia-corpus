@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 18 marzo 1928, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-18;701), in virtu' del quale il comune di Fosseno e' stato soppresso ed il relativo territorio aggregato a quello di Nebbiuno; 
+ Visto il [R. decreto 18 marzo 1928, n. 701](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Ghevio%20a%20quello%20di%20Meina%20del%20comune%20di%20Fosseno%20a%20quello%20di%20Nebbiuno%20e%20riunione%20dei%20comuni%20di%20Colazza%20Corciago%20Pisano%20e%20Tapigliano%20in%20un%20unico%20Comune%20con%20capoluo_7d36c97d3a06.md), in virtu' del quale il comune di Fosseno e' stato soppresso ed il relativo territorio aggregato a quello di Nebbiuno; 
  
  Vista la deliberazione in data 20 maggio 1928 del podesta' del comune di Nebbiuno, tendente ad ottenere la soppressione dell'ufficio di conciliazione del predetto ex comune; 
  

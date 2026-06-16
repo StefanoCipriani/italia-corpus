@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), istitutivo della imposta complementare progressiva sul reddito;
+Visto il [R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), istitutivo della imposta complementare progressiva sul reddito;
 
 Visto il [R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), concernente sgravi ed agevolazioni varie in materia di imposte dirette, convertito nella [legge 17 maggio 1928, n. 1122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201463%20col%20quale%20si%20dispongono%20sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20028U1122.md);
 

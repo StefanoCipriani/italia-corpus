@@ -14,19 +14,19 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il nuovo testo unico delle leggi sul servizio postale, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
+Visto il nuovo testo unico delle leggi sul servizio postale, approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
 
-Visto il regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
+Visto il regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
-Visto il [R. decreto 17 dicembre 1922, n. 1638](Che%20apporta%20modificazioni%20alle%20vigenti%20tariffe%20postali.%20022U1638.md);
+Visto il [R. decreto 17 dicembre 1922, n. 1638](../Regi%20decreti/Che%20apporta%20modificazioni%20alle%20vigenti%20tariffe%20postali.%20022U1638.md);
 
-Visto il [R. decreto 27 settembre 1923, n. 2187](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%208%20febbraio%201923%20n.%20327%20relativo%20alla%20tariffa%20speciale%20per%20i%20pacchi%20postali%20contenenti%20libri%20spediti%20da%20case%20editrici%20e%20da%20case%20librarie.%20023U2187.md);
+Visto il [R. decreto 27 settembre 1923, n. 2187](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%208%20febbraio%201923%20n.%20327%20relativo%20alla%20tariffa%20speciale%20per%20i%20pacchi%20postali%20contenenti%20libri%20spediti%20da%20case%20editrici%20e%20da%20case%20librarie.%20023U2187.md);
 
 Visto il [R. decreto-legge 1° maggio 1924, n. 768](Tariffe%20postali%20per%20la%20spedizione%20del%20materiale%20propagandistico.%20024U0768.md), convertito nella [legge 10 dicembre 1925, n. 2211](Conversione%20in%20legge%20del%20R.%20decreto%201%20maggio%201924%20n.%20768%20che%20stabilisce%20nuove%20tariffe%20per%20la%20spedizione%20del%20materiale%20di%20propaganda.%20025U2211.md);
 
 Visto il [R. decreto-legge 19 febbraio 1925, n. 196](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
-Visto il [R. decreto 9 luglio 1926, n. 1381](Sopratassa%20speciale%20per%20il%20trasporto%20degli%20oggetti%20postali%20sulle%20linee%20di%20navigazione%20aerea.%20026U1381.md);
+Visto il [R. decreto 9 luglio 1926, n. 1381](../Regi%20decreti/Sopratassa%20speciale%20per%20il%20trasporto%20degli%20oggetti%20postali%20sulle%20linee%20di%20navigazione%20aerea.%20026U1381.md);
 
 Visto il [R. decreto-legge 12 maggio 1927, n. 837](Riduzione%20delle%20tariffe%20postali%20e%20telefoniche.%20027U0837.md);
 

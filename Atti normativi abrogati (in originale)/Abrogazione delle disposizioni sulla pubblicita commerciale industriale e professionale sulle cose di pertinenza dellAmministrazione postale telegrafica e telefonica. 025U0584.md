@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi postali, approvato non [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
+Visto il testo unico delle leggi postali, approvato non [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
 
-Visto il [R. decreto 8 febbraio 1923, n. 356](Contenente%20le%20norme%20per%20la%20pubblicita%20commerciale%20industriale%20e%20professionale%20sugli%20stampati%20moduli%20pubblicazioni%20e%20carte%20valori%20postali%20dellAmministrazione%20P.%20T.%20T.%20023U0356.md), concernente il servizio della pubblicita' commerciale, industriale e professionale affidato all'Amministrazione postale, telegrafica e telefonica;
+Visto il [R. decreto 8 febbraio 1923, n. 356](../Regi%20decreti/Contenente%20le%20norme%20per%20la%20pubblicita%20commerciale%20industriale%20e%20professionale%20sugli%20stampati%20moduli%20pubblicazioni%20e%20carte%20valori%20postali%20dellAmministrazione%20P.%20T.%20T.%20023U0356.md), concernente il servizio della pubblicita' commerciale, industriale e professionale affidato all'Amministrazione postale, telegrafica e telefonica;
 
-Visto il decreto Ministeriale 16 maggio 1923, registrato alla Corte dei, conti il 6 giugno 1923, registro 16 foglio 63, contenente le norme per la esecuzione del citato [R. decreto 8 febbraio 1923, n. 356](Contenente%20le%20norme%20per%20la%20pubblicita%20commerciale%20industriale%20e%20professionale%20sugli%20stampati%20moduli%20pubblicazioni%20e%20carte%20valori%20postali%20dellAmministrazione%20P.%20T.%20T.%20023U0356.md);
+Visto il decreto Ministeriale 16 maggio 1923, registrato alla Corte dei, conti il 6 giugno 1923, registro 16 foglio 63, contenente le norme per la esecuzione del citato [R. decreto 8 febbraio 1923, n. 356](../Regi%20decreti/Contenente%20le%20norme%20per%20la%20pubblicita%20commerciale%20industriale%20e%20professionale%20sugli%20stampati%20moduli%20pubblicazioni%20e%20carte%20valori%20postali%20dellAmministrazione%20P.%20T.%20T.%20023U0356.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Su proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di con
 
 ## Art. 1.
 
-Il [R. decreto 8 febbraio 1923, n. 356](Contenente%20le%20norme%20per%20la%20pubblicita%20commerciale%20industriale%20e%20professionale%20sugli%20stampati%20moduli%20pubblicazioni%20e%20carte%20valori%20postali%20dellAmministrazione%20P.%20T.%20T.%20023U0356.md), Contenente le norme per la pubblicita' commerciale, industriale e professionale sugli stampati, moduli, pubblicazioni, carte, valori postali e cose dell'Amministrazione postale, telegrafica e telefonica e il decreto Ministeriale 16 maggio 1923, contenente le norme per la esecuzione del citato Regio decreto sono abrogati.
+Il [R. decreto 8 febbraio 1923, n. 356](../Regi%20decreti/Contenente%20le%20norme%20per%20la%20pubblicita%20commerciale%20industriale%20e%20professionale%20sugli%20stampati%20moduli%20pubblicazioni%20e%20carte%20valori%20postali%20dellAmministrazione%20P.%20T.%20T.%20023U0356.md), Contenente le norme per la pubblicita' commerciale, industriale e professionale sugli stampati, moduli, pubblicazioni, carte, valori postali e cose dell'Amministrazione postale, telegrafica e telefonica e il decreto Ministeriale 16 maggio 1923, contenente le norme per la esecuzione del citato Regio decreto sono abrogati.
 
 ## Art. 2.
 

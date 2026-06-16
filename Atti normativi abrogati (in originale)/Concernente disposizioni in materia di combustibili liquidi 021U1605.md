@@ -24,7 +24,7 @@ Tutte le disposizioni dei [decreti Luogotenenziali 7 gennaio 1917, n. 35](https:
  
  Tali disposizioni saranno tuttavia applicabili per il regolamento giuridico degli atti o dei contratti posti in essere sotto il loro impero e per la definizione delle relative controversie. Saranno pure applicabili, per la liquidazione delle gestioni in corso, le norme di contabilita' di cui all'ultimo comma dell'[art. 8 del decreto Luogotenenziale 22 febbraio 1917, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-22;261#art_8). 
  
- Le attribuzioni del Comitato di revisione, istituito con [R. decreto 3 giugno 1920, n. 1023](Che%20istituisce%20presso%20il%20Sottosegretariato%20per%20la%20marina%20mercantile%20combustibili%20ed%20aeronautici%20un%20Comitato%20di%20revisione%20stabilendone%20le%20attribuzioni.%20020U1023.md), restano limitate, per quanto concerne la gestione dei combustibili nazionali, alla liquidazione della gestione stessa.
+ Le attribuzioni del Comitato di revisione, istituito con [R. decreto 3 giugno 1920, n. 1023](../Regi%20decreti/Che%20istituisce%20presso%20il%20Sottosegretariato%20per%20la%20marina%20mercantile%20combustibili%20ed%20aeronautici%20un%20Comitato%20di%20revisione%20stabilendone%20le%20attribuzioni.%20020U1023.md), restano limitate, per quanto concerne la gestione dei combustibili nazionali, alla liquidazione della gestione stessa.
 
 ## Art. 2.
 

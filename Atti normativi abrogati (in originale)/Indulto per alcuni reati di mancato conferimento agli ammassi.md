@@ -32,7 +32,7 @@ Per coloro che hanno emesso di consegnare in tutto o in parte agli ammassi anche
 
 ## Art. 3.
 
-Agli effetti dell'applicazione del condono, di cui all'art 1, non si tiene conto dei precedenti penali ivi compresi quelli indicati nell'[art. 51 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ultimo comma.
+Agli effetti dell'applicazione del condono, di cui all'art 1, non si tiene conto dei precedenti penali ivi compresi quelli indicati nell'[art. 51 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ultimo comma.
 
 ## Art. 4.
 

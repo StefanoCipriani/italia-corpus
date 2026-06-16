@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Con decreto Reale potranno essere istituiti nuovi Regi istituti magistrali maschili, oltre il limite di cui all'[articolo 58 del R. decreto 6 maggio 1923, n.1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_58).
+Con decreto Reale potranno essere istituiti nuovi Regi istituti magistrali maschili, oltre il limite di cui all'[articolo 58 del R. decreto 6 maggio 1923, n.1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 2.
 
@@ -26,11 +26,11 @@ Gli Istituti magistrali possono avere da uno a quattro corsi completi inferiori 
 
 ## Art. 3.
 
-Nei corsi superiori di alcuni Istituti magistrali il Ministro per la pubblica istruzione puo' aggiungere, a tutti gli effetti scolastici, agli insegnamenti prescritti dall'[art. 55 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_55) quello dell'agraria e computisteria rurale.
+Nei corsi superiori di alcuni Istituti magistrali il Ministro per la pubblica istruzione puo' aggiungere, a tutti gli effetti scolastici, agli insegnamenti prescritti dall'[art. 55 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) quello dell'agraria e computisteria rurale.
 
 ## Art. 4.
 
-Alla tabella n. 11 annessa al [Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e' sostituita la tabella A annessa alla presente legge.
+Alla tabella n. 11 annessa al [Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e' sostituita la tabella A annessa alla presente legge.
 
 ## Art. 5.
 

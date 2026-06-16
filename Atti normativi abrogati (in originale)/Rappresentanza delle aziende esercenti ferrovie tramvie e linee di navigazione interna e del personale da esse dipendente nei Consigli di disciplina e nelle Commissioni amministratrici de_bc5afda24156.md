@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto l'art. 28 del regolamento approvato con R. de cretto 30 settembre 1920, n. 1538, relativo alla previdenza del personale addetto ai pubblici servizi di trasporto concessi all'industria privata;
 
-Visto l'art. 54 dell'allegato A e l'art. 5 dell'allegato al [R. decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148), riguardante la composizione dei consigli di disciplina del personale delle ferrovie, tramvie e dei servizi di navigazione interna in regime di concessione;
+Visto l'art. 54 dell'allegato A e l'art. 5 dell'allegato al [R. decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md), riguardante la composizione dei consigli di disciplina del personale delle ferrovie, tramvie e dei servizi di navigazione interna in regime di concessione;
 
 Visto il [decreto legislativo Luogotenenziale 2 novembre 1944, n. 340](Disposizioni%20circa%20la%20nomina%20di%20commissari%20straordinari%20a%20Enti%20parasindacali%20e%20sostituzione%20in%20Commissioni%20od%20organi%20dei%20membri%20di%20nomina%20o%20designazione%20sindacale.%20044U0340.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato pei i trasporti, d'intesa coi Mi
 
 ## Art. 1.
 
-Fino a sei mesi dopo la cessazione dello stato di guerra i membri dei consigli di disciplina, delle commissioni amministratrici delle Casse di soccorso e dei Comitati amministrativi delle Casse speciali di previdenza istituiti presso le aziende esercenti ferrovie tramvie e servizi di navigazione interna in regime di concessione, sono nominati, in deroga all'art. 54 dell'allegato A ed all'art. 5 dell'allegato B al [R. decreto 8 gennaio 1931, n. 148, dal Ministero dell'industria commercio e lavoro](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148) fra i datori di lavoro e i prestatori d'opera di ciascuna azienda. 
+Fino a sei mesi dopo la cessazione dello stato di guerra i membri dei consigli di disciplina, delle commissioni amministratrici delle Casse di soccorso e dei Comitati amministrativi delle Casse speciali di previdenza istituiti presso le aziende esercenti ferrovie tramvie e servizi di navigazione interna in regime di concessione, sono nominati, in deroga all'art. 54 dell'allegato A ed all'art. 5 dell'allegato B al [R. decreto 8 gennaio 1931, n. 148, dal Ministero dell'industria commercio e lavoro](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md) fra i datori di lavoro e i prestatori d'opera di ciascuna azienda. 
  
  Nulla e' innovato circa la nomina dei presidenti vice presidenti di tali organi disciplinari ed amministrativi.
 

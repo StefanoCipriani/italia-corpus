@@ -54,7 +54,7 @@ Con decreto Governatoriale saranno approvate le norme per la presentazione e ist
 
 ## Art. 9.
 
-Le violazioni all'art. 1 del presente decreto saranno punite a senso dell'[art. 434 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) se si tratta di europei od assimilati, o ceri la multa tradizionale se siano da addebitarsi ad indigeni. 
+Le violazioni all'art. 1 del presente decreto saranno punite a senso dell'[art. 434 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) se si tratta di europei od assimilati, o ceri la multa tradizionale se siano da addebitarsi ad indigeni. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

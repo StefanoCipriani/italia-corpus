@@ -42,7 +42,7 @@ Il Museo sara' retto da un Comitato composto di 5 membri, dei quali uno nominato
 
 Al Museo saranno assegnati: un ispettore principale del ruolo del personale dei monumenti, musei, gallerie e scavi di antichita' ed un ufficiale superiore del Regio esercito, scelto dal Ministro per la guerra, con funzioni pari a quelle dell'ispettore principale. 
  
- Nella tabella A annessa al [Regio decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), e' aumentato un posto di ispettore principale.
+ Nella tabella A annessa al [Regio decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' aumentato un posto di ispettore principale.
 
 ## Art. 6.
 

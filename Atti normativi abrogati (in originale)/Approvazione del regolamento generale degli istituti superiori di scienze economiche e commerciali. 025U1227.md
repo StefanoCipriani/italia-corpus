@@ -20,7 +20,7 @@ Visto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzion
 
 Visti i [Regi decreti-legge 22 maggio 1924, n. 744](Disposizioni%20concernenti%20listruzione%20superiore.%20024U0744.md), e [25 settembre 1924, n. 1585](Disposizioni%20concernenti%20listruzione%20superiore.%20024U1585.md);
 
-Visto il regolamento generale universitario approvato con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674);
+Visto il regolamento generale universitario approvato con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md);
 
 Visto il regolamento generale per l'istruzione superiore commerciale approvato con [R. decreto 18 agosto 1920, numero 1482](Che%20approva%20il%20regolamento%20generale%20per%20la%20istruzione%20superiore%20commerciale.%20020U1482.md), modificato dal [R. decreto 15 luglio 1923, n. 1684](Modificazioni%20al%20regolamento%2018%20agosto%201920%20n.%201482%20per%20listruzione%20superiore%20economica%20e%20commerciale.%20023U1684.md);
 

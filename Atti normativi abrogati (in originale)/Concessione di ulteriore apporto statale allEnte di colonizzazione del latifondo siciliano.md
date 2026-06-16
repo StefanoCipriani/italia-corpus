@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista le [legge 2 gennaio 1940, n. 1](Colonizzazione%20del%20latifondo%20siciliano%20040U0001.md), per la colonizzazione del latifondo siciliano;
 
-Visto l'[art. 3 del regio decreto 26 febbraio 1940, numero 247](Ordinamento%20dellEnte%20di%20colonizzazione%20del%20latifondo%20siciliano.%20040U0247.md);
+Visto l'[art. 3 del regio decreto 26 febbraio 1940, numero 247](../Regi%20decreti/Ordinamento%20dellEnte%20di%20colonizzazione%20del%20latifondo%20siciliano.%20040U0247.md);
 
 Visto l'[art. 14 del decreto legislativo luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con 
 
 ## Art. 1.
 
-L'apporto statale al patrimonio dell'Ente di colonizzazione del latifondo siciliano, determinato in L 75.000.000 nell'[art. 3 del regio decreto 26 febbraio 1940, n. 247](Ordinamento%20dellEnte%20di%20colonizzazione%20del%20latifondo%20siciliano.%20040U0247.md), ed elevato a L. 120.000.000 con l'[art. 1 del decreto legislativo luogotenenziale 23 marzo 1946, n. 234](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20nuovo%20apporto%20statale%20allEnte%20di%20colonizzazione%20del%20latifondo%20siciliano.md), e' ulteriormente elevato a L. 170.000.000. 
+L'apporto statale al patrimonio dell'Ente di colonizzazione del latifondo siciliano, determinato in L 75.000.000 nell'[art. 3 del regio decreto 26 febbraio 1940, n. 247](../Regi%20decreti/Ordinamento%20dellEnte%20di%20colonizzazione%20del%20latifondo%20siciliano.%20040U0247.md), ed elevato a L. 120.000.000 con l'[art. 1 del decreto legislativo luogotenenziale 23 marzo 1946, n. 234](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20nuovo%20apporto%20statale%20allEnte%20di%20colonizzazione%20del%20latifondo%20siciliano.md), e' ulteriormente elevato a L. 170.000.000. 
  La maggiore somma di L. 50.000.000, sara' versata dal Ministero dell'agricoltura e delle foreste in ragione di L. 15.000.000 per l'esercizio 1946-47, L. 20.000.000 per l'esercizio 1947-48 e L. 15.000.000 per l'esercizio 1948-49, mediante prelievo del fondo autorizzato con l'[art. 14 del decreto legislativo luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md). 
  Una quota del nuovo apporto e' attribuita alle spese di funzionamento dell'Ente per gli esercizi predetti. 
  Con decreti del Ministro per l'agricoltura e per le foreste, di concerto con il Ministro per il tesoro, saranno determinate le somme da destinarsi a tale scopo. 

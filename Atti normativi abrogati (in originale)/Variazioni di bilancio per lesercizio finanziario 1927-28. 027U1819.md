@@ -34,7 +34,7 @@ E' sospesa per l'esercizio finanziario 1927-28 l'inscrizione in bilancio delle s
  
  1° Annualita' di L. 50,000,000 a favore della Cassa depositi e prestiti per il servizio e l'estinzione delle polizze gratuite di assicurazione dei combattenti, stabilita dall'[articolo 1 del R. decreto 2 gennaio 1925, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-02;1#art_1), e dal [R. decreto 10 maggio 1925, n. 852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-10;852); 
  
- 2° Contributo di L. 50,000,000 alla Cassa nazionale per le assicurazioni sociali, in applicazione dell'[art. 33 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_33), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia. 
+ 2° Contributo di L. 50,000,000 alla Cassa nazionale per le assicurazioni sociali, in applicazione dell'[art. 33 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia. 
  
  Le variazioni di cui al presente articolo saranno introdotte in bilancio con decreto del Ministro per le finanze. 
  

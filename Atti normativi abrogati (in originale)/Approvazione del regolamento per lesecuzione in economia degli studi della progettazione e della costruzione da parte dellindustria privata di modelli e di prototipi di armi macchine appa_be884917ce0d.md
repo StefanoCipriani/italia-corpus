@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e successive modificazioni;
+Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e successive modificazioni;
 
 Visto il regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 10 febbraio 1927, n. 443](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20027U0443.md), e successive modificazioni;
 
 Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 2 febbraio 1925, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-02;263), e successive modificazioni;
 
-Visto il regolamento per i servizi degli arsenali, delle basi navali e degli altri stabilimenti di lavoro della Marina militare e per l'amministrazione e la contabilita' dei lavori e dei materiali, approvato con [regio decreto 23 novembre 1939, n. 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-11-23;1898);
+Visto il regolamento per i servizi degli arsenali, delle basi navali e degli altri stabilimenti di lavoro della Marina militare e per l'amministrazione e la contabilita' dei lavori e dei materiali, approvato con [regio decreto 23 novembre 1939, n. 1898](../Regi%20decreti/Regolamento%20per%20i%20servizi%20degli%20Arsenali%20delle%20Basi%20navali%20e%20degli%20altri%20Stabilimenti%20di%20lavoro%20della%20Regia%20marina%20e%20per%20lamministrazione%20e%20la%20contabilita%20dei%20lavori%20e%20dei%20materiali.%20039U1898.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-Ai sensi dell'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), e successive modificazioni, puo' essere disposta l'esecuzione in economia, fino all'importo di lire 50.000.000, degli studi, della progettazione e della costruzione, da parte dell'industria privata, di modelli e di prototipi di armi, macchine, apparecchi e materiali speciali interessanti l'Esercito e la Marina militare.
+Ai sensi dell'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, puo' essere disposta l'esecuzione in economia, fino all'importo di lire 50.000.000, degli studi, della progettazione e della costruzione, da parte dell'industria privata, di modelli e di prototipi di armi, macchine, apparecchi e materiali speciali interessanti l'Esercito e la Marina militare.
 
 ## Art. 2.
 

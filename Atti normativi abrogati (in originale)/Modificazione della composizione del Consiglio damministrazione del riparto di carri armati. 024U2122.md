@@ -20,7 +20,7 @@ Visto il regolamento per l'applicazione della predetta legge, approvato con [R. 
 
 Visto il [R. decreto 14 giugno 1923, n. 1525](Costituzione%20del%20Consiglio%20di%20amministrazione%20presso%20il%20riparto%20di%20carri%20armati.%20023U1525.md), che provvede alla costituzione del Consiglio d'amministrazione per il riparto di carri armati;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sulla contabilita' generale dello Stato ed il relativo regolamento approvato con [R. decreto 24 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-24;827);
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato ed il relativo regolamento approvato con [R. decreto 24 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-24;827);
 
 Udito il Consiglio dei Ministri;
 

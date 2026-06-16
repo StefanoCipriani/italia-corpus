@@ -13,7 +13,7 @@ vigente: true
 Nell'Amministrazione degli affari esteri e' istituito un ruolo di Gruppo B di 110 cancellieri, per il servizio nelle Regie rappresentanze diplomatiche e consolari all'estero e 
 dell'Amministrazione centrale. 
  
- Il ruolo suddetto, che viene compreso fra quelli di cui all'[art. 14 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sara' costituito come 
+ Il ruolo suddetto, che viene compreso fra quelli di cui all'[art. 14 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sara' costituito come 
 appresso: 
  
  
@@ -33,7 +33,7 @@ Alla carriera dei cancellieri si accede unicamente per esame di concorso, cui si
  
  a) essere cittadino italiano col godimento dei diritti politici. 
  
- Sono equiparati ai cittadini dello Stato, per gli effetti della presente legge, gli italiani non regnicoli e coloro pei quali tale equiparazione sia riconosciuta con decreto Reale in occasione di singoli consensi. Nulla e' innovato alle disposizioni concernenti gli effetti della cittadinanza conferita ai nativi della Tripolitania e della Cirenaica, ai sensi dei [Regi decreti 1° giugno 1919, n. 931](Che%20approva%20le%20norme%20fondamentali%20per%20lassetto%20della%20Tripolitania.%20019U0931.md), e [6 novembre 1919, n. 2401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-06;2401); 
+ Sono equiparati ai cittadini dello Stato, per gli effetti della presente legge, gli italiani non regnicoli e coloro pei quali tale equiparazione sia riconosciuta con decreto Reale in occasione di singoli consensi. Nulla e' innovato alle disposizioni concernenti gli effetti della cittadinanza conferita ai nativi della Tripolitania e della Cirenaica, ai sensi dei [Regi decreti 1° giugno 1919, n. 931](../Regi%20decreti/Che%20approva%20le%20norme%20fondamentali%20per%20lassetto%20della%20Tripolitania.%20019U0931.md), e [6 novembre 1919, n. 2401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-06;2401); 
  
  b) eta' non minore di 21 anni, ne' maggiore dei 30; 
  
@@ -43,7 +43,7 @@ Alla carriera dei cancellieri si accede unicamente per esame di concorso, cui si
  
  e) avere tenuto sempre regolare condotta civile, morale e politica, da valutarsi a giudizio insindacabile dell'Amministrazione; 
  
- f) avere conseguito il diploma di maturita' classica o scientifica o di abilitazione tecnica o magistrale, ai sensi del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure il diploma di abilitazione, conseguito presso i Regi istituti commerciali di cui all'[art. 52 del R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%20media%20commerciale.%20024U0749.md). 
+ f) avere conseguito il diploma di maturita' classica o scientifica o di abilitazione tecnica o magistrale, ai sensi del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure il diploma di abilitazione, conseguito presso i Regi istituti commerciali di cui all'[art. 52 del R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%20media%20commerciale.%20024U0749.md). 
  
  L'adempimento di tali condizioni non vincola il Ministero ad accogliere le domande di ammissione al concorso. Il giudizio dell'Amministrazione e' a tale riguardo insindacabile. 
  
@@ -106,7 +106,7 @@ Per coprire le vacanze nei gradi superiori derivanti dall'attuazione del ruolo, 
 
 ### Art. 11.
 
-Il ruolo dei cancellieri di gruppo C, di cui alla tabella 24, allegato 2 al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' trasformato in transitorio. 
+Il ruolo dei cancellieri di gruppo C, di cui alla tabella 24, allegato 2 al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' trasformato in transitorio. 
  
  I posti che si renderanno man mano vacanti nel grado meno elevato, tanto per effetto della progressione nel ruolo quanto per la cessazione per qualsiasi motivo di funzionari che vi appartengono, saranno soppressi. 
  

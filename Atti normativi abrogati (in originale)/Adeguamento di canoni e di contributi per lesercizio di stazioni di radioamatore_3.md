@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il testo unico delle disposizioni legislative in materia postale, della bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, della bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Ritenuta la straordinaria necessita' ed urgenza di adeguare i canoni ed i contributi dovuti per l'esercizio di stazioni di radioamatore e di apparecchi radioelettrici ricetrasmittenti di debole potenza;
 
@@ -32,7 +32,7 @@ Con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con 
                         b)
                             i canoni di esercizio di stazioni ripetitrici del servizio di radioamatore;
                         c)
-                            i contributi annuali per l'autorizzazione all'esercizio degli apparecchi radioelettrici ricetrasmittenti di debole potenza di tipo portatile e delle stazioni di base di cui all'articolo 334, primo comma, del testo unico delle disposizioni legislative in materia postale, della bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+                            i contributi annuali per l'autorizzazione all'esercizio degli apparecchi radioelettrici ricetrasmittenti di debole potenza di tipo portatile e delle stazioni di base di cui all'articolo 334, primo comma, del testo unico delle disposizioni legislative in materia postale, della bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
                         d)
                             il contributo annuale per il rilascio delle autorizzazioni al solo ascolto sulle gamme di frequenza riservate ai radioamatori di cui all'articolo 333, primo comma, del suddetto testo unico;
                         e)

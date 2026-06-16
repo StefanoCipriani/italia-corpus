@@ -18,9 +18,9 @@ Vista la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni
 
 Visto il [R. decreto 19 aprile 1923, n. 1185](Che%20estende%20alle%20Nuove%20Provincie%20del%20Regno%20le%20disposizioni%20riguardanti%20lo%20stato%20giuridico%20ed%20economico%20del%20personale%20insegnante%20di%20segreteria%20e%20di%20servizio%20delle%20Regie%20scuole%20medie%20e%20norm_ddf7ce3c4e9f.md);
 
-Visto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Visto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Visto il [R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413);
+Visto il [R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Le disposizioni contenute nel [R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413), si applicano anche nei territori annessi in forza delle [leggi 26 settembre 1920, n. 1322 e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), con le modificazioni ed aggiunte indicate negli articoli seguenti.
+Le disposizioni contenute nel [R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), si applicano anche nei territori annessi in forza delle [leggi 26 settembre 1920, n. 1322 e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), con le modificazioni ed aggiunte indicate negli articoli seguenti.
 
 ## Art. 2.
 
@@ -40,11 +40,11 @@ Nell'art. 1 dopo le parole «direttivo e insegnante», e' aggiungono le parole: 
  
  «Nell'assegnazione degli insegnanti che per il loro titolo specifico e la cattedra che ricoprono possono a norma del presente decreto essere assegnati a cattedre di scuola media sia di 1° che di 2° grado, sara' tenuto conto della anzianita' di servizio e della qualita' dell'insegnamento finora impartito». 
  
- Nell'art. 4 il comma secondo e' cosi' modificato: «Gli insegnamenti che attualmente costituiscono cattedre distinte o aggruppate in modo diverso da quello indicato nella tabella annessa al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054); potranno, in via eccezionale, e non oltre l'anno scolastico 1929-1930, essere costituiti in cattedre separate o raggruppate, in guisa da evitare il trasferimento di insegnanti a favore dei quali esistono speciali condizioni di famiglia. Sempreche' non implichi aumento del numero delle cattedre fissato nell'organico e' consentito identico provvedimento quando lo richiedano particolari circostanze in dipendenza dalla diversita', dei titoli di abilitazione ex regime». 
+ Nell'art. 4 il comma secondo e' cosi' modificato: «Gli insegnamenti che attualmente costituiscono cattedre distinte o aggruppate in modo diverso da quello indicato nella tabella annessa al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md); potranno, in via eccezionale, e non oltre l'anno scolastico 1929-1930, essere costituiti in cattedre separate o raggruppate, in guisa da evitare il trasferimento di insegnanti a favore dei quali esistono speciali condizioni di famiglia. Sempreche' non implichi aumento del numero delle cattedre fissato nell'organico e' consentito identico provvedimento quando lo richiedano particolari circostanze in dipendenza dalla diversita', dei titoli di abilitazione ex regime». 
  
  Nello stesso articolo, il comma terzo e' sostituito dal seguente: «Le insegnanti dei licei femminili di cultura e de gli istituti magistrali non abilitate all'insegnamento nelle scuole medie potranno, di ufficio, essere assegnate ai ruoli degli insegnanti della scuola complementare conservando la loro anzianita' di carriera e la eventuale differenza di stipendio da riassorbirsi negli aumenti successivi». 
  
- La tabella annessa al [R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413), e' sostituita, ad ogni effetto, da quella annessa al presente decreto. 
+ La tabella annessa al [R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), e' sostituita, ad ogni effetto, da quella annessa al presente decreto. 
  
  Nell'art. 5 il primo comma e' cosi' modificato: «I capi di istituto insegnanti di pedagogia e morale che siano restituiti all'insegnamento e siano forniti di laurea o titolo riconosciuto equipollente dal [R. decreto 8 giugno 1921, n. 1573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-08;1573), faranno passaggio a cattedre delle loro materie in scuole di pari ordine e grado». 
  
@@ -90,14 +90,14 @@ Nell'art. 1 dopo le parole «direttivo e insegnante», e' aggiungono le parole: 
  
  «Le alunne, promosse alle classi quinta e sesta dei licei femminili di cultura del vecchio tipo potranno continuare gli studi nella prima, rispettivamente nella seconda classe del liceo femminile del nuovo tipo o potranno essere iscritte nel primo e secondo corso superiore dell'istituto magistrale del nuovo tipo, quando abbiano una media di almeno otto decimi nel profitto dell'ultimo anno scolastico, e nelle sedi ove non esista l'istituto magistrale, nelle classi prima e seconda dell'istituto tecnico superiore e del liceo scientifico. 
  
- «Le alunne licenziate dai licei femminili di cultura potranno essere ammesse al terzo corso dell'istituto magistrale secondo il nuovo ordinamento, e dove questo non esista, del quarto corso dell'istituto tecnico (sezione fisico-matematica), salvo il disposto dell'[art. 38 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_38). 
+ «Le alunne licenziate dai licei femminili di cultura potranno essere ammesse al terzo corso dell'istituto magistrale secondo il nuovo ordinamento, e dove questo non esista, del quarto corso dell'istituto tecnico (sezione fisico-matematica), salvo il disposto dell'[art. 38 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md). 
  
  «Gli alunni e le alunne che per titoli od esami abbiano diritto all'ammissione al 1° corso dell'istituto magistrale del vecchio tipo, saranno iscritti nella quarta classe del corso inferiore dell'istituto magistrale del nuovo tipo». 
  
  L'art. 36 e' sostituito dal seguente: 
  
- «Nelle citta' sedi di scuole magistrali governative alloglotte potra' per i primi tre anni dall'attuazione del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), essere consentita l'istituzione di classi aggiunte del corso superiore oltre il corso o i corsi completi. Per il primo anno potranno essere consentite seconde, terze e quarte classi aggiunte, per il secondo terzo e quarto, per il terzo soltanto quarte classi.  
- «Parimenti nelle citta' sedi di unica scuola normale governativa non comprese nella tabella n. 10 annessa al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), potranno essere conservate per un primo anno le classi seconda, terza e quarta; per un secondo anno terza e quarta; per un terzo anno soltanto quarta. 
+ «Nelle citta' sedi di scuole magistrali governative alloglotte potra' per i primi tre anni dall'attuazione del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), essere consentita l'istituzione di classi aggiunte del corso superiore oltre il corso o i corsi completi. Per il primo anno potranno essere consentite seconde, terze e quarte classi aggiunte, per il secondo terzo e quarto, per il terzo soltanto quarte classi.  
+ «Parimenti nelle citta' sedi di unica scuola normale governativa non comprese nella tabella n. 10 annessa al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), potranno essere conservate per un primo anno le classi seconda, terza e quarta; per un secondo anno terza e quarta; per un terzo anno soltanto quarta. 
  
  «Corrispondentemente verranno mantenuti transitoriamente, per lo stesso periodo di tempo, i giardini d'infanzia che fossero annessi alle scuole predette. 
  

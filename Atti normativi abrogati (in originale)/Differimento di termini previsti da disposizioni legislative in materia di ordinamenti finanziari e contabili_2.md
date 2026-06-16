@@ -76,7 +76,7 @@ La spesa autorizzata dall'[articolo 9 del decreto-legge 22 dicembre 1994, n. 721
 
 5.
 
-Per i residui dei sottoindicati capitoli di bilancio dello Stato non operano sino al 31 dicembre 1995 le disposizioni di cui all'[articolo 36, primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com1) e [terzo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com3), e successive modificazioni e integrazioni:
+Per i residui dei sottoindicati capitoli di bilancio dello Stato non operano sino al 31 dicembre 1995 le disposizioni di cui all'[articolo 36, primo](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [terzo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni e integrazioni:
                         a)
                             Ministero di grazia e giustizia: capitolo 2501;
                         b)
@@ -96,7 +96,7 @@ Gli stanziamenti iscritti in bilancio in applicazione della [legge 30 settembre 
 
 9.
 
-Le somme iscritte in bilancio in conto competenza ed in conto residui ai sensi dell'articolo 127, comma 11, e dell'articolo 135, comma 4, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), non impegnate entro l'anno 1994, possono esserlo nell'anno 1995.
+Le somme iscritte in bilancio in conto competenza ed in conto residui ai sensi dell'articolo 127, comma 11, e dell'articolo 135, comma 4, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), non impegnate entro l'anno 1994, possono esserlo nell'anno 1995.
 
 10.
 
@@ -114,7 +114,7 @@ In sede di prima applicazione, nell'anno 1994, della [legge 10 dicembre 1993, n.
 
 2.
 
-L'entrata in vigore del regolamento approvato con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 30 agosto 1995.
+L'entrata in vigore del regolamento approvato con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 30 agosto 1995.
 
 ## Art. 3. — Entrata in vigore
 

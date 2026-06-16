@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti i [Regi decreti 28 gennaio 1923, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;126), [25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), [11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni; 
+ Visti i [Regi decreti 28 gennaio 1923, n. 126](../Regi%20decreti/Concernente%20il%20passaggio%20degli%20uffici%20di%20ragioneria%20delle%20Amministrazioni%20centrali%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0126.md), [25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), [11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni; 
  
  Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Con la fusione dei ruoli separati delle ragionerie centrali, i funzionari cosi' promossi saranno considerati in soprannumero, nei gradi che vengano loro attribuiti, ai fini, sia della fusione medesima, sia dell'inquadramento ed eventuali successive promozioni nel ruolo del personale di concetto delle ragionerie centrali, fissato col [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), salvo riassorbimento colle vacanze che in detto ruolo si formeranno dalla data del presente decreto. 
  
- Il requisito anzidetto, previsto dal [decreto Luogotenenziale 24 novembre 1918, n. 1916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-24;1916), s'intende, salvo il disposto del primo comma del presente decreto, abolito per il personale delle ragionerie centrali, a far tempo dal passaggio del personale medesimo alle dipendenze del Ministero delle finanze, ai sensi del [R. decreto 28 gennaio 1923, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;126), e successive disposizioni. 
+ Il requisito anzidetto, previsto dal [decreto Luogotenenziale 24 novembre 1918, n. 1916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-24;1916), s'intende, salvo il disposto del primo comma del presente decreto, abolito per il personale delle ragionerie centrali, a far tempo dal passaggio del personale medesimo alle dipendenze del Ministero delle finanze, ai sensi del [R. decreto 28 gennaio 1923, n. 126](../Regi%20decreti/Concernente%20il%20passaggio%20degli%20uffici%20di%20ragioneria%20delle%20Amministrazioni%20centrali%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0126.md), e successive disposizioni. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

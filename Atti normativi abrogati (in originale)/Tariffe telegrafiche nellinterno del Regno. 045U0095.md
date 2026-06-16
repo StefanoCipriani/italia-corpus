@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti gli articoli 8 e 193 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visti gli articoli 8 e 193 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Visto il [decreto Luogotenenziale 10 agosto 1944, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;192);
 
@@ -24,7 +24,7 @@ Visto il [R. decreto-legge 19 agosto 1927, n. 1581](Istituzione%20dei%20telegram
 
 Visto il [R. decreto-legge 19 febbraio 1925, n. 196 (art. 5](Modificazioni%20alle%20vigenti%20tariffe%20postali%20e%20telegrafiche.%20025U0196.md)), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
-Visto il [R. decreto 9 maggio 1926, n. 845 (art. 45](Modificazioni%20alle%20tariffe%20telegrafiche%20nellinterno%20del%20Regno.%20026U0845.md)/bis);
+Visto il [R. decreto 9 maggio 1926, n. 845 (art. 45](../Regi%20decreti/Modificazioni%20alle%20tariffe%20telegrafiche%20nellinterno%20del%20Regno.%20026U0845.md)/bis);
 
 Visto il [R. decreto-legge 4 febbraio 1926, n. 167](Tassa%20fissa%20per%20i%20telegrammi%20per%20linterno%20del%20Regno%20accettati%20dagli%20uffici%20di%20Borsa.%20026U0167.md), convertito nella [legge 25 novembre 1926, n. 2002](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20febbraio%201926%20n.%20167%20che%20stabilisce%20una%20tassa%20fissa%20per%20i%20telegrammi%20per%20linterno%20del%20Regno%20accettati%20dagli%20uffici%20di%20Borsa.%20026U2002.md);
 

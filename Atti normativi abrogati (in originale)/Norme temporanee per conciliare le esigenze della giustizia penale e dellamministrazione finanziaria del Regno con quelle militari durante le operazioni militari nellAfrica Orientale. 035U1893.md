@@ -66,7 +66,7 @@ Quando per ragioni di servizio militare, di impiego o di lavoro, o per altre cau
 
 ## Art. 8.
 
-Le disposizioni di cui ai commi 1° e 2° dell'articolo precedente si applicano anche ai procedimenti per le violazioni delle leggi finanziarie e dei regolamenti di servizio dell'Amministrazione delle finanze, per le quali sia stabilita la pena pecuniaria. Si applicano altresi' ai procedimenti per le sanzioni prevedute dal testo delle disposizioni riguardanti le dichiarazioni dei redditi in materia di imposte dirette, approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608).
+Le disposizioni di cui ai commi 1° e 2° dell'articolo precedente si applicano anche ai procedimenti per le violazioni delle leggi finanziarie e dei regolamenti di servizio dell'Amministrazione delle finanze, per le quali sia stabilita la pena pecuniaria. Si applicano altresi' ai procedimenti per le sanzioni prevedute dal testo delle disposizioni riguardanti le dichiarazioni dei redditi in materia di imposte dirette, approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md).
 La sospensione e la revoca sono disposte dalle autorita' competenti ad applicare le sanzioni medesime. 
  
  Durante la sospensione dei procedimenti indicati in questo articolo rimane sospeso il corso della prescrizione del diritto dello Stato a riscuotere le pene pecuniarie e ad applicare le altre sanzioni di carattere amministrativo in dipendenza delle violazioni a cui si riferiscono i procedimenti stessi.

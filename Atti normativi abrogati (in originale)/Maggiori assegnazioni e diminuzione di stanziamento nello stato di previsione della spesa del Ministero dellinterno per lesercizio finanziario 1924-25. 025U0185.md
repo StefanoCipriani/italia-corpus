@@ -35,7 +35,7 @@ VITTORIO EMANUELE III
  Cap. n. 68 - Spese per l'istruzione degli allievi del 
  ruolo specializzato dei carabinieri presso la Scuola 
  tecnica di polizia ([R. decreto 31 dicembre 1922, 
- n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md)) . . . . . . . . . . . . . . . . . . . . . . » 50,000 
+ n. 1680](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md)) . . . . . . . . . . . . . . . . . . . . . . » 50,000 
  Cap. n. 77 - Manutenzione e adattamento di locali per 
  gli uffici di questura, di pubblica sicurezza, ecc. » 600,000 
  --------- 

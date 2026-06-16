@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Visti i [decreti legislativi luogotenenziali 24 agosto 1944, n. 211](../Decreti%20legislativi%20luogotenenziali/Integrazione%20dei%20disavanzi%20economici%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20044U0211.md), e [22 marzo 1945, n. 171](../Decreti%20legislativi%20luogotenenziali/Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2024%20agosto%201944%20n.%20211%20che%20reca%20norme%20per%20la%20integrazione%20dei%20disavanzi%20economici%20dei%20bilanci%20delle%20Amministrazioni%20provinciali%20e%20comunali.%20045U0171.md);
 

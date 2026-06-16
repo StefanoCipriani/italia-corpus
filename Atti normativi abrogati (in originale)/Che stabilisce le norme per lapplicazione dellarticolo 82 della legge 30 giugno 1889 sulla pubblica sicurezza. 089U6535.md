@@ -58,11 +58,11 @@ Verificato nei modi stabiliti dagli articoli precedenti il concorso delle condiz
 
 All'invio di che nel precedente articolo, non si procedera' quando una o piu' persone assumano, con atto regolare da presentarsi all'Autorita' di Pubblica Sicurezza, l'obbligo di provvedere alla sussistenza dell'individuo riconosciuto inabile a qualsiasi lavoro proficuo, prestando cauzione per l'adempimento di tale obbligazione. 
  
- Se l'individuo a favore del quale e' stata assunta l'obbligazione, e' colto a mendicare, sara' proceduto contro di esso ai termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed, espiata la pena, sara' inviato in un ricovero di mendicita' o in altro istituto equivalente. E la persona o le persone che si sono assunte l'obbligazione di provvedere alla sua sussistenza, incorreranno nella perdita della cauzione a favore dell'istituto ed a sgravio degli enti obbligati al mantenimento del ricoverato.
+ Se l'individuo a favore del quale e' stata assunta l'obbligazione, e' colto a mendicare, sara' proceduto contro di esso ai termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed, espiata la pena, sara' inviato in un ricovero di mendicita' o in altro istituto equivalente. E la persona o le persone che si sono assunte l'obbligazione di provvedere alla sua sussistenza, incorreranno nella perdita della cauzione a favore dell'istituto ed a sgravio degli enti obbligati al mantenimento del ricoverato.
 
 ## Art. 7.
 
-Quando per qualsiasi causa vengano a mancare o una o ambedue le condizioni nel concorso delle quali venne emessa l'ordinanza di che all'articolo 5; in seguito ad una nuova ordinanza dell'Autorita' di Pubblica Sicurezza si procedera' al rilascio del ricoverato, sotto la comminazione delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ove sia colto a mendicare.
+Quando per qualsiasi causa vengano a mancare o una o ambedue le condizioni nel concorso delle quali venne emessa l'ordinanza di che all'articolo 5; in seguito ad una nuova ordinanza dell'Autorita' di Pubblica Sicurezza si procedera' al rilascio del ricoverato, sotto la comminazione delle pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ove sia colto a mendicare.
 
 ## Art. 8.
 

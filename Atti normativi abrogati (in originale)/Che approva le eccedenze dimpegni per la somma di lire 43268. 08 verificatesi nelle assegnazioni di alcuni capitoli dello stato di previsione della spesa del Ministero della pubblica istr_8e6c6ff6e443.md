@@ -34,7 +34,7 @@ E' approvata l'eccedenza d'impegni per lire 277.02 verificatasi nell'assegnazion
 
 ## Art. 7.
 
-E' approvata l'eccedenza d'impegni per lire 8,740.18 verificatasi nell'assegnazione del capitolo n. 39: «Regie universita' ed altri istituti universitari - stabilimenti scientifici e segreterie delle regie universita' - indennita' e retribuzioni per eventuali servizi straordinari - spese da sostenersi con i fondi provenienti dai diritti di segreteria (articoli 132 e 151 del regolamento generale universitario approvato con [regio decreto 26 ottobre 1903, n. 465](Che%20approva%20le%20modificazioni%20apportate%20al%20Regolamento%20generale%20universitario%20ed%20ai%20singoli%20Regolamenti%20speciali.%20003U0465.md))» dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1905-906.
+E' approvata l'eccedenza d'impegni per lire 8,740.18 verificatasi nell'assegnazione del capitolo n. 39: «Regie universita' ed altri istituti universitari - stabilimenti scientifici e segreterie delle regie universita' - indennita' e retribuzioni per eventuali servizi straordinari - spese da sostenersi con i fondi provenienti dai diritti di segreteria (articoli 132 e 151 del regolamento generale universitario approvato con [regio decreto 26 ottobre 1903, n. 465](../Regi%20decreti/Che%20approva%20le%20modificazioni%20apportate%20al%20Regolamento%20generale%20universitario%20ed%20ai%20singoli%20Regolamenti%20speciali.%20003U0465.md))» dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1905-906.
 
 ## Art. 8.
 

@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
-Visto il regolamento generale per l'esecuzione del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 24 novembre 1908, numero 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
+Visto il regolamento generale per l'esecuzione del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 24 novembre 1908, numero 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
 
 Vista la [legge 17 luglio 1910, n. 549](Provvedimenti%20riguardanti%20i%20personali%20civili%20tecnici%20di%20artiglieria%20e%20del%20genio.%20010U0549.md) e successive modificazioni, relativa a provvedimenti per i personali civili tecnici di artiglieria e del genio;
 

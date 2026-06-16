@@ -42,7 +42,7 @@ Il Consiglio di amministrazione e' presieduto dal Ministro per le comunicazioni,
 
 ## Art. 4.
 
-Il direttore generale di cui al precedente art. 2 e' classificato nel grado terzo dell'ordinamento gerarchico delle Amministrazioni dello Stato approvato con [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), col trattamento del grado stesso. 
+Il direttore generale di cui al precedente art. 2 e' classificato nel grado terzo dell'ordinamento gerarchico delle Amministrazioni dello Stato approvato con [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), col trattamento del grado stesso. 
  
  E' in facolta' del Ministro per le comunicazioni di proporre la nomina per decreto Reale di non piu' di due vicedirettori generali, i quali coadiuvano il direttore generale e lo sostituiscono in caso di assenza o di impedimento; essi sono classificati al grado quarto dell'ordinamento gerarchico suddetto. 
  
@@ -121,7 +121,7 @@ Il direttore generale presenta al Ministro per le comunicazioni, entro il mese d
 
 ## Art. 10.
 
-La Commissione tecnico-legale istituita col [R. decreto 7 gennaio 1923, n. 71](Che%20istituisce%20presso%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20una%20Commissione%20consultiva%20tecnico-legale%20chiamata%20ad%20esprimere%20il%20proprio%20parere%20sugli%20affari%20riflettenti%20lAmministrazione.%20023U0071.md), e' soppressa.
+La Commissione tecnico-legale istituita col [R. decreto 7 gennaio 1923, n. 71](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20una%20Commissione%20consultiva%20tecnico-legale%20chiamata%20ad%20esprimere%20il%20proprio%20parere%20sugli%20affari%20riflettenti%20lAmministrazione.%20023U0071.md), e' soppressa.
 
 ## Art. 11.
 
@@ -163,11 +163,11 @@ Gli uffici della ragioneria centrale del Ministero delle comunicazioni, adibiti 
  
  Il personale addetto a tali uffici in servizio alla pubblicazione del presente decreto fara' passaggio nei ruoli della Direzione generale dei servizi postali e telegrafici al 1° luglio 1925. 
  
- Il personale appartenente al ruolo transitorio di cui all'[art. 14 del R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_14), sara' trasferito nei detti ruoli anche se non trovisi assegnato agli uffici suindicati. 
+ Il personale appartenente al ruolo transitorio di cui all'[art. 14 del R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), sara' trasferito nei detti ruoli anche se non trovisi assegnato agli uffici suindicati. 
  
  Le norme per l'attuazione degli indicati passaggi di ruolo saranno stabilite nel decreto Reale di cui all'art. 22 del presente decreto. 
  
- Il collocamento del personale contemplato dal presente articolo nei ruoli della Direzione generale sara' disposto con provvedimento ministeriale su parere del Consiglio di amministrazione. Contro il provvedimento ministeriale e' ammesso soltanto il ricorso alla Commissione di cui all'[art. 208 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ Il collocamento del personale contemplato dal presente articolo nei ruoli della Direzione generale sara' disposto con provvedimento ministeriale su parere del Consiglio di amministrazione. Contro il provvedimento ministeriale e' ammesso soltanto il ricorso alla Commissione di cui all'[art. 208 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  I ruoli organici della Direzione generale delle poste e dei telegrafi saranno aumentati, per ogni grado, di tanti posti quanti sono i funzionari che per effetto del presente decreto faranno passaggio al Ministero delle comunicazioni. Conseguentemente i ruoli organici delle ragionerie centrali saranno ridotti di altrettanti posti, nei rispettivi gradi, quanti sono gli impiegati trasferiti nel detto Ministero. 
  
@@ -242,9 +242,9 @@ E' istituito un fondo di riserva per le spese impreviste dell'Amministrazione de
 
 Con decreto Reale, da emanarsi sulla proposta del Ministro per le comunicazioni, di concerto con quello per le finanze sono stabilite le piante organiche del personale di ruolo e la distribuzione di esso nei singoli ruoli. 
  
- Al personale predetto si applicano le disposizioni sullo stato giuridico degli impiegati civili, approvato con [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), in quanto non siano contrarie al presente decreto. 
+ Al personale predetto si applicano le disposizioni sullo stato giuridico degli impiegati civili, approvato con [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), in quanto non siano contrarie al presente decreto. 
  
- Le attribuzioni riservate dal citato [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), al Consiglio di amministrazione, costituito ai sensi dell'art. 11 del decreto medesimo, sono esercitate dal Consiglio di amministrazione di cui all'art. 3 del presente decreto.
+ Le attribuzioni riservate dal citato [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), al Consiglio di amministrazione, costituito ai sensi dell'art. 11 del decreto medesimo, sono esercitate dal Consiglio di amministrazione di cui all'art. 3 del presente decreto.
 
 ## Art. 23.
 
@@ -266,7 +266,7 @@ Nelle vertenze che interessano l'Amministrazione delle poste e dei telegrafi e c
 
 ## Art. 26.
 
-I posti di direttore generale di cui alla tabella n. 51 dell'allegato II, annessa al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono soppressi.
+I posti di direttore generale di cui alla tabella n. 51 dell'allegato II, annessa al [R. decreto 11 novembre 1923, numero 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono soppressi.
 
 ## Art. 27.
 

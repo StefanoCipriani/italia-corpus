@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' CELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le sue successive modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le sue successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,9 +22,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-I ruoli organici dei professori delle scuole medie, di cui alla tabella n. 36 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli di cui alla tabella A, annessa al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti. 
+I ruoli organici dei professori delle scuole medie, di cui alla tabella n. 36 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli di cui alla tabella A, annessa al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti. 
  
- Resta modificata in conformita' la tabella di classificazione per gradi dei professori medesimi, stabilita con l'allegato I al predetto [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ Resta modificata in conformita' la tabella di classificazione per gradi dei professori medesimi, stabilita con l'allegato I al predetto [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 
@@ -32,7 +32,7 @@ I professori ordinari di ruolo A, B e C, conseguono la promozione alla seconda c
 
 ## Art. 3.
 
-I professori dei ruoli transitori, di cui agli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_11) e [13 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_13), i quali, anteriormente al 1° ottobre 1923, appartenevano ai ruoli A, B e C, sono collocati rispettivamente nei ruoli transitori, di cui alla tabella B annessa al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti. 
+I professori dei ruoli transitori, di cui agli [articoli 11](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md) e [13 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), i quali, anteriormente al 1° ottobre 1923, appartenevano ai ruoli A, B e C, sono collocati rispettivamente nei ruoli transitori, di cui alla tabella B annessa al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti. 
  
  Ai professori, di cui al comma precedente, gia' appartenenti ai ruoli A e B, e' assegnato il trattamento economico della seconda classe rispettivamente dopo sei e sette anni di permanenza nella terza e quello della prima classe rispettivamente dopo sei e otto anni di permanenza nella seconda. Ai professori gia' appartenenti al ruolo C e' attribuito il trattamento economico della prima classe dopo otto anni di permanenza nella seconda.
 

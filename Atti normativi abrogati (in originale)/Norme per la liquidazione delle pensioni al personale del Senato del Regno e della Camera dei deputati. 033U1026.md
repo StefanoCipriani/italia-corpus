@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Articolo unico.
 
-I [commi terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703#art_3-com3) e [quarto dell'art. 3 del R. decreto 27 giugno 1933, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703#art_3-com4), sono sostituiti dal seguente: 
+I [commi terzo](../Regi%20decreti/Norme%20per%20la%20liquidazione%20delle%20pensioni%20presso%20lAmministrazione%20dello%20Stato%20e%20per%20il%20relativo%20controllo%20della%20Corte%20dei%20conti.%20033U0703.md) e [quarto dell'art. 3 del R. decreto 27 giugno 1933, n. 703](../Regi%20decreti/Norme%20per%20la%20liquidazione%20delle%20pensioni%20presso%20lAmministrazione%20dello%20Stato%20e%20per%20il%20relativo%20controllo%20della%20Corte%20dei%20conti.%20033U0703.md), sono sostituiti dal seguente: 
  
  «Il Senato del Regno e la Camera dei deputati provvedono alla liquidazione e al pagamento delle pensioni e delle indennita' per il trattamento di quiescenza del proprio personale». 
  

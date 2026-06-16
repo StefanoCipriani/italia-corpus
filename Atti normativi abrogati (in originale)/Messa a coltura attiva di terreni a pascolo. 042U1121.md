@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le fores
 
 ## Art. 1.
 
-Per le opere di dissodamento anche senza l'impiego di mezzi meccanici ed esplosivi, di spietramento e di sterpatura, da eseguire nell'annata agraria 1942-43, occorrenti per la messa a coltura attiva di terreni tenuti a prato naturale, prato-pascolo, pascolo permanente ed a riposo, possono essere concessi sussidi nella misura dal 33 al 38 % indicata all'art. 44 del testo unico sulla bonifica integrale approvato con [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215); 
+Per le opere di dissodamento anche senza l'impiego di mezzi meccanici ed esplosivi, di spietramento e di sterpatura, da eseguire nell'annata agraria 1942-43, occorrenti per la messa a coltura attiva di terreni tenuti a prato naturale, prato-pascolo, pascolo permanente ed a riposo, possono essere concessi sussidi nella misura dal 33 al 38 % indicata all'art. 44 del testo unico sulla bonifica integrale approvato con [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md); 
  
  A tale scopo e' autorizzata la spesa di lire 150.000.000 da impegnare nell'esercizio finanziario 1942.43 ;
 

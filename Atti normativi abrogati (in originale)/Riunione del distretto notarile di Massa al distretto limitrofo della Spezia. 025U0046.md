@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e visto il relativo regolamento approvato col [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e visto il relativo regolamento approvato col [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
 
 Visto il [R. decreto 28 dicembre 1924, n. 2124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2124);
 

@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972) e la [legge 19 dicembre 1901, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-12-19;538); 
  
- Visti il regolamento amministrativo ed il regolamento di contabilita' per le istituzioni pubbliche di beneficenza, approvati con [R. decreto 5 febbraio 1891, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-05;99); 
+ Visti il regolamento amministrativo ed il regolamento di contabilita' per le istituzioni pubbliche di beneficenza, approvati con [R. decreto 5 febbraio 1891, n. 99](../Regi%20decreti/Che%20approva%20gli%20uniti%20regolamenti%20per%20la%20esecuzione%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20beneficenza.%20091U0099.md); 
  
  Visto il parere del Consiglio di Stato; 
  

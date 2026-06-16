@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 18 gennaio 1947, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-18;251#art_1);
 
-Visto l'[art. 7 del regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022#art_7);
+Visto l'[art. 7 del regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

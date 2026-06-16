@@ -40,7 +40,7 @@ Lo statuto della Regia universita' di Roma, approvato con R. decreto 14 ottobre 
  
  Art. 14. - E' sostituito con il seguente: 
  
- « La Commissione esaminatrice per gli esami a gruppo e' composta di un numero di membri che verra' determinato dal Consiglio della Facolta' sulle cui materie vertono gli esami, secondo le norme dell'art. 86 del regolamento generale universitario approvato con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674). 
+ « La Commissione esaminatrice per gli esami a gruppo e' composta di un numero di membri che verra' determinato dal Consiglio della Facolta' sulle cui materie vertono gli esami, secondo le norme dell'art. 86 del regolamento generale universitario approvato con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md). 
  
  La Commissione esaminatrice per ogni esame singolo e' composta di tre commissari, dei quali almeno uno e' scelto fra i liberi docenti o tra i cultori della materia ». 
  

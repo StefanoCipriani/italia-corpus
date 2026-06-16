@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 9 aprile 1928, n. 892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-09;892), col quale i comuni di Costermano e di Castione Veronese sono stati riuniti in un unico Comune con capoluogo Costermano; 
+ Visto il [R. decreto 9 aprile 1928, n. 892](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Costermano%20e%20di%20Castione%20Veronese%20in%20un%20unico%20Comune%20con%20capoluogo%20Costermano.%20028U0892.md), col quale i comuni di Costermano e di Castione Veronese sono stati riuniti in un unico Comune con capoluogo Costermano; 
  Vista la deliberazione del podesta' di Costermano, rivolta ad ottenere che per tutto il territorio del Comune medesimo funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso 1a Corte d'appello di Venezia: 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md). e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

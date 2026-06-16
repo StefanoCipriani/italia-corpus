@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), per il riordinamento dell'insegnamento industriale;
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), per il riordinamento dell'insegnamento industriale;
 
 Visto il [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), che approva il regolamento per l'applicazione del Regio decreto anzidetto;
 
-Visto il [R. decreto 17 dicembre 1922, n. 1875](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-17;1875), concernente la istituzione della Regia scuola per le piccole industrie forestali in Pieve di Cadore;
+Visto il [R. decreto 17 dicembre 1922, n. 1875](../Regi%20decreti/Riordinamento%20cambiamento%20di%20denominazione%20istituzione%20e%20classificazione%20di%20scuole.%20022U1875.md), concernente la istituzione della Regia scuola per le piccole industrie forestali in Pieve di Cadore;
 
 Sentita la III Sezione del Consiglio superiore per l'istruzione agraria, industriale e commerciale;
 

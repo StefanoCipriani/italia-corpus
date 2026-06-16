@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per l'agricoltura, di concerto c
 
 ## Art. 1.
 
-I limiti minimi di peso inferiori a 200 chilogrammi, attualmente in vigore in alcune provincie, o zone di provincia, per l'ammissione dei vitelli alla macellazione, in virtu' del [R. decreto 2 maggio 1915, n. 566](Recante%20modificazioni%20al%20R.%20decreto%2022%20aprile%201915%20n.%20497%20sulla%20macellazione%20dei%20vitelli.%20015U0566.md), convertito in legge, dovranno essere sottoposti, dai prefetti, all'esame del Ministero di agricoltura, per la con ferma o la eventuale modificazione.
+I limiti minimi di peso inferiori a 200 chilogrammi, attualmente in vigore in alcune provincie, o zone di provincia, per l'ammissione dei vitelli alla macellazione, in virtu' del [R. decreto 2 maggio 1915, n. 566](../Regi%20decreti/Recante%20modificazioni%20al%20R.%20decreto%2022%20aprile%201915%20n.%20497%20sulla%20macellazione%20dei%20vitelli.%20015U0566.md), convertito in legge, dovranno essere sottoposti, dai prefetti, all'esame del Ministero di agricoltura, per la con ferma o la eventuale modificazione.
 
 ## Art. 2.
 
@@ -36,7 +36,7 @@ In ogni provincia, o zona di provincia, e' vietata la macellazione di vitelli, d
  
  I vitelli provenienti da altre provincie, o zone di provincia, dovranno, in ogni caso, avere raggiunto il limite minimo di peso vigente nel luogo di origine. 
  
- E' abrogata la disposizione dell'ultimo capoversi dell'[art. 1 del R. decreto 2 maggio 1915, n. 566](Recante%20modificazioni%20al%20R.%20decreto%2022%20aprile%201915%20n.%20497%20sulla%20macellazione%20dei%20vitelli.%20015U0566.md), convertito in legge.
+ E' abrogata la disposizione dell'ultimo capoversi dell'[art. 1 del R. decreto 2 maggio 1915, n. 566](../Regi%20decreti/Recante%20modificazioni%20al%20R.%20decreto%2022%20aprile%201915%20n.%20497%20sulla%20macellazione%20dei%20vitelli.%20015U0566.md), convertito in legge.
 
 ## Art. 3.
 

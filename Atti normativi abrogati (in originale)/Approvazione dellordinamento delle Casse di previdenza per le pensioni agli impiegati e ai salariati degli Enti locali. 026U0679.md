@@ -28,15 +28,15 @@ Visto l'[art. 6 del decreto-legge Luogotenenziale 25 marzo 1919, n. 467](Che%20m
 
 Visto il [R. decreto-legge 3 luglio 1919, n. 1426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-07-03;1426);
 
-Visto l'[art. 35 del R. decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), modificato con l'[art. 3 del R. decreto 15 febbraio 1923, numero 574](Che%20apporta%20modificazioni%20al%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20esercitati%20dallindustria%20privata%20da%20Provincie%20e%20da%20Comun_9849929bd997.md);
+Visto l'[art. 35 del R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), modificato con l'[art. 3 del R. decreto 15 febbraio 1923, numero 574](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20esercitati%20dallindustria%20privata%20da%20Provincie%20e%20da%20Comun_9849929bd997.md);
 
 Visto il [R. decreto-legge 15 settembre 1923, n. 2093](Cassa%20di%20previdenza%20per%20gli%20impiegati%20e%20salariati%20degli%20Enti%20locali.%20023U2093.md);
 
 Visto il [R. decreto-legge 15 settembre 1923, n. 2116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-15;2116);
 
-Visto il [R. decreto 7 ottobre 1923, n. 2349](Provvedimenti%20transitori%20per%20il%20trattamento%20di%20quiescenza%20ai%20segretari%20ed%20altri%20impiegati%20degli%20Enti%20locali%20iscritti%20alla%20Cassa%20di%20previdenza.%20023U2349.md), recante miglioramenti transitori nel trattamento di quiescenza degli impiegati iscritti alla Cassa di previdenza;
+Visto il [R. decreto 7 ottobre 1923, n. 2349](../Regi%20decreti/Provvedimenti%20transitori%20per%20il%20trattamento%20di%20quiescenza%20ai%20segretari%20ed%20altri%20impiegati%20degli%20Enti%20locali%20iscritti%20alla%20Cassa%20di%20previdenza.%20023U2349.md), recante miglioramenti transitori nel trattamento di quiescenza degli impiegati iscritti alla Cassa di previdenza;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3256](Testo%20unico%20delle%20leggi%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20023U3256.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3256](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20023U3256.md);
 
 Visto il [R. decreto-legge 25 settembre 1924, n. 1587](Accertamento%20e%20riscossione%20dei%20contributi%20spettanti%20alla%20Cassa%20di%20previdenza%20degli%20impiegati%20e%20dei%20salariati%20degli%20Enti%20locali.%20024U1587.md);
 

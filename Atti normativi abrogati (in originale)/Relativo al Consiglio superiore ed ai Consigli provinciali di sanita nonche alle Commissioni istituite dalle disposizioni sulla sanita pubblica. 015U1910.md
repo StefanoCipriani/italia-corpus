@@ -50,7 +50,7 @@ A cominciare dalla prima rinnovazione successiva al presente decreto, concorrera
  
  b) i Consigli provinciali di sanita': 
  
- i membri che ne fanno parte di diritto a termini dell'[art. 8 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_8) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
+ i membri che ne fanno parte di diritto a termini dell'[art. 8 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
  
  due dottori in medicina e chirurgia; 
  
@@ -68,15 +68,15 @@ A cominciare dalla prima rinnovazione successiva al presente decreto, concorrera
  
  una persona esperta nelle scienze agrarie. 
  
- E' abrogato l'art. 17 del regolamento generale sanitario approvato con [R. decreto 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45). 
+ E' abrogato l'art. 17 del regolamento generale sanitario approvato con [R. decreto 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md). 
  
  Nulla e' innovato circa i modi di nomina e la durata in carica dei componenti elettivi dei consessi stessi, come circa il numero, i modi di nomina e la durata in carica dei componenti: 
  
- la Commissione centrale consultiva per il risanamento della citta' di Napoli di cui all'art. 7 del regolamento approvato con [R. decreto 12 marzo 1885, numero 3003](Che%20approva%20lannessovi%20Regolamento%20per%20la%20esecuzione%20della%20legge%20sulle%20opere%20da%20eseguirsi%20per%20il%20risanamento%20della%20citta%20di%20Napoli.%20085U3003.md), modificato con [R. decreto 29 maggio 1913, n. 828](Col%20quale%20viene%20modificalo%20lart.%207%20del%20regolamento%20approvato%20con%20R.%20decreto%2012%20marzo%201885%20n.%203003%20concernente%20il%20risanamento%20della%20citta%20di%20Napoli.%20013U0828.md); 
+ la Commissione centrale consultiva per il risanamento della citta' di Napoli di cui all'art. 7 del regolamento approvato con [R. decreto 12 marzo 1885, numero 3003](../Regi%20decreti/Che%20approva%20lannessovi%20Regolamento%20per%20la%20esecuzione%20della%20legge%20sulle%20opere%20da%20eseguirsi%20per%20il%20risanamento%20della%20citta%20di%20Napoli.%20085U3003.md), modificato con [R. decreto 29 maggio 1913, n. 828](../Regi%20decreti/Col%20quale%20viene%20modificalo%20lart.%207%20del%20regolamento%20approvato%20con%20R.%20decreto%2012%20marzo%201885%20n.%203003%20concernente%20il%20risanamento%20della%20citta%20di%20Napoli.%20013U0828.md); 
  
  le Commissioni permanenti per le farmacie di cui all'[art. 3 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md). 
  
- La Commissione centrale permanente per le ricompense ai benemeriti della salute pubblica di cui al [Regio decreto 5 marzo 1914, n. 184](Riguardante%20il%20conferimento%20di%20ricompense%20ai%20benemeriti%20della%20salute%20pubblica.%20014U0184.md) resta, a decorrere dal 1° gennaio 1916, composta: 
+ La Commissione centrale permanente per le ricompense ai benemeriti della salute pubblica di cui al [Regio decreto 5 marzo 1914, n. 184](../Regi%20decreti/Riguardante%20il%20conferimento%20di%20ricompense%20ai%20benemeriti%20della%20salute%20pubblica.%20014U0184.md) resta, a decorrere dal 1° gennaio 1916, composta: 
  
  del direttore generale della sanita' pubblica, presidente; 
  
@@ -112,7 +112,7 @@ Il Consiglio superiore di sanita';
  
  a) su tutti i regolamenti da emanarsi dal ministro, riguardanti la igiene e la sanita' pubblica; 
  
- b) sui regolamenti speciali occorrenti per la esecuzione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); del testo unico delle leggi sul lavoro delle donne e dei fanciulli approvato con [R. decreto 10 novembre 1907, n. 818](Che%20approva%20lunito%20testo%20unico%20di%20legge%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20007U0818.md); della legge per combattere l'alcoolismo 19 giugno 1911, n. 636; 
+ b) sui regolamenti speciali occorrenti per la esecuzione del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); del testo unico delle leggi sul lavoro delle donne e dei fanciulli approvato con [R. decreto 10 novembre 1907, n. 818](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20di%20legge%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20007U0818.md); della legge per combattere l'alcoolismo 19 giugno 1911, n. 636; 
  
  e) sull'elenco dei colori nocivi; 
  
@@ -239,9 +239,9 @@ I provvedimenti che a norma delle disposizioni anteriori al presente decreto dev
  
  Sono deferite: 
  
- al ministro dell'interno, l'approvazione dei regolamenti speciali dei manicomi; e quella dei generi medicinali e dei medicamenti composti a termine dell'articolo 15 della tariffa doganale approvata con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md); 
+ al ministro dell'interno, l'approvazione dei regolamenti speciali dei manicomi; e quella dei generi medicinali e dei medicamenti composti a termine dell'articolo 15 della tariffa doganale approvata con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md); 
  
- al prefetto, la determinazione del minimo di abitabilita' delle abitazioni rurali; l'adozione dei provvedimenti d'ufficio per la riabitabilita' di case rurali nei limiti e nelle forme dell'[art. 71 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_71) 1° agosto 1907, n. 636; e le attribuzioni conferite al Consiglio provinciale di sanita' dalle disposizioni sulla Cassa pensioni dei sanitari.
+ al prefetto, la determinazione del minimo di abitabilita' delle abitazioni rurali; l'adozione dei provvedimenti d'ufficio per la riabitabilita' di case rurali nei limiti e nelle forme dell'[art. 71 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636; e le attribuzioni conferite al Consiglio provinciale di sanita' dalle disposizioni sulla Cassa pensioni dei sanitari.
 
 ## Art. 8.
 

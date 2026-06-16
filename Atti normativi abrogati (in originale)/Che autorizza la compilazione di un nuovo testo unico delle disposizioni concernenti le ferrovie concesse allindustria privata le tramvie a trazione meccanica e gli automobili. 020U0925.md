@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulle ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Visto il testo unico delle leggi sulle ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Considerato che per le numerose ed importanti leggi emanate posteriormente si rende necessario coordinare in un nuovo testo unico tutta la legislazione vigente sulla materia anzidetta;
 
@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici; Abbiamo d
 
 ## Art. 1.
 
-E' data facolta' al Governo del Re di riunire e coordinare in un nuovo testo unico le disposizioni sulle ferrovie concesse all'industria privata, sulle tramvie a trazione meccanica e sugli automobili di cui al testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), con le altre portate dai provvedimenti legislativi sulla stessa materia emanati posteriormente.
+E' data facolta' al Governo del Re di riunire e coordinare in un nuovo testo unico le disposizioni sulle ferrovie concesse all'industria privata, sulle tramvie a trazione meccanica e sugli automobili di cui al testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), con le altre portate dai provvedimenti legislativi sulla stessa materia emanati posteriormente.
 
 ## Art. 2.
 

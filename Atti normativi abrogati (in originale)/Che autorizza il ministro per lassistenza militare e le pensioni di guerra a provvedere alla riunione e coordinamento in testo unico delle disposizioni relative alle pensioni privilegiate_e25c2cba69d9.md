@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 22 maggio 1915, N. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70) e viste le successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) e viste le successive modificazioni;
 
 Ritenuta la necessita' di riunire e coordinare in un separato testo unico tutte le disposizioni relative alle pensioni privilegiate di guerra;
 

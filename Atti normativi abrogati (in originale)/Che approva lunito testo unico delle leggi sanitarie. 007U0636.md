@@ -38,13 +38,13 @@ VITTORIO EMANUELE III
  
  10° [legge 21 luglio 1902, n. 427](Sulla%20prevenzione%20e%20cura%20della%20pellagra.%20002U0427.md) e contenente disposizioni per combattere la pellagra; 
  
- Veduto l'[art. 4 della legge 19 maggio 1904, n. 209](Che%20modifica%20alcuni%20articoli%20di%20quella%20in%20data%2023%20dicembre%201900%20n.%20505%20per%20la%20vendita%20del%20chinino%20per%20conto%20dello%20Stato.%20004U0209.md), che da' facolta' al Nostro Governo di coordinare e pubblicare con l'anzidetto [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), le disposizioni della legge stessa e quelle da essa non modificate delle altre [leggi 23 dicembre 1900, n. 505, 2 novembre 1901, 2 novembre 1901, n. 460 e 22 giugno 1902, n. 224](Distribuzione%20del%20chinino%20di%20Stato%20alle%20Congregazioni%20di%20carita.%20002U0224.md); 
+ Veduto l'[art. 4 della legge 19 maggio 1904, n. 209](Che%20modifica%20alcuni%20articoli%20di%20quella%20in%20data%2023%20dicembre%201900%20n.%20505%20per%20la%20vendita%20del%20chinino%20per%20conto%20dello%20Stato.%20004U0209.md), che da' facolta' al Nostro Governo di coordinare e pubblicare con l'anzidetto [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), le disposizioni della legge stessa e quelle da essa non modificate delle altre [leggi 23 dicembre 1900, n. 505, 2 novembre 1901, 2 novembre 1901, n. 460 e 22 giugno 1902, n. 224](Distribuzione%20del%20chinino%20di%20Stato%20alle%20Congregazioni%20di%20carita.%20002U0224.md); 
  
  Veduta la [legge 8 luglio 1904, n. 360](Sulla%20fabbricazione%20e%20vendita%20di%20vaccini%20virus%20sieri%20tossine%20e%20prodotti%20affini.%20004U0360.md), colla quale furono sostituite le due precedenti [leggi 21 dicembre 1899, n. 472 e 13 giugno 1901, n. 212](Portante%20modificazioni%20agli%20articoli%202%20e%203%20di%20quella%20in%20data%2021%20dicembre%201899%20n.%20472%20sulla%20preparazione%20e%20vendita%20dei%20sieri.%20001U0212.md); 
  
  Veduto il [R. decreto 27 luglio 1905, n. 487](Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20profilassi%20delle%20malattie%20celtiche.%20005U0487.md), col quale venne approvato il Regolamento per la profilassi delle malattie celtiche, in modificazione del precedente [Regolamento 27 ottobre 1891, n. 605](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1891-10-27;605); 
  
- Veduto l'[articolo 2 della legge 15 luglio 1906, n. 368](Modificazioni%20allarticolo%2058%20della%20legge%2022%20dicembre%201888%20n.%205849%20serie%203ª%20per%20la%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20006U0368.md), che da' facolta' al Nostro Governo di coordinare e riunire le disposizioni della legge stessa con l'anzidetto [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); 
+ Veduto l'[articolo 2 della legge 15 luglio 1906, n. 368](Modificazioni%20allarticolo%2058%20della%20legge%2022%20dicembre%201888%20n.%205849%20serie%203ª%20per%20la%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20006U0368.md), che da' facolta' al Nostro Governo di coordinare e riunire le disposizioni della legge stessa con l'anzidetto [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
  
  Veduta la legga 16 giugno 1907, n. 337, che abroga sostituisce quella del 12 giugno 1866, n. 2967, sopra citata; 
  
@@ -56,7 +56,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' approvato l'unito [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) che sara' vidimato e sottoscritto d'ordine Nostro dal Nostro ministro segretario di Stato per gli affari dell'interno. 
+ E' approvato l'unito [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) che sara' vidimato e sottoscritto d'ordine Nostro dal Nostro ministro segretario di Stato per gli affari dell'interno. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

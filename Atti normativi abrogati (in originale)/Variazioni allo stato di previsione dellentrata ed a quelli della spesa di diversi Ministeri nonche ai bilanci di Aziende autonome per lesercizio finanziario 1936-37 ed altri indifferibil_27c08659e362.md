@@ -52,7 +52,7 @@ Per completare l'arredamento scientifico e l'ammobigliamento dell'Istituto di ma
 
 ## Art. 7.
 
-In dipendenza dei passaggio del servizi del commercio estero al Sottosegretariato di Stato per gli scambi e le valute, di cui al [R. decreto 29 dicembre 1935, n. 2186](Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), i residui risultanti al 30 giugno 1936, sui capitoli nn. 30 e 31 del bilancio del Ministero delle corporazioni per l'esercizio 1935-36, si intendono attribuiti ai capitoli nn. 104-bis e 104-ter del bilancio del Ministero delle finanze, per l'esercizio finanziario 1936-37. 
+In dipendenza dei passaggio del servizi del commercio estero al Sottosegretariato di Stato per gli scambi e le valute, di cui al [R. decreto 29 dicembre 1935, n. 2186](../Regi%20decreti/Istituzione%20del%20Sottosegretariato%20di%20Stato%20per%20gli%20scambi%20e%20per%20le%20valute.%20035U2186.md), i residui risultanti al 30 giugno 1936, sui capitoli nn. 30 e 31 del bilancio del Ministero delle corporazioni per l'esercizio 1935-36, si intendono attribuiti ai capitoli nn. 104-bis e 104-ter del bilancio del Ministero delle finanze, per l'esercizio finanziario 1936-37. 
  Con decreti del Ministro per le finanze, sara' provveduto agli occorrenti adempimenti.
 
 ## Art. 8.
@@ -62,7 +62,7 @@ All'art. 41 del testo unico sull'Opera di previdenza dei personali civili e mili
 
 ## Art. 9.
 
-L'art. 42 del testo unico sull'Opera di previdenza dei personali civili e militari dello Stato, approvato con [R. decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), e' modificato come appresso: 
+L'art. 42 del testo unico sull'Opera di previdenza dei personali civili e militari dello Stato, approvato con [R. decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md), e' modificato come appresso: 
  «Quando vi sia stato ricovero in una clinica ospitaliera o privata il concorso dell'Opera viene corrisposto alla clinica qualora il conto non risulti quietanzato. In tutti gli altri casi il pagamento sara' fatto all'iscritto od al superstite dell'iscritto stesso a favore del quale il concorso sia stato deliberato. 
  «Concorrendo circostanze eccezionali il pagamento puo' effettuarsi a mezzo dell'Amministrazione dalla quale l'iscritto dipende. 
  «Per coloro che si trovino in servizio all'estero o nelle colonie per esigenze del loro ufficio, il pagamento ove non possa eseguirsi direttamente, viene effettuato a mezzo dell'Amministrazione centrale da cui essi dipendono».

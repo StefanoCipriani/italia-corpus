@@ -993,7 +993,7 @@ Saranno in ogni caso nulle le votazioni delle sezioni, in cui non siano state os
  
  Le Commissioni e i Comitati d'inchiesta della Camera hanno diritto di far citare i testimoni, concedendo loro, se occorra, la indennita' commisurata sulla tariffa penale. 
  
- Ai testimoni sono applicabili le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsita' in giudizio e sul rifiuto di deporre in materia civile, salvo le maggiori pene secondo il Codice stesso, cadendo la falsita' od il rifiuto su materia punibile. 
+ Ai testimoni sono applicabili le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsita' in giudizio e sul rifiuto di deporre in materia civile, salvo le maggiori pene secondo il Codice stesso, cadendo la falsita' od il rifiuto su materia punibile. 
  
  Nessuna elezione puo' essere convalidata prima che siano trascorsi venti giorni dalla proclamazione.
 
@@ -1155,7 +1155,7 @@ Oltre quanto e' stabilito negli articoli 115, 119 e 128, incorrono nella perdita
  
  6° i condannati all'interdizione temporanea dai pubblici uffici per tutto il tempo della sua durata; 
  
- 7° i condannati per delitti contro la liberta' individuale previsti dagli [articoli 145](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [146](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [147 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per peculato, concussione e corruzione, calunnia, falsita' in giudizio, associazione a delinquere prevista dall'[art. 248 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevaricazione, falsita' in monete e in carte di pubblico credito, falsita' in sigilli, bolli pubblici e loro impronte, falsita' in atti, frodi negli incanti, per delitti contro l'incolumita' pubblica, esclusi i colposi e quelli previsti dall'[art. 310 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), violenza carnale, corruzione di minorenni, oltraggio pubblico al pudore, lenocinio, omicidio, lesione personale seguita da morto e quella prevista dai [nn. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [2 dell'art. 372 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), esclusi pero' il primo e comma dell'articolo stesso, furto, eccetto quando la condanna sia dovuta al reato previsto dall'[art. 405 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o ad abuso di usi civici, rapina, estorsione e ricattto, truffa, altre frodi, appropriazione indebita e danneggiamento previsto dall'[art. 424 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sia per l'uno che per l'altro delitto, nei casi nei quali si procede d'ufficio, ricettazione e bancarotta fraudolenta; 
+ 7° i condannati per delitti contro la liberta' individuale previsti dagli [articoli 145](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [146](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [147 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per peculato, concussione e corruzione, calunnia, falsita' in giudizio, associazione a delinquere prevista dall'[art. 248 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevaricazione, falsita' in monete e in carte di pubblico credito, falsita' in sigilli, bolli pubblici e loro impronte, falsita' in atti, frodi negli incanti, per delitti contro l'incolumita' pubblica, esclusi i colposi e quelli previsti dall'[art. 310 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), violenza carnale, corruzione di minorenni, oltraggio pubblico al pudore, lenocinio, omicidio, lesione personale seguita da morto e quella prevista dai [nn. 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [2 dell'art. 372 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), esclusi pero' il primo e comma dell'articolo stesso, furto, eccetto quando la condanna sia dovuta al reato previsto dall'[art. 405 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o ad abuso di usi civici, rapina, estorsione e ricattto, truffa, altre frodi, appropriazione indebita e danneggiamento previsto dall'[art. 424 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sia per l'uno che per l'altro delitto, nei casi nei quali si procede d'ufficio, ricettazione e bancarotta fraudolenta; 
  
  8° i condannati per delitti che, secondo le cessate legislazioni penali, corrispondono ai delitti contemplati nel numero precedente. 
  
@@ -1185,7 +1185,7 @@ Chiunque forma una lista od un elenco o una nota di elettori, in tutto o in part
 
 Chiunque, con qualsiasi mezzo atto ad ingannare o a sorprendere l'altrui buona fede, ottiene indebitamente per se' o per altri la iscrizione negli elenchi, nelle liste o nelle note degli elettori o la cancellazione di uno o piu' elettori, e' punito con la detenzione sino ad un anno e con la multa sino a L. 2000. 
  
- Tali pene sono aumentate di un sesto, se il colpevole sia un componente della Commissione elettorale comunale o provinciale, salvo sempre le maggiori pene comminate dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati di falso.
+ Tali pene sono aumentate di un sesto, se il colpevole sia un componente della Commissione elettorale comunale o provinciale, salvo sempre le maggiori pene comminate dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati di falso.
 
 ### Art. 118.
 
@@ -1264,7 +1264,7 @@ Qualunque elettore puo' promuovere l'azione penale, costituendosi parte civile, 
  
  L'azione penale si prescrive nel termine di due anni dalla data della deliberazione definitiva della Camera sulla elezione o dall'ultimo atto del processo, ma l'effetto interruttivo non puo' prolungare la durata dell'azione penale per un tempo che superi la meta' del detto termine di due anni. 
  
- Ai pubblici ufficiali imputati di taluno dei reati contemplati nella presente legge non sono applicabili le disposizioni degli [articoli 8](Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md) e [157 del R. decreto 21 maggio 1908, n. 269](Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md), testo unico, legge comunale e provinciale.
+ Ai pubblici ufficiali imputati di taluno dei reati contemplati nella presente legge non sono applicabili le disposizioni degli [articoli 8](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md) e [157 del R. decreto 21 maggio 1908, n. 269](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md), testo unico, legge comunale e provinciale.
 
 ### Art. 128.
 
@@ -1274,9 +1274,9 @@ Nei reati elettorali, ove la presente legge non abbia specificatamente contempla
  
  Ove la detta condanna colpisca il candidato, la privazione del diritto elettorale e di eleggibilita' sara' pronunziata per un tempo non minore di cinque ne' maggiore di dieci anni. 
  
- Ai reati elettorali si applicano le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati ed alle circostanze attenuanti. 
+ Ai reati elettorali si applicano le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati ed alle circostanze attenuanti. 
  
- Resta sempre salva l'applicazione delle maggiori pene stabilite nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge. 
+ Resta sempre salva l'applicazione delle maggiori pene stabilite nel [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge. 
  
  Ai reati elettorali non e' applicabile la [legge 26 giugno 1904, n. 267](Sospensione%20della%20esecuzione%20delle%20sentenze%20di%20condanna.%20004U0267.md).
 

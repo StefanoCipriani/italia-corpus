@@ -42,7 +42,7 @@ A garanzia dei titoli emessi, gli Istituti di cui all'art. 1 dovranno depositare
 
 ## Art. 4.
 
-La speciale riserva prescritta per i debiti a vista degli Istituti di emissione dall'art. 19 del testo unico di legge approvato con il [R. decreto del 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204), e' ridotta dal 40 al 20% e dovra' essere composta interamente da moneta legale italiana metallica, da monete estere ammesse a corso legale nel Regno, ed in verghe d'oro.
+La speciale riserva prescritta per i debiti a vista degli Istituti di emissione dall'art. 19 del testo unico di legge approvato con il [R. decreto del 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), e' ridotta dal 40 al 20% e dovra' essere composta interamente da moneta legale italiana metallica, da monete estere ammesse a corso legale nel Regno, ed in verghe d'oro.
 
 ## Art. 5.
 

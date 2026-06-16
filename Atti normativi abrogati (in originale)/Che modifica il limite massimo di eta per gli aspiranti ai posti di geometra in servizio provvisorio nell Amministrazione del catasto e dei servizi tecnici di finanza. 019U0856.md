@@ -10,9 +10,9 @@ vigente: true
 
 ## Articolo unico.
 
-Il limite massimo di eta' per l'ammissione di coloro, che aspirano ad essere assunti in servizio provvisorio dell'Amministrazione del catasto e dei servizi tecnici di finanza in qualita' di geometra, stabilito in 26 anni con l'art. 27 del regolamento approvato con [R. decreto 2 luglio 1908, n. 457](Che%20approva%20lannesso%20regolamento%20pel%20personale%20aggiunto%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20finanza.%20008U0457.md), e' portato a 30 anni. 
+Il limite massimo di eta' per l'ammissione di coloro, che aspirano ad essere assunti in servizio provvisorio dell'Amministrazione del catasto e dei servizi tecnici di finanza in qualita' di geometra, stabilito in 26 anni con l'art. 27 del regolamento approvato con [R. decreto 2 luglio 1908, n. 457](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20pel%20personale%20aggiunto%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20finanza.%20008U0457.md), e' portato a 30 anni. 
  
- La retribuzione mensile dei geometri provvisori del catasto e dei servizi tecnici di finanza stabilita in L. 120 con l'art. 28 del regolamento approvato con [R. decreto 2 luglio 1908, n. 457](Che%20approva%20lannesso%20regolamento%20pel%20personale%20aggiunto%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20finanza.%20008U0457.md), e' portata a 150 lire. 
+ La retribuzione mensile dei geometri provvisori del catasto e dei servizi tecnici di finanza stabilita in L. 120 con l'art. 28 del regolamento approvato con [R. decreto 2 luglio 1908, n. 457](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20pel%20personale%20aggiunto%20del%20catasto%20e%20dei%20servizi%20tecnici%20di%20finanza.%20008U0457.md), e' portata a 150 lire. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

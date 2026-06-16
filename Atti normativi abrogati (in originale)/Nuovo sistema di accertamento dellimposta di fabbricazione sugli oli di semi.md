@@ -93,7 +93,7 @@ Le fabbriche di oli di semi soggette a vigilanza saltuaria, almeno dieci giorni 
  f) il diametro interno della campana e la relativa altezza per ciascuna pressa;
  g) il numero dei giorni lavorativi con l'indicazione della data di ciascun giorno;
  h) la qualita', la quantita' dei semi introdotti in fabbrica nonche' la data e l'ora della loro introduzione;
- i) gli estremi delle fatture, note, conti, quietanze o altri documenti emessi in relazione all'acquisto od al passaggio dei semi oleosi in conto lavorazione, ai sensi degli [articoli 8 della legge 19 giugno 1940, n. 762 e 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;16#art_8) e 35 del relativo regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md); ovvero, quando trattisi di semi esteri, gli estremi delle relative bollette di importazione;
+ i) gli estremi delle fatture, note, conti, quietanze o altri documenti emessi in relazione all'acquisto od al passaggio dei semi oleosi in conto lavorazione, ai sensi degli [articoli 8 della legge 19 giugno 1940, n. 762 e 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-19;16#art_8) e 35 del relativo regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md); ovvero, quando trattisi di semi esteri, gli estremi delle relative bollette di importazione;
  l) il quantitativo di olio ricavabile dalla partita di semi da lavorare, calcolato nel modo indicato all'art. 3;
  m) l'importo della imposta pagata sul quantitativo di olio di cui alla precedente lettera l);
  n) gli estremi della quietanza di Tesoreria comprovante il pagamento dell'imposta.
@@ -173,7 +173,7 @@ Le infrazioni alle disposizioni dell'art. 10 sono punite con l'ammenda da L. 200
 
 ## Art. 20.
 
-Le disposizioni di cui agli articoli 18 e 19, per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in modifica agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
+Le disposizioni di cui agli articoli 18 e 19, per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in modifica agli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
 
 ## Art. 21.
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 17 giugno 1923, n. 1263](Che%20approva%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20delle%20Amministrazioni%20dello%20Stato%20per%20lanno%20finanziario%20dal%201%20luglio%201923%20al%2030%20giugno%201924%20fino%20a%20q_44558b8bad1b.md); 
  
- Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41), recante nuove norme sulla contabilita' generale dello Stato; 
+ Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante nuove norme sulla contabilita' generale dello Stato; 
  
  Udito il Consiglio dei Ministri; 
  

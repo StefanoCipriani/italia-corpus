@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Ai proprietari dei depositi di spirito previsti dal secondo comma dell'art. 43 del testo unico delle leggi sugli spiriti approvato con [R. decreto del 16 settembre 1909, n. 704](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20009U0704.md), e' consentito di estrarre dagli stessi depositi gli spiriti ivi esistenti anche prima che sia maturato il termine di giacenza prescritto dal citato art. 43 del testo unico di leggi, a condizione che per la quantita' di spirito estratta in anticipazione sia pagato, oltre alla tassa dovuta in ragione del periodo di giacenza fino al giorno dell'estrazione, un supplemento di tassa di L. 25 per ettolitro anidro. 
+Ai proprietari dei depositi di spirito previsti dal secondo comma dell'art. 43 del testo unico delle leggi sugli spiriti approvato con [R. decreto del 16 settembre 1909, n. 704](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20009U0704.md), e' consentito di estrarre dagli stessi depositi gli spiriti ivi esistenti anche prima che sia maturato il termine di giacenza prescritto dal citato art. 43 del testo unico di leggi, a condizione che per la quantita' di spirito estratta in anticipazione sia pagato, oltre alla tassa dovuta in ragione del periodo di giacenza fino al giorno dell'estrazione, un supplemento di tassa di L. 25 per ettolitro anidro. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

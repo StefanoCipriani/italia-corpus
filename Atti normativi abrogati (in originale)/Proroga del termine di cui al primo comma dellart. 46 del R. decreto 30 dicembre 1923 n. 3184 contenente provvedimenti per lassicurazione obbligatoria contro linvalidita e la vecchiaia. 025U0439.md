@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 46 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_46), concernente provvedimenti per l'assicurazione obbligatoria contro l'invalidita' e la vecchiaia;
+Veduto l'[art. 46 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), concernente provvedimenti per l'assicurazione obbligatoria contro l'invalidita' e la vecchiaia;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Articolo unico.
 
-Il termine previsto dal [primo comma dell'art. 46 del Regio decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_46-com1), per la dichiarazione di voler conservare la qualita' di assicurato obbligatorio da parte delle persone assicurate obbligatoriamente a norma del [decreto-legge 21 aprile 1919, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-04-21;603), per le quali non ricorra piu' l'obbligo dell'assicurazione per effetto del precitato [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), e' prorogato al 31 dicembre 1925. 
+Il termine previsto dal [primo comma dell'art. 46 del Regio decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), per la dichiarazione di voler conservare la qualita' di assicurato obbligatorio da parte delle persone assicurate obbligatoriamente a norma del [decreto-legge 21 aprile 1919, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-04-21;603), per le quali non ricorra piu' l'obbligo dell'assicurazione per effetto del precitato [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), e' prorogato al 31 dicembre 1925. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

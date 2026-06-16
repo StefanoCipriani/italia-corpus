@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Fino a nuova disposizione, il regolamento per gli acquisti in economia per l'amministrazione degli Istituti di prevenzione e di pena, approvato con il [Regio decreto 31 marzo 1912, n. 384](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20acquisti%20in%20economia%20da%20parte%20dellAmministrazione%20delle%20carceri%20e%20dei%20riformatori.%20012U0384.md), e' modificato nel modo seguente: 
+Fino a nuova disposizione, il regolamento per gli acquisti in economia per l'amministrazione degli Istituti di prevenzione e di pena, approvato con il [Regio decreto 31 marzo 1912, n. 384](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20acquisti%20in%20economia%20da%20parte%20dellAmministrazione%20delle%20carceri%20e%20dei%20riformatori.%20012U0384.md), e' modificato nel modo seguente: 
  a) l'art. 2 e' abrogato; 
  b) l'art. 3 e' cosi' sostituito: " Le pratiche preliminari per tali acquisti sono normalmente fatte dal le singole direzioni, che, studiate le condizioni del mercato, disciplinano la fornitura da eseguirsi, interpellando quel maggior numero di ditte idonee che ritengono conveniente, e rimettono quindi al Ministero le offerte ricevute, possibilmente coi listini dei prezzi, accompagnandole con una particolareggiata, motivata relazione, contenente le loro proposte concrete".
 

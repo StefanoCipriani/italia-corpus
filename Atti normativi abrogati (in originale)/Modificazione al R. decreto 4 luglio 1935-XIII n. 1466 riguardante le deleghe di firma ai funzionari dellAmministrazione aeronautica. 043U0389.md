@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 18 novembre 1923, n 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, nonche' il relativo regolamento approvato col [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e le successive modificazioni;
+Visto il [R. decreto 18 novembre 1923, n 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, nonche' il relativo regolamento approvato col [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e le successive modificazioni;
 
 Visto il R. decreto 4 luglio 1935-XIII, n. 1466, recante norme per le deleghe di firma;
 

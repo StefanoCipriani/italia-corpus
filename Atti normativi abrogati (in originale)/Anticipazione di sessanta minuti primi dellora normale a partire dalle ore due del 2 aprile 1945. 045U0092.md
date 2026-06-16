@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 10 agosto 1893, n. 490](Col%20quale%20si%20dispone%20che%20il%20servizio%20delle%20strade%20ferrate%20nel%20Regno%20venga%20regolato%20secondo%20il%20tempo%20dellEuropa%20centrale.%20093U0490.md), riguardante l'adozione, per l'Italia, dell'ora del secondo fuso (ora dell'Europa centrale);
+Visto il [R. decreto 10 agosto 1893, n. 490](../Regi%20decreti/Col%20quale%20si%20dispone%20che%20il%20servizio%20delle%20strade%20ferrate%20nel%20Regno%20venga%20regolato%20secondo%20il%20tempo%20dellEuropa%20centrale.%20093U0490.md), riguardante l'adozione, per l'Italia, dell'ora del secondo fuso (ora dell'Europa centrale);
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 

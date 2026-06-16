@@ -26,9 +26,9 @@ Nei territori annessi in base all' [art. 3 della legge 26 settembre 1920, n. 132
  
  a) [R. decreto 4 giugno 1914, n. 563](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20Istituti%20di%20vigilanza%20privata.%20014U0563.md), sugli Istituti di vigilanza privata; 
  
- b) [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690) T. U. delle leggi sugli ufficiali ed agenti di P. S.; 
+ b) [R. decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md) T. U. delle leggi sugli ufficiali ed agenti di P. S.; 
  
- c) [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666) regolamento per gli ufficiali ed impiegati di P. S.; 
+ c) [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md) regolamento per gli ufficiali ed impiegati di P. S.; 
  
  d) [R. decreto 14 agosto 1919, n. 1442](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), sull'ordinamento del personale di P. S. e la istituzione di un Corpo di agenti d'investigazione; 
  

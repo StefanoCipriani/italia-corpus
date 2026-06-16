@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 23 maggio 1924, n. 920](Variazioni%20alla%20tabella%2
 
 Visto il [R. decreto-legge 11 novembre 1924, n. 1932](Stanziamento%20della%20somma%20di%20L.%2015%20miliardi%20dallesercizio%201924-25%20allesercizio%201935-36%20per%20opere%20pubbliche%20straordinarie.%20024U1932.md);
 
-Visto il [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md);
+Visto il [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -38,7 +38,7 @@ La spesa autorizzata in forza del [R. decreto-legge 23 maggio 1924, n. 920](Vari
  
  Qualora per la sistemazione degli uffici pubblici sia possibile utilizzare edifici gia' esistenti, le relative opere di adattamento sono dichiarate di pubblica utilita'. 
  
- Le spese di cui ai precedenti comma, graveranno sul fondo assegnato per «opere dipendenti da alluvioni, piene e frane nell'Italia Centrale - Lavori a cura diretta dello Stato» con la tabella di riparto approvata con [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), della somma di L. 15 miliardi di cui al [decreto-legge 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-11-11;1932). 
+ Le spese di cui ai precedenti comma, graveranno sul fondo assegnato per «opere dipendenti da alluvioni, piene e frane nell'Italia Centrale - Lavori a cura diretta dello Stato» con la tabella di riparto approvata con [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), della somma di L. 15 miliardi di cui al [decreto-legge 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-11-11;1932). 
  
  Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
  

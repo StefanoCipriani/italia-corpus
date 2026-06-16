@@ -24,7 +24,7 @@ Visto il [R. decreto 11 giugno 1922, n. 968](Relativo%20alle%20ammissioni%20e%20
 
 Visto il [R. decreto 31 ottobre 1923, n. 2705](Limiti%20deta%20per%20le%20ammissioni%20nei%20Collegi%20militari.%20023U2705.md), sui limiti di eta' per le ammissioni ai collegi militari;
 
-Visti i [Regi decreti 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e [26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413), relativi alla riforma della scuola media;
+Visti i [Regi decreti 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e [26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), relativi alla riforma della scuola media;
 
 Visto il [R. decreto 11 settembre 1924, n. 1685](Istituzione%20di%20corsi%20di%20studio%20presso%20i%20collegi%20militari%20e%20limiti%20di%20eta%20per%20le%20ammissioni%20ai%20medesimi.%20024U1685.md), sull'ordinamento dei collegi militari;
 

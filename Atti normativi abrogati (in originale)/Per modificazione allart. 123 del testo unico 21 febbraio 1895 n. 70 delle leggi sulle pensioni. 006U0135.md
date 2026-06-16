@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'art. 123 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e' modificato come appresso: 
+ L'art. 123 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' modificato come appresso: 
  
  Se un militare, figlio ed unico sostegno di un cieco o di un quinquagenario, o di padre o madre vedovi venisse a morte per le ragioni indicate all'art. 119, senza lasciare vedova o figli, i genitori avranno diritto alla pensione stessa che e' assegnata alla vedova. Se i genitori saranno tutti e due viventi all'atto in cui sorge il diritto alla pensione, questa, in caso di decesso dell'uno, si consolida nel superstite. 
  

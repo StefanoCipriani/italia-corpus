@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il regolamento sulla tutela delle opere idrauliche di 1ª e 2ª categoria approvato con [R. decreto 30 giugno 1907, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-30;667); 
+ Visto il regolamento sulla tutela delle opere idrauliche di 1ª e 2ª categoria approvato con [R. decreto 30 giugno 1907, n. 667](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sulla%20tutela%20delle%20opere%20idrauliche%20di%201ª%20e%202ª%20categoria.%20007U0667.md); 
  
  Visto il decreto Reale 20 febbraio 1921, n. 221, recante modificazioni al [decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311), che stabilisce in caso di missione le indennita' per spese di viaggio e di soggiorno al personale civile e militare dello Stato; 
  

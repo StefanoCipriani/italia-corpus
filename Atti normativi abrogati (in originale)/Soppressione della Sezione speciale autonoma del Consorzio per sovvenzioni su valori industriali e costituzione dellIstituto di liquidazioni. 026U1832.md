@@ -60,7 +60,7 @@ Sono trasferiti alla Banca d'Italia, che li destinera' a parziale copertura del 
 
 ## Art. 4.
 
-Non e' soggetto a tassa di circolazione, contributo e addizionale, ne all'applicazione dell'art. 11 del testo unico di legge sugli istituti di emissione, approvato Con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204), l'importo dei biglietti corrispondente al totale dei crediti dell'Istituto di liquidazioni, per l'ammontare delle operazioni in essere.
+Non e' soggetto a tassa di circolazione, contributo e addizionale, ne all'applicazione dell'art. 11 del testo unico di legge sugli istituti di emissione, approvato Con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), l'importo dei biglietti corrispondente al totale dei crediti dell'Istituto di liquidazioni, per l'ammontare delle operazioni in essere.
 
 ## Art. 5.
 
@@ -120,7 +120,7 @@ Le azioni di qualsiasi natura contro gli enti, la liquidazione dei quali sia aff
 
 Tutti gli atti e contratti compiuti e stipulati dall'Istituto di liquidazioni, anche per le liquidazioni ad esso affidate, sono soggetti al trattamento tributario stabilito per gli atti compiuti e stipulati dallo Stato. 
  
- A tutti gli atti, sentenze, o provvedimenti nelle cause e procedimenti nell'interesse dell'Istituto di liquidazioni sono, inoltre, applicabili l'art. 38 del testo di legge del bollo, approvato con [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e' l'art. 111 del testo di legge del registro, approvato con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md).
+ A tutti gli atti, sentenze, o provvedimenti nelle cause e procedimenti nell'interesse dell'Istituto di liquidazioni sono, inoltre, applicabili l'art. 38 del testo di legge del bollo, approvato con [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e' l'art. 111 del testo di legge del registro, approvato con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md).
 
 ## Art. 13.
 

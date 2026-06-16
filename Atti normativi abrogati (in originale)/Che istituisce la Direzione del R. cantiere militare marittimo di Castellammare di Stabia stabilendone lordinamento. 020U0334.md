@@ -113,7 +113,7 @@ Le attribuzioni del Consiglio dei lavori stabilite dal regolamento approvato con
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 24 maggio 1920, n. 703](Apportante%20modificazione%20a%20quello%2011%20marzo%201920%20n.%20334%20che%20istituisce%20la%20direzione%20del%20Regio%20cantiere%20militare%20marittimo%20di%20Castellammare%20di%20Stabia.%20020U0703.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 24 maggio 1920, n. 703](../Regi%20decreti/Apportante%20modificazione%20a%20quello%2011%20marzo%201920%20n.%20334%20che%20istituisce%20la%20direzione%20del%20Regio%20cantiere%20militare%20marittimo%20di%20Castellammare%20di%20Stabia.%20020U0703.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 11.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulla requisizione dei quadrupedi e dei veicoli per il Regio esercito e per la Regia marina, approvato con [R. decreto 31 gennaio 1926, n. 452](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md);
+Visto il testo unico delle leggi sulla requisizione dei quadrupedi e dei veicoli per il Regio esercito e per la Regia marina, approvato con [R. decreto 31 gennaio 1926, n. 452](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md);
 
 Visto il [R. decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436), concernente l'istituzione del pubblico registro automobilistico;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al testo unico delle leggi sulla requisizione dei quadrupedi e dei veicoli per il Regio esercito e per la Regia marina, approvato con [R. decreto n. 452 del 31 gennaio 1926](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md), modificato con la [legge 12 gennaio 1928, n. 93](Varianti%20al%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina%20approvato%20con%20R.%20decreto%2031%20gennaio%201926%20n.%20452.%20028U0093.md), sono apportate le varianti di cui all'articolo seguente.
+Al testo unico delle leggi sulla requisizione dei quadrupedi e dei veicoli per il Regio esercito e per la Regia marina, approvato con [R. decreto n. 452 del 31 gennaio 1926](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md), modificato con la [legge 12 gennaio 1928, n. 93](Varianti%20al%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina%20approvato%20con%20R.%20decreto%2031%20gennaio%201926%20n.%20452.%20028U0093.md), sono apportate le varianti di cui all'articolo seguente.
 
 ## Art. 2.
 

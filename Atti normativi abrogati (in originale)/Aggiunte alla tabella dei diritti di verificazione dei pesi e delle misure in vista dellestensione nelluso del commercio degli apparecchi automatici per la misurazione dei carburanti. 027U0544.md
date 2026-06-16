@@ -16,13 +16,13 @@ RE D'ITALIA
 
 In virtu' delle disposizioni dell'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle leggi metriche approvato con [Regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi metriche approvato con [Regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
+Visto il [R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
 Visto il R. decreto 30 dicembre 1920, n., 2836;
 
-Ritenuta la necessita' e l'urgenza d'integrare la tabella dei diritti metrici stabiliti dall'allegato A al [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), in vista dell'estensione, nell'uso del commercio, degli apparecchi automatici e semi-automatici per la misurazione dei carburanti;
+Ritenuta la necessita' e l'urgenza d'integrare la tabella dei diritti metrici stabiliti dall'allegato A al [R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md), in vista dell'estensione, nell'uso del commercio, degli apparecchi automatici e semi-automatici per la misurazione dei carburanti;
 
 Udito il Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Ai diritti di verificazione prima indicati nella II parte dell'allegato A al [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), modificato col [R. decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), sono aggiunti i seguenti: 
+Ai diritti di verificazione prima indicati nella II parte dell'allegato A al [R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md), modificato col [R. decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), sono aggiunti i seguenti: 
  
  Misure di capacita' e strumenti per misurare i liquidi. 
  

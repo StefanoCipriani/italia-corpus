@@ -26,7 +26,7 @@ Visto il [R. decreto 22 giugno 1919, n. 1242](https://www.normattiva.it/uri-res/
 
 Visto il [R. decreto 3 giugno 1920, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;861);
 
-Visto il [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Vista la [legge 24 aprile 1874, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-04-24;48), B. L. I.;
 

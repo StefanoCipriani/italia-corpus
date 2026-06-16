@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di c
 
 ## Articolo unico.
 
-A parziale deroga dell'art. 93, ultimo comma del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), i trasferimenti dei professori universitari per l'anno accademico 1945-46 potranno essere disposti con decorrenza posteriore al primo dicembre 1945 ma non posteriore al 28 febbraio 1946.
+A parziale deroga dell'art. 93, ultimo comma del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), i trasferimenti dei professori universitari per l'anno accademico 1945-46 potranno essere disposti con decorrenza posteriore al primo dicembre 1945 ma non posteriore al 28 febbraio 1946.
 
  Ordiniamo che il presente decreto, munito dei sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

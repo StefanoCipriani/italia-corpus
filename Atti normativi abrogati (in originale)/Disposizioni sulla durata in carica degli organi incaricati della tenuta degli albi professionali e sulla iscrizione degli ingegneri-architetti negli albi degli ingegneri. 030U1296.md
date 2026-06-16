@@ -19,13 +19,13 @@ Tali Giunte, Comitati o Commissioni continuano nelle rispettive funzioni fino al
 
 ## Art. 2.
 
-Coloro i quali abbiano il diploma di ingegnere-architetto, di cui e' menzione nell'art. 54, comma secondo, del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), possono chiedere la iscrizione, oltre che nell'albo degli architetti, anche in quello degli ingegneri, ferma rimanendo la limitazione dell'attivita' professionale stabilita nel suddetto art. 54, comma secondo. Di tale limitazione deve essere fatta, menzione nell'albo per ciascuno degli iscritti.
+Coloro i quali abbiano il diploma di ingegnere-architetto, di cui e' menzione nell'art. 54, comma secondo, del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), possono chiedere la iscrizione, oltre che nell'albo degli architetti, anche in quello degli ingegneri, ferma rimanendo la limitazione dell'attivita' professionale stabilita nel suddetto art. 54, comma secondo. Di tale limitazione deve essere fatta, menzione nell'albo per ciascuno degli iscritti.
 
 ## Art. 3.
 
 Contro i provvedimenti adottati dalle Giunte in ordine alle domande di iscrizione, presentate a norma dell'articolo precedente, e' ammesso ricorso alla Commissione centrale per gli ingegneri e gli architetti in conformita' delle vigenti disposizioni. 
  
- I magistrati, che adempiono le mansioni di segretario della suddetta Commissione, giusta l'art. 15 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), possono essere scelti anche fra quelli non trattenuti al Ministero della giustizia.
+ I magistrati, che adempiono le mansioni di segretario della suddetta Commissione, giusta l'art. 15 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), possono essere scelti anche fra quelli non trattenuti al Ministero della giustizia.
 
 ## Art. 4.
 

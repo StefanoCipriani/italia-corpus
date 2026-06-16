@@ -86,7 +86,7 @@ I candidati che, avendo superato le prove scritte, non possono presentarsi a que
 
 Al fini dell'iscrizione nell'albo, la Commissione esaminatrice puo' rilasciare a richiesta del candidato un certificato attestante la conseguita idoneita'. 
  
- Peraltro l'anzianita' dell'iscrizione disposta in base a tali certificati e' unica per tutti i candidati e decorre dal giorno in cui e' depositato presso li Ministero di grazia e giustizia l'elenco degli idonei, a norma degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_27) e [28 del R. decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_28), sull'Ordinamento forense.
+ Peraltro l'anzianita' dell'iscrizione disposta in base a tali certificati e' unica per tutti i candidati e decorre dal giorno in cui e' depositato presso li Ministero di grazia e giustizia l'elenco degli idonei, a norma degli [articoli 27](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md) e [28 del R. decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), sull'Ordinamento forense.
 
 ## Art. 9.
 

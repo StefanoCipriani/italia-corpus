@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per la guerra, di concerto col M
 
 ## Art. 1.
 
-Agli articoli 91 e 92 del testo unico delle leggi sul reclutamento del Regio esercito approvato con [R. decreto 5 agosto 1927, n. 1437](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), sono sostituiti i seguenti: 
+Agli articoli 91 e 92 del testo unico delle leggi sul reclutamento del Regio esercito approvato con [R. decreto 5 agosto 1927, n. 1437](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), sono sostituiti i seguenti: 
  Art. 91. - Contraggono la ferma di anni tre: 
 a) i caporali e i soldati delle varie armi riammessi in servizio a senso degli articoli 132 e 133; 
 b) coloro che si arruolano volontari nell'Arma dei carabinieri Reali o che vi fanno passaggio come effettivi; 

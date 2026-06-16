@@ -58,7 +58,7 @@ Le norme contenute nei precedenti articoli 1, 2, 3 e 4 si applicano anche alle p
 
 Le trasgressioni alle norme del presente decreto sono punite con l'ammenda da L. 5000 a L. 10.000. 
  
- Inoltre, i concessionari di giacimenti di gas naturali nei casi di recidiva sono passibili della revoca della concessione mineraria ai termini dell'[art. 41 del R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_41).
+ Inoltre, i concessionari di giacimenti di gas naturali nei casi di recidiva sono passibili della revoca della concessione mineraria ai termini dell'[art. 41 del R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md).
 
 ## Art. 7.
 

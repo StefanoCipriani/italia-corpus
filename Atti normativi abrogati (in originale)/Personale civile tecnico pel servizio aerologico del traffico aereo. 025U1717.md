@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
+Visto il [R. decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e le successive loro modificazioni;
+Visti i [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e le successive loro modificazioni;
 
 Visto il [R. decreto 4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627);
 
@@ -50,7 +50,7 @@ I posti di geofisico sono conferiti, in seguito a concorso, per esami e per tito
 
 I posti di cartografo aggiunto sono conferiti in seguito a concorso per esami, al quale possono partecipare coloro che siano provvisti di uno dei seguenti titoli di studio: 
  
- a) licenza da istituto medio di secondo grado o corrispondente diploma, ai termini del [R. decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), purche' tra le materie di esame sia compreso il disegno; 
+ a) licenza da istituto medio di secondo grado o corrispondente diploma, ai termini del [R. decreto 6 maggio 1923, numero 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), purche' tra le materie di esame sia compreso il disegno; 
  
  b) licenza da istituto industriale di terzo grado o da istituto nautico; 
  
@@ -88,9 +88,9 @@ L'eta' massima prescritta per l'ammissione ai concorsi di cui ai precedenti arti
 
 ### Art. 6.
 
-Sono applicabili ai concorsi di cui ai precedenti articoli 2, 3 e 4 le disposizioni di cui all'art. 16, penultimo comma, e 17 del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificati dall'[art. 7 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md). 
+Sono applicabili ai concorsi di cui ai precedenti articoli 2, 3 e 4 le disposizioni di cui all'art. 16, penultimo comma, e 17 del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificati dall'[art. 7 del R. decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md). 
  
- Restano ferme le disposizioni di cui all'art. 21 del suindicato [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ Restano ferme le disposizioni di cui all'art. 21 del suindicato [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ### Art. 7.
 
@@ -140,7 +140,7 @@ Per la prima costituzione dei tre ruoli stabiliti dal presente decreto, il Minis
  
  Fra i concorrenti a quest'ultimo posto, sara' compilata una distinta graduatoria, conferendo la nomina al primo dei candidati inscrittivi. 
  
- A parita' di merito fra i singoli candidati saranno osservate, in ogni caso, le disposizioni di cui all'[art. 21 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ A parita' di merito fra i singoli candidati saranno osservate, in ogni caso, le disposizioni di cui all'[art. 21 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  I candidati che otterranno la nomina saranno esenti dal prestare servizio di prova.
 

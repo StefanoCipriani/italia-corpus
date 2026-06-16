@@ -232,7 +232,7 @@ Ogni aeromobile sia straniero che italiano, e' obbligato ad approdare con la mag
 
 ## Art. 29.
 
-Tutti gli aeromobili ammessi a navigare sul territorio dello Stato ed all'estero, debbono conformarsi a quanto e' stabilito nell'allegato D della Convenzione internazionale per la navigazione aerea del 13 ottobre 1919 (regolamento fari e segnalazioni, e [Codice di navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) aerea), alle altre leggi ed ai regolamenti aeronautici.
+Tutti gli aeromobili ammessi a navigare sul territorio dello Stato ed all'estero, debbono conformarsi a quanto e' stabilito nell'allegato D della Convenzione internazionale per la navigazione aerea del 13 ottobre 1919 (regolamento fari e segnalazioni, e [Codice di navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) aerea), alle altre leggi ed ai regolamenti aeronautici.
 
 ## Art. 30.
 
@@ -344,7 +344,7 @@ Qualsiasi persona che senza essere a cio' autorizzata, ordini e faccia i segnali
  
  Qualora il fatto sia doloso la pena e', nel primo caso, della reclusione da 1 a 5 anni e, nel secondo, da 3 a 10 anni; e la multa e' sempre superiore alle L. 3000. 
  
- Le dette pene sono raddoppiate se dal fatto derivi la morte di alcuno, od aumentate da un terzo alla meta' se ne derivi una lesione personale, salvo che il fatto sia commesso al fine di uccidere o di produrre una lesione personale, nelle quali ipotesi si applicheranno rispettivamente gli articoli 366 e 373 capoverso del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Le dette pene sono raddoppiate se dal fatto derivi la morte di alcuno, od aumentate da un terzo alla meta' se ne derivi una lesione personale, salvo che il fatto sia commesso al fine di uccidere o di produrre una lesione personale, nelle quali ipotesi si applicheranno rispettivamente gli articoli 366 e 373 capoverso del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 47.
 

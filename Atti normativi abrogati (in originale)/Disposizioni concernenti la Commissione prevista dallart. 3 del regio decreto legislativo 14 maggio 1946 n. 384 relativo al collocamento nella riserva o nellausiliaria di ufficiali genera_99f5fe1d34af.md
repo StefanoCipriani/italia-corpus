@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 14 maggio 1946, numero 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto il [regio decreto legislativo 14 maggio 1946, numero 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Visto l'[art. 4 del decreto legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la guerra, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-Al fini del collocamento nella riserva di autorita', in applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), la Commissione di cui all'art. 3 del decreto stesso e' sentita dal Ministro per la guerra anche per i colonnelli, i generali di brigata ed i generali di divisione dell'Esercito, e gradi corrispondenti.
+Al fini del collocamento nella riserva di autorita', in applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), la Commissione di cui all'art. 3 del decreto stesso e' sentita dal Ministro per la guerra anche per i colonnelli, i generali di brigata ed i generali di divisione dell'Esercito, e gradi corrispondenti.
  Il presente decreto ha effetto dal 7 dicembre 1946.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

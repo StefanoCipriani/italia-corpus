@@ -52,7 +52,7 @@ L'assegno a favore della Reale Accademia d'Italia di cui alla [lettera a) del R.
 
 ## Art. 7.
 
-E' prorogata fino al 30 giugno 1930 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md). 
+E' prorogata fino al 30 giugno 1930 l'efficacia delle disposizioni di cui al [R. decreto 26 luglio 1925, n. 1237](../Regi%20decreti/Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md). 
  
  E' pure prorogata fino al 30 giugno 1930 l'efficacia delle disposizioni recate dal [R. decreto 3 giugno 1926, n. 974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;974), concernenti la contabilita' generale dello Stato.
 

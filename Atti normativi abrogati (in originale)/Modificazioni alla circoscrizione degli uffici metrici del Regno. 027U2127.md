@@ -18,9 +18,9 @@ Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), col quale si provvede al riordinamento delle circoscrizioni provinciali;
 
-Visto il [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088), serie 3ª, che approva il testo unico delle leggi metriche;
+Visto il [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), serie 3ª, che approva il testo unico delle leggi metriche;
 
-Visto il regolamento approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto il regolamento approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
 Sentito il parere del Consiglio di Stato;
 

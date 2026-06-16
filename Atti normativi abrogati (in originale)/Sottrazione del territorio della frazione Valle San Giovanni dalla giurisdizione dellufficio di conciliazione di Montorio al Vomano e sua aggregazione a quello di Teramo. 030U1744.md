@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 marzo 1929, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;804), col quale il territorio della frazione Valle San Giovanni e' stato sottratto dal comune di Montorio al Vomano ed aggregato a quello di Teramo;
+Visto il [R. decreto 28 marzo 1929, n. 804](../Regi%20decreti/Distacco%20della%20frazione%20Valle%20San%20Giovanni%20dal%20comune%20di%20Montorio%20al%20Vomano%20ed%20aggregazione%20di%20essa%20al%20comune%20di%20Teramo.%20029U0804.md), col quale il territorio della frazione Valle San Giovanni e' stato sottratto dal comune di Montorio al Vomano ed aggregato a quello di Teramo;
 
 Vista la deliberazione del commissario prefettizio di Teramo con la quale si chiede l'estensione della giurisdizione dell'ufficio di conciliazione di quel capoluogo al territorio della frazione Valle San Giovanni;
 

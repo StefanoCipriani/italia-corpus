@@ -306,7 +306,7 @@ L'invenzione deve essere tenuta segreta dopo la comunicazione della richiesta di
  
  Tuttavia l'obbligo del segreto cessa qualora il Ministero competente lo consenta. 
  
- La violazione del segreto e' punita ai termini dell'[art. 262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La violazione del segreto e' punita ai termini dell'[art. 262 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 42. — (Art. 38 del R. decreto 13 settembre 1934, n. 1602).
 
@@ -440,7 +440,7 @@ L'espropriazione ha luogo per decreto Reale, su proposta del Ministro competente
  
  Il decreto di espropriazione nell'interesse della difesa militare del Paese, quando venga emanato prima della stampa prescritta nell'art. 38, potra' contenere l'obbligo e stabilire la durata del segreto sull'oggetto dell'invenzione. 
  
- La violazione del segreto e' punita ai sensi dell'[art. 262 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La violazione del segreto e' punita ai sensi dell'[art. 262 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 62. — Art. 52, comma primo e secondo, del R. decreto 13 settembre 1934, n. 1602).
 

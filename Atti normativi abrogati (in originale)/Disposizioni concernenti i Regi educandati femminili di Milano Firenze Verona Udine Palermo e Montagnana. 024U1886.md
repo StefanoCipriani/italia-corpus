@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Alla tabella organica complessiva per il personale dei Regi educandati femminili di Milano, Firenze, Verona, Udine, Palermo e Montagnana, compresa nell'allegato II al [Regio decreto 11 novembre 1923 n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituite le tabelle A, B, C, D, E ed F, annesse al presente decreto e firmate, d'ordine Nostro, dai Ministri proponenti.
+Alla tabella organica complessiva per il personale dei Regi educandati femminili di Milano, Firenze, Verona, Udine, Palermo e Montagnana, compresa nell'allegato II al [Regio decreto 11 novembre 1923 n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituite le tabelle A, B, C, D, E ed F, annesse al presente decreto e firmate, d'ordine Nostro, dai Ministri proponenti.
 
 ## Art. 2.
 

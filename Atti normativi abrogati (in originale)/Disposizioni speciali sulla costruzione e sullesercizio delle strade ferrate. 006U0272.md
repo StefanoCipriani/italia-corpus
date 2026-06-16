@@ -169,7 +169,7 @@ Ai prodotti dei treni, esclusivamente composti di carrozze delle classi inferior
 
 ## Art. 16.
 
-A cominciare dal 1° luglio 1906, la tassa di bollo di centesimi 50 stabilita dall'art. 66, ultimo comma, del testo unico della legge del bollo approvato col [R. decreto 4 luglio 1897, n. 414](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), e' sostituita da una tassa di bollo proporzionale all'importo dei biglietti o riscontri per l'abbonamento al trasporto a tempo determinato di viaggiatori e per i riscontri per le merci nella misura di 1.50 per cento, quando si tratti di trasporti a grande velocita', e del mezzo per cento quando si tratti di trasporti a piccola velocita'.
+A cominciare dal 1° luglio 1906, la tassa di bollo di centesimi 50 stabilita dall'art. 66, ultimo comma, del testo unico della legge del bollo approvato col [R. decreto 4 luglio 1897, n. 414](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20tassa%20di%20bollo%20e%20su%20quelle%20in%20surrogazione%20del%20bollo%20e%20registro.%20097U0414.md), e' sostituita da una tassa di bollo proporzionale all'importo dei biglietti o riscontri per l'abbonamento al trasporto a tempo determinato di viaggiatori e per i riscontri per le merci nella misura di 1.50 per cento, quando si tratti di trasporti a grande velocita', e del mezzo per cento quando si tratti di trasporti a piccola velocita'.
 
 ## Art. 17.
 

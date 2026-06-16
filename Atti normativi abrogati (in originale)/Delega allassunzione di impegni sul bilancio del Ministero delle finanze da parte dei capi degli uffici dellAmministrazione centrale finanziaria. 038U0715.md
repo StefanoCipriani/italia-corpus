@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, ed il relativo regolamento approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, ed il relativo regolamento approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
 Visto il Regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con [R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
 

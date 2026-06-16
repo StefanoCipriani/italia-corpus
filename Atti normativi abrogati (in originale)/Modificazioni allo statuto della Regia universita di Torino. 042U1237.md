@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto lo statuto della Regia universita' di Torino, approvato con R. decreto 14 ottobre 1926-IV, n. 2284, e modificato con i Regi decreti 13 ottobre 1927-V. n. 2788, 25 ottobre 1928-VI, n. 3484, 31 ottobre 1929, n. 2471, 18 settembre 1930-VIII, n. 1368, 22 ottobre 1931-IX, n. 1719, 27 ottobre 1932-X, n. 2083, 20 aprile 1939-XVII, n. 1118, 12 gennaio 1941-XIX, n. 34, e 27 aprile 1942-XX, n. 571; 
  
- Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il [R. decreto 31 agosto 1933 n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il [R. decreto 31 agosto 1933 n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  
  Veduto il R. decreto-legge 20 giugno 1935-XIII, n. 1071; 
  

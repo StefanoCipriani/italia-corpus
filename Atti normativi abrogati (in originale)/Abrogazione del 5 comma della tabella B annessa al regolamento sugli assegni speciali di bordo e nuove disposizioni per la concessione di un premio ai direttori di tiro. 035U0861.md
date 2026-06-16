@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 5 maggio 1921, n. 629](Che%20approva%20le%20norme%20concernenti%20il%20conferimento%20di%20caratteristiche%20professionali%20e%20listruzione%20superiore%20degli%20ufficiali%20della%20R.%20marina.%20021U0629.md), e successive modificazioni;
 
-Visto il [R. decreto 9 agosto 1929, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1744), e successive modificazioni;
+Visto il [R. decreto 9 agosto 1929, n. 1744](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20029U1744.md), e successive modificazioni;
 
 Sentito il Consiglio superiore di marina;
 
@@ -38,7 +38,7 @@ Sul premio di cui al presente decreto saranno applicate le riduzioni stabilite d
 
 ## Art. 4.
 
-Il comma 5° della tabella B annessa al regolamento sugli assegni speciali di bordo approvato con [R. decreto 9 agosto 1929, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1744), e' abrogato. 
+Il comma 5° della tabella B annessa al regolamento sugli assegni speciali di bordo approvato con [R. decreto 9 agosto 1929, n. 1744](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20029U1744.md), e' abrogato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

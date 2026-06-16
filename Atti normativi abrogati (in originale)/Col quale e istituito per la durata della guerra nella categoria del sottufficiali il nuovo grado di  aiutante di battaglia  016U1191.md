@@ -26,13 +26,13 @@ Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.
 
 Vista la [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e successive modificazioni;
 
-Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dal Ministero della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
+Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dal Ministero della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
-Visto il testo unico delle leggi sugli stipendi ed assegni fissi per il R. esercito, approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
+Visto il testo unico delle leggi sugli stipendi ed assegni fissi per il R. esercito, approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
-Visto il [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), per la esecuzione del testo unico suddetto, e successive modificazioni;
+Visto il [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), per la esecuzione del testo unico suddetto, e successive modificazioni;
 
 Visto il testo unico delle leggi sullo stato dei sottufficiali del R. esercito, approvato con [R. decreto 17 novembre 1912, n. 1389](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-11-17;1389), e successive modificazioni;
 
@@ -42,9 +42,9 @@ Vista la [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegia
 
 Visto il [decreto Luogotenenziale n. 1103 del 27 giugno 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;1103), col quale le disposizioni della [legge 2 luglio 1896, n. 256](Sulle%20pensioni%20per%20le%20famiglie%20dei%20presunti%20morti%20nella%20guerra%20dAfrica.%20096U0256.md), predetta, sono applicabili anche alle famiglie dei presunti morti nella guerra attuale;
 
-Visto il [R. decreto del 22 maggio 1915, n. 690](Col%20quale%20sono%20indette%20la%20mobilitazione%20del%20R.%20esercito%20e%20della%20R.%20marina%20e%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli.%20015U0690.md), col quale viene indetta la mobilitazione generale del Regio esercito;
+Visto il [R. decreto del 22 maggio 1915, n. 690](../Regi%20decreti/Col%20quale%20sono%20indette%20la%20mobilitazione%20del%20R.%20esercito%20e%20della%20R.%20marina%20e%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli.%20015U0690.md), col quale viene indetta la mobilitazione generale del Regio esercito;
 
-Visto il [R. decreto del 22 maggio 1915, n. 703](Che%20considera%20in%20stato%20di%20guerra%20i%20territi%20di%20alcune%20proncie%20del%20Regno.%20015U0703.md), col quale e' ordinato lo stato di guerra per alcuni territori del Regno;
+Visto il [R. decreto del 22 maggio 1915, n. 703](../Regi%20decreti/Che%20considera%20in%20stato%20di%20guerra%20i%20territi%20di%20alcune%20proncie%20del%20Regno.%20015U0703.md), col quale e' ordinato lo stato di guerra per alcuni territori del Regno;
 
 Udito il Consiglio dei ministri;
 

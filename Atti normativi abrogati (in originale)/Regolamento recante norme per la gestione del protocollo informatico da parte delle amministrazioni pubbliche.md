@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 27 maggio 1875, n. 2552](Che%20stabilisce%20le%20regole%20per%20lordinamento%20generale%20degli%20archivi%20di%20Stato.%20075U2552.md);
+Visto il [regio decreto 27 maggio 1875, n. 2552](../Regi%20decreti/Che%20stabilisce%20le%20regole%20per%20lordinamento%20generale%20degli%20archivi%20di%20Stato.%20075U2552.md);
 
-Visto il [regio decreto 25 gennaio 1900, n. 35](Col%20quale%20si%20approva%20il%20Regolamento%20per%20gli%20Uffici%20di%20registratura%20e%20di%20archivio%20nelle%20diverse%20Amministrazioni%20centrali.%20000U0035.md);
+Visto il [regio decreto 25 gennaio 1900, n. 35](../Regi%20decreti/Col%20quale%20si%20approva%20il%20Regolamento%20per%20gli%20Uffici%20di%20registratura%20e%20di%20archivio%20nelle%20diverse%20Amministrazioni%20centrali.%20000U0035.md);
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
@@ -62,7 +62,7 @@ Ai fini del presente regolamento s'intende:
                                 per "segnatura di protocollo" l'apposizione o l'associazione, all'originale del documento, in forma permanente e non modificabile, delle informazioni riguardanti il documento stesso.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui' trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui' trascritti.
  Note alle premesse:
  - Si riporta il testo dell'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
  "Art. 87. - Il decreto del Presidente della Repubblica e' il Capo dello Stato e rappresenta l'unita' nazionale.
@@ -113,7 +113,7 @@ Avvertenza:
  5. La commissione vigila affinche' venga attuato il principio di piena conoscibilita' dell'attivita' della pubblica amministrazione con il rispetto dei limiti fissati dalla presente legge; redige una relazione annuale sulla trasparenza dell'attivita' della pubblica amministrazione, che comunica alle Camere e al Presidente dei Consiglio dei Ministri; propone al Governo modifiche dei testi legislativi e regolamentari che siano utili a realizzare la piu' ampia garanzia del diritto di accesso di cui all'art. 22.
  6. Tutte le amministrazioni sono tenute a comunicare alla Commissione, nel termine assegnato dalla medesima, le informazioni ed i documenti da essa richiesti, ad eccezione di quelli coperti da segreto di Stato.
  7. In caso di prolungato inadempimento all'obbligo di cui al comma 1 dell'art. 18, le misure ivi previste sono adottate dalla commissione di cui al presente articolo.
- Art. 28. - 1. L'art. 15 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' sostituito dal seguente:
+ Art. 28. - 1. L'art. 15 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' sostituito dal seguente:
  ''Art. 15 (Segreto d'ufficio). - 1. L'impiegato deve mantenere il segreto d'ufficio. Non puo' trasmettere a chi non ne abbia diritto informazioni riguardanti provvedimenti od operazioni amministrative, in corso o concluse, ovvero notizie di cui sia venuto a conoscenza a causa delle sue funzioni, al di fuori delle ipotesi e delle modalita' previste dalle norme sul diritto di accesso.
  Nell'ambito delle proprie attribuzioni, l'impiegato preposto ad un ufficio rilascia copie ed estratti di atti e documenti di ufficio nei casi non vietati dall'ordinamento''.".
  - Si riporta il testo degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_1) e [12 del D.Lgs.
@@ -540,10 +540,10 @@ Le pubbliche amministrazioni devono assicurare, per ogni aggiornamento del siste
 
 1.
 
-Sono abrogate le norme regolamentari incompatibili con il presente regolamento e, in particolare, le disposizioni del [regio decreto 25 gennaio 1900, n. 35](Col%20quale%20si%20approva%20il%20Regolamento%20per%20gli%20Uffici%20di%20registratura%20e%20di%20archivio%20nelle%20diverse%20Amministrazioni%20centrali.%20000U0035.md).
+Sono abrogate le norme regolamentari incompatibili con il presente regolamento e, in particolare, le disposizioni del [regio decreto 25 gennaio 1900, n. 35](../Regi%20decreti/Col%20quale%20si%20approva%20il%20Regolamento%20per%20gli%20Uffici%20di%20registratura%20e%20di%20archivio%20nelle%20diverse%20Amministrazioni%20centrali.%20000U0035.md).
 
 Nota all'art. 23:
- - Per il titolo del [R.D. 25 gennaio 1900, n. 35](Col%20quale%20si%20approva%20il%20Regolamento%20per%20gli%20Uffici%20di%20registratura%20e%20di%20archivio%20nelle%20diverse%20Amministrazioni%20centrali.%20000U0035.md), si veda nelle note alle premesse.
+ - Per il titolo del [R.D. 25 gennaio 1900, n. 35](../Regi%20decreti/Col%20quale%20si%20approva%20il%20Regolamento%20per%20gli%20Uffici%20di%20registratura%20e%20di%20archivio%20nelle%20diverse%20Amministrazioni%20centrali.%20000U0035.md), si veda nelle note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

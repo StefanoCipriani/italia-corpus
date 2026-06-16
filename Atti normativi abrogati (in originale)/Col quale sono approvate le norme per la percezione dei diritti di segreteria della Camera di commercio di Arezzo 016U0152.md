@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti la [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), sull'ordinamento delle Camere di commercio e industria e il regolamento approvato con [R. decreto 19 febbraio 1911, numero 245](Che%20approva%20lannesso%20regolamento%20per%20lattuazione%20della%20legge%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria.%20011U0245.md), per l'attuazione della legge medesima;
+Visti la [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), sull'ordinamento delle Camere di commercio e industria e il regolamento approvato con [R. decreto 19 febbraio 1911, numero 245](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lattuazione%20della%20legge%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria.%20011U0245.md), per l'attuazione della legge medesima;
 
 Vista la deliberazione in data 21 ottobre 1912 e 8 dicembre 1915 della Camera di commercio e industria di Arezzo;
 

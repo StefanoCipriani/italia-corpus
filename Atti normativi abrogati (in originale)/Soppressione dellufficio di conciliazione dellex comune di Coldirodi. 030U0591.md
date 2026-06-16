@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 19 febbraio 1928, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-19;454), col quale il comune di Coldirodi e' stato soppresso ed il rispettivo territorio aggregato a quello di Ospedaletti; 
+ Visto il [R. decreto 19 febbraio 1928, n. 454](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Coldirodi%20a%20quello%20di%20Ospedaletti.%20028U0454.md), col quale il comune di Coldirodi e' stato soppresso ed il rispettivo territorio aggregato a quello di Ospedaletti; 
  
  Vista la deliberazione del commissario prefettizio di Ospedaletti rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Coldirodi; 
  

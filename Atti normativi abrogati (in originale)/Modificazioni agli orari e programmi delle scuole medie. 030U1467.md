@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA.
 
-Veduto l'[art. 85 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_85);
+Veduto l'[art. 85 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Veduti i [Regi decreti 14 ottobre 1923, n. 2345](Approvazione%20degli%20orari%20e%20dei%20programmi%20per%20le%20Regie%20scuole%20medie.%20023U2345.md) e [16 ottobre 1924, n. 1923](Modificazione%20agli%20orari%20e%20programmi%20degli%20istituti%20medi%20di%20istruzione.%20024U1923.md), con i quali sono stati approvati gli orari d'insegnamento per gl'istituti medi d'istruzione;
 

@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Il numero dei posti di custode del ruolo del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita' di cui alla tabella B annessa al [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), e' elevato transitoriamente da 170 a 280.
+Il numero dei posti di custode del ruolo del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita' di cui alla tabella B annessa al [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' elevato transitoriamente da 170 a 280.
 
 ## Art. 2.
 

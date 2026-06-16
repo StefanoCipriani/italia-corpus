@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Agli articoli 152, 154, 161, 162, 164, 173, 186, 191, 193, 195 e 199 del regolamento per la esecuzione delle leggi sul riordinamento dell'imposta fondiaria, approvato con [R. decreto n. 65 del 26 gennaio 1905](Che%20approva%20e%20contiene%20il%20regolamento%20per%20lesecuzione%20delle%20leggi%20sul%20riordinamento%20dellimposta%20fondiaria.%20005U0065.md), sono sostituiti i seguenti: 
+Agli articoli 152, 154, 161, 162, 164, 173, 186, 191, 193, 195 e 199 del regolamento per la esecuzione delle leggi sul riordinamento dell'imposta fondiaria, approvato con [R. decreto n. 65 del 26 gennaio 1905](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20lesecuzione%20delle%20leggi%20sul%20riordinamento%20dellimposta%20fondiaria.%20005U0065.md), sono sostituiti i seguenti: 
  
  Art. 152. - Per i terreni soggetti a servitu' militari, si tien conto con proporzionali detrazioni dal reddito imponibile dei danni continui o periodici che da codeste servitu' possono risultare. 
  

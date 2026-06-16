@@ -18,11 +18,11 @@ UMBERTO DI SAVOIA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), portanti disposizioni sulla contabilita' generale dello Stato; 
+ Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), portanti disposizioni sulla contabilita' generale dello Stato; 
  
  Visto il [R. decreto-legge 29 maggio 1944, n. 137](Istituzione%20di%20un%20Alto%20Commissariato%20per%20lassistenza%20morale%20e%20materiale%20dei%20profughi%20di%20guerra.%20044U0137.md), concernente l'istituzione dell'Alto Commissariato per profughi di guerra; 
  
- Ritenuto che, per assicurare il rapido e tempestivo funzionamento dei servizi di natura eccezionale affilati all'Ente predetto, si rende indispensabile derogare alle tassative disposizioni previste dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56); 
+ Ritenuto che, per assicurare il rapido e tempestivo funzionamento dei servizi di natura eccezionale affilati all'Ente predetto, si rende indispensabile derogare alle tassative disposizioni previste dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md); 
  
  Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151); 
  
@@ -32,7 +32,7 @@ UMBERTO DI SAVOIA
  
  Abbiamo sanzionato e promulghiamo quanto segue:; 
  
- L'Alto Commissariato per i profughi di guerra, per quanto riguarda la concessione di aperture di credito sui capitoli da esso amministrati, e' autorizzato a derogare alle limitazioni di cui all'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), meno che per le spese concernenti stipendi ed assegni vari al proprio personale di ruolo e sussidi al personale dipendente ,(di ruolo e non di ruolo). 
+ L'Alto Commissariato per i profughi di guerra, per quanto riguarda la concessione di aperture di credito sui capitoli da esso amministrati, e' autorizzato a derogare alle limitazioni di cui all'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), meno che per le spese concernenti stipendi ed assegni vari al proprio personale di ruolo e sussidi al personale dipendente ,(di ruolo e non di ruolo). 
  
  Il presente decreto entra in vigore il giorno successivo a quella della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

@@ -34,7 +34,7 @@ Il rimborso di cui al precedente articolo sara' effettuato ai Comuni, nel cui te
 
 ## Art. 4.
 
-Il contributo a titolo di pigione che lo Stato e' tenuto a corrispondere per i locali di proprieta' comunale adibiti ad uso di uffici giudiziari o di carceri mandamentali, sara' ragguagliato alla somma che allo stesso titolo e' stata ripartita nell'anno 1930 fra i Comuni tenuti alla spesa, ai termini dell'[art. 1 del R. decreto 3 maggio 1923, n. 1042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1042#art_1). 
+Il contributo a titolo di pigione che lo Stato e' tenuto a corrispondere per i locali di proprieta' comunale adibiti ad uso di uffici giudiziari o di carceri mandamentali, sara' ragguagliato alla somma che allo stesso titolo e' stata ripartita nell'anno 1930 fra i Comuni tenuti alla spesa, ai termini dell'[art. 1 del R. decreto 3 maggio 1923, n. 1042](../Regi%20decreti/Che%20trasferisce%20a%20carico%20dei%20Comuni%20i%20servizi%20dei%20locali%20e%20dei%20mobili%20degli%20uffici%20giudiziari.%20023U1042.md). 
  Nel caso in cui non vi siano altri Comuni tenuti a concorrere nella spesa, la pigione sara' determinata, su richiesta del Comune proprietario dei locali, dal Ministero delle finanze, di concerto con quello dell'interno, previo parere dell'ingegnere capo del Genio civile, sulla media dei fitti del 1930. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e farlo osservare. 
  Dato a Roma, addi' 17 dicembre 1931 - Anno X 

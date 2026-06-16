@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;733), col quale il comune di Cenesi e' stato soppresso ed il rispettivo territorio aggregato a quello di Cisano sul Neva; 
+ Visto il [R. decreto 28 marzo 1929, n. 733](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cisano%20sul%20Neva%20e%20Cenesi%20nonche%20della%20frazione%20Conscente%20e%20della%20localita%20Martinetto%20del%20comune%20di%20Zuccarello%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Cisa_770c384b599f.md), col quale il comune di Cenesi e' stato soppresso ed il rispettivo territorio aggregato a quello di Cisano sul Neva; 
  
  Vista la deliberazione del podesta' di Cisano sul Neva rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Cenesi; 
  

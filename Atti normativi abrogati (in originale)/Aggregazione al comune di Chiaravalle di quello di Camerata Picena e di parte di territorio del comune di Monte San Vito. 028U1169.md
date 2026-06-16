@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Oltre il territorio indicato all'[art. 1, secondo comma, del R. decreto 15 aprile 1928, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;882#art_1-com2), sono aggregati al comune di Chiaravalle: 
+Oltre il territorio indicato all'[art. 1, secondo comma, del R. decreto 15 aprile 1928, n. 882](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Ancona%20dei%20comuni%20di%20Montesicuro%20e%20Paterno%20dAncona%20nonche%20del%20territorio%20del%20comune%20di%20Falconara%20Marittima%20situato%20a%20destra%20del%20fiume%20Esino%20ed%20aggregazione%20al%20co_e78df2e2f89c.md), sono aggregati al comune di Chiaravalle: 
  
  a) il comune di Camerata Picena; 
  

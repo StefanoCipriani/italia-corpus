@@ -52,7 +52,7 @@ Per tutto cio' che di conformita' dell'art. 70 della detta [legge 13 settembre 1
 
 E' abolito l'uso della carta speciale comprensiva delle tasse di bollo e registro per le polizze o promesse di pagare e per le locazioni di beni stabili e mobili, colonie parziarie, masserie o terzerie, di che all'art. 9, lettere a, b, c, della legge sul bollo 13 settembre 1874, n. 2077. 
  
- Cessa parimenti l'uso delle qualita' di carta filigranata con bollo ordinario e speciale designate ai numeri 2, 4 e 9 dell'art, 2 del regolamento approvato col [R. decreto 13 maggio 1880, n. 5431](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20modificativa%20sulle%20tasse%20di%20registro%20e%20bollo.%20080U5431.md). 
+ Cessa parimenti l'uso delle qualita' di carta filigranata con bollo ordinario e speciale designate ai numeri 2, 4 e 9 dell'art, 2 del regolamento approvato col [R. decreto 13 maggio 1880, n. 5431](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20modificativa%20sulle%20tasse%20di%20registro%20e%20bollo.%20080U5431.md). 
  
  Gli atti civili di che all'art. 105 della tariffa annessa alla legge sul registro del 23 settembre 1874. n. 2076, pei quali venne resa obbligatoria ciascuna specie della carta suddetta dall'[art. 2 della legge 11 gennaio 1880, n. 5430](Che%20modifica%20le%20tasse%20di%20registro%20e%20bollo.%20080U5430.md), saranno rispettivamente scritti, quanto al primo foglio, sulla carta munita del solo bollo ordinario di lira una, di lire due e' di lire tre o rimarranno esenti dalla registrazione. Per gli intercalari continuera' a farsi uso della carta filigranata col bollo prescritto dalle disposizioni in vigore secondo la varia natura degli atti.
 
@@ -130,7 +130,7 @@ Le disposizioni degli articoli 75 e 76 della legge sul bollo sono applicabili an
 
 ## Articolo 17.
 
-Sara' punito col carcere estensibile ad un anno chi dolosamente fara' uso o smercio di carta bollata, di marche da bollo e di marche per concessioni governative, passaporti e legalizzazione di firme, nonche' di quelle rappresentative di diritti catastali e di verificazione di pesi e misure, che sieno state precedentemente usate senza pregiudizio delle maggiori pene a termine del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Sara' punito col carcere estensibile ad un anno chi dolosamente fara' uso o smercio di carta bollata, di marche da bollo e di marche per concessioni governative, passaporti e legalizzazione di firme, nonche' di quelle rappresentative di diritti catastali e di verificazione di pesi e misure, che sieno state precedentemente usate senza pregiudizio delle maggiori pene a termine del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Articolo 18.
 
@@ -158,7 +158,7 @@ Coll'attuazione di questa legge cessano d'avere effetto le esenzioni e i privile
  
  c) dalla [legge 7 aprile 1881, n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md), per la tassa di bollo stabilita dall'art. 20 sugli assegni bancari, buoni fruttiferi a scadenza fissa emessi da Istituti legalmente costituiti, e sui libretti di conto corrente e quelli di risparmio nominativi ed al portatore; 
  
- d) dal [Regio decreto 26 gennaio 1882, n. 621](Che%20dichiara%20esenti%20da%20bollo%20alcune%20operazioni%20del%20debito%20pubblico.%20082U0621.md), sopra alcune operazioni di debito pubblico, articoli 1 e 2; 
+ d) dal [Regio decreto 26 gennaio 1882, n. 621](../Regi%20decreti/Che%20dichiara%20esenti%20da%20bollo%20alcune%20operazioni%20del%20debito%20pubblico.%20082U0621.md), sopra alcune operazioni di debito pubblico, articoli 1 e 2; 
  
  e) dalla [legge 25 giugno 1882, n. 869](Sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi%20082U0869.md), sulle bonifiche, articoli 55 e 56; 
  

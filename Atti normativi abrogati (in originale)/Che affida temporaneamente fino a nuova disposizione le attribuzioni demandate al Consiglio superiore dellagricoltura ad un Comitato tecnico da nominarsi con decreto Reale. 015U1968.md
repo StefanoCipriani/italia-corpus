@@ -16,7 +16,7 @@ Per la durata della guerra e fino a nuova disposizione tutte le attribuzioni dem
 
 ## Art. 2.
 
-La «Commissione consultiva per le industrie agrarie», istituita col [R. decreto 30 novembre 1911, n. 1327](Col%20quale%20viene%20istituita%20presso%20il%20ministero%20dagricoltura%20industria%20e%20commercio%20la%20Commissione%20consultiva%20delle%20industrie%20agrarie.%20011U1327.md), e' soppressa. 
+La «Commissione consultiva per le industrie agrarie», istituita col [R. decreto 30 novembre 1911, n. 1327](../Regi%20decreti/Col%20quale%20viene%20istituita%20presso%20il%20ministero%20dagricoltura%20industria%20e%20commercio%20la%20Commissione%20consultiva%20delle%20industrie%20agrarie.%20011U1327.md), e' soppressa. 
  
  Le sue attribuzioni sono commesse al Comitato di cui al precedente articolo.
 

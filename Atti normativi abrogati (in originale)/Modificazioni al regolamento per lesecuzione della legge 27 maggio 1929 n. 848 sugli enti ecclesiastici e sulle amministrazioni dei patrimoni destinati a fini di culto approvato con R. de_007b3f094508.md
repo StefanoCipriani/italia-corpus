@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 33 del regolamento approvato con [R. decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262), e' sostituito il seguente: 
+All'art. 33 del regolamento approvato con [R. decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md), e' sostituito il seguente: 
  
  «Salvo quanto dispone l'[art. 15 della legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848#art_15), per la rappresentanza giuridica delle chiese, riservata, a tutti gli effetti, agli ordinari diocesani ed ai sacerdoti legittimamente preposti alle chiese stesse, i Consigli di amministrazione o fabbricerie di cui all'art. 29, lettera a), capoverso, del Concordato, provvedono, ove esistano, alla manutenzione e ai restauri delle chiese e degli stabili annessi, compresa eventualmente la casa canonica, e all'amministrazione dei beni patrimoniali e avventizi a cio' destinati. 
  

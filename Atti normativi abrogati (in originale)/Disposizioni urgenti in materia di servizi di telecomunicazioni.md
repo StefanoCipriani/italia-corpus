@@ -29,11 +29,11 @@ Appartengono in esclusiva allo Stato i servizi di telecomunicazioni, salvo quell
 
 ## Art. 2.
 
-Le norme contenute nell'art. 183 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), si applicano anche ai servizi di radiodiffusione circolare.
+Le norme contenute nell'art. 183 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), si applicano anche ai servizi di radiodiffusione circolare.
 
 ## Art. 3.
 
-Chiunque installa, stabilisce od esercita un impianto di telecomunicazioni senza aver prima ottenuto la relativa concessione o l'autorizzazione di cui al secondo comma dell'articolo 184 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' punito, salvo che il fatto costituisca reato piu' grave:
+Chiunque installa, stabilisce od esercita un impianto di telecomunicazioni senza aver prima ottenuto la relativa concessione o l'autorizzazione di cui al secondo comma dell'articolo 184 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' punito, salvo che il fatto costituisca reato piu' grave:
  1) con l'ammenda da L. 100.000 a L. 1.000.000 se il fatto non si riferisce ad impianti radioelettrici;
  2) con l'arresto da tre a sei mesi e con l'ammenda da L. 200.000 a L. 2.000.000 se il fatto riguarda impianti radioelettrici o televisivi via cavo.
  Le stesse sanzioni si applicano nei confronti di chiunque installa od esercita un impianto ripetitore via etere di programmi sonori e televisivi esteri o nazionali o impianti locali monocanali di diffusione sonora e televisiva via cavo senza avere la prescritta autorizzazione.

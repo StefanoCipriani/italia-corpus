@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale 14 settembre 1918, numero 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1314);
 
-Visti i [Regi decreti 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), e [10 luglio 1924, n. 1370](Misura%20del%20premio%20per%20i%20servizi%20straordinari%20prestati%20dagli%20impiegati%20ed%20agenti%20addetti%20agli%20opifici%20stabilimenti%20e%20depositi%20dellAmministrazione%20dei%20monopoli%20industriali.%20024U1370.md);
+Visti i [Regi decreti 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), e [10 luglio 1924, n. 1370](../Regi%20decreti/Misura%20del%20premio%20per%20i%20servizi%20straordinari%20prestati%20dagli%20impiegati%20ed%20agenti%20addetti%20agli%20opifici%20stabilimenti%20e%20depositi%20dellAmministrazione%20dei%20monopoli%20industriali.%20024U1370.md);
 
 Ritenuto che per la corresponsione dei premi di prolungamento d'orario agli impiegati ed agenti delle privative addetti agli stabilimenti ed uffici provinciali la follava ordinaria di pagamento mediante mandati diretti e' incopatibilita' con la necessaria speditezza dei servizi;
 

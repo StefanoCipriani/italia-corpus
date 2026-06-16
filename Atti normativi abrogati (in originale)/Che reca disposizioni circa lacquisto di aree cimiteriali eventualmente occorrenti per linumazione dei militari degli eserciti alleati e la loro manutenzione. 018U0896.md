@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636, e il regolamento di polizia mortuaria 25 luglio 1892, n. 448;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e il regolamento di polizia mortuaria 25 luglio 1892, n. 448;
 
 Vista la [legge 25 giugno 1865, n. 2359, articoli 71 e seguenti](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 

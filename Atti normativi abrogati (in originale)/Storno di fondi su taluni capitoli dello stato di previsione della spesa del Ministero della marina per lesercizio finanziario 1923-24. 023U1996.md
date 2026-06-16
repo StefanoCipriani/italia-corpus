@@ -35,7 +35,7 @@ Cap. 28 - «Personale subalterno e salariato pel
 servizio dei fari, ecc. ». . . . . . . . . . . . . . . . L. 96,000. - Cap.136-bis (nuovo) - «Indennita' agli impiegati
 od agenti collocati a riposo, o dispensati dal
 servizio ([art. 6 del R. decreto 25 gennaio 1923;
-n. 87](Contenente%20le%20norme%20per%20lo%20esonero%20ed%20il%20trattamento%20di%20quiescenza%20del%20personale%20delle%20Amministrazioni%20dello%20Stato.%20023U0087.md)) » . . . . . . . . . . . . . . . . . . . . . . . . » 491,566.55 Cap. 197 (aggiunto) - «Liquidazione definitiva
+n. 87](../Regi%20decreti/Contenente%20le%20norme%20per%20lo%20esonero%20ed%20il%20trattamento%20di%20quiescenza%20del%20personale%20delle%20Amministrazioni%20dello%20Stato.%20023U0087.md)) » . . . . . . . . . . . . . . . . . . . . . . . . » 491,566.55 Cap. 197 (aggiunto) - «Liquidazione definitiva
 dei danni occorsi per i sinistri in guerra, ecc. » . . . » 195,131.59
  ---------- L.782,698.14 
 In diminuzione:

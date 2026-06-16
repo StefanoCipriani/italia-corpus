@@ -42,7 +42,7 @@ A dirigere gl'Istituti di cultura italiana all'estero e le sezioni italiane degl
  
  Essi saranno coadiuvati da almeno un altro studioso possibilmente di grado universitario o di scuola media preferibilmente fornito dell'abilitazione alla libera docenza. 
  
- Gl'Istituti si varranno altresi' di laureati e professori italiani che abbiano ottenuto dal Governo e da altri enti italiani una borsa di studio di perfezionamento all'estero e abbiano prescelto la citta' in cui gl'Istituti hanno sede o vi siano inviati a norma dell'[art. 33 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_33). 
+ Gl'Istituti si varranno altresi' di laureati e professori italiani che abbiano ottenuto dal Governo e da altri enti italiani una borsa di studio di perfezionamento all'estero e abbiano prescelto la citta' in cui gl'Istituti hanno sede o vi siano inviati a norma dell'[art. 33 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  Per eventuali corsi pratici di lingua italiana preparatori a corsi superiori gl'Istituti potranno valersi del personale delle scuole italiane del posto o, in mancanza, d'insegnanti che il Ministero potra' mettere a disposizione.
 

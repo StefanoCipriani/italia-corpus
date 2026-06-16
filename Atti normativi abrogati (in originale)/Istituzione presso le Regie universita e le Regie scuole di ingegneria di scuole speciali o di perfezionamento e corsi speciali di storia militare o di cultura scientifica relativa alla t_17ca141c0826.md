@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sull'ordinamento della istruzione superiore, modificato coi [Regi decreti 6 dicembre 1923, n.2656](Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md): [22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744); [25 settembre 1924, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1585);
+Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sull'ordinamento della istruzione superiore, modificato coi [Regi decreti 6 dicembre 1923, n.2656](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md): [22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744); [25 settembre 1924, n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1585);
 
-Veduto il [R. decreto 7 giugno 1923, n. 1432](Modifiche%20al%20R.%20decreto%2027%20gennaio%201923%20n.%2021%20col%20quale%20si%20istituisce%20la%20Commissione%20Suprema%20mista%20di%20difesa.%20023U1432.md), che istituisce la Commissione suprema di difesa;
+Veduto il [R. decreto 7 giugno 1923, n. 1432](../Regi%20decreti/Modifiche%20al%20R.%20decreto%2027%20gennaio%201923%20n.%2021%20col%20quale%20si%20istituisce%20la%20Commissione%20Suprema%20mista%20di%20difesa.%20023U1432.md), che istituisce la Commissione suprema di difesa;
 
 Veduti i [Regi decreti-legge 23 ottobre 1924, n. 2234](Corsi%20speciali%20militari%20per%20studenti%20delle%20Regie%20universita%20Facolta%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20delle%20Regie%20scuole%20di%20ingegneria.%20024U2234.md), e [6 novembre 1924, n. 1997](Istituzione%20di%20corsi%20di%20alta%20cultura%20concernenti%20la%20tecnica%20militare%20presso%20le%20Regie%20scuole%20di%20ingegneria%20di%20Pisa%20e%20di%20Roma%20e%20la%20Regia%20universita%20di%20Firenze%20e%20di%20una%20sezione%20per%20ingegneri_e4673606aeb8.md), concernenti la istituzione di scuole e corsi di cultura superiore militare;
 
@@ -85,7 +85,7 @@ Per contribuire alle spese occorrenti per la costituzione ed il funzionamento de
 
 ## Art. 8.
 
-Nelle Universita' ed istituti superiori liberi di cui al [n. 2 dell'art. 1 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), possono essere istituiti le scuole ed i corsi indicati nell'art. 2 del presente decreto a totale carico delle universita' e degli istituti stessi.
+Nelle Universita' ed istituti superiori liberi di cui al [n. 2 dell'art. 1 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), possono essere istituiti le scuole ed i corsi indicati nell'art. 2 del presente decreto a totale carico delle universita' e degli istituti stessi.
 
 ## Art. 9.
 

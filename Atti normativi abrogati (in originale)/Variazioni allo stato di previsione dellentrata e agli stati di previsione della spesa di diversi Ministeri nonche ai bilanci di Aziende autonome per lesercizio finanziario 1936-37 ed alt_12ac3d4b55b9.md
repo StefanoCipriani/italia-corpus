@@ -79,7 +79,7 @@ La Societa' anonima Manifatture cotoniere meridionali, con i pagamenti sinora ef
 
 ## Art. 13.
 
-L'ultimo comma della [lettera b) dell'art. 1 del R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_1-letb), concernente le indennita' al personale dell'Amministrazione dello Stato incaricato di missione all'estero e' modificato come appresso: 
+L'ultimo comma della [lettera b) dell'art. 1 del R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), concernente le indennita' al personale dell'Amministrazione dello Stato incaricato di missione all'estero e' modificato come appresso: 
  
  «Tale aumento non si applica per il soggiorno in Albania e negli Stati che non hanno sistema monetario proprio; e qualora in essi si faccia prevalentemente uso di valuta e corso inferiore alla pari, o con aggio rispetto alla lira non superiore al 50 per cento, si applicano le riduzioni del comma seguente». 
  

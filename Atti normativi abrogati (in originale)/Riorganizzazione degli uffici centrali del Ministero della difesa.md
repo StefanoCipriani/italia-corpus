@@ -162,14 +162,14 @@ CAPO III
 La Direzione generale per gli ufficiali dell'Esercito provvede alla trattazione delle materie relative:
  al reclutamento, allo stato, all'avanzamento, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico degli ufficiali dell'Esercito, nonche' al loro impiego, ferme restando, per quanto riguarda quest'ultimo, le attribuzioni dei capi di Stato Maggiore;
  alla concessione e perdita di ricompense, distinzioni onorifiche e onorificenze per il personale militare dell'Esercito;
- all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 14.
 
 La Direzione generale per i sottufficiali e i militari di truppa dell'Esercito provvede alla trattazione delle materie relative:
  al reclutamento dei sottufficiali, nonche' dei militari di truppa a lunga ferma dell'Esercito;
  allo stato, all'avanzamento, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico dei sottufficiali e dei militari di truppa dell'Esercito, nonche' al loro impiego, ferme restando, per quanto riguarda quest'ultimo, le attribuzioni del capo di Stato Maggiore dell'Esercito;
- all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52). Art. 15.
+ all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md). Art. 15.
 
 ### Art. 15.
 
@@ -177,7 +177,7 @@ La Direzione generale per il personale militare della Marina provvede alla tratt
  al reclutamento degli ufficiali, dei sottufficiali e dei militari volontari del Corpo equipaggi militari marittimi;
  allo stato, all'avanzamento, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico degli ufficiali, sottufficiali e militari del Corpo equipaggi militari marittimi, nonche' al loro impiego, ferme restando, per quanto riguarda questi ultimo, le attribuzioni dei capi di Stato Maggiore;
  alla concessione e perdita di ricompense, distinzioni onorifiche e onorificenze per il personale militare della Marina;
- all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 16.
 
@@ -185,18 +185,18 @@ La Direzione generale per il personale militare della Aeronautica provvede alla 
  al reclutamento degli ufficiali, dei sottufficiali e dei militari di truppa a ferma volontaria dell'Aeronautica;
  allo stato, all'avanzamento, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico degli ufficiali, dei sottufficiali e dei militari di truppa dell'Aeronautica, nonche' al loro impiego, ferme restando, per quanto riguarda quest'ultimo, le attribuzioni dei capi di Stato Maggiore;
  alla concessione e perdita di ricompense, distinzioni onorifiche e onorificenze per il personale militare dell'Aeronautica;
- all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 17.
 
-La Direzione generale per gli impiegati civili provvede alla trattazione delle materie relative all'assunzione, allo stato giuridico, all'impiego, all'addestramento, allo svolgimento della carriera, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico e previdenziale degli impiegati civili della Difesa e dei professori delle Accademie e Istituti militari, nonche' dei magistrati militari e degli ufficiali del Corpo in congedo della giustizia militare. Provvede, altresi', all'amministrazione dei capitoli di bilancio relativi al personale anzidetto, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+La Direzione generale per gli impiegati civili provvede alla trattazione delle materie relative all'assunzione, allo stato giuridico, all'impiego, all'addestramento, allo svolgimento della carriera, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico e previdenziale degli impiegati civili della Difesa e dei professori delle Accademie e Istituti militari, nonche' dei magistrati militari e degli ufficiali del Corpo in congedo della giustizia militare. Provvede, altresi', all'amministrazione dei capitoli di bilancio relativi al personale anzidetto, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 18.
 
 La Direzione generale per gli operai provvede alla trattazione delle materie relative:
  all'assunzione, allo stato giuridico, all'impiego, allo addestramento d'intesa con le direzioni generali competenti per ramo di servizio, allo svolgimento della carriera, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico e previdenziale degli operai della difesa;
  agli allievi operai.
- Provvede, altresi', all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ Provvede, altresi', all'amministrazione dei capitoli di bilancio relativi alle materie sopraindicate, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 19.
 
@@ -205,7 +205,7 @@ La Direzione generale della leva, del reclutamento obbligatorio, della militariz
  alla militarizzazione e alla mobilitazione civile;
  alla trattazione delle materie relative al reclutamento, allo stato, all'avanzamento, all'impiego, alla disciplina, alla documentazione caratteristica e matricolare e al trattamento economico del personale del Servizio dall'assistenza spirituale, del personale militare della Associazione dei Cavalieri italiani del Sovrano militare Ordine di Malta e del personale militare della Croce Rossa italiana;
  alla trattazione delle pratiche relative ai militari caduti e dispersi in guerra e alla formazione dell'Albo d'Oro;
- all'amministrazione dei capitoli di bilancio relativi alle materie e al personale sopraindicati, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ all'amministrazione dei capitoli di bilancio relativi alle materie e al personale sopraindicati, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 20.
 
@@ -217,7 +217,7 @@ La Direzione generale delle armi, delle munizioni e degli armamenti terrestri so
  emanazione della relativa normativa tecnica;
  alle attivita' di cui sopra per quanto concerne le apparecchiature e gli equipaggiamenti formanti parte integrante ed inscindibile dei complessi d'arma terrestri;
  Alla formazione, quando effettuata presso gli organi e gli stabilimenti dipendenti, di personale tecnico specializzato militare e civile per le unita' operative e per gli organi addestrativi, logistici e territoriali.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 21.
 
@@ -229,7 +229,7 @@ La Direzione generale delle costruzioni, delle armi e degli armamenti navali sop
  emanazione della relativa normativa tecnica;
  alle attivita' di cui sopra per quanto concerne, le armi, le munizioni, gli armamenti, le apparecchiature e gli equipaggiamenti formanti parte integrante ed inscindibile dei complessi d'arma navali nonche' per quanto concerne i mezzi, le apparecchiature ed i materiali per gli sbarramenti subacquei o ad essi connessi;
  alla formazione, quando effettuata presso gli organi e stabilimenti dipendenti, di personale tecnico e specializzato militare e civile per le unita' operative e per gli organi addestrativi, logistici e territoriali.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 22.
 
@@ -241,7 +241,7 @@ La Direzione generale delle costruzioni, delle armi e degli armamenti aeronautic
  emanazione della relativa normativa tecnica;
  alle attivita' di cui sopra per quanto concerne le armi, le munizioni, gli armamenti, le apparecchiature e gli equipaggiamenti formanti parte integrante ed inscindibile dei complessi d'arma aeronautici e spaziali, nonche' i materiali di aviolancio;
  alla formazione, quando effettuata presso gli organi e gli stabilimenti dipendenti, di personale tecnico e specializzato militare e civile per le unita' operative e per gli organi addestrativi, logistici e territoriali.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 23.
 
@@ -252,7 +252,7 @@ La Direzione generale degli impianti e dei mezzi per l'assistenza al volo, per l
  manutenzione, riparazione, revisione, recupero e alienazione;
  emanazione della relativa normativa tecnica;
  alla formazione, quando effettuata presso gli organi e gli stabilimenti dipendenti, di personale tecnico e specializzato militare e civile per le unita' operative e per gli organi addestrativi, logistici e territoriali.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 24.
 
@@ -263,7 +263,7 @@ La Direzione generale della motorizzazione e dei combustibili sopraintende:
  manutenzione, riparazione, revisione, recupero, alienazione;
  emanazione della relativa normativa tecnica;
  alla formazione, quando effettuata presso gli organi e gli stabilimenti dipendenti, di personale tecnico e specializzato militare e civile, per le unita' operative e per gli organi addestrativi, logistici e territoriali.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 25.
 
@@ -274,7 +274,7 @@ La Direzione generale di commissariato sopraintende:
  manutenzione, riparazione, revisione, recupero, alienazione;
  emanazione della relativa normativa tecnica;
  alla formazione, quando effettuata presso gli organi e gli stabilimenti dipendenti, di personale tecnico e specializzato militare e civile, per le unita' operative e per gli organi addestrativi, logistici e territoriali.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 26.
 
@@ -289,7 +289,7 @@ La Direzione generale dei lavori, del demanio e dei materiali del genio sopraint
  La Direzione generale provvede inoltre:
  alla trattazione delle materie relative all'acquisizione, all'utilizzazione, alla amministrazione e alla dismissione dei beni demaniali militari, fatte salve, in ogni caso, le attribuzioni demandate dalle leggi e dai regolamenti vigenti al Ministero delle finanze;
  alla trattazione di ogni questione attinente alle servitu' e ai vincoli di varia natura connessi a proprieta' demaniali militari;
- alla definizione di liquidazioni per danni a proprieta' private; all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate nel presente articolo, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ alla definizione di liquidazioni per danni a proprieta' private; all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate nel presente articolo, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 27.
 
@@ -301,7 +301,7 @@ La Direzione generale della sanita' militare sopraintende:
  manutenzione, riparazione, revisione, recupero e alienazione;
  emanazione della relativa normativa tecnica;
  alla formazione, quando effettuata presso gli organi e gli stabilimenti dipendenti, di personale tecnico e specializzato militare e civile per le unita' operative e per gli organi addestrativi, logistici e territoriali.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 28.
 
@@ -316,14 +316,14 @@ La Direzione generale delle pensioni provvede alle attivita' concernenti:
  il pagamento degli assegni connessi alle ricompense al valor militare e delle pensioni spettanti agli insigniti dell'Ordine, Militare d'Italia;
  i progetti per il calcolo dell'assegno integratore in.
  aggiunta alle pensioni di guerra e i progetti di liquidazione delle indennita' di buona uscita.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 30.
 
 La Direzione generale delle provvidenze per il personale sopraintende:
  alle attivita' assistenziali, culturali e ricreative a favore del personale militare e civile comunque dipendente dal Ministero della difesa e di quello cessato dal servizio, nonche' delle famiglie del personale stesso;
  alle attivita' tendenti a far conseguire al personale militare, mediante la frequenza di corsi interni o esterni, qualificazioni professionali civili, nonche' a quelle rivolte ad agevolare il collocamento dei militari che cessano dal servizio.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 31.
 
@@ -335,7 +335,7 @@ La Direzione generale del contenzioso provvede:
  all'azione di competenza dell'Amministrazione nei giudizi di responsabilita' contabile e amministrativa;
  alla liquidazione degli indennizzi e dei risarcimenti di danni nelle materie di competenza nonche' delle spese di liti;
  alla trattazione di pratiche inerenti ai sinistri e agli infortuni, compresa la stipulazione di transazioni intese a prevenire le liti.
- La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49) e [52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52).
+ La Direzione generale provvede inoltre all'amministrazione dei capitoli di bilancio relativi alle attivita' indicate al comma precedente, con l'osservanza del disposto degli [articoli 49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ### Art. 32.
 
@@ -411,7 +411,7 @@ Nel periodo intercorrente tra la data di cui al precedente art. 38 e la data pre
 
 ### Art. 43.
 
-Alla data in cui sara' costituita la Direzione generale per gli impiegati civili, i Consigli di amministrazione per il personale ausiliario, operanti presso le direzioni generali personali civili e affari generali di ciascuna forza armata, saranno sostituiti da un unico Consiglio di amministrazione con la composizione e le attribuzioni stabilite dall'art. 146 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Alla data in cui sara' costituita la Direzione generale per gli impiegati civili, i Consigli di amministrazione per il personale ausiliario, operanti presso le direzioni generali personali civili e affari generali di ciascuna forza armata, saranno sostituiti da un unico Consiglio di amministrazione con la composizione e le attribuzioni stabilite dall'art. 146 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 44.
 
@@ -430,7 +430,7 @@ Alla data in cui saranno costituite, ai sensi dell'art. 40, le Direzioni general
 
 ### Art. 47.
 
-Alla data in cui sara' costituita la Direzione generale dei servizi generali, le Commissioni per l'eliminazione degli atti di archivio operanti presso le direzioni generali personali civili e affari generali di ciascuna forza armata, saranno sostituite da un'unica Commissione per l'eliminazione degli atti di archivio, con la composizione e le attribuzioni stabilite dall'art. 69 del regolamento sugli archivi di Stato, approvato con [regio decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), e successive modificazioni.
+Alla data in cui sara' costituita la Direzione generale dei servizi generali, le Commissioni per l'eliminazione degli atti di archivio operanti presso le direzioni generali personali civili e affari generali di ciascuna forza armata, saranno sostituite da un'unica Commissione per l'eliminazione degli atti di archivio, con la composizione e le attribuzioni stabilite dall'art. 69 del regolamento sugli archivi di Stato, approvato con [regio decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), e successive modificazioni.
 
 ### Art. 48.
 

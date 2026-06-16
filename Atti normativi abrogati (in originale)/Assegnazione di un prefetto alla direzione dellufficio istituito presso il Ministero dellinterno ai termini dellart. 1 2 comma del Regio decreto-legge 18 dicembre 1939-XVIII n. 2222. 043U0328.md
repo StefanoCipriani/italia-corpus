@@ -30,7 +30,7 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, 
 
 ## Articolo unico.
 
-Un prefetto, scelto fra quelli a disposizione a, termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_102), e' preposto alla direzione dell'ufficio istituito con l'articolo 1, comma 2, del R. decreto-legge 18 dicembre 1939-XVII1, n. 2222, convertito nella legge 25 giugno 1940-XVIII, n. 1080, e successivamente confermato con l'art. 4 del R. decreto 2 gennaio 1941-XIX, n. 4. 
+Un prefetto, scelto fra quelli a disposizione a, termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' preposto alla direzione dell'ufficio istituito con l'articolo 1, comma 2, del R. decreto-legge 18 dicembre 1939-XVII1, n. 2222, convertito nella legge 25 giugno 1940-XVIII, n. 1080, e successivamente confermato con l'art. 4 del R. decreto 2 gennaio 1941-XIX, n. 4. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

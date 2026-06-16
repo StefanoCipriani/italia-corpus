@@ -15,12 +15,12 @@ UMBERTO DI SAVOIA
  LUOGOTENENZIALE GENERALE DEL REGNO
 
  In virtu' dell'autorita' a Noi delegata;
- Visto l'[art. 1 del R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), contenente disposizioni riguardanti la posizione dei funzionari fuori ruolo;
+ Visto l'[art. 1 del R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), contenente disposizioni riguardanti la posizione dei funzionari fuori ruolo;
  Visto l'[art. 17 del R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17);
  Sulla proposta del Nostro Ministro Segretario di Stato per il tesoro;
  Abbiamo decretato e decretiamo:
 
- Il Ministro per il tesoro e' autorizzato a collocare fuori ruolo, ai termini del [R. Decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), modificato dal [R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46), due funzionari della Direzione generale del tesoro di grado non inferiore al 6°, per essere destinati presso l'Istituto Vittorio Emanuele III per i danneggiati dal terremoto di Reggio Calabria.
+ Il Ministro per il tesoro e' autorizzato a collocare fuori ruolo, ai termini del [R. Decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), modificato dal [R. decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46), due funzionari della Direzione generale del tesoro di grado non inferiore al 6°, per essere destinati presso l'Istituto Vittorio Emanuele III per i danneggiati dal terremoto di Reggio Calabria.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
 

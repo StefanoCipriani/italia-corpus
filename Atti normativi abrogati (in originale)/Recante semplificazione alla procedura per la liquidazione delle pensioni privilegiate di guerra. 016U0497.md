@@ -68,7 +68,7 @@ Chiunque ritenga di aver contratto una infermita' a causa di servizio, e lasci t
 
 Nel caso di aggravamento dell'infermita', per la quale sia stata gia' liquidata la pensione, il pensionato potra' far valere i suoi maggiori diritti, presentando apposita domanda nel termine perentorio di cinque anni dal giorno della cessazione dal servizio. 
  
- Per accertare l'aggravamento delle infermita', saranno seguite le norme contenute nell'art. 60 del regolamento approvato con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603). 
+ Per accertare l'aggravamento delle infermita', saranno seguite le norme contenute nell'art. 60 del regolamento approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md). 
  
  L'aumento della pensione, in seguito all'accertato aggravamento, sara' calcolato secondo le norme in vigore al momento della cessazione dal servizio, e avra' effetto soltanto dal primo giorno del mese successivo a quello della presentazione della domanda.
 
@@ -130,7 +130,7 @@ Nei casi in cui, per insufficiente documentazione o per altro motivo, la Corte d
 
 ### Art. 20.
 
-Ai soli effetti della [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), modificata come ai precedenti articoli, la Tripolitania e' da considerarsi come in istato di guerra anche per il periodo dal 1° luglio 1914 fino al mezzogiorno del 15 maggio 1915, momento in cui lo stato di guerra medesimo venne effettivamente proclamato in virtu' del [R. decreto 14 maggio 1915, n. 777](Col%20quale%20il%20territorio%20della%20Tripolitania%20viene%20considerato%20in%20istato%20di%20guerra.%20015U0777.md).
+Ai soli effetti della [legge 23 giugno 1912, n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md), modificata come ai precedenti articoli, la Tripolitania e' da considerarsi come in istato di guerra anche per il periodo dal 1° luglio 1914 fino al mezzogiorno del 15 maggio 1915, momento in cui lo stato di guerra medesimo venne effettivamente proclamato in virtu' del [R. decreto 14 maggio 1915, n. 777](../Regi%20decreti/Col%20quale%20il%20territorio%20della%20Tripolitania%20viene%20considerato%20in%20istato%20di%20guerra.%20015U0777.md).
 
 ### Art. 21.
 

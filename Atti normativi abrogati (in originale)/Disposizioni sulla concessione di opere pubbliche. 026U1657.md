@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-11;1932);
 
-Visto il [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054);
+Visto il [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
 Visto il [R. decreto 7 luglio 1925, n. 1173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-07;1173);
 

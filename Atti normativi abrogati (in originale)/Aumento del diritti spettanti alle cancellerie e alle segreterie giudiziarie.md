@@ -41,7 +41,7 @@ L'importo dei diritti, di cui ai precedenti articoli 1 e 2, costituisce provento
 
 ### Art. 4.
 
-I diritti spettanti agli uffici delle cancellerie e delle segreterie giudiziarie in materia penale fino a quando la sentenza non sia eseguita, stabiliti con la tabella allegata al presente decreto, sono annotati e riscossi con le modalita' prescritte per le pene pecuniarie e per le spese di giustizia dalla tariffa penale, approvata con [regio decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), e successive modificazioni.
+I diritti spettanti agli uffici delle cancellerie e delle segreterie giudiziarie in materia penale fino a quando la sentenza non sia eseguita, stabiliti con la tabella allegata al presente decreto, sono annotati e riscossi con le modalita' prescritte per le pene pecuniarie e per le spese di giustizia dalla tariffa penale, approvata con [regio decreto 23 dicembre 1865, n. 2701](../Regi%20decreti/Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), e successive modificazioni.
 
 ### Art. 5.
 
@@ -62,7 +62,7 @@ Nei decreti, con i quali si stabiliscono le spese degli uffici giudiziari, quell
 
 ### Art. 8.
 
-Presso i Tribunali e le Preture sui proventi riscossi nel bimestre si prelevano le somme indicate nell'[art. 9 del regio decreto 9 febbraio 1896, n. 25](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md).
+Presso i Tribunali e le Preture sui proventi riscossi nel bimestre si prelevano le somme indicate nell'[art. 9 del regio decreto 9 febbraio 1896, n. 25](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md).
  Per la retribuzione del lavoro straordinario di copiatura non puo' prelevarsi una quota superiore ai cinque decimi delle somme che spettano alla cancelleria sui diritti di copia.
 
 ### Art. 9.
@@ -101,10 +101,10 @@ Il funzionario di cancelleria e di segreteria, incaricato di sostituire saltuari
 
 ### Art. 16.
 
-Nei primi cinque giorni di ogni bimestre il cancelliere della Pretura e le Commissioni indicate negli [articoli 13, primo comma](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), e [15, primo comma, del regio decreto 9 febbraio 1896, n. 25](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), provvedono alla compilazione dell'elenco dei funzionari aventi diritto ai proventi con la indicazione della quota a ciascuno assegnata.
+Nei primi cinque giorni di ogni bimestre il cancelliere della Pretura e le Commissioni indicate negli [articoli 13, primo comma](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), e [15, primo comma, del regio decreto 9 febbraio 1896, n. 25](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), provvedono alla compilazione dell'elenco dei funzionari aventi diritto ai proventi con la indicazione della quota a ciascuno assegnata.
  L'elenco e' reso noto mediante affissione in cancelleria.
  In caso di dissenso, gli interessati possono ricorrere nei tre
-giorni successivi rispettivamente al pretore o alle Commissioni di cui agli articoli 13, ultimo comma, e 15, ultimo comma, del [regio decreto 9 febbraio 1896, n. 25](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md).
+giorni successivi rispettivamente al pretore o alle Commissioni di cui agli articoli 13, ultimo comma, e 15, ultimo comma, del [regio decreto 9 febbraio 1896, n. 25](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md).
 
 ### Art. 17.
 

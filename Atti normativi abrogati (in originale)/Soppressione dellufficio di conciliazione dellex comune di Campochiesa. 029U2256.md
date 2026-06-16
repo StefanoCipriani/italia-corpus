@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;653), col quale il comune di Campochiesa e' stato soppresso ed il rispettivo territorio aggregato a quello di Albenga; 
+ Visto il [R. decreto 28 marzo 1929, n. 653](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Campochiesa%20a%20quello%20di%20Albenga.%20029U0653.md), col quale il comune di Campochiesa e' stato soppresso ed il rispettivo territorio aggregato a quello di Albenga; 
  
  Vista la deliberazione del commissario prefettizio di Albenga rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Campochiesa; 
  

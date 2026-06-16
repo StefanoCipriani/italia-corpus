@@ -44,7 +44,7 @@ L'imposta sostitutiva e' dovuta nella misura del 25 per cento ed e' commisurata 
 
 5.
 
-Ai fini dell'applicazione dell'imposta nei confronti dei non residenti si applicano le disposizioni di cui all'articolo 20, comma 1, lettera f), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Ai fini dell'applicazione dell'imposta nei confronti dei non residenti si applicano le disposizioni di cui all'articolo 20, comma 1, lettera f), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 6.
 
@@ -79,7 +79,7 @@ L'opzione di cui al presente articolo non puo' essere esercitata per le plusvale
 
 6.
 
-Sono soppressi la lettera c) del comma 1 dell'articolo 81 e il comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Sono soppressi la lettera c) del comma 1 dell'articolo 81 e il comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 ## Art. 4. — Adempimenti degli intermediari
 
@@ -99,7 +99,7 @@ I soggetti di cui al comma 1 devono tenere evidenza, anche mediante rilevazione 
 
 1.
 
-Gli uffici procedono al controllo, all'accertamento e alla riscossione dell'imposta sostitutiva non versata nei confronti del soggetto che ha realizzato la plusvalenza a norma delle disposizioni contenute nei [decreti del Presidente della Repubblica 29 settembre 1973, numeri 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) e [602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md); la maggiore imposta accertata e' riscossa mediante iscrizione in ruoli suppletivi ai sensi del citato decreto n. 602 del 1973. Si applica la pena pecuniaria da una a due volte l'imposta evasa; se l'imposta evasa e' superiore a 50 milioni di lire si applica la pena pecuniaria da due a quattro volte. La stessa disposizione si applica anche nei confronti degli intermediari per la violazione dell'obbligo di versamento dell'imposta sostitutiva, salve le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Ciascuna violazione degli altri obblighi posti a carico degli intermediari e' punita con la pena pecuniaria di lire dieci milioni.
+Gli uffici procedono al controllo, all'accertamento e alla riscossione dell'imposta sostitutiva non versata nei confronti del soggetto che ha realizzato la plusvalenza a norma delle disposizioni contenute nei [decreti del Presidente della Repubblica 29 settembre 1973, numeri 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) e [602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md); la maggiore imposta accertata e' riscossa mediante iscrizione in ruoli suppletivi ai sensi del citato decreto n. 602 del 1973. Si applica la pena pecuniaria da una a due volte l'imposta evasa; se l'imposta evasa e' superiore a 50 milioni di lire si applica la pena pecuniaria da due a quattro volte. La stessa disposizione si applica anche nei confronti degli intermediari per la violazione dell'obbligo di versamento dell'imposta sostitutiva, salve le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Ciascuna violazione degli altri obblighi posti a carico degli intermediari e' punita con la pena pecuniaria di lire dieci milioni.
 
 ## Art. 6. — Disposizioni di attuazione e transitorie
 
@@ -109,7 +109,7 @@ Le disposizioni del presente decreto si applicano alle plusvalenze realizzate a 
 
 2.
 
-Per le plusvalenze derivanti da atti di cessione effettuati fino al 27 gennaio 1991 continuano ad applicarsi le disposizioni di cui alla lettera c) del comma 1 dell'articolo 81 e al comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); continuano altresi' ad applicarsi in luogo di quelle previste dal presente decreto le disposizioni dell'[articolo 9 della legge 23 marzo 1983, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;77#art_9), e dell'[articolo 11- bis del decreto-legge 30 settembre 1983, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-30;512#art_11bis), convertito, con modificazioni, dalla [legge 25 novembre 1983, n. 649](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201983%20n.%20512%20recante%20disposizioni%20relative%20ad%20alcune%20ritenute%20alla%20fonte%20sugli%20interessi%20ed%20altri%20proventi%20di%20capitale.md).
+Per le plusvalenze derivanti da atti di cessione effettuati fino al 27 gennaio 1991 continuano ad applicarsi le disposizioni di cui alla lettera c) del comma 1 dell'articolo 81 e al comma 3 dell'articolo 82 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); continuano altresi' ad applicarsi in luogo di quelle previste dal presente decreto le disposizioni dell'[articolo 9 della legge 23 marzo 1983, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;77#art_9), e dell'[articolo 11- bis del decreto-legge 30 settembre 1983, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-30;512#art_11bis), convertito, con modificazioni, dalla [legge 25 novembre 1983, n. 649](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201983%20n.%20512%20recante%20disposizioni%20relative%20ad%20alcune%20ritenute%20alla%20fonte%20sugli%20interessi%20ed%20altri%20proventi%20di%20capitale.md).
 
 ## Art. 7. — Entrata in vigore
 

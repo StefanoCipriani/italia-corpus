@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il termine stabilito dall'art. 2 del regolamento approvato con [R. decreto 17 settembre 1910, n. 859](Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md), per la decadenza della carica degli economi-cassieri delle Amministrazioni centrali, e' prorogato fino a quattro mesi dopo la cessazione dello stato di guerra. 
+Il termine stabilito dall'art. 2 del regolamento approvato con [R. decreto 17 settembre 1910, n. 859](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20gestioni%20affidate%20agli%20economi-cassieri%20delle%20Amministrazioni%20centrali.%20010U0859.md), per la decadenza della carica degli economi-cassieri delle Amministrazioni centrali, e' prorogato fino a quattro mesi dopo la cessazione dello stato di guerra. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

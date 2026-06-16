@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 31 del R. decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205#art_31); 
+ Visto l'[art. 31 del R. decreto-legge 13 novembre 1919, n. 2205](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20dei%20provvedimenti%20sulla%20emigrazione%20e%20sulla%20tutela%20giuridica%20degli%20emigranti.%20019U2205.md); 
  
  Ritenuto che allo scopo di ottenere una rapida decisione delle divergenze inerenti alla fissazione di prezzo dei noli di terza classe per il trasporto transoceanico degli emigranti, sia opportuno istituire una speciale Commissione; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Al [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205#art_31-com3) e [quarto comma dell'art. 31 del R. decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205#art_31-com4), e' sostituito quanto appresso: 
+ Al [terzo](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20dei%20provvedimenti%20sulla%20emigrazione%20e%20sulla%20tutela%20giuridica%20degli%20emigranti.%20019U2205.md) e [quarto comma dell'art. 31 del R. decreto-legge 13 novembre 1919, n. 2205](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20dei%20provvedimenti%20sulla%20emigrazione%20e%20sulla%20tutela%20giuridica%20degli%20emigranti.%20019U2205.md), e' sostituito quanto appresso: 
  
  «Il vettore che non sia soddisfatto del nolo determinato dal Commissariato ha facolta' di ricorrere ad una Commissione speciale cosi' costituita: Presidente: un presidente di sezione della Corte di cassazione, designato di volta in volta dal primo presidente della Corte medesima; membri: un componente del Consiglio superiore dell'emigrazione, che non sia rappresentante di emigranti, un componente del Consiglio superiore della marina mercantile che non sia rappresentante di armatori, designati dai rispettivi presidenti.
 Due funzionari superiori, uno del Commissariato generale dell'emigrazione e uno della marina mercantile interveranno nella Commissione come esperti, senza diritto a voto. Fungeranno da segretari un funzionario del Commissariato della marina mercantile ed uno del Commissariato generale dell'emigrazione di grado non inferiore a primo segretario. 

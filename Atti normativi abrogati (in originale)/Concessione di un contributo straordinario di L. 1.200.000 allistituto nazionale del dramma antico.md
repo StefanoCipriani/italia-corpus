@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910_2.md);
+Visto l'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](../Regi%20decreti%20legislativi/Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

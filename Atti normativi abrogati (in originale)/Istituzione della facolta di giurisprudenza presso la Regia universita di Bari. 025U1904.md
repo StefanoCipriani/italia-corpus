@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,13 +22,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Con convenzione da stipularsi e da approvarsi a norma dell'[art. 82 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sara' istituita presso la Regia universita' di Bari la facolta' di giurisprudenza. 
+Con convenzione da stipularsi e da approvarsi a norma dell'[art. 82 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sara' istituita presso la Regia universita' di Bari la facolta' di giurisprudenza. 
  
  Lo schema della convenzione, corredato di una motivata relazione e del piano finanziario, sara' rassegnato al Ministero dal rettore dell'Universita' entro il 15° giorno dalla pubblicazione del presente decreto.
 
 ## Art. 2.
 
-Alla Universita' anzidetta e' concessa la somma di L. 200,000 quale assegno dello Stato per le spese di primo impianto della istituenda facolta' e la somma annua di L. 260,000 quale contributo alle spese di mantenimento in aggiunta alla somma stabilita nella tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
+Alla Universita' anzidetta e' concessa la somma di L. 200,000 quale assegno dello Stato per le spese di primo impianto della istituenda facolta' e la somma annua di L. 260,000 quale contributo alle spese di mantenimento in aggiunta alla somma stabilita nella tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 3.
 
@@ -36,7 +36,7 @@ Stipulata la convenzione di cui all'art. 1, il Ministro potra' porre temporaneam
 
 ## Art. 4.
 
-Per provvedere, nei limiti del ruolo organico previsto dalla convenzione, a posti di professore presso la nuova facolta', il Ministro potra', entro un mese dalla data del decreto di approvazione della convenzione di cui all'art. 1, trasferirvi, su domanda e prescindendo dalla disposizione dell'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), professori di qualsiasi universita' o istituto d'istruzione superiore di grado universitario per l'insegnamento della materia di cui sono titolari o di altra materia. 
+Per provvedere, nei limiti del ruolo organico previsto dalla convenzione, a posti di professore presso la nuova facolta', il Ministro potra', entro un mese dalla data del decreto di approvazione della convenzione di cui all'art. 1, trasferirvi, su domanda e prescindendo dalla disposizione dell'[art. 20 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), professori di qualsiasi universita' o istituto d'istruzione superiore di grado universitario per l'insegnamento della materia di cui sono titolari o di altra materia. 
  
  Qualora si tratti di professori dei Regi istituti superiori di scienze economiche e commerciali occorrera', per il trasferimento, il consenso del Ministro per l'economia nazionale. 
  

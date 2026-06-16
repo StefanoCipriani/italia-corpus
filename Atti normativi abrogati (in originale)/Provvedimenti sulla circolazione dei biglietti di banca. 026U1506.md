@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico di legge sugli istituti di emissione e sulla circolazione dei biglietti di banca, approvato col [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204), colle modificazioni successivamente apportatevi;
+Veduto il testo unico di legge sugli istituti di emissione e sulla circolazione dei biglietti di banca, approvato col [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), colle modificazioni successivamente apportatevi;
 
 Veduti i provvedimenti sanciti dalla [legge del 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), per l'ordinamento della circolazione cartacea di Stato e le successive modificazioni;
 

@@ -340,7 +340,7 @@ Il detentore che abbia tentato l'esportazione o la divisione del materiale archi
 
 Alla stessa pena soggiace chi abbia tentato la distruzione o la dispersione del detto materiale. 
  
- Alla multa e' aggiunta, la confisca, del materiale archivistico, ai sensi del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora si tratti del proprietario del materiale medesimo. 
+ Alla multa e' aggiunta, la confisca, del materiale archivistico, ai sensi del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), qualora si tratti del proprietario del materiale medesimo. 
  
  Nel caso in cui il colpevole raggiunga l'intento, la multa e' stabilita da L. 6000 a L. 24.000 oltre il pagamento di una indennita', pari al valore delle scritture. 
  
@@ -382,7 +382,7 @@ Nella prima attuazione della presente legge il periodo di anzianita' di grado, r
 
 ### Art. 41.
 
-Nella prima attuazione della presente legge, il concorso per merito distinto e l'esame di idoneita' per la promozione al grado 8° del gruppo A possono essere indetti anche in deroga, alle disposizioni contenute nell'ultimo comma dell'[art. 21 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21).
+Nella prima attuazione della presente legge, il concorso per merito distinto e l'esame di idoneita' per la promozione al grado 8° del gruppo A possono essere indetti anche in deroga, alle disposizioni contenute nell'ultimo comma dell'[art. 21 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 42.
 
@@ -396,7 +396,7 @@ Qualora, nell'adozione dei provvedimenti contemplati nella presente legge, sorga
 
 ### Art. 44.
 
-E' trasferito, con i relativi oneri, alle dipendenze del Ministero dell'interno l'Archivio della Dogana delle Pecore, ricostituito giusta l'[art. 12 della legge 20 dicembre 1908, n. 746](Sul%20regime%20dei%20tratturi%20del%20Tavoliere%20di%20Puglia.%20008U0746.md), e riordinato con il [R. decreto 30 dicembre 1923, numero 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md). 
+E' trasferito, con i relativi oneri, alle dipendenze del Ministero dell'interno l'Archivio della Dogana delle Pecore, ricostituito giusta l'[art. 12 della legge 20 dicembre 1908, n. 746](Sul%20regime%20dei%20tratturi%20del%20Tavoliere%20di%20Puglia.%20008U0746.md), e riordinato con il [R. decreto 30 dicembre 1923, numero 3244](../Regi%20decreti/Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md). 
  
  Nulla e' innovato alle attuali competenze del Ministero dell'agricoltura per quanto riguarda il servizio di riordinamento, raccolta, ricerca e rilascio di documenti che interessano il demanio tratturale.
 

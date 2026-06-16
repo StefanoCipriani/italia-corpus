@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Articolo unico.
 
-Nel ruolo organico dell'Amministrazione centrale della guerra di cui alla tabella n. 52 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aumentato di un posto il numero degli ispettori generali ed e' contemporaneamente soppresso uno dei posti di direttore capo divisione stabiliti nella tabella medesima per i funzionari civili. 
+Nel ruolo organico dell'Amministrazione centrale della guerra di cui alla tabella n. 52 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aumentato di un posto il numero degli ispettori generali ed e' contemporaneamente soppresso uno dei posti di direttore capo divisione stabiliti nella tabella medesima per i funzionari civili. 
  
  Nella prima applicazione del presente decreto, detto posto potra' essere conferito anche in deroga alle disposizioni vigenti per le promozioni. 
  

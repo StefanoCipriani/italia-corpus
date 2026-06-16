@@ -18,7 +18,7 @@ Sulla proposizione del Ministro della guerra;
 
 Sentito il Consiglio dei Ministri,
 
-Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
+Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Visto il nostro Decreto delli 29 settembre 1860, portante amnistia ai militari del nostro esercito inquisiti o condannati per reato di diserzione ivi specificato;
 

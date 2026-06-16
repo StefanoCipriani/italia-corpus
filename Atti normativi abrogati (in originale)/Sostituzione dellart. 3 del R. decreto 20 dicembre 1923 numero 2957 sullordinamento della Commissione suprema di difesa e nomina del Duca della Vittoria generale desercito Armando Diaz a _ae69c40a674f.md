@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 20 dicembre 1923, n. 2957](Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md), sull'ordinamento della Commissione suprema di difesa;
+Visto il [R. decreto 20 dicembre 1923, n. 2957](../Regi%20decreti/Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md), sull'ordinamento della Commissione suprema di difesa;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segret
 
 ## Art. 1.
 
-All'[art. 3 del R. decreto 20 dicembre 1923, n. 2957](Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md), e' sostituito il seguente: 
+All'[art. 3 del R. decreto 20 dicembre 1923, n. 2957](../Regi%20decreti/Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md), e' sostituito il seguente: 
  
  Il Comitato deliberativo e' composto come segue: 
  

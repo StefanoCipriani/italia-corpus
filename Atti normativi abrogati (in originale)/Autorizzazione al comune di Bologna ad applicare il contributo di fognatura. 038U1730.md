@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
+Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
 
 Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 

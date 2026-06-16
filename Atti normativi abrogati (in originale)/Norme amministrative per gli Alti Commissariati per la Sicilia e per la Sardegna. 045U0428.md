@@ -22,7 +22,7 @@ Visti i [Regi decreti-legge,27 gennaio 1944, n. 21](Istituzione%20dellAlto%20Com
 
 Visti i [decreti legislativi Luogotenenziali 28 dicembre 1944, numeri 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md) o 417, recanti provvedimenti regionali per la Sicilia e por la Sardegna;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita', generale dello Stato, il relativo regolamento approvato con decreto 23 maggio 1924, n. 827, e successive modificazioni;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita', generale dello Stato, il relativo regolamento approvato con decreto 23 maggio 1924, n. 827, e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

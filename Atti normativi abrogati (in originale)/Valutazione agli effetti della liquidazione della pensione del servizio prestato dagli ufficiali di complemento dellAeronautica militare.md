@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni e integrazioni;
+Visto il testo delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni e integrazioni;
 
-Visto il [regio decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), concernente la istituzione del Commissariato per l'aeronautica;
+Visto il [regio decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), concernente la istituzione del Commissariato per l'aeronautica;
 
-Visto il [regio decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), per la costituzione dell'Aeronautica;
+Visto il [regio decreto 28 marzo 1923, n. 645](../Regi%20decreti/Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), per la costituzione dell'Aeronautica;
 
 Visto il decreto commissariale 31 luglio 1923, concernente la costituzione del Corpo del genio aeronautico e la pubblicazione del relativo organico;
 

@@ -72,12 +72,12 @@ Sono tenuti all'apertura del conto corrente postale a norma dell'[art. 10 della 
 
 ### Art. 6.
 
-Possono essere ammessi al pagamento dell'imposta sull'entrata con postagiro settimanale a norma degli articoli 75 e seguenti del regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), i commercianti, industriali ed esercenti che siano iscritti nei ruoli dell'imposta di ricchezza mobile per un reddito di categoria B non inferiore a L. 200.000.
+Possono essere ammessi al pagamento dell'imposta sull'entrata con postagiro settimanale a norma degli articoli 75 e seguenti del regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), i commercianti, industriali ed esercenti che siano iscritti nei ruoli dell'imposta di ricchezza mobile per un reddito di categoria B non inferiore a L. 200.000.
  Restano ferme le autorizzazioni gia' concesse alla data di entrata in vigore del presente decreto.
 
 ### Art. 7.
 
-L'imposta sull'entrata, compresa l'addizionale straordinaria stabilita dal [decreto legislativo del Capo provvisorio dello Stato 25 novembre 1947, n. 1253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-25;1253), da corrispondersi a mezzo di marche o, in sostituzione di queste, a mezzo del servizio dei conti correnti postali, si applica giusta i seguenti criteri ed osservate le norme di cui al regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md):
+L'imposta sull'entrata, compresa l'addizionale straordinaria stabilita dal [decreto legislativo del Capo provvisorio dello Stato 25 novembre 1947, n. 1253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-25;1253), da corrispondersi a mezzo di marche o, in sostituzione di queste, a mezzo del servizio dei conti correnti postali, si applica giusta i seguenti criteri ed osservate le norme di cui al regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md):
  a) quando l'ammontare complessivo del tributo, per ogni entrata, non supera L. 100: esclusivamente mediante apposizione di marche;
  b) quando il detto ammontare, per ogni entrata, supera L. 100 e non L. 2000: facoltativamente a mezzo di marche o a mezzo del servizio dei conti correnti postali;
  c) quando il detto ammontare, per ogni entrata, supera L. 2000: esclusivamente a mezzo del servizio dei conti correnti postali.
@@ -86,7 +86,7 @@ L'imposta sull'entrata, compresa l'addizionale straordinaria stabilita dal [decr
 
 ### Art. 8.
 
-La competenza a consentire dilazioni a norma dell'[art. 46 della legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e dell'art. 117 del regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), e' devoluta all'Intendenza di finanza, quando l'importo non supera L. 300.000, al Ministero delle finanze negli altri casi.
+La competenza a consentire dilazioni a norma dell'[art. 46 della legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e dell'art. 117 del regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), e' devoluta all'Intendenza di finanza, quando l'importo non supera L. 300.000, al Ministero delle finanze negli altri casi.
 
 ### Art. 9.
 

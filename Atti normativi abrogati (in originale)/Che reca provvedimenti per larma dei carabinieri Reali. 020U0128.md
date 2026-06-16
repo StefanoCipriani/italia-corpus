@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti i decreti Luogotenenziali nn. 494 e [495 del 6 aprile 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;495);
 
-Visto il [R. decreto n. 1802 del 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md);
+Visto il [R. decreto n. 1802 del 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md);
 
 Visto il [decreto-legge n. 2379 del 20 novembre 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-11-20;2379);
 
@@ -26,7 +26,7 @@ Sulla proposta del ministro segretario di Stato per gli affari della guerra, di 
 
 ## Art. 1.
 
-I carabinieri effettivi possono essere tratti in via permanente oltre che dalle categorie indicate dall'[art. 6 del R. decreto n. 1802 del 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), e colle modalita' e premi previsti dall'articolo stesso, anche dai sottufficiali e caporali maggiori delle altre armi e dai sottufficiali del corpo R. equipaggi in servizio, nonche' dai sottufficiali, caporali maggiori, caporali e soldati delle altre armi e dai sottufficiali, sottocapi e comuni del corpo R. equipaggi in congedo che non abbiano oltrepassato il 30° anno di eta', e, possedendo i voluti requisiti, chiedano di passare carabinieri effettivi vincolandosi con ferma triennale. 
+I carabinieri effettivi possono essere tratti in via permanente oltre che dalle categorie indicate dall'[art. 6 del R. decreto n. 1802 del 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), e colle modalita' e premi previsti dall'articolo stesso, anche dai sottufficiali e caporali maggiori delle altre armi e dai sottufficiali del corpo R. equipaggi in servizio, nonche' dai sottufficiali, caporali maggiori, caporali e soldati delle altre armi e dai sottufficiali, sottocapi e comuni del corpo R. equipaggi in congedo che non abbiano oltrepassato il 30° anno di eta', e, possedendo i voluti requisiti, chiedano di passare carabinieri effettivi vincolandosi con ferma triennale. 
  
  Detti militari saranno nominati carabinieri effettivi all'atto del loro passaggio nell'arma con diritto a percepire subito un premio di L. 1500, o 1800 ove abbiano preso parte per tre anni consecutivi alle campagne di guerra libica e nazionale. 
  
@@ -49,7 +49,7 @@ Perderanno pero' il diritto a percepire il premio di L. 250 per essi stabilito a
 
 I sottufficiali e militari di truppa dell'arma dei carabinieri Reali in servizio effettivo, che al termine della ferma o delle rafferme attualmente in corso si vincolino a rafferma triennale, avranno diritto a percepire senza altro un premio di lire 1000, oltre alla comune indennita' gia' stabilita per la rafferma medesima. 
  
- Eguale premio sara' pure concesso ai sottufficiali e militari di truppa dell'arma dei carabinieri Reali tuttora richiamati alle armi, o trattenuti od in congedo che chiedano di vincolarsi a nuova ferma triennale, sempre quando essi non abbiano oltrepassato, all'atto dell'entrata In vigore del [R. decreto n. 1802 del 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), il 40° anno di eta' e siano celibi o vedovi senza prole. 
+ Eguale premio sara' pure concesso ai sottufficiali e militari di truppa dell'arma dei carabinieri Reali tuttora richiamati alle armi, o trattenuti od in congedo che chiedano di vincolarsi a nuova ferma triennale, sempre quando essi non abbiano oltrepassato, all'atto dell'entrata In vigore del [R. decreto n. 1802 del 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), il 40° anno di eta' e siano celibi o vedovi senza prole. 
  
  Dello stesso trattamento potranno beneficiare, in via eccezionale e nei limiti dei posti disponibili per l'inquadramento dei battaglieri mobili dei carabinieri Reali, anche i sottufficiali dell'arma stessa richiamati alle armi o trattenuti od in congedo, ammogliati o vedovi con prole, che si trovino nelle suddette condizioni di eta', abbiano i voluti requisiti anche nei riguardi della famiglia e per il loro grado ed anzianita' siano nelle condizioni stabilite come necessarie per i sottufficiali alle armi per essere autorizzati a contrarre matrimonio. 
  
@@ -57,11 +57,11 @@ I sottufficiali e militari di truppa dell'arma dei carabinieri Reali in servizio
 
 ## Art. 5.
 
-I benefici previsti dall'[art. 21 del R. decreto n. 1802 del 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) sono estesi anche ai sottotenenti e tenenti di milizia territoriale dell'arma dei carabinieri Reali che abbiano lasciato il servizio posteriormente alla data della conclusione dell'armistizio.
+I benefici previsti dall'[art. 21 del R. decreto n. 1802 del 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) sono estesi anche ai sottotenenti e tenenti di milizia territoriale dell'arma dei carabinieri Reali che abbiano lasciato il servizio posteriormente alla data della conclusione dell'armistizio.
 
 ## Art. 6.
 
-I sottufficiali - esclusi i marescialli maggiori - ed i militari di truppa che abbiano compiuto il 25° anno di servizio prima della data di entrata in vigore del [R. decreto n. 1802 del 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) o lo compiano entro un anno dalla data stessa, potranno essere trattenuti in servizio, se riconosciuti meritevoli, fino all'8 ottobre 1920, dopo di che dovranno essere senz'altro collocati a riposo. 
+I sottufficiali - esclusi i marescialli maggiori - ed i militari di truppa che abbiano compiuto il 25° anno di servizio prima della data di entrata in vigore del [R. decreto n. 1802 del 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md) o lo compiano entro un anno dalla data stessa, potranno essere trattenuti in servizio, se riconosciuti meritevoli, fino all'8 ottobre 1920, dopo di che dovranno essere senz'altro collocati a riposo. 
  
  Parimenti potranno rimanere in servizio fino alla data suddetta i marescialli maggiori che abbiano compiuto il 30° anno di servizio prima della data di entrata in vigore del R. decreto n. 1802 su citato o lo compiano entro un anno dalla data stessa. 
  
@@ -71,7 +71,7 @@ I sottufficiali - esclusi i marescialli maggiori - ed i militari di truppa che a
 
 Ogni altra disposizione contraria al presente decreto e' abrogata. 
  
- Le disposizioni di cui all'art. 4 del decreto stesso avranno effetto dalla data della pubblicazione del [R. decreto n. 1802 del 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md). 
+ Le disposizioni di cui all'art. 4 del decreto stesso avranno effetto dalla data della pubblicazione del [R. decreto n. 1802 del 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

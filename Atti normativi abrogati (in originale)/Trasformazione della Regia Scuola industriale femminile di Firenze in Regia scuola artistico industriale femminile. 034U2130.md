@@ -18,7 +18,7 @@ Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il decreto Luogotenenziale 4 aprile 1918, n, 1075, che classifica di 2° grado la Regia scuola industriale femminile di Firenze;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), sui riordinamento dell'istruzione industriale;
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sui riordinamento dell'istruzione industriale;
 
 Visto il decreto 3 giugno 1924, n. 969;
 
@@ -114,7 +114,7 @@ Gli insegnanti di ruolo sono tenuti a prestare l'opera loro per il numero di ore
 
 ## Art. 9.
 
-Il personale di ruolo e' nominato secondo le norme di cui al [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523). 
+Il personale di ruolo e' nominato secondo le norme di cui al [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md). 
  
  Gli insegnanti incaricati sono nominati con decreto Ministeriale quando gli incarichi sono espressamente e singolarmente contemplati nella pianta organica.
 

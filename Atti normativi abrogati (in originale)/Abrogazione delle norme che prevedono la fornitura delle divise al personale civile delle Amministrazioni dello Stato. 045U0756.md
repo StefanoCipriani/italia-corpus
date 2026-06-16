@@ -14,7 +14,7 @@ E' abrogato il [R. decreto-legge 5 settembre 1938, n. 1524](Istituzione%20di%20u
 
 ## Art. 2.
 
-Per gli agenti adibiti a servizio di usciere o servizio di fatica si applicano le disposizioni previste nell'[articolo 117 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_117).
+Per gli agenti adibiti a servizio di usciere o servizio di fatica si applicano le disposizioni previste nell'[articolo 117 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 3.
 

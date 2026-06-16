@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 1 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_1) approvato con decreto 27 luglio 1934, n. 1267;
+Veduto l'[art. 1 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con decreto 27 luglio 1934, n. 1267;
 
-Veduto il regolamento per la sanita' marittima approvato con [R. decreto 29 settembre 1895, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;636), modificato con i [Regi decreti 7 luglio 1910, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-07;573), [11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;167), [29 novembre 1925, numero 2288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-29;2288) e [21 marzo 1929, n. 871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-21;871);
+Veduto il regolamento per la sanita' marittima approvato con [R. decreto 29 settembre 1895, n. 636](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md), modificato con i [Regi decreti 7 luglio 1910, n. 573](../Regi%20decreti/Che%20sostituisce%20le%20disposizioni%20contenute%20in%20vari%20articoli%20del%20regolamento%20sulla%20sanita%20marittima.%20010U0573.md), [11 gennaio 1923, n. 167](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20vigente%20regolamento%20sulla%20sanita%20marittima.%20023U0167.md), [29 novembre 1925, numero 2288](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20vigente%20regolamento%20sulla%20Sanita%20marittima.%20025U2288.md) e [21 marzo 1929, n. 871](../Regi%20decreti/Modifica%20allart.%2028%20del%20vigente%20regolamento%20sulla%20sanita%20marittima.%20029U0871.md);
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

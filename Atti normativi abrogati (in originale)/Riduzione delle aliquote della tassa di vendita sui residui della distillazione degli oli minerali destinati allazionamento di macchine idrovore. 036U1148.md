@@ -40,7 +40,7 @@ Le aliquote di tassa vendita sui residui della distillazione degli oli minerali 
 
 ## Art. 2.
 
-Qualora i residui di cui all'articolo precedente siano impiegati in usi diversi da quello per cui e' fatta la concessione, si renderanno applicabili le pene comminate per il contrabbando ai sensi degli articoli 94 e seguenti del testo unico della legge doganale approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), successivamente modificato.
+Qualora i residui di cui all'articolo precedente siano impiegati in usi diversi da quello per cui e' fatta la concessione, si renderanno applicabili le pene comminate per il contrabbando ai sensi degli articoli 94 e seguenti del testo unico della legge doganale approvato con [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), successivamente modificato.
 
 ## Art. 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'[art. 1 del R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895#art_1), e' sostituita, per quanto concerne il Consiglio nazionale delle ricerche, la disposizione seguente: 
+All'[art. 1 del R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), e' sostituita, per quanto concerne il Consiglio nazionale delle ricerche, la disposizione seguente: 
  «E' istituito in Roma ed e' eretto in ente morale il Consiglio nazionale delle ricerche». 
  La prima parte dell'[art. 1 del R. decreto 31 marzo 1927, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-31;638#art_1), e' modificata come segue: 
  «Il Consiglio nazionale delle ricerche, in conformita' delle disposizioni e direttive del Capo del Governo, deve:».
@@ -19,7 +19,7 @@ All'[art. 1 del R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/
 
 Il Consiglio nazionale delle ricerche esprime il proprio avviso, tutte le volte che ne e' richiesto dalle Amministrazioni statali, o da altre Amministrazioni pubbliche, su questioni o affari di carattere tecnico e scientifico. 
  Il voto del Consiglio nazionale e' obbligatorio: 
- a) sovra tutte le proposte di regolamenti che per l'[art. 1, n. 7, del R. decreto 14 novembre 1901, n. 466](Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sono soggette all'approvazione del Consiglio dei Ministri, quando la materia oggetto di detti regolamenti abbia carattere tecnico-scientifico; 
+ a) sovra tutte le proposte di regolamenti che per l'[art. 1, n. 7, del R. decreto 14 novembre 1901, n. 466](../Regi%20decreti/Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sono soggette all'approvazione del Consiglio dei Ministri, quando la materia oggetto di detti regolamenti abbia carattere tecnico-scientifico; 
  b) in tutti gli altri casi in cui sia richiesto per legge.
 
 ## Art. 3.

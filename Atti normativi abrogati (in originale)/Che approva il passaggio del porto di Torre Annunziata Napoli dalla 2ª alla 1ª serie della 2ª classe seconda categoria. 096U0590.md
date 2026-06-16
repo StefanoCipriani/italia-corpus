@@ -16,7 +16,7 @@ UMBERTO I
  
  RE D'ITALIA 
  
- Visto il [R. decreto 7 agosto 1887 n. 5053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-08-07;5053), mediante il quale il porto di Torre Annunziata, in provincia di Napoli, fu iscritto nella 2ªserie della classe 2ª (seconda categoria) agli effetti della legge ([testo unico) 2 aprile 1885 n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1885-04-02;3095) e fu approvato l'elenco degli Enti interessati nel commercio del porto stesso, col riparto delle rispettive quote di contributo nelle relative spese; 
+ Visto il [R. decreto 7 agosto 1887 n. 5053](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%201ª%20e%202ª%20categoria%20e%20nelle%20corrispondenti%20classi%20dei%20cinquanta%20porti%20indicati%20negli%20annessi%20elenchi.%20087U5053.md), mediante il quale il porto di Torre Annunziata, in provincia di Napoli, fu iscritto nella 2ªserie della classe 2ª (seconda categoria) agli effetti della legge ([testo unico) 2 aprile 1885 n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1885-04-02;3095) e fu approvato l'elenco degli Enti interessati nel commercio del porto stesso, col riparto delle rispettive quote di contributo nelle relative spese; 
  
  Vista l'istanza risultante dalla deliberazione 28 maggio 1889 del Consiglio comunale di Torre Annunziata, intesa ad ottenere il passaggio di detto porto dalla C alla 1ª serie della 2ª classe della 2ª categoria predetta; 
  

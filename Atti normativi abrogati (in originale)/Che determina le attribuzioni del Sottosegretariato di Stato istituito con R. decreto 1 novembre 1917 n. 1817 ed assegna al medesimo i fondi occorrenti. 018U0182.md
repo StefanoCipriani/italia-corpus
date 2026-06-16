@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al Sottosegretariato di Stato, istituito con l'[art. 1 del R. decreto 1° novembre 1917, n 1817](Col%20quale%20durante%20la%20guerra%20e%20istituito%20presso%20il%20Ministero%20dellinterno%20un%20altro%20ufficio%20di%20sottosegretario%20di%20Stato%20pel%20disimpegno%20di%20speciali%20attribuzioni.%20017U1817.md), sono affidati i servizi della propaganda all'estero, la direzione dell'Ufficio stampa presso il Ministero dell'interno, nonche' tutte quelle altre speciali attribuzioni che il ministro dell'interno credera' di delegargli.
+Al Sottosegretariato di Stato, istituito con l'[art. 1 del R. decreto 1° novembre 1917, n 1817](../Regi%20decreti/Col%20quale%20durante%20la%20guerra%20e%20istituito%20presso%20il%20Ministero%20dellinterno%20un%20altro%20ufficio%20di%20sottosegretario%20di%20Stato%20pel%20disimpegno%20di%20speciali%20attribuzioni.%20017U1817.md), sono affidati i servizi della propaganda all'estero, la direzione dell'Ufficio stampa presso il Ministero dell'interno, nonche' tutte quelle altre speciali attribuzioni che il ministro dell'interno credera' di delegargli.
 
 ## Art. 2.
 

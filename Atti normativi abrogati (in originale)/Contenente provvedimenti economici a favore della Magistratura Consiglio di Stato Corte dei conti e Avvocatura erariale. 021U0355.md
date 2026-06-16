@@ -18,7 +18,7 @@ Al personale della Magistratura e' concessa con decorrenza dal 1° gennaio 1921 
  
  c) di lire quattromila per i magistrati che abbiano grado di giudice o sostituto procuratore del Re; 
  
- d) di annue lire duemila per i pretori nominati in conformita' del decreto 6 luglio 1919, n. 1147, del [R. decreto 21 settembre 1919, n. 1747, e dell'art. 4](Con%20cui%20si%20autorizza%20a%20provvedere%20alla%20nomina%20di%20cinquanta%20pretori%20scegliendoli%20tra%20i%20vice%20pretori%20mandamentali.%20019U1747.md) del [R. decreto-legge 21 dicembre 1919, n. 2488](Concernente%20disposizioni%20sul%20personale%20amministrativo%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20019U2488.md).
+ d) di annue lire duemila per i pretori nominati in conformita' del decreto 6 luglio 1919, n. 1147, del [R. decreto 21 settembre 1919, n. 1747, e dell'art. 4](../Regi%20decreti/Con%20cui%20si%20autorizza%20a%20provvedere%20alla%20nomina%20di%20cinquanta%20pretori%20scegliendoli%20tra%20i%20vice%20pretori%20mandamentali.%20019U1747.md) del [R. decreto-legge 21 dicembre 1919, n. 2488](Concernente%20disposizioni%20sul%20personale%20amministrativo%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20019U2488.md).
 
 ## Art. 2.
 

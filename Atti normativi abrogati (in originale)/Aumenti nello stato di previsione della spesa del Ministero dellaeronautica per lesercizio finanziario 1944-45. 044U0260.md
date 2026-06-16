@@ -20,7 +20,7 @@ UMBERTO DI SAVOIA
  
  Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md); 
  
- Visto l'[art. 41 - primo comma - del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sulla contabilita' generale dello Stato; 
+ Visto l'[art. 41 - primo comma - del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato; 
  
  Sentito il Consiglio dei Ministri; 
  

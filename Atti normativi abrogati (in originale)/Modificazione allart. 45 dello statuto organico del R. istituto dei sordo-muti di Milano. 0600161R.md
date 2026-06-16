@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto dell'8 maggio 1892, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-05-08;429) (parte supplementare), con cui fu approvato il nuovo statuto organico del R. istituto dei sordo-muti di Milano; 
+ Veduto il [R. decreto dell'8 maggio 1892, n. 429](../Regi%20decreti/Che%20approva%20lo%20statuto%20organico%20ed%20il%20ruolo%20del%20personale%20del%20regio%20istituto%20dei%20sordo-muti%20di%20Milano.%209200429R.md) (parte supplementare), con cui fu approvato il nuovo statuto organico del R. istituto dei sordo-muti di Milano; 
  
  Vista la notevole importanza che in questi ultimi anni acquistarono gli studi della pedagogia emendatrice; 
  

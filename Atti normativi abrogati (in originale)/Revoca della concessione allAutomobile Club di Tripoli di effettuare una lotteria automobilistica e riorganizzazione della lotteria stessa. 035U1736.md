@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 13 agosto 1932, n. 1147](Autorizzazione%20allAutomobile%20Club%20di%20Tripoli%20ad%20effettuare%20ogni%20anno%20e%20per%20la%20durata%20di%20quindici%20anni%20una%20lotteria%20automobilistica.%20032U1147.md), col quale viene autorizzato l'Automobile Club di Tripoli ad effettuare, ogni anno e per la durata di 15 anni, decorrenti dal 1933, una lotteria automobilistica;
+Visto il [R. decreto 13 agosto 1932, n. 1147](../Regi%20decreti/Autorizzazione%20allAutomobile%20Club%20di%20Tripoli%20ad%20effettuare%20ogni%20anno%20e%20per%20la%20durata%20di%20quindici%20anni%20una%20lotteria%20automobilistica.%20032U1147.md), col quale viene autorizzato l'Automobile Club di Tripoli ad effettuare, ogni anno e per la durata di 15 anni, decorrenti dal 1933, una lotteria automobilistica;
 
-Visto il [R. decreto 24 agosto 1933, n. 1342](Approvazione%20del%20nuovo%20regolamento%20della%20Lotteria%20automobilistica%20di%20Tripoli.%20033U1342.md), che approva il nuovo regolamento della lotteria suddetta;
+Visto il [R. decreto 24 agosto 1933, n. 1342](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20della%20Lotteria%20automobilistica%20di%20Tripoli.%20033U1342.md), che approva il nuovo regolamento della lotteria suddetta;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Sono abrogati i [Regi decreti 13 agosto 1932, n. 1147](Autorizzazione%20allAutomobile%20Club%20di%20Tripoli%20ad%20effettuare%20ogni%20anno%20e%20per%20la%20durata%20di%20quindici%20anni%20una%20lotteria%20automobilistica.%20032U1147.md), e [24 agosto 1933, n. 1342](Approvazione%20del%20nuovo%20regolamento%20della%20Lotteria%20automobilistica%20di%20Tripoli.%20033U1342.md), e gli annessi regolamenti, con la conseguente caducazione di tutte le autorizzazioni in virtu' di essi concesse.
+Sono abrogati i [Regi decreti 13 agosto 1932, n. 1147](../Regi%20decreti/Autorizzazione%20allAutomobile%20Club%20di%20Tripoli%20ad%20effettuare%20ogni%20anno%20e%20per%20la%20durata%20di%20quindici%20anni%20una%20lotteria%20automobilistica.%20032U1147.md), e [24 agosto 1933, n. 1342](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20della%20Lotteria%20automobilistica%20di%20Tripoli.%20033U1342.md), e gli annessi regolamenti, con la conseguente caducazione di tutte le autorizzazioni in virtu' di essi concesse.
 
 ## Art. 2.
 

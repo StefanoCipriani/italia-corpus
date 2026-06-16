@@ -18,7 +18,7 @@ Veduto il [R. decreto 14 gennaio 1926, n. 430](Approvazione%20della%20liquidazio
 
 Veduto che a carico dei comuni di Chiaravalle, Falconara Marittima, Montesicuro e Paterno d'Ancona furono rispettivamente liquidati, i contributi annui di L. 16.800, L. 18.400, L. 2400 e L. 3200;
 
-Veduto il [R. decreto 15 aprile 1928, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;882), per effetto del quale il comune di Falconara Marittima, ad eccezione del territorio situato a sinistra del fiume Esino, che venne aggregato al comune di Chiaravalle, nonche' i comuni di Montesicuro e Paterno d'Ancona furono aggregati al comune di Ancona;
+Veduto il [R. decreto 15 aprile 1928, n. 882](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Ancona%20dei%20comuni%20di%20Montesicuro%20e%20Paterno%20dAncona%20nonche%20del%20territorio%20del%20comune%20di%20Falconara%20Marittima%20situato%20a%20destra%20del%20fiume%20Esino%20ed%20aggregazione%20al%20co_e78df2e2f89c.md), per effetto del quale il comune di Falconara Marittima, ad eccezione del territorio situato a sinistra del fiume Esino, che venne aggregato al comune di Chiaravalle, nonche' i comuni di Montesicuro e Paterno d'Ancona furono aggregati al comune di Ancona;
 
 Considerato che nella zona di territorio del comune di Falconara Marittima aggregata a Chiaravalle, e precisamente nella frazione Poiole, funzionava al 1° gennaio 1924, e funziona tuttora, una scuola elementare legalmente istituita;
 

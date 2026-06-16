@@ -18,7 +18,7 @@ Visto il [R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/
 
 Viste le [leggi 11 marzo 1926, nn. 397 e 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), con le successive modificazioni sullo stato e sull'avanzamento degli ufficiali del Regio esercito e relative norme esecutive per la loro prima applicazione;
 
-Visto il regolamento organico della Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126);
+Visto il regolamento organico della Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md);
 
 Visto il [R. decreto 9 luglio 1926, n. 1303](Norme%20per%20lavanzamento%20nei%20vari%20gradi%20di%20ufficiale%20nella%20Regia%20guardia%20di%20finanza.%20026U1303.md), che detta norme
 
@@ -105,7 +105,7 @@ Le autorita' competenti ad emettere il giudizio di idoneita' debbono, anzitutto,
 
 ### Art. 11.
 
-La Commissione centrale che deve pronunciare il giudizio sull'avanzamento degli ufficiali in congedo e di quelli mutilati ed invalidi di guerra riassunti e' nominata con decreto Ministeriale ed e' composta secondo e' prescritto alla lettera b) dell'art. 82 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126).
+La Commissione centrale che deve pronunciare il giudizio sull'avanzamento degli ufficiali in congedo e di quelli mutilati ed invalidi di guerra riassunti e' nominata con decreto Ministeriale ed e' composta secondo e' prescritto alla lettera b) dell'art. 82 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md).
 
 ### Art. 12.
 

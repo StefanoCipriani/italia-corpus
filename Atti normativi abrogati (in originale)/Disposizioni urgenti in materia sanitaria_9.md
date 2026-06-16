@@ -111,7 +111,7 @@ A decorrere dalla data di entrata in vigore del presente decreto, il divieto di 
 
 2.
 
-La pubblicita' al pubblico dei prodotti di cui al comma 1, qualora ne suggerisca l'idoneita' all'uso nell'ambito di diete finalizzate al dimagramento o alla riduzione del peso, e' sottoposta alla disciplina prevista dall'[articolo 201, terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com3), [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com4) e [quinto comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com5), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), come sostituito dall'[articolo 7 della legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md), secondo le modalita' di cui al decreto del Ministro della sanita' 6 ottobre 1993, pubblicato nella Gazzetta Ufficiale n. 237 dell'8 ottobre 1993, i cui effetti sono differiti a novanta giorni dopo la data di entrata in vigore della legge di conversione del presente decreto.
+La pubblicita' al pubblico dei prodotti di cui al comma 1, qualora ne suggerisca l'idoneita' all'uso nell'ambito di diete finalizzate al dimagramento o alla riduzione del peso, e' sottoposta alla disciplina prevista dall'[articolo 201, terzo](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [quarto](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [quinto comma, del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), come sostituito dall'[articolo 7 della legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md), secondo le modalita' di cui al decreto del Ministro della sanita' 6 ottobre 1993, pubblicato nella Gazzetta Ufficiale n. 237 dell'8 ottobre 1993, i cui effetti sono differiti a novanta giorni dopo la data di entrata in vigore della legge di conversione del presente decreto.
 
 3.
 
@@ -134,7 +134,7 @@ Le disposizioni di cui ai commi 2, 3, 4 e 5 entrano in vigore il quarantacinques
 
 1.
 
-Le disposizioni di cui al [secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com2), e successive modificazioni ed integrazioni, si applicano alle disponibilita' del capitolo 2599 dello stato di previsione del Ministero della sanita' per l'esercizio 1993.
+Le disposizioni di cui al [secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni ed integrazioni, si applicano alle disponibilita' del capitolo 2599 dello stato di previsione del Ministero della sanita' per l'esercizio 1993.
 
 ## Art. 8.
 

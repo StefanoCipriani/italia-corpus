@@ -34,11 +34,11 @@ Chiunque, col fine e coi mezzi indicati nell'articolo 2, commette un fatto diret
 
 ## Art. 5.
 
-L'associazione per delinquere, quando ha per iscopo di commettere i delitti preveduti dai precedenti articoli, intendesi costituita anche col numero di tre persone. Ad essa sono applicabili tutte le disposizioni del capo II, titolo V del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e le pene sono aumentate da un terzo alla meta'.
+L'associazione per delinquere, quando ha per iscopo di commettere i delitti preveduti dai precedenti articoli, intendesi costituita anche col numero di tre persone. Ad essa sono applicabili tutte le disposizioni del capo II, titolo V del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e le pene sono aumentate da un terzo alla meta'.
 
 ## Art. 6.
 
-Chiunque, fuori dei casi preveduti negli [articoli 63](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [64 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), eccita pubblicamente a commettere qualcuno dei delitti preveduti da questa legge, e' punito con la reclusione da 3 a 5 anni. 
+Chiunque, fuori dei casi preveduti negli [articoli 63](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [64 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), eccita pubblicamente a commettere qualcuno dei delitti preveduti da questa legge, e' punito con la reclusione da 3 a 5 anni. 
  
  Chiunque pubblicamente fa l'apologia dei medesimi delitti, e' punito con la reclusione da sei mesi a due anni.
 
@@ -52,7 +52,7 @@ Alle pene stabilite nei precedenti articoli sara' sempre aggiunta la vigilanza s
 
 Senza una speciale licenza del Ministero dell'Interno o del Prefetto della provincia, nessuno puo' fabbricare, vendere, trasportare o conservare in casa o altrove gli oggetti e le materie indicate nell'articolo 1. 
  
- Il contravventore e' punito con l'arresto sino ad un anno e con l'ammenda sino a lire duemila, salvo le maggiori pene, pei casi preveduti nell'[articolo 461 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Il contravventore e' punito con l'arresto sino ad un anno e con l'ammenda sino a lire duemila, salvo le maggiori pene, pei casi preveduti nell'[articolo 461 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 9.
 

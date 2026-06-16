@@ -16,7 +16,7 @@ Il contributo a favore dell'Azienda Carboni Italiani (A.Ca.I.), previsto dall'[a
 
 ## Art. 2.
 
-Per tutti i permessi di ricerca di carbone fossile e di lignite che saranno rilasciati all'Azienda Carboni Italiani in attuazione di quanto disposto nel precedente art. 1, e' accordato all'Azienda medesima l'esonero dal pagamento del canone di cui all'[art. 7 del R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_7).
+Per tutti i permessi di ricerca di carbone fossile e di lignite che saranno rilasciati all'Azienda Carboni Italiani in attuazione di quanto disposto nel precedente art. 1, e' accordato all'Azienda medesima l'esonero dal pagamento del canone di cui all'[art. 7 del R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md).
 
 ## Art. 3.
 

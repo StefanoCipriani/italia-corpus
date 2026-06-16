@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto del 31 dicembre 1905, n. 632](Che%20approva%20le%20annesse%20tabelle%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuiti%20od%20a%20prezzo%20ridotto%20per%20talune%20categorie%20di%20persone.%20005U0632.md), pubblicato in base al disposto dell'[art. 26 della legge 22 aprile 1905, n. 137](Che%20approva%20i%20provvedimenti%20per%20lesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20005U0137.md), e' convalidato e sara' mantenuto in vigore fino a tutto il 31 dicembre 1908.
+Il [R. decreto del 31 dicembre 1905, n. 632](../Regi%20decreti/Che%20approva%20le%20annesse%20tabelle%20per%20la%20concessione%20di%20carte%20di%20libera%20circolazione%20e%20di%20biglietti%20per%20un%20solo%20viaggio%20gratuiti%20od%20a%20prezzo%20ridotto%20per%20talune%20categorie%20di%20persone.%20005U0632.md), pubblicato in base al disposto dell'[art. 26 della legge 22 aprile 1905, n. 137](Che%20approva%20i%20provvedimenti%20per%20lesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20005U0137.md), e' convalidato e sara' mantenuto in vigore fino a tutto il 31 dicembre 1908.
 
 ## Art. 2.
 

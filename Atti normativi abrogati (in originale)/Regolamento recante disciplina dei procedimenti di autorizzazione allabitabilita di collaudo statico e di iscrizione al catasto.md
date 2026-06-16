@@ -20,7 +20,7 @@ Visto l'[art. 7 della legge 5 novembre 1971, n. 1086](https://www.normattiva.it/
 
 Visto l'[art. 52 della legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47#art_52);
 
-Visto l'[art. 221 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_221);
+Visto l'[art. 221 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Visto l'[art. 4, comma 10, del decreto-legge 5 ottobre 1993, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;328#art_4-com10), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md);
 
@@ -42,10 +42,10 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento disciplina il procedimento di autorizzazione all'abitabilita' ed i collegati procedimenti di collaudo statico e di iscrizione al catasto, e si applica alle opere indicate dall'[art. 220 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_220).
+Il presente regolamento disciplina il procedimento di autorizzazione all'abitabilita' ed i collegati procedimenti di collaudo statico e di iscrizione al catasto, e si applica alle opere indicate dall'[art. 220 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) e' il seguente:
  "Art. 87. - Il Presidente della Repubblica ..
@@ -136,7 +136,7 @@ Nota all'art. 3:
 
 1.
 
-Affinche' gli edifici, o parti di essi, indicati nell'[art. 220 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_220), possano essere utilizzati, e' necessario che il proprietario richieda il certificato di abitabilita' al sindaco, allegando alla richiesta il certificato di collaudo, la dichiarazione presentata per l'iscrizione al catasto dell'immobile, restituita dagli uffici catastali con l'attestazione dell'avvenuta presentazione, e una dichiarazione del direttore dei lavori che deve certificare, sotto la propria responsabilita', la conformita' rispetto al progetto approvato, l'avvenuta prosciugatura dei muri e la salubrita' degli ambienti.
+Affinche' gli edifici, o parti di essi, indicati nell'[art. 220 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), possano essere utilizzati, e' necessario che il proprietario richieda il certificato di abitabilita' al sindaco, allegando alla richiesta il certificato di collaudo, la dichiarazione presentata per l'iscrizione al catasto dell'immobile, restituita dagli uffici catastali con l'attestazione dell'avvenuta presentazione, e una dichiarazione del direttore dei lavori che deve certificare, sotto la propria responsabilita', la conformita' rispetto al progetto approvato, l'avvenuta prosciugatura dei muri e la salubrita' degli ambienti.
 
 2.
 
@@ -161,7 +161,7 @@ Nota all'art. 4:
 
 1.
 
-Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento sono abrogati il [primo comma dell'art. 221 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_221-com1), e il [comma 10 dell'art. 4 del decreto-legge 5 ottobre 1993, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398#art_4-com10), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md), limitatamente alla disciplina per il rilascio del certificato di abitabilita'.
+Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento sono abrogati il [primo comma dell'art. 221 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e il [comma 10 dell'art. 4 del decreto-legge 5 ottobre 1993, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398#art_4-com10), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md), limitatamente alla disciplina per il rilascio del certificato di abitabilita'.
 
 Note all'art. 5:
  - Per il testo dell'[art. 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8) si vedano le precedenti note alle premesse.

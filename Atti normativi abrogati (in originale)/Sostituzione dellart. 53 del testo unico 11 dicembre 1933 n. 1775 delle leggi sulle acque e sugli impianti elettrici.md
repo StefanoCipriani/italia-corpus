@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[art. 53 del testo unico sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_53) approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e' sostituito dal seguente:
+L'[art. 53 del testo unico sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e' sostituito dal seguente:
  "Il Ministro per le finanze, sentito il Consiglio superiore dei lavori pubblici, puo' stabilire, con proprio decreto, a favore dei Comuni rivieraschi e delle rispettive Province, un ulteriore canone annuo, a carico del concessionario, fino a lire 436 per ogni chilowatt nominale concesso.
  Con lo stesso decreto, il sovracanone e' ripartito fra gli enti di cui al comma precedente, tenuto conto anche delle loro condizioni economiche e dell'entita' del danno eventualmente subito in dipendenza della concessione.
  Nel caso di derivazioni a seguito delle quali le acque pubbliche siano restituite in corso o bacino diverso da quello da cui sono derivate, il Ministro per le finanze, sentito il Consiglio superiore dei lavori pubblici, stabilisce tra quali Comuni e Province ed in quale misura il sovracanone di cui ai commi precedenti debba essere ripartito.

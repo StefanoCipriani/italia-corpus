@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md);
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Visto il [R. decreto-legge 15 ottobre 1925, n. 2253](Decentramento%20amministrativo%20dei%20servizi%20dellAmministrazione%20della%20guerra.%20025U2253.md);
 

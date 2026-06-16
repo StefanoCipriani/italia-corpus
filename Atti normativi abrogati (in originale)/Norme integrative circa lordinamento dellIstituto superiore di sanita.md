@@ -43,13 +43,13 @@ Il Comitato scientifico e' composto da dieci membri scelti fra personalita' scie
 
 ## Art. 5.
 
-Salvo il disposto dell'art. 6, il Comitato amministrative esercita, nei confronti del personale dell'Istituto, le funzioni attribuite, ai norma del [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni, al Consiglio di amministrazione di cui all'art. 11 del decreto medesimo.
+Salvo il disposto dell'art. 6, il Comitato amministrative esercita, nei confronti del personale dell'Istituto, le funzioni attribuite, ai norma del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, al Consiglio di amministrazione di cui all'art. 11 del decreto medesimo.
 
 ## Art. 6.
 
-I limiti previsti dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_5) e [6 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), e successive modificazioni, per lavori e forniture effettuati nell'interesse dell'Istituto, sono stabiliti in 30 milioni, quando si intenda provvedere per asta pubblica, licitazione privata o appalto concorso e in 10 milioni quando si intenda provvedere a trattativa privata o in economia.
+I limiti previsti dagli [articoli 5](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [6 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, per lavori e forniture effettuati nell'interesse dell'Istituto, sono stabiliti in 30 milioni, quando si intenda provvedere per asta pubblica, licitazione privata o appalto concorso e in 10 milioni quando si intenda provvedere a trattativa privata o in economia.
  Peraltro, sugli atti che importino una spesa superiore ai limiti normali vigenti, ma non eccedente i limiti di cui al precedente comma, deve essere sentito il Comitato amministrativo il cui parere e' vincolante.
- Il limite massimo previsto dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni, per le aperture di credito a favore dei funzionario delegato dell'Istituto, e' fissato in 10 milioni.
+ Il limite massimo previsto dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, per le aperture di credito a favore dei funzionario delegato dell'Istituto, e' fissato in 10 milioni.
 
 ## Art. 7.
 
@@ -61,7 +61,7 @@ Per i controlli prescritti dagli articoli 168 e successivi del [regio decreto 23
 
 ## Art. 9.
 
-La Commissione di disciplina, di cui all'[art. 68 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_68), e successive modificazioni, per il personale dell'Istituto e' costituita dal direttore generale che la presiede, da un capo di laboratorio e da un funzionario del ruolo dei servizi amministrativi di grado non inferiore al 6°.
+La Commissione di disciplina, di cui all'[art. 68 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, per il personale dell'Istituto e' costituita dal direttore generale che la presiede, da un capo di laboratorio e da un funzionario del ruolo dei servizi amministrativi di grado non inferiore al 6°.
  Saranno inoltre nominati due membri supplenti scelti fra funzionari dell'Istituto di grado non inferiore al 7°.
  Un funzionario di ruolo dell'Istituto designato dal direttore generale esercita le funzioni di segretario.
 

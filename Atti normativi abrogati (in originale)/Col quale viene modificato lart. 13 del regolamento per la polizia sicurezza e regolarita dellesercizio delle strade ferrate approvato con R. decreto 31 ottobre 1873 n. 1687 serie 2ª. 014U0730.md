@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per i lavori pubblici;
 
 Abbiamo decretato e decretiamo:
 
-L'art. 13 del regolamento approvato col [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687) (serie 2ª) e' modificato come appresso:
+L'art. 13 del regolamento approvato col [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md) (serie 2ª) e' modificato come appresso:
 
 «Art. 13. - Le strade ferrate devono essere convenientemente chiuse, ed i passaggi a livello saranno muniti di barriere mobili da stabilirsi a conveniente distanza dalle rotaie e giusta i tipi approvati dal Governo.
 
@@ -64,7 +64,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- L'art. 13 del regolamento approvato col [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687) (serie 2ª) e' modificato come appresso: 
+ L'art. 13 del regolamento approvato col [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md) (serie 2ª) e' modificato come appresso: 
  
  «Art. 13. - Le strade ferrate devono essere convenientemente chiuse, ed i passaggi a livello saranno muniti di barriere mobili da stabilirsi a conveniente distanza dalle rotaie e giusta i tipi approvati dal Governo. 
  

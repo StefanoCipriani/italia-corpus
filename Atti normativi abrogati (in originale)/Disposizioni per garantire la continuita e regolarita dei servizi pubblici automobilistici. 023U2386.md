@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni per le ferrovie concesse alla industria privata, le tramvie e le automobili approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Visto il testo unico delle disposizioni per le ferrovie concesse alla industria privata, le tramvie e le automobili approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Visto il [regolamento 9 luglio 1909, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-07-09;710);
 
-Visto il [R. decreto 7 maggio 1922, n. 705](Che%20reca%20modificazioni%20al%20regolamento%2029%20luglio%201909%20n.%20710%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20022U0705.md);
+Visto il [R. decreto 7 maggio 1922, n. 705](../Regi%20decreti/Che%20reca%20modificazioni%20al%20regolamento%2029%20luglio%201909%20n.%20710%20per%20i%20veicoli%20a%20trazione%20meccanica%20senza%20guida%20di%20rotaie.%20022U0705.md);
 
 Udito il Consiglio dei Ministri:
 

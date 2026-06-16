@@ -32,7 +32,7 @@ I concorsi pubblici per la nomina degli assistenti, previsti nei ruoli dei regi 
 
 Per l'ammissione al concorso a posti di assistente nei Regi Istituti tecnici commerciali ad indirizzo mercantile e' richiesto il diploma di ragioniere e perito commerciale conseguito a norma dell'[art. 65 della legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889#art_65). 
  
- In conformita' al disposto dell'ultimo comma dell'[art. 2 del R. decreto 16 ottobre 1934, n. 1840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840#art_2), sono altresi' ammessi i seguenti titoli di studio, limitatamente pero' ai posti, cui l'assistentato si riferisce, per ciascuno indicati: 
+ In conformita' al disposto dell'ultimo comma dell'[art. 2 del R. decreto 16 ottobre 1934, n. 1840](../Regi%20decreti/Norme%20per%20lassunzione%20del%20personale%20tecnico%20amministrativo%20e%20di%20vigilanza%20nei%20Regi%20istituti%20e%20nelle%20Regie%20scuole%20distruzione%20media%20tecnica.%20034U1840.md), sono altresi' ammessi i seguenti titoli di studio, limitatamente pero' ai posti, cui l'assistentato si riferisce, per ciascuno indicati: 
  
  a) diploma di perito industriale capo tecnico con specializzazione per chimici (chimici tintori, chimici industriali, chimici coloristi, chimici tecnici) o diplomi rilasciati dai Regi istituti commerciali in base al [R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%20media%20commerciale.%20024U0749.md), per i posti di assistente per le scienze e la merceologia e per la chimica e la merceologia; 
  
@@ -52,7 +52,7 @@ Per l'ammissione al concorso a posti di assistente e di segretario, nei Regi ist
  
  e) licenza di scuola secondaria di avviamento professionale; 
  
- f) diploma di ammissione a scuole medie di secondo grado o di alcuno dei corrispondenti diplomi, a termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), o licenza di scuola media di primo grado conseguita in base ai precedenti ordinamenti.
+ f) diploma di ammissione a scuole medie di secondo grado o di alcuno dei corrispondenti diplomi, a termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), o licenza di scuola media di primo grado conseguita in base ai precedenti ordinamenti.
 
 ## Art. 4.
 

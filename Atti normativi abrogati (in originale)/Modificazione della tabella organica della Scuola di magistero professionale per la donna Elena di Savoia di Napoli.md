@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 31 agosto 1933, n. 2117](Trasformazione%20del%20Regio%20istituto%20di%20istruzione%20professionale%20femminile%20Elena%20di%20Savoia%20di%20Napoli%20in%20Regia%20scuola%20di%20magistero%20professionale%20per%20la%20donna.%20033U2117.md), con il quale l'istituto d'istruzione professionale femminile "Elena di Savoia" di Napoli fu trasformato dal 1 ottobre 1933 in Scuola di magistero professionale per la donna con Scuola professionale femminile annessa;
+Visto il [regio decreto 31 agosto 1933, n. 2117](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20di%20istruzione%20professionale%20femminile%20Elena%20di%20Savoia%20di%20Napoli%20in%20Regia%20scuola%20di%20magistero%20professionale%20per%20la%20donna.%20033U2117.md), con il quale l'istituto d'istruzione professionale femminile "Elena di Savoia" di Napoli fu trasformato dal 1 ottobre 1933 in Scuola di magistero professionale per la donna con Scuola professionale femminile annessa;
 
 Vista la tabella organica annessa allo statuto della suddetta Scuola, approvato col citato regio decreto e viste tutte le successive modificazioni ad essa apportate;
 

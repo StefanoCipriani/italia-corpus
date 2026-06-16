@@ -62,7 +62,7 @@ L'imposta e' dovuta al comune nel cui territorio sono situati i locali o le aree
 
 8.
 
-Non sono soggetti all'imposta: lo Stato, le regioni, le province, le comunita' montane, le unita' sanitarie locali, i comuni ed i relativi consorzi od associazioni con personalita' giuridica, nonche' gli enti di ogni tipo, anche se non residenti nel territorio dello Stato, che non hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciali, di cui all'articolo 87 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). Per gli esercenti imprese artigiane iscritte nel relativo albo, la superficie eccedente i tremila metri quadrati e' calcolata nella misura ridotta al 65 per cento. Per le attivita' stagionali esercitate nel corso dell'anno per i periodi non superiori, complessivamente, a sei mesi, l'imposta e' ridotta di un quarto.
+Non sono soggetti all'imposta: lo Stato, le regioni, le province, le comunita' montane, le unita' sanitarie locali, i comuni ed i relativi consorzi od associazioni con personalita' giuridica, nonche' gli enti di ogni tipo, anche se non residenti nel territorio dello Stato, che non hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciali, di cui all'articolo 87 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). Per gli esercenti imprese artigiane iscritte nel relativo albo, la superficie eccedente i tremila metri quadrati e' calcolata nella misura ridotta al 65 per cento. Per le attivita' stagionali esercitate nel corso dell'anno per i periodi non superiori, complessivamente, a sei mesi, l'imposta e' ridotta di un quarto.
 
 9.
 
@@ -217,7 +217,7 @@ Per l'anno 1989, le aliquote dell'imposta comunale sull'incremento di valore deg
 
 1.
 
-Con effetto dal 1 gennaio 1989 la rubrica della sezione II del capo XVIII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituita dalla seguente:
+Con effetto dal 1 gennaio 1989 la rubrica della sezione II del capo XVIII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituita dalla seguente:
  "Sezione II - TASSA PER LO SMALTIMENTO DEI RIFIUTI SOLIDI URBANI".
 
 2.

@@ -198,7 +198,7 @@ Chiunque, in violazione delle precedenti disposizioni, detiene i grassi di cui a
  
  Chiunque venda o acquisti glicerina greggia od acidi grassi di scissione a prezzi superiori a quelli stabiliti, e' punito con la reclusione da tre mesi a, due anni o con la multa non inferiore a lire mille. 
  
- Nel caso di condanna per i reati preveduti dal presente articolo, e' ordinata la confisca ai sensi dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Nel caso di condanna per i reati preveduti dal presente articolo, e' ordinata la confisca ai sensi dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 28.
 

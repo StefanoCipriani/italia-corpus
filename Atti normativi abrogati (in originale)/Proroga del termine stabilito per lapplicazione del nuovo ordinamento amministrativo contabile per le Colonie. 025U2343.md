@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento per la gestione amministrativo-contabile per le Colonie; 
+ Visto il [R. decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento per la gestione amministrativo-contabile per le Colonie; 
  
  Sentito il Consiglio dei Ministri; 
  
@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il termine stabilito dal [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), per l'applicazione dell'ordinamento per la gestione amministrativo-contabile delle Colonie e' prorogato al 1° luglio 1926, restando in vigore fino a tale data le precedenti disposizioni in materia contenute nei vari ordinamenti coloniali. 
+ Il termine stabilito dal [R. decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), per l'applicazione dell'ordinamento per la gestione amministrativo-contabile delle Colonie e' prorogato al 1° luglio 1926, restando in vigore fino a tale data le precedenti disposizioni in materia contenute nei vari ordinamenti coloniali. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

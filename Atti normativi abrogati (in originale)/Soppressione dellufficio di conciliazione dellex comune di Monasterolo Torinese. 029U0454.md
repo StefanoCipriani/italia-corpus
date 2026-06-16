@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 1 marzo 1928, n. 533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-01;533), col quale il comune di Monasterolo Torinese e' stato soppresso, ed il rispettivo territorio aggregato a quello di Cafasse; 
+ Visto il [R. decreto 1 marzo 1928, n. 533](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cafasse%20e%20di%20Monasterolo%20Torinese%20in%20un%20unico%20Comune%20con%20capoluogo%20Cafasse.%20028U0533.md), col quale il comune di Monasterolo Torinese e' stato soppresso, ed il rispettivo territorio aggregato a quello di Cafasse; 
  
  Vista la deliberazione del commissario prefettizio di Cafasse, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Monasterolo Torinese; 
  

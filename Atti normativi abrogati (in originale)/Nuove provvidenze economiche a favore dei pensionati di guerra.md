@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni;
+Visto il [regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni;
 
 Visto il [decreto legislativo luogotenenziale 12 aprile 1945, n. 193](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20ai%20pensionati%20di%20guerra.%20045U0193.md);
 
@@ -72,11 +72,11 @@ L'aumento integratore per gli orfani di cui all'[articolo 8 del decreto legislat
 
 ## Art. 9.
 
-L'aumento previsto dagli [articoli 43 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e 16 del [regio decreto-legge 27 maggio 1926, n. 928](Modificazioni%20ed%20aggiunte%20alle%20vigenti%20norme%20sulle%20pensioni%20di%20guerra.%20026U0928.md), a favore dei genitori che abbiano perduto piu' figli per eventi di guerra, e' stabilito in annue L. 600 per il secondo figlio, in annue L. 2000 per il terzo figlio e in annue L. 4000 per ciascuno degli altri figli oltre il terzo.
+L'aumento previsto dagli [articoli 43 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e 16 del [regio decreto-legge 27 maggio 1926, n. 928](Modificazioni%20ed%20aggiunte%20alle%20vigenti%20norme%20sulle%20pensioni%20di%20guerra.%20026U0928.md), a favore dei genitori che abbiano perduto piu' figli per eventi di guerra, e' stabilito in annue L. 600 per il secondo figlio, in annue L. 2000 per il terzo figlio e in annue L. 4000 per ciascuno degli altri figli oltre il terzo.
 
 ## Art. 10.
 
-Le pensioni di riversibilita' ordinaria spettanti, a norma dell'[art. 35 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), alle vedove ed agli orfani di militari deceduti anteriormente alla entrata in vigore del presente decreto, sono aumentate:
+Le pensioni di riversibilita' ordinaria spettanti, a norma dell'[art. 35 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), alle vedove ed agli orfani di militari deceduti anteriormente alla entrata in vigore del presente decreto, sono aumentate:
  del 160% sulle prime L. 4500 annue;
  del 150% sulle seconde L. 4500 annue;
  del 120% sulle terze L. 4500 annue;
@@ -94,19 +94,19 @@ L'assegno speciale temporaneo, di cui al [decreto legislativo del Capo provvisor
  L. 7800 annue per i pensionati di sesta categoria;
  L. 4680 annue per i pensionati di settima categoria;
  L. 3900 annue per i pensionati di ottava categoria;
- L. 15.600 annue per le vedove o per gli orfani, ivi compresi i titolari delle pensioni spettanti in virtu' dell'[art. 35 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md);
+ L. 15.600 annue per le vedove o per gli orfani, ivi compresi i titolari delle pensioni spettanti in virtu' dell'[art. 35 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md);
  L. 7800 annue per i genitori, collaterali, avi ed assimilati;
  L. 2600 annue per i genitori provvisti di assegno alimentare speciale.
 
 ## Art. 12.
 
 La riduzione di un decimo della pensione od assegno di guerra prevista, per gli operai della guerra 1915-1918, dal [primo comma
- dell'art. 71 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' soppressa.
+ dell'art. 71 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e' soppressa.
 Gli assegni di superinvalidita' e di cumulo, anziche' la riduzione
 di un terzo, stabilita dal secondo comma dello stesso articolo, subiscono la riduzione di un quarto prevista dall'art. 17 del citato decreto n. 1491.
- In caso di morte la pensione e' concessa ai successivi aventi diritto secondo le norme stabilite dal [regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni, sempreche' l'operaio defunto risulti gia' pensionato per una invalidita' di prima o seconda categoria.
+ In caso di morte la pensione e' concessa ai successivi aventi diritto secondo le norme stabilite dal [regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni, sempreche' l'operaio defunto risulti gia' pensionato per una invalidita' di prima o seconda categoria.
  Qualora la morte sia avvenuta anteriormente alla data di entrata in vigore del presente decreto, la pensione dovra' decorrere da detta data e, se la domanda sia presentata oltre il termine di un anno dalla data stessa, la pensione decorrera' dal primo giorno del mese successivo a quello di presentazione della domanda.
- Agli effetti della prescrizione resta fermo il disposto dell'[art. 59 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
+ Agli effetti della prescrizione resta fermo il disposto dell'[art. 59 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 ## Art. 13.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-A decorrere dal 1 gennaio 1965 le misure degli assegni familiari dei giornalisti professionisti, aventi rapporto d'impiego con aziende editoriali, indicate nella tabella C) allegata al testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e modificato con la [legge 17 ottobre 1961, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-10-17;1038), sono cosi' stabilite:
+A decorrere dal 1 gennaio 1965 le misure degli assegni familiari dei giornalisti professionisti, aventi rapporto d'impiego con aziende editoriali, indicate nella tabella C) allegata al testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e modificato con la [legge 17 ottobre 1961, n. 1038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-10-17;1038), sono cosi' stabilite:
  per ciascun figlio lire 6.500 mensili;
  per il coniuge lire 4.654 mensili;
  per ciascun ascendente lire 2.678 mensili.

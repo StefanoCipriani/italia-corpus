@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'art. 66 della legge ([testo unico) 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646), sul credito fondiario;
 
-Veduto il [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), che approva il regolamento per l'esecuzione della legge predetta;
+Veduto il [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), che approva il regolamento per l'esecuzione della legge predetta;
 
 Veduta la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 31 maggio 1928, n. 1507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1507), col quale il comune di Biestro e' stato soppresso ed il relativo territorio aggregato a quello di Pallare; 
+ Visto il [R. decreto 31 maggio 1928, n. 1507](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Biestro%20a%20quello%20di%20Pallare.%20028U1507.md), col quale il comune di Biestro e' stato soppresso ed il relativo territorio aggregato a quello di Pallare; 
  
  Vista la deliberazione del podesta' del comune di Pallare rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Biestro; 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md);
+Visto il [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -18,7 +18,7 @@ Visto il [decreto Luogotenenziale 5 giugno 1917, n. 965](https://www.normattiva.
 
 Visto il [R. decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105);
 
-Visto il [R. decreto 14 marzo 1932, n. 381](Ordinamento%20doganale%20della%20Tripolitania%20e%20della%20Cirenaica.%20032U0381.md);
+Visto il [R. decreto 14 marzo 1932, n. 381](../Regi%20decreti/Ordinamento%20doganale%20della%20Tripolitania%20e%20della%20Cirenaica.%20032U0381.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -40,7 +40,7 @@ Sono riservati al Governo della Tripolitania e della Cirenaica:
 
 ## Art. 2.
 
-I Governatori potranno autorizzare il Consorzio Industrie Fiammiferi istituito con [R. decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560), ad introdurre per la vendita in Tripolitania ed in Cirenaica gli apparecchi o gli oggetti di accensione di cui al precedente articolo, mediante il pagamento, oltre al dazio doganale loro proprio, dei diritti di monopolio che rimangono fissati nella stessa misura di quelli stabiliti nel Regno.
+I Governatori potranno autorizzare il Consorzio Industrie Fiammiferi istituito con [R. decreto 11 marzo 1923, n. 560](../Regi%20decreti/Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), ad introdurre per la vendita in Tripolitania ed in Cirenaica gli apparecchi o gli oggetti di accensione di cui al precedente articolo, mediante il pagamento, oltre al dazio doganale loro proprio, dei diritti di monopolio che rimangono fissati nella stessa misura di quelli stabiliti nel Regno.
 
 ## Art. 3.
 

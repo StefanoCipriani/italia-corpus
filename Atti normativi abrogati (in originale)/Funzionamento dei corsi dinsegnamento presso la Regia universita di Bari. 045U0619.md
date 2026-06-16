@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Visto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Visto il decreto 4 giugno 1938, n. 1269;
 
-Visto il [R. decreto 27 gennaio 1944, n. 60](Istituzione%20presso%20la%20R.%20Universita%20di%20Bari%20di%20corsi%20dinsegnamento%20per%20lanno%20accademico%201943-1944.%20044U0060.md);
+Visto il [R. decreto 27 gennaio 1944, n. 60](../Regi%20decreti/Istituzione%20presso%20la%20R.%20Universita%20di%20Bari%20di%20corsi%20dinsegnamento%20per%20lanno%20accademico%201943-1944.%20044U0060.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-I corsi d'insegnamento istituiti presso la Regia universita' di Bari col [R. decreto 27 gennaio 1944, n. 60](Istituzione%20presso%20la%20R.%20Universita%20di%20Bari%20di%20corsi%20dinsegnamento%20per%20lanno%20accademico%201943-1944.%20044U0060.md), per l'anno accademico 1943-44 continueranno a funzionare fino a tutto l'anno accademico, nel quale verra' dichiarata la cessazione dello stato di guerra. 
+I corsi d'insegnamento istituiti presso la Regia universita' di Bari col [R. decreto 27 gennaio 1944, n. 60](../Regi%20decreti/Istituzione%20presso%20la%20R.%20Universita%20di%20Bari%20di%20corsi%20dinsegnamento%20per%20lanno%20accademico%201943-1944.%20044U0060.md), per l'anno accademico 1943-44 continueranno a funzionare fino a tutto l'anno accademico, nel quale verra' dichiarata la cessazione dello stato di guerra. 
  
  A decorrere dall'anno accademico 1944-45 e' istituito il secondo anno dei corsi per il conseguimento della laurea in scienze matematiche e in matematica e fisica.
 

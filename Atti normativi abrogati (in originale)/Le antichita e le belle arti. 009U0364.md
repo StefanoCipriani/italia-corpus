@@ -216,7 +216,7 @@ Senza pregiudizio di quanto si dispone per i casi di cui al successivo articolo,
 
 ## Art. 33.
 
-Sara' considerato contrabbando e come tale punito a norma degli articoli 97 a 107, 109 e 110 del testo unico della legge doganale, approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), l'esportazione consumata o tentata delle cose di cui nella presente legge: 
+Sara' considerato contrabbando e come tale punito a norma degli articoli 97 a 107, 109 e 110 del testo unico della legge doganale, approvato con [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), l'esportazione consumata o tentata delle cose di cui nella presente legge: 
  
  a) quando la cosa non sia presentata alla dogana; 
  
@@ -250,7 +250,7 @@ Alle pene di cui agli articoli 30 e 31 soggiace altresi' il compratore quando si
  
  Se il fatto e' imputabile a piu' persone, queste sono tenute in solido al pagamento dell'indennita'. 
  
- Qualora per lo stesso fatto si incorra anche in sanzioni penali stabilite da altre leggi, si applicano le disposizioni di cui all'[art. 77 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Qualora per lo stesso fatto si incorra anche in sanzioni penali stabilite da altre leggi, si applicano le disposizioni di cui all'[art. 77 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 38.
 

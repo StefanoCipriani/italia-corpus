@@ -74,7 +74,7 @@ Con Regio decreto su proposta del Ministro per la stampa e la propaganda e con i
  
  Nulla e' innovato alle vigenti disposizioni concernenti le attribuzioni di vigilanza e di tutela del Ministero dell'interno e degli organi dipendenti, sulle stazioni di cura, soggiorno e turismo. 
  
- Nulla del pari e' innovato alle disposizioni del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773). 
+ Nulla del pari e' innovato alle disposizioni del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro per la stampa e la propaganda e' autorizzato alla presentazione del relativo disegno di legge. 
  

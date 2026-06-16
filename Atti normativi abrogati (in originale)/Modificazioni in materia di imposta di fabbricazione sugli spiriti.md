@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visti i decreti Ministeriali in data 8 luglio 1924, che approvano i testi unici di legge per le imposte di fabbricazione sugli spiriti e sullo zucchero;
 
-Visto il [regio decreto 26 novembre 1903, n. 485](che%20ammette%20a%20fruire%20delle%20agevolezze%20consentite%20allalcool%20adulterato%20lindustria%20del%20fulminato%20di%20mercurio%20003U0485.md);
+Visto il [regio decreto 26 novembre 1903, n. 485](../Regi%20decreti/che%20ammette%20a%20fruire%20delle%20agevolezze%20consentite%20allalcool%20adulterato%20lindustria%20del%20fulminato%20di%20mercurio%20003U0485.md);
 
 Visto il [decreto Ministeriale 29 gennaio 1926, numero 7947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1926-01-29;7947), e successive modificazioni;
 
 Visto il [decreto Ministeriale 22 marzo 1926, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1926-03-22;1701);
 
-Visto il [regio decreto 21 ottobre 1923, n. 2335](Nuovi%20provvedimenti%20per%20le%20imposte%20di%20fabbricazione.%20023U2335.md), e successive modificazioni;
+Visto il [regio decreto 21 ottobre 1923, n. 2335](../Regi%20decreti/Nuovi%20provvedimenti%20per%20le%20imposte%20di%20fabbricazione.%20023U2335.md), e successive modificazioni;
 
 Visto il [regio decreto-legge 2 febbraio 1933, n. 23](Nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0023.md), convertito nella [legge 3 aprile 1933, n. 353](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0353.md);
 
@@ -30,7 +30,7 @@ Visto il [regio decreto-legge 10 maggio 1938, n. 549](Modificazioni%20al%20regim
 
 Visto il decreto Ministeriale 23 luglio 1939, che reca le norme per l'attuazione del [regio decreto-legge 1° marzo 1937, n. 226](Modificazioni%20al%20regime%20fiscale%20dellalcool%20impiegato%20nella%20preparazione%20del%20marsala%20del%20vermut%20dei%20liquori%20del%20cognac%20e%20di%20altri%20prodotti%20alcoolici.%20037U0226.md), e successive modificazioni;
 
-Visto il [regio decreto 1° luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361);
+Visto il [regio decreto 1° luglio 1926, n. 1361](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto%2015%20ottobre%201925%20n.%202033%20convertito%20in%20legge%20con%20la%20legge%2018%20marzo%201926%20n.%20562%20concernente%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20co_4e929fa93522.md);
 
 Visto il [regio decreto-legge 9 novembre 1933, numero 1696](Disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20033U1696.md);
 
@@ -127,7 +127,7 @@ Per i liquori prodotti con spirito e zucchero gravati d'imposta e destinati all'
 Il secondo comma dell'art. 9 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), e' sostituito come segue:
  All'alcole impiegato sotto vigilanza finanziaria nella preparazione dei vini vermouth e marsala destinati al consumo interno e' accordato un abbuono dell'imposta, depurata dell'abbuono di fabbricazione eventualmente spettante nella misura del 70%.
  Il vino vermouth preparato sotto la vigilanza finanziaria, per poter fruire del beneficio fiscale previsto dai precedente comma, se destinato al consumo interno, e dell'abbuono dell'imposta e dell'indennizzo previsto dall'art. 10 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), se esportato all'estero, deve essere fabbricato conformemente alle disposizioni del [regio decreto-legge 9 novembre 1933, n. 1696](Disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20033U1696.md), e la quantita' di alcole aggiunto non deve essere superiore a litri anidri 12 per ettolitro di prodotto, sia per il vermouth normale che per quello secco. Inoltre la gradazione alcoolica totale del prodotto non deve essere superiore ai 17 gradi per il vermouth normale e ai 20 gradi per il vermouth secco.
- Le agevolezze di cui ai precedenti commi sono accordate al vino marsala preparato, sotto la vigilanza finanziaria, con le normali manipolazioni consentite per il vino stesso dall'[art. 50 del regio decreto 1° luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361#art_50), e purche' la gradazione alcoolica del prodotto non superi i 20 gradi per il marsala destinato al consumo interno e i 22 per quello da esportare.
+ Le agevolezze di cui ai precedenti commi sono accordate al vino marsala preparato, sotto la vigilanza finanziaria, con le normali manipolazioni consentite per il vino stesso dall'[art. 50 del regio decreto 1° luglio 1926, n. 1361](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto%2015%20ottobre%201925%20n.%202033%20convertito%20in%20legge%20con%20la%20legge%2018%20marzo%201926%20n.%20562%20concernente%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20co_4e929fa93522.md), e purche' la gradazione alcoolica del prodotto non superi i 20 gradi per il marsala destinato al consumo interno e i 22 per quello da esportare.
 
 ## Art. 13.
 
@@ -166,7 +166,7 @@ All'art. 14 dell'allegato A al [decreto legislativo luogotenenziale 26 aprile 19
 
 ## Art. 18. — Abrogazione di agevolezze.
 
-Sono abrogati il [regio decreto 26 novembre 1903, n. 485](che%20ammette%20a%20fruire%20delle%20agevolezze%20consentite%20allalcool%20adulterato%20lindustria%20del%20fulminato%20di%20mercurio%20003U0485.md), il [decreto Ministeriale 22 marzo 1926, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1926-03-22;1701), e il [decreto Ministeriale 29 gennaio 1926, n. 7947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1926-01-29;7947) e successive modificazioni, che ammettono rispettivamente l'industria della fabbricazione del fulminato di mercurio, quella delle polveri senza fumo e quella della fabbricazione dei dentifrici a base di sostanze antisettiche, alle agevolezze consentite all'alcole adulterato.
+Sono abrogati il [regio decreto 26 novembre 1903, n. 485](../Regi%20decreti/che%20ammette%20a%20fruire%20delle%20agevolezze%20consentite%20allalcool%20adulterato%20lindustria%20del%20fulminato%20di%20mercurio%20003U0485.md), il [decreto Ministeriale 22 marzo 1926, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1926-03-22;1701), e il [decreto Ministeriale 29 gennaio 1926, n. 7947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1926-01-29;7947) e successive modificazioni, che ammettono rispettivamente l'industria della fabbricazione del fulminato di mercurio, quella delle polveri senza fumo e quella della fabbricazione dei dentifrici a base di sostanze antisettiche, alle agevolezze consentite all'alcole adulterato.
  Sugli spiriti puri in cauzione esistenti presso le fabbriche di fulminato di mercurio, di polveri senza fumo e di dentifrici, alla data di entrata in vigore del presente decreto, sono dovuti la normale imposta di fabbricazione e il normale diritto erariale previsti dai precedenti articoli 1, 2 e 3, con detrazione dei corrispondenti tributi eventualmente gia' pagati.
 
 ## Art. 19. — Cauzioni

@@ -99,7 +99,7 @@ Sulla base dei valori come sopra determinati e delle aliquote fissate nella tari
 
 Per i materiali impiegati nelle opere di ricostruzione e di notevole rifacimento di edifici distrutti o danneggiati da offese belliche e' consentita l'esenzione dalla imposta di consumo. 
  
-Per ottenere l'esenzione i proprietari interessati devono presentare la denunzia nei sensi indicati dall'art. 44 del regolamento approvato con [R. decreto 30 aprile 1936, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-04-30;1138). 
+Per ottenere l'esenzione i proprietari interessati devono presentare la denunzia nei sensi indicati dall'art. 44 del regolamento approvato con [R. decreto 30 aprile 1936, n. 1138](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20delle%20imposte%20di%20consumo.%20036U1138.md). 
  
 L'esenzione compete indipendentemente dal termine nel quale le opere stesse vengono eseguite, e nei limiti corrispondenti alla consistenza della costruzione distrutta o danneggiata. 
  
@@ -153,7 +153,7 @@ g) di un ispettore superiore di ragioneria del Ministero dell'interno.
  
 Le funzioni di segretario della commissione medesima sono disimpegnate da un funzionario amministrativo del ruolo centrale del Ministero delle finanze di gruppo A e di grado non inferiore al 9°. 
  
-Ai componenti della commissione sara' corrisposto per ogni giornata di adunanza un gettone di presenza nella misura stabilita dalle vigenti disposizioni. Al segretario sara' corrisposto un premio di operosita' ai sensi dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). Le spese inerenti al funzionamento della commissione fanno carico al capitolo 25 del bilancio passivo del Ministero delle finanze per l'esercizio in corso ed a quelli corrispondenti per gli esercizi successivi».
+Ai componenti della commissione sara' corrisposto per ogni giornata di adunanza un gettone di presenza nella misura stabilita dalle vigenti disposizioni. Al segretario sara' corrisposto un premio di operosita' ai sensi dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). Le spese inerenti al funzionamento della commissione fanno carico al capitolo 25 del bilancio passivo del Ministero delle finanze per l'esercizio in corso ed a quelli corrispondenti per gli esercizi successivi».
 
 ## Art. 13.
 
@@ -173,7 +173,7 @@ L'[art. 104 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.i
  
 «Il valore locativo si desume dal fitto reale o presunto. 
  
-E' fitto reale quello risultante da contratto scritto o da denunzia verbale d'affitto di cui all'art. 9 della tariffa allegato A (parte prima) alla legge del bollo approvata con [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni; e' presunto in ogni altro caso. 
+E' fitto reale quello risultante da contratto scritto o da denunzia verbale d'affitto di cui all'art. 9 della tariffa allegato A (parte prima) alla legge del bollo approvata con [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni; e' presunto in ogni altro caso. 
  
 Quando il fitto reale risulti inferiore ai prezzi locativi correnti, e' in facolta' del comune di procedere all'accertamento del fitto presunto per via di comparazione con altre abitazioni locate in condizioni e circostanze similari. 
  
@@ -382,7 +382,7 @@ Nei comuni delle prime cinque classi un terzo dei membri della commissione e' no
  
 La commissione elegge nel suo seno a scrutinio segreto ed a maggioranza di voti il presidente ed uno o piu' vice presidenti. 
  
-I membri della commissione debbono avere i requisiti richiesti dal testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), per la nomina a consigliere comunale. 
+I membri della commissione debbono avere i requisiti richiesti dal testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), per la nomina a consigliere comunale. 
  
 Il segretario comunale, o altro impiegato del comune, funziona da segretario della commissione; egli risponde della conservazione dei documenti e della regolare tenuta del registro delle decisioni e cura ogni altro adempimento richiesto dai lavori della commissione. 
  

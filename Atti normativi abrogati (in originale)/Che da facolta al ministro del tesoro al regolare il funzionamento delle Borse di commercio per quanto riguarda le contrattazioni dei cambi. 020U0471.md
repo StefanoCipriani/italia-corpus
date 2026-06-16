@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduti i [decreti Luogotenenziali 21 novembre 1918, n. 1733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-21;1733) e [13 maggio 1919, n. 696 e il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-13;696) Reale 29 gennaio 1920, n. 104;
 
-Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Sentito il Consiglio dei ministri;
 

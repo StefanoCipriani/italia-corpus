@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md);
 
-Visto il [regio decreto 14 agosto 1931, n. 1354](Approvazione%20di%20nuovi%20ruoli%20organici%20del%20Ministero%20degli%20affari%20esteri.%20031U1354.md), e successive modificazioni;
+Visto il [regio decreto 14 agosto 1931, n. 1354](../Regi%20decreti/Approvazione%20di%20nuovi%20ruoli%20organici%20del%20Ministero%20degli%20affari%20esteri.%20031U1354.md), e successive modificazioni;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per gli affari esteri, di concer
 
 ## Art. 1.
 
-Il numero dei posti di grado 2° e di grado 3° della carriera diplomatico-consolare, di cui al [regio decreto 14 agosto 1931, n. 1354](Approvazione%20di%20nuovi%20ruoli%20organici%20del%20Ministero%20degli%20affari%20esteri.%20031U1354.md), e successive modificazioni, e' fissato come segue: 
+Il numero dei posti di grado 2° e di grado 3° della carriera diplomatico-consolare, di cui al [regio decreto 14 agosto 1931, n. 1354](../Regi%20decreti/Approvazione%20di%20nuovi%20ruoli%20organici%20del%20Ministero%20degli%20affari%20esteri.%20031U1354.md), e successive modificazioni, e' fissato come segue: 
  Ambasciatore (grado 2°), posti 5; 
  Inviato straordinario e Ministro plenipotenziario di 1ª classe (grado 3°), posti 30, ferma restando l'applicazione dell'[art. 14 della legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md).
 

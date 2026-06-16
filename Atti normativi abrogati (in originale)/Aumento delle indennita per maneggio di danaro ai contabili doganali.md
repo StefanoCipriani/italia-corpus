@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Vista la tabella A annessa al [regio decreto 10 giugno 1909, n. 391](Che%20approva%20le%20tabelle%20delle%20classi%20in%20cui%20devono%20dividersi%20le%20dogane%20di%20primo%20e%20secondo%20ordine.%20009U0391.md), e successive variazioni;
+Vista la tabella A annessa al [regio decreto 10 giugno 1909, n. 391](../Regi%20decreti/Che%20approva%20le%20tabelle%20delle%20classi%20in%20cui%20devono%20dividersi%20le%20dogane%20di%20primo%20e%20secondo%20ordine.%20009U0391.md), e successive variazioni;
 
 Visto l'art. 12 della legge di bilancio 17 giugno 1923, n. 1263;
 

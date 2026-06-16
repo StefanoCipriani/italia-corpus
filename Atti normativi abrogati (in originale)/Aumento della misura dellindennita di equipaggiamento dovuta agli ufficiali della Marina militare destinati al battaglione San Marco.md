@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La misura dell'indennita' prevista dal [regio decreto 4 agosto 1921, n. 1215](Concernente%20lindennita%20di%20divisa%20da%20corrispondersi%20al%20personale%20della%20R.%20marina%20destinato%20al%20Battaglione%20San%20Marco.%20021U1215.md), per gli ufficiali della Marina militare destinati al battaglione "San Marco", e' elevata a lire 30.000.
+La misura dell'indennita' prevista dal [regio decreto 4 agosto 1921, n. 1215](../Regi%20decreti/Concernente%20lindennita%20di%20divisa%20da%20corrispondersi%20al%20personale%20della%20R.%20marina%20destinato%20al%20Battaglione%20San%20Marco.%20021U1215.md), per gli ufficiali della Marina militare destinati al battaglione "San Marco", e' elevata a lire 30.000.
 
 ## Art. 2.
 

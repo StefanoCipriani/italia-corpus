@@ -135,11 +135,11 @@ Il personale dipendente del soppresso Ministero del turismo e dello spettacolo, 
 
 2.
 
-I dipendenti di amministrazioni diverse, comandati presso il soppresso Ministero del turismo e dello spettacolo, possono chiedere l'inquadramento nei ruoli aggiunti di cui al comma 1, a norma dell'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+I dipendenti di amministrazioni diverse, comandati presso il soppresso Ministero del turismo e dello spettacolo, possono chiedere l'inquadramento nei ruoli aggiunti di cui al comma 1, a norma dell'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 3.
 
-Il personale del soppresso Ministero del turismo e dello spettacolo che, alla data di entrata in vigore del presente decreto, presta servizio presso altre amministrazioni in posizione di comando puo' richiedere di essere inquadrato nei ruoli dell'amministrazione ove presta servizio, con il consenso di quest'ultima, nei termini e con le modalita' di cui all'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Il personale del soppresso Ministero del turismo e dello spettacolo che, alla data di entrata in vigore del presente decreto, presta servizio presso altre amministrazioni in posizione di comando puo' richiedere di essere inquadrato nei ruoli dell'amministrazione ove presta servizio, con il consenso di quest'ultima, nei termini e con le modalita' di cui all'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 4.
 
@@ -171,7 +171,7 @@ Gli oneri derivanti dal presente decreto restano contenuti nei limiti delle riso
 
 1.
 
-Entro sei mesi dalla data di entrata in vigore del presente decreto, il Presidente del Consiglio dei Ministri, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, formula, con atto di indirizzo e coordinamento da adottarsi ai sensi dell'[articolo 2, comma 3, lettera d), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_2-com3-letd), i criteri di adeguamento della disciplina recata dall'[articolo 4 del regio decreto 24 maggio 1925, n. 1102](Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), alle discipline vigenti nei Paesi comunitari.
+Entro sei mesi dalla data di entrata in vigore del presente decreto, il Presidente del Consiglio dei Ministri, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, formula, con atto di indirizzo e coordinamento da adottarsi ai sensi dell'[articolo 2, comma 3, lettera d), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_2-com3-letd), i criteri di adeguamento della disciplina recata dall'[articolo 4 del regio decreto 24 maggio 1925, n. 1102](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), alle discipline vigenti nei Paesi comunitari.
 
 ## Art. 8. — Condono previdenziale per le attivita' dello spettacolo
 

@@ -62,11 +62,11 @@ All'[articolo 3-bis, comma 3, del decreto-legge 7 ottobre 2020, n. 125](https://
 
 1.
 
-Il termine per la deliberazione del rendiconto di gestione relativo all'esercizio 2020 per gli enti locali, di cui all'[articolo 227, comma 2, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e' prorogato al 31 maggio 2021.
+Il termine per la deliberazione del rendiconto di gestione relativo all'esercizio 2020 per gli enti locali, di cui all'[articolo 227, comma 2, del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e' prorogato al 31 maggio 2021.
 
 2.
 
-Per l'esercizio 2021, il termine per la deliberazione del bilancio di previsione degli enti locali, di cui all'[articolo 151, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e' differito al 31 maggio 2021. Fino a tale data e' autorizzato l'esercizio provvisorio di cui all'articolo 163 del citato [decreto legislativo n. 267 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;267).
+Per l'esercizio 2021, il termine per la deliberazione del bilancio di previsione degli enti locali, di cui all'[articolo 151, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e' differito al 31 maggio 2021. Fino a tale data e' autorizzato l'esercizio provvisorio di cui all'articolo 163 del citato [decreto legislativo n. 267 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;267).
 
 3.
 
@@ -102,7 +102,7 @@ Il termine ultimo per l'adozione del bilancio d'esercizio delle Camere di commer
 
 9.
 
-I termini di cui all'articolo 243-bis, comma 5, primo periodo, nonche' di cui all'[articolo 261, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), sono fissati al 30 giugno 2021, qualora, rispettivamente, i termini di novanta e di sessanta giorni, siano scaduti antecedentemente alla predetta data.
+I termini di cui all'articolo 243-bis, comma 5, primo periodo, nonche' di cui all'[articolo 261, comma 1, del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), sono fissati al 30 giugno 2021, qualora, rispettivamente, i termini di novanta e di sessanta giorni, siano scaduti antecedentemente alla predetta data.
 
 ## Art. 4. — Proroga in materia di esercizio di poteri speciali nei settori di rilevanza strategica
 

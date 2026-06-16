@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Veduto l'art. 2, comma b), del [R. decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), relativo all'ordinamento dell'Istituto centrale di statistica del Regno;
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), ed il [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md);
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), ed il [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md);
 
 Veduto l'art. 5 del regolamento di polizia veterinaria, approvato con [R. decreto 10 maggio 1914, n. 533](Col%20quale%20viene%20autorizzata%20la%20pubblicazione%20del%20regolamento%20speciale%20di%20polizia%20veterinaria.%20014U0533.md);
 
-Veduto l'art. 18 del regolamento sulla vigilanza sanitaria delle carni, approvato con [R. decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298);
+Veduto l'art. 18 del regolamento sulla vigilanza sanitaria delle carni, approvato con [R. decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md);
 
 Veduto il [R. decreto-legge 19 maggio 1927, n. 935](Provvedimenti%20per%20la%20lotta%20contro%20il%20calcino%20del%20baco%20da%20seta.%20027U0935.md), convertito nella [legge 14 giugno 1928, n. 1379](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20maggio%201927%20n.%20935%20recante%20provvedimenti%20per%20la%20lotta%20contro%20il%20calcino%20del%20baco%20da%20seta.%20028U1379.md), ed il decreto Ministeriale 28 luglio 1927 (pubblicato nella Gazzetta Ufficiale n. 235 dell'11 ottobre 1927) recanti provvedimenti per la lotta contro il «calcino» del baco da seta;
 

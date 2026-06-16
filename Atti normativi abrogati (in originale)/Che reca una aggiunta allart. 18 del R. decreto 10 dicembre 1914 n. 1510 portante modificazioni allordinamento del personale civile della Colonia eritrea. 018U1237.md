@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'articolo 18 delle modificazioni all'ordinamento del personale civile della Colonia eritrea, approvate col [R. decreto 10 dicembre 1914, n. 1510](Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md), dopo il primo comma, e' aggiunto quello seguente: 
+All'articolo 18 delle modificazioni all'ordinamento del personale civile della Colonia eritrea, approvate col [R. decreto 10 dicembre 1914, n. 1510](../Regi%20decreti/Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md), dopo il primo comma, e' aggiunto quello seguente: 
  
  «I funzionari delle classi sopra indicate che non si trovino a prestar servizio in colonia o che non siano nelle condizioni previste nel primo comma dell'art. 5, non possono ottenere la promozione alla classe superiore se non abbiano due anni di effettiva permanenza in colonia o fuori di essa, ma in servizio della colonia medesima, a decorrere dalla data della penultima promozione.
 

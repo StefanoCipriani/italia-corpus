@@ -79,7 +79,7 @@ Le infrazioni alle disposizioni contenute nei decreti del Ministro per le finanz
 
 ## Art. 4. — Deroga al Codice penale per la misura dell'ammenda
 
-Le disposizioni di cui al precedente art. 3 del presente decreto per quanto concerne la misura dell'ammenda, sono adottate in deroga all'[art. 26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle sue successive modificazioni.
+Le disposizioni di cui al precedente art. 3 del presente decreto per quanto concerne la misura dell'ammenda, sono adottate in deroga all'[art. 26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle sue successive modificazioni.
 
 ## Art. 5. — Spese a carico delle ditte
 

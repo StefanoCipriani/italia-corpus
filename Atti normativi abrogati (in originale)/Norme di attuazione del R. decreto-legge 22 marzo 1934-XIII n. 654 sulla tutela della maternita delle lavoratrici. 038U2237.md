@@ -62,7 +62,7 @@ In caso di aborto spontaneo o terapeutico, la donna, per giustificare l'assenza,
  
  In tale certificato debbono essere indicati i dati prescritti dall'art. 1 del regolamento approvato con [R. decreto 6 dicembre 1928, n. 3112](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201070%20contenente%20disposizioni%20varie%20sulla%20sanita%20pubblica.%20028U3112.md), nonche' il mese di gravidanza alla data dell'aborto. 
  
- Il rilascio di detto certificato non esime il medico-chirurgo dall'obbligo della denuncia dell'aborto, a norma dell'[art. 103 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_103), approvate dal [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+ Il rilascio di detto certificato non esime il medico-chirurgo dall'obbligo della denuncia dell'aborto, a norma dell'[art. 103 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvate dal [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 ## Art. 7. — Certificato per la riammissione al lavoro.
 

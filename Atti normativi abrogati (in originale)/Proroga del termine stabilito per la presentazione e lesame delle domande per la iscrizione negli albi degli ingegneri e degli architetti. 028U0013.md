@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 E' concesso un nuovo termine, fino al 30 aprile 1928, per la presentazione delle domande di iscrizione negli albi degli ingegneri e degli architetti, a norma degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395#art_9) e [10 della legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395#art_10). 
  
- Le domande, con i documenti prescritti dal regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), devono essere presentate, entro il predetto termine perentorio, direttamente alle Commissioni, di cui ai precitati articoli 9 e 10, aventi sede presso il Ministero della pubblica istruzione. 
+ Le domande, con i documenti prescritti dal regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), devono essere presentate, entro il predetto termine perentorio, direttamente alle Commissioni, di cui ai precitati articoli 9 e 10, aventi sede presso il Ministero della pubblica istruzione. 
  
  Le domande, che siano state presentate anteriormente all'entrata in vigore del presente decreto, conservano la loro efficacia.
 
@@ -36,7 +36,7 @@ E' concesso un nuovo termine, fino al 30 aprile 1928, per la presentazione delle
 
 Con decreto del Ministro per la giustizia e gli affari di culto, d'intesa con il Ministro per la pubblica istruzione, puo' essere prorogato, con decorrenza dal 1° dicembre 1927, il termine stabilito nel [R. decreto-legge 8 maggio 1927, n. 826](Proroga%20di%20termini%20per%20la%20iscrizione%20nellalbo%20degli%20ingegneri%20e%20degli%20architetti.%20027U0826.md), per l'esame delle domande per la iscrizione negli albi degli ingegneri e degli architetti da parte delle competenti Commissioni. 
  
- Nello stesso modo puo' essere prorogato, con decorrenza dal 1° gennaio 1928, il termine per la iscrizione nell'albo, rimanendo corrispondentemente prorogato il termine, di cui all'art. 70 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537). 
+ Nello stesso modo puo' essere prorogato, con decorrenza dal 1° gennaio 1928, il termine per la iscrizione nell'albo, rimanendo corrispondentemente prorogato il termine, di cui all'art. 70 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md). 
  
  Rimane fermo l'ultimo comma dell'art. 1 del citato [R. decreto-legge 8 maggio 1927, n. 826](Proroga%20di%20termini%20per%20la%20iscrizione%20nellalbo%20degli%20ingegneri%20e%20degli%20architetti.%20027U0826.md).
 

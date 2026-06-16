@@ -164,11 +164,11 @@ Indipendentemente dall'applicazione della pena pecuniaria o dell'ammenda di cui 
 
 ## Art. 13.
 
-L'accertamento delle violazioni alle norme contenute nel presente decreto compete agli organi, cui a norma della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), compete l'accertamento delle violazioni alle leggi finanziarie, agli ispettori del demanio e delle tasse e ai procuratori del registro, agli ufficiali e agenti incaricati della prevenzione e dell'accertamento delle contravvenzioni sulla circolazione stradale a termini dell'[art. 122 del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), nonche' agli ufficiali, sottufficiali e militi delle Milizie ferroviaria, postelegrafonica e portuaria. 
+L'accertamento delle violazioni alle norme contenute nel presente decreto compete agli organi, cui a norma della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), compete l'accertamento delle violazioni alle leggi finanziarie, agli ispettori del demanio e delle tasse e ai procuratori del registro, agli ufficiali e agenti incaricati della prevenzione e dell'accertamento delle contravvenzioni sulla circolazione stradale a termini dell'[art. 122 del R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), nonche' agli ufficiali, sottufficiali e militi delle Milizie ferroviaria, postelegrafonica e portuaria. 
  
  Per l'applicazione delle penalita' prevedute dal presente decreto si osservano le disposizioni della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4). 
  
- Per la esazione coattiva delle tasse medesime da parte degli uffici del registro si applicano le disposizioni del testo unico approvato con [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+ Per la esazione coattiva delle tasse medesime da parte degli uffici del registro si applicano le disposizioni del testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 14.
 

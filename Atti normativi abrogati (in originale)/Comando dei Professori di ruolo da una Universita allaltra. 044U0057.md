@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sino al compimento dell'anno accademico in corso alla cessazione dello stato di guerra, il Ministro per l'Educazione Nazionale, in deroga al disposto dello art. 106 primo comma del Testo Unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), ha facolta' di disporre comandi di professori di ruolo da una ad altra Universita' od Istituto superiore per provvedere alle esigenze immediate degli insegnamenti.
+Sino al compimento dell'anno accademico in corso alla cessazione dello stato di guerra, il Ministro per l'Educazione Nazionale, in deroga al disposto dello art. 106 primo comma del Testo Unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), ha facolta' di disporre comandi di professori di ruolo da una ad altra Universita' od Istituto superiore per provvedere alle esigenze immediate degli insegnamenti.
 
 ## Art. 2.
 
@@ -32,6 +32,6 @@ Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gaz
  
  BADOGLIO - CUOMO 
  
- Visto: (ai sensi del [R. D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R. D. 30 ottobre 1943, n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: BADOGLIO

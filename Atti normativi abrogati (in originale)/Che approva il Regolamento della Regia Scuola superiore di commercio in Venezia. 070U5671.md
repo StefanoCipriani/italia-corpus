@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[articolo 4 del Regio Decreto 6 agosto 1868, n. 4530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-08-06;4530#art_4), che approva lo Statuto organico della Regia Scuola superiore di commercio in Venezia;
+Visto l'[articolo 4 del Regio Decreto 6 agosto 1868, n. 4530](../Regi%20decreti/Che%20approva%20lo%20statuto%20per%20la%20fondazione%20in%20Venezia%20dun%20Istituto%20che%20assumera%20il%20titolo%20di%20Regia%20Scuola%20superiore%20di%20commercio.%20068U4530.md), che approva lo Statuto organico della Regia Scuola superiore di commercio in Venezia;
 
 Visti gli articoli 1 e 10 di detto Statuto organico;
 

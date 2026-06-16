@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1); 
+ Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md); 
  
  Vista la [legge 5 febbraio 1925, n. 87](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto%20per%20lesercizio%20finanziario%20dal%201%20luglio%201924%20al%2030%20giugno%201925.%20025U0087.md); 
  

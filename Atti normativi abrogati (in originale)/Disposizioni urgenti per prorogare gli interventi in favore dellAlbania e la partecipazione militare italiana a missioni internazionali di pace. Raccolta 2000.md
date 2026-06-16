@@ -59,7 +59,7 @@ Il termine previsto dall'[articolo 3, comma 1, del decreto-legge 25 ottobre 1999
 
 4.
 
-A decorrere dal 1o gennaio 2000 al personale di cui ai commi 1, 2 e 3 l'indennita' di missione prevista dal [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), e' corrisposta nella misura del novanta per cento per tutta la durata del periodo.
+A decorrere dal 1o gennaio 2000 al personale di cui ai commi 1, 2 e 3 l'indennita' di missione prevista dal [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), e' corrisposta nella misura del novanta per cento per tutta la durata del periodo.
 
 5.
 

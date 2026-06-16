@@ -290,7 +290,7 @@ Indipendentemente dalle sanzioni stabilite dall'art. 30 per la emessa od inesatt
 
 ### Art. 33.
 
-I funzionari dell'Amministrazione delle imposte, i componenti collegi giudicanti e tutti coloro che, secondo le rispettive attribuzioni intervengono nell'accertamento, nell'applicazione e nella riscossione dell'imposta sono tenuti al segreto professionale a termini dell'[art. 177 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e sono passibili delle pene comminate dall'articolo medesimo. 
+I funzionari dell'Amministrazione delle imposte, i componenti collegi giudicanti e tutti coloro che, secondo le rispettive attribuzioni intervengono nell'accertamento, nell'applicazione e nella riscossione dell'imposta sono tenuti al segreto professionale a termini dell'[art. 177 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e sono passibili delle pene comminate dall'articolo medesimo. 
  
  Non importa violazione di segreto la comunicazione dei dati riflettenti la misura del reddito conseguito o del capitale investito che venga fatta all'Amministrazione del registro ai fini dell'applicazione della imposta sulle successioni.
 

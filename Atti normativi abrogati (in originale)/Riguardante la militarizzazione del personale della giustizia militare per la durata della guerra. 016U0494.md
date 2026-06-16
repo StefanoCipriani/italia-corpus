@@ -14,7 +14,7 @@ Durante la presente guerra e per un periodo di sei mesi successivi alla dichiara
  
  Nulla e' innovato per quanto riguarda gli stipendi e gli aumenti sessennali dei funzionari medesimi. 
  
- Alle denominazioni «Avvocato fiscale militare» e «Sostituto avvocato fiscale militare» usate nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e nelle altre disposizioni concernenti il personale della giustizia militare, sono sostituite le seguenti «Avvocato militare» e «Sostituto avvocato militare».
+ Alle denominazioni «Avvocato fiscale militare» e «Sostituto avvocato fiscale militare» usate nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e nelle altre disposizioni concernenti il personale della giustizia militare, sono sostituite le seguenti «Avvocato militare» e «Sostituto avvocato militare».
 
 ## Art. 2.
 

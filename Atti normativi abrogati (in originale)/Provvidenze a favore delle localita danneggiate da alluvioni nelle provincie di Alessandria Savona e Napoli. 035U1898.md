@@ -38,7 +38,7 @@ c) alla concessione di sussidi a favore delle Amministrazioni Provinciali di Ale
  
 d) alla concessione di sussidi per i lavori di riparazione o di ricostruzione di opere pubbliche appartenenti ad enti morali aventi scopo di beneficenza. 
  
- La misura dei sussidi, di cui alle precedenti lettere c) e d), non puo' superare il 75% della spesa riconosciuta occorrente, e le domande di concessione corredate ai sensi del [R. decreto 23 ottobre 1904, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-10-23;625), devono essere presentate al Ministero dei lavori pubblici o rispettivamente agli uffici del Genio civile di Alessandria e di Savona, entro il termine di sei mesi dall'entrata in vigore del presente decreto.
+ La misura dei sussidi, di cui alle precedenti lettere c) e d), non puo' superare il 75% della spesa riconosciuta occorrente, e le domande di concessione corredate ai sensi del [R. decreto 23 ottobre 1904, n. 625](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20concessione%20di%20sussidi%20pei%20lavori%20di%20difesa%20delle%20strade%20provinciali%20e%20comunali%20e%20degli%20abitati%20contro%20le%20frane%20e%20le%20corrosioni%20dei%20fiumi%20e%20to_caca810c91db.md), devono essere presentate al Ministero dei lavori pubblici o rispettivamente agli uffici del Genio civile di Alessandria e di Savona, entro il termine di sei mesi dall'entrata in vigore del presente decreto.
 
 ## Art. 2.
 
@@ -88,7 +88,7 @@ Per favorire il riattamento e il ripristino delle opere di miglioramento fondiar
  
  All'uopo e' autorizzata la spesa di L. 1.800.000 da stanziarsi per L. 1.000.000 sul capitolo 115 dello stato di previsione della spesa del Ministero dell'agricoltura e foreste per l'esercizio in corso e per L. 800.000 sul capitolo corrispondente dell'esercizio 1936-37. 
  
- I mutui agrari di miglioramento, col concorso dello Stato, negli interessi, a sensi dell'[art. 3 del R. decreto-legge 29 luglio 1927, numero 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), e del [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), occorrenti per il ripristino delle aziende agricole danneggiate, possono essere concessi, oltre che dagli Istituti speciali di Credito agrario, anche da Enti ed Istituti diversi, che vi siano autorizzati dal Ministro per l'agricoltura e per le foreste, di concerto con quello per le finanze. 
+ I mutui agrari di miglioramento, col concorso dello Stato, negli interessi, a sensi dell'[art. 3 del R. decreto-legge 29 luglio 1927, numero 1509](Provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20027U1509.md), e del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), occorrenti per il ripristino delle aziende agricole danneggiate, possono essere concessi, oltre che dagli Istituti speciali di Credito agrario, anche da Enti ed Istituti diversi, che vi siano autorizzati dal Ministro per l'agricoltura e per le foreste, di concerto con quello per le finanze. 
  
  Detti mutui dovranno essere richiesti non oltre il 31 dicembre 1936. 
  

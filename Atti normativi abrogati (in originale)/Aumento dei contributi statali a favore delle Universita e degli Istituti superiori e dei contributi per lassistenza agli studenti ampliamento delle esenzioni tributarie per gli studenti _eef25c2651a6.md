@@ -81,7 +81,7 @@ Rea o diploma | 1.000 | 2.000 | 3.000
 ## Art. 8.
 
 Il Consiglio d'amministrazione ha facolta' d'imporre nel primo triennio di applicazione della presente legge, oltre le tasse e sopratasse di cui al precedente art. 7, un unico contributo integrativo, intendendosi soppressa ogni altra contribuzione comunque stabilita, salvo quanto e' disposto dal successivo art. 11.
- Il quarto comma dell'art. 152 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' abrogato.
+ Il quarto comma dell'art. 152 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e' abrogato.
 
 ## Art. 9.
 

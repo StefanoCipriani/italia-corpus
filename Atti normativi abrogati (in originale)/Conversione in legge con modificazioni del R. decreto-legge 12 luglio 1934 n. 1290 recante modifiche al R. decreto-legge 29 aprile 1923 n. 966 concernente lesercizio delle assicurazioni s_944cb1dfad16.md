@@ -34,7 +34,7 @@ VITTORIO EMANUELE III
  
  « Le Societa' nazionali di assicurazione e di capitalizzazione che intendano estendere all'estero il loro esercizio devono essere autorizzate dal Ministero delle corporazioni, salvo che si tratti di societa' che alla data di pubblicazione del presente decreto posseggano il capitale di venti milioni se esercitino il ramo vita o di dieci milioni se esercitino altri rami di assicurazione, ovvero esercitino da un decennio l'assicurazione sulla vita ». 
  
- All'art. 11, primo comma, sopprimere le parole: « nonche' di modificare il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md) ». 
+ All'art. 11, primo comma, sopprimere le parole: « nonche' di modificare il regolamento approvato con [R. decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md) ». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

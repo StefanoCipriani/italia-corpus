@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 109 del testo unico delle leggi sul reclutamento del R. esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
+Visto l'art. 109 del testo unico delle leggi sul reclutamento del R. esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
 Visto l'[art. 2, del R. decreto-legge 20 aprile 1920, n. 452](Che%20apporta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20R.%20esercito%20approvato%20con%20R.%20decreto%2024%20dicembre%201911%20n.%201497.%20020U0452.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari della guer
 
 ## Art. 1.
 
-All'art. 109 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e' fatta la seguente aggiunta: 
+All'art. 109 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e' fatta la seguente aggiunta: 
  
  «Quando la leva di una classe venga iniziata prima dell'anno in cui gli inscritti che vi appartengono compiano il ventesimo della eta' loro, il ritardo della chiamata alle armi potra' pure essere concesso ai militari arruolati nella leva stessa che siano studenti dell'ultimo anno di corso delle scuole medie di grado superiore ed assimilate, nonche' ai candidati alla licenza delle stesse scuole che siano caduti in non piu' di due materie. 
  

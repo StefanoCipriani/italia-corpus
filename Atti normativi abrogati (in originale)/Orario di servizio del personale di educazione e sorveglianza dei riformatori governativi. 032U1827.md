@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'art. 3 del regolamento approvato con [R. decreto 15 aprile 1909, n. 236](Che%20approva%20il%20regolamento%20speciale%20per%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20dei%20riformatori%20governativi.%20009U0236.md), per il personale di educazione e di sorveglianza dei riformatori governativi;
 
-Visto l'[art. 106 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_106), contenente disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto l'[art. 106 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), contenente disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
-Visto l'art. 97 del regolamento per i Convitti nazionali approvato con [R. decreto 1° settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009);
+Visto l'art. 97 del regolamento per i Convitti nazionali approvato con [R. decreto 1° settembre 1925, n. 2009](../Regi%20decreti/Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

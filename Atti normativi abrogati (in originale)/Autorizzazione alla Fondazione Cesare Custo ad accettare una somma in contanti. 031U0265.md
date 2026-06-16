@@ -14,6 +14,6 @@ N.
 
 265.
 
-[R. decreto 9 febbraio 1931, n. 265](Autorizzazione%20alla%20Fondazione%20Cesare%20Custo%20ad%20accettare%20una%20somma%20in%20contanti.%20031U0265.md), col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione delle offerte in contanti per l'ammontare di L. 4372,30 ad incremento della Fondazione «Cesare Custo». 
+[R. decreto 9 febbraio 1931, n. 265](../Regi%20decreti/Autorizzazione%20alla%20Fondazione%20Cesare%20Custo%20ad%20accettare%20una%20somma%20in%20contanti.%20031U0265.md), col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione delle offerte in contanti per l'ammontare di L. 4372,30 ad incremento della Fondazione «Cesare Custo». 
  Visto, il Guardasigilli: Rocco. 
  Registrato alla Corte dei conti, addi' 30 marzo 1931 - Anno IX

@@ -120,7 +120,7 @@ Il Ministro per il coordinamento della protezione civile provvede a stabilire co
 
 1.
 
-Per l'esecuzione dei lavori di competenza dell'ANAS. relativi al ripristino ed allo sviluppo della rete delle strade statali nelle zone colpite dalle calamita' naturali di cui al presente decreto, i capi compartimento della viabilita' sono autorizzati, in deroga ai limiti stabiliti dall'articolo 70 del regolamento approvato con [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), e successive modificazioni, e dall'[articolo 25, lettera e), della legge 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59#art_25-lete), a disporre l'esecuzione col sistema dell'economia.
+Per l'esecuzione dei lavori di competenza dell'ANAS. relativi al ripristino ed allo sviluppo della rete delle strade statali nelle zone colpite dalle calamita' naturali di cui al presente decreto, i capi compartimento della viabilita' sono autorizzati, in deroga ai limiti stabiliti dall'articolo 70 del regolamento approvato con [regio decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), e successive modificazioni, e dall'[articolo 25, lettera e), della legge 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59#art_25-lete), a disporre l'esecuzione col sistema dell'economia.
 
 2.
 

@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il termine di cui all'articolo 53, settimo comma, del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e' prorogato di cinque anni, limitatamente all'esproprio degli immobili effettuato per la esecuzione dei lavori del 5° Centro siderurgico di Gioia Tauro. 
+Il termine di cui all'articolo 53, settimo comma, del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e' prorogato di cinque anni, limitatamente all'esproprio degli immobili effettuato per la esecuzione dei lavori del 5° Centro siderurgico di Gioia Tauro. 
  Gli immobili suddetti potranno essere utilizzati dal Consorzio per l'area di sviluppo industriale di Reggio Calabria, oltre che per l'attrezzatura della zona, anche per iniziative industriali alternative a quella del 5° Centro siderurgico ed altre aventi comunque fine di pubblica utilita' obiettivamente connesse ad insediamenti industriali ed alle necessarie attrezzature delle zone interessate.
 
 ## Art. 2.

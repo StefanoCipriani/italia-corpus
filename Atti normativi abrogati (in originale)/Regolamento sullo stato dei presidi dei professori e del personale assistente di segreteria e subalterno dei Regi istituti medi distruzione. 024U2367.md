@@ -98,9 +98,9 @@ Sono vietate le assegnazioni provvisorie di sede.
 
 ### Art. 11.
 
-Gli aiuti ed assistenti delle universita' e degli istituti superiori che aspirino alla assunzione in ruolo nei regi istituti medi d'istruzione a mente degli [articoli 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md); 105 del [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) e del [regolamento 4 settembre 1924, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-09-04;1533), debbono presentare domanda al ministero della pubblica istruzione non piu' tardi del 31 luglio, corredata dei seguenti documenti: 
+Gli aiuti ed assistenti delle universita' e degli istituti superiori che aspirino alla assunzione in ruolo nei regi istituti medi d'istruzione a mente degli [articoli 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md); 105 del [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md) e del [regolamento 4 settembre 1924, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-09-04;1533), debbono presentare domanda al ministero della pubblica istruzione non piu' tardi del 31 luglio, corredata dei seguenti documenti: 
  
- a) bando di concorso, relazione della commissione esaminatrice e deliberazione di prima nomina del consiglio d'amministrazione dell'universita' o istituto superiore; il tutto in conformita' dell'[art. 105 del R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674#art_105); 
+ a) bando di concorso, relazione della commissione esaminatrice e deliberazione di prima nomina del consiglio d'amministrazione dell'universita' o istituto superiore; il tutto in conformita' dell'[art. 105 del R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md); 
  
  b) deliberazioni successive di conferma da parte del consiglio di amministrazione a mente dell'[art. 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md); 
  
@@ -114,11 +114,11 @@ Per cio' che riguarda i termini, l'assegnazione della sede, l'accettazione, la r
 
 ### Art. 13.
 
-Le disposizioni dei precedenti articoli riguardanti l'assunzione in ruolo degli aiuti ed assistenti retribuiti delle universita' ed istituti superiori non sono applicabili agli aiuti ed assistenti volontari, di cui all'[art. 106 del R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674#art_106).
+Le disposizioni dei precedenti articoli riguardanti l'assunzione in ruolo degli aiuti ed assistenti retribuiti delle universita' ed istituti superiori non sono applicabili agli aiuti ed assistenti volontari, di cui all'[art. 106 del R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md).
 
 ### Art. 14.
 
-I professori straordinari al momento dell'immissione in servizio e i professori ordinari, appena ottenuta la nomina stabile, debbono, sotto pena di decadenza, prestare rispettivamente la promessa e il giuramento di cui agli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_5) e [6 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_6).
+I professori straordinari al momento dell'immissione in servizio e i professori ordinari, appena ottenuta la nomina stabile, debbono, sotto pena di decadenza, prestare rispettivamente la promessa e il giuramento di cui agli [articoli 5](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [6 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 15.
 
@@ -172,7 +172,7 @@ Quando le relazioni e gli altri elementi di giudizio, di cui ai due precedenti a
 
 ### Art. 26.
 
-Ai professori straordinari che siano comandati presso gli uffici del ministero a sensi dell'[art. 2 del R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md), o che siano inviati in missione all'estero a perfezionarsi nelle lingue straniere a sensi dell'[art. 33 del R. decreto 6 maggio 1923, n.1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_33), il tempo trascorso durante il comando o la missione non si computa agli effetti del periodo di prova.
+Ai professori straordinari che siano comandati presso gli uffici del ministero a sensi dell'[art. 2 del R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md), o che siano inviati in missione all'estero a perfezionarsi nelle lingue straniere a sensi dell'[art. 33 del R. decreto 6 maggio 1923, n.1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), il tempo trascorso durante il comando o la missione non si computa agli effetti del periodo di prova.
 
 ### Art. 27.
 
@@ -190,7 +190,7 @@ E' valido per la promozione ad ordinario o per la definitiva conferma nel nuovo 
  
  d) presso le istituzioni culturali, di cui agli [articoli 2](Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md) e [31 del R. decreto 31 ottobre 1923, n. 2410](Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md); 
  
- e) presso la scuola storica nazionale, a norma dell'[art. 2 del R. decreto 31 dicembre 1923, n. 3011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3011#art_2); 
+ e) presso la scuola storica nazionale, a norma dell'[art. 2 del R. decreto 31 dicembre 1923, n. 3011](../Regi%20decreti/Istituzione%20in%20Roma%20di%20una%20Scuola%20storica%20nazionale%20presso%20lIstituto%20storico%20italiano.%20023U3011.md); 
  
  f) nella direzione di istituti medi annessi a regi educandati ed istituti femminili di educazione a norma dell'[art. 4 del R. decreto legge 1° maggio 1924, n. 653](Disposizioni%20concernenti%20gli%20istituti%20medi%20di%20istruzione.%20024U0653.md); 
  
@@ -213,15 +213,15 @@ Capo II.
 
 ### Art. 31.
 
-Salvo le eccezioni espressamente previste nella tabella n. 1 annessa al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), il professore la cui cattedra di ruolo comprende piu' corsi od insegnamenti non pertinenti tutti ad uno stesso dei tre ruoli A, B e C della suddetta tabella (escluso il caso di corsi o d'insegnamenti che debbano essere assunti a titolo di semplice incarico) e' assegnato a tutti gli effetti al ruolo piu' importante.
+Salvo le eccezioni espressamente previste nella tabella n. 1 annessa al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), il professore la cui cattedra di ruolo comprende piu' corsi od insegnamenti non pertinenti tutti ad uno stesso dei tre ruoli A, B e C della suddetta tabella (escluso il caso di corsi o d'insegnamenti che debbano essere assunti a titolo di semplice incarico) e' assegnato a tutti gli effetti al ruolo piu' importante.
 
 ### Art. 32.
 
-I professori di disegno degli istituti tecnici, in servizio al momento della pubblicazione del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), che siano stati o saranno assegnati ai licei scientifici, appartengono, a tutti gli effetti, al ruolo A.
+I professori di disegno degli istituti tecnici, in servizio al momento della pubblicazione del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), che siano stati o saranno assegnati ai licei scientifici, appartengono, a tutti gli effetti, al ruolo A.
 
 ### Art. 33.
 
-Agli effetti degli aumenti periodici di stipendio ai presidi ed ai professori e dei passaggi di grado stabiliti dall'[Art. 94 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) le interruzioni di servizio sono valutate a norma dell'[art. 82 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_82). 
+Agli effetti degli aumenti periodici di stipendio ai presidi ed ai professori e dei passaggi di grado stabiliti dall'[Art. 94 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) le interruzioni di servizio sono valutate a norma dell'[art. 82 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Il tempo trascorso in istato di sospensione dallo stipendio e dall'ufficio non e' computato. 
  
@@ -237,7 +237,7 @@ L'esame comparativo del merito dei professori, per l'attribuzione della qualific
  
  Agli effetti del precedente comma, le variazioni di anzianita', dipendenti da riconoscimento di servizio pregovernativo o di servizio governativo fuori ruolo o di servizio militare, si computano a cominciare dal turno che si apre col 1° ottobre successivo al riconoscimento predetto. 
  
- I professori che a norma dell'[art. 4 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_4), siano attualmente e in via transitoria assegnati a un ruolo diverso da quello corrispondente al ruolo da essi occupato all'atto dell'applicazione del nuovo ordinamento, sono scrutinati, agli effetti dell'esame comparativo per l'attribuzione della qualifica di merito distinto, e fino a che vi restino, nel ruolo al quale si trovano provvisoriamente assegnati.
+ I professori che a norma dell'[art. 4 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), siano attualmente e in via transitoria assegnati a un ruolo diverso da quello corrispondente al ruolo da essi occupato all'atto dell'applicazione del nuovo ordinamento, sono scrutinati, agli effetti dell'esame comparativo per l'attribuzione della qualifica di merito distinto, e fino a che vi restino, nel ruolo al quale si trovano provvisoriamente assegnati.
 
 ### Art. 36.
 
@@ -263,7 +263,7 @@ I professori compresi nel ruolo d'onore non possono ottenere ulteriori aumenti a
 
 ### Art. 41.
 
-Il professore compreso nel ruolo d'onore, che a causa di punizione disciplinare di grado superiore alla censura e' restituito al ruolo comune, perde l'assegno personale di cui goda eventualmente per effetto dell'art. 10 ed annessa tabella n. 3 del [R. decreto 6 maggio 1923, n. 1054, e dell'articolo 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_190) del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ma conserva la sua anzianita', ivi comprese le abbreviazioni dipendenti dai conseguiti aumenti anticipati. 
+Il professore compreso nel ruolo d'onore, che a causa di punizione disciplinare di grado superiore alla censura e' restituito al ruolo comune, perde l'assegno personale di cui goda eventualmente per effetto dell'art. 10 ed annessa tabella n. 3 del [R. decreto 6 maggio 1923, n. 1054, e dell'articolo 190](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ma conserva la sua anzianita', ivi comprese le abbreviazioni dipendenti dai conseguiti aumenti anticipati. 
  
  Il professore che si trova nella predetta condizione non puo' ottenere ulteriori aumenti anticipati e non concorre a formare il numero complessivo di cui all'art. 35.
 
@@ -295,7 +295,7 @@ Capo III.
 
 I professori, di ruolo o supplenti o incaricati, sono tenuti a supplire, senza retribuzione, anche in eccedenza ai loro normali obblighi d'orario, i loro colleghi che siano assenti per un periodo non superiore ai sei giorni. 
  
- Quando, per ragioni di necessita', la supplenza debba prolungarsi per un periodo di tempo superiore ai sei giorni e' dovuto il compenso per tutta la durata della supplenza a norma della tabella n. 6 annessa al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+ Quando, per ragioni di necessita', la supplenza debba prolungarsi per un periodo di tempo superiore ai sei giorni e' dovuto il compenso per tutta la durata della supplenza a norma della tabella n. 6 annessa al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 46.
 
@@ -307,11 +307,11 @@ Se in una scuola complementare il numero delle classi costituite in base al nume
 
 ### Art. 48.
 
-Salvo quanto e' stabilito dall'[art. 4, comma 2°, del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_4-com2), dall'[art. 2 del R. decreto 27 settembre 1923, n. 2665](Applicazione%20nei%20territori%20annessi%20delle%20disposizioni%20del%20R.%20decreto%2026%20giugno%201923%20n.%201413%20contenente%20norme%20relative%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U2665.md), e dal precedente articolo, nel caso di cattedre o incarichi comprendenti piu' materie, e' vietato di scindere comunque queste materie allo scopo di raccoglierle da piu' cattedre o incarichi simili in raggruppamenti diversi da quelli stabiliti dalle tabelle 7, 8, 9, 11, 12 e 13 annesse al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+Salvo quanto e' stabilito dall'[art. 4, comma 2°, del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), dall'[art. 2 del R. decreto 27 settembre 1923, n. 2665](Applicazione%20nei%20territori%20annessi%20delle%20disposizioni%20del%20R.%20decreto%2026%20giugno%201923%20n.%201413%20contenente%20norme%20relative%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U2665.md), e dal precedente articolo, nel caso di cattedre o incarichi comprendenti piu' materie, e' vietato di scindere comunque queste materie allo scopo di raccoglierle da piu' cattedre o incarichi simili in raggruppamenti diversi da quelli stabiliti dalle tabelle 7, 8, 9, 11, 12 e 13 annesse al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 49.
 
-Nel caso d'insegnamenti raggruppati in un'unica cattedra secondo il nuovo ordinamento stabilito dal [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e costituiti transitoriamente in cattedre separate a norma dell'[art. 4 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_4), la riunione dei detti insegnamenti in un'unica cattedra e la conseguente assegnazione ad unico insegnante deve essere disposta, anche prima della scadenza del termine massimo fissato dal menzionato art. 4, non appena una delle cattedre separate cessi di essere tenuta dal proprio titolare.
+Nel caso d'insegnamenti raggruppati in un'unica cattedra secondo il nuovo ordinamento stabilito dal [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e costituiti transitoriamente in cattedre separate a norma dell'[art. 4 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), la riunione dei detti insegnamenti in un'unica cattedra e la conseguente assegnazione ad unico insegnante deve essere disposta, anche prima della scadenza del termine massimo fissato dal menzionato art. 4, non appena una delle cattedre separate cessi di essere tenuta dal proprio titolare.
 
 ### Art. 50.
 
@@ -349,7 +349,7 @@ Capo IV.
 
 ### Art. 55.
 
-Le giunte per l'istruzione media designano d'ufficio, ogni biennio, per i singoli tipi d'istituto, i dipendenti professori, non compresi nei ruoli d'onore, che, trovandosi nelle condizioni previste nell'[art. 12 del R. decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_12), abbiano attitudini all'ufficio direttivo. 
+Le giunte per l'istruzione media designano d'ufficio, ogni biennio, per i singoli tipi d'istituto, i dipendenti professori, non compresi nei ruoli d'onore, che, trovandosi nelle condizioni previste nell'[art. 12 del R. decreto 6 maggio 1923, numero 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), abbiano attitudini all'ufficio direttivo. 
  
  Nel fare le dette designazioni le giunte hanno riguardo all'autorita' morale del professore, alla sua capacita' didattica ed amministrativa e al servizio militare prestato, durante la guerra in reparti combattenti. 
  
@@ -388,7 +388,7 @@ Nel caso di restituzione all'insegnamento, il detto preside riprende una cattedr
 
 ### Art. 61.
 
-La dispensa dall'insegnamento, nel caso di cui al [comma 2° dell'art. 14 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_14-com2), e' data dopo che per due anni consecutivi si sia verificata la condizione della popolazione scolastica superiore ai 250 alunni. 
+La dispensa dall'insegnamento, nel caso di cui al [comma 2° dell'art. 14 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e' data dopo che per due anni consecutivi si sia verificata la condizione della popolazione scolastica superiore ai 250 alunni. 
  
  Per le scuole complementari a cui siano annessi corsi d'integrazione, non si computa il numero degli alunni iscritti ai corsi stessi.
 
@@ -420,7 +420,7 @@ Il preside restituito d'ufficio all'istituto d'origine ha facolta' di ricorrere 
 
 ### Art. 67.
 
-La disposizione del precedente articolo si applica anche nel caso di preside restituito, d'ufficio, al ruolo di professore di cui all'ultimo capoverso dell'[art. 12 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_12).
+La disposizione del precedente articolo si applica anche nel caso di preside restituito, d'ufficio, al ruolo di professore di cui all'ultimo capoverso dell'[art. 12 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Informazioni.
 
@@ -464,11 +464,11 @@ Nei certificati che siano rilasciati dai provveditori agli studi o dai presidi a
 
 Le informazioni sui professori che sono messi a disposizione dei ministeri degli affari esteri, delle colonie, della guerra e della marina, per l'insegnamento nelle scuole italiane all'estero, delle colonie, nei collegi militari o nell'accademia navale, o che sono messi a disposizione delle scuole di metodo per l'educazione materna o delle istituzioni culturali, cui alle lettere c) e d) dell'art. 29 sono rilasciate dai direttori dei rispettivi istituti in conformita' delle norme, in quanto siano applicabili, che valgono per i professori che prestano servizio nei regi istituti medi di istruzione. Di tali informazioni viene trasmessa copia al ministero della pubblica istruzione. 
  
- Sono egualmente rilasciate dai presidi dei licei artistici e dal direttore della scuola storica nazionale le informazioni sul conto dei professori che siano destinati a prestar servizio nei detti istituti a norma rispettivamente dell'[art. 20 del R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md) e dell'[art. 2 del R. decreto 31 dicembre 1923, n. 3011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3011#art_2).
+ Sono egualmente rilasciate dai presidi dei licei artistici e dal direttore della scuola storica nazionale le informazioni sul conto dei professori che siano destinati a prestar servizio nei detti istituti a norma rispettivamente dell'[art. 20 del R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md) e dell'[art. 2 del R. decreto 31 dicembre 1923, n. 3011](../Regi%20decreti/Istituzione%20in%20Roma%20di%20una%20Scuola%20storica%20nazionale%20presso%20lIstituto%20storico%20italiano.%20023U3011.md).
 
 ### Art. 75.
 
-Le informazioni sui professori che siano comandati presso gli uffici del ministero a termini dell'[art. 2 del R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md) e sui professori dei ruoli transitori che siano destinati, a norma dell'[art. 11 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_11), a servizi amministrativi o contabili o di segreteria negl'istituti d'istruzione o negli altri uffici dipendenti dal ministero della pubblica istruzione, sono rilasciati, a seconda dell'ufficio occupato, in base alle norme vigenti per gl'impiegati civili dello Stato.
+Le informazioni sui professori che siano comandati presso gli uffici del ministero a termini dell'[art. 2 del R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md) e sui professori dei ruoli transitori che siano destinati, a norma dell'[art. 11 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), a servizi amministrativi o contabili o di segreteria negl'istituti d'istruzione o negli altri uffici dipendenti dal ministero della pubblica istruzione, sono rilasciati, a seconda dell'ufficio occupato, in base alle norme vigenti per gl'impiegati civili dello Stato.
 
 ## Albi degli ispettori.
 
@@ -526,7 +526,7 @@ Le domande di trasferimento non possono essere subordinate a condizioni o riserv
 
 ### Art. 84.
 
-Ai fini di cui all'[art. 17 del R. decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_17), e salvo quanto e' prescritto nell'[art. 2 del R. decreto 31 dicembre 1923, n. 2977](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2026%20giugno%201923%20numero%201473%20relativo%20allattuazione%20del%20nuovo%20ordinamento%20dellistruzione%20media%20e%20dei%20convitti%20nazionali.%20023U2977.md) e nei RR. decreti 25 marzo 1923, n. 797 e 27 settembre 1923, n. 2218, il merito degli aspiranti al trasferimento in una determinata sede, viene accertato con tutti gli elementi di giudizio che sono a disposizione del ministero e, in particolar modo, in base alle note informative, al servizio militare prestato durante la guerra in reparti combattenti, all'appartenenza al ruolo d'onore, ai risultati in concorsi per cattedre di regi istituti medi d'istruzione.
+Ai fini di cui all'[art. 17 del R. decreto 6 maggio 1923, numero 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e salvo quanto e' prescritto nell'[art. 2 del R. decreto 31 dicembre 1923, n. 2977](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2026%20giugno%201923%20numero%201473%20relativo%20allattuazione%20del%20nuovo%20ordinamento%20dellistruzione%20media%20e%20dei%20convitti%20nazionali.%20023U2977.md) e nei RR. decreti 25 marzo 1923, n. 797 e 27 settembre 1923, n. 2218, il merito degli aspiranti al trasferimento in una determinata sede, viene accertato con tutti gli elementi di giudizio che sono a disposizione del ministero e, in particolar modo, in base alle note informative, al servizio militare prestato durante la guerra in reparti combattenti, all'appartenenza al ruolo d'onore, ai risultati in concorsi per cattedre di regi istituti medi d'istruzione.
 
 ### Art. 85.
 
@@ -596,7 +596,7 @@ Il Ministero non e' obbligato a tener conto delle istanze con le quali i presidi
 
 ### Art. 99.
 
-Il ricorso di cui all'[art. 19 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_19), deve essere consegnato all'immediato superiore gerarchico o al provveditore agli studi o al ministero non piu' tardi del quindicesimo giorno da quello della pubblicazione del trasferimento sul Bollettino ufficiale o della sua diretta partecipazione all'interessato.
+Il ricorso di cui all'[art. 19 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), deve essere consegnato all'immediato superiore gerarchico o al provveditore agli studi o al ministero non piu' tardi del quindicesimo giorno da quello della pubblicazione del trasferimento sul Bollettino ufficiale o della sua diretta partecipazione all'interessato.
 
 ### Art. 100.
 
@@ -636,7 +636,7 @@ Capo IX.
 
 ### Art. 105.
 
-I presidi e i provveditori agli studi hanno l'obbligo di notificare immediatamente al ministero le punizioni da essi inflitte ai sensi dell'[art. 24 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_24), e di riferirne i motivi.
+I presidi e i provveditori agli studi hanno l'obbligo di notificare immediatamente al ministero le punizioni da essi inflitte ai sensi dell'[art. 24 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e di riferirne i motivi.
 
 ### Art. 106.
 
@@ -646,7 +646,7 @@ Salvo il caso in cui sia prodotto ricorso da parte dell'interessato a norma del 
 
 ### Art. 107.
 
-Il procedimento disciplinare per l'applicazione di una delle punizioni stabilite nei [numeri 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_22-num5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_22-num6) e [7 dell'art. 22 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_22-num7), si inizia con la notifica dell'atto di accusa. 
+Il procedimento disciplinare per l'applicazione di una delle punizioni stabilite nei [numeri 5](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), [6](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [7 dell'art. 22 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), si inizia con la notifica dell'atto di accusa. 
  
  L'atto di accusa deve contenere l'indicazione dei fatti addebitati e delle prove che sono a loro fondamento. 
  
@@ -654,7 +654,7 @@ Il procedimento disciplinare per l'applicazione di una delle punizioni stabilite
 
 ### Art. 108.
 
-Il diritto dell'incolpato di cui all'[art. 72 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_72), di prendere visione e copia degli atti di accertamento compiuti riguarda unicamente i fatti e le prove contestate nell'atto di accusa.
+Il diritto dell'incolpato di cui all'[art. 72 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), di prendere visione e copia degli atti di accertamento compiuti riguarda unicamente i fatti e le prove contestate nell'atto di accusa.
 
 ### Art. 109.
 
@@ -674,7 +674,7 @@ Se non sia nota la residenza dell'incolpato, l'atto di accusa e' inviato in copi
 
 ### Art. 111.
 
-Il presidente della commissione, su richiesta del ministro, fissa la data dell'adunanza per l'emissione del parere richiesto dall'[art. 24 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_24). 
+Il presidente della commissione, su richiesta del ministro, fissa la data dell'adunanza per l'emissione del parere richiesto dall'[art. 24 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  Del giorno dell'adunanza e' data notizia all'interessato.
 
@@ -722,15 +722,15 @@ Quando nei casi previsti nel precedente articolo e in seguito agli accertamenti 
 
 ### Art. 121.
 
-Il preside, punito con la sospensione, che per effetto dell'art. 22, ultimo comma, del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e' restituito al ruolo di professore, riprende posto nel ruolo comune, anche se apparteneva, al momento della sua nomina a preside, al ruolo d'onore.
+Il preside, punito con la sospensione, che per effetto dell'art. 22, ultimo comma, del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e' restituito al ruolo di professore, riprende posto nel ruolo comune, anche se apparteneva, al momento della sua nomina a preside, al ruolo d'onore.
 
 ### Art. 122.
 
-La procedura di cui agli articoli precedenti non si osserva quando la commissione sia chiamata a pronunciarsi, giusta la disposizione dell'[art. 24, comma 2°, del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_24-com2), su ricorsi interposti al ministro dai presidi o dai professori puniti dai provveditori agli studi con la punizione stabilita nel n. 3 dell'art. 22 del predetto R. decreto.
+La procedura di cui agli articoli precedenti non si osserva quando la commissione sia chiamata a pronunciarsi, giusta la disposizione dell'[art. 24, comma 2°, del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), su ricorsi interposti al ministro dai presidi o dai professori puniti dai provveditori agli studi con la punizione stabilita nel n. 3 dell'art. 22 del predetto R. decreto.
 
 ### Art. 123.
 
-Nei casi previsti dall'[art. 25 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_25), i provveditori agli studi possono interdire ai presidi l'accesso alla scuola, salvo a riferirne immediatamente al ministro. 
+Nei casi previsti dall'[art. 25 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), i provveditori agli studi possono interdire ai presidi l'accesso alla scuola, salvo a riferirne immediatamente al ministro. 
  
  Si fa luogo al provvedimento precauzionale dell'interdizione dell'accesso alla scuola quando il preside o il professore possa con la sua presenza esser cagione, per sua colpa, di disordini o di scandalo o quando, per fatti sopravvenuti, vi sia serio motivo a ritenere che l'azione educativa e didattica del preside o del professore sia sensibilmente scaduta o impedita.
 
@@ -744,11 +744,11 @@ Capo X.
 
 ### Art. 125.
 
-Agli effetti del divieto fatto ai professori dall'[articolo 11, comma 3°, del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_11-com3), di impartire lezioni private agli alunni del proprio istituto, il liceo-ginnasio, l'istituto tecnico, l'istituto magistrale si considerano costituenti rispettivamente un istituto unico.
+Agli effetti del divieto fatto ai professori dall'[articolo 11, comma 3°, del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), di impartire lezioni private agli alunni del proprio istituto, il liceo-ginnasio, l'istituto tecnico, l'istituto magistrale si considerano costituenti rispettivamente un istituto unico.
 
 ### Art. 126. — null
 
-Si fa luogo all'applicazione dell'art 23, ultimo comma, del [R. decreto 6 maggio 1923, n 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), a carico dei presidi e dei professori, i quali abbiano dato lezioni private in contravvenzione al divieto dell'art. 11, comma 3° e 14, ultimo comma, del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), o abbiano giudicato in sede di pubblico esame i candidati da essi privatamente istruiti.
+Si fa luogo all'applicazione dell'art 23, ultimo comma, del [R. decreto 6 maggio 1923, n 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), a carico dei presidi e dei professori, i quali abbiano dato lezioni private in contravvenzione al divieto dell'art. 11, comma 3° e 14, ultimo comma, del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), o abbiano giudicato in sede di pubblico esame i candidati da essi privatamente istruiti.
 
 ### Art. 127.
 
@@ -758,11 +758,11 @@ Prima di assumere comunque lezioni private, il professore deve chiederne l'autor
 
 ### Art. 128.
 
-Non piu' di tre alunni possono essere riuniti nell'unica ora giornaliera permessa per le lezioni private dall'[art. 11, comma 3°, del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_11-com3).
+Non piu' di tre alunni possono essere riuniti nell'unica ora giornaliera permessa per le lezioni private dall'[art. 11, comma 3°, del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 129.
 
-Agli effetti del divieto fatto ai professori dall'[articolo 11, comma 2° del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_11-com2), d'impartire altri insegnamenti in altri istituti d'istruzione media, pubblici o privati, s'intendono compresi sotto questa denominazione anche le scuote di convitti e di educatori e le scuole serali o festive, commerciali, industriali e simili che siano tenute da privati. 
+Agli effetti del divieto fatto ai professori dall'[articolo 11, comma 2° del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), d'impartire altri insegnamenti in altri istituti d'istruzione media, pubblici o privati, s'intendono compresi sotto questa denominazione anche le scuote di convitti e di educatori e le scuole serali o festive, commerciali, industriali e simili che siano tenute da privati. 
  
  Il ministro puo' autorizzare i professori ad impartire insegnamenti in scuole di carattere professionale che dipendano dallo Stato o da enti locali.
 
@@ -772,7 +772,7 @@ Ogni professore che eserciti, all'atto della sua prima nomina, o intenda intrapr
 
 ### Art. 131.
 
-Il professore che, invitato ad abbandonare una professione libera nei casi previsti dall'[art. 11, comma 4° del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_11-com4), vi insista, e' dichiarato dimissionario d'ufficio. 
+Il professore che, invitato ad abbandonare una professione libera nei casi previsti dall'[art. 11, comma 4° del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), vi insista, e' dichiarato dimissionario d'ufficio. 
  
  Uguale sanzione si applica per il preside che eserciti una qualunque professione libera e rifiuti di abbandonarla o nel fatto non l'abbandoni.
 
@@ -786,13 +786,13 @@ Il preside o il professore che occupi, all'atto della prima nomina, o ottenga in
 
 ### Art. 133.
 
-L'incompatibilita' tra gli uffici di cui e' cenno nell'[articolo 16 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_16), riguarda anche il caso che il secondo ufficio di ruolo sia di direttore o d'insegnante alla dipendenza del ministero dell'istruzione o di qualunque altra amministrazione od ente morale.
+L'incompatibilita' tra gli uffici di cui e' cenno nell'[articolo 16 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), riguarda anche il caso che il secondo ufficio di ruolo sia di direttore o d'insegnante alla dipendenza del ministero dell'istruzione o di qualunque altra amministrazione od ente morale.
 
 ### Art. 134.
 
 L'inosservanza da parte dei professori medi governativi di quanto e' prescritto nel primo comma dell'art. 127 e nell'art. 130 e' considerata mancanza disciplinare. 
  
- E' altresi' passibile di punizione il preside che trascuri di verificare l'adempimento, da parte dei dipendenti professori, delle disposizioni contenute negli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_11) e [16 del Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_16), e in questo capo del regolamento, o che tolleri comunque una qualsiasi irregolarita' della loro condizione in cio' che, dalle disposizioni stesse e' prescritto o che ometta di riferirne al Ministero.
+ E' altresi' passibile di punizione il preside che trascuri di verificare l'adempimento, da parte dei dipendenti professori, delle disposizioni contenute negli [articoli 11](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [16 del Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e in questo capo del regolamento, o che tolleri comunque una qualsiasi irregolarita' della loro condizione in cio' che, dalle disposizioni stesse e' prescritto o che ometta di riferirne al Ministero.
 
 ## Collocamento a riposo; dispense; aspettative.
 
@@ -800,11 +800,11 @@ Capo XI.
 
 ### Art. 135.
 
-Il collocamento a riposo previsto dall'[art. 20, comma 1°, del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_20-com1), e' disposto dal 1° ottobre dell'anno solare in cui i presidi e i professori compiono il settantesimo anno di eta'.
+Il collocamento a riposo previsto dall'[art. 20, comma 1°, del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e' disposto dal 1° ottobre dell'anno solare in cui i presidi e i professori compiono il settantesimo anno di eta'.
 
 ### Art. 136.
 
-Nel caso di dispensa di cui all'art. 20, cap. del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), l'accertamento della diminuita o cessata idoneita' fisica, intellettuale o morale del preside o del professore e' fatto dal ministero sulla base di tutti gli elementi di giudizio che sono a sua disposizione. 
+Nel caso di dispensa di cui all'art. 20, cap. del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), l'accertamento della diminuita o cessata idoneita' fisica, intellettuale o morale del preside o del professore e' fatto dal ministero sulla base di tutti gli elementi di giudizio che sono a sua disposizione. 
  
  Il ministero comunica all'interessato i motivi per i quali ritenga di dover promuovere la dispensa concedendogli un termine non inferiore a dieci giorni per presentare le sue difese.
 
@@ -820,7 +820,7 @@ La dispensa, di cui ai precedenti articoli, puo' essere disposta anche durante i
 
 ### Art. 139.
 
-Al professore che abbia conseguito il posto producendo documenti falsi o non validi o tacendo circostanze che, se note, gli avrebbero impedito di conseguirlo ai sensi delle disposizioni in vigore, o, comunque, mediante atti illeciti, si applica la disposizione dell'[art. 54 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_54).
+Al professore che abbia conseguito il posto producendo documenti falsi o non validi o tacendo circostanze che, se note, gli avrebbero impedito di conseguirlo ai sensi delle disposizioni in vigore, o, comunque, mediante atti illeciti, si applica la disposizione dell'[art. 54 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 140.
 
@@ -865,7 +865,7 @@ La disposizione del primo comma del precedente articolo si applica ai presidi e 
 
 ### Art. 146.
 
-I presidi e i professori le cui dimissioni furono accettate; quelli dichiarati dimissionari d'ufficio per motivi diversi dalla perdita della cittadinanza o da quelli previsti dagli articoli 144 e 145; quelli che furono collocati a riposo (tranne che cio' sia avvenuto per raggiunto limite di eta' o in applicazione di provvedimenti di carattere transitorio eccezionale), e quelli infine che furono dispensati dal servizio ai sensi dell'art. 20, capoverso, del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), possono essere riammessi in servizio con decreto del ministro, con decorrenza dal 1° ottobre successivo al decreto stesso.
+I presidi e i professori le cui dimissioni furono accettate; quelli dichiarati dimissionari d'ufficio per motivi diversi dalla perdita della cittadinanza o da quelli previsti dagli articoli 144 e 145; quelli che furono collocati a riposo (tranne che cio' sia avvenuto per raggiunto limite di eta' o in applicazione di provvedimenti di carattere transitorio eccezionale), e quelli infine che furono dispensati dal servizio ai sensi dell'art. 20, capoverso, del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), possono essere riammessi in servizio con decreto del ministro, con decorrenza dal 1° ottobre successivo al decreto stesso.
 
 ### Art. 147.
 
@@ -877,7 +877,7 @@ Capo XIII.
 
 ### Art. 148.
 
-I professori che, a norma dell'[art. 32 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_32), sono collocati a disposizione del ministero degli affari esteri o di quello delle colonie per le loro rispettive scuole, e che siano da questi prescelti per ufficio direttivo, sono nominati presidi nei rispettivi ruoli degli istituti del Regno, purche' siano compresi nell'elenco degl'idonei ad ufficio direttivo di cui all'art. 57, o, se laureati, nei ruoli d'onore; e purche' concorra, nella scelta fatta dai ministri degli affari esteri o delle colonie, il consenso di quello della istruzione pubblica.
+I professori che, a norma dell'[art. 32 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sono collocati a disposizione del ministero degli affari esteri o di quello delle colonie per le loro rispettive scuole, e che siano da questi prescelti per ufficio direttivo, sono nominati presidi nei rispettivi ruoli degli istituti del Regno, purche' siano compresi nell'elenco degl'idonei ad ufficio direttivo di cui all'art. 57, o, se laureati, nei ruoli d'onore; e purche' concorra, nella scelta fatta dai ministri degli affari esteri o delle colonie, il consenso di quello della istruzione pubblica.
 
 ### Art. 149.
 
@@ -893,11 +893,11 @@ I presidi e i professori messi a disposizione dei ministeri degli affari esteri,
 
 ### Art. 151.
 
-Le disposizioni dell'[art. 31, comma 1°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_31-com1) e [3° del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_31-com3) e del precedente articolo si applicano anche al caso degl'insegnamenti che s'impartiscono da professori civili nella R. accademia navale.
+Le disposizioni dell'[art. 31, comma 1°](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [3° del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e del precedente articolo si applicano anche al caso degl'insegnamenti che s'impartiscono da professori civili nella R. accademia navale.
 
 ### Art. 152.
 
-Le modalita' dell'invio all'estero di professori di ruolo di lingua straniera, per il perfezionamento nella lingua da essi insegnata, a sensi dell'[art. 33 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_33), sono stabilite, di volta in volta, con apposita ordinanza dal Ministro della pubblica istruzione. 
+Le modalita' dell'invio all'estero di professori di ruolo di lingua straniera, per il perfezionamento nella lingua da essi insegnata, a sensi dell'[art. 33 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sono stabilite, di volta in volta, con apposita ordinanza dal Ministro della pubblica istruzione. 
  
  I professori che siano prescelti per le missioni all'estero, di cui al precedente comma, hanno diritto di conservare la sede che essi occupavano al momento dell'invio all'estero.
 
@@ -933,19 +933,19 @@ L'incaricato o il supplente, la cui nomina sia revocata a sensi del precedente a
 
 ### Art. 159.
 
-L'assegnazione degli incarichi e' fatta dai presidi, dopo sistemati i professori compresi nei ruoli transitori di cui agli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_11) e [13 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_13). 
+L'assegnazione degli incarichi e' fatta dai presidi, dopo sistemati i professori compresi nei ruoli transitori di cui agli [articoli 11](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md) e [13 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md). 
  
  L'assunzione di tali professori negli incarichi disponibili nei regi istituti medi d'istruzione viene fatta direttamente dal ministro, il cui provvedimento ha carattere definitivo.
 
 ### Art. 160.
 
-Per l'assegnazione delle classi aggiunte nella scuola complementare si applicano gli stessi criteri fissati dall'[art. 27 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_27), per le supplenze e per gl'incarichi, salvo quanto e' stabilito nell'art. 47 di questo regolamento.
+Per l'assegnazione delle classi aggiunte nella scuola complementare si applicano gli stessi criteri fissati dall'[art. 27 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), per le supplenze e per gl'incarichi, salvo quanto e' stabilito nell'art. 47 di questo regolamento.
 
 ### Art. 161.
 
 Chi intenda ottenere incarichi o supplenze nei regi istituti medi d'istruzione o classi aggiunte non costituenti cattedre di ruolo nella scuola complementare deve presentare domanda in carta legale al preside dell'istituto, entro il termine che viene fissato annualmente dal ministero e pubblicato sul Bollettino ufficiale. 
  
- Alla domanda debbono essere uniti, oltre alla ricevuta della tassa di L. 10 a norma dell'[art. 2 del R. decreto 16 novembre 1922, n. 1546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1546#art_2), il certificato di nascita, il titolo di abilitazione e tutti quei documenti che valgono ad attestare i titoli di preferenza dell'istante a norma dell'[art. 27, comma 1° del Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_27-com1), e i servizi prestati. 
+ Alla domanda debbono essere uniti, oltre alla ricevuta della tassa di L. 10 a norma dell'[art. 2 del R. decreto 16 novembre 1922, n. 1546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-16;1546#art_2), il certificato di nascita, il titolo di abilitazione e tutti quei documenti che valgono ad attestare i titoli di preferenza dell'istante a norma dell'[art. 27, comma 1° del Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e i servizi prestati. 
  
  Chi presenti domande a piu' presidi deve allegare i documenti di cui al precedente comma ad una sola delle domande, unendo invece a ciascuna delle altre, oltre alla ricevuta della tassa, un elenco dei documenti con l'indicazione del preside cui furono presentati. 
  
@@ -959,13 +959,13 @@ I presidi danno comunicazione della nomina direttamente agl'interessati, e media
 
 ### Art. 163.
 
-Entro dieci giorni dalla data dell'affissione di cui al precedente articolo, chi si ritenga leso puo' far ricorso al provveditore ai sensi dell'[art. 27, comma 2°, del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_27-com2), sempreche' abbia presentato in tempo debito domanda al preside e sia fornito del titolo di abilitazione a norma dell'art. 161. 
+Entro dieci giorni dalla data dell'affissione di cui al precedente articolo, chi si ritenga leso puo' far ricorso al provveditore ai sensi dell'[art. 27, comma 2°, del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sempreche' abbia presentato in tempo debito domanda al preside e sia fornito del titolo di abilitazione a norma dell'art. 161. 
  
  Oltre che sulla legittimita' del provvedimento impugnato, il provveditore decide anche in merito.
 
 ### Art. 164.
 
-Al pagamento delle retribuzioni al personale incaricato o supplente in base alle disposizioni della tabella 6 annessa al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), provvede il preside con buoni su appositi fondi messi a sua disposizione. 
+Al pagamento delle retribuzioni al personale incaricato o supplente in base alle disposizioni della tabella 6 annessa al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), provvede il preside con buoni su appositi fondi messi a sua disposizione. 
  
  Questa norma si applica dal 1° ottobre 1923 rimanendo revocato l'[art. 114 del R. decreto 27 settembre 1923, n. 2319](Regolamento%20sullo%20stato%20dei%20presidi%20e%20dei%20professori%20delle%20scuole%20medie%20governative.%20023U2319.md).
 
@@ -1155,7 +1155,7 @@ Il provveditore raccoglie le domande, vi aggiunge, ove occorra, le proprie osser
 
 Fino a tutto il 30 settembre 1926 possono essere assunti nel ruolo dei bidelli, senza concorso e senza limiti d'eta', gli antichi uscieri dell'amministrazione scolastica provinciale, che risultino di buona condotta e fisicamente validi, e gli attuali supplenti bidelli che abbiano prestato lodevole servizio nelle scuole medie per almeno tre anni scolastici. 
  
- La stessa disposizione si applica in favore dei bidelli che furono adibiti nelle scuole per le quali il servizio di pulizia e di custodia e' passato dallo Stato agli enti locali per effetto del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+ La stessa disposizione si applica in favore dei bidelli che furono adibiti nelle scuole per le quali il servizio di pulizia e di custodia e' passato dallo Stato agli enti locali per effetto del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 191.
 
@@ -1215,7 +1215,7 @@ Ai presidi, al personale insegnante e non insegnante e ai bidelli si applicano, 
 
 ### Art. 199.
 
-Per i professori inscritti nei ruoli transitori di cui agli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_11) e [13 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_13) e fino a che non conseguano un nuovo ufficio di ruolo, valgono, in tutto cio' che non sia disciplinato da leggi e regolamenti speciali e in quanto siano applicabili, le disposizioni comuni riguardanti i professori dei regi istituti medi d'istruzione.
+Per i professori inscritti nei ruoli transitori di cui agli [articoli 11](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md) e [13 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md) e fino a che non conseguano un nuovo ufficio di ruolo, valgono, in tutto cio' che non sia disciplinato da leggi e regolamenti speciali e in quanto siano applicabili, le disposizioni comuni riguardanti i professori dei regi istituti medi d'istruzione.
 
 ### Art. 200.
 

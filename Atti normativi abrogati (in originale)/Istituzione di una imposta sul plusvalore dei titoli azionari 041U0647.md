@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive disposizioni, che disciplina l'applicazione della tassa di bollo sui contratti di borsa;
+Visto il [R. decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive disposizioni, che disciplina l'applicazione della tassa di bollo sui contratti di borsa;
 
 Visto il R. decreto-1egge 15 dicembre 1938-XVII, n. 1975, convertito in legge con la legge 2 giugno 1939-XVII, n. 739, concernente il regime dell'imposta di negoziazione sui titoli delle societa';
 
@@ -34,11 +34,11 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo e del Ministro per le fin
 
 I contratti, fatti in borsa od anche fuori borsa, sia su Piazza che fuori piazza, tanto a contanti quanto a termine, fermi a premio o di riporto ed ogni altro contratto conforme agli usi commerciali, che abbiano per oggetto le azioni ed altri titoli a reddito variabile costituenti parte del capitale delle societa' commerciali e delle societa' civili considerate nell'art. 229 del Codice di commercio, ovvero le quote o carature comunque denominate, delle societa' commerciali e delle societa' civili sopra richiamate, quando tali quote o carature siano cedibili con effetto verso la societa', siano o meno i titoli sopra indicati quotati in borsa, quando non risultino da atto pubblico o da scrittura privata registrata, devono essere posti in essere con l'impiego di appositi foglietti bollati. Le caratteristiche, le modalita' e le norme di uso e di conservazione dei detti foglietti bollati sono determinate con decreto del Ministro per le finanze. 
  
- Fino a che non saranno posti in distribuzione gli appositi foglietti bollati di cui sopra, saranno usati i vigenti foglietti bollati per il contratti di borsa di cui al [R. decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), modificato dal R. decreto-legge 26 settembre 1935-XIII, n. 1749, all. H, convertito nella legge 20 maggio 1936-XIV, n. 1027.
+ Fino a che non saranno posti in distribuzione gli appositi foglietti bollati di cui sopra, saranno usati i vigenti foglietti bollati per il contratti di borsa di cui al [R. decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), modificato dal R. decreto-legge 26 settembre 1935-XIII, n. 1749, all. H, convertito nella legge 20 maggio 1936-XIV, n. 1027.
 
 ## Art. 2.
 
-Indipendentemente dalle tasse sui contratti di borsa di cui al [R. decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, sul maggior valore conseguito nelle cessioni dei titoli di cui al precedente art. 1. quotati in borsa, e' dovuta una speciale imposta progressiva nella misura e giusta le norme del presente decreto. 
+Indipendentemente dalle tasse sui contratti di borsa di cui al [R. decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, sul maggior valore conseguito nelle cessioni dei titoli di cui al precedente art. 1. quotati in borsa, e' dovuta una speciale imposta progressiva nella misura e giusta le norme del presente decreto. 
  
  1. - Il maggior valore soggetto ad imposta e' quello costituito dalla differenza fra il prezzo di cessione del titolo ed un prezzo o valore di riferimento determinato giusta le norme seguenti: 
  
@@ -161,7 +161,7 @@ L'imposta di cui al precedente art. 2, deve essere corrisposta:
 
 ## Art. 12.
 
-Trovano applicazione nei riguardi dell'imposta stabilita dall'art. 2 tutte le disposizioni del [R. decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md) e' successive modificazioni; che non siano incompatibili con quelle stabilite nel presente decreto. L'ultimo comma dell'art. 13 del citato Regio decreto e' abrogato.
+Trovano applicazione nei riguardi dell'imposta stabilita dall'art. 2 tutte le disposizioni del [R. decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md) e' successive modificazioni; che non siano incompatibili con quelle stabilite nel presente decreto. L'ultimo comma dell'art. 13 del citato Regio decreto e' abrogato.
 
 ## Art. 13.
 
@@ -173,7 +173,7 @@ Chiunque ponga in essere i contratti previsti dall'art. 1 senza il pagamento del
  
  Nella stessa pena pecuniaria incorrono gli agenti di cambio e le aziende di credito per l'omessa registrazione e trasmissione, nei termini stabiliti, dei documenti e delle copie di cui all'art. 2, n. 2, ed all'art. 6, secondo comma. 
  
- La pena dell'ammenda stabilita dall'[art. 17, comma primo](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md) e [quarto](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e dall'[art. 20, comma primo, del R. decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e' sostituita dalla pena pecuniaria da L. 50 a L. 200 e quella comminata dall'art. 17, comma 6°, dello stesso Regio decreto, e' sostituita dalla pena pecuniaria da L. 200 a L. 2000. 
+ La pena dell'ammenda stabilita dall'[art. 17, comma primo](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md) e [quarto](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e dall'[art. 20, comma primo, del R. decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e' sostituita dalla pena pecuniaria da L. 50 a L. 200 e quella comminata dall'art. 17, comma 6°, dello stesso Regio decreto, e' sostituita dalla pena pecuniaria da L. 200 a L. 2000. 
  
  Le pene pecuniarie di cui al comma precedente si applicano anche ai fini del presente decreto. 
  

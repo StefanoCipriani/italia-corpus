@@ -18,7 +18,7 @@ Visto il [R. decreto 2 agosto 1912, n. 950](Che%20approva%20lannesso%20regolamen
 
 Visto il [decreto Luogotenenziale 8 giugno 1919, n. 1153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-08;1153), relativo agli assegni da corrispondersi ai gestori di magazzino e di cassa dei dipartimenti militari marittimi;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), riguardante disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), riguardante disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Visto il [R. decreto 2 giugno 1924, n. 931](Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), relativo agli assegni a terra da corrispondersi ai personali civili e miliari della Regia marina;
 

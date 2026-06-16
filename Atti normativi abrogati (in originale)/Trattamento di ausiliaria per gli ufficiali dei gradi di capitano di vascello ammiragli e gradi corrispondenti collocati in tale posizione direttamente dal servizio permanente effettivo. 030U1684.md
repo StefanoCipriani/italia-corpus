@@ -37,7 +37,7 @@ Agli ufficiali dei gradi di capitano di vascello, di ammiragli e gradi corrispon
 
 ## Art. 7.
 
-A modificazione del [secondo comma dell'articolo 62 del Regio decreto n. 2007, in data 7 novembre 1929](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), gli ammiragli di divisione collocati in soprannumero rimangono fuori dei quadri organici senza poter ulteriormente aspirare all'avanzamento fino al raggiungimento del limite di eta' stabilito per il loro grado, non oltre pero' un periodo massimo di 3 anni, allo scadere dei quali cessano dal servizio permanente mediante collocamento in ausiliaria col trattamento previsto dalla presente legge od a riposo, a seconda della loro idoneita'.
+A modificazione del [secondo comma dell'articolo 62 del Regio decreto n. 2007, in data 7 novembre 1929](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), gli ammiragli di divisione collocati in soprannumero rimangono fuori dei quadri organici senza poter ulteriormente aspirare all'avanzamento fino al raggiungimento del limite di eta' stabilito per il loro grado, non oltre pero' un periodo massimo di 3 anni, allo scadere dei quali cessano dal servizio permanente mediante collocamento in ausiliaria col trattamento previsto dalla presente legge od a riposo, a seconda della loro idoneita'.
 
 ## Art. 8.
 

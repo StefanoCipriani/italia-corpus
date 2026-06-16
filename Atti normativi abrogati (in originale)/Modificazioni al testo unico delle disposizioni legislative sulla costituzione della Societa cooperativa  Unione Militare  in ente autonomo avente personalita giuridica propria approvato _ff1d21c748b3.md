@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative sulla costituzione della Societa' cooperativa « Unione Militare » in ente autonomo avente personalita' giuridica propria, approvato con [R. decreto 22 gennaio 1928, n. 166](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20028U0166.md);
+Visto il testo unico delle disposizioni legislative sulla costituzione della Societa' cooperativa « Unione Militare » in ente autonomo avente personalita' giuridica propria, approvato con [R. decreto 22 gennaio 1928, n. 166](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20028U0166.md);
 
 Ritenuta la necessita' urgente ed assoluta di modificare l'amministrazione dell'« Unione Militare » in modo da rendere piu' agile il suo funzionamento;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Nel testo unico delle disposizioni legislative sulla costituzione della Societa' cooperativa « Unione Militare » in ente autonomo avente personalita' giuridica propria, approvato con [R. decreto 22 gennaio 1928, n. 166](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20028U0166.md), sono apportate le seguenti modificazioni: 
+Nel testo unico delle disposizioni legislative sulla costituzione della Societa' cooperativa « Unione Militare » in ente autonomo avente personalita' giuridica propria, approvato con [R. decreto 22 gennaio 1928, n. 166](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20028U0166.md), sono apportate le seguenti modificazioni: 
  
  Art. 1 (secondo comma) - Art. 3 (secondo comma) - Articolo 10 (ultimo comma) - Art. 11 (primo comma) - Art. 15 (primo, quarto, quinto ed ultimo comma) - Art. 17 (primo comma). Alle parole: « per l'economia nazionale » sono sostituite le seguenti: « per le corporazioni ». 
  
@@ -70,7 +70,7 @@ Art
 
 2.
 
-Con decreto Reale da emanarsi su proposta del Ministro per la guerra, di concerto con quelli per la marina, per l'aeronautica, per la grazia e giustizia, per le finanze e per le corporazioni, sara' provveduto anche alla modificazione del vigente regolamento generale pel funzionamento dell'« Unione Militare », approvato con [R. decreto 10 febbraio 1927, n. 414](Approvazione%20del%20regolamento%20generale%20pel%20funzionamento%20dellUnione%20Militare%20costituita%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20027U0414.md).
+Con decreto Reale da emanarsi su proposta del Ministro per la guerra, di concerto con quelli per la marina, per l'aeronautica, per la grazia e giustizia, per le finanze e per le corporazioni, sara' provveduto anche alla modificazione del vigente regolamento generale pel funzionamento dell'« Unione Militare », approvato con [R. decreto 10 febbraio 1927, n. 414](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20pel%20funzionamento%20dellUnione%20Militare%20costituita%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20027U0414.md).
 
 ## Art. 3.
 

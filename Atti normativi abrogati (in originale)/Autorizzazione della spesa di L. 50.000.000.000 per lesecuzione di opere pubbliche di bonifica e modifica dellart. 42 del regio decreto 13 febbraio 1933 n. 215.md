@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' autorizzata la spesa di lire 50 miliardi per provvedere all'esecuzione di opere pubbliche di bonifica, ai sensi del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215). 
+E' autorizzata la spesa di lire 50 miliardi per provvedere all'esecuzione di opere pubbliche di bonifica, ai sensi del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md). 
  La spesa di cui al precedente comma sara' iscritta nello stato di previsione dei Ministero dell'agricoltura e delle foreste in ragione di: 
  
  lire 3,5 miliardi per l'esercizio finanziario 1957-58 
@@ -32,7 +32,7 @@ E' autorizzata la spesa di lire 50 miliardi per provvedere all'esecuzione di ope
 
 ## Art. 2.
 
-Il [comma primo dell'art. 42 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_42-com1), e' sostituito dal seguente "Quando il termine assegnato ai proprietari per la esecuzione delle opere di interesse dei loro fondi sia scaduto, o quando, prima della scadenza, gia' risulti impossibile l'esecuzione delle opere entro il termine stesso, il Ministro per l'agricoltura e le foreste, obbliga il Consorzio ad eseguire le opere a spese dei proprietari, ovvero espropria gli immobili dei proprietari inadempienti a favore degli Enti di riforma agraria, dell'Ente di irrigazione di Puglia e Lucania, della Opera nazionale combattenti o altri enti similari".
+Il [comma primo dell'art. 42 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' sostituito dal seguente "Quando il termine assegnato ai proprietari per la esecuzione delle opere di interesse dei loro fondi sia scaduto, o quando, prima della scadenza, gia' risulti impossibile l'esecuzione delle opere entro il termine stesso, il Ministro per l'agricoltura e le foreste, obbliga il Consorzio ad eseguire le opere a spese dei proprietari, ovvero espropria gli immobili dei proprietari inadempienti a favore degli Enti di riforma agraria, dell'Ente di irrigazione di Puglia e Lucania, della Opera nazionale combattenti o altri enti similari".
 
 ## Art. 3.
 

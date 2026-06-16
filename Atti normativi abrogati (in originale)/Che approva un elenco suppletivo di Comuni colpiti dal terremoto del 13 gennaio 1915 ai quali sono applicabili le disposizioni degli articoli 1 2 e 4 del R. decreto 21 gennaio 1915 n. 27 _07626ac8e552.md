@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli elenchi A e B approvati col [R. decreto 22 aprile 1915, n. 542](Che%20approva%20un%20elenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicabili%20le%20disposizioni%20degli%20articoli%201%202%20e%204%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027%20convertito_a645e6b9bb2c.md), ed ai soli effetti previsti nel decreto stesso sono rispettivamente aggiunti i Comuni indicati negli annessi elenchi I e II, visti, d'ordine Nostro, dai ministri proponenti.
+Agli elenchi A e B approvati col [R. decreto 22 aprile 1915, n. 542](../Regi%20decreti/Che%20approva%20un%20elenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicabili%20le%20disposizioni%20degli%20articoli%201%202%20e%204%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027%20convertito_a645e6b9bb2c.md), ed ai soli effetti previsti nel decreto stesso sono rispettivamente aggiunti i Comuni indicati negli annessi elenchi I e II, visti, d'ordine Nostro, dai ministri proponenti.
 
 ## Art. 2.
 

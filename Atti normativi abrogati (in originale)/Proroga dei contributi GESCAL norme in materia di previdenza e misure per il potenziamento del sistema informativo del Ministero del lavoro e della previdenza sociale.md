@@ -60,7 +60,7 @@ Le disposizioni di cui agli [articoli 16](https://www.normattiva.it/uri-res/N2Ls
 
 1.
 
-Il termine per lo sgravio contributivo di cui all'articolo 59 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive modificazioni ed integrazioni, e' differito fino a tutto il periodo di paga in corso al 30 novembre 1988. Si applicano le disposizioni di cui ai [commi 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-12-30;536#art_1-com11) e [12 dell'articolo 1 del decreto-legge 30 dicembre 1987, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-12-30;536#art_1-com12).
+Il termine per lo sgravio contributivo di cui all'articolo 59 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive modificazioni ed integrazioni, e' differito fino a tutto il periodo di paga in corso al 30 novembre 1988. Si applicano le disposizioni di cui ai [commi 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-12-30;536#art_1-com11) e [12 dell'articolo 1 del decreto-legge 30 dicembre 1987, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-12-30;536#art_1-com12).
 
 2.
 

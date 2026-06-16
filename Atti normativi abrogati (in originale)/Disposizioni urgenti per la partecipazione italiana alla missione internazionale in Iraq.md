@@ -112,7 +112,7 @@ Per la finalita' di cui al presente articolo e' autorizzata, per l'anno 2006, la
 
 1.
 
-Con decorrenza dalla data di entrata nel territorio, nelle acque territoriali e nello spazio aereo dei Paesi interessati e fino alla data di uscita dagli stessi per il rientro nel territorio nazionale, al personale di cui all'articolo 5, comma 1, e' corrisposta per tutta la durata del periodo, in aggiunta allo stipendio o alla paga e agli altri assegni a carattere fisso e continuativo, l'indennita' di missione di cui al [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), nella misura del 98 per cento, detraendo eventuali indennita' e contributi corrisposti agli interessati direttamente dagli organismi internazionali.
+Con decorrenza dalla data di entrata nel territorio, nelle acque territoriali e nello spazio aereo dei Paesi interessati e fino alla data di uscita dagli stessi per il rientro nel territorio nazionale, al personale di cui all'articolo 5, comma 1, e' corrisposta per tutta la durata del periodo, in aggiunta allo stipendio o alla paga e agli altri assegni a carattere fisso e continuativo, l'indennita' di missione di cui al [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), nella misura del 98 per cento, detraendo eventuali indennita' e contributi corrisposti agli interessati direttamente dagli organismi internazionali.
 
 2.
 

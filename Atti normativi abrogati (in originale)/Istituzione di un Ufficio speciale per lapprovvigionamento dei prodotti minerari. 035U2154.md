@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 8 giugno 1925, n. 969](Organizzazione%20della%20Nazione%20per%20la%20guerra.%20025U0969.md);
 
-Visto il [R. decreto 1° aprile 1935, n. 412](Disposizioni%20circa%20la%20istituzione%20di%20uffici%20speciali%20di%20mobilitazione%20civile.%20035U0412.md);
+Visto il [R. decreto 1° aprile 1935, n. 412](../Regi%20decreti/Disposizioni%20circa%20la%20istituzione%20di%20uffici%20speciali%20di%20mobilitazione%20civile.%20035U0412.md);
 
 Riconosciuta la necessita' urgente ed assoluta di istituire alle dipendenze del Ministero nelle corporazioni, l'Ufficio speciale per l'approvvigionamento dei prodotti minerari (nazionali);
 
@@ -46,7 +46,7 @@ Spetta all'Ufficio Prodotti Minerari di:
  
  1° impartire ai titolari dei permessi e delle concessioni minerarie, sotto pena di decadenza in caso di inadempienza, disposizioni per la ripresa o intensificazione dei lavori; 
  
- 2° interrompere o ridurre i termini nei casi in cui sia stata autorizzata la sospensione dei lavori nelle miniere ai sensi dell'[articolo 26 del R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_26); 
+ 2° interrompere o ridurre i termini nei casi in cui sia stata autorizzata la sospensione dei lavori nelle miniere ai sensi dell'[articolo 26 del R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md); 
  
  3° proporre al Ministro per le corporazioni la requisizione di miniere, cave e torbiere e di stabilimenti per la elaborazione dei minerali, per assumerne la gestione diretta o per cederli in esercizio a chi offra opportune garanzie per l'esplicazione di una piu' intensa attivita' produttiva; 
  

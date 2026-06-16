@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il Governo del Re ha facolta', in caso di guerra e durante la guerra medesima, di emanare disposizioni aventi valore di legge per quanto sia richiesto dalla difesa dello Stato, dalla tutela dell'ordine pubblico e da urgenti o straordinari bisogni della economia nazionale. Restano ferme le disposizioni di cui agli articoli 243 a 251 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+ Il Governo del Re ha facolta', in caso di guerra e durante la guerra medesima, di emanare disposizioni aventi valore di legge per quanto sia richiesto dalla difesa dello Stato, dalla tutela dell'ordine pubblico e da urgenti o straordinari bisogni della economia nazionale. Restano ferme le disposizioni di cui agli articoli 243 a 251 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  Il Governo del Re ha facolta' di ordinare le spese necessarie e di provvedere con mezzi straordinari ai bisogni del tesoro. 
  

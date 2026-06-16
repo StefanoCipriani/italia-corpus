@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento amministrativo contabile per le colonie;
+Visto il [R. decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), che approva l'ordinamento amministrativo contabile per le colonie;
 
 Visto il [R. decreto-legge 13 agosto 1926, n. 1634](Proroga%20del%20termine%20stabilito%20per%20lapplicazione%20dellordinamento%20amministrativo-contabile%20nei%20riguardi%20della%20Colonia%20Eritrea%20e%20della%20Somalia%20Italiana.%20026U1634.md), che proroga al 1° gennaio 1927 il termine per l'applicazione dell'ordinamento stesso per la Colonia Eritrea e la Somalia;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le colonie, di concer
 
 ## Art. 1.
 
-Il termine per l'applicazione nella Colonia Eritrea e nella Somalia dell'ordinamento amministrativo contabile per le colonie, approvato col [R. decreto 26 giugno 1925, n. 1271](Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), e' ulteriormente prorogato al 1° luglio 1927.
+Il termine per l'applicazione nella Colonia Eritrea e nella Somalia dell'ordinamento amministrativo contabile per le colonie, approvato col [R. decreto 26 giugno 1925, n. 1271](../Regi%20decreti/Approvazione%20dellordinamento%20per%20la%20gestione%20amministrativa-contabile%20delle%20Colonie.%20025U1271.md), e' ulteriormente prorogato al 1° luglio 1927.
 
 ## Art. 2.
 

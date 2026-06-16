@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;808), col quale i comuni di Brovida e di Santa Giulia sono stati soppressi ed i rispettivi territori aggregati parte al comune di Dego e parte a quelli di Cairo Montenotte e di Piana Crixia; 
+ Visto il [R. decreto 28 marzo 1929, n. 808](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Piana%20Crixia%20di%20parti%20di%20territorio%20del%20comune%20di%20Santa%20Giulia%20al%20comune%20di%20Cairo%20Montenotte%20della%20frazione%20Monti%20del%20comune%20di%20Brovida%20e%20al%20comune%20di%20Dego%20del%20r_49aca8ae6c69.md), col quale i comuni di Brovida e di Santa Giulia sono stati soppressi ed i rispettivi territori aggregati parte al comune di Dego e parte a quelli di Cairo Montenotte e di Piana Crixia; 
  
  Vista la deliberazione del podesta' di Dego rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Brovida e di Santa Giulia; 
  

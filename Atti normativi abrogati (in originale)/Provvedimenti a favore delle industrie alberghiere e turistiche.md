@@ -16,7 +16,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [R. decreto legislativo 10 maggio 1946, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-10;262);
+Visto il [R. decreto legislativo 10 maggio 1946, n. 262](../Regi%20decreti%20legislativi/Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
 Visto il [R. Decreto-legge 16 settembre 1937, n. 1669](Provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20037U1669.md), convertito nella [legge 13 gennaio 1938, n. 287](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2016%20settembre%201937-XV%20n.%201669%20portante%20provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20038U0287.md), concernente provvedimenti a favore delle industrie alberghiere, nonche' le modificazioni alla stessa, contenute nelle [leggi 4 aprile 1940, n. 374, e 24 novembre 1941, n. 1506](Modificazioni%20al%20R.%20decreto-legge%2016%20settembre%201937-XV%20n.%201669%20e%20alla%20legge%204%20aprile%201940-XVIII%20n.%20374%20contenenti%20provvedimenti%20a%20favore%20delle%20industrie%20alberghiere.%20041U1506.md);
 

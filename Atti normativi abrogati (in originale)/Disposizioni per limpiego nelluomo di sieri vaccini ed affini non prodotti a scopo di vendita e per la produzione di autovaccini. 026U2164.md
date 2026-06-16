@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
 
-Veduto il regolamento per la fabbricazione e la vendita dei vaccini, virus, sieri curativi e prodotti affini, approvato con il [R. decreto 18 giugno 1905, n. 407](Approvazione%20e%20pubblicazione%20del%20regolamento%20per%20la%20vendita%20dei%20vaccini%20virus%20sieri%20curativi%20tossine%20e%20ogni%20altro%20prodotto%20affine.%20005U0407.md);
+Veduto il regolamento per la fabbricazione e la vendita dei vaccini, virus, sieri curativi e prodotti affini, approvato con il [R. decreto 18 giugno 1905, n. 407](../Regi%20decreti/Approvazione%20e%20pubblicazione%20del%20regolamento%20per%20la%20vendita%20dei%20vaccini%20virus%20sieri%20curativi%20tossine%20e%20ogni%20altro%20prodotto%20affine.%20005U0407.md);
 
 Veduto il [R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-L'impiego nell'uomo dei prodotti terapeutici od immunizzanti, contemplati dall'[art. 132 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_132) 1° agosto 1907, n. 636, e dall'[art. 12 del R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), anche se non preparati a scopo di vendita, e che non siano autorizzati a norma del citato art. 132, e' consentito solo in istituti pubblici di carattere ospedaliero, siano o non universitari, ed in pubblici ambulatori autorizzati dal Prefetto, sotto la responsabilita' del dirigente l'istituto, il reparto o l'ambulatorio nel quale avviene l'impiego stesso. 
+L'impiego nell'uomo dei prodotti terapeutici od immunizzanti, contemplati dall'[art. 132 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e dall'[art. 12 del R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), anche se non preparati a scopo di vendita, e che non siano autorizzati a norma del citato art. 132, e' consentito solo in istituti pubblici di carattere ospedaliero, siano o non universitari, ed in pubblici ambulatori autorizzati dal Prefetto, sotto la responsabilita' del dirigente l'istituto, il reparto o l'ambulatorio nel quale avviene l'impiego stesso. 
  
  Dell'impiego il nominato dirigente deve conservare esatta registrazione e dare notizia scritta al capo dell'Amministrazione o dell'Ente, dal quale l'istituto, il reparto l'ambulatorio dipendono. 
  
@@ -48,11 +48,11 @@ La preparazione degli « autovaccini » deve effettuarsi esclusivamente presso i
 
 ## Art. 4.
 
-Ai contravventori si applicano le disposizioni di cui all'[art. 135 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_135) 1° agosto 1907, n. 636.
+Ai contravventori si applicano le disposizioni di cui all'[art. 135 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636.
 
 ## Art. 5.
 
-Il Ministero dell'interno pubblica annualmente l'elenco dei prodotti dei quali e' autorizzata la vendita a norma dell'[art. 132 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_132), e dell'[articolo 12 del R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md). 
+Il Ministero dell'interno pubblica annualmente l'elenco dei prodotti dei quali e' autorizzata la vendita a norma dell'[art. 132 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e dell'[articolo 12 del R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md). 
  
  Di ogni nuova autorizzazione e' dato annunzio nella Gazzetta Ufficiale del Regno.
 

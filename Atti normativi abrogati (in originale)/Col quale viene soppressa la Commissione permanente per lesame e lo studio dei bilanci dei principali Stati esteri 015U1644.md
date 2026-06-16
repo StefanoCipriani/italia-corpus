@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visti i RR. decreti in data 9 giugno 1904 e 26 luglio 1906, coi quali venne provveduto alla nomina dei componenti la Commissione medesima; 
  
- Visto il [R. decreto in data 12 gennaio 1911, n. 16](Che%20conferma%20alcuni%20membri%20e%20ne%20nomina%20dei%20nuovi%20nella%20Commissione%20permanente%20per%20lo%20studio%20dei%20bilanci%20dei%20principali%20Stati%20esteri.%20011U0016.md), con cui si confermarono alcuni membri e se ne aggiunsero dei nuovi alla Commissione predetta; 
+ Visto il [R. decreto in data 12 gennaio 1911, n. 16](../Regi%20decreti/Che%20conferma%20alcuni%20membri%20e%20ne%20nomina%20dei%20nuovi%20nella%20Commissione%20permanente%20per%20lo%20studio%20dei%20bilanci%20dei%20principali%20Stati%20esteri.%20011U0016.md), con cui si confermarono alcuni membri e se ne aggiunsero dei nuovi alla Commissione predetta; 
  
  Premesso che si e' riconosciuto non necessario mantenere in funzione tale Commissione; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La Commissione permanente per l'esame e lo studio dei bilanci dei principali Stati esteri, istituita presso il Ministero del tesoro coi RR. decreti 21 aprile 1904, n. 268, e 6 maggio 1906, n. 209, e ricostituita poi definitivamente col [R. decreto 12 gennaio 1911, n. 16](Che%20conferma%20alcuni%20membri%20e%20ne%20nomina%20dei%20nuovi%20nella%20Commissione%20permanente%20per%20lo%20studio%20dei%20bilanci%20dei%20principali%20Stati%20esteri.%20011U0016.md), e' soppressa. 
+ La Commissione permanente per l'esame e lo studio dei bilanci dei principali Stati esteri, istituita presso il Ministero del tesoro coi RR. decreti 21 aprile 1904, n. 268, e 6 maggio 1906, n. 209, e ricostituita poi definitivamente col [R. decreto 12 gennaio 1911, n. 16](../Regi%20decreti/Che%20conferma%20alcuni%20membri%20e%20ne%20nomina%20dei%20nuovi%20nella%20Commissione%20permanente%20per%20lo%20studio%20dei%20bilanci%20dei%20principali%20Stati%20esteri.%20011U0016.md), e' soppressa. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

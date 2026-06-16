@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 3 gennaio 1929, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-03;57), col quale le frazioni Macerino e Portaria del comune di Acquasparta, venivano aggregate al comune di Terni; 
+ Veduto il [R. decreto 3 gennaio 1929, n. 57](../Regi%20decreti/Distacco%20dal%20comune%20di%20Terni%20ed%20aggregazione%20a%20quello%20di%20Acquasparta%20delle%20frazioni%20Macerino%20e%20Portaria.%20029U0057.md), col quale le frazioni Macerino e Portaria del comune di Acquasparta, venivano aggregate al comune di Terni; 
  Veduto l'[art. 5 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md); 
- Veduto che le variazioni territoriali disposte dal citato [R. decreto 3 gennaio 1929, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-03;57), ebbero attuazione a decorrere dal 1° settembre 1929: 
+ Veduto che le variazioni territoriali disposte dal citato [R. decreto 3 gennaio 1929, n. 57](../Regi%20decreti/Distacco%20dal%20comune%20di%20Terni%20ed%20aggregazione%20a%20quello%20di%20Acquasparta%20delle%20frazioni%20Macerino%20e%20Portaria.%20029U0057.md), ebbero attuazione a decorrere dal 1° settembre 1929: 
  Veduta la deliberazione del podesta' di Terni e quelle del Regio provveditore agli studi di Perugia; 
  Veduto l'[art. 2 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md); Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; 
  

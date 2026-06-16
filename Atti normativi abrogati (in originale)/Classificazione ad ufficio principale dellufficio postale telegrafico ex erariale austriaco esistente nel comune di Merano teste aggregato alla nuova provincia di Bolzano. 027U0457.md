@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 gennaio 1923, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-21;93), che istituisce la provincia di Trento;
+Visto il [R. decreto 21 gennaio 1923, n. 93](../Regi%20decreti/Che%20istituisce%20la%20provincia%20di%20Trento%20con%20capoluogo%20Trento.%20023U0093.md), che istituisce la provincia di Trento;
 
 Visto il decreto Ministeriale del 14 maggio 1925, registrato alla Corte dei conti addi' 6 maggio 1926, che istituisce la Direzione provinciale delle poste e dei telegrafi di Trento;
 

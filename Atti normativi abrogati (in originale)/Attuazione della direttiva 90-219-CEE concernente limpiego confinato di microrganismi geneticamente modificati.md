@@ -35,7 +35,7 @@ Il presente decreto stabilisce le misure per l'impiego confinato dei microorgani
 Il Ministro della sanita' coordina le attivita' amministrative e tecnico-scientifiche relative alla integrale attuazione delle misure contenute nel presente decreto, d'intesa, per quanto di rispettiva competenza, con i Ministri dell'ambiente, del lavoro e della previdenza sociale, dell'agricoltura e delle foreste, dell'industria, del commercio e dell'artigianato e dell'universita' e della ricerca scientifica e tecnologica.
 
 AVVERTENZA:
- Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2.
 
@@ -341,7 +341,7 @@ Per limitare gli effetti dannosi alla salute umana ed all'ambiente nel caso di i
 
 2.
 
-Il piano di emergenza di cui al comma 1 e' predisposto dal prefetto avvalendosi della collaborazione del comitato di cui all'[art. 14 del decreto del Presidente della Repubblica 6 febbraio 1981, n. 66](../DPR/Regolamento%20di%20esecuzione%20della%20legge%208%20dicembre%201970%20n.%20996%20recante%20norme%20sul%20soccorso%20e%20lassistenza%20alle%20popolazioni%20colpite%20da%20calamita.%20Protezione%20civile.md), sulla base delle informazioni tecniche contenute nelle notifiche fornite dal Ministero della sanita' e della relativa valutazione espressa dalla commissione interministeriale di cui all'art. 15.
+Il piano di emergenza di cui al comma 1 e' predisposto dal prefetto avvalendosi della collaborazione del comitato di cui all'[art. 14 del decreto del Presidente della Repubblica 6 febbraio 1981, n. 66](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%208%20dicembre%201970%20n.%20996%20recante%20norme%20sul%20soccorso%20e%20lassistenza%20alle%20popolazioni%20colpite%20da%20calamita.%20Protezione%20civile.md), sulla base delle informazioni tecniche contenute nelle notifiche fornite dal Ministero della sanita' e della relativa valutazione espressa dalla commissione interministeriale di cui all'art. 15.
 
 3.
 

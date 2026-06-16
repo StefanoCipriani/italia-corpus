@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
-Visto il [R. decreto 6 gennaio 1927, n. 57](Modificazioni%20agli%20articoli%2051%20e%2052%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20sullo%20stato%20giuridico%20degli%20impiegati%20dellAmministrazione%20dello%20Stato.%20027U0057.md), col quale sono stati modificati gli [articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_51) e [52 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_52), sopracitato;
+Visto il [R. decreto 6 gennaio 1927, n. 57](Modificazioni%20agli%20articoli%2051%20e%2052%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20sullo%20stato%20giuridico%20degli%20impiegati%20dellAmministrazione%20dello%20Stato.%20027U0057.md), col quale sono stati modificati gli [articoli 51](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [52 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sopracitato;
 
 Ritenuta la necessita' di meglio disciplinare le norme che regolano la dispensa dal servizio dei funzionari e degli impiegati di pubblica sicurezza;
 

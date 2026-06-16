@@ -14,13 +14,13 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 5 settembre 1895 n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), col quale fu approvato il regolamento per le pensioni;
+Visto il [R. decreto 5 settembre 1895 n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), col quale fu approvato il regolamento per le pensioni;
 
 Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Agli effetti dell'art. 12 del regolamento sulle pensioni, approvato col [R. decreto 5 settembre 1895 n. 603, il parere](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603) sulla dispensa del servizio, sia per inabilita', sia per ragioni di servizio, sia per motivi disciplinari del personale dipendente dal Ministero di Agricoltura, Industria e Commercio, designato qui appresso, e' dato dalle Commissioni rispettivamente indicate; 
+Agli effetti dell'art. 12 del regolamento sulle pensioni, approvato col [R. decreto 5 settembre 1895 n. 603, il parere](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md) sulla dispensa del servizio, sia per inabilita', sia per ragioni di servizio, sia per motivi disciplinari del personale dipendente dal Ministero di Agricoltura, Industria e Commercio, designato qui appresso, e' dato dalle Commissioni rispettivamente indicate; 
  
  a) per il personale dell'Amministrazione dei pesi e delle misure e del saggio e marchio dei metalli preziosi (meno gli ispettori centrali) - dalla Commissione superiore metrica e del saggio delle monete e dei metalli preziosi; 
  

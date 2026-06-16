@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 9 giugno 1921, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-09;898), col quale viene costituito il Registro italiano per la visita e classificazione delle navi e dei galleggianti;
+Visto il [R. decreto 9 giugno 1921, n. 898](../Regi%20decreti/applicazione%20di%20tassa%20di%20esercizio%20ed%20erezione%20in%20ente%20morale%20021U0898.md), col quale viene costituito il Registro italiano per la visita e classificazione delle navi e dei galleggianti;
 
 Visto il [R. decreto-legge 11 novembre 1926, n. 2138](Riordinamento%20del%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi.%20026U2138.md), convertito in [legge 16 febbraio 1928, n. 337](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20novembre%201926%20n.%202138%20che%20riordina%20il%20Registro%20italiano%20per%20la%20classificazione%20delle%20navi.%20028U0337.md), sul riordinamento del Registro italiano;
 

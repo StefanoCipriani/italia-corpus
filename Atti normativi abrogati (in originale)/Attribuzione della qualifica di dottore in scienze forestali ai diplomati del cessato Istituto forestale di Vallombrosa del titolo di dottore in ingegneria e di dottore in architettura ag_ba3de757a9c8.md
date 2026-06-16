@@ -14,7 +14,7 @@ A tutti coloro i quali hanno conseguito il diploma di perito forestale presso il
 
 ## Art. 2.
 
-Le disposizioni di cui all'[art. 1 del R. decreto-legge 26 giugno 1930, n. 964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-06-26;964#art_1), e all'[art. 46 del R. decreto-legge 28 agosto 1931, n. 1227](Disposizioni%20sullistruzione%20superiore.%20031U1227.md), relative all'uso delle qualifiche di «dottore in ingegneria» e «dottore in architettura» vengono estese anche agli ingegneri ed architetti contemplati dall'art. 73 del regolamento per le professioni di ingegnere e di architetto, approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537).
+Le disposizioni di cui all'[art. 1 del R. decreto-legge 26 giugno 1930, n. 964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-06-26;964#art_1), e all'[art. 46 del R. decreto-legge 28 agosto 1931, n. 1227](Disposizioni%20sullistruzione%20superiore.%20031U1227.md), relative all'uso delle qualifiche di «dottore in ingegneria» e «dottore in architettura» vengono estese anche agli ingegneri ed architetti contemplati dall'art. 73 del regolamento per le professioni di ingegnere e di architetto, approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md).
 
 ## Art. 3.
 

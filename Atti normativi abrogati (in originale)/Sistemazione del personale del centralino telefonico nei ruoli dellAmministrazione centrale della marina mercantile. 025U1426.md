@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [R. decreto 27 marzo 1924, n. 518](Ordinamento%20organico%20del%20Commissariato%20per%20i%20servizi%20della%20marina%20mercantile.%20024U0518.md);
+Visto il [R. decreto 27 marzo 1924, n. 518](../Regi%20decreti/Ordinamento%20organico%20del%20Commissariato%20per%20i%20servizi%20della%20marina%20mercantile.%20024U0518.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,15 +24,15 @@ Sulla proposta del Ministro per le comunicazioni di concerto con quello per le f
 
 ## Art. 1.
 
-E' istituito presso l'Amministrazione centrale della marina mercantile un ruolo di tre posti di telefoniste (Gruppo C) comprendente i gradi dodicesimo e tredicesimo della tabella allegato III al [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+E' istituito presso l'Amministrazione centrale della marina mercantile un ruolo di tre posti di telefoniste (Gruppo C) comprendente i gradi dodicesimo e tredicesimo della tabella allegato III al [R. decreto 11 novembre 1923, numero 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 
-La tabella organica della carriera d'ordine dell'Amministrazione centrale della marina mercantile n. 79 dell'allegato II del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' diminuita di tre posti nel grado dodicesimo (applicato).
+La tabella organica della carriera d'ordine dell'Amministrazione centrale della marina mercantile n. 79 dell'allegato II del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' diminuita di tre posti nel grado dodicesimo (applicato).
 
 ## Art. 3.
 
-La promozione dal grado tredicesimo al grado dodicesimo nel ruolo di cui all'art. 1 del presente decreto ha luogo secondo le norme dell'[art. 12 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+La promozione dal grado tredicesimo al grado dodicesimo nel ruolo di cui all'art. 1 del presente decreto ha luogo secondo le norme dell'[art. 12 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ### Art. 4.
 

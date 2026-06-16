@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge n. 1127 del 23 maggio 1924](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), riguardante l'ordinamento delle ricevitorie postali, telegrafiche, telefoniche e del relativo personale;
 
-Visto il [R. decreto n. 2225 del 27 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;2225), concernente la istituzione di una Cassa mutua per le cauzioni dei ricevitori postali telegrafici;
+Visto il [R. decreto n. 2225 del 27 settembre 1923](../Regi%20decreti/Istituzione%20di%20una%20Cassa%20mutua%20per%20le%20cauzioni%20dei%20ricevitori%20postali-telegrafici.%20023U2225.md), concernente la istituzione di una Cassa mutua per le cauzioni dei ricevitori postali telegrafici;
 
 Inteso il Consiglio dei Ministri;
 
@@ -48,7 +48,7 @@ Agli [articoli 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.de
 
 ## Art. 3.
 
-I termini contemplati nell'[art. 1 del R. decreto n. 2225 del 27 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;2225#art_1), incominciano a decorrere dalla data di pubblicazione del presente decreto.
+I termini contemplati nell'[art. 1 del R. decreto n. 2225 del 27 settembre 1923](../Regi%20decreti/Istituzione%20di%20una%20Cassa%20mutua%20per%20le%20cauzioni%20dei%20ricevitori%20postali-telegrafici.%20023U2225.md), incominciano a decorrere dalla data di pubblicazione del presente decreto.
 
 ## Art. 4.
 

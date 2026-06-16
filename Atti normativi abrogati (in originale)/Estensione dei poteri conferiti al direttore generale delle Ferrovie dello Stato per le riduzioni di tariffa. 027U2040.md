@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 settembre 1923, n. 2641](Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md);
+Visto il [R. decreto 10 settembre 1923, n. 2641](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md);
 
 Visto il [R. decreto 22 maggio 1924, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;868);
 

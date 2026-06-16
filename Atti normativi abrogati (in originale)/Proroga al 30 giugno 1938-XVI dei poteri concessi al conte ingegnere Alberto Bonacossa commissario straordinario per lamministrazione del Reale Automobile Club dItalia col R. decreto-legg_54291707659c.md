@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 14 novembre 1926, n. 2481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;2481), che approva l'erezione in ente morale del Reale Automobile Club d'Italia;
+Visto il [R. decreto 14 novembre 1926, n. 2481](../Regi%20decreti/Erezione%20in%20ente%20morale%20ed%20approvazione%20dello%20statuto%20relativo%20dellAutomobile%20Club%20dItalia.%20026U2481.md), che approva l'erezione in ente morale del Reale Automobile Club d'Italia;
 
 Visto il R. decreto 24 novembre 1934-XIII, n. 2323, che approva, il nuovo statuto dell'ente;
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-In aggiunta alle lire 300,000 prelevate dal fondo di riserva delle spese impreviste con [Regio decreto del 1° Marzo 1887, n. 4355](Che%20autorizza%20un%20prelevamento%20di%20somma%20dal%20fondo%20di%20riserva%20per%20le%20Spese%20impreviste.%20087U4355.md) (Serie 3ª), e' autorizzata la spesa di altre lire 1,500,000, per sussidi ai danneggiati dai terremoti del febbraio e marzo nei comuni delle provincie di Genova e Porto Maurizio, e di lire 200,000 per i danneggiati dagli stessi terremoti nella provincia di Cuneo. 
+In aggiunta alle lire 300,000 prelevate dal fondo di riserva delle spese impreviste con [Regio decreto del 1° Marzo 1887, n. 4355](../Regi%20decreti/Che%20autorizza%20un%20prelevamento%20di%20somma%20dal%20fondo%20di%20riserva%20per%20le%20Spese%20impreviste.%20087U4355.md) (Serie 3ª), e' autorizzata la spesa di altre lire 1,500,000, per sussidi ai danneggiati dai terremoti del febbraio e marzo nei comuni delle provincie di Genova e Porto Maurizio, e di lire 200,000 per i danneggiati dagli stessi terremoti nella provincia di Cuneo. 
  
  Questa somma sara' stanziata nella parte straordinaria dello stato di previsione della spesa del Ministero dell'Interno, per meta' sulla competenza dell'esercizio finanziario 1886-87 e per meta' sulla competenza dell'esercizio successivo, instituendosi un capitolo apposito: Soccorso ai danneggiati dai terremoti del febbraio e marzo 1887 nei comuni delle provincie di Genova, Porto Maurizio e Cuneo.
 

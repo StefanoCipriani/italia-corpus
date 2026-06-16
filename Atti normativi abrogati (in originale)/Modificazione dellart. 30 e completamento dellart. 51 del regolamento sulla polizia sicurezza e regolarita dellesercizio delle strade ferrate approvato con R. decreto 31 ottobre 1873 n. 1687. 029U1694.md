@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- L'art. 30 del regolamento approvato col [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687) (serie 2ª), e' modificato come appresso: 
+ L'art. 30 del regolamento approvato col [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md) (serie 2ª), e' modificato come appresso: 
  
  «Art. 30. - Le locomotive a vapore, elettriche e le carrozze motrici devono essere munite di un apparecchio atte a dare segnalazioni acustiche, col quale il personale che le guida possa annunziare a distanza il loro imminente sopraggiungere, secondo le prescrizioni regolamentari che gli esercenti dovranno sottoporre alla preventiva approvazione del Governo. In ogni caso pero' il personale di macchina dovra' dare un segnale di avviso col fischio della locomotiva o del veicolo automotore, ovvero con altro apparecchio acustico, se cio' sia stato autorizzato dal Governo, quando si avvicina ai principali passaggi a livello, quando abbia una visuale troppo limitata a causa delle curve, delle gallerie o di intemperie lungo la via e nelle stazioni, quando scorga persone sul binario percorso od in immediata vicinanza di esso, ripetendo il segnale ogni qual volta occorra. 
  
@@ -38,7 +38,7 @@ VITTORIO EMANUELE III
  
  «Il personale di macchina deve astenersi dall'usare il proprio segnale d'avviso senza necessita', e deve possibilmente evitare di far funzionare l'iniettore e di aprire gli spurghi dei cilindri nelle stazioni, nell'attraversare i passaggi a livello, i cavalcavia, i sottopassaggi e percorrendo tratti attigui a strade comuni, per non arrecare molestia o danno alle persone o spavento agli animali». 
  
- All'art. 51 del regolamento approvato col [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687) (serie 2ª), sono aggiunte le norme di cui appresso che costituiscono il sesto capoverso dell'articolo stesso: 
+ All'art. 51 del regolamento approvato col [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md) (serie 2ª), sono aggiunte le norme di cui appresso che costituiscono il sesto capoverso dell'articolo stesso: 
  
  «I viaggiatori e le altre persone non appartenenti alla ferrovia, che per qualsiasi motivo circolassero nell'interno degli impianti di stazione, dovranno astenersi dall'attraversare un binario quando sullo stesso stia sopraggiungendo un treno, una locomotiva a vapore od elettrica, una carrozza automotrice od una manovra. Dovranno pure astenersi dall'attraversare i binari, su cui sostino treni fermi in immediata vicinanza della testa o della coda dei treni stessi e di introdursi, per attraversare un binario, fra due veicoli fermi, siano essi agganciati o anche a poca distanza, fra loro. Puo' essere pero' consentito di attraversare dei binari fra due colonne ferme, od alle loro estremita', quando cio' sia indispensabile pel servizio viaggiatori». 
  

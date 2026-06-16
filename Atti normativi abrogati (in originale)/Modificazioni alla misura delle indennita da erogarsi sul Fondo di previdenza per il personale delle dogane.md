@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 12 luglio 1912, n. 812](Che%20istituisce%20un%20fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20dogane.%20012U0812.md), istitutiva del Fondo di previdenza a favore del personale delle dogane;
 
-Visto l'art. 24 del regolamento per l'amministrazione e la erogazione del Fondo predetto, approvato con [regio decreto 22 luglio 1939, n. 1243](Nuovo%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20dogane.%20039U1243.md);
+Visto l'art. 24 del regolamento per l'amministrazione e la erogazione del Fondo predetto, approvato con [regio decreto 22 luglio 1939, n. 1243](../Regi%20decreti/Nuovo%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20dogane.%20039U1243.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il l
 
 ## Articolo unico.
 
-Per l'esercizio finanziario 1946-47 e successivi, la misura, delle indennita' fissate dalla tabella annessa al regolamento per l'amministrazione e la erogazione del Fondo di previdenza a favore del personale delle dogane, approvato con [regio decreto 22 luglio 1939, numero 1243](Nuovo%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20dogane.%20039U1243.md), e' aumentata di otto volte.
+Per l'esercizio finanziario 1946-47 e successivi, la misura, delle indennita' fissate dalla tabella annessa al regolamento per l'amministrazione e la erogazione del Fondo di previdenza a favore del personale delle dogane, approvato con [regio decreto 22 luglio 1939, numero 1243](../Regi%20decreti/Nuovo%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20dogane.%20039U1243.md), e' aumentata di otto volte.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo ai chiunque spetti di osservarlo e di farlo osservare.
 

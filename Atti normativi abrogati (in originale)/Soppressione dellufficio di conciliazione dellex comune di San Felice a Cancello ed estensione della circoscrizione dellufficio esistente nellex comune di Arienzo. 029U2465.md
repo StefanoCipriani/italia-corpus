@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 agosto 1928, n. 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1991), col quale i comuni di Arienzo e di San Felice a Cancello venivano riuniti in un solo Comune denominato Arienzo San Felice con sede ad Arienzo; 
+ Visto il [R. decreto 3 agosto 1928, n. 1991](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Arienzo%20e%20di%20San%20Felice%20a%20Cancello%20in%20un%20unico%20Comune%20denominato%20Arienzo-San%20Felice%20e%20aggregazione%20al%20comune%20di%20Santa%20Maria%20a%20Vico%20della%20frazione%20San%20Marco%20nonche%20d_2ca076198702.md), col quale i comuni di Arienzo e di San Felice a Cancello venivano riuniti in un solo Comune denominato Arienzo San Felice con sede ad Arienzo; 
  Vista la deliberazione del commissario prefettizio di detto Comune con la quale si chiede che per tutto il territorio del comune di Arienzo San Felice funzioni non solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Napoli; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

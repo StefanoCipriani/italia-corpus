@@ -157,7 +157,7 @@ Con decreto del Ministro dei trasporti e della navigazione, da emanarsi entro no
 
 3.
 
-All'[articolo 316 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono apportate le seguenti modificazioni:
+All'[articolo 316 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono apportate le seguenti modificazioni:
                         a)
                             e' soppresso l'ultimo periodo del comma 1;
                         b)

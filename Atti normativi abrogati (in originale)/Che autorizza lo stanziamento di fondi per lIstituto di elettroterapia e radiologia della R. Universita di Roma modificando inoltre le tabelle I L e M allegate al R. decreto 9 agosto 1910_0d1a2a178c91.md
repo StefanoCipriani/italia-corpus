@@ -34,7 +34,7 @@ Della predetta somma sono assegnate L. 300 in aumento della dotazione dell'Istit
 
 ## Art. 3.
 
-Con i fondi anzidetti sono recate alle tabelle I, L, M, allegate al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), le seguenti aggiunte: 
+Con i fondi anzidetti sono recate alle tabelle I, L, M, allegate al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), le seguenti aggiunte: 
  
  Tabella I: un posto di aiuto per l'Istituto di elettroterapia e radiologia della R. Universita' di Roma, L. 2000. 
  
@@ -47,7 +47,7 @@ Con i fondi anzidetti sono recate alle tabelle I, L, M, allegate al testo unico 
 
 ## Art. 4.
 
-Il posto di assistente assegnato al predetto Istituto col [R. decreto 21 giugno 1914, n. 732](Riguardante%20lassegnazione%20di%20alcuni%20posti%20di%20assistente%20nelle%20Universita%20di%20Roma%20e%20di%20Pisa%20in%20esecuzione%20della%20legge%2022%20giugno%201919%20n.%20780.%20014U0732.md) resta conservato, e va in aggiunta alla tabella I del testo unico precitato.
+Il posto di assistente assegnato al predetto Istituto col [R. decreto 21 giugno 1914, n. 732](../Regi%20decreti/Riguardante%20lassegnazione%20di%20alcuni%20posti%20di%20assistente%20nelle%20Universita%20di%20Roma%20e%20di%20Pisa%20in%20esecuzione%20della%20legge%2022%20giugno%201919%20n.%20780.%20014U0732.md) resta conservato, e va in aggiunta alla tabella I del testo unico precitato.
 
 ## Art. 5.
 

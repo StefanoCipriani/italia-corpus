@@ -195,11 +195,11 @@ I maestri abilitati all'insegnamento in una lingua diversa dall'italiana hanno d
 
 Nessuna scuola civica in funzione all'atto della entrata in vigore di questo decreto potra' essere soppressa. 
  
- Le scuole civiche esistenti, fino alla trasformazione di cui all'articolo seguente, sono obbligatorie per gli Enti dai quali dipendono e sono equiparate, per quanto concerne la validita' dei titoli di studio che in esse si possono conseguire, esclusa la licenza, alle scuole complementari, istituite con [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+ Le scuole civiche esistenti, fino alla trasformazione di cui all'articolo seguente, sono obbligatorie per gli Enti dai quali dipendono e sono equiparate, per quanto concerne la validita' dei titoli di studio che in esse si possono conseguire, esclusa la licenza, alle scuole complementari, istituite con [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 22.
 
-Entro tre anni dalla pubblicazione del presente decreto, gli Enti, da cui dipendono le scuole civiche, dovranno aver compiuta la trasformazione di esse in iscuole complementari, a norma del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), ovvero in classi elementari superiori integrative e di avviamento professionale, a norma del presente decreto.
+Entro tre anni dalla pubblicazione del presente decreto, gli Enti, da cui dipendono le scuole civiche, dovranno aver compiuta la trasformazione di esse in iscuole complementari, a norma del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), ovvero in classi elementari superiori integrative e di avviamento professionale, a norma del presente decreto.
 
 ## Art. 23.
 

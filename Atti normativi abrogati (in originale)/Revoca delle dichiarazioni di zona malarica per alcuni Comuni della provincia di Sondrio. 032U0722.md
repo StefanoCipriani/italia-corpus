@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157), approvato con Nostro decreto 1° agosto 1907, n. 636, ed il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; 
+ Visto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con Nostro decreto 1° agosto 1907, n. 636, ed il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; 
  Veduto il Nostro decreto 30 dicembre 1923, n. 2889, che apporta modifiche sull'ordinamento sanitario del Regno; 
  Veduti i Nostri decreti 31 giugno 1903, n. 306, e 31 gennaio 1904, n. 47, coi quali fu provveduto alla delimitazione delle zone malariche nei territori dei comuni di Andalo Valtellino, Ardenno, Berbenno di Valtellina, Buglio in Monte, Castello dell'Acqua, Cedrasco, Cercino, Chiuro, Colorina, Cosio Valtellino, Delebio, Dubino, Mantello, Navate Mezzola, Piantedo, Rogolo, Samolaco, in provincia di Sondrio; 
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno; 

@@ -20,13 +20,13 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la legge di ordinamento del R. esercito, testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
+Vista la legge di ordinamento del R. esercito, testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
-Visto il testo unico delle leggi sulle pensioni approvato con [R. decreto n. 70 del 21 febbraio 1895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto il testo unico delle leggi sulle pensioni approvato con [R. decreto n. 70 del 21 febbraio 1895](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento del R. esercito modificata dalle [leggi 6 marzo 1898, n. 50; 3 luglio 1902, n. 297; 21 luglio 1902, n. 303; 30 dicembre 1906, n 647; 14 luglio 1907, n. 495; 17 luglio 1910, n. 515](Modificazioni%20al%20testo%20unico%20delle%20leggi%20di%20ordinamento%20del%20R.%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra%20e%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito.%20010U0515.md);
 
-Visto il regolamento per la esecuzione della predetta legge approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md);
+Visto il regolamento per la esecuzione della predetta legge approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md);
 
 Viste le [leggi n. 690 del 6 luglio 1911, n. 596 del 31 maggio 1913 e n. 350 del 17 luglio 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;350);
 
@@ -205,7 +205,7 @@ I sottufficiali e militari di truppa dell'arma dei carabinieri Reali hanno dirit
 
 ## Art. 14.
 
-Sono aboliti, pei sottufficiali e militari di truppa dell'arma dei carabinieri Reali che liquideranno la pensione in base al presente decreto, gli aumenti stabiliti dall'art. 90 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), nonche' l'aumento del quinto di cui all'art. 63 dello stesso testo unico.
+Sono aboliti, pei sottufficiali e militari di truppa dell'arma dei carabinieri Reali che liquideranno la pensione in base al presente decreto, gli aumenti stabiliti dall'art. 90 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), nonche' l'aumento del quinto di cui all'art. 63 dello stesso testo unico.
 
 ## Art. 15.
 
@@ -217,7 +217,7 @@ Agli effetti della liquidazione delle pensioni privilegiate spettanti ai sottuff
 
 ## Art. 16.
 
-Sono abrogate tutte le disposizioni contenute nel testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto n. 1329 del 17 novembre 1912](Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md), che siano contrarie al presente decreto per quanto riguarda l'arma dei carabinieri Reali. 
+Sono abrogate tutte le disposizioni contenute nel testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto n. 1329 del 17 novembre 1912](../Regi%20decreti/Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md), che siano contrarie al presente decreto per quanto riguarda l'arma dei carabinieri Reali. 
  
  Il Governo del Re ha facolta' di compilare un nuovo testo unico delle leggi sullo stato dei sottufficiali dell'arma dei carabinieri Reali.
 

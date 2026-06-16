@@ -126,7 +126,7 @@ Nello svolgimento di tutti i servizi contemplati dalla presente legge, devono es
  
  Le relative norme sono stabilite dal Podesta', con apposito regolamento da approvarsi a norma di legge, sentiti l'Ufficiale sanitario e, ove occorra, il competente Ispettorato corporativo. 
  
- Nei servizi stessi dovranno, inoltre, essere rispettate le norme vigenti per impedire la moltiplicazione e la disseminazione delle mosche, in conformita' all'[art. 268 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_268) approvato con decreto 27 luglio 1934-XII, n. 1265.
+ Nei servizi stessi dovranno, inoltre, essere rispettate le norme vigenti per impedire la moltiplicazione e la disseminazione delle mosche, in conformita' all'[art. 268 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con decreto 27 luglio 1934-XII, n. 1265.
 
 ## DELLA CONSERVAZIONE TEMPORANEA E DELLA RACCOLTA DEI RIFIUTI URBANI.
 

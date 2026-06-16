@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La misura dei canoni annuali per le concessioni di linee telefoniche ad uso privato di cui al primo comma dell'articolo 208 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e' stabilita in lire 20.000 per ogni circuito di comunicazione fino a tre chilometri con due stazioni ed in lire 2000 per ogni chilometro o frazione in piu' dei primi tre e per ogni stazione in piu' delle prime due.
+La misura dei canoni annuali per le concessioni di linee telefoniche ad uso privato di cui al primo comma dell'articolo 208 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e' stabilita in lire 20.000 per ogni circuito di comunicazione fino a tre chilometri con due stazioni ed in lire 2000 per ogni chilometro o frazione in piu' dei primi tre e per ogni stazione in piu' delle prime due.
  Detto canone e' raddoppiato per le linee telefoniche a servizio di linee elettriche e teleferiche e per tutte le linee ed impianti che si svolgono in territori appartenenti a comuni diversi.
 
 ## Art. 2.
@@ -25,7 +25,7 @@ Le linee telefoniche private a servizio di elettrodotti, appartenenti a concessi
 
 ## Art. 3.
 
-Per la futura revisione dei canoni di cui alla presente legge si provvedera' con le modalita' previste dall'articolo 8 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645).
+Per la futura revisione dei canoni di cui alla presente legge si provvedera' con le modalita' previste dall'articolo 8 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md).
 
 ## Art. 4.
 

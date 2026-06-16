@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 1° agosto 1910, n. 616](Che%20da%20piena%20ed%20intera%20esecuzione%20allannesso%20Accordo%20commerciale%20provvisorio%20fra%20lItalia%20e%20il%20Canada.%20010U0616.md), col quale e' stata data piena e intera esecuzione, a decorrere dal 10 giugno 1910, all'accordo commerciale provvisorio fra l'Italia e il Canada', firmato a Ottawa il 6 giugno 1910. 
+ E' convertito in legge il [R. decreto 1° agosto 1910, n. 616](../Regi%20decreti/Che%20da%20piena%20ed%20intera%20esecuzione%20allannesso%20Accordo%20commerciale%20provvisorio%20fra%20lItalia%20e%20il%20Canada.%20010U0616.md), col quale e' stata data piena e intera esecuzione, a decorrere dal 10 giugno 1910, all'accordo commerciale provvisorio fra l'Italia e il Canada', firmato a Ottawa il 6 giugno 1910. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia insorta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

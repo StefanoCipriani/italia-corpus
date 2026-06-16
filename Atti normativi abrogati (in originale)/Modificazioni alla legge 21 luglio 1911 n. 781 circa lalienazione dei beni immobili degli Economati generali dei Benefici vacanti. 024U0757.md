@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 21 luglio 1911, n. 781](Che%20approva%20i%20provvedimenti%20per%20regolare%20i%20conti%20consuntivi%20degli%20economati%20generali%20dei%20benefici%20vacanti.%20011U0781.md);
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [18 novembre 1923, n. 2441](Modificazioni%20alla%20legge%20sulla%20Corte%20dei%20conti.%20023U2441.md);
+Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [18 novembre 1923, n. 2441](../Regi%20decreti/Modificazioni%20alla%20legge%20sulla%20Corte%20dei%20conti.%20023U2441.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ All'[art. 4 della legge 21 luglio 1911, n. 781](Che%20approva%20i%20provvediment
 
 ## Art. 2.
 
-E' data facolta' al Governo del Re di provvedere con decreto Reale alla emanazione delle norme di attuazione, di complemento e di coordinamento del presente decreto, della [legge 21 luglio 1911, n. 781](Che%20approva%20i%20provvedimenti%20per%20regolare%20i%20conti%20consuntivi%20degli%20economati%20generali%20dei%20benefici%20vacanti.%20011U0781.md), e del [decreto Luogotenenziale 8 novembre 1917, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-08;1893), con le norme dei [Regi decreti 18 novembre 1923, nn. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e 2441 e con quelle che saranno emanate sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, sulla Corte dei conti e sul Consiglio di Stato.
+E' data facolta' al Governo del Re di provvedere con decreto Reale alla emanazione delle norme di attuazione, di complemento e di coordinamento del presente decreto, della [legge 21 luglio 1911, n. 781](Che%20approva%20i%20provvedimenti%20per%20regolare%20i%20conti%20consuntivi%20degli%20economati%20generali%20dei%20benefici%20vacanti.%20011U0781.md), e del [decreto Luogotenenziale 8 novembre 1917, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-11-08;1893), con le norme dei [Regi decreti 18 novembre 1923, nn. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e 2441 e con quelle che saranno emanate sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, sulla Corte dei conti e sul Consiglio di Stato.
 
 ## Art. 3.
 

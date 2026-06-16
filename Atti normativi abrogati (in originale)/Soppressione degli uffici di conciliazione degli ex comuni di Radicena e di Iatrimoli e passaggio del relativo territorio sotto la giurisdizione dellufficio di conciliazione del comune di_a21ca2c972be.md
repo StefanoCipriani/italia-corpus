@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il [R. decreto 16 febbraio 1928, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-16;377), con il quale i comuni di Radicena e Iatrimoli sono stati aggregati al comune di Taurianova; 
+ Visto il [R. decreto 16 febbraio 1928, n. 377](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Radicena%20Jatrinoli%20e%20Terranova%20Sappominulio%20in%20un%20unico%20Comune%20denominato%20Taurianova.%20028U0377.md), con il quale i comuni di Radicena e Iatrimoli sono stati aggregati al comune di Taurianova; 
  
  Vista la deliberazione del 18 maggio 1938 del podesta' del comune di Taurianova, con la quale si chiede che siano soppressi gli uffici di conciliazione degli ex comuni di Radicena e Iatrimoli e che il relativo territorio sia sottoposto alla giurisdizione dell'ufficio di conciliazione del comune di Taurianova; 
  

@@ -14,7 +14,7 @@ Sono prorogate fino al 30 giugno 1896:
  
  a) le disposizioni stabilite dai capi I e II della [legge 6 dicembre 1885, n. 3547](Sui%20provvedimenti%20riguardo%20alla%20marina%20mercantile.%20085U3547.md) (serie 3ª) sui provvedimenti riguardo alla marina mercantile; 
  
- b) la [legge 30 giugno 1889, n. 6230](Con%20la%20quale%20il%20R.%20decreto%2022%20marzo%201888%20N.%205372%20Serie%203ª%20e%20convertito%20in%20legge.%20089U6230.md) (serie 3ª), con la quale fu convalidato il [Regio decreto 22 marzo 1888, n. 5372](Accorda%20maggiori%20compensi%20alla%20costruzione%20degli%20scafi%20delle%20macchine%20delle%20caldaie%20ecc.%20delle%20navi%20mercantili%20fabbricate%20nei%20cantieri%20nazionali.%20088U5372.md) (serie 3ª) sui compensi di costruzione all'industria navale. 
+ b) la [legge 30 giugno 1889, n. 6230](Con%20la%20quale%20il%20R.%20decreto%2022%20marzo%201888%20N.%205372%20Serie%203ª%20e%20convertito%20in%20legge.%20089U6230.md) (serie 3ª), con la quale fu convalidato il [Regio decreto 22 marzo 1888, n. 5372](../Regi%20decreti/Accorda%20maggiori%20compensi%20alla%20costruzione%20degli%20scafi%20delle%20macchine%20delle%20caldaie%20ecc.%20delle%20navi%20mercantili%20fabbricate%20nei%20cantieri%20nazionali.%20088U5372.md) (serie 3ª) sui compensi di costruzione all'industria navale. 
  
  Se prima del 30 giugno 1896 venisse approvata una nuova legge sulla marina mercantile, la proroga contemplata nel presente articolo cessera' di avere effetto il giorno dell'entrata in vigore della nuova legge.
 

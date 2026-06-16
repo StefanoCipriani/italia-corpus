@@ -40,7 +40,7 @@ I capi di famiglia, e, per i militari, i capi dei corpi, i proprietari o diretto
 
 Coloro che ricusassero di fornire le notizie richieste nei fogli e nelle schede del censimento della popolazione, o che alterassero scientemente la verita', incorreranno in una ammenda non minore di L. 5 ed estensibile a L. 50. Il minimo della pena pecuniaria sara' elevato a 50 lire e il massimo a 500 per le risposte rifiutate o scientemente alterate riguardo ai quesiti del censimento industriale. 
  
- Le contravvenzioni alle disposizioni dell'articolo precedente sono di azione pubblica, e si applicheranno ad esse i procedimenti indicati agli articoli 219, 220 del testo unico della legge comunale e provinciale approvato con [Regio decreto 21 maggio 1908, n. 269](Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md).
+ Le contravvenzioni alle disposizioni dell'articolo precedente sono di azione pubblica, e si applicheranno ad esse i procedimenti indicati agli articoli 219, 220 del testo unico della legge comunale e provinciale approvato con [Regio decreto 21 maggio 1908, n. 269](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md).
 
 ## Art. 8.
 

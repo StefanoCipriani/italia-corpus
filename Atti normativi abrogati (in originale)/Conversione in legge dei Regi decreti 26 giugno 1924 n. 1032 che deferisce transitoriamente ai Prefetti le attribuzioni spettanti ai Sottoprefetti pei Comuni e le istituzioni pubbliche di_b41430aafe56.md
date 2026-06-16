@@ -33,7 +33,7 @@ VITTORIO EMANUELE III
 
 Sostituire: 
  
- Gli articoli 7, 11 e 14 del testo unico delle leggi sulla Giunta provinciale amministrativa, in sede giurisdizionale, approvato col [R. decreto 26 giugno 1924, n. 1058](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), sono modificati come segue: 
+ Gli articoli 7, 11 e 14 del testo unico delle leggi sulla Giunta provinciale amministrativa, in sede giurisdizionale, approvato col [R. decreto 26 giugno 1924, n. 1058](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), sono modificati come segue: 
  
  Art. 7., 2° comma, sostituire: 
  
@@ -51,7 +51,7 @@ Sostituire:
  
  Sostituire: 
  
- L'[art. 10 del R. decreto 30 dicembre 1923, n. 2840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2840#art_10) ([art. 40 del testo unico 26 giugno 1921, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1921-06-26;1054#art_40)), e' abrogato e sostituito dall'[art. 32 del testo unico 17 agosto 1907, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1907-08-17;638#art_32), delle leggi sul Consiglio di Stato. 
+ L'[art. 10 del R. decreto 30 dicembre 1923, n. 2840](../Regi%20decreti/Modificazioni%20allordinamento%20del%20Consiglio%20di%20Stato%20e%20della%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20023U2840.md) ([art. 40 del testo unico 26 giugno 1921, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1921-06-26;1054#art_40)), e' abrogato e sostituito dall'[art. 32 del testo unico 17 agosto 1907, n. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1907-08-17;638#art_32), delle leggi sul Consiglio di Stato. 
  
  Art. 4. 
  

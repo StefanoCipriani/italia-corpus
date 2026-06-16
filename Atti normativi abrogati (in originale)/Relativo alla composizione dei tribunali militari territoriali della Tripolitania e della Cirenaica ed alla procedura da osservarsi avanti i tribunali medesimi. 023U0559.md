@@ -18,7 +18,7 @@ Visto il R. decreto 5 novembri 1911, n. 1247, convertito nella [legge 25 febbrai
 
 Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 novembre 1922, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-20;1205);
 
-Visto il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
+Visto il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
 
 Visto il [R. decreto 20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md);
 

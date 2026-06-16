@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11), contenente disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto l'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), contenente disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Considerato che nel Ministero dell'economia nazionale vi sono unita' amministrative, alle quali sono preposti funzionari di grado inferiore a quello di direttore generale;
 
@@ -28,7 +28,7 @@ Il Consiglio di amministrazione del Ministero dell'economia nazionale e composto
 
 ## Art. 2.
 
-Restano in vigore le disposizioni contenute nel 2° e 3° capoverso dell'[art. 26 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), relative alla composizione dei Consigli di amministrazione dei personali provinciali del Ministero predetto. 
+Restano in vigore le disposizioni contenute nel 2° e 3° capoverso dell'[art. 26 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), relative alla composizione dei Consigli di amministrazione dei personali provinciali del Ministero predetto. 
  
  Il presente decreto entrera' in vigore da oggi e sara' presentato al Parlamento per la sua conversione in legge. 
  

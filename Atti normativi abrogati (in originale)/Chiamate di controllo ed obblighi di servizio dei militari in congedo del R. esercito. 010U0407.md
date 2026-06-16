@@ -42,11 +42,11 @@ Le ammende andranno a vantaggio del fondo stanziato in bilancio per i sussidi al
 
 ## Art. 7.
 
-Alle contravvenzioni previste dagli articoli precedenti sono applicabili le disposizioni degli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [101 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Alle contravvenzioni previste dagli articoli precedenti sono applicabili le disposizioni degli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [101 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 
-All'art. 125 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 6 agosto 1888, n. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª), e' sostituito il seguente: 
+All'art. 125 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 6 agosto 1888, n. 5655](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md) (serie 3ª), e' sostituito il seguente: 
  
  «Art. 125. - Tutti i militari di lª e 2ª categoria che sono inviati in congedo illimitato, rimangono ascritti all'esercito permanente.
 Essi fanno poi passaggio nell'8° o 9° anno del loro obbligo di servizio alla milizia mobile e vi rimangono ascritti fino al 31 dicembre del 12° anno dell'obbligo stesso, dopo di che passano alla milizia territoriale. 

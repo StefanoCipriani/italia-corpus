@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 15 maggio 1930, n. 1170](Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md) ;. 
  
- Visto il [R. decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945); 
+ Visto il [R. decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md); 
  
  Visto il R. decreto 16 novembre 1933-XII, n. 1820; 
  

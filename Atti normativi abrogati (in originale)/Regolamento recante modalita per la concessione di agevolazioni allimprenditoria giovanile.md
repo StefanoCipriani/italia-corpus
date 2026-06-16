@@ -67,7 +67,7 @@ Gli statuti societari devono contenere una clausola che non consenta atti di tra
  disposizioni sulla promulgazione delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  alle quali e' operato il rinvio. Restano invariati il 
  valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -226,7 +226,7 @@ Note all'art. 1:
  2) riconvertire le regioni, regioni frontaliere o parti di regioni (compresi i bacini d'occupazione e le comunita' urbane) gravemente colpite dal declino industriale, denominato "obiettivo n. 2";
  5-b) promuovere lo sviluppo rurale, agevolando lo sviluppo e l'adeguamento strutturale delle zone rurali, denominato "obiettivo n. 5-b".
  - Il testo dell'[art. 13 del D.L.C.P.S. n. 1577/1947](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legge:1947;1577#art_13) (Provvedimenti per la cooperazione), come modificato dall'[art. 6 della legge 17 febbraio 1971, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-17;127#art_6), e dall'[art. 6 della legge 8 novembre 1991, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;381#art_6), e' il seguente:
- "Art. 13 (Riordinamento del registro prefettizio). - Nel registro prefettizio delle cooperative di cui all'art. 14 del regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), oltre alle cooperative ammissibili ai pubblici appalti, devono essere iscritti:
+ "Art. 13 (Riordinamento del registro prefettizio). - Nel registro prefettizio delle cooperative di cui all'art. 14 del regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), oltre alle cooperative ammissibili ai pubblici appalti, devono essere iscritti:
  a) tutte le altre cooperative legalmente costituite qualunque sia il loro oggetto;
  b) (soppressa).
  Il registro e' tenuto distintamente per sezioni a seconda della diversa natura ed attivita' degli enti, e cioe':

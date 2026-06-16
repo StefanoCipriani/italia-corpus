@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 3 marzo 1889, n. 5994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-03-03;5994) (serie 3ª);
+Veduto il [R. decreto 3 marzo 1889, n. 5994](../Regi%20decreti/Che%20approva%20le%20Convenzioni%20firmate%20a%20Bruxelles%20il%2015%20marzo%201886%20fra%20lItalia%20ed%20altri%20Stati%20per%20lo%20scambio%20di%20documenti%20ufficiali%20e%20pubblicazioni.%20089U5994.md) (serie 3ª);
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ esteri e per le finanze; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-La Direzione generale per le accademie e biblioteche e' incaricata di ricevere e ricambiare i documenti e le pubblicazioni di cui all'[art. 1 del R. decreto 3 marzo 1889, n. 5994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-03-03;5994#art_1) (serie 3ª).
+La Direzione generale per le accademie e biblioteche e' incaricata di ricevere e ricambiare i documenti e le pubblicazioni di cui all'[art. 1 del R. decreto 3 marzo 1889, n. 5994](../Regi%20decreti/Che%20approva%20le%20Convenzioni%20firmate%20a%20Bruxelles%20il%2015%20marzo%201886%20fra%20lItalia%20ed%20altri%20Stati%20per%20lo%20scambio%20di%20documenti%20ufficiali%20e%20pubblicazioni.%20089U5994.md) (serie 3ª).
 
 ## Art. 2.
 

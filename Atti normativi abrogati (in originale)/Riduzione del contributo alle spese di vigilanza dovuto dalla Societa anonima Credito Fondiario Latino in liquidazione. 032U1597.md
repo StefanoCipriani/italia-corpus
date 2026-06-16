@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il testo unico delle leggi sul credito fondiario, approvato con il [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modificazioni;
 
-Visto il regolamento per l'esecuzione del predetto testo unico, approvato con il [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il regolamento per l'esecuzione del predetto testo unico, approvato con il [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Visto il [R. decreto 3 gennaio 1929, n. 184](Autorizzazione%20alla%20Societa%20anonima%20Credito%20fondiario%20latino%20ad%20emettere%20cartelle%20fondiarie.%20029U0184.md), che, nell'autorizzare la Societa' anonima «Credito Fondiario Latino», con sede in Roma, ad emettere cartelle fondiarie per un ammontare pari al decuplo del capitale versato, stabiliva in annue L. 5000, a decorrere dal 1° gennaio 1929, il contributo nella spesa di vigilanza a carico della Societa' stessa;
 

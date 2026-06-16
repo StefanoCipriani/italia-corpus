@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 22 febbraio 1925, n. 428](Estensione%20al%20circondario%20di%20Fiume%20delle%20disposizioni%20sulla%20istruzione%20elementare.%20025U0428.md);
+Visto il [R. decreto 22 febbraio 1925, n. 428](../Regi%20decreti/Estensione%20al%20circondario%20di%20Fiume%20delle%20disposizioni%20sulla%20istruzione%20elementare.%20025U0428.md);
 
-Visto l'[art. 228 del R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), che approva il testo unico delle leggi sulla istruzione elementare, post-elementare e sulle opere d'integrazione;
+Visto l'[art. 228 del R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), che approva il testo unico delle leggi sulla istruzione elementare, post-elementare e sulle opere d'integrazione;
 
 Sentito il Consiglio dei Ministri;
 

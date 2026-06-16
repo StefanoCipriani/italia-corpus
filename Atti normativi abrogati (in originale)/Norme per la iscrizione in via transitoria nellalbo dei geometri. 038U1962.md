@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-11;274);
+Visto il regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](../Regi%20decreti/Regolamento%20per%20la%20professione%20di%20geometra.%20029U0274.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,13 +28,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la grazia e giustizia
 
 ## Art. 1.
 
-Coloro i quali, trovandosi nelle condizioni prevedute dall'art. 28 del regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-11;274), presentarono regolarmente, entro il termine prescritto, domanda per la iscrizione nell'albo dei geometri, hanno facolta' di chiedere che la loro domanda sia ripresa in esame sulla base dei titoli e documenti gia', presentati o di quegli altri che ritenessero opportuno di esibire per meglio dimostrare il lodevole esercizio professionale. 
+Coloro i quali, trovandosi nelle condizioni prevedute dall'art. 28 del regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](../Regi%20decreti/Regolamento%20per%20la%20professione%20di%20geometra.%20029U0274.md), presentarono regolarmente, entro il termine prescritto, domanda per la iscrizione nell'albo dei geometri, hanno facolta' di chiedere che la loro domanda sia ripresa in esame sulla base dei titoli e documenti gia', presentati o di quegli altri che ritenessero opportuno di esibire per meglio dimostrare il lodevole esercizio professionale. 
  
  La richiesta di riesame dev'essere presentata, insieme con i documenti, al Ministero dell'educazione nazionale entro termine perentorio di sei mesi dall'entrata in vigore del presente decreto, anche se l'interessato abbia impugnato con ricorso al Consiglio di Stato o in altro modo la precedente deliberazione della Commissione.
 
 ## Art. 2.
 
-La Commissione per il riesame delle domande di cui all'articolo precedente e' costituita con decreto del Ministro per l'educazione nazionale nei modi indicati nell'art. 28, comma 3, del regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-11;274). 
+La Commissione per il riesame delle domande di cui all'articolo precedente e' costituita con decreto del Ministro per l'educazione nazionale nei modi indicati nell'art. 28, comma 3, del regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](../Regi%20decreti/Regolamento%20per%20la%20professione%20di%20geometra.%20029U0274.md). 
  
  Per la validita' delle sedute della Commissione e' necessaria la presenza di tutti e cinque i componenti, effettivi o supplenti, di cui tre docenti in istituti superiori o secondari e due liberi professionisti. Le deliberazioni sono prese a maggioranza.
 

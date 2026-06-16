@@ -18,7 +18,7 @@ Visto l'[articolo 14 del R. decreto 27 maggio 1923, n. 1309](Che%20riforma%20il%
 
 Visti i risultati del censimento della popolazione eseguito nel 1921 e tenuto conto dell'attuale circoscrizione amministrativa;
 
-Visti i [Regi decreti 2 settembre 1923, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1911); [7 ottobre 1923, n. 2235](Aumento%20del%20numero%20dei%20commissari%20di%20leva.%20023U2235.md), ed [8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md);
+Visti i [Regi decreti 2 settembre 1923, n. 1911](../Regi%20decreti/Istituzione%20della%20provincia%20di%20Taranto.%20023U1911.md); [7 ottobre 1923, n. 2235](Aumento%20del%20numero%20dei%20commissari%20di%20leva.%20023U2235.md), ed [8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md);
 
 Sentito il Consiglio di Stato;
 

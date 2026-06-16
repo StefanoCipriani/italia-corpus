@@ -20,7 +20,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Gli articoli appresso indicati del testo unico delle leggi sul Consiglio di Stato, approvato col [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054), sono interamente o parzialmente sostituiti dalle disposizioni seguenti: 
+Gli articoli appresso indicati del testo unico delle leggi sul Consiglio di Stato, approvato col [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), sono interamente o parzialmente sostituiti dalle disposizioni seguenti: 
  
  Art. 2., comma 2°: 
  
@@ -57,7 +57,7 @@ Tuttavia la esecuzione dell'atto o del provvedimento puo' essere sospesa per gra
 
 ## Art. 2.
 
-Gli articoli 7 e 14 del testo unico delle leggi sulla Giunta provinciale amministrativa in sede giurisdizionale, approvato col [R. decreto 26 giugno 1924, n. 1058](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), sono modificati come segue: 
+Gli articoli 7 e 14 del testo unico delle leggi sulla Giunta provinciale amministrativa in sede giurisdizionale, approvato col [R. decreto 26 giugno 1924, n. 1058](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), sono modificati come segue: 
  
  Art. 7., 2° comma (sostituire): 
  
@@ -83,9 +83,9 @@ E' transitoriamente istituito in soprannumero un posto di presidente di sezione,
 
 ## Art. 5.
 
-Il Governo del Re e' autorizzato a coordinare in testi unici tutte le disposizioni del presente decreto con quelle dei testi unici approvati coi [Regi decreti 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054), e [n. 1058](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), a riformare il regolamento approvato col [R. decreto 26 giugno 1924, n. 1055](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md), ed a emanare nuovi regolamenti di procedura innanzi al Consiglio di Stato ed alla Giunta provinciale amministrativa in sede giurisdizionale. 
+Il Governo del Re e' autorizzato a coordinare in testi unici tutte le disposizioni del presente decreto con quelle dei testi unici approvati coi [Regi decreti 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), e [n. 1058](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20024U1058.md), a riformare il regolamento approvato col [R. decreto 26 giugno 1924, n. 1055](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md), ed a emanare nuovi regolamenti di procedura innanzi al Consiglio di Stato ed alla Giunta provinciale amministrativa in sede giurisdizionale. 
  
- A decorrere dall'entrata in vigore del presente decreto, non e' applicabile, per quanto riguarda il Consiglio di Stato, l'[art. 4 del R. decreto 31 dicembre 1922, n. 1826](Concernente%20la%20costituzione%20di%20un%20ruolo%20unico%20tra%20gli%20impiegati%20del%20ruolo%20dellAmministrazione%20coloniale%20e%20quelli%20dei%20ruoli%20dellEritrea%20e%20della%20Somalia%20italiana.%20022U1826.md). 
+ A decorrere dall'entrata in vigore del presente decreto, non e' applicabile, per quanto riguarda il Consiglio di Stato, l'[art. 4 del R. decreto 31 dicembre 1922, n. 1826](../Regi%20decreti/Concernente%20la%20costituzione%20di%20un%20ruolo%20unico%20tra%20gli%20impiegati%20del%20ruolo%20dellAmministrazione%20coloniale%20e%20quelli%20dei%20ruoli%20dellEritrea%20e%20della%20Somalia%20italiana.%20022U1826.md). 
  
  E' abrogata qualsiasi disposizione contraria a quelle del presente decreto. 
  

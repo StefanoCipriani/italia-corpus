@@ -18,11 +18,11 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni; 
  
- Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960); 
+ Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md); 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
- Ritenuta l'assoluta ed urgente necessita' di accordare all'Amministrazione delle poste e dei telegrafi la facolta' di rendere continuativa, per gli impiegati di ruolo addetti agli uffici esecutivi, e nel limite di un'ora al giorno, la prestazione oraria prevista dal [secondo comma dell'art. 106 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_106-com2); 
+ Ritenuta l'assoluta ed urgente necessita' di accordare all'Amministrazione delle poste e dei telegrafi la facolta' di rendere continuativa, per gli impiegati di ruolo addetti agli uffici esecutivi, e nel limite di un'ora al giorno, la prestazione oraria prevista dal [secondo comma dell'art. 106 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md); 
  
  Inteso il Consiglio di amministrazione delle poste e dei telegrafi; 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Allo scopo esclusivo di provvedere alle speciali esigenze degli uffici esecutivi postali e telegrafici soggetti a piu' intenso lavoro, e' data facolta' all'Amministrazione delle poste e dei telegrafi di disporre, quando si renda necessario, in corrispondenza a riduzioni attuate negli assegni numerici del personale, il prolungamento dell'orario normale di servizio previsto dal [secondo comma dell'art. 106 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_106-com2), con effetto continuativo ed obbligatorio, per il personale di ruolo, escluso quello subalterno, nel limite di un'ora in piu' al giorno. 
+ Allo scopo esclusivo di provvedere alle speciali esigenze degli uffici esecutivi postali e telegrafici soggetti a piu' intenso lavoro, e' data facolta' all'Amministrazione delle poste e dei telegrafi di disporre, quando si renda necessario, in corrispondenza a riduzioni attuate negli assegni numerici del personale, il prolungamento dell'orario normale di servizio previsto dal [secondo comma dell'art. 106 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), con effetto continuativo ed obbligatorio, per il personale di ruolo, escluso quello subalterno, nel limite di un'ora in piu' al giorno. 
  
  La disposizione e' presa con decreto Ministeriale, sentito il Consiglio d'amministrazione delle poste e dei telegrafi, per i singoli uffici dei servizi attivi, previo accertamento delle condizioni sopra indicate.
 

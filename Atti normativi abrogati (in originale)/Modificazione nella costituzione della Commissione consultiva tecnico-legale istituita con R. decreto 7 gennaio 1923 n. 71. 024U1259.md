@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 gennaio 1923, n. 71](Che%20istituisce%20presso%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20una%20Commissione%20consultiva%20tecnico-legale%20chiamata%20ad%20esprimere%20il%20proprio%20parere%20sugli%20affari%20riflettenti%20lAmministrazione.%20023U0071.md), che istituisce presso il Ministero delle poste e dei telegrafi una Commissione consultiva tecnico-legale chiamata ad esprimere il proprio parere sugli affari riflettenti l'Amministrazione postale, telegrafica e telefonica;
+Visto il [R. decreto 7 gennaio 1923, n. 71](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20una%20Commissione%20consultiva%20tecnico-legale%20chiamata%20ad%20esprimere%20il%20proprio%20parere%20sugli%20affari%20riflettenti%20lAmministrazione.%20023U0071.md), che istituisce presso il Ministero delle poste e dei telegrafi una Commissione consultiva tecnico-legale chiamata ad esprimere il proprio parere sugli affari riflettenti l'Amministrazione postale, telegrafica e telefonica;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2840), che apporta modificazioni all'ordinamento del Consiglio di Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2840](../Regi%20decreti/Modificazioni%20allordinamento%20del%20Consiglio%20di%20Stato%20e%20della%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20023U2840.md), che apporta modificazioni all'ordinamento del Consiglio di Stato;
 
 Ritenuto che a norma di detto [R. decreto 30 dicembre 1941, n. 2840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-12-30;2840), i consiglieri di Stato, a datare dal 1° luglio 1924, non possono far parte di corpi consultivi delle Amministrazioni centrali;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-A decorrere dal 1° luglio 1924 cessano dal far parte della Commissione consultiva tecnico legale istituita presso il Ministero delle poste e dei telegrafi i due consiglieri di Stato facenti parte della Commissione stessa a norma dell'[art. 2 lettera a) del R. decreto 7 gennaio 1923, n. 71](Che%20istituisce%20presso%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20una%20Commissione%20consultiva%20tecnico-legale%20chiamata%20ad%20esprimere%20il%20proprio%20parere%20sugli%20affari%20riflettenti%20lAmministrazione.%20023U0071.md).
+A decorrere dal 1° luglio 1924 cessano dal far parte della Commissione consultiva tecnico legale istituita presso il Ministero delle poste e dei telegrafi i due consiglieri di Stato facenti parte della Commissione stessa a norma dell'[art. 2 lettera a) del R. decreto 7 gennaio 1923, n. 71](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20una%20Commissione%20consultiva%20tecnico-legale%20chiamata%20ad%20esprimere%20il%20proprio%20parere%20sugli%20affari%20riflettenti%20lAmministrazione.%20023U0071.md).
 
 ## Art. 2.
 

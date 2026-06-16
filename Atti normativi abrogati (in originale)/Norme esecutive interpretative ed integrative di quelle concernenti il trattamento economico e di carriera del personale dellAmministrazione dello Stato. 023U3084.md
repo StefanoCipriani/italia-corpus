@@ -57,7 +57,7 @@ Alle promozioni per merito comparativo, previste dal [Regio decreto 11 novembre 
 
 Le promozioni per merito assoluto e quelle per anzianita' congiunta al merito, previste dal [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono conferite agli impiegati che posseggono i prescritti requisiti e che sieno riconosciuti meritevoli dal consiglio di amministrazione, secondo l'ordine del ruolo di anzianita'. 
  
- Nelle promozioni al grado ottavo, ai sensi dell'[art. 7 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), si applica il disposto dell'[art. 29 del Regio decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_29).
+ Nelle promozioni al grado ottavo, ai sensi dell'[art. 7 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), si applica il disposto dell'[art. 29 del Regio decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 7.
 
@@ -365,7 +365,7 @@ Le nomine in soprannumero al grado decimo sono compensate con corrispondenti vac
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 46.
 
@@ -477,7 +477,7 @@ Agli effetti dell'applicazione del disposto dalla [lettera b) dell'art. 53 del R
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 59.
 
@@ -495,7 +495,7 @@ All'[art. 65 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchi
 
 ### Art. 60.
 
-Agli impiegati appartenenti al ruolo di concetto delle ragionerie centrali, provenienti da quelli del Ministero delle poste e dei telegrafi, per effetto dei [Regi decreti 28 gennaio 1923, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;126) e [25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), spetta, nel grado che conseguono alla prima attuazione delle tabelle organiche annesse al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), lo stesso stipendio, che avrebbero ottenuto nel grado medesimo ove fossero rimasti nel ruolo di provenienza.
+Agli impiegati appartenenti al ruolo di concetto delle ragionerie centrali, provenienti da quelli del Ministero delle poste e dei telegrafi, per effetto dei [Regi decreti 28 gennaio 1923, n. 126](../Regi%20decreti/Concernente%20il%20passaggio%20degli%20uffici%20di%20ragioneria%20delle%20Amministrazioni%20centrali%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0126.md) e [25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), spetta, nel grado che conseguono alla prima attuazione delle tabelle organiche annesse al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), lo stesso stipendio, che avrebbero ottenuto nel grado medesimo ove fossero rimasti nel ruolo di provenienza.
 
 ### Art. 61.
 
@@ -614,7 +614,7 @@ Gli ultimi due commi dell'[art. 111 del Regio decreto 23 novembre 1923, n. 2395]
 
 ### Art. 80.
 
-Per il conferimento dei posti del grado sesto nei ruoli del personale degli archivi di Stato in applicazione dell'[art. 44 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), l'accertamento del merito comparativo avra' luogo mediante concorsi per titoli, ai sensi dell'art. 35 del regolamento per gli archivi medesimi, approvato con [Regio decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), in confronto di quei funzionari che non avessero gia' superato tale concorso. 
+Per il conferimento dei posti del grado sesto nei ruoli del personale degli archivi di Stato in applicazione dell'[art. 44 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), l'accertamento del merito comparativo avra' luogo mediante concorsi per titoli, ai sensi dell'art. 35 del regolamento per gli archivi medesimi, approvato con [Regio decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), in confronto di quei funzionari che non avessero gia' superato tale concorso. 
  
  Nella prima attuazione del [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), i direttori degli archivi di Stato che, prima dell'applicazione dei ruoli aperti, avevano grado di sovraintendenti ed ispettori, e che conseguiranno la promozione al grado sesto, saranno collocati nel grado stesso, con anzianita' decorrente dalla data della nomina a sovraintendente od ispettore.
 
@@ -812,7 +812,7 @@ Gli avventizi e gli straordinari ex-combattenti in servizio, al 1° dicembre 192
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 107.
 

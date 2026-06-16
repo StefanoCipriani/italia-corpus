@@ -98,7 +98,7 @@ E' istituito un fondo di L. 500.000 nel bilancio del Ministero dell'interno per 
 
 ## Art. 15.
 
-Il Governo del Re, e' autorizzato a coordinare in un unico testo le disposizioni del presente decreto, quelle del [Regio decreto 14 agosto 1919, n. 1442](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md) nonche' quello del [Regio decreto 22 novembre 1919, n. 2202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-22;2202) e [2 maggio 1920, n. 573, ed il ministro del tesoro](Contenente%20disposizioni%20per%20il%20personale%20di%20pubblica%20sicurezza.%20020U0573.md) a provvedere alle variazioni occorrenti nel bilancio del ministero dell'interno. 
+Il Governo del Re, e' autorizzato a coordinare in un unico testo le disposizioni del presente decreto, quelle del [Regio decreto 14 agosto 1919, n. 1442](../Regi%20decreti/Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md) nonche' quello del [Regio decreto 22 novembre 1919, n. 2202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-22;2202) e [2 maggio 1920, n. 573, ed il ministro del tesoro](../Regi%20decreti/Contenente%20disposizioni%20per%20il%20personale%20di%20pubblica%20sicurezza.%20020U0573.md) a provvedere alle variazioni occorrenti nel bilancio del ministero dell'interno. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  E' convertito in legge il [R. decreto-legge 29 gennaio 1928, n. 162](Modificazioni%20allordinamento%20della%20Milizia%20nazionale%20forestale%20e%20dellAzienda%20foreste%20demaniali.%20028U0162.md), portante modificazioni all'ordinamento della Milizia nazionale forestale e dell'Azienda foreste demaniali. 
  
- Nella parte declarativa del detto decreto al primo comma e' sostituito il seguente: «Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md)». 
+ Nella parte declarativa del detto decreto al primo comma e' sostituito il seguente: «Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

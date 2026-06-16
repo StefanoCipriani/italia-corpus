@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Agli individui componenti lo stato maggiore e l'equipaggio dei piroscafi requisiti per conto delle Amministrazioni dello Stato, siano state o meno ad essi estese le disposizioni del decreto 15 aprile 1915, n. 570, sara', durante la guerra, sempre applicabile il disposto dell'[art. 598, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+ Agli individui componenti lo stato maggiore e l'equipaggio dei piroscafi requisiti per conto delle Amministrazioni dello Stato, siano state o meno ad essi estese le disposizioni del decreto 15 aprile 1915, n. 570, sara', durante la guerra, sempre applicabile il disposto dell'[art. 598, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Il presente decreto avra' vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale. 
  

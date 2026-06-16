@@ -18,7 +18,7 @@ Visti i contratti collettivi di lavoro stipulati il 15 giugno 1940 per il tratta
 
 Visto il [decreto legislativo luogotenenziale 31 agosto 1945, n. 810](../Decreti%20legislativi%20luogotenenziali/Estensione%20delle%20norme%20relative%20agli%20elementi%20ed%20ai%20limiti%20della%20retribuzione%20previsti%20per%20i%20contributi%20degli%20assegni%20familiari%20ai%20fini%20del%20calcolo%20dei%20contributi%20alle%20Casse%20per%20il%20tratta_2a0f3696589a.md), sulla estensione delle norme relative agli elementi ed ai limiti della retribuzione previsti per i contributi degli assegni familiari, ai fini del calcolo dei contributi alle Casse per il trattamento di richiamo alle armi degli impiegati privati e degli operai dell'industria ed alla Cassa per la integrazione dei guadagni dei lavoratori dell'industria;
 
-Visto il [regio decreto legislativo 20 maggio 1946, n. 370](Determinazione%20della%20misura%20del%20contributo%20dovuto%20alla%20Cassa%20per%20il%20trattamento%20degli%20operai%20dellindustria%20richiamati%20alle%20armi.md), sulla determinazione della misura del contributo dovuto alla Cassa per il trattamento degli operai dell'industria, richiamati alle armi;
+Visto il [regio decreto legislativo 20 maggio 1946, n. 370](../Regi%20decreti%20legislativi/Determinazione%20della%20misura%20del%20contributo%20dovuto%20alla%20Cassa%20per%20il%20trattamento%20degli%20operai%20dellindustria%20richiamati%20alle%20armi.md), sulla determinazione della misura del contributo dovuto alla Cassa per il trattamento degli operai dell'industria, richiamati alle armi;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

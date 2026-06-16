@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la legge doganale, testo unico approvato dal [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), modificato dal [R. decreto-legge 2 settembre 1923, n. 1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-02;1960), e dalla [legge 29 novembre 1928, n. 2676](Modificazioni%20al%20testo%20unico%20delle%20leggi%20doganali%20approvato%20con%20R.%20decreto%2026%20gennaio%201896%20n.%2020.%20028U2676.md);
+Vista la legge doganale, testo unico approvato dal [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), modificato dal [R. decreto-legge 2 settembre 1923, n. 1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-02;1960), e dalla [legge 29 novembre 1928, n. 2676](Modificazioni%20al%20testo%20unico%20delle%20leggi%20doganali%20approvato%20con%20R.%20decreto%2026%20gennaio%201896%20n.%2020.%20028U2676.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

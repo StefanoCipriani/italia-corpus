@@ -20,7 +20,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [R. decreto 26 febbraio 1928, n. 384](Norme%20per%20la%20istituzione%20dellalbo%20professionale%20dei%20giornalisti.%20028U0384.md), contenente norme sull'albo professionale dei giornalisti;
+Visto il [R. decreto 26 febbraio 1928, n. 384](../Regi%20decreti/Norme%20per%20la%20istituzione%20dellalbo%20professionale%20dei%20giornalisti.%20028U0384.md), contenente norme sull'albo professionale dei giornalisti;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

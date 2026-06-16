@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 24 dicembre 1916, n. 1738](Che%20proroga%20lesercizio%20provvisorio%20per%20i%20bilanci%201916-917.%20016U1738.md);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md) e l'annessa tabella G delle tasse per gli studenti delle Universita' e degli Istituti d'istruzione superiore;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md) e l'annessa tabella G delle tasse per gli studenti delle Universita' e degli Istituti d'istruzione superiore;
 
-Veduto il regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md);
+Veduto il regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md);
 
 Sentito il Consiglio dei ministri;
 

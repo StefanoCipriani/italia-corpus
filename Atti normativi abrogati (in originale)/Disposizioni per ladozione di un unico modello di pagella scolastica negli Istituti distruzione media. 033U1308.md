@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'art. 12 del regolamento approvato con [R. decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md);
+Veduto l'art. 12 del regolamento approvato con [R. decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md);
 
 Riconosciuta la necessita' urgente ed assoluta di prescrivere e disciplinare l'adozione di un unico modello di pagella scolastica per ogni tipo di scuola media, anche al fine di evitare ogni possibilita' di falsificazione di tale importante documento scolastico;
 
@@ -32,7 +32,7 @@ In tutti gli Istituti di istruzione media (classica, scientifica, magistrale, te
 
 ## Art. 2.
 
-Il servizio di fornitura delle pagelle scolastiche agli Istituti d'istruzione media e' affidato all'Ente nazionale per le biblioteche popolari e scolastiche, con sede in Roma, di cui al [R. decreto 24 settembre 1932, n. 1335](Cambiamento%20di%20denominazione%20dellAssociazione%20nazionale%20fascista%20per%20le%20biblioteche%20delle%20scuole%20italiane%20in%20Ente%20nazionale%20per%20le%20biblioteche%20popolari%20e%20scolastiche%20e%20trasferimento%20della_2bf6a00d9abc.md). 
+Il servizio di fornitura delle pagelle scolastiche agli Istituti d'istruzione media e' affidato all'Ente nazionale per le biblioteche popolari e scolastiche, con sede in Roma, di cui al [R. decreto 24 settembre 1932, n. 1335](../Regi%20decreti/Cambiamento%20di%20denominazione%20dellAssociazione%20nazionale%20fascista%20per%20le%20biblioteche%20delle%20scuole%20italiane%20in%20Ente%20nazionale%20per%20le%20biblioteche%20popolari%20e%20scolastiche%20e%20trasferimento%20della_2bf6a00d9abc.md). 
  
  L'Ente deve fornire le pagelle al prezzo stabilito col decreto di cui al successivo articolo e gli Istituti d'istruzione media devono cederle agli alunni al medesimo prezzo.
 

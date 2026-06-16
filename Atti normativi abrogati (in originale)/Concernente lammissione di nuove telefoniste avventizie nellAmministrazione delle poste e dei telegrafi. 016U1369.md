@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A deroga del capoverso dell'[art. 13 della legge 27 aprile 1916, n. 465](Che%20porta%20semplificazioni%20nel%20ruolo%20organico%20della%20Direzione%20generale%20dei%20telefoni.%20016U0465.md), dalla data del presente decreto e' consentita, anche nelle sedi dei compartimenti telefonici, l'ammissione di nuove telefoniste avventizie, con le norme di cui all'art. 82 del regolamento approvato con [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), in relazione alle esigenze dei servizi. 
+ A deroga del capoverso dell'[art. 13 della legge 27 aprile 1916, n. 465](Che%20porta%20semplificazioni%20nel%20ruolo%20organico%20della%20Direzione%20generale%20dei%20telefoni.%20016U0465.md), dalla data del presente decreto e' consentita, anche nelle sedi dei compartimenti telefonici, l'ammissione di nuove telefoniste avventizie, con le norme di cui all'art. 82 del regolamento approvato con [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), in relazione alle esigenze dei servizi. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

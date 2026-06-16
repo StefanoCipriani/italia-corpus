@@ -24,12 +24,12 @@ Agli istituti di credito fondiario, edilizio ed agrario di miglioramento autoriz
 
 ## Art. 2.
 
-Oltre ai raggruppamenti previsti dal secondo comma dell'art. 18 del regolamento approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472) e successive modificazioni, le cartelle ed obbligazioni possono essere raggruppate in titoli multipli di duecento o quattrocento di esse.
+Oltre ai raggruppamenti previsti dal secondo comma dell'art. 18 del regolamento approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md) e successive modificazioni, le cartelle ed obbligazioni possono essere raggruppate in titoli multipli di duecento o quattrocento di esse.
 
 ## Art. 3.
 
 Gli Istituti autorizzati all'esercizio del credito fondiario possono, in aggiunta alle operazioni previste dal [decreto legislativo del Capo provvisorio dello Stato 10 aprile 1947, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-10;261), concedere, con le modalita' di cui al presente decreto ed in deroga alle vigenti disposizioni legislative e statutarie, anche mutui destinati alla costruzione, ricostruzione, riparazione, trasformazione e sopra elevazione di edifici ad uso prevalente di abitazione non di lusso.
- L'ammontare di ciascun mutuo non puo' eccedere la meta' del valore cauzionale dell'immobile, da stabilirsi a giudizio esclusivo dell'Istituto mutuante, in base al progetto dei lavori preventivati ed alla capacita' del reddito, a costruzione ultimata, valutata ai sensi dell'art. 6 del regolamento approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472).
+ L'ammontare di ciascun mutuo non puo' eccedere la meta' del valore cauzionale dell'immobile, da stabilirsi a giudizio esclusivo dell'Istituto mutuante, in base al progetto dei lavori preventivati ed alla capacita' del reddito, a costruzione ultimata, valutata ai sensi dell'art. 6 del regolamento approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md).
 
 ## Art. 4.
 
@@ -44,7 +44,7 @@ Le operazioni effettuate dagli Istituti di credito fondiario in forza dell'art. 
 
 ## Art. 6.
 
-Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, l'Istituto mutuante, in conformita' alle norme dettate dall'[art. 8 del regio decreto 23 ottobre 1925, n. 2063](Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), puo' provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
+Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, l'Istituto mutuante, in conformita' alle norme dettate dall'[art. 8 del regio decreto 23 ottobre 1925, n. 2063](../Regi%20decreti/Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), puo' provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
 
 ## Art. 7.
 
@@ -58,7 +58,7 @@ Le cartelle fondiarie, edilizie ed agrarie emesse dagli Istituti autorizzati all
 
 ## Art. 9.
 
-Alle cartelle emesse dal Consorzio nazionale per il credito agrario di miglioramento sono applicabili le disposizioni di cui all'art. 33 del testo unico delle leggi sul credito fondiario ([regio decreto 16 luglio 1905, numero 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md)).
+Alle cartelle emesse dal Consorzio nazionale per il credito agrario di miglioramento sono applicabili le disposizioni di cui all'art. 33 del testo unico delle leggi sul credito fondiario ([regio decreto 16 luglio 1905, numero 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md)).
 
 ## Art. 10.
 

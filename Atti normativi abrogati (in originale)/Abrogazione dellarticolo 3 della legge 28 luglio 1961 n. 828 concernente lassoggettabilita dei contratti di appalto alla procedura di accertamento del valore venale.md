@@ -22,7 +22,7 @@ Sono abrogate le norme contenute nell'[articolo 3 della legge 28 luglio 1961, n.
 
 ## Art. 2.
 
-L'imposta di registro applicata agli atti previsti dall'articolo 52 della tariffa, allegato A, del [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' ridotta all'1 per cento quando si tratti di atti stipulati dallo Stato e dagli Enti locali.
+L'imposta di registro applicata agli atti previsti dall'articolo 52 della tariffa, allegato A, del [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' ridotta all'1 per cento quando si tratti di atti stipulati dallo Stato e dagli Enti locali.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

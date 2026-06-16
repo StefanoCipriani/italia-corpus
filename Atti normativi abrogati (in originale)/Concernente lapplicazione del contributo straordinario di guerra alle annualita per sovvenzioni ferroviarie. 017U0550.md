@@ -14,7 +14,7 @@ L'applicazione del contributo straordinario di guerra, di cui ai decreti 21 nove
 
 ## Art. 2.
 
-I pagamenti del complessivo ammontare delle annualita' cedute effettuati da alcuno degli Enti contemplati dal [secondo comma dell'art. 1 del R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), all. A, saranno esenti dallo speciale contributo.
+I pagamenti del complessivo ammontare delle annualita' cedute effettuati da alcuno degli Enti contemplati dal [secondo comma dell'art. 1 del R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), all. A, saranno esenti dallo speciale contributo.
 
 ## Art. 3. — null
 

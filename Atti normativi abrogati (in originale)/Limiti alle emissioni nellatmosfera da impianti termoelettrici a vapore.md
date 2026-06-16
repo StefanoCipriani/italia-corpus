@@ -14,7 +14,7 @@ IL MINISTRO DELL'AMBIENTE
  DI CONCERTO CON 
  IL MINISTRO DELLA SANITA' 
  
- Visto il [testo unico delle leggi sulle acque e gli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), approvato con [decreto del Presidente della Repubblica 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1933-12-11;1775); 
+ Visto il [testo unico delle leggi sulle acque e gli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [decreto del Presidente della Repubblica 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1933-12-11;1775); 
  Vista la [legge 13 luglio 1966, n. 615](Provvedimenti%20contro%20linquinamento%20atmosferico.md); 
  Visto il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md); 
  Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349); 

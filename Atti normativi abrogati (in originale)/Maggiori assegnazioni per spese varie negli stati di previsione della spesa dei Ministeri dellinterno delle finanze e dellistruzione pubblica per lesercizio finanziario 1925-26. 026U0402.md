@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 14 maggio 1925, n. 617; 11 giugno 1925, n. 869, e 24 maggio 1925, n. 728](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%20dal%201%20luglio%201925%20al%2030%20giugno%201926.%20025U0728.md);
 
-Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41), recante norme sulla contabilita' generale dello Stato;
+Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante norme sulla contabilita' generale dello Stato;
 
 Udito il Consiglio dei Ministri;
 

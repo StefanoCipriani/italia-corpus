@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), convertito in [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), sull'esercizio delle assicurazioni private;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3281](Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), che approva il testo della legge tributaria sulle assicurazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3281](../Regi%20decreti/Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), che approva il testo della legge tributaria sulle assicurazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Alla tariffa generale delle imposte indirette sulle assicurazioni, allegato A al [R. decreto 30 dicembre 1923, n. 3281](Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), sono aggiunte le seguenti voci: 
+Alla tariffa generale delle imposte indirette sulle assicurazioni, allegato A al [R. decreto 30 dicembre 1923, n. 3281](../Regi%20decreti/Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), sono aggiunte le seguenti voci: 
  
  1° Assicurazioni contro i danni industriali della produzione di filmi cinematografici, in dipendenza di infortunio, malattia, o morte di persone addette a prestazioni gia' iniziate: imposta proporzionale per ogni 100 lire, comprensiva, di ogni addizionale: L. 3. 
  

@@ -64,7 +64,7 @@ E' obbligo del concessionario, quando non vi provvedano gli interessati a termin
 
 ## Art. 9.
 
-Ogni oggetto scritto o disegno destinato alla pubblicita', che venga esposto senza l'osservanza delle norme contenute nel presente decreto, potra' essere rimosso a cura della Milizia della strada su richiesta del competente capo compartimento della viabilita' ed i contravventori sono puniti a termini dell'[art. 445 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Ogni oggetto scritto o disegno destinato alla pubblicita', che venga esposto senza l'osservanza delle norme contenute nel presente decreto, potra' essere rimosso a cura della Milizia della strada su richiesta del competente capo compartimento della viabilita' ed i contravventori sono puniti a termini dell'[art. 445 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Del pagamento delle spese di rimozione e dell'ammenda sono responsabili i materiali esecutori e coloro per interesse dei quali sia stata eseguita l'affissione o la pubblicita'.
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 26 settembre 1930, n. 1386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-09-26;1386), col quale e' stata aggregata al comune di Brunate parte di territorio del comune di Blevio; 
+ Veduto il [R. decreto 26 settembre 1930, n. 1386](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Brunate%20di%20parte%20del%20territorio%20del%20comune%20di%20Blevio.%20030U1386.md), col quale e' stata aggregata al comune di Brunate parte di territorio del comune di Blevio; 
  Vedute le deliberazioni 10 dicembre 1930 del podesta' di Brunate e 16 gennaio 1931 del podesta' di Blevio, con le quali sono stati presi accordi per la sistemazione dei rapporti patrimoniali e finanziari fra i due Comuni, in dipendenza della avvenuta modifica di circoscrizione territoriale; 
  Veduto il parere favorevole espresso dalla Giunta provinciale amministrativa di Como nella seduta del 29 gennaio 1931, n. 6725; 
  Veduti il testo unico della legge comunale e provinciale, il relativo regolamento, il [R. decreto 30 dicembre 1923, numero 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), nonche' la [legge 4 febbraio 1926, n. 237](Istituzione%20del%20Podesta%20e%20della%20Consulta%20municipale%20nei%20Comuni%20con%20popolazione%20non%20eccedente%20i%205000%20abitanti.%20026U0237.md), e il [R. decreto-legge 3 settembre 1926, n. 1910](Estensione%20dellordinamento%20podestarile%20a%20tutti%20i%20Comuni%20del%20Regno.%20026U1910.md), convertito nella [legge 2 giugno 1927, n. 957](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20settembre%201926%20n.%201910%20concernente%20lestensione%20dellordinamento%20podestarile%20a%20tutti%20i%20Comuni%20del%20Regno.%20027U0957.md); 

@@ -42,7 +42,7 @@ Sul benzolo (voce ex-649 della tariffa dei dazi doganali), nazionale o provenien
 
 ## Art. 2.
 
-Chiunque intende esercitare l'industria della fabbricazione o rettificazione del benzolo, oltre all'osservanza delle disposizioni, di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_4) e [10 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_10), convertito nella [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), e 12 del [R. decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), e' tenuto a farne denunzia all'Ufficio tecnico di finanza della circoscrizione almeno 20 giorni prima di iniziare la lavorazione. 
+Chiunque intende esercitare l'industria della fabbricazione o rettificazione del benzolo, oltre all'osservanza delle disposizioni, di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_4) e [10 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_10), convertito nella [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), e 12 del [R. decreto 20 luglio 1934, n. 1303](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20distribuzione%20degli%20oli%20minerali%20e%20d_bb2fb77a11e9.md), e' tenuto a farne denunzia all'Ufficio tecnico di finanza della circoscrizione almeno 20 giorni prima di iniziare la lavorazione. 
  
  La denunzia deve essere redatta in doppio esemplare e deve indicare: 
  
@@ -58,7 +58,7 @@ Chiunque intende esercitare l'industria della fabbricazione o rettificazione del
 
 ## Art. 3.
 
-La tassa di vendita sul benzolo, fino a quando non verra' diversamente disposto, con apposito regolamento, e' accertata e riscossa con le norme, in quanto applicabili, stabilite dal regolamento approvato col [R. decreto 19 aprile 1896, n. 123](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20della%20legge%208%20agosto%201896%20n.%20486%20allegato%20C%20riguardante%20la%20tassa%20sulla%20raffinazione%20degli%20olii%20minerali.%20096U0123.md). 
+La tassa di vendita sul benzolo, fino a quando non verra' diversamente disposto, con apposito regolamento, e' accertata e riscossa con le norme, in quanto applicabili, stabilite dal regolamento approvato col [R. decreto 19 aprile 1896, n. 123](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lapplicazione%20della%20legge%208%20agosto%201896%20n.%20486%20allegato%20C%20riguardante%20la%20tassa%20sulla%20raffinazione%20degli%20olii%20minerali.%20096U0123.md). 
  
  La tassa di vendita sul benzolo importato dall'estero e' riscossa dalla dogana all'atto stesso della riscossione del dazio doganale. 
  
@@ -72,7 +72,7 @@ Chiunque sottragga o tenti sottrarre, con qualunque mezzo, il benzolo all'accert
 
 ## Art. 5.
 
-Le pene stabilite dal precedente articolo sono applicate senza pregiudizio di quelle sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di manomissione od alterazione dei congegni, bolli e sigilli, apposti dalla Amministrazione.
+Le pene stabilite dal precedente articolo sono applicate senza pregiudizio di quelle sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di manomissione od alterazione dei congegni, bolli e sigilli, apposti dalla Amministrazione.
 
 ## Art. 6.
 

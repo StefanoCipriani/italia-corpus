@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), che approva il testo unico delle leggi per la riscossione delle imposte dirette;
+Visto il [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), che approva il testo unico delle leggi per la riscossione delle imposte dirette;
 
 Vista la [legge 30 dicembre 1923, n. 3273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3273), per l'applicazione della tassa sugli scambi;
 
-Visti il [R. decreto-legge 13 febbraio 1927, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;165), ed il [R. decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677), relativi a facilitazioni per il pagamento delle pensioni;
+Visti il [R. decreto-legge 13 febbraio 1927, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;165), ed il [R. decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md), relativi a facilitazioni per il pagamento delle pensioni;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e disposizioni successive, sulla contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e disposizioni successive, sulla contabilita' generale dello Stato;
 
 Ritenuta la necessita' urgente ed assoluta di facilitare il pagamento delle imposte dirette, della tassa sugli scambi, delle imposte di fabbricazione, dei proventi delle privative e in genere i versamenti da farsi alle Tesorerie dello Stato, nonche' il pagamento delle pensioni e degli stipendi da parte dello Stato, ed il pagamento delle pigioni da parte dei locatari ai proprietari di stabili;
 
@@ -208,7 +208,7 @@ Gli impiegati civili e militari che siano correntisti postali possono richiedere
 
 E' disposta d'ufficio l'apertura di conti correnti intestati ai pensionati dello Stato provvisti di pensioni ed assegni per un importo complessivo non inferiore a L. 10,000 annue. Questo limite potra' essere successivamente abbassato con decreto del Ministro per le finanze. 
  
- Su tali conti verra' disposto l'accreditamento delle rate mensili delle pensioni ed assegni a' sensi del [R. decreto-legge 13 febbraio 1927, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;165), e del [R. decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677). 
+ Su tali conti verra' disposto l'accreditamento delle rate mensili delle pensioni ed assegni a' sensi del [R. decreto-legge 13 febbraio 1927, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;165), e del [R. decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md). 
  
  Le operazioni di accreditamento sono esenti da tassa.
 

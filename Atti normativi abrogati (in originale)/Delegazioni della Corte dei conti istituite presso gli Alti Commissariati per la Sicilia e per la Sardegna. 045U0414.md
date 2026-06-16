@@ -12,7 +12,7 @@ vigente: true
 
 Le delegazioni della Corte dei conti, previste dall'[art. 5 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md), e dell'[art. 5 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), sono costituite di un consigliere e di magistrati, funzionari ed impiegati di ruolo nel numero che sara' determinato con ordinanza dei Presidente della Corte dei conti. Resta invaiato il numero dei posti nei ruoli organici della Corte. 
  
- Ai servizi delle delegazioni puo' essere adibito anche personale non di ruolo da assumersi mediante contratto a termine, osservando le norme stabilite dal regolamento per la carriera e la disciplina del personale della Corte dei conti, approvato con [R. decreto 12 ottobre 1933, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-12;1364), e dal [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md). Le relative assunzioni sono effettuate entro i limiti che saranno fissati con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro. 
+ Ai servizi delle delegazioni puo' essere adibito anche personale non di ruolo da assumersi mediante contratto a termine, osservando le norme stabilite dal regolamento per la carriera e la disciplina del personale della Corte dei conti, approvato con [R. decreto 12 ottobre 1933, n. 1364](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20carriera%20e%20la%20disciplina%20del%20personale%20della%20Corte%20dei%20conti.%20033U1364.md), e dal [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md). Le relative assunzioni sono effettuate entro i limiti che saranno fissati con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro. 
  
  E' consentito anche il comando presso le delegazioni della Corte dei conti di personale di gruppo B e C di altre Amministrazioni dello Stato, nel numero che a giudizio del Presidente della Corte dei conti sara' ritenuto indispensabile per il regolare funzionamento del servizio.
 
@@ -40,7 +40,7 @@ I rendiconti delle aperture di credito a favore di funzionari delegati dell'Alto
 
 ## Art. 6.
 
-Per quanto non previsto dal presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e le altre disposizioni relative alla Corte medesima.
+Per quanto non previsto dal presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e le altre disposizioni relative alla Corte medesima.
 
 ## Art. 7.
 

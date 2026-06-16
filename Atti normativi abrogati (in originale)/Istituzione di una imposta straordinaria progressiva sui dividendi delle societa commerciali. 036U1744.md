@@ -56,7 +56,7 @@ L'imposta del 10% stabilita dall'[art. 1 del R. decreto-legge 7 settembre 1935, 
 
 ## Art. 6.
 
-Per l'attuazione del presente decreto sono applicabili le norme vigenti per l'imposta di ricchezza mobile, comprese le sanzioni comminate dal [Regio decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608).
+Per l'attuazione del presente decreto sono applicabili le norme vigenti per l'imposta di ricchezza mobile, comprese le sanzioni comminate dal [Regio decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md).
 
 ## Art. 7.
 

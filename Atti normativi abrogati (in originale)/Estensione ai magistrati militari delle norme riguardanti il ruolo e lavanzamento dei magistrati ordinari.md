@@ -36,9 +36,9 @@ I magistrati nominati a norma del precedente articolo procuratore militare o con
 
 ## Art. 4.
 
-I procuratori militari della Repubblica o consiglieri relatori aggiunti del tribunale supremo militare che siano stati dichiarati idonei alle funzioni della qualifica superiore ai sensi dell'[articolo 32 del regio decreto 30 dicembre 1923, n. 2903](Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), qualora non abbiano ottenuto la nomina a tale qualifica per difetto di vacanza, sono nominati in soprannumero con decorrenza dal compimento del numero degli anni di servizio prescritto per il passaggio alla qualifica superiore dei magistrati di corte d'appello. 
+I procuratori militari della Repubblica o consiglieri relatori aggiunti del tribunale supremo militare che siano stati dichiarati idonei alle funzioni della qualifica superiore ai sensi dell'[articolo 32 del regio decreto 30 dicembre 1923, n. 2903](../Regi%20decreti/Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), qualora non abbiano ottenuto la nomina a tale qualifica per difetto di vacanza, sono nominati in soprannumero con decorrenza dal compimento del numero degli anni di servizio prescritto per il passaggio alla qualifica superiore dei magistrati di corte d'appello. 
  Ai fini dell'anzianita' prevista dal precedente comma e' valutato anche il servizio eventualmente prestato come magistrato ordinario o della Corte dei conti, qualora la valutazione di tale servizio non abbia avuto luogo per la nomina a procuratore militare della Repubblica o consigliere relatore aggiunto del tribunale supremo militare. 
- Si osservano le modalita' di cui all'[articolo 11 del regio decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md).
+ Si osservano le modalita' di cui all'[articolo 11 del regio decreto 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md).
 
 ## Art. 5.
 

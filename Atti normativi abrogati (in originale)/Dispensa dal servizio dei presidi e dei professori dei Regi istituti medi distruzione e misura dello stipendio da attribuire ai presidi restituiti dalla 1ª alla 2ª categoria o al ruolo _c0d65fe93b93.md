@@ -54,7 +54,7 @@ Il titolo della dispensa deve risultare dal relativo decreto, nel quale si deva 
 
 ## Art. 5.
 
-E' abrogato l'[art. 20, comma 2°, del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_20-com2). 
+E' abrogato l'[art. 20, comma 2°, del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  Restano ferme le norme stabilite nel capo XI del [regolamento 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367), per quanto concerne la dispensa dal servizio ivi prevista.
 

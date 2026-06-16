@@ -39,7 +39,7 @@ L'art. 15, lettera a), del decreto Ministeriale 29 febbraio 1928, modificato con
  3° abbiano prestato servizio militare come combattenti oppure risultino inscritti ai Fasci di combattimento senza interruzione da data anteriore al 28 ottobre 1922. 
  «Sara' assegnato in ordine successivo un posto per concorso di merito, uno per anzianita' congiunta al merito ed uno per esame di idoneita'. Qualora i posti da conferirsi per anzianita' congiunta al merito non possano essere coperti o perche' non vi siano funzionari forniti dei requisiti prescritti o perche' ne sia riconosciuta la non promovibilita', essi andranno in aumento di quelli da conferirsi per esame di idoneita'. 
  «I termini per gli esami di merito e di idoneita' sono, rispettivamente, ridotti a tre ed a cinque anni per coloro che siano forniti di licenza di istituto tecnico superiore od altri titoli equipollenti conseguiti in base agli ordinamenti scolastici vigenti sia prima che dopo il decreto Ministeriale 29 febbraio 1928. 
- «Agli esami di concorso e di idoneita' previsti dal presente articolo sono applicabili le disposizioni dell'[articolo 42 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_42)».
+ «Agli esami di concorso e di idoneita' previsti dal presente articolo sono applicabili le disposizioni dell'[articolo 42 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md)».
 
 ## Art. 2.
 

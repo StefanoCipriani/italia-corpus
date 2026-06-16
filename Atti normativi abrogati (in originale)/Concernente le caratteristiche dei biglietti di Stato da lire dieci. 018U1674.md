@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Viste le leggi 22 luglio 1894, n, 339 ed 8 agosto 1895, n. 486, sui provvedimenti di finanza e di tesoro; 17 gennaio 1897, n. 9; e 3 marzo 1898, n. 47, per le guarantigie ed il risanamento della circolazione cartacea; 
  
- Veduto il regolamento approvato con [R. decreto, 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md); 
+ Veduto il regolamento approvato con [R. decreto, 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md); 
  
  Veduti i RR. decreti 5 febbraio 1888,2. 5204; 1° agosto 1889, n. 6360 11 settembre 1892, n. 495: 18 dicembre 1910, n. 904; 22 gennaio 1911, n. 62; 29 marzo 1914, n. 281; 
  

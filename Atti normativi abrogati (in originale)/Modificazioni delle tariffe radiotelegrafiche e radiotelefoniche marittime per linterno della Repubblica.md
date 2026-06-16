@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 8 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e successive modificazioni;
+Visto l'art. 8 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
 
@@ -35,7 +35,7 @@ La tabella n. 5, allegata al [decreto del Presidente della Repubblica 22 luglio 
 
 ## Art. 2.
 
-Alla determinazione delle tariffe per i radiofototelegrammi scambiati tra le navi straniere in navigazione e l'Italia, tramite l'ufficio principale radio p.t. di Roma, si provvede, ai sensi dell'art. 9 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro.
+Alla determinazione delle tariffe per i radiofototelegrammi scambiati tra le navi straniere in navigazione e l'Italia, tramite l'ufficio principale radio p.t. di Roma, si provvede, ai sensi dell'art. 9 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro.
 
 ## Art. 3.
 

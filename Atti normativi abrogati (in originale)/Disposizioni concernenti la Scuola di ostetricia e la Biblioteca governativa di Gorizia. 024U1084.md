@@ -28,7 +28,7 @@ Il ruolo organico del personale addetto alla Scuola di ostetricia di Trieste e',
  
  a) un professore direttore, cui e' attribuito l'8° grado (gruppo A); 
  
- b) due assistenti, cui e' attribuito 1'11° grado (gruppo A), secondo le tabelle di classificazione per gradi di cui all'allegato 1 al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ b) due assistenti, cui e' attribuito 1'11° grado (gruppo A), secondo le tabelle di classificazione per gradi di cui all'allegato 1 al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Conseguentemente, alla tabella n. 34 dell'allegato II al predetto decreto sono aggiunte le seguenti indicazioni: 
  
@@ -42,7 +42,7 @@ Il ruolo organico del personale addetto alla Scuola di ostetricia di Trieste e',
 
 ## Art. 2.
 
-Nella tabella n. 32 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aggiunto, a decorrere dalla stessa data del 1° ottobre 1924, un posto di bibliotecario.
+Nella tabella n. 32 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aggiunto, a decorrere dalla stessa data del 1° ottobre 1924, un posto di bibliotecario.
 
 ## Art. 3.
 

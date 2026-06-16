@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Vista la deliberazione 29 marzo 1934 - Anno XII, con la quale il comune di Bari ha chiesto il passaggio di quel porto dalla 2ª alla 1ª classe della 2ª categoria, nonche' la cancellazione del vecchio porto dalla 4ª classe, dovendo essere quest'ultimo considerato parte integrante del nuovo porto; 
  
- Ritenuto che nessuna variazione e' da apportarsi al riparto delle quote di contributo a carico degli Enti interessati al detto porto; fissate col [R. decreto 12 febbraio 1888, n. 5263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-02-12;5263); 
+ Ritenuto che nessuna variazione e' da apportarsi al riparto delle quote di contributo a carico degli Enti interessati al detto porto; fissate col [R. decreto 12 febbraio 1888, n. 5263](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20classificazione%20nella%202ª%20categoria%20dei%20porti%20marittimi%20indicati%20nei%20quattro%20elenchi%20annessi%20nonche%20la%20designazione%20degli%20enti%20interessati%20nelle%20spese%20dei%20porti%20s_14fe5c6e54fc.md); 
  
  Uditi i pareri del Comitato tecnico amministrativo presso il Provveditorato delle opere pubbliche di Bari, del Rettorato della provincia di Bari, del Consiglio provinciale dell'economia corporativa e del Consiglio di Stato; 
  

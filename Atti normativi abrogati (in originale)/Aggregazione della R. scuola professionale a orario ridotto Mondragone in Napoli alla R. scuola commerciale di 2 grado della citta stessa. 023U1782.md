@@ -18,7 +18,7 @@ Visto il [decreto Luogotenenziale 27 ottobre 1918, n. 2097](https://www.normatti
 
 Visto il [R. decreto 5 febbraio 1920, n. 244](Riordinamento%20di%20scuola%20professionale.%20020U0244.md), che trasformo' tale scuola in R. scuola commerciale femminile ad orario ridotto;
 
-Visto il [R. decreto 3 luglio 1921, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-03;1015), col quale fu istituita in Napoli, nei locali del R. istituto Mondragone, una scuola commerciale di 2° grado ad orario diurno completo;
+Visto il [R. decreto 3 luglio 1921, n. 1015](../Regi%20decreti/Istituzione%20di%20R.%20scuola%20commerciale.%20021U1015.md), col quale fu istituita in Napoli, nei locali del R. istituto Mondragone, una scuola commerciale di 2° grado ad orario diurno completo;
 
 Considerato che l'istituto professionale femminile ad orario ridotto per il piccolo numero di alunne inscritte non puo' da solo debitamente funzionare;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la industria, il comm
 
 ## Art. 1.
 
-La. R. scuola professionale femminile ad orario ridotto, in Napoli, con sede nel palazzo del R. istituto Mondragone istituita con il [R. decreto 5 febbraio 1920, n. 244](Riordinamento%20di%20scuola%20professionale.%20020U0244.md), cessa di funzionare come ente autonomo e viene aggregata alla R. scuola commerciale di 2° grado istituita con [R. decreto 3 luglio 1921, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-03;1015), avente sede nel palazzo stesso.
+La. R. scuola professionale femminile ad orario ridotto, in Napoli, con sede nel palazzo del R. istituto Mondragone istituita con il [R. decreto 5 febbraio 1920, n. 244](Riordinamento%20di%20scuola%20professionale.%20020U0244.md), cessa di funzionare come ente autonomo e viene aggregata alla R. scuola commerciale di 2° grado istituita con [R. decreto 3 luglio 1921, n. 1015](../Regi%20decreti/Istituzione%20di%20R.%20scuola%20commerciale.%20021U1015.md), avente sede nel palazzo stesso.
 
 ## Art. 2.
 

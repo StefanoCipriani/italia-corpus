@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+Visto il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Visto il [decreto legislativo Presidenziale 28 giugno 1946, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-28;78);
 
@@ -25,7 +25,7 @@ Sulla proposta del Ministro per l'interno, d'intesa col Ministro per la grazia e
 ## Articolo unico.
 
 Il [primo comma dell'art. 1 del decreto legislativo Presidenziale 28 giugno 1946, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-28;78#art_1-com1), e' sostituito dall seguente:
- "Non sono compresi nel rapporto limite, previsto dall'[art. 95 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_95), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), gli spacci annessi ai circoli degli enti a carattere nazionale, le cui finalita' assistenziali siano riconosciute dal Ministero dell'interno".
+ "Non sono compresi nel rapporto limite, previsto dall'[art. 95 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), gli spacci annessi ai circoli degli enti a carattere nazionale, le cui finalita' assistenziali siano riconosciute dal Ministero dell'interno".
  Il presente decreto entrera' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

@@ -52,7 +52,7 @@ L'[art. 13 del R. decreto 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri
 
 ## Art. 4.
 
-La Commissione centrale di cui all'[art. 17, comma secondo, del R. decreto 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;2074#art_17-com2), per la promozione dei custodi al grado di custode capo, e' costituita a norma dell'art. 76, comma quarto, del regolamento organico delle Biblioteche governative, approvato con [R. decreto 24 ottobre 1907, n. 733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-10-24;733), e modificato con [R. decreto 2 maggio 1909, n. 450](Che%20modifica%20il%20regolamento%20generale%20per%20le%20biblioteche.%20009U0450.md).
+La Commissione centrale di cui all'[art. 17, comma secondo, del R. decreto 2 ottobre 1919, n. 2074](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-02;2074#art_17-com2), per la promozione dei custodi al grado di custode capo, e' costituita a norma dell'art. 76, comma quarto, del regolamento organico delle Biblioteche governative, approvato con [R. decreto 24 ottobre 1907, n. 733](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20biblioteche%20pubbliche%20governative%20007U0733.md), e modificato con [R. decreto 2 maggio 1909, n. 450](Che%20modifica%20il%20regolamento%20generale%20per%20le%20biblioteche.%20009U0450.md).
 
 ## Art. 5.
 

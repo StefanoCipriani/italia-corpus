@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il ministro per i trasporti marittimi e ferroviari e' autorizzato a decidere, previa domanda dei singoli interessati, intorno all'ammissibilita' in servizio degli ex-agenti in prova delle ferrovie dello Stato che furono esonerati, a termini dell'art. 16-b) del regolamento del personale approvato con [R. decreto 22 luglio 1906, n. 417](Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), per aver partecipato agli scioperi del 1907 o del 1914, nonche' ad impartire le disposizioni necessarie per la esecuzione delle sue decisioni.
+Il ministro per i trasporti marittimi e ferroviari e' autorizzato a decidere, previa domanda dei singoli interessati, intorno all'ammissibilita' in servizio degli ex-agenti in prova delle ferrovie dello Stato che furono esonerati, a termini dell'art. 16-b) del regolamento del personale approvato con [R. decreto 22 luglio 1906, n. 417](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), per aver partecipato agli scioperi del 1907 o del 1914, nonche' ad impartire le disposizioni necessarie per la esecuzione delle sue decisioni.
 
 ## Art. 2.
 
@@ -24,7 +24,7 @@ Tanto per gli agenti in prova che saranno riammessi, quanto per quelli stabili r
 
 ## Art. 3.
 
-Gli ex-agenti avventizi in funzioni continuative, di cui all'articolo 2, punto 1°, del regolamento approvato con [R. decreto 22 luglio 1906, n. 417](Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), stati licenziati per avere partecipato agli scioperi del 1907 o del 1914 potranno essere assunti in servizio a sensi dell'articolo 60, comma 1° e 61 del vigente regolamento per il personale delle ferrovie dello Stato, anche se hanno superata l'eta' massima prescritta dal regolamento medesimo, purche' ne facciano domanda entro il termine che sara' stabilito dal ministro dei trasporti marittimi e ferroviari e conservino gli altri requisiti prescritti per l'assunzione. 
+Gli ex-agenti avventizi in funzioni continuative, di cui all'articolo 2, punto 1°, del regolamento approvato con [R. decreto 22 luglio 1906, n. 417](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), stati licenziati per avere partecipato agli scioperi del 1907 o del 1914 potranno essere assunti in servizio a sensi dell'articolo 60, comma 1° e 61 del vigente regolamento per il personale delle ferrovie dello Stato, anche se hanno superata l'eta' massima prescritta dal regolamento medesimo, purche' ne facciano domanda entro il termine che sara' stabilito dal ministro dei trasporti marittimi e ferroviari e conservino gli altri requisiti prescritti per l'assunzione. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

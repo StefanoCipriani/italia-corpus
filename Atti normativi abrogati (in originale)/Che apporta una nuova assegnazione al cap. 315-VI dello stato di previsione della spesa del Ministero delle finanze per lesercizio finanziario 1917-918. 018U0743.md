@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti gli articoli 22 del testo unico di legge sui dazi di consumo, approvato con [R. decreto 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), ed 82 del relativo regolamento, approvato con [R. decreto 17 giugno 1909, n. 455](Che%20approva%20il%20nuovo%20regolamento%20generale%20per%20la%20riscossione%20dei%20dazi%20interni%20di%20consumo.%20009U0455.md), coi quali venne stabilito, in caso di guerra, la esenzione temporanea dai dazi stessi, dei viveri e dei foraggi destinati alle truppe mobilitate, salvo indennizzi ai Comuni ed agli appaltatori; 
+ Visti gli articoli 22 del testo unico di legge sui dazi di consumo, approvato con [R. decreto 7 maggio 1908, n. 248](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md), ed 82 del relativo regolamento, approvato con [R. decreto 17 giugno 1909, n. 455](Che%20approva%20il%20nuovo%20regolamento%20generale%20per%20la%20riscossione%20dei%20dazi%20interni%20di%20consumo.%20009U0455.md), coi quali venne stabilito, in caso di guerra, la esenzione temporanea dai dazi stessi, dei viveri e dei foraggi destinati alle truppe mobilitate, salvo indennizzi ai Comuni ed agli appaltatori; 
  
- Visto il [R. decreto 25 maggio 1915, n. 728](Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md); 
+ Visto il [R. decreto 25 maggio 1915, n. 728](../Regi%20decreti/Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md); 
  
  Visto il Nostro decreto 6 aprile 1916, n. 432; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Al capitolo n. 315 VI «Indennizzi ai Comuni ed agli appaltatori per le perdite dipendenti dalla applicazione del [R. decreto 25 maggio 1915, n. 728](Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md), relativo alla esenzione di ogni dazio interno di consumo, nelle localita' considerate in istato di guerra, ecc.» dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1917-918 e' apportata una nuova assegnazione di lire ottocentocinquantamila (L. 850.000). 
+ Al capitolo n. 315 VI «Indennizzi ai Comuni ed agli appaltatori per le perdite dipendenti dalla applicazione del [R. decreto 25 maggio 1915, n. 728](../Regi%20decreti/Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md), relativo alla esenzione di ogni dazio interno di consumo, nelle localita' considerate in istato di guerra, ecc.» dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1917-918 e' apportata una nuova assegnazione di lire ottocentocinquantamila (L. 850.000). 
  
  Questo decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale. 
  

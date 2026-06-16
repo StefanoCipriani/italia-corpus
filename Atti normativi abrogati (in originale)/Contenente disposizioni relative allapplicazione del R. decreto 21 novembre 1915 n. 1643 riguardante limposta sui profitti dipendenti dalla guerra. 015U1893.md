@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Agli effetti della imposta sui profitti dipendenti dalla guerra si presumono tali, fino a prova contraria, quelli comunque verificatisi per aumenti di produzione o di commercio oppure per elevamento di prezzi posteriormente al 1° agosto 1914, nei limiti segnati dall'[art. 1 del R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato B.
+Agli effetti della imposta sui profitti dipendenti dalla guerra si presumono tali, fino a prova contraria, quelli comunque verificatisi per aumenti di produzione o di commercio oppure per elevamento di prezzi posteriormente al 1° agosto 1914, nei limiti segnati dall'[art. 1 del R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato B.
 
 ## Art. 2.
 
-I termini per la presentazione delle dichiarazioni dei redditi di cui all'art. 1° dell'allegato B al [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), sono rispettivamente stabiliti al 15 febbraio 1916 pei redditi realizzati dal 1° agosto 1914 al 31 dicembre 1915, e 15 febbraio 1917 per quelli conseguiti nell'anno 1916 e al 15 agosto 1917 per quelli relativi al primo semestre del 1917. 
+I termini per la presentazione delle dichiarazioni dei redditi di cui all'art. 1° dell'allegato B al [R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), sono rispettivamente stabiliti al 15 febbraio 1916 pei redditi realizzati dal 1° agosto 1914 al 31 dicembre 1915, e 15 febbraio 1917 per quelli conseguiti nell'anno 1916 e al 15 agosto 1917 per quelli relativi al primo semestre del 1917. 
  
  Per gli enti soggetti alla imposta di ricchezza mobile in base a bilancio, la dichiarazione deve essere prodotta entro il 15 febbraio 1916 per tutti i bilanci gia' approvati sino al giorno 5 del mese stesso, e in seguito entro dieci giorni dall'approvazione dei singoli bilanci.
 
@@ -34,7 +34,7 @@ La soprattassa di omessa, tardiva o infedele dichiarazione viene ridotta ad un t
 
 ## Art. 6.
 
-Al ministro delle finanze e' data facolta' di emanare le ulteriori disposizioni che possono occorrere per l'applicazione del presente decreto e degli allegati al [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md). 
+Al ministro delle finanze e' data facolta' di emanare le ulteriori disposizioni che possono occorrere per l'applicazione del presente decreto e degli allegati al [R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

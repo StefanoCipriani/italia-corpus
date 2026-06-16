@@ -18,7 +18,7 @@ in virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 27 gennaio 1944, n. 52](Costituzione%20di%20una%20Sezione%20del%20Tribunale%20Supremo%20Militare%20nei%20territori%20dellItalia%20liberata.%20044U0052.md), relativo alla costituzione di una Sezione di Tribunale Supremo militare nei territori dell'Italia liberata;
 
-Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
+Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 
 Visto l'art. 37 del bando 20 giugno 1940, e successive modificazioni;
 

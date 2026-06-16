@@ -36,21 +36,21 @@ Cessano di aver vigore:
  
  g) il decr. luog. 9 febbraio 1919, n. 172, modificante alcune norme relative alle penalita' stabilite per i reati concernenti il commercio di generi alimentari; 
  
- h) il [R. decreto 13 luglio 1919, n. 1146](Che%20istituisce%20Commissioni%20annonarie%20comunali%20per%20disciplinare%20i%20prezzi%20di%20vendita%20al%20pubblico%20dei%20generi%20di%20consumo%20popolare.%20019U1146.md), che istituisce le Commissioni annonarie comunali, ad eccezione delle disposizioni degli articoli 5 e 8, modificate come appresso; 
+ h) il [R. decreto 13 luglio 1919, n. 1146](../Regi%20decreti/Che%20istituisce%20Commissioni%20annonarie%20comunali%20per%20disciplinare%20i%20prezzi%20di%20vendita%20al%20pubblico%20dei%20generi%20di%20consumo%20popolare.%20019U1146.md), che istituisce le Commissioni annonarie comunali, ad eccezione delle disposizioni degli articoli 5 e 8, modificate come appresso; 
  
  i) la [legge 30 settembre 1920, n. 1349](Contenente%20disposizioni%20relative%20al%20commercio%20e%20provvedimenti%20contro%20gli%20aumenti%20eccessivi%20dei%20prezzi.%20020U1349.md), ed il [regolamento 28 novembre 1920, n. 1714](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1920-11-28;1714), per la esecuzione della legge ad eccezione dell'art. 6 della legge stessa e degli articoli 9 e 13, i quali vengono modificati come appresso; 
  
- l) il [R. decreto 3 aprile 1921, n. 436](Che%20stabilisce%20penalita%20per%20chi%20sottrae%20in%20qualsiasi%20modo%20farina%20o%20semola%20destinata%20alla%20panificazione%20o%20pastificazione%20ordinaria.%20021U0436.md), che stabilisce penalita' per chi sottrae farina o semola alla panificazione e pastificazione ordinaria, ad eccezione dell'articolo 4.
+ l) il [R. decreto 3 aprile 1921, n. 436](../Regi%20decreti/Che%20stabilisce%20penalita%20per%20chi%20sottrae%20in%20qualsiasi%20modo%20farina%20o%20semola%20destinata%20alla%20panificazione%20o%20pastificazione%20ordinaria.%20021U0436.md), che stabilisce penalita' per chi sottrae farina o semola alla panificazione e pastificazione ordinaria, ad eccezione dell'articolo 4.
 
 ## Art. 2.
 
-All'[art. 5 del R. decreto 13 luglio 1919, n. 1146](Che%20istituisce%20Commissioni%20annonarie%20comunali%20per%20disciplinare%20i%20prezzi%20di%20vendita%20al%20pubblico%20dei%20generi%20di%20consumo%20popolare.%20019U1146.md) e' sostituito il seguente: 
+All'[art. 5 del R. decreto 13 luglio 1919, n. 1146](../Regi%20decreti/Che%20istituisce%20Commissioni%20annonarie%20comunali%20per%20disciplinare%20i%20prezzi%20di%20vendita%20al%20pubblico%20dei%20generi%20di%20consumo%20popolare.%20019U1146.md) e' sostituito il seguente: 
  
  «Nei casi di delitti o di contravvenzioni relative all'esercizio del commercio di generi di prima necessita' destinati al consumo popolare, l'autorita' giudiziaria competente puo' ordinare, con la sentenza di condanna, la chiusura dei locali di vendita per un periodo non superiore ad un mese».
 
 ## Art. 3.
 
-All'[art. 8 del R. decreto 13 luglio 1919, n. 1146](Che%20istituisce%20Commissioni%20annonarie%20comunali%20per%20disciplinare%20i%20prezzi%20di%20vendita%20al%20pubblico%20dei%20generi%20di%20consumo%20popolare.%20019U1146.md), e' sostituito il seguente: 
+All'[art. 8 del R. decreto 13 luglio 1919, n. 1146](../Regi%20decreti/Che%20istituisce%20Commissioni%20annonarie%20comunali%20per%20disciplinare%20i%20prezzi%20di%20vendita%20al%20pubblico%20dei%20generi%20di%20consumo%20popolare.%20019U1146.md), e' sostituito il seguente: 
  
  «La chiusura, senza giustificato motivo, dei negozi di vendita dei generi di prima necessita' destinati al consumo popolare e' considerata come rifiuto di vendita agli effetti dell'art. 13 del decr. Luog. 6 maggio 1917, n. 740, con l'applicazione delle pene e sanzioni in detta disposizione stabilite».
 

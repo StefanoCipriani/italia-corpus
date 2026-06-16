@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico di leggi sulle ferrovie concesse all'industria privata, sulle tranvie a trazione meccanica e sugli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Visto il testo unico di leggi sulle ferrovie concesse all'industria privata, sulle tranvie a trazione meccanica e sugli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Viste le diffide notificate addi' 27, 28 e 29 dicembre 1918 per il riscatto delle ferrovie Udine-Portogruaro e San Giorgio di Nogaro-ex-confine austro-ungarico;
 
@@ -24,11 +24,11 @@ Sulla proposta del Nostro ministro segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-E' approvata, a tutti gli effetti, la diffida notificata addi' 27-29 dicembre 1918 per il riscatto della ferrovia da Udine per Palmanova a Portogruaro, concessa mediante convenzione 4 maggio 1883, approvata con [R. decreto 10 maggio 1883, n. 1386](Che%20approva%20latto%20di%20concessione%20della%20ferrovia%20da%20Udine%20a%20Portogruaro.%20083U1386.md) (serie 3ª), restando in tal modo risoluta la concessione fatta col R. decreto medesimo.
+E' approvata, a tutti gli effetti, la diffida notificata addi' 27-29 dicembre 1918 per il riscatto della ferrovia da Udine per Palmanova a Portogruaro, concessa mediante convenzione 4 maggio 1883, approvata con [R. decreto 10 maggio 1883, n. 1386](../Regi%20decreti/Che%20approva%20latto%20di%20concessione%20della%20ferrovia%20da%20Udine%20a%20Portogruaro.%20083U1386.md) (serie 3ª), restando in tal modo risoluta la concessione fatta col R. decreto medesimo.
 
 ## Art. 2.
 
-E' approvata, a tutti gli effetti, la diffida notificata addi' 27-28 dicembre 1918, per il riscatto della ferrovia da San Giorgio di Nogaro all'antico confine austro-ungarico, concessa mediante convenzione 15 settembre 1896, approvata con [R. decreto 24 settembre 1896, n. 495](Che%20approva%20e%20rende%20esecutiva%20la%20Convenzione%20per%20la%20concessione%20della%20costruzione%20e%20dello%20esercizio%20di%20una%20ferrovia%20a%20scartamento%20normale%20da%20S.%20Giorgio%20di%20Nogaro%20al%20confine%20Austro-Ungarico.%20096U0495.md) restando in tal modo risoluta la concessione fatta col R. decreto medesimo.
+E' approvata, a tutti gli effetti, la diffida notificata addi' 27-28 dicembre 1918, per il riscatto della ferrovia da San Giorgio di Nogaro all'antico confine austro-ungarico, concessa mediante convenzione 15 settembre 1896, approvata con [R. decreto 24 settembre 1896, n. 495](../Regi%20decreti/Che%20approva%20e%20rende%20esecutiva%20la%20Convenzione%20per%20la%20concessione%20della%20costruzione%20e%20dello%20esercizio%20di%20una%20ferrovia%20a%20scartamento%20normale%20da%20S.%20Giorgio%20di%20Nogaro%20al%20confine%20Austro-Ungarico.%20096U0495.md) restando in tal modo risoluta la concessione fatta col R. decreto medesimo.
 
 ## Art. 3.
 

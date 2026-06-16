@@ -18,9 +18,9 @@ Visto il [decreto legislativo 26 aprile 1990, n. 105](../Leggi%20delega%20e%20re
 
 Vista la [legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358);
 
-Visto il regolamento emanato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../DPR/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md);
+Visto il regolamento emanato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../Regolamenti%20governativi/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md);
 
-Visto il regolamento emanato con [decreto del Presidente della Repubblica 9 giugno 1992, n. 336](../DPR/Regolamento%20concernente%20lorganizzazione%20della%20Scuola%20centrale%20tributaria%20in%20attuazione%20degli%20articoli%205%20e%2012%20della%20legge%2029%20ottobre%201991%20n.%20358.md);
+Visto il regolamento emanato con [decreto del Presidente della Repubblica 9 giugno 1992, n. 336](../Regolamenti%20governativi/Regolamento%20concernente%20lorganizzazione%20della%20Scuola%20centrale%20tributaria%20in%20attuazione%20degli%20articoli%205%20e%2012%20della%20legge%2029%20ottobre%201991%20n.%20358.md);
 
 Visto il [Regio decreto legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258);
 
@@ -48,7 +48,7 @@ I procedimenti di cui al comma 1 devono concludersi con un provvedimento espress
 
 NOTE 
  AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Nota al titolo: 
  - Si trascrive il testo degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_2) e [4 della legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_4) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi): 
  "Art. 2. - 1. Ove il procedimento consegua obbligatoriamente ad una istanza, ovvero debba essere iniziato d'ufficio, la pubblica amministrazione ha il dovere di concluderlo mediante l'adozione di un provvedimento espresso. 
@@ -65,9 +65,9 @@ NOTE
  - Il [decreto legislativo 26 aprile 1990, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Organizzazione%20centrale%20e%20periferica%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20ordinamento%20del%20relativo%20personale%20in%20attuazione%20della%20legge%2010%20ottobre%201989%20n.%20349.md), reca: "Organizzazione centrale e periferica dell'Amministrazione delle dogane e delle imposte indirette e ordinamento del relativo personale, in attuazione della [legge 10 ottobre 
  1989, n. 349](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20adottare%20norme%20per%20laggiornamento%20la%20modifica%20e%20lintegrazione%20delle%20disposizioni%20legislative%20in%20materia%20doganale%20per%20la%20riorganizzazione%20dellamministrazione%20delle%20dog_ff6c720d0477.md)." 
  - La [legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358), reca: "Norme per la  ristrutturazione del Ministero delle finanze." 
- - Il [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../DPR/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md), reca: "Regolamento degli uffici e del 
+ - Il [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../Regolamenti%20governativi/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md), reca: "Regolamento degli uffici e del 
  personale del Ministero delle finanze." 
- - Il [decreto del Presidente della Repubblica 9 giugno 1992, n. 336](../DPR/Regolamento%20concernente%20lorganizzazione%20della%20Scuola%20centrale%20tributaria%20in%20attuazione%20degli%20articoli%205%20e%2012%20della%20legge%2029%20ottobre%201991%20n.%20358.md), reca: "Regolamento concernente l'organizzazione della Scuola centrale tributaria in attuazione degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_5) e [12 della legge 29 ottobre 
+ - Il [decreto del Presidente della Repubblica 9 giugno 1992, n. 336](../Regolamenti%20governativi/Regolamento%20concernente%20lorganizzazione%20della%20Scuola%20centrale%20tributaria%20in%20attuazione%20degli%20articoli%205%20e%2012%20della%20legge%2029%20ottobre%201991%20n.%20358.md), reca: "Regolamento concernente l'organizzazione della Scuola centrale tributaria in attuazione degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_5) e [12 della legge 29 ottobre 
  1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_12)." 
  - Il [Regio decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258), reca: 
  "Amministrazione autonoma dei monopoli di Stato." 

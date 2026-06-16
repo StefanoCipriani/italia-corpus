@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 27 settembre 1929, n. 1663](Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md); 
  
- Visto il [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472); 
+ Visto il [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md); 
  
  Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; 
  

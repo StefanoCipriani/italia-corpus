@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti i [Regi decreti 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e [3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), concernenti le norme sull'ordinamento dell'istruzione industriale;
+Visti i [Regi decreti 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e [3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), concernenti le norme sull'ordinamento dell'istruzione industriale;
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), concernente il riordinamento dell'istruzione media tecnica;
 
-Visto il [R. decreto 5 aprile 1934, n. 686](Approvazione%20dei%20programmi%20degli%20esami%20nelle%20Scuole%20e%20negli%20Istituti%20distruzione%20tecnica.%20034U0686.md), che approva i programmi degli esami nelle Scuole e negli Istituti d'istruzione tecnica;
+Visto il [R. decreto 5 aprile 1934, n. 686](../Regi%20decreti/Approvazione%20dei%20programmi%20degli%20esami%20nelle%20Scuole%20e%20negli%20Istituti%20distruzione%20tecnica.%20034U0686.md), che approva i programmi degli esami nelle Scuole e negli Istituti d'istruzione tecnica;
 
 Visto il parere del Consiglio superiore dell'educazione nozionale, sezione III;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Articolo unico.
 
-Coloro che abbiano conseguito il diploma di perito industriale presso Istituti industriali ordinati in conformita' dei [Regi decreti 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e [3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), potranno ottenere il diploma di perito industriale capotecnico secondo i nuovi ordinamenti previsti dalla [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sostenendo presso i Regi istituti tecnici industriali, in sede di esami di abilitazione tecnica, una prova integrativa di italiano in base ai programmi approvati con [R. decreto 5 aprile 1934, n. 686](Approvazione%20dei%20programmi%20degli%20esami%20nelle%20Scuole%20e%20negli%20Istituti%20distruzione%20tecnica.%20034U0686.md). 
+Coloro che abbiano conseguito il diploma di perito industriale presso Istituti industriali ordinati in conformita' dei [Regi decreti 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e [3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), potranno ottenere il diploma di perito industriale capotecnico secondo i nuovi ordinamenti previsti dalla [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sostenendo presso i Regi istituti tecnici industriali, in sede di esami di abilitazione tecnica, una prova integrativa di italiano in base ai programmi approvati con [R. decreto 5 aprile 1934, n. 686](../Regi%20decreti/Approvazione%20dei%20programmi%20degli%20esami%20nelle%20Scuole%20e%20negli%20Istituti%20distruzione%20tecnica.%20034U0686.md). 
  
  Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

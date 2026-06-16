@@ -32,7 +32,7 @@ Sulla proposta del Ministro per l'industria e commercio, di concerto con il Mini
 
 ## Art. 1.
 
-I commissari liquidatori della Federazione nazionale consorzi trebbiatori e dei dipendenti Consorzi provinciali ed interprovinciali trebbiatori per la riscossione dei contributi consortili maturati per le campagne di trebbiatura per gli anni 1942, 1943, 1944, potranno avvalersi della procedura coattiva di cui al testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato, approvato con [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+I commissari liquidatori della Federazione nazionale consorzi trebbiatori e dei dipendenti Consorzi provinciali ed interprovinciali trebbiatori per la riscossione dei contributi consortili maturati per le campagne di trebbiatura per gli anni 1942, 1943, 1944, potranno avvalersi della procedura coattiva di cui al testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato, approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 2.
 

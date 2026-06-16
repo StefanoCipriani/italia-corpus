@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 22 dicembre 1927, n. 2511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-22;2511), col quale il comune di Esio veniva aggregato a quello di Premeno; 
+ Visto il [R. decreto 22 dicembre 1927, n. 2511](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Esio%20a%20quello%20di%20Premeno.%20027U2511.md), col quale il comune di Esio veniva aggregato a quello di Premeno; 
  Vista la deliberazione del 3 novembre 1931 del podesta' di detto Comune colla quale si chiede che per tutto il territorio del comune di Premeno funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

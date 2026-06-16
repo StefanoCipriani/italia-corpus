@@ -114,7 +114,7 @@ Il personale direttivo, insegnante, amministrativo e di servizio di ruolo degli 
 
 Gli insegnanti di ruolo degli Istituti musicali pareggiati che facciano passaggio nel ruolo del personale direttivo e insegnante dei Regi conservatori di musica, cumulano, ai fini della pensione, col servizio governativo quello prestato presso gli Istituti pareggiati. 
  
- In tale caso si applica l'art. 49 del testo unico sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70).
+ In tale caso si applica l'art. 49 del testo unico sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 13.
 

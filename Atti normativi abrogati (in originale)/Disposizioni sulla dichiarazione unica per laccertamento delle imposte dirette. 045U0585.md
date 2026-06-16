@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), che approva il testo delle disposizioni riguardanti le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette.
+Visto il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), che approva il testo delle disposizioni riguardanti le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette.
 
 Visto l'[art. 25 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 77](Istituzione%20dei%20Consigli%20e%20dei%20Comitati%20tributari.%20045U0077.md), riguardante l'istituzione dei Consigli e dei Comitati tributari;
 
@@ -157,7 +157,7 @@ Nella dichiarazione di cui al primo comma dell'art. 10 devono comprendersi anche
 
 ## Art. 19.
 
-La dichiarazione unica disposta dal presente decreto, deve contenere anche gli elementi relativi all'applicazione dell'imposta straordinaria sui maggiori utili di guerra, ferme restando per tale applicazione le norme contenute nel testo unico approvato con [R. decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), e successive modificazioni.
+La dichiarazione unica disposta dal presente decreto, deve contenere anche gli elementi relativi all'applicazione dell'imposta straordinaria sui maggiori utili di guerra, ferme restando per tale applicazione le norme contenute nel testo unico approvato con [R. decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md), e successive modificazioni.
 
 ## Art. 20.
 
@@ -200,7 +200,7 @@ Chi omette la presentazione della dichiarazione unica stabilita dal presente dec
 
 ## Art. 27.
 
-Sono abrogati gli articoli 1 a 12 del [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), e ogni altra disposizione incompatibile con le norme del presente decreto.
+Sono abrogati gli articoli 1 a 12 del [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), e ogni altra disposizione incompatibile con le norme del presente decreto.
 
 ## Art. 28.
 

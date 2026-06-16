@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 25 luglio 1887, n. 4866](Che%20approva%20lannesso%20regolamento%20per%20la%20gestione%20dei%20vaglia%20e%20dei%20titoli%20di%20credito%20postali.%20087U4866.md);
+Visto il [R. decreto 25 luglio 1887, n. 4866](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20gestione%20dei%20vaglia%20e%20dei%20titoli%20di%20credito%20postali.%20087U4866.md);
 
-Visto il testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), ed il relativo regolamento approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
+Visto il testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), ed il relativo regolamento approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
-Visto il [R. decreto 7 giugno 1923, n. 1274](Riguardante%20luso%20dei%20vaglia%20di%20servizio.%20023U1274.md);
+Visto il [R. decreto 7 giugno 1923, n. 1274](../Regi%20decreti/Riguardante%20luso%20dei%20vaglia%20di%20servizio.%20023U1274.md);
 
 Visto il [R. decreto-legge 10 settembre 1923, n. 2376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-10;2376);
 
 Visto il [R. decreto-legge 2 dicembre 1923, n. 3122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-02;3122);
 
-Visto il [R. decreto 1° maggio 1924, n. 968](Approvazione%20del%20regolamento%20per%20il%20servizio%20dei%20vaglia%20postali.%20024U0968.md);
+Visto il [R. decreto 1° maggio 1924, n. 968](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20servizio%20dei%20vaglia%20postali.%20024U0968.md);
 
 Visto il parere del Consiglio di amministrazione delle poste e dei telegrafi;
 

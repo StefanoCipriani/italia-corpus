@@ -12,9 +12,9 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui lavori pubblici;
 
-Visto il regolamento per la direzione, la contabilita' e la collaudazione dei lavori dello Stato, approvato con [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md);
+Visto il regolamento per la direzione, la contabilita' e la collaudazione dei lavori dello Stato, approvato con [regio decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato, e viste le successive modificazioni;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato, e viste le successive modificazioni;
 
 Visto il regolamento per l'esecuzione di detta legge, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 

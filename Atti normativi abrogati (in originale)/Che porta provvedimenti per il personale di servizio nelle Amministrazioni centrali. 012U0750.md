@@ -27,7 +27,7 @@ Nell'Amministrazione dell'interno il terzo predetto e' destinato alle guardie di
 
 ## Art. 3.
 
-Per il personale contemplato dalla presente legge che nell'attuale sua posizione non abbia diritto al trattamento di riposo stabilito dal testo unico delle leggi sulle pensioni, approvato col [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70) e per tutti gl'inservienti od equiparati che saranno assunti in seguito, sara' provveduto al trattamento di riposo mediante inscrizione alla Cassa nazionale per la invalidita' e la vecchiaia degli operai secondo le norme e col concorso dello Stato che saranno stabiliti nel regolamento per l'applicazione della presente legge.
+Per il personale contemplato dalla presente legge che nell'attuale sua posizione non abbia diritto al trattamento di riposo stabilito dal testo unico delle leggi sulle pensioni, approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) e per tutti gl'inservienti od equiparati che saranno assunti in seguito, sara' provveduto al trattamento di riposo mediante inscrizione alla Cassa nazionale per la invalidita' e la vecchiaia degli operai secondo le norme e col concorso dello Stato che saranno stabiliti nel regolamento per l'applicazione della presente legge.
 
 ## Art. 4.
 

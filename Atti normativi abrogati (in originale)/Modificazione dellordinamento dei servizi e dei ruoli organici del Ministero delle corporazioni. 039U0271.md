@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e successive variazioni;
+Visti i [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e successive variazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Riconosciuta l'assoluta ed urgente necessita' di introdurre alcune modificazioni
 
 Vista la deliberazione presa dalla Commissione suprema di difesa nella sessione di febbraio 1937 in merito alla fusione dell'Ufficio speciale combustibili liquidi con la Divisione combustibili liquidi della Direzione generale dell'industria;
 
-Riconosciuta, in ordine a detta deliberazione, la necessita' ed urgenza di modificare il ruolo del Laboratorio chimico (gruppo A) ed il ruolo d'ordine (gruppo C) del Corpo Reale delle miniere, di cui alle tabelle C e D annesse al [R. decreto 15 dicembre 1936, n. 2335](Varianti%20ai%20ruoli%20del%20personale%20del%20Corpo%20Reale%20delle%20miniere.%20036U2335.md), nonche' il ruolo di gruppo B del Servizio minerario di cui alla tabella A annessa al [R. decreto 21 novembre 1938, n. 1885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-11-21;1885);
+Riconosciuta, in ordine a detta deliberazione, la necessita' ed urgenza di modificare il ruolo del Laboratorio chimico (gruppo A) ed il ruolo d'ordine (gruppo C) del Corpo Reale delle miniere, di cui alle tabelle C e D annesse al [R. decreto 15 dicembre 1936, n. 2335](../Regi%20decreti/Varianti%20ai%20ruoli%20del%20personale%20del%20Corpo%20Reale%20delle%20miniere.%20036U2335.md), nonche' il ruolo di gruppo B del Servizio minerario di cui alla tabella A annessa al [R. decreto 21 novembre 1938, n. 1885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-11-21;1885);
 
 Udito il Consiglio dei Ministri;
 
@@ -42,7 +42,7 @@ I ruoli del personale amministrativo, gruppo A, del personale d'ordine, gruppo C
 
 Un quinto dei posti disponibili nella prima attuazione del presente decreto, nel grado iniziale di gruppo A del predetto ruolo amministrativo centrale del Ministero, potra' essere conferito mediante concorso per titoli ed esami, al quale potranno partecipare, senza limiti di eta', gli impiegati avventizi, giornalieri, a contratto, cottimisti, o comunque non di ruolo, che alla data del bando di concorso prestino servizio presso le Amministrazioni statali da almeno due anni e che siano in possesso del titolo di studio previsto dalle vigenti disposizioni per l'ammissione al ruolo medesimo. 
  
- Nella prima attuazione del presente decreto i posti di grado 8° del suindicato ruolo, disponibili per la promozione, saranno - in deroga pure alle norme del [R. decreto 22 novembre 1937, n. 1933](Modificazioni%20alle%20norme%20riguardanti%20la%20promozione%20al%20grado%20ottavo%20nei%20ruoli%20di%20personali%20civili%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20037U1933.md) - conferiti in ragione della meta' mediante esame di concorso per merito distinto e per l'altra meta' mediante esame di idoneita'. 
+ Nella prima attuazione del presente decreto i posti di grado 8° del suindicato ruolo, disponibili per la promozione, saranno - in deroga pure alle norme del [R. decreto 22 novembre 1937, n. 1933](../Regi%20decreti/Modificazioni%20alle%20norme%20riguardanti%20la%20promozione%20al%20grado%20ottavo%20nei%20ruoli%20di%20personali%20civili%20di%20gruppo%20A%20delle%20Amministrazioni%20statali.%20037U1933.md) - conferiti in ragione della meta' mediante esame di concorso per merito distinto e per l'altra meta' mediante esame di idoneita'. 
  
  Nella prima attuazione del presente decreto i posti disponibili nel grado iniziale del ruolo d'ordine (gruppo C) e del ruolo dei subalterni (inservienti) di cui alle suddette tabelle B e C, saranno conferiti mediante pubblico concorso da effettuarsi con la osservanza delle vigenti disposizioni, prescindendo dai limiti di eta' limitatamente nei riguardi degli impiegati avventizi, giornalieri, a contratto, cottimisti, o comunque non di ruolo, che alla data del bando di concorso prestino servizio da oltre due anni presso Amministrazioni statali.
 
@@ -63,7 +63,7 @@ I ruoli di gruppo B e di gruppo C dei « servizi speciali delle Corporazioni » 
 
 ## Art. 5.
 
-Per la promozione ad ispettore superiore nel ruolo di gruppo B dei servizi speciali delle Corporazioni il triennio di servizio nel grado 7°, richiesto dall'[art. 6 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), deve essere stato prestato con la qualifica di ispettore nel medesimo ruolo. 
+Per la promozione ad ispettore superiore nel ruolo di gruppo B dei servizi speciali delle Corporazioni il triennio di servizio nel grado 7°, richiesto dall'[art. 6 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), deve essere stato prestato con la qualifica di ispettore nel medesimo ruolo. 
  
  Nella prima attuazione del presente decreto l'anzianita' di servizio suddetta e' ridotta a meta'.
 
@@ -79,11 +79,11 @@ Al comma 2° dell'art. 3 del R. decreto 3 settembre 1936. n. 1711, e' aggiunto i
 
 Dopo la prima attuazione del presente decreto, in caso di vacanza, il posto di ispettore (grado 7°) del ruolo di gruppo B dei servizi speciali delle Corporazioni sara' conferito mediante concorso per titoli fra i funzionari di grado 7° - o di grado 8° con almeno tre anni di anzianita' nel grado - di gruppo B, appartenenti ai ruoli delle Amministrazioni statali, i quali siano anche in possesso di uno dei diplomi indicati nel [1° comma dell'art. 3 del R. decreto-legge 3 settembre 1936, n. 1711](Modificazioni%20al%20ruolo%20centrale%20del%20Ministero%20delle%20corporazioni%20036U1711.md). 
  
- La maggiore spesa per gli stipendi e per gli assegni spettanti ai personali di gruppo B e C del ruolo dei servizi speciali delle Corporazioni e dagli altri ruoli incrementati col presente decreto, fino alla concorrenza di L. 300.000, sara' rimborsata all'Erario sul « Fondo speciale delle corporazioni » costituito ai termini dell'[art. 26 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
+ La maggiore spesa per gli stipendi e per gli assegni spettanti ai personali di gruppo B e C del ruolo dei servizi speciali delle Corporazioni e dagli altri ruoli incrementati col presente decreto, fino alla concorrenza di L. 300.000, sara' rimborsata all'Erario sul « Fondo speciale delle corporazioni » costituito ai termini dell'[art. 26 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
 
 ## Art. 8.
 
-Il ruolo di gruppo B del servizio minerario di cui alla tabella A annessa al [R. decreto 21 novembre 1938, n. 1885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-11-21;1885), e' stabilito in conformita' della tabella G annessa al presente decreto, firmata, d'ordine Nostro, dai Ministri per le corporazioni e per le finanze; e le tabelle C - ruolo del Laboratorio chimico (gruppo A e D) ruolo d'ordine (gruppo C) - annesse al [R. decreto 15 dicembre 1936, n. 2335](Varianti%20ai%20ruoli%20del%20personale%20del%20Corpo%20Reale%20delle%20miniere.%20036U2335.md), sono sostituite rispettivamente dalle tabelle H ed I annesse al presente decreto, firmate, d'ordine Nostro, dai Ministri per le corporazioni e per le finanze.
+Il ruolo di gruppo B del servizio minerario di cui alla tabella A annessa al [R. decreto 21 novembre 1938, n. 1885](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-11-21;1885), e' stabilito in conformita' della tabella G annessa al presente decreto, firmata, d'ordine Nostro, dai Ministri per le corporazioni e per le finanze; e le tabelle C - ruolo del Laboratorio chimico (gruppo A e D) ruolo d'ordine (gruppo C) - annesse al [R. decreto 15 dicembre 1936, n. 2335](../Regi%20decreti/Varianti%20ai%20ruoli%20del%20personale%20del%20Corpo%20Reale%20delle%20miniere.%20036U2335.md), sono sostituite rispettivamente dalle tabelle H ed I annesse al presente decreto, firmate, d'ordine Nostro, dai Ministri per le corporazioni e per le finanze.
 
 ## Art. 9.
 

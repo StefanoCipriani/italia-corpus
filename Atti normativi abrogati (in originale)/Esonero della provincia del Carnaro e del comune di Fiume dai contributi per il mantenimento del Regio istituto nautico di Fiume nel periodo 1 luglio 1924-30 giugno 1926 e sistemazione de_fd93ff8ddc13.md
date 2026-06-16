@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 ottobre 1923, n. 2539](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md);
+Visto il [R. decreto 21 ottobre 1923, n. 2539](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md);
 
-Visto il [R. decreto 15 agosto 1924, n. 1283](Estensione%20alla%20citta%20di%20Fiume%20ed%20al%20territorio%20annesso%20delle%20disposizioni%20vigenti%20sullistruzione%20nautica.%20024U1283.md);
+Visto il [R. decreto 15 agosto 1924, n. 1283](../Regi%20decreti/Estensione%20alla%20citta%20di%20Fiume%20ed%20al%20territorio%20annesso%20delle%20disposizioni%20vigenti%20sullistruzione%20nautica.%20024U1283.md);
 
 Visto il [R. decreto-legge 30 ottobre 1924, n. 1842](Sistemazione%20economica%20e%20giuridica%20del%20personale%20proveniente%20dallAmministrazione%20statale%20di%20Fiume.%20024U1842.md);
 
@@ -26,11 +26,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la marina di concerto
 
 ## Art. 1.
 
-Per il periodo 1° ottobre 1924-30 giugno 1926, la provincia del Carnaro e' esonerata dal pagamento del contributo per il mantenimento del Regio istituto nautico di Fiume, di cui all'[art. 2 del R. decreto 21 ottobre 1923, n. 2539](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md).
+Per il periodo 1° ottobre 1924-30 giugno 1926, la provincia del Carnaro e' esonerata dal pagamento del contributo per il mantenimento del Regio istituto nautico di Fiume, di cui all'[art. 2 del R. decreto 21 ottobre 1923, n. 2539](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md).
 
 ## Art. 2.
 
-Per il periodo 1° luglio 1924-30 giugno 1926 restano a carico dello Stato gli altri oneri spettanti alla provincia del Carnaro ed al comune di Fiume in forza degli [articoli 3](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md) e [4 del R. decreto 21 ottobre 1923, n. 2539](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md).
+Per il periodo 1° luglio 1924-30 giugno 1926 restano a carico dello Stato gli altri oneri spettanti alla provincia del Carnaro ed al comune di Fiume in forza degli [articoli 3](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md) e [4 del R. decreto 21 ottobre 1923, n. 2539](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md).
 
 ## Art. 3.
 

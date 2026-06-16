@@ -136,7 +136,7 @@ CAPO IV
 ### Art. 17.
 
 Il [secondo comma dell'art. 4 del decreto legislativo 10 aprile 1947, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-10;261#art_4-com2), e' modificato come appresso:
- "Tra i funzionari indicati all'[art. 3 della legge 18 ottobre 1942, n. 1460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1460#art_3), ed al [terzo comma dell'art. 11 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11-com3), e' compreso il capo dell'Ispettorato centrale per la ricostruzione edilizia".
+ "Tra i funzionari indicati all'[art. 3 della legge 18 ottobre 1942, n. 1460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1460#art_3), ed al [terzo comma dell'art. 11 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' compreso il capo dell'Ispettorato centrale per la ricostruzione edilizia".
 
 ### Art. 18.
 

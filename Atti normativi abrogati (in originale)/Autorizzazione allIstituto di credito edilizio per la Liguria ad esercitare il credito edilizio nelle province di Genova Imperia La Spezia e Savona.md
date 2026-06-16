@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
+Visto il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
-Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modificazioni;
+Visto il [testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e successive modificazioni;
 
 Visto il [regio decreto-legge 2 maggio 1920, n. 698](Che%20autorizza%20la%20creazione%20di%20un%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma.%20020U0698.md), e successive modificazioni;
 

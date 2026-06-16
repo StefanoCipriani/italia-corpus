@@ -760,7 +760,7 @@ Per i delitti preveduti negli articoli precedenti, e' punito con la multa non mi
 
 Colui, che dopo essere stato condannato per delitto di contrabbando preveduto da questa legge o da altra legge fiscale, commette un altro delitto di contrabbando per il quale la legge stabilisce la sola multa, e' punito, oltre che con la pena della multa, con la reclusione fino ad un anno. 
  Se il recidivo in un delitto di contrabbando preveduto da questa legge o da altra legge fiscale commette un altro delitto di contrabbando per il quale la legge stabilisce la sola multa, la pena della reclusione comminata nella precedente disposizione e' aumentata dalla meta' a due terzi. 
- Quando non concorrono le circostanze prevedute in questo articolo, la recidiva nel contrabbando e' regolata dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Quando non concorrono le circostanze prevedute in questo articolo, la recidiva nel contrabbando e' regolata dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 112. — Contrabbando abituale.
 
@@ -768,12 +768,12 @@ E' dichiarato delinquente abituale in contrabbando chi riporta condanna per deli
 
 ### Art. 113. — Contrabbando professionale.
 
-Chi, dopo avere riportato quattro condanne per delitto di contrabbando preveduto da questa o da altra legge fiscale, riporta condanna per un altro delitto di contrabbando, e' dichiarato delinquente professionale in contrabbando, qualora, avuto riguardo alla condotta ed al genere di vita del colpevole ed alle altre circostanze indicate nel capoverso dell'[art. 133 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), debba ritenersi che egli viva abitualmente, anche in parte soltanto, dei proventi del reato.
+Chi, dopo avere riportato quattro condanne per delitto di contrabbando preveduto da questa o da altra legge fiscale, riporta condanna per un altro delitto di contrabbando, e' dichiarato delinquente professionale in contrabbando, qualora, avuto riguardo alla condotta ed al genere di vita del colpevole ed alle altre circostanze indicate nel capoverso dell'[art. 133 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), debba ritenersi che egli viva abitualmente, anche in parte soltanto, dei proventi del reato.
 
 ### Art. 114. — Contrabbando abituale o professionale secondo il Codice penale.
 
-Gli effetti della dichiarazione di abitualita' e di professionalita' nel contrabbando sono regolati dall'[art. 109 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
- Le disposizioni dei due articoli precedenti non pregiudicano l'applicazione degli [articoli 102](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [105 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando ricorrono le condizioni ivi prevedute.
+Gli effetti della dichiarazione di abitualita' e di professionalita' nel contrabbando sono regolati dall'[art. 109 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Le disposizioni dei due articoli precedenti non pregiudicano l'applicazione degli [articoli 102](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [105 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando ricorrono le condizioni ivi prevedute.
 
 ### Art. 115.
 
@@ -785,7 +785,7 @@ Delle misure di sicurezza personali non detentive. Liberta' vigilata.
 ### Art. 116. — Delle misure di sicurezza patrimoniali. Confisca.
 
 Nei casi di contrabbando e' sempre ordinata la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono l'oggetto ovvero il prodotto o il profitto. 
- Se si tratta di mezzi di trasporto appartenenti a persona estranea al reato, si applicano le disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Tuttavia, i mezzi di trasporto che abbiano segreti ripostigli ovvero siano stati artificiosamente modificati per dissimulare le merci che vi sono state collocate, non possono essere restituiti a chi ne abbia diritto se prima non siano stati ridotti in modo da non prestarsi ulteriormente alla frode.
+ Se si tratta di mezzi di trasporto appartenenti a persona estranea al reato, si applicano le disposizioni dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Tuttavia, i mezzi di trasporto che abbiano segreti ripostigli ovvero siano stati artificiosamente modificati per dissimulare le merci che vi sono state collocate, non possono essere restituiti a chi ne abbia diritto se prima non siano stati ridotti in modo da non prestarsi ulteriormente alla frode.
 
 ## DELLE CONTRAVVENZIONI
 
@@ -939,7 +939,7 @@ Quando il delitto di contrabbando sia commesso sulle navi, sugli aeromobili, sui
 Solidarieta' di Enti e privati. Conversione della pena. 
  
  Per il pagamento della somma indicata nell'articolo precedente, sono obbligati solidalmente: il capitano con l'armatore; il comandante dell'aeromobile con la societa' di navigazione o con il proprietario dell'apparecchio; il capostazione e il capotreno, per le linee gestite dall'industria privata, con la societa' concessionaria. 
- Qualora anche le persone e gli Enti, menzionati in questo articolo e nel precedente quali obbligati civilmente per il pagamento della multa, risultino insolvibili, si procede, contro il condannato, alla conversione della pena della multa in quella della reclusione, secondo le norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Qualora anche le persone e gli Enti, menzionati in questo articolo e nel precedente quali obbligati civilmente per il pagamento della multa, risultino insolvibili, si procede, contro il condannato, alla conversione della pena della multa in quella della reclusione, secondo le norme del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Si osservano, in quanto siano applicabili, le disposizioni del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), relative alla citazione ed all'intervento delle persone o degli Enti civilmente obbligati per le ammende inflitte a persone dipendenti.
 
 ### Art. 138. — Obbligazione civile in dipendenza di contravvenzioni doganali.
@@ -1015,7 +1015,7 @@ TITOLO X
 
 ### Art. 149. — Deroga legislativa espressa.
 
-Le disposizioni degli articoli 108, 111, 112, 113, 115, 116, 136, 137 e 141 sono stabilite in deroga, rispettivamente, degli [articoli 56](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [99](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [102](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [105](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [229, n. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [240](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [196](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [197](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [205 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Le disposizioni degli articoli 108, 111, 112, 113, 115, 116, 136, 137 e 141 sono stabilite in deroga, rispettivamente, degli [articoli 56](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [99](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [102](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [105](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [229, n. 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [240](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [196](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [197](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [205 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 La disposizione dell'art. 145 e' stabilita in deroga degli articoli 24 e 26 dello stesso Codice. Le disposizioni degli articoli 142 e 143 sono, infine, stabilite in deroga degli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_13) e [45 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_45).
 
 ### Art. 150. — Norme d'attuazione.
@@ -1025,7 +1025,7 @@ Con decreto Reale su proposta del Ministro per le finanze di concerto con il Min
 
 ### Art. 151. — Disposizioni transitorie.
 
-Fino a quando non sia emanato il regolamento per l'esecuzione di questa legge, restano in vigore le norme regolamentari attuali, in quanto applicabili, e, agli effetti dell'articolo 145, le norme contenute negli articoli 119 e 120 del testo unico delle leggi doganali approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e successivamente modificato.
+Fino a quando non sia emanato il regolamento per l'esecuzione di questa legge, restano in vigore le norme regolamentari attuali, in quanto applicabili, e, agli effetti dell'articolo 145, le norme contenute negli articoli 119 e 120 del testo unico delle leggi doganali approvato con [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e successivamente modificato.
 
 ### Art. 152. — Entrata in vigore della legge.
 

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il testo unico della legge sui porti, spiaggie e fari approvato con [R. decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095), e il relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713); 
+ Visto il testo unico della legge sui porti, spiaggie e fari approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), e il relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713); 
  
  Visto il [R. decreto 22 giugno 1911, n. 830](Che%20inscrive%20il%20porto%20di%20Brindisi%20nella%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato.%20011U0830.md), che inscrisse una parte del porto di Brindisi nella prima categoria nei riguardi della difesa militare dello Stato; 
  

@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art.2 della legge 17 luglio 1910, n 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), sull'amministrazione e contabilita' dei corpi, istituti e stabilimenti militari; 
  
- Visto il [R. decreto 28 marzo 1915, n. 348](Col%20quale%20sono%20istituiti%20i%20Consigli%20damministrazione%20presso%20gli%20enti%20aeronautici.%20015U0348.md), che istituisce i Consigli di amministrazione presso gli enti aeronautici; 
+ Visto il [R. decreto 28 marzo 1915, n. 348](../Regi%20decreti/Col%20quale%20sono%20istituiti%20i%20Consigli%20damministrazione%20presso%20gli%20enti%20aeronautici.%20015U0348.md), che istituisce i Consigli di amministrazione presso gli enti aeronautici; 
  
  Visto il [decreto Luogotenenziale 13 giugno 1915 n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-13;905), col quale viene procrastinata l'applicazione della [legge 11 luglio 1897 n. 256](Concernente%20listituzione%20del%20riscontro%20effettivo%20sui%20magazzini%20e%20depositi%20di%20materie%20e%20di%20merci%20di%20proprieta%20dello%20Stato.%20097U0256.md), sul riscontro effettivo alla gestione dei materiali per i servizi aeronautici e di aviazione; 
  

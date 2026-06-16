@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Il limite stabilito dal [quarto comma dell'art. 1 della legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_1-com4), per i comuni e le provinciale, che alla pubblicazione di quella legge avevano aggiunto il limite legale dei cinquanta centesimi dell'imposta erariale, deve intendersi nel senso che i comuni, e le provincie possano applicare la sovrimposta nella somma effettiva di sovrimposta sui terreni e sui fabbricati inscritta nel bilancio 1906, o in quella che risulti dalla i media delle somme inscritte nei bilanci del quinquennio 1902-906 oppure in quella che insulti dalla applicazione della aliquota degli stessi esercizi. 
  
- Nulla e' innovato all'art. 305 del testo unico della legge comunale e provinciale approvato con [R. decreto 21 maggio 1908, n. 269](Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md). 
+ Nulla e' innovato all'art. 305 del testo unico della legge comunale e provinciale approvato con [R. decreto 21 maggio 1908, n. 269](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20008U0269.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

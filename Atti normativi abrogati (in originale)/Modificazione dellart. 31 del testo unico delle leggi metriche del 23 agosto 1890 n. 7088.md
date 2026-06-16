@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' ii Noi delegata;
 
-Visto il testo unico delle leggi metriche approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088);
+Visto il testo unico delle leggi metriche approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md);
 
 Visto il [decreto-legge Luogotenenziale 25 luglio 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-07-25;151), riguardante l'Assemblea per la nuova costituzione dello Stato, il giuramento di membri del Governo e la facolta' del Governo di emanare norme giuridiche;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per l'industria ed il commercio, di concerto con il 
 
 ## Art. 1.
 
-L'art. 31 del testo unico delle leggi metriche approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088), e' modificato come segue;
+L'art. 31 del testo unico delle leggi metriche approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), e' modificato come segue;
  "Sono, puniti:
  1° con ammenda da L 1000 a 5000:
  a) coloro che espongono in vendita o introducono in commercio pesi, misure e strumenti per pesare e misurare mancanti del bollo di prima verificazione;

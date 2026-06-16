@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [Regio decreto 26 marzo 1874, n. 1861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-03-26;1861);
+Veduto il [Regio decreto 26 marzo 1874, n. 1861](../Regi%20decreti/Relativo%20al%20riordinamento%20degli%20Archivi%20di%20Stato%20074U1861.md);
 
 Udito il Consiglio per gli Archivi;
 
@@ -189,7 +189,7 @@ Le promozioni da classe a classe dello stesso grado seguono per anzianita'.
 
 ## Art. 33.
 
-Ogni archivio ha un direttore: alla nomina dei direttori provvede l'[articolo 8 del Regio decreto 26 marzo 1874, numero 1861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-03-26;1861#art_8).
+Ogni archivio ha un direttore: alla nomina dei direttori provvede l'[articolo 8 del Regio decreto 26 marzo 1874, numero 1861](../Regi%20decreti/Relativo%20al%20riordinamento%20degli%20Archivi%20di%20Stato%20074U1861.md).
 
 ## Art. 34.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 32 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_32);
+Visto l'[art. 32 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto il [R. decreto-legge 6 maggio 1925, n. 625](Autorizzazione%20al%20Ministero%20delleconomia%20nazionale%20a%20bandire%20concorsi%20a%20posti%20nellAmministrazione%20centrale%20e%20provinciale.%20025U0625.md), con cui si autorizza il Ministro per l'economia nazionale a bandire concorsi pubblici per titoli e per esami per coprire la meta' dei posti attualmente vacanti nel grado iniziale di ciascun ruolo dell'Amministrazione centrale e provinciale del Ministero dell'economia nazionale;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per l'economia nazionale di conc
 
 ## Articolo unico.
 
-Per i concorsi banditi col [R. decreto-legge 6 maggio 1925, n. 625](Autorizzazione%20al%20Ministero%20delleconomia%20nazionale%20a%20bandire%20concorsi%20a%20posti%20nellAmministrazione%20centrale%20e%20provinciale.%20025U0625.md), sopra indicato, il periodo di due mesi che giusta l'[art. 32 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_32), deve intercorrere tra la pubblicazione del decreto Ministeriale che bandisce i concorsi stessi e la data di inizio delle prove di esame, e' ridotto a venti giorni. 
+Per i concorsi banditi col [R. decreto-legge 6 maggio 1925, n. 625](Autorizzazione%20al%20Ministero%20delleconomia%20nazionale%20a%20bandire%20concorsi%20a%20posti%20nellAmministrazione%20centrale%20e%20provinciale.%20025U0625.md), sopra indicato, il periodo di due mesi che giusta l'[art. 32 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), deve intercorrere tra la pubblicazione del decreto Ministeriale che bandisce i concorsi stessi e la data di inizio delle prove di esame, e' ridotto a venti giorni. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

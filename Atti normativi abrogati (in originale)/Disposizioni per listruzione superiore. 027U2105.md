@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
+Visto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -32,7 +32,7 @@ Il Consiglio nazionale delle ricerche e' organo permanente consultivo e di infor
 
 ## Art. 2.
 
-La ripartizione della somma. stanziata nel bilancio del Ministero della pubblica istruzione, a norma dell'[art. 117 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e delle altre somme che eventualmente vengano stanziate per scopi analoghi, e' disposta dal Ministro, udito il parere di un comitato composto di tre membri designati dal Direttorio del Consiglio nazionale delle ricerche, di due membri designati dalla Giunta del Consiglio superiore della pubblica istruzione di coi uno per la Facolta' di giurisprudenza e uno per la Facolta' di lettere e filosofia, del direttore generale dell'istruzione superiore e del capo della divisione competente. 
+La ripartizione della somma. stanziata nel bilancio del Ministero della pubblica istruzione, a norma dell'[art. 117 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e delle altre somme che eventualmente vengano stanziate per scopi analoghi, e' disposta dal Ministro, udito il parere di un comitato composto di tre membri designati dal Direttorio del Consiglio nazionale delle ricerche, di due membri designati dalla Giunta del Consiglio superiore della pubblica istruzione di coi uno per la Facolta' di giurisprudenza e uno per la Facolta' di lettere e filosofia, del direttore generale dell'istruzione superiore e del capo della divisione competente. 
  
  E' abrogato il secondo comma del citato art. 117.
 
@@ -72,13 +72,13 @@ Presso la Facolta' di lettere della Regia universita' di Roma e' istituita la ca
 
 L'[art. 22 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_22), e' abrogato. 
  
- All'[art. 8 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' aggiunto il seguente comma: 
+ All'[art. 8 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' aggiunto il seguente comma: 
  
  «Quando il Ministro ritenga opportuno di non addivenire momentaneamente alla nomina del rettore o direttore, puo' designare, con suo decreto, un prorettore o prodirettore, scegliendolo, sia tra i professori di ruolo appartenenti rispettivamente all'universita' o all'istituto, sia tra quelli di altra universita' o istituto della stessa sede. Il prorettore o prodirettore non puo' durare in ufficio oltre l'anno accademico, ed ha diritto all'indennita' spettante al rettore o al direttore».
 
 ## Art. 10.
 
-L'[art. 29, comma 1°, del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' da intendersi nel senso che le punizioni ivi contemplate si applicano, secondo i casi e le circostanze, per le seguenti mancanze: 
+L'[art. 29, comma 1°, del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' da intendersi nel senso che le punizioni ivi contemplate si applicano, secondo i casi e le circostanze, per le seguenti mancanze: 
  
  a) grave insubordinazione; 
  
@@ -90,7 +90,7 @@ L'[art. 29, comma 1°, del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20
 
 ## Art. 11.
 
-Alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e sue successive modificazioni sono apportate le variazioni seguenti: 
+Alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e sue successive modificazioni sono apportate le variazioni seguenti: 
  
  Napoli (Universita') Facolta' di medicina e chirurgia . . . n. 25  
  Napoli (Universita') Facolta' di scienze matematiche, 
@@ -132,7 +132,7 @@ Gli ufficiali del genio aeronautico, ammessi alla Scuola di perfezionamento di c
 
 ## Art. 17.
 
-Coloro che ottengono il riconoscimento, a norma dell'articolo 51, ultimo comma, del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), di titoli accademici conseguiti all'estero debbono pagare la tassa di laurea o di diploma. 
+Coloro che ottengono il riconoscimento, a norma dell'articolo 51, ultimo comma, del [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), di titoli accademici conseguiti all'estero debbono pagare la tassa di laurea o di diploma. 
  
  Coloro che, per il riconoscimento di titoli conseguiti all'estero, debbono sostenere esami di profitto, o di laurea, o diploma, sono tenuti al pagamento anche delle relative sopratasse.
 
@@ -148,7 +148,7 @@ Il giudizio sugli aspiranti al titolo di specialista, in base alle norme che sar
 
 ## Art. 20.
 
-La somma, entro i limiti della quale il Ministro per la pubblica istruzione puo' concedere gli assegni, di cui all'[art. 1 del R. decreto 11 marzo 1923, n. 563](Che%20istituisce%20assegni%20da%20concedersi%20ad%20italiani%20ed%20a%20stranieri%20per%20seguire%20corsi%20o%20compiere%20studi%20presso%20Universita%20Istituti%20superiori%20e%20scuole%20di%20belle%20arti%20rispettivamente%20dellestero%20e_0cdd7629ee87.md), e' annualmente stabilita nello stato di previsione della spesa del Ministero della pubblica istruzione.
+La somma, entro i limiti della quale il Ministro per la pubblica istruzione puo' concedere gli assegni, di cui all'[art. 1 del R. decreto 11 marzo 1923, n. 563](../Regi%20decreti/Che%20istituisce%20assegni%20da%20concedersi%20ad%20italiani%20ed%20a%20stranieri%20per%20seguire%20corsi%20o%20compiere%20studi%20presso%20Universita%20Istituti%20superiori%20e%20scuole%20di%20belle%20arti%20rispettivamente%20dellestero%20e_0cdd7629ee87.md), e' annualmente stabilita nello stato di previsione della spesa del Ministero della pubblica istruzione.
 
 ## Art. 21.
 
@@ -164,11 +164,11 @@ Per il primo funzionamento della Facolta' fascista di scienze politiche di cui a
 
 ### Art. 23.
 
-I professori di ruolo che, anteriormente al 1° dicembre 1924, erano in servizio nel Reale istituto superiore di scienze sociali «Cesare Alfieri» di Firenze, sono considerati, agli effetti del trasferimento ad altri istituti d'istruzione superiore nonche' agli effetti dell'applicazione dell'[art. 120 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), allo stesso modo dei professori di ruolo che, anteriormente alla data suddetta, erano in servizio nelle libere universita' di Camerino, Ferrara, Perugia ed Urbino. 
+I professori di ruolo che, anteriormente al 1° dicembre 1924, erano in servizio nel Reale istituto superiore di scienze sociali «Cesare Alfieri» di Firenze, sono considerati, agli effetti del trasferimento ad altri istituti d'istruzione superiore nonche' agli effetti dell'applicazione dell'[art. 120 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), allo stesso modo dei professori di ruolo che, anteriormente alla data suddetta, erano in servizio nelle libere universita' di Camerino, Ferrara, Perugia ed Urbino. 
  
- Per i professori che, anteriormente al 1° dicembre 1924, abbiano prestato servizio di ruolo nel Reale istituto superiore di scienze sociali «Cesare Alfieri» di Firenze e che, anteriormente alla data stessa, siano stati assunti nei ruoli dei professori universitari, il servizio prestato nell'Istituto suddetto e' considerato, agli effetti del collocamento nei quadri di classificazione degli stipendi nonche' agli effetti dell'applicazione dell'[art. 120 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), allo stesso modo che se fosse stato prestato in analoghe condizioni nelle unversita' libere di Camerino, Ferrara, Perugia ed Urbino. 
+ Per i professori che, anteriormente al 1° dicembre 1924, abbiano prestato servizio di ruolo nel Reale istituto superiore di scienze sociali «Cesare Alfieri» di Firenze e che, anteriormente alla data stessa, siano stati assunti nei ruoli dei professori universitari, il servizio prestato nell'Istituto suddetto e' considerato, agli effetti del collocamento nei quadri di classificazione degli stipendi nonche' agli effetti dell'applicazione dell'[art. 120 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), allo stesso modo che se fosse stato prestato in analoghe condizioni nelle unversita' libere di Camerino, Ferrara, Perugia ed Urbino. 
  
- Le qualifiche di reggente e di titolare, gia' vigenti per i professori dell'Istituto, suddetto, sono considerate rispettivamente equivalenti a quelle di straordinario e di ordinario gia' vigenti per i professori degli altri istituti d'istruzione superiore. Tuttavia coloro che alla data del 30 novembre 1924 erano reggenti nell'Istituto medesimo conservano ivi la stabilita' come reggenti; ma non possono conseguire la qualifica di professori stabili ai sensi dell'[art. 19 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), se non nei modi all'uopo prescritti. In caso di trasferimento ad altro istituto d'istruzione superiore, si applicano nei loro riguardi le disposizioni di cui al suddetto art. 19, commi 3° e 4°, decorrendo dalla data del trasferimento il triennio per il conseguimento della stabilita', salvo che gli interessati non chiedano l'abbreviazione del periodo medesimo, tenuto conto del servizio prestato come reggenti. 
+ Le qualifiche di reggente e di titolare, gia' vigenti per i professori dell'Istituto, suddetto, sono considerate rispettivamente equivalenti a quelle di straordinario e di ordinario gia' vigenti per i professori degli altri istituti d'istruzione superiore. Tuttavia coloro che alla data del 30 novembre 1924 erano reggenti nell'Istituto medesimo conservano ivi la stabilita' come reggenti; ma non possono conseguire la qualifica di professori stabili ai sensi dell'[art. 19 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), se non nei modi all'uopo prescritti. In caso di trasferimento ad altro istituto d'istruzione superiore, si applicano nei loro riguardi le disposizioni di cui al suddetto art. 19, commi 3° e 4°, decorrendo dalla data del trasferimento il triennio per il conseguimento della stabilita', salvo che gli interessati non chiedano l'abbreviazione del periodo medesimo, tenuto conto del servizio prestato come reggenti. 
  
  Le disposizioni di cui al .1° e al 2° comma del presente articolo hanno effetto dal 1° dicembre 1924, esclusa, peraltro, la corresponsione di eventuali differenze di trattamento economico, per il periodo anteriore al 1° ottobre 1926.
 
@@ -178,7 +178,7 @@ I rettori delle universita' e i direttori degli istituti superiori e degli istit
 
 ### Art. 25.
 
-Entro un anno dalla data di pubblicazione del presente decreto, i posti di assistente nel ruolo del personale degli osservatori astronomici e vesuviano possono essere conferiti, in deroga a quanto dispone l'[art. 5 del R. decreto 31 dicembre 1923, n. 3160](Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md), a funzionari appartenenti a qualunque ruolo dell'Amministrazione dello Stato, quando siano riconosciuti idonei all'ufficio da una Commissione formata da tre direttori di osservatorio o professori di ruolo di universita' o di istituto superiore.
+Entro un anno dalla data di pubblicazione del presente decreto, i posti di assistente nel ruolo del personale degli osservatori astronomici e vesuviano possono essere conferiti, in deroga a quanto dispone l'[art. 5 del R. decreto 31 dicembre 1923, n. 3160](../Regi%20decreti/Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md), a funzionari appartenenti a qualunque ruolo dell'Amministrazione dello Stato, quando siano riconosciuti idonei all'ufficio da una Commissione formata da tre direttori di osservatorio o professori di ruolo di universita' o di istituto superiore.
 
 ### Art. 26.
 
@@ -186,7 +186,7 @@ Per coprire i posti di professore di ruolo presso la Scuola d'ingegneria aeronau
 
 ### Art. 27.
 
-Per un quinquennio dalla data di pubblicazione del presente decreto il direttore della Regia scuola d'ingegneria di Milano potra' scegliersi anche tra persone di riconosciuta alta fama negli studi d'ingegneria che non ricoprano l'ufficio di professore di ruolo, ferme restando tutte le altre norme contenute nell'[art. 8 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e sue successive modificazioni.
+Per un quinquennio dalla data di pubblicazione del presente decreto il direttore della Regia scuola d'ingegneria di Milano potra' scegliersi anche tra persone di riconosciuta alta fama negli studi d'ingegneria che non ricoprano l'ufficio di professore di ruolo, ferme restando tutte le altre norme contenute nell'[art. 8 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e sue successive modificazioni.
 
 ### Art. 28.
 
@@ -202,7 +202,7 @@ Le norme relative al funzionamento presso le scuole d'ingegneria dei corsi compl
 
 Gli studenti, che seguirono i corsi superiori di magistero istituiti dal comune di Genova, possono, per l'anno scolastico 1927-28, ottenere l'iscrizione presso un istituto superiore di magistero regio o pareggiato al corso successivo a quello da essi gia' seguito; ed il Consiglio direttivo dell'istituto provvede a determinare l'ulteriore svolgimento della loro carriera scolastica. 
  
- Gli studenti che seguirono i corsi anzidetti per tutti gli anni prescritti per il conseguimento di uno dei diplomi di cui all'[art. 2 del R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), possono essere ammessi a sostenere, limitatamente agli anni scolastici 1927-28 e 1928-29, il corrispondente esame di diploma presso un istituto superiore di magistero regio o pareggiato. Il Consiglio direttivo stabilira', caso per caso, gli esami di profitto che il candidato debba eventualmente sostenere prima di essere ammesso all'esame di diploma. 
+ Gli studenti che seguirono i corsi anzidetti per tutti gli anni prescritti per il conseguimento di uno dei diplomi di cui all'[art. 2 del R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), possono essere ammessi a sostenere, limitatamente agli anni scolastici 1927-28 e 1928-29, il corrispondente esame di diploma presso un istituto superiore di magistero regio o pareggiato. Il Consiglio direttivo stabilira', caso per caso, gli esami di profitto che il candidato debba eventualmente sostenere prima di essere ammesso all'esame di diploma. 
  
  I corsi superiori di magistero istituiti dal comune di Genova non potranno piu' essere svolti, a decorrere dall'anno scolastico 1927-28.
 

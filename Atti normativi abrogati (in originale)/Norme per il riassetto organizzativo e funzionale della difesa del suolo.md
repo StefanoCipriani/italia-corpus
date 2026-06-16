@@ -51,7 +51,7 @@ Alla realizzazione delle attivita' previste al comma 1 concorrono, secondo le ri
 Le disposizioni della presente legge costituiscono norme fondamentali di riforma economico-sociale della Repubblica nonche' principi fondamentali ai sensi dell'articolo 117 della Costituzione.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'Art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'Art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota all'Art. 1:
  Il testo dell'[Art. 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117) e' il seguente:
@@ -1094,7 +1094,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-Sono soppressi i consorzi idraulici di terza categoria ed abrogate le disposizioni di cui al [regio decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), relative alla costituzione degli stessi.
+Sono soppressi i consorzi idraulici di terza categoria ed abrogate le disposizioni di cui al [regio decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), relative alla costituzione degli stessi.
 
 2.
 

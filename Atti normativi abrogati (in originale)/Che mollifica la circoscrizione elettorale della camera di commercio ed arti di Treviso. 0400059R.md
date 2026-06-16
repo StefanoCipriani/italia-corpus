@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il comune di Crocetta Trevigiana, istituito coi [regi decreti 1° maggio 1902, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-05-01;146), e 5 giugno 1902, n. CLXV (parte supplementare), e' aggiunto, nella tabella della circoscrizione elettorale della camera di commercio ed arti di Treviso, alla Lezione di Montebelluna. 
+Il comune di Crocetta Trevigiana, istituito coi [regi decreti 1° maggio 1902, n. 146](../Regi%20decreti/Col%20quale%20le%20frazioni%20di%20Nogare%20e%20Ciano%20sono%20staccate%20dal%20Comune%20di%20Cornuda%20e%20costituite%20in%20Comune%20autonomo.%20002U0146.md), e 5 giugno 1902, n. CLXV (parte supplementare), e' aggiunto, nella tabella della circoscrizione elettorale della camera di commercio ed arti di Treviso, alla Lezione di Montebelluna. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

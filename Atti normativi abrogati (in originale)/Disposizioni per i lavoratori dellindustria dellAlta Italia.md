@@ -16,7 +16,7 @@ Visto il [decreto legislativo luogotenenziale 9 novembre 1945, n. 788](../Decret
 
 Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 50](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md);
 
-Visto il [regio decreto legislativo 30 maggio 1946, n. 552](Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia_3.md);
+Visto il [regio decreto legislativo 30 maggio 1946, n. 552](../Regi%20decreti%20legislativi/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per il lavoro, e la previdenza sociale; di concerto 
 
 ## Art. 1.
 
-La disposizione dell'[art. 2 del decreto legislativo luogotenenziale 8 febbraio 1946, n. 50](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md), contenente norme per i lavoratori dell'industria dell'Alta Italia, modificato con [regio decreto 20 maggio 1946, n. 371](Determinazione%20del%20contributo%20dovuto%20alla%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria.md), continua ad avere effetto fino al 30 settembre 1946.
+La disposizione dell'[art. 2 del decreto legislativo luogotenenziale 8 febbraio 1946, n. 50](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md), contenente norme per i lavoratori dell'industria dell'Alta Italia, modificato con [regio decreto 20 maggio 1946, n. 371](../Regi%20decreti/Determinazione%20del%20contributo%20dovuto%20alla%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria.md), continua ad avere effetto fino al 30 settembre 1946.
  Sono altresi' prorogate fino alla stessa data le altre disposizioni del [decreto legislativo luogotenenziale 8 febbraio 1946, n. 50](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md), non aventi diretto riferimento con lo sblocco parziale dei licenziamenti di cui all'art. 3 dello stesso decreto.
 
 ## Art. 2.

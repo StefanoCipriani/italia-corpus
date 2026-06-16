@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [22 maggio 1924, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;786), e successive modificazioni, sulla amministrazione del patrimonio e la contabilita' generale dello Stato;
+Veduti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [22 maggio 1924, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;786), e successive modificazioni, sulla amministrazione del patrimonio e la contabilita' generale dello Stato;
 
 Veduta la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

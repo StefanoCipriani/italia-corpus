@@ -56,7 +56,7 @@ I banchi del lotto si distinguono, riguardo al loro conferimento, in due categor
 
 ## Art. 5.
 
-L'[art. 1 del Regio decreto 21 novembre 1880, n. 5744](Che%20provvede%20al%20riordinamento%20dellamministrazione%20del%20lotto.%20080U5744.md) (serie 2ª) e' modificato come segue: 
+L'[art. 1 del Regio decreto 21 novembre 1880, n. 5744](../Regi%20decreti/Che%20provvede%20al%20riordinamento%20dellamministrazione%20del%20lotto.%20080U5744.md) (serie 2ª) e' modificato come segue: 
  
  In eccezione alla generale proibizione delle pubbliche lotterie potranno essere permesse dal prefetto della provincia: 
  
@@ -70,7 +70,7 @@ L'[art. 1 del Regio decreto 21 novembre 1880, n. 5744](Che%20provvede%20al%20rio
  
  Non sono compresi nella proibizione della lotteria i prestiti a premio dei comuni e delle provincie autorizzati giusta [legge 19 giugno 1870, n. 5764](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-06-19;5764). 
  
- L'[art. 2 del R. decreto 21 novembre 1880, n. 5744](Che%20provvede%20al%20riordinamento%20dellamministrazione%20del%20lotto.%20080U5744.md) (Serie 2ª), e' soppresso.
+ L'[art. 2 del R. decreto 21 novembre 1880, n. 5744](../Regi%20decreti/Che%20provvede%20al%20riordinamento%20dellamministrazione%20del%20lotto.%20080U5744.md) (Serie 2ª), e' soppresso.
 
 ## Art. 6.
 

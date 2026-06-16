@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-La tabella dei diritti per la visita del bestiame e dei prodotti ed avanzi animali ai confini dello Stato, prevista dall'[articolo 32 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_32), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), quale risulta modificata con [decreto legislativo del Capo provvisorio dello Stato 27 settembre 1947, n. 1099](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-27;1099), e' sostituita dalla tabella allegata.
+La tabella dei diritti per la visita del bestiame e dei prodotti ed avanzi animali ai confini dello Stato, prevista dall'[articolo 32 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), quale risulta modificata con [decreto legislativo del Capo provvisorio dello Stato 27 settembre 1947, n. 1099](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-27;1099), e' sostituita dalla tabella allegata.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

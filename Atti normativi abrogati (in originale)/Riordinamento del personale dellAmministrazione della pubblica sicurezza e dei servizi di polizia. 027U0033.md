@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive estensioni e modificazioni;
 
 Visto il [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441);
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-I ruoli organici di cui alla tabella n. 44 dell'allegato-II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificati col [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441), sono sostituiti da quelli di cui alla tabella A annessa al presente decreto.
+I ruoli organici di cui alla tabella n. 44 dell'allegato-II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificati col [R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441), sono sostituiti da quelli di cui alla tabella A annessa al presente decreto.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Ferme restando le disposizioni in vigore relative alla nomina al grado iniziale 
 
 ## Art. 3.
 
-L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificata con l'[articolo 9 del R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441#art_9), e' stabilita nella seguente misura: 
+L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), gia' modificata con l'[articolo 9 del R. decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-05;441#art_9), e' stabilita nella seguente misura: 
  
  Volontari . . . . . . . . . . . . . . . . . . . . . . . . . L. 3000 
  
@@ -64,7 +64,7 @@ L'indennita' di servizio speciale di cui all'[art. 187 del R. decreto 11 novembr
  Questori ed ispettori generali di pubblica sicurezza 
  di 1ª classe . . . . . . . . . . . . . . . . . . . . . . . » 9000 
  
- Tale indennita' e' computabile agli effetti della pensione limitatamente alle misure gia' fissate per i singoli gradi dall'[art. 187 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); non e' invece computabile agli effetti stessi per i volontari.
+ Tale indennita' e' computabile agli effetti della pensione limitatamente alle misure gia' fissate per i singoli gradi dall'[art. 187 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); non e' invece computabile agli effetti stessi per i volontari.
 
 ## Art. 4.
 
@@ -155,7 +155,7 @@ Il Ministro per l'interno e' autorizzato a conferire, mediante concorso per esam
 
 ### Art. 17.
 
-Ferma restando la classificazione del ruolo degli ufficiali di pubblica sicurezza nei gruppi A, alla prima attuazione e per il periodo di due anni dall'entrata in vigore del presente decreto, per l'ammissione nel ruolo stesso e' richiesto il diploma di licenza di istituto medio di 2° grado, o alcuno dei corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+Ferma restando la classificazione del ruolo degli ufficiali di pubblica sicurezza nei gruppi A, alla prima attuazione e per il periodo di due anni dall'entrata in vigore del presente decreto, per l'ammissione nel ruolo stesso e' richiesto il diploma di licenza di istituto medio di 2° grado, o alcuno dei corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 18.
 
@@ -207,7 +207,7 @@ Rimangono in vigore le disposizioni che non contrastano con il presente decreto 
 
 ### Art. 28.
 
-Il Governo del Re e' autorizzato a coordinare in un nuovo testo unico le disposizioni del [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690), e del presente decreto con le altre disposizioni concernenti l'ordinamento degli ufficiali e degli impiegati di pubblica sicurezza.
+Il Governo del Re e' autorizzato a coordinare in un nuovo testo unico le disposizioni del [R. decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md), e del presente decreto con le altre disposizioni concernenti l'ordinamento degli ufficiali e degli impiegati di pubblica sicurezza.
 
 ### Art. 29.
 

@@ -36,7 +36,7 @@ Il Consiglio superiore e' costituito con decreto Reale promosso dal ministro del
 
 ## Art. 3.
 
-Di sei consiglieri da nominare a norma della lettera d) del precedente articolo, tre sono scelti dal ministro e tre sono designati mediante votazione dal personale titolare ed incaricato delle RR. scuole e delle RR. stazioni sperimentali riconosciute e classificate a termini del titolo II, capo I, del regolamento approvato con [R. decreto 22 giugno 1913, n. 1014, e dell'art. 6](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md) del [decreto-legge Luogotenenziale 10 maggio 1918, n. 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1918-05-10;896). 
+Di sei consiglieri da nominare a norma della lettera d) del precedente articolo, tre sono scelti dal ministro e tre sono designati mediante votazione dal personale titolare ed incaricato delle RR. scuole e delle RR. stazioni sperimentali riconosciute e classificate a termini del titolo II, capo I, del regolamento approvato con [R. decreto 22 giugno 1913, n. 1014, e dell'art. 6](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md) del [decreto-legge Luogotenenziale 10 maggio 1918, n. 896](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1918-05-10;896). 
  
  Le norme per le votazioni saranno stabilite da un regolamento approvato con decreto del ministro. 
  

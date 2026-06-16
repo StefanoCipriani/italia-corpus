@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-Il [primo comma dell'articolo 123 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_123-com1), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e' sostituito dal seguente: 
+Il [primo comma dell'articolo 123 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' sostituito dal seguente: 
  "Per l'esercizio del mestiere di guida, interprete, corriere, guida o portatore alpino e per l'abilitazione all'insegnamento dello sci e' necessario ottenere la licenza del questore".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

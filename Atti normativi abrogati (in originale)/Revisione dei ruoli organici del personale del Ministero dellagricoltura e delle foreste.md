@@ -22,12 +22,12 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Le tabelle organiche A, B, C, D, E, F, G, L, M, N, di cui al [regio decreto 29 maggio 1941, n. 489](Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md) e successive modificazioni, sono sostituite rispettivamente dalle tabelle da I a X allegate al presente decreto, firmate dal Ministro proponente e dal Ministro per il tesoro.
+Le tabelle organiche A, B, C, D, E, F, G, L, M, N, di cui al [regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md) e successive modificazioni, sono sostituite rispettivamente dalle tabelle da I a X allegate al presente decreto, firmate dal Ministro proponente e dal Ministro per il tesoro.
 
 ## Art. 2.
 
 Nei primi due anni dalla data, da cui ha effetto il presente decreto i periodi di anzianita' di grado normalmente richiesti per l'avanzamento ai gradi superiori all'8° dei ruoli di gruppo A e B ed al 10° dei ruoli di gruppo C, sono ridotti di un anno e mezzo.
- I posti disponibili alla prima attuazione del presente decreto nei gradi 8° dei ruoli di gruppo A, 9° dei ruoli di gruppo B ed 11° dei ruoli di gruppo C, saranno conferiti con i criteri indicati nell'[art. 8 del regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_8), ed i periodi di anzianita' previsti dallo stesso articolo per le promozioni a detti gradi sono ridotti di un anno e mezzo.
+ I posti disponibili alla prima attuazione del presente decreto nei gradi 8° dei ruoli di gruppo A, 9° dei ruoli di gruppo B ed 11° dei ruoli di gruppo C, saranno conferiti con i criteri indicati nell'[art. 8 del regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), ed i periodi di anzianita' previsti dallo stesso articolo per le promozioni a detti gradi sono ridotti di un anno e mezzo.
  La riduzione di anzianita' di cui ai precedenti commi non si applica al personale che abbia gia' fruito di analogo beneficio in precedenti promozioni e di essa non si potra' fruire per conseguire piu' di una promozione.
 
 ## Art. 3.

@@ -144,7 +144,7 @@ Se in uno stesso spettacolo, oltre il film a lungo metraggio, sono programmati p
 
 Le provvidenze stabilite dalla presente legge si applicano anche quando la programmazione del film nazionale, a lungometraggio, a cortometraggio o di attualita', viene effettuata con pellicola a formato ridotto.
  Ove il film nazionale e lungometraggio, a cortometraggio o di attualita' sia stato ripreso direttamente a formato ridotto, i metraggi minimi previsti dalla presente legge si intendono proporzionalmente diminuiti.
- Per le modalita' di pagamento dei contributi di cui al presente ed ai precedenti articoli 14, 15 e 16, valgono le norme stabilite dal [regio decreto 20 ottobre 1939, n. 2237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-20;2237).
+ Per le modalita' di pagamento dei contributi di cui al presente ed ai precedenti articoli 14, 15 e 16, valgono le norme stabilite dal [regio decreto 20 ottobre 1939, n. 2237](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20R.%20decreto%20legge%2017%20giugno%201938-XVI%20n.%201061%20contenente%20provvedimenti%20a%20favore%20della%20industria%20cinematografica%20nazionale.%20039U2237.md).
 
 ## Art. 18.
 

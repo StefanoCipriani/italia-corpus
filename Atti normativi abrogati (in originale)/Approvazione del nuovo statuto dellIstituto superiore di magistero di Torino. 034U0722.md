@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [Regio decreto 27 ottobre 1932, n. 2101](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20superiore%20di%20magistero%20del%20Piemonte%20di%20Torino.%20032U2101.md), con il quale e' stato approvato lo statuto dell'Istituto superiore di magistero del Piemonte di Torino;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con il [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con il [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Sentito il Consiglio superiore della educazione nazionale;
 

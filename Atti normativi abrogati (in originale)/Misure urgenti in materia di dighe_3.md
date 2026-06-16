@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-La realizzazione di opere di sbarramento che superano i 10 metri di altezza o che determinano un volume d'invaso superiore a 100.000 metri cubi, di seguito denominate dighe, e' soggetta, oltre che alla concessione per la derivazione e la utilizzazione dell'acqua pubblica, in quanto necessaria ai sensi del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive modificazioni, all'approvazione tecnica del progetto.
+La realizzazione di opere di sbarramento che superano i 10 metri di altezza o che determinano un volume d'invaso superiore a 100.000 metri cubi, di seguito denominate dighe, e' soggetta, oltre che alla concessione per la derivazione e la utilizzazione dell'acqua pubblica, in quanto necessaria ai sensi del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive modificazioni, all'approvazione tecnica del progetto.
 
 2.
 
@@ -148,7 +148,7 @@ Chiunque non adempia alle prescrizioni di cui all'articolo 3, comma 5, ovvero de
 
 5.
 
-L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

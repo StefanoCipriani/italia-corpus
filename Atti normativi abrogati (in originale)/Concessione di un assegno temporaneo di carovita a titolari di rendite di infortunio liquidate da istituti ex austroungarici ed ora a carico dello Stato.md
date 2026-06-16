@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 24 settembre 1931, numero 1555](Provvedimenti%20pe
 
 Visto il [regio decreto-legge 23 marzo 1933, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;264);
 
-Visto il [regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765);
+Visto il [regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md);
 
 Visto il [decreto legislativo luogotenenziale 26 aprile 1945, n. 343](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20un%20assegno%20temporaneo%20di%20carovita%20ai%20titolari%20di%20rendita%20per%20infortunio%20sul%20lavoro%20o%20per%20malattie%20professionali%20con%20grado%20di%20inabilita%20dal%2050%20al%20100%20.%20045U0343.md);
 

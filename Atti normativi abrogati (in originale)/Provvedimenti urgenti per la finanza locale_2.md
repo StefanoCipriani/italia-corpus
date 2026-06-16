@@ -223,7 +223,7 @@ La somma messa a disposizione dalla Cassa depositi e prestiti dovra' essere impe
 
 5.
 
-I comuni compresi nei territori di cui all'art. 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), nell'ambito dei propri programmi di investimento sono tenuti a realizzare con priorita' le opere necessarie a rendere funzionali ed operativi gli interventi eseguiti dalla Cassa per il Mezzogiorno nel settore delle opere idriche e di quelle igieniche.
+I comuni compresi nei territori di cui all'art. 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), nell'ambito dei propri programmi di investimento sono tenuti a realizzare con priorita' le opere necessarie a rendere funzionali ed operativi gli interventi eseguiti dalla Cassa per il Mezzogiorno nel settore delle opere idriche e di quelle igieniche.
 
 6.
 
@@ -366,7 +366,7 @@ Sono esenti dalla tassa:
                             c)
                                 le caserme; le carceri; le strade ferrate; le autostrade e le aree portuali ed aeroportuali;
                             d)
-                                gli edifici aperti al culto della chiesa cattolica, delle altre confessioni religiose i cui rapporti con lo Stato siano regolati per legge sulla base delle intese di cui all'[art. 8 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_8) nonche' delle comunita' israelitiche e degli altri enti di culto che abbiano ottenuto il riconoscimento civile in base agli [articoli 2 della legge 24 giugno 1929, n. 1159 e 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;10#art_2) del [regio decreto 28 febbraio 1930, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289);
+                                gli edifici aperti al culto della chiesa cattolica, delle altre confessioni religiose i cui rapporti con lo Stato siano regolati per legge sulla base delle intese di cui all'[art. 8 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_8) nonche' delle comunita' israelitiche e degli altri enti di culto che abbiano ottenuto il riconoscimento civile in base agli [articoli 2 della legge 24 giugno 1929, n. 1159 e 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;10#art_2) del [regio decreto 28 febbraio 1930, n. 289](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md);
                             e)
                                 gli immobili di proprieta' della Santa Sede indicati negli articoli 13, 14, 15 e 16 del trattato dell'11 febbraio 1929, reso esecutivo con [legge 27 maggio 1929, n. 810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;810);
                             f)
@@ -492,7 +492,7 @@ L'azione giudiziaria deve essere esperita entro novanta giorni dalla notificazio
 
 1.
 
-Se il contribuente non esegue il versamento nel termine indicato nell'avviso di liquidazione o nell'avviso di accertamento il comune notifica ingiunzione di pagamento contenente l'ordine di pagare entro il termine di 60 giorni. Alla riscossione coattiva si procede secondo le disposizioni del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Se il contribuente non esegue il versamento nel termine indicato nell'avviso di liquidazione o nell'avviso di accertamento il comune notifica ingiunzione di pagamento contenente l'ordine di pagare entro il termine di 60 giorni. Alla riscossione coattiva si procede secondo le disposizioni del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 2.
 
@@ -504,9 +504,9 @@ Il rimborso della tassa, delle sanzioni e degli interessi puo' essere richiesto 
 
 Con effetto dal 1° gennaio 1986 sono soppresse:
                             a)
-                                l'imposta sui cani di cui agli articoli da 130 a 136 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
+                                l'imposta sui cani di cui agli articoli da 130 a 136 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
                             b)
-                                la tassa per lo smaltimento dei rifiuti solidi urbani interni, di cui agli articoli 268 e successivi del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), nel testo sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
+                                la tassa per lo smaltimento dei rifiuti solidi urbani interni, di cui agli articoli 268 e successivi del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), nel testo sostituito dall'[articolo 21 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
 
 2.
 

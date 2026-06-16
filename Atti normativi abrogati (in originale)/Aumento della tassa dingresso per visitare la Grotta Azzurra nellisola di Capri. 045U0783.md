@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il primo comma dell'articolo unico del [R. decreto 21 ottobre 1926, n. 1931](Tassa%20dingresso%20per%20la%20Grotta%20Azzurra%20nellIsola%20di%20Capri.%20026U1931.md), e' sostituito dal seguente; 
+Il primo comma dell'articolo unico del [R. decreto 21 ottobre 1926, n. 1931](../Regi%20decreti/Tassa%20dingresso%20per%20la%20Grotta%20Azzurra%20nellIsola%20di%20Capri.%20026U1931.md), e' sostituito dal seguente; 
  Per visitare la Grotta Azzurra nell'isola di Capri ciascuna persona dovra' pagare una tassa di L. 30.
 
 ## Art. 2.

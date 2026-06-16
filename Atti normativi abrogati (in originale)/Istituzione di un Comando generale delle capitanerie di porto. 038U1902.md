@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico da Codice per la marina mercantile, approvato con [R. decreto 24 ottobre 1877, n. 4146](Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md) (serie 2ª), e successive modificazioni;
+Visto il testo unico da Codice per la marina mercantile, approvato con [R. decreto 24 ottobre 1877, n. 4146](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20del%20Codice%20della%20marina%20mercantile.%20077U4146.md) (serie 2ª), e successive modificazioni;
 
 Visto il regolamento per la esecuzione del predetto testo unico approvato con R. decreto 20 novembre 1879;
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Viste le norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
+Viste le norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Gli autobus e gli autocarri di qualsiasi portata di nuova costruzione destinati 
 
 ## Art. 2.
 
-Il contravventore e' punito con le pene e le altre sanzioni stabilite nel secondo capoverso dell'art. 70 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md). 
+Il contravventore e' punito con le pene e le altre sanzioni stabilite nel secondo capoverso dell'art. 70 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md). 
  
  Il presente decreto sara' pubblicato sulla Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. 
  

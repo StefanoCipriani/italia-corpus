@@ -14,7 +14,7 @@ I termini assegnati dall'[art. 1 del decreto Luogotenenziale 5 novembre 1916, n.
 
 ## Art. 2.
 
-All'[art. 4 del R. decreto 23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), e' aggiunto il capoverso seguente: 
+All'[art. 4 del R. decreto 23 maggio 1915, n. 700](../Regi%20decreti/Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), e' aggiunto il capoverso seguente: 
  
  «Le cambiali a carico di fornitori di oggetti ed articoli contrattualmente impegnati al R. Governo per servire alla conservazione o alla difesa dello Stato potranno essere munite anche di una sola firma, purche' siano assistite dal privilegio stabilito dall'[art. 1 del decreto Luogotenenziale 11 luglio 1915, n. 1076](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1076#art_1), ovvero garantite dal pegno dei crediti conseguenti dalle forniture».
 

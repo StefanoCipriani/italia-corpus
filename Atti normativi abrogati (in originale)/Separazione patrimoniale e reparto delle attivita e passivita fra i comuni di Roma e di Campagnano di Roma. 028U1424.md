@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduti il [R. decreto 27 dicembre 1923, n. 3247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-27;3247), con cui la frazione di Cesano e' stata distaccata dal comune di Campagnano di Roma ed aggregata a quello di Roma, nonche' il [R. decreto 22 aprile 1926, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-22;720), con il quale sono stati stabiliti i confini della frazione anzidetta; 
+ Veduti il [R. decreto 27 dicembre 1923, n. 3247](../Regi%20decreti/Distacco%20della%20frazione%20di%20Cesano%20dal%20comune%20di%20Campagnano%20di%20Roma%20ed%20aggregazione%20a%20quello%20di%20Roma.%20023U3247.md), con cui la frazione di Cesano e' stata distaccata dal comune di Campagnano di Roma ed aggregata a quello di Roma, nonche' il [R. decreto 22 aprile 1926, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-22;720), con il quale sono stati stabiliti i confini della frazione anzidetta; 
  
  Vedute le deliberazioni 8 aprile 1927 del Governatore di Roma e 4 giugno 1927 del podesta' di Campagnano di Roma, con le quali, in dipendenza della surriferita modificazione di circoscrizione, e' stato determinato il progetto di separazione patrimoniale e di reparto delle attivita' e passivita'; 
  

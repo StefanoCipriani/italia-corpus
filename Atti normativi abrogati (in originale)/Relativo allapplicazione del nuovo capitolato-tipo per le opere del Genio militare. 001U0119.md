@@ -28,7 +28,7 @@ Sulla proposta dal Nostro Ministro Segretario di Stato per gli Affari della Guer
 
 E' approvato il nuovo capitolato-tipo pei lavori del Genio militare da eseguirsi nel territorio del Comando del Genio militare di Napoli, compilato in data 30 ottobre 1900, d'ordine Nostro firmato dal Ministro della Guerra, restando abrogati i capitolati-tipo per le Direzioni del Genio militare di Bari, Capua (ora soppressa), Messina, Palermo e Napoli, approvati coi RR. decreti del 10 novembre 1875, n. 2793 (serie 2ª), e 14 settembre 1888, n. 5722 (serie 3ª). 
  
- Restano invariate le disposizioni degli articoli 2 e 3 del succitato [R. decreto 10 novembre 1875, n. 2793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-11-10;2793) (serie 2ª). 
+ Restano invariate le disposizioni degli articoli 2 e 3 del succitato [R. decreto 10 novembre 1875, n. 2793](../Regi%20decreti/Che%20approva%20i%20capitolati-tipi%20pel%20servizio%20del%20genio%20militare.%20075U2793.md) (serie 2ª). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

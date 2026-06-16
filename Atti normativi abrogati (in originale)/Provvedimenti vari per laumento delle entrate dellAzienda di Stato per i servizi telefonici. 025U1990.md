@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico di legge sui telefoni, approvato con [R. decreto del 3 maggio 1903, n. 196](Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md) e il relativo regolamento approvato con [R. decreto del 21 maggio 1903, n. 253](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md);
+Visto il testo unico di legge sui telefoni, approvato con [R. decreto del 3 maggio 1903, n. 196](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md) e il relativo regolamento approvato con [R. decreto del 21 maggio 1903, n. 253](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md);
 
 Visti i [Regi decreti-legge 11 marzo 1920, n. 316](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20020U0316.md); [25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-25;44); [31 marzo 1921, n. 507](Che%20modifica%20quello%2025%20gennaio%201921%20n.%2044%20circa%20le%20tariffe%20telefoniche.%20021U0507.md); [23 novembre 1921, n. 1824](Che%20apporta%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche.%20021U1824.md);
 
-Visti i [Regi decreti 8 febbraio 1923, n. 399](Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md), e [3 maggio 1923, n. 1131](Che%20riduce%20in%20via%20di%20esperimento%20le%20tariffe%20telegrafiche%20e%20telefoniche.%20023U1131.md):
+Visti i [Regi decreti 8 febbraio 1923, n. 399](../Regi%20decreti/Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md), e [3 maggio 1923, n. 1131](../Regi%20decreti/Che%20riduce%20in%20via%20di%20esperimento%20le%20tariffe%20telegrafiche%20e%20telefoniche.%20023U1131.md):
 
 Visto il [R. decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md);
 
@@ -72,7 +72,7 @@ Quando una conversazione non ha luogo perche' al momento in cui e' stabilita la 
 
 ## Art. 7.
 
-L'art. 96 del regolamento approvato con [R. decreto del 21 maggio 1903, n. 253](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md), e' modificato come segue: 
+L'art. 96 del regolamento approvato con [R. decreto del 21 maggio 1903, n. 253](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md), e' modificato come segue: 
  
  «Art. 96. - Nessun compenso e' dovute al Comune per i telegrammi e le conversazioni scambiate tra il posto telefonico e l'ufficio telegrafico».
 

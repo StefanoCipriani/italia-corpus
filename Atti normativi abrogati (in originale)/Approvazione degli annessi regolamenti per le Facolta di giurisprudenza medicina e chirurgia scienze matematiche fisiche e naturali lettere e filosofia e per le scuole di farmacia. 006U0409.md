@@ -42,4 +42,4 @@ Sono abrogati i regolamenti speciali per le Facolta' predette, approvati col Nos
  Visto, Il guardasigilli: E. Sacchi. 
  
  --------------- 
- N. B. - Gli articoli 3 e 14 del regolamento per la Facolta' di filosofia e lettere annesso al presente decreto, sono stati modificati col successivo [R. decreto 8 luglio 1906, n. 410](Sostituzione%20ad%20alcuni%20articoli%20del%20regolamento%20per%20la%20Facolta%20di%20lettere%20e%20filosofia%20annesso%20al%20R.%20decreto%2017%20maggio%201906.%20006U0410.md).
+ N. B. - Gli articoli 3 e 14 del regolamento per la Facolta' di filosofia e lettere annesso al presente decreto, sono stati modificati col successivo [R. decreto 8 luglio 1906, n. 410](../Regi%20decreti/Sostituzione%20ad%20alcuni%20articoli%20del%20regolamento%20per%20la%20Facolta%20di%20lettere%20e%20filosofia%20annesso%20al%20R.%20decreto%2017%20maggio%201906.%20006U0410.md).

@@ -46,7 +46,7 @@ Le tabelle A, B, C, D, E, F, G, H, I, L, M ed N annesse al presente regolamento 
 
 ### Art. 4.
 
-Le speciali lauree o diplomi che le universita' e gli istituti superiori possono stabilire nei loro statuti a mente dell'articolo 167 del testo unico approvato col [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), valgono, di regola, come titoli di ammissioni agli stessi concorsi ed esami di abilitazione, per i quali sono valide le lauree e i diplomi fondamentali conseguiti presse le stesse facolta' che rilasciano le dette lauree e diplomi speciali, salvo che sia diversamente determinato con Decreto Reale a norma dell'art. 173, comma 2°, dello stesso testo unico. 
+Le speciali lauree o diplomi che le universita' e gli istituti superiori possono stabilire nei loro statuti a mente dell'articolo 167 del testo unico approvato col [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), valgono, di regola, come titoli di ammissioni agli stessi concorsi ed esami di abilitazione, per i quali sono valide le lauree e i diplomi fondamentali conseguiti presse le stesse facolta' che rilasciano le dette lauree e diplomi speciali, salvo che sia diversamente determinato con Decreto Reale a norma dell'art. 173, comma 2°, dello stesso testo unico. 
  
  Valgono inoltre per l'ammissione ai concorsi e agli esami di abilitazione i titoli rilasciati da universita' della cessata monarchia austro-ungarica, nei limiti stabiliti dal [R. decreto-legge 8 giugno 1921, n. 1573](Che%20estende%20alle%20scuole%20medie%20e%20magistrali%20e%20ai%20licei%20femminili%20di%20cultura%20di%20lingua%20italiana%20delle%20nuove%20provincie%20la%20validita%20dei%20titoli%20di%20abilitazione%20allinsegnamento%20nelle%20scuole%20med_6c8852807d53.md), e dal [R. decreto-legge 11 marzo 1923, n. 620](Che%20modifica%20lart.%206%20del%20R.%20decreto-legge%208%20giugno%201921%20n.%201573%20relativo%20al%20riconoscimento%20dei%20diplomi%20di%20abilitazione%20allinsegnamento%20nelle%20scuole%20medie%20tedesche%20conseguiti%20dopo%20il%203%20nov_bdca704f11a5.md), convertiti in leggi con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md).
 
@@ -462,7 +462,7 @@ La relazione e gli atti della Commissione sono trasmessi al Ministro.
 
 ### Art. 66.
 
-Gli aiuti ed assistenti delle universita' e degli istituti superiori che si trovino nelle condizioni previste dall'art. 132 del testo unico delle leggi sull'istruzione superiore, approvato col [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), possono conseguire la nomina in ruolo in Regie scuole e Regi istituti di istruzione media tecnica oppure il semplice diploma di abilitazione all'esercizio professionale per il quale abbiano titolo a norma del presente regolamento; ma nell'uno e nell'altro caso occorre che essi versino all'erario la tassa di cui all'art. 16, a meno che essi posseggano un antico titolo che a norma del presente regolamento, continui ad avere pieno valore di abilitazione per la cattedra a cui aspirano.
+Gli aiuti ed assistenti delle universita' e degli istituti superiori che si trovino nelle condizioni previste dall'art. 132 del testo unico delle leggi sull'istruzione superiore, approvato col [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), possono conseguire la nomina in ruolo in Regie scuole e Regi istituti di istruzione media tecnica oppure il semplice diploma di abilitazione all'esercizio professionale per il quale abbiano titolo a norma del presente regolamento; ma nell'uno e nell'altro caso occorre che essi versino all'erario la tassa di cui all'art. 16, a meno che essi posseggano un antico titolo che a norma del presente regolamento, continui ad avere pieno valore di abilitazione per la cattedra a cui aspirano.
 
 ## Delle abilitazioni e dei diplomi.
 
@@ -470,7 +470,7 @@ CAPO V.
 
 ### Art. 67.
 
-Le lauree e i diplomi conseguiti entro il 31 dicembre 1924, oppure, nel caso previsto dall'art. 326 del Testo Unico approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), entro il 31 dicembre 1925, conservano la loro originaria efficacia di titoli di abilitazione. 
+Le lauree e i diplomi conseguiti entro il 31 dicembre 1924, oppure, nel caso previsto dall'art. 326 del Testo Unico approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), entro il 31 dicembre 1925, conservano la loro originaria efficacia di titoli di abilitazione. 
  
  Conservano altresi' la loro originaria efficacia le abilitazioni all'insegnamento di discipline nei Regi istituti medi d'istruzione, rilasciate in base all'antica legislazione. 
  
@@ -546,7 +546,7 @@ Per essere iscritto nell'albo occorre:
  
  2° essere di condotta morale, civile e politica irreprensibile; 
  
- 3° possedere il titolo di abilitazione all'insegnamento medio tecnico, conseguito in base al presente regolamento o un antico titolo che conservi la sua originaria efficacia di abilitazione a norma delle disposizioni del precedente capo. Le persone provviste di titoli equipollenti, a norma dell'[articolo 113 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_113), possono essere iscritte solo per l'insegnamento negli istituti privati pei quali conseguirono la dichiarazione di equipollenza.
+ 3° possedere il titolo di abilitazione all'insegnamento medio tecnico, conseguito in base al presente regolamento o un antico titolo che conservi la sua originaria efficacia di abilitazione a norma delle disposizioni del precedente capo. Le persone provviste di titoli equipollenti, a norma dell'[articolo 113 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), possono essere iscritte solo per l'insegnamento negli istituti privati pei quali conseguirono la dichiarazione di equipollenza.
 
 ### Art. 81.
 

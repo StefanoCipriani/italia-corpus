@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'[art. 3 del R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_3), e' aggiunto il seguente comma: 
+All'[art. 3 del R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), e' aggiunto il seguente comma: 
  
  «Il trattamento indicato spetta altresi' ai funzionari del gruppo A. del Ministero degli affari esteri che si rechino in missione isolata all'estero».
 

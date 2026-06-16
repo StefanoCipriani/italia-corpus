@@ -18,7 +18,7 @@ UMBERTO I.
  
  Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri e del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; 
  
- Visto l'[articolo 7 della legge 14 luglio 1889 n. 6165](Che%20approva%20la%20riforma%20penitenziaria.%20089U6165.md) (serie 3ª), con cui venne autorizzata la graduale esecuzione della riforma penitenziaria col riordinamento dei fabbricati carcerari per l'applicazione del vigente [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ Visto l'[articolo 7 della legge 14 luglio 1889 n. 6165](Che%20approva%20la%20riforma%20penitenziaria.%20089U6165.md) (serie 3ª), con cui venne autorizzata la graduale esecuzione della riforma penitenziaria col riordinamento dei fabbricati carcerari per l'applicazione del vigente [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  Visti i decreti Reali 5 giugno 1892 n. 290 e 16 marzo 1893 num. 199, in applicazione parziale del detto articolo 7; 
  

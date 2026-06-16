@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [decreto del Presidente della Repubblica 31 marzo 1969, n. 281](Approvazione%20del%20nuovo%20statuto%20della%20Scuola%20normale%20superiore%20di%20Pisa.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
@@ -36,7 +36,7 @@ Decreta: Lo statuto della Scuola normale superiore di Pisa, approvato e modifica
 
 Il primo comma dell'art. 2 e' soppresso e sostituito dal seguente:
 
- La Scuola normale superiore, in conformita' a quanto previsto dall'art. 233 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' istituto di Istruzione superiore con ordinamento speciale ed ha personalita' giuridica ed autonomia amministrativa, didattica e disciplinare, sotto la vigilanza dello Stato esercitata dal Ministro della pubblica istruzione.
+ La Scuola normale superiore, in conformita' a quanto previsto dall'art. 233 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e' istituto di Istruzione superiore con ordinamento speciale ed ha personalita' giuridica ed autonomia amministrativa, didattica e disciplinare, sotto la vigilanza dello Stato esercitata dal Ministro della pubblica istruzione.
  Nell'art. 4, il testo della lettera e) e' soppresso e sostituito dal seguente testo:
  e) esercita tutte le altre attribuzioni che gli sono demandate dalle norme generali e speciali concernenti lo ordinamento universitario, dal presente statuto e dal regolamento interno.
  L'art. 5 e' soppresso e sostituito dal seguente:
@@ -64,7 +64,7 @@ Il primo comma dell'art. 2 e' soppresso e sostituito dal seguente:
  1) Gli enti che concorrono eventualmente al mantenimento dell'Istituto con un contributo annuo non inferiore ad 1/10 del contributo corrisposto dallo Stato, hanno diritto a designare un proprio rappresentante in seno al consiglio direttivo.
  I privati sotto le stesse condizioni, hanno diritto a parteciparvi di persona.
  Unitamente ai rappresentanti del personale non docente, i predetti hanno voto deliberante solo per le questioni attinenti all'amministrazione della Scuola.
- 2) Per quanto attiene alle delibere relative alla richiesta di professori di ruolo, alla copertura di detti posti, ed ai provvedimenti relativi ai professori ordinari e straordinari, il consiglio delibera secondo quanto previsto dall'art. 18 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674), e successiva normativa vigente.
+ 2) Per quanto attiene alle delibere relative alla richiesta di professori di ruolo, alla copertura di detti posti, ed ai provvedimenti relativi ai professori ordinari e straordinari, il consiglio delibera secondo quanto previsto dall'art. 18 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md), e successiva normativa vigente.
  3) Per quanto attiene alle delibere relative ai provvedimenti a professore associato, nonche' per quelle relative ai professori a contratto, il consiglio direttivo delibera con la partecipazione di tutti i professori ordinari, straordinari, fuori ruolo e associati, con esclusione dei partecipanti di cui alle lettere h), i) ed l).
  4) Per quanto attiene alle delibere relative all'attivita' didattica e scientifica, ivi comprese le ripartizioni di contributi per attivita' di ricerca, hanno voto deliberante tutte le rappresentanze con esclusione di quella prevista alla lettera l).
  Pur non partecipando alle votazioni per gli argomenti di cui ai punti 2), 3) e 4) del presente articolo, partecipa alla seduta il direttore amministrativo in qualita' di segretario verbalizzante.

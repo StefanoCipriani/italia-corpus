@@ -58,7 +58,7 @@ Il Ministro del Tesoro e' autorizzato a portare, mediante decreto reale, nello s
 
 ## Art. 9.
 
-Forma restando la riforma approvata con [R. decreto 3 novembre 1894, n. 468](Sulla%20riforma%20organica%20dei%20magazzinieri%20economi%20nelle%20Intendenze%20di%20finanza.%20094U0468.md), l'organico pei rimanenti magazzinieri economi delle Intendenze di finanza a datare dal 1° luglio 1904 viene modificato nel modo seguente: 
+Forma restando la riforma approvata con [R. decreto 3 novembre 1894, n. 468](../Regi%20decreti/Sulla%20riforma%20organica%20dei%20magazzinieri%20economi%20nelle%20Intendenze%20di%20finanza.%20094U0468.md), l'organico pei rimanenti magazzinieri economi delle Intendenze di finanza a datare dal 1° luglio 1904 viene modificato nel modo seguente: 
  
  Prima classe n. 18 a L. 3000. 
  

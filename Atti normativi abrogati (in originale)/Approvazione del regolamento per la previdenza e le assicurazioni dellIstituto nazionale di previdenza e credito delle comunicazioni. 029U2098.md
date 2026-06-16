@@ -16,7 +16,7 @@ E' approvato l'annesso regolamento per le operazioni di previdenza e di assicura
 
 Sono approvate le seguenti modificazioni al regolamento generale pubblicato con [R. decreto 28 marzo 1929, n. 519: 
  
- Art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;519#art_4). - Aggiungere il seguente comma, dopo il secondo capoverso:  
+ Art. 4](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20sul%20funzionamento%20dellIstituto%20nazionale%20di%20previdenza%20e%20credito%20delle%20comunicazioni.%20029U0519.md). - Aggiungere il seguente comma, dopo il secondo capoverso:  
  «Possono, inoltre, essere inscritti tutti gli agenti delle aziende e delle imprese che gestiscono servizi affini ed accessori aventi diretti rapporti col Ministero delle comunicazioni». 
  
  Art. 44. - Aggiungere il seguente paragrafo: 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo delle leggi sul bollo;
+Visto il [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo delle leggi sul bollo;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo delle leggi sul registro;
+Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo delle leggi sul registro;
 
 Visto il [R. decreto 4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), sull'ordinamento della Regia aeronautica;
 

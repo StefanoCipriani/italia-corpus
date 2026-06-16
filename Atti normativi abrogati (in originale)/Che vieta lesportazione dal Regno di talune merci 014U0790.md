@@ -40,7 +40,7 @@ Agli effetti delle disposizioni contenute nel citato [R. decreto del 1° agosto 
 
 ## Art. 4.
 
-Oltre alle pene di cui all'[art. 3 del R. decreto 1° agosto 1914, n. 758](Che%20vieta%20lesportazione%20dal%20Regno%20di%20talune%20merci.%20014U0758.md), sono applicabili alla fraudolenta esportazione di una qualsiasi delle merci colpite da divieto le pene comminate dall'[articolo 326 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Oltre alle pene di cui all'[art. 3 del R. decreto 1° agosto 1914, n. 758](Che%20vieta%20lesportazione%20dal%20Regno%20di%20talune%20merci.%20014U0758.md), sono applicabili alla fraudolenta esportazione di una qualsiasi delle merci colpite da divieto le pene comminate dall'[articolo 326 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

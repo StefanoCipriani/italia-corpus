@@ -70,7 +70,7 @@ L'autorizzazione all'acquisto diretto dalle imprese produttrici di preparazioni 
 
 7.
 
-La produzione officinale delle preparazioni farmaceutiche e dei galenici preconfezionati di cui al comma 6, puo' essere effettuata da imprese autorizzate ai sensi dell'[articolo 144 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_144), e successive modificazioni ed integrazioni, secondo modalita', limiti e adempimenti fissati, con proprio decreto, dal Ministro della sanita', sentito il Consiglio superiore di sanita', da emanarsi entro tre mesi dalla data di entrata in vigore della legge di conversione del presente decreto, e periodicamente rivisti in relazione alle esigenze dell'assistenza farmaceutica.
+La produzione officinale delle preparazioni farmaceutiche e dei galenici preconfezionati di cui al comma 6, puo' essere effettuata da imprese autorizzate ai sensi dell'[articolo 144 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni ed integrazioni, secondo modalita', limiti e adempimenti fissati, con proprio decreto, dal Ministro della sanita', sentito il Consiglio superiore di sanita', da emanarsi entro tre mesi dalla data di entrata in vigore della legge di conversione del presente decreto, e periodicamente rivisti in relazione alle esigenze dell'assistenza farmaceutica.
 
 8.
 

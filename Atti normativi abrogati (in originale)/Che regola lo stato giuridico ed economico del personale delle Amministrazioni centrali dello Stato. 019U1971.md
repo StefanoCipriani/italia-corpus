@@ -61,7 +61,7 @@ I gradi della carriera di ragioneria nelle Amministrazioni centrali, escluso il 
  
  ragioniere. 
  
- Per i ragionieri capi restano ferme le norme del secondo comma dell'articolo 21 della legge sull'amministrazione o sulla contabilita' generale dello Stato o del [Regio decreto 25 dicembre 1881, numero 581](Col%20quale%20ai%20direttori%20cani%20di%20ragioneria%20dellamministrazione%20centrale%20con%20uno%20stipendio%20inferiore%20alle%20lire%207000%20viene%20assegnata%20una%20indennita%20di%20funzioni%20invece%20del%20soprassoldo%20avanti%20g_a7676716de23.md)-bis. 
+ Per i ragionieri capi restano ferme le norme del secondo comma dell'articolo 21 della legge sull'amministrazione o sulla contabilita' generale dello Stato o del [Regio decreto 25 dicembre 1881, numero 581](../Regi%20decreti/Col%20quale%20ai%20direttori%20cani%20di%20ragioneria%20dellamministrazione%20centrale%20con%20uno%20stipendio%20inferiore%20alle%20lire%207000%20viene%20assegnata%20una%20indennita%20di%20funzioni%20invece%20del%20soprassoldo%20avanti%20g_a7676716de23.md)-bis. 
  
  Sono applicabili alla carriera di ragioneria le disposizioni del secondo e terzo comma dell'articolo 1. 
  
@@ -330,7 +330,7 @@ Gli impiegati in servizio, alla data di applicazione del presente decreto, sono 
  
  Quando pero' l'impiegato, alla data di applicazione del presente decreto, sia provveduto di uno stipendio superiore a quello che gli dovrebbe essere assegnato per la sua anzianita' nel grado, e' collocato nei quadri di classificazione nella posizione e nel periodo di anzianita' corrispondente al suo stipendio. 
  
- L'impiegato che, alla data di applicazione del presente decreto, sia provveduto, in virtu' delle disposizioni concernenti gli aumenti sessennali, di cui al [R. decreto 25 agosto 1919, n. 1511](Che%20detta%20norme%20circa%20gli%20aumenti%20sessennali%20in%20relazione%20alla%20elevazione%20degli%20stipendi%20stabilita%20dal%20decreto%20Luogotenenziale%2019%20giugno%201919%20n.%20973.%20019U1511.md), o in virtu' di altro provvedimento, di uno stipendio superiore a quello massimo stabilito dalle tabelle per il suo grado, conserva la maggiore differenza come assegno personale, valevole anche agli effetti della pensione. 
+ L'impiegato che, alla data di applicazione del presente decreto, sia provveduto, in virtu' delle disposizioni concernenti gli aumenti sessennali, di cui al [R. decreto 25 agosto 1919, n. 1511](../Regi%20decreti/Che%20detta%20norme%20circa%20gli%20aumenti%20sessennali%20in%20relazione%20alla%20elevazione%20degli%20stipendi%20stabilita%20dal%20decreto%20Luogotenenziale%2019%20giugno%201919%20n.%20973.%20019U1511.md), o in virtu' di altro provvedimento, di uno stipendio superiore a quello massimo stabilito dalle tabelle per il suo grado, conserva la maggiore differenza come assegno personale, valevole anche agli effetti della pensione. 
  
  Agli effetti della determinazione del nuovo stipendio si terra' conto della anticipazione concessa col [decreto Luogotenenziale 19 giugno 1919, n. 973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-19;973). L'eccezione di cui all'art. 3 del decreto stesso cessa di avere effetto, e l'aumento di stipendio, corrisposto per la applicazione delle tabelle allegate al presente decreto, ivi compresa l'anticipazione di lire 1200 annue concessa col decreto stesso, e' sottoposto alle ritenute erariali e ad ogni altra ritenuta per pignoramento o sequestro, ai termini delle disposizioni vigenti. 
  
@@ -529,7 +529,7 @@ Fino a due anni dalla pubblicazione del presente decreto, saranno collocati a ri
 
 ### Art. 60.
 
-Dopo l'approvazione delle nuove tabelle organiche, che saranno proposte dalle Commissioni speciali, istituite presso ciascun Ministero con il [R. decreto 2 settembre 1919, n. 1552](Che%20istituisce%20una%20Commissione%20centrale%20presso%20il%20Ministero%20del%20tesoro%20e%20Commissioni%20speciali%20presso%20ciascun%20Ministero%20per%20le%20proposte%20relative%20alla%20semplificazione%20dei%20pubblici%20servizi%20e_2a87bb41dd24.md), e fino alla riduzione del personale al numero di posti fissato dalle tabelle stesse, saranno collocati a riposo o dispensati dal servizio, a giudizio del Comitato, di cui all'art. 57, gl'impiegati che meno rispondano alle esigenze dell'Amministrazione e diano il minore rendimento di lavoro.
+Dopo l'approvazione delle nuove tabelle organiche, che saranno proposte dalle Commissioni speciali, istituite presso ciascun Ministero con il [R. decreto 2 settembre 1919, n. 1552](../Regi%20decreti/Che%20istituisce%20una%20Commissione%20centrale%20presso%20il%20Ministero%20del%20tesoro%20e%20Commissioni%20speciali%20presso%20ciascun%20Ministero%20per%20le%20proposte%20relative%20alla%20semplificazione%20dei%20pubblici%20servizi%20e_2a87bb41dd24.md), e fino alla riduzione del personale al numero di posti fissato dalle tabelle stesse, saranno collocati a riposo o dispensati dal servizio, a giudizio del Comitato, di cui all'art. 57, gl'impiegati che meno rispondano alle esigenze dell'Amministrazione e diano il minore rendimento di lavoro.
 
 ### Art. 61.
 

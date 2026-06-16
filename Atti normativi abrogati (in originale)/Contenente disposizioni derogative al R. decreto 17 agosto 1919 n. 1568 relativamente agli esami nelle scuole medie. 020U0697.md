@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 17 agosto 1919, n. 1568](Che%20indice%20tre%20sessioni%20straordinarie%20di%20esami%20e%20reca%20inoltre%20altri%20provvedimenti%20a%20favore%20di%20studenti%20di%20scuole%20medie%20militari%20o%20gia%20militari.%20019U1568.md);
+Veduto il [R. decreto 17 agosto 1919, n. 1568](../Regi%20decreti/Che%20indice%20tre%20sessioni%20straordinarie%20di%20esami%20e%20reca%20inoltre%20altri%20provvedimenti%20a%20favore%20di%20studenti%20di%20scuole%20medie%20militari%20o%20gia%20militari.%20019U1568.md);
 
 Sentito il Consiglio dei ministri;
 

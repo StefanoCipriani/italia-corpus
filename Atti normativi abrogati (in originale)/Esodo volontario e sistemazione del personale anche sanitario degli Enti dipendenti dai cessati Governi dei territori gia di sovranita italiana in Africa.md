@@ -82,7 +82,7 @@ I quadri di cui al precedente art. 5 sono approvati con decreto del Ministro per
 
 ## Art. 8.
 
-Lo stato giuridico del personale di ruolo iscritto nei quadri speciali e' regolato dalle vigenti norme del testo unico della legge comunale e provinciale e del relativo regolamento di esecuzione, e, per i sanitari, da quelle altresi' del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+Lo stato giuridico del personale di ruolo iscritto nei quadri speciali e' regolato dalle vigenti norme del testo unico della legge comunale e provinciale e del relativo regolamento di esecuzione, e, per i sanitari, da quelle altresi' del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
  Il trattamento giuridico del personale non di ruolo iscritto nei quadri speciali e' regolato dalle vigenti norme concernenti il trattamento giuridico del personale non di ruolo in servizio presso gli enti pubblici locali.
  Con decreto del Presidente della Repubblica, su proposta del Ministro per l'interno, di concerto col Ministro per il tesoro, saranno emanate, entro un anno a decorrere dalla data di entrata in vigore del presente decreto, le norme necessarie per disciplinare, con principi e criteri direttivi unitari, lo stato giuridico del personale di cui ai precedenti commi, in quanto non sia preveduto dalle disposizioni in essi richiamate, con coordinamento a quelle del presente decreto.
  Sino a quando non saranno emanate le norme di cui al precedente comma, restano in vigore quelle dei regolamenti degli enti di assunzione dei singoli impiegati e salariati, in quanto applicabili.

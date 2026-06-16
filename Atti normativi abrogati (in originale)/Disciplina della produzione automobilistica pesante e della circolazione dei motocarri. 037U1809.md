@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Viste le norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
+Viste le norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -40,15 +40,15 @@ Tutti gli autoveicoli a tre ruote, destinati a trasporto di cose, aventi portata
  
  Per i motocarri non sono consentite dimensioni d'ingombro eccedenti m. 4 di lunghezza e m. 1,60 di larghezza. 
  
- Nessun motocarro puo' circolare senza la relativa licenza di circolazione da rilasciarsi con le modalita' stabilite per gli automobili dalle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md). 
+ Nessun motocarro puo' circolare senza la relativa licenza di circolazione da rilasciarsi con le modalita' stabilite per gli automobili dalle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md). 
  
  La licenza di circolazione dei motocarri e' redatta su libretto conforme al modulo approvato dal Ministero delle comunicazioni (Ispettorato generale ferrovie, tramvie ed automobili) e depositato presso le Regie Prefetture. In esso devono essere indicate le caratteristiche costruttive del veicolo, i dati relativi al motore, la potenza di esso, la tara, la portata utile, le dimensioni di ingombro, il genere e tipo dei freni. 
  
- Nessuno puo' condurre motocarri se non e' munito di patente di abilitazione per motocarro, da conseguirsi con le modalita' stabilite per la patente di abilitazione di 1° grado per automobili dalle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+ Nessuno puo' condurre motocarri se non e' munito di patente di abilitazione per motocarro, da conseguirsi con le modalita' stabilite per la patente di abilitazione di 1° grado per automobili dalle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
 
 ## Art. 4.
 
-I motofurgoncini e le motocarrozzette di cui alla lettera 1) dell'art. 54 delle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), non potranno avere in nessun caso dimensioni d'ingombro maggiori di quelle ammesse per i motocarri.
+I motofurgoncini e le motocarrozzette di cui alla lettera 1) dell'art. 54 delle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), non potranno avere in nessun caso dimensioni d'ingombro maggiori di quelle ammesse per i motocarri.
 
 ## Art. 5.
 

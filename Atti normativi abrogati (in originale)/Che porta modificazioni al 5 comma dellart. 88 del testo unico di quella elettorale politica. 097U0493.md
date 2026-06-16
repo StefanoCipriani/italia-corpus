@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- Al quinto comma dell'articolo 88 del testo unico della legge elettorale politica, approvato con [Regio decreto 28 marzo 1895, numero 83](Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica.%20095U0083.md), e' sostituito il seguente: 
+ Al quinto comma dell'articolo 88 del testo unico della legge elettorale politica, approvato con [Regio decreto 28 marzo 1895, numero 83](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica.%20095U0083.md), e' sostituito il seguente: 
  
  Le elezioni di coloro ai quali non riesca favorevole il sorteggio saranno annullate se gli eletti entro otto giorni dall'avvenuto sorteggio non avranno presentato alla Presidenza della Camera le loro dimissioni dall'impiego. Tali dimissioni, che prendono data ed hanno effetto dal giorno stesso del sorteggio, saranno trasmesse dal Presidente della Camera ai competenti Ministeri per ogni effetto di legge. 
  

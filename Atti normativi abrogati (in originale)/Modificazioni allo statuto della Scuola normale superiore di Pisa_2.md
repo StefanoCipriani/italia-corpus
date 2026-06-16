@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [decreto del Presidente della Repubblica 31 marzo 1969, n. 281](Approvazione%20del%20nuovo%20statuto%20della%20Scuola%20normale%20superiore%20di%20Pisa.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
@@ -40,7 +40,7 @@ Il quarto, ottavo, tredicesimo, quattordicesimo, quindicesimo comma dell'art. 5 
 L'elezione dei rappresentanti di cui alle lettere f), g), h) ed i) avviene nell'ambito di ciascuna classe.
  Ottavo comma. - Le elezioni di tutte le componenti vengono indette nel mese di maggio dell'anno di scadenza del mandato ad esclusione delle elezioni per la nomina dei rappresentanti degli allievi, che vengono indette nel mese di dicembre.
  Tredicesimo comma. - I predetti hanno voto deliberante solo per le questioni attinenti all'amministrazione della Scuola.
- Quattordicesimo comma. - 2) Per quanto attiene alle delibere relative alla richiesta di professori ordinari, alla copertura di detti posti ed ai provvedimenti relativi ai professori ordinari e straordinari, il consiglio delibera secondo quanto previsto dall'art. 18 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674), e successiva normativa vigente.
+ Quattordicesimo comma. - 2) Per quanto attiene alle delibere relative alla richiesta di professori ordinari, alla copertura di detti posti ed ai provvedimenti relativi ai professori ordinari e straordinari, il consiglio delibera secondo quanto previsto dall'art. 18 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md), e successiva normativa vigente.
  Quindicesimo comma. - 3) per quanto attiene alle delibere relative ai provvedimenti a professore associato, nonche' per quelle relative ai professori a contratto ed ai docenti a qualsiasi titolo, il consiglio direttivo delibera con la sola partecipazione di tutti i professori ordinari, straordinari, fuori ruolo e associati.
 
 ## Art. 2.

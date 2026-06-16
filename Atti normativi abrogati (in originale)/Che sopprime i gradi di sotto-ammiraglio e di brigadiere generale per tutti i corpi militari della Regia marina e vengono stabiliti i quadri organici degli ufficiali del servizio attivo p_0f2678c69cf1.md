@@ -158,7 +158,7 @@ Nota redazionale
  Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 12/02/1923, n. 35 durante il periodo di "vacatio legis". 
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione. 
  Tale testo, tuttavia, non e' mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis". 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 4 marzo 1923, n. 592](Che%20stabilisce%20il%20quadro%20organico%20degli%20ufficiali%20del%20corpo%20delle%20Capitanerie%20di%20porto%20e%20da%20facolta%20di%20collocare%20in%20P.%20A.%20S.%20gli%20ufficiali%20aventi%20grado%20di%20vice%20ammiraglio%20e%20corrispondente.%20023U0592.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 4 marzo 1923, n. 592](../Regi%20decreti/Che%20stabilisce%20il%20quadro%20organico%20degli%20ufficiali%20del%20corpo%20delle%20Capitanerie%20di%20porto%20e%20da%20facolta%20di%20collocare%20in%20P.%20A.%20S.%20gli%20ufficiali%20aventi%20grado%20di%20vice%20ammiraglio%20e%20corrispondente.%20023U0592.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 

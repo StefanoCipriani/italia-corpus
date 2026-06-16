@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 1° luglio 1922, n. 919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-07-01;919), che istituisce l'Ente autonomo «Fiera compionaria internazionale di Milano»;
+Visto il [R. decreto 1° luglio 1922, n. 919](../Regi%20decreti/Che%20erige%20in%20Ente%20morale%20la%20Fiera%20di%20Milano%20campionaria%20internazionale.%20022U0919.md), che istituisce l'Ente autonomo «Fiera compionaria internazionale di Milano»;
 
 Visti i [Regi decreti 2 giugno 1927, n. 1256](Modificazioni%20allo%20statuto%20dellEnte%20autonomo%20Fiera%20campionaria%20internazionale%20di%20Milano.%20027U1256.md), e [13 marzo 1930, n. 353](Modificazione%20dello%20statuto%20dellEnte%20autonomo%20Fiera%20campionaria%20internazionale%20di%20Milano.%20030U0353.md), che modificarono successivamente lo statuto dell'Ente suddetto;
 

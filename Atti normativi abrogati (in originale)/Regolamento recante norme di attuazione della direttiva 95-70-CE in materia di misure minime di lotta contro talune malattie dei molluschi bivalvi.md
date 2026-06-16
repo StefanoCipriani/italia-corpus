@@ -18,7 +18,7 @@ Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%2
 
 Vista la [direttiva 95/70/CE del Consiglio del 22 dicembre 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;70), che stabilisce misure comunitarie minime di lotta contro talune malattie dei molluschi bivalvi;
 
-Visto il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
 
 Visto il [decreto legislativo 30 dicembre 1992, n. 530](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-492-CEE%20che%20stabilisce%20le%20norme%20sanitarie%20applicabili%20alla%20produzione%20e%20commercializzazione%20dei%20molluschi%20bivalvi%20vivi.md), e successive modificazioni;
 
@@ -45,7 +45,7 @@ Emana il seguente regolamento:
 Il presente regolamento stabilisce le misure minime di lotta contro le malattie di molluschi bivalvi di cui all'allegato A, elenco II, del [decreto del Presidente della Repubblica 30 dicembre 1992, n. 555](Regolamento%20per%20lattuazione%20della%20direttiva%2091-67-CEE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20i%20prodotti%20di%20acquacoltura.md), e successive modifiche, e di cui all'allegato D del presente regolamento.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), riguarda la disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri. L'art. 17 della suddetta legge cosi' recita:
@@ -67,7 +67,7 @@ Avvertenza:
  - La [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell' Italia alle Comunita' europee.
  Legge comunitaria 1995-1997".
  - La [direttiva 95/70/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;70) e' pubblicata in G.U.C.E. [L. n. 332 del 30 dicembre 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-30;332).
- - Il [D.P.R. 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), reca: "Regolamento di polizia veterinaria".
+ - Il [D.P.R. 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), reca: "Regolamento di polizia veterinaria".
  - Il [D.Lgs. 30 dicembre 1992, n. 530](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-492-CEE%20che%20stabilisce%20le%20norme%20sanitarie%20applicabili%20alla%20produzione%20e%20commercializzazione%20dei%20molluschi%20bivalvi%20vivi.md), reca: "Attuazione della [direttiva 91/492/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;492) che stabilisce le norme sanitarie applicabili alla produzione e commercializzazione dei molluschi bivalvi vivi".
  - Il [D.P.R. 30 dicembre 1992, n. 555](Regolamento%20per%20lattuazione%20della%20direttiva%2091-67-CEE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20i%20prodotti%20di%20acquacoltura.md), reca: "Regolamento per l'attuazione della [direttiva 91/67/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;67) che stabilisce norme di polizia sanitaria per i prodotti di acquacoltura".
  Nota all'art. 1:
@@ -181,7 +181,7 @@ Nota all'art. 4:
 1.
 
 La denuncia, anche del solo sospetto della presenza delle malattie di cui all'allegato A, elenco II, del [decreto del Presidente della Repubblica 30 dicembre 1992, n. 555](Regolamento%20per%20lattuazione%20della%20direttiva%2091-67-CEE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20i%20prodotti%20di%20acquacoltura.md), e di cui all'allegato D del presente regolamento, nonche' qualsiasi tasso inconsueto di mortalita' tra i molluschi bivalvi nelle aziende, nelle zone di allevamento o nei banchi sfruttati nonche' nei bacini di depurazione o di deposito che scaricano le loro acque in mare, e' obbligatoria e immediata, secondo le procedure di cui al [decreto del Presidente
- della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche, per
+ della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche, per
 i molluschicoltori o per qualsiasi altra persona le abbia constatate.
 
 2.
@@ -213,7 +213,7 @@ In deroga all'[articolo 3, comma 1, lettera c), del decreto del Presidente della
 Il Ministero della sanita' informa tempestivamente la Commissione europea e gli altri Stati membri dei casi di mortalita' anomala constatata determinata da un agente patogeno, delle misure prese per analizzare e controllare la situazione, nonche' della causa della mortalita'.
 
 Nota all'art. 5:
- - Per quanto concerne il [D.P.R. 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), vedi nelle note alle premesse; per l'allegato A vedi in nota all'art. 1.
+ - Per quanto concerne il [D.P.R. 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), vedi nelle note alle premesse; per l'allegato A vedi in nota all'art. 1.
  - Per quanto concerne il [D.P.R. 30 dicembre 1992, n. 555](Regolamento%20per%20lattuazione%20della%20direttiva%2091-67-CEE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20i%20prodotti%20di%20acquacoltura.md), vedi nelle note alle premesse. L'art. 3, comma 1, lettera c), del suddetto D.P.R. cosi' recita:
  "Art. 3. - Gli animali d'acquacoltura possono essere immessi sul mercato se soddisfano i requisiti generali:
  a)-b) (Omissis);

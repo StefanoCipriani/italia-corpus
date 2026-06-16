@@ -65,7 +65,7 @@ Essi avranno il diritto di visitare tutti i locali, i depositi, le macchine ed o
 
 In caso di inadempienza da parte dell'esercente di una cartiera all'obbligo di produrre i quantitativi di carta ad essa prescritti a norma dell'art 3, lettera a) del Nostro [decreto 15 luglio 1917, n. 1182, il ministro per l'industria, commercio e lavoro](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.lavoro:decreto:1917-07-15;1182), a meno che non risulti che l'inadempienza sia dovuta a cause non imputabili alla cartiera medesima, potra', sentito il rappresentante della ditta, ordinare l'acquisto in danno di essa della carta non consegnata od offerta di tale qualita' da giustificarne il rifiuto. 
  
- La differenza tra il prezzo di acquisto della carta sul mercato e quello che si sarebbe dovuto corrispondere alla cartiera a norma dell'art. 3, lettera b), del succitato Nostro decreto, rimarra' a carico della cartiera stessa. Per il rimborso di tale differenza si osserveranno le norme sancite nel testo unico approvato con [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639). Nel caso di ricorso o di opposizione eventualmente proposta a termini dell'art. 3 del detto testo unico, il magistrato adito ha anche facolta' di giudicare se concorrevano gli estremi per l'acquisto in danno, stabiliti nella prima parte del presente articolo.
+ La differenza tra il prezzo di acquisto della carta sul mercato e quello che si sarebbe dovuto corrispondere alla cartiera a norma dell'art. 3, lettera b), del succitato Nostro decreto, rimarra' a carico della cartiera stessa. Per il rimborso di tale differenza si osserveranno le norme sancite nel testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md). Nel caso di ricorso o di opposizione eventualmente proposta a termini dell'art. 3 del detto testo unico, il magistrato adito ha anche facolta' di giudicare se concorrevano gli estremi per l'acquisto in danno, stabiliti nella prima parte del presente articolo.
 
 ## Art. 7.
 
@@ -77,7 +77,7 @@ Le contravvenzioni alle disposizioni del presente decreto saranno punite con l'a
  
  In caso di recidiva, potra' inoltre essere sospesa o revocata ogni concessione fatta al periodico dalle pubbliche amministrazioni, comprese quelle postali e ferroviarie. Tale provvedimento verra' adottato dalle amministrazioni competenti dietro richiesta del Ministero dell'industria, commercio e lavoro. 
  
- Perdurandosi nella pubblicazione del periodico senza osservare le norme del presente decreto, non ostante il provvedimento menzionato nel capoverso che precede, potra' con decreto del ministro dell'interno ordinarsene la sospensione comminata dall'[art. 5 del R. decreto 23 maggio 1915, n. 675](Recante%20disposizioni%20per%20la%20stampa%20015U0675.md).
+ Perdurandosi nella pubblicazione del periodico senza osservare le norme del presente decreto, non ostante il provvedimento menzionato nel capoverso che precede, potra' con decreto del ministro dell'interno ordinarsene la sospensione comminata dall'[art. 5 del R. decreto 23 maggio 1915, n. 675](../Regi%20decreti/Recante%20disposizioni%20per%20la%20stampa%20015U0675.md).
 
 ## Art. 9.
 

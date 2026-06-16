@@ -28,11 +28,11 @@ Il conferimento del posto di capo del Servizio crittografico non potra' aver luo
 
 ## Art. 5.
 
-Al capo del Servizio crittografico sono applicabili le disposizioni contenute nel [R. decreto 11 aprile 1926, n. 857](Estensione%20a%20tutti%20i%20gradi%20della%20carriera%20diplomatico-consolare%20della%20facolta%20del%20collocamento%20a%20riposo%20per%20ragioni%20di%20servizio.%20026U0857.md), per il collocamento a riposo per ragioni di servizio.
+Al capo del Servizio crittografico sono applicabili le disposizioni contenute nel [R. decreto 11 aprile 1926, n. 857](../Regi%20decreti/Estensione%20a%20tutti%20i%20gradi%20della%20carriera%20diplomatico-consolare%20della%20facolta%20del%20collocamento%20a%20riposo%20per%20ragioni%20di%20servizio.%20026U0857.md), per il collocamento a riposo per ragioni di servizio.
 
 ## Art. 6.
 
-E' soppresso il posto di assistente per la vigilanza (grado 10° di gruppo C) istituito con il [R. decreto 7 febbraio 1938, n. 124](Istituzione%20di%20un%20posto%20di%20assistente%20per%20la%20vigilanza%20e%20soppressione%20del%20posto%20di%20vice%20bibliotecario%20nel%20Ministero%20degli%20affari%20esteri.%20038U0124.md). 
+E' soppresso il posto di assistente per la vigilanza (grado 10° di gruppo C) istituito con il [R. decreto 7 febbraio 1938, n. 124](../Regi%20decreti/Istituzione%20di%20un%20posto%20di%20assistente%20per%20la%20vigilanza%20e%20soppressione%20del%20posto%20di%20vice%20bibliotecario%20nel%20Ministero%20degli%20affari%20esteri.%20038U0124.md). 
  L'impiegato che attualmente occupa il posto di assistente per la vigilanza sara' considerato in soprannumero ed il posto stesso verra' riassorbito con la prima vacanza.
 
 ## Art. 7.

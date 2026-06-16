@@ -61,7 +61,7 @@ Il Ministro per le finanze e' autorizzato ad introdurre in bilancio con propri d
 L'assegnazione poliennale di cui all'art. 5, ultimo capoverso, del [R. decreto-legge 15 maggio 1931, n. 632](Ratizzazione%20dei%20prestiti%20agrari%20di%20esercizio.%20031U0632.md) ([legge 24 marzo 1932, n. 314](Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20maggio%201931%20n.%20632%20contenente%20norme%20per%20la%20ratizzazione%20dei%20prestiti%20agrari%20di%20esercizio.%20032U0314.md)) e successive modificazioni ed aggiunte, e' aumentata di annue L.
 800.000. 
  
- Il limite massimo dello Stanziamento stabilito dall'[art. 4 del R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e' ridotto di L. 800.000 annue.
+ Il limite massimo dello Stanziamento stabilito dall'[art. 4 del R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), e' ridotto di L. 800.000 annue.
 
 ## Art. 8.
 

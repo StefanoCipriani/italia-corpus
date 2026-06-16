@@ -38,7 +38,7 @@ La gestione economica e patrimoniale dell'Ente e' affidata ad un Consiglio d'amm
 
 ## Art. 5.
 
-Il Regio osservatorio astronomico di Collurania e' sottoposto alle disposizioni del [R. decreto 31 dicembre 1923, numero 3160](Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md).
+Il Regio osservatorio astronomico di Collurania e' sottoposto alle disposizioni del [R. decreto 31 dicembre 1923, numero 3160](../Regi%20decreti/Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md).
 
 ## Art. 6.
 

@@ -50,7 +50,7 @@ Il credito derivante dal finanziamento,, sia durante il periodo dell'anticipazio
  
  Di detto privilegio sara' dato avviso mediante inserzione nel Foglio degli annunzi legali della provincia. 
  
- Per quanto concerne i brevetti per le invenzioni industriali il privilegio anzidetto sara' trascritto nel registro dei brevetti di cui all'[art. 37, del R. decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e ai sensi dell'art. 66 del decreto medesimo.
+ Per quanto concerne i brevetti per le invenzioni industriali il privilegio anzidetto sara' trascritto nel registro dei brevetti di cui all'[art. 37, del R. decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e ai sensi dell'art. 66 del decreto medesimo.
 
 ## Art. 8.
 

@@ -82,7 +82,7 @@ Per essere nominato esattore e' richiesta la iscrizione all'Albo nazionale degli
  
  Le norme per la formazione e la tenuta dell'Albo e per gli esami di idoneita', nonche' i diritti per il rilascio del certificato prescritto dal precedente art. 5, sono fissati con decreto del Ministro per le finanze. 
  
- Le suddette iscrizioni sono soggette a tassa annuale di concessione governativa nella misura di lire cinquanta. La tassa e' riscossa in modo ordinario e il mancato pagamento fa incorrere nelle sanzioni previste dall'art. 9 della legge tributaria sulle concessioni governative approvata con [Regio decreto 30 dicembre 1923, n. 3279](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), e successive modificazioni. 
+ Le suddette iscrizioni sono soggette a tassa annuale di concessione governativa nella misura di lire cinquanta. La tassa e' riscossa in modo ordinario e il mancato pagamento fa incorrere nelle sanzioni previste dall'art. 9 della legge tributaria sulle concessioni governative approvata con [Regio decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), e successive modificazioni. 
  
  Per le spese inerenti alla formazione, ed alla tenuta dell'Albo nazionale degli esattori delle imposte dirette e dell'Albo dei collettori di cui al seguente art. 8, e per quelle dovute alle Commissioni di esame di idoneita' viene stanziato annualmente apposito fondo nello stato di previsione della spesa del Ministero delle finanze.
 
@@ -134,7 +134,7 @@ Il primo periodo del [1° comma dell'art. 8 del R. decreto-legge 6 novembre 1930
 
 ## Art. 13.
 
-All'art. 37 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 9 del R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), sono aggiunti i seguenti comma: 
+All'art. 37 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 9 del R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), sono aggiunti i seguenti comma: 
  
  «Per l'esecuzione sulle cauzioni commerciali, l'esattore ha l'obbligo di denunziare la morosita' del contribuente entro sei mesi dalla scadenza dell'ultima rata non pagata, all'intendente di finanza. 
  
@@ -176,7 +176,7 @@ Il primo comma dell'art. 44 del testo unico di leggi infila riscossione 17 ottob
 
 ## Art. 17.
 
-Tra il secondo ed il terzo comma dell'art. 54 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e' aggiunto il seguente comma: 
+Tra il secondo ed il terzo comma dell'art. 54 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e' aggiunto il seguente comma: 
  
  «In luogo del terzo esperimento l'intendente di finanza puo' disporre a suo insindacabile giudizio il passaggio dei beni all'Ente di gestione e liquidazione immobiliare istituito con l'art. 11. del R. decreto-legge 9 febbraio 1939-XVI I, numero 126, per un prezzo pari a quello che ha servito di base al secondo incanto». 
  
@@ -190,7 +190,7 @@ A11'ultimo comma dell'art. 63 del testo unico 17 ottobre 1922, n: 1401, modifica
  
  Allo stesso art. 63 sono aggiunti i seguenti coma: 
  
- «Sono esclusi dalla facolta' accordata dal 1° comma, nel caso di procedure dirette al recupero di imposta complementare, le persone i cui redditi, in forza dell'[art. 2 del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), siano stati cumulati con quelli dell'iscritto a ruolo. 
+ «Sono esclusi dalla facolta' accordata dal 1° comma, nel caso di procedure dirette al recupero di imposta complementare, le persone i cui redditi, in forza dell'[art. 2 del R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), siano stati cumulati con quelli dell'iscritto a ruolo. 
  
  «E' parimenti escluso dall'esercizio della facolta' accordata dal primo comma, chiunque pretenda di aver diritte sui mobili esistenti nella casa di abitazione del contribuente debitore, acquistati in una precedente asta esattoriale eseguita a carico del medesimo debitore».
 
@@ -249,7 +249,7 @@ All'[articolo 86 del testo unico 17 ottobre 1922, n. 1401](https://www.normattiv
 
 ## Art. 25.
 
-Il comma 5° dell'art. 87 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 21 del R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), e' sostituito dai seguenti: 
+Il comma 5° dell'art. 87 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 21 del R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), e' sostituito dai seguenti: 
  
  «Per ottenere il rimborso a titolo di inesigibilita' delle quote iscritte a ruolo, per un importo annuo non superiore alle lire 30, al netto di aggi, l'esattore e' ammesso a dare la prova di avere escusso una sola volta inutilmente il debitore entro sei mesi dalla scadenza dell'ultima rata non pagata, se trattasi di esecuzione mobiliare, ed entro 10 mesi dalla scadenza della rata stessa, se trattasi di esecuzione sui beni immobili. 
  
@@ -302,7 +302,7 @@ L'art. 90 del testo unico di leggi sulla riscossione 17 ottobre 1922, n. 1401, m
 
 ## Art. 27.
 
-Al penultimo comma dell'art. 93 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 20 del R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), dopo la parola «decennio», sono aggiunte le seguenti: «purche' l'erede od il prescelto dagli eredi, sia in possesso dei requisiti per la nomina ad esattore».
+Al penultimo comma dell'art. 93 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 20 del R. decreto-legge 6 novembre 1930, n. 1465](Modifiche%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%2017%20ottobre%201922%20n.%201401.%20030U1465.md), dopo la parola «decennio», sono aggiunte le seguenti: «purche' l'erede od il prescelto dagli eredi, sia in possesso dei requisiti per la nomina ad esattore».
 
 ## Art. 28.
 

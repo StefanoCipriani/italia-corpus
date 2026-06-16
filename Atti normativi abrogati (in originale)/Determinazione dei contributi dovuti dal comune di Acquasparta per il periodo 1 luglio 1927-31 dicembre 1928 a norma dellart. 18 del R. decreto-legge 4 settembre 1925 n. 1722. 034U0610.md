@@ -16,11 +16,11 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 12 maggio 1927, n. 813](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;813), col quale le frazioni Macerino e Porzano del comune di Acquasparta furono aggregate a Terni; 
+ Veduto il [R. decreto 12 maggio 1927, n. 813](../Regi%20decreti/Distacco%20delle%20frazioni%20Macerino%20e%20Porzano%20dal%20comune%20di%20Acquasparta%20e%20loro%20aggregazione%20a%20quello%20di%20Terni.%20027U0813.md), col quale le frazioni Macerino e Porzano del comune di Acquasparta furono aggregate a Terni; 
  
  Veduto il [R. decreto 21 ottobre 1926, n. 2093](Rettifica%20del%20contributo%20scolastico%20dovuto%20da%20alcuni%20Comuni%20della%20provincia%20di%20Perugia%20per%20il%20quinquennio%201%20gennaio%201924-31%20dicembre%201928%20ai%20sensi%20dellart.%2018%20del%20R.%20decreto-legge%204%20sette_18ef964da26c.md), col quale, a norma dell'[art. 18 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md), furono liquidati in annue L. 8800 i contributi dovuti dal comune di Acquasparta per il quinquennio 1° gennaio 1924-31 dicembre 1928; 
  
- Veduto che le variazioni territoriali disposte dal citato [R. decreto 12 maggio 1927, n. 813](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;813), ebbero attuazione a decorrere dal 1° luglio 1927; 
+ Veduto che le variazioni territoriali disposte dal citato [R. decreto 12 maggio 1927, n. 813](../Regi%20decreti/Distacco%20delle%20frazioni%20Macerino%20e%20Porzano%20dal%20comune%20di%20Acquasparta%20e%20loro%20aggregazione%20a%20quello%20di%20Terni.%20027U0813.md), ebbero attuazione a decorrere dal 1° luglio 1927; 
  
  Veduto il prospetto compilato dal Regio provveditore agli studi di Perugia, dal quale si desume che il numero di scuole classificate e non classificate esistenti nel comune di Acquasparta, al 1° luglio 1927, ammonta a nove; 
  

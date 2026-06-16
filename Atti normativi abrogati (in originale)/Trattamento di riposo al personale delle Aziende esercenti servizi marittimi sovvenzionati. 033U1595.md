@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge 13 giugno 1910, n, 306;
 
-Visto il [R. decreto 2 settembre 1912, n. 1058](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20Cassa%20pensioni%20del%20personale%20delle%20aziende%20esercenti%20i%20servizi%20marittimi%20sovvenzionati%20012U1058.md), che approva il regolamento per la Cassa pensioni del personale delle Aziende esercenti servizi marittimi sovvenzionati;
+Visto il [R. decreto 2 settembre 1912, n. 1058](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20Cassa%20pensioni%20del%20personale%20delle%20aziende%20esercenti%20i%20servizi%20marittimi%20sovvenzionati%20012U1058.md), che approva il regolamento per la Cassa pensioni del personale delle Aziende esercenti servizi marittimi sovvenzionati;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -128,7 +128,7 @@ La pensione alla vedova ed agli orfani minorenni e' stabilita in una aliquota de
 
 ### Art. 13.
 
-L'inscritto il quale sia stato soggetto all'assicurazione obbligatoria per la invalidita' e la vecchiaia a norma del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), e che non abbia ottenuto per i contributi versati in base a tale decreto alcuna liquidazione, puo' far valere i contributi suddetti, quando si verifichino le condizioni previste all'arti 6, allo scopo di ottenere un supplemento di pensione annua.
+L'inscritto il quale sia stato soggetto all'assicurazione obbligatoria per la invalidita' e la vecchiaia a norma del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), e che non abbia ottenuto per i contributi versati in base a tale decreto alcuna liquidazione, puo' far valere i contributi suddetti, quando si verifichino le condizioni previste all'arti 6, allo scopo di ottenere un supplemento di pensione annua.
 La pensione in tale caso, e' ragguagliata al 20 % del totale dei contributi obbligatori versati ed e' riversibile a favore della famiglia secondo le disposizioni dell'art. 11.
 
 ### Art. 14.
@@ -191,7 +191,7 @@ Per gli iscritti che alla data di pubblicazione del presente decreto pur non ess
 
 ### Art. 22.
 
-Gli inscritti alla Cassa pensioni anteriormente alla pubblicazione del presente decreto possono optare per la continuazione della inscrizione secondo le norme a cui al regolamento approvato con [R. decreto 2 settembre 1912, n. 1058](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20Cassa%20pensioni%20del%20personale%20delle%20aziende%20esercenti%20i%20servizi%20marittimi%20sovvenzionati%20012U1058.md), purche' tale diritto di opzione sia esercitato mediante domanda fatta pervenire alla Cassa pensioni entro tre mesi dalla data di pubblicazione del presente decreto, salvo per coloro che si trovano in navigazione, per i quali il termine e' raddoppiato.
+Gli inscritti alla Cassa pensioni anteriormente alla pubblicazione del presente decreto possono optare per la continuazione della inscrizione secondo le norme a cui al regolamento approvato con [R. decreto 2 settembre 1912, n. 1058](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20Cassa%20pensioni%20del%20personale%20delle%20aziende%20esercenti%20i%20servizi%20marittimi%20sovvenzionati%20012U1058.md), purche' tale diritto di opzione sia esercitato mediante domanda fatta pervenire alla Cassa pensioni entro tre mesi dalla data di pubblicazione del presente decreto, salvo per coloro che si trovano in navigazione, per i quali il termine e' raddoppiato.
 
 ### Art. 23.
 
@@ -221,7 +221,7 @@ TITOLO V.
 
 ### Art. 27.
 
-Per tutto quanto non e' specificatamente contemplato dal presente decreto, valgono le disposizioni del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), e relativo regolamento.
+Per tutto quanto non e' specificatamente contemplato dal presente decreto, valgono le disposizioni del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), e relativo regolamento.
 
 ### Art. 28.
 

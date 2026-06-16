@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visti l'art. 11 delta legge 17 aprile. 1930, n. 421, e le tabelle allegate alla legge stessa;
 
-Visto il [R. decreto 23 marzo 1931, n. 249](Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
+Visto il [R. decreto 23 marzo 1931, n. 249](../Regi%20decreti/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
 
 Ritenuta la urgente e assoluta necessita' di apportare delle modificazioni ad alcune circoscrizioni giudiziarie, di provvedere alla sistemazione del personale della magistratura nei vari uffici del Regno ed ai casi di mancanza o impedimento dei presidenti delle Corti d'assise, nonche' di modificare temporaneamente il numero degli uditori di tribunale e quello degli uditori di pretura;
 

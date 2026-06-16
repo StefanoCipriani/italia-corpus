@@ -18,7 +18,7 @@ Vista la legge 19 ottobre 1859, n. 3748, sulle servitu' militari;
 
 Vista la [legge 22 aprile 1886, n. 3820](Che%20estende%20a%20tutto%20il%20Regno%20la%20legge%2019%20ottobre%201859%20sulle%20servitu%20militari.%20086U3820.md) (Serie 3ª), che estende a tutto il Regno la legge succitata;
 
-Visto il [R. decreto 25 novembre 1886, n. 4258](Che%20approva%20lannesso%20Regolamento%20per%20lesecuzione%20delle%20leggi%2019%20ottobre%201859%20e%2022%20aprile%201886%20sulle%20servitu%20militari.%20086U4258.md) (Serie 3ª), che approva il regolamento per l'esecuzione delle suindicate leggi;
+Visto il [R. decreto 25 novembre 1886, n. 4258](../Regi%20decreti/Che%20approva%20lannesso%20Regolamento%20per%20lesecuzione%20delle%20leggi%2019%20ottobre%201859%20e%2022%20aprile%201886%20sulle%20servitu%20militari.%20086U4258.md) (Serie 3ª), che approva il regolamento per l'esecuzione delle suindicate leggi;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra. Abbiamo decretato e decretiamo;
 

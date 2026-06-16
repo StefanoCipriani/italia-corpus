@@ -507,7 +507,7 @@ Per la procedura delle espropriazioni delle aree comprese nei piano di ricostruz
 
 ### Art. 71.
 
-I progetti di ricostruzione e di nuova costruzione di fabbricati sulle aree assegnate o espropriate in conseguenza dell'attuazione dei piani di ricostruzione devono corrispondere ai requisiti prescritti dal [testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165).
+I progetti di ricostruzione e di nuova costruzione di fabbricati sulle aree assegnate o espropriate in conseguenza dell'attuazione dei piani di ricostruzione devono corrispondere ai requisiti prescritti dal [testo unico sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md).
  L'approvazione dei progetti stessi, di esclusiva competenza del Genio civile, equivale a dichiarazione di pubblica utilita' ed i lavori in essa previsti sono dichiarati urgenti ed indifferibili ai sensi ed agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md).
 
 ### Art. 72.
@@ -692,7 +692,7 @@ Per l'attuazione dei fini di cui al presente decreto e' autorizzata la spesa di 
 ### Art. 100.
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, tranne che per le disposizioni contenute nell'art. 98 le quali hanno efficacia a decorrere dal 21 gennaio 1946.
- Dalle stesse date cessano di avere effetto le disposizioni del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md).
+ Dalle stesse date cessano di avere effetto le disposizioni del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md).
 
  Il presente decreto, munito dei sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

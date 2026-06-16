@@ -77,15 +77,15 @@ Quando il Ministro per l'interno lo ritenga necessario puo', con proprio decreto
 
 ## Art. 6.
 
-La distribuzione delle materie da trattare in adunanza, generale o presso le singole Sezioni, la procedura da seguire nell'esame di questioni di competenza di due o piu' sezioni e la trattazione di questioni urgenti sono regolate dalle disposizioni di cui all'[art. 16 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_16) approvato con [R. decreto 27 luglio 1934, n. 1265, ed agli articoli 5 e seguenti](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_5) del [R. decreto 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45), che approva il regolamento generale sanitario.
+La distribuzione delle materie da trattare in adunanza, generale o presso le singole Sezioni, la procedura da seguire nell'esame di questioni di competenza di due o piu' sezioni e la trattazione di questioni urgenti sono regolate dalle disposizioni di cui all'[art. 16 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265, ed agli articoli 5 e seguenti](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) del [R. decreto 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md), che approva il regolamento generale sanitario.
 
 ## Art. 7.
 
-Si applicano alle adunanze della Commissione centrale consultiva di sanita' e delle relative Sezioni le disposizioni dettate dall'[art. 21 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_21) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), per il Consiglio superiore di sanita'.
+Si applicano alle adunanze della Commissione centrale consultiva di sanita' e delle relative Sezioni le disposizioni dettate dall'[art. 21 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), per il Consiglio superiore di sanita'.
 
 ## Art. 8.
 
-Ai componenti la Commissione centrale consultiva di sanita' spetta il trattamento economico previsto dall'[art. 23 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_23) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), in favore dei componenti del Consiglio superiore di sanita'.
+Ai componenti la Commissione centrale consultiva di sanita' spetta il trattamento economico previsto dall'[art. 23 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), in favore dei componenti del Consiglio superiore di sanita'.
 
 ## Art. 9.
 

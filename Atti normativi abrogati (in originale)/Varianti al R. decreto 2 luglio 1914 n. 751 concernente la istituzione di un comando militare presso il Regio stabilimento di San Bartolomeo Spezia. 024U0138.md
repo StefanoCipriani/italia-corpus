@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 2 luglio 1914, n. 751](Col%20quale%20e%20istituito%20in%20San%20Bartolomeo%20Spezia%20un%20comando%20militare%20che%20assume%20il%20nome%20di%20Comando%20militare%20del%20R.%20Stabilimento%20di%20San%20Bartolomeo.%20014U0751.md), che istitui' in San Bartolomeo (Spezia) un Comando militare ed approvo' l'annesso regolamento per il Regio stabilimento di San Bartolomeo, e successive modificazioni;
 
-Visto il [Regio decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189), riguardante l'ordinamento dei servizi dipartimentali della Regia marina;
+Visto il [Regio decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), riguardante l'ordinamento dei servizi dipartimentali della Regia marina;
 
 Udito il Consiglio superiore di marina, il quale ha dato parere in massima favorevole;
 

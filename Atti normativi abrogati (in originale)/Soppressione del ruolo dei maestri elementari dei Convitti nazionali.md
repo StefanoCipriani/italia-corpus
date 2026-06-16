@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il ruolo dei maestri elementari dei Convitti nazionali, di cui alla tabella C annessa al [regio decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690), e' soppresso.
+Il ruolo dei maestri elementari dei Convitti nazionali, di cui alla tabella C annessa al [regio decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md), e' soppresso.
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 167, 216 e 273 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Visti gli articoli 167, 216 e 273 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,9 +28,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-Chiunque, col posare i piedi sui sedili o sulle pareti, o con altro qualsiasi atto, guasta, deteriora, sciupa, gualcisce, insudicia vetture in servizio sulle ferrovie concesse all'industria privata o sulle tranvie extraurbane, i loro arredi o accessori, e' punito con l'ammenda da L. 10 a 100, ove trattisi di vetture di prima classe, e da L. 5 a 50 negli altri casi, sempre che il fatto non costituisca un reato punibile con sanzioni piu' gravi dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o dalle altre leggi e regolamenti in vigore, nel qual caso sara' proceduto verso il trasgressore nei modi prescritti per l'applicazione di tali sanzioni piu' gravi. 
+Chiunque, col posare i piedi sui sedili o sulle pareti, o con altro qualsiasi atto, guasta, deteriora, sciupa, gualcisce, insudicia vetture in servizio sulle ferrovie concesse all'industria privata o sulle tranvie extraurbane, i loro arredi o accessori, e' punito con l'ammenda da L. 10 a 100, ove trattisi di vetture di prima classe, e da L. 5 a 50 negli altri casi, sempre che il fatto non costituisca un reato punibile con sanzioni piu' gravi dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o dalle altre leggi e regolamenti in vigore, nel qual caso sara' proceduto verso il trasgressore nei modi prescritti per l'applicazione di tali sanzioni piu' gravi. 
  
- L'ammenda e' convertibile, nel caso di non eseguito pagamento, in pena restrittiva della liberta' personale, a norma degli [articoli 19](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ L'ammenda e' convertibile, nel caso di non eseguito pagamento, in pena restrittiva della liberta' personale, a norma degli [articoli 19](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [24 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La sanzione di cui al 1° comma non si applica quando gli atti vengono compiuti da chi e' colto da improvviso malore. 
  
@@ -38,7 +38,7 @@ Chiunque, col posare i piedi sui sedili o sulle pareti, o con altro qualsiasi at
 
 ## Art. 2.
 
-Le infrazioni di cui all'articolo precedente sono accertate dagli agenti menzionati nell'art. 174 del testo unico approvato col [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e particolarmente da quelli in servizio sui treni o sulle vetture tranviarie. 
+Le infrazioni di cui all'articolo precedente sono accertate dagli agenti menzionati nell'art. 174 del testo unico approvato col [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e particolarmente da quelli in servizio sui treni o sulle vetture tranviarie. 
  
  L'agente che procede alla contestazione dovra', salvo il caso previsto nel comma 1° del successivo art. 3, redigere verbale, nei modi stabiliti dalle leggi e dai regolamenti in vigore, e trasmetterlo al pretore competente per territorio.
 

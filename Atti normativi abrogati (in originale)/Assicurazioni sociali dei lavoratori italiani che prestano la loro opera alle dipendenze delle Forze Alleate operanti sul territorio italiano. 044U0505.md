@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), concernente il perfezionamento e il coordinamento legislativo della previdenza sociale, e le successive modificazioni;
 
-Visto il [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), concernente l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali e le successive modificazioni;
+Visto il [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), concernente l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali e le successive modificazioni;
 
 Vista la [legge 11 gennaio 1943, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-01-11;138), concernente l'assistenza di malattia ai lavoratori;
 

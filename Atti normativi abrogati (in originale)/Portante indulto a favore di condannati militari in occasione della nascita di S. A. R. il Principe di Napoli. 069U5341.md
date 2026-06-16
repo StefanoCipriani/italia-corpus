@@ -34,7 +34,7 @@ Sono condonate le pene del carcere militare, pronunziate fino alla data del pres
  
  e) Di deterioramento colposo, per imprudenza o negligenza, di edifizi, opere ed oggetti militari; 
  
- f) Di ubbriachezza in servizio, preveduta dall'[articolo 98 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
+ f) Di ubbriachezza in servizio, preveduta dall'[articolo 98 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
 
 ## Art. 2.
 

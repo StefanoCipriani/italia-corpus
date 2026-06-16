@@ -18,9 +18,9 @@ Nelle contravvenzioni alle disposizioni degli [articoli 3](https://www.normattiv
 
 ## Art. 3.
 
-E' data facolta' al Ministero delle finanze di consentire che sia corrisposta a mezzo di abbonamento annuale la tassa di bollo, stabilita dall'[art. 2 del R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato C, per gli avvisi al pubblico fatti mediante la pittura o con qualsiasi altro mezzo impressi su materia diversa dalla carta, quando l'ammontare della tassa da corrispondersi non riesca inferiore a lire mille annue. 
+E' data facolta' al Ministero delle finanze di consentire che sia corrisposta a mezzo di abbonamento annuale la tassa di bollo, stabilita dall'[art. 2 del R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato C, per gli avvisi al pubblico fatti mediante la pittura o con qualsiasi altro mezzo impressi su materia diversa dalla carta, quando l'ammontare della tassa da corrispondersi non riesca inferiore a lire mille annue. 
  
- In tal caso cessa l'obbligo di cui all'art. 3, penultimo capoverso, del [R. decreto 21 novembre 1915; n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato C. 
+ In tal caso cessa l'obbligo di cui all'art. 3, penultimo capoverso, del [R. decreto 21 novembre 1915; n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato C. 
  
  Per l'abbonamento dovra' stipularsi apposita convenzione da approvarsi dal Ministero.
 

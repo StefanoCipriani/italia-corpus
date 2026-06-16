@@ -22,7 +22,7 @@ Il fondo istituito con la [legge 17 luglio 1910, n. 518](Concorso%20dello%20Stat
  
  Ai ricevitori del registro e' assegnata, con decorrenza dal 1° novembre 1914, un'indennita' di cauzione nella misura del tre per cento sull'importo della cauzione rispettiva, da comprendersi fra le spese effettive di ufficio. 
  
- Sul minimo dei proventi garantiti, per ogni classe, compete ai ricevitori del registra l'applicazione del [R. decreto 31 dicembre 1876, n. 3614](Col%20quale%20sono%20approvati%20i%20nuovi%20organici%20del%20personale%20delle%20amministrazioni%20finanziarie.%20076U3614.md), serie 2ª. 
+ Sul minimo dei proventi garantiti, per ogni classe, compete ai ricevitori del registra l'applicazione del [R. decreto 31 dicembre 1876, n. 3614](../Regi%20decreti/Col%20quale%20sono%20approvati%20i%20nuovi%20organici%20del%20personale%20delle%20amministrazioni%20finanziarie.%20076U3614.md), serie 2ª. 
  
  Il Governo e' autorizzato a provvedere con regolamento a quanto occorra per l'esecuzione della presente legge.
 

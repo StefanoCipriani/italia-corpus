@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi sull'istruzione superiore approvato con [Regio decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), sono apportate le seguenti variazioni: 
+Al testo unico delle leggi sull'istruzione superiore approvato con [Regio decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), sono apportate le seguenti variazioni: 
  
  Art. 15. - E' sostituito il seguente: 
  
@@ -191,7 +191,7 @@ Istituto tecnico superiore di Milano, alla R. scuola superiore politecnica di Na
  
  L'accademia stabilita in Milano sara' retta da un preside nominato con decreto Reale con le norme di cui al precitato articolo 70. Egli esercitera' nell'Accademia l'autorita' stessa che e' attribuita ai rettori e ai presidi nelle Universita'. 
  
- Al preside suddetto si continuera' a corrispondere l'indennita' stabilita dal [R. decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md). 
+ Al preside suddetto si continuera' a corrispondere l'indennita' stabilita dal [R. decreto 13 maggio 1920, n. 929](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md). 
  
  Art. 85.-bis. - I laureati o diplomati nelle Universita' libere saranno tenuti a pagare per il conseguimento e per il riconoscimento, a tutti gli effetti pubblici, della laurea o del diploma una tassa erariale pari alla differenza tra l'importo complessivo delle tasse pagate nelle Universita' libere e quelle prescritte per le Universita' Regie. 
  
@@ -248,7 +248,7 @@ La presente legge entrera' in vigore:
 
 ## Art. 4.
 
-Sono abrogati il [R. decreto 8 ottobre 1920, n. 1546](Che%20istituisce%20corsi%20di%20esercitazioni%20presso%20le%20Universita%20e%20gli%20Istituti%20di%20istruzione%20superiore.%20020U1546.md), e tutte le disposizioni contrarie alla presente legge e da essa diverse.
+Sono abrogati il [R. decreto 8 ottobre 1920, n. 1546](../Regi%20decreti/Che%20istituisce%20corsi%20di%20esercitazioni%20presso%20le%20Universita%20e%20gli%20Istituti%20di%20istruzione%20superiore.%20020U1546.md), e tutte le disposizioni contrarie alla presente legge e da essa diverse.
 
 ## Art. 5.
 

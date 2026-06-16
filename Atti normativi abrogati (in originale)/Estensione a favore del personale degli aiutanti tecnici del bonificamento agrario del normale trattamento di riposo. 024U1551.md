@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), recante disposizioni sulle pensioni normali del personale dell'Amministrazione dello Stato;
+Visto il [R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), recante disposizioni sulle pensioni normali del personale dell'Amministrazione dello Stato;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), recante disposizioni interpretative ed integrative del Regio decreto predetto;
+Visto il [R. decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), recante disposizioni interpretative ed integrative del Regio decreto predetto;
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 ## Articolo unico.
 
-Le disposizioni contenute nell'[art. 18 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) e nell'[art. 8 del R. decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), sono estese, in quanto applicabili, anche al personale del ruolo degli aiutanti tecnici del bonificamento agrario compreso nella tabella n. 81 allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+Le disposizioni contenute nell'[art. 18 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) e nell'[art. 8 del R. decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), sono estese, in quanto applicabili, anche al personale del ruolo degli aiutanti tecnici del bonificamento agrario compreso nella tabella n. 81 allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Le norme per l'attuazione della precedente disposizione saranno emanate con decreto Reale, su proposta del Ministro per le finanze. 
  

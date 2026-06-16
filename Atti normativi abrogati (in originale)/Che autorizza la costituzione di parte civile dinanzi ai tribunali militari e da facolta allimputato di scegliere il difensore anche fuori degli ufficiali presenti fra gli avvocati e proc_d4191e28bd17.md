@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Nei procedimenti per reati che sono devoluti alla giurisdizione militare per essere stati commessi in tempo di guerra, congiuntamente all'azione penale puo' essere esercitata l'azione civile, a termine degli articoli 7 e seguenti, 53 e seguenti, del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) comune, secondo le norme ivi dettate per i giudizi innanzi al tribunale ordinario, in quanto siano applicabili, fermo il disposto del capoverso dell'[art. 27 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dell'[art. 26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
+Nei procedimenti per reati che sono devoluti alla giurisdizione militare per essere stati commessi in tempo di guerra, congiuntamente all'azione penale puo' essere esercitata l'azione civile, a termine degli articoli 7 e seguenti, 53 e seguenti, del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) comune, secondo le norme ivi dettate per i giudizi innanzi al tribunale ordinario, in quanto siano applicabili, fermo il disposto del capoverso dell'[art. 27 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dell'[art. 26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 2.
 
-Nei procedimenti indicati nell'articolo precedente, innanzi ai tribunali militari di guerra, fatta eccezione per quelli che funzionano nella zona di operazione e nelle fortezze in istato di resistenza, l'imputato, puo', in deroga dell'[art. 544 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dell'[art. 602 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, scegliere il suo difensore anche fuori degli ufficiali presenti, Ira gli avvocati e procuratori ammessi all'esercizio della professione nei modi stabiliti dalla legge. 
+Nei procedimenti indicati nell'articolo precedente, innanzi ai tribunali militari di guerra, fatta eccezione per quelli che funzionano nella zona di operazione e nelle fortezze in istato di resistenza, l'imputato, puo', in deroga dell'[art. 544 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dell'[art. 602 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, scegliere il suo difensore anche fuori degli ufficiali presenti, Ira gli avvocati e procuratori ammessi all'esercizio della professione nei modi stabiliti dalla legge. 
  
  Lo stesso diritto compete alla parte civile e al civilmente responsabile.
 
@@ -22,7 +22,7 @@ Nei procedimenti indicati nell'articolo precedente, innanzi ai tribunali militar
 
 Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta ufficiale anche per quanto riguarda i procedimenti in corso. 
  
- L'art. 2 si applica anche se sia gia' avvenuta la nomina del difensore a norma dell'[art. 544 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito dell'[art. 602 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+ L'art. 2 si applica anche se sia gia' avvenuta la nomina del difensore a norma dell'[art. 544 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito dell'[art. 602 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi, e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

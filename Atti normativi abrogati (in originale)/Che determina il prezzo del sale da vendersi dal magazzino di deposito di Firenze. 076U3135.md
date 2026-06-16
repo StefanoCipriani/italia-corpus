@@ -14,7 +14,7 @@ IL MINISTRO DELLE FINANZE
  
  Visto l'allegato B del [decreto luogotenenziale del 28 giugno 1866, n. 3018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1866-06-28;3018); 
  
- Visto l'articolo 123 del regolamento delle privative approvato con [Regio decreto 15 giugno 1865, n. 2398](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20065U2398.md), 
+ Visto l'articolo 123 del regolamento delle privative approvato con [Regio decreto 15 giugno 1865, n. 2398](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20065U2398.md), 
  
  Determina: 
  

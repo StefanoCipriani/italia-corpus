@@ -56,7 +56,7 @@ All'intendente di finanza e' deferita la competenza a provvedere ai lavori di or
 
 ### Art. 6.
 
-La nomina della Commissione per lo scarto degli atti di archivio degli uffici amministrativi, di cui all'[art. 69 del regio decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163#art_69), modificato dal [regio decreto 31 agosto 1933, n. 1313](Modifiche%20agli%20articoli%2069%2070%2072%20e%2074%20del%20regolamento%20per%20gli%20Archivi%20di%20Stato%20approvato%20con%20R.%20decreto%202%20ottobre%201911%20n.%201163.%20033U1313.md), e' deferita, per gli uffici finanziari periferici, all'intendente di finanza competente per territorio.
+La nomina della Commissione per lo scarto degli atti di archivio degli uffici amministrativi, di cui all'[art. 69 del regio decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), modificato dal [regio decreto 31 agosto 1933, n. 1313](../Regi%20decreti/Modifiche%20agli%20articoli%2069%2070%2072%20e%2074%20del%20regolamento%20per%20gli%20Archivi%20di%20Stato%20approvato%20con%20R.%20decreto%202%20ottobre%201911%20n.%201163.%20033U1313.md), e' deferita, per gli uffici finanziari periferici, all'intendente di finanza competente per territorio.
 
 ### Art. 7.
 
@@ -74,7 +74,7 @@ L'autorizzazione per la vendita al pubblico dei valori bollati, richiesta dall'[
 
 ### Art. 10.
 
-Il primo comma dell'art. 39 del testo unico delle leggi sulle tasse automobilistiche approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e' modificato come segue:
+Il primo comma dell'art. 39 del testo unico delle leggi sulle tasse automobilistiche approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e' modificato come segue:
  "I ricorsi in via amministrativa sulle questioni relative all'applicazione della tassa di di circolazione sono decisi dall'intendente di finanza. Contro tali decisioni se l'ammontare controverso della tassa superi le L. 50.000, e' ammesso ricorso al Ministro per le finanze nel termine di giorni trenta dalla loro notificazione"
 
 ### Art. 11.
@@ -84,7 +84,7 @@ Il secondo comma dell'art. 14 del testo unico delle leggi vigenti in materia di 
 
 ### Art. 12.
 
-Il secondo comma dell'art. 39 della legge tributaria sulle assicurazioni, approvato con [regio decreto 30 dicembre 1923, n. 3281](Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), e' modificato come segue:
+Il secondo comma dell'art. 39 della legge tributaria sulle assicurazioni, approvato con [regio decreto 30 dicembre 1923, n. 3281](../Regi%20decreti/Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), e' modificato come segue:
  "Contro la decisione dell'intendente e' ammesso, nei modi e termini stabiliti dal regolamento, il ricorso al Ministro per le finanze, soltanto se l'ammontare delle tasse e sopratasse in contestazione superi le L. 50.000".
 
 ### Art. 13.
@@ -105,7 +105,7 @@ L'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 27 dicembre 
 ### Art. 16.
 
 L'[art. 8 del decreto legislativo 3 maggio 1948, n. 799](../Decreti%20Legislativi/Nuovi%20provvedimenti%20in%20materia%20dimposta%20generale%20sullentrata.md), che reca nuovi provvedimenti in materia di imposta generale sull'entrata, e' sostituito dal seguente:
- "La competenza a consentire dilazioni a norma dell'[art. 46 del regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762, e del l'art. 117](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md) del regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), e' devoluta, senza limiti di somma, all'intendente di finanza".
+ "La competenza a consentire dilazioni a norma dell'[art. 46 del regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762, e del l'art. 117](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md) del regolamento approvato con [regio decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), e' devoluta, senza limiti di somma, all'intendente di finanza".
 
 ### Art. 17.
 
@@ -145,7 +145,7 @@ Le facolta' attribuite al Ministro per le finanze dal secondo e penultimo comma 
 
 ### Art. 24.
 
-Le attribuzioni deferite al Ministro per le finanze dagli articoli 1, 2 (sesto e settimo comma) e 5 del regolamento sui depositi franchi, approvato con [regio decreto 17 giugno 1938, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-17;856), sono devolute al competente direttore superiore della circoscrizione doganale.
+Le attribuzioni deferite al Ministro per le finanze dagli articoli 1, 2 (sesto e settimo comma) e 5 del regolamento sui depositi franchi, approvato con [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md), sono devolute al competente direttore superiore della circoscrizione doganale.
 
 ### Art. 25.
 
@@ -153,11 +153,11 @@ La facolta' attribuita al Ministero delle finanze dall'art. 217, primo comma, de
 
 ### Art. 26.
 
-La facolta' spettante al Ministro per le finanze in base al comma aggiunto dal [regio decreto 6 novembre 1930, n. 1512, all'art. 220](Modificazione%20dellart.%20220%20del%20regolamento%20per%20lesecuzione%20della%20legge%20doganale.%20030U1512.md) del regolamento per la esecuzione della legge doganale, approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), e' esercitata dal competente direttore superiore della circoscrizione doganale.
+La facolta' spettante al Ministro per le finanze in base al comma aggiunto dal [regio decreto 6 novembre 1930, n. 1512, all'art. 220](../Regi%20decreti/Modificazione%20dellart.%20220%20del%20regolamento%20per%20lesecuzione%20della%20legge%20doganale.%20030U1512.md) del regolamento per la esecuzione della legge doganale, approvato con [regio decreto 13 febbraio 1896, n. 65](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20doganali.%20096U0065.md), e' esercitata dal competente direttore superiore della circoscrizione doganale.
 
 ### Art. 27.
 
-Le facolta' attribuite al Ministero delle finanze dagli articoli 3, ultimo comma e 4, ultimo comma, del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), sono deferite al competente direttore superiore della circoscrizione doganale.
+Le facolta' attribuite al Ministero delle finanze dagli articoli 3, ultimo comma e 4, ultimo comma, del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), sono deferite al competente direttore superiore della circoscrizione doganale.
 
 ### Art. 28.
 
@@ -165,17 +165,17 @@ Per le merci non munite di contrassegno, le quali possano essere riesportate da 
 
 ### Art. 29.
 
-Il secondo comma dell'art. 96 dei regolamento sulle importazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), e' sostituito dal seguente:
+Il secondo comma dell'art. 96 dei regolamento sulle importazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), e' sostituito dal seguente:
  L'importazione, quando in proposito non creda di rimettersi al giudizio della dogana, puo' ricorrere ai direttore superiore della circoscrizione doganale se questi non e' lo stesso capo della dogana, ovvero al capo del compartimento doganale d'ispezione, negli altri casi, i quali decidono sentita la Camera di commercio, industria e agricoltura della Provincia nella quale e' stato chiesto di effettuare l'operazione".
 
 ### Art. 30.
 
-Il rilascio delle autorizzazioni alla temporanea importazione e l'emanazione delle relative norme di concessione che, ai sensi degli articoli 109, 113, 118, 119, 122, 123, 128, 129, 139, 140, 149, 156, 165, 166, 173 e 199 del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), sono attribuiti al Ministero delle finanze, sono devoluti al competente direttore superiore della circoscrizione doganale, cui vanno indirizzate le domande di concessione, con le formalita' sancite nelle rispettive disposizioni.
+Il rilascio delle autorizzazioni alla temporanea importazione e l'emanazione delle relative norme di concessione che, ai sensi degli articoli 109, 113, 118, 119, 122, 123, 128, 129, 139, 140, 149, 156, 165, 166, 173 e 199 del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), sono attribuiti al Ministero delle finanze, sono devoluti al competente direttore superiore della circoscrizione doganale, cui vanno indirizzate le domande di concessione, con le formalita' sancite nelle rispettive disposizioni.
  La, facolta' di cui al secondo comma dell'art. 140 resta tuttavia attribuito al Ministro, allorche' le operazioni ivi previste avvengano fra dogane appartenenti a circoscrizioni diverse.
 
 ### Art. 31.
 
-L'autorizzazione di cui al primo comma dell'art. 189 del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), e' devoluta al direttore superiore della circoscrizione doganale, allorche' le operazioni ivi indicate si effettuino fra dogane appartenenti alla medesima circoscrizione.
+L'autorizzazione di cui al primo comma dell'art. 189 del regolamento sulle importazioni ed esportazioni temporanee, approvato con [regio decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md), e' devoluta al direttore superiore della circoscrizione doganale, allorche' le operazioni ivi indicate si effettuino fra dogane appartenenti alla medesima circoscrizione.
 
 ## Decentramento di attribuzioni alle prefetture
 
@@ -183,7 +183,7 @@ TITOLO IV
 
 ### Art. 32.
 
-La facolta' di concedere il benestare di cui al primo comma dell'art. 94 del testo unico delle leggi sulla finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' devoluta al prefetto.
+La facolta' di concedere il benestare di cui al primo comma dell'art. 94 del testo unico delle leggi sulla finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' devoluta al prefetto.
 
 ### Art. 33.
 

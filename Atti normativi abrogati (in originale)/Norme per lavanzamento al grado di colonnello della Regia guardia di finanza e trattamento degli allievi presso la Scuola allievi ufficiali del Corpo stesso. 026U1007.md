@@ -18,7 +18,7 @@ Visto il [R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/
 
 Vista la [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), sull'avanzamento degli ufficiali del Regio esercito e relative norme esecutive per la sua prima applicazione;
 
-Visto il regolamento organico della Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126);
+Visto il regolamento organico della Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md);
 
 Ritenuta la necessita' di stabilire i modi di accertamento dell'idoneita' e le condizioni per l'avanzamento al grado di colonnello della Regia guardia di finanza, in relazione alla legge sopra citata e alla facolta' di cui all'[art. 7, comma 3°, del R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281#art_7-com3); e la necessita' altresi' di regolare il trattamento degli allievi presso la Scuola allievi ufficiali del Corpo stesso, i quali per mancanze alla disciplina o per troppo scarso profitto negli studi non siano piu' meritevoli della permanenza all'Istituto;
 
@@ -100,7 +100,7 @@ L'allievo rimandato dalla Scuola ai termini dell'art. 9 avra', secondo la sua pr
  
  a) se egli era gia' in servizio nella Regia guardia di finanza all'atto della ammissione alla Scuola, sara' rinviato al servizio del Corpo, col suo grado o, se non ancora graduato, col grado di sottobrigadiere; 
  
- b) se all'atto dell'ammissione alla Scuola non faceva parte del Corpo, egli sara' prosciolto dalla ferma contratta; e il Comando della Scuola provvedera' di conseguenza secondo e' previsto dai commi 3° e seguenti dell'art. 101 del regolamento organico del Corpo approvato con [R. decreto n. 126 del 3 gennaio 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126).
+ b) se all'atto dell'ammissione alla Scuola non faceva parte del Corpo, egli sara' prosciolto dalla ferma contratta; e il Comando della Scuola provvedera' di conseguenza secondo e' previsto dai commi 3° e seguenti dell'art. 101 del regolamento organico del Corpo approvato con [R. decreto n. 126 del 3 gennaio 1926](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md).
 
 ## Art. 11.
 

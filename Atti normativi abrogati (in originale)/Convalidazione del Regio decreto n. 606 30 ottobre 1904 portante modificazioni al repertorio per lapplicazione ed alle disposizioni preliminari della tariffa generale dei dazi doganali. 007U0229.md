@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto del 30 ottobre 1904, n. 606](Per%20lapprovazione%20della%20tabella%20recante%20modificazioni%20al%20repertorio%20per%20lapplicazione%20della%20tariffa%20dei%20dazi%20doganali.%20004U0606.md), col quale furono recate modificazioni al repertorio per l'applicazione della tariffa dei dazi doganali. 
+ E' convertito in legge il [R. decreto del 30 ottobre 1904, n. 606](../Regi%20decreti/Per%20lapprovazione%20della%20tabella%20recante%20modificazioni%20al%20repertorio%20per%20lapplicazione%20della%20tariffa%20dei%20dazi%20doganali.%20004U0606.md), col quale furono recate modificazioni al repertorio per l'applicazione della tariffa dei dazi doganali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

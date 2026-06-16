@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 239 del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), e' sostituito dal seguente: 
+L'art. 239 del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito dal seguente: 
  
  «Il diploma di abilitazione all'insegnamento nelle scuole popolari, conseguito dagli insegnanti elementari delle scuole della citta' di Fiume, secondo gli ordinamenti del Regno di Ungheria, e' considerato equipollente alla abilitazione all'insegnamento elementare conseguita secondo gli ordinamenti del Regno».
 

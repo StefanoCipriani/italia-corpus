@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 E' istituito, presso l'Amministrazione delle poste e delle telecomunicazioni, il servizio dei vaglia postali a taglio fisso.
- L'importo dei singoli tagli e le rispettive tasse saranno stabiliti con successivo provvedimento da emanarsi nelle forme previste dall'art. 8 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645).
+ L'importo dei singoli tagli e le rispettive tasse saranno stabiliti con successivo provvedimento da emanarsi nelle forme previste dall'art. 8 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md).
  La data d'inizio dei servizio e le caratteristiche tecniche dei vaglia postali a taglio fisso saranno stabilite con decreto del Ministro per le poste e le telecomunicazioni di concerto con il Ministro per il tesoro.
 
 ## Art. 2.

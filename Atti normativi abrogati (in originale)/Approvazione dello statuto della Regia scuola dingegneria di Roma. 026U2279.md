@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Veduto il [R. decreto-legge 20 agosto 1926, n. 1760](Istituzione%20della%20Scuola%20dingegneria%20aeronautica%20presso%20la%20Regia%20scuola%20dingegneria%20di%20Roma.%20026U1760.md); 
  
- Veduto il Regolamento generale universitario approvato col [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674); 
+ Veduto il Regolamento generale universitario approvato col [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md); 
  
  Udito il Consiglio Superiore della pubblica istruzione; 
  

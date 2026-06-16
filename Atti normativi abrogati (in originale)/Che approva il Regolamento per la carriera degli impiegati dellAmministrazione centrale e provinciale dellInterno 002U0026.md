@@ -431,7 +431,7 @@ Le pene disciplinari che possono applicarsi agl'impiegati dell'Amministrazione c
 
 Le pene disciplinari superiori alla sospensione dalle funzioni per un mese, o per termine minore con perdita di anzianita', non possono applicarsi senza il previo parere della Commissione di cui all'articolo 37. 
  
- Uguale procedimento deve osservarsi per l'applicazione dei provvedimenti contemplati negli articoli 11, 12 e 13 del Regolamento approvato con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), per l'esecuzione del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+ Uguale procedimento deve osservarsi per l'applicazione dei provvedimenti contemplati negli articoli 11, 12 e 13 del Regolamento approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), per l'esecuzione del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  La Commissione non puo' deliberare, se non decorso il termine assegnato all'impiegato per presentare in iscritto le sue deduzioni. 
  

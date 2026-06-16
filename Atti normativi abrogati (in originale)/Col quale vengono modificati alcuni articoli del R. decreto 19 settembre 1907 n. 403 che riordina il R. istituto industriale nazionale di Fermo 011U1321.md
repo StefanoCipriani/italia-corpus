@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 settembre 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-19;403), che riordina il R. istituto industriale nazionale di Fermo;
+Visto il [R. decreto 19 settembre 1907, n. 403](../Regi%20decreti/Che%20approva%20lo%20statuto%20pel%20riordinamento%20dellIstituto%20darti%20e%20mestieri%20per%20le%20Marche%20fondato%20in%20Fermo.%200700403R.md), che riordina il R. istituto industriale nazionale di Fermo;
 
 Viste le deliberazioni della Deputazione provinciale di Ascoli Piceno del 28 giugno 1911, e quella del Consiglio comunale di Fermo in data 21 giugno 1911;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'ind
 
 ## Art. 1.
 
-Gli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-19;403#art_4) e [5 del R. decreto 19 settembre 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-19;403#art_5), sono modificati nel modo seguente: 
+Gli [articoli 4](../Regi%20decreti/Che%20approva%20lo%20statuto%20pel%20riordinamento%20dellIstituto%20darti%20e%20mestieri%20per%20le%20Marche%20fondato%20in%20Fermo.%200700403R.md) e [5 del R. decreto 19 settembre 1907, n. 403](../Regi%20decreti/Che%20approva%20lo%20statuto%20pel%20riordinamento%20dellIstituto%20darti%20e%20mestieri%20per%20le%20Marche%20fondato%20in%20Fermo.%200700403R.md), sono modificati nel modo seguente: 
  
  Art. 4. - La scuola comprende un corso inferiore della durata di tre anni, e un corso superiore della durata di quattro anni, di cui il primo biennio comune a tutti gli allievi e il secondo biennio a sezioni separate, per quante sezioni sono e sieno per essere con decreto ministeriale istituite. 
  
@@ -44,7 +44,7 @@ Gli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decr
 
 ## Art. 2.
 
-Il ministro di agricoltura, industria e commercio e' autorizzato a derogare dalle norme dell'[art. 17 del R. decreto 19 settembre 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-19;403#art_17), per la nomina a professore straordinario degli insegnanti attualmente in carica col grado d'incaricati. 
+Il ministro di agricoltura, industria e commercio e' autorizzato a derogare dalle norme dell'[art. 17 del R. decreto 19 settembre 1907, n. 403](../Regi%20decreti/Che%20approva%20lo%20statuto%20pel%20riordinamento%20dellIstituto%20darti%20e%20mestieri%20per%20le%20Marche%20fondato%20in%20Fermo.%200700403R.md), per la nomina a professore straordinario degli insegnanti attualmente in carica col grado d'incaricati. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

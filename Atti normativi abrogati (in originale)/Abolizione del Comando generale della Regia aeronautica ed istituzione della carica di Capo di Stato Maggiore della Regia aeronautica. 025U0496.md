@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), che istituisce il Commissariato d'aeronautica;
+Visto il [R. decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), che istituisce il Commissariato d'aeronautica;
 
-Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), concernente la costituzione della Regia aeronautica;
+Visto il [R. decreto 28 marzo 1923, n. 645](../Regi%20decreti/Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), concernente la costituzione della Regia aeronautica;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), concernente l'ordinamento gerarchico dell'Amministrazione dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), concernente l'ordinamento gerarchico dell'Amministrazione dello Stato;
 
 Udito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Commissario per l'aero
 
 ## Art. 1.
 
-Il Comando generale della Regia aeronautica e' abolito a datare dal 16 aprile 1925 e di conseguenza rimane soppresso, dalla stessa data, il posto di comandante generale della Regia aeronautica di cui alla tabella n. 47 annessa al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+Il Comando generale della Regia aeronautica e' abolito a datare dal 16 aprile 1925 e di conseguenza rimane soppresso, dalla stessa data, il posto di comandante generale della Regia aeronautica di cui alla tabella n. 47 annessa al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 

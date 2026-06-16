@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduti il regolamento per i licei e ginnasi approvato con [R. decreto 3 febbraio 1901, n. 31](Che%20approva%20il%20nuovo%20Regolamento%20per%20i%20Ginnasi%20ed%20i%20Licei%20001U0031.md), il [regolamento 21 giugno 1885, n. 3413](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1885-06-21;3413), sugli Istituti tecnici o il [regolamento 3 dicembre 1896, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1896-12-03;592), sulle scuole normali e' complementari;
+Veduti il regolamento per i licei e ginnasi approvato con [R. decreto 3 febbraio 1901, n. 31](../Regi%20decreti/Che%20approva%20il%20nuovo%20Regolamento%20per%20i%20Ginnasi%20ed%20i%20Licei%20001U0031.md), il [regolamento 21 giugno 1885, n. 3413](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1885-06-21;3413), sugli Istituti tecnici o il [regolamento 3 dicembre 1896, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1896-12-03;592), sulle scuole normali e' complementari;
 
 Riconosciuta l'opportunita' di istituire presso ogni gabinetto di fisica e di chimica una officina per i lavori dei meccanici, e di dare norme per l'uso del materiale scientifico e delle collezioni e per la direzione dei gabinetti stessi;
 

@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Riconosciuta la necessita' di apportare l'aumento di L. 502.000 al capitolo n. 59: «Supplementi di congrua concessi in esecuzione dell'art. 28 della legge 7 luglio 1866, o di altre leggi precedenti o susseguenti, ai titolari di benefici parrocchiali deficienti ed assegni agli economi spirituali durante le vacanze» dello stato di previsione della spesa dell'Amministrazione del fondo per il culto per l'esercizio 1915-916, alla quale somma si rende possibile contrapporre economie per equivalente importo in altri capitoli dello stato di previsione medesimo;
 
-Ritenuta inoltre la necessita' di introdurre nel bilancio del fondo per il culto ed in quello del fondo di beneficenza e di religione nella citta' di Roma per l'esercizio finanziario predetto le variazioni dipendenti dalla istituzione del contributo del centesimo di guerra di cui al [R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md);
+Ritenuta inoltre la necessita' di introdurre nel bilancio del fondo per il culto ed in quello del fondo di beneficenza e di religione nella citta' di Roma per l'esercizio finanziario predetto le variazioni dipendenti dalla istituzione del contributo del centesimo di guerra di cui al [R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md);
 
 Udito il Consiglio dei ministri;
 

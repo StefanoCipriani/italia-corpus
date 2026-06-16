@@ -72,7 +72,7 @@ Per le navi a vapore, in ferro ed in acciaio, dichiarate ed impostate dai cantie
 
 ## Art. 7.
 
-Sono soppressi i diritti stabiliti ai paragrafi 41, 42, 43, 44, 45, 46, 47, 48, 49, 51 e 53, della tariffa consolare approvata con [R. decreto 10 agosto 1890, n. 7087](Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md) (serie 3ª). 
+Sono soppressi i diritti stabiliti ai paragrafi 41, 42, 43, 44, 45, 46, 47, 48, 49, 51 e 53, della tariffa consolare approvata con [R. decreto 10 agosto 1890, n. 7087](../Regi%20decreti/Che%20determina%20i%20diritti%20da%20riscuotersi%20nei%20regi%20uffici%20diplomatici%20e%20consolari%20allestero%20secondo%20lannessa%20tabella.%20090U7087.md) (serie 3ª). 
  
  Nella parte ordinaria dello stato di previsione della spesa del Ministero degli affari esteri sara' inscritta una somma sufficiente ad indennizzare gli ufficiali diplomatici e gli uffici consolari di 1ª e 2ª categoria delle perdite loro derivanti per effetto della soppressione dei diritti di cui sopra. 
  

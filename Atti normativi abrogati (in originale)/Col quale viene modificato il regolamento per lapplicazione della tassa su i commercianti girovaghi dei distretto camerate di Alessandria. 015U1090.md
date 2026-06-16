@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'art. 4 del regolamento per l'applicazione e la riscossione della tassa sui commercianti temporanei e girovaghi nel distretto della Camera di commercio e industria di Alessandria approvato con il [R. decreto 27 agosto 1914, n. 999](Col%20quale%20la%20Camera%20di%20commercio%20di%20Alessandria%20e%20autorizzata%20ad%20imporre%20ed%20a%20riscuotere%20la%20tassa%20su%20i%20commercianti%20temporanei%20e%20girovaghi%20del%20proprio%20distretto.%20014U0999.md), e' abrogato e sostituto dal testo seguente: 
+L'art. 4 del regolamento per l'applicazione e la riscossione della tassa sui commercianti temporanei e girovaghi nel distretto della Camera di commercio e industria di Alessandria approvato con il [R. decreto 27 agosto 1914, n. 999](../Regi%20decreti/Col%20quale%20la%20Camera%20di%20commercio%20di%20Alessandria%20e%20autorizzata%20ad%20imporre%20ed%20a%20riscuotere%20la%20tassa%20su%20i%20commercianti%20temporanei%20e%20girovaghi%20del%20proprio%20distretto.%20014U0999.md), e' abrogato e sostituto dal testo seguente: 
  
  « A tutti gli agenti incaricati dai Comuni spettera' per ogni denuncia nuova di esercizio temporaneo o girovago un aggio del quarto dell'ammontare della tassa riscossa ». 
  

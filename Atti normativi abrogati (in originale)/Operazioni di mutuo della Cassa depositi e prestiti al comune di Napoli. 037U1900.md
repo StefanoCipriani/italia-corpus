@@ -42,7 +42,7 @@ La Sezione autonoma di credito comunale e provinciale, amministrata dalla Direzi
 
 ## Art. 3.
 
-In corrispondenza delle somme ricavate dall'emissione delle cartelle, la Cassa depositi e prestiti effettuera' mutui al predetto Comune con le norme del titolo secondo, parte seconda, del [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453), e la procedura dell'[art. 3 del R. decreto 8 febbraio 1923, n. 287](Col%20quale%20vengono%20apportate%20modificazioni%20alle%20norme%20vigenti%20per%20la%20concessione%20di%20mutui%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti.%20023U0287.md).
+In corrispondenza delle somme ricavate dall'emissione delle cartelle, la Cassa depositi e prestiti effettuera' mutui al predetto Comune con le norme del titolo secondo, parte seconda, del [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453), e la procedura dell'[art. 3 del R. decreto 8 febbraio 1923, n. 287](../Regi%20decreti/Col%20quale%20vengono%20apportate%20modificazioni%20alle%20norme%20vigenti%20per%20la%20concessione%20di%20mutui%20da%20parte%20della%20Cassa%20depositi%20e%20prestiti.%20023U0287.md).
 
 ## Art. 4.
 

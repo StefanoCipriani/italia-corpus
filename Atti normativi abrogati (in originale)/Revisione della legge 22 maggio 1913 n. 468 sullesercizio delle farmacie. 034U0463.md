@@ -148,7 +148,7 @@ L'[art. 15 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20
 
 L'[art. 16 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e' modificato come segue: 
  
- «I titolari delle farmacie, siano essi persone fisiche, enti o societa', sono tenuti al pagamento di una tassa annuale di ispezione, nella misura risultante alla tabella A, annessa alla [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e modificata dall'[art. 9 del R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md). 
+ «I titolari delle farmacie, siano essi persone fisiche, enti o societa', sono tenuti al pagamento di una tassa annuale di ispezione, nella misura risultante alla tabella A, annessa alla [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e modificata dall'[art. 9 del R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md). 
  
  «La riscossione della tassa ha luogo con le norme per la riscossione delle imposte dirette, in base agli elenchi compilati annualmente, entro il mese di novembre, dalle agenzie delle imposte dirette e resi esecutori dal prefetto».
 
@@ -212,7 +212,7 @@ Nulla e' innovato al disposto dell'[art. 26 della legge 22 maggio 1913, n. 468](
 
 ### Art. 19.
 
-Alle farmacie privilegiate prevedute nell'[art. 28 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), che siano in esercizio alla scadenza del trentennio stabilito dallo stesso art. 28, ed alle farmacie di diritto transitorio della Venezia Giulia e Tridentina, e del territorio di Fiume, che siano in esercizio alla scadenza dei termini stabiliti dall'[art. 15 del R. decreto 13 maggio 1923, n. 1238](Che%20estende%20alle%20Nuove%20Provincie%20la%20legislazione%20sanitaria%20vigente%20nel%20Regno.%20023U1238.md), ed 11 del [R. decreto 16 agosto 1926, n. 1914](Estensione%20alla%20provincia%20del%20Carnaro%20della%20legislazione%20sanitaria%20vigente%20nel%20Regno.%20026U1914.md), saranno applicate le disposizioni di cui agli articoli 14, 15, 16 e 17 del presente Regio decreto-legge.
+Alle farmacie privilegiate prevedute nell'[art. 28 della legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), che siano in esercizio alla scadenza del trentennio stabilito dallo stesso art. 28, ed alle farmacie di diritto transitorio della Venezia Giulia e Tridentina, e del territorio di Fiume, che siano in esercizio alla scadenza dei termini stabiliti dall'[art. 15 del R. decreto 13 maggio 1923, n. 1238](../Regi%20decreti/Che%20estende%20alle%20Nuove%20Provincie%20la%20legislazione%20sanitaria%20vigente%20nel%20Regno.%20023U1238.md), ed 11 del [R. decreto 16 agosto 1926, n. 1914](../Regi%20decreti/Estensione%20alla%20provincia%20del%20Carnaro%20della%20legislazione%20sanitaria%20vigente%20nel%20Regno.%20026U1914.md), saranno applicate le disposizioni di cui agli articoli 14, 15, 16 e 17 del presente Regio decreto-legge.
 
 ### Art. 20.
 
@@ -240,7 +240,7 @@ La [legge 9 dicembre 1928, n. 2733](Disposizioni%20per%20lapertura%20di%20farmac
 
 ### Art. 24.
 
-Il Governo del Re e' autorizzato a provvedere al coordinamento delle presenti disposizioni con quelle della [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e successive modificazioni, e ad inserire le norme, cosi' coordinate, con le integrazioni che si rendessero eventualmente necessarie, nonche' le norme che potessero in materia emanarsi nel [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) di cui alla [legge 6 luglio 1933, n. 947](Conferimento%20al%20Governo%20del%20Re%20di%20speciali%20poteri%20per%20la%20emanazione%20del%20nuovo%20testo%20unico%20delle%20leggi%20sanitarie.%20033U0947.md).
+Il Governo del Re e' autorizzato a provvedere al coordinamento delle presenti disposizioni con quelle della [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e successive modificazioni, e ad inserire le norme, cosi' coordinate, con le integrazioni che si rendessero eventualmente necessarie, nonche' le norme che potessero in materia emanarsi nel [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) di cui alla [legge 6 luglio 1933, n. 947](Conferimento%20al%20Governo%20del%20Re%20di%20speciali%20poteri%20per%20la%20emanazione%20del%20nuovo%20testo%20unico%20delle%20leggi%20sanitarie.%20033U0947.md).
 
 ### Art. 25.
 

@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, e del M
 
 ## Art. 1.
 
-Il secondo capoverso dell'[art. 1 del R. decreto 14 novembre 1926, n. 2481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;2481#art_1), e' modificato come segue: 
+Il secondo capoverso dell'[art. 1 del R. decreto 14 novembre 1926, n. 2481](../Regi%20decreti/Erezione%20in%20ente%20morale%20ed%20approvazione%20dello%20statuto%20relativo%20dellAutomobile%20Club%20dItalia.%20026U2481.md), e' modificato come segue: 
  
  «Esso e' posto sotto la vigilanza della Presidenza del Consiglio dei Ministri».
 

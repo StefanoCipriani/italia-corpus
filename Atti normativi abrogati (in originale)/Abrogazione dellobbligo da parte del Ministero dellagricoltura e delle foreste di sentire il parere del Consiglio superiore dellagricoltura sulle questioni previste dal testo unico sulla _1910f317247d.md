@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono abrogate le disposizioni contenute negli articoli 3, 4, 12, 13, 19, 23, 25, 27, 44, 49, 50, 51, 52, 54, 59 e 66 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [R. decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), che fanno obbligo al Ministro per l'agricoltura e le foreste di sentire il Comitato centrale della caccia, sostituito, per effetto del [R. decreto 29 maggio 1941, n. 489](Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), dal Consiglio superiore dell'agricoltura e delle foreste.
+Sono abrogate le disposizioni contenute negli articoli 3, 4, 12, 13, 19, 23, 25, 27, 44, 49, 50, 51, 52, 54, 59 e 66 del testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [R. decreto 5 giugno 1939, n. 1016](../Testi%20Unici/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), che fanno obbligo al Ministro per l'agricoltura e le foreste di sentire il Comitato centrale della caccia, sostituito, per effetto del [R. decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), dal Consiglio superiore dell'agricoltura e delle foreste.
 
 ## Art. 2.
 

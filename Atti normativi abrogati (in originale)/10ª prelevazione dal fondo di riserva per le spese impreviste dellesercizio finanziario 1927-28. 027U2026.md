@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanziario 1927-1928 sono disponibili L. 25,501,000;
 
@@ -53,7 +53,7 @@ nuove Provincie . . . . . . . . . . . . . . . . . . L. 150,000
  Cap. n. 70 - aggiunto (in conto competenza) - Spese
 pei servizi delle Commissioni incaricate degli
 studi legislativi per la riforma del [Codice
-penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ecc. . . . . . . . . . . . . . . . . . . . . » 150,000
+penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ecc. . . . . . . . . . . . . . . . . . . . . » 150,000
 
 
  Ministero degli affari esteri:

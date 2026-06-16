@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 26 maggio 1946, n. 617](Trasferimento%20allo%20Stato%20per%20fini%20di%20pubblica%20utilita%20della%20villa%20Abamelek%20Lazareff%20ed%20annessi.md), concernente il trasferimento allo Stato, per fini di pubblica utilita', della Villa Abamelek-Lazareff ed annessi;
+Visto il [regio decreto legislativo 26 maggio 1946, n. 617](../Regi%20decreti%20legislativi/Trasferimento%20allo%20Stato%20per%20fini%20di%20pubblica%20utilita%20della%20villa%20Abamelek%20Lazareff%20ed%20annessi.md), concernente il trasferimento allo Stato, per fini di pubblica utilita', della Villa Abamelek-Lazareff ed annessi;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

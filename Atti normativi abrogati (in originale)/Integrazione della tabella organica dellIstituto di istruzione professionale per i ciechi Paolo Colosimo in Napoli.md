@@ -10,23 +10,23 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti gli [articoli 35 e seguenti del regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449#art_35), sul riordinamento dell'istruzione professionale per i ciechi;
+Visti gli [articoli 35 e seguenti del regio decreto 29 agosto 1941, n. 1449](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md), sul riordinamento dell'istruzione professionale per i ciechi;
 
-Vista la tabella organica dell'Istituto di istruzione professionale per i ciechi "Paolo Colosimo" di Napoli annessa al citato [regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449);
+Vista la tabella organica dell'Istituto di istruzione professionale per i ciechi "Paolo Colosimo" di Napoli annessa al citato [regio decreto 29 agosto 1941, n. 1449](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md);
 
-Visto l'[art. 28 del regio decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sul passaggio allo Stato delle scuole dei Comuni autonomi;
+Visto l'[art. 28 del regio decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sul passaggio allo Stato delle scuole dei Comuni autonomi;
 
-Visto il [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), che approva il testo unico sull'istruzione elementare e successive modificazioni;
+Visto il [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), che approva il testo unico sull'istruzione elementare e successive modificazioni;
 
 Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 
 ## Art. 1.
 
-Alle scuole e corsi che costituiscono l'Istituto d'istruzione professionale per i ciechi "Paolo Colosimo" di Napoli, ai sensi dell'[art. 35 del regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449#art_35), e' aggiunta una scuola elementare per ciechi.
+Alle scuole e corsi che costituiscono l'Istituto d'istruzione professionale per i ciechi "Paolo Colosimo" di Napoli, ai sensi dell'[art. 35 del regio decreto 29 agosto 1941, n. 1449](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md), e' aggiunta una scuola elementare per ciechi.
 
 ## Art. 2.
 
-La tabella organica dell'Istituto d'istruzione professionale per i ciechi "Paolo Colosimo" di Napoli allegata al [regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449), e' integrata dalla tabella annessa al presente decreto, vista e firmata dai Ministro per la pubblica istruzione e da quello per il tesoro.
+La tabella organica dell'Istituto d'istruzione professionale per i ciechi "Paolo Colosimo" di Napoli allegata al [regio decreto 29 agosto 1941, n. 1449](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md), e' integrata dalla tabella annessa al presente decreto, vista e firmata dai Ministro per la pubblica istruzione e da quello per il tesoro.
 
 ## Art. 3.
 

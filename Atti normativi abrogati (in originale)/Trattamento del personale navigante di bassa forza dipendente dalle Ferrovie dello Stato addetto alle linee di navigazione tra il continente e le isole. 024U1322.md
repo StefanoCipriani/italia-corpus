@@ -20,11 +20,11 @@ Visto, il [R. decreto 2 maggio 1920, n. 615](https://www.normattiva.it/uri-res/N
 
 Visto il [R. decreto 18 novembre 1920, n. 1729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-18;1729);
 
-Visto il [R. decreto 24 settembre 1923, n. 2128](Norme%20per%20le%20competenze%20accessorie%20da%20computarsi%20agli%20effetti%20della%20pensione%20per%20alcune%20categorie%20di%20agenti%20delle%20ferrovie%20dello%20Stato.%20023U2128.md);
+Visto il [R. decreto 24 settembre 1923, n. 2128](../Regi%20decreti/Norme%20per%20le%20competenze%20accessorie%20da%20computarsi%20agli%20effetti%20della%20pensione%20per%20alcune%20categorie%20di%20agenti%20delle%20ferrovie%20dello%20Stato.%20023U2128.md);
 
-Visto l'[art. 18 del R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
+Visto l'[art. 18 del R. decreto 6 dicembre 1923, n. 2651](../Regi%20decreti/Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
 
-Visto l'[art. 5 del R. decreto 31 dicembre 1923, n. 3082](Trattamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20provvisorio%20ed%20aggiunto%20sanitario%20e%20di%20quello%20del%20traghetto%20di%20Venezia.%20023U3082.md);
+Visto l'[art. 5 del R. decreto 31 dicembre 1923, n. 3082](../Regi%20decreti/Trattamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20provvisorio%20ed%20aggiunto%20sanitario%20e%20di%20quello%20del%20traghetto%20di%20Venezia.%20023U3082.md);
 
 Visto il [R. decreto 13 marzo 1924, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-13;526);
 
@@ -44,7 +44,7 @@ Per il personale navigante di bassa forza, stabile e in prova dipendente dall'Am
 
 ## Art. 2.
 
-Il [n. 3 dell'art. 1, lettera a), del R. decreto 27 novembre 1919, n. 2373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2373#art_1-leta-num3), convertito in legge con l'[art. 9 della legge 7 aprile 1921, n. 369](Contenente%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20021U0369.md), e modificato col. [R. decreto 24 settembre 1923, n. 2128](Norme%20per%20le%20competenze%20accessorie%20da%20computarsi%20agli%20effetti%20della%20pensione%20per%20alcune%20categorie%20di%20agenti%20delle%20ferrovie%20dello%20Stato.%20023U2128.md), e' sostituito dal seguente: 
+Il [n. 3 dell'art. 1, lettera a), del R. decreto 27 novembre 1919, n. 2373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2373#art_1-leta-num3), convertito in legge con l'[art. 9 della legge 7 aprile 1921, n. 369](Contenente%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20021U0369.md), e modificato col. [R. decreto 24 settembre 1923, n. 2128](../Regi%20decreti/Norme%20per%20le%20competenze%20accessorie%20da%20computarsi%20agli%20effetti%20della%20pensione%20per%20alcune%20categorie%20di%20agenti%20delle%20ferrovie%20dello%20Stato.%20023U2128.md), e' sostituito dal seguente: 
  
  «3° Sulle competenze accessorie che in relazione alle loro speciali attribuzioni sono corrisposte al personale dei treni, ai capi deposito, ai macchinisti dei treni a vapore od elettrici e delle tradotte e manovre, ai fuochisti, agli assistenti dei treni elettrici, ed al personale navigante addetto al servizio dello stretto di Messina ed alle linee di navigazione di cui la [legge 5 aprile 1908, n. 111](Che%20approva%20le%20Convenzioni%20pei%20servizi%20postali%20e%20commerciali%20marittimi.%20008U0111.md), le quali competenze agli effetti dell'applicazione della ritenuta sono commisurate a partire dal 1° marzo 1920 in una somma eguale al quinto dello stipendio». 
  

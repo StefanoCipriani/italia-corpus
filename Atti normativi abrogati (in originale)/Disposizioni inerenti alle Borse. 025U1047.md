@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio ed il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio ed il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Veduti i [Regi decreti-legge 7 marzo 1925, n. 222](Riordinamento%20per%20le%20Borse.%20025U0222.md); [9 aprile 1925, n. 375](Provvedimenti%20sul%20riordinamento%20delle%20Borse.%20025U0375.md); [14 maggio 1925, n. 601, e il regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1925-05-14;601) approvato con [R decreto 9 aprile 1925, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-09;476), recanti nuove norme circa la nomina degli agenti di cambio e l'ordinamento delle Borse di commercio;
 

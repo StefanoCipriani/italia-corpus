@@ -12,9 +12,9 @@ vigente: true
 
 Sono convalidati: 
  
- a) il [regio decreto del 17 novembre 1887, N. 5084](Che%20approva%20il%20repertorio%20e%20le%20disposizioni%20speciali%20per%20lapplicazione%20della%20Tariffa%20generale%20dei%20dazi%20doganali.%20087U5084.md) (Serie 3ª), col quale furono approvate le disposizioni preliminari ed il repertorio generale per l'applicazione della tariffa doganale; 
+ a) il [regio decreto del 17 novembre 1887, N. 5084](../Regi%20decreti/Che%20approva%20il%20repertorio%20e%20le%20disposizioni%20speciali%20per%20lapplicazione%20della%20Tariffa%20generale%20dei%20dazi%20doganali.%20087U5084.md) (Serie 3ª), col quale furono approvate le disposizioni preliminari ed il repertorio generale per l'applicazione della tariffa doganale; 
  
- b) il [regio decreto del 18 dicembre 1887, N. 5116](Che%20approva%20lannessa%20tabella%20contenente%20le%20variazioni%20al%20repertorio%20della%20tariffa%20doganale.%20087U5116.md) (Serie 3ª), ed il [regio decreto del 27 agosto 1888, N. 5675](Col%20quale%20sono%20approvate%20le%20annesse%20tabelle%20recanti%20modificazioni%20al%20Repertorio%20generale%20della%20tariffa%20doganale.%20088U5675.md) (Serie 3ª), coi quali vennero introdotto variazioni, soppressioni ed aggiunte nel repertorio suddetto.
+ b) il [regio decreto del 18 dicembre 1887, N. 5116](../Regi%20decreti/Che%20approva%20lannessa%20tabella%20contenente%20le%20variazioni%20al%20repertorio%20della%20tariffa%20doganale.%20087U5116.md) (Serie 3ª), ed il [regio decreto del 27 agosto 1888, N. 5675](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20annesse%20tabelle%20recanti%20modificazioni%20al%20Repertorio%20generale%20della%20tariffa%20doganale.%20088U5675.md) (Serie 3ª), coi quali vennero introdotto variazioni, soppressioni ed aggiunte nel repertorio suddetto.
 
 ## Art. 2.
 

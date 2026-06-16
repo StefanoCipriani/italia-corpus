@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto il [R. decreto 18 aprile 1912, n. 786](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20gli%20impiegati%20dellIspettorato%20dei%20servizi%20marittimi.%20012U0786.md), che approva il regolamento per gli impiegati dell'ispettorato dei servizi marittimi; 
+ Veduto il [R. decreto 18 aprile 1912, n. 786](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20gli%20impiegati%20dellIspettorato%20dei%20servizi%20marittimi.%20012U0786.md), che approva il regolamento per gli impiegati dell'ispettorato dei servizi marittimi; 
  
- Veduto il [R. decreto 20 agosto 1914, n. 887](Col%20quale%20viene%20modificato%20il%20regolamento%20speciale%20del%20personale%20dellIspettorato%20dei%20servizi%20marittimi.%20014U0887.md), con cui si modifica l'art. 24 del regolamento predetto; 
+ Veduto il [R. decreto 20 agosto 1914, n. 887](../Regi%20decreti/Col%20quale%20viene%20modificato%20il%20regolamento%20speciale%20del%20personale%20dellIspettorato%20dei%20servizi%20marittimi.%20014U0887.md), con cui si modifica l'art. 24 del regolamento predetto; 
  
  Udito il parere del Consiglio di Stato; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' abrogato il [R. decreto 20 agosto 1914, n. 887](Col%20quale%20viene%20modificato%20il%20regolamento%20speciale%20del%20personale%20dellIspettorato%20dei%20servizi%20marittimi.%20014U0887.md), restando ripristinata dalla data di pubblicazione del decreto stesso l'efficacia del secondo comma dell'art. 24 del regolamento per gli impiegati dell'Ispettorato dei servizi marittimi approvato col R. decreto 18 aprile aprile 1912, n. 786. 
+ E' abrogato il [R. decreto 20 agosto 1914, n. 887](../Regi%20decreti/Col%20quale%20viene%20modificato%20il%20regolamento%20speciale%20del%20personale%20dellIspettorato%20dei%20servizi%20marittimi.%20014U0887.md), restando ripristinata dalla data di pubblicazione del decreto stesso l'efficacia del secondo comma dell'art. 24 del regolamento per gli impiegati dell'Ispettorato dei servizi marittimi approvato col R. decreto 18 aprile aprile 1912, n. 786. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

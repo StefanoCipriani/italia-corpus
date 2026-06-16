@@ -16,7 +16,7 @@ RE D'ITALIA
 
 In virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054) relativo alla riforma della scuola media;
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) relativo alla riforma della scuola media;
 
 Udito il Consiglio dei Ministri;
 

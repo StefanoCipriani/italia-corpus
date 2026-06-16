@@ -142,7 +142,7 @@ E' approvata la maggiore assegnazione di L. 259,68 inscritta al cap. 128-G¹ bis
 
 ## Art. 33.
 
-E' approvata la maggiore assegnazione di L. 44,731,18, inscritta al cap. 128-H¹ bis «Eccedenza d'impegni verificatesi al cap. 91 - Carceri - Spese pei domiciliati coatti e per gli assegnati a domicilio obbligatorio ([R. decreto 17 febbraio 1881, n. 74](Che%20modifica%20le%20disposizioni%20sul%20domicilio%20coatto.%20081U0074.md), e relativo regolamento approvato con decreto Ministeriale 10 dicembre 1881) dello stato di previsione della spesa per l' esercizio 1900-91 e retro», per provvedere al saldo delle eccedenze d' impegni verificatesi nel consuntivo della spesa del Ministero dell' Interno per l'esercizio finanziario 1901-902.
+E' approvata la maggiore assegnazione di L. 44,731,18, inscritta al cap. 128-H¹ bis «Eccedenza d'impegni verificatesi al cap. 91 - Carceri - Spese pei domiciliati coatti e per gli assegnati a domicilio obbligatorio ([R. decreto 17 febbraio 1881, n. 74](../Regi%20decreti/Che%20modifica%20le%20disposizioni%20sul%20domicilio%20coatto.%20081U0074.md), e relativo regolamento approvato con decreto Ministeriale 10 dicembre 1881) dello stato di previsione della spesa per l' esercizio 1900-91 e retro», per provvedere al saldo delle eccedenze d' impegni verificatesi nel consuntivo della spesa del Ministero dell' Interno per l'esercizio finanziario 1901-902.
 
 ## Art. 34.
 

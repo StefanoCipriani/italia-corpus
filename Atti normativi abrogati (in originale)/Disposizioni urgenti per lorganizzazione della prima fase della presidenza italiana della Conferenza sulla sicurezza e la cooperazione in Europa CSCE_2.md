@@ -38,7 +38,7 @@ Ai componenti della delegazione di cui al comma 1 si applicano le disposizioni d
 
 1.
 
-Le spese per le attivita' previste dall'articolo 1 sono a carico dello stato di previsione del Ministero degli affari esteri, che vi provvede mediante aperture di credito, a favore del capo della delegazione di cui al citato articolo, di importo anche eccedente il limite stabilito dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
+Le spese per le attivita' previste dall'articolo 1 sono a carico dello stato di previsione del Ministero degli affari esteri, che vi provvede mediante aperture di credito, a favore del capo della delegazione di cui al citato articolo, di importo anche eccedente il limite stabilito dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
 
 2.
 

@@ -53,7 +53,7 @@ Decorsi sei mesi dalla data di entrata in vigore della presente legge, i bambini
 Il [comma 3 dell'articolo 21 della legge 18 marzo 1988, n. 111](Norme%20sulla%20istituzione%20della%20patente%20di%20guida%20comunitaria%20e%20nuove%20disposizioni%20per%20il%20conseguimento%20delle%20patenti%20di%20guida%20e%20per%20la%20prevenzione%20e%20la%20sicurezza%20stradale.md), e' abrogato.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note all'art. 1:
  - Il D.M. 29 marzo 1974 concerne: "Norme relative alla omologazione CEE dei veicoli a motore e dei loro rimorchi, nonche' dei loro dispositivi di equipaggiamento".

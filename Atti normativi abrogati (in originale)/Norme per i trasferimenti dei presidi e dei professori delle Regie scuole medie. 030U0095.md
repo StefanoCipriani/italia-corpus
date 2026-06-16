@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e il [regolamento 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e il [regolamento 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367);
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

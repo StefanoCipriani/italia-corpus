@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge del 30 ottobre 1859, n. 3731;
 
-Visto il [R. decreto del 29 luglio 1923, n. 1970](Servizio%20delle%20privative%20industriali.%20023U1970.md);
+Visto il [R. decreto del 29 luglio 1923, n. 1970](../Regi%20decreti/Servizio%20delle%20privative%20industriali.%20023U1970.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -38,7 +38,7 @@ Lo Stato puo', nell'interesse della difesa nazionale, espropriare in tutto o in 
 
 ## Art. 3.
 
-Durante gli otto mesi di cui al terzo comma dell'art. 1, e nel periodo successivo a quello della data del decreto di espropriazione di cui all'art. 2, l'oggetto dell'invenzione e' considerato materiale militare a termine dell'[art. 107 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Durante gli otto mesi di cui al terzo comma dell'art. 1, e nel periodo successivo a quello della data del decreto di espropriazione di cui all'art. 2, l'oggetto dell'invenzione e' considerato materiale militare a termine dell'[art. 107 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4.
 

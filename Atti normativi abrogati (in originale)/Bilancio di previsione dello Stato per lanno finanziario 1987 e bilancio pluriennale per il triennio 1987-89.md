@@ -124,7 +124,7 @@ Il Ministro del tesoro e' autorizzato a ripartire, con propri decreti, le somme 
 
 19.
 
-I capitoli riguardanti spese di riscossione delle entrate per le quali, ai termini dell'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), sulla contabilita' generale dello Stato, possono essere autorizzate aperture di credito a favore dei funzionari delegati, sono quelli indicati nell'elenco n. 2, annesso allo stato di previsione del Ministero del tesoro.
+I capitoli riguardanti spese di riscossione delle entrate per le quali, ai termini dell'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato, possono essere autorizzate aperture di credito a favore dei funzionari delegati, sono quelli indicati nell'elenco n. 2, annesso allo stato di previsione del Ministero del tesoro.
 
 20.
 
@@ -171,7 +171,7 @@ Ai sensi dell'[articolo 11 della legge 23 aprile 1959, n. 189](https://www.norma
 
 4.
 
-Le spese di cui ai capitoli nn. 3105 e 3135 dello stato di previsione del Ministero delle finanze non impegnate alla chiusura dell'esercizio possono esserlo in quello successivo. Ai predetti capitoli si applicano, per l'anno finanziario 1987, le disposizioni contenute nell'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61bis), sulla contabilita' generale dello Stato, aggiunto dall'[articolo 3 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627](../DPR/Semplificazione%20e%20snellimento%20delle%20procedure%20in%20materia%20di%20amministrazione%20e%20contabilita%20generale%20dello%20Stato.md).
+Le spese di cui ai capitoli nn. 3105 e 3135 dello stato di previsione del Ministero delle finanze non impegnate alla chiusura dell'esercizio possono esserlo in quello successivo. Ai predetti capitoli si applicano, per l'anno finanziario 1987, le disposizioni contenute nell'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato, aggiunto dall'[articolo 3 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627](../DPR/Semplificazione%20e%20snellimento%20delle%20procedure%20in%20materia%20di%20amministrazione%20e%20contabilita%20generale%20dello%20Stato.md).
 
 5.
 
@@ -251,7 +251,7 @@ Sono autorizzati l'impegno e il pagamento delle spese del Ministero della pubbli
 
 2.
 
-Per l'anno finanziario 1987 le aperture di credito disposte sui capitoli nn. 1030 e 2001 dello stato di previsione del Ministero della pubblica istruzione per l'anno finanziario 1987 possono essere emesse in deroga ai limiti stabiliti dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni ed integrazioni.
+Per l'anno finanziario 1987 le aperture di credito disposte sui capitoli nn. 1030 e 2001 dello stato di previsione del Ministero della pubblica istruzione per l'anno finanziario 1987 possono essere emesse in deroga ai limiti stabiliti dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni ed integrazioni.
 
 ## Art. 10. — (Stato di previsione del Ministero dell'interno e disposizioni relative)
 
@@ -310,7 +310,7 @@ Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, su propo
 
 Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, su proposta del Ministro dei lavori pubblici, alla riassegnazione in termini di competenza e di cassa:
                         a)
-                            ai competenti capitoli dello stato di previsione della spesa dell'Azienda nazionale autonoma delle strade per l'anno 1987, delle somme versate da terzi allo stato di previsione dell'entrata dell'Azienda medesima per lo stesso anno 1987 a titolo di risarcimento dei danni arrecati al patrimonio stradale, nonche' delle somme anticipate sul prezzo contrattuale alle imprese appaltatrici o fornitrici di beni e servizi recuperate ai sensi del [settimo comma dell'articolo 12 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_12-com7), modificato dall'[articolo 2 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627](../DPR/Semplificazione%20e%20snellimento%20delle%20procedure%20in%20materia%20di%20amministrazione%20e%20contabilita%20generale%20dello%20Stato.md), e versate allo stesso stato di previsione dell'entrata per l'anno finanziario 1987;
+                            ai competenti capitoli dello stato di previsione della spesa dell'Azienda nazionale autonoma delle strade per l'anno 1987, delle somme versate da terzi allo stato di previsione dell'entrata dell'Azienda medesima per lo stesso anno 1987 a titolo di risarcimento dei danni arrecati al patrimonio stradale, nonche' delle somme anticipate sul prezzo contrattuale alle imprese appaltatrici o fornitrici di beni e servizi recuperate ai sensi del [settimo comma dell'articolo 12 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), modificato dall'[articolo 2 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627](../DPR/Semplificazione%20e%20snellimento%20delle%20procedure%20in%20materia%20di%20amministrazione%20e%20contabilita%20generale%20dello%20Stato.md), e versate allo stesso stato di previsione dell'entrata per l'anno finanziario 1987;
                         b)
                             al capitolo n. 224 dello stato di previsione della spesa dell'Azienda nazionale autonoma delle strade per l'anno 1987, delle somme versate sul capitolo n. 153 dello stato di previsione dell'entrata dell'Azienda medesima per rimborsi e concorsi diversi di pertinenza della contabilita' speciale intestata al direttore generale dell'ANAS ai sensi dell'[articolo 9 del decreto-legge 10 febbraio 1977, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-02-10;19#art_9), convertito, con modificazioni, dalla [legge 6 aprile 1977, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20febbraio%201977%20n.%2019%20concernente%20decadenza%20della%20Societa%20autostrade%20romane%20e%20abruzzesi%20SARA%20dalla%20concessione%20di%20costruzione%20ed%20_0ebc7752901f.md);
                         c)
@@ -430,7 +430,7 @@ La forza organica dei sergenti, dei graduati e militari di truppa dell'Esercito 
 
 9.
 
-Alle spese di cui ai capitoli nn. 4001, 4004, 4005, 4011, 4031, 4051 e 5031 dello stato di previsione del Ministero della difesa si applicano, per l'esercizio finanziario 1987, le disposizioni contenute nel secondo comma dell'articolo 36 e nel citato [articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61bis), e successive modificazioni e integrazioni, sulla contabilita' generale dello Stato.
+Alle spese di cui ai capitoli nn. 4001, 4004, 4005, 4011, 4031, 4051 e 5031 dello stato di previsione del Ministero della difesa si applicano, per l'esercizio finanziario 1987, le disposizioni contenute nel secondo comma dell'articolo 36 e nel citato [articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni e integrazioni, sulla contabilita' generale dello Stato.
 
 10.
 
@@ -470,7 +470,7 @@ Alle gestioni fuori bilancio derivanti dai movimenti finanziari ed economici del
 
 19.
 
-I capitoli a favore dei quali possono effettuarsi i prelevamenti dal fondo a disposizione di cui agli articoli 20 e 44 del testo unico approvato con [regio decreto 2 febbraio 1928, n. 263, ed all'articolo 7](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md) della [legge 22 dicembre 1932, n. 1958](Norme%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20032U1958.md), sono, per l'anno finanziario 1987, quelli descritti negli elenchi nn. 1 e 2, annessi allo stato di previsione del Ministero della difesa.
+I capitoli a favore dei quali possono effettuarsi i prelevamenti dal fondo a disposizione di cui agli articoli 20 e 44 del testo unico approvato con [regio decreto 2 febbraio 1928, n. 263, ed all'articolo 7](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md) della [legge 22 dicembre 1932, n. 1958](Norme%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20032U1958.md), sono, per l'anno finanziario 1987, quelli descritti negli elenchi nn. 1 e 2, annessi allo stato di previsione del Ministero della difesa.
 
 20.
 
@@ -484,7 +484,7 @@ Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'agricol
 
 2.
 
-E' approvato, in termini di competenza e di cassa, il bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, per l'anno finanziario 1987, annesso allo stato di previsione del Ministero dell'agricoltura e delle foreste, ai termini dell'[articolo 10 della legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md) (Appendice n. 1). Ai fini della gestione predetta restano confermate le norme dello statuto-regolamento approvato con [regio decreto 5 ottobre 1933, n. 1577](Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md).
+E' approvato, in termini di competenza e di cassa, il bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, per l'anno finanziario 1987, annesso allo stato di previsione del Ministero dell'agricoltura e delle foreste, ai termini dell'[articolo 10 della legge 5 gennaio 1933, n. 30](Ordinamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U0030.md) (Appendice n. 1). Ai fini della gestione predetta restano confermate le norme dello statuto-regolamento approvato con [regio decreto 5 ottobre 1933, n. 1577](../Regi%20decreti/Approvazione%20dello%20statuto-regolamento%20dellAzienda%20di%20Stato%20per%20le%20foreste%20demaniali.%20033U1577.md).
 
 3.
 
@@ -606,7 +606,7 @@ La composizione delle razioni viveri in natura per gli allievi del Corpo della g
 
 8.
 
-Per gli ordini di accreditamento di cui all'articolo 3, primo comma, del decreto del Presidente del Consiglio dei ministri 24 marzo 1979, concernente la costituzione dell'ufficio stralcio previsto dall'[articolo 119 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), non si applica il limite di somma di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
+Per gli ordini di accreditamento di cui all'articolo 3, primo comma, del decreto del Presidente del Consiglio dei ministri 24 marzo 1979, concernente la costituzione dell'ufficio stralcio previsto dall'[articolo 119 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), non si applica il limite di somma di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
 
 9.
 
@@ -614,11 +614,11 @@ Il Ministro del tesoro e' autorizzato a trasferire, con propri decreti, in termi
 
 10.
 
-Il Ministro del tesoro, con propri decreti, provvedera', con variazioni compensative nel conto dei residui, a trasferire dai capitoli individuati con i decreti emanati in attuazione dell'articolo 107, primo comma, del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), ad apposito capitolo, da istituire nello stato di previsione del Ministero del tesoro ed in quelli della spesa delle amministrazioni ed aziende autonome, l'importo differenziale fra le somme indicate per ciascuno dei predetti capitoli e quelle effettivamente destinate agli interventi nei territori indicati nell'articolo 1 del predetto testo unico, da devolvere come ulteriore apporto destinato all'intervento straordinario nel Mezzogiorno.
+Il Ministro del tesoro, con propri decreti, provvedera', con variazioni compensative nel conto dei residui, a trasferire dai capitoli individuati con i decreti emanati in attuazione dell'articolo 107, primo comma, del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), ad apposito capitolo, da istituire nello stato di previsione del Ministero del tesoro ed in quelli della spesa delle amministrazioni ed aziende autonome, l'importo differenziale fra le somme indicate per ciascuno dei predetti capitoli e quelle effettivamente destinate agli interventi nei territori indicati nell'articolo 1 del predetto testo unico, da devolvere come ulteriore apporto destinato all'intervento straordinario nel Mezzogiorno.
 
 11.
 
-Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, al trasferimento dagli stati di previsione delle varie amministrazioni statali a quello del Ministero del tesoro delle somme iscritte in capitoli concernenti spese inerenti ai servizi e forniture considerati dal [regio decreto 18 gennaio 1923, n. 94](Che%20istituisce%20presso%20il%20Ministero%20delle%20finanze%20un%20Provveditorato%20generale%20dello%20Stato.%20023U0094.md), e relative norme di applicazione.
+Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, al trasferimento dagli stati di previsione delle varie amministrazioni statali a quello del Ministero del tesoro delle somme iscritte in capitoli concernenti spese inerenti ai servizi e forniture considerati dal [regio decreto 18 gennaio 1923, n. 94](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20delle%20finanze%20un%20Provveditorato%20generale%20dello%20Stato.%20023U0094.md), e relative norme di applicazione.
 
 12.
 

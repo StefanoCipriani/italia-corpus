@@ -34,7 +34,7 @@ Il decreto col quale il Prefetto adotta taluno dei provvedimenti indicati nel pr
  
  Il ricorso deve essere proposto, sotto pena di decadenza, entro 15 giorni da quello della pubblicazione del decreto nel Foglio degli annunzi legali della Provincia. Il ricorso non sospende l'esecuzione del decreto, salvo che il Prefetto non ritenga di accordarla in pendenza del ricorso. 
  
- Contro il decreto del Ministro per l'interno e' ammesso ricorso in via contenziosa, al Consiglio di Stato a termine dell'art. 22 del testo unico approvato col [R. decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
+ Contro il decreto del Ministro per l'interno e' ammesso ricorso in via contenziosa, al Consiglio di Stato a termine dell'art. 22 del testo unico approvato col [R. decreto 17 agosto 1907, n. 638](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
 
 ## Art. 4.
 
@@ -50,7 +50,7 @@ Salve le azioni che possano essere proposte dinanzi alla giurisdizione ordinaria
  
  Il ricorso deve essere proposto, sotto pena di decadenza, entro quindici giorni da quello in cui il decreto sia stato pubblicato nel Foglio degli annunzi legali della Provincia ed ha per effetto la sospensione del provvedimento per la parte che dispone la liquidazione del patrimonio sociale. 
  
- Contro il decreto del Ministro per l'interno e' ammesso ricorso in via contenziosa al Consiglio di Stato a termini dell'art. 22 del testo unico approvato col [R. decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
+ Contro il decreto del Ministro per l'interno e' ammesso ricorso in via contenziosa al Consiglio di Stato a termini dell'art. 22 del testo unico approvato col [R. decreto 17 agosto 1907, n. 638](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).
 
 ## Art. 6.
 

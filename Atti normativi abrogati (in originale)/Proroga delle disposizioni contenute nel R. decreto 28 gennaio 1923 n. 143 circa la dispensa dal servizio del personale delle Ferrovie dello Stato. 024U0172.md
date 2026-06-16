@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md);
+Visto il [R. decreto 28 gennaio 1923, n. 143](../Regi%20decreti/Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md);
 
-Visto il [R. decreto 1° febbraio 1923, n. 200](Recante%20disposizioni%20complementari%20sulle%20attribuzioni%20del%20commissario%20straordinario%20per%20le%20ferrovie%20dello%20Stato.%20023U0200.md);
+Visto il [R. decreto 1° febbraio 1923, n. 200](../Regi%20decreti/Recante%20disposizioni%20complementari%20sulle%20attribuzioni%20del%20commissario%20straordinario%20per%20le%20ferrovie%20dello%20Stato.%20023U0200.md);
 
-Visto il [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
+Visto il [R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3135](Trattamento%20di%20esonero%20ad%20agenti%20delle%20Ferrovie%20dello%20Stato.%20023U3135.md);
+Visto il [R. decreto 31 dicembre 1923, n. 3135](../Regi%20decreti/Trattamento%20di%20esonero%20ad%20agenti%20delle%20Ferrovie%20dello%20Stato.%20023U3135.md);
 
 Udito il Commissario straordinario per le ferrovie dello Stato;
 
@@ -30,11 +30,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di 
 
 ## Art. 1.
 
-L'articolo unico del [R. decreto 31 dicembre 1923, n. 3135](Trattamento%20di%20esonero%20ad%20agenti%20delle%20Ferrovie%20dello%20Stato.%20023U3135.md), col quale si stabiliscono norme per il trattamento spettante, in relazione al riordinamento delle pensioni di cui al [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), agli agenti delle Ferrovie dello Stato da dispensarsi dal servizio a norma del [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md), deve intendersi nel senso che tali dispense dal servizio possono avvenire anche posteriormente al 31 dicembre 1923, ma non oltre il 30 aprile 1924, quando ricorrano le stesse condizioni di cui al detto [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md).
+L'articolo unico del [R. decreto 31 dicembre 1923, n. 3135](../Regi%20decreti/Trattamento%20di%20esonero%20ad%20agenti%20delle%20Ferrovie%20dello%20Stato.%20023U3135.md), col quale si stabiliscono norme per il trattamento spettante, in relazione al riordinamento delle pensioni di cui al [R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), agli agenti delle Ferrovie dello Stato da dispensarsi dal servizio a norma del [R. decreto 28 gennaio 1923, n. 143](../Regi%20decreti/Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md), deve intendersi nel senso che tali dispense dal servizio possono avvenire anche posteriormente al 31 dicembre 1923, ma non oltre il 30 aprile 1924, quando ricorrano le stesse condizioni di cui al detto [R. decreto 28 gennaio 1923, n. 143](../Regi%20decreti/Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md).
 
 ## Art. 2.
 
-Qualsiasi provvedimento di dispensa in base al [R. decreto 28 gennaio 1923, n. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md), dovra' pero' essere deliberato dal Commissario straordinario, ed approvato dal Ministro per i lavori pubblici non oltre il 30 aprile 1924. 
+Qualsiasi provvedimento di dispensa in base al [R. decreto 28 gennaio 1923, n. 143](../Regi%20decreti/Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md), dovra' pero' essere deliberato dal Commissario straordinario, ed approvato dal Ministro per i lavori pubblici non oltre il 30 aprile 1924. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

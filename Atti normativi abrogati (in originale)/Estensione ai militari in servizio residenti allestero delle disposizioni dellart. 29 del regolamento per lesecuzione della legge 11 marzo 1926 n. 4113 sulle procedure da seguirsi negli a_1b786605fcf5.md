@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge 11 marzo 1926, n, 416, che reca disposizioni sulle procedure da seguirsi negli accertamenti medico-legali delle ferite, lesioni ed infermita' dei personali dipendenti dalle Amministrazioni militari e da altre Amministrazioni dello Stato;
 
-Visto il [R. decreto 15 aprile 1928, n. 1024](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;1024), che approva il regolamento per l'esecuzione della citata legge;
+Visto il [R. decreto 15 aprile 1928, n. 1024](../Regi%20decreti/Sostituzione%20di%20un%20nuovo%20regolamento%20a%20quello%20approvato%20con%20R.%20decreto%2022%20giugno%201926%20n.%201067%20per%20la%20esecuzione%20della%20legge%2011%20marzo%201926%20n.%20416%20sulle%20procedure%20da%20seguirsi%20negli%20accertam_431e98b73093.md), che approva il regolamento per l'esecuzione della citata legge;
 
 Considerata la necessita' di determinare le procedure da seguirsi per gli accertamenti medico-legali anche nei riguardi dei militari in servizio residenti all'estero;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Articolo unico.
 
-All'art. 29 del regolamento per la esecuzione della [legge 11 marzo 1926, n. 416](Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), sulle procedure da seguirsi negli accertamenti medico-legali delle ferite, lesioni ed infermita' dei personali dipendenti dalle Amministrazioni militari e da altre Amministrazioni dello Stato, approvato con [R. decreto 15 aprile 1928, n. 1024](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;1024), e' aggiunto il seguente comma: 
+All'art. 29 del regolamento per la esecuzione della [legge 11 marzo 1926, n. 416](Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), sulle procedure da seguirsi negli accertamenti medico-legali delle ferite, lesioni ed infermita' dei personali dipendenti dalle Amministrazioni militari e da altre Amministrazioni dello Stato, approvato con [R. decreto 15 aprile 1928, n. 1024](../Regi%20decreti/Sostituzione%20di%20un%20nuovo%20regolamento%20a%20quello%20approvato%20con%20R.%20decreto%2022%20giugno%201926%20n.%201067%20per%20la%20esecuzione%20della%20legge%2011%20marzo%201926%20n.%20416%20sulle%20procedure%20da%20seguirsi%20negli%20accertam_431e98b73093.md), e' aggiunto il seguente comma: 
  
  «La stessa procedura sara' seguita per i militari in servizio, residenti all'estero, ferme restando le disposizioni di cui all'articolo 3 del presente regolamento». 
  

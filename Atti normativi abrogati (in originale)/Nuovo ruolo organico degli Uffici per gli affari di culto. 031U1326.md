@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive variazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili;
 
 Visto l'[art. 21 della legge 27 maggio 1929, n.848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848#art_21); sugli Enti ecclesiastici e sulle Amministrazioni civili dei patrimoni destinati a fini di culto;
 

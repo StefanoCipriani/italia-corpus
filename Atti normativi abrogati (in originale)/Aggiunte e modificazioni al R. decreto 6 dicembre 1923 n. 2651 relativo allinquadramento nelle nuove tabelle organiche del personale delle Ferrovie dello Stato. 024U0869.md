@@ -18,9 +18,9 @@ Visto il [R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero
 
 Visto il [R. decreto-legge 22 maggio 1924, n. 868](Istituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20carica%20di%20direttore%20generale%20per%20le%20Ferrovie%20dello%20Stato.%20024U0868.md);
 
-Visto il [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
+Visto il [R. decreto 6 dicembre 1923, n. 2651](../Regi%20decreti/Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
 
-Visto il [R. decreto 27 gennaio 1924, n. 228](Sistemazione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20ferroviario%20proveniente%20dalle%20cessate%20Amministrazioni%20austriache.%20024U0228.md);
+Visto il [R. decreto 27 gennaio 1924, n. 228](../Regi%20decreti/Sistemazione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20ferroviario%20proveniente%20dalle%20cessate%20Amministrazioni%20austriache.%20024U0228.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -56,9 +56,9 @@ L'art. 3 del E. decreto 6 dicembre 1923, n. 2651, viene sostituito dal seguente:
 
 ## Art. 2.
 
-La Commissione di cui al [2° comma dell'art. 13 del Regio decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md), s'intende chiamata a risolvere soltanto le controversie relative all'inquadramento del personale nei nuovi quadri di classificazione. Essa sara' composta e presieduta come la Commissione centrale di avanzamento, con l'intervento anche di un funzionario dell'Avvocatura erariale generale da designarsi dall'avvocato generale e sara' assistita da un funzionario di grado non inferiore al 6° in qualita' di segretario. 
+La Commissione di cui al [2° comma dell'art. 13 del Regio decreto 6 dicembre 1923, n. 2651](../Regi%20decreti/Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md), s'intende chiamata a risolvere soltanto le controversie relative all'inquadramento del personale nei nuovi quadri di classificazione. Essa sara' composta e presieduta come la Commissione centrale di avanzamento, con l'intervento anche di un funzionario dell'Avvocatura erariale generale da designarsi dall'avvocato generale e sara' assistita da un funzionario di grado non inferiore al 6° in qualita' di segretario. 
  
- Alla Commissione stessa saranno sottoposte, per le sue risoluzioni inappellabili, anche le controversie derivanti dall'applicazione del [R. decreto 27 gennaio 1924, n. 228](Sistemazione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20ferroviario%20proveniente%20dalle%20cessate%20Amministrazioni%20austriache.%20024U0228.md), riguardante la sistemazione dello stato giuridico ed economico del personale proveniente dalle cessate Amministrazioni austriache. 
+ Alla Commissione stessa saranno sottoposte, per le sue risoluzioni inappellabili, anche le controversie derivanti dall'applicazione del [R. decreto 27 gennaio 1924, n. 228](../Regi%20decreti/Sistemazione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20ferroviario%20proveniente%20dalle%20cessate%20Amministrazioni%20austriache.%20024U0228.md), riguardante la sistemazione dello stato giuridico ed economico del personale proveniente dalle cessate Amministrazioni austriache. 
  
  Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, e sara' presentato al Parlamento per la sua conversione in legge. 
  

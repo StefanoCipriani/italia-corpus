@@ -69,7 +69,7 @@ Le disposizioni del presente decreto sono applicabili nelle regioni a statuto sp
 1.
 
 Alla spesa di cui al capitolo 4403 dello stato di previsione del Ministero della sanita' si applicano le disposizioni contenute nel [secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 
-2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com2), e successive modificazioni e integrazioni.
+2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni e integrazioni.
 
 2.
 

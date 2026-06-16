@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- E' convertita in legge, ed estesa a tutte le provincie del Regno, la disposizione del [Regio decreto 17 ottobre 1869, n. 5342](Col%20quale%20viene%20esteso%20per%20gli%20effetti%20civili%20a%20tutto%20il%20Regno%20il%20Calendario%20dei%20giorni%20festivi%20gia%20in%20uso%20nelle%20antiche%20Provincie%20dal%206%20settembre%201853%20in%20appresso.%20069U5342.md), relativa ai giorni festivi per gli effetti civili. 
+ E' convertita in legge, ed estesa a tutte le provincie del Regno, la disposizione del [Regio decreto 17 ottobre 1869, n. 5342](../Regi%20decreti/Col%20quale%20viene%20esteso%20per%20gli%20effetti%20civili%20a%20tutto%20il%20Regno%20il%20Calendario%20dei%20giorni%20festivi%20gia%20in%20uso%20nelle%20antiche%20Provincie%20dal%206%20settembre%201853%20in%20appresso.%20069U5342.md), relativa ai giorni festivi per gli effetti civili. 
  
  Ai giorni festivi, di che nel decreto Reale suddetto, e' aggiunto il primo giorno dell'anno. 
  

@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi metriche approvato con [R. Decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3°);
+Visto il testo unico delle leggi metriche approvato con [R. Decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3°);
 
-Visto il regolamento sul servizio metrico, approvato con [R. Decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto il regolamento sul servizio metrico, approvato con [R. Decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
-Visto il [R. Decreto 9 ottobre 1921, n. 1473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-09;1473), col quale furono, tra l'altro, modificati gli articoli 115 e 131 del suddetto regolamento;
+Visto il [R. Decreto 9 ottobre 1921, n. 1473](../Regi%20decreti/Che%20apporta%20variazioni%20ad%20alcune%20disposizioni%20di%20carattere%20economico%20e%20finanziario%20del%20regolamento%20pel%20servizio%20metrico%20approvato%20con%20Regio%20decreto%2031%20gennaio%201909%20n.%20242.%20021U1473.md), col quale furono, tra l'altro, modificati gli articoli 115 e 131 del suddetto regolamento;
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), col quale furono modificati i diritti metrici;
+Visto il [R. decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md), col quale furono modificati i diritti metrici;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), riguardante l' Assemblea per la nuova costituzione dello Stato, il giuramento dei membri dei Governo e la facolta' del Governo di emanare norme giuridiche;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro segretario di Stato per l' industria ed il commercio
 
 ## Art. 1.
 
-Gli articoli 115 e 131 del regolamento sul servizio metrico approvato con [R. decreto 31 gennaio 1909, numero 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), sono sostituiti dai seguenti:
+Gli articoli 115 e 131 del regolamento sul servizio metrico approvato con [R. decreto 31 gennaio 1909, numero 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), sono sostituiti dai seguenti:
  "Art. 115. - Nel laboratorio dei saggi dell'Ufficio centrale si eseguiscono i saggi e le analisi di cui al capoverso c) dell'art. 10 e per tali operazioni sono riscossi i diritti seguenti:
  per ogni analisi di leghe di metalli comuni: lire 100 per ciascuno dei componenti da determinare, con un minimo di L. 200;
  per ogni determinazione qualitativa d'argentatura e doratura L. 20.

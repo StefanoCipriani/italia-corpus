@@ -31,7 +31,7 @@ E' autorizzata la fabbricazione e l'emissione di monete di bronzo di uno, due, c
 -------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 17 ottobre 1867, n. 3970](Col%20quale%20la%20coniazione%20delle%20monete%20di%20bronzo%20di%20cui%20nel%20Decreto%2017%20ottobre%201867%20n.%203969%20viene%20limitata%20a%20dieci%20milioni%20di%20lire%20nominali.%20067U3970.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 17 ottobre 1867, n. 3970](../Regi%20decreti/Col%20quale%20la%20coniazione%20delle%20monete%20di%20bronzo%20di%20cui%20nel%20Decreto%2017%20ottobre%201867%20n.%203969%20viene%20limitata%20a%20dieci%20milioni%20di%20lire%20nominali.%20067U3970.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

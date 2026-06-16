@@ -22,7 +22,7 @@ Vista la legge di registro 30 dicembre 1923, n. 3269, e successive modificazioni
 
 Vista la legge tributaria sulle successioni 30 dicembre 1923, n. 3270, e successive modificazioni;
 
-Visto il [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visto il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Visti i [Regi decreti-legge 24 ottobre 1935, n. 1887](Interpretazioni%20e%20modifiche%20alle%20leggi%20sulle%20imposte%20dirette.%20035U1887.md), e [13 gennaio 1936, n. 120](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette.%20036U0120.md), convertiti nella [legge 8 giugno 1936, n. 1231](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md);
 
@@ -227,11 +227,11 @@ Le Commissioni distrettuali hanno tutte le facolta' di indagine, di accesso, di 
  L'esercizio di tale facolta' puo' essere esperito anche dal Presidente, dal relatore del ricorso o da altro commissario incaricato, avvalendosi, ove occorra, anche dell'opera degli uffici distrettuali delle imposte dirette e del registro nonche' della P. T.
 I. 
  
- I rifiuti e le inadempienze alle richieste fatte per l'esercizio della facolta' di cui al comma primo, sono puniti con l'ammenda da L. 100 a L. 2000 ai sensi dell'[art. 20 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_20).
+ I rifiuti e le inadempienze alle richieste fatte per l'esercizio della facolta' di cui al comma primo, sono puniti con l'ammenda da L. 100 a L. 2000 ai sensi dell'[art. 20 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md).
 
 ### Art. 26.
 
-La disposizione dell'art. 23 del Testo unico approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), si applica anche nel caso in cui il contribuente, qualora le Commissioni si valgano delle facolta' loro conferite, abbia affermato di non possedere i registri e le contabilita' e gli altri atti sociali, ovvero siasi rifiutato di esibirli, o ne abbia comunque impedito la verifica, fermo peraltro il disposto dei commi 2 e 3 del predetto articolo 23.
+La disposizione dell'art. 23 del Testo unico approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), si applica anche nel caso in cui il contribuente, qualora le Commissioni si valgano delle facolta' loro conferite, abbia affermato di non possedere i registri e le contabilita' e gli altri atti sociali, ovvero siasi rifiutato di esibirli, o ne abbia comunque impedito la verifica, fermo peraltro il disposto dei commi 2 e 3 del predetto articolo 23.
 
 ### Art. 27.
 

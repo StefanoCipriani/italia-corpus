@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I diritti di verificazione periodica dei pesi e delle misure e degli strumenti per pesare e per misurare fissati dall'art. 20 del testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª), sono sostituiti dai seguenti: 
+I diritti di verificazione periodica dei pesi e delle misure e degli strumenti per pesare e per misurare fissati dall'art. 20 del testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª), sono sostituiti dai seguenti: 
  
  Categoria lª - Uffici pubblici, non governativi, ed utenti di pesi fissi, L. 10. 
  

@@ -26,7 +26,7 @@ Gli uffici giudiziari dell'ex Stato Libero di Fiume annesso al Regno, a norma de
 
 Il personale degli uffici giudiziari dell'ex Stato Libero di Fiume e' mantenuto in servizio. 
  
- Agli uffici giudiziari possono inoltre essere addetti magistrati appartenenti al ruolo organico della magistratura del Regno in numero non superiore a cinque. A tali magistrati puo' essere applicata la disposizione dell'[art. 158 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), entro il limite pero' di cui al terzo comma di detto articolo.
+ Agli uffici giudiziari possono inoltre essere addetti magistrati appartenenti al ruolo organico della magistratura del Regno in numero non superiore a cinque. A tali magistrati puo' essere applicata la disposizione dell'[art. 158 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), entro il limite pero' di cui al terzo comma di detto articolo.
 
 ## Art. 3.
 
@@ -44,7 +44,7 @@ Entro sei mesi dalla entrata in vigore del presente decreto sara' provveduto, di
 
 Restano ferme le disposizioni della [legge 27 marzo 1919, n. 2186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-03-27;2186), del Consiglio Nazionale di Fiume, pubblicate nel Bollettino Ufficiale del 12 maggio 1919, relative alla abrogazione della legislazione penale ungarica ed alla introduzione nel territorio giurisdizionale della citta' di Fiume di quella vigente nel Regno d'Italia. 
  
- L'articolo 5 di detta legge e' pero' abrogato e per la materia in esso contemplata si osservano le disposizioni dell'[art. 2 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano. 
+ L'articolo 5 di detta legge e' pero' abrogato e per la materia in esso contemplata si osservano le disposizioni dell'[art. 2 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) italiano. 
  
  I procedimenti penali rimasti sospesi in applicazione del primo comma del precitato articolo della [legge 27 marzo 1919, n. 2168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-03-27;2168), ed in correlazione alle corrispondenti norme del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) ungherese riprendono il loro corso e sono definitivi secondo le norme del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) italiano. 
  
@@ -64,7 +64,7 @@ Alla estensione delle altre leggi del Regno, che si rendesse necessaria prima de
 
 La Suprema Corte penale istituita nell'ex Stato Libero di Fiume con la [legge 16 marzo 1920, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-03-16;1015), cessa di funzionare dall'entrata in vigore del presente decreto. 
  
- Da questa data i ricorsi in materia penale contro la sentenza ed i provvedimenti delle autorita' giudiziarie di Fiume sono devoluti alla Cassazione del Regno secondo le norme del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) italiano e del [R. decreto 2 dicembre 1923, n. 2618](Modificazioni%20allordinamento%20della%20Corte%20di%20cassazione%20del%20Regno%20ed%20aumento%20del%20deposito%20per%20il%20ricorso%20in%20Cassazione.%20023U2618.md). 
+ Da questa data i ricorsi in materia penale contro la sentenza ed i provvedimenti delle autorita' giudiziarie di Fiume sono devoluti alla Cassazione del Regno secondo le norme del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) italiano e del [R. decreto 2 dicembre 1923, n. 2618](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Corte%20di%20cassazione%20del%20Regno%20ed%20aumento%20del%20deposito%20per%20il%20ricorso%20in%20Cassazione.%20023U2618.md). 
  
  I ricorsi contro le sentenze ed i provvedimenti emanati nei processi di cui al secondo capoverso dell'art. 4, ed in quelli nei quali sia stata applicata la legislazione penale ungherese, nonche' i ricorsi che denunziano la violazione di detta legislazione saranno devoluti alla Sezione speciale promiscua per le nuove Provincie, anche se sia contemporaneamente denunziata la violazione della legge penale italiana. 
  
@@ -74,7 +74,7 @@ La Suprema Corte penale istituita nell'ex Stato Libero di Fiume con la [legge 16
  
  Per la nomina del difensore si osservano le disposizioni degli [articoli 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_517) e [518 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_518) italiano, ma, fino a quando non vengano stabilite norme speciali per l'esercizio della professione forense saranno ammessi alla difesa in Cassazione per i ricorsi relativi alle sentenze o ai provvedimenti delle autorita' giudiziarie di Fiume, gli avvocati dell'ex Stato Libero di Fiume, purche' effettivamente esercenti da almeno tre anni. 
  
- Per la produzione delle impugnazioni che venissero proposte posteriormente all'entrata in vigore del presente decreto e per la presentazione dei motivi si osservano le disposizioni del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) italiano e quelle del [R. decreto 7 giugno 1923, n. 1244](Che%20stabilisce%20norme%20speciali%20per%20la%20consegna%20in%20cancelleria%20dei%20ricorsi%20e%20controricorsi%20per%20cassazione%20in%20materia%20civile%20e%20per%20la%20presentazione%20dei%20motivi%20aggiunti%20nei%20ricorsi%20penali.%20023U1244.md).
+ Per la produzione delle impugnazioni che venissero proposte posteriormente all'entrata in vigore del presente decreto e per la presentazione dei motivi si osservano le disposizioni del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) italiano e quelle del [R. decreto 7 giugno 1923, n. 1244](../Regi%20decreti/Che%20stabilisce%20norme%20speciali%20per%20la%20consegna%20in%20cancelleria%20dei%20ricorsi%20e%20controricorsi%20per%20cassazione%20in%20materia%20civile%20e%20per%20la%20presentazione%20dei%20motivi%20aggiunti%20nei%20ricorsi%20penali.%20023U1244.md).
 
 ## Art. 8.
 

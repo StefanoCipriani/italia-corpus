@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 7 agosto 1887, n. 5053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-08-07;5053), con cui il porto di Viareggio fu classificato nella 2ª classe della 2ª categoria (2ª serie) approvando contemporaneamente l'elenco degli enti che debbono contribuire nelle spese del porto medesimo. 
+ Veduto il [R. decreto 7 agosto 1887, n. 5053](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%201ª%20e%202ª%20categoria%20e%20nelle%20corrispondenti%20classi%20dei%20cinquanta%20porti%20indicati%20negli%20annessi%20elenchi.%20087U5053.md), con cui il porto di Viareggio fu classificato nella 2ª classe della 2ª categoria (2ª serie) approvando contemporaneamente l'elenco degli enti che debbono contribuire nelle spese del porto medesimo. 
  
  Ritenuto che in seguito alle eccezioni mosse contro il decreto anzidetto si dovette addivenire alla compilazione di un nuovo elenco in data 15 novembre 1902; 
  

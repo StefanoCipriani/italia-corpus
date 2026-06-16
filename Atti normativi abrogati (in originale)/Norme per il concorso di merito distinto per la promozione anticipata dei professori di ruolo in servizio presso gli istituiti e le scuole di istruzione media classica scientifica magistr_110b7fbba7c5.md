@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Visto il [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Visto il [regio decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md);
+Visto il [regio decreto 27 novembre 1924, n. 2367](../Regi%20decreti/Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 21 aprile 1947, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-21;629);
 

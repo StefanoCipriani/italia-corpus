@@ -18,7 +18,7 @@ Visto l'atto di donazione in data 9 febbraio 1925, notaio Consolandi dott. Enric
 
 Riconosciuta l'opportunita' di conferire la personalita' giuridica all'Ente in parola;
 
-Vista la legge 5 giugno 1850, n. 1037, ed il [R. decreto 26 giugno 1864, n. 1817](Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md), contenente le disposizioni esecutive della predetta legge;
+Vista la legge 5 giugno 1850, n. 1037, ed il [R. decreto 26 giugno 1864, n. 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md), contenente le disposizioni esecutive della predetta legge;
 
 Visto l'[art. 2 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2);
 

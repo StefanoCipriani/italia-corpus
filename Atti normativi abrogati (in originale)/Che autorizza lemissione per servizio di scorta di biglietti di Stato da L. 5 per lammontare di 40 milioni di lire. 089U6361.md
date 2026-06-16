@@ -14,9 +14,9 @@ IL MINISTRO DEL TESORO
  
  Veduta la [legge 7 aprile 1881, N. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md), Serie 3ª, sui provvedimenti per l'abolizione del corso forzoso; 
  
- Veduto il regolamento per l'esecuzione della legge predetta, approvato con [R. decreto 16 giugno 1881, N. 253](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20provvedimenti%20per%20labolizione%20del%20corso%20forzoso.%20081U0253.md), Serie 3ª; 
+ Veduto il regolamento per l'esecuzione della legge predetta, approvato con [R. decreto 16 giugno 1881, N. 253](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20provvedimenti%20per%20labolizione%20del%20corso%20forzoso.%20081U0253.md), Serie 3ª; 
  
- Veduto il [R. decreto 17 dicembre 1882, N. 1134](Concernente%20i%20distintivi%20dei%20biglietti%20da%20lire%20cinque.%20082U1134.md), Serie 3ª, che pubblico' i segni ed i distintivi caratteristici dei biglietti di Stato da lire 5, modificato dall'altro R. decreto l° agosto 1889, N. 6360, Serie 3ª; 
+ Veduto il [R. decreto 17 dicembre 1882, N. 1134](../Regi%20decreti/Concernente%20i%20distintivi%20dei%20biglietti%20da%20lire%20cinque.%20082U1134.md), Serie 3ª, che pubblico' i segni ed i distintivi caratteristici dei biglietti di Stato da lire 5, modificato dall'altro R. decreto l° agosto 1889, N. 6360, Serie 3ª; 
  
  Veduti i [decreti ministeriali 1° marzo 1883, N. 1388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1883-03-01;1388), [1° ottobre 1884, N. 2709](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1884-10-01;2709), [2 maggio 1886, N. 3857](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1886-05-02;3857) e [5 febbraio 1888, N. 5265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1888-02-05;5265); 
  
@@ -28,7 +28,7 @@ IL MINISTRO DEL TESORO
  
  DETERMINA: 
  
- E' autorizzata la emissione, pel servizio di scorta, di biglietti di Stato da lire 5 per l'ammontare di quarantamilioni di lire. Questi biglietti avranno gli stessi segni e distintivi caratteristici stabiliti coi [Regi decreti 17 dicembre 1882, N. 1134](Concernente%20i%20distintivi%20dei%20biglietti%20da%20lire%20cinque.%20082U1134.md), Serie 3ª, e 1° agosto 1889, N. 6360, e saranno in numero di otto milioni, divisi in ottanta serie coi numeri dal 411 al 490, inclusivi, e ciascuna serie sara' composta di 100,000 biglietti, numerati dall'1 al 100,000. 
+ E' autorizzata la emissione, pel servizio di scorta, di biglietti di Stato da lire 5 per l'ammontare di quarantamilioni di lire. Questi biglietti avranno gli stessi segni e distintivi caratteristici stabiliti coi [Regi decreti 17 dicembre 1882, N. 1134](../Regi%20decreti/Concernente%20i%20distintivi%20dei%20biglietti%20da%20lire%20cinque.%20082U1134.md), Serie 3ª, e 1° agosto 1889, N. 6360, e saranno in numero di otto milioni, divisi in ottanta serie coi numeri dal 411 al 490, inclusivi, e ciascuna serie sara' composta di 100,000 biglietti, numerati dall'1 al 100,000. 
  
  Il presente decreto sara' inserto nella Raccolta delle leggi e dei decreti del Regno d'Italia. 
  

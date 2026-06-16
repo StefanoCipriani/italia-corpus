@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
+Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                         a)
                             nell'articolo 9, comma 4, la lettera a) e' sostituita dalla seguente: 
  " a) per le azioni, obbligazioni e altri titoli quotati in mercati regolamentati italiani o esteri, in base alla media aritmetica dei prezzi rilevati nell'ultimo mese;";
@@ -123,12 +123,12 @@ Le disposizioni del presente decreto si applicano a decorrere dal periodo d'impo
 
 2.
 
-Ai fini dell'applicazione dell'articolo 71 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si tiene conto dei fondi di copertura per rischi su crediti costituiti con accantonamenti che sono stati fiscalmente dedotti in precedenti periodi d'imposta.
+Ai fini dell'applicazione dell'articolo 71 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si tiene conto dei fondi di copertura per rischi su crediti costituiti con accantonamenti che sono stati fiscalmente dedotti in precedenti periodi d'imposta.
 
 3.
 
 Nei confronti dei soggetti diversi da quelli indicati nell'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 87](Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), che, nel periodo d'imposta in corso alla data di entrata in vigore del presente decreto, hanno adottato criteri di contabilizzazione delle operazioni "pronti contro termine" difformi da quelli previsti negli articoli 56, comma 3-ter, e 61, comma 1-bis, del testo unico delle 
-imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono fatti salvi gli effetti dell'applicazione di detti criteri. Per le operazioni in essere alla chiusura dell'esercizio non si tiene conto dell'eventuale riduzione del risultato del conto economico conseguente all'applicazione dei citati criteri.
+imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono fatti salvi gli effetti dell'applicazione di detti criteri. Per le operazioni in essere alla chiusura dell'esercizio non si tiene conto dell'eventuale riduzione del risultato del conto economico conseguente all'applicazione dei citati criteri.
 
 ## Art. 3.
 

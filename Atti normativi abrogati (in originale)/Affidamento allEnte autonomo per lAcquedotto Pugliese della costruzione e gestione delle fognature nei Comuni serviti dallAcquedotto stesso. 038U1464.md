@@ -64,7 +64,7 @@ Per la manutenzione degli allacciamenti degli edifici alla rete l'Ente autonomo 
 
 Le opere necessarie per le riparazioni straordinarie e per rinnovamenti delle reti e degli impianti di fognatura sono eseguite a cura dell'Ente autonomo mediante prelevamenti dai fondi di riserva di cui all'art. 6. 
  
- Per la esecuzione degli attacchi privati in caso di inadempienza da parte degli interessati, l'Ente provochera' da parte dei podesta' l'applicazione delle disposizioni dell'art. 55 del testo unico della legge comunale e provinciale, approvato con il [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). Il pagamento del costo degli attacchi potra' dall'Ente essere ripartito in piu' annualita'.
+ Per la esecuzione degli attacchi privati in caso di inadempienza da parte degli interessati, l'Ente provochera' da parte dei podesta' l'applicazione delle disposizioni dell'art. 55 del testo unico della legge comunale e provinciale, approvato con il [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). Il pagamento del costo degli attacchi potra' dall'Ente essere ripartito in piu' annualita'.
 
 ## Art. 9.
 

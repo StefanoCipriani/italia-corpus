@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno; 
  
- Veduto il [R. decreto 24 settembre 1923, n. 2076](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2076), con cui i comuni di Bardi e di Boccolo dei Tassi furono distaccati dalla provincia di Piacenza ed aggregati a quella di Parma; 
+ Veduto il [R. decreto 24 settembre 1923, n. 2076](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Bardi%20e%20di%20Boccolo%20dei%20Tassi%20alla%20provincia%20di%20Parma.%20023U2076.md), con cui i comuni di Bardi e di Boccolo dei Tassi furono distaccati dalla provincia di Piacenza ed aggregati a quella di Parma; 
  
  Veduto il progetto di separazione di patrimonio e di reparto delle attivita' e passivita' fra le Provincie stesse, approvato dalla Regia Commissione per la straordinaria amministrazione della provincia di Parma, con i poteri del Consiglio provinciale, in adunanza 23 febbraio 1925, e dal Consiglio provinciale di Piacenza nella tornata dell'11 marzo 1925; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' approvato il progetto di separazione di patrimonio e di reparto delle attivita' e passivita', concordato fra le Amministrazioni delle provincie di Parma e di Piacenza in esecuzione del [R. decreto 24 settembre 1923, n. 2076](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-24;2076). 
+ E' approvato il progetto di separazione di patrimonio e di reparto delle attivita' e passivita', concordato fra le Amministrazioni delle provincie di Parma e di Piacenza in esecuzione del [R. decreto 24 settembre 1923, n. 2076](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Bardi%20e%20di%20Boccolo%20dei%20Tassi%20alla%20provincia%20di%20Parma.%20023U2076.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

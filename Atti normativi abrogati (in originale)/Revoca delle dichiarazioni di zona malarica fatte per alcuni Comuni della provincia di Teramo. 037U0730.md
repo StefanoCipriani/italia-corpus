@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA: 
  
- Visto l'[art. 313 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_313) 27 luglio 1934, n. 1265; 
+ Visto l'[art. 313 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265; 
  
  Veduti i propri decreti 2 settembre 1904, n. 501, e 10 novembre 1905, n. 563, per la delimitazione delle zone malariche nei comuni di Ancarano, Atri, Basciano, Campli, Canzano, Castellalto, Castiglione Messer Raimondo, Castilenti, Cellino Attanasio, Cermignano, Colledara, Controguerra, Corropoli, Morro d'Oro, Nereto, Notaresco, S. Egidio alla Vibrata, S. Omero, Torano Nuovo, in provincia di Teramo; 
  

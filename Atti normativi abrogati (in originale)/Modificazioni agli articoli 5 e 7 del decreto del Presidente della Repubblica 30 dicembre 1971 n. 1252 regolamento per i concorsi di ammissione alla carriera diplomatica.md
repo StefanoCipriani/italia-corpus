@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni;
 
-Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
+Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 

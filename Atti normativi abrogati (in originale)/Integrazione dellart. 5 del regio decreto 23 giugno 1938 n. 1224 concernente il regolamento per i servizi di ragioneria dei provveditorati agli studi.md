@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 23 giugno 1938, n. 1224](Regolamento%20per%20i%20Servizi%20di%20ragioneria%20dei%20Regi%20provveditorati%20agli%20studi.%20038U1224.md), che approva il regolamento per i servizi di ragioneria dei provveditorati agli studi;
+ Visto il [regio decreto 23 giugno 1938, n. 1224](../Regi%20decreti/Regolamento%20per%20i%20Servizi%20di%20ragioneria%20dei%20Regi%20provveditorati%20agli%20studi.%20038U1224.md), che approva il regolamento per i servizi di ragioneria dei provveditorati agli studi;
  Riconosciuta la necessita' di integrare le disposizioni dell'art. 5 del predetto regolamento per esigenze di carattere meccanografico;
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;
@@ -20,7 +20,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- All'art. 5 del regolamento approvato con [regio decreto 23 giugno 1938, n. 1224](Regolamento%20per%20i%20Servizi%20di%20ragioneria%20dei%20Regi%20provveditorati%20agli%20studi.%20038U1224.md), e' aggiunto il seguente terzo comma:
+ All'art. 5 del regolamento approvato con [regio decreto 23 giugno 1938, n. 1224](../Regi%20decreti/Regolamento%20per%20i%20Servizi%20di%20ragioneria%20dei%20Regi%20provveditorati%20agli%20studi.%20038U1224.md), e' aggiunto il seguente terzo comma:
  "Ove al pagamento degli stipendi ed altri assegni fissi venga provveduto mediante ordinativo prodotto meccanograficamente, la dichiarazione di cui al comma precedente e' sostituita sull'ordinativo medesimo, dalla autorizzazione al pagamento disposta dal provveditore agli studi sulla base della dichiarazione di prestato servizio resa dal competente direttore didattico.
  La predetta dichiarazione di prestato servizio viene allegata al titolo estinto a corredo della documentazione prevista dal successivo art. 19".
 

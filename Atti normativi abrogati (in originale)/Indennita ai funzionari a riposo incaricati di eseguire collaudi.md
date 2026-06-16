@@ -42,7 +42,7 @@ Con decreti del Ministro per i lavori pubblici, di concerto col Ministro per il 
 ## Art. 4.
 
 Le disposizioni dei precedenti articoli si applicano anche agli incarichi gia' conferiti alla data di entrata in vigore del presente decreto, ma che non siano ancora espletati.
- Sono abrogate le disposizioni del [regio decreto 6 febbraio 1927, n. 268](Collocamento%20a%20riposo%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20proveniente%20dai%20soppressi%20ruoli%20aggiunti%20e%20trattamento%20economico%20da%20farsi%20agli%20ex%20impiegati%20del%20Ministero%20dei%20l_2b9e1cd383c1.md), che siano in contrasto col presente decreto.
+ Sono abrogate le disposizioni del [regio decreto 6 febbraio 1927, n. 268](../Regi%20decreti/Collocamento%20a%20riposo%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20proveniente%20dai%20soppressi%20ruoli%20aggiunti%20e%20trattamento%20economico%20da%20farsi%20agli%20ex%20impiegati%20del%20Ministero%20dei%20l_2b9e1cd383c1.md), che siano in contrasto col presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

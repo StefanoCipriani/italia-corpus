@@ -37,7 +37,7 @@ Dopo il [quinto comma dell'articolo 1 della legge 11 febbraio 1971, n. 50](https
 3.
 
 Il [sesto comma dell'articolo 1 della legge 11 febbraio 1971, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50#art_1-com6), e' sostituito dal seguente: 
- "Ai fini dell'applicazione delle norme del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dei relativi regolamenti di esecuzione e delle altre leggi speciali, le imbarcazioni da diporto sono equiparate, ad ogni effetto, alle navi ed ai galleggianti di stazza lorda non superiore alle 10 tonnellate se a propulsione meccanica ed alle 25 in ogni altro caso, anche se l'imbarcazione supera detta stazza, fino al limite di 24 metri.".
+ "Ai fini dell'applicazione delle norme del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dei relativi regolamenti di esecuzione e delle altre leggi speciali, le imbarcazioni da diporto sono equiparate, ad ogni effetto, alle navi ed ai galleggianti di stazza lorda non superiore alle 10 tonnellate se a propulsione meccanica ed alle 25 in ogni altro caso, anche se l'imbarcazione supera detta stazza, fino al limite di 24 metri.".
 
 4.
 

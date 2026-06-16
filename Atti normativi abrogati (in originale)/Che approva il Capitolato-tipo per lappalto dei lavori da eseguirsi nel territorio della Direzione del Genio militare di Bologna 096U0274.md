@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guer
 
 E' approvato il Capitolato-tipo per l'appalto dei lavori del Genio militare da eseguirsi nel territorio della Direzione del Genio militare di Bologna, d'ordine Nostro firmato dal Ministro della Guerra, e depositato in originale presso l'Archivio di Stato, e per copia autentica presso la Corte dei conti e presso la Direzione del Genio militare di Bologna. 
  
- Restano invariate le disposizioni degli art. 2 e 3 del succitato [R. decreto 10 novembre 1875 n. 2793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-11-10;2793) (serie 2ª). 
+ Restano invariate le disposizioni degli art. 2 e 3 del succitato [R. decreto 10 novembre 1875 n. 2793](../Regi%20decreti/Che%20approva%20i%20capitolati-tipi%20pel%20servizio%20del%20genio%20militare.%20075U2793.md) (serie 2ª). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

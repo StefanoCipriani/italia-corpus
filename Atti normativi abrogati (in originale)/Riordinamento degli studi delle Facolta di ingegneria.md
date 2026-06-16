@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni ed integrazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni ed integrazioni;
 
 Considerata l'opportunita' di un aggiornamento del vigente ordinamento didattico degli studi delle Facolta' di ingegneria;
 
@@ -49,7 +49,7 @@ I primi due anni del corso quinquennale di studio hanno funzione preminentemente
  2) Geometria II; 
  3) Meccanica razionale; 
  4) Fisica II. 
- L'insegnamento di Geometria del secondo anno di corso potra' essere eventualmente sostituito per alcuni corsi di laurea con altra disciplina su deliberazione della competente Facolta' da approvarsi con le modalita' di cui all'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). 
+ L'insegnamento di Geometria del secondo anno di corso potra' essere eventualmente sostituito per alcuni corsi di laurea con altra disciplina su deliberazione della competente Facolta' da approvarsi con le modalita' di cui all'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md). 
  Ciascuna Facolta' con le modalita' di cui al precedente comma, potra' inoltre aggiungere agli insegnamenti del 2° anno non piu' di due insegnamenti. 
  
  L'insegnamento da sostituirsi a quello di Geometria del secondo anno, nonche' quello da aggiungersi a quelli previsti per il predetto secondo anno di corso ai sensi del precedente comma dovranno essere prescelti fra i seguenti: 

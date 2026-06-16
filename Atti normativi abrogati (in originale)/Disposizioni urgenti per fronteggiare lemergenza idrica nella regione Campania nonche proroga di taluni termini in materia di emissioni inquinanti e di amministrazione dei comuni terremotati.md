@@ -72,7 +72,7 @@ Le imprese i cui impianti presentano emissioni poco significative, ai sensi dell
 
 1.
 
-I termini per l'applicazione delle disposizioni di cui all'[articolo 86 del decreto legislativo 30 marzo 1990, n. 76](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20per%20gli%20interventi%20nei%20territori%20della%20Campania%20Basilicata%20Puglia%20e%20Calabria%20colpiti%20dagli%20eventi%20sismici%20del%20novembre%201980%20del%20febbraio%201981%20e%20del%20marzo%201982.md), sono differiti al 31 dicembre 1992.
+I termini per l'applicazione delle disposizioni di cui all'[articolo 86 del decreto legislativo 30 marzo 1990, n. 76](../Testi%20Unici/Testo%20unico%20delle%20leggi%20per%20gli%20interventi%20nei%20territori%20della%20Campania%20Basilicata%20Puglia%20e%20Calabria%20colpiti%20dagli%20eventi%20sismici%20del%20novembre%201980%20del%20febbraio%201981%20e%20del%20marzo%201982.md), sono differiti al 31 dicembre 1992.
 
 ## Art. 4.
 

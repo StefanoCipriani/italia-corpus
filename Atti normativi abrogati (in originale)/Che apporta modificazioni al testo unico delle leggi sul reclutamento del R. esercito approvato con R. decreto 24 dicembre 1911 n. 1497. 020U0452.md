@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
+Visto il testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
 Vista la [legge 27 giugno 1912, n. 660](Concernente%20provvedimenti%20relativi%20a%20militari%20di%20truppa%20in%20posizioni%20speciali.%20012U0660.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del nostro ministro segretario di stato per gli affari della guer
 
 ## Art. 1.
 
-Al testo unico delle leggi sul reclutamento del R. esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), sono apportate le modificazioni che risultano dal presente decreto.
+Al testo unico delle leggi sul reclutamento del R. esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), sono apportate le modificazioni che risultano dal presente decreto.
 
 ## Art. 2.
 
@@ -126,7 +126,7 @@ L'estrazione a sorte, il volontariato di un anno e le surrogazioni di fratello, 
 
 ## Art. 15.
 
-Sono abrogati gli articoli 4, 6, 39, 40, 41, 42, 43, 44, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 102, 103, 104, 105, 106, 119, 124 del testo unico delle leggi sul reclutamento del R. Esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e tutte quelle altre disposizioni che siano contrarie al presente decreto. 
+Sono abrogati gli articoli 4, 6, 39, 40, 41, 42, 43, 44, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 102, 103, 104, 105, 106, 119, 124 del testo unico delle leggi sul reclutamento del R. Esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e tutte quelle altre disposizioni che siano contrarie al presente decreto. 
  
  Il Governo del Re e' autorizzato a compilare un nuovo testo unico delle leggi sul reclutamento del R. esercito, coordinandolo con le disposizioni del presente decreto e con le altre che regolano la materia.
 

@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi conferita; 
  
- Veduto l'[art. 157 del testo unico, delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e il regolamento approvato con R. decreto 28 febbraio 1907, n, 61, che contengono disposizioni per diminuire le cause della malaria; 
+ Veduto l'[art. 157 del testo unico, delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e il regolamento approvato con R. decreto 28 febbraio 1907, n, 61, che contengono disposizioni per diminuire le cause della malaria; 
  
  Visti i RR. decreti 25 giugno 1903, n. 325, e 24 marzo 1904, n. 221, concernenti, tra l'altro, la dichiarazione delle zone malariche nel territorio dei comuni di Sciacca e di San Biagio Platani, in provincia di Girgenti; 
  

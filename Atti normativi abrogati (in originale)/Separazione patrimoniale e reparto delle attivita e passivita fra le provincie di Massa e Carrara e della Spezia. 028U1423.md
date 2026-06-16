@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 2 settembre 1923, n. 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1913), con cui fu istituita la provincia della Spezia; 
+ Veduto il [R. decreto 2 settembre 1923, n. 1913](../Regi%20decreti/Istituzione%20della%20provincia%20della%20Spezia.%20023U1913.md), con cui fu istituita la provincia della Spezia; 
  
  Vedute le deliberazioni dei Consigli provinciali della Spezia e di Massa e Carrara, rispettivamente in data 8 agosto e 6 settembre 1927, con le quali e' stato determinato il progetto di separazione patrimoniale e di reparto delle attivita' e passivita' in dipendenza dell'aggregazione alla provincia della Spezia dei comuni di Calice al Cornoviglio e Rocchetta di Vara; 
  

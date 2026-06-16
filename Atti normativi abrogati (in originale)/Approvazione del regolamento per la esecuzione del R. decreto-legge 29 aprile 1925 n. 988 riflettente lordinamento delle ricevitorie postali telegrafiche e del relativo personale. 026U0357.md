@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto-legge n. 325 del 5 marzo 1925](Istituzione%20e%20concessione%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici.%20025U0325.md), relativo alla istituzione e concessione degli uffici secondari postali, telegrafici e telefonici; 
  
- Visto l'[art. 2 del R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158#art_2), concernente l'assicurazione obbligatoria contro la disoccupazione involontaria; 
+ Visto l'[art. 2 del R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), concernente l'assicurazione obbligatoria contro la disoccupazione involontaria; 
  
  Visto il [R. decreto-legge n. 2225 del 27 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-09-27;2225), modificato col [R. decreto-legge n. 2293 del 28 dicembre 1924](Modificazioni%20ai%20Regi%20decreti%20n.%202225%20del%2027%20settembre%201923%20e%20n.%201127%20del%2023%20maggio%201924%20concernenti%20le%20cauzioni%20dei%20ricevitori%20postali%20telegrafici%20telefonici.%20024U2293.md), per la istituzione di una Cassa mutua per le cauzioni dei ricevitori postali telegrafici; 
  

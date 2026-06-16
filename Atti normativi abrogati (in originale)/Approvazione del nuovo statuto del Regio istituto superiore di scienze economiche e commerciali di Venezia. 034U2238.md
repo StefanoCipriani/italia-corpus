@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vedute le nuove proposte di modifiche avanzate da1le Autorita' accademiche del Regio istituto anzidetto; 
  
- Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  
  Veduto il [R. decreto-legge 8 luglio 1925, n. 1227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-08;1227), con il quale e' approvato il Regolamento generale degli Istituti superiori di scienze economiche e commerciali; 
  

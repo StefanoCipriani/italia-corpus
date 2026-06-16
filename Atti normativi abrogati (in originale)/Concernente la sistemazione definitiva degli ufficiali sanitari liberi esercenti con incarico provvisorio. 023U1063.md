@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Dal giorno dell'entrata in vigore del presento decreto, e fino al 31 dicembre 1923, e' data facolta' ai prefetti di confermare definitivamente, con dispensa dal concorso e dal periodo di prova, previsti dal [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636, nei posti vacanti di ufficiale sanitario di un Comune o Consorzio, gli ufficiali sanitari provvisori, con regolare nomina prefettizia che, dalla data del 1° maggio 1915, vi prestino ininterrotto servizio. 
+Dal giorno dell'entrata in vigore del presento decreto, e fino al 31 dicembre 1923, e' data facolta' ai prefetti di confermare definitivamente, con dispensa dal concorso e dal periodo di prova, previsti dal [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, nei posti vacanti di ufficiale sanitario di un Comune o Consorzio, gli ufficiali sanitari provvisori, con regolare nomina prefettizia che, dalla data del 1° maggio 1915, vi prestino ininterrotto servizio. 
  
  Al riguardo non e' considerato come interruzione il servizio militare prestato in dipendenza della recente guerra Europea..
 

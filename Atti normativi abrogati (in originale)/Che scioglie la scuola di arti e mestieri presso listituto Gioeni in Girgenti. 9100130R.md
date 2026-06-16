@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-La scuola di arti e mestieri presso l'istituto Gioeni in Girgenti e' sciolta, ed e' revocato il [regio decreto del 24 febbraio 1884, n. 1227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-24;1227), col quale essa fu istituita. 
+La scuola di arti e mestieri presso l'istituto Gioeni in Girgenti e' sciolta, ed e' revocato il [regio decreto del 24 febbraio 1884, n. 1227](../Regi%20decreti/Che%20istituisce%20una%20scuola%20darte%20e%20mestieri%20denominata%20Scuola%20darte%20e%20mestieri%20Gioeni%20nellistituto%20Gioenino%20di%20Girgenti.%208401227R.md), col quale essa fu istituita. 
  
  Il ministro proponente e' incaricato dell'esecuzione del presente decreto, che sara' registrato alla corte dei conti. 
  

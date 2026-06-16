@@ -20,7 +20,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Il diploma di abilitazione alla direzione didattica si consegue oltre che a norma della [lettera b) dell'art. 1](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md) e della [lettera c) dell'art. 2 del R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), anche per titoli ed esame speciale in apposite sessioni di esame indette transitoriamente dal Ministero della pubblica istruzione fra gl'insegnanti elementari con cinque anni di servizio alle condizioni indicate nel bando. 
+Il diploma di abilitazione alla direzione didattica si consegue oltre che a norma della [lettera b) dell'art. 1](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md) e della [lettera c) dell'art. 2 del R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), anche per titoli ed esame speciale in apposite sessioni di esame indette transitoriamente dal Ministero della pubblica istruzione fra gl'insegnanti elementari con cinque anni di servizio alle condizioni indicate nel bando. 
  
  Le sessioni d'esame per il conseguimento del diploma di abilitazione alla direzione didattica, di cui al primo comma del presente articolo, saranno due e verranno indette in sede di concorsi a posti di direttore didattico governativo. 
  
@@ -44,7 +44,7 @@ Al primo concorso a posti di direttore didattico governativo, che sara' indetto 
 
 Per i candidati al concorso di cui al 1° comma del precedente articolo, che abbiano tenuto lodevolmente per un biennio l'incarico di una direzione e per i dirigenti delle nuove Provincie, l'estensione del programma dell'esame orale sara' limitato secondo le disposizioni che saranno incluse nel bando di concorso. 
  
- Quelli dei candidati di cui al precedente comma che comprovino la loro qualita' di ex combattenti, ai sensi del capo IV del [R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), e successive modificazioni, saranno dispensati, con il decreto che indice il concorso, da non piu' di due materie dell'esame orale; per le altre materie il programma sara' limitato come al primo comma del presente articolo. 
+ Quelli dei candidati di cui al precedente comma che comprovino la loro qualita' di ex combattenti, ai sensi del capo IV del [R. decreto 30 settembre 1922, n. 1290](../Regi%20decreti/Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), e successive modificazioni, saranno dispensati, con il decreto che indice il concorso, da non piu' di due materie dell'esame orale; per le altre materie il programma sara' limitato come al primo comma del presente articolo. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

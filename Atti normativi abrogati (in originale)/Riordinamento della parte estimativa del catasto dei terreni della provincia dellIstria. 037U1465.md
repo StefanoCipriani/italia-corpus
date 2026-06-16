@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sul nuovo catasto approvato con [R. decreto 8 ottobre 1931, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1572);
+Visto il testo unico delle leggi sul nuovo catasto approvato con [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md);
 
 Visto il [R. decreto-legge 5 ottobre 1936, n. 1743](Emissione%20di%20un%20prestito%20redimibile%205%20ed%20applicazione%20di%20una%20imposta%20straordinaria%20sulla%20proprieta%20immobiliare%20per%20il%20servizio%20del%20prestito%20medesimo.%20036U1743.md), convertito nella [legge 14 gennaio 1937, n. 151](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20prestito%20redimibile%205%20per%20cento%20e%20lapplicazione%20di%20una%20imposta%20straordi_41caca0893b0.md);
 
@@ -40,7 +40,7 @@ Nel territorio della provincia dell'Istria sara' provveduto, a cura dell'Amminis
 
 Le operazioni di qualificazione, classificazione e classamento dei terreni e la formazione delle relative tariffe d'estimo, saranno eseguite per Comune amministrativo in base ai criteri adottati per la formazione del nuovo catasto italiano, seguendo le norme contenute nel testo unico delle leggi sul nuovo catasto, approvato con [R. decreto 8 ottobre 1931, 
  
- n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1572), e del relativo [regolamento 12 ottobre 1933 n. 1539](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1933-10-12;1539).
+ n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), e del relativo [regolamento 12 ottobre 1933 n. 1539](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1933-10-12;1539).
 
 ## Art. 3.
 

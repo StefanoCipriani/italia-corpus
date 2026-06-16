@@ -18,7 +18,7 @@ Visto il [R. decreto legislativo 31 ottobre 1923, n.2523](https://www.normattiva
 
 Visto il [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), che approva il regolamento in applicazione del R. decreto suddetto;
 
-Visti i [Regi decreti 11 dicembre 1924, n. 2171](Erezione%20in%20Ente%20morale%20dellOpera%20pia%20Associazione%20sassarese%20contro%20la%20tubercolosi%20in%20Sassari.%20024U2171.md); [4 marzo 1926, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-04;630); [13 gennaio 1927, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-13;99), che modificano il suindicato regolamento;
+Visti i [Regi decreti 11 dicembre 1924, n. 2171](Erezione%20in%20Ente%20morale%20dellOpera%20pia%20Associazione%20sassarese%20contro%20la%20tubercolosi%20in%20Sassari.%20024U2171.md); [4 marzo 1926, n. 630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-04;630); [13 gennaio 1927, n. 99](../Regi%20decreti/Modificazioni%20al%20regolamento%20generale%20sulla%20istruzione%20industriale%20approvato%20con%20R.%20decreto%203%20giugno%201924%20n.%20969.%20027U0099.md), che modificano il suindicato regolamento;
 
 Visto il [R. decreto in data 16 ottobre 1921, n. 2332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-16;2332) di riordinamento della R. Scuola di avviamento al lavoro con annesso Laboratorio-scuola di Giulianuova;
 

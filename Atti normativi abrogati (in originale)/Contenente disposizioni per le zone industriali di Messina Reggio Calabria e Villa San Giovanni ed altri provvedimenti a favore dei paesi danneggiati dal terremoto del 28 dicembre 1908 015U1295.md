@@ -268,7 +268,7 @@ L'art. 349 del testo unico e' modificato come segue:
 
 ### Art. 32.
 
-All'[art. 21 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' aggiunto il seguente comma: 
+All'[art. 21 del R. decreto 18 giugno 1914, n. 700](../Regi%20decreti/Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' aggiunto il seguente comma: 
  
  La gestione delle baracche comprende quelle costruite dai Comuni o da qualunque Amministrazione dello Stato, anche su suoli comunali.
 
@@ -280,7 +280,7 @@ All'art. 23 del P. decreto 18 giugno 1914, n. 700, e' aggiunto dopo il secondo c
 
 ### Art. 34.
 
-L'[art. 39 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' modificato come segue: 
+L'[art. 39 del R. decreto 18 giugno 1914, n. 700](../Regi%20decreti/Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' modificato come segue: 
  
  All'art. 304 del testo unico e' sostituito il seguente: 
  
@@ -292,7 +292,7 @@ L'[art. 39 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20d
 
 ### Art. 35.
 
-L'[art. 40 del R. decreto 18 giugno 1914, n. 700](Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' modificato come segue: 
+L'[art. 40 del R. decreto 18 giugno 1914, n. 700](../Regi%20decreti/Riguardante%20listituzione%20di%20enti%20edilizi%20a%20Messina%20ed%20a%20Reggio%20Calabria%20ed%20altre%20disposizioni%20dirette%20ad%20agevolare%20il%20risorgimento%20dei%20centri%20abitali%20distrutti%20dal%20terremoto%20del%2028%20dicemb_94afd2536c85.md), e' modificato come segue: 
  
  La Cassa depositi o prestiti, la Cassa nazionale per la invalidita' e la vecchiaia degli operai e le Casse di risparmio ordinarie, compresa la Cassa di risparmio del Banco di Napoli, hanno facolta' di fare le operazioni di cui all'articolo precedente, accettando in garanzia, oltre alle annualita' del contributo del Ministero di agricoltura, anche le semestralita' dei contributi dello Stato per i mutui, e le annualita' del contributo del Banco di Napoli. 
  

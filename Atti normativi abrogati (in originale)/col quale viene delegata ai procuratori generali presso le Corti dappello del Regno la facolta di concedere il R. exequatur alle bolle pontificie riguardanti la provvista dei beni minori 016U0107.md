@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visti gli [articoli 16](Sulle%20prerogative%20del%20Sommo%20Pontefice%20e%20della%20Santa%20Sede%20e%20sulle%20relazioni%20dello%20Stato%20con%20la%20Chiesa.%20071U0214.md) e [18 della legge 13 maggio 1871, n. 214](Sulle%20prerogative%20del%20Sommo%20Pontefice%20e%20della%20Santa%20Sede%20e%20sulle%20relazioni%20dello%20Stato%20con%20la%20Chiesa.%20071U0214.md) (serie 2ª), sulle prerogative del Sommo Pontefice e della Santa Sede, e sulle relazioni dello Stato con la Chiesa; 
  
- Visto il [R. decreto 25 giugno 1871, n. 320](Contenente%20disposizioni%20circa%20lExequatur%20ed%20il%20Regio%20Placet.%20071U0320.md), contenente disposizioni circa il R exequatur ed il R. placet; 
+ Visto il [R. decreto 25 giugno 1871, n. 320](../Regi%20decreti/Contenente%20disposizioni%20circa%20lExequatur%20ed%20il%20Regio%20Placet.%20071U0320.md), contenente disposizioni circa il R exequatur ed il R. placet; 
  
  Sulla proposta del guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La facolta' di concedere il R. exequatur alle bolle pontificie riguardanti la provvista dei benefici minori e la destinazione dei relativi beni e' delegata al procuratore generale presso la Corte d'appello del luogo in cui sono posti i benefici e i beni preindicati, con le modalita' e nei limiti di cui all'[art. 4 del R. decreto 25 giugno 1871, n. 320](Contenente%20disposizioni%20circa%20lExequatur%20ed%20il%20Regio%20Placet.%20071U0320.md) e del relativo regolamento. 
+ La facolta' di concedere il R. exequatur alle bolle pontificie riguardanti la provvista dei benefici minori e la destinazione dei relativi beni e' delegata al procuratore generale presso la Corte d'appello del luogo in cui sono posti i benefici e i beni preindicati, con le modalita' e nei limiti di cui all'[art. 4 del R. decreto 25 giugno 1871, n. 320](../Regi%20decreti/Contenente%20disposizioni%20circa%20lExequatur%20ed%20il%20Regio%20Placet.%20071U0320.md) e del relativo regolamento. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

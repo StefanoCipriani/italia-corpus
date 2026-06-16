@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'[articolo 196 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_196), approvato con R. decreto 1° agosto 1807, n. 636, e' sostituito il seguente: 
+ All'[articolo 196 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 1° agosto 1807, n. 636, e' sostituito il seguente: 
  
  I cimiteri debbono essere collocati alla distanza di almeno duecento metri dai centri abitati e dal momento della destinazione di un terreno a cimitero e' vietato di costruire intorno allo stesso nuovi edifici o ampliano giri quelli entro il raggio di duecento metri. 
  

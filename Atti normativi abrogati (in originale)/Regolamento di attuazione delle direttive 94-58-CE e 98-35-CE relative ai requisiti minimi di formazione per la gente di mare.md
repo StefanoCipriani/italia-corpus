@@ -18,11 +18,11 @@ Vista la [direttiva n. 94/58/CE del Consiglio, del 22 novembre 1994](https://www
 
 Vista la [direttiva n. 98/35/CE del Consiglio, del 25 maggio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;35), che modifica la [direttiva n. 94/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;58) sopra citata;
 
-Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e successive modifiche ed integrazioni;
+Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e successive modifiche ed integrazioni;
 
-Visto il regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visto il regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 21 novembre 1985, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-11-21;739), recante adesione alla Convenzione del 1978 sulle norme relative alla formazione della gente di mare, al rilascio dei brevetti ed alla guardia, adottata a Londra il 7 luglio 1978, e sua esecuzione;
 
@@ -69,7 +69,7 @@ Il presente regolamento si applica ai lavoratori marittimi che prestano servizio
                                 delle imbarcazioni di legno di costruzione rudimentale.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'articolo 10, comma 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'articolo 10, comma 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
@@ -82,9 +82,9 @@ Avvertenza:
  - L'Allegato C della predetta [legge n. 128/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998;128) reca l'elenco delle direttive da recepire con regolamento autorizzato.
  - La [direttiva 94/58/CE del Consiglio del 22 novembre 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;58) e' pubblicata nella GUCE n. L 319 del 12 dicembre 1994.
  - La [direttiva 98/35/CE del Consiglio del 25 maggio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;35), che modifica la [direttiva 94/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;58), e' pubblicata nella GUCE n. L 172 del 17 giugno 1998.
- - Il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), ha approvato il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
- - Il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), reca: "Approvazione del regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)".
- - Il [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), reca: "Approvazione del testo unico delle disposizioni legislative in materia postale, di banco posta e di telecomunicazioni".
+ - Il [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), ha approvato il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ - Il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), reca: "Approvazione del regolamento per l'esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)".
+ - Il [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), reca: "Approvazione del testo unico delle disposizioni legislative in materia postale, di banco posta e di telecomunicazioni".
  - La [legge 21 novembre 1985, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-11-21;739), reca: "Adesione alla Convenzione del 1978 sulle norme relative alla formazione della gente di mare, al rilascio dei brevetti ed alla guardia, adottata a Londra il 7 luglio 1978, e sua esecuzione".
  - Il [decreto legislativo 27 gennaio 1992, n. 115](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-48-CEE%20relativa%20ad%20un%20sistema%20generale%20di%20riconoscimento%20dei%20diplomi%20di%20istruzione%20superiore%20che%20sanzionano%20formazioni%20professionali%20di%20una%20durata%20minima%20di%20tre%20anni.md), reca: "Attuazione della [direttiva n. 89/48/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;48) relativa ad un sistema generale di riconoscimento dei diplomi di istruzione superiore che sanzionano formazioni professionali di una durata minima di tre anni.
  - La [direttiva 89/48/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;48) e' pubblicata nella GUCE n. L 019 del 24 gennaio 1989.
@@ -135,7 +135,7 @@ Ai fini del presente regolamento si intende per:
                             q)
                                 "nave battente bandiera di uno Stato membro" una nave registrata in uno Stato membro dell'Unione europea e battente bandiera del medesimo Stato membro conformemente alla legislazione di quest'ultimo; le navi che non corrispondono a questa definizione sono equiparate alle navi battenti bandiera di un Paese terzo;
                             r)
-                                "viaggi costieri" i viaggi effettuati in prossimita' della costa come definiti dall'articolo 1, comma 1, punti 37 e 39, del [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
+                                "viaggi costieri" i viaggi effettuati in prossimita' della costa come definiti dall'articolo 1, comma 1, punti 37 e 39, del [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
                             s)
                                 "potenza di propulsione" la potenza di uscita totale massima caratteristica continuata in chilowatt sviluppata da tutti gli apparati di propulsione principali della nave che appare sul certificato di iscrizione della nave o su altro documento ufficiale;
                             t)
@@ -178,7 +178,7 @@ Ai fini del presente regolamento si intende per:
                                 "mese" un mese civile o un periodo di trenta giorni risultante dalla somma di periodi inferiori.
 
 Note all'[art. 2:
- - Il decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), reca: "Approvazione del regolamento per la sicurezza della navigazione e della vita umana in mare". Il testo dell'articolo 1, comma 1, punti 37 e 39, di detto decreto e' il seguente:
+ - Il decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), reca: "Approvazione del regolamento per la sicurezza della navigazione e della vita umana in mare". Il testo dell'articolo 1, comma 1, punti 37 e 39, di detto decreto e' il seguente:
  "Art. 1 (Denominazioni e definizioni). - 1. Le definizioni utilizzate nel presente regolamento hanno il significato risultante dalle seguenti definizioni che sono integrative o addizionali a quelle della Convenzione:
  1-36 (Omissis);
  37) Navigazione internazionale costiera: una navigazione che si svolge tra porti appartenenti a Stati diversi nel corso della quale la nave non si allontana piu' di 20 miglia dalla costa;
@@ -197,7 +197,7 @@ Capo II
 
 1.
 
-Le Amministrazioni marittime periferiche di cui all'[articolo 124 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) rilasciano i certificati adeguati di cui all'annesso alla Convenzione STCW, ad eccezione dei certificati di cui ai commi 2 e 3.
+Le Amministrazioni marittime periferiche di cui all'[articolo 124 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) rilasciano i certificati adeguati di cui all'annesso alla Convenzione STCW, ad eccezione dei certificati di cui ai commi 2 e 3.
 
 2.
 
@@ -212,7 +212,7 @@ Il Ministero delle comunicazioni rilascia i certificati adeguati di cui alle reg
 Le amministrazioni di cui ai commi 1, 2 e 3, sono altresi' competenti alla convalida dei certificati di cui si chiede il rinnovo ai sensi dell'articolo 6 o il riconoscimento ai sensi degli articoli 7 e 8.
 
 Nota all'art. 3: 
- - Il testo dell'[articolo 124 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente: 
+ - Il testo dell'[articolo 124 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente: 
  "Art. 124 (Rilascio dei documenti di abilitazione) - Il rilascio delle patenti per i titoli professionali marittimi indicati alle lettere a) e b) del primo e secondo comma dell'articolo precedente e' di competenza del direttore marittimo. 
  Il rilascio dei documenti di abilitazione per gli altri titoli professionali e' di competenza del Capo del compartimento e dei capi degli altri Uffici indicati dal regolamento.".
 
@@ -618,10 +618,10 @@ Gli ispettori verificano che a bordo delle navi siano a disposizione dei comanda
 
 5.
 
-Qualora dall'esito delle verifiche, di cui ai commi precedenti, risultino carenze che costituiscano pericolo per le persone, le cose o l'ambiente, gli ispettori ne informano immediatamente il comandante del porto, ai fini dell'adozione del provvedimento di fermo, ai sensi dell'[articolo 181 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Qualora dall'esito delle verifiche, di cui ai commi precedenti, risultino carenze che costituiscano pericolo per le persone, le cose o l'ambiente, gli ispettori ne informano immediatamente il comandante del porto, ai fini dell'adozione del provvedimento di fermo, ai sensi dell'[articolo 181 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 Nota all'art. 18.: 
- - L'[art. 181 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) recita: 
+ - L'[art. 181 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) recita: 
  "Art. 181 (Rilascio delle spedizioni). - La nave non puo' partire se non ha ricevuto le spedizioni da parte del comandante del porto o dell'autorita' consolare. 
  Il rilascio delle spedizioni si effettua mediante apposizione del visto - con indicazione dell'ora e della data - sulla dichiarazione integrativa di partenza che viene consegnata in copia, o trasmessa con mezzi elettronici, al comandante della nave, il quale e' tenuto a conservarla tra i documenti di bordo fino al successivo approdo. 
  Le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha adempiuto agli obblighi imposti dalle norme di polizia, da quelle per la sicurezza della navigazione, nonche' agli obblighi relativi alle visite ed alle prescrizioni impartite dalle competenti autorita'. Del pari le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha compiuto gli adempimenti sanitari, fiscali e doganali ovvero non ha provveduto al pagamento dei diritti portuali o consolari, al versamento delle cauzioni eventualmente richieste a norma delle vigenti disposizioni di legge o regolamentari, nonche' in tutti gli altri casi previsti da disposizioni di legge".
@@ -630,17 +630,17 @@ Nota all'art. 18.:
 
 1.
 
-Salvo che il fatto costituisca reato, e' punito con la sanzione amministrativa pecuniaria di cui all'[articolo 1178 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'armatore o il comandante della nave che ammette a far parte dell'equipaggio una persona non in possesso dei certificati prescritti. La stessa sanzione si applica al comandante della nave che viola l'obbligo di tenuta dei certificati o che non riconsegna gli stessi ai titolari all'atto dello sbarco.
+Salvo che il fatto costituisca reato, e' punito con la sanzione amministrativa pecuniaria di cui all'[articolo 1178 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'armatore o il comandante della nave che ammette a far parte dell'equipaggio una persona non in possesso dei certificati prescritti. La stessa sanzione si applica al comandante della nave che viola l'obbligo di tenuta dei certificati o che non riconsegna gli stessi ai titolari all'atto dello sbarco.
 
 2.
 
-Salvo che il fatto costituisca reato, e' punito con la sanzione amministrativa pecuniaria di cui all'[articolo 1223 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'armatore o il comandante della nave che consente l'esercizio di una funzione per la quale e' richiesto il certificato ad una persona priva dello stesso ovvero non abilitata in base alla dispensa di cui all'articolo 9.
+Salvo che il fatto costituisca reato, e' punito con la sanzione amministrativa pecuniaria di cui all'[articolo 1223 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'armatore o il comandante della nave che consente l'esercizio di una funzione per la quale e' richiesto il certificato ad una persona priva dello stesso ovvero non abilitata in base alla dispensa di cui all'articolo 9.
 
 Note all'art. 19: 
- - Il testo dell'[articolo 1178 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente: 
+ - Il testo dell'[articolo 1178 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente: 
  "Art. 1178 (Irregolare assunzione di personale e' omessa annotazione di equipaggio). - L'armatore o il comandante della nave o del galleggiante marittimi, che ammette a far parte dell'equipaggio una persona non appartenente alla gente di mare ovvero arruola una persona senza regolare contratto o senza la preventiva visita medica, ovvero in barca o sbarca un componente dell'equipaggio senza far eseguire la relativa annotazione sul ruolo di equipaggio o sulla licenza, e' punito con l'ammenda fino a lire duecentomila. 
  Alla stessa pena soggiace l'armatore o il comandante della nave o del galleggiante addetti alla navigazione interna, l'esercente o il comandante dell'aeromobile il quale, fuori dei casi previsti dalla legge, ammette a far parte dell'equipaggio una persona non iscritta rispettivamente nel personale navigante o nel personale di volo ovvero senza l'osservanza delle norme relative alle visite mediche di detto personale di volo". 
- - Il testo dell'[articolo 1223 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente: 
+ - Il testo dell'[articolo 1223 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente: 
  "Art. 1223 (Assegnazione indebita di funzioni). - L'armatore, l'esercente o il comandante della nave, del galleggiante o dell'aeromobile, che, senza giustificato motivo, assegna a bordo determinate funzioni a persone che non hanno i requisiti prescritti per esercitarle e' punito, qualora il fatto non costituisca un piu' grave reato, con l'ammenda da lire centomila ad un milione".
 
 ## Norme transitorie e finali
@@ -655,7 +655,7 @@ Fino al 1o febbraio 2002, le amministrazioni di cui all'articolo 4 possono conti
 
 2.
 
-Fino al 1o febbraio 2002 i certificati di abilitazione dei lavoratori marittimi per i mezzi di salvataggio (MAMS) possono essere rilasciati ai sensi del [decreto del Presidente della Repubblica 29 luglio 1996, n. 474](../DPR/Regolamento%20concernente%20i%20requisiti%20ed%20il%20programma%20di%20esame%20per%20il%20rilascio%20del%20certificato%20di%20marittimo%20abilitato%20per%20i%20mezzi%20di%20salvataggio.md).
+Fino al 1o febbraio 2002 i certificati di abilitazione dei lavoratori marittimi per i mezzi di salvataggio (MAMS) possono essere rilasciati ai sensi del [decreto del Presidente della Repubblica 29 luglio 1996, n. 474](../Regolamenti%20governativi/Regolamento%20concernente%20i%20requisiti%20ed%20il%20programma%20di%20esame%20per%20il%20rilascio%20del%20certificato%20di%20marittimo%20abilitato%20per%20i%20mezzi%20di%20salvataggio.md).
 
 3.
 
@@ -678,7 +678,7 @@ I certificati di cui ai precedenti commi, alla scadenza o comunque entro cinque 
 Fino all'entrata in esercizio della rete informatica unitaria delle pubbliche amministrazioni, ciascuna delle autorita' di cui all'articolo 3 tiene i registri previsti all'articolo 10, commi 1 e 2, e cura gli adempimenti di cui allo stesso articolo 10, comma 3.
 
 Nota all'[art. 20: 
- - Il decreto del Presidente della Repubblica 29 luglio 1996, n. 474](../DPR/Regolamento%20concernente%20i%20requisiti%20ed%20il%20programma%20di%20esame%20per%20il%20rilascio%20del%20certificato%20di%20marittimo%20abilitato%20per%20i%20mezzi%20di%20salvataggio.md), reca: "Regolamento concernente i requisiti ed il programma di esame per il rilascio del certificato di marittimo abilitato per i mezzi di salvataggio".
+ - Il decreto del Presidente della Repubblica 29 luglio 1996, n. 474](../Regolamenti%20governativi/Regolamento%20concernente%20i%20requisiti%20ed%20il%20programma%20di%20esame%20per%20il%20rilascio%20del%20certificato%20di%20marittimo%20abilitato%20per%20i%20mezzi%20di%20salvataggio.md), reca: "Regolamento concernente i requisiti ed il programma di esame per il rilascio del certificato di marittimo abilitato per i mezzi di salvataggio".
 
 ### Art. 21. — Viaggi costieri
 

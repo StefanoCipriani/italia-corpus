@@ -20,11 +20,11 @@ Visto l'[art. 39 della legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%
 
 Visto l'[art. 13 del R. decreto 18 aprile 1920, n. 579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-18;579#art_13);
 
-Visto il [R. decreto 5 ottobre 1921, n. 1569](Che%20reca%20provvedimenti%20per%20la%20estensione%20alle%20Nuove%20Provincie%20delle%20norme%20riguardanti%20le%20riparazioni%20e%20ricostruzioni%20degli%20stabili%20dello%20Stato%20e%20degli%20Enti%20pubblici%20danneggiati%20dalla%20guerra.%20021U1569.md);
+Visto il [R. decreto 5 ottobre 1921, n. 1569](../Regi%20decreti/Che%20reca%20provvedimenti%20per%20la%20estensione%20alle%20Nuove%20Provincie%20delle%20norme%20riguardanti%20le%20riparazioni%20e%20ricostruzioni%20degli%20stabili%20dello%20Stato%20e%20degli%20Enti%20pubblici%20danneggiati%20dalla%20guerra.%20021U1569.md);
 
-Visto l'[art. 3 del R. decreto 18 gennaio 1923, n. 106](Col%20quale%20vengono%20trasferiti%20dal%20Ministero%20delle%20terre%20liberate%20a%20quello%20dei%20lavori%20pubblici%20i%20compiti%20relativi%20alla%20ricostituzione%20dei%20beni%20degli%20Enti%20pubblici%20locali%20danneggiati%20dalla%20g_844a24dbcb26.md);
+Visto l'[art. 3 del R. decreto 18 gennaio 1923, n. 106](../Regi%20decreti/Col%20quale%20vengono%20trasferiti%20dal%20Ministero%20delle%20terre%20liberate%20a%20quello%20dei%20lavori%20pubblici%20i%20compiti%20relativi%20alla%20ricostituzione%20dei%20beni%20degli%20Enti%20pubblici%20locali%20danneggiati%20dalla%20g_844a24dbcb26.md);
 
-Visto il [R. decreto 4 settembre 1925, n. 1746](Estensione%20della%20competenza%20del%20Commissariato%20per%20le%20riparazioni%20dei%20danni%20di%20guerra%20di%20Treviso%20alle%20Regioni%20gia%20soggette%20ai%20Commissariati%20civili%20di%20Trento%20e%20di%20Trieste.%20025U1746.md);
+Visto il [R. decreto 4 settembre 1925, n. 1746](../Regi%20decreti/Estensione%20della%20competenza%20del%20Commissariato%20per%20le%20riparazioni%20dei%20danni%20di%20guerra%20di%20Treviso%20alle%20Regioni%20gia%20soggette%20ai%20Commissariati%20civili%20di%20Trento%20e%20di%20Trieste.%20025U1746.md);
 
 Visto il [R. decreto 6 dicembre 1928, n. 2701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-06;2701), col quale fu soppresso il Commissariato per le riparazioni danni di guerra;
 
@@ -40,9 +40,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-Per le espropriazioni dipendenti dalle opere comunque eseguite o da eseguire in conformita' dell'[art. 1 del R. decreto 18 gennaio 1923, n. 106](Col%20quale%20vengono%20trasferiti%20dal%20Ministero%20delle%20terre%20liberate%20a%20quello%20dei%20lavori%20pubblici%20i%20compiti%20relativi%20alla%20ricostituzione%20dei%20beni%20degli%20Enti%20pubblici%20locali%20danneggiati%20dalla%20g_844a24dbcb26.md), si applicheranno: 
+Per le espropriazioni dipendenti dalle opere comunque eseguite o da eseguire in conformita' dell'[art. 1 del R. decreto 18 gennaio 1923, n. 106](../Regi%20decreti/Col%20quale%20vengono%20trasferiti%20dal%20Ministero%20delle%20terre%20liberate%20a%20quello%20dei%20lavori%20pubblici%20i%20compiti%20relativi%20alla%20ricostituzione%20dei%20beni%20degli%20Enti%20pubblici%20locali%20danneggiati%20dalla%20g_844a24dbcb26.md), si applicheranno: 
  
- a) nelle Venezie Giulia e Tridentina la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e successive modificazioni, anche nel caso che le opere siano state eseguite anteriormente all'entrata in vigore del [R. decreto 25 marzo 1923, n. 913](Che%20estende%20ai%20territori%20annessi%20al%20Regno%20le%20disposizioni%20legislative%20e%20regolamentari%20sui%20lavori%20pubblici.%20023U0913.md); 
+ a) nelle Venezie Giulia e Tridentina la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e successive modificazioni, anche nel caso che le opere siano state eseguite anteriormente all'entrata in vigore del [R. decreto 25 marzo 1923, n. 913](../Regi%20decreti/Che%20estende%20ai%20territori%20annessi%20al%20Regno%20le%20disposizioni%20legislative%20e%20regolamentari%20sui%20lavori%20pubblici.%20023U0913.md); 
  
  b) nelle vecchie Provincie gli articoli 2 e 3, e nelle Venezie Giulia e Tridentina gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1437#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1437#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1437#art_3) e [4 del R. decreto 19 luglio 1924, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1437#art_4).
 
@@ -58,7 +58,7 @@ Nei casi in cui l'indennita' capitale delle espropriazioni definitive relative a
  
  Nello stesso modo puo' essere dimostrata la rappresentanza di mandanti o di assenti, non legalmente dichiarati tali, o di coeredi pro indiviso, anche per la riscossione delle somme dovute. 
  
- Fino a completo esaurimento di tali espropriazioni e' demandata al prefetto la competenza ad autorizzare il pagamento delle relative indennita' a norma dell'[art. 30 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e con la facolta' prevista dall'[art. 36 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), in ordine alle indennita' non eccedenti le L. 1000, prescrivendo pure il modo di investimento nei casi in cui la legge lo richiede.
+ Fino a completo esaurimento di tali espropriazioni e' demandata al prefetto la competenza ad autorizzare il pagamento delle relative indennita' a norma dell'[art. 30 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e con la facolta' prevista dall'[art. 36 del R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), in ordine alle indennita' non eccedenti le L. 1000, prescrivendo pure il modo di investimento nei casi in cui la legge lo richiede.
 
 ## Art. 4.
 

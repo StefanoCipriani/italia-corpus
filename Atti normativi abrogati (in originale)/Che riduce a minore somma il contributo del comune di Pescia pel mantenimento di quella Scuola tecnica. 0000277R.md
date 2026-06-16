@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [regio decreto 12 luglio 1888, n. 5573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-12;5573), con cui la Scuola tecnica pareggiata di Pescia fu convertita in governativa mediante un contributo annuo da parte di quel comune, pari ai 3/5 della spesa effettiva degli stipendi al personale insegnante; 
+ Visto il [regio decreto 12 luglio 1888, n. 5573](../Regi%20decreti/Che%20istituisce%20in%20Pescia%20Lucca%20una%20scuola%20tecnica%20governativa%20di%203ª%20classe.%20088U5573.md), con cui la Scuola tecnica pareggiata di Pescia fu convertita in governativa mediante un contributo annuo da parte di quel comune, pari ai 3/5 della spesa effettiva degli stipendi al personale insegnante; 
  
  Visto che le condizioni finanziarie del comune di Pescia non gli permettono di sopportare piu' a lungo tale onere per il mantenimento di detta scuola, che e' l'unica governativa in tutta la provincia di Lucca; 
  

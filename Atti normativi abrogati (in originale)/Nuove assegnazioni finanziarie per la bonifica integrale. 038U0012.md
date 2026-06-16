@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3 n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'[art. 121 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_121), relativo alle autorizzazioni di spesa per l'applicazione della legge sulla bonifica integrale;
+Visto l'[art. 121 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), relativo alle autorizzazioni di spesa per l'applicazione della legge sulla bonifica integrale;
 
 Visto l'[art. 4 del R. decreto-legge 30 giugno 1934, n. 1431](Autorizzazioni%20di%20spesa%20per%20la%20bonifica%20integrale%20e%20maggiori%20Assegnazioni%20per%20lAgro%20Pontino.%20034U1431.md), convertito nella [legge 1° aprile 1935, n. 898](Conversione%20in%20legge%20del%20R.%20decreto-legge%2030%20giugno%201934%20n.%201431%20concernente%20le%20autorizzazioni%20di%20spesa%20per%20la%20bonifica%20integrale%20e%20maggiori%20assegnazioni%20per%20lAgro%20Pontino.%20035U0898.md), e successive modifiche;
 
@@ -36,7 +36,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per l
 
 ## Art. 1.
 
-In aggiunta alle residue assegnazioni stabilite dall'[art. 121 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_121), dall'[art. 3 del R. decreto 5 dicembre 1935, n. 2235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-05;2235#art_3), convertito nella [legge 30 marzo 1936, n. 586, e dall'art. 2](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20dicembre%201935-XIV%20n.%202235%20concernente%20provvedimenti%20a%20favore%20delle%20localita%20colpite%20da%20alluvioni%20piene%20e%20frane%20verificatesi%20durante%20il%201935.%20036U0586.md) della [legge 28 maggio 1936, numero 1204](Nuove%20assegnazioni%20per%20opere%20di%20bonifica%20integrale.%20036U1204.md), e' autorizzata la spesa di L. 2.515.000.000 da iscriversi nella parte straordinaria dello stato di previsione del Ministero dell'agricoltura e delle foreste, per provvedere: 
+In aggiunta alle residue assegnazioni stabilite dall'[art. 121 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), dall'[art. 3 del R. decreto 5 dicembre 1935, n. 2235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-05;2235#art_3), convertito nella [legge 30 marzo 1936, n. 586, e dall'art. 2](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20dicembre%201935-XIV%20n.%202235%20concernente%20provvedimenti%20a%20favore%20delle%20localita%20colpite%20da%20alluvioni%20piene%20e%20frane%20verificatesi%20durante%20il%201935.%20036U0586.md) della [legge 28 maggio 1936, numero 1204](Nuove%20assegnazioni%20per%20opere%20di%20bonifica%20integrale.%20036U1204.md), e' autorizzata la spesa di L. 2.515.000.000 da iscriversi nella parte straordinaria dello stato di previsione del Ministero dell'agricoltura e delle foreste, per provvedere: 
  
  a) al completamento dell'attivita' pubblica di bonifica in alcuni comprensori o settori di essi; 
  

@@ -20,7 +20,7 @@ Visti i [Regi decreti-legge 30 ottobre 1943 n. 2/B](Sospensione%20delle%20norme%
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

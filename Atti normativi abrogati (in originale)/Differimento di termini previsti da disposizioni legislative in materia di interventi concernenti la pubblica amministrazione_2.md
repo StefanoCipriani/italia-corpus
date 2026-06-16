@@ -29,7 +29,7 @@ La disciplina prevista dall'[articolo 26 della legge 11 marzo 1988, n. 67](../Le
 
 2.
 
-Per garantire la piu' sollecita e corretta realizzazione dei progetti di cui alla normativa richiamata al comma 1, e' consentito che l'importo singolo massimo relativo alle aperture di credito a favore del funzionario delegato superi i limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni, e sia fissato in misura massima di lire 2.500 milioni.
+Per garantire la piu' sollecita e corretta realizzazione dei progetti di cui alla normativa richiamata al comma 1, e' consentito che l'importo singolo massimo relativo alle aperture di credito a favore del funzionario delegato superi i limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, e sia fissato in misura massima di lire 2.500 milioni.
 A carico di tali ordini di accreditamento possono essere imputate, per intero, spese dipendenti da contratti.
 
 3.
@@ -92,7 +92,7 @@ Nell'[articolo 59, comma 10, del decreto legislativo 3 febbraio 1993, n. 29](Raz
 
 5.
 
-Per il personale del comparto scuola le domande di pensionamento anticipato ai fini dell'[articolo 13, comma 5, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), si intendono accettate se presentate entro il 28 settembre 1994 all'amministrazione scolastica, sempre che ricorrano i prescritti requisiti oggettivi e fatto salvo quanto previsto dagli articoli 510, comma 5, e 580, comma 5, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+Per il personale del comparto scuola le domande di pensionamento anticipato ai fini dell'[articolo 13, comma 5, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), si intendono accettate se presentate entro il 28 settembre 1994 all'amministrazione scolastica, sempre che ricorrano i prescritti requisiti oggettivi e fatto salvo quanto previsto dagli articoli 510, comma 5, e 580, comma 5, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 ## Art. 3. — Personale delle Forze di polizia e delle Forze armate
 
@@ -133,7 +133,7 @@ Fatto salvo quanto previsto per i servizi antincendi aeroportuali dal [comma 2 d
 
 3.
 
-Nel termine di centottanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dell'interno provvede, ai sensi del penultimo comma dell'[articolo 11 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../DPR/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), alla emanazione delle norme tecniche organiche e coordinate di prevenzione incendi per i luoghi di spettacolo e intrattenimento cosi' come individuati dall'[articolo 17 della circolare del Ministro dell'interno n. 16 del 15 febbraio 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:circolare:1951-02-15;16#art_17), e successive modificazioni. Entro lo stesso termine si provvede, altresi', sentita la Presidenza del Consiglio dei Ministri, ad emanare la disciplina organica dei servizi di vigilanza, da realizzarsi all'interno dell'attivita' e dei compiti ispettivi affidati al Corpo nazionale dei vigili del fuoco.
+Nel termine di centottanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dell'interno provvede, ai sensi del penultimo comma dell'[articolo 11 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), alla emanazione delle norme tecniche organiche e coordinate di prevenzione incendi per i luoghi di spettacolo e intrattenimento cosi' come individuati dall'[articolo 17 della circolare del Ministro dell'interno n. 16 del 15 febbraio 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:circolare:1951-02-15;16#art_17), e successive modificazioni. Entro lo stesso termine si provvede, altresi', sentita la Presidenza del Consiglio dei Ministri, ad emanare la disciplina organica dei servizi di vigilanza, da realizzarsi all'interno dell'attivita' e dei compiti ispettivi affidati al Corpo nazionale dei vigili del fuoco.
 
 4.
 

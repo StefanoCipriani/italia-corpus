@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto l'[art. 23 del R. decreto-legge 27 ottobre 1926, n. 1933](Disposizioni%20concernenti%20listruzione%20superiore.%20026U1933.md); 
  
- Veduto il regolamento generale universitario, approvato Con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674); 
+ Veduto il regolamento generale universitario, approvato Con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md); 
  
  Veduta l'Ordinanza ministeriale 18 gennaio 1927, con la quale venne prorogato, per l'anno accademico 1926-1927, lo statuto provvisorio della Regia universita' di Macerata; 
  

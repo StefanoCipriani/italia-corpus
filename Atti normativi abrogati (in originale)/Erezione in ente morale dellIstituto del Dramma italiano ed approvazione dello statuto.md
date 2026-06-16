@@ -14,7 +14,7 @@ Vista la istanza del presidente dell'"Istituto del Dramma Italiano" (I.D.I.) ave
 
 Visto l'[art. 12 dei Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12);
 
-Visto l'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910_2.md), che affida al Presidente del Consiglio dei Ministri la gestione dei servizi gia' di pertinenza del cessato Ministero della cultura popolare, trasformato successivamente in Sottosegretariato di Stato per la stampa, spettacolo e turismo;
+Visto l'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](../Regi%20decreti%20legislativi/Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910.md), che affida al Presidente del Consiglio dei Ministri la gestione dei servizi gia' di pertinenza del cessato Ministero della cultura popolare, trasformato successivamente in Sottosegretariato di Stato per la stampa, spettacolo e turismo;
 
 Udito il parere del Consiglio di Stato;
 

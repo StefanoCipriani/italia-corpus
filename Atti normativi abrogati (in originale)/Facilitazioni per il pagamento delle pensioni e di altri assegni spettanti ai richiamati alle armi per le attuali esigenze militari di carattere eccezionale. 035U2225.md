@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 13 febbraio 1927, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;165), concernente facilitazioni per il pagamento delle pensioni e di altri assegni a carico del bilancio dello Stato;
 
-Visto il [R. decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677), che detta le norme per l'attuazione del R. decreto-legge predetto;
+Visto il [R. decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md), che detta le norme per l'attuazione del R. decreto-legge predetto;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 La facolta' di delega concessa dalla [lettera B dell'art. 2 del R. decreto-legge 13 febbraio 1927, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;165#art_2-letb), e' estesa anche ai casi in cui i pensionati o assegnatari siano richiamati alle armi per le attuali esigenze militari di carattere eccezionale. 
  
- In tali casi il pagamento delle pensioni ed assegni verra' effettuato senza la produzione dei documenti prescritti dall'[art. 10 del R. decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677#art_10), e gli adempimenti previsti dall'art. 23 del Regio decreto stesso per gli ufficiali dello stato civile e le autorita' incaricate della tenuta dei registri anagrafici saranno assolti dagli Enti militari dai quali i richiamati rispettivamente dipendono.
+ In tali casi il pagamento delle pensioni ed assegni verra' effettuato senza la produzione dei documenti prescritti dall'[art. 10 del R. decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md), e gli adempimenti previsti dall'art. 23 del Regio decreto stesso per gli ufficiali dello stato civile e le autorita' incaricate della tenuta dei registri anagrafici saranno assolti dagli Enti militari dai quali i richiamati rispettivamente dipendono.
 
 ## Art. 2.
 

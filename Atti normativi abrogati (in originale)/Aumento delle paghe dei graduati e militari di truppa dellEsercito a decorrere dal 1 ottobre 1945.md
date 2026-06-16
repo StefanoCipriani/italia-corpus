@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), che approva il testo unico delle disposizioni concernenti gli stipendi e assegni fissi dell'Esercito;
+Visto il [regio decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), che approva il testo unico delle disposizioni concernenti gli stipendi e assegni fissi dell'Esercito;
 
 Visto il [regio decreto-legge 23 marzo 1944, n. 103](Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md), che stabilisce le paglie ordinarie dei militari di truppa dell'Esercito;
 
@@ -50,7 +50,7 @@ Le paghe ordinarie giornaliere dei graduati e militari di truppa dell'Esercito s
 
 ## Art. 2.
 
-A decorrere del 1° ottobre 1945, l'[art. 91 del regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e' sostituito dal seguente:
+A decorrere del 1° ottobre 1945, l'[art. 91 del regio decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e' sostituito dal seguente:
  "Ai caporali e soldati vincolati con rafferma o ferma speciale, che siano ammogliati o vedovi con prole, convivente ed a carico, minore od inabile al lavoro, e' concessa una indennita' speciale di lire 750 mensili, oltre una indennita' supplementare di lire 300 pure mensili per la moglie e per ogni figlio convivente ed a carico, minore o inabile al lavoro.
  L'indennita' di cui sopra e' ridotta a lire 300 per i militari provvisti di alloggio in natura, ferme restando le indennita' supplementari".
 

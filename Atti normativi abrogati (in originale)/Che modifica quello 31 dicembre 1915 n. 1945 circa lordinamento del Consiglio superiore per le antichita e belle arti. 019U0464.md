@@ -20,11 +20,11 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 27 giugno 1907, n. 386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md), e il regolamento approvato con [R. decreto 1° agosto 1907, n. 608](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2027%20giugno%201907%20n.%20386%20sul%20Consiglio%20superiore%20sugli%20uffici%20e%20il%20personale%20delle%20Antichita%20e%20Belle%20arti.%20007U0608.md);
+Vista la [legge 27 giugno 1907, n. 386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md), e il regolamento approvato con [R. decreto 1° agosto 1907, n. 608](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2027%20giugno%201907%20n.%20386%20sul%20Consiglio%20superiore%20sugli%20uffici%20e%20il%20personale%20delle%20Antichita%20e%20Belle%20arti.%20007U0608.md);
 
 Visto il decreto 11 aprile 1915, n. 723;
 
-Vista la [legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734), ed il regolamento approvato con [R. decreto 8 maggio 1913, numero 1052](Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20la%20Commissione%20permanente%20per%20le%20arti%20musicali%20e%20drammatica.%20013U1052.md);
+Vista la [legge 6 luglio 1912, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;734), ed il regolamento approvato con [R. decreto 8 maggio 1913, numero 1052](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20nuovo%20regolamento%20per%20la%20Commissione%20permanente%20per%20le%20arti%20musicali%20e%20drammatica.%20013U1052.md);
 
 Visto il decreto Luogotenenziale 31 dicembre 1915, n. 1945; Sulla proposta del ministro segretario di Stato per la istruzione pubblica; Abbiamo decretato e decretiamo:
 
@@ -40,7 +40,7 @@ L'[art. 1 del decreto Luogotenenziale 31 dicembre 1915, n. 1945](https://www.nor
 
 ## Art. 2.
 
-Fra i membri della terza sezione tre sono designati al ministro da votazione fra gli artisti italiani, la quale seguira' con le norme determinate dal regolamento approvato con [R. decreto 1° agosto 1907, n. 608](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2027%20giugno%201907%20n.%20386%20sul%20Consiglio%20superiore%20sugli%20uffici%20e%20il%20personale%20delle%20Antichita%20e%20Belle%20arti.%20007U0608.md), modificato col [R. decreto 11 aprile 1915, n. 723](Portante%20modificazioni%20al%20regolamento%20approvato%20con%20R.%20decreto%201%20agosto%201907%20n.%20608%20per%20lesecuzione%20della%20legge%2027%20giugno%201907%20n.%20386%20sul%20Consiglio%20superiore%20gli%20uffici%20ed%20il%20personale%20de_955f4d1a6431.md). 
+Fra i membri della terza sezione tre sono designati al ministro da votazione fra gli artisti italiani, la quale seguira' con le norme determinate dal regolamento approvato con [R. decreto 1° agosto 1907, n. 608](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2027%20giugno%201907%20n.%20386%20sul%20Consiglio%20superiore%20sugli%20uffici%20e%20il%20personale%20delle%20Antichita%20e%20Belle%20arti.%20007U0608.md), modificato col [R. decreto 11 aprile 1915, n. 723](../Regi%20decreti/Portante%20modificazioni%20al%20regolamento%20approvato%20con%20R.%20decreto%201%20agosto%201907%20n.%20608%20per%20lesecuzione%20della%20legge%2027%20giugno%201907%20n.%20386%20sul%20Consiglio%20superiore%20gli%20uffici%20ed%20il%20personale%20de_955f4d1a6431.md). 
  
  Compiuta la votazione, saranno formate tre terne, una per i pittori, una per gli scultori ed una per gli architetti, includendo in ciascuna di esse i nomi degli artisti che abbiano ottenuto maggior numero di voti. In ciascuna delle tre terne il ministro scegliera' la persona da proporre alla nomina Regia.
 

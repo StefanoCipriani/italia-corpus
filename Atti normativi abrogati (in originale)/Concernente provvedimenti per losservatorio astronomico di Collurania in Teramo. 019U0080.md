@@ -42,7 +42,7 @@ La direzione dell'Osservatorio sara' affidata ad un funzionario del ruolo scient
 
 ## Art. 4.
 
-Alla tabella N, allegata al testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' recata la seguente aggiunta sotto la rubrica dei Regi osservatori astronomici autonomi: 
+Alla tabella N, allegata al testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' recata la seguente aggiunta sotto la rubrica dei Regi osservatori astronomici autonomi: 
  
  Un posto di subalterno di 1ª classe (L. 1200) per il R. osservatorio Vincenzo Cerulli in Teramo. 
  

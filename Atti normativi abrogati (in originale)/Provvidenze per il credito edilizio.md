@@ -49,7 +49,7 @@ Il Ministero del tesoro corrispondera' agli istituti emittenti il premio di cui 
 
 ## Art. 5.
 
-All'onere derivante dalle provvidenze stabilite nel precedente art. 1, valutato per l'anno 1970 in lire 3.236 milioni, si provvede con una quota degli utili della gestione 1969 dell'Istituto di emissione da versare allo Stato ai sensi dell'[art. 23 del regio decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204#art_23).
+All'onere derivante dalle provvidenze stabilite nel precedente art. 1, valutato per l'anno 1970 in lire 3.236 milioni, si provvede con una quota degli utili della gestione 1969 dell'Istituto di emissione da versare allo Stato ai sensi dell'[art. 23 del regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
  Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti alle occorrenti variazioni di bilancio.
 
 ## Art. 6.

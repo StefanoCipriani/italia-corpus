@@ -14,7 +14,7 @@ E' convertito in legge il [R. decreto 3 aprile 1928, n. 710](https://www.normatt
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 18 marzo 1928, n. 655](17ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201927-28.%20028U0655.md), e [15 aprile 1928, n. 841](18ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201927-28.%20028U0841.md), che autorizzano, rispettivamente, la 17ª e la 18ª prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1927-28. 
+Sono convalidati i [Regi decreti 18 marzo 1928, n. 655](../Regi%20decreti/17ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201927-28.%20028U0655.md), e [15 aprile 1928, n. 841](../Regi%20decreti/18ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201927-28.%20028U0841.md), che autorizzano, rispettivamente, la 17ª e la 18ª prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1927-28. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

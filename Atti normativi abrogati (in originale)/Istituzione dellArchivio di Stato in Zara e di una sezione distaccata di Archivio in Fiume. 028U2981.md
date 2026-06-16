@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163);
+Visto il regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), concernente la facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -38,7 +38,7 @@ E' istituita a Fiume una sezione distaccata di Archivio, organicamente dipendent
 
 ## Art. 3.
 
-Sono estese alla provincia del Carnaro le norme sancite al titolo I (dall'art. 1 all'art. 11), titolo II (dall'art. 44 all'art. 57) e titolo III del regolamento per gli Archivi di Stato approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), con le modificazioni ed aggiunte approvate coi [Regi decreti 26 ottobre 1916, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-10-26;1687) e [n. 1688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-10-26;1688), e con la [legge 31 marzo 1921, n. 378](Relativa%20alla%20cessione%20gratuita%20per%20anni%20cinque%20alla%20Croce%20rossa%20italiana%20dei%20rifiuti%20di%20archivio%20e%20mobili%20inservibili.%20021U0378.md).
+Sono estese alla provincia del Carnaro le norme sancite al titolo I (dall'art. 1 all'art. 11), titolo II (dall'art. 44 all'art. 57) e titolo III del regolamento per gli Archivi di Stato approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), con le modificazioni ed aggiunte approvate coi [Regi decreti 26 ottobre 1916, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-10-26;1687) e [n. 1688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1916-10-26;1688), e con la [legge 31 marzo 1921, n. 378](Relativa%20alla%20cessione%20gratuita%20per%20anni%20cinque%20alla%20Croce%20rossa%20italiana%20dei%20rifiuti%20di%20archivio%20e%20mobili%20inservibili.%20021U0378.md).
 
 ## Art. 4.
 

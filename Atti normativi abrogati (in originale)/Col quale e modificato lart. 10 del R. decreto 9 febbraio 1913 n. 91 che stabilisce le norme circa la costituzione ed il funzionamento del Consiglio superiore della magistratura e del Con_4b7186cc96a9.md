@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 10 del R. decreto 9 febbraio 1913, n. 91](Col%20quale%20sono%20stabilite%20le%20norme%20circa%20la%20costituzione%20rinnovazione%20e%20funzionamento%20del%20Consiglio%20superiore%20della%20magistratura%20e%20del%20Consiglio%20giudiziario%20centrale.%20013U0091.md), e' cosi' modificato: 
+L'[art. 10 del R. decreto 9 febbraio 1913, n. 91](../Regi%20decreti/Col%20quale%20sono%20stabilite%20le%20norme%20circa%20la%20costituzione%20rinnovazione%20e%20funzionamento%20del%20Consiglio%20superiore%20della%20magistratura%20e%20del%20Consiglio%20giudiziario%20centrale.%20013U0091.md), e' cosi' modificato: 
  
  «Al Consiglio superiore sono addetti due funzionari di carriera amministrativa del Ministero di grazia e giustizia, uno dei quali di grado non inferiore a capo sezione con le funzioni di segretario, e l'altro di grado non superiore a primo segretario con le funzioni di vice segretario. 
  

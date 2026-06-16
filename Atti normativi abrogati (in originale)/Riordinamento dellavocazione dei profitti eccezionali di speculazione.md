@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 27 maggio 1946, numero 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), concernente l'avocazione allo Stato dei profitti di guerra e dei profitti eccezionali di speculazione;
+Visto il [regio decreto legislativo 27 maggio 1946, numero 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), concernente l'avocazione allo Stato dei profitti di guerra e dei profitti eccezionali di speculazione;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 22 dicembre 1946, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-22;508), recante modificazioni alle norme sull'avocazione dei profitti eccezionali di speculazione;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze e il tesoro, di concerto con il Minis
 
 ## Art. 1.
 
-L'[art. 18 del regio decreto legislativo 27 maggio 1946 n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e' sostituito dal seguente:
+L'[art. 18 del regio decreto legislativo 27 maggio 1946 n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), e' sostituito dal seguente:
  "Sono avocati allo Stato i profitti eccezionali di contingenza conseguiti dal 1° gennaio 1939 in dipendenza:
  a) dell'esercizio di qualsiasi attivita' in contrasti con le disposizioni concernenti il conferimento obbligatorio od il blocco delle merci e delle derrate, o la limitazione dei prezzi;
  b) delle rivalutazioni delle merci soggette a limitazione o disciplina dei prezzi, giacenti presso importatori, assegnatori, grossisti e distributori, a seguito di concessione di aumento dei prezzi. La stessa norma si applica in confronto dei produttori, limitatamente ai quantitativi che eccedano la consistenza necessaria per assicurare il normale andamento del ciclo produttivo;

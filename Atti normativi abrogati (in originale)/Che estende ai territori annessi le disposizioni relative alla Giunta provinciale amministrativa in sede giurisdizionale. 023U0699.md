@@ -28,9 +28,9 @@ Nei territori annessi al. Regno in virtu' dell'[art. 3 della legge 26 settembre 
  
  1° il testo unico delle leggi relative alle attribuzioni della Giunta provinciale amministrativa in sede giurisdizionale, approvato con R. decreto 17 agosto 1907, 639; 
  
- 2° il regolamento di procedura davanti alla Giunta provinciale amministrativa in sede giurisdizionale, approvato con [R. decreto 17 agosto 1907, n. 643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;643); 
+ 2° il regolamento di procedura davanti alla Giunta provinciale amministrativa in sede giurisdizionale, approvato con [R. decreto 17 agosto 1907, n. 643](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0643.md); 
  
- 3° il regolamento per la segreteria della Giunta provinciale amministrativa negli affari giurisdizionali, approvato con [R decreto 17 agosto 1907, n. 644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;644).
+ 3° il regolamento per la segreteria della Giunta provinciale amministrativa negli affari giurisdizionali, approvato con [R decreto 17 agosto 1907, n. 644](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0644.md).
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ Per la esecuzione di opere pubbliche di bonifica, compresa la ricostruzione e ri
 
 ## Art. 2.
 
-Per la concessione di sussidi per la esecuzione delle opere di competenza privata previste dal [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e' autorizzata la spesa di lire un miliardo.
+Per la concessione di sussidi per la esecuzione delle opere di competenza privata previste dal [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' autorizzata la spesa di lire un miliardo.
 
 ## Art. 3.
 

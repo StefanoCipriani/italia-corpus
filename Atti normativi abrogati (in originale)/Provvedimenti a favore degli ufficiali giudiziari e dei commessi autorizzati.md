@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari, approvato con [regio decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e l'allegato n. 2;
+Visto il testo organico dell'ordinamento del personale degli ufficiali giudiziari, approvato con [regio decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e l'allegato n. 2;
 
 Visto il [regio decreto-legge 19 aprile 1934, n. 698](Modifiche%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0698.md), convertito nella, [legge 4 giugno 1934, n. 900](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2019%20aprile%201934%20n.%20698%20contenente%20modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20giudiziari.%20034U0900.md);
 
@@ -24,7 +24,7 @@ Visto il [decreto legislativo luogotenenziale 14 settembre 1945, n. 699](../Decr
 
 Visto il [decreto legislativo luogotenenziale 29 marzo 1946, n. 176](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20loro%20commessi%20autorizzati.md).
 
-Visto il [regio decreto legislativo 29 maggio 1946, numero 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-29;488);
+Visto il [regio decreto legislativo 29 maggio 1946, numero 488](../Regi%20decreti%20legislativi/Modificazioni%20delle%20disposizioni%20vigenti%20per%20la%20liquidazione%20della%20indennita%20di%20carovita%20e%20per%20la%20concessione%20dellindennita%20ai%20dipendenti%20statali%20residenti%20in%20Comuni%20distrutti%20o%20gravement_f04ea74b5da4.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;263);
 
@@ -73,7 +73,7 @@ All'[art. 2 del decreto legislativo luogotenenziale 29 marzo 1946, n. 176](../De
 
 ## Art. 8.
 
-Agli ufficiali giudiziari ed ai loro commessi e' esteso il disposto dell'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;265#art_2), relativo alla soppressione delle aliquote di riduzione dell'indennita' di carovita e delle eventuali quote complementari previste dall'[art. 1 del regio decreto legislativo 29 maggio 1946 n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-29;488#art_1).
+Agli ufficiali giudiziari ed ai loro commessi e' esteso il disposto dell'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;265#art_2), relativo alla soppressione delle aliquote di riduzione dell'indennita' di carovita e delle eventuali quote complementari previste dall'[art. 1 del regio decreto legislativo 29 maggio 1946 n. 488](../Regi%20decreti%20legislativi/Modificazioni%20delle%20disposizioni%20vigenti%20per%20la%20liquidazione%20della%20indennita%20di%20carovita%20e%20per%20la%20concessione%20dellindennita%20ai%20dipendenti%20statali%20residenti%20in%20Comuni%20distrutti%20o%20gravement_f04ea74b5da4.md).
 
 ## Art. 9.
 

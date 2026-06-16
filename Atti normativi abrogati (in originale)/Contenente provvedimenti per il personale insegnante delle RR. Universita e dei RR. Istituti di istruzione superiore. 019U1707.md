@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzio
 
 ## Art. 1.
 
-Lo stipendio dei professori ordinari delle RR. Universita' e dei RR. Istituti di istruzione superiore indicati nella tabella D annessa al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' di L. 10,000, quello dei professori straordinari e' di L. 8000. 
+Lo stipendio dei professori ordinari delle RR. Universita' e dei RR. Istituti di istruzione superiore indicati nella tabella D annessa al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' di L. 10,000, quello dei professori straordinari e' di L. 8000. 
  
  Gli stipendi dei professori ordinari si accrescono sino ad un massimo di L. 13,200 con tre aumenti quinquennali della misura di L. 1000 ciascuno i primi due e di L. 1200 il terzo. 
  
@@ -33,7 +33,7 @@ Lo stipendio dei professori ordinari delle RR. Universita' e dei RR. Istituti di
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -50,7 +50,7 @@ Gli incarichi conferiti ai professori ufficiali sono retribuiti con un'indennita
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 4.
 
@@ -63,7 +63,7 @@ Ai professori che prima della loro nomina a straordinario o ad ordinario abbiano
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -72,7 +72,7 @@ La indennita' ai rettori e' fissata in L. 2800 annue.
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 6.
 
@@ -90,7 +90,7 @@ Il limite dello stipendio per la concessione dell'indennita' caroviveri di cui a
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 13 maggio 1920, n. 929](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 9.
 

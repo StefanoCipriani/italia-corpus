@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Veduta la [legge 14 luglio 1887, n. 4759](Concernente%20labolizione%20della%20Cassa%20militare%20e%20passaggio%20al%20bilancio%20dello%20Stato%20degli%20oneri%20che%20ne%20conseguono.%20087U4759.md) (serie 3ª) che aboliva da Cassa militare istituita con la [legge 7 luglio 1866, n. 3062](Per%20laffrancazione%20dal%20servizio%20militare%20e%20il%20riassoldamento%20con%20premio.%20066U3062.md);
 
-Veduto il [R. decreto 14 luglio 1889, n. 6279](Col%20quale%20lAmministrazione%20della%20Cassa%20militare%20cessa%20definitivamente%20dalle%20sue%20funzioni%20con%20la%20chiusura%20dellesercizio%201888%2089.%20089U6279.md) (serie 3ª) col quale veniva determinata la cessazione di detta Cassa militare alla chiusura dell'esercizio 1888-889 e il passaggio dei relativi servizi di stralcio alla Cassa dei depositi e prestiti;
+Veduto il [R. decreto 14 luglio 1889, n. 6279](../Regi%20decreti/Col%20quale%20lAmministrazione%20della%20Cassa%20militare%20cessa%20definitivamente%20dalle%20sue%20funzioni%20con%20la%20chiusura%20dellesercizio%201888%2089.%20089U6279.md) (serie 3ª) col quale veniva determinata la cessazione di detta Cassa militare alla chiusura dell'esercizio 1888-889 e il passaggio dei relativi servizi di stralcio alla Cassa dei depositi e prestiti;
 
 Considerato che il fondo in rendita consolidata all'uopo messa a disposizione della Cassa depositi e prestiti verra' ad esaurirsi nel corrente esercizio;
 
@@ -32,7 +32,7 @@ Sulla proposta del ministro segretario di Stato per gli affari del tesoro; Abbia
 
 ## Art. 1.
 
-Quando sia esaurito il fondo messo a disposizione della Cassa depositi e prestiti con l'[art. 4 del R. decreto 14 luglio 1889, n. 6279](Col%20quale%20lAmministrazione%20della%20Cassa%20militare%20cessa%20definitivamente%20dalle%20sue%20funzioni%20con%20la%20chiusura%20dellesercizio%201888%2089.%20089U6279.md) (serie 3ª) per i servizi di stralcio delle Cassa Militare, la Cassa depositi provvedera' al pagamento delle pensioni vitalizie di riassoldamento di L. 300 annue, fino alla loro completa estinzione, con anticipazioni sui fondi propri, al saggio di interesse dei depositi volontari.
+Quando sia esaurito il fondo messo a disposizione della Cassa depositi e prestiti con l'[art. 4 del R. decreto 14 luglio 1889, n. 6279](../Regi%20decreti/Col%20quale%20lAmministrazione%20della%20Cassa%20militare%20cessa%20definitivamente%20dalle%20sue%20funzioni%20con%20la%20chiusura%20dellesercizio%201888%2089.%20089U6279.md) (serie 3ª) per i servizi di stralcio delle Cassa Militare, la Cassa depositi provvedera' al pagamento delle pensioni vitalizie di riassoldamento di L. 300 annue, fino alla loro completa estinzione, con anticipazioni sui fondi propri, al saggio di interesse dei depositi volontari.
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 5 ottobre 1920, n. 1432](Concernente%20la%20conversione%20in%20legge%20del%20R.%20decreto%2027%20novembre%201919%20n.%202350%20che%20autorizza%20lAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20investire%20una%20parte%20dei%20fondi%20della%20gestione%20pensi_73300c079a71.md);
 
-Visto il [R. decreto 25 novembre 1920, n. 1726](Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md);
+Visto il [R. decreto 25 novembre 1920, n. 1726](../Regi%20decreti/Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md);
 
 Sentito il Commissario straordinario per le ferrovie dello Stato;
 

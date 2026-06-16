@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-L'[articolo 1 del regio decreto 18 maggio 1931, numero 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544#art_1), anche per quanto riguarda la edilizia universitaria e affine, deve interpretarsi nel senso che spetti al Ministero dei lavori pubblici provvedere sia ai lavori di costruzione, ampliamento, trasformazione, sistemazione, sia a quelli di manutenzione ordinaria e straordinaria degli immobili di proprieta' dello Stato a servizio delle Universita' e degli Istituti superiori di istruzione, anche nel caso che alla relativa spesa si provveda con le normali autorizzazioni di bilancio.
+L'[articolo 1 del regio decreto 18 maggio 1931, numero 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), anche per quanto riguarda la edilizia universitaria e affine, deve interpretarsi nel senso che spetti al Ministero dei lavori pubblici provvedere sia ai lavori di costruzione, ampliamento, trasformazione, sistemazione, sia a quelli di manutenzione ordinaria e straordinaria degli immobili di proprieta' dello Stato a servizio delle Universita' e degli Istituti superiori di istruzione, anche nel caso che alla relativa spesa si provveda con le normali autorizzazioni di bilancio.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -48,7 +48,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-I fondi iscritti nello stato di previsione del Ministero dei lavori pubblici ai sensi dell'[articolo 1 della legge 8 luglio 1980, n. 326](Autorizzazione%20di%20spesa%20per%20la%20concessione%20di%20un%20contributo%20per%20il%20completamento%20del%20bacino%20di%20carenaggio%20del%20porto%20di%20Livorno.md), non impegnati sino alla data del 31 dicembre 1985, sono conservati nel conto dei residui passivi oltre il termine di cui all'[articolo 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36), e successive modificazioni, ed in ogni caso non oltre il 31 dicembre 1986.
+I fondi iscritti nello stato di previsione del Ministero dei lavori pubblici ai sensi dell'[articolo 1 della legge 8 luglio 1980, n. 326](Autorizzazione%20di%20spesa%20per%20la%20concessione%20di%20un%20contributo%20per%20il%20completamento%20del%20bacino%20di%20carenaggio%20del%20porto%20di%20Livorno.md), non impegnati sino alla data del 31 dicembre 1985, sono conservati nel conto dei residui passivi oltre il termine di cui all'[articolo 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, ed in ogni caso non oltre il 31 dicembre 1986.
 
 ## Art. 4.
 

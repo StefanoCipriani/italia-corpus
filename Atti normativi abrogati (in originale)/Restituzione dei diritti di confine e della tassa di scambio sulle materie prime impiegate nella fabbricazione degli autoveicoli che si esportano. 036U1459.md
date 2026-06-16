@@ -24,7 +24,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita' urgente ed assoluta di integrare le disposizioni concernenti la restituzione dei diritti di confine e della tassa di scambio sulle materie prime impiegate nella fabbricazione degli autoveicoli che si esportano;
 
-Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
+Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), successivamente modificato;
 
 Sentito il Consiglio del Ministri;
 

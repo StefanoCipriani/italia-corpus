@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[articolo 6 della legge 19 luglio 1906, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-19;367#art_6), sull'ordinamento della R. guardia di finanza, modificato ai termini delle [leggi 12 luglio 1908, n. 427, e 5 giugno 1913, n. 550](Concernente%20provvedimenti%20per%20la%20R.%20guardia%20di%20finanza.%20013U0550.md);
 
-Visto il [R. decreto 1° agosto 1913, n. 1002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-01;1002), che fissa le norme per l'avanzamento degli ufficiali e dei sottufficiali della R. guardia di finanza;
+Visto il [R. decreto 1° agosto 1913, n. 1002](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20norme%20per%20lavanzamento%20nei%20vari%20gradi%20della%20R.%20guardia%20di%20finanza.%20013U1002.md), che fissa le norme per l'avanzamento degli ufficiali e dei sottufficiali della R. guardia di finanza;
 
 Sentito il parere del Consiglio di Stato;
 

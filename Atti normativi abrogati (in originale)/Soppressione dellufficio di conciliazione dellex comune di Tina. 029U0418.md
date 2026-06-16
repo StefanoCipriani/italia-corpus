@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 29 gennaio 1928, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-29;175), col quale il comune di Tina e' stato soppresso ed il rispettivo territorio aggregato a quello di Vestigne'; 
+ Visto il [R. decreto 29 gennaio 1928, n. 175](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Vestigne%20e%20Tina%20in%20un%20unico%20Comune%20denominato%20Vestigne.%20028U0175.md), col quale il comune di Tina e' stato soppresso ed il rispettivo territorio aggregato a quello di Vestigne'; 
  
  Vista la deliberazione del commissario prefettizio di Vestigne', rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Tina; 
  

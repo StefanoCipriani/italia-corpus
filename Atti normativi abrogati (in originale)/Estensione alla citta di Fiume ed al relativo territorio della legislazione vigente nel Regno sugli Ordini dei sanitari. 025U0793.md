@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 Nella citta' di Fiume e nel relativo territorio, annessi al Regno col [R. decreto-legge 22 febbraio 1924, n. 211](Approvazione%20dellAccordo%20concluso%20fra%20lItalia%20ed%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni%20sottoscritto%20a%20Roma%20il%2027%20gennaio%201924%20col%20quale%20si%20stabilisce%20che%20la%20citta%20di%20Fiume%20ed%20il%20territorio%20_db1707827c7e.md), sono estese, con le norme transitorie, di cui ai successivi articoli: 
  
- l'art. 53, 1°, [2°](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_com2) e [3° comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_com3) 1° agosto 1907, n. 636; 
+ l'art. 53, 1°, [2°](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [3° comma, del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636; 
  
  la [legge 10 luglio 1910, n. 455](Norme%20per%20gli%20ordini%20dei%20sanitari.%20010U0455.md), sugli Ordini dei medici Chirurgi, dei veterinari e dei farmacisti; 
  

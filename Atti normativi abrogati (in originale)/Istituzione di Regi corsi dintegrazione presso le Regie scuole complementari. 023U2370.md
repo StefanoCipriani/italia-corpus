@@ -40,7 +40,7 @@ Le materie d'insegnamento, gli orari e le modalita' d'iscrizione saranno stabili
 
 ## Art. 5.
 
-Tutti gli insegnamenti del corso d'integrazione quando non possono essere affidati, senza diritto a retribuzione, a quegli insegnanti di ruolo della locale Regia scuola complementare e del locale Regio ginnasio che non abbiano modo, a causa del numero delle classi esistenti nell'istituto del quale sono titolari, di completare l'obbligo d'orario stabilito rispettivamente dalle tabelle 7 e 8 del succitato [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), sono conferiti per incarico e saranno retribuiti nella misura stabilita dalla tabella 6 annessa al citato Regio decreto. 
+Tutti gli insegnamenti del corso d'integrazione quando non possono essere affidati, senza diritto a retribuzione, a quegli insegnanti di ruolo della locale Regia scuola complementare e del locale Regio ginnasio che non abbiano modo, a causa del numero delle classi esistenti nell'istituto del quale sono titolari, di completare l'obbligo d'orario stabilito rispettivamente dalle tabelle 7 e 8 del succitato [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sono conferiti per incarico e saranno retribuiti nella misura stabilita dalla tabella 6 annessa al citato Regio decreto. 
  
  La direzione del corso e' affidata al preside della Regia scuola complementare senza speciale retribuzione.
 

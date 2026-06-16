@@ -12,7 +12,7 @@ vigente: true
 
 Il Commissariato generale per la pesca, istituito presso la Presidenza del Consiglio dei Ministri, e' soppresso. 
  
- Sono devoluti al Ministero dell'agricoltura e delle foreste i servizi attinenti alla pesca gia' ad esso attribuiti dall'art. 16 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604). 
+ Sono devoluti al Ministero dell'agricoltura e delle foreste i servizi attinenti alla pesca gia' ad esso attribuiti dall'art. 16 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md). 
  
  Il presente decreto entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'art. 112 della legge doganale, testo unico approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e successivamente modificato;
+Visto l'art. 112 della legge doganale, testo unico approvato con [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e successivamente modificato;
 
 Visto l'art. 57 del testo unico di leggi per l'imposta sugli spiriti, approvato con decreto Ministeriale 8 luglio 1924 e successive modificazioni;
 
@@ -30,7 +30,7 @@ Visto il [R. decreto-legge 13 maggio 1935, n. 894](Istituzione%20di%20uno%20spec
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente ed assoluta di coordinare le norme contenute nelle leggi suindicate in materia di commutabilita' delle ammende e multe non pagate con quelle del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di stabilire inoltre una sanzione per la inesatta dichiarazione, all'importazione, del valore delle merci colpite da diritto di licenza;
+Ritenuta la necessita' urgente ed assoluta di coordinare le norme contenute nelle leggi suindicate in materia di commutabilita' delle ammende e multe non pagate con quelle del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di stabilire inoltre una sanzione per la inesatta dichiarazione, all'importazione, del valore delle merci colpite da diritto di licenza;
 
 Sentito il Consiglio dei Ministri;
 
@@ -38,7 +38,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Sono abrogati: l'art. 112 della legge doganale, testo unico approvato con il [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), successivamente modificato; l'art. 57 del testo unico di leggi per l'imposta sugli spiriti e l'art. 27 del testo unico di leggi per l'imposta sullo zucchero, approvati con decreto Ministeriale dell'8 luglio 1924 e successivamente modificati; l'art. 27 del testo unico di leggi per l'imposta sugli oli di semi, approvato con [R. decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), convertito nella [legge 18 gennaio 1934, n. 231 e l'art. 19](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201314%20riguardante%20il%20regime%20fiscale%20degli%20oli%20di%20semi.%20034U0231.md) del [R. decreto-legge 16 gennaio 1936, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-16;54), convertito nella [legge 4 giugno 1936, n. 1334](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20gennaio%201936-XIV%20n.%2054%20portante%20modificazioni%20alla%20tariffa%20generale%20dei%20dazi%20doganali%20listituzione%20di%20una%20imposta%20di%20fabbric_c44448437006.md).
+Sono abrogati: l'art. 112 della legge doganale, testo unico approvato con il [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), successivamente modificato; l'art. 57 del testo unico di leggi per l'imposta sugli spiriti e l'art. 27 del testo unico di leggi per l'imposta sullo zucchero, approvati con decreto Ministeriale dell'8 luglio 1924 e successivamente modificati; l'art. 27 del testo unico di leggi per l'imposta sugli oli di semi, approvato con [R. decreto-legge 5 ottobre 1933, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-05;1314), convertito nella [legge 18 gennaio 1934, n. 231 e l'art. 19](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%205%20ottobre%201933%20n.%201314%20riguardante%20il%20regime%20fiscale%20degli%20oli%20di%20semi.%20034U0231.md) del [R. decreto-legge 16 gennaio 1936, n. 54](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-01-16;54), convertito nella [legge 4 giugno 1936, n. 1334](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20gennaio%201936-XIV%20n.%2054%20portante%20modificazioni%20alla%20tariffa%20generale%20dei%20dazi%20doganali%20listituzione%20di%20una%20imposta%20di%20fabbric_c44448437006.md).
 
 ## Art. 2.
 

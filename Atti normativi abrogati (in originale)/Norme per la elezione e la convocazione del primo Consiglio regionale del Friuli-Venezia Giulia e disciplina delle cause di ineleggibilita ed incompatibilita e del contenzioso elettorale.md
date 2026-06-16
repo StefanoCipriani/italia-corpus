@@ -36,7 +36,7 @@ Il numero dei consiglieri regionali e' in ragione di uno ogni
 ### Art. 3. — Applicabilita' del testo unico delle leggi
  per l'elezione della Camera dei deputati
 
-Salvo quanto diversamente disposto dalla presente legge, per le elezioni dei consiglieri regionali si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md).
+Salvo quanto diversamente disposto dalla presente legge, per le elezioni dei consiglieri regionali si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md).
  Per l'applicazione del citato testo unico le parole:
  "Camera dei deputati", "deputato", "Segreteria della Camera dei deputati", si intendono sostituite rispettivamente con le seguenti: "Consiglio regionale", "consigliere regionale", "Cancelleria della Corte di appello".
 
@@ -83,7 +83,7 @@ Non sono eleggibili a consigliere regionale:
 ### Art. 9. — Altre cause di ineleggibilita'
 
 Sono, altresi', ineleggibili coloro che hanno il maneggio del denaro della Regione e non hanno ancora reso il conto.
- Si applicano alla elezione dei consiglieri regionali le disposizioni degli articoli 8, 9 e 10 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), intendendosi riferiti alla Regione anziche' allo Stato i motivi di ineleggibilita' indicati nell'articolo 10.
+ Si applicano alla elezione dei consiglieri regionali le disposizioni degli articoli 8, 9 e 10 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), intendendosi riferiti alla Regione anziche' allo Stato i motivi di ineleggibilita' indicati nell'articolo 10.
 
 ### Art. 10. — Decadenza per sopravvenute cause di ineleggibilita'
 
@@ -334,7 +334,7 @@ Gli articoli di cui al Titolo II ed al Titolo IV della presente legge hanno vigo
 
 Le spese, per la prima elezione del Consiglio regionale della Regione Friuli-Venezia Giulia sono a carico dello Stato. 
  Alla spesa derivante dall'attuazione della presente legge sara' provveduto con gli stanziamenti previsti dallo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1963-64. 
- Per le aperture di credito inerenti al pagamento delle spese predette e' autorizzata la deroga alle limitazioni previste dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni. 
+ Per le aperture di credito inerenti al pagamento delle spese predette e' autorizzata la deroga alle limitazioni previste dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni. 
  Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle variazioni da introdurre in bilancio in dipendenza delle disposizioni della presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

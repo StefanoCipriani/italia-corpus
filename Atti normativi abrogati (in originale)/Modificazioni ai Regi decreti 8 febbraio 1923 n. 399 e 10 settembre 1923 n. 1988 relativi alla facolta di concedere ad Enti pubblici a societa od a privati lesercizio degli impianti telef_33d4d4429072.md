@@ -90,7 +90,7 @@ Alla scadenza di ognuna delle concessioni telefoniche di cui all'articolo preced
 
 Il personale dell'Amministrazione delle poste e telegrafi che al 30 aprile 1919 apparteneva al ruolo speciale dei telefoni dello Stato, e quello posteriormente nominato in ruolo per il servizio dei telefoni, e' comandato presso le rispettive societa' all'atto della cessione degli impianti per un periodo di tempo non superiore ad un anno. 
  
- E' fatta eccezione pel personale passato nel ruolo speciale delle ragionerie centrali ai sensi del [R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599). 
+ E' fatta eccezione pel personale passato nel ruolo speciale delle ragionerie centrali ai sensi del [R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md). 
  
  E' in facolta' del Ministero delle comunicazioni di trattenere negli uffici alla dipendenza del Ministero stesso non oltre 60 impiegati appartenenti ai ruoli organici di cui al 1º comma del presente articolo. 
  

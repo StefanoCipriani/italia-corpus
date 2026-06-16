@@ -26,9 +26,9 @@ E' concessa amnistia per i seguenti reati:
  
  a) reati di azione pubblica preveduti nel Regio editto sulla stampa e nella [legge 6 maggio 1877, n. 3814](Che%20abroga%20lart.%2049%20della%20legge%20sullordinamento%20dei%20giurati%20e%20la%20prima%20parte%20dellart.%2010%20di%20quella%20sulla%20stampa%20e%20vi%20sostituisce%20altre%20disposizioni.%20077U3814.md); 
  
- b) reati contro la liberta' del lavoro ([art. 165](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [166](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [167 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
+ b) reati contro la liberta' del lavoro ([art. 165](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [166](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [167 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
  
- c) reati di esercizio arbitrario ed usurpazione ([art. 235](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [422](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [423 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)), determinati da pretese ragioni di usi civici; 
+ c) reati di esercizio arbitrario ed usurpazione ([art. 235](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [422](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [423 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)), determinati da pretese ragioni di usi civici; 
  
  d) reati di istigazione a delinquere, apologia di reati e di associazione a scopo sedizioso (art. 246, 247, 251). 
  
@@ -43,7 +43,7 @@ E' pure concessa amnistia per i seguenti reati, qualora siano commessi in occasi
  
  a) reati di violenza privata, manaccia o danneggiamento (art. 154, 156, 424 e 425); 
  
- b) reati di resistenza semplice all'autorita' e di oltraggio (art. 190 prima parte, 194 e 195 [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)), non accompagnati da reati contro la persona; 
+ b) reati di resistenza semplice all'autorita' e di oltraggio (art. 190 prima parte, 194 e 195 [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)), non accompagnati da reati contro la persona; 
  
 --------------- 
 Nota redazionale 
@@ -52,9 +52,9 @@ Nota redazionale
 
 ## Art. 3.
 
-E' concesso il condono di un anno sulle pene inflitte o da infliggersi, per reati di istigazione a delinquere e apologia di reati commessi con mezzo della stampa ([articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-16;315#art_1) e [2 legge 16 luglio 1894, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-16;315#art_2)), e di insurrezione armata contro i poteri dello Stato ([art. 120 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)). 
+E' concesso il condono di un anno sulle pene inflitte o da infliggersi, per reati di istigazione a delinquere e apologia di reati commessi con mezzo della stampa ([articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-16;315#art_1) e [2 legge 16 luglio 1894, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-16;315#art_2)), e di insurrezione armata contro i poteri dello Stato ([art. 120 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)). 
  
- Sono condonate anche le pene della temporanea interdizione dai pubblici uffici, incorse per i reati d'indebio abbandono d'ufficio ([art. 181 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)).
+ Sono condonate anche le pene della temporanea interdizione dai pubblici uffici, incorse per i reati d'indebio abbandono d'ufficio ([art. 181 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)).
 
 ## Art. 4.
 
@@ -66,9 +66,9 @@ Fuori dei casi contemplati nelle precedenti disposizioni, sono condonate le pene
 
 E' altresi' concessa amnistia per i seguenti reati: 
  
- a) di furto semplice di estrema tenuita', ovvero commesso per indigenza su cose alimentari o nelle campagne su legna da ardere, frutti pendenti o raccolti, se il valore della cosa rubata non superi le lire dieci ([art. 402 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
+ a) di furto semplice di estrema tenuita', ovvero commesso per indigenza su cose alimentari o nelle campagne su legna da ardere, frutti pendenti o raccolti, se il valore della cosa rubata non superi le lire dieci ([art. 402 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)); 
  
- b) di spigolamento, abbandono di animali e pascolo abusivo su fondo altrui ([articoli 405](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [426 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)).
+ b) di spigolamento, abbandono di animali e pascolo abusivo su fondo altrui ([articoli 405](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [426 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)).
 
 ## Art. 6.
 

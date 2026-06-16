@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per riscuotere le tasse di iscrizione, le quote annuali e gli altri proventi, indicati nelle lettere a), b) e c) dell'art. 4 del R. decreto-legge 9 luglio 1926-IV, n. 1331, convertito nella legge 16 giugno 1927-V, n. 1132, l'Associazione nazionale per il controllo della combustione si vale, contro i debitori morosi, della procedura coattiva, stabilita dal testo unico delle leggi per la riscossione delle entrate patrimoniali dello Stato e di altri Enti pubblici, approvato con [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Per riscuotere le tasse di iscrizione, le quote annuali e gli altri proventi, indicati nelle lettere a), b) e c) dell'art. 4 del R. decreto-legge 9 luglio 1926-IV, n. 1331, convertito nella legge 16 giugno 1927-V, n. 1132, l'Associazione nazionale per il controllo della combustione si vale, contro i debitori morosi, della procedura coattiva, stabilita dal testo unico delle leggi per la riscossione delle entrate patrimoniali dello Stato e di altri Enti pubblici, approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 2.
 

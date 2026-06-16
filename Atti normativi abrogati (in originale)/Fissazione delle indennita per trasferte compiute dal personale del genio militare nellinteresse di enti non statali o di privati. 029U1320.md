@@ -22,7 +22,7 @@ Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle
 
 Visto il decreto Ministeriale 14 agosto 1925, riguardante le competenze mantenute in vigore per i personali dell'Amministrazione militare, e successive modificazioni;
 
-Visto l'[art. 11 del R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_11), che modifica l'[art. 180 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante il rimborso delle spese di viaggio al personale delle Amministrazioni dello Stato;
+Visto l'[art. 11 del R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), che modifica l'[art. 180 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante il rimborso delle spese di viaggio al personale delle Amministrazioni dello Stato;
 
 Udito il Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 2.
 
-Al personale del genio militare spettano per i servizi di cui sopra le indennita' di soggiorno stabilite dall'[art. 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), aumentate di quattro decimi, nonche' il rimborso delle spese di viaggio ai sensi dell'[art. 11 del R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_11), a tariffa intera, con l'aumento dei due decimi delle spese medesime, calcolate pero' a tariffa a meta' prezzo. 
+Al personale del genio militare spettano per i servizi di cui sopra le indennita' di soggiorno stabilite dall'[art. 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), aumentate di quattro decimi, nonche' il rimborso delle spese di viaggio ai sensi dell'[art. 11 del R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), a tariffa intera, con l'aumento dei due decimi delle spese medesime, calcolate pero' a tariffa a meta' prezzo. 
  
  Il presente decreto avra' vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

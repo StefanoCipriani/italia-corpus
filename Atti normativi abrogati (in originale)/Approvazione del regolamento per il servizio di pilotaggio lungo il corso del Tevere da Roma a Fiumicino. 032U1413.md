@@ -20,7 +20,7 @@ Visto il [R. decreto 8 agosto 1881, n. 2604](https://www.normattiva.it/uri-res/N
 
 Vista la [legge 6 maggio 1906, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-05-06;200), concernente la navigazione del Tevere fra Roma e il mare;
 
-Visto il [R. decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778), che approva il regolamento generale di pilotaggio;
+Visto il [R. decreto 29 aprile 1926, n. 778](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20il%20servizio%20pilotaggio%20nei%20porti%20dello%20Stato.%20026U0778.md), che approva il regolamento generale di pilotaggio;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per i lavori pubblici;
 

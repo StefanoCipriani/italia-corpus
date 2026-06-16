@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per le finanze, di concerto col 
 
 ## Art. 1.
 
-Nell'applicazione della tassa annuale di bollo stabilita dall'[art. 2 del R. decreto 21 novembre 1915, n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), sugli avvisi al pubblico fatti mediante pittura o con qualsiasi altro mezzo impressi su materia diversa dalla carta, compresi gli avvisi luminosi, in quanto vengano denunciati in numero non inferiore a 100 esemplari identici nella dicitura, forma e nelle dimensioni, e' concesso l'abbuono del 10 per cento sulla tassa corrispondente a 100 avvisi. 
+Nell'applicazione della tassa annuale di bollo stabilita dall'[art. 2 del R. decreto 21 novembre 1915, n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), sugli avvisi al pubblico fatti mediante pittura o con qualsiasi altro mezzo impressi su materia diversa dalla carta, compresi gli avvisi luminosi, in quanto vengano denunciati in numero non inferiore a 100 esemplari identici nella dicitura, forma e nelle dimensioni, e' concesso l'abbuono del 10 per cento sulla tassa corrispondente a 100 avvisi. 
  
  Quando la denuncia si riferisca ad oltre 100 avvisi il detto abbuono, da calcolarsi in misura unica, per tutti gli avvisi, e' aumentato del 5 per cento per ogni centinaio completo fino a raggiungere l'abbuono massimo del 40 per cento per gli avvisi denunciati in numero non inferiore a 700 esemplari. 
  
@@ -48,7 +48,7 @@ Per gli avvisi al pubblico, fatti mediante la pittura o con qualsiasi altro mezz
 
 ## Art. 4.
 
-Per gli avvisi stampali o manoscritti su carta presentati alla bollatura in numero superiore a cento i quali siano di dimensioni fino a settantacinque decimetri quadrati (tre quarti di metro quadrato) la tassa sara' applicata nella misura corrispondente alla somma delle tasse stabilite per le due prime dimensioni contemplate dal [R. decreto 21 novembre 1915 n. 1643](Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato C, cioe' centesimi quindici, in luogo di centesimi venti, salvi i competenti abbuoni. 
+Per gli avvisi stampali o manoscritti su carta presentati alla bollatura in numero superiore a cento i quali siano di dimensioni fino a settantacinque decimetri quadrati (tre quarti di metro quadrato) la tassa sara' applicata nella misura corrispondente alla somma delle tasse stabilite per le due prime dimensioni contemplate dal [R. decreto 21 novembre 1915 n. 1643](../Regi%20decreti/Col%20quale%20per%20provvedere%20ai%20bisogni%20straordinari%20del%20tesoro%20e%20dato%20valore%20di%20legge%20per%20la%20durata%20della%20guerra%20alle%20disposizioni%20contenute%20negli%20annessi%20allegati%20015U1643.md), allegato C, cioe' centesimi quindici, in luogo di centesimi venti, salvi i competenti abbuoni. 
  
  Il ministro proponente e' incaricato della esecuzione delle disposizioni del presente decreto le quali avranno applicazione il 1° gennaio 1916. 
  

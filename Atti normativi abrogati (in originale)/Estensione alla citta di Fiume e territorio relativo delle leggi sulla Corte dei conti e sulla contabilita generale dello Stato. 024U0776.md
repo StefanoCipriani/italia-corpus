@@ -29,7 +29,7 @@ Alla citta' di Fiume e territorio relativo, annessi al Regno d'Italia, in virtu'
  a) la [legge 14 agosto 1862, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-08-14;800), che istituisce la Corte 
  dei conti e relative modificazioni; 
  
- b) il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e le altre 
+ b) il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e le altre 
  disposizioni vigenti sull'amministrazione del patrimonio 
  e sulla contabilita' generale dello Stato. 
  

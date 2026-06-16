@@ -83,7 +83,7 @@ La deliberazione dell'assemblea straordinaria diretta ad uniformare l'atto costi
 
 ## Art. 14.
 
-I consorzi esercenti il credito costituiti secondo le leggi della cessata monarchia austro-ungarica, operanti nella Venezia Giulia e Tridentina e disciplinati dal primo capoverso dell'[art. 41, del regio decreto 4 novembre 1928, n. 2325](Disposizioni%20per%20lunificazione%20legislativa%20nei%20territori%20annessi%20al%20Regno.%20028U2325.md), possono conservare il loro attuale ordinamento e la denominazione di consorzi economici a garanzia limitata.
+I consorzi esercenti il credito costituiti secondo le leggi della cessata monarchia austro-ungarica, operanti nella Venezia Giulia e Tridentina e disciplinati dal primo capoverso dell'[art. 41, del regio decreto 4 novembre 1928, n. 2325](../Regi%20decreti/Disposizioni%20per%20lunificazione%20legislativa%20nei%20territori%20annessi%20al%20Regno.%20028U2325.md), possono conservare il loro attuale ordinamento e la denominazione di consorzi economici a garanzia limitata.
 
 ## Art. 15.
 

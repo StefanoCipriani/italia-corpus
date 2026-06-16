@@ -36,7 +36,7 @@ Non e' piu' permessa la produzione di acquavite per uso domestico in esenzione d
 
 ## Art. 4.
 
-Tutte le funzioni che, giusta il regolamento approvato col [R. decreto 25 novembre 1909, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-11-25;762), sono demandate nel Regno alle Intendenze di finanza, sono esercitate nei territori annessi dalle autorita' provinciali di finanza e possono essere da queste delegate, previa autorizzazione ministeriale, alle autorita' di prima istanza. 
+Tutte le funzioni che, giusta il regolamento approvato col [R. decreto 25 novembre 1909, n. 762](../Regi%20decreti/Che%20approva%20lannesso%20nuovo%20regolamento%20in%20sostituzione%20a%20quello%20per%20la%20esecuzione%20delle%20leggi%20sugli%20spiriti.%20009U0762.md), sono demandate nel Regno alle Intendenze di finanza, sono esercitate nei territori annessi dalle autorita' provinciali di finanza e possono essere da queste delegate, previa autorizzazione ministeriale, alle autorita' di prima istanza. 
  
  In luogo degli Uffici indicati alle lettere F e G dell'art. 86 del regolamento suddetto e fino a quando gli uffici stessi non saranno istituiti nelle nuove Provincie, il rilascio delle bollette di legittimazione pel trasporto degli spiriti, sara' effettuato dagli Uffici delle imposte. 
  

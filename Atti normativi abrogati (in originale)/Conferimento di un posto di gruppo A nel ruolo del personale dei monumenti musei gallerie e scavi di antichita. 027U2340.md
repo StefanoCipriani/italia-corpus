@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'art. 3, n. 2, della legge 31 gennaio 1926, 100;
 
-Veduti i Nostri [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e [31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164);
+Veduti i Nostri [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e [31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md);
 
 Ritenuta la necessita' urgente ed assoluta di provvedere al reclutamento di un funzionario di gruppo A nel ruolo del personale dei monumenti, musei, gallerie e scavi di antichita';
 

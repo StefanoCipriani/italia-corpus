@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il testo unico delle leggi sull'ordinamento del Genio civile 3 settembre 1906, n. 522, ed il regolamento pel servizio del Genio civile 13 dicembre 1894, n. 568; 
  
- Visto il [R. decreto 3 settembre 1906, n. 516](Che%20stabilisce%20lelenco%20dei%20compartimenti%20dispezione%20del%20genio%20civile.%20006U0516.md), relativo al nuovo ordinamento dei compartimenti d'ispezione del Genio civile del Regno e l'elenco annesso al decreto medesimo con cui il Po ed influenti vennero assegnati alla circoscrizione territoriale del VI compartimento del Genio civile in Parma ed esclusi da quelle del I, III, V e VII compartimento; 
+ Visto il [R. decreto 3 settembre 1906, n. 516](../Regi%20decreti/Che%20stabilisce%20lelenco%20dei%20compartimenti%20dispezione%20del%20genio%20civile.%20006U0516.md), relativo al nuovo ordinamento dei compartimenti d'ispezione del Genio civile del Regno e l'elenco annesso al decreto medesimo con cui il Po ed influenti vennero assegnati alla circoscrizione territoriale del VI compartimento del Genio civile in Parma ed esclusi da quelle del I, III, V e VII compartimento; 
  
  Ritenuto l'opportunita' di modificare la circoscrizione territoriale anzidetta agli effetti di una piu' conveniente attribuzione di servizi; 
  

@@ -38,7 +38,7 @@ Il Comandante del corpo speciale italiano in Albania avra' il comando di tutte l
 
 ## Art. 3.
 
-Il Comandante suddetto, nel predetto territorio ha le attribuzioni e le facolta' determinate per lo stato di guerra dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e dalle leggi e regolamenti del R. esercito.
+Il Comandante suddetto, nel predetto territorio ha le attribuzioni e le facolta' determinate per lo stato di guerra dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e dalle leggi e regolamenti del R. esercito.
 
 ## Art. 4.
 

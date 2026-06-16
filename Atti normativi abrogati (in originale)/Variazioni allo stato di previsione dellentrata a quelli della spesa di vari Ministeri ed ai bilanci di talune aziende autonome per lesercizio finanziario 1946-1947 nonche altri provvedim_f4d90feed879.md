@@ -75,11 +75,11 @@ A carico della somma di L. 10 miliardi autorizzata con l'[art. 1 del decreto leg
 
 ## Art. 8.
 
-E' stabilito, per l'esercizio 1946-47, il limite di impegno di L. 65.000.000 per il pagamento in annualita' di lavori di ricostruzione, riparazione o nuova costruzione di edifici danneggiati a seguito di eventi bellici ai sensi dell' [art. 5 del decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md).
+E' stabilito, per l'esercizio 1946-47, il limite di impegno di L. 65.000.000 per il pagamento in annualita' di lavori di ricostruzione, riparazione o nuova costruzione di edifici danneggiati a seguito di eventi bellici ai sensi dell' [art. 5 del decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md).
 
 ## Art. 9.
 
-All'elenco n. 1 allegato allo stato di previsione della spesa del Ministero dell tesoro per l'esercizio finanziario corrente, concernente i capitoli per i quali e' concessa al Governo la facolta' di cui all'[art. 40 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato, sono aggiunti i seguenti capitoli:
+All'elenco n. 1 allegato allo stato di previsione della spesa del Ministero dell tesoro per l'esercizio finanziario corrente, concernente i capitoli per i quali e' concessa al Governo la facolta' di cui all'[art. 40 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato, sono aggiunti i seguenti capitoli:
 
  Ministero del tesoro:
  Cap. n. 154. - Spese telegrafiche, telefoniche e canoni vari dovuti all'Amministrazione postale (Alto Commissariato per l'alimentazione).
@@ -87,7 +87,7 @@ All'elenco n. 1 allegato allo stato di previsione della spesa del Ministero dell
 
 ## Art. 10.
 
-All'elenco n. 3, allegato allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario corrente, concernente i capitoli per i quali e' concesso al Governo la facolta' di cui all'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato, e' aggiunto il seguente capitolo:
+All'elenco n. 3, allegato allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario corrente, concernente i capitoli per i quali e' concesso al Governo la facolta' di cui all'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato, e' aggiunto il seguente capitolo:
 
  Ministero dell' Africa Italiana:
  Cap. n. 43-bis. - Stipendi ed assegni vari di carattere continuativo a favore del personale del disciolto Colpo di polizia dell'Africa italiana sottoposto a giudizio di epurazione ([articoli 8](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), [9](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md) e [10 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md)).

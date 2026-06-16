@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 2 della legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md); 
  
- Visto l'[art. 9 del R. decreto 24 giugno 1929, n. 1301](Norme%20per%20il%20coordinamento%20della%20legge%2016%20febbraio%201913%20n.%2089%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20con%20la%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rappo_9b9ab38d69a5.md); 
+ Visto l'[art. 9 del R. decreto 24 giugno 1929, n. 1301](../Regi%20decreti/Norme%20per%20il%20coordinamento%20della%20legge%2016%20febbraio%201913%20n.%2089%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20con%20la%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rappo_9b9ab38d69a5.md); 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' portato a due anni il termine di un anno stabilito dall'[art. 9 del R. decreto 24 giugno 1929, n. 1301](Norme%20per%20il%20coordinamento%20della%20legge%2016%20febbraio%201913%20n.%2089%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20con%20la%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rappo_9b9ab38d69a5.md), per la revisione straordinaria del ruolo dei notari. 
+ E' portato a due anni il termine di un anno stabilito dall'[art. 9 del R. decreto 24 giugno 1929, n. 1301](../Regi%20decreti/Norme%20per%20il%20coordinamento%20della%20legge%2016%20febbraio%201913%20n.%2089%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20con%20la%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rappo_9b9ab38d69a5.md), per la revisione straordinaria del ruolo dei notari. 
  
  Il presente decreto entrera' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
  

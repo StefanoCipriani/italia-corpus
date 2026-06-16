@@ -20,7 +20,7 @@ Visto il progetto del raccordo portante il bollo in 20 gennaio 1914 dell'ufficio
 
 Vista la convenzione stipulata il 1° luglio 1914 fra l'Amministrazione delle ferrovie dello Stato e la Societa' Fratelli Galtarossa per regolare l'impianto e l'esercizio del binario predetto;
 
-Ritenuto che la Societa' Fratelli Galtarossa nella sua istanza ha dichiarato di sottomettersi alle condizioni dello speciale capitolato tipo di cui agli articoli 54 e 216 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Ritenuto che la Societa' Fratelli Galtarossa nella sua istanza ha dichiarato di sottomettersi alle condizioni dello speciale capitolato tipo di cui agli articoli 54 e 216 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Udito il Consiglio superiore dei lavori pubblici;
 

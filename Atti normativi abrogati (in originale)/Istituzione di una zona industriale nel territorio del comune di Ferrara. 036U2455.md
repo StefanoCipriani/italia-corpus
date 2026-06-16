@@ -54,7 +54,7 @@ Il Comune pubblica l'elenco dei beni da espropriarsi indicando il prezzo offerto
 
 Per le sistemazioni stradali e per le opere relative allo ampliamento della darsena di San Paolo ed ai servizi generali della zona industriale di Ferrara, in base a progetti debitamente approvati in linea tecnica e in linea economica dal competente Ufficio del Genio civile, si provvedera' mediante erogazione, a favore del comune di Ferrara, di contributi, da parte delle Confederazioni fasciste, fino alla concorrenza della somma di L. 10.500.000 da versarsi in sette annualita', a decorrere dal 1° gennaio 1937, secondo un piano di riparto e con le norme e modalita' che saranno stabilite dal Ministro per le corporazioni. 
  
- E' data facolta' alle Confederazioni predette di applicare speciali contributi facoltativi, da approvarsi ai sensi del [R. decreto 4 aprile 1929, n. 749](Disciplina%20dei%20contributi%20sindacali%20suppletivi%20previsti%20dallarticolo%2027%20del%20R.%20decreto%201%20luglio%201926%20n.%201130.%20029U0749.md), il cui ammontare non potra' superare la somma sopraindicata.
+ E' data facolta' alle Confederazioni predette di applicare speciali contributi facoltativi, da approvarsi ai sensi del [R. decreto 4 aprile 1929, n. 749](../Regi%20decreti/Disciplina%20dei%20contributi%20sindacali%20suppletivi%20previsti%20dallarticolo%2027%20del%20R.%20decreto%201%20luglio%201926%20n.%201130.%20029U0749.md), il cui ammontare non potra' superare la somma sopraindicata.
 
 ## Art. 5.
 

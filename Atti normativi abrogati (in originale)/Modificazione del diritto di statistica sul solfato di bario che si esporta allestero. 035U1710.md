@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Viste le [leggi 25 luglio 1896, n. 324, e 19 luglio 1914, n. 694](Che%20autorizza%20il%20Governo%20ad%20applicare%20fino%20al%2030%20giugno%201915%20provvedimenti%20tributari.%20014U0694.md), ed il [R. decreto 22 novembre 1914, n. 1289](Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), e successive modificazioni;
+Viste le [leggi 25 luglio 1896, n. 324, e 19 luglio 1914, n. 694](Che%20autorizza%20il%20Governo%20ad%20applicare%20fino%20al%2030%20giugno%201915%20provvedimenti%20tributari.%20014U0694.md), ed il [R. decreto 22 novembre 1914, n. 1289](../Regi%20decreti/Riguardante%20modificazioni%20al%20diritto%20di%20statistica%20in%20dogana.%20014U1289.md), e successive modificazioni;
 
 Ritenuta la necessita' urgente ed assoluta di modificare il diritto di statistica in dogana gravante sul solfato di bario in esportazione dallo Stato;
 

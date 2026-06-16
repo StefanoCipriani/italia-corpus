@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' autorizzata la spesa di lire 5.000.000.000 per provvedere alla concessione di contributi in misura non superiore al 50 per cento della spesa occorrente per la costruzione, il completamento, la sistemazione e l'ampliamento delle cliniche universitarie e degli ospedali clinicizzati ai sensi degli articoli 27 e seguenti del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). 
+E' autorizzata la spesa di lire 5.000.000.000 per provvedere alla concessione di contributi in misura non superiore al 50 per cento della spesa occorrente per la costruzione, il completamento, la sistemazione e l'ampliamento delle cliniche universitarie e degli ospedali clinicizzati ai sensi degli articoli 27 e seguenti del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md). 
  Al finanziamento delle opere di cui al precedente comma si provvede attingendo pro quota agli apporti dello Stato e degli Enti interessati. 
  Detti Enti, per fronteggiare le quote a loro carico, possono provvedere alla stipulazione di mutui: l'ammortamento, per capitale ed interessi, e' a carico degli Enti stessi.
 

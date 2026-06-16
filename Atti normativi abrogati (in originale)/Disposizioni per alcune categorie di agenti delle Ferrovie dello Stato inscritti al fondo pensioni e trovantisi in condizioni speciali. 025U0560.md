@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 gennaio 1901, n. 70](Che%20approva%20lo%20Statuto%20dellIstituto%20di%20previdenza%20per%20il%20personale%20ferroviario.%20001U0070.md);
+Visto il [R. decreto 31 gennaio 1901, n. 70](../Regi%20decreti/Che%20approva%20lo%20Statuto%20dellIstituto%20di%20previdenza%20per%20il%20personale%20ferroviario.%20001U0070.md);
 
-Visto il [R. decreto 30 maggio 1907, n. 376](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulla%20Cassa%20nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20007U0376.md);
+Visto il [R. decreto 30 maggio 1907, n. 376](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulla%20Cassa%20nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20007U0376.md);
 
 Visto il [R. decreto 27 novembre 1919, n. 2373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2373), e la [legge 7 aprile 1921, n. 369](Contenente%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20021U0369.md);
 
-Visto il [R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
+Visto il [R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md);
 
-Visto il [R. decreto 24 settembre 1923, n. 2128](Norme%20per%20le%20competenze%20accessorie%20da%20computarsi%20agli%20effetti%20della%20pensione%20per%20alcune%20categorie%20di%20agenti%20delle%20ferrovie%20dello%20Stato.%20023U2128.md);
+Visto il [R. decreto 24 settembre 1923, n. 2128](../Regi%20decreti/Norme%20per%20le%20competenze%20accessorie%20da%20computarsi%20agli%20effetti%20della%20pensione%20per%20alcune%20categorie%20di%20agenti%20delle%20ferrovie%20dello%20Stato.%20023U2128.md);
 
-Visto il [R. decreto 21 novembre 1923, n. 2477](Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md);
+Visto il [R. decreto 21 novembre 1923, n. 2477](../Regi%20decreti/Provvedimenti%20a%20favore%20dei%20vecchi%20pensionati.%20023U2477.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -32,21 +32,21 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Ferme restando le disposizioni dell'[art. 1 del R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), per il riconoscimento di tutti gli altri servizi ivi indicati, sono riconoscibili per intiero i sottoindicati servizi che gli agenti abbiano prestato anteriormente alla iscrizione al fondo pensioni: 
+Ferme restando le disposizioni dell'[art. 1 del R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), per il riconoscimento di tutti gli altri servizi ivi indicati, sono riconoscibili per intiero i sottoindicati servizi che gli agenti abbiano prestato anteriormente alla iscrizione al fondo pensioni: 
  
- a) per gli agenti assunti dalla ex Rete Mediterranea fra il 1° gennaio 1897 e la costituzione dell'Istituto di previdenza di cui al [R. decreto 31 gennaio 1901, n. 70](Che%20approva%20lo%20Statuto%20dellIstituto%20di%20previdenza%20per%20il%20personale%20ferroviario.%20001U0070.md), il servizio prestato in qualita' di avventizi nel periodo suddetto, purche' l'iscrizione all'Istituto sia avvenuta il 1° gennaio 1900 e non sussista alcun periodo di avventiziato posteriore a tale data; 
+ a) per gli agenti assunti dalla ex Rete Mediterranea fra il 1° gennaio 1897 e la costituzione dell'Istituto di previdenza di cui al [R. decreto 31 gennaio 1901, n. 70](../Regi%20decreti/Che%20approva%20lo%20Statuto%20dellIstituto%20di%20previdenza%20per%20il%20personale%20ferroviario.%20001U0070.md), il servizio prestato in qualita' di avventizi nel periodo suddetto, purche' l'iscrizione all'Istituto sia avvenuta il 1° gennaio 1900 e non sussista alcun periodo di avventiziato posteriore a tale data; 
  
  b) per gli agenti provenienti da ferrovie secondarie e che optarono per il fondo pensioni, il servizio prestato presso le Ferrovie dello Stato in qualita' di agenti stabili o in prova fra la data del passaggio e quella della domanda di opzione, nei casi in cui l'inscrizione al fondo pensioni non sia avvenuta di diritto alla data del passaggio e il suddetto servizio sia stato semplicemente dichiarato riconoscibile a sensi dell'[art. 10 del R. decreto 27 novembre 1919, n. 2373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-27;2373#art_10); 
  
  c) per gli agenti delle Ferrovie secondarie della Sicilia, passati nei ruoli delle Ferrovie dello Stato e che optarono per il fondo pensioni, il servizio prestato in qualita' di agenti stabili e in prova presso le Ferrovie secondarie della Sicilia antecedentemente alla data della domanda di opzione. 
  
- Salvo per quanto riguarda la durata riconoscibile, per ogni altra condizione sono applicabili ai suddetti riconoscimenti tutte le disposizioni del predetto [art. 1 del R. decreto n. 2590 del 7 dicembre 1923](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
+ Salvo per quanto riguarda la durata riconoscibile, per ogni altra condizione sono applicabili ai suddetti riconoscimenti tutte le disposizioni del predetto [art. 1 del R. decreto n. 2590 del 7 dicembre 1923](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md).
 
 ## Art. 2.
 
 Gli agenti gia' iscritti alla Cassa nazionale per le assicurazioni sociali e passati successivamente al fondo pensioni per esercizio del diritto di opzione, possono, in seguito a domanda e mediante rinunzia a favore delle Ferrovie dello Stato dei diritti derivanti a loro e ai loro eredi dalla iscrizione alla predetta Cassa nazionale, ottenere che la corrispondente riserva matematica sia applicata al riconoscimento e al riscatto di servizi precedenti all'iscrizione al fondo pensioni. 
  
- In tal caso la predetta riserva matematica, valutata alla data della domanda, fatta deduzione della parte corrispondente ai contributi versati dalle Ferrovie dello Stato alla Cassa nazionale per conto degli agenti fino alla data dell'opzione, sara' considerata come denaro contante effettivamente percepito dall'Amministrazione e come tale sara' computata per quella parte di riconoscimenti ammissibili ai sensi dell'[art. 1 del R. decreto 7 dicembre 1923, n. 2590](Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), e dell'art 1 del presente decreto, cui potra' bastare. Qualora la somma disponibile ecceda l'importo dei riconoscimenti ammissibili, l'eccedenza sara' impiegata per riscatti a sensi dell'art. 2 del decreto medesimo. 
+ In tal caso la predetta riserva matematica, valutata alla data della domanda, fatta deduzione della parte corrispondente ai contributi versati dalle Ferrovie dello Stato alla Cassa nazionale per conto degli agenti fino alla data dell'opzione, sara' considerata come denaro contante effettivamente percepito dall'Amministrazione e come tale sara' computata per quella parte di riconoscimenti ammissibili ai sensi dell'[art. 1 del R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), e dell'art 1 del presente decreto, cui potra' bastare. Qualora la somma disponibile ecceda l'importo dei riconoscimenti ammissibili, l'eccedenza sara' impiegata per riscatti a sensi dell'art. 2 del decreto medesimo. 
  
  Al verificarsi delle condizioni per la liquidazione della pensione di invalidita' o di vecchiaia all'agente, la Cassa nazionale versera' alle Ferrovie dello Stato il valore capitale della pensione corrispondente ai versamenti fatti dallo iscritto o da altri a suo favore, calcolato secondo le norme vigenti presso la Cassa per tali capitalizzazioni; in caso di morte dell'agente prima del verificarsi di tali condizioni la Cassa medesima versera' alle Ferrovie dello Stato il capitale che spetterebbe alla famiglia. 
  
@@ -56,7 +56,7 @@ Gli agenti gia' iscritti alla Cassa nazionale per le assicurazioni sociali e pas
 
 ## Art. 3.
 
-Per gli agenti cessati dal servizio a decorrere dal 1° marzo 1920, le cui pensioni, liquidate inizialmente sui soli stipendi in misura non superiore a L. 8000 annue, siano poi state riformate in misura superiore a tale importo col computo delle competenze accessorie in seguito al [R. decreto 24 settembre 1923, n. 2128](Norme%20per%20le%20competenze%20accessorie%20da%20computarsi%20agli%20effetti%20della%20pensione%20per%20alcune%20categorie%20di%20agenti%20delle%20ferrovie%20dello%20Stato.%20023U2128.md), gli assegni di caro viveri per il periodo fra le cessazioni dal servizio e il 31 dicembre 1923 vengono conservati soltanto per la differenza fra L. 9560 o fra L. 8960 e la pensione riformata secondoche' si tratti di pensioni dirette o di pensioni di riversibilita'. 
+Per gli agenti cessati dal servizio a decorrere dal 1° marzo 1920, le cui pensioni, liquidate inizialmente sui soli stipendi in misura non superiore a L. 8000 annue, siano poi state riformate in misura superiore a tale importo col computo delle competenze accessorie in seguito al [R. decreto 24 settembre 1923, n. 2128](../Regi%20decreti/Norme%20per%20le%20competenze%20accessorie%20da%20computarsi%20agli%20effetti%20della%20pensione%20per%20alcune%20categorie%20di%20agenti%20delle%20ferrovie%20dello%20Stato.%20023U2128.md), gli assegni di caro viveri per il periodo fra le cessazioni dal servizio e il 31 dicembre 1923 vengono conservati soltanto per la differenza fra L. 9560 o fra L. 8960 e la pensione riformata secondoche' si tratti di pensioni dirette o di pensioni di riversibilita'. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

@@ -20,7 +20,7 @@ Visti la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.
 
 Visti la legge sul reclutamento del R. esercito - Testo unico del 6 agosto 1888 e il relativo Regolamento approvato con [R. decreto del 2 luglio 1890, n. 6952](Che%20approva%20lannesso%20regolamento%20sul%20reclutamento%20dellEsercito.%20090U6952.md);
 
-Visti i [Regi decreti 26 maggio 1887, n. 4634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-05-26;4634), e [13 agosto 1897, n. 390](Studi%20per%20gli%20allievi%20negli%20Istituti%20militari.%20097U0390.md), relativi al pareggiamento degli studi di istituti militari a quelli degli istituti civili e alla durata degli studi nei collegi militari e ai limiti di eta' per esservi ammessi;
+Visti i [Regi decreti 26 maggio 1887, n. 4634](../Regi%20decreti/Che%20pareggia%20gli%20studi%20degli%20istituti%20militari%20a%20quelli%20degli%20istituti%20civili.%20087U4634.md), e [13 agosto 1897, n. 390](Studi%20per%20gli%20allievi%20negli%20Istituti%20militari.%20097U0390.md), relativi al pareggiamento degli studi di istituti militari a quelli degli istituti civili e alla durata degli studi nei collegi militari e ai limiti di eta' per esservi ammessi;
 
 Visti i [Regi decreti 8 novembre 1891, n. 640](Che%20determina%20le%20norme%20per%20la%20concessione%20delle%20pensioni%20e%20mezze%20pensioni%20gratuite%20nelle%20Scuole%20militari.%20091U0640.md), e [13 agosto 1897, n. 391](Concessione%20delle%20mezze%20pensioni%20gratuite%20per%20gli%20allievi%20negli%20Istituti%20militari.%20097U0391.md), sulla concessione delle pensioni e mezze pensioni gratuite negli istituti militari;
 

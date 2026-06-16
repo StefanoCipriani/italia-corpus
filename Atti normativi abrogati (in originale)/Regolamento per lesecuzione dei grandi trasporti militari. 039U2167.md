@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Viste le [leggi 7 luglio 1907, n. 429, e 13 agosto 1911, n. 310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-08-13;310), riguardanti l'ordinamento delle ferrovie non concesse ad imprese private;
 
-Visto il [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), che approva il testo unico delle disposizioni di legge per le ferrovie affidate all'industria privata, le tramvie a trazione meccanica e gli automobili;
+Visto il [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), che approva il testo unico delle disposizioni di legge per le ferrovie affidate all'industria privata, le tramvie a trazione meccanica e gli automobili;
 
 Visto il R. decreto-legge 30 aprile 1924-II, n. 596, circa l'istituzione del Ministero delle comunicazioni, convertito in legge con la legge 17 aprile 1925-III, n. 473;
 

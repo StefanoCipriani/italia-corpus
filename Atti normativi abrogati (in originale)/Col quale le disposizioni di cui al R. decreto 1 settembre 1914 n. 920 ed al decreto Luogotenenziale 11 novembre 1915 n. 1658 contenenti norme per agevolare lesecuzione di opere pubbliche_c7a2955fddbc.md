@@ -28,7 +28,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-Le disposizioni di cui al [R. decreto 1° settembre 1914, n. 920](Che%20dichiara%20applicabili%20ai%20lavori%20pubblici%20appaltati%20dallo%20Stato%20dalle%20Provincie%20e%20dai%20Comuni%20entro%20il%2031%20dicembre%201914%20le%20disposizioni%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20convertito_6e5a4a81599d.md), ed al decreto Luogotenenziale 11 novem- 1915, n. 1658, contenenti norme per agevolare l'esecuzione di opere pubbliche per conto dello Stato, delle Provincie e dei Comuni, avranno vigore per tutta la durata della guerra.
+Le disposizioni di cui al [R. decreto 1° settembre 1914, n. 920](../Regi%20decreti/Che%20dichiara%20applicabili%20ai%20lavori%20pubblici%20appaltati%20dallo%20Stato%20dalle%20Provincie%20e%20dai%20Comuni%20entro%20il%2031%20dicembre%201914%20le%20disposizioni%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20convertito_6e5a4a81599d.md), ed al decreto Luogotenenziale 11 novem- 1915, n. 1658, contenenti norme per agevolare l'esecuzione di opere pubbliche per conto dello Stato, delle Provincie e dei Comuni, avranno vigore per tutta la durata della guerra.
 
 ## Art. 2.
 

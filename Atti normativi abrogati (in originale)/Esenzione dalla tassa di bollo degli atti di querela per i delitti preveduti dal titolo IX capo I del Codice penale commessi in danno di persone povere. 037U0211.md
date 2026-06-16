@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
- Ritenuta la necessita' e l'urgenza di concedere la esenzione dalla tassa di bollo per gli atti di querela limitatamente ad alcuni delitti previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ Ritenuta la necessita' e l'urgenza di concedere la esenzione dalla tassa di bollo per gli atti di querela limitatamente ad alcuni delitti previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  Sentito il Consiglio dei Ministri; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Sono esenti dalla tassa di bollo gli atti di querela per i delitti preveduti dal titolo IX, capo 1, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commessi in danno di persone povere. 
+ Sono esenti dalla tassa di bollo gli atti di querela per i delitti preveduti dal titolo IX, capo 1, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commessi in danno di persone povere. 
  
  Lo stato di poverta' e' comprovato da certificato rilasciato dall'autorita' di pubblica sicurezza del luogo di domicilio.
 Nell'atto di querela si deve far menzione dell'anzidetto certificato, il quale deve essere allegato all'atto stesso. 

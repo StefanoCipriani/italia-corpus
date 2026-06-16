@@ -78,7 +78,7 @@ Il risultato degli esami scritti verra' integrato da un giudizio sui titoli che 
 
 Per gli esami scritti nelle sedi all'estero, la Commissione diramera' in tempo utile, pel tramite del Ministero, i temi, in plichi suggellati, diretti personalmente ai capi dei Regi uffici presso cui tali esami dovranno aver luogo. 
  
- Ciascun capo d'ufficio, sotto la sua personale responsabilita', aprira' i pieghi solo nel giorno rispettivamente stabilito per ciascun esame e curera' che questi si effettuino sotto speciale vigilanza, in relazione alle norme fissate dal [Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), nonche' a quelle altre che la Commissione giudicatrice riterra' di stabilire. Opportune norme saranno dalla stessa Commissione fissate per l'invio al Ministero dei temi svolti.
+ Ciascun capo d'ufficio, sotto la sua personale responsabilita', aprira' i pieghi solo nel giorno rispettivamente stabilito per ciascun esame e curera' che questi si effettuino sotto speciale vigilanza, in relazione alle norme fissate dal [Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), nonche' a quelle altre che la Commissione giudicatrice riterra' di stabilire. Opportune norme saranno dalla stessa Commissione fissate per l'invio al Ministero dei temi svolti.
 
 ## Art. 7.
 

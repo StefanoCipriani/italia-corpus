@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Veduto il [R. decreto 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Il liceo femminile comunale di Rovereto e' regificato a decorrere dal 1° ottobre 1923, e trasformato a norma del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+Il liceo femminile comunale di Rovereto e' regificato a decorrere dal 1° ottobre 1923, e trasformato a norma del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 2.
 

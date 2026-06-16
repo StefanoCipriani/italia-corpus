@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 giugno 1907, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-30;667), che approva il regolamento per la tutela delle opere idrauliche di 1ª e 2ª categoria;
+Visto il [R. decreto 30 giugno 1907, n. 667](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sulla%20tutela%20delle%20opere%20idrauliche%20di%201ª%20e%202ª%20categoria.%20007U0667.md), che approva il regolamento per la tutela delle opere idrauliche di 1ª e 2ª categoria;
 
 Visto il [R. decreto 13 marzo 1927, n. 378](Istituzione%20di%20un%20berretto%20di%20riconoscimento%20da%20usarsi%20dal%20personale%20del%20Genio%20civile%20e%20di%20custodia%20delle%20opere%20idrauliche%20che%20presta%20servizio%20sui%20luoghi%20in%20occasione%20di%20piene%20e%20di%20altre%20_ecdc1059c928.md), col quale furono istituiti i berretti di riconoscimento da usarsi dal personale del Genio civile e di custodia delle opere idrauliche che presta servizio sui luoghi in occasione di piene e di altre pubbliche calamita';
 

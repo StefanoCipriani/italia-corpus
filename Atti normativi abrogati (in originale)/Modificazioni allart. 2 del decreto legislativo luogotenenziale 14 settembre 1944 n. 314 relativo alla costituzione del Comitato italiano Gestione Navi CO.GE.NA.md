@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 314](../Decreti%20legislativi%20luogotenenziali/Costituzione%20del%20Comitato%20Italiano%20Gestione%20Navi%20C0-GE-NA.%20044U0314.md), relativo alla costituzione del Comitato italiano Gestione Navi (CO.GE.NA.);
 
-Visto il [regio decreto legislativo 31 maggio 1946, n. 616](Proroga%20della%20validita%20delle%20disposizioni%20dei%20Regi%20decreti-legge%2019%20settembre%201935%20n.%201836%20e%2030%20marzo%201943%20n.%20123%20riguardanti%20rispettivamente%20lorganizzazione%20della%20Marina%20mercantile%20per%20i_5c4912cfe469.md);
+Visto il [regio decreto legislativo 31 maggio 1946, n. 616](../Regi%20decreti%20legislativi/Proroga%20della%20validita%20delle%20disposizioni%20dei%20Regi%20decreti-legge%2019%20settembre%201935%20n.%201836%20e%2030%20marzo%201943%20n.%20123%20riguardanti%20rispettivamente%20lorganizzazione%20della%20Marina%20mercantile%20per%20i_5c4912cfe469.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

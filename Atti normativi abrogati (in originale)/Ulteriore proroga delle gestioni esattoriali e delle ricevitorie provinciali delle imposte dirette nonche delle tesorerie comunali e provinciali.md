@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../DPR/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md);
+Visto il [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md);
 
 Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 603](../DPR/Modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20maggio%201963%20n.%20858.md), e successive modificazioni;
 
@@ -43,7 +43,7 @@ Le disposizioni stabilite dal decreto-legge richiamato nel precedente comma 1 si
 3.
 
 Il [secondo comma dell'articolo 35 del decreto del Presidente della Repubblica 29 settembre 1973, n. 603](../DPR/Modifiche%20ed%20integrazioni%20al%20testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20maggio%201963%20n.%20858.md), nel testo sostituito dal comma 4 dell'articolo 3 del citato [decreto-legge n. 568 del 1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983;568), e' cosi' modificato:
- "I riferimenti al decennio esattoriale contenuti nelle disposizioni del testo unico approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../DPR/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), si intendono fatti per il decennio 1964-73 al periodo 1964-74 e per il decennio 1974-83 al periodo 1975-85".
+ "I riferimenti al decennio esattoriale contenuti nelle disposizioni del testo unico approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), si intendono fatti per il decennio 1964-73 al periodo 1964-74 e per il decennio 1974-83 al periodo 1975-85".
 
 4.
 

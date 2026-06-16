@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 17 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_17), riguardante l'ordinamento delle Borse di commercio;
 
-Veduto l'art. 33 del regolamento approvato con [Regio decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Veduto l'art. 33 del regolamento approvato con [Regio decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Veduto il [decreto Luogotenenziale 6 marzo 1919, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-06;260), sull'orario unico delle Borse di commercio;
 

@@ -28,7 +28,7 @@ I sottoindicati articoli del regolamento concernente la carriera e la disciplina
  
  Art. 23. - Il terzo e quarto comma sono soppressi e sostituiti dal seguente: 
  
- «Per la valutazione dell'effettivo servizio complessivo richiesto dal precedente comma, si applicano le disposizioni contenute nell'[art. 21 del R. decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21), e nell'[art. 2 del R. decreto 26 luglio 1925, numero 1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1256#art_2)». 
+ «Per la valutazione dell'effettivo servizio complessivo richiesto dal precedente comma, si applicano le disposizioni contenute nell'[art. 21 del R. decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e nell'[art. 2 del R. decreto 26 luglio 1925, numero 1256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-26;1256#art_2)». 
  
  Art. 78. - Il primo comma e' soppresso e sostituito dai due comma seguenti: 
  

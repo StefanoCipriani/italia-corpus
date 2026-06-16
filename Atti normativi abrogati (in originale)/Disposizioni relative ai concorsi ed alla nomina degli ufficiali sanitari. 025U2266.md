@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [R. decreto 10 agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-10;636);
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 10 agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-10;636);
 
 Veduto il [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-All'infuori del caso previsto nel [primo comma dell'art. 18 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_18-com1), 1° agosto 1907, n. 636, la nomina dell'ufficiale sanitario e' fatta dal Prefetto sulle risultanze di un pubblico concorso. 
+All'infuori del caso previsto nel [primo comma dell'art. 18 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), 1° agosto 1907, n. 636, la nomina dell'ufficiale sanitario e' fatta dal Prefetto sulle risultanze di un pubblico concorso. 
  
  Il concorso deve aver luogo per titoli ed esami, salvo il disposto dei successivi articoli 4 e 13.
 
@@ -153,13 +153,13 @@ I concorrenti giudicati idonei sono classificati per ordine di punti.
  
  A parita' di merito hanno vigore le norme di cui all'[art. 3 del R. decreto 24 settembre 1923, n. 2073](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2027%20maggio%201923%20n.%201177%20riguardante%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzio_589391dbaf74.md). 
  
- Il Prefetto, constatata la regolarita' del procedimento, provvede, con decreto, alla nomina dell'ufficiale sanitario, ai termini del penultimo comma dell'[articolo 18 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_18) 1° agosto 1907, n. 636. 
+ Il Prefetto, constatata la regolarita' del procedimento, provvede, con decreto, alla nomina dell'ufficiale sanitario, ai termini del penultimo comma dell'[articolo 18 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636. 
  
  Il provvedimento del Prefetto e' definitivo.
 
 ## Art. 12.
 
-Non oltre un mese dopo decorso il periodo di prova, di cui al penultimo comma dell'[art. 18 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_18) 1° agosto 1907, n. 636, il Prefetto, sentito il Consiglio provinciale di sanita' ed il Consiglio comunale o l'Amministrazione consorziale interessata, procede alla nomina definitiva od al licenziamento sanitario, ai termini della legge. 
+Non oltre un mese dopo decorso il periodo di prova, di cui al penultimo comma dell'[art. 18 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, il Prefetto, sentito il Consiglio provinciale di sanita' ed il Consiglio comunale o l'Amministrazione consorziale interessata, procede alla nomina definitiva od al licenziamento sanitario, ai termini della legge. 
  
  Il provvedimento del Prefetto e' definitivo.
 

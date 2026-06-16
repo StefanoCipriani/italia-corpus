@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 86 del testo unico delle leggi postali approvate con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
+Visto l'art. 86 del testo unico delle leggi postali approvate con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
 
 Vista la convenzione postale internazionale e gli accordi speciali stipulati a Stoccolma il 28 agosto 1924, approvata con [R. decreto-legge n. 1428, del 29 luglio 1925](Convenzione%20ed%20Accordi%20postali%20internazionali%20stipulati%20a%20Stoccolma%20il%2028%20agosto%201924.%20025U1428.md);
 

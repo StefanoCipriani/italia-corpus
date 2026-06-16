@@ -46,7 +46,7 @@ A partire dal giorno che verra' fissato dallo stesso ministro, il prezzo di vend
  
  Spagnolette popolari, L. 15 id. 
  
- Rimarra' fermo l'aggio del 5% ai rivenditori, stabilito dall'art. 28 del succitato [R. decreto 18 gennaio 1914, n. 91](Relativo%20allordinamento%20dei%20servizi%20delle%20privative%20in%20Tripolitania%20ed%20in%20Cirenaica.%20014U0091.md).
+ Rimarra' fermo l'aggio del 5% ai rivenditori, stabilito dall'art. 28 del succitato [R. decreto 18 gennaio 1914, n. 91](../Regi%20decreti/Relativo%20allordinamento%20dei%20servizi%20delle%20privative%20in%20Tripolitania%20ed%20in%20Cirenaica.%20014U0091.md).
 
 ## Art. 2.
 

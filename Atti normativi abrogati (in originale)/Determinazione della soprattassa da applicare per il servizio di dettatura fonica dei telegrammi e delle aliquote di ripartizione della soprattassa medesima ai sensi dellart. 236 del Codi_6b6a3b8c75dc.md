@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli articoli 228 e 236 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visti gli articoli 228 e 236 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Vista la [legge 18 dicembre 1956, n. 1445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-18;1445), che modifica il citato art. 236;
 
-Visto il regolamento di esecuzione dei titoli I, II e III del libro II del Codice postale e delle telecomunicazioni, approvato con [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
+Visto il regolamento di esecuzione dei titoli I, II e III del libro II del Codice postale e delle telecomunicazioni, approvato con [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
 Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 

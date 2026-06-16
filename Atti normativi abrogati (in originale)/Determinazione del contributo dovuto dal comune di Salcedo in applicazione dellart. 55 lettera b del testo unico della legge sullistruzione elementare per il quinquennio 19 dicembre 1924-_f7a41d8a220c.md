@@ -18,7 +18,7 @@ Visto il [R. decreto 20 agosto 1926, n. 1767](Contributi%20dovuti%20dai%20Comuni
 
 Veduto il nuovo elenco dei posti di scuole classificate e non classificate legalmente istituiti ed esistenti al 1° gennaio 1924 nel comune di Salcedo, elenco compilato dal Regio provveditore agli studi di Venezia;
 
-Veduto l'art. 55, lettera b), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto l'art. 55, lettera b), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 

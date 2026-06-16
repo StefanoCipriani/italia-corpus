@@ -12,15 +12,15 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visti gli articoli 55 e 56 e il capitolo NIX del regolamento delle radiocomunicazioni, allegato alla Convenzione internazionale delle telecomunicazioni, adottata a Nairobi il 6 novembre 1982, ratificata con [legge 9 maggio 1986, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md);
 
-Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con regio decreto 30
+Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con regio decreto 30
 
 marzo 1942, n. 327 e il relativo regolamento di esecuzione, approvato
 
-con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Vista la risoluzione n. 1 della Conferenza IMO dei governi
 
@@ -44,20 +44,20 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Ai sensi dell'art. 341, ultimo comma, del [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), sono istituiti i sottoelencati nuovi titoli di abilitazione all'esercizio di stazioni di navi e di stazioni terrene di nave, che utilizzano le frequenze e le tecniche del GMDSS:
+Ai sensi dell'art. 341, ultimo comma, del [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), sono istituiti i sottoelencati nuovi titoli di abilitazione all'esercizio di stazioni di navi e di stazioni terrene di nave, che utilizzano le frequenze e le tecniche del GMDSS:
                         a)
                             certificato generale di operatore;
                         b)
                             certificato limitato di operatore.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota alle premesse:
  - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
  Nota all'art. 1:
- - Per il testo dell'art. 341, ultimo comma, del [D.P.R. 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md) (Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni) v. nota all'art. 3.
+ - Per il testo dell'art. 341, ultimo comma, del [D.P.R. 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md) (Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni) v. nota all'art. 3.
 
 ## Art. 2.
 
@@ -73,7 +73,7 @@ Per l'ammissione agli esami per il conseguimento del certificato generale di ope
 
 1.
 
-Fino al 1 febbraio 1997 i candidati al conseguimento del certificato generale di operatore sostengono le prove pratiche ed orali, i cui programmi sono illustrati nell'allegato 3 al presente decreto, del quale fa parte integrante, se in possesso di uno dei seguenti titoli di abilitazione all'esercizio di stazioni radioelettriche di cui all'[art. 341 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md):
+Fino al 1 febbraio 1997 i candidati al conseguimento del certificato generale di operatore sostengono le prove pratiche ed orali, i cui programmi sono illustrati nell'allegato 3 al presente decreto, del quale fa parte integrante, se in possesso di uno dei seguenti titoli di abilitazione all'esercizio di stazioni radioelettriche di cui all'[art. 341 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md):
                         a)
                             certificato di prima classe di radiotelegrafista per navi e per aeromobili;
                         b)
@@ -89,7 +89,7 @@ Fino al 1 febbraio 1997 i candidati al conseguimento del certificato generale di
 
 2.
 
-Fino al 1 febbraio 1997 i candidati al conseguimento del certificato limitato di operatore sostengono le prove pratiche e orali i cui programmi sono illustrati nell'allegato 4 al presente decreto, del quale fa parte integrante, se in possesso di uno dei seguenti titoli di abilitazione all'esercizio di stazioni radioelettriche, di cui all'[art. 341 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md):
+Fino al 1 febbraio 1997 i candidati al conseguimento del certificato limitato di operatore sostengono le prove pratiche e orali i cui programmi sono illustrati nell'allegato 4 al presente decreto, del quale fa parte integrante, se in possesso di uno dei seguenti titoli di abilitazione all'esercizio di stazioni radioelettriche, di cui all'[art. 341 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md):
                         a)
                             certificato di prima classe di radiotelegrafista per navi e per aeromobili;
                         b)
@@ -108,7 +108,7 @@ Fino al 1 febbraio 1997 i candidati al conseguimento del certificato limitato di
                             certificato limitato di radiotelefonista per navi.
 
 Nota all'art. 3:
- - Il testo all'[art. 341 del D.P.R. 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' il seguente:
+ - Il testo all'[art. 341 del D.P.R. 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' il seguente:
  "Art. 341 (Classi e tipi dei titoli di abilitazione). - I titoli di abilitazione all'esercizio di stazioni radioelettriche rilasciati dal Ministero delle poste e delle telecomunicazioni sono i seguenti:
  a) certificato di 1a classe di radiotelegrafista per navi e per aeromobili;
  b) certificato di 2a classe di radiotelegrafista per navi e per aeromobili;
@@ -129,17 +129,17 @@ Nota all'art. 3:
  3) il titolare del certificato di cui alla lettera d1) e' abilitato anche ai servizi di cui alle lettere e1) ed f1);
  4) il titolare del certificato di cui alla lettera e) e' abilitato anche ai servizi di cui alle lettere e 1), e 2), f1);
  5) il titolare del certificato di cui alla lettera e1) e' abilitato anche ai servizi di cui alla lettera f1).
- Il conseguimento dei certificati di cui al presente articolo non costituisce titolo per ottenere l'iscrizione fra la gente di mare oltre il limite di eta' previsto dall'[art. 119 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Il conseguimento dei certificati di cui al presente articolo non costituisce titolo per ottenere l'iscrizione fra la gente di mare oltre il limite di eta' previsto dall'[art. 119 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  Eventuali modifiche alle classi e tipi di certificati e patenti di cui al presente articolo, rese necessarie per l'adeguamento della legislazione italiana al regolamento internazionale delle radiocomunicazioni e ad altri accordi internazionali, sono disposti con decreto del Ministro per le poste e le telecomunicazioni".
 
 ## Art. 4.
 
 1.
 
-La commissione esaminatrice per il conseguimento dei certificati generale e limitato di operatore e' quella prevista dall'[art. 347 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
+La commissione esaminatrice per il conseguimento dei certificati generale e limitato di operatore e' quella prevista dall'[art. 347 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
 
 Nota all'art. 4:
- - Il testo dell'[art. 347 del D.P.R. 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' il seguente:
+ - Il testo dell'[art. 347 del D.P.R. 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' il seguente:
  "Art. 347 (Commissioni esaminatrici dei candidati al certificato di radiotelegrafista per navi ed aeromobili, al certificato generale di radiotelefonista per navi e aeromobili e al certificato di radiotelegrafista per stazioni fisse e terrestri e certificato di radiotelefonista per stazioni fisse e terrestri). - La commissione esaminatrice per il conseguimento dei certificati di cui alle lettere a ), b ), c ), c 1), d ), d1), dell'art. 341 e' costituita da:
  a) due impiegati della carriera direttiva del personale tecnico delle telecomunicazioni dell'Amministrazione delle poste e delle telecomunicazioni, di cui uno con qualifica non inferiore a direttore di divisione con funzioni di presidente;
  b) un impiegato dell'Amministrazione delle poste e delle telecomunicazioni, esperto di radiotelegrafia;

@@ -24,7 +24,7 @@ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20G
 
 Visti gli [articoli 17 e seguenti della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md);
 
-Visto il [R. decreto 23 maggio 1915, n. 747](Concernente%20il%20reclutamento%20di%20ufficiali%20di%20complemento%20dello%20stato%20maggiore%20generale%20della%20R.%20marina.%20015U0747.md), e i [decreti Luogotenenziali 2 gennaio 1916, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-02;18); [6 aprile 1916, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-06;393); [6 agosto 1916, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-06;946);
+Visto il [R. decreto 23 maggio 1915, n. 747](../Regi%20decreti/Concernente%20il%20reclutamento%20di%20ufficiali%20di%20complemento%20dello%20stato%20maggiore%20generale%20della%20R.%20marina.%20015U0747.md), e i [decreti Luogotenenziali 2 gennaio 1916, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-02;18); [6 aprile 1916, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-06;393); [6 agosto 1916, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-06;946);
 
 Sentito il Consiglio dei ministri;
 

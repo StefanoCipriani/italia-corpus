@@ -33,7 +33,7 @@ Ai fini del presente decreto legislativo:
                                 le soglie di punibilita' riferite all'imposta evasa si intendono estese anche all'ammontare dell'indebito rimborso richiesto o dell'inesistente credito di imposta esposto nella dichiarazione.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
  - Per il testo dell'art. 9 della legge 25 giugno 1999, si veda nelle note alle premesse.
  Note alle premesse:
@@ -151,14 +151,14 @@ Se l'importo non rispondente al vero indicato nelle fatture o nei documenti e' i
 
 1.
 
-In deroga all'[articolo 110 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+In deroga all'[articolo 110 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
                             a)
                                 l'emittente di fatture o altri documenti per operazioni inesistenti e chi concorre con il medesimo non e' punibile a titolo di concorso nel reato previsto dall'articolo 2;
                             b)
                                 chi si avvale di fatture o altri documenti per operazioni inesistenti e chi concorre con il medesimo non e' punibile a titolo di concorso nel reato previsto dall'articolo 8.
 
 Nota all'art. 9:
- - Il testo dell'[art. 110 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 110 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 110 (Pena per coloro che concorrono nel reato). - Quando piu' persone concorrono nel medesimo reato, ciascuna di esse soggiace alla pena per questo stabilita, salve le disposizioni degli articoli seguenti".
 
 ### Art. 10. — Occultamento o distruzione di documenti contabili
@@ -191,14 +191,14 @@ La condanna per taluno dei delitti previsti dal presente decreto importa:
                             d)
                                 l'interdizione perpetua dall'ufficio di componente di commissione tributaria;
                             e)
-                                la pubblicazione della sentenza a norma dell'[articolo 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+                                la pubblicazione della sentenza a norma dell'[articolo 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 2.
 
 La condanna per taluno dei delitti previsti dagli articoli 2, 3 e 8 importa altresi' l'interdizione dai pubblici uffici per un periodo non inferiore ad un anno e non superiore a tre anni, salvo che ricorrano le circostanze previste dagli articoli 2, comma 3, e 8, comma 3.
 
 Nota all'art. 12:
- - Il testo dell'[art. 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 36 (Pubblicazione della sentenza penale di condanna). - La sentenza di condanna alla pena di morte o all'ergastolo e' pubblicata mediante affissione nel comune ove e' stata pronunciata, in quello ove il delitto fu commesso, e in quello ove il condannato aveva l'ultima residenza.
  La sentenza di condanna e' inoltre pubblicata, per una sola volta, in uno o piu' giornali designati dal giudice.
  La pubblicazione e' fatta per estratto, salvo che il giudice disponga la pubblicazione per intero; essa e' eseguita d'ufficio e a spese del condannato.
@@ -221,9 +221,9 @@ Della diminuzione di pena prevista dal comma 1 non si tiene conto ai fini della 
 Nota all'art. 13:
  - Il testo dell'[art. 53 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_53), recante: "Modifiche al sistema penale", pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 30 novembre 1981, n. 329, e' il seguente:
  "Art. 53 (Sostituzione di pene detentive brevi). - Il giudice, nel pronunciare sentenza di condanna, quando ritiene di dover determinare la durata della pena detentiva entro il limite di un anno puo' sostituire tale pena con la semidetenzione; quando ritiene di doverla determinare entro il limite di sei mesi puo' sostituirla anche con la liberta' controllata; quando ritiene di doverla determinare entro il limite di tre mesi puo' sostituirla altresi' con la pena pecuniaria della specie corrispondente.
- La sostituzione della pena detentiva ha luogo secondo i criteri indicati dall'art. 57 della presente legge e dall'[art. 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Alla sostituzione della pena detentiva con la pena pecuniaria si applicano altresi' gli articoli 133-bis, secondo comma, e 133-ter del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La sostituzione della pena detentiva ha luogo secondo i criteri indicati dall'art. 57 della presente legge e dall'[art. 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). Alla sostituzione della pena detentiva con la pena pecuniaria si applicano altresi' gli articoli 133-bis, secondo comma, e 133-ter del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Le norme del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) relative al giudizio per decreto si applicano anche quando il pretore, nei procedimenti per i reati perseguibili d'ufficio, ritiene di dover infliggere la multa o l'ammenda in sostituzione di una pena detentiva. Nel decreto devono essere indicati i motivi che determinano la sostituzione.
- Nei casi previsti dall'[art. 81 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando per ciascun reato e' consentita la sostituzione della pena detentiva, si tiene conto dei limiti indicati nel primo comma soltanto per la pena che dovrebbe infliggersi per il reato piu' grave. Quando la sostituzione della pena detentiva e' ammissibile soltanto per alcuni reati, il giudice, se ritiene di doverla disporre, determina, al solo fine della sostituzione, la parte di pena per i reati per i quali opera la sostituzione".
+ Nei casi previsti dall'[art. 81 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando per ciascun reato e' consentita la sostituzione della pena detentiva, si tiene conto dei limiti indicati nel primo comma soltanto per la pena che dovrebbe infliggersi per il reato piu' grave. Quando la sostituzione della pena detentiva e' ammissibile soltanto per alcuni reati, il giudice, se ritiene di doverla disporre, determina, al solo fine della sostituzione, la parte di pena per i reati per i quali opera la sostituzione".
 
 ### Art. 14. — Circostanza attenuante. Riparazione dell'offesa nel caso di estinzione per prescrizione del debito tributario
 
@@ -233,7 +233,7 @@ Se i debiti indicati nell'articolo 13 risultano estinti per prescrizione o per d
 
 2.
 
-La somma, commisurata alla gravita' dell'offesa, non puo' essere comunque inferiore a quella risultante dal ragguaglio a norma dell'[articolo 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della pena minima prevista per il delitto contestato.
+La somma, commisurata alla gravita' dell'offesa, non puo' essere comunque inferiore a quella risultante dal ragguaglio a norma dell'[articolo 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della pena minima prevista per il delitto contestato.
 
 3.
 
@@ -248,17 +248,17 @@ Se il pagamento e' eseguito nel termine, la pena e' diminuita fino alla meta' e 
 Nel caso di assoluzione o di proscioglimento la somma pagata e' restituita.
 
 Nota all'art. 14:
- - Il testo dell'[art. 135 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 135 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 135 (Ragguaglio fra pene pecuniarie e pene detentive). - Quando, per qualsiasi effetto giuridico, si deve eseguire un ragguaglio fra pene pecuniarie e pene detentive, il computo ha luogo calcolando settantacinquemila lire, o frazione di settantacinquemila lire, di pena pecuniaria per un giorno di pena detentiva".
 
 ### Art. 15. — Violazioni dipendenti da interpretazione delle norme tributarie
 
 1.
 
-Al di fuori dei casi in cui la punibilita' e' esclusa a norma dell'[articolo 47, terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non danno luogo a fatti punibili ai sensi del presente decreto le violazioni di norme tributarie dipendenti da obiettive condizioni di incertezza sulla loro portata e sul loro ambito di applicazione.
+Al di fuori dei casi in cui la punibilita' e' esclusa a norma dell'[articolo 47, terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non danno luogo a fatti punibili ai sensi del presente decreto le violazioni di norme tributarie dipendenti da obiettive condizioni di incertezza sulla loro portata e sul loro ambito di applicazione.
 
 Nota all'art. 15:
- - Il testo dell'[art. 47 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 47 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 47 (Errore di fatto). - L'errore sul fatto che costituisce il reato esclude la punibilita' dell'agente.
  Nondimeno, se si tratta di errore determinato da colpa, la punibilita' non e' esclusa; quando il fatto e' preveduto dalla legge come delitto colposo.
  L'errore sul fatto che costituisce un determinato reato non esclude la punibilita' per un reato diverso.
@@ -274,7 +274,7 @@ Note all'art. 16:
  - Il testo dell'[art. 21, commi 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) e [10, della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), recante: "Disposizioni per ampliare le basi imponibili, per razionalizzare, facilitare e potenziare l'attivita' di accertamento; disposizioni per la rivalutazione obbligatoria dei beni immobili delle imprese, nonche' per riformare il contenzioso e per la definizione agevolata dei rapporti tributari pendenti; delega al Presidente della Repubblica per la concessione di amnistia per reati tributari; istituzioni dei centri di assistenza fiscale e del conto fiscale", pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 31 dicembre 1991, n. 305, e' il seguente:
  "9. Il contribuente, anche prima della conclusione di un contratto, di una convenzione o di un atto che possa dar luogo all'applicazione delle disposizioni richiamate nel comma 2, puo' richiedere il preventivo parere alla competente direzione generale del Ministero delle finanze fornendole tutti gli elementi conoscitivi utili ai fini della corretta qualificazione tributaria della fattispecie prospettata.
  10. In caso di mancata risposta da parte della direzione generale, trascorsi sessanta giorni dalla richiesta del contribuente, ovvero qualora alla risposta fornita il contribuente non intenda uniformarsi, lo stesso potra' richiedere il parere in ordine alla fattispecie medesima al comitato consultivo per l'applicazione delle norme antielusive. La mancata risposta da parte del comitato consultivo entro sessanta giorni dalla richiesta del contribuente, e dopo ulteriori sessanta giorni da una formale diffida ad adempiere da parte del contribuente stesso, equivale a silenzio-assenso".
- - Per opportuna conoscenza si riporta il testo dell'[art. 1 del decreto del Ministero delle finanze 13 giugno 1997, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1997-06-13;195#art_1), recante: "Regolamento concernente la determinazione dei termini e delle modalita' da osservare per l'invio delle richieste di parere alla competente Direzione generale e per la comunicazione dei pareri stessi al contribuente", pubblicato nella Gazzetta Ufficiale 2 luglio 1997, n. 152:
+ - Per opportuna conoscenza si riporta il testo dell'[art. 1 del decreto del Ministero delle finanze 13 giugno 1997, n. 195](../Regolamenti%20ministeriali/Regolamento%20concernente%20la%20determinazione%20dei%20termini%20e%20delle%20modalita%20da%20osservare%20per%20linvio%20delle%20richieste%20di%20parere%20alla%20competente%20Direzione%20generale%20e%20per%20la%20comunicazione%20dei%20pare_e47c35a43b8c.md), recante: "Regolamento concernente la determinazione dei termini e delle modalita' da osservare per l'invio delle richieste di parere alla competente Direzione generale e per la comunicazione dei pareri stessi al contribuente", pubblicato nella Gazzetta Ufficiale 2 luglio 1997, n. 152:
  "Art. 1 (Procedimento). - 1. La richiesta di parere di cui al [comma 9 dell'art. 21 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), rivolta al Ministero delle finanze - Dipartimento delle entrate, e' indirizzata alla direzione regionale delle entrate competente in relazione al domicilio fiscale del richiedente e va spedita a mezzo del servizio postale in plico raccomandato con avviso di ricevimento.
  2. La richiesta deve contenere a pena di inammissibilita':
  a) i dati identificativi del contribuente o del suo legale rappresentante e delle altre parti interessate;
@@ -290,10 +290,10 @@ Note all'art. 16:
 
 1.
 
-Il corso della prescrizione per i delitti previsti dal presente decreto e' interrotto, oltre che dagli atti indicati nell'[articolo 160 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal verbale di constatazione o dall'atto di accertamento delle relative violazioni.
+Il corso della prescrizione per i delitti previsti dal presente decreto e' interrotto, oltre che dagli atti indicati nell'[articolo 160 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal verbale di constatazione o dall'atto di accertamento delle relative violazioni.
 
 Nota all'art. 17:
- - Il testo dell'[art. 160 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 160 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 160 (Interruzione del corso della prescrizione).
  - Il corso della prescrizione e' interrotto dalla sentenza di condanna o dal decreto di condanna.
  Interrompono pure la prescrizione l'ordinanza che applica le misure cautelari personali e quella di convalida del fermo o dell'arresto, l'interrogatorio reso davanti al pubblico ministero o al giudice, l'invito a presentarsi al pubblico ministero per rendere l'interrogatorio, il provvedimento del giudice di fissazione dell'udienza in camera di consiglio per la decisione sulla richiesta di archiviazione, la richiesta di rinvio a giudizio, il decreto di fissazione della udienza preliminare, l'ordinanza che dispone il giudizio abbreviato, il decreto di fissazione della udienza per la decisione sulla richiesta di applicazione della pena, la presentazione o la citazione per il giudizio direttissimo, il decreto che dispone il giudizio immediato, il decreto che dispone il giudizio e il decreto di citazione a giudizio. La prescrizione interrotta comincia nuovamente a decorrere dal giorno della interruzione. Se piu' sono gli atti interruttivi, la prescrizione decorre dall'ultimo di essi; ma in nessun caso i termini stabiliti nell'art. 157 possono essere prolungati oltre la meta'".

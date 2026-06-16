@@ -26,7 +26,7 @@ Ritenuto che, col 16 aprile 1918, la Societa' anonima «Impresa di navigazione s
 
 Vista la [legge 4 gennaio 1917, n. 65](Che%20converte%20in%20legge%20il%20R.%20decreto%2031%20gennaio%201909%20n.%20106%20col%20quale%20fu%20approvata%20la%20convenzione%20per%20lesercizio%20da%20parte%20dello%20Stato%20della%20ferrovia%20a%20vapore%20tra%20la%20stazione%20di%20Desenzano%20e_cd0b3d21beb6.md);
 
-Visto il testo unico di leggi approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Visto il testo unico di leggi approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Udito il Consiglio dei ministri;
 

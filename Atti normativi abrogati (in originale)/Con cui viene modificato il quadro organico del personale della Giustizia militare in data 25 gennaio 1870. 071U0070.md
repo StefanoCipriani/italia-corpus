@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, approvato con Regio Decreto 28 novembre 1869;
+Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, approvato con Regio Decreto 28 novembre 1869;
 
 Visto il Regio Decreto 25 gennaio 1870, con cui venne stabilito il quadro graduale numerico del personale addetto al Tribunale supremo di Guerra e Marina, ed ai Tribunali militari territoriali;
 

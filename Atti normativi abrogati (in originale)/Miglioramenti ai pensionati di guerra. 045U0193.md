@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata:
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e le successive modificazioni;
+Visto il [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e le successive modificazioni;
 
 Vista la [legge 20 febbraio 1941, n. 67](Nuove%20provvidenze%20in%20materia%20di%20pensioni%20di%20guerra.%20041U0067.md);
 
@@ -42,7 +42,7 @@ Le tabelle C e D annesse alla [legge 19 febbraio 1942, n. 137](Miglioramenti%20a
  
  Del pari le tabelle G, H, I, L, G-1, II-1, I-1, L-1, annesse alla [legge 20 febbraio 1941, n. 67](Nuove%20provvidenze%20in%20materia%20di%20pensioni%20di%20guerra.%20041U0067.md), sono sostituite, rispettivamente, dalle tabelle G, H, I, L, G-1, H-1, I-1, L-1, allegate al presente decreto, viste, d'ordine Nostro, dal Ministro per il tesoro. 
  
- Per i genitori, collaterali ed avi allevatori le tabelle G, H, I, L, annesse al [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificate dall'[art. 2 della legge 20 febbraio 1941, n. 67](Nuove%20provvidenze%20in%20materia%20di%20pensioni%20di%20guerra.%20041U0067.md), e dall'[art. 1 della legge 11 luglio 1942, n. 879](Miglioramenti%20alle%20pensioni%20di%20guerra%20dei%20genitori%20e%20collaterali%20dei%20caduti.%20042U0879.md), sono sostituite, rispettivamente, dalle tabelle M, N, O, P, allegate al presente decreto, viste, d'ordine Nostro, dal Ministro per il tesoro.
+ Per i genitori, collaterali ed avi allevatori le tabelle G, H, I, L, annesse al [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), modificate dall'[art. 2 della legge 20 febbraio 1941, n. 67](Nuove%20provvidenze%20in%20materia%20di%20pensioni%20di%20guerra.%20041U0067.md), e dall'[art. 1 della legge 11 luglio 1942, n. 879](Miglioramenti%20alle%20pensioni%20di%20guerra%20dei%20genitori%20e%20collaterali%20dei%20caduti.%20042U0879.md), sono sostituite, rispettivamente, dalle tabelle M, N, O, P, allegate al presente decreto, viste, d'ordine Nostro, dal Ministro per il tesoro.
 
 ## Art. 2.
 
@@ -91,7 +91,7 @@ L'aumento integratore per gli orfani previsto dall'[art. 3 della legge 20 febbra
 
 ## Art. 9.
 
-Le pensioni di riversibilita' ordinaria spettanti a norma dell'[art. 35 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), alle vedove ed agli orfani di militari deceduti anteriormente all'entrata in vigore del presente decreto, sono aumentate del cinquanta per cento.
+Le pensioni di riversibilita' ordinaria spettanti a norma dell'[art. 35 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), alle vedove ed agli orfani di militari deceduti anteriormente all'entrata in vigore del presente decreto, sono aumentate del cinquanta per cento.
 
 ## Art. 10.
 

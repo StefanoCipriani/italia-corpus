@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'articolo 187 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895 n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto l'articolo 187 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895 n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
-Visti gli articoli 11, 12 e 14 del regolamento per l'esecuzione dell'anzidetto testo unico, approvato con [R. decreto 5 settembre 1895 n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), coi quali viene prescritto che la dispensa dal servizio degli impiegati per riconosciuta inabilita', per ragioni di servizio o per motivi disciplinari non possa esser decretata se non dopo sentito il parere di un Consiglio di amministrazione o di disciplina di un'apposita Commissione e dopo un regolare procedimento avanti i medesimi.
+Visti gli articoli 11, 12 e 14 del regolamento per l'esecuzione dell'anzidetto testo unico, approvato con [R. decreto 5 settembre 1895 n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), coi quali viene prescritto che la dispensa dal servizio degli impiegati per riconosciuta inabilita', per ragioni di servizio o per motivi disciplinari non possa esser decretata se non dopo sentito il parere di un Consiglio di amministrazione o di disciplina di un'apposita Commissione e dopo un regolare procedimento avanti i medesimi.
 
 Ritenuto che pei magistrati inamovibili a termini dell'articolo 69 dello Statuto, provvedono gli articoli 203 e seguenti della legge organica giudiziaria 6 dicembre 1865, prescrivendo che la loro dispensa dall'impiego non possa esser decretata senza una declaratoria conforme della Corte di Cassazione;
 

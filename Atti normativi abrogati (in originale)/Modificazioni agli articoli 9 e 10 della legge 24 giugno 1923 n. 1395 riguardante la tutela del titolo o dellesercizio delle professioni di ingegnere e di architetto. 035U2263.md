@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395);
 
-Visto il regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537);
+Visto il regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -48,7 +48,7 @@ L'attivita' professionale svolta dopo il termine indicato negli [articoli 9](htt
 
 Coloro che intendono valersi delle precedenti disposizioni devono presentare domanda al Ministero dell'educazione nazionale nel termine perentorio di sei mesi dall'entrata in vigore del presente decreto. 
  
- La domanda dev'essere debitamente documentata, ai sensi del presente decreto e del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537).
+ La domanda dev'essere debitamente documentata, ai sensi del presente decreto e del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md).
 
 ## Art. 5.
 
@@ -62,7 +62,7 @@ Le spese per il funzionamento delle Commissioni giudicatrici sono a carico dello
  
  Ciascun richiedente deve versare all'ufficio del registro, quale contributo per le spese anzidette, la somma di L. 500 ed allegare alla domanda la ricevuta comprovante tale versamento. 
  
- Ai membri delle Commissioni giudicatrici che non risiedono in Roma, sono corrisposte le indennita' di trasferta previste, per i componenti le Commissioni in servizio dell'istruzione superiore, dal [R. decreto 10 luglio 1924, n. 1368](Determinazione%20delle%20indennita%20spettanti%20ai%20componenti%20dei%20corpi%20consultivi%20e%20delle%20Commissioni%20in%20servizio%20dellistruzione%20superiore.%20024U1368.md), ridotte del 12 per cento, ai sensi del [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e del 12 per cento ai sensi del [decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1934-04-14;561), escluso ogni altro compenso a qualsiasi titolo.
+ Ai membri delle Commissioni giudicatrici che non risiedono in Roma, sono corrisposte le indennita' di trasferta previste, per i componenti le Commissioni in servizio dell'istruzione superiore, dal [R. decreto 10 luglio 1924, n. 1368](../Regi%20decreti/Determinazione%20delle%20indennita%20spettanti%20ai%20componenti%20dei%20corpi%20consultivi%20e%20delle%20Commissioni%20in%20servizio%20dellistruzione%20superiore.%20024U1368.md), ridotte del 12 per cento, ai sensi del [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e del 12 per cento ai sensi del [decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1934-04-14;561), escluso ogni altro compenso a qualsiasi titolo.
 
 ## Art. 7.
 

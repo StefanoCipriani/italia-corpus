@@ -20,7 +20,7 @@ Veduta la domanda in data 31 maggio 1924 con la quale la Societa' anonima «Cred
 
 Veduto il testo unico delle leggi sul credito fondiario 16 luglio 1905, n. 646, modificato dalle [leggi 22 dicembre 1905, n. 592; 22 dicembre 1907, n. 794, e 6 luglio 1922, numero 1157](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%203%20settembre%201916%20n.%201158%20recante%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20022U1157.md);
 
-Veduto il regolamento approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Veduto il regolamento approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Sentito il Consiglio di Stato;
 
@@ -40,7 +40,7 @@ La Societa' dovra' avere amministrazione autonoma ed indipendente da qualsiasi a
 
 ## Art. 3.
 
-Il capitale sociale, il fondo di riserva e il fondo speciale di previdenza debbono essere impiegati secondo le disposizioni e con le norme degli articoli 80, 82 e 83 della legge ([testo unico) 16 luglio 1905, n. 646, e dell'art. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646#art_86) del regolamento approvato col [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472).
+Il capitale sociale, il fondo di riserva e il fondo speciale di previdenza debbono essere impiegati secondo le disposizioni e con le norme degli articoli 80, 82 e 83 della legge ([testo unico) 16 luglio 1905, n. 646, e dell'art. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646#art_86) del regolamento approvato col [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md).
 
 ## Art. 4.
 

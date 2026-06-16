@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2884](Istituzione%20di%20un%20ruolo%20transitorio%20del%20personale%20della%20Direzione%20generale%20delle%20pensioni%20di%20guerra.%20023U2884.md);
+Visto il [R. decreto 30 dicembre 1923, n. 2884](../Regi%20decreti/Istituzione%20di%20un%20ruolo%20transitorio%20del%20personale%20della%20Direzione%20generale%20delle%20pensioni%20di%20guerra.%20023U2884.md);
 
 Visto il [R. decreto 3 gennaio 1926, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;48);
 
-Ritenuta la necessita' urgente ed assoluta di introdurre variazioni nel ruolo transitorio istituito con [R. decreto 30 dicembre 1923, n. 2884](Istituzione%20di%20un%20ruolo%20transitorio%20del%20personale%20della%20Direzione%20generale%20delle%20pensioni%20di%20guerra.%20023U2884.md);
+Ritenuta la necessita' urgente ed assoluta di introdurre variazioni nel ruolo transitorio istituito con [R. decreto 30 dicembre 1923, n. 2884](../Regi%20decreti/Istituzione%20di%20un%20ruolo%20transitorio%20del%20personale%20della%20Direzione%20generale%20delle%20pensioni%20di%20guerra.%20023U2884.md);
 
 Udito il Consiglio dei Ministri;
 

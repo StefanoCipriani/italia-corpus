@@ -38,7 +38,7 @@ Al primo ed al [secondo comma dell'art. 1 del R. decreto 9 luglio 1926, n. 1304]
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 4 ottobre 1928, n. 2264](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20di%20Stato%20Maggiore.%20028U2264.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 4 ottobre 1928, n. 2264](../Regi%20decreti/Norme%20per%20il%20reclutamento%20degli%20ufficiali%20di%20Stato%20Maggiore.%20028U2264.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -64,4 +64,4 @@ Al secondo periodo del secondo comma dell'art. 2 del suaccennato Regio decreto e
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 4 ottobre 1928, n. 2264](Norme%20per%20il%20reclutamento%20degli%20ufficiali%20di%20Stato%20Maggiore.%20028U2264.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 4 ottobre 1928, n. 2264](../Regi%20decreti/Norme%20per%20il%20reclutamento%20degli%20ufficiali%20di%20Stato%20Maggiore.%20028U2264.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

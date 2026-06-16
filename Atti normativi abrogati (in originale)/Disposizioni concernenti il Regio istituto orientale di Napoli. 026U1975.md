@@ -52,7 +52,7 @@ Il servizio di ruolo nelle Amministrazioni dipendenti dallo Stato e negli istitu
 
 ## Art. 5.
 
-Sono applicabili al Regio istituto orientale le disposizioni concernenti il Foro erariale, contenute nel capo III, [articoli 19 e seguenti, del R. decreto 30 dicembre 1923, n. 2828](Disposizioni%20concernenti%20gli%20uffici%20e%20il%20personale%20della%20Regia%20avvocatura%20erariale%20e%20la%20difesa%20legale%20delle%20Ferrovie%20dello%20Stato.%20023U2828.md), per quanto riguarda la competenza del magistrato chiamato a decidere sulle controversie tra l'amministrazione del Regio istituto, i privati e gli altri enti.
+Sono applicabili al Regio istituto orientale le disposizioni concernenti il Foro erariale, contenute nel capo III, [articoli 19 e seguenti, del R. decreto 30 dicembre 1923, n. 2828](../Regi%20decreti/Disposizioni%20concernenti%20gli%20uffici%20e%20il%20personale%20della%20Regia%20avvocatura%20erariale%20e%20la%20difesa%20legale%20delle%20Ferrovie%20dello%20Stato.%20023U2828.md), per quanto riguarda la competenza del magistrato chiamato a decidere sulle controversie tra l'amministrazione del Regio istituto, i privati e gli altri enti.
 
 ## Art. 6.
 

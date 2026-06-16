@@ -90,7 +90,7 @@ La condanna per i delitti preveduti dagli articoli 3, 4, 5, 6, 7 e 9 importa l'o
 
 ### Art. 11.
 
-Nel caso di condanna per alcuno dei delitti preveduti dagli articoli 3 a 9 il giudice puo' disporre la pubblicazione della sentenza, osservate le disposizioni dell'[art. 36, commi 2°](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [3°, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[art. 484 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_484).
+Nel caso di condanna per alcuno dei delitti preveduti dagli articoli 3 a 9 il giudice puo' disporre la pubblicazione della sentenza, osservate le disposizioni dell'[art. 36, commi 2°](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [3°, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[art. 484 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_484).
 
 ### Art. 12.
 

@@ -32,7 +32,7 @@ Per la garanzia da prestarsi in dipendenza di mutui della Cassa depositi e prest
 
 ## Art. 2.
 
-L'atto di delega di cui all'art. 1 e' soggetto alla tassa di bollo stabilita dall'art. 33 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), modificato dall'[art. 23 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), nella misura corrispondente al cumulo di quelle applicabili sull'ammontare delle singole annualita' di ammortamento.
+L'atto di delega di cui all'art. 1 e' soggetto alla tassa di bollo stabilita dall'art. 33 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), modificato dall'[art. 23 del R. decreto-legge 12 agosto 1927, n. 1463](Sgravi%20ed%20agevolazioni%20varie%20in%20materia%20di%20imposte%20dirette%20e%20di%20tasse%20sugli%20affari.%20027U1463.md), nella misura corrispondente al cumulo di quelle applicabili sull'ammontare delle singole annualita' di ammortamento.
 
 ## Art. 3.
 

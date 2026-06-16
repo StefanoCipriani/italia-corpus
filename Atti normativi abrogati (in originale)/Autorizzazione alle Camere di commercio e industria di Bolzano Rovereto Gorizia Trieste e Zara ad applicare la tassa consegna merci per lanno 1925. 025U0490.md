@@ -18,9 +18,9 @@ Viste le [leggi 19 dicembre 1920, n. 1778, e 26 settembre 1920, n. 1322](https:/
 
 Visto il decreto 20 novembre 1922 di S. E. il Presidente del Consiglio dei Ministri, col quale vengono passati alla diretta trattazione del Ministero dell'industria e commercio, gli affari di sua competenza riguardanti le nuove Provincie;
 
-Visto il [R. decreto 11 gennaio 1923, n. 174](Concernente%20lapplicazione%20di%20una%20tassa%20consegna%20merci%20in%20alcuni%20distretti%20camerali%20delle%20nuove%20Provincie.%20023U0174.md), col quale si autorizzano le Camere di commercio ed industria di Rovereto, Bolzano, Gorizia e Trieste, ad applicare a loro favore una tassa consegna merci fino a tutto l'anno 1924;
+Visto il [R. decreto 11 gennaio 1923, n. 174](../Regi%20decreti/Concernente%20lapplicazione%20di%20una%20tassa%20consegna%20merci%20in%20alcuni%20distretti%20camerali%20delle%20nuove%20Provincie.%20023U0174.md), col quale si autorizzano le Camere di commercio ed industria di Rovereto, Bolzano, Gorizia e Trieste, ad applicare a loro favore una tassa consegna merci fino a tutto l'anno 1924;
 
-Visto il [R. decreto 22 marzo 1923, n. 732](Relativo%20allapplicazione%20di%20una%20tassa%20consegna%20merci%20a%20favore%20della%20Camera%20di%20commercio%20e%20industria%20di%20Zara.%20023U0732.md), col quale si autorizza la Camera di commercio e industria di Zara ad applicare a suo favore la tassa consegna merci fino a tutto l'anno 1924;
+Visto il [R. decreto 22 marzo 1923, n. 732](../Regi%20decreti/Relativo%20allapplicazione%20di%20una%20tassa%20consegna%20merci%20a%20favore%20della%20Camera%20di%20commercio%20e%20industria%20di%20Zara.%20023U0732.md), col quale si autorizza la Camera di commercio e industria di Zara ad applicare a suo favore la tassa consegna merci fino a tutto l'anno 1924;
 
 Ritenuta l'opportunita' di prorogare il periodo di tempo di applicazione della tassa di consegna merci a favore delle Camere di commercio e industria di Rovereto, Bolzano, Gorizia, Trieste e Zara;
 

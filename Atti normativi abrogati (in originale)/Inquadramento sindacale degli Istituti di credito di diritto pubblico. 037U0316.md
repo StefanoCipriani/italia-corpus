@@ -34,7 +34,7 @@ VITTORIO EMANUELE III
  
  Art. l. 
  
- E' divieto di far parte di Associazioni sindacali, sancito dall'[art. 3 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), e' soppresso per quanto riguarda il Banco di Napoli, il Banco di Sicilia ed i loro dipendenti. 
+ E' divieto di far parte di Associazioni sindacali, sancito dall'[art. 3 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), e' soppresso per quanto riguarda il Banco di Napoli, il Banco di Sicilia ed i loro dipendenti. 
  
  Gli altri Istituti di credito di diritto pubblico, ad eccezione della Banca d'Italia e delle Casse di risparmio e dei loro dipendenti, possono far parte di Associazioni sindacali, quando cio' sia disposto con decreto del Ministro per le corporazioni, sentito il Comitato dei Ministri, di cui all'[art. 12 del R. decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_12).
 

@@ -42,7 +42,7 @@ Il Governo del Re e' autorizzato a concedere sussidi:
 
 ## Art. 2.
 
-Le domande per la concessione dei sussidi, corredate ai sensi del [R. decreto 23 ottobre 1904, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-10-23;625), dovranno essere presentate al Ministero dei lavori pubblici entro sei mesi dall'entrata in vigore del presente decreto.
+Le domande per la concessione dei sussidi, corredate ai sensi del [R. decreto 23 ottobre 1904, n. 625](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20concessione%20di%20sussidi%20pei%20lavori%20di%20difesa%20delle%20strade%20provinciali%20e%20comunali%20e%20degli%20abitati%20contro%20le%20frane%20e%20le%20corrosioni%20dei%20fiumi%20e%20to_caca810c91db.md), dovranno essere presentate al Ministero dei lavori pubblici entro sei mesi dall'entrata in vigore del presente decreto.
 
 ## Art. 3.
 

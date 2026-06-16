@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visti gli articoli 28 e 29 del testo unico delle leggi sul bonificamento dell'Agro Romano approvato con [R. decreto 10 novembre 1905, n. 647](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20pel%20bonificamento%20dellAgro%20romano%20e%20sulla%20colonizzazione%20dei%20beni%20demaniali%20dello%20Stato.%20005U0647.md);
+Visti gli articoli 28 e 29 del testo unico delle leggi sul bonificamento dell'Agro Romano approvato con [R. decreto 10 novembre 1905, n. 647](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20pel%20bonificamento%20dellAgro%20romano%20e%20sulla%20colonizzazione%20dei%20beni%20demaniali%20dello%20Stato.%20005U0647.md);
 
 Visto l'[art. 22 del R. decreto-legge 20 luglio 1927, n. 1509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-20;1509#art_22);
 

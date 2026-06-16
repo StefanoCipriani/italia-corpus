@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Le aziende di credito e gli istituti di credito speciale, abilitati ai sensi del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md), devono mantenere evidenza dei trasferimenti da o verso l'estero di denaro, titoli o valori mobiliari, di importo superiore a lire 20 milioni, effettuati anche attraverso movimentazione di conti, per conto o a favore di persone fisiche, enti non commerciali e soggetti indicati all'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), residenti in Italia. Tali evidenze riguardano le generalita' o la denominazione o la ragione sociale, il domicilio, il codice fiscale del soggetto residente in Italia per conto o a favore del quale e' effettuato il trasferimento, nonche' la data, la causale, l'importo del trasferimento medesimo e gli estremi identificativi degli eventuali conti di destinazione.
+Le aziende di credito e gli istituti di credito speciale, abilitati ai sensi del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md), devono mantenere evidenza dei trasferimenti da o verso l'estero di denaro, titoli o valori mobiliari, di importo superiore a lire 20 milioni, effettuati anche attraverso movimentazione di conti, per conto o a favore di persone fisiche, enti non commerciali e soggetti indicati all'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), residenti in Italia. Tali evidenze riguardano le generalita' o la denominazione o la ragione sociale, il domicilio, il codice fiscale del soggetto residente in Italia per conto o a favore del quale e' effettuato il trasferimento, nonche' la data, la causale, l'importo del trasferimento medesimo e gli estremi identificativi degli eventuali conti di destinazione.
 
 2.
 
@@ -38,7 +38,7 @@ Le evidenze di cui ai commi 1 e 2 devono essere tenute a disposizione dell'Ammin
 
 1.
 
-Le persone fisiche, gli enti non commerciali, nonche' i soggetti indicati nell'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), residenti in Italia, che effettuano trasferimenti da o verso l'estero di denaro, titoli o valori mobiliari attraverso non residenti, senza il tramite degli intermediari di cui all'art. 1, sono tenuti a indicare i trasferimenti medesimi nella dichiarazione annuale dei redditi quando risultano superati gli importi indicati nel comma 4 dell'articolo 4, ovvero nel comma 2 dell'articolo 5.
+Le persone fisiche, gli enti non commerciali, nonche' i soggetti indicati nell'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), residenti in Italia, che effettuano trasferimenti da o verso l'estero di denaro, titoli o valori mobiliari attraverso non residenti, senza il tramite degli intermediari di cui all'art. 1, sono tenuti a indicare i trasferimenti medesimi nella dichiarazione annuale dei redditi quando risultano superati gli importi indicati nel comma 4 dell'articolo 4, ovvero nel comma 2 dell'articolo 5.
 
 ## Art. 3. — Importazione ed esportazione al seguito 
  di denaro, titoli e valori mobiliari
@@ -59,7 +59,7 @@ Con decreti del Ministro delle finanze possono essere approvati i modelli dell'a
 
 1.
 
-Le persone fisiche, gli enti non commerciali, nonche' i soggetti indicati nell'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), residenti in Italia, che al termine del periodo d'imposta detengono investimenti all'estero, ovvero attivita' estere di natura finanziaria, devono indicarli nella relativa dichiarazione dei redditi.
+Le persone fisiche, gli enti non commerciali, nonche' i soggetti indicati nell'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), residenti in Italia, che al termine del periodo d'imposta detengono investimenti all'estero, ovvero attivita' estere di natura finanziaria, devono indicarli nella relativa dichiarazione dei redditi.
 
 2.
 
@@ -109,7 +109,7 @@ Per la violazione dell'obbligo di cui all'articolo 4, comma 3, si applicano le p
 
 7.
 
-Per l'accertamento delle violazioni delle disposizioni di cui all'articolo 3 e per la irrogazione delle relative sanzioni si applicano le disposizioni del titolo II, capi I e II, del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md).
+Per l'accertamento delle violazioni delle disposizioni di cui all'articolo 3 e per la irrogazione delle relative sanzioni si applicano le disposizioni del titolo II, capi I e II, del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md).
 
 8.
 

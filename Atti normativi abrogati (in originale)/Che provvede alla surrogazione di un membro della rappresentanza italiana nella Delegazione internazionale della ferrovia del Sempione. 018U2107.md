@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata: 
  
- Visto il [R. decreto 1° dicembre 1904, n. 684](Nomina%20dei%20componenti%20la%20rappresentanza%20italiana%20nella%20Delegazione%20internazionale%20speciale%20per%20la%20ferrovia%20del%20Sempione.%20004U0684.md), col quale venne costituita la rappresentanza Italiana nella Delegazione internazionale speciale per gli affari relativi alla ferrovia del Sempione; 
+ Visto il [R. decreto 1° dicembre 1904, n. 684](../Regi%20decreti/Nomina%20dei%20componenti%20la%20rappresentanza%20italiana%20nella%20Delegazione%20internazionale%20speciale%20per%20la%20ferrovia%20del%20Sempione.%20004U0684.md), col quale venne costituita la rappresentanza Italiana nella Delegazione internazionale speciale per gli affari relativi alla ferrovia del Sempione; 
  
  Visto il Nostro decreto 29 settembre 1918, n. 1657, col quale venne chiamato a far parte della predetta rappresentanza il compianto comm. ingegnere Augusto De Pretto, gia' R. ispettore superiore nell'Ufficio speciale delle ferrovie; 
  

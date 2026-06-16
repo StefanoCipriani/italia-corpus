@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto l'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Sulla proposta del Ministro per la Guerra, di concerto con il Ministro per il tesoro, Decreta:
 
 ## Art. 1.
 
-Le aliquote dei generali e degli ufficiali superiori delle varie armi, corpi e servizi dell'Esercito che possono essere collocati nella riserva per la prima applicazione del [regio decreto legislativo 14 maggio 1946, numero 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono fissate come segue:
+Le aliquote dei generali e degli ufficiali superiori delle varie armi, corpi e servizi dell'Esercito che possono essere collocati nella riserva per la prima applicazione del [regio decreto legislativo 14 maggio 1946, numero 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sono fissate come segue:
 
  generali di corpo d'armata.......................................11 generali di divisione............................................49 generali di brigata.............................................120 generali di brigata del corpo automobilistico.....................1 tenente generale servizio tecnico genio...........................1 maggiori generali servizio tecnico di artiglieria.................4 maggiori generali del servizio tecnico della motorizzazione.......2 generali di brigata riassunti in servizio quali mutilati e invalidi di guerra...........................................................5 colonnelli dei carabinieri (sono compresi anche i colonnelli del
 mobilitazione).....................................................15 colonnelli di fanteria (sono compresi anche i colonnelli del ruolo mobilitazione, del servizio geografico e i colonnelli riassunti in

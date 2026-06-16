@@ -18,7 +18,7 @@ Vista la [legge 14 luglio 1907, n. 514](Istituzione%20di%20uffici%20tecnici%20ce
 
 Vista la [legge 5 giugno 1913, n. 541](Che%20approva%20modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20esterna%20delle%20gabelle%20degli%20uffici%20tecnici%20di%20finanza%20del%20personale%20tecnico%20ed%20amministrativo%20degli%20stabilime_df0a6fc0f2f8.md), che approva modificazioni ai ruoli organici del personale tecnico, amministrativo ed ispettivo delle privative;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Ritenuto la necessita' di stabilire alcune norme e conferire alcune facolta', che pongano l'Amministrazione delle privative in grado di meglio svolgere la propria azione in armonia col carattere prevalentemente industriale-commerciale delle aziende che la costituiscono;
 
@@ -42,7 +42,7 @@ Le Direzioni compartimentali per la coltivazione dei tabacchi e le agenzie di co
 
 ## Art. 4.
 
-Le disposizioni di cui all'[art. 10 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_10), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato sono estese agli acquisti dei sali e del chinino (in scorza o in sale) che l'Amministrazione delle privative trovasse conveniente di fare direttamente nei luoghi di produzione e nei principali mercati stranieri.
+Le disposizioni di cui all'[art. 10 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato sono estese agli acquisti dei sali e del chinino (in scorza o in sale) che l'Amministrazione delle privative trovasse conveniente di fare direttamente nei luoghi di produzione e nei principali mercati stranieri.
 
 ## Art. 5.
 

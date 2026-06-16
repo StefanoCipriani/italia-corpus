@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Vista l'istanza 5 febbraio 1919, con cui la Provincia concessionaria ha chiesto una proroga di due anni, e cioe' fino al 27 novembre 1921, del termine per l'ultimazione della tramvia stessa; 
  
- Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), ed il regolamento approvato con [R. decreto 19 giugno 1900, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-06-19;306); 
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), ed il regolamento approvato con [R. decreto 19 giugno 1900, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-06-19;306); 
  
  Uditi il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato; 
  

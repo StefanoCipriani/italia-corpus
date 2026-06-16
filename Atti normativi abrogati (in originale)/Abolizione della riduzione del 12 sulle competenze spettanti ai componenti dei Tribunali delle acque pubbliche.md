@@ -15,7 +15,7 @@ UMBERTO DI SAVOIA
  LUOGOTENENTE GENERALE DEL REGNO 
  
  In virtu' dell'autorita' a Noi delegata; 
- Visto il [R. decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775); 
+ Visto il [R. decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md); 
  Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4); 
  Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md); 
  Vista la deliberazione del Consiglio dei Ministri; 
@@ -23,7 +23,7 @@ UMBERTO DI SAVOIA
  
  Abbiamo sanzionato e promulghiamo quanto segue: 
  
- La riduzione del 12% di cui al [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), sulle medaglie di presenza stabilite con l'[art. 138 quarto comma del R. decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_138-com4), per i giudici dei Tribunali regionali delle acque pubbliche e sulle indennita' annue stabilite dall'art. 139, settimo comma, dello stesso decreto, per i presidenti e per i giudici del Tribunale superiore delle acque pubbliche e sul relativo aumento del 70%, e' soppressa con effetto dal 1° luglio 1945. 
+ La riduzione del 12% di cui al [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), sulle medaglie di presenza stabilite con l'[art. 138 quarto comma del R. decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), per i giudici dei Tribunali regionali delle acque pubbliche e sulle indennita' annue stabilite dall'art. 139, settimo comma, dello stesso decreto, per i presidenti e per i giudici del Tribunale superiore delle acque pubbliche e sul relativo aumento del 70%, e' soppressa con effetto dal 1° luglio 1945. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

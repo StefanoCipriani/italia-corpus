@@ -20,7 +20,7 @@ Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Reg
 
 Visto il R. decreto 15 luglio 1926-IV, n. 1385, sull'ordinamento e studi dei collegi militari e successive modificazioni;
 
-Visto il [R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726), sull'ordinamento delle scuole militari e successive modificazioni;
+Visto il [R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), sull'ordinamento delle scuole militari e successive modificazioni;
 
 Vista la legge 22 dicembre 1939-XVIII, n. 2184, concernente varianti al testo unico delle disposizioni legislative sul reclutamento del Regio esercito, approvato con R. decreto 24 febbraio 1938-XVI, n. 329;
 

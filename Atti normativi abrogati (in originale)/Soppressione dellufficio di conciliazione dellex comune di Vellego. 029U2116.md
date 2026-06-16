@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;774), col quale il comune di Vellego e' stato soppresso ed il rispettivo territorio aggregato a quello di Casanova Lerrone ad eccezione della frazione Ginestra, unita al comune di Testico; 
+ Visto il [R. decreto 28 marzo 1929, n. 774](../Regi%20decreti/Ripartizione%20del%20territorio%20del%20comune%20di%20Vellego%20fra%20i%20comuni%20di%20Casanova%20Lerrone%20e%20Testico.%20029U0774.md), col quale il comune di Vellego e' stato soppresso ed il rispettivo territorio aggregato a quello di Casanova Lerrone ad eccezione della frazione Ginestra, unita al comune di Testico; 
  
  Vista la deliberazione del podesta' di Casanova Lerrone rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Vellego; 
  

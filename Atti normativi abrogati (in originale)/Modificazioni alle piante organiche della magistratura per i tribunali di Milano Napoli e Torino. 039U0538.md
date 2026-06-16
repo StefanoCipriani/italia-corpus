@@ -30,7 +30,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la gra
 
 Dal 1° maggio 1939-XVII, le piante organiche della magistratura per i tribunali di Milano, Napoli e Torino, sono determinate dall'annessa tabella, sottoscritta, per ordine Nostro, dal Ministro proponente. 
  
- Restano in tal senso modificate, per quanto riguarda i predetti tribunali, le tabelle attualmente in vigore, rispettivamente stabilite col [R. decreto 16 dicembre 1937, n. 2407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-16;2407); col R. decreto 5 settembre 1938-XVI, n. 1516 (tabella E), e col decreto 13 giugno 1935-XIII, n. 1032 (tabella D). 
+ Restano in tal senso modificate, per quanto riguarda i predetti tribunali, le tabelle attualmente in vigore, rispettivamente stabilite col [R. decreto 16 dicembre 1937, n. 2407](../Regi%20decreti/Modificazione%20delle%20piante%20organiche%20della%20magistratura%20presso%20alcuni%20Tribunali.%20037U2407.md); col R. decreto 5 settembre 1938-XVI, n. 1516 (tabella E), e col decreto 13 giugno 1935-XIII, n. 1032 (tabella D). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

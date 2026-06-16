@@ -18,7 +18,7 @@ Visto l'ordinamento organico dell'Eritrea e della Somalia ([legge 6 luglio 1933,
 
 Visto il [R. decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436);
 
-Visto il [R. decreto 29 luglio 1927, n. 1814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1814);
+Visto il [R. decreto 29 luglio 1927, n. 1814](../Regi%20decreti/Disposizioni%20di%20attuazione%20e%20transitorie%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20concernente%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20_9ce09a15aff5.md);
 
 Ritenuta la necessita' di estendere alla Somalia i provvedimenti legislativi emanati nel Regno per la disciplina dei contratti di compra-vendita degli autoveicoli e per l'istituzione del pubblico registro automobilistico;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Il [R. decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436), e il [R. decreto 29 luglio 1927, n. 1814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1814), sono estesi alla Somalia con le modificazioni di cui agli articoli seguenti.
+Il [R. decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436), e il [R. decreto 29 luglio 1927, n. 1814](../Regi%20decreti/Disposizioni%20di%20attuazione%20e%20transitorie%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20concernente%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20_9ce09a15aff5.md), sono estesi alla Somalia con le modificazioni di cui agli articoli seguenti.
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-E' abolita, con effetto dal 1 gennaio 1954, l'imposta di manomorta prevista dal [regio decreto 30 dicembre 1923, n. 3271](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulla%20manomorta.%20023U3271.md), e successive aggiunte e modificazioni.
+E' abolita, con effetto dal 1 gennaio 1954, l'imposta di manomorta prevista dal [regio decreto 30 dicembre 1923, n. 3271](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulla%20manomorta.%20023U3271.md), e successive aggiunte e modificazioni.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

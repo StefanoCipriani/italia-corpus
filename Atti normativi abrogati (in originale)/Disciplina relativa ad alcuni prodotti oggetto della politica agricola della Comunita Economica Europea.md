@@ -22,7 +22,7 @@ Vista la legge doganale 25 settembre 1940, n. 1424 ed il relativo regolamento di
 
 Vista la tariffa dei dazi doganali di importazione approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente nuove disposizioni sulla Amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente nuove disposizioni sulla Amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare norme per l'adattamento della vigente legislazione in conformita' alle esigenze derivanti dall'applicazione degli articoli 1 e 23 contenuti rispettivamente nei Regolamenti comunitari 90/67 e 120/67;
 
@@ -54,8 +54,8 @@ Il pagamento delle somme corrispondenti alle sovvenzioni di cui al presente decr
 
 ## Art. 5.
 
-Il ricevitore doganale dispone il pagamento delle sovvenzioni previste dal presente decreto con ordinativi a favore degli aventi diritto su aperture di credito disposte a suo favore dal Ministero delle finanze, anche in deroga ai limiti stabiliti dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
- I rendiconti sugli ordini di accreditamento di cui al precedente comma sono resi con le modalita' indicate all'[art. 60 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60), dal ricevitore doganale predetto e sono soggetti al controllo successivo delle Ragionerie provinciali dello Stato e delle Delegazioni regionali della Corte dei conti competenti per territorio.
+Il ricevitore doganale dispone il pagamento delle sovvenzioni previste dal presente decreto con ordinativi a favore degli aventi diritto su aperture di credito disposte a suo favore dal Ministero delle finanze, anche in deroga ai limiti stabiliti dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
+ I rendiconti sugli ordini di accreditamento di cui al precedente comma sono resi con le modalita' indicate all'[art. 60 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), dal ricevitore doganale predetto e sono soggetti al controllo successivo delle Ragionerie provinciali dello Stato e delle Delegazioni regionali della Corte dei conti competenti per territorio.
 
 ## Art. 6.
 

@@ -72,7 +72,7 @@ La fabbricazione clandestina delle lampadine elettriche ad incandescenza ed ogni
  
  Per la inesatta dichiarazione del valore delle lampadine, agli effetti della liquidazione del diritto di monopolio, sara' applicata una pena pecuniaria non minore di una volta ne' maggiore di dieci volte la differenza del diritto dovuto. 
  
- Per la definizione delle contravvenzioni, per la prescrizione dell'azione penale e per la ripartizione delle multe sono applicabili le disposizioni della legge doganale, del relativo regolamento e del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Per la definizione delle contravvenzioni, per la prescrizione dell'azione penale e per la ripartizione delle multe sono applicabili le disposizioni della legge doganale, del relativo regolamento e del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

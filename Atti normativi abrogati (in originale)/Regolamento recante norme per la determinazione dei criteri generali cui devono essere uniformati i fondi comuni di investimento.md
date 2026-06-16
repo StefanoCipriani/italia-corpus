@@ -12,7 +12,7 @@ IL MINISTRO DEL TESORO, DEL BILANCIO
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), recante il testo unico delle disposizioni in materia di intermediazione finanziaria;
+Visto il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), recante il testo unico delle disposizioni in materia di intermediazione finanziaria;
 
 Visto in particolare l'articolo 37 il quale prevede che il Ministro del tesoro, del bilancio e della programmazione economica, con regolamento adottato sentite la Banca d'Italia e la Consob, determina i criteri generali cui devono essere uniformati i fondi comuni di investimento;
 
@@ -40,7 +40,7 @@ Titolo I
 
 Nel presente regolamento s'intendono per:
                             a)
-                                "testo unico": il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
+                                "testo unico": il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
                             b)
                                 "testo unico bancario": il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
                             c)
@@ -65,9 +65,9 @@ Nel presente regolamento s'intendono per:
 Le espressioni adoperate nel presente regolamento, ove non diversamente definite, hanno lo stesso significato indicato nel testo storico.
 
 Avvertenze:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.Note alle premesse:
- - L'[art. 37 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
+ - L'[art. 37 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
  "Art. 37 (Struttura dei fondi comuni di investimento). - 1. Il Ministro del tesoro, del bilancio e della programmazione economica, con regolamento adottato sentite la Banca d'Italia e la Consob, determina i criteri generali cui devono uniformarsi i fondi comuni di investimento con riguardo:
  a) all'oggetto dell'investimento;
  b) alle categorie di investitori cui e' destinata l'offerta delle quote;
@@ -80,7 +80,7 @@ Avvertenze:
  c) le scritture contabili, il rendiconto e i prospetti periodici che le societa' di gestione del risparmio redigono, in aggiunta a quanto prescritto per le imprese commerciali, nonche' gli obblighi di pubblicita' del rendiconto e dei prospetti periodici;
  d) le ipotesi nelle quali la societa' di gestione del risparmio deve chiedere l'ammissione alla negoziazione in un mercato regolamentato dei certificati rappresentativi delle quote dei fondi;
  e) i requisiti e i compensi degli esperti indipendenti indicati nell'art. 6, comma 1, lettera c), numero 5)".
- - L'[art. 50 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
+ - L'[art. 50 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' il seguente:
  "Art. 50 (Altre disposizioni applicabili). - 1. Alle SICAV, per quanto non disciplinato dal presente capo, si applicano gli articoli 36, comma 2, 37, 38, 40 e 41.
  2. All'offerta in Italia di azioni di SICAV estere si applica l'art. 42.
  - L'[art. 14-bis, comma 2, della legge 25 gennaio 1994, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-25;86#art_14bis-com2), e' il seguente:
@@ -105,7 +105,7 @@ Avvertenze:
  "1. La Consob iscrive in un'apposita sezione dell'elenco previsto dall'art. 63, comma 2, i mercati regolamentati riconosciuti ai sensi dell'ordinamento comunitario". 
  Note all'art. 1: 
  - Per il titolo del [decreto legislativo 24 febbraio 
- 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), vedi nelle note alle premesse. 
+ 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), vedi nelle note alle premesse. 
  - Il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia". 
  - Il [decreto legislativo 21 aprile 1993, n. 124](Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, reca: "Disciplina delle 
  forme pensionistiche complementari". 

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la legge 30 ottobre 1859, n. 3731;
 
-Visto il [R. decreto 29 luglio 1923, n. 1970](Servizio%20delle%20privative%20industriali.%20023U1970.md);
+Visto il [R. decreto 29 luglio 1923, n. 1970](../Regi%20decreti/Servizio%20delle%20privative%20industriali.%20023U1970.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2878](Modificazioni%20alle%20norme%20per%20il%20rilascio%20degli%20attestati%20di%20privativa%20industriale.%20023U2878.md);
+Visto il [R. decreto 30 dicembre 1923, n. 2878](../Regi%20decreti/Modificazioni%20alle%20norme%20per%20il%20rilascio%20degli%20attestati%20di%20privativa%20industriale.%20023U2878.md);
 
 Visto il [R. decreto-legge 4 settembre 1925, n. 1619](Stampa%20delle%20descrizioni%20e%20dei%20disegni%20allegati%20ai%20brevetti%20industriali.%20025U1619.md);
 

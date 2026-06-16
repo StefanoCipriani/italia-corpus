@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 18 ottobre 1977, n. 791](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20consiglio%20delle%20Comunita%20europee%20n.%2072-23-CEE%20relativa%20alle%20garanzie%20di%20sicurezza%20che%20devono%20possedere%20il%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato_ba0a9e22b669.md), di attuazione della [direttiva n. 73/23/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;23), relativa alle garanzie di sicurezza del materiale elettrico destinato ad essere utilizzato entro alcuni limiti di tensione;
 

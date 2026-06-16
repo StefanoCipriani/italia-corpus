@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Ministero della guerra e' autorizzato a concedere all'Ente autonomo «Unione Militare», perche' possa estendere il credito alle varie categorie di personali militari che debbano fornirsi di oggetti di divisa, anticipazioni sulle somme da trattenersi sugli assegni degli ufficiali ai sensi dell'art. 8 del testo unico approvato con [R. decreto 22 gennaio 1928, n. 166](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20028U0166.md).
+Il Ministero della guerra e' autorizzato a concedere all'Ente autonomo «Unione Militare», perche' possa estendere il credito alle varie categorie di personali militari che debbano fornirsi di oggetti di divisa, anticipazioni sulle somme da trattenersi sugli assegni degli ufficiali ai sensi dell'art. 8 del testo unico approvato con [R. decreto 22 gennaio 1928, n. 166](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20costituzione%20della%20Societa%20cooperativa%20Unione%20Militare%20in%20Ente%20autonomo%20avente%20personalita%20giuridica%20propria.%20028U0166.md).
 
 ## Art. 2.
 

@@ -18,7 +18,7 @@ Il Ministero di agricoltura e' autorizzato a prendere i seguenti provvedimenti, 
  
  c) a sussidiare campi sperimentali di irrigazione e sub-irrigazione; 
  
- d) a promuovere e premiare iniziative private per la maggiore estensione delle opere di irrigazione, in applicazione del testo unico delle leggi sul concorso dello Stato nelle spese per opere d'irrigazione, approvato con [Regio decreto 22 luglio 1920, n. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20pel%20concorso%20dello%20Stato%20nelle%20spese%20per%20opere%20di%20irrigazione.%20020U1154.md); 
+ d) a promuovere e premiare iniziative private per la maggiore estensione delle opere di irrigazione, in applicazione del testo unico delle leggi sul concorso dello Stato nelle spese per opere d'irrigazione, approvato con [Regio decreto 22 luglio 1920, n. 1154](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20pel%20concorso%20dello%20Stato%20nelle%20spese%20per%20opere%20di%20irrigazione.%20020U1154.md); 
  
  e) a vigilare sul buon funzionamento delle opere d'irrigazione, ed a proporre, su parere della Commissione Reale per le irrigazioni, all'autorita' competente i provvedimenti di dichiarazione di decadenza dei concessionari quando venga meno la manutenzione delle opere e la utilizzazione a scopo irriguo di canali e serbatoi con danno della agricoltura e della igiene. In ogni caso e' riservata la competenza del Ministero dei lavori pubblici e dei suoi organi tecnici.
 
@@ -120,7 +120,7 @@ Gli atti relativi alla costituzione di consorzi di irrigazione, o diretti ad est
 
 ## Art. 11.
 
-Il Governo del Re e' autorizzato a riunire e coordinare in un testo unico le disposizioni della presente legge con quelle della [legge 29 maggio 1873, n. 1787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1787), e del testo unico approvato con [R. decreto 22 luglio 1920, n. 1154](Che%20approva%20il%20testo%20unico%20delle%20leggi%20pel%20concorso%20dello%20Stato%20nelle%20spese%20per%20opere%20di%20irrigazione.%20020U1154.md). 
+Il Governo del Re e' autorizzato a riunire e coordinare in un testo unico le disposizioni della presente legge con quelle della [legge 29 maggio 1873, n. 1787](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1787), e del testo unico approvato con [R. decreto 22 luglio 1920, n. 1154](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20pel%20concorso%20dello%20Stato%20nelle%20spese%20per%20opere%20di%20irrigazione.%20020U1154.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, ala insorta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

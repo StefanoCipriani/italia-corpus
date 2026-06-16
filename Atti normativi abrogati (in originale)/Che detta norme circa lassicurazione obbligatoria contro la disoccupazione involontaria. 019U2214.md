@@ -457,7 +457,7 @@ La vigilanza per l'esecuzione del presente decreto e' esercitata dal Ministero p
  
  I datori di lavoro i quali, essendovi tenuti, si rifiutino di prestarsi alle indagini degli ispettori o di fornire loro i dati e documenti richiesti, sono passibili di ammenda estensibile a L. 1000. 
  
- Gli ispettori e il personale comunque incaricato di controllare l'applicazione del presente decreto devono conservare il segreto sopra i processi di fabbricazione e sopra ogni altro particolare di lavorazione che venissero a loro conoscenza per ragione d'ufficio sotto le sanzioni dell'[art. 298 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Gli ispettori e il personale comunque incaricato di controllare l'applicazione del presente decreto devono conservare il segreto sopra i processi di fabbricazione e sopra ogni altro particolare di lavorazione che venissero a loro conoscenza per ragione d'ufficio sotto le sanzioni dell'[art. 298 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 45.
 
@@ -473,9 +473,9 @@ Gli amministratori degli organi distributori dei sussidi di disoccupazione rispo
 
 ### Art. 48.
 
-Chiunque ottiene o tenta di ottenere il sussidio di disoccupazione con alterazione di dati o altri modi dolosi, e' escluso dal sussidio per la durata di un anno ed e' punito con un'ammenda dal doppio al decuplo dei sussidi o delle parti di sussidio indebitamente percepite, salvo le eventuali maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque ottiene o tenta di ottenere il sussidio di disoccupazione con alterazione di dati o altri modi dolosi, e' escluso dal sussidio per la durata di un anno ed e' punito con un'ammenda dal doppio al decuplo dei sussidi o delle parti di sussidio indebitamente percepite, salvo le eventuali maggiori pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Eguale ammenda, salvo sempre le maggiori pene del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' applicata ai datori di lavoro ed a chiunque con dati dolosi renda possibile l'indebita percezione del sussidio o il tentativo relativo.
+ Eguale ammenda, salvo sempre le maggiori pene del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' applicata ai datori di lavoro ed a chiunque con dati dolosi renda possibile l'indebita percezione del sussidio o il tentativo relativo.
 
 ### Art. 49.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 2217 del 23 settembre 1923](Approvazione%20della%20convenzione%20tra%20il%20Governo%20italiano%20e%20la%20societa%20Italo%20Radio%20societa%20italiana%20per%20i%20servizi%20radioelettrici%20per%20limpianto%20e%20lesercizio%20di%20stazioni%20radiotelegrafiche%20nel%20_d53f42577d17.md) col quale e' stata approvata la Convenzione stipulata il 29 agosto 1923 tra il Governo italiano e la Societa' italo Radio - Societa' italiana per i servizi radioelettrici;
+Visto il [R. decreto n. 2217 del 23 settembre 1923](../Regi%20decreti/Approvazione%20della%20convenzione%20tra%20il%20Governo%20italiano%20e%20la%20societa%20Italo%20Radio%20societa%20italiana%20per%20i%20servizi%20radioelettrici%20per%20limpianto%20e%20lesercizio%20di%20stazioni%20radiotelegrafiche%20nel%20_d53f42577d17.md) col quale e' stata approvata la Convenzione stipulata il 29 agosto 1923 tra il Governo italiano e la Societa' italo Radio - Societa' italiana per i servizi radioelettrici;
 
 Riconosciuta la necessita' di introdurre nella Convenzione
 

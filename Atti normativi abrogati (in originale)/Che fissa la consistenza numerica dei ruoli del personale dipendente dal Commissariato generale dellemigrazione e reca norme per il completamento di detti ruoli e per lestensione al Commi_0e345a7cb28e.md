@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico della legge sull'emigrazione, approvato con [R. decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205);
+Visto il testo unico della legge sull'emigrazione, approvato con [R. decreto-legge 13 novembre 1919, n. 2205](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20dei%20provvedimenti%20sulla%20emigrazione%20e%20sulla%20tutela%20giuridica%20degli%20emigranti.%20019U2205.md);
 
 Visto il regolamento per la gestione amministrativa e contabile del Fondo per l'emigrazione, approvate con [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro, segretario di Stato per gli affari esteri; A
 
 ## Art. 1.
 
-I ruoli numerici del personale tecnico e amministrativo, di ragioneria, d'ordine e subalterno dipendente dal Commissariato generale dell'emigrazione, sono confermati nell'attuale consistenza quale risulta dall'art. 66 del testo unico della legge sull'emigrazione approvato con [R. decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205). 
+I ruoli numerici del personale tecnico e amministrativo, di ragioneria, d'ordine e subalterno dipendente dal Commissariato generale dell'emigrazione, sono confermati nell'attuale consistenza quale risulta dall'art. 66 del testo unico della legge sull'emigrazione approvato con [R. decreto-legge 13 novembre 1919, n. 2205](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20dei%20provvedimenti%20sulla%20emigrazione%20e%20sulla%20tutela%20giuridica%20degli%20emigranti.%20019U2205.md). 
  
  Le norme per la nomina e la retribuzione del personale tecnico di cui all'ultimo comma dell'art. 66 predetto, e quelle relative all'assunzione del personale straordinario previsto dall'art. 1 del testo unico della legge sull'emigrazione, verranno fissate con decreto Reale promosso dal Ministro per gli affari esteri il quale, d'accordo coi Ministri interessati, potra' destinare in temporaneo servizio al Commissariato generale dell'emigrazione funzionari di altre Amministrazioni, fissando loro, con suo decreto, le eventuali indennita'.
 

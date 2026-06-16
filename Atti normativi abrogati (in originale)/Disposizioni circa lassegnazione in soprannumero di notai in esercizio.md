@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89);
 
-Visto il regolamento per l'esecuzione di detta legge approvato con [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+Visto il regolamento per l'esecuzione di detta legge approvato con [regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
 
 Vista la [legge 17 giugno 1943, n. 641](Provvidenze%20a%20favore%20dei%20notai%20dellAfrica%20italiana%20rimpatriati%20nel%20Regno.%20043U0641.md);
 

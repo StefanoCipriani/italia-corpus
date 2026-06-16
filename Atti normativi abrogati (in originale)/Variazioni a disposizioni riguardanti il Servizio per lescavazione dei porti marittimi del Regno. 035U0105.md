@@ -58,7 +58,7 @@ Le spese relative ai lavori di escavazione ordinaria da eseguire nei porti e spi
 
 ## Art. 5.
 
-E' abrogato il [R. decreto 3 agosto 1930, n. 1336](Modifica%20del%20R.%20decreto%2027%20febbraio%201927%20col%20quale%20venne%20istituito%20presso%20la%20competente%20Direzione%20generale%20del%20Ministero%20dei%20lavori%20pubblici%20un%20Ufficio%20tecnico%20centrale%20per%20il%20servizio%20es_a78be992df07.md), e restano invariate tutte le disposizioni in vigore che non siano in contrasto con quelle del presente decreto. 
+E' abrogato il [R. decreto 3 agosto 1930, n. 1336](../Regi%20decreti/Modifica%20del%20R.%20decreto%2027%20febbraio%201927%20col%20quale%20venne%20istituito%20presso%20la%20competente%20Direzione%20generale%20del%20Ministero%20dei%20lavori%20pubblici%20un%20Ufficio%20tecnico%20centrale%20per%20il%20servizio%20es_a78be992df07.md), e restano invariate tutte le disposizioni in vigore che non siano in contrasto con quelle del presente decreto. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

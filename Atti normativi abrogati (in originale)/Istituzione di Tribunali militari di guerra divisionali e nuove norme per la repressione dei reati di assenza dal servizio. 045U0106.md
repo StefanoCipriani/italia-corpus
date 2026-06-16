@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita', a Noi delegata;
 
-Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
+Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 
 Visto l'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md);
 
@@ -38,7 +38,7 @@ Secondo i bisogni del servizio, possono istituirsi Tribunali militari di guerra 
 
 ## Art. 2.
 
-I Tribunali divisionali sono istituiti nel numero richiesto dalle circostanze dal Capo di Stato Maggiore Generale, salva l'applicabilita' del comma secondo dell'art. 65 dell'ordinamento giudiziario militare, approvalo con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022).
+I Tribunali divisionali sono istituiti nel numero richiesto dalle circostanze dal Capo di Stato Maggiore Generale, salva l'applicabilita' del comma secondo dell'art. 65 dell'ordinamento giudiziario militare, approvalo con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md).
 
 ## Art. 3.
 
@@ -82,7 +82,7 @@ Se dopo l'istruzione sommaria il procuratore militare ritiene che non si debba p
 
 ## Art. 10.
 
-Il Tribunale divisionale puo' essere convocato come Tribunale straordinario nei casi previsti dall'[art. 283 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra e dall'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), per disposizione del comandante dell'unita' presso la quale e' costituito.
+Il Tribunale divisionale puo' essere convocato come Tribunale straordinario nei casi previsti dall'[art. 283 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra e dall'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), per disposizione del comandante dell'unita' presso la quale e' costituito.
 
 ## Art. 11.
 

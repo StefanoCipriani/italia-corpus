@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895), col quale e' stato istituito in Roma ed eretto in Ente morale il «Consiglio nazionale di ricerche»; 
+ Veduto il [R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), col quale e' stato istituito in Roma ed eretto in Ente morale il «Consiglio nazionale di ricerche»; 
  
  Veduto lo statuto formulato dal predetto Consiglio, a norma dell'art. 2 del citato Regio decreto; 
  

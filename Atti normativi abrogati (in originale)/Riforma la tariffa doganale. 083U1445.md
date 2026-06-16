@@ -20,7 +20,7 @@ Il secondo periodo dell'articolo 18 delle disposizioni preliminari alla tariffa 
 
 ## Art. 3.
 
-All'[articolo 1 del Regio decreto 1° febbraio 1880, n. 5287](Che%20stabilisce%20con%20un%20testo%20unico%20la%20tariffa%20delle%20tare%20doganali.%20080U5287.md) (Serie 2ª), promulgato in virtu' della legge della stessa data, n. 5268 (Serie 2ª), si aggiungera': 
+All'[articolo 1 del Regio decreto 1° febbraio 1880, n. 5287](../Regi%20decreti/Che%20stabilisce%20con%20un%20testo%20unico%20la%20tariffa%20delle%20tare%20doganali.%20080U5287.md) (Serie 2ª), promulgato in virtu' della legge della stessa data, n. 5268 (Serie 2ª), si aggiungera': 
  
  «Quando lo sdoganamento degli zuccheri sia fatto in recipienti diversi da quelli che servirono a trasportarli nei punti franchi o nei magazzini generali, la tara per le botti, botticelle, caratelli e casse e' ridotta a chilogrammi 5.»
 

@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 21 giugno 1942, n. 970](Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md), concernente fra l'altro, la istituzione in Venezia di un Istituto tecnico industriale per meccanici elettricisti;
+ Visto il [regio decreto 21 giugno 1942, n. 970](../Regi%20decreti/Istituzione%20regificazione%20e%20soppressione%20di%20Regi%20istituti%20e%20Regie%20scuole%20di%20istruzione%20tecnica.%20042U0970.md), concernente fra l'altro, la istituzione in Venezia di un Istituto tecnico industriale per meccanici elettricisti;
  Vista la tabella D allegata al predetto regio decreto (prospetto n. 1), Visto il [decreto luogotenenziale 12 aprile 1946, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;627), riguardante fra l'altro l'istituzione dell'indirizzo specializzato per metallurgici e clinici industriali presso il suddetto Istituto;
  Vista la tabella D annessa al decreto stesso (prosetto n. 2);
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);

@@ -20,7 +20,7 @@ Le disposizioni di cui all'ultimo comma dell'[articolo 3 della legge 24 maggio 1
 
 ## Art. 2.
 
-Il secondo comma dell'articolo 2 del testo unico della legge sugli ufficiali ed agenti di pubblica sicurezza, approvato con [regio decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690), e' sostituito dal seguente:
+Il secondo comma dell'articolo 2 del testo unico della legge sugli ufficiali ed agenti di pubblica sicurezza, approvato con [regio decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md), e' sostituito dal seguente:
  "I funzionari di pubblica sicurezza, eccettuati i dirigenti generali, i dirigenti superiori ed i primi dirigenti che svolgono funzioni di vice questore vicario, sono ufficiali di polizia giudiziaria".
 
 ## Art. 3.

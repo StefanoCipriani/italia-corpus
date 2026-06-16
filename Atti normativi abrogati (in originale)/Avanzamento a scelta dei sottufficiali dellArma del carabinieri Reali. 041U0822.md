@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per poter concorrere all'avanzamento a scelta, i sottufficiali dei carabinieri Reali debbono avere un'anzianita' di grado di non piu' di un anno inferiore a quella che viene stabilita di volta in volta, per l'avanzamento ad anzianita', nei limiti previsti dall'[art. 8 del R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), ferma restando una permanenza nel grado non inferiore alla meta' di quella stabilita dall'articolo medesimo.
+Per poter concorrere all'avanzamento a scelta, i sottufficiali dei carabinieri Reali debbono avere un'anzianita' di grado di non piu' di un anno inferiore a quella che viene stabilita di volta in volta, per l'avanzamento ad anzianita', nei limiti previsti dall'[art. 8 del R. decreto 2 ottobre 1919, n. 1802](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), ferma restando una permanenza nel grado non inferiore alla meta' di quella stabilita dall'articolo medesimo.
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md), che conferisce pieni poteri al Governo del Re;
 
-Vista la [legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021), testo unico, e l'art. 5 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Vista la [legge 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-08-24;4021), testo unico, e l'art. 5 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Sentito il Consiglio dei ministri;
 

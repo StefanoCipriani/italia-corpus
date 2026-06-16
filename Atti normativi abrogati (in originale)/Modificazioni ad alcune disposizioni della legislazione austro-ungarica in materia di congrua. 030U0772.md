@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti il paragrafo 8, terzo comma, della legge austro-ungarica 19 settembre 1898, B.L.I. n. 176, e le corrispondenti norme contenute nelle relative ordinanze esecutive 16 novembre 1898, B.L.I. n. 205, e 14 gennaio 1904, B.L.I. n. 7;
 
-Visti gli articoli 24, capoverso, della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848), e 78 del regolamento approvato con [R. decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262);
+Visti gli articoli 24, capoverso, della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848), e 78 del regolamento approvato con [R. decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md);
 
 Visti gli articoli 29 del Concordato, reso esecutivo con la [legge 27 maggio 1929, n. 810](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;810), e 34, lettera a), della citata [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848);
 

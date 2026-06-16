@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La trattenuta che gli enti organizzatori di mostre d'arte e di altre manifestazioni similari effettuano a norma dei rispettivi regolamenti, sull'importo delle opere vendute, a parziale rimborso delle spese sostenute per l'organizzazione delle mostre stesse, e' aumentata di una somma pari al 2 per cento dell'importo predetto, a favore della Cassa di assistenza del Sindacato nazionale Fascista delle belle arti, riconosciuta giuridicamente col [R. decreto 25 maggio 1936, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-05-25;1216).
+La trattenuta che gli enti organizzatori di mostre d'arte e di altre manifestazioni similari effettuano a norma dei rispettivi regolamenti, sull'importo delle opere vendute, a parziale rimborso delle spese sostenute per l'organizzazione delle mostre stesse, e' aumentata di una somma pari al 2 per cento dell'importo predetto, a favore della Cassa di assistenza del Sindacato nazionale Fascista delle belle arti, riconosciuta giuridicamente col [R. decreto 25 maggio 1936, n. 1216](../Regi%20decreti/Concessione%20del%20riconoscimento%20giuridico%20alla%20Cassa%20di%20assistenza%20del%20Sindacato%20nazionale%20fascista%20delle%20belle%20arti.%20036U1216.md).
 
 ## Art. 2.
 

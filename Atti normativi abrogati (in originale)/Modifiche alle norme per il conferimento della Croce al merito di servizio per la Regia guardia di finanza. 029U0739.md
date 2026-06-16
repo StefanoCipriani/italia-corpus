@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 26 agosto 1905, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-08-26;489), che istituisce la Croce al merito di servizio per la Regia guardia di finanza;
+Visto il [R. decreto 26 agosto 1905, n. 489](../Regi%20decreti/Concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20servizio%20per%20le%20guardie%20di%20finanza.%20005U0489.md), che istituisce la Croce al merito di servizio per la Regia guardia di finanza;
 
 Visti i [Regi decreti 16 maggio 1907, n. 283](Modificazioni%20al%20R.%20decreto%20col%20quale%20fu%20istituita%20una%20Croce%20al%20merito%20di%20servizio%20per%20i%20componenti%20la%20guardia%20di%20finanza.%20007U0283.md), e [24 febbraio 1910, n. 120](Che%20approva%20le%20norme%20pel%20conferimento%20della%20croce%20al%20merito%20di%20servizio%20pel%20corpo%20della%20guardia%20di%20finanza.%20010U0120.md), coi quali furono introdotte modificazioni alle norme per il conferimento della onorificenza anzidetta;
 

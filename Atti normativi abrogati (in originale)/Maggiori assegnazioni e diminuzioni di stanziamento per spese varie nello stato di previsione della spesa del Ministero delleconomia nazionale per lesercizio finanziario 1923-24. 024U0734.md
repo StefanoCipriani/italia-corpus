@@ -42,7 +42,7 @@ VITTORIO EMANUELE III
  scuole superiori di agricoltura . . . . . . . . . » 260,000.--  
  Cap. n. 139 - Inchieste di cui agli articoli 79 
  e seguenti sul regolamento approvato col 
- [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), 
+ [R. decreto 13 marzo 1904, n. 141](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), 
  sugli infortuni, ecc. . . . . . . . . . . . . . . » 350,000.--  
  Cap. n. 195-ter - Spese per lo svolgimento 
  dei servizi nelle nuove Provincie attinenti 

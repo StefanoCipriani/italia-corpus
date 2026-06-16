@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  In virtu' dei poteri conferiti al Governo col [R. decreto-legge 17 marzo 1927, n. 383](Facolta%20al%20Governo%20del%20Re%20di%20provvedere%20ad%20una%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20027U0383.md); 
  
- Veduto il [R. decreto 17 novembre 1927, n. 2217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-17;2217), con cui i comuni di Oriano, Cremezzano e Scarpizzolo sono stati aggregati a quello di Pedergnaga; 
+ Veduto il [R. decreto 17 novembre 1927, n. 2217](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Oliano%20Cremezzano%20e%20Scarpizzolo%20a%20quello%20di%20Pedergnaga.%20027U2217.md), con cui i comuni di Oriano, Cremezzano e Scarpizzolo sono stati aggregati a quello di Pedergnaga; 
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
  

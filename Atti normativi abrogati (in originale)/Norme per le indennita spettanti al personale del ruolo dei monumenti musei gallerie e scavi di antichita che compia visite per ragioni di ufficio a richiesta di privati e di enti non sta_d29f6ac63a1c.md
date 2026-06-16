@@ -20,9 +20,9 @@ Veduto il [R. decreto 23 ottobre 1921, n. 1555](Che%20modifica%20il%20comma%202%
 
 Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md):
 
-Veduto il [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164);
+Veduto il [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md);
 
-Veduto il [R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941);
+Veduto il [R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md);
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Quando il personale del ruolo dei monumenti, dei musei, delle gallerie e degli scavi di antichita', di cui alle tabelle a) e b) del [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), dovra' compiere visite per ragioni di ufficio, su domanda o nell'interesse di privati, di Provincie, di Comuni e di altre Amministrazioni ed enti locali, le indennita' ad esso spettanti per spese di viaggio e di soggiorno, ai sensi degli [articoli 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [11 del R. decreto 3 giugno 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;11), [n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), e 1 del decreto del Ministro per la pubblica istruzione in data l° dicembre 1926 - Anno V (registrato alla Corte dei conti l'8 gennaio 1927, registro 1 Istruzione pubblica, foglio 198), saranno a carico dei privati o delle Amministrazioni medesime.
+Quando il personale del ruolo dei monumenti, dei musei, delle gallerie e degli scavi di antichita', di cui alle tabelle a) e b) del [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), dovra' compiere visite per ragioni di ufficio, su domanda o nell'interesse di privati, di Provincie, di Comuni e di altre Amministrazioni ed enti locali, le indennita' ad esso spettanti per spese di viaggio e di soggiorno, ai sensi degli [articoli 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [11 del R. decreto 3 giugno 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;11), [n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), e 1 del decreto del Ministro per la pubblica istruzione in data l° dicembre 1926 - Anno V (registrato alla Corte dei conti l'8 gennaio 1927, registro 1 Istruzione pubblica, foglio 198), saranno a carico dei privati o delle Amministrazioni medesime.
 
 ## Art. 2.
 

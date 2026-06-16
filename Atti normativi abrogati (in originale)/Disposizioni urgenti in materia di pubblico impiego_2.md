@@ -24,7 +24,7 @@ E M A N A il seguente decreto:
 
 1.
 
-Il personale soggetto a mobilita' d'ufficio, che non accetti la destinazione alla sede assegnata, ovvero che non assuma servizio in tale sede nel termine stabilito, e' collocato in disponibilita' ai sensi dell'articolo 72 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md). Al personale collocato in disponibilita' non si applicano gli articoli 74, 75, 76 e 77, ultimo comma, dello stesso testo unico.
+Il personale soggetto a mobilita' d'ufficio, che non accetti la destinazione alla sede assegnata, ovvero che non assuma servizio in tale sede nel termine stabilito, e' collocato in disponibilita' ai sensi dell'articolo 72 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md). Al personale collocato in disponibilita' non si applicano gli articoli 74, 75, 76 e 77, ultimo comma, dello stesso testo unico.
 
 ## Art. 2.
 

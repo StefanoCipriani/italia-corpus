@@ -164,9 +164,9 @@ Agli insegnanti e' fatto divieto d'impartire lezioni private agli alunni della p
 
 ### Art. 18.
 
-Sono estese al personale delle Regie scuole minerarie le disposizioni del [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), riguardanti i congedi, le aspettative e le punizioni. 
+Sono estese al personale delle Regie scuole minerarie le disposizioni del [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), riguardanti i congedi, le aspettative e le punizioni. 
  
- Per quanto riguarda i provvedimenti disciplinari, le punizioni di cui ai [nn. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_35-num1) e [2 dell'art. 35 del R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_35-num2), sono inflitte dal direttore. Le altre punizioni sono inflitte dal Ministro che, per quelle indicate negli articoli 4, 5, 6 e 7, deve udire il parere di una commissione consultiva da istituire presso il Ministero, a termini del regolamento. Il provvedimento del Ministro e' definitivo.
+ Per quanto riguarda i provvedimenti disciplinari, le punizioni di cui ai [nn. 1](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md) e [2 dell'art. 35 del R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sono inflitte dal direttore. Le altre punizioni sono inflitte dal Ministro che, per quelle indicate negli articoli 4, 5, 6 e 7, deve udire il parere di una commissione consultiva da istituire presso il Ministero, a termini del regolamento. Il provvedimento del Ministro e' definitivo.
 
 ### Art. 19.
 

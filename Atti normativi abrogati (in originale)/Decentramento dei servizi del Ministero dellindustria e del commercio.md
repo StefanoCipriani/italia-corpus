@@ -24,12 +24,12 @@ Sulla proposta del Presidente del Consiglio dei Ministri e Ministro per l'intern
 
 ## Art. 1.
 
-L'[art. 4 del regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_4), e successive modifiche, e' sostituito dal seguente: 
+L'[art. 4 del regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), e successive modifiche, e' sostituito dal seguente: 
  "La ricerca delle sostanze minerali e' consentita solo a chi sia munito di permesso, da rilasciarsi colle modalita' stabilite dall'articolo seguente".
 
 ## Art. 2.
 
-Il [primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_5-com1), [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_5-com2) e [terzo comma dell'art.5 dei regio - decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_5-com3)-4, e successive modifiche, sono sostituiti dai seguenti:
+Il [primo](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), [secondo](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md) e [terzo comma dell'art.5 dei regio - decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md)-4, e successive modifiche, sono sostituiti dai seguenti:
  "Il permesso e' accordato a chi ne faccia domanda ed abbia, a giudizio insindacabile dell'Amministrazione, la capacita' tecnica ed economica necessaria dal Ministro per l'industria e per il commercio, quando si tratti di minerali d'interesse nazionale; dall'ingegnere capo del Distretto minerario per i minerali di interesse locale.
  L'ingegnere capo del Distretto minerario e' tenuto a dare comunicazione alla Amministrazione provinciale, alla Camera di commercio, industria ed agricoltura ed ai Comuni interessati per territorio delle domande che gli siano presentate per i permessi di ricerca di sua competenza; gli Enti suddetti possono presentare le loro osservazioni entro trenta giorni dalla data della comunicazione stessa.
  Per le zone interessanti la difesa, il Ministro per l'industria e per il commercio o l'ingegnere capo del Distretto minerario provvederanno a rilasciare il permesso di ricerca dopo aver inteso l'Amministrazione militare.
@@ -48,19 +48,19 @@ La concessione per la coltivazione di giacimenti di minerali di interesse locale
 
 ## Art. 5.
 
-La concessione per la coltivazione di giacimenti di acque minerali e termali, di cui agli [articoli 14 e seguenti del regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_14), e' fatta dal prefetto, sentito l'ingegnere capo del Genio civile ed il medico provinciale.
+La concessione per la coltivazione di giacimenti di acque minerali e termali, di cui agli [articoli 14 e seguenti del regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), e' fatta dal prefetto, sentito l'ingegnere capo del Genio civile ed il medico provinciale.
  Prima della concessione il prefetto e' tenuto a dare comunicazione alla Amministrazione provinciale, alla Camera di commercio, industria e agricoltura e ai Comuni interessati per territorio, delle domande che gli siano presentate; gli Enti suddetti possono presentare le proprie osservazioni entro trenta giorni dalla data della comunicazione stessa.
  La concessione disposta ai sensi del primo comma non puo' avere una durata superiore a dieci anni e puo' alla scadenza essere rinnovata.
  Contro il provvedimento del prefetto, che conceda o neghi la concessione, puo' essere proposto ricorso al Ministro per l'industria e per il commercio, che decide sentito il Consiglio superiore delle miniere.
 
 ## Art. 6.
 
-Al [primo comma dell'art. 26 del regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_26-com1), e' aggiunto il seguente:
+Al [primo comma dell'art. 26 del regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), e' aggiunto il seguente:
  "La facolta' di consentire la sospensione dei lavori spetta, alla stessa autorita' alla quale e' attribuita la competenza al rilascio delle concessioni per la coltivazione di giacimenti minerali. Tale facolta' spetta in ogni caso all'ingegnere capo del Distretto minerario quando si tratti di sospensione per durata non superiore ad un anno".
 
 ## Art. 7.
 
-Il [secondo comma dell'art. 45 del regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_45-com2), e' sostituito dai seguenti:
+Il [secondo comma dell'art. 45 del regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), e' sostituito dai seguenti:
  "Quando il proprietario non intraprenda la coltivazione della cava o torbiera o non dia ad essa sufficiente sviluppo, l'ingegnere capo del Distretto minerario puo' prefiggere un termine per l'inizio, la ripresa o la intensificazione dei lavori. Trascorso infruttuosamente il termine prefisso, l'ingegnere capo del Distretto minerario puo' dare la concessione della cava o della torbiera in conformita' delle norme contenute nel titolo II del presente decreto, in quanto applicabili. Quando la concessione abbia per oggetto la coltivazione di torbiere interessanti la bonifica idraulica, sara' preventivamente inteso il competente Ufficio del genio civile.
  Contro il provvedimento dell'ingegnere capo del Distretto minerario, che conceda la coltivazione della cava o torbiera, e' ammesso ricorso gerarchico al Ministro per l'industria e per il commercio, che decide sentito il Consiglio superiore delle miniere".
 
@@ -77,7 +77,7 @@ Il decreto di concessione del prefetto determina le modalita' del collaudo, a cu
 
 ## Art. 10.
 
-Il [secondo comma dell'art. 211 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_211-com2), che approva il [testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e' sostituito dal seguente:
+Il [secondo comma dell'art. 211 del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), che approva il [testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e' sostituito dal seguente:
  "Sono sottoposti ad autorizzazione governativa i nuovi impianti termici per la produzione di energia elettrica destinata alla distribuzione, nonche' l'ampliamento degli impianti termici esistenti destinati allo stesso scopo. L'autorizzazione, per gl'impianti la cui potenza installata sia superiore a 5000 kW, e' data dal Ministro per l'industria e per il commercio di concerto col Ministro per i lavori pubblici; negli altri casi e' data dal prefetto, sentito l'ingegnere capo del Genio civile".
 
 ## Art. 11.

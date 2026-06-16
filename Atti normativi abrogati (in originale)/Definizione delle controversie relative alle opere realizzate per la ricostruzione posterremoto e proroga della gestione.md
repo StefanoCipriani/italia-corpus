@@ -38,7 +38,7 @@ Il termine del 31 dicembre 1994, di cui all'[articolo 2, comma 8, del decreto-le
 
 2.
 
-Per gli atti per i quali occorre il parere delle commissioni di cui all'articolo 19 del testo unico approvato con [decreto legislativo 30 marzo 1990, n. 76](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20per%20gli%20interventi%20nei%20territori%20della%20Campania%20Basilicata%20Puglia%20e%20Calabria%20colpiti%20dagli%20eventi%20sismici%20del%20novembre%201980%20del%20febbraio%201981%20e%20del%20marzo%201982.md), in luogo di queste, ove occorra, a richiesta del sindaco del comune interessato, e' nominato dal prefetto competente per territorio un commissario ad acta per la verifica della congruita' e della sussistenza dei requisiti formali e sostanziali in ordine alla concessione dei provvedimenti di assegnazione dei contributi, e per esprimere il prescritto parere.
+Per gli atti per i quali occorre il parere delle commissioni di cui all'articolo 19 del testo unico approvato con [decreto legislativo 30 marzo 1990, n. 76](../Testi%20Unici/Testo%20unico%20delle%20leggi%20per%20gli%20interventi%20nei%20territori%20della%20Campania%20Basilicata%20Puglia%20e%20Calabria%20colpiti%20dagli%20eventi%20sismici%20del%20novembre%201980%20del%20febbraio%201981%20e%20del%20marzo%201982.md), in luogo di queste, ove occorra, a richiesta del sindaco del comune interessato, e' nominato dal prefetto competente per territorio un commissario ad acta per la verifica della congruita' e della sussistenza dei requisiti formali e sostanziali in ordine alla concessione dei provvedimenti di assegnazione dei contributi, e per esprimere il prescritto parere.
 
 3.
 

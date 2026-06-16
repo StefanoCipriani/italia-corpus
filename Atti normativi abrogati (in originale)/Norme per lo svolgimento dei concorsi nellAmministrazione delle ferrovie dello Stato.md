@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli [articoli 1](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [2](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [3](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [4 del decreto legislativo Luogotenenziale 26 marzo 1946, n. 141](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), recante norme per i concorsi relativi ai posti riservati previsti dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_1) e [2 del R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_2), si applicano integralmente anche al personale delle Ferrovie dello Stato.
+Gli [articoli 1](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [2](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [3](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [4 del decreto legislativo Luogotenenziale 26 marzo 1946, n. 141](Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), recante norme per i concorsi relativi ai posti riservati previsti dagli [articoli 1](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md) e [2 del R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), si applicano integralmente anche al personale delle Ferrovie dello Stato.
 
 ## Art. 2.
 

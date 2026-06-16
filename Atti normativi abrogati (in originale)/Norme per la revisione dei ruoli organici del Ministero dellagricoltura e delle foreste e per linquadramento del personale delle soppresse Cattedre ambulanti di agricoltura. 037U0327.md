@@ -155,7 +155,7 @@ Il Ministro per l'agricoltura e le foreste puo' consentire che facciano passaggi
  
  In corrispondenza dei posti che, per effetto del passaggio di ruolo, previsto dal presente articolo, si renderanno vacanti nel ruolo amministrativo, potranno essere coperti altrettanti posti di grado 11° nel ruolo stesso. 
  
- In ogni grado del ruolo amministrativo dovra' mantenersi scoperto - ferma restando l'applicazione dell'[art. 108 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_108) - un numero di posti corrispondente a quello dei soprannumero che risultino nell'ugual grado, del ruolo tecnico in dipendenza dei passaggi, di cui al primo comma, effettuati nello stesso grado ed in quelli superiori. 
+ In ogni grado del ruolo amministrativo dovra' mantenersi scoperto - ferma restando l'applicazione dell'[art. 108 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) - un numero di posti corrispondente a quello dei soprannumero che risultino nell'ugual grado, del ruolo tecnico in dipendenza dei passaggi, di cui al primo comma, effettuati nello stesso grado ed in quelli superiori. 
  
  Il graduale riassorbimento del soprannumero nel ruolo tecnico e' operativo, anzitutto, per la eliminazione delle eccedenze risultanti dai suindicati trasferimenti.
 

@@ -20,9 +20,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Alla tabella B degli stipendi degli insegnanti delle scuole elementari annessa al [R. decreto 13 maggio 1920, n. 1129](Applicazione%20dei%20ruoli%20aperti%20al%20personale%20tecnico%20e%20provinciale%20dellistruzione%20primaria%20e%20popolare.%20020U1129.md), e' sostituita, a decorrere dal 1° gennaio 1924, la tabella A annessa al presente decreto. 
+Alla tabella B degli stipendi degli insegnanti delle scuole elementari annessa al [R. decreto 13 maggio 1920, n. 1129](../Regi%20decreti/Applicazione%20dei%20ruoli%20aperti%20al%20personale%20tecnico%20e%20provinciale%20dellistruzione%20primaria%20e%20popolare.%20020U1129.md), e' sostituita, a decorrere dal 1° gennaio 1924, la tabella A annessa al presente decreto. 
  
- Per il supplemento di servizio attivo valgono le disposizioni dell'[art. 5 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ Per il supplemento di servizio attivo valgono le disposizioni dell'[art. 5 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 
@@ -58,7 +58,7 @@ Lo stipendio e le condizioni di carriera del direttore didattico o direttore sez
 
 ## Art. 9.
 
-La tabella annessa al [R. decreto 31 ottobre 1923, n. 2410](Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md), e' sostituita con l'annessa tabella B.
+La tabella annessa al [R. decreto 31 ottobre 1923, n. 2410](../Regi%20decreti/Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md), e' sostituita con l'annessa tabella B.
 
 ## Art. 10.
 

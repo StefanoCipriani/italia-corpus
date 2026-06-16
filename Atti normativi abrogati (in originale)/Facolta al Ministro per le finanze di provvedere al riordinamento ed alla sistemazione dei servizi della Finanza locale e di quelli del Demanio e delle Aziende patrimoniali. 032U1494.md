@@ -32,7 +32,7 @@ Il Ministro per le finanze e' autorizzato a provvedere, con propri decreti, a qu
 
 ## Art. 2.
 
-Il numero degli ispettori generali (grado 5°) di cui alla tabella della carriera amministrativa (gruppo A) dell'Amministrazione centrale e delle Intendenze di finanza annesso al [R. decreto 21 marzo 1930, n. 219](Approvazione%20dei%20ruoli%20dei%20personali%20finanziari%20in%20applicazione%20del%20R.%20decreto%209%20agosto%201929%20n.%201457.%20030U0219.md), che approva i ruoli dei personali finanziari in applicazione del [R. decreto 9 agosto 1929, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1457), e' portato da 7 ad 8. 
+Il numero degli ispettori generali (grado 5°) di cui alla tabella della carriera amministrativa (gruppo A) dell'Amministrazione centrale e delle Intendenze di finanza annesso al [R. decreto 21 marzo 1930, n. 219](../Regi%20decreti/Approvazione%20dei%20ruoli%20dei%20personali%20finanziari%20in%20applicazione%20del%20R.%20decreto%209%20agosto%201929%20n.%201457.%20030U0219.md), che approva i ruoli dei personali finanziari in applicazione del [R. decreto 9 agosto 1929, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1457), e' portato da 7 ad 8. 
  
  La tabella stessa resta pertanto completata con la seguente aggiunta: 
  

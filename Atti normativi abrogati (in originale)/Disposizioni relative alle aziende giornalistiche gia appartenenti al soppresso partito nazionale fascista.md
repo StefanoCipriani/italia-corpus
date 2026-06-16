@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo luogotenenziale 27 luglio 1944, n. 159](../Decreti%20legislativi%20luogotenenziali/Sanzioni%20contro%20il%20fascismo.%20044U0159.md), sulle sanzioni contro il fascismo;
 
-Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 42](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellEnte%20stampa.%20045U0042.md), concernente la soppressione dell'Ente stampa, nonche' il [regio decreto legislativo 21 maggio 1946, n. 465](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910_2.md);
+Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 42](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellEnte%20stampa.%20045U0042.md), concernente la soppressione dell'Ente stampa, nonche' il [regio decreto legislativo 21 maggio 1946, n. 465](../Regi%20decreti%20legislativi/Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -25,7 +25,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 ## Art. 1.
 
 Al realizzo delle attivita' e alla liquidazione delle passivita' delle aziende giornalistiche gia' appartenenti al soppresso partito nazionale fascista, di proprieta' dello Stato, nonche' alla temporanea gestione delle aziende medesime, provvede la Presidenza del Consiglio dei Ministri, con le modalita' stabilite dal [decreto legislativo luogotenenziale 1° febbraio 1945, n. 42](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellEnte%20stampa.%20045U0042.md), concernente la soppressione dell'Ente stampa.
- Si applica, in materia, la disposizione dell'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910_2.md).
+ Si applica, in materia, la disposizione dell'[art. 8 del regio decreto legislativo 21 maggio 1946, n. 465](../Regi%20decreti%20legislativi/Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20a%20quelli%20della%20spesa%20di%20diversi%20Ministeri%20nonche%20ai%20bilanci%20di%20talune%20Aziende%20autonome%20per%20lesercizio%20finanziario%201945-46%20ed%20altri%20provvedi_ac45f30e8910.md).
 
 ## Art. 2.
 

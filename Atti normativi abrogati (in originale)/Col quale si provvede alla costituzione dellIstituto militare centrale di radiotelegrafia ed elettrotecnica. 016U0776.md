@@ -12,7 +12,7 @@ vigente: true
 
 E' costituito in Roma, alla dipendenza del Ministero della guerra, l'Istituto centrale militare di radiotelegrafia ed elettrotecnica. 
  
- All'art. 32 del testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e' aggiunto il seguente capoverso: 
+ All'art. 32 del testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e' aggiunto il seguente capoverso: 
  
  « l) un Istituto centrale militare di radiotelegrafia ed elettrotecnica ».
 

@@ -16,7 +16,7 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Visto il [R. decreto-legge 20 giugno 1935, n. 1252](Variazione%20di%20tasse%20applicabili%20ad%20alcune%20categorie%20di%20marconigrammi.%20035U1252.md), convertito nella [legge 9 gennaio 1936, n. 176](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201252%20recante%20variazioni%20di%20tasse%20ad%20alcune%20categorie%20di%20marconigrammi.%20036U0176.md);
 

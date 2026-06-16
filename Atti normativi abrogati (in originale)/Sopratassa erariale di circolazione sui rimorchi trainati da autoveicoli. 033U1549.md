@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), che approva il testo di legge sulle tasse ciclistiche e automobilistiche;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), che approva il testo di legge sulle tasse ciclistiche e automobilistiche;
 
 Visto il [R. decreto-legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md), recante provvedimenti di finanza per l'industria automobilistica e per le strade;
 
@@ -42,7 +42,7 @@ A decorrere dal 1° aprile 1934 e' istituita sui rimorchi destinati ad essere tr
  
  per ogni quintale in piu', da oltre 50 quintali sopratassa L. 70 per quintale. 
  
- Si estendono alla sopratassa di cui al presente articolo le esenzioni previste dall'[art. 14 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
+ Si estendono alla sopratassa di cui al presente articolo le esenzioni previste dall'[art. 14 del R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
  
  La sopratassa e' liquidata in base alla portata utile del rimorchio risultante dalla licenza di circolazione ed e' dovuta dal possessore del rimorchio.
 
@@ -63,7 +63,7 @@ Qualora il rimorchio entri in circolazione nel secondo o nel terzo mese del trim
 
 La circolazione dei rimorchi, per i quali non sia stato effettuato il pagamento della sopratassa dovuta, e' punita con la pena pecuniaria da un minimo di tre dodicesimi ad un massimo corrispondente all'intiero ammontare della sopratassa medesima, indipendentemente dall'obbligo del possessore del rimorchio di corrispondere la sopratassa prenotata e non pagata alle scadenze a norma del secondo comma dell'articolo 2. 
  
- Per quanto altro riguarda l'applicazione del presente decreto e per ogni altra infrazione alle disposizioni in esso contenute valgono le norme e le sanzioni stabilite in materia di tassa di circolazione dal [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e disposizioni successive.
+ Per quanto altro riguarda l'applicazione del presente decreto e per ogni altra infrazione alle disposizioni in esso contenute valgono le norme e le sanzioni stabilite in materia di tassa di circolazione dal [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e disposizioni successive.
 
 ## Art. 4.
 

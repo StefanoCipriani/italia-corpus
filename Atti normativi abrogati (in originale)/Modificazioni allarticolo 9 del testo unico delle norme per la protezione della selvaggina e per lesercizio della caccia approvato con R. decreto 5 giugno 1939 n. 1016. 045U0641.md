@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [R. decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md);
+Visto il testo unico delle norme per la protezione della selvaggina e per l'esercizio della caccia, approvato con [R. decreto 5 giugno 1939, n. 1016](../Testi%20Unici/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, d'intesa coi Min
 
 ## Art. 1.
 
-L'art. 9 del testo unico approvato con [R. decreto 5 giugno 1939, n. 1016](Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' modificato come appresso: 
+L'art. 9 del testo unico approvato con [R. decreto 5 giugno 1939, n. 1016](../Testi%20Unici/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md), e' modificato come appresso: 
  «La licenza di caccia e di uccellagione e' personale ed e' valida, salvo revoca, per cinque anni dalla data del rilascio. Tale validita' e' subordinata alla vidimazione annuale e alla rinnovazione annuale del foglietto bollato comprovante il pagamento della tassa e sopra-tassa, nonche' al pagamento delle quote dovute. 
  
  La vidimazione annuale puo' essere effettuata dall'autorita' locale di pubblica sicurezza su delega dell'autorita' provinciale. Essa viene rifiutata quando nel concessionario della licenza siano venute a mancare, in tutto o in parte, le condizioni alle quali e' subordinato il rilascio della licenza stessa. 

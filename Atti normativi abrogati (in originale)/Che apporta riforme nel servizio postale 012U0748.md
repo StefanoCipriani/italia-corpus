@@ -80,7 +80,7 @@ Il primo alinea dell'art. 36 del testo unico delle leggi postali e' modificato c
 
 ## Art. 8.
 
-Il primo alinea dell'art. 26 del testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e' modificato e sostituito dal seguente: 
+Il primo alinea dell'art. 26 del testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e' modificato e sostituito dal seguente: 
  
  La tassa di francatura dei giornali quotidiani pubblicati nel Regno e spediti direttamente dalle Amministrazioni o dagli editori inclusi quelli che non escono nei giorni festivi riconosciuti, e' stabilita come segue: millesimi cinque per ogni esemplare non eccedente, comprese le fasce, 50 grammi; 
  
@@ -94,7 +94,7 @@ Il primo alinea dell'art. 26 del testo unico delle leggi postali approvato con [
 
 L'art. 27 del citato testo unico delle leggi postali e' modificato e sostituito dal seguente: 
  
- La tassa di francatura di cui nell'articolo precedente e' applicata ai periodici pubblicati nel Regno e spediti direttamente dalle Amministrazioni o dagli editori, che escano non meno di una volta al mese ed abbiano come speciale carattere e precipuo scopo quelli indicati nell'art. 71 del regolamento generale approvato con [R. decreto del 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md). 
+ La tassa di francatura di cui nell'articolo precedente e' applicata ai periodici pubblicati nel Regno e spediti direttamente dalle Amministrazioni o dagli editori, che escano non meno di una volta al mese ed abbiano come speciale carattere e precipuo scopo quelli indicati nell'art. 71 del regolamento generale approvato con [R. decreto del 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md). 
  
  La tassa di francatura dei rimanenti periodici, che escano non meno di una volta per semestre e siano egualmente spediti dalle Amministrazioni e dagli editori, e' di centesimi uno per ogni 50 grammi di peso.
 

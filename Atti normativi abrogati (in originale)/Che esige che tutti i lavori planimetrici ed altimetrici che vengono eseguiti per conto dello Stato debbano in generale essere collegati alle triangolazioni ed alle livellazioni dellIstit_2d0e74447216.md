@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 novembre 1886, n. 4138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-11-07;4138) (Serie 3ª), che istituisce il Consiglio superiore dei lavori geodetici;
+Visto il [R. decreto 7 novembre 1886, n. 4138](../Regi%20decreti/Concernente%20listituzione%20del%20Consiglio%20superiore%20di%20lavori%20geodetici%20dello%20Stato.%20086U4138.md) (Serie 3ª), che istituisce il Consiglio superiore dei lavori geodetici;
 
 Visto il Regolamento approvato con [R. decreto 19 luglio 1888, n. 5592](Col%20quale%20e%20approvato%20lannesso%20regolamento%20che%20stabilisce%20le%20norme%20per%20lesercizio%20delle%20funzioni%20del%20Consiglio%20Superiore%20dei%20lavori%20geodetici%20dello%20Stato.%20088U5592.md) (Serie 3ª);
 

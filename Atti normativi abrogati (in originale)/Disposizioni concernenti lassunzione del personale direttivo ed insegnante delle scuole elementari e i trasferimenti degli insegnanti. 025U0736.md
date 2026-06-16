@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti il [decreto Luogotenenziale 15 maggio 1919, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-15;882), ed i [Regi decreti 29 agosto 1919, n. 1675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-29;1675); [9 novembre 1919, n. 2285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-09;2285); [11 marzo 1923, n. 635](Che%20detta%20norme%20per%20i%20concorsi%20le%20nomine%20e%20la%20conferma%20degli%20insegnanti%20elementari.%20023U0635.md); [7 ottobre 1923, n. 2132](Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md); [18 maggio 1924, n. 849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-18;849);
+Veduti il [decreto Luogotenenziale 15 maggio 1919, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-15;882), ed i [Regi decreti 29 agosto 1919, n. 1675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-29;1675); [9 novembre 1919, n. 2285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-09;2285); [11 marzo 1923, n. 635](../Regi%20decreti/Che%20detta%20norme%20per%20i%20concorsi%20le%20nomine%20e%20la%20conferma%20degli%20insegnanti%20elementari.%20023U0635.md); [7 ottobre 1923, n. 2132](../Regi%20decreti/Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md); [18 maggio 1924, n. 849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-18;849);
 
 Riconosciuta l'opportunita' e l'urgenza di apportare deroghe, modificazioni ed aggiunte alle disposizioni dei citati decreti per quanto riguarda il collocamento dei maestri vincitori dei concorsi speciali per ex combattenti, l'assunzione del personale insegnante e direttivo nelle pubbliche scuole elementari ed i trasferimenti degli insegnanti stessi;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-I maestri e le maestre elementari, compresi nelle graduatorie ancora valide dei concorsi speciali, banditi per effetto del [decreto Luogotenenziale 15 maggio 1919, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-15;882), e dei [Regi decreti 29 agosto 1919, n. 1675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-29;1675), [9 novembre 1919, numero 2285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-09;2285), [11 marzo 1923, n. 635](Che%20detta%20norme%20per%20i%20concorsi%20le%20nomine%20e%20la%20conferma%20degli%20insegnanti%20elementari.%20023U0635.md), e [18 maggio 1924, n. 849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-18;849), espletati cosi' dalle Amministrazioni scolastiche provinciali e regionali come dai Comuni che conservano l'amministrazione delle scuole, possono far domanda al Ministero della pubblica istruzione, entro il termine perentorio di sessanta giorni dalla entrata in vigore del presente decreto, per ottenere di essere nominati in uno dei posti che siano o si rendano vacanti, nella misura determinata dall'articolo seguente, nelle scuole delle altre Amministrazioni regionali, nelle quali le graduatorie dei predetti concorsi speciali siano esaurite. 
+I maestri e le maestre elementari, compresi nelle graduatorie ancora valide dei concorsi speciali, banditi per effetto del [decreto Luogotenenziale 15 maggio 1919, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-15;882), e dei [Regi decreti 29 agosto 1919, n. 1675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-29;1675), [9 novembre 1919, numero 2285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-09;2285), [11 marzo 1923, n. 635](../Regi%20decreti/Che%20detta%20norme%20per%20i%20concorsi%20le%20nomine%20e%20la%20conferma%20degli%20insegnanti%20elementari.%20023U0635.md), e [18 maggio 1924, n. 849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-18;849), espletati cosi' dalle Amministrazioni scolastiche provinciali e regionali come dai Comuni che conservano l'amministrazione delle scuole, possono far domanda al Ministero della pubblica istruzione, entro il termine perentorio di sessanta giorni dalla entrata in vigore del presente decreto, per ottenere di essere nominati in uno dei posti che siano o si rendano vacanti, nella misura determinata dall'articolo seguente, nelle scuole delle altre Amministrazioni regionali, nelle quali le graduatorie dei predetti concorsi speciali siano esaurite. 
  
  La domanda in carta legale deve essere accompagnata da un certificato del R. Provveditore agli studi comprovante la votazione complessiva riportata dal richiedente nella graduatoria di provenienza e potra' contenere l'indicazione della Regione, nella quale il richiedente preferisca di essere destinato. 
  
@@ -46,7 +46,7 @@ L'accettazione della nomina conferita a norma degli articoli 1 e 2 importa rinun
 
 ## Art. 4.
 
-Nel [1° comma dell'art. 2 del R. decreto 7 ottobre 1923, numero 2132](Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), sono soppresse le parole «o dai Comuni per le scuole rispettivamente amministrate». 
+Nel [1° comma dell'art. 2 del R. decreto 7 ottobre 1923, numero 2132](../Regi%20decreti/Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), sono soppresse le parole «o dai Comuni per le scuole rispettivamente amministrate». 
  
  All'articolo stesso sono aggiunti i seguenti commi: 
  
@@ -57,13 +57,13 @@ Provveditore agli studi entro il termine di un mese dal giorno della accertata i
 
 ## Art. 5.
 
-L'[art. 7 del R. decreto 7 ottobre 1923, n. 2132](Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), e' sostituito dal seguente: 
+L'[art. 7 del R. decreto 7 ottobre 1923, n. 2132](../Regi%20decreti/Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), e' sostituito dal seguente: 
  
  La Commissione giudicatrice e' nominata, a norma del regolamento, dal R. Provveditore agli studi o dalla Giunta municipale, secondo che trattisi di concorsi banditi per le scuole regionali o comunali, entro un mese dalla data di scadenza del concorso.
 
 ## Art. 6.
 
-Nel [3° comma dell'art. 8 del R. decreto 7 ottobre 1923, n. 2132](Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), dopo le parole «Le graduatorie» sono aggiunte le altre: «dei concorsi banditi dal R. Provveditore agli studi per le scuole da esso amministrate». 
+Nel [3° comma dell'art. 8 del R. decreto 7 ottobre 1923, n. 2132](../Regi%20decreti/Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), dopo le parole «Le graduatorie» sono aggiunte le altre: «dei concorsi banditi dal R. Provveditore agli studi per le scuole da esso amministrate». 
  
  All'articolo stesso e' aggiunto il seguente comma: 
  
@@ -71,7 +71,7 @@ Nel [3° comma dell'art. 8 del R. decreto 7 ottobre 1923, n. 2132](Stato%20giuri
 
 ## Art. 7.
 
-All'ordine di preferenza stabilito pei trasferimenti dall'[art. 17 del R. decreto 7 ottobre 1923, n. 2132](Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), e' sostituito il seguente: 
+All'ordine di preferenza stabilito pei trasferimenti dall'[art. 17 del R. decreto 7 ottobre 1923, n. 2132](../Regi%20decreti/Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), e' sostituito il seguente: 
  
  a) ragioni di famiglia riguardanti maestri coniugati con figli o vedovi con figli, ovvero maestri mutilati o invalidi di guerra, bisognosi di assistenza famigliare; 
  
@@ -85,7 +85,7 @@ All'ordine di preferenza stabilito pei trasferimenti dall'[art. 17 del R. decret
  
  f) anzianita' complessiva di ruolo e qualita' del servizio. 
  
- L'anzianita' di servizio e' computata secondo il disposto dell'[art. 15, comma 4°, del R. decreto 1° ottobre 1923, n. 2185](Ordinamento%20dei%20gradi%20scolastici%20e%20dei%20programmi%20didattici%20dellistruzione%20elementare.%20023U2185.md). 
+ L'anzianita' di servizio e' computata secondo il disposto dell'[art. 15, comma 4°, del R. decreto 1° ottobre 1923, n. 2185](../Regi%20decreti/Ordinamento%20dei%20gradi%20scolastici%20e%20dei%20programmi%20didattici%20dellistruzione%20elementare.%20023U2185.md). 
  
  Di regola non possono ottenere il trasferimento i maestri che nell'ultimo triennio abbiano riportato anche una sola qualifica del servizio inferiore al buono, o ai quali sia stata inflitta, nello stesso periodo di tempo, una punizione superiore alla censura. 
  
@@ -93,7 +93,7 @@ All'ordine di preferenza stabilito pei trasferimenti dall'[art. 17 del R. decret
 
 ## Art. 8.
 
-All'[art. 6, lettera c), del R. decreto 7 ottobre 1923, n. 2132](Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), dopo le parole: «Amministrazioni scolastiche», sono aggiunte le seguenti: «Ai maestri ex-combattenti ed alle maestre congiunte di caduti, mutilati ed invalidi di guerra».
+All'[art. 6, lettera c), del R. decreto 7 ottobre 1923, n. 2132](../Regi%20decreti/Stato%20giuridico%20dei%20maestri%20elementari.%20023U2132.md), dopo le parole: «Amministrazioni scolastiche», sono aggiunte le seguenti: «Ai maestri ex-combattenti ed alle maestre congiunte di caduti, mutilati ed invalidi di guerra».
 
 ### Art. 9.
 
@@ -103,7 +103,7 @@ La prova orale, che sara' sostenuta dai candidati ex-combattenti, che abbiano su
 
 ### Art. 10.
 
-Le agevolazioni concernenti il programma dell'esame orale per il concorso a posti di direttore didattico, di cui all'[articolo 5, comma 1°, del R. decreto-legge 30 ottobre 1924, numero 1820](Disposizioni%20concernenti%20il%20conseguimento%20dellabilitazione%20alla%20direzione%20didattica%20e%20concorso%20a%20posti%20di%20direttore%20didattico%20governativo.%20024U1820.md), sono estese ai candidati che, pur non avendo tenuto l'incarico di una direzione, comprovino la loro qualita' di ex-combattenti, ai sensi del Capo IV del [R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), e successive modificazioni.
+Le agevolazioni concernenti il programma dell'esame orale per il concorso a posti di direttore didattico, di cui all'[articolo 5, comma 1°, del R. decreto-legge 30 ottobre 1924, numero 1820](Disposizioni%20concernenti%20il%20conseguimento%20dellabilitazione%20alla%20direzione%20didattica%20e%20concorso%20a%20posti%20di%20direttore%20didattico%20governativo.%20024U1820.md), sono estese ai candidati che, pur non avendo tenuto l'incarico di una direzione, comprovino la loro qualita' di ex-combattenti, ai sensi del Capo IV del [R. decreto 30 settembre 1922, n. 1290](../Regi%20decreti/Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), e successive modificazioni.
 
 ### Art. 11.
 

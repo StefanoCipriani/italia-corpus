@@ -52,7 +52,7 @@ I possessori di immobili contemplati dall'[art. 5 del Regio decreto-legge 5 otto
 
 ## Art. 4.
 
-Le norme di cui all'[art. 6 del R. decreto-legge 5 novembre 1937, n. 2009](Modificazioni%20alla%20legge%20concernente%20il%20prestito%20redimibile%205%20e%20limposta%20straordinaria%20immobiliare.%20037U2009.md), sono applicabili anche alle domande di detrazione del valore delle opere o di quella parte di esse gratuitamente riversibili, contemplate dall'[art. 22 del Regio decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md). 
+Le norme di cui all'[art. 6 del R. decreto-legge 5 novembre 1937, n. 2009](Modificazioni%20alla%20legge%20concernente%20il%20prestito%20redimibile%205%20e%20limposta%20straordinaria%20immobiliare.%20037U2009.md), sono applicabili anche alle domande di detrazione del valore delle opere o di quella parte di esse gratuitamente riversibili, contemplate dall'[art. 22 del Regio decreto 10 novembre 1936, n. 1933](../Regi%20decreti/Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md). 
  
  Si considerano tali le opere che non trovano corrispettivo, sotto alcuna forma, durante il periodo della concessione, da parte di enti o privati.
 

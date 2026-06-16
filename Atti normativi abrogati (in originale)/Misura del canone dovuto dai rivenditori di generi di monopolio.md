@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
+Visto il [regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
 
 Visto il decreto Ministeriale del 10 luglio 1946;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per il teso
 
 ## Art. 1.
 
-L'[art. 76 del regio decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), modificato con l'art. 1 del decreto Ministeriale del 10 luglio 1946, e' abrogato e sostituito dal seguente:
+L'[art. 76 del regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md), modificato con l'art. 1 del decreto Ministeriale del 10 luglio 1946, e' abrogato e sostituito dal seguente:
  "Art. 76. - Il canone dovuto dai rivenditori dei generi di monopolio per ogni esercizio finanziario e' commisurato al reddito dell'esercizio precedente, quando tale reddito abbia superato le L. 220.000.
  Sulla parte di reddito eccedente tale somma, il canone e' liquidato sulla base della seguente scala graduale:
 

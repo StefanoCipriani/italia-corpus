@@ -299,7 +299,7 @@ portatore............ 2% 4% 6% 10%
  
  Le Commissioni giudicanti hanno tutte le facolta' conferite dall'articolo 44 ai funzionari delle imposte. 
  Le Commissioni di prima istanza hanno, inoltre, la facolta' di eseguire d'ufficio accertamenti non proposti dagli Uffici distrettuali e di elevare le cifre di patrimonio fissate dagli Uffici, o concordate tra i contribuenti e l'ufficio, anche se gia' inscritte a ruolo. 
- Sono applicabili ai fini del presente decreto, le disposizioni contenute negli [articoli 15](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md) e [21 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md). 
+ Sono applicabili ai fini del presente decreto, le disposizioni contenute negli [articoli 15](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md) e [21 del regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md). 
  La facolta' concessa dal comma precedente alle Commissioni cessa col 31 dicembre dell'anno successivo a quello in cui si verifica la prescrizione dell'azione della finanza, a norma dell'articolo 61 del presente decreto. 
  
  

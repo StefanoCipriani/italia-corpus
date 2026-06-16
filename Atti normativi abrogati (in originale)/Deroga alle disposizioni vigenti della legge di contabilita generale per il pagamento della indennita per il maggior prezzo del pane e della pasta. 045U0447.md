@@ -20,7 +20,7 @@ Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto l'[art. 56 del R. decreto 18 novembre 1923, numero 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), che approva le disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato:
+Visto l'[art. 56 del R. decreto 18 novembre 1923, numero 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), che approva le disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato:
 
 Visto l'[art. 4 del decreto legislativo Luogotenenziale 30 settembre 1944, n. 299](Proroga%20al%2031%20dicembre%201944%20dellesercizio%20provvisorio%20del%20bilancio%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20044U0299.md), concernente proroga dell'esercizio provvisorio ed altri provvedimenti di carattere finanziario;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per il tesoro; Abbiamo sanzionato e promulghiamo qua
 
 ## Art. 1.
 
-Fino a sei mesi dalla data di dichiarazione della cessazione dello stato di guerra gli ordini di accreditamento a favore dei Prefetti per le assegnazioni di fondi destinati al pagamento della indennita' di cui all'[art. 3 del decreto legislativo Luogotenenziale 22 febbraio 1945, n. 38](Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md), sul prezzo del pane e della pasta, possono essere emessi in eccedenza al limite previsto dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e dell'art. 4 del decreto legislativo Luogotenenziale 30 settembre 1944, n, 299.
+Fino a sei mesi dalla data di dichiarazione della cessazione dello stato di guerra gli ordini di accreditamento a favore dei Prefetti per le assegnazioni di fondi destinati al pagamento della indennita' di cui all'[art. 3 del decreto legislativo Luogotenenziale 22 febbraio 1945, n. 38](Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md), sul prezzo del pane e della pasta, possono essere emessi in eccedenza al limite previsto dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e dell'art. 4 del decreto legislativo Luogotenenziale 30 settembre 1944, n, 299.
 
 ## Art. 2.
 

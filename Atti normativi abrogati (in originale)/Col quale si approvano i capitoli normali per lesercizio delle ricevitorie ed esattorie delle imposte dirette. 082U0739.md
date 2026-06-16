@@ -12,7 +12,7 @@ IL MINISTRO DELLE FINANZE
 
 Visto l'[articolo 4 della legge del 20 aprile 1871, n. 192](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md), (Serie 2ª);
 
-Visto il regolamento approvato col [R. decreto del 14 maggio 1882, n. 738](Che%20approva%20il%20regolamento%20per%20la%20riscossione%20delle%20imposte%20dirette.%20082U0738.md) (Serie 3ª);
+Visto il regolamento approvato col [R. decreto del 14 maggio 1882, n. 738](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20riscossione%20delle%20imposte%20dirette.%20082U0738.md) (Serie 3ª);
 
 Di concerto col Ministro dell'Interno e sentito il Consiglio di Stato, Decreta:
 

@@ -48,7 +48,7 @@ Nessun indennizzo e' dovuto per la distrazione di allevamenti, di attrezzi o d'a
 
 ## Art. 5.
 
-Le infrazioni alle disposizioni emanate dal Ministero dell'economia nazionale in esecuzione del presento decreto, sono punite con l'ammenda da L. 50 a L. 1000 senza pregiudizio delle maggiori pene per le eventuali infrazioni alle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Le infrazioni alle disposizioni emanate dal Ministero dell'economia nazionale in esecuzione del presento decreto, sono punite con l'ammenda da L. 50 a L. 1000 senza pregiudizio delle maggiori pene per le eventuali infrazioni alle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  In caso di recidiva l'ammenda si applica in misura doppia.
 

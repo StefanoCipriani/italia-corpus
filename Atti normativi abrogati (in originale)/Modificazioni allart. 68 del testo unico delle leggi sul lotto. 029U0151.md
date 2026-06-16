@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'art. 68 del testo unico delle leggi sul lotto, approvato con [R. decreto 29 luglio 1925, n. 1456](Approvazione%20del%20nuovo%20testo%20unico%20delle%20leggi%20sul%20lotto.%20025U1456.md), e' integrato alla lettera a) del seguente comma: 
+ L'art. 68 del testo unico delle leggi sul lotto, approvato con [R. decreto 29 luglio 1925, n. 1456](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20leggi%20sul%20lotto.%20025U1456.md), e' integrato alla lettera a) del seguente comma: 
  
  «L'assimilazione si estende altresi' ai concorsi a premi di qualsiasi forma intesi ad accreditare, con mezzi e per fini reclamistici, determinati prodotti e ad eccitarne la diffusione e lo smercio». 
  

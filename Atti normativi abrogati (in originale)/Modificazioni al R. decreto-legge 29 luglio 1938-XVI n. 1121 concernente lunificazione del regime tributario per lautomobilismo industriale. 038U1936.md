@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), che approva il testo di legge sulle tasse ciclistiche e automobilistiche e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), che approva il testo di legge sulle tasse ciclistiche e automobilistiche e successive modificazioni;
 
 Visto il [R. decreto-legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md), convertito nella [legge 29 novembre 1928, n. 3421](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2029%20dicembre%201927%20n.%202446%20contenente%20provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20028U3421.md), che istitui' la tassa fissa sui rimorchi;
 
@@ -68,7 +68,7 @@ Al secondo comma dell'art. 5 del R. decreto-legge 29 luglio 1938-XVI, n. 1121, s
  
  «f) esenzione per un quinquennio, a decorrere dal mese di prima immatricolazione, per gli autocarri elettrici ad accumulatori; 
  
- «g) per gli autocarri che abbiano gia' ottenuto o che otterranno il «Brevetto di conformita'» a norma della [legge 30 maggio 1932, n. 759](Incremento%20dellautomobilismo%20pesante.%20032U0759.md), del [R. decreto 21 settembre 1933, n. 1449](Norme%20esecutive%20per%20lapplicazione%20della%20legge%2030%20maggio%201932%20n.%20759%20sullincremento%20dellautomobilismo%20pesante.%20033U1449.md), recante norme esecutive per l'applicazione di detta legge e disposizioni successive, restano fermi i benefici consentiti dalle accennate disposizioni di legge.
+ «g) per gli autocarri che abbiano gia' ottenuto o che otterranno il «Brevetto di conformita'» a norma della [legge 30 maggio 1932, n. 759](Incremento%20dellautomobilismo%20pesante.%20032U0759.md), del [R. decreto 21 settembre 1933, n. 1449](../Regi%20decreti/Norme%20esecutive%20per%20lapplicazione%20della%20legge%2030%20maggio%201932%20n.%20759%20sullincremento%20dellautomobilismo%20pesante.%20033U1449.md), recante norme esecutive per l'applicazione di detta legge e disposizioni successive, restano fermi i benefici consentiti dalle accennate disposizioni di legge.
 Tali benefici non possono essere estesi agli autocarri costruiti in conformita' di quanto e' previsto all'[art. 1 del R. decreto-legge 14 luglio 1937, n. 1809](Disciplina%20della%20produzione%20automobilistica%20pesante%20e%20della%20circolazione%20dei%20motocarri.%20037U1809.md)».
 
 ## Art. 4.

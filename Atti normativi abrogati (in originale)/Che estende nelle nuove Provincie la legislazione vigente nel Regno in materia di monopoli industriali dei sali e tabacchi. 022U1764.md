@@ -140,7 +140,7 @@ Agli approdi doganali di cui al [1° comma dell'art. 2 del reg. 1° agosto 1901,
 
 ## Art. 6.
 
-Fino a quando continueranno a funzionare nelle nuove Provincie i giudizi di finanza attualmente esistenti le multe e le altre pene portate dalle disposizioni legislative di cui all'art. 1 del presente decreto sono applicate dalle autorita' competenti secondo le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza e secondo le norme di procedura attualmente vigenti nelle nuove Provincie. 
+Fino a quando continueranno a funzionare nelle nuove Provincie i giudizi di finanza attualmente esistenti le multe e le altre pene portate dalle disposizioni legislative di cui all'art. 1 del presente decreto sono applicate dalle autorita' competenti secondo le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) di finanza e secondo le norme di procedura attualmente vigenti nelle nuove Provincie. 
  
  Per le decisioni delle contravvenzioni in via amministrativa sono osservate le norme stabilite con le disposizioni estese. 
  

@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduti gli [articoli 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115) e [218 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_218) approvato con [R. decreto 1° agosto 1907, numero 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
+Veduti gli [articoli 115](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [218 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, numero 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
 
-Veduto il [Regio decreto 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45), che approva il regolamento per la esecuzione della legge sulla tutela dell'igiene e della sanita' pubblica;
+Veduto il [Regio decreto 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md), che approva il regolamento per la esecuzione della legge sulla tutela dell'igiene e della sanita' pubblica;
 
 Veduto il [Regio decreto 7 febbraio 1892, n. 55](Che%20stabilisce%20lelenco%20dei%20colori%20nocivi.%20092U0055.md), che approva l'elenco dei colori nocivi e fissa la proporzione dei sali di rame nelle conserve alimentari;
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro ministro segretario Stato per gli affari dell'interno,
 
 ## Art. 1.
 
-Sono ritenuti nocivi e quindi vietati ai termini dell'[art. 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115), e delle disposizioni contenute nel presente decreto: 
+Sono ritenuti nocivi e quindi vietati ai termini dell'[art. 115 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e delle disposizioni contenute nel presente decreto: 
  
  a) tutti i coloranti artificiali organici, eccetto i seguenti: 
  
@@ -126,7 +126,7 @@ Le proporzioni dei sali di rame tollerati per il rinverdimento delle conserve al
 
 ## Art. 7.
 
-Senza pregiudizio di ogni altro procedimento a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), i contravventori alle disposizioni del presente decreto saranno puniti a norma del citato [articolo 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115) 1° agosto 1907, n. 636;
+Senza pregiudizio di ogni altro procedimento a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), i contravventori alle disposizioni del presente decreto saranno puniti a norma del citato [articolo 115 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636;
 
 ## Art. 8.
 

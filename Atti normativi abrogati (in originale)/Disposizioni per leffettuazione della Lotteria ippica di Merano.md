@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 9 maggio 1935, n. 748](Autorizzazione%20ad%20effet
 
 Visto il [regio decreto-legge 1° luglio 1938, n. 1256](Istituzione%20di%20una%20terza%20lotteria%20nazionale%20denominata%20Lotteria%20E%2042.%20038U1256.md), convertito nella [legge 19 gennaio 1939, n. 102](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201938-XVI%20n.%201256%20riguardante%20la%20istituzione%20di%20una%20terza%20lotteria%20nazionale%20denominata%20%20Lotteria%20E.%2042%20.%20039U0102.md);
 
-Visto il relativo regolamento, approvato con [regio decreto 24 dicembre 1938, n. 2054](Approvazione%20del%20regolamento%20generale%20delle%20Lotterie%20nazionali%20E.%2042%20Tripoli%20e%20Merano.%20038U2054.md);
+Visto il relativo regolamento, approvato con [regio decreto 24 dicembre 1938, n. 2054](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20delle%20Lotterie%20nazionali%20E.%2042%20Tripoli%20e%20Merano.%20038U2054.md);
 
 Vista la [legge 16 dicembre 1941, n. 1533](Sospensione%20delleffettuazione%20della%20Lotteria%20Esposizione%20di%20Roma.%20041U1533.md);
 
@@ -57,7 +57,7 @@ Le norme che regolano l'effettuazione annuale della "Lotteria ippica", le modali
 
 ## Art. 3.
 
-Le disposizioni del [regio decreto-legge 1° luglio 1938, n. 1256](Istituzione%20di%20una%20terza%20lotteria%20nazionale%20denominata%20Lotteria%20E%2042.%20038U1256.md), e del relativo regolamento approvato con [regio decreto 24 dicembre 1938, n. 2054](Approvazione%20del%20regolamento%20generale%20delle%20Lotterie%20nazionali%20E.%2042%20Tripoli%20e%20Merano.%20038U2054.md), nonche' quelle delle [leggi 16 dicembre 1941, n. 1533 e 27 maggio 1943, numero 518](Sospensione%20delleffettuazione%20della%20Lotteria%20automobilistica%20di%20Tripoli%20per%20lanno%201943.%20043U0518.md), sono abrogate, in quanto non compatibili col presente decreto. 
+Le disposizioni del [regio decreto-legge 1° luglio 1938, n. 1256](Istituzione%20di%20una%20terza%20lotteria%20nazionale%20denominata%20Lotteria%20E%2042.%20038U1256.md), e del relativo regolamento approvato con [regio decreto 24 dicembre 1938, n. 2054](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20delle%20Lotterie%20nazionali%20E.%2042%20Tripoli%20e%20Merano.%20038U2054.md), nonche' quelle delle [leggi 16 dicembre 1941, n. 1533 e 27 maggio 1943, numero 518](Sospensione%20delleffettuazione%20della%20Lotteria%20automobilistica%20di%20Tripoli%20per%20lanno%201943.%20043U0518.md), sono abrogate, in quanto non compatibili col presente decreto. 
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

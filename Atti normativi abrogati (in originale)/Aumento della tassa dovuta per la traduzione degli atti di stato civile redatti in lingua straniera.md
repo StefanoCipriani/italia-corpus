@@ -17,7 +17,7 @@ IL PRESIDENTE DELLA REPUBBLICA la seguente legge:
 ## Articolo unico.
 
 L'[art. 16 della legge 7 gennaio 1937, n. 23](Norme%20sullordinamento%20dellUfficio%20traduzioni%20presso%20il%20Ministero%20di%20grazia%20e%20giustizia.%20037U0023.md), sull'ordinamento dell'Ufficio traduzioni presso il Ministero di grazia e giustizia, e' sostituito dal seguente:
- "Per ogni atto o documento dello stato civile, tradotto ai sensi dell'[art. 58 del regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238#art_58), sull'ordinamento dello stato civile, deve essere corrisposta una tassa di concessione governativa di lire 1000. La tassa e' di lire 600 quando la richiesta sia fatta dal Comune nell'interesse di persone la cui poverta' sia constatata mediante certificato.
+ "Per ogni atto o documento dello stato civile, tradotto ai sensi dell'[art. 58 del regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), sull'ordinamento dello stato civile, deve essere corrisposta una tassa di concessione governativa di lire 1000. La tassa e' di lire 600 quando la richiesta sia fatta dal Comune nell'interesse di persone la cui poverta' sia constatata mediante certificato.
  "La tassa si corrisponde mediante applicazione di marche, che debbono essere annullate con il timbro dell'Ufficio traduzioni".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

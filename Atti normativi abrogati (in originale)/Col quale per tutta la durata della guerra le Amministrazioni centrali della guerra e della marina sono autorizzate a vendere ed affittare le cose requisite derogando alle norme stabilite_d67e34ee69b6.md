@@ -16,7 +16,7 @@ Per tutta la durata della guerra le Amministrazioni centrali della guerra e dell
 
 ## Art. 2.
 
-Agli atti e contratti che regolano le requisizioni o che ne sono la conseguenza od a quelli compiuti in base al presente decreto qualora siano soggetti a registrazione sara' applicabile l'[art. 11 del R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md). 
+Agli atti e contratti che regolano le requisizioni o che ne sono la conseguenza od a quelli compiuti in base al presente decreto qualora siano soggetti a registrazione sara' applicabile l'[art. 11 del R. decreto 26 giugno 1915, n. 993](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -509,7 +509,7 @@ NOTE
 
 1.
 
-I rapporti tra lo Stato e le aziende autonome statali prive di personalita' giuridica, in materia di utilizzazione di beni immobili, sono reciprocamente regolati a norma del [secondo comma dell'articolo 1 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_1-com2).
+I rapporti tra lo Stato e le aziende autonome statali prive di personalita' giuridica, in materia di utilizzazione di beni immobili, sono reciprocamente regolati a norma del [secondo comma dell'articolo 1 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 2.
 
@@ -523,7 +523,7 @@ Nota all'art. 2:
 
 1.
 
-Alle concessioni assentite e alle locazioni stipulate a norma degli articoli precedenti si applicano, salvo quanto previsto nella presente legge, le disposizioni del [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente l'amministrazione del patrimonio e la contabilita' generale dello Stato, e del relativo regolamento di esecuzione approvato con il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), nonche' quelle del [decreto ministeriale 24 agosto 1940, n. 2984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1940-08-24;2984), di approvazione delle istruzioni generali sui servizi del Provveditorato generale dello Stato.
+Alle concessioni assentite e alle locazioni stipulate a norma degli articoli precedenti si applicano, salvo quanto previsto nella presente legge, le disposizioni del [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente l'amministrazione del patrimonio e la contabilita' generale dello Stato, e del relativo regolamento di esecuzione approvato con il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), nonche' quelle del [decreto ministeriale 24 agosto 1940, n. 2984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1940-08-24;2984), di approvazione delle istruzioni generali sui servizi del Provveditorato generale dello Stato.
 
 2.
 

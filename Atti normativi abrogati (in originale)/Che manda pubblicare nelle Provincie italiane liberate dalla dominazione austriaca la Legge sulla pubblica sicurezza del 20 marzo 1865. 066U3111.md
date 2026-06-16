@@ -44,7 +44,7 @@ In tutti i casi nei quali e' fatta menzione dei Giudici di Mandamento s'intender
 
 ## Art. 4.
 
-Fino a che sara' in vigore nelle suddette Provincie il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 marzo 1852, agli articoli 33, 113, 114, 117 della suddetta legge rimarranno sostituiti i seguenti: 
+Fino a che sara' in vigore nelle suddette Provincie il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 marzo 1852, agli articoli 33, 113, 114, 117 della suddetta legge rimarranno sostituiti i seguenti: 
  
  «Art. 33. Nei regolamenti decretati dai Prefetti e nei manifesti dell'autorita' locale di sicurezza pubblica relativi ai teatri, agli spettacoli e trattenimenti pubblici si possono comminare l'arresto da ventiquattro ore a cinque giorni, e la multa da lire 2 a lire 50, l'espulsione dal locale ed anche l'immediato arresto dei contravventori.» 
  
@@ -56,7 +56,7 @@ Fino a che sara' in vigore nelle suddette Provincie il [Codice penale](../Codici
 
 ## Art. 5.
 
-Per l'attuazione della suddetta legge per la sicurezza pubblica, sono pubblicati nelle dette Provincie, e vi avranno forza di legge gli [articoli 435](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [436 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno del 20 novembre 1859, i quali sono del tenore seguente: 
+Per l'attuazione della suddetta legge per la sicurezza pubblica, sono pubblicati nelle dette Provincie, e vi avranno forza di legge gli [articoli 435](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [436 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno del 20 novembre 1859, i quali sono del tenore seguente: 
  
  «Art. 435. Si avranno per oziosi coloro i quali, sani e robusti e non provveduti di sufficienti mezzi di sussistenza, vivono senza esercitare professione, arte o mestiere, o senza darsi a stabile lavoro.» 
  
@@ -70,7 +70,7 @@ Per l'attuazione della suddetta legge per la sicurezza pubblica, sono pubblicati
 
 ## Art. 6.
 
-Sono pure pubblicati per avervi forza di legge nelle dette Provincie gli articoli 437, 439, 440, 441 e 446 del suddetto [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno modificati come segue: 
+Sono pure pubblicati per avervi forza di legge nelle dette Provincie gli articoli 437, 439, 440, 441 e 446 del suddetto [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno modificati come segue: 
  
  «Art. 437. I vagabondi dichiarati legalmente tali saranno per questo solo fatto puniti con l'arresto rigoroso per tre mesi. 
  
@@ -95,7 +95,7 @@ Sono pure pubblicati per avervi forza di legge nelle dette Provincie gli articol
 
 ## Art. 7.
 
-La giurisdizione pei reati contemplati sia nella legge di pubblica sicurezza, sia negli articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pubblicati col presente Decreto, spetta alle Preture, le quali nell'esercitare tale giurisdizione osserveranno le norme per esse tracciate nel regolamento di procedura penale austriaco del 29 luglio 1853, e le altre leggi relative. 
+La giurisdizione pei reati contemplati sia nella legge di pubblica sicurezza, sia negli articoli del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pubblicati col presente Decreto, spetta alle Preture, le quali nell'esercitare tale giurisdizione osserveranno le norme per esse tracciate nel regolamento di procedura penale austriaco del 29 luglio 1853, e le altre leggi relative. 
  
  Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

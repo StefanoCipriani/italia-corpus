@@ -14,7 +14,7 @@ Il contingente di prima categoria che dovra' somministrare la leva militare da e
 
 ## Art. 2.
 
-Per l'esecuzione di quanto prescrive l'articolo 10 del testo unico delle leggi sul reclutamento dell'esercito, approvato col [Regio decreto del 26 luglio 1876, n. 3260](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20076U3260.md) (Serie 2ª), il contingente di prima categoria assegnato alle singole provincie della Venezia ed a quella di Mantova, sara' suddiviso fra i distretti amministrativi che le compongono. 
+Per l'esecuzione di quanto prescrive l'articolo 10 del testo unico delle leggi sul reclutamento dell'esercito, approvato col [Regio decreto del 26 luglio 1876, n. 3260](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20076U3260.md) (Serie 2ª), il contingente di prima categoria assegnato alle singole provincie della Venezia ed a quella di Mantova, sara' suddiviso fra i distretti amministrativi che le compongono. 
  
  Il distretto amministrativo vi rappresenta il mandamento per effetti contemplati nel citato testo unico delle leggi sul reclutamento. 
  

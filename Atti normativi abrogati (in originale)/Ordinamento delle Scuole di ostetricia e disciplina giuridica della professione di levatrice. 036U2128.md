@@ -20,7 +20,7 @@ Veduto il R. decreto-legge 12 agosto 1927-V, n. 1634, concernente l'ordinamento 
 
 Veduto il regolamento per l'esercizio ostetrico delle levatrici approvato con R. decreto 6 dicembre 1928-VII, n. 3318;
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con Regio decreto 27 luglio 1934-XII, n. 1265;
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con Regio decreto 27 luglio 1934-XII, n. 1265;
 
 Veduto il R. decreto 5 marzo 1935-XIII, n. 184, sulla nuova disciplina giuridica delle professioni sanitarie;
 
@@ -172,9 +172,9 @@ Per gli atti di competenza delle Scuole di ostetricia sono dovuti i diritti di s
 
 ### Art. 17.
 
-Chiunque, anche se munita di titolo professionale, esercita la professione di levatrice senza essere iscritta nel relativo albo, e' punita con le pene stabilite nell'[art. 348 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque, anche se munita di titolo professionale, esercita la professione di levatrice senza essere iscritta nel relativo albo, e' punita con le pene stabilite nell'[art. 348 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Restano forme le disposizioni del R. decreto-legge 5 marzo 1935-XIII, n. 184, e del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con, R. decreto 27 luglio 1934-XII, n. 1265, in quanto si riferiscono alla disciplina giuridica della professione di levatrice.
+ Restano forme le disposizioni del R. decreto-legge 5 marzo 1935-XIII, n. 184, e del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con, R. decreto 27 luglio 1934-XII, n. 1265, in quanto si riferiscono alla disciplina giuridica della professione di levatrice.
 
 ### Art. 18.
 

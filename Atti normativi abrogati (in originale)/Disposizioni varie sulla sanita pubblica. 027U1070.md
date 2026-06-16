@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'[art. 16 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), modificato dal [R. decreto-legge 27 aprile 1924, n. 621](Composizione%20del%20Consiglio%20superiore%20di%20sanita.%20024U0621.md), e' sostituito il seguente: 
+All'[art. 16 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), modificato dal [R. decreto-legge 27 aprile 1924, n. 621](Composizione%20del%20Consiglio%20superiore%20di%20sanita.%20024U0621.md), e' sostituito il seguente: 
  
  Il Consiglio superiore di sanita' e' composto: 
  
@@ -70,7 +70,7 @@ All'[art. 16 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinam
  
  un rappresentante dei medici chirurghi, uno dei veterinari e uno dei farmacisti esercenti nel Regno, designati dalle rispettive associazioni sindacali legalmente riconosciute agli effetti della legge 3 aprile 1926. n. 563: le norme, i termini e le condizioni per far luogo alle predette designazioni saranno stabilite con decreto Reale su proposta dei Ministri per l'interno e per le corporazioni. 
  
- Sono abrogati i primi tre comma, [lettera a) dell'art. 1 del decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910#art_1-leta), l'art. 10 del regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45, e l'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45#art_2) del [decreto Luogotenenziale 17 ottobre 1918, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-17;691), modificato con [decreto-legge 5 gennaio 1919, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-01-05;36). 
+ Sono abrogati i primi tre comma, [lettera a) dell'art. 1 del decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910#art_1-leta), l'art. 10 del regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45, e l'art. 2](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md) del [decreto Luogotenenziale 17 ottobre 1918, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-17;691), modificato con [decreto-legge 5 gennaio 1919, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-01-05;36). 
  
  Nella prima attuazione della presente legge, i componenti che saranno nominati con Regio decreto scadranno dalla carica il 31 dicembre 1929. 
  
@@ -80,7 +80,7 @@ All'[art. 16 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinam
 
 ## Art. 2.
 
-All'[art. 8 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_8) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e successive modificazioni, e' sostituito il seguente: 
+All'[art. 8 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e successive modificazioni, e' sostituito il seguente: 
  
  Il Consiglio provinciale di sanita' e' composto di: 
  
@@ -114,7 +114,7 @@ All'[art. 8 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri
 
 ## Art. 3.
 
-Il [4° comma dell'art. 5 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' soppresso. 
+Il [4° comma dell'art. 5 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' soppresso. 
  
  Il 5° comma dell'articolo stesso e' modificato come segue: 
  
@@ -122,19 +122,19 @@ Il [4° comma dell'art. 5 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20de
 
 ## Art. 4.
 
-La [lettera d) dell'art. 21 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' modificata come segue: 
+La [lettera d) dell'art. 21 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' modificata come segue: 
  
  «approva la tariffa dei compensi per le indagini di interesse privato eseguite nei laboratori di vigilanza igienica».
 
 ## Art. 5.
 
-All'[art. 17 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_17), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), modificato dall'[art. 23 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' aggiunto il seguente comma: 
+All'[art. 17 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), modificato dall'[art. 23 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' aggiunto il seguente comma: 
  
  «Riceve dagli esercenti la professione di medico-chirurgo le informazioni sui fatti e sulle circostanze, che possono interessare la sanita' pubblica, e le denunzie degli aborti. Quando, nell'esercizio delle sue funzioni, abbia notizia di un reato per il quale si debba procedere di ufficio, deve darne denunzia mediante rapporto».
 
 ## Art. 6.
 
-L'ultima parte dell'[art. 31 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' modificata come segue: 
+L'ultima parte dell'[art. 31 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' modificata come segue: 
  
  «La misura di tale compenso per le singole prestazioni e le modalita' del relativo versamento da parte dei privati e della liquidazione verranno stabilite, con effetto dalla data di pubblicazione della presente legge, dal Prefetto, sentito il Consiglio provinciale di sanita' e la Giunta provinciale amministrativa. 
  
@@ -148,21 +148,21 @@ L'ultima parte dell'[art. 31 del R. decreto 30 dicembre 1923, n. 2889](Riforma%2
 
 ## Art. 7.
 
-L'ultimo comma dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' modificato come segue: 
+L'ultimo comma dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' modificato come segue: 
  
  «Uguale attribuzione spetta alla Giunta provinciale amministrativa per la determinazione degli stipendi minimi degli ufficiali sanitari, con nomina regolare in seguito a concorso, tenuto conto dell'importanza del servizio».
 
 ## Art. 8.
 
-All'[art. 39 del R. decreto 30 dicembre 1923, n.2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' aggiunto il seguente comma: 
+All'[art. 39 del R. decreto 30 dicembre 1923, n.2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' aggiunto il seguente comma: 
  
  «Il procedimento, di cui al presente articolo, sara' seguito anche per le sanzioni disciplinari previste dall'[art. 2 del R. decreto legge 23 ottobre 1925, n. 2113](Istituzione%20del%20servizio%20ispettivo%20sui%20Comuni%20e%20sulle%20Provincie%20e%20modificazioni%20alle%20disposizioni%20della%20legge%20comunale%20e%20provinciale.%20025U2113.md), nei riguardi dei sanitari comunali».
 
 ## Art. 9.
 
-All'[art. 55 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_55), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
+All'[art. 55 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
  
- «Gli esercenti la professione di medico-chirurgo, oltre a quanto e' prescritto nell'[art. 154 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_154), approvato con [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)-2132, sono obbligati: 
+ «Gli esercenti la professione di medico-chirurgo, oltre a quanto e' prescritto nell'[art. 154 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)-2132, sono obbligati: 
  
  a) a denunziare al podesta', in ogni caso di morte, la malattia che ne e' stata la causa; 
  
@@ -180,7 +180,7 @@ All'[art. 55 del testo unico delle leggi sanitarie](https://www.normattiva.it/ur
 
 La levatrice e' obbligata a ricorrere all'opera del medico-chirurgo non appena nell'andamento della gestazione o del parto o del puerperio riscontri qualsiasi fatto irregolare. A tale scopo deve rilevare con diligenza tutti i fenomeni che si svolgono nella gestante o partoriente o puerpera, alla quale presti la sua assistenza. 
  
- La contravvenzione alla presente disposizione e' punita con l'ammenda estensibile a L. 500, alla quale, nei casi gravi, si aggiungera' l'arresto fino a tre mesi, salvo l'applicazione delle maggiori pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La contravvenzione alla presente disposizione e' punita con l'ammenda estensibile a L. 500, alla quale, nei casi gravi, si aggiungera' l'arresto fino a tre mesi, salvo l'applicazione delle maggiori pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 11.
 
@@ -212,9 +212,9 @@ I presidi medici o chirurgici messi abusivamente in vendita sono confiscati ed i
 
 ## Art. 13.
 
-All'[art. 65 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_65) approvato con il [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
+All'[art. 65 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con il [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
  
- «Salvo quanto e' disposto nel titolo III, capo II, del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)-2132, non si possono aprire o mantenere in esercizio ambulatori o case o istituti di cura medico-chirurgica o di assistenza ostetrica, ovvero case o pensioni per gestanti, senza speciale autorizzazione del Prefetto, secondo le norme indicate nel regolamento. 
+ «Salvo quanto e' disposto nel titolo III, capo II, del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)-2132, non si possono aprire o mantenere in esercizio ambulatori o case o istituti di cura medico-chirurgica o di assistenza ostetrica, ovvero case o pensioni per gestanti, senza speciale autorizzazione del Prefetto, secondo le norme indicate nel regolamento. 
  
  «Contro il provvedimento del Prefetto e' ammesso il ricorso entro 15 giorni al Ministro per l'interno. 
  
@@ -226,29 +226,29 @@ All'[art. 65 del testo unico delle leggi sanitarie](https://www.normattiva.it/ur
 
 ## Art. 14.
 
-All'[art. 114 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_114), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono aggiunti i seguenti capoversi: 
+All'[art. 114 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono aggiunti i seguenti capoversi: 
  
  «Il giudice, investito del giudizio contravvenzionale, puo', inoltre, aggiungere a tali pene la chiusura temporanea da un mese ad un anno, o la chiusura definitiva dell'esercizio. 
  
  «Indipendentemente dal giudizio penale, il Prefetto della Provincia puo' disporre e fare eseguire la chiusura dell'esercizio. 
  
- E' abrogato l'[art. 60 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md)».
+ E' abrogato l'[art. 60 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md)».
 
 ## Art. 15.
 
-Al [secondo comma dell'art. 123 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_123-com2), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono aggiunte le seguenti parole: 
+Al [secondo comma dell'art. 123 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono aggiunte le seguenti parole: 
  
- «ed i provvedimenti disciplinari che il Prefetto provochera' dagli organi competenti od adottera' ai sensi degli [articoli 39](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md) e [53 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md)».
+ «ed i provvedimenti disciplinari che il Prefetto provochera' dagli organi competenti od adottera' ai sensi degli [articoli 39](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md) e [53 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md)».
 
 ## Art. 16.
 
-Salvo quanto e' disposto nel titolo III, capo III, del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con il [R. decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)-2132, e' necessaria la licenza del Prefetto per la divulgazione, a mezzo della stampa o in qualsiasi altro modo, di mezzi per la prevenzione e la cura delle malattie, o di specialita' medicinali, o di presidi medici e chirurgici, ovvero di ambulatori o case o istituti di cura medico-chirurgica o di assistenza ostetrica, ovvero di case o pensioni per gestanti, ovvero di stabilimenti termali, idroterapici, di cure fisiche ed affini, ovvero di acque minerali naturali o artificiali. 
+Salvo quanto e' disposto nel titolo III, capo III, del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con il [R. decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)-2132, e' necessaria la licenza del Prefetto per la divulgazione, a mezzo della stampa o in qualsiasi altro modo, di mezzi per la prevenzione e la cura delle malattie, o di specialita' medicinali, o di presidi medici e chirurgici, ovvero di ambulatori o case o istituti di cura medico-chirurgica o di assistenza ostetrica, ovvero di case o pensioni per gestanti, ovvero di stabilimenti termali, idroterapici, di cure fisiche ed affini, ovvero di acque minerali naturali o artificiali. 
  
  I contravventori sono puniti con l'arresto fino a tre mesi e con l'ammenda da L.1000 a L. 5000, salvo che la legge stabilisca una pena piu' grave.
 
 ## Art. 17.
 
-All'[art. 86 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' sostituito il seguente: 
+All'[art. 86 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' sostituito il seguente: 
  
  «A meno che non sia diversamente stabilito per singoli casi: 
  
@@ -260,13 +260,13 @@ All'[art. 86 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinam
 
 ## Art. 18.
 
-Sono abrogate tutte le disposizioni del [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), concernenti la istituzione e le attribuzioni del medico circondariale, restando demandati rispettivamente al medico provinciale e al Prefetto i provvedimenti e le attribuzioni dalle disposizioni stesse assegnate al medico circondariale e al sottoprefetto.
+Sono abrogate tutte le disposizioni del [R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), concernenti la istituzione e le attribuzioni del medico circondariale, restando demandati rispettivamente al medico provinciale e al Prefetto i provvedimenti e le attribuzioni dalle disposizioni stesse assegnate al medico circondariale e al sottoprefetto.
 
 ## Art. 19.
 
-All'[art. 89 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' sostituito il seguente: 
+All'[art. 89 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' sostituito il seguente: 
  
- «Il Governo del Re e' autorizzato a coordinare le disposizioni della presente legge con le altre vigenti in materia ed a formare il nuovo [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), addivenendo anche alla modifica di quelle disposizioni che non siano in armonia con altre norme di legge che vi abbiano attinenza». 
+ «Il Governo del Re e' autorizzato a coordinare le disposizioni della presente legge con le altre vigenti in materia ed a formare il nuovo [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), addivenendo anche alla modifica di quelle disposizioni che non siano in armonia con altre norme di legge che vi abbiano attinenza». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le contravvenzioni alle disposizioni contenute nella legge 20 marzo 1865, allegato C, n. 2248, nel capitolo IV del titolo III, e nei capitoli IV, V e VI del titolo IV del regolamento approvato con Regio decreto 6 settembre 1874 in esecuzione della stessa legge, saranno punite con pene di polizia, salvo le pene maggiori contro coloro che si rendessero colpevoli di reati previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Le contravvenzioni alle disposizioni contenute nella legge 20 marzo 1865, allegato C, n. 2248, nel capitolo IV del titolo III, e nei capitoli IV, V e VI del titolo IV del regolamento approvato con Regio decreto 6 settembre 1874 in esecuzione della stessa legge, saranno punite con pene di polizia, salvo le pene maggiori contro coloro che si rendessero colpevoli di reati previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 2.
 

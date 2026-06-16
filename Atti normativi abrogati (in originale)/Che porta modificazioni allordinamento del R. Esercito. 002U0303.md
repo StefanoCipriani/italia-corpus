@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alla legge di ordinamento del R. Esercito e dei servizi dipendenti dall'Amministrazione della Guerra - testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) - modificata con [legge n. 285 del 7 luglio 1901](Modificazioni%20alle%20leggi%20sullordinamento%20militare%20Compagnie%20di%20disciplina%20e%20stabilimenti%20militari%20di%20pena.%20001U0285.md), sono arrecate le seguenti variazioni: 
+Alla legge di ordinamento del R. Esercito e dei servizi dipendenti dall'Amministrazione della Guerra - testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) - modificata con [legge n. 285 del 7 luglio 1901](Modificazioni%20alle%20leggi%20sullordinamento%20militare%20Compagnie%20di%20disciplina%20e%20stabilimenti%20militari%20di%20pena.%20001U0285.md), sono arrecate le seguenti variazioni: 
  
  1. Nella lettera A) dell'articolo 1, al capoverso: 
  

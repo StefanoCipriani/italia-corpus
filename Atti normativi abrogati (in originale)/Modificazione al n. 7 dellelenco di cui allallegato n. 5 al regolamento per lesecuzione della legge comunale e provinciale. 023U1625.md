@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'allegato numero 5 (elenco descrittivo e norme speciali) al regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297), e modificato con [R. decreto 22 marzo 1923, n. 761](Che%20modifica%20lallegato%20n.%205%20al%20regolamento%2012%20febbraio%201911%20n.%20297%20per%20lesecuzione%20della%20legge%20comunale%20e%20provinciale.%20023U0761.md); 
+ Veduto l'allegato numero 5 (elenco descrittivo e norme speciali) al regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md), e modificato con [R. decreto 22 marzo 1923, n. 761](Che%20modifica%20lallegato%20n.%205%20al%20regolamento%2012%20febbraio%201911%20n.%20297%20per%20lesecuzione%20della%20legge%20comunale%20e%20provinciale.%20023U0761.md); 
  
  Udito il parere del Consiglio di Stato in adunanza generale; 
  

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 9 agosto 1876, n. 3296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-08-09;3296), col quale furono estese alla corrispondenza telegrafica nell'interno del Regno, con variazioni ed aggiunte, le norme per il servizio internazionale contenute nella Convenzione telegrafica internazionale firmata a Pietroburgo il 10/22 luglio 1875;
+Veduto il [R. decreto 9 agosto 1876, n. 3296](../Regi%20decreti/che%20estende%20alla%20corrispondenza%20telegrafica%20nellinterno%20del%20Regno%20le%20norme%20per%20servizio%20internazionale%20contenute%20nella%20convenzione%20telegrafica%20di%20Pietroburgo%20approvata%20con%20decreto%20del%201%20g_483dd9f3e906.md), col quale furono estese alla corrispondenza telegrafica nell'interno del Regno, con variazioni ed aggiunte, le norme per il servizio internazionale contenute nella Convenzione telegrafica internazionale firmata a Pietroburgo il 10/22 luglio 1875;
 
 Veduto il [R. decreto 20 maggio 1897, n. 287](Che%20da%20piena%20ed%20intera%20esecuzione%20al%20Regolamento%20per%20lapplicazione%20della%20Convenzione%20telegrafica%20internazionale%20di%20Pietroburgo.%20097U0287.md), col quale fu approvato e reso esecutorio il regolamento di applicazione della Convenzione medesima, riveduto e firmato a Budapest;
 

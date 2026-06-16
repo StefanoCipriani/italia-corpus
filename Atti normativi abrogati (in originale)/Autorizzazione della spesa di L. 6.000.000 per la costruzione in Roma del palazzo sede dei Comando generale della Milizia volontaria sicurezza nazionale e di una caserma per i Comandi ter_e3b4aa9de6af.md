@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), relativo al concentramento dei servizi di edilizia statale nella competenza del Ministero dei lavori pubblici;
+Visto il [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), relativo al concentramento dei servizi di edilizia statale nella competenza del Ministero dei lavori pubblici;
 
 Visto l'[art. 3, n 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

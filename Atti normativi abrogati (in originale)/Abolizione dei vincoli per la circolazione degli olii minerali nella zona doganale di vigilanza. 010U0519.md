@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono aboliti gli speciali vincoli stabiliti dal titolo VIII della legge doganale, testo unico, approvato col [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), per la circolazione, la detenzione ed il deposito all'ingrosso degli oli minerali rettificati nella zona di vigilanza. 
+ Sono aboliti gli speciali vincoli stabiliti dal titolo VIII della legge doganale, testo unico, approvato col [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), per la circolazione, la detenzione ed il deposito all'ingrosso degli oli minerali rettificati nella zona di vigilanza. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

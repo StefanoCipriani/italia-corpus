@@ -134,7 +134,7 @@ La domanda diretta ad ottenere la quota di integrazione per i prodotti serici es
  
  I pagamenti effettuati mediante versamento su conto corrente postale intestato alla ditta beneficiaria sono liberatori per l'Ente Nazionale Serico. 
  
- I certificati degli Uffici provinciali delle Corporazioni, gia' presentati a norma dell'[art. 9 del R. decreto 7 marzo 1938, n. 558](Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2029%20maggio%201937-XV%20n.%201267%20contenente%20provvidenze%20a%20favore%20della%20produzione%20serica%20per%20il%20quinquennio%201937-XV-1941-XX.%20038U0558.md), sono validi agli effetti del presente articolo.
+ I certificati degli Uffici provinciali delle Corporazioni, gia' presentati a norma dell'[art. 9 del R. decreto 7 marzo 1938, n. 558](../Regi%20decreti/Norme%20per%20lattuazione%20del%20Regio%20decreto-legge%2029%20maggio%201937-XV%20n.%201267%20contenente%20provvidenze%20a%20favore%20della%20produzione%20serica%20per%20il%20quinquennio%201937-XV-1941-XX.%20038U0558.md), sono validi agli effetti del presente articolo.
 
 ## Art. 10.
 

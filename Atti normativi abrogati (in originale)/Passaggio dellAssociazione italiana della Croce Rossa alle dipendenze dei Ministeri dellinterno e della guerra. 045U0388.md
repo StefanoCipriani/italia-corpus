@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 22 maggio 1882, n. 768](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-05-22;768) (serie III), che autorizza il Governo ad erigere in corpo morale l'Associazione italiana della Croce Rossa;
 
-Visto il [R. decreto 7 febbraio 1884, n. 1243](Che%20erige%20in%20corpo%20morale%20lassociazione%20italiana%20della%20Croce%20Rossa.%208401243R.md) (serie III), che erige in corpo morale l'Associazione italiana della Croce Rossa;
+Visto il [R. decreto 7 febbraio 1884, n. 1243](../Regi%20decreti/Che%20erige%20in%20corpo%20morale%20lassociazione%20italiana%20della%20Croce%20Rossa.%208401243R.md) (serie III), che erige in corpo morale l'Associazione italiana della Croce Rossa;
 
 Visto il [R. decreto-legge 10 agosto 1928, n. 2034](Provvedimenti%20necessari%20per%20assicurare%20il%20funzionamento%20della%20Croce%20Rossa%20Italiana.%20028U2034.md), convertito nella [legge 20 dicembre 1928, n. 3133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20agosto%201928%20n.%202034%20concernente%20il%20nuovo%20ordinamento%20dellAssociazione%20della%20Croce%20Rossa%20Italiana.%20028U3133.md), contenente provvedimenti necessari per assicurare il funzionamento della Croce Rossa Italiana;
 

@@ -14,7 +14,7 @@ N.
 
 1535.
 
-R. decreto 28 settembre 1933, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della Cassa scolastica del Regio liceo ginnasio «G. Plana» di Alessandria, in sostituzione di quello approvato col [R. decreto 6 gennaio 1924, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-01-06;33). 
+R. decreto 28 settembre 1933, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della Cassa scolastica del Regio liceo ginnasio «G. Plana» di Alessandria, in sostituzione di quello approvato col [R. decreto 6 gennaio 1924, n. 33](../Regi%20decreti/Erezione%20in%20Ente%20morale%20della%20Cassa%20scolastica%20del%20Regio%20liceo-ginnasio%20Giovanni%20Plana%20in%20Alessandria.%20024U0033.md). 
  
  Visto, il Guardasigilli: De Francisci. 
  

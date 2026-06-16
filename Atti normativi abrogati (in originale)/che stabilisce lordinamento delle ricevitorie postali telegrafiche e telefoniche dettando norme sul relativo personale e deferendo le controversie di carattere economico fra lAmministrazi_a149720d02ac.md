@@ -14,13 +14,13 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il regolamento organico dell'Amministrazione delle poste e dei telegrafi approvato con [R. decreto 14 ottobre 1906, n. 546](Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md);
+Visto il regolamento organico dell'Amministrazione delle poste e dei telegrafi approvato con [R. decreto 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md);
 
 Visto il regolamento speciale per il personale delle ricevitorie e per gli agenti rurali approvato con [R. decreto 22 ottobre 1910, n. 936](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-10-22;936), modificato dai RR. decreti 30 giugno 1912, n 857, 11 luglio 1913, n. 1317, 21 marzo 1915, n.441, 1° settembre 1918, n. 14471;
 
 Visti i RR. decreti 1° ottobre 1900, n. 771 e 17 aprile 1910, n. 246;
 
-Visto il regolamento organico per il personale telefonico o approvato con R. decreto 16 maggio 1912, 574 modificato dal [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md);
+Visto il regolamento organico per il personale telefonico o approvato con R. decreto 16 maggio 1912, 574 modificato dal [R. decreto 6 aprile 1913, n. 462](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md);
 
 Udito il Consiglio dei ministri;
 
@@ -34,7 +34,7 @@ Le ricevitorie postali, telegrafiche, telefoniche, sono stabilimenti la cui gest
 
 Il regolamento per l'esecuzione del presente decreto stabilisce le norme por la istituzione, la soppressione e la classificazione delle ricevitorie. 
  
- Salvo le eccezioni a favore del coniuge e dei figli dei ricevitori in servizio alla pubblicazione del presente decreto, o che alla stessa data ne abbiano altrimenti acquisito il diritto, e quelle altre stabilite dal regolamento, approvato col [R. decreto 22 dicembre 1910, n. 936](Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md) (modificato coi RR. decreti 30 giugno 1912, n. 857, 11 luglio 1913, n. 1317, 21 marzo 1915, n. 441, 1° settembre 1918, n. 14471), nonche' quello a favore delle madri e delle vedove dei caduti in guerra, da stabilirsi col regolamento le ricevitorie sono conferite in seguito a concorso. 
+ Salvo le eccezioni a favore del coniuge e dei figli dei ricevitori in servizio alla pubblicazione del presente decreto, o che alla stessa data ne abbiano altrimenti acquisito il diritto, e quelle altre stabilite dal regolamento, approvato col [R. decreto 22 dicembre 1910, n. 936](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md) (modificato coi RR. decreti 30 giugno 1912, n. 857, 11 luglio 1913, n. 1317, 21 marzo 1915, n. 441, 1° settembre 1918, n. 14471), nonche' quello a favore delle madri e delle vedove dei caduti in guerra, da stabilirsi col regolamento le ricevitorie sono conferite in seguito a concorso. 
  
  Il regolamento stabilisce pure a quali concorsi possono prendere parte soltanto i ricevitori e a quale anche gli incaricati della gestione provvisoria di ricevitorie, i supplenti e gli estranei; nonche' le norme per la valutazione dei titoli dei concorrenti. 
  

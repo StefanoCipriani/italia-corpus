@@ -18,7 +18,7 @@ Visto l'art. 6 del testo unico delle leggi sull'ordinamento della R. guardia di 
 
 Vista la legge e il regolamento per l'avanzamento degli ufficiali del R. esercito;
 
-Visto il [R. decreto 1° febbraio 1920, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;91), modificativo di quello in data 1° agosto 1913, n. 1002, che fissa le norme per l'avanzamento degli ufficiali, dei sottoufficiali o militari di truppa della R. guardia di finanza;
+Visto il [R. decreto 1° febbraio 1920, n. 91](../Regi%20decreti/Che%20modifica%20quello%201%20agosto%201913%20n.1002%20relativamente%20alla%20composizione%20della%20Commissione%20per%20lesame%20delle%20proposte%20davanzamento%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20trupp_7c217cd9cc99.md), modificativo di quello in data 1° agosto 1913, n. 1002, che fissa le norme per l'avanzamento degli ufficiali, dei sottoufficiali o militari di truppa della R. guardia di finanza;
 
 Visto il [R. decreto 18 gennaio 1923, n. 95](Che%20reca%20provvedimenti%20per%20il%20Corpo%20della%20R.%20guardia%20di%20finanza.%20023U0095.md) recante provvedimenti per le R. guardia di finanza;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro, segretario di Stato per le finanze; Abbiamo 
 
 ## Art. 1.
 
-L'[articolo 1 del R. decreto 1° febbraio 1920, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-01;91#art_1) e' sostituito dal seguente: 
+L'[articolo 1 del R. decreto 1° febbraio 1920, n. 91](../Regi%20decreti/Che%20modifica%20quello%201%20agosto%201913%20n.1002%20relativamente%20alla%20composizione%20della%20Commissione%20per%20lesame%20delle%20proposte%20davanzamento%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20trupp_7c217cd9cc99.md) e' sostituito dal seguente: 
  
  Art. 1. - La Commissione per l'esame delle proposte per l'avanzamento ad anzianita' degli ufficiali della R. guardia di finanza e' composta del comandante generale, o in sua vece del comandante in II, e di due generali comandanti di gruppo. 
  

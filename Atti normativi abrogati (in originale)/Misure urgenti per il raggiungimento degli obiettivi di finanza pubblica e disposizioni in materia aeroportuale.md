@@ -72,7 +72,7 @@ Per i beni cui al comma 1, la vita utile cui fare riferimento ai fini di cui al 
 
 4.
 
-Non e' ammessa alcuna ulteriore deduzione per ammortamento anticipato o per una piu' intensa utilizzazione dei beni rispetto a quella normale del settore. Resta ferma, per quanto non diversamente disposto, la disciplina di cui all'articolo 102 del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Non e' ammessa alcuna ulteriore deduzione per ammortamento anticipato o per una piu' intensa utilizzazione dei beni rispetto a quella normale del settore. Resta ferma, per quanto non diversamente disposto, la disciplina di cui all'articolo 102 del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 5.
 
@@ -84,7 +84,7 @@ In caso di beni utilizzati in locazione finanziaria, indipendentemente dai crite
 
 7.
 
-Quanto previsto dai commi da 1 a 6 si applica esclusivamente ai beni classificabili nelle categorie omogenee individuate dall'Autorita' per l'energia elettrica e il gas. Per i beni non classificabili in tali categorie continua ad applicarsi l'articolo 102 del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Quanto previsto dai commi da 1 a 6 si applica esclusivamente ai beni classificabili nelle categorie omogenee individuate dall'Autorita' per l'energia elettrica e il gas. Per i beni non classificabili in tali categorie continua ad applicarsi l'articolo 102 del testo unico delle imposte sui redditi di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 8.
 

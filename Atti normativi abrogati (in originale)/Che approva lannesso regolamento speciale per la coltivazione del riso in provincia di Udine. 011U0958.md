@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' approvato il regolamento speciale per la coltivazione del riso in provincia di Udine, deliberato da quel Consiglio provinciale addi' 20 dicembre 1909 - 8 agosto 1910, con le modifiche ed aggiunte introdottevi in virtu' dell'[art. 74 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_74) e risultanti dall'esemplare, che, vidimato e sottoscritto, d'ordine Nostro, dai ministri proponenti, costituisce parte integrante del presente decreto. 
+ E' approvato il regolamento speciale per la coltivazione del riso in provincia di Udine, deliberato da quel Consiglio provinciale addi' 20 dicembre 1909 - 8 agosto 1910, con le modifiche ed aggiunte introdottevi in virtu' dell'[art. 74 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e risultanti dall'esemplare, che, vidimato e sottoscritto, d'ordine Nostro, dai ministri proponenti, costituisce parte integrante del presente decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

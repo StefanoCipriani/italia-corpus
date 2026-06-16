@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'art. 38 del testo unico sull'Amministrazione e su la contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884 n. 20164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;20164); 
  
- Visto l'art. 51 del regolamento approvato con [Regio decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
+ Visto l'art. 51 del regolamento approvato con [Regio decreto 16 maggio 1912, n. 556](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
  
  Ritenuta le necessita' di aumentare gli stanziamenti di alcuni capitoli dello stato di previsione della spesa del Fondo per l'emigrazione per l'esercizio 1917-918; 
  

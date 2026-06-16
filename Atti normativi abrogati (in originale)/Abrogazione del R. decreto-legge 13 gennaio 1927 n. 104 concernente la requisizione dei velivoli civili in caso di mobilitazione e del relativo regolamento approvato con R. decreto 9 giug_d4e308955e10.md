@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Sono abrogati il [R. decreto-legge 13 gennaio 1927, n. 104](Autorizzazione%20per%20la%20requisizione%20dei%20velivoli%20civili.%20027U0104.md), convertito nella [legge 15 gennaio 1928, n. 28](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%20104%20relativo%20alla%20requisizione%20dei%20velivoli%20civili%20in%20caso%20di%20mobilitazione.%20028U0028.md), concernente la requisizione dei velivoli civili in caso di mobilitazione, ed il relativo regolamento approvato col [R. decreto 9 giugno 1927, n. 1224](Approvazione%20del%20regolamento%20relativo%20alla%20requisizione%20dei%20velivoli%20civili.%20027U1224.md). 
+ Sono abrogati il [R. decreto-legge 13 gennaio 1927, n. 104](Autorizzazione%20per%20la%20requisizione%20dei%20velivoli%20civili.%20027U0104.md), convertito nella [legge 15 gennaio 1928, n. 28](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%20104%20relativo%20alla%20requisizione%20dei%20velivoli%20civili%20in%20caso%20di%20mobilitazione.%20028U0028.md), concernente la requisizione dei velivoli civili in caso di mobilitazione, ed il relativo regolamento approvato col [R. decreto 9 giugno 1927, n. 1224](../Regi%20decreti/Approvazione%20del%20regolamento%20relativo%20alla%20requisizione%20dei%20velivoli%20civili.%20027U1224.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

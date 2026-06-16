@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge l'allegato [R. decreto 18 settembre 1910, n. 684](Che%20autorizza%20il%20ministro%20dei%20lavori%20pubblici%20a%20dichiarare%20urgenti%20le%20opere%20pubbliche%20dello%20Stato%20delle%20Provincie%20e%20dei%20Comuni%20nelle%20Provincie%20pugliesi.%20010U0684.md), portante provvedimenti per la esecuzione di opere pubbliche nelle Puglie. 
+E' convertito in legge l'allegato [R. decreto 18 settembre 1910, n. 684](../Regi%20decreti/Che%20autorizza%20il%20ministro%20dei%20lavori%20pubblici%20a%20dichiarare%20urgenti%20le%20opere%20pubbliche%20dello%20Stato%20delle%20Provincie%20e%20dei%20Comuni%20nelle%20Provincie%20pugliesi.%20010U0684.md), portante provvedimenti per la esecuzione di opere pubbliche nelle Puglie. 
  
  Il termine di cui nell'art. 1 del detto R. decreto e' prorogato al 31 dicembre 1911.
 
@@ -74,7 +74,7 @@ E' autorizzata la spesa di L. 80,000 da inscriversi nella parte straordinaria de
 
 ## Art. 9.
 
-Le opere di cui alla lettera f) dell'art. 2 della presente legge sono dichiarate obbligatorie agli effetti dell'art. 13, capoverso 1° del testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato con [R. decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095), e ad esse sono estese le disposizioni di cui all'[art. 9 della legge 14 luglio 1907, numero 542](Autorizzazione%20di%20spese%20per%20esecuzione%20di%20nuove%20opere%20marittime.%20007U0542.md).
+Le opere di cui alla lettera f) dell'art. 2 della presente legge sono dichiarate obbligatorie agli effetti dell'art. 13, capoverso 1° del testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), e ad esse sono estese le disposizioni di cui all'[art. 9 della legge 14 luglio 1907, numero 542](Autorizzazione%20di%20spese%20per%20esecuzione%20di%20nuove%20opere%20marittime.%20007U0542.md).
 
 ## Art. 10.
 
@@ -297,7 +297,7 @@ Nel conto dei residui del bilancio della spesa del Ministero dei lavori pubblici
 
 ## Art. 26.
 
-Sara' provveduto con le entrate effettive al reintegro delle somme di L. 1,450,000 e 1,000,000 stornate col [R. decreto 18 settembre 1910, n. 684](Che%20autorizza%20il%20ministro%20dei%20lavori%20pubblici%20a%20dichiarare%20urgenti%20le%20opere%20pubbliche%20dello%20Stato%20delle%20Provincie%20e%20dei%20Comuni%20nelle%20Provincie%20pugliesi.%20010U0684.md), e con la presente legge (tabella C) dal fondo stanziato sul capitolo aggiunto n. 359 del bilancio dei lavori pubblici per l'esercizio 1910-911.
+Sara' provveduto con le entrate effettive al reintegro delle somme di L. 1,450,000 e 1,000,000 stornate col [R. decreto 18 settembre 1910, n. 684](../Regi%20decreti/Che%20autorizza%20il%20ministro%20dei%20lavori%20pubblici%20a%20dichiarare%20urgenti%20le%20opere%20pubbliche%20dello%20Stato%20delle%20Provincie%20e%20dei%20Comuni%20nelle%20Provincie%20pugliesi.%20010U0684.md), e con la presente legge (tabella C) dal fondo stanziato sul capitolo aggiunto n. 359 del bilancio dei lavori pubblici per l'esercizio 1910-911.
 
 ## Art. 27.
 

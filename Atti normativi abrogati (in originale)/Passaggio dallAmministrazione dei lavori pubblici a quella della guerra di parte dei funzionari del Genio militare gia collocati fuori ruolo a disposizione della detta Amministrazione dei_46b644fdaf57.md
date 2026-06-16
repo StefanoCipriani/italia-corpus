@@ -18,11 +18,11 @@ Visto il [R. decreto-legge 15 ottobre 1925, n. 1934](Trasferimento%20allAmminist
 
 Visto il [R. decreto 16 maggio 1926, n. 864](Collocamento%20a%20disposizione%20del%20Ministero%20dei%20lavori%20pubblici%20di%20personale%20del%20Genio%20militare.%20026U0864.md), concernente il collocamento a disposizione del Ministero dei lavori pubblici di personale del Genio militare;
 
-Visto il [R. decreto 14 giugno 1929, n. 960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-06-14;960), col quale, a decorrere dal 1 luglio 1929, una parte dei servizi gia' passati all'Amministrazione dei lavori pubblici in base al citato [R. decreto-legge 15 ottobre 1925, n. 1934](Trasferimento%20allAmministrazione%20dei%20lavori%20pubblici%20di%20servizi%20di%20competenza%20del%20Genio%20militare.%20025U1934.md), ritorna alla competenza dell'Amministrazione della guerra;
+Visto il [R. decreto 14 giugno 1929, n. 960](../Regi%20decreti/Norme%20per%20la%20riassunzione%20da%20parte%20dellAmministrazione%20della%20guerra%20dei%20lavori%20di%20stabilita%20e%20grande%20trasformazione%20dei%20fabbricati%20militari.%20029U0960.md), col quale, a decorrere dal 1 luglio 1929, una parte dei servizi gia' passati all'Amministrazione dei lavori pubblici in base al citato [R. decreto-legge 15 ottobre 1925, n. 1934](Trasferimento%20allAmministrazione%20dei%20lavori%20pubblici%20di%20servizi%20di%20competenza%20del%20Genio%20militare.%20025U1934.md), ritorna alla competenza dell'Amministrazione della guerra;
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante l'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Vsto il [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), contenente disposizioni sulla posizione dei funzionari fuori ruolo;
 

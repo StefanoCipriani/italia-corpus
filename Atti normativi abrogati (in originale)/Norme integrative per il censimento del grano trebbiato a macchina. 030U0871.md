@@ -18,7 +18,7 @@ Veduto il [R. decreto-legge 7 aprile 1927, n. 564](Obbligatorieta%20della%20denu
 
 Veduto il [R. decreto-legge 27 maggio 1929, n. 1285](Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), concernente il nuovo ordinamento dell'Istituto centrale di statistica;
 
-Veduto il [R. decreto 26 aprile 1930, n. 662](Modificazioni%20al%20R.%20decreto-legge%207%20aprile%201927%20n.%20564%20sul%20censimento%20del%20grano%20trebbiato%20a%20macchina.%20030U0662.md), contenente norme integrative del [R. decreto-legge 7 aprile 1927, n. 564](Obbligatorieta%20della%20denuncia%20della%20trebbiatura%20a%20macchina%20del%20grano.%20027U0564.md);
+Veduto il [R. decreto 26 aprile 1930, n. 662](../Regi%20decreti/Modificazioni%20al%20R.%20decreto-legge%207%20aprile%201927%20n.%20564%20sul%20censimento%20del%20grano%20trebbiato%20a%20macchina.%20030U0662.md), contenente norme integrative del [R. decreto-legge 7 aprile 1927, n. 564](Obbligatorieta%20della%20denuncia%20della%20trebbiatura%20a%20macchina%20del%20grano.%20027U0564.md);
 
 Ritenuta la necessita' urgente ed assoluta di provvedere;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di conc
 
 ## Art. 1.
 
-Chiunque faccia funzionare macchine per la trebbiatura del grano senza la licenza della Cattedra ambulante di agricoltura prescritta dall'[art. 1 del R. decreto 26 aprile 1930, n. 662](Modificazioni%20al%20R.%20decreto-legge%207%20aprile%201927%20n.%20564%20sul%20censimento%20del%20grano%20trebbiato%20a%20macchina.%20030U0662.md), e' punito con l'ammenda sino a L. 2000.
+Chiunque faccia funzionare macchine per la trebbiatura del grano senza la licenza della Cattedra ambulante di agricoltura prescritta dall'[art. 1 del R. decreto 26 aprile 1930, n. 662](../Regi%20decreti/Modificazioni%20al%20R.%20decreto-legge%207%20aprile%201927%20n.%20564%20sul%20censimento%20del%20grano%20trebbiato%20a%20macchina.%20030U0662.md), e' punito con l'ammenda sino a L. 2000.
 
 ## Art. 2.
 

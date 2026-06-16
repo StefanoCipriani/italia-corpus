@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento dell'Esercito e le successive sue modificazioni;
+Visto il [R. decreto 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), relativo all'ordinamento dell'Esercito e le successive sue modificazioni;
 
-Visto il [R. decreto 31 maggio 1923, n. 1527](Istituzione%20di%20un%20servizio%20chimico%20militare.%20023U1527.md), col quale fu istituito un servizio chimico militare;
+Visto il [R. decreto 31 maggio 1923, n. 1527](../Regi%20decreti/Istituzione%20di%20un%20servizio%20chimico%20militare.%20023U1527.md), col quale fu istituito un servizio chimico militare;
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e [8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md);
+Visti i [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); [30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e [8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro ad int
 
 ## Art. 1.
 
-Il servizio chimico militare, istituito con [R. decreto 31 maggio 1923, n. 1527](Istituzione%20di%20un%20servizio%20chimico%20militare.%20023U1527.md), e' unico per i Ministeri della guerra, della marina e dell'aeronautica. 
+Il servizio chimico militare, istituito con [R. decreto 31 maggio 1923, n. 1527](../Regi%20decreti/Istituzione%20di%20un%20servizio%20chimico%20militare.%20023U1527.md), e' unico per i Ministeri della guerra, della marina e dell'aeronautica. 
  
  Esso dipende direttamente dal Ministero della guerra ed ha il compito di eseguire studi, esperimenti ed applicazioni pratiche sui mezzi chimici di guerra, diretti specialmente a stabilire l'azione fisiologica delle sostanze chimiche sulle persone e sugli animali, a determinare le conseguenti alterazioni anatomiche e funzionali sui vari tessuti, organi e sistemi e la relativa terapia, ed a definire i mezzi di protezione delle persone e degli animali dalle offese che possono derivarne.
 
@@ -52,7 +52,7 @@ Il personale militare e civile da adibirsi al Servizio chimico militare e' stabi
  
  c) un ufficiale superiore d'artiglieria, colonnello o tenente colonnello, capo della sezione tecnica; 
  
- d) personale tecnico e specializzato, militare e civile. Il personale civile tecnico specializzato, previsto dall'[art. 47 del R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), comprende uno specialista tecnico capo e sette specialisti tecnici, da reclutarsi mediante concorso, le cui norme sono stabilite di volta in volta dal Ministro per la guerra, di concerto con quello per la marina e per l'aeronautica; 
+ d) personale tecnico e specializzato, militare e civile. Il personale civile tecnico specializzato, previsto dall'[art. 47 del R. decreto 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), comprende uno specialista tecnico capo e sette specialisti tecnici, da reclutarsi mediante concorso, le cui norme sono stabilite di volta in volta dal Ministro per la guerra, di concerto con quello per la marina e per l'aeronautica; 
  
  e) altri ufficiali comandati delle varie armi e corpi e altro personale civile tecnico specializzato, parimenti comandato, dipendenti dai Ministeri della guerra, della marina e dell'aeronautica, per compiere presso la direzione del Servizio chimico militare, i laboratori e il gruppo speciale, funzioni di studio, di comando, amministrative e di ausilio al Servizio chimico; 
  
@@ -78,7 +78,7 @@ Per l'amministrazione del personale della direzione del Servizio chimico militar
  
  da un segretario (il direttore dei conti). 
  
- Il Consiglio adempie gli incarichi e funzioni di cui alla [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), e relativo regolamento, per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari (in quanto sia applicabile) ed al regolamento sul servizio del materiale d'artiglieria, approvato con [R. decreto 9 agosto 1914, n. 1419](Col%20quale%20e%20approvato%20lannesso%20nuovo%20regolamento%20per%20il%20servizio%20del%20materiale%20di%20artiglieria.%20014U1419.md).
+ Il Consiglio adempie gli incarichi e funzioni di cui alla [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), e relativo regolamento, per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari (in quanto sia applicabile) ed al regolamento sul servizio del materiale d'artiglieria, approvato con [R. decreto 9 agosto 1914, n. 1419](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20nuovo%20regolamento%20per%20il%20servizio%20del%20materiale%20di%20artiglieria.%20014U1419.md).
 
 ## Art. 7.
 
@@ -94,7 +94,7 @@ Le spese per il funzionamento del Servizio chimico militare saranno inscritte in
 
 Il presente decreto ha vigore dal 1° ottobre 1925 e sara' presentato al Parlamento per essere convertito in legge. 
  
- Il [Regio decreto 31 maggio 1923, n. 1527](Istituzione%20di%20un%20servizio%20chimico%20militare.%20023U1527.md), e' abrogato. 
+ Il [Regio decreto 31 maggio 1923, n. 1527](../Regi%20decreti/Istituzione%20di%20un%20servizio%20chimico%20militare.%20023U1527.md), e' abrogato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

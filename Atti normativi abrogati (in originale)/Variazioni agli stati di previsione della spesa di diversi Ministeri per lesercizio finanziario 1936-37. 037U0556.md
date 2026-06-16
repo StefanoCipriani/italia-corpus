@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Viste le [leggi 16 aprile 1936, nn. 726, 743, 761 e 808; 20 aprile 1936, n. 817; 4 maggio 1936, n. 844; 28 maggio 1936, nn. 1017 e 1018; 4 giugno 1936, n. 1086, e 8 giugno 1936, n. 1087](Stato%20di%20previsione%20dellentrata%20e%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20per%20lesercizio%20finanziario%20dal%201%20luglio%201936%20al%2030%20giugno%201937.%20036U1087.md); 
  
- Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sulla contabilita' generale dello Stato; 
+ Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato; 
  
  Udito il Consiglio dei Ministri; 
  

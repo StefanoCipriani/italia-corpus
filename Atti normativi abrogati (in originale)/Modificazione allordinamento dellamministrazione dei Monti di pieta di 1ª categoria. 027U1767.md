@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 6 del R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), sull'ordinamento dei Monti di pieta';
+Veduto l'[art. 6 del R. decreto 14 giugno 1923, n. 1396](../Regi%20decreti/Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), sull'ordinamento dei Monti di pieta';
 
 Veduto l'[art. 6 del regolamento 19 luglio 1924, n. 1305](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-07-19;1305#art_6), per l'esecuzione della legge predetta;
 

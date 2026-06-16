@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
-Visto il [Regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive disposizioni, che disciplinano l'applicazione della tassa di bollo ed contratti di borsa;
+Visto il [Regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive disposizioni, che disciplinano l'applicazione della tassa di bollo ed contratti di borsa;
 
 Visto il R. decreto-legge 15 dicembre 1938-XVII, n. 1975, convertito in legge con la legge 2 giugno 1939-XVII, n. 739, concernente il regime dell'imposta di negoziazione sui titoli delle societa';
 

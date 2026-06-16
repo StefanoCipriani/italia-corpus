@@ -28,7 +28,7 @@ Per i comuni della Venezia Giulia, dei quali a' sensi dei RR. decreti 31 dicembr
 
 ## Art. 2.
 
-Le liste elettorali amministrative, per i territori compresi nei Comuni di cui al precedente articolo, saranno compilate, in rapporto alla nuova circoscrizione, col procedimento previsto nel capo V del [R. decreto 7 ottobre 1921, n. 1393](Norme%20per%20lelettorato%20amministrativo%20nei%20Comuni%20dei%20territori%20annessi%20al%20Regno.%20021U1393.md). A tale effetto i termini ivi prefissi al primo e terzo comma dell'art. 108 ed ai comma secondo e quarto (prima parte) dell'art. 113 decorrono dal giorno della pubblicazione del presente decreto: detti termini e quello di 14 giorni, stabilito dal 2° comma dell'art. 109 del citato R. decreto, sono ridotti alla meta'.
+Le liste elettorali amministrative, per i territori compresi nei Comuni di cui al precedente articolo, saranno compilate, in rapporto alla nuova circoscrizione, col procedimento previsto nel capo V del [R. decreto 7 ottobre 1921, n. 1393](../Regi%20decreti/Norme%20per%20lelettorato%20amministrativo%20nei%20Comuni%20dei%20territori%20annessi%20al%20Regno.%20021U1393.md). A tale effetto i termini ivi prefissi al primo e terzo comma dell'art. 108 ed ai comma secondo e quarto (prima parte) dell'art. 113 decorrono dal giorno della pubblicazione del presente decreto: detti termini e quello di 14 giorni, stabilito dal 2° comma dell'art. 109 del citato R. decreto, sono ridotti alla meta'.
 
 ## Art. 3.
 

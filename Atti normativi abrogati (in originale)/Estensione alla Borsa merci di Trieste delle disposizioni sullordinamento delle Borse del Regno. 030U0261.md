@@ -18,7 +18,7 @@ Veduta la [legge 26 settembre 1920, n. 1322](https://www.normattiva.it/uri-res/N
 
 Veduta la [legge 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), che approva il Trattato di Rapallo concluso tra il Regno d'Italia ed il Regno dei Serbo-Croato-Sloveni;
 
-Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio ed il regolamento per la sua esecuzione, approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio ed il regolamento per la sua esecuzione, approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Veduto l'[art. 34 della legge 18 aprile 1926, n. 731](Istituzione%20dei%20Consigli%20provinciali%20delleconomia.%20026U0731.md), concernente l'istituzione dei Consigli provinciali dell'economia;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le fo
 
 ## Art. 1.
 
-Sono estesi alla Borsa merci di Trieste la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse del Regno, il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068), e le successive modificazioni.
+Sono estesi alla Borsa merci di Trieste la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse del Regno, il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md), e le successive modificazioni.
 
 ## Art. 2.
 

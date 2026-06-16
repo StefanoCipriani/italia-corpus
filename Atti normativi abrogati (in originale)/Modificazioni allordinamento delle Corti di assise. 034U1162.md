@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Ritenuta l'urgente ed assoluta necessita' di apportare modificazioni all'ordinamento delle Corti di assise, approvato con [R. decreto 23 marzo 1931, n. 249](Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
+Ritenuta l'urgente ed assoluta necessita' di apportare modificazioni all'ordinamento delle Corti di assise, approvato con [R. decreto 23 marzo 1931, n. 249](../Regi%20decreti/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -24,13 +24,13 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la gra
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto 23 marzo 1931, n. 249](Ordinamento%20delle%20Corti%20dassise.%20031U0249.md), sull'ordinamento delle Corti di assise, sono modificate in conformita' degli articoli seguenti.
+Le disposizioni del [R. decreto 23 marzo 1931, n. 249](../Regi%20decreti/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md), sull'ordinamento delle Corti di assise, sono modificate in conformita' degli articoli seguenti.
 
 ## Art. 2.
 
 L'art. 3 e' sostituito dal seguente: 
  
- « La Corte di assise e' convocata normalmente nella sede stabilita col Regio decreto, di cui all'[art. 1 del R. decreto 23 marzo 1931, n. 249](Ordinamento%20delle%20Corti%20dassise.%20031U0249.md). 
+ « La Corte di assise e' convocata normalmente nella sede stabilita col Regio decreto, di cui all'[art. 1 del R. decreto 23 marzo 1931, n. 249](../Regi%20decreti/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md). 
  
  « Tuttavia il primo presidente della Corte d'appello, sentito il procuratore generale, puo' ordinare, con decreto non motivato, che la convocazione avvenga nella sede di un altro Tribunale del circolo. 
  
@@ -157,7 +157,7 @@ Prima della fine del 31 dicembre 1937 se, nonostante le vacanze formatesi, il nu
 
 Cessa di aver vigore ogni disposizione contraria al presente decreto o incompatibile con esso. 
  
- Il Governo del Re e' autorizzato a riunire in testo unico le norme del presente decreto con quelle rimaste in vigore del [R. decreto 23 marzo 1931, n. 249](Ordinamento%20delle%20Corti%20dassise.%20031U0249.md), e ad emanare le disposizioni, che fossero necessarie per il migliore coordinamento delle norme suddette fra loro con quelle contenute in altre leggi.
+ Il Governo del Re e' autorizzato a riunire in testo unico le norme del presente decreto con quelle rimaste in vigore del [R. decreto 23 marzo 1931, n. 249](../Regi%20decreti/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md), e ad emanare le disposizioni, che fossero necessarie per il migliore coordinamento delle norme suddette fra loro con quelle contenute in altre leggi.
 
 ## Art. 19.
 

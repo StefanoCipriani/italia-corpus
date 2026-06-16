@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 ## Articolo unico.
 
-Dopo l'[articolo 77 del regio decreto 9 luglio 1939, numero 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238#art_77), e' aggiunto il seguente articolo:
+Dopo l'[articolo 77 del regio decreto 9 luglio 1939, numero 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), e' aggiunto il seguente articolo:
 
  Art. 77-bis.
 

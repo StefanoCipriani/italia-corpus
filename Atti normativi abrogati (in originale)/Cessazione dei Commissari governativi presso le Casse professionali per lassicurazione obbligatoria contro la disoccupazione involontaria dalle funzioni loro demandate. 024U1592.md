@@ -18,7 +18,7 @@ Veduti il [decreto-legge 19 ottobre 1919, n. 2214](https://www.normattiva.it/uri
 
 Veduto il [R. decreto 22 maggio 1923, n. 1190](Concernente%20lo%20scioglimento%20dei%20Consigli%20di%20amministrazione%20e%20dei%20Collegi%20dei%20revisori%20dei%20conti%20delle%20Casse%20professionali%20per%20lassicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involon_0cefc31750b5.md), concernente lo scioglimento dei Consigli di amministrazione e del Collegio dei revisori dei conti delle Casse professionali per l'assicurazione obbligatoria contro la disoccupazione involontaria, e la nomina, in loro vece, di Commissari governativi;
 
-Veduto il [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), concernente la assicurazione obbligatoria contro la disoccupazione;
+Veduto il [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), concernente la assicurazione obbligatoria contro la disoccupazione;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 

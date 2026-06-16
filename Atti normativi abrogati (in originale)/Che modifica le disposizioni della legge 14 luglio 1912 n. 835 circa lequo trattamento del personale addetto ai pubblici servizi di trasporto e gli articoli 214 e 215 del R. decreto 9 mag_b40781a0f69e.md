@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico di leggi approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Visto il testo unico di leggi approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Vista la [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md);
 
@@ -88,7 +88,7 @@ Per l'audizione delle rappresentanze degli esercenti e del personale, come all'[
 
 ## Art. 6.
 
-Il personale stabile ed in prova sara' inscritto alla Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai, salvo nel caso in cui presso l'azienda esercente sia gia' istituita una cassa speciale, secondo le norme dell'art. 215 del testo unico approvato col [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447). 
+Il personale stabile ed in prova sara' inscritto alla Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai, salvo nel caso in cui presso l'azienda esercente sia gia' istituita una cassa speciale, secondo le norme dell'art. 215 del testo unico approvato col [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md). 
  
  Il contributo da versarsi alla Cassa nazionale o alle casse speciali sara' del 15 per cento delle paghe e degli stipendi, tenuto conto anche degli assegni e delle indennita', analogamente a quanto viene praticato nei riguardi del personale delle ferrovie dello Stato. 
  
@@ -191,7 +191,7 @@ Il fondo necessario per il funzionamento della Commissione per l'equo trattament
 
 ## Art. 19.
 
-Le disposizioni degli articoli 214 e 215 del testo unico di [leggi 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-05-09;1447), e quelle della [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), contrarie al presente decreto, sono abrogate. Il Governo del Re e' autorizzato a riunire e coordinare in testo unico le altre disposizioni delle citate leggi e quelle del presente decreto; e' altresi' autorizzato ad apportare al regolamento approvato col [R. decreto 1 maggio 1913, n. 578](Col%20quale%20vengono%20approvati%20gli%20annessi%20regolamenti%20concernenti%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20e%20la%20nomina%20delle%20rappresentanze%20del%20personale%20ste_03d2830a6038.md), le necessarie modificazioni: le norme riguardanti la previdenza potranno essere contenute in regolamento speciale da approvare con R. decreto promosso dal ministro dei lavori pubblici, d'accordo col ministro per l'industria, il commercio e il lavoro, sentiti la Commissione per l'equo trattamento ed il Consiglio della previdenza e delle assicurazioni sociali.
+Le disposizioni degli articoli 214 e 215 del testo unico di [leggi 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-05-09;1447), e quelle della [legge 14 luglio 1912, n. 835](Contenente%20disposizioni%20per%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20per%20le%20tasse%20di%20bollo%20sui%20relativi%20biglietti%20e%20per%20la%20tassa%20di%20registro%20sugli%20atti%20di%20_5bacb6c9c55f.md), contrarie al presente decreto, sono abrogate. Il Governo del Re e' autorizzato a riunire e coordinare in testo unico le altre disposizioni delle citate leggi e quelle del presente decreto; e' altresi' autorizzato ad apportare al regolamento approvato col [R. decreto 1 maggio 1913, n. 578](../Regi%20decreti/Col%20quale%20vengono%20approvati%20gli%20annessi%20regolamenti%20concernenti%20lequo%20trattamento%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporti%20e%20la%20nomina%20delle%20rappresentanze%20del%20personale%20ste_03d2830a6038.md), le necessarie modificazioni: le norme riguardanti la previdenza potranno essere contenute in regolamento speciale da approvare con R. decreto promosso dal ministro dei lavori pubblici, d'accordo col ministro per l'industria, il commercio e il lavoro, sentiti la Commissione per l'equo trattamento ed il Consiglio della previdenza e delle assicurazioni sociali.
 
 ## Art. 20.
 

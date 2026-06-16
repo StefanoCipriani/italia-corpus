@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 42 delle disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvato con [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Visto l'art. 42 delle disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvato con [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Visto che sul fondo di riserva per le spese impreviste, inscritte in L. 15,000,000 nello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziarie, 1923-24, in conseguenza delle prelevazioni gia' autorizzate in L. 13,301,228.87 rimane disponibile la somma di L. 1,698,771.13;
 

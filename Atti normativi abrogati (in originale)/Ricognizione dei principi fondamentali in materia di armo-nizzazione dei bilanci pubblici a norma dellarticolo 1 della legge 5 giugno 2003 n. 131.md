@@ -51,7 +51,7 @@ Per le regioni a statuto speciale e le province autonome di Trento e di Bolzano 
 Nell'ambito di applicazione del presente decreto non rientrano le disposizioni concernenti il sistema di codificazione uniforme delle operazioni degli incassi e dei pagamenti degli enti pubblici (SIOPE).
 
 Avvertenza:
- Il testo delle note qui pubblicate e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicate e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire, se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
@@ -387,7 +387,7 @@ Il bilancio di previsione annuale ha carattere autorizzatorio, costituendo limit
 
 2.
 
-Le entrate e le spese sono classificate ed indicate secondo quanto previsto dall'[articolo 165 del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md).
+Le entrate e le spese sono classificate ed indicate secondo quanto previsto dall'[articolo 165 del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md).
 
 3.
 
@@ -398,7 +398,7 @@ Il bilancio di previsione puo' comprendere un fondo di riserva, il quale e' util
 E' data facolta' agli enti locali di iscrivere nell'apposito intervento di ciascun servizio l'importo dell'ammortamento accantonato per i beni da utilizzare nell'esercizio.
 
 Nota all'art. 16:
- - Si riporta il testo dell'[art. 165 del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md) recante: «Testo unico delle leggi sull'ordinamento degli enti locali» pubblicato nella Gazzetta Ufficiale 28 settembre 2000, n. 227, supplemento ordinario:
+ - Si riporta il testo dell'[art. 165 del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md) recante: «Testo unico delle leggi sull'ordinamento degli enti locali» pubblicato nella Gazzetta Ufficiale 28 settembre 2000, n. 227, supplemento ordinario:
  «Art. 165 (Struttura del bilancio). - 1. Il bilancio di previsione annuale e' composto da due parti, relative rispettivamente all'entrata ed alla spesa.
  2. La parte entrata e' ordinata gradualmente in titoli, categorie e risorse, in relazione, rispettivamente, alla fonte di provenienza, alla tipologia ed alla specifica individuazione dell'oggetto dell'entrata.
  3. I titoli dell'entrata per province, comuni, citta' metropolitane ed unioni di comuni sono:
@@ -695,7 +695,7 @@ Gli enti locali inviano telematicamente alle Sezioni enti locali il rendiconto c
 
 1.
 
-Ai fini dell'armonizzazione dei bilanci pubblici e della finanza pubblica i modelli approvati ai sensi dell'[articolo 160 del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), si adeguano ai seguenti principi fondamentali:
+Ai fini dell'armonizzazione dei bilanci pubblici e della finanza pubblica i modelli approvati ai sensi dell'[articolo 160 del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), si adeguano ai seguenti principi fondamentali:
                             a)
                                 per il bilancio di previsione: garantire la rappresentazione dei movimenti finanziari in relazione alla struttura del bilancio e predisposizione di appositi quadri riepilogativi atti a riassumere la previsione e ad evidenziare i risultati differenziali per dimostrare l'esistenza degli equilibri;
                             b)
@@ -714,7 +714,7 @@ Ai fini dell'armonizzazione dei bilanci pubblici e della finanza pubblica i mode
                                 per il conto degli agenti contabili: garantire la dimostrazione dei movimenti di denaro e dei beni.
 
 Nota all'art. 32:
- - Si riporta il testo dell'art. 160 del citato [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
+ - Si riporta il testo dell'art. 160 del citato [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
  «Art. 160 (Approvazione di modelli e schemi contabili).
  - 1. Con regolamento, da emanare a norma dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17), sono approvati:
  a) i modelli relativi al bilancio di previsione, ivi inclusi i quadri riepilogativi;

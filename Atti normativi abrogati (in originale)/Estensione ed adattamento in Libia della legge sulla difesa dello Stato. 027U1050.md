@@ -70,11 +70,11 @@ Salva la revisione, contro le sentenze dei Tribunali speciali e' ammesso soltant
 
 ## Art. 8.
 
-Nei procedimenti per i delitti sottoposti alla cognizione dei Tribunali speciali si applicano le norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito sulla procedura penale in tempo di guerra. 
+Nei procedimenti per i delitti sottoposti alla cognizione dei Tribunali speciali si applicano le norme del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito sulla procedura penale in tempo di guerra. 
  
  Per i reati contemplati nella [legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), che non siano di competenza del Tribunale speciale del Regno, si applicano inoltre tutte le norme della legge stessa e del Nostro decreto 12 dicembre 1926, n. 2062. 
  
- Tutte le facolta' spettanti, ai termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, al comandante in capo sono conferite al Governatore.
+ Tutte le facolta' spettanti, ai termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, al comandante in capo sono conferite al Governatore.
 
 ## Art. 9.
 
@@ -82,11 +82,11 @@ Le funzioni di pubblico ministero preso i Tribunali speciali sono esercitate dal
 
 ## Art. 10.
 
-Con l'attuazione del presente ordinamento, cessa la facolta' dei Governatori di istituire Tribunali speciali. In periodo di operazioni il Governatore puo' con suo decreto stabilire che determinati reati commessi da militari siano puniti con le pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra, convocando anche, ove occorra, Tribunali straordinari ai sensi degli articoli 559 e seguenti del suddetto Codice.
+Con l'attuazione del presente ordinamento, cessa la facolta' dei Governatori di istituire Tribunali speciali. In periodo di operazioni il Governatore puo' con suo decreto stabilire che determinati reati commessi da militari siano puniti con le pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra, convocando anche, ove occorra, Tribunali straordinari ai sensi degli articoli 559 e seguenti del suddetto Codice.
 
 ## Art. 11.
 
-Con decreto del Ministro per le colonie, d'intesa con quello per la giustizia e gli affari di culto, saranno emanate le norme che potranno occorrere per l'attuazione del presente decreto e per il suo coordinamento con il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e con le altre disposizioni vigenti nella Tripolitania e nella Cirenaica.
+Con decreto del Ministro per le colonie, d'intesa con quello per la giustizia e gli affari di culto, saranno emanate le norme che potranno occorrere per l'attuazione del presente decreto e per il suo coordinamento con il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e con le altre disposizioni vigenti nella Tripolitania e nella Cirenaica.
 
 ## Art. 12.
 

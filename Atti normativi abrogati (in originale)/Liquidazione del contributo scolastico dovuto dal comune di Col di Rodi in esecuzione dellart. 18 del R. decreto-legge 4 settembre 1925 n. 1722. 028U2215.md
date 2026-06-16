@@ -20,9 +20,9 @@ Veduto l'[art. 2 del R. decreto-legge 31 dicembre 1923, n. 2996](Provvedimenti%2
 
 Veduti i [commi 2](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md), [3](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md) e [4 dell'art. 2 del R. decreto-legge 31 marzo 1925, n. 360](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md);
 
-Veduto il [R. decreto 6 dicembre 1923, n. 2769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2769), col quale il comune di Col di Rodi veniva riunito al comune di S. Remo, ad eccezione della frazione Ospedaletti che veniva costituita in Comune autonomo con la stessa denominazione;
+Veduto il [R. decreto 6 dicembre 1923, n. 2769](../Regi%20decreti/Modificazioni%20alla%20circoscrizione%20di%20trenta%20comuni%20della%20provincia%20di%20Imperia.%20023U2769.md), col quale il comune di Col di Rodi veniva riunito al comune di S. Remo, ad eccezione della frazione Ospedaletti che veniva costituita in Comune autonomo con la stessa denominazione;
 
-Veduto il [R. decreto 7 agosto 1925, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-07;1533), col quale, a decorrere dall'8 settembre 1925, il detto comune di Col di Rodi veniva ricostituito col solo territorio gia' aggregato al comune di San Remo;
+Veduto il [R. decreto 7 agosto 1925, n. 1533](../Regi%20decreti/Modificazione%20ai%20Regi%20decreti%2021%20ottobre%201923%20n.%202360%20e%206%20dicembre%201923%20n.%202769%20riguardanti%20le%20circoscrizioni%20comunali%20della%20provincia%20di%20Imperia.%20025U1533.md), col quale, a decorrere dall'8 settembre 1925, il detto comune di Col di Rodi veniva ricostituito col solo territorio gia' aggregato al comune di San Remo;
 
 Veduti gli elenchi delle scuole classificate e provvisorie legalmente istituite nel comune di Col di Rodi, rimaste alla diretta dipendenza del comune di San Remo dal 6 febbraio 1924 al 7 settembre 1925, e del R. Provveditorato agli studi di Genova dal 1 gennaio al 5 febbraio 1924 e dall'8 settembre 1925 in poi;
 

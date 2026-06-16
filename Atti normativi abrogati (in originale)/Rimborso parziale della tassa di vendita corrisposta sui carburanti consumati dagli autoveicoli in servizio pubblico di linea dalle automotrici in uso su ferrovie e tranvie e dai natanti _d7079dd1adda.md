@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti i [Regi decreti-legge 28 agosto 1935, n. 1536](Modificazioni%20al%20regime%20fiscale%20degli%20oli%20minerali%20e%20di%20taluni%20residui%20della%20loro%20distillazione.%20035U1536.md); 23 settembre 19356, n. 1715, e 31 ottobre 1935, n. 1857, coi quali sono state apportate modificazioni al trattamento fiscale degli oli minerali e dei residui della loro distillazione;
 
-Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, per le tranvie a trazione meccanica e per gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, per le tranvie a trazione meccanica e per gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Ritenuta la necessita' urgente ed assoluta di provvedimenti intesi a garantire il normale funzionamento delle automobili in servizio pubblico di linea e dei natanti adibiti a servizio di linea di navigazione interna;
 

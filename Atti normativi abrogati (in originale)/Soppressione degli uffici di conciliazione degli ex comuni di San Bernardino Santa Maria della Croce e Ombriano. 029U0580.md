@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 15 aprile 1928, n. 951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;951), col quale i comuni di San Bernardino, Santa Maria della Croce e Ombriano sono stati soppressi, ed i rispettivi territori aggregati a quello di Crema; 
+ Visto il [R. decreto 15 aprile 1928, n. 951](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ripalta%20Guerina%20Zappello%20e%20Ripalta%20Nuova%20in%20un%20unico%20comune%20denominato%20%20Ripalta%20Cremasca%20%20e%20aggregazione%20al%20comune%20di%20Crema%20dei%20comuni%20di%20San%20Bernardino%20Santa%20Maria_5a6e3ffecb9d.md), col quale i comuni di San Bernardino, Santa Maria della Croce e Ombriano sono stati soppressi, ed i rispettivi territori aggregati a quello di Crema; 
  
  Vista la deliberazione del podesta' di Crema, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di San Bernardino, Santa Maria della Croce e Ombriano; 
  

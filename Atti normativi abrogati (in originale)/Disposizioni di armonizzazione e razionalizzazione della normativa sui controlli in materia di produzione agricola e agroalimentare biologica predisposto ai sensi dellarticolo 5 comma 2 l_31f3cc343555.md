@@ -286,10 +286,10 @@ Gli organismi di controllo non possono svolgere, nel settore dell'agricoltura bi
 
 9.
 
-Il personale degli organismi di controllo, nello svolgimento dell'attivita' di controllo, e' incaricato di pubblico servizio, ai sensi dell'[articolo 358 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Il personale degli organismi di controllo, nello svolgimento dell'attivita' di controllo, e' incaricato di pubblico servizio, ai sensi dell'[articolo 358 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 Note all'art. 4: 
- - Il testo dell'[art. 358 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente: «Art. 358 (Nozione della persona incaricata di un pubblico servizio). - 1. Agli effetti della legge penale, sono incaricati di un pubblico servizio coloro i quali, a qualunque titolo, prestano un pubblico servizio. 
+ - Il testo dell'[art. 358 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente: «Art. 358 (Nozione della persona incaricata di un pubblico servizio). - 1. Agli effetti della legge penale, sono incaricati di un pubblico servizio coloro i quali, a qualunque titolo, prestano un pubblico servizio. 
  Per pubblico servizio deve intendersi un'attivita' disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata dalla mancanza dei poteri tipici di quest'ultima, e con esclusione dello svolgimento di semplici mansioni di ordine e della prestazione di opera meramente materiale.».
 
 ## Art. 5.

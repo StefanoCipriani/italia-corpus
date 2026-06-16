@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 14 agosto 1919, n. 1442](Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), sul personale di pubblica sicurezza; 
+ Visto il [R. decreto 14 agosto 1919, n. 1442](../Regi%20decreti/Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md), sul personale di pubblica sicurezza; 
  
- Visto l'art. 10 del regolamento approvato con [R. decreto 14 settembre 1919, n. 1639](Che%20approva%20lunito%20testo%20del%20regolamento%20pel%20corpo%20degli%20agenti%20dinvestigazione.%20019U1639.md), per il corpo degli agenti d'investigazione; 
+ Visto l'art. 10 del regolamento approvato con [R. decreto 14 settembre 1919, n. 1639](../Regi%20decreti/Che%20approva%20lunito%20testo%20del%20regolamento%20pel%20corpo%20degli%20agenti%20dinvestigazione.%20019U1639.md), per il corpo degli agenti d'investigazione; 
  
  Ritenuta l'opportunita' di disciplinare, in casi speciali, i rapporti di dipendenza gerarchica tra i vari agenti; 
  

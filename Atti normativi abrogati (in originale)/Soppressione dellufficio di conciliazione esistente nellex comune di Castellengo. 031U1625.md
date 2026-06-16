@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 18 febbraio 1930, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-18;144), col quale il comune di Castellengo e' stato unito a quello di Cossato; 
+ Visto il [R. decreto 18 febbraio 1930, n. 144](../Regi%20decreti/Unione%20del%20comune%20di%20Castellengo%20a%20quello%20di%20Cossato.%20030U0144.md), col quale il comune di Castellengo e' stato unito a quello di Cossato; 
  Vista la deliberazione del podesta' di Cossato, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Castellengo; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

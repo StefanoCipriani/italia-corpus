@@ -20,7 +20,7 @@ Allo scopo di tutelare e migliorare la fauna e la flora e di conservare le speci
  
  Art. 3. 
  
- Il territorio del Parco nazionale di Abruzzo e' costituito in riserva di caccia, pesca e protezione delle bellezze e manifestazioni naturali, ad ogni effetto di legge. Per la segnalazione dei divieti, agli effetti dell'[art. 712 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_712) e dell'[art. 428 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), saranno sufficienti le tabelle con la semplice scritta: «Parco nazionale d'Abruzzo» che saranno apposte sul perimetro del territorio, nei punti di intersezione del perimetro con ciascuna delle strade di accesso, e l'affissione permanente in ciascuno dei centri abitati del territorio, di un avviso annunciante i divieti di cui al seguente art. 4. 
+ Il territorio del Parco nazionale di Abruzzo e' costituito in riserva di caccia, pesca e protezione delle bellezze e manifestazioni naturali, ad ogni effetto di legge. Per la segnalazione dei divieti, agli effetti dell'[art. 712 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_712) e dell'[art. 428 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), saranno sufficienti le tabelle con la semplice scritta: «Parco nazionale d'Abruzzo» che saranno apposte sul perimetro del territorio, nei punti di intersezione del perimetro con ciascuna delle strade di accesso, e l'affissione permanente in ciascuno dei centri abitati del territorio, di un avviso annunciante i divieti di cui al seguente art. 4. 
  
  Le tabelle e gli avvisi apposti ai fini suddetti sono esenti da tassa di bollo. 
  
@@ -84,7 +84,7 @@ Allo scopo di tutelare e migliorare la fauna e la flora e di conservare le speci
  
  Nel caso di contravvenzione per caccia abusiva, la conciliazione non esime dalla confisca degli animali uccisi, dei cani, delle armi o degli strumenti, a meno che il contravventore non ne paghi il prezzo equivalente. 
  
- La conciliazione non e' ammessa, quando si tratti di contravvenzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altro leggi penali, per le quali non sia consentita l'obiezione ai sensi dell'[art. 101 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ La conciliazione non e' ammessa, quando si tratti di contravvenzioni previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altro leggi penali, per le quali non sia consentita l'obiezione ai sensi dell'[art. 101 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Art. 9. 
  

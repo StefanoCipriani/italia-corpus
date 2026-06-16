@@ -14,7 +14,7 @@ In applicazione del Reale decreto 24 maggio 1915, n. 697, e salvo la facolta' di
 
 ## Art. 2.
 
-Le disposizioni del [R. decreto 24 maggio 1915, numero 697](Che%20vieta%20ogni%20traffico%20di%20esportazione%20dimportazione%20o%20di%20transito%20fra%20il%20territorio%20del%20Regno%20e%20delle%20sue%20Colonie%20e%20il%20territorio%20della%20Monarchia%20Austro-Ungarica.%20015U0697.md), e del precedente articolo sono estese al commercio fra l'Italia e la Germania ed alla introduzione di merci di produzione o di origine dell'Impero germanico.
+Le disposizioni del [R. decreto 24 maggio 1915, numero 697](../Regi%20decreti/Che%20vieta%20ogni%20traffico%20di%20esportazione%20dimportazione%20o%20di%20transito%20fra%20il%20territorio%20del%20Regno%20e%20delle%20sue%20Colonie%20e%20il%20territorio%20della%20Monarchia%20Austro-Ungarica.%20015U0697.md), e del precedente articolo sono estese al commercio fra l'Italia e la Germania ed alla introduzione di merci di produzione o di origine dell'Impero germanico.
 
 ## Art. 3.
 

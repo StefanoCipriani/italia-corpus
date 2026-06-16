@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), che detta norme per la tutela delle strade e per la circolazione;
+Visto il [regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), che detta norme per la tutela delle strade e per la circolazione;
 
 Visto il [regio decreto 22 dicembre 1938, n. 2139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-22;2139), convertito, con modificazioni, nella [legge 29 maggio 1939, n. 921](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2022%20dicembre%201938-XVII%20n.%202139%20recante%20norme%20per%20il%20segnalamento%20visivo%20dei%20velocipedi.%20039U0921.md), e recante norme pel segnalamento visivo dei velocipedi;
 
@@ -26,17 +26,17 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-Le pene pecuniarie comminate per le infrazioni alle norme contenute nel [regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md) e nel [regio decreto 22 dicembre 1938, n. 2139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-22;2139), convertito, con modificazioni, nella [legge 29 maggio 1939, n. 921](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2022%20dicembre%201938-XVII%20n.%202139%20recante%20norme%20per%20il%20segnalamento%20visivo%20dei%20velocipedi.%20039U0921.md), gia' raddoppiate a norma dell'[art. 3 del decreto legislativo luogotenenziale 5 ottobre 1945, numero 679](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20Codice%20penale%20e%20al%20Codice%20di%20procedura%20penale.%20045U0679.md), sono ulteriormente aumentate nei minimi e nei massimi in ragione di cinque volte le cifre indicate nelle dette disposizioni.
+Le pene pecuniarie comminate per le infrazioni alle norme contenute nel [regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md) e nel [regio decreto 22 dicembre 1938, n. 2139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-22;2139), convertito, con modificazioni, nella [legge 29 maggio 1939, n. 921](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2022%20dicembre%201938-XVII%20n.%202139%20recante%20norme%20per%20il%20segnalamento%20visivo%20dei%20velocipedi.%20039U0921.md), gia' raddoppiate a norma dell'[art. 3 del decreto legislativo luogotenenziale 5 ottobre 1945, numero 679](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20Codice%20penale%20e%20al%20Codice%20di%20procedura%20penale.%20045U0679.md), sono ulteriormente aumentate nei minimi e nei massimi in ragione di cinque volte le cifre indicate nelle dette disposizioni.
  I Comuni i quali abbiano emanati regolamenti per la disciplina della circolazione urbana sono autorizzati a modificare i regolamenti stessi per elevare, nei limiti previsti dal precedente comma, le sanzioni pecuniarie.
- Tali modificazioni devono essere approvate dal Ministro per i lavori pubblici, di concerto con il Ministro per i trasporti, a norma dell'[art. 128 del regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+ Tali modificazioni devono essere approvate dal Ministro per i lavori pubblici, di concerto con il Ministro per i trasporti, a norma dell'[art. 128 del regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
 
 ## Art. 2.
 
-Ferma restando la facolta' di oblazione in via breve nei casi contemplati dall'art. 116 del citato [regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), sono elevati, in ragione di dieci volte, tutte le cifre enunciate in detto articolo.
+Ferma restando la facolta' di oblazione in via breve nei casi contemplati dall'art. 116 del citato [regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), sono elevati, in ragione di dieci volte, tutte le cifre enunciate in detto articolo.
 
 ## Art. 3.
 
-Sono elevate al decuplo le somme che gli utenti delle strade pubbliche sono tenuti a versare a termini del [regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), per gli speciali adempimenti ivi prescritti.
+Sono elevate al decuplo le somme che gli utenti delle strade pubbliche sono tenuti a versare a termini del [regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), per gli speciali adempimenti ivi prescritti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

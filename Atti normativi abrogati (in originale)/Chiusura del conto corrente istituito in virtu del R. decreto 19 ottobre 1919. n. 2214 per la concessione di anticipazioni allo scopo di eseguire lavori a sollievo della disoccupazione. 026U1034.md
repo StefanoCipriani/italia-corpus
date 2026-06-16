@@ -18,11 +18,11 @@ Visto il [R. decreto 19 ottobre 1919, n. 2214](https://www.normattiva.it/uri-res
 
 Visto il [R. decreto 14 giugno 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;560);
 
-Ritenuto che, ai sensi dell'[art. 16 del R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158#art_16) fu attribuita alla Cassa nazionale per le assicurazioni sociali la facolta' di concedere anticipazioni, al fine di combattere, attenuare e prevenire la disoccupazione ; e che, pertanto, puo' essere disposta la chiusura del conto corrente istituto col citato [R. decreto 19 ottobre 1919, n. 2214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-19;2214);
+Ritenuto che, ai sensi dell'[art. 16 del R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md) fu attribuita alla Cassa nazionale per le assicurazioni sociali la facolta' di concedere anticipazioni, al fine di combattere, attenuare e prevenire la disoccupazione ; e che, pertanto, puo' essere disposta la chiusura del conto corrente istituto col citato [R. decreto 19 ottobre 1919, n. 2214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-19;2214);
 
 Visto il [R. decreto 22 gennaio 1920, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-22;135);
 
-Visto l'[art. 60 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60);
+Visto l'[art. 60 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Sentito il Consiglio dei Ministri;
 

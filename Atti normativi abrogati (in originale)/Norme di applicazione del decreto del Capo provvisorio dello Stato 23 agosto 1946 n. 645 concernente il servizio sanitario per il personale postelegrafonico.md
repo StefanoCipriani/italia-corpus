@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto del Capo provvisorio dello Stato 23 agosto 1946, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-08-23;645);
 
-Visto il [regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), che approva il testo unico delle leggi sulle pensioni civili e militari ed il relativo regolamento, approvato con [regio decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), modificato col [regio decreto 7 giugno 1920, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;835), e successive modificazioni;
+Visto il [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico delle leggi sulle pensioni civili e militari ed il relativo regolamento, approvato con [regio decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), modificato col [regio decreto 7 giugno 1920, n. 835](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20decreto-legge%2023%20ottobre%201919%20n.%201970%20relativo%20al%20trattamento%20di%20pensione%20degli%20impiegati%20dello%20Stato%20e%20degli%20ufficiali%20del%20R.%20esercito%20e%20de_68186b6f3570.md), e successive modificazioni;
 
-Visto il [regio decreto 5 giugno 1941, n. 874](Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), che approva il [testo unico delle leggi sul sequestro](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md), il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche amministrazioni, e successive modificazioni;
+Visto il [regio decreto 5 giugno 1941, n. 874](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), che approva il [testo unico delle leggi sul sequestro](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md), il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche amministrazioni, e successive modificazioni;
 
 Visto il [regio decreto-legge 14 gennaio 1926, n. 99](Approvazione%20del%20regolamento%20contenente%20norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20nei%20casi%20di%20malattie%20e%20di%20infortuni.%20026U0099.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
-Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e successive modificazioni;
 
@@ -44,7 +44,7 @@ Qualora il collegio medico confermi il giudizio di idoneita' espresso dal sanita
 
 ## Art. 3.
 
-Tutte le visite dirette a stabilire la cessazione dal servizio per il collocamento a riposo a domanda per motivi di salute ovvero per inabilita' fisica alla scadenza dell'aspettativa, di cui all'[art. 85 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_85), e gli accertamenti atti a stabilire le malattie contratte in servizio e per causa di servizio, saranno praticate in forma collegiale con le norme e le cautele di cui ai comma 2° e 3° del precedente art. 1.
+Tutte le visite dirette a stabilire la cessazione dal servizio per il collocamento a riposo a domanda per motivi di salute ovvero per inabilita' fisica alla scadenza dell'aspettativa, di cui all'[art. 85 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e gli accertamenti atti a stabilire le malattie contratte in servizio e per causa di servizio, saranno praticate in forma collegiale con le norme e le cautele di cui ai comma 2° e 3° del precedente art. 1.
 
 ## Art. 4.
 
@@ -57,7 +57,7 @@ Nel caso in cui il giudizio del medico provinciale non concordi con quello emess
 
 ## Art. 6.
 
-Il parere medico-legale, in caso di morte, per presunte cause di servizio, ai sensi e per gli effetti del l'art. 34 del regolamento sulle pensioni, approvato con [regio decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), sara' richiesto al medico provinciale e, in casi assolutamente eccezionali, all'Alto Commissariato per l'igiene e la sanita' pubblica.
+Il parere medico-legale, in caso di morte, per presunte cause di servizio, ai sensi e per gli effetti del l'art. 34 del regolamento sulle pensioni, approvato con [regio decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), sara' richiesto al medico provinciale e, in casi assolutamente eccezionali, all'Alto Commissariato per l'igiene e la sanita' pubblica.
 
 ## Art. 7.
 
@@ -65,7 +65,7 @@ Gli onorari da corrispondere ai sanitari fiscali saranno stabiliti entro i limit
 
 ## Art. 8.
 
-In caso di traumi in servizio il personale coperto dall'assicurazione, ai sensi dell'art. 1 dei regi decreti n. 1274 e [n. 1275, del 16 giugno 1938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-16;1275), riceve le prestazioni sanitarie previste dal titolo IV del [regio decreto n. 1765, del 17 agosto 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), dall'Istituto nazionale infortuni, col quale e' stipulata all'uopo apposita convenzione.
+In caso di traumi in servizio il personale coperto dall'assicurazione, ai sensi dell'art. 1 dei regi decreti n. 1274 e [n. 1275, del 16 giugno 1938](../Regi%20decreti/Norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20nei%20casi%20dinfortuni%20in%20servizio.%20038U1275.md), riceve le prestazioni sanitarie previste dal titolo IV del [regio decreto n. 1765, del 17 agosto 1935](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), dall'Istituto nazionale infortuni, col quale e' stipulata all'uopo apposita convenzione.
 
 ## Art. 9.
 

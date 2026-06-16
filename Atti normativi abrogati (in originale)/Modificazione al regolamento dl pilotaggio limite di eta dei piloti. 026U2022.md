@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il regolamento per la esecuzione del Codice medesimo approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), serie 2ª e successive modificazioni; 
  
- Visto il [R. decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778), che approva il regolamento per il servizio di pilotaggio nei porti del Regno; 
+ Visto il [R. decreto 29 aprile 1926, n. 778](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20il%20servizio%20pilotaggio%20nei%20porti%20dello%20Stato.%20026U0778.md), che approva il regolamento per il servizio di pilotaggio nei porti del Regno; 
  
  Udito il Consiglio di Stato; 
  

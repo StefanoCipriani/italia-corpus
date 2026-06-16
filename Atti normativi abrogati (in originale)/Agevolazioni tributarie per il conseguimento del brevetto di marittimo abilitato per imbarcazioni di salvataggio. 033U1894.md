@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'art. 130 del regolamento per la sicurezza delle navi mercantili e della vita umana in mare approvato con [R. decreto 23 maggio 1932, n. 719](Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md); 
+ Visto l'art. 130 del regolamento per la sicurezza delle navi mercantili e della vita umana in mare approvato con [R. decreto 23 maggio 1932, n. 719](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md); 
  
  Visto l'art. 2 della legge del bollo 30 dicembre 1923, n. 3268; 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Articolo Unico. 
  
- I brevetti per marittimo abilitato per imbarcazioni di salvataggio a norma del regolamento approvato con [R. decreto 23 maggio 1932, n. 719](Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md), sono esenti da tassa di bollo sino a che non se ne faccia uso ai sensi dell'art. 2 della legge di bollo 30 dicembre 1923, n. 3268. 
+ I brevetti per marittimo abilitato per imbarcazioni di salvataggio a norma del regolamento approvato con [R. decreto 23 maggio 1932, n. 719](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20032U0719.md), sono esenti da tassa di bollo sino a che non se ne faccia uso ai sensi dell'art. 2 della legge di bollo 30 dicembre 1923, n. 3268. 
  
  La stessa esenzione e' concessa per la domanda e per i documenti occorrenti all'ottenimento del brevetto. 
  

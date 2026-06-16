@@ -18,7 +18,7 @@ Vista la [legge 27 giugno 1907, n. 404](Istituzione%20di%20un%20Consiglio%20supe
 
 Vista la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md), e sue successive modificazioni;
 
-Visto il [R. decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md), e sue modificazioni;
+Visto il [R. decreto 4 settembre 1898, n. 444](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md), e sue modificazioni;
 
 Udito il Consiglio dei ministri;
 

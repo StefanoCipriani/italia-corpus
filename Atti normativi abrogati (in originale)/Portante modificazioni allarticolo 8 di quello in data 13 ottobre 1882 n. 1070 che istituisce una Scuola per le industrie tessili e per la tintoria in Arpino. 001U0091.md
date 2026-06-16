@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[articolo 8 del R. decreto 13 ottobre 1882, n. 1070](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-10-13;1070#art_8) (serie 3ª), che istituisce una Scuola per le industrie tessili e per la tintoria in Arpino; 
+ Visto l'[articolo 8 del R. decreto 13 ottobre 1882, n. 1070](../Regi%20decreti/Che%20istituisce%20una%20scuola%20per%20le%20industrie%20tessili%20e%20tintoria%20in%20Arpino.%20082U1070.md) (serie 3ª), che istituisce una Scuola per le industrie tessili e per la tintoria in Arpino; 
  
  Vista la deliberazione del Consiglio direttivo della detta Scuola, in data 30 giugno 1900, approvata dal Consiglio comunale di Arpino, dal Consiglio provinciale e dalla Camera di commercio di Caserta rispettivamente in data del 15 luglio 1900, 17 gennaio 1901 e 7 settembre 1900; 
  
@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il [primo comma dell'articolo 8 del R. decreto 13 ottobre 1882, n. 1070](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-10-13;1070#art_8-com1) (serie 3ª), e' modificato come segue: 
+ Il [primo comma dell'articolo 8 del R. decreto 13 ottobre 1882, n. 1070](../Regi%20decreti/Che%20istituisce%20una%20scuola%20per%20le%20industrie%20tessili%20e%20tintoria%20in%20Arpino.%20082U1070.md) (serie 3ª), e' modificato come segue: 
  
  «La direzione della Scuola e' affidata, sopra proposta del Consiglio direttivo, al professore di materie tecniche piu' anziano e capace, in seguito ad approvazione del Ministero d'Agricoltura, Industria e Commercio». 
  

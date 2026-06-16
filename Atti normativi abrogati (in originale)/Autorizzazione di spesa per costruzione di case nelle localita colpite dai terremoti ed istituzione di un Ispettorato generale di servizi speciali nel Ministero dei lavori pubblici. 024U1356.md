@@ -118,7 +118,7 @@ Presso il Ministero dei lavori pubblici e' istituito un Ispettorato generale den
  
  Il Ministro per i lavori pubblici potra' affidare al detto Ispettorato anche altri incarichi. 
  
- In relazione a quanto precede, nel ruolo della carriera amministrativa del Ministero dei lavori pubblici di cui alla tabella n. 48 dell'allegato 2° al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aggiunto un Posto di ispettore generale assegnato al grado 4°.
+ In relazione a quanto precede, nel ruolo della carriera amministrativa del Ministero dei lavori pubblici di cui alla tabella n. 48 dell'allegato 2° al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aggiunto un Posto di ispettore generale assegnato al grado 4°.
 Corrispondente variazione e' introdotta nella tabella di classificazione per gradi dei personali appartenenti al gruppo A, di cui all'allegato 1° del decreto predetto.
 
 ## Art. 14.

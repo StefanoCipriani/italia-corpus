@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.i
 
 Visto il [regio decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), convertito nella [legge 17 marzo 1928, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-17;1350);
 
-Visto il [regio decreto 3 agosto 1928, n. 2295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;2295);
+Visto il [regio decreto 3 agosto 1928, n. 2295](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20alle%20norme%20regolamentari%20sul%20servizio%20di%20radioaudizione%20circolare%20approvate%20coi%20Regi%20decreti%2010%20luglio%201924%20n.%201226%20e%2013%20agosto%201926%20n.%201559.%20028U2295.md);
 
 Visto il [regio decreto-legge 17 aprile 1931, n. 589](Disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radiodiffusione.%20031U0589.md), convertito nella [legge 21 dicembre 1931, n. 1823](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2017%20aprile%201931%20n.%20589%20recante%20disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radio-diffusione.%20031U1823.md);
 
@@ -30,7 +30,7 @@ Visto il [regio decreto-legge 9 settembre 1937, n. 241](https://www.normattiva.i
 
 Visto il [regio decreto-legge 21 febbraio 1938, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-02-21;246), convertito nella [legge 4 giugno 1938, n. 880](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20febbraio%201938-XVI%20n.%20246%20recante%20Disciplina%20degli%20abbonamenti%20alle%20radioaudizioni.%20038U0880.md);
 
-Visto il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Vista la [legge 26 marzo 1942, n. 406](Agevolazioni%20in%20materia%20di%20abbonamenti%20alle%20radioaudizioni%20per%20impianti%20radiofonici%20centralizzati%20in%20quartieri%20e%20villaggi%20popolari.%20042U0406.md);
 

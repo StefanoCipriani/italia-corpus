@@ -160,7 +160,7 @@ Il Ministro per la sanita', sentito il Consiglio superiore di sanita', stabilisc
 ## Art. 13.
 
 La vigilanza per l'applicazione delle norme della presente legge e dei relativi decreti di esecuzione compete alle autorita' sanitarie regionali che la esercitano in conformita' alle direttive impartite dal Ministero della sanita' e, per quanto di competenza, dal Ministero della marina mercantile. 
- L'accertamento delle infrazioni alla presente legge ed alle disposizioni applicative da emanare con successivi decreti puo' essere altresi' effettuato dalle guardie di finanza, dal personale delle capitanerie di porto e degli uffici di porto che riveste la qualifica di ufficiale o agente di polizia giudiziaria ai sensi dell'[articolo 1235 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dagli agenti della sanita' marittima, dai carabinieri, dagli agenti di pubblica sicurezza e da ogni altro agente od ufficiale di polizia giudiziaria, nonche' dalle guardie comunali.
+ L'accertamento delle infrazioni alla presente legge ed alle disposizioni applicative da emanare con successivi decreti puo' essere altresi' effettuato dalle guardie di finanza, dal personale delle capitanerie di porto e degli uffici di porto che riveste la qualifica di ufficiale o agente di polizia giudiziaria ai sensi dell'[articolo 1235 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dagli agenti della sanita' marittima, dai carabinieri, dagli agenti di pubblica sicurezza e da ogni altro agente od ufficiale di polizia giudiziaria, nonche' dalle guardie comunali.
 
 ## Art. 14.
 

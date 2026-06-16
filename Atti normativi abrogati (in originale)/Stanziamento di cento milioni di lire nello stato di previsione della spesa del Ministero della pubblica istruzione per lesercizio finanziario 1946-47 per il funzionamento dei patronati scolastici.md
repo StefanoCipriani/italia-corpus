@@ -12,7 +12,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), che approva il testo unico delle, leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle sue opere d'integrazione;
+ Visto il [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), che approva il testo unico delle, leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle sue opere d'integrazione;
  Visto il [regio decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297), che approva, il regolamento generale sui servizi dell'istruzione elementare;
  Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
  Vista la deliberazione del Consiglio dei Ministri;

@@ -18,7 +18,7 @@ Visto il [R. decreto 9 agosto 1914, n. 1419](Col%20quale%20e%20approvato%20lanne
 
 Visto il [decreto Luogotenenziale n. 1804 in data 3 dicembre 1916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-03;1804) col quale furono apportate alcune modificazioni al predetto regolamento;
 
-Visto l'[art. 8 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto l'[art. 8 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto l'art. 644 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 

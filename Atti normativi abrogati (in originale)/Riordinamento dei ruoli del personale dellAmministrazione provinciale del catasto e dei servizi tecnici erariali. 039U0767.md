@@ -56,13 +56,13 @@ Entro due anni dall'entrata in vigore del presente decreto il periodo di anziani
  
  b) a due anni per le promozioni ai posti di grado ottavo del ruolo di gruppo B, di cui alla tabella B annessa al presente decreto. 
  
- Per l'ammissione al primo concorso di merito distinto indetto dopo l'entrata in vigore del presente decreto per la promozione al grado ottavo del gruppo A, al grado nono del gruppo B ed al grado decimo del gruppo C, i periodi minimi di anzianita' di servizio, rispettivamente richiesti dalle vigenti disposizioni, sono ridotti di due anni. Tale concorso, in deroga all'ultimo comma dell'[art. 21 del Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21), puo' essere bandito anche prima di un anno dalla data di approvazione della graduatoria dei precedenti analoghi concorsi. 
+ Per l'ammissione al primo concorso di merito distinto indetto dopo l'entrata in vigore del presente decreto per la promozione al grado ottavo del gruppo A, al grado nono del gruppo B ed al grado decimo del gruppo C, i periodi minimi di anzianita' di servizio, rispettivamente richiesti dalle vigenti disposizioni, sono ridotti di due anni. Tale concorso, in deroga all'ultimo comma dell'[art. 21 del Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), puo' essere bandito anche prima di un anno dalla data di approvazione della graduatoria dei precedenti analoghi concorsi. 
  
  I vincitori del concorso conseguono pero' la promozione solo al compimento dell'anzianita' prescritta normalmente per i detti esami. 
  
  Qualora, in applicazione del precedente terzo comma, le promozioni al grado ottavo del gruppo A, al grado nono del gruppo B, ed al grado decimo del grippo C dei vincitori del concorso non abbiano luogo nell'ordine della graduatoria di concorso, le promozioni stesse sono conferite con riserva di anzianita' rispetto agli altri vincitori che non hanno ancora compiuto il periodo necessario. 
  
- Coloro che non vincono il concorso, ma vi riportano i punti richiesti per superare l'esame d'idoneita', sono collocati, secondo le norme dell'art. 42, ultimo comma, del [Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), nella graduatoria degli idonei del primo esame di idoneita' bandito dopo che essi hanno raggiunto l'anzianita' richiesta per parteciparvi.
+ Coloro che non vincono il concorso, ma vi riportano i punti richiesti per superare l'esame d'idoneita', sono collocati, secondo le norme dell'art. 42, ultimo comma, del [Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), nella graduatoria degli idonei del primo esame di idoneita' bandito dopo che essi hanno raggiunto l'anzianita' richiesta per parteciparvi.
 
 ## Art. 4.
 

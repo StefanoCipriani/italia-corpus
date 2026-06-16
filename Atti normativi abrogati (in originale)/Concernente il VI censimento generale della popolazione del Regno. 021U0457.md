@@ -62,7 +62,7 @@ Coloro che si rifiutassero di fornire le notizie richieste o che alterassero sci
 
 Nella stessa pena incorreranno coloro che divulgassero notizie di carattere personale contenute noi fogli di famiglia, delle quali fossero venuti a cognizione per ragioni del loro ufficio o impiego. 
  
- Alle contravvenzioni alle disposizioni degli articoli 6 e 10 si applicheranno i procedimenti indicati negli articoli 227 e 228 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
+ Alle contravvenzioni alle disposizioni degli articoli 6 e 10 si applicheranno i procedimenti indicati negli articoli 227 e 228 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ## Art. 12.
 

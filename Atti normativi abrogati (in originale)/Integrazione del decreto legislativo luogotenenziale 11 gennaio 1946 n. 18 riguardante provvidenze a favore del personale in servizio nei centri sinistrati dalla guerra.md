@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md);
 
-Visto l'[art. 3 del regio decreto legislativo 29 maggio 1946, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-29;488#art_3);
+Visto l'[art. 3 del regio decreto legislativo 29 maggio 1946, n. 488](../Regi%20decreti%20legislativi/Modificazioni%20delle%20disposizioni%20vigenti%20per%20la%20liquidazione%20della%20indennita%20di%20carovita%20e%20per%20la%20concessione%20dellindennita%20ai%20dipendenti%20statali%20residenti%20in%20Comuni%20distrutti%20o%20gravement_f04ea74b5da4.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 24 maggio 1947, n. 517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-24;517);
 

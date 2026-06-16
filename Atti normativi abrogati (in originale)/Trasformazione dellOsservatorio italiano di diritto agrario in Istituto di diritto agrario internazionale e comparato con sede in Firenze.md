@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'Osservatorio italiano di diritto agrario, eretto in ente morale con [regio decreto 16 luglio 1936, n. 1423](Erezione%20in%20ente%20morale%20dellOsservatorio%20Italiano%20di%20diritto%20agrario%20con%20sede%20in%20Roma.%20036U1423.md), assume la denominazione di Istituto di diritto agrario internazionale e comparato.
+L'Osservatorio italiano di diritto agrario, eretto in ente morale con [regio decreto 16 luglio 1936, n. 1423](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellOsservatorio%20Italiano%20di%20diritto%20agrario%20con%20sede%20in%20Roma.%20036U1423.md), assume la denominazione di Istituto di diritto agrario internazionale e comparato.
  L'Istituto, che ha sede in Firenze, ha personalita' giuridica di diritto pubblico ed e' posto sotto la vigilanza del Ministero della pubblica istruzione e del Ministero dell'agricoltura e delle foreste.
 
 ## Art. 2.

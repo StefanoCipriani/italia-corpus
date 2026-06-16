@@ -14,7 +14,7 @@ N.
 
 1760.
 
-R. decreto 23 agosto 1934, col quale, sulla proposta del Ministro Segretario di Stato per l'educazione nazionale, viene approvato il nuovo statuto della Cassa scolastica del Regio istituto magistrale « Duca degli Abruzzi », con sede in Treviso, in sostituzione di quello approvato con [R. decreto 15 settembre 1922, n. 1739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-15;1739). 
+R. decreto 23 agosto 1934, col quale, sulla proposta del Ministro Segretario di Stato per l'educazione nazionale, viene approvato il nuovo statuto della Cassa scolastica del Regio istituto magistrale « Duca degli Abruzzi », con sede in Treviso, in sostituzione di quello approvato con [R. decreto 15 settembre 1922, n. 1739](../Regi%20decreti/Erezione%20in%20Ente%20morale.%20022U1739.md). 
  
  Visto, il Guardasigilli: De Francisci. 
  

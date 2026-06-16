@@ -18,7 +18,7 @@ La verificazione dei misuratori dei gas a domicilio, richiesta d'accordo dall'im
 
 Il diritto di verificazione e' quello stabilito dalla tabella B, annessa al testo unico di leggi metriche sopracitato. 
  
- Al verificatore metrico che eseguisce la verificazione, competono le indennita' fissate dall'art. 136, n. 1 o n. 2 del regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242). 
+ Al verificatore metrico che eseguisce la verificazione, competono le indennita' fissate dall'art. 136, n. 1 o n. 2 del regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md). 
  
  L'impresa del gas ed il consumatore debbono fare, su richiesta dell'ufficio metrico, il deposito di una somma corrispondente all'importo presuntivo del diritto di verificazione e delle indennita'.
 

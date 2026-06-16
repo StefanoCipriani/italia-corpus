@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il regolamento per la vigilanza governativa sulle pellicole cinematografiche, approvato con [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), e successive modificazioni;
+Visto il regolamento per la vigilanza governativa sulle pellicole cinematografiche, approvato con [R. decreto 24 settembre 1923, n. 3287](../Regi%20decreti/Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), e successive modificazioni;
 
 Viste le [leggi 16 giugno 1927, n. 1117, e 17 agosto 1941, n. 1131](Modificazioni%20al%20R.%20decreto-legge%2016%20giugno%201938-XVI%20n.%201061%20convertito%20nella%20legge%2018%20gennaio%201939-XVII%20n.%20458%20concernente%20provvedimenti%20a%20favore%20dellindustria%20cinematografica%20nazionale.%20041U1131.md), sull'obbligatorieta' della proiezione dei giornali Luce e dei documentari;
 
@@ -58,7 +58,7 @@ L'esercizio dell'attivita' di produzione di film e' libero.
 
 Per i film che saranno posti in lavorazione dall'entrata in vigore del presente decreto sino ad un anno dopo la cessazione dello stato di guerra, il produttore dovra' presentare la sceneggiatura all'approvazione preventiva dell'autorita' competente. Questa potra' essere negata soltanto per ragioni inerenti alla censura militare od ai rapporti internazionali. 
  
- L'approvazione, preventiva della sceneggiatura di cui al comma precedente e' condizione indispensabile per poter successivamente presentare il film prodotto alla revisione prescritta dall'art. 1 del regolamento per la vigilanza governativa sulle pellicole cinematografiche approvato col [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md).
+ L'approvazione, preventiva della sceneggiatura di cui al comma precedente e' condizione indispensabile per poter successivamente presentare il film prodotto alla revisione prescritta dall'art. 1 del regolamento per la vigilanza governativa sulle pellicole cinematografiche approvato col [R. decreto 24 settembre 1923, n. 3287](../Regi%20decreti/Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md).
 
 ## Art. 3.
 
@@ -124,7 +124,7 @@ Le disposizioni del [R. decreto-legge 5 ottobre 1933, n. 1414](Provvidenze%20var
 
 ## Art. 11.
 
-Oltre alle disposizioni di cui e' espressamente prevista l'abrogazione negli articoli precedenti, cessano di avere efficacia con l'entrata in vigore del presente decreto tutte le norme legislative e regolamentari che sottopongono a particolari restrizioni l'importazione, il doppiaggio, la produzione e il noleggio di pellicole Cinematografiche o che siano comunque incompatibili con le norme contenute nel presente decreto, salvo le norme delle leggi di pubblica sicurezza e del regolamento per la vigilanza governativa sulle pellicole cinematografiche, approvato con il [R. decreto 24 settembre 1923, n. 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), che disciplinano la censura cinematografica. 
+Oltre alle disposizioni di cui e' espressamente prevista l'abrogazione negli articoli precedenti, cessano di avere efficacia con l'entrata in vigore del presente decreto tutte le norme legislative e regolamentari che sottopongono a particolari restrizioni l'importazione, il doppiaggio, la produzione e il noleggio di pellicole Cinematografiche o che siano comunque incompatibili con le norme contenute nel presente decreto, salvo le norme delle leggi di pubblica sicurezza e del regolamento per la vigilanza governativa sulle pellicole cinematografiche, approvato con il [R. decreto 24 settembre 1923, n. 3287](../Regi%20decreti/Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), che disciplinano la censura cinematografica. 
  
  Ordiniamo che il presente decreto; munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

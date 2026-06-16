@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 2 del Regio decreto 30 dicembre 1923, n. 3213](Riordinamento%20del%20servizio%20geologico%20ed%20applicazione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20dellufficio%20stesso.%20023U3213.md), che in virtu' della delegazione dei poteri conferiti con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md), provvede al riordinamento del servizio geologico e all'applicazione del [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), al personale dell'ufficio stesso;
+Visto l'[art. 2 del Regio decreto 30 dicembre 1923, n. 3213](../Regi%20decreti/Riordinamento%20del%20servizio%20geologico%20ed%20applicazione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20dellufficio%20stesso.%20023U3213.md), che in virtu' della delegazione dei poteri conferiti con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md), provvede al riordinamento del servizio geologico e all'applicazione del [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), al personale dell'ufficio stesso;
 
 Sentito il Consiglio dei Ministri;
 

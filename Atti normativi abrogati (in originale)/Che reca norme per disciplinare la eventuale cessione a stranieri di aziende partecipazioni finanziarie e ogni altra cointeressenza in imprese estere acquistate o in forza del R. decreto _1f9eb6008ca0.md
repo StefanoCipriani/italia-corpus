@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 settembre 1919, n. 1674](Che%20proibisce%20agli%20Istituti%20ed%20ai%20cittadini%20italiani%20di%20contrarre%20prestiti%20e%20di%20assumere%20partecipazione%20finanziaria%20fuori%20del%20Regno%20senza%20il%20consenso%20preventivo%20del%20ministro%20del%20tesoro.%20019U1674.md), portante divieto agli Istituti e ai cittadini italiani di contrarre prestiti e di assumere partecipazioni finanziarie fuori del Regno, senza il consenso preventivo del Governo;
+Veduto il [R. decreto 11 settembre 1919, n. 1674](../Regi%20decreti/Che%20proibisce%20agli%20Istituti%20ed%20ai%20cittadini%20italiani%20di%20contrarre%20prestiti%20e%20di%20assumere%20partecipazione%20finanziaria%20fuori%20del%20Regno%20senza%20il%20consenso%20preventivo%20del%20ministro%20del%20tesoro.%20019U1674.md), portante divieto agli Istituti e ai cittadini italiani di contrarre prestiti e di assumere partecipazioni finanziarie fuori del Regno, senza il consenso preventivo del Governo;
 
 Ritenuta la necessita' di estendere con opportune cautele il predetto regime, quando l'interesse dell'economia nazionale lo esiga, anche alle operazioni di cessione e di alienazione a qualsiasi titolo, di aziende acquistate al all'estero, o di partecipazioni finanziarie, o di ogni altra forma di cointeressenza in imprese estere;
 
@@ -26,13 +26,13 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 Le aziende, le partecipazioni finanziarie e ogni altra cointeressenza in imprese estere che un cittadino del Regno o delle colonie italiane, o una Societa' italiana, anche avente solo esistenza di fatto, o qualunque altro 
  
- Ente italiano abbiano acquistato o in vira del [R. decreto 11 settembre 1919, n. 1674](Che%20proibisce%20agli%20Istituti%20ed%20ai%20cittadini%20italiani%20di%20contrarre%20prestiti%20e%20di%20assumere%20partecipazione%20finanziaria%20fuori%20del%20Regno%20senza%20il%20consenso%20preventivo%20del%20ministro%20del%20tesoro.%20019U1674.md), o per intervento dello Stato, non possono essere cedute a stranieri, se non previo consenso del Ministero del tesoro di concerto con quello del commercio. 
+ Ente italiano abbiano acquistato o in vira del [R. decreto 11 settembre 1919, n. 1674](../Regi%20decreti/Che%20proibisce%20agli%20Istituti%20ed%20ai%20cittadini%20italiani%20di%20contrarre%20prestiti%20e%20di%20assumere%20partecipazione%20finanziaria%20fuori%20del%20Regno%20senza%20il%20consenso%20preventivo%20del%20ministro%20del%20tesoro.%20019U1674.md), o per intervento dello Stato, non possono essere cedute a stranieri, se non previo consenso del Ministero del tesoro di concerto con quello del commercio. 
  
  In caso d'inosservanza della precedente disposizione il cittadino, Societa' od Ente responsabile e' passibile di confisca dei propri beni fino a un importo equivalente al valore dei beni ceduti o al ricavato effettivo o presunto dalla cessione. 
  
  L'accertamento e la consegnante confisca sono eseguiti a carico solidale del titolare dell'operazione o di ciascuna delle persone che vi abbiano preso parte, anche come semplici intermediari. La responsabilita' delle Societa' o degli altri Enti, si estende anche ai loro amministratori e sindaci personalmente. 
  
- Le persone responsabili saranno inoltre punite a termini dell'[art. 434 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e, ove occorra, anche con l'interdizione dai pubblici uffici.
+ Le persone responsabili saranno inoltre punite a termini dell'[art. 434 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e, ove occorra, anche con l'interdizione dai pubblici uffici.
 
 ## Art. 2.
 

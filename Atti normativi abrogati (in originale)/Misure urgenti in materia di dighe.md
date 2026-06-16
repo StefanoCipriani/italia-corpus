@@ -26,7 +26,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-La realizzazione di opere di sbarramento che superano i 10 metri di altezza o che determinano un volume d'invaso superiore a 100.000 metri cubi, di seguito denominate dighe, e' soggetta, oltre che alla concessione per la derivazione e la utilizzazione dell'acqua pubblica, in quanto necessaria ai sensi del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive modificazioni, all'approvazione tecnica del progetto.
+La realizzazione di opere di sbarramento che superano i 10 metri di altezza o che determinano un volume d'invaso superiore a 100.000 metri cubi, di seguito denominate dighe, e' soggetta, oltre che alla concessione per la derivazione e la utilizzazione dell'acqua pubblica, in quanto necessaria ai sensi del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive modificazioni, all'approvazione tecnica del progetto.
 
 2.
 
@@ -142,13 +142,13 @@ Chiunque non adempia alle prescrizioni di cui all'articolo 3, comma 5, ovvero de
 
 5.
 
-L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 
 1.
 
-E' abrogato l'[articolo 24, comma 4, del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md).
+E' abrogato l'[articolo 24, comma 4, del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../Regolamenti%20governativi/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md).
 
 2.
 
@@ -162,7 +162,7 @@ L'[articolo 4, comma 2, della legge 18 maggio 1989, n. 183](Norme%20per%20il%20r
 
 1.
 
-Gli organici relativi alle qualifiche funzionali ottava, settima e sesta del ruolo tecnico del Servizio nazionale dighe, di cui alla tabella B annessa al [decreto del Presidente della Repubblica 5 aprile 1993, n. 106](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md), sono coperti entro dodici mesi dalla data di entrata in vigore del presente decreto, secondo le modalita' di accesso al pubblico impiego previste dalla vigente normativa, anche in deroga alle limitazioni previste dall'[articolo 7, comma 8, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_7-com8), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md).
+Gli organici relativi alle qualifiche funzionali ottava, settima e sesta del ruolo tecnico del Servizio nazionale dighe, di cui alla tabella B annessa al [decreto del Presidente della Repubblica 5 aprile 1993, n. 106](../Regolamenti%20governativi/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md), sono coperti entro dodici mesi dalla data di entrata in vigore del presente decreto, secondo le modalita' di accesso al pubblico impiego previste dalla vigente normativa, anche in deroga alle limitazioni previste dall'[articolo 7, comma 8, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_7-com8), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201992%20n.%20384%20recante%20misure%20urgenti%20in%20materia%20di%20previdenza%20di%20sanita%20e%20di%20pubblico%20impiego%20nonche%20disposizioni%20fiscali.md).
 
 2.
 
@@ -182,7 +182,7 @@ Fino all'insediamento di cui al comma 3, e comunque non oltre il 31 dicembre 199
 
 6.
 
-E' abrogato l'[articolo 28 del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md).
+E' abrogato l'[articolo 28 del decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../Regolamenti%20governativi/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md).
 
 ## Art. 7.
 

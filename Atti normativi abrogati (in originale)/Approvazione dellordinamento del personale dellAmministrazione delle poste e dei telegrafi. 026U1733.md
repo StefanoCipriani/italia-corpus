@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni; 
  
- Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni; 
+ Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni; 
  
  Visto il [R. decreto-legge 3 gennaio 1926, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-03;48), convertito in legge con la [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md); 
  

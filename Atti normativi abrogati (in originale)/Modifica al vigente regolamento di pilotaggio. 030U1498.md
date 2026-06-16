@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'art. 17 del regolamento generale di pilotaggio approvato con [R. decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778), e' sostituito dal seguente: 
+L'art. 17 del regolamento generale di pilotaggio approvato con [R. decreto 29 aprile 1926, n. 778](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20il%20servizio%20pilotaggio%20nei%20porti%20dello%20Stato.%20026U0778.md), e' sostituito dal seguente: 
  «L'ammissione in ciascun corpo di piloti e' fatta esclusivamente in base ai risultati di esame di concorso fra coloro che possiedono i seguenti requisiti: 
  a) iscrizione fra la gente di mare di 1ª categoria; 
  b) eta' non inferiore ai 28 e non superiore ai 40 anni tranne per coloro che durante la guerra 1915-18 siansi trovati per un periodo non minore di un anno nelle destinazioni indicate nell'[art. 6 del R. decreto-legge 27 ottobre 1922, n. 1462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-10-27;1462#art_6), e successive modificazioni, pei quali il limite massimo di eta' viene aumentato del tempo trascorso in tali destinazioni di servizio militare; 

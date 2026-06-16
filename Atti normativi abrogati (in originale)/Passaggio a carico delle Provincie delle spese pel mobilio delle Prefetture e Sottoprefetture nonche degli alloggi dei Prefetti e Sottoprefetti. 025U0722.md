@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 24 marzo 1907, n. 116](Graduale%20avocazione%20allo%20Stato%20delle%20spese%20di%20cui%20allart.%20272%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%2010%20febbraio%201889%20n.%205921%20e%20integrazione%20provvisor_1ef6036a66c6.md);
 
-Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), modificati col [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
+Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), modificati col [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
 
 Udito il Consiglio dei Ministri;
 

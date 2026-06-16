@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Durante la presente guerra, i reati previsti negli [articoli 206](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [295 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune sono puniti a norma dell'[art. 189 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e 211 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e la competenza a giudicare degli stessi spetta ai tribunali Militari dell'esercito e della marina se la merce a chiunque fornita sia destinata ai bisogni dell'esercito o dell'armata e al colpevole sia nota tale destinazione.
+Durante la presente guerra, i reati previsti negli [articoli 206](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [295 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune sono puniti a norma dell'[art. 189 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e 211 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e la competenza a giudicare degli stessi spetta ai tribunali Militari dell'esercito e della marina se la merce a chiunque fornita sia destinata ai bisogni dell'esercito o dell'armata e al colpevole sia nota tale destinazione.
 
 ## Art. 2.
 

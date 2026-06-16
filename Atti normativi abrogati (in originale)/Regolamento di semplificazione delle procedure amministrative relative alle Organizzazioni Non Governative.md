@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DEGLI AFFARI ESTERI
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni ed integrazioni, recante «Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato»;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni ed integrazioni, recante «Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato»;
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni ed integrazioni, recante «Regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato»;
 
@@ -30,7 +30,7 @@ Vista la [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bila
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1988, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-04-18;177), recante regolamento di esecuzione della [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), recante «Nuova disciplina della cooperazione dell'Italia con i Paesi in via di sviluppo»;
 
-Visto il [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md), recante regolamento recante «Norme per la semplificazione dei procedimenti relativi al rilascio delle comunicazioni e delle informazioni antimafia»;
+Visto il [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md), recante regolamento recante «Norme per la semplificazione dei procedimenti relativi al rilascio delle comunicazioni e delle informazioni antimafia»;
 
 Udito il parere interlocutorio del Consiglio di Stato n. 2887/04, espresso dalla sezione consultiva per gli atti normativi nell'Adunanza del 22 marzo 2004;
 
@@ -77,7 +77,7 @@ L'amministrazione ha comunque facolta' di effettuare, sia in corso d'opera, sia 
 Il rapporto finale e', inoltre, corredato da una dichiarazione del Ministero degli affari esteri che attesta il raggiungimento degli obiettivi previsti dal progetto e da una analoga dichiarazione del legale rappresentante della organizzazione non governativa.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note all'art. 1.
  - Si riporta il testo dell'[art. 29, della legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49#art_29), pubblicata nel suppl. ord. alla Gazzetta Ufficiale 28 febbraio 1987, n. 49, reca: «Nuova disciplina della cooperazione dell'ltalia con i Paesi in via di Sviluppo.»:
  «Art. 29 (Effetti della idoneita). - 1. Il Comitato direzionale verifica - ai fini dell'ammissione ai benefici della presente legge - la conformita', ai criteri stabiliti dalla legge stessa, dei programmi e degli interventi predisposti dalle organizzazioni non governative riconosciute idonee, sentita la Commissione per le organizzazioni non governative di cui all'art. 8, comma 10.
@@ -86,11 +86,11 @@ Avvertenza:
  4. Le attivita' di cooperazione svolte dalle organizzazioni non governative riconosciute idonee sono da considerarsi, ai fini fiscali, attivita' di natura non commerciale.».
  - Il [decreto legislativo 27 gennaio 1992, n. 88](Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), pubblicato nella Gazzetta Ufficiale 14 febbraio 1992, n. 37 S.O. reca: «Attuazione della [direttiva n. 84/253/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;253), relativa alla abilitazione delle persone incaricate del controllo di legge dei documenti contabili.».
  Note all'art. 3.
- - Si riporta il testo dell'[art. 5, del decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md), pubblicato nella Gazzetta Ufficiale 30 luglio 1998, n. 176, «Regolamento recante norme per la semplificazione dei procedimenti relativi al rilascio delle comunicazioni e delle informazioni antimafia.»:
+ - Si riporta il testo dell'[art. 5, del decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md), pubblicato nella Gazzetta Ufficiale 30 luglio 1998, n. 176, «Regolamento recante norme per la semplificazione dei procedimenti relativi al rilascio delle comunicazioni e delle informazioni antimafia.»:
  «Art. 5. (Autocertificazione). - 1. Fuori dei casi previsti dall'art. 10, i contratti e subcontratti relativi a lavori o forniture dichiarati urgenti ed i provvedimenti di rinnovo conseguenti a provvedimenti gia' disposti, sono stipulati, autorizzati o adottati previa acquisizione di apposita dichiarazione con la quale l'interessato attesti che nei propri confronti non sussistono le cause di divieto, di decadenza o di sospensione di cui all'[art. 10 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md). La sottoscrizione della dichiarazione deve essere autenticata con le modalita' dell'[art. 20 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
  2. La predetta dichiarazione e' resa dall'interessato anche quando gli atti e i provvedimenti della pubblica amministrazione riguardano:
  a) attivita' private, sottoposte a regime autorizzatorio, che possono essere intraprese su denuncia di inizio da parte del privato alla pubblica amministrazione competente;
- b) attivita' private sottoposte alla disciplina del silenzio-assenso, indicate nella tabella C annessa al regolamento approvato con [decreto del Presidente della Repubblica 26 aprile 1992, n. 300](../DPR/Regolamento%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20legge%207%20agosto%201990%20n.%20241.md), e successive modificazioni e integrazioni.».
+ b) attivita' private sottoposte alla disciplina del silenzio-assenso, indicate nella tabella C annessa al regolamento approvato con [decreto del Presidente della Repubblica 26 aprile 1992, n. 300](../Regolamenti%20governativi/Regolamento%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20legge%207%20agosto%201990%20n.%20241.md), e successive modificazioni e integrazioni.».
 
 ## Art. 2. — Polizze fideiussorie
 
@@ -118,7 +118,7 @@ Il Ministero degli affari esteri procede all'acquisizione, presso le Prefetture 
 
 2.
 
-Nei casi di urgenza si applicano le disposizioni di cui all'[articolo 5, del decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md).
+Nei casi di urgenza si applicano le disposizioni di cui all'[articolo 5, del decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md).
 
 ## Art. 4. — Esame e approvazione dei rapporti relativi ai progetti in corso
 

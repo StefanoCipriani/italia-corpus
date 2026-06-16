@@ -14,17 +14,17 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 20 marzo 1913, n. 284](Col%20quale%20viene%20stabilita%20la%20misura%20del%20soprassoldo%20giornaliero%20al%20personale%20della%20R.%20marina%20in%20Libia.%20013U0284.md), che stabilisce il soprassoldo spettante al personale della Regia marina destinato a terra in Libia e negli altri territori occupati durante la guerra Italo-Turca;
+Visto il [R. decreto 20 marzo 1913, n. 284](../Regi%20decreti/Col%20quale%20viene%20stabilita%20la%20misura%20del%20soprassoldo%20giornaliero%20al%20personale%20della%20R.%20marina%20in%20Libia.%20013U0284.md), che stabilisce il soprassoldo spettante al personale della Regia marina destinato a terra in Libia e negli altri territori occupati durante la guerra Italo-Turca;
 
 Visto il decreto Ministeriale 24 luglio 1913 che assegna ai sottufficiali e militari del corpo Reale equipaggi i soprassoldi di categoria, specialita' e destinazione indicati nel decreto stesso;
 
-Visto il [R. decreto 28 novembre 1920, n. 1735](che%20approva%20la%20tabella%20degli%20assegni%20giornalieri%20spettanti%20al%20personale%20militare%20delta%20R.%20marina%20destinato%20nel%20Benadir%20e%20nella%20Colonia%20eritrea%20per%20il%20montamento%20e%20lesercizio%20delle%20stazion_4d4639146a08.md), che stabilisce il trattamento del personale militare della Regia marina destinato al montamento ed all'esercizio delle stazioni radiotelegrafiche del Benadir e della Colonia Eritrea;
+Visto il [R. decreto 28 novembre 1920, n. 1735](../Regi%20decreti/che%20approva%20la%20tabella%20degli%20assegni%20giornalieri%20spettanti%20al%20personale%20militare%20delta%20R.%20marina%20destinato%20nel%20Benadir%20e%20nella%20Colonia%20eritrea%20per%20il%20montamento%20e%20lesercizio%20delle%20stazion_4d4639146a08.md), che stabilisce il trattamento del personale militare della Regia marina destinato al montamento ed all'esercizio delle stazioni radiotelegrafiche del Benadir e della Colonia Eritrea;
 
 Visto il R. decreto 24 gennaio 1914 che approva l'ordinamento militare per la Tripolitania e Cirenaica ed i successivi che lo modificano;
 
-Visto il [R. decreto 3 settembre 1920, n. 1332](Concernente%20lestensione%20degli%20assegni%20coloniale%20ai%20militari%20impiegati%20civili%20di%20ruolo%20ed%20operai%20a%20matricola%20e%20straordinari%20metropolitani%20dipendenti%20dal%20Ministero%20della%20guerra%20dislocati%20in_0c0155bc54ec.md), concernente l'estensione degli assegni coloniali ai militari, impiegati civili di ruolo, ed operai a matricola e straordinari metropolitani dipendenti dal Ministero della guerra dislocati in Colonia;
+Visto il [R. decreto 3 settembre 1920, n. 1332](../Regi%20decreti/Concernente%20lestensione%20degli%20assegni%20coloniale%20ai%20militari%20impiegati%20civili%20di%20ruolo%20ed%20operai%20a%20matricola%20e%20straordinari%20metropolitani%20dipendenti%20dal%20Ministero%20della%20guerra%20dislocati%20in_0c0155bc54ec.md), concernente l'estensione degli assegni coloniali ai militari, impiegati civili di ruolo, ed operai a matricola e straordinari metropolitani dipendenti dal Ministero della guerra dislocati in Colonia;
 
-Visto i [Regi decreti 31 ottobre 1923, nn. 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md) e [2505](Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md), che stabiliscono il trattamento spettante al personale militare e civile dislocato in Colonia;
+Visto i [Regi decreti 31 ottobre 1923, nn. 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md) e [2505](../Regi%20decreti/Trattamento%20degli%20ufficiali%20del%20Regio%20esercito%20che%20prestano%20in%20colonia%20servizio%20di%20carattere%20militare.%20023U2505.md), che stabiliscono il trattamento spettante al personale militare e civile dislocato in Colonia;
 
 Ritenendosi necessario per motivi di equita' e di carattere disciplinare di far cessare la sperequazione di trattamento finora esistita fra il personale della Regia marina dislocato nelle Colonie e il personale metropolitano del Regio esercito in analoghe condizioni, e per conseguenza di estendere al primo, in quanto sia applicabile, il trattamento stabilito per il secondo.
 
@@ -48,7 +48,7 @@ Ai detti ufficiali competono per raggiungere la loro destinazione in Colonia e p
 
 ## Art. 4.
 
-gli stessi ufficiali dovranno intendersi estensibili, in quanto ne possa, ricorrere l'applicabilita' per la localita' ove prestano servizio e in ragione del grado e delle funzioni rivestite, le stesse norme regolanti le eventuali concessioni di indennita' di disagiata residenza e l'assegnazione dell'alloggio gratuito, previste per i funzionari destinati in Colonia. ai sensi dell'[articolo 4 del R. decreto 31 ottobre 1923, numero 2504](Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), nonche' dovranno applicarsi le disposizioni dell'art. 15 del decreto stesso per quanto riguarda le missioni compiute nell'ambito della Colonia.
+gli stessi ufficiali dovranno intendersi estensibili, in quanto ne possa, ricorrere l'applicabilita' per la localita' ove prestano servizio e in ragione del grado e delle funzioni rivestite, le stesse norme regolanti le eventuali concessioni di indennita' di disagiata residenza e l'assegnazione dell'alloggio gratuito, previste per i funzionari destinati in Colonia. ai sensi dell'[articolo 4 del R. decreto 31 ottobre 1923, numero 2504](../Regi%20decreti/Trattamento%20del%20personale%20in%20servizio%20civile%20in%20colonia.%20023U2504.md), nonche' dovranno applicarsi le disposizioni dell'art. 15 del decreto stesso per quanto riguarda le missioni compiute nell'ambito della Colonia.
 
 ## Art. 5.
 
@@ -83,7 +83,7 @@ Agli ufficiali sottufficiali e militari del corpo Reale equipaggi destinati a te
 
 ## Art. 9.
 
-Sono abrogati i [Regi decreti 20 marzo 1913, n. 284](Col%20quale%20viene%20stabilita%20la%20misura%20del%20soprassoldo%20giornaliero%20al%20personale%20della%20R.%20marina%20in%20Libia.%20013U0284.md), e [28 novembre 1920, n. 1735](che%20approva%20la%20tabella%20degli%20assegni%20giornalieri%20spettanti%20al%20personale%20militare%20delta%20R.%20marina%20destinato%20nel%20Benadir%20e%20nella%20Colonia%20eritrea%20per%20il%20montamento%20e%20lesercizio%20delle%20stazion_4d4639146a08.md). 
+Sono abrogati i [Regi decreti 20 marzo 1913, n. 284](../Regi%20decreti/Col%20quale%20viene%20stabilita%20la%20misura%20del%20soprassoldo%20giornaliero%20al%20personale%20della%20R.%20marina%20in%20Libia.%20013U0284.md), e [28 novembre 1920, n. 1735](../Regi%20decreti/che%20approva%20la%20tabella%20degli%20assegni%20giornalieri%20spettanti%20al%20personale%20militare%20delta%20R.%20marina%20destinato%20nel%20Benadir%20e%20nella%20Colonia%20eritrea%20per%20il%20montamento%20e%20lesercizio%20delle%20stazion_4d4639146a08.md). 
  
  Il presente decreto avra' decorrenza, dal 1° luglio 1924, e sara' presentato al Parlamento per essere convertito in legge. 
  

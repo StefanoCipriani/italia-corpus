@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 7 del regolamento approvato con [R decreto 2 agosto 1912, n. 950](Che%20approva%20lannesso%20regolamento%20speciale%20per%20i%20personali%20di%20ragioneria%20di%20gestione%20e%20dordine%20dei%20RR.%20arsenali%20marittimi.%20012U0950.md), e' sostituito dal seguente: 
+L'art. 7 del regolamento approvato con [R decreto 2 agosto 1912, n. 950](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20i%20personali%20di%20ragioneria%20di%20gestione%20e%20dordine%20dei%20RR.%20arsenali%20marittimi.%20012U0950.md), e' sostituito dal seguente: 
  
  «A ciascun gestore di magazzino ed a ciascun gestore di cassa in carica e' assegnata una indennita' annua di responsabilita' di L. 
 750. 

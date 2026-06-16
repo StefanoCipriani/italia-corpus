@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento per gli archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163);
+Visto il regolamento per gli archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), portante disposizioni sullo stato giuridico degli impiegati civili del l'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), portante disposizioni sullo stato giuridico degli impiegati civili del l'Amministrazione dello Stato;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Fermo restando l'esercizio delle funzioni di Consiglio di amministrazione per il personale degli archivi di Stato da parte del Consiglio per gli archivi del Regno e della relativa Giunta, ai termini dell'[art. 120, comma 5°, del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_120-com5), e' istituita per il personale anzidetto, presso il Ministero dell'interno, una Commissione di disciplina. 
+Fermo restando l'esercizio delle funzioni di Consiglio di amministrazione per il personale degli archivi di Stato da parte del Consiglio per gli archivi del Regno e della relativa Giunta, ai termini dell'[art. 120, comma 5°, del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' istituita per il personale anzidetto, presso il Ministero dell'interno, una Commissione di disciplina. 
  
  Essa e' costituita: 
  
@@ -44,15 +44,15 @@ Fermo restando l'esercizio delle funzioni di Consiglio di amministrazione per il
 
 ## Art. 2.
 
-L'[art. 54 del R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163#art_54), e' sostituito dal seguente: 
+L'[art. 54 del R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), e' sostituito dal seguente: 
  
- «E' attribuita ai soprintendenti o direttori d'archivio la facolta' di infliggere le punizioni della censura e della riduzione dello stipendio nei casi e modi previsti dagli [articoli 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_58), [59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_59) e [60 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_60). 
+ «E' attribuita ai soprintendenti o direttori d'archivio la facolta' di infliggere le punizioni della censura e della riduzione dello stipendio nei casi e modi previsti dagli [articoli 58](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [59](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [60 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
- «Nei procedimenti disciplinari a carico di impiegati ed agenti degli archivi di Stato saranno osservate le norme stabilite nel capo IX, articoli 68 e seguenti, del succitato [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960)».
+ «Nei procedimenti disciplinari a carico di impiegati ed agenti degli archivi di Stato saranno osservate le norme stabilite nel capo IX, articoli 68 e seguenti, del succitato [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md)».
 
 ## Art. 3.
 
-E' abrogata ogni disposizione contenuta nel regolamento per gli archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), che contrasti col presente decreto. 
+E' abrogata ogni disposizione contenuta nel regolamento per gli archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), che contrasti col presente decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il ruolo del personale direttivo e ispettivo della scuola elementare, di cui alla tabella A annessa al [regio decreto 1 luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), modificato dall'[art. 1 della legge 31 maggio 1943, n. 570](Collocamento%20dei%20direttori%20didattici%20nel%20grado%209%20gruppo%20B%20sistemazione%20dei%20maestri%20elementari%20incaricati%20della%20direzione%20didattica%20delle%20scuole%20rurali%20e%20passaggio%20alla%20diretta%20amministraz_932ef8d3b66a.md), e dall'[art. 9 del decreto legislativo del Capo provvisorio dello Stato 2 maggio 1947, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-02;499#art_9), e' ulteriormente modificato come appresso:
+Il ruolo del personale direttivo e ispettivo della scuola elementare, di cui alla tabella A annessa al [regio decreto 1 luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), modificato dall'[art. 1 della legge 31 maggio 1943, n. 570](Collocamento%20dei%20direttori%20didattici%20nel%20grado%209%20gruppo%20B%20sistemazione%20dei%20maestri%20elementari%20incaricati%20della%20direzione%20didattica%20delle%20scuole%20rurali%20e%20passaggio%20alla%20diretta%20amministraz_932ef8d3b66a.md), e dall'[art. 9 del decreto legislativo del Capo provvisorio dello Stato 2 maggio 1947, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-02;499#art_9), e' ulteriormente modificato come appresso:
 
 
 Grado Qualifica Numero

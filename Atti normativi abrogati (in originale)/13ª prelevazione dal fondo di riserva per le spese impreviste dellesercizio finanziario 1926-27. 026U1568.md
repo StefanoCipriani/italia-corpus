@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 42 delle disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvato con [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Visto l'art. 42 delle disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvato con [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Visto che sul fondo di riserva per le spese impreviste, inscritto in L. 30,000,000 nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1926-27, in conseguenza delle prelevazioni gia' autorizzate in lire 1,147,401 rimane disponibile la somma di L. 28.852.599;
 
@@ -47,7 +47,7 @@ Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 341 dello
  
  Cap. n. 95 (aggiunto) (in conto competenza) - Spese 
  per i servizi delle Commissioni incaricate degli studi 
- legislativi per la riforma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ecc . . » 20.000 
+ legislativi per la riforma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ecc . . » 20.000 
  
  Ministero dell'istruzione: 
  

@@ -34,9 +34,9 @@ E' deferita al Ministro per le finanze l'approvazione dei piani di ogni operazio
 
 ## Art. 5.
 
-La tassa di privativa del 20 per cento e di bollo sui biglietti delle lotterie e sulle cartelle delle tombole, tanto di quelle nazionali, quanto di quelle deferite alla competenza dei Prefetti, a' sensi dell'art. 60 del nuovo testo unico delle leggi sul lotto approvato col [R. decreto 29 luglio 1925, n. 1456](Approvazione%20del%20nuovo%20testo%20unico%20delle%20leggi%20sul%20lotto.%20025U1456.md), e' abolita dalla data di entrata in vigore della presente legge. 
+La tassa di privativa del 20 per cento e di bollo sui biglietti delle lotterie e sulle cartelle delle tombole, tanto di quelle nazionali, quanto di quelle deferite alla competenza dei Prefetti, a' sensi dell'art. 60 del nuovo testo unico delle leggi sul lotto approvato col [R. decreto 29 luglio 1925, n. 1456](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20leggi%20sul%20lotto.%20025U1456.md), e' abolita dalla data di entrata in vigore della presente legge. 
  
- La tassa di bollo di cui all'art. 88 della tariffa, allegato A, al [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e' stabilita, dalla stessa data, in centesimi dieci per biglietto o cartella per ogni lira o frazione di lira del prezzo unitario corrispondente. 
+ La tassa di bollo di cui all'art. 88 della tariffa, allegato A, al [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e' stabilita, dalla stessa data, in centesimi dieci per biglietto o cartella per ogni lira o frazione di lira del prezzo unitario corrispondente. 
  
  Vi sono soggetti anche gli Istituti ed enti parificati nei riguardi tributari alle Amministrazioni dello Stato, ferma restando la esenzione per le piccole lotterie portata dal [R. decreto-legge 15 gennaio 1926, n. 85](Provvedimenti%20per%20le%20piccole%20lotterie%20locali.%20026U0085.md).
 

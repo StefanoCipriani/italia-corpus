@@ -20,7 +20,7 @@ Visto l'art. 11 (n. 10) della [legge 21 marzo 1915, numero 273](Portante%20provv
 
 Vista la [legge 2 agosto 1913, n. 1075](Recante%20provvedimenti%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20013U1075.md), sulla tutela giuridica degli emigranti e le disposizioni aggiunte alla medesima dalla [legge 24 gennaio 1915, n. 173](Che%20modifica%20la%20legge%202%20agosto%201913%20n.%201075%20per%20la%20tutela%20giuridica%20degli%20emigranti.%20015U0173.md):
 
-Visto il [R. decreto n. 36 del 31 gennaio 1901](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md) per il rilascio dei passaporti per l'estero;
+Visto il [R. decreto n. 36 del 31 gennaio 1901](../Regi%20decreti/Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md) per il rilascio dei passaporti per l'estero;
 
 Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 

@@ -309,7 +309,7 @@ Il pignoramento ed i sequestri delle somme dell'ANAS sono eseguiti esclusivament
 
 6.
 
-Rimangono salve le disposizioni del testo unico delle leggi concernenti il sequestro, il pignoramento e le cessioni degli stipendi, salari e pensioni dei dipendenti delle pubbliche amministrazioni, approvato con [decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md).
+Rimangono salve le disposizioni del testo unico delle leggi concernenti il sequestro, il pignoramento e le cessioni degli stipendi, salari e pensioni dei dipendenti delle pubbliche amministrazioni, approvato con [decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md).
 
 7.
 
@@ -319,7 +319,7 @@ Le competenze relative alle funzioni amministrative concernenti l'affidamento in
 
 1.
 
-All'articolo 128 del testo unico delle leggi in materia di disciplina degli stupefacenti o sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), sono aggiunti i seguenti commi:
+All'articolo 128 del testo unico delle leggi in materia di disciplina degli stupefacenti o sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), sono aggiunti i seguenti commi:
  "4-bis. La costruzione, l'ampliamento o il recupero di immobili destinati a sedi di comunita' terapeutiche di cui al comma 1, nonche' ogni altro intervento edificativo delle suddette comunita', necessario per il reinserimento socio sanitario e socio lavorativo, sono equiparati ai soli fini della deroga alle prescrizioni dei piani urbanistici, alle opere dichiarate indifferibili ed urgenti ai sensi delle leggi sulle opere pubbliche. Ai suddetti interventi si applicano le disposizioni di cui all'[articolo 9 della legge 28 gennaio 1977, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10#art_9). Le norme del presente comma si applicano anche alle opere gia' realizzate, per le quali sia gia' stata presentata una richiesta di concessione o di autorizzazione in sanatoria.
  4-ter. L'applicabilita' delle norme di cui al comma 4-bis e' subordinata alla sussistenza delle seguenti condizioni:
  a) che il vincolo di destinazione d'uso di ogni singolo intervento edificativo per attivita' connesse alle finalita' della comunita' terapeutica sia almeno cinquantennale. Durante detto periodo il vincolo e' immodificabile anche in deroga alle disposizioni vigenti;

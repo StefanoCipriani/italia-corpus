@@ -82,7 +82,7 @@ Nota all'art. 2, comma 1:
 
 1.
 
-Per l'attuazione dei piani di cui al precedente articolo 2, il Ministero dell'interno e' autorizzato ad avvalersi, mediante contratti stipulati anche a trattativa privata, di enti ed imprese che abbiano particolare competenza ed idonei mezzi tecnici, eventualmente in deroga al disposto degli [articoli 107](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md) e [113 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+Per l'attuazione dei piani di cui al precedente articolo 2, il Ministero dell'interno e' autorizzato ad avvalersi, mediante contratti stipulati anche a trattativa privata, di enti ed imprese che abbiano particolare competenza ed idonei mezzi tecnici, eventualmente in deroga al disposto degli [articoli 107](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md) e [113 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 2.
 
@@ -93,7 +93,7 @@ Per i progetti, i contratti e le convenzioni per l'esecuzione dei lavori, provvi
 Il Ministro dell'interno puo' delegare al direttore generale della protezione civile e dei servizi antincendi l'approvazione dei provvedimenti autorizzativi di spesa nell'ambito dei piani annuali di cui all'articolo 2.
 
 Nota all'[art. 3, comma 1:
- Il decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), ha approvato il testo unico delle leggi sugli interventi nel Mezzogiorno. L'art. 107 di detto testo unico concerne la riserva di investimenti pubblici nel Mezzogiorno; l'art. 113 la riserva del 30 per cento delle forniture e lavorazioni delle amministrazioni pubbliche a favore delle imprese industriali e artigiane.
+ Il decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), ha approvato il testo unico delle leggi sugli interventi nel Mezzogiorno. L'art. 107 di detto testo unico concerne la riserva di investimenti pubblici nel Mezzogiorno; l'art. 113 la riserva del 30 per cento delle forniture e lavorazioni delle amministrazioni pubbliche a favore delle imprese industriali e artigiane.
 
 ## Art. 4.
 

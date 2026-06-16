@@ -50,7 +50,7 @@ I militari del R. esercito e della R. marina, forniti di laurea o di diploma di 
 
 I Militari di qualsiasi grado del R. esercito e della R. marina anteriormente alla loro assunzione in servizi, per via di regolare arruolamento o di nomina, abbiano prestato servizio di carattere continuativo anche in piu' periodi, di straordinario, avventizio e simile, non utile agli effetti della liquidazione degli assegni in base al [testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70), possono chiedere il riconoscimento di non piu' di dieci anni di servizio prestato in tale qualita', purche' non anteriore alla eta' di diciotto anni. 
  
- I militari che si avvarranno di tale facolta', saranno sottoposti ad una ritenuta straordinaria, pari a quella stabilita dall'art. 1, commisurata allo stipendio iniziale di ruolo, per tanti anni quanti sono quelli riconosciuti, da versarsi con le modalita' stabilite per gli impiegati civili col regolamento approvato con [R. decreto 7 giugno 1920, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;835)
+ I militari che si avvarranno di tale facolta', saranno sottoposti ad una ritenuta straordinaria, pari a quella stabilita dall'art. 1, commisurata allo stipendio iniziale di ruolo, per tanti anni quanti sono quelli riconosciuti, da versarsi con le modalita' stabilite per gli impiegati civili col regolamento approvato con [R. decreto 7 giugno 1920, n. 835](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20decreto-legge%2023%20ottobre%201919%20n.%201970%20relativo%20al%20trattamento%20di%20pensione%20degli%20impiegati%20dello%20Stato%20e%20degli%20ufficiali%20del%20R.%20esercito%20e%20de_68186b6f3570.md)
 
 ## Art. 7.
 
@@ -229,7 +229,7 @@ Gli ufficiali del R. esercito e della R. marina, gia' in posizione di servizio a
 
 ## Art. 26.
 
-Sono estese ai militari del Regio esercito della Regia marina, in quanto siano ad essi applicabili, le disposizioni del regolamento approvato con [R. decreto 7 giugno 1920, n. 835](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;835). 
+Sono estese ai militari del Regio esercito della Regia marina, in quanto siano ad essi applicabili, le disposizioni del regolamento approvato con [R. decreto 7 giugno 1920, n. 835](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20decreto-legge%2023%20ottobre%201919%20n.%201970%20relativo%20al%20trattamento%20di%20pensione%20degli%20impiegati%20dello%20Stato%20e%20degli%20ufficiali%20del%20R.%20esercito%20e%20de_68186b6f3570.md). 
  
  Con decreto Reale sara' provveduto a coordinare in testo unico le disposizioni del presente decreto e successive con quelle delle precedenti leggi, non abrogate, riguardanti le pensioni dei militari. 
  

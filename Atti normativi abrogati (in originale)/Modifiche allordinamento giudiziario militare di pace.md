@@ -44,7 +44,7 @@ E' istituita, con sede in Roma, la corte militare di appello, che giudica sull'a
  Le estrazioni a sorte e la durata in funzione dei giudici sono regolate dalle norme stabilite per i tribunali militari.
  Il giudizio d'appello e' regolato dalle norme del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
  Sulla impugnazione dei provvedimenti del giudice istruttore decide la corte militare di appello, in camera di consiglio.
- Alla corte militare d'appello e' devoluta la competenza prevista dall'articolo 45 dell'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022), e successive modificazioni.
+ Alla corte militare d'appello e' devoluta la competenza prevista dall'articolo 45 dell'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md), e successive modificazioni.
 
 ## Art. 4. — Sezione di sorveglianza
 
@@ -102,12 +102,12 @@ Dall'entrata in vigore della presente legge i magistrati militari aventi qualifi
 
 Per le nomine, i trasferimenti ed i conferimenti di funzioni ai magistrati militari immediatamente necessari per l'attuazione della presente legge si provvede con decreto del Presidente della Repubblica, su proposta del Ministro della difesa, sentito il procuratore generale militare. Successivamente e fino alla costituzione dell'organo di autogoverno della magistratura militare, per la durata di non piu' di un anno dalla data di entrata in vigore della presente legge, i provvedimenti concernenti il personale della magistratura militare, compresi quelli disciplinari, sono adottati con decreto del Presidente della Repubblica, su proposta del Ministro della difesa, sentito un comitato composto dal procuratore generale militare presso la Corte di cassazione, dal presidente e dal procuratore generale e dai presidenti delle sezioni distaccate della corte militare di appello.
  Alla formazione delle piante organiche degli uffici giudiziari militari si provvede con decreto del Presidente della Repubblica, su proposta del Ministro della difesa.
- Nella prima applicazione della presente legge, il Ministro della difesa, per coprire i posti di ruolo vacanti, e' autorizzato ad indire concorsi per esami, in deroga al disposto dell'[articolo 12 del regio decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md).
+ Nella prima applicazione della presente legge, il Ministro della difesa, per coprire i posti di ruolo vacanti, e' autorizzato ad indire concorsi per esami, in deroga al disposto dell'[articolo 12 del regio decreto 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md).
  Il Ministro della difesa provvede, con proprio decreto, per i cancellieri militari ed il personale ausiliario. In attesa dell'espletamento dei concorsi per cancellieri militari, il Ministro della difesa, su proposta del procuratore generale militare presso la Corte di cassazione, assegna agli uffici giudiziari militari, con le funzioni di cui al [primo comma dell'articolo 1 della legge 21 aprile 1977, n. 163](Specificazione%20delle%20attribuzioni%20del%20personale%20delle%20carriere%20direttiva%20e%20di%20concetto%20delle%20cancellerie%20giudiziarie%20militari.md), e nei limiti dei posti vacanti dell'organico, ufficiali inferiori delle Forze armate dello Stato in servizio permanente effettivo ovvero di complemento stabilizzati o trattenuti o provenienti dalla ferma volontaria quinquennale. Per assicurare il funzionamento delle cancellerie, inoltre, il Ministro della difesa, con suo decreto, provvede ad assegnare personale ausiliario.
 
 ## Art. 16. — Abrogazioni
 
-Gli articoli 11, 15, 16, 17, 18, 19, 21, 22, 23, 25, secondo comma, 27, 39, 40, 41, 42 e 53 dell'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022), sono abrogati. 
+Gli articoli 11, 15, 16, 17, 18, 19, 21, 22, 23, 25, secondo comma, 27, 39, 40, 41, 42 e 53 dell'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md), sono abrogati. 
  Sono altresi' abrogate ogni altra norma dell'ordinamento giudiziario militare e ogni altra disposizione incompatibili con quelle contenute nella presente legge.
 
 ## Art. 17. — Onere finanziario

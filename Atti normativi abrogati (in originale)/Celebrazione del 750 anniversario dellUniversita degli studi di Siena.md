@@ -23,7 +23,7 @@ PROMULGA la seguente legge:
 Nella ricorrenza del 750 anniversario della sua fondazione, e' concesso all'Universita' degli studi di Siena un contributo straordinario di lire 1 miliardo nell'anno 1990, da destinarsi al funzionamento del comitato istituito dal decreto del Presidente della Repubblica in data 16 febbraio 1989, e integrato ai sensi del decreto del Presidente della Repubblica in data 30 dicembre 1989, e ad iniziative riguardanti l'organizzazione di celebrazioni, congressi, seminari, convegni di studio e attivita' editoriali connessi con la ricorrenza.
 
 AVVERTENZA:
- Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
 
 ## Art. 2.
 
@@ -54,7 +54,7 @@ Nota all'art. 3:
  "Sono inoltre deducibili:
  (omissis);
  c) le erogazioni liberali fatte a favore di universita' e di istituti di istruzione universitaria, per un ammontare complessivamentenon superiore al due per cento del reddito d'impresa dichiarato".
- La disposizione soprariportata (con identica formulazione) e' stata recepita ora dall'art. 65, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [D.P.R. 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+ La disposizione soprariportata (con identica formulazione) e' stata recepita ora dall'art. 65, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [D.P.R. 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 ## Art. 4.
 

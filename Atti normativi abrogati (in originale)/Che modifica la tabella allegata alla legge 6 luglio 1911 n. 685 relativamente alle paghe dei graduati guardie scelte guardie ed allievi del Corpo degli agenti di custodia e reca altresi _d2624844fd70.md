@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vedute le [leggi 30 dicembre 1906, n. 649 e 6 luglio 1911, n. 685](Che%20apporta%20modificazioni%20allorganico%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20011U0685.md) ed il regolamento per il Corpo degli agenti di custodia, approvato con [R. decreto 24 marzo 1907, n. 150](Che%20approva%20lannesso%20regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20007U0150.md);
+Vedute le [leggi 30 dicembre 1906, n. 649 e 6 luglio 1911, n. 685](Che%20apporta%20modificazioni%20allorganico%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20011U0685.md) ed il regolamento per il Corpo degli agenti di custodia, approvato con [R. decreto 24 marzo 1907, n. 150](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20007U0150.md);
 
 Udito il Consiglio dei ministri;
 
@@ -32,7 +32,7 @@ Alla tabella allegata alla [legge 6 luglio 1911, n. 685](Che%20apporta%20modific
 
 ## Art. 2.
 
-Il disposto dell'ultimo comma della tabella A, annessa al testo unico della legge sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), e' applicabile anche alle paghe dei graduati, delle guardie scelte, delle guardie, nonche' degli allievi guardie del Corpo degli agenti di custodia.
+Il disposto dell'ultimo comma della tabella A, annessa al testo unico della legge sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), e' applicabile anche alle paghe dei graduati, delle guardie scelte, delle guardie, nonche' degli allievi guardie del Corpo degli agenti di custodia.
 
 ## Art. 3.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 10 giugno 1926, n. 942](Concessione%20di%20alcune%20agevolazioni%20nelle%20contrattazioni%20in%20cambi.%20026U0942.md);
+Visto il [R. decreto 10 giugno 1926, n. 942](../Regi%20decreti/Concessione%20di%20alcune%20agevolazioni%20nelle%20contrattazioni%20in%20cambi.%20026U0942.md);
 
 Ritenuta la necessita' urgente ed assoluta di provvedere in analogia a quanto disposto nel Regno, alla disciplina del commercio dei cambi in Libia;
 
@@ -30,7 +30,7 @@ E' data facolta' al Ministro per le colonie, di concerto con quello per le finan
 
 ## Art. 2.
 
-Lo stesso Ministro determinera' le ammende e le altre penalita' per i trasgressori, nei limiti indicati nell'[art. 5 del R. decreto 10 giugno 1926, n. 942](Concessione%20di%20alcune%20agevolazioni%20nelle%20contrattazioni%20in%20cambi.%20026U0942.md), che, in forza del presente decreto, viene esteso alla Libia.
+Lo stesso Ministro determinera' le ammende e le altre penalita' per i trasgressori, nei limiti indicati nell'[art. 5 del R. decreto 10 giugno 1926, n. 942](../Regi%20decreti/Concessione%20di%20alcune%20agevolazioni%20nelle%20contrattazioni%20in%20cambi.%20026U0942.md), che, in forza del presente decreto, viene esteso alla Libia.
 
 ## Art. 3.
 

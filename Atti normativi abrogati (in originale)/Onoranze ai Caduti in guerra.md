@@ -64,7 +64,7 @@ I sepolcreti di guerra (cimiteri, ossari, sacrari), definitivamente sistemati ne
 
 ## Art. 8.
 
-I contratti stipulati per lavori e forniture varie, nonche' quelli di locazione di opera, saranno approvati e resi esecutivi dal Commissario generale, quando l'importo previsto non superi i limiti indicati negli articoli 5 e G del [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni.
+I contratti stipulati per lavori e forniture varie, nonche' quelli di locazione di opera, saranno approvati e resi esecutivi dal Commissario generale, quando l'importo previsto non superi i limiti indicati negli articoli 5 e G del [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
  Al Commissario medesimo e' consentito di provvedere ai servizi ad economia quando l'importo previsto non superi il limite indicato nell'art. 8 del suddetto decreto e successive modificazioni.
  Per quanto riguarda le spese relative alla sistemazione delle salme di italiani caduti o deceduti all'estero in conseguenza della guerra, e' data facolta' al Commissario generale di adottare provvedimenti in deroga alle norme di contabilita' dello Stato e delle spese pubbliche.
 
@@ -75,11 +75,11 @@ Agli atti ed ai contratti stipulati in applicazione del presente decreto sara' u
 ## Art. 10.
 
 Le spese derivanti dall'attuazione del presente provvedimento graveranno sui fondi stanziati nel capitolo 270 dello stato di previsione della spesa del Ministero della difesa per l'esercizio finanziario 1949-50 e corrispondenti per gli esercizi successivi.
- La gestione dei fondi di cui al precedente comma e' demandata al Commissario generale il quale vi provvede con l'osservanza delle norme di cui al [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni.
+ La gestione dei fondi di cui al precedente comma e' demandata al Commissario generale il quale vi provvede con l'osservanza delle norme di cui al [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
 
 ## Art. 11.
 
-Per quanto non richiamate espressamente nella presente legge, vanno osservate le disposizioni relative ai cimiteri comuni, stabilite dalla legge sanitaria e dal regolamento di polizia, mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md).
+Per quanto non richiamate espressamente nella presente legge, vanno osservate le disposizioni relative ai cimiteri comuni, stabilite dalla legge sanitaria e dal regolamento di polizia, mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

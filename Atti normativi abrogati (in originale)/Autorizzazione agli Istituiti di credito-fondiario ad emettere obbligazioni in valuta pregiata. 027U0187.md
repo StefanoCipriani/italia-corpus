@@ -18,7 +18,7 @@ Vista la legge ([testo unico) 16 luglio 1905, n. 466](https://www.normattiva.it/
 
 Vista la [legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md), portante provvedimenti per agevolare i mutui fondiari;
 
-Visto il regolamento per l'esecuzione della legge predetta, approvato col [R decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il regolamento per l'esecuzione della legge predetta, approvato col [R decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Visto il [decreto legge Luogotenenziale 22 giugno 1919, numero 1242](che%20autorizza%20gli%20istituti%20di%20credito%20fondiario%20ad%20accordare%20nelle%20regioni%20danneggiate%20dalla%20guerra%20mutui%20ipotecari%20per%20ricostruire%20o%20riparare%20fondi%20urbani%20e%20per%20mettere%20in%20istato%20di%20colt_a34388278a35.md), che autorizza gli istituti di credito fondiario ad accordare, nelle regioni danneggiate dalla guerra, mutui fondiari per ricostruire e riparare fondi urbani e per mettere in istato di coltivazione quelli rustici;
 

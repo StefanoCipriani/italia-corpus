@@ -52,7 +52,7 @@ Nella concessione dei benefici, di cui agli articoli precedenti, deve darsi la p
 
 ## Art. 5.
 
-Agli effetti dell'[articolo 123 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_123) approvato con R. decreto l° agosto 1907, n. 636, e' obbligatoria per i medici la denuncia di qualunque caso di tracoma riscontrato nelle scuole, istituti di educazione e di cura, opifici industriali e, in genere, nelle collettivita'. 
+Agli effetti dell'[articolo 123 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto l° agosto 1907, n. 636, e' obbligatoria per i medici la denuncia di qualunque caso di tracoma riscontrato nelle scuole, istituti di educazione e di cura, opifici industriali e, in genere, nelle collettivita'. 
  
  Ai contravventori sono applicabili le penalita' comminate dal predetto articolo 123.
 

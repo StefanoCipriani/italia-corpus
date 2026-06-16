@@ -56,7 +56,7 @@ Per i pagamenti da ordinare in dipendenza di opere d'irrigazione e di bonifica c
 
 Per la costruzione di acquedotti rurali lo Stato puo' concedere un contributo nella misura del 75 per cento dell'importo delle opere. 
  
- Ai contributi stessi si applicano le disposizioni di cui agli [articoli 3](Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md), [4](Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md) e [5 del R. decreto 20 maggio 1926, n. 1154](Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md). 
+ Ai contributi stessi si applicano le disposizioni di cui agli [articoli 3](../Regi%20decreti/Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md), [4](../Regi%20decreti/Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md) e [5 del R. decreto 20 maggio 1926, n. 1154](../Regi%20decreti/Nuove%20disposizioni%20sulle%20opere%20di%20irrigazione%20nellItalia%20Meridionale%20e%20nelle%20Isole.%20026U1154.md). 
  
  Per far luogo ai pagamenti di cui ai precedenti commi saranno inscritte nel bilancio del Ministero dei lavori pubblici: 
  

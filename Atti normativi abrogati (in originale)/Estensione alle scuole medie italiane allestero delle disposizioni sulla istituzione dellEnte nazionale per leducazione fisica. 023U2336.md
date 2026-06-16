@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni di cui al suddetto [R. decreto 15 marzo 1923, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684), sono estese alle scuole medie italiane all'estero.
+Le disposizioni di cui al suddetto [R. decreto 15 marzo 1923, n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md), sono estese alle scuole medie italiane all'estero.
 
 ## Art. 2.
 

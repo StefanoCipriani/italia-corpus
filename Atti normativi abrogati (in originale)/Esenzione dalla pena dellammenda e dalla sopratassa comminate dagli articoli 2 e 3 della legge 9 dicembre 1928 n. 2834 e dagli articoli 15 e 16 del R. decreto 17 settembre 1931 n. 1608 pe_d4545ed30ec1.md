@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti la [legge 9 dicembre 1928, n. 2834](Penalita%20in%20materia%20di%20imposte%20dirette.%20028U2834.md), il [R. decreto 28 gennaio 1929, n. 360](Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md), ed il [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visti la [legge 9 dicembre 1928, n. 2834](Penalita%20in%20materia%20di%20imposte%20dirette.%20028U2834.md), il [R. decreto 28 gennaio 1929, n. 360](../Regi%20decreti/Modalita%20per%20le%20denuncie%20dei%20redditi%20agli%20effetti%20delle%20imposte%20dirette.%20029U0360.md), ed il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 I contribuenti che non abbiano adempiuto all'obbligo di presentare la dichiarazione ai fini dell'applicazione delle imposte dirette, ed ai quali non sia stato ancora notificato alcun accertamento d'ufficio, sono esenti dalla pena della ammenda e dalla sopratassa comminate dall'[art. 2 della legge 9 dicembre 1928, n. 2834](Penalita%20in%20materia%20di%20imposte%20dirette.%20028U2834.md), e dall'art. 15 del R. decreta 17 settembre 1931, n. 1608, a condizione che essi presentino la dichiarazione entro il termine perentorio di 60 giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno. 
  
- Sono del pari esenti dalla sopratassa comminata dall'[articolo 3 della legge 9 dicembre 1928, n. 2834](Penalita%20in%20materia%20di%20imposte%20dirette.%20028U2834.md), e dall'[art. 16 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_16), i contribuenti che abbiano presentata dichiarazione inesatta, ed ai quali non sia stata ancora notificata alcuna rettifica dall'ufficio, a condizione che essi completino la precedente dichiarazione entro il termine stabilito dal comma precedente.
+ Sono del pari esenti dalla sopratassa comminata dall'[articolo 3 della legge 9 dicembre 1928, n. 2834](Penalita%20in%20materia%20di%20imposte%20dirette.%20028U2834.md), e dall'[art. 16 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), i contribuenti che abbiano presentata dichiarazione inesatta, ed ai quali non sia stata ancora notificata alcuna rettifica dall'ufficio, a condizione che essi completino la precedente dichiarazione entro il termine stabilito dal comma precedente.
 
 ## Art. 2.
 

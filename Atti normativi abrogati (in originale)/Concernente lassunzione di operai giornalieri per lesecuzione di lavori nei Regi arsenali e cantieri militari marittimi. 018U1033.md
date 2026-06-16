@@ -24,7 +24,7 @@ L'assunzione in servizio degli operai giornalieri e' fatta sotto l'espressa cond
 
 A carico dell'Amministrazione della marina sara' provveduto, colle norme dell'[articolo 10 della legge 13 giugno 1910 n. 306](Per%20le%20convenzioni%20provvisorie%20e%20definitive%20pei%20servizi%20postali%20e%20commerciali%20marittimi%20ed%20altri%20provvedimenti%20a%20favore%20delle%20industrie%20marittime.%20010U0306.md), alla inscrizione degli operai giornalieri presso la Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai, per la durata della loro prestazione di opera. 
  
- In caso di infortunio sul lavoro, l'Amministrazione corrispondera' agli operai infortunati, o ai loro aventi causa, le indennita' stabilite dal testo unico approvato con [R. decreto 31 gennaio 1904, n. 51](Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md), secondo le norme di esso. 
+ In caso di infortunio sul lavoro, l'Amministrazione corrispondera' agli operai infortunati, o ai loro aventi causa, le indennita' stabilite dal testo unico approvato con [R. decreto 31 gennaio 1904, n. 51](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20di%20legge%20per%20glinfortuni%20degli%20operai%20sul%20lavoro.%20004U0051.md), secondo le norme di esso. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md);
+Visto il [regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per il teso
 
 ## Art. 1.
 
-I saldi attivi delle rivalutazioni monetarie eseguite ai sensi del [regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), quando vengano trasferiti a capitale, sono, nella misura del 25%, devoluti a favore dello Stato.
+I saldi attivi delle rivalutazioni monetarie eseguite ai sensi del [regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md), quando vengano trasferiti a capitale, sono, nella misura del 25%, devoluti a favore dello Stato.
  La devoluzione non si applica ai saldi attivi corrispondenti alle rivalutazioni riferibili all'allineamento della lira, stabilito dal [regio decreto 5 ottobre 1936, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-05;1745), convertito nella [legge 4 gennaio 1937, n. 40](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201745%20contenente%20modificazioni%20al%20R.%20decreto-legge%2021%20dicembre%201927-VI%20n.%202325%20sulla%20parita%20aurea%20della%20lira.%20037U0040.md).
 
 ## Art. 2.

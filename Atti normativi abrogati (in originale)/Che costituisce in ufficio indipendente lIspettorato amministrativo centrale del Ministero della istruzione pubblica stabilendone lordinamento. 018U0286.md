@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il [R. decreto 3 settembre 1911, n. 1167](Che%20disciplina%20il%20funzionamento%20dellispettorato%20centrale%20amministrativo%20del%20ministero%20della%20pubblica%20istruzione.%20011U1167.md);
+Veduto il [R. decreto 3 settembre 1911, n. 1167](../Regi%20decreti/Che%20disciplina%20il%20funzionamento%20dellispettorato%20centrale%20amministrativo%20del%20ministero%20della%20pubblica%20istruzione.%20011U1167.md);
 
 Considerata la necessita' di disciplinare con nuove norme il funzionamento dell'Ispettorato centrale amministrativo del Ministero della istruzione pubblica;
 
@@ -66,7 +66,7 @@ L'ispettore generale preposto all'ispettorato, in caso di assenza o di impedimen
 
 ## Art. 8.
 
-Le disposizioni del citato [R. decreto 3 settembre 1911, n. 1167](Che%20disciplina%20il%20funzionamento%20dellispettorato%20centrale%20amministrativo%20del%20ministero%20della%20pubblica%20istruzione.%20011U1167.md), sono abrogate. 
+Le disposizioni del citato [R. decreto 3 settembre 1911, n. 1167](../Regi%20decreti/Che%20disciplina%20il%20funzionamento%20dellispettorato%20centrale%20amministrativo%20del%20ministero%20della%20pubblica%20istruzione.%20011U1167.md), sono abrogate. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

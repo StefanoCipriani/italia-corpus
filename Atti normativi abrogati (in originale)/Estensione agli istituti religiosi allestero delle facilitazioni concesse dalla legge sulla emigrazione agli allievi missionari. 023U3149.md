@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[articolo 34 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), sulla emigrazione;
 
-Visti gli articoli 96 e 110 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
+Visti gli articoli 96 e 110 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
-Visto l'articolo 43-bis del testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, numero 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md) (serie 3ª);
+Visto l'articolo 43-bis del testo unico delle leggi sulla leva marittima, approvato con [R. decreto 16 dicembre 1888, numero 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md) (serie 3ª);
 
 Sentito il Consiglio dei Ministri;
 
@@ -38,7 +38,7 @@ I militari di cui all'articolo precedente, che si rechino all'estero in qualita'
 
 ## Art. 3.
 
-Gli inscritti nelle liste di leva che si recano all'estero o per compiere gli studi preparatori per le missioni in uno degli istituti italiani dell'estero riconosciuti come tali, od in qualita' di missionari, per avere gia' compiuti gli studi medesimi, potranno ottenere il passaporto con le norme contemplate dal [R. decreto 18 marzo 1923, n. 590](Relativo%20al%20rilascio%20dei%20passaporti%20per%20lestero%20agli%20inscritti%20di%20leva%20ed%20ai%20militari%20in%20congedo.%20023U0590.md), per gli inscritti che emigrano a scopo di lavoro.
+Gli inscritti nelle liste di leva che si recano all'estero o per compiere gli studi preparatori per le missioni in uno degli istituti italiani dell'estero riconosciuti come tali, od in qualita' di missionari, per avere gia' compiuti gli studi medesimi, potranno ottenere il passaporto con le norme contemplate dal [R. decreto 18 marzo 1923, n. 590](../Regi%20decreti/Relativo%20al%20rilascio%20dei%20passaporti%20per%20lestero%20agli%20inscritti%20di%20leva%20ed%20ai%20militari%20in%20congedo.%20023U0590.md), per gli inscritti che emigrano a scopo di lavoro.
 
 ## Art. 4.
 

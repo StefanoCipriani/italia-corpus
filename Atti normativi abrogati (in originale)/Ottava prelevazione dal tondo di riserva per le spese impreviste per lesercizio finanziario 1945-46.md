@@ -15,7 +15,7 @@ UMBERTO DI SAVOIA
  LUOGOTENENTE GENERALE DEL REGNO
 
  In virtu' dell'autorita' a Noi delegata;
- Visto l'[art. 42 del R. decreto 18 novembre 1923, numero 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del R. decreto 18 novembre 1923, numero 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto il [decreto legislativo Luogotenenziale 10 febbraio 1945, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-10;58);
  Visti i [decreti legislativi Luogotenenziali 10 agosto 1945, nn. 481](Stato%20di%20previsione%20dellentrata%20e%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%20dal%201%20luglio%201945%20al%2030%20giugno%201946.%20045U0481.md), [482](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20per%20lesercizio%20finanziario%20dal%201luglio%201945%20al%2030%20giugno%201946.%20045U0482.md) e [485](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellAfrica%20Italiana%20per%20lesercizio%20finanziario%20dal%201%20luglio%201945%20al%2030%20giugno%201946.%20045U0485.md);
  Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1945-1946, sono disponibili L. 43.115.000;

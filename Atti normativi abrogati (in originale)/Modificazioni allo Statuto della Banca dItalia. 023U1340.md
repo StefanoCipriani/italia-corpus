@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'art. 133 del T. U. di leggi sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con [Regio decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
+Veduto l'art. 133 del T. U. di leggi sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con [Regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Veduto lo Statuto della Banca d'Italia, approvato con [Regio decreto 18 marzo 1909, n.138](Che%20approva%20lannesso%20statuto%20modificato%20della%20Banca%20dItalia.%20009U0138.md), e modificato coi [Regi decreti 13 giugno 1912, n. 721](Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20ed%20aggiunte%20allo%20statuto%20della%20Banca%20dItalia.%20012U0721.md) e [4 agosto 1921, n. 1176](Che%20apporta%20modificazioni%20ed%20aggiunte%20al%20vigente%20statuto%20della%20Banca%20dItalia.%20021U1176.md);
 

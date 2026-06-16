@@ -30,7 +30,7 @@ I lavori di cui al precedente articolo saranno eseguiti a cura della Amministraz
 
 ## Art. 3.
 
-A detti recuperi si applica la disposizione contenuta nell'[art. 73 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+A detti recuperi si applica la disposizione contenuta nell'[art. 73 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 4.
 

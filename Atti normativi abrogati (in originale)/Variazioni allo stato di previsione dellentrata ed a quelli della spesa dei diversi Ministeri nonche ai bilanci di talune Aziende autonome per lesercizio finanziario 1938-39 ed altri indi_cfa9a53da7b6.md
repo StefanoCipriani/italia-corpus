@@ -121,7 +121,7 @@ Il Governo generale dell'Africa Orientale Italiano, e' autorizzato ad effettuare
 
 Il Ministro per le finanze e' autorizzato a provvedere con propri decreti alle variazioni di bilancio occorrenti per l'attuazione: 
  
-a) del [R. decreto 21 settembre 1938, n. 1470](Istituzione%20dei%20ruoli%20corporativi%20dellAfrica%20Italiana.%20038U1470.md), concernente la istituzione dei ruoli corporativi dell'Africa Italiana; 
+a) del [R. decreto 21 settembre 1938, n. 1470](../Regi%20decreti/Istituzione%20dei%20ruoli%20corporativi%20dellAfrica%20Italiana.%20038U1470.md), concernente la istituzione dei ruoli corporativi dell'Africa Italiana; 
  
  b) del [R. decreto-legge 1° luglio 1938, n. 1256](Istituzione%20di%20una%20terza%20lotteria%20nazionale%20denominata%20Lotteria%20E%2042.%20038U1256.md), col quale e' stata istituita una terza lotteria nazionale denominata «Lotteria E. 42»; 
  

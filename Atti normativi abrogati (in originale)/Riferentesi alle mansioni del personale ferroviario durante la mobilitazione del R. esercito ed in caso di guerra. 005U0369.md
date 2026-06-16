@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 317 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_317), allegato F, sulle opere pubbliche; 
  
- Visti gli articoli 3, 18, 19 e 47 del regolamento per la polizia, sicurezza e regolarita' dell'esercizio delle strade ferrate, approvato con [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687) (serie II); 
+ Visti gli articoli 3, 18, 19 e 47 del regolamento per la polizia, sicurezza e regolarita' dell'esercizio delle strade ferrate, approvato con [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md) (serie II); 
  
  Viste le modificazioni apportate al surrichiamato [articolo 18 con il R. decreto 22 marzo 1900, n. 145](Concernente%20modificazioni%20al%20Regolamento%20per%20la%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20strade%20ferrate%20000U0145.md); 
  

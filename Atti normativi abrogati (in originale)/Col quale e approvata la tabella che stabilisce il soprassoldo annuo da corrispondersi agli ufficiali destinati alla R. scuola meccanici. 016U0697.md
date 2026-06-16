@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 21 dicembre 1915, n. 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md), relativa all'esercizio provvisorio degli Stati di previsione della sposa per l'anno finanziario 1915-916 pel secondo semestre dell'esercizio stesso; 
  
- Visto il [R. decreto 29 giugno 1913, n. 1008](Che%20approva%20lordinamento%20della%20R.%20scuola%20meccanici%20nella%20Regia%20marina.%20013U1008.md), che approva l'ordinamento della R. scuola meccanici; 
+ Visto il [R. decreto 29 giugno 1913, n. 1008](../Regi%20decreti/Che%20approva%20lordinamento%20della%20R.%20scuola%20meccanici%20nella%20Regia%20marina.%20013U1008.md), che approva l'ordinamento della R. scuola meccanici; 
  
  Sulla proposta del ministro della marina; 
  

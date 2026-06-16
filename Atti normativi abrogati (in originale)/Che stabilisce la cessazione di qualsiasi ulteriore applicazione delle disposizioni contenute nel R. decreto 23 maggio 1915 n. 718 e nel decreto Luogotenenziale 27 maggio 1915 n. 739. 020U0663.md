@@ -20,7 +20,7 @@ Sulla proposta del Nostro guardasigilli, ministro segretario di Stato per la giu
 
 ## Art. 1.
 
-Con la entrata in vigore del presente decreto, cessa qualsiasi applicazione ulteriore delle disposizioni contenute nel [R. decreto 23 maggio 1915, n. 718](Circa%20la%20sospensione%20di%20prescrizioni%20termini%20e%20decadenze%20e%20circa%20la%20legalizzazione%20di%20atti%20e%20redazione%20di%20procure%20per%20i%20militari%20e%20funzionari%20addetti%20allarmata%20di%20terra%20e%20di%20mare%20durante%20_dff4ec639c0c.md), e nel [decreto Luogotenenziale 27 maggio 1915, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-05-27;739). 
+Con la entrata in vigore del presente decreto, cessa qualsiasi applicazione ulteriore delle disposizioni contenute nel [R. decreto 23 maggio 1915, n. 718](../Regi%20decreti/Circa%20la%20sospensione%20di%20prescrizioni%20termini%20e%20decadenze%20e%20circa%20la%20legalizzazione%20di%20atti%20e%20redazione%20di%20procure%20per%20i%20militari%20e%20funzionari%20addetti%20allarmata%20di%20terra%20e%20di%20mare%20durante%20_dff4ec639c0c.md), e nel [decreto Luogotenenziale 27 maggio 1915, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-05-27;739). 
  
  In quanto i predetti decreti stabiliscono termini da decorrere dopo la pubblicazione della pace, si intende che i termini medesimi decorrano dalla entrata in vigore del presente decreto. La stessa norma si osserva per la decorrenza di termini che fossero stati analogamente stabiliti dall'autorita' giudiziaria, o mediante privati accordi, in esecuzione dei citati decreti.
 

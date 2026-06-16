@@ -20,7 +20,7 @@ Veduto il Nostro [decreto-legge 3 giugno 1920, n. 862](https://www.normattiva.it
 
 Veduto il regolamento approvato con Nostro decreto 21 agosto 1922, n. 1522;
 
-Veduto il [R. decreto 7 ottobre 1923, n. 2419](Validita%20permanente%20delle%20tessere%20di%20libero%20ingresso%20ai%20monumenti%20musei%20gallerie%20e%20scavi%20rilasciate%20ai%20senatori%20del%20Regno.%20023U2419.md);
+Veduto il [R. decreto 7 ottobre 1923, n. 2419](../Regi%20decreti/Validita%20permanente%20delle%20tessere%20di%20libero%20ingresso%20ai%20monumenti%20musei%20gallerie%20e%20scavi%20rilasciate%20ai%20senatori%20del%20Regno.%20023U2419.md);
 
 Veduto il Nostro [decreto-legge 22 maggio 1924, n. 743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-05-22;743);
 
@@ -68,7 +68,7 @@ I soprintendenti, in via assolutamente eccezionale e riferendone immediatamente 
 
 ## Art. 7.
 
-E' abrogato il [R. decreto 7 ottobre 1923, n. 2419](Validita%20permanente%20delle%20tessere%20di%20libero%20ingresso%20ai%20monumenti%20musei%20gallerie%20e%20scavi%20rilasciate%20ai%20senatori%20del%20Regno.%20023U2419.md). 
+E' abrogato il [R. decreto 7 ottobre 1923, n. 2419](../Regi%20decreti/Validita%20permanente%20delle%20tessere%20di%20libero%20ingresso%20ai%20monumenti%20musei%20gallerie%20e%20scavi%20rilasciate%20ai%20senatori%20del%20Regno.%20023U2419.md). 
  
  I senatori ed i deputati al Parlamento saranno, su richiesta degli uffici di segreteria delle due Camere, provvisti di tessera di libero ingresso che sara' permanente per i senatori e valida per la durata della legislatura per i deputati.
 

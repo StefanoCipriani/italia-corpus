@@ -455,7 +455,7 @@ I tecnici e i bidelli delle Regie stazioni di prova agrarie e speciali sono nomi
 
 ### Art. 46.
 
-Al personale di cui agli articoli 42 a 45 del presente decreto si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato.
+Al personale di cui agli articoli 42 a 45 del presente decreto si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato.
 
 ### Art. 47.
 
@@ -487,7 +487,7 @@ Prendono parte di diritto all'adunanza di cui all'articolo precedente con voto d
 
 ### Art. 51.
 
-Alla votazione per la nomina del rappresentante dell'adunanza dei direttori delle Regie stazioni di prova agrarie e speciali, nel Consiglio d'amministrazione della Fondazione per la sperimentazione e la ricerca agraria, di cui all'art. 5 dello statuto della Fondazione approvato con [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), prendono parte i direttori degli istituti sperimentali governativi e i direttori dei laboratori di cui all'articolo precedente.
+Alla votazione per la nomina del rappresentante dell'adunanza dei direttori delle Regie stazioni di prova agrarie e speciali, nel Consiglio d'amministrazione della Fondazione per la sperimentazione e la ricerca agraria, di cui all'art. 5 dello statuto della Fondazione approvato con [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), prendono parte i direttori degli istituti sperimentali governativi e i direttori dei laboratori di cui all'articolo precedente.
 
 ### Art. 52.
 

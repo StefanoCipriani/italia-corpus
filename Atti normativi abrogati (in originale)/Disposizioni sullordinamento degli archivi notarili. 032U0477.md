@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [Regio decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138), ed il [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), sul nuovo ordinamento degli archivi notarili;
+Visti il [Regio decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), ed il [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), sul nuovo ordinamento degli archivi notarili;
 
-Visto il [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), che approva il regolamento per l'esecuzione della [legge 16 febbraio 1913, n.89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89);
+Visto il [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), che approva il regolamento per l'esecuzione della [legge 16 febbraio 1913, n.89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89);
 
 Visto l'[art. 4 del R. decreto 27 ottobre 1927, n. 2187](Ordinamento%20dei%20servizi%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto.%20027U2187.md), che stabilisce l'ordinamento dei servizi del Ministero della giustizia e degli affari di culto;
 
@@ -31,7 +31,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 ## Art. 1.
 
 Il termine per gli incarichi previsti nell'[art. 53 del R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737#art_53), stabilito al 31 dicembre 1928 dall'[art. 3 del R. decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e al 31 dicembre 1931 dall'art. 1 del [R. decreto 6 maggio 1929, n. 832](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20029U0832.md), e' prorogato al 31 dicembre 1934. 
- Il termine per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_11), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), stabilito al 30 giugno 1929 dal citato [art. 3 del R. decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e al 30 giugno 1932 dal citato [art. 1 del R. decreto 6 maggio 1929, n. 832](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20029U0832.md), e' prorogato al 30 giugno 1935.
+ Il termine per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), stabilito al 30 giugno 1929 dal citato [art. 3 del R. decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e al 30 giugno 1932 dal citato [art. 1 del R. decreto 6 maggio 1929, n. 832](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20029U0832.md), e' prorogato al 30 giugno 1935.
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ b) trattazione di un tema sull'ordinamento del notariato e degli archivi notaril
 
 ## Art. 3.
 
-Il terzo comma dell'art. 133 del regolamento per l'esecuzione della legge notarile, approvato con il [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), e' sostituito dal seguente: 
+Il terzo comma dell'art. 133 del regolamento per l'esecuzione della legge notarile, approvato con il [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), e' sostituito dal seguente: 
  «I membri indicati dall'art. 98, capoverso 5°, della legge, eccetto il presidente ed il capo del personale degli archivi notarili, durano in carica un anno e possono essere confermati». 
  Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 

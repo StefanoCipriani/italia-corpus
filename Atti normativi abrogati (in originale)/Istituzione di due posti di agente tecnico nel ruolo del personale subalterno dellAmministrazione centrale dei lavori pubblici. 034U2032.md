@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato:
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato:
 
 Visto l R. [decreto-legge 4 agosto 1924, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-08-04;1262), riflettente il,passaggio al Ministero dei lavori pubblici degli uffici e del personale delle Nuove costruzioni ferroviarie;
 
-Visto il [R. decreto 25 marzo 1926, n. 548](Istituzione%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20della%20Direzione%20generale%20delle%20Nuove%20costruzioni%20ferroviarie.%20026U0548.md), concernente la istituzione presso il Ministero dei lavori pubblici della Direttore generale delle Nuove costruzioni ferroviarie;
+Visto il [R. decreto 25 marzo 1926, n. 548](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20della%20Direzione%20generale%20delle%20Nuove%20costruzioni%20ferroviarie.%20026U0548.md), concernente la istituzione presso il Ministero dei lavori pubblici della Direttore generale delle Nuove costruzioni ferroviarie;
 
-Visto il [R. decreto 12 giugno 1931, n. 915](Approvazione%20dei%20ruoli%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20in%20applicazione%20dei%20Regi%20decreti%209%20agosto%201929%20n.%201457%20e%2024%20luglio%201930%20n.%201088.%20031U0915.md), che approva i nuovi ruoli del personale dell'Amministrazione dei lavori pubblici in applicazione dei [Regi decreti 9 agosto 1929, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1457), e [24 luglio 1930, n. 1088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-07-24;1088);
+Visto il [R. decreto 12 giugno 1931, n. 915](../Regi%20decreti/Approvazione%20dei%20ruoli%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20in%20applicazione%20dei%20Regi%20decreti%209%20agosto%201929%20n.%201457%20e%2024%20luglio%201930%20n.%201088.%20031U0915.md), che approva i nuovi ruoli del personale dell'Amministrazione dei lavori pubblici in applicazione dei [Regi decreti 9 agosto 1929, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1457), e [24 luglio 1930, n. 1088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-07-24;1088);
 
 Vista la [legge 27 giugno 1929, n. 1047](Provvedimenti%20a%20favore%20del%20personale%20delle%20Amministrazioni%20dello%20Stato.%20029U1047.md);
 
@@ -40,7 +40,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di conc
 
 ## Art. 1.
 
-Alla tabella del personale subalterno dell'Amministrazione centrale dei lavori pubblici, approvata con [R. decreto 12 giugno 1931, n. 915](Approvazione%20dei%20ruoli%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20in%20applicazione%20dei%20Regi%20decreti%209%20agosto%201929%20n.%201457%20e%2024%20luglio%201930%20n.%201088.%20031U0915.md), sono aggiunti n. 2 posti di agente tecnico con trattamento economico di cui alla seguente tabella, salvo la riduzione del 12 per cento a termini del [R. decreto legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e quella successivamente stabilita col [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561): 
+Alla tabella del personale subalterno dell'Amministrazione centrale dei lavori pubblici, approvata con [R. decreto 12 giugno 1931, n. 915](../Regi%20decreti/Approvazione%20dei%20ruoli%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20in%20applicazione%20dei%20Regi%20decreti%209%20agosto%201929%20n.%201457%20e%2024%20luglio%201930%20n.%201088.%20031U0915.md), sono aggiunti n. 2 posti di agente tecnico con trattamento economico di cui alla seguente tabella, salvo la riduzione del 12 per cento a termini del [R. decreto legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e quella successivamente stabilita col [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561): 
  
  Parte di provvedimento in formato grafico
 

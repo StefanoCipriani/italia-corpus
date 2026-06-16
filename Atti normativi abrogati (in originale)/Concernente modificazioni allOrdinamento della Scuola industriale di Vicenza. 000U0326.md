@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti i [Regi decreti 23 ottobre 1884, n. 2736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-10-23;2736) e [1° marzo 1888, n. 5255](Che%20modifica%20lordinamento%20della%20Scuola%20Industriale%20di%20Vicenza.%20088U5255.md) (serie 3ª), concernenti l'ordinamento della Scuola industriale di Vicenza; 
+ Visti i [Regi decreti 23 ottobre 1884, n. 2736](../Regi%20decreti/Sulla%20costituzione%20della%20Scuola%20Industriale%20di%20Vicenza.%20084U2736.md) e [1° marzo 1888, n. 5255](Che%20modifica%20lordinamento%20della%20Scuola%20Industriale%20di%20Vicenza.%20088U5255.md) (serie 3ª), concernenti l'ordinamento della Scuola industriale di Vicenza; 
  
  Viste le deliberazioni del Consiglio provinciale e del Consiglio comunale di Vicenza, in data del 27 aprile e 14 giugno 1900; 
  

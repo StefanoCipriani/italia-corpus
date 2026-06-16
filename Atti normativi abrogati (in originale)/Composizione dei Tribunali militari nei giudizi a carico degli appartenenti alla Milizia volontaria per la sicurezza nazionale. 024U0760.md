@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'allegato A. al [R. decreto 8 marzo 1923, n. 831](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-08;831), che assoggetta alla giurisdizione militare, per determinati reati, i componenti il corpo della Milizia volontaria, per la sicurezza nazionale;
 
-Visto il [R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md) che porta modificazioni all'ordinamento della giustizia militare;
+Visto il [R. decreto 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md) che porta modificazioni all'ordinamento della giustizia militare;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2903](Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), che detta le norme di attuazione del precedente R. decreto e sanziona nuove disposizioni sull'ordinamento giudiziario militare;
+Visto il [R. decreto 30 dicembre 1923, n. 2903](../Regi%20decreti/Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), che detta le norme di attuazione del precedente R. decreto e sanziona nuove disposizioni sull'ordinamento giudiziario militare;
 
 Sentito il Consiglio dei Ministri;
 
@@ -36,7 +36,7 @@ Per i giudizi a carico delle camicie nere, dei capi squadra e dei capi manipolo 
 
 Per i giudizi a carico degli ufficiali della Milizia volontaria per la sicurezza nazionale di grado superiore a quello di capo manipolo, il Tribunale militare speciale si compone con le stesse norme stabilite per i giudizi a carico degli ufficiali del Regio esercito di grado corrispondente, salvo quanto in appresso e' disposto. 
  
- Dall'estrazione a sorte dei giudici per il costituendo Tribunale militare speciale e' escluso uno dei giudici di grado meno elevato fra quelli designati nella tabella di cui all'[articolo 5 del R. decreto 30 dicembre 1923, n. 2903](Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md). Detto giudice e' sostituito da un ufficiale della Milizia volontaria per la sicurezza nazionale, in conformita' della tabella seguente, e giusta le disposizioni di cui al seguente articolo 4.
+ Dall'estrazione a sorte dei giudici per il costituendo Tribunale militare speciale e' escluso uno dei giudici di grado meno elevato fra quelli designati nella tabella di cui all'[articolo 5 del R. decreto 30 dicembre 1923, n. 2903](../Regi%20decreti/Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md). Detto giudice e' sostituito da un ufficiale della Milizia volontaria per la sicurezza nazionale, in conformita' della tabella seguente, e giusta le disposizioni di cui al seguente articolo 4.
 
 Giudice ufficiale del Regio esercito da sostituirsi
                                 Giudice ufficiale della M. V. S. N. che sostituisce il giudice del Regio esercito
@@ -61,7 +61,7 @@ Il comandante generale, che deve far parte di un Tribunale militare speciale, e'
 
 Non possono assumere le funzioni da giudice coloro i quali si trovano sottoposti a procedimento penale o disciplinare. 
  
- Le norme di cui agli [articoli 306](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [307](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [308 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per il Regio esercito, relative alla eta', alla prestazione del giuramento, e alla incompatibilita' dei giudici militari, valgono anche per i giudici della Milizia volontaria per la sicurezza nazionale.
+ Le norme di cui agli [articoli 306](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [307](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [308 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per il Regio esercito, relative alla eta', alla prestazione del giuramento, e alla incompatibilita' dei giudici militari, valgono anche per i giudici della Milizia volontaria per la sicurezza nazionale.
 
 ## Art. 6.
 

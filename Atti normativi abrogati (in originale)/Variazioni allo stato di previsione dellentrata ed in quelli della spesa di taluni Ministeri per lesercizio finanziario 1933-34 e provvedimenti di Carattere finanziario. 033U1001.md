@@ -46,11 +46,11 @@ Il termine fissato con l'ultimo comma dell'art. 4 del Regio decreto-legge 20 nov
 
 ## Art. 6.
 
-I fondi relativi alle spese autorizzate dal [Regio decreto 5 giugno 1933, n. 628](Norme%20per%20lapplicazione%20dellart.%2011%202%20comma%20del%20R.%20decreto-legge%2026%20gennaio%201933%20n.%2011%20recante%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0628.md), per l'acceleramento della revisione degli atti tecnici e della trattazione delle domande per contributi terremoti, saranno stanziati, con decreti del Ministro per le finanze ai capitoli concernenti le varie spese inscritte negli stati di previsione dei Ministeri delle finanze e dei lavori pubblici, in corrispondenza ai versamenti al bilancio dell'entrata delle somme a tal fine prelevate, ai sensi del predetto [R. decreto 5 giugno 1933, n. 628](Norme%20per%20lapplicazione%20dellart.%2011%202%20comma%20del%20R.%20decreto-legge%2026%20gennaio%201933%20n.%2011%20recante%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0628.md), dal fondo del servizio delle obbligazioni terremoto, autorizzato con la [legge del 27 giugno 1929, n. 1069](Provvedimenti%20a%20favore%20delle%20localita%20danneggiate%20dai%20terremoti.%20029U1069.md).
+I fondi relativi alle spese autorizzate dal [Regio decreto 5 giugno 1933, n. 628](../Regi%20decreti/Norme%20per%20lapplicazione%20dellart.%2011%202%20comma%20del%20R.%20decreto-legge%2026%20gennaio%201933%20n.%2011%20recante%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0628.md), per l'acceleramento della revisione degli atti tecnici e della trattazione delle domande per contributi terremoti, saranno stanziati, con decreti del Ministro per le finanze ai capitoli concernenti le varie spese inscritte negli stati di previsione dei Ministeri delle finanze e dei lavori pubblici, in corrispondenza ai versamenti al bilancio dell'entrata delle somme a tal fine prelevate, ai sensi del predetto [R. decreto 5 giugno 1933, n. 628](../Regi%20decreti/Norme%20per%20lapplicazione%20dellart.%2011%202%20comma%20del%20R.%20decreto-legge%2026%20gennaio%201933%20n.%2011%20recante%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0628.md), dal fondo del servizio delle obbligazioni terremoto, autorizzato con la [legge del 27 giugno 1929, n. 1069](Provvedimenti%20a%20favore%20delle%20localita%20danneggiate%20dai%20terremoti.%20029U1069.md).
 
 ## Art. 7.
 
-Il fondo complessivo di L. 3.000.000autorizzato dall'[art. 3 del R. decreto 5 giugno 1933, n. 628](Norme%20per%20lapplicazione%20dellart.%2011%202%20comma%20del%20R.%20decreto-legge%2026%20gennaio%201933%20n.%2011%20recante%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0628.md), per le spese da eseguirsi dal Ministero dei lavori, pubblici per i servizi di sua competenza, sara' assegnato in ragione di L. 1.500.000, L. 1.000.000 e L. 500.000, rispettivamente per ciascuno degli esercizi finanziari dal 1933-34 al 1935-36.
+Il fondo complessivo di L. 3.000.000autorizzato dall'[art. 3 del R. decreto 5 giugno 1933, n. 628](../Regi%20decreti/Norme%20per%20lapplicazione%20dellart.%2011%202%20comma%20del%20R.%20decreto-legge%2026%20gennaio%201933%20n.%2011%20recante%20provvedimenti%20in%20materia%20di%20terremoti.%20033U0628.md), per le spese da eseguirsi dal Ministero dei lavori, pubblici per i servizi di sua competenza, sara' assegnato in ragione di L. 1.500.000, L. 1.000.000 e L. 500.000, rispettivamente per ciascuno degli esercizi finanziari dal 1933-34 al 1935-36.
 
 ## Art. 8.
 
@@ -66,7 +66,7 @@ E' autorizzata la spesa di L. 850.000 per l'acquisto in Frosinone, di un fabbric
 
 ## Art. 10.
 
-Per le diarie spettanti ai componenti della delegazione italiana alla Conferenza economica mondiale di Londra e' mantenuta, con effetto per tutta la missione relativa alla Conferenza stessa, l'applicazione del [primo comma della lett. b) dell'art. 1 del R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_1-com1-letb), ferme le altre disposizioni del decreto medesimo.
+Per le diarie spettanti ai componenti della delegazione italiana alla Conferenza economica mondiale di Londra e' mantenuta, con effetto per tutta la missione relativa alla Conferenza stessa, l'applicazione del [primo comma della lett. b) dell'art. 1 del R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), ferme le altre disposizioni del decreto medesimo.
 
 ## Art. 11.
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Veduti gli [articoli 9](Disposizioni%20varie%20sulla%20sanita%20pubblica.%20027U1070.md), [11](Disposizioni%20varie%20sulla%20sanita%20pubblica.%20027U1070.md), [12](Disposizioni%20varie%20sulla%20sanita%20pubblica.%20027U1070.md) e [13 della legge 23 giugno 1927, n. 1070](Disposizioni%20varie%20sulla%20sanita%20pubblica.%20027U1070.md), contenente disposizioni varie sulla sanita' pubblica; 
  
- Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con 
+ Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con 
  
  [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
  

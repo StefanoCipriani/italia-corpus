@@ -42,7 +42,7 @@ Fino all'attuazione nelle suaccennate Provincie della Legge sull'ordinamento giu
 
 ## Art. 4.
 
-Per la esecuzione delle disposizioni del presente Decreto e' pubblicato ed avra' forza di Legge nelle suaccennate Provincie l'[art. 270 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno del 20 novembre 1859; il quale e' del tenore seguente: 
+Per la esecuzione delle disposizioni del presente Decreto e' pubblicato ed avra' forza di Legge nelle suaccennate Provincie l'[art. 270 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del Regno del 20 novembre 1859; il quale e' del tenore seguente: 
  
  «Qualunque contravvenzione alle regole vigenti sopra la necessita' dell'assenso del Governo per la pubblicazione od esecuzione di provvedimenti relativi alla Religione dello Stato od agli altri Culti sara' punita, secondo i casi, col carcere estensibile a sei mesi, o con multa estensibile a lire cinquecento.»
 

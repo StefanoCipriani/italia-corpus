@@ -14,7 +14,7 @@ Vista la [legge 8 luglio 1904, n. 351](Provvedimenti%20pel%20risorgimento%20econ
 
 Vista la [legge 24 marzo 1921, n. 375](Che%20reca%20provvedimenti%20per%20lEnte%20autonomo%20Volturno%20in%20Napoli.%20021U0375.md);
 
-Visto il [regio decreto 6 settembre 1921, n. 1354](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2024%20marzo%201921%20n.%20375%20recante%20provvedimenti%20per%20lEnte%20autonomo%20Volturno%20in%20Napoli.%20021U1354.md);
+Visto il [regio decreto 6 settembre 1921, n. 1354](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%2024%20marzo%201921%20n.%20375%20recante%20provvedimenti%20per%20lEnte%20autonomo%20Volturno%20in%20Napoli.%20021U1354.md);
 
 Visto il [decreto legislativo luogotenenziale 10 agosto 1945, n. 526](../Decreti%20legislativi%20luogotenenziali/Elevazione%20a%20cinque%20miliardi%20del%20limite%20di%20cui%20al%20decreto%20legislativo%20Luogotenenziale%2014%20giugno%201945%20n.%20365%20per%20la%20concessione%20di%20anticipazioni%20alle%20aziende%20industriali%20creditrici%20dello%20S_d5c083a90d78.md);
 

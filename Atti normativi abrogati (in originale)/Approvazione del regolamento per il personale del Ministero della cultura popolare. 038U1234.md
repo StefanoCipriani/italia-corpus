@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  IMPERATORE D'ETIOPIA 
  
  Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni; 
- Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni; 
+ Veduto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni; 
  Veduto il [R. decreto-legge 11 gennaio 1937, n. 3](Approvazione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0003.md), convertito nella [legge 30 dicembre 1937, n. 2472](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20gennaio%201937-XV%20n.%203%20concernente%20lapprovazione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U2472.md), col quale sono stati approvati i ruoli organici del personale del Ministero della cultura popolare; 
  Ritenuta la necessita' di emanare il regolamento per il personale predetto; 
  Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'ultimo alinea dell'art. 18 del testo unico delle leggi sul nuovo catasto ([R. decreto 8 ottobre 1931, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1572)), va aggiunto il seguente: 
+All'ultimo alinea dell'art. 18 del testo unico delle leggi sul nuovo catasto ([R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md)), va aggiunto il seguente: 
  «A partire dal 1° gennaio 1933 la stessa tariffa media sara' applicata ai terreni di proprieta' dei Comuni e delle Provincie, destinati ad uso di giardino o di parco, aperti al pubblico».
 
 ## Art. 2.

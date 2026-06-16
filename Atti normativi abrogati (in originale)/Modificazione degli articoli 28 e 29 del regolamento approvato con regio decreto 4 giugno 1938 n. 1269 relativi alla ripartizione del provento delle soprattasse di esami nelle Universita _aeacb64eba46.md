@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
-Veduto il regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269);
+Veduto il regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md);
 
 Veduta la [legge 18 dicembre 1951, n. 1551](Aumento%20dei%20contributi%20statali%20a%20favore%20delle%20Universita%20e%20degli%20Istituti%20superiori%20e%20dei%20contributi%20per%20lassistenza%20agli%20studenti%20ampliamento%20delle%20esenzioni%20tributarie%20per%20gli%20studenti%20_eef25c2651a6.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-Gli articoli 28 e 29 del regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269), sono sostituiti come appresso:
+Gli articoli 28 e 29 del regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md), sono sostituiti come appresso:
  Art. 28. - Il provento annuale delle soprattasse per gli esami di profitto e di laurea o di diploma, salvo quelle indicate nel comma seguente, viene, per ciascuna sede complessivamente computato per le Universita' e gli Istituti superiori statali e gli Istituti superiori ad ordinamento speciale esistenti nella sede stessa.
  Il venticinque per cento del provento annuale suddetto, con l'aggiunta del provento delle soprattasse di specializzazione e perfezionamento, viene trattenuto dalla cassa dell'Universita' o Istituto della sede e, detrattone l'importo dell'indennita' annua supplementare di carica per il rettore o direttore, viene cosi' ripartito:
  a) la meta' e' destinata al bilancio universitario per concessione agli assistenti di indennita' assistenza per esami, secondo modalita' che saranno stabilite dal Ministro per la pubblica istruzione;

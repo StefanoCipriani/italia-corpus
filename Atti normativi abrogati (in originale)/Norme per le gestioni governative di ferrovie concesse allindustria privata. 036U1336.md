@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-L'art. 184 del testo unico delle disposizioni di leggi approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e' cosi' modificato e completato: 
+L'art. 184 del testo unico delle disposizioni di leggi approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e' cosi' modificato e completato: 
  
  «Qualora l'esercizio di una ferrovia pubblica venga interrotta sulla totalita' o su parte del percorso senza che il concessionario provveda immediatamente a ripristinarlo, o se l'esercizio medesimo venga eseguito con gravi e ripetute irregolarita', il Ministero delle comunicazioni (Ispettorato generale ferrovie, tramvie e automobili) prefigge un termine perentorio al concessionario per il ristabilimento regolare del servizio. Scaduto tale termine il concessionario che non abbia adempiuto all'ingiunzione, senza che - a giudizio insindacabile dell'Amministrazione - risulti dimostrata l'esistenza di impedimenti dovuti a cause di forza maggiore o comunque indipendenti dal fatto proprio, decade dalla concessione e vengono applicate le disposizioni vigenti in materia. 
  

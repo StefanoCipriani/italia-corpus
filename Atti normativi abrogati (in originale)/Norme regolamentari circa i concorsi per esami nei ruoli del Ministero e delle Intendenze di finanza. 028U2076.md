@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che approva l'ordinamento gerarchico delle Amministrazioni dello Stato;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), recante disposizioni sullo stato giuridico degli impiegati civili dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), recante disposizioni sullo stato giuridico degli impiegati civili dello Stato;
 
 Ritenuta la necessita' di coordinare ed unificare le norme regolamentari relative ai programmi, alle commissioni ed alle prove scritte degli esami di primo segretario ed archivista, distintamente disciplinate per il personale del Ministero e delle Intendenze di finanza, e per il personale del soppresso Ministero del tesoro, ora collocati, in applicazione dei [Regi decreti 21 dicembre 1922, n. 1652](Concernente%20la%20fusione%20dei%20ruoli%20tra%20gli%20impiegati%20dellAmministrazione%20centrale%20e%20quelli%20delle%20Intendenze%20di%20finanza.%20022U1652.md), e [18 gennaio 1923, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;112), in unico ruolo;
 

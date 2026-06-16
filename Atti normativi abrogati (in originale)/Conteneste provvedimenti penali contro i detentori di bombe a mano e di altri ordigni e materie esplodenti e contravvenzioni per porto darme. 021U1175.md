@@ -18,7 +18,7 @@ Chiunque porta, detiene, o conserva una o piu' bombe a mano od altri ordigni esp
 
 Quando piu' persone concorrano all' esecuzione di questi reati, ciascuno dei correi o complici soggiace alle disposizioni stabilite dall'articolo primo. 
  
- Le stesse disposizioni si applicano al favoreggiatore ed al ricettatore. fermo il disposto del capoverso dell'[art. 421 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Le stesse disposizioni si applicano al favoreggiatore ed al ricettatore. fermo il disposto del capoverso dell'[art. 421 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 

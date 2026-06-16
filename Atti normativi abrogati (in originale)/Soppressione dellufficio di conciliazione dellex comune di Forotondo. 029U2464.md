@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 agosto 1928, n. 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1982), col quale il comune di Forotondo e' stato soppresso ed il rispettivo territorio aggregato a quello di Fabbrica Curone; 
+ Visto il [R. decreto 3 agosto 1928, n. 1982](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Forotondo%20e%20Fabbrica%20Curone%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Fabbrica%20Curone.%20028U1982.md), col quale il comune di Forotondo e' stato soppresso ed il rispettivo territorio aggregato a quello di Fabbrica Curone; 
  Vista la deliberazione del commissario prefettizio di Fabbrica Curone rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Forotondo; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

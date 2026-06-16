@@ -111,7 +111,7 @@ La promozione per merito di una delle istitutrici a direttrice, a norma dell'[ar
 ## Art. 18.
 
 Il concorso al posto di maestra-istitutrice nei Reali educandati e' per titoli e per esame. 
- Oltre i requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1), si richiede come titolo di studio, per l'ammissione al concorso, il diploma di abilitazione magistrale, o la licenza normale oppure il certificato d'iscrizione ad un albo professionale per l'insegnamento medio. 
+ Oltre i requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), si richiede come titolo di studio, per l'ammissione al concorso, il diploma di abilitazione magistrale, o la licenza normale oppure il certificato d'iscrizione ad un albo professionale per l'insegnamento medio. 
  La prova scritta consistera' nello svolgimento di un tema di cultura storica e letteraria. 
  La prova orale, della durata non minore di 30 minuti, sara' diretta a saggiare il grado di cultura della candidata e la sua capacita' didattica in relazione alle materie che formano parte dell'insegnamento elementare. 
  Il concorso e' giudicato da una Commissione composta di un preside di prima categoria, che la presiede, di un professore ordinario di Regi istituti medi di secondo grado, e della direttrice dello stesso o di altro Reale educandato, oppure di un rettore, o rettrice, di Convitti nazionali. 
@@ -120,7 +120,7 @@ Il concorso al posto di maestra-istitutrice nei Reali educandati e' per titoli e
 ## Art. 19.
 
 Il concorso al posto di vice-direttrice nei Reali educandati e' per titoli e per esame. 
- Oltre i requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1), si richiede, come titolo di studio, per la ammissione al concorso, la laurea, oppure il diploma di istituto superiore di magistero, o la iscrizione ad un albo professionale per l'insegnamento medio. 
+ Oltre i requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), si richiede, come titolo di studio, per la ammissione al concorso, la laurea, oppure il diploma di istituto superiore di magistero, o la iscrizione ad un albo professionale per l'insegnamento medio. 
  L'esame consistera' in un colloquio, della durata di non meno di 45 minuti, diretto a saggiare il grado e le caratteristiche della cultura della candidata, i suoi criteri pedagogici, e la sua attitudine a uffici direttivi. 
  Il concorso e' giudicato da una Commissione formata di un professore ufficiale di universita' o istituto di istruzione superiore, che la presiede, di un preside di prima categoria di Regio istituto medio, e della direttrice dello stesso o di altro Reale educandato, oppure di un rettore o rettrice di Convitto nazionale. 
  La Commissione dispone complessivamente, per ciascuna candidata, di 90 punti, dei quali 45 per l'esame e 45 per i titoli.
@@ -128,7 +128,7 @@ Il concorso al posto di vice-direttrice nei Reali educandati e' per titoli e per
 ## Art. 20.
 
 Il concorso al posto di direttrice nei Reali educandati e' per titoli e per esame. 
- Oltre i requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1), si richiede come titolo di studio uno di quelli indicati nell'articolo precedente. 
+ Oltre i requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), si richiede come titolo di studio uno di quelli indicati nell'articolo precedente. 
  L'esame consistera' in un colloquio, della durata non minore di 45 minuti, diretto a saggiare la cultura della candidata, la sua competenza nel governo degli istituti di educazione, i suoi principi pedagogici e la sua conoscenza dell'attivita' dello Stato in materia di educazione. 
  Il concorso e' giudicato da una Commissione composta di un professore ufficiale di universita' o istituto di istruzione superiore, che la presiede, del Regio provveditore agli studi, di un preside di prima categoria di Regio istituto medio e di un rappresentante dell'Educandato designato dal Consiglio di amministrazione dell'Educandato stesso. 
  La Commissione dispone complessivamente, per ciascun candidato, di 90 punti, dei quali 60 per i titoli e 30 per l'esame.
@@ -136,7 +136,7 @@ Il concorso al posto di direttrice nei Reali educandati e' per titoli e per esam
 ## Art. 21.
 
 I concorsi per insegnanti medi nei Reali educandati sono per titoli e per esame. 
- Oltre i requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1), si richiede, come titolo di studio, per l'ammissione al concorso, l'abilitazione all'esercizio professionale dell'insegnamento medio per almeno una delle materie comprese nella cattedra messa a concorso. 
+ Oltre i requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), si richiede, come titolo di studio, per l'ammissione al concorso, l'abilitazione all'esercizio professionale dell'insegnamento medio per almeno una delle materie comprese nella cattedra messa a concorso. 
  L'esame vertera' sulle materie comprese nella cattedra messa a concorso e consistera' in una prova scritta e in una orale. 
  Il concorso e' giudicato da una Commissione formata di un professore ufficiale di universita' o istituto di istruzione superiore, che la presiede, di un preside di prima categoria e di un professore ordinario di Regi istituti medi di istruzione di secondo grado. 
  La Commissione dispone, per ogni candidato, di 90 punti, dei quali 60 per l'esame e 30 per i titoli.
@@ -195,7 +195,7 @@ I provvedimenti disciplinari relativi alla direttrice, e quelli relativi al pres
 Le note di qualifica del personale dei Reali educandati sono compilate e firmate, per la direttrice, dal presidente del Consiglio di amministrazione e, per il rimanente personale, dalla direttrice. 
  Nel caso che la direzione delle scuole sia affidata ad un preside le note di qualifica sono compilate e firmate dal presidente, e spetta al preside compilare e firmare le note per il personale insegnante da lui dipendente. 
  Tutte le note poi sono rivedute e firmate dal Regio provveditore agli studi. 
- Contro le note di qualifica e' ammesso ricorso entro 15 giorni al Consiglio di amministrazione del Ministero, a norma dell'[art. 12 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_12).
+ Contro le note di qualifica e' ammesso ricorso entro 15 giorni al Consiglio di amministrazione del Ministero, a norma dell'[art. 12 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 32.
 

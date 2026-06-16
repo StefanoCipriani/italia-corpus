@@ -130,7 +130,7 @@ Per le promozioni al grado 11° nel ruolo del gruppo C del personale provinciale
 
 ## Art. 16.
 
-In deroga all'art. 2 del testo unico delle leggi doganali approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e successive modificazioni, e' abolita la distinzione delle dogane in due ordini; gli uffici doganali sono ripartiti in sei classi secondo l'importanza delle loro operazioni. 
+In deroga all'art. 2 del testo unico delle leggi doganali approvato con [R. decreto 26 gennaio 1896, n. 20](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md), e successive modificazioni, e' abolita la distinzione delle dogane in due ordini; gli uffici doganali sono ripartiti in sei classi secondo l'importanza delle loro operazioni. 
  
  Con decreti Reali sara' stabilita la tabella delle dogane e delle loro facolta' e quella delle merci che possono essere importate per le dogane di ciascuna classe.
 

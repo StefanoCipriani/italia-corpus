@@ -24,7 +24,7 @@ Gli articoli 1, 3 e 4 del regolamento sul servizio metrico sopra citato sono sop
 
 ## Art. 2.
 
-La Commissione superiore metrica e del saggio dei metalli preziosi nominata coi RR. decreti 4 dicembre 1910, 18 dicembre 1913 e 26 novembre 1914, in applicazione dell'art. 1 del regolamento sul servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242) e' sciolta. Con altro R. decreto si provvedera', alla nomina della nuova Commissione ai sensi degli articoli 1 e 3 del presente decreto. 
+La Commissione superiore metrica e del saggio dei metalli preziosi nominata coi RR. decreti 4 dicembre 1910, 18 dicembre 1913 e 26 novembre 1914, in applicazione dell'art. 1 del regolamento sul servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md) e' sciolta. Con altro R. decreto si provvedera', alla nomina della nuova Commissione ai sensi degli articoli 1 e 3 del presente decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

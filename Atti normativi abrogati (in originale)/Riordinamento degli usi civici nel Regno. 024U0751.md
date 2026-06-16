@@ -70,7 +70,7 @@ La porzione di terreno da assegnarsi in compenso dei diritti suddetti sara' dete
 
 Saranno esenti dalla divisione e gravati di un annuo canone, di natura enfiteutica, a favore del Comune in misura corrispondente al valore dei diritti, i terreni che abbiano ricevuto dal proprietario sostanziali e permanenti migliorie ed i piccoli appezzamenti non aggruppabili in unita' agrarie. 
  
- Restano ferme nelle provincie ex pontificie le disposizioni dell'[art. 9 del R. decreto 3 agosto 1891, n. 510](Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md), per l'affrancazione a favore della popolazione di un Comune, di una frazione o di una associazione agraria di tutto o parte del fondo gravato di usi civici ed il Commissario vi provvedera' con le norme stabilite nell'articolo stesso.
+ Restano ferme nelle provincie ex pontificie le disposizioni dell'[art. 9 del R. decreto 3 agosto 1891, n. 510](../Regi%20decreti/Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md), per l'affrancazione a favore della popolazione di un Comune, di una frazione o di una associazione agraria di tutto o parte del fondo gravato di usi civici ed il Commissario vi provvedera' con le norme stabilite nell'articolo stesso.
 
 ### Art. 6.
 
@@ -150,7 +150,7 @@ Qualora l'estensione lo consenta, i terreni destinati a cultura agraria, salvo i
 
 ### Art. 14.
 
-Per provvedersi dei mezzi necessari, il delegato, oltre dei frutti e delle rendite, potra' avvalersi, in quanto applicabili, delle agevolazioni del credito agrario accordate dalle leggi raccolte nel [testo unico 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932), nonche' delle altre previste dai [Regi decreti 14 luglio 1918, n. 1142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-07-14;1142); [2 settembre 1919, n. 1633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1633), e [30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
+Per provvedersi dei mezzi necessari, il delegato, oltre dei frutti e delle rendite, potra' avvalersi, in quanto applicabili, delle agevolazioni del credito agrario accordate dalle leggi raccolte nel [testo unico 9 aprile 1922, n. 932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1922-04-09;932), nonche' delle altre previste dai [Regi decreti 14 luglio 1918, n. 1142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-07-14;1142); [2 settembre 1919, n. 1633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-02;1633), e [30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
 
 ### Art. 15.
 
@@ -276,7 +276,7 @@ Tutte le autorita' sono obbligate a compiere ed eseguire atti, a fornire notizie
 
 ### Art. 31.
 
-I Commissari sostituiranno le Giunte d'arbitri istituite con le [leggi 15 agosto 1867, n. 3910; 2 aprile 1882, n. 698; 7 maggio 1885, n. 3093; 28 febbraio 1892, n. 72](Che%20abolisce%20la%20servitu%20di%20legnatico%20esercitata%20dagli%20abitanti%20di%20Tatti%20in%20Massa%20Marittima.%20092U0072.md); e con quelle raccolte nel testo unico approvato con [R. decreto 3 agosto 1891, n. 510](Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md) ; nonche' le Commissioni e i Commissari istituiti per effetto della legge dell'ex Impero austro-ungarico 7 giugno 1883 B. L. I., n. 95; e delle leggi provinciali 19 giugno 1909 B. L. Pr., n. 61; 19 giugno 1909 B. L.
+I Commissari sostituiranno le Giunte d'arbitri istituite con le [leggi 15 agosto 1867, n. 3910; 2 aprile 1882, n. 698; 7 maggio 1885, n. 3093; 28 febbraio 1892, n. 72](Che%20abolisce%20la%20servitu%20di%20legnatico%20esercitata%20dagli%20abitanti%20di%20Tatti%20in%20Massa%20Marittima.%20092U0072.md); e con quelle raccolte nel testo unico approvato con [R. decreto 3 agosto 1891, n. 510](../Regi%20decreti/Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md) ; nonche' le Commissioni e i Commissari istituiti per effetto della legge dell'ex Impero austro-ungarico 7 giugno 1883 B. L. I., n. 95; e delle leggi provinciali 19 giugno 1909 B. L. Pr., n. 61; 19 giugno 1909 B. L.
 Pr., n. 37 (ex 1911) (Tirolo), e 21 marzo 1913 B. L. Pr., n. 20 (Gorizia e Gradisca). 
  
  Essi pero' nelle Provincie, cui dette leggi si riferiscono, assumeranno ed eserciteranno tutte le attribuzioni loro affidate col presente decreto. 
@@ -285,7 +285,7 @@ Pr., n. 37 (ex 1911) (Tirolo), e 21 marzo 1913 B. L. Pr., n. 20 (Gorizia e Gradi
 
 ### Art. 32.
 
-Le attribuzioni gia' conferite alle Giunte d'arbitri per la Sardegna passeranno al Commissario, il quale le esercitera' in conformita' del [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), che approva il testo unico delle leggi contenenti provvedimenti per l'isola.
+Le attribuzioni gia' conferite alle Giunte d'arbitri per la Sardegna passeranno al Commissario, il quale le esercitera' in conformita' del [R. decreto 10 novembre 1907, n. 844](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), che approva il testo unico delle leggi contenenti provvedimenti per l'isola.
 
 ### Art. 33.
 
@@ -327,7 +327,7 @@ Le cause che all'entrata in vigore del presente decreto si troveranno in corso a
 
 ### Art. 39.
 
-Le disposizioni contenute nell'[art. 156 del R. decreto 30 dicembre 1923, n. 3256](Testo%20unico%20delle%20leggi%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20023U3256.md), relative all'assegnazione di demani comunali a colonie agricole, nonche' quelle contenute negli [articoli 13](Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md) e [29 del R. decreto 31 dicembre 1923, numero 3258](Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md), per quanto si riferiscano ai demani comunali del Mezzogiorno d'Italia, sono abrogate. 
+Le disposizioni contenute nell'[art. 156 del R. decreto 30 dicembre 1923, n. 3256](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20023U3256.md), relative all'assegnazione di demani comunali a colonie agricole, nonche' quelle contenute negli [articoli 13](../Regi%20decreti/Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md) e [29 del R. decreto 31 dicembre 1923, numero 3258](../Regi%20decreti/Regolamenti%20concernenti%20lOpera%20nazionale%20per%20i%20combattenti.%20023U3258.md), per quanto si riferiscano ai demani comunali del Mezzogiorno d'Italia, sono abrogate. 
  
  Restano ferme tutte le disposizioni in materia di usi civici, demani comunali e diritti della natura di cui all'art. 1 che non siano contrarie a quelle contenute nel presente decreto.
 

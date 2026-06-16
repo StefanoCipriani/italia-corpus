@@ -24,7 +24,7 @@ Il [decreto-legge 1 dicembre 1983, n. 654](Esonero%20dalle%20sanzioni%20per%20i%
 
 ## Art. 2.
 
-Per l'anno 1984, in deroga al secondo comma dell'articolo 297 del testo unico sulla finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), i tributi locali la cui riscossione avviene mediante gli esattori delle imposte dirette possono essere riscossi in un numero di rate non inferiore a due, con scadenza bimestrale.
+Per l'anno 1984, in deroga al secondo comma dell'articolo 297 del testo unico sulla finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), i tributi locali la cui riscossione avviene mediante gli esattori delle imposte dirette possono essere riscossi in un numero di rate non inferiore a due, con scadenza bimestrale.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

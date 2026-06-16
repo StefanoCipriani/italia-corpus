@@ -18,7 +18,7 @@ Visto il [R. decreto 9 aprile 1925, n. 583](https://www.normattiva.it/uri-res/N2
 
 Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Visto il [R. decreto 25 settembre 1924, n. 1611](Norme%20particolari%20per%20le%20promozioni%20e%20le%20ammissioni%20nei%20ruoli%20del%20Real%20corpo%20delle%20foreste.%20024U1611.md), contenente norme particolari per le promozioni e le ammissioni nei ruoli del corpo Reale delle foreste;
 

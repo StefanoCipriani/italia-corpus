@@ -61,7 +61,7 @@ La domanda per l'approvazione di cavalli stalloni, anche se di puro sangue ingle
  Alla domanda devono essere allegati:
  a) copia fotostatica del certificato genealogico o di origine del soggetto, il cui originale deve essere esibito all'atto della visita;
 b) certificato veterinario comprovante l'avvenuta prova
-diagnostica della materia ai sensi dell'art. 132 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica dell'8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
+diagnostica della materia ai sensi dell'art. 132 del regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica dell'8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md).
  Se l'approvazione e' richiesta dal gestore di una pubblica stazione di fecondazione la domanda dovra' essere corredata anche della bolletta di pagamento della tassa sulle concessioni governative di cui al n. 39 della tabella annessa al [decreto del Presidente della Repubblica 1 marzo 1961, n. 121](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md).
 
 ## Art. 7.

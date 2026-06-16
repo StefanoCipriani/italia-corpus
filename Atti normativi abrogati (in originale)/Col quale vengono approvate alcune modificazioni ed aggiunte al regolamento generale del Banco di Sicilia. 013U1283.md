@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca approvato con [R. decreto del 28 aprile 1910 n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
+Veduto il testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca approvato con [R. decreto del 28 aprile 1910 n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Veduto il [R. decreto 1° agosto 1913, n. 996](Col%20quale%20e%20prorogata%20al%2031%20dicembre%201923%20la%20facolta%20di%20emettere%20biglietti%20di%20Banca%20ed%20altri%20titoli%20equivalenti%20concessa%20alla%20Banca%20dItalia%20al%20Banco%20di%20Napoli%20ed%20al%20Banco%20di%20Sicilia.%20013U0996.md), che proroga per altri dieci anni agli Istituti di emissione la facolta' di emettere biglietti di Banca od altri titoli equivalenti;
 

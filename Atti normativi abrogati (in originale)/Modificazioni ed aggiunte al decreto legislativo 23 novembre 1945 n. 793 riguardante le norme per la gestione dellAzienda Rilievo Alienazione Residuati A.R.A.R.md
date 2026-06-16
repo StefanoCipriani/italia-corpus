@@ -18,9 +18,9 @@ Visto il [decreto legislativo luogotenenziale 22 dicembre 1945, n. 824](../Decre
 
 Visto il [decreto legislativo luogotenenziale 6 febbraio 1946, n. 131](../Decreti%20legislativi%20luogotenenziali/Utilizzazione%20dei%20residuati%20di%20guerra%20da%20parte%20degli%20enti%20pubblici%20e%20delle%20aziende%20private.md);
 
-Visto il [regio decreto legislativo 17 maggio 1946, n. 566](Modificazioni%20allart.%205%20del%20decreto%20legislativo%20Luogotenenziale%2029%20ottobre%201945%20n.%20683%20riguardante%20la%20istituzione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20res_5de5122d7715.md);
+Visto il [regio decreto legislativo 17 maggio 1946, n. 566](../Regi%20decreti%20legislativi/Modificazioni%20allart.%205%20del%20decreto%20legislativo%20Luogotenenziale%2029%20ottobre%201945%20n.%20683%20riguardante%20la%20istituzione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20res_5de5122d7715.md);
 
-Visto il [regio decreto 17 maggio 1946, n. 483](Modificazione%20dellart.%203%20del%20decreto%20Luogotenenziale%2023%20novembre%201945%20n.%20793%20riguardante%20il%20Consiglio%20di%20amministrazione%20dellAzienda%20Rilievo%20Alienazione%20Residuati%20A.R.A.R.md);
+Visto il [regio decreto 17 maggio 1946, n. 483](../Regi%20decreti/Modificazione%20dellart.%203%20del%20decreto%20Luogotenenziale%2023%20novembre%201945%20n.%20793%20riguardante%20il%20Consiglio%20di%20amministrazione%20dellAzienda%20Rilievo%20Alienazione%20Residuati%20A.R.A.R.md);
 
 Visto il [decreto 30 gennaio 1947, n. 11 del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-01-30;11);
 

@@ -44,7 +44,7 @@ Visto il Codice postale e delle telecomunicazioni, approvato col R.
 
 decreto 27 febbraio 1936, n. 645;
 
-Visto il [R. decreto 17 novembre 1938, n. 1970](Ritocco%20alla%20sopratassa%20sulle%20conversazioni%20telefoniche%20interurbane%20ed%20internazionali.%20038U1970.md);
+Visto il [R. decreto 17 novembre 1938, n. 1970](../Regi%20decreti/Ritocco%20alla%20sopratassa%20sulle%20conversazioni%20telefoniche%20interurbane%20ed%20internazionali.%20038U1970.md);
 
 Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n.
 
@@ -88,7 +88,7 @@ L'ultimo comma dell'[art. 6 del R. decreto-legge 23 novembre 1921, n. 1824](Che%
 
 ## Art. 4.
 
-Il primo comma dell'art. 78 del regolamento di esecuzione dei titoli I, II, III, del libro II del Codice postale e delle telecomunicazioni, approvato con [R. decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e' sostituito dal seguente: 
+Il primo comma dell'art. 78 del regolamento di esecuzione dei titoli I, II, III, del libro II del Codice postale e delle telecomunicazioni, approvato con [R. decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e' sostituito dal seguente: 
  
  «Art. 78. - Ciascun concessionario di linee telefoniche ad uso privato paghera' ogni anno allo Stato un canone di L. 200, per ogni circuito di comunicazione fino a 3 km. con due stazioni. Per ogni km. o frazione in piu' dei primi tre e per ogni stazione in piu' delle prime due si aggiungera' un canone annuo di L. 120».
 
@@ -108,13 +108,13 @@ L'[art. 1 del R. decreto-legge 13 gennaio 1927, n. 15](Norme%20per%20il%20serviz
 
 ## Art. 7.
 
-L'articolo unico del [R. decreto 9 aprile 1931, n. 399](Giorni%20festivi%20agli%20effetti%20della%20riduzione%20delle%20tariffe%20telefoniche.%20031U0399.md), e' sostituito dal seguente: 
+L'articolo unico del [R. decreto 9 aprile 1931, n. 399](../Regi%20decreti/Giorni%20festivi%20agli%20effetti%20della%20riduzione%20delle%20tariffe%20telefoniche.%20031U0399.md), e' sostituito dal seguente: 
  
  «Articolo unico. - La riduzione delle tariffe telefoniche, prevista dall'[art. 1 del R. decreto-legge 20 agosto 1926, n. 1433](Variazioni%20alle%20tariffe%20telefoniche%20e%20postali.%20026U1433.md), convertito nella [legge 18 dicembre 1927, n. 2424](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20agosto%201926%20n.%201433%20col%20quale%20si%20apportano%20variazioni%20alle%20tariffe%20telefoniche%20e%20postali.%20027U2424.md), e' applicabile nei giorni festivi riconosciuti tali a tutti gli effetti civili».
 
 ## Art. 8.
 
-L'articolo unico del [R. decreto 17 novembre 1938, n. 1970](Ritocco%20alla%20sopratassa%20sulle%20conversazioni%20telefoniche%20interurbane%20ed%20internazionali.%20038U1970.md), e' sostituito dal seguente: 
+L'articolo unico del [R. decreto 17 novembre 1938, n. 1970](../Regi%20decreti/Ritocco%20alla%20sopratassa%20sulle%20conversazioni%20telefoniche%20interurbane%20ed%20internazionali.%20038U1970.md), e' sostituito dal seguente: 
  
  «Articolo unico. - La sopratassa per le comunicazioni telefoniche interurbane ed internazionali effettuate dal domicilio degli abbonati, dai posti telefonici pubblici e dagli uffici di accettazione e' elevata da L. 0,40 a L. 1,60. 
  

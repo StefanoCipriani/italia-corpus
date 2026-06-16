@@ -16,15 +16,15 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), relativo alla costituzione di un Corpo di agenti di pubblica sicurezza;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Visto il [R. decreto-legge 18 ottobre 1925, n. 1846](Istituzione%20di%20un%20corpo%20speciale%20di%20polizia%20per%20la%20capitale.%20025U1846.md), relativo alla istituzione di un Corpo speciale di polizia per la Capitale;
 
 Visto il [decreto-legge 28 gennaio 1929, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1929-01-28;146), relativo all'inquadramento nel ruolo dei funzionari di P. S. degli ufficiali della Divisione speciale di polizia della Capitale;
 
-Visto il [R. decreto 24 settembre 1931, n. 1234](Approvazione%20dei%20nuovi%20ruoli%20organici%20della%20pubblica%20sicurezza.%20031U1234.md), che approva i ruoli organici del personale della P. S.;
+Visto il [R. decreto 24 settembre 1931, n. 1234](../Regi%20decreti/Approvazione%20dei%20nuovi%20ruoli%20organici%20della%20pubblica%20sicurezza.%20031U1234.md), che approva i ruoli organici del personale della P. S.;
 
 Visto il [R. decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629), che approva il regolamento per il Corpo degli agenti di P. S.;
 
@@ -96,7 +96,7 @@ S., salvo riparto delle quote proporzionali, per il servizio prestato alle dipen
 
 ## Art. 7.
 
-Il ruolo organico degli ufficiali di P. S. (gruppo A) approvato con [R. decreto 24 settembre 1931, n. 1234](Approvazione%20dei%20nuovi%20ruoli%20organici%20della%20pubblica%20sicurezza.%20031U1234.md), e' sostituito dal seguente: 
+Il ruolo organico degli ufficiali di P. S. (gruppo A) approvato con [R. decreto 24 settembre 1931, n. 1234](../Regi%20decreti/Approvazione%20dei%20nuovi%20ruoli%20organici%20della%20pubblica%20sicurezza.%20031U1234.md), e' sostituito dal seguente: 
  
 
  Gruppo A.

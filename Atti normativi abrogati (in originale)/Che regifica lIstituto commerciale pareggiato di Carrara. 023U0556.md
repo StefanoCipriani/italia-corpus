@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), ed il relativo regolamento approvato con [R. decreto 13 novembre 1919, n. 2431](Che%20approva%20e%20rende%20esecutivo%20lannesso%20regolamento%20sulla%20istruzione%20media%20commerciale.%20019U2431.md);
+Vista la [legge 14 luglio 1912, n. 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), ed il relativo regolamento approvato con [R. decreto 13 novembre 1919, n. 2431](../Regi%20decreti/Che%20approva%20e%20rende%20esecutivo%20lannesso%20regolamento%20sulla%20istruzione%20media%20commerciale.%20019U2431.md);
 
 Vista la [legge 7 aprile 1921, n. 439](Che%20converte%20in%20legge%20il%20R.%20decreto%208%20luglio%201919%20n.%201323%20concernente%20miglioramenti%20economici%20al%20personale%20delle%20Ragie%20scuole%20medie%20di%20commercio%20e%20nuovi%20miglioramenti%20economici%20allo%20stess_a111d49f0943.md);
 
@@ -40,7 +40,7 @@ L'Istituto commerciale pareggiato di Carrara e' riconosciuto come R. scuola di c
 
 ## Art. 2.
 
-Il R. Istituto commerciale di Carrara sara' governato con le disposizioni della [legge 14 luglio 1912, numero 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), della [legge 7 aprile 1921, n. 439](Che%20converte%20in%20legge%20il%20R.%20decreto%208%20luglio%201919%20n.%201323%20concernente%20miglioramenti%20economici%20al%20personale%20delle%20Ragie%20scuole%20medie%20di%20commercio%20e%20nuovi%20miglioramenti%20economici%20allo%20stess_a111d49f0943.md) e del regolamento generale per l'istruzione media commerciale approvato con il [R. decreto 13 novembre 1919, n. 2431](Che%20approva%20e%20rende%20esecutivo%20lannesso%20regolamento%20sulla%20istruzione%20media%20commerciale.%20019U2431.md); 
+Il R. Istituto commerciale di Carrara sara' governato con le disposizioni della [legge 14 luglio 1912, numero 854](Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), della [legge 7 aprile 1921, n. 439](Che%20converte%20in%20legge%20il%20R.%20decreto%208%20luglio%201919%20n.%201323%20concernente%20miglioramenti%20economici%20al%20personale%20delle%20Ragie%20scuole%20medie%20di%20commercio%20e%20nuovi%20miglioramenti%20economici%20allo%20stess_a111d49f0943.md) e del regolamento generale per l'istruzione media commerciale approvato con il [R. decreto 13 novembre 1919, n. 2431](../Regi%20decreti/Che%20approva%20e%20rende%20esecutivo%20lannesso%20regolamento%20sulla%20istruzione%20media%20commerciale.%20019U2431.md); 
  
  Ai licenziati del R. Istituto commerciale in Carrara e' rilasciato il diploma di «Ragioniere commerciale».
 

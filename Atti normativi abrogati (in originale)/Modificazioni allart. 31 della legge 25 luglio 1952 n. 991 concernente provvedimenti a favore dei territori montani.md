@@ -23,7 +23,7 @@ Il [quarto comma dell'art. 31 della legge 25 luglio 1952 n. 991](https://www.nor
 
 ## Art. 2.
 
-Per il pagamento dei contributi di cui all'[art. 3 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_3), il limite stabilito dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni, e' elevato rispettivamente a lire 50 milioni ed a lire 70 milioni per ciascun ordine di accreditamento da emettere in favore dei capi degli Ispettorati ripartimentali delle foreste e dei capi degli Ispettorati regionali delle foreste.
+Per il pagamento dei contributi di cui all'[art. 3 della legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991#art_3), il limite stabilito dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, e' elevato rispettivamente a lire 50 milioni ed a lire 70 milioni per ciascun ordine di accreditamento da emettere in favore dei capi degli Ispettorati ripartimentali delle foreste e dei capi degli Ispettorati regionali delle foreste.
 
 ## Art. 3.
 

@@ -12,7 +12,7 @@ vigente: true
 
 Il Governo del Re e' autorizzato a pubblicare le norme per la decisione delle controversie individuali del lavoro, allegate alla presente legge, e ad introdurre nel testo, tenuto conto dei voti del Parlamento, le opportune modificazioni, nonche' quelle che saranno necessarie per coordinare le norme medesime fra di loro e con le disposizioni delle altre leggi vigenti. 
  
- Le norme anzidette sostituiranno quelle emanate con [Regio decreto 26 febbraio 1928, n. 471](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20028U0471.md).
+ Le norme anzidette sostituiranno quelle emanate con [Regio decreto 26 febbraio 1928, n. 471](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20028U0471.md).
 
 ## Art. 2.
 

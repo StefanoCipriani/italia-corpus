@@ -14,7 +14,7 @@ N.
 
 2276.
 
-R. decreto 22 novembre 1937, col quale sulla proposta del Ministro per l'educazione nazionale, vengono modificati gli articoli 2 e 5 dello statuto della Cassa scolastica del Regio liceo-ginnasio «G. D. Romagnosi» di Parma, gia' approvato con [R. decreto 29 settembre 1927, numero 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-29;1991). 
+R. decreto 22 novembre 1937, col quale sulla proposta del Ministro per l'educazione nazionale, vengono modificati gli articoli 2 e 5 dello statuto della Cassa scolastica del Regio liceo-ginnasio «G. D. Romagnosi» di Parma, gia' approvato con [R. decreto 29 settembre 1927, numero 1991](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Cassa%20scolastica%20del%20Regio%20liceo%20ginnasio%20G.%20D.%20Romagnosi%20in%20Parma.%20027U1991.md). 
  
  Visto, il Guardasigilli: SOLMI. 
  

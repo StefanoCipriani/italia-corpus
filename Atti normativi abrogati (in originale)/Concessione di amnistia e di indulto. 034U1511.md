@@ -12,7 +12,7 @@ vigente: true
 
 Sono condonate, se di durata non superiore a due anni e sono ridotte di due anni, se di durata superiore, le pene detentive inflitte o da infliggere; sono altresi' condonate le pene pecuniarie. 
  
- Per il reato di espatrio clandestino, preveduto dall'[articolo 158 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_158), approvato con [R. decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e per i reati in materia di emigrazione, preveduti dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-24;1278#art_1) e [2, comma 1, della legge 24 luglio 1930, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-24;1278#art_2-com1), e' concessa amnistia. 
+ Per il reato di espatrio clandestino, preveduto dall'[articolo 158 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e per i reati in materia di emigrazione, preveduti dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-24;1278#art_1) e [2, comma 1, della legge 24 luglio 1930, n. 1278](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-24;1278#art_2-com1), e' concessa amnistia. 
  
  I benefici preveduti nei commi precedenti sono revocati di diritto, qualora chi ne ha usufruito commetta un delitto entro il termine di cinque anni dal giorno dell'entrata in vigore del presente decreto.
 
@@ -34,7 +34,7 @@ b) le sanzioni prevedute nell'art. 453 del codice per la marina mercantile.
 
 Sono esclusi dal beneficio conceduto con le precedenti disposizioni coloro che, a tutto il giorno 24 settembre 1934, si trovino sottoposti all'ammonizione o al confino di polizia e coloro che, all'epoca del commesso reato, abbiano riportato due condanne per delitti a pene detentive, di cui una superiore a tre mesi, oppure tre o piu' condanne, per delitti, a pene detentive, qualunque sia la misura di esse. 
  
- Tuttavia non si tiene conto delle condanne per reati estinti da precedenti amnistie e di quelle per le quali siasi verificata la riabilitazione. Non si tiene conto neppure delle condanne alle pene stabilite nei [numeri 3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 dell'art. 4 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+ Tuttavia non si tiene conto delle condanne per reati estinti da precedenti amnistie e di quelle per le quali siasi verificata la riabilitazione. Non si tiene conto neppure delle condanne alle pene stabilite nei [numeri 3](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [4](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 dell'art. 4 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Sono pure esclusi dal beneficio coloro che si trovino in stato di latitanza, salvo che si costituiscano in carcere entro quattro mesi dalla data di entrata in vigore del presente decreto. Questa disposizione non si applica, nel caso in cui la pena sia interamente condonata.
 
@@ -42,19 +42,19 @@ Sono esclusi dal beneficio conceduto con le precedenti disposizioni coloro che, 
 
 L'indulto non si applica: 
  
- 1) ai delitti di spionaggio, anche se colposo, previsti dagli [articoli 257](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [258](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [259 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 1) ai delitti di spionaggio, anche se colposo, previsti dagli [articoli 257](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [258](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [259 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 2) al delitto di associazione per delinquere, previsto dall'[art. 416 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 2) al delitto di associazione per delinquere, previsto dall'[art. 416 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 3) ai delitti contro la integrita' e la sanita' della stirpe, previsti dal Titolo X, Libro II, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 3) ai delitti contro la integrita' e la sanita' della stirpe, previsti dal Titolo X, Libro II, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 4) al delitto di omicidio, previsto nell'[art. 575 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando non siano state applicate circostanze attenuanti; 
+ 4) al delitto di omicidio, previsto nell'[art. 575 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando non siano state applicate circostanze attenuanti; 
  
- 5) ai delitti di rapina, estorsione e di sequestro di persona a scopo di rapina o di estorsione, previsti negli [articoli 628](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [629](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [630 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 5) ai delitti di rapina, estorsione e di sequestro di persona a scopo di rapina o di estorsione, previsti negli [articoli 628](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [629](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [630 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 6) al delitto di autolesionismo previsto nell'[art. 642, comma 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [3](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 6) al delitto di autolesionismo previsto nell'[art. 642, comma 2](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [3](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 7) ai reati concernenti le sostanze stupefacenti, previsti negli [articoli 446](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [447](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [729](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [730 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nel Titolo II, Capo V, Sezione IV, del [Testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [R. decreto 27 luglio 1931, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-27;1265); 
+ 7) ai reati concernenti le sostanze stupefacenti, previsti negli [articoli 446](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [447](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [729](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [730 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e nel Titolo II, Capo V, Sezione IV, del [Testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1931, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-27;1265); 
  
  8) al delitto di bancarotta fraudolenta, previsto nell'articolo 860 del codice di commercio. 
  
@@ -86,13 +86,13 @@ Le disposizioni dell'art 1 non concernono i reati preveduti nelle leggi penali m
 
 L'indulto stabilito nell'art. 1, comma 1, si applica anche alle pene detentive inflitte o da infliggere per reati preveduti dalle leggi penali militari. 
  
- Sono inoltre condonate le pene di cui ai [numeri 4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 dell'art. 4 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+ Sono inoltre condonate le pene di cui ai [numeri 4](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [5](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6 dell'art. 4 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Si osserva la disposizione dell'art. 1, comma 3.
 
 ## Art. 7.
 
-L'indulto conceduto con il precedente articolo non ha effetto relativamente alla perdita del grado conseguente alle pene di cui ai [numeri 4](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [5 dell'art. 4 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito o del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
+L'indulto conceduto con il precedente articolo non ha effetto relativamente alla perdita del grado conseguente alle pene di cui ai [numeri 4](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [5 dell'art. 4 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito o del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 8.
 
@@ -128,7 +128,7 @@ b) legge delle tasse sulle carte da gioco 30 dicembre 1923, n. 3277, limitatamen
 
 Sono condonate le ammende, inflitte o da infliggere, per le infrazioni agli articoli seguenti del testo approvato con [R. decreto 17 settembre 1931, n. 1608: 
  
- a) articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_15) e [24, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_24-num4), per omessa dichiarazione dei redditi; 
+ a) articoli 15](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md) e [24, n. 4](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per omessa dichiarazione dei redditi; 
  
  b) art. 19 per l'occultamento da parte degli operai al datore di lavoro del proprio stato di celibato, ovvero per aver dichiarato al datore di lavoro od all'ufficio delle imposte una eta' diversa dalla vera; 
  
@@ -250,7 +250,7 @@ E' in facolta' del Ministro competente di concedere la reintegrazione nel grado 
 
 ## Art. 20.
 
-Il condono di cui all'art. 17 non si estende a coloro che abbiano usufruito o debbano usufruire dei benefici concessi dal [R. decreto 5 novembre 1932, n. 1407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-05;1407), fatta eccezione per le punizioni indicate al n. 4 dell'articolo stesso; e non importa il riesame dei vincoli di rafferma in corso, ne' delle esclusioni dall'avanzamento gia' determinate dalle competenti commissioni.
+Il condono di cui all'art. 17 non si estende a coloro che abbiano usufruito o debbano usufruire dei benefici concessi dal [R. decreto 5 novembre 1932, n. 1407](../Regi%20decreti/Provvedimenti%20di%20clemenza%20per%20mancanze%20commesse%20da%20militari%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20032U1407.md), fatta eccezione per le punizioni indicate al n. 4 dell'articolo stesso; e non importa il riesame dei vincoli di rafferma in corso, ne' delle esclusioni dall'avanzamento gia' determinate dalle competenti commissioni.
 
 ## Art. 21.
 

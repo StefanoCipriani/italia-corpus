@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 5 luglio 1923, n. 1773](Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), relativo al passaggio alle Provincie del servizio di accasermamento dei carabinieri Reali
+Visto il [R. decreto 5 luglio 1923, n. 1773](../Regi%20decreti/Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), relativo al passaggio alle Provincie del servizio di accasermamento dei carabinieri Reali
 
 Considerato che col Regio decreto stesso non venne determinata la competenza degli oneri per le spese che non vennero comprese nel preventivo perche' non potevano essere previste all'atto della compilazione del preventivo triennale cui all'art. 4 del Regio decreto suddetto;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Tutte le spese che venissero eventualmente a verificarsi durante il triennio e non comprese nel preventivo cui al [Regio decreto 5 luglio 1923, n. 1773](Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), perche' imprevedibili all'atto della compilazione del preventivo stesso, saranno rimborsate alle Provincie, purche', pero', siano state previamente autorizzate dal Ministero dell'interno.
+Tutte le spese che venissero eventualmente a verificarsi durante il triennio e non comprese nel preventivo cui al [Regio decreto 5 luglio 1923, n. 1773](../Regi%20decreti/Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), perche' imprevedibili all'atto della compilazione del preventivo stesso, saranno rimborsate alle Provincie, purche', pero', siano state previamente autorizzate dal Ministero dell'interno.
 
 ## Art. 2.
 

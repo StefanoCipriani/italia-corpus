@@ -24,13 +24,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R decreto n. 703, in data 22 maggio 1915](Che%20considera%20in%20stato%20di%20guerra%20i%20territi%20di%20alcune%20proncie%20del%20Regno.%20015U0703.md), col quale viene dichiarato lo stato di guerra; 
+ Visto il [R decreto n. 703, in data 22 maggio 1915](../Regi%20decreti/Che%20considera%20in%20stato%20di%20guerra%20i%20territi%20di%20alcune%20proncie%20del%20Regno.%20015U0703.md), col quale viene dichiarato lo stato di guerra; 
  
  Considerato che durante tale periodo il Governo del Re ha in massima deciso di non bandire concorsi per l'ammissione a pubblici impieghi; 
  
  Visto il testo unico delle leggi sullo stato degli impiegati civili ed il regolamento generale per la sua applicazione, approvati con RR. decreti numeri 693 e 756, in data 22 e 24 novembre 1908; 
  
- Visto il regolamento speciale per gli impiegati del corpo delle capitanerie di porto, approvato con [R. decreto 9 agosto 1910, n. 667](Che%20approva%20lannesso%20regolamento%20per%20gli%20impiegati%20del%20corpo%20delle%20Capitanerie%20di%20porto%20e%20pei%20commessi%20delle%20Capitanerie%20di%20porto.%20010U0667.md), modificato dai RR. decreti 6 agosto 1911, n. 949 e 4 agosto 1913, n. 1003; 
+ Visto il regolamento speciale per gli impiegati del corpo delle capitanerie di porto, approvato con [R. decreto 9 agosto 1910, n. 667](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20impiegati%20del%20corpo%20delle%20Capitanerie%20di%20porto%20e%20pei%20commessi%20delle%20Capitanerie%20di%20porto.%20010U0667.md), modificato dai RR. decreti 6 agosto 1911, n. 949 e 4 agosto 1913, n. 1003; 
  
  Considerato che nel concorso per il conferimento di 12 posti di applicato di porto di 3ª classe, indetto con decreto Ministeriale 9 marzo 1915, oltre i dodici vincitori del concorso stesso, compresi nella graduatoria approvata con decreto Ministeriale 9 giugno 1915, furono riconosciuti e classificati idonei quattordici altri concorrenti; 
  

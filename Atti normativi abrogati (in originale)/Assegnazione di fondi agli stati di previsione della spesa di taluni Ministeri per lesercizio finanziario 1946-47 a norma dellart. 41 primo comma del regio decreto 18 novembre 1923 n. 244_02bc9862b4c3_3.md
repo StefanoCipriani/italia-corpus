@@ -12,7 +12,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto l'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visti i [decreti legislativi del Capo provvisorio dello Stato 6 settembre 1946, nn. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;127), [130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;130), [136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;136), [139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;139), [140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;140) e [141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;141);
  Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
  Sentito il Consiglio dei Ministri;

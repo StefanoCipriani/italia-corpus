@@ -535,7 +535,7 @@ La durata minima del ciclo di formazione universitaria di cui al comma 3, puo' e
 
 1.
 
-Coloro che alla data di entrata in vigore del presente decreto esercitino le attivita' della persona qualificata di cui all'art. 13 in officine di produzione di specialita' medicinali, autorizzate ai sensi degli [articoli 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_161) e [180 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_180), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), possono continuare l'attivita' medesima anche in mancanza dei requisiti previsti dall'art. 15.
+Coloro che alla data di entrata in vigore del presente decreto esercitino le attivita' della persona qualificata di cui all'art. 13 in officine di produzione di specialita' medicinali, autorizzate ai sensi degli [articoli 161](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [180 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), possono continuare l'attivita' medesima anche in mancanza dei requisiti previsti dall'art. 15.
 
 ## COMITATO PER I MEDICINALI VETERINARI
 

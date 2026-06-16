@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27);
+Visto il [R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per gli affari di
 
 ## Art. 1.
 
-E' data facolta' al Ministro per la grazia e giustizia di aumentare nel limite massimo del doppio, il numero dei posti di uditore giudiziario messi a concorso con il decreto Ministeriale 25 agosto 1945, anche in deroga alle disposizioni di cui all'[art. 1 del R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_1).
+E' data facolta' al Ministro per la grazia e giustizia di aumentare nel limite massimo del doppio, il numero dei posti di uditore giudiziario messi a concorso con il decreto Ministeriale 25 agosto 1945, anche in deroga alle disposizioni di cui all'[art. 1 del R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md).
 
 ## Art. 2.
 

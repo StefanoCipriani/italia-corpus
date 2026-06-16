@@ -207,7 +207,7 @@ Tale concessione non puo' pero' essere rinnovata nell'anno successivo.
 
 Per cio' che concerne i doveri dei professori di ruolo e le punizioni disciplinari che possono loro essere inflitte si applicano le disposizioni degli articoli da 23 a 31 incluso e dell'[art. 34 del Regio decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
- Ai professori stessi sono applicabili, in quanto non contrastino col precedente comma, le disposizioni di cui agli articoli 46, 47, comma 1°, 49, 63, ad eccezione dei comma 1°, 8° e 10° e 66 del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato. Non sono invece applicabili le disposizioni di cui all'art. 53 del citato decreto.
+ Ai professori stessi sono applicabili, in quanto non contrastino col precedente comma, le disposizioni di cui agli articoli 46, 47, comma 1°, 49, 63, ad eccezione dei comma 1°, 8° e 10° e 66 del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato. Non sono invece applicabili le disposizioni di cui all'art. 53 del citato decreto.
 
 ### Art. 22.
 

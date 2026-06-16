@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 1 del regio decreto legislativo 31 maggio 1946, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;560#art_1), sulla riforma dell'ordinamento delle Corti di assise;
+Visto l'[art. 1 del regio decreto legislativo 31 maggio 1946, n. 560](../Regi%20decreti%20legislativi/Riforma%20dellordinamento%20della%20Corte%20di%20assise.md), sulla riforma dell'ordinamento delle Corti di assise;
 
 Sentito il Consiglio dei Ministri;
 

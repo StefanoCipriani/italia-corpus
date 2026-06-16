@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  In virtu' dei poteri conferiti al Governo col [R. decreto-legge 17 marzo 1927, n. 383](Facolta%20al%20Governo%20del%20Re%20di%20provvedere%20ad%20una%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20027U0383.md), convertito nella [legge 7 giugno 1928, n. 1382](Conversione%20in%20legge%20del%20R.%20decreto-legge%2017%20marzo%201927%20n.%20383%20recante%20provvedimenti%20per%20la%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20028U1382.md); 
  
- Veduto il [R. decreto 29 luglio 1927, n. 1530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1530), che modifica le circoscrizioni dei comuni di Civitavecchia e Tolfa; 
+ Veduto il [R. decreto 29 luglio 1927, n. 1530](../Regi%20decreti/Modificazione%20delle%20circoscrizioni%20dei%20comuni%20di%20Civitavecchia%20e%20di%20Tolta.%20027U1530.md), che modifica le circoscrizioni dei comuni di Civitavecchia e Tolfa; 
  
  Ritenuto che alcuni errori riscontrati nella pianta topografica richiamata nell'art. 3 del precitato decreto rendono necessario di sostituire detta pianta con altra; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Alla pianta topografica richiamata nell'[art. 3 del R. decreto 29 luglio 1927, n. 1530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1530#art_3), e' sostituita l'annessa pianta vistata dall'ingegnere capo dell'ufficio del Genio civile di Roma e vidimata, d'ordine Nostro, dal Ministro proponente. 
+ Alla pianta topografica richiamata nell'[art. 3 del R. decreto 29 luglio 1927, n. 1530](../Regi%20decreti/Modificazione%20delle%20circoscrizioni%20dei%20comuni%20di%20Civitavecchia%20e%20di%20Tolta.%20027U1530.md), e' sostituita l'annessa pianta vistata dall'ingegnere capo dell'ufficio del Genio civile di Roma e vidimata, d'ordine Nostro, dal Ministro proponente. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157), approvate con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, numero 61, che contengono disposizioni per diminuire le cause della malaria; 
+ Veduto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvate con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, numero 61, che contengono disposizioni per diminuire le cause della malaria; 
  
  Visti l'[art. 7 del decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910#art_7), e il Nostro decreto 30 dicembre 1923, n. 2889, che apporta modifiche nell'ordinamento sanitario del Regno; 
  

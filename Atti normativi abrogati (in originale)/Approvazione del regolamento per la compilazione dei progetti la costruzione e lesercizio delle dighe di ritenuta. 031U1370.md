@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [R. decreto 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-09;2161), convertito nella [legge 18 dicembre 1927, n. 2595](Convalidazione%20dei%20decreti-legge%20concernenti%20le%20derivazioni%20e%20utilizzazioni%20dacque%20pubbliche%20e%20delega%20al%20Governo%20di%20emanare%20un%20testo%20unico%20di%20legge%20contenente%20disposizioni%20riguardanti%20le%20_0189d862f685.md), ed il regolamento approvato con [R. decreto 14 agosto 1920, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1285), sulle derivazioni ed utilizzazioni di acque pubbliche;
+Visti il [R. decreto 9 ottobre 1919, n. 2161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-09;2161), convertito nella [legge 18 dicembre 1927, n. 2595](Convalidazione%20dei%20decreti-legge%20concernenti%20le%20derivazioni%20e%20utilizzazioni%20dacque%20pubbliche%20e%20delega%20al%20Governo%20di%20emanare%20un%20testo%20unico%20di%20legge%20contenente%20disposizioni%20riguardanti%20le%20_0189d862f685.md), ed il regolamento approvato con [R. decreto 14 agosto 1920, n. 1285](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20derivazioni%20e%20utilizzazioni%20di%20acque%20pubbliche.%20020U1285.md), sulle derivazioni ed utilizzazioni di acque pubbliche;
 
 Visto il [R. decreto 31 dicembre 1925, n. 2540](Approvazione%20del%20regolamento%20per%20i%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.%20025U2540.md), col quale fu approvato il regolamento per la compilazione dei progetti, la costruzione e l'esercizio delle dighe di ritenuta;
 

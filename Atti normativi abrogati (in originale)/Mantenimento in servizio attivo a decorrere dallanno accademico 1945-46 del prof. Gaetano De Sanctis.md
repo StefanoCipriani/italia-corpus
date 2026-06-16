@@ -20,7 +20,7 @@ Visto il [decreto-legge Luogotenenziale 2 giugno 1944, n. 151](https://www.norma
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Visto il [decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md);
 

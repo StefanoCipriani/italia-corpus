@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il R. decreto 20 marzo 1933-XI, n. 702, che approva l'Ordinamento sanitario per le Colonie;
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con il decreto 27 luglio 1934, n. 1265;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con il decreto 27 luglio 1934, n. 1265;
 
 Visto l'[art. 44 del R. decreto-legge 3 dicembre 1934, n. 2012](Ordinamento%20organico%20per%20lamministrazione%20della%20Libia.%20034U2012.md), convertito nella [legge 11 aprile 1935, n. 675](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%202012%20riflettente%20lordinamento%20organico%20per%20lAmministrazione%20della%20Libia.%20035U0675.md), sull'ordinamento organico per la Libia;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Il Ministro per le colonie e' autorizzato ad emanare provvedimenti che diano applicazione, nella Colonia Libica, alle nuove disposizioni introdotte nel [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e adeguino i servizi di vigilanza ed assistenza sanitaria all'ordinamento amministrativo, anche in deroga delle disposizioni approvate col R. decreto 20 marzo 1933-XI, n. 702, per l'ordinamento sanitario nelle Colonie.
+Il Ministro per le colonie e' autorizzato ad emanare provvedimenti che diano applicazione, nella Colonia Libica, alle nuove disposizioni introdotte nel [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e adeguino i servizi di vigilanza ed assistenza sanitaria all'ordinamento amministrativo, anche in deroga delle disposizioni approvate col R. decreto 20 marzo 1933-XI, n. 702, per l'ordinamento sanitario nelle Colonie.
 
 ## Art. 2.
 

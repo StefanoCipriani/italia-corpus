@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 28 gennaio 1929, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;192);
+Visto il [regio decreto 28 gennaio 1929, n. 192](../Regi%20decreti/Istituzione%20in%20Roma%20ed%20erezione%20in%20ente%20morale%20della%20%20Fondazione%20nazionale%20Figli%20del%20Littorio%20%20e%20approvazione%20del%20relativo%20statuto.%20029U0192.md);
 
-Visto il [regio decreto 12 gennaio 1933, n. 37](Approvazione%20dello%20statuto%20della%20Fondazione%20nazionale%20Figli%20del%20Littorio.%20033U0037.md);
+Visto il [regio decreto 12 gennaio 1933, n. 37](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Fondazione%20nazionale%20Figli%20del%20Littorio.%20033U0037.md);
 
-Visto il [regio decreto 7 maggio 1942, n. 743](Fondazione%20della%20Gioventu%20Italiana%20del%20Littorio%20allEstero%20G.I.L.E..%20042U0743.md);
+Visto il [regio decreto 7 maggio 1942, n. 743](../Regi%20decreti/Fondazione%20della%20Gioventu%20Italiana%20del%20Littorio%20allEstero%20G.I.L.E..%20042U0743.md);
 
 Visto il [regio decreto-legge 2 agosto 1943, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-08-02;704);
 

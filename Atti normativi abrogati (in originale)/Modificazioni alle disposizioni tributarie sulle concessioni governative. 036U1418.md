@@ -49,7 +49,7 @@ Sulla proposta del Nostro Segretario di Stato Ministro per le finanze, d'intesa 
  
  - Salvo quanto e' disposto nell'[art. 22 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_22), e nelle relative norme di attuazione, per la decisione delle controversie amministrative relative alle tasse contemplate da questa legge, si applicano le disposizioni della legge sulle tasse di registro. 
  
- «Per la esazione coattiva delle tasse si applicano le disposizioni del testo unico approvato con [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639)». 
+ «Per la esazione coattiva delle tasse si applicano le disposizioni del testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md)». 
  
  «Art. 30. - Agli effetti della legge penale le marche e i valori relativi alle tasse sulle concessioni governative sono parificati alle marche ed ai valori contemplati dalla legge sul bollo». 
  

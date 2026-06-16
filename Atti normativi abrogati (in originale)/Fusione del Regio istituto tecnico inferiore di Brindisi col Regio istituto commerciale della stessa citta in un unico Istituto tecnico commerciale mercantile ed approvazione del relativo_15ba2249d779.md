@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%
 
 Visto il [R. decreto 28 maggio 1925, n. 1190](Approvazione%20del%20regolamento%20sullistruzione%20media%20commerciale.%20025U1190.md):
 
-Visto il [R. decreto 30 settembre 1926, n. 1773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-30;1773), col quale venne istituito il Regio istituto commerciale di Brindisi;
+Visto il [R. decreto 30 settembre 1926, n. 1773](../Regi%20decreti/Istituzione%20di%20un%20Regio%20istituto%20commerciale%20in%20Brindisi.%20026U1773.md), col quale venne istituito il Regio istituto commerciale di Brindisi;
 
 Visto il decreto Ministeriale 13 dicembre 1926; col quale venne approvata la tabella organica del personale del Regio istituto commerciale di Brindisi;
 

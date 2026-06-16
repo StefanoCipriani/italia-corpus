@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- In esecuzione dell'[articolo 1 del Regio Decreto 6 agosto 1868, n. 4530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-08-06;4530#art_1), saranno ammessi al concorso per la carriera consolare, giusta la Legge consolare del 28 gennaio 1866, coloro che abbiano ottenuto l'attestato 
+ In esecuzione dell'[articolo 1 del Regio Decreto 6 agosto 1868, n. 4530](../Regi%20decreti/Che%20approva%20lo%20statuto%20per%20la%20fondazione%20in%20Venezia%20dun%20Istituto%20che%20assumera%20il%20titolo%20di%20Regia%20Scuola%20superiore%20di%20commercio.%20068U4530.md), saranno ammessi al concorso per la carriera consolare, giusta la Legge consolare del 28 gennaio 1866, coloro che abbiano ottenuto l'attestato 
  
  di licenza dalla Scuola superiore di commercio, in Venezia, Sezione degli studi per la carriera consolare, i programmi della quale sieno, per questa parte, approvati anche dal Ministero dell'Istruzione Pubblica, che potra' egualmente fare ispezionare gli esami di licenza della suddetta Sezione. 
  

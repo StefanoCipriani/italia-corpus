@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 7 marzo 1929, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-07;442), col quale i comuni di Perloz e di Pont S. Martin venivano riuniti in un solo comune denominato Ponte San Martino, con sede a Pont S. Martin; 
+ Visto il [R. decreto 7 marzo 1929, n. 442](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Perloz%20nonche%20di%20parte%20del%20territorio%20dei%20comuni%20di%20Donnaz%20e%20Carema%20al%20comune%20di%20Pont-Saint-Martin%20che%20assume%20la%20denominazione%20di%20Ponte%20San%20Martino.%20029U0442.md), col quale i comuni di Perloz e di Pont S. Martin venivano riuniti in un solo comune denominato Ponte San Martino, con sede a Pont S. Martin; 
  
  Vista la deliberazione del commissario prefettizio di detto Comune con la quale si chiede che per tutto il territorio del comune di Ponte San Martino funzioni un solo ufficio di conciliazione; 
  

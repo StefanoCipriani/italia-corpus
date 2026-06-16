@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto lo statuto dell'istituto nazionale di previdenza dei giornalisti italiani, approvato con [regio decreto 1° maggio 1941, n. 529](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20Arnaldo%20Mussolini%20in%20Roma.%20041U0529.md);
+Visto lo statuto dell'istituto nazionale di previdenza dei giornalisti italiani, approvato con [regio decreto 1° maggio 1941, n. 529](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20Arnaldo%20Mussolini%20in%20Roma.%20041U0529.md);
 
 Visto il regolamento per l'applicazione dello statuto predetto, approvato con decreto interministeriale 10 dicembre 1941;
 

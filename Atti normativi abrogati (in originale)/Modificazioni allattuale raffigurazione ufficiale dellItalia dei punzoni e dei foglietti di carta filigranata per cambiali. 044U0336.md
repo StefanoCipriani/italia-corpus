@@ -16,7 +16,7 @@ La forma e i distintivi dei punzoni per il bollo ordinario e straordinario saran
 
 ## Art. 2.
 
-La raffigurazione ufficiale dell'Italia e la parte ornamentale che la circonda impresse sui foglietti di carta filigranata bollati a tassa graduale per cambiali saranno conformi al modello contenuto nella tabella B annessa al presente decreto, riportandole come erano prima della modificazione determinata con i citati [Regi decreti 22 ottobre 1936, n. 1998](Nuova%20raffigurazione%20ufficiale%20dellItalia%20nei%20punzoni%20per%20il%20bollo%20ordinario%20e%20straordinario.%20036U1998.md), e [27 ottobre 1937, numero 1950](Modificazione%20delle%20caratteristiche%20dei%20foglietti%20di%20carta%20filigranata%20bollati%20a%20tassa%20graduale%20per%20cambiali.%20037U1950.md). 
+La raffigurazione ufficiale dell'Italia e la parte ornamentale che la circonda impresse sui foglietti di carta filigranata bollati a tassa graduale per cambiali saranno conformi al modello contenuto nella tabella B annessa al presente decreto, riportandole come erano prima della modificazione determinata con i citati [Regi decreti 22 ottobre 1936, n. 1998](../Regi%20decreti/Nuova%20raffigurazione%20ufficiale%20dellItalia%20nei%20punzoni%20per%20il%20bollo%20ordinario%20e%20straordinario.%20036U1998.md), e [27 ottobre 1937, numero 1950](../Regi%20decreti/Modificazione%20delle%20caratteristiche%20dei%20foglietti%20di%20carta%20filigranata%20bollati%20a%20tassa%20graduale%20per%20cambiali.%20037U1950.md). 
  
  Le altre caratteristiche contenute negli attuali foglietti rimangono invariate.
 

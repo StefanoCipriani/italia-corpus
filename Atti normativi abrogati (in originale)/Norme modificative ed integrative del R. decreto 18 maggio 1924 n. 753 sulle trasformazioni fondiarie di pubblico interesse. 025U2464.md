@@ -108,7 +108,7 @@ Con decreto Reale, su proposta dei Ministri per i lavori pubblici e per l'econom
  
  Quando siano discussi affari rientranti nella competenza territoriale dei Provveditorati alle opere pubbliche pel Mezzogiorno e le Isole, interverra' alle adunanze il provveditore o, in suo luogo, il vice provveditore, con voto deliberativo. 
  
- Alle adunanze del Comitato sara' pure chiamato a partecipare, ma soltanto con voto consultivo, un rappresentante dell'istituto di credito autorizzato a concedere, nel comprensorio da trasformare, i mutui di favore previsti dal [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
+ Alle adunanze del Comitato sara' pure chiamato a partecipare, ma soltanto con voto consultivo, un rappresentante dell'istituto di credito autorizzato a concedere, nel comprensorio da trasformare, i mutui di favore previsti dal [R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
 
 ## Art. 9.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale 8 giugno 1919, numero 925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-08;925);
 
-Visto il [R. decreto 11 agosto 1919, n. 1584](Che%20modifica%20lart.%207%20del%20decreto%20Luogotenenziale%208%20giugno%201919%20n.%20925%20estendendosi%20la%20competenza%20del%20Comitato%20governativo%20per%20la%20riparazione%20dei%20danni%20di%20guerra%20anche%20alla%20regione%20di%20Brescia.%20019U1584.md);
+Visto il [R. decreto 11 agosto 1919, n. 1584](../Regi%20decreti/Che%20modifica%20lart.%207%20del%20decreto%20Luogotenenziale%208%20giugno%201919%20n.%20925%20estendendosi%20la%20competenza%20del%20Comitato%20governativo%20per%20la%20riparazione%20dei%20danni%20di%20guerra%20anche%20alla%20regione%20di%20Brescia.%20019U1584.md);
 
 Visto il [R. decreto 18 gennaio 1920, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-18;74);
 

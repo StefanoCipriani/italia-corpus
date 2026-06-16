@@ -54,7 +54,7 @@ Per le spese ed onorari dovuti alla persone indicate nell'[art. 103 del Codice d
  
  Anche gli avvocati per il pagamento degli onorari loro dovuti dalle parti possono valersi del procedimento stabilito da questo articolo, previo parere del Consiglio dell' Ordine degli avvocati. 
  
- Dello stesso procedimento possono valersi i difensori ufficiosi pel pagamento delle competenze loro dovute dalle parti soccombenti a norma dell'[art 28 R decreto 6 dicembre 1865, n. 2627](Col%20quale%20e%20regolato%20il%20gratuito%20patrocinio%20dei%20poveri.%20065U2627.md).
+ Dello stesso procedimento possono valersi i difensori ufficiosi pel pagamento delle competenze loro dovute dalle parti soccombenti a norma dell'[art 28 R decreto 6 dicembre 1865, n. 2627](../Regi%20decreti/Col%20quale%20e%20regolato%20il%20gratuito%20patrocinio%20dei%20poveri.%20065U2627.md).
 
 ## Art. 4.
 

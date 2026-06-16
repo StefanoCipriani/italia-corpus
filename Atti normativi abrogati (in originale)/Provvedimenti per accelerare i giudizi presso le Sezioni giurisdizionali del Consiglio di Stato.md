@@ -25,12 +25,12 @@ PROMULGA Il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 ## Art. 1.
 
 E' istituita, senza aumento di posti, una terza Sezione del Consiglio di Stato in sede giurisdizionale, che assume la denominazione di Sezione sesta.
- Gli affari attualmente devoluti alla Sezione dell'Africa italiana, istituita con [regio decreto-legge 6 febbraio 1939, n. 478](Istituzione%20di%20una%20nuova%20Sezione%20presso%20il%20Consiglio%20di%20Stato%20per%20gii%20affari%20dellAfrica%20Italiana.%20039U0478.md), sono assegnati alle altre Sezioni consultive, con le modalita' previste dai primo comma dell'art. 9 del testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054).
+ Gli affari attualmente devoluti alla Sezione dell'Africa italiana, istituita con [regio decreto-legge 6 febbraio 1939, n. 478](Istituzione%20di%20una%20nuova%20Sezione%20presso%20il%20Consiglio%20di%20Stato%20per%20gii%20affari%20dellAfrica%20Italiana.%20039U0478.md), sono assegnati alle altre Sezioni consultive, con le modalita' previste dai primo comma dell'art. 9 del testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md).
  I componenti della sesta Sezione giurisdizionale concorrono a costituire l'Adunanza plenaria secondo le disposizioni del terzo comma dell'art. 45 del testo unico predetto.
 
 ## Art. 2.
 
-Sulle domande incidentali di sospensione il Consiglio di Stato in sede giurisdizionale provvede, con ordinanza della Sezione o dell'Adunanza plenaria, entro i termini stabiliti dall'art. 36 del regolamento per la procedura dinanzi al Consiglio di Stato in sede giurisdizionale, approvato con [regio decreto 17 agosto 1907, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;642).
+Sulle domande incidentali di sospensione il Consiglio di Stato in sede giurisdizionale provvede, con ordinanza della Sezione o dell'Adunanza plenaria, entro i termini stabiliti dall'art. 36 del regolamento per la procedura dinanzi al Consiglio di Stato in sede giurisdizionale, approvato con [regio decreto 17 agosto 1907, n. 642](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0642.md).
  Tuttavia, ove il Collegio lo ravvisi necessario, possono essere uditi in Camera di consiglio, gli avvocati delle parti.
 
 ## Art. 3.

@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%
 
 Visto il [R. decreto 28 maggio 1925, n. 1190](Approvazione%20del%20regolamento%20sullistruzione%20media%20commerciale.%20025U1190.md);
 
-Visto il [R. decreto 20 agosto 1923, n. 2461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-20;2461), col quale venne regificata la pubblica Scuola di commercio di Gorizia, assumendo il nome di R. Scuola commerciale;
+Visto il [R. decreto 20 agosto 1923, n. 2461](../Regi%20decreti/Istituzione%20in%20Ente%20autonomo%20con%20personalita%20giuridica%20della%20pubblica%20scuola%20di%20commercio%20in%20Gorizia.%20023U2461.md), col quale venne regificata la pubblica Scuola di commercio di Gorizia, assumendo il nome di R. Scuola commerciale;
 
 Visto il [R. decreto 11 giugno 1925, n. 1052](Trasformazione%20della%20Regia%20scuola%20commerciale%20di%20Gorizia%20in%20Regio%20istituto%20commerciale%20con%20annessa%20scuola%20commerciale.%20025U1052.md), col quale la Regia scuola predetta venne trasformata in R. Istituto commerciale di Gorizia, con la Regia scuola commerciale annessa;
 

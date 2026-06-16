@@ -27,7 +27,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le fo
 ## Articolo unico.
 
 Viene abrogato il comma f) dell'[art. 6 del R. decreto-legge 4 maggio 1924, n. 754](Modificazioni%20alla%20legge%2024%20giugno%201923%20n.%201420%20sulla%20caccia.%20024U0754.md), concernente la caccia sul suolo coperto di neve.
-La caccia medesima rimane, percio', regolata dal comma f) dell'[art. 22 della legge 24 giugno 1923, n. 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), e dall'art. 55 del regolamento approvato con [R. decreto 24 settembre 1923, n. 2448](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20giugno%201923%20n.%201420%20recante%20provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U2448.md), per l'esecuzione della legge stessa. 
+La caccia medesima rimane, percio', regolata dal comma f) dell'[art. 22 della legge 24 giugno 1923, n. 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), e dall'art. 55 del regolamento approvato con [R. decreto 24 settembre 1923, n. 2448](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20giugno%201923%20n.%201420%20recante%20provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U2448.md), per l'esecuzione della legge stessa. 
  
  Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. 
  

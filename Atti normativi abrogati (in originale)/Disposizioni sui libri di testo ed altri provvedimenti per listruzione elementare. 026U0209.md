@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), col quale viene approvato il testo unico delle leggi sull'istruzione elementare, post-elementare e sulle sue opere d'integrazione;
+Veduto il [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), col quale viene approvato il testo unico delle leggi sull'istruzione elementare, post-elementare e sulle sue opere d'integrazione;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,13 +22,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-All'art. 186 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' aggiunto il seguente comma: 
+All'art. 186 del testo unico approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), e' aggiunto il seguente comma: 
  
  «La disposizione del comma precedente e' estesa dall'anno 1925-26 ai libri di cultura generale per i corsi integrativi di avviamento professionale».
 
 ## Art. 2.
 
-Gli articoli 188, 190, 192 e 193 del testo unico delle leggi sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato col [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono soppressi.
+Gli articoli 188, 190, 192 e 193 del testo unico delle leggi sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato col [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), sono soppressi.
 
 ## Art. 3.
 
@@ -72,7 +72,7 @@ Tra i componenti della Commissione centrale, i quali partecipino ai lavori della
 
 Tanto i membri del Consiglio scolastico quante quelli del Consiglio di disciplina restano in carica per un biennio e sono riconfermabili. 
  
- Sono abrogate le disposizioni degli articoli 2, comma terzo, e 4, comma terzo, del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md). 
+ Sono abrogate le disposizioni degli articoli 2, comma terzo, e 4, comma terzo, del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md). 
  
  Nella prima applicazione della presente disposizione, la decadenza dei componenti dei consessi sopraindicati avra' luogo il 31 marzo 1926.
 

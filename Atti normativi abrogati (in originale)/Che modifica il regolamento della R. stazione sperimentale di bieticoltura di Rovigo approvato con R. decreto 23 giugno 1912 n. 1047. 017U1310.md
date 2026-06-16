@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Viste le [leggi 17 luglio 1910, n. 547, e 8 giugno 1911, n. 550](Che%20reca%20i%20provvedimenti%20per%20estendere%20lazione%20della%20R.%20stazione%20sperimentale%20di%20granicoltura%20di%20Rieti.%20011U0550.md); 
  
- Visto il [R. decreto 23 giugno 1912, n. 1047](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20la%20R.%20stazione%20di%20bieticultura%20di%20Rovigo.%20012U1047.md); 
+ Visto il [R. decreto 23 giugno 1912, n. 1047](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20regolamento%20per%20la%20R.%20stazione%20di%20bieticultura%20di%20Rovigo.%20012U1047.md); 
  
  Vista la deliberazione 2 maggio 1917, del Comitato amministrativo della R. stazione sperimentale di bieticoltura di Rovigo; 
  
@@ -40,7 +40,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- All'art. 7 del regolamento per la R. stazione sperimentale di bieticoltura di Rovigo, approvato con [R. decreto del 23 giugno 1912, n. 1047](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20la%20R.%20stazione%20di%20bieticultura%20di%20Rovigo.%20012U1047.md), e' sostituito il seguente: 
+ All'art. 7 del regolamento per la R. stazione sperimentale di bieticoltura di Rovigo, approvato con [R. decreto del 23 giugno 1912, n. 1047](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20regolamento%20per%20la%20R.%20stazione%20di%20bieticultura%20di%20Rovigo.%20012U1047.md), e' sostituito il seguente: 
  
  «Il Comitato amministrativo della stazione e' composto: 
  

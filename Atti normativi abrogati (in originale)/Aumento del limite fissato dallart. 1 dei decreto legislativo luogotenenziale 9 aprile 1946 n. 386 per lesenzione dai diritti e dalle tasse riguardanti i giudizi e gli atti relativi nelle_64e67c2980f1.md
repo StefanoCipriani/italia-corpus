@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md);
+Visto il [regio decreto 21 maggio 1934, n. 1073](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md);
 
 Visto il [decreto legislativo luogotenenziale 9 aprile 1946, n. 386](../Decreti%20legislativi%20luogotenenziali/Aumento%20del%20limite%20fissato%20dallart.%2027%20del%20R.%20decreto%2021%20maggio%201934%20n.%201073%20per%20lesenzione%20dal%20diritti%20e%20dall%20tasse%20riguardanti%20i%20giudizi%20e%20gli%20atti%20nelle%20controversie%20individuali%20di%20lavoro.md);
 

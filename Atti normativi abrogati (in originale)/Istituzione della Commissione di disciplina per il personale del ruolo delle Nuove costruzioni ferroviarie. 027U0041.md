@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 4 agosto 1924, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-04;1262), contenente le norme per il passaggio al Ministero dei lavori pubblici degli uffici e del personale delle Nuove costruzioni ferroviarie;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), recante disposizioni sullo stato giuridico degli impiegati civili delle Amministrazioni dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), recante disposizioni sullo stato giuridico degli impiegati civili delle Amministrazioni dello Stato;
 
 Visto il [R. decreto 25 marzo 1926, n. 548](Istituzione%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20della%20Direzione%20generale%20delle%20Nuove%20costruzioni%20ferroviarie.%20026U0548.md), riguardante la istituzione presso il Ministero dei lavori pubblici della Direzione generale delle Nuove costruzioni ferroviarie e la sistemazione organica del personale addettovi;
 
@@ -46,7 +46,7 @@ La competenza a giudicare delle mancanze disciplinari del personale del ruolo de
 
 ## Art. 3.
 
-Per quanto riguarda la procedura delle sanzioni disciplinari, la Commissione di cui all'articolo precedente si atterra' alle disposizioni contemplate dai Capi VIII e IX e dall'[art. 115 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_115).
+Per quanto riguarda la procedura delle sanzioni disciplinari, la Commissione di cui all'articolo precedente si atterra' alle disposizioni contemplate dai Capi VIII e IX e dall'[art. 115 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 4.
 

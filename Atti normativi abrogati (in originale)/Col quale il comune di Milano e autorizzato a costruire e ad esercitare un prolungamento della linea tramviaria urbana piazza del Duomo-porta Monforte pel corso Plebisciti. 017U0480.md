@@ -14,7 +14,7 @@ Il comune di Milano e' autorizzato a costruire ed esercitare un prolungamento de
 
 ## Art. 2.
 
-Per l'impianto e l'esercizio di detto prolungamento tramviario, dovranno osservarsi, in quanto applicabili, le disposizioni contenute nel disciplinare 6 giugno 1913, approvato con [R. decreto 16 ottobre 1913, n. 1257](Concernente%20limpianto%20e%20lesercizio%20con%20trazione%20elettrica%20di%20nuove%20linee%20urbane%20e%20prolungamento%20di%20altre%20gia%20esistenti%20nella%20citta%20di%20Milano%20013U1257.md), relativo ad altri analoghi impianti di tramvie urbane nel comune di Milano. 
+Per l'impianto e l'esercizio di detto prolungamento tramviario, dovranno osservarsi, in quanto applicabili, le disposizioni contenute nel disciplinare 6 giugno 1913, approvato con [R. decreto 16 ottobre 1913, n. 1257](../Regi%20decreti/Concernente%20limpianto%20e%20lesercizio%20con%20trazione%20elettrica%20di%20nuove%20linee%20urbane%20e%20prolungamento%20di%20altre%20gia%20esistenti%20nella%20citta%20di%20Milano%20013U1257.md), relativo ad altri analoghi impianti di tramvie urbane nel comune di Milano. 
  
  Dovranno inoltre osservarsi le speciali disposizioni di sicurezza, che saranno ritenute necessarie all'atto della visita di collaudo. 
  

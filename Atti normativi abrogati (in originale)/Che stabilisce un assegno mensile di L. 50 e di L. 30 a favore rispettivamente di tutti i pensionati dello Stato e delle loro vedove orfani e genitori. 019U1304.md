@@ -33,7 +33,7 @@ E' concesso un assegno mensile di L. 50:
 ------------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 7 settembre 1919, n. 1730](Che%20estende%20le%20disposizioni%20dellart.%201%20del%20R.%20decreto%2031%20luglio%201919%20n.%201304%20a%20tutti%20i%20maestri%20elementari%20alle%20loro%20vedove%20ed%20orfani%20che%20fruiscano%20di%20pensione%20a%20carico%20del%20Monte%20pensioni%20_19f04ca82f77.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 7 settembre 1919, n. 1730](../Regi%20decreti/Che%20estende%20le%20disposizioni%20dellart.%201%20del%20R.%20decreto%2031%20luglio%201919%20n.%201304%20a%20tutti%20i%20maestri%20elementari%20alle%20loro%20vedove%20ed%20orfani%20che%20fruiscano%20di%20pensione%20a%20carico%20del%20Monte%20pensioni%20_19f04ca82f77.md) e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 
@@ -41,7 +41,7 @@ Le disposizioni dell'articolo precedente si applicano anche ai pensionati ed all
 
 ## Art. 3.
 
-Alla concessione dell'assegno mensile di cui all'art. 1, non e' di ostacolo il limite fissato dall'art. 76 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70).
+Alla concessione dell'assegno mensile di cui all'art. 1, non e' di ostacolo il limite fissato dall'art. 76 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 4.
 

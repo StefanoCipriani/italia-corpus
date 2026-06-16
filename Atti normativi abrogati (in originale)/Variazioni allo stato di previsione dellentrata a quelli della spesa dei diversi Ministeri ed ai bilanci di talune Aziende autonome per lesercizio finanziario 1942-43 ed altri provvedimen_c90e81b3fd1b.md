@@ -47,7 +47,7 @@ Le autorizzazioni di spesa disposte con gli articoli 2 ed 8 della legge 13 giugn
 
 ## Art. 8.
 
-Il limite d'impegno di L. 6.574.247,90 stabilito con l'art. 5 della legge 13 giugno 1942-XX, n. 693, per le annualita' occorrenti per le sovvenzioni previste dal [testo unico sulle acque](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) e sugli impianti idroelettrici e per contributi vari e' ridotto di L. 1.074.247,90.
+Il limite d'impegno di L. 6.574.247,90 stabilito con l'art. 5 della legge 13 giugno 1942-XX, n. 693, per le annualita' occorrenti per le sovvenzioni previste dal [testo unico sulle acque](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e sugli impianti idroelettrici e per contributi vari e' ridotto di L. 1.074.247,90.
 
 ## Art. 9.
 

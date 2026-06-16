@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Veduto il [R. decreto-legge 6 gennaio 1927, n. 11](Istituzione%20di%20un%20servizio%20stenografico%20alla%20dipendenza%20del%20Capo%20del%20Governo.%20027U0011.md), concernente la istituzione di un Servizio stenografico alla dipendenza del Capo del Governo;
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
 
-Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Veduto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Veduto il [R. decreto-legge 16 agosto 1926, n. 1387](Divieto%20di%20assunzione%20di%20nuovo%20personale%20nellAmministrazione%20dello%20Stato%20e%20norme%20per%20il%20riordinamento%20dei%20servizi.%20026U1387.md), riguardante il divieto di assunzione di nuovo personale nelle Amministrazioni dello Stato;
 
@@ -59,11 +59,11 @@ Per il personale del predetto Servizio sono costituiti un apposito Consiglio d'a
 
 ## Art. 5.
 
-Nei procedimenti disciplinari per l'applicazione delle punizioni previste dai [numeri 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_56-num3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_56-num4) e [5 dell'art. 56 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_56-num5), e' in facolta' dell'Amministrazione di prescindere dall'osservanza delle disposizioni degli articoli 70, 72, comma 2°, e 73 dello stesso decreto. In tal caso pero' l'Amministrazione dovra' procedere alla contestazione degli addebiti nei modi previsti dall'art. 60 del citato decreto, fermo restando il diritto dell'incolpato di essere sentito personalmente dalla Commissione di disciplina.
+Nei procedimenti disciplinari per l'applicazione delle punizioni previste dai [numeri 3](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [4](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [5 dell'art. 56 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' in facolta' dell'Amministrazione di prescindere dall'osservanza delle disposizioni degli articoli 70, 72, comma 2°, e 73 dello stesso decreto. In tal caso pero' l'Amministrazione dovra' procedere alla contestazione degli addebiti nei modi previsti dall'art. 60 del citato decreto, fermo restando il diritto dell'incolpato di essere sentito personalmente dalla Commissione di disciplina.
 
 ## Art. 6.
 
-Le attribuzioni della Commissione di cui all'art. 183, lettera D, del testo unico sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), sono esercitate, nei riguardi del personale del Servizio speciale riservato, dalla Commissione di disciplina.
+Le attribuzioni della Commissione di cui all'art. 183, lettera D, del testo unico sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sono esercitate, nei riguardi del personale del Servizio speciale riservato, dalla Commissione di disciplina.
 
 ## Art. 7.
 
@@ -89,7 +89,7 @@ Le assunzioni del personale degli altri gruppi dell'annessa tabella sono fatte t
  
  Quando non sia possibile provvedere a norma del primo comma, il Capo del Governo ha facolta' di indire pubblici concorsi determinandone, con suo decreto, le norme e le modalita'. 
  
- L'ammissione a tali concorsi e' subordinata al possesso dei requisiti stabiliti dall'[art. 16 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ L'ammissione a tali concorsi e' subordinata al possesso dei requisiti stabiliti dall'[art. 16 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 11.
 
@@ -117,7 +117,7 @@ Il Capo del Governo ha facolta' di istituire, con suo dereto, corsi professional
 
 Il personale addetto al Servizio speciale riservato e' obbligato per turno a prestare la propria opera sia in orario notturno, dalle 22 alle 6 del mattino, sia nei giorni di riposo festivo. 
  
- Gli spettano per tali prestazioni i compensi orari stabiliti dal [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), aumentati della meta'. 
+ Gli spettano per tali prestazioni i compensi orari stabiliti dal [R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), aumentati della meta'. 
  
  Allo stesso personale, per eventuali speciali servizi prestati durante il mese, potra' essere corrisposto un compenso computabile secondo il tempo occorso per eseguirli, e secondo la tariffa di cui sopra. 
  

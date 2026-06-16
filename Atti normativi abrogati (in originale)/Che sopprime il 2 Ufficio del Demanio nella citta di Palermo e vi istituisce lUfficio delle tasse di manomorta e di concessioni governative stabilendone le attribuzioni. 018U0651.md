@@ -36,7 +36,7 @@ Il servizio relativo all'azienda del Fondo pel culto, ora disimpegnato dal 2° U
 
 ## Art. 5.
 
-Ai sensi ed agli effetti del penultimo comma dell'art. 25 del regolamento approvato col [R. decreto 18 marzo 1909, n. 158](Che%20approva%20lannesso%20regolamento%20per%20lorganizzazione%20degli%20uffici%20esecutivi%20dipendenti%20dallAmministrazione%20delle%20tasse%20sugli%20affari.%20009U0158.md), la media delle riscossioni del nuovo Ufficio delle tasse di manomorta e di concessioni governative viene determinata, in via presuntiva, in lire 1.400.000. 
+Ai sensi ed agli effetti del penultimo comma dell'art. 25 del regolamento approvato col [R. decreto 18 marzo 1909, n. 158](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lorganizzazione%20degli%20uffici%20esecutivi%20dipendenti%20dallAmministrazione%20delle%20tasse%20sugli%20affari.%20009U0158.md), la media delle riscossioni del nuovo Ufficio delle tasse di manomorta e di concessioni governative viene determinata, in via presuntiva, in lire 1.400.000. 
  
  Il presente decreto entrera' in vigore col giorno 1° luglio 1918. 
  

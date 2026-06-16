@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 1, 2, 3, 5, 8, 9 e 10 del regolamento per il funzionamento dell'Opera di previdenza a favore del personale delle ferrovie dello Stato, approvato con [R. decreto 11 marzo 1937, n. 759](Approvazione%20del%20nuovo%20regolamento%20per%20il%20funzionamento%20dellOpera%20di%20previdenza%20a%20favore%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20037U0759.md), sono modificati come appresso:
+Gli articoli 1, 2, 3, 5, 8, 9 e 10 del regolamento per il funzionamento dell'Opera di previdenza a favore del personale delle ferrovie dello Stato, approvato con [R. decreto 11 marzo 1937, n. 759](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20per%20il%20funzionamento%20dellOpera%20di%20previdenza%20a%20favore%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20037U0759.md), sono modificati come appresso:
  Art. 1. - Il punto 2° e' sostituito dal seguente;
  "2° al funzionamento delle colonie marine e climatiche per i figli di agenti ed ex agenti delle Ferrovie dello Stato".
  Art. 2. - Al punto 2°, 1° comma, le parole "iscritti all'Associazione fascista ferrovieri, dello Stato" sono sostituite da "agenti ed ex agenti delle Ferrovie dello stato".

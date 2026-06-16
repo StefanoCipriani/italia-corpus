@@ -26,7 +26,7 @@ Nella citta' e nel territorio di Fiume, annessi al Regno con [R. decreto-legge 2
  
  nel regolamento per la esecuzione del sopracitato [R. decreto-legge 2 febbraio 1922, n. 281](Contenente%20norme%20relative%20alla%20fabbricazione%20importazione%20e%20vendita%20degli%20accenditori%20automatici%20e%20delle%20pietrine%20focaie.%20022U0281.md), approvato con [R. decreto 16 novembre 1922, n. 1630](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20decreto-legge%202%20febbraio%201922%20n.%20281%20sulla%20importazione%20e%20la%20vendita%20degli%20apparecchi%20di%20accensione%20e%20delle%20pietrine%20focaie.%20022U1630.md); 
  
- nel [R. decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560), ed annessa convenzione riflettente la imposta di fabbricazione sopra i fiammiferi, la produzione e la vendita di essi.
+ nel [R. decreto 11 marzo 1923, n. 560](../Regi%20decreti/Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), ed annessa convenzione riflettente la imposta di fabbricazione sopra i fiammiferi, la produzione e la vendita di essi.
 
 ## Art. 2.
 

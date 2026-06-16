@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 2 della legge 16 ottobre 1975, n. 492](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%201975%20n.%20376%20concernente%20provvedimenti%20per%20il%20rilancio%20delleconomia%20riguardanti%20le%20esportazioni%20ledilizia%20e%20le%20opere%20pubbliche.md), concernente delega al Governo per armonizzare le disposizioni del [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successivo modifiche ed integrazioni, nonche' delle [leggi 6 marzo 1950, n. 108 e 11 marzo 1958, n. 238](Istituzione%20presso%20gli%20Enti%20esercenti%20il%20credito%20fondiario%20di%20sezioni%20autonome%20per%20il%20finanziamento%20di%20opere%20pubbliche%20e%20di%20impianti%20di%20pubblica%20utilita.md), e relative modifiche ed integrazioni, con le norme stabilite dall'[art. 11 del decreto-legge 13 agosto 1975, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;376#art_11), come risulta modificato da detta legge di conversione n. 492, per assicurare alle emissioni di obbligazioni da parte degli istituti e sezioni di credito fondiario ed edilizio e delle sezioni autonome per il finanziamento di opere pubbliche e di impianti di pubblica utilita' le stesse caratteristiche e modalita' delle altre emissioni obbligazionarie degli enti esercenti il credito a medio e lungo termine e per adeguare il regime giuridico dell'organizzazione e dell'attivita' degli istituti e sezioni medesime;
+Visto l'[art. 2 della legge 16 ottobre 1975, n. 492](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%201975%20n.%20376%20concernente%20provvedimenti%20per%20il%20rilancio%20delleconomia%20riguardanti%20le%20esportazioni%20ledilizia%20e%20le%20opere%20pubbliche.md), concernente delega al Governo per armonizzare le disposizioni del [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successivo modifiche ed integrazioni, nonche' delle [leggi 6 marzo 1950, n. 108 e 11 marzo 1958, n. 238](Istituzione%20presso%20gli%20Enti%20esercenti%20il%20credito%20fondiario%20di%20sezioni%20autonome%20per%20il%20finanziamento%20di%20opere%20pubbliche%20e%20di%20impianti%20di%20pubblica%20utilita.md), e relative modifiche ed integrazioni, con le norme stabilite dall'[art. 11 del decreto-legge 13 agosto 1975, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1975-08-13;376#art_11), come risulta modificato da detta legge di conversione n. 492, per assicurare alle emissioni di obbligazioni da parte degli istituti e sezioni di credito fondiario ed edilizio e delle sezioni autonome per il finanziamento di opere pubbliche e di impianti di pubblica utilita' le stesse caratteristiche e modalita' delle altre emissioni obbligazionarie degli enti esercenti il credito a medio e lungo termine e per adeguare il regime giuridico dell'organizzazione e dell'attivita' degli istituti e sezioni medesime;
 
 Sentito il Consiglio dei Ministri;
 
@@ -31,7 +31,7 @@ La costituzione sotto forma di societa' per azioni degli enti di cui al primo co
  La competenza territoriale di tutti gli enti esercenti il credito fondiario ed edilizio puo' essere modificata soltanto con decreto del Ministro per il tesoro, sentito il Comitato interministeriale per il credito ed il risparmio. 
  Autorizzazioni di deroga alla competenza territoriale, da richiedersi caso per caso, possono essere accordate dalla Banca d'Italia. 
  Tutti gli istituti e le sezioni autonome esercenti il credito fondiario ed edilizio gia' operanti alla data di entrata in vigore del presente decreto, nonche' gli istituti e le sezioni autonome che saranno costituiti ai sensi del primo comma del presente articolo, sono indicati in appresso complessivamente come "enti". 
- Il presente articolo sostituisce gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 e 11 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 e 11 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 2.
 
@@ -40,7 +40,7 @@ Il credito fondiario ha per oggetto:
  b) la concessione di anticipazioni di durata superiore a 18 mesi, garantite da ipoteca, alle stesse condizioni dei mutui previste alla lettera a).
  Le suddette operazioni, oltre che con l'impiego dei fondi patrimoniali, saranno effettuate con le somme ricavate dalle emissioni obbligazionarie di cui al successivo art. 8.
  Non sara' di ostacolo alle operazioni di credito fondiario la precedenza di iscrizioni ipotecarie, quando il valore di esse, unito alla somma da mutuare o da concedere in anticipazione, non ecceda la meta' del valore cauzionale degli immobili.
- Il presente articolo sostituisce gli articoli 12, 13, 14 e 15 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce gli articoli 12, 13, 14 e 15 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 3.
 
@@ -52,7 +52,7 @@ L'ente, qualora reputi conveniente l'operazione di mutuo, stipulera' con il mutu
  Della suddivisione del mutuo e del frazionamento della ipoteca il conservatore dei registri immobiliari eseguira' annotazione a margine dell'iscrizione presa.
  Agli effetti dei diritti di scritturato e degli emolumenti ipotecari nonche' dei compensi e dei diritti spettanti al notaio, gli atti e le formalita' ipotecarie, anche di annotazione, si considerano come una sola stipula, una sola operazione sui registri immobiliari e un solo certificato.
  Gli onorari notarili sono ridotti alla meta' per la stipula degli atti relativi alle operazioni di cui al presente decreto.
- Il presente articolo sostituisce l'art. 16 del testo unico delle leggi sul credito fondiario approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce l'art. 16 del testo unico delle leggi sul credito fondiario approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 4.
 
@@ -60,16 +60,16 @@ Il mutuatario potra' domandare la purgazione dello immobile dai privilegi e dall
  Le iscrizioni ipotecarie a favore dell'ente saranno comunque valide ed efficaci, nonostante il sopraggiunto fallimento, quando siano state prese almeno 10 giorni prima della pubblicazione della sentenza.
  Le iscrizioni ipotecarie medesime sono rinnovate d'ufficio dai conservatori dei registri immobiliari nei termini e nei modi stabiliti dalla legge. L'ente ha diritto, in ogni tempo, di conseguire senza spese la rinnovazione delle ipoteche, ferma restando la responsabilita' dei conservatori per la rinnovazione d'ufficio.
  Per gli effetti dell'[art. 2839 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2839) e in deroga al disposto del n. 2 del detto articolo, l'ente elegge il domicilio nel luogo della sua sede.
- Il presente articolo sostituisce gli articoli 17, 18, 19 e 21 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce gli articoli 17, 18, 19 e 21 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 5.
 
-Rimangono immutate le disposizioni di cui all'art. 20 e sono abrogate quelle di cui agli articoli 22, 23, 24, 25 e 26 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+Rimangono immutate le disposizioni di cui all'art. 20 e sono abrogate quelle di cui agli articoli 22, 23, 24, 25 e 26 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 6.
 
 Le spese per l'iscrizione, riduzione, frazionamento, rinnovazione e cancellazione di ipoteca sono a carico del debitore. Sono parimenti a carico del debitore le spese per la trattazione delle operazioni di cui al presente decreto e la stipula degli atti relativi.
- Il presente articolo sostituisce l'art. 27 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce l'art. 27 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 7.
 
@@ -78,7 +78,7 @@ I debitori hanno facolta' di estinguere anticipatamente, in tutto o in parte, il
  I debitori, ogni volta che abbiano estinto il quinto del loro debito originario, hanno diritto ad una riduzione proporzionale della somma ipotecariamente iscritta. Le riduzioni parziali si effettuano con l'esibizione al conservatore dei registri immobiliari di una dichiarazione dell'ente vidimata da notaio.
  I debitori hanno il diritto di ottenere la parziale liberazione di uno o piu' immobili ipotecati in favore dell'ente, quando, o dai documenti da loro prodotti o da perizia, risulti che i rimanenti beni vincolati rappresentano la garanzia spettante all'ente per le rimanenti somme dovute a norma di legge.
  Le spese di perizia e degli altri atti necessari sono a carico dei richiedenti la liberazione.
- Il presente articolo sostituisce gli articoli 28, 29 e 30 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce gli articoli 28, 29 e 30 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ## EMISSIONE, CIRCOLAZIONE E SORTEGGIO DELLE OBBLIGAZIONI
 
@@ -110,8 +110,8 @@ Le obbligazioni sono stanziabili in anticipazione presso la Banca d'Italia.
  I capitali che per legge, regolamento, contratto o disposizione testamentaria devono essere impiegati in prestiti ipotecari, in acquisti di immobili o altrimenti, possono essere investiti o convertiti in obbligazioni emesse dagli enti.
  Le persone giuridiche che, per legge o statuto, hanno l'obbligo di impiegare in titoli emessi o garantiti dallo Stato il loro patrimonio, in tutto o in parte, possono investirne sino ad un quarto, rispettivamente del tutto o della parte, in obbligazioni emesse dagli enti.
  Le obbligazioni possono essere accettate per cauzione dalle amministrazioni dello Stato e dagli altri enti pubblici per un valore ragguagliato ai nove decimi del prezzo medio di borsa del semestre precedente se, al momento in cui la cauzione e' prestata, il loro corso non e' piu' basso.
- Le obbligazioni sono soggette alle disposizioni di cui all'[art. 458 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
- Il presente articolo sostituisce gli articoli 33, 34, 35, 36 e 37 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Le obbligazioni sono soggette alle disposizioni di cui all'[art. 458 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Il presente articolo sostituisce gli articoli 33, 34, 35, 36 e 37 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 12.
 
@@ -124,7 +124,7 @@ Entro lo stesso termine si deve provvedere alla pubblicazione di appositi bollet
 
 ### Art. 13.
 
-Gli articoli 8, 10 e 12 del presente decreto sostituiscono le disposizioni contenute negli articoli 31 e 32 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+Gli articoli 8, 10 e 12 del presente decreto sostituiscono le disposizioni contenute negli articoli 31 e 32 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ## INTERESSI DI MORA E PROCEDIMENTO ESECUTIVO
 
@@ -139,7 +139,7 @@ Il pagamento delle rate di ammortamento dei prestiti non puo' essere ritardato d
 ### Art. 15.
 
 Ai contratti di credito fondiario si intende apposta la condizione risolutiva per il caso di ritardato pagamento anche di una sola parte del credito scaduto e l'ente puo' chiedere esecutivamente il pagamento integrale di ogni somma ad esso dovuta.
- Nei confronti dei debitori morosi a fronte dei prestiti concessi ai sensi del presente decreto continuano ad applicarsi tutte le disposizioni disciplinanti il procedimento esecutivo di cui ai titoli VII e VIII del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Nei confronti dei debitori morosi a fronte dei prestiti concessi ai sensi del presente decreto continuano ad applicarsi tutte le disposizioni disciplinanti il procedimento esecutivo di cui ai titoli VII e VIII del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ## UTILI E RISERVE
 
@@ -159,7 +159,7 @@ edilizio;
  obbligazioni emesse da istituti esercenti il credito agrario;
  conti correnti con la Banca d'Italia o con quelle aziende di credito con le quali gli enti autorizzati allo esercizio del credito fondiario ed edilizio intrattengono rapporti di corrispondenza.
  Le categorie di investimenti previste dal comma precedente possono essere modificate con decreto del Ministro per il tesoro, sentito il Comitato interministeriale per il credito ed il risparmio.
- Il presente articolo sostituisce gli articoli 65, 66 e 67 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce gli articoli 65, 66 e 67 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ## VIGILANZA
 
@@ -171,7 +171,7 @@ Sono confermate nella materia oggetto del presente decreto le competenze del Com
  Il Comitato interministeriale per il credito ed il risparmio ha inoltre facolta' di emanare provvedimenti di carattere generale ovvero particolare concernenti le operazioni e le altre attivita' degli enti di cui all'art. 1 del presente decreto.
  Gli enti medesimi hanno l'obbligo di comunicare alla Banca d'Italia le deliberazioni adottate dai consigli di amministrazione e dagli altri organi deliberanti, nel termine di 10 giorni dalla data di esse.
  La Banca d'Italia, nel termine di 20 giorni successivi a quello di ricezione delle deliberazioni stesse, con provvedimento motivato, puo' annullarle ove le ritenga non conformi alle leggi, ai regolamenti, agli statuti ed ai provvedimenti di cui al secondo comma del presente articolo.
- Il presente articolo sostituisce gli articoli 68 e 69 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce gli articoli 68 e 69 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ## DISPOSIZIONI VARIE
 
@@ -186,23 +186,23 @@ Gli immobili da ipotecare a garanzia dei prestiti devono essere assicurati contr
  In caso di espropriazione per pubblico interesse o di servitu' coattiva le indennita' saranno versate all'ente creditore sino a concorrenza del suo credito, fatti salvi i diritti dei terzi.
  Qualora l'ente reputi che, nonostante l'avvenuta espropriazione per pubblico interesse, la restante parte sia sufficiente a garantire, secondo le norme del credito fondiario, la somma residuale del mutuo, potra' consentire che l'indennita' sia imputata ad estinzione totale o parziale delle rate scadute e non pagate. Qualora il mutuatario sia in regola con i pagamenti e sussista l'altra condizione circa il valore dei beni ancora ipotecati in favore dell'ente, questo potra' consentire che il mutuo continui, senza che sia da esso riscossa e imputata a diminuzione del mutuo la somma dovuta per indennita'.
  A fronte delle somme percepite ai sensi del secondo e terzo comma del presente articolo, l'ente potra' ammortizzare il corrispondente quantitativo di obbligazioni variando il relativo piano di ammortamento.
- Il presente articolo sostituisce l'art. 70 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce l'art. 70 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 19.
 
 I libri ed i registri dell'ente, tenuti secondo il proprio regolamento, come pure i loro estratti, fanno piena prova in giudizio tanto contro i creditori che contro i terzi.
- Il presente articolo sostituisce l'art. 71 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni. E' abrogato l'art. 72 dello stesso testo unico.
+ Il presente articolo sostituisce l'art. 71 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni. E' abrogato l'art. 72 dello stesso testo unico.
 
 ### Art. 20.
 
 L'ente ha facolta' di cedere i propri crediti alle condizioni reputate piu' convenienti. In tal caso l'ente cedente potra' ammortizzare il corrispondente quantitativo di obbligazioni variando il relativo piano di ammortamento.
  Si applicano, in quanto compatibili con il presente decreto, le norme di cui all'[art. 56 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_56), e successive modifiche e integrazioni.
- Il presente articolo sostituisce l'art. 73 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce l'art. 73 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 21.
 
 Anche in deroga a precedenti disposizioni di legge, per gli aumenti di capitale e dei fondi di dotazione degli enti di cui al presente decreto sono necessarie soltanto l'autorizzazione di cui all'[art. 44 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_44), e successive modifiche e integrazioni, e l'approvazione di cui all'art. 1 del presente decreto.
- Sono abrogati i titoli XII, XIII e XIV del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Sono abrogati i titoli XII, XIII e XIV del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ### Art. 22.
 
@@ -210,7 +210,7 @@ L'ente puo' acquistare immobili previa approvazione della Banca d'Italia.
  La disposizione di cui al precedente comma non si applica agli immobili dei quali l'ente divenga cessionario o aggiudicatario per tutela dei propri diritti di credito. Tali immobili debbono essere venduti nel termine di 10 anni dall'acquisto.
  Il prezzo di vendita degli immobili di cui al comma precedente, sempre quando non si faccia luogo alla continuazione del mutuo, puo' essere convenuto in rate, purche' pagabile nel termine di 10 anni dalla cessione o aggiudicazione; ovvero, in parte, mediante accensione di un mutuo ordinario presso l'ente medesimo, e, in parte, mediante rate pagabili nello stesso termine.
  In tutti i casi nei quali l'aggiudicatario o l'acquirente possa beneficiare del mutuo esistente, nella misura consentita dalla legge, non e' necessaria la costituzione di nuova ipoteca, intendendosi continuativa la garanzia ipotecaria e trasferiti nell'aggiudicatario o nell'acquirente gli obblighi dell'originario contraente.
- Il presente articolo sostituisce l'art. 74 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
+ Il presente articolo sostituisce l'art. 74 del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modifiche e integrazioni.
 
 ## OPERAZIONI DI CREDITO EDILIZIO
 
@@ -225,7 +225,7 @@ Gli enti restano abilitati a concedere mutui ed anticipazioni destinati alla cos
 Quest'ultimo termine puo' essere modificato con decreto del Ministro per il tesoro, sentito il Comitato interministeriale per il credito ed il risparmio, per i mutui non ancora stipulati.
  I mutui di cui al presente articolo possono essere erogati anche col sistema dei versamenti rateali durante il corso dei lavori, in base a stati di avanzamento debitamente controllati, e, per il caso di mutuo concesso per la costruzione, sempre che il mutuatario abbia gia' impiegato per l'acquisto dell'area e per i lavori eseguiti almeno il 25 per cento del costo della costruzione, e lo stato di avanzamento dei lavori sia tale che la spesa occorrente per il loro completamento non superi l'ammontare del mutuo da erogare.
  In caso di versamenti rateali, la relativa quietanza potra' risultare da scrittura privata di data certa.
- Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, gli enti, secondo i criteri di cui all'[art. 8 del regio decreto 23 ottobre 1925, n. 2063](Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), possono provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento, per alienarlo successivamente.
+ Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, gli enti, secondo i criteri di cui all'[art. 8 del regio decreto 23 ottobre 1925, n. 2063](../Regi%20decreti/Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), possono provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento, per alienarlo successivamente.
  Gli enti concedono i mutui edilizi previsti da leggi speciali alle modalita' e condizioni ivi stabilite, merce l'impiego delle somme rivenienti dal collocamento delle obbligazioni.
  Gli istituti che, all'entrata in vigore del presente decreto, sono autorizzati singolarmente con specifica norma di legge ad effettuare anche operazioni di mutue per la costruzione di case economiche e popolari possono chiedere, con motivata domanda illustrativa del lavoro compiuto, di essere autorizzati ad operare ai sensi delle disposizioni contenute nel presente titolo e di modificare in conseguenza il proprio statuto.
  La relativa autorizzazione puo' essere accordata, previo esame della struttura patrimoniale e dell'organizzazione dell'istituto richiedente, con decreto del Ministro per il tesoro, sentito il Comitato interministeriale per il credito ed il risparmio. Con lo stesso decreto vengono approvate le occorrenti modifiche statutarie.

@@ -182,7 +182,7 @@ Il provento delle oblazioni e pene pecuniarie pagate pei contravvenzioni foresta
 
 ## Art. 19.
 
-Le disposizioni del [R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267), e del relativo regolamento esecutivo approvato con [R. decreto 16 maggio 1926, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126), concernenti l'Azienda speciale del demanio forestale di Stato, conservano vigore in quanto non siano in contrasto con le norme della presente legge.
+Le disposizioni del [R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267), e del relativo regolamento esecutivo approvato con [R. decreto 16 maggio 1926, n. 1126](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20dei%20R.%20decreto%2030%20dicembre%201923%20n.%203267%20concernente%20il%20riordinamento%20e%20la%20riforma%20della%20legislazione%20in%20materia%20di%20boschi%20e%20di%20terreni%20montani.%20026U1126.md), concernenti l'Azienda speciale del demanio forestale di Stato, conservano vigore in quanto non siano in contrasto con le norme della presente legge.
 
 ## Art. 20.
 

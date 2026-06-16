@@ -20,7 +20,7 @@ Visto il [R. decreto 26 maggio 1922, n. 941](Che%20approva%20le%20norme%20relati
 
 Visto il [R. decreto 20 marzo 1933, n. 702](Approvazione%20dellordinamento%20sanitario%20per%20le%20Colonie.%20033U0702.md), che approva l'ordinamento sanitario per le Colonie;
 
-Visto il decreto del Ministro per le colonie 28 novembre 1936-XV, n. 288, col quale, in virtu' della delega contenuta nel R. decreto 26 dicembre 1933-XIV, n. 2569, sono state estese alla Libia talune disposizioni del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) del Regno, approvato con il R. decreto 27 luglio 1934-XII, n. 1265;
+Visto il decreto del Ministro per le colonie 28 novembre 1936-XV, n. 288, col quale, in virtu' della delega contenuta nel R. decreto 26 dicembre 1933-XIV, n. 2569, sono state estese alla Libia talune disposizioni del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) del Regno, approvato con il R. decreto 27 luglio 1934-XII, n. 1265;
 
 Udito il parere del Consiglio superiore coloniale;
 
@@ -38,7 +38,7 @@ L'art. 27 del decreto del Ministro per le colonie 28 novembre 1936-XV, n. 288, e
  
  «Il trapasso della farmacia, a qualunque titolo avvenga, deve essere comunicato al prefetto, il quale, accertata la osservanza, delle prescrizioni suddette, riconosce l'avvenuto trasferimento dell'esercizio della farmacia al nome del nuovo titolare. 
  
- «Quando si tratti di successione a favore di figli che si trovino nelle condizioni indicate nel secondo comma del presente articolo, il prefetto concede la gestione provvisoria della farmacia, limitatamente pero' al periodo di tempo necessario per il completamento degli studi farmaceutici ed in ogni caso per un periodo non superiore a sei anni, scaduto il quale il trasferimento e' revocato e la farmacia messa a concorso per l'assegnazione ai sensi degli [articoli 105 e seguenti del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_105) del Regno, approvato con decreto 27 luglio 1934-XII, 1265. 
+ «Quando si tratti di successione a favore di figli che si trovino nelle condizioni indicate nel secondo comma del presente articolo, il prefetto concede la gestione provvisoria della farmacia, limitatamente pero' al periodo di tempo necessario per il completamento degli studi farmaceutici ed in ogni caso per un periodo non superiore a sei anni, scaduto il quale il trasferimento e' revocato e la farmacia messa a concorso per l'assegnazione ai sensi degli [articoli 105 e seguenti del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) del Regno, approvato con decreto 27 luglio 1934-XII, 1265. 
  
  «Durante la gestione provvisoria la farmacia dovra' essere diretta da un farmacista regolarmente iscritto in un albo professionale che assumera' provvisoriamente la responsabilita' della gestione tecnica della farmacia».
 

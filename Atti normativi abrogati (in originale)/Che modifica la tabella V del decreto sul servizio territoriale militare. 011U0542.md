@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto il [R. decreto in data 22 luglio 1897, n. 366](Sullordinamento%20del%20R.%20Esercito.%20097U0366.md), sulla circoscrizione militare del Regno;
 
-Visto il [R. decreto in data 22 febbraio 1906, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-02-22;56), che stabilisce il servizio territoriale militare in generale e di quelli di artiglieria, del genio, di sanita' e di commissariato militare;
+Visto il [R. decreto in data 22 febbraio 1906, n. 56](../Regi%20decreti/Che%20apporta%20varianti%20alla%20circoscrizione%20territoriale%20militare%20e%20ne%20approva%20le%20annesse%20tabelle.%20006U0056.md), che stabilisce il servizio territoriale militare in generale e di quelli di artiglieria, del genio, di sanita' e di commissariato militare;
 
 Sulla proposta del Nostro ministro, segretario di Stato, per gli affari della guerra; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Alla tabella 5, annessa al predetto [R. decreto 22 febbraio 1906, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-02-22;56), la quale stabilisce la circoscrizione territoriale per i servizi di sanita' e di commissariato militare, e' apportata la seguente modificazione: 
+Alla tabella 5, annessa al predetto [R. decreto 22 febbraio 1906, n. 56](../Regi%20decreti/Che%20apporta%20varianti%20alla%20circoscrizione%20territoriale%20militare%20e%20ne%20approva%20le%20annesse%20tabelle.%20006U0056.md), la quale stabilisce la circoscrizione territoriale per i servizi di sanita' e di commissariato militare, e' apportata la seguente modificazione: 
  
  Nella colonna 3ª, in corrispondenza del VI corpo d'armata, dopo la parola: «Ravenna», aggiungere: «Udine». 
  

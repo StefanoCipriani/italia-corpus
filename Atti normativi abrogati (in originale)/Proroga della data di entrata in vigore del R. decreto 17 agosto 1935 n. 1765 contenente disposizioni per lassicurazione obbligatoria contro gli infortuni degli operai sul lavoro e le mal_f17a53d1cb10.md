@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-- La data di entrata in vigore del [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), stabilita nell'art. 76 del decreto stesso e' prorogata al 1° gennaio 1937, ferma la disposizione del precedente art. 75, primo comma. 
+- La data di entrata in vigore del [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), stabilita nell'art. 76 del decreto stesso e' prorogata al 1° gennaio 1937, ferma la disposizione del precedente art. 75, primo comma. 
  
  La disposizione del predetto art. 76, ultimo comma, e' applicabile agli infortuni avvenuti e alle malattie professionali manifestatesi entro il 31 dicembre 1936.
 

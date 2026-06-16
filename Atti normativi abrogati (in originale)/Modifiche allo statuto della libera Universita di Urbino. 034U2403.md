@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto lo statuto della libera Universita' di Urbino, approvato con [R. decreto 8 febbraio 1925, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con i [Regi decreti 31 ottobre 1929, n. 2475](Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md) e [27 ottobre 1932, n. 2084](Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20032U2084.md);
+Veduto lo statuto della libera Universita' di Urbino, approvato con [R. decreto 8 febbraio 1925, n. 230](../Regi%20decreti/Riconoscimento%20dellUniversita%20di%20Urbino%20come%20Universita%20libera%20cd%20approvazione%20del%20relativo%20statuto.%20025U0230.md), e modificato con i [Regi decreti 31 ottobre 1929, n. 2475](Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md) e [27 ottobre 1932, n. 2084](Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20032U2084.md);
 
 Vedute le nuove proposte di modifiche avanzate dalle autorita'
 
 accademiche della libera Universita' predetta;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [R. decreto-legge 16 ottobre 1934, n. 1816](Disposizioni%20integrative%20dellordinamento%20universitario.%20034U1816.md);
 
@@ -58,10 +58,10 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto lo statuto della libera Universita' di Urbino, approvato con [R. decreto 8 febbraio 1925, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con i [Regi decreti 31 ottobre 1929, n. 2475](Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md) e [27 ottobre 1932, n. 2084](Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20032U2084.md); 
+ Veduto lo statuto della libera Universita' di Urbino, approvato con [R. decreto 8 febbraio 1925, n. 230](../Regi%20decreti/Riconoscimento%20dellUniversita%20di%20Urbino%20come%20Universita%20libera%20cd%20approvazione%20del%20relativo%20statuto.%20025U0230.md), e modificato con i [Regi decreti 31 ottobre 1929, n. 2475](Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md) e [27 ottobre 1932, n. 2084](Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20032U2084.md); 
  Vedute le nuove proposte di modifiche avanzate dalle autorita' 
  accademiche della libera Universita' predetta; 
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  Veduto il [R. decreto-legge 16 ottobre 1934, n. 1816](Disposizioni%20integrative%20dellordinamento%20universitario.%20034U1816.md); 
  Sentito il Consiglio superiore dell'educazione nazionale; 
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; 

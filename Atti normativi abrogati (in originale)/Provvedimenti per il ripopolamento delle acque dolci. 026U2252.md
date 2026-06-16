@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 20 e 22 del regolamento per la pesca fluviale e lacuale, approvato col [R. decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486);
+Visti gli articoli 20 e 22 del regolamento per la pesca fluviale e lacuale, approvato col [R. decreto 22 novembre 1914, n. 1486](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20regolamento%20per%20la%20pesca%20fluviale%20e%20lacuale.%20014U1486.md);
 
 Riconosciuta l'urgenza di aumentare nella campagna ittiogenica 1926-1927 la raccolta delle anguilline (cieche) per ripopolare le acque dolci;
 

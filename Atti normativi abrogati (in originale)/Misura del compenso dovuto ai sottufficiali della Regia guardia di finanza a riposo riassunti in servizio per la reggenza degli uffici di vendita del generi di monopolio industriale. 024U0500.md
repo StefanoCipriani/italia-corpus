@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Ai sottufficiali della Regia guardia di finanza a riposo che sono stati o saranno riassunti in servizio, in base al [R. decreto 15 luglio 1923, n. 1620](Riassunzione%20in%20servizio%20dei%20sottufficiali%20della%20R.%20guardia%20di%20finanza%20per%20la%20reggenza%20degli%20uffici%20di%20vendita%20dei%20generi%20di%20monopolio.%20023U1620.md), per la reggenza degli uffici di vendita dei generi di monopolio industriale, sara' corrisposto un compenso mensile di L. 400. 
+Ai sottufficiali della Regia guardia di finanza a riposo che sono stati o saranno riassunti in servizio, in base al [R. decreto 15 luglio 1923, n. 1620](../Regi%20decreti/Riassunzione%20in%20servizio%20dei%20sottufficiali%20della%20R.%20guardia%20di%20finanza%20per%20la%20reggenza%20degli%20uffici%20di%20vendita%20dei%20generi%20di%20monopolio.%20023U1620.md), per la reggenza degli uffici di vendita dei generi di monopolio industriale, sara' corrisposto un compenso mensile di L. 400. 
  
  Oltre tale compenso non e' loro dovuta alcuna indennita' per qualsiasi titolo.
 

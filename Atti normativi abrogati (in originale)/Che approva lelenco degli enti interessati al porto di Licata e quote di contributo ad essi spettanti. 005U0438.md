@@ -34,7 +34,7 @@ Considerato che, accertato l'interesse dell'ente, la quota del concorso non e' a
 
 Ritenuto che il citato prospetto di riparto 17 marzo 1903 e' pienamente conforme alle disposizioni in vigore;
 
-Ritenuto peraltro che per effetto di tale nuovo riparto la quota di concorso della provincia di Caltanissetta, quale, in forza del [R. decreto 3 giugno 1888, n. 5477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-06-03;5477) era di 0.511.904, viene a ridursi a 0.478.279, e quella del comune di Delia si riduce da 0.028.426 a 0.021.948, con sensibile discarico degli enti predetti;
+Ritenuto peraltro che per effetto di tale nuovo riparto la quota di concorso della provincia di Caltanissetta, quale, in forza del [R. decreto 3 giugno 1888, n. 5477](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20classificazione%20nella%202ª%20categoria%20e%20nelle%20classi%20rispettivamente%20indicate%20degli%2011%20porti%20marittimi%20compresi%20negli%20elenchi%20annessi.%20088U5477.md) era di 0.511.904, viene a ridursi a 0.478.279, e quella del comune di Delia si riduce da 0.028.426 a 0.021.948, con sensibile discarico degli enti predetti;
 
 Sentiti il Consiglio dell'industria e commercio, il Consiglio superiore di marina e il Consiglio superiore dei lavori pubblici;
 
@@ -48,7 +48,7 @@ Sono respinti a tutti gli effetti di legge il ricorso del comune di Delia 20 feb
 
 ## Art. 2.
 
-E' approvato, con decorrenza del 1° luglio 1905, ed a modificazione di quello approvato col [R. decreto 3 giugno 1888, n. 5477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-06-03;5477), l'elenco 17 marzo 1903, vistato d'ordine Nostro dal ministro proponente, degli enti chiamati a contribuire nelle spese per il porto di Licata, con la ripartizione delle quote ad essi rispettivamente spettanti per tale contributo, fermo restando quanto riguarda la classificazione di detto porto. 
+E' approvato, con decorrenza del 1° luglio 1905, ed a modificazione di quello approvato col [R. decreto 3 giugno 1888, n. 5477](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20classificazione%20nella%202ª%20categoria%20e%20nelle%20classi%20rispettivamente%20indicate%20degli%2011%20porti%20marittimi%20compresi%20negli%20elenchi%20annessi.%20088U5477.md), l'elenco 17 marzo 1903, vistato d'ordine Nostro dal ministro proponente, degli enti chiamati a contribuire nelle spese per il porto di Licata, con la ripartizione delle quote ad essi rispettivamente spettanti per tale contributo, fermo restando quanto riguarda la classificazione di detto porto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -44,7 +44,7 @@ All'intervento volontario dinanzi alla sesta sezione si applicano gli articoli 3
 
 Le cause che danno luogo alla ricusazione dei giudici ed alla loro astensione secondo il [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) vigente nel Regno sono applicabili ai componenti la sesta sezione del Consiglio di Stato. 
  
- Per il procedimento si applicano le norme del Titolo V del Regolamento di procedura dinanzi alle sezioni giurisdizionali, approvato col [R. decreto del 17 agosto 1907, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;642).
+ Per il procedimento si applicano le norme del Titolo V del Regolamento di procedura dinanzi alle sezioni giurisdizionali, approvato col [R. decreto del 17 agosto 1907, n. 642](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0642.md).
 
 ### Art. 5.
 
@@ -108,7 +108,7 @@ L'ufficio della segreteria della sesta sezione deve essere aperto al pubblico ne
 
 ### Art. 14.
 
-Per la tenuta dei registri innanzi la sesta sezione valgono le norme del regolamento approvato con [R. decreto del 17 agosto 1907, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;641).
+Per la tenuta dei registri innanzi la sesta sezione valgono le norme del regolamento approvato con [R. decreto del 17 agosto 1907, n. 641](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0641.md).
 
 ### Art. 15.
 
@@ -126,7 +126,7 @@ TITOLO II.
 
 ### Art. 17.
 
-Per l'esercizio delle attribuzioni consultive negli affari riguardanti le nuove provincie si osservano le norme del regolamento generale approvato con [Regio decreto 17 agosto 1907, n. 641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;641). 
+Per l'esercizio delle attribuzioni consultive negli affari riguardanti le nuove provincie si osservano le norme del regolamento generale approvato con [Regio decreto 17 agosto 1907, n. 641](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0641.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

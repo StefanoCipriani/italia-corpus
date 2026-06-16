@@ -47,7 +47,7 @@ E M A N A il seguente regolamento:
 I candidati ai concorsi per l'accesso ai ruoli del personale tecnico-scientifico o tecnico e ai ruoli professionali dei sanitari della Polizia di Stato sono sottoposti ad esame diretto ad accertarne l'idoneita' attitudinale per l'espletamento del servizio nei ruoli del personale della Polizia di Stato che espleta attivita' tecnico- scientifica o tecnica o sanitaria.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - La [legge n. 121/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;121) reca: "Nuovo ordinamento dell'Amministrazione della pubblica sicurezza".
@@ -121,7 +121,7 @@ I requisiti attitudinali dei candidati ai concorsi per direttore tecnico dei ruo
 
 1.
 
-Superata la visita psico-fisica, secondo le procedure previste dal [decreto del Presidente della Repubblica 21 luglio 1989, n. 299](../DPR/Regolamento%20per%20lespletamento%20dei%20concorsi%20pubblici%20per%20lassunzione%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), e dal decreto del Ministro dell'interno in data 1 dicembre 1986, pubblicato nella Gazzetta Ufficiale n. 27 del 2 febbraio 1990, e dal [decreto del Presidente della Repubblica 6 agosto 1985, n. 452](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20al%20ruolo%20professionale%20dei%20direttivi%20medici%20della%20Polizia%20di%20Stato.md), i candidati sono sottoposti alle prove attitudinali da una commissione composta da un funzionario del ruolo dei dirigenti selettori del centro psico-tecnico, che la presiede, e da quattro direttori tecnici selettori appartenenti ai ruoli tecnici della Polizia di Stato.
+Superata la visita psico-fisica, secondo le procedure previste dal [decreto del Presidente della Repubblica 21 luglio 1989, n. 299](../Regolamenti%20governativi/Regolamento%20per%20lespletamento%20dei%20concorsi%20pubblici%20per%20lassunzione%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), e dal decreto del Ministro dell'interno in data 1 dicembre 1986, pubblicato nella Gazzetta Ufficiale n. 27 del 2 febbraio 1990, e dal [decreto del Presidente della Repubblica 6 agosto 1985, n. 452](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20laccesso%20al%20ruolo%20professionale%20dei%20direttivi%20medici%20della%20Polizia%20di%20Stato.md), i candidati sono sottoposti alle prove attitudinali da una commissione composta da un funzionario del ruolo dei dirigenti selettori del centro psico-tecnico, che la presiede, e da quattro direttori tecnici selettori appartenenti ai ruoli tecnici della Polizia di Stato.
 
 Note all'[art. 5:
  - Il D.P.R. n. 299/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989;299#art_5) reca: "Regolamento per l'espletamento dei concorsi pubblici per l'assunzione del personale della Polizia di Stato e che espleta attivita' tecnico-scientifica o tecnica".
@@ -150,7 +150,7 @@ I tests di cui al comma 2 sono aggiornati sulla base di una specifica collaboraz
 
 1.
 
-Per quanto non previsto dal presente regolamento si applicano le disposizioni di cui al [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md).
+Per quanto non previsto dal presente regolamento si applicano le disposizioni di cui al [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md).
 
 Nota all'[art. 7:
  - Il D.P.R. n. 903/1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983;903#art_7) reca: "Approvazione del regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia".

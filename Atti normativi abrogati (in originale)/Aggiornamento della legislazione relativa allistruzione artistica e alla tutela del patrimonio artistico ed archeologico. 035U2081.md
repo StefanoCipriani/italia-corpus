@@ -149,7 +149,7 @@ I poteri e le funzioni inerenti alla tutela del patrimonio artistico ed archeolo
  
  Il Ministro puo', con suo decreto, delegare ai soprintendenti e ad altri funzionari dipendenti Intimo dei poteri e delle funzioni di cui al comma precedente, ma puo' in ogni momento sostituirsi ai funzionari delegati. 
  
- Sono abrogati l'[art. 9 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_9), nonche' l'[art. 34 del R. decreto-legge 9 ottobre 1924, n. 1627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-09;1627#art_34), per quanto si riferisce alle Commissioni provinciali per la conservazione dei monumenti e degli oggetti di antichita' e d'arte.
+ Sono abrogati l'[art. 9 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), nonche' l'[art. 34 del R. decreto-legge 9 ottobre 1924, n. 1627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-09;1627#art_34), per quanto si riferisce alle Commissioni provinciali per la conservazione dei monumenti e degli oggetti di antichita' e d'arte.
 
 ## Art. 13.
 

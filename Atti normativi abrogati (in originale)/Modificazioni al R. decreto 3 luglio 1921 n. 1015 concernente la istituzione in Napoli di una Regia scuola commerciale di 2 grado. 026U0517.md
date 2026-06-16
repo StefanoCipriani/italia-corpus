@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- A modifica degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-03;1015#art_2) e [3 del R. decreto 3 luglio 1921, n. 1015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-03;1015#art_3), il Regio istituto Mondragone cessa dall'obbligo di fornire i locali alla Regia scuola commerciale di Napoli ed in conseguenza di essere rappresentato nel Consiglio di amministrazione della detta Scuola. 
+ A modifica degli [articoli 2](../Regi%20decreti/Istituzione%20di%20R.%20scuola%20commerciale.%20021U1015.md) e [3 del R. decreto 3 luglio 1921, n. 1015](../Regi%20decreti/Istituzione%20di%20R.%20scuola%20commerciale.%20021U1015.md), il Regio istituto Mondragone cessa dall'obbligo di fornire i locali alla Regia scuola commerciale di Napoli ed in conseguenza di essere rappresentato nel Consiglio di amministrazione della detta Scuola. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

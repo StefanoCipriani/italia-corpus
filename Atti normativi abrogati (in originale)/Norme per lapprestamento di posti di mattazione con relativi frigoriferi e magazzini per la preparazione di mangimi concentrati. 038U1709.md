@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il regolamento per la vigilanza sanitaria delle carni, approvato con R. decreto 20 dicembre 1928-VII, n. 3298;
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con R. decreto 27 luglio 1934-X1I, n. 1265;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-X1I, n. 1265;
 
 Visto il R. decreto-legge 25 marzo 1937-XV, n. 949, convertito in legge con la legge 23 dicembre 1937-XVI, n. 2676, portante agevolazioni per la costruzione e l'attrezzamento di stabilimenti per la conservazione, lavorazione e trasformazione di prodotti ortofrutticoli e di magazzini e silos da foraggi;
 
@@ -37,7 +37,7 @@ Le agevolazioni contemplate dal R. decreto-legge 25 marzo 1937-XV, n. 949, conve
 
 ## Art. 2.
 
-Per l'esame dei progetti e dei preventivi delle opere, i collaudi finali, l'accertamento della spesa effettiva e le modalita' di pagamento dei contributi, saranno osservate le norme stabilite dall'art. 2 del R. decreto-legge 25 marzo 1937-XV, n. 949, salva la competenza del Ministero dell'interno ai sensi del [1° comma dell'art. 228 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_228-com1), approvato con R. decreto 27 luglio 1934-XII, numero 1265, per quanto riguarda il parere sui progetti dal punto di vista igienico-sanitario.
+Per l'esame dei progetti e dei preventivi delle opere, i collaudi finali, l'accertamento della spesa effettiva e le modalita' di pagamento dei contributi, saranno osservate le norme stabilite dall'art. 2 del R. decreto-legge 25 marzo 1937-XV, n. 949, salva la competenza del Ministero dell'interno ai sensi del [1° comma dell'art. 228 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, numero 1265, per quanto riguarda il parere sui progetti dal punto di vista igienico-sanitario.
 
 ## Art. 3.
 

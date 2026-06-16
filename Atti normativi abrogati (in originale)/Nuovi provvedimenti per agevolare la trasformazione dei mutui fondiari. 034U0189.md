@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
+Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Vista la [legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md), portante provvedimenti per agevolare i mutui fondiari;
 
-Visto il regolamento per la esecuzione delle leggi sul Credito fondiario approvato con [R. decreto 5 maggio 1910, numero 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il regolamento per la esecuzione delle leggi sul Credito fondiario approvato con [R. decreto 5 maggio 1910, numero 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Visto il [R. decreto-legge 19 ottobre 1933, n. 1430](Provvedimenti%20per%20agevolare%20le%20riduzioni%20di%20interessi%20dei%20mutui%20fondiari.%20033U1430.md), recante provvedimenti per agevolare le trasformazioni dei mutui fondiari,
 
@@ -36,7 +36,7 @@ In deroga a quanto e' disposto nell'[art. 21 della legge 22 dicembre 1905, n. 59
 
 ## Art. 2.
 
-La facolta' concessa dall'[art. 1 del R. decreto-legge 19 ottobre 1933, n. 1430](Provvedimenti%20per%20agevolare%20le%20riduzioni%20di%20interessi%20dei%20mutui%20fondiari.%20033U1430.md), agli Istituti di credito fondiario di anticipare le spese necessarie alla trasformazione dei mutui, determinandole complessivamente in una quota annuale fissa a titolo di abbonamento non superiore a 30 centesimi ogni 100 lire di capitale mutuato deve intendersi estesa alle somme tutte dovute dal mutuatario di cui agli articoli 52, 53 e 51 del regolamento per l'esecuzione delle leggi sul credito fondiario approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472).
+La facolta' concessa dall'[art. 1 del R. decreto-legge 19 ottobre 1933, n. 1430](Provvedimenti%20per%20agevolare%20le%20riduzioni%20di%20interessi%20dei%20mutui%20fondiari.%20033U1430.md), agli Istituti di credito fondiario di anticipare le spese necessarie alla trasformazione dei mutui, determinandole complessivamente in una quota annuale fissa a titolo di abbonamento non superiore a 30 centesimi ogni 100 lire di capitale mutuato deve intendersi estesa alle somme tutte dovute dal mutuatario di cui agli articoli 52, 53 e 51 del regolamento per l'esecuzione delle leggi sul credito fondiario approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md).
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ Nei casi di trasformazione di mutui fondiari stipulati ai termini della legge ([
 
 ## Art. 4.
 
-Il primo capoverso dell'art. 74 del testo delle norme sulla bonifica integrale approvato col [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e' sostituito dai seguenti: 
+Il primo capoverso dell'art. 74 del testo delle norme sulla bonifica integrale approvato col [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' sostituito dai seguenti: 
  
  « Le Casse di risparmio, e, in genere, tutti gli Istituti di credito e di previdenza soggetti a vigilanza governativa, esclusi gli Istituti di credito fondiario, possono, nei limiti fissati dagli statuti o con decreto del Ministro per l'agricoltura e le foreste o di quello per le finanze, secondo la rispettiva competenza, concedere ai concessionari ed esecutori di opere di bonifica integrale mutui garantiti con la cessione di annualita' di contributo statale o con il rilascio di delegazioni sui contributi a carico dei proprietari. 
  

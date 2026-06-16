@@ -649,7 +649,7 @@ I sottufficiali che, per menomate condizioni fisiche comprovate da speciale visi
 
 ### Art. 55. — Cessazione dal ruolo invalidi.
 
-I militari invalidi, a compimento del ventesimo anno di servizio effettivo, devono essere collocati a riposo di autorita', giusta il disposto dell'art. 13 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+I militari invalidi, a compimento del ventesimo anno di servizio effettivo, devono essere collocati a riposo di autorita', giusta il disposto dell'art. 13 del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Cessano di appartenere al ruolo invalidi prima di aver compiuto il ventesimo anno di servizio i sottufficiali che abbiano ottenuto un impiego civile a norma delle disposizioni contenute nell'art. 20 e coloro che, per l'aggravarsi delle loro imperfezioni, siano riformati.
 
@@ -722,7 +722,7 @@ Con provvedimenti Ministeriali la decorrenza della ferma e della rafferma del pe
 
 Tutti i sott'ufficiali godranno del soprassoldo mensile caro-viveri di L. 60 previsto dal [decreto Luogotenenziale n. 263 in data 9 febbraio 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-09;263), fino a quando sara' corrisposta l'analoga indennita' agli ufficiali ed impiegati civili dello Stato. 
  
- Tutti i sott'ufficiali continueranno inoltre a godere dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1416 in data 27 luglio 1919](Che%20concede%20a%20tutti%20i%20sottufficiali%20della%20Regia%20marina%20che%20non%20percepiscono%20soprassoldo%20di%20servizio%20allestero%20una%20indennita%20giornaliera.%20019U1416.md).
+ Tutti i sott'ufficiali continueranno inoltre a godere dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1416 in data 27 luglio 1919](../Regi%20decreti/Che%20concede%20a%20tutti%20i%20sottufficiali%20della%20Regia%20marina%20che%20non%20percepiscono%20soprassoldo%20di%20servizio%20allestero%20una%20indennita%20giornaliera.%20019U1416.md).
 
 ### Art. 64. — Decorrenza del primo aumento triennale e quadriennale ai sottufficiali.
 

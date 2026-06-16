@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 18 dicembre 1913, n. 1453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-18;1453), che approva il testo delle disposizioni sulle importazioni ed esportazioni temporanee;
 
-Vista la legge tributaria ciclistica ed automobilistica, approvata con [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md);
+Vista la legge tributaria ciclistica ed automobilistica, approvata con [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md);
 
 Sentito il Consiglio dei Ministri;
 

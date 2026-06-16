@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), riguardante lo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), riguardante lo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e successive modificazioni;
 
 Visto il [R. decreto 18 giugno 1931, n. 978](Ruoli%20organici%20dei%20personali%20civili%20della%20Regia%20marina.%20031U0978.md), riguardante i ruoli organici dei personali civili della Regia marina, e successive modificazioni;
 
@@ -36,7 +36,7 @@ Il ruolo organico dei maestri della Regia Accademia navale (gruppo B) previsto d
 
 ## Art. 2.
 
-I maestri di cui al precedente art. 1, esistenti in ruolo alla data di entrata in vigore del presente decreto, saranno, entro sei mesi da tale data, collocati a riposo, qualora abbiano le condizioni all'uopo prescritte dalle vigenti disposizioni, o in disponibilita' ai sensi e agli effetti del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), qualora non abbiano le condizioni predette.
+I maestri di cui al precedente art. 1, esistenti in ruolo alla data di entrata in vigore del presente decreto, saranno, entro sei mesi da tale data, collocati a riposo, qualora abbiano le condizioni all'uopo prescritte dalle vigenti disposizioni, o in disponibilita' ai sensi e agli effetti del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), qualora non abbiano le condizioni predette.
 
 ## Art. 3.
 

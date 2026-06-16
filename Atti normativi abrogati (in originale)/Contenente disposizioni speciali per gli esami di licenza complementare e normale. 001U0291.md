@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 3 dicembre 1896, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-12-03;592), col quale fu approvato il Regolamento per le Scuole complementari e normali;
+Veduto il [R. decreto 3 dicembre 1896, n. 592](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20le%20scuole%20normali%20e%20complementari.%20096U0592.md), col quale fu approvato il Regolamento per le Scuole complementari e normali;
 
 Veduto il [R. decreto 4 luglio 1898, n. 330](Concernente%20disposizioni%20speciali%20per%20gli%20esami%20di%20licenza.%20098U0330.md), contenente disposizioni speciali per gli esami di licenza;
 

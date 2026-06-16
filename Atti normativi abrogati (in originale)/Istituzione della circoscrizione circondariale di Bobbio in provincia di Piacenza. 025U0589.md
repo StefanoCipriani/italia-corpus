@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 8 luglio 1923, n. 1726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-08;1726); 
+ Visto il [R. decreto 8 luglio 1923, n. 1726](../Regi%20decreti/Soppressione%20della%20circoscrizione%20circondariale%20di%20Bobbio%20ed%20aggregazione%20dei%20Comuni%20che%20ne%20fanno%20parte%20alle%20circoscrizioni%20territoriali%20delle%20provincie%20di%20Genova%20Piacenza%20e%20Pavia.%20023U1726.md); 
  
  Vista la legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), nonche' il [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md); 
  

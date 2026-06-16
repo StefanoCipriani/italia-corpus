@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Visto l'[art. 1 del R. decreto 23 maggio 1940, n. 750](Tariffe%20postali%20indennizzi%20per%20corrispondenze%20e%20pacchi%20smarriti%20limiti%20di%20peso%20dimensioni%20valore%20ed%20assegno%20per%20gli%20oggetti%20e%20operazioni%20postali.%20040U0750.md), e la tabella n. 1 allegata ad esso decreto;
 

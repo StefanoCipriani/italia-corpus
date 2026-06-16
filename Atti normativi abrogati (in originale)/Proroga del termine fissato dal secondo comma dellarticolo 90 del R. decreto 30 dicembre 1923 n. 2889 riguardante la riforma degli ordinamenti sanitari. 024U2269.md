@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md);
+Visto il [R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Il termine fissato dal [secondo comma dell'art. 90 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' prorogato al 31 dicembre 1925.
+Il termine fissato dal [secondo comma dell'art. 90 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e' prorogato al 31 dicembre 1925.
 
 ## Art. 2.
 

@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale 
 
 ## Art. 1.
 
-I Regi istituti superiori di scienze economiche e commerciali di cui al [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), le Regie scuole industriali di cui al [R. decreto 31 ottobre 1923, numero 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e le Regie scuole medie commerciali di cui al [R. decreto 15 maggio 1924, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-15;749), possono essere rappresentate e difese dalla Regia avvocatura erariale in tutti i giudizi attivi e passivi avanti l'autorita' giudiziaria, collegi arbitrali e giudiziari speciali.
+I Regi istituti superiori di scienze economiche e commerciali di cui al [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), le Regie scuole industriali di cui al [R. decreto 31 ottobre 1923, numero 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e le Regie scuole medie commerciali di cui al [R. decreto 15 maggio 1924, n. 749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-15;749), possono essere rappresentate e difese dalla Regia avvocatura erariale in tutti i giudizi attivi e passivi avanti l'autorita' giudiziaria, collegi arbitrali e giudiziari speciali.
 
 ## Art. 2.
 

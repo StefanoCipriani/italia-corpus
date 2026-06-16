@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A cominciare dall'esercizio finanziario 1919-920 e non oltre l'esercizio successivo a quello in cui verra' pubblicata la pace, e' sospesa l'applicazione degli articoli 176, 177, 192, 210, comma secondo, 213, 214 e 215 del regolamento approvato col [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326). 
+A cominciare dall'esercizio finanziario 1919-920 e non oltre l'esercizio successivo a quello in cui verra' pubblicata la pace, e' sospesa l'applicazione degli articoli 176, 177, 192, 210, comma secondo, 213, 214 e 215 del regolamento approvato col [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md). 
  
  Per lo stesso periodo saranno osservate le disposizioni di cui agli articoli seguenti.
 

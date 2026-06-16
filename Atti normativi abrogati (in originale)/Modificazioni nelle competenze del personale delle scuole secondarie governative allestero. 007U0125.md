@@ -14,7 +14,7 @@ E' approvata l'unita tabella degli stipendi, indennita' di residenza ed assegni 
 
 ## Art. 2.
 
-E' abrogata la tabella A annessa al [R. decreto 23 agosto 1894, n. 394](Che%20riordina%20le%20scuole%20italiane%20allestero.%20094U0394.md).
+E' abrogata la tabella A annessa al [R. decreto 23 agosto 1894, n. 394](../Regi%20decreti/Che%20riordina%20le%20scuole%20italiane%20allestero.%20094U0394.md).
 
 ## Art. 3.
 

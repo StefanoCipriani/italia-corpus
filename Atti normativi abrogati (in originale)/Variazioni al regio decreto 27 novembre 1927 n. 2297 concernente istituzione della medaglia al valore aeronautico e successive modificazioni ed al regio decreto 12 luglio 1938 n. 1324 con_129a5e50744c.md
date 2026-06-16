@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 novembre 1927, n. 2297](Istituzione%20della%20medaglia%20al%20valore%20aeronautico%20e%20di%20quella%20commemorativa%20dimprese%20aeronautiche.%20027U2297.md), concernente istituzione della medaglia al valore aeronautico, e successive modificazioni;
+Visto il [regio decreto 27 novembre 1927, n. 2297](../Regi%20decreti/Istituzione%20della%20medaglia%20al%20valore%20aeronautico%20e%20di%20quella%20commemorativa%20dimprese%20aeronautiche.%20027U2297.md), concernente istituzione della medaglia al valore aeronautico, e successive modificazioni;
 
-Visto il [regio decreto 12 luglio 1938, n. 1324](Riforma%20delle%20vigenti%20disposizioni%20sulla%20concessione%20di%20ricompense%20al%20valor%20di%20marina.%20038U1324.md), concernente riforma delle disposizioni sulla concessione di ricompense al valor di marina, e successive modificazioni;
+Visto il [regio decreto 12 luglio 1938, n. 1324](../Regi%20decreti/Riforma%20delle%20vigenti%20disposizioni%20sulla%20concessione%20di%20ricompense%20al%20valor%20di%20marina.%20038U1324.md), concernente riforma delle disposizioni sulla concessione di ricompense al valor di marina, e successive modificazioni;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa; Decreta:
 
 ## Art. 1.
 
-Al [regio decreto 27 novembre 1927, n. 2297](Istituzione%20della%20medaglia%20al%20valore%20aeronautico%20e%20di%20quella%20commemorativa%20dimprese%20aeronautiche.%20027U2297.md), concernente istituzione della medaglia al valore aeronautico, e successive modificazioni, sono apportate le seguenti variazioni: 
+Al [regio decreto 27 novembre 1927, n. 2297](../Regi%20decreti/Istituzione%20della%20medaglia%20al%20valore%20aeronautico%20e%20di%20quella%20commemorativa%20dimprese%20aeronautiche.%20027U2297.md), concernente istituzione della medaglia al valore aeronautico, e successive modificazioni, sono apportate le seguenti variazioni: 
  L'art. 5 e' sostituito dal seguente: 
  Art. 5. - "La medaglia al valore aeronautico puo' essere concessa alla memoria di colui che sia rimasto vittima della propria azione generosa o che sia deceduto in conseguenza di essa". 
  "L'insegna ed il brevetto della medaglia al valore aeronautico concessa alla memoria di persona deceduta sono attribuiti in proprieta' al coniuge superstite nei confronti del quale non sia stata pronunciata per sua colpa sentenza di separazione e purche' conservi lo stato vedovile". 
@@ -34,7 +34,7 @@ Al [regio decreto 27 novembre 1927, n. 2297](Istituzione%20della%20medaglia%20al
  Art. 9-bis. - "Le insegne delle medaglie al valore aeronautico possono essere indossate anche sull'abito civile". 
  "E' data facolta' di fregiarsi delle insegne delle medaglie al valore aeronautico, concesse alla memoria di un deceduto, al coniuge superstite nei confronti del quale non sia stata pronunciata, per sua colpa, sentenza di separazione e finche' conservi lo stato vedovile; oppure al padre; oppure alla madre di lui". 
  Art. 9-ter. - "Per ottenere l'assegnazione delle insegne e dei brevetti delle medaglie al valore aeronautico concesse alla memoria, di cui al precedente art. 5, e l'autorizzazione a fregiarsi delle insegne, di cui al precedente art. 9-bis, e' necessario essere immuni da gravi carichi penali e morali". 
- "Non possono ottenere l'assegnazione delle insegne e dei brevetti delle medaglie al valore aeronautico concesse alla memoria, ne' l'autorizzazione a fregiarsi di dette insegne, coloro i quali si trovino nelle condizioni previste dai numeri 4, 5, 6, 7, 8, 9 e 12 dell'art. 8 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md)". 
+ "Non possono ottenere l'assegnazione delle insegne e dei brevetti delle medaglie al valore aeronautico concesse alla memoria, ne' l'autorizzazione a fregiarsi di dette insegne, coloro i quali si trovino nelle condizioni previste dai numeri 4, 5, 6, 7, 8, 9 e 12 dell'art. 8 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md)". 
  L'art. 10 e' sostituito dal seguente: 
  Art. 10. - "La medaglia al valore aeronautico viene consegnata al titolare o alla persona cui viene attribuita in proprieta', in forma solenne, nella ricorrenza di feste nazionali, dal Capo di Stato Maggiore dell'Aeronautica militare o da altra autorita' militare da lui designata". 
  L'art. 13 e' sostituito dal seguente: 
@@ -53,7 +53,7 @@ Al [regio decreto 27 novembre 1927, n. 2297](Istituzione%20della%20medaglia%20al
 
 ## Art. 2.
 
-Al [regio decreto 12 luglio 1938, n. 1324](Riforma%20delle%20vigenti%20disposizioni%20sulla%20concessione%20di%20ricompense%20al%20valor%20di%20marina.%20038U1324.md), concernente riforma delle disposizioni sulla concessione di ricompense al valor di marina, e successivo modificazioni, sono apportate le seguenti variazioni. 
+Al [regio decreto 12 luglio 1938, n. 1324](../Regi%20decreti/Riforma%20delle%20vigenti%20disposizioni%20sulla%20concessione%20di%20ricompense%20al%20valor%20di%20marina.%20038U1324.md), concernente riforma delle disposizioni sulla concessione di ricompense al valor di marina, e successivo modificazioni, sono apportate le seguenti variazioni. 
  Il primo comma dell'art. 3 e' sostituito dal seguente: 
  "La medaglia al valor di marina puo' essere concessa alla memoria di colui che sia rimasto vittima della propria azione generosa o che sia deceduto in conseguenza di essa". 
  Dopo l'art. 3 e' inserito il seguente art. 3-bis: 
@@ -61,7 +61,7 @@ Al [regio decreto 12 luglio 1938, n. 1324](Riforma%20delle%20vigenti%20disposizi
  "E' data facolta' di fregiarsi delle insegne delle medaglie al valor di marina, concesse alla memoria di un deceduto, al coniuge superstite nei confronti del quale non sia stata pronunciata, per sua colpa, sentenza di separazione e finche' conservi lo stato vedovile; oppure al padre; oppure alla madre di lui". 
  L'art. 4 e' sostituito dal seguente: 
  Art. 4. - "Per ottenere l'assegnazione delle insegne e dei brevetti delle medaglie al valor di marina concesse alla memoria, di cui al precedente art. 3, e l'autorizzazione a fregiarsi delle insegne, di cui al precedente art. 3-bis, e' necessario essere immuni da gravi carichi penali e morali". 
- "Non possono ottenere l'assegnazione delle insegne e dei brevetti delle medaglie al valor di marina concesse alla memoria, ne' l'autorizzazione a fregiarsi di dette insegne, coloro i quali si trovino nelle condizioni previste dai numeri 4, 5, 6, 7, 8, 9 e 12 dell'art. 8 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md)".
+ "Non possono ottenere l'assegnazione delle insegne e dei brevetti delle medaglie al valor di marina concesse alla memoria, ne' l'autorizzazione a fregiarsi di dette insegne, coloro i quali si trovino nelle condizioni previste dai numeri 4, 5, 6, 7, 8, 9 e 12 dell'art. 8 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

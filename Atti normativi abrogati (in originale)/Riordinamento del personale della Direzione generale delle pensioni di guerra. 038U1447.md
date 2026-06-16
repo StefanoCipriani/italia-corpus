@@ -44,7 +44,7 @@ a) nel ruolo di gruppo B istituito con il primo comma dell'art. 1 quello apparte
  
 b) nel ruolo del personale d'ordine ed in quello del personale subalterno dell'Amministrazione centrale e delle Intendenze di finanza, in corrispondenza dei posti aumentati ai sensi del secondo comma dell'art. 1, quello appartenente rispettivamente ad altri ruoli di gruppo C e di agenti subalterni del Ministero delle finanze e dell'Amministrazione autonoma dei monopoli di Stato. 
  
- Il personale cosi' trasferito e' collocato, tenuto conto per quello di gruppo B anche del disposto dell'[art. 108 del Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_108), nei ruoli di cui alle tabelle A e B con il grado rivestito nel ruolo di provenienza, al posto che gli spetta secondo l'ordine determinato dalla rispettiva anzianita' di grado.
+ Il personale cosi' trasferito e' collocato, tenuto conto per quello di gruppo B anche del disposto dell'[art. 108 del Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), nei ruoli di cui alle tabelle A e B con il grado rivestito nel ruolo di provenienza, al posto che gli spetta secondo l'ordine determinato dalla rispettiva anzianita' di grado.
 
 ## Art. 3.
 

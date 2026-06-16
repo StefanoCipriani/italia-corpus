@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 20 dicembre 1923, n. 2214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;2214);
 
-Visto il [R. decreto 18 settembre 1924, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1772);
+Visto il [R. decreto 18 settembre 1924, n. 1772](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Cerignola%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1772.md);
 
 Visto il R, decreto 3 agosto 1921, n. 1442;
 
@@ -58,7 +58,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 20 dicembre 1923, n. 2214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-20;2214); 
  
- Visto il [R. decreto 18 settembre 1924, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1772); 
+ Visto il [R. decreto 18 settembre 1924, n. 1772](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Cerignola%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1772.md); 
  
  Visto il R, decreto 3 agosto 1921, n. 1442; 
  

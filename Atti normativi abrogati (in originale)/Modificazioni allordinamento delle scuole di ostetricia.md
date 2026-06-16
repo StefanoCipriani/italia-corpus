@@ -22,7 +22,7 @@ Il [primo comma dell'art. 6 del, regio decreto-legge 15 ottobre 1936, n. 2128](O
 ## Art. 2.
 
 Il [primo comma dell'art. 13 del regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), convertito nella [legge 23 marzo 1937, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-03-23;921), e' sostituito dal seguente:
- "Possono essere iscritte alle scuole di ostetricia le donne che abbiano conseguito il diploma di Stato per l'esercizio della professione d'infermiera, a termini dell'[art. 135 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_135), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)".
+ "Possono essere iscritte alle scuole di ostetricia le donne che abbiano conseguito il diploma di Stato per l'esercizio della professione d'infermiera, a termini dell'[art. 135 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)".
 
 ## Art. 3.
 

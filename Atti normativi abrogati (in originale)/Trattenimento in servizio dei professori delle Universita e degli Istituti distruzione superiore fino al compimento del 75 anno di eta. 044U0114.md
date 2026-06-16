@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
-Visto il Testo Unico delle leggi sulla Istruzione Superiore approvato con [Regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il Testo Unico delle leggi sulla Istruzione Superiore approvato con [Regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Visto il [R. decreto-legge 24 aprile 1935, n. 565](Limiti%20di%20eta%20pel%20collocamento%20a%20riposo%20del%20personale%20direttivo%20ed%20insegnante%20degli%20istituti%20distruzione.%20035U0565.md);
 

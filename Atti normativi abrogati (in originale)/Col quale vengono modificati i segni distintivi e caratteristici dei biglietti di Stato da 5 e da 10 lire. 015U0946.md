@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vedute le [leggi 22 luglio 1894, n. 339, e 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), sui provvedimenti di finanza e di tesoro; 17 gennaio 1897, n. 9 e 3 marzo 1898, n. 47, per le guarentigie e per il risanamento della circolazione bancaria; 
  
- Veduto il regolamento per i biglietti di Stato e di Banca, approvato col [R. decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md); 
+ Veduto il regolamento per i biglietti di Stato e di Banca, approvato col [R. decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md); 
  
  Veduti i RR. decreti 5 febbraio 1888, n. 5204, 1° agosto 1889, n. 6340; 11 settembre 1892, n. 495; 7 ottobre 1904, n. 556; 2 aprile 1905, n. 117; 18 dicembre 1910, n. 904; 22 gennaio 1911, n. 62 e 29 marzo 1914, n. 281, coi quali furono stabiliti o modificati i segni e i distintivi caratteristici dei biglietti di Stato da lire dieci e da lire cinque; 
  

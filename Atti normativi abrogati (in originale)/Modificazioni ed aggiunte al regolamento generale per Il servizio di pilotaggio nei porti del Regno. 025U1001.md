@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il regolamento per l'esecuzione del Codice medesimo, approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md), serie 2ª, e successive modificazioni; 
  
- Visto il [R. decreto n. 479 del 15 febbraio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-15;479) che approva regolamento per il servizio di pilotaggio nei porti del Regno; 
+ Visto il [R. decreto n. 479 del 15 febbraio 1923](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20servizio%20di%20pilotaggio%20nei%20porti%20del%20Regno.%20023U0479.md) che approva regolamento per il servizio di pilotaggio nei porti del Regno; 
  
  Visto il [R. decreto 19 giugno 1924, n. 1232](Modificazioni%20al%20regolamento%20generale%20per%20il%20servizio%20di%20pilotaggio.%20024U1232.md), che apporta talune modifiche al regolamento su citato pel servizio di pilotaggio nei porti dello Stato; 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499);
+Visto il [R. decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md);
 
 Visto l'[art. 3 del R. decreto 6 dicembre 1928, n. 2809](Modificazioni%20alle%20piante%20organiche%20del%20personale%20della%20magistratura%20delle%20cancellerie%20e%20segreterie%20giudiziarie%20degli%20ufficiali%20giudiziari%20e%20degli%20uscieri%20in%20esecuzione%20del%20R.%20decreto%2031%20_c45fab8da03a.md);
 

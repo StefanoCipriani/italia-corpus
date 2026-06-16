@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 gennaio 1904, n. 27](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulle%20opere%20di%20risanamento%20della%20citta%20di%20Napoli.%20004U0027.md), istitutivo della Sezione speciale del Tesoro per la vigilanza sulle opere di risanamento della citta' di Napoli;
+Visto il [R. decreto 14 gennaio 1904, n. 27](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulle%20opere%20di%20risanamento%20della%20citta%20di%20Napoli.%20004U0027.md), istitutivo della Sezione speciale del Tesoro per la vigilanza sulle opere di risanamento della citta' di Napoli;
 
 Viste le [leggi 5 luglio 1908, n. 351, 12 marzo 1911, n. 258, e 9 agosto 1926, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-08-09;1691);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Articolo unico.
 
-La Sezione speciale dell'Ispettorato del Tesoro istituita col [R. decreto 14 gennaio 1904, n. 27](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulle%20opere%20di%20risanamento%20della%20citta%20di%20Napoli.%20004U0027.md), che approva il regolamento per la esecuzione della [legge 7 luglio 1902, n. 290](Provvedimenti%20per%20completare%20le%20opere%20di%20risanamento%20della%20citta%20di%20Napoli.%20002U0290.md), sul risanamento della citta' di Napoli, e' soppressa. 
+La Sezione speciale dell'Ispettorato del Tesoro istituita col [R. decreto 14 gennaio 1904, n. 27](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulle%20opere%20di%20risanamento%20della%20citta%20di%20Napoli.%20004U0027.md), che approva il regolamento per la esecuzione della [legge 7 luglio 1902, n. 290](Provvedimenti%20per%20completare%20le%20opere%20di%20risanamento%20della%20citta%20di%20Napoli.%20002U0290.md), sul risanamento della citta' di Napoli, e' soppressa. 
  
  Le relative attribuzioni, per gli affari ancora in corso all'entrata in vigore del presente decreto, sono demandate all'Alto Commissariato per la citta' e la provincia di Napoli costituito col [R. decreto-legge 15 agosto 1925, n. 1636](Costituzione%20e%20funzionamento%20dellAlto%20Commissariato%20per%20la%20citta%20e%20la%20provincia%20di%20Napoli.%20025U1636.md). 
  

@@ -18,7 +18,7 @@ In virtu' dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601
 
 Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del R. Esercito e della R. Marina e il regolamento relativo, approvato con [R. decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md);
 
-Visto il [R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189), che modifica l'ordinamento dei servizi dipartimentali della R. Marina;
+Visto il [R. decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), che modifica l'ordinamento dei servizi dipartimentali della R. Marina;
 
 Udito il Consiglio dei Ministri;
 

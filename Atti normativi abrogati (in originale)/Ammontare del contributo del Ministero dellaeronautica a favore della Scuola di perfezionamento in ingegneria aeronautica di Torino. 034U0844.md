@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 ottobre 1930, n. 1988](Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20dingegneria%20di%20Torino.%20030U1988.md), riguardante l'approvazione del nuovo statuto della Regia scuola di ingegneria di Torino;
+Visto il [R. decreto 30 ottobre 1930, n. 1988](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20dingegneria%20di%20Torino.%20030U1988.md), riguardante l'approvazione del nuovo statuto della Regia scuola di ingegneria di Torino;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,9 +30,9 @@ A decorrere dal 1° ottobre 1934 il Ministero dell'aeronautica corrispondera' al
 
 ## Art. 2.
 
-Tale contributo e' destinato esclusivamente al finanziamento della Scuola di perfezionamento in ingegneria aeronautica di cui al [R. decreto 30 ottobre 1930, n. 1988](Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20dingegneria%20di%20Torino.%20030U1988.md), annessa alla innanzi cennata Regia scuola di ingegneria di Torino, nonche' al dipendente Laboratorio di aeronautica e piu' precisamente: 
+Tale contributo e' destinato esclusivamente al finanziamento della Scuola di perfezionamento in ingegneria aeronautica di cui al [R. decreto 30 ottobre 1930, n. 1988](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20dingegneria%20di%20Torino.%20030U1988.md), annessa alla innanzi cennata Regia scuola di ingegneria di Torino, nonche' al dipendente Laboratorio di aeronautica e piu' precisamente: 
  
- a) per gli stipendi dei docenti della suddetta Scuola di perfezionamento in ingegneria aeronautica, fra cui sono compresi i professori di ruolo chiamati a coprire i due posti creati dal Consiglio di amministrazione dell'Istituto di ingegneria, ai sensi dell'art. 2 della convenzione approvata col [R. decreto 23 ottobre 1924, n. 1727](Approvazione%20della%20Convenzione%204%20settembre%201924%20per%20il%20mantenimento%20della%20Regia%20scuola%20dingegneria%20di%20Torino.%20024U1727.md)/1725, e assegnati agli insegnamenti dell'«aerodinamica applicata» e dei «motori per aeromobili»; 
+ a) per gli stipendi dei docenti della suddetta Scuola di perfezionamento in ingegneria aeronautica, fra cui sono compresi i professori di ruolo chiamati a coprire i due posti creati dal Consiglio di amministrazione dell'Istituto di ingegneria, ai sensi dell'art. 2 della convenzione approvata col [R. decreto 23 ottobre 1924, n. 1727](../Regi%20decreti/Approvazione%20della%20Convenzione%204%20settembre%201924%20per%20il%20mantenimento%20della%20Regia%20scuola%20dingegneria%20di%20Torino.%20024U1727.md)/1725, e assegnati agli insegnamenti dell'«aerodinamica applicata» e dei «motori per aeromobili»; 
  
 b) per le retribuzioni degli incaricati, degli assistenti, degli aiuti e dei tecnici; 
  

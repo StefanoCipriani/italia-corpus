@@ -73,7 +73,7 @@ Il Governo del Re e' autorizzato a dare, per decreto Reale, le disposizioni tran
  
  Il giorno in cui andra' in vigore la presente legge sara' fissato per decreto Reale. 
  
- Questo giorno non potra' essere posteriore a quello in cui avra' esecuzione nel Regno il nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed in ogni caso al 1° aprile 1889. 
+ Questo giorno non potra' essere posteriore a quello in cui avra' esecuzione nel Regno il nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed in ogni caso al 1° aprile 1889. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

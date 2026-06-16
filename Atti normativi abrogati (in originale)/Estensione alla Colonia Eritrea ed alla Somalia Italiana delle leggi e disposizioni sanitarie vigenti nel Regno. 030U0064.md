@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) del Regno, approvato con [R. decreto del 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e tutte le disposizioni vigenti nel Regno in materia di sanita' pubblica, sono estese alla Colonia Eritrea e alla Somalia Italiana, per quanto lo consentano le condizioni locali e in quanto non contrastino con le speciali disposizioni sanitarie emanate per le dette Colonie. 
+ Il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) del Regno, approvato con [R. decreto del 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e tutte le disposizioni vigenti nel Regno in materia di sanita' pubblica, sono estese alla Colonia Eritrea e alla Somalia Italiana, per quanto lo consentano le condizioni locali e in quanto non contrastino con le speciali disposizioni sanitarie emanate per le dette Colonie. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

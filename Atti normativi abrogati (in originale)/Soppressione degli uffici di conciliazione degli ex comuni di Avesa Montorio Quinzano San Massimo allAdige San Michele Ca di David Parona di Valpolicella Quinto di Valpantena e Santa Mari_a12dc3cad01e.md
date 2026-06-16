@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il R. decreto 16 gennaio 1927-V, n. 452, in virtu' del quale sono stati soppressi i comuni di Avesa, Montorio, Quinzano, San Massimo all'Adige e San Michele; nonche' il successivo [R. decreto 7 aprile 1927, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;552), in virtu' del quale sono stati soppressi i comuni di Ca' di David, Parona di Valpolicella, Quinto di Valpantena e Santa Maria in Stelle ed i relativi territori aggregati a quello di Verona; 
+ Visto il R. decreto 16 gennaio 1927-V, n. 452, in virtu' del quale sono stati soppressi i comuni di Avesa, Montorio, Quinzano, San Massimo all'Adige e San Michele; nonche' il successivo [R. decreto 7 aprile 1927, n. 552](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Verona%20di%20cinque%20Comuni%20limitrofi.%20027U0552.md), in virtu' del quale sono stati soppressi i comuni di Ca' di David, Parona di Valpolicella, Quinto di Valpantena e Santa Maria in Stelle ed i relativi territori aggregati a quello di Verona; 
  
  Vista la deliberazione in data 16 aprile 1928 del podesta' di Verona, tendente ad ottenere la soppressione degli uffici di conciliazione dei detti Comuni; 
  

@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto lo statuto della Regia universita' di Bologna, approvato con il R. decreto 14 ottobre 1926-IV, n. 2170, e modificato con i Regi decreti 13 ottobre 1927-V, n. 2227, 4 settembre 1930-VIII, n. 1312, 1° ottobre 1931-IX, n. 1778, 27 ottobre 1932-X, n. 2092, 6 dicembre 1934-XIII, n. 2394, 1° ottobre 1936-XIV, n. 2502, 27 ottobre 1937-XV, n. 2102, 12 maggio 1939-XVII, n. 1315, 5 ottobre 1939-XVII, n. 1644, 26 ottobre 1940, n. 2070, 11 luglio 1941-XIX, n. 848;
 

@@ -25,7 +25,7 @@ L'Amministrazione del Fondo per il culto e' autorizzata:
  all'esercizio finanziario dal 1° luglio 1922 al 30 giugno 1923,  in conformita' dello stato di previsione annesso 
  alla presento legge (tabella C). 
  
- Per gli effetti di che all'art. 38 del testo unico della legge sulla contabilita' generale dello Stato, approvato col [Regio decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), sono considerate «Spese obbligatorie e d'ordine» dell'amministrazione del Fondo per il culto quelle descritte nell'elenco n. 1, annesso alla presente legge. 
+ Per gli effetti di che all'art. 38 del testo unico della legge sulla contabilita' generale dello Stato, approvato col [Regio decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), sono considerate «Spese obbligatorie e d'ordine» dell'amministrazione del Fondo per il culto quelle descritte nell'elenco n. 1, annesso alla presente legge. 
  
  Pel pagamento delle spese indicate nell'elenco n. 2, annesso alla presente legge, potra' l'Amministrazione del Fondo per il Culto aprire crediti, mediante mandati a disposizione dei funzionari incaricati.
 

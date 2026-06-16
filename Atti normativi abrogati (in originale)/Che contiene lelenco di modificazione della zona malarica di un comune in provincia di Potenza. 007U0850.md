@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157) 1° agosto 1907, n. 636, ed il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61; 
+ Visto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, ed il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61; 
  
  Visto il Nostro decreto 28 gennaio 1904, n. 34, concernente la dichiarazione di alcune zone malariche nel territorio della provincia di Potenza; 
  

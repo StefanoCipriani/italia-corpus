@@ -22,13 +22,13 @@ Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmm
 
 Visto l'[art. 12 del R. decreto 4 settembre 1925, n. 1729](Suddivisione%20in%20reparti%20delle%20Direzioni%20provinciali%20delle%20poste%20e%20dei%20telegrafi%20a%20seconda%20della%20classe%20cui%20appartengono.%20025U1729.md);
 
-Visto l'[art. 1 del R. decreto 16 giugno 1938, n. 1275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-16;1275#art_1);
+Visto l'[art. 1 del R. decreto 16 giugno 1938, n. 1275](../Regi%20decreti/Norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20nei%20casi%20dinfortuni%20in%20servizio.%20038U1275.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Vista la [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
-Riconosciuta la necessita' di precisare agli effetti dell'[articolo 1 del R. decreto 16 giugno 1938, n. 1275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-16;1275#art_1), quali siano gli uffici dove si svolgono i servizi meramente esecutivi postali e delle telecomunicazioni;
+Riconosciuta la necessita' di precisare agli effetti dell'[articolo 1 del R. decreto 16 giugno 1938, n. 1275](../Regi%20decreti/Norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20nei%20casi%20dinfortuni%20in%20servizio.%20038U1275.md), quali siano gli uffici dove si svolgono i servizi meramente esecutivi postali e delle telecomunicazioni;
 
 Visto il parere del Consiglio di amministrazione delle poste e dei telegrafi;
 

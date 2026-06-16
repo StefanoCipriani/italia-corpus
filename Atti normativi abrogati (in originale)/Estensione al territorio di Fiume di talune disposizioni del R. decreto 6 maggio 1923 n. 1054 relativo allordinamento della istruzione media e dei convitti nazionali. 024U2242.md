@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Articolo unico.
 
-Le disposizioni del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), sono estese al territorio di Fiume, ad eccezione di quelle contenute negli articoli 13, comma primo, 15, 101, comma secondo, 126, comma secondo e terzo, e di quelle contenute negli articoli 9, 10 e 98, in quanto si riferiscono al trattamento economico del personale indicato negli articoli medesimi. 
+Le disposizioni del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sono estese al territorio di Fiume, ad eccezione di quelle contenute negli articoli 13, comma primo, 15, 101, comma secondo, 126, comma secondo e terzo, e di quelle contenute negli articoli 9, 10 e 98, in quanto si riferiscono al trattamento economico del personale indicato negli articoli medesimi. 
  
  Nel comma primo dell'art. 144 del decreto medesimo la data «1° ottobre 1923» s'intende sostituita con la data «1° ottobre 1924». 
  

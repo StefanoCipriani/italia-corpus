@@ -20,7 +20,7 @@ Il trattamento di cui all'[art. 2 del R. decreto n. 620 del 13 maggio 1915](http
  
  d) avventizi assunti con regolare atto di sottomissione in funzioni continuative per l'esercizio delle ferrovie secondarie sicule; 
  
- e) avventizi di cui ai paragrafi 1° e 2° dell'articolo 5 del regolamento del personale navigante delle ferrovie dello Stato, approvato con [R. decreto 25 giugno 1914, n. 707](Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20navigante%20delle%20ferrovie%20dello%20Stato.%20014U0707.md), imbarcati con regolare contratto d'arruolamento, e quelli non sistemabili a ruolo di cui all'art. 86 del regolamento stesso, pure imbarcati come sopra. 
+ e) avventizi di cui ai paragrafi 1° e 2° dell'articolo 5 del regolamento del personale navigante delle ferrovie dello Stato, approvato con [R. decreto 25 giugno 1914, n. 707](../Regi%20decreti/Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20navigante%20delle%20ferrovie%20dello%20Stato.%20014U0707.md), imbarcati con regolare contratto d'arruolamento, e quelli non sistemabili a ruolo di cui all'art. 86 del regolamento stesso, pure imbarcati come sopra. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 29 aprile 1925, n. 988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-29;988), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), riflettente l'ordinamento delle ricevitorie postali e telegrafiche;
 
-Visto il [R. decreto 9 ottobre 1930, n. 1414](Modificazioni%20alle%20norme%20del%20R.%20decreto-legge%2029%20aprile%201925%20n.%20988%20e%20del%20regolamento%20riguardante%20il%20conferimento%20delle%20ricevitorie%20postali%20e%20telegrafiche.%20030U1414.md), circa il conferimento delle ricevitorie medesime;
+Visto il [R. decreto 9 ottobre 1930, n. 1414](../Regi%20decreti/Modificazioni%20alle%20norme%20del%20R.%20decreto-legge%2029%20aprile%201925%20n.%20988%20e%20del%20regolamento%20riguardante%20il%20conferimento%20delle%20ricevitorie%20postali%20e%20telegrafiche.%20030U1414.md), circa il conferimento delle ricevitorie medesime;
 
 Vista la [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md), concernente l'assegnazione obbligatoria degli invalidi di guerra nelle pubbliche amministrazioni e nelle aziende private;
 
@@ -45,7 +45,7 @@ Il Ministro per le comunicazioni ha facolta', sentita la Commissione centrale de
 
 La titolarita' delle ricevitorie che risultassero disponibili dopo l'applicazione del precedente articolo potra' essere conferita: 
  a) senza concorso ai rispettivi gerenti con almeno tre anni di complessivo servizio in tale qualita', ove trattisi di ricevitorie con retribuzione inferiore a lire 5000; 
- b) mediante concorso da bandirsi seguendo le norme ordinarie fra gli aspiranti indicati al [secondo comma del n. 1 dell'art. 3 del R. decreto 9 ottobre 1930, n. 1414](Modificazioni%20alle%20norme%20del%20R.%20decreto-legge%2029%20aprile%201925%20n.%20988%20e%20del%20regolamento%20riguardante%20il%20conferimento%20delle%20ricevitorie%20postali%20e%20telegrafiche.%20030U1414.md), ove trattisi di ricevitorie con retribuzione compresa fra lire 5000 e lire 14.000.
+ b) mediante concorso da bandirsi seguendo le norme ordinarie fra gli aspiranti indicati al [secondo comma del n. 1 dell'art. 3 del R. decreto 9 ottobre 1930, n. 1414](../Regi%20decreti/Modificazioni%20alle%20norme%20del%20R.%20decreto-legge%2029%20aprile%201925%20n.%20988%20e%20del%20regolamento%20riguardante%20il%20conferimento%20delle%20ricevitorie%20postali%20e%20telegrafiche.%20030U1414.md), ove trattisi di ricevitorie con retribuzione compresa fra lire 5000 e lire 14.000.
 
 ## Art. 3.
 

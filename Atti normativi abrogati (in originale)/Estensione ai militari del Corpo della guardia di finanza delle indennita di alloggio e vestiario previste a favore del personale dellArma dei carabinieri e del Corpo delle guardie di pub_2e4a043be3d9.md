@@ -14,9 +14,9 @@ Visto il [regio decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-r
 
 Vista la [legge 20 novembre 1919, n. 2379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-11-20;2379);
 
-Visto il [regio decreto 3 agosto 1928, n. 1886](Revisione%20della%20indennita%20di%20alloggio%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20028U1886.md);
+Visto il [regio decreto 3 agosto 1928, n. 1886](../Regi%20decreti/Revisione%20della%20indennita%20di%20alloggio%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20028U1886.md);
 
-Visto il [regio decreto 14 marzo 1929, n. 359](Estensione%20agli%20ufficiali%20della%20Regia%20guardia%20di%20finanza%20della%20indennita%20di%20alloggio%20stabilita%20per%20gli%20ufficiali%20dei%20carabinieri%20Reali%20col%20R.%20decreto%203%20agosto%201928%20n.%201886.%20029U0359.md);
+Visto il [regio decreto 14 marzo 1929, n. 359](../Regi%20decreti/Estensione%20agli%20ufficiali%20della%20Regia%20guardia%20di%20finanza%20della%20indennita%20di%20alloggio%20stabilita%20per%20gli%20ufficiali%20dei%20carabinieri%20Reali%20col%20R.%20decreto%203%20agosto%201928%20n.%201886.%20029U0359.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 1 aprile 1947, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-01;222);
 

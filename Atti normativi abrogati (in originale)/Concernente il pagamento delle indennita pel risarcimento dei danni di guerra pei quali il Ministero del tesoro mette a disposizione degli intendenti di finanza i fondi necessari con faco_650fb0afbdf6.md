@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R decreto 17 febbraio 1884, n 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª), col quale e' approvato il testo unico della legge su l'Amministrazione e sulla contabilita' generale dello Stato;
+Veduto il [R decreto 17 febbraio 1884, n 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª), col quale e' approvato il testo unico della legge su l'Amministrazione e sulla contabilita' generale dello Stato;
 
 Veduto il testo unico delle disposizioni per il risarcimento dei danni di guerra, approvato con [decreto Luogotenenziale 27 marzo 1919 n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-03-27;426) ;
 

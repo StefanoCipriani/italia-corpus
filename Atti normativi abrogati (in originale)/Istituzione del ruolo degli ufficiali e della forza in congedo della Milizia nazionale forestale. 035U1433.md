@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto la [legge 13 dicembre 1928, n. 3141](Disposizioni%20sullAmministrazione%20forestale%20sullordinamento%20della%20Milizia%20nazionale%20forestale%20e%20sullAzienda%20delle%20foreste%20demaniali%20dello%20Stato.%20028U3141.md), concernente l'Amministrazione forestale, l'ordinamento della Milizia nazionale forestale e l'Azienda delle foreste demaniali dello Stato;
 
-Visto il [R. decreto 3 ottobre 1929, n. 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1997), concernente l'approvazione del regolamento per l'applicazione della [legge 13 dicembre 1928, n. 3141](Disposizioni%20sullAmministrazione%20forestale%20sullordinamento%20della%20Milizia%20nazionale%20forestale%20e%20sullAzienda%20delle%20foreste%20demaniali%20dello%20Stato.%20028U3141.md);
+Visto il [R. decreto 3 ottobre 1929, n. 1997](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2013%20dicembre%201928%20n.%203141%20concernente%20lAmministrazione%20forestale%20lordinamento%20della%20Milizia%20nazionale%20forestale%20e%20lAzienda%20delle%20_45d3946a3615.md), concernente l'approvazione del regolamento per l'applicazione della [legge 13 dicembre 1928, n. 3141](Disposizioni%20sullAmministrazione%20forestale%20sullordinamento%20della%20Milizia%20nazionale%20forestale%20e%20sullAzienda%20delle%20foreste%20demaniali%20dello%20Stato.%20028U3141.md);
 
 Visto la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), sullo stato degli ufficiali del Regio esercito e successiva modificazione;
 

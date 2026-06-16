@@ -14,9 +14,9 @@ per Grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1903, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-11-22;693) ed il regolamento generale per la sua esecuzione, approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1903, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-11-22;693) ed il regolamento generale per la sua esecuzione, approvato con [R. decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
 
-Visto il regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto il regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
 Visto il ruolo organico del personale dell'Amministrazione metrica e del saggio delle monete e dei metalli preziosi, approvato con la [legge 30 giugno 1908, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;304);
 
@@ -34,7 +34,7 @@ A parziale deroga delle norme contenute nei provvedimenti generali e speciali su
 
 ## Art. 2.
 
-L'ammissione al tirocinio di cui all'articolo 25 del regolamento approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), avra' luogo merce' pubblici concorsi per titoli, ai quali potranno prendere parte coloro che, salvo per il limite di eta', che potra' essere di 35 anni alla data del decreto che indica il concorso, si trovino nelle altre condizioni prescritte dallo articolo stesso ed abbiano l'idoneita' fisica all'impiego cui aspirano. 
+L'ammissione al tirocinio di cui all'articolo 25 del regolamento approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), avra' luogo merce' pubblici concorsi per titoli, ai quali potranno prendere parte coloro che, salvo per il limite di eta', che potra' essere di 35 anni alla data del decreto che indica il concorso, si trovino nelle altre condizioni prescritte dallo articolo stesso ed abbiano l'idoneita' fisica all'impiego cui aspirano. 
  
  L'esame dei titoli e la graduatoria dei concorrenti per l'ammissione al tirocinio suddetto sono devoluti ad un'apposita Commissione che sara' nominata dal ministro per l'industria, il commercio ed il lavoro. 
  

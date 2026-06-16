@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), che approva il Testo Unico delle leggi sull'ordinamento della Corte dei Conti;
+Visto il [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), che approva il Testo Unico delle leggi sull'ordinamento della Corte dei Conti;
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
@@ -36,7 +36,7 @@ E' istituita, in via temporanea, presso la sede del Governo, una «Sezione speci
 
 Il Presidente della Sezione e' nominato con decreto Reale, su proposta del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, ed e' scelto fra i magistrati della Corte dei Conti di grado non inferiore al quarto, professori di ruolo di materie giuridiche nelle RR. Universita' o negli Istituti di grado universitario, gli avvocati dello Stato, i magistrati dell'ordine giudiziario e gli altri funzionari dello Stato, di grado non inferiore al quarto particolarmente esperti in materia finanziaria e amministrativa. 
  
- Al Presidente della Sezione speciale di controllo spettano le prerogative di cui all'art. 8 del Testo Unico approvato con [R. decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e sono inoltre attribuiti temporanemente anche i poteri, i compiti e le facolta' del Presidente della Corte dei Conti. 
+ Al Presidente della Sezione speciale di controllo spettano le prerogative di cui all'art. 8 del Testo Unico approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e sono inoltre attribuiti temporanemente anche i poteri, i compiti e le facolta' del Presidente della Corte dei Conti. 
  
  Il posto assegnato allo stesso deve considesarsi in soprannumero e sara' riassorbito con la prima vacanza di organico dei posti di presidente di Sezione.
 

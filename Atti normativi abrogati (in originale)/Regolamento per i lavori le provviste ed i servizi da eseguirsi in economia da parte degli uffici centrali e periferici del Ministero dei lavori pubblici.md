@@ -13,8 +13,8 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5); 
- Visto il [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md); 
- Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440); 
+ Visto il [regio decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md); 
+ Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md); 
  Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827); 
  Udito il parere del Consiglio di Stato; 
  Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 giugno 1984; 

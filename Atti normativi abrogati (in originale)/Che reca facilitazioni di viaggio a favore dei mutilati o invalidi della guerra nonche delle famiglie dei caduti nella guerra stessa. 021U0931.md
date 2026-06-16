@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Viste le tariffe e le condizioni valevoli per i trasporti sulle linee ferroviarie esercitate dallo Stato;
 
-Visto il [R. decreto 27 novembre 1910, n. 953](Che%20approva%20gli%20annessi%20regolamento%20e%20tariffe%20pei%20trasporti%20interni%20sulle%20linee%20di%20navigazione%20esercitate%20dallo%20Stato%20e%20condizioni%20e%20tariffe%20pei%20trasporti%20fruenti%20di%20concessioni%20speciali%20_375783174628.md), che approva le tariffe pei trasporti in servizio interno sulle linee di navigazione esercitate dallo Stato;
+Visto il [R. decreto 27 novembre 1910, n. 953](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamento%20e%20tariffe%20pei%20trasporti%20interni%20sulle%20linee%20di%20navigazione%20esercitate%20dallo%20Stato%20e%20condizioni%20e%20tariffe%20pei%20trasporti%20fruenti%20di%20concessioni%20speciali%20_375783174628.md), che approva le tariffe pei trasporti in servizio interno sulle linee di navigazione esercitate dallo Stato;
 
-Visti gli [articoli 39](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md) e [62 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata col [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
+Visti gli [articoli 39](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md) e [62 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata col [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Visto il [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876);
 
-Visto il regolamento per l'esecuzione del testo unico delle leggi sulle pensioni civili e militari applicato coi [R. decreto 5 settembre 1895, n 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603);
+Visto il regolamento per l'esecuzione del testo unico delle leggi sulle pensioni civili e militari applicato coi [R. decreto 5 settembre 1895, n 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md);
 
 Visto il [decreto Luogotenenziale 4 ottobre 1917 n. 1734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-10-04;1734);
 
@@ -50,7 +50,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata a concedere, sulle l
 
 ## Art. 2.
 
-I mutilati invalidi, i quali abbiano liquidata la pensione in base alle categorie previste dal regolamento per l'esecuzione del testo unico delle leggi sulle pensioni civili e militari, approvate con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603) verranno ammessi: 
+I mutilati invalidi, i quali abbiano liquidata la pensione in base alle categorie previste dal regolamento per l'esecuzione del testo unico delle leggi sulle pensioni civili e militari, approvate con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md) verranno ammessi: 
  
  1° al trattamento specificato alla lettera a) del precedente art. 1 qualora abbiano liquidato la prima categoria di pensione: 
  

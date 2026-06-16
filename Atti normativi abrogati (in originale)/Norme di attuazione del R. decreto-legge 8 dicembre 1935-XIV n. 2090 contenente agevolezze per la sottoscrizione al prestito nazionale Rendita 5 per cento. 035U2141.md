@@ -80,7 +80,7 @@ In dipendenza delle sottoscrizioni di cui al precedente articolo 6, saranno emes
  
  Sara' pure sostituito il certificato di usufrutto con altro della rendita 5 per cento. 
  
- Il nuovo certificato nominativo a libera disponibilita' dell'intestatario, potra' costituire oggetto di tutte le operazioni consentite dal [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e dal relativo [regolamento 19 febbraio 1911, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-19;298).
+ Il nuovo certificato nominativo a libera disponibilita' dell'intestatario, potra' costituire oggetto di tutte le operazioni consentite dal [testo unico delle leggi sul Debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e dal relativo [regolamento 19 febbraio 1911, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-19;298).
 
 ### Art. 8.
 

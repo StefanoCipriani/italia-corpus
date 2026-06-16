@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[articolo 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157) 1° agosto 1907, n. 636, ed il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; 
+ Veduto l'[articolo 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, ed il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; 
  
  Visto il Nostro decreto 29 settembre 1902, n. 440, concernente la dichiarazione di zona malarica nel territorio del comune di Gonzaga in provincia di Mantova; 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Viste le norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
+Viste le norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -40,7 +40,7 @@ La fabbricazione, la distribuzione e la vendita delle targhe anteriori degli aut
 
 ## Art. 3.
 
-Per le targhe anteriori degli automobili e per i relativi punzoni o marchi ufficiali di riconoscimento si applicano le disposizioni dell'art. 75, commi 4° e 5°, delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+Per le targhe anteriori degli automobili e per i relativi punzoni o marchi ufficiali di riconoscimento si applicano le disposizioni dell'art. 75, commi 4° e 5°, delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
 
 ## Art. 4.
 

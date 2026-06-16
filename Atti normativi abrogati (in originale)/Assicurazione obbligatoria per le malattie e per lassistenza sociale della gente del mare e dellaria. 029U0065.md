@@ -86,7 +86,7 @@ Quando sia necessario il ricovero in un Istituto di cura, la spesa di spedalita'
 
 Il giudizio sulla inabilita' e' deferito agli organi della assicurazione salvo ricorso a norma della presente legge. 
  
- Se la malattia e' la conseguenza diretta dell'ubbriachezza o di colposa partecipazione ad una rissa, ovvero se fu contratta ed aggravata intenzionalmente, non compete all'assicurato alcuna indennita', senza pregiudizio delle sanzioni penali, di cui agli [articoli 413](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [414 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Se la malattia e' la conseguenza diretta dell'ubbriachezza o di colposa partecipazione ad una rissa, ovvero se fu contratta ed aggravata intenzionalmente, non compete all'assicurato alcuna indennita', senza pregiudizio delle sanzioni penali, di cui agli [articoli 413](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [414 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  In tali casi pero' puo' essere concesso un sussidio alimentare alla di lui famiglia mediante pagamento diretto, se risulti che questa sia in condizioni di bisogno.
 
@@ -114,11 +114,11 @@ Si provvede agli scopi di cui all'art. 5:
 
 ### Art. 13.
 
-I datori di lavoro, che trattengono sulle retribuzioni delle persone obbligate all'assicurazione somme maggiori di quelle per le quali e' concessa la ritenuta, sono puniti con la multa fino a lire mille, salvo le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto costituisca reato ivi preveduto.
+I datori di lavoro, che trattengono sulle retribuzioni delle persone obbligate all'assicurazione somme maggiori di quelle per le quali e' concessa la ritenuta, sono puniti con la multa fino a lire mille, salvo le maggiori pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto costituisca reato ivi preveduto.
 
 ### Art. 14.
 
-I datori di lavoro che non provvedono al pagamento dei contributi o li versano in misura inferiore a quella stabilita, oltre ad essere obbligati al pagamento dei contributi o delle parti di contributi non versati, sono puniti con l'ammenda da lire mille a lire cinquemila e sono tenuti al versamento di una pena pecuniaria pari a quella dei contributi non versati, salvo in ogni caso le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto costituisca reato ivi preveduto. 
+I datori di lavoro che non provvedono al pagamento dei contributi o li versano in misura inferiore a quella stabilita, oltre ad essere obbligati al pagamento dei contributi o delle parti di contributi non versati, sono puniti con l'ammenda da lire mille a lire cinquemila e sono tenuti al versamento di una pena pecuniaria pari a quella dei contributi non versati, salvo in ogni caso le maggiori pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto costituisca reato ivi preveduto. 
  
  La pena dell'ammenda e la pena pecuniaria indicate nel comma precedente sono devolute alla Cassa. Il contravventore, con domanda da lui sottoscritta e che sara' considerata irrevocabile puo' chiedere alla, Cassa di fare oblazione. 
  
@@ -298,13 +298,13 @@ CAPO III.
 
 Per le contravvenzioni inerenti all'assistenza sanitaria e ai sussidi di malattia, di cui ai un. 1, 3, 4, 6 e 7 dell'art. 5, su richiesta di una delle parti, il comandante della capitaneria di porto competente per territorio, o il podesta' del Comune di residenza dell'assicurato, a seconda che trattisi di gente del mare o di gente dell'aria, si adopera per comporre le controversie, sentiti rispettivamente il medico di porto e l'ufficiale sanitario. 
  
- Qualora la conciliazione non riesca, e' ammesso ricorso alle Commissioni arbitrali di prima istanza e centrale, di cui al titolo V del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), nelle forme e col procedimento stabiliti dal regolamento approvato con [R. decreto 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1422). 
+ Qualora la conciliazione non riesca, e' ammesso ricorso alle Commissioni arbitrali di prima istanza e centrale, di cui al titolo V del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), nelle forme e col procedimento stabiliti dal regolamento approvato con [R. decreto 28 agosto 1924, n. 1422](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20linvalidita%20e%20la%20vecchiaia.%20024U1422.md). 
  
  Le Commissioni arbitrali predette conoscono inoltre delle controversie relative al pagamento dei contributi di assicurazione. 
  
  Quando le anzidette Commissioni sono chiamate a decidere le controversie indicate nelle precedenti disposizioni, i due rappresentanti dei datori di lavoro sono sostituiti da un rappresentante delle imprese di navigazione marittima e da un rappresentante delle imprese di navigazione aerea e i due rappresentanti degli assicurati sono sostituiti da un rappresentante della gente del mare e da un rappresentante della gente dell'aria. 
  
- I suddetti rappresentanti, con i relativi supplenti, sono nominati nei modi indicati dagli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_25) e [26 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_26).
+ I suddetti rappresentanti, con i relativi supplenti, sono nominati nei modi indicati dagli [articoli 25](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md) e [26 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md).
 
 ## Disposizioni generali e diverse.
 

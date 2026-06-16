@@ -25,7 +25,7 @@ Sentito il Consiglio dei Ministri Sulla proposta del Ministro per la pubblica is
 L'[art. 1 del decreto luogotenenziale 31 maggio 1945, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-31;362#art_1), e' modificato come segue:
 
  I posti di provveditore agli studi di 2ª classe sono conferiti dal Ministro per la pubblica istruzione:
- a) per meta', ai funzionari del grado immediatamente inferiore del ruolo del personale dei Provveditorati agli studi, mediante promozione per merito comparativo, a norma delle disposizioni contenute nell'[art. 6 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+ a) per meta', ai funzionari del grado immediatamente inferiore del ruolo del personale dei Provveditorati agli studi, mediante promozione per merito comparativo, a norma delle disposizioni contenute nell'[art. 6 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
  b) per la rimanente meta', in seguito a concorso per titoli;
  1) a presidi di istituti d'istruzione media governativi;
  2) a funzionari di grado 7° di gruppo A dell'Amministrazione centrale della pubblica istruzione;

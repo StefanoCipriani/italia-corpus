@@ -52,11 +52,11 @@ I provvedimenti di cui ai nn. 1, 2 e 3 del precedente articolo sono di esclusiva
 
 ## Art. 5.
 
-La gestione dei fondi autorizzati con la [legge 12 giugno 1931, n. 877](Sistemazione%20definitiva%20delle%20salme%20dei%20Caduti%20in%20guerra.%20031U0877.md), e' demandata al commissario generale straordinario il quale vi provvedera' con l'osservanza delle norme del [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sulla contabilita' generale dello Stato e successive aggiunte e modificazioni.
+La gestione dei fondi autorizzati con la [legge 12 giugno 1931, n. 877](Sistemazione%20definitiva%20delle%20salme%20dei%20Caduti%20in%20guerra.%20031U0877.md), e' demandata al commissario generale straordinario il quale vi provvedera' con l'osservanza delle norme del [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato e successive aggiunte e modificazioni.
 
 ## Art. 6.
 
-I contratti stipulati per lavori e forniture varie relative alla sistemazione delle sepolture militari, nonche' quelli di locazione d'opera, saranno approvati e resi esecutivi dal commissario generale straordinario quando l'importo previsto non superi i limiti indicati negli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_5) e [6 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), sulla contabilita' generale dello Stato. 
+I contratti stipulati per lavori e forniture varie relative alla sistemazione delle sepolture militari, nonche' quelli di locazione d'opera, saranno approvati e resi esecutivi dal commissario generale straordinario quando l'importo previsto non superi i limiti indicati negli [articoli 5](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [6 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato. 
  
  Al commissario generale straordinario medesimo e' consentito di provvedere ai servizi ad economia quando l'importo previsto non superi il limite indicato nell'art. 8 del Regio decreto predetto.
 

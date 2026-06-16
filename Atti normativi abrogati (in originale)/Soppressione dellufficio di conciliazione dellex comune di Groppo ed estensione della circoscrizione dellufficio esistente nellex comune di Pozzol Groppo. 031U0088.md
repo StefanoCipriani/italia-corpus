@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 10 agosto 1928, n. 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-10;1968), col quale i comuni di Groppo e di Pozzol Groppo venivano riuniti in un solo Comune con denominazione «Pozzol Groppo» e con sede municipale a San Lorenzo; 
+ Visto il [R. decreto 10 agosto 1928, n. 1968](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Groppo%20e%20Pozzol%20Groppo%20in%20un%20unico%20Comune%20con%20denominazione%20Pozzol%20Groppo%20e%20sede%20municipale%20a%20San%20Lorenzo.%20028U1968.md), col quale i comuni di Groppo e di Pozzol Groppo venivano riuniti in un solo Comune con denominazione «Pozzol Groppo» e con sede municipale a San Lorenzo; 
  
  Vista la deliberazione del podesta' di detto Comune, con la quale si chiede che per tutto il territorio del comune di Pozzol Groppo funzioni un solo ufficio di conciliazione; 
  

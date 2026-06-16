@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 marzo 1923, n. 481](Che%20nomina%20S.%20E.%20lon.%20avv.%20Giovanni%20Giuriati%20Commissario%20del%20Governo%20per%20la%20liquidazione%20dei%20beni%20diritti%20e%20interessi%20appartenenti%20a%20cittadini%20di%20Stati%20gia%20nemici.%20023U0481.md), che nominava il Commissario del Governo per la liquidazione dei beni, diritti ed interessi appartenenti a cittadini di Stati gia' nemici;
+Visto il [R. decreto 4 marzo 1923, n. 481](../Regi%20decreti/Che%20nomina%20S.%20E.%20lon.%20avv.%20Giovanni%20Giuriati%20Commissario%20del%20Governo%20per%20la%20liquidazione%20dei%20beni%20diritti%20e%20interessi%20appartenenti%20a%20cittadini%20di%20Stati%20gia%20nemici.%20023U0481.md), che nominava il Commissario del Governo per la liquidazione dei beni, diritti ed interessi appartenenti a cittadini di Stati gia' nemici;
 
 Visto il [R. decreto-legge 15 marzo 1923, n. 689](Relativo%20alla%20alienazione%20dei%20beni%20e%20dei%20diritti%20dei%20sudditi%20ex-nemici%20anche%20in%20deroga%20alle%20vigenti%20disposizioni.%20023U0689.md), che dava facolta' di alienare i beni ed i diritti dei sudditi ex-nemici anche in deroga alle vigenti disposizioni;
 

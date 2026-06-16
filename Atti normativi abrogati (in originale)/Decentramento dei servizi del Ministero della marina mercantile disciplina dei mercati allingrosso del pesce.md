@@ -57,7 +57,7 @@ L'[art. 15 della legge 12 luglio 1938, n. 1487](https://www.normattiva.it/uri-re
 
 ## Art. 7.
 
-L'art. 88 del testo unico delle leggi sulla pesca approvato col [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), e' sostituito dal seguente:
+L'art. 88 del testo unico delle leggi sulla pesca approvato col [regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e' sostituito dal seguente:
  "Il prefetto ha facolta' di inviare un commissario:
  a) per procedere, d'ufficio ed a spese del Comune, all'organizzazione del mercato all'ingrosso ed alla costruzione dei relativi impianti, quando il Comune non vi provveda o non vi provveda adeguatamente nel termine all'uopo stabilito;
  b) per procedere, d'ufficio ed a spese del Comune, alla compilazione del regolamento del mercato all'ingrosso, quando tale regolamento non sia stato inviato nel termine stabilito dalla prefettura".

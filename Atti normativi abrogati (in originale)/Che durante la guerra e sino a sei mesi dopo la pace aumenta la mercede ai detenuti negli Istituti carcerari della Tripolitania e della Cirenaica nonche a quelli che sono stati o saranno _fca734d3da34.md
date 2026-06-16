@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 marzo 1912, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-20;1205); 
  
- Visto il [R. decreto 22 giugno 1913, n. 841](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20carcerario%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica.%20013U0841.md), che approva il regolamento carcerario per la Tripolitania e la Cirenaica; 
+ Visto il [R. decreto 22 giugno 1913, n. 841](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20carcerario%20per%20la%20Tripolitania%20e%20per%20la%20Cirenaica.%20013U0841.md), che approva il regolamento carcerario per la Tripolitania e la Cirenaica; 
  
  Sentito il Consiglio dei ministri; 
  

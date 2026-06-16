@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive aggiunte e modificazioni;
+Visto il [regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive aggiunte e modificazioni;
 
-Visto l'ordinamento dello stato civile, approvato con [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238);
+Visto l'ordinamento dello stato civile, approvato con [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md);
 
 Visto il [regio decreto-legge 18 ottobre 1942, n. 1520](Istituzione%20di%20una%20Commissione%20per%20la%20ricostituzione%20di%20atti%20di%20morte%20o%20di%20nascita.%20042U1520.md);
 
@@ -41,7 +41,7 @@ La competente autorita' militare, allo scopo di istruire le pratiche per il rico
 
 ## Art. 3.
 
-Gli atti giudiziali di notorieta' e la dichiarazione di cui agli articoli precedenti sono sufficienti per la liquidazione provvisoria della pensione o degli assegni di guerra, prevista dall'[art. 60 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
+Gli atti giudiziali di notorieta' e la dichiarazione di cui agli articoli precedenti sono sufficienti per la liquidazione provvisoria della pensione o degli assegni di guerra, prevista dall'[art. 60 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
  La dichiarazione prevista dal precedente art. 2 puo' essere altresi' ritenuta, sufficiente per la liquidazione definitiva della pensione o degli assegni di guerra.
 
 ## Art. 4.

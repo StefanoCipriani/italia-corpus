@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' della autorita' a Noi delegata;
 
-Visto i1 testo unico delle disposizioni di legge delle ferrovie concesse all'industria privata, tramvie ed automobili approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;
+Visto i1 testo unico delle disposizioni di legge delle ferrovie concesse all'industria privata, tramvie ed automobili approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e successive modificazioni;
 
 Visto la [legge 28 settembre 1939, n. 1822](Disciplina%20degli%20autoservizi%20di%20linea%20autolinee%20per%20viaggiatori%20bagagli%20e%20pacchi%20agricoli%20in%20regime%20di%20concessione%20allindustria%20privata.%20039U1822.md);
 

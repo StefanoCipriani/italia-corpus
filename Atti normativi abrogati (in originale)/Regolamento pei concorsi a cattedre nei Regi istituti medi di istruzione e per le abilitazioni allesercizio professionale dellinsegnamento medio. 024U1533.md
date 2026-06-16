@@ -403,7 +403,7 @@ I titoli sono valutati per ogni concorrente prima delle prove orali limitatament
  
  Il servizio militare prestato durante la guerra deve essere considerato fra i titoli ed e' valutato dalla Commissione in base ai documenti militari; se sia preceduto o seguito da almeno un anno intero di servizio scolastico e' valutato in base alle qualifiche ottenute nell'anno o negli anni d'insegnamento che lo precedettero o seguirono. 
  
- Le pubblicazioni, che la Commissione giudichi di valore negativo, e il servizio non lodevole, tanto se scolastico quanto se militare o d'istitutore nei convitti nazionali di cui all'[art. 135 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_135), sono considerati nei riguardi del concorso come titoli di demerito ed hanno per effetto la detrazione di un congruo numero di punti nella votazione complessiva attribuita ai titoli.
+ Le pubblicazioni, che la Commissione giudichi di valore negativo, e il servizio non lodevole, tanto se scolastico quanto se militare o d'istitutore nei convitti nazionali di cui all'[art. 135 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sono considerati nei riguardi del concorso come titoli di demerito ed hanno per effetto la detrazione di un congruo numero di punti nella votazione complessiva attribuita ai titoli.
 
 ## Delle graduatorie.
 
@@ -425,7 +425,7 @@ Nella graduatoria dei vincitori la Commissione comprende, per ordine di merito, 
 
 ### Art. 63.
 
-Alla graduatoria dei vincitori, quando si tratti di concorso generale, deve seguire la graduatoria di tutti i concorrenti che, avendo riportato la votazione complessiva di almeno sette decimi, si trovino nelle condizioni di cui all'[articolo 30 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_30).
+Alla graduatoria dei vincitori, quando si tratti di concorso generale, deve seguire la graduatoria di tutti i concorrenti che, avendo riportato la votazione complessiva di almeno sette decimi, si trovino nelle condizioni di cui all'[articolo 30 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md).
 
 ### Art. 64.
 
@@ -501,7 +501,7 @@ Presso ogni Provveditorato agli studi e' costituito un albo regionale delle pers
 
 ### Art. 79.
 
-Non possono essere iscritte nell'albo, e, se vi sono iscritte, ne sono radiate, le persone che pur essendo provviste dei titoli di cui al precedente articolo abbiano riportato una delle condanne indicate nell'[art. 66 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_66). Le persone che abbiano riportato condanna diversa da quelle enumerate nel citato articolo possono essere escluse dall'inscrizione nell'albo ed esser cancellate dal medesimo con provvedimento motivato del provveditore agli studi contro il quale e' ammesso ricorso entro il termine di 30 giorni al Ministro per la pubblica istruzione. 
+Non possono essere iscritte nell'albo, e, se vi sono iscritte, ne sono radiate, le persone che pur essendo provviste dei titoli di cui al precedente articolo abbiano riportato una delle condanne indicate nell'[art. 66 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). Le persone che abbiano riportato condanna diversa da quelle enumerate nel citato articolo possono essere escluse dall'inscrizione nell'albo ed esser cancellate dal medesimo con provvedimento motivato del provveditore agli studi contro il quale e' ammesso ricorso entro il termine di 30 giorni al Ministro per la pubblica istruzione. 
  
  Le persone suddette possono essere iscritte o riammesse nell'albo solo dopo che abbiano ottenuto la riabilitazione o che siano decorsi almeno tre anni dall'espiazione della pena.
 
@@ -537,7 +537,7 @@ Le abilitazioni per esami all'insegnamento di discipline formanti cattedre di ru
 
 ### Art. 87.
 
-Nessuno che non sia professore di ruolo negli Istituti Regi o pareggiati di istruzione media puo' assumere il titolo di professore medio, e nessuno puo' professare in nessun istituto pubblico o privato l'insegnamento di materie che si impartiscono nei Regi istituti medi d'istruzione se non sia compreso nell'albo di cui all'art. 78 o non possegga uno dei titoli di cui agli articoli 83, 84, 85 e 86; fatta eccezione, per quanto riguarda l'insegnamento nelle scuole medie private, delle persone che posseggano titoli equipollenti a norma dell'[art. 113 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_113).
+Nessuno che non sia professore di ruolo negli Istituti Regi o pareggiati di istruzione media puo' assumere il titolo di professore medio, e nessuno puo' professare in nessun istituto pubblico o privato l'insegnamento di materie che si impartiscono nei Regi istituti medi d'istruzione se non sia compreso nell'albo di cui all'art. 78 o non possegga uno dei titoli di cui agli articoli 83, 84, 85 e 86; fatta eccezione, per quanto riguarda l'insegnamento nelle scuole medie private, delle persone che posseggano titoli equipollenti a norma dell'[art. 113 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Disposizione finale.
 

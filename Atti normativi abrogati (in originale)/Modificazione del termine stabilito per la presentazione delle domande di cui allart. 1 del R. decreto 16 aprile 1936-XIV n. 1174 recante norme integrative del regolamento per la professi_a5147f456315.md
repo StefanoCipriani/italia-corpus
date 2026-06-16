@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395);
 
-Visto il regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-11;274);
+Visto il regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](../Regi%20decreti/Regolamento%20per%20la%20professione%20di%20geometra.%20029U0274.md);
 
 Visto il [R. decreto 16 aprile 1936, n. 1174](Norme%20integrative%20del%20regolamento%20per%20la%20professione%20di%20geometra.%20036U1174.md);
 

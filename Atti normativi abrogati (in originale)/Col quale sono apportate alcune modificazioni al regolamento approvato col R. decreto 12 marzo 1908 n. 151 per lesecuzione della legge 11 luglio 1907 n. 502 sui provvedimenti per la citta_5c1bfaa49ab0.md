@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Agli articoli 64, 65, 66 e 69 del regolamento approvato con [R. decreto 12 marzo 1908, n. 151](Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md), per l'esecuzione della [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), sui provvedimenti per la citta' di Roma, sono sostituiti i seguenti: 
+Agli articoli 64, 65, 66 e 69 del regolamento approvato con [R. decreto 12 marzo 1908, n. 151](../Regi%20decreti/Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md), per l'esecuzione della [legge 11 luglio 1907, n. 502](Provvedimenti%20per%20la%20citta%20di%20Roma.%20007U0502.md), sui provvedimenti per la citta' di Roma, sono sostituiti i seguenti: 
  
  Art. 64. - I mutui concessi dalla Cassa depositi all'Istituto delle case per gli impiegati sono garantiti: 
  

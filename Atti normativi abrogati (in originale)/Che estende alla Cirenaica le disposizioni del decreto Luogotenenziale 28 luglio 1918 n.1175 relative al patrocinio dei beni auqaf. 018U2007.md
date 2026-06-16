@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 1 del regolamento per l'esecuzione del testo unico delle leggi sulla R. avvocatura erariale approvato con [R. decreto 24 novembre 1913, n. 1304](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullAvvocatura%20erariale.%20013U1304.md); 
+ Visto l'art. 1 del regolamento per l'esecuzione del testo unico delle leggi sulla R. avvocatura erariale approvato con [R. decreto 24 novembre 1913, n. 1304](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullAvvocatura%20erariale.%20013U1304.md); 
  
  Visto il [decreto Luogotenenziale 28 luglio 1918, numero 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-28;1175), relativo al patrocinio dell'Amministrazione dei beni auqaf della Tripolitania; 
  

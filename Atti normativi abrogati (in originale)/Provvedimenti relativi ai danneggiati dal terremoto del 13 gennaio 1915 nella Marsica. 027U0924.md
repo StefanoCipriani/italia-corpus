@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 17 settembre 1910, n. 715](Che%20approva%20un%20nuovo%20regolamento%20per%20la%20esecuzione%20delle%20leggi%2013%20e%2021%20luglio%201910%20nn.%20466%20e%20579%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20del%2028%20dicembre%201908.%20010U0715.md);
+Visto il [R. decreto 17 settembre 1910, n. 715](../Regi%20decreti/Che%20approva%20un%20nuovo%20regolamento%20per%20la%20esecuzione%20delle%20leggi%2013%20e%2021%20luglio%201910%20nn.%20466%20e%20579%20a%20favore%20dei%20danneggiati%20dal%20terremoto%20del%2028%20dicembre%201908.%20010U0715.md);
 
 Visto il [R. decreto 13 maggio 1915, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-13;775);
 

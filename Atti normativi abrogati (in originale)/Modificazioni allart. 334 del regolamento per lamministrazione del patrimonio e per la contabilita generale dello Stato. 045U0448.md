@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli enti militari di cui al primo comma dell'art. 334 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, quale risulta modificato dall'articolo unico del [R. decreto 24 maggio 1943, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-05-24;604), rendono i conti delle somme ricevute ai sensi dell'art. 326, non piu' tardi del cinquantesimo giorno successivo al trimestre. 
+Gli enti militari di cui al primo comma dell'art. 334 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, quale risulta modificato dall'articolo unico del [R. decreto 24 maggio 1943, n. 604](../Regi%20decreti/Modificazione%20dellart.%20334%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20delle%20Stato.%20043U0604.md), rendono i conti delle somme ricevute ai sensi dell'art. 326, non piu' tardi del cinquantesimo giorno successivo al trimestre. 
  
  Tale termine e' portato al giorno sessantesimo successivo al trimestre per le legioni dei Reali carabinieri.
 

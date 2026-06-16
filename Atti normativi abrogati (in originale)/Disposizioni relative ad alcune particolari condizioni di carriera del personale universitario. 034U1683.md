@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Coloro che, all'atto della nomina a professori universitari, occupano nell'ordin
  
  Per gli attuali professori ordinari il presente articolo sara' applicabile con effetto dal 1° luglio 1934. 
  
- Per coloro che, prima della nomina a professore universitario e anteriormente al 1° dicembre 1923, prestavano servizio di ruolo alla dipendenza dello Stato, sara' tenuto conto, ai sensi e agli effetti del presente articolo, dei servizi prestati in gradi superiori al settimo o che avrebbero comportato l'inquadramento nei gradi medesimi a norma del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), esclusa ogni altra abbreviazione ed aumento di anzianita'. 
+ Per coloro che, prima della nomina a professore universitario e anteriormente al 1° dicembre 1923, prestavano servizio di ruolo alla dipendenza dello Stato, sara' tenuto conto, ai sensi e agli effetti del presente articolo, dei servizi prestati in gradi superiori al settimo o che avrebbero comportato l'inquadramento nei gradi medesimi a norma del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), esclusa ogni altra abbreviazione ed aumento di anzianita'. 
  
  Il vantaggio di cui al presente articolo in nessun caso potra' essere contemporaneamente cumulato con quello di cui all'art. 49 del li. decreto 8 maggio 1924, n. 843, in dipendenza dal computo di uno stesso periodo di servizio, dovendo gli interessati optare per l'uno o per l'altro vantaggio.
 
@@ -39,12 +39,12 @@ Coloro che, all'atto della nomina a professori universitari, occupano nell'ordin
 Nel Regio istituto superiore d'ingegneria di Milano e' istituito un posto di professore di ruolo a carico dell'Istituto; il detto posto e' assegnato alla Facolta' di architettura dell'Istituto medesimo. 
  
  E' soppresso il posto di professore di architettura nella R.
-Accademia di belle arti di Milano e sono conseguentemente ridotti da 38 a 37 i posti di professori di prima classe nel ruolo del personale insegnante delle Accademie di belle arti e dei Licei artistici, di cui alla tabella allegata al [R. decreto 20 novembre 1930, n. 1681](Disposizioni%20pel%20trasferimento%20di%20professori%20dal%20ruolo%20delle%20Accademie%20di%20belle%20arti%20e%20Licei%20artistici%20al%20ruolo%20delle%20Regie%20scuole%20superiori%20di%20architettura%20di%20Firenze%20e%20di%20Napoli.%20030U1681.md). 
+Accademia di belle arti di Milano e sono conseguentemente ridotti da 38 a 37 i posti di professori di prima classe nel ruolo del personale insegnante delle Accademie di belle arti e dei Licei artistici, di cui alla tabella allegata al [R. decreto 20 novembre 1930, n. 1681](../Regi%20decreti/Disposizioni%20pel%20trasferimento%20di%20professori%20dal%20ruolo%20delle%20Accademie%20di%20belle%20arti%20e%20Licei%20artistici%20al%20ruolo%20delle%20Regie%20scuole%20superiori%20di%20architettura%20di%20Firenze%20e%20di%20Napoli.%20030U1681.md). 
  
  Il contributo statale a favore della Regia scuola d'ingegneria di Milano, di cui alla tabella B annessa al testo unico delle leggi sulla istruzione superiore, e' aumentato della somma di L. 21.600, corrispondente alla spesa media del posto soppresso nella R.
 Accademia di belle arti di Milano. 
  
- L'attuale professore di ruolo di architettura nella R. Accademia di belle arti di Milano cessera' dall'ufficio medesimo e sara' nominato professore ordinario della Facolta' di architettura presso il Regio istituto superiore d'ingegneria di Milano per uno degli insegnamenti costitutivi della Facolta' ai sensi dell'[art. 81 del R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md). 
+ L'attuale professore di ruolo di architettura nella R. Accademia di belle arti di Milano cessera' dall'ufficio medesimo e sara' nominato professore ordinario della Facolta' di architettura presso il Regio istituto superiore d'ingegneria di Milano per uno degli insegnamenti costitutivi della Facolta' ai sensi dell'[art. 81 del R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md). 
  
  Le disposizioni del presente articolo hanno effetto dal 1° novembre 1934.
 

@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 14 ottobre 1940, n. 1540](Nuove%20norme%20sulla%20concessione%20di%20unautovettura%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20040U1540.md), relativa alla concessione di un'autovettura agli ufficiali dei carabinieri Reali;
 
-Visto il [R. decreto 27 gennaio 1941, n. 268](Norme%20per%20lapplicazione%20della%20legge%2014%20ottobre%201940-XVIII%20n.%201540%20sulla%20concessione%20di%20unautovettura%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20041U0268.md), contenente norme per l'applicazione della legge suddetta;
+Visto il [R. decreto 27 gennaio 1941, n. 268](../Regi%20decreti/Norme%20per%20lapplicazione%20della%20legge%2014%20ottobre%201940-XVIII%20n.%201540%20sulla%20concessione%20di%20unautovettura%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20041U0268.md), contenente norme per l'applicazione della legge suddetta;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 

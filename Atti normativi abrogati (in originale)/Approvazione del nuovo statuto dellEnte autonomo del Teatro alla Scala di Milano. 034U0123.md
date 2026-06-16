@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 26 febbraio 1928, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;562), e la [legge 17 giugno 1929, n. 1163](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201928%20n.%20562%20concernente%20disposizioni%20per%20la%20sistemazione%20del%20Teatro%20della%20Scala%20in%20Milano.%20029U1163.md), contenenti disposizioni per il Teatro alla Scala di Milano;
 
-Visto il [R. decreto 29 dicembre 1921, n. 2143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-12-29;2143), che approva la costituzione in ente morale dell'Ente autonomo del Teatro Scala, di Milano;
+Visto il [R. decreto 29 dicembre 1921, n. 2143](../Regi%20decreti/Erezione%20in%20Ente%20morale%20021U2143.md), che approva la costituzione in ente morale dell'Ente autonomo del Teatro Scala, di Milano;
 
 Visto il [R. decreto 30 marzo 1931, n. 436](Approvazione%20dello%20statuto%20dellEnte%20autonomo%20del%20Teatro%20alla%20Scala%20di%20Milano.%20031U0436.md), che approva lo, statuto dell'Ente autonomo del Teatro alla Scala di Milano;
 

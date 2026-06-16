@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regolamento per il personale di custodia dei canali demaniali approvato con il [regio decreto 20 gennaio 1921, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-20;454);
+Visto il regolamento per il personale di custodia dei canali demaniali approvato con il [regio decreto 20 gennaio 1921, n. 454](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20personale%20da%20custodia%20dei%20canali%20dirrigazione%20e%20forza%20motrice%20appartenenti%20al%20patrimonio%20dello%20Stato.%20Canali%20Cavour%20e%20canali%20dellantico%20demanio.%20021U0454.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il t
 
 ## Articolo unico.
 
-Le indennita' annue in danaro da corrispondere, ai sensi dell'art. 23 del regolamento approvato con [regio decreto 20 gennaio 1921, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-20;454), al personale di custodia dei canali demaniali che non fruisce di un locale per l'alloggio, della legna per il fuoco e di una striscia di terreno da coltivare ad orto, sono aumentate a lire 500 per l'alloggio, lire 600 per la legna e lire 400 per l'orto se l'agente ha famiglia, ed a lire 300 per l'alloggio, lire 360 per la legna e lire 240 per l'orto se l'agente e' celibe o vedovo, senza prole o comunque senza carico di famiglia.
+Le indennita' annue in danaro da corrispondere, ai sensi dell'art. 23 del regolamento approvato con [regio decreto 20 gennaio 1921, n. 454](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20personale%20da%20custodia%20dei%20canali%20dirrigazione%20e%20forza%20motrice%20appartenenti%20al%20patrimonio%20dello%20Stato.%20Canali%20Cavour%20e%20canali%20dellantico%20demanio.%20021U0454.md), al personale di custodia dei canali demaniali che non fruisce di un locale per l'alloggio, della legna per il fuoco e di una striscia di terreno da coltivare ad orto, sono aumentate a lire 500 per l'alloggio, lire 600 per la legna e lire 400 per l'orto se l'agente ha famiglia, ed a lire 300 per l'alloggio, lire 360 per la legna e lire 240 per l'orto se l'agente e' celibe o vedovo, senza prole o comunque senza carico di famiglia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare come legge dello Stato.
 

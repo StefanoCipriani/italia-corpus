@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il municipio di Tripoli e' autorizzato ad istituire, con effetto dal 1° luglio 1915, una tassa sulle licenze per l'apertura dei pubblici esercizi contemplati dagli articoli 50 e 59 della legge sulla pubblica sicurezza, testo unico approvato con [R. decreto 30 giugno 1889, n. 6141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-30;6141), ed estesa in Libia col [R. decreto 20 marzo 1913, numero 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), nonche' una tassa annuale per la rinnovazione delle licenze di cui all'art. 50.
+Il municipio di Tripoli e' autorizzato ad istituire, con effetto dal 1° luglio 1915, una tassa sulle licenze per l'apertura dei pubblici esercizi contemplati dagli articoli 50 e 59 della legge sulla pubblica sicurezza, testo unico approvato con [R. decreto 30 giugno 1889, n. 6141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-06-30;6141), ed estesa in Libia col [R. decreto 20 marzo 1913, numero 289](../Regi%20decreti/Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md), nonche' una tassa annuale per la rinnovazione delle licenze di cui all'art. 50.
 
 ## Art. 2.
 
@@ -24,7 +24,7 @@ L'autorita' di pubblica sicurezza, prima di concedere la licenza d'apertura o la
 
 ## Art. 4.
 
-Contro l'applicazione della tassa e la determinazione del prezzo d'affitto presunto dei locali destinati a pubblico esercizio e' ammesso ricorso alla Commissione di cui all'[art. 16 del R. decreto 22 giugno 1913, n. 948](Col%20quale%20sono%20approvate%20le%20norme%20e%20le%20tariffe%20relative%20alle%20tasse%20sugli%20affari%20per%20la%20Tripolitania%20e%20la%20Cirenaica%20013U0948.md), sulla tassa sugli affari, e, contro la decisione di detta Commissione, al governatore, il quale decide con provvedimento definitivo.
+Contro l'applicazione della tassa e la determinazione del prezzo d'affitto presunto dei locali destinati a pubblico esercizio e' ammesso ricorso alla Commissione di cui all'[art. 16 del R. decreto 22 giugno 1913, n. 948](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20norme%20e%20le%20tariffe%20relative%20alle%20tasse%20sugli%20affari%20per%20la%20Tripolitania%20e%20la%20Cirenaica%20013U0948.md), sulla tassa sugli affari, e, contro la decisione di detta Commissione, al governatore, il quale decide con provvedimento definitivo.
 
 ## Art. 5.
 

@@ -42,7 +42,7 @@ Commissione per gli indennizzi di guerra agli spacciatori ([R. D. 3 gennaio 1918
 
 5.
 
-Consiglio tecnico perla amministrazione dei sali ([R. D. 29 gennaio 1905, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;25)).
+Consiglio tecnico perla amministrazione dei sali ([R. D. 29 gennaio 1905, n. 25](../Regi%20decreti/Erezione%20in%20ente%20morale.%200500025R.md)).
 
 6.
 

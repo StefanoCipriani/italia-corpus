@@ -54,7 +54,7 @@ I posti di geofisico capo sono conferiti, in seguito a concorso per titoli ed es
 
 ### Art. 5.
 
-I posti di geofisico principale sono conferiti, su designazone del Consiglio di amministrazione, composto nei modi stabiliti dall'[art. 2 del R. decreto 8 febbraio 1923, n. 418](Che%20apporta%20aggiunte%20e%20varianti%20alla%20costituzione%20e%20competenza%20del%20Consiglio%20di%20amministrazione%20e%20di%20disciplina%20del%20Ministero%20per%20lagricoltura.%20023U0418.md), assegnando un posto per merito comparativo e due posti per merito assoluto, a mente dell'[art. 29 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_29), ai geofisici che contino non meno di sei anni di effettiva anzianita' nel grado, qualora la promozione avvenga per merito comparativo, di otto, se per merito assoluto.
+I posti di geofisico principale sono conferiti, su designazone del Consiglio di amministrazione, composto nei modi stabiliti dall'[art. 2 del R. decreto 8 febbraio 1923, n. 418](Che%20apporta%20aggiunte%20e%20varianti%20alla%20costituzione%20e%20competenza%20del%20Consiglio%20di%20amministrazione%20e%20di%20disciplina%20del%20Ministero%20per%20lagricoltura.%20023U0418.md), assegnando un posto per merito comparativo e due posti per merito assoluto, a mente dell'[art. 29 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), ai geofisici che contino non meno di sei anni di effettiva anzianita' nel grado, qualora la promozione avvenga per merito comparativo, di otto, se per merito assoluto.
 
 ### Art. 6.
 

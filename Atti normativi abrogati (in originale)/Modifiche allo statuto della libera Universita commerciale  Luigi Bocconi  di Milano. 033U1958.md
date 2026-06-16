@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto lo statuto della libera Universita' commerciale
 
-« Luigi Bocconi » di Milano approvato con [R. decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e modificato con [Regi decreti 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md) e [29 ottobre 1931, n. 1840](Modifiche%20allo%20statuto%20dellUniversita%20commerciale%20Luigi%20Bocconi%20di%20Milano.%20031U1840.md);
+« Luigi Bocconi » di Milano approvato con [R. decreto 8 marzo 1925, n. 547](../Regi%20decreti/Riconoscimento%20dellUniversita%20commerciale%20Luigi%20Bocconi%20in%20Milano%20quale%20Istituto%20superiore%20libero%20di%20scienze%20economiche%20e%20commerciali.%20025U0547.md), e modificato con [Regi decreti 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md) e [29 ottobre 1931, n. 1840](Modifiche%20allo%20statuto%20dellUniversita%20commerciale%20Luigi%20Bocconi%20di%20Milano.%20031U1840.md);
 
 Vedute le nuove proposte di modifiche avanzate dalle autorita' accademiche dell'Universita' commerciale predetta;
 
@@ -235,7 +235,7 @@ VITTORIO EMANUELE III
  RE D'ITALIA 
  
  Veduto lo statuto della libera Universita' commerciale 
- « Luigi Bocconi » di Milano approvato con [R. decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e modificato con [Regi decreti 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md) e [29 ottobre 1931, n. 1840](Modifiche%20allo%20statuto%20dellUniversita%20commerciale%20Luigi%20Bocconi%20di%20Milano.%20031U1840.md); 
+ « Luigi Bocconi » di Milano approvato con [R. decreto 8 marzo 1925, n. 547](../Regi%20decreti/Riconoscimento%20dellUniversita%20commerciale%20Luigi%20Bocconi%20in%20Milano%20quale%20Istituto%20superiore%20libero%20di%20scienze%20economiche%20e%20commerciali.%20025U0547.md), e modificato con [Regi decreti 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md) e [29 ottobre 1931, n. 1840](Modifiche%20allo%20statuto%20dellUniversita%20commerciale%20Luigi%20Bocconi%20di%20Milano.%20031U1840.md); 
  Vedute le nuove proposte di modifiche avanzate dalle autorita' accademiche dell'Universita' commerciale predetta; 
  Veduto il testo unico sull'ordinamento degli Istituti superiori di scienze economiche e commerciali approvato con [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md), ed il relativo regolamento approvato con [R. decreto 8 luglio 1925, n. 1227](Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md); 
  Veduto il [R. decreto-legge 3 luglio 1930, n. 1176](Coordinamento%20delle%20norme%20relative%20agli%20Istituti%20di%20istruzione%20superiore.%20030U1176.md); 

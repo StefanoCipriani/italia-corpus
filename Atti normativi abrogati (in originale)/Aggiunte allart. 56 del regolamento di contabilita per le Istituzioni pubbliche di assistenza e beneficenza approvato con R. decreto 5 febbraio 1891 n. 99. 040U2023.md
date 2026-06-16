@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Nell'art. 56 del regolamento di contabilita' per le Istituzioni pubbliche di assistenza e beneficenza, approvato con [R. decreto 5 febbraio 1891, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-05;99), sono aggiunti i seguenti capoversi: 
+Nell'art. 56 del regolamento di contabilita' per le Istituzioni pubbliche di assistenza e beneficenza, approvato con [R. decreto 5 febbraio 1891, n. 99](../Regi%20decreti/Che%20approva%20gli%20uniti%20regolamenti%20per%20la%20esecuzione%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20beneficenza.%20091U0099.md), sono aggiunti i seguenti capoversi: 
  
  «Le Istituzioni pubbliche di assistenza e beneficenza, su richiesta scritta dei creditori, possono anche disporre che i mandati di pagamento siano estinti dal tesoriere a mezzo di versamento in conto corrente postale a nome del creditore. 
  

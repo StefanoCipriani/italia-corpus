@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 42 delle disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvate con [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Visto l'art. 42 delle disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvate con [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Vista la [legge 22 giugno 1874, n. 1692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-06-22;1692), sulla contabilita' dell'Amministrazione del fondo per il culto;
 

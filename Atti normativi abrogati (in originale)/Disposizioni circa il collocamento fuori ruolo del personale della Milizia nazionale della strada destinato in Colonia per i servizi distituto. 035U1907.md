@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [R. decreto 26 novembre 1928, n. 2716](Istituzione%20della%20Milizia%20della%20strada.%20028U2716.md), le [leggi 24 marzo 1930, n. 537, 8 giugno 1931, n. 836, e 8 giugno 1933, n. 757](Ampliamento%20dellorganico%20della%20Milizia%20nazionale%20della%20strada.%20033U0757.md), ed il [Regio decreto-legge 18 ottobre 1934, n. 1831](Ampliamento%20dellorganico%20nella%20Milizia%20nazionale%20della%20strada.%20034U1831.md), convertito in legge con la [legge 1° aprile 1935, n. 612](Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20ottobre%201934%20n.%201831%20sullampliamento%20dellorganico%20della%20Milizia%20nazionale%20della%20strada.%20035U0612.md), relativi alla Milizia nazionale della strada;
+Visti il [R. decreto 26 novembre 1928, n. 2716](../Regi%20decreti/Istituzione%20della%20Milizia%20della%20strada.%20028U2716.md), le [leggi 24 marzo 1930, n. 537, 8 giugno 1931, n. 836, e 8 giugno 1933, n. 757](Ampliamento%20dellorganico%20della%20Milizia%20nazionale%20della%20strada.%20033U0757.md), ed il [Regio decreto-legge 18 ottobre 1934, n. 1831](Ampliamento%20dellorganico%20nella%20Milizia%20nazionale%20della%20strada.%20034U1831.md), convertito in legge con la [legge 1° aprile 1935, n. 612](Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20ottobre%201934%20n.%201831%20sullampliamento%20dellorganico%20della%20Milizia%20nazionale%20della%20strada.%20035U0612.md), relativi alla Milizia nazionale della strada;
 
 Ritenuta l'assoluta ed urgente necessita' di apportare alcune modifiche all'ordinamento della Milizia nazionale della strada;
 

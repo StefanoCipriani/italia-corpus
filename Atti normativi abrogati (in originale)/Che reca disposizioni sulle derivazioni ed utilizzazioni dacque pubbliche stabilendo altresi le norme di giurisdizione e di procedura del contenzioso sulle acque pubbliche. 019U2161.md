@@ -193,7 +193,7 @@ Le concessioni di grandi derivazioni ad uso di forza motrice si fanno per una du
  
  Il ministro dei lavori pubblici, su parere conferme del Consiglio superiore delle acque tenuto conto dello scopo prevalente, determina la specie e la durata di ciascuna concessione. 
  
- Nulla e' innovato al disposto dell'art. 8 del testo unico sulle ferrovie concesse alla industria privata, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447).
+ Nulla e' innovato al disposto dell'art. 8 del testo unico sulle ferrovie concesse alla industria privata, approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md).
 
 ### Art. 22.
 
@@ -558,7 +558,7 @@ Con le norme stabilite negli articoli 9 e l5 del testo unico delle leggi per la 
 
 ### Art. 64.
 
-Per i bacini di irrigazione da costruire in Sardegna, gli Enti che, a norma dell'art. 47 del testo unico approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), intendono chiederne la concessione, potranno optare per le disposizioni del presente decreto, applicandosi in tal caso le agevolazioni e prescrizioni da questo stabilite, e restando la relativa spesa a carico del bilancio dei lavori pubblici.
+Per i bacini di irrigazione da costruire in Sardegna, gli Enti che, a norma dell'art. 47 del testo unico approvato con [R. decreto 10 novembre 1907, n. 844](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), intendono chiederne la concessione, potranno optare per le disposizioni del presente decreto, applicandosi in tal caso le agevolazioni e prescrizioni da questo stabilite, e restando la relativa spesa a carico del bilancio dei lavori pubblici.
 
 ## Giurisdizione e norme di procedura del contenzioso sulle acque pubbliche.
 
@@ -664,7 +664,7 @@ Appartengono alla cognizione diretta del Tribunale superiore delle acque pubblic
  
  a) i ricorsi per incompetenza, per eccesso di potere e per violazione di legge avverso i provvedimenti definitivi presi dall'Amministrazione in materia di acque pubbliche; 
  
- b) i ricorsi anche per il merito sopra contestazioni circa provvedimenti pel regime delle acque pubbliche, ai termini dell'art. 2 del testo unico delle leggi sulle opere idrauliche, approvato con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), modificato con l'[art. 22 della legge 13 luglio 1911, n.774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md); e contro provvedimenti ordinati dai prefetti a norma di quanto e' prescritto nell'art. 378 della legge stessa in quanto riguardino acque pubbliche. 
+ b) i ricorsi anche per il merito sopra contestazioni circa provvedimenti pel regime delle acque pubbliche, ai termini dell'art. 2 del testo unico delle leggi sulle opere idrauliche, approvato con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), modificato con l'[art. 22 della legge 13 luglio 1911, n.774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md); e contro provvedimenti ordinati dai prefetti a norma di quanto e' prescritto nell'art. 378 della legge stessa in quanto riguardino acque pubbliche. 
  
  Il termine per ricorrere nei casi indicati nel presente articolo e' di giorni sessanta dalla data in cui la decisione amministrativa sia stata notificata nelle forme e nei modi stabiliti. 
  
@@ -1053,7 +1053,7 @@ Le utenze riconosciute o da riconoscere ai sensi delle lettere a) e b) dell'art.
 
 Il Governo del Re provvedera' a dettare le norme per coordinare il presente decreto con le disposizioni seguenti: 
  
- a) [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sulle opere pubbliche testo unico approvato con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, e testo unico approvato con [R. decreto 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;959) e [legge 8 aprile 1915, n. 508](Concernente%20lesecuzione%20di%20opere%20di%20navigazione%20interna%20e%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%203%20e%2079%20del%20testo%20unico%2011%20luglio%201913%20n.%20959%20delle%20disposizioni%20di%20legge%20sulla%20navigazio_0fae9839d1f6.md) sulla navigazione interna e sulla fluitazione; 
+ a) [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sulle opere pubbliche testo unico approvato con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, e testo unico approvato con [R. decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md) e [legge 8 aprile 1915, n. 508](Concernente%20lesecuzione%20di%20opere%20di%20navigazione%20interna%20e%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%203%20e%2079%20del%20testo%20unico%2011%20luglio%201913%20n.%20959%20delle%20disposizioni%20di%20legge%20sulla%20navigazio_0fae9839d1f6.md) sulla navigazione interna e sulla fluitazione; 
  
  b) testo unico approvato con [R. decreto 28 febbraio 1886, n. 3732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-02-28;3732), sui Consorzi di irrigazione, e [legge 2 febbraio 1888, numero 5192](Che%20fissa%20le%20norme%20e%20le%20disposizioni%20secondo%20le%20quali%20debbono%20essere%20ordinati%20i%20Consorzi%20di%20derivazione%20e%20di%20uso%20delle%20acque%20a%20scopo%20industriale%20sia%20volontari%20che%20obbligatori.%20088U5192.md) sui Consorzi di derivazione ed uso delle acque a scopo industriale; 
  
@@ -1061,7 +1061,7 @@ Il Governo del Re provvedera' a dettare le norme per coordinare il presente decr
  
  d) [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), sul magistrato alle acque, per le provincie Venete o di Mantova; 
  
- e) testo unico approvato con [R. decreto 21 marzo 1912, numero 442](Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani.%20012U0442.md), sulla sistemazione idraulica-forestale dei bacini montani; 
+ e) testo unico approvato con [R. decreto 21 marzo 1912, numero 442](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani.%20012U0442.md), sulla sistemazione idraulica-forestale dei bacini montani; 
  
  f) le norme speciali sui canali demaniali. 
  

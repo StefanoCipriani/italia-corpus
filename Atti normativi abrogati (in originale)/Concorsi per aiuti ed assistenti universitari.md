@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto col Ministro
 
 ## Art. 1.
 
-Per la durata di un anno dall'entrata in vigore del presente decreto e' sospesa l'applicazione degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071#art_12) e [13 del regio decreto-legge 20 giugno 1935, numero 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071#art_13), riguardanti i concorsi a posti di aiuti e di assistenti nelle universita' e negli istituti d'istruzione superiore, e sono richiamate in vigore le norme di cui all'art. 130 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). Dette norme sono operative limitatamente ad un solo concorso da espletare, per ciascuna materia, presso le singole sedi.
+Per la durata di un anno dall'entrata in vigore del presente decreto e' sospesa l'applicazione degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071#art_12) e [13 del regio decreto-legge 20 giugno 1935, numero 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071#art_13), riguardanti i concorsi a posti di aiuti e di assistenti nelle universita' e negli istituti d'istruzione superiore, e sono richiamate in vigore le norme di cui all'art. 130 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md). Dette norme sono operative limitatamente ad un solo concorso da espletare, per ciascuna materia, presso le singole sedi.
 
 ## Art. 2.
 

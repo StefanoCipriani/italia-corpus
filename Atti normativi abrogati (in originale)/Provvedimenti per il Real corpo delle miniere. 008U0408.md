@@ -22,7 +22,7 @@ Lo stipendio degli aiutanti principali, con gli aumenti sessennali, puo' arrivar
 
 ## Art. 3.
 
-Le disposizioni del testo unico delle leggi sull'ordinamento del genio civile approvato col [R. decreto del 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), sono estese, in quanto applicabili, al R. corpo delle miniere.
+Le disposizioni del testo unico delle leggi sull'ordinamento del genio civile approvato col [R. decreto del 3 settembre 1906, n. 522](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), sono estese, in quanto applicabili, al R. corpo delle miniere.
 
 ## Art. 4.
 

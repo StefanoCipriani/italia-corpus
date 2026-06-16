@@ -36,7 +36,7 @@ Sono estesi ai territori annessi al Regno d'Italia con gli [articoli 3 della leg
  
  IV) 1° la [legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e il regolamento approvato con [R. decreto 26 dicembre 1892, n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md), sulla competenza dei conciliatori, la [legge 28 luglio 1895, n. 455](Concernente%20disposizioni%20varie%20per%20gli%20Uffici%20di%20Conciliazione.%20095U0455.md), sugli uffici di conciliazione; 
  
- 2° la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), ed il regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), sull'ordinamento del notariato e degli archivi notarili; 
+ 2° la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), ed il regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), sull'ordinamento del notariato e degli archivi notarili; 
  
  3° la [legge 7 luglio 1901, n. 283](Onorari%20dei%20procuratori%20e%20patrocinio%20legale%20nelle%20preture.%20001U0283.md), sugli onorari dei procuratori legali e sul patrocinio innanzi alle preture; 
  

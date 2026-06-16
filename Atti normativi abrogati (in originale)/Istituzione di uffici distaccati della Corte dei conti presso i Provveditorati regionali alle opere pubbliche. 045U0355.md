@@ -14,7 +14,7 @@ Per l'esercizio delle funzioni di riscontro preventivo e successive sulle spese,
  
  L'ufficio e' costituito di un primo referendario o referendario e del numero di funzionari ed impiegati che sara' determinato con ordinanza del presidente della Corte. Resta invariato il numero dei posti nei ruoli organici della Corte stessa. 
  
- Ai servizi degli uffici distaccati, puo' essere adibito anche personale non di ruolo, da assumersi mediante contratto a termine, osservando le norme stabilite dal regolamento per la carriera e la disciplina del personale della Corte dei conti, approvato con [R. decreto 12 ottobre 1933, n. 1364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-12;1364), e dal [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md). Le relative assunzioni sono effettuate entro i limiti che saranno fissati con decreto del Presidente del Consiglio dei Ministri, di Concerto con il Ministro per il tesoro. 
+ Ai servizi degli uffici distaccati, puo' essere adibito anche personale non di ruolo, da assumersi mediante contratto a termine, osservando le norme stabilite dal regolamento per la carriera e la disciplina del personale della Corte dei conti, approvato con [R. decreto 12 ottobre 1933, n. 1364](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20carriera%20e%20la%20disciplina%20del%20personale%20della%20Corte%20dei%20conti.%20033U1364.md), e dal [R. decreto-legge 4 febbraio 1937, n. 100](Disposizioni%20circa%20il%20trattamento%20del%20personale%20non%20di%20ruolo%20in%20servizio%20presso%20lAmministrazione%20dello%20Stato.%20037U0100.md). Le relative assunzioni sono effettuate entro i limiti che saranno fissati con decreto del Presidente del Consiglio dei Ministri, di Concerto con il Ministro per il tesoro. 
  
  Le funzioni di riscontro per gli atti del Provveditorato regionale alle opere pubbliche con sede in Roma sono esercitate dalla delegazione della Corte dei conti presso il Ministero dei lavori pubblici.
 
@@ -54,7 +54,7 @@ Al primo referendario o referendario direttore di ufficio, competono tutti i pot
 
 ## Art. 7.
 
-Per quanto non previsto nel presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e le altre disposizioni relative alla Corte medesima.
+Per quanto non previsto nel presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e le altre disposizioni relative alla Corte medesima.
 
 ## Art. 8.
 

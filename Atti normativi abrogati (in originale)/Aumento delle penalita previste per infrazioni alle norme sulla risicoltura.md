@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Per l'inosservanza degli articoli 213 e 214 del testa unico delle leggi sanitarie, approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e applicabile l'ammenda da lire 1000 a lire 5000 per ogni lavoratore cui si riferisce la contravvenzione.
+Per l'inosservanza degli articoli 213 e 214 del testa unico delle leggi sanitarie, approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e applicabile l'ammenda da lire 1000 a lire 5000 per ogni lavoratore cui si riferisce la contravvenzione.
 
 ## Art. 2.
 

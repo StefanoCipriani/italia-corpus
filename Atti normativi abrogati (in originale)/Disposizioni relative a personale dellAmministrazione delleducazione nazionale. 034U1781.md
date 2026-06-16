@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 1, n. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690):
+Veduto il [R. decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md):
 
 Veduto il [R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md);
 
@@ -37,7 +37,7 @@ La tabella A annessa al R. decreto 2 giugno,1932, n. 690, con l'aggiunta di cui 
 
 ## Art. 3.
 
-All'[art. 3 del R. decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690#art_3), e aggiunto il comma seguente: 
+All'[art. 3 del R. decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md), e aggiunto il comma seguente: 
  « Agli uscieri capi che per effetto del presente articolo otterranno la nomina ad agente tecnico, sara' tenuto calcolo della loro anzianita' nel grado dal quale provengono ». 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a Roma, addi' 18 ottobre 1934 - Anno XII 

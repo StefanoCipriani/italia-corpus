@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'[art. 75 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_75), sulla assicurazione obbligatoria degli infortuni sul lavoro e delle malattie professionali;
+Visto l'[art. 75 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), sulla assicurazione obbligatoria degli infortuni sul lavoro e delle malattie professionali;
 
 Visto l'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,29 +26,29 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la grazia e giustizia
 
 ## Art. 1.
 
-Le disposizioni contenute nel titolo VI del [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), avranno attuazione a decorrere dal 1° gennaio
+Le disposizioni contenute nel titolo VI del [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), avranno attuazione a decorrere dal 1° gennaio
 
 1938.
 
-Dalla data predetta le controversie, che si sarebbero dovute proporre avanti gli uffici giudiziari competenti secondo le norme anteriori al [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), si dovranno proporre davanti agli uffici giudiziari competenti secondo le norme degli articoli 51 e seguenti del medesimo Regio decreto.
+Dalla data predetta le controversie, che si sarebbero dovute proporre avanti gli uffici giudiziari competenti secondo le norme anteriori al [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), si dovranno proporre davanti agli uffici giudiziari competenti secondo le norme degli articoli 51 e seguenti del medesimo Regio decreto.
 
 ## Art. 2.
 
-L'appello delle sentenze pronunciate dai tribunali e dai pretori deve essere proposto dopo il 1° gennaio 1938, innanzi alla Corte di appello costituita in conformita' dell'[art. 54 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_54); ma l'appellabilita' delle sentenze pronunciate secondo le norme anteriori e' regolata dalle norme medesime. 
+L'appello delle sentenze pronunciate dai tribunali e dai pretori deve essere proposto dopo il 1° gennaio 1938, innanzi alla Corte di appello costituita in conformita' dell'[art. 54 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md); ma l'appellabilita' delle sentenze pronunciate secondo le norme anteriori e' regolata dalle norme medesime. 
  
  Parimenti e' determinato dalle norme anteriori il termine per appellare, se questo sia gia' in corso alla data del 1° gennaio 1938.
 
 ## Art. 3.
 
-La impugnabilita' col ricorso per cassazione delle sentenze di appello pronunziate secondo le norme anteriori, e' regolata dalle norme medesime; da queste e' parimenti regolato il termine per ricorrere; ma la disposizione dell'ultimo comma dell'[art. 56 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_56), si applica a tutte le decisioni della Corte di cassazione pronunziate dopo il 1° gennaio 1938.
+La impugnabilita' col ricorso per cassazione delle sentenze di appello pronunziate secondo le norme anteriori, e' regolata dalle norme medesime; da queste e' parimenti regolato il termine per ricorrere; ma la disposizione dell'ultimo comma dell'[art. 56 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), si applica a tutte le decisioni della Corte di cassazione pronunziate dopo il 1° gennaio 1938.
 
 ## Art. 4.
 
-Le controversie pendenti al 1° gennaio 1938, in prima istanza o in grado di appello, relative ad infortuni o malattie professionali verificatisi anteriormente al 1° aprile 1937, continueranno ad essere trattate, secondo le norme anteriori al [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), dagli uffici giudiziari competenti ai sensi delle norme medesime; ma contro le sentenze pronunziate dopo il 1° gennaio 1938 non e' ammessa l'opposizione contumaciale e per la revocazione e l'opposizione di terzo si applica il [terzo comma dell'art. 25 del R. decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md). 
+Le controversie pendenti al 1° gennaio 1938, in prima istanza o in grado di appello, relative ad infortuni o malattie professionali verificatisi anteriormente al 1° aprile 1937, continueranno ad essere trattate, secondo le norme anteriori al [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), dagli uffici giudiziari competenti ai sensi delle norme medesime; ma contro le sentenze pronunziate dopo il 1° gennaio 1938 non e' ammessa l'opposizione contumaciale e per la revocazione e l'opposizione di terzo si applica il [terzo comma dell'art. 25 del R. decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md). 
  
- Qualora le controversie indicate nel comma precedente non fossero definite al 31 dicembre 1938, saranno devolute, nello stato in cui si trovano, alle autorita' giudiziarie competenti secondo le disposizioni del [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765). 
+ Qualora le controversie indicate nel comma precedente non fossero definite al 31 dicembre 1938, saranno devolute, nello stato in cui si trovano, alle autorita' giudiziarie competenti secondo le disposizioni del [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md). 
  
- Le controversie pendenti, che si riferiscono ad infortuni o malattie professionali verificatisi dopo il 1° aprile 1937, saranno devolute al 1° gennaio 1938, nello stato in cui si trovano, all'autorita' giudiziaria competente secondo le disposizioni del [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765). 
+ Le controversie pendenti, che si riferiscono ad infortuni o malattie professionali verificatisi dopo il 1° aprile 1937, saranno devolute al 1° gennaio 1938, nello stato in cui si trovano, all'autorita' giudiziaria competente secondo le disposizioni del [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

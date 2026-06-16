@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' istituita presso l'Universita' degli studi di Roma, ai sensi dell'articolo 20, comma terzo, lettera a) del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), la Scuola speciale per archivisti e bibliotecari al fine di promuovere, l'incremento scientifico delle discipline archivistiche e bibliografiche e di curare la preparazione tecnica e professionale necessaria per il governo degli archivi e delle biblioteche.
+E' istituita presso l'Universita' degli studi di Roma, ai sensi dell'articolo 20, comma terzo, lettera a) del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), la Scuola speciale per archivisti e bibliotecari al fine di promuovere, l'incremento scientifico delle discipline archivistiche e bibliografiche e di curare la preparazione tecnica e professionale necessaria per il governo degli archivi e delle biblioteche.
  La Scuola speciale di cui al precedente comma e' sostitutiva della Scuola gia' esistente, con eguale denominazione, presso l'Universita' degli studi di Roma.
 
 ## Art. 2.
@@ -50,7 +50,7 @@ Possono iscriversi alla Scuola i laureati in lettere, in filosofia, in giurispru
 
 ## Art. 7.
 
-Per gli iscritti alla Scuola valgono, in quanto applicabili, le norme contenute nel Regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269), e, in quanto attiene alle tasse e sopratasse e ai contributi di qualsiasi natura, le disposizioni legislative concernenti gli studenti delle Facolta'.
+Per gli iscritti alla Scuola valgono, in quanto applicabili, le norme contenute nel Regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md), e, in quanto attiene alle tasse e sopratasse e ai contributi di qualsiasi natura, le disposizioni legislative concernenti gli studenti delle Facolta'.
 
 ## Art. 8.
 

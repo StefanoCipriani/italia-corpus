@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  Veduto lo statuto della Scuola normale superiore di Pisa approvato con [decreto del Presidente della Repubblica 15 giugno 1965, n. 979](../DPR/Sostituzione%20e%20approvazione%20del%20nuovo%20statuto%20della%20Scuola%20normale%20superiore%20di%20Pisa.md) e modificato con [decreto del Presidente della Repubblica 24 giugno 1967, n. 914](../DPR/Modificazioni%20allo%20statuto%20della%20Scuola%20normale%20superiore%20di%20Pisa_3.md); 
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche della scuola anzidetta; 
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Viste le disposizioni legislative sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvate con [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Viste le disposizioni legislative sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvate con [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Visto il regolamento di amministrazione del Corpo della Regia guardia di finanza, approvato con [R. decreto 18 giugno 1931, n. 807](Nuovo%20regolamento%20di%20amministrazione%20per%20il%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20031U0807.md);
 

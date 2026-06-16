@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 5 ottobre 1903, n. 411](Che%20approva%20il%20nuovo%20regolamento%20per%20lammissione%20la%20permanenza%20e%20la%20cessazione%20del%20servizio%20degli%20operai%20borghesi%20dipendenti%20dal%20Ministero%20della%20Guerra.%20003U0411.md), col quale veniva approvato il regolamento che stabilisce le norme per l'ammissione degli operai borghesi dipendenti dal Ministero della guerra, per la loro permanenza in servizio e per la cessazione dal servizio stesso;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, num. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, num. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Vista la [legge 15 luglio 1906, n. 360](Modificazione%20alle%20leggi%20sulle%20pensioni%20degli%20operai%20borghesi%20dellAmministrazione%20militare.%20006U0360.md), che apporta modificazioni al citato testo unico della legge sulle pensioni;
 

@@ -20,7 +20,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-E' conceduta amnistia per i seguenti reati preveduti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 
+E' conceduta amnistia per i seguenti reati preveduti nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 
  
  a) delitti contro la liberta' del lavoro (articoli 165, 166, 167); 
  
@@ -56,7 +56,7 @@ E' conceduta altresi' amnistia:
  
  3° per i reati commessi dai proprietari, dai possessori o da persone che si trovavano nei terreni o nei fabbricati rustici per ragioni di custodia o in virtu' di qualsiasi rapporto giuridico con essi, diretti ad impedire la consumazione dei delitti preveduti nel precedente n 2 o immediatamente dopo che i medesimi furono consumati. 
  
- Questa disposizione non si applica ai reati preveduti nodi articoli 364 a 368 e 372, cap. I, nn. 1 e 2 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Questa disposizione non si applica ai reati preveduti nodi articoli 364 a 368 e 372, cap. I, nn. 1 e 2 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 
@@ -70,9 +70,9 @@ Sono condonate le pene restrittive della liberta' personale non superiori a tre 
  
  c) negli articoli delle seguenti leggi: 
  
- I - 108, 403, 404, 406, 407, 408, 409, 413, 419, 421, 364 a 368, 372, 460 a 464, 468 e 493 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ I - 108, 403, 404, 406, 407, 408, 409, 413, 419, 421, 364 a 368, 372, 460 a 464, 468 e 493 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- II - 11, 19, 20 [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con R. decreto 30 giugno 1889. 
+ II - 11, 19, 20 [testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 30 giugno 1889. 
  
  III. - 2, 3, 4 della [legge 2 luglio 1908, n. 319](Sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20008U0319.md). 
  
@@ -82,15 +82,15 @@ Sono condonate le pene restrittive della liberta' personale non superiori a tre 
 
 ## Art. 4.
 
-Sono condonate le pene inflitte o da infliggersi per i reati menzionati nell'articolo 2, n 2, se il condannato o l'imputato, alla data di pubblicazione del presente decreto, non abbia ancora rilasciato i terreni o i fabbricati rustici invasi, ma li rilasci entro il termine di venti giorni dalla data della pubblicazione predetta, o, per il reato di esercizio arbitrario, delle proprie ragioni, sia stata riconosciuta al condannato, o si riconosca all'imputato, l'applicabilita' dell'[articolo 236 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero l'occupazione permanga col consenso dei proprietario degli aventi diritto.
+Sono condonate le pene inflitte o da infliggersi per i reati menzionati nell'articolo 2, n 2, se il condannato o l'imputato, alla data di pubblicazione del presente decreto, non abbia ancora rilasciato i terreni o i fabbricati rustici invasi, ma li rilasci entro il termine di venti giorni dalla data della pubblicazione predetta, o, per il reato di esercizio arbitrario, delle proprie ragioni, sia stata riconosciuta al condannato, o si riconosca all'imputato, l'applicabilita' dell'[articolo 236 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero l'occupazione permanga col consenso dei proprietario degli aventi diritto.
 
 ## Art. 5.
 
-L'indulto stabilito negli articoli 3 e 4 si ha come non conceduto, quando l'imputato o il condannato entro il termine di cinque anni commetta un delitto. In questo caso la pena e' espiata secondo la disposizione dell'[articolo 76 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'indulto stabilito negli articoli 3 e 4 si ha come non conceduto, quando l'imputato o il condannato entro il termine di cinque anni commetta un delitto. In questo caso la pena e' espiata secondo la disposizione dell'[articolo 76 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 
-L'amnistia e l'indulto conceduti con gli articoli 1, 2, nn. 2 e 3; 3 e 4 non si applicano a coloro ai quali il giudice abbia inflitta la sottoposizione alla vigilanza speciale della autorita' di pubblica sicurezza con sentenza passata in giudicato, agli ammoniti ed a coloro che abbiano riportata, condanna per i reati preveduti negli articoli 248, 402, 403, 404, 406, 407, 408, 409, 364 a 368 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per quelli menzionati nell'art. 3 cap. lettera C, nn. II e III del presente decreto.
+L'amnistia e l'indulto conceduti con gli articoli 1, 2, nn. 2 e 3; 3 e 4 non si applicano a coloro ai quali il giudice abbia inflitta la sottoposizione alla vigilanza speciale della autorita' di pubblica sicurezza con sentenza passata in giudicato, agli ammoniti ed a coloro che abbiano riportata, condanna per i reati preveduti negli articoli 248, 402, 403, 404, 406, 407, 408, 409, 364 a 368 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e per quelli menzionati nell'art. 3 cap. lettera C, nn. II e III del presente decreto.
 
 ## Art. 7.
 

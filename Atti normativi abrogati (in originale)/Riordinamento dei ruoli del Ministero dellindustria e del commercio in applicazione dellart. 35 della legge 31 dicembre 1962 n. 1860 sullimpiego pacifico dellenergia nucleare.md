@@ -79,7 +79,7 @@ Nei concorsi per l'ammissione alla carriera di concetto di cui alla tabella A, q
 ## Art. 11.
 
 Nei concorsi per l'ammissione alla carriera esecutiva di cui alla tabella A. quadro 5°, annessa al presente decreto, il 30% dei posti messi a concorso e' riservato per il conferimento della qualifica di steno-dattilografo di 3ª classe ed il 20% per il conferimento della qualifica di operatore tecnico di 3ª classe.
- Per conseguire la nomina a tali qualifiche gli aspiranti debbono superare, oltre alle prove scritte ed orali di cui all'art. 182 del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), una prova di dattilografia nonche' una prova pratica di stenografia o su mezzi meccanici come specificato nel bando di concorso.
+ Per conseguire la nomina a tali qualifiche gli aspiranti debbono superare, oltre alle prove scritte ed orali di cui all'art. 182 del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), una prova di dattilografia nonche' una prova pratica di stenografia o su mezzi meccanici come specificato nel bando di concorso.
  Gli impiegati con qualifica di operatori tecnici di 1ª e di 2ª classe o di steno-dattilografi di 1° e di 2° classe partecipano insieme agli archivisti agli esami ed agli scrutini per la promozione alla qualifica di primo archivista.
 
 ## Art. 12.
@@ -89,7 +89,7 @@ Le nuove dotazioni organiche previste per i ruoli di cui alle annesse tabella A,
 
 ## Art. 13.
 
-Entro sei mesi dalla data di entrata in vigore del presente decreto, del ruolo di cui al quadro 30 dell'annessa tabella A, i posti di qualifica inferiore a quella di ispettore generale sono conferiti agli impiegati delle carriere direttive con le modalita' ed i criteri di cui all'art. 200 del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), in misura non eccedente i due terzi del numero dei posti stabiliti per ciascuna qualifica da conferire.
+Entro sei mesi dalla data di entrata in vigore del presente decreto, del ruolo di cui al quadro 30 dell'annessa tabella A, i posti di qualifica inferiore a quella di ispettore generale sono conferiti agli impiegati delle carriere direttive con le modalita' ed i criteri di cui all'art. 200 del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), in misura non eccedente i due terzi del numero dei posti stabiliti per ciascuna qualifica da conferire.
  I posti che risulteranno disponibili nella qualifica iniziale del ruolo di cui al comma precedente e quelli che risulteranno disponibili nella qualifica iniziale degli altri ruoli delle carriere direttive del Ministero dell'industria e del commercio a seguito dei trasferimenti previsti dal primo comma del presente articolo sono messi a concorso in data successiva al 30 giugno 1964.
 
 ## Art. 14.

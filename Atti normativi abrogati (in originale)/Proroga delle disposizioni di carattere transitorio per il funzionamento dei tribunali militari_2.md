@@ -21,7 +21,7 @@ L'efficacia delle norme contenute nel [decreto legislativo 7 maggio 1948, n. 805
 ## Art. 2.
 
 Il numero massimo di ufficiali da assegnarsi ai tribunali militari con funzioni di magistrato o di cancelliere, compresi gli appartenenti ai ruoli organici del personale civile della Giustizia militare, anche se siano stati o vengano ricollocati in congedo, non puo' superare i 200.
- A modifica di quanto previsto dall'[art. 13 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md), il contingente di cui al precedente comma non comprende gli ufficiali con funzioni di presidente e di giudice, da assegnare ai predetti tribunali nel numero massimo previsto dall'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022).
+ A modifica di quanto previsto dall'[art. 13 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md), il contingente di cui al precedente comma non comprende gli ufficiali con funzioni di presidente e di giudice, da assegnare ai predetti tribunali nel numero massimo previsto dall'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md).
 
 ## Art. 3.
 

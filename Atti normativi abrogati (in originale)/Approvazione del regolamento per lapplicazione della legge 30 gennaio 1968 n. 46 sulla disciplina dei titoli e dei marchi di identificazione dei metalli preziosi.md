@@ -14,7 +14,7 @@ Vista la [legge 30 gennaio 1968, n. 46](Disciplina%20dei%20titoli%20e%20dei%20ma
 
 Visti gli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;600#art_10) e [11 della legge 17 luglio 1954, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;600#art_11), che stabiliscono i diritti dovuti per il saggio dei metalli preziosi effettuati nei laboratori degli uffici provinciali metrici e dell'ufficio centrale metrico e del saggio dei metalli preziosi;
 
-Visto il regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), e successive modificazioni;
+Visto il regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), e successive modificazioni;
 
 Sentito il parere del comitato centrale metrico;
 

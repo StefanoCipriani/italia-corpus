@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 15 del testo unico 17 giugno 1915, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-06-17;968#art_15), il [R. decreto-legge 15 settembre 1923, n. 2093](Cassa%20di%20previdenza%20per%20gli%20impiegati%20e%20salariati%20degli%20Enti%20locali.%20023U2093.md), ed il [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md);
+Visto l'[art. 15 del testo unico 17 giugno 1915, n. 968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-06-17;968#art_15), il [R. decreto-legge 15 settembre 1923, n. 2093](Cassa%20di%20previdenza%20per%20gli%20impiegati%20e%20salariati%20degli%20Enti%20locali.%20023U2093.md), ed il [R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -42,7 +42,7 @@ Agli Enti, che non inviano alla Prefettura entro il mese di gennaio le notizie i
 
 ## Art. 4.
 
-L'[art. 7 del R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), non e' applicabile per il pagamento dell'uno per cento accordato dal Consiglio di amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza per il ricupero dei contributi arretrati spettanti alla Cassa di previdenza per il settennio 1916-1923.
+L'[art. 7 del R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), non e' applicabile per il pagamento dell'uno per cento accordato dal Consiglio di amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza per il ricupero dei contributi arretrati spettanti alla Cassa di previdenza per il settennio 1916-1923.
 
 ## Art. 5.
 

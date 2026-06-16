@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Ritenuta la necessita' e l'urgenza di adottare nell'Officina carte valori quei moderni sistemi di lavorazione, gia' in uso presso gli altri Stati, che assicurano la piu' artistica, rapida ed economica produzione;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 9 aprile 1925, n. 399](Provvedimenti%20riguardanti%20il%20personale%20da%20adibire%20ai%20servizi%20dellOfficina%20carte%20valori%20in%20seguito%20al%20passaggio%20dei%20servizi%20stessi%20alla%20dipendenza%20del%20Provveditorato%20generale%20dello%20Stato.%20025U0399.md);
 
-Visto il [R. decreto 3 aprile 1926, n. 648](Approvazione%20del%20regolamento%20sui%20servizi%20e%20sul%20funzionamento%20dellOfficina%20governativa%20delle%20carte%20valori.%20026U0648.md), che approva il regolamento sui servizi ed il funzionamento dell'Officina carte valori;
+Visto il [R. decreto 3 aprile 1926, n. 648](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20servizi%20e%20sul%20funzionamento%20dellOfficina%20governativa%20delle%20carte%20valori.%20026U0648.md), che approva il regolamento sui servizi ed il funzionamento dell'Officina carte valori;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

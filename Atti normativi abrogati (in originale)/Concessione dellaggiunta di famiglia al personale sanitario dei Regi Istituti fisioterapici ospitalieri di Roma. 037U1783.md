@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto 6 luglio 1933, n. 1310](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%204%20agosto%201932%20n.%201296%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20di%20Roma.%20033U1310.md), che approva il regolamento per la esecuzione del testo unico 4 agosto 1932, sulla costituzione ed il funzionamento dei Regi istituti fisioterapici ospitalieri di Roma;
 
-Visto il [R. decreto 14 febbraio 1935, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-02-14;519);
+Visto il [R. decreto 14 febbraio 1935, n. 519](../Regi%20decreti/Modificazioni%20alla%20pianta%20organica%20del%20personale%20sanitario%20degli%20Istituti%20fisioterapici%20ospedalieri%20di%20Roma.%20035U0519.md);
 
 Ritenuta la necessita' di apportare una variante alla pianta organica del personale di detti Istituti;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Articolo unico.
 
-E' approvata la seguente aggiunta in calce a ciascuno degli allegati II e III del regolamento approvato con [R. decreto 6 luglio 1933, n. 1310](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%204%20agosto%201932%20n.%201296%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20di%20Roma.%20033U1310.md), e degli allegati A e B del [R. decreto 14 febbraio 1935, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-02-14;519): 
+E' approvata la seguente aggiunta in calce a ciascuno degli allegati II e III del regolamento approvato con [R. decreto 6 luglio 1933, n. 1310](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%204%20agosto%201932%20n.%201296%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20di%20Roma.%20033U1310.md), e degli allegati A e B del [R. decreto 14 febbraio 1935, n. 519](../Regi%20decreti/Modificazioni%20alla%20pianta%20organica%20del%20personale%20sanitario%20degli%20Istituti%20fisioterapici%20ospedalieri%20di%20Roma.%20035U0519.md): 
  
  «Al personale sanitario compete altresi' l'aggiunta di famiglia, a norma delle disposizioni vigenti per i dipendenti dello Stato». 
  

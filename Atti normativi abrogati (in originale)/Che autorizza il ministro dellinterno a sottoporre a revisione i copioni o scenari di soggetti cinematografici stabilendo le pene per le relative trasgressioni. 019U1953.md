@@ -20,7 +20,7 @@ Il ministro dell'interno e' autorizzato a sottoporre a revisione i copioni o sce
 
 E' stabilita una tassa fissa di lire 100 per ogni copione da sottoporsi a revisione. 
  
- Il nove per cento del provento di questa tassa sara' devoluto, in parti eguali, all'Opera nazionale per la protezione e assistenza degli invalidi della guerra, al Fondo a favore degli orfani di guerra costituito presso il Ministero dell'interno, a termini dell'[art. 31 della legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), ed all'istituto nazionale per gli orfani degli impiegati civili dello Stato, eretto in ente morale con [R. decreto 28 febbraio 1892, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-02-28;90).
+ Il nove per cento del provento di questa tassa sara' devoluto, in parti eguali, all'Opera nazionale per la protezione e assistenza degli invalidi della guerra, al Fondo a favore degli orfani di guerra costituito presso il Ministero dell'interno, a termini dell'[art. 31 della legge 18 luglio 1917, n. 1143](Per%20la%20protezione%20e%20lassistenza%20degli%20orfani%20di%20guerra.%20017U1143.md), ed all'istituto nazionale per gli orfani degli impiegati civili dello Stato, eretto in ente morale con [R. decreto 28 febbraio 1892, n. 90](../Regi%20decreti/Che%20costituisce%20in%20ente%20morale%20lIstituto%20nazionale%20per%20gli%20orfani%20degli%20impiegati%20civili%20dello%20Stato%20ed%20approva%20il%20relativo%20statuto%20organico.%20092U0090.md).
 
 ## Art. 4.
 

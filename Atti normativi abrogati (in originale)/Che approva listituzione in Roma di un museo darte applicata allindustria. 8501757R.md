@@ -90,7 +90,7 @@ Decorazione in plastica per le arti metalliche. Composizione ed esercizi di cese
 
 ## Art. 8.
 
-Al museo e' altresi' annessa la officina istituita con l'art. 4° del [regio decreto 23 ottobre 1884, n. 2736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-10-23;2736) per la formazione dei modelli in gesso dei vari tipi dell'ornato italiano che al ministero di agricoltura, industria e commercio occorra di fornire ai musei e alle scuole d'arte industriale del Regno. 
+Al museo e' altresi' annessa la officina istituita con l'art. 4° del [regio decreto 23 ottobre 1884, n. 2736](../Regi%20decreti/Sulla%20costituzione%20della%20Scuola%20Industriale%20di%20Vicenza.%20084U2736.md) per la formazione dei modelli in gesso dei vari tipi dell'ornato italiano che al ministero di agricoltura, industria e commercio occorra di fornire ai musei e alle scuole d'arte industriale del Regno. 
  
  Questa officina forma anche collezioni di modelli da vendere a prezzi modici agl'industriali, o per farne scambio coi musei italiani e stranieri.
 

@@ -16,7 +16,7 @@ La Croce Rossa italiana ha facolta' di ricevere da quelle straniere gli atti di 
 
 ## Art. 2.
 
-Gli atti di morte ricevuti e legalizzati giusta l'articolo precedente, saranno dalla Croce Rossa italiana trasmessi al Ministero della guerra od a quello della marina, a seconda che trattasi di militari dell'esercito o dell'armata, i quali ne cureranno l'invio al competente ufficio di stato civile per la trascrizione a norma dell'art. 106, n. 1, e ultima parte del [R. decreto 15 novembre 1865, n. 2602](Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md).
+Gli atti di morte ricevuti e legalizzati giusta l'articolo precedente, saranno dalla Croce Rossa italiana trasmessi al Ministero della guerra od a quello della marina, a seconda che trattasi di militari dell'esercito o dell'armata, i quali ne cureranno l'invio al competente ufficio di stato civile per la trascrizione a norma dell'art. 106, n. 1, e ultima parte del [R. decreto 15 novembre 1865, n. 2602](../Regi%20decreti/Per%20lOrdinamento%20dello%20Stato%20Civile.%20065U2602.md).
 
 ## Art. 3.
 

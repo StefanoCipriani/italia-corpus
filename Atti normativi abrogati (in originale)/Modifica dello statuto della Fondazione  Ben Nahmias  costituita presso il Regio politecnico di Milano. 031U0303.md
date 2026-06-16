@@ -28,11 +28,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbi
 
 ## Art. 1.
 
-La Fondazione « Ben Nahmias » costituita presso la Regia scuola di ingegneria di Milano e riconosciuta come ente morale con [R. decreto 2 aprile 1925, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-02;573), e' retta dallo statuto annesso al presente decreto, visto e firmato, d'ordine Nostro, dal Ministro proponente.
+La Fondazione « Ben Nahmias » costituita presso la Regia scuola di ingegneria di Milano e riconosciuta come ente morale con [R. decreto 2 aprile 1925, n. 573](../Regi%20decreti/Erezione%20in%20Ente%20morale%20della%20Fondazione%20Ben%20Mahmias%20presso%20il%20Regio%20istituto%20tecnico%20superiore%20di%20Milano.%20025U0573.md), e' retta dallo statuto annesso al presente decreto, visto e firmato, d'ordine Nostro, dal Ministro proponente.
 
 ## Art. 2.
 
-Sono abrogate, in quanto contrarie al presente decreto, le disposizioni del [R. decreto 2 aprile 1925, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-02;573), e [29 agosto 1929, n. 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-29;2005). 
+Sono abrogate, in quanto contrarie al presente decreto, le disposizioni del [R. decreto 2 aprile 1925, n. 573](../Regi%20decreti/Erezione%20in%20Ente%20morale%20della%20Fondazione%20Ben%20Mahmias%20presso%20il%20Regio%20istituto%20tecnico%20superiore%20di%20Milano.%20025U0573.md), e [29 agosto 1929, n. 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-29;2005). 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a Roma, addi' 2 marzo 1931 - Anno IX 
  

@@ -26,7 +26,7 @@ Nei territori annessi in base all'[art. 3 della legge 26 settembre 1920, n. 1322
  
  a) le disposizioni del capo IV e degli [articoli 13](Contenente%20diposizioni%20varie%20sulla%20sanita%20pubblica.%20016U0947.md) e [14 della legge 16 luglio 1916, n. 947](Contenente%20diposizioni%20varie%20sulla%20sanita%20pubblica.%20016U0947.md), circa le acque minerali e gli stabilimenti termali, idroterapici, di cure fisiche e affini; 
  
- b) il regolamento per l'esecuzione delle cennate disposizioni, approvato con [R. D. 28 settembre 1919, n. 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1924).
+ b) il regolamento per l'esecuzione delle cennate disposizioni, approvato con [R. D. 28 settembre 1919, n. 1924](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20capo%20IV%20della%20legge%2016%20luglio%201916%20n.%20947%20contenente%20disposizioni%20circa%20le%20acque%20minerali%20e%20gli%20stabilimenti%20termali%20idroterapici%20di%20cure%20fi_6e4da07dc5ad.md).
 
 ## Art. 2.
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;734), col quale i comuni di Castelletto Villa, Villa del Bosco e Roasio venivano riuniti in un solo comune con denominazione e capoluogo «Roasio»; 
+ Visto il [R. decreto 28 marzo 1929, n. 734](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Castelletto%20Villa%20Villa%20del%20Bosco%20e%20Roasio%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Roasio%20.%20029U0734.md), col quale i comuni di Castelletto Villa, Villa del Bosco e Roasio venivano riuniti in un solo comune con denominazione e capoluogo «Roasio»; 
  Vista la deliberazione del commissario prefettizio di detto comune di Roasio, con la quale si chiede che per tutto il territorio del comune di Roasio funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

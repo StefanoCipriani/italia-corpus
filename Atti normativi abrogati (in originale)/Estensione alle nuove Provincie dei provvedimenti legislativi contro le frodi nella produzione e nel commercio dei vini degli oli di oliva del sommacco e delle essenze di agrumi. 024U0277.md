@@ -28,7 +28,7 @@ Sono pubblicati ed avranno vigore, nei territori annessi in base all'[art. 3 del
  
  b) la [legge 5 aprile 1908, n. 136](Sui%20provvedimenti%20per%20combattere%20le%20frodi%20nel%20commercio%20dellolio%20di%20oliva.%20008U0136.md), contenente disposizioni per combattere le frodi nella preparazione e nel commercio dell'olio di oliva, e il relativo regolamento, approvato con [R. decreto 7 settembre 1908, n. 620](Approvazione%20dellannesso%20regolamento%20per%20lesecuzione%20della%20legge%20sulle%20disposizioni%20per%20combattere%20le%20frodi%20nella%20preparazione%20e%20nel%20commercio%20degli%20olii.%20008U0620.md); 
  
- c) la [legge 2 agosto 1897, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-08-02;378), recante provvedimenti per prevenire e combattere le frodi nel commercio delle essenze degli agrumi e in quello del sommacco, e il relativo regolamento, approvato con [R. decreto 15 luglio 1906, numero 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-07-15;483).
+ c) la [legge 2 agosto 1897, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-08-02;378), recante provvedimenti per prevenire e combattere le frodi nel commercio delle essenze degli agrumi e in quello del sommacco, e il relativo regolamento, approvato con [R. decreto 15 luglio 1906, numero 483](../Regi%20decreti/Approvazione%20dellunito%20regolamento%20diretto%20a%20prevenire%20e%20combattere%20le%20frodi%20nel%20commercio%20delle%20essenze%20di%20agrumi%20ed%20in%20quello%20del%20sommacco.%20006U0483.md).
 
 ## Art. 2.
 

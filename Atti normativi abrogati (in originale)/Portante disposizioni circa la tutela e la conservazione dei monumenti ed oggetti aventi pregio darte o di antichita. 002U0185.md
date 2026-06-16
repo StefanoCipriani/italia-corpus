@@ -206,7 +206,7 @@ Ai codici, agli antichi manoscritti, agli incunabuli, alle stampe ed incisioni r
 
 ## Art. 33.
 
-Nel caso di non eseguito pagamento delle multe stabilite nella presente legge, si applicheranno le disposizioni dell'[articolo 19 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Nel caso di non eseguito pagamento delle multe stabilite nella presente legge, si applicheranno le disposizioni dell'[articolo 19 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 34.
 

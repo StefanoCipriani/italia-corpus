@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato, approvato con [R. decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611); 
+ Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato, approvato con [R. decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md); 
  
  Visto il [R. decreto-legge 4 febbraio 1929, n. 456](Istituzione%20in%20Brescia%20del%20Consorzio%20dellOglio%20per%20la%20regolazione%20del%20lago%20dIseo.%20029U0456.md), convertito nella [legge 27 giugno 1929, n. 1189](Conversione%20in%20legge%20del%20R.%20decreto-legge%204%20febbraio%201929%20n.%20456%20concernente%20listituzione%20in%20Brescia%20del%20Consorzio%20dellOglio%20per%20la%20regolazione%20del%20lago%20dIseo.%20029U1189.md), riguardante l'istituzione del «Consorzio dell'Oglio» per la regolazione del lago d'Iseo; 
  

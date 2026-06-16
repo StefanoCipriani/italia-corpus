@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%
 
 Visto il [R. decreto 28 maggio 1925, n. 1190](Approvazione%20del%20regolamento%20sullistruzione%20media%20commerciale.%20025U1190.md);
 
-Visto il [R. decreto 28 novembre 1920, n. 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-28;1926), col quale venne istituita a S. Margherita Ligure una R. Scuola commerciale di 2° grado;
+Visto il [R. decreto 28 novembre 1920, n. 1926](../Regi%20decreti/Istituzione%20di%20scuola%20commerciale.%20020U1926.md), col quale venne istituita a S. Margherita Ligure una R. Scuola commerciale di 2° grado;
 
 Visto il decreto Ministeriale 9 agosto 1921, col quale venne approvata la tabella organica del personale della R. Scuola commerciale di S. Margherita Ligure; tabella modificata con decreto Ministeriale 2 gennaio 1926;
 

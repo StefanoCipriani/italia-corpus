@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti i [Regi decreti 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-02;1) e [25 ottobre 1928, n. 2520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-25;2520), coi quali il comune di Lucinico e' stato aggregato al comune di Gorizia; 
+ Visti i [Regi decreti 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-02;1) e [25 ottobre 1928, n. 2520](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Vertoiba%20in%20Campi%20Santi%20al%20comune%20di%20Gorizia.%20028U2520.md), coi quali il comune di Lucinico e' stato aggregato al comune di Gorizia; 
  
  Visto che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Trieste alla diretta amministrazione del comune autonomo di Gorizia, a decorrere dal 1° gennaio 1929; 
  

@@ -32,7 +32,7 @@ Chiunque e' affetto da malattia venerea ha diritto di essere visitato e curato g
 
 ## Art. 4.
 
-Il sanitario che, comunque nell'esercizio professionale, riscontri una persona affetta da malattia venerea, e' tenuto a renderla edotta della natura e della contagiosita' della malattia, della obbligatorieta' della cura radicale e delle facilitazioni concesse a tale fine dalla presente legge, delle responsabilita' alle quali va incontro nel caso che trasmetta il contagio e della punibilita' degli atti contemplati dagli [articoli 554](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [555 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Il sanitario che, comunque nell'esercizio professionale, riscontri una persona affetta da malattia venerea, e' tenuto a renderla edotta della natura e della contagiosita' della malattia, della obbligatorieta' della cura radicale e delle facilitazioni concesse a tale fine dalla presente legge, delle responsabilita' alle quali va incontro nel caso che trasmetta il contagio e della punibilita' degli atti contemplati dagli [articoli 554](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [555 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Quando trattasi di minore che non abbia compiuto i 18 anni o di interdetto, il medico deve avvertire immediatamente la persona, cui compete l'obbligo di far curare il malato ai sensi del secondo comma dell'articolo 2.
  Per il minore che abbia compiuto gli anni 18, e' in facolta' del sanitario di avvertire, quando lo ritenga opportuno, la persona cui compete l'obbligo di far curare il malato.
 
@@ -99,7 +99,7 @@ I medici dei dispensari comunali per malattie veneree sono nominati di ruolo in 
 
 ## Art. 14.
 
-Le visite mediche prescritte per la tutela igienica del baliatico dall'[art. 309 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_309) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e dal [decreto luogotenenziale 4 agosto 1918, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-04;1395), devono essere completate con l'esame sierologico, del sangue per la lue.
+Le visite mediche prescritte per la tutela igienica del baliatico dall'[art. 309 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e dal [decreto luogotenenziale 4 agosto 1918, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-04;1395), devono essere completate con l'esame sierologico, del sangue per la lue.
 
 ## Art. 15.
 

@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), contenente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e il relativo regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+ Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), contenente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e il relativo regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
  Visto il [decreto del Presidente della Repubblica 18 novembre 1965, n. 1481](Riorganizzazione%20e%20ammodernamento%20degli%20stabilimenti%20e%20arsenali%20militari.md), concernente la riorganizzazione e l'ammodernamento degli stabilimenti e arsenali militari;
  Visto il [decreto del Presidente della Repubblica 5 giugno 1976, n. 1077](Approvazione%20del%20regolamento%20per%20gli%20stabilimenti%20e%20arsenali%20militari%20a%20carattere%20industriale.md), concernente approvazione del regolamento per gli stabilimenti e arsenali militari a carattere industriale;
  Visto l'art. 87, comma quinto, della. Costituzione;

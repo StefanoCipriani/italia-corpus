@@ -46,7 +46,7 @@ All'[articolo 17 della legge 22 dicembre 1986, n. 911](Bilancio%20di%20prevision
 1.
 
 All'[articolo 21 della legge 22 dicembre 1986, n. 911](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201987%20e%20bilancio%20pluriennale%20per%20il%20triennio%201987-89.md), e' aggiunto il seguente comma:
- "1-bis. Alle spese di cui al capitolo 2547 dello stato di previsione del Ministero della sanita' si applicano, per l'anno finanziario 1987, le disposizioni contenute nel [secondo comma dell'articolo 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com2) e nell'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61bis), e successive modificazioni ed integrazioni, sulla contabilita' generale dello Stato".
+ "1-bis. Alle spese di cui al capitolo 2547 dello stato di previsione del Ministero della sanita' si applicano, per l'anno finanziario 1987, le disposizioni contenute nel [secondo comma dell'articolo 36](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e nell'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni ed integrazioni, sulla contabilita' generale dello Stato".
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

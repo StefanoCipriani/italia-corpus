@@ -177,7 +177,7 @@ Durante il periodo della concessione, l'Ente dovra' provvedere a sue spese:
  
  d) alla fornitura di acqua potabile, alla pulizia, all'innaffiamento e fornitura di acqua ai cessi e latrine, nei limiti delle opere concesse in esercizio. 
  
- Per quanto riguarda la manutenzione delle opere portuali, esclusi gli arredamenti e gli impianti ferroviari, concorreranno nelle spese gli Enti locali interessati a norma del testo unico approvato con [R. decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095).
+ Per quanto riguarda la manutenzione delle opere portuali, esclusi gli arredamenti e gli impianti ferroviari, concorreranno nelle spese gli Enti locali interessati a norma del testo unico approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md).
 
 ## Art. 16.
 
@@ -220,7 +220,7 @@ Tutti i redditi di qualunque natura, di pertinenza dell'Ente, nonche' gli intere
  
  Fino all'anno 1933 incluso, non saranno assoggettati ad alcuna tassa, tranne a quella fissa di registro, gli atti occorrenti alla costituzione ed al regolare funzionamento dell'Ente ed i contratti di esso con altri enti pubblici o con privati, in quanto abbiano connessione diretta con la costruzione e l'esercizio delle opere concesse o con la gestione del patrimonio immobiliare. 
  
- L'Ente potra' delegare un suo funzionario ad estendere e ricevere gli atti e contratti di cui sopra, a rilasciarne copia ed a autenticarne le firme, ed esso a tal uopo avra' le facolta' spettanti ai notai in base alla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato. I relativi diritti, da liquidarsi secondo la tabella annessa alla detta legge, saranno ripartiti nella misura stabilita dell'articolo 169 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
+ L'Ente potra' delegare un suo funzionario ad estendere e ricevere gli atti e contratti di cui sopra, a rilasciarne copia ed a autenticarne le firme, ed esso a tal uopo avra' le facolta' spettanti ai notai in base alla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato. I relativi diritti, da liquidarsi secondo la tabella annessa alla detta legge, saranno ripartiti nella misura stabilita dell'articolo 169 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ## Art. 22.
 

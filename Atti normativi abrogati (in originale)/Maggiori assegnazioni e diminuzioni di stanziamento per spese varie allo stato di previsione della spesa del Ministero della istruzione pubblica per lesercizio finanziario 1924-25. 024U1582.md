@@ -35,8 +35,8 @@ VITTORIO EMANUELE III
  del Ministero della pubblica istruzione nel 
  Consiglio di amministrazione dell'Ente nazionale 
  per l'educazione fisica ([art. 10 del R. decreto 
- 15 marzo 1923, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_10) e [art. 3 del R. decreto 31 
- dicembre 1923, n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md)) - Spese fisse . . . . . . . . L. 25,000 
+ 15 marzo 1923, n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) e [art. 3 del R. decreto 31 
+ dicembre 1923, n. 3039](../Regi%20decreti/Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md)) - Spese fisse . . . . . . . . L. 25,000 
  Totale . . . L. 6,425,000  
  In diminuzione: 
  

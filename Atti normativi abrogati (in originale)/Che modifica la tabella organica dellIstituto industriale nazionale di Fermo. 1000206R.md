@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 19 settembre 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-19;403) (parte supplementare), col quale si riordina il R. Istituto industriale delle Marche in Fermo; 
+ Visto il [R. decreto 19 settembre 1907, n. 403](../Regi%20decreti/Che%20approva%20lo%20statuto%20pel%20riordinamento%20dellIstituto%20darti%20e%20mestieri%20per%20le%20Marche%20fondato%20in%20Fermo.%200700403R.md) (parte supplementare), col quale si riordina il R. Istituto industriale delle Marche in Fermo; 
  
  Ritenuta la necessita' di modificare il ruolo organico per dare al personale una sistemazione piu' rispondente al nuovo ordinamento dell'Istituto; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- La tabella organica del personale del R. Istituto industriale nazionale in Fermo, annessa al [R. decreto 19 settembre 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-19;403) (parte supplementare), resta stabilita come appresso: 
+ La tabella organica del personale del R. Istituto industriale nazionale in Fermo, annessa al [R. decreto 19 settembre 1907, n. 403](../Regi%20decreti/Che%20approva%20lo%20statuto%20pel%20riordinamento%20dellIstituto%20darti%20e%20mestieri%20per%20le%20Marche%20fondato%20in%20Fermo.%200700403R.md) (parte supplementare), resta stabilita come appresso: 
  
  Parte di provvedimento in formato grafico
  

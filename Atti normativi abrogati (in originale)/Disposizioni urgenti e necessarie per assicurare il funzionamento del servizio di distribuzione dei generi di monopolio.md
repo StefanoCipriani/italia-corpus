@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il Ministro delle finanze in casi straordinari di necessita' ed urgenza, limitatamente alla durata di tali evenienze, puo', con propri decreti, affidare alla Guardia di finanza i compiti e le attribuzioni dei dirigenti e dei secondi contabili dei depositi generi di monopolio, nonche' degli addetti alla distribuzione, ai sensi del vigente ordinamento della Amministrazione autonoma dei monopoli di Stato, e, ove occorra, secondo i principi del vigente ordinamento contabile di cui ai [regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827).
+Il Ministro delle finanze in casi straordinari di necessita' ed urgenza, limitatamente alla durata di tali evenienze, puo', con propri decreti, affidare alla Guardia di finanza i compiti e le attribuzioni dei dirigenti e dei secondi contabili dei depositi generi di monopolio, nonche' degli addetti alla distribuzione, ai sensi del vigente ordinamento della Amministrazione autonoma dei monopoli di Stato, e, ove occorra, secondo i principi del vigente ordinamento contabile di cui ai [regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827).
 
 ## Art. 2.
 

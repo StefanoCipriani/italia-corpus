@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista, la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 9 ottobre 1942, n. 1468](Determinazione%20dei%20posti%20di%20ruolo%20per%20le%20scuole%20di%20istruzione%20media%20tecnica%20derivati%20dal%20passaggio%20allo%20Stato%20e%20gia%20dipendenti%20dal%20Governatorato%20di%20Roma.%20042U1468.md), riguardante la determinazione dei posti di ruolo per le scuole di istruzione media tecnica derivati dal passaggio allo Stato e gia' dipendenti dal Governatorato di Roma;
+ Visto il [regio decreto 9 ottobre 1942, n. 1468](../Regi%20decreti/Determinazione%20dei%20posti%20di%20ruolo%20per%20le%20scuole%20di%20istruzione%20media%20tecnica%20derivati%20dal%20passaggio%20allo%20Stato%20e%20gia%20dipendenti%20dal%20Governatorato%20di%20Roma.%20042U1468.md), riguardante la determinazione dei posti di ruolo per le scuole di istruzione media tecnica derivati dal passaggio allo Stato e gia' dipendenti dal Governatorato di Roma;
  Visto il decreto interministeriale 27 settembre 1945, registrato alla Corte dei conti il 1 marzo 1946, registro n. 5, foglio n. 154, con il quale viene approvata la tabella organica della Scuola di magistero professionale per la donna "Margherita di Savoia" di Roma;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di stato per il tesoro;

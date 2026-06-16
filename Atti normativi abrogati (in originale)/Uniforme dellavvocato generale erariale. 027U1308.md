@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il R. decreto 12 marzo 1868 che stabilisce la divisa ufficiale ed i distintivi dei gradi dei funzionari ed impiegati dell'Amministrazione centrale (Ministeri); 
  
- Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960); 
+ Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md); 
  
  Visto il [R. decreto 30 dicembre 1923, n. 3264](Uso%20nelle%20cerimonie%20ufficiali%20delle%20uniformi%20del%20Presidente%20del%20Consiglio%20dei%20Ministri%20dei%20Ministri%20Sottosegretari%20di%20Stato%20e%20Ministri%20di%20Stato.%20023U3264.md); 
  

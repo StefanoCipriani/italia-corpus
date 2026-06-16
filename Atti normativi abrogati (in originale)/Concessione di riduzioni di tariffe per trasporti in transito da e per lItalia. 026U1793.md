@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 settembre 1923, n. 2641](Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md):
+Visto il [R. decreto 10 settembre 1923, n. 2641](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md):
 
 Visto il [R. decreto 22 maggio 1924, n. 868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;868);
 
@@ -34,7 +34,7 @@ Il direttore generale delle Ferrovie dello Stato e' autorizzato a concedere ridu
  
  Il Consiglio di amministrazione delle Ferrovie dello Stato sara' informato delle singole concessioni entro due mesi dalla loro decorrenza. 
  
- Per la rinnovazione, per qualsiasi durata, delle concessioni, devono essere seguite le norme di cui al punto f) del paragrafo 4 dell'art. 1. del [R. decreto 10 settembre 1923, n. 2641](Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md).
+ Per la rinnovazione, per qualsiasi durata, delle concessioni, devono essere seguite le norme di cui al punto f) del paragrafo 4 dell'art. 1. del [R. decreto 10 settembre 1923, n. 2641](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20vigenti%20in%20materia%20di%20tariffe%20ferroviarie.%20023U2641.md).
 
 ## Art. 2.
 

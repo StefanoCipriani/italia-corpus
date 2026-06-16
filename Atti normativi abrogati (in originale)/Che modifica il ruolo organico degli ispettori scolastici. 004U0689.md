@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il ruolo organico degli ispettori scolastici, approvato con [R. decreto 8 agosto 1895, n. 570](Approva%20il%20ruolo%20organico%20del%20personale%20degli%20ispettori%20scolastici.%20095U0570.md), e' modificato, a decorrere dal 1° gennaio 1905, in conformita' alla tabella allegato A.
+Il ruolo organico degli ispettori scolastici, approvato con [R. decreto 8 agosto 1895, n. 570](../Regi%20decreti/Approva%20il%20ruolo%20organico%20del%20personale%20degli%20ispettori%20scolastici.%20095U0570.md), e' modificato, a decorrere dal 1° gennaio 1905, in conformita' alla tabella allegato A.
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ Ogni anno, nel mese di novembre, l'ispettore, a mezzo del R. provveditore, invie
 
 ## Art. 6.
 
-L'ufficio d'ispettrice per gli istituti di educazione femminile, istituito con [R. decreto 21 marzo 1875, n. 2434](Col%20quale%20sono%20istituiti%20quattro%20posti%20di%20ispettrici%20governative%20per%20gli%20educatorii%20femminili.%20075U2434.md), e mantenuto con [R. decreto 18 luglio 1893, n. 428](Che%20approva%20il%20ruolo%20organico%20delle%20ispettrici%20per%20gli%20Istituti%20femminili%20di%20educazione.%20093U0428.md), e' soppresso.
+L'ufficio d'ispettrice per gli istituti di educazione femminile, istituito con [R. decreto 21 marzo 1875, n. 2434](../Regi%20decreti/Col%20quale%20sono%20istituiti%20quattro%20posti%20di%20ispettrici%20governative%20per%20gli%20educatorii%20femminili.%20075U2434.md), e mantenuto con [R. decreto 18 luglio 1893, n. 428](../Regi%20decreti/Che%20approva%20il%20ruolo%20organico%20delle%20ispettrici%20per%20gli%20Istituti%20femminili%20di%20educazione.%20093U0428.md), e' soppresso.
 
 ## Art. 7.
 

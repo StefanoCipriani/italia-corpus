@@ -540,7 +540,7 @@ TITOLO III.
 
 ### Art. 82.
 
-All'Unione delle Comunita' ed alle singole Comunita' si applicano le disposizioni degli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_13)-[19 del R. decreto 28 febbraio 1930, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_19).
+All'Unione delle Comunita' ed alle singole Comunita' si applicano le disposizioni degli [articoli 13](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md)-[19 del R. decreto 28 febbraio 1930, n. 289](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md).
 
 ### Art. 83.
 

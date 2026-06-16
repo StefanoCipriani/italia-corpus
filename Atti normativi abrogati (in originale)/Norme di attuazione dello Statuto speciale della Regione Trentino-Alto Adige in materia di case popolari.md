@@ -41,7 +41,7 @@ Resta altresi' riservata alla competenza legislativa delle Stato la disciplina d
 
 ## Art. 3.
 
-Sono trasferite alle province di Trento e di Bolzano le attribuzioni amministrative che il [testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165) (con esclusione dei capi 3° e 4° del titolo I, dei titoli X e XI della parte I, nonche' dei titoli I al IV della parte II) e successive modificazioni e integrazioni e le [leggi 10 agosto 1950, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;715) (con esclusione degli articoli 12, 13, 14, 15 e 16) e 9 agosto 1954, n. 640, demandano agli organi centrali e periferici del Ministero dei lavori pubblici in materia di edilizia popolare ed economica salvo quanto disposto negli articoli seguenti.
+Sono trasferite alle province di Trento e di Bolzano le attribuzioni amministrative che il [testo unico sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md) (con esclusione dei capi 3° e 4° del titolo I, dei titoli X e XI della parte I, nonche' dei titoli I al IV della parte II) e successive modificazioni e integrazioni e le [leggi 10 agosto 1950, n. 715](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;715) (con esclusione degli articoli 12, 13, 14, 15 e 16) e 9 agosto 1954, n. 640, demandano agli organi centrali e periferici del Ministero dei lavori pubblici in materia di edilizia popolare ed economica salvo quanto disposto negli articoli seguenti.
  Nessun trasferimento di proprieta' alle Province si opera per le case costruite dallo Stato a totale suo carico.
  E' fatto salvo quanto attiene alla competenza regionale per la dichiarazione di pubblica utilita'.
 
@@ -53,7 +53,7 @@ Sulle somme stanziate a carico del bilancio del Ministero dei lavori pubblici pe
 
 ## Art. 5.
 
-Qualora le province di Trento e di Bolzano provvedano con proprie leggi a costituire una Commissione di vigilanza per l'edilizia popolare ed economica per l'esercizio delle funzioni amministrative di cui al [primo comma dell'art. 131 del testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), chiameranno a farne parte magistrati dell'ordine giudiziario o amministrativo in servizio nelle delle Province.
+Qualora le province di Trento e di Bolzano provvedano con proprie leggi a costituire una Commissione di vigilanza per l'edilizia popolare ed economica per l'esercizio delle funzioni amministrative di cui al [primo comma dell'art. 131 del testo unico sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), chiameranno a farne parte magistrati dell'ordine giudiziario o amministrativo in servizio nelle delle Province.
 
 ## Art. 6.
 
@@ -67,12 +67,12 @@ La composizione delle Commissioni istituite dall'Istituto autonomo case popolari
 
 ## Art. 8.
 
-L'approvazione preventiva dei progetti di case popolari ed economiche ai sensi dell'[art. 50 del testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, modificato dall'[art. 4 della legge 11 luglio 1942, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-11;843#art_4), e' demandata al presidente della Giunta provinciale.
+L'approvazione preventiva dei progetti di case popolari ed economiche ai sensi dell'[art. 50 del testo unico sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, modificato dall'[art. 4 della legge 11 luglio 1942, n. 843](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-11;843#art_4), e' demandata al presidente della Giunta provinciale.
  I ricorsi previsti dal secondo comma del citato articolo sono decisi dal Ministro per le finanze.
 
 ## Art. 9.
 
-Il Ministero del tesoro sentita la Giunta provinciale, determina a norma dell'[art. 66 del testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), le garanzie che nell'interesse della Cassa depositi e prestiti devono sostituire o integrare lo stipendio o pensione mancante o insufficiente di soci assegnatari di alloggi costruiti con contributo della Provincia.
+Il Ministero del tesoro sentita la Giunta provinciale, determina a norma dell'[art. 66 del testo unico sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), le garanzie che nell'interesse della Cassa depositi e prestiti devono sostituire o integrare lo stipendio o pensione mancante o insufficiente di soci assegnatari di alloggi costruiti con contributo della Provincia.
 
 ## Art. 10.
 

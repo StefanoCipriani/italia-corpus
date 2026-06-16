@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive norme esecutive, interpretative ed integrative; 
+ Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive norme esecutive, interpretative ed integrative; 
  
  Sentito il Consiglio dei Ministri; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  A capo dell'Ufficio centrale del personale del Ministero delle finanze e' preposto un ispettore generale, alla cui dipendenza passa anche il servizio delle pensioni ordinarie. 
  
- A tal uopo e' aumentato di un posto la tabella 1 (allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md)), Amministrazione centrale ed Intendenze di finanza: « Ispettori generali ». 
+ A tal uopo e' aumentato di un posto la tabella 1 (allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md)), Amministrazione centrale ed Intendenze di finanza: « Ispettori generali ». 
  
  Il presente decreto, che avra' vigore dal giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato al Parlamento per la conversione in legge. 
  

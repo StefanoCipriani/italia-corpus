@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il ruolo organico della carriera diplomatico-consolare approvato con la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md), e con i [Regi decreti 14 agosto 1931, n. 1354](Approvazione%20di%20nuovi%20ruoli%20organici%20del%20Ministero%20degli%20affari%20esteri.%20031U1354.md), [30 ottobre 1935, numero 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-10-30;1942), e [9 luglio 1936, n. 1487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-07-09;1487);
+Visto il ruolo organico della carriera diplomatico-consolare approvato con la [legge 2 giugno 1927, n. 862](Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md), e con i [Regi decreti 14 agosto 1931, n. 1354](../Regi%20decreti/Approvazione%20di%20nuovi%20ruoli%20organici%20del%20Ministero%20degli%20affari%20esteri.%20031U1354.md), [30 ottobre 1935, numero 1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-10-30;1942), e [9 luglio 1936, n. 1487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-07-09;1487);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

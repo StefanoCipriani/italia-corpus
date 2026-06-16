@@ -201,7 +201,7 @@ L. 20 per ogni vano delle costruzioni di tipo medio;
  
 L. 50 per ogni vano delle costruzioni di lusso. 
  
-Per la determinazione del tipo di costruzione si fa riferimento all'art. 36 del regolamento per la riscossione delle imposte di consumo, approvato con [R. decreto 30 aprile 1936, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-04-30;1138).
+Per la determinazione del tipo di costruzione si fa riferimento all'art. 36 del regolamento per la riscossione delle imposte di consumo, approvato con [R. decreto 30 aprile 1936, n. 1138](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20delle%20imposte%20di%20consumo.%20036U1138.md).
 
 ### Art. 14.
 

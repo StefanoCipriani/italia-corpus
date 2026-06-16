@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e successive modificazioni;
+Visto il testo unico approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e successive modificazioni;
 
 Vista la [legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md);
 
@@ -22,9 +22,9 @@ Visti i regolamenti del personale delle Ferrovie dello Stato approvati con [decr
 
 Vista la [legge 19 giugno 1913, n. 641](Riguardante%20lOpera%20di%20previdenza%20ed%20altri%20provvedimenti%20a%20favore%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20013U0641.md), relativa all'Opera di previdenza per il personale delle ferrovie dello Stato e le sue successive modificazioni;
 
-Visto il [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
+Visto il [R. decreto 6 dicembre 1923, n. 2651](../Regi%20decreti/Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3082](Trattamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20provvisorio%20ed%20aggiunto%20sanitario%20e%20di%20quello%20del%20traghetto%20di%20Venezia.%20023U3082.md);
+Visto il [R. decreto 31 dicembre 1923, n. 3082](../Regi%20decreti/Trattamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20provvisorio%20ed%20aggiunto%20sanitario%20e%20di%20quello%20del%20traghetto%20di%20Venezia.%20023U3082.md);
 
 Vista la convenzione 8 marzo 1924 stipulata fra l'Amministrazione delle ferrovie dello Stato e l'Istituto nazionale delle assicurazioni;
 
@@ -80,7 +80,7 @@ Agli effetti della valutazione della somma di cui al punto a) dell'art. 3 e agli
 
 ## Art. 5.
 
-L'Amministrazione delle ferrovie dello Stato e' autorizzata ad investire una parte dei fondi della gestione pensioni e sussidi di cui al testo unico approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e successive modificazioni, per versare alle assicurazioni di cui trattasi gli importi, ridotti a valore attuale delle indennita' che competerebbero agli agenti da assicurarsi in relazione al servizio utile computabile fino alla data di decorrenza dell'assicurazione qualora alla data stessa venissero esonerati. All'atto poi dell'esonero effettivo di ogni singolo agente assicurato, l'Amministrazione versera' al fondo pensioni, a carico dell'esercizio, l'importo integrale dell'indennita', quale sarebbe stato liquidato se la cessazione dal servizio fosse avvenuta alla data dell'assicurazione.
+L'Amministrazione delle ferrovie dello Stato e' autorizzata ad investire una parte dei fondi della gestione pensioni e sussidi di cui al testo unico approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e successive modificazioni, per versare alle assicurazioni di cui trattasi gli importi, ridotti a valore attuale delle indennita' che competerebbero agli agenti da assicurarsi in relazione al servizio utile computabile fino alla data di decorrenza dell'assicurazione qualora alla data stessa venissero esonerati. All'atto poi dell'esonero effettivo di ogni singolo agente assicurato, l'Amministrazione versera' al fondo pensioni, a carico dell'esercizio, l'importo integrale dell'indennita', quale sarebbe stato liquidato se la cessazione dal servizio fosse avvenuta alla data dell'assicurazione.
 
 ## Art. 6.
 

@@ -274,7 +274,7 @@ E' data facolta' al ministro per l'industria e commercio su istanza degli intere
 
 Le disposizioni contenute negli articoli 2, 6, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 sono applicabili solo alle navi: 
  
- a) di proprieta' per intiero di persone fisiche che abbiano acquistato od acquisteranno la cittadinanza italiana, ai sensi del [Regio decreto 30 dicembre 1920, n. 1890](Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), o di proprieta' di persone giuridiche alle quali sia stato o sara' riconosciuto il carattere italiano ai sensi del decreto medesimo; 
+ a) di proprieta' per intiero di persone fisiche che abbiano acquistato od acquisteranno la cittadinanza italiana, ai sensi del [Regio decreto 30 dicembre 1920, n. 1890](../Regi%20decreti/Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), o di proprieta' di persone giuridiche alle quali sia stato o sara' riconosciuto il carattere italiano ai sensi del decreto medesimo; 
  
  b) inscritte sia nel registro navale italiano con sede a Genova o anche presso il Veritas di Trieste, purche' inscritte in questo anteriormente al 5 gennaio 1921 e vincolate a rimanere inscritte nei registri stessi alla piu' alta classe per cinque anni e a far parte della marina mercantile nazionale per la stessa durata; 
  

@@ -26,7 +26,7 @@ Udito il Consiglio di Stato; Abbiamo decretato e decretiamo:
 
 Il provento derivante all'erario dall'aumento di centesimi 5, portato con la [legge 3 marzo 1904, n. 67](Concernente%20la%20tassa%20di%20bollo%20sulle%20ricevute%20di%20stipendio%20rilasciate%20dagli%20impiegati%20governativi%20e%20delle%20pubbliche%20Amministrazioni%20a%20favore%20dellIstituto%20Nazionale%20per%20gli%20orfani%20degli%20imp_b9bd21ab584c.md), alla tassa di bollo sulle quietanze o ricevute indicate nell'articolo 1° della legge stessa e' devoluto alle seguenti istituzioni per orfani di impiegati civili e militari: 
  
- a) Istituto nazionale per gli orfani degli impiegati civili dello Stato eretto in ente morale con [R. decreto 28 febbraio 1892, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-02-28;90); 
+ a) Istituto nazionale per gli orfani degli impiegati civili dello Stato eretto in ente morale con [R. decreto 28 febbraio 1892, n. 90](../Regi%20decreti/Che%20costituisce%20in%20ente%20morale%20lIstituto%20nazionale%20per%20gli%20orfani%20degli%20impiegati%20civili%20dello%20Stato%20ed%20approva%20il%20relativo%20statuto%20organico.%20092U0090.md); 
  
  b) Istituto Nazionale «Umberto I» per gli orfani degli impiegati subalterni delle pubbliche amministrazioni, eretto in ente morale con R. decreto 25 aprile 1897, n. CXXXV; 
  

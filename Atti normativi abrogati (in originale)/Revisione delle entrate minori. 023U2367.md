@@ -33,7 +33,7 @@ Entro la stessa data del 31 dicembre 1923 sara' proceduto, colle norme e le caut
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 3.
 
@@ -61,7 +61,7 @@ Entro l'anno 1923 sara' proceduto ad una completa revisione di tutte le tasse e 
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 
@@ -70,22 +70,22 @@ Entro il termine indicato nell'articolo precedente, sara', effettuata la revisio
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 6.
 
-I diritti da corrispondersi dagli utenti metrici, fissati dall'articolo 20 del Testo unico delle leggi metriche approvati col [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª), e temporaneamente modificati dal [decreto Luogotenenziale 27 ottobre 1918, n. 1616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1616), e dal [R. decreto 17 ottobre 1922, n. 1381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1381), saranno, a decorrere dal biennio 1925-26, riscossi in base alla tariffa indicata nell'allegato A, facente parte integrante del presente decreto. 
+I diritti da corrispondersi dagli utenti metrici, fissati dall'articolo 20 del Testo unico delle leggi metriche approvati col [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª), e temporaneamente modificati dal [decreto Luogotenenziale 27 ottobre 1918, n. 1616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1616), e dal [R. decreto 17 ottobre 1922, n. 1381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-17;1381), saranno, a decorrere dal biennio 1925-26, riscossi in base alla tariffa indicata nell'allegato A, facente parte integrante del presente decreto. 
  
  I diritti di verificazione prima, dei pesi e delle misure, e degli strumenti per pesare e per misurare, dei misurateti dei gas e dei manometri campioni stabiliti dalla tabella A annessa al menzionato testo unico, quale risulta modificato dal [decreto-legge 5 gennaio 1919, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-01-05;30), saranno riscossi, in base alla tariffa contenuta nell'allegato A predetto. 
  
- Saranno aumentati di un terzo i diritti di saggio e di marchio dei metalli preziosi e i diritti di verificazione facoltativa dei termometri, alcolometri, ecc., di cui al [R. decreto 9 ottobre 1921, n. 1473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-09;1473); il diritto di saggio non potra' essere inferiore a L. 2. 
+ Saranno aumentati di un terzo i diritti di saggio e di marchio dei metalli preziosi e i diritti di verificazione facoltativa dei termometri, alcolometri, ecc., di cui al [R. decreto 9 ottobre 1921, n. 1473](../Regi%20decreti/Che%20apporta%20variazioni%20ad%20alcune%20disposizioni%20di%20carattere%20economico%20e%20finanziario%20del%20regolamento%20pel%20servizio%20metrico%20approvato%20con%20Regio%20decreto%2031%20gennaio%201909%20n.%20242.%20021U1473.md); il diritto di saggio non potra' essere inferiore a L. 2. 
  
  Il Ministro dell'economia nazionale fissera' la data d'entrata in vigore delle disposizioni di cui ai commi secondo e terzo del presente articolo. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 7.
 
@@ -99,7 +99,7 @@ L'articolo 19 delle disposizioni preliminari alla tariffa doganale approvata col
 
 ## Art. 8.
 
-I diritti di visita sanitaria, di cui all'[articolo 51 del Testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_51) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e quelli di visita al pollame ed alle pelli di cui alla [legge 16 luglio 1916, n. 947](Contenente%20diposizioni%20varie%20sulla%20sanita%20pubblica.%20016U0947.md), sono quadruplicati. 
+I diritti di visita sanitaria, di cui all'[articolo 51 del Testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e quelli di visita al pollame ed alle pelli di cui alla [legge 16 luglio 1916, n. 947](Contenente%20diposizioni%20varie%20sulla%20sanita%20pubblica.%20016U0947.md), sono quadruplicati. 
  
  Il massimo dell'indennita' stabilita a carico dello Stato, per l'abbattimento di animali infetti, e' portato da L. 300 a L. 600. 
  
@@ -121,14 +121,14 @@ Sono triplicate le ammende previste dalla [legge 30 giugno 1912, n. 739](Concern
 
 ## Art. 12.
 
-I diritti degli archivi di Stato stabiliti dal [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), sono modificati come e' indicato nell'allegato B facente parte integrante del presente decreto. 
+I diritti degli archivi di Stato stabiliti dal [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), sono modificati come e' indicato nell'allegato B facente parte integrante del presente decreto. 
  
  Il Ministro dell'interno, d'accordo con quello delle finanze, stabilira' i modi di riscossione dei diritti stessi. 
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 13.
 
@@ -156,4 +156,4 @@ Le disposizioni del presente decreto, entrano in vigore col 1° gennaio 1924, sa
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2836](../Regi%20decreti/Variazioni%20al%20R.%20decreto%2021%20ottobre%201923%20n.%202367%20concernente%20la%20revisione%20delle%20entrate%20minori.%20023U2836.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

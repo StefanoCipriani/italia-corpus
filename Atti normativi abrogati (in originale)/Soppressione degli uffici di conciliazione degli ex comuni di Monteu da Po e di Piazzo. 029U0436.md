@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 18 marzo 1928, n. 661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-18;661), col quale i comuni di Monteu da Po e di Piazzo sono stati soppressi, ed i rispettivi territori aggregati a quello di Lauriano; 
+ Visto il [R. decreto 18 marzo 1928, n. 661](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Lauriano%20Monteu%20da%20Po%20e%20Piazzo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Lauriano.%20028U0661.md), col quale i comuni di Monteu da Po e di Piazzo sono stati soppressi, ed i rispettivi territori aggregati a quello di Lauriano; 
  
  Vista la deliberazione del commissario prefettizio di Lauriano, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Monteu da Po e di Piazzo; 
  

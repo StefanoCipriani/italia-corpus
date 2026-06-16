@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto il testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Visti i [Regi decreti 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e [30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md);
 

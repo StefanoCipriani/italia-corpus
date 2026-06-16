@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;661), col quale i comuni di Albera Ligure e Cantalupo Ligure sono stati soppressi ed i rispettivi territori aggregati a quello di Rocchetta Ligure; 
+ Visto il [R. decreto 28 marzo 1929, n. 661](../Regi%20decreti/Riunione%20del%20comune%20di%20Rocchetta%20Ligure%20meno%20le%20frazioni%20Cremonte%20Dovanelii%20Piancerreto%20Rosano%20e%20Serasso%20e%20dei%20comuni%20di%20Albera%20Ligure%20e%20Cantalupo%20Ligure%20nonche%20della%20frazione%20Volpara%20del_03339e2dae83.md), col quale i comuni di Albera Ligure e Cantalupo Ligure sono stati soppressi ed i rispettivi territori aggregati a quello di Rocchetta Ligure; 
  
  Vista la deliberazione del commissario prefettizio di Rocchetta Ligure rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Albera Ligure e Cantalupo Ligure; 
  

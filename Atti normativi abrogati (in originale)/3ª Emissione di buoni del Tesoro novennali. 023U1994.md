@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 22 marzo 1923, n. 583](Che%20modifica%20la%20legge%20
 
 Considerato che, dato il tempo trascorso dalla data di pubblicazione della citata [legge 6 luglio 1922, n. 915](Che%20da%20facolta%20ai%20possessori%20dei%20buoni%20del%20tesoro%20ordinari%20triennali%20e%20quinquennali%20di%20convertirli%20in%20altri%20novennali.%20022U0915.md), e del citato [R. decreto-legge 22 marzo 1923, n. 583](Che%20modifica%20la%20legge%206%20luglio%201922%20n.%20915%20relativa%20allemissione%20dei%20buoni%20del%20tesoro%20novennali.%20023U0583.md), la loro applicazione resterebbe limitata per effetto delle scadenze di buoni del Tesoro verificatesi nel frattempo;
 
-Visti i [Regi decreti 25 marzo 1923, n. 600](Che%20reca%20disposizioni%20per%20la%20emissione%20dei%20buoni%20del%20tesoro%20novennali.%20023U0600.md), e [26 aprile 1923, n. 889](Che%20autorizza%20lemissione%20della%20seconda%20serie%20di%20buoni%20del%20tesoro%20novennali%20a%20premi.%20023U0889.md), che autorizzano l'emissione della prima e della seconda serie dei detti buoni;
+Visti i [Regi decreti 25 marzo 1923, n. 600](../Regi%20decreti/Che%20reca%20disposizioni%20per%20la%20emissione%20dei%20buoni%20del%20tesoro%20novennali.%20023U0600.md), e [26 aprile 1923, n. 889](../Regi%20decreti/Che%20autorizza%20lemissione%20della%20seconda%20serie%20di%20buoni%20del%20tesoro%20novennali%20a%20premi.%20023U0889.md), che autorizzano l'emissione della prima e della seconda serie dei detti buoni;
 
 Sentito il Consiglio dei ministri;
 
@@ -54,7 +54,7 @@ Il prezzo dei buoni novennali, sara' calcolato con valuta dal 1° ottobre 1923 p
 
 ## Art. 4.
 
-Sono estese a questi buoni le disposizioni del [R. decreto 25 marzo 1923, n. 600](Che%20reca%20disposizioni%20per%20la%20emissione%20dei%20buoni%20del%20tesoro%20novennali.%20023U0600.md), relative all'emissione della prima serie dei buoni novennali e quelle del [R. decreto 26 aprile 1923, n. 889](Che%20autorizza%20lemissione%20della%20seconda%20serie%20di%20buoni%20del%20tesoro%20novennali%20a%20premi.%20023U0889.md), relative all'emissione della seconda serie dei buoni stessi, in quanto non siano contrarie alle disposizioni degli articoli precedenti.
+Sono estese a questi buoni le disposizioni del [R. decreto 25 marzo 1923, n. 600](../Regi%20decreti/Che%20reca%20disposizioni%20per%20la%20emissione%20dei%20buoni%20del%20tesoro%20novennali.%20023U0600.md), relative all'emissione della prima serie dei buoni novennali e quelle del [R. decreto 26 aprile 1923, n. 889](../Regi%20decreti/Che%20autorizza%20lemissione%20della%20seconda%20serie%20di%20buoni%20del%20tesoro%20novennali%20a%20premi.%20023U0889.md), relative all'emissione della seconda serie dei buoni stessi, in quanto non siano contrarie alle disposizioni degli articoli precedenti.
 
 ## Art. 5.
 

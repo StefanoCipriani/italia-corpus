@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto l'[art. 43 del testo unico delle leggi sull'Avvocatura dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_43), approvato con R. decreto 30 ottobre 1933-XII, n. 1611; 
+ Visto l'[art. 43 del testo unico delle leggi sull'Avvocatura dello Stato](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), approvato con R. decreto 30 ottobre 1933-XII, n. 1611; 
  
  Vista la legge 13 dicembre 1928-VII, n. 3107, relativa alla istituzione ed alla disciplina dell'Ente nazionale serico, e viste le modifiche di cui al R. decreto-legge 24 febbraio 1936-XIV, n. 516; 
  

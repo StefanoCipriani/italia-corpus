@@ -38,7 +38,7 @@ L'[art. 23 del R. decreto legislativo 6 settembre 1923, numero 2125](https://www
 
 ## Art. 2.
 
-Con Reale decreto promosso dal Ministro per l'economia nazionale di concerto col Ministro per le finanze saranno stabiliti, anche in deroga al [R. decreto 2 dicembre 1923, n. 2579](Norme%20per%20il%20funzionamento%20del%20Consiglio%20superiore%20delleconomia%20nazionale.%20023U2579.md), il numero complessivo dei componenti il Consiglio superiore, la loro ripartizione nelle Sezioni, le norme per la nomina di essi, la loro durata in carica, e potranno anche essere dettate, pure in deroga al citato R. decreto 2 dicembre 1923, nuove norme circa la competenza e le attribuzioni sia del Consiglio in adunanza plenaria, sia delle singole Sezioni di esso. 
+Con Reale decreto promosso dal Ministro per l'economia nazionale di concerto col Ministro per le finanze saranno stabiliti, anche in deroga al [R. decreto 2 dicembre 1923, n. 2579](../Regi%20decreti/Norme%20per%20il%20funzionamento%20del%20Consiglio%20superiore%20delleconomia%20nazionale.%20023U2579.md), il numero complessivo dei componenti il Consiglio superiore, la loro ripartizione nelle Sezioni, le norme per la nomina di essi, la loro durata in carica, e potranno anche essere dettate, pure in deroga al citato R. decreto 2 dicembre 1923, nuove norme circa la competenza e le attribuzioni sia del Consiglio in adunanza plenaria, sia delle singole Sezioni di esso. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

@@ -22,7 +22,7 @@ PROMULGA Il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Articolo unico.
 
-La scuola di ostetricia di Salerno, istituita con il [regio decreto 21 agosto 1936, n. 1696](Istituzione%20in%20Salerno%20di%20una%20Scuola%20di%20ostetricia%20annessa%20agli%20Ospedali%20riuniti%20della%20stessa%20citta%20ed%20approvazione%20della%20convenzione%20relativa.%20036U1696.md), deve ritenersi compresa tra le scuole di ostetricia autonome indicate nell'[art. 2, primo comma, del regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), a partire dalla data di entrata in vigore dello stesso decreto-legge.
+La scuola di ostetricia di Salerno, istituita con il [regio decreto 21 agosto 1936, n. 1696](../Regi%20decreti/Istituzione%20in%20Salerno%20di%20una%20Scuola%20di%20ostetricia%20annessa%20agli%20Ospedali%20riuniti%20della%20stessa%20citta%20ed%20approvazione%20della%20convenzione%20relativa.%20036U1696.md), deve ritenersi compresa tra le scuole di ostetricia autonome indicate nell'[art. 2, primo comma, del regio decreto-legge 15 ottobre 1936, n. 2128](Ordinamento%20delle%20Scuole%20di%20ostetricia%20e%20disciplina%20giuridica%20della%20professione%20di%20levatrice.%20036U2128.md), a partire dalla data di entrata in vigore dello stesso decreto-legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

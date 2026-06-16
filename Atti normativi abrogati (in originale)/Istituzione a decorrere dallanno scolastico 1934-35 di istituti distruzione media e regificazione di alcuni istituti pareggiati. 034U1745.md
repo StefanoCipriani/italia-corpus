@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Veduto il [regolamento 6 giugno 1925, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1925-06-06;1084);
 
 Veduto la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
 
-Veduto il [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che approva il testo unico sulla finanza locale;
+Veduto il [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che approva il testo unico sulla finanza locale;
 
 Veduta la [legge 28 dicembre 1931, n. 1771](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20agosto%201931%20n.%201069%20contenente%20disposizioni%20sugli%20Istituti%20medi%20distruzione.%20031U1771.md), nella quale e' stato convertito il [R. decreto 3 agosto 1931, n. 1069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-08-03;1069), contenente disposizioni sugli istituti medi d'istruzione;
 
@@ -42,7 +42,7 @@ A decorrere dal 1° ottobre 1934 gli istituti tecnici commerciali a indirizzo me
 
 ## Art. 2.
 
-Per l'assunzione nei ruoli governativi del personale direttivo, insegnante, amministrativo e di servizio dei predetti istituti e scuole d'istruzione media tecnica si applicano le disposizioni del [R. decreto 28 maggio 1925, n. 1190](Approvazione%20del%20regolamento%20sullistruzione%20media%20commerciale.%20025U1190.md), e quelle del [R. decreto 6 giugno 1925, n. 1084](Regolamento%20per%20gli%20istituti%20privati%20e%20pareggiati%20di%20istruzione%20media%20e%20per%20la%20creazione%20regificazione%20e%20trasformazione%20di%20scuole.%20025U1084.md), successivamente integrate dal decreto 15 maggio 1930, n. 740, sempreche', per quanto riguarda il personale amministrativo e di servizio, questo non sia a carico degli Enti locali o non sia stato assunto per effetto del primo comma dell'art. 44 della citata [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889).
+Per l'assunzione nei ruoli governativi del personale direttivo, insegnante, amministrativo e di servizio dei predetti istituti e scuole d'istruzione media tecnica si applicano le disposizioni del [R. decreto 28 maggio 1925, n. 1190](../Regi%20decreti/Approvazione%20del%20regolamento%20sullistruzione%20media%20commerciale.%20025U1190.md), e quelle del [R. decreto 6 giugno 1925, n. 1084](../Regi%20decreti/Regolamento%20per%20gli%20istituti%20privati%20e%20pareggiati%20di%20istruzione%20media%20e%20per%20la%20creazione%20regificazione%20e%20trasformazione%20di%20scuole.%20025U1084.md), successivamente integrate dal decreto 15 maggio 1930, n. 740, sempreche', per quanto riguarda il personale amministrativo e di servizio, questo non sia a carico degli Enti locali o non sia stato assunto per effetto del primo comma dell'art. 44 della citata [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889).
 
 ## Art. 3.
 

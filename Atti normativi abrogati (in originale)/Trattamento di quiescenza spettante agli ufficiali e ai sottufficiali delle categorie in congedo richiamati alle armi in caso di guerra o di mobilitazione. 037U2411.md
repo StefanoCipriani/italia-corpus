@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni ed integrazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni ed integrazioni;
 
 Visto il testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con Regio decreto 15 settembre 1932-X, n. 1514, e successive modificazioni;
 
@@ -60,7 +60,7 @@ Agli ufficiali di complemento e di riserva provvisti di pensione vitalizia di ri
 
 ## Art. 5.
 
-Il trattamento di quiescenza spettante a norma dei precedenti articoli e' riversibile alle vedove ed agli orfani degli ufficiali ivi contemplati, nella misura e con le norme stabilite per le famiglie degli ufficiali in servizio permanente, ad eccezione della disposizione contenuta nell'articolo 125 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+Il trattamento di quiescenza spettante a norma dei precedenti articoli e' riversibile alle vedove ed agli orfani degli ufficiali ivi contemplati, nella misura e con le norme stabilite per le famiglie degli ufficiali in servizio permanente, ad eccezione della disposizione contenuta nell'articolo 125 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Agli effetti della tempestivita' del matrimonio, si considera cessazione dal servizio la data in cui l'ufficiale cesso' dal servizio pensionabile. 
  
@@ -132,7 +132,7 @@ Ai sottufficiali provvisti di pensione, che durante il richiamo presso reparti m
 
 Per i sottufficiali e militari di truppa in congedo delle Forze armate, anche se provvisti di pensione, il servizio prestato presso reparti mobilitati della Milizia volontaria per la sicurezza nazionale in tempo di guerra dichiarata o di mobilitazione, anche parziale, e' equiparato, agli effetti di pensione, a servizio militare effettivo. 
  
- All'atto della cessazione dal servizio pensionabile essi hanno diritto di liquidare o di liquidare nuovamente un trattamento di quiescenza con le norme dei militari del Regio esercito contenute negli articoli 9 del Regio decreto 21 novembre 1923-II, n. 2480, e [10, secondo comma, del Regio decreto 18 novembre 1920, n. 1626](Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), e in base ai gradi rivestiti nelle Forze armate di provenienza. 
+ All'atto della cessazione dal servizio pensionabile essi hanno diritto di liquidare o di liquidare nuovamente un trattamento di quiescenza con le norme dei militari del Regio esercito contenute negli articoli 9 del Regio decreto 21 novembre 1923-II, n. 2480, e [10, secondo comma, del Regio decreto 18 novembre 1920, n. 1626](../Regi%20decreti/Che%20estende%20il%20nuovo%20regime%20delle%20pensioni%20ai%20militari%20del%20Regio%20esercito%20e%20della%20Regia%20marina.%20020U1626.md), e in base ai gradi rivestiti nelle Forze armate di provenienza. 
  
  Per i sottufficiali si considerano pensionabili gli stipendi e le paghe che sarebbero spettate se il servizio stesso fosse stato reso nei ruoli originari. 
  

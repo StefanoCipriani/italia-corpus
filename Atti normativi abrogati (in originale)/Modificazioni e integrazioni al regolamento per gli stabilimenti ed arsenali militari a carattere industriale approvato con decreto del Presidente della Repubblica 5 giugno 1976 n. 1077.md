@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), ed il relativo regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), ed il relativo regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
 Visto il [decreto del Presidente della Repubblica 5 giugno 1976, n. 1077](Approvazione%20del%20regolamento%20per%20gli%20stabilimenti%20e%20arsenali%20militari%20a%20carattere%20industriale.md), che approva il regolamento per gli stabilimenti ed arsenali militari a carattere industriale;
 
@@ -197,7 +197,7 @@ Gli articoli 6, 8, 9, 10, 13, 15, 18, 22, 27, 29, 30, 32, 33, 41, 45, 48, 66, 67
  3) produzione di acqua distillata e distribuzione di energia elettrica al naviglio. 
  
  8ª Categoria: INSTALLAZIONE E TRASFORMAZIONE DEGLI IMPIANTI E MACCHINARI DEGLI STABILIMENTI E ARSENALI. 
- Essa comprende i lavori accessori connessi con la installazione e la trasformazione degli impianti e macchinari degli stabilimenti e arsenali con esclusione dei lavori di competenza del genio militare ai sensi del regolamento approvato con [regio decreto 17 marzo 1932, n. 365](Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md), e successive modificazioni. 
+ Essa comprende i lavori accessori connessi con la installazione e la trasformazione degli impianti e macchinari degli stabilimenti e arsenali con esclusione dei lavori di competenza del genio militare ai sensi del regolamento approvato con [regio decreto 17 marzo 1932, n. 365](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md), e successive modificazioni. 
  La categoria e' suddivisa nei seguenti gruppi: 
  1) lavori riguardanti gli impianti e i macchinari dei bacini di carenaggio; 
  2) lavori riguardanti tutti gli altri impianti e macchinari degli stabilimenti e arsenali. 

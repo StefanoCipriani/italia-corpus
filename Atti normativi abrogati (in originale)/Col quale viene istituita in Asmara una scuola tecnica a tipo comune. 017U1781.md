@@ -64,7 +64,7 @@ A tutti gli insegnanti spetta ogni anno, compatibilmente con le esigenze del ser
  
  Qualora la licenza non sia goduta durante l'anno o per rinuncia dell'interessato o per esigenze di servizio, non puo' cumularsi con quella dell'anno successivo. 
  
- L'amministrazione corrisponde a tutti gli insegnanti di ruolo che si recano in licenza ordinaria in Italia, od all'estero, le indennita' di viaggio che sono stabilite dal [R. decreto 10 dicembre 1914, n. 1510](Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md), per le licenze dei funzionari di ruolo di 1ª categoria, limitatamente pero' ad una volta ogni biennio. 
+ L'amministrazione corrisponde a tutti gli insegnanti di ruolo che si recano in licenza ordinaria in Italia, od all'estero, le indennita' di viaggio che sono stabilite dal [R. decreto 10 dicembre 1914, n. 1510](../Regi%20decreti/Col%20quale%20vengono%20approvate%20alcune%20modificazioni%20allordinamento%20del%20Personale%20civile%20della%20Colonia%20eritrea.%20014U1510.md), per le licenze dei funzionari di ruolo di 1ª categoria, limitatamente pero' ad una volta ogni biennio. 
  
  Per gli insegnanti nuovi destinati il diritto a tale indennita' compete a cominciare dal 2° anno del 1° biennio di loro permanenza nella colonia. 
  

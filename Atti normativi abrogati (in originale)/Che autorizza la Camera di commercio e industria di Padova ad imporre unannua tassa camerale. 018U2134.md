@@ -34,7 +34,7 @@ La tassa sara' riscossa con le forme e coi privilegi con cui si riscuotono le im
 
 ## Art. 7.
 
-Il [R. decreto 16 marzo 1899, n. 88](Che%20autorizza%20la%20camera%20di%20commercio%20ed%20arti%20di%20Padova%20ad%20imporre%20unannua%20tassa%20sui%20commercianti%20e%20sugli%20industriali%20del%20proprio%20distretto%20e%20ne%20approva%20il%20regolamento.%209900088R.md) (p. s.) e' abrogato. 
+Il [R. decreto 16 marzo 1899, n. 88](../Regi%20decreti/Che%20autorizza%20la%20camera%20di%20commercio%20ed%20arti%20di%20Padova%20ad%20imporre%20unannua%20tassa%20sui%20commercianti%20e%20sugli%20industriali%20del%20proprio%20distretto%20e%20ne%20approva%20il%20regolamento.%209900088R.md) (p. s.) e' abrogato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

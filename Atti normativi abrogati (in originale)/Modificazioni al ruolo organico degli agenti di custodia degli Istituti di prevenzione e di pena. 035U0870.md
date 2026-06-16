@@ -14,7 +14,7 @@ Il ruolo organico del personale di custodia degli Istituti di prevenzione e di p
 
 ## Art. 2.
 
-Sono soppressi i 200 posti di agenti di custodia in servizio provvisorio nelle nuove provincie, di cui alla tabella annessa al [R. decreto 31 dicembre 1923, n. 2973](Autorizzazione%20al%20Ministro%20per%20la%20giustizia%20di%20assumere%20in%20servizio%20provvisorio%20il%20personale%20aggregato%20e%20di%20custodia%20occorrente%20per%20il%20funzionamento%20degli%20stabilimenti%20carcerari%20nelle%20nuo_1e7f9e63bd7c.md).
+Sono soppressi i 200 posti di agenti di custodia in servizio provvisorio nelle nuove provincie, di cui alla tabella annessa al [R. decreto 31 dicembre 1923, n. 2973](../Regi%20decreti/Autorizzazione%20al%20Ministro%20per%20la%20giustizia%20di%20assumere%20in%20servizio%20provvisorio%20il%20personale%20aggregato%20e%20di%20custodia%20occorrente%20per%20il%20funzionamento%20degli%20stabilimenti%20carcerari%20nelle%20nuo_1e7f9e63bd7c.md).
 
 ## Art. 3.
 

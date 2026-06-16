@@ -25,7 +25,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
  
  Articolo unico. 
  
-Gli [articoli 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_124) e [167 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_167) approvato con R. decreto 27 luglio 1934-XII, n. 1265, sono sostituiti dai seguenti: 
+Gli [articoli 124](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [167 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto 27 luglio 1934-XII, n. 1265, sono sostituiti dai seguenti: 
  
  
 Art. 124. - Il Ministero dell'interno ogni cinque anni rivede e pubblica la farmacopea ufficiale. A questa sono allegati: 

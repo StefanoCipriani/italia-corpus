@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi e delle nome giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con R. decreto 30 ottobre 133, n. 1611, e successive modificazioni;
 
-Visto il [R. decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612);
+Visto il [R. decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md);
 
 Visto il decreto-legge Luogotenenziale 25 giugno n. 151;
 

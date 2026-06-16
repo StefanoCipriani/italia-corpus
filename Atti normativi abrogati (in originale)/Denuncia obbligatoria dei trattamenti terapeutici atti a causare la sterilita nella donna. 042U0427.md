@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'[art. 103, primo comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_103-com1) approvato con R. decreto 27 luglio 1934-XII, n. 1265, dopo la lettera e) e' aggiunta la seguente: 
+ All'[art. 103, primo comma, del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto 27 luglio 1934-XII, n. 1265, dopo la lettera e) e' aggiunta la seguente: 
  
  f) a denunziare al medico provinciale, entro due giorni dall'inizio, ogni trattamento terapeutico che cagioni o che possa cagionare la sterilita' nella donna, anche se temporanea. 
  

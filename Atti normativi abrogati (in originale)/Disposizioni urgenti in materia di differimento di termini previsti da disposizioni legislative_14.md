@@ -216,7 +216,7 @@ All'[articolo 4, comma 1, del decreto del Ministro della sanita' 9 maggio 1991, 
 
 1.
 
-L'applicazione delle disposizioni di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-01-25;217#art_4) e [5 del decreto del Ministro della sanita' 25 gennaio 1991, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-01-25;217#art_5), e, conseguentemente, delle sanzioni di cui all'[articolo 21, comma 4, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), decorre, rispettivamente, dal 28 febbraio 1996 e dal 31 dicembre 1995, tranne che per le zone territoriali di cui all'articolo 1 del citato decreto del Ministro della sanita' n. 217.
+L'applicazione delle disposizioni di cui agli [articoli 4](../Regolamenti%20ministeriali/Regolamento%20per%20lattuazione%20dellart.%2015%20comma%202%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20maggio%201988%20n.%20236%20concernente%20le%20caratteristiche%20delle%20schede%20per%20la%20rilevazione%20dei%20dati%20r_3fad63cea691.md) e [5 del decreto del Ministro della sanita' 25 gennaio 1991, n. 217](../Regolamenti%20ministeriali/Regolamento%20per%20lattuazione%20dellart.%2015%20comma%202%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20maggio%201988%20n.%20236%20concernente%20le%20caratteristiche%20delle%20schede%20per%20la%20rilevazione%20dei%20dati%20r_3fad63cea691.md), e, conseguentemente, delle sanzioni di cui all'[articolo 21, comma 4, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), decorre, rispettivamente, dal 28 febbraio 1996 e dal 31 dicembre 1995, tranne che per le zone territoriali di cui all'articolo 1 del citato decreto del Ministro della sanita' n. 217.
 
 ### Art. 13. — Progetti finalizzati e disposizioni
  in materia di incarichi ed altre disposizioni
@@ -227,7 +227,7 @@ La disciplina prevista dall'[articolo 26 della legge 11 marzo 1988, n. 67](../Le
 
 2.
 
-Per garantire la piu' sollecita e corretta realizzazione dei progetti di cui alla normativa richiamata al comma 1, e' consentito che l'importo singolo massimo relativo alle aperture di credito a favore del funzionario delegato superi i limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni, e sia fissato in misura massima di lire 2.500 milioni.
+Per garantire la piu' sollecita e corretta realizzazione dei progetti di cui alla normativa richiamata al comma 1, e' consentito che l'importo singolo massimo relativo alle aperture di credito a favore del funzionario delegato superi i limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, e sia fissato in misura massima di lire 2.500 milioni.
 A carico di tali ordini di accreditamento possono essere imputate, per intero, spese dipendenti da contratti.
 
 3.
@@ -341,7 +341,7 @@ La scadenza del termine di cui all'[articolo 14, comma 1, della legge 16 ottobre
 
 2.
 
-Per i residui del capitolo 2501 dello stato di previsione del Ministero di grazia e giustizia per l'anno 1994 non operano, fino al 31 dicembre 1995, le disposizioni di cui all'[articolo 36, primo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com1), e successive modifiche ed integrazioni.
+Per i residui del capitolo 2501 dello stato di previsione del Ministero di grazia e giustizia per l'anno 1994 non operano, fino al 31 dicembre 1995, le disposizioni di cui all'[articolo 36, primo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modifiche ed integrazioni.
 
 ### Art. 19. — Personale transitato dall'ex ASST agli enti locali
 
@@ -521,7 +521,7 @@ I termini di cui all'[articolo 1, comma 2](Norme%20per%20linformazione%20del%20c
 
 1.
 
-Nel termine di centottanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dell'interno provvede, ai sensi del penultimo comma dell'[articolo 11 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../DPR/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), alla emanazione delle norme tecniche organiche e coordinate di prevenzione incendi
+Nel termine di centottanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dell'interno provvede, ai sensi del penultimo comma dell'[articolo 11 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), alla emanazione delle norme tecniche organiche e coordinate di prevenzione incendi
 per i luoghi di spettacolo e intrattenimento cosi' come individuati dall'[articolo 17 della circolare del Ministro dell'interno n. 16 del 15 febbraio 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:circolare:1951-02-15;16#art_17), e successive modificazioni. Entro lo stesso termine si provvede, altresi', sentita la Presidenza del Consiglio dei Ministri, ad emanare la disciplina organica dei servizi di vigilanza, da realizzarsi all'interno dell'attivita' e dei compiti ispettivi affidati al Corpo nazionale dei vigili del fuoco.
 
 2.
@@ -537,7 +537,7 @@ Nel termine di entrata in vigore del regolamento di cui al comma 2, i comandi pr
 
 1.
 
-Il termine previsto dall'[articolo 5 della legge 5 marzo 1990, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46#art_5), per la presentazione della domanda di riconoscimento dei requisiti tecnico-professionali da parte di coloro che fossero iscritti, alla data di entrata in vigore della legge medesima, come imprese installatrici o di manutenzione di impianti, nell'albo delle imprese artigiane ai sensi della [legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443), o nel registro delle ditte di cui al [regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), e' da intendersi come termine ordinatorio e non preclude il riconoscimento dei requisiti tecnico-professionali da parte dei soggetti che dimostrino di avere maturato, entro il medesimo termine, il periodo di iscrizione di almeno un anno indicato nel medesimo articolo 5.
+Il termine previsto dall'[articolo 5 della legge 5 marzo 1990, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46#art_5), per la presentazione della domanda di riconoscimento dei requisiti tecnico-professionali da parte di coloro che fossero iscritti, alla data di entrata in vigore della legge medesima, come imprese installatrici o di manutenzione di impianti, nell'albo delle imprese artigiane ai sensi della [legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443), o nel registro delle ditte di cui al [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), e' da intendersi come termine ordinatorio e non preclude il riconoscimento dei requisiti tecnico-professionali da parte dei soggetti che dimostrino di avere maturato, entro il medesimo termine, il periodo di iscrizione di almeno un anno indicato nel medesimo articolo 5.
 
 2.
 
@@ -698,7 +698,7 @@ E' differito al 30 settembre 1994 il termine per l'emanazione del regolamento pr
 
 1.
 
-L'entrata in vigore del regolamento approvato con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 30 giugno 1995.
+L'entrata in vigore del regolamento approvato con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 30 giugno 1995.
 
 ## PROROGHE PER IL MANTENIMENTO NEL BILANCIO DELLO STATO DI TALUNE DISPONIBILITA'
 
@@ -719,7 +719,7 @@ Il Ministro del bilancio e della programmazione economica stabilisce con proprio
 
 1.
 
-Le somme iscritte nello stato di previsione del Ministero dell'ambiente per l'anno finanziario 1994 in conto residui e in conto competenza nei capitoli 7001, 7104, 7301, 7302, 7303, 7304, 7352, 7405, 7410, 7411, 7601, 7605, 7704, 7705, 7707, 7708, 7712, 7901, 7951, 8001, 8360, 8501, 8504, 8600, 8630, 8650, 1552, 1556, 1561, 1562, 1557, 1558, 1704 e 1706, disponibili al 31 dicembre del medesimo anno, sono mantenute in bilancio per l'anno successivo. Per i residui dei capitoli 7103, 7101, 7301, 7351, 7406, 7702, 7703, 7704, 7705, 7706 e 7951 non operano, sino al 31 dicembre 1995, le disposizioni di cui all'[articolo 36, comma terzo, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com3), e successive modifiche ed integrazioni.
+Le somme iscritte nello stato di previsione del Ministero dell'ambiente per l'anno finanziario 1994 in conto residui e in conto competenza nei capitoli 7001, 7104, 7301, 7302, 7303, 7304, 7352, 7405, 7410, 7411, 7601, 7605, 7704, 7705, 7707, 7708, 7712, 7901, 7951, 8001, 8360, 8501, 8504, 8600, 8630, 8650, 1552, 1556, 1561, 1562, 1557, 1558, 1704 e 1706, disponibili al 31 dicembre del medesimo anno, sono mantenute in bilancio per l'anno successivo. Per i residui dei capitoli 7103, 7101, 7301, 7351, 7406, 7702, 7703, 7704, 7705, 7706 e 7951 non operano, sino al 31 dicembre 1995, le disposizioni di cui all'[articolo 36, comma terzo, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modifiche ed integrazioni.
 
 2.
 
@@ -765,14 +765,14 @@ Gli stanziamenti iscritti in bilancio per l'anno 1994 in applicazione della [leg
 
 1.
 
-Le somme iscritte in bilancio in conto competenza ed in conto residui ai sensi dell'articolo 127, comma 11, e dell'articolo 135, comma 4, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), non impegnate entro l'anno 1994, possono esserlo nell'anno 1995.
+Le somme iscritte in bilancio in conto competenza ed in conto residui ai sensi dell'articolo 127, comma 11, e dell'articolo 135, comma 4, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), non impegnate entro l'anno 1994, possono esserlo nell'anno 1995.
 
 ### Art. 50. — Sperimentazione coordinata di progetti per adolescenti
  con finalita' preventiva
 
 1.
 
-Le somme iscritte sul capitolo 4235 dello stato di previsione del Ministero dell'interno per il 1994 ai sensi dell'articolo 127, comma 1, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), non impegnate entro l'anno medesimo possono esserlo nell'anno 1995.
+Le somme iscritte sul capitolo 4235 dello stato di previsione del Ministero dell'interno per il 1994 ai sensi dell'articolo 127, comma 1, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), non impegnate entro l'anno medesimo possono esserlo nell'anno 1995.
 
 ### Art. 51. — Conservazione di somme nel bilancio dello Stato
 
@@ -1010,7 +1010,7 @@ Le disposizioni di cui all'articolo 1, comma 1, primo periodo, della [legge 16 d
 
 2.
 
-I consorzi denominati idraulici di terza categoria che, sulla base delle rispettive norme statutarie, svolgono, esclusivamente e promiscuamente con le attivita' di difesa idraulica, funzioni aventi natura giuridica e finalita' diverse, tra cui quelle di cui al capo V del testo unico delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, approvato con [regio decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), continuano ad operare ai soli fini dello svolgimento di tali ultime funzioni. In caso di attivita' promiscue, alla separazione del patrimonio provvede il Ministero del tesoro - Ispettorato generale per gli affari e per la gestione del patrimonio degli enti disciolti.
+I consorzi denominati idraulici di terza categoria che, sulla base delle rispettive norme statutarie, svolgono, esclusivamente e promiscuamente con le attivita' di difesa idraulica, funzioni aventi natura giuridica e finalita' diverse, tra cui quelle di cui al capo V del testo unico delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, approvato con [regio decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), continuano ad operare ai soli fini dello svolgimento di tali ultime funzioni. In caso di attivita' promiscue, alla separazione del patrimonio provvede il Ministero del tesoro - Ispettorato generale per gli affari e per la gestione del patrimonio degli enti disciolti.
 
 3.
 
@@ -1020,7 +1020,7 @@ Il termine di cui all'[articolo 8 della legge 5 gennaio 1994, n. 36](https://www
 
 1.
 
-La disciplina relativa all'autorizzazione sanitaria prevista dal regolamento sulla vigilanza igienica del latte destinato al consumo diretto, approvato con [regio decreto 9 maggio 1929, n. 994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-09;994), e successive modificazioni, dalla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modificazioni, e ai decreti ministeriali numeri 184 e [185 del 9 maggio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-05-09;185) si intende riferita soltanto alle aziende di produzione (vaccherie) di latte crudo destinato alla produzione di latte alimentare trattato termicamente, nonche' di latte crudo destinato ad essere utilizzato per la produzione di latte fresco pastorizzato di alta qualita'.
+La disciplina relativa all'autorizzazione sanitaria prevista dal regolamento sulla vigilanza igienica del latte destinato al consumo diretto, approvato con [regio decreto 9 maggio 1929, n. 994](../Regi%20decreti/Approvazione%20del%20regolamento%20sulla%20vigilanza%20igienica%20del%20latte%20destinato%20al%20consumo%20diretto.%20029U0994.md), e successive modificazioni, dalla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modificazioni, e ai decreti ministeriali numeri 184 e [185 del 9 maggio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-05-09;185) si intende riferita soltanto alle aziende di produzione (vaccherie) di latte crudo destinato alla produzione di latte alimentare trattato termicamente, nonche' di latte crudo destinato ad essere utilizzato per la produzione di latte fresco pastorizzato di alta qualita'.
 
 ### Art. 67. — Agecontrol S.p.a.
 

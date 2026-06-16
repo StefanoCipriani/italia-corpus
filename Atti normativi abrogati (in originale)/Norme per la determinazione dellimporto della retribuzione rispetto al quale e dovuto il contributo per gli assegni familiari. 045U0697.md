@@ -44,7 +44,7 @@ Il contributo per gli assegni famigliari e' dovuto, sull'ammontare della retribu
 
 ## Art. 2.
 
-Sono abrogati i commi, 2 e 3 dell'[art. 1 del R. decreto 21 ottobre 1941, n. 1277](Abolizione%20del%20limite%20di%20L.%202000%20di%20stipendio%20per%20il%20diritto%20agli%20assegni%20familiari%20degli%20impiegati%20del%20commercio%20delle%20professioni%20e%20arti%20e%20dellagricoltura.%20041U1277.md), e l'[art. 3 del decreto legislativo Luogotenenziale 9 novembre 1944, n. 307](Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md).
+Sono abrogati i commi, 2 e 3 dell'[art. 1 del R. decreto 21 ottobre 1941, n. 1277](../Regi%20decreti/Abolizione%20del%20limite%20di%20L.%202000%20di%20stipendio%20per%20il%20diritto%20agli%20assegni%20familiari%20degli%20impiegati%20del%20commercio%20delle%20professioni%20e%20arti%20e%20dellagricoltura.%20041U1277.md), e l'[art. 3 del decreto legislativo Luogotenenziale 9 novembre 1944, n. 307](Istituzione%20di%20assegni%20familiari%20supplementari%20di%20carovita%20e%20normalizzazione%20di%20quelli%20ordinari.%20044U0307.md).
 
 ## Art. 3.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523);
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md);
 
 Visto il [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
 
@@ -38,7 +38,7 @@ Il quinto e il sesto comma dell'art. 112 del regolamento approvato con [R. decre
 
 Il primo comma dell'art. 224 del regolamento approvato con [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), e' modificato come segue: 
  
- «I Comuni che, in applicazione del disposto di cui all'[art. 38 del R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_38); intendono di trasformare le loro scuole complementari in scuole operaie di avviamento, dovranno presentarne regolare domanda al Ministero dell'economia nazionale».
+ «I Comuni che, in applicazione del disposto di cui all'[art. 38 del R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md); intendono di trasformare le loro scuole complementari in scuole operaie di avviamento, dovranno presentarne regolare domanda al Ministero dell'economia nazionale».
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ L'art. 226 del regolamento approvato con [R. decreto 3 giugno 1924, n. 969](Appr
  
  «Nel caso di trasformazione di ordinamento della scuola, il personale titolare che abbia i requisiti richiesti, prende il suo posto nel ruolo organico della scuola trasformata e conserva i suoi diritti di carriera. 
  
- «Il personale titolare che non abbia i requisiti necessari ad occupare un posto nel ruolo organico della nuova scuola, sara' trasferito possibilmente ad altra corrispondente primitivo ordinamento e intanto si applicheranno ad esso le disposizioni di cui all'[art. 34 del R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_34)».
+ «Il personale titolare che non abbia i requisiti necessari ad occupare un posto nel ruolo organico della nuova scuola, sara' trasferito possibilmente ad altra corrispondente primitivo ordinamento e intanto si applicheranno ad esso le disposizioni di cui all'[art. 34 del R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md)».
 
 ## Art. 4.
 

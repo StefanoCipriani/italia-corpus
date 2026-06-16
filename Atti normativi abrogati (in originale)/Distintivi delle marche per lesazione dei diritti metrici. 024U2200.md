@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), recante modifiche alla tariffa dei diritti metrici e per il saggio e marchio dei metalli preziosi e per verificazioni facoltative dei termometri, alcoolometri, ecc., stabilita dal testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (Serie III), e
+Visto il [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), recante modifiche alla tariffa dei diritti metrici e per il saggio e marchio dei metalli preziosi e per verificazioni facoltative dei termometri, alcoolometri, ecc., stabilita dal testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (Serie III), e
 
 successive disposizioni;
 

@@ -34,7 +34,7 @@ Le occupazioni provvisorie di immobili e le requisizioni temporanee non revocate
 
 ## Art. 5.
 
-La riscossione del decimo del prezzo di macchiatico nei casi di cui all'art. 23 del Nostro decreto 24 febbraio 1918, n. 284, sara' curata dagli Uffici di registro con la procedura stabilita dal testo unico approvato con [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici, dei proventi di Demanio pubblico e di pubblici servizi e delle tasse sugli affari.
+La riscossione del decimo del prezzo di macchiatico nei casi di cui all'art. 23 del Nostro decreto 24 febbraio 1918, n. 284, sara' curata dagli Uffici di registro con la procedura stabilita dal testo unico approvato con [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici, dei proventi di Demanio pubblico e di pubblici servizi e delle tasse sugli affari.
 
 ## Art. 6.
 

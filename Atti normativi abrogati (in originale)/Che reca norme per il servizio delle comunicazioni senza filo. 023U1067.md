@@ -170,7 +170,7 @@ Ogni infrazione all'art. 1 del presente decreto e' punibile con la multa fino a 
 
 ## Art. 19.
 
-Chiunque arrechi guasto o deterioramento agli impianti od in qualsiasi modo interrompa o comprometta anche temporaneamente il servizio delle comunicazioni senza filo, o abusi del segnale di soccorso riservato alle navi o alle aeronavi in pericolo, sara' punito ai termini dell'[art. 315 del C. P.](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) Per i militari saranno comminate invece le pene stabilite dal C. P. M. 
+Chiunque arrechi guasto o deterioramento agli impianti od in qualsiasi modo interrompa o comprometta anche temporaneamente il servizio delle comunicazioni senza filo, o abusi del segnale di soccorso riservato alle navi o alle aeronavi in pericolo, sara' punito ai termini dell'[art. 315 del C. P.](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) Per i militari saranno comminate invece le pene stabilite dal C. P. M. 
  
  Le pene stabilite dal presente decreto si intendono applicabili senza pregiudizio di quelle maggiori cui possa farsi luogo ai termini del C. P. comune e del C. P. militare.
 

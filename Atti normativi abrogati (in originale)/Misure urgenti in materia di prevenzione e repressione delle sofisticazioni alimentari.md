@@ -24,12 +24,12 @@ EMANA il seguente decreto:
 
 1.
 
-Dopo l'[articolo 445 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
+Dopo l'[articolo 445 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
  "Art. 446. (Confisca obbligatoria). - In caso di condanna per taluno dei delitti preveduti negli articoli 439, 440, 441 e 442, se dal fatto e' derivata la morte o la lesione grave o gravissima di una persona, la confisca delle cose indicate nel primo comma dell'articolo 240 e' obbligatoria".
 
 2.
 
-Dopo il [primo comma dell'articolo 448 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
+Dopo il [primo comma dell'articolo 448 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente: 
  "La condanna per taluno dei delitti preveduti negli articoli 439, 440, 441 e 442 importa l'interdizione dalla professione, arte, industria, commercio o mestiere per anni cinque, nonche' l'interdizione dagli uffici direttivi delle persone giuridiche e delle imprese per una durata non inferiore ad anni cinque".
 
 ## Art. 2.

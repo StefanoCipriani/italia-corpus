@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'art. 51 del testo unico di legge per l'amministrazione del patrimonio e la contabilita' generale, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
+Visto l'art. 51 del testo unico di legge per l'amministrazione del patrimonio e la contabilita' generale, approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Visto l'[art. 2 del decreto Luogotenenziale 27 giugno 1915, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;990#art_2), da convertirsi in legge;
 

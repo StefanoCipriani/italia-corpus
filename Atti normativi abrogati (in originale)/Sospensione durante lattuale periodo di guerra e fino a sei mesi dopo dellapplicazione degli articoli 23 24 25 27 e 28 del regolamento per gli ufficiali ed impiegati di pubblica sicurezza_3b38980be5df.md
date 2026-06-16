@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666);
+Visto il [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md);
 
 Visto il R. decreto 11 novembre 1923-II, n. 2395, e successive modificazioni;
 
@@ -30,7 +30,7 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di S
 
 ## Articolo unico.
 
-E' sospesa, durante l'attuale periodo di guerra e fino a sei mesi dopo, l'applicazione degli articoli 23, 24, 25, 27 e 28 del regolamento per gli ufficiali ed impiegati di pubblica sicurezza, approvato con [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666). 
+E' sospesa, durante l'attuale periodo di guerra e fino a sei mesi dopo, l'applicazione degli articoli 23, 24, 25, 27 e 28 del regolamento per gli ufficiali ed impiegati di pubblica sicurezza, approvato con [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md). 
  
  Tale disposizione si applica anche ai volontari vice commissari aggiunti in servizio, che alla data di entrata in vigore del presente decreto non abbiano frequentato il Corso di polizia scientifica presso la Scuola superiore di polizia in Roma. 
  

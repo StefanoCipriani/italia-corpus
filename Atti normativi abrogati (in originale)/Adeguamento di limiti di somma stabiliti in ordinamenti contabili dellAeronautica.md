@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 22 dicembre 1932, n. 1958](Norme%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20032U1958.md);
 
-Visto il [regio decreto 22 marzo 1934, n. 882](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20034U0882.md), che approva il regolamento per l'amministrazione e la contabilita' degli Enti aeronautici;
+Visto il [regio decreto 22 marzo 1934, n. 882](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20034U0882.md), che approva il regolamento per l'amministrazione e la contabilita' degli Enti aeronautici;
 
 Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273);
 
@@ -36,7 +36,7 @@ Il limite di somma di lire duemila, di cui all'[art. 10 della legge 22 dicembre 
 
 ## Art. 2.
 
-Il limite di somma stabilito con l'art. 65 del regolamento per l'amministrazione e la contabilita' degli Enti aeronautici, approvato con [regio decreto 22 marzo 1934, n. 882](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20034U0882.md), e' decuplicato, mentre quello fissato con l'art. 96 dello stesso regolamento e' quintuplicato.
+Il limite di somma stabilito con l'art. 65 del regolamento per l'amministrazione e la contabilita' degli Enti aeronautici, approvato con [regio decreto 22 marzo 1934, n. 882](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20034U0882.md), e' decuplicato, mentre quello fissato con l'art. 96 dello stesso regolamento e' quintuplicato.
 
 ## Art. 3.
 

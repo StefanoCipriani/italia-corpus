@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il Codice postale e delle telecomunicazioni, approvato con decreto 27 febbraio 1936-XIV, n. 645;
 
-Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e successive modificazioni;
+Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e successive modificazioni;
 
 Visti i Regi decreti-legge 20 giugno 1935-XIII, n. 1157, convertito nella legge 9 gennaio 1936-XIV, n. 175, e 9 dicembre 1935-XIV, n. 2224, convertito nella legge 16 aprile 1936-XIV, n. 819;
 

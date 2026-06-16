@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 28 agosto 1924, n. 1593](Approvazione%20della%20tariffa%20dei%20diritti%20di%20borsa%20di%20Torino.%20024U1593.md), col quale venne approvata la tariffa dei diritti spettanti alla Camera di commercio di Torino;
+Visto il [regio decreto 28 agosto 1924, n. 1593](../Regi%20decreti/Approvazione%20della%20tariffa%20dei%20diritti%20di%20borsa%20di%20Torino.%20024U1593.md), col quale venne approvata la tariffa dei diritti spettanti alla Camera di commercio di Torino;
 
-Visto il [regio decreto 26 luglio 1935, n. 1496](Modifica%20delle%20norme%20relative%20ai%20diritti%20per%20la%20quotazione%20dei%20titoli%20presso%20la%20Borsa%20valori%20di%20Torino.%20035U1496.md), col quale vennero apportate variazioni alla predetta tariffa;
+Visto il [regio decreto 26 luglio 1935, n. 1496](../Regi%20decreti/Modifica%20delle%20norme%20relative%20ai%20diritti%20per%20la%20quotazione%20dei%20titoli%20presso%20la%20Borsa%20valori%20di%20Torino.%20035U1496.md), col quale vennero apportate variazioni alla predetta tariffa;
 
 Vista la deliberazione della Camera di commercio di Torino, in data 13 febbraio 1947, con la quale sono state proposte ulteriori modifiche alla tariffa anzidetta;
 
-Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di borsa;
+Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di borsa;
 
 Sulla proposta del Ministro Segretario di Stato per le finanze e il tesoro; Decreta:
 

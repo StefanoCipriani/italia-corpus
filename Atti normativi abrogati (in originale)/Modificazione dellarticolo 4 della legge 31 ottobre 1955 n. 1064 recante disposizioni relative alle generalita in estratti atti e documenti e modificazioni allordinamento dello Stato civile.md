@@ -19,7 +19,7 @@ PROMULGA la seguente legge:
 ## Articolo unico.
 
 L'[articolo 4 della legge 31 ottobre 1955, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-10-31;1064#art_4), e' sostituito dal seguente: 
- "Prima dell'ultimo capoverso dell'[articolo 186 del regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238#art_186), sono inseriti i seguenti commi: 
+ "Prima dell'ultimo capoverso dell'[articolo 186 del regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), sono inseriti i seguenti commi: 
  "Il figlio naturale che sia stato o sia riconosciuto da un solo genitore e che sia stato o sia successivamente adottato o affiliato, assume il cognome dell'adottante o dell'affiliante; se sia stato o sia adottato o affiliato da entrambi i coniugi assume il cognome del marito, sempre che l'affiliazione non sia stata revocata o dichiarata estinta a termine degli [articoli 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_410) e [411 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_411). 
  Il cognome con cui viene indicato il figlio naturale riconosciuto da un solo genitore e successivamente adottato od affiliato, spetta anche ai figli legittimi di costui. L'interessato, divenuto maggiorenne, potra' richiedere di far constare la qualita', di figlio adottivo o di affiliato".
 

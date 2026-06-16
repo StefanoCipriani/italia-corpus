@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 2.
 
-Sono altresi' a carico del richiedente le spese di pubblicazione sulla Gazzetta Ufficiale e sui Fogli annunzi legali, se prevista, dei relativi provvedimenti, quelle di sorveglianza e del collaudo di cui all'articolo 24 del regolamento per le derivazioni e utilizzazioni di acque pubbliche approvato con [regio decreto 14 agosto 1920, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1285), ed ogni altra spesa dipendente dal fatto della concessione o autorizzazione.
+Sono altresi' a carico del richiedente le spese di pubblicazione sulla Gazzetta Ufficiale e sui Fogli annunzi legali, se prevista, dei relativi provvedimenti, quelle di sorveglianza e del collaudo di cui all'articolo 24 del regolamento per le derivazioni e utilizzazioni di acque pubbliche approvato con [regio decreto 14 agosto 1920, n. 1285](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20derivazioni%20e%20utilizzazioni%20di%20acque%20pubbliche.%20020U1285.md), ed ogni altra spesa dipendente dal fatto della concessione o autorizzazione.
 
 ## Art. 3.
 
@@ -26,7 +26,7 @@ Il richiedente, ove non vi provveda direttamente, e' invitato dall'ufficio che r
 
 ## Art. 4.
 
-Per la riscossione di eventuali crediti, derivanti dall'applicazione della presente legge, si applicano, in conformita' dell'[articolo 39 del testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_39) approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), le disposizioni del [testo unico 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1910-04-14;639), per la riscossione delle entrate patrimoniali dello Stato.
+Per la riscossione di eventuali crediti, derivanti dall'applicazione della presente legge, si applicano, in conformita' dell'[articolo 39 del testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), le disposizioni del [testo unico 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1910-04-14;639), per la riscossione delle entrate patrimoniali dello Stato.
 
 ## Art. 5.
 

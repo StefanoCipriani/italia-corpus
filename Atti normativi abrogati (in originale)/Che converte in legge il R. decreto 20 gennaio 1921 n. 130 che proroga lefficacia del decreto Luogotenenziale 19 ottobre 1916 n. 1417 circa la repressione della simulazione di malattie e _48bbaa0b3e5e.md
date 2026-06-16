@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto 20 gennaio 1921, n. 130](Che%20proroga%20lefficacia%20del%20decreto%20Luogotenenziale%2019%20ottobre%201916%20n.%201417%20circa%20la%20repressione%20della%20simulazione%20di%20malattie%20e%20mutilazioni%20volontarie.%20021U0130.md), che proroga l'efficacia del [decreto Luogotenenziale 19 ottobre 1916, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-19;1417), circa la repressione della simulazione di malattie e delle mutilazioni volontarie. 
+ E' convertito in legge il [Regio decreto 20 gennaio 1921, n. 130](../Regi%20decreti/Che%20proroga%20lefficacia%20del%20decreto%20Luogotenenziale%2019%20ottobre%201916%20n.%201417%20circa%20la%20repressione%20della%20simulazione%20di%20malattie%20e%20mutilazioni%20volontarie.%20021U0130.md), che proroga l'efficacia del [decreto Luogotenenziale 19 ottobre 1916, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-19;1417), circa la repressione della simulazione di malattie e delle mutilazioni volontarie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

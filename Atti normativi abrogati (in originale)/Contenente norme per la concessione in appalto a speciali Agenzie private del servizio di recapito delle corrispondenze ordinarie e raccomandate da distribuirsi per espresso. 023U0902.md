@@ -44,7 +44,7 @@ Le Agenzie concessionarie saranno sottoposte alla sorveglianza ed al controllo d
 
 ## Art. 5.
 
-Le persone comunque incaricate dalle Agenzie concessionarie della custodia e del recapito delle corrispondenze di cui all'art. 1 del presente decreto e quello incaricate dai concessionari della custodia e del recapito dei telegrammi a termini delle disposizioni contenute nel [R. decreto 7 gennaio 1923, n. 37](Che%20autorizza%20la%20cessione%20in%20appalto%20ai%20privati%20del%20servizio%20di%20recapito%20dei%20telegrammi.%20023U0037.md), sono considerate, agli effetti dell'[art. 162 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), addette al servizio delle poste e dei telegrafi. 
+Le persone comunque incaricate dalle Agenzie concessionarie della custodia e del recapito delle corrispondenze di cui all'art. 1 del presente decreto e quello incaricate dai concessionari della custodia e del recapito dei telegrammi a termini delle disposizioni contenute nel [R. decreto 7 gennaio 1923, n. 37](Che%20autorizza%20la%20cessione%20in%20appalto%20ai%20privati%20del%20servizio%20di%20recapito%20dei%20telegrammi.%20023U0037.md), sono considerate, agli effetti dell'[art. 162 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), addette al servizio delle poste e dei telegrafi. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

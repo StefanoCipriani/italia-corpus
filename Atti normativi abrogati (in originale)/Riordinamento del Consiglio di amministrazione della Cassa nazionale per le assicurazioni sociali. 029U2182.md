@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita' urgente ed assoluta di adeguare la composizione del Consiglio di amministrazione della Cassa nazionale per le assicurazioni sociali al vigente ordinamento sindacale;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), sull'assicurazione obbligatoria contro l'invalidita' e vecchiaia, modificato con [R. decreto-legge 29 novembre 1925, n. 2216](Aggiunte%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20concernente%20lassicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia.%20025U2216.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), sull'assicurazione obbligatoria contro l'invalidita' e vecchiaia, modificato con [R. decreto-legge 29 novembre 1925, n. 2216](Aggiunte%20al%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20concernente%20lassicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia.%20025U2216.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di c
 
 ## Art. 1.
 
-Gli articoli 15, primo comma, 16, [terzo comma, 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_18-com3), [primo comma, del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_com1), sono modificati come segue: 
+Gli articoli 15, primo comma, 16, [terzo comma, 18](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), [primo comma, del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), sono modificati come segue: 
  
  « Art. 15 (1° comma). - Il Consiglio di amministrazione della Cassa nazionale per le assicurazioni sociali e' costituito con Regio decreto promosso dal Ministro per le corporazioni di concerto con quello per le finanze, ed e' composto dai seguenti membri: 
  
@@ -62,7 +62,7 @@ Gli articoli 15, primo comma, 16, [terzo comma, 18](https://www.normattiva.it/ur
  
  16° da un funzionario del Ministero delle comunicazioni ». 
  
- « Art. 16 (3° comma). - Ai consiglieri di cui al n. 14 dell'articolo precedente si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), ferma restando, peraltro, l'osservanza del disposto dell'[art. 3 del R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_3) ». 
+ « Art. 16 (3° comma). - Ai consiglieri di cui al n. 14 dell'articolo precedente si applicano le disposizioni del [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), ferma restando, peraltro, l'osservanza del disposto dell'[art. 3 del R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_3) ». 
  
  « Art. 18 (1° comma). - Nel seno del Consiglio di amministrazione della Cassa nazionale per le assicurazioni sociali e' istituito un Comitato esecutivo del quale fanno parte il presidente, i due vice presidenti, i tre consiglieri di cui all'art. 15, nn. 14 e 15, quattro consiglieri eletti dal Consiglio, due tra i rappresentanti dei datori di lavoro e due tra i rappresentanti degli assicurati, ed il direttore generale ».
 

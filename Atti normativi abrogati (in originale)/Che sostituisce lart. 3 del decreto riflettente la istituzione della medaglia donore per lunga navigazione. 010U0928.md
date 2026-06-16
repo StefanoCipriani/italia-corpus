@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 3 del R. decreto 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656#art_3), col quale fu istituita la medaglia d'onore per la lunga navigazione; 
+ Visto l'[art. 3 del R. decreto 27 novembre 1904, n. 656](../Regi%20decreti/Che%20istituisce%20una%20medaglia%20donore%20per%20lunga%20navigazione%20compiuta.%20004U0656.md), col quale fu istituita la medaglia d'onore per la lunga navigazione; 
  
  Ritenuta l'opportunita' di computare ai militari dell'armata di mare, per gli effetti del conseguimento di tale distinzione onorifica, i periodi d'imbarco da essi compiuti, senza riguardo all'eta'; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- All'[art. 3 del R. decreto 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656#art_3), e' sostituito il seguente: 
+ All'[art. 3 del R. decreto 27 novembre 1904, n. 656](../Regi%20decreti/Che%20istituisce%20una%20medaglia%20donore%20per%20lunga%20navigazione%20compiuta.%20004U0656.md), e' sostituito il seguente: 
  
  «Art. 3. - Il periodo di navigazione indicato nell'articolo precedente sara' computato per la gente di mare di 1ª categoria dal diciottesimo anno di eta' e per i militari della R. marina dal giorno in cui cominciarono a prestare effettivo servizio a bordo delle RR. navi armate». 
  

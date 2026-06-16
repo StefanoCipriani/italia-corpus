@@ -50,7 +50,7 @@ L'esame di maturita' ha come fine la valutazione globale della personalita' del 
  La prima prova scritta consiste nello svolgimento di un tema scelto dal candidato fra tre che gli vengono proposti e che tende ad accertare le sue capacita' espressive e critiche.
  La seconda prova scritta, che per l'istituto tecnico puo' anche essere grafica o scritto-grafica, verte su una delle materie di cui alla allegata tabella A.
  Restano ferme le disposizioni che prevedono esami con una sola prova scritta.
- Salvo quanto previsto dall'[art. 86 del regio decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), i temi relativi alle prove scritte sono inviati dal Ministero.
+ Salvo quanto previsto dall'[art. 86 del regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), i temi relativi alle prove scritte sono inviati dal Ministero.
  La correzione degli elaborati viene effettuata collegialmente.
 
 ## Art. 6. — Colloquio
@@ -97,7 +97,7 @@ Al presidente e ai membri delle commissioni per gli esami di maturita' viene cor
 
 ## Art. 10. — Esami di licenza della scuola media
 
-L'esame di licenza della scuola media, previsto dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_5) e [6 della legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_6), si sostiene in unica sessione con possibilita' di prove suppletive nei casi previsti dall'[art. 84 del regio decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
+L'esame di licenza della scuola media, previsto dagli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_5) e [6 della legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859#art_6), si sostiene in unica sessione con possibilita' di prove suppletive nei casi previsti dall'[art. 84 del regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
  L'esame di licenza si conclude, in caso di esito positivo, con l'attribuzione del giudizio di "ottimo", "buono", "discreto", "sufficiente" e in caso di esito negativo con la dichiarazione "non licenziato".
 
 ## Art. 11. — Copertura finanziaria

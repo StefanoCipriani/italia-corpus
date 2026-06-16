@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 10 gennaio 1929, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-10;87), col quale il comune di San Pietro di Barbozza e' stato soppresso ed il rispettivo territorio aggregato a quello di Valdobbiadene; 
+ Visto il [R. decreto 10 gennaio 1929, n. 87](../Regi%20decreti/Aggregazione%20del%20comune%20di%20San%20Pietro%20di%20Barbozza%20a%20quello%20di%20Valdobbiadene.%20029U0087.md), col quale il comune di San Pietro di Barbozza e' stato soppresso ed il rispettivo territorio aggregato a quello di Valdobbiadene; 
  
  Vista la deliberazione del commissario prefettizio di Valdobbiadene rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di San Pietro di Barbozza; 
  

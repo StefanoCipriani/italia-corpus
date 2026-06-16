@@ -19,7 +19,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 In esecuzione delle norme contenute nell'art. 56 del Trattato che istituisce la Comunita' europea del carbone e dell'acciaio, firmato a Parigi il 18 aprile 1951 e ratificato dalla Repubblica italiana con [legge 29 giugno 1952, n. 766](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-29;766), e' autorizzata l'iscrizione in bilancio delle somme relative ai contributi speciali a carico del Governo italiano destinato, in concorso con le sovvenzioni a fondo perduto dell'alta Autorita' della Comunita' stessa, al pagamento delle provvidenze previste dalle medesime norme a favore del personale licenziato da aziende carbosiderurgiche rientranti nella sfera di applicazione del Trattato anzidetto. 
- Le somme di cui al precedente comma sono prelevate dal Fondo di riserva per le spese impreviste secondo le modalita' stabilite dall'[articolo 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42).
+ Le somme di cui al precedente comma sono prelevate dal Fondo di riserva per le spese impreviste secondo le modalita' stabilite dall'[articolo 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ## Art. 2.
 

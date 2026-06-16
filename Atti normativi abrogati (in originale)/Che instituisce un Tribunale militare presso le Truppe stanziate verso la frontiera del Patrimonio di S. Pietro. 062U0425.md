@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[articolo 291 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
+Visto l'[articolo 291 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare;
 
 Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
 ## Articolo unico.
 
-E' instituito presso le Truppe stanziate verso la frontiera del Patrimonio di S. Pietro, dipendenti dal Comando della 15ª divisione, un Tribunale militare in conformita' del prescritto del citato [art. 291 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
+E' instituito presso le Truppe stanziate verso la frontiera del Patrimonio di S. Pietro, dipendenti dal Comando della 15ª divisione, un Tribunale militare in conformita' del prescritto del citato [art. 291 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

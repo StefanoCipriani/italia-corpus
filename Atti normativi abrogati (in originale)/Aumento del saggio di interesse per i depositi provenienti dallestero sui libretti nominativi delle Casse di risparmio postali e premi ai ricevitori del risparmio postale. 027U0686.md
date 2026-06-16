@@ -16,17 +16,17 @@ RE D'ITALIA
 
 Vista la [legge 27 maggio 1875, n. 2779](Per%20la%20istituzione%20delle%20casse%20di%20risparmio%20postali%20e%20per%20modificazioni%20alla%20legge%2017%20maggio%201863%20sulla%20cassa%20dei%20depositi%20e%20prestiti.%20075U2779.md);
 
-Visto il [R. decreto 7 novembre 1889, n. 6540](Che%20autorizza%20gli%20italiani%20dimoranti%20allestero%20a%20fare%20depositi%20nelle%20Casse%20postali%20di%20risparmio%20tanto%20per%20conto%20proprio%20quanto%20per%20conto%20di%20altri%20e%20ne%20detta%20le%20relative%20norme%20089U6540.md);
+Visto il [R. decreto 7 novembre 1889, n. 6540](../Regi%20decreti/Che%20autorizza%20gli%20italiani%20dimoranti%20allestero%20a%20fare%20depositi%20nelle%20Casse%20postali%20di%20risparmio%20tanto%20per%20conto%20proprio%20quanto%20per%20conto%20di%20altri%20e%20ne%20detta%20le%20relative%20norme%20089U6540.md);
 
 Vista la [legge 8 luglio 1897, n. 252](Che%20costituisce%20un%20fondo%20di%20riserva%20delle%20Casse%20di%20risparmio%20postali%20create%20colla%20legge%2027%20maggio%201875%20n.%202779%20serie%202ª.%20097U0252.md);
 
 Vista la [legge 5 luglio 1902, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-05;280);
 
-Visto il [R. decreto 11 giugno 1903, n. 394](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md);
+Visto il [R. decreto 11 giugno 1903, n. 394](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md);
 
 Visto il [testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453);
 
-Visto il [R. decreto 20 dicembre 1914, n. 1378](Col%20quale%20e%20autorizzata%20listituzione%20dei%20libretti%20al%20portatore%20per%20depositi%20a%20risparmio%20presso%20le%20Casse%20postali.%20014U1378.md);
+Visto il [R. decreto 20 dicembre 1914, n. 1378](../Regi%20decreti/Col%20quale%20e%20autorizzata%20listituzione%20dei%20libretti%20al%20portatore%20per%20depositi%20a%20risparmio%20presso%20le%20Casse%20postali.%20014U1378.md);
 
 Visto il [R. decreto-legge 31 dicembre 1919, n. 2544](Che%20modifica%20gli%20articoli%206%20e%207%20di%20quello%2024%20novembre%201919%20n%202169%20relativamente%20alla%20imposta%20sul%20patrimonio%20sui%20capitali%20esteri%20e%20i%20titoli%20dei%20prestiti%20italiani%20di%20guerra.%20019U2544.md);
 

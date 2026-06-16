@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto in data 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189), che modifica l'ordinamento dei servizi dipartimentali della Regia marina e sue successive modificazioni; 
+ Visto il [R. decreto in data 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), che modifica l'ordinamento dei servizi dipartimentali della Regia marina e sue successive modificazioni; 
  
  Visto il [R. decreto in data 26 aprile 1923, n. 1019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-26;1019), che stabilisce le nuove circoscrizioni delle zone dei fari e del segnalamento marittimo e loro dipendenze disciplinari; 
  

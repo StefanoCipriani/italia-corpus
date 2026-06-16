@@ -36,7 +36,7 @@ Il valore nominale di ciascuna obbligazione e' di lire mille. Si potranno emette
 
 ## Art. 4.
 
-Le obbligazioni sono nominative. Esse sono trasferibili in conformita' degli articoli 20 e 21 del regolamento approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), per la esecuzione delle leggi sul credito fondiario.
+Le obbligazioni sono nominative. Esse sono trasferibili in conformita' degli articoli 20 e 21 del regolamento approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), per la esecuzione delle leggi sul credito fondiario.
 
 ## Art. 5.
 
@@ -54,7 +54,7 @@ Le obbligazioni ed i certificati provvisori sono firmati da un consigliere di am
 
 Le obbligazioni gia' preparate per l'emissione ed i titoli di scorta saranno custoditi presso l'Istituto incaricato del servizio di cassa per la Banca autonoma di credito minerario. 
  
- Oltre al registro di cui all'art. 26 del regolamento, approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), dovra' istituirsi un apposito libro per tenere in evidenza il movimento delle obbligazioni.
+ Oltre al registro di cui all'art. 26 del regolamento, approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), dovra' istituirsi un apposito libro per tenere in evidenza il movimento delle obbligazioni.
 
 ## Art. 8.
 

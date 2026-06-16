@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 22 luglio 1923, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-22;1860), col quale si dava facolta' al Governo del Re di fondare in Roma una Scuola pratica di meccanica agraria e di dettare le norme per il funzionamento di essa;
+Visto il [R. decreto 22 luglio 1923, n. 1860](../Regi%20decreti/Fondazione%20di%20una%20scuola%20pratica%20di%20meccanica%20agraria%20in%20Roma.%20023U1860.md), col quale si dava facolta' al Governo del Re di fondare in Roma una Scuola pratica di meccanica agraria e di dettare le norme per il funzionamento di essa;
 
 Visto il [R. decreto 19 luglio 1924, n. 1229](Fondazione%20in%20Roma%20duna%20Scuola%20pratica%20di%20meccanica%20agraria%20consorziale%20autonoma.%20024U1229.md), col quale fu provveduto alla fondazione della Scuola suddetta ed a fissarne le modalita' di costituzione e di ordinamento;
 

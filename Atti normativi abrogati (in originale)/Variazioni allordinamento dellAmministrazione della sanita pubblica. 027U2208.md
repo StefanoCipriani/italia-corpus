@@ -60,7 +60,7 @@ Sempre quando non si provveda al cambio di qualifica a termini dell'[art. 27 del
  
  b) la promozione al posto di capo di laboratorio chimico della sanita' pubblica si conferisce, per merito comparativo, su designazione del Consiglio di amministrazione, fra i coadiutori chimici di 1a classe e gli ispettori generali farmacisti, che abbiano complessivamente, nel grado 6° e 7°, sei anni di anzianita' ed i coadiutori chimici di 2a classe (grado 7°) che abbiano, nel grado attuale, almeno sette anni di anzianita'. 
  
- Qualora nessuno dei detti impiegati, a giudizio del Consiglio di amministrazione, abbia i necessari titoli di merito, sara' provveduto con pubblici concorsi per titoli, secondo le norme stabilite dal Ministero ai sensi dell'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_4). 
+ Qualora nessuno dei detti impiegati, a giudizio del Consiglio di amministrazione, abbia i necessari titoli di merito, sara' provveduto con pubblici concorsi per titoli, secondo le norme stabilite dal Ministero ai sensi dell'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Il capo del laboratorio di micrografia e batteriologia e il capo del laboratorio di chimica si intendono gerarchicamente superiori ai funzionari di pari grado dei rispettivi ruoli. 
  

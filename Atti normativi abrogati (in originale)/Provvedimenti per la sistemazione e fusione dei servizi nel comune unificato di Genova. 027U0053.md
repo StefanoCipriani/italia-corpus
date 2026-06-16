@@ -34,7 +34,7 @@ L'Amministrazione del comune unificato di Genova provvedera', entro il 31 dicemb
  
  L'applicazione delle norme precedenti avra' luogo nonostante qualsiasi contraria disposizione di legge, di regolamenti generali o speciali o di capitolati. 
  
- Per il trattamento economico del personale licenziato o dispensato saranno applicate le norme previste dal [R. decreto 27 maggio 1923, n. 1177](Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md). 
+ Per il trattamento economico del personale licenziato o dispensato saranno applicate le norme previste dal [R. decreto 27 maggio 1923, n. 1177](../Regi%20decreti/Che%20stabilisce%20la%20revisione%20delle%20tabelle%20e%20dei%20regolamenti%20organici%20del%20personale%20delle%20Provincie%20dei%20Comuni%20e%20delle%20istituzioni%20pubbliche%20di%20beneficenza.%20023U1177.md). 
  
  I provvedimenti di cui al presente articolo hanno carattere definitivo e contro di essi e' ammesso soltanto il ricorso per legittimita' alle sezioni giurisdizionali del Consiglio di Stato.
 
@@ -44,7 +44,7 @@ Con l'anno scolastico 1927-1928 tutte le scuole dei Comuni aggregati passeranno 
 
 ## Art. 3.
 
-E' in facolta' dell'Amministrazione del comune di Genova Unificato, di disporre la revisione e la risoluzione dei contratti e delle convenzioni comunali attinenti a pubblici servizi, nonche' il riscatto dei servizi stessi, se e da quando cio' sia ritenuto necessario per l'unificazione, il riordinamento e l'incremento dei servizi medesimi, anche in deroga ai termini eventualmente stabiliti nei contratti e nelle convenzioni suddetti o a quelli stabiliti dal testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato con [R. decreto 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578). 
+E' in facolta' dell'Amministrazione del comune di Genova Unificato, di disporre la revisione e la risoluzione dei contratti e delle convenzioni comunali attinenti a pubblici servizi, nonche' il riscatto dei servizi stessi, se e da quando cio' sia ritenuto necessario per l'unificazione, il riordinamento e l'incremento dei servizi medesimi, anche in deroga ai termini eventualmente stabiliti nei contratti e nelle convenzioni suddetti o a quelli stabiliti dal testo unico della legge sull'assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato con [R. decreto 15 ottobre 1925, n. 2578](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md). 
  
  Eguale facolta' di riscatto potra' essere esercitata per i servizi indicati nell'[art.1 del testo unico 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1925-10-15;2578#art_1), esercitati nei Comuni unificati anche indipendentemente da contratti o convenzioni comunali, ogni qualvolta sia ritenuto necessario per la unificazione, il riordinamento e l'incremento dei servizi medesimi. 
  

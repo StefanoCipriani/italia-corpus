@@ -12,13 +12,13 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto il [regio decreto 9 dicembre 1926, n. 2480](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md);
+Visto il [regio decreto 9 dicembre 1926, n. 2480](../Regi%20decreti/Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md);
 
 Visto il regio decreto 27 gennaio 1833, n. 153;
 
-Visto il [regio decreto 5 luglio 1934, n. 1185](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nelle%20Regie%20scuole%20e%20nei%20Regi%20istituti%20distruzione%20media%20tecnica.%20034U1185.md);
+Visto il [regio decreto 5 luglio 1934, n. 1185](../Regi%20decreti/Regolamento%20per%20i%20concorsi%20a%20cattedre%20nelle%20Regie%20scuole%20e%20nei%20Regi%20istituti%20distruzione%20media%20tecnica.%20034U1185.md);
 
-Visto il [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27);
+Visto il [regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md);
 
 Visto il [decreto legislativo luogotenenziale 26 marzo 1948, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1948-03-26;141);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Minis
 
 ## Art. 1.
 
-I concorsi per il conferimento dei posti di insegnante negl'istituti e scuole d'istruzionie media di ogni tipo e grado, di direttore nelle scuole secondarie di avviamento professionale, di direttore didattico e di maestri elementare, accantonati ai sensi dell'[art. 1 del regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_1), saranno espletati, in deroga alle norme in vigore, secondo le disposizioni stabilite nei seguenti articoli.
+I concorsi per il conferimento dei posti di insegnante negl'istituti e scuole d'istruzionie media di ogni tipo e grado, di direttore nelle scuole secondarie di avviamento professionale, di direttore didattico e di maestri elementare, accantonati ai sensi dell'[art. 1 del regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), saranno espletati, in deroga alle norme in vigore, secondo le disposizioni stabilite nei seguenti articoli.
 
 ## Art. 2.
 
@@ -71,7 +71,7 @@ I concorsi a posti di maestro elementare sono banditi dai singoli Provveditorati
 
 ## Art. 8.
 
-Nei concorsi previsti dai precedenti articoli 2 e 4, candidati che si trovino in una delle condizioni di cui all'[art. 30 del regio decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_30), e successive estensioni e modificazioni, non inclusi nella graduatoria dei vincitori saranno compresi in una speciale graduatoria ed assunti in ruolo in ordine di merito e fino ad esaurimento nel limite di un quinto dei posti che risultino vacanti all'inizio di ciascun anno scolastico, sempreche' raggiungano nel concorso le seguenti votazioni complessive:
+Nei concorsi previsti dai precedenti articoli 2 e 4, candidati che si trovino in una delle condizioni di cui all'[art. 30 del regio decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), e successive estensioni e modificazioni, non inclusi nella graduatoria dei vincitori saranno compresi in una speciale graduatoria ed assunti in ruolo in ordine di merito e fino ad esaurimento nel limite di un quinto dei posti che risultino vacanti all'inizio di ciascun anno scolastico, sempreche' raggiungano nel concorso le seguenti votazioni complessive:
  a) per le cattedre di istruzione media e per i posti di direttore di scuole di avviamento, 70/100, con 7/10 dei punti assegnati alle prove di esame e non meno di 6/10 in ognuna di esse;
  b) per i posti di direttore didattico, 140/200, con 7/10 dei punti assegnati alle prove di esame e non meno di 6/10 in ognuna di esse;
  c) per i posti di maestro elementare 122,50/175, con 7/10 dei punti assegnati alle prove di esame e non meno di 6/10 in ognuna di esse.
@@ -83,7 +83,7 @@ Le disposizioni di cui ai precedenti articoli si applicano anche al primo concor
 
 ## Art. 10.
 
-I posti di vice segretario economo, di assistente, di tecnico agrario, di censore di disciplina, di capofficina, di istruttore pratico e di maestra di laboratorio negli istituti e scuole di istruzione tecnica, accantonati ai sensi del [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27), saranno conferiti, per meta' mediante concorso per titoli, al quale potranno essere ammessi a partecipare coloro che abbiano superato le prove di esame di in precedente analogo concorso, secondo le disposizioni contenute nei [regi decreti 27 gennaio 1933, n. 153](Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md), e [16 ottobre 1934, n. 1840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840), e per l'altra meta' mediante concorso per esami.
+I posti di vice segretario economo, di assistente, di tecnico agrario, di censore di disciplina, di capofficina, di istruttore pratico e di maestra di laboratorio negli istituti e scuole di istruzione tecnica, accantonati ai sensi del [regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), saranno conferiti, per meta' mediante concorso per titoli, al quale potranno essere ammessi a partecipare coloro che abbiano superato le prove di esame di in precedente analogo concorso, secondo le disposizioni contenute nei [regi decreti 27 gennaio 1933, n. 153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20concorsi%20ai%20posti%20di%20direttore%20insegnante%20ed%20istruttore%20pratico%20nelle%20Regie%20scuole%20e%20nei%20Regi%20corsi%20secondari%20di%20avviamento%20professionale.%20033U0153.md), e [16 ottobre 1934, n. 1840](../Regi%20decreti/Norme%20per%20lassunzione%20del%20personale%20tecnico%20amministrativo%20e%20di%20vigilanza%20nei%20Regi%20istituti%20e%20nelle%20Regie%20scuole%20distruzione%20media%20tecnica.%20034U1840.md), e per l'altra meta' mediante concorso per esami.
  Le stesse norme si applicano al primo concorso ordinario per i detti posti che sara' bandito nel termine di cui al precedente art. 9.
 
 ## Art. 11.
@@ -93,7 +93,7 @@ Qualora i posti da conferire mediante i concorsi per titoli di cui agli articoli
 
 ## Art. 12.
 
-I posti di segretario negli istituti di istruzione media, classica, scientifica e magistrale, di applicato negli istituti e scuole di istruzione tecnica, di prefetto di disciplina negli istituti e scuole tecniche agrarie, di sottocapofficina e di sottomaestra di laboratorio negli istituti e scuole di istruzione tecnica, disponibili alla data di entrata in vigore del presente decreto, saranno conferiti, in deroga alle disposizioni dei [regi decreti 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md) e [16 ottobre 1934, n. 1840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;1840), per mezzo di concorsi per titoli.
+I posti di segretario negli istituti di istruzione media, classica, scientifica e magistrale, di applicato negli istituti e scuole di istruzione tecnica, di prefetto di disciplina negli istituti e scuole tecniche agrarie, di sottocapofficina e di sottomaestra di laboratorio negli istituti e scuole di istruzione tecnica, disponibili alla data di entrata in vigore del presente decreto, saranno conferiti, in deroga alle disposizioni dei [regi decreti 27 novembre 1924, n. 2367](../Regi%20decreti/Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md) e [16 ottobre 1934, n. 1840](../Regi%20decreti/Norme%20per%20lassunzione%20del%20personale%20tecnico%20amministrativo%20e%20di%20vigilanza%20nei%20Regi%20istituti%20e%20nelle%20Regie%20scuole%20distruzione%20media%20tecnica.%20034U1840.md), per mezzo di concorsi per titoli.
 
 ## Art. 13.
 
@@ -108,7 +108,7 @@ E' abrogata la disposizione dell'[art. 9 della legge 1° giugno 1942, n. 675](In
 
 ## Art. 15.
 
-In relazione al numero dei candidati ai concorsi a cattedre negli istituti di istruzione media ed a posti di insegnante elementare, possono essere costituite Commissioni giudicatrici con un numero di componenti superiore a quello stabilito dal [regio decreto 26 maggio 1942, n. 739, e dall'art. 271](Modificazione%20del%20numero%20dei%20membri%20delle%20Commissioni%20giudicatrici%20dei%20concorsi-esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellordine%20medio%20e%20degli%20ordini%20superiori%20tecnico%20e%20classico.%20042U0739.md) del regolamento generale, approvato con [regio decreto 26 aprile 1928, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1207), modificato dal [regio decreto 26 aprile 1931, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-26;945), e dal [regio decreto 11 agosto 1933, n. 1206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-11;1206).
+In relazione al numero dei candidati ai concorsi a cattedre negli istituti di istruzione media ed a posti di insegnante elementare, possono essere costituite Commissioni giudicatrici con un numero di componenti superiore a quello stabilito dal [regio decreto 26 maggio 1942, n. 739, e dall'art. 271](../Regi%20decreti/Modificazione%20del%20numero%20dei%20membri%20delle%20Commissioni%20giudicatrici%20dei%20concorsi-esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellordine%20medio%20e%20degli%20ordini%20superiori%20tecnico%20e%20classico.%20042U0739.md) del regolamento generale, approvato con [regio decreto 26 aprile 1928, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1207), modificato dal [regio decreto 26 aprile 1931, n. 945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-26;945), e dal [regio decreto 11 agosto 1933, n. 1206](../Regi%20decreti/Aggiunte%20e%20modificazioni%20al%20regolamento%20generale%20approvato%20con%20R.%20decreto-legge%2026%20aprile%201928%20n.%201297%20sui%20servizi%20dellistruzione%20elementare.%20033U1206.md).
  Dette Commissioni potranno suddividersi in sotto commissioni che, per quanto riguarda gli istituti e scuole di istruzione media, attenderanno allo svolgimento delle operazioni dei concorsi in sedi da stabilire.
 
 ## Art. 16.

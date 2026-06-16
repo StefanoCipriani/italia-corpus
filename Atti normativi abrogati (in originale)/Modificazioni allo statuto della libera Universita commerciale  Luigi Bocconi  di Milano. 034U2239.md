@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto lo statuto della libera Universita' commerciale « Luigi Bocconi » di Milano, approvato con [R. decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e modificato con [Regi decreti 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md), [29 ottobre 1931, n. 1840](Modifiche%20allo%20statuto%20dellUniversita%20commerciale%20Luigi%20Bocconi%20di%20Milano.%20031U1840.md), e [26 ottobre 1933, n. 1958](Modifiche%20allo%20statuto%20della%20libera%20Universita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20033U1958.md); 
+ Veduto lo statuto della libera Universita' commerciale « Luigi Bocconi » di Milano, approvato con [R. decreto 8 marzo 1925, n. 547](../Regi%20decreti/Riconoscimento%20dellUniversita%20commerciale%20Luigi%20Bocconi%20in%20Milano%20quale%20Istituto%20superiore%20libero%20di%20scienze%20economiche%20e%20commerciali.%20025U0547.md), e modificato con [Regi decreti 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md), [29 ottobre 1931, n. 1840](Modifiche%20allo%20statuto%20dellUniversita%20commerciale%20Luigi%20Bocconi%20di%20Milano.%20031U1840.md), e [26 ottobre 1933, n. 1958](Modifiche%20allo%20statuto%20della%20libera%20Universita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20033U1958.md); 
  
  Vedute le nuove proposte di modifiche avanzate dalle Autorita' accademiche dell'Universita' predetta; 
  

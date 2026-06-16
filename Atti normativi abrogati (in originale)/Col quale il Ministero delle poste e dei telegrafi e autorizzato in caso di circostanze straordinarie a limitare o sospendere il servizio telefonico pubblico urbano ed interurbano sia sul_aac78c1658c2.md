@@ -40,7 +40,7 @@ Nel periodo di tempo indicato all'art. 1 il ministro delle poste e dei telegrafi
 
 ## Art. 5.
 
-I provvedimenti di cui agli articoli precedenti non daranno diritto ad alcuna indennita' a favore dei concessionari, ai quali spettera' solo la riduzione dei canoni prevista dall'art. 19 del testo unico delle leggi telefoniche, approvate col [R. decreto del 3 maggio 1903, n. 196](Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md).
+I provvedimenti di cui agli articoli precedenti non daranno diritto ad alcuna indennita' a favore dei concessionari, ai quali spettera' solo la riduzione dei canoni prevista dall'art. 19 del testo unico delle leggi telefoniche, approvate col [R. decreto del 3 maggio 1903, n. 196](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md).
 
 ## Art. 6.
 

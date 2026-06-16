@@ -13,9 +13,9 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto lo statuto dell'Istituto universitario statale di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](../DPR/Istituzione%20della%20facolta%20di%20lettere%20e%20filosofia%20presso%20lIstituto%20universitario%20di%20magistero%20di%20Salerno.md);
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario anzidetto;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
  Sentito il parere del Consiglio superiore della pubblica istruzione;

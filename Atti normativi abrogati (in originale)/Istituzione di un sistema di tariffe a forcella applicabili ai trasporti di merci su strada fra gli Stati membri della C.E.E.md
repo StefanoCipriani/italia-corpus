@@ -90,7 +90,7 @@ In caso di ripetute infrazioni alle norme del presente decreto il Ministro per i
 
 ### Art. 12.
 
-I vettori, i mittenti ed i destinatari delle merci, gli spedizionieri e gli altri intermediari di trasporti, i quali non forniscono, nel termine che verra' ad essi prescritto, al Ministero dei trasporti e dell'aviazione civile - Direzione generale della motorizzazione civile e dei trasporti in concessione, od ai funzionari da questo dipendenti, tutte le informazioni o notizie ritenute necessarie ai fini dell'applicazione del [regolamento n. 1174/68](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968;1174), ovvero forniscono informazioni e notizie false, sono soggetti alla sanzione amministrativa del pagamento di una somma da L. 100.000 a L. 300.000, salvo che il fatto non sia previsto come reato dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi.
+I vettori, i mittenti ed i destinatari delle merci, gli spedizionieri e gli altri intermediari di trasporti, i quali non forniscono, nel termine che verra' ad essi prescritto, al Ministero dei trasporti e dell'aviazione civile - Direzione generale della motorizzazione civile e dei trasporti in concessione, od ai funzionari da questo dipendenti, tutte le informazioni o notizie ritenute necessarie ai fini dell'applicazione del [regolamento n. 1174/68](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968;1174), ovvero forniscono informazioni e notizie false, sono soggetti alla sanzione amministrativa del pagamento di una somma da L. 100.000 a L. 300.000, salvo che il fatto non sia previsto come reato dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi.
 
 ### Art. 13.
 
@@ -113,7 +113,7 @@ Il trasgressore e' ammesso a pagare, entro cinque giorni dalla contestazione o n
  L'opposizione si propone mediante ricorso. Il pretore fissa l'udienza di comparizione da tenersi nel termine di venti giorni, e dispone per la notifica del ricorso e del decreto, da attuarsi a cura della cancelleria.
  E' inappellabile la sentenza che decide la controversia.
  Salvo quanto previsto nei commi precedenti, decorso il termine
-prefissato per il pagamento, alla riscossione delle somme dovute si procede mediante esecuzione forzata con l'osservanza delle norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), sulla riscossione coattiva delle entrate patrimoniali dello Stato e degli altri enti pubblici.
+prefissato per il pagamento, alla riscossione delle somme dovute si procede mediante esecuzione forzata con l'osservanza delle norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), sulla riscossione coattiva delle entrate patrimoniali dello Stato e degli altri enti pubblici.
  L'obbligazione di pagare somme a titolo di sanzione amministrativa per la violazione delle disposizioni contenute nella presente legge non si trasmette agli eredi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto il [R. decreto n. 1490 del 28 dicembre 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-28;1490), che estende al servizio radiotelegrafico nel Regno le disposizioni della Convenzione radiotelegrafica internazionale di Londra del 1912;
 
-Visto il [R. decreto n. 2223 del 4 novembre 1919](Che%20disciplina%20la%20concessione%20dei%20brevetti%20internazionali%20di%20radiotelegrafia.%20019U2223.md);
+Visto il [R. decreto n. 2223 del 4 novembre 1919](../Regi%20decreti/Che%20disciplina%20la%20concessione%20dei%20brevetti%20internazionali%20di%20radiotelegrafia.%20019U2223.md);
 
 Visto il [R. decreto-legge n. 1786 del 5 dicembre 1920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-12-05;1786);
 
-Visto il [R. decreto 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), e successive modificazioni;
+Visto il [R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), e successive modificazioni;
 
 Visto il [R. decreto n. 1226 del 10 luglio 1921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-10;1226);
 
@@ -36,7 +36,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-La concessione di impiantare ed esercitare stazioni radioelettriche a bordo delle navi mercantili italiane, di cui al [R. decreto 8 febbraio 1923, n. 1067](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), non puo' essere accordata che a societa' aventi per iscopo l'impianto e l'esercizio di stazioni per comunicazioni senza filo. 
+La concessione di impiantare ed esercitare stazioni radioelettriche a bordo delle navi mercantili italiane, di cui al [R. decreto 8 febbraio 1923, n. 1067](../Regi%20decreti/Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md), non puo' essere accordata che a societa' aventi per iscopo l'impianto e l'esercizio di stazioni per comunicazioni senza filo. 
  
  Tali societa' devono essere costituite nel Regno con capitale prevalentemente italiano e devono avere la loro sede in Italia. 
  
@@ -96,7 +96,7 @@ Per conseguire l'autorizzazione di cui all'articolo precedente si richiedono le 
  
  2° essere munito del certificato di cui all'art. 6; 
  
- 3° non essere incorso in alcuna delle condanne indicate nell'art. 103 del testo unico della legge elettorale politica approvata con [R. decreto 17 gennaio 1926, n. 118](Approvazione%20del%20testo%20unico%20della%20legge%20elettorale%20politica.%20026U0118.md); 
+ 3° non essere incorso in alcuna delle condanne indicate nell'art. 103 del testo unico della legge elettorale politica approvata con [R. decreto 17 gennaio 1926, n. 118](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20elettorale%20politica.%20026U0118.md); 
  
  4° essere di costituzione fisica sana, adatta alle esigenze del servizio radiotelegrafico a bordo delle navi.
 
@@ -172,11 +172,11 @@ Le persone fisiche concessionarie di stazioni radioelettriche a bordo delle navi
 
 ## Art. 18.
 
-I radiotelegrafisti muniti di brevetto internazionale di radiotelegrafista rilasciato ai sensi del [R. decreto 4 novembre 1919, n. 2223](Che%20disciplina%20la%20concessione%20dei%20brevetti%20internazionali%20di%20radiotelegrafia.%20019U2223.md), dovranno, entro il periodo di cui all'articolo precedente, richiedere ed ottenere l'autorizzazione di cui all'art. 8 del presente decreto, comprovando di possedere i requisiti di cui al successivo art. 9 ad eccezione di quelli indicati nei comma 1 e 2.
+I radiotelegrafisti muniti di brevetto internazionale di radiotelegrafista rilasciato ai sensi del [R. decreto 4 novembre 1919, n. 2223](../Regi%20decreti/Che%20disciplina%20la%20concessione%20dei%20brevetti%20internazionali%20di%20radiotelegrafia.%20019U2223.md), dovranno, entro il periodo di cui all'articolo precedente, richiedere ed ottenere l'autorizzazione di cui all'art. 8 del presente decreto, comprovando di possedere i requisiti di cui al successivo art. 9 ad eccezione di quelli indicati nei comma 1 e 2.
 
 ## Art. 19.
 
-Sono abrogati: il [R. decreto n. 2223 del 4 novembre 1919, l'art. 6](Che%20disciplina%20la%20concessione%20dei%20brevetti%20internazionali%20di%20radiotelegrafia.%20019U2223.md) del [R. decreto-legge 5 dicembre 1920, n. 1786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-12-05;1786), ed ogni altra disposizione contraria al presente decreto.
+Sono abrogati: il [R. decreto n. 2223 del 4 novembre 1919, l'art. 6](../Regi%20decreti/Che%20disciplina%20la%20concessione%20dei%20brevetti%20internazionali%20di%20radiotelegrafia.%20019U2223.md) del [R. decreto-legge 5 dicembre 1920, n. 1786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-12-05;1786), ed ogni altra disposizione contraria al presente decreto.
 
 ## Art. 20.
 

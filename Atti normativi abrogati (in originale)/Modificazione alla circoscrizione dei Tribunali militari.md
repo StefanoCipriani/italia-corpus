@@ -14,7 +14,7 @@ Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto i [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto, l'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
+Visto, l'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -54,7 +54,7 @@ Il Tribunale militare territoriale di Trieste, istituito come Tribunale militare
 
 ### Art. 5. — (Sezione del Tribunale militare di Roma).
 
-Nel Tribunale militare territoriale di Roma funzionano due sezioni, secondo le disposizioni dell'art. 8, capoversi 2° e 3°, del [regio decreto 9 settembre 1941, numero 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022).
+Nel Tribunale militare territoriale di Roma funzionano due sezioni, secondo le disposizioni dell'art. 8, capoversi 2° e 3°, del [regio decreto 9 settembre 1941, numero 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md).
 
 ### Art. 6. — (Giurisdizione delle sezioni autonome di Catania e di Cagliari).
 
@@ -67,11 +67,11 @@ Ciascuna delle sezioni indicate nell'articolo precedente e' costituita da un pre
  L'ufficio del pubblico ministero presso ciascuna delle sezioni indicate nell'articolo precedente e' costituito da un vice procuratore militare, capo dell'ufficio, e da due o piu' sostituti procuratori militari appartenenti alla magistratura militare.
  L'ufficio di istruzione si compone di un giudice istruttore, appartenente alla magistratura militare.
  Le funzioni di cancelleria sono esercitate da cancellieri, appartenenti al personale della giustizia militare.
- Il procuratore generale militare esercita direttamente sulle sezioni indicate nell'articolo precedente le attribuzioni spettantegli per l'amministrazione della giustizia militare, ai termini dell'[art. 51 del regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022#art_51).
+ Il procuratore generale militare esercita direttamente sulle sezioni indicate nell'articolo precedente le attribuzioni spettantegli per l'amministrazione della giustizia militare, ai termini dell'[art. 51 del regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md).
 
 ### Art. 8. — (Ordinamento delle sezioni).
 
-Salvo quanto e' stabilito nel presente decreto, si osservano, per l'ordinamento delle sezioni indicate nell'articolo 5, in quanto applicabili, le disposizioni per i Tribunali militari territoriali prevedute dall'ordinamento giudiziario militare approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022), e dalle successive modificazioni.
+Salvo quanto e' stabilito nel presente decreto, si osservano, per l'ordinamento delle sezioni indicate nell'articolo 5, in quanto applicabili, le disposizioni per i Tribunali militari territoriali prevedute dall'ordinamento giudiziario militare approvato con [regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md), e dalle successive modificazioni.
  Continuano ad osservarsi per la sezione con sede in Catania le disposizioni di carattere transitorio degli [articoli 10](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md) e [14 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144](../Decreti%20legislativi%20luogotenenziali/Norme%20dirette%20a%20regolare%20il%20passaggio%20dallapplicazione%20della%20legge%20penale%20militare%20di%20guerra%20allapplicazione%20di%20quella%20di%20pace.md).
 
 ## Disposizioni transitorie.

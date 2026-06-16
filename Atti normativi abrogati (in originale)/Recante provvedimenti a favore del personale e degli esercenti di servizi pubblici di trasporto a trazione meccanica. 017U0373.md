@@ -64,7 +64,7 @@ Le disposizioni del decreto Luogotenenziale 17 febbraio 1916. n. 192 del [decret
 
 ## Art. 7.
 
-I servizi pubblici automobilistici sovvenzionati dallo Stato che, a termini dei rispettivi atti di concussione, venissero a scadere potranno dal ministro dei lavori pubblici essere prorogati sino a sei mesi dopo la pubblicazione della pace ed alle condizioni attuali, qualora persistano le condizioni di cui al capoverso dell'articolo 276 del testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447). 
+I servizi pubblici automobilistici sovvenzionati dallo Stato che, a termini dei rispettivi atti di concussione, venissero a scadere potranno dal ministro dei lavori pubblici essere prorogati sino a sei mesi dopo la pubblicazione della pace ed alle condizioni attuali, qualora persistano le condizioni di cui al capoverso dell'articolo 276 del testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md). 
  
  Resta stabilito che, in caso di rinnovazione della concessione dopo il termine suindicato, verra' computato nel novennio il periodo della proroga autorizzata in base al presente decreto. 
  

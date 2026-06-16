@@ -36,7 +36,7 @@ Per gli scopi di cui al precedente articolo e nei limiti della somma occorrente,
  
  La Giunta provinciale amministrativa, in conseguenza, provvedera' di ufficio alle necessarie variazioni nei bilanci dei Comuni predetti, e, qualora occorra, potra' deliberare, in sostituzione del Consiglio comunale, i mezzi per far fronte alla spesa. 
  
- All'emissione dei relativi mandati si potra' procedere nonostante gravame in deroga al disposto dell'art. 128 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297). 
+ All'emissione dei relativi mandati si potra' procedere nonostante gravame in deroga al disposto dell'art. 128 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

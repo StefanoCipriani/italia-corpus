@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la urgente necessita' di dare disposizioni sul patrocinio davanti le preture, in relazione alle norme contenute nella [legge 25 marzo 1926, n. 453](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md), e nel [R. decreto 6 maggio 1926, n. 747](Norme%20per%20il%20coordinamento%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20la%20legge%2025%20marzo%201926%20n.%20453%20sulla%20professione%20di%20avvocato%20e_67bfec9b61c9.md);
+Ritenuta la urgente necessita' di dare disposizioni sul patrocinio davanti le preture, in relazione alle norme contenute nella [legge 25 marzo 1926, n. 453](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md), e nel [R. decreto 6 maggio 1926, n. 747](../Regi%20decreti/Norme%20per%20il%20coordinamento%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20la%20legge%2025%20marzo%201926%20n.%20453%20sulla%20professione%20di%20avvocato%20e_67bfec9b61c9.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,13 +24,13 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1. — null
 
-Nei Comuni sedi di tribunale o capoluoghi di Provincia, il patrocinio innanzi alle preture, oltre che da avvocati e procuratori, potra' essere esercitato transitoriamente anche da coloro che attualmente siano iscritti nell'albo dei patrocinatori, giusta l'[art. 2 del R. decreto 6 settembre 1923, n. 1920](Proroga%20della%20data%20di%20entrata%20in%20vigore%20della%20legge%2015%20settembre%201922%20n.%201287%20che%20modifica%20la%20competenza%20dei%20pretori%20e%20dei%20conciliatori%20e%20stabilisce%20una%20norma%20transitoria%20per%20il%20patrocini_356cf2174d9d.md), salva la revisione di cui al successivo art. 4.
+Nei Comuni sedi di tribunale o capoluoghi di Provincia, il patrocinio innanzi alle preture, oltre che da avvocati e procuratori, potra' essere esercitato transitoriamente anche da coloro che attualmente siano iscritti nell'albo dei patrocinatori, giusta l'[art. 2 del R. decreto 6 settembre 1923, n. 1920](../Regi%20decreti/Proroga%20della%20data%20di%20entrata%20in%20vigore%20della%20legge%2015%20settembre%201922%20n.%201287%20che%20modifica%20la%20competenza%20dei%20pretori%20e%20dei%20conciliatori%20e%20stabilisce%20una%20norma%20transitoria%20per%20il%20patrocini_356cf2174d9d.md), salva la revisione di cui al successivo art. 4.
 
 ## Art. 2.
 
 Non possono essere iscritti negli albi dei patrocinatori legali, e, qualora vi siano iscritti, debbono esserne cancellati coloro che abbiano svolto una pubblica attivita' in contraddizione con gli interessi della Nazione. 
  
- Il rifiuto della iscrizione e la cancellazione sono pronunciati in conformita' della [legge 7 luglio 1901, n. 283](Onorari%20dei%20procuratori%20e%20patrocinio%20legale%20nelle%20preture.%20001U0283.md), e del [R. decreto 19 dicembre 1901, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-12-19;547).
+ Il rifiuto della iscrizione e la cancellazione sono pronunciati in conformita' della [legge 7 luglio 1901, n. 283](Onorari%20dei%20procuratori%20e%20patrocinio%20legale%20nelle%20preture.%20001U0283.md), e del [R. decreto 19 dicembre 1901, n. 547](../Regi%20decreti/Relativo%20alle%20norme%20per%20lesecuzione%20della%20legge%207%20luglio%201901%20n.%20283%20sugli%20onorari%20dei%20procuratori%20e%20sul%20patrocinio%20legale%20nelle%20preture.%20001U0547.md).
 
 ## Art. 3.
 

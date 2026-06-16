@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 febbraio 1929, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-28;315), col quale i comuni di Passerano, Primeglio, Schierano e Marmorito venivano riuniti in un solo comune denominato Passerano-Marmorito, con sede a Passerano; 
+ Visto il [R. decreto 28 febbraio 1929, n. 315](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Passerano%20e%20Primeglio-Schierano%20e%20di%20parte%20del%20comune%20di%20Marmorito%20in%20un%20unico%20Comune%20denominato%20%20Passerano-Marmorito%20%20e%20aggregazione%20al%20comune%20di%20Aramengo%20della%20ri_7c99153c187e.md), col quale i comuni di Passerano, Primeglio, Schierano e Marmorito venivano riuniti in un solo comune denominato Passerano-Marmorito, con sede a Passerano; 
  
  Vista la deliberazione del commissario prefettizio di detto Comune con la quale si chiede che per tutto il territorio del comune di Passerano-Marmorito funzioni un solo ufficio di conciliazione; 
  

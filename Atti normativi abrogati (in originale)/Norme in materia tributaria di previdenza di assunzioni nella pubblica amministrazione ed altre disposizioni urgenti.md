@@ -28,7 +28,7 @@ Titolo I
 
 1.
 
-L'ammontare della detrazione di cui al comma 1 dell'articolo 13 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato per l'anno 1988 a lire 516 mila e a partire dall'anno 1989 a lire 540 mila.
+L'ammontare della detrazione di cui al comma 1 dell'articolo 13 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato per l'anno 1988 a lire 516 mila e a partire dall'anno 1989 a lire 540 mila.
 
 2.
 
@@ -42,11 +42,11 @@ Ai fini dell'imposta sul reddito delle persone fisiche, la detrazione per il con
 
 2.
 
-L'ammontare della detrazione di cui al comma 1 cosi' come stabilito alla lettera a) del comma 1 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' ulteriormente elevato, per l'anno 1988, a lire 462 mila e, a partire dall'anno 1989, a lire 504 mila.
+L'ammontare della detrazione di cui al comma 1 cosi' come stabilito alla lettera a) del comma 1 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' ulteriormente elevato, per l'anno 1988, a lire 462 mila e, a partire dall'anno 1989, a lire 504 mila.
 
 3.
 
-Il limite di reddito di cui al comma 4 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato a lire 4 milioni a partire dall'anno 1988.
+Il limite di reddito di cui al comma 4 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' elevato a lire 4 milioni a partire dall'anno 1988.
 
 ### Art. 3.
 
@@ -86,12 +86,12 @@ Gli interessi previsti dalla [legge 26 gennaio 1961, n. 29](Norme%20per%20la%20d
 
 1.
 
-Nell'articolo 81, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, la lettera c)](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e' sostituita dalla seguente:
+Nell'articolo 81, comma 1, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, la lettera c)](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e' sostituita dalla seguente:
  "c) le plusvalenze realizzate mediante cessione a titolo oneroso di partecipazioni sociali, escluse quelle acquisite per successione o donazione, superiori al 2, al 5 o al 15 per cento del capitale della societa' secondo che si tratti di azioni ammesse alla borsa o al mercato ristretto, di altre azioni o di partecipazioni non azionarie, se il periodo di tempo intercorso tra la data dell'ultimo acquisto a titolo oneroso, o dell'ultima sottoscrizione per ammontare superiore a quello spettante in virtu' del diritto di opzione, e la data della cessione o della prima cessione non e superiore a cinque anni. La percentuale di partecipazione e' determinata tenendo conto di tutte le cessioni effettuate nel corso di dodici mesi ancorche' nei confronti di soggetti diversi; si considerano cedute per prime le partecipazioni acquisite in data piu' recente;".
 
 2.
 
-Il comma 5 dell'articolo 123 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' sostituito dal seguente:
+Il comma 5 dell'articolo 123 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' sostituito dal seguente:
  "5. Le perdite delle societa' che partecipano alla fusione, compresa la societa' incorporante, possono essere portate in diminuzione del reddito della societa' risultante dalla fusione o incorporante per la parte del loro ammontare che non eccede l'ammontare del rispettivo patrimonio netto quale risulta dalla situazione patrimoniale di cui all'[articolo 2502 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2502), senza tener conto dei conferimenti e versamenti fatti negli ultimi ventiquattro mesi anteriori alla data cui si riferisce la situazione stessa, e sempre che dal conto dei profitti e delle perdite della societa' le cui perdite sono riportabili, relativo all'esercizio precedente a quello in cui la fusione e' stata deliberata, risulti un ammontare di ricavi, di cui all'articolo 2425-bis, parte prima, n. 1, del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), e un ammontare delle spese per prestazioni di lavoro subordinato e relativi contributi, di cui all'articolo 2425-bis, parte seconda, n. 3, del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), superiore al 40 per cento di quello risultante dalla media degli ultimi due esercizi anteriori".
 
 3.
@@ -186,7 +186,7 @@ Agli effetti dell'[articolo 74-ter del decreto del Presidente della Repubblica 2
 
 1.
 
-I termini previsti per le dichiarazioni ed i versamenti da parte delle regioni, province, comuni e loro consorzi e dai consorzi di cui al [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), agli effetti dell'imposta sul valore aggiunto e delle imposte sui redditi per i periodi di imposta chiusi anteriormente al 1 gennaio 1988, sono differiti al 30 giugno 1988. Fino alla stessa data sono differiti anche i termini previsti per la fatturazione, la registrazione e per l'adempimento di tutti gli altri obblighi inerenti alle operazioni delle quali si deve tener conto nelle suddette dichiarazioni; a tal fine gli obblighi di fatturazione, di registrazione e gli altri obblighi relativi alle suddette operazioni si intendono comunque gia' adempiuti se le operazioni stesse risultano dalla contabilita' prescritta per gli enti pubblici territoriali.
+I termini previsti per le dichiarazioni ed i versamenti da parte delle regioni, province, comuni e loro consorzi e dai consorzi di cui al [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), agli effetti dell'imposta sul valore aggiunto e delle imposte sui redditi per i periodi di imposta chiusi anteriormente al 1 gennaio 1988, sono differiti al 30 giugno 1988. Fino alla stessa data sono differiti anche i termini previsti per la fatturazione, la registrazione e per l'adempimento di tutti gli altri obblighi inerenti alle operazioni delle quali si deve tener conto nelle suddette dichiarazioni; a tal fine gli obblighi di fatturazione, di registrazione e gli altri obblighi relativi alle suddette operazioni si intendono comunque gia' adempiuti se le operazioni stesse risultano dalla contabilita' prescritta per gli enti pubblici territoriali.
 
 ### Art. 14.
 
@@ -241,13 +241,13 @@ Fino alla data del 31 dicembre 1988:
                             b)
                                 per la determinazione dei compensi di lavoro dipendente e degli altri componenti ammessi in diminuzione a norma dei [commi 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_2-com9) e [10 dell'articolo 2 del decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853#art_2-com10), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), continuano ad applicarsi le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md);
                             c)
-                                ai fini delle plusvalenze da computare in aumento a norma del secondo periodo del comma 9 dell'articolo 2 del predetto [decreto-legge n. 853 del 1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984;853), si applica, in luogo della esclusione ivi prevista, la disposizione dell'articolo 54, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md);
+                                ai fini delle plusvalenze da computare in aumento a norma del secondo periodo del comma 9 dell'articolo 2 del predetto [decreto-legge n. 853 del 1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984;853), si applica, in luogo della esclusione ivi prevista, la disposizione dell'articolo 54, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md);
                             d)
                                 continuano ad applicarsi per gli enti non commerciali le disposizioni degli articoli 72 e 72-bis del citato decreto n. 597 del 1973.
 
 7.
 
-Fino alla stessa data del 31 dicembre 1988 e' sospesa l'applicazione degli articoli 50, comma 7, 79 e 80 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); e' altresi' sospesa, nei confronti dei contribuenti che fruiscono del regime di determinazione forfetaria del reddito a norma del presente decreto, l'applicazione della disposizione concernente i redditi derivanti dall'esercizio di attivita' organizzate prevalentemente con il lavoro del contribuente e dei suoi familiari contenuta nell'articolo 51, comma 2, lettera a), del predetto testo unico.
+Fino alla stessa data del 31 dicembre 1988 e' sospesa l'applicazione degli articoli 50, comma 7, 79 e 80 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); e' altresi' sospesa, nei confronti dei contribuenti che fruiscono del regime di determinazione forfetaria del reddito a norma del presente decreto, l'applicazione della disposizione concernente i redditi derivanti dall'esercizio di attivita' organizzate prevalentemente con il lavoro del contribuente e dei suoi familiari contenuta nell'articolo 51, comma 2, lettera a), del predetto testo unico.
 
 ### Art. 16.
 
@@ -263,7 +263,7 @@ Nel [comma 9 dell'articolo 3 del decreto-legge 19 dicembre 1984, n. 853](https:/
 
 1.
 
-I contratti di compravendita a contanti, a termine, pronti contro termine e di riporto aventi ad oggetto titoli di Stato o garantiti dallo Stato per un valore nominale non inferiore a 5 miliardi di lire, conclusi tra i soggetti ammessi a partecipare alle aste dei buoni ordinari del Tesoro, sono assoggettati alla tassa prevista dal [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni ed integrazioni, nelle seguenti misure per ogni contratto:
+I contratti di compravendita a contanti, a termine, pronti contro termine e di riporto aventi ad oggetto titoli di Stato o garantiti dallo Stato per un valore nominale non inferiore a 5 miliardi di lire, conclusi tra i soggetti ammessi a partecipare alle aste dei buoni ordinari del Tesoro, sono assoggettati alla tassa prevista dal [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni ed integrazioni, nelle seguenti misure per ogni contratto:
 
 =====================================================================
 Valore nominale   Contratti	             Contratti a termine,
@@ -296,7 +296,7 @@ Titolo II
 
 1.
 
-A decorrere dal 1 gennaio 1988, i premi ed i contributi relativi alle gestioni previdenziali ed assistenziali sono dovuti nella misura del 15 per cento dai datori di lavoro agricolo che impiegano operai a tempo indeterminato ed operai a tempo determinato nei territori montani di cui all'[articolo 9 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md). I predetti premi e contributi sono dovuti per i medesimi lavoratori dai datori di lavoro agricolo operanti nelle zone agricole svantaggiate, delimitate ai sensi dell'[articolo 15 della legge 27 dicembre 1977, n. 984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-27;984#art_15), nella misura del 40 per cento, e dai datori di lavoro operanti nelle zone agricole svantaggiate comprese nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), nella misura del 20 per cento.
+A decorrere dal 1 gennaio 1988, i premi ed i contributi relativi alle gestioni previdenziali ed assistenziali sono dovuti nella misura del 15 per cento dai datori di lavoro agricolo che impiegano operai a tempo indeterminato ed operai a tempo determinato nei territori montani di cui all'[articolo 9 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](../DPR/Disciplina%20delle%20agevolazioni%20tributarie.md). I predetti premi e contributi sono dovuti per i medesimi lavoratori dai datori di lavoro agricolo operanti nelle zone agricole svantaggiate, delimitate ai sensi dell'[articolo 15 della legge 27 dicembre 1977, n. 984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-27;984#art_15), nella misura del 40 per cento, e dai datori di lavoro operanti nelle zone agricole svantaggiate comprese nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), nella misura del 20 per cento.
 
 2.
 
@@ -371,7 +371,7 @@ In ogni caso le quote capitarie di cui all'[articolo 31 della legge 28 febbraio 
 
 1.
 
-Il personale supplente delle scuole di istruzione primaria e secondaria e degli istituti professionali e di istruzione artistica, di cui all'articolo 2, primo comma, punto b), del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e' assoggettato, a decorrere dal 1 gennaio 1988, alla ritenuta in conto entrata Tesoro nella misura e con le norme previste per i dipendenti civili e militari dello Stato. Dalla stessa data cessa per il personale medesimo l'iscrizione, ai fini di quiescenza, alla assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti.
+Il personale supplente delle scuole di istruzione primaria e secondaria e degli istituti professionali e di istruzione artistica, di cui all'articolo 2, primo comma, punto b), del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e' assoggettato, a decorrere dal 1 gennaio 1988, alla ritenuta in conto entrata Tesoro nella misura e con le norme previste per i dipendenti civili e militari dello Stato. Dalla stessa data cessa per il personale medesimo l'iscrizione, ai fini di quiescenza, alla assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti.
 
 2.
 
@@ -426,7 +426,7 @@ Per i nuclei familiari che comprendono soggetti che si trovano a causa di inferm
 
 3.
 
-Si osservano, per quanto non previsto dal presente decreto, le norme contenute nel testo unico sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni e integrazioni, nonche' le norme che disciplinano nell'ambito dei rispettivi ordinamenti le materie delle quote di aggiunta di famiglia e di ogni altro trattamento di famiglia comunque denominato.
+Si osservano, per quanto non previsto dal presente decreto, le norme contenute nel testo unico sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni e integrazioni, nonche' le norme che disciplinano nell'ambito dei rispettivi ordinamenti le materie delle quote di aggiunta di famiglia e di ogni altro trattamento di famiglia comunque denominato.
 
 4.
 

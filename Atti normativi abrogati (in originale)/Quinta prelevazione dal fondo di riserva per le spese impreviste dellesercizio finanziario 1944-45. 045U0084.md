@@ -16,7 +16,7 @@ UMBERTO DI SAVOIA
  
 In virtu' dell'autorita' a Noi delegata; 
 Visti i [Regi decreti-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md), e [29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md); 
-Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
+Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
 Ritenuta la necessita' di assicurare i servizi dell'Amministrazione; 
 Visto il [decreto legislativo Luogotenenziale 31 dicembre 1944, n. 492](Approvazione%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20dei%20singoli%20Ministeri%20e%20del%20bilanci%20delle%20Amministrazioni%20autonome%20per%20lesercizio%20finanziario%201944-45.%20044U0492.md); 
 Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1944-1945 sono disponibili L. 26.950.000; 

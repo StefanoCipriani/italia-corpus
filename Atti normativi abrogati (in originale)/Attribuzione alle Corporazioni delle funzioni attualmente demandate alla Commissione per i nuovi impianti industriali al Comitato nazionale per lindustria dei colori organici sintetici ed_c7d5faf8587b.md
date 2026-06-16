@@ -20,7 +20,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 12 gennaio 1933, n. 141](Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md), con la quale furono delegati al Governo del Re i poteri per sottoporre ad autorizzazione i nuovi impianti industriali nonche' l'ampliamento di stabilimenti industriali esistenti:
 
-Visto il [R. decreto 15 maggio 1933, n. 590](Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md), contenente le norme di attuazione della legge predetta:
+Visto il [R. decreto 15 maggio 1933, n. 590](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md), contenente le norme di attuazione della legge predetta:
 
 Visto il [R. decreto-legge 13 agosto 1933, n. 1100](Costituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20dellazoto.%20033U1100.md), convertito nella [legge 5 febbraio 1934, n. 390](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20agosto%201933%20n.%201100%20concernente%20la%20costituzione%20presso%20il%20Ministero%20delle%20corporazioni%20di%20un%20Comitato%20dellazoto.%20034U0390.md), col quale fu istituito il Comitato dell'azoto:
 

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), sul riordinamento delle circoscrizioni provinciali;
 
-Visto il [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163);
+Visto il [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md);
 
-Visto il [R. decreto 7 luglio 1927, n. 1196](Passaggio%20allAmministrazione%20provinciale%20di%20Napoli%20delle%20funzioni%20della%20soppressa%20Amministrazione%20provinciale%20di%20Caserta%20per%20la%20definizione%20dei%20negozi%20giuridici%20in%20corso%20e%20per%20la%20liquidaz_1bf4fd8f8675.md);
+Visto il [R. decreto 7 luglio 1927, n. 1196](../Regi%20decreti/Passaggio%20allAmministrazione%20provinciale%20di%20Napoli%20delle%20funzioni%20della%20soppressa%20Amministrazione%20provinciale%20di%20Caserta%20per%20la%20definizione%20dei%20negozi%20giuridici%20in%20corso%20e%20per%20la%20liquidaz_1bf4fd8f8675.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -40,7 +40,7 @@ L'archivio provinciale di Caserta e' trasformato in Archivio di Stato, e messo a
 
 ## Art. 2.
 
-Il personale attualmente addetto all'archivio provinciale di Caserta, qualora risulti regolarmente nominato ai sensi degli [articoli 121 e seguenti del R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163#art_121), sara' assorbito nei ruoli del personale degli archivi di Stato, secondo il grado che riveste, conservando eventualmente a titolo di assegno personale, da riassorbire con successivi aumenti, la differenza fra lo stipendio ed assegni annessi ai posti di ruolo che andra' ad occupare e lo stipendio ed assegni attualmente percepiti.
+Il personale attualmente addetto all'archivio provinciale di Caserta, qualora risulti regolarmente nominato ai sensi degli [articoli 121 e seguenti del R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), sara' assorbito nei ruoli del personale degli archivi di Stato, secondo il grado che riveste, conservando eventualmente a titolo di assegno personale, da riassorbire con successivi aumenti, la differenza fra lo stipendio ed assegni annessi ai posti di ruolo che andra' ad occupare e lo stipendio ed assegni attualmente percepiti.
 
 ## Art. 3.
 

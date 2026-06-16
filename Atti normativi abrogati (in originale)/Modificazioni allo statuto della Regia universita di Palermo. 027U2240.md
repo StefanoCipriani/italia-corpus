@@ -66,7 +66,7 @@ La statuto della Regia universita' di Palermo, approvata col Nostro decreto 14 o
  
  Art. 38. - Si aggiunga il seguente comma: 
  
- «Ai fini della disposizione contenuta nell'[art. 8 del R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683#art_8), nel Seminario si svolgono anche esercitazioni nelle seguenti discipline: 
+ «Ai fini della disposizione contenuta nell'[art. 8 del R. decreto 26 agosto 1926, n. 1683](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20marzo%201926%20n.%20453%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U1683.md), nel Seminario si svolgono anche esercitazioni nelle seguenti discipline: 
  
  Pratica di diritto privato e procedura civile; 
  

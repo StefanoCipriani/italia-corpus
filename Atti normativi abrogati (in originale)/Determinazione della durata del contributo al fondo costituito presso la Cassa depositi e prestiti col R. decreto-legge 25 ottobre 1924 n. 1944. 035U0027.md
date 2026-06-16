@@ -18,7 +18,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita' urgente ed assoluta di rivedere l'onore portato dall'[art. 9 del R. decreto-legge 25 ottobre 1924, n. 1944](Disposizioni%20per%20fornire%20agli%20impiegati%20dello%20Stato%20civili%20e%20militari%20alloggi%20a%20condizioni%20favorevoli.%20024U1944.md), onde l'Opera di previdenza del personale civile e militare dello Stato possa adeguatamente assolvere i compiti di assistenza demandatile dalla legge a favore degli iscritti e dei loro superstiti:
 
-Visto il testo unico approvato con [R. decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619);
+Visto il testo unico approvato con [R. decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md);
 
 Sentito il Consiglio dei Ministri;
 

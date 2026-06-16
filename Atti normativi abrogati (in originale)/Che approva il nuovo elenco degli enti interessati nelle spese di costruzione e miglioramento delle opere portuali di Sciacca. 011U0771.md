@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti i ricorsi 31 dicembre 1906 e 28 febbraio 1907, con i quali il comune di Menfi chiese di essere escluso dal novero degli enti interessati nelle spese del porto di Sciacca, compresi nell'elenco approvato con [R. decreto 7 agosto 1887, n. 5053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-08-07;5053); 
+ Visti i ricorsi 31 dicembre 1906 e 28 febbraio 1907, con i quali il comune di Menfi chiese di essere escluso dal novero degli enti interessati nelle spese del porto di Sciacca, compresi nell'elenco approvato con [R. decreto 7 agosto 1887, n. 5053](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%201ª%20e%202ª%20categoria%20e%20nelle%20corrispondenti%20classi%20dei%20cinquanta%20porti%20indicati%20negli%20annessi%20elenchi.%20087U5053.md); 
  
  Viste le opposizioni presentate dai comuni di Villa-franca Sicula, Calamonaci, Sant'Angelo Muxaro, Bivona, Ribera, Santo Stefano Quisquina, Burgio, Caltabellotta, Alessandria della Rocca e Lucca Sicula contro la loro inclusione nel nuovo elenco di contributo al porto suddetto; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Udito il Consiglio di Stato; 
  
- Visto il testo unico della [legge 16 luglio 1884, numero 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato con [R. decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095), e il relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713); 
+ Visto il testo unico della [legge 16 luglio 1884, numero 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), e il relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713); 
  
  Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici; 
  

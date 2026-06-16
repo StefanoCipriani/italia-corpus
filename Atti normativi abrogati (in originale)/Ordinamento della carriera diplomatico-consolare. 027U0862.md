@@ -19,7 +19,7 @@ Alla carriera diplomatico-consolare si accede mediante esame di concorso, a cui 
  a) essere cittadino italiano, col godimento dei diritti politici.
 Sono equiparati ai cittadini dello Stato, per gli effetti della presente legge, gli italiani non regnicoli e coloro pei quali tale equiparazione sia riconosciuta con decreto Reale in occasione di singoli consensi. 
  
- Nulla e' innovato alle disposizioni concernenti gli effetti della cittadinanza conferita ai nativi della Tripolitania e della Cirenaica, ai sensi dei [Regi decreti 1° giugno 1919, n. 931](Che%20approva%20le%20norme%20fondamentali%20per%20lassetto%20della%20Tripolitania.%20019U0931.md), e [6 novembre 1919, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-06;240); 
+ Nulla e' innovato alle disposizioni concernenti gli effetti della cittadinanza conferita ai nativi della Tripolitania e della Cirenaica, ai sensi dei [Regi decreti 1° giugno 1919, n. 931](../Regi%20decreti/Che%20approva%20le%20norme%20fondamentali%20per%20lassetto%20della%20Tripolitania.%20019U0931.md), e [6 novembre 1919, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-06;240); 
  
  b) eta' non minore di 21 anni, ne' maggiore di 30; 
  
@@ -119,13 +119,13 @@ Dieci dei posti di ministro plenipotenziario di 1ª classe sono riservati ai con
 
 ## Art. 15.
 
-E' vietato il conferimento di titoli onorifici di qualsiasi grado dell'Amministrazione degli affari esteri, salvo nei casi di cessazione di servizio, giusta l'[art. 103 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_103), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato. 
+E' vietato il conferimento di titoli onorifici di qualsiasi grado dell'Amministrazione degli affari esteri, salvo nei casi di cessazione di servizio, giusta l'[art. 103 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato. 
  
  E' vietato parimenti il conferimento di incarichi e di accreditamenti di qualsiasi genere, a titolo onorifico, presso i Regi uffici diplomatici e consolari all'estero. Coloro che in atto hanno incarichi ed accreditamenti di tale genere cessano da essi.
 
 ## Art. 16.
 
-Sono abrogati i [Regi decreti 30 dicembre 1923, n. 2803](Riordinamento%20della%20carriera%20diplomatico%20consolare.%20023U2803.md), [10 gennaio 1924, n. 26](Trasferimento%20di%20funzionari%20dal%20ruolo%20consolare%20a%20quello%20diplomatico.%20024U0026.md), [24 gennaio 1924, n. 101](Norme%20per%20i%20concorsi%20ai%20posti%20di%20consigliere%20di%20Legazione%20di%202ª%20classe%20e%20di%20console%20di%202%20classe.%20024U0101.md), [28 febbraio 1924, n. 328](Reclutamento%20normale%20del%20ruolo%20diplomatico%20dal%20ruolo%20consolare.%20024U0328.md), [20 marzo 1924, n. 384](Norme%20per%20la%20posizione%20di%20carriera%20dei%20funzionari%20dei%20ruoli%20di%20diplomatico%20e%20consolare.%20024U0384.md), e tutte le disposizioni contrarie alla presente legge.
+Sono abrogati i [Regi decreti 30 dicembre 1923, n. 2803](../Regi%20decreti/Riordinamento%20della%20carriera%20diplomatico%20consolare.%20023U2803.md), [10 gennaio 1924, n. 26](../Regi%20decreti/Trasferimento%20di%20funzionari%20dal%20ruolo%20consolare%20a%20quello%20diplomatico.%20024U0026.md), [24 gennaio 1924, n. 101](../Regi%20decreti/Norme%20per%20i%20concorsi%20ai%20posti%20di%20consigliere%20di%20Legazione%20di%202ª%20classe%20e%20di%20console%20di%202%20classe.%20024U0101.md), [28 febbraio 1924, n. 328](../Regi%20decreti/Reclutamento%20normale%20del%20ruolo%20diplomatico%20dal%20ruolo%20consolare.%20024U0328.md), [20 marzo 1924, n. 384](../Regi%20decreti/Norme%20per%20la%20posizione%20di%20carriera%20dei%20funzionari%20dei%20ruoli%20di%20diplomatico%20e%20consolare.%20024U0384.md), e tutte le disposizioni contrarie alla presente legge.
 
 ## Art. 17.
 

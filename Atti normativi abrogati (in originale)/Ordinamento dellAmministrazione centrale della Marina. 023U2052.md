@@ -72,7 +72,7 @@ Il Ministero della marina, per la parte riguardante i servizi militari marittimi
 
 ## Art. 5.
 
-La ragioneria centrale del Ministero della marina - retta da un direttore capo di ragioneria - ha rapporti di servizio con gli uffici di questo Ministero, ma dipende dal Ministero delle finanze, giusta il disposto del [R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599).
+La ragioneria centrale del Ministero della marina - retta da un direttore capo di ragioneria - ha rapporti di servizio con gli uffici di questo Ministero, ma dipende dal Ministero delle finanze, giusta il disposto del [R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md).
 
 ## Art. 6.
 

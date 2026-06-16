@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), col quale il comune di Rieti e' divenuto capoluogo di Provincia; 
  
- Visto il [R. decreto 12 gennaio 1928, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-12;74), col quale i comuni di Contigliano, Poggio Fidoni, Cantalice e Vazia (gia' Lugnano di Villa Troiana) sono stati aggregati al comune di Rieti; 
+ Visto il [R. decreto 12 gennaio 1928, n. 74](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Cantalice%20Contigliano%20Poggio%20Fidoni%20e%20Vazia%20al%20comune%20di%20Rieti.%20028U0074.md), col quale i comuni di Contigliano, Poggio Fidoni, Cantalice e Vazia (gia' Lugnano di Villa Troiana) sono stati aggregati al comune di Rieti; 
  
  Visto l'[art. 1 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md), per effetto del quale i Comuni divenuti capoluogo di Provincia, le cui scuole elementari erano governate dall'Amministrazione scolastica, hanno assunto la diretta amministrazione delle scuole stesse, a decorrere dal 1° luglio 1928; 
  

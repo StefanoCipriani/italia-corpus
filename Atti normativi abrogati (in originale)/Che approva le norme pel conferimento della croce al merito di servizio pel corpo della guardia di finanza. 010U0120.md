@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 19 luglio 1906, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-19;367), sull'ordinamento della R. guardia di finanza, modificata a' termini della [legge 12 luglio 1908, n. 427](Provvedimenti%20per%20la%20R.%20guardia%20di%20finanza.%20008U0427.md);
 
-Visto il [R. decreto 26 agosto 1905, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-08-26;489), col quale fu istituita una croce al merito di servizio per i componenti il corpo anzidetto;
+Visto il [R. decreto 26 agosto 1905, n. 489](../Regi%20decreti/Concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20servizio%20per%20le%20guardie%20di%20finanza.%20005U0489.md), col quale fu istituita una croce al merito di servizio per i componenti il corpo anzidetto;
 
 Visto il [R. decreto 16 maggio 1907, n. 283](Modificazioni%20al%20R.%20decreto%20col%20quale%20fu%20istituita%20una%20Croce%20al%20merito%20di%20servizio%20per%20i%20componenti%20la%20guardia%20di%20finanza.%20007U0283.md), col quale furono introdotte modificazioni alle norme per il conferimento della croce al merito;
 

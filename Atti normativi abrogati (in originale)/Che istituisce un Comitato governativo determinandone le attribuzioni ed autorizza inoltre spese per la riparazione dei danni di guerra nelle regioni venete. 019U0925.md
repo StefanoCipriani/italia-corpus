@@ -161,7 +161,7 @@ Di tali aperture sussidiarie verra' dai delegati reso conto al Comitato governat
 
 ### Art. 14.
 
-Per la esecuzione dei lavori previsti nell'art. 8 sono richiamate in vigore le disposizioni dell'[art. 7 del R. decreto 6 febbraio 1909, n. 44](Che%20autorizza%20lo%20sgombero%20delle%20macerie%20e%20dei%20materiali%20caduti%20o%20che%20potessero%20ancora%20cadere%20sulle%20aree%20pubbliche%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0044.md), e quelle del [R. decreto 6 maggio 1909, n. 255](Portante%20disposizioni%20circa%20il%20risarcimento%20dei%20danni%20cagionati%20dalle%20demolizioni%20dei%20luoghi%20colpiti%20dal%20terremoto.%20009U0255.md), convertiti nella [legge 21 luglio 1910, n. 579](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20decreti%20Reali%20sul%20terremoto%20del%2028%20dicembre%201908.%20010U0579.md).
+Per la esecuzione dei lavori previsti nell'art. 8 sono richiamate in vigore le disposizioni dell'[art. 7 del R. decreto 6 febbraio 1909, n. 44](../Regi%20decreti/Che%20autorizza%20lo%20sgombero%20delle%20macerie%20e%20dei%20materiali%20caduti%20o%20che%20potessero%20ancora%20cadere%20sulle%20aree%20pubbliche%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0044.md), e quelle del [R. decreto 6 maggio 1909, n. 255](../Regi%20decreti/Portante%20disposizioni%20circa%20il%20risarcimento%20dei%20danni%20cagionati%20dalle%20demolizioni%20dei%20luoghi%20colpiti%20dal%20terremoto.%20009U0255.md), convertiti nella [legge 21 luglio 1910, n. 579](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20decreti%20Reali%20sul%20terremoto%20del%2028%20dicembre%201908.%20010U0579.md).
 
 ### Art. 15.
 

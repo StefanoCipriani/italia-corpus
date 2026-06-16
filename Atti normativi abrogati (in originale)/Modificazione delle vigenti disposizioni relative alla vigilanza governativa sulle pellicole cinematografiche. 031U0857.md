@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'esame dei copioni e la revisione delle pellicole cinematografiche agli effetti del [R. decreto 24 settembre 1923 numero 3287](Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), modificato dal [R. decreto 18 settembre 1924, numero 1682](Modificazioni%20al%20nuovo%20regolamento%20per%20la%20vigilanza%20sulle%20pellicole%20cinematografiche%20approvato%20con%20R.%20decreto%2024%20settembre%201923%20n.%203287.%20024U1682.md), e dalle [leggi 16 giugno 1927, n. 1121, e 24 giugno 1929, n. 1103](Modifiche%20alle%20vigenti%20disposizioni%20relative%20alla%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20029U1103.md), sono affidati a Commissioni composte: 
+L'esame dei copioni e la revisione delle pellicole cinematografiche agli effetti del [R. decreto 24 settembre 1923 numero 3287](../Regi%20decreti/Regolamento%20per%20la%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20023U3287.md), modificato dal [R. decreto 18 settembre 1924, numero 1682](../Regi%20decreti/Modificazioni%20al%20nuovo%20regolamento%20per%20la%20vigilanza%20sulle%20pellicole%20cinematografiche%20approvato%20con%20R.%20decreto%2024%20settembre%201923%20n.%203287.%20024U1682.md), e dalle [leggi 16 giugno 1927, n. 1121, e 24 giugno 1929, n. 1103](Modifiche%20alle%20vigenti%20disposizioni%20relative%20alla%20vigilanza%20governativa%20sulle%20pellicole%20cinematografiche.%20029U1103.md), sono affidati a Commissioni composte: 
  
  a) di un funzionario del gruppo A dell'Amministrazione dell'interno appartenente alla Direzione generale pubblica sicurezza, con funzioni di presidente; 
  

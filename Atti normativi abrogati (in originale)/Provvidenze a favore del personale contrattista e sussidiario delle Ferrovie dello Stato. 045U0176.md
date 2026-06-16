@@ -28,7 +28,7 @@ Art. 19. - «Durante le assenze per malattia accertate dai sanitari dell'Amminis
 
 ## Art. 2.
 
-L'[art. 17 del R. decreto 29 gennaio 1942, n. 286](Approvazione%20del%20regolamento%20per%20le%20concessioni%20di%20viaggio%20sulle%20Ferrovie%20dello%20Stato.%20042U0286.md), che approva il regolamento per le concessioni di viaggio sulle Ferrovie dello Stato, e' cosi' modificato: 
+L'[art. 17 del R. decreto 29 gennaio 1942, n. 286](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20concessioni%20di%20viaggio%20sulle%20Ferrovie%20dello%20Stato.%20042U0286.md), che approva il regolamento per le concessioni di viaggio sulle Ferrovie dello Stato, e' cosi' modificato: 
  
  «Al personale in attivita' di servizio delle Ferrovie dello Stato spettano per ogni anno solare: 
  

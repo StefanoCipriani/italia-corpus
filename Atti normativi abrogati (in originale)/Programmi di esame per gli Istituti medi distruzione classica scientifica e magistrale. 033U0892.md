@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 85 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_85);
+Veduto l'[art. 85 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Veduto il [Regio decreto 5 novembre 1930, n. 1467](Modificazioni%20agli%20orari%20e%20programmi%20delle%20scuole%20medie.%20030U1467.md), col quale furono approvati alcuni programmi di esame per gli istituti medi d'istruzione;
 

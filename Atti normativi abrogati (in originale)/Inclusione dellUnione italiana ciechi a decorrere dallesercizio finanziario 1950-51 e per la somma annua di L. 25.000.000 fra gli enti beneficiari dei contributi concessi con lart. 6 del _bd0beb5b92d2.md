@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-All'[art. 6 del regio decreto legislativo 30 maggio 1946, n. 538](Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), e' aggiunta la seguente lettera: d) a favore dell'Unione italiana dei ciechi per l'avviamento al lavoro dei privi di vista, lire 25 milioni.
+All'[art. 6 del regio decreto legislativo 30 maggio 1946, n. 538](../Regi%20decreti%20legislativi/Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), e' aggiunta la seguente lettera: d) a favore dell'Unione italiana dei ciechi per l'avviamento al lavoro dei privi di vista, lire 25 milioni.
 
 ## Art. 2.
 

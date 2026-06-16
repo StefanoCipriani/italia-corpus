@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e successive modificazioni;
+Visto il testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e successive modificazioni;
 
 Visto il [decreto Luogotenenziale 21 marzo 1918, numero 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-21;427);
 

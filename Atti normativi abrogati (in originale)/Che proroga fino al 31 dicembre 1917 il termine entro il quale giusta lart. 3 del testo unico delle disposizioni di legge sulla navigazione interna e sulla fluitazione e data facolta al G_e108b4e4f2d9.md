@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;959);
+Visto il testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md);
 
 Vista la [legge 8 aprile 1915, n. 508](Concernente%20lesecuzione%20di%20opere%20di%20navigazione%20interna%20e%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%203%20e%2079%20del%20testo%20unico%2011%20luglio%201913%20n.%20959%20delle%20disposizioni%20di%20legge%20sulla%20navigazio_0fae9839d1f6.md), che proroga il termine stabilito dall'art. 3 del precitato testo unico per la classificazione delle vie navigabili esistenti o da costruire;
 
@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici; Abbiamo d
 
 ## Articolo unico.
 
-Il termine entro il quale, giusta l'art. 3 del testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;959), e' data facolta' al Governo del Re di provvedere all'iscrizione nelle rispettive classi delle vie navigabili esistenti o da costruire, gia' prorogato di due anni con l'[art. 9 della legge 8 aprile 1915, n. 508](Concernente%20lesecuzione%20di%20opere%20di%20navigazione%20interna%20e%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%203%20e%2079%20del%20testo%20unico%2011%20luglio%201913%20n.%20959%20delle%20disposizioni%20di%20legge%20sulla%20navigazio_0fae9839d1f6.md), e' ulteriormente prorogato fino al 31 dicembre 1917. 
+Il termine entro il quale, giusta l'art. 3 del testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md), e' data facolta' al Governo del Re di provvedere all'iscrizione nelle rispettive classi delle vie navigabili esistenti o da costruire, gia' prorogato di due anni con l'[art. 9 della legge 8 aprile 1915, n. 508](Concernente%20lesecuzione%20di%20opere%20di%20navigazione%20interna%20e%20proroga%20dei%20termini%20di%20cui%20agli%20articoli%203%20e%2079%20del%20testo%20unico%2011%20luglio%201913%20n.%20959%20delle%20disposizioni%20di%20legge%20sulla%20navigazio_0fae9839d1f6.md), e' ulteriormente prorogato fino al 31 dicembre 1917. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

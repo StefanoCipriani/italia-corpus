@@ -90,7 +90,7 @@ Qualora si eseguisca deposito in carta bollata e questa non venga interamente im
  
  Il conciliatore deve vegliare alla osservanza di questa prescrizione. 
  
- Il cancelliere che ometta o ritardi di oltre quindici giorni la spedizione di detto avviso incorrera' nella pena pecuniaria da lire cinque a cinquanta, da applicarsi dal pretore sull'istanza del procuratore del Re o da chi funge da pubblico ministero presso le preture, sentito il funzionario, e salve le pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di appropriazione del deposito.
+ Il cancelliere che ometta o ritardi di oltre quindici giorni la spedizione di detto avviso incorrera' nella pena pecuniaria da lire cinque a cinquanta, da applicarsi dal pretore sull'istanza del procuratore del Re o da chi funge da pubblico ministero presso le preture, sentito il funzionario, e salve le pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nel caso di appropriazione del deposito.
 
 ## Art. 14.
 

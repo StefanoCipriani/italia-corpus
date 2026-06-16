@@ -45,7 +45,7 @@ La liquidazione delle attivita' e delle passivita' del Consorzio esistenti alla 
 
 ## Art. 4.
 
-Col 1° agosto 1932 la gestione dei magazzini del Consorzio obbligatorio per l'industria solfifera siciliana sara' assunta dal Consorzio per i magazzini generali della Sicilia, istituito con [R. decreto 19 aprile 1925, n. 522](Costituzione%20del%20Consorzio%20per%20i%20magazzini%20generali%20della%20Sicilia%20in%20Palermo.%20025U0522.md). 
+Col 1° agosto 1932 la gestione dei magazzini del Consorzio obbligatorio per l'industria solfifera siciliana sara' assunta dal Consorzio per i magazzini generali della Sicilia, istituito con [R. decreto 19 aprile 1925, n. 522](../Regi%20decreti/Costituzione%20del%20Consorzio%20per%20i%20magazzini%20generali%20della%20Sicilia%20in%20Palermo.%20025U0522.md). 
  Le condizioni e le modalita' di questo passaggio, compreso il trattamento del personale che potra' rimanere adibito ai magazzini predetti, formera' oggetto di apposita convenzione fra il Consorzio per i magazzini generali della Sicilia ed il Consorzio obbligatorio per l'industria solfifera siciliana. 
  Detta convenzione dovra' essere sottoposta all'approvazione del Ministero delle corporazioni, di concerto con quello delle finanze. 
  Le spese per la custodia e l'assicurazione contro gli incendi, nonche' quelle per la consegna ai compratori degli zolfi costituenti lo stock esistente al 31 luglio 1932 nei magazzini predetti, saranno anticipate dal Consorzio per i magazzini generali della Sicilia e ad esso rimborsate trimestralmente dal Consorzio in liquidazione.
@@ -91,7 +91,7 @@ Con decreto Reale, su proposta del Ministro per le corporazioni, di concerto con
 
 Con Regio decreto, da emanarsi sentito il Consiglio dei Ministri, saranno stabilite le norme per regolare la riscossione dei vari contributi per le assicurazioni sociali degli operai e per il trattamento di previdenza del personale impiegatizio delle solfare siciliane, riscossione finora demandata al Consorzio per l'industria solfifera siciliana da leggi o regolamenti speciali. 
  Tuttavia, fino all'emanazione del predetto Regio decreto, restano in vigore le norme vigenti per la commisurazione dei suddetti contributi; ed i concessionari e gli esercenti delle miniere di zolfo della Sicilia, sono tenuti a denunziare al Sindacato obbligatorio siciliano infortuni solfare il quantitativo dello zolfo prodotto mensilmente, a decorrere dal 1° agosto 1932, ed a versare ai competenti Istituti nel mese successivo alla produzione i relativi contributi. 
- Le denuncie di cui al precedente comma sono controllate dall'ufficio distrettuale delle miniere di Caltanissetta; ed in caso di omessa od incompleta denuncia si applicano al produttore inadempiente le sanzioni stabilite dal [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184).
+ Le denuncie di cui al precedente comma sono controllate dall'ufficio distrettuale delle miniere di Caltanissetta; ed in caso di omessa od incompleta denuncia si applicano al produttore inadempiente le sanzioni stabilite dal [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md).
 
 ## Art. 13.
 

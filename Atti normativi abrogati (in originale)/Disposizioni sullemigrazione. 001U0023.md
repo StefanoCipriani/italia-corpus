@@ -46,7 +46,7 @@ Chi abbandoni in paese straniero minori degli anni diciassette, avuti in consegn
  
  Se il minore non abbia compiuto quattordici anni, la pena sara' aumentata della meta'. 
  
- L'imputato, cittadino o straniero, sara' giudicato a richiesta del Ministro della giustizia o a querela di parte; e se gia' fu, per lo stesso reato, giudicato all'estero, si applicheranno le disposizioni degli [articoli 7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [8 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ L'imputato, cittadino o straniero, sara' giudicato a richiesta del Ministro della giustizia o a querela di parte; e se gia' fu, per lo stesso reato, giudicato all'estero, si applicheranno le disposizioni degli [articoli 7](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [8 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 5. — null
 
@@ -198,7 +198,7 @@ Il vettore d'emigranti puo', con lettera diretta al Commissariato, che sentira' 
 
 E' vietato al vettore e ai suoi rappresentanti di eccitare pubblicamente ad emigrare. 
  
- Ferma la disposizione dell'[articolo 416 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque con manifesti, circolari o guide concernenti l'emigrazione, pubblica scientemente notizie o indicazioni false, o diffonde nel Regno notizie o indicazioni di tale natura stampate all'estero, e' punito con la reclusione fino a sei mesi e con la multa fino a lire mille. 
+ Ferma la disposizione dell'[articolo 416 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque con manifesti, circolari o guide concernenti l'emigrazione, pubblica scientemente notizie o indicazioni false, o diffonde nel Regno notizie o indicazioni di tale natura stampate all'estero, e' punito con la reclusione fino a sei mesi e con la multa fino a lire mille. 
  
  Le circolari e gli annunzi di qualunque specie, fatti da parte dei vettori, dovranno indicare: la stazza lorda e netta e la velocita' dei piroscafi, la data della partenza, gli scali e la durata dell'intero viaggio di andata.
 

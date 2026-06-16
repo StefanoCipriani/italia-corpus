@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[art. 5 della legge 12 dicembre 1962, n. 1562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-12;1562#art_5), concernente delega al Governo per il riordinamento del Ministero della difesa e degli Stati maggiori e per la revisione delle leggi sul reclutamento e sulla circoscrizione dei Tribunali militari territoriali;
 
-Visto il [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022), concernente l'ordinamento giudiziario militare, e successive modificazioni;
+Visto il [regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md), concernente l'ordinamento giudiziario militare, e successive modificazioni;
 
 Udito il parere del Consiglio superiore delle forze armate;
 

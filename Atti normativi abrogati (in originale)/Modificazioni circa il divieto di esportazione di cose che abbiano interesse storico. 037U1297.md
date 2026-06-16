@@ -38,7 +38,7 @@ E' abrogata la disposizione di cui all'[art. 8 della legge 20 giugno 1909, n. 36
 
 ## Art. 2.
 
-Per l'esportazione delle cose di cui al 1° comma dell'articolo precedente, restano ferme le norme di procedura e di controllo stabilite dalla [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), e successive modificazioni, nonche' dal relativo regolamento approvato con [R. decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e successive modificazioni.
+Per l'esportazione delle cose di cui al 1° comma dell'articolo precedente, restano ferme le norme di procedura e di controllo stabilite dalla [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), e successive modificazioni, nonche' dal relativo regolamento approvato con [R. decreto 30 gennaio 1913, n. 363](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e successive modificazioni.
 
 ## Art. 3.
 

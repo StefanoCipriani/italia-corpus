@@ -222,7 +222,7 @@ Le concessioni di cittadinanza italiana comunque fatte ad ebrei stranieri poster
 
 Gli ebrei stranieri e quelli nei cui confronti si applica l'art. 23, i quali abbiano iniziato il loro soggiorno nel Regno, in Libia e nei Possedimenti dell'Egeo posteriormente al 1° gennaio 1919, debbono lasciare il territorio del Regno, della Libia e dei Possedimenti dell'Egeo entro il 12 marzo 1939-XVII. 
  
- Coloro che non avranno ottemperato a tale obbligo entro il termine suddetto saranno puniti con l'arresto fino a tre mesi o con l'ammenda fino a lire 5000 e saranno espulsi a norma dell'[art. 150 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_150), approvato con R. decreto 18 giugno 1931-IX, n. 773.
+ Coloro che non avranno ottemperato a tale obbligo entro il termine suddetto saranno puniti con l'arresto fino a tre mesi o con l'ammenda fino a lire 5000 e saranno espulsi a norma dell'[art. 150 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773.
 
 ### Art. 25.
 

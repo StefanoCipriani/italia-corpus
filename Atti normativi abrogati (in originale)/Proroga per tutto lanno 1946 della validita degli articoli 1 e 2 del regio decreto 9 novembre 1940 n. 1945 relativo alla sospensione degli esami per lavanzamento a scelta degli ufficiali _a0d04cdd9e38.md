@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'aeronautica, di concerto con il Ministro per i
 
 ## Articolo unico.
 
-E' prorogata per tutto l'anno 1946 la validita' del disposto degli [articoli 1](Avanzamento%20a%20scelta%20degli%20ufficiali%20della%20Regia%20aeronautica%20durante%20lattuale%20stato%20di%20guerra.%20040U1945.md) e [2 del regio decreto 9 novembre 1940, n. 1945](Avanzamento%20a%20scelta%20degli%20ufficiali%20della%20Regia%20aeronautica%20durante%20lattuale%20stato%20di%20guerra.%20040U1945.md), relativo alla sospensione degli esami per l'avanzamento a scelta degli ufficiali dell'Aeronautica militare.
+E' prorogata per tutto l'anno 1946 la validita' del disposto degli [articoli 1](../Regi%20decreti/Avanzamento%20a%20scelta%20degli%20ufficiali%20della%20Regia%20aeronautica%20durante%20lattuale%20stato%20di%20guerra.%20040U1945.md) e [2 del regio decreto 9 novembre 1940, n. 1945](../Regi%20decreti/Avanzamento%20a%20scelta%20degli%20ufficiali%20della%20Regia%20aeronautica%20durante%20lattuale%20stato%20di%20guerra.%20040U1945.md), relativo alla sospensione degli esami per l'avanzamento a scelta degli ufficiali dell'Aeronautica militare.
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 15 aprile 1946.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

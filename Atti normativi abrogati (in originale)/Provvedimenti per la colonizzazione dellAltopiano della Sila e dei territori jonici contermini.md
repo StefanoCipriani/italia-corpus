@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 E' affidato all'Opera per la valorizzazione della Sila, istituita con la [legge 31 dicembre 1947, n. 1629](Norme%20per%20la%20istituzione%20dellOpera%20di%20valorizzazione%20della%20Sila.md) il compito di provvedere alla ridistribuzione della proprieta' terriera e alla sua conseguente trasformazione, con lo scopo di ricavarne i terreni da concedersi in proprieta' a contadini, entro il territorio delimitato da una linea che, partendo, a sud, dal promontorio di Staletti, segue il perimetro del comprensorio Alli-Copanello, risale le statali 109-bis e 109, si allaccia al perimetro occidentale dell'Altopiano silano fino al fiume Mucone, ne segue il corso fino alla confluenza del Crati, prosegue lungo la ferrovia statale Cosenza, Sibari fino a congiungersi col perimetro nord dei consorzi di bonifica di Cassano e di Cerchiara, arriva alla foce del torrente Saraceno donde, costeggiando il litorale ionico ritorna al promontorio di Staletti.
- Le parti del territorio sopra delimitato, siano o non siano gia' classificate come comprensori di bonifica, sono classificate, ai sensi del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), comprensori di bonifica di 1ª categoria.
+ Le parti del territorio sopra delimitato, siano o non siano gia' classificate come comprensori di bonifica, sono classificate, ai sensi del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), comprensori di bonifica di 1ª categoria.
 
 ## Art. 2.
 
@@ -68,7 +68,7 @@ Sulle indennita' di espropriazione sono trasferiti, ad ogni effetto, i diritti d
 
 ## Art. 10.
 
-L'Opera, nelle zone di nuova classifica previste dai secondo comma dell'art. 1, puo' essere autorizzata dal Ministro per l'agricoltura e per le foreste ad assumere tutte le iniziative in materia di bonifica e di colonizzazione ai sensi del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215). 
+L'Opera, nelle zone di nuova classifica previste dai secondo comma dell'art. 1, puo' essere autorizzata dal Ministro per l'agricoltura e per le foreste ad assumere tutte le iniziative in materia di bonifica e di colonizzazione ai sensi del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md). 
  Puo' essere autorizzata dallo stesso Ministro a coordinare tutte le attivita' che, ai fini della trasformazione fondiaria e sistemazione montana, sono chiamati a svolgere i consorzi di bonifica costituiti nel territorio, ed occorrendo, a redigere i piani di trasformazione fondiaria ed agraria e proporre gli obblighi di bonifica correlativi. 
  Nel territorio delimitato nell'art. 1, l'Opera deve altresi' imporre l'obbligo dell'esecuzione di miglioramenti fondiari nei terreni suscettibili di trasformazione e non trasferiti in sua proprieta'. 
  L'Opera dovra' formulare i piani di trasformazione dei terreni appartenenti ai Comuni.

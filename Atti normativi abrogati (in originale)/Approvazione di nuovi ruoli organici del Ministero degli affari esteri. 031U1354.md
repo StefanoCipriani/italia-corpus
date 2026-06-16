@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni ed integrazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato;
 
 Visti i [Regi decreti 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md); [23 ottobre 1925, n. 1997](Conferimento%20del%20posto%20speciale%20di%20direttore%20della%20tipografia%20del%20Ministero%20degli%20affari%20esteri.%20025U1997.md); [16 maggio 1926, n. 861](Ruoli%20organici%20dei%20cancellieri%20e%20del%20personale%20dordine%20del%20Ministero%20degli%20affari%20esteri.%20026U0861.md); le [leggi 2 giugno 1927, nn. 860 e 861](Eccezionale%20ammissione%20di%20nuovi%20elementi%20nella%20carriera%20consolare.%20027U0861.md), e i Regi decreti 16 maggio e 17 giugno 1929, nn. 1282 e 1491;
 

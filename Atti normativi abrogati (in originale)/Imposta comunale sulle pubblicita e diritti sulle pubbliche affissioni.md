@@ -232,7 +232,7 @@ Contro gli atti di accertamento e' ammesso ricorso all'intendente di finanza ed 
 
 ### Art. 25. — Procedimento esecutivo
 
-L'imposta dovuta a seguito di dichiarazione o di accertamento e non pagata nei tempi e nei modi prescritti dal presente decreto e' recuperata col procedimento esecutivo previsto dal [regio decreto 14 aprile 1910, numero 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+L'imposta dovuta a seguito di dichiarazione o di accertamento e non pagata nei tempi e nei modi prescritti dal presente decreto e' recuperata col procedimento esecutivo previsto dal [regio decreto 14 aprile 1910, numero 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
  Per la vidimazione dell'ingiunzione e' competente il pretore avente giurisdizione sul territorio del comune nel quale e' stata effettuata la pubblicita'.
 
 ### Art. 26. — Prescrizione
@@ -408,7 +408,7 @@ L'aggio va commisurato all'ammontare lordo dell'imposta e dei diritti di affissi
  L'ammontare delle riscossioni conseguite al netto dell'aggio o il canone convenuto deve essere versato alla tesoreria comunale alle scadenze stabilite nel capitolato d'oneri.
  L'importo del versamento non puo' essere inferiore alla quota del minimo garantito corrispondente ad ogni rata, salvo il conguaglio nei versamenti successivi, qualora le riscossioni superino la rata stessa.
  Nei casi in cui l'ammontare delle riscossioni non raggiunga il minimo garantito annuo per effetto della contestazione di somme accertate, il concessionario ha diritto, a seguito delle eventuali riscossioni di tali somme, di trattenersi anche negli anni successivi quanto e' stato da lui anticipato, detraendolo dall'importo eccedente il minimo garantito.
- Per il ritardato versamento e' dovuta una indennita' di mora del sei per cento sulle somme non versate che possono essere recuperate dal comune con il procedimento esecutivo previsto dal [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+ Per il ritardato versamento e' dovuta una indennita' di mora del sei per cento sulle somme non versate che possono essere recuperate dal comune con il procedimento esecutivo previsto dal [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ### Art. 46. — Cauzione
 
@@ -490,7 +490,7 @@ Le persone fisiche e giuridiche che all'entrata in vigore del presente decreto s
 ### Art. 58. — Norme abrogate
 
 A decorrere dall'entrata in vigore del presente decreto sono abrogati:
- A) la sezione II del capo XII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
+ A) la sezione II del capo XII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
  B) il [decreto legislativo del Capo provvisorio dello Stato 8 novembre 1947, n. 1417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-08;1417);
  C) l'ultimo comma dell'[art. 8 della legge 19 dicembre 1952, n. 2356](Emissione%20di%20buoni%20del%20Tesoro%20novennali%205%20per%20cento%201962.md);
  D) l'[art. 7 della legge 4 aprile 1956, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-04-04;212#art_7);

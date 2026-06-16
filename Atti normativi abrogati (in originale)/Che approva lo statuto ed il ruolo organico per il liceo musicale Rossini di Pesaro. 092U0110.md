@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [Regio decreto 21 giugno 1869 n. 5164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1869-06-21;5164), col quale il Liceo musicale Rossini di Pesaro venne eretto in corpo morale;
+Veduto il [Regio decreto 21 giugno 1869 n. 5164](../Regi%20decreti/Che%20dichiara%20Corpo%20morale%20il%20Liceo%20musicale%20Rossini%20da%20instituirsi%20in%20Pesaro.%20069U5164.md), col quale il Liceo musicale Rossini di Pesaro venne eretto in corpo morale;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
 

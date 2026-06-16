@@ -42,7 +42,7 @@ Agli [articoli 2](Riforma%20della%20legge%20sul%20tiro%20a%20segno%20nazionale.%
  
  Sono egualmente a carico dello Stato gli affitti dei terreni sui quali si impiantano campi di tiro. 
  
- Per le sezioni istituite o da istituirsi in capoluoghi di Provincia o in Comuni che erano capoluoghi di mandamento alla data di entrata in vigore del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), si provvede mediante il concorso dello Stato, della Provincia e del Comune, nelle proporzioni di tre quinti a carico dello Stato e di un quinto a carico di ciascuna delle altre due Amministrazioni, per le dotazioni di armamento, per l'ammobigliamento e per l'arredamento delle sedi dei campi e per l'acquisto delle bandiere e degli emblemi. 
+ Per le sezioni istituite o da istituirsi in capoluoghi di Provincia o in Comuni che erano capoluoghi di mandamento alla data di entrata in vigore del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), si provvede mediante il concorso dello Stato, della Provincia e del Comune, nelle proporzioni di tre quinti a carico dello Stato e di un quinto a carico di ciascuna delle altre due Amministrazioni, per le dotazioni di armamento, per l'ammobigliamento e per l'arredamento delle sedi dei campi e per l'acquisto delle bandiere e degli emblemi. 
  
  Per le sezioni da istituirsi negli altri Comuni, si provvede alle centrate spese a totale carico dello Stato, nei limiti delle disponibilita' di bilancio. 
  

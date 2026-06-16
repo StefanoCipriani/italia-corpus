@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395);
 
-Visto il regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537);
+Visto il regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -20,7 +20,7 @@ Vista la [legge 17 aprile 1930, n. 479](Riforma%20della%20legge%20sul%20tiro%20a
 
 Vista la [legge 4 giugno 1934, n. 950](Modificazioni%20ed%20aggiunte%20alla%20legge%2017%20aprile%201930%20n.%20479%20sul%20tiro%20a%20segno%20nazionale.%20034U0950.md), che apporta modificazioni ed aggiunte alla legge 17 aprile 1930, 479;
 
-Visto il [R. decreto 21 novembre 1932, n. 2051](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2017%20aprile%201930%20n.%20479%20sulla%20riforma%20del%20tiro%20a%20segno%20nazionale.%20032U2051.md), che approva il regolamento per la esecuzione dalla leggo sul tiro a segno nazionale;
+Visto il [R. decreto 21 novembre 1932, n. 2051](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2017%20aprile%201930%20n.%20479%20sulla%20riforma%20del%20tiro%20a%20segno%20nazionale.%20032U2051.md), che approva il regolamento per la esecuzione dalla leggo sul tiro a segno nazionale;
 
 Visto il [R. decreto-legge 16 dicembre 1935, n. 2430](Modificazioni%20alle%20vigenti%20norme%20sul%20Tiro%20a%20segno%20nazionale.%20035U2430.md), convertito, con modificazioni, nella [legge 4 giugno 1936, n. 1143](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2016%20dicembre%201935-XIV%20n.%202430%20che%20apporta%20modificazioni%20alle%20vigenti%20norme%20sul%20tiro%20a%20segno%20nazionale.%20036U1143.md), recante modifiche alle norme sul tiro a segno nazionale;
 

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R.D. 30 dicembre 1923 n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960); 
+ Visto il [R.D. 30 dicembre 1923 n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md); 
  
  Ritenuto che si versa in istato di necessita' a causa di guerra; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Art. unico 
  
- In temporanea deroga all'[art. 101 del R.D. 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101), e fino a quando non sara' diversamente disposto, sono ammessi i comandi di impiegati da una ad altra amministrazione centrale, nonche' i comandi di impiegati delle amministrazioni provinciali presso le rispettive amministrazioni centrali. 
+ In temporanea deroga all'[art. 101 del R.D. 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e fino a quando non sara' diversamente disposto, sono ammessi i comandi di impiegati da una ad altra amministrazione centrale, nonche' i comandi di impiegati delle amministrazioni provinciali presso le rispettive amministrazioni centrali. 
  
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno - Serie Speciale. 
  

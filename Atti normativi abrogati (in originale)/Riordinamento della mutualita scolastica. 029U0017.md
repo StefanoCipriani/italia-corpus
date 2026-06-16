@@ -12,7 +12,7 @@ vigente: true
 
 In tutte le scuole, ove si impartisce la istruzione elementare e popolare, e' istituito il servizio della mutualita' scolastica per l'educazione alla previdenza, al risparmio ed alla reciproca assistenza degli scolari. Il servizio si esplica: 
  
- a) con l'iscrizione degli scolari alla Cassa nazionale per le assicurazioni sociali, ai sensi della [legge 17 luglio 1910, n. 521](Provvedimenti%20per%20la%20mutualita%20scolastica.%20010U0521.md), del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), e del [regolamento 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-08-28;1422); 
+ a) con l'iscrizione degli scolari alla Cassa nazionale per le assicurazioni sociali, ai sensi della [legge 17 luglio 1910, n. 521](Provvedimenti%20per%20la%20mutualita%20scolastica.%20010U0521.md), del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), e del [regolamento 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-08-28;1422); 
  
  b) col dare aiuto ai soci malati e care preventive ai soci gracili o predisposti e con l'istituzione di opere assistenziali; 
  

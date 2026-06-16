@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'art. 50 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), il quale detta disposizioni per il segnalamento visivo ed acustico dei velocipedi;
+Visto l'art. 50 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), il quale detta disposizioni per il segnalamento visivo ed acustico dei velocipedi;
 
 Ritenuta la necessita' urgente ed assoluta di dettare nell'interesse della pubblica incolumita', nuove norme relative alla segnalazione visiva dei velocipedi;
 
@@ -36,7 +36,7 @@ Entro sei mesi dalla data di pubblicazione del presente decreto ogni velocipede 
  
  E' consentito l'uso contemporaneo di un fanale posteriore a luce rossa e del dispositivo catarifrangente rosso. In tal caso detto fanale a luce rossa va collocato in modo che il dispositivo catarifrangente non risulti menomamente occultato. 
  
- Nelle ore e nei casi in cui e' obbligatoria l'accensione dei fanali a termine dell'art. 41 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), il velocipede deve essere condotto a mano se il fanale anteriore non sia in grado di funzionare. 
+ Nelle ore e nei casi in cui e' obbligatoria l'accensione dei fanali a termine dell'art. 41 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), il velocipede deve essere condotto a mano se il fanale anteriore non sia in grado di funzionare. 
  
  Il contravventore e' punito con l'ammenda da lire venticinque a lire duecento.
 
@@ -75,7 +75,7 @@ Il fanale a luce gialla di cui all'art. 1 del presente decreto deve avere un dia
 
 ## Art. 6.
 
-Nulla e' innovato a quanto stabilisce l'art. 50 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), circa il segnalamento acustico dei velocipedi.
+Nulla e' innovato a quanto stabilisce l'art. 50 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), circa il segnalamento acustico dei velocipedi.
 
 ## Art. 7.
 

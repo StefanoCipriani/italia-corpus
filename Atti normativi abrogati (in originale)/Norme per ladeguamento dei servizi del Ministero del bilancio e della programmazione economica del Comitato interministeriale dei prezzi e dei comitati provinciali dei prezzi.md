@@ -42,7 +42,7 @@ Per incarichi di studio conferiti dal Ministro per il bilancio e per la programm
 ## Art. 5.
 
 Per le esigenze dei servizi della programmazione economica possono essere addetti presso il Ministero del bilancio e della programmazione economica funzionari di altre amministrazioni su richiesta nominativa del Presidente del Consiglio dei Ministri.
- I predetti funzionari sono collocati nella posizione di fuori ruolo ai sensi e per gli effetti degli [articoli 58](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [59 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, e non possono superare complessivamente le venti unita'.
+ I predetti funzionari sono collocati nella posizione di fuori ruolo ai sensi e per gli effetti degli [articoli 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [59 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, e non possono superare complessivamente le venti unita'.
  Per le esigenze di cui al primo comma puo' essere altresi' comandato, su richiesta nominativa del Presidente del Consiglio dei Ministri, personale dipendente da enti pubblici. Il numero massimo di tale personale e' stabilito in venti unita'.
 
 ## Art. 6.

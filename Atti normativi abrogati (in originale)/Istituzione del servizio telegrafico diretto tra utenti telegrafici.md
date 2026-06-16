@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il Codice postale e delle telecomunicazioni (libro II) approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), ed il regolamento di esecuzione del Codice stesso, approvato con [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
+Visto il Codice postale e delle telecomunicazioni (libro II) approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), ed il regolamento di esecuzione del Codice stesso, approvato con [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
 Viste le convenzioni in vigore con le cinque societa' concessionarie telefoniche;
 
@@ -34,7 +34,7 @@ Il Ministero delle poste e delle telecomunicazioni ha facolta' di istituire il s
 
 La concessione dell'impianto e dell'esercizio di apparati telegrafici e relative apparecchiature elettriche, ovunque ubicati, per il servizio di cui trattasi, e' di competenza dell'Amministrazione delle poste e dei telegrafi.
  L'impianto non puo' essere messo a disposizione di terzi, ne' usato a scopo diverso da quello cui e' destinato.
- Per il servizio di nuova istituzione, oltre le particolari disposizioni che saranno stabilite, valgono, in quanto applicabili, tutte le altre comprese nel Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e nel regolamento di esecuzione del Codice stesso, approvato con [regio decreto 19 luglio 1941, n. 1198](Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md).
+ Per il servizio di nuova istituzione, oltre le particolari disposizioni che saranno stabilite, valgono, in quanto applicabili, tutte le altre comprese nel Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e nel regolamento di esecuzione del Codice stesso, approvato con [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md).
 
 ## Art. 3.
 

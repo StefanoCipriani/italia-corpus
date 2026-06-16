@@ -248,7 +248,7 @@ Le Regioni a statuto ordinario ed a statuto speciale e le prov- ince autonome di
 
 3.
 
-Ferma restando la competenza generale del Comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatta salva la competenza del Prefetto a vigilare sulle violazioni all'[art. 727 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le Unita' Sanitarie Locali nell'ambito della vigilanza di cui all'[art. 6, lettera u) della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
+Ferma restando la competenza generale del Comune a vigilare sul rispetto delle norme di protezione degli animali anche tramite le guardie zoofile delle associazioni di volontariato, fatta salva la competenza del Prefetto a vigilare sulle violazioni all'[art. 727 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le Unita' Sanitarie Locali nell'ambito della vigilanza di cui all'[art. 6, lettera u) della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_6-letu), controllano l'applicazione delle disposizioni del presente decreto.
 
 4.
 

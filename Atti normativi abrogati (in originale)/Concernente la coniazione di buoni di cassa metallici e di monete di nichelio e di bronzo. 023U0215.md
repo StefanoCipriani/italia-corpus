@@ -32,7 +32,7 @@ In corrispondenza dell'emissione dei cento milioni di lire in buoni di cassa da 
 
 ## Art. 3.
 
-E' autorizzato il ritiro delle monete di nichelio in lega di nichel e rame da centesimi venti, emesso in virtu' del [decreto Luogotenenziale 30 dicembre 1917, n. 2111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-30;2111), e la loro sostituzione, sino all'ammontare autorizzato con l'art. 1 di detto decreto, con le monete di nichelio puro di egual valore autorizzate con [Regio decreto 23 gennaio 1908, n. 22](Autorizzazione%20per%20la%20fabbricazione%20ed%20emissione%20di%20monete%20di%20nichelio%20puro%20da%20cent.20.%20008U0022.md).
+E' autorizzato il ritiro delle monete di nichelio in lega di nichel e rame da centesimi venti, emesso in virtu' del [decreto Luogotenenziale 30 dicembre 1917, n. 2111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-12-30;2111), e la loro sostituzione, sino all'ammontare autorizzato con l'art. 1 di detto decreto, con le monete di nichelio puro di egual valore autorizzate con [Regio decreto 23 gennaio 1908, n. 22](../Regi%20decreti/Che%20istituisce%20in%20Piazza%20Armerina%20una%20R.%20scuola%20professionale%20darti%20e%20mestieri.%200800022R.md).
 
 ## Art. 4.
 

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-04-02;3095) ed il relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713), sui porti, spiaggie e fari;
 
-Visto il [regio decreto 9 maggio 1907, n. 328](Concernente%20inscrizione%20dellapprodo%20di%20Punta%20Penna%20nella%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato.%20007U0328.md), col quale l'approdo di Punita Penna nella rada di Vasto (provincia di Chieti) veniva classificato, ai fini della difesa nazionale, nella prima categoria dei porti marittimi ferma restando, nei riguardi commerciali, la sua appartenenza alla 4ª classe della 2ª categoria;
+Visto il [regio decreto 9 maggio 1907, n. 328](../Regi%20decreti/Concernente%20inscrizione%20dellapprodo%20di%20Punta%20Penna%20nella%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato.%20007U0328.md), col quale l'approdo di Punita Penna nella rada di Vasto (provincia di Chieti) veniva classificato, ai fini della difesa nazionale, nella prima categoria dei porti marittimi ferma restando, nei riguardi commerciali, la sua appartenenza alla 4ª classe della 2ª categoria;
 
 Visto il [regio decreto 4 agosto 1921, n. 3730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-04;3730), col quale, essendo superate le contingenze belliche che avevano determinato il precitato decreto di classifica, il porto suddetto veniva, declassificato, nei riguardi della difesa militare, dalla 1ª categoria;
 

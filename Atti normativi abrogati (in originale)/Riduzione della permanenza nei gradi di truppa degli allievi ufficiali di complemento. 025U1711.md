@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e le successive modificazioni;
+Visto il testo unico delle leggi sul reclutamento del Regio esercito approvato con [R. decreto 24 dicembre 1911, n. 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md), e le successive modificazioni;
 
-Visto il [R. decreto 7 gennaio 1923, n. 3](Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md);
+Visto il [R. decreto 7 gennaio 1923, n. 3](../Regi%20decreti/Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md);
 
 Vista la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro ad int
 
 ## Art. 1.
 
-Dopo l'[art. 8 del R. decreto 7 gennaio 1923, n. 3](Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md), recante modificazioni alle disposizioni legislative sul reclutamento del Regio esercito e' aggiunto il seguente: 
+Dopo l'[art. 8 del R. decreto 7 gennaio 1923, n. 3](../Regi%20decreti/Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md), recante modificazioni alle disposizioni legislative sul reclutamento del Regio esercito e' aggiunto il seguente: 
  
  «Articolo 8-bis. - Gli allievi ufficiali di complemento compiono la ferma di leva nei gradi di truppa, per tre mesi e mezzo come soldati, per tre mesi come caporali, e per tre mesi come sergenti. 
  

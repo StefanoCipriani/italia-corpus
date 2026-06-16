@@ -1927,7 +1927,7 @@ Linee elettriche aeree esterne.
 
 ### Art. 274.
 
-Le norme approvate con [regio decreto 25 novembre 1940, n. 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-11-25;1969), per l'esecuzione delle linee elettriche aeree esterne, e successive modifiche, sono estese agli impianti posti negli stabilimenti od aziende soggette al presente decreto.
+Le norme approvate con [regio decreto 25 novembre 1940, n. 1969](../Regi%20decreti/Norme%20per%20lesecuzione%20delle%20linee%20elettriche%20aeree%20esterne%20040U1969.md), per l'esecuzione delle linee elettriche aeree esterne, e successive modifiche, sono estese agli impianti posti negli stabilimenti od aziende soggette al presente decreto.
 
 ## PROTEZIONE CONTRO IL CONTATTO ACCIDENTALE CON CONDUTTORI ED ELEMENTI IN TENSIONE Impiego dei conduttori nudi as "alta" tensione.
 
@@ -2903,7 +2903,7 @@ Il presente decreto entra in vigore il 1 gennaio
 
 1956.
 
-A decorrere da tale data il [regio decreto 18 giugno 1899, n. 230](Che%20approva%20il%20Regolamento%20generale%20relativo%20alla%20prevenzione%20degli%20infortuni%20nelle%20imprese%20e%20nelle%20industrie%20alle%20quali%20si%20applica%20la%20legge%2017%20marzo%201898%20n.%2080.%20099U0230.md), e' abrogato.
+A decorrere da tale data il [regio decreto 18 giugno 1899, n. 230](../Regi%20decreti/Che%20approva%20il%20Regolamento%20generale%20relativo%20alla%20prevenzione%20degli%20infortuni%20nelle%20imprese%20e%20nelle%20industrie%20alle%20quali%20si%20applica%20la%20legge%2017%20marzo%201898%20n.%2080.%20099U0230.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

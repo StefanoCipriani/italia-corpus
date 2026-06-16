@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 25 marzo 1929, n. 558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-25;558), col quale i comuni di Gauna e Pecco sono stati soppressi ed i rispettivi territori aggregati a quello di Alice Superiore; 
+ Visto il [R. decreto 25 marzo 1929, n. 558](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Alice%20Superiore%20Gauna%20e%20Pecco%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Alice%20Superiore.%20029U0558.md), col quale i comuni di Gauna e Pecco sono stati soppressi ed i rispettivi territori aggregati a quello di Alice Superiore; 
  
  Vista la deliberazione del commissario prefettizio di Alice Superiore, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Gauna e Pecco: 
  

@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Per il periodo di cinque anni dalla data di entrata in vigore della presente legge, coloro che siano munite del diploma di infermiera volontaria della Croce Rossa Italiana, potranno essere ammesse al secondo anno di corso per il conseguimento del diploma di Stato per l'esercizio della professione di infermiera presso le Scuole-convitto professionali previste dall'[art. 130 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_130) 27 luglio 1934-XII, n. 1265. 
+Per il periodo di cinque anni dalla data di entrata in vigore della presente legge, coloro che siano munite del diploma di infermiera volontaria della Croce Rossa Italiana, potranno essere ammesse al secondo anno di corso per il conseguimento del diploma di Stato per l'esercizio della professione di infermiera presso le Scuole-convitto professionali previste dall'[art. 130 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934-XII, n. 1265. 
  
  Le aspiranti dovranno sostenere, con esito favorevole, l'esame di passaggio dal primo al secondo anno di corso e compiere il periodo di prova di due mesi a norma dell'art. 22 del R. decreto 21 novembre 1929-VIII, n. 2330;
 
 ## Art. 2.
 
-Entro il termine di cui al primo comma dell'art. 1, le infermiere munite di attestato di abilitazione, ai termini dell'art. 6 della legge 23 giugno 1927-V, n. 1264, o della licenza prevista dall'[art. 140 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_140), potranno essere ammesse a frequentare il secondo anno di corso presso una Scuola-convitto per il conseguimento del diploma di Stato per l'esercizio della professione di infermiera, purche': 
+Entro il termine di cui al primo comma dell'art. 1, le infermiere munite di attestato di abilitazione, ai termini dell'art. 6 della legge 23 giugno 1927-V, n. 1264, o della licenza prevista dall'[art. 140 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), potranno essere ammesse a frequentare il secondo anno di corso presso una Scuola-convitto per il conseguimento del diploma di Stato per l'esercizio della professione di infermiera, purche': 
  
 a) siano in possesso del titolo di studio richiesto per l'ammissione alle Scuole-convitto dall'art. 20, primo comma, del R. decreto 21 novembre 1929 VIII, n. 2330, o superino un esame di cultura su programma da stabilirsi con decreto del Ministro per l'interno, di concerto con quello per l'educazione nazionale; 
  

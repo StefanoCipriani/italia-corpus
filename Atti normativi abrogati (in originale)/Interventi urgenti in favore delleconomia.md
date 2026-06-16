@@ -229,7 +229,7 @@ Il Ministro per i beni culturali e ambientali, sulla base delle proposte degli o
 
 2.
 
-I fondi necessari per effettuare le spese previste nel piano, da parte degli organi periferici e degli istituti centrali, sono messi a disposizione dei funzionari delegati, mediante ordini di accreditamento emessi soltanto sulla base del piano e in deroga al limite di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni. I predetti funzionari assumono, a valere sui fondi messi a loro disposizione, in deroga ai limiti previsti dalla legislazione vigente, le relative obbligazioni giuridiche che sono sottoposte al controllo successivo in sede di rendiconto.
+I fondi necessari per effettuare le spese previste nel piano, da parte degli organi periferici e degli istituti centrali, sono messi a disposizione dei funzionari delegati, mediante ordini di accreditamento emessi soltanto sulla base del piano e in deroga al limite di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni. I predetti funzionari assumono, a valere sui fondi messi a loro disposizione, in deroga ai limiti previsti dalla legislazione vigente, le relative obbligazioni giuridiche che sono sottoposte al controllo successivo in sede di rendiconto.
 
 3.
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 febbraio 1889, n. 5958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-02-07;5958), che istituiva in Roma un Museo nazionale destinato ad accogliere gli oggetti antichi provenienti dalla provincia romana e dall'Umbria;
+Visto il [R. decreto 7 febbraio 1889, n. 5958](../Regi%20decreti/Che%20istituisce%20il%20Museo%20Nazionale%20delle%20antichita%20in%20Roma.%20089U5958.md), che istituiva in Roma un Museo nazionale destinato ad accogliere gli oggetti antichi provenienti dalla provincia romana e dall'Umbria;
 
 Visto il R. decreto del 28 febbraio 1889 che istituiva in Firenze il Museo centrale della civilta' etrusca;
 

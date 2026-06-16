@@ -16,7 +16,7 @@ Ogni stampatore ha l'obbligo di consegnare otto esemplari di qualsivoglia suo st
  
  La consegna deve essere fatta prima che stampati e pubblicazioni siano posti in commercio o in diffusione o distribuzione e che alcuna copia sia rimessa al committente o ad altra persona. 
  
- Se la consegna e' fatta a mezzo della posta valgono, per ogni specie di stampati e pubblicazioni, le agevolazioni previste dal [Regio decreto 27 settembre 1923, n. 2187](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%208%20febbraio%201923%20n.%20327%20relativo%20alla%20tariffa%20speciale%20per%20i%20pacchi%20postali%20contenenti%20libri%20spediti%20da%20case%20editrici%20e%20da%20case%20librarie.%20023U2187.md), e successive modificazioni.
+ Se la consegna e' fatta a mezzo della posta valgono, per ogni specie di stampati e pubblicazioni, le agevolazioni previste dal [Regio decreto 27 settembre 1923, n. 2187](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%208%20febbraio%201923%20n.%20327%20relativo%20alla%20tariffa%20speciale%20per%20i%20pacchi%20postali%20contenenti%20libri%20spediti%20da%20case%20editrici%20e%20da%20case%20librarie.%20023U2187.md), e successive modificazioni.
 
 ## Art. 2.
 

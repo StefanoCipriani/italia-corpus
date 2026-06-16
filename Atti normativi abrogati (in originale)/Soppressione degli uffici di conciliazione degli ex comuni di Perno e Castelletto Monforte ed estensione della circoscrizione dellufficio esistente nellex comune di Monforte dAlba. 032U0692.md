@@ -14,7 +14,7 @@ VITTORIO EMANUELE III
  PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
  RE D'ITALIA 
  
- Visto il [R. decreto 13 novembre 1930, n. 1586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-13;1586), col quale i comuni di Monforte d'Alba, Perno e Castelletto Monforte venivano riuniti in unico Comune con denominazione e capoluogo «Monforte d'Alba»; 
+ Visto il [R. decreto 13 novembre 1930, n. 1586](../Regi%20decreti/Unione%20dei%20comuni%20di%20Monforte%20dAlba%20Perno%20e%20Castelletto%20Monforte%20in%20un%20unico%20comune%20denominato%20Monforte%20dAlba.%20030U1586.md), col quale i comuni di Monforte d'Alba, Perno e Castelletto Monforte venivano riuniti in unico Comune con denominazione e capoluogo «Monforte d'Alba»; 
  Vista la deliberazione del podesta' di Monforte d'Alba, con la quale si chiede che per tutto il territorio del Comune medesimo funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

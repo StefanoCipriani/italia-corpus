@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'art. 178 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e' sostituito come segue:
+L'art. 178 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e' sostituito come segue:
 Art. 178. - "Chiunque stabilisce o esercita un qualsiasi impianto
 telegrafico, telefonico o radioelettrico, senza aver prima ottenuto la relativa concessione, e' punito, salvo che il fatto costituisca reato punibile con pena piu' grave:
  1) con l'ammenda da L. 10.000 a L. 100.000 se il fatto riguarda gli impianti telefonici e telegrafici;

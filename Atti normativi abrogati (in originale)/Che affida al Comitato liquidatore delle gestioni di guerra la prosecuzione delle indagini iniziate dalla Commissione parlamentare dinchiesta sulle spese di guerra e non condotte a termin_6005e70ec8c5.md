@@ -28,7 +28,7 @@ Le indagini iniziate dalla Commissione parlamentare d'inchiesta sulle spese di g
  
  Il decreto di cui all'[art. 2 della legge 29 dicembre 1921, n. 1979](Che%20proroga%20i%20poteri%20delle%20Commissioni%20parlamentari%20dinchiesta%20istituite%20rispettivamente%20con%20la%20legge%2018%20luglio%201920%20n.%20999%20e%20con%20quella%2018%20luglio%201920%20n.%201005.%20021U1979.md), sara' emanato dal Ministro delle finanze, vista la deliberazione definitiva del Comitato liquidatore. 
  
- Per la cognizione dei reclami contro tali decreti e' mantenuta la competenza speciale, stabilita dallo stesso [art. 2 della legge 29 dicembre 1921, n. 1979](Che%20proroga%20i%20poteri%20delle%20Commissioni%20parlamentari%20dinchiesta%20istituite%20rispettivamente%20con%20la%20legge%2018%20luglio%201920%20n.%20999%20e%20con%20quella%2018%20luglio%201920%20n.%201005.%20021U1979.md), e disciplinata dal [R. decreto 4 maggio 1922, n. 638](Contenente%20il%20regolamento%20per%20lesercizio%20delle%20azioni%20di%20recupero%20da%20parte%20delle%20Commissioni%20parlamentari%20dinchiesta%20sulle%20spese%20di%20guerra%20e%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazion_6110e8399dad.md).
+ Per la cognizione dei reclami contro tali decreti e' mantenuta la competenza speciale, stabilita dallo stesso [art. 2 della legge 29 dicembre 1921, n. 1979](Che%20proroga%20i%20poteri%20delle%20Commissioni%20parlamentari%20dinchiesta%20istituite%20rispettivamente%20con%20la%20legge%2018%20luglio%201920%20n.%20999%20e%20con%20quella%2018%20luglio%201920%20n.%201005.%20021U1979.md), e disciplinata dal [R. decreto 4 maggio 1922, n. 638](../Regi%20decreti/Contenente%20il%20regolamento%20per%20lesercizio%20delle%20azioni%20di%20recupero%20da%20parte%20delle%20Commissioni%20parlamentari%20dinchiesta%20sulle%20spese%20di%20guerra%20e%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazion_6110e8399dad.md).
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ Spetta inoltre al Comitato liquidatore, valendosi anche delle facolta' attribuit
 
 ## Art. 3.
 
-I ricorsi, di cui all'[art. 15 del Regio decreto 4 maggio 1922, n. 638](Contenente%20il%20regolamento%20per%20lesercizio%20delle%20azioni%20di%20recupero%20da%20parte%20delle%20Commissioni%20parlamentari%20dinchiesta%20sulle%20spese%20di%20guerra%20e%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazion_6110e8399dad.md), saranno presentati nella segreteria del Comitato liquidatore, che ne curera' la trasmissione al Collegio arbitrale.
+I ricorsi, di cui all'[art. 15 del Regio decreto 4 maggio 1922, n. 638](../Regi%20decreti/Contenente%20il%20regolamento%20per%20lesercizio%20delle%20azioni%20di%20recupero%20da%20parte%20delle%20Commissioni%20parlamentari%20dinchiesta%20sulle%20spese%20di%20guerra%20e%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazion_6110e8399dad.md), saranno presentati nella segreteria del Comitato liquidatore, che ne curera' la trasmissione al Collegio arbitrale.
 
 ## Art. 4.
 

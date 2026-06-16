@@ -14,7 +14,7 @@ IL CAPO PROVVISORIO DELLO STATO Ha sanzionato e promulga la seguente legge appro
 
 ## Art. 1.
 
-L'art. 87 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e abrogato e sostituito dal seguente: 
+L'art. 87 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e abrogato e sostituito dal seguente: 
  "I contratti di comuni riguardanti alienazioni, locazioni, acquisti, somministrazioni od appalti di opere devono di regola essere preceduti da pubblici incanti con le forme stabilite pei contratti dello Stato. 
  "E' consentito di provvedere mediante licitazione privata: 
  a) per i comuni con popolazione superiore ai 500.000 abitanti, quando si tratti: 
@@ -228,11 +228,11 @@ L'[art. 195 della legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20uni
 
 ## Art. 25.
 
-Le attribuzioni ed il funzionamento dei Consigli e delle Giunte comunali sono regolati dal testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e dalle modifiche contenute nel [regio decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
+Le attribuzioni ed il funzionamento dei Consigli e delle Giunte comunali sono regolati dal testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e dalle modifiche contenute nel [regio decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 26.
 
-All'[art. 25, n. 1, del regio decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), alle parole "che non eccedano il valore di lire 5000", sono sostituite le altre: "che non eccedano la competenza del pretore".
+All'[art. 25, n. 1, del regio decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), alle parole "che non eccedano il valore di lire 5000", sono sostituite le altre: "che non eccedano la competenza del pretore".
 
 ## Art. 27.
 

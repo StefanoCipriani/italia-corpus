@@ -226,7 +226,7 @@ La misura dell'ammenda potra' essere elevata sino a L. 10.000 a carico di coloro
  
  Il prefetto determina entro i limiti dell'ammenda la somma da pagarsi a titolo di oblazione, prefiggendo il termine per il pagamento stesso. 
  
- Oltre l'ammenda di cui sopra, a carico dei contravventori per il mancato pagamento nei termini prescritti delle tasse annuali di concessione governativa, di cui al precedente articolo 15, saranno applicate le sanzioni previste dalla legge tributaria sulle concessioni governative 30 dicembre 1923, n. 3279, e successive modificazioni approvate dal [R. decreto 26 marzo 1936, n. 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md).
+ Oltre l'ammenda di cui sopra, a carico dei contravventori per il mancato pagamento nei termini prescritti delle tasse annuali di concessione governativa, di cui al precedente articolo 15, saranno applicate le sanzioni previste dalla legge tributaria sulle concessioni governative 30 dicembre 1923, n. 3279, e successive modificazioni approvate dal [R. decreto 26 marzo 1936, n. 1418](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md).
 
 ## Art. 27.
 

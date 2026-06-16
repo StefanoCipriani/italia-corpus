@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 2 luglio 1882, n. 878](Che%20approva%20la%20convenzione%20conchiusa%20col%20signor%20Bernardo%20Marsano%20per%20listituzione%20di%20una%20scuola%20pratica%20di%20agricoltura%20in%20S.%20Ilario%20Ligure.%20082U0878.md) (Serie 3ª), colla quale fu approvata la convenzione 31 marzo 1882 tra il Ministro di Agricoltura, Industria e Commercio ed il signor Bernardo Marsano, per l'istituzione di una Scuola pratica di agricoltura in Sant'Ilario Ligure (Genova);
 
-Visto il [R. decreto 19 agosto 1882, n. 971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-08-19;971) (Serie 3ª), col quale fu istituita ed eretta in Corpo morale la Regia Scuola pratica di agricoltura Marsano in Sant'Ilario Ligure;
+Visto il [R. decreto 19 agosto 1882, n. 971](../Regi%20decreti/Che%20istituisce%20in%20SantIlario%20Ligure%20una%20scuola%20pratica%20di%20agricoltura.%20082U0971.md) (Serie 3ª), col quale fu istituita ed eretta in Corpo morale la Regia Scuola pratica di agricoltura Marsano in Sant'Ilario Ligure;
 
 Udito il parere del Consiglio di Stato;
 

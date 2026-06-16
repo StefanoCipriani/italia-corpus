@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Il [R. decreto 5 novembre 1932, n. 1407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-11-05;1407), si applica anche alla Regia guardia di finanza.
+Il [R. decreto 5 novembre 1932, n. 1407](../Regi%20decreti/Provvedimenti%20di%20clemenza%20per%20mancanze%20commesse%20da%20militari%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20032U1407.md), si applica anche alla Regia guardia di finanza.
 
 ## Art. 2.
 

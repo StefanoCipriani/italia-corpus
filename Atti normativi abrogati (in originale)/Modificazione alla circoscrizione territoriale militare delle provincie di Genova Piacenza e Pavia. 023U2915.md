@@ -18,15 +18,15 @@ Visto il [R. decreto 13 maggio 1920, n. 607](Che%20determina%20la%20circoscrizio
 
 Visto il [R. decreto 4 marzo 1923, n. 490](Che%20determina%20la%20circoscrizione%20territoriale%20militare%20del%20Regno.%20023U0490.md), che determina la circoscrizione territoriale militare del Regno;
 
-Visto il [R. decreto 8 luglio 1923, n. 1726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-08;1726), che determina la soppressione della circoscrizione circondariale di Bobbio e l'aggregazione dei Comuni che ne fanno parte alle circoscrizioni territoriali delle provincie di Genova, Piacenza e Pavia;
+Visto il [R. decreto 8 luglio 1923, n. 1726](../Regi%20decreti/Soppressione%20della%20circoscrizione%20circondariale%20di%20Bobbio%20ed%20aggregazione%20dei%20Comuni%20che%20ne%20fanno%20parte%20alle%20circoscrizioni%20territoriali%20delle%20provincie%20di%20Genova%20Piacenza%20e%20Pavia.%20023U1726.md), che determina la soppressione della circoscrizione circondariale di Bobbio e l'aggregazione dei Comuni che ne fanno parte alle circoscrizioni territoriali delle provincie di Genova, Piacenza e Pavia;
 
-Visto il [R. decreto 2 settembre 1923, n. 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1913), che istituisce la provincia della Spezia;
+Visto il [R. decreto 2 settembre 1923, n. 1913](../Regi%20decreti/Istituzione%20della%20provincia%20della%20Spezia.%20023U1913.md), che istituisce la provincia della Spezia;
 
-Visto il [R. decreto 2 settembre 1923, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1911), che istituisce la provincia dello Jonio;
+Visto il [R. decreto 2 settembre 1923, n. 1911](../Regi%20decreti/Istituzione%20della%20provincia%20di%20Taranto.%20023U1911.md), che istituisce la provincia dello Jonio;
 
 Visto il R. decreto 21 ottobre 1923. n. 2390, che riunisce i comuni di Porto Maurizio Oneglia ed altri nell'unico comune di Imperia;
 
-Visto il [R. decreto 9 novembre 1923, n. 2491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-09;2491), che modifica la denominazione della provincia di Porto Maurizio in quella di «provincia d'Imperia»;
+Visto il [R. decreto 9 novembre 1923, n. 2491](../Regi%20decreti/Modifica%20della%20denominazione%20della%20provincia%20di%20Porto%20Maurizio%20in%20quella%20di%20Provincia%20di%20Imperia.%20023U2491.md), che modifica la denominazione della provincia di Porto Maurizio in quella di «provincia d'Imperia»;
 
 Ritenuto necessario di mettere in armonia la nuova circoscrizione politico-amministrativa con la circoscrizione territoriale militare del Regno;
 

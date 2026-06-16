@@ -22,7 +22,7 @@ Sulla proposta del guardasigilli, ministro segretario di Stato per la giustizia 
 
 I diritti di copia e di autenticazione spettanti ai cancellieri a norma dell'[art. 24 del R decreto-legge 2 settembre 1919, n. 1626](Che%20sostituisce%20ed%20abroga%20il%20decreto%20Luogotenenziale%2027%20febbraio%201919%20n.%20234%20relativo%20al%20riordinamento%20del%20personale%20e%20dei%20servizi%20di%20cancelleria.%20019U1626.md), sono aumentati a centesimi cinquanta per ogni pagina. 
  
- Per la retribuzione del lavoro straordinario di copiatura rimane fermo l'obbligo stabilito dall'art. 22 del regolamento approvato con il [R. decreto 9 febbraio 1896, n. 25](Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), di non prelevare una quota superiore ai quattro decimi delle somme che spettano alla cancelleria per diritti di copia.
+ Per la retribuzione del lavoro straordinario di copiatura rimane fermo l'obbligo stabilito dall'art. 22 del regolamento approvato con il [R. decreto 9 febbraio 1896, n. 25](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), di non prelevare una quota superiore ai quattro decimi delle somme che spettano alla cancelleria per diritti di copia.
 
 ## Art. 2.
 

@@ -36,7 +36,7 @@ Tutte le operazioni di finanziamento, di cui alla presente legge, rientrano nel 
 
 ## Art. 5.
 
-Per le operazioni di finanziamento previste dalla presente legge, sono applicabili al Consorzio nazionale fra gli Istituti fascisti per le case popolari tutte le facolta', diritti, esenzioni fiscali e privilegi stabiliti per gli Istituti predetti dal [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con R. decreto 2S aprile 1938-XVI, n. 1165.
+Per le operazioni di finanziamento previste dalla presente legge, sono applicabili al Consorzio nazionale fra gli Istituti fascisti per le case popolari tutte le facolta', diritti, esenzioni fiscali e privilegi stabiliti per gli Istituti predetti dal [testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con R. decreto 2S aprile 1938-XVI, n. 1165.
 
 ## Art. 6.
 

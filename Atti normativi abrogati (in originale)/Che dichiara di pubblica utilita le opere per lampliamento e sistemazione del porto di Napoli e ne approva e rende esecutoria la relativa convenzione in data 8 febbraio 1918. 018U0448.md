@@ -142,7 +142,7 @@ Alla scadenza del termine assegnato alla durata dell'ente autonomo, le opere e l
 
 ## Art. 12.
 
-E' istituita a favore dell'ente una soprattassa di ancoraggio di centesimi cinque per tonnellata di stazza netta a carico delle navi che entrano nel porto di Napoli, nei limiti e con le modalita' di cui al [R. decreto 21 dicembre 1899, n. 465](Col%20quale%20viene%20applicata%20una%20soprattassa%20di%20ancoraggio%20alle%20navi%20che%20approdano%20nel%20porto%20di%20Genova.%20099U0465.md) per la applicazione della detta soprattassa nel porto di Genova. 
+E' istituita a favore dell'ente una soprattassa di ancoraggio di centesimi cinque per tonnellata di stazza netta a carico delle navi che entrano nel porto di Napoli, nei limiti e con le modalita' di cui al [R. decreto 21 dicembre 1899, n. 465](../Regi%20decreti/Col%20quale%20viene%20applicata%20una%20soprattassa%20di%20ancoraggio%20alle%20navi%20che%20approdano%20nel%20porto%20di%20Genova.%20099U0465.md) per la applicazione della detta soprattassa nel porto di Genova. 
  
  E' inoltre data facolta' all'ente, con l'approvazione dei ministri dell'industria, commercio e lavoro e dei trasporti, di elevare fino a dieci centesimi la soprattassa di ancoraggio e di istituire uno speciale diritto sugli imbarchi o sbarchi di passeggeri nel porto di Napoli, fatta eccezione per le provenienze e per le partenze dal golfo Napoli e dalle isole delle provincie di Napoli e di Caserta.
 Tale diritto non potra' superare L. 1 per i passeggieri di 3ª classe, L. 2 per quelli di 2ª classe e L. 5 per quelli di 1ª classe.

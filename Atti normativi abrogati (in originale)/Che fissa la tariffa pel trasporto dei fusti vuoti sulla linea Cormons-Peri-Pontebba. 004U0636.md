@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A complemento delle disposizioni contenute nel [R. decreto 22 settembre 1904 n. 569](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-09-22;569), i trasporti di fusti vuoti di ritorno e di quelli destinati a prender carico per l'esportazione in Austria-Ungheria dei vini comuni in botti o fusti in base alla tariffa eccezionale n. 1055 bis approvata col R. decreto anzidetto, e da spedirsi pei transiti di terra (Cormons, Peri, Pontebba), saranno tassati col prezzo di L. 0,0618 per chilometro e per vagone di qualunque portata, non superiore alle 12 tonnellate.
+A complemento delle disposizioni contenute nel [R. decreto 22 settembre 1904 n. 569](../Regi%20decreti/Per%20lapplicazione%20della%20tariffa%201055%20bis%20P.%20V.%20per%20lesportazione%20in%20Austria-Ungheria%20dei%20vini%20comuni%20in%20botti%20o%20fusti.%20004U0569.md), i trasporti di fusti vuoti di ritorno e di quelli destinati a prender carico per l'esportazione in Austria-Ungheria dei vini comuni in botti o fusti in base alla tariffa eccezionale n. 1055 bis approvata col R. decreto anzidetto, e da spedirsi pei transiti di terra (Cormons, Peri, Pontebba), saranno tassati col prezzo di L. 0,0618 per chilometro e per vagone di qualunque portata, non superiore alle 12 tonnellate.
 
 ## Art. 2.
 

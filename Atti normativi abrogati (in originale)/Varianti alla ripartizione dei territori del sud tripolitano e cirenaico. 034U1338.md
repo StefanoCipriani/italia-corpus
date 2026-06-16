@@ -18,9 +18,9 @@ Vista la legge organica per l'amministrazione della Tripolitania e della Cirenai
 
 Visto il [R. decreto-legge 24 gennaio 1929, n. 99](Istituzione%20del%20Governo%20unico%20della%20Tripolitania%20e%20Cirenaica.%20029U0099.md), per la istituzione del Governo unico della Tripolitania e della Cirenaica, convertito nella [legge 11 luglio 1929, n. 1231](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20gennaio%201929%20n.%2099%20riguardante%20la%20istituzione%20del%20Governo%20unico%20della%20Tripolitania%20e%20Cirenaica.%20029U1231.md);
 
-Visto il [R. decreto 31 agosto 1928, n. 2302](Ordinamento%20poilitico-amministrativo%20della%20Tripolitania%20e%20della%20Cirenaica.%20028U2302.md), sull'ordinamento politico e amministrativo della Tripolitania e della Cirenaica;
+Visto il [R. decreto 31 agosto 1928, n. 2302](../Regi%20decreti/Ordinamento%20poilitico-amministrativo%20della%20Tripolitania%20e%20della%20Cirenaica.%20028U2302.md), sull'ordinamento politico e amministrativo della Tripolitania e della Cirenaica;
 
-Visto il [R. decreto 3 settembre 1926, n. 1608](Nuovo%20ordinamento%20militare%20pei%20Regi%20corpi%20di%20truppe%20coloniali%20della%20Tripolitania%20e%20della%20Cirenaica.%20026U1608.md) sull'ordinamento per i Regi corpi di truppe coloniali della Tripolitania e della Cirenaica, e successive modificazioni;
+Visto il [R. decreto 3 settembre 1926, n. 1608](../Regi%20decreti/Nuovo%20ordinamento%20militare%20pei%20Regi%20corpi%20di%20truppe%20coloniali%20della%20Tripolitania%20e%20della%20Cirenaica.%20026U1608.md) sull'ordinamento per i Regi corpi di truppe coloniali della Tripolitania e della Cirenaica, e successive modificazioni;
 
 Visti i decreti Ministeriali 26 giugno 1931, che modificano i limiti di giurisdizione territoriale delle zone militari del Fezzan in Tripolitania e di Cufra in Cirenaica;
 

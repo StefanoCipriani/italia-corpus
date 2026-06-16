@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 24 dicembre 1911, n. 1364](Col%20quale%20viene%20prorogato%20a%20tutto%20il%2031%20dicembre%201912%20il%20corso%20legale%20dei%20biglietti%20di%20Banca.%20011U1364.md), che proroga a tutto il 31 dicembre 1912, il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di cui all'art. 9 del testo unico delle leggi sugli Istituti di emissione.
+E' convertito in legge il [R. decreto 24 dicembre 1911, n. 1364](../Regi%20decreti/Col%20quale%20viene%20prorogato%20a%20tutto%20il%2031%20dicembre%201912%20il%20corso%20legale%20dei%20biglietti%20di%20Banca.%20011U1364.md), che proroga a tutto il 31 dicembre 1912, il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di cui all'art. 9 del testo unico delle leggi sugli Istituti di emissione.
 
 ## Art. 2.
 

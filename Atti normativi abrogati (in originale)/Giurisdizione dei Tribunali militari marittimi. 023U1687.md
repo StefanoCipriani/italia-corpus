@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo;
+Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo;
 
-Visto il [R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189), che stabilisce il nuovo ordinamento dei servizi dipartimentali della R. marina;
+Visto il [R. decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), che stabilisce il nuovo ordinamento dei servizi dipartimentali della R. marina;
 
 Visto il [R. decreto 15 marzo 1923, n. 655](Che%20determina%20la%20sede%20dei%20tribunali%20militari%20marittimi.%20023U0655.md), che designa le sedi dei Tribunali militari marittimi;
 

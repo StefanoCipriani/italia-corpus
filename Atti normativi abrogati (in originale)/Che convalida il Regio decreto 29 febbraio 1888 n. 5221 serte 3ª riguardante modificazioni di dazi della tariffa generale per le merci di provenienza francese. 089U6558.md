@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convalidato il [Regio decreto 29 febbraio 1888, n. 5221](Che%20modifica%20dal%201%20marzo%20i%20dazi%20della%20tariffa%20generale%20per%20le%20merci%20di%20provenienza%20francese.%20088U5221.md) (serie 3ª), riguardante modificazioni di dazi della tariffa generale per le merci di provenienza francese.
+E' convalidato il [Regio decreto 29 febbraio 1888, n. 5221](../Regi%20decreti/Che%20modifica%20dal%201%20marzo%20i%20dazi%20della%20tariffa%20generale%20per%20le%20merci%20di%20provenienza%20francese.%20088U5221.md) (serie 3ª), riguardante modificazioni di dazi della tariffa generale per le merci di provenienza francese.
 
 ## Art. 2.
 

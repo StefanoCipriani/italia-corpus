@@ -84,7 +84,7 @@ Per i candidati di cui al precedente art. 3, 1° capoverso, il risultato degli e
 
 Per gli esami scritti da effettuarsi nelle sedi all'estero, giusta il disposto dell'art. 3, 1° capoverso, la Commissione diramera' i temi in tempo utile per il tramite del Ministero, in plichi suggellati, diretti personalmente ai capi dei Regi uffici presso cui tali esami dovranno aver luogo. 
  
- Ciascun capo d'ufficio, sotto la sua personale responsabilita', aprira' i pieghi solo nel giorno rispettivamente stabilito per ciascun esame e curera' che questi si effettuino sotto speciale vigilanza, in relazione alle norme fissate dal [Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), nonche' a quelle altre che la Commissione giudicatrice riterra' di stabilire. 
+ Ciascun capo d'ufficio, sotto la sua personale responsabilita', aprira' i pieghi solo nel giorno rispettivamente stabilito per ciascun esame e curera' che questi si effettuino sotto speciale vigilanza, in relazione alle norme fissate dal [Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), nonche' a quelle altre che la Commissione giudicatrice riterra' di stabilire. 
  
  Opportune norme saranno dalla stessa Commissione fissate per l'invio al Ministero dei temi svolti.
 

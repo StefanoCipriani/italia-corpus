@@ -174,7 +174,7 @@ TITOLO III.
 
 ### Art. 19.
 
-Ai capi tecnici, ai preparatori ed al personale d'inservienza delle RR. scuole superiori di agricoltura e delle RR. stazioni di prova agrarie e speciali che, per effetto del presente decreto, beneficano di miglioramenti in misura uguale o superiore alla indennita' determinata dall'[art. 1 del R. decreto 20 luglio 1919, n. 1232](Che%20concede%20una%20nuova%20indennita%20mensile%20di%20caro-viveri%20al%20personale%20straordinario%20avventizio%20ed%20assimilato%20in%20servizio%20presso%20ciascuna%20amministrazione%20dello%20Stato.%20019U1232.md), non spetta l'indennita' stessa. Qualora, invece, essi conseguano un miglioramento inferiore a tale indennita', verra' loro concessa la differenza, a decorrere dal 1° luglio 1919.
+Ai capi tecnici, ai preparatori ed al personale d'inservienza delle RR. scuole superiori di agricoltura e delle RR. stazioni di prova agrarie e speciali che, per effetto del presente decreto, beneficano di miglioramenti in misura uguale o superiore alla indennita' determinata dall'[art. 1 del R. decreto 20 luglio 1919, n. 1232](../Regi%20decreti/Che%20concede%20una%20nuova%20indennita%20mensile%20di%20caro-viveri%20al%20personale%20straordinario%20avventizio%20ed%20assimilato%20in%20servizio%20presso%20ciascuna%20amministrazione%20dello%20Stato.%20019U1232.md), non spetta l'indennita' stessa. Qualora, invece, essi conseguano un miglioramento inferiore a tale indennita', verra' loro concessa la differenza, a decorrere dal 1° luglio 1919.
 
 ### Art. 20.
 

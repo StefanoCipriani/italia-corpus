@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 28 del regolamento annesso al [regio decreto 30 settembre 1920, n. 1538](Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md);
+Visto l'art. 28 del regolamento annesso al [regio decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md);
 
 Visti gli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Rappresentanza%20delle%20aziende%20esercenti%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20e%20del%20personale%20da%20esse%20dipendente%20nei%20Consigli%20di%20disciplina%20e%20nelle%20Commissioni%20amministratrici%20de_bc5afda24156.md) e [2 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 97](../Decreti%20legislativi%20luogotenenziali/Rappresentanza%20delle%20aziende%20esercenti%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20e%20del%20personale%20da%20esse%20dipendente%20nei%20Consigli%20di%20disciplina%20e%20nelle%20Commissioni%20amministratrici%20de_bc5afda24156.md);
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento per gli archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163);
+Visto il regolamento per gli archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), concernente la facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -34,7 +34,7 @@ E' istituita a Trento una Direzione d'archivio di Stato, la cui circoscrizione c
 
 ## Art. 3.
 
-La tabella A allegato n. 1 al regolamento sugli archivi di Stato approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), e' modificata per quanto riflette la circoscrizione della Direzione di archivio avente sede a Venezia, la quale comprendera' le provincie di Belluno, Padova, Treviso, Rovigo, Venezia, Verona, Vicenza e non piu' la provincia di Udine. 
+La tabella A allegato n. 1 al regolamento sugli archivi di Stato approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), e' modificata per quanto riflette la circoscrizione della Direzione di archivio avente sede a Venezia, la quale comprendera' le provincie di Belluno, Padova, Treviso, Rovigo, Venezia, Verona, Vicenza e non piu' la provincia di Udine. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

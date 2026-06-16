@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduti gli [articoli 15](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [19 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -76,7 +76,7 @@ La promozione al posto di capo di laboratorio di micrografia e batteriologia del
  
  La promozione al posto di capo di laboratorio chimico della sanita' pubblica si conferisce, per merito comparativo, su designazione del Consiglio di amministrazione, all'ispettore generale chimico che abbia complessivamente, nei gradi 6° e 7°, sei anni di anzianita', agli ispettori generali farmacisti, che abbiano complessivamente, nel grado attuale e in quello di coadiutore chimico, sei anni di anzianita' ed ai coadiutori chimici, che abbiano, nel grado attuale, almeno sette anni di anzianita'. 
  
- Qualora nessuno dei detti impiegati, a giudizio del Consiglio di amministrazione, abbia i necessari titoli di merito, sara' provveduto con pubblico concorso per titoli, secondo le norme stabilite dal Ministero ai sensi dell'[articolo 4 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_4).
+ Qualora nessuno dei detti impiegati, a giudizio del Consiglio di amministrazione, abbia i necessari titoli di merito, sara' provveduto con pubblico concorso per titoli, secondo le norme stabilite dal Ministero ai sensi dell'[articolo 4 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Personale del gruppo C.
 
@@ -98,7 +98,7 @@ I posti di disegnatore fotografo e di applicato al materiale profilattico presso
  
  5° di avere ottemperato alle disposizioni di legge sul reclutamento; 
  
- 6° di avere conseguito il diploma di licenza di scuola media inferiore o alcuno dei diplomi corrispondenti, ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure la licenza della scuola complementare o di una scuola professionale di secondo grado. 
+ 6° di avere conseguito il diploma di licenza di scuola media inferiore o alcuno dei diplomi corrispondenti, ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure la licenza della scuola complementare o di una scuola professionale di secondo grado. 
  
  Gli aspiranti al posto di disegnatore fotografo devono, inoltre, provare di avere fatto pratica per almeno un anno presso studi o uffici tecnici di ingegneria o architettura dipendenti dallo Stato o da altri Enti pubblici, ovvero diretti da privati professionisti.
 

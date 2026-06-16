@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 16 luglio 1923, n. 1753](Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md);
+Veduto il [R. decreto 16 luglio 1923, n. 1753](../Regi%20decreti/Ordinamento%20e%20attribuzioni%20del%20Ministero%20della%20pubblica%20istruzione%20e%20dei%20suoi%20Corpi%20consultivi.%20023U1753.md);
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Veduto il [R. decreto 29 luglio 1925, n. 1286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-29;1286);
 
-Veduto il [R. decreto 7 giugno 1926, n. 944](Provvedimenti%20per%20le%20biblioteche%20governative%20e%20lAmministrazione%20centrale%20della%20pubblica%20istruzione.%20026U0944.md);
+Veduto il [R. decreto 7 giugno 1926, n. 944](../Regi%20decreti/Provvedimenti%20per%20le%20biblioteche%20governative%20e%20lAmministrazione%20centrale%20della%20pubblica%20istruzione.%20026U0944.md);
 
 Veduto il [R. decreto-legge 17 giugno 1928, n. 1314](Passaggio%20delle%20scuole%20e%20degli%20istituti%20distruzione%20tecnica%20professionale%20dalla%20dipendenza%20del%20Ministero%20delleconomia%20nazionale%20a%20quella%20del%20Ministero%20della%20pubblica%20istruzione.%20028U1314.md);
 
@@ -40,7 +40,7 @@ Nell'Amministrazione centrale del Ministero della pubblica istruzione e' istitui
 
 ## Art. 2.
 
-I posti di ispettore generale (grado 5°) nel ruolo del personale appartenente alla carriera amministrativa (gruppo A) dell'Amministrazione centrale della pubblica istruzione, di cui alla tabella C, annessa al [R. decreto 7 giugno 1926, n. 944](Provvedimenti%20per%20le%20biblioteche%20governative%20e%20lAmministrazione%20centrale%20della%20pubblica%20istruzione.%20026U0944.md), sono stabiliti nel numero di quattro.
+I posti di ispettore generale (grado 5°) nel ruolo del personale appartenente alla carriera amministrativa (gruppo A) dell'Amministrazione centrale della pubblica istruzione, di cui alla tabella C, annessa al [R. decreto 7 giugno 1926, n. 944](../Regi%20decreti/Provvedimenti%20per%20le%20biblioteche%20governative%20e%20lAmministrazione%20centrale%20della%20pubblica%20istruzione.%20026U0944.md), sono stabiliti nel numero di quattro.
 
 ## Art. 3.
 

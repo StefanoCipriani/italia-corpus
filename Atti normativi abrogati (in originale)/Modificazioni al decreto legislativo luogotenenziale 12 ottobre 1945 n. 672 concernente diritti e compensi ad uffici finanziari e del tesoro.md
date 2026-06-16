@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato e successive modificazioni;
 
 Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visti gli articoli 28 e 82 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni;
+Visti gli articoli 28 e 82 del testo unico delle leggi per la riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni;
 
-Visti gli articoli 54, 55 e 102 del regolamento per l'esecuzione del testo unico sulla riscossione delle imposte dirette approvato con [regio decreto 15 settembre 1923, n. 2090](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md);
+Visti gli articoli 54, 55 e 102 del regolamento per l'esecuzione del testo unico sulla riscossione delle imposte dirette approvato con [regio decreto 15 settembre 1923, n. 2090](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md);
 
 Visto l'[art. 5 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 332](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20procedure%20esattoriali.%20044U0332.md), recante modificazioni per il rilascio di quietanza di pagamento;
 
@@ -42,8 +42,8 @@ La tabella A, annessa al [decreto legislativo luogotenenziale 12 ottobre 1945, n
 
 ### Art. 2.
 
-Il diritto di riscontro sulle quietanze, indicate al titolo V della tabella prevista dal precedente art. 1, e' riscosso dagli esattori e l'ammontare di esso e' versato entro dodici giorni dalla scadenza di ciascuna rata fissata nell'[art. 23 del regio decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), sullo stesso conto corrente postale, al quale affluiscono i compensi disposti dal [decreto legislativo luogotenenziale 12 ottobre 1945, n. 672](../Decreti%20legislativi%20luogotenenziali/Diritti%20e%20compensi%20spettanti%20agli%20Uffici%20distrettuali%20delle%20imposte%20dirette%20agli%20Uffici%20tecnici%20erariali%20e%20del%20catasto%20agli%20Uffici%20del%20registro%20ed%20agli%20Uffici%20dei%20registri%20immobiliari.%20045U0672.md), e dal presente decreto.
- Gli esattori inadempienti agli obblighi derivanti dal precedente comma incorrono nelle sanzioni previste dal [regio decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni, nonche' dal [regio decreto 15 settembre 1923 n. 2090](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md), e dai capitoli normali.
+Il diritto di riscontro sulle quietanze, indicate al titolo V della tabella prevista dal precedente art. 1, e' riscosso dagli esattori e l'ammontare di esso e' versato entro dodici giorni dalla scadenza di ciascuna rata fissata nell'[art. 23 del regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), sullo stesso conto corrente postale, al quale affluiscono i compensi disposti dal [decreto legislativo luogotenenziale 12 ottobre 1945, n. 672](../Decreti%20legislativi%20luogotenenziali/Diritti%20e%20compensi%20spettanti%20agli%20Uffici%20distrettuali%20delle%20imposte%20dirette%20agli%20Uffici%20tecnici%20erariali%20e%20del%20catasto%20agli%20Uffici%20del%20registro%20ed%20agli%20Uffici%20dei%20registri%20immobiliari.%20045U0672.md), e dal presente decreto.
+ Gli esattori inadempienti agli obblighi derivanti dal precedente comma incorrono nelle sanzioni previste dal [regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e successive modificazioni, nonche' dal [regio decreto 15 settembre 1923 n. 2090](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20riscossione%20delle%20imposte%20dirette.%20023U2090.md), e dai capitoli normali.
 
 ### Art. 3.
 
@@ -64,7 +64,7 @@ La tabella C dei diritti spettanti al personale dell'Amministrazione delle tasse
 
 ### Art. 6.
 
-Il contributo a favore dello Stato, da prelevarsi dall'importo dei diritti e compensi spettanti al personale dell'Amministrazione delle tasse e delle imposte indirette sugli affari ed al personale sussidiario delle Conservatorie dei registri immobiliari, ai sensi dell'art. 76 della legge di registro approvata con [regio decreto 30 dicembre 1923, n. 3269, e degli articoli 10](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e [14](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) del decreto legislativo luogetenenziale 12 ottobre 1945, n. 672, e' abolito.
+Il contributo a favore dello Stato, da prelevarsi dall'importo dei diritti e compensi spettanti al personale dell'Amministrazione delle tasse e delle imposte indirette sugli affari ed al personale sussidiario delle Conservatorie dei registri immobiliari, ai sensi dell'art. 76 della legge di registro approvata con [regio decreto 30 dicembre 1923, n. 3269, e degli articoli 10](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e [14](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) del decreto legislativo luogetenenziale 12 ottobre 1945, n. 672, e' abolito.
 
 ### Art. 7.
 

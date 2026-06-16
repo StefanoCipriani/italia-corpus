@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Le agevolazioni fiscali previste dall'[art. 27 del regio decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md), e successive modificazioni, si applicano anche alle controversie originate da tutti i rapporti di impiego o di lavoro concernenti prestazioni di carattere personale e domestico e quantunque non regolati o non regolabili da contratti collettivi o da norme equiparate.
+Le agevolazioni fiscali previste dall'[art. 27 del regio decreto 21 maggio 1934, n. 1073](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md), e successive modificazioni, si applicano anche alle controversie originate da tutti i rapporti di impiego o di lavoro concernenti prestazioni di carattere personale e domestico e quantunque non regolati o non regolabili da contratti collettivi o da norme equiparate.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

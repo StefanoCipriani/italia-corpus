@@ -12,7 +12,7 @@ vigente: true
 
 I sottufficiali, le guardie scelte e le guardie di pubblica sicurezza possono essere autorizzati a contrarre matrimonio quando abbiano otto anni di servizio effettivo alle dipendenze dello Stato ed abbiano compiuto 28 anni di eta'. 
  
- Sono, per conseguenza, abrogate le disposizioni del [R. decreto 9 marzo 1936, n. 450](Modificazioni%20alle%20norme%20che%20regolano%20il%20matrimonio%20del%20personale%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20036U0450.md), e del [R. decreto 18 giugno 1940, n. 866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-18;866).
+ Sono, per conseguenza, abrogate le disposizioni del [R. decreto 9 marzo 1936, n. 450](../Regi%20decreti/Modificazioni%20alle%20norme%20che%20regolano%20il%20matrimonio%20del%20personale%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20036U0450.md), e del [R. decreto 18 giugno 1940, n. 866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-18;866).
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti gli [articoli 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095#art_17) e [37 del R. decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095#art_37), che approva il testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), con le disposizioni del titolo IV «porti, spiaggie e fari», della preesistente 20 marzo 1865 sui lavori pubblici;
+Visti gli [articoli 17](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md) e [37 del R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), che approva il testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), con le disposizioni del titolo IV «porti, spiaggie e fari», della preesistente 20 marzo 1865 sui lavori pubblici;
 
 Udito il parere del Consiglio del Commercio e del Consiglio di Stato;
 

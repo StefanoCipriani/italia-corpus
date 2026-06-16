@@ -88,7 +88,7 @@ La liquidazione ha per oggetto tutti i beni appartenenti alla Societa', fatta ec
  
  Quando il liquidatore procede all'espropriazione dei beni ipotecati a favore dei creditori della Societa', avvenuta la trascrizione del precetto, il presidente del Tribunale competente pel giudizio di espropriazione, su istanza del liquidatore, provvede alla nomina di un sequestratario, mediante ordinanza provvisoriamente esecutiva. Il presidente preferira' la persona che gli sia proposta dal liquidatore, purche' la riconosca idonea, e possibilmente sara' nominato lo stesso sequestratario per tutti i beni soggetti ad espropriazione. 
  
- Al sequestratario cosi' nominato si applica l'ultimo comma dell'art. 45 e l'art. 48 del testo unico approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md); per effetto di questa ultima disposizione il sequestratario deve versare al liquidatore la eccedenza della rendita e dei frutti riscossi. 
+ Al sequestratario cosi' nominato si applica l'ultimo comma dell'art. 45 e l'art. 48 del testo unico approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md); per effetto di questa ultima disposizione il sequestratario deve versare al liquidatore la eccedenza della rendita e dei frutti riscossi. 
  
  Si applicano inoltre al procedimento di espropriazione gli articoli 49, prima parte, 52, 53 e 54 del testo unico summenzionato. 
  

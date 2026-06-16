@@ -22,7 +22,7 @@ Sono abrogati gli articoli 268, 269 e 270 del Codici penale del 20 novembre 1859
 
 ## Art. 2.
 
-E' abrogato l'[articolo 3 del Regio Decreto 27 novembre 1870, n. 6030](Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20alcuni%20Codici%20Leggi%20Decreti%20e%20Regolamenti%20concernenti%20lunificazione%20legislativa.%20070U6030.md). 
+E' abrogato l'[articolo 3 del Regio Decreto 27 novembre 1870, n. 6030](../Regi%20decreti/Che%20manda%20pubblicare%20nella%20Provincia%20di%20Roma%20alcuni%20Codici%20Leggi%20Decreti%20e%20Regolamenti%20concernenti%20lunificazione%20legislativa.%20070U6030.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
  

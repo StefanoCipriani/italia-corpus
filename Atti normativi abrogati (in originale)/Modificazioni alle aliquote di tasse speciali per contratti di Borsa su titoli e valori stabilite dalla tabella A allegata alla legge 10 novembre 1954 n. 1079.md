@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md);
+Visto il [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md);
 
 Vista la [legge 10 novembre 1954, n. 1079](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-10;1079);
 

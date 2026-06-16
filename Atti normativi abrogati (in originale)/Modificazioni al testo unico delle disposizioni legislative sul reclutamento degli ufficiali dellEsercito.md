@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
+Visto il testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, d'intesa col Ministro per il tesoro; 
 
 ## Art. 1.
 
-Sono abrogati gli articoli 43, 44 e 45 del testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni.
+Sono abrogati gli articoli 43, 44 e 45 del testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni.
 
 ## Art. 2.
 

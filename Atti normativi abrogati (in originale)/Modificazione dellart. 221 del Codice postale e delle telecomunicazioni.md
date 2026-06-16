@@ -16,7 +16,7 @@ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
 
-Visto l'art. 221 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e successive modificazioni;
+Visto l'art. 221 del Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e successive modificazioni;
 
 Riconosciuta l'opportunita' di abrogare, per la questione prevista dall'art. 221 del Codice postale e delle telecomunicazioni, l'obbligo di sentire il parere del Consiglio di amministrazione delle poste e dei telegrafi;
 

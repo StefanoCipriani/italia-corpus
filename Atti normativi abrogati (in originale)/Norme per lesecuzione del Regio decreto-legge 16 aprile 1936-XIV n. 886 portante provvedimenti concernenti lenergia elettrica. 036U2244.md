@@ -20,7 +20,7 @@ Visto il R. decreto legge 16 aprile 1936-XIV, n. 886, portante provvedimenti con
 
 Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV;, n. 100.
 
-Visti gli [articoli 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_117) e [225 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_225), approvato con R. decreto 11 dicembre 1933-XII, n. 1775;
+Visti gli [articoli 117](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e [225 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con R. decreto 11 dicembre 1933-XII, n. 1775;
 
 Ritenuta la necessita' e l'urgenza di dettare le norme integrative e di esecuzione del suddetto Regio decreto-legge;
 
@@ -36,7 +36,7 @@ Il Comitato centrale per la mobilitazione dell'energia elettrica:
  
  b) esercita azione di controllo sugli esercenti imprese di produzione, trasporto e distribuzione di energia elettrica onde assicurare la esecuzione dei provvedimenti di cui alla lettera precedente; 
  
- c) predispone gli elementi per l'applicazione del primo e secondo capoverso dell'[art. 117 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_117), approvato con R. decreto 11 dicembre 1933-XII, n. 1775; 
+ c) predispone gli elementi per l'applicazione del primo e secondo capoverso dell'[art. 117 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con R. decreto 11 dicembre 1933-XII, n. 1775; 
  
  d) studia e progetta opere di interesse nazionale intese ad assicurare la sufficiente disponibilita' di, energia elettrica, permettere gli occorrenti scambi e perfezionare l'attrezzatura elettrica della Nazione, anche in armonia coi programmi tecnici delle Ferrovie dello Stato; 
  
@@ -58,7 +58,7 @@ I componenti il Comitato centrale per la mobilitazione dell'energia elettrica so
  
  In relazione ai compiti di cui al precedente articolo, il Comitato puo' dare al presidente ogni piu' ampio mandato, nominare nel proprio seno uno o piu' Sottocomitati, conferire ad essi propri poteri, farsi coadiuvare da esperti di propria fiducia singolarmente o riuniti in Commissione consultiva. 
  
- Ai componenti il Comitato centrale per la mobilitazione dell'energia elettrica viene corrisposta per ogni giornata di seduta una medaglia di presenza nei limiti stabiliti dall'[art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). 
+ Ai componenti il Comitato centrale per la mobilitazione dell'energia elettrica viene corrisposta per ogni giornata di seduta una medaglia di presenza nei limiti stabiliti dall'[art. 63 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). 
  
  Inoltre, ai membri estranei all'Amministrazione dello Stato, provenienti da altra sede, sara' fatto il trattamento di missione stabilito per il grado 5° dei funzionari dello Stato.
 
@@ -106,7 +106,7 @@ La sorveglianza di cui alla lettera h) dell'art. 1, viene esercitata dal Comitat
 
 ## Art. 7.
 
-Le spese per il funzionamento del Comitato centrale per la mobilitazione dell'energia elettrica e dell'Ufficio per la mobilitazione dell'energia elettrica, nonche' quelle per l'esplicazione delle relative attivita', sono imputate allo speciale capitolo istituito nello stato di previsione della spesa del Ministero dei lavori pubblici, a norma dell'[art. 225 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_225), approvato con R. decreto 11 dicembre 1933-XII, n. 1775. 
+Le spese per il funzionamento del Comitato centrale per la mobilitazione dell'energia elettrica e dell'Ufficio per la mobilitazione dell'energia elettrica, nonche' quelle per l'esplicazione delle relative attivita', sono imputate allo speciale capitolo istituito nello stato di previsione della spesa del Ministero dei lavori pubblici, a norma dell'[art. 225 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con R. decreto 11 dicembre 1933-XII, n. 1775. 
  
  Il Ministro per i lavori pubblici, su proposta del Comitato centrale per la mobilitazione dell'energia elettrica, determina la misura dei versamenti che annualmente sono effettuati dagli utenti delle acque pubbliche e dagli esercenti degli impianti e delle linee elettriche. L'ammontare globale di tali versamenti, da effettuarsi in Tesoreria con imputazione all'apposito capitolo esistente nel bilancio dell'entrata, deve corrispondere alla meta' della dotazione del capitolo sullo stato di previsione della spesa del Ministero dei lavori pubblici, di cui al comma precedente. Tale quota, a carico degli utenti ed esercenti, puo' essere aumentata anche oltre la meta' della dotazione con disposizione del Ministro per i lavori pubblici, di concerto con quello per le finanze, quando l'entita' delle spese da sostenersi in applicazione del citato testo unico lo richieda.
 

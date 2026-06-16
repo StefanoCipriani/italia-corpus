@@ -18,7 +18,7 @@ Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848), sugli Enti ecclesiastici e sulle Amministrazioni civili dei patrimoni destinati a fini di culto;
 
-Visto l'art. 83 del regolamento per l'esecuzione della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848), approvato con [R. decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262);
+Visto l'art. 83 del regolamento per l'esecuzione della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848), approvato con [R. decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md);
 
 Uditi il Consiglio di Stato ed il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 ## Articolo unico.
 
-E' prorogato al 30 giugno 1934 il termine indicato nell'articolo 83 del regolamento approvato con [R. decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262), per il compimento delle operazioni relative alla chiusura delle gestioni degli ex Economati generali dei benefici vacanti. 
+E' prorogato al 30 giugno 1934 il termine indicato nell'articolo 83 del regolamento approvato con [R. decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md), per il compimento delle operazioni relative alla chiusura delle gestioni degli ex Economati generali dei benefici vacanti. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a Roma, addi' 31 dicembre 1931 - Anno X 
  

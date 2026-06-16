@@ -20,7 +20,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 ## Art. 1.
 
-E' abrogato il primo capoverso dell'[art. 78 del R. decreto 14 settembre 1923, n. 1921](Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md). 
+E' abrogato il primo capoverso dell'[art. 78 del R. decreto 14 settembre 1923, n. 1921](../Regi%20decreti/Modificazioni%20allordinamento%20giudiziario%20e%20sistemazione%20del%20personale%20della%20magistratura%20delle%20nuove%20provincie.%20023U1921.md). 
  
  I giudici aggiunti, provenienti dagli ascoltanti, praticanti di diritto e candidati di avvocatura delle nuove Provincie, possono essere destinati anche nelle Preture, nei Tribunali e nelle Regie procure delle altre Provincie del Regno nei limiti dei posti vacanti, secondo le esigenze del servizio. Essi prendono posto nel ruolo generale dei giudici aggiunti in base alla data della loro nomina. 
  

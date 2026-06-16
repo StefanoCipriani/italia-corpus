@@ -310,8 +310,8 @@ Per gli atti e scritti in violazione al bollo, oltre le sopratasse e le pene pec
 
 ### Art. 40.
 
-Nei casi di falsificazione, di contraffazione e di alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo in modo virtuale, oltre le sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono applicabili le pene pecuniarie e le sopratasse stabilite dal presente decreto per il mancato pagamento della imposta se questa sia dovuta.
- Le pene stabilite dall'[art. 466 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia carta bollata, marche o altri valori di bollo precedentemente usati.
+Nei casi di falsificazione, di contraffazione e di alterazione di valori bollati, di bollo a punzone o di attestazioni di pagamento delle imposte di bollo in modo virtuale, oltre le sanzioni previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono applicabili le pene pecuniarie e le sopratasse stabilite dal presente decreto per il mancato pagamento della imposta se questa sia dovuta.
+ Le pene stabilite dall'[art. 466 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia carta bollata, marche o altri valori di bollo precedentemente usati.
  La norma del primo comma si applica anche nella ipotesi prevista dal precedente comma quando nella sentenza sia accertato il precedente uso di un valore di bollo.
 
 ## Competenza per l'accertamento delle violazioni

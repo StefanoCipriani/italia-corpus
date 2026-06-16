@@ -23,7 +23,7 @@ E' autorizzata la spesa di un miliardo di lire per la corresponsione una tantum 
 ## Art. 2. — (Provvedimenti di emergenza)
 
 E' autorizzata la spesa di due miliardi di lire per interventi straordinari del Commissario generale per il territorio di Trieste riguardanti le esigenze immediate delle popolazioni di confine, la sistemazione provvisoria dei profughi, le necessita' di avviamento al lavoro e per l'adozione di altri provvedimenti richiesti da particolari situazioni di emergenza connesse al trasferimento dell'anzidetto territorio.
- L'erogazione della somma indicata nel precedente comma e' effettuata dal Commissario generale valendosi di aperture di credito, il cui importo, in deroga alle limitazioni stabilite dall'art. 56, penultimo comma, del [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni, puo' raggiungere il limite massimo di 250 milioni.
+ L'erogazione della somma indicata nel precedente comma e' effettuata dal Commissario generale valendosi di aperture di credito, il cui importo, in deroga alle limitazioni stabilite dall'art. 56, penultimo comma, del [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, puo' raggiungere il limite massimo di 250 milioni.
 
 ## Art. 3. — (Autorizzazione di spesa per l'Universita' di Trieste)
 

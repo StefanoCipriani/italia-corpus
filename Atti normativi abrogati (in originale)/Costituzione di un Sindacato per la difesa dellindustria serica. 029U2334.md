@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 29 aprile 1923, n. 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), concernente l'esercizio delle assicurazioni private;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), sulla assicurazione obbligatoria per la invalidita' e la vecchiaia;
+Visto il [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), sulla assicurazione obbligatoria per la invalidita' e la vecchiaia;
 
-Visto il [R. decreto 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1422), che approva il regolamento per l'esecuzione del suddetto decreto n. 3184;
+Visto il [R. decreto 28 agosto 1924, n. 1422](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20linvalidita%20e%20la%20vecchiaia.%20024U1422.md), che approva il regolamento per l'esecuzione del suddetto decreto n. 3184;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), concernente l'assicurazione obbligatoria contro la disoccupazione involontaria;
+Visto il [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), concernente l'assicurazione obbligatoria contro la disoccupazione involontaria;
 
 Vista la [legge 13 dicembre 1928, n. 3107](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto-legge%2016%20dicembre%201926%20n.%202265%20concernente%20listituzione%20dellEnte%20nazionale%20serico.%20028U3107.md), concernente la istituzione dell'Ente nazionale serico;
 
@@ -48,7 +48,7 @@ Il Sindacato per la difesa dell'industria serica ha per compiti:
 
 ## Art. 3.
 
-Le perdite eventualmente derivanti dalle operazioni indicate nell'art. 2 graveranno sul fondo della disoccupazione, istituito con l'[art. 11 del R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158#art_11).
+Le perdite eventualmente derivanti dalle operazioni indicate nell'art. 2 graveranno sul fondo della disoccupazione, istituito con l'[art. 11 del R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md).
 
 ## Art. 4.
 

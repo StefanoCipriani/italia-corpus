@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Agli articoli 131 e 132 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 6 agosto 1888, n. 5655](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md), e' sostituito il seguente: 
+ Agli articoli 131 e 132 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 6 agosto 1888, n. 5655](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20088U5655.md), e' sostituito il seguente: 
  
  I militari in congedo possono essere chiamati in servizio in totalita', ovvero in parte, per classi, per categoria, per arma di ascrizione o di provenienza, per corpo, per specialita' di servizio o per distretto militare. 
  

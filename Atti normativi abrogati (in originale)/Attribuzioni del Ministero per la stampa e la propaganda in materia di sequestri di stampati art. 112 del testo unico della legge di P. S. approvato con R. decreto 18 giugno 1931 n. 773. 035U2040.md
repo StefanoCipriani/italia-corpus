@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 3 del decreto 6 settembre 1934-XII, n. 1434, col quale viene fatta riserva di stabilire con successivi provvedimenti le norme per l'organizzazione ed il funzionamento del Sottosegretariato di Stato per la stampa e per la propaganda;
 
-Visto il [testo unico delle leggi di P. S.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con [R. decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+Visto il [testo unico delle leggi di P. S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Visto il R. decreto 18 settembre 1934-XII, n. 1565;
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la stampa o la propag
 
 ## Art. 1.
 
-Al Ministero per la stampa e propaganda e' riconosciuta la facolta' di ordinare l'esecuzione dei sequestri in via amministrativa nei casi previsti dall'[art. 112 del testo unico delle leggi di P. S.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_112) approvato con [R. decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773). 
+Al Ministero per la stampa e propaganda e' riconosciuta la facolta' di ordinare l'esecuzione dei sequestri in via amministrativa nei casi previsti dall'[art. 112 del testo unico delle leggi di P. S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md). 
  
  Per l'esercizio di tale facolta' il Ministero stesso emette ordini ed impartisce istruzioni alle Regie prefetture e, nei casi d'urgenza, anche direttamente alle Regie questure ed uffici dipendenti che sono tenuti a curarne l'osservanza. 
  

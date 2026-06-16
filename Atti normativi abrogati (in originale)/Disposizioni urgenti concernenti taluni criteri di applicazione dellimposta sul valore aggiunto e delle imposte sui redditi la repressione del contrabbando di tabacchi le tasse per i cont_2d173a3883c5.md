@@ -88,7 +88,7 @@ I soggetti che alla data del 1' gennaio 1991 hanno gia' approvato il bilancio o 
 
 4.
 
-La disposizione di cui al [comma 2 dell'articolo 5 della legge 29 dicembre 1990, n. 405](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201991.md), deve intendersi applicabile anche ai fini del computo della riduzione di cui al comma 3 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). Con decreto del Ministro delle finanze saranno stabilite modalita' per l'applicazione del presente comma.
+La disposizione di cui al [comma 2 dell'articolo 5 della legge 29 dicembre 1990, n. 405](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201991.md), deve intendersi applicabile anche ai fini del computo della riduzione di cui al comma 3 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). Con decreto del Ministro delle finanze saranno stabilite modalita' per l'applicazione del presente comma.
 
 5.
 
@@ -144,7 +144,7 @@ Le disposizioni dell'[articolo 1 della legge 15 maggio 1986, n. 191](https://www
 
 1.
 
-L'Unione nazionale incremento razze equine (UNIRE), quando corrisponde i premi indicati nell'[articolo 3 della legge 24 marzo 1942, n. 315](Provvedimenti%20per%20la%20ippicoltura.%20042U0315.md), deve operare all'atto del pagamento una ritenuta alla fonte nella misura prevista dall'[articolo 28, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), con l'obbligo di rivalsa. La ritenuta e' operata a titolo d'acconto dell'imposta sul reddito delle persone fisiche o dell'imposta sul reddito delle persone giuridiche dovuta dal percipiente nei confronti dei soggetti che esercitano le attivita' commerciali indicate nell'articolo 51 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e a titolo di imposta nei confronti degli altri soggetti.
+L'Unione nazionale incremento razze equine (UNIRE), quando corrisponde i premi indicati nell'[articolo 3 della legge 24 marzo 1942, n. 315](Provvedimenti%20per%20la%20ippicoltura.%20042U0315.md), deve operare all'atto del pagamento una ritenuta alla fonte nella misura prevista dall'[articolo 28, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), con l'obbligo di rivalsa. La ritenuta e' operata a titolo d'acconto dell'imposta sul reddito delle persone fisiche o dell'imposta sul reddito delle persone giuridiche dovuta dal percipiente nei confronti dei soggetti che esercitano le attivita' commerciali indicate nell'articolo 51 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e a titolo di imposta nei confronti degli altri soggetti.
 
 2.
 
@@ -236,11 +236,11 @@ tipo . . . . . . . . . . . . . . . . . . . . . . . . . . 12
 
 2.
 
-Per le violazioni alle disposizioni recate dal [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.
+Per le violazioni alle disposizioni recate dal [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.
 
 3.
 
-All'articolo 1 del testo di legge delle tasse sui contratti di borsa, approvato con [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e' aggiunto, in fine, il seguente comma:
+All'articolo 1 del testo di legge delle tasse sui contratti di borsa, approvato con [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e' aggiunto, in fine, il seguente comma:
  "La tassa si applica anche ai contratti a titolo oneroso, aventi per oggetto i titoli e i valori di cui alle lettere a) e b) del secondo comma nonche' le quote di partecipazione in societa' di ogni tipo, conclusi per atto pubblico o scrittura privata o comunque in altro modo non conforme agli usi di borsa, esclusi quelli soggetti ad imposta di registro in misura proporzionale. Le quote di partecipazione in enti aventi per oggetto esclusivo o principale l'esercizio di attivita' commerciali sono assimilate a quelle di partecipazione in societa'. Sono esenti dalla tassa le transazioni fatte con non residenti.".
 
 4.

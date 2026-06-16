@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni;
 
-Visto il [R. decreto 10 ottobre 1935, n. 2011](Assunzione%20di%20personale%20non%20di%20ruolo%20da%20parte%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20035U2011.md);
+Visto il [R. decreto 10 ottobre 1935, n. 2011](../Regi%20decreti/Assunzione%20di%20personale%20non%20di%20ruolo%20da%20parte%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20035U2011.md);
 
 Visto il [R. decreto-legge 3 febbraio 1936, n. 447](Istituzione%20di%20Addetti%20stampa%20presso%20le%20Regie%20Rappresentanze%20diplomatiche%20allestero.%20036U0447.md), convertito nella [legge 4 giugno 1936, n. 1450](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20febbraio%201936-XIV%20n.%20447%20concernente%20listituzione%20degli%20Addetti%20stampa%20presso%20le%20Regie%20Rappresentanze%20diplomatiche%20allestero.%20036U1450.md), di istituzione degli Addetti stampa presso le Regie Rappresentanze diplomatiche all'estero;
 
@@ -128,7 +128,7 @@ Per sopperire a straordinarie esigenze di servizio, il Ministero per la stampa e
 
 ## Art. 10.
 
-Presso il Ministero per la stampa e la propaganda e' costituito un Consiglio di amministrazione, presieduto dal Ministro o dal Sottosegretario di Stato e composto in conformita' dell'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11). 
+Presso il Ministero per la stampa e la propaganda e' costituito un Consiglio di amministrazione, presieduto dal Ministro o dal Sottosegretario di Stato e composto in conformita' dell'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Per il personale subalterno il Consiglio di amministrazione e' costituito ai sensi dell'art. 112 del citato R. decreto n. 2960. 
  

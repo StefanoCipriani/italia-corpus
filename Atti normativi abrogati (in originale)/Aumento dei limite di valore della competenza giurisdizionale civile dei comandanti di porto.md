@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 247](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alla%20competenza%20per%20valore%20dei%20giudici%20conciliatori%20e%20dei%20pretori.md);
 
@@ -22,7 +22,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di stato per la grazia e g
 
 ## Art. 1.
 
-Il limite di valore della competenza del comandante di porto, nelle materie indicate negli [articoli 589](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [603 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' elevato a lire cinquantamila.
+Il limite di valore della competenza del comandante di porto, nelle materie indicate negli [articoli 589](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [603 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' elevato a lire cinquantamila.
 
 ## Art. 2.
 

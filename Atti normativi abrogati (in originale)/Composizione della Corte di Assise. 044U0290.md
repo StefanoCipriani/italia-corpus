@@ -32,7 +32,7 @@ La composizione della Corte di Assise, anche fuori dei casi preveduti nell'[art.
 
 ## Art. 2.
 
-Le disposizioni dell'art. 12 del testo unico approvato con [R. decreto 4 ottobre 1935, n. 1899](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md), circa il giuramento degli assessori all'atto della nomina, sono abrogate. 
+Le disposizioni dell'art. 12 del testo unico approvato con [R. decreto 4 ottobre 1935, n. 1899](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md), circa il giuramento degli assessori all'atto della nomina, sono abrogate. 
  
  I giudici popolari chiamati a prestare servizio giurano all'inizio di ciascun dibattimento in conformita' di quanto era stabilito per i giurati dall'[art. 440 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_440) approvato con [R. decreto 27 febbraio 1913, n. 127](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20di%20procedura%20penale.%20013U0127.md). A tale scopo il presidente della Corte di Assise li invita ad alzarsi e stando in piedi egli stesso legge la seguente formula: 
  

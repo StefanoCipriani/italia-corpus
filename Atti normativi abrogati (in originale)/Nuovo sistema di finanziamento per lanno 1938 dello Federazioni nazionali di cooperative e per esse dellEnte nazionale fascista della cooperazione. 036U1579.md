@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-La misura dei contributi sindacali obbligatori disciplinati dal [R. decreto 1° dicembre 1930, n. 1644](Disciplina%20delle%20denunzie%20e%20dei%20contributi%20sindacali%20obbligatori%20per%20il%20periodo%20dal%201%20gennaio%201931%20al%2030%20giugno%201933.%20030U1644.md), e' aumentata per l'anno 1936 dell'1,50 per cento. 
+La misura dei contributi sindacali obbligatori disciplinati dal [R. decreto 1° dicembre 1930, n. 1644](../Regi%20decreti/Disciplina%20delle%20denunzie%20e%20dei%20contributi%20sindacali%20obbligatori%20per%20il%20periodo%20dal%201%20gennaio%201931%20al%2030%20giugno%201933.%20030U1644.md), e' aumentata per l'anno 1936 dell'1,50 per cento. 
  
  Il gettito di tale aumento, prelevate le quote dovute per legge, e' destinato alle Federazioni nazionali delle imprese cooperative, e per esse all'Ente nazionale fascista per la cooperazione.
 

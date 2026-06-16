@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il ruolo organico del personale del collegio «Regina Margherita» in Anagni, approvato con [R. decreto del 1° luglio 1894, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-07-01;305) (parte supplementare), e 1° gennaio 1899, n. 16, (parte supplementare); 
+ Veduto il ruolo organico del personale del collegio «Regina Margherita» in Anagni, approvato con [R. decreto del 1° luglio 1894, n. 305](../Regi%20decreti/Che%20approva%20il%20ruolo%20organico%20del%20personale%20del%20collegio%20Regina%20Margherita%20in%20Anagni.%209400305R.md) (parte supplementare), e 1° gennaio 1899, n. 16, (parte supplementare); 
  
  Veduto lo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio finanziario 1898-99 (documento n. 7, allegato 6), presentato alla Camera dei deputati il 18 novembre 1898, e la tabella organica del collegio di Anagni, ivi annessa, e nella quale e' l'annotazione: «lo stipendio degli impiegati compresi nel presente ruolo sara' aumentato ogni sessennio, del 10 per cento»; 
  

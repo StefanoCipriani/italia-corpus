@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la urgente necessita' di dare disposizioni in ordine al funzionamento delle Commissioni indicate nell' articolo 68 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), nonche' al termine entro il quale le Commissioni stesse devono espletare il loro compito;
+Ritenuta la urgente necessita' di dare disposizioni in ordine al funzionamento delle Commissioni indicate nell' articolo 68 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), nonche' al termine entro il quale le Commissioni stesse devono espletare il loro compito;
 
 Sentito il Consiglio dei Ministri;
 

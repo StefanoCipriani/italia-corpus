@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali dei Corpi militari della Marina, approvato con [regio decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali dei Corpi militari della Marina, approvato con [regio decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
 
 Vista la [legge 16 dicembre 1941, n. 1614](Sospensione%20per%20la%20durata%20della%20guerra%20e%20sino%20a%20sei%20mesi%20dopo%20la%20cessazione%20dello%20stato%20di%20guerra%20dellapplicazione%20delle%20norme%20relative%20alle%20%20vacanze%20necessarie%20%20riguardanti%20gli%20ufficiali_f0c2618bfd4c.md), sulla sospensione, per tutta la durata della guerra e sino a sei mesi dopo la cessazione dello stato di guerra, dell'applicazione delle vacanze necessarie;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la marina militare, d'intesa con il Ministro per
 
 ## Art. 1.
 
-L'efficacia della [legge 16 dicembre 1941, n. 1614](Sospensione%20per%20la%20durata%20della%20guerra%20e%20sino%20a%20sei%20mesi%20dopo%20la%20cessazione%20dello%20stato%20di%20guerra%20dellapplicazione%20delle%20norme%20relative%20alle%20%20vacanze%20necessarie%20%20riguardanti%20gli%20ufficiali_f0c2618bfd4c.md), concernente sospensione, per tutta la durata della attuale guerra e sino a sei mesi dopo la cessazione dello stato di guerra, dell'applicazione dell'art. 31, 1° comma, del testo unico approvato con [regio decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e' prorogata sino al 31 dicembre dell'anno in cui, a termini dell'[art. 2 del regio decreto-legge 2 marzo 1944, n. 82](Variazione%20provvisoria%20degli%20organici%20degli%20Ufficiali%20dei%20vari%20Corpi%20Militari%20della%20R.%20Marina.%20044U0082.md), saranno stabiliti i nuovi organici degli ufficiali dei Corpi militari della Marina.
+L'efficacia della [legge 16 dicembre 1941, n. 1614](Sospensione%20per%20la%20durata%20della%20guerra%20e%20sino%20a%20sei%20mesi%20dopo%20la%20cessazione%20dello%20stato%20di%20guerra%20dellapplicazione%20delle%20norme%20relative%20alle%20%20vacanze%20necessarie%20%20riguardanti%20gli%20ufficiali_f0c2618bfd4c.md), concernente sospensione, per tutta la durata della attuale guerra e sino a sei mesi dopo la cessazione dello stato di guerra, dell'applicazione dell'art. 31, 1° comma, del testo unico approvato con [regio decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e' prorogata sino al 31 dicembre dell'anno in cui, a termini dell'[art. 2 del regio decreto-legge 2 marzo 1944, n. 82](Variazione%20provvisoria%20degli%20organici%20degli%20Ufficiali%20dei%20vari%20Corpi%20Militari%20della%20R.%20Marina.%20044U0082.md), saranno stabiliti i nuovi organici degli ufficiali dei Corpi militari della Marina.
 
 ## Art. 2.
 

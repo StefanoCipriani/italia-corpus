@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 15 maggio 1924, n. 749](Ordinamento%20dellistruzione%20media%20commerciale.%20024U0749.md), sull'ordinamento dell'istruzione media commerciale;
 
-Visto il [R. decreto 20 agosto 1923, n. 2461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-20;2461), con il quale fu regificata la Scuola commerciale di Gorizia;
+Visto il [R. decreto 20 agosto 1923, n. 2461](../Regi%20decreti/Istituzione%20in%20Ente%20autonomo%20con%20personalita%20giuridica%20della%20pubblica%20scuola%20di%20commercio%20in%20Gorizia.%20023U2461.md), con il quale fu regificata la Scuola commerciale di Gorizia;
 
 Vista la domanda in data 27 maggio 1925, con la quale il comune di Gorizia chiede che la Regia scuola commerciale di quella citta' sia trasformata in Regio istituto scuola commerciale;
 

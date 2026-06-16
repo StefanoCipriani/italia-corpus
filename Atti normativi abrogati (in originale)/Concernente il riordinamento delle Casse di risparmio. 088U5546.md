@@ -197,7 +197,7 @@ Nessun Istituto che non sia regolato ai termini della presente legge, puo' assum
 
 Sono puniti con pena pecuniaria sino a lire tremila gli amministratori, i direttori degli Istituti e i soci responsabili che contravvengono alle disposizioni dell'articolo precedente. 
  
- Sono parimenti puniti con la stessa pena pecuniaria, salve le pene maggiori comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), i promotori, gli amministratori, i direttori, i sindaci e i liquidatori delle Casse di risparmio: 
+ Sono parimenti puniti con la stessa pena pecuniaria, salve le pene maggiori comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), i promotori, gli amministratori, i direttori, i sindaci e i liquidatori delle Casse di risparmio: 
  
  1. che comincino le operazioni prima di avere adempiuto alle condizioni e di avere ottenuta l'autorizzazione Sovrana, in conformita' della presente legge; 
  

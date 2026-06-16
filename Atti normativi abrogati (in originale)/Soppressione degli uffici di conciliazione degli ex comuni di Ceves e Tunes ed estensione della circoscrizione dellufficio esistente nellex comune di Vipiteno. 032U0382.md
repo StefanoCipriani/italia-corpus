@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 15 ottobre 1931, n. 1383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-15;1383), col quale i comuni di Ceves e Tunes sono stati aggregati al comune di Vipiteno; 
+ Visto il [R. decreto 15 ottobre 1931, n. 1383](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Ceves%20e%20di%20Tunes%20a%20quello%20di%20Vipiteno.%20031U1383.md), col quale i comuni di Ceves e Tunes sono stati aggregati al comune di Vipiteno; 
  Vista la deliberazione del podesta' del comune di Vipiteno, con la quale si chiede che per tutto il territorio del comune di Vipiteno funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del presidente e dell'avvocato generale presso la sezione di Corte d'appello di Trento; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

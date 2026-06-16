@@ -86,7 +86,7 @@ In occasione di eccezionali ricorrenze, festeggiamenti, congressi, pellegrinaggi
 
 ## Art. 8.
 
-Le percentuali di aumento sulle tariffe per le cose risultanti dai [Regi decreti 29 ottobre 1920, n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-29;1523); [3 novembre 1921, n. 1559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-03;1559); [23 marzo 1922, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-03-23;693), e [21 ottobre 1923, numero 2502, dal decreto](Riduzioni%20di%20tariffe%20per%20il%20trasporto%20dello%20zolfo%20sulle%20ferrovie%20dello%20Stato.%20023U2502.md) del Ministro per i lavori pubblici in data 18 gennaio 1924 e dal decreto del Ministro per le comunicazioni in data 5 settembre 1924, sono sostituite dalle seguenti: 
+Le percentuali di aumento sulle tariffe per le cose risultanti dai [Regi decreti 29 ottobre 1920, n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-29;1523); [3 novembre 1921, n. 1559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-03;1559); [23 marzo 1922, n. 693](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-03-23;693), e [21 ottobre 1923, numero 2502, dal decreto](../Regi%20decreti/Riduzioni%20di%20tariffe%20per%20il%20trasporto%20dello%20zolfo%20sulle%20ferrovie%20dello%20Stato.%20023U2502.md) del Ministro per i lavori pubblici in data 18 gennaio 1924 e dal decreto del Ministro per le comunicazioni in data 5 settembre 1924, sono sostituite dalle seguenti: 
  
  a) 200 per cento sulle tasse di trasporto a grande ed a piccola velocita' delle cose indicate nell'allegato n. 2 al presente decreto; 
  

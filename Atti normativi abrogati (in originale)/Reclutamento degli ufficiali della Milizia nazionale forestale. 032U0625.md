@@ -24,13 +24,13 @@ Visto il [R. decreto-legge 16 maggio 1926, n. 1066](Istituzione%20della%20Milizi
 
 Vista la [legge 13 dicembre 1928, n. 3141](Disposizioni%20sullAmministrazione%20forestale%20sullordinamento%20della%20Milizia%20nazionale%20forestale%20e%20sullAzienda%20delle%20foreste%20demaniali%20dello%20Stato.%20028U3141.md);
 
-Visto il [R. decreto 3 ottobre 1929, n. 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1997), che approva il regolamento per l'esecuzione della legge predetta;
+Visto il [R. decreto 3 ottobre 1929, n. 1997](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2013%20dicembre%201928%20n.%203141%20concernente%20lAmministrazione%20forestale%20lordinamento%20della%20Milizia%20nazionale%20forestale%20e%20lAzienda%20delle%20_45d3946a3615.md), che approva il regolamento per l'esecuzione della legge predetta;
 
 Vista la [legge 30 gennaio 1926, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-30;100);
 
 Ritenuta la necessita' di provvedere alla istruzione scientifica, tecnica e militare degli allievi ufficiali della Milizia nazionale forestale;
 
-Visto l'ordinamento degli studi ed i programmi della Sezione forestale del Regio istituto superiore agrario forestale di Firenze, approvati con [R. decreto 22 ottobre 1931, n. 1512](Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20superiore%20agrario%20e%20forestale%20di%20Firenze.%20031U1512.md);
+Visto l'ordinamento degli studi ed i programmi della Sezione forestale del Regio istituto superiore agrario forestale di Firenze, approvati con [R. decreto 22 ottobre 1931, n. 1512](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20superiore%20agrario%20e%20forestale%20di%20Firenze.%20031U1512.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e foreste, di concerto coi Ministri Segretari di Stato per le finanze e per l'educazione nazionale;
 

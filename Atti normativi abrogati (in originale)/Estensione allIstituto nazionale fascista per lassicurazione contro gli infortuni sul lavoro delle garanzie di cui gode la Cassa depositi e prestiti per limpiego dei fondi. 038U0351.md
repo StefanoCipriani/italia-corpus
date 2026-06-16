@@ -18,9 +18,9 @@ IMPERATORE D'ETIOPIA
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), recante disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali;
+Veduto il [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), recante disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali;
 
-Veduto il [R. decreto 6 luglio 1933, n. 1033](Ordinamento%20dellistituto%20nazionale%20fascista%20per%20lassicurazione%20contro%20gli%20infortuni%20sul%20lavoro.%20033U1033.md), concernente l'ordinamento dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro;
+Veduto il [R. decreto 6 luglio 1933, n. 1033](../Regi%20decreti/Ordinamento%20dellistituto%20nazionale%20fascista%20per%20lassicurazione%20contro%20gli%20infortuni%20sul%20lavoro.%20033U1033.md), concernente l'ordinamento dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro;
 
 Ritenuta la necessita' urgente ed assoluta di estendere all'Istituto predetto per l'impiego dei fondi disponibili le stesse garanzie di cui gode la Cassa depositi e prestiti;
 

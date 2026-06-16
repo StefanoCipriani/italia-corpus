@@ -22,7 +22,7 @@ Le insegnanti provenienti dalle antiche cattedre di pedagogia e morale delle scu
 
 ## Art. 3.
 
-I professori che furono assegnati provvisoriamente alle scuole complementari in base alle disposizioni del [R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413), conservano il diritto alla sistemazione definitiva nelle scuole medie d'istruzione classica, scientifica e magistrale.
+I professori che furono assegnati provvisoriamente alle scuole complementari in base alle disposizioni del [R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), conservano il diritto alla sistemazione definitiva nelle scuole medie d'istruzione classica, scientifica e magistrale.
 
 ## Art. 4.
 

@@ -106,7 +106,7 @@ Durante l'assenza dalla propria sede, il titolare di un Ufficio all'estero, nel 
 
 ## Art. 12.
 
-Le indennita' di cui al [primo comma dell'art. 3 del R. decreto 17 dicembre 1922, n. 1775](Che%20sopprime%20le%20indennita%20di%20primo%20stabilimento%20ai%20capi%20di%20Missioni%20diplomatiche%20022U1775.md) ed all'art. 10 della legge consolare 28 gennaio 1866, n. 2804, sono soppresse. 
+Le indennita' di cui al [primo comma dell'art. 3 del R. decreto 17 dicembre 1922, n. 1775](../Regi%20decreti/Che%20sopprime%20le%20indennita%20di%20primo%20stabilimento%20ai%20capi%20di%20Missioni%20diplomatiche%20022U1775.md) ed all'art. 10 della legge consolare 28 gennaio 1866, n. 2804, sono soppresse. 
  
  E' istituita invece un'indennita' di sistemazione per tutti i funzionari che, destinati all'estero oppure trasferiti da una ad altra sede all'estero, raggiungano la sede dopo l'entrata in vigore del presente decreto. 
  
@@ -154,7 +154,7 @@ Nessuna indennita' ordinaria ne' straordinaria puo' essere concessa a qualsiasi 
 
 Le disposizioni del presente decreto si applicano ai personali contemplati nell'annessa tabella A. 
  
- Sono abrogate, nei riguardi di detti personali, le disposizioni di cui ai [Regi decreti 22 gennaio 1922, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-22;91), [10 maggio 1923, n. 1145](Che%20stabilisce%20il%20cambio%20da%20corrispondersi%20ai%20funzionari%20di%20ruolo%20del%20Ministero%20degli%20affari%20esteri%20in%20servizio%20diplomatico%20e%20consolare%20allestero%20nonche%20agli%20addetti%20militari%20navali%20e%20aer_399b2b334859.md), e [1° maggio 1932, n. 594](Concessione%20di%20una%20percentuale%20dintegrazione%20sulle%20competenze%20del%20personale%20di%20ruolo%20dipendente%20dal%20Ministero%20degli%20affari%20esteri%20agli%20addetti%20militari%20navali%20ed%20aeronautici%20nonche%20ai%20reg_576248391432.md), ed ogni altra disposizione contrastante con quelle del presente decreto o con esse incompatibili.
+ Sono abrogate, nei riguardi di detti personali, le disposizioni di cui ai [Regi decreti 22 gennaio 1922, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-22;91), [10 maggio 1923, n. 1145](../Regi%20decreti/Che%20stabilisce%20il%20cambio%20da%20corrispondersi%20ai%20funzionari%20di%20ruolo%20del%20Ministero%20degli%20affari%20esteri%20in%20servizio%20diplomatico%20e%20consolare%20allestero%20nonche%20agli%20addetti%20militari%20navali%20e%20aer_399b2b334859.md), e [1° maggio 1932, n. 594](../Regi%20decreti/Concessione%20di%20una%20percentuale%20dintegrazione%20sulle%20competenze%20del%20personale%20di%20ruolo%20dipendente%20dal%20Ministero%20degli%20affari%20esteri%20agli%20addetti%20militari%20navali%20ed%20aeronautici%20nonche%20ai%20reg_576248391432.md), ed ogni altra disposizione contrastante con quelle del presente decreto o con esse incompatibili.
 
 ### Art. 17.
 

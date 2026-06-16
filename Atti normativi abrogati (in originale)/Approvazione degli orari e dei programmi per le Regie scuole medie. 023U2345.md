@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 85 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_85);
+Veduto l'[art. 85 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ Sono approvati gli orari ed i programmi d'esame annessi al presente decreto e fi
 
 Gli orari stabiliscono le ore d'insegnamento obbligatorie per ciascuna materia e classe nei Regi istituti di istruzione media dipendenti dal Ministero della pubblica istruzione. 
  
- I programmi stabiliscono la materia degli esami di ammissione, di licenza, di abilitazione e di maturita', di cui al capo 8° del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+ I programmi stabiliscono la materia degli esami di ammissione, di licenza, di abilitazione e di maturita', di cui al capo 8° del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 3.
 
@@ -117,11 +117,11 @@ Per gli alunni provenienti dalle soppresse sezioni di ginnasio e liceo moderno e
 
 ## Art. 17.
 
-Per gli alunni, iscritti alle classi superstiti delle soppresse sezioni fisico-matematiche degli istituti tecnici secondo il disposto dell'[art. 38 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_38), restano in vigore gli orari stabiliti con [R. decreto 2 ottobre 1891, n. 622](Che%20approva%20i%20programmi%20di%20insegnamento%20per%20gli%20Istituti%20tecnici%20del%20Regno.%20091U0622.md), e gli esami alla fine dei singoli corsi saranno sostenuti sui programmi stabiliti dallo stesso decreto.
+Per gli alunni, iscritti alle classi superstiti delle soppresse sezioni fisico-matematiche degli istituti tecnici secondo il disposto dell'[art. 38 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), restano in vigore gli orari stabiliti con [R. decreto 2 ottobre 1891, n. 622](Che%20approva%20i%20programmi%20di%20insegnamento%20per%20gli%20Istituti%20tecnici%20del%20Regno.%20091U0622.md), e gli esami alla fine dei singoli corsi saranno sostenuti sui programmi stabiliti dallo stesso decreto.
 
 ## Art. 18.
 
-Per gli alunni iscritti alle classi superstiti delle soppresse scuole normali, secondo il disposto dell'[art. 36 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_36), valgono le norme riguadanti gli orari ed i programmi degli istituti magistrali. 
+Per gli alunni iscritti alle classi superstiti delle soppresse scuole normali, secondo il disposto dell'[art. 36 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), valgono le norme riguadanti gli orari ed i programmi degli istituti magistrali. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 125 del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_125), approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto l'[art. 125 del T.U. delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro dell'Interno; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Il [primo comma dell'art. 125 del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_125-com1), approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e' modificato come segue: 
+Il [primo comma dell'art. 125 del T.U. delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e' modificato come segue: 
  
  «Le tariffe dei medicinali per la vendita al pubblico, proposte dai rappresentanti provinciali delle categorie interessate, sono stabilite per ciascuna provincia dal Prefetto, con proprio decreto, sentito il Consiglio Provinciale di Sanita'. 
  

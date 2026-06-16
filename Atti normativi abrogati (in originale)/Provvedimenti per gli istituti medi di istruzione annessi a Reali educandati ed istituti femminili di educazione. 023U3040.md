@@ -36,7 +36,7 @@ I presidi, di cui all'art. 1 del presente decreto, potranno essere restituiti, s
 
 ## Art. 4.
 
-Al preside assunto, a norma degli articoli precedenti, alla direzione di scuole medie annesse agli istituti femminili predetti si applica la disposizione dell'[art. 16 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_16). 
+Al preside assunto, a norma degli articoli precedenti, alla direzione di scuole medie annesse agli istituti femminili predetti si applica la disposizione dell'[art. 16 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

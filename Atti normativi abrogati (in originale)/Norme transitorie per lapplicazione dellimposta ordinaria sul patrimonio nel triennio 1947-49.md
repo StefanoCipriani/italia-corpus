@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visto il [regio decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Visto il [regio decreto-legge 12 ottobre 1939, n. 1529](Istituzione%20di%20una%20imposta%20ordinaria%20sul%20patrimonio.%20039U1529.md), convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md);
 

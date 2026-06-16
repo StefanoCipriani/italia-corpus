@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Regio decreto 17 luglio 1919, n. 1355](Contenente%20provvedimenti%20a%20favore%20del%20personale%20di%20ruolo%20dellOfficina%20governativa%20delle%20carte%20valori%20e%20della%20R.%20zecca.%20019U1355.md);
+Visto il [Regio decreto 17 luglio 1919, n. 1355](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20di%20ruolo%20dellOfficina%20governativa%20delle%20carte%20valori%20e%20della%20R.%20zecca.%20019U1355.md);
 
 Visto il [Regio decreto 7 giugno 1920, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;742), convertito nella [legge 7 aprile 1921, n. 379](Concernente%20la%20conversione%20in%20legge%20dei%20Regi%20decreti%20emanati%20durante%20la%20proroga%20dei%20lavori%20parlamentari%20autorizzanti%20provvedimenti%20di%20bilancio%20e%20vari.%20021U0379.md);
 

@@ -40,7 +40,7 @@ La durata del contratto per il servizio di commutazione telefonica di cui all'ar
 
 L'assunzione del personale di commutazione telefonica ha luogo in base a concorso per titoli, da bandirsi con decreto del Ministro per le finanze. 
  
- Non possono essere assunte le impiegate di ruolo o non di ruolo destituite, revocate o licenziate per motivi disciplinari da qualsiasi pubblica Amministrazione, ne' quelle dispensate in applicazione dell'[art. 51 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_51).
+ Non possono essere assunte le impiegate di ruolo o non di ruolo destituite, revocate o licenziate per motivi disciplinari da qualsiasi pubblica Amministrazione, ne' quelle dispensate in applicazione dell'[art. 51 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 3.
 
@@ -52,7 +52,7 @@ L'ammissione al concorso e' subordinata alle seguenti condizioni:
  
  3) essere iscritte regolarmente al P.N.F.; 
  
- 4) essere in possesso degli altri requisiti generali indicati dall'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1). 
+ 4) essere in possesso degli altri requisiti generali indicati dall'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Restano escluse dal concorso coloro che non appartengano alla razza ariana.
 
@@ -82,7 +82,7 @@ Il personale assunto a contratto, dipende dal direttore generale per il Coordina
 
 ## Art. 7.
 
-Il capo dell'Ufficio centrale presso il quale il personale di commutazione telefonica presta servizio compilera', entro il mese di gennaio di ogni anno, le note di qualifica del personale stesso applicandosi al riguardo, in quanto possibile, le norme degli [articoli 12 e seguenti del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_12).
+Il capo dell'Ufficio centrale presso il quale il personale di commutazione telefonica presta servizio compilera', entro il mese di gennaio di ogni anno, le note di qualifica del personale stesso applicandosi al riguardo, in quanto possibile, le norme degli [articoli 12 e seguenti del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 8.
 

@@ -101,7 +101,7 @@ La promozione o idoneita' conseguita nel ginnasio inferiore o nei corsi inferior
 
 La formazione delle classi aggiunte nelle scuole complementari si effettua dapprima per le classi 2ª e 3ª. 
  
- Il numero delle iscrizioni alla 1ª classe si ridurra', eventualmente, tenendo conto dei criteri stabiliti nell'art. 6, in modo da non oltrepassare complessivamente il numero massimo di classi consentito dall'[art. 36 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_36).
+ Il numero delle iscrizioni alla 1ª classe si ridurra', eventualmente, tenendo conto dei criteri stabiliti nell'art. 6, in modo da non oltrepassare complessivamente il numero massimo di classi consentito dall'[art. 36 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 10.
 
@@ -425,7 +425,7 @@ I giovani forniti di un titolo di maturita' o abilitazione possono presentarsi a
 
 ### Art. 51.
 
-Le alunne dei Conservatori toscani, dei Reali collegi di Montagnana e «Uccellis» di Udine, dei Regi educandati femminili «SS. Annunziata» di Firenze, «Collegio reale delle fanciulle» di Milano, «Maria Adelaide» di Palermo, «Real collegio agli Angeli» di Verona, «Educatorio della Provvidenza» di Torino, dei Reali educandati di Napoli, dell'Istituto froebeliano e dell'Istituto Suor Orsola Benincasa della stessa citta', qualora vi abbiano seguito un corso d'istituto medio di istruzione secondo l'ordinamento stabilito dal [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e vi abbiano conseguito l'ammissione alla 1ª classe del corso superiore, sono ammesse, dopo il prescritto intervallo, all'esame di maturita' e abilitazione, con dispensa dalla presentazione del titolo inferiore. 
+Le alunne dei Conservatori toscani, dei Reali collegi di Montagnana e «Uccellis» di Udine, dei Regi educandati femminili «SS. Annunziata» di Firenze, «Collegio reale delle fanciulle» di Milano, «Maria Adelaide» di Palermo, «Real collegio agli Angeli» di Verona, «Educatorio della Provvidenza» di Torino, dei Reali educandati di Napoli, dell'Istituto froebeliano e dell'Istituto Suor Orsola Benincasa della stessa citta', qualora vi abbiano seguito un corso d'istituto medio di istruzione secondo l'ordinamento stabilito dal [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e vi abbiano conseguito l'ammissione alla 1ª classe del corso superiore, sono ammesse, dopo il prescritto intervallo, all'esame di maturita' e abilitazione, con dispensa dalla presentazione del titolo inferiore. 
  
  Parimenti, i titoli di promozione o ammissione conseguiti dalle alunne predette sono validi per la inscrizione alle classi corrispondenti d'istituti Regi o pareggiati. 
  
@@ -823,7 +823,7 @@ Presso le classi superstiti di sezione fisico-matematica d'istituto tecnico, avr
 
 ### Art. 105.
 
-Agli effetti dell'obbligo dell'intervallo e dell'eventuale diritto di anticipazione la durata normale dei corsi per gli alunni inscritti in base agli [articoli 32 e seguenti del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_32), e' quella risultante dall'applicazione del decreto stesso. 
+Agli effetti dell'obbligo dell'intervallo e dell'eventuale diritto di anticipazione la durata normale dei corsi per gli alunni inscritti in base agli [articoli 32 e seguenti del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), e' quella risultante dall'applicazione del decreto stesso. 
  
  I candidati provenienti da scuola privata o paterna possono, analogamente, presentarsi ad esami per i quali sia prescritto l'obbligo dell'intervallo nelle sessioni dell'anno in cui avrebbero potuto presentarsi se avessero seguito normalmente gli studi nelle scuole Regie o pareggiate, e possono godere del corrispondente diritto di anticipazione.
 

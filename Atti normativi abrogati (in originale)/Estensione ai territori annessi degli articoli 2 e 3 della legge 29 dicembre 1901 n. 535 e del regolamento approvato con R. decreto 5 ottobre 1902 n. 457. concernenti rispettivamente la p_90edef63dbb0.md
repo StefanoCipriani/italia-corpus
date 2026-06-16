@@ -36,7 +36,7 @@ Le attribuzioni demandate alla Giunta provinciale amministrativa, in materia di 
 
 ## Art. 3.
 
-L'[articolo 150 del regolamento 19 settembre 1899, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1899-09-19;394#art_150), citato nell'[articolo 5 del regolamento 5 ottobre 1902, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-10-05;457#art_5), si intende sostituito dall'articolo 225 del vigente regolamento per l'esecuzione della legge comunale e provinciale approvata con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297).
+L'[articolo 150 del regolamento 19 settembre 1899, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1899-09-19;394#art_150), citato nell'[articolo 5 del regolamento 5 ottobre 1902, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-10-05;457#art_5), si intende sostituito dall'articolo 225 del vigente regolamento per l'esecuzione della legge comunale e provinciale approvata con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md).
 
 ## Art. 4.
 

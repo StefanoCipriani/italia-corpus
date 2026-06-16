@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 1° maggio 1924, n. 771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-01;771), che reca modificazioni al [R. decreto 24 dicembre 1899, numero 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), relativo alle riscossioni per conto di terzi, rimborso somme anticipate per eventuali protesti. 
+ E' convertito in legge il [R. decreto 1° maggio 1924, n. 771](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-01;771), che reca modificazioni al [R. decreto 24 dicembre 1899, numero 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), relativo alle riscossioni per conto di terzi, rimborso somme anticipate per eventuali protesti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

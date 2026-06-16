@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 30 giugno 1904, n. 283](Col%20quale%20e%20data%20piena%20ed%20intera%20esecuzione%20alla%20dichiarazione%20scambiata%20a%20Cettigne%20per%20proroga%20dellaccordo%20commerciale%20provvisorio%20tra%20lItalia%20e%20il%20Montenegro.%20004U0283.md), col quale e' approvata la dichiarazione scambiata a Cettigne il 10 e 11 giugno 1904 per prorogare l'accordo commerciale provvisorio fra l'Italia e il Montenegro del 22 dicembre 1903.
+E' convertito in legge il [R. decreto 30 giugno 1904, n. 283](../Regi%20decreti/Col%20quale%20e%20data%20piena%20ed%20intera%20esecuzione%20alla%20dichiarazione%20scambiata%20a%20Cettigne%20per%20proroga%20dellaccordo%20commerciale%20provvisorio%20tra%20lItalia%20e%20il%20Montenegro.%20004U0283.md), col quale e' approvata la dichiarazione scambiata a Cettigne il 10 e 11 giugno 1904 per prorogare l'accordo commerciale provvisorio fra l'Italia e il Montenegro del 22 dicembre 1903.
 
 ## Art. 2.
 

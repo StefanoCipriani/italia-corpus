@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I contratti collettivi di lavoro debbono essere denunciati ai sensi e per gli effetti di cui all'[art. 53 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), almeno tre mesi prima della loro scadenza. 
+I contratti collettivi di lavoro debbono essere denunciati ai sensi e per gli effetti di cui all'[art. 53 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), almeno tre mesi prima della loro scadenza. 
  
  Tale termine sostituisce di diritto quello di minore durata, eventualmente stabilito nei contratti collettivi vigenti che scadono quattro mesi dopo l'entrata in vigore della presente legge.
 
@@ -44,7 +44,7 @@ Nota redazionale
 
 ## Art. 6.
 
-Qualora l'autorita' competente ricusi la pubblicazione di un contratto collettivo di lavoro o di un lodo arbitrale, e le associazioni stipulanti non ricorrano, entro il termine di sessanta giorni, alla Magistratura del lavoro, a norma dell'articolo 51, 2° comma, del [R. decreto 1° luglio 1926, n. 1130, il Ministro per le corporazioni](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), decorso tale termine, puo' dare avviso al Ministro per la grazia e giustizia, perche' provochi l'esercizio dell'azione da parte del pubblico ministero, a sensi e per gli effetti dell'art. 68, 2° comma, del [R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
+Qualora l'autorita' competente ricusi la pubblicazione di un contratto collettivo di lavoro o di un lodo arbitrale, e le associazioni stipulanti non ricorrano, entro il termine di sessanta giorni, alla Magistratura del lavoro, a norma dell'articolo 51, 2° comma, del [R. decreto 1° luglio 1926, n. 1130, il Ministro per le corporazioni](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), decorso tale termine, puo' dare avviso al Ministro per la grazia e giustizia, perche' provochi l'esercizio dell'azione da parte del pubblico ministero, a sensi e per gli effetti dell'art. 68, 2° comma, del [R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
 
 ## Art. 7.
 

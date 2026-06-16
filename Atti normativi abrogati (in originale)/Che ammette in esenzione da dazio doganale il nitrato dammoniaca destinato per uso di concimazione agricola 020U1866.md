@@ -22,7 +22,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Alla voce «Nitrato d'ammoniaca» del testo unico del repertorio per l'applicazione della tariffa generale dei dazi doganali, approvato con [R. decreto dell'8 gennaio 1914, n. 10](Col%20quale%20viene%20approvato%20il%20testo%20unico%20del%20Repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20014U0010.md), e' aggiunta la seguente nota: «Il nitrato d'ammoniaca destinato per uso di concimazione agricola si classifica come «Concimi chimici». L'ammissione a tale trattamento e' subordinata alla adulterazione del prodotto e all'accertamento della destinazione di esso, da eseguirsi nei modi e sotto l'osservanza delle norme che saranno stabilite dal ministro delle finanze».
+Alla voce «Nitrato d'ammoniaca» del testo unico del repertorio per l'applicazione della tariffa generale dei dazi doganali, approvato con [R. decreto dell'8 gennaio 1914, n. 10](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20del%20Repertorio%20per%20lapplicazione%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20014U0010.md), e' aggiunta la seguente nota: «Il nitrato d'ammoniaca destinato per uso di concimazione agricola si classifica come «Concimi chimici». L'ammissione a tale trattamento e' subordinata alla adulterazione del prodotto e all'accertamento della destinazione di esso, da eseguirsi nei modi e sotto l'osservanza delle norme che saranno stabilite dal ministro delle finanze».
 
 ## Art. 2.
 

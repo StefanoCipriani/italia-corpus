@@ -129,7 +129,7 @@ I titolari dei sottocentri, gli enti di cui al precedente art. 12, ed i veterina
 
 ## Art. 15.
 
-I riproduttori in dotazione ai centri di fecondazione artificiale devono risultare idonei dal punto di vista sanitario e rispondere ai requisiti previsti dal regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
+I riproduttori in dotazione ai centri di fecondazione artificiale devono risultare idonei dal punto di vista sanitario e rispondere ai requisiti previsti dal regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md).
  I requisiti genotipici-morfo funzionali dei tori da impiegare per la fecondazione artificiale vengono stabiliti dalle Commissioni tecniche direttive del Libro genealogico delle razze bovine di cui al decreto del Ministro per l'agricoltura e le foreste 30 giugno 1951 per le razze oggetto di miglioramento, e dalle Commissioni di cui al precedente art. 6 per le altre razze.
  I riproduttori maschi delle specie cavallina ed asinina da adibire alla fecondazione artificiale devono presentare i requisiti prescritti dalle Commissioni di cui allo [art. 4 della legge 16 ottobre 1954, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-16;1051#art_4).
  I riproduttori ovini e suini devono presentare i requisiti fissati dalla Commissione di cui all'art. 6 del presente regolamento.

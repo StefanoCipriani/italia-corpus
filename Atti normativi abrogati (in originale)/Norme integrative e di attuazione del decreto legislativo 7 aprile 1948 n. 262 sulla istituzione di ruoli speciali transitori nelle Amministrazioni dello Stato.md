@@ -40,7 +40,7 @@ Sulle domande di collocamento nei ruoli speciali transitori provvede il Ministro
 
 Fermo il disposto dell'[art. 2, comma secondo, del decreto legislativo 7 aprile 1948, n. 262](../Decreti%20Legislativi/Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md), per il collocamento nei ruoli speciali transitori di gruppo A e B del personale assunto nelle corrispondenti categorie di impiego non di ruolo anteriormente all'entrata in vigore del [decreto legislativo 4 aprile 1947, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-04;207), sono richiesti i seguenti titoli di studio:
  a) il diploma di laurea o titolo equipollente rilasciato da universita' o da altri istituti di istruzione superiore, per il gruppo A;
- b) il diploma di licenza di istituto medio di secondo grado o alcuno dei corrispondenti diplomi, ai termini del [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure la licenza di istituti di istruzione professionale di terzo grado, per il gruppo B.
+ b) il diploma di licenza di istituto medio di secondo grado o alcuno dei corrispondenti diplomi, ai termini del [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure la licenza di istituti di istruzione professionale di terzo grado, per il gruppo B.
 
 ## Art. 6.
 
@@ -104,7 +104,7 @@ In caso di passaggio dai ruoli speciali transitori ai gradi iniziali dei ruoli o
 
 ## Art. 16.
 
-I ruoli speciali transitori sono pubblicati ogni anno con l'osservanza delle disposizioni contenute nell'[articolo 9 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_9).
+I ruoli speciali transitori sono pubblicati ogni anno con l'osservanza delle disposizioni contenute nell'[articolo 9 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 17.
 

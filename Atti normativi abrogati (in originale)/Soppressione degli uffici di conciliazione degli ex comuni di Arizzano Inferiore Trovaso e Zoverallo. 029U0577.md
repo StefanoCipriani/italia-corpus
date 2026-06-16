@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 27 ottobre 1927, n. 2076](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-27;2076), col quale i comuni di Arizzano Inferiore, Trovaso e Zoverallo sono stati soppressi, ed i rispettivi territori aggregati a quello di Intra; 
+ Visto il [R. decreto 27 ottobre 1927, n. 2076](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Arizzano%20Inferiore%20Trobaso%20e%20Zoverallo%20al%20comune%20di%20Intra.%20027U2076.md), col quale i comuni di Arizzano Inferiore, Trovaso e Zoverallo sono stati soppressi, ed i rispettivi territori aggregati a quello di Intra; 
  
  Vista la deliberazione del podesta' di Intra, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Arizzano Inferiore, Trovaso e Zoverallo; 
  

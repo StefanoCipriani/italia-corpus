@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-In applicazione del [decreto legislativo 31 marzo 1947, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-03-31;396), i seguenti ruoli organici dell'ex Commissariato generale per la pesca, istituiti con [regio decreto 9 dicembre 1941, n. 1644](Approvazione%20dei%20ruoli%20organici%20del%20Commissariato%20generale%20per%20la%20pesca.%20041U1644.md), sono assegnati al Ministero dell'agricoltura e delle foreste:
+In applicazione del [decreto legislativo 31 marzo 1947, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-03-31;396), i seguenti ruoli organici dell'ex Commissariato generale per la pesca, istituiti con [regio decreto 9 dicembre 1941, n. 1644](../Regi%20decreti/Approvazione%20dei%20ruoli%20organici%20del%20Commissariato%20generale%20per%20la%20pesca.%20041U1644.md), sono assegnati al Ministero dell'agricoltura e delle foreste:
  1) ruolo tecnico scientifico (gruppo A);
  2) ruolo dei servizi speciali (gruppo B);
  3) ruolo dei servizi sussidiari (gruppo C);
@@ -24,7 +24,7 @@ In applicazione del [decreto legislativo 31 marzo 1947, n. 396](https://www.norm
 
 ## Art. 2.
 
-I seguenti ruoli organici dell'ex Commissariato generale per la pesca, di cui al [regio decreto 9 dicembre 1941, n. 1644](Approvazione%20dei%20ruoli%20organici%20del%20Commissariato%20generale%20per%20la%20pesca.%20041U1644.md), sono ripartiti, in attuazione dell'[art. 7, comma secondo, del decreto legislativo 7 maggio 1948, n. 615](../Decreti%20Legislativi/Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md), fra il Ministero dell'agricoltura e delle foreste e quello della Marina mercantile, secondo la tabella annessa al presente decreto:
+I seguenti ruoli organici dell'ex Commissariato generale per la pesca, di cui al [regio decreto 9 dicembre 1941, n. 1644](../Regi%20decreti/Approvazione%20dei%20ruoli%20organici%20del%20Commissariato%20generale%20per%20la%20pesca.%20041U1644.md), sono ripartiti, in attuazione dell'[art. 7, comma secondo, del decreto legislativo 7 maggio 1948, n. 615](../Decreti%20Legislativi/Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md), fra il Ministero dell'agricoltura e delle foreste e quello della Marina mercantile, secondo la tabella annessa al presente decreto:
  1) ruolo direttivo-amministrativo (gruppo A);
  2) ruolo ispettivo (gruppo B);
  3) ruolo d'ordine (gruppo C);

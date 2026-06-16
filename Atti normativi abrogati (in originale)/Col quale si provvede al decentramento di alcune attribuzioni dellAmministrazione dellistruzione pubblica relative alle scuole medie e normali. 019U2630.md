@@ -44,7 +44,7 @@ Ai capi degli Istituti di istruzione media e normale e ai RR. provveditori agli 
 
 Contro i provvedimenti deferiti nelle materie indicate nel precedente articolo alla competenza del capo d'Istituto e' ammesso il ricorso al provveditore agli studi; contro quelli deferiti a quest'ultimo e' ammesso il ricorso al ministro della istruzione pubblica. 
  
- Le deliberazioni prese dal provveditore, in seguito a ricorso a lui diretto, sono provvedimenti definitivi ai sensi e per gli effetti del testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md). 
+ Le deliberazioni prese dal provveditore, in seguito a ricorso a lui diretto, sono provvedimenti definitivi ai sensi e per gli effetti del testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 17 agosto 1907, n. 638](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md). 
  
  I successivi ricorsi alla 4ª sezione del Consiglio di Stato o in via straordinaria al Re sono notificati al Ministero della istruzione pubblica. 
  

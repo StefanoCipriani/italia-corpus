@@ -16,7 +16,7 @@ RE D'ITALIA
 
 In virtu' dei poteri conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Visti gli articoli 126 e 237 del regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297 e l'art. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297#art_266) del regolamento per il Corpo degli agenti di custodia delle carceri, approvato con [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md);
+Visti gli articoli 126 e 237 del regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297 e l'art. 266](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md) del regolamento per il Corpo degli agenti di custodia delle carceri, approvato con [R. decreto 23 dicembre 1920, n. 1921](Che%20approva%20il%20regolamento%20per%20il%20corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20020U1921.md);
 
 Visto il [R. decreto 28 giugno 1923, n. 1890](Norme%20circa%20lamministrazione%20delle%20carceri%20e%20dei%20riformatori%20e%20gli%20agenti%20di%20custodia.%20023U1890.md);
 

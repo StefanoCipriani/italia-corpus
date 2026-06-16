@@ -57,9 +57,9 @@ I comandanti di porto decidono senza formalita' di giudizio, sentite le parti ed
  
  I comandanti di porto formano per ogni controversia un processo verbale e pronunciano la decisione motivata, che ha forza esecutiva. 
  
- Per i giudizi sopradetti relativi alle controversie di cui al comma g) dell'art. 1, sono applicabili le disposizioni contenute all'[art. 4 del R. decreto 26 febbraio 1928, n. 471](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20028U0471.md), nonche' le disposizioni di cui al primo comma dell'art. 6 del detto Regio decreto. 
+ Per i giudizi sopradetti relativi alle controversie di cui al comma g) dell'art. 1, sono applicabili le disposizioni contenute all'[art. 4 del R. decreto 26 febbraio 1928, n. 471](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20028U0471.md), nonche' le disposizioni di cui al primo comma dell'art. 6 del detto Regio decreto. 
  
- Relativamente all'obbligatorieta' della denuncia alle Associazioni legalmente costituite prevista dall'[art. 4 del R. decreto 26 febbraio 1928, n. 471](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20028U0471.md), nei casi urgenti, chi intenda promuovere il giudizio basta che dimostri al comandante del porto di avere fatta la denuncia alla propria Associazione sindacale, senza che sia necessario attendere alcuna comunicazione da parte dell'Associazione stessa o il decorso del termine di 15 giorni per dare corso al giudizio. 
+ Relativamente all'obbligatorieta' della denuncia alle Associazioni legalmente costituite prevista dall'[art. 4 del R. decreto 26 febbraio 1928, n. 471](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20028U0471.md), nei casi urgenti, chi intenda promuovere il giudizio basta che dimostri al comandante del porto di avere fatta la denuncia alla propria Associazione sindacale, senza che sia necessario attendere alcuna comunicazione da parte dell'Associazione stessa o il decorso del termine di 15 giorni per dare corso al giudizio. 
  
  Sono appellabili soltanto le decisioni sulle controversie che eccedono il valore di L. 2000. 
  
@@ -69,7 +69,7 @@ I comandanti di porto decidono senza formalita' di giudizio, sentite le parti ed
  
  Resta salva la competenza della Magistratura del lavoro nei casi previsti dall'ultimo comma dell'[art. 13 della legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md). 
  
- L'appello alla Magistratura del lavoro e' proposto secondo le norme degli [articoli 74 e seguenti del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md). 
+ L'appello alla Magistratura del lavoro e' proposto secondo le norme degli [articoli 74 e seguenti del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md). 
  
  Prima di pronunciare la decisione i comandanti di porto, anche nelle controversie per valore non eccedente le L. 2000, devono tentare un amichevole accordo tra le parti, secondo la procedura di cui all'articolo seguente. Dell'adempimento di tale obbligo, in caso di non riuscita conciliazione, si deve far constare nella decisione.
 

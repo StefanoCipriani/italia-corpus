@@ -10,9 +10,9 @@ vigente: true
 
 ## Articolo unico.
 
-Il capoverso dell'[art. 8 del R. decreto 3 settembre 1913, n. 1199](Concernente%20la%20prima%20applicazione%20della%20legge%208%20giugno%201913%20n.%20601%20recante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U1199.md), per la prima applicazione della [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e' modificato come segue: 
+Il capoverso dell'[art. 8 del R. decreto 3 settembre 1913, n. 1199](../Regi%20decreti/Concernente%20la%20prima%20applicazione%20della%20legge%208%20giugno%201913%20n.%20601%20recante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U1199.md), per la prima applicazione della [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e' modificato come segue: 
  
- «Uguale concessione e' fatta agli ufficiali che, ammessi alla scuola di guerra prima della entrata in vigore della [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md) (prima, cioe', del 13 luglio 1913), diventeranno poi capitani di stato maggiore dopo compiuti con buon esito tutti i corsi della scuola di guerra e il corso di esperimento di cui al [R. decreto 24 settembre 1898, n. 428](Sullammissione%20dei%20Capitani%20delle%20varie%20armi%20nel%20Corpo%20di%20stato%20maggiore.%20098U0428.md)». 
+ «Uguale concessione e' fatta agli ufficiali che, ammessi alla scuola di guerra prima della entrata in vigore della [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md) (prima, cioe', del 13 luglio 1913), diventeranno poi capitani di stato maggiore dopo compiuti con buon esito tutti i corsi della scuola di guerra e il corso di esperimento di cui al [R. decreto 24 settembre 1898, n. 428](../Regi%20decreti/Sullammissione%20dei%20Capitani%20delle%20varie%20armi%20nel%20Corpo%20di%20stato%20maggiore.%20098U0428.md)». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

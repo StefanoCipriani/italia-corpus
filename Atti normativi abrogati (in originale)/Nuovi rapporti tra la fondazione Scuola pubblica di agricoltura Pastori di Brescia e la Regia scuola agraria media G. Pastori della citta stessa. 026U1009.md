@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 30 dicembre 1923, n. 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md);
 
-Visto il [R. decreto 24 gennaio 1886, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-01-24;2011) (serie 3ª) p. s., col quale fu costituita in corpo morale la Scuola pubblica di agricoltura Pastori, in Brescia, e ne fu approvato lo statuto;
+Visto il [R. decreto 24 gennaio 1886, n. 2011](../Regi%20decreti/Che%20costituisce%20in%20corpo%20morale%20la%20scuola%20pubblica%20di%20agricoltura%20Pastori%20in%20Brescia%20e%20ne%20approva%20lo%20statuto.%208602011R.md) (serie 3ª) p. s., col quale fu costituita in corpo morale la Scuola pubblica di agricoltura Pastori, in Brescia, e ne fu approvato lo statuto;
 
 Visto il [R. decreto 25 ottobre 1889, n. 6520](Che%20autorizza%20la%20R.%20Scuola%20pratica%20di%20agricoltura%20in%20Brescia%20ad%20assumere%20la%20denominazione%20di%20R.%20Scuola%20pratica%20di%20agricoltura%20Pastori%20ed%20apposta%20modificazioni%20al%20regolamento%20organico%20dell_564f871736cb.md), che autorizza la Regia scuola pratica d'agricoltura in Brescia, ad assumere la denominazione di Regia scuola pratica di agricoltura Pastori;
 

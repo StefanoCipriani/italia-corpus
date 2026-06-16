@@ -30,7 +30,7 @@ L'[articolo 13 del R. decreto 2 maggio 1920, n. 621](https://www.normattiva.it/u
 
 ## Art. 2.
 
-Le disposizioni del presente decreto saranno inserite nel nuovo testo unico delle disposizioni legislative, sulla leva marittima, che il Governo ha facolta' di compilare e pubblicare in base al [R. decreto 30 dicembre 1923, n. 2991](Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md).
+Le disposizioni del presente decreto saranno inserite nel nuovo testo unico delle disposizioni legislative, sulla leva marittima, che il Governo ha facolta' di compilare e pubblicare in base al [R. decreto 30 dicembre 1923, n. 2991](../Regi%20decreti/Compilazione%20e%20pubblicazione%20di%20testi%20unici%20coordinati%20riguardanti%20i%20personali%20e%20i%20servizi%20della%20Regia%20marina.%20023U2991.md).
 
 ## Art. 3.
 

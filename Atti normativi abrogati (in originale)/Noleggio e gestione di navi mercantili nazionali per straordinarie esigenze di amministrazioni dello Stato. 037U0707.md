@@ -38,7 +38,7 @@ Il direttore generale della Marina mercantile e' autorizzato, entro i limiti sta
 
 ## Art. 4.
 
-Il Ministro per le comunicazioni e' autorizzato a derogare nel periodo 14 febbraio-31 dicembre 1937 agli articoli 3 (1° comma) 5, 6, 7, 8, 9, 13 e [56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56) ([2° comma) del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_com2), limitatamente alle spese di cui al precedente art. 1. 
+Il Ministro per le comunicazioni e' autorizzato a derogare nel periodo 14 febbraio-31 dicembre 1937 agli articoli 3 (1° comma) 5, 6, 7, 8, 9, 13 e [56](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) ([2° comma) del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), limitatamente alle spese di cui al precedente art. 1. 
  
  Per le spese stesse, in caso di particolare urgenza, il Ministro per le comunicazioni puo' autorizzare l'esecuzione di contratti anche prima della loro approvazione, specificandone le ragioni nel relativo decreto.
 

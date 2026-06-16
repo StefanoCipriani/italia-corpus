@@ -18,15 +18,15 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento dei notariato e degli archivi notarili;
 
-Visto il regolamento per l'esecuzione di tale legge approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+Visto il regolamento per l'esecuzione di tale legge approvato con [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
 
 Vista la [legge 6 agosto 1926, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-08-06;1365), contenente disposizioni sul conferimento dei posti notarili;
 
-Visto il [R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), contenente disposizioni sul conferimento dei posti di notaio;
+Visto il [R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), contenente disposizioni sul conferimento dei posti di notaio;
 
 Vista la [legge 24 marzo 1932, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-03-24;241), contenente norme per la nomina e i trasferimenti di notai;
 
-Visto il [R. decreto 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728), contenente modificazioni alle disposizioni regolamentari sul conferimento dei posti di notaio;
+Visto il [R. decreto 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md), contenente modificazioni alle disposizioni regolamentari sul conferimento dei posti di notaio;
 
 Vista la [legge 21 gennaio 1943, n. 102](Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nei%20concorsi%20per%20esame%20per%20la%20nomina%20a%20notaio.%20043U0102.md), contenente provvidenze a favore dei chiamati alle armi nei concorsi per esame per la nomina a notaio;
 
@@ -73,8 +73,8 @@ Per la formazione della graduatoria dei concorrenti si terra' conto:
 ## Art. 5.
 
 Per essere ammessi al concorso gli aspiranti debbono farne domanda in carta da bollo al Ministro per la grazia e giustizia.
- La domanda deve essere corredata dei documenti indicati nell'[art. 10 del R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_10), ad eccezione di quello previsto dal n. 9, e nell'art. 10 del presente decreto. Debbono anche essere prodotti i documenti che comprovino il possesso del titolo per partecipare al concorso, a norma dell'art. 2 del presente decreto, e quello degli altri titoli dei quali il candidato intenda avvalersi.
- Sono esenti dal pagamento della tassa di cui all'[articolo 10, n. 11, del R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_10-num11), coloro che abbiano gia' superato l'esame di idoneita' o di abilitazione al notariato presso le Corti d'appello e coloro che siano risultati idonei in un concorso per, esami per nomina a notaio.
+ La domanda deve essere corredata dei documenti indicati nell'[art. 10 del R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), ad eccezione di quello previsto dal n. 9, e nell'art. 10 del presente decreto. Debbono anche essere prodotti i documenti che comprovino il possesso del titolo per partecipare al concorso, a norma dell'art. 2 del presente decreto, e quello degli altri titoli dei quali il candidato intenda avvalersi.
+ Sono esenti dal pagamento della tassa di cui all'[articolo 10, n. 11, del R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), coloro che abbiano gia' superato l'esame di idoneita' o di abilitazione al notariato presso le Corti d'appello e coloro che siano risultati idonei in un concorso per, esami per nomina a notaio.
 
 ## Art. 6.
 
@@ -85,7 +85,7 @@ La domanda di ammissione al concorso e le quietanze comprovanti il versamento de
 
 ## Art. 7.
 
-Per la costituzione e per il funzionamento della Commissione esaminatrice si applicano le disposizioni degli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_27), [28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_28), [35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_35) e [36 del R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_36), con le successive modificazioni, e del [R. decreto 2 maggio 1932, n. 496](Disposizioni%20sulla%20Commissione%20esaminatrice%20dei%20concorsi%20per%20posti%20di%20notaro%20modificazioni%20al%20R.%20decreto%2014%20novembre%201926%20n.%201953.%20032U0496.md).
+Per la costituzione e per il funzionamento della Commissione esaminatrice si applicano le disposizioni degli [articoli 27](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), [28](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), [35](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md) e [36 del R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), con le successive modificazioni, e del [R. decreto 2 maggio 1932, n. 496](../Regi%20decreti/Disposizioni%20sulla%20Commissione%20esaminatrice%20dei%20concorsi%20per%20posti%20di%20notaro%20modificazioni%20al%20R.%20decreto%2014%20novembre%201926%20n.%201953.%20032U0496.md).
  Ogni commissario dispone di 40 punti per la valutazione dei titoli di ciascun aspirante. La somma dei punti assegnati al concorrente costituisce il punto definitivo con il quale egli e' collocato in graduatoria.
  La Commissione in base al punto definitivo di ciascun concorrente forma la graduatoria generale dei concorrenti. A parita' di voti la precedenza in graduatoria e' determinata secondo le norme in vigore per i concorsi nell'Amministrazione dello Stato.
  Il Ministro, riconosciuta la regolarita' delle operazioni del concorso, approva con decreto la graduatoria, che viene pubblicata nel Bollettino ufficiale del Ministero di grazia e giustizia.
@@ -101,7 +101,7 @@ Il Ministro per la grazia e giustizia, nel disporre il concorso per titoli a nor
 
 ## Art. 10.
 
-L'[art. 10, n. 12, del R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_10-num12), e' modificato come segue:
+L'[art. 10, n. 12, del R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), e' modificato come segue:
  "12) quietanza comprovante il versamento presso un archivio notarile regionale o distrettuale della somma di. L. 500 di cui L. 50 per tassa di concorso e L. 450 per contributo alle spese del concorso".
 
 ## Art. 11.

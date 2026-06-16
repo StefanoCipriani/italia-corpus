@@ -38,7 +38,7 @@ Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle
 
 Visto il [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), convertito nella [legge 6 gennaio 1931, n. 18](Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20novembre%201930%20n.%201491%20recante%20riduzione%20di%20stipendi%20e%20di%20altri%20emolumenti%20dei%20dipendenti%20statali%20nonche%20del%20personale%20degli%20Enti%20pubblici%20loca_f0ea546b6624.md), sulla riduzione di stipendi e di altri emolumenti;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Vista la [legge 3 aprile 1928, n. 918](Facolta%20al%20Governo%20del%20Re%20di%20riunire%20in%20testi%20unici%20le%20disposizioni%20legislative%20vigenti%20riguardanti%20la%20Regia%20marina.%20028U0918.md), che da' al Governo del Re la facolta' di riunire in testi unici le disposizioni legislative in vigore riguardanti la Regia marina e di apportarvi emendamenti;
 

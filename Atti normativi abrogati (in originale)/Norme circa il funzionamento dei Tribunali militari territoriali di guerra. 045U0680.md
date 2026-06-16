@@ -16,7 +16,7 @@ A decorrere dal 1° novembre 1945 la Sezione autonoma del Tribunale militare ter
 
 ## Art. 2.
 
-A decorrere dal 1° novembre 1945 riprendera' il suo funzionamento il Tribunale militare territoriale di guerra di La Spezia, costituito presso il Comando militare marittimo di La Spezia, e con la circoscrizione stabilita dalla tabella A allegata all'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022). 
+A decorrere dal 1° novembre 1945 riprendera' il suo funzionamento il Tribunale militare territoriale di guerra di La Spezia, costituito presso il Comando militare marittimo di La Spezia, e con la circoscrizione stabilita dalla tabella A allegata all'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md). 
  
  Pertanto dalla stessa data il territorio delle provincie di Livorno, Lucca e Pisa, temporaneamente attribuite al Tribunale militare territoriale di guerra di Firenze in forza dell'art. 6 del bando n. 41 del 14 marzo 1945, e' restituito alla giurisdizione del Tribunale militare territoriale di guerra di La Spezia.
 

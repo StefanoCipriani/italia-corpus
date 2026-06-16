@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'art. 3, n. 2, della leggo 31 gennaio 1926, n. 100;
 
-Veduti il [R. decreto-legge 15 luglio 1926, n. 1317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1317), nonche' i [Regi decreti 16 settembre 1926, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-16;1798), e [4 novembre 1926, n. 1858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;1858);
+Veduti il [R. decreto-legge 15 luglio 1926, n. 1317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1317), nonche' i [Regi decreti 16 settembre 1926, n. 1798](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Trento%20di%20dieci%20Comuni%20limitrofi.%20026U1798.md), e [4 novembre 1926, n. 1858](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Sopramonte%20a%20quello%20di%20Trento.%20026U1858.md);
 
 Ritenuta la necessita' urgente ed assoluta di provvedere all'orientamento delle scuole primarie nei Comuni aggregati a Venezia e a Trento;
 

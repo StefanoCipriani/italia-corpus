@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), relativo alla costituzione ed alle attribuzioni dei Corpi consultivi della R. marina, modificato con i [Regi decreti-legge in data 2 maggio 1920, n. 643](Che%20sopprime%20la%20carica%20di%20ispettore%20generale%20della%20R.%20marina%20istituita%20col%20R.%20decreto-legge%2020%20novembre%201919%20n.%202352.%20020U0643.md), e [20 febbraio 1921, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-02-20;219);
+Visto il [R. decreto 1° febbraio 1920, n. 156](../Regi%20decreti/Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md), relativo alla costituzione ed alle attribuzioni dei Corpi consultivi della R. marina, modificato con i [Regi decreti-legge in data 2 maggio 1920, n. 643](Che%20sopprime%20la%20carica%20di%20ispettore%20generale%20della%20R.%20marina%20istituita%20col%20R.%20decreto-legge%2020%20novembre%201919%20n.%202352.%20020U0643.md), e [20 febbraio 1921, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-02-20;219);
 
 Udito il Consiglio dei ministri;
 

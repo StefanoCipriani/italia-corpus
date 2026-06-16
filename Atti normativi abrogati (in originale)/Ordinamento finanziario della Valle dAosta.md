@@ -50,7 +50,7 @@ Per provvedere a scopi determinati, che non rientrino nelle funzioni normali del
 ## Art. 6.
 
 L'Intendenza di finanza di Aosta, su ordini di accreditamento, disporra' mensilmente il versamento alla Regione di quanto ad essa, spetta a norma degli articoli 2 e 4.
- Per gli ordini di accreditamento inerenti ai versamenti di cui al comma precedente, in deroga all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e' consentita la emissione senza alcun limite di importo.
+ Per gli ordini di accreditamento inerenti ai versamenti di cui al comma precedente, in deroga all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e' consentita la emissione senza alcun limite di importo.
 
 ## Art. 7.
 

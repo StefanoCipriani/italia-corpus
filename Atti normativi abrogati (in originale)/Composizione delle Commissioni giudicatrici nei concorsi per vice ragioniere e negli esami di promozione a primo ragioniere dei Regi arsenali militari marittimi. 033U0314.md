@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto il [R. decreto 16 maggio 1932, n. 628](Composizione%20delle%20Commissioni%20esaminatrici%20pei%20concorsi%20a%20ragioniere%20dei%20Regi%20arsenali%20militari%20marittimi%20e%20per%20la%20promozione%20a%20primo%20ragioniere.%20032U0628.md);
 

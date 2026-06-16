@@ -18,19 +18,19 @@ Al servizio di assistenza medico-chirurgica, nei Comuni nei quali esso non possa
  
  L'incarico e' obbligatorio per colui che ne e' investito. 
  
- Sono a questo applicabili le disposizioni e le penalita' dell'[art. 124 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_124) 1° agosto 1907, n. 636. 
+ Sono a questo applicabili le disposizioni e le penalita' dell'[art. 124 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636. 
  
  Le stesse norme valgono per il servizio di assistenza e vigilanza zoojatrica.
 
 ## Art. 2.
 
-Fermo rimanendo il disposto dell'[art. 124 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_124) 1° agosto 1907, n. 636, ogni medico-chirurgo, inscritto nell'albo di un ordine del Regno, e' tenuto a prestare l'opera sua in qualsiasi Comune, anche appartenente a Provincia diversa da quella di sua residenza, al quale sia destinato dal prefetto dal ministro dell'interno, per prevenire o combattere la diffusione di malattie infettive. 
+Fermo rimanendo il disposto dell'[art. 124 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, ogni medico-chirurgo, inscritto nell'albo di un ordine del Regno, e' tenuto a prestare l'opera sua in qualsiasi Comune, anche appartenente a Provincia diversa da quella di sua residenza, al quale sia destinato dal prefetto dal ministro dell'interno, per prevenire o combattere la diffusione di malattie infettive. 
  
- Il provvedimento di destinazione determina le condizioni di assunzione e dichiara la competenza passiva della relativa spesa, in applicazione dell'[art. 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201). 
+ Il provvedimento di destinazione determina le condizioni di assunzione e dichiara la competenza passiva della relativa spesa, in applicazione dell'[art. 201 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md). 
  
  Contro il decreto del prefetto o del ministro dell'interno non e' ammesso gravame ne' in via amministrativa ne' in via giudiziaria. 
  
- Sono applicabili al caso del presente articolo le disposizioni del secondo e del [terzo comma dell'art. 124 del testo unico dello leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_124-com3).
+ Sono applicabili al caso del presente articolo le disposizioni del secondo e del [terzo comma dell'art. 124 del testo unico dello leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 ## Art. 3.
 
@@ -42,13 +42,13 @@ E' concesso ai cittadini italiani, rimpatriati o rifugiati nel Regno in occasion
 
 ## Art. 4.
 
-Il procedimento di cui all'[art. 127 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_127) 1 agosto 1907, n. 636, e' applicabile in qualsiasi caso, anche all'infuori di quello di malattie epidemiche, in cui vi sia, nell'interesse della tutela della pubblica salute, necessita' assoluta ed urgente di occupare proprieta' particolari per servizi sanitari, compresa la protezione per le opere di presa e di conduttura delle acque potabili.
+Il procedimento di cui all'[art. 127 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1 agosto 1907, n. 636, e' applicabile in qualsiasi caso, anche all'infuori di quello di malattie epidemiche, in cui vi sia, nell'interesse della tutela della pubblica salute, necessita' assoluta ed urgente di occupare proprieta' particolari per servizi sanitari, compresa la protezione per le opere di presa e di conduttura delle acque potabili.
 
 ## Art. 5.
 
 Dove ne sorga il bisogno, in relazione ad eccezionali esigenze della pubblica profilassi, il prefetto, con motivata ordinanza, sentito il Consiglio provinciale di sanita', o, nei casi di somma urgenza, il medico provinciale, provvede anche coattivamente a quanto occorra per l'accertamento, l'isolamento e la cura dei casi di malattia infettiva dell'uomo e degli animali anche in deroga alle vigenti norme speciali per la profilassi di determinate malattie. 
  
- I contravventori sono puniti con la multa sino a L. 1000 e con l'arresto da un mese a due anni, salve le maggiori pene sancite dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I contravventori sono puniti con la multa sino a L. 1000 e con l'arresto da un mese a due anni, salve le maggiori pene sancite dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

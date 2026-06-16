@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Articolo unico.
 
-Il limite di pubblicita' degli atti indicati agli articoli 77 e 79 del regolamento per gli Archivi di Stato approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), gia' prorogato a tutto l'anno 1847 con l'[art. 3 del decreto Luogotenenziale 26 ottobre 1916, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-26;1687#art_3), e' esteso fino all'anno 1867. 
+Il limite di pubblicita' degli atti indicati agli articoli 77 e 79 del regolamento per gli Archivi di Stato approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), gia' prorogato a tutto l'anno 1847 con l'[art. 3 del decreto Luogotenenziale 26 ottobre 1916, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-26;1687#art_3), e' esteso fino all'anno 1867. 
  
  Nonpertanto, ove la Direzione dell'Archivio giudichi inopportuna la comunicazione di atti anteriori al 1868, ne riferira' al Ministro per l'interno, che decidera', sentita la Giunta del Consiglio superiore per gli Archivi. 
  

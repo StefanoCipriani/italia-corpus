@@ -20,7 +20,7 @@ Veduta la [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20ital
 
 Veduto il [R. decreto 11 marzo 1923, n. 564](Che%20sopprime%20nei%20Regi%20Licei%20ginnasi%20le%20sezioni%20moderne%20istituite%20con%20la%20legge%2021%20luglio%201911%20n.%20860.%20023U0564.md) che sopprime nei Regi licei-ginnasi le sezioni moderne istituite con [legge 29 luglio 1911, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-29;860);
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), relativo all'ordinamento della istruzione media e dei convitti nazionali;
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), relativo all'ordinamento della istruzione media e dei convitti nazionali;
 
 Udito il Consiglio dei Ministri;
 
@@ -88,7 +88,7 @@ La classi di cui al precedente articolo possono essere affidate a supplenti.
 
 ## Art. 11.
 
-Le disposizioni dell'[art. 11 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_11), saranno applicate agli insegnanti all'estero con quelle restrizioni e deroghe che possono essere imposte dall'interesse dalla cultura italiana e sulle quali decidera' il Ministero.
+Le disposizioni dell'[art. 11 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), saranno applicate agli insegnanti all'estero con quelle restrizioni e deroghe che possono essere imposte dall'interesse dalla cultura italiana e sulle quali decidera' il Ministero.
 
 ## Art. 12.
 
@@ -106,7 +106,7 @@ I contributi scolastici non saranno superiori ai due terzi delle tasse scolastic
 
 ## Art. 15.
 
-Per quanto non e' considerato nel presente decreto si applicano le disposizioni di cui alla [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md) e dal [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054). 
+Per quanto non e' considerato nel presente decreto si applicano le disposizioni di cui alla [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md) e dal [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  I programmi degli esami sono determinati con lo stesso decreto Reale che stabilira' gli orari d'insegnamento su proposta del Ministro degli affari esteri di concerto con quello dell'istruzione.
 

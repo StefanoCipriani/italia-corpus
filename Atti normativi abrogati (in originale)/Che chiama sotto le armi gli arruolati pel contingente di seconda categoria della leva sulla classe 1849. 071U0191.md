@@ -28,7 +28,7 @@ Tutti gli uomini stati arruolati pel contingente di seconda categoria della leva
 
 ## Art. 2.
 
-Quelli che non obbediranno alla chiamata incorreranno nel reato di diserzione, e saranno sottoposti alle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
+Quelli che non obbediranno alla chiamata incorreranno nel reato di diserzione, e saranno sottoposti alle pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare.
 
 ## Art. 3.
 

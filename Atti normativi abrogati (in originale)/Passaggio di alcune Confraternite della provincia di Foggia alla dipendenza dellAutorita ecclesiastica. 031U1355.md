@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'art. 77, primo comma, del regolamento approvato con [R. decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262), in relazione all'art. 29, lettera c), del Concordato con la Santa Sede e all'[art. 17 della legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848#art_17); 
+ Visto l'art. 77, primo comma, del regolamento approvato con [R. decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md), in relazione all'art. 29, lettera c), del Concordato con la Santa Sede e all'[art. 17 della legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848#art_17); 
  Ritenuto che, ai termini dei citati articoli, le Confraternite aventi scopo esclusivo o prevalente di culto debbono passare alle dipendenze dell'Autorita' ecclesiastica, per quanto riguarda il funzionamento e l'amministrazione; 
  Ritenuto che, nei confronti delle Confraternite infraindicate, e' rimasto accertato lo scopo di cui sopra; 
  Udito il parere del Consiglio di Stato; 

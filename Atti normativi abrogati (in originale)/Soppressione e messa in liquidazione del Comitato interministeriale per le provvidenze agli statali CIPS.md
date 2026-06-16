@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Comitato interministeriale per le provvidenze agli statali (CIPS) istituito con l'[articolo 1 del regio decreto legislativo 17 maggio 1946, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;388#art_1), e' soppresso e posto in liquidazione con le modalita' stabilite dalla [legge 4 dicembre 1956, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-04;1404).
+Il Comitato interministeriale per le provvidenze agli statali (CIPS) istituito con l'[articolo 1 del regio decreto legislativo 17 maggio 1946, n. 388](../Regi%20decreti%20legislativi/Disciplina%20della%20distribuzione%20al%20minor%20prezzo%20possibile%20di%20generi%20di%20prima%20necessita%20per%20i%20dipendenti%20ed%20i%20pensionati%20statali.md), e' soppresso e posto in liquidazione con le modalita' stabilite dalla [legge 4 dicembre 1956, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-04;1404).
 
 ## Art. 2.
 

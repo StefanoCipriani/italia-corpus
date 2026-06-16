@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti gli [articoli 3 del R. decreto-legge 15 settembre 1923, n. 2093](Cassa%20di%20previdenza%20per%20gli%20impiegati%20e%20salariati%20degli%20Enti%20locali.%20023U2093.md), e 11 del [R. decreto 7 ottobre 1923, n. 2349](Provvedimenti%20transitori%20per%20il%20trattamento%20di%20quiescenza%20ai%20segretari%20ed%20altri%20impiegati%20degli%20Enti%20locali%20iscritti%20alla%20Cassa%20di%20previdenza.%20023U2349.md); 
+ Visti gli [articoli 3 del R. decreto-legge 15 settembre 1923, n. 2093](Cassa%20di%20previdenza%20per%20gli%20impiegati%20e%20salariati%20degli%20Enti%20locali.%20023U2093.md), e 11 del [R. decreto 7 ottobre 1923, n. 2349](../Regi%20decreti/Provvedimenti%20transitori%20per%20il%20trattamento%20di%20quiescenza%20ai%20segretari%20ed%20altri%20impiegati%20degli%20Enti%20locali%20iscritti%20alla%20Cassa%20di%20previdenza.%20023U2349.md); 
  
  Udito il Consiglio dei Ministri; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
 
 ## Art. 2.
 
-Il termine di cui al [secondo comma dell'art. 11 del Regio decreto 7 ottobre 1923, n. 2349](Provvedimenti%20transitori%20per%20il%20trattamento%20di%20quiescenza%20ai%20segretari%20ed%20altri%20impiegati%20degli%20Enti%20locali%20iscritti%20alla%20Cassa%20di%20previdenza.%20023U2349.md), e' prorogato al 31 dicembre
+Il termine di cui al [secondo comma dell'art. 11 del Regio decreto 7 ottobre 1923, n. 2349](../Regi%20decreti/Provvedimenti%20transitori%20per%20il%20trattamento%20di%20quiescenza%20ai%20segretari%20ed%20altri%20impiegati%20degli%20Enti%20locali%20iscritti%20alla%20Cassa%20di%20previdenza.%20023U2349.md), e' prorogato al 31 dicembre
 
 1925.
 

@@ -52,7 +52,7 @@ I pesi della tabella precedente fino al mozzo carato inclusivo (100 mg.) dovrann
  
  Sono applicabili ai pesi, di cui al presente decreto, le disposizioni generali e speciali fissate dal [regolamento 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-06-12;226), per i pesi analoghi e quelle ulteriori che, nei limiti della facolta' concessa dal regolamento predetto, il Ministero d'agricoltura, industria e commercio riterra' opportuno di adottare sul parere della commissione superiore metrica. 
  
- I diritti di verificazione prima sono quelli stabiliti dalla tabella B annessa al testo unico di leggi metriche approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª). 
+ I diritti di verificazione prima sono quelli stabiliti dalla tabella B annessa al testo unico di leggi metriche approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

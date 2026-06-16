@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 27 febbraio 1908, n. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md), che approva il testo unico delle leggi sulle case popolari ed economiche;
+Veduto il [R. decreto 27 febbraio 1908, n. 89](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md), che approva il testo unico delle leggi sulle case popolari ed economiche;
 
 Veduto il [R. decreto-legge 30 novembre 1919, numero 2318](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md), per le case popolari ed economiche e per l'industria edilizia;
 

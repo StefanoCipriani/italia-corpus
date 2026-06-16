@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 4 marzo 1929, n. 364](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-04;364), col quale il comune di Valchiusella e' stato soppresso ed il rispettivo territorio aggregato a quello di Traversella; 
+ Visto il [R. decreto 4 marzo 1929, n. 364](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Traversella%20e%20Valchiusella%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Traversella.%20029U0364.md), col quale il comune di Valchiusella e' stato soppresso ed il rispettivo territorio aggregato a quello di Traversella; 
  Vista la deliberazione del commissario prefettizio di Traversella rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Valchiusella; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

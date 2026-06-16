@@ -44,7 +44,7 @@ L'Alto Commissariato dell'alimentazione, istituito col [decreto legislativo Luog
 
 ## Art. 2.
 
-L'Alto Commissario dell'alimentazione nell'ordine delle precedenze stabilito col [R. decreto 16 dicembre 1927, n. 2210](Ordine%20delle%20precedenze%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20027U2210.md), prende posto nella categoria II classe 4ª. 
+L'Alto Commissario dell'alimentazione nell'ordine delle precedenze stabilito col [R. decreto 16 dicembre 1927, n. 2210](../Regi%20decreti/Ordine%20delle%20precedenze%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20027U2210.md), prende posto nella categoria II classe 4ª. 
  
  Egli ha, alla propria dipendenza, un Gabinetto costituito da un capo di gabinetto, due addetti di cui uno con funzioni di segretario particolare e non piu' di due impiegati d'ordine. 
  
@@ -126,11 +126,11 @@ Con decreti del Presidente del Consiglio dei Ministri, su propostta dell'Alto Co
 
 Le infrazioni alle disposizioni emanatte dall'Alto Commissario sono punite ai sensi del [R. decreto-legge 22 aprile 1943, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-04-22;245). Nel caso previsto odall'art. 20 del decreto-legge medesimo la multa puo' essere aumentata fino a venti volte il valore dei prodotti, a cui l'infrazione si riferisce. Questa disposizione e' applicabile anche alle contravvenzioni previste dall'art. 22 dello stesso decreto. 
  
- Il giudice puo' altresi' ordinare la confisca dei prodotti e dell'eventuale mezzo di trasporto, a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Il giudice puo' altresi' ordinare la confisca dei prodotti e dell'eventuale mezzo di trasporto, a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 12.
 
-Sono soppresse la Direzione generale dell'alimentazione e la Direzione generale dei tesseramenti dei prezzi e della statistica dei generi alimentari istituite nel Ministero dell'agricoltura e delle foreste rispettivamente con [legge 12 luglio 1940, n. 1096](Istituzione%20della%20Direzione%20generale%20dellalimentazione%20a%20modifica%20dellordinamento%20previsto%20dal%20R.%20decreto-legge%2018%20dicembre%201939-XVIII%20n.%202222.%20040U1096.md), e con [R. decreto 7 novembre 1941, n. 1376](Istituzione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20dl%20una%20Direzione%20generale%20dei%20tesseramenti%20dei%20prezzi%20e%20della%20statistica%20dei%20generi%20alimentari.%20041U1376.md).
+Sono soppresse la Direzione generale dell'alimentazione e la Direzione generale dei tesseramenti dei prezzi e della statistica dei generi alimentari istituite nel Ministero dell'agricoltura e delle foreste rispettivamente con [legge 12 luglio 1940, n. 1096](Istituzione%20della%20Direzione%20generale%20dellalimentazione%20a%20modifica%20dellordinamento%20previsto%20dal%20R.%20decreto-legge%2018%20dicembre%201939-XVIII%20n.%202222.%20040U1096.md), e con [R. decreto 7 novembre 1941, n. 1376](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20dl%20una%20Direzione%20generale%20dei%20tesseramenti%20dei%20prezzi%20e%20della%20statistica%20dei%20generi%20alimentari.%20041U1376.md).
 
 ## Art. 13.
 
@@ -138,7 +138,7 @@ E' abrogata ogni disposizione contraria e incompatibile con quelle del presente 
  
  Il [R. decreto-legge 27 dicembre 1940, n. 1716](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-12-27;1716), convertito co nmodificazioni nella [legge 24 aprile 1941, n. 385](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20dicembre%201940-XIX%20n.%201716%20recante%20disposizioni%20per%20la%20disciplina%20degli%20approvvigionamenti%20della%20distribuzione%20e%20dei%20consumi%20_49bee2e89aec.md), resta in vigore nella parte non modificata dal presente decreto. 
  
- Le norme contenute nel citato decreto-legge e nel [R. decreto 2 gennaio 1941, n. 4](Organizzazione%20dei%20servizi%20dellalimentazione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0004.md), concernente l'organizzazione ed il funzionamento dei servizi dell'alimentazione restano in vigore fino a quando non ricevano applicazione i decreti previsti nell'art. 9 del presente decreto.
+ Le norme contenute nel citato decreto-legge e nel [R. decreto 2 gennaio 1941, n. 4](../Regi%20decreti/Organizzazione%20dei%20servizi%20dellalimentazione%20presso%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0004.md), concernente l'organizzazione ed il funzionamento dei servizi dell'alimentazione restano in vigore fino a quando non ricevano applicazione i decreti previsti nell'art. 9 del presente decreto.
 
 ## Art. 14.
 

@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di c
 
 ## Art. 1.
 
-I giacimenti di torbe che a giudizio insindacabile del Ministro per le corporazioni non siano coltivati con mezzi tecnici ed economici sufficienti, possono essere dati in concessione, sentito il Consiglio superiore delle miniere, per un periodo di tempo non superiore a cinque anni, a chi ne faccia domanda, con l'osservanza delle norme contenute nel titolo II, capitolo II, e seguenti del [R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443).
+I giacimenti di torbe che a giudizio insindacabile del Ministro per le corporazioni non siano coltivati con mezzi tecnici ed economici sufficienti, possono essere dati in concessione, sentito il Consiglio superiore delle miniere, per un periodo di tempo non superiore a cinque anni, a chi ne faccia domanda, con l'osservanza delle norme contenute nel titolo II, capitolo II, e seguenti del [R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md).
 
 ## Art. 2.
 

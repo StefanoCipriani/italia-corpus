@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Durante la presente guerra, il ministro della marina ha facolta' di nominare in soprannumero al ruolo organico degli ufficiali del corpo R. equipaggi, quale risulta dal [R. decreto 25 maggio 1915, n. 815](Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), e dai [decreti Luogotenenziali 25 luglio 1915, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1181) e [1° ottobre 1916, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-01;1252), altri 50 ufficiali provenienti dalle diverse categorie dei sott'ufficiali del corpo stesso.
+Durante la presente guerra, il ministro della marina ha facolta' di nominare in soprannumero al ruolo organico degli ufficiali del corpo R. equipaggi, quale risulta dal [R. decreto 25 maggio 1915, n. 815](../Regi%20decreti/Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), e dai [decreti Luogotenenziali 25 luglio 1915, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1181) e [1° ottobre 1916, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-01;1252), altri 50 ufficiali provenienti dalle diverse categorie dei sott'ufficiali del corpo stesso.
 
 ## Art. 2.
 

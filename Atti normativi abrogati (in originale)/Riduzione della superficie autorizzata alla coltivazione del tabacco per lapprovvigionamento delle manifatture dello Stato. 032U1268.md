@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge organica 21 gennaio 1929 - Anno VII, numero 67, sul monopolio dei sali e dei tabacchi;
 
-Visto il regolamento per la coltivazione indigena del tabacco approvato con [R. decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni;
+Visto il regolamento per la coltivazione indigena del tabacco approvato con [R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'[articolo 36 del testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_36), approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), sono aggiunti i due seguenti incisi: 
+ All'[articolo 36 del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 30 giugno 1889, n. 6144](../Regi%20decreti/Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), sono aggiunti i due seguenti incisi: 
  
  «Con Regolamento da approvarsi con R. decreto, sentito il parere del Consiglio di Stato, verranno determinate le norme per l'uso dell'acetilene e per i pubblici esercizi di carburo di calcio e acetilene. 
  

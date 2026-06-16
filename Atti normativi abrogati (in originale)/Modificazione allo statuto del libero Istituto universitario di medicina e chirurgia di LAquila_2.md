@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto del libero Istituto universitario di medicina e chirurgia di L'Aquila, approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](../DPR/Riconoscimento%20del%20libero%20Istituto%20universitario%20di%20medicina%20e%20chirurgia%20dellAquila.md) e modificato con [decreto del Presidente della Repubblica 6 agosto 1970, n. 800](Modificazioni%20allo%20statuto%20del%20libero%20Istituto%20universitario%20di%20medicina%20e%20chirurgia%20di%20LAquila.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; Veduta la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; Veduta la [legge 11 aprile 1953, n. 312](Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 

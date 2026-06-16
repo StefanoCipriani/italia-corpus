@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 8, 9, 11, 19, 30, 36, 37, 38 del regolamento per l'Officina governativa delle carte-valori, approvato con [R. decreto 18 novembre 1909, n. 755](Che%20approva%20lannesso%20regolamento%20per%20i%20servizi%20ed%20il%20personale%20dellofficina%20governativa%20delle%20carte-valori%20009U0755.md), e modificato con Nostro decreto 30 gennaio 1916, n. 138, sono modificati come segue: 
+Gli articoli 8, 9, 11, 19, 30, 36, 37, 38 del regolamento per l'Officina governativa delle carte-valori, approvato con [R. decreto 18 novembre 1909, n. 755](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20i%20servizi%20ed%20il%20personale%20dellofficina%20governativa%20delle%20carte-valori%20009U0755.md), e modificato con Nostro decreto 30 gennaio 1916, n. 138, sono modificati come segue: 
  
  Art. 8. - E' istituito nell'officina un Consiglio d'amministrazione permanente, composto del direttore, del vice-direttore, del perito tecnico e del controllore capo. 
  

@@ -217,7 +217,7 @@ Per l'ammissione al concorso di cui al precedente art. 16 gli aspiranti debbono 
 
 ### Art. 22. — Modalita' di svolgimento dei concorsi di cui all'art. 19
 
-Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  E' ammesso a sostenere le prove d'esame orale previste dal terzo comma dell'art. 19 del presente decreto il candidato che abbia riportato un punteggio di merito di almeno trentacinque cinquantesimi nelle prove di esame di cui ai commi secondo, quarto e quinto dello stesso articolo.
  Il punto complessivo di merito delle prove e' dato dalla media dei punti attribuiti alle singole prove.
  Per conseguire l'idoneita' nella prova orale il candidato deve riportare un punto di merito non inferiore a trenta cinquantesimi.
@@ -225,7 +225,7 @@ Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le d
 
 ### Art. 23. — Modalita' di svolgimento dei concorsi di cui agli articoli 20 e 21
 
-Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Per lo svolgimento delle prove d'esame si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  E' ammesso alla prova orale e alle prove pratiche il candidato che abbia riportato un punto di merito di almeno trentacinque cinquantesimi in ciascuna delle prove scritte.
  Il punto complessivo di merito delle prove scritte e' dato dalla media dei punti attribuiti alle singole prove.
  Per conseguire l'idoneita' nella prova orale e nelle prove pratiche il candidato deve riportare un punto di merito non inferiore a trenta cinquantesimi.
@@ -269,7 +269,7 @@ Agli appartenenti ai ruoli della banda musicale si applicano le disposizioni con
 ### Art. 32. — Collocamento a riposo d'ufficio
 
 L'appartenente ai ruoli della banda musicale, che non sia piu' ritenuto di soddisfacente rendimento artistico, e' sottoposto, su proposta del dirigente generale preposto alla direzione centrale del personale del Dipartimento della pubblica sicurezza, ad accertamenti da parte di una commissione appositamente nominata con decreto del Ministro dell'interno e costituita come quella di cui al precedente art. 18.
- Se il giudizio e' negativo, si applicano le disposizioni di cui agli articoli 129 e seguenti del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Se il giudizio e' negativo, si applicano le disposizioni di cui agli articoli 129 e seguenti del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 33. — Divisa
 

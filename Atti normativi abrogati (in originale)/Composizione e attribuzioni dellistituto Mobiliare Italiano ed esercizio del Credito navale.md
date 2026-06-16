@@ -24,7 +24,7 @@ Vista la [legge 21 maggio 1940, n. 657](Conferimento%20al%20Governatore%20della%
 
 Vista la [legge 30 ottobre 1940, n 1571](Norme%20per%20agevolare%20alle%20aziende%20di%20credito%20lo%20smobilizzo%20di%20impieghi%20a%20lungo%20e%20medio%20termine.%20040U1571.md);
 
-Visto il [R. decreto 25 novembre 1940, n. 1955](Norme%20di%20attuazione%20della%20legge%2021%20maggio%201940-XVIII%20n.%20657%20circa%20il%20conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubbli_9839ec8c461a.md);
+Visto il [R. decreto 25 novembre 1940, n. 1955](../Regi%20decreti/Norme%20di%20attuazione%20della%20legge%2021%20maggio%201940-XVIII%20n.%20657%20circa%20il%20conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubbli_9839ec8c461a.md);
 
 Visto il [R. decreto legge 19 luglio 1941, n. 865](Aumento%20dei%20fondo%20di%20dotazione%20della%20Sezione%20autonoma%20per%20il%20credito%20cinematografico%20presso%20la%20Banca%20nazionale%20del%20lavoro.%20041U0865.md), convertito nella [legge 5 dicembre 1941, n. 1410](Conversione%20in%20legge%20del%20Regio%20decreto-legge%2019%20luglio%201941-XIX%20n.%20865%20concernente%20laumento%20del%20fondo%20di%20dotazione%20della%20Sezione%20di%20credito%20cinematografico%20presso%20la%20Banca%20nazionale%20del%20L_5e2f14e01c0d.md);
 
@@ -44,7 +44,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [R. decreto legislativo 10 maggio 1946, numero 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-10;262);
+Visto il [R. decreto legislativo 10 maggio 1946, numero 262](../Regi%20decreti%20legislativi/Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

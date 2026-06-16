@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' abrogato il [R. decreto 7 aprile 1921, n. 559](Che%20modifica%20gli%20articoli%2072%20a%2079%20del%20regolamento%20per%20lesecuzione%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%2012%20febbraio%201911%20n.%20297%20circa%20gli%20esami%20per%20il%20conferimento%20d_0a25d364ff19.md), che modifica gli articoli 72 a 79 del regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297), concernenti gli esami per il conferimento della patente di abilitazione alle funzioni di segretario comunale.
+E' abrogato il [R. decreto 7 aprile 1921, n. 559](Che%20modifica%20gli%20articoli%2072%20a%2079%20del%20regolamento%20per%20lesecuzione%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%2012%20febbraio%201911%20n.%20297%20circa%20gli%20esami%20per%20il%20conferimento%20d_0a25d364ff19.md), che modifica gli articoli 72 a 79 del regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md), concernenti gli esami per il conferimento della patente di abilitazione alle funzioni di segretario comunale.
 
 ## Art. 2.
 

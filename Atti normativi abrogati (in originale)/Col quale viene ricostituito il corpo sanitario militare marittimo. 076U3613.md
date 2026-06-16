@@ -192,7 +192,7 @@ Il personale medico, quello dei farmacisti e degli ufficiali del Commissariato a
 
 ## Art. 31.
 
-I farmacisti aggregati al Corpo sanitario non sono soggetti alla disciplina ed alla legge penale militare in tempo di pace; in tempo di guerra invece sono sottoposti alla giurisdizione militare nei termini stabiliti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+I farmacisti aggregati al Corpo sanitario non sono soggetti alla disciplina ed alla legge penale militare in tempo di pace; in tempo di guerra invece sono sottoposti alla giurisdizione militare nei termini stabiliti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Sono ad essi applicabili quanto alla posizione di aspettativa e quanto alle pensioni le leggi relative agli impiegati civili dello Stato.
 

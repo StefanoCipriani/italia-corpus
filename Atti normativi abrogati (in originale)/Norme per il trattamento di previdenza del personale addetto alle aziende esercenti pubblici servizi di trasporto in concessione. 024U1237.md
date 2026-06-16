@@ -24,7 +24,7 @@ Visto il [decreto Luogotenenziale 25 marzo 1919, n. 467](https://www.normattiva.
 
 Visto il [R. decreto 19 ottobre 1923, n. 2311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-19;2311);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184);
+Visto il [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md);
 
 Su proposta del Nostro Ministro Segretario di Stato per
 
@@ -48,7 +48,7 @@ Hanno diritto a pensione secondo le norme del [regolamento 30 settembre 1920, n.
 
 ## Art. 3.
 
-Agli agenti che non abbiano diritto a pensione secondo l'articolo precedente e' concessa facolta' di chiedere entro il 31 dicembre 1924 la restituzione del contributo di previdenza del 15 % versato dal 1° gennaio 1919 in poi, sotto deduzione del contributo per l'assicurazione obbligatoria di cui al [Regio decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), per gli agenti che non sono soggetti a tale assicurazione sotto deduzione dei quattro quindicesimi del contributo stesso, che rimangono accreditati a loro favore con la forma dei versamenti facoltativi. 
+Agli agenti che non abbiano diritto a pensione secondo l'articolo precedente e' concessa facolta' di chiedere entro il 31 dicembre 1924 la restituzione del contributo di previdenza del 15 % versato dal 1° gennaio 1919 in poi, sotto deduzione del contributo per l'assicurazione obbligatoria di cui al [Regio decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), per gli agenti che non sono soggetti a tale assicurazione sotto deduzione dei quattro quindicesimi del contributo stesso, che rimangono accreditati a loro favore con la forma dei versamenti facoltativi. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge ed entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

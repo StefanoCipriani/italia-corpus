@@ -30,7 +30,7 @@ Il giorno 2 giugno 1947, primo anniversario del plebiscito popolare che ha insta
 
 Nella ricorrenza di cui all'articolo precedente, lo Stato, gli Enti pubblici ed i privati datori di lavoro sono tenuti a corrispondere ai lavoratori da essi dipendenti, ancorche' non vi sia prestazione d'opera, la normale retribuzione giornaliera, compreso ogni elemento accessorio di questa.
  Ai lavoratori che, nei casi previsti, prestano la loro opera nella suindicata ricorrenza e' dovuta una doppia retribuzione nella misura anzidetta e con la maggiorazione per il lavoro festivo effettivamente prestato.
- In caso di trasgressione i datori di lavoro incorrono nelle sanzioni previste dal [primo comma dell'art. 509 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di trasgressione i datori di lavoro incorrono nelle sanzioni previste dal [primo comma dell'art. 509 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 

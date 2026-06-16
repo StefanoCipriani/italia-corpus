@@ -28,7 +28,7 @@ Vista la [legge 21 agosto 1921, n. 1312, art. 8](Concernente%20lassunzione%20obb
 
 Visto il [R. decreto 15 settembre 1923, n. 2085](Reclutamento%20di%20cancellieri%20presso%20il%20Ministero%20degli%20affari%20esteri.%20023U2085.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -36,7 +36,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato ad interim per gli affari
 
 ## Art. 1.
 
-Per la nomina al grado di alunno d'ordine nel Ministero degli affari esteri occorre superare un concorso per esami e per esperimento pratico a cui potranno essere ammessi i cittadini italiani che si trovino in possesso dei requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato e che abbiano il titolo minimo di studio richiesto dall'[art. 16, lettera c) del R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); salvo che si tratti di sottufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza. 
+Per la nomina al grado di alunno d'ordine nel Ministero degli affari esteri occorre superare un concorso per esami e per esperimento pratico a cui potranno essere ammessi i cittadini italiani che si trovino in possesso dei requisiti di cui all'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato e che abbiano il titolo minimo di studio richiesto dall'[art. 16, lettera c) del R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); salvo che si tratti di sottufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza. 
  
  Il limite di eta' per l'ammissione al concorso e' di 30 anni in genere, di 35 per i combattenti di cui all'art. 43 del Regio, decreto 30 settembre 1922, n. 1290, di 39 anni per gli invalidi di cui all'[art. 8 della legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md). 
  

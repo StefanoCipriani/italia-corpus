@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni;
+Visto il [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3257](Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md), e successive modificazioni;
+Visto il [R. decreto 31 dicembre 1923, n. 3257](../Regi%20decreti/Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md), e successive modificazioni;
 
 Visto il R. decreto 26 febbraio 1928-VI, n. 619, che approva il testo unico delle disposizioni legislative riguardanti l'Opera di previdenza per i personali civile e militare dello Stato;
 

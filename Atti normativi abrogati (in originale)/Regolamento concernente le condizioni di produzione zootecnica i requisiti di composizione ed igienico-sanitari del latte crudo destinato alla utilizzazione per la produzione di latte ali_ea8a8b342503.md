@@ -18,7 +18,7 @@ DELL'AGRICOLTURA E DELLE FORESTE
 
 Vista la [legge 3 maggio 1989, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-03;169), concernente la disciplina del trattamento e della commercializzazione del latte alimentare vaccino;
 
-Visto il regolamento per la vigilanza del latte destinato al consumo diretto approvato con [regio decreto 9 maggio 1929, n. 994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-09;994);
+Visto il regolamento per la vigilanza del latte destinato al consumo diretto approvato con [regio decreto 9 maggio 1929, n. 994](../Regi%20decreti/Approvazione%20del%20regolamento%20sulla%20vigilanza%20igienica%20del%20latte%20destinato%20al%20consumo%20diretto.%20029U0994.md);
 
 Visto il [decreto ministeriale 14 maggio 1988, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-05-14;212), relativo all'attuazione della [direttiva n. 85/937/CEE del 5 agosto 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;937) concernente problemi sanitari e di polizia sanitaria negli scambi intracomunitari di latte trattato termicamente;
 

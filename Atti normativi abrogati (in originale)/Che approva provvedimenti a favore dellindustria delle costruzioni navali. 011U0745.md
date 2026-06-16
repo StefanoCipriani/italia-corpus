@@ -57,7 +57,7 @@ Il compenso daziario e il compenso di costruzione non sono concessi:
  
  5° agli scafi di ferro, acciaio o legno non destinati alla navigazione, ma riservati ai servizi complementari nell'interno dei porti, delle rade, dei laghi, delle lagune e dei fiumi od alla navigazione a rimorchio, come bette, barche-cisterne, pontoni, barche, battelli, boe, gavitelli, zattere da calatati e simili. 
  
- La voce 333 della tariffa doganale (testo unico approvato con [Regio decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)) sara' modificata per decreto Reale in conformita' della presente legge.
+ La voce 333 della tariffa doganale (testo unico approvato con [Regio decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md)) sara' modificata per decreto Reale in conformita' della presente legge.
 
 ### Art. 7.
 

@@ -182,7 +182,7 @@ Entro il 15 ottobre 1994 il Ministro dei trasporti e della navigazione trasmette
 
 5.
 
-Fermo quanto disposto dall'art. 210 del testo unico delle norme sul trattamento di quiescenza dei dipendenti civili e militari dello Stato, approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), il Tesoro e' altresi' autorizzato ad erogare alle Ferrovie dello Stato S.p.a., nelle more della quantificazione da parte della societa' stessa dell'ammontare del disavanzo del fondo pensioni, le somme iscritte in bilancio negli anni 1992, 1993 e 1994 a copertura del disavanzo medesimo e non ancora corrisposte alla societa'.
+Fermo quanto disposto dall'art. 210 del testo unico delle norme sul trattamento di quiescenza dei dipendenti civili e militari dello Stato, approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), il Tesoro e' altresi' autorizzato ad erogare alle Ferrovie dello Stato S.p.a., nelle more della quantificazione da parte della societa' stessa dell'ammontare del disavanzo del fondo pensioni, le somme iscritte in bilancio negli anni 1992, 1993 e 1994 a copertura del disavanzo medesimo e non ancora corrisposte alla societa'.
 
 6.
 

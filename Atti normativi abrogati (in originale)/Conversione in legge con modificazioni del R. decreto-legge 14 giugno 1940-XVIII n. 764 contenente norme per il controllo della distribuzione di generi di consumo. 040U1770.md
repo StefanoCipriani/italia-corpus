@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  E' convertito in legge il R. decreto-legge 14 giugno 1940-XVIII, n. 764, contenente norme per il controllo della distribuzione dei generi di consumo, con le seguenti modificazioni: 
  
- All'art. 5 del decreto-legge, comma 1°, dopo le parole: « del presente decreto» sono soppresse le altre: «e quelle che saranno comunque emanate in dipendenza ed in applicazione di esso» e dopo le parole: «con l'ammenda fino a lire diecimila», sono aggiunte le altre: «e puo' essere inoltre applicata la confisca della merce ai sensi dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
+ All'art. 5 del decreto-legge, comma 1°, dopo le parole: « del presente decreto» sono soppresse le altre: «e quelle che saranno comunque emanate in dipendenza ed in applicazione di esso» e dopo le parole: «con l'ammenda fino a lire diecimila», sono aggiunte le altre: «e puo' essere inoltre applicata la confisca della merce ai sensi dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)». 
  
  Allo stesso articolo, dopo il comma 1°, e' aggiunto il seguente; 
  

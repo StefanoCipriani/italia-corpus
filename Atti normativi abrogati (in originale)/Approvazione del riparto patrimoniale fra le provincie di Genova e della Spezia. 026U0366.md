@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno; 
  
- Veduto il [R. decreto 2 settembre 1923, n. 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1913), con cui fu istituita la provincia della Spezia; 
+ Veduto il [R. decreto 2 settembre 1923, n. 1913](../Regi%20decreti/Istituzione%20della%20provincia%20della%20Spezia.%20023U1913.md), con cui fu istituita la provincia della Spezia; 
  
  Veduto il progetto di separazione del patrimonio e di riparto, delle attivita' e passivita', concordato, in esecuzione del Regio decreto sopra citato, tra i rappresentanti delle provincie di Genova e della Spezia ed approvato il 10 agosto 1925 dal Consiglio provinciale di Genova nonche' il 12 dello stesso mese dalla Reale commissione per la straordinaria amministrazione della provincia della Spezia, con i poteri del Consiglio provinciale; 
  

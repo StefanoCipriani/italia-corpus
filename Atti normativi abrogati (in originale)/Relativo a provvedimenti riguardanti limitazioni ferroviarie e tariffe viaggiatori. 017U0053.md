@@ -22,7 +22,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata ad adottare, su tutt
  
  d) biglietti a serie di qualsiasi specie; 
  
- e) biglietti a tariffa ridotta in base alle concessioni speciali I, XIII, XIV, XV e XX di cui alla [legge n. 562 del 29 dicembre 1901](Concessioni%20speciali%20per%20determinati%20trasporti%20sulle%20strade%20ferrate.%20001U0562.md) e del [R. decreto n. 470 del 9 maggio 1912](Col%20quale%20viene%20approvata%20una%20concessione%20speciale%20e%20relativa%20tariffa%20per%20gli%20operai%20e%20braccianti%20che%20si%20recano%20temporaneamente%20a%20lavorare%20allestero%20012U0470.md). 
+ e) biglietti a tariffa ridotta in base alle concessioni speciali I, XIII, XIV, XV e XX di cui alla [legge n. 562 del 29 dicembre 1901](Concessioni%20speciali%20per%20determinati%20trasporti%20sulle%20strade%20ferrate.%20001U0562.md) e del [R. decreto n. 470 del 9 maggio 1912](../Regi%20decreti/Col%20quale%20viene%20approvata%20una%20concessione%20speciale%20e%20relativa%20tariffa%20per%20gli%20operai%20e%20braccianti%20che%20si%20recano%20temporaneamente%20a%20lavorare%20allestero%20012U0470.md). 
  
  II. limitare il rilascio delle seguenti categorie di biglietti: 
  
@@ -36,7 +36,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata ad adottare, su tutt
  
  l) biglietti a tariffa ridotta per le compagnie teatrali ed assimilate, restringendo la concessione alle sole compagnie regolarmente costituite di cui al punto II, comma a) della concessione IX ed alle relative orchestre; 
  
- m) biglietti gratuiti ed a tariffa ridotta per il personale ferroviario e per le alte persone di cui agli 14 e 24 del regolamento approvato col [R. decreto 21 luglio 1910, n. 628](Che%20approva%20lannesso%20regolamento%20per%20la%20concessione%20delle%20carte%20di%20libera%20circolazione%20e%20dei%20biglietti%20per%20un%20solo%20viaggio%20sulle%20ferrovie%20esercitate%20dallo%20Stato.%20010U0628.md), sopprimendo le concessioni per le persone del 3° gruppo e limitando le altre concessioni in appresso: 
+ m) biglietti gratuiti ed a tariffa ridotta per il personale ferroviario e per le alte persone di cui agli 14 e 24 del regolamento approvato col [R. decreto 21 luglio 1910, n. 628](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20concessione%20delle%20carte%20di%20libera%20circolazione%20e%20dei%20biglietti%20per%20un%20solo%20viaggio%20sulle%20ferrovie%20esercitate%20dallo%20Stato.%20010U0628.md), sopprimendo le concessioni per le persone del 3° gruppo e limitando le altre concessioni in appresso: 
  
  due concessioni gratuite all'anno per le persone che attualmente ne fruiscono di tre; 
  
@@ -53,7 +53,7 @@ Per i biglietti d'abbonamento il venti per cento si applichera' sul prezzo di ta
  
  IV. o) ridurre normalmente ad uno solo il numero dei compartimenti che possono essere riservati in ciascun treno, stabilendo inoltre che la richiesta debba essere fatta alla stazione almeno 12 ore prima della partenza del treno. 
  
- p) sospendere l'uso gratuito delle carrozze-salone, salvo facolta' al presidente del Consiglio dei ministri di autorizzare - quando concorrono speciali circostanze - l'uso delle carrozze stesse per singoli viaggi in favore delle persone che ne possono fruire a tenore degli articoli n. 2 e 3 del regolamento approvato con [R. decreto n. 819 del 27 dicembre 1908](Che%20approva%20lannesso%20regolamento%20per%20la%20concessione%20di%20compartimenti%20riservati%20sulle%20ferrovie%20dello%20Stato.%20008U0819.md). 
+ p) sospendere l'uso gratuito delle carrozze-salone, salvo facolta' al presidente del Consiglio dei ministri di autorizzare - quando concorrono speciali circostanze - l'uso delle carrozze stesse per singoli viaggi in favore delle persone che ne possono fruire a tenore degli articoli n. 2 e 3 del regolamento approvato con [R. decreto n. 819 del 27 dicembre 1908](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20concessione%20di%20compartimenti%20riservati%20sulle%20ferrovie%20dello%20Stato.%20008U0819.md). 
  
  V. sopprimere la facolta' consentita attualmente ai viaggiatori muniti di un solo biglietto ferroviario di potere fruire di due posti a letto in una medesima cabina col pagamento di due soprattasse. 
  

@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la tabella delle circoscrizioni elettorali, annessa al testo unico; 
  
- Visto il [R. decreto 22 maggio 1913, n. 560](Relativo%20alla%20costituzione%20delle%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20in%20collegi%20della%20provincia%20di%20Cuneo.%20013U0560.md), col quale gli elettori politici del comune di Lottulo, collegio di Dronero, in provincia di Cuneo, furono aggregati alla sezione elettorale del comune di Alma; 
+ Visto il [R. decreto 22 maggio 1913, n. 560](../Regi%20decreti/Relativo%20alla%20costituzione%20delle%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20in%20collegi%20della%20provincia%20di%20Cuneo.%20013U0560.md), col quale gli elettori politici del comune di Lottulo, collegio di Dronero, in provincia di Cuneo, furono aggregati alla sezione elettorale del comune di Alma; 
  
  Vista la deliberazione 15 gennaio 1919, adottata dalla Commissione elettorale comunale di Lottulo, dalla quale risulta che, in seguito alla revisione elettorale pel 1919 il numero degli elettori politici del Comune ha superato il centinaio; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il [R. decreto 22 maggio 1913, n. 560](Relativo%20alla%20costituzione%20delle%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20in%20collegi%20della%20provincia%20di%20Cuneo.%20013U0560.md), e' revocato in quanto disponeva che gli elettori politici del comune di Lottulo fossero aggregati alla sezione elettorale del comune di Alma. 
+ Il [R. decreto 22 maggio 1913, n. 560](../Regi%20decreti/Relativo%20alla%20costituzione%20delle%20sezioni%20elettorali%20politiche%20di%20diversi%20Comuni%20in%20collegi%20della%20provincia%20di%20Cuneo.%20013U0560.md), e' revocato in quanto disponeva che gli elettori politici del comune di Lottulo fossero aggregati alla sezione elettorale del comune di Alma. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

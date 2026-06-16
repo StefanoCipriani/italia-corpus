@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto il regolamento generale per gli stabilimenti carcerari, approvato con [regio decreto 16 maggio 1929, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-16;1908);
 
-Visto l'art. 35 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214);
+Visto l'art. 35 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
 
 Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273), e sentita la Corte dei conti a sezioni riunite;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 Con decreto del Ministro per la grazia e giustizia possono essere istituiti magazzini per la custodia, la conservazione e la distribuzione degli effetti di vestiario e di casermaggio per il Corpo degli agenti di custodia e degli effetti di casermaggio per i detenuti e gli internati.
  Con la stessa procedura puo' essere istituito un centro recuperi per la raccolta, utilizzazione ed alienazione dei materiali suddetti che siano fuori uso.
- Tanto i magazzini che il centro recuperi sono sottoposti al riscontro della Corte dei conti, a norma del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214).
+ Tanto i magazzini che il centro recuperi sono sottoposti al riscontro della Corte dei conti, a norma del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md).
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ A ciascun magazzino e al centro recuperi e' preposto un consegnatario scelto fra
 ## Art. 3.
 
 Per ogni sede di magazzino puo' essere istituita, con decreto Ministeriale, una commissione di collaudo per la fornitura dei materiali di cui all'art. 1, composta di un funzionario dell'Amministrazione penitenziaria, di grado non inferiore al 9°, che la presiede, di un esperto da scegliere tra i funzionari dell'Amministrazione dello Stato e del consegnatario del magazzino, il quale funzionera' inoltre da segretario.
- Per il collaudo e per la dichiarazione di fuori uso dei materiali suddetti valgono le disposizioni del regolamento approvato con [regio decreto 16 maggio 1920, n. 1908](Che%20sostituisce%20le%20disposizioni%20contenute%20nella%20parte%20III%20Amministrazione%20economica%20e%20contabilita%20del%20regolamento%20generale%20per%20gli%20stabilimenti%20carcerari%201%20febbraio%201891%20n.%20260%20020U1908.md).
+ Per il collaudo e per la dichiarazione di fuori uso dei materiali suddetti valgono le disposizioni del regolamento approvato con [regio decreto 16 maggio 1920, n. 1908](../Regi%20decreti/Che%20sostituisce%20le%20disposizioni%20contenute%20nella%20parte%20III%20Amministrazione%20economica%20e%20contabilita%20del%20regolamento%20generale%20per%20gli%20stabilimenti%20carcerari%201%20febbraio%201891%20n.%20260%20020U1908.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

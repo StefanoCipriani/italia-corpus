@@ -20,7 +20,7 @@ Vieta la [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%2
 
 Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali e le successive modificazioni;
 
-Viste le leggi sulle pensioni civili e militari, testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Viste le leggi sulle pensioni civili e militari, testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Visti i regolamenti per l'applicazione delle leggi predette;
 

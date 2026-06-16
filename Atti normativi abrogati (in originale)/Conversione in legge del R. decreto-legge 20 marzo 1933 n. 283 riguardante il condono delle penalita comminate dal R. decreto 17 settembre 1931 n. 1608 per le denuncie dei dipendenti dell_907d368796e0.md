@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 20 marzo 1933, n. 283](Condono%20di%20penalita%20per%20le%20denuncie%20dei%20dipendenti%20di%20aziende%20private%20agli%20effetti%20dellimposta%20complementare.%20033U0283.md), riguardante il condono delle penalita' comminate dal [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), per le denuncie dei dipendenti delle aziende private agli effetti dell'imposta complementare. 
+ E' convertito in legge il [R. decreto-legge 20 marzo 1933, n. 283](Condono%20di%20penalita%20per%20le%20denuncie%20dei%20dipendenti%20di%20aziende%20private%20agli%20effetti%20dellimposta%20complementare.%20033U0283.md), riguardante il condono delle penalita' comminate dal [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per le denuncie dei dipendenti delle aziende private agli effetti dell'imposta complementare. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando ai chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

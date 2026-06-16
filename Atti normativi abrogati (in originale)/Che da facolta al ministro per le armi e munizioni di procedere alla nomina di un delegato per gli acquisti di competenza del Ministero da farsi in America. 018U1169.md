@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto il [R. decreto 9 luglio 1915, n. 1065](Contenente%20provvedimenti%20per%20i%20rifornimenti%20di%20armi%20e%20di%20munizioni.%20015U1065.md), contenente provvedimenti per i rifornimenti di armi e munizioni; 
+ Visto il [R. decreto 9 luglio 1915, n. 1065](../Regi%20decreti/Contenente%20provvedimenti%20per%20i%20rifornimenti%20di%20armi%20e%20di%20munizioni.%20015U1065.md), contenente provvedimenti per i rifornimenti di armi e munizioni; 
  
  Ritenuta la necessita' di nominare un delegato del Ministero armi e munizioni per gli acquisti in America, con piene facolta' impegnative per la detta Amministrazione; 
  

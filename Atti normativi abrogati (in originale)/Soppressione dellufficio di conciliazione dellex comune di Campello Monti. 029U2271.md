@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 18 febbraio 1929, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-18;317), col quale il comune di Campello Monti e' stato soppresso ed il rispettivo territorio aggregato a quello di Valstrona; 
+ Visto il [R. decreto 18 febbraio 1929, n. 317](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Campello%20Monti%20a%20quello%20di%20Valstrona.%20029U0317.md), col quale il comune di Campello Monti e' stato soppresso ed il rispettivo territorio aggregato a quello di Valstrona; 
  
  Vista la deliberazione del podesta', di Valstrona rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Campello Monti; 
  

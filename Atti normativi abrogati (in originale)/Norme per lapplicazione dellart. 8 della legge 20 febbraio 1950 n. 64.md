@@ -42,7 +42,7 @@ Il riscatto dell'intera rendita liquidata puo' essere concesso solo quando i pos
 
 ## Art. 6.
 
-Nel caso in cui il titolare della rendita sia colpito da un nuovo infortunio indennizzabile ai sensi degli [articoli 2](Modificazioni%20allassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura_2.md) e [6 della legge 20 febbraio 1950, n. 64](Modificazioni%20allassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura_2.md), l'importo della nuova rendita complessivamente dovuta da liquidarsi a norma dell'[art. 37 del regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_37), sara' decurtato dell'importo corrispondente alla rendita gia' riscattata.
+Nel caso in cui il titolare della rendita sia colpito da un nuovo infortunio indennizzabile ai sensi degli [articoli 2](Modificazioni%20allassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura_2.md) e [6 della legge 20 febbraio 1950, n. 64](Modificazioni%20allassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura_2.md), l'importo della nuova rendita complessivamente dovuta da liquidarsi a norma dell'[art. 37 del regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), sara' decurtato dell'importo corrispondente alla rendita gia' riscattata.
 
 ## Art. 7.
 

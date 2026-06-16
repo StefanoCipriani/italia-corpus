@@ -44,7 +44,7 @@ Al [decreto-legge 2 settembre 1919, n. 1759](https://www.normattiva.it/uri-res/N
 
 ## Art. 2.
 
-E' data facolta' al Ministero dell'economia nazionale di promuovere le modificazioni, che siano ritenute necessarie, alle norme per l'applicazione del [decreto-legge 2 settembre 1919, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-09-02;1759), approvate con [R. decreto 26 febbraio 1920, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-02-26;271).
+E' data facolta' al Ministero dell'economia nazionale di promuovere le modificazioni, che siano ritenute necessarie, alle norme per l'applicazione del [decreto-legge 2 settembre 1919, n. 1759](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-09-02;1759), approvate con [R. decreto 26 febbraio 1920, n. 271](../Regi%20decreti/Che%20approva%20le%20norme%20per%20lapplicazione%20del%20decreto-legge%202%20settembre%201919%20n.%201759%20recante%20provvedimenti%20a%20favore%20delle%20Associazioni%20agrarie%20di%20mutua%20assicurazione.%20020U0271.md).
 
 ## Art. 3.
 

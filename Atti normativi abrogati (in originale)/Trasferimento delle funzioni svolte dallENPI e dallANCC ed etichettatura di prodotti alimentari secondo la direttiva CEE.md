@@ -32,7 +32,7 @@ E' fissato al 1 febbraio 1982 il termine per l'effettivo esercizio da parte dell
 ## Art. 2.
 
 In attesa delle norme di recepimento della direttiva del Consiglio delle Comunita' economiche europee del 18 dicembre 1978, n. 79/112, relativa al ravvicinamento delle legislazioni degli Stati membri concernenti la etichettatura e la presentazione dei prodotti alimentari destinati al consumatore finale nonche' la relativa pubblicita', e' consentita l'importazione in Italia e la circolazione sul territorio nazionale dei prodotti alimentari conformi alle prescrizioni di etichettatura contenute nella direttiva stessa.
- Il termine di cui all'[articolo 76 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), e' sospeso fino al recepimento delle direttive comunitarie e comunque non oltre il 31 marzo 1982.
+ Il termine di cui all'[articolo 76 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), e' sospeso fino al recepimento delle direttive comunitarie e comunque non oltre il 31 marzo 1982.
 
 ## Art. 3.
 

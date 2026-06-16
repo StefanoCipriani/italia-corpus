@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'art. 51 del testo unico di legge per l'amministrazione del patrimonio e la contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
+ Visto l'art. 51 del testo unico di legge per l'amministrazione del patrimonio e la contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
  Visti i [decreti Luogotenenziali 27 giugno 1915, numero 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;990), [18 maggio 1916, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-18;625), [26 luglio 1917, numero 1186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-26;1186), [13 aprile 1919, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-13;620) e [17 agosto 1919, n. 1519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-08-17;1519), da convertire in legge; 
  

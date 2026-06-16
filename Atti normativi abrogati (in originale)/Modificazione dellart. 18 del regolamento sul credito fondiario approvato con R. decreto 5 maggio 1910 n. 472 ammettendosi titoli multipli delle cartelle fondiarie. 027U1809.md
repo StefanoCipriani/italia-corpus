@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
-Veduto il regolamento per la esecuzione del testo unico suddetto, approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Veduto il regolamento per la esecuzione del testo unico suddetto, approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Veduta la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Articolo unico.
 
-Il primo capoverso dell'art. 18 del regolamento per la esecuzione della legge ([testo unico) 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646), sul credito fondiario, approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e' sostituito dal seguente: 
+Il primo capoverso dell'art. 18 del regolamento per la esecuzione della legge ([testo unico) 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646), sul credito fondiario, approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), e' sostituito dal seguente: 
  
  «Le cartelle fondiarie possono essere aggruppate in titoli quintupli e decupli, nonche' di venticinque, cinquanta e cento cartelle». 
  

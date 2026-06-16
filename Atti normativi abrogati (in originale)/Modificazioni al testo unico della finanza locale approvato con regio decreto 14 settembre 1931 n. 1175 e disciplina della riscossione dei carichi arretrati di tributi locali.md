@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il primo ed il secondo comma dell'articolo 286 del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, sono sostituiti come segue:
+Il primo ed il secondo comma dell'articolo 286 del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, sono sostituiti come segue:
  "Entro il mese di dicembre la Giunta comunale, o rispettivamente la Giunta provinciale, cura, sulla base delle denuncie, sulla scorta dei ruoli dell'anno precedente e della deliberazione di cui all'articolo 276, la compilazione dei ruoli principali.
  Ove il Comune si sia avvalso della facolta' prevista dall'articolo 276, secondo comma, le iscrizioni a ruolo operante sulla base delle denuncie presentate dai contribuenti e dalle partite iscritte a ruolo per l'anno precedente, sono effettuate a titolo provvisorio salvo rettifica.
  Debbono, inoltre, essere provvisoriamente iscritte a ruolo le somme indicate dal contribuente o quelle determinate dal Comune ai sensi del penultimo comma dell'articolo 277, nonche' le partite contestate dopo la decisione della Commissione di prima istanza, nel limite massimo dei due terzi dell'imponibile determinato dalla Commissione.
@@ -24,12 +24,12 @@ Il primo ed il secondo comma dell'articolo 286 del testo unico della finanza loc
 
 ## Art. 2.
 
-L'articolo 287 del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituito come segue:
+L'articolo 287 del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituito come segue:
  "Per le partite comunque non iscritte nei ruoli principali e per quelle definite nel merito successivamente alla compilazione dei detti ruoli, sono formati ruoli suppletivi con le modalita' dei precedenti articoli".
 
 ## Art. 3.
 
-L'articolo 289 del testo unico della finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituito dal seguente:
+L'articolo 289 del testo unico della finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituito dal seguente:
  "Il contribuente, al quale sia notificata, da parte di piu' Comuni, l'applicazione di uno stesso tributo, ha facolta' di ricorrere alla GPA, Sezione speciale per i tributi locali, od al Ministro per le finanze, secondo che i Comuni appartengano alla stessa o a diverse Province.
  La duplicazione si verifica anche fra tributi la cui applicazione e' alternativa.
  Il ricorso deve essere presentato all'autorita' cui spetta decidere nel termine di trenta giorni dalla notifica dell'avviso di accertamento ovvero della cartella esattoriale che concreta la contemporanea applicazione di uno stesso tributo.
@@ -42,7 +42,7 @@ L'articolo 289 del testo unico della finanza locale approvato con [regio decreto
 
 ## Art. 4.
 
-Inserire nel testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, i seguenti articoli:
+Inserire nel testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, i seguenti articoli:
  Art. 48-bis. - Interessi: La disciplina di cui alla [legge 26 gennaio 1961, n. 29](Norme%20per%20la%20disciplina%20della%20riscossione%20dei%20carichi%20in%20materia%20di%20tasse%20e%20di%20imposte%20indirette%20sugli%20affari.md), si applica alle imposte comunali di consumo, nonche' agli altri tributi locali per i quali si osservano, per legge, le norme sull'accertamento e sulla riscossione delle dette imposte.
  Art. 297-bis. - Maggiorazione a favore dell'Ente locale: Decorso un semestre dalla data di pubblicazione dei ruoli principali dell'anno cui si riferisce il tributo, si applica, indipendentemente dalle sanzioni stabilite dai precedenti articoli 292 e 296, a carico dei contribuenti che abbiano omesso le denunce o che le abbiano presentate infedeli, una maggiorazione del 2,50 per cento sulle somme o sulle maggiori somme dovute, in base ad accertamento d'ufficio o rettifica, per ogni semestre intero successivo fino alla data di pubblicazione dei ruoli nei quali viene effettuata l'iscrizione di tali somme.
  La maggiorazione e' parimenti dovuta sulle somme iscritte a ruolo ai sensi del terzo e quarto comma dell'articolo 286 per i semestri decorsi fino alla data di pubblicazione dei ruoli nei quali viene effettuata l'iscrizione ed il contribuente resta esonerato, per tali somme, dalle maggiorazioni relative ai semestri successivi.
@@ -73,7 +73,7 @@ Le maggiorazioni e le indennita' di cui agli articoli 297-bis e 297-quater si ap
 
 ## Art. 6. — (Disposizioni transitorie)
 
-Per le vertenze in corso, i contribuenti possono, con apposita richiesta da produrre all'Ente locale impositore, avvalersi del disposto di cui agli articoli 286, terzo e quarto comma, e 289, quarto comma, del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
+Per le vertenze in corso, i contribuenti possono, con apposita richiesta da produrre all'Ente locale impositore, avvalersi del disposto di cui agli articoli 286, terzo e quarto comma, e 289, quarto comma, del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
  Ove la richiesta di cui al primo comma venga prodotta entro 90 giorni dalla entrata in vigore della presente legge, il contribuente resta esonerato dal pagamento della maggiorazione prevista dall'articolo 297-bis introdotto nel testo unico della finanza locale con il precedente articolo 4, a decorrere dalla data indicata nello articolo 5 della presente legge; diversamente si applica il disposto del secondo comma dello stesso articolo 297-bis.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126), che approva il regolamento per l'ordinamento e l'esercizio dei magazzini generali;
+Visto il [regio decreto 16 gennaio 1927, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali%20e%20lapplicazione%20delle%20discipline%20doganali%20ai%20predetti%20Magazzini%20generali.%20027U0126.md), che approva il regolamento per l'ordinamento e l'esercizio dei magazzini generali;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'industria ed il commercio, di concerto con i M
 
 ## Art. 1.
 
-Il primo comma dell'art. 2 del regolamento generale per l'ordinamento e l'esercizio dei magazzini generali, approvato con [regio decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126), e' modificato come segue:
+Il primo comma dell'art. 2 del regolamento generale per l'ordinamento e l'esercizio dei magazzini generali, approvato con [regio decreto 16 gennaio 1927, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali%20e%20lapplicazione%20delle%20discipline%20doganali%20ai%20predetti%20Magazzini%20generali.%20027U0126.md), e' modificato come segue:
  "L'esercente, a garanzia delle obbligazioni verso l'erario, i depositanti e loro aventi causa, ha l'obbligo di prestare una congrua cauzione nella misura, che sara' determinata dal Ministro per l'industria e commercio, in ogni caso non inferiore alle L. 1.000.000, ne' superiore a L. 50.000.000".
 
 ## Art. 2.

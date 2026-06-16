@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189), che stabilisce l'ordinamento dei servizi dipartimentali della Regia marina, e sue successive modificazioni;
+Visto il [R. decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), che stabilisce l'ordinamento dei servizi dipartimentali della Regia marina, e sue successive modificazioni;
 
 Sulla proposta del Ministro per la marina di concerto con quello per le finanze;
 
@@ -26,7 +26,7 @@ Nelle sedi di Spezia e di Taranto la carica di «comandante militare marittimo e
 
 ## Art. 2.
 
-Alla tabella A annessa al [R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189), e' apportata la seguente modifica: 
+Alla tabella A annessa al [R. decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), e' apportata la seguente modifica: 
  
  Nella colonna 4 fra «Comando marina a Genova» e «Comando del Regio Balipedio Ronca (Viareggio)» aggiungere: «Comando del Regio arsenale di Spezia»; e, in corrispondenza del «Comando militare marittimo e della piazza marittima di Taranto» aggiungere «Comando del Regio arsenale di Taranto». 
  

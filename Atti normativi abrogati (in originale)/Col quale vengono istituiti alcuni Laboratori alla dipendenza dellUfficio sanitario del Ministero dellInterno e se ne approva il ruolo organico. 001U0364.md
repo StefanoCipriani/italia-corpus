@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il Nostro decreto in data 21 agosto 1897, che approvava il ruolo organico dei Laboratori della Sanita' Pubblica;
 
-Visto il Capo VII del Regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45);
+Visto il Capo VII del Regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md);
 
 Vista la [legge in data 7 luglio 1901, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;245), che approva il bilancio del Ministero dell'Interno per l'esercizio 1901-1902;
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Fermo restando il contributo di cui all'[art. 370 del testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con R. decreto 28 aprile 1938-XVI, n. 1165, per le costruzioni dell'Istituto nazionale per le case degli impiegati dello Stato appaltate dal 1° gennaio 1942-XX, e' concesso un contributo straordinario annuo pari all'1 per cento del costo delle costruzioni stesse. 
+Fermo restando il contributo di cui all'[art. 370 del testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con R. decreto 28 aprile 1938-XVI, n. 1165, per le costruzioni dell'Istituto nazionale per le case degli impiegati dello Stato appaltate dal 1° gennaio 1942-XX, e' concesso un contributo straordinario annuo pari all'1 per cento del costo delle costruzioni stesse. 
  
  Tale contributo, straordinario compete dal primo giorno del mese successivo alla data di dichiarazione di abitabilita', di dette costruzioni fino ad un anno dopo la cessazione dell'attuale stato di guerra e sara' corrisposto in via posticipata.
 

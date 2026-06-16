@@ -22,13 +22,13 @@ Visto il [R. decreto 25 novembre 1886 n. 4258](Che%20approva%20lannesso%20Regola
 
 Visto il R. decreto 16 agosto 1891, che modifica il regolamento sopracitato;
 
-Visto il [R. decreto 20 novembre 1864 n. 1439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-11-20;1439), che stabilisce le servitu' militari attorno alle opere di fortificazione della piazza di Ancona;
+Visto il [R. decreto 20 novembre 1864 n. 1439](../Regi%20decreti/Che%20determina%20il%20numero%20e%20la%20larghezza%20delle%20zone%20da%20sottoporsi%20a%20servitu%20militare%20da%20applicarsi%20alle%20proprieta%20fondiarie%20in%20vicinanza%20delle%20opere%20di%20fortificazione%20della%20Piazza%20di%20Ancona.%206401439R.md), che stabilisce le servitu' militari attorno alle opere di fortificazione della piazza di Ancona;
 
 Visti i RR. decreti 6 maggio 1886 n. 1757 e 19 settembre 1884 n. 2693, coi quali vennero modificate le servitu' anzidette;
 
 Visto il [R. decreto 31 agosto 1886 n. 4090](Col%20quale%20cessa%20di%20essere%20considerata%20come%20opera%20di%20difesa%20dello%20Stato%20il%20muro%20di%20cinta%20verso%20il%20porto%20di%20Ancona%20compreso%20tra%20la%20batteria%20di%20Santa%20Lucia%20e%20la%20porta%20Marina.%20086U4090.md) (serie 3ª), col quale venne radiato dal novero delle opere di fortificazione il muro di cinta verso il porto di Ancona;
 
-Visto il [R. decreto 16 ottobre 1892 n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-10-16;816), che completa le anzidette servitu' militari;
+Visto il [R. decreto 16 ottobre 1892 n. 816](../Regi%20decreti/Che%20modifica%20le%20zone%20di%20servitu%20militari%20nella%20parte%20verso%20il%20nord%20della%20piazza%20di%20Ancona.%209200816R.md), che completa le anzidette servitu' militari;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra; Abbiamo decretato e decretiamo:
 

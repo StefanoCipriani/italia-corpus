@@ -26,7 +26,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 Fino alla pubblicazione delle nuove leggi sull'ordinamento giudiziario, da emanarsi in virtu' della [legge 24 dicembre 1925, n. 2260](Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md), i vicepretori mandamentali possono, su loro domanda, essere destinati, fuori delle proprie sedi, a reggere le preture prive di titolare. 
  
- Possono anche, in numero non superiore a settanta, essere destinati ai posti assegnati dalla pianta organica ad uditori vicepretori, ai sensi dell'ultima parte dell'[art. 23 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
+ Possono anche, in numero non superiore a settanta, essere destinati ai posti assegnati dalla pianta organica ad uditori vicepretori, ai sensi dell'ultima parte dell'[art. 23 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
 
 ## Art. 2.
 

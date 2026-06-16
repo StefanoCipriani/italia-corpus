@@ -32,7 +32,7 @@ Le inchieste sulle perdite delle navi mercantili e sugli altri sinistri marittim
 
 ## Art. 2.
 
-Alla perdita di navi mercantili imputabile al capitano o ad altre persone appartenenti all'equipaggio o per altro motivo presenti a bordo, saranno applicabili le sanzioni portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo per la perdita delle navi da guerra, sempreche' dall'inchiesta praticata a sensi del precedente articolo la perdita della nave sia risultata attribuibile a cause di guerra. 
+Alla perdita di navi mercantili imputabile al capitano o ad altre persone appartenenti all'equipaggio o per altro motivo presenti a bordo, saranno applicabili le sanzioni portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo per la perdita delle navi da guerra, sempreche' dall'inchiesta praticata a sensi del precedente articolo la perdita della nave sia risultata attribuibile a cause di guerra. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -14,6 +14,6 @@ N.
 
 179.
 
-R. decreto 7 febbraio 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, viene modificato l'art. 3 dello statuto della Reale Accademia dei Lincei, approvato col [R. decreto 15 gennaio 1920, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-15;95), e modificato coi [Regi decreti 27 maggio 1923, n. 1147](Riordinamento%20di%20scuola%20023U1147.md), e [1° ottobre 1925, n. 1769](Modificazione%20dello%20statuto%20della%20Regia%20accademia%20dei%20Lincei%20in%20Roma.%20025U1769.md). 
+R. decreto 7 febbraio 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, viene modificato l'art. 3 dello statuto della Reale Accademia dei Lincei, approvato col [R. decreto 15 gennaio 1920, n. 95](../Regi%20decreti/Approvazione%20di%20statuto.%20020U0095.md), e modificato coi [Regi decreti 27 maggio 1923, n. 1147](Riordinamento%20di%20scuola%20023U1147.md), e [1° ottobre 1925, n. 1769](Modificazione%20dello%20statuto%20della%20Regia%20accademia%20dei%20Lincei%20in%20Roma.%20025U1769.md). 
  Visto, il Guardasigilli: Rocco. 
  Registrato alla Corte dei conti, addi' 24 marzo 1930 - Anno VIII

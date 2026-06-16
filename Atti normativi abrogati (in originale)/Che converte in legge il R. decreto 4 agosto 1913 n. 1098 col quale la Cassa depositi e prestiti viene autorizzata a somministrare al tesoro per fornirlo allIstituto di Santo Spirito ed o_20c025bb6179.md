@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 4 agosto 1913, n. 1098](Relativo%20alla%20sistemazione%20finanziaria%20degli%20ospedali%20riuniti%20di%20Roma.%20013U1098.md) che autorizza la Cassa depositi e prestiti a somministrare al tesoro per fornirlo all'Istituto di San Spirito ed ospedali riuniti di Roma un mutuo di L. 2.600.000. 
+ E' convertito in legge il [R. decreto 4 agosto 1913, n. 1098](../Regi%20decreti/Relativo%20alla%20sistemazione%20finanziaria%20degli%20ospedali%20riuniti%20di%20Roma.%20013U1098.md) che autorizza la Cassa depositi e prestiti a somministrare al tesoro per fornirlo all'Istituto di San Spirito ed ospedali riuniti di Roma un mutuo di L. 2.600.000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

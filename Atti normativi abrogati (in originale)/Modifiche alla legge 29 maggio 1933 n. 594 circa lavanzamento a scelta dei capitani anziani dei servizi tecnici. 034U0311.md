@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md);
+Visto il testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md);
 
 Vista la [legge 29 maggio 1933, n. 594](Avanzamento%20a%20scelta%20dei%20capitani%20anziani%20del%20servizio%20tecnico%20dartiglieria%20del%20servizio%20degli%20specialisti%20del%20genio%20e%20del%20servizio%20tecnico%20automobilistico.%20033U0594.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 Il [terzo comma dell'art. 1 della legge 29 maggio 1933, n. 594](Avanzamento%20a%20scelta%20dei%20capitani%20anziani%20del%20servizio%20tecnico%20dartiglieria%20del%20servizio%20degli%20specialisti%20del%20genio%20e%20del%20servizio%20tecnico%20automobilistico.%20033U0594.md), e' sostituito dal seguente: 
  
- «L'ammissione all'avanzamento anticipato dei capitani suddetti avverra' secondo le norme stabilite dal [R. decreto 4 gennaio 1934, n. 127](Modifiche%20al%20R.%20decreto%205%20gennaio%201933%20n.%201%20recante%20norme%20per%20lavanzamento%20anticipato%20dei%20capitani%20e%20dei%20tenenti%20del%20Regio%20esercito.%20034U0127.md). 
+ «L'ammissione all'avanzamento anticipato dei capitani suddetti avverra' secondo le norme stabilite dal [R. decreto 4 gennaio 1934, n. 127](../Regi%20decreti/Modifiche%20al%20R.%20decreto%205%20gennaio%201933%20n.%201%20recante%20norme%20per%20lavanzamento%20anticipato%20dei%20capitani%20e%20dei%20tenenti%20del%20Regio%20esercito.%20034U0127.md). 
  
  «Essi saranno dichiarati idonei all'avanzamento anticipato se nell'esame dei titoli prescritto dal 2° comma dello art. 94 del testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito otterranno un punto non inferiore ai 14/20».
 

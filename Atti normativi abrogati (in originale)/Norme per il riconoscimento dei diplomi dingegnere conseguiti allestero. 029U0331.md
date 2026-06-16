@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 I cittadini italiani, i quali, anteriormente all'entrata in vigore della [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395), abbiano conseguito all'estero il diploma di ingegnere, possono essere iscritti nell'albo professionale degli ingegneri, qualora la Commissione di cui all'articolo seguente, tenuto conto della natura del diploma e dell'attivita' professionale del richiedente, si pronunci favorevolmente. 
  
- La decisione della Commissione costituisce titolo per la iscrizione nell'albo, quando sussistano le altre condizioni richieste dal [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), e dal [R. decreto 27 ottobre 1927, n. 2145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-27;2145), ed attribuisce altresi' il diritto all'uso della qualifica d'ingegnere.
+ La decisione della Commissione costituisce titolo per la iscrizione nell'albo, quando sussistano le altre condizioni richieste dal [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), e dal [R. decreto 27 ottobre 1927, n. 2145](../Regi%20decreti/Norme%20di%20coordinamento%20della%20legge%20e%20del%20regolamento%20sulle%20professioni%20di%20ingegnere%20e%20di%20architetto%20con%20la%20legge%20sui%20rapporti%20collettivi%20del%20lavoro%20per%20cio%20che%20riflette%20la%20tenuta%20dellalbo_527749af84a8.md), ed attribuisce altresi' il diritto all'uso della qualifica d'ingegnere.
 
 ## Art. 2.
 

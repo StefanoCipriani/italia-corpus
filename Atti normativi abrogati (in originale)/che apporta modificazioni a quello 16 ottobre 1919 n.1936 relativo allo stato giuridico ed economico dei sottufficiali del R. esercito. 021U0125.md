@@ -67,7 +67,7 @@ Agli [articoli 2](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%2
  
  Compiuti 35 anni di servizio effettivo, debbono essere collocati a riposo. 
  
- Art. 25. - E abrogato il testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto n. 1329, del 17 novembre 1912](Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md).
+ Art. 25. - E abrogato il testo unico delle leggi sullo stato dei sottufficiali approvato con [R. decreto n. 1329, del 17 novembre 1912](../Regi%20decreti/Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md).
 Il presente decreto-legge sullo stato dei sottufficiali si intende in vigore dal 1° gennaio 1920 e non e' applicabile ai militari dell'arma dei carabinieri Reali, salvo il disposto precedente articolo 17, per quanto si riferisce alla concessione dell'impiego civile.
 
 ## Art. 2.
@@ -78,7 +78,7 @@ L'[articolo 38 del R. decreto-legge del 16 ottobre 1919, n. 1986](Che%20regola%2
 
 Al [R. decreto-legge del 16 ottobre 1919, n. 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), quale fu modificato col [R. decreto-legge del 7 marzo 1920, n. 351](Che%20modifica%20quello%2016%20ottobre%201919%20n.%201986%20sullo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali.%20020U0351.md), sono aggiunti i seguenti articoli: 
  
- Art. 38. - I sottufficiali provenienti dai sergenti gia' vincolati alla ferma di tre anni, che alla data 1° gennaio 1920 si trovano alle armi, e che alla data stessa non avevano ancora compiuto i quattro anni di grado di sergente maggiore stabiliti dal secondo comma dell'art. 15 del testo unico delle leggi sullo stato dei sottufficiali, approvato con [R. decreto 17 novembre 1912 n.1329](Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md) per acquistare titolo al premio di L. 1000, avranno diritto a tanti, quarantottesimi del premio stesso quanti sono i mesi di servizio che abbiano prestato a decorrere dal giorno della loro nomina a sergente maggiore fino alla suddetta data del 1° gennaio 1920. 
+ Art. 38. - I sottufficiali provenienti dai sergenti gia' vincolati alla ferma di tre anni, che alla data 1° gennaio 1920 si trovano alle armi, e che alla data stessa non avevano ancora compiuto i quattro anni di grado di sergente maggiore stabiliti dal secondo comma dell'art. 15 del testo unico delle leggi sullo stato dei sottufficiali, approvato con [R. decreto 17 novembre 1912 n.1329](../Regi%20decreti/Col%20quale%20viene%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20dellesercito.%20012U1329.md) per acquistare titolo al premio di L. 1000, avranno diritto a tanti, quarantottesimi del premio stesso quanti sono i mesi di servizio che abbiano prestato a decorrere dal giorno della loro nomina a sergente maggiore fino alla suddetta data del 1° gennaio 1920. 
  
  Se peraltro avessero ottenuta la promozione a sergente maggiore prima di aver compiuta la ferma di tre anni, i mesi di servizio in base ai quali verranno computati i quarantottesimi del premio di L. 1000, decorreranno dal giorno del compimento della detta ferma. 
  
@@ -94,7 +94,7 @@ Al [R. decreto-legge del 16 ottobre 1919, n. 1986](Che%20regola%20lo%20stato%20g
  
  I medesimi verranno inscritti nel ruolo dei sottufficiali aspiranti ad Impieghi o conseguiranno le nomine, nell'ordine rigoroso della loro anzianita' nel grado militare, di cui erano rivestiti alla data del 31 dicembre 1920. 
  
- Art. 41. - Il titolo all'impiego civile in base all'[art. 11 del R. decreto, n. 1802, del 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), spetta ai sottufficiali dell'arma dei carabinieri Reali qualora si fossero trovati alle armi alla data dell'8 ottobre 1919 in cui entro' in vigore il citato decreto. 
+ Art. 41. - Il titolo all'impiego civile in base all'[art. 11 del R. decreto, n. 1802, del 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), spetta ai sottufficiali dell'arma dei carabinieri Reali qualora si fossero trovati alle armi alla data dell'8 ottobre 1919 in cui entro' in vigore il citato decreto. 
  
  Art. 42. - Fino a tutto il 30 giugno 1921 e' in facolta' del Governo di riammettere in servizio attivo i sottufficiali che abbiano ottenuto durante la guerra 1915-918, una promozione per merito di guerra, quand'anche non si trovino nelle condizioni stabilite per la riammissione in servizio in via normale, purche' abbiano oltrepassato il 46° anno di eta' e, ovo siano ammogliati, abbiano compiuto complessivamente otto anni di servizio alle armi ed abbiano contratto matrimonio anteriormente alla data del presente decreto. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 18 febbraio 1875, n. 2388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-02-18;2388) (Serie 2ª), col quale il Collegio convitto di Assisi per i figliuoli degli insegnanti e' eretto in Ente morale, ed e' dichiarato pubblico Istituto educativo dipendente dal Ministero della Istruzione Pubblica;
+Veduto il [R. decreto 18 febbraio 1875, n. 2388](../Regi%20decreti/Col%20quale%20è%20dichiarato%20ente%20morale%20educativo%20il%20collegio-convitto%20di%20Assisi%20per%20i%20figli%20degli%20insegnanti.%20075U2388.md) (Serie 2ª), col quale il Collegio convitto di Assisi per i figliuoli degli insegnanti e' eretto in Ente morale, ed e' dichiarato pubblico Istituto educativo dipendente dal Ministero della Istruzione Pubblica;
 
 Riconosciuta la necessita' di stabilire, giusta il disposto degli articoli 6 e 7 del citato decreto, con un regolamento organico gli insegnamenti da darsi, le norme per l'Amministrazione ed il ruolo del personale;
 

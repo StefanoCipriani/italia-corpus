@@ -16,7 +16,7 @@ RE D'ITALIA.
 
 IMPERATORE D'ETIOPIA
 
-Visto l'art. 64 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Visto l'art. 64 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Ritenuta l'opportunita', di provvedere al riconoscimento della campagna in favore di coloro che abbiano partecipato alle operazioni militari in Africa Orientale;
 

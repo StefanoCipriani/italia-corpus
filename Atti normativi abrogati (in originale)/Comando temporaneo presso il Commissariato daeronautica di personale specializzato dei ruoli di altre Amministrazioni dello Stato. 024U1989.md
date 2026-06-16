@@ -30,7 +30,7 @@ Su proposta del Presidente del Consiglio dei Ministri, Alto Commissario per l'ae
 
 ## Art. 1.
 
-E' consentito in deroga al [comma 2° dell'art. 101 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101-com2), il comando temporaneo presso il Commissariato d'aeronautica di personale specializzato «aerologisti e metereologisti» dei ruoli di altre Amministrazioni dello Stato di grado anche inferiore al 6°.
+E' consentito in deroga al [comma 2° dell'art. 101 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), il comando temporaneo presso il Commissariato d'aeronautica di personale specializzato «aerologisti e metereologisti» dei ruoli di altre Amministrazioni dello Stato di grado anche inferiore al 6°.
 
 ## Art. 2.
 

@@ -55,7 +55,7 @@ Gli ufficiali nominati durante la guerra in base al [R. decreto 10 giugno 1915, 
 ------------ 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 dicembre 1923, n. 2979](Ufficiali%20delle%20categorie%20in%20congedo%20non%20regnicoli.%20023U2979.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 31 dicembre 1923, n. 2979](../Regi%20decreti/Ufficiali%20delle%20categorie%20in%20congedo%20non%20regnicoli.%20023U2979.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 5.
 

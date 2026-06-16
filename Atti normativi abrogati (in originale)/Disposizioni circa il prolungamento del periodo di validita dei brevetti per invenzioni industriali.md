@@ -23,7 +23,7 @@ La durata dei brevetti per invenzioni industriali in vigore al 10 giugno 1940, a
 ## Art. 2.
 
 Le domande per ottenere il prolungamento di durata di cui al precedente articolo, corredate dei documenti necessari per la dimostrazione della mancata o della parziale utilizzazione del brevetto per cause connesse con lo stato di guerra, debbono essere presentate all'Ufficio centrale dei brevetti per invenzioni, modelli e marchi presso il Ministero dell'industria e del commercio entro il termine perentorio di sessanta giorni dalla data di entrata in vigore della presente legge.
- Sulle domande suddette provvede la Commissione di cui all'[art. 71 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), contenente il testo delle disposizioni legislative sui brevetti per invenzioni industriali.
+ Sulle domande suddette provvede la Commissione di cui all'[art. 71 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), contenente il testo delle disposizioni legislative sui brevetti per invenzioni industriali.
 
 ## Art. 3.
 

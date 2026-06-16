@@ -34,7 +34,7 @@ Il Consiglio d'amministrazione delle ferrovie di Stato e' composto:
 
 Il Consiglio di amministrazione costituito a norma del precedente articolo comincia a funzionare dal 1° marzo 1920 coi membri di cui alle lettere da a) a g) integrandosi coi rappresentanti del personale entro cinque giorni dalla loro proclamazione. 
  
- Dalla stessa data e' abrogato l'[art. 5 della legge 7 luglio 1907, numero 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), cessa il funzionamento del Consiglio d'amministrazione costituito a norma dell'articolo stesso e scadono di carica i relativi componenti. 
+ Dalla stessa data e' abrogato l'[art. 5 della legge 7 luglio 1907, numero 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dal [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), cessa il funzionamento del Consiglio d'amministrazione costituito a norma dell'articolo stesso e scadono di carica i relativi componenti. 
  
  I funzionari chiamati a far parte del Consiglio d'amministrazione ed appartenenti ad Amministrazioni diverse dall'Amministrazione ferroviaria, possono essere collocati fuori ruolo dai rispettivi Ministeri, ma il tempo trascorso nel nuovo ufficio e' computato per gli effetti delle leggi sugli avanzamenti e sulle pensioni. 
  

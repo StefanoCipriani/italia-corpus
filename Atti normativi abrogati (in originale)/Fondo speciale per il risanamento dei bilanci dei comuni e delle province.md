@@ -53,7 +53,7 @@ I comuni e le province devono produrre motivata istanza al comitato, presso il M
 
 ## Art. 5. — Poteri del comitato
 
-Il comitato, avuto riguardo alla disponibilita' annuale del fondo, determina, con particolare considerazione per gli enti cui si applicano i benefici previsti dal [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../DPR/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md), i criteri di massima da seguire per la valutazione delle domande, tenendo anche conto dell'incidenza che il risanamento dei bilanci potra' avere sugli indirizzi di politica economica. 
+Il comitato, avuto riguardo alla disponibilita' annuale del fondo, determina, con particolare considerazione per gli enti cui si applicano i benefici previsti dal [decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md), i criteri di massima da seguire per la valutazione delle domande, tenendo anche conto dell'incidenza che il risanamento dei bilanci potra' avere sugli indirizzi di politica economica. 
  Nell'esame dei piani di risanamento il comitato deve tener conto in via prioritaria dei programmi volti ad eliminare le cause dell'indebitamento, attraverso la graduale riduzione delle spese e le eventuali maggiori entrate che i comuni e le province ritengano di poter realizzare nel periodo considerato. 
  Il comitato, qualora ritenga che il piano di risanamento prodotto debba essere modificato, suggerisce alle amministrazioni interessate, dandone comunicazione anche alle regioni, le variazioni da introdurvi ed assegna un congruo termine per provvedervi. 
  I comuni e le province ove non ritengano di accogliere le variazioni proposte dal comitato possono controdedurre nello stesso termine di cui al precedente comma. 
@@ -70,7 +70,7 @@ Gli enti interessati debbono dare esecuzione al piano in conformita' alle determ
 ## Art. 7. — Erogazione delle somme
 
 L'integrazione del bilancio dei comuni e delle province, deliberata dal comitato, e' disposta con decreto del Ministro per le finanze.
- Per l'erogazione delle somme agli enti interessati il Ministero delle finanze accredita i relativi fondi agli intendenti di finanza territorialmente competenti, anche in deroga ai limiti di cui all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
+ Per l'erogazione delle somme agli enti interessati il Ministero delle finanze accredita i relativi fondi agli intendenti di finanza territorialmente competenti, anche in deroga ai limiti di cui all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
  Qualora gli enti non attuino il piano, il Ministro per le finanze, su proposta del comitato, sospende la erogazione delle somme integrative, promuovendo le azioni per accertare le eventuali responsabilita' degli amministratori.
 
 ## Art. 8. — Comitato di amministrazione del fondo

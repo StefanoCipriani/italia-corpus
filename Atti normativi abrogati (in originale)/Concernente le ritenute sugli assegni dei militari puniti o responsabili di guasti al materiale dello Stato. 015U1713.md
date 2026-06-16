@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Perdono il soprassoldo di guerra stabilito dalle tabelle I e II annesse al [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), per tutta la durata della punizione: 
+Perdono il soprassoldo di guerra stabilito dalle tabelle I e II annesse al [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), per tutta la durata della punizione: 
  
  a) gli ufficiali puniti di arresti in fortezza, anche se da scontare come arresti di rigore; 
  
@@ -46,7 +46,7 @@ I militari di cui all'articolo precedente, in caso di recidiva, perdono l'intero
 
 ## Art. 5.
 
-I sottufficiali, caporali e soldati che si rendano colpevoli di sperpero o di sciupio di oggetti di corredo o di qualsiasi altro materiale dello Stato, quand'anche non si ravvisi in cio' la forma di alienazione o danneggiamento, contemplata dall'[art. 212 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, oltre ad essere sottoposti alle adeguate punizioni disciplinari, perdono l'intero soprassoldo di guerra fino a completo rimborso del danno cagionato allo Stato.
+I sottufficiali, caporali e soldati che si rendano colpevoli di sperpero o di sciupio di oggetti di corredo o di qualsiasi altro materiale dello Stato, quand'anche non si ravvisi in cio' la forma di alienazione o danneggiamento, contemplata dall'[art. 212 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, oltre ad essere sottoposti alle adeguate punizioni disciplinari, perdono l'intero soprassoldo di guerra fino a completo rimborso del danno cagionato allo Stato.
 
 ## Art. 6.
 

@@ -22,7 +22,7 @@ Visto il [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretati
 
 Visto il [R. decreto 2 giugno 1924, n. 981](Applicazione%20del%20R.%20decreto%2023%20dicembre%201923%20n.%202829%20concernente%20lestensione%20al%20personale%20del%20cessato%20regime%20delle%20disposizioni%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20concernente%20lordina_19306c2a75f1.md), concernente l'applicazione del [R. decreto 23 dicembre 1923, n. 2829](Estensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20023U2829.md), al personale della Regia marina proveniente dalla cessata Amministrazione austriaca;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni ed estensioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni ed estensioni;
 
 Visto il [R. decreto-legge 30 ottobre 1924, n. 1842](Sistemazione%20economica%20e%20giuridica%20del%20personale%20proveniente%20dallAmministrazione%20statale%20di%20Fiume.%20024U1842.md), relativo alla sistemazione economico-giuridica del personale proveniente della cessata Amministrazione statale di Fiume;
 
@@ -118,7 +118,7 @@ Gli esami di cui al presente decreto avranno luogo in Roma e gli impiegati che v
 
 ## Art. 9.
 
-Per quanto riguarda la compilazione dei temi da svolgere, la polizia delle aule ed altre modalita' non previste nei precedenti articoli, valgono, in quanto applicabili, le disposizioni di cui agli [articoli 95 e seguenti del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_95). 
+Per quanto riguarda la compilazione dei temi da svolgere, la polizia delle aule ed altre modalita' non previste nei precedenti articoli, valgono, in quanto applicabili, le disposizioni di cui agli [articoli 95 e seguenti del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-A decorrere dalla data di entrata in vigore del presente decreto, sono soppressi i ruoli organici del personale non insegnante del Regio istituto nautico di Cagliari, di cui alla seconda parte della tabella n. 78 dell'allegato 2° e alla tabella n. 37 dell'allegato 4° del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+A decorrere dalla data di entrata in vigore del presente decreto, sono soppressi i ruoli organici del personale non insegnante del Regio istituto nautico di Cagliari, di cui alla seconda parte della tabella n. 78 dell'allegato 2° e alla tabella n. 37 dell'allegato 4° del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ Il personale statale di ruolo di segreteria e subalterno del Regio istituto naut
 
 ## Art. 3.
 
-Fermi restando tutti gli altri obblighi, gravami e norme del [R. decreto 21 ottobre 1923, n. 2539](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), sulla provincia e sul comune di Cagliari per il mantenimento del predetto Istituto, la Provincia stessa e' tenuta, ai sensi dell'art. 3, lettera a), del citato decreto e delle relative disposizioni regolamentari, a provvedere al personale assistente necessario all'Istituto, nonche' al personale di segreteria e subalterno man mano che quello di cui all'art. 2 del presente decreto cessera', per qualunque motivo, dal servizio. 
+Fermi restando tutti gli altri obblighi, gravami e norme del [R. decreto 21 ottobre 1923, n. 2539](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), sulla provincia e sul comune di Cagliari per il mantenimento del predetto Istituto, la Provincia stessa e' tenuta, ai sensi dell'art. 3, lettera a), del citato decreto e delle relative disposizioni regolamentari, a provvedere al personale assistente necessario all'Istituto, nonche' al personale di segreteria e subalterno man mano che quello di cui all'art. 2 del presente decreto cessera', per qualunque motivo, dal servizio. 
  
  La Provincia suddetta e', inoltre, tenuta a provvedere alle eventuali temporanee sostituzioni del personale di cui all'art. 2, quando questo sia, per qualunque motivo, assente.
 

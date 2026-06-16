@@ -56,7 +56,7 @@ E' vietato alle emittenti televisive e radiofoniche, sia locali che nazionali, g
 
 2.
 
-Fermo quanto previsto dall'[articolo 528 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla violazione dei divieti di cui al comma 1 si applicano le disposizioni di cui all'[articolo 7 del decreto legislativo 25 gennaio 1992, n. 74](Attuazione%20della%20direttiva%2084-450-CEE%20in%20materia%20di%20pubblicita%20ingannevole.md).
+Fermo quanto previsto dall'[articolo 528 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla violazione dei divieti di cui al comma 1 si applicano le disposizioni di cui all'[articolo 7 del decreto legislativo 25 gennaio 1992, n. 74](Attuazione%20della%20direttiva%2084-450-CEE%20in%20materia%20di%20pubblicita%20ingannevole.md).
 
 ## Art. 3.
 

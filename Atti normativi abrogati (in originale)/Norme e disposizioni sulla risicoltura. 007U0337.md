@@ -308,7 +308,7 @@ A cura dei proprietari dei fondi coltivati a risaia dove essere data completa at
 
 ### Art. 44.
 
-La presente legge sara' compresa nel [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) previsto dall'[articolo 17 della legge 25 febbraio 1904, n. 57](Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20intorno%20allassistenza%20sanitaria%20alla%20vigilanza%20igienica%20e%20alligiene%20degli%20abitanti%20nei%20Comuni%20del%20Regno%20004U0057.md).
+La presente legge sara' compresa nel [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) previsto dall'[articolo 17 della legge 25 febbraio 1904, n. 57](Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20intorno%20allassistenza%20sanitaria%20alla%20vigilanza%20igienica%20e%20alligiene%20degli%20abitanti%20nei%20Comuni%20del%20Regno%20004U0057.md).
 
 ### Art. 45.
 

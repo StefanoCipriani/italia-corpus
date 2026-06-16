@@ -18,7 +18,7 @@ Visto l'[art. 5 del R. decreto-legge 8 luglio 1925, n. 1172](Disposizioni%20rela
 
 Visto l'art. 38, parte 2ª, del R. decreto 24 dicembre 1926 sulla composizione della Commissione di disciplina per i funzionari appartenenti ai ruoli del soppresso Commissariato generale dell'emigrazione;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -46,7 +46,7 @@ Il Ministro per gli affari esteri puo' disporre, ogni volta che lo ritenga oppor
 
 ## Art. 4.
 
-Per tutto quanto non e' contemplato nel presente decreto, si applicano le disposizioni della parte II del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960).
+Per tutto quanto non e' contemplato nel presente decreto, si applicano le disposizioni della parte II del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 5.
 

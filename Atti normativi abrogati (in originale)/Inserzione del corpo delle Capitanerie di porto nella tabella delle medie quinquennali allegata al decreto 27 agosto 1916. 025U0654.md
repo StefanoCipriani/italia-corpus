@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto l'[art. 21 della legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md);
 
-Visto l'art. 29, lett. a) ed e), del relativo regolamento approvato con [R. decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md);
+Visto l'art. 29, lett. a) ed e), del relativo regolamento approvato con [R. decreto 18 luglio 1912, n. 867](../Regi%20decreti/Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md);
 
 Visto il decreto Luogotenenziale 27 agosto 1916, che stabilisce, per gli ufficiali della Regia Marina, per l'anno 1915, le medie quinquennali per l'applicazione delle disposizioni contenute nell'[art. 21 della legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md);
 
 Visto il [R. decreto-legge 4 febbraio 1923, n. 414](Circa%20computo%20delle%20medie%20quinquennali%20agli%20effetti%20dellart.%2021%20della%20legge%20sullo%20stato%20degli%20ufficiali.%20023U0414.md), che proroga la validita' della tabella annessa al predetto decreto Luogotenenziale 27 agosto 1916 fino al 31 dicembre 1925;
 
-Visto il [R. decreto 10 settembre 1923, n. 2068](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e successive modificazioni;
+Visto il [R. decreto 10 settembre 1923, n. 2068](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 

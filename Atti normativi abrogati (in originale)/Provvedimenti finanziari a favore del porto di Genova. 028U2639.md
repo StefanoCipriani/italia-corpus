@@ -30,7 +30,7 @@ A far tempo dal 1° gennaio 1929, l'interesse dovuto dal Consorzio autonomo del 
 
 ## Art. 2.
 
-La quota annua di L. 16,811,080 dovuta sui proventi delle tasse portuali dal Consorzio autonomo del porto di Genova, a norma dell'[art. 1 del R. decreto 6 gennaio 1927, n. 37](Agevolazioni%20al%20Consorzio%20autonomo%20del%20porto%20di%20Genova%20per%20il%20pagamento%20della%20quota%20annua%20dovuta%20al%20Tesoro%20sul%20provento%20delle%20tasse%20portuali.%20027U0037.md), sara' ridotta, per ciascuno degli otto esercizi finanziari dal 1° luglio 1933 al 30 giugno 1941, alla somma di L. 1,000,000, da pagarsi in una sola rata posticipata per ciascun esercizio. 
+La quota annua di L. 16,811,080 dovuta sui proventi delle tasse portuali dal Consorzio autonomo del porto di Genova, a norma dell'[art. 1 del R. decreto 6 gennaio 1927, n. 37](../Regi%20decreti/Agevolazioni%20al%20Consorzio%20autonomo%20del%20porto%20di%20Genova%20per%20il%20pagamento%20della%20quota%20annua%20dovuta%20al%20Tesoro%20sul%20provento%20delle%20tasse%20portuali.%20027U0037.md), sara' ridotta, per ciascuno degli otto esercizi finanziari dal 1° luglio 1933 al 30 giugno 1941, alla somma di L. 1,000,000, da pagarsi in una sola rata posticipata per ciascun esercizio. 
  
  Per gli esercizi successivi, dal 1941-42 al 1958-59, saranno corrisposte uguali rate annuali posticipate, il cui importo sara' determinato all'inizio di questo periodo, in base all'ammontare residuale del debito riferito al 1° luglio 1941.
 

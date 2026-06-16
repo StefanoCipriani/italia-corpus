@@ -56,7 +56,7 @@ Per la prosecuzione dei lavori di costruzione della strada da Santa Sofia a Stia
 
 ## Art. 3.
 
-Le disposizioni di cui al [R. decreto 1° novembre 1928, n. 2653](Disposizioni%20per%20lapplicazione%20del%20R.%20decreto%2025%20febbraio%201926%20n.%20422%20contenente%20norme%20per%20il%20passaggio%20allAmministrazione%20dei%20lavori%20pubblici%20di%20taluni%20servizi%20di%20competenza%20del%20Genio%20mi_148b9f4bb19b.md), relativamente alla gestione delle opere di competenza del Ministero della guerra, potranno essere applicate anche a quelle di competenza di altre Amministrazioni dello Stato e delle quali fosse riconosciuta l'opportunita' di affidare la gestione tecnico-amministrativa al Ministero dei lavori pubblici
+Le disposizioni di cui al [R. decreto 1° novembre 1928, n. 2653](../Regi%20decreti/Disposizioni%20per%20lapplicazione%20del%20R.%20decreto%2025%20febbraio%201926%20n.%20422%20contenente%20norme%20per%20il%20passaggio%20allAmministrazione%20dei%20lavori%20pubblici%20di%20taluni%20servizi%20di%20competenza%20del%20Genio%20mi_148b9f4bb19b.md), relativamente alla gestione delle opere di competenza del Ministero della guerra, potranno essere applicate anche a quelle di competenza di altre Amministrazioni dello Stato e delle quali fosse riconosciuta l'opportunita' di affidare la gestione tecnico-amministrativa al Ministero dei lavori pubblici
 
 ## Art. 4.
 

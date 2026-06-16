@@ -28,15 +28,15 @@ Le scuole complementari «Gabriele D'Annunzio» e «Emma Brentani» del comune d
 
 Per il periodo dal 1° ottobre 1925 al 30 giugno 1926 le due suddette scuole saranno a totale carico dello Stato. 
  
- A decorrere dal 1° luglio 1926 passeranno a carico del comune di Fiume gli oneri di cui agli [articoli 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_97), [100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_100) e [103 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_103). 
+ A decorrere dal 1° luglio 1926 passeranno a carico del comune di Fiume gli oneri di cui agli [articoli 97](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), [100](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [103 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
- Il comune di Fiume e' esonerato sino al 30 settembre 1930 dal contributo finanziario verso lo Stato di cui ai [Regi decreti 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md) e [7 giugno 1923, n. 1408](Contributi%20finanziari%20delle%20Provincie%20dei%20Comuni%20e%20di%20altri%20enti%20per%20il%20mantenimento%20dei%20licei%20scientifici%20dei%20licei%20femminili%20e%20delle%20scuole%20complementari.%20023U1408.md).
+ Il comune di Fiume e' esonerato sino al 30 settembre 1930 dal contributo finanziario verso lo Stato di cui ai [Regi decreti 11 marzo 1923, n. 685](../Regi%20decreti/Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md) e [7 giugno 1923, n. 1408](../Regi%20decreti/Contributi%20finanziari%20delle%20Provincie%20dei%20Comuni%20e%20di%20altri%20enti%20per%20il%20mantenimento%20dei%20licei%20scientifici%20dei%20licei%20femminili%20e%20delle%20scuole%20complementari.%20023U1408.md).
 
 ## Art. 3.
 
 Saranno assunti al servizio dello Stato, previa favorevole ispezione, ed anche se non siano provvisti dei titoli di studio prescritti, i presidi ed i professori delle due scuole di cui all'art. 1, che siano stati nominati nelle stesse con regolare deliberazione dell'autorita' competente e vi abbiano prestato almeno due anni di servizio di ruolo. 
  
- I presidi saranno assunti col grado di presidi di 2ª categoria e i professori col grado di ordinari del ruolo B di Regie scuole complementari e saranno collocati rispettivamente nei gradi stabiliti dal [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), tenuto conto, per il primo collocamento da farsi a norma degli articoli 94 e 97 dello stesso decreto e successive modificazioni, della anzianita' utile per la carriera acquisita da ognuno d'essi in base agli ordinamenti del comune di Fiume. 
+ I presidi saranno assunti col grado di presidi di 2ª categoria e i professori col grado di ordinari del ruolo B di Regie scuole complementari e saranno collocati rispettivamente nei gradi stabiliti dal [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), tenuto conto, per il primo collocamento da farsi a norma degli articoli 94 e 97 dello stesso decreto e successive modificazioni, della anzianita' utile per la carriera acquisita da ognuno d'essi in base agli ordinamenti del comune di Fiume. 
  
  Se l'ammontare complessivo degli emolumenti, calcolati al lordo, spettanti ai presidi e ai professori per effetto dell'applicazione del precedente comma, risultera' inferiore alla somma degli emolumenti, parimenti calcolati al lordo, da essi percepiti alla dipendenza del comune di Fiume al 30 settembre 1925, la differenza sara' conservata a titolo di assegno personale, non utile per la pensione, da assorbirsi nei successivi aumenti periodici.
 
@@ -46,11 +46,11 @@ Con decreto del Ministro per la pubblica istruzione di concerto con quello per l
 
 ## Art. 5.
 
-I professori assunti al servizio dello Stato per effetto dell'art. 3 sono assegnati, di regola, in base ai loro titoli di studio e alle discipline da essi finora professate, a cattedre formate secondo le indicazioni contenute nella tabella n. 7 del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+I professori assunti al servizio dello Stato per effetto dell'art. 3 sono assegnati, di regola, in base ai loro titoli di studio e alle discipline da essi finora professate, a cattedre formate secondo le indicazioni contenute nella tabella n. 7 del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 6.
 
-Quando non sia possibile l'assegnazione nel modo previsto dal precedente articolo, i singoli insegnamenti aggruppati in cattedre uniche dalla tabella n. 7 del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054) potranno essere costituiti in cattedre distinte, ai soli fini dell'assunzione dei professori contemplati dal presente decreto e sino a tanto che essi ne resteranno titolari.
+Quando non sia possibile l'assegnazione nel modo previsto dal precedente articolo, i singoli insegnamenti aggruppati in cattedre uniche dalla tabella n. 7 del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) potranno essere costituiti in cattedre distinte, ai soli fini dell'assunzione dei professori contemplati dal presente decreto e sino a tanto che essi ne resteranno titolari.
 
 ## Art. 7.
 

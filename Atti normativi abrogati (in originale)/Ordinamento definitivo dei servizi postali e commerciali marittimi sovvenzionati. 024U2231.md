@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1923, n. 3173](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), che autorizza il Commissario per i servizi della marina mercantile a determinare l'ordinamento definitivo dei servizi postali e commerciali marittimi sovvenzionati e ad affidare l'esercizio dei servizi medesimi all'industria privata anche a licitazione o trattativa privata;
+Visto il [R. decreto 31 dicembre 1923, n. 3173](../Regi%20decreti/Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), che autorizza il Commissario per i servizi della marina mercantile a determinare l'ordinamento definitivo dei servizi postali e commerciali marittimi sovvenzionati e ad affidare l'esercizio dei servizi medesimi all'industria privata anche a licitazione o trattativa privata;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3223](Concessione%20dei%20servizi%20di%20navigazione%20fra%20le%20isole%20ed%20il%20continente.%20023U3223.md), che autorizza il Ministro per i lavori pubblici a determinare l'ordinamento definitivo dei servizi postali marittimi fra le Isole e il continente:
+Visto il [R. decreto 31 dicembre 1923, n. 3223](../Regi%20decreti/Concessione%20dei%20servizi%20di%20navigazione%20fra%20le%20isole%20ed%20il%20continente.%20023U3223.md), che autorizza il Ministro per i lavori pubblici a determinare l'ordinamento definitivo dei servizi postali marittimi fra le Isole e il continente:
 
 Civitavecchia-Terranova; Terranova-Golfo Aranci-Maddalena;
 
@@ -78,7 +78,7 @@ Nel caso che venisse a mancare agli assuntori per qualsiasi causa il diritto all
 
 ## Art. 7.
 
-Sulle obbligazioni emesse a tenore degli articoli 2 e seguenti, gli istituti di emissione potranno fare le anticipazioni previste dall'art. 29, n. 2, del testo unico di legge sugli istituti di emissione e sulla circolazione dei biglietti di banca pubblicato con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204).
+Sulle obbligazioni emesse a tenore degli articoli 2 e seguenti, gli istituti di emissione potranno fare le anticipazioni previste dall'art. 29, n. 2, del testo unico di legge sugli istituti di emissione e sulla circolazione dei biglietti di banca pubblicato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
 
 ## Art. 8.
 

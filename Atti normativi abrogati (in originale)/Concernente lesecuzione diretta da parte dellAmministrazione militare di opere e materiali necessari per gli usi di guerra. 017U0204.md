@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Quando i proprietari degli stabilimenti dell'industria privata contemplati negli [articoli 2](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md) e [7 del R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), non facciano eseguire le opere che, a norma dell'art. 2 del citato decreto, siano state loro imposte dal Governo per aumentare la potenzialita' degli stabilimenti stessi, o non fabbrichino il materiale loro commesso, a norma della prima parte dell'art. 7 del decreto medesimo, il Ministero della guerra ha, con insindacabile apprezzamento, il diritto di far eseguire, e anche di assumere, a mezzo di speciali incaricati l'esercizio diretto di tutti o di parte degli stabilimenti sopra indicati, allo scopo di ottenere che siano soddisfatte le esigenze del Governo.
+Quando i proprietari degli stabilimenti dell'industria privata contemplati negli [articoli 2](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md) e [7 del R. decreto 26 giugno 1915, n. 993](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md), non facciano eseguire le opere che, a norma dell'art. 2 del citato decreto, siano state loro imposte dal Governo per aumentare la potenzialita' degli stabilimenti stessi, o non fabbrichino il materiale loro commesso, a norma della prima parte dell'art. 7 del decreto medesimo, il Ministero della guerra ha, con insindacabile apprezzamento, il diritto di far eseguire, e anche di assumere, a mezzo di speciali incaricati l'esercizio diretto di tutti o di parte degli stabilimenti sopra indicati, allo scopo di ottenere che siano soddisfatte le esigenze del Governo.
 
 ## Art. 2.
 
@@ -18,7 +18,7 @@ Le spese incontrate dall'Amministrazione militate per le nuove opere di cui all'
  
  La stessa disposizione vale per le risultanze passive del conto della gestione che eventualmente l'Amministrazione militare fosse obbligata a sostenere, sempre in relazione alle esigenze, di cui nell'articolo precedente. 
  
- Tutte le controversie, in dipendenza sia della valutazione delle spese sia dell'esercizio diretto, restano domandate al Collegio arbitrale previsto nell'[art. 10 del R. decreto 26 giugno 1915, n. 993](Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
+ Tutte le controversie, in dipendenza sia della valutazione delle spese sia dell'esercizio diretto, restano domandate al Collegio arbitrale previsto nell'[art. 10 del R. decreto 26 giugno 1915, n. 993](../Regi%20decreti/Portante%20provvedimenti%20intesi%20ad%20assicurare%20il%20rifornimento%20dei%20materiali%20necessari%20allesercito%20ed%20allarmata%20durante%20lo%20stato%20di%20guerra.%20015U0993.md).
 
 ## Art. 3.
 

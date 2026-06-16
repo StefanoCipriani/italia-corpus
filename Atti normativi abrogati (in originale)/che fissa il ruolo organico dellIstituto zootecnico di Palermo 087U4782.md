@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Regio decreto 11 gennaio 1884, numero 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-01-11;1959) (Serie 3ª);
+Visto il [Regio decreto 11 gennaio 1884, numero 1959](../Regi%20decreti/Sulla%20fondazione%20di%20un%20Istituto%20di%20zootecnia%20in%20Sicilia.%20084U1959.md) (Serie 3ª);
 
 Vista la [legge 6 giugno 1885, n. 3141](Concernente%20le%20scuole%20pratiche%20e%20speciali%20dagricoltura.%20085U3141.md) (Serie 3ª);
 

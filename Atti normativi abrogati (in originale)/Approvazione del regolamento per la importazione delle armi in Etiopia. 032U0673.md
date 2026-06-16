@@ -58,7 +58,7 @@ Il permesso di esportazione e' redatto in quattro esemplari. I primi due esempla
 
 ### Art. 5.
 
-Le armi, le munizioni ed il materiale bellico che rientrano nelle categorie I, II, IV e V di origine e provenienza italiana, quando siano reimportati nel Regno per conto degli esportatori autorizzati a norma dei precedenti articoli, non saranno sottoposti ad altre formalita' oltre quelle stabilite, per le merci similari di ritorno dalle colonie italiane, dal [R. decreto 15 maggio 1898, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-15;168), che stabilisce le norme per la reimportazione in franchigia delle merci di produzione italiana, nonche' dalla legge di pubblica sicurezza.
+Le armi, le munizioni ed il materiale bellico che rientrano nelle categorie I, II, IV e V di origine e provenienza italiana, quando siano reimportati nel Regno per conto degli esportatori autorizzati a norma dei precedenti articoli, non saranno sottoposti ad altre formalita' oltre quelle stabilite, per le merci similari di ritorno dalle colonie italiane, dal [R. decreto 15 maggio 1898, n. 168](../Regi%20decreti/Concernente%20il%20ritiro%20di%20suor%20Orsola%20Benincasa%20di%20Napoli.%209800168R.md), che stabilisce le norme per la reimportazione in franchigia delle merci di produzione italiana, nonche' dalla legge di pubblica sicurezza.
 
 ## Transito.
 

@@ -220,7 +220,7 @@ La lettera. e) dell'art. 62 e' modificata come segue:
 
 Dopo il secondo comma dell'art. 66 aggiungere: 
  
- «Il pagamento dei buoni relativi agli autoveicoli iscritti nel P.R.A. e' subordinato all'osservanza delle disposizioni dell'[art. 31 del R. decreto 29 luglio 1927, n. 1814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1814#art_31)».
+ «Il pagamento dei buoni relativi agli autoveicoli iscritti nel P.R.A. e' subordinato all'osservanza delle disposizioni dell'[art. 31 del R. decreto 29 luglio 1927, n. 1814](../Regi%20decreti/Disposizioni%20di%20attuazione%20e%20transitorie%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20concernente%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20_9ce09a15aff5.md)».
 
 ## Art. 23.
 
@@ -314,13 +314,13 @@ L'art. 118 e' modificato come segue:
  
  Gli stessi compiti spettano alla direzione generale del Reale Automobile Club d'Italia per quanto concerne le attribuzioni affidale agli uffici del pubblico registro automobilistico dal testo unico e dal presente regolamento. 
  
- Nei riguardi dei detti funzionari ed agenti a carico dei quali venissero accertate inesattezze, irregolarita' od omissioni nel disimpegno delle funzioni loro attribuite, i prefetti, i capi delle amministrazioni comunali, la direzione generale del Reale Automobile Club d'Italia, secondo la rispettiva competenza, provocheranno i provvedimenti disciplinari del caso ed applicheranno le sanzioni eventualmente di loro competenza, senza pregiudizio delle penalita' contemplate dall'[art. 178 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)».
+ Nei riguardi dei detti funzionari ed agenti a carico dei quali venissero accertate inesattezze, irregolarita' od omissioni nel disimpegno delle funzioni loro attribuite, i prefetti, i capi delle amministrazioni comunali, la direzione generale del Reale Automobile Club d'Italia, secondo la rispettiva competenza, provocheranno i provvedimenti disciplinari del caso ed applicheranno le sanzioni eventualmente di loro competenza, senza pregiudizio delle penalita' contemplate dall'[art. 178 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)».
 
 ## Art. 37.
 
 Il 1° comma dell'art. 119 e' modificato come segue: 
  
- «Quando per le inadempienze alle disposizioni del testo unico e del presente regolamento vengano accertate delle responsabilita' a carico dei capi delle amministrazioni comunali o di coloro che ne fanno le veci e dei capi del servizio del pubblico registro automobilistico, sempre che siano legalmente rivestiti della qualita' di pubblico ufficiale, essi sono passibili di denunzia all'autorita' giudiziaria agli effetti dell'[art. 178 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)»
+ «Quando per le inadempienze alle disposizioni del testo unico e del presente regolamento vengano accertate delle responsabilita' a carico dei capi delle amministrazioni comunali o di coloro che ne fanno le veci e dei capi del servizio del pubblico registro automobilistico, sempre che siano legalmente rivestiti della qualita' di pubblico ufficiale, essi sono passibili di denunzia all'autorita' giudiziaria agli effetti dell'[art. 178 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)»
 
 ## Art. 38.
 

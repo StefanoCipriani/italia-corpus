@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1917-918, lo stanziamento del capitolo n. 27: «Interessi dell'1,50 per cento al netto sopra anticipazioni ordinarie degli Istituti di emissione a sensi dell'art. 25 del testo unico di legge approvato con [R. decreto 28 aprile 1910, numero 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204), ecc.» e' aumentato della somma di lire cinquemilioniquattrocentomila (L. 5,400,000). 
+ Nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1917-918, lo stanziamento del capitolo n. 27: «Interessi dell'1,50 per cento al netto sopra anticipazioni ordinarie degli Istituti di emissione a sensi dell'art. 25 del testo unico di legge approvato con [R. decreto 28 aprile 1910, numero 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), ecc.» e' aumentato della somma di lire cinquemilioniquattrocentomila (L. 5,400,000). 
  
  Questo decreto sara' convertito in legge mediante apposito articolo da inserirsi nel disegno di legge per l'approvazione del rendiconto generale consuntivo per l'esercizio finanziario 1917-918 ed andra' in vigore nel giorno stesso della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

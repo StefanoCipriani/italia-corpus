@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 6 settembre 1934, n. 1434](Istituzione%20alla%20diretta%20dipendenza%20del%20Capo%20del%20Governo%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1434.md), concernente la istituzione del Sottosegretariato di Stato per la stampa e la propaganda, composto di tre Direzioni generali: per la Stampa italiana, per la Stampa estera e per la Propaganda;
+Visto il [R. decreto 6 settembre 1934, n. 1434](../Regi%20decreti/Istituzione%20alla%20diretta%20dipendenza%20del%20Capo%20del%20Governo%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1434.md), concernente la istituzione del Sottosegretariato di Stato per la stampa e la propaganda, composto di tre Direzioni generali: per la Stampa italiana, per la Stampa estera e per la Propaganda;
 
-Visto il [R. decreto 18 settembre 1934, n. 1565](Aumento%20del%20numero%20delle%20Direzioni%20generali%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1565.md), concernente la istituzione della Direzione generale per la cinematografia;
+Visto il [R. decreto 18 settembre 1934, n. 1565](../Regi%20decreti/Aumento%20del%20numero%20delle%20Direzioni%20generali%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1565.md), concernente la istituzione della Direzione generale per la cinematografia;
 
 Visto il [R. decreto-legge 21 novembre 1934, n. 1851](Trasferimento%20delle%20attribuzioni%20del%20Commissariato%20per%20il%20turismo%20al%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1851.md), relativo al trasferimento delle attribuzioni del Commissariato per il turismo al Sottosegretariato per la stampa e la propaganda ed alla conseguente istituzione della Direzione generale per il turismo;
 

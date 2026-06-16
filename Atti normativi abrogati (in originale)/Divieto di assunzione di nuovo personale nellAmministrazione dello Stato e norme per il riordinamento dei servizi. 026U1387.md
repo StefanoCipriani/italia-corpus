@@ -34,7 +34,7 @@ Per il periodo di un triennio, a decorrere dal 20 agosto 1926, e' fatto divieto 
 
 Il divieto di cui al precedente articolo non si applica: 
  
- a) alle nomine da conferirsi nei modi stabiliti dall'[articolo 19 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_19), ne' a quelle dipendenti da concorsi gia' banditi alla data di pubblicazione del presente decreto; 
+ a) alle nomine da conferirsi nei modi stabiliti dall'[articolo 19 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), ne' a quelle dipendenti da concorsi gia' banditi alla data di pubblicazione del presente decreto; 
  
  b) al conferimento di posti di ruolo riservati, giusta le disposizioni in vigore, ai sottufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza; 
  

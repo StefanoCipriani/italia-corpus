@@ -16,7 +16,7 @@ RE D'ITALIA
 
 In virtu' della delegazione di poteri conferita al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Visti gli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_27) e [29 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_29) che reca nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visti gli [articoli 27](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [29 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) che reca nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il [decreto Luogotenenziale 28 novembre 1915, numero 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-28;1672), convertito nella [legge 28 giugno 1917, n. 1065](Che%20converte%20in%20legge%20decreti%20emanati%20durante%20la%20proroga%20dei%20lavori%20parlamentari%20dal%2021%20maggio%20al%2030%20novembre%201915%20relativi%20ai%20danneggiati%20dai%20terremoti%20nonche%20a%20provvedimenti%20economici%20e_f601a48c6694.md), concernente provvedimenti per evitare le eccedenze di impegni in confronto dei fondi autorizzati;
 

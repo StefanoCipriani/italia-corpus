@@ -31,7 +31,7 @@ Il termine previsto dall'[articolo 2, comma 1, del decreto-legge 7 gennaio 2000,
 
 2.
 
-Al personale di cui al comma 1 l'indennita' di missione prevista dal [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), e' corrisposta nella misura del 90% per tutta la durata del periodo. Detta indennita' e' corrisposta dal 1o luglio al 31 dicembre 2000 in lire, sulla base dei cambi registrati nel periodo 1o dicembre 1999-1o maggio 2000.
+Al personale di cui al comma 1 l'indennita' di missione prevista dal [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), e' corrisposta nella misura del 90% per tutta la durata del periodo. Detta indennita' e' corrisposta dal 1o luglio al 31 dicembre 2000 in lire, sulla base dei cambi registrati nel periodo 1o dicembre 1999-1o maggio 2000.
 
 3.
 

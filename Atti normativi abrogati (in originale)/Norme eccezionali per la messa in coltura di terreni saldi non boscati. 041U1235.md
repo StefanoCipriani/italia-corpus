@@ -52,7 +52,7 @@ Non saranno prese in considerazione le domande per la trasformazione a coltura a
 
 ## Art. 3.
 
-Le disposizioni di cui ai precedenti articoli, cesseranno di avere vigore a partire dall'anno agrario successivo alla cessazione dello stato di guerra, dopo di che torneranno in vigore le norme contenute nell'[art. 21 del R. decreto 16 maggio 1926, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126#art_21). 
+Le disposizioni di cui ai precedenti articoli, cesseranno di avere vigore a partire dall'anno agrario successivo alla cessazione dello stato di guerra, dopo di che torneranno in vigore le norme contenute nell'[art. 21 del R. decreto 16 maggio 1926, n. 1126](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20dei%20R.%20decreto%2030%20dicembre%201923%20n.%203267%20concernente%20il%20riordinamento%20e%20la%20riforma%20della%20legislazione%20in%20materia%20di%20boschi%20e%20di%20terreni%20montani.%20026U1126.md). 
  
  Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

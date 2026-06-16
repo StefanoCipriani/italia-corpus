@@ -16,7 +16,7 @@ RE D'ITALIA.
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo delle disposizioni riguardanti le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visto il testo delle disposizioni riguardanti le dichiarazioni dei redditi e le sanzioni in materia di imposte dirette approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Ritenuta la necessita' e l'urgenza del provvedimento;
 
@@ -40,7 +40,7 @@ Le societa', istituti ed enti emittenti sono tenuti a fornire al competente Uffi
 
 ## Art. 4.
 
-Senza pregiudizio dell'applicazione delle penali sancite dal testo approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), ove consti che le societa', istituti od enti emittenti abbiano omesso di eseguire la ritenuta dell'imposta speciale a carico dei portatori di titoli non intestati, sara' applicata a loro carico per tale trasgressione una sopratassa pari al cinquanta per cento dell'ammontare di imposta non trattenuta. 
+Senza pregiudizio dell'applicazione delle penali sancite dal testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), ove consti che le societa', istituti od enti emittenti abbiano omesso di eseguire la ritenuta dell'imposta speciale a carico dei portatori di titoli non intestati, sara' applicata a loro carico per tale trasgressione una sopratassa pari al cinquanta per cento dell'ammontare di imposta non trattenuta. 
  
  La sopratassa di cui al precedente comma sara' altresi' applicata ogni qualvolta l'Ufficio delle imposte, in difetto della prova della nominativita' dei titoli prescritta dall'ultima parte dell'articolo precedente, proceda all'accertamento dell'imposta sui frutti dei titoli al portatore.
 
@@ -54,7 +54,7 @@ Entro il 31 gennaio di ciascun anno le societa', istituti ed enti emittenti sono
 
 ## Art. 7.
 
-Salva l'applicazione delle penali sancite dal testo approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), per i ritardi nel versamento sul conto corrente postale e' applicata, in favore dell'Erario, una indennita' di mora nella misura del 10 o del 5 per cento a seconda che tale ritardo superi ovvero non superi i quindici giorni.
+Salva l'applicazione delle penali sancite dal testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per i ritardi nel versamento sul conto corrente postale e' applicata, in favore dell'Erario, una indennita' di mora nella misura del 10 o del 5 per cento a seconda che tale ritardo superi ovvero non superi i quindici giorni.
 
 ## Art. 8.
 

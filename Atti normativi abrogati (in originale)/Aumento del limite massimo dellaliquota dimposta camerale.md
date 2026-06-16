@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-A decorrere dall'entrata in vigore della presente legge, la misura massima dell'aliquota d'imposta stabilita dal [regio decreto 31 ottobre 1941, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-31;1418), per ciascuna delle Camere di commercio, industria ed agricoltura, e' aumentata di lire 1.
+A decorrere dall'entrata in vigore della presente legge, la misura massima dell'aliquota d'imposta stabilita dal [regio decreto 31 ottobre 1941, n. 1418](../Regi%20decreti/Determinazione%20della%20misura%20dellimposta%20dovuta%20ai%20Consigli%20provinciali%20delle%20Corporazioni.%20041U1418.md), per ciascuna delle Camere di commercio, industria ed agricoltura, e' aumentata di lire 1.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

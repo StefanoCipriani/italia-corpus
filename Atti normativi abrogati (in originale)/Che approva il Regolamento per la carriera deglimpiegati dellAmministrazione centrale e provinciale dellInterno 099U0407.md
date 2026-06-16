@@ -472,7 +472,7 @@ Le pene disciplinari che possono applicarsi agl'impiegati dell'Amministrazione c
 
 Le pene disciplinari superiori alla sospensione dalle funzioni per un mese, o per termine minore con perdita di anzianita', non possono applicarsi ai capi di divisione, consiglieri delegati ed ispettori generali, senza il previo parere della Commissione di cui all'articolo 29, ed agl'impiegati di grado inferiore senza il previo parere della Commissione di cui all'articolo 39. 
  
- Uguale procedimento deve osservarsi per l'applicazione dei provvedimenti contemplati negli articoli 11, 12 e 13 del Regolamento approvato con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), per la esecuzione del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+ Uguale procedimento deve osservarsi per l'applicazione dei provvedimenti contemplati negli articoli 11, 12 e 13 del Regolamento approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), per la esecuzione del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Le Commissioni non possono deliberare, se non decorso il termine assegnato all'impiegato per presentare in iscritto le sue deduzioni. 
  
@@ -592,7 +592,7 @@ S'incorre nella revocazione dall'impiego, indipendentemente da ogni azione penal
 
 ### Art. 64.
 
-La destituzione e' pronunziata per decreto Reale ed importa la perdita del grado e dell'impiego e la decadenza da qualsiasi funzione ad esso inerente o da esso dipendente, nonche' la perdita di qualsiasi diritto a pensione o indennita', quando cio' sia espressamente stabilito nel relativo decreto, fermo il disposto degli articoli 183 e 187 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70).
+La destituzione e' pronunziata per decreto Reale ed importa la perdita del grado e dell'impiego e la decadenza da qualsiasi funzione ad esso inerente o da esso dipendente, nonche' la perdita di qualsiasi diritto a pensione o indennita', quando cio' sia espressamente stabilito nel relativo decreto, fermo il disposto degli articoli 183 e 187 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ### Art. 65.
 

@@ -32,7 +32,7 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno e
 
 ## Art. 1.
 
-Il primo comma dell'art. 39 del regolamento per la riscossione delle imposte di consumo approvato col [Regio decreto 30 aprile 1936, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-04-30;1138), e' sostituito dal seguente: 
+Il primo comma dell'art. 39 del regolamento per la riscossione delle imposte di consumo approvato col [Regio decreto 30 aprile 1936, n. 1138](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20delle%20imposte%20di%20consumo.%20036U1138.md), e' sostituito dal seguente: 
  
  «L'esenzione stabilita dall'art. 29, n. 5, del testo unico, modificato dall'[art. 1, lettera a) , del R. decreto-legge 25 febbraio 1939, n. 338](Modificazioni%20in%20materia%20di%20finanza%20locale.%20039U0338.md), e' ammessa per i materiali adoperati dalle Amministrazioni dello Stato e dalla Croce Rossa nelle costruzioni, rifacimenti e riparazioni di edifici eseguiti a totale spesa delle stesse, anche se i lavori siano effettuati in appalto».
 

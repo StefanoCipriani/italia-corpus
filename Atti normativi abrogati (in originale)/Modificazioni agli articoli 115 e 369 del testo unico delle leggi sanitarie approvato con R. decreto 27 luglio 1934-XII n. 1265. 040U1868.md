@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-Dopo il [primo comma dell'art. 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115-com1) 27 luglio 1934-XII, n. 1265, e' aggiunto il seguente: 
+Dopo il [primo comma dell'art. 115 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934-XII, n. 1265, e' aggiunto il seguente: 
  
  «La predetta indennita' puo' essere concessa anche ai titolari di farmacie rurali non di nuova istituzione, che abbiano un reddito medio imponibile, accertato agli effetti dell'applicazione dell'imposta di ricchezza mobile nell'ultimo triennio, non superiore a lire ottomila».
 
 ## Art. 2.
 
-Dopo il [secondo comma dell'art. 369 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_369-com2) 27 luglio 1934-XII, n. 1265, sono aggiunti i seguenti: 
+Dopo il [secondo comma dell'art. 369 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934-XII, n. 1265, sono aggiunti i seguenti: 
  
  «Qualora il titolare non abbia fatto uso della facolta' di trasferire per atto tra vivi l'esercizio della farmacia a norma del primo comma, gli eredi possono, entro due anni dalla morte del titolare, effettuarne, una volta tanto, il trapasso a favore di farmacista iscritto nell'albo professionale. 
  

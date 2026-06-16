@@ -20,7 +20,7 @@ i territori annessi in virtu' delle [leggi 26 settembre 1920, n. 1322, e 19 dice
 
 Il distintivo dei sindaci consiste in una fascia tricolore di seta, fregiata dello stemma dello Stato, da portarsi cinta intorno ai fianchi. 
  
- La fascia deve essere foggiata nel modo indicato nell'allegato 6 del regolamento per l'esecuzione della Legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297). 
+ La fascia deve essere foggiata nel modo indicato nell'allegato 6 del regolamento per l'esecuzione della Legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md). 
  
  Il presente decreto entra in vigore col giorno della sua pubblicazione. 
  

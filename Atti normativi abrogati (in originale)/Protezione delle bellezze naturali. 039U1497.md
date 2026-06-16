@@ -132,7 +132,7 @@ Nell'ambito e in prossimita' dei luoghi e delle cose contemplati dall'art. 1 del
 
 ## Art. 15.
 
-Indipendentemente dalle sanzioni comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chi non ottempera agli obblighi e agli ordini di cui alla presente legge e' tenuto, secondo che il Ministro dell'educazione nazionale ritenga piu' opportuno, nell'interesse della protezione delle bellezze naturali e panoramiche, alla demolizione a proprie spese delle opere abusivamente eseguite o al pagamento d'una indennita' equivalente alla maggiore somma tra il danno arrecato e il profitto conseguito mediante la commessa trasgressione. 
+Indipendentemente dalle sanzioni comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chi non ottempera agli obblighi e agli ordini di cui alla presente legge e' tenuto, secondo che il Ministro dell'educazione nazionale ritenga piu' opportuno, nell'interesse della protezione delle bellezze naturali e panoramiche, alla demolizione a proprie spese delle opere abusivamente eseguite o al pagamento d'una indennita' equivalente alla maggiore somma tra il danno arrecato e il profitto conseguito mediante la commessa trasgressione. 
  
  Se il trasgressore non provvede alla demolizione entro il termine prefissogli ha facolta' a provvedere d'ufficio il Ministero dell'educazione nazionale per meno del prefetto. La nota delle spese e' resa esecutoria con provvedimento del Ministro ed e' riscossa secondo le norme della vigente legge sulla riscossione delle entrate patrimoniali dello Stato. 
  

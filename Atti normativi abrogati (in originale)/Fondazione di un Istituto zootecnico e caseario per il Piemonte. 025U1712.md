@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il decreto Ministeriale 20 gennaio 1918, col quale fu creato l'Istituto zootecnico per il Piemonte, con sede in Torino;
 
-Visto il [R. decreto 10 luglio 1924, n. 1233](Trasformazione%20del%20Regio%20istituto%20zootecnico%20per%20il%20Piemonte%20in%20Torino%20in%20Ente%20morale%20consorziale%20autonomo.%20024U1233.md), col quale il predetto Istituto fu trasformato in Ente morale consorziale autonomo;
+Visto il [R. decreto 10 luglio 1924, n. 1233](../Regi%20decreti/Trasformazione%20del%20Regio%20istituto%20zootecnico%20per%20il%20Piemonte%20in%20Torino%20in%20Ente%20morale%20consorziale%20autonomo.%20024U1233.md), col quale il predetto Istituto fu trasformato in Ente morale consorziale autonomo;
 
 Visto il decreto del Commissario generale degli approvvigionamenti e consumi, in data 23 giugno 1921, col quale fu creato un Istituto pratico di zootecnia e di caseificio in Cuneo;
 
@@ -68,7 +68,7 @@ Il personale dell'Istituto e' costituito di tre direttori (uno per ciascuna sezi
  
  Alla nomina del personale salariato provvedono i singoli direttori per le rispettive sezioni, col consenso del Consiglio di amministrazione. 
  
- Il direttore del soppresso Istituto zootecnico per il Piemonte e' nominato direttore dell'Istituto zootecnico caseario per il Piemonte, per la sezione di Torino. A norma dell'[art. 13 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), egli conserva la sua qualita' di funzionario di ruolo dell'Amministrazione governativa. 
+ Il direttore del soppresso Istituto zootecnico per il Piemonte e' nominato direttore dell'Istituto zootecnico caseario per il Piemonte, per la sezione di Torino. A norma dell'[art. 13 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), egli conserva la sua qualita' di funzionario di ruolo dell'Amministrazione governativa. 
  
  Il direttore del soppresso Istituto pratico di zootecnia e di caseificio di Cuneo e' nominato direttore dell'Istituto zootecnico e caseario del Piemonte, per la sezione di Cuneo, con uno stipendio non inferiore a quello attualmente goduto.
 

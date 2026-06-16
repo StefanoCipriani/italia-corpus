@@ -397,7 +397,7 @@ I sottoindicati articoli del regolamento del personale delle Ferrovie dello Stat
  
  Art. 108. - E' aggiunto il seguente comma: 
  
- «Tutti i provvedimenti disciplinari inferiori alla degradazione, sui quali sia stato deciso in sede di ricorso gerarchico non sono suscettibili di alcun gravame ne' ordinario ne' straordinario, ne' in via amministrativa, ne' in via giurisdizionale, in conformita' al disposto dell'[art. 57 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con il [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)». 
+ «Tutti i provvedimenti disciplinari inferiori alla degradazione, sui quali sia stato deciso in sede di ricorso gerarchico non sono suscettibili di alcun gravame ne' ordinario ne' straordinario, ne' in via amministrativa, ne' in via giurisdizionale, in conformita' al disposto dell'[art. 57 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con il [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)». 
  
  Art. 110. - L'articolo 110 e' sostituito dal seguente: 
  

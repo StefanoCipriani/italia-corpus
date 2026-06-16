@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Dal 1° gennaio 1908 il ruolo organico del R. istituto femminile di San Benedetto in Montagnana, approvato con [R. decreto 21 gennaio 1897, n. 83](Che%20sostituisce%20con%20altro%20il%20ruolo%20organico%20del%20personale%20del%20R.%20Istituto%20femminile%20di%20Montagnana%20Padova.%20097U0083.md), e' modificato in conformita' della tabella qui unita; e negli stipendi del personale direttivo ed insegnante ed educativo s'intende accumulato anche il corrispettivo in danaro degli utili della vita interna nella misura indicata nella tabella medesima. 
+Dal 1° gennaio 1908 il ruolo organico del R. istituto femminile di San Benedetto in Montagnana, approvato con [R. decreto 21 gennaio 1897, n. 83](../Regi%20decreti/Che%20sostituisce%20con%20altro%20il%20ruolo%20organico%20del%20personale%20del%20R.%20Istituto%20femminile%20di%20Montagnana%20Padova.%20097U0083.md), e' modificato in conformita' della tabella qui unita; e negli stipendi del personale direttivo ed insegnante ed educativo s'intende accumulato anche il corrispettivo in danaro degli utili della vita interna nella misura indicata nella tabella medesima. 
  
  Gli aumenti di stipendio portati dalla presente legge avranno effetto per meta' dal 1° luglio 1908 e per intero dal 1° luglio 1909.
 

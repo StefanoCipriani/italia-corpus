@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi sull'istruzione elementare, approvato con [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Visto il testo unico delle leggi sull'istruzione elementare, approvato con [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Visto il regolamento generale sui servizi dell'istruzione elementare, approvato con [regio decreto 26 aprile 1928, n. 1207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1207);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Minis
 
 ## Articolo unico.
 
-Il Ministro per la pubblica istruzione ha facolta' di trattenere in servizio per gli anni scolastici 1945-46 e 1946-47 i maestri elementari che abbiano raggiunto i limiti di eta' e di servizio previsti dall'art. 134 del testo unico delle leggi sull'istruzione elementare, approvato con [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), ma che non abbiano superato il 70° anno di eta' al 30 settembre 1946 e che siano ancora in grado di prestare opera proficua.
+Il Ministro per la pubblica istruzione ha facolta' di trattenere in servizio per gli anni scolastici 1945-46 e 1946-47 i maestri elementari che abbiano raggiunto i limiti di eta' e di servizio previsti dall'art. 134 del testo unico delle leggi sull'istruzione elementare, approvato con [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), ma che non abbiano superato il 70° anno di eta' al 30 settembre 1946 e che siano ancora in grado di prestare opera proficua.
 
  Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

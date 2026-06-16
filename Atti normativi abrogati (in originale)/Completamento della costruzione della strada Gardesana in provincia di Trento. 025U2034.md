@@ -26,7 +26,7 @@ E' autorizzato il completamento, a cura dello Stato, della costruzione della str
 
 La spesa prevista di L. 6,500,000 sara' anticipata dallo Stato, salvo il ricupero del contributo del 20 per cento che viene posto a carico della provincia di Trento. 
  
- A tale spesa si fara' fronte mediante prelevamento dal fondo di riserva della categoria I di cui al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md). 
+ A tale spesa si fara' fronte mediante prelevamento dal fondo di riserva della categoria I di cui al [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md). 
  
  La suindicata somma verra' portata in aumento della assegnazione di L. 30,100,000 attribuite col citato decreto al gruppo «Opere stradali dell'Italia settentrionale» specie «strade da classificare nella Venezia Giulia e Tridentina». 
  

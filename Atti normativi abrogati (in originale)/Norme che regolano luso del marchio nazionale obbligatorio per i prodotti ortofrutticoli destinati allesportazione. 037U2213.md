@@ -74,7 +74,7 @@ E vietato il trasporto e l'uscita dal territorio dello Stato delle merci per le 
 
 Chiunque usa il marchio nazionale su prodotti, o per i casi per quali non sia disciplinata l'applicazione, e' punito con la reclusione fino ad un anno e con la multa fino a lire duemila. 
  
- Chiunque contraffa' o altera il marchio nazionale o fa uso del marchio-contraffatto o alterato da altri e' punito con la pena determinata dall'[art. 473 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Chiunque contraffa' o altera il marchio nazionale o fa uso del marchio-contraffatto o alterato da altri e' punito con la pena determinata dall'[art. 473 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 12.
 

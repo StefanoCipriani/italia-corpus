@@ -34,7 +34,7 @@ Le norme per l'esecuzione del presente decreto saranno stabilite con decreto Rea
 
 ## Art. 5.
 
-L'applicazione delle pene, di cui al testo unico di leggi sugli spiriti, approvato con Nostro decreto 16 settembre 1909, n. 704, alla fabbricazione e alla raffinazione clandestina degli spiriti suindicati, come pure alla circolazione ed al deposito illegale di essi, sia greggi, sia raffinati, tanto puri quanto adulterati, da soli o impiegati nella preparazione delle bevande, non esclude l'applicabilita' delle altre sanzioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi sanitarie.
+L'applicazione delle pene, di cui al testo unico di leggi sugli spiriti, approvato con Nostro decreto 16 settembre 1909, n. 704, alla fabbricazione e alla raffinazione clandestina degli spiriti suindicati, come pure alla circolazione ed al deposito illegale di essi, sia greggi, sia raffinati, tanto puri quanto adulterati, da soli o impiegati nella preparazione delle bevande, non esclude l'applicabilita' delle altre sanzioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi sanitarie.
 
 ## Art. 6.
 

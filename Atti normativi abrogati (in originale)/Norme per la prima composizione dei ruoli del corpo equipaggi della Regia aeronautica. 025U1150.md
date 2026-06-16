@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
+Visto il [R. decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md);
 
-Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md);
+Visto il [R. decreto 28 marzo 1923, n. 645](../Regi%20decreti/Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md);
 
 Visto il decreto Commissariale 22 agosto 1924, che costituisce il corpo ufficiali degli equipaggi della Regia aeronautica;
 

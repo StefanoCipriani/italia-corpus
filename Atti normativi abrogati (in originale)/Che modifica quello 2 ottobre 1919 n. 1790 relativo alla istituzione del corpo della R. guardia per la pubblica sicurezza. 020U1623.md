@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Alla tabelle dei quadri e della forza della R. guardie per la pubblica sicurezza, allegate [R. decreto 2 ottobre 1919, n. 1790](Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), sono sostituite le tabelle annesse al presente decreto, di cui fanno parte integrante.
+Alla tabelle dei quadri e della forza della R. guardie per la pubblica sicurezza, allegate [R. decreto 2 ottobre 1919, n. 1790](../Regi%20decreti/Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), sono sostituite le tabelle annesse al presente decreto, di cui fanno parte integrante.
 
 ## Art. 2.
 
@@ -67,7 +67,7 @@ Gli ufficiali che cessano di far parte della R guardia per inidoneita' allo spec
 
 ## Art. 6.
 
-Per il completamento dell'organico degli ufficiali portato dall'annessa tabella, il Ministero provvedera', in parte colle norme di cui all'art. 14. del [R. decreto 2 ottobre 1919, n. 1790](Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), fatta eccezione per i limiti d'eta' di ammissione degli ufficiali medici, veterinari e di amministrazione che e' aumentato di cinque anni, e in parte, con promozioni dai gradi inferiori fra gli ufficiali che abbiano la seguente permanenza minima di grado, computata anche quella passata in altre armi e corpi: 
+Per il completamento dell'organico degli ufficiali portato dall'annessa tabella, il Ministero provvedera', in parte colle norme di cui all'art. 14. del [R. decreto 2 ottobre 1919, n. 1790](../Regi%20decreti/Che%20sopprime%20lattuale%20corpo%20delle%20guardie%20di%20citta%20ed%20in%20sua%20vece%20istituisce%20il%20corpo%20della%20R.%20guardia%20per%20la%20pubblica%20sicurezza.%20019U1790.md), fatta eccezione per i limiti d'eta' di ammissione degli ufficiali medici, veterinari e di amministrazione che e' aumentato di cinque anni, e in parte, con promozioni dai gradi inferiori fra gli ufficiali che abbiano la seguente permanenza minima di grado, computata anche quella passata in altre armi e corpi: 
  
  tenenti, capitani, 3 anni; 
  

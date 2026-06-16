@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA,
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto in data del 30 dicembre 1871, n. 619](Che%20approva%20la%20Pianta%20del%20personale%20ed%20i%20Distretti%20territoriali%20del%20Corpo%20Reale%20delle%20Miniere.%20071U0619.md), serie 2ª che determina la circoscrizione e la sede dei distretti territoriali assegnati ai Regi uffici minerari del Regno; 
+ Visto il [R. decreto in data del 30 dicembre 1871, n. 619](../Regi%20decreti/Che%20approva%20la%20Pianta%20del%20personale%20ed%20i%20Distretti%20territoriali%20del%20Corpo%20Reale%20delle%20Miniere.%20071U0619.md), serie 2ª che determina la circoscrizione e la sede dei distretti territoriali assegnati ai Regi uffici minerari del Regno; 
  
  Sulla proposta del ministro di agricoltura; 
  

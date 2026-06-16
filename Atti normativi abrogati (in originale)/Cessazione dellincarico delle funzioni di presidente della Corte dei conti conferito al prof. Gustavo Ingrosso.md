@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 7 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), con le successive modificazioni;
+Visto l'art. 7 del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), con le successive modificazioni;
 
 Visto il [decreto legislativo luogotenenziale 14 settembre 1944, n. 228](../Decreti%20legislativi%20luogotenenziali/Conferimento%20dellincarico%20delle%20funzioni%20di%20presidente%20della%20Corte%20dei%20conti.%20044U0228.md);
 

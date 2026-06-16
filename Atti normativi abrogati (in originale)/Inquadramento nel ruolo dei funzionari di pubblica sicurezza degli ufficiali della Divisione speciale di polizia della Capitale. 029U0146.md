@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo
 
 Visto il [R. decreto-legge 18 ottobre 1925, n. 1846](Istituzione%20di%20un%20corpo%20speciale%20di%20polizia%20per%20la%20capitale.%20025U1846.md);
 
-Visto il [R. decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), e successive modificazioni apportate con [R. decreto 16 gennaio 1927, n. 48](Aumento%20dei%20posti%20di%20questore%20ed%20ispettore%20generale%20e%20di%20vice%20questore.%20027U0048.md);
+Visto il [R. decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), e successive modificazioni apportate con [R. decreto 16 gennaio 1927, n. 48](../Regi%20decreti/Aumento%20dei%20posti%20di%20questore%20ed%20ispettore%20generale%20e%20di%20vice%20questore.%20027U0048.md);
 
 Visto il [R. decreto-legge 11 dicembre 1927, n. 2380](Scioglimento%20del%20Corpo%20degli%20ufficiali%20degli%20agenti%20di%20P.%20S.%20e%20conseguenti%20provvedimenti.%20027U2380.md);
 
@@ -26,7 +26,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita' assoluta ed urgente di provvedere;
 
-Sentito il Consiglio di Stato, a termini dell'art. 14, n. 1. del testo unico approvato con [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054);
+Sentito il Consiglio di Stato, a termini dell'art. 14, n. 1. del testo unico approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -66,7 +66,7 @@ I funzionari di cui all'articolo precedente devono essere provvisti della divisa
 
 ## Art. 6.
 
-Il quarto comma dell'articolo unico del [R. decreto 8 marzo 1928, n. 489](Sostituzione%20dellart.%2046%20del%20regolamento%2017%20gennaio%201926%20n.%20596%20per%20il%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20028U0489.md), riguardante la composizione della Commissione di avanzamento degli agenti di P. S. della Capitale e' abrogato.
+Il quarto comma dell'articolo unico del [R. decreto 8 marzo 1928, n. 489](../Regi%20decreti/Sostituzione%20dellart.%2046%20del%20regolamento%2017%20gennaio%201926%20n.%20596%20per%20il%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20028U0489.md), riguardante la composizione della Commissione di avanzamento degli agenti di P. S. della Capitale e' abrogato.
 
 ## Art. 7.
 

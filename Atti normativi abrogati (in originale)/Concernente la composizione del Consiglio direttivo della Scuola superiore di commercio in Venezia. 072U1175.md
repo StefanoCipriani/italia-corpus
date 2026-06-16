@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio; Abbiam
 
 ## Art. 1.
 
-Il Consiglio direttivo della Scuola superiore di commercio in Venezia, di cui all'articolo 4 dello statuto organico approvato col [Regio Decreto 6 agosto 1868, numero 4530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-08-06;4530), si compone nel modo seguente: 
+Il Consiglio direttivo della Scuola superiore di commercio in Venezia, di cui all'articolo 4 dello statuto organico approvato col [Regio Decreto 6 agosto 1868, numero 4530](../Regi%20decreti/Che%20approva%20lo%20statuto%20per%20la%20fondazione%20in%20Venezia%20dun%20Istituto%20che%20assumera%20il%20titolo%20di%20Regia%20Scuola%20superiore%20di%20commercio.%20068U4530.md), si compone nel modo seguente: 
  
  Due membri nominati dal Ministero d'Agricoltura, Industria e Commercio; 
  
@@ -74,11 +74,11 @@ Coloro che avranno conseguito diploma d'idoneita' all'insegnamento negli Istitut
 
 ## Art. 8.
 
-Il sussidio assegnato coll'[articolo 2 del Regio Decreto 6 agosto 1868, n. 4530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-08-06;4530#art_2), e' fissato in annue lire 25,000, da prelevarsi, nel corrente anno, sui fondi approvati al capitolo 22 (Scuole ed Istituti superiori) e, per gli anni successivi, su quelli che allo stesso fine verranno stanziati sui rispettivi bilanci.
+Il sussidio assegnato coll'[articolo 2 del Regio Decreto 6 agosto 1868, n. 4530](../Regi%20decreti/Che%20approva%20lo%20statuto%20per%20la%20fondazione%20in%20Venezia%20dun%20Istituto%20che%20assumera%20il%20titolo%20di%20Regia%20Scuola%20superiore%20di%20commercio.%20068U4530.md), e' fissato in annue lire 25,000, da prelevarsi, nel corrente anno, sui fondi approvati al capitolo 22 (Scuole ed Istituti superiori) e, per gli anni successivi, su quelli che allo stesso fine verranno stanziati sui rispettivi bilanci.
 
 ## Art. 9.
 
-Lo statuto approvato con [Regio Decreto 6 agosto 1868, n. 4530](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1868-08-06;4530), il Regolamento approvato con [Regio Decreto 15 maggio 1870, n. 5671](Che%20approva%20il%20Regolamento%20della%20Regia%20Scuola%20superiore%20di%20commercio%20in%20Venezia.%20070U5671.md), e i programmi degli studi approvati dal Governo continueranno ad essere osservati in quanto non vi deroga il presente Decreto. 
+Lo statuto approvato con [Regio Decreto 6 agosto 1868, n. 4530](../Regi%20decreti/Che%20approva%20lo%20statuto%20per%20la%20fondazione%20in%20Venezia%20dun%20Istituto%20che%20assumera%20il%20titolo%20di%20Regia%20Scuola%20superiore%20di%20commercio.%20068U4530.md), il Regolamento approvato con [Regio Decreto 15 maggio 1870, n. 5671](Che%20approva%20il%20Regolamento%20della%20Regia%20Scuola%20superiore%20di%20commercio%20in%20Venezia.%20070U5671.md), e i programmi degli studi approvati dal Governo continueranno ad essere osservati in quanto non vi deroga il presente Decreto. 
  
  Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

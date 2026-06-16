@@ -42,7 +42,7 @@ L'art. 4 delle norme per il reclutamento e l'avanzamento degli ufficiali del cor
  
  7° Servizi di carattere militare affidati agli ufficiali delle Capitanerie di porto; 
  
- 8° [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo - Regolamento di disciplina militare pei corpi della Regia marina; 
+ 8° [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo - Regolamento di disciplina militare pei corpi della Regia marina; 
  
  9° Corsi pratici di lingua francese e inglese; 
  

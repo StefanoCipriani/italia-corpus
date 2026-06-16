@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione. 
+ Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione. 
  
  Visto il decreto del ministro degli affari esteri in data 22 dicembre 1916, registrato alla Corte dei conti il 28 detto mese ed anno che ha esteso al personale del Commissariato dell'emigrazione il godimento della indennita' temporanea di cui al Nostro decreto del 29 ottobre 1916, n. 1499; 
  

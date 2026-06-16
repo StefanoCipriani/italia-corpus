@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 22 aprile 1923, n. 993](Che%20provvede%20per%20il%20finanziamento%20provvisorio%20dei%20servizi%20scolastici%20nelle%20nuove%20Provincie.%20023U0993.md);
+Visto il [R. decreto 22 aprile 1923, n. 993](../Regi%20decreti/Che%20provvede%20per%20il%20finanziamento%20provvisorio%20dei%20servizi%20scolastici%20nelle%20nuove%20Provincie.%20023U0993.md);
 
-Visto il [R. decreto 20 dicembre 1923, n. 3113](Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md);
+Visto il [R. decreto 20 dicembre 1923, n. 3113](../Regi%20decreti/Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md);
 
 Considerato che con il 1° gennaio 1924 e' entrato in vigore nei territori annessi l'ordinamento tributario del Regno;
 
@@ -40,13 +40,13 @@ La quota di concorso dell'Erario dello Stato ai Comuni di cui all'art. 1, che co
 
 ## Art. 3.
 
-Il pagamento degli stipendi e degli altri emolumenti dovuti ai maestri in attivita' di servizio e delle pensioni da corrispondersi ai maestri e alle loro vedove ed orfani sara' effettuato non oltre il 30 giugno 1924, dai commissari liquidatori, di cui all'[art. 5 del R. decreto 20 dicembre 1923 n. 3113](Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md). 
+Il pagamento degli stipendi e degli altri emolumenti dovuti ai maestri in attivita' di servizio e delle pensioni da corrispondersi ai maestri e alle loro vedove ed orfani sara' effettuato non oltre il 30 giugno 1924, dai commissari liquidatori, di cui all'[art. 5 del R. decreto 20 dicembre 1923 n. 3113](../Regi%20decreti/Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md). 
  
  Lo Stato corrispondera' ai commissari suddetti le somme necessarie per il pagamento degli stipendi ed assegni dovuti ai maestri elementari, salvo il rimborso dei contributi di cui all'art. 1 da parte dei Comuni, le cui scuole saranno amministrate dai provveditori agli studi, e delle somme eccedenti il contributo dello Stato da parte dei Comuni, che conserveranno l'amministrazione delle scuole.
 
 ## Art. 4.
 
-La spesa per il pagamento degli emolumenti degli impiegati in servizio presso gli uffici di stralcio, di cui all'[art. 5 del R. decreto 20 dicembre 1923 n. 3113](Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md), nonche' le spese di gestione degli uffici medesimi, cosi' per il servizio degli stipendi come per il servizio delle pensioni, saranno ripartite dal commissario liquidatore in aliquote proporzionali al numero degli abitanti fra i Comuni, che facevano parte della medesima circoscrizione scolastica.
+La spesa per il pagamento degli emolumenti degli impiegati in servizio presso gli uffici di stralcio, di cui all'[art. 5 del R. decreto 20 dicembre 1923 n. 3113](../Regi%20decreti/Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20023U3113.md), nonche' le spese di gestione degli uffici medesimi, cosi' per il servizio degli stipendi come per il servizio delle pensioni, saranno ripartite dal commissario liquidatore in aliquote proporzionali al numero degli abitanti fra i Comuni, che facevano parte della medesima circoscrizione scolastica.
 
 ## Art. 5.
 
@@ -58,7 +58,7 @@ Fino al 30 giugno 1924 lo Stato corrispondera', per il pagamento delle pensioni 
 
 ## Art. 7.
 
-Per un triennio a far tempo dal 1° gennaio 1924 il Ministro per la pubblica istruzione avra' facolta' di sospendere, nei Comuni dei territori annessi, di cui al presente decreto, l'applicazione del [R. decreto 31 ottobre 1923 numero 2410](Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md), nelle parti riguardanti la costituzione e la gestione delle scuole provvisorie e delle scuole sussidiate.
+Per un triennio a far tempo dal 1° gennaio 1924 il Ministro per la pubblica istruzione avra' facolta' di sospendere, nei Comuni dei territori annessi, di cui al presente decreto, l'applicazione del [R. decreto 31 ottobre 1923 numero 2410](../Regi%20decreti/Classificazione%20delle%20scuole%20elementari%20e%20trasformazione%20delle%20scuole%20stesse%20di%20scarso%20rendimento.%20023U2410.md), nelle parti riguardanti la costituzione e la gestione delle scuole provvisorie e delle scuole sussidiate.
 
 ## Art. 8.
 

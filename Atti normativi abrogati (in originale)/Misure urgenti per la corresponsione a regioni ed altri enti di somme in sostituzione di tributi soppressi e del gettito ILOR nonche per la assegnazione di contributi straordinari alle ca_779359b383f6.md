@@ -43,7 +43,7 @@ Per l'anno 1987 le somme sostitutive di tributi erariali soppressi gia' attribui
 
 2.
 
-Le somme sostitutive di tributi erariali soppressi gia' attribuiti in quota variabile alle province autonome di Trento e di Bolzano vengono determinate, per l'anno 1987, in conformita' a quanto disposto dall'articolo 78 del testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md).
+Le somme sostitutive di tributi erariali soppressi gia' attribuiti in quota variabile alle province autonome di Trento e di Bolzano vengono determinate, per l'anno 1987, in conformita' a quanto disposto dall'articolo 78 del testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md).
 
 3.
 

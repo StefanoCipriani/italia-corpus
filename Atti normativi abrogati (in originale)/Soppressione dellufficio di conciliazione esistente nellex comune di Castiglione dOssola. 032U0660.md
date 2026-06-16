@@ -14,7 +14,7 @@ VITTORIO EMANUELE III
  PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
  RE D'ITALIA 
  
- Visto il [R. decreto 20 luglio 1928, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-07-20;1860), col quale il comune di Castiglione d'Ossola e' stato aggregato al comune di Calasca, che ha assunto la denominazione «Calasca Castiglione»; 
+ Visto il [R. decreto 20 luglio 1928, n. 1860](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Castiglione%20dOssola%20a%20quello%20di%20Calasca%20che%20assume%20la%20denominazione%20di%20Calasca-Castiglione.%20028U1860.md), col quale il comune di Castiglione d'Ossola e' stato aggregato al comune di Calasca, che ha assunto la denominazione «Calasca Castiglione»; 
  Vista la deliberazione del podesta' del comune di Calasca Castiglione, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Castiglione d'Ossola; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728 

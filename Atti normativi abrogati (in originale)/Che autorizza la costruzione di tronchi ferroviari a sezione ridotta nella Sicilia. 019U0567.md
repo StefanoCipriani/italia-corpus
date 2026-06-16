@@ -30,7 +30,7 @@ E' autorizzata la costruzione, a cura diretta dello Stato da eseguirsi con le mo
 
 ## Art. 2.
 
-Ai lavori di costruzione di cui all'articolo precedente, sono applicabili le disposizioni contenute nell'[art. 78 del R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), in quanto non siano derogate dal presente decreto.
+Ai lavori di costruzione di cui all'articolo precedente, sono applicabili le disposizioni contenute nell'[art. 78 del R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), in quanto non siano derogate dal presente decreto.
 
 ## Art. 3.
 

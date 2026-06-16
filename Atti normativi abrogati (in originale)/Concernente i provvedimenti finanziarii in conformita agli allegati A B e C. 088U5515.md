@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 10 febbraio 1888, n. 5189](Che%20varia%20i%20dazi%20per%20le%20voci%20della%20tariffa%20generale%20per%20le%20dogane%20approvata%20con%20la%20legge%2014%20luglio%201887%20n.%204703%20Serie%203ª.%20088U5189.md) (Serie 3ª), che si riproduce nell'allegato A, per l'aumento di alcuni dazi inscritti nella tariffa generale per le dogane, approvata con [legge 14 luglio 1887, n. 4703](Che%20riforma%20la%20tariffa%20doganale.%20087U4703.md), (Serie 3ª).
+E' convertito in legge il [R. decreto 10 febbraio 1888, n. 5189](../Regi%20decreti/Che%20varia%20i%20dazi%20per%20le%20voci%20della%20tariffa%20generale%20per%20le%20dogane%20approvata%20con%20la%20legge%2014%20luglio%201887%20n.%204703%20Serie%203ª.%20088U5189.md) (Serie 3ª), che si riproduce nell'allegato A, per l'aumento di alcuni dazi inscritti nella tariffa generale per le dogane, approvata con [legge 14 luglio 1887, n. 4703](Che%20riforma%20la%20tariffa%20doganale.%20087U4703.md), (Serie 3ª).
 
 ## Art. 2.
 

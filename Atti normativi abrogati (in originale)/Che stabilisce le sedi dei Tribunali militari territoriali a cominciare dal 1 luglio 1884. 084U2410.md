@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
+Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito;
 
 Vista la [legge 25 giugno 1871, n. 298](Portante%20alcune%20modificazioni%20agli%20articoli%20294%20295%20313%20e%20314%20del%20Codice%20penale%20per%20lEsercito.%20071U0298.md);
 
@@ -70,7 +70,7 @@ Col 1° luglio 1884 la sede d'ogni Tribunale militare territoriale e' stabilita 
 
 ## Art. 2.
 
-I Tribunali militari da eleggersi in conformita' della tabella annessa all'[art. 312 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito siederanno in; 
+I Tribunali militari da eleggersi in conformita' della tabella annessa all'[art. 312 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito siederanno in; 
  
  Torino, per il I corpo d'armata (Divisioni di Torino 1ª, Novara 2ª). 
  

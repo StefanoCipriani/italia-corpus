@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto il regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
 Visto il [decreto del Presidente della Repubblica 8 maggio 1948, n. 734](../DPR/Approvazione%20della%20tabella%20dei%20bolli%20per%20il%20servizio%20metrico.md), che approva la tabella delle impronte dei bolli per il servizio metrico;
 

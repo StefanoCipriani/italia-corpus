@@ -26,17 +26,17 @@ Sui ricorsi del personale dell'Amministrazione delle poste e dei telegrafi in ma
  
  Sui ricorsi contro le note di qualifica assegnate o rivedute dal direttore generale, o da autorita' superiore al direttore generale, decide il Ministro per le comunicazioni, sentito il Consiglio di amministrazione. 
  
- Le modificazioni alle qualifiche di cui al [primo comma dell'art. 80 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_80-com1), sono di competenza del direttore generale. 
+ Le modificazioni alle qualifiche di cui al [primo comma dell'art. 80 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sono di competenza del direttore generale. 
  
  Per il provvedimento di cui al secondo comma dell'articolo stesso, basta il parere del Consiglio centrale di disciplina.
 
 ## Art. 3.
 
-Tutte le volte che un impiegato od agente proposto per la dispensa dal servizio chiegga di essere sentito personalmente dal Consiglio di amministrazione, ai sensi dell'[art. 52 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_52), il presidente delega all'uopo un consigliere, assistito da un funzionario addetto alla segreteria, con incarico di riferirne al Consiglio stesso.
+Tutte le volte che un impiegato od agente proposto per la dispensa dal servizio chiegga di essere sentito personalmente dal Consiglio di amministrazione, ai sensi dell'[art. 52 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), il presidente delega all'uopo un consigliere, assistito da un funzionario addetto alla segreteria, con incarico di riferirne al Consiglio stesso.
 
 ## Art. 4.
 
-E' soppresso il Consiglio di amministrazione per il personale subalterno postale telegrafico telefonico, costituito secondo le disposizioni dell'[art. 112 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_112), e dell'[art. 1 del R. decreto-legge numero 1357 del 19 luglio 1924](Costituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20Commissione%20di%20disciplina%20presso%20lAmministrazione%20postale%20telegrafica%20telefonica.%20024U1357.md). 
+E' soppresso il Consiglio di amministrazione per il personale subalterno postale telegrafico telefonico, costituito secondo le disposizioni dell'[art. 112 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e dell'[art. 1 del R. decreto-legge numero 1357 del 19 luglio 1924](Costituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20Commissione%20di%20disciplina%20presso%20lAmministrazione%20postale%20telegrafica%20telefonica.%20024U1357.md). 
  
  Le attribuzioni del Consiglio medesimo sono demandate sul Consiglio di amministrazione delle poste e dei telegrafi, salvo per quanto non sia diversamente disposto dagli articoli 1 e 2 del presente decreto.
 
@@ -46,7 +46,7 @@ Le attribuzioni della Commissione di disciplina nell'Amministrazione delle poste
 
 ## Art. 6.
 
-Il Consiglio centrale di disciplina e' costituito ai sensi dell'[art. 68 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_68) e dell'[art. 1 del R. decreto-legge n. 1357 del 19 luglio 1924](Costituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20Commissione%20di%20disciplina%20presso%20lAmministrazione%20postale%20telegrafica%20telefonica.%20024U1357.md), e conserva tutte le attribuzioni e la procedura assegnate alla Commissione di disciplina dal citato R. decreto n. 2960, meno quelle demandate dal presente decreto al Consiglio provinciale di disciplina.
+Il Consiglio centrale di disciplina e' costituito ai sensi dell'[art. 68 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e dell'[art. 1 del R. decreto-legge n. 1357 del 19 luglio 1924](Costituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20Commissione%20di%20disciplina%20presso%20lAmministrazione%20postale%20telegrafica%20telefonica.%20024U1357.md), e conserva tutte le attribuzioni e la procedura assegnate alla Commissione di disciplina dal citato R. decreto n. 2960, meno quelle demandate dal presente decreto al Consiglio provinciale di disciplina.
 
 ## Art. 7.
 
@@ -78,7 +78,7 @@ Le ammende pecuniarie stabilite dal [R. decreto-legge numero 922 del 23 maggio 1
 
 ## Art. 10.
 
-La punizione della censura al personale addetto agli uffici principali delle poste e dei telegrafi, e' inflitta col procedimento di cui all'[art. 60 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_60), dal direttore dell'ufficio a cui e' addetto l'impiegato, se il direttore stesso e' un funzionario del gruppo A; altrimenti e' inflitta dal direttore del primo reparto della direzione provinciale. 
+La punizione della censura al personale addetto agli uffici principali delle poste e dei telegrafi, e' inflitta col procedimento di cui all'[art. 60 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), dal direttore dell'ufficio a cui e' addetto l'impiegato, se il direttore stesso e' un funzionario del gruppo A; altrimenti e' inflitta dal direttore del primo reparto della direzione provinciale. 
  
  Per il personale addetto ai circoli di costruzione e di manutenzione e' inflitta dal direttore delle costruzioni; per quello addetto alle Direzioni provinciali, dal direttore del reparto a cui l'impiegato appartiene. 
  
@@ -92,25 +92,25 @@ La punizione della censura al personale addetto agli uffici principali delle pos
 
 ## Art. 11.
 
-La punizione della riduzione dello stipendio al personale addetto agli organi periferici della Amministrazione delle poste o dei telegrafi indicati alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-23;520#art_13-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-23;520#art_13-letb) e [c) dell'articolo 13 del decreto-legge n. 520 del 23 aprile 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-23;520#art_13-letc), e' inflitta dal direttore provinciale previo parere del Consiglio provinciale di disciplina e col procedimento di cui all'[art. 60 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_60). 
+La punizione della riduzione dello stipendio al personale addetto agli organi periferici della Amministrazione delle poste o dei telegrafi indicati alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-23;520#art_13-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-23;520#art_13-letb) e [c) dell'articolo 13 del decreto-legge n. 520 del 23 aprile 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-23;520#art_13-letc), e' inflitta dal direttore provinciale previo parere del Consiglio provinciale di disciplina e col procedimento di cui all'[art. 60 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Contro il provvedimento del direttore provinciale che infligge la riduzione dello stipendio e' ammesso il ricorso per via gerarchica, al Ministro, il quale provvede definitivamente.
 
 ## Art. 12.
 
-La punizione della sospensione dal grado con privazione dello stipendio al personale contemplato dal precedente articolo e' inflitta con decreto Ministeriale su motivata proposta del Consiglio provinciale di disciplina, eccettuato il caso di cui al [secondo comma dell'art. 63 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_63-com2).
+La punizione della sospensione dal grado con privazione dello stipendio al personale contemplato dal precedente articolo e' inflitta con decreto Ministeriale su motivata proposta del Consiglio provinciale di disciplina, eccettuato il caso di cui al [secondo comma dell'art. 63 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 13.
 
-La consultazione degli atti relativi ai procedimenti disciplinari ai sensi dell'[art. 72 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_72), e' consentita soltanto nei casi di deferimento al Consiglio centrale di disciplina con proposta di revocazione e di destituzione.
+La consultazione degli atti relativi ai procedimenti disciplinari ai sensi dell'[art. 72 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' consentita soltanto nei casi di deferimento al Consiglio centrale di disciplina con proposta di revocazione e di destituzione.
 
 ## Art. 14.
 
-Le norme di cui agli articoli 9, 10, 11, 12 e 13 del presente decreto sono applicabili anche al personale subalterno, restando di conseguenza abrogate quelle contenute nel [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_116-com2), [terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_116-com3) e [quarto comma dell'art. 116 del R. decreto numero 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_116-com4).
+Le norme di cui agli articoli 9, 10, 11, 12 e 13 del presente decreto sono applicabili anche al personale subalterno, restando di conseguenza abrogate quelle contenute nel [secondo](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [terzo](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [quarto comma dell'art. 116 del R. decreto numero 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 15.
 
-Rimangono invariate le norme di cui al terz'ultimo ed all'ultimo comma dell'[art. 56 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_56), e tutte le altre del decreto stesso che non contrastino con quelle del presente. 
+Rimangono invariate le norme di cui al terz'ultimo ed all'ultimo comma dell'[art. 56 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e tutte le altre del decreto stesso che non contrastino con quelle del presente. 
  
  Le norme procedurali e le facolta' stabilite per la Commissione di disciplina dal citato R. decreto n. 2960, valgono per i Consigli provinciali di disciplina in quanto non sia diversamente disposto dal presente. 
  

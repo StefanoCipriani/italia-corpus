@@ -38,7 +38,7 @@ A partire dal 1° gennaio 1903 sara' provveduto al trattamento di riposo del per
  
  Il Ministero di Agricoltura concorrera' nella spesa relativa con una somma che sara' inscritta nel capitolo 2 del bilancio per l'esercizio 1902-903. 
  
- La inscrizione alla Cassa suddetta avverra', in surrogazione del trattamento di riposo stabilito dal testo unico delle leggi sulle pensioni approvato col [R. decreto in data 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), per tutti gli uscieri di nuova nomina a partire dal 1° gennaio 1903; e sara' mantenuta per il personale degli attuali inservienti straordinari, anche quando esso entrasse a far parte del ruolo. 
+ La inscrizione alla Cassa suddetta avverra', in surrogazione del trattamento di riposo stabilito dal testo unico delle leggi sulle pensioni approvato col [R. decreto in data 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), per tutti gli uscieri di nuova nomina a partire dal 1° gennaio 1903; e sara' mantenuta per il personale degli attuali inservienti straordinari, anche quando esso entrasse a far parte del ruolo. 
  
  Gli attuali inservienti straordinari del Ministero d'Agricoltura saranno divisi in due classi, da L. 1200 la prima e L. 1140 la seconda. 
  

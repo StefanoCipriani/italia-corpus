@@ -23,7 +23,7 @@ Il Ministro della marina mercantile e' autorizzato ad affidare a imprese o conso
 
 ## Art. 2.
 
-Le cose che saranno recuperate nel corso delle operazioni e dei lavori disposti ai sensi dell'articolo 1, nel caso in cui non ne venga deliberata la distruzione, saranno acquisite allo Stato e il Ministero della marina mercantile provvedera' alla loro custodia e all'eventuale vendita secondo le norme stabilite dagli articoli 456 e 458 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Le cose che saranno recuperate nel corso delle operazioni e dei lavori disposti ai sensi dell'articolo 1, nel caso in cui non ne venga deliberata la distruzione, saranno acquisite allo Stato e il Ministero della marina mercantile provvedera' alla loro custodia e all'eventuale vendita secondo le norme stabilite dagli articoli 456 e 458 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  Le somme eventualmente ricavate saranno versate all'entrata del bilancio dello Stato con imputazione al capo 23, capitolo 3650, riguardante "Entrate eventuali e diverse concernenti il Ministero della marina mercantile".
 
 ## Art. 3.

@@ -53,7 +53,7 @@ Durante l'applicazione della legge di guerra o nel corso di ostilita', il Minist
 
 ### Art. 7. — Liberazione condizionale.
 
-E' concessa la liberazione condizionale, anche se non concorrono i requisiti preveduti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ai condannati che debbono ancora scontare una pena detentiva non superiore ai dieci anni, se, chiamati o richiamati alle armi per mobilitazione o nel corso delle ostilita', sono dichiarati idonei a incondizionato servizio militare ed effettivamente arruolati. 
+E' concessa la liberazione condizionale, anche se non concorrono i requisiti preveduti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ai condannati che debbono ancora scontare una pena detentiva non superiore ai dieci anni, se, chiamati o richiamati alle armi per mobilitazione o nel corso delle ostilita', sono dichiarati idonei a incondizionato servizio militare ed effettivamente arruolati. 
  
  La liberazione condizionale e' concessa altresi' ai condannati chiamati o richiamati alle armi per mobilitazione o nel corso delle ostilita', dichiarati idonei soltanto ai servizi militari sedentari ed effettivamente arruolati, se la pena detentiva ancora da scontare non sia superiore a due anni e non si tratti di delinquenti abituali, professionali o per tendenza. 
  
@@ -61,7 +61,7 @@ E' concessa la liberazione condizionale, anche se non concorrono i requisiti pre
  
  La concessione della liberazione condizionale preveduta in questo articolo e la revoca di essa sono di competenza del Regio avvocato militare per i condannati dal giudice militare e del giudice di sorveglianza per i condannati dal giudice ordinario. 
  
- La liberazione condizionale a favore dei condannati per i delitti preveduti dal titolo primo del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalla legge 28 luglio 1939-XVII, n. 1097, contenente disposizioni penali in materia di scambi, di valute e di commercio dell'oro, e' nelle facolta' del Ministro di grazia e giustizia che e' altresi' competente a revocarla.
+ La liberazione condizionale a favore dei condannati per i delitti preveduti dal titolo primo del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalla legge 28 luglio 1939-XVII, n. 1097, contenente disposizioni penali in materia di scambi, di valute e di commercio dell'oro, e' nelle facolta' del Ministro di grazia e giustizia che e' altresi' competente a revocarla.
 
 ### Art. 8. — Sospensione delle misure di sicurezza.
 
@@ -81,7 +81,7 @@ Entro i limiti e con le condizioni stabilite dagli articoli 7 e 8 e' differita l
  
  Il differimento e la revoca di esso sono ordinati dal Regio avvocato militare per i condannati dal giudice militare e dal pubblico ministero o dal pretore competente per l'esecuzione per i condannati dal giudice ordinario. 
  
- Il differimento a favore dei condannati per i delitti preveduti dal titolo primo del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalla legge 28 luglio 1939-XVII, n. 1097, contenente disposizioni penali in materia di scambi, di valute e di commercio dell'oro e' nelle facolta' del Ministro di grazia e giustizia, che e' altresi' competente a revocarlo.
+ Il differimento a favore dei condannati per i delitti preveduti dal titolo primo del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalla legge 28 luglio 1939-XVII, n. 1097, contenente disposizioni penali in materia di scambi, di valute e di commercio dell'oro e' nelle facolta' del Ministro di grazia e giustizia, che e' altresi' competente a revocarlo.
 
 ### Art. 10. — Differimento dell'esecuzione ordinato con la pronuncia di condanna dal giudice militare.
 

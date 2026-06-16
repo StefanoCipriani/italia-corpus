@@ -36,7 +36,7 @@ Al rimborso delle somme anticipate dalla Provincia, detratta la quota che deve r
 ## Art. 3.
 
 Per l'esecuzione in economia dei lavori di importo superiore a L. 200.000 non sara' necessario altro parere che quello del Consiglio superiore dei lavori pubblici. 
- Ancorche' si provveda ai lavori con i fondi somministrati dalla provincia di Milano, saranno egualmente soggetti alla registrazione presso la Corte dei conti i decreti Ministeriali che approvino contratti o impegnino spese, sempre che la registrazione sia richiesta a termini dell'[art. 19 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_19).
+ Ancorche' si provveda ai lavori con i fondi somministrati dalla provincia di Milano, saranno egualmente soggetti alla registrazione presso la Corte dei conti i decreti Ministeriali che approvino contratti o impegnino spese, sempre che la registrazione sia richiesta a termini dell'[art. 19 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ## Art. 4.
 

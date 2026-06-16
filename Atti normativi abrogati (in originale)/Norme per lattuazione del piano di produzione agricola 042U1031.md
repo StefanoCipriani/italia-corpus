@@ -66,7 +66,7 @@ Contro i provvedimenti emanati dal Ministero dell'agricoltura e delle foreste o 
 
 Il conduttore di azienda che non adempia alle prescrizioni di destinare a coltura l'area assegnata a termini degli articoli 2 e 3 ovvero esegua senza licenza colture per cui questa e' prescritta e' punito con l'ammenda da L. 1000 a L. 3000 per ettaro o frazione di ettaro. Alla stessa pena e' soggetto il conduttore che volontariamente ometta le cure colturali, necessarie al buon esito della coltivazione nelle aree prescritte. 
  
- I prodotti delle coltivazioni eseguite senza prescritta licenza sono confiscati a' termini del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I prodotti delle coltivazioni eseguite senza prescritta licenza sono confiscati a' termini del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

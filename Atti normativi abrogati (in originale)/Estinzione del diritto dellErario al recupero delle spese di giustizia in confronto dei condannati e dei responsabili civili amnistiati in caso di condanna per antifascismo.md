@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 5 aprile 1944, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-04-05;96);
+Visto il [regio decreto 5 aprile 1944, n. 96](../Regi%20decreti/Amnistia%20e%20indulto%20per%20reati%20comuni%20militari%20ed%20annonari.%20044U0096.md);
 
 Visto il [decreto luogotenenziale 17 novembre 1945, num. 719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-17;719);
 
 Visto il [decreto Presidenziale 22 giugno 1946, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-06-22;4);
 
-Visti gli [articoli 151](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [198](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [189, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 274, 488 e 613 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visti gli [articoli 151](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [198](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [189, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 274, 488 e 613 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [regio decreto 5 settembre 1938, n. 1493](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-05;1493), convertito nella [legge 16 gennaio 1939, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201493%20riguardante%20la%20inclusione%20delle%20spese%20di%20mantenimento%20dei%20condannati%20negli%20stabilimenti%20di%20pena%20tra%20le%20spese%20di%20g_5d9c296712dd.md);
 

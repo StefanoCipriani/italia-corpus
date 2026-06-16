@@ -64,15 +64,15 @@ Sono esclusi dal servizio militare, e non possono far parte del Regio
 
 I condannati:
                             a)
-                                alla pena dei lavori forzati per applicazione del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune;
+                                alla pena dei lavori forzati per applicazione del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune;
                             b)
-                                alla pena dell'ergastolo ed a quella della casa di forza per un tempo maggiore di dieci anni per applicazione del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano;
+                                alla pena dell'ergastolo ed a quella della casa di forza per un tempo maggiore di dieci anni per applicazione del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano;
 
 2.
 
 I condannati:
                             a)
-                                alla pena della reclusione o della relegazione come colpevoli dei reati definiti nel libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune: 
+                                alla pena della reclusione o della relegazione come colpevoli dei reati definiti nel libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune: 
  
  Titolo 1, capo 1 e 2, 
  
@@ -88,7 +88,7 @@ I condannati:
  
  Titolo 10, capo 2;
                             b)
-                                alla pena della casa di forze per un tempo non maggiore di dieci anni, come colpevoli dei reati definiti nel libro 2 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano; 
+                                alla pena della casa di forze per un tempo non maggiore di dieci anni, come colpevoli dei reati definiti nel libro 2 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano; 
  
  Titolo 1, capo 1 e 2, 
  
@@ -1407,7 +1407,7 @@ I medici o chirurghi chiamati come periti nei casi preveduti da questa legge, i 
 
 ### Art. 174.
 
-Ogni ufficiale pubblico ed ogni agente od impiegato del Governo che sotto qualsiasi pretesto abbia autorizzato od ammesso esenzioni dal servizio di 1ª e di 2ª categoria, riforme, esclusioni, surrogazioni di fratello, e rafferme con premio o con soprassoldo, oppostamente al disposto della legge, ovvero abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito come reo di abuso di autorita' colle pene portate dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori prescritte dallo stesso codice nel caso di circostanze che ne aggravino la colpa.
+Ogni ufficiale pubblico ed ogni agente od impiegato del Governo che sotto qualsiasi pretesto abbia autorizzato od ammesso esenzioni dal servizio di 1ª e di 2ª categoria, riforme, esclusioni, surrogazioni di fratello, e rafferme con premio o con soprassoldo, oppostamente al disposto della legge, ovvero abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito come reo di abuso di autorita' colle pene portate dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori prescritte dallo stesso codice nel caso di circostanze che ne aggravino la colpa.
 
 ### Art. 175.
 

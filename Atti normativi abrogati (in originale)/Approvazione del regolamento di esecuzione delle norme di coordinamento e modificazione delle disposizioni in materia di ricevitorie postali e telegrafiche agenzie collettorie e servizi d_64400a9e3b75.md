@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [decreto del Presidente della Repubblica 5 giugno 1952, n. 656](../DPR/Approvazione%20delle%20norme%20di%20coordinamento%20e%20modificazione%20delle%20disposizioni%20in%20materia%20di%20ricevitorie%20postali%20e%20telegrafiche%20agenzie%20collettorie%20e%20servizi%20di%20portalettere%20rurale.md), che approva le norme di coordinamento e modificazione delle disposizioni in materia di ricevitorie postali e telegrafiche, agenzie, collettorie e servizi di portalettere rurale;
- Visto il [regio decreto 5 novembre 1937, n. 2161](Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), concernente l'approvazione del regolamento delle ricevitorie delle agenzie e dei servizi rurali dell'Amministrazione postale telegrafica;
+ Visto il [regio decreto 5 novembre 1937, n. 2161](../Regi%20decreti/Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), concernente l'approvazione del regolamento delle ricevitorie delle agenzie e dei servizi rurali dell'Amministrazione postale telegrafica;
  Sentita la Commissione centrale per gli uffici locali;
  Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
  Udito il parere del Consiglio di Stato;

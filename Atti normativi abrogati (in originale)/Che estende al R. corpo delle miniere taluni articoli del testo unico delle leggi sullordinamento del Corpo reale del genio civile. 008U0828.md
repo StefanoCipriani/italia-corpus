@@ -186,7 +186,7 @@ Art. 32. - La prima nomina e le promozioni di grado e classe del personale super
  
  Art. 40. - Il ruolo di anzianita' del personale del Corpo delle miniere, approvato dal ministro di agricoltura, industria e commercio, e' pubblicato ogni anno. 
  
- Art. 41. - Non puo' essere promosso per anzianita' chi ha raggiunto gli anni di eta' o di servizio, che a termini dell'art. 1 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), danno diritto al collocamento a riposo. 
+ Art. 41. - Non puo' essere promosso per anzianita' chi ha raggiunto gli anni di eta' o di servizio, che a termini dell'art. 1 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), danno diritto al collocamento a riposo. 
  
  Art. 42. - Per tutti i provvedimenti relativi al personale del R.
 Corpo delle miniere, e' confermato il Comitato con voto consultivo, presieduto dal ministro di agricoltura, industria e commercio, e composto del sottosegretario di Stato, del vice presidente del Consiglio delle miniere, del direttore generale dell'agricoltura e degli ispettori superiori delle miniere. 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il R. Decreto 20 dicembre 1860, col quale furono chiamati sotto le armi tutti gli individui delle Provincie Napolitane delle leve degli anni 1857, 1858, 1859 e 1860 pel gia' Esercito delle Due Sicilie;
 
-Visto il R. Decreto del 16 gennaio 1861, portante pubblicazione in dette Provincie Napolitane del nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare 1 ottobre 1859;
+Visto il R. Decreto del 16 gennaio 1861, portante pubblicazione in dette Provincie Napolitane del nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare 1 ottobre 1859;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guer
 
 Tutti gli individui delle leve degli anni 1857, 1858, 1859, 1860 che a termini dell'art. 1 del Nostro Decreto 20 dicembre 1860 sono chiamati in servizio, dovranno con tutto il giorno 1 giugno essersi presentati al Deposito generale d'arruolamento in Napoli. 
  
- In caso d'inobbedienza verranno le reclute dichiarate refrattarie ed i soldati che gia' avevano marciato, disertori, e punite le prime colle leggi vigenti nelle Provincie Napolitane, ed i secondi a norma del nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare del 1.o ottobre 1859, stato pubblicato in dette Provincie con R. Decreto Nostro del 16 gennaio 1861.
+ In caso d'inobbedienza verranno le reclute dichiarate refrattarie ed i soldati che gia' avevano marciato, disertori, e punite le prime colle leggi vigenti nelle Provincie Napolitane, ed i secondi a norma del nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare del 1.o ottobre 1859, stato pubblicato in dette Provincie con R. Decreto Nostro del 16 gennaio 1861.
 
 ## Art. 2.
 

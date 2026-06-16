@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il R. decreto 1ª febbraio 1891, n. 260, con cui si approva il regolamento generale per gli stabilimenti carcerari; 
  
- Visto il [R. decreto 12 febbraio 1911, n. 120](Che%20modifica%20taluni%20articoli%20del%20regolamento%20generale%20per%20gli%20stabilimenti%20carcerari.%20011U0120.md) con cui furono modificati taluni articoli di detto regolamento; 
+ Visto il [R. decreto 12 febbraio 1911, n. 120](../Regi%20decreti/Che%20modifica%20taluni%20articoli%20del%20regolamento%20generale%20per%20gli%20stabilimenti%20carcerari.%20011U0120.md) con cui furono modificati taluni articoli di detto regolamento; 
  
  Sulla proposta del ministro segretario di Stato per gli affari dell'interno, presidente de Consiglio de ministri, di concerto col guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia o dei culti, e con i ministri segretari di Stato per le finanze ed il tesoro; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Per la durata della guerra e fino a sei mesi dopo la pubblicazione della pace, la gratificazione ai condannati lavoranti, gia' aumentata con il [R. Decreto 12 febbraio 1911, n. 120](Che%20modifica%20taluni%20articoli%20del%20regolamento%20generale%20per%20gli%20stabilimenti%20carcerari.%20011U0120.md), e' ancora elevata di un decimo, ed in relazione a detto aumento e' altresi' accresciuta di centesimi dieci la quota, che ciascun di essi e' autorizzato a spendere per sopravitto, a norma dello stesso regio decreto. 
+ Per la durata della guerra e fino a sei mesi dopo la pubblicazione della pace, la gratificazione ai condannati lavoranti, gia' aumentata con il [R. Decreto 12 febbraio 1911, n. 120](../Regi%20decreti/Che%20modifica%20taluni%20articoli%20del%20regolamento%20generale%20per%20gli%20stabilimenti%20carcerari.%20011U0120.md), e' ancora elevata di un decimo, ed in relazione a detto aumento e' altresi' accresciuta di centesimi dieci la quota, che ciascun di essi e' autorizzato a spendere per sopravitto, a norma dello stesso regio decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

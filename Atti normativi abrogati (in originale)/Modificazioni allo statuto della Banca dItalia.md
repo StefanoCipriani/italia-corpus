@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), convertito nella [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni ed aggiunte;
 
-Visto il [regio decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), con il quale venne approvato lo statuto della Banca d'Italia;
+Visto il [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), con il quale venne approvato lo statuto della Banca d'Italia;
 
 Vista la deliberazione adottata dall'assemblea generale dei partecipanti della Banca d'Italia in data 31 marzo 1948;
 
@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Articolo unico.
 
-Allo statuto della Banca d'Italia, istituto di diritto pubblico con sede in Roma, approvato con il [regio decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), sono apportate le seguenti modificazioni:
+Allo statuto della Banca d'Italia, istituto di diritto pubblico con sede in Roma, approvato con il [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), sono apportate le seguenti modificazioni:
  all'art. 2, comma 50, le parole: "Ministro per le finanze" sono sostituite dalle seguenti: "Ministro per il tesoro";
  all'art. 3, comma 2°, il testo della lettera b) e' sostituito dal seguente:
  "b) istituti di credito di diritto pubblico e banche di interesse nazionale";

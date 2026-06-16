@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), con il quale l'obbligo scolastico viene esteso ai fanciulli sordomuti idonei all'istruzione; 
+ Visto il testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), con il quale l'obbligo scolastico viene esteso ai fanciulli sordomuti idonei all'istruzione; 
  
  Considerato che l'Istituto «Nazzareno» per sordomute e cieche di Spoleto, si trova nelle condizioni di idoneita' per l'assolvimento dell'obbligo scolastico; 
  

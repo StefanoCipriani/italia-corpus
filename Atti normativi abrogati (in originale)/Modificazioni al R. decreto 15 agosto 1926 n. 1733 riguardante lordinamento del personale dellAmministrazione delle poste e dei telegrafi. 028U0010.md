@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni;
 
 Visto il [R. decreto 23 ottobre 1924, n. 2028](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2028), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
@@ -74,7 +74,7 @@ Gli [articoli 7](Competenza%20del%20Consiglio%20di%20amministrazione%20delle%20p
  
  «Se l'impiegato membro del Consiglio provinciale di disciplina viene sottoposto a procedimento disciplinare decade temporaneamente dall'incarico conferitogli ed e' sostituito da altro funzionario, nominato con decreto Ministeriale. 
  
- «Se il procedimento suddetto si chiude col riconoscimento della insussistenza degli addebiti, l'impiegato puo' essere reintegrato nell'incarico; se invece si chiude con una delle punizioni previste dall'[art. 56 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_56), la decadenza non puo' avere durata inferiore a due anni. 
+ «Se il procedimento suddetto si chiude col riconoscimento della insussistenza degli addebiti, l'impiegato puo' essere reintegrato nell'incarico; se invece si chiude con una delle punizioni previste dall'[art. 56 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), la decadenza non puo' avere durata inferiore a due anni. 
  
  «Quando per uno stesso fatto siano sottoposti a procedimento disciplinare piu' impiegati od agenti, dei quali alcuni deferiti per sanzioni di competenza del Consiglio provinciale ed altri per quelle di competenza del Consiglio centrale, il giudizio e' interamente devoluto a quest'ultimo. 
  
@@ -116,7 +116,7 @@ L'annotazione alla tabella n. 2, allegato A) al [R. decreto 15 agosto 1926, n. 1
 
 ## Art. 7.
 
-Per tutti gli esami previsti dalle disposizioni transitorie (Capo, III) dell'ordinamento approvato con [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), puo' essere fatta eccezione alla norma contenuta nell'ultimo comma dell'[art. 21 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21).
+Per tutti gli esami previsti dalle disposizioni transitorie (Capo, III) dell'ordinamento approvato con [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), puo' essere fatta eccezione alla norma contenuta nell'ultimo comma dell'[art. 21 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 8.
 
@@ -126,7 +126,7 @@ La designazione, per parte delle Commissioni di avanzamento, del personale promo
 
 ## Art. 9.
 
-Ferme le disposizioni dell'[art. 17 del R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), qualora, alla data del presente decreto, non abbiano potuto essere compilate le note di qualifica relative agli anni 1924-25 per tutto il personale, si provvedera' all'assegnazione delle note mancanti, con le norme dell'[art. 17 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_17).
+Ferme le disposizioni dell'[art. 17 del R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), qualora, alla data del presente decreto, non abbiano potuto essere compilate le note di qualifica relative agli anni 1924-25 per tutto il personale, si provvedera' all'assegnazione delle note mancanti, con le norme dell'[art. 17 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 10.
 

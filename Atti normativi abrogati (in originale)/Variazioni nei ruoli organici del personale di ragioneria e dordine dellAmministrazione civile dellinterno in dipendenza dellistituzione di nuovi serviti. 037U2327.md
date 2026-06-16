@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e le sue successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e le sue successive modificazioni;
 
 Visto il [R. decreto-legge 27 giugno 1937, n. 1058](Riordinamento%20dei%20ruoli%20organici%20dellAmministrazione%20civile%20dellinterno.%20037U1058.md), con cui sono stati approvati i ruoli organici della Amministrazione civile dell'interno;
 

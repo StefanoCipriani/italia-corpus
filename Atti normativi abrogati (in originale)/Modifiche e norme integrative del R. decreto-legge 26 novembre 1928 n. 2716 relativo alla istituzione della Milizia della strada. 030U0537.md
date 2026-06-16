@@ -24,7 +24,7 @@ L'impiego in guerra degli appartenenti alla Milizia della strada sara' disciplin
 
 ## Art. 4.
 
-Le tabelle A e B allegate al [R. decreto 26 novembre 1928, n. 2716](Istituzione%20della%20Milizia%20della%20strada.%20028U2716.md), e citate rispettivamente negli articoli 6 e 7 del decreto stesso sono modificate come segue: 
+Le tabelle A e B allegate al [R. decreto 26 novembre 1928, n. 2716](../Regi%20decreti/Istituzione%20della%20Milizia%20della%20strada.%20028U2716.md), e citate rispettivamente negli articoli 6 e 7 del decreto stesso sono modificate come segue: 
  
  TABELLA A. 
  

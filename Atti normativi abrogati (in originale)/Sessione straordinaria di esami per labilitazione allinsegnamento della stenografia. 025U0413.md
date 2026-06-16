@@ -28,7 +28,7 @@ Per l'ammissione all'esame di abilitazione e' richiesto uno dei titoli seguenti:
  
  E' considerato titolo valido per l'ammissione all'esame sopra indicato anche la licenza limitata dal liceo o dalla sezione fisico-matematica dell'istituto tecnico. 
  
- E' considerato altresi' titolo valido per l'ammissione all'esame suddetto il diploma di abilitazione all'insegnamento della calligrafia o del disegno corredato da un certificato dal quale risulti che il candidato e' insegnante di scuola media iscritto in ruolo transitorio ai sensi dell'[art. 11 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_11), o e' stato incaricato dell'insegnamento della calligrafia o del disegno nelle scuole medie (governative o pareggiate) per un periodo non inferiore a tre anni scolastici.
+ E' considerato altresi' titolo valido per l'ammissione all'esame suddetto il diploma di abilitazione all'insegnamento della calligrafia o del disegno corredato da un certificato dal quale risulti che il candidato e' insegnante di scuola media iscritto in ruolo transitorio ai sensi dell'[art. 11 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), o e' stato incaricato dell'insegnamento della calligrafia o del disegno nelle scuole medie (governative o pareggiate) per un periodo non inferiore a tre anni scolastici.
 
 ## Art. 3.
 

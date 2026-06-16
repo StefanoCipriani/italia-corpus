@@ -14,7 +14,7 @@ PER GRAZIA DI DIO PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 103](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [104 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), sull'ordinamento giudiziario;
+Visti gli [articoli 103](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [104 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), sull'ordinamento giudiziario;
 
 Ritenuta la necessita' di apportare alcune modificazioni al vigente ordinamento giudiziario;
 
@@ -28,7 +28,7 @@ Ai concorsi per i posti di uditore giudiziario che saranno indetti fino a tutto 
  
  Rimane sempre fermo il limite di 39 anni per l'ammissione degli invalidi di guerra in conformita' del disposto dell'[articolo 8 della legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md). 
  
- E' abrogato l'ultimo capoverso dell'[art. 104 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
+ E' abrogato l'ultimo capoverso dell'[art. 104 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md).
 
 ## Art. 2.
 

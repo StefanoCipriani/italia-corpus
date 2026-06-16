@@ -38,7 +38,7 @@ Visto il [Regio decreto 23 novembre 1885, N. 3540](Che%20modifica%20la%20tabella
 
 Visto il [Regio decreto 10 agosto 1886, N. 4036](Che%20sostituisce%20una%20nuova%20tabella%20darmamento%20delle%20torpediniere%20di%201ª%20e%202ª%20classe.%20086U4036.md) (Serie 3ª), che approva la tabella d'armamento delle torpediniere da costa e d'alto mare;
 
-Visto il [Regio decreto 2 gennaio 1887, N. 4273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-01-02;4273) (Serie 3ª) che istituisce un comando di difesa, locale marittima nelle sedi dipartimentali marittime;
+Visto il [Regio decreto 2 gennaio 1887, N. 4273](../Regi%20decreti/Che%20istituisce%20un%20comando%20della%20difesa%20marittima%20locale%20presso%20ciascuna%20sede%20di%20dipartimento.%20087U4273.md) (Serie 3ª) che istituisce un comando di difesa, locale marittima nelle sedi dipartimentali marittime;
 
 Visto il [Regio decreto 4 settembre 1887, N. 4952](Che%20stabilisce%20la%20posizione%20di%20disponibilita%20per%20le%20torpediniere%20da%20costa%20e%20dalto%20mare.%20087U4952.md) (Serie 3ª), che stabilisce la posizione di disponibilita' per le torpediniere;
 

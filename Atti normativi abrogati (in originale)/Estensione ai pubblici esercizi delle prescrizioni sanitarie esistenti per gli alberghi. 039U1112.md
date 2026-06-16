@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Le disposizioni degli [articoli 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_231) e [232 del testo unico leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_232) approvate con R. decreto 27 luglio 1934-XII, n. 1265, sono estese alle pensioni, alle locande, agli alberghi diurni, agli affittacamere, ai ristoratori, alle trattorie, alle mescite, ai caffe', alle osterie. 
+ Le disposizioni degli [articoli 231](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [232 del testo unico leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvate con R. decreto 27 luglio 1934-XII, n. 1265, sono estese alle pensioni, alle locande, agli alberghi diurni, agli affittacamere, ai ristoratori, alle trattorie, alle mescite, ai caffe', alle osterie. 
  
  Con decreto Reale sara' provveduto alla revisione del regolamento approvato con R. decreto 24 maggio 1925-III, n. 1102. 
  

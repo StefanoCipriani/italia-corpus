@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1. — Campo di applicazione
 
-La presente legge si applica al personale addetto ai pubblici servizi di trasporto, soggetto alla disciplina del [regio decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148), e successive modifiche ed integrazioni.
+La presente legge si applica al personale addetto ai pubblici servizi di trasporto, soggetto alla disciplina del [regio decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md), e successive modifiche ed integrazioni.
  Al predetto personale possono essere assegnate soltanto qualifiche previste dalle allegate tabelle, secondo le note esplicative ed i criteri stabiliti, dalle stesse.
 
 ## Art. 2. — Abrogazione di norme
@@ -71,7 +71,7 @@ L'azienda provvede alla formazione della propria tabella delle qualifiche adotta
 
 Ogni azienda, entro trenta giorni dalla data in cui la tabella nazionale e' divenuta definitiva per il proprio personale, comunica al personale stesso la qualifica a ciascuno attribuita.
  Entro i successivi trenta giorni, l'azienda pubblica mediante ordine di servizio la tabella delle qualifiche attribuite a tutto il personale dall'azienda stessa.
- Resta salva la facolta' degli interessati di adire la magistratura ordinaria o amministrativa competente, ai sensi dell'[articolo 10 del regio decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148#art_10):
+ Resta salva la facolta' degli interessati di adire la magistratura ordinaria o amministrativa competente, ai sensi dell'[articolo 10 del regio decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md):
 
 ## Art. 8. — Mansioni
 
@@ -81,7 +81,7 @@ Le qualifiche attribuite al personale in servizio alle data di entrata in vigore
 
 ## Art. 9. — Principi per la formazione dei regolamenti aziendali per gli avanzamenti e promozioni
 
-Fermo restando quanto disposto dalle note esplicative alle tabelle di inquadramento, i regolamenti aziendali per gli avanzamenti e le promozioni, in atto alla data di entrata in vigore della presente legge e quelli che saranno successivamente stabiliti, previsti dall'articolo 15 del regolamento allegato A) al [regio decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148), devono uniformarsi ai seguenti principi e criteri generali:
+Fermo restando quanto disposto dalle note esplicative alle tabelle di inquadramento, i regolamenti aziendali per gli avanzamenti e le promozioni, in atto alla data di entrata in vigore della presente legge e quelli che saranno successivamente stabiliti, previsti dall'articolo 15 del regolamento allegato A) al [regio decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md), devono uniformarsi ai seguenti principi e criteri generali:
  anzianita' congiunta al non demerito;
  merito comparativo congiunto all'anzianita';
  concorso o prova selettiva e/o attitudinale.

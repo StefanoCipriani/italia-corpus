@@ -15,8 +15,8 @@ UMBERTO DI SAVOIA
  LUOGOTENENTE GENERALE DEL REGNO 
  
  In virtu' dell'autorita' a Noi delegata; 
- Visto il [R. decreto 2 Marzo 1931, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-02;287), che approva il regolamento per il servizio del Genio civile; 
- Visto il [R. decreto 2 settembre 1937, n. 1633](Istituzione%20di%20Ispettorati%20compartimentali%20del%20Genio%20civile%20nelle%20citta%20di%20Napoli%20Aquila%20Bari%20Potenza%20e%20Catanzaro.%20037U1633.md), col quale furono istituiti gli Ispettorati compartimentali del Genio civile di Aquila, Napoli, Bari, Potenza e Catanzaro; 
+ Visto il [R. decreto 2 Marzo 1931, n. 287](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20servizio%20del%20Genio%20civile.%20031U0287.md), che approva il regolamento per il servizio del Genio civile; 
+ Visto il [R. decreto 2 settembre 1937, n. 1633](../Regi%20decreti/Istituzione%20di%20Ispettorati%20compartimentali%20del%20Genio%20civile%20nelle%20citta%20di%20Napoli%20Aquila%20Bari%20Potenza%20e%20Catanzaro.%20037U1633.md), col quale furono istituiti gli Ispettorati compartimentali del Genio civile di Aquila, Napoli, Bari, Potenza e Catanzaro; 
  Visto il R. decreto 14 aprile 1938, col quale fu stabilita la competenza territoriale dell'Ispettorato compartimentale del Genio civile di Napoli; 
  Visto il [decreto legislativo Luogotenenziale 18 gennaio 1945, n. 16](Istituzione%20dei%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0016.md), mediante il quale gli Ispettorati generali compartimentali del Genio civile sono stati trasformati in Provveditorati regionali alle opere pubbliche; 
  Ritenuta l'opportunita', in vista di un miglior funzionamento degli uffici, di trasferire la provincia di Campobasso, dalla circoscrizione del Provveditorato regionale alle opere pubbliche di Aquila a quella del Provveditorato regionale alle opere pubbliche di Napoli; 

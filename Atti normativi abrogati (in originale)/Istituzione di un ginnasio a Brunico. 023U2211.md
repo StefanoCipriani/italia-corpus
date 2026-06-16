@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 26 settembre 1920, n. 1322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-26;1322);
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione di concerto con quello per le finanze;
 

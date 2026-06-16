@@ -21,7 +21,7 @@ Il [secondo comma dell'articolo 7 della legge 3 novembre 1961, n. 1232](Norme%20
 
 ## Art. 2.
 
-Le regioni, le province, i comuni, le istituzioni pubbliche di assistenza e beneficenza e gli enti ospedalieri autonomi di cui alla [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), sono esonerati, in materia di concessioni telegrafiche, dall'obbligo della costituzione del deposito cauzionale di cui all'articolo 172 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645).
+Le regioni, le province, i comuni, le istituzioni pubbliche di assistenza e beneficenza e gli enti ospedalieri autonomi di cui alla [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), sono esonerati, in materia di concessioni telegrafiche, dall'obbligo della costituzione del deposito cauzionale di cui all'articolo 172 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

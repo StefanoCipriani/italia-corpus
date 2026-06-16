@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE 
  
- Visto il [Regio Decreto del 29 agosto 1866, n. 3183](Che%20autorizza%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20ad%20emettere%20biglietti%20di%20banca%20da%20lire%20cinque%20ed%20a%20provvedere%20al%20ritiro%20delle%20marche%20da%20bollo.%20066U3183.md); 
+ Visto il [Regio Decreto del 29 agosto 1866, n. 3183](../Regi%20decreti/Che%20autorizza%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20ad%20emettere%20biglietti%20di%20banca%20da%20lire%20cinque%20ed%20a%20provvedere%20al%20ritiro%20delle%20marche%20da%20bollo.%20066U3183.md); 
  
  Visto il [Decreto Ministeriale del 2 settembre 1866, n. 3200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1866-09-02;3200); 
  

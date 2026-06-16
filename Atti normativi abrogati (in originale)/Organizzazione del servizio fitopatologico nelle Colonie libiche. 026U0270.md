@@ -98,7 +98,7 @@ Il Governo coloniale puo' provvedere, a sue spese, alla direzione dei lavori di 
 
 ## Art. 11.
 
-Le contravvenzioni alle disposizioni del presente decreto ed al regolamento che sara' emanato in esecuzione di esso, sono punite con ammende da fissarsi nel regolamento stesso e senza pregiudizio delle maggiori pene per le infrazioni alle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Le contravvenzioni alle disposizioni del presente decreto ed al regolamento che sara' emanato in esecuzione di esso, sono punite con ammende da fissarsi nel regolamento stesso e senza pregiudizio delle maggiori pene per le infrazioni alle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Le contravvenzioni ai divieti d'importazione e di transito saranno punite con una multa da fissarsi nel regolamento, senza pregiudizio delle maggiori sanzioni stabilite dall'ordinamento doganale vigente.
 Per l'accertamento e la definizione di tali contravvenzioni, sono applicabili le disposizioni vigenti in materia doganale.

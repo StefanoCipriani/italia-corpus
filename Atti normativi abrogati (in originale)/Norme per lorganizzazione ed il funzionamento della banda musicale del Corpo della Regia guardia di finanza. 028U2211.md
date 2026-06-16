@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281), e [31 dicembre 1923, n. 3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170), nonche' i [Regi decreti-legge 6 maggio 1926, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-06;844), [13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), e [19 gennaio 1928, n. 26](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza%20al%20servizio%20sanitario%20del%20Corpo.%20028U0026.md), che hanno portato modificazioni all'ordinamento della Regia guardia di finanza;
+Visti i [Regi decreti 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281), e [31 dicembre 1923, n. 3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), nonche' i [Regi decreti-legge 6 maggio 1926, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-06;844), [13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), e [19 gennaio 1928, n. 26](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza%20al%20servizio%20sanitario%20del%20Corpo.%20028U0026.md), che hanno portato modificazioni all'ordinamento della Regia guardia di finanza;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

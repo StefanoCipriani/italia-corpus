@@ -50,7 +50,7 @@ Il premio di fermo temporaneo, che non compete all'impresa la quale non rispetti
 
 7.
 
-Al pagamento dei contributi previsti dal presente decreto provvedono i comandanti delle capitanerie di porto sugli accreditamenti disposti dal Ministero delle risorse agricole, alimentari e forestali, anche in deroga ai limiti d'importo stabiliti nel penultimo comma dell'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
+Al pagamento dei contributi previsti dal presente decreto provvedono i comandanti delle capitanerie di porto sugli accreditamenti disposti dal Ministero delle risorse agricole, alimentari e forestali, anche in deroga ai limiti d'importo stabiliti nel penultimo comma dell'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
 
 8.
 

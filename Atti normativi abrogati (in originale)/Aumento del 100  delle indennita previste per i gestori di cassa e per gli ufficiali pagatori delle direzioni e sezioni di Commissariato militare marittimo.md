@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 2 giugno 1924, n. 931](Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), relativo agli assegni a terra da corrispondere al personale civile e militare della Regia marina, e sue successive modificazioni;
+Visto il [R. decreto 2 giugno 1924, n. 931](../Regi%20decreti/Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), relativo agli assegni a terra da corrispondere al personale civile e militare della Regia marina, e sue successive modificazioni;
 
-Visto il [R. decreto 15 dicembre 1932, n. 2040](Ordinamento%20delle%20Direzioni%20e%20Sezioni%20dei%20servizi%20di%20Commissariato%20militare%20marittimo%20e%20norme%20per%20il%20loro%20funzionamento.%20032U2040.md);
+Visto il [R. decreto 15 dicembre 1932, n. 2040](../Regi%20decreti/Ordinamento%20delle%20Direzioni%20e%20Sezioni%20dei%20servizi%20di%20Commissariato%20militare%20marittimo%20e%20norme%20per%20il%20loro%20funzionamento.%20032U2040.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la marina, di concerto col Ministro per il tesor
 
 ## Art. 1.
 
-Le indennita' previste per i gestori di cassa e per gli ufficiali pagatori dal [R. decreto 2 giugno 1924, n. 931](Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), sono aumentate del 100% quando essi esercitano, rispettivamente, le funzioni di cassiere presso le direzioni di Commissariato militare marittimo o le sezioni di Commissariato militare marittimo.
+Le indennita' previste per i gestori di cassa e per gli ufficiali pagatori dal [R. decreto 2 giugno 1924, n. 931](../Regi%20decreti/Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), sono aumentate del 100% quando essi esercitano, rispettivamente, le funzioni di cassiere presso le direzioni di Commissariato militare marittimo o le sezioni di Commissariato militare marittimo.
 
 ## Art. 2.
 

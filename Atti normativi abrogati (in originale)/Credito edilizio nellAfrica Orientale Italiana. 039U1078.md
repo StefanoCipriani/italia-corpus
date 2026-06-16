@@ -18,7 +18,7 @@ Le Sezioni di credito fondiario degli Istituti di credito di diritto pubblico op
 
 ## Art. 2.
 
-Alle operazioni di cui al precedente articolo sono estese le disposizioni che disciplinano il credito fondiario nel Regno, nonche' le disposizioni di cui al [testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con Regio decreto 28 aprile 1938-XVI, n. 1165, in quanto applicabili e non in contrasto con la presente legge.
+Alle operazioni di cui al precedente articolo sono estese le disposizioni che disciplinano il credito fondiario nel Regno, nonche' le disposizioni di cui al [testo unico sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con Regio decreto 28 aprile 1938-XVI, n. 1165, in quanto applicabili e non in contrasto con la presente legge.
 
 ## Art. 3.
 

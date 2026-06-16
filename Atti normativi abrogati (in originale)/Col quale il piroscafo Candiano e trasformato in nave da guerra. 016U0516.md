@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il titolo IV parte prima del Codice per la marina mercantile; 
  
- Vista la dichiarazione contenuta nel [R. decreto 6 agosto 1914, n. 798](Riguardante%20i%20diritti%20e%20doveri%20delle%20potenze%20neutre%20in%20caso%20di%20guerra%20marittima%20014U0798.md), circa l'osservanza da parte l'Italia delle convenzioni internazionali firmate il 18 ottobre 1907, in quanto lo consentono le leggi vigenti nel Regno, benche' le convenzioni stesse non siano state ancora ratificate dal Regno d'Italia; 
+ Vista la dichiarazione contenuta nel [R. decreto 6 agosto 1914, n. 798](../Regi%20decreti/Riguardante%20i%20diritti%20e%20doveri%20delle%20potenze%20neutre%20in%20caso%20di%20guerra%20marittima%20014U0798.md), circa l'osservanza da parte l'Italia delle convenzioni internazionali firmate il 18 ottobre 1907, in quanto lo consentono le leggi vigenti nel Regno, benche' le convenzioni stesse non siano state ancora ratificate dal Regno d'Italia; 
  
  Viste le disposizioni contenute nella VII convenzione internazionale firmata all'Aja il 18 ottobre 1907, sulla trasformazione delle navi mercantili in navi da guerra; 
  

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 25 novembre1920, n. 1726](Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md), riguardante l'esercizio delle linee ferroviarie comprese nelle nuove Provincie; 
+ Visto il [R. decreto 25 novembre1920, n. 1726](../Regi%20decreti/Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md), riguardante l'esercizio delle linee ferroviarie comprese nelle nuove Provincie; 
  
  Udito il Consiglio dei Ministri; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- A partire dall'esercizio finanziario 1924-25 cessano di avere applicazione le disposizioni dell'[art. 2 del R. decreto 25 novembre 1920, n. 1726](Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md). 
+ A partire dall'esercizio finanziario 1924-25 cessano di avere applicazione le disposizioni dell'[art. 2 del R. decreto 25 novembre 1920, n. 1726](../Regi%20decreti/Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md). 
  
  A decorrere dall'esercizio medesimo gli introiti e le spese delle linee ferroviarie delle nuove Provincie, di cui al detto decreto, saranno inscritti nel bilancio dell'Amministrazione delle ferrovie dello Stato, restando unificata la gestione delle indicate linee con quella delle altre formanti la rete affidata all'Amministrazione stessa. 
  

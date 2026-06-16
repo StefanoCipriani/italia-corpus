@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il ruolo organico del personale delle segreterie universitarie, di cui alla tabella H, annessa al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' modificato in conformita' della tabella A, annessa alla presente legge. 
+Il ruolo organico del personale delle segreterie universitarie, di cui alla tabella H, annessa al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' modificato in conformita' della tabella A, annessa alla presente legge. 
  
  Sara' stabilito dal ministro della istruzione pubblica, di accordo col ministro del tesoro il modo di erogazione della somma di L. 20.000, stanziata nella tabella A, e destinata a spese per lavori di copiatura e servizi d'ordine.
 

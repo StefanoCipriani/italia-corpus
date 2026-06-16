@@ -64,7 +64,7 @@ Lo statuto della Regia universita' di Bologna, approvato con il Nostro decreto 1
  
  E' istituito presso la Facolta' di giurisprudenza un Seminario di applicazione forense, il quale si propone di corrispondere alle esigenze teoriche e pratiche della preparazione all'esercizio della professione forense. 
  
- Il Seminario funziona ai fini dell'[art. 8 del R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683#art_8). 
+ Il Seminario funziona ai fini dell'[art. 8 del R. decreto 26 agosto 1926, n. 1683](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20marzo%201926%20n.%20453%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U1683.md). 
  
  Art. ... 
  
@@ -136,7 +136,7 @@ Lo statuto della Regia universita' di Bologna, approvato con il Nostro decreto 1
  
  Art. ... 
  
- Agli iscritti che abbiano frequentato con diligenza e profitto i due anni del corso sara' rilasciato un certificato finale agli effetti dell'[art. 8 del R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683#art_8) a firma del direttore e del preside della Facolta'. 
+ Agli iscritti che abbiano frequentato con diligenza e profitto i due anni del corso sara' rilasciato un certificato finale agli effetti dell'[art. 8 del R. decreto 26 agosto 1926, n. 1683](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20marzo%201926%20n.%20453%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U1683.md) a firma del direttore e del preside della Facolta'. 
  
  Per conseguire tale certificato l'iscritto deve presentare fina relazione, a sensi dell'art. 5 del decreto predetto, sulla propria operosita' nel biennio, relazione che sara' certificata conforme a verita' dal direttore e restituita al praticante a corredo del certificato di cui piu' sopra. 
  

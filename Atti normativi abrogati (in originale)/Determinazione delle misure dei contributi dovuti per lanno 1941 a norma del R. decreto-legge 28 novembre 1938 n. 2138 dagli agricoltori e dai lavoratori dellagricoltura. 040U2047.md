@@ -69,7 +69,7 @@ L. 0,18;
  
  4) quota per l'assicurazione nuzialita' e natalita':i L. 0,075, 
  
- Le quote di cui ai numeri 2, 3, 4 saranno aumentate o diminuite ai fini del conguaglio per l'anno 1940 previsto dall'[art. 14, lett. b), del R. decreto 24 settembre 1940, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949#art_14-letb), in modo da recuperare le differenze fra le somme iscritte nei ruoli 1940 e quelle risultanti dall'applicazione delle quote sopraindicate; 
+ Le quote di cui ai numeri 2, 3, 4 saranno aumentate o diminuite ai fini del conguaglio per l'anno 1940 previsto dall'[art. 14, lett. b), del R. decreto 24 settembre 1940, n. 1949](../Regi%20decreti/Modalita%20di%20accertamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20linvalidita%20e%20vecchiaia%20pe_36ac4a1909bf.md), in modo da recuperare le differenze fra le somme iscritte nei ruoli 1940 e quelle risultanti dall'applicazione delle quote sopraindicate; 
  
  d) per ogni giornata eseguita dai coltivatori diretti: 
  

@@ -28,7 +28,7 @@ All'[art. 1 della legge 3 luglio 1904, n. 302](Provvedimenti%20per%20gli%20uffic
 
 ## Art. 2.
 
-La terza annotazione alla seconda tabella del testo unico delle leggi sugli stipendi e assegni fissi pel regio esercito (approvato con [regio decreto n 380 del 14 luglio 1898](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), modificato dalle [leggi 7 luglio 1901, n. 286; 2 giugno 1904, n. 216, 3 luglio 1904, nn. 300 e 301)](Modificazioni%20al%20testo%20unico%20della%20legge%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito.%20004U0301.md) e' sostituita con la seguente: 
+La terza annotazione alla seconda tabella del testo unico delle leggi sugli stipendi e assegni fissi pel regio esercito (approvato con [regio decreto n 380 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), modificato dalle [leggi 7 luglio 1901, n. 286; 2 giugno 1904, n. 216, 3 luglio 1904, nn. 300 e 301)](Modificazioni%20al%20testo%20unico%20della%20legge%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20esercito.%20004U0301.md) e' sostituita con la seguente: 
  
  Gli ufficiali superiori di fanteria negli stabilimenti militari di pena e negli stabilimenti militari; gli aiutanti maggiori in. 1° e in 2° nei reggimenti di fanteria, i capitani dei reggimenti di fanteria con 4 e piu' anni di grado, o con 18 o piu' anni di servizio in qualita' di ufficiali, e che prestino effettivo servizio ai reggimenti, ed il capitano aiutante maggiore in 1° nella scuola di guerra, nella scuola centrale di fanteria e nella scuola, militare hanno diritto ad una razione di foraggio».
 

@@ -26,7 +26,7 @@ Visto il [decreto del Presidente della Repubblica 26 maggio 1976, n. 411](../DPR
 
 Visto l'[art. 1 del decreto del Presidente della Repubblica 16 ottobre 1979, n. 509](../DPR/Approvazione%20della%20disciplina%20del%20rapporto%20di%20lavoro%20del%20personale%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070%20contenuta%20nellipotesi%20di%20accordo%20del%2031%20luglio%201979%20ad%20eccezio_60a49813039a.md);
 
-Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077](../DPR/Riordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md);
 

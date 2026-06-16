@@ -27,7 +27,7 @@ E' riservata all'Ente Zolfi Italiani la vendita degli zolfi fusi, degli zolfi di
 
 ## Art. 2.
 
-A modifica dell'[art. 1 del regio decreto 3 gennaio 1934, n. 18](Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), la classifica degli zolfi grezzi posti a disposizione dell'Ente Zolfi italiani deve essere effettuata assegnando gli zolfi stessi ad una delle seguenti categorie:
+A modifica dell'[art. 1 del regio decreto 3 gennaio 1934, n. 18](../Regi%20decreti/Norme%20per%20lesecuzione%20e%20lintegrazione%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20recante%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0018.md), la classifica degli zolfi grezzi posti a disposizione dell'Ente Zolfi italiani deve essere effettuata assegnando gli zolfi stessi ad una delle seguenti categorie:
  zolfi gialli;
  zolfi bruni;
  concentrati di zolfo.

@@ -30,11 +30,11 @@ Dalla data stabilita nell'art. 1, l'Ente Distribuzione Rottami richiede la rimoz
 
 ## Art. 4.
 
-Chiunque omette la denuncia di cui all'art. 2 o presenta denuncia infedele od incompleta, o comunque viola le disposizioni di cui agli articoli precedenti, e' punito con l'arresto da tre mesi a tre anni e con l'ammenda non inferiore a lire duemila, senza pregiudizio delle maggiori e diverse sanzioni stabilite nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque omette la denuncia di cui all'art. 2 o presenta denuncia infedele od incompleta, o comunque viola le disposizioni di cui agli articoli precedenti, e' punito con l'arresto da tre mesi a tre anni e con l'ammenda non inferiore a lire duemila, senza pregiudizio delle maggiori e diverse sanzioni stabilite nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Se la quantita' del materiale non supera i cinque chilogrammi la pena e' dell'ammenda da lire mille a lire tremila. 
  
- E' sempre fatta salva l'applicabilita' delle maggiori e diverse sanzioni stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ E' sempre fatta salva l'applicabilita' delle maggiori e diverse sanzioni stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

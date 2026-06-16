@@ -288,7 +288,7 @@ Se entro il 31 dicembre 1910 non siano state concesse all'industria privata, ver
 
 L'esecuzione delle opere di sistemazione idraulica di pianura e dei bacini montani dei corsi d'acqua delle Calabrie, comprese le opere di rimboschimento e di rinsodamento dei terreni montani, naturalmente collegate e coordinate colle opere medesime, e' fatta a cura dello Stato. 
  
- I progetti esecutivi di tali opere saranno approvati nei modi stabiliti all'art. 40, testo unico, delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, approvato con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523). 
+ I progetti esecutivi di tali opere saranno approvati nei modi stabiliti all'art. 40, testo unico, delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, approvato con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md). 
  
  La spesa relativa viene ripartita in ragione di cinque sesti a carico dello Stato e di un sesto a carico della provincia o delle provincie interessate. 
  
@@ -330,7 +330,7 @@ Le opere marittime, di cui alla tabella F annessa alla presente legge, sono cost
 
 Le opere strettamente necessarie per il consolidamento delle frane minaccianti la sicurezza dell'abitato dei comuni, indicati nella tabella G, vengono eseguite a cura e spesa dello Stato. 
  
- La manutenzione di tali opere resta pero' a carico dei comuni interessati, i quali vi potranno provvedere in modo analogo a quanto e' stabilito dall'art. 10, testo unico, delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, approvate con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523). 
+ La manutenzione di tali opere resta pero' a carico dei comuni interessati, i quali vi potranno provvedere in modo analogo a quanto e' stabilito dall'art. 10, testo unico, delle disposizioni di legge intorno alle opere idrauliche delle diverse categorie, approvate con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md). 
  
  Il Governo del Re, ove se ne manifesti la convenienza economica, potra', sentito il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato, sostituire lo spostamento totale o parziale dell'abitato ai corrispondenti lavori di consolidamento delle frane che lo minacciano.
 

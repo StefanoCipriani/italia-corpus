@@ -30,7 +30,7 @@ E' approvata e resa esecutoria la convenzione 19 dicembre 1946, stipulata tra il
 
 ## Art. 2.
 
-Il Ministro per le finanze, sentito il Consiglio di Stato e il Comitato consultivo per le aziende patrimoniali dello Stato, istituito con [regio decreto legislativo 27 maggio 1946, n. 533](Costituzione%20del%20Comitato%20consultivo%20per%20le%20Aziende%20patrimoniali%20del%20Demanio%20dello%20Stato.md), e' autorizzato ad approvare con propri decreti le convenzioni che verranno stipulate ad integrazione ed esecuzione di quelle indicate nell'articolo precedente.
+Il Ministro per le finanze, sentito il Consiglio di Stato e il Comitato consultivo per le aziende patrimoniali dello Stato, istituito con [regio decreto legislativo 27 maggio 1946, n. 533](../Regi%20decreti%20legislativi/Costituzione%20del%20Comitato%20consultivo%20per%20le%20Aziende%20patrimoniali%20del%20Demanio%20dello%20Stato.md), e' autorizzato ad approvare con propri decreti le convenzioni che verranno stipulate ad integrazione ed esecuzione di quelle indicate nell'articolo precedente.
 
 ## Art. 3.
 

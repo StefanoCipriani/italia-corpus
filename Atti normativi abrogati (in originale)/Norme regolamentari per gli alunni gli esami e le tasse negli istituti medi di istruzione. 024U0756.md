@@ -97,7 +97,7 @@ Il titolo di ammissione al liceo scientifico e' valido anche per la inscrizione 
 
 La formazione delle classi aggiunte nelle scuole complementari si effettua dapprima per le classi 2ª e 3ª. 
  
- Il numero delle inscrizioni alla lª si ridurra', eventualmente, tenendo conto dei criteri stabiliti nell'art. 8, in modo da non oltrepassare complessivamente il numero massimo di sezioni consentito dall'[art. 36 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_36).
+ Il numero delle inscrizioni alla lª si ridurra', eventualmente, tenendo conto dei criteri stabiliti nell'art. 8, in modo da non oltrepassare complessivamente il numero massimo di sezioni consentito dall'[art. 36 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 12.
 
@@ -113,7 +113,7 @@ Le domande non accolte per mancanza di posti disponibili, purche' presentate nei
 
 ### Art. 14.
 
-Ogni alunno e' fornito, a cura dell'istituto, di una pagella scolastica, nella quale sono registrati i dati di stato civile, la qualita' scolastica agli effetti dell'[art. 84 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_84), i voti degli scrutini bimestrali, i risultati dello scrutinio finale e degli esami, la classificazione annuale in educazione fisica, i versamenti delle tasse o la relativa deliberazione di esonero, e gli eventuali provvedimenti disciplinari. 
+Ogni alunno e' fornito, a cura dell'istituto, di una pagella scolastica, nella quale sono registrati i dati di stato civile, la qualita' scolastica agli effetti dell'[art. 84 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), i voti degli scrutini bimestrali, i risultati dello scrutinio finale e degli esami, la classificazione annuale in educazione fisica, i versamenti delle tasse o la relativa deliberazione di esonero, e gli eventuali provvedimenti disciplinari. 
  
  La pagella e' consegnata all'alunno alla fine di ogni bimestre per la controfirma del padre, o di chi ne fa le veci, e gli e' definitivamente rilasciata all'inizio dell'anno scolastico successivo o al momento del passaggio ad altro istituto durante l'anno scolastico, a norma dell'art. 5, o dell'abbandono della scuola, a norma dell'art. 61.
 
@@ -250,7 +250,7 @@ La disposizione di cui all'art. 19 e' applicabile anche agli alunni inscritti in
 
 ### Art. 30.
 
-Non e' consentita l'inscrizione di nuovi alunni nelle classi superstiti della soppressa sezione fisico-matematica d'istituto tecnico, di cui all'[art. 38 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_38).
+Non e' consentita l'inscrizione di nuovi alunni nelle classi superstiti della soppressa sezione fisico-matematica d'istituto tecnico, di cui all'[art. 38 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md).
 
 ## Esami. Capo I. Delle sessioni di esame.
 
@@ -260,7 +260,7 @@ TITOLO II.
 
 La sessione di primo esame negli istituti medi d'istruzione ha luogo nel mese di luglio. 
  
- La sessione di esame di riparazione, di cui all'[art. 83 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_83), ha luogo nella prima quindicina di ottobre.
+ La sessione di esame di riparazione, di cui all'[art. 83 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), ha luogo nella prima quindicina di ottobre.
 
 ### Art. 32.
 
@@ -274,7 +274,7 @@ La sessione di esame di riparazione tiene luogo di sessione di primo esame per c
 
 L'ammissione alla sessione di esame di riparazione nel caso di interruzione dell'esame contemplato dall'articolo precedente e' deliberata dalla commissione esaminatrice, che deve pronunciarsi sulla attendibilita' dei motivi addotti. 
  
- Le prove dalle quali il candidato sia stato assente per motivi riconosciuti attendibili non sono computate agli effetti di cui all'[art. 83 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_83), per l'ammissibilita' alla sessione di esame di riparazione.
+ Le prove dalle quali il candidato sia stato assente per motivi riconosciuti attendibili non sono computate agli effetti di cui all'[art. 83 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), per l'ammissibilita' alla sessione di esame di riparazione.
 
 ### Art. 35.
 
@@ -302,7 +302,7 @@ La validita' delle prove sostenute e superate sulla prima parte dell'esame, di c
 
 ### Art. 39.
 
-Nella sessione d'esame di riparazione per l'idoneita' si svolgono anche le prove autunnali per la promozione, a norma dell'[art. 83 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_83).
+Nella sessione d'esame di riparazione per l'idoneita' si svolgono anche le prove autunnali per la promozione, a norma dell'[art. 83 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Dell'ammissione ad esami.
 
@@ -338,7 +338,7 @@ Gli alunni di istituto regio o pareggiato sono inscritti d'ufficio agli esami di
 
 I candidati ad esami di maturita' e di abilitazione debbono entro il 31 maggio presentare domanda in carta legale corredata dei documenti di cui all'art. 40 al preside dell'istituto rispettivamente designato come sede di esame. 
  
- I candidati provenienti da istituto regio o pareggiato debbono inoltre, prima dell'esame, presentare la pagella scolastica; quelli provenienti da istituto privato il documento di cui all'[art. 94 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_94). 
+ I candidati provenienti da istituto regio o pareggiato debbono inoltre, prima dell'esame, presentare la pagella scolastica; quelli provenienti da istituto privato il documento di cui all'[art. 94 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  I candidati ad esame di abilitazione magistrale debbono presentare anche l'attestato medico di cui all'art. 6. 
  
@@ -380,7 +380,7 @@ In caso di dubbio sulla ammissibilita' di un candidato, o in pendenza d'un ricor
 
 ### Art. 49.
 
-I giovani che compiano, nell'anno in corso, il diciottesimo anno di eta', possono presentarsi all'esame di ammissione alla lª classe del liceo classico con anticipazione di un anno rispetto all'intervallo prescritto dall'[art. 73 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_73). 
+I giovani che compiano, nell'anno in corso, il diciottesimo anno di eta', possono presentarsi all'esame di ammissione alla lª classe del liceo classico con anticipazione di un anno rispetto all'intervallo prescritto dall'[art. 73 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  Coloro che compiano il diciassettesimo anno godono della stessa abbreviazione quando si presentino all'esame di ammissione ai licei scientifico o femminile o al corso superiore dell'istituto tecnico o magistrale.
 
@@ -394,7 +394,7 @@ Per la licenza dal liceo femminile e' consentita l'abbreviazione di un anno a fa
 
 ### Art. 52.
 
-Il beneficio dell'abbreviazione di un anno, rispetto all'intervallo prescritto dal [primo comma dell'art. 74 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_74-com1) per l'ammissione ad esame di maturita', e' dato: 
+Il beneficio dell'abbreviazione di un anno, rispetto all'intervallo prescritto dal [primo comma dell'art. 74 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) per l'ammissione ad esame di maturita', e' dato: 
  
  a) a coloro che compiano venti anni d'eta' nell'anno in corso; 
  
@@ -411,13 +411,13 @@ o al corso superiore nella sessione di primo esame con una media generale assolu
 
 ### Art. 53.
 
-L'obbligo dell'intervallo, di cui al [primo comma dell'articolo 74 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_74-com1), si estende ai candidati ad esami di abilitazione. 
+L'obbligo dell'intervallo, di cui al [primo comma dell'articolo 74 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), si estende ai candidati ad esami di abilitazione. 
  
  Ai candidati stessi e' consentita l'abbreviazione del corso nei casi previsti e alle condizioni stabilite dall'articolo precedente.
 
 ### Art. 54.
 
-Il beneficio previsto dall'ultimo comma dell'[art. 74 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_74), per coloro che compiano i ventitre' anni vale anche per l'ammissione ad esami di abilitazione, come pure per l'ammissione ad ogni altra specie di esami. 
+Il beneficio previsto dall'ultimo comma dell'[art. 74 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), per coloro che compiano i ventitre' anni vale anche per l'ammissione ad esami di abilitazione, come pure per l'ammissione ad ogni altra specie di esami. 
  
  I candidati dispensati dalla presentazione di titoli di ammissione inferiori debbono pero' sottoporsi ad eventuali prove sulle materie non comprese nel programma dell'esame a cui si presentano, ma comprese in quello del corso inferiore cui corrisponde il titolo normalmente richiesto, qualora non dimostrino altrimenti di possedere adeguata preparazione nelle materie stesse.
 
@@ -427,13 +427,13 @@ Nessuna anticipazione e' consentita per i candidati all'ammissione alla 4ª clas
 
 ### Art. 56.
 
-I provenienti dall'istituto magistrale o dal liceo femminile debbono, agli effetti di cui all'[articolo 74 primo comma del R. decreto 6 maggio 1923, n.1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_74-com1), aver conseguita l'ammissione ad istituto medio di secondo grado almeno quattro anni prima. 
+I provenienti dall'istituto magistrale o dal liceo femminile debbono, agli effetti di cui all'[articolo 74 primo comma del R. decreto 6 maggio 1923, n.1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), aver conseguita l'ammissione ad istituto medio di secondo grado almeno quattro anni prima. 
  
  I provenienti dal ginnasio possono presentarsi ad esami di abilitazione tecnica tre anni dopo il conseguimento dell'ammissione al liceo classico e ad esami di abilitazione magistrale o di licenza dal liceo femminile due anni dopo.
 
 ### Art. 57.
 
-Sono dispensati dalla presentazione del titolo di ammissione ad istituti di secondo grado, prescritta dagli [art. 73 e seguenti del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_73), coloro che presentino un titolo di studio conseguito in scuole governative non dipendenti dal Ministero della pubblica istruzione, il quale sia, a questo particolare effetto, riconosciuto equipollente al titolo prescritto, e sempreche' dal conseguimento del titolo stesso sia trascorso l'intervallo d'obbligo, oppure la durata degli studi compiuti corrisponda complessivamente alla durata del corso di cui si tratta. 
+Sono dispensati dalla presentazione del titolo di ammissione ad istituti di secondo grado, prescritta dagli [art. 73 e seguenti del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), coloro che presentino un titolo di studio conseguito in scuole governative non dipendenti dal Ministero della pubblica istruzione, il quale sia, a questo particolare effetto, riconosciuto equipollente al titolo prescritto, e sempreche' dal conseguimento del titolo stesso sia trascorso l'intervallo d'obbligo, oppure la durata degli studi compiuti corrisponda complessivamente alla durata del corso di cui si tratta. 
  
  L'equipollenza di cui al comma precedente e' dichiarata dal Ministero, udita la Giunta del consiglio superiore della pubblica istruzione in seguito a richiesta dell'Ente da cui la scuola dipende. 
  
@@ -455,7 +455,7 @@ I candidati che abbiano seguito studi all'estero non sono ammessi ad alcun esame
 
 ### Art. 60.
 
-Le alunne dei Conservatori toscani, dei Reali Collegi di Montagnana e «Uccellis» di Udine, dei Regi educatori femminili «SS. Annunziata» di Firenze, «Collegio reale delle fanciulle» di Milano, «Maria Adelaide» di Palermo, «Real Collegio agli Angeli» di Verona, e dei Reali educandati di Napoli, qualora vi abbiano seguito un corso d'istituto medio d'istruzione secondo l'ordinamento stabilito dal [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e vi abbiano conseguito l'ammissione alla lª classe del corso superiore, sono ammesse, dopo il prescritto intervallo, all'esame di maturita' o abilitazione, con dispensa dalla presentazione del titolo inferiore. 
+Le alunne dei Conservatori toscani, dei Reali Collegi di Montagnana e «Uccellis» di Udine, dei Regi educatori femminili «SS. Annunziata» di Firenze, «Collegio reale delle fanciulle» di Milano, «Maria Adelaide» di Palermo, «Real Collegio agli Angeli» di Verona, e dei Reali educandati di Napoli, qualora vi abbiano seguito un corso d'istituto medio d'istruzione secondo l'ordinamento stabilito dal [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e vi abbiano conseguito l'ammissione alla lª classe del corso superiore, sono ammesse, dopo il prescritto intervallo, all'esame di maturita' o abilitazione, con dispensa dalla presentazione del titolo inferiore. 
  
  Parimenti, i titoli di promozione o ammissione conseguiti dalle alunne predette sono validi per la inscrizione alle classi corrispondenti d'istituti regi o pareggiati. 
  
@@ -699,7 +699,7 @@ Lo scrutinio dell'ultimo bimestre ha valore di scrutinio finale.
  
  Nell'assegnazione dei voti si tien conto anche dei risultati degli scrutini bimestrali precedenti, i quali, pero', non possono aver valore decisivo. 
  
- Lo scrutinio finale per le promozioni, a norma dell'[art. 82 del R. decreto 6 maggio 1923, n.1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_82), deve essere ratificato dal Collegio dei professori.
+ Lo scrutinio finale per le promozioni, a norma dell'[art. 82 del R. decreto 6 maggio 1923, n.1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), deve essere ratificato dal Collegio dei professori.
 
 ### Art. 92.
 
@@ -923,7 +923,7 @@ I candidati agli esami di licenza di istituto di secondo grado riprovati nelle s
 
 ### Art. 117.
 
-Agli esami di licenza presso le classi superstiti di sezione fisico-matematica, di cui all'[art. 38 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_38), sono ammessi, oltre gli alunni delle classi stesse, i candidati ripetenti esami di licenza a norma dell'art. 116, e i licenziati dagli istituti industriali dipendenti dal Ministero dell'economia nazionale; i quali ultimi potranno ottenere la licenza mediante prove d'integrazione da stabilirsi in conformita' dell'antico ordinamento.
+Agli esami di licenza presso le classi superstiti di sezione fisico-matematica, di cui all'[art. 38 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), sono ammessi, oltre gli alunni delle classi stesse, i candidati ripetenti esami di licenza a norma dell'art. 116, e i licenziati dagli istituti industriali dipendenti dal Ministero dell'economia nazionale; i quali ultimi potranno ottenere la licenza mediante prove d'integrazione da stabilirsi in conformita' dell'antico ordinamento.
 
 ### Art. 118.
 
@@ -931,11 +931,11 @@ Gli alunni delle classi superstiti di sezione fisico-matematica, e quelli di cui
 
 ### Art. 119.
 
-Per i candidati di cui all'art. 116, speciali sessioni di esami di licenza secondo gli antichi programmi, oltre quelle stabilite dall'[art.17 del R. decreto 14 ottobre 1923, n. 2345](Approvazione%20degli%20orari%20e%20dei%20programmi%20per%20le%20Regie%20scuole%20medie.%20023U2345.md), per le sezioni fisico-matematiche, saranno tenute presso i licei e gli istituti tecnici e magistrali e presso le classi aggiunte di istituto magistrale di cui all'[art. 36 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_36).
+Per i candidati di cui all'art. 116, speciali sessioni di esami di licenza secondo gli antichi programmi, oltre quelle stabilite dall'[art.17 del R. decreto 14 ottobre 1923, n. 2345](Approvazione%20degli%20orari%20e%20dei%20programmi%20per%20le%20Regie%20scuole%20medie.%20023U2345.md), per le sezioni fisico-matematiche, saranno tenute presso i licei e gli istituti tecnici e magistrali e presso le classi aggiunte di istituto magistrale di cui all'[art. 36 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md).
 
 ### Art. 120.
 
-Il diploma di maturita' elementare e le licenze di scuole medie di primo grado sostituiscono rispettivamente i titoli richiesti dagli [articoli 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_73), [74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_74), [76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_76) e [77 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_77), per l'ammissibilita' ad esami. 
+Il diploma di maturita' elementare e le licenze di scuole medie di primo grado sostituiscono rispettivamente i titoli richiesti dagli [articoli 73](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), [74](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), [76](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [77 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), per l'ammissibilita' ad esami. 
  
  Il beneficio di cui all'art. 52 lett. c) e' applicabile anche a coloro, che abbiano conseguito, secondo il precedente ordinamento, la licenza di primo grado con media non inferiore ad otto decimi.
 
@@ -943,7 +943,7 @@ Il diploma di maturita' elementare e le licenze di scuole medie di primo grado s
 
 I candidati ad esami di licenza complementare, e di ammissione ad istituti medi di secondo grado, sono esonerati dall'obbligo di presentare il titolo di ammissione inferiore rispettivamente prescritto per un numero di anni corrispondente alla durata normale degli studi, a decorrere dall'anno scolastico 1923-24 escluso. 
  
- In tal caso, agli effetti dell'obbligo dell'intervallo e dell'eventuale diritto ad abbreviazione, si avra' riguardo all'eta' del candidato rispetto a quella prescritta dall'[art. 72 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_72).
+ In tal caso, agli effetti dell'obbligo dell'intervallo e dell'eventuale diritto ad abbreviazione, si avra' riguardo all'eta' del candidato rispetto a quella prescritta dall'[art. 72 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 122.
 
@@ -953,7 +953,7 @@ I candidati ad esami di Stato nelle nuove provincie sono dispensati dall'obbligo
 
 ### Art. 123.
 
-Agli effetti dell'obbligo dell'intervallo e dell'eventuale diritto di anticipazione, la durata normale dei corsi, per gli alunni inscritti in base agli [articoli 32 e seguenti del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_32), e' quella risultante dall'applicazione del decreto stesso. 
+Agli effetti dell'obbligo dell'intervallo e dell'eventuale diritto di anticipazione, la durata normale dei corsi, per gli alunni inscritti in base agli [articoli 32 e seguenti del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), e' quella risultante dall'applicazione del decreto stesso. 
  
  I candidati provenienti da scuola privata o paterna possono, analogamente, presentarsi ad esami, per i quali sia prescritto l'obbligo dell'intervallo, nelle sessioni dell'anno in cui avrebbero potuto presentarsi se avessero seguito normalmente gli studi nelle scuole regie o pareggiate e possono godere del corrispondente diritto di anticipazione.
 
@@ -975,7 +975,7 @@ TITOLO III.
 
 ### Art. 126.
 
-Le tasse per la inscrizione alle lezioni e agli esami presso gli istituti medi di istruzione sono determinate dalla tabella 14, annessa al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054). 
+Le tasse per la inscrizione alle lezioni e agli esami presso gli istituti medi di istruzione sono determinate dalla tabella 14, annessa al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  Il pagamento delle tasse di' cui al comma precedente si effettua mediante vaglia postale indirizzato al Procuratore del registro della circoscrizione in cui ha sede l'istituto o la commissione di esami, da esibirsi al preside o al presidente della commissione, nei termini rispettivamente stabiliti.
 

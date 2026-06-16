@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
+Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Vista la [legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md), portante provvedimenti per agevolare i mutui fondiari;
 
-Visto il regolamento per la esecuzione delle leggi sul credito fondiario approvato con [R. decreto 5 maggio 1910, numero 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il regolamento per la esecuzione delle leggi sul credito fondiario approvato con [R. decreto 5 maggio 1910, numero 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Ritenuta la necessita' e l'urgenza di apportare alcune modificazioni alle vigenti disposizioni sul credito fondiario, allo scopo di agevolare la trasformazione dei mutui fondiari;
 

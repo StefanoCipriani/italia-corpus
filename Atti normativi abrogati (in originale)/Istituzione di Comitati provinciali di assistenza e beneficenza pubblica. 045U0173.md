@@ -56,7 +56,7 @@ I Comitati provinciali di assistenza e beneficenza pubblica esercitano le attrib
 
 Spetta ai Comitati provinciali di dar parere: 
  
- a) sulle proposte di scioglimento delle amministrazioni delle istituzioni pubbliche di assistenza e beneficenza; resta ferma la facolta' del Ministro per l'interno di provvedere in materia a norma del [R. decreto 26 aprile 1923, n. 976](Che%20da%20facolta%20al%20Ministro%20dellinterno%20di%20dichiarare%20sciolte%20le%20Amministrazioni%20delle%20Congregazioni%20di%20carita%20e%20di%20tutte%20le%20Istituzioni%20pubbliche%20di%20beneficenza%20esistenti%20in%20uno%20stesso%20Co_d67517334ac6.md); 
+ a) sulle proposte di scioglimento delle amministrazioni delle istituzioni pubbliche di assistenza e beneficenza; resta ferma la facolta' del Ministro per l'interno di provvedere in materia a norma del [R. decreto 26 aprile 1923, n. 976](../Regi%20decreti/Che%20da%20facolta%20al%20Ministro%20dellinterno%20di%20dichiarare%20sciolte%20le%20Amministrazioni%20delle%20Congregazioni%20di%20carita%20e%20di%20tutte%20le%20Istituzioni%20pubbliche%20di%20beneficenza%20esistenti%20in%20uno%20stesso%20Co_d67517334ac6.md); 
  b) sulle domande di erezione in ente morale di nuove istituzioni pubbliche di assistenza e beneficenza e sugli statuti relativi, nonche' sulle domande delle dette istituzioni per l'accettazione di lasciti e donazioni o per l'acquisto di beni stabili; 
  c) sulle questioni relative alla dichiarazione della natura giuridica delle istituzioni pubbliche di assistenza e beneficenza; 
  d) sulle preposte, comunque formulate, di riforma delle istituzioni pubbliche di assistenza e beneficenza; 

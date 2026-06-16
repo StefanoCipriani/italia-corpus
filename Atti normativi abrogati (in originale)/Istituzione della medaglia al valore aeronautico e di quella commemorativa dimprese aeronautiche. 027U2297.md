@@ -103,7 +103,7 @@ La Commissione istituita con R. decreto 2 luglio 1925, per l'esame delle propost
 
 ## Art. 13.
 
-Non possono conseguire la medaglia al valore aeronautico e quella commemorativa di imprese aeronautiche, ne', avendole conseguite, possono fregiarsene, coloro che siano incorsi nell'interdizione perpetua o temporanea dai pubblici uffici - e in quest'ultimo caso durante il tempo dell'interdizione - giusta le norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo il caso di riabilitazione. 
+Non possono conseguire la medaglia al valore aeronautico e quella commemorativa di imprese aeronautiche, ne', avendole conseguite, possono fregiarsene, coloro che siano incorsi nell'interdizione perpetua o temporanea dai pubblici uffici - e in quest'ultimo caso durante il tempo dell'interdizione - giusta le norme del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo il caso di riabilitazione. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti gli osservarlo e di farlo osservare. 
  

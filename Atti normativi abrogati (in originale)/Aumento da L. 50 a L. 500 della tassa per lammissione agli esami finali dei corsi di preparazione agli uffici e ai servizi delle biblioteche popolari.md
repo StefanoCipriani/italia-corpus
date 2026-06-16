@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[art. 4, comma secondo, del regio decreto 3 giugno 1935, n. 1240](Istituzione%20di%20corsi%20di%20preparazione%20per%20il%20personale%20addetto%20alle%20Biblioteche%20popolari.%20035U1240.md), relativo all'istituzione di corsi di preparazione per il personale addetto alle biblioteche popolari, e' modificato nel modo seguente:  "L'ammissione all'esame e' subordinata al pagamento della somma di lire cinquecento, a favore dell'Erario, per il rimborso di spese".
+L'[art. 4, comma secondo, del regio decreto 3 giugno 1935, n. 1240](../Regi%20decreti/Istituzione%20di%20corsi%20di%20preparazione%20per%20il%20personale%20addetto%20alle%20Biblioteche%20popolari.%20035U1240.md), relativo all'istituzione di corsi di preparazione per il personale addetto alle biblioteche popolari, e' modificato nel modo seguente:  "L'ammissione all'esame e' subordinata al pagamento della somma di lire cinquecento, a favore dell'Erario, per il rimborso di spese".
 
 ## Art. 2.
 

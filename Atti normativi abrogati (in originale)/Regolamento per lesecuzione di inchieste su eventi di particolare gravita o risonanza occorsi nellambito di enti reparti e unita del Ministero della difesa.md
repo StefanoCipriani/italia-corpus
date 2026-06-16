@@ -55,7 +55,7 @@ Il presente regolamento non si applica agli incidenti automobilistici, nei quali
 Avvertenza:
 
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
 
@@ -140,7 +140,7 @@ Le autorita' competenti a ordinare l'inchiesta sommaria sono:
                             b)
                                 il Segretario generale della difesa, quando gli eventi sono avvenuti nell'ambito del Segretariato generale;
                             c)
-                                i superiori gerarchici del comando, ente, unita' ed ufficio coinvolti nell'evento, il cui livello ordinativo e' individuato, in via generale, con decreto del Ministro della difesa, in base all'assetto organizzativo delle aree tecnico-operativa, tecnico-amministrativa e tecnico-industriale del Ministero della difesa, nonche' alla capacita' ad acquisire, con la necessaria tempestivita', gli elementi necessari per valutare l'opportunita' di disporre l'inchiesta sommaria e ad adottare o proporre le misure correttive, sulla base dei risultati dell'indagine, fermo restando quanto disposto dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) in materia di sinistri marittimi.
+                                i superiori gerarchici del comando, ente, unita' ed ufficio coinvolti nell'evento, il cui livello ordinativo e' individuato, in via generale, con decreto del Ministro della difesa, in base all'assetto organizzativo delle aree tecnico-operativa, tecnico-amministrativa e tecnico-industriale del Ministero della difesa, nonche' alla capacita' ad acquisire, con la necessaria tempestivita', gli elementi necessari per valutare l'opportunita' di disporre l'inchiesta sommaria e ad adottare o proporre le misure correttive, sulla base dei risultati dell'indagine, fermo restando quanto disposto dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) in materia di sinistri marittimi.
 
 2.
 
@@ -228,14 +228,14 @@ L'autorita' che dispone l'inchiesta fissa il termine, non superiore a centoventi
 
 1.
 
-Quando il sinistro deriva da collisioni con navi della marina mercantile, nazionale o straniera, o comunque e' in relazione con la manovra di una delle predette navi, la valutazione sulla necessita' di disporre l'inchiesta formale, e l'eventuale svolgimento dell'inchiesta, sono di competenza delle autorita' di cui al libro IV, titolo I, del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ed al libro IV, titolo I, del regolamento di esecuzione, di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e sono effettuate in base alle disposizioni ed alle procedure dettate dalla medesima normativa.
+Quando il sinistro deriva da collisioni con navi della marina mercantile, nazionale o straniera, o comunque e' in relazione con la manovra di una delle predette navi, la valutazione sulla necessita' di disporre l'inchiesta formale, e l'eventuale svolgimento dell'inchiesta, sono di competenza delle autorita' di cui al libro IV, titolo I, del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ed al libro IV, titolo I, del regolamento di esecuzione, di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e sono effettuate in base alle disposizioni ed alle procedure dettate dalla medesima normativa.
 
 2.
 
 Alle autorita' di cui al comma 1, sono trasmessi, dietro richiesta, gli atti relativi all'inchiesta sommaria eseguita ai sensi del Capo II del presente regolamento.
 
 Nota all'[art. 12:
- - Il decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), recante il regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana 21 aprile 1952, n. 94.
+ - Il decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), recante il regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana 21 aprile 1952, n. 94.
 
 ### Art. 13. — Commissione d'inchiesta formale
 

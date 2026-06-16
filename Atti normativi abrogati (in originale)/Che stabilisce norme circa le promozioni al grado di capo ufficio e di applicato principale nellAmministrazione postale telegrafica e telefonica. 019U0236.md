@@ -20,11 +20,11 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
-Visto il regolamento speciale per il personale di 1ª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato col [R. decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md);
+Visto il regolamento speciale per il personale di 1ª e 2ª categoria dell'Amministrazione delle poste e dei telegrafi, approvato col [R. decreto 16 maggio 1909, n. 341](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md);
 
-Visto il regolamento speciale per il personale dell'Amministrazione dei telefoni, approvato col [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), modificato col [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md);
+Visto il regolamento speciale per il personale dell'Amministrazione dei telefoni, approvato col [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), modificato col [R. decreto 6 aprile 1913, n. 462](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md);
 
 Visto il [decreto Luogotenenziale del 25 luglio 1915, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-25;1403);
 
@@ -44,7 +44,7 @@ Le promozioni al grado di capo ufficio e applicato principale nella Amministrazi
 
 ## Art. 2.
 
-Per ottenere la promozione al grado di capo ufficio o applicato principale, gli impiegati debbono avere l'anzianita' o lo stipendio richiesti dal comma 2°, 3° e 4° dell'articolo 13 del regolamento approvato con [Regio decreto 16 maggio 1909, n. 341](Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), modificato con l'[articolo 1 del Regio decreto 25 luglio 1915, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-07-25;1403#art_1), e richiesti dal penultimo ed ultimo capoverso dell'articolo 14 del regolamento approvato con [Regio decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), modificato con l'articolo 2 del sopra citato decreto n. 1403. 
+Per ottenere la promozione al grado di capo ufficio o applicato principale, gli impiegati debbono avere l'anzianita' o lo stipendio richiesti dal comma 2°, 3° e 4° dell'articolo 13 del regolamento approvato con [Regio decreto 16 maggio 1909, n. 341](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20il%20personale%20di%20prima%20e%20seconda%20categoria%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20009U0341.md), modificato con l'[articolo 1 del Regio decreto 25 luglio 1915, n. 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-07-25;1403#art_1), e richiesti dal penultimo ed ultimo capoverso dell'articolo 14 del regolamento approvato con [Regio decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), modificato con l'articolo 2 del sopra citato decreto n. 1403. 
  
  Possono ottenere la promozione anche coloro che conseguirono lo stipendio di L. 3000 posteriormente al 5 luglio 1913. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 25 marzo 1926, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-25;838), con cui fu eretto in corpo morale l'«Istituto nazionale di previdenza dei giornalisti italiani» con sede in Roma;
+Veduto il [R. decreto 25 marzo 1926, n. 838](../Regi%20decreti/Riconoscimento%20giuridico%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20in%20Roma.%20026U0838.md), con cui fu eretto in corpo morale l'«Istituto nazionale di previdenza dei giornalisti italiani» con sede in Roma;
 
 Veduto il [R. decreto 23 settembre 1926, n. 1703](Approvazione%20dello%20statuto%20organico%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20con%20sede%20in%20Roma.%20026U1703.md), che approva lo statuto organico del predetto Istituto;
 

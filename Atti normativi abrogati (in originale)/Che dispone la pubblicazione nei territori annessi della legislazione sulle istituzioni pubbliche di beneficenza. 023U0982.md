@@ -29,7 +29,7 @@ Nei territori annessi in base agli [articoli 3 della legge 26 settembre 1920, n 
  1° le [leggi 17 luglio 1890, n. 6972, e 18 luglio 
  1904, n. 390](Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md), sulle istituzioni pubbliche di 
  beneficenza, i relativi regolamenti approvati con 
- [Regi decreti 5 febbraio 1891, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-05;99), e [1° gennaio 
+ [Regi decreti 5 febbraio 1891, n. 99](../Regi%20decreti/Che%20approva%20gli%20uniti%20regolamenti%20per%20la%20esecuzione%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20beneficenza.%20091U0099.md), e [1° gennaio 
  1905, n. 12; gli articoli 1](Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2018%20luglio%201904%20n.%20390%20sulla%20istituzione%20delle%20Commissioni%20provinciali%20del%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezio_bfea3b7e092a.md), 2, secondo comma, e 4 
  del [decreto Luogotenenziale 13 giugno 1915, n. 
  873; gli articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-13;873#art_1) e [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-13;873#art_5) del [decreto 

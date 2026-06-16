@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei corpi consultivi della Regia marina approvato con [R. decreto 19 luglio 1924, n. 1521](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20corpi%20consultivi%20della%20Regia%20marina.%20024U1521.md), e sue successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei corpi consultivi della Regia marina approvato con [R. decreto 19 luglio 1924, n. 1521](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20corpi%20consultivi%20della%20Regia%20marina.%20024U1521.md), e sue successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro ad interim per la marina, Presidente del Consiglio d
 
 ## Art. 1.
 
-Il n. 7 dell'art. 12 del testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei corpi consultivi della Regia marina approvato con [R. decreto 19 luglio 1924, n. 1521](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20corpi%20consultivi%20della%20Regia%20marina.%20024U1521.md), e' abrogato e sostituito dal seguente: 
+Il n. 7 dell'art. 12 del testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei corpi consultivi della Regia marina approvato con [R. decreto 19 luglio 1924, n. 1521](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20corpi%20consultivi%20della%20Regia%20marina.%20024U1521.md), e' abrogato e sostituito dal seguente: 
  
  «7° accertare le attitudini degli ufficiali, aventi grado inferiore a vice ammiraglio di squadra od a tenente generale ispettore, ai servizi della posizione ausiliaria, nei casi di collocamento in tale posizione in seguito a domanda. 
  

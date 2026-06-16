@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 25 marzo 1926, n. 453](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md); 
  
- Visto il [R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683); 
+ Visto il [R. decreto 26 agosto 1926, n. 1683](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20marzo%201926%20n.%20453%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U1683.md); 
  
  Visto l'[art. 3, comma 2°, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

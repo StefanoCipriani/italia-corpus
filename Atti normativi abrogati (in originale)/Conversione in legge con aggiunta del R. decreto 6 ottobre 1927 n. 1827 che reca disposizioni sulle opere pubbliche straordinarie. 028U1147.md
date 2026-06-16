@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Nella tabella annessa al citato Regio decreto e' aggiunta, fra le assegnazioni per opere edilizie, la seguente autorizzazione di spesa: 
  
- «Ricostruzioni nelle terre liberate e redente ([R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), e successive modificazioni)». 
+ «Ricostruzioni nelle terre liberate e redente ([R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), e successive modificazioni)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

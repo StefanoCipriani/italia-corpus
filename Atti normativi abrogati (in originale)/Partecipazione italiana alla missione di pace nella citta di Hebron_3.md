@@ -36,7 +36,7 @@ Ai fini indicati nell'articolo 1 e' inviato ad Hebron, per la durata di sei mesi
 
 1.
 
-Al personale militare di cui all'articolo 2 e' attribuito, con decorrenza dalla data di uscita dal territorio nazionale e fino alla data di rientro nel territorio stesso, il trattamento di missione all'estero di cui al [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), e successive modificazioni, con l'indennita' di missione nella misura intera. Allo stesso personale viene altresi' attribuito il trattamento assicurato di cui alla [legge 18 maggio 1982, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-18;301), ragguagliandosi il massimale assicurativo minimo al trattamento economico del grado di sergente maggiore e gradi corrispondenti.
+Al personale militare di cui all'articolo 2 e' attribuito, con decorrenza dalla data di uscita dal territorio nazionale e fino alla data di rientro nel territorio stesso, il trattamento di missione all'estero di cui al [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), e successive modificazioni, con l'indennita' di missione nella misura intera. Allo stesso personale viene altresi' attribuito il trattamento assicurato di cui alla [legge 18 maggio 1982, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-18;301), ragguagliandosi il massimale assicurativo minimo al trattamento economico del grado di sergente maggiore e gradi corrispondenti.
 
 2.
 

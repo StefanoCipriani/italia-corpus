@@ -18,7 +18,7 @@ Visto il Codice della marina mercantile ed il relativo regolamento approvato col
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Vista la necessita' e l'urgenza di integrare, con l'obbligo del giuramento da parte di tutti gli ufficiali di bordo, le disposizioni emanate col [decreto-legge 7 ottobre 1926, n. 1871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-10-07;1871); Visto il [R. decreto n. 2288 del 29 novembre 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-29;2288);
+Vista la necessita' e l'urgenza di integrare, con l'obbligo del giuramento da parte di tutti gli ufficiali di bordo, le disposizioni emanate col [decreto-legge 7 ottobre 1926, n. 1871](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-10-07;1871); Visto il [R. decreto n. 2288 del 29 novembre 1925](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20vigente%20regolamento%20sulla%20Sanita%20marittima.%20025U2288.md);
 
 Visto il [decreto-legge 3 settembre 1926, n. 1557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-09-03;1557);
 
@@ -42,7 +42,7 @@ Alle condizioni prescritte dalle disposizioni vigenti per conseguire le patenti 
 
 Il giuramento sara' prestato innanzi all'autorita' marittima cui spetta di procedere al rilascio della patente da macchinista o da motorista, dell'autorizzazione, per i radiotelegrafisti, di cui all'[art. 8 del decreto-legge 3 settembre 1926, n. 1557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-09-03;1557#art_8), e dell'autorizzazione ad imbarcare quale ufficiale commissario, dopo che sia stato accertato nel richiedente il possesso di tutti i requisiti prescritti e l'adempimento di tutte le condizioni stabilite. 
  
- Gli aspiranti medici di bordo, i quali abbiano sostenuto con esito favorevole gli speciali esami di idoneita' previsti dall'[art. 28 del R. decreto n. 2288 del 29 novembre 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-29;2288#art_28), per ottenere l'autorizzazione di cui allo stesso articolo, presteranno il giuramento innanzi all'autorita' marittima del Compartimento di loro iscrizione.
+ Gli aspiranti medici di bordo, i quali abbiano sostenuto con esito favorevole gli speciali esami di idoneita' previsti dall'[art. 28 del R. decreto n. 2288 del 29 novembre 1925](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20vigente%20regolamento%20sulla%20Sanita%20marittima.%20025U2288.md), per ottenere l'autorizzazione di cui allo stesso articolo, presteranno il giuramento innanzi all'autorita' marittima del Compartimento di loro iscrizione.
 
 ## Art. 3.
 

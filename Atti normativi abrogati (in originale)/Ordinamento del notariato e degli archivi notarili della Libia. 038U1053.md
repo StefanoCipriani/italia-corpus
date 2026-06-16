@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 20 marzo 1913, n. 286](riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20in%20Libia%20013U0286.md), riguardante l'ordinamento del notariato e degli archivi notarili in Tripolitania ed in Cirenaica, e successive modificazioni;
+Visto il [R. decreto 20 marzo 1913, n. 286](../Regi%20decreti/riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20in%20Libia%20013U0286.md), riguardante l'ordinamento del notariato e degli archivi notarili in Tripolitania ed in Cirenaica, e successive modificazioni;
 
 Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 

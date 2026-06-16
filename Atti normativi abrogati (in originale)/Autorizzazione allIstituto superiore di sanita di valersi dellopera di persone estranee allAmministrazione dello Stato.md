@@ -43,7 +43,7 @@ Agli estranei che, alla data del 1 luglio 1964 e fino a quella dell'entrata in v
 
 ## Art. 6.
 
-Qualora l'attivita' del prestatore di lavoro, in relazione alle mansioni affidategli ai sensi del decreto previsto dal precedente articolo 2, dia luogo, anche incidentalmente, ad invenzione o scoperta, si applicano le norme dell'articolo 34 commi primo, terzo e successivi, del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957 n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Qualora l'attivita' del prestatore di lavoro, in relazione alle mansioni affidategli ai sensi del decreto previsto dal precedente articolo 2, dia luogo, anche incidentalmente, ad invenzione o scoperta, si applicano le norme dell'articolo 34 commi primo, terzo e successivi, del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957 n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 7.
 

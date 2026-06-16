@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 aprile 1920, n. 744](Erezione%20in%20ente%20morale.%20020U0744.md), che istituisce in ente morale il Consorzio delle Scuole professionali per la maestranza marittima;
+Visto il [R. decreto 18 aprile 1920, n. 744](../Regi%20decreti/Erezione%20in%20ente%20morale.%20020U0744.md), che istituisce in ente morale il Consorzio delle Scuole professionali per la maestranza marittima;
 
 Ritenuta la necessita' urgente ed assoluta di assicurare al Consorzio i mezzi finanziari per continuare ed intensificare la sua opera;
 
@@ -32,7 +32,7 @@ Nella parte ordinaria del bilancio del Ministero dell'educazione nazionale e' is
 
 Alla spesa di cui al precedente articolo sara' provveduto contro annua riduzione, a decorrere dall'esercizio 1933-34 e fino all'esercizio 1937-1938, delle assegnazioni seguenti, per gli importi rispettivamente indicati: 
  
- a) Ministero dell'agricoltura e delle foreste: spese per l'applicazione delle leggi sulla pesca (Testo unico approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604)), L. 65.000; 
+ a) Ministero dell'agricoltura e delle foreste: spese per l'applicazione delle leggi sulla pesca (Testo unico approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md)), L. 65.000; 
  
  b) Ministero dell'educazione nazionale: Sussidi ed incoraggiamenti a Scuole professionali libere e ad altre istituzioni affini, contributi pel mantenimento di corsi per maestranze, L. 15.000; 
  

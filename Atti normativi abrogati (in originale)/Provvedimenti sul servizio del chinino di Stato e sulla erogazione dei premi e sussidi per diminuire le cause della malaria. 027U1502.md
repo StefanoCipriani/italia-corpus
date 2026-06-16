@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636;
 
 Ritenuta la necessita' urgente ed assoluta di modificare alcune disposizioni contenute nel citato testo unico, concernenti specialmente l'erogazione dei premi e sussidi per diminuire le cause della malaria;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Nostro Primo Ministro e Ministro Segretario
 
 ## Art. 1.
 
-La Commissione di vigilanza sul servizio del chinino di Stato, di cui all'[art. 171 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_171) 1° agosto 1907, n. 636, e' soppressa. 
+La Commissione di vigilanza sul servizio del chinino di Stato, di cui all'[art. 171 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' soppressa. 
  
  I prezzi dei sali di chinino per lo spaccio al pubblico e quelli di favore per la vendita agli enti pubblici e privati, che ne fanno la gratuita distribuzione, a norma e per gli effetti delle disposizioni di legge contro la malaria, sono determinati con decreto del Ministro per le finanze, emesso di accordo col Ministro per l'interno. 
  

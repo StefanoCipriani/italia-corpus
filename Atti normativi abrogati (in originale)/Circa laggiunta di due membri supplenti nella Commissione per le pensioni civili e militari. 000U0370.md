@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 novembre 1895, n. 674](Che%20istituisce%20presso%20il%20Ministero%20di%20Grazia%20e%20Giustizia%20e%20dei%20Culti%20una%20Commissione%20incaricata%20di%20decidere%20sulla%20dispensa%20dal%20servizio%20di%20alcuni%20funzionari%20di%20magistratura.%20095U0674.md), che istituisce presso il Ministero di Grazia e Giustizia e dei Culti una Commissione per l'applicazione del Regolamento approvato con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), per l'esecuzione del testo unico delle leggi sulle pensioni civili e militari;
+Visto il [R. decreto 10 novembre 1895, n. 674](Che%20istituisce%20presso%20il%20Ministero%20di%20Grazia%20e%20Giustizia%20e%20dei%20Culti%20una%20Commissione%20incaricata%20di%20decidere%20sulla%20dispensa%20dal%20servizio%20di%20alcuni%20funzionari%20di%20magistratura.%20095U0674.md), che istituisce presso il Ministero di Grazia e Giustizia e dei Culti una Commissione per l'applicazione del Regolamento approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), per l'esecuzione del testo unico delle leggi sulle pensioni civili e militari;
 
 Ritenuta l'opportunita', che nell'assenza od impedimento del Consigliere o del Sostituto Procuratore Generale di Corte d'appello, nominati rispettivamente dal Primo Presidente e dal Procuratore Generale della Corte d'appello di Roma, possano essere chiamati altri magistrati di egual grado, da nominarsi nelle stesse forme;
 

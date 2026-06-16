@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono abrogati gli articoli 44 e 45 del testo unico della legge elettorale politica, approvata col [R. decreto 24 settembre 1882, n. 999](Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica.%20082U0999.md). 
+Sono abrogati gli articoli 44 e 45 del testo unico della legge elettorale politica, approvata col [R. decreto 24 settembre 1882, n. 999](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica.%20082U0999.md). 
  
  Agli articoli 65, 69, 74, 75, 77, 80 dello stesso testo unico sono rispettivamente sostituiti gli [articoli 65](Legge%20elettorale%20politica.%20082U0593.md), [69](Legge%20elettorale%20politica.%20082U0593.md), [74](Legge%20elettorale%20politica.%20082U0593.md), [75](Legge%20elettorale%20politica.%20082U0593.md), [77](Legge%20elettorale%20politica.%20082U0593.md), [80 della legge 22 gennaio 1882, n. 593](Legge%20elettorale%20politica.%20082U0593.md).
 

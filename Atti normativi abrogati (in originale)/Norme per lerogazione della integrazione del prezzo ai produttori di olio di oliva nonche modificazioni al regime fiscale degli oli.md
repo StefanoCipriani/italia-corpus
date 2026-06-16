@@ -81,8 +81,8 @@ E' fatto obbligo a tutti gli esercenti stabilimenti di molitura delle olive di t
 
 Per l'esecuzione dei compiti ad essa affidati con il presente decreto l'Azienda di Stato per gli interventi nel mercato agricolo si avvale degli ispettorati provinciali dell'alimentazione.
  A tale scopo, i suddetti ispettorati provvedono ad espletare i servizi necessari ad assicurare l'esatta applicazione delle norme del presente decreto.
- Il capo dell'ispettorato provinciale dell'alimentazione dispone il pagamento dell'integrazione di prezzo spettante agli aventi diritto, con ordinativi su aperture di credito disposte a suo favore dall'azienda di Stato per gli interventi nel mercato agricolo, anche in deroga ai limiti stabiliti dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
- I rendiconti sugli ordini di accreditamento di cui al precedente comma sono resi, con le modalita' indicate all'[art. 60 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60), dal capo dell'ispettorato predetto e sono soggetti al controllo successivo delle Ragionerie regionali dello Stato e delle Delegazioni della Corte dei conti competenti per territorio.
+ Il capo dell'ispettorato provinciale dell'alimentazione dispone il pagamento dell'integrazione di prezzo spettante agli aventi diritto, con ordinativi su aperture di credito disposte a suo favore dall'azienda di Stato per gli interventi nel mercato agricolo, anche in deroga ai limiti stabiliti dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
+ I rendiconti sugli ordini di accreditamento di cui al precedente comma sono resi, con le modalita' indicate all'[art. 60 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), dal capo dell'ispettorato predetto e sono soggetti al controllo successivo delle Ragionerie regionali dello Stato e delle Delegazioni della Corte dei conti competenti per territorio.
 
 ## Art. 7.
 
@@ -125,7 +125,7 @@ verranno stabilite dal Ministero dell'agricoltura e delle foreste, d'intesa con 
 
 Chiunque nelle denunce, dichiarazioni o atti equipollenti previsti dagli articoli 3, primo comma, 4, 11 e 14 del presente decreto, espone scientemente dati o notizie inesatti relativi ai prodotti per i quali il presente decreto prevede integrazione di prezzo o indennizzi, e' punito, ove il fatto non costituisca piu' grave reato, con la reclusione da un mese a quattro anni e con la multa da lire cinquantamila a lire tre milioni.
  La stessa pena si applica a chiunque faccia scientemente uso delle denunce, dichiarazioni o atti contenenti i dati o notizie inesatti, di cui al comma precedente, sempre che il fatto non costituisca piu' grave reato.
- Le pene previste per il reato di cui all'[art. 640 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono aumentate di un terzo quando il reato e' commesso al fine di ottenere integrazioni o indennizzi di cui al presente decreto non dovuti o in misura superiore a quella dovuta.
+ Le pene previste per il reato di cui all'[art. 640 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono aumentate di un terzo quando il reato e' commesso al fine di ottenere integrazioni o indennizzi di cui al presente decreto non dovuti o in misura superiore a quella dovuta.
 
 ## Art. 13.
 
@@ -265,7 +265,7 @@ Le controversie sulla qualificazione dei prodotti, agli effetti del presente dec
 
 ## Art. 31.
 
-Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con la procedura esecutiva del testo unico, approvato con [regio decreto 14 aprile 1910, numero 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con la procedura esecutiva del testo unico, approvato con [regio decreto 14 aprile 1910, numero 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 32.
 
@@ -282,7 +282,7 @@ Chiunque trasporta o fa trasportare i prodotti di cui ai precedenti articoli 17,
 
 ## Art. 35.
 
-Chiunque manomette o altera in qualsiasi modo i congegni, i bolli o i sigilli posti dall'Amministrazione finanziaria e' punito a termine dell'[articolo 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque manomette o altera in qualsiasi modo i congegni, i bolli o i sigilli posti dall'Amministrazione finanziaria e' punito a termine dell'[articolo 349 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 36.
 
@@ -302,7 +302,7 @@ L'omessa o irregolare tenuta dei registri di cui allo articolo 5 e' punita con l
 
 ## Art. 39.
 
-Le disposizioni di cui agli articoli 12, 34, 36, 37, 38 e 47 del presente decreto per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle sue successive modificazioni.
+Le disposizioni di cui agli articoli 12, 34, 36, 37, 38 e 47 del presente decreto per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in deroga agli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle sue successive modificazioni.
 
 ## Art. 40.
 

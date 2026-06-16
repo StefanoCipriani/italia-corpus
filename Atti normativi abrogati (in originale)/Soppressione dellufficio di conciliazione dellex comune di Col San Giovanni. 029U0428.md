@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 8 settembre 1927, n. 1788](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-08;1788), col quale il comune di Col San Giovanni e' stato soppresso, ed il relativo territorio aggregato a quello di Viu'; 
+ Visto il [R. decreto 8 settembre 1927, n. 1788](../Regi%20decreti/Unione%20del%20comune%20di%20Col%20San%20Giovanni%20a%20quello%20di%20Viu.%20027U1788.md), col quale il comune di Col San Giovanni e' stato soppresso, ed il relativo territorio aggregato a quello di Viu'; 
  
  Vista la deliberazione del commissario prefettizio di Viu', rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Col San Giovanni; 
  

@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Visto il [R. decreto 21 marzo 1929, n. 371](Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md);
+Visto il [R. decreto 21 marzo 1929, n. 371](../Regi%20decreti/Norme%20integrative%20ed%20esecutive%20del%20R.%20decreto-legge%2017%20agosto%201928%20n.%201953%20sullo%20stato%20giuridico%20ed%20economico%20dei%20segretari%20comunali.%20029U0371.md);
 
 Vista la [legge 27 giugno 1942, n. 851](Modificazioni%20al%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%203%20marzo%201934-XII%20n.%20383%20concernenti%20il%20nuovo%20stato%20giuridico%20dei%20segretari%20comunali%20e%20provinciali.%20042U0851.md);
 

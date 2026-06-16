@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 12 maggio 1938, n. 794](Norme%20per%20laccertamento%20delle%20trasgressioni%20in%20materia%20valutaria%20e%20di%20scambi%20con%20lestero.%20038U0794.md), Convertito nella [legge 9 gennaio 1939, n. 380](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20maggio%201938-XVI%20n.%20794%20recante%20norme%20per%20laccertamento%20delle%20trasgressioni%20in%20materia%20valutaria%20e%20di%20scambi%20con%20lestero.%20039U0380.md), concernente la disciplina delle funzioni di vigilanza e di controllo in materia valutaria;
 
-Visto il [regio decreto 2 giugno 1944, n. 150](Soppressione%20del%20Ministero%20per%20gli%20Scambi%20e%20le%20Valute%20e%20ripartizione%20delle%20attribuzioni%20e%20servizi%20relativi%20fra%20i%20Ministeri%20delle%20Finanze%20e%20dellIndustria%20del%20Commercio%20e%20del%20Lavoro.%20044U0150.md), concernente la soppressione del Ministero per gli scambi e per le valute;
+Visto il [regio decreto 2 giugno 1944, n. 150](../Regi%20decreti/Soppressione%20del%20Ministero%20per%20gli%20Scambi%20e%20le%20Valute%20e%20ripartizione%20delle%20attribuzioni%20e%20servizi%20relativi%20fra%20i%20Ministeri%20delle%20Finanze%20e%20dellIndustria%20del%20Commercio%20e%20del%20Lavoro.%20044U0150.md), concernente la soppressione del Ministero per gli scambi e per le valute;
 
 Visto il [decreto legislativo luogotenenziale 5 ottobre 1944, n. 310](../Decreti%20legislativi%20luogotenenziali/Ripartizione%20dei%20servizi%20e%20del%20personale%20del%20soppresso%20Ministero%20per%20gli%20scambi%20e%20per%20le%20valute.%20044U0310.md), che trasferisce al Ministero del tesoro i servizi valutari gia' di competenza del Ministero per gli scambi e per le valute;
 

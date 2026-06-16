@@ -37,7 +37,7 @@ Contro il provvedimento che pronuncia sulla opposizione non e' ammesso alcun gra
 
 ## Art. 4.
 
-Nel caso di inadempimento, si applicano le penalita' stabilite dall'[art. 52 del R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_52). 
+Nel caso di inadempimento, si applicano le penalita' stabilite dall'[art. 52 del R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md). 
  
  Nel caso di recidiva, il Ministro per l'economia nazionale puo' pronunciare, a carico dell'esercente, la decadenza della concessione, nei modi prescritti dagli articoli 40 e 41 del Regio decreto suddetto. 
  

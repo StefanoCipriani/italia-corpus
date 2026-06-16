@@ -40,7 +40,7 @@ Fino al 31 dicembre dell'anno successivo alla dichiarazione di cessazione dello 
  
  Le attribuzioni della Commissione provinciale indicate nel primo comma sono esercitate da una Sezione speciale presiedute da un magistrato e costituita da quattro membri effettivi nominati del Ministro per le finanze, di cui un rappresentante dell'Amministrazione del tesoro proposto dal Ministero del tesoro, un agente di cambio designato dall'Associazione nazionale degli agenti di cambio, un esperto proposto dall'Amministrazione delle finanze ed un esperto designato dall'Associazione fra le societa' italiane per azioni. 
  
- Fanno parte della stessa Sezione quattro membri supplenti designati e nominati come per i membri effettivi. Per il funzionamento Commissione provinciale e le decisioni nella materia di cui al presente articolo, si osservano le disposizioni di cui al [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), e [R. decreto 8 luglio 1937, n. 1516](Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md). 
+ Fanno parte della stessa Sezione quattro membri supplenti designati e nominati come per i membri effettivi. Per il funzionamento Commissione provinciale e le decisioni nella materia di cui al presente articolo, si osservano le disposizioni di cui al [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), e [R. decreto 8 luglio 1937, n. 1516](../Regi%20decreti/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md). 
  
  La disposizione del primo comma si applica anche per la definizione dei ricorsi presentati al Collegio peritale e non decisi anteriormente all'entrata in vigore del presente decreto.
 
@@ -82,7 +82,7 @@ Il Ministero delle finanze puo' concedere per un termine non maggiore di quattro
  
  Il debitore che ritarda il pagamento anche di una sola rata oltre venti giorni dalla scadenza, decade dal beneficio della dilazione ed e' obbligato a pagare in unica soluzione le rate residue, coi relativi interessi maturati, e con la sopratassa di tardivo pagamento sull'ammontare dell'imposta ancora dovuta. 
  
- L'atto di sottomissione e garanzia per la dilazione e' soggetto all'imposta fissa di cui all'art. 25 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo della legge di registro ed e' esente dalla tassa di bollo e dalla imposta ipotecaria.
+ L'atto di sottomissione e garanzia per la dilazione e' soggetto all'imposta fissa di cui all'art. 25 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo della legge di registro ed e' esente dalla tassa di bollo e dalla imposta ipotecaria.
 
 ### Art. 7.
 
@@ -96,7 +96,7 @@ La sovrimposta di negoziazione dovuta per le cessioni di titoli azionari, compre
 
 ### Art. 8.
 
-Le aliquote di tassa sui contratti di borsa stabilite dall'[art. 2 del R. decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), che approva il testo della legge delle tasse sui contratti di borsa e dal [R. decreto-legge 26 settembre 1935, n. 1749](Provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20035U1749.md), allegato H, sono determinate nelle misure di cui alla tabella allegata al presente decreto, vista, d'ordine Nostro, dal Ministro per le finanze.
+Le aliquote di tassa sui contratti di borsa stabilite dall'[art. 2 del R. decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), che approva il testo della legge delle tasse sui contratti di borsa e dal [R. decreto-legge 26 settembre 1935, n. 1749](Provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20035U1749.md), allegato H, sono determinate nelle misure di cui alla tabella allegata al presente decreto, vista, d'ordine Nostro, dal Ministro per le finanze.
 
 ### Art. 9.
 

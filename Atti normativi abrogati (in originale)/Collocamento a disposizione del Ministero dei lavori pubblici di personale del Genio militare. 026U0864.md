@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 15 ottobre 1925, n. 1934](Trasferimento%20allAmminist
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), recante l'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato e successive modificazioni;
 
 Visto il [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), contenente disposizioni sulla posizione dei funzionari fuori ruolo;
 
@@ -116,15 +116,15 @@ In corrispondenza delle riduzioni effettuate nei ruoli organici dei ragionieri g
 
 ## Art. 5.
 
-Agli impiegati del Genio militare di cui all'art. 1 del presente decreto, le punizioni disciplinari della censura e della riduzione dello stipendio, di cui agli [articoli 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_58) e [59 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_59), saranno inflitte dai competenti capi di ufficio del Genio civile e sui ricorsi contro tali punizioni provvedera' il Ministro per la guerra su motivata proposta, della Commissione di disciplina del Ministero della guerra. In tal caso, e tutte le volte che uno degli impiegati anzidetti sia sottoposto a procedimento disciplinare, sara' chiamato a far parte della Commissione di disciplina un funzionario dei Lavori pubblici, di grado non inferiore al 6°, da designarsi ogni anno dal Ministro per i lavori pubblici.
+Agli impiegati del Genio militare di cui all'art. 1 del presente decreto, le punizioni disciplinari della censura e della riduzione dello stipendio, di cui agli [articoli 58](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [59 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), saranno inflitte dai competenti capi di ufficio del Genio civile e sui ricorsi contro tali punizioni provvedera' il Ministro per la guerra su motivata proposta, della Commissione di disciplina del Ministero della guerra. In tal caso, e tutte le volte che uno degli impiegati anzidetti sia sottoposto a procedimento disciplinare, sara' chiamato a far parte della Commissione di disciplina un funzionario dei Lavori pubblici, di grado non inferiore al 6°, da designarsi ogni anno dal Ministro per i lavori pubblici.
 
 ## Art. 6.
 
-La proroga del congedo di cui al [comma 2° dell'art. 95 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_95-com2), sara', per quanto riguarda il personale di cui trattasi, concessa con provvedimento del Ministro per i lavori pubblici.
+La proroga del congedo di cui al [comma 2° dell'art. 95 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sara', per quanto riguarda il personale di cui trattasi, concessa con provvedimento del Ministro per i lavori pubblici.
 
 ## Art. 7.
 
-Le note di qualifica di cui all'[art. 12 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_12), saranno, pel detto personale, compilate a cura dell'Amministrazione dei lavori pubblici, che decidera', a termini dell'articolo stesso, in merito ai ricorsi contro le dette note. 
+Le note di qualifica di cui all'[art. 12 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), saranno, pel detto personale, compilate a cura dell'Amministrazione dei lavori pubblici, che decidera', a termini dell'articolo stesso, in merito ai ricorsi contro le dette note. 
  
  Un esemplare delle note di qualifica sara' trasmessa al Ministero della guerra da quello dei lavori pubblici, che dovra' altresi' dare comunicazione dell'esito dei ricorsi stessi. 
  

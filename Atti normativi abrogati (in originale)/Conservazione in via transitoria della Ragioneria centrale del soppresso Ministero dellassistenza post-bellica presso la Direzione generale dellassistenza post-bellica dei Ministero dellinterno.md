@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), concernente le ragionerie delle Amministrazioni centrali e successive disposizioni;
+Visto il [regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), concernente le ragionerie delle Amministrazioni centrali e successive disposizioni;
 
 Visto il [decreto del Capo provvisorio dello Stato in data 22 luglio 1947, n. 808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-22;808), con il quale viene istituita la Direzione generale dell'assistenza post-bellica presso il Ministero dell' interno;
 

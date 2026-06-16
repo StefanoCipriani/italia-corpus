@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md);
+Visto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md);
 
-Visto il [R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md);
+Visto il [R. decreto 31 ottobre 1923, n. 2492](../Regi%20decreti/Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Su proposta del Ministro Segretario di Stato per l'economia nazionale di concert
 
 ## Art. 1.
 
-Il Regio istituto superiore di medicina veterinaria di Parma, soppresso in virtu' dell'[art. 4 del R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), e' ripristinato dalla data del presente decreto, come istituto superiore alla dipendenza del Ministero dell'economia nazionale.
+Il Regio istituto superiore di medicina veterinaria di Parma, soppresso in virtu' dell'[art. 4 del R. decreto 31 ottobre 1923, n. 2492](../Regi%20decreti/Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md), e' ripristinato dalla data del presente decreto, come istituto superiore alla dipendenza del Ministero dell'economia nazionale.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Per il funzionamento del predetto Istituto, lo Stato assegna il contributo di an
 
 ## Art. 3.
 
-Il Regio istituto superiore di medicina veterinaria di Parma concorrera' al riparto del personale di cui agli [articoli 6](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md) e [10 del R. decreto 31 ottobre 1923, n. 2492](Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md).
+Il Regio istituto superiore di medicina veterinaria di Parma concorrera' al riparto del personale di cui agli [articoli 6](../Regi%20decreti/Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md) e [10 del R. decreto 31 ottobre 1923, n. 2492](../Regi%20decreti/Provvedimenti%20per%20gli%20istituti%20superiori%20agrari%20di%20medicina%20veterinaria%20e%20di%20scienze%20economiche%20e%20commerciali.%20023U2492.md).
 
 ## Art. 4.
 

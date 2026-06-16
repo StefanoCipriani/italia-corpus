@@ -41,7 +41,7 @@ Per gli scopi di cui all'[articolo 20 della legge 24 luglio 1962, n. 1073](https
 
 ## Art. 5. — Contributi alle Casse scolastiche della scuola media
 
-Per gli scopi di cui all'[articolo 102 del regio decreto 30 aprile 1924, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-30;965#art_102), nello stato di previsione della spesa del Ministero della pubblica istruzione per l'anno finanziario 1965 sono iscritte lire 100 milioni.
+Per gli scopi di cui all'[articolo 102 del regio decreto 30 aprile 1924, n. 965](../Regi%20decreti/Ordinamento%20interno%20delle%20Giunte%20e%20dei%20Regi%20istituti%20di%20istruzione%20media.%20024U0965.md), nello stato di previsione della spesa del Ministero della pubblica istruzione per l'anno finanziario 1965 sono iscritte lire 100 milioni.
  La ripartizione degli stanziamenti di cui al primo comma tra le scuole medie delle singole Province istituite ai sensi della legge 31 dicembre 196 C, n. 1859, e' disposta dal Ministro per la pubblica istruzione in base al numero degli alunni frequentanti le scuole stesse e alla valutazione delle condizioni economico-sociali delle Province medesime.
 
 ## Art. 6. — Contributi alle opere universitarie

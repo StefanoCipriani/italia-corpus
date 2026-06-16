@@ -22,7 +22,7 @@ Gli operai e le operaie delle Manifatture dei tabacchi, che si trovavano in serv
 
 Il tempo di servizio utile per la pensione e' rappresentato dalla somma dei successivi periodi di servizio prestato sotto qualsiasi forma e classifica, computando anche le assenze per malattia ed i servizi prestati alla soppressa azienda privata dei sughi di tabacco. 
  
- Nella determinazione della durata del servizio utile per la pensione saranno computati i servizi militari, ed i servizi civili prestati presso altre Amministrazioni dello, Stato, nonche' le campagne di guerra a norma dell'articolo 64 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+ Nella determinazione della durata del servizio utile per la pensione saranno computati i servizi militari, ed i servizi civili prestati presso altre Amministrazioni dello, Stato, nonche' le campagne di guerra a norma dell'articolo 64 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Gli operai ed operaie, provenienti dall'industria privata dei tabacchi in Sicilia, allorquando raggiungano i limiti di eta' stabiliti al comma a, dell'articolo 1, saranno considerati, agli effetti del servizio utile per la pensione, come ammessi in servizio del monopolio dei tabacchi all'eta' di 18 anni se uomini e di 15 anni se donne, sempre quando possano provare in modo non dubbio questa loro provenienza. 
  
@@ -34,7 +34,7 @@ Il tempo di servizio utile per la pensione e' rappresentato dalla somma dei succ
 
 La pensione annua dell'operaio che abbia raggiunti 25 anni di servizio sara' liquidata in base alla mercede media giornaliera dell'ultimo decennio esclusi i due anni di minima mercede, moltiplicata per 150. Questo moltiplicatore sara' aumentato di tre unita' per ogni anno di servizio oltre il 25 fino ai 45, e di sei unita' per ogni anno oltre i 45. 
  
- In nessun caso la pensione delle operaie potra' essere inferiore a L. 300 annue, e quella degli operai a L. 480, e sara' sempre equiparata, per gli effetti della esenzione dall'imposta sui redditi di ricchezza mobile, alle rendite vitalizie liquidate dalla Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai a norma del disposto dell'articolo 24 del testo unico di legge sulla Cassa stessa approvato col [R. decreto 28 luglio 1901, n. 387](Approvante%20il%20Testo%20unico%20della%20legge%20sulla%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20001U0387.md).
+ In nessun caso la pensione delle operaie potra' essere inferiore a L. 300 annue, e quella degli operai a L. 480, e sara' sempre equiparata, per gli effetti della esenzione dall'imposta sui redditi di ricchezza mobile, alle rendite vitalizie liquidate dalla Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai a norma del disposto dell'articolo 24 del testo unico di legge sulla Cassa stessa approvato col [R. decreto 28 luglio 1901, n. 387](../Regi%20decreti/Approvante%20il%20Testo%20unico%20della%20legge%20sulla%20Cassa%20Nazionale%20di%20previdenza%20per%20la%20invalidita%20e%20per%20la%20vecchiaia%20degli%20operai.%20001U0387.md).
 
 ## Art. 4.
 

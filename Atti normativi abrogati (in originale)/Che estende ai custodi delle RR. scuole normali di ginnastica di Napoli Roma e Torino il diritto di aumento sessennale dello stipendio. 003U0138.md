@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Veduta la [legge 23 dicembre 1888, n. 5885](Che%20istituisce%20in%20Roma%20una%20scuola%20normale%20di%20ginnastica%20educativa.%20088U5885.md), serie 3ª, che istituisce la R. Scuola normale di ginnastica di Roma; 
  
- Veduto il [R. decreto 13 novembre 1890, n. 7344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-11-13;7344), che istituisce nelle citta' di Napoli e di Torino una R. Scuola normale femminile di ginnastica; 
+ Veduto il [R. decreto 13 novembre 1890, n. 7344](../Regi%20decreti/Che%20istituisce%20nelle%20citta%20di%20Napoli%20e%20di%20Torino%20una%20Regia%20scuola%20normale%20femminile%20di%20ginnastica%20e%20stabilisce%20il%20personale%20secondo%20lannessa%20tabella.%20090U7344.md), che istituisce nelle citta' di Napoli e di Torino una R. Scuola normale femminile di ginnastica; 
  
  Veduto il [R. decreto 4 gennaio 1897, n. 21](Che%20autorizza%20la%20camera%20di%20commercio%20ed%20arti%20di%20Lucca%20ad%20imporre%20unannua%20tassa%20sugli%20esercenti%20industrie%20e%20commerci%20del%20proprio%20distretto.%209700021R.md), col quale venne riconosciuto agli insegnanti effettivi di ginnastica il diritto all'aumento del decimo dello stipendio per compiuto sessennio; 
  

@@ -123,7 +123,7 @@ L'applicazione delle sanzioni di cui all'[art. 13 della legge 23 giugno 1927, n.
 
 ## Art. 10.
 
-Sono estese alle esportazioni previste dal presente decreto, in quanto applicabili, tutte le disposizioni contenute nella [legge 23 giugno 1927, n. 1272](Provvedimento%20relativo%20alla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortifrutticoli%20diretti%20allestero.%20027U1272.md), nel [R. decreto-legge 12 agosto 1927, n. 1756](Norme%20integrative%20della%20legge%2023%20giugno%201927%20n.%201272%20sulla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortofrutticoli%20diretti%20allestero.%20027U1756.md), e nel regolamento approvato con [R. decreto 17 novembre 1927, n. 2172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-17;2172).
+Sono estese alle esportazioni previste dal presente decreto, in quanto applicabili, tutte le disposizioni contenute nella [legge 23 giugno 1927, n. 1272](Provvedimento%20relativo%20alla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortifrutticoli%20diretti%20allestero.%20027U1272.md), nel [R. decreto-legge 12 agosto 1927, n. 1756](Norme%20integrative%20della%20legge%2023%20giugno%201927%20n.%201272%20sulla%20istituzione%20di%20un%20marchio%20nazionale%20per%20i%20prodotti%20ortofrutticoli%20diretti%20allestero.%20027U1756.md), e nel regolamento approvato con [R. decreto 17 novembre 1927, n. 2172](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201272%20e%20del%20R.%20decreto-legge%2012%20agosto%201927%20n.%201756%20sul%20marchio%20nazionale%20di%20esportazione%20per%20i%20prodotti%20ortofrut_cbacc01e9945.md).
 
 ## Art. 11.
 

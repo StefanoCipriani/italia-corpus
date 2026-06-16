@@ -18,9 +18,9 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto-legge 25 agosto 1919, n. 1859](Che%20costituisce%20in%20Roma%20un%20Ente%20autonomo%20denominato%20Stabilimento%20poligrafico%20per%20lAmministrazione%20della%20guerra%20e%20ne%20approva%20il%20Regolamento%20relativo.%20019U1859.md), convertito in [legge il 18 giugno 1922, n. 1012](Che%20converte%20in%20legge%20il%20R.%20decreto%2025%20agosto%201919%20n.%201859%20che%20istituisce%20in%20Roma%20un%20Ente%20autonomo%20denominato%20Stabilimento%20poligrafico%20per%20lAmministrazione%20della%20guerra%20e%20ne%20approva%20il%20re_2c180db6e152.md); 
  
- Visto il [R. decreto 6 giugno 1923, n. 1186](Che%20scioglie%20il%20Consiglio%20di%20amministrazione%20dello%20Stabilimento%20poligrafico%20per%20la%20Amministrazione%20della%20guerra.%20023U1186.md); 
+ Visto il [R. decreto 6 giugno 1923, n. 1186](../Regi%20decreti/Che%20scioglie%20il%20Consiglio%20di%20amministrazione%20dello%20Stabilimento%20poligrafico%20per%20la%20Amministrazione%20della%20guerra.%20023U1186.md); 
  
- Visto il [R. decreto 24 settembre 1923, n. 2164](Passaggio%20dello%20Stabilimento%20Poligrafico%20per%20lAmministrazione%20della%20Guerra%20alla%20diretta%20dipendenza%20del%20Ministero%20delle%20finanze%20Provveditorato%20generale%20dello%20Stato%20con%20la%20denominazione%20di%20_ed72b01b145e.md); 
+ Visto il [R. decreto 24 settembre 1923, n. 2164](../Regi%20decreti/Passaggio%20dello%20Stabilimento%20Poligrafico%20per%20lAmministrazione%20della%20Guerra%20alla%20diretta%20dipendenza%20del%20Ministero%20delle%20finanze%20Provveditorato%20generale%20dello%20Stato%20con%20la%20denominazione%20di%20_ed72b01b145e.md); 
  
  Riconosciuta la opportunita' di introdurre alcune varianti allo statuto dello Stabilimento poligrafico per l'Amministrazione dello Stato al fine di rendere il funzionamento del detto Ente piu' rispondente ai bisogni dell'Amministrazione pur conservandone la gestione a carattere prettamente industriale; 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  E' approvato l'unito statuto dello Stabilimento poligrafico per l'Amministrazione dello Stato, visto, d'ordine Nostro, dal Ministro per le finanze. 
  
- Lo statuto stesso entra in vigore dal giorno della pubblicazione del presente decreto nella Gazzetta Ufficiale ed a decorrere dalla data stessa e' abrogato lo statuto approvato con [R. decreto 24 settembre 1923, n. 2164](Passaggio%20dello%20Stabilimento%20Poligrafico%20per%20lAmministrazione%20della%20Guerra%20alla%20diretta%20dipendenza%20del%20Ministero%20delle%20finanze%20Provveditorato%20generale%20dello%20Stato%20con%20la%20denominazione%20di%20_ed72b01b145e.md). 
+ Lo statuto stesso entra in vigore dal giorno della pubblicazione del presente decreto nella Gazzetta Ufficiale ed a decorrere dalla data stessa e' abrogato lo statuto approvato con [R. decreto 24 settembre 1923, n. 2164](../Regi%20decreti/Passaggio%20dello%20Stabilimento%20Poligrafico%20per%20lAmministrazione%20della%20Guerra%20alla%20diretta%20dipendenza%20del%20Ministero%20delle%20finanze%20Provveditorato%20generale%20dello%20Stato%20con%20la%20denominazione%20di%20_ed72b01b145e.md). 
  
  Il bilancio del detto Ente, relativo all'esercizio 1924-25, verra' redatto in conformita' delle norme fissate dallo statuto approvato col presente decreto-legge. 
  

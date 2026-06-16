@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La Cassa di previdenza per il personale dell'Istituto nazionale L.U.C.E. eretta in corpo morale con il [R. decreto 1° maggio 1930, n. 632](Riconoscimento%20giuridico%20della%20Cassa%20di%20previdenza%20del%20personale%20dellIstituto%20nazionale%20L.U.C.E.%20con%20sede%20in%20Roma.%20030U0632.md), e' sciolta. 
+La Cassa di previdenza per il personale dell'Istituto nazionale L.U.C.E. eretta in corpo morale con il [R. decreto 1° maggio 1930, n. 632](../Regi%20decreti/Riconoscimento%20giuridico%20della%20Cassa%20di%20previdenza%20del%20personale%20dellIstituto%20nazionale%20L.U.C.E.%20con%20sede%20in%20Roma.%20030U0632.md), e' sciolta. 
  
  La chiusura della gestione sara' fatta sotto la data del 13 dicembre 1934. 
  

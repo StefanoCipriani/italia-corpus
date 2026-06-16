@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto 23 settembre 1910, n. 926](Che%20approva%20lannesso%20regolamento%20riguardante%20il%20balipedio%20di%20Viareggio.%20010U0926.md), che approva il regolamento per il Balipedio di Viareggio;
 
-Visto il [R. decreto 20 marzo 1921, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-03-20;352), che assegna al Balipedio di Viareggio il nome di «Gregorio Ronca»;
+Visto il [R. decreto 20 marzo 1921, n. 352](../Regi%20decreti/Che%20assegna%20rispettivamente%20il%20nome%20di%20Balipedio%20Paolo%20Cottrau%20e%20Balipedio%20Gregorio%20Ronca%20ai%20balipedi%20della%20R.%20marina%20situati%20nella%20localita%20la%20Castagna%20presso%20Spezia%20ed%20a%20Viareggio.%20021U0352.md), che assegna al Balipedio di Viareggio il nome di «Gregorio Ronca»;
 
 Visto il [R. decreto 30 giugno 1921, n. 1123](Che%20approva%20lordinamento%20della%20Commissione%20permanente%20per%20gli%20esperimenti%20del%20materiale%20da%20guerra.%20021U1123.md), che approva l'ordinamento della Commissione permanente per gli esperimenti del materiale da guerra, modificato dai [Regi decreti 15 agosto 1924, n. 1278](Modifica%20al%201%20e%202%20comma%20dellart.%201%20del%20decreto%2030%20giugno%201921%20n.%201123%20che%20stabilisce%20lordinamento%20della%20Commissione%20permanente%20per%20gli%20esperimenti%20del%20materiale%20da%20guerra.%20024U1278.md), e [14 febbraio 1926, n. 436](Ordinamento%20della%20Commissione%20permanente%20per%20gli%20esperimenti%20del%20materiale%20da%20guerra.%20026U0436.md);
 

@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), per il riordinamento dell'insegnamento industriale;
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), per il riordinamento dell'insegnamento industriale;
 
 Visto il [R. decreto 3 giugno 1924, n. 869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-03;869), che approva il regolamento per l'applicazione del Regio decreto anzidetto;
 
-Visto il [R. decreto 17 aprile 1924, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-17;632), concernente la istituzione in Gorizia di una scuola industriale;
+Visto il [R. decreto 17 aprile 1924, n. 632](../Regi%20decreti/Istituzione%20di%20una%20scuola%20di%20istruzione%20professionale%20in%20Gorizia.%20024U0632.md), concernente la istituzione in Gorizia di una scuola industriale;
 
 Visto il decreto Ministeriale 7 marzo 1924 registrato alla Corte dei conti il 15 detto, reg. n. 3, fog. n. 219, con il quale la Scuola industriale di Gorizia viene riconosciuta quale Regia scuola industriale alle dipendenze del Ministero dell'economia nazionale;
 

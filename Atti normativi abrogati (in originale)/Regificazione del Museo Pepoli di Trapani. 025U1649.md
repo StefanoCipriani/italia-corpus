@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164);
+Visto il [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Il Museo Pepoli di Trapani e' convertito in Regio e prende il titolo di Regio Mu
 
 ## Art. 3.
 
-I ruoli del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita' stabiliti con le tabelle A e B annesse al [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), sono aumentati di un posto di direttore (gruppo A, grado 7°), di un posto di segretario (gruppo B, grado 10°) e di un posto di custode. 
+I ruoli del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita' stabiliti con le tabelle A e B annesse al [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), sono aumentati di un posto di direttore (gruppo A, grado 7°), di un posto di segretario (gruppo B, grado 10°) e di un posto di custode. 
  
  Il posto di direttore sara' conferito all'attuale direttore del Museo Pepoli con decorrenza, a tutti gli effetti, dalla data di entrata in vigore dell'annessa convenzione. 
  

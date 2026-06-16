@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 63 primo](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md) e [secondo comma del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), relativo alla concessione del gettone giornaliero di presenza ai componenti di commissioni, consigli, comitati o altri collegi comunque denominati;
+Visto l'[art. 63 primo](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md) e [secondo comma del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), relativo alla concessione del gettone giornaliero di presenza ai componenti di commissioni, consigli, comitati o altri collegi comunque denominati;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Le misure dei gettoni di presenza di lire cinquanta e di lire venticinque previste, rispettivamente dal primo e dal [secondo comma dell'art. 63 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), per gli estranei alle Amministrazioni dello Stato e per gli impiegati delle Amministrazioni stesse chiamati a far parte di commissioni, consigli, comitati e collegi comunque denominati, vengono maggiorate del 100 per cento. 
+Le misure dei gettoni di presenza di lire cinquanta e di lire venticinque previste, rispettivamente dal primo e dal [secondo comma dell'art. 63 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), per gli estranei alle Amministrazioni dello Stato e per gli impiegati delle Amministrazioni stesse chiamati a far parte di commissioni, consigli, comitati e collegi comunque denominati, vengono maggiorate del 100 per cento. 
  
  Sui gettoni medesimi sono soppresse le riduzioni di cui ai [R. decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [16 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-16;561).
 

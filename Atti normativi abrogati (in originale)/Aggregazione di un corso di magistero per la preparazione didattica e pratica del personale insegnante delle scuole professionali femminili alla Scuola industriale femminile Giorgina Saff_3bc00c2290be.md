@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e [3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), concernenti rispettivamente la legge e il regolamento nelle scuole industriali;
+Visti i [Regi decreti 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e [3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), concernenti rispettivamente la legge e il regolamento nelle scuole industriali;
 
 Visto il [R. decreto 28 maggio 1925, n. 1074](Riordinamento%20della%20Regia%20scuola%20industriale%20femminile%20%20Giorgina%20Saffi%20%20in%20Forli.%20025U1074.md), concernente il riordinamento della Regia scuola industriale femminile «Giorgina Saffi» in Forli';
 

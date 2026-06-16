@@ -109,7 +109,7 @@ L'ultimo comma dell'[art. 38 del decreto legislativo del Capo provvisorio dello 
 
 ## Art. 9.
 
-Le disposizioni di cui ai precedenti articoli 6 e 7 per quanto concerne la misura delle pene della multa e dell'ammenda sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
+Le disposizioni di cui ai precedenti articoli 6 e 7 per quanto concerne la misura delle pene della multa e dell'ammenda sono adottate in deroga agli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
 
 ## Art. 10.
 

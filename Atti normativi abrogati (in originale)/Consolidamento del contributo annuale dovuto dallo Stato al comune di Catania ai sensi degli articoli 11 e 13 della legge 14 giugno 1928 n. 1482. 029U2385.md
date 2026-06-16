@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 21 febbraio 1926, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-02-21;374), col quale il comune di San Giovanni di Galermo e' stato aggregato al comune di Catania e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Palermo alla diretta amministrazione del comune autonomo di Catania, a decorrere dal 28 marzo 1926; 
+ Visto il [R. decreto 21 febbraio 1926, n. 374](../Regi%20decreti/Aggregazione%20del%20comune%20di%20San%20Giovanni%20di%20Galermo%20a%20quello%20di%20Catania.%20026U0374.md), col quale il comune di San Giovanni di Galermo e' stato aggregato al comune di Catania e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Palermo alla diretta amministrazione del comune autonomo di Catania, a decorrere dal 28 marzo 1926; 
  
  Visto l'[art. 11 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md), col quale le disposizioni contenute nel n. 3 °e 4° comma dell'art. 1 della stessa legge, per quanto riguarda i concorsi e rimborsi scolastici dovuti dallo Stato ai Comuni che hanno la diretta amministrazione delle scuole elementari, si applicano anche per le scuole amministrate dai Regi provveditorati agli studi nei Comuni aggregati ad altri che abbiano invece la diretta amministrazione delle scuole; 
  

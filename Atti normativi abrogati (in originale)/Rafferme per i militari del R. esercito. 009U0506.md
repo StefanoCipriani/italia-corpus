@@ -80,7 +80,7 @@ Perdono di pieno diritto i benefici della rafferma in corso:
  
  c) i raffermati condannati dai tribunali ordinari per reati di carattere indecoroso; 
  
- d) i raffermati condannati per reati previsti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
+ d) i raffermati condannati per reati previsti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
  
  e) i raffermati che contraggono matrimonio senza autorizzazione. 
  

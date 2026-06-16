@@ -14,7 +14,7 @@ Gli istituti e scuole superiori di commercio di Venezia, Genova, Bari, Roma e To
  
  Gli istituti o scuole superiori di commercio sopra indicati comprendono le sezioni speciali di insegnamenti, di cui per la scuola di Venezia al R. decreto 27 giugno l909, n. 517; per la scuola di Genova al [R. decreto 
  
- 22 maggio 1884, n. 2351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-05-22;2351) (serie 3ª); per la scuola di Bari al R. decreto 23 gennaio 1908, n. CC (parte supplementare); per la scuola di Roma al [R. decreto 28 settembre 1911, n. 1109](Che%20porta%20norme%20sullordinamento%20del%20R.%20Istituto%20superiore%20di%20studi%20commerciali%20e%20amministrativi%20di%20Roma.%20011U1109.md), nella parte che si riferisce alla scuola di studi commerciali, bancari ed attuariali; e per la scuola di Torino al R. decreto 1° ottobre 1906, n. CCCXCII (parte supplementare). 
+ 22 maggio 1884, n. 2351](../Regi%20decreti/Sulla%20istituzione%20di%20una%20Scuola%20superiore%20di%20applicazione%20di%20studi%20commerciali%20in%20Genova.%20084U2351.md) (serie 3ª); per la scuola di Bari al R. decreto 23 gennaio 1908, n. CC (parte supplementare); per la scuola di Roma al [R. decreto 28 settembre 1911, n. 1109](../Regi%20decreti/Che%20porta%20norme%20sullordinamento%20del%20R.%20Istituto%20superiore%20di%20studi%20commerciali%20e%20amministrativi%20di%20Roma.%20011U1109.md), nella parte che si riferisce alla scuola di studi commerciali, bancari ed attuariali; e per la scuola di Torino al R. decreto 1° ottobre 1906, n. CCCXCII (parte supplementare). 
  
  Nessun'altra scuola superiore di commercio od istituto analogo e nessuna nuova sezione nelle scuole esistenti potranno essere creati se non per legge.
 
@@ -232,7 +232,7 @@ La Cassa pensioni, gia' costituita nella Regia scuola superiore di commercio di 
 
 ### Art. 20.
 
-Ai diplomi, alle lauree ed ai certificati di studio rilasciati dalle Regie scuole superiori di commercio, anteriormente alla presente legge e in conformita' dei [Regi decreti in data 24 giugno 1883, n. 1547](Che%20approva%20il%20regolamento%20pel%20conferimento%20dei%20diplomi%20nella%20Regia%20Scuola%20superiore%20di%20commercio%20in%20Venezia.%20083U1547.md), serie 3ª, e 26 novembre 1903, n. 476; 19 gennaio 1905, n. 19 e 15 luglio 1906, n. 391, e' conservato il loro valore equipollente ai titoli di cui all'art. 6.
+Ai diplomi, alle lauree ed ai certificati di studio rilasciati dalle Regie scuole superiori di commercio, anteriormente alla presente legge e in conformita' dei [Regi decreti in data 24 giugno 1883, n. 1547](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20conferimento%20dei%20diplomi%20nella%20Regia%20Scuola%20superiore%20di%20commercio%20in%20Venezia.%20083U1547.md), serie 3ª, e 26 novembre 1903, n. 476; 19 gennaio 1905, n. 19 e 15 luglio 1906, n. 391, e' conservato il loro valore equipollente ai titoli di cui all'art. 6.
 
 ### Art. 21.
 

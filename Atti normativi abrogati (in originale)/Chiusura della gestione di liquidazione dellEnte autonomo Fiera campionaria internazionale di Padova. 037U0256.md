@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visti i [Regi decreti 5 marzo 1924, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-05;356), [5 aprile 1928, n. 934](Modificazione%20dello%20statuto%20dellEnte%20autonomo%20%20Fiera%20campionaria%20internazionale%20di%20Padova%20.%20028U0934.md), e [9 dicembre 1929, n. 2188](Modifiche%20allo%20statuto%20dellEnte%20autonomo%20Fiera%20campionaria%20internazionale%20di%20Padova.%20029U2188.md), relativi all'istituzione e funzionamento dell'Ente autonomo «Fiera campionaria internazionale di Padova»;
+Visti i [Regi decreti 5 marzo 1924, n. 356](../Regi%20decreti/Costituzione%20dellEnte%20autonomo%20Fiera%20campionaria%20di%20Padova%20in%20Padova.%20024U0356.md), [5 aprile 1928, n. 934](Modificazione%20dello%20statuto%20dellEnte%20autonomo%20%20Fiera%20campionaria%20internazionale%20di%20Padova%20.%20028U0934.md), e [9 dicembre 1929, n. 2188](Modifiche%20allo%20statuto%20dellEnte%20autonomo%20Fiera%20campionaria%20internazionale%20di%20Padova.%20029U2188.md), relativi all'istituzione e funzionamento dell'Ente autonomo «Fiera campionaria internazionale di Padova»;
 
 Visto il R. decreto 16 novembre 1933, concernente lo scioglimento dell'amministrazione ordinaria del predetto Ente;
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 27 settembre 1928, n. 2375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-27;2375), col quale i comuni di Coiromonte e di Sovazza sono stati soppressi ed i rispettivi territori aggregati a quello di Armeno; 
+ Visto il [R. decreto 27 settembre 1928, n. 2375](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Armeno%20Coiromonte%20e%20Sovazza%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Armeno.%20028U2375.md), col quale i comuni di Coiromonte e di Sovazza sono stati soppressi ed i rispettivi territori aggregati a quello di Armeno; 
  Vista la deliberazione del podesta' di Armeno rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Coiromonte e di Sovazza; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

@@ -151,7 +151,7 @@ La concessione del trattamento straordinario di integrazione salariale e' dispos
  La proroga del trattamento di cui al precedente comma e' disposta mediante decreto del Ministro del lavoro e della previdenza sociale da adottarsi trimestralmente.
  Nei casi di crisi economiche settoriali o locali o di crisi aziendali la proroga trimestrale e' ammessa nel limite massimo di sei mesi.
  Nei casi di ristrutturazione, riorganizzazione o conversione aziendale la proroga trimestrale e' ammessa nel limite massimo di diciotto mesi, subordinatamente all'accertamento dell'attuazione dei programmi di ristrutturazione, riorganizzazione o conversione aziendale.
- Nei casi di crisi aziendali riguardanti imprese industriali ubicate nelle aree del Mezzogiorno di cui al testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e' ammessa la possibilita' di ulteriori proroghe trimestrali per un massimo di dodici mesi.
+ Nei casi di crisi aziendali riguardanti imprese industriali ubicate nelle aree del Mezzogiorno di cui al testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e' ammessa la possibilita' di ulteriori proroghe trimestrali per un massimo di dodici mesi.
 
 ### Art. 20.
 

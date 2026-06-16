@@ -42,7 +42,7 @@ Nei bilanci dell'Amministrazione dei monopoli di Stato, del Fondo di massa del C
 
 E' aumentata di ulteriori L. 15.887.000 la spesa autorizzata con l'art. 4 della legge 23 maggio 1940-XVIII, n. 542, per provvedere al completamento di opere straordinarie a pagamento non differito. 
  
- E' inoltre aumentato di L. 650.000 il limite di impegno stabilito dall'art. 5, primo comma, della legge medesima; per le annualita' relative alle sovvenzioni previste dal [testo unico sulle acque](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) e sugli impianti e per i contributi a favore di Comuni ed altri Enti interessati per l'edilizia scolastica, gli acquedotti e le opere igieniche e sanitarie.
+ E' inoltre aumentato di L. 650.000 il limite di impegno stabilito dall'art. 5, primo comma, della legge medesima; per le annualita' relative alle sovvenzioni previste dal [testo unico sulle acque](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e sugli impianti e per i contributi a favore di Comuni ed altri Enti interessati per l'edilizia scolastica, gli acquedotti e le opere igieniche e sanitarie.
 
 ## Art. 5.
 

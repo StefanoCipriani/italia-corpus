@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054); 
+ Veduto il [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md); 
  
  Veduto il [R. decreto 26 giugno 1924, n. 1055](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md); 
  

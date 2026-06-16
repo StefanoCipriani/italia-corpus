@@ -18,7 +18,7 @@ A decorrere dal 1° ottobre 1942, vengono istituiti, in aggiunta a quelli gia' e
 
 ## Art. 2.
 
-A decorrere dal 1° ottobre 1942, e' istituita una cattedra di disegno ornamentale tessile nella sezione per tessili e chimici tintori del Regio istituto tecnico industriale di Prato, in aggiunta alle cattedre del corso superiore previste dalla tabella organica approvata con [R. decreto 22 luglio 1939, n. 1530](Modificazioni%20allo%20statuto%20ed%20alla%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Prato.%20039U1530.md). 
+A decorrere dal 1° ottobre 1942, e' istituita una cattedra di disegno ornamentale tessile nella sezione per tessili e chimici tintori del Regio istituto tecnico industriale di Prato, in aggiunta alle cattedre del corso superiore previste dalla tabella organica approvata con [R. decreto 22 luglio 1939, n. 1530](../Regi%20decreti/Modificazioni%20allo%20statuto%20ed%20alla%20tabella%20organica%20del%20Regio%20istituto%20tecnico%20industriale%20di%20Prato.%20039U1530.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto, nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farla osservare. 
  

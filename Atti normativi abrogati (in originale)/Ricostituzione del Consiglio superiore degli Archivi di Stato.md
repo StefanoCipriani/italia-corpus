@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), che approva il regolamento per gli Archivi di Stato;
+Visto il [regio decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), che approva il regolamento per gli Archivi di Stato;
 
 Visto il [regio decreto-legge 20 giugno 1935, n. 1137](Modificazioni%20alle%20norme%20per%20la%20composizione%20e%20per%20le%20attribuzioni%20del%20Consiglio%20per%20gli%20Archivi%20del%20Regno.%20035U1137.md);
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Visto il [decreto Luogotenenziale 6 aprile 1919, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;494), riguardante provvedimenti per l'arma dei carabinieri Reali;
 
@@ -54,7 +54,7 @@ Nel testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, ap
 
 ## Art. 3.
 
-Sono abrogati l'art. 13 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), per quanto concerne i sottufficiali del Regio esercito, l'[art. 13 del decreto Luogotenenziale 6 aprile 1919, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;494#art_13), nella parte concernente il collocamento a riposo d'autorita' dei marescialli maggiori dell'arma del carabinieri Reali, e il primo comma dell'art. 23 della legge 21 giugno 1934-XII, n. 1093. 
+Sono abrogati l'art. 13 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), per quanto concerne i sottufficiali del Regio esercito, l'[art. 13 del decreto Luogotenenziale 6 aprile 1919, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;494#art_13), nella parte concernente il collocamento a riposo d'autorita' dei marescialli maggiori dell'arma del carabinieri Reali, e il primo comma dell'art. 23 della legge 21 giugno 1934-XII, n. 1093. 
  
  Il presente decreto entrera' in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

@@ -78,7 +78,7 @@ Entro sei mesi dalla promulgazione della presente legge, il Regio Commissario tr
 
 ## Art. 12.
 
-E' convertito in legge il [Regio decreto 5 aprile 1896 n. 94](Che%20istituisce%20un%20Regio%20Commissario%20civile%20per%20la%20Sicilia.%20096U0094.md), relativo alla istituzione di un Commissario civile per la Sicilia, e cessa di aver vigore con la promulgazione della presente legge. 
+E' convertito in legge il [Regio decreto 5 aprile 1896 n. 94](../Regi%20decreti/Che%20istituisce%20un%20Regio%20Commissario%20civile%20per%20la%20Sicilia.%20096U0094.md), relativo alla istituzione di un Commissario civile per la Sicilia, e cessa di aver vigore con la promulgazione della presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

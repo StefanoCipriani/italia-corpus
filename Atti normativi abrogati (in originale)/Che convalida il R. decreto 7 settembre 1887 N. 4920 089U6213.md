@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [Regio decreto 7 settembre 1887, N. 4920](Che%20approva%20le%20discipline%20per%20lapplicazione%20della%20tassa%20di%20fabbricazione%20degli%20spiriti%20nelle%20fabbriche%20di%20seconda%20categoria%20agli%20effetti%20della%20legge%2010%20luglio%201887%20numero%204665.%20087U4920.md) (Serie 3ª), per l'applicazione della tassa sugli spiriti prodotti nelle fabbriche di seconda categoria (allegato A).
+E' convertito in legge il [Regio decreto 7 settembre 1887, N. 4920](../Regi%20decreti/Che%20approva%20le%20discipline%20per%20lapplicazione%20della%20tassa%20di%20fabbricazione%20degli%20spiriti%20nelle%20fabbriche%20di%20seconda%20categoria%20agli%20effetti%20della%20legge%2010%20luglio%201887%20numero%204665.%20087U4920.md) (Serie 3ª), per l'applicazione della tassa sugli spiriti prodotti nelle fabbriche di seconda categoria (allegato A).
 
 ## Art. 2.
 
-A partire dal primo settembre 1889, gli articoli 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 e 17 del predetto [Regio decreto 7 settembre 1887, N. 4920](Che%20approva%20le%20discipline%20per%20lapplicazione%20della%20tassa%20di%20fabbricazione%20degli%20spiriti%20nelle%20fabbriche%20di%20seconda%20categoria%20agli%20effetti%20della%20legge%2010%20luglio%201887%20numero%204665.%20087U4920.md) (Serie 3ª), convalidato con la presente legge, saranno sostituiti con gli articoli seguenti: 
+A partire dal primo settembre 1889, gli articoli 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 e 17 del predetto [Regio decreto 7 settembre 1887, N. 4920](../Regi%20decreti/Che%20approva%20le%20discipline%20per%20lapplicazione%20della%20tassa%20di%20fabbricazione%20degli%20spiriti%20nelle%20fabbriche%20di%20seconda%20categoria%20agli%20effetti%20della%20legge%2010%20luglio%201887%20numero%204665.%20087U4920.md) (Serie 3ª), convalidato con la presente legge, saranno sostituiti con gli articoli seguenti: 
  
  Art. V. - Quando il fabbricante rifiuti la determinazione della produttivita' e della tassa giornaliera notificatagli dall'Amministrazione, deve nei venti giorni dalla notificazione presentare ricorso di perizia al prefetto della provincia per mezzo dell'agenzia delle imposte, ritirandone ricevute. 
  

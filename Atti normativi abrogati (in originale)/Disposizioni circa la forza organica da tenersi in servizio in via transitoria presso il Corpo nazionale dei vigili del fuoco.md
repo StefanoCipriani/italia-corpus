@@ -14,11 +14,11 @@ Vista la [legge 2 ottobre 1940, n. 1416](Organizzazione%20dei%20servizi%20antinc
 
 Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), contenente le nuove norme per l'organizzazione dei servizi antincendi;
 
-Visto il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), recante nuove norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili del fuoco;
+Visto il [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), recante nuove norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili del fuoco;
 
-Visto il [regio decreto 30 novembre 1942, n. 1502](Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md);
+Visto il [regio decreto 30 novembre 1942, n. 1502](../Regi%20decreti/Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md);
 
-Visto il [regio decreto 16 marzo 1942, n. 700](Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md), concernente la forza organica dei Corpi dei vigili del fuoco;
+Visto il [regio decreto 16 marzo 1942, n. 700](../Regi%20decreti/Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md), concernente la forza organica dei Corpi dei vigili del fuoco;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -42,11 +42,11 @@ I datori di lavoro e le Amministrazioni, Istituti ed Enti indicati nell'[art. 2 
 ## Art. 3.
 
 Fino al 31 dicembre 1947, la durata del servizio effettivo per la promozione dei vigili volontari a vigile scelto ed a vicebrigadiere, per il personale che, a giudizio del comandante, abbia prestato lodevole servizio durante la guerra e per non meno di due anni, e' ridotta rispettivamente a tre e sei anni.
- Fermi restando gli altri requisiti richiesti e le modalita' previste per l'avanzamento agli [articoli 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_112), [115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_115) e [116 del regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_116), per le promozioni anzidette e, per quelle a primo ufficiale dei secondi ufficiali volontari che, a giudizio del direttore generale dei Servizi antincendi, abbiano prestato lodevole servizio continuativo durante la guerra per non meno di due anni, non e' richiesta entro il predetto termine del 31 dicembre 1947, la frequenza dello speciale corso presso la Scuola centrale.
+ Fermi restando gli altri requisiti richiesti e le modalita' previste per l'avanzamento agli [articoli 112](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), [115](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md) e [116 del regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), per le promozioni anzidette e, per quelle a primo ufficiale dei secondi ufficiali volontari che, a giudizio del direttore generale dei Servizi antincendi, abbiano prestato lodevole servizio continuativo durante la guerra per non meno di due anni, non e' richiesta entro il predetto termine del 31 dicembre 1947, la frequenza dello speciale corso presso la Scuola centrale.
 
 ## Art. 4.
 
-Entro il termine indicato all'articolo precedente il Ministro per l'interno e autorizzato ad esercitare la facolta' di cui all'[art. 3 del regio decreto 30 novembre 1942, n. 1502](Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md).
+Entro il termine indicato all'articolo precedente il Ministro per l'interno e autorizzato ad esercitare la facolta' di cui all'[art. 3 del regio decreto 30 novembre 1942, n. 1502](../Regi%20decreti/Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md).
 
 ## Art. 5.
 
@@ -55,14 +55,14 @@ E' in facolta' del Ministro per l'interno di disporre movimenti del personale vo
 
 ## Art. 6.
 
-Al personale volontario richiamato in servizio continuativo sara' corrisposto il trattamento economico di cui agli [articoli 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_147) e [149 del regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_149).
+Al personale volontario richiamato in servizio continuativo sara' corrisposto il trattamento economico di cui agli [articoli 147](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md) e [149 del regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md).
 
 ## Art. 7.
 
-Le tabelle allegate "O", "P" e "Q" al [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), sono sostituite dalle tabelle allegate 1, 2 e 3 al presente decreto.
+Le tabelle allegate "O", "P" e "Q" al [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), sono sostituite dalle tabelle allegate 1, 2 e 3 al presente decreto.
  I nuovi compensi, di cui alle colonne 2, 4, 5 e 6 della tabella allegato 1, nonche' quelli di cui alla tabella allegato 2 e alle colonne 2, 4, 5 e 6 della tabella allegato 3, vanno corrisposti dal 1° giugno 1946.
  I compensi per servizi teatrali di cui alla colonna 3 delle tabelle allegate 1 e 3 vanno corrisposti a decorrere dal 1° maggio 1947.
- L'indennita' di servizio speciale al personale permanente di cui alla colonna 5 della tabella allegato "N" al [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), e' aumentata, a decorrere dal 1° gennaio 1947 per tutti i gradi, di lire 5340 annue lorde. Tale aumento e' al netto della riduzione del doppio 12%.
+ L'indennita' di servizio speciale al personale permanente di cui alla colonna 5 della tabella allegato "N" al [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), e' aumentata, a decorrere dal 1° gennaio 1947 per tutti i gradi, di lire 5340 annue lorde. Tale aumento e' al netto della riduzione del doppio 12%.
  Le indennita' corrisposte allo stesso titolo agli ufficiali permanenti ed al personale del ruolo tecnico transitorio dei servizi antincendi, sono cosi' modificate a decorrere dal 1° gennaio 1947, al netto della riduzione del doppio 12%:
  Ufficiali permanenti:
  comandanti delle scuole, L. 42.000, di cui pensionabili L. 2150;

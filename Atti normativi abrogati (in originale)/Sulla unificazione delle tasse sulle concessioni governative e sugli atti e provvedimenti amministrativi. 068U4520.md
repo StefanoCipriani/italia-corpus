@@ -56,7 +56,7 @@ Contemporaneamente alla presente Legge saranno pubblicate ed avranno vigore nell
  
  C) La Legge del 13 novembre 1857, n. 2539 sui passaporti; 
  
- D) Il [Regio Decreto del 28 giugno 1866, n. 3021](Che%20stabilisce%20la%20tariffa%20e%20le%20tasse%20sui%20passaporti%20e%20sullinsegnamento.%20066U3021.md), sui passaporti e sulle vidimazioni e legalizzazioni degli atti; 
+ D) Il [Regio Decreto del 28 giugno 1866, n. 3021](../Regi%20decreti/Che%20stabilisce%20la%20tariffa%20e%20le%20tasse%20sui%20passaporti%20e%20sullinsegnamento.%20066U3021.md), sui passaporti e sulle vidimazioni e legalizzazioni degli atti; 
  
  E) La [Legge del 17 maggio 1866, n. 2933](Che%20regola%20listituzione%20o%20il%20cambiamento%20in%20modo%20permanente%20delle%20fiere%20e%20dei%20mercati.%20066U2933.md), sulla istituzione delle fiere e mercati.
 

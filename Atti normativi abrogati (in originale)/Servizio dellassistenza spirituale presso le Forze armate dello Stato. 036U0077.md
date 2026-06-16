@@ -44,7 +44,7 @@ I sacerdoti da nominarsi cappellani debbono possedere la cittadinanza italiana, 
  
  Per la nomina a cappellano in servizio permanente occorre non aver superato il 40° anno di eta'. E' titolo di preferenza per tale nomina aver prestato servizio in guerra presso reparti mobilitati, eppure, negli ospedali militari o nei cimiteri di guerra o l'aver conseguito altre benemerenze militari. 
  
- I cappellani sono promossi cappellani capi per merito comparativo, con i criteri stabiliti dall'[articolo 27 del Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_27), a giudizio insindacabile di una commissione presieduta dall'Ordinario militare per l'Italia e della quale fanno parte il Vicario e i due ispettori. 
+ I cappellani sono promossi cappellani capi per merito comparativo, con i criteri stabiliti dall'[articolo 27 del Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), a giudizio insindacabile di una commissione presieduta dall'Ordinario militare per l'Italia e della quale fanno parte il Vicario e i due ispettori. 
  
  Un cappellano capo, prescelto dall'Ordinario, vi esercitera' le funzioni di segretario. 
  
@@ -106,7 +106,7 @@ Al Vicario generale e agli ispettori spetta integralmente il trattamento economi
 
 ## Art. 13.
 
-Ai cappellani, ai cappellani capi e primi cappellani capi, spetta integralmente il trattamento economico degli ufficiali delle forze armate presso le quali prestano servizio, secondo il grado la qualifica di assimilazione, ad eccezione dell'indennita' militare speciale, di cui all'[articolo 176 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico e dell'indennita' di alloggio.
+Ai cappellani, ai cappellani capi e primi cappellani capi, spetta integralmente il trattamento economico degli ufficiali delle forze armate presso le quali prestano servizio, secondo il grado la qualifica di assimilazione, ad eccezione dell'indennita' militare speciale, di cui all'[articolo 176 del Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico e dell'indennita' di alloggio.
 
 ## Art. 14.
 
@@ -120,7 +120,7 @@ All'Ordinario militare per l'Italia che cessi dall'ufficio dopo avervi prestato 
 
 Al Vicario generale, agli ispettori, ai cappellani capi e ai cappellani in servizio permanente sono applicabili, per quanto riguarda le pensioni, le disposizioni in vigore per gli ufficiali del Regio esercito, tenuto conto del grado di equiparazione. 
  
- Per altro ad essi sono applicabili le aliquote delle colonne 4 e 5 della tabella A, di cui all'[articolo 8 del Regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), modificato dall'[articolo 6 del Regio decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), quando la cessazione dal servizio non derivi da lesioni od infermita' contratte a causa di servizio. Essi hanno diritto al collocamento a riposo per anzianita' di servizio dopo venti anni di servizio (computando ogni altro servizio utile a pensione reso allo Stato); ma per far valere tale diritto devono aver raggiunto 55 anni di eta'. 
+ Per altro ad essi sono applicabili le aliquote delle colonne 4 e 5 della tabella A, di cui all'[articolo 8 del Regio decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), modificato dall'[articolo 6 del Regio decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), quando la cessazione dal servizio non derivi da lesioni od infermita' contratte a causa di servizio. Essi hanno diritto al collocamento a riposo per anzianita' di servizio dopo venti anni di servizio (computando ogni altro servizio utile a pensione reso allo Stato); ma per far valere tale diritto devono aver raggiunto 55 anni di eta'. 
  
  Il limite massimo di eta' per la cessazione dal servizio e' di 65 anni.
 
@@ -130,7 +130,7 @@ Il Ministro competente puo', su proposta dell'Ordinario militare per l'Italia, c
 
 ## Art. 17.
 
-Nei limiti e con le modalita' che saranno stabilite dal regolamento di cui all'articolo 25 sono estese agli appartenenti al personale suddetto, allorche' essi non sono soggetti alla giurisdizione militare, le disposizioni disciplinari in vigore per gli impiegati civili, contenute nel capo VIII del [Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni, nonche' quelle relative alle aspettative, alle disponibilita' ed ai congedi, contenute nel capo X. 
+Nei limiti e con le modalita' che saranno stabilite dal regolamento di cui all'articolo 25 sono estese agli appartenenti al personale suddetto, allorche' essi non sono soggetti alla giurisdizione militare, le disposizioni disciplinari in vigore per gli impiegati civili, contenute nel capo VIII del [Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, nonche' quelle relative alle aspettative, alle disponibilita' ed ai congedi, contenute nel capo X. 
  
  Le sanzioni disciplinari previste nel citato capo VIII non possono in ogni caso essere inflitte se non dopo inteso il parere dell'Ordinario militare per l'Italia.
 
@@ -156,7 +156,7 @@ L'Ordinario militare per l'Italia, assieme con il Vicario generale e con gli isp
 
 I posti permanenti di ruolo dei cappellani capi e dei cappellani di cui al secondo comma dall'articolo 2 sono fissati dalla tabella allegata alla presente legge. 
  
- Qualora, per speciali esigenze di servizio, occorra destinare cappellani militari a disposizione di amministrazioni che non siano quelle della guerra, della marina, dell'aeronautica e delle finanze, essi saranno collocati fuori ruolo, applicando le norme del [Regio decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), quale risulta integrato dall'[articolo 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md).
+ Qualora, per speciali esigenze di servizio, occorra destinare cappellani militari a disposizione di amministrazioni che non siano quelle della guerra, della marina, dell'aeronautica e delle finanze, essi saranno collocati fuori ruolo, applicando le norme del [Regio decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), quale risulta integrato dall'[articolo 17 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_17), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md).
 
 ## Art. 22.
 
@@ -170,9 +170,9 @@ Le spese per l'assistenza spirituale sono a carico del bilancio dell'Amministraz
 
 ## Art. 24.
 
-I cappellani militari conservati temporaneamente in servizio in base ai [Regi decreti 29 ottobre 1922, n. 1552](Relativo%20alla%20cessazione%20della%20carica%20di%20Vescovo%20di%20Campo%20ed%20al%20temporaneo%20mantenimento%20in%20servizio%20di%20un%20nucleo%20di%20cappellani%20militari.%20022U1552.md), e [24 settembre 1923, n. 2307](Temporaneo%20mantenimento%20in%20servizio%20presso%20il%20Regio%20esercito%20di%20cappellani%20militari.%20023U2307.md), sono mantenuti permanentemente in servizio in uno speciale ruolo transitorio, col trattamento attuale che pero' verra' sottoposto, ai fini della pensione, alle normali ritenute in conto tesoro. 
+I cappellani militari conservati temporaneamente in servizio in base ai [Regi decreti 29 ottobre 1922, n. 1552](../Regi%20decreti/Relativo%20alla%20cessazione%20della%20carica%20di%20Vescovo%20di%20Campo%20ed%20al%20temporaneo%20mantenimento%20in%20servizio%20di%20un%20nucleo%20di%20cappellani%20militari.%20022U1552.md), e [24 settembre 1923, n. 2307](../Regi%20decreti/Temporaneo%20mantenimento%20in%20servizio%20presso%20il%20Regio%20esercito%20di%20cappellani%20militari.%20023U2307.md), sono mantenuti permanentemente in servizio in uno speciale ruolo transitorio, col trattamento attuale che pero' verra' sottoposto, ai fini della pensione, alle normali ritenute in conto tesoro. 
  
- Il servizio da essi precedentemente prestato potra' essere riscattato a norma dell'[articolo 14 della legge 11 marzo 1926, n. 417](Istituzione%20di%20un%20ruolo%20unico%20di%20cappellani%20militari%20per%20il%20servizio%20religioso%20nel%20Regio%20esercito%20nella%20Regia%20marina%20e%20nella%20Regia%20aeronautica.%20026U0417.md), con le modalita' del [R. decreto 12 agosto 1927, n. 1613](Norme%20per%20il%20riscatto%20di%20servizi%20agli%20effetti%20di%20pensione.%20027U1613.md).
+ Il servizio da essi precedentemente prestato potra' essere riscattato a norma dell'[articolo 14 della legge 11 marzo 1926, n. 417](Istituzione%20di%20un%20ruolo%20unico%20di%20cappellani%20militari%20per%20il%20servizio%20religioso%20nel%20Regio%20esercito%20nella%20Regia%20marina%20e%20nella%20Regia%20aeronautica.%20026U0417.md), con le modalita' del [R. decreto 12 agosto 1927, n. 1613](../Regi%20decreti/Norme%20per%20il%20riscatto%20di%20servizi%20agli%20effetti%20di%20pensione.%20027U1613.md).
 
 ## Art. 25.
 

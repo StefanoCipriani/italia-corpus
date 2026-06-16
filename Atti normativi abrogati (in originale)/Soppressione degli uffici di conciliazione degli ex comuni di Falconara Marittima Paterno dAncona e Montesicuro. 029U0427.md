@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA: 
  
- Visto il [R. decreto 15 aprile 1928, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;882), col quale i comuni di Falconara Marittima, Paterno d'Ancona e Montesicuro sono stati soppressi, ed i rispettivi territori aggregati a quello di Ancona; 
+ Visto il [R. decreto 15 aprile 1928, n. 882](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Ancona%20dei%20comuni%20di%20Montesicuro%20e%20Paterno%20dAncona%20nonche%20del%20territorio%20del%20comune%20di%20Falconara%20Marittima%20situato%20a%20destra%20del%20fiume%20Esino%20ed%20aggregazione%20al%20co_e78df2e2f89c.md), col quale i comuni di Falconara Marittima, Paterno d'Ancona e Montesicuro sono stati soppressi, ed i rispettivi territori aggregati a quello di Ancona; 
  
  Vista la deliberazione del podesta' di Ancona, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Falconara Marittima, Paterno d'Ancona e Montesicuro; 
  

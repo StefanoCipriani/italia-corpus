@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visti gli articoli 195 e 204 del Codice per la marina mercantile;
 
-Visto il regolamento generale per il servizio di pilotaggio nei porti del Regno, approvato con il [R. decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778);
+Visto il regolamento generale per il servizio di pilotaggio nei porti del Regno, approvato con il [R. decreto 29 aprile 1926, n. 778](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20il%20servizio%20pilotaggio%20nei%20porti%20dello%20Stato.%20026U0778.md);
 
 Considerata l'opportunita' di aumentare le mercedi per il detto servizio di pilotaggio;
 

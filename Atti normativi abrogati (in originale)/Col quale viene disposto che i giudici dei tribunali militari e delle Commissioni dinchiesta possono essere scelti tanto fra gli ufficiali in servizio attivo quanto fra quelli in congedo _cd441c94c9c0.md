@@ -18,9 +18,9 @@ VITTORIO EMANUELE III
  
  Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Visto l'[art. 301 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
+ Visto l'[art. 301 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
  
- Visto l'[art. 331 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo; 
+ Visto l'[art. 331 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo; 
  
  Vista la [legge 17 ottobre 1881, n. 435](Che%20stabilisce%20una%20posizione%20di%20servizio%20ausiliario%20fra%20gli%20ufficiali%20del%20regio%20esercito.%20081U0435.md); 
  

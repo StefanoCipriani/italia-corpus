@@ -18,7 +18,7 @@ Con decreto Reale, promosso dal Ministero del tesoro, sara' provveduto al ripart
 
 ## Art. 2.
 
-Dalla somma anzidetta resta escluso, oltre l'ammontare delle pensioni straordinarie di ricompensa nazionale, eccedente il normale stanziamento di bilancio, anche quello delle pensioni privilegiate di guerra, dipendenti dalla [legge 23 giugno 1912, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;617), e dal [R. decreto 9 agosto 1912, n. 914](Riguardante%20le%20pensioni%20per%20le%20famiglie%20dei%20presunti%20morti%20nella%20guerra%20italo-turca.%20012U0914.md), nonche' delle pensioni privilegiate normali liquidate in conseguenza della guerra italo-turca.
+Dalla somma anzidetta resta escluso, oltre l'ammontare delle pensioni straordinarie di ricompensa nazionale, eccedente il normale stanziamento di bilancio, anche quello delle pensioni privilegiate di guerra, dipendenti dalla [legge 23 giugno 1912, n. 617](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;617), e dal [R. decreto 9 agosto 1912, n. 914](../Regi%20decreti/Riguardante%20le%20pensioni%20per%20le%20famiglie%20dei%20presunti%20morti%20nella%20guerra%20italo-turca.%20012U0914.md), nonche' delle pensioni privilegiate normali liquidate in conseguenza della guerra italo-turca.
 
 ## Art. 3.
 

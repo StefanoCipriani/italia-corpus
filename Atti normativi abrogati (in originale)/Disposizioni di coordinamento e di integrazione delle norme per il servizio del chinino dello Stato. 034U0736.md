@@ -78,7 +78,7 @@ Il fondo da stanziare annualmente nello stato di previsione della spesa del Mini
 
 ## Art. 7.
 
-Sono abrogate le disposizioni del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636, per la vendita di chinino per conto dello Stato, articolo 164 a 173 e tutte le altre contrarie o comunque incompatibili con le norme contenute nel presente decreto-legge.
+Sono abrogate le disposizioni del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, per la vendita di chinino per conto dello Stato, articolo 164 a 173 e tutte le altre contrarie o comunque incompatibili con le norme contenute nel presente decreto-legge.
 
 ## Art. 8.
 

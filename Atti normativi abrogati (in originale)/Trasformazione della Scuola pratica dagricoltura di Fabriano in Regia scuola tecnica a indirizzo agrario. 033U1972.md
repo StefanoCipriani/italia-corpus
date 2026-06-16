@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 30 dicembre 1923, n. 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md);
 
-Visto il [R. decreto 18 settembre 1924, n. 1769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1769);
+Visto il [R. decreto 18 settembre 1924, n. 1769](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Fabriano%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1769.md);
 
 Visto il [R. decreto 3 agosto 1921, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-03;1442);
 

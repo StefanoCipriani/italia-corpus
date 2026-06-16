@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 15 marzo 1928, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-15;674), col quale i comuni di Ciseriis e Segnacco sono stati soppressi, ed i rispettivi territori aggregati a quello di Tarcento; 
+ Visto il [R. decreto 15 marzo 1928, n. 674](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Ciseriis%20e%20di%20Segnacco%20a%20quello%20di%20Tarcento.%20028U0674.md), col quale i comuni di Ciseriis e Segnacco sono stati soppressi, ed i rispettivi territori aggregati a quello di Tarcento; 
  
  Vista la deliberazione del commissario prefettizio di Tarcento, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Ciseriis e Segnacco; 
  

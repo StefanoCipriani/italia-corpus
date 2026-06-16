@@ -14,7 +14,7 @@ N.
 
 1455.
 
-R. decreto 8 agosto 1924, col quale, sulla proposta del Ministro per la pubblica istruzione, viene modificato lo statuto della cassa scolastica del Regio istituto magistrale di Lecce gia' approvato col [R. decreto 26 novembre 1922, n. 1696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-11-26;1696). 
+R. decreto 8 agosto 1924, col quale, sulla proposta del Ministro per la pubblica istruzione, viene modificato lo statuto della cassa scolastica del Regio istituto magistrale di Lecce gia' approvato col [R. decreto 26 novembre 1922, n. 1696](../Regi%20decreti/Regi%20decreti%20riflettenti%20erezioni%20in%20Ente%20Morale.%20022U1696.md). 
  
  Visto, il Guardasigilli: Oviglio. 
  

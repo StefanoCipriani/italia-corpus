@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, approvato con R. decreto 28 novembre 1869; 
+ Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, approvato con R. decreto 28 novembre 1869; 
  
- Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo, approvato con R. decreto 28 novembre 1869; 
+ Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo, approvato con R. decreto 28 novembre 1869; 
  
  Visto il [R. decreto del 5 ottobre 1916, n. 1313](Col%20quale%20viene%20dichiarato%20in%20istato%20di%20guerra%20il%20territorio%20di%20alcuni%20Comuni%20della%20provincia%20di%20Bergamo.%20016U1313.md), col quale cono dichiarati in istato di guerra alcuni comuni della provincia di Bergamo; 
  

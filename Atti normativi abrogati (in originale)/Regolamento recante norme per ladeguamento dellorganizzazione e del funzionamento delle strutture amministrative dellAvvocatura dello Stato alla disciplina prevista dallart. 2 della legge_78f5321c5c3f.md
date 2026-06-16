@@ -41,7 +41,7 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  disposizioni sulla promulgazione delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  modificate o alle quali e' operato il rinvio. Restano 
  invariati il valore e l'efficacia degli atti legislativi 
@@ -373,7 +373,7 @@ Le disposizioni del presente regolamento disciplinano l'organizzazione e il funz
  ai sensi dell'art. 72 del testo unico delle disposizioni 
  concernenti lo statuto degli impiegati civili dello Stato 
  approvato con [decreto del Presidente della Repubblica 10 
- gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md); 
+ gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md); 
  s) prevedere che, fatte salve le disposizioni di leggi 
  speciali, la disciplina del trasferimento di azienda di cui 
  all'[art. 2112 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2112) si applica anche nel caso 
@@ -702,7 +702,7 @@ Gli atti di competenza dirigenziale non sono soggetti ad avocazione da parte del
 
 Nota all'art. 5:
  - Si riporta il testo dell'[art. 23 della legge n. 103/1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979;103#art_23) (Modifiche all'ordinamento dell'Avvocatura dello Stato):
- "Art. 23. - Il consiglio degli avvocati e procuratori dello Stato, oltre ad esercitare le attribuzioni della commissione permanente per gli avvocati e procuratori dello Stato previste dai [regi decreti 30 ottobre 1933, numeri 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611) e [1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), e successive modificazioni, provvede:
+ "Art. 23. - Il consiglio degli avvocati e procuratori dello Stato, oltre ad esercitare le attribuzioni della commissione permanente per gli avvocati e procuratori dello Stato previste dai [regi decreti 30 ottobre 1933, numeri 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md) e [1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e successive modificazioni, provvede:
  a) ad esprimere parere sulla distribuzione degli avvocati e dei procuratori dello Stato tra l'Avvocatura generale e le avvocature distrettuali sulla base di criteri da esso predeterminati;
  b) ad esprimere parere sulla assegnazione degli avvocati e dei procuratori di prima nomina ai vari uffici ed in ordine ad ogni domanda o proposta di trasferimento;
  c) a formulare i giudizi di cui agli articoli 2, 3 e 5 della presente legge ed a riesaminare dopo due anni i giudizi sfavorevoli;
@@ -716,7 +716,7 @@ Nota all'art. 5:
  Il consiglio di amministrazione dell'Avvocatura dello Stato provvede:
  a) ad esprimere pareri ed a formulare proposte sulla organizzazione e sullo svolgimento dei servizi;
  b) a fissare i criteri per la ripartizione, tra i vari uffici dell'Avvocatura dello Stato, delle somme stanziate in bilancio per ogni capitolo di spesa;
- c) ad esercitare le altre attribuzioni previste dall'[art. 146 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, fatta eccezione per quelle riservate rispettivamente al consiglio degli avvocati e procuratori dello Stato dalla presente legge ed al comitato permanente per il personale dalle disposizioni di cui al comma precedente".
+ c) ad esercitare le altre attribuzioni previste dall'[art. 146 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, fatta eccezione per quelle riservate rispettivamente al consiglio degli avvocati e procuratori dello Stato dalla presente legge ed al comitato permanente per il personale dalle disposizioni di cui al comma precedente".
 
 ### Art. 6. — Attribuzioni del segretario generale
 
@@ -744,7 +744,7 @@ In particolare, il segretario generale:
 
 3.
 
-Fermo restando il disposto dell'[art. 6 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_6), il segretario generale, per lo svolgimento delle sue funzioni, si avvale della collaborazione di avvocati e procuratori dello Stato nominati dall'avvocato generale ed addetti all'ufficio di segreteria generale.
+Fermo restando il disposto dell'[art. 6 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), il segretario generale, per lo svolgimento delle sue funzioni, si avvale della collaborazione di avvocati e procuratori dello Stato nominati dall'avvocato generale ed addetti all'ufficio di segreteria generale.
 
 Note all'art. 6:
  - Per il titolo della [legge n. 241/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241), vedi in nota all'art. 2.
@@ -837,7 +837,7 @@ I servizi amministrativi di cui all'[art. 1 della legge 15 ottobre 1986, n. 664]
                             a)
                                 Ufficio I - Affari generali e personale. 
  Cura i seguenti adempimenti: ricezione e smistamento corrispondenza; protocollo corrispondenza non riguardante affari professionali; rapporti con i sindacati e contrattazione decentrata; raccolta e conservazione della normativa interna e degli atti relativi agli affari di segreteria generale; reclutamento e trattamento giuridico degli avvocati e procuratori e del personale amministrativo; riconoscimento della dipendenza di infermita' da causa di servizio; svolgimento della pratica forense; conferimento di onorificenze; relazioni con il pubblico, ai sensi del precedente art. 
-4. Ai sensi dell'[art. 34 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md), nonche' dell'[art. 15 del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20settembre%201989%20concernente%20il%20personale%20del%20comparto%20Ministeri%20ed%20altre%20categorie%20di%20cui_c6e7f9764299.md), e dell'art. 2 del decreto del Presidente del Consiglio dei Ministri 20 febbraio 1992, cura gli adempimenti demandati all'amministrazione per la promozione culturale e il benessere psicofisico dei dipendenti, da realizzare attraverso iniziative a cio' finalizzate;
+4. Ai sensi dell'[art. 34 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md), nonche' dell'[art. 15 del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20settembre%201989%20concernente%20il%20personale%20del%20comparto%20Ministeri%20ed%20altre%20categorie%20di%20cui_c6e7f9764299.md), e dell'art. 2 del decreto del Presidente del Consiglio dei Ministri 20 febbraio 1992, cura gli adempimenti demandati all'amministrazione per la promozione culturale e il benessere psicofisico dei dipendenti, da realizzare attraverso iniziative a cio' finalizzate;
                             b)
                                 Ufficio II - Organizzazione e metodo. 
  Cura, anche in funzione di supporto del nucleo di valutazione di cui all'art. 11, le rilevazioni ed elaborazioni statistiche sul personale amministrativo e sull'attivita' degli uffici dell'Avvocatura dello Stato ai fini delle proposte per la modificazione di metodi e condizioni di lavoro per migliorare l'efficienza dei servizi ed i rapporti con le pubbliche amministrazioni ed enti;

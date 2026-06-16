@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499);
+Visto il [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md);
 
 Visto il [R. decreto 9 ottobre 1924, n. 1765](Costituzione%20presso%20il%20Ministero%20delleconomia%20nazionale%20dellIstituto%20di%20economia%20e%20statistica%20agraria.%20024U1765.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Il numero 2 dell'art. 2 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), e' sostituito dai seguenti: 
+Il numero 2 dell'art. 2 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), e' sostituito dai seguenti: 
  
  «2° provvedere i mezzi necessari per il funzionamento dell'Istituto di economia agraria, di cui al [R. decreto 2 giugno 1927, n. 1035](Trasferimento%20del%20servizio%20di%20statistica%20agraria%20e%20forestale%20allIstituto%20centrale%20di%20statistica.%20027U1035.md), e al presente decreto; 
  
@@ -42,13 +42,13 @@ L'art. 5 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1429](https://w
 
 ## Art. 3.
 
-L'art. 6 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), e' sostituito dal seguente: 
+L'art. 6 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), e' sostituito dal seguente: 
  
  «I consiglieri di amministrazione di nomina ministeriale durano in carica tre anni e possono essere riconfermati».
 
 ## Art. 4.
 
-La lettera b) dell'art. 11 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), e' sostituita dalla seguente: 
+La lettera b) dell'art. 11 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), e' sostituita dalla seguente: 
  
  «b) deliberare sulla assegnazione di contributi annui o pluriannuali agli istituti ed enti di cui all'art. 2, tenuto conto del programma di attivita' degli Istituti sperimentali previsto dall'[art. 6 del R. decreto 30 dicembre 1923, n. 3203](Provvedimenti%20per%20le%20stazioni%20e%20gli%20istituti%20sperimentali%20agrari%20e%20per%20la%20creazione%20di%20un%20istituto%20di%20economia%20e%20statistica%20agraria.%20023U3203.md), del programma di attivita' redatto dal Comitato tecnico direttivo dell'Istituto di economia agraria e del programma dei lavori che l'Istituto centrale di statistica intende eseguire per la compilazione, l'aggiornamento e la pubblicazione dei catasti agrario e forestale».
 

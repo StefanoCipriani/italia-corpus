@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti gli articoli 178 a 180 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), 597 e seguenti del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visti gli articoli 178 a 180 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), 597 e seguenti del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia; HA SA
 
 ## Art. 1.
 
-La competenza ad emettere i provvedimenti di riabilitazione di cui all'[art. 178 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e le declaratorie di estinzione d'incapacita' di cui all'[art. 601 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_601), se le relative sentenze di condanna o di proscioglimento sono state pronunziate dall'autorita' giudiziaria italiana in territori attualmente sottratti all'amministrazione del Governo italiano, e' attribuita, ovunque il condannato o rispettivamente il prosciolto risieda, alla Corte di appello nel cui distretto si trova il luogo di nascita dell'interessato.
+La competenza ad emettere i provvedimenti di riabilitazione di cui all'[art. 178 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e le declaratorie di estinzione d'incapacita' di cui all'[art. 601 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_601), se le relative sentenze di condanna o di proscioglimento sono state pronunziate dall'autorita' giudiziaria italiana in territori attualmente sottratti all'amministrazione del Governo italiano, e' attribuita, ovunque il condannato o rispettivamente il prosciolto risieda, alla Corte di appello nel cui distretto si trova il luogo di nascita dell'interessato.
  Qualora anche detto luogo sia in territorio sottratto all'amministrazione del Governo italiano, ovvero nelle ipotesi previste dall'[art. 603, secondo comma del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_603-com2), la competenza appartiene alla Corte di appello di Roma.
 
 ## Art. 2.

@@ -20,7 +20,7 @@ Visto lo statuto della Societa' suddetta, approvato con [R. decreto 17 luglio 19
 
 Visto il [R. decreto-legge 18 aprile 1920, n. 583](Che%20autorizza%20la%20Societa%20anonima%20Credito%20fondiario%20sardo%20ad%20esercitare%20il%20credito%20stesso%20in%20tutto%20il%20Regno.%20020U0583.md) col quale la Societa' «Credito Fondiario Sardo» e' stata autorizzata ad esercitare il credito fondiario in tutto il Regno;
 
-Visto il testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md) ed il regolamento relativo approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md) ed il regolamento relativo approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Visto il [R. decreto 6 settembre 1921, n. 1414](Che%20autorizza%20gli%20Istituti%20di%20credito%20fondiario%20esistenti%20nel%20Regno%20ad%20esercitare%20le%20loro%20funzioni%20nei%20territori%20annessi.%20021U1414.md) che autorizza gli Istituti di credito fondiario esistenti nel Regno ad esercitare le loro funzioni nei territori annessi;
 

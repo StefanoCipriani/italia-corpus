@@ -16,7 +16,7 @@ TITOLO I.
 
 Nei bacini montani dei corsi d'acqua sono eseguite a cura e spese dello Stato, con appositi fondi stanziati nel bilancio del Ministero dei lavori pubblici, le opere di sistemazione idraulico-forestale necessariamente coordinato e collegate ad opere idrauliche o portuali di qualunque categoria o classe, ovvero ad altre opere pubbliche eseguito o sussidiate dal Ministero dei lavori pubblici. 
  
- I lavori di rimboscamento e rinsodamento di bacini montani necessariamente coordinati ad opere di bonifica continueranno ad essere compresi nei progetti di tali opere, secondo l'art. 7 lettera b del testo unico approvato con [R. decreto 22 marzo 1900, n. 195](Che%20approva%20il%20Testo%20unico%20della%20legge%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20000U0195.md), ed il riparto della relativa spesa continuera' ad essere regolato dalle disposizioni dello stesso testo unico; ma anche a questi lavori saranno applicabili le disposizioni degli articoli 3, 5, 6, 9, 10, 11, 12, 13 e 14 della presente legge.
+ I lavori di rimboscamento e rinsodamento di bacini montani necessariamente coordinati ad opere di bonifica continueranno ad essere compresi nei progetti di tali opere, secondo l'art. 7 lettera b del testo unico approvato con [R. decreto 22 marzo 1900, n. 195](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20della%20legge%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20000U0195.md), ed il riparto della relativa spesa continuera' ad essere regolato dalle disposizioni dello stesso testo unico; ma anche a questi lavori saranno applicabili le disposizioni degli articoli 3, 5, 6, 9, 10, 11, 12, 13 e 14 della presente legge.
 
 ### Art. 2.
 
@@ -213,7 +213,7 @@ La commissione centrale provvede alla raccolta ordinata e metodica delle osserva
  
  Essa traccia inoltre il programma completo e stabilisce i criteri per la preparazione dei progetti relativi alla sistemazione dei bacini idrografici montani, per la regolazione dei corsi d'acqua e per la bonificazione dei terreni, e propone le istruzioni necessarie per (TESTO ILLEGGILE) le rispettive competenze dei corpi Reali del genio civile e delle foreste. 
  
- Ad esercitare localmente le funzioni di alta sorveglianza e di coordinamento la commissione e le sue sezioni potranno delegare temporaneamente uno o piu' dei loro componenti, i quali potranno costituire commissioni locali secondo le norme da stabilirsi nel regolamento. Qualora sia necessaria la costituzione di commissioni locali permanenti, esse saranno nominate su proposta della Commissione centrale dal ministro dei lavori pubblici d'accordo col ministro di agricoltura, industria e commercio. Per la Sardegna funzionera' una commissione locale, quella istituita dall'articolo 57 del testo unico approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), ma sotto la presidenza di uno degli ispettori superiori del genio civile che fanno parte della commissione centrale, da questa all'uopo delegato. 
+ Ad esercitare localmente le funzioni di alta sorveglianza e di coordinamento la commissione e le sue sezioni potranno delegare temporaneamente uno o piu' dei loro componenti, i quali potranno costituire commissioni locali secondo le norme da stabilirsi nel regolamento. Qualora sia necessaria la costituzione di commissioni locali permanenti, esse saranno nominate su proposta della Commissione centrale dal ministro dei lavori pubblici d'accordo col ministro di agricoltura, industria e commercio. Per la Sardegna funzionera' una commissione locale, quella istituita dall'articolo 57 del testo unico approvato con [R. decreto 10 novembre 1907, n. 844](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), ma sotto la presidenza di uno degli ispettori superiori del genio civile che fanno parte della commissione centrale, da questa all'uopo delegato. 
  
  La commissione centrale si occupa di tutte le opere idraulico-forestali e di bonificazione eseguite in virtu' delle leggi vigenti a spese e col concorso del bilancio del Ministero dei lavori pubblici.
 
@@ -223,7 +223,7 @@ TITOLO III.
 
 ### Art. 22.
 
-Le disposizioni contenute negli articoli 2 a 12, 14, 15, 18, 21, 22, 30, 31, 38, 39, 41, 44, 45, 53, 54 e 96 del testo unico delle leggi sulle opere idrauliche delle varie categorie approvato col [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), sono modificate come appresso: 
+Le disposizioni contenute negli articoli 2 a 12, 14, 15, 18, 21, 22, 30, 31, 38, 39, 41, 44, 45, 53, 54 e 96 del testo unico delle leggi sulle opere idrauliche delle varie categorie approvato col [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), sono modificate come appresso: 
  
  «Art. 2. - Dopo il 2° comma e' aggiunto il seguente:» 
  
@@ -290,7 +290,7 @@ Scaduti i detti due mesi si intendera' che i comuni e le provincie siano favorev
  
  «Le spese concernenti le opere di 4ª categoria possono essere dichiarate obbligatorie con decreto ministeriale su domanda di tutti o di parte dei proprietari o possessori interessati quando ad esclusivo giudizio della Amministrazione si tratti di prevenire danni gravi ed estesi.» 
  
- «Contro tale decreto e' ammesso il ricorso alla 5ª sezione del Consiglio di Stato a termini dell'articolo 23 del testo unico delle leggi sul Consiglio di Stato approvato con [R. decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).» 
+ «Contro tale decreto e' ammesso il ricorso alla 5ª sezione del Consiglio di Stato a termini dell'articolo 23 del testo unico delle leggi sul Consiglio di Stato approvato con [R. decreto 17 agosto 1907, n. 638](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md).» 
  
  «In detta spesa si debbono comprendere non solo i lavori e gli imprevisti, ma anche quanto concerne la compilazione del progetto e la direzione e sorveglianza del lavoro.» 
  
@@ -440,7 +440,7 @@ TITOLO IV.
 
 ### Art. 30.
 
-I progetti tecnici di cui all'articolo 7 della legge sulle bonificazioni delle paludi e dei terreni paludosi (testo unico approvato con [Regio decreto 22 marzo 1900, n. 195](Che%20approva%20il%20Testo%20unico%20della%20legge%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20000U0195.md)) oltre quanto e' prescritto in detto articolo alle lettere a, b, e c, potranno comprendere l'allacciamento delle acque alte, quando ne sia il caso, studiato in modo da permettere, con opere complementari, di utilizzare i canali superiori per la futura irrigazione dei terreni bonificati.
+I progetti tecnici di cui all'articolo 7 della legge sulle bonificazioni delle paludi e dei terreni paludosi (testo unico approvato con [Regio decreto 22 marzo 1900, n. 195](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20della%20legge%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20000U0195.md)) oltre quanto e' prescritto in detto articolo alle lettere a, b, e c, potranno comprendere l'allacciamento delle acque alte, quando ne sia il caso, studiato in modo da permettere, con opere complementari, di utilizzare i canali superiori per la futura irrigazione dei terreni bonificati.
 
 ### Art. 31.
 
@@ -504,7 +504,7 @@ Nei consorzi di bonifica gia' regolarmente costituiti a senso di legge, od anche
 
 ### Art. 40.
 
-Qualora non possa venirsi ad un accordo nella misura delle indennita' per occupazioni temporanee, anche per colmate, o pel prezzo di espropriazione, si procedera' a norma della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per causa di pubblica utilita', in quanto non sia modificata dalle disposizioni della presente legge e del testo unico approvato con [Regio decreto 22 marzo 1900, n. 195](Che%20approva%20il%20Testo%20unico%20della%20legge%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20000U0195.md). 
+Qualora non possa venirsi ad un accordo nella misura delle indennita' per occupazioni temporanee, anche per colmate, o pel prezzo di espropriazione, si procedera' a norma della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per causa di pubblica utilita', in quanto non sia modificata dalle disposizioni della presente legge e del testo unico approvato con [Regio decreto 22 marzo 1900, n. 195](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20della%20legge%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20000U0195.md). 
  
  L'esecutore potra', in seguito a decreto prefettizio, prendere possesso temporaneo delle terre da bonificare per colmata, dopo depositato il prezzo da esso offerto per il primo anno di occupazione. 
  
@@ -542,7 +542,7 @@ TITOLO V.
 
 ### Art. 45.
 
-Al comma secondo dell'articolo 6 del testo unico delle leggi sull'ordinamento del corpo Reale del genio civile, approvato con [Regio decreto 3 settembre 1906 n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), e' sostituito il seguente: 
+Al comma secondo dell'articolo 6 del testo unico delle leggi sull'ordinamento del corpo Reale del genio civile, approvato con [Regio decreto 3 settembre 1906 n. 522](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), e' sostituito il seguente: 
  
  «Sono aggregati al Consiglio superiore due ispettori superiori del Regio corpo delle miniere e tre ispettori superiori forestali, tra i quali quello addetto al Magistrato alle acque». 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Finche' permangono le attuali condizioni del mercato del chinino, restano sospesi gli effetti dell'ultimo comma dell'[art.165 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_165) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); ed i limiti di prezzo ivi stabiliti per la vendita al pubblico dei preparati chinacei di Stato, possono essere in detto tempo ecceduti.
+Finche' permangono le attuali condizioni del mercato del chinino, restano sospesi gli effetti dell'ultimo comma dell'[art.165 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); ed i limiti di prezzo ivi stabiliti per la vendita al pubblico dei preparati chinacei di Stato, possono essere in detto tempo ecceduti.
 
 ## Art. 2.
 

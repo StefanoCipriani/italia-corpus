@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti gli articoli 39 e 62 (ultimo capoverso) della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
+Visti gli articoli 39 e 62 (ultimo capoverso) della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificata con [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md);
 
 Visti i [decreti Luogotenenziali 26 agosto 1917, numero 1403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-26;1403) e [26 maggio 1918, n. 727 ed il R. decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-05-26;727) [24 marzo 1921, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-03-24;431);
 
-Visto il [R. decreto 7 novembre 1920, n. 1648](Concernente%20tariffe%20e%20condizioni%20pei%20trasporti%20in%20servizio%20interno%20della%20Sardegna.%20020U1648.md);
+Visto il [R. decreto 7 novembre 1920, n. 1648](../Regi%20decreti/Concernente%20tariffe%20e%20condizioni%20pei%20trasporti%20in%20servizio%20interno%20della%20Sardegna.%20020U1648.md);
 
 Udito il Consiglio di amministrazione delle ferrovie dello Stato;
 

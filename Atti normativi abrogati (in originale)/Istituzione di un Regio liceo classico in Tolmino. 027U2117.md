@@ -34,7 +34,7 @@ A decorrere dal 16 settembre 1927 e' istituito un Regio liceo classico in Tolmin
 
 ## Art. 2.
 
-Oltre agli insegnamenti di cui alla tabella 8 annessa al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), nel liceo-ginnasio di Tolmino sara' impartito l'insegnamento della religione. Esso sara' facoltativo, ma costituira' cattedra di ruolo A nei ruoli organici dei professori dei Regi istituti medi d'istruzione. 
+Oltre agli insegnamenti di cui alla tabella 8 annessa al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), nel liceo-ginnasio di Tolmino sara' impartito l'insegnamento della religione. Esso sara' facoltativo, ma costituira' cattedra di ruolo A nei ruoli organici dei professori dei Regi istituti medi d'istruzione. 
  
  Tale posto di ruolo sara' conferito dal Ministro per la pubblica istruzione a persona fornita di laurea universitaria, sentito il parere della competente autorita' ecclesiastica.
 

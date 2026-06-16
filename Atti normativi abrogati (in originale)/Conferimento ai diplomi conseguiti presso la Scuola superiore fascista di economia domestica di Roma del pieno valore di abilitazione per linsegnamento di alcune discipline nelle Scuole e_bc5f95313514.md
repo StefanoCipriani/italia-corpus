@@ -32,7 +32,7 @@ L'esame finale che si sostiene presso la Scuola superiore fascista di economia d
 
 ## Art. 2.
 
-Per l'ammissione al detto esame le alunne sono tenute a corrispondere allo Stato la tassa di L. 200, prevista dall'[art. 2 del R. decreto 31 dicembre 1923, n. 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md).
+Per l'ammissione al detto esame le alunne sono tenute a corrispondere allo Stato la tassa di L. 200, prevista dall'[art. 2 del R. decreto 31 dicembre 1923, n. 2909](../Regi%20decreti/Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md).
 
 ## Art. 3.
 

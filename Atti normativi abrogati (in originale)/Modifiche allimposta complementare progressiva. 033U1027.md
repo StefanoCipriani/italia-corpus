@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), ed il [R. decreto-legge 17 settembre 1932, n. 1261](Modifica%20alla%20imposta%20complementare%20progressiva%20sul%20reddito.%20032U1261.md), riguardanti l'imposta complementare progressiva sul reddito;
+Visti il [R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), ed il [R. decreto-legge 17 settembre 1932, n. 1261](Modifica%20alla%20imposta%20complementare%20progressiva%20sul%20reddito.%20032U1261.md), riguardanti l'imposta complementare progressiva sul reddito;
 
 Ritenuta l'urgente necessita' di apportare alcune modificazioni alle norme vigenti per l'applicazione dell'imposta suddetta;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Ai fini dell'applicazione dell'imposta complementare progressiva, il reddito complessivo del contribuente deve essere valutato, a norma dell'[art. 7 del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), sulla base dei redditi singoli che si sono prodotti nell'anno antecedente a quello della dichiarazione o della revisione. 
+Ai fini dell'applicazione dell'imposta complementare progressiva, il reddito complessivo del contribuente deve essere valutato, a norma dell'[art. 7 del R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), sulla base dei redditi singoli che si sono prodotti nell'anno antecedente a quello della dichiarazione o della revisione. 
  
  Tuttavia, quando alla data in cui la dichiarazione o la denuncia per la revisione in aumento od in diminuzione debbono essere presentate, ovvero alla data in cui vengono eseguiti l'accertamento o la revisione di ufficio, siano intervenute cause di variazioni del reddito complessivo, gia' riconosciuto agli effetti dell'applicazione delle imposte reali, o comunque certe e dimostrate, la valutazione del reddito complessivo medesimo deve eseguirsi tenendo conto anche dei nuovi elementi. 
  
@@ -40,7 +40,7 @@ A decorrere dal 1° gennaio 1934, e' ammessa, a favore della finanza e del contr
 
 ## Art. 3.
 
-All'[art. 19 del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), e' sostituito il seguente: 
+All'[art. 19 del R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), e' sostituito il seguente: 
  
  «Le variazioni e trasformazioni dei redditi non danno luogo a sgravi d'imposta e possono solo tenersi in conto per una successiva rivalutazione dopo un biennio dal precedente accertamento, ai sensi dell'art. 2 del presente decreto. 
  
@@ -62,7 +62,7 @@ All'[art. 19 del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imp
 
 ## Art. 4.
 
-Dal reddito complessivo del contribuente, al netto delle passivita' previste dagli [articoli 8](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md) e [10 del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), e' ammessa la detrazione di un ventesimo del reddito stesso per ciascun componente la famiglia, esclusi dal novero il contribuente ed il coniuge. 
+Dal reddito complessivo del contribuente, al netto delle passivita' previste dagli [articoli 8](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md) e [10 del R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), e' ammessa la detrazione di un ventesimo del reddito stesso per ciascun componente la famiglia, esclusi dal novero il contribuente ed il coniuge. 
  
  La somma detratta, a questo titolo, non potra' eccedere lire tremila per ogni persona a carico. 
  

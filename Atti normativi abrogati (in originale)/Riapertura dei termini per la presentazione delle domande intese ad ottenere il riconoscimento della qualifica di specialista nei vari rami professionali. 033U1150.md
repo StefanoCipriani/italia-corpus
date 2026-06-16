@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto l'[art. 60 del R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md); 
  
- Veduti i [Regi decreti 29 agosto 1929, n. 1823](Disposizioni%20per%20il%20riconoscimento%20della%20qualifica%20di%20specialista%20agli%20effetti%20dellesercizio%20professionale.%20029U1823.md), e [15 maggio 1930, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-15;861); 
+ Veduti i [Regi decreti 29 agosto 1929, n. 1823](Disposizioni%20per%20il%20riconoscimento%20della%20qualifica%20di%20specialista%20agli%20effetti%20dellesercizio%20professionale.%20029U1823.md), e [15 maggio 1930, n. 861](../Regi%20decreti/Riconoscimento%20della%20qualifica%20di%20specialista%20nei%20vari%20rami%20dellesercizio%20professionale.%20030U0861.md); 
  
  Sentito il parere del Consiglio di Stato; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Coloro i quali, trovandosi nelle condizioni previste dall'[art. 1 del R. decreto 15 maggio 1930, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-15;861#art_1), intendano presentare i loro titoli per ottenere il riconoscimento della qualifica di specialista in un determinato ramo di esercizio professionale, sono autorizzati a presentare domanda al Ministero dell'educazione nazionale per il tramite del competente Ordine o Collegio della circoscrizione ove hanno la loro residenza, e non oltre il 30 settembre 1934, corredata dei documenti indicati all'art. 3 del citato [R. decreto 15 maggio 1930, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-15;861). 
+ Coloro i quali, trovandosi nelle condizioni previste dall'[art. 1 del R. decreto 15 maggio 1930, n. 861](../Regi%20decreti/Riconoscimento%20della%20qualifica%20di%20specialista%20nei%20vari%20rami%20dellesercizio%20professionale.%20030U0861.md), intendano presentare i loro titoli per ottenere il riconoscimento della qualifica di specialista in un determinato ramo di esercizio professionale, sono autorizzati a presentare domanda al Ministero dell'educazione nazionale per il tramite del competente Ordine o Collegio della circoscrizione ove hanno la loro residenza, e non oltre il 30 settembre 1934, corredata dei documenti indicati all'art. 3 del citato [R. decreto 15 maggio 1930, n. 861](../Regi%20decreti/Riconoscimento%20della%20qualifica%20di%20specialista%20nei%20vari%20rami%20dellesercizio%20professionale.%20030U0861.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

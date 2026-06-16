@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), che da' facolta' al potere esecutivo di emanare norme giuridiche;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto n. 70 del 21 febbraio 1895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e sue successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto n. 70 del 21 febbraio 1895](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e sue successive modificazioni;
 
 Sentito il Consiglio superiore di marina, il quale ha dato, all'unanimita', parere favorevole;
 

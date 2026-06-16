@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;
 
-Visti gli articoli 9, comma 1°, e 140, del regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297), nonche' il [decreto Luogotenenziale 29 maggio 1919, n. 960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-29;960);
+Visti gli articoli 9, comma 1°, e 140, del regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md), nonche' il [decreto Luogotenenziale 29 maggio 1919, n. 960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-29;960);
 
 Sentito il Consiglio di Stato in adunanza generale;
 

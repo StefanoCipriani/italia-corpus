@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 Il Presidente della Repubblica e' delegato a concedere amnistia per i seguenti reati, se commessi, anche con finalita' politiche, a causa ed in occasione di agitazioni e manifestazioni studentesche e sindacali:
  a) reati punibili con pena detentiva non superiore nel massimo a cinque anni di reclusione, ovvero con pena pecuniaria sola o congiunta a detta pena;
- b) reati preveduti dagli articoli 338 - limitatamente a violenza o minaccia ad un Corpo amministrativo -, 419 - limitatamente al reato di devastazione - e 423 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ b) reati preveduti dagli articoli 338 - limitatamente a violenza o minaccia ad un Corpo amministrativo -, 419 - limitatamente al reato di devastazione - e 423 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  c) reati di cui all'[articolo 1 del decreto legislativo 22 gennaio 1948, n. 66](../Decreti%20Legislativi/Norme%20per%20assicurare%20la%20libera%20circolazione%20sulle%20strade%20ferrate%20ed%20ordinarie%20e%20la%20libera%20navigazione.md);
  d) reati di cui alla [legge 8 febbraio 1948, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47);
  e) delitto di cui all'[articolo 4 della legge 2 ottobre 1967, n. 895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-02;895#art_4).
@@ -28,7 +28,7 @@ Il Presidente della Repubblica e' delegato a concedere amnistia per i seguenti r
 Il Presidente della Repubblica e' delegato a stabilire che ai fini del computo della pena per l'applicazione dell'amnistia:
  a) si ha riguardo alla pena stabilita dalla legge per ciascun reato consumato o tentato;
  b) non si tiene conto dell'aumento della pena dipendente dalla continuazione e dalla recidiva;
- c) non si tiene conto dell'aumento della pena dipendente dal concorso di tre circostanze aggravanti - anche se queste determinano la pena in maniera autonoma - salvo nei casi di lesioni personali gravissime di cui al capoverso dell'[articolo 583 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di morte come conseguenza di altro delitto di cui agli [articoli 586](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [588 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ c) non si tiene conto dell'aumento della pena dipendente dal concorso di tre circostanze aggravanti - anche se queste determinano la pena in maniera autonoma - salvo nei casi di lesioni personali gravissime di cui al capoverso dell'[articolo 583 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di morte come conseguenza di altro delitto di cui agli [articoli 586](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [588 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  d) si tiene conto della diminuzione della pena dipendente dall'eta'.
 
 ## Art. 3.
@@ -40,7 +40,7 @@ Il Presidente della Repubblica e' delegato a stabilire che l'amnistia ha efficac
 Il Presidente della Repubblica e' delegato a stabilire che l'amnistia non si applica a coloro i quali, alla data di entrata in vigore del decreto, abbiano riportato una pena detentiva per delitti non colposi, complessivamente per oltre tre anni di reclusione.
  Nella valutazione dei precedenti penali non si tiene conto:
  a) delle condanne per le quali sia intervenuta o si ottenga la riabilitazione;
- b) dei reati estinti, alla data di entrata in vigore del decreto, per il decorso dei termini della sospensione condizionale della pena a norma dell'[articolo 167 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ b) dei reati estinti, alla data di entrata in vigore del decreto, per il decorso dei termini della sospensione condizionale della pena a norma dell'[articolo 167 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  c) delle pene estinguibili per effetto di precedenti amnistie.
  Nell'applicazione dell'amnistia per le contravvenzioni non si tiene conto dei precedenti penali.
 

@@ -34,7 +34,7 @@ L'ultimo alinea dell'[art. 4 del decreto Luogotenenziale del 27 febbraio 1916, n
 
 ## Art. 6.
 
-Il ministro per i trasporti marittimi e ferroviari e' autorizzato a compilare il testo unico delle disposizioni relative all'ordinamento ed al funzionamento del Consiglio superiore della marina mercantile, tenute presenti le disposizioni contenute nei [R. decreti 22 giugno 1916, nn. 755](Concernente%20listituzione%20del%20Ministero%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20016U0755.md) e [756](Concernente%20listituzione%20del%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari.%20016U0756.md), relative alla istituzione dei Ministeri dell'industria, commercio e lavoro e per i trasporti marittimi e ferroviari. 
+Il ministro per i trasporti marittimi e ferroviari e' autorizzato a compilare il testo unico delle disposizioni relative all'ordinamento ed al funzionamento del Consiglio superiore della marina mercantile, tenute presenti le disposizioni contenute nei [R. decreti 22 giugno 1916, nn. 755](../Regi%20decreti/Concernente%20listituzione%20del%20Ministero%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20016U0755.md) e [756](../Regi%20decreti/Concernente%20listituzione%20del%20Ministero%20dei%20trasporti%20marittimi%20e%20ferroviari.%20016U0756.md), relative alla istituzione dei Ministeri dell'industria, commercio e lavoro e per i trasporti marittimi e ferroviari. 
  
  Il suddetto testo unico sara' approvato con decreto del ministro per i trasporti marittimi e ferroviari, da registrarsi alla Corte dei conti. 
  

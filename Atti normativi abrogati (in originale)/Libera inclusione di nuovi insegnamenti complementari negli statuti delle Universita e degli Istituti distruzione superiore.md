@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Su parere del Consiglio superiore della pubblica istruzione, negli statuti delle Universita' e degli Istituti di istruzione superiore possono essere inclusi altri insegnamenti complementari oltre quelli indicati nelle tabelle annesse al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni. A tali insegnamenti potranno essere attribuite le denominazioni ritenute piu' opportune.
+Su parere del Consiglio superiore della pubblica istruzione, negli statuti delle Universita' e degli Istituti di istruzione superiore possono essere inclusi altri insegnamenti complementari oltre quelli indicati nelle tabelle annesse al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni. A tali insegnamenti potranno essere attribuite le denominazioni ritenute piu' opportune.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto il [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27);
+Visto il [regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md);
 
 Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 141](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Il termine per bandire i concorsi riservati, previsto dal [secondo comma dell'art. 1 del regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_1-com2), e' portato al 15 aprile 1948.
+Il termine per bandire i concorsi riservati, previsto dal [secondo comma dell'art. 1 del regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), e' portato al 15 aprile 1948.
 
 ## Art. 2.
 

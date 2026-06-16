@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), che approva il testo unico delle disposizioni di legge per le ferrovie concesse alla industria, privata, le tramvie a trazione meccanica e gli automobili;
+Visto il [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), che approva il testo unico delle disposizioni di legge per le ferrovie concesse alla industria, privata, le tramvie a trazione meccanica e gli automobili;
 
 Visto il [R. decreto-legge 2 agosto 1929, n. 2150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-08-02;2150), concernente le concessioni di ferrovie ed altri mezzi di trasporto, nonche' il riassetto tecnico ed amministrativo delle linee in esercizio;
 
@@ -36,7 +36,7 @@ Tutti i concessionari dei pubblici servizi di trasporto, che, per effetto degli 
 
 ## Art. 2.
 
-I concessionari di cui all'articolo che precede per rimettere e mantenere in efficienza i servizi, ai termini degli [articoli 106 e seguenti del R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447#art_106), qualora ne facciano domanda, possono essere ammessi al beneficio di concorsi a carico dello Stato, nei limiti e con le modalita' disposte col presente decreto, senza pregiudizio del risarcimento di cui alla [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), nei casi ivi previsti.
+I concessionari di cui all'articolo che precede per rimettere e mantenere in efficienza i servizi, ai termini degli [articoli 106 e seguenti del R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), qualora ne facciano domanda, possono essere ammessi al beneficio di concorsi a carico dello Stato, nei limiti e con le modalita' disposte col presente decreto, senza pregiudizio del risarcimento di cui alla [legge 26 ottobre 1940, n. 1543](Risarcimento%20dei%20danni%20di%20guerra.%20040U1543.md), nei casi ivi previsti.
 
 ## Art. 3.
 

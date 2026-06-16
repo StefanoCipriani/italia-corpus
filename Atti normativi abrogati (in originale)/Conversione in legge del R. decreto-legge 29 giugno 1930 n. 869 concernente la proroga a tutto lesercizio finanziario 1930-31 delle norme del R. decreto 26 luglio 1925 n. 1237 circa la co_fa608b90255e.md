@@ -19,7 +19,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 29 giugno 1930, n. 869](Proroga%20a%20tutto%20lesercizio%20finanziario%201930-1931%20delle%20norme%20del%20R.%20decreto%2026%20luglio%201925%20n.%201237%20circa%20la%20concessione%20di%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazi_a27dbd0ba0a4.md), che proroga, a tutto l'esercizio finanziario 1930-31, l'efficacia delle norme del [R. decreto 26 luglio 1925, n. 1237](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md), circa la concessione di premi di operosita' e di rendimento al personale dell'Amministrazione dello Stato. 
+ E' convertito in legge il [R. decreto-legge 29 giugno 1930, n. 869](Proroga%20a%20tutto%20lesercizio%20finanziario%201930-1931%20delle%20norme%20del%20R.%20decreto%2026%20luglio%201925%20n.%201237%20circa%20la%20concessione%20di%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazi_a27dbd0ba0a4.md), che proroga, a tutto l'esercizio finanziario 1930-31, l'efficacia delle norme del [R. decreto 26 luglio 1925, n. 1237](../Regi%20decreti/Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md), circa la concessione di premi di operosita' e di rendimento al personale dell'Amministrazione dello Stato. 
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  
  Data a Roma, addi' 15 dicembre 1930 - Anno IX 

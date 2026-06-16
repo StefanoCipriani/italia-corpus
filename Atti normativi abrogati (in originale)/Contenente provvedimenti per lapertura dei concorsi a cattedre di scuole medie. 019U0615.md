@@ -46,7 +46,7 @@ Ai concorsi di cui nel precedente articolo sono ammessi soltanto gli estranei ai
  
  b) abbiano prestato servizio di supplente in classi ordinarie od aggiunte nelle scuole medie e normali governative di qualsiasi ordine e grado e per qualsiasi disciplina, per almeno tre anni scolastici anche non consecutivi o che abbiano coperto, per lo stesso periodo di tempo, ufficio di ruolo come insegnanti di qualsiasi disciplina in una scuola media o normale pareggiata. 
  
- Le donne saranno ammesse ai concorsi nei casi previsti dall'art. 3 del regolamento approvato con [Regio decreto 1° aprile 1915, n. 562 e dall'art. 8](Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md) del presente decreto. 
+ Le donne saranno ammesse ai concorsi nei casi previsti dall'art. 3 del regolamento approvato con [Regio decreto 1° aprile 1915, n. 562 e dall'art. 8](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md) del presente decreto. 
  
  Nessun candidato puo' partecipare a piu' di due concorsi.
 
@@ -87,7 +87,7 @@ Il servizio militare sara' valutato a norma dell'art. 4 del presente decreto, e 
 
 ## Art. 8.
 
-In aggiunta a quanto dispone il 2° comma dell'articolo 3 del regolamento approvato con [R. decreto 1° aprile 1915, n. 562](Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md), le donne possono essere nominate, in concorrenza con i maschi, anche alle cattedre di disegno e di calligrafia nei corsi maschili o misti di scuole tecniche. 
+In aggiunta a quanto dispone il 2° comma dell'articolo 3 del regolamento approvato con [R. decreto 1° aprile 1915, n. 562](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20i%20concorsi%20e%20per%20le%20nomine%20a%20cattedre%20di%20ruolo%20nelle%20scuole%20medie%20e%20normali.%20015U0562.md), le donne possono essere nominate, in concorrenza con i maschi, anche alle cattedre di disegno e di calligrafia nei corsi maschili o misti di scuole tecniche. 
  
  Tale disposizione e' applicabile anche a coloro che siano compresi nelle graduatorie per i posti femminili formate in applicazione dell'[art. 47 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md) e in quelle che saranno formate in applicazione del [decreto Luogotenenziale 29 settembre 1918, n. 1566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-29;1566).
 

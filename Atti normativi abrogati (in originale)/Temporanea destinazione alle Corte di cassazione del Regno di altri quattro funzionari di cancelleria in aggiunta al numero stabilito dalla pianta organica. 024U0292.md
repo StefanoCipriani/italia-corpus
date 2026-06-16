@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 dicembre 1923, n. 2618](Modificazioni%20allordinamento%20della%20Corte%20di%20cassazione%20del%20Regno%20ed%20aumento%20del%20deposito%20per%20il%20ricorso%20in%20Cassazione.%20023U2618.md), contenente modificazioni all'ordinamento delle Corte di cassazione del Regno ed aumento del deposito per il ricorso in cassazione;
+Visto il [R. decreto 2 dicembre 1923, n. 2618](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Corte%20di%20cassazione%20del%20Regno%20ed%20aumento%20del%20deposito%20per%20il%20ricorso%20in%20Cassazione.%20023U2618.md), contenente modificazioni all'ordinamento delle Corte di cassazione del Regno ed aumento del deposito per il ricorso in cassazione;
 
 Sentito il Consiglio dei Ministri;
 

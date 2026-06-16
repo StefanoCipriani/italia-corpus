@@ -36,7 +36,7 @@ Per l'applicazione di questa amnistia si osserveranno le norme seguenti:
 
 ## Art. 3.
 
-E' pure concessa amnistia ai militari del R. esercito e della R. marina che, a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, siano incorsi nel reato di diserzione semplice anteriormente alla data del presente decreto. 
+E' pure concessa amnistia ai militari del R. esercito e della R. marina che, a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, siano incorsi nel reato di diserzione semplice anteriormente alla data del presente decreto. 
  
  Coloro che risultino nati anteriormente al 1° gennaio 1877 sono ammessi all' amnistia incondizionatamente; per quelli nati dal 1° gennaio 1877 in poi la concessione dell'amnistia e' subordinata alla condizione che, per presentazione spontanea o per arresto, si costituiscano alle autorita' militari per imprendere servizio entro il 31 marzo 1915 qualora risiedano nel Regno entro il 31 maggio 1915 se residenti all'estero. 
  

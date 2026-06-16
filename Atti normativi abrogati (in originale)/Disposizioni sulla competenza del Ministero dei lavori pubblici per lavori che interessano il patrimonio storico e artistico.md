@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il Ministero dei lavori pubblici, competente - a norma del [regio decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544) - ad eseguire opere edilizie per conto dello Stato, e' autorizzato a provvedere, assumendo l'onere relativo sui fondi del proprio bilancio:
+Il Ministero dei lavori pubblici, competente - a norma del [regio decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md) - ad eseguire opere edilizie per conto dello Stato, e' autorizzato a provvedere, assumendo l'onere relativo sui fondi del proprio bilancio:
  a) ai lavori di natura statica e strutturale, di manutenzione straordinaria, di restauro ed impianto di apparecchiature tecniche, in edifici, statali e non statali, di interesse artistico o storico soggetti alla [legge 1 giugno 1939, n. 1089](Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md);
  b) ai lavori della stessa natura in edifici, statali e non statali, anche privi di interesse artistico o storico, adibiti a sede di raccolte museali dello Stato o di servizi ad esse inerenti che perseguano finalita' artistiche e culturali.
  E' fatta salva la competenza dei soprintendenti ai monumenti o alle antichita' per quanto riguarda la tutela dei caratteri monumentali degli edifici oggetto dei lavori di cui alla lettera a), e la competenza dei soprintendenti alle gallerie o alle antichita' per quanto riguarda i lavori di cui alla lettera b).

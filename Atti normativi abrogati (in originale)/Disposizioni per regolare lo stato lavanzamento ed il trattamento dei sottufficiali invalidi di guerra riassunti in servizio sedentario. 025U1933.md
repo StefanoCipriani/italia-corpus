@@ -20,7 +20,7 @@ Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.
 
 Visto il [decreto Luogotenenziale 14 luglio 1917, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-14;1032), per il mantenimento e la riassunzione in servizio dei militari invalidi della guerra;
 
-Visto il [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulla riforma tecnico-giuridica delle norme vigenti sulle pensioni di guerra;
+Visto il [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulla riforma tecnico-giuridica delle norme vigenti sulle pensioni di guerra;
 
 Udito il Consiglio dei Ministri;
 
@@ -54,7 +54,7 @@ Ai sottufficiali invalidi riassunti in servizio sedentario spettera' per quanto 
 
 ## Art. 5.
 
-Le disposizioni dell'[art. 22 del R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), si applicano anche ai sottufficiali invalidi riassunti in servizio sedentario, ma l'indennita' militare e' dovuta ai sottufficiali stessi nella stessa misura di quella spettante ai sottufficiali del servizio attivo.
+Le disposizioni dell'[art. 22 del R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), si applicano anche ai sottufficiali invalidi riassunti in servizio sedentario, ma l'indennita' militare e' dovuta ai sottufficiali stessi nella stessa misura di quella spettante ai sottufficiali del servizio attivo.
 
 ## Art. 6.
 
@@ -68,7 +68,7 @@ Le stesse Commissioni di avanzamento, stabilite dalle vigenti disposizioni per i
 
 ## Art. 8.
 
-Per la valutazione del servizio militare e delle campagne di guerra agli effetti della eventuale liquidazione della pensione normale alla quale il sottufficiale invalido possa acquistare diritto dopo la liquidazione della pensione di guerra, saranno applicate le disposizioni stabilite dal [R. decreto 28 dicembre 1924, n. 2163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2163).
+Per la valutazione del servizio militare e delle campagne di guerra agli effetti della eventuale liquidazione della pensione normale alla quale il sottufficiale invalido possa acquistare diritto dopo la liquidazione della pensione di guerra, saranno applicate le disposizioni stabilite dal [R. decreto 28 dicembre 1924, n. 2163](../Regi%20decreti/Regolamento%20per%20la%20valutazione%20dei%20servizi%20militari%20e%20delle%20campagne%20di%20guerra%20agli%20effetti%20della%20liquidazione%20della%20pensione%20ordinaria%20cui%20gli%20invalidi%20acquistano%20diritto%20dopo%20la%20liquida_4984c20e5f3f.md).
 
 ## Art. 9. — Disposizione transitoria.
 

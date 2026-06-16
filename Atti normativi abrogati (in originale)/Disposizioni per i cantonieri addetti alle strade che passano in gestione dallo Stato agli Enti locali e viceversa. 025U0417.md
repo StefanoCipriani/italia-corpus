@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 22 del R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506#art_22); 
+ Visto l'[art. 22 del R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md); 
  
- Ritenuta l'opportunita' di disciplinare la posizione economica e giuridica dei cantonieri addetti a strade che in dipendenza della nuova classificazione passano in gestione dallo Stato agli Enti locali e viceversa: e cio' in attesa che vengano emanate le altre norme occorrenti per la esecuzione del predetto [R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506); 
+ Ritenuta l'opportunita' di disciplinare la posizione economica e giuridica dei cantonieri addetti a strade che in dipendenza della nuova classificazione passano in gestione dallo Stato agli Enti locali e viceversa: e cio' in attesa che vengano emanate le altre norme occorrenti per la esecuzione del predetto [R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md); 
  
  Udito il Consiglio superiore dei lavori pubblici ed il Consiglio dei Ministri; 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Le norme di cui sopra si applicheranno sempre che in dipendenza dei passaggi di gestione delle strade non sia possibile in tutto od in parte trasferire i cantonieri da un tronco all'altro in corrispondenza dei passaggi verificatisi, per modo che ciascuno degli Enti possa continuare a mantenere alla esclusiva sua dipendenza i cantonieri dei propri ruoli. 
  
- Il presente decreto avra' applicazione dal 1° luglio 1924 e cessera' di avere efficacia dal giorno in cui entrera' in vigore il regolamento di applicazione del [R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506). 
+ Il presente decreto avra' applicazione dal 1° luglio 1924 e cessera' di avere efficacia dal giorno in cui entrera' in vigore il regolamento di applicazione del [R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

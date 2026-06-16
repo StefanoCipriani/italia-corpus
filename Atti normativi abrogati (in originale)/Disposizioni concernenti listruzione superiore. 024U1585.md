@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti i [Regi decreti 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md); 30 settembre 1923. n. 2102; 6 dicembre 1923, n. 2656; 23 marzo 1924, n. 507; 27 marzo 1924, n. 527, e 22 maggio 1924, n. 744:
+Veduti i [Regi decreti 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md); 30 settembre 1923. n. 2102; 6 dicembre 1923, n. 2656; 23 marzo 1924, n. 507; 27 marzo 1924, n. 527, e 22 maggio 1924, n. 744:
 
 Udito il Consiglio dei Ministri;
 
@@ -22,21 +22,21 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-I professori delle Universita' e degli istituti superiori di cui alla tabella B, annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono professori di Stato. 
+I professori delle Universita' e degli istituti superiori di cui alla tabella B, annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono professori di Stato. 
  
  La loro condizione giuridica e' uguale a quella dei professori delle Universita' e degli Istituti superiori indicati nella tabella A. dello stesso Regio decreto. 
  
- Fermo il disposto dell'[art. 84 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), che pone a carico delle singole Universita' e dei singoli Istituti le spese per gli stipendi e per tutti gli emolumenti spettanti ai professori di ruolo, la condizione economica di essi e' stabilita nel regolamento interno dell'Universita' o dell'Istituto superiore entro i limiti fissati dall'[art. 3 del R. decreto 6 dicembre 1923, n. 2656](Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md), previa deliberazione del Consiglio di amministrazione.
+ Fermo il disposto dell'[art. 84 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), che pone a carico delle singole Universita' e dei singoli Istituti le spese per gli stipendi e per tutti gli emolumenti spettanti ai professori di ruolo, la condizione economica di essi e' stabilita nel regolamento interno dell'Universita' o dell'Istituto superiore entro i limiti fissati dall'[art. 3 del R. decreto 6 dicembre 1923, n. 2656](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md), previa deliberazione del Consiglio di amministrazione.
 
 ## Art. 2.
 
-In caso di soppressione di Universita', Istituti superiori, o Istituti superiori di magistero, come pure in caso di soppressione di Facolta' o Scuole, ai professori si applicano le disposizioni degli articoli 87, 89 (escluso il comma 2°) 91, 92 e 94 del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960). 
+In caso di soppressione di Universita', Istituti superiori, o Istituti superiori di magistero, come pure in caso di soppressione di Facolta' o Scuole, ai professori si applicano le disposizioni degli articoli 87, 89 (escluso il comma 2°) 91, 92 e 94 del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Le attribuzioni demandate al Consiglio di amministrazione sono esercitate dal Consiglio superiore della pubblica istruzione.
 
 ## Art. 3.
 
-I professori, che, a norma degli [articoli 147](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [150](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [151 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e dell'art. 22 del presente decreto rimangono o sono destinati presso le Universita' o gli Istituti di cui alla tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), qualora siano successivamente trasferiti ad altre Universita' o ad altri Istituti superiori della stessa tabella B, conservano il trattamento economico previsto negli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_19) e [20 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_20).
+I professori, che, a norma degli [articoli 147](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [150](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [151 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e dell'art. 22 del presente decreto rimangono o sono destinati presso le Universita' o gli Istituti di cui alla tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), qualora siano successivamente trasferiti ad altre Universita' o ad altri Istituti superiori della stessa tabella B, conservano il trattamento economico previsto negli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_19) e [20 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_20).
 
 ## Art. 4.
 
@@ -48,7 +48,7 @@ Quando un professore di ruolo sia impedito d'attendere alle mansioni del suo uff
 
 ## Art. 5.
 
-Ai professori di ruolo possono essere affidate supplenze e incarichi retribuiti nelle proprie o in altre Facolta' o Scuole, secondo l'ordine fissato dall'art. 44 del regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674). 
+Ai professori di ruolo possono essere affidate supplenze e incarichi retribuiti nelle proprie o in altre Facolta' o Scuole, secondo l'ordine fissato dall'art. 44 del regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md). 
  
  L'incarico di uno stesso insegnamento non puo' essere tenuto per oltre due anni. 
  
@@ -58,7 +58,7 @@ Ai professori di ruolo possono essere affidate supplenze e incarichi retribuiti 
 
 Nessun posto di ruolo puo' essere lasciato vacante per un periodo superiore ad un biennio, salvo eccezionali motivi da valutarsi dal Consiglio superiore della pubblica istruzione. 
  
- Trascorso tale periodo senza che le Facolta' o le Scuole abbiano provveduto, il Ministro, udito il Consiglio superiore per la designazione della cattedra da coprirsi, procede alla nomina del titolare, sulla proposta di una commissione nominata e composta secondo l'[art. 17 comma 1° del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), osservate, in quanto applicabili, le norme di cui agli articoli dal 25 al 30 incluso del Regolamento generale universitario.
+ Trascorso tale periodo senza che le Facolta' o le Scuole abbiano provveduto, il Ministro, udito il Consiglio superiore per la designazione della cattedra da coprirsi, procede alla nomina del titolare, sulla proposta di una commissione nominata e composta secondo l'[art. 17 comma 1° del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), osservate, in quanto applicabili, le norme di cui agli articoli dal 25 al 30 incluso del Regolamento generale universitario.
 
 ## Art. 7.
 
@@ -66,13 +66,13 @@ Per il primo funzionamento delle Universita' e degli Istituti superiori liberi i
  
  Per provvedere, entro i limiti dei rispettivi ruoli organici, a posti di professore presso Universita' o Istituti liberi di nuova creazione, all'atto del loro giuridico riconoscimento, il Ministro puo' trasferirvi su domanda, e previo parere favorevole dell'ente o degli enti promotori delle Universita' o degli Istituti stessi, professori di qualsiasi Universita' o Istituto superiore per l'insegnamento della materia di cui sono titolari o di altre materie. 
  
- Qualora rimangano disponibili altri posti si provvede con le norme stabilite dall'[art. 17 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). Le attribuzioni demandate ai Consigli di Facolta' e Scuola sono esercitate dall'ente o dagli enti predetti. 
+ Qualora rimangano disponibili altri posti si provvede con le norme stabilite dall'[art. 17 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). Le attribuzioni demandate ai Consigli di Facolta' e Scuola sono esercitate dall'ente o dagli enti predetti. 
  
  Le domande e le proposte di cui ai commi precedenti possono essere presentate non appena sia stato rassegnato al Ministero lo schema dello statuto.
 
 ## Art. 8.
 
-Nelle sedi ove coesistono le Universita' e le Scuole d'ingegneria di cui alla tabella A annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' istituito presso la Facolta' di scienze matematiche, fisiche e naturali un corso biennale d'insegnamento propedeutico per l'ingegneria. 
+Nelle sedi ove coesistono le Universita' e le Scuole d'ingegneria di cui alla tabella A annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' istituito presso la Facolta' di scienze matematiche, fisiche e naturali un corso biennale d'insegnamento propedeutico per l'ingegneria. 
  
  In nessun'altra Universita' puo' essere conservato od istituito tale corso. 
  
@@ -80,13 +80,13 @@ Nelle sedi ove coesistono le Universita' e le Scuole d'ingegneria di cui alla ta
  
  Una commissione composta di tre professori designati dal Consiglio della Scuola d'ingegneria e tre professori designati dal Consiglio della Facolta', sotto la presidenza del preside di questa, propone le norme per l'ordinamento di detti corsi propedeutici e il loro coordinamento con i corsi d'ingegneria. Tali norme sono sottoposte all'approvazione del Senato accademico dell'Universita' e del Consiglio della Scuola, uditi per l'Universita' e per la Scuola i Consigli di amministrazione, e vengono inserite negli statuti dell'Universita' e della Scuola d'ingegneria. 
  
- Gli studenti del corso biennale preparatorio pagano alla cassa dell'Universita' le tasse e sopratasse nella misura stabilita per l'ingegneria dalla tabella G annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) modificata con il [R. decreto 6 dicembre 1923, n. 2656](Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md). 
+ Gli studenti del corso biennale preparatorio pagano alla cassa dell'Universita' le tasse e sopratasse nella misura stabilita per l'ingegneria dalla tabella G annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) modificata con il [R. decreto 6 dicembre 1923, n. 2656](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md). 
  
  L'Universita' versa alla Scuola d'ingegneria un terzo del provento delle tasse e sopratasse anzidette.
 
 ## Art. 9.
 
-Perche' presso gli Istituti superiori di magistero possa farsi luogo allo sdoppiamento di un corso ai sensi dell'[articolo 8 del R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), occorre il parere favorevole del Consiglio superiore della pubblica istruzione.
+Perche' presso gli Istituti superiori di magistero possa farsi luogo allo sdoppiamento di un corso ai sensi dell'[articolo 8 del R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), occorre il parere favorevole del Consiglio superiore della pubblica istruzione.
 
 ## Art. 10.
 
@@ -104,7 +104,7 @@ Presso ciascun Istituto superiore di magistero e' costituita una cassa scolastic
  
  1° Il 5 per cento dell'ammontare delle sopratasse di esami, di profitto. 
  
- 2° Una somma, determinata, anno per anno, dal Consiglio direttivo, sulla dotazione annua di cui all'[art. 95 del R. decreto 30 settembre 1923 n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+ 2° Una somma, determinata, anno per anno, dal Consiglio direttivo, sulla dotazione annua di cui all'[art. 95 del R. decreto 30 settembre 1923 n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  3° Un contributo di L. 20 che ciascuno studente iscritta e' tenuto a pagare annualmente. 
  
@@ -112,19 +112,19 @@ Presso ciascun Istituto superiore di magistero e' costituita una cassa scolastic
 
 ## Art. 12.
 
-All'[art. 40 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' aggiunto il comma seguente: 
+All'[art. 40 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' aggiunto il comma seguente: 
  
  «Sono parimenti a carico dei candidati le spese generali occorrenti per lo svolgimento degli atti della libera docenza proporzionalmente ripartite fra i candidati stessi».
 
 ## Art. 13.
 
-Al [primo comma dell'art. 70 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito il seguente: 
+Al [primo comma dell'art. 70 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito il seguente: 
  
  «Il bilancio preventivo non e' soggetto alla approvazione del Ministero della pubblica istruzione, al quale pero' sara' inviato, per conoscenza, un mese prima dell'inizio dell'esercizio finanziario».
 
 ## Art. 14.
 
-Nell'[art. 131 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e nella nota n. 3 apposta alla tabella E allegata al decreto medesimo, alla locuzione «[art. 4 del R. decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md)» e' sostituita la seguente: «[art. 4 del Regio decreto 17 agosto 1919, n. 1707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-17;1707#art_4), quale risulta in seguito alle modificazioni apportatevi in virtu' dell'[art. 1 del R. decreto 13 maggio 1920, n. 929](Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md)».
+Nell'[art. 131 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e nella nota n. 3 apposta alla tabella E allegata al decreto medesimo, alla locuzione «[art. 4 del R. decreto 13 maggio 1920, n. 929](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md)» e' sostituita la seguente: «[art. 4 del Regio decreto 17 agosto 1919, n. 1707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-17;1707#art_4), quale risulta in seguito alle modificazioni apportatevi in virtu' dell'[art. 1 del R. decreto 13 maggio 1920, n. 929](../Regi%20decreti/Contenente%20provvedimenti%20a%20favore%20del%20personale%20insegnante%20universitario.%20020U0929.md)».
 
 ## Art. 15.
 
@@ -132,15 +132,15 @@ Nell'[art. 3 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/ur
 
 ## Art. 16.
 
-L'ente Istituti clinici di perfezionamento di Milano conserva la sua personalita' giuridica, ferma restando la disposizione dell'[art. 143 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), per quanto si riferisce alla appartenenza didattica degli Istituti clinici alla Regia Universita' di Milano.
+L'ente Istituti clinici di perfezionamento di Milano conserva la sua personalita' giuridica, ferma restando la disposizione dell'[art. 143 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), per quanto si riferisce alla appartenenza didattica degli Istituti clinici alla Regia Universita' di Milano.
 
 ## Art. 17.
 
-A decorrere dal 1° dicembre 1924 la Regia Scuola superiore d'architettura di Roma cessa di far parte degli Istituti superiori di cui alla tabella A del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+A decorrere dal 1° dicembre 1924 la Regia Scuola superiore d'architettura di Roma cessa di far parte degli Istituti superiori di cui alla tabella A del [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  Con decreto Reale, da emanarsi su proposta del Ministro per la pubblica istruzione, saranno stabiliti il nuovo ordinamento ed i ruoli del personale insegnante e di amministrazione, diminuendo di altrettanti posti il ruolo del personale insegnante delle Universita' e dei Regi Istituti superiori, e di un posto di segretario e di uno di applicato il ruolo dell'amministrazione universitaria. 
  
- In favore della Scuola e' mantenuto il contributo a carico del bilancio dello Stato da determinarsi a norma dell'[articolo 161 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dall'[art. 5 del R. decreto 6 dicembre 1923, n. 2656](Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md). E' altresi' mantenuto il contributo di L. 50,000 di cui all'[art. 27 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_27). 
+ In favore della Scuola e' mantenuto il contributo a carico del bilancio dello Stato da determinarsi a norma dell'[articolo 161 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dall'[art. 5 del R. decreto 6 dicembre 1923, n. 2656](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md). E' altresi' mantenuto il contributo di L. 50,000 di cui all'[art. 27 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_27). 
  
  I professori attualmente addetti alla Scuola hanno facolta' di far passaggio nel nuovo ruolo ovvero di rimanere nel ruolo dei professori universitari. In tal caso saranno destinati, per l'insegnamento della materia di cui sono titolari o d'altra materia, alle Scuole di ingegneria, o alle Facolta' di scienze.
 
@@ -150,15 +150,15 @@ Qualora per eventuali modificazioni apportate agli statuti delle Universita' o I
 
 ## Art. 19.
 
-L'ultimo comma dell'[art. 54 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
+L'ultimo comma dell'[art. 54 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  
  «Gli studenti di cittadinanza straniera sono dispensati dal pagamento delle tasse e sopratasse stabilite dalla predetta tabella, non dal pagamento delle tasse d'iscrizione ai corsi impartiti a titolo privato e dei contributi di qualsiasi natura».
 
 ### Art. 20.
 
-Le disposizioni dei [Regi decreti 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md); [6 dicembre 1923, n. 2656](Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md); [23 marzo 1924, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-23;507); [27 marzo 1924, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-27;527) e [22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744), che debbono essere attuate dal 1° ottobre 1924, avranno invece effetto dal 1° dicembre successivo, salvo quanto e' stabilito nell'articolo seguente; e le disposizioni dei decreti stessi che sono in vigore fino al 30 settembre 1924, s'intenderanno prorogate al 30 novembre successivo, salvo quanto e' disposto nell'articolo seguente. 
+Le disposizioni dei [Regi decreti 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md); [6 dicembre 1923, n. 2656](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2030%20settembre%201923%20n.%202102%20concernente%20lordinamento%20della%20istruzione%20superiore%20in%20relazione%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395.%20023U2656.md); [23 marzo 1924, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-23;507); [27 marzo 1924, n. 527](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-27;527) e [22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744), che debbono essere attuate dal 1° ottobre 1924, avranno invece effetto dal 1° dicembre successivo, salvo quanto e' stabilito nell'articolo seguente; e le disposizioni dei decreti stessi che sono in vigore fino al 30 settembre 1924, s'intenderanno prorogate al 30 novembre successivo, salvo quanto e' disposto nell'articolo seguente. 
  
- La R. Universita' di Bari funzionera' dalla data della pubblicazione della convenzione di cui agli [art. 3](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [82 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sulla Gazzetta Ufficiale del Regno. 
+ La R. Universita' di Bari funzionera' dalla data della pubblicazione della convenzione di cui agli [art. 3](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [82 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sulla Gazzetta Ufficiale del Regno. 
  
  Dal 16 ottobre 1924, presso le Universita', gli Istituti superiori e gli Istituti superiori di magistero si svolgeranno le operazioni degli esami speciali, di laurea e di diploma della sessione autunnale. Dal 1° dicembre successivo avranno inizio le lezioni del nuovo anno accademico.
 
@@ -166,27 +166,27 @@ Le disposizioni dei [Regi decreti 30 settembre 1923, n. 2102](Ordinamento%20dell
 
 Restano ferme: 
  
- 1° La decorrenza dal 1° ottobre 1924 per le disposizioni di cui agli articoli 15, 16, 17, 18, 19, 47 comma 1°, 50 comma 1°, 92, 114 comma 1°, 118 del [R. decreto 30 settembre 1923, n. 2102 e agli articoli 9](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [15](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [17](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) del [R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744) e tutte le norme relative alle borse di perfezionamento. 
+ 1° La decorrenza dal 1° ottobre 1924 per le disposizioni di cui agli articoli 15, 16, 17, 18, 19, 47 comma 1°, 50 comma 1°, 92, 114 comma 1°, 118 del [R. decreto 30 settembre 1923, n. 2102 e agli articoli 9](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [15](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [17](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) del [R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744) e tutte le norme relative alle borse di perfezionamento. 
  
- 2° La decorrenza dal 16 ottobre 1924 per le disposizioni degli [articoli 127](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [128 del R. decreto 30 settembre 1923, numero 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+ 2° La decorrenza dal 16 ottobre 1924 per le disposizioni degli [articoli 127](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [128 del R. decreto 30 settembre 1923, numero 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  Il termine del 16 ottobre 1924, stabilito dall'[art. 22 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_22), e' portato al 30 novembre successivo. 
  
- Dal 1° ottobre al 30 novembre 1924, non potra' provvedersi a nuove assunzioni di personale a titolo di provvisorio incarico ai sensi dell'[art. 155, comma secondo, del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
+ Dal 1° ottobre al 30 novembre 1924, non potra' provvedersi a nuove assunzioni di personale a titolo di provvisorio incarico ai sensi dell'[art. 155, comma secondo, del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ### Art. 22.
 
-I professori che si troveranno nelle condizioni indicate dall'[art. 148 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), potranno, con le modalita' stabilite dall'articolo stesso, essere assegnati anche ad Universita' od Istituti di cui alla tabella B allegata al decreto predetto, limitatamente ai posti disponibili nei relativi ruoli organici. 
+I professori che si troveranno nelle condizioni indicate dall'[art. 148 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), potranno, con le modalita' stabilite dall'articolo stesso, essere assegnati anche ad Universita' od Istituti di cui alla tabella B allegata al decreto predetto, limitatamente ai posti disponibili nei relativi ruoli organici. 
  
  Ad essi saranno applicabili le disposizioni di cui agli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_19) e [20 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_20), secondo le Universita' o Istituti ai quali verranno assegnati.
 
 ### Art. 23.
 
-L'[art. 138 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e' sostituito dal seguente: 
+L'[art. 138 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e' sostituito dal seguente: 
  
- «Fino al 31 maggio 1925 le Facolta' e le Scuole delle Universita' e degli Istituti superiori e gli istituti superiori di magistero, per provvedere con nuove nomine a posti di ruolo vacanti potranno, prescindendo dalla procedura di cui all'[art. 17 del R. decreto 30 settembre 1923, n.2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), scegliere liberamente persone comprese nelle graduatorie di concorsi a cattedre universitarie della stessa materia i cui atti siano stati approvati non prima del giugno 1920, sempreche' le persone stesse non abbiano gia' conseguito nomina a posti di ruolo presso Regie Universita' o Regi istituti superiori o Regi Istituti superiori di magistero, quando trattisi, in quest'ultimo caso, di procedere a nomine in altri Istituti di magistero. 
+ «Fino al 31 maggio 1925 le Facolta' e le Scuole delle Universita' e degli Istituti superiori e gli istituti superiori di magistero, per provvedere con nuove nomine a posti di ruolo vacanti potranno, prescindendo dalla procedura di cui all'[art. 17 del R. decreto 30 settembre 1923, n.2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), scegliere liberamente persone comprese nelle graduatorie di concorsi a cattedre universitarie della stessa materia i cui atti siano stati approvati non prima del giugno 1920, sempreche' le persone stesse non abbiano gia' conseguito nomina a posti di ruolo presso Regie Universita' o Regi istituti superiori o Regi Istituti superiori di magistero, quando trattisi, in quest'ultimo caso, di procedere a nomine in altri Istituti di magistero. 
  
- «Per provvedere a nomine in Istituti superiori di magistero si potra' ricorrere alle graduatorie di concorsi a cattedre per gli Istituti stessi con le modalita' di cui al precedente comma. In tal caso ai professori nominati e' applicabile la disposizione di cui all'ultimo comma dell'[art. 139 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+ «Per provvedere a nomine in Istituti superiori di magistero si potra' ricorrere alle graduatorie di concorsi a cattedre per gli Istituti stessi con le modalita' di cui al precedente comma. In tal caso ai professori nominati e' applicabile la disposizione di cui all'ultimo comma dell'[art. 139 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  «Qualora pero' nel predetto periodo di tempo si siano svolti piu' concorsi per la stessa materia, la scelta dovra' limitarsi alla graduatoria del concorso piu' recente. 
  
@@ -195,22 +195,22 @@ Nel caso di cui al presente comma deve e essere sentito il parere del Consiglio 
 
 ### Art. 24.
 
-L'ultimo comma dell'[art. 151 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e' sostituito dal seguente: 
+L'ultimo comma dell'[art. 151 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e' sostituito dal seguente: 
  
  «Il Ministro, qualora rimangano disponibili altri posti di ruolo e, tenuto conto del nuovo ordinamento didattico delle Facolta' o Scuole di cui trattasi, ritenga opportuno di coprirli in tutto o in parte, potra' provvedervi con nuove nomine, valendosi delle graduatorie di cui all'art. 20 del presente decreto e nell'ordine secondo il quale i designati sono compresi nelle graduatorie medesime, esclusi coloro che abbiano gia' conseguito nomina a posti di ruolo presso Regie Universita' e Regi Istituti superiori o Regi Istituti superiori di magistero, quando trattisi, in quest'ultimo caso, di procedere a nomine in altri Istituti di magistero. In mancanza, la scelta delle persone da nominarsi sara' fatta, per ciascuna materia, da una Commissione nominata e composta secondo l'art. 17, comma 1°, osservate in quanto siano applicabili le norme contenute negli articoli da 25 a 30 incluso del Regolamento generale universitario.  
  «Per le nomine negli Istituti superiori di magistero e' anche applicabile il disposto di cui al comma 3° del precedente articolo».
 
 ### Art. 25.
 
-statuti delle Universita' e Istituti superiori indicati nelle tabelle A e B annesse al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono provvisoriamente approvati per l'anno accademico 1924-25 con ordinanza del Ministro per la pubblica istruzione, e sono pubblicati nel Bollettino Ufficiale. 
+statuti delle Universita' e Istituti superiori indicati nelle tabelle A e B annesse al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono provvisoriamente approvati per l'anno accademico 1924-25 con ordinanza del Ministro per la pubblica istruzione, e sono pubblicati nel Bollettino Ufficiale. 
  
- Entro il 1° ottobre 1925 si procedera' all'approvazione definitiva degli statuti, osservando le norme di cui agli articoli 1, comma 4°, e 80 del [R. decreto 30 settembre 1923, numero 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+ Entro il 1° ottobre 1925 si procedera' all'approvazione definitiva degli statuti, osservando le norme di cui agli articoli 1, comma 4°, e 80 del [R. decreto 30 settembre 1923, numero 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  Le Universita' e gli Istituti superiori dovranno far pervenire al Ministero non oltre il 30 aprile 1925 le proposte di variazioni ai rispettivi statuti. Trascorso tale termine senza che sia stata fatta alcuna proposta, gli statuti provvisori verranno approvati in modo definitivo.
 
 ### Art. 26.
 
-Ferme restando le disposizioni di cui all'[art. 144 del Regio decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), entro i limiti dei posti disponibili nei rispettivi ruoli organici, potra' provvedersi anche prima della approvazione degli statuti, ai trasferimenti e alle destinazioni di professori secondo le norme degli articoli 20, 150, 151, 152 del R. decreto predetto. 
+Ferme restando le disposizioni di cui all'[art. 144 del Regio decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), entro i limiti dei posti disponibili nei rispettivi ruoli organici, potra' provvedersi anche prima della approvazione degli statuti, ai trasferimenti e alle destinazioni di professori secondo le norme degli articoli 20, 150, 151, 152 del R. decreto predetto. 
  
  All'assegnazione delle cattedre si procedera' successivamente in base allo statuto. 
  
@@ -222,7 +222,7 @@ Ferme restando le disposizioni di cui all'[art. 144 del Regio decreto 30 settemb
 
 ### Art. 27.
 
-Limitatamente all'anno scolastico 1924-25, la decorrenza delle nuove nomine e dei trasferimenti, fissata dall'art. 16. del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) al 16 ottobre, potra' protrarsi fino al 16 gennaio.
+Limitatamente all'anno scolastico 1924-25, la decorrenza delle nuove nomine e dei trasferimenti, fissata dall'art. 16. del [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) al 16 ottobre, potra' protrarsi fino al 16 gennaio.
 
 ### Art. 28.
 
@@ -232,11 +232,11 @@ Fino al 15 dicembre 1924 i posti di ruolo di professore assegnati alle singole F
 
 ### Art. 29.
 
-I professori di ruolo degli Istituti superiori di magistero di materie complementari mantenuti in soprannumero, in virtu' dell'art. 22, comma ultimo del [R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), fanno parte del Consiglio direttivo, ed hanno gli stessi diritti e doveri dei professori di materie fondamentali.
+I professori di ruolo degli Istituti superiori di magistero di materie complementari mantenuti in soprannumero, in virtu' dell'art. 22, comma ultimo del [R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), fanno parte del Consiglio direttivo, ed hanno gli stessi diritti e doveri dei professori di materie fondamentali.
 
 ### Art. 30.
 
-Agli attuali professori che, al momento della loro assunzione nel ruolo dei professori universitari appartenevano con il grado di straordinario a istituti superiori dipendenti dal Ministero dell'economia nazionale o alle Universita' libere di Camerino, Ferrara, Perugia e Urbino (quando queste entrino a far parte della categoria di cui al [secondo comma dell'art. 1 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md)), il servizio prestato presso gli Istituti e le Universita' predette verra' computato per intero ai fini del decorso del triennio richiesto per il conseguimento della stabilita'. 
+Agli attuali professori che, al momento della loro assunzione nel ruolo dei professori universitari appartenevano con il grado di straordinario a istituti superiori dipendenti dal Ministero dell'economia nazionale o alle Universita' libere di Camerino, Ferrara, Perugia e Urbino (quando queste entrino a far parte della categoria di cui al [secondo comma dell'art. 1 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md)), il servizio prestato presso gli Istituti e le Universita' predette verra' computato per intero ai fini del decorso del triennio richiesto per il conseguimento della stabilita'. 
  
  Agli effetti del collocamento nel grado e dell'attribuzione degli stipendi, tale servizio verra' computato a decorrere dal 1° ottobre 1924 per i professori stabili provenienti dagli istituti dipendenti dal Ministero dell'economia nazionale, e per i professori stabili provenienti dalle Universita' libere surricordate dal giorno in cui esse entrano a far parte della categoria predetta. 
  
@@ -246,15 +246,15 @@ Agli attuali professori che, al momento della loro assunzione nel ruolo dei prof
 
 ### Art. 31.
 
-Fermo rimanendo il disposto dell'[art. 6 del R. decreto 31 dicembre 1923, n. 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md), le lauree e i diplomi conferiti sino a tutto il 31 dicembre 1924 dalle Universita' e dagli Istituiti superiori avranno, agli effetti dell'abilitazione all'esercizio professionale, lo stesso valore delle lauree e dei diplomi conseguiti entro il 31 dicembre 1923.
+Fermo rimanendo il disposto dell'[art. 6 del R. decreto 31 dicembre 1923, n. 2909](../Regi%20decreti/Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md), le lauree e i diplomi conferiti sino a tutto il 31 dicembre 1924 dalle Universita' e dagli Istituiti superiori avranno, agli effetti dell'abilitazione all'esercizio professionale, lo stesso valore delle lauree e dei diplomi conseguiti entro il 31 dicembre 1923.
 
 ### Art. 32.
 
-Il termine della presentazione delle domande di cui agli articoli 4, comma 2°, e 5, comma ultimo, del [R. decreto 31 dicembre 1923, n. 3105](Disposizioni%20relative%20al%20personale%20delle%20Segreterie%20universitarie.%20023U3105.md) e' prorogato al 30 dicembre 1924.
+Il termine della presentazione delle domande di cui agli articoli 4, comma 2°, e 5, comma ultimo, del [R. decreto 31 dicembre 1923, n. 3105](../Regi%20decreti/Disposizioni%20relative%20al%20personale%20delle%20Segreterie%20universitarie.%20023U3105.md) e' prorogato al 30 dicembre 1924.
 
 ### Art. 33.
 
-Il provento delle tasse d'immatricolazione e' d'iscrizione degli alunni del biennio preparatorio degli studi d'ingegneria per l'anno 1923-24, agli effetti dell'[art. 161, comma 3° del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), non sara' computato per le Universita' nella cui sede non esista Scuola d'ingegneria appartenente alla tabella. A. annessa al decreto anzidetto. Tale provento sara' computato per un terzo nei riguardi dell'Universita' nel caso previsto dal primo comma dell'art. 8 del presente decreto.
+Il provento delle tasse d'immatricolazione e' d'iscrizione degli alunni del biennio preparatorio degli studi d'ingegneria per l'anno 1923-24, agli effetti dell'[art. 161, comma 3° del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), non sara' computato per le Universita' nella cui sede non esista Scuola d'ingegneria appartenente alla tabella. A. annessa al decreto anzidetto. Tale provento sara' computato per un terzo nei riguardi dell'Universita' nel caso previsto dal primo comma dell'art. 8 del presente decreto.
 
 ### Art. 34.
 

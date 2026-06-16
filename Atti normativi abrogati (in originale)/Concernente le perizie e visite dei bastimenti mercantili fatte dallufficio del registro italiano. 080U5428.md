@@ -16,7 +16,7 @@ IL MINISTRO DELLA MARINA
  
  Visti gli articoli 519, 520, 521 e 522 del regolamento approvato con [R. decreto 20 novembre 1879, n. 5166](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20del%20Codice%20per%20la%20marina%20mercantile.%20079U5166.md) (Serie 2ª), per l'esecuzione del testo unico del detto Codice; 
  
- Visto il [R. decreto 29 settembre 1870, num. 5900](Col%20quale%20lUfficio%20del%20Registro%20italiano%20per%20la%20classificazione%20dei%20bastimenti%20residente%20in%20Genova%20e%20riconosciuto%20come%20Stabilimento%20di%20pubblica%20utilita%20ed%20elevato%20ad%20Ente%20morale.%20070U5900.md), per cui l'uffizio del Registro italiano per le classificazioni dei bastimenti, residente in Genova, e' riconosciuto come stabilimento di pubblica utilita', ed elevato ad Ente morale; 
+ Visto il [R. decreto 29 settembre 1870, num. 5900](../Regi%20decreti/Col%20quale%20lUfficio%20del%20Registro%20italiano%20per%20la%20classificazione%20dei%20bastimenti%20residente%20in%20Genova%20e%20riconosciuto%20come%20Stabilimento%20di%20pubblica%20utilita%20ed%20elevato%20ad%20Ente%20morale.%20070U5900.md), per cui l'uffizio del Registro italiano per le classificazioni dei bastimenti, residente in Genova, e' riconosciuto come stabilimento di pubblica utilita', ed elevato ad Ente morale; 
  
  Visti i regolamenti del suddetto uffizio del Registro italiano per la classificazione dei bastimenti di legno e per la costruzione e la classificazione dei bastimenti in ferro a vela ed a vapore; 
  

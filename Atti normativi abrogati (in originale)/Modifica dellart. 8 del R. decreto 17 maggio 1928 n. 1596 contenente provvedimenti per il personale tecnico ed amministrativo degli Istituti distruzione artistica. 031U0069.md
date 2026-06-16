@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
- Visto il [R. decreto 17 maggio 1928, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-17;1596); 
+ Visto il [R. decreto 17 maggio 1928, n. 1596](../Regi%20decreti/Provvedimenti%20per%20il%20personale%20degli%20istituti%20di%20istruzione%20artistica.%20028U1596.md); 
  
- Considerata l'opportunita' di estendere l'[art. 8 del R. decreto 17 maggio 1928, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-17;1596#art_8), agli insegnanti degli Istituti d'istruzione artistica che abbiano fatto passaggio negli Istituti medesimi successivamente al termine stabilito dall'articolo stesso e non oltre il 30 novembre 1923; 
+ Considerata l'opportunita' di estendere l'[art. 8 del R. decreto 17 maggio 1928, n. 1596](../Regi%20decreti/Provvedimenti%20per%20il%20personale%20degli%20istituti%20di%20istruzione%20artistica.%20028U1596.md), agli insegnanti degli Istituti d'istruzione artistica che abbiano fatto passaggio negli Istituti medesimi successivamente al termine stabilito dall'articolo stesso e non oltre il 30 novembre 1923; 
  
  Udito il parere del Consiglio di Stato; 
  
@@ -28,9 +28,9 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il [primo comma dell'art. 8 del R. decreto 17 maggio 1928, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-17;1596#art_8-com1), e' modificato come appresso: 
+ Il [primo comma dell'art. 8 del R. decreto 17 maggio 1928, n. 1596](../Regi%20decreti/Provvedimenti%20per%20il%20personale%20degli%20istituti%20di%20istruzione%20artistica.%20028U1596.md), e' modificato come appresso: 
  
- «Il servizio di ruolo, prestato negli Istituti pareggiati di istruzione artistica superiore o media, o negli Istituti con diritto di pubblicita' e reciprocita' dei territori del Regno gia' facenti parte della cessata Monarchia austro-ungarica dagli insegnanti i quali anteriormente al 30 novembre 1923 abbiano fatto passaggio nei ruoli delle Regie accademie di belle arti, dei Licei artistici e dei Regi conservatori di musica e della Scuola di recitazione e che alla data di entrata in vigore del [R. decreto 17 maggio 1928, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-17;1596), appartenevano ai ruoli medesimi, e' riconosciuto ai fini della carriera». 
+ «Il servizio di ruolo, prestato negli Istituti pareggiati di istruzione artistica superiore o media, o negli Istituti con diritto di pubblicita' e reciprocita' dei territori del Regno gia' facenti parte della cessata Monarchia austro-ungarica dagli insegnanti i quali anteriormente al 30 novembre 1923 abbiano fatto passaggio nei ruoli delle Regie accademie di belle arti, dei Licei artistici e dei Regi conservatori di musica e della Scuola di recitazione e che alla data di entrata in vigore del [R. decreto 17 maggio 1928, n. 1596](../Regi%20decreti/Provvedimenti%20per%20il%20personale%20degli%20istituti%20di%20istruzione%20artistica.%20028U1596.md), appartenevano ai ruoli medesimi, e' riconosciuto ai fini della carriera». 
  
  Il presente decreto entra in vigore dal primo giorno del Mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

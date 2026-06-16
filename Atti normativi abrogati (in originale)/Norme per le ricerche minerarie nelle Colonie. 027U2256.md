@@ -22,7 +22,7 @@ Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20pot
 
 Visto l'art. 3 del Nostro decreto 20 novembre 1912, n. 1205;
 
-Visto l'[art. 101, del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101);
+Visto l'[art. 101, del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Udito il Consiglio dei Ministri;
 

@@ -63,7 +63,7 @@ europea, da assumere a base per la determinazione degli importi indicati ai comm
  7. Alle eventuali variazioni del limite di cui al comma 2, disposte dalla Commissione delle Comunita' europee, si provvede con decreto del Ministro del tesoro, da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3 del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' opeato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3 del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' opeato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note al titolo:
  - Si trascrive il titolo delle direttive citate nel titolo del decreto legislativo qui pubblicato:
  Direttiva del Consiglio del 21 dicembre 1976 che coordina le procedure di aggiudicazione degli appalti pubblici di forniture. (n. 77/62/CEE);
@@ -412,7 +412,7 @@ In caso di fallimento di una impresa mandante o, se trattasi di impresa individu
 
 1.
 
-Indipendentemente da quanto previsto dall'articolo 3, ultimo comma, del [regio decreto 18 novembre 1923, n. 2440, e dall'articolo 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_68) del relativo regolamento di esecuzione, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sono esclusi dalla partecipazione alle gare i fornitori:
+Indipendentemente da quanto previsto dall'articolo 3, ultimo comma, del [regio decreto 18 novembre 1923, n. 2440, e dall'articolo 68](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) del relativo regolamento di esecuzione, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sono esclusi dalla partecipazione alle gare i fornitori:
                             a)
                                 che si trovino in stato di fallimento, di liquidazione, di cessazione di attivita' o di concordato preventivo e in qualsiasi altra situazione equivalente secondo la legislazione straniera, ovvero a carico dei quali sia in corso un procedimento per la dichiarazione di una di tali situazioni;
                             b)
@@ -519,7 +519,7 @@ Tale provvedimento deve essere comunicato alla Presidenza del Consiglio dei Mini
 
 5.
 
-Nel caso di appalto-concorso, di cui all'[articolo 4 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_4), e all'articolo 40 del relativo regolamento di esecuzione, l'amministrazione non puo' escludere un'offerta per il solo motivo che essa sia stata elaborata con un metodo di calcolo diverso da quello in uso in Italia, a condizione che tale offerta sia compatibile con le prescrizioni del capitolato d'oneri. In tal caso, gli offerenti devono unire all'offerta tutti gli elementi necessari per il raffronto tra i due sistemi di calcolo e fornire qualsiasi chiarimento supplementare che l'amministrazione ritenga indispensabile.
+Nel caso di appalto-concorso, di cui all'[articolo 4 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e all'articolo 40 del relativo regolamento di esecuzione, l'amministrazione non puo' escludere un'offerta per il solo motivo che essa sia stata elaborata con un metodo di calcolo diverso da quello in uso in Italia, a condizione che tale offerta sia compatibile con le prescrizioni del capitolato d'oneri. In tal caso, gli offerenti devono unire all'offerta tutti gli elementi necessari per il raffronto tra i due sistemi di calcolo e fornire qualsiasi chiarimento supplementare che l'amministrazione ritenga indispensabile.
 
 6.
 

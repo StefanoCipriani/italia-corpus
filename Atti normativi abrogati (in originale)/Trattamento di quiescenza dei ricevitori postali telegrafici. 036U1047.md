@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 3 gennaio 1926, n. 37](Costituzione%20dellIstituto%20di%20assicurazione%20e%20previdenza%20per%20i%20titolari%20degli%20uffici%20secondari%20per%20i%20ricevitori%20postali%20telegrafici%20e%20per%20gli%20agenti%20rurali.%20026U0037.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
-Visto il [R. decreto 14 giugno 1928, n. 1309](Ordinamento%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20028U1309.md);
+Visto il [R. decreto 14 giugno 1928, n. 1309](../Regi%20decreti/Ordinamento%20del%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20028U1309.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -10,9 +10,9 @@ vigente: true
 
 IL MINISTRO DELLA SANITA'
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
-Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), ed in particolare l'art. 1 con il quale il Ministro della sanita' puo' riconoscere il carattere infettivo e diffusivo di malattie e di conseguenza disporre l'applicazione di misure di polizia veterinaria;
+Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), ed in particolare l'art. 1 con il quale il Ministro della sanita' puo' riconoscere il carattere infettivo e diffusivo di malattie e di conseguenza disporre l'applicazione di misure di polizia veterinaria;
 
 Vista la [circolare n. 55 del 25 giugno 1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir::circolare:1954-06-25;55), concernente le istruzioni per applicazione del suddetto decreto del Presidente della Repubblica;
 
@@ -105,7 +105,7 @@ Il territorio nazionale o un provincia di esso e' indenne da peste suina classic
 Il Ministro della sanita' con propri decreti da' attuazione alle decisioni CEE relative al riconoscimento di territorio nazionale o di provincia ufficialmente indenne da peste suina classica, adottate in conformita' di quanto previsto dall'[art. 7 della direttiva n. 80/1095/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;1095).
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - La [legge n. 34/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;34) reca: "Provvedimenti per la profilassi della peste bovina, della pleuropolmonite contagiosa dei bovini, dell'afta epizootica, della morva, della peste equina, della peste suina classica e africana, della febbre catarrale degli ovini e di altre malattie esotiche".
@@ -337,7 +337,7 @@ Le misure di vigilanza ufficiale di cui alla lettera d) del comma 4, sono manten
 
 1.
 
-Le operazioni di disinfezione nel focolaio di peste suina devono essere effettuate sotto controllo del veterinario ufficiale conformemente alle disposizioni previste dall'[art. 63 e seguenti del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
+Le operazioni di disinfezione nel focolaio di peste suina devono essere effettuate sotto controllo del veterinario ufficiale conformemente alle disposizioni previste dall'[art. 63 e seguenti del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md).
 
 Nota all'[art. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954;320#art_12):
  - [Articoli 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954;320#art_63) e [64 del D.P.R. n. 320/1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954;320#art_64):
@@ -396,7 +396,7 @@ Qualora non siano state emanate disposizioni per la identificazione degli alleva
 
 3.
 
-L'indicazione del contrassegno di cui ai commi 1 e 2 deve essere riportato sul mod. 4 "Dichiarazione di provenienza degli animali" previsto dall'[art. 31 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), per il trasporto dei suini anche nell'ambito dello stesso comune.
+L'indicazione del contrassegno di cui ai commi 1 e 2 deve essere riportato sul mod. 4 "Dichiarazione di provenienza degli animali" previsto dall'[art. 31 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), per il trasporto dei suini anche nell'ambito dello stesso comune.
 
 4.
 
@@ -469,7 +469,7 @@ I caratteri a stampa per i marchi di cui ai commi 1 e 2 dovranno avere un'altezz
 
 5.
 
-Dalla data prevista dal comma 1, per i suini da spostare anche nell'ambito dello stesso comune e per qualsiasi destinazione, il trasportatore e' tenuto ad esigere da chi spedisce i suini che alla dichiarazione di provenienza degli animali prevista dall'[art. 31 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), mod. 
+Dalla data prevista dal comma 1, per i suini da spostare anche nell'ambito dello stesso comune e per qualsiasi destinazione, il trasportatore e' tenuto ad esigere da chi spedisce i suini che alla dichiarazione di provenienza degli animali prevista dall'[art. 31 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), mod. 
 n. 4, sia unita la dichiarazione di cui all'allegato V del presente decreto, nella quale per ciascun gruppo di suini portanti lo stesso marchio venga riportato il numero dei capi e la relativa indicazione del marchio previsto ai commi 1 e 2 del presente articolo oppure ai commi 1 o 2 dell'art. 15, nel caso si tratti di suini marcati prima della data prevista dal comma 1 del presente articolo.
 
 6.
@@ -664,7 +664,7 @@ Il decreto ministeriale 14 settembre 1981, pubblicato nella Gazzetta Ufficiale n
 
 3.
 
-Sono altresi' abrogati gli [articoli 78](../DPR/Regolamento%20di%20polizia%20veterinaria.md), [79](../DPR/Regolamento%20di%20polizia%20veterinaria.md), [80](../DPR/Regolamento%20di%20polizia%20veterinaria.md), [81](../DPR/Regolamento%20di%20polizia%20veterinaria.md) e [82 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md).
+Sono altresi' abrogati gli [articoli 78](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), [79](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), [80](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), [81](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md) e [82 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md).
 
 Nota all'art. 26:
  - Per le fonti ivi citate vedasi note alle premesse.

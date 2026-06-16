@@ -20,7 +20,7 @@ Alla tabella XV annessa al testo unico delle leggi sull'ordinamento nel R. eserc
 
 ## Art. 2.
 
-Durante la guerra potranno essere destinati a comandi o servizi territoriali e collocati a disposizione, in soprannumero alla tabella XV annessa al [testo unico delle leggi sull'ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), i colonnelli in servizio attivo permanente, che abbiano cessato di appartenere a comandi, truppe o servizi presso le truppe mobilitate. 
+Durante la guerra potranno essere destinati a comandi o servizi territoriali e collocati a disposizione, in soprannumero alla tabella XV annessa al [testo unico delle leggi sull'ordinamento militare](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), i colonnelli in servizio attivo permanente, che abbiano cessato di appartenere a comandi, truppe o servizi presso le truppe mobilitate. 
  
  Quelli di essi, che hanno cessato di appartenervi, perche' ritenuti non idonei alle funzioni del grado superiore, dovranno essere eliminati dal servizio attivo permanente, non appena possibile, dopo il termine della guerra, e ad ogni modo non oltre il 31 dicembre 1916; quelli invece che hanno cessato per altre cause, dovranno rientrare in organico nello stesso limite di tempo.
 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Veduto il [R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413);
+Veduto il [R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md);
 
 Veduto il [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Articolo unico.
 
-I termini stabiliti dal [R. decreto 22 ottobre 1931, n. 1411](Proroga%20dei%20termini%20per%20lassunzione%20quali%20maestre%20elementari%20delle%20insegnanti%20di%20ruolo%20transitorio%20fornite%20dellabilitazione%20allinsegnamento%20elementare.%20031U1411.md), per l'assunzione quali maestri elementari dei professori compresi nel ruolo transitorio di cui all'[art. 11 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_11), sono prorogati di un anno. Durante tale periodo saranno mantenute vacanti nei ruoli delle scuole medie tante cattedre di insegnamento quanti sono i professori del suddetto ruolo ai quali non sia applicabile l'[art. 36, comma 2°, del R. decreto-legge 6 ottobre 1930, n. 1379](Riordinamento%20della%20Scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20030U1379.md), convertito in legge con la [legge 22 aprile 1932, n. 490](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md). 
+I termini stabiliti dal [R. decreto 22 ottobre 1931, n. 1411](Proroga%20dei%20termini%20per%20lassunzione%20quali%20maestre%20elementari%20delle%20insegnanti%20di%20ruolo%20transitorio%20fornite%20dellabilitazione%20allinsegnamento%20elementare.%20031U1411.md), per l'assunzione quali maestri elementari dei professori compresi nel ruolo transitorio di cui all'[art. 11 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), sono prorogati di un anno. Durante tale periodo saranno mantenute vacanti nei ruoli delle scuole medie tante cattedre di insegnamento quanti sono i professori del suddetto ruolo ai quali non sia applicabile l'[art. 36, comma 2°, del R. decreto-legge 6 ottobre 1930, n. 1379](Riordinamento%20della%20Scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20030U1379.md), convertito in legge con la [legge 22 aprile 1932, n. 490](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

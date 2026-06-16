@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Con effetto dal 1° luglio 1924, l'aliquota dell'imposta generale sul consumo del vino, di cui al [R. decreto 12 luglio 1923, n. 1510](Riordinamento%20dellimposta%20generale%20sul%20consumo%20del%20vino.%20023U1510.md), e' ridotta a L. 15 per ettolitro.
+Con effetto dal 1° luglio 1924, l'aliquota dell'imposta generale sul consumo del vino, di cui al [R. decreto 12 luglio 1923, n. 1510](../Regi%20decreti/Riordinamento%20dellimposta%20generale%20sul%20consumo%20del%20vino.%20023U1510.md), e' ridotta a L. 15 per ettolitro.
 
 ## Art. 2.
 

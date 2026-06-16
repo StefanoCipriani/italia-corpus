@@ -18,7 +18,7 @@ Entro il giorno 31 luglio 1919, le Ditte e le Societa' commerciali e industriali
 
 Ai contravventori alle norme stabilite dal precedente articolo si applicheranno le penalita' sancite dall'[articolo 63 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md) salvo le disposizioni seguenti. 
  
- I contravventori, prima di essere deferiti all'autorita' giudiziaria, saranno invitati dal presidente della Camera a fare, entro il termine di dieci giorni dalla data dell'insito, l'oblazione stragiudiziale. analogamente a quanto dispone l'art. 228 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)). 
+ I contravventori, prima di essere deferiti all'autorita' giudiziaria, saranno invitati dal presidente della Camera a fare, entro il termine di dieci giorni dalla data dell'insito, l'oblazione stragiudiziale. analogamente a quanto dispone l'art. 228 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)). 
  
  L'oblazione non sara' accertata se il contravventore non avra' dimostrato di aver soddisfatto all'obbligo della denunzia. 
  

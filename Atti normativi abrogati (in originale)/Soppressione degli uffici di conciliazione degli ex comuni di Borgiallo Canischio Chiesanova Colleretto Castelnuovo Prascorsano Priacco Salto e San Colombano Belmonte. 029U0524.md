@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 agosto 1928, n. 1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1977), col quale i comuni di Borgiallo, Canischio, Chiesanova, Colleretto Castelnuovo, Prascorsano, Priacco, Salto e San Colombano Belmonte sono stati soppressi, ed i rispettivi territori aggregati a quello di Cuorgne'; 
+ Visto il [R. decreto 3 agosto 1928, n. 1977](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Borgiallo%20Canischio%20Chiesanova%20Colleretto%20Castelnuovo%20Cuorgne%20Prascorsano%20Priacco%20Salto%20e%20San%20Colombano%20Belmonte%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Cu_bab904fd3a52.md), col quale i comuni di Borgiallo, Canischio, Chiesanova, Colleretto Castelnuovo, Prascorsano, Priacco, Salto e San Colombano Belmonte sono stati soppressi, ed i rispettivi territori aggregati a quello di Cuorgne'; 
  
  Vista la deliberazione del commissario prefettizio di Cuorgne', rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Borgiallo, Canischio, Chiesanova, Colleretto Castelnuovo, Prascorsano, Priacco, Salto e San Colombano Belmonte; 
  

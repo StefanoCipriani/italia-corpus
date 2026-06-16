@@ -48,7 +48,7 @@ Per l'ammissione al grado iniziale del ruolo di gruppo B e' richiesto il diploma
 
 ## Art. 7.
 
-Il ruolo di gruppo B del personale degli Archivi provinciali di Stato, approvato con [regio decreto 22 settembre 1932, n. 1391](Inquadramento%20del%20personale%20degli%20Archivi%20di%20Stato%20delle%20Provincie%20napoletane%20e%20siciliane.%20032U1391.md), allegato 1, e reso transitorio con l'[art. 38 della, legge 22 dicembre 1939, n. 2006](Nuovo%20ordinamento%20degli%20Archivi%20del%20Regno.%20039U2006.md), nonche' i ruoli transitori dei gruppi C e subalterni istituiti con [regio decreto 22 settembre 1932, n. 1391](Inquadramento%20del%20personale%20degli%20Archivi%20di%20Stato%20delle%20Provincie%20napoletane%20e%20siciliane.%20032U1391.md), sono soppressi.
+Il ruolo di gruppo B del personale degli Archivi provinciali di Stato, approvato con [regio decreto 22 settembre 1932, n. 1391](../Regi%20decreti/Inquadramento%20del%20personale%20degli%20Archivi%20di%20Stato%20delle%20Provincie%20napoletane%20e%20siciliane.%20032U1391.md), allegato 1, e reso transitorio con l'[art. 38 della, legge 22 dicembre 1939, n. 2006](Nuovo%20ordinamento%20degli%20Archivi%20del%20Regno.%20039U2006.md), nonche' i ruoli transitori dei gruppi C e subalterni istituiti con [regio decreto 22 settembre 1932, n. 1391](../Regi%20decreti/Inquadramento%20del%20personale%20degli%20Archivi%20di%20Stato%20delle%20Provincie%20napoletane%20e%20siciliane.%20032U1391.md), sono soppressi.
  Il personale appartenente a detti ruoli sara' inquadrato nel corrispondente grado dei ruoli ordinari di pari gruppo, conservando l'anzianita' posseduta.
 
 ## Art. 8.

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico di leggi sulla riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modificazioni;
+Visto il testo unico di leggi sulla riscossione delle imposte dirette, approvato con [regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modificazioni;
 
 Visto il [regio decreto-legge 16 febbraio 1931, n. 210](Disposizioni%20per%20il%20conferimento%20delle%20esattorie%20delle%20imposte%20dirette%20agli%20effetti%20del%20decennio%201933-1942.%20031U0210.md);
 

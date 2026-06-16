@@ -273,7 +273,7 @@ Con decreto del ministro delle colonie, udito il Comitato superiore amministrati
  
  Le disposizioni riguardanti la polizia delle miniere, la disciplina dei lavori in rapporto alla pubblica incolumita' e all'interesse pubblico, e il controllo sulla estrazione e sulla circolazione dei prodotti saranno determinate per ciascuna colonia con decreto del governatore. 
  
- Saranno altresi' stabilite nei regolamenti sovra previsti le penalita' pecuniarie per i contravventori fino al massimo di lire 10,000, salvo le altre pene a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Saranno altresi' stabilite nei regolamenti sovra previsti le penalita' pecuniarie per i contravventori fino al massimo di lire 10,000, salvo le altre pene a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 38.
 

@@ -38,7 +38,7 @@ L'ispettore generale e gli ispettori superiori esercitano le loro funzioni in tu
 
 ## Art. 5.
 
-Gli ispettori superiori sono destinati indistintamente all'ispezione delle cancellerie e segreterie giudiziarie, degli economati generali e, occorrendo, dei sub-economati dei benefici vacanti, nonche' alle ispezioni stabilite dalla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e dal regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326). 
+Gli ispettori superiori sono destinati indistintamente all'ispezione delle cancellerie e segreterie giudiziarie, degli economati generali e, occorrendo, dei sub-economati dei benefici vacanti, nonche' alle ispezioni stabilite dalla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e dal regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md). 
  
  Uno degli ispettori superiori, alla diretta dipendenza del ministro e del sottosegretario di Stato, e' addetto alla divisione del personale del Ministero e della magistratura per disimpegnare gli incarichi che gli sono affidati.
 
@@ -88,7 +88,7 @@ Nelle ispezioni degli Economati generali dei benefici vacanti si dovra' esaminar
 
 ## Art. 14.
 
-Nelle ispezioni concernenti il servizio del notariato e degli archivi notarili, gli ispettori superiori procedono secondo le norme stabilite dalla legge 16 febbraio 1913 e dal [R. decreto 10 settembre 1914, numero 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326).
+Nelle ispezioni concernenti il servizio del notariato e degli archivi notarili, gli ispettori superiori procedono secondo le norme stabilite dalla legge 16 febbraio 1913 e dal [R. decreto 10 settembre 1914, numero 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md).
 
 ## Art. 15.
 
@@ -120,7 +120,7 @@ La tabella delle circoscrizioni ispettive annessa al presente decreto andra' in 
 
 1920.
 
-Fino alla detta data resta in vigore la tabella annessa al [R. decreto 8 dicembre 1907, numero 775](Che%20approva%20le%20annesse%20disposizioni%20concernenti%20il%20servizio%20dispezione%20sugli%20Economati%20generali%20e%20Subeconomati%20dei%20benefizi%20vacanti%20archivi%20uffici%20e%20Consigli%20notarili%20e%20sulle%20cancellerie%20_d9920d3844f5.md), il quale in ogni altra parte rimane abrogato. 
+Fino alla detta data resta in vigore la tabella annessa al [R. decreto 8 dicembre 1907, numero 775](../Regi%20decreti/Che%20approva%20le%20annesse%20disposizioni%20concernenti%20il%20servizio%20dispezione%20sugli%20Economati%20generali%20e%20Subeconomati%20dei%20benefizi%20vacanti%20archivi%20uffici%20e%20Consigli%20notarili%20e%20sulle%20cancellerie%20_d9920d3844f5.md), il quale in ogni altra parte rimane abrogato. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

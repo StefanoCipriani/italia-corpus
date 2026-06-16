@@ -58,7 +58,7 @@ Il controllo della gestione finanziaria dell'Ente e di quella delle due sezioni 
 
 A partire dal 1° gennaio 1928 i Comitati provinciali ed i Comitati regionali per le piccole industrie sono soppressi. 
  
- Le funzioni previste dalle prime quattro lettere dell'art. 6 dello statuto dell'Ente nazionale per le piccole industrie, approvato con [R. decreto 21 aprile 1927, n. 699](Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20per%20le%20piccole%20industrie.%20027U0699.md), sono demandate ai Consigli provinciali dell'economia. Per le altre funzioni, gia' affidate ai Comitati provinciali, provvedera' direttamente l'Ente suddetto.
+ Le funzioni previste dalle prime quattro lettere dell'art. 6 dello statuto dell'Ente nazionale per le piccole industrie, approvato con [R. decreto 21 aprile 1927, n. 699](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20per%20le%20piccole%20industrie.%20027U0699.md), sono demandate ai Consigli provinciali dell'economia. Per le altre funzioni, gia' affidate ai Comitati provinciali, provvedera' direttamente l'Ente suddetto.
 
 ## Art. 7.
 

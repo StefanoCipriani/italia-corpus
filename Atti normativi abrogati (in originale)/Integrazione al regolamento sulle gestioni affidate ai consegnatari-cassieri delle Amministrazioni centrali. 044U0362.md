@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Dopo il penultimo comma dell'art. 3 del regolamento per le gestioni affidate ai consegnatari-cassieri delle Amministrazioni centrali, approvato con [R. decreto 20 ottobre 1924, n. 1796](Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md), va inserito il comma seguente: 
+Dopo il penultimo comma dell'art. 3 del regolamento per le gestioni affidate ai consegnatari-cassieri delle Amministrazioni centrali, approvato con [R. decreto 20 ottobre 1924, n. 1796](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md), va inserito il comma seguente: 
  
  « Puo' infine disporsi l'emissione di ordini di accreditamento a favore del cassiere del Ministero del tesoro, nei limiti delle disposizioni in vigore al momento della emissione dei relativi ordini, per il pagamento degli acquisti, delle forniture e di quanto altro occorra per i servizi del Provveditorato generale dello Stato». 
  

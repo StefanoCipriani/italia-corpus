@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 3 del R. decreto 5 maggio 1941, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-05;370#art_3), e' cosi' modificato: 
+L'[art. 3 del R. decreto 5 maggio 1941, n. 370](../Regi%20decreti/Riordinamento%20dei%20servizi%20e%20dei%20ruoli%20del%20personale%20dellIspettorato%20generale%20della%20motorizzazione%20civile%20e%20del%20trasporti%20in%20concessione.%20041U0370.md), e' cosi' modificato: 
  
  «Il Consiglio d'amministrazione, chiamato a pronunziarsi sui provvedimenti riguardanti il personale dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione, e' presieduto dal Ministro o, in caso di assenza o impedimento, dal Sottosegretario di Stato ovvero dal funzionario piu' elevato di grado o piu' anziano. 
  
@@ -20,7 +20,7 @@ L'[art. 3 del R. decreto 5 maggio 1941, n. 370](https://www.normattiva.it/uri-re
  
  Un funzionario di gruppo A dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione di grado non inferiore al nono, esercita le funzioni di segretario. 
  
- Immutate permangono le disposizioni di cui ai [Regi decreti 14 ottobre 1932, n. 1516](Ruoli%20del%20personale%20dellIspettorato%20generale%20delle%20ferrovie%20tramvie%20ed%20automobili.%20032U1516.md), 18 ottobre 1934, 1782, 1° luglio 1937, n. 1393, in quanto non contrastino con quelle del presente decreto».
+ Immutate permangono le disposizioni di cui ai [Regi decreti 14 ottobre 1932, n. 1516](../Regi%20decreti/Ruoli%20del%20personale%20dellIspettorato%20generale%20delle%20ferrovie%20tramvie%20ed%20automobili.%20032U1516.md), 18 ottobre 1934, 1782, 1° luglio 1937, n. 1393, in quanto non contrastino con quelle del presente decreto».
 
 ## Art. 2.
 

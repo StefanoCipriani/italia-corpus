@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 15 marzo 1928, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-15;662), col quale i comuni di Chiabrano, Faetto, Bovile, Maniglia, Riclaretto, San Martino e Traverse sono stati soppressi, ed i rispettivi territori aggregati a quello di Perrero; 
+ Visto il [R. decreto 15 marzo 1928, n. 662](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Perrero%20Chiabrano%20Traverse%20Maniglia%20San%20Martino%20di%20Perrero%20Riclaretto%20Faetto%20e%20Bovile%20in%20un%20unico%20Comune%20con%20capoluogo%20Perrero.%20028U0662.md), col quale i comuni di Chiabrano, Faetto, Bovile, Maniglia, Riclaretto, San Martino e Traverse sono stati soppressi, ed i rispettivi territori aggregati a quello di Perrero; 
  
  Vista la deliberazione del commissario prefettizio di Perrero, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Chiabrano, Faetto, Bovile, Maniglia, Riclaretto, San Martino e Traverse; 
  

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 26 aprile 1928, n. 1085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1085), col quale i comuni di Gazzo e Correzzo venivano riuniti in un solo Comune denominato Gazzo Veronese con sede a Gazzo; 
+ Visto il [R. decreto 26 aprile 1928, n. 1085](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Correzzo%20e%20Gazzo%20Veronese%20in%20un%20unico%20Comune%20denominato%20Gazzo%20Veronese.%20028U1085.md), col quale i comuni di Gazzo e Correzzo venivano riuniti in un solo Comune denominato Gazzo Veronese con sede a Gazzo; 
  Vista la deliberazione del podesta' di detto Comune con la quale si chiede che per tutto il territorio del comune di Gazzo Veronese funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Venezia; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti gli [articoli 103 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_103), sull'ordinamento del notariato e degli archivi notarili, 113 e 114 del regolamento per l'esecuzione della detta legge, approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), e pubblicato nella Gazzetta ufficiale dell'11 gennaio 1915, n. 7;
+Visti gli [articoli 103 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_103), sull'ordinamento del notariato e degli archivi notarili, 113 e 114 del regolamento per l'esecuzione della detta legge, approvato con [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), e pubblicato nella Gazzetta ufficiale dell'11 gennaio 1915, n. 7;
 
 Udito il parere della Commissione costituita coi decreti Ministeriali in data 1° dicembre 1914, registrato alla Corte dei conti il 28 stesso mese e 26 gennaio 1915, registrato il 24 febbraio successivo;
 
@@ -44,7 +44,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti gli [articoli 103 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_103), sull'ordinamento del notariato e degli archivi notarili, 113 e 114 del regolamento per l'esecuzione della detta legge, approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), e pubblicato nella Gazzetta ufficiale dell'11 gennaio 1915, n. 7; 
+ Visti gli [articoli 103 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_103), sull'ordinamento del notariato e degli archivi notarili, 113 e 114 del regolamento per l'esecuzione della detta legge, approvato con [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), e pubblicato nella Gazzetta ufficiale dell'11 gennaio 1915, n. 7; 
  
  Udito il parere della Commissione costituita coi decreti Ministeriali in data 1° dicembre 1914, registrato alla Corte dei conti il 28 stesso mese e 26 gennaio 1915, registrato il 24 febbraio successivo; 
  

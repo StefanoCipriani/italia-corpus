@@ -20,7 +20,7 @@ Vista la [legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20all
 
 Vista la [legge 21 luglio 1911, n. 848](Concernente%20laumento%20delle%20sovvenzioni%20chilometriche%20per%20le%20ferrovie%20da%20concedere%20allindustria%20privata.%20011U0848.md), concernente l'aumento delle sovvenzioni chilometriche per le ferrovie da concedersi all'industria privata;
 
-Visto il [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), col quale vengono apportate modificazioni alla suddetta [legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md);
+Visto il [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), col quale vengono apportate modificazioni alla suddetta [legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md);
 
 Visto il [decreto Luogotenenziale 13 aprile 1919, numero 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-13;567), che autorizza la costruzione di brevi tronchi delle ferrovie a sezione ridotta in Sicilia di cui all'art. 2 della su citata [legge 21 luglio 1911, n. 848](Concernente%20laumento%20delle%20sovvenzioni%20chilometriche%20per%20le%20ferrovie%20da%20concedere%20allindustria%20privata.%20011U0848.md);
 

@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo della legge del bollo, e successive disposizioni:
+Visto il [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo della legge del bollo, e successive disposizioni:
 
 Vista la [legge 7 aprile 1930, n. 456](Modificazioni%20ad%20alcune%20tasse%20di%20bollo%20-%20Provvidenze%20a%20favore%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20e%20modificazioni%20alle%20tasse%20sulle%20assicurazioni.%20030U0456.md);
 

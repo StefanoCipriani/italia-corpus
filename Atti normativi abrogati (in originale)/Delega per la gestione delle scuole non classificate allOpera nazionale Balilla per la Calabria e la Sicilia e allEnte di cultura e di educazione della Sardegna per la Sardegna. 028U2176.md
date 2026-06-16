@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduti gli [articoli 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577#art_74) e [253 del R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577#art_253), che approva il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post elementare e sulle sue opere di integrazione; 
+ Veduti gli [articoli 74](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md) e [253 del R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), che approva il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post elementare e sulle sue opere di integrazione; 
  
  Considerato che l'ente di cultura «Associazione nazionale per gli interessi del Mezzogiorno d'Italia», con sede in Roma, ha rinunciato alla delega per la gestione delle scuole non classificate nei territori della Calabria, della Basilicata, della Sicilia e della Sardegna; 
  

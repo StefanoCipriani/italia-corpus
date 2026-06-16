@@ -22,9 +22,9 @@ Vista la [direttiva 91/685/CEE, del Consiglio dell'11 dicembre 1991](https://www
 
 Tenuto conto della decisione 93/384/CEE, del Consiglio del 14 giugno 1993, recante modifica della citata [direttiva 80/217/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;217);
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni;
 
-Visto il regolamento di polizia veterinaria, adottato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
+Visto il regolamento di polizia veterinaria, adottato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
 
 Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), e successive modificazioni;
 
@@ -105,8 +105,8 @@ Tutti i provvedimenti adottati in materia di lotta contro la peste suina classic
  2. Gli schemi di regolamento per l'attuazione delle direttive comprese nell'elenco di cui all'allegato D sono sottoposti al parere delle competenti Commissioni parlamentari ai sensi dell'[art. 4, comma 4, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), come sostituito dall'art. 3 della presente legge".
  - La [direttiva 92/119/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;119) e' pubblicata nella G.U.C.E.
  n. L. 62 del 15 marzo 1993.
- - Il [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), riguarda l'approvazione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
- - Il [D.P.R. 8 febbraio 1954 n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), riguarda il regolamento di polizia veterinaria.
+ - Il [R.D. 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), riguarda l'approvazione del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
+ - Il [D.P.R. 8 febbraio 1954 n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), riguarda il regolamento di polizia veterinaria.
  - La [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), riguarda l'istituzione del servizio sanitario nazionale.
 
 Nota all'art. 1:

@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Articolo unico.
 
-E' approvato il [testo unico delle leggi in materia di debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), che, munito del visto del Ministro per il tesoro, e' pubblicato in allegato al presente decreto.
+E' approvato il [testo unico delle leggi in materia di debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), che, munito del visto del Ministro per il tesoro, e' pubblicato in allegato al presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

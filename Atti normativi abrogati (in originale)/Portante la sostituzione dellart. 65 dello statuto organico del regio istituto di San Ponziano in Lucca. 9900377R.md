@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'art. 65 dello statuto organico del regio istituto di San Ponziano in Lucca, approvato con [regio decreto 21 marzo 1897, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-03-21;266) (parte supplementare), e' sostituito dal seguente: 
+L'art. 65 dello statuto organico del regio istituto di San Ponziano in Lucca, approvato con [regio decreto 21 marzo 1897, n. 266](../Regi%20decreti/Che%20approva%20lo%20statuto%20organico%20per%20il%20regio%20istituto%20di%20S.%20Ponziano%20in%20Lucca.%209700266R.md) (parte supplementare), e' sostituito dal seguente: 
  
  «L'alunna a pagamento completo che entra a trimestre incominciato ha diritto al ratizzo della retta. Non si fa luogo a ratizzo o a restituzione della retta, quando l'alunna esca o venga espulsa dall'istituto avanti la scadenza del trimestre per il quale la retta medesima e' stata sborsata, eccetto il caso in cui l'alunna esca dall'istituto dopo avere compiuto regolarmente il corso dei suoi studi ed avere sostenuti i relativi esami finali. 
  

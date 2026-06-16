@@ -38,7 +38,7 @@ Nei bilanci dell'Amministrazione del fondo per il culto e dell'Azienda autonoma 
 
 ## Art. 4.
 
-In dipendenza del [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), riguardante il concentramento nel Ministero dei lavori pubblici di servizi relativi alla esecuzione di lavori pubblici per conto dello Stato, sono apportate, allo stato di previsione della spesa del predetto Ministero, per l'esercizio finanziario 1931-32, nonche' in quelli dei Ministeri delle finanze, della giustizia e degli affari di culto, dell'educazione nazionale, dell'interno, delle comunicazioni e dell'agricoltura e delle foreste, le variazioni di cui all'Annessa tabella D, firmata, d'ordine Nostro, dal Ministro proponente. 
+In dipendenza del [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), riguardante il concentramento nel Ministero dei lavori pubblici di servizi relativi alla esecuzione di lavori pubblici per conto dello Stato, sono apportate, allo stato di previsione della spesa del predetto Ministero, per l'esercizio finanziario 1931-32, nonche' in quelli dei Ministeri delle finanze, della giustizia e degli affari di culto, dell'educazione nazionale, dell'interno, delle comunicazioni e dell'agricoltura e delle foreste, le variazioni di cui all'Annessa tabella D, firmata, d'ordine Nostro, dal Ministro proponente. 
  Tutti gli atti concernenti i servizi suddetti emessi, nell'esercizio in corso, sia in conto competenza che in conto residui, con imputazione ai capitoli degli stati di previsione della spesa dei predetti Ministeri delle finanze, della giustizia e degli affari di culto, dell'educazione nazionale, dell'interno, delle comunicazioni e dell'agricoltura e delle foreste, s'intendono riferiti ai corrispondenti capitoli dello stato di previsione della spesa del Ministero dei lavori pubblici.
 
 ## Art. 5.
@@ -48,11 +48,11 @@ Nello stato di previsione della spesa del Ministero dell'educazione nazionale, s
 
 ## Art. 6.
 
-In dipendenza del [R. decreto 21 agosto 1931, n. 1030](Delega%20al%20Capo%20del%20Governo%20di%20tutte%20le%20attribuzioni%20spettanti%20al%20Ministro%20per%20linterno%20nei%20riguardi%20del%20Consiglio%20di%20Stato.%20031U1030.md), col quale sono state demandate al Capo del Governo tutte le attribuzioni spettanti al Ministro per l'interno nei riguardi del Consiglio di Stato, il Ministro per le finanze e' autorizzato a provvedere, con proprio decreto, al conseguente trasporto di fondi dallo stato di previsione della spesa del Ministero dell'interno a quello delle finanze.
+In dipendenza del [R. decreto 21 agosto 1931, n. 1030](../Regi%20decreti/Delega%20al%20Capo%20del%20Governo%20di%20tutte%20le%20attribuzioni%20spettanti%20al%20Ministro%20per%20linterno%20nei%20riguardi%20del%20Consiglio%20di%20Stato.%20031U1030.md), col quale sono state demandate al Capo del Governo tutte le attribuzioni spettanti al Ministro per l'interno nei riguardi del Consiglio di Stato, il Ministro per le finanze e' autorizzato a provvedere, con proprio decreto, al conseguente trasporto di fondi dallo stato di previsione della spesa del Ministero dell'interno a quello delle finanze.
 
 ## Art. 7.
 
-E' abrogato il [R. decreto 22 aprile 1926, n. 735](Definizione%20delle%20vertenze%20ancora%20pendenti%20per%20la%20liquidazione%20delle%20gestioni%20di%20guerra.%20026U0735.md), concernente la definizione delle vertenze per la liquidazione delle gestioni di guerra. 
+E' abrogato il [R. decreto 22 aprile 1926, n. 735](../Regi%20decreti/Definizione%20delle%20vertenze%20ancora%20pendenti%20per%20la%20liquidazione%20delle%20gestioni%20di%20guerra.%20026U0735.md), concernente la definizione delle vertenze per la liquidazione delle gestioni di guerra. 
  Questo decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno, e sara' presentato al Parlamento per la conversione in legge. 
  Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 

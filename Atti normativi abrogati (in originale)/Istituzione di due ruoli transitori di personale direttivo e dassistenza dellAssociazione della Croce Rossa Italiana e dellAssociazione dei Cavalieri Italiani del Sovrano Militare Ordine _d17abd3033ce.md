@@ -20,7 +20,7 @@ Vista la [legge 20 dicembre 1928, n. 3133](../DL%20e%20leggi%20di%20conversione/
 
 Visto il [R. decreto 21 gennaio 1928, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-21;111), sullo stato organico dell'Associazione della Croce Rossa Italiana, e successive modificazioni;
 
-Visto il [R. decreto 10 febbraio 1936, n. 484](Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), sul reclutamento, lo stato e l'avanzamento del personale della Croce Rossa Italiana, e successive modificazioni;
+Visto il [R. decreto 10 febbraio 1936, n. 484](../Regi%20decreti/Norme%20per%20disciplinare%20lo%20stato%20giuridico%20il%20reclutamento%20lavanzamento%20ed%20il%20trattamento%20economico%20ed%20amministrativo%20del%20personale%20della%20Croce%20Rossa%20Italiana.%20036U0484.md), sul reclutamento, lo stato e l'avanzamento del personale della Croce Rossa Italiana, e successive modificazioni;
 
 Vista la [legge 4 gennaio 1938, n. 23](Disposizioni%20riguardanti%20il%20personale%20addetto%20al%20funzionamento%20dei%20servizi%20dellAssociazione%20dei%20Cavalieri%20italiani%20del%20Sovrano%20Militare%20Ordine%20di%20Malta.%20038U0023.md), sul personale addetto al, funzionamento dei servizi dell'Associazione dei Cavalieri Italiani del Sovrano Militare Ordine di Malta;
 

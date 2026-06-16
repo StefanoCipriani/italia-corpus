@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Al [regio decreto 14 dicembre 1942, n. 1729](Concessione%20della%20croce%20al%20merito%20di%20guerra%20al%20personale%20che%20dal%2010%20giugno%201940-XVIII%20abbia%20partecipato%20ad%20operazioni%20militari%20nella%20guerra%20in%20corso.%20042U1729.md), sono apportate le aggiunte e modifiche indicate negli articoli seguenti.
+Al [regio decreto 14 dicembre 1942, n. 1729](../Regi%20decreti/Concessione%20della%20croce%20al%20merito%20di%20guerra%20al%20personale%20che%20dal%2010%20giugno%201940-XVIII%20abbia%20partecipato%20ad%20operazioni%20militari%20nella%20guerra%20in%20corso.%20042U1729.md), sono apportate le aggiunte e modifiche indicate negli articoli seguenti.
 
 ## Art. 2.
 
@@ -41,7 +41,7 @@ Fra il secondo e terzo comma dell'art. 4 e' inserito il seguente:
 ## Art. 5.
 
 Il termine utile per richiedere la concessione della croce al merito di guerra scade un anno dopo l'entrata in vigore della presente legge.
- Il termine utile per inoltrare reclamo avverso il negato conferimento di cui all'[art. 7 del regio decreto 14 dicembre 1942, n. 1729](Concessione%20della%20croce%20al%20merito%20di%20guerra%20al%20personale%20che%20dal%2010%20giugno%201940-XVIII%20abbia%20partecipato%20ad%20operazioni%20militari%20nella%20guerra%20in%20corso.%20042U1729.md), scade sei mesi dopo l'avvenuta comunicazione all'interessato.
+ Il termine utile per inoltrare reclamo avverso il negato conferimento di cui all'[art. 7 del regio decreto 14 dicembre 1942, n. 1729](../Regi%20decreti/Concessione%20della%20croce%20al%20merito%20di%20guerra%20al%20personale%20che%20dal%2010%20giugno%201940-XVIII%20abbia%20partecipato%20ad%20operazioni%20militari%20nella%20guerra%20in%20corso.%20042U1729.md), scade sei mesi dopo l'avvenuta comunicazione all'interessato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

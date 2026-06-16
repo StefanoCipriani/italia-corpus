@@ -14,7 +14,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
  Vista la domanda con la quale il sindaco di Poppi in provincia di Arezzo in esecuzione della [deliberazione del Consiglio comunale n. 4 del 4 maggio 1946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1946-05-04;4), chiede l'autorizzazione a modificare la denominazione della frazione di Poppi Stazione in quella "Ponte a Poppi";
  Visto il parere favorevole manifestato dalla Deputazione provinciale di Arezzo, in adunanza 6 novembre 1946, con la deliberazione n. 2729;
- Visto l'art 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

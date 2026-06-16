@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 9 agosto 1929, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1744), che approva il regolamento sugli assegni speciali di bordo, e sue successive modificazioni;
+Visto il [R. decreto 9 agosto 1929, n. 1744](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20029U1744.md), che approva il regolamento sugli assegni speciali di bordo, e sue successive modificazioni;
 
 Sentito il Consiglio superiore di marina;
 
@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al regolamento sugli assegni speciali di bordo, approvato con [R. decreto 9 agosto 1929, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1744), e successive modificazioni, sono apportate le seguenti varianti: 
+Al regolamento sugli assegni speciali di bordo, approvato con [R. decreto 9 agosto 1929, n. 1744](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20029U1744.md), e successive modificazioni, sono apportate le seguenti varianti: 
  
  1ª Variante. - Nel n. 5° della tabella E e' aggiunta la seguente lettera f), ponendo, in corrispondenza di essa, in tutte le colonne riguardanti le posizioni « armamento » (A) e « riserva» (R) rispettivamente le cifre 1,00 e 0,80; 
  

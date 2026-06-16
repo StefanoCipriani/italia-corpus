@@ -22,7 +22,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Il trattamento previsto dall'ultimo comma dell'articolo 20 e dall'ultimo comma dell'art. 32 del testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), e' esteso anche al personale di ruolo delle ferrovie dello Stato, ferme rimanendo le disposizioni approvate col [R. decreto 13 aprile 1911, n. 374](Che%20approva%20lannesso%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20dei%20militari%20in%20congedo%20illimitato%20che%20cuoprono%20determinali%20impieghi%20o%20si%20trovano%20in%20posizioni%20speciali.%20011U0374.md) sulla dispensa dalle chiamate alle armi. 
+Il trattamento previsto dall'ultimo comma dell'articolo 20 e dall'ultimo comma dell'art. 32 del testo unico delle leggi sullo stato degli impiegati civili, approvato col [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), e' esteso anche al personale di ruolo delle ferrovie dello Stato, ferme rimanendo le disposizioni approvate col [R. decreto 13 aprile 1911, n. 374](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20dei%20militari%20in%20congedo%20illimitato%20che%20cuoprono%20determinali%20impieghi%20o%20si%20trovano%20in%20posizioni%20speciali.%20011U0374.md) sulla dispensa dalle chiamate alle armi. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

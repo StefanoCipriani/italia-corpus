@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 23 ottobre 1913, n. 1284](Col%20quale%20viene%20approvata%20unaggiunta%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20R.%20esercito.%20013U1284.md), recante una aggiunta all'art. 6 del vigente testo unico delle leggi sull'ordinamento del R. esercito. 
+ E' convertito in legge il [R. decreto 23 ottobre 1913, n. 1284](../Regi%20decreti/Col%20quale%20viene%20approvata%20unaggiunta%20al%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20R.%20esercito.%20013U1284.md), recante una aggiunta all'art. 6 del vigente testo unico delle leggi sull'ordinamento del R. esercito. 
  
  Ordiniamo che la presente, munita dal sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

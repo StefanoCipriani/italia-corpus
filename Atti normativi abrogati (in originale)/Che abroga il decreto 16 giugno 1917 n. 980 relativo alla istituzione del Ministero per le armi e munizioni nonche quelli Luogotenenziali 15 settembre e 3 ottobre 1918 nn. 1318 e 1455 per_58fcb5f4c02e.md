@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-II [R. decreto 16 giugno 1917, n. 980](Concernente%20la%20divisione%20in%20due%20parti%20del%20Ministero%20della%20guerra%20con%20denominazione%20della%20prima%20Ministero%20della%20guerra%20e%20della%20seconda%20Ministero%20delle%20armi%20e%20munizioni.%20017U0980.md), istitutivo del Ministero per le armi e le munizioni, e' abrogato, restando soppressi i posti di ministro, di sottosegretario di Stato e di capo ragioniere, ivi contemplati. 
+II [R. decreto 16 giugno 1917, n. 980](../Regi%20decreti/Concernente%20la%20divisione%20in%20due%20parti%20del%20Ministero%20della%20guerra%20con%20denominazione%20della%20prima%20Ministero%20della%20guerra%20e%20della%20seconda%20Ministero%20delle%20armi%20e%20munizioni.%20017U0980.md), istitutivo del Ministero per le armi e le munizioni, e' abrogato, restando soppressi i posti di ministro, di sottosegretario di Stato e di capo ragioniere, ivi contemplati. 
  
  Nell'organico del personale di ragioneria del Ministero della guerra e' istituito un posto di ispettore a L. 7000, oltre gli aumenti stabiliti col [decreto Luogotenenziale 10 febbraio 1918, n.107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107), da assegnarsi al funzionario che disimpegna le funzioni di capo ragioniere presso il Ministero per le armi e le munizioni, e che conservera', come assegno ad personam, utile agli effetti della liquidazione della pensione, la differenza fra lo stipendio di capo ragioniere e quello di ispettore.
 

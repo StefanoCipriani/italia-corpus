@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul Consiglio di Stato approvato con [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054), e il relativo regolamento, approvato con [R. decreto 26 giugno 1924, numero 1055](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md);
+Visto il testo unico delle leggi sul Consiglio di Stato approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), e il relativo regolamento, approvato con [R. decreto 26 giugno 1924, numero 1055](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md);
 
-Visti gli [articoli 208 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e 3 del [R. decreto 8 luglio 1925, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-08;1172), concernenti l'istituzione di una Commissione per la decisione delle controversie derivanti dall'applicazione dell'ordinamento medesimo;
+Visti gli [articoli 208 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e 3 del [R. decreto 8 luglio 1925, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-08;1172), concernenti l'istituzione di una Commissione per la decisione delle controversie derivanti dall'applicazione dell'ordinamento medesimo;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-E' soppressa la Commissione di cui all'[art. 208 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e all'[art. 3 del R. decreto 8 luglio 1925, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-08;1172#art_3), concernente provvedimenti sullo stato giuridico del personale statale. 
+E' soppressa la Commissione di cui all'[art. 208 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e all'[art. 3 del R. decreto 8 luglio 1925, n. 1172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-08;1172#art_3), concernente provvedimenti sullo stato giuridico del personale statale. 
  
  Le controversie gia' deferite alla detta Commissione saranno risolute dagli organi competenti secondo le norme comuni della vigente legislazione, osservati i termini e le forme in queste stabilite. 
  

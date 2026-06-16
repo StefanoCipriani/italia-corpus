@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395);
 
-Visto il regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537);
+Visto il regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-Agli effetti della [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395), e del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), gli albi degli ingegneri ed architetti dei territori annessi al Regno con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), e quelli delle provincie di Belluno e del Friuli comprenderanno uno speciale elenco, supplementare e transitorio, nel quale saranno iscritti i tecnici che, nella legislazione della cessata Monarchia austro-ungarica, erano denominati «baumeister».
+Agli effetti della [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395), e del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), gli albi degli ingegneri ed architetti dei territori annessi al Regno con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), e quelli delle provincie di Belluno e del Friuli comprenderanno uno speciale elenco, supplementare e transitorio, nel quale saranno iscritti i tecnici che, nella legislazione della cessata Monarchia austro-ungarica, erano denominati «baumeister».
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Ai tecnici contemplati dal presente decreto spettano il titolo di architetto e l
 
 Per essere iscritti nell'elenco preveduto nell'art. 1, gli interessati devono fare domanda, nel termine perentorio di tre mesi dalla entrata in vigore del presente decreto, alla cancelleria della Corte d'appello avente sede nel capoluogo di Provincia o, nelle Provincie che non sono sede di Corte d'appello, alla cancelleria del tribunale. 
  
- La domanda va redatta in carta da bollo da L. 2 e deve essere munita dei documenti di rito stabiliti dall'art. 7 del regolamento approvato con [R. decreto 23 ottobre 1925, numero 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537). 
+ La domanda va redatta in carta da bollo da L. 2 e deve essere munita dei documenti di rito stabiliti dall'art. 7 del regolamento approvato con [R. decreto 23 ottobre 1925, numero 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md). 
  
  Gli interessati devono comprovare di avere superato l'esame di abilitazione e di possedere tutti gli altri requisiti stabiliti per poter ottenere l'autorizzazione (concessione) all'esercizio della professione.
 

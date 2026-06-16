@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto il [R. decreto 30 dicembre 1923, n. 3214](Ordinamento%20dellistruzione%20agraria%20media.%20023U3214.md);
 
-Visto il [R. decreto 18 settembre 1924, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1775);
+Visto il [R. decreto 18 settembre 1924, n. 1775](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1775.md);
 
 Visto il [R. decreto 3 agosto 1924, n. 1442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-03;1442);
 
-Visto il [R. decreto 24 maggio 1925, n. 906](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-24;906);
+Visto il [R. decreto 24 maggio 1925, n. 906](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2018%20settembre%201924%20n.%201775%20che%20trasforma%20la%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Ente%20consorziale%20autonomo.%20025U0906.md);
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 

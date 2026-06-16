@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La determinazione dell'importo ed il riparto annuale delle sovraimposte provinciali e comunali, dentro i limiti stabiliti dall'[articolo 13 del Regio Decreto del 28 giugno 1866, n. 3022](Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md), e dagli articoli 15 e 20 dell'altro Decreto della stessa data, n. 3023, saranno fatti tra le imposte dirette state in vigore nell'anno precedente ed in ragione delle somme d'imposta erariale risultanti dai ruoli dell'anno stesso. La distribuzione avra' luogo sui ruoli dell'anno in corso.
+La determinazione dell'importo ed il riparto annuale delle sovraimposte provinciali e comunali, dentro i limiti stabiliti dall'[articolo 13 del Regio Decreto del 28 giugno 1866, n. 3022](../Regi%20decreti/Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md), e dagli articoli 15 e 20 dell'altro Decreto della stessa data, n. 3023, saranno fatti tra le imposte dirette state in vigore nell'anno precedente ed in ragione delle somme d'imposta erariale risultanti dai ruoli dell'anno stesso. La distribuzione avra' luogo sui ruoli dell'anno in corso.
 
 ## Art. 2.
 

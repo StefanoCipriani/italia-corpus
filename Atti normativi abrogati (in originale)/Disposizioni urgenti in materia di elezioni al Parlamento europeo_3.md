@@ -153,13 +153,13 @@ Gli elettori di cui al presente articolo che, entro il quinto giorno precedente 
 
 9.
 
-Gli elettori di cui ai commi 1 e 3 dell'articolo 3 iscritti nelle liste elettorali, a norma del quarto comma dell'articolo 32 del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, approvato con [decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), come sostituito dall'[articolo 2 della legge 7 febbraio 1979, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-07;40#art_2), dopo la compilazione degli elenchi di cui al comma 5 o che per qualsiasi motivo siano stati omessi da detti elenchi, devono essere immediatamente segnalati dal comune nelle cui liste risultano iscritti all'ufficio consolare della circoscrizione in cui si trovano per il rilascio della certificazione di ammissione al voto e per la conseguente inclusione dei relativi nominativi negli appositi elenchi di cui al comma 8.
+Gli elettori di cui ai commi 1 e 3 dell'articolo 3 iscritti nelle liste elettorali, a norma del quarto comma dell'articolo 32 del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, approvato con [decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), come sostituito dall'[articolo 2 della legge 7 febbraio 1979, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-07;40#art_2), dopo la compilazione degli elenchi di cui al comma 5 o che per qualsiasi motivo siano stati omessi da detti elenchi, devono essere immediatamente segnalati dal comune nelle cui liste risultano iscritti all'ufficio consolare della circoscrizione in cui si trovano per il rilascio della certificazione di ammissione al voto e per la conseguente inclusione dei relativi nominativi negli appositi elenchi di cui al comma 8.
 
 ## Art. 5. — Operazioni di voto
 
 1.
 
-Salvo quanto disposto dal presente articolo, le operazioni di votazione nelle sezioni di cui all'articolo 3 hanno luogo secondo le disposizioni del titolo IV del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), nei giorni e nelle ore determinati con decreto del Ministro dell'interno, a norma del [terzo comma dell'articolo 7 della legge 24 gennaio 1979, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-24;18#art_7-com3).
+Salvo quanto disposto dal presente articolo, le operazioni di votazione nelle sezioni di cui all'articolo 3 hanno luogo secondo le disposizioni del titolo IV del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), nei giorni e nelle ore determinati con decreto del Ministro dell'interno, a norma del [terzo comma dell'articolo 7 della legge 24 gennaio 1979, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-24;18#art_7-com3).
 
 2.
 
@@ -183,7 +183,7 @@ Le schede votate sono immesse nell'unica urna di cui il seggio e' dotato.
 
 7.
 
-Alle sezioni elettorali istituite a norma dell'articolo 3 non si applicano le disposizioni degli articoli 49, 50, 51, 52, 53 e 54 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), e successive modificazioni, e degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136#art_8) e [9 della legge 23 aprile 1976, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136#art_9).
+Alle sezioni elettorali istituite a norma dell'articolo 3 non si applicano le disposizioni degli articoli 49, 50, 51, 52, 53 e 54 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), e successive modificazioni, e degli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136#art_8) e [9 della legge 23 aprile 1976, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136#art_9).
 
 8.
 
@@ -195,11 +195,11 @@ I rappresentanti delle liste dei candidati votano nella sezione presso la quale 
 
 10.
 
-I certificati medici eventualmente richiesti dagli elettori agli effetti dell'articolo 55 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), possono essere rilasciati da un medico del luogo.
+I certificati medici eventualmente richiesti dagli elettori agli effetti dell'articolo 55 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), possono essere rilasciati da un medico del luogo.
 
 11.
 
-Dopo che gli elettori hanno votato, il presidente procede alle operazioni di cui all'articolo 67 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), separatamente per ogni circoscrizione elettorale.
+Dopo che gli elettori hanno votato, il presidente procede alle operazioni di cui all'articolo 67 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), separatamente per ogni circoscrizione elettorale.
 
 12.
 
@@ -207,7 +207,7 @@ Successivamente il presidente del seggio suddivide le schede votate per circoscr
 
 13.
 
-I plichi formati a norma dell'articolo 67 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), debbono essere consegnati, contemporaneamente, da appositi incaricati, al capo dell'ufficio consolare, il quale provvede per via aerea, a mezzo di corriere diplomatico accompagnato, ad inoltrare i suddetti plichi alla corte d'appello di Roma.
+I plichi formati a norma dell'articolo 67 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), debbono essere consegnati, contemporaneamente, da appositi incaricati, al capo dell'ufficio consolare, il quale provvede per via aerea, a mezzo di corriere diplomatico accompagnato, ad inoltrare i suddetti plichi alla corte d'appello di Roma.
 
 14.
 
@@ -233,7 +233,7 @@ Per il segretario del seggio si applicano le disposizioni vigenti per l'elezione
 
 5.
 
-Al presidente ed ai componenti dei seggi previsti dal presente articolo spetta un onorario fisso pari, rispettivamente, a quello del presidente e dei componenti dei seggi istituiti a norma dell'articolo 34 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), e successive modificazioni. Entro il termine di cui al comma 3, il presidente dell'ufficio elettorale circoscrizionale, ai fini della dotazione di materiale e stampati occorrenti, comunica al comune ove ha sede l'ufficio stesso il numero delle sezioni speciali da istituire.
+Al presidente ed ai componenti dei seggi previsti dal presente articolo spetta un onorario fisso pari, rispettivamente, a quello del presidente e dei componenti dei seggi istituiti a norma dell'articolo 34 del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), e successive modificazioni. Entro il termine di cui al comma 3, il presidente dell'ufficio elettorale circoscrizionale, ai fini della dotazione di materiale e stampati occorrenti, comunica al comune ove ha sede l'ufficio stesso il numero delle sezioni speciali da istituire.
 
 6.
 
@@ -245,7 +245,7 @@ Inoltre, a ciascun presidente dei seggi di cui al comma 1, il presidente dell'uf
 
 8.
 
-Il presidente del seggio da' quindi inizio, alle ore 22, alle operazioni di scrutinio per le quali si applicano l'[articolo 16, terzo comma, della legge 24 gennaio 1979, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-24;18#art_16-com3), nonche', in quanto applicabili, le norme del titolo V del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md).
+Il presidente del seggio da' quindi inizio, alle ore 22, alle operazioni di scrutinio per le quali si applicano l'[articolo 16, terzo comma, della legge 24 gennaio 1979, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-01-24;18#art_16-com3), nonche', in quanto applicabili, le norme del titolo V del testo unico approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md).
 Compiute le operazioni di cui al primo comma dell'articolo 75 del testo unico, il presidente dell'ufficio elettorale di sezione provvede a trasmettere all'ufficio elettorale circoscrizionale il 
 plico di cui all'articolo 17 della citata [legge n. 18 
 del 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979;18).

@@ -40,7 +40,7 @@ Per la corresponsione del premio al personale direttivo di ruolo e incaricato, c
 
 ## Art. 4.
 
-Il premio giornaliero di presenza spetta anche ai maestri elementari provvisori e supplenti, nonche' al personale che a norma dell'[art. 27 del regio decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), era incaricato dell'insegnamento di materie speciali e va commisurato ad un duecentesimo della retribuzione spettante.
+Il premio giornaliero di presenza spetta anche ai maestri elementari provvisori e supplenti, nonche' al personale che a norma dell'[art. 27 del regio decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), era incaricato dell'insegnamento di materie speciali e va commisurato ad un duecentesimo della retribuzione spettante.
 
 ## Art. 5.
 

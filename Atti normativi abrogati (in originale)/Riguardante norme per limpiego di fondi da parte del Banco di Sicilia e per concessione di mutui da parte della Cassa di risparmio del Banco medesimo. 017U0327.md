@@ -24,7 +24,7 @@ Veduta la [legge 11 dicembre 1910, n. 855 (art. 16](Concernente%20disposizioni%2
 
 Veduta la [legge 2 febbraio 1911, n. 70](Concernente%20i%20provvedimenti%20per%20la%20gestione%20delle%20Casse%20provinciali%20di%20credilo%20agrario%20da%20parte%20della%20Cassa%20di%20risparmio%20del%20Banco%20di%20Napoli%20e%20della%20sezione%20di%20credito%20agrario%20del%20Banco%20d_5f47b0da1630.md);
 
-Veduto il [R. decreto 11 ottobre 1914, n. 1089](Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md);
+Veduto il [R. decreto 11 ottobre 1914, n. 1089](../Regi%20decreti/Riguardante%20provvedimenti%20straordinari%20per%20il%20credito%20agrario.%20014U1089.md);
 
 Veduto il [decreto Luogotenenziale 27 agosto 1916, n. 1187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-27;1187);
 

@@ -42,7 +42,7 @@ L'autorita' militare, dietro istanza dell'interessato, corredata degli occorrent
 
 ### Art. 4.
 
-I rifugi alpini, gia' appartenenti a cittadini, a societa' o ad enti germanici, devoluti al Demanio dello Stato, in virtu' dell'[art. 1 del R. decreto 10 aprile 1921, n. 470](Contenente%20norme%20per%20la%20devoluzione%20al%20Demanio%20dello%20Stato%20dei%20beni%20appartenenti%20allentrata%20in%20vigore%20dei%20Trattati%20di%20pace%20a%20sudditi%20della%20Germania%20o%20dellantico%20Impero%20dAustria.%20021U0470.md), sono, a termini dell'[art. 7 del R. decreto-legge 22 dicembre 1921, numero 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-12-22;1262#art_7), assegnati al Ministero della guerra, che puo' concederli in esercizio a cittadini italiani ed a societa' ed enti nazionali.
+I rifugi alpini, gia' appartenenti a cittadini, a societa' o ad enti germanici, devoluti al Demanio dello Stato, in virtu' dell'[art. 1 del R. decreto 10 aprile 1921, n. 470](../Regi%20decreti/Contenente%20norme%20per%20la%20devoluzione%20al%20Demanio%20dello%20Stato%20dei%20beni%20appartenenti%20allentrata%20in%20vigore%20dei%20Trattati%20di%20pace%20a%20sudditi%20della%20Germania%20o%20dellantico%20Impero%20dAustria.%20021U0470.md), sono, a termini dell'[art. 7 del R. decreto-legge 22 dicembre 1921, numero 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-12-22;1262#art_7), assegnati al Ministero della guerra, che puo' concederli in esercizio a cittadini italiani ed a societa' ed enti nazionali.
 
 ### Art. 5.
 

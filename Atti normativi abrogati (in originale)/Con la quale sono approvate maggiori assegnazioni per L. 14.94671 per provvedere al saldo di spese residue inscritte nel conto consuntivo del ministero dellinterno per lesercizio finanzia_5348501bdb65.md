@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' approvata la maggiore assegnazione di L. 9332,60 inscritta al capitolo n. 179- xv - Eccedenza d'impegni verificatasi sul capitolo n. 33 «Rimborso al ministero del tesoro della spesa per indennita' per una sola volta invece di pensioni ai termini degli articoli 3, 83 e 109 del testo unico delle leggi sulle pensioni civili e militari approvato col [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), ed altri assegni congeneri legalmente dello stato di previsione della spesa pel 1909-910 e retro - per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'interno per l'esercizio finanziario 1910-911;
+E' approvata la maggiore assegnazione di L. 9332,60 inscritta al capitolo n. 179- xv - Eccedenza d'impegni verificatasi sul capitolo n. 33 «Rimborso al ministero del tesoro della spesa per indennita' per una sola volta invece di pensioni ai termini degli articoli 3, 83 e 109 del testo unico delle leggi sulle pensioni civili e militari approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), ed altri assegni congeneri legalmente dello stato di previsione della spesa pel 1909-910 e retro - per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero dell'interno per l'esercizio finanziario 1910-911;
 
 ## Art. 2.
 

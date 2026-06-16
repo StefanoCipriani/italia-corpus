@@ -64,7 +64,7 @@ Par la riparazione o ricostruzione delle opere pubbliche delle Provincie, dei Co
 
 Per la riparazione e ricostruzione di opere pubbliche, provinciali, consorziali e comunali, danneggiate dalle alluvioni del primo semestre 1905, le Provincie, i Comuni e i loro consorzi potranno ottenere, dalla Cassa dei depositi e prestiti, mutui ammortizzabili nel periodo di 35 anni, estensibile, nei casi di necessita' comprovata nei modi di legge, fino a 50 anni. 
  
- La disposizione contenuta nel precedente comma e' applicabile anche ai consorzi di scolo, di bonificazione, di irrigazione, di derivazione e di uso di acqua a scopo industriale, e ai consorzi per opere idrauliche, contemplate dal testo unico approvato con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523).
+ La disposizione contenuta nel precedente comma e' applicabile anche ai consorzi di scolo, di bonificazione, di irrigazione, di derivazione e di uso di acqua a scopo industriale, e ai consorzi per opere idrauliche, contemplate dal testo unico approvato con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md).
 
 ## Art. 10.
 

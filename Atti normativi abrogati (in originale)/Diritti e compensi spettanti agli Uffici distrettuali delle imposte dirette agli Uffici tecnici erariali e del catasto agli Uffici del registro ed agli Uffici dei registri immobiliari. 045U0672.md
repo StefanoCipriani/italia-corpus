@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello stato, e successive modificazioni;
 
 Visto il [R. decreto-legge 30 dicembre 1924, n. 2102](Diritti%20per%20la%20consultazione%20degli%20atti%20catastali.%20024U2102.md), concernente i diritti per la consultazione degli atti catastali, convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
@@ -26,7 +26,7 @@ Visto il [R. decreto-legge 7 marzo 1938, n. 205](Estensione%20al%20personale%20d
 
 Visto il [R. decreto-legge 10 maggio 1938, n. 664](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-05-10;664) sulla conservazione del catasto, e successive modificazioni;
 
-Visto il [R. decreto 8 dicembre 1938, n. 2153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-08;2153), che approva il regolamento per la conservazione del nuovo catasto terreni;
+Visto il [R. decreto 8 dicembre 1938, n. 2153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20conservazione%20del%20nuovo%20Catasto%20dei%20terreni.%20038U2153.md), che approva il regolamento per la conservazione del nuovo catasto terreni;
 
 Vista la [legge 17 giugno 1943, n. 571](Modificazioni%20alla%20legge%20sul%20nuovo%20catasto%20edilizio%20urbano.%20043U0571.md), contenente modificazioni alla legge sul nuovo catasto edilizio Urbano;
 
@@ -72,7 +72,7 @@ I diritti indicati al titolo III, numeri 1 e 2, al titolo IV, numeri 2, 3, 4, 5 
 
 Le Amministrazioni provinciali e le Camere di commercio, industria ed agricoltura, versano direttamente agli Uffici distrettuali delle imposte dirette i compensi ad essi dovuti per la ripartizione del reddito mobiliare che si produce in piu' comuni, di cui al titolo III, numero 6, della tabella A. 
  
- Il comune delegato alla notifica del riparto ai sensi dell'art. 161 del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' tenuto a corrispondere agli Uffici distrettuali delle imposte dirette i compensi stessi anche per conto di tutti, gli altri comuni interessati salvo rivalsa per le rispettive quote. 
+ Il comune delegato alla notifica del riparto ai sensi dell'art. 161 del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' tenuto a corrispondere agli Uffici distrettuali delle imposte dirette i compensi stessi anche per conto di tutti, gli altri comuni interessati salvo rivalsa per le rispettive quote. 
  
  Gli Uffici distrettuali delle imposte dirette versano al conto corrente postale di cui all'art. 2 le somme introitate per tale titolo entro i termini indicati nel successivo art. 4.
 
@@ -105,7 +105,7 @@ Titolo III
 
 ### Art. 9.
 
-L'ammontare dei diritti e dei compensi riscossi direttamente dal personale degli Uffici del registro deve essere integralmente versato, a cura dei capi degli uffici stessi, sul conto corrente postale intestato all'ispettore delle tasse e delle imposte indirette sugli affari, addetto al Ministero a norma dell'[art. 146 del R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), entro i primi cinque giorni del mese successivo a quelle della riscossione.
+L'ammontare dei diritti e dei compensi riscossi direttamente dal personale degli Uffici del registro deve essere integralmente versato, a cura dei capi degli uffici stessi, sul conto corrente postale intestato all'ispettore delle tasse e delle imposte indirette sugli affari, addetto al Ministero a norma dell'[art. 146 del R. decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), entro i primi cinque giorni del mese successivo a quelle della riscossione.
 
 ### Art. 10.
 
@@ -149,7 +149,7 @@ Per la riscossione e per la contabilizzazione dei diritti e compensi stabiliti a
 
 1943.
 
-L'ammontare dei diritti e dei compensi deve essere integralmente versato, a cura dei capi degli Uffici dei registri immobiliari, sul conto corrente postale intestato all'ispettore delle tasse e delle imposte indirette sugli affari addetto al Ministero, a norma dell'[art. 146 del R. decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), entro i primi cinque giorni del mese successivo a quello della riscossione.
+L'ammontare dei diritti e dei compensi deve essere integralmente versato, a cura dei capi degli Uffici dei registri immobiliari, sul conto corrente postale intestato all'ispettore delle tasse e delle imposte indirette sugli affari addetto al Ministero, a norma dell'[art. 146 del R. decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), entro i primi cinque giorni del mese successivo a quello della riscossione.
 
 ### Art. 14.
 

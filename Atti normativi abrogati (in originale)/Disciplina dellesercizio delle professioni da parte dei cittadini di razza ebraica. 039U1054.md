@@ -92,7 +92,7 @@ Per essere iscritti negli elenchi speciali e necessario:
 
 Non possono conseguire, l'iscrizione negli elenchi speciali «coloro che abbiano riportato condanna per delitto non colposo per il quale la legge commini la pena' della reclusione, non inferiore nel minimo a due anni e nel massimo a cinque o, comunque, condanna che importi la radiazione o cancellazione dagli albi professionali. 
  
- Non possono, parimenti, conseguire l'iscrizione coloro che siano stati o si trovino sottoposti ad una delle misure di polizia previste dal [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con R. decreto 18 giugno 1931-IX, n. 773.
+ Non possono, parimenti, conseguire l'iscrizione coloro che siano stati o si trovino sottoposti ad una delle misure di polizia previste dal [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con R. decreto 18 giugno 1931-IX, n. 773.
 
 ### Art. 11.
 
@@ -108,7 +108,7 @@ Le domande per l'iscrizione devono essere corredate dai seguenti documenti;
  
  e) certificato generale del casellario giudiziario di data non anteriore a mesi 3 dalla presentazione della domanda e certificato dei Procedimenti a carico; 
  
- f) certificato dell'Autorita' di pubblica sicurezza del luogo di residenza del richiedente, attestante che questi non e' stato sottoposto ad alcuna delle misure previste dal [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con Regio decreto 18 giugno 1931-IX, n. 773; 
+ f) certificato dell'Autorita' di pubblica sicurezza del luogo di residenza del richiedente, attestante che questi non e' stato sottoposto ad alcuna delle misure previste dal [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con Regio decreto 18 giugno 1931-IX, n. 773; 
  
  g) titoli di abilitazione richiesti per la iscrizione nell'albo professionale.
 
@@ -192,7 +192,7 @@ La cancellazione dall'elenco speciale, oltre che per motivi disciplinari, puo' e
 
 ### Art. 20.
 
-La condanna o l'applicazione di una delle misure previste dal [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato col R. decreto 18 giugno 1931-IX, n. 773, importano la cancellazione dall'elenco speciale. 
+La condanna o l'applicazione di una delle misure previste dal [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato col R. decreto 18 giugno 1931-IX, n. 773, importano la cancellazione dall'elenco speciale. 
  
  L'iscritto che si trovi sottoposto a procedimento penale, ovvero deferito per l'applicazione di una delle misure di cui al comma precedente, puo' essere sospeso dall'esercizio della professione. 
  
@@ -208,7 +208,7 @@ L'esercizio professionale da parte dei cittadini italiani di razza ebraica, iscr
  
  a) salvi i casi di comprovata necessita' ed urgenza, la professione deve essere esercitata esclusivamente a favore di persone appartenenti alla razza ebraica; 
  
- b) la professione di farmacista non puo' essere esercitata se non presso le farmacie di cui all'[art. 114 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_114) approvato con R. decreto 27 luglio 1934-XII, n. 1265, qualora l'Ente cui la farmacia appartiene svolga la propria attivita' istituzionale esclusivamente nei riguardi di appartenenti alla razza ebraica; 
+ b) la professione di farmacista non puo' essere esercitata se non presso le farmacie di cui all'[art. 114 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto 27 luglio 1934-XII, n. 1265, qualora l'Ente cui la farmacia appartiene svolga la propria attivita' istituzionale esclusivamente nei riguardi di appartenenti alla razza ebraica; 
  
  c) ai professionisti di razza ebraica non possono essere conferiti incarichi che importino funzioni di pubblico ufficiale, ne' puo' essere consentito l'esercizio di attivita' per conto di enti pubblici, fondazioni, associazioni e comitati di cui agli [articoli 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_34) e [37 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_37) o in locali da questi dipendenti. 
  
@@ -232,7 +232,7 @@ E' vietata qualsiasi forma di associazione e collaborazione professionale tra i 
 
 ### Art. 26.
 
-L'esercizio delle attivita' professionali vietate dall'art. 21 punito ai sensi dell'[art. 348 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+L'esercizio delle attivita' professionali vietate dall'art. 21 punito ai sensi dell'[art. 348 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  La trasgressione alle disposizioni di cui all'art. 25 importa la cancellazione, secondo i casi, dagli albi professionali, dagli elenchi aggiunti, ovvero dagli elenchi speciali.
 

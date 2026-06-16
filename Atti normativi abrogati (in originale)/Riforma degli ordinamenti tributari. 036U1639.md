@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e relativo regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e relativo regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Vista la [legge 2 maggio 1907, n. 222](Abolizione%20delle%20revisioni%20biennali%20dei%20redditi%20di%20ricchezza%20mobile%20ed%20altre%20modificazioni%20alla%20legge%20sulla%20imposta%20di%20ricchezza%20mobile.%20007U0222.md);
 
@@ -26,7 +26,7 @@ Vista la legge tributaria sulle successioni 30 dicembre 1923, numero 3270, e suc
 
 Visto il [R. decreto-legge 17 ottobre 1925, n. 1875](Funzione%20di%20assistenza%20tributaria%20dinanzi%20agli%20uffici%20finanziari.%20025U1875.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visto il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Visti i [Regi decreti-legge 24 ottobre 1935, n. 1887](Interpretazioni%20e%20modifiche%20alle%20leggi%20sulle%20imposte%20dirette.%20035U1887.md), e [13 gennaio 1936, n. 120](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette.%20036U0120.md), convertiti nella [legge 8 giugno 1936, n. 1231](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md);
 
@@ -202,7 +202,7 @@ Nei trasferimenti della proprieta' od usufrutto di immobili o della proprieta' o
 
 Nei trasferimenti a qualunque titolo di aziende industriali e commerciali e di quote di compartecipazione in societa' di commercio, l'Amministrazione, per determinare la quantita' ed il valore delle merci esistenti al giorno del trasferimento, la specie ed il valore degli altri beni di ogni natura, compresi l'avviamento ed i diritti di privativa, ha diritto di esaminare i libri di commercio e tiene conto delle risultanze di essi, degli accertamenti compiuti per le imposto dirette e di ogni altro idoneo elemento. 
  
- Nel casi di rifiuto ad esibire i libri di commercio sono ,applicabili le disposizioni degli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_20) e [23 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_23).
+ Nel casi di rifiuto ad esibire i libri di commercio sono ,applicabili le disposizioni degli [articoli 20](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md) e [23 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md).
 
 ### Art. 20.
 
@@ -234,7 +234,7 @@ La risoluzione in via amministrativa delle controversie tra l'Amministrazione fi
 
 ### Art. 23.
 
-Le Commissioni distrettuali sostituiscono le Commissioni mandamentali di cui all'art. 42 del testo unico di legge per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md). 
+Le Commissioni distrettuali sostituiscono le Commissioni mandamentali di cui all'art. 42 del testo unico di legge per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md). 
  
  Esse hanno giurisdizione identica alla circoscrizione territoriale dell'ufficio delle imposte dirette.
 
@@ -384,11 +384,11 @@ Titolo VI.
 
 ### Art. 39.
 
-L'azione della Finanza, per la rettifica delle dichiarazioni dei nuovi redditi, presentate nei termini stabiliti dal testo approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), si prescrive col 31 dicembre dell'anno in cui le dichiarazioni stesse furono presentate. 
+L'azione della Finanza, per la rettifica delle dichiarazioni dei nuovi redditi, presentate nei termini stabiliti dal testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), si prescrive col 31 dicembre dell'anno in cui le dichiarazioni stesse furono presentate. 
  
  L'iscrizione a ruolo del reddito dichiarato dal contribuente non pregiudica il diritto della Finanza a rettificare il reddito stesso entro il termine stabilito nel comma precedente, se la dichiarazione fu presentata tempestivamente ed entro l'anno successivo a quello di presentazione della dichiarazione stessa, se questa fu presentata tardivamente. 
  
- La facolta' della Commissione distrettuale, di aumentare i redditi accertati dagli uffici e di accertare i redditi e cespiti omessi, ai termini dell'[art. 43 del testo unico 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877-08-24;4021#art_43), e dell'art. 98 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), cessa col 31 dicembre del secondo anno successivo a quello della definizione dell'accertamento.
+ La facolta' della Commissione distrettuale, di aumentare i redditi accertati dagli uffici e di accertare i redditi e cespiti omessi, ai termini dell'[art. 43 del testo unico 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877-08-24;4021#art_43), e dell'art. 98 del regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md), cessa col 31 dicembre del secondo anno successivo a quello della definizione dell'accertamento.
 
 ### Art. 40.
 

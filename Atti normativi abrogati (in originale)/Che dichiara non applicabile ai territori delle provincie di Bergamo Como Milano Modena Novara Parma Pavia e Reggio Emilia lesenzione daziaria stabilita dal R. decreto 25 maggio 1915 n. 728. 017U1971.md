@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-L'esenzione daziaria prevista dal [R. decreto 25 maggio 1915, n. 728](Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md), non e' applicabile ai territori delle provincie di Bergamo, Como, Milano, Modena, Novara, Parma, Pavia, e Reggio Emilia. 
+L'esenzione daziaria prevista dal [R. decreto 25 maggio 1915, n. 728](../Regi%20decreti/Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md), non e' applicabile ai territori delle provincie di Bergamo, Como, Milano, Modena, Novara, Parma, Pavia, e Reggio Emilia. 
  
  Il presente decreto avra' effetto retroattivo alla data del decreto che ha dichiarato le predette provincie in istato di guerra. 
  

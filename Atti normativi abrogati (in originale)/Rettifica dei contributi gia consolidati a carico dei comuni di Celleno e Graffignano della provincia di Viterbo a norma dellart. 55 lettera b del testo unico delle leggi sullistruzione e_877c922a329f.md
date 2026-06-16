@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 28 agosto 1930, n. 1477](Contributi%20scolastici%20suppletivi%20liquidati%20a%20carico%20dei%20Comuni%20delle%20provincie%20di%20Frosinone%20Rieti%20Roma%20e%20Viterbo%20per%20il%20quinquennio%201929-1933.%20030U1477.md), col quale furono stabiliti i contributi dovuti, per il quinquennio 1° gennaio 1929-31 dicembre 1933, dai Comuni delle provincie di Frosinone, Rieti, Roma e Viterbo, a norma dell'art. 55, lettera b), del testo unico delle leggi sulla istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto il [R. decreto 28 agosto 1930, n. 1477](Contributi%20scolastici%20suppletivi%20liquidati%20a%20carico%20dei%20Comuni%20delle%20provincie%20di%20Frosinone%20Rieti%20Roma%20e%20Viterbo%20per%20il%20quinquennio%201929-1933.%20030U1477.md), col quale furono stabiliti i contributi dovuti, per il quinquennio 1° gennaio 1929-31 dicembre 1933, dai Comuni delle provincie di Frosinone, Rieti, Roma e Viterbo, a norma dell'art. 55, lettera b), del testo unico delle leggi sulla istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto il nuovo elenco di scuole classificate e non classificate legalmente istituite ed esistenti al 1° gennaio 1929 nei comuni di Celleno e Graffignano, elenco compilato dal Regio provveditore agli studi per il Lazio, dal quale si rileva che a carico dei Comuni stessi fu liquidato un contributo diverso da quello effettivamente dovuto;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Il contributo che i comuni di Celleno e Graffignano della provincia di Viterbo devono versare, alla Tesoreria dello Stato, in applicazione dell'art. 55, lettera b), del testo unico delle leggi sulla istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), per il periodo 1° gennaio 1929-31 dicembre 1931 e' stato stabilito in annue L. 4000 per ciascuno di detti Comuni.
+Il contributo che i comuni di Celleno e Graffignano della provincia di Viterbo devono versare, alla Tesoreria dello Stato, in applicazione dell'art. 55, lettera b), del testo unico delle leggi sulla istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), per il periodo 1° gennaio 1929-31 dicembre 1931 e' stato stabilito in annue L. 4000 per ciascuno di detti Comuni.
 
 ## Art. 2.
 

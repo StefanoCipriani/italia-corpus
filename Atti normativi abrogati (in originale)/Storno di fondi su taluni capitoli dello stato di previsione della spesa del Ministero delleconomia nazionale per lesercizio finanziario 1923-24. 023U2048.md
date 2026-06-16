@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 17 giugno 1923, n. 1263](Che%20approva%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20delle%20Amministrazioni%20dello%20Stato%20per%20lanno%20finanziario%20dal%201%20luglio%201923%20al%2030%20giugno%201924%20fino%20a%20q_44558b8bad1b.md); 
  
- Visto il [R. decreto 10 settembre 1923, n. 2050](Approvazione%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delleconomia%20nazionale%20per%20lesercizio%201923-24.%20023U2050.md); 
+ Visto il [R. decreto 10 settembre 1923, n. 2050](../Regi%20decreti/Approvazione%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delleconomia%20nazionale%20per%20lesercizio%201923-24.%20023U2050.md); 
  
  Sentito il Consiglio dei Ministri; 
  

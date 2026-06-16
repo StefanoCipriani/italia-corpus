@@ -50,7 +50,7 @@ Con decreto Reale, su proposta del Ministero dei lavori pubblici, saranno stabil
 
 ## Art. 7.
 
-La somma di L. 14,400,000 occorrente per l'eventuale corresponsione dal 1927 al 1936 del sussidio annuo di L. 1,600,000 di cui all'art. 14 della convenzione, verra' prelevata dal fondo di riserva di cui al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), ed iscritta per la quota corrispondente ad ogni annualita' in apposito capitolo da istituirsi nella parte straordinaria del bilancio del Ministero dei lavori pubblici. 
+La somma di L. 14,400,000 occorrente per l'eventuale corresponsione dal 1927 al 1936 del sussidio annuo di L. 1,600,000 di cui all'art. 14 della convenzione, verra' prelevata dal fondo di riserva di cui al [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), ed iscritta per la quota corrispondente ad ogni annualita' in apposito capitolo da istituirsi nella parte straordinaria del bilancio del Ministero dei lavori pubblici. 
  
  Le somme che verranno rimborsate dalla Societa' a norma dell'articolo stesso saranno versate in conto entrate del Tesoro.
 

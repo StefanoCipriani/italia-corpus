@@ -16,15 +16,15 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, approvato con R. decreto del 28 novembre 1869; 
+ Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, approvato con R. decreto del 28 novembre 1869; 
  
- Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo, approvato con R. decreto 28 novembre 1869; 
+ Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) marittimo, approvato con R. decreto 28 novembre 1869; 
  
  Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento del R. esercito ed il regolamento per l'esecuzione della legge detta, approvato con Nostro decreto 21 luglio 1907, n. 626; 
  
  Vista la [legge 6 marzo 1898, n. 59](Sullavanzamento%20dei%20Corpi%20militari%20della%20Regia%20Marina.%20098U0059.md) sull'avanzamento dei corpi militari della R. marina; 
  
- Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, num. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70); 
+ Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, num. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md); 
  
  Vista la legge e il regolamento sulla contabilita' generale dello Stato, 4 maggio 1885; 
  

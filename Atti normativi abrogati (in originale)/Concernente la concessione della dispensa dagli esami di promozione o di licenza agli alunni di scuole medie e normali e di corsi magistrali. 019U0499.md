@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Veduta la [legge 27 giugno 1912, n. 678](Portante%20disposizioni%20per%20gli%20esami%20nelle%20scuole%20elementari%20popolari%20e%20medie.%20012U0678.md);
 
-Veduto il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md);
+Veduto il regolamento approvato con [R. decreto 22 giugno 1913, n. 1217](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20gli%20esami%20nelle%20scuole%20medie%20e%20normali.%20013U1217.md);
 
 Veduto il [decreto Luogotenenziale 16 maggio 1918, n. 731](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-16;731);
 

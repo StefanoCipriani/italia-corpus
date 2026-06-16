@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 24 novembre 1938, numero 1912](Istituzione%20del%20Registro%20aeronautico%20italiano.%20038U1912.md), che istituisce il Registro aeronautico italiano;
 
-Visto il [regio decreto 14 giugno 1941, n. 1558](Approvazione%20dello%20statuto%20del%20Registro%20aeronautico%20italiano.%20041U1558.md), che approva lo statuto del Registro aeronautico italiano;
+Visto il [regio decreto 14 giugno 1941, n. 1558](../Regi%20decreti/Approvazione%20dello%20statuto%20del%20Registro%20aeronautico%20italiano.%20041U1558.md), che approva lo statuto del Registro aeronautico italiano;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

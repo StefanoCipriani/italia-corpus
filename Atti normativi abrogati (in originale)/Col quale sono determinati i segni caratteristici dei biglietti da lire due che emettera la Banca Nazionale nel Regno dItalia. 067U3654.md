@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE 
  
- Veduto il [R. Decreto 21 aprile 1867, n. 3649](Col%20quale%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20e%20autorizzata%20ad%20emettere%20Biglietti%20di%20Banca%20da%20lire%20due.%20067U3649.md); 
+ Veduto il [R. Decreto 21 aprile 1867, n. 3649](../Regi%20decreti/Col%20quale%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20e%20autorizzata%20ad%20emettere%20Biglietti%20di%20Banca%20da%20lire%20due.%20067U3649.md); 
  
  Determina quanto segue: 
  

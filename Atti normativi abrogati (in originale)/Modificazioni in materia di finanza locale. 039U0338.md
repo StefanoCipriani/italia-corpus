@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
+Visto il testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 4 ottobre 1934, n. 1682](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-04;1682), concernente l'istituzione della provincia di Littoria, convertito con modificazioni nella [legge 18 aprile 1935, n. 574](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201934%20n.%201682%20concernente%20listituzione%20della%20provincia%20di%20Littoria.%20035U0574.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Al testo unico per la finanze locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti modificazioni: 
+Al testo unico per la finanze locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti modificazioni: 
  
  a) Il n. 5 dell'art. 29 e' sostituito dal seguente: 
  
@@ -90,7 +90,7 @@ Al testo unico per la finanze locale approvato con [R. decreto 14 settembre 1931
  
  «Salvo quanto e' disposto nel capo III del titolo III e salvo i casi in cui sia stabilita una pena piu' grave, le violazioni delle norme del presente testo unico riguardanti l'applicazione dei tributi e quelle dei relativi regolamenti sono punite, oltre che con le sanzioni civili comminate nei singoli casi, con l'ammenda da lire venti a lire cinquecento. 
  
- «Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). 
+ «Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). 
  
  «La misura dell'oblazione entro i limiti di cui sopra e' determinata discrezionalmente dal podesta' o dal preside a seconda della rispettiva competenza».
 

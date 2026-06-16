@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 49 del testo unico delle leggi sull'ordinamento del regio esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [regio decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e' sostituito dal seguente: 
+L'art. 49 del testo unico delle leggi sull'ordinamento del regio esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [regio decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e' sostituito dal seguente: 
  
  La giustizia militare in tempo di pace e' amministrata da: 
  
@@ -54,7 +54,7 @@ La tabella n. XVI, del personale della giustizia militare, annessa al predetto t
 
 ## Art. 3.
 
-La tabella n. VI, annessa al testo unico delle leggi sugli stipendi e assegni fissi pel regio esercito, approvato con [regio decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e' modificata, per quanto riguarda il personale della giustizia militare, come segue: 
+La tabella n. VI, annessa al testo unico delle leggi sugli stipendi e assegni fissi pel regio esercito, approvato con [regio decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e' modificata, per quanto riguarda il personale della giustizia militare, come segue: 
  
  Parte di provvedimento in formato grafico
  

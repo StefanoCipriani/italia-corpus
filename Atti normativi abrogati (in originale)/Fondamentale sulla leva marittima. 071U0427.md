@@ -22,9 +22,9 @@ Non possono per alcun titolo far parte dell'Armata:
  
  I condannati ai lavori forzati; 
  
- I condannati alla reclusione od alla relegazione a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 20 novembre 1859, come colpevoli dei reati definiti nel libro II, titolo I, titolo III, capi I e II, e sezione VII del capo III, titoli IV, VII e VIII, titolo IX, agli articoli 489 e 491, e titolo X, capo II; 
+ I condannati alla reclusione od alla relegazione a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 20 novembre 1859, come colpevoli dei reati definiti nel libro II, titolo I, titolo III, capi I e II, e sezione VII del capo III, titoli IV, VII e VIII, titolo IX, agli articoli 489 e 491, e titolo X, capo II; 
  
- I condannati per gli stessi reati all'ergastolo ed alla casa di forza a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della Toscana. 
+ I condannati per gli stessi reati all'ergastolo ed alla casa di forza a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della Toscana. 
  
  Possono pure essere esclusi dall'Armata i condannati per gli stessi reati dai Tribunali esteri, sempreche' la pena inflitta corrisponda per natura ad alcuna di quelle sopra enunciate. In tali casi il Ministro della Marina decidera' sull'esclusione, sentito il parere dell'Avvocato generale militare presso il Tribunale supremo di Guerra e Marina.
 
@@ -916,7 +916,7 @@ I medici e chirurghi, chiamati come periti nei casi preveduti da questa Legge, i
 
 ### Art. 135.
 
-Qualunque Ufficiale pubblico, Agente od Impiegato del Governo che, sotto qualsiasi pretesto, abbia autorizzato od ammesso esenzioni, riforme, esclusioni, surrogazioni, affrancazioni o riassoldamenti con premio in opposizione al disposto della presente Legge, ovvero abbia dato arbitraria estensione sia alla durata del servizio, sia alle regole e condizioni della chiamata alle leve marittime e degli arruolamenti volontari, e' punito, come reo di abuso di autorita', con le pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori che sono prescritte dallo stesso Codice nel caso di circostanze che ne aggravino la colpa.
+Qualunque Ufficiale pubblico, Agente od Impiegato del Governo che, sotto qualsiasi pretesto, abbia autorizzato od ammesso esenzioni, riforme, esclusioni, surrogazioni, affrancazioni o riassoldamenti con premio in opposizione al disposto della presente Legge, ovvero abbia dato arbitraria estensione sia alla durata del servizio, sia alle regole e condizioni della chiamata alle leve marittime e degli arruolamenti volontari, e' punito, come reo di abuso di autorita', con le pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle pene maggiori che sono prescritte dallo stesso Codice nel caso di circostanze che ne aggravino la colpa.
 
 ### Art. 136.
 

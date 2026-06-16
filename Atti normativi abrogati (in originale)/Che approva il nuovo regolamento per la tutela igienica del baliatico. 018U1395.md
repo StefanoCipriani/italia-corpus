@@ -14,7 +14,7 @@ E' approvato l'unito regolamento che sara' vidimato e sottoscritto, d'ordine Nos
 
 ## Art. 2.
 
-E' abrogato l'art. 13 del regolamento approvato con [R. decreto 27 luglio 1905, n. 487](Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20profilassi%20delle%20malattie%20celtiche.%20005U0487.md).
+E' abrogato l'art. 13 del regolamento approvato con [R. decreto 27 luglio 1905, n. 487](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20profilassi%20delle%20malattie%20celtiche.%20005U0487.md).
 
 ## Art. 3.
 

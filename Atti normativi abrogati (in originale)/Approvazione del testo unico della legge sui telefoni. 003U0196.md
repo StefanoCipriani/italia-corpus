@@ -259,7 +259,7 @@ I Comuni che intendono collegare al prossimo ufficio telegrafico, il Capoluogo d
 
 ## Art. 31.
 
-Alla violazione del segreto della corrispondenza telefonica si applicano le disposizioni contenute nel capo V, titolo II, libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Alla violazione del segreto della corrispondenza telefonica si applicano le disposizioni contenute nel capo V, titolo II, libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Ai danni recati alle comunicazioni telefoniche pubbliche e private si applicano le disposizioni dell'articolo 315 del codice stesso. 
  

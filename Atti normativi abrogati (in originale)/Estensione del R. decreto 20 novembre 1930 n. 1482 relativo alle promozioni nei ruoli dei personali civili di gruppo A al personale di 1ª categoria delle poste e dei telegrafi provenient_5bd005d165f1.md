@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e loro successive modificazioni;
+Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e loro successive modificazioni;
 
 Visti i [Regi decreti 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e [31 maggio 1928, n. 1233](Estensione%20al%20personale%20postale%20telegrafico%20del%20cessato%20regime%20austro-ungarico%20delle%20disposizioni%20del%20R.%20decreto%2015%20agosto%201926%20n.%201733%20sullordinamento%20del%20personale%20dellAmministrazione%20d_fd71c4fed33e.md);
 

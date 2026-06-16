@@ -93,7 +93,7 @@ Le provvidenze contemplate dalla presente legge e la autorizzazione prevista dal
 
 ## Art. 12.
 
-I fondi necessari all'erogazione ai Comuni ed alle Province dei contributi previsti dalla presente legge sono forniti con ordini di accreditamento di ammontare anche superiore ai limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
+I fondi necessari all'erogazione ai Comuni ed alle Province dei contributi previsti dalla presente legge sono forniti con ordini di accreditamento di ammontare anche superiore ai limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
  Al maggior onere derivante dall'aumento della compartecipazione al gettito dell'I.G.E. disposto dagli articoli 4 e 9 della presente legge, che si prevede di lire 2.000.000.000 per l'esercizio finanziario 1962-1963 e di lire 4 miliardi 500.000.000 per l'esercizio 1963-1964 si provvedera' con parte del maggior gettito previsto dalla applicazione del provvedimento concernente modificazioni al regime fiscale dei prodotti petroliferi,
 
 ## Art. 13.

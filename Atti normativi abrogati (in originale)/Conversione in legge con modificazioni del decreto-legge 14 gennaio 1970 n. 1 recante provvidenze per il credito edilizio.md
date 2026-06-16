@@ -33,7 +33,7 @@ E' convertito in legge il [decreto-legge 14 gennaio 1970, n. 1](Provvidenze%20pe
  venti lire per il 1979 e successivi". 
  All'articolo 2, il primo comma e' sostituito dal seguente: 
  "Fino al 31 dicembre 1971, gli Istituti di credito fondiario, per le cartelle emesse al tasso nominale del 5 per cento, hanno facolta', su richiesta, di elevare al 6 per cento il saggio nominale annuo di interesse corrisposto sulle cartelle"; 
- al terzo comma e' aggiunto, in fine, il seguente periodo: ", ovvero con la sostituzione dei vecchi titoli con nuovi titoli 6 per cento conversione, sui quali le firme di cui all'[articolo 17 del regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472#art_17), potranno essere apposte con sistemi meccanici". 
+ al terzo comma e' aggiunto, in fine, il seguente periodo: ", ovvero con la sostituzione dei vecchi titoli con nuovi titoli 6 per cento conversione, sui quali le firme di cui all'[articolo 17 del regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), potranno essere apposte con sistemi meccanici". 
  All'articolo 3, il primo periodo e' sostituito dal seguente: 
  "Il premio di cui al precedente articolo 1 verra' riconosciuto, al momento dell'estrazione del titolo o dell'annullamento per anticipata estinzione dei mutui:". 
  All'articolo 4, il primo comma e' sostituito dal seguente: 
@@ -41,7 +41,7 @@ E' convertito in legge il [decreto-legge 14 gennaio 1970, n. 1](Provvidenze%20pe
  Dopo l'articolo 4 sono inseriti i seguenti: 
  "Art. 4-bis. - E' consentita la estinzione anticipata dei mutui stipulati al tasso del 5 per cento con le cartelle convertite al 6 per cento". 
  "Art. 4-ter. - Il premio di cui all'articolo 1 del presente decreto e' esente da ogni imposta diretta, erariale o locale, presente e futura". 
- All'articolo 5, primo comma, le parole: "degli utili" sono sostituite dalle altre: "delle entrate relative agli utili", e dopo le parole: "[regio decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204)", sono aggiunte le altre: "e successive modificazioni".
+ All'articolo 5, primo comma, le parole: "degli utili" sono sostituite dalle altre: "delle entrate relative agli utili", e dopo le parole: "[regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md)", sono aggiunte le altre: "e successive modificazioni".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

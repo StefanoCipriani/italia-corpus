@@ -16,11 +16,11 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 26 febbraio 1925, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-26;200) mediante il quale la frazione Angeli del comune di Curtatone e la frazione Cittadella del comune di Porto Mantovano furono aggregate al comune di Mantova; 
+ Veduto il [R. decreto 26 febbraio 1925, n. 200](../Regi%20decreti/Ampliamento%20del%20territorio%20del%20comune%20di%20Mantova.%20025U0200.md) mediante il quale la frazione Angeli del comune di Curtatone e la frazione Cittadella del comune di Porto Mantovano furono aggregate al comune di Mantova; 
  
  Veduto il [R. decreto 17 gennaio 1915, n. 137](Col%20quale%20lamministrazione%20delle%20scuole%20elementari%20e%20popolari%20di%2057%20comuni%20della%20provincia%20di%20Mantova%20e%20affidata%20al%20Consiglio%20scolastico%20della%20stessa%20provincia.%20015U0137.md), col quale furono determinati in annue L. 24.143,31 e 10.565,62 i contributi che i comuni di Curtatone e Porto Mantovano devono versare a norma dell'[art. 17 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md); 
  
- Veduto che le variazioni territoriali disposte dal citato [R. decreto 26 febbraio 1925, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-26;200) ebbero attuazione a decorrere dal 1° gennaio 1926; 
+ Veduto che le variazioni territoriali disposte dal citato [R. decreto 26 febbraio 1925, n. 200](../Regi%20decreti/Ampliamento%20del%20territorio%20del%20comune%20di%20Mantova.%20025U0200.md) ebbero attuazione a decorrere dal 1° gennaio 1926; 
  
  Vedute le deliberazioni del Regio provveditore agli studi di Milano e quelle del podesta' di Curtatone e di Porto Mantovano; 
  

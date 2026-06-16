@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 3 febbraio 1936, n. 296](Coordinamento%20delle%20attr
 
 Visto il decreto Presidenziale 10 settembre 1936 col quale sono approvate le norme statutarie dell'istituto nazionale per il commercio estero, il regolamento interno ed il regolamento del personale;
 
-Visto il [R. decreto 2 giugno 1944, n. 150](Soppressione%20del%20Ministero%20per%20gli%20Scambi%20e%20le%20Valute%20e%20ripartizione%20delle%20attribuzioni%20e%20servizi%20relativi%20fra%20i%20Ministeri%20delle%20Finanze%20e%20dellIndustria%20del%20Commercio%20e%20del%20Lavoro.%20044U0150.md), che sopprime il Ministero scambi e valute e ripartisce le attribuzioni fra il Ministero delle finanze e il Ministero dell'industria, il commercio e il lavoro;
+Visto il [R. decreto 2 giugno 1944, n. 150](../Regi%20decreti/Soppressione%20del%20Ministero%20per%20gli%20Scambi%20e%20le%20Valute%20e%20ripartizione%20delle%20attribuzioni%20e%20servizi%20relativi%20fra%20i%20Ministeri%20delle%20Finanze%20e%20dellIndustria%20del%20Commercio%20e%20del%20Lavoro.%20044U0150.md), che sopprime il Ministero scambi e valute e ripartisce le attribuzioni fra il Ministero delle finanze e il Ministero dell'industria, il commercio e il lavoro;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

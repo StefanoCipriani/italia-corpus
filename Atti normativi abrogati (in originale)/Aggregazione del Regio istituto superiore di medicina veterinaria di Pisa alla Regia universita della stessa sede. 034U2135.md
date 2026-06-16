@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592):
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md):
 
 Su conforme parere del Consiglio superiore dell'educazione nazionale;
 
@@ -44,7 +44,7 @@ Al ruolo dei professori della Regia universita' di Pisa sono aggiunti, per la nu
 
 ## Art. 4.
 
-In relazione alle disposizioni di cui all'art. 2, lettera b) del presente decreto, s'intende soppresso il n. 29 della tabella A annessa al testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), mentre il N 8 della tabella stessa s'intende integrato del contributo dovuto dallo Stato all'Istituto superiore di medicina veterinaria a norma della citata lettera b) dell'art. 2.
+In relazione alle disposizioni di cui all'art. 2, lettera b) del presente decreto, s'intende soppresso il n. 29 della tabella A annessa al testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), mentre il N 8 della tabella stessa s'intende integrato del contributo dovuto dallo Stato all'Istituto superiore di medicina veterinaria a norma della citata lettera b) dell'art. 2.
 
 ## Art. 5.
 

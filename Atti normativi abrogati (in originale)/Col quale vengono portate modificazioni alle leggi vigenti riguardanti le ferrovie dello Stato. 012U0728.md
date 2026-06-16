@@ -500,7 +500,7 @@ I sottoindicati articoli della [legge 9 luglio 1908, n. 418](Provvedimenti%20per
  
  La domanda non sospende l'esecuzione del provvedimento d'esonero; pero', qualora il provvedimento venga revocato, sara' usato all'agente, dalla data del suo esonero, il trattamento previsto, a seconda dei casi, dal regolamento del personale. 
  
- Contro le deliberazioni del Consiglio di amministrazione riguardanti il diritto alle pensioni ed ai sussidi e la determinazione del loro ammontare e' ammesso, entro il termine di 90 giorni dalla comunicazione da farsi in conformita' dell'articolo 127 del regolamento approvato con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), per l'esecuzione della legge sulle pensioni civili e militari, il ricorso, da parte degli interessati, alla Corte dei conti, che giudica definitivamente. 
+ Contro le deliberazioni del Consiglio di amministrazione riguardanti il diritto alle pensioni ed ai sussidi e la determinazione del loro ammontare e' ammesso, entro il termine di 90 giorni dalla comunicazione da farsi in conformita' dell'articolo 127 del regolamento approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), per l'esecuzione della legge sulle pensioni civili e militari, il ricorso, da parte degli interessati, alla Corte dei conti, che giudica definitivamente. 
  
  Art. 21. 
  

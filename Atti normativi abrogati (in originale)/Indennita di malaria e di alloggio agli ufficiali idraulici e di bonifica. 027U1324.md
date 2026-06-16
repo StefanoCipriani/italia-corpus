@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 giugno 1907, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-30;667), col quale e', stato approvato il regolamento sulla tutela delle opere idrauliche di 1ª e 2ª categoria;
+Visto il [R. decreto 30 giugno 1907, n. 667](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sulla%20tutela%20delle%20opere%20idrauliche%20di%201ª%20e%202ª%20categoria.%20007U0667.md), col quale e', stato approvato il regolamento sulla tutela delle opere idrauliche di 1ª e 2ª categoria;
 
 Visti gli articoli 34 e 35 del regolamento per il personale di custodia delle opere di bonificazione delle paludi e dei terreni paludosi, approvato coi [Regi decreti 18 aprile 1909, n. 487](Che%20approva%20il%20regolamento%20per%20il%20personale%20di%20custodia%20delle%20opere%20di%20bonificazione%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20009U0487.md), e [13 luglio 1911, n. 893](Che%20modifica%20il%20regolamento%20per%20il%20personale%20di%20custodia%20delle%20opere%20di%20bonificazione%20delle%20paludi%20e%20dei%20terreni%20paludosi%20011U0893.md);
 

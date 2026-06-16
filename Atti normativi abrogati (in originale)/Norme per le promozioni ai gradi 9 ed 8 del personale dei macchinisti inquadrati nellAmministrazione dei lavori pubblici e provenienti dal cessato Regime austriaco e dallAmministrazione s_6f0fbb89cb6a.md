@@ -30,7 +30,7 @@ Visto l'[art. 15 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarch
 
 Visto il [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni;
 
 Udito il Consiglio di Stato;
 
@@ -94,7 +94,7 @@ Gli esami di cui al presente decreto hanno luogo in Roma e gli impiegati che par
 
 ## Art. 9.
 
-Per quanto riguarda la compilazione dei temi da svolgere e la polizia nelle aule durante le prove scritte. saranno applicate le disposizioni di cui al [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960). 
+Per quanto riguarda la compilazione dei temi da svolgere e la polizia nelle aule durante le prove scritte. saranno applicate le disposizioni di cui al [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  Dato a S. Anna di Valdieri, addi' 22 luglio l932 - Anno X 
  

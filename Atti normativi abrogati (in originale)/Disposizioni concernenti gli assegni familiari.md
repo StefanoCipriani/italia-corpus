@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visti il [regio decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), sul perfezionamento e la generalizzazione degli assegni familiari ai prestatori di opera, convertito, con modificazioni, nella [legge 25 ottobre 1938, n. 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md) e il [regio decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), contenente norme integrative per la sua attuazione;
+Visti il [regio decreto-legge 17 giugno 1937, n. 1048](Disposizioni%20per%20il%20perfezionamento%20e%20generalizzazione%20degli%20assegni%20familiari%20ai%20prestatori%20dopera.%20037U1048.md), sul perfezionamento e la generalizzazione degli assegni familiari ai prestatori di opera, convertito, con modificazioni, nella [legge 25 ottobre 1938, n. 2233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20contenente%20disposizioni%20per%20il%20perfezionamento%20e%20la%20generalizzazione%20degli%20assegni%20familiari%20ai%20prest_b75c670e8a1f.md) e il [regio decreto 21 luglio 1937, n. 1239](../Regi%20decreti/Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), contenente norme integrative per la sua attuazione;
 
 Vista la [legge 6 agosto 1940, n. 1278](Istituzione%20di%20una%20Cassa%20unica%20per%20gli%20assegni%20familiari%20ai%20lavoratori%20e%20disciplina%20della%20corresponsione%20degli%20assegni%20stessi%20al%20personale%20non%20usufruente%20di%20un%20trattamento%20di%20famiglia%20del_350b7c47914c.md), per la istituzione della Cassa unica per gli assegni familiari;
 
@@ -18,7 +18,7 @@ Visto il [decreto legislativo luogotenenziale 9 novembre 1944, n. 307](../Decret
 
 Visto il [decreto legislativo luogotenenziale 15 agosto 1945, n. 552](../Decreti%20legislativi%20luogotenenziali/Aumento%20degli%20assegni%20familiari%20supplementari%20di%20carovita.%20045U0552.md), per l'aumento della misura degli assegni familiari supplementari di carovita;
 
-Visto il [regio decreto 20 maggio 1946, n. 369](Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo della retribuzione fino alla concorrenza dei quale e' dovuto il contributo per gli assegni familiari;
+Visto il [regio decreto 20 maggio 1946, n. 369](../Regi%20decreti/Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo della retribuzione fino alla concorrenza dei quale e' dovuto il contributo per gli assegni familiari;
 
 Visti i contratti collettivi concernenti norme integrative per la disciplina degli assegni familiari;
 
@@ -92,7 +92,7 @@ L'assegno familiare per i figli o persone equiparate a carico, i quali si trovin
 
 ## Art. 12.
 
-Il diritto agli assegni familiari e' esteso alla moglie lavoratrice per il marito a carico invalido permanentemente al lavoro, ai sensi dell'[art. 19 del regio decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md).
+Il diritto agli assegni familiari e' esteso alla moglie lavoratrice per il marito a carico invalido permanentemente al lavoro, ai sensi dell'[art. 19 del regio decreto 21 luglio 1937, n. 1239](../Regi%20decreti/Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md).
 
 ## Art. 13.
 
@@ -104,7 +104,7 @@ Ai fini del riconoscimento della qualifica di capo famiglia per il diritto agli 
 
 ## Art. 15.
 
-E' elevato a 10 giorni il termine previsto dall'[art. 37 del regio decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), per la presentazione dei rendiconti per il versamento dei contributi e per il pagamento degli assegni nel settore dell'industria. 
+E' elevato a 10 giorni il termine previsto dall'[art. 37 del regio decreto 21 luglio 1937, n. 1239](../Regi%20decreti/Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), per la presentazione dei rendiconti per il versamento dei contributi e per il pagamento degli assegni nel settore dell'industria. 
  L'azione dei datori di lavoro per ottenere il rimborso degli assegni familiari e della eccedenza a loro favore fra contributi ed assegni, si prescrive nel termine di due anni a far tempo dalla scadenza del periodo di paga cui gli assegni si riferiscono.
 
 ## Art. 16.
@@ -117,7 +117,7 @@ Per le infrazioni previste dall'[art. 24 del regio decreto-legge 17 giugno 1937,
 
 ## Art. 18.
 
-L'[art. 60 del regio decreto 21 luglio 1937, n. 1239](Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), e' sostituito dal seguente: 
+L'[art. 60 del regio decreto 21 luglio 1937, n. 1239](../Regi%20decreti/Norme%20integrative%20per%20lattuazione%20del%20R.%20decreto-legge%2017%20giugno%201937-XV%20n.%201048%20sulla%20generalizzazione%20e%20il%20perfezionamento%20degli%20assegni%20familiari.%20037U1239.md), e' sostituito dal seguente: 
  "Salvo che i fatti non costituiscano reato piu' grave i datori di lavoro e coloro che li rappresentano, sono puniti con l'ammenda da L. 500 a L. 5000 per le contravvenzioni alle disposizioni di cui agli articoli 32, 33, 34, 37, 46, 49, 51, 52, 53 e 56 del presente decreto. 
  Ogni lavoratore, per le infrazioni alle disposizioni di cui agli articoli 8 comma 2, 33, 45 commi 2, 53 comma 4, 59 comma 2 del presente decreto, e' punito con l'ammenda da L. 200 a L. 2000".
 

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;633), col quale il comune di Brusaschetto e' stato soppresso ed il rispettivo territorio aggregato a quello di Camino Monferrato; 
+ Visto il [R. decreto 28 marzo 1929, n. 633](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brusaschetto%20Camino%20e%20Castel%20San%20Pietro%20nonche%20di%20parte%20della%20frazione%20Isolengo%20in%20un%20unico%20Comune%20con%20denominazione%20Camino%20e%20capoluogo%20nella%20localita%20Castello%20di%20C_da4fcd5e86f2.md), col quale il comune di Brusaschetto e' stato soppresso ed il rispettivo territorio aggregato a quello di Camino Monferrato; 
  Vista la deliberazione del commissario prefettizio di Camino Monferrato rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Brusaschetto; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

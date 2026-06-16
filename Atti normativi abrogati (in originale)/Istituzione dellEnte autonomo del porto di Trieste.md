@@ -33,7 +33,7 @@ Amministrazioni interessate, nel quadro della programmazione economica regionale
  L'esecuzione dei suindicati lavori puo' essere affidata dal Ministero dei lavori pubblici in concessione all'Ente portuale, ove se ne ravvisi la necessita'.
  L'Ente e' autorizzato ad eseguire a proprie spese lavori previsti nel piano regolatore in vigore, dopo la prescritta approvazione in linea tecnica degli elaborati di progetto da parte del Ministero dei lavori pubblici;
  3) provvedere, a seguito di apposita convenzione da stipulare con il Ministero dei lavori pubblici, ai servizi idrici, di pulizia e di illuminazione del porto, nonche' all'esecuzione delle opere ordinarie e straordinarie e degli impianti portuali, a totale carico dello Stato o con il concorso di esso ai sensi delle leggi vigenti;
- 4) amministrare, nell'ambito della propria circoscrizione, i beni del demanio marittimo, compresi gli spazi acquei, con l'osservanza delle disposizioni del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del relativo regolamento.
+ 4) amministrare, nell'ambito della propria circoscrizione, i beni del demanio marittimo, compresi gli spazi acquei, con l'osservanza delle disposizioni del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del relativo regolamento.
  Gli atti di concessione aventi durata superiore a quindici anni dovranno essere approvati con decreto del Ministro per la marina mercantile;
  5) esplicare le funzioni che le vigenti leggi sul lavoro nei porti attribuiscono alla competenza degli Uffici del lavoro portuale e dei comandanti di porto, con la assistenza di un Consiglio del lavoro e con poteri di regolamentazione del lavoro e di determinazione delle tariffe, sia nei confronti dei lavoratori, che degli imprenditori, secondo le norme vigenti;
  6) provvedere all'esecuzione degli impianti ferroviari nell'ambito della circoscrizione, nonche' alla relativa manutenzione ed all'esercizio ferroviario, a seguito di apposita convenzione da stipulare con l'Amministrazione delle ferrovie dello Stato alla quale fanno carico le relative spese in base alle norme vigenti;
@@ -73,7 +73,7 @@ Sono organi dell'Ente:
 ## Art. 6. — (Presidente e vice presidente)
 
 Il presidente e' nominato con decreto del Presidente della Repubblica, su proposta del Ministro per la marina mercantile, sentito il Consiglio dei Ministri e sentita, altresi', la Giunta regionale del Friuli-Venezia Giulia. Egli dura in carica quattro anni e puo' essere riconfermato.
- Se e' nominato presidente dell'Ente un funzionario dello Stato, egli dovra' essere collocato fuori ruolo per il periodo di durata dell'incarico, con le modalita' di cui agli [articoli 58](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [59 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Se e' nominato presidente dell'Ente un funzionario dello Stato, egli dovra' essere collocato fuori ruolo per il periodo di durata dell'incarico, con le modalita' di cui agli [articoli 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [59 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  Vice presidente di diritto e' il comandante del porto di Trieste.
 Egli coadiuva il presidente e lo sostituisca esercitandone le funzioni in caso di assenza e di impedimento.
  Al presidente sara' corrisposta un'indennita' annua, sul bilancio dell'Ente, nella misura che sara' fissata con decreto del Ministro per la marina mercantile, di concerto con quello per il tesoro.
@@ -83,7 +83,7 @@ Egli coadiuva il presidente e lo sostituisca esercitandone le funzioni in caso d
 Il presidente rappresenta legalmente l'Ente, sovrintende a tutti i servizi, convoca e presiede il Consiglio di amministrazione ed il Comitato direttivo, provvede alla esecuzione delle deliberazioni prese dagli organi collegiali e dispone su tutti gli affari relativi all'amministrazione dell'Ente che non siano attribuiti alla competenza degli altri organi.
  Il presidente rende esecutivi i ruoli annuali delle entrate a scadenza fissa, i preventivi dei redditi delle gestioni in economia, nonche' le note dei canoni relativi a concessioni, ad affitti e ad altri atti. Provvede a tutti gli atti cautelativi nell'interesse dell'Ente.
  Il presidente, per l'attuazione dei servizi di competenza dell'Ente, puo' emettere ordinanze e puo' richiedere, ove occorra, l'assistenza della forza pubblica per l'esecuzione e la vendita, nelle forme legali, di merci o di cose giacenti sulle calate o nei magazzini di porto, che non siano in consegna all'Amministrazione doganale e ferroviaria.
- Per le infrazioni alle ordinanze che il presidente emette a norma del comma precedente si applicano le disposizioni del titolo IV del libro I della parte III del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Per le infrazioni alle ordinanze che il presidente emette a norma del comma precedente si applicano le disposizioni del titolo IV del libro I della parte III del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 8. — (Consiglio di amministrazione)
 
@@ -128,7 +128,7 @@ Il Consiglio di amministrazione:
  6) delibera il regolamento organico del personale di cui al successivo art. 25;
  7) delibera inoltre:
  a) sulle norme e sulle tariffe relative ai servizi che rientrano nella competenza dell'ente;
- b) sulle concessioni demaniali marittime nei limiti di competenza del direttore marittimo, stabiliti nel [secondo comma dell'art. 36 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ b) sulle concessioni demaniali marittime nei limiti di competenza del direttore marittimo, stabiliti nel [secondo comma dell'art. 36 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  c) sul rilascio di concessioni per l'esercizio di servizi portuali di competenza dell'Ente fissandone la regolamentazione e le relative tariffe;
  d) sull'accettazione di eredita', legati e donazioni;
  e) sui progetti di massima per opere nuove di particolare importanza da sottoporre al Ministero dei lavori pubblici, sui progetti esecutivi di tutti i lavori e sulle modalita' e sull'ordine della loro esecuzione, quando la relativa spesa superi i limiti della competenza attribuita in materia al Comitato direttivo dallo art. 11, n. 9;
@@ -154,7 +154,7 @@ Il Comitato direttivo e' cosi' composto:
 Il Comitato direttivo:
  1) assiste il presidente nell'adempimento dei suoi compiti e secondo le norme stabilite dal regolamento prende, in casi di necessita' ed urgenza, le decisioni di competenza del Consiglio di amministrazione, salvo ratifica;
  2) predispone i bilanci preventivi ed i rendiconti consuntivi da sottoporre al Consiglio di amministrazione e propone eventuali variazioni al bilancio preventivo durante il corso dell'esercizio finanziario;
- 3) delibera in materia di concessioni demaniali entro i limiti della competenza del capo del Compartimento marittimo, stabiliti nel [secondo comma dello art. 36 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ 3) delibera in materia di concessioni demaniali entro i limiti della competenza del capo del Compartimento marittimo, stabiliti nel [secondo comma dello art. 36 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  4) delibera, nei limiti del bilancio, sulle spese di importo fino a lire 5 milioni;
  5) delibera sugli incarichi tecnici da affidare a persone fisiche e giuridiche estranee all'Ente;
  6) delibera i provvedimenti disciplinari a carico del personale e gli eventuali compensi o sussidi speciali, a norma del regolamento del personale;
@@ -203,7 +203,7 @@ L'esercizio finanziario dell'Ente ha inizio il 1 gennaio e termina il 31 dicembr
 ## Art. 16. — (Norme amministrative e contabili)
 
 Nell'esercizio delle sue attivita' l'Ente deve osservare:
- a) le disposizioni del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del relativo regolamento, nonche' di tutte le altre leggi vigenti in materia;
+ a) le disposizioni del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del relativo regolamento, nonche' di tutte le altre leggi vigenti in materia;
  b) le disposizioni vigenti in materia di lavori pubblici per la compilazione dei progetti, la direzione ed il collaudo delle opere e degli impianti;
  c) le disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato per la gestione amministrativa e finanziaria con le modalita' che verranno stabilite dal regolamento di cui all'articolo 27.
  I contratti stipulati dall'Ente non possono avere durata, ne' creare oneri od impegni, oltre il termine dell'Ente stesso, salva l'autorizzazione dei Ministeri della marina mercantile, del tesoro e delle finanze.
@@ -238,7 +238,7 @@ Alla direzione dei servizi di cui ai numeri 4 e 5 dello art. 3 della presente le
 
 ### Art. 22. — (Classificazione del porto)
 
-Il porto di Trieste e' classificato nella prima classe della seconda categoria dei porti marittimi nazionali a norma del [regio decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095), modificato con [decreto del Presidente della Repubblica 30 giugno 1955, n. 1534](Decentramento%20dei%20servizi%20del%20Ministero%20dei%20lavori%20pubblici.md).
+Il porto di Trieste e' classificato nella prima classe della seconda categoria dei porti marittimi nazionali a norma del [regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), modificato con [decreto del Presidente della Repubblica 30 giugno 1955, n. 1534](Decentramento%20dei%20servizi%20del%20Ministero%20dei%20lavori%20pubblici.md).
  Al riparto delle spese di qualunque natura occorrenti al porto stesso e' provveduto con separato provvedimento a norma del regio decreto di cui al primo comma.
 
 ### Art. 23. — (Nomina del primo Consiglio di amministrazione)
@@ -259,7 +259,7 @@ Con apposito regolamento, da sottoporre all'approvazione del Ministero della mar
 
 ### Art. 26. — (Aree, beni ed opere demaniali)
 
-Le aree, i beni e le opere appartenenti al demanio marittimo, nonche' le attrezzature e tutti gli altri beni di proprieta' dello Stato esistenti nell'ambito della giurisdizione dell'Ente, fatta eccezione per quelli occorrenti ai servizi di spettanza dello Stato, saranno consegnati all'Ente con le modalita' di cui all'art. 36 del regolamento per la esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima).
+Le aree, i beni e le opere appartenenti al demanio marittimo, nonche' le attrezzature e tutti gli altri beni di proprieta' dello Stato esistenti nell'ambito della giurisdizione dell'Ente, fatta eccezione per quelli occorrenti ai servizi di spettanza dello Stato, saranno consegnati all'Ente con le modalita' di cui all'art. 36 del regolamento per la esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima).
  Qualora per le esigenze dei suddetti servizi di spettanza dello Stato si renda necessario disporre di beni consegnati all'Ente, esso dovra' riconsegnarli al Ministero della marina mercantile su richiesta dello stesso.
  I contratti stipulati dall'Ente non possono avere durata ne' creare oneri od impegni oltre il termine stabilito per la durata dell'Ente, salva espressa autorizzazione del Ministero della marina mercantile.
  All'atto della cessazione dell'Ente, tutte le opere ed i beni ricevuti in consegna e tutti gli incrementi relativi, nonche' i residui dei fondi, compreso il fondo avanzi di gestione, saranno devoluti allo Stato.

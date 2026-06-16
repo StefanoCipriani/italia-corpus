@@ -14,7 +14,7 @@ DEL CONSIGLIO DEI MINISTRI
 
 Vista la [legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), recante "Istituzione del Consiglio supremo di difesa" ed, in particolare, gli articoli 5 e 6;
 
-Visto il [decreto del Presidente della Repubblica 4 agosto 1990, n. 251](../DPR/Regolamento%20di%20attuazione%20della%20legge%2028%20luglio%201950%20n.%20624%20istitutiva%20del%20Consiglio%20supremo%20di%20difesa.md), recante "Regolamento di attuazione della [legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), istitutiva del Consiglio supremo di difesa" ed, in particolare, gli articoli 6, 9, 14 e 15;
+Visto il [decreto del Presidente della Repubblica 4 agosto 1990, n. 251](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%2028%20luglio%201950%20n.%20624%20istitutiva%20del%20Consiglio%20supremo%20di%20difesa.md), recante "Regolamento di attuazione della [legge 28 luglio 1950, n. 624](Istituzione%20del%20Consiglio%20supremo%20di%20difesa.md), istitutiva del Consiglio supremo di difesa" ed, in particolare, gli articoli 6, 9, 14 e 15;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri";
 
@@ -34,7 +34,7 @@ L'Ufficio di segreteria del Consiglio supremo di difesa, di seguito denominato U
 
 2.
 
-All'Ufficio e' preposto un direttore nominato ai sensi dell'[art. 14, comma 3, del decreto del Presidente della Repubblica 4 agosto 1990, n. 251](../DPR/Regolamento%20di%20attuazione%20della%20legge%2028%20luglio%201950%20n.%20624%20istitutiva%20del%20Consiglio%20supremo%20di%20difesa.md), tra il personale militare e civile dello Stato, con grado di generale di brigata o equivalente ovvero con qualifica di dirigente superiore. Il direttore dirige, provvede al coordinamento e alla programmazione delle attivita' dell'Ufficio, secondo le indicazioni del segretario del Consiglio, ne controlla l'andamento e sovraintende alla tutela della sicurezza degli atti e della documentazione.
+All'Ufficio e' preposto un direttore nominato ai sensi dell'[art. 14, comma 3, del decreto del Presidente della Repubblica 4 agosto 1990, n. 251](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%2028%20luglio%201950%20n.%20624%20istitutiva%20del%20Consiglio%20supremo%20di%20difesa.md), tra il personale militare e civile dello Stato, con grado di generale di brigata o equivalente ovvero con qualifica di dirigente superiore. Il direttore dirige, provvede al coordinamento e alla programmazione delle attivita' dell'Ufficio, secondo le indicazioni del segretario del Consiglio, ne controlla l'andamento e sovraintende alla tutela della sicurezza degli atti e della documentazione.
 
 3.
 
@@ -42,7 +42,7 @@ L'Ufficio provvede ai seguenti adempimenti:
                         a)
                             assistenza al segretario per la preparazione delle riunioni del Consiglio supremo di difesa, di seguito denominato Consiglio, nonche' per l'esecuzione delle determinazioni del Consiglio stesso;
                         b)
-                            supporto conoscitivo e organizzativo al segretario per le attivita' del Consiglio e dei comitati costituiti ai sensi dell'[art. 9, commi 1](../DPR/Regolamento%20di%20attuazione%20della%20legge%2028%20luglio%201950%20n.%20624%20istitutiva%20del%20Consiglio%20supremo%20di%20difesa.md) e [3, del decreto del Presidente della Repubblica 4 agosto 1990, n. 251](../DPR/Regolamento%20di%20attuazione%20della%20legge%2028%20luglio%201950%20n.%20624%20istitutiva%20del%20Consiglio%20supremo%20di%20difesa.md);
+                            supporto conoscitivo e organizzativo al segretario per le attivita' del Consiglio e dei comitati costituiti ai sensi dell'[art. 9, commi 1](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%2028%20luglio%201950%20n.%20624%20istitutiva%20del%20Consiglio%20supremo%20di%20difesa.md) e [3, del decreto del Presidente della Repubblica 4 agosto 1990, n. 251](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%2028%20luglio%201950%20n.%20624%20istitutiva%20del%20Consiglio%20supremo%20di%20difesa.md);
                         c)
                             supporto alle commissioni operanti ai sensi dell'art. 9, comma 2, del citato decreto n. 251 del 1990, ai fini dell'informazione nonche' dell'elaborazione di ricerche, documentazione e studi, anche giuridico-normativi, nelle singole questioni attribuite alle commissioni stesse;
                         d)
@@ -55,7 +55,7 @@ L'Ufficio provvede ai seguenti adempimenti:
                             attivita' strumentali al funzionamento dell'Ufficio ed inerenti, in particolare, la gestione amministrativo-contabile, l'archivio, il personale e l'organizzazione.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950;624#art_5) e [6 della legge n. 624/1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950;624#art_6) e' il seguente:
  "Art. 5. - Il segretario del Consiglio supremo di difesa raccoglie ed elabora, secondo le direttive del Consiglio, tutti gli elementi relativi alle questioni da sottoporre al Consiglio stesso, coordina le relative deliberazioni e ne predispone l'attuazione da parte degli organi competenti.

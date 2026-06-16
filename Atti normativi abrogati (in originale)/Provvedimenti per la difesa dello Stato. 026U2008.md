@@ -16,7 +16,7 @@ Chiunque commette un fatto diretto contro la vita, l'integrita' o la liberta' pe
 
 ## Art. 2.
 
-Sono egualmente puniti con la morte i delitti preveduti dagli [articoli 104](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [107](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [108](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [120](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [252 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Sono egualmente puniti con la morte i delitti preveduti dagli [articoli 104](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [107](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [108](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [120](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [252 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 
@@ -46,7 +46,7 @@ Il cittadino che, fuori del territorio dello Stato, diffonde o comunica, sotto q
 
 ## Art. 6.
 
-Per i delitti preveduti nella presente legge, quando il fatto sia di lieve entita', ovvero concorrano circostanze che, a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), importino una diminuzione di pena, il giudice ha facolta' di sostituire alla pena di morte la reclusione da quindici a trenta anni, alla interdizione perpetua dai pubblici uffici la interdizione temporanea, e di diminuire le altre pene fino alla meta'. 
+Per i delitti preveduti nella presente legge, quando il fatto sia di lieve entita', ovvero concorrano circostanze che, a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), importino una diminuzione di pena, il giudice ha facolta' di sostituire alla pena di morte la reclusione da quindici a trenta anni, alla interdizione perpetua dai pubblici uffici la interdizione temporanea, e di diminuire le altre pene fino alla meta'. 
  
  Per gli stessi delitti, tutti coloro che, in qualsiasi modo, siano concorsi a commetterli, sono puniti con le pene stabilite dalla presente legge.
 
@@ -56,9 +56,9 @@ La competenza per i delitti preveduti dalla presente legge e' devoluta a un trib
  
  La costituzione di tale tribunale e' ordinata dal Ministro per la guerra, che ne determina la composizione, la sede e il comando presso cui e' stabilito. 
  
- Quando concorrano le condizioni previste dall'[art. 559 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, possono altresi' costituirsi tribunali straordinari. 
+ Quando concorrano le condizioni previste dall'[art. 559 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, possono altresi' costituirsi tribunali straordinari. 
  
- Nei procedimenti pei delitti preveduti dalla presente legge si applicano le norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito sulla procedura penale in tempo di guerra. Tutte le facolta' spettanti, ai termini del detto Codice, al comandante in capo, sono conferite al Ministro per la guerra. 
+ Nei procedimenti pei delitti preveduti dalla presente legge si applicano le norme del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito sulla procedura penale in tempo di guerra. Tutte le facolta' spettanti, ai termini del detto Codice, al comandante in capo, sono conferite al Ministro per la guerra. 
  
  Le sentenze del tribunale speciale non sono suscettibili di ricorso, ne' di alcun altro mezzo di impugnativa, salva la revisione. 
  
@@ -70,7 +70,7 @@ Nulla e' innovato circa le facolta' conferite al Governo con la [legge 24 dicemb
  
  La presente legge entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, e cessa di aver vigore dopo cinque anni da tale data, salva l'esecuzione di condanne gia' pronunciate. 
  
- Entro lo stesso periodo di tempo, il Governo del Re ha facolta' di emanare le norme per l'attuazione della presente legge, e per il suo coordinamento col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), col [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e con le altre leggi. 
+ Entro lo stesso periodo di tempo, il Governo del Re ha facolta' di emanare le norme per l'attuazione della presente legge, e per il suo coordinamento col [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), col [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), col [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e con le altre leggi. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

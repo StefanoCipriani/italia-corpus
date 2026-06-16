@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 30 agosto 1914, n. 945](Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), concernente la costituzione delle forze navali dello Stato; ed i RR. decreti 17 gennaio 1915, n. 58, e 1° aprile 1915, n. 452, che vi apportarono modificazioni ed aggiunte; 
+ Visto il [R. decreto 30 agosto 1914, n. 945](../Regi%20decreti/Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), concernente la costituzione delle forze navali dello Stato; ed i RR. decreti 17 gennaio 1915, n. 58, e 1° aprile 1915, n. 452, che vi apportarono modificazioni ed aggiunte; 
  
  Udito il Consiglio superiore di marina; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Le divisioni navali previste dalla costituzione delle forze navali dello Stato stabilita dal [R. decreto 30 agosto 1914, n. 945](Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), possono essere rinforzate da altro gruppo di navi, al comando di un contrammiraglio, costituenti o meno una divisione. 
+ Le divisioni navali previste dalla costituzione delle forze navali dello Stato stabilita dal [R. decreto 30 agosto 1914, n. 945](../Regi%20decreti/Concernente%20la%20costituzione%20delle%20forze%20navali%20dello%20Stato.%20014U0945.md), possono essere rinforzate da altro gruppo di navi, al comando di un contrammiraglio, costituenti o meno una divisione. 
  
  Il Comando di una divisione navale rinforzata puo' essere autonomo o dipendente da altro superiore Comando navale, ed e' normalmente devoluto all'ufficiale ammiraglio piu' anziano della divisione stessa o di grado piu' elevato potendo uno dei due essere un vice ammiraglio. 
  

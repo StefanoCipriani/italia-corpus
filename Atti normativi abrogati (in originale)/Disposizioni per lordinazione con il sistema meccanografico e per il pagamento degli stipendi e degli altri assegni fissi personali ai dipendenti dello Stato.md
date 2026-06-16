@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), contenente disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), contenente disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, e le successive variazioni;
 
@@ -58,9 +58,9 @@ I Centri meccanografici provvedono a perforare le corrispondenti schede matrici,
 ## Art. 6.
 
 Alle scadenze stabilite i Centri meccanografici emettono gli ordini di pagamento a favore dei creditori.
- Gli ordini possono essere individuali o collettivi; gli ordini collettivi sono consentiti quando la riscossione avvenga per mezzo di delegati ai sensi dell'art. 383 del regolamento di contabilita' generale dello Stato, modificato dall'[art. 2 del decreto del Capo provvisorio dello Stato 5 novembre 1946, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-05;541#art_2), e dal [decreto Presidenziale 27 febbraio 1955, n. 250](../DPR/Modificazione%20dellart.%20383%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto%2023%20maggio%201924%20n.%20827.md).
+ Gli ordini possono essere individuali o collettivi; gli ordini collettivi sono consentiti quando la riscossione avvenga per mezzo di delegati ai sensi dell'art. 383 del regolamento di contabilita' generale dello Stato, modificato dall'[art. 2 del decreto del Capo provvisorio dello Stato 5 novembre 1946, n. 541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-05;541#art_2), e dal [decreto Presidenziale 27 febbraio 1955, n. 250](../Regolamenti%20governativi/Modificazione%20dellart.%20383%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto%2023%20maggio%201924%20n.%20827.md).
  Gli ordini predetti non possono essere pagati che alle persone delegate, indicate sui medesimi.
- E' in facolta' degli assegnatari di chiedere che il pagamento a scadenza degli assegni sia effettuato mediante vaglia della Banca d'Italia o mediante versamento in conto corrente postale a loro favore, con le modalita' previste dal [regio decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677).
+ E' in facolta' degli assegnatari di chiedere che il pagamento a scadenza degli assegni sia effettuato mediante vaglia della Banca d'Italia o mediante versamento in conto corrente postale a loro favore, con le modalita' previste dal [regio decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md).
 
 ## Art. 7.
 

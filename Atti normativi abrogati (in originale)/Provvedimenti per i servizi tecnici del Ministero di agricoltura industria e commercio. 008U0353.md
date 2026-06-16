@@ -31,7 +31,7 @@ E' soppresso, nell'attuale ruolo del personale dell'Ispettorato del bonificament
 
 E' data facolta' al Governo del Re di provvedere, con decreto Reale, alla unificazione dei ruoli organici delle carriere tecniche del Ministero di agricoltura, industria e commercio, compresi i posti e gli Ispettorati creati dalla presente legge e di determinare le condizioni di carriera nel ruolo unico in relazione ai bisogni dei vari servizi tecnici. 
  
- Gli ispettori dell'industria e dell'insegnamento professionale, secondo la tabella stabilita con [R. decreto 19 marzo 1908, n. 185](Che%20approva%20il%20ruolo%20organico%20degli%20ispettori%20delle%20industrie%20e%20dellinsegnamento%20professionale.%20008U0185.md), formano un ruolo unico, assumendo il titolo e le funzioni d'ispettori dell'insegnamento industriale e commerciale. 
+ Gli ispettori dell'industria e dell'insegnamento professionale, secondo la tabella stabilita con [R. decreto 19 marzo 1908, n. 185](../Regi%20decreti/Che%20approva%20il%20ruolo%20organico%20degli%20ispettori%20delle%20industrie%20e%20dellinsegnamento%20professionale.%20008U0185.md), formano un ruolo unico, assumendo il titolo e le funzioni d'ispettori dell'insegnamento industriale e commerciale. 
  
  Uno degli ispettori di prima nomina ha residenza in uno dei capoluoghi delle tre provincie di Calabria. 
  

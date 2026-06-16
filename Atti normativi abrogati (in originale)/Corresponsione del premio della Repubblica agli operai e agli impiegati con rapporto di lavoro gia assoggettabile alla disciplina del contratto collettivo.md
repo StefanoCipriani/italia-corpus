@@ -110,14 +110,14 @@ Le sedi provinciali del Servizio per gli elenchi nominativi dei lavoratori e per
 
 ### Art. 16.
 
-Nei confronti dei datori di lavoro che non versano il contributo nel termine stabilito dal precedente articolo la riscossione delle somma dovute, gravate dalla multa di mora del 6% sara' effettuata a mezzo ruoli dagli esattori delle imposte dirette con la procedura privilegiata stabilita per la esazione delle imposte medesime, con l'obbligo del non riscosso per riscosso e con le modalita' e norme previste dal [regio decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), e dai [regi decreti 24 settembre 1940 nn. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949) e [1954](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1954).
+Nei confronti dei datori di lavoro che non versano il contributo nel termine stabilito dal precedente articolo la riscossione delle somma dovute, gravate dalla multa di mora del 6% sara' effettuata a mezzo ruoli dagli esattori delle imposte dirette con la procedura privilegiata stabilita per la esazione delle imposte medesime, con l'obbligo del non riscosso per riscosso e con le modalita' e norme previste dal [regio decreto-legge 28 novembre 1938, n. 2138](Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), e dai [regi decreti 24 settembre 1940 nn. 1949](../Regi%20decreti/Modalita%20di%20accertamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20linvalidita%20e%20vecchiaia%20pe_36ac4a1909bf.md) e [1954](../Regi%20decreti/Modalita%20per%20la%20riscossione%20e%20il%20versamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20invalid_3338d692b5c9.md).
  Le somme iscritte a ruolo saranno riscosse in tre rate bimestrali uguali.
 
 ### Art. 17.
 
 Contro l'accertamento del contributo di cui all'articolo 15 e' dato ricorso al Prefetto nel termine di giorni 30 da quello di notifica della richiesta di pagamento.
  Il ricorso non sospende l'obbligo del versamento deve somme richieste.
- Il Prefetto decide in via definitiva, sentita la Commissione di cui all' [art. 5 del regio decreto 24 settembre 1940, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949#art_5) e successive modifiche.
+ Il Prefetto decide in via definitiva, sentita la Commissione di cui all' [art. 5 del regio decreto 24 settembre 1940, n. 1949](../Regi%20decreti/Modalita%20di%20accertamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20linvalidita%20e%20vecchiaia%20pe_36ac4a1909bf.md) e successive modifiche.
 
 ### Art. 18.
 
@@ -145,7 +145,7 @@ Il premio della Repubblica compete anche al lavoratori che alla data del 26 lugl
  b) possedessero i requisiti stabiliti dall' [art. 2 del regio decreto-legge 20 maggio 1946, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1946-05-20;373#art_2), per la concessione del sussidio straordinario di disoccupazione, anche se si trovassero ricoverati in case di cura.
  Sono esclusi dal beneficio del premio della Repubblica i lavoratori disoccupati di cui alla lettera b):
  1) che non risultino iscritti all' Ufficio di collocamento alla data del 26 luglio 1946;
- 2) che siano iscritti negli elenchi nominativi dei lavoratori agricoli di cui all'[art. 12 del regio decreto 24 settembre 1940, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949#art_12).
+ 2) che siano iscritti negli elenchi nominativi dei lavoratori agricoli di cui all'[art. 12 del regio decreto 24 settembre 1940, n. 1949](../Regi%20decreti/Modalita%20di%20accertamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20linvalidita%20e%20vecchiaia%20pe_36ac4a1909bf.md).
 
 ### Art. 22.
 
@@ -159,8 +159,8 @@ Alla corresponsione del premio della Repubblica alle persone di cui agli articol
 
 ### Art. 24.
 
-Il premio della Repubblica e' dovuto ai grandi invalidi del lavoro riconosciuti tali dal [comma 2° dell'art. 61 del regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_61-com2), e sara' erogato nella misura di L. 3000, a quelli che si trovano nelle condizioni di famiglia in previste e dal citato decreto per la assegnazione delle quote integrative e in L. 1500 agli altri che non si trovano nelle suddette condizioni.
- Il premio stesso inoltre e' dovuto nella misura di L. 3000 o di L. 1500 ad ogni nucleo familiare rispettivamente di tre o piu' superstiti, o di uno o due superstiti di infortunato sul lavoro, titolari di rendita ai sensi del [regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), purche' i figli abbiano eta' inferiore agli anni 15 o siano inabili ai lavoro e il coniuge o gli altri superstiti abbiano raggiunto n. 65° anno di eta' o siano inabili al lavoro.
+Il premio della Repubblica e' dovuto ai grandi invalidi del lavoro riconosciuti tali dal [comma 2° dell'art. 61 del regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), e sara' erogato nella misura di L. 3000, a quelli che si trovano nelle condizioni di famiglia in previste e dal citato decreto per la assegnazione delle quote integrative e in L. 1500 agli altri che non si trovano nelle suddette condizioni.
+ Il premio stesso inoltre e' dovuto nella misura di L. 3000 o di L. 1500 ad ogni nucleo familiare rispettivamente di tre o piu' superstiti, o di uno o due superstiti di infortunato sul lavoro, titolari di rendita ai sensi del [regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), purche' i figli abbiano eta' inferiore agli anni 15 o siano inabili ai lavoro e il coniuge o gli altri superstiti abbiano raggiunto n. 65° anno di eta' o siano inabili al lavoro.
  Il premio dovuto ai sensi dei comma precedenti spetta per gli infortuni avventi entro il 26 luglio 1946 ed e' corrisposto dall' Istituto nazionale infortuni a proprio carico.
 
 ### Art. 25.

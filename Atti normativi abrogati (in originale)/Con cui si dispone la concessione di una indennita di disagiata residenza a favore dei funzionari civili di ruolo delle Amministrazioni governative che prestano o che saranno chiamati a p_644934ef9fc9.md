@@ -22,15 +22,15 @@ Sulla proposta del presidente del Consiglio, di concerto con il ministro per il 
 
 ## Art. 1.
 
-Ai funzionari civili di ruolo delle Amministrazioni governative che prestano o che saranno chiamati a prestare servizio e residenti nei Comuni danneggiati dal terremoto del 13 gennaio 1915, compresi nell'elenco approvato con [R. decreto n. 72 del 7 febbraio 1915](Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20tutte%20le%20disposizioni%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027.%20015U0072.md) verra' corrisposta una speciale indennita' di disagiata residenza nella misura appresso indicata: 
+Ai funzionari civili di ruolo delle Amministrazioni governative che prestano o che saranno chiamati a prestare servizio e residenti nei Comuni danneggiati dal terremoto del 13 gennaio 1915, compresi nell'elenco approvato con [R. decreto n. 72 del 7 febbraio 1915](../Regi%20decreti/Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20tutte%20le%20disposizioni%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027.%20015U0072.md) verra' corrisposta una speciale indennita' di disagiata residenza nella misura appresso indicata: 
  
- fino al 30 aprile 1915, l'intera indennita' di missione stabilita dal [R. decreto 14 settembre 1862, numero 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md); 
+ fino al 30 aprile 1915, l'intera indennita' di missione stabilita dal [R. decreto 14 settembre 1862, numero 840](../Regi%20decreti/Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md); 
  
  dal 1° maggio al 31 dicembre 1915 la meta' della indennita' di cui al citato R. decreto.
 
 ## Art. 2.
 
-Ai funzionari predetti residenti nei Comuni danneggiati compresi nell'elenco approvato con [R. decreto 7 febbraio 1915, n. 71](Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20alcune%20disposizioni%20dei%20RR.%20Decreti%2021%20gennaio%201915%20n.27%20e%205%20febbraio%201915%20n.%2062.%20015U0071.md), sara' corrisposta un'indennita' in ragione, rispettivamente, della meta' di quelle stabilite nell'articolo precedente.
+Ai funzionari predetti residenti nei Comuni danneggiati compresi nell'elenco approvato con [R. decreto 7 febbraio 1915, n. 71](../Regi%20decreti/Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20alcune%20disposizioni%20dei%20RR.%20Decreti%2021%20gennaio%201915%20n.27%20e%205%20febbraio%201915%20n.%2062.%20015U0071.md), sara' corrisposta un'indennita' in ragione, rispettivamente, della meta' di quelle stabilite nell'articolo precedente.
 
 ## Art. 3.
 

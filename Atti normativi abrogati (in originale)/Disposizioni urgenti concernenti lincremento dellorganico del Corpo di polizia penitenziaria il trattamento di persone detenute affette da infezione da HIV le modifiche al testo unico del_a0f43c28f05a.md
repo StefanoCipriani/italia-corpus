@@ -69,7 +69,7 @@ Il decreto di cui al [comma 1 dell'articolo 286- bis del codice di procedura pen
 
 1.
 
-Nel [primo comma dell'articolo 146 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il seguente numero: 
+Nel [primo comma dell'articolo 146 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il seguente numero: 
  "3) se deve aver luogo nei confronti di persona affetta da infezione da HIV nei casi di incompatibilita' con lo stato di detenzione stabiliti con decreto emanato dai Ministri della sanita' e di grazia e giustizia.".
 
 ## Art. 5.
@@ -86,7 +86,7 @@ Per la attivazione di posti letto negli ospedali di cui al comma 1 si provvede c
 
 1.
 
-L'articolo 89 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
+L'articolo 89 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  "Art. 89 (Provvedimenti restrittivi nei confronti dei tossicodipendenti o alcooldipendenti che abbiano in corso programmi terapeutici). - 1. Non puo' essere disposta la custodia cautelare in carcere, salvo che sussistano esigenze cautelari di eccezionale rilevanza, quando imputata e' una persona tossicodipendente o alcooldipendente che abbia in corso un programma terapeutico di recupero presso i servizi pubblici per l'assistenza ai tossicodipendenti ovvero nell'ambito di una struttura autorizzata, e l'interruzione del programma puo' pregiudicare la disintossicazione dell'imputato. Con lo stesso provvedimento, o con altro successivo, il giudice stabilisce i controlli necessari per accertare che il tossicodipendente o l'alcooldipendente prosegua il programma di recupero. 
  2. Se una persona tossicodipendente o alcooldipendente, che e' in costudia cautelare in carcere, intende sottoporsi ad un programma di recupero presso i servizi pubblici per l'assistenza ai tossicodipendenti ovvero una struttura autorizzata residenziale, la misura cautelare e' revocata sempre che non ricorrano esigenze cautelari di eccezionale rilevanza. La revoca e' concessa su istanza dell'interessato; all'istanza e' allegata certificazione, rilasciata da un servizio pubblico per le tossicodipendenze, attestante lo stato di tossicodipendenza o di alcooldipendenza, nonche' la dichiarazione di disponibilita' all'accoglimento rilasciata dalla struttura. 
  3. Il giudice dispone la custodia cautelare in carcere o ne dispone il ripristino quando accerta che la persona ha interrotto l'esecuzione del programma ovvero mantiene un comportamento incompatibile con la corretta esecuzione o quando accerta che la persona non ha collaborato alla definizione del programma o ne ha rifiutato l'esecuzione. 
@@ -98,14 +98,14 @@ L'articolo 89 del testo unico delle leggi in materia di disciplina degli stupefa
 
 1.
 
-Il comma 1 dell'articolo 90 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
+Il comma 1 dell'articolo 90 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e' sostituito dal seguente: 
  "1. Nei confronti di persona condannata ad una pena detentiva non superiore a quattro anni, anche se congiunta a pena pecuniaria, per reati commessi in relazione al proprio stato di tossicodipendente ovvero che per la medesima causa debba ancora scontare una pena della durata di quattro anni, il tribunale di sorveglianza puo' sospendere l'esecuzione della pena per cinque anni qualora accerti che la persona si e' sottoposta o ha in corso un programma terapeutico e socio-riabilitativo. La stessa disposizione si applica per i reati previsti dall'articolo 73, comma 5, quando le pene detentive comminate, anche se congiunte a pena pecuniaria o ancora da scontare, non superano i quattro anni.".
 
 ## Art. 8.
 
 1.
 
-Nell'articolo 94, comma 1, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), le parole: "se la pena detentiva, inflitta nel limite di tre anni" sono sostituite dalle seguenti: "se la pena detentiva, inflitta nel limite di quattro anni o ancora da scontare nella stessa misura".
+Nell'articolo 94, comma 1, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), le parole: "se la pena detentiva, inflitta nel limite di tre anni" sono sostituite dalle seguenti: "se la pena detentiva, inflitta nel limite di quattro anni o ancora da scontare nella stessa misura".
 
 ## Art. 9.
 

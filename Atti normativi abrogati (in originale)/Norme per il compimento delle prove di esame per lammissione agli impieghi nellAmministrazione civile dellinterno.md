@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e successive modificazioni;
 
-Visto il regolamento approvato con [regio decreto 4 aprile 1938, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-04;417);
+Visto il regolamento approvato con [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20per%20il%20personale%20dellAmministrazione%20civile%20dellinterno.%20038U0417.md);
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -24,7 +24,7 @@ Sulla proposta dell Presidente del Consiglio dei Ministri, Ministro per l'intern
 
 ## Art. 1.
 
-Per i concorsi agli impieghi nell'Amministrazione civile dell'interno gia' banditi e non ancora compiuti e per quelli che saranno banditi entro il 31 dicembre 1947, qualora il numero dei concorrenti sia rilevante, le Commissioni esaminatrici di cui all'art. 11 del regolamento approvato con [regio decreto 4 aprile 1938, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-04;417), potranno essere ampliate fino a raggiungere il numero di non oltre nove membri, con la nomina di altre persone aventi qualifiche comprese tra quelle previste per la normale composizione delle Commissioni medesime.
+Per i concorsi agli impieghi nell'Amministrazione civile dell'interno gia' banditi e non ancora compiuti e per quelli che saranno banditi entro il 31 dicembre 1947, qualora il numero dei concorrenti sia rilevante, le Commissioni esaminatrici di cui all'art. 11 del regolamento approvato con [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20per%20il%20personale%20dellAmministrazione%20civile%20dellinterno.%20038U0417.md), potranno essere ampliate fino a raggiungere il numero di non oltre nove membri, con la nomina di altre persone aventi qualifiche comprese tra quelle previste per la normale composizione delle Commissioni medesime.
  Ciascuna Commissione, ampliata nel modo indicato nel precedente comma, dovra' essere composta in modo che i membri aventi una stessa qualifica o uno stesso gruppo di qualifiche non siano piu' del doppio di quelli anteriormente previsti.
 
 ## Art. 2.

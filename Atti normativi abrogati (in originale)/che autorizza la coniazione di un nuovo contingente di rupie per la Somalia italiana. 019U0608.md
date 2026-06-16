@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La R. zecca e' autorizzata a coniare per la colonia della Somalia italiana numero quattrocentomila monete da una rupia e numero duecentomila da mezza rupia con le caratteristiche, le dimensioni, il peso e il titolo stabiliti con [R. decreto 8 dicembre 1910, n. 847](Che%20approva%20la%20istituzione%20di%20nuove%20monete%20dargento%20per%20la%20colonia%20della%20Somalia%20italiana.%20010U0847.md).
+La R. zecca e' autorizzata a coniare per la colonia della Somalia italiana numero quattrocentomila monete da una rupia e numero duecentomila da mezza rupia con le caratteristiche, le dimensioni, il peso e il titolo stabiliti con [R. decreto 8 dicembre 1910, n. 847](../Regi%20decreti/Che%20approva%20la%20istituzione%20di%20nuove%20monete%20dargento%20per%20la%20colonia%20della%20Somalia%20italiana.%20010U0847.md).
 
 ## Art. 2.
 

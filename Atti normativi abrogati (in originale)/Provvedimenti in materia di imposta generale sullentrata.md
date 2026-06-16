@@ -55,7 +55,7 @@ Per gli atti economici relativi al commercio dei prodotti tessili elencati nella
 ## Art. 7.
 
 Non costituisce entrata imponibile la vendita dei prodotti tessili (filati) elencati nella tabella allegato B alla presente legge effettuata fino al 31 dicembre 1949 al fabbricante di tessuti che li impiega direttamente nella propria industria.
- Le relative fatture di vendita, il cui rilascio e' in ogni caso obbligatorio, sono soggette alla tassa ordinaria di bollo di cui all'art. 52 della tariffa allegato A. al [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni, e debbono contenere la specifica indicazione che trattasi di filati acquistati da fabbricanti di tessuti per il diretto impiego nella propria industria.
+ Le relative fatture di vendita, il cui rilascio e' in ogni caso obbligatorio, sono soggette alla tassa ordinaria di bollo di cui all'art. 52 della tariffa allegato A. al [regio decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni, e debbono contenere la specifica indicazione che trattasi di filati acquistati da fabbricanti di tessuti per il diretto impiego nella propria industria.
  Analoga esenzione si applica per l'importazione dei detti prodotti direttamente acquistati all'estero dal fabbricante di tessuti per uso della propria industria.
 
 ## Art. 8.

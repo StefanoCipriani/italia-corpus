@@ -30,13 +30,13 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Chiunque ometta di fare taluna delle dichiarazioni imposte dal regolamento approvato con. [R. decreto 2 dicembre 1929, n. 2132](Approvazione%20del%20regolamento%20per%20la%20formazione%20e%20la%20tenuta%20dei%20registri%20di%20popolazione%20in%20ciascun%20Comune%20del%20Regno.%20029U2132.md), o che invitato, non si presenti all'Ufficio comunale, o rifiuti di rispondere alle domande che gli vengono fatte per le annotazioni sul registro di popolazione, e' punito con l'ammenda fino a L. 1000. 
+Chiunque ometta di fare taluna delle dichiarazioni imposte dal regolamento approvato con. [R. decreto 2 dicembre 1929, n. 2132](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20formazione%20e%20la%20tenuta%20dei%20registri%20di%20popolazione%20in%20ciascun%20Comune%20del%20Regno.%20029U2132.md), o che invitato, non si presenti all'Ufficio comunale, o rifiuti di rispondere alle domande che gli vengono fatte per le annotazioni sul registro di popolazione, e' punito con l'ammenda fino a L. 1000. 
  
  Per le persone indicate all'art. 23 del regolamento anzidetto, l'ammenda non puo' essere inferiore a L. 300.
 
 ## Art. 2.
 
-Gli [articoli 9 della legge 20 giugno 1871, n. 297](Sul%20Censimento%20generale%20della%20popolazione.%20071U0297.md), (serie 2ª), e 45 del [R. decreto 2 dicembre 1929, n. 2132](Approvazione%20del%20regolamento%20per%20la%20formazione%20e%20la%20tenuta%20dei%20registri%20di%20popolazione%20in%20ciascun%20Comune%20del%20Regno.%20029U2132.md), sono abrogati. 
+Gli [articoli 9 della legge 20 giugno 1871, n. 297](Sul%20Censimento%20generale%20della%20popolazione.%20071U0297.md), (serie 2ª), e 45 del [R. decreto 2 dicembre 1929, n. 2132](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20formazione%20e%20la%20tenuta%20dei%20registri%20di%20popolazione%20in%20ciascun%20Comune%20del%20Regno.%20029U2132.md), sono abrogati. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare con, legge dello Stato. 
  

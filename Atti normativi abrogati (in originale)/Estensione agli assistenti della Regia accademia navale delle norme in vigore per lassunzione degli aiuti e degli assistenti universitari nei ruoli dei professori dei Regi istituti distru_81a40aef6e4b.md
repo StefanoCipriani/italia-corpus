@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 11, 4° comma, del regolamento sull'ordinamento, avanzamento e stato giuridico del personale civile insegnante e di gabinetto della Regia accademia navale, approvato con R. decreto 15 ottobre 1936-XIV, n. 2135;
 
-Visto l'art. 132 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Visto l'art. 132 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Ritenuta la necessita' di regolare l'assunzione degli assistenti di ruolo della Regia accademia navale nei ruoli dei professori delle Regie scuole d'istruzione media;
 

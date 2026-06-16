@@ -169,13 +169,13 @@ Le legioni libiche permanenti di Milizia volontaria per la sicurezza nazionale s
 
 ## Art. 19.
 
-In quanto non contrastino con la presente legge restano ferme le disposizioni del [R. decreto 3 ottobre 1929, n. 1955](Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), e successive modificazioni e quelle del [R. decreto 12 luglio 1934, n. 1389](Istituzione%20delle%20qualifiche%20di%20centurione%20e%20di%201%20capomanipolo%20per%20gli%20ufficiali%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20034U1389.md), sostituendo alla dizione « legioni libiche permanenti » quella «battaglioni camicie nere permanenti». 
+In quanto non contrastino con la presente legge restano ferme le disposizioni del [R. decreto 3 ottobre 1929, n. 1955](../Regi%20decreti/Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), e successive modificazioni e quelle del [R. decreto 12 luglio 1934, n. 1389](../Regi%20decreti/Istituzione%20delle%20qualifiche%20di%20centurione%20e%20di%201%20capomanipolo%20per%20gli%20ufficiali%20delle%20battaglioni%20camicie%20nere%20permanenti%20di%20M.V.S.N.%20034U1389.md), sostituendo alla dizione « legioni libiche permanenti » quella «battaglioni camicie nere permanenti». 
  
- Il [terzo comma dell'art. 8 del R. decreto 3 ottobre 1929, n. 1955](Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), s'intende pero' modificato secondo il disposto dell'art. 8 del testo unico approvato con [R. decreto 28 luglio 1932, n. 1365](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), per quanto riguarda i sottufficiali, i graduati di truppa e le camicie nere di detti battaglioni provenienti dal personale in congedo illimitato della Regia marina.
+ Il [terzo comma dell'art. 8 del R. decreto 3 ottobre 1929, n. 1955](../Regi%20decreti/Ordinamento%20delle%20Legioni%20libiche%20permanenti%20di%20M.V.S.N.%20029U1955.md), s'intende pero' modificato secondo il disposto dell'art. 8 del testo unico approvato con [R. decreto 28 luglio 1932, n. 1365](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), per quanto riguarda i sottufficiali, i graduati di truppa e le camicie nere di detti battaglioni provenienti dal personale in congedo illimitato della Regia marina.
 
 ## Art. 20.
 
-I compiti relativi all'istruzione premilitare devoluti ai Comandi delle Legioni libiche permanenti dal [R. decreto 17 novembre 1932, n. 1840](Estensione%20alle%20Colonie%20della%20legge%2029%20dicembre%201930%20n.%201759%20sulla%20obbligatorieta%20della%20istruzione%20premilitare.%20032U1840.md), sono affidati al Gruppo di legioni di Milizia volontaria per la sicurezza nazionale della Libia.
+I compiti relativi all'istruzione premilitare devoluti ai Comandi delle Legioni libiche permanenti dal [R. decreto 17 novembre 1932, n. 1840](../Regi%20decreti/Estensione%20alle%20Colonie%20della%20legge%2029%20dicembre%201930%20n.%201759%20sulla%20obbligatorieta%20della%20istruzione%20premilitare.%20032U1840.md), sono affidati al Gruppo di legioni di Milizia volontaria per la sicurezza nazionale della Libia.
 
 ## Art. 21.
 

@@ -24,7 +24,7 @@ All'[art. 58 della legge 22 dicembre 1888, n. 5849](Sullordinamento%20dellammini
 
 ## Art. 2.
 
-Il Governo del Re e' incaricato a coordinare e riunire le disposizioni della presente legge col [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) previste dall'[art. 17 della legge 25 febbraio 1904, n. 57](Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20intorno%20allassistenza%20sanitaria%20alla%20vigilanza%20igienica%20e%20alligiene%20degli%20abitanti%20nei%20Comuni%20del%20Regno%20004U0057.md). 
+Il Governo del Re e' incaricato a coordinare e riunire le disposizioni della presente legge col [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) previste dall'[art. 17 della legge 25 febbraio 1904, n. 57](Modificazioni%20ed%20aggiunte%20alle%20disposizioni%20intorno%20allassistenza%20sanitaria%20alla%20vigilanza%20igienica%20e%20alligiene%20degli%20abitanti%20nei%20Comuni%20del%20Regno%20004U0057.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

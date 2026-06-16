@@ -46,7 +46,7 @@ Le relazioni e i verbali delle Commissioni sono inviati al Consiglio superiore, 
 
 ## Art. 4.
 
-Per l'ammissibilita' dei candidati al conseguimento della libera docenza, per la specie e le modalita' delle prove che i candidati debbono sostenere e per le modalita' di concessione dell'abilitazione, si applicano le disposizioni dell'art. 118 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+Per l'ammissibilita' dei candidati al conseguimento della libera docenza, per la specie e le modalita' delle prove che i candidati debbono sostenere e per le modalita' di concessione dell'abilitazione, si applicano le disposizioni dell'art. 118 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
 
 ## Art. 5.
 
@@ -54,7 +54,7 @@ Per la partecipazione alla sessione di esami per l'abilitazione alla libera doce
 
 2500.
 
-Tale tassa tiene luogo del contributo contemplato dall'art. 119 del citato testo unico e dall'art. 56 del regolamento generale universitario approvato con [Regio decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674). 
+Tale tassa tiene luogo del contributo contemplato dall'art. 119 del citato testo unico e dall'art. 56 del regolamento generale universitario approvato con [Regio decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md). 
  
  Rimangono invariate le tasse previste dall'art. 124 del testo unico per il conferimento e per l'esercizio della libera docenza. 
  

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
 Visto il regolamento per il servizio metrico e del saggio delle monete e dei metalli preziosi, approvato con [R. decreto 7 novembre 1890, n. 7249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-11-07;7249) (serie 3ª);
 

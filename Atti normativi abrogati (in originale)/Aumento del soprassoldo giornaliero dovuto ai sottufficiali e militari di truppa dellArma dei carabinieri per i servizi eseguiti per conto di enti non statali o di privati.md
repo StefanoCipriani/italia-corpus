@@ -12,7 +12,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [regio decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che stabilisce le indennita' eventuali dell'Esercito, e successive modificazioni Visto il decreto Ministeriale 14 agosto 1925, riguardante le competenze mantenute in vigore a seguito della revisione disposta con l'[art. 189 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+ Visto il [regio decreto 19 aprile 1907, n. 201](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che stabilisce le indennita' eventuali dell'Esercito, e successive modificazioni Visto il decreto Ministeriale 14 agosto 1925, riguardante le competenze mantenute in vigore a seguito della revisione disposta con l'[art. 189 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
  Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;

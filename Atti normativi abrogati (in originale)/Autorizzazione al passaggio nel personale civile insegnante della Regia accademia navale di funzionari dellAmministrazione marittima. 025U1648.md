@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato e successive modificazioni; 
+ Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), riguardante l'ordinamento gerarchico delle Amministrazioni dello Stato e successive modificazioni; 
  
  Considerato la necessita' di consentire il passaggio nel personale civile insegnante della Regia accademia navale di laureati specializzati nella chimica degli esplosivi; 
  

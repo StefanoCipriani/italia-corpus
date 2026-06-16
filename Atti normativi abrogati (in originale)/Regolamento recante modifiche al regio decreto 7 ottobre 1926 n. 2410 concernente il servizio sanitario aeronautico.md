@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto il [regio decreto-legge 8 ottobre 1925, n. 1879](Ordinamento%20del%20servizio%20sanitario%20aeronautico.%20025U1879.md), convertito dalla [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), concernente l'ordinamento del servizio sanitario aeronautico, ed in particolare l'articolo 14, che prevede l'emanazione di un apposito regolamento sul servizio sanitario aeronautico;
 
-Visto il [regio decreto 7 ottobre 1926, n. 2410](Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), recante approvazione del regolamento sul servizio sanitario aeronautico;
+Visto il [regio decreto 7 ottobre 1926, n. 2410](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), recante approvazione del regolamento sul servizio sanitario aeronautico;
 
 Visto l'[articolo 17, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), e successive modificazioni;
 
@@ -30,15 +30,15 @@ Emana il seguente regolamento:
 
 1.
 
-L'[articolo 71 del regio decreto 7 ottobre 1926, n. 2410](Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), e' sostituito dal seguente:
+L'[articolo 71 del regio decreto 7 ottobre 1926, n. 2410](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), e' sostituito dal seguente:
  "Art. 71 - 1. L'assistenza sanitaria notturna presso gli enti aeronautici aeroportuali e' assicurata da un ufficiale medico sulla base di appositi turni di servizio o di reperibilita'.".
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
  - Il [regio decreto-legge 8 ottobre 1925, n. 1879](Ordinamento%20del%20servizio%20sanitario%20aeronautico.%20025U1879.md), convertito dalla [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' pubblicato nella Gazzetta Ufficiale n. 260 del 9 novembre 1925.
- - Il [regio decreto 7 ottobre 1926, n. 2410](Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), e' pubblicato nella Gazzetta Ufficiale n. 60 del 14 marzo 1927.
+ - Il [regio decreto 7 ottobre 1926, n. 2410](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), e' pubblicato nella Gazzetta Ufficiale n. 60 del 14 marzo 1927.
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 214 del 12 novembre 1988; si riporta il testo dell'art. 17, commi 1 e 4:
  "1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
  a) l'esecuzione delle leggi e dei decreti legislativi, nonche' dei regolamenti comunitari;
@@ -53,7 +53,7 @@ Avvertenza:
 
 1.
 
-L'[articolo 120 del regio decreto 7 ottobre 1926, n. 2410](Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), e' sostituito dal seguente:
+L'[articolo 120 del regio decreto 7 ottobre 1926, n. 2410](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), e' sostituito dal seguente:
  "Art. 120 - 1. L'ufficiale medico presenzia alle attivita' di volo.
  2. Nell'impossibilita' di assicurare la presenza dell'ufficiale medico, il servizio e' svolto dal personale paramedico qualificato alla stabilizzazione e al trasporto di pazienti critici in possesso di tutti gli strumenti e le dotazioni necessarie a prestare pronto soccorso, a condizione che esistano nei pressi idonee strutture sanitarie pubbliche.
  3. Il personale sanitario svolge i seguenti compiti:
@@ -66,7 +66,7 @@ L'[articolo 120 del regio decreto 7 ottobre 1926, n. 2410](Approvazione%20del%20
 
 1.
 
-L'[articolo 196 del regio decreto 7 ottobre 1926, n. 2410](Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), e' sostituito dal seguente:
+L'[articolo 196 del regio decreto 7 ottobre 1926, n. 2410](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20sanitario%20aeronautico.%20026U2410.md), e' sostituito dal seguente:
  "Art. 196 - 1. Fermo restando quanto previsto dal presente regolamento in materia di assistenza sanitaria, l'ufficiale medico sottopone a visita medica generale il personale di truppa di leva all'atto dell'assegnazione all'ente ovvero al rientro dall'ospedale.
  2. L'ufficiale medico, ove necessario, dispone la cura ambulatoriale o il ricovero presso l'infermeria dell'ente o in ospedale.".
 

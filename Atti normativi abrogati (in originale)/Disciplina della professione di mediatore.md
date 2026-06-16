@@ -26,11 +26,11 @@ Per l'esercizio professionale della mediazione e' richiesta l'iscrizione nei ruo
 
 ## Art. 3.
 
-Per l'esercizio dell'attivita' disciplinata dai precedenti articoli non e' richiesta la licenza prevista dallo [art. 115 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_115) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773).
+Per l'esercizio dell'attivita' disciplinata dai precedenti articoli non e' richiesta la licenza prevista dallo [art. 115 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ## Art. 4.
 
-Chiunque eserciti professionalmente l'attivita' disciplinata nella presente legge senza essere iscritto nei ruoli indicati dall'art. 2 incorre nelle sanzioni penali previste dall'[art. 665 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque eserciti professionalmente l'attivita' disciplinata nella presente legge senza essere iscritto nei ruoli indicati dall'art. 2 incorre nelle sanzioni penali previste dall'[art. 665 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

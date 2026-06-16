@@ -38,7 +38,7 @@ Il personale della Regia Marina si compone di corpi militari e di impiegati civi
 
 Coloro che fanno parte dei corpi militari sono in ogni tempo soggetti alle leggi che regolano lo stato degli ufficiali, l'avanzamento, le pensioni e la giustizia militare marittima. 
  
- Coloro che fanno parte del personale civile non sono soggetti alla disciplina militare. Sono pero' sottoposti alla giustizia militare nei casi stabiliti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+ Coloro che fanno parte del personale civile non sono soggetti alla disciplina militare. Sono pero' sottoposti alla giustizia militare nei casi stabiliti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  A questo personale sono applicate le leggi relative agli impiegati civili dello Stato per quanto concerne la posizione di disponibilita', di aspettativa e di pensione.
 
@@ -295,7 +295,7 @@ Gli ufficiali dei corpi militari soppressi in base della presente legge, i quali
 
 ### Art. 37.
 
-Le disposizioni contenute nel precedente articolo 36 sono estese agli attuali contabili della R. Marina provenienti dal corpo dei contabili, soppresso con [R. decreto 23 dicembre 1876, num. 3607](Che%20istituisce%20un%20corpo%20di%20impiegati%20sotto%20la%20denominazione%20di%20contabili%20della%20regia%20marina.%20076U3607.md) (Serie 2ª), e ai farmacisti che si trovavano in servizio al tempo della emanazione del [R. decreto 31 dicembre 1876, numero 3613](Col%20quale%20viene%20ricostituito%20il%20corpo%20sanitario%20militare%20marittimo.%20076U3613.md) (Serie 2ª), col quale vennero dichiarati «Personale civile.» 
+Le disposizioni contenute nel precedente articolo 36 sono estese agli attuali contabili della R. Marina provenienti dal corpo dei contabili, soppresso con [R. decreto 23 dicembre 1876, num. 3607](../Regi%20decreti/Che%20istituisce%20un%20corpo%20di%20impiegati%20sotto%20la%20denominazione%20di%20contabili%20della%20regia%20marina.%20076U3607.md) (Serie 2ª), e ai farmacisti che si trovavano in servizio al tempo della emanazione del [R. decreto 31 dicembre 1876, numero 3613](../Regi%20decreti/Col%20quale%20viene%20ricostituito%20il%20corpo%20sanitario%20militare%20marittimo.%20076U3613.md) (Serie 2ª), col quale vennero dichiarati «Personale civile.» 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

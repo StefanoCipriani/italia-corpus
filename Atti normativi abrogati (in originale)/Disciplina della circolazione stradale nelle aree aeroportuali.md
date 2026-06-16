@@ -16,12 +16,12 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Nell'ambito degli aeroporti nazionali aperti al traffico aereo civile la competenza a disciplinare la circolazione nelle aree stradali aperte all'uso pubblico, le attivita' commerciali inerenti al trasporto che in esse si svolgono e l'accesso alle aerostazioni, e' riservato al direttore della circoscrizione aeroportuale competente per territorio, che vi provvede a mezzo di ordinanze, in conformita' alle norme del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Nell'ambito degli aeroporti nazionali aperti al traffico aereo civile la competenza a disciplinare la circolazione nelle aree stradali aperte all'uso pubblico, le attivita' commerciali inerenti al trasporto che in esse si svolgono e l'accesso alle aerostazioni, e' riservato al direttore della circoscrizione aeroportuale competente per territorio, che vi provvede a mezzo di ordinanze, in conformita' alle norme del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  Nell'ambito degli aeroporti ove le aerostazioni siano affidate in gestione ad enti o societa', il potere di ordinanza di cui al comma precedente viene esercitato dal direttore della circoscrizione aeroportuale competente per territorio, sentiti gli enti e le societa' interessati.
 
 ## Art. 2.
 
-Chiunque violi gli obblighi, i divieti e le limitazioni disposti ai sensi del precedente articolo e' punito con le sanzioni previste dal [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) per quanto attiene alle infrazioni relative alla circolazione stradale o con le sanzioni previste dall'[articolo 1174 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per le altre infrazioni.
+Chiunque violi gli obblighi, i divieti e le limitazioni disposti ai sensi del precedente articolo e' punito con le sanzioni previste dal [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) per quanto attiene alle infrazioni relative alla circolazione stradale o con le sanzioni previste dall'[articolo 1174 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per le altre infrazioni.
 
 ## Art. 3.
 

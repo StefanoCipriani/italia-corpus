@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle, leggi e delle norme giuridiche sulla istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto il testo unico delle, leggi e delle norme giuridiche sulla istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto il [R. decreto 5 febbraio 1928, n. 781](Istituzione%20in%20Roma%20di%20una%20Regia%20scuola%20di%20metodo%20tipo%20Montessori.%20028U0781.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-All'art. 41 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), e' sostituito il seguente: 
+All'art. 41 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito il seguente: 
  
  «Sono istituite sei scuole magistrali con il fine di formare le insegnanti per le scuole del grado preparatorio. E' compresa in tale numero quella a tipo speciale istituita col [R. decreto 5 febbraio 1928, n. 781](Istituzione%20in%20Roma%20di%20una%20Regia%20scuola%20di%20metodo%20tipo%20Montessori.%20028U0781.md). 
  
@@ -36,7 +36,7 @@ All'art. 41 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](h
 
 ## Art. 2.
 
-All'art. 42 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), e' sostituito il seguente: 
+All'art. 42 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito il seguente: 
  
  «Il corso di studi negli istituti di cui all'articolo precedente ha la durata di anni tre. 
  
@@ -46,7 +46,7 @@ All'art. 42 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](h
 
 ## Art. 3.
 
-All'art. 43 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), e' sostituito il seguente: 
+All'art. 43 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito il seguente: 
  
  «Per l'iscrizione alla prima classe delle scuole magistrali e' necessario aver superato un esame di ammissione. Per essere ammesso a tale esame occorre aver conseguito da un triennio la licenza elementare o aver da un triennio superato l'esame di ammissione ad una scuola media. 
  
@@ -54,7 +54,7 @@ All'art. 43 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](h
 
 ## Art. 4.
 
-All'art. 46 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), e' sostituito il seguente: 
+All'art. 46 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito il seguente: 
  
  «E' data facolta' al Ministero dell'educazione nazionale di autorizzare, presso Enti morali che ritenga idonei, corsi annuali di durata complessiva non inferiore a sei mesi per esperimentare differenzazioni didattiche nelle classi del corso preparatorio o in quelle del corso elementare. 
  
@@ -62,7 +62,7 @@ All'art. 46 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](h
 
 ## Art. 5.
 
-All'art. 47 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), e' sostituito il seguente: 
+All'art. 47 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito il seguente: 
  
  «Per l'iscrizione all'uno o all'altro di tali corsi e' richiesto rispettivamente il titolo legale di abilitazione all'insegnamento nelle scuole materne o in quelle elementari. 
  
@@ -79,7 +79,7 @@ Le privatiste che domandino di essere ammesse a sostenere gli esami di abilitazi
 
 I posti in organico, gli stipendi e le retribuzioni del personale insegnante nelle scuole magistrali e nelle annesse classi del grado preparatorio sono quelli di cui all'allegato A. al presente decreto firmato, d'ordine Nostro, dal Ministro proponente e dal Ministro per le finanze. 
  
- Le eventuali supplenze ai posti di ruolo nelle scuole magistrali saranno retribuite, nei mesi di lezione e di esami e sempre per il servizio effettivamente prestato, per ogni ora settimanale di lezione, a norma della lettera a) della tabella 6 annessa al [R. decreto 6 maggio 1923, n. 1054, e dell'art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_3) del [R. decreto 31 marzo 1925, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;363). 
+ Le eventuali supplenze ai posti di ruolo nelle scuole magistrali saranno retribuite, nei mesi di lezione e di esami e sempre per il servizio effettivamente prestato, per ogni ora settimanale di lezione, a norma della lettera a) della tabella 6 annessa al [R. decreto 6 maggio 1923, n. 1054, e dell'art. 3](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) del [R. decreto 31 marzo 1925, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;363). 
  
  Gli stipendi e le retribuzioni sopra indicate si applicheranno anche al personale insegnante della Regia scuola magistrale Montessori. 
  
@@ -97,7 +97,7 @@ I programmi d'esame nelle scuole magistrali sono quelli indicati nell'allegato C
 
 ## Art. 10.
 
-Sono abrogate le disposizioni di cui alle lettere b) e d) dell'art. 39 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577).
+Sono abrogate le disposizioni di cui alle lettere b) e d) dell'art. 39 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
 
 ## Art. 11.
 

@@ -92,11 +92,11 @@ E' autorizzata la spesa di un miliardo di lire da assegnarsi al bilancio del Min
 
 La Cassa depositi e prestiti e' autorizzata a concedere a Comuni, Provincie e Consorzi, mutui straordinari per l'importo di L. 500 milioni al saggio d'interesse del 3 % per l'esecuzione di opere pubbliche, come pure e' autorizzata a trasformare al detto saggio mutui in corso per opere non ancora iniziate o compiute. 
  
- A queste operazioni sono applicabili le disposizioni del [R. decreto 22 settembre 1914, n. 1028](Col%20quale%20vengono%20autorizzate%20anticipazioni%20di%20fondi%20alla%20Cassa%20depositi%20e%20prestiti%20per%20metterla%20in%20grado%20di%20concedere%20alle%20Provincie%20ed%20ai%20Comuni%20mutui%20destinati%20alla%20pronta%20esecuzione%20d_6b598753f60b.md).
+ A queste operazioni sono applicabili le disposizioni del [R. decreto 22 settembre 1914, n. 1028](../Regi%20decreti/Col%20quale%20vengono%20autorizzate%20anticipazioni%20di%20fondi%20alla%20Cassa%20depositi%20e%20prestiti%20per%20metterla%20in%20grado%20di%20concedere%20alle%20Provincie%20ed%20ai%20Comuni%20mutui%20destinati%20alla%20pronta%20esecuzione%20d_6b598753f60b.md).
 
 ## Art. 9.
 
-A tutti i lavori pubblici di cui sia disposto l'appalto entro il 31 marzo 1919 sono applicabili le disposizioni del [R. decreto 1° settembre 1914, n. 920](Che%20dichiara%20applicabili%20ai%20lavori%20pubblici%20appaltati%20dallo%20Stato%20dalle%20Provincie%20e%20dai%20Comuni%20entro%20il%2031%20dicembre%201914%20le%20disposizioni%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20convertito_6e5a4a81599d.md). 
+A tutti i lavori pubblici di cui sia disposto l'appalto entro il 31 marzo 1919 sono applicabili le disposizioni del [R. decreto 1° settembre 1914, n. 920](../Regi%20decreti/Che%20dichiara%20applicabili%20ai%20lavori%20pubblici%20appaltati%20dallo%20Stato%20dalle%20Provincie%20e%20dai%20Comuni%20entro%20il%2031%20dicembre%201914%20le%20disposizioni%20del%20R.%20decreto%2018%20settembre%201910%20n.%20684%20convertito_6e5a4a81599d.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando e chiunque spetti di osservarlo e di farlo osservare. 
  

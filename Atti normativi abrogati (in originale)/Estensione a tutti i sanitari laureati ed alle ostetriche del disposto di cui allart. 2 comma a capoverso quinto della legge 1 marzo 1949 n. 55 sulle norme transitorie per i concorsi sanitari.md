@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Articolo unico.
 
 Il quinto capoverso del comma a) dell'[art. 2, della legge 1 marzo 1949, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-03-01;55#art_2), viene sostituito dai seguenti:
- "Nei concorsi per i posti di medico condotto, al servizio prestato negli istituti di cura di cui al [regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631), o in cliniche universitarie, e' riservata una valutazione di punti 7 se di ruolo ovvero di 5 se interinale.
+ "Nei concorsi per i posti di medico condotto, al servizio prestato negli istituti di cura di cui al [regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md), o in cliniche universitarie, e' riservata una valutazione di punti 7 se di ruolo ovvero di 5 se interinale.
  La stessa valutazione di punti 7 se di ruolo ovvero di 5 se interinale e' riservata:
  1) nei concorsi per i posti di veterinario condotto, al servizio prestato nelle cliniche ed istituti universitari, ovvero negli istituti zooprofilattici o sperimentali ad essi equiparati;
  2) nei concorsi per i posti di chimico, al servizio prestato negli istituti e laboratori universitari, ovvero nei centri ad essi equiparati;

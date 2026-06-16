@@ -272,7 +272,7 @@ Agli Impiegati delle Poste e' vietato rispondere alle domande sull'impostazione 
 
 ### Art. 42.
 
-Le persone obbligate al trasporto dei dispacci postali in virtu' degli articoli 20 e 21, rifiutando di trasportarli, o mancando di consegnarli, incorreranno nella multa estensibile a lire 300, salvo il disposto dell'[art. 296 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Le persone obbligate al trasporto dei dispacci postali in virtu' degli articoli 20 e 21, rifiutando di trasportarli, o mancando di consegnarli, incorreranno nella multa estensibile a lire 300, salvo il disposto dell'[art. 296 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 43.
 
@@ -282,7 +282,7 @@ E' punito colla pena del carcere non minore di sei mesi chi falsifica la carta p
 
 ### Art. 44.
 
-Saranno pubblicati in Toscana gli [articoli 237](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [296](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [335](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [336 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente nelle altre Provincie del Regno. 
+Saranno pubblicati in Toscana gli [articoli 237](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [296](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [335](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [336 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente nelle altre Provincie del Regno. 
  
  Il Governo del Re col mezzo di Reale Decreto dara' le opportune disposizioni per la loro applicazione.
 

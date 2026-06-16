@@ -38,7 +38,7 @@ Nella prima applicazione della presente legge il personale salariato temporaneo 
 
 ## Art. 5.
 
-Per il passaggio in ruolo dei salariati di cui all'articolo precedente si prescinde dai limiti di eta' stabiliti dall'art. 18 - ultimo comma - del regolamento approvato con [regio decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md).
+Per il passaggio in ruolo dei salariati di cui all'articolo precedente si prescinde dai limiti di eta' stabiliti dall'art. 18 - ultimo comma - del regolamento approvato con [regio decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

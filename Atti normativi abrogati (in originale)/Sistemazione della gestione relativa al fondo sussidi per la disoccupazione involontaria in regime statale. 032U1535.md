@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto il [decreto-legge 19 ottobre 1919, n. 2314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-19;2314), che istitui' nel Regno l'assicurazione obbligatoria contro la disoccupazione involontaria; prepose alla direzione e al coordinamento di tale servizio apposito Ufficio nazionale e costitui' un «fondo nazionale per la disoccupazione involontaria»;
 
-Visto il [R. decreto 5 febbraio 1922, n. 209](Che%20estende%20nei%20territori%20annessi%20la%20legislazione%20vigente%20nel%20Regno%20sul%20collocamento%20e%20sulla%20disoccupazione.%20022U0209.md), che estese ai territori annessi la legislazione vigente sul collocamento e la disoccupazione;
+Visto il [R. decreto 5 febbraio 1922, n. 209](../Regi%20decreti/Che%20estende%20nei%20territori%20annessi%20la%20legislazione%20vigente%20nel%20Regno%20sul%20collocamento%20e%20sulla%20disoccupazione.%20022U0209.md), che estese ai territori annessi la legislazione vigente sul collocamento e la disoccupazione;
 
-Visto il [R. decreto 27 ottobre 1922, n. 1869](Riguardante%20la%20resa%20del%20rendiconto%20delle%20entrate%20e%20delle%20spese%20alla%20Corte%20dei%20conti%20della%20gestione%20fuori%20bilancio%20per%20sussidi%20statali%20di%20disoccupazione.%20022U1869.md), che fece obbligo al Ministero per il lavoro e la previdenza sociale di presentare alla Corte dei conti il rendiconto delle entrate e delle spese in relazione al servizio dei sussidi statali di disoccupazione, e alle relative spese di gestione;
+Visto il [R. decreto 27 ottobre 1922, n. 1869](../Regi%20decreti/Riguardante%20la%20resa%20del%20rendiconto%20delle%20entrate%20e%20delle%20spese%20alla%20Corte%20dei%20conti%20della%20gestione%20fuori%20bilancio%20per%20sussidi%20statali%20di%20disoccupazione.%20022U1869.md), che fece obbligo al Ministero per il lavoro e la previdenza sociale di presentare alla Corte dei conti il rendiconto delle entrate e delle spese in relazione al servizio dei sussidi statali di disoccupazione, e alle relative spese di gestione;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), che dispose il passaggio della assicurazione contro la disoccupazione involontaria alla Cassa nazionale per le assicurazioni sociali, ad essa trasferendo le disponibilita' dell'Ufficio nazionale per il collocamento e la disoccupazione;
+Visto il [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), che dispose il passaggio della assicurazione contro la disoccupazione involontaria alla Cassa nazionale per le assicurazioni sociali, ad essa trasferendo le disponibilita' dell'Ufficio nazionale per il collocamento e la disoccupazione;
 
 Ritenuta, la necessita' urgente ed assoluta di provvedimenti intesi a definire ogni pendenza inerente alla gestione dei sussidi statali per la disoccupazione;
 

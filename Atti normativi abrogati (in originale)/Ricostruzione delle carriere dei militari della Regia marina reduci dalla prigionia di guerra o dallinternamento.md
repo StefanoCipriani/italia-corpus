@@ -16,9 +16,9 @@ UMBERTO DI SAVOIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali dei Corpi militari della Regia marina, approvato con [R. decreto 1° agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti l'avanzamento degli ufficiali dei Corpi militari della Regia marina, approvato con [R. decreto 1° agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
 
-Visto il testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
+Visto il testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

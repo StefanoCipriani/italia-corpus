@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee approvato con R. decreto-legge 18 dicembre 1013, n. 1453, ed il relativo regolamento approvato con [R. decreto 6 aprile 1922, n. 547](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md);
+Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee approvato con R. decreto-legge 18 dicembre 1013, n. 1453, ed il relativo regolamento approvato con [R. decreto 6 aprile 1922, n. 547](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20testo%20di%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20approvato%20con%20R.%20decreto%2018%20dicembre%201913%20n.%201453.%20022U0547.md);
 
 Viste le successive modificazioni ed aggiunte al testo delle disposizioni suddette;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Sentito il Comitato consultivo istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), modificato col [decreto-legge 4 settembre 1924, n. 1408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-09-04;1408);
+Sentito il Comitato consultivo istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](../Regi%20decreti/Che%20apporta%20modificazioni%20alla%20legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20023U1313.md), modificato col [decreto-legge 4 settembre 1924, n. 1408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-09-04;1408);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con quello per l'economia nazionale; Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 

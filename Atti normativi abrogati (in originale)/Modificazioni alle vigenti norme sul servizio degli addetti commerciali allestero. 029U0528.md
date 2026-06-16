@@ -24,7 +24,7 @@ Visti gli [articoli 15](Ordinamento%20gerarchico%20delle%20amministrazioni%20del
 
 Vista la tabella n. 85 allegata a quest'ultimo Regio decreto;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), che reca disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), che reca disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -48,7 +48,7 @@ Presso il Ministero dell'economia nazionale e' istituito uno speciale Consiglio 
 
 Le note di qualifica degli addetti commerciali sono' redatte e firmate dal capo della Missione alla cui dipendenza essi prestano servizio. 
  
- Contro la qualifica attribuitagli l'addetto commerciale puo' ricorrere al Consiglio di amministrazione, di cui all'art. 1, il quale decide con l'osservanza delle norme e per gli effetti di cui nel penultimo comma dell'[art. 12 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_12). Il ricorso deve essere presentato, nel termine di 15 giorni dalla comunicazione, al capo della Missione. 
+ Contro la qualifica attribuitagli l'addetto commerciale puo' ricorrere al Consiglio di amministrazione, di cui all'art. 1, il quale decide con l'osservanza delle norme e per gli effetti di cui nel penultimo comma dell'[art. 12 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). Il ricorso deve essere presentato, nel termine di 15 giorni dalla comunicazione, al capo della Missione. 
  
  Fermo restando le norme contenute nei capi 8 e 9 dell'anzidetto Regio decreto, la Commissione di disciplina, nominata ogni anno dal Ministro per l'economia nazionale ai termini dell'art. 68 del decreto stesso, ha competenza anche nei riguardi degli addetti commerciali.
 

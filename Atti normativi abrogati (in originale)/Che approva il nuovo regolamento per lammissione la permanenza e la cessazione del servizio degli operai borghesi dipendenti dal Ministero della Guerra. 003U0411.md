@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 12 giugno 1892, n. 355](Che%20approva%20il%20nuovo%20regolamento%20per%20gli%20operai%20borghesi%20dipendenti%20dal%20Ministero%20della%20guerra.%20092U0355.md) col quale veniva approvato il Regolamento che stabilisce le norme per l'ammissione degli operai borghesi dipendenti dal Ministero della Guerra, per la loro permanenza in servizio e per la cessazione dal servizio stesso;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Sentito il parere del Consiglio di Stato;
 

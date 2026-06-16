@@ -14,9 +14,9 @@ Visto il decreto 11 novembre 1923, n. 2395 e successive modificazioni;
 
 Visto il testo unico delle leggi degli ufficiali e agenti di pubblica sicurezza 31 agosto 1907, n. 690;
 
-Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto il [regio decreto 17 novembre 1932, n. 1595](Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md);
+Visto il [regio decreto 17 novembre 1932, n. 1595](../Regi%20decreti/Modificazioni%20allordinamento%20del%20personale%20di%20pubblica%20sicurezza.%20032U1595.md);
 
 Vista la [legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39);
 
@@ -31,7 +31,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 Il Ministero dell'interno e' autorizzato ad effettuare un concorso, per titoli, per l'ammissione in soprannumero, di 100 vice commissari aggiunti di pubblica sicurezza (gruppo A, grado 11°).
  Detti 100 posti in soprannumero saranno riassorbiti con le vacanze che si verificheranno nei ruoli dei funzionari di pubblica sicurezza anche per effetto di eventuali aumenti nell'organico del ruolo medesimo.
  Il concorso e' riservato a coloro che esplichino in atto mansioni di funzionario di pubblica sicurezza per nomina o conferma, in qualsiasi grado, ottenuta con disposizione delle Autorita', Alleate, o con decreto prefettizio o con provvedimento dei Comitati provinciali di liberazione nazionale, nonche' gli impiegati di gruppo C in servizio nella pubblica sicurezza, ai quali siano state conferite o confermate, con i medesimi provvedimenti, le mansioni di funzionario di pubblica sicurezza.
- Gli aspiranti debbono essere in possesso del diploma di licenza di istituto medio superiore ed inoltre debbono possedere tutti gli altri requisiti richiesti dall'[articolo 1 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1), per i funzionari di pubblica sicurezza nonche' quelli speciali relativi alla eta' ed alla statura, richiesti dagli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-08-20;666#art_11) e [12 del regolamento 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-08-20;666#art_12), per gli ufficiali e agenti di pubblica sicurezza e successive modificazioni.
+ Gli aspiranti debbono essere in possesso del diploma di licenza di istituto medio superiore ed inoltre debbono possedere tutti gli altri requisiti richiesti dall'[articolo 1 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), per i funzionari di pubblica sicurezza nonche' quelli speciali relativi alla eta' ed alla statura, richiesti dagli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-08-20;666#art_11) e [12 del regolamento 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-08-20;666#art_12), per gli ufficiali e agenti di pubblica sicurezza e successive modificazioni.
 
 ## Art. 2.
 

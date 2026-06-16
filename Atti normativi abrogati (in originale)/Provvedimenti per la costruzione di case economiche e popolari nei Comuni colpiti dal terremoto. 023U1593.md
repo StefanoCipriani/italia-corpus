@@ -22,7 +22,7 @@ Visto il [decreto Luogotenenziale 6 febbraio 1919, n. 306](https://www.normattiv
 
 Visto il [decreto Luogotenenziale 7 febbraio 1919, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-07;150);
 
-Visto il [R. decreto 2 ottobre 1919, n. 1928](Che%20apporta%20variazioni%20alla%20ripartizione%20dellassegnazione%20di%20un%20miliardo%20per%20lesecuzione%20di%20opere%20pubbliche.%20019U1928.md);
+Visto il [R. decreto 2 ottobre 1919, n. 1928](../Regi%20decreti/Che%20apporta%20variazioni%20alla%20ripartizione%20dellassegnazione%20di%20un%20miliardo%20per%20lesecuzione%20di%20opere%20pubbliche.%20019U1928.md);
 
 Visto il [R. decreto 6 novembre 1919, n. 2241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-06;2241);
 

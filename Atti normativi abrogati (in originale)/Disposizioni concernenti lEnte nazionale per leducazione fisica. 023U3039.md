@@ -22,19 +22,19 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Ai fini di cui agli [articoli 3 e seguenti del R. decreto 15 marzo 1923, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_3), l'Ente nazionale per l'educazione fisica costituira' in ogni sede di Regio istituto medio di istruzione una propria sezione autorizzata ad impartire l'educazione fisica agli alunni. 
+Ai fini di cui agli [articoli 3 e seguenti del R. decreto 15 marzo 1923, n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md), l'Ente nazionale per l'educazione fisica costituira' in ogni sede di Regio istituto medio di istruzione una propria sezione autorizzata ad impartire l'educazione fisica agli alunni. 
  
  L'Ente nazionale potra' prendere accordi con le societa' ginnastiche o sportive esistenti nella sede per valersi anche della loro opera.
 
 ## Art. 2.
 
-Gli obblighi degli Enti locali stabiliti dall'art. 12 del citato decreto e dall'[art. 103 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_103), comprendono anche la pulizia ed il servizio sia delle attuali palestre a disposizione per un decennio, sia degli stadii e palestre di proprieta' o in uso dell'Ente nazionale. 
+Gli obblighi degli Enti locali stabiliti dall'art. 12 del citato decreto e dall'[art. 103 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), comprendono anche la pulizia ed il servizio sia delle attuali palestre a disposizione per un decennio, sia degli stadii e palestre di proprieta' o in uso dell'Ente nazionale. 
  
  L'arredamento e gli attrezzi, di cui le palestre erano state debitamente provvedute dagli Enti locali, passeranno in uso esclusivo dell'Ente nazionale di mano in mano che le palestre medesime saranno da esso restituite.
 
 ## Art. 3.
 
-Il trattamento, stabilito ai soli effetti economici, per il rappresentante del Ministero della pubblica istruzione nell'Ente nazionale per l'educazione fisica, di cui agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_9) e [10 del R. decreto 15 marzo 1923, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_10), si intende a carico del bilancio del Ministero della pubblica istruzione. 
+Il trattamento, stabilito ai soli effetti economici, per il rappresentante del Ministero della pubblica istruzione nell'Ente nazionale per l'educazione fisica, di cui agli [articoli 9](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) e [10 del R. decreto 15 marzo 1923, n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md), si intende a carico del bilancio del Ministero della pubblica istruzione. 
  
  Il rappresentante del Ministero della pubblica istruzione cessando dall'incarico, sara' restituito nel ruolo di provenienza col trattamento economico che vi avrebbe ottenuto se non ne fosse uscito.
 

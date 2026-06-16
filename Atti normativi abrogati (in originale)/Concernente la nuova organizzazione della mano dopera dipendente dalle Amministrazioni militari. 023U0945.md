@@ -26,7 +26,7 @@ Con la data del 30 giugno 1923 sono licenziati tutti i capi operai ed operai bor
  
  Non sara' applicata la disposizione di cui al precedente comma a quel personale permanente o a matricola di cui al comma stesso esercitante speciali attribuzioni o mestieri, che le due Amministrazioni determineranno con apposito decreto, ma in ogni caso non eccedente, complessivamente, il numero di 800 per l'Amministrazione della guerra e il numero di 500 per l'Amministrazione della marina. 
  
- Le Amministrazioni della guerra e della marina hanno facolta' di licenziare ad ogni momento anche tale personale con il trattamento di previdenza stabilito dal presente decreto da riferirsi al momento del licenziamento: il personale medesimo pero' non puo' essere collocato a riposo dietro propria domanda se non nei casi contemplati dall'art. 154 e 155 del T. U. delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70, e dall'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_1) della [legge 26 dicembre 1901, n. 518](Portante%20modificazioni%20alle%20disposizioni%20che%20regolano%20le%20pensioni%20degli%20operai%20della%20R.%20Marina.%20001U0518.md). Le stesse Amministrazioni hanno anche facolta' di colmare le vacanze che si formeranno in seguito in questa categoria di personale. 
+ Le Amministrazioni della guerra e della marina hanno facolta' di licenziare ad ogni momento anche tale personale con il trattamento di previdenza stabilito dal presente decreto da riferirsi al momento del licenziamento: il personale medesimo pero' non puo' essere collocato a riposo dietro propria domanda se non nei casi contemplati dall'art. 154 e 155 del T. U. delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70, e dall'art. 1](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) della [legge 26 dicembre 1901, n. 518](Portante%20modificazioni%20alle%20disposizioni%20che%20regolano%20le%20pensioni%20degli%20operai%20della%20R.%20Marina.%20001U0518.md). Le stesse Amministrazioni hanno anche facolta' di colmare le vacanze che si formeranno in seguito in questa categoria di personale. 
  
  E' in facolta' delle due Amministrazioni suddette di riassumere, in rapporto alle effettive esigenze di servizio, i personali licenziati di cui al 1°comma alle normali condizioni del contratto di lavoro privato, in base alle disposizioni regolamentari ed istruzioni che saranno emanate dalle Amministrazioni dalle quale essi dipendono.
 
@@ -45,7 +45,7 @@ Le persone licenziate a norma del precedente articolo e che appartengono al pers
  
  Non sono computati per la liquidazione delle pensioni per tutti gli indennizzi di cui al presente decreto, il cottimo, mancato cottimo o il soprassoldo ad economia, ne' le indennita' di caro viveri. 
  
- A dette persone od ai loro superstiti sono applicabili tutte le disposizioni del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n.70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), o successive modificazioni che non siano incompatibili col presente decreto.
+ A dette persone od ai loro superstiti sono applicabili tutte le disposizioni del testo unico delle leggi sulle pensioni approvato con [R. decreto 21 febbraio 1895, n.70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), o successive modificazioni che non siano incompatibili col presente decreto.
 
 ## Art. 3.
 
@@ -59,7 +59,7 @@ Per le vedove degli operai o lavoranti considerati nel precedente articolo 2 i q
 
 ## Art. 5.
 
-Agli operai a matricola e lavoranti permanenti riformati dal 1° luglio 1922, sara' liquidata la pensione di riforma sulla base della tabella di cui al precedente articolo 2 qualora si trovino nelle condizioni stabilite dall'articolo 156 del T. U. delle leggi sulle pensioni civili e militari approvato con [Regio decreto 21 febbraio 1895, num. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70).
+Agli operai a matricola e lavoranti permanenti riformati dal 1° luglio 1922, sara' liquidata la pensione di riforma sulla base della tabella di cui al precedente articolo 2 qualora si trovino nelle condizioni stabilite dall'articolo 156 del T. U. delle leggi sulle pensioni civili e militari approvato con [Regio decreto 21 febbraio 1895, num. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 6.
 
@@ -76,7 +76,7 @@ Ai pensionati di cui all'art. 2 che siano riassunti dallo Stato a norma del quar
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di abrogazione da parte del [Regio Decreto 30 dicembre 1923, n. 2994](Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md) e del [Regio Decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di abrogazione da parte del [Regio Decreto 30 dicembre 1923, n. 2994](../Regi%20decreti/Disposizioni%20relative%20allo%20stato%20giuridico%20ed%20al%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.%20023U2994.md) e del [Regio Decreto 24 dicembre 1924, n. 2114](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 9.
 

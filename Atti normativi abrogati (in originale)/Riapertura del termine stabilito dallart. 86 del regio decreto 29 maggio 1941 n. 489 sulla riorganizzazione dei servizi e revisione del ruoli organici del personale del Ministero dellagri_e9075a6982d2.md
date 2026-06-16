@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 29 maggio 1941, n. 489](Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md);
+Visto il [regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md);
 
-Considerato che, in conseguenza della sospensione dei pubblici concorsi per la durata della guerra, non e' stato possibile effettuare, nel termine stabilito dall'art. 86 del citato [regio decreto 29 maggio 1941, n. 489](Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), i concorsi previsti dall'art. 83 del regio decreto stesso;
+Considerato che, in conseguenza della sospensione dei pubblici concorsi per la durata della guerra, non e' stato possibile effettuare, nel termine stabilito dall'art. 86 del citato [regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), i concorsi previsti dall'art. 83 del regio decreto stesso;
 
 Ritenuta la necessita' di procedere, pertanto, alla riapertura del termine predetto, scaduto il 15 giugno 1944, ai fini dell'attuazione delle disposizioni di cui al citato art. 83;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per l'agricoltura e le foreste, di concerto con il M
 
 ## Articolo unico.
 
-Il termine stabilito dall'[art. 86 del regio decreto 29 maggio 1941, n. 489](Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), e' riaperto per la durata di un anno dalla data di entrata in vigore del presente decreto, limitatamente all'attuazione delle disposizioni relative ai concorsi contenute nell'art. 83 del regio decreto stesso.
+Il termine stabilito dall'[art. 86 del regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), e' riaperto per la durata di un anno dalla data di entrata in vigore del presente decreto, limitatamente all'attuazione delle disposizioni relative ai concorsi contenute nell'art. 83 del regio decreto stesso.
  Fermo restando quant'altro stabilito dall'art. 83 del citato decreto n. 489 del 1941, la partecipazione ai concorsi cui fa riferimento il precedente comma, e' consentita a coloro che abbiano compiuto, non oltre il 15 giugno 1944, i periodi di servizio ininterrotto o di frequenza fissati dai commi 1°, 2° lettere a) e b) e 4° del predetto art. 83, quand'anche gli aspiranti non si trovino attualmente in servizio per essersi volontariamente dimessi.
  La partecipazione e' consentita altresi' a coloro che alla data del 15 giugno 1944 si trovavano nelle condizioni previste dal 3° comma del medesimo art. 83.
 

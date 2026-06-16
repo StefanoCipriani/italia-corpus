@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La Commissione permanente tecnico-artistica-monetaria istituita con [R. decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27) e' composta di un presidente, nella persona del ministro del tesoro, di un vicepresidente che sara' il direttore generale del tesoro e di tredici membri nominati con decreto del ministro del tesoro. 
+La Commissione permanente tecnico-artistica-monetaria istituita con [R. decreto 29 gennaio 1905, n. 27](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md) e' composta di un presidente, nella persona del ministro del tesoro, di un vicepresidente che sara' il direttore generale del tesoro e di tredici membri nominati con decreto del ministro del tesoro. 
  
  Fungeranno da segretari due funzionari amministrativi del Ministero del tesoro.
 

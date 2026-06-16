@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- In deroga al combinato disposto degli articoli 75 e 90 del testo unico delle leggi sulla Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), i ricorsi prodotti alla Corte stessa dal Monte di pegni di Roma, esattore del Governatorato di Roma del quinquennio 1923-1927, ai sensi dell'art. 90 della legge di riscossione, che sono stati dichiarati abbandonati o che possano essere dichiarati tali, potranno essere riesaminati previa presentazione di domanda di fissazione di udienza da presentarsi entro il termine perentorio di un anno dalla data di pubblicazione della presente legge. 
+ In deroga al combinato disposto degli articoli 75 e 90 del testo unico delle leggi sulla Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), i ricorsi prodotti alla Corte stessa dal Monte di pegni di Roma, esattore del Governatorato di Roma del quinquennio 1923-1927, ai sensi dell'art. 90 della legge di riscossione, che sono stati dichiarati abbandonati o che possano essere dichiarati tali, potranno essere riesaminati previa presentazione di domanda di fissazione di udienza da presentarsi entro il termine perentorio di un anno dalla data di pubblicazione della presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di ossea varia e di farla osservare come legge dello Stato. 
  

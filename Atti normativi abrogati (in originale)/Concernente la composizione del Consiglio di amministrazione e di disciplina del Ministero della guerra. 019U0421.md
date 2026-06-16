@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il Consiglio di amministrazione e di disciplina del Ministero della guerra e' costituito nel modo stabilito dall'art. 8 del regolamento speciale approvato dal [R. decreto 28 aprile 1910, n. 219](Che%20approva%20lannesso%20regolamento%20speciale%20per%20lAmministrazione%20centrale%20della%20guerra.%20010U0219.md), con l'intervento anche dei direttori generali di detta Amministrazione centrale che si trovino eventualmente comandati presso le altre Amministrazioni. 
+Il Consiglio di amministrazione e di disciplina del Ministero della guerra e' costituito nel modo stabilito dall'art. 8 del regolamento speciale approvato dal [R. decreto 28 aprile 1910, n. 219](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20lAmministrazione%20centrale%20della%20guerra.%20010U0219.md), con l'intervento anche dei direttori generali di detta Amministrazione centrale che si trovino eventualmente comandati presso le altre Amministrazioni. 
  
  La competenza del Consiglio formato nel modo anzidetto si estende anche al personale temporaneamente comandato o destinato presso altre Amministrazioni, ferme restando per i funzionari che prestano servizio temporaneamente presso il Ministero per l'assistenza militare e le pensioni di guerra le disposizioni del [decreto Luogotenenziale 15 febbraio 1918, n. 238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-15;238).
 

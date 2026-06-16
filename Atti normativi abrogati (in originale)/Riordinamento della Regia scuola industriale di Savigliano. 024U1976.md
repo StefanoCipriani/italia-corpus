@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), per il riordinamento dell'insegnamento industriale;
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), per il riordinamento dell'insegnamento industriale;
 
 Visto il [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), che approva il regolamento per l'applicazione del Regio decreto anzidetto;
 
-Visto il [R. decreto 29 ottobre 1922, n. 1428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-29;1428), concernente la istituzione della Regia scuola di Savigliano;
+Visto il [R. decreto 29 ottobre 1922, n. 1428](../Regi%20decreti/Istituzione%20di%20R.%20scuola%20industriale.%20022U1428.md), concernente la istituzione della Regia scuola di Savigliano;
 
 Visto il decreto Ministeriale 19 aprile 1924, registrato alla Corte dei conti il 5 maggio 1924, registro n. 5, foglio n. 8, che fissa il contributo del Ministero e degli Enti locali nella misura richiesta per l'applicazione al personale delle tabelle di stipendio previste dal [R. decreto 30 dicembre 1923, n. 3144](Ordinamento%20gerarchico%20del%20personale%20delle%20Regie%20scuole%20industriali.%20023U3144.md);
 

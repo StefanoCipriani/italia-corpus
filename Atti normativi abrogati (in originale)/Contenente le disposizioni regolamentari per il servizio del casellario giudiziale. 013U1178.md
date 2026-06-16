@@ -230,7 +230,7 @@ Le comunicazioni e trasmissioni dell'ufficio del casellario centrale ai casellar
 
 I fogli complementari menzionati nell'art. 5 sono compilati: 
  
- 1° nel caso di estinzione di tutta o parte della pena per effetto di amnistia o d'indulto e nei casi di revoca della sospensione dell'esecuzione della condanna, dei provvedimenti circa gli infermi di mente, minorenni e sordomuti, indicati negli [articoli 46](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [53](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [57 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), delle decisioni e dei provvedimenti indicati nell'[art. 619 n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_619-num2) e [3 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_619-num3), dal cancelliere presso l'autorita' giudiziaria che ha dichiarato l'estinzione della pena o la revoca anzidetta; 
+ 1° nel caso di estinzione di tutta o parte della pena per effetto di amnistia o d'indulto e nei casi di revoca della sospensione dell'esecuzione della condanna, dei provvedimenti circa gli infermi di mente, minorenni e sordomuti, indicati negli [articoli 46](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [53](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [57 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), delle decisioni e dei provvedimenti indicati nell'[art. 619 n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_619-num2) e [3 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_619-num3), dal cancelliere presso l'autorita' giudiziaria che ha dichiarato l'estinzione della pena o la revoca anzidetta; 
  
  2° per i provvedimenti di riabilitazione, dagli uffici del pubblico ministero o del pretore competente per l'esecuzione della sentenza di condanna; o, se trattasi di riabilitazione di diritto, dal cancelliere del tribunale che l'ha dichiarata; 
  
@@ -240,7 +240,7 @@ I fogli complementari menzionati nell'art. 5 sono compilati:
  
  5° per i decreti di ammissione alla liberazione condizionale, nonche' quelli di condono, commutazione o riduzione di pena, dagli uffici del pubblico ministero presso la Corte o il tribunale o dal cancelliere della pretura, che, giusta l'[articolo 592 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_592), devono curare l'esecuzione dei decreti medesimi; 
  
- 6° per la remissione di tutta o parte della pena a termine dell'[art. 584 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_584) e degli [articoli 352](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [358 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal cancelliere addetto all'autorita' giudiziaria che ha pronunciata la relativa ordinanza; 
+ 6° per la remissione di tutta o parte della pena a termine dell'[art. 584 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_584) e degli [articoli 352](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [358 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dal cancelliere addetto all'autorita' giudiziaria che ha pronunciata la relativa ordinanza; 
  
  7° nel caso di applicazione, in sede di esecuzione, delle norme sul concorso di piu' pene, riportate da una stessa persona, dal cancelliere presso l'autorita' giudiziaria che avra' provveduto a termine dell'[art. 562 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_562).
 
@@ -270,7 +270,7 @@ Sono altresi' eliminati i cartellini duplicati e quelli riferibili a persone ine
 
 ### Art. 37.
 
-Quando i provvedimenti menzionati negli articoli 53 capoverso e 57 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non siano stati revocati, i corrispondenti cartellini sono eliminati dal casellario, trascorsi cinque anni dalla scadenza del termine assegnato dal giudice al minorenne o al sordomuto per la permanenza nell'Istituto di educazione e di correzione, ovvero altrimenti dal compimento della maggiore eta' o dei ventiquattro anni.
+Quando i provvedimenti menzionati negli articoli 53 capoverso e 57 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non siano stati revocati, i corrispondenti cartellini sono eliminati dal casellario, trascorsi cinque anni dalla scadenza del termine assegnato dal giudice al minorenne o al sordomuto per la permanenza nell'Istituto di educazione e di correzione, ovvero altrimenti dal compimento della maggiore eta' o dei ventiquattro anni.
 
 ### Art. 38.
 
@@ -338,7 +338,7 @@ Nel trascrivere le decisioni il cancelliere deve aver cura di riprodurne esattam
 
 ### Art. 48.
 
-Nei certificati spediti per ragione di elettorato politico o amministrativo dovra' essere fatta menzione, agli effetti dell'[art. 11 della legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md), di ogni duplice condanna per ubbriachezza molesta e ripugnante e punita secondo l'[art. 488 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Nei certificati spediti per ragione di elettorato politico o amministrativo dovra' essere fatta menzione, agli effetti dell'[art. 11 della legge 19 giugno 1913, n. 632](Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md), di ogni duplice condanna per ubbriachezza molesta e ripugnante e punita secondo l'[art. 488 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 49.
 

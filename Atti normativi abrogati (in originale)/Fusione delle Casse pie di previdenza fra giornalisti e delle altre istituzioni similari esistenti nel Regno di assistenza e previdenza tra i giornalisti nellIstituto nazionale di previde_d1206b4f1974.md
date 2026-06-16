@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Le Casse pie di previdenza fra giornalisti e le altre istituzioni similari, esistenti nel Regno, riconosciute in ente morale, e che abbiano per iscopo l'assistenza e la previdenza fra giornalisti, sono fuse nell'Istituto nazionale di previdenza dei giornalisti italiani con sede in Roma, istituito con [R. decreto 25 marzo 1926, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-25;838). 
+ Le Casse pie di previdenza fra giornalisti e le altre istituzioni similari, esistenti nel Regno, riconosciute in ente morale, e che abbiano per iscopo l'assistenza e la previdenza fra giornalisti, sono fuse nell'Istituto nazionale di previdenza dei giornalisti italiani con sede in Roma, istituito con [R. decreto 25 marzo 1926, n. 838](../Regi%20decreti/Riconoscimento%20giuridico%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20in%20Roma.%20026U0838.md). 
  
  Salvi i diritti acquisiti, in base agli statuti degli enti fusi nell'Istituto nazionale, tanto da coloro che, avendone i titoli, possano essere ammessi, come soci, all'Istituto medesimo, quanto da coloro che ne restino esclusi, i redditi netti provenienti dai patrimoni degli enti stessi dovranno essere utilizzati ai fini generali della previdenza e dell'assistenza dei giornalisti italiani. 
  

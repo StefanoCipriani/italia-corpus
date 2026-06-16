@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il T.U. delle leggi sull'Istruzione Superiore approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592) e successive modificazioni;
+Visto il T.U. delle leggi sull'Istruzione Superiore approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md) e successive modificazioni;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 

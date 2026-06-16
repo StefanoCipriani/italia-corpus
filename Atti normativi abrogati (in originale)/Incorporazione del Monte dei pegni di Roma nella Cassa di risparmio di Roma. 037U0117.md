@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. n. 3, n. 2, della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto' il testo unico delle leggi sull'ordinamento delle Casse di risparmio e dei Monti di pegni di prima categoria, approvato con [R. decreto 25 aprile 1929, n. 967](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20Casse%20di%20risparmio%20e%20sui%20Monti%20di%20pieta%20di%20prima%20categoria.%20029U0967.md), ed il regolamento per la sua esecuzione, approvato con [R. decreto 5 febbraio 1931; n. 225](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20leggi%20sullordinamento%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20di%20prima%20categoria.%20031U0225.md);
+Visto' il testo unico delle leggi sull'ordinamento delle Casse di risparmio e dei Monti di pegni di prima categoria, approvato con [R. decreto 25 aprile 1929, n. 967](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20Casse%20di%20risparmio%20e%20sui%20Monti%20di%20pieta%20di%20prima%20categoria.%20029U0967.md), ed il regolamento per la sua esecuzione, approvato con [R. decreto 5 febbraio 1931; n. 225](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20leggi%20sullordinamento%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20di%20prima%20categoria.%20031U0225.md);
 
 Visto il R. decreto-legge 12 marzo 1936-XIV, n. 375, recante disposizioni per la difesa del risparmio e per la disciplina della funzione creditizia;
 

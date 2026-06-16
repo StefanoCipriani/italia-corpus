@@ -22,7 +22,7 @@ Sulla proposta del ministro delle finanze di concerto col ministro del tesoro e 
 
 ## Articolo unico.
 
-I contratti da stipulare in esecuzione dell'[articolo 2 della legge 30 settembre 1920, n. 1349](Contenente%20disposizioni%20relative%20al%20commercio%20e%20provvedimenti%20contro%20gli%20aumenti%20eccessivi%20dei%20prezzi.%20020U1349.md) si considerano conclusi nell'interesse esclusivo dello Stato e saranno registrati gratuitamente in conformita' dell'art. 145 del testo unico delle leggi sulle tasse di registro approvato con [R. decreto 20 maggio 1897, n. 217](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md). 
+I contratti da stipulare in esecuzione dell'[articolo 2 della legge 30 settembre 1920, n. 1349](Contenente%20disposizioni%20relative%20al%20commercio%20e%20provvedimenti%20contro%20gli%20aumenti%20eccessivi%20dei%20prezzi.%20020U1349.md) si considerano conclusi nell'interesse esclusivo dello Stato e saranno registrati gratuitamente in conformita' dell'art. 145 del testo unico delle leggi sulle tasse di registro approvato con [R. decreto 20 maggio 1897, n. 217](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20tasse%20di%20registro.%20097U0217.md). 
  
  Eguale beneficio e' esteso ai contratti gia' stipulati in virtu' della suddetta legge, purche' siano presentati per la registrazione entro 20 giorni dalla pubblicazione del presente decreto nella Gazzetta ufficiale del Regno. 
  

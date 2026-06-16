@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la M. V. S. N.;
+Visto il [R. decreto 14 gennaio 1923, n. 31](../Regi%20decreti/Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la M. V. S. N.;
 
 Visto il [R. decreto-legge 4 agosto 1924, n. 1292](Approvazione%20del%20nuovo%20ordinamento%20della%20Milizia%20Volontaria%20per%20la%20Sicurezza%20Nazionale.%20024U1292.md), con il quale si approva il nuovo ordinamento della M. V. S. N.;
 
@@ -51,7 +51,7 @@ Il personale della M. F. in servizio permanente od in servizio continuativo per 
  
  Nell'esercizio delle funzioni di vigilanza dirette al mantenimento dell'ordine, la M. F. agisce alla diretta dipendenza e sotto la esclusiva responsabilita' dei commissari compartimentali di pubblica sicurezza in concorso con l'arma dei carabinieri Reali. 
  
- Qualora particolari necessita' di servizio ferroviario o conseguenti dalle attribuzioni della M. F. lo richiedano, gli ufficiali, capi squadra e militi della M. F. potranno essere incaricati del disimpegno delle funzioni di competenza della rispettiva qualifica ferroviaria o di quelle funzioni cui fossero eventualmente abilitati con le modalita' richieste dai regolamenti ferroviari. In tal caso essi porteranno sulla divisa di milizia un bracciale azzurro con il distintivo della qualifica e verranno considerati come facenti parte del personale ferroviario a tutti gli effetti dell'[art. 51 del R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687#art_51).
+ Qualora particolari necessita' di servizio ferroviario o conseguenti dalle attribuzioni della M. F. lo richiedano, gli ufficiali, capi squadra e militi della M. F. potranno essere incaricati del disimpegno delle funzioni di competenza della rispettiva qualifica ferroviaria o di quelle funzioni cui fossero eventualmente abilitati con le modalita' richieste dai regolamenti ferroviari. In tal caso essi porteranno sulla divisa di milizia un bracciale azzurro con il distintivo della qualifica e verranno considerati come facenti parte del personale ferroviario a tutti gli effetti dell'[art. 51 del R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md).
 
 ## Art. 6.
 

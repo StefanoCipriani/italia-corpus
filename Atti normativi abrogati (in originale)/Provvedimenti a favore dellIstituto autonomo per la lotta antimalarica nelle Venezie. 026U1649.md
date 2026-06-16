@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 Nei territori delle provincie Venete, gia' bonificati con opere di prima categoria o tuttora soggetti a bonifica idraulica, e' affidato all'Istituto autonomo per la lotta antimalarica nelle Venezie il compito di provvedere agli interventi antianofelici previsti dall'[art. 112 lettera c) del testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_112-letc), e di integrare l'attivita' degli enti locali per la profilassi ed assistenza sanitaria antimalarica, sotto la vigilanza delle autorita' sanitarie provinciali. 
  
- Nel compito di provvedere all'assistenza sanitaria, l'Istituto agisce in sostituzione delle amministrazioni esecutrici delle opere di bonifica, a sensi e per gli effetti degli [articoli 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_160) e [162 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_162) 1° agosto 1907, n. 636.
+ Nel compito di provvedere all'assistenza sanitaria, l'Istituto agisce in sostituzione delle amministrazioni esecutrici delle opere di bonifica, a sensi e per gli effetti degli [articoli 160](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [162 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636.
 
 ## Art. 2.
 

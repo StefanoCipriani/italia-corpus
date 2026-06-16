@@ -25,7 +25,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quelli p
 ## Articolo unico.
 
 Il [comma 5 dell'art. 20 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 238](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20sullistruzione%20superiore.%20045U0238.md), e' sostituito dal seguente:
- "I professori riammessi in servizio ai sensi del presente articolo, sono assegnati ad altrettanti posti di ruolo istituiti transitoriamente in aggiunta a quelli stabiliti con la tabella D annessa al [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592) e successive modificazioni.
+ "I professori riammessi in servizio ai sensi del presente articolo, sono assegnati ad altrettanti posti di ruolo istituiti transitoriamente in aggiunta a quelli stabiliti con la tabella D annessa al [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md) e successive modificazioni.
  Tali posti saranno soppressi all'atto della cessazione dall servizio o del trasferimento ad altra universita' o ad altro istituto superiore dei titolari della materia relativa ai posti stessi".
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

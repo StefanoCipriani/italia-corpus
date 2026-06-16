@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la legge sul monopolio dei sali e dei tabacchi 17 luglio 1942, n. 907;
 
-Visto il [regio decreto 14 giugno 1941, n. 577](Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
+Visto il [regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -12,7 +12,7 @@ vigente: true
 
 E' istituita presso la R. Universita' di Napoli una cattedra di clinica delle malattrie tropicali. 
  
- La cattedra sara' conferita secondo le norme stabilite dal testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md). 
+ La cattedra sara' conferita secondo le norme stabilite dal testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md). 
  
  A tal fine e' aggiunto un posto di professore ordinario con lo stipendio di L. 7000 al ruolo dei professori di materie complementari delle RR. Universita' di cui alla tabella C annessa al testo unico predetto.
 

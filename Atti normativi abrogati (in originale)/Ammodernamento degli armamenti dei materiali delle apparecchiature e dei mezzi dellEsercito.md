@@ -35,7 +35,7 @@ Per assicurare l'efficienza operativa dell'Esercito, il Ministro per la difesa e
 Per l'attuazione dei programmi di cui all'articolo precedente, e' autorizzato:
  nell'esercizio finanziario 1977, uno stanziamento di lire 35 miliardi;
  in ciascuno degli esercizi finanziari dal 1978 al 1986, uno stanziamento di lire 120 miliardi, che potra' essere aumentato, con legge di approvazione del bilancio dello Stato, in relazione allo stato di attuazione dei singoli programmi o ad esigenze di indirizzi di programmazione militare interforze.
- Nei limiti delle autorizzazioni di spesa di cui al secondo alinea del precedente comma, il Ministro per la difesa e' autorizzato ad assumere impegni a carico degli esercizi 1978 e successivi, ai sensi dell'articolo 49 delle norme sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvate con [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni.
+ Nei limiti delle autorizzazioni di spesa di cui al secondo alinea del precedente comma, il Ministro per la difesa e' autorizzato ad assumere impegni a carico degli esercizi 1978 e successivi, ai sensi dell'articolo 49 delle norme sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvate con [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
 
 ## Art. 3.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'art. 3, n. 2. della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio e il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio e il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Ritenuta la necessita e l'urgenza di disporre la soppressione delle Borse merci, in quanto non piu' rispondenti alle necessita' del mercato nell'attuale ordinamento corporativo dell'economia nazionale;
 

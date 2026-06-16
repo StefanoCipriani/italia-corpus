@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive variazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato;
 
 Visto il [R. decreto 21 marzo 1930, n. 219](Approvazione%20dei%20ruoli%20dei%20personali%20finanziari%20in%20applicazione%20del%20R.%20decreto%209%20agosto%201929%20n.%201457.%20030U0219.md), col quale e' data facolta' al Ministro per le finanze di provvedere, con l'osservanza delle norme in vigore, al reclutamento del personale degli uffici finanziari;
 
@@ -296,7 +296,7 @@ Art. 30,
 
 ### Art. 31.
 
-Per l'ammissione ai concorsi nelle carriere dei ruoli di gruppo C del Ministero e delle Intendenze di finanza, delle Amministrazioni delle tasse sugli affari, delle imposte dirette, delle dogane ed imposte indirette, del catasto e dei servizi tecnici di finanza, nonche' dei ruoli di gruppo C degli uffici esterni del Tesoro e delle ragionerie delle Intendenze di finanza, e' richiesto il diploma di licenza da scuola media inferiore, od alcuno dei corrispondenti diplomi ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure il diploma di licenza da scuole secondarie di avviamento al lavoro, Regie o pareggiate. 
+Per l'ammissione ai concorsi nelle carriere dei ruoli di gruppo C del Ministero e delle Intendenze di finanza, delle Amministrazioni delle tasse sugli affari, delle imposte dirette, delle dogane ed imposte indirette, del catasto e dei servizi tecnici di finanza, nonche' dei ruoli di gruppo C degli uffici esterni del Tesoro e delle ragionerie delle Intendenze di finanza, e' richiesto il diploma di licenza da scuola media inferiore, od alcuno dei corrispondenti diplomi ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure il diploma di licenza da scuole secondarie di avviamento al lavoro, Regie o pareggiate. 
  
  Sono validi ai fini dell'ammissione ai concorsi suddetti i diplomi di licenza ginnasiale o tecnica e la licenza del triennio preparatorio delle scuole ed istituti commerciali, conseguiti ai termini dei precedenti ordinamenti scolastici. 
  
@@ -386,7 +386,7 @@ I vincitori del concorso sono assunti in servizio, a titolo di prova, con la qua
 
 ### Art. 39.
 
-Per l'ammissione al concorso nella carriera del ruolo di gruppo C delle ragionerie centrali i concorrenti debbono essere provvisti del diploma di scuola media inferiore o alcuno dei corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure del diploma di licenza da scuole secondarie di avviamento al lavoro, Regie o pareggiate. 
+Per l'ammissione al concorso nella carriera del ruolo di gruppo C delle ragionerie centrali i concorrenti debbono essere provvisti del diploma di scuola media inferiore o alcuno dei corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure del diploma di licenza da scuole secondarie di avviamento al lavoro, Regie o pareggiate. 
  
  Sono altresi' validi i diplomi di licenza ginnasiale o tecnica o la licenza del triennio preparatorio delle scuole od istituti commerciali, conseguiti ai termini dei precedenti ordinamenti scolastici. 
  

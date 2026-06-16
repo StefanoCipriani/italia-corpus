@@ -53,7 +53,7 @@ I ruoli del personale di cui al secondo comma del precedente art. 2 sono stabili
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 4.
 
@@ -156,7 +156,7 @@ Sono regolate da disposizioni speciali secondo i rispettivi ordinamenti e salve 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 15.
 
@@ -170,9 +170,9 @@ L'ammissione nei ruoli del personale civile dei tre gruppi di cui all'art. 2 del
  
  a) il diploma di laurea o titolo equipollente rilasciato da universita' o da altri istituti d'istruzione superiore, per il gruppo A; 
  
- b) il diploma di licenza da istituto medio di secondo grado o alcuno dei corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure la licenza da istituti di istruzione professionale di terzo grado, per il gruppo B; 
+ b) il diploma di licenza da istituto medio di secondo grado o alcuno dei corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure la licenza da istituti di istruzione professionale di terzo grado, per il gruppo B; 
  
- c) il diploma di licenza da scuola media inferiore o alcuno dei corrispondenti diplomi, ai termini del [Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure la licenza da scuola complementare o da scuola professionale di secondo grado, per il gruppo C. 
+ c) il diploma di licenza da scuola media inferiore o alcuno dei corrispondenti diplomi, ai termini del [Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure la licenza da scuola complementare o da scuola professionale di secondo grado, per il gruppo C. 
  
  Gli ordinamenti delle singole amministrazioni stabiliscono, quando occorra, la speciale facolta' o il corso d'istruzione cui debbono riferirsi i diplomi indicati nel precedente comma. 
  
@@ -199,7 +199,7 @@ Il personale ammesso all'impiego non puo' conseguire la nomina al grado iniziale
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 18.
 
@@ -298,7 +298,7 @@ Gli stipendi e le paghe dei sottufficiali e dei militari di truppa del Regio ese
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 27.
 
@@ -325,7 +325,7 @@ I singoli Ministri possono affidare speciali studi interessanti i servizi da ess
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 32.
 
@@ -356,7 +356,7 @@ Il personale civile avente grado cui era assegnato stipendio massimo inferiore a
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 35.
 
@@ -409,7 +409,7 @@ Nella prima attuazione ed entro tre anni dall'entrata in vigore del presente dec
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 45.
 
@@ -420,7 +420,7 @@ Nella prima attuazione del presente decreto i posti che risultino disponibili ne
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 46.
 
@@ -471,7 +471,7 @@ I funzionari che vengano promossi al grado settimo in applicazione del precedent
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 52.
 
@@ -487,17 +487,17 @@ Capo III.
 
 ### Art. 53.
 
-Per le promozioni dal grado sesto al grado quinto nel ruolo delle ragionerie centrali, vale la norma stabilita dall'[art. 24, comma primo, del R. decreto 25 marzo 1923, numero 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_24-com1).
+Per le promozioni dal grado sesto al grado quinto nel ruolo delle ragionerie centrali, vale la norma stabilita dall'[art. 24, comma primo, del R. decreto 25 marzo 1923, numero 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md).
 
 ### Art. 54.
 
-Le [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_23-leta) e [b) dell'art. 23 del R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_23-letb), sono modificate come segue: 
+Le [lettere a)](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md) e [b) dell'art. 23 del R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), sono modificate come segue: 
  
  «a) del ragioniere generale dello Stato, o, in sua vece, dell'ispettore generale; 
  
  «b) di due direttori capi di ragioneria appartenenti al grado quinto del ruolo delle ragionerie centrali designati di anno in anno con decreto del Ministro per le finanze». 
  
- I membri supplenti di cui al secondo comma del citato [articolo 23 del R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_23), debbono appartenere anche essi al grado quinto. 
+ I membri supplenti di cui al secondo comma del citato [articolo 23 del R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), debbono appartenere anche essi al grado quinto. 
  
  Agli effetti di servizio e disciplinari il direttore capo di ragioneria delle amministrazioni centrali e' superiore al capo divisione.
 
@@ -515,9 +515,9 @@ Gli intendenti di finanza di prima classe non possono essere destinati a prestar
 
 ### Art. 57.
 
-Sono abrogate le disposizioni dei [Regi decreti 18 gennaio 1923, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;112), e [25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), relative alla fusione in un unico ruolo del personale di ragioneria delle intendenze di finanza e di quello delle delegazioni del tesoro e di gestione e di controllo. 
+Sono abrogate le disposizioni dei [Regi decreti 18 gennaio 1923, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-18;112), e [25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), relative alla fusione in un unico ruolo del personale di ragioneria delle intendenze di finanza e di quello delle delegazioni del tesoro e di gestione e di controllo. 
  
- E' pure abrogato l'articolo 27 del citato [R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599).
+ E' pure abrogato l'articolo 27 del citato [R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md).
 
 ### Art. 58.
 
@@ -526,7 +526,7 @@ Il grado di consigliere della Corte dei conti e' conferito, per un terzo dei pos
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 59.
 
@@ -581,7 +581,7 @@ Tale anzianita', per i gradi corrispondenti a quelli in vigore nel precedente si
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 63.
 
@@ -594,7 +594,7 @@ I posti disponibili nel grado iniziale del nuovo ruolo organico del personale am
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 64.
 
@@ -604,7 +604,7 @@ I direttori capi di ragioneria delle amministrazioni centrali, in servizio alla 
 
 ### Art. 65.
 
-I passaggi nel ruolo di concetto delle ragionerie delle amministrazioni centrali, secondo le norme di cui agli [articoli 47](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md) e [53 del Regio decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md) e al [secondo comma dell'art. 22 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_22-com2), sono consentiti per il personale dipendente dal Ministero delle finanze che, ai termini del presente decreto, appartenga a ruoli non compresi nel gruppo A. 
+I passaggi nel ruolo di concetto delle ragionerie delle amministrazioni centrali, secondo le norme di cui agli [articoli 47](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md) e [53 del Regio decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md) e al [secondo comma dell'art. 22 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), sono consentiti per il personale dipendente dal Ministero delle finanze che, ai termini del presente decreto, appartenga a ruoli non compresi nel gruppo A. 
  
  Tale disposizione si applica anche al personale del ruolo transitorio di cui alla tabella n. 2 dell'allegato II. 
  
@@ -615,11 +615,11 @@ I passaggi nel ruolo di concetto delle ragionerie delle amministrazioni centrali
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 66.
 
-Gli impiegati trasferiti al grado iniziale ai sensi dell'[articolo 19 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_19), sono collocati nel ruolo stabilito col presente decreto per il personale di concetto delle ragionerie centrali, al grado loro spettante, ai termini delle disposizioni contenute nel precedente Capo II, in relazione al grado da essi ricoperto alla data del trasferimento. 
+Gli impiegati trasferiti al grado iniziale ai sensi dell'[articolo 19 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), sono collocati nel ruolo stabilito col presente decreto per il personale di concetto delle ragionerie centrali, al grado loro spettante, ai termini delle disposizioni contenute nel precedente Capo II, in relazione al grado da essi ricoperto alla data del trasferimento. 
  
  Il servizio prestato dopo l'applicazione del citato art. 19 e', ad ogni effetto, considerato come trascorso in quest'ultimo grado. 
  
@@ -644,7 +644,7 @@ Sono collocati nel ruolo tecnico speciale del provveditorato generale dello Stat
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 69.
 
@@ -715,7 +715,7 @@ Gli uditori giudiziari percepiscono, in luogo dello stipendio e del supplemento 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 77.
 
@@ -795,7 +795,7 @@ Ferme le disposizioni dell'[articolo 24 del Regio decreto 30 settembre 1922, n. 
 
 ### Art. 90.
 
-Nella prima attuazione del presente decreto possono, su designazione del Consiglio di amministrazione, essere collocati nel ruolo amministrativo del Ministero delle colonie, ai gradi equiparati a quelli cui dovrebbero essere assegnati nel ruolo cui appartengono, i funzionari di ragioneria dell'amministrazione coloniale, passati nel ruolo unico delle ragionerie centrali, di cui ai [Regi decreti 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), e [14 giugno 1923, n. 1300](Che%20modifica%20il%20R.%20decreto%2025%20marzo%201923%20n.%20599%20concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alle%20dipendenze%20del%20Minis_11dd6b1d788b.md), che abbiano prestato o prestino servizio nell'amministrazione coloniale con funzioni amministrative o politiche. 
+Nella prima attuazione del presente decreto possono, su designazione del Consiglio di amministrazione, essere collocati nel ruolo amministrativo del Ministero delle colonie, ai gradi equiparati a quelli cui dovrebbero essere assegnati nel ruolo cui appartengono, i funzionari di ragioneria dell'amministrazione coloniale, passati nel ruolo unico delle ragionerie centrali, di cui ai [Regi decreti 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e [14 giugno 1923, n. 1300](Che%20modifica%20il%20R.%20decreto%2025%20marzo%201923%20n.%20599%20concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alle%20dipendenze%20del%20Minis_11dd6b1d788b.md), che abbiano prestato o prestino servizio nell'amministrazione coloniale con funzioni amministrative o politiche. 
  
  Il disposto del precedente comma non puo' essere applicato a piu' di dieci funzionari, ed i gradi ai quali questi verranno assegnati non possono essere superiori al grado ottavo. 
  
@@ -827,7 +827,7 @@ I professori stabili dei Regi istituti superiori di magistero conseguono il grad
 
 I professori ordinari di scuole medie, se di ruolo, A conseguono l'ottavo grado dopo dodici anni di permanenza nel grado nono; se di ruolo B sono promossi al grado nono dopo dieci anni di permanenza nel decimo; se di ruolo C sono promossi al grado decimo dopo undici anni di permanenza nell'undecino. 
  
- Restano in vigore le disposizioni di cui al terzo e al [quarto comma dell'art. 9 del Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_9-com4).
+ Restano in vigore le disposizioni di cui al terzo e al [quarto comma dell'art. 9 del Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 95.
 
@@ -850,7 +850,7 @@ All'atto dell'applicazione del presente decreto i professori ordinari delle Regi
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 98.
 
@@ -871,7 +871,7 @@ Qualora, a giudizio del consiglio di amministrazione, niuno fra i medici provinc
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 100.
 
@@ -928,7 +928,7 @@ Nella prima attuazione del presente decreto il posto di ispettore generale medic
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 109.
 
@@ -945,7 +945,7 @@ Il ruolo d'ordine speciale dei laboratori della sanita' pubblica e' soppresso. G
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 111.
 
@@ -962,7 +962,7 @@ Sono collocati nel grado decimo del ruolo degli ufficiali di pubblica sicurezza 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Disposizioni transitorie.
 
@@ -993,7 +993,7 @@ Per l'ammissione nei ruoli del personale dei servizi postali ed elettrici valgon
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 114.
 
@@ -1036,7 +1036,7 @@ Agli effetti del collocamento del personale nei ruoli unificati di cui al preced
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 119.
 
@@ -1067,7 +1067,7 @@ Nella prima attuazione del presente decreto, per il conferimento dei posti nel r
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 121.
 
@@ -1088,7 +1088,7 @@ Per il primo collocamento del personale dei servizi postali ed elettrici nel ruo
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 122.
 
@@ -1110,7 +1110,7 @@ Detti ufficiali sono collocati allo stipendio immediatamente superiore a quello 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 123.
 
@@ -1123,7 +1123,7 @@ Per il primo collocamento nel ruolo del personale subalterno e di manutenzione d
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 124.
 
@@ -1140,7 +1140,7 @@ L'attuale direttore dell'Istituto superiore postale, telegrafico e telefonico co
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 127.
 
@@ -1151,7 +1151,7 @@ L'assegno a favore del personale dei servizi postali ed elettrici di cui al [com
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 128.
 
@@ -1180,7 +1180,7 @@ Nei primi tre anni dall'entrata in vigore del presente decreto, i tre quarti dei
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 132.
 
@@ -1193,7 +1193,7 @@ Gli impiegati, collocati ai termini dei precedenti. articoli 121 lettera d) e 12
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 133.
 
@@ -1210,7 +1210,7 @@ Sono nominati ufficiali, con decorrenza dal 16 novembre 1923, in base ad unica g
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifiche da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md) e del [Regio D.L. 6 novembre 1924, n. 2090](Modificazione%20dellart.%20133%20comma%20primo%20lettera%20a%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20modificato%20dallarticolo%2093%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203084%20relativo%20allordinamento%20gerarch_6d91532c73f4.md), convertito senza modificazioni dalla [L. 20 dicembre 1925, n. 2348](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%206%20novembre%201924%20n.%202090%20che%20reca%20modificazioni%20all%20art.%20133%20comma%201%20lettera%20a%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20modificato%20dallart.%2093%20de_2d206aebd1ee.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifiche da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md) e del [Regio D.L. 6 novembre 1924, n. 2090](Modificazione%20dellart.%20133%20comma%20primo%20lettera%20a%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20modificato%20dallarticolo%2093%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203084%20relativo%20allordinamento%20gerarch_6d91532c73f4.md), convertito senza modificazioni dalla [L. 20 dicembre 1925, n. 2348](Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%206%20novembre%201924%20n.%202090%20che%20reca%20modificazioni%20all%20art.%20133%20comma%201%20lettera%20a%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20modificato%20dallart.%2093%20de_2d206aebd1ee.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 134.
 
@@ -1257,7 +1257,7 @@ Nel ruolo del personale d'ordine delle amministrazioni militari di cui alla tabe
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 141.
 
@@ -1276,7 +1276,7 @@ Dopo l'entrata in vigore del presente decreto, possono, su domanda, essere nomin
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 144.
 
@@ -1430,7 +1430,7 @@ Agli effetti degli aumenti periodici degli stipendi, l'anzianita' di grado per g
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 157.
 
@@ -1449,7 +1449,7 @@ I maestri direttori di banda ed i sottotenenti maestri di scherma del Regio eser
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 158.
 
@@ -1511,7 +1511,7 @@ I posti che si renderanno vacanti nel grado iniziale di ogni carriera delle vari
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 163.
 
@@ -1568,7 +1568,7 @@ Le nomine di cui al precedente art. 169 sono conferite a quelli tra gli invalidi
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Indennità e competenze speciali. Indennità e competenze al personale militare.
 
@@ -1812,7 +1812,7 @@ Per gli ufficiali del Regio esercito, della Regia marina, delle Capitanerie di p
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 178.
 
@@ -1843,7 +1843,7 @@ Il rimborso delle spese di viaggio in prima classe e il compenso di lire una per
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 181.
 
@@ -1989,7 +1989,7 @@ Salve le concessioni regolate o confermate espressamente dal presente decreto, s
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Disposizioni finali.
 
@@ -2020,7 +2020,7 @@ La concessione degli aumenti sessennali del decimo sullo stipendio s'intende sop
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 193.
 
@@ -2063,7 +2063,7 @@ All'esame di cui alla lettera b) dell'articolo 53 del R. decreto 30 settembre 19
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 200.
 
@@ -2077,7 +2077,7 @@ Detti posti possono essere conferiti successivamente, con le modalita' medesime,
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 201.
 
@@ -2096,7 +2096,7 @@ Entro i limiti dei posti disponibili nell'ultimo grado dei ruoli dei personali a
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 203.
 
@@ -2125,7 +2125,7 @@ E' fatto divieto alle Amministrazioni dello Stato di assumere sotto qualsiasi fo
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 208.
 

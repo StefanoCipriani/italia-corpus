@@ -30,13 +30,13 @@ Fino a quando non sia stabilita la data di cui all'[art. 3, lettera b), del R. d
 
 ## Art. 2.
 
-Nei ruoli dell'Amministrazione dell'interno e' istituito - al quarto grado del gruppo A, giusta l'allegato I al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) - un posto di segretario generale del Governatorato di Roma. 
+Nei ruoli dell'Amministrazione dell'interno e' istituito - al quarto grado del gruppo A, giusta l'allegato I al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) - un posto di segretario generale del Governatorato di Roma. 
  
  Se al detto posto sia nominato un funzionario che gia' appartenga all'Amministrazione dello Stato, esso sara' messo fuori del ruolo di provenienza nel quale rientrera', al cessare delle sue funzioni presso il Governatorato, in soprannumero, qualora manchino posti vacanti di organico al momento della sua riammissione in ruolo: e cio', nonostante qualsiasi disposizione in contrario. 
  
  Nulla e' innovato, nei riguardi del segretario generale del Governatorato di Roma, a quanto e' disposto dall'art. 169 della legge comunale e provinciale ([testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148)). 
  
- Al segretario generale del Governatorato di Roma vengono estese, in quanto siano applicabili, le disposizioni del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), del [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e del [R. decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960). 
+ Al segretario generale del Governatorato di Roma vengono estese, in quanto siano applicabili, le disposizioni del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), del [R. decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), e del [R. decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Il segretario generale del Governatorato di Roma, prima di entrare in funzioni, presta, dinanzi al Ministro per l'interno, il giuramento prescritto dall'art. 150 della legge comunale e provinciale ([testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148)).
 

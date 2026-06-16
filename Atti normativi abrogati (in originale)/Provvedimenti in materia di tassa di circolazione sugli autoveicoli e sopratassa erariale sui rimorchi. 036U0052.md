@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvata la legge tributaria automobilistica: 
+ Visto il [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvata la legge tributaria automobilistica: 
  
  Visto il [R. decreto-legge 26 settembre 1933, n. 1237](Provvedimenti%20per%20le%20tasse%20automobilistiche.%20033U1237.md), convertito nella [legge 1° marzo 1934, n. 638](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201933%20n.%201237%20recante%20provvedimenti%20a%20favore%20dellindustria%20automobilistica.%20034U0638.md); 
  

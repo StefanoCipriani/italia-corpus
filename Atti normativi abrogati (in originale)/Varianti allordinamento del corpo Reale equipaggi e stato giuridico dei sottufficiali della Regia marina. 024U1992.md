@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto in data 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), ([n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-21;1523) di pubblicazione nella Gazzetta Ufficiale);
+Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo Reale equipaggi e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto in data 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), ([n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-21;1523) di pubblicazione nella Gazzetta Ufficiale);
 
 Udito il Consiglio superiore di marina, il quale ha dato parere in massima favorevole;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro per la marina di concerto con quello per le f
 
 ## Art. 1.
 
-Al testo unico delle disposizioni legislative riguardanti l'ordinamento del corpo Reale equipaggi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto in data 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), sono apportate le modificazioni di cui agli articoli seguenti.
+Al testo unico delle disposizioni legislative riguardanti l'ordinamento del corpo Reale equipaggi e stato giuridico dei sottufficiali della Regia marina approvato con [R. decreto in data 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), sono apportate le modificazioni di cui agli articoli seguenti.
 
 ## Art. 2.
 

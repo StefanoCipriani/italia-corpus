@@ -105,7 +105,7 @@ Il presidente del Magistrato alle acque provvede alla approvazione dei progetti 
 
 ### Art. 14.
 
-I poteri attribuiti al Ministro per i lavori pubblici dagli art. 75, 76, 77, 79, 81 e 85 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modificazioni ed integrazioni, sono devoluti ai provveditori alle opere pubbliche senza alcun limite di importo.
+I poteri attribuiti al Ministro per i lavori pubblici dagli art. 75, 76, 77, 79, 81 e 85 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e successive modificazioni ed integrazioni, sono devoluti ai provveditori alle opere pubbliche senza alcun limite di importo.
  I compiti attribuiti dagli articoli citati alla Commissione di vigilanza per l'edilizia popolare ed economica sono devoluti ai Comitati tecnico amministrativi.
  Resta fermo quanto disposto dall'[art. 7, terzo comma del decreto del Presidente della Repubblica 30 giugno 1955, n. 1534](Decentramento%20dei%20servizi%20del%20Ministero%20dei%20lavori%20pubblici.md).
 
@@ -211,7 +211,7 @@ E' autorizzata la spesa di lire 2.500.000.000 per la esecuzione, nel territorio 
 
 ### Art. 33.
 
-E' autorizzata la spesa di lire 18 miliardi per l'attuazione di opere pubbliche di bonifica previste dal [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215) e successive modificazioni ed integrazioni, nonche' per gli scopi di cui all'[articolo 26 della legge 2 giugno 1961, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_26).
+E' autorizzata la spesa di lire 18 miliardi per l'attuazione di opere pubbliche di bonifica previste dal [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) e successive modificazioni ed integrazioni, nonche' per gli scopi di cui all'[articolo 26 della legge 2 giugno 1961, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_26).
  La somma di cui al precedente comma e' utilizzata, in misura non inferiore ad un terzo, per l'esecuzione delle opere irrigue previste dagli [articoli 1](Attuazione%20di%20un%20programma%20straordinario%20di%20opere%20irrigue%20e%20di%20colonizzazione.md) e [2 della legge 10 novembre 1954, n. 1087](Attuazione%20di%20un%20programma%20straordinario%20di%20opere%20irrigue%20e%20di%20colonizzazione.md).
  Con decreto del Ministro per l'agricoltura, e per la foreste saranno determinate le somma da destinare rispettivamente agli scopi di cui ai precitati articoli.
  Per l'esecuzione delle opere finanziate con i fondi di cui al primo comma si applicano le disposizioni degli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_24) e [26 della legge 2 giugno 1961, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_26), in tutti i territori classificati comprensori di bonifica.
@@ -281,7 +281,7 @@ I fabbricati di nuova costruzione destinati ad uso di abitazione non di lusso, a
 
 ### Art. 44.
 
-Fino al 31 dicembre 1966, l'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di fabbricati e di aree destinati alla costruzione edilizia, situati nel territorio nazionale, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa, allegato A, al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e successive modificazioni, e' dovuta nella misura di lire quattro per ogni cento lire.
+Fino al 31 dicembre 1966, l'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di fabbricati e di aree destinati alla costruzione edilizia, situati nel territorio nazionale, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa, allegato A, al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e successive modificazioni, e' dovuta nella misura di lire quattro per ogni cento lire.
  I trasferimenti dei beni indicati nel primo comma, che avvengano nel termine ivi fissato ed entro tre anni da altro trasferimento a titolo oneroso, sul quale sia stata pagata l'imposta normale, sono soggetti alla stessa imposta di cui al comma precedente ridotta di un quarto, fino a concorrenza del valore precedentemente tassato.
  Sui trasferimenti successivi alla data del 31 dicembre 1966, che avvengano entro tre anni da altro trasferimento degli stessi beni indicati nel primo comma, la riduzione del quarto si applica con riferimento alla aliquota normale del 7,50 per cento.
  Per i trasferimenti immobiliari di cui all'[art. 17 della, legge 2 luglio 1949, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-02;408#art_17), l'imposta di registro e' dovuta in ragione di lire 1,50 per cento.
@@ -293,7 +293,7 @@ La riduzione a quattro quinti della misura normale dell'imposta comunale di cons
 
 ### Art. 46.
 
-Ai lavoratori che cesseranno dal lavoro entro il 1 luglio 1965 e aventi diritto all'indennita' giornaliera di disoccupazione, competono, per la durata in cui e' corrisposta, detta indennita', e in luogo delle maggiorazioni di cui all'[art. 1 della legge 20 ottobre 1960, numero 1237](Disposizioni%20in%20materia%20di%20prestazioni%20per%20la%20disoccupazione%20involontaria.md), gli assegni familiari di cui al testo unico approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni.
+Ai lavoratori che cesseranno dal lavoro entro il 1 luglio 1965 e aventi diritto all'indennita' giornaliera di disoccupazione, competono, per la durata in cui e' corrisposta, detta indennita', e in luogo delle maggiorazioni di cui all'[art. 1 della legge 20 ottobre 1960, numero 1237](Disposizioni%20in%20materia%20di%20prestazioni%20per%20la%20disoccupazione%20involontaria.md), gli assegni familiari di cui al testo unico approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni.
  Detti assegni sono corrisposti a carico della Cassa unica per gli assegni familiari, osservando, in quanto applicabile, la disposizione di cui al terzo comma dell'art. 14 del testo unico delle norme sugli assegni familiari soprarichiamato.
  La disposizione di cui al primo comma si applica anche a coloro che, essendo cessati dal lavoro anteriormente alla data di entrata in vigore del presente decreto, siano in continuita' di disoccupazione.
 In tal caso gli assegni familiari sono corrisposti per il periodo residuo di godimento dell'indennita' di disoccupazione.

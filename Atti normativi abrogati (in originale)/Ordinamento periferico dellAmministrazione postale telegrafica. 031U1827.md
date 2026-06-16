@@ -20,7 +20,7 @@ Visto il decreto Ministeriale 25 luglio 1925, che stabilisce la classificazione 
 
 Visto il [R. decreto 4 settembre 1925, n. 1729](Suddivisione%20in%20reparti%20delle%20Direzioni%20provinciali%20delle%20poste%20e%20dei%20telegrafi%20a%20seconda%20della%20classe%20cui%20appartengono.%20025U1729.md), che stabilisce la suddivisione in reparti delle Direzioni provinciali delle poste e dei telegrafi, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e successive modificazioni;
 
 Visto il [R. decreto 1° luglio 1925, n. 1424](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-01;1424);
 

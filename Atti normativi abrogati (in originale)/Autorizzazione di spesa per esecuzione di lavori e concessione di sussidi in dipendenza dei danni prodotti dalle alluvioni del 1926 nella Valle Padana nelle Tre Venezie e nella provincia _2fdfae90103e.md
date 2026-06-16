@@ -92,7 +92,7 @@ Tutti gli atti relativi alla concessione dei sussidi di cui alla lettera b) del 
 
 ## Art. 9.
 
-Le domande per la concessione dei sussidi di cui alle lettere c), d), e) n. 1, dell'art. 1 dovranno essere presentate entro sei mesi dalla pubblicazione del presente decreto e dovranno essere documentate e istruite ai sensi del regolamento approvato con [R. decreto 23 ottobre 1904, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-10-23;625).
+Le domande per la concessione dei sussidi di cui alle lettere c), d), e) n. 1, dell'art. 1 dovranno essere presentate entro sei mesi dalla pubblicazione del presente decreto e dovranno essere documentate e istruite ai sensi del regolamento approvato con [R. decreto 23 ottobre 1904, n. 625](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20concessione%20di%20sussidi%20pei%20lavori%20di%20difesa%20delle%20strade%20provinciali%20e%20comunali%20e%20degli%20abitati%20contro%20le%20frane%20e%20le%20corrosioni%20dei%20fiumi%20e%20to_caca810c91db.md).
 
 ## Art. 10.
 

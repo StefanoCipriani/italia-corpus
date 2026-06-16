@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del R. esercito, approvato con [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del R. esercito, approvato con [R. decreto 21 marzo 1929, n. 629](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
 
 Visto il [R. decreto 1° marzo 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-01;726), sull'ordinamento delle Scuole militari, e successive modificazioni;
 
-Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e successive modificazioni;
+Visto il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi per il Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e successive modificazioni;
 
-Visto il [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che approva il regolamento per le indennita' eventuali del Regio esercito, e successive modificazioni;
+Visto il [R. decreto 19 aprile 1907, n. 201](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md), che approva il regolamento per le indennita' eventuali del Regio esercito, e successive modificazioni;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Visto il regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [R. decreto 10 febbraio 1927, n. 443](Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20027U0443.md);
 

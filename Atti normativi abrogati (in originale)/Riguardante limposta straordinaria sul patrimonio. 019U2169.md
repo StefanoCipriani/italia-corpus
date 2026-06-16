@@ -539,7 +539,7 @@ L'azione della finanza per la rettifica delle dichiarazioni presentate dai contr
 
 ### Art. 55.
 
-I funzionari dell'Amministrazione delle imposte, i componenti dei Collegi giudicanti, e tutti coloro che, secondo le rispettive attribuzioni, intervengono nell'accertamento, nell'applicazione e nella riscossione dell'imposta, sono tenuti al segreto professionale a termini dell'[articolo 177 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e sono passibili delle pene comminate dall'articolo medesimo.
+I funzionari dell'Amministrazione delle imposte, i componenti dei Collegi giudicanti, e tutti coloro che, secondo le rispettive attribuzioni, intervengono nell'accertamento, nell'applicazione e nella riscossione dell'imposta, sono tenuti al segreto professionale a termini dell'[articolo 177 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e sono passibili delle pene comminate dall'articolo medesimo.
 
 ### Art. 56.
 

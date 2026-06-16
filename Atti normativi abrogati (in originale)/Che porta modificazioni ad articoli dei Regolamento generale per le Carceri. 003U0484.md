@@ -14,13 +14,13 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge del 22 novembre 1888, n. 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (Serie 3ª), con la quale il Governo del Re fu autorizzato a pubblicare il nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pel Regno d' Italia ed a fare per R. decreto le disposizioni transitorie e le altre necessarie per l'attuazione del Codice stesso;
+Vista la [legge del 22 novembre 1888, n. 5801](Con%20la%20quale%20il%20Governo%20del%20Re%20e%20autorizzato%20a%20pubblicare%20lallegato%20Codice%20penale%20per%20il%20Regno%20dItalia.%20088U5801.md) (Serie 3ª), con la quale il Governo del Re fu autorizzato a pubblicare il nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pel Regno d' Italia ed a fare per R. decreto le disposizioni transitorie e le altre necessarie per l'attuazione del Codice stesso;
 
-Visto il [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md) (Serie 3ª), col quale fu approvato e fu data esecuzione al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) predetto;
+Visto il [R. decreto 30 giugno 1889, n. 6133](Che%20approva%20il%20testo%20definitivo%20del%20Codice%20penale%20per%20il%20Regno.%20089U6133.md) (Serie 3ª), col quale fu approvato e fu data esecuzione al [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) predetto;
 
 Vista la legge sulla riforma penitenziaria del 14 luglio 1889, n. 6165 (Serie 3ª);
 
-Visto il [R. decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md) (Serie 3ª), col quale si approvano le norme relative alla attuazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Visto il [R. decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md) (Serie 3ª), col quale si approvano le norme relative alla attuazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri, di concerto col Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari della Grazia e Giustizia e dei Culti;
 
@@ -124,7 +124,7 @@ E' considerato recidivo in infrazioni disciplinari il detenuto che, essendo gia'
 
 ### Art. 11. — Punizioni ai recidivi in condanna
 
-Ai condannati recidivi ai termini degli [articoli 80](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [81](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [84 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (1), le punizioni disciplinari non possono mai essere applicate nel minimo della durata stabilita. 
+Ai condannati recidivi ai termini degli [articoli 80](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [81](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [84 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (1), le punizioni disciplinari non possono mai essere applicate nel minimo della durata stabilita. 
  
  --------------------- 
  
@@ -327,11 +327,11 @@ aggravata
 
 Al suo entrare in uno Stabilimento di pena il condannato e' sottoposto al regime della segregazione cellulare continua se deve scontare la pena dell'ergastolo o della reclusione, ed a quello della segregazione cellulare notturna se deve scontare la pena della detenzione o dell'arresto. 
  
- La sesta parte della pena che i condannati alla reclusione scontano in segregazione cellulare continua si calcola sulla totalita' della pena stessa secondo l'[articolo 13 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), detratta soltanto la parte condonata, se ve ne fu. 
+ La sesta parte della pena che i condannati alla reclusione scontano in segregazione cellulare continua si calcola sulla totalita' della pena stessa secondo l'[articolo 13 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), detratta soltanto la parte condonata, se ve ne fu. 
  
  Il periodo suddetto decorre dal giorno in cui la sentenza di condanna e' divenuta irrevocabile, anche se il condannato sia rimasto dopo quella data, per altro tempo, nel Carcere giudiziario, a qualsiasi regime. 
  
- Terminato, a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e della sentenza di condanna, questo primo periodo, il condannato all'ergastolo o alla reclusione passa al regime della segregazione cellulare notturna.
+ Terminato, a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e della sentenza di condanna, questo primo periodo, il condannato all'ergastolo o alla reclusione passa al regime della segregazione cellulare notturna.
 
 ### Art. 29. — Classificazione dei condannati nella espiazione del secondo periodo
 
@@ -359,7 +359,7 @@ Il termine dei passaggi dalla prima alla seconda classe puo' essere accorciato f
 
 ### Art. 35. — Prolungamento dei termini di permanenza nelle classi ai recidivi in condanna
 
-Pei recidivi in condanna, ai termini degli [articoli 80](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [81](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [84 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), i periodi di permanenza nelle classi prima e seconda vengono aumentati della meta'.
+Pei recidivi in condanna, ai termini degli [articoli 80](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [81](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [84 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), i periodi di permanenza nelle classi prima e seconda vengono aumentati della meta'.
 
 ### Art. 36. — Ricompense ai condannati negli Stabilimenti di pena ordinari
 

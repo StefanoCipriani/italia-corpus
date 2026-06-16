@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti i [decreti Luogotenenziali 24 giugno 1915, numero 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;903), e [27 giugno 1915, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;1034);
 
-Visti i [Regi decreti 11 settembre 1919, n. 1736](Che%20abroga%20il%20decreto%20Luogotenenziale%2024%20giugno%201915%20n.%20903%20contenente%20disposizioni%20relative%20al%20matrimonio%20dei%20militari%20durante%20la%20guerra.%20019U1736.md), e [4 novembre 1919, n. 2268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-04;2268);
+Visti i [Regi decreti 11 settembre 1919, n. 1736](../Regi%20decreti/Che%20abroga%20il%20decreto%20Luogotenenziale%2024%20giugno%201915%20n.%20903%20contenente%20disposizioni%20relative%20al%20matrimonio%20dei%20militari%20durante%20la%20guerra.%20019U1736.md), e [4 novembre 1919, n. 2268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-04;2268);
 
 Udito il Consiglio dei ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari della guer
 
 ## Articolo unico.
 
-Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;903#art_1) e [2 del decreto Luogotenenziale 24 giugno 1915, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;903#art_2), contenente disposizioni relative al matrimonio dei militari durante la guerra, restano abrogati, conformemente alle disposizioni del [R. decreto 11 settembre 1919, n. 1736](Che%20abroga%20il%20decreto%20Luogotenenziale%2024%20giugno%201915%20n.%20903%20contenente%20disposizioni%20relative%20al%20matrimonio%20dei%20militari%20durante%20la%20guerra.%20019U1736.md). 
+Gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;903#art_1) e [2 del decreto Luogotenenziale 24 giugno 1915, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-24;903#art_2), contenente disposizioni relative al matrimonio dei militari durante la guerra, restano abrogati, conformemente alle disposizioni del [R. decreto 11 settembre 1919, n. 1736](../Regi%20decreti/Che%20abroga%20il%20decreto%20Luogotenenziale%2024%20giugno%201915%20n.%20903%20contenente%20disposizioni%20relative%20al%20matrimonio%20dei%20militari%20durante%20la%20guerra.%20019U1736.md). 
  
  La disposizione contenuta nell'art. 3 del detto decreto Luogotenenziale, potra' ancora essere applicata a quelli ufficiali del R. esercito e della R. marina che hanno presentato o presenteranno la domanda per il Regio assentimento al matrimonio entro 31 ottobre 1920. 
  

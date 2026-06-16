@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive estensioni e modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,11 +22,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze di concert
 
 ## Art. 1.
 
-I ruoli del personale delle imposte dirette di cui alla tabella n. 10 dell'allegato II ai [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli contenuti nella tabella n. 1, allegata al presente decreto, vista, d'ordine Nostro, dal Ministro per le finanze.
+I ruoli del personale delle imposte dirette di cui alla tabella n. 10 dell'allegato II ai [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli contenuti nella tabella n. 1, allegata al presente decreto, vista, d'ordine Nostro, dal Ministro per le finanze.
 
 ## Art. 2.
 
-I posti di ruoli stabiliti dalla tabella n. 10 di cui all'allegato IV al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per le visitatrici delle dogane e del dazio consumo, sono soppressi. 
+I posti di ruoli stabiliti dalla tabella n. 10 di cui all'allegato IV al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per le visitatrici delle dogane e del dazio consumo, sono soppressi. 
  
  Restano conseguentemente soppresse, nella tabella n. 2 di cui all'allegato V al predetto decreto, le indicazioni relative al trattamento economico delle visitatrici stesse. 
  
@@ -36,15 +36,15 @@ I posti di ruoli stabiliti dalla tabella n. 10 di cui all'allegato IV al [R. dec
 
 ## Art. 3.
 
-Le disposizioni dell'[art. 32 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), si applicano anche al ruolo degli ufficiali di ragioneria delle Intendenze di finanza per tanti posti di ufficiali capo quanti erano i commissari di verificazione del lotto prima della fusione del relativo ruolo con quello degli ufficiali di ragioneria.
+Le disposizioni dell'[art. 32 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), si applicano anche al ruolo degli ufficiali di ragioneria delle Intendenze di finanza per tanti posti di ufficiali capo quanti erano i commissari di verificazione del lotto prima della fusione del relativo ruolo con quello degli ufficiali di ragioneria.
 
 ## Art. 4.
 
-I ruoli dei personali di custodia delle opere idrauliche e delle bonifiche, di cui alla tabella n. 50 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli contenuti nella tabella n. 2, allegata al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti.
+I ruoli dei personali di custodia delle opere idrauliche e delle bonifiche, di cui alla tabella n. 50 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono sostituiti da quelli contenuti nella tabella n. 2, allegata al presente decreto, vista, d'ordine Nostro, dai Ministri proponenti.
 
 ## Art. 5.
 
-Il ruolo del personale tecnico delle opere idrauliche e delle bonifiche, di cui alla tabella n. 50 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' soppresso.
+Il ruolo del personale tecnico delle opere idrauliche e delle bonifiche, di cui alla tabella n. 50 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' soppresso.
 
 ## Art. 6.
 
@@ -54,7 +54,7 @@ Gli attuali capi meccanici e sotto capi meccanici appartenenti al ruolo di cui a
 
 ## Art. 7.
 
-Il personale di custodia delle opere idrauliche e delle bonifiche attualmente in servizio, che risulti in eccedenza nei singoli gradi dei ruoli, di cui alla tabella n. 50, dell'all. II al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata con l'allegato II al presente decreto, tenuto conto di quelli passati nei ruoli stessi per effetto del precedente articolo 6, e' mantenuto in soprannumero, salvo riassorbimento in occasione di successive vacanze.
+Il personale di custodia delle opere idrauliche e delle bonifiche attualmente in servizio, che risulti in eccedenza nei singoli gradi dei ruoli, di cui alla tabella n. 50, dell'all. II al [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata con l'allegato II al presente decreto, tenuto conto di quelli passati nei ruoli stessi per effetto del precedente articolo 6, e' mantenuto in soprannumero, salvo riassorbimento in occasione di successive vacanze.
 
 ## Art. 8.
 

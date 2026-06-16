@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1922, n. 1809](Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md), concernente la riforma dei servizi nel Ministero dei lavori pubblici;
+Visto il [R. decreto 31 dicembre 1922, n. 1809](../Regi%20decreti/Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md), concernente la riforma dei servizi nel Ministero dei lavori pubblici;
 
-Visto l'[art. 5 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md);
+Visto l'[art. 5 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), recante l'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), recante l'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Visto il [R. decreto 4 agosto 1923, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-04;1262);
 
@@ -42,7 +42,7 @@ I servizi dell'Amministrazione centrale dei lavori pubblici sono ripartiti nel m
  
  Ispettorato generale per le ferrovie, tramvie ed automobili. 
  
- Con successivo decreto Reale, su proposta del Ministro per i lavori pubblici, sara' provveduto all'ordinamento interno dei servizi di ogni Direzione o Ispettorato generale, anche in deroga al [R. decreto 31 dicembre 1922, n. 1809](Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md).
+ Con successivo decreto Reale, su proposta del Ministro per i lavori pubblici, sara' provveduto all'ordinamento interno dei servizi di ogni Direzione o Ispettorato generale, anche in deroga al [R. decreto 31 dicembre 1922, n. 1809](../Regi%20decreti/Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md).
 
 ## Art. 2.
 
@@ -52,7 +52,7 @@ E' istituito presso il Ministero dei lavori pubblici un Ispettorato centrale per
 
 ## Art. 3.
 
-A decorrere dal 1° ottobre 1924, la tabella n. 48, allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata dall'[art. 13 del R. decreto 4 settembre 1924, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-04;1356#art_13), e' sostituita dalla seguente, per quanto riguarda il personale della carriera amministrativa (gruppo A) del Ministero dei lavori pubblici: 
+A decorrere dal 1° ottobre 1924, la tabella n. 48, allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata dall'[art. 13 del R. decreto 4 settembre 1924, n. 1356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-04;1356#art_13), e' sostituita dalla seguente, per quanto riguarda il personale della carriera amministrativa (gruppo A) del Ministero dei lavori pubblici: 
  
  Grado Numero dei posti 
  -- -- 
@@ -90,7 +90,7 @@ Alle Direzioni generali del Ministero possono essere aggregati, per lo studio e 
 
 Sono abrogati gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_2), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_4), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_7), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_10), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_12), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_14), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_17), [18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_18) e [21 del R. decreto 21 dicembre 1922, n. 1809](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1809#art_21). 
  
- E' inoltre abrogato il [R. decreto 23 marzo 1924, n. 485](Attribuzione%20degli%20ispettori%20superiori%20del%20Genio%20civile%20addetti%20alle%20direzioni%20generali%20del%20Ministero%20dei%20lavori%20pubblici.%20024U0485.md), relativo alle attribuzioni degli ispettori superiori del Genio civile addetti alle Direzioni generali del Ministero dei lavori pubblici.
+ E' inoltre abrogato il [R. decreto 23 marzo 1924, n. 485](../Regi%20decreti/Attribuzione%20degli%20ispettori%20superiori%20del%20Genio%20civile%20addetti%20alle%20direzioni%20generali%20del%20Ministero%20dei%20lavori%20pubblici.%20024U0485.md), relativo alle attribuzioni degli ispettori superiori del Genio civile addetti alle Direzioni generali del Ministero dei lavori pubblici.
 
 ## Art. 6.
 

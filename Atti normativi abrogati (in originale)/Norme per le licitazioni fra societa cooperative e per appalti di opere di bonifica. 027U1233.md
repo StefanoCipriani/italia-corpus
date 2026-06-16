@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[art. 2 della legge 12 maggio 1904, n. 178](Che%20porta%20modificazioni%20allart.%204%20della%20legge%2011%20luglio%201889%20n.%206216%20riguardante%20gli%20appalti%20di%20lavori%20pubblici%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro.%20004U0178.md);
 
-Visto l'[art. 44 del R. decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md);
+Visto l'[art. 44 del R. decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md);
 
-Visto l'art. 161 del regolamento per l'esecuzione delle leggi sulle bonificazioni delle paludi e dei terreni paludosi, approvato col [R. decreto 8 maggio 1904, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-05-08;368), i quali articoli prescrivono l'uso della scheda di minimo e di massimo ribasso nelle licitazioni private indette fra Societa' cooperative e per l'appalto di opere di bonifica;
+Visto l'art. 161 del regolamento per l'esecuzione delle leggi sulle bonificazioni delle paludi e dei terreni paludosi, approvato col [R. decreto 8 maggio 1904, n. 368](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20delle%20leggi%2022%20marzo%201900%20e%207%20luglio%201902%20nn.%20195%20e%20333%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20004U0368.md), i quali articoli prescrivono l'uso della scheda di minimo e di massimo ribasso nelle licitazioni private indette fra Societa' cooperative e per l'appalto di opere di bonifica;
 
 Visto il [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 

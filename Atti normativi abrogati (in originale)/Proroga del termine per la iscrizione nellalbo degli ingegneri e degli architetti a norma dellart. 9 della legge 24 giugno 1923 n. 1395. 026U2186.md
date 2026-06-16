@@ -24,7 +24,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-Il termine per domandare la iscrizione negli albi degli ingegneri e degli architetti a norma dell'[art. 9 della legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395#art_9), e del capoverso dell'art. 65 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537) e' prorogato fino al 30 aprile 1927.
+Il termine per domandare la iscrizione negli albi degli ingegneri e degli architetti a norma dell'[art. 9 della legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395#art_9), e del capoverso dell'art. 65 del regolamento approvato con [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md) e' prorogato fino al 30 aprile 1927.
 Le Commissioni di cui all'art. 68 del regolamento anzidetto provvederanno intanto sulle domande gia' presentate.
 
 ## Art. 2.

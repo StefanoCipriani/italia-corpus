@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il [R. decreto 26 febbraio 1925, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-26;200), col quale la frazione Cittadella del comune di Porto Mantovano e' stata aggregata al comune di Mantova e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'Amministrazione del Regio provveditorato agli studi di Milano alla diretta amministrazione del comune autonomo di Mantova a decorrere dal 1° gennaio 1926; 
+ Visto il [R. decreto 26 febbraio 1925, n. 200](../Regi%20decreti/Ampliamento%20del%20territorio%20del%20comune%20di%20Mantova.%20025U0200.md), col quale la frazione Cittadella del comune di Porto Mantovano e' stata aggregata al comune di Mantova e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'Amministrazione del Regio provveditorato agli studi di Milano alla diretta amministrazione del comune autonomo di Mantova a decorrere dal 1° gennaio 1926; 
  
  Visto l'[art. 11 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md), col quale le disposizioni contenute nel 3° e 4° comma dell'art. 1 della stessa legge, per quanto riguarda i concorsi e rimborsi scolastici dovuti dallo Stato ai Comuni che hanno la diretta amministrazione delle scuole elementari, si applicano anche per le scuole amministrate dai Regi provveditorati agli studi nei Comuni aggregati ad altri che abbiano invece la diretta amministrazione delle scuole; 
  

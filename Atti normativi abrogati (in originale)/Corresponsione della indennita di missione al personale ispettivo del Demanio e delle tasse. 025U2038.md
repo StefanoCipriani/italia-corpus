@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md):
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md):
 
 Visto il R. decreto-legge 30 dicembre 1923. n. 3269;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Articolo unico.
 
-A decorrere dal 1° ottobre 1925 sono abolite le indennita' di giro stabilite per gli ispettori del Demanio e delle tasse col [R. decreto 11 giugno 1925, n. 935](Sistemazione%20delle%20circoscrizioni%20del%20demanio%20e%20delle%20tasse%20e%20sdoppiamento%20di%20uffici%20nei%20grandi%20centri.%20025U0935.md), e saranno ad essi corrisposte le indennita' normali di viaggio e missione, di cui all'[art. 181 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+A decorrere dal 1° ottobre 1925 sono abolite le indennita' di giro stabilite per gli ispettori del Demanio e delle tasse col [R. decreto 11 giugno 1925, n. 935](../Regi%20decreti/Sistemazione%20delle%20circoscrizioni%20del%20demanio%20e%20delle%20tasse%20e%20sdoppiamento%20di%20uffici%20nei%20grandi%20centri.%20025U0935.md), e saranno ad essi corrisposte le indennita' normali di viaggio e missione, di cui all'[art. 181 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

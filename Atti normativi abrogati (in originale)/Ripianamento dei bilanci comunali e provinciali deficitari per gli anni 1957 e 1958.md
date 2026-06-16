@@ -22,7 +22,7 @@ I Comuni e le Province che, nonostante l'applicazione di supercontribuzioni in m
 
 ## Art. 2.
 
-L'autorizzazione di cui all'art. 1 viene concessa con decreto del Ministro per l'interno, di concerto con quelli per il tesoro e per le finanze, su proposta della Commissione centrale per la finanza locale, la quale esercita, nei confronti degli enti contemplati dalla presente legge, i poteri di cui agli articoli 332 e 336 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed aggiunte, anche in deroga al disposto del penultimo comma dell'[art. 5 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](../DPR/Decentramento%20dei%20servizi%20del%20Ministero%20dellinterno.md).
+L'autorizzazione di cui all'art. 1 viene concessa con decreto del Ministro per l'interno, di concerto con quelli per il tesoro e per le finanze, su proposta della Commissione centrale per la finanza locale, la quale esercita, nei confronti degli enti contemplati dalla presente legge, i poteri di cui agli articoli 332 e 336 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed aggiunte, anche in deroga al disposto del penultimo comma dell'[art. 5 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968](../DPR/Decentramento%20dei%20servizi%20del%20Ministero%20dellinterno.md).
 
 ## Art. 3.
 

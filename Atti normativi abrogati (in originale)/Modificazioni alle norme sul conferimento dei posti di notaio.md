@@ -12,9 +12,9 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 6 agosto 1926, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-08-06;1365), contenente disposizioni sul conferimento dei posti notarili;
 
-Visto il [regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), contenente disposizioni sul conferimento dei posti di notaio;
+Visto il [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), contenente disposizioni sul conferimento dei posti di notaio;
 
-Visto il [regio decreto 22 dicembre 1932, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-12-22;1728), contenente disposizioni regolamentari sul conferimento dei posti di notaio;
+Visto il [regio decreto 22 dicembre 1932, n. 1728](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20032U1728.md), contenente disposizioni regolamentari sul conferimento dei posti di notaio;
 
 Visto il [decreto legislativo luogotenenziale 5 aprile 1946, n. 314](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio.md);
 

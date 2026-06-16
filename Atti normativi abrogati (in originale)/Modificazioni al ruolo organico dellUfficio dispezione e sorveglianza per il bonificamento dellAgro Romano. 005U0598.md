@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'ufficio d'ispezione e sorveglianza per il bonificamento agrario dell'Agro romano, istituito con [R. decreto del 15 luglio 1886, n. 3998](Concernente%20la%20istituzione%20dun%20ufficio%20speciale%20dispezione%20e%20sorveglianza%20per%20il%20bonificamento%20agrario%20dellAgro%20romano.%20086U3998.md) (serie 3ª), prende il nome di «Ispettorato del bonificamento agrario e della colonizzazione», ed il relativo ruolo organico e' stabilito in conformita' della tabella annessa alla presente legge.
+L'ufficio d'ispezione e sorveglianza per il bonificamento agrario dell'Agro romano, istituito con [R. decreto del 15 luglio 1886, n. 3998](../Regi%20decreti/Concernente%20la%20istituzione%20dun%20ufficio%20speciale%20dispezione%20e%20sorveglianza%20per%20il%20bonificamento%20agrario%20dellAgro%20romano.%20086U3998.md) (serie 3ª), prende il nome di «Ispettorato del bonificamento agrario e della colonizzazione», ed il relativo ruolo organico e' stabilito in conformita' della tabella annessa alla presente legge.
 
 ## Art. 2.
 

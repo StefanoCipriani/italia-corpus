@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per le finanze di concerto col M
 
 Le consultazioni legali, la rappresentanza e la difesa delle vertenze derivanti dal trasporto che interessano l'Amministrazione delle ferrovie dello Stato, sono affidate, a decorrere dal 1° luglio 1925, alla Regia avvocatura erariale. 
  
- A decorrere dalla stessa data si applicano alle dette vertenze le norme stabilite dal capo terzo del [R. decreto 30 dicembre 1923, n. 2828](Disposizioni%20concernenti%20gli%20uffici%20e%20il%20personale%20della%20Regia%20avvocatura%20erariale%20e%20la%20difesa%20legale%20delle%20Ferrovie%20dello%20Stato.%20023U2828.md). 
+ A decorrere dalla stessa data si applicano alle dette vertenze le norme stabilite dal capo terzo del [R. decreto 30 dicembre 1923, n. 2828](../Regi%20decreti/Disposizioni%20concernenti%20gli%20uffici%20e%20il%20personale%20della%20Regia%20avvocatura%20erariale%20e%20la%20difesa%20legale%20delle%20Ferrovie%20dello%20Stato.%20023U2828.md). 
  
  Presso l'Amministrazione centrale delle ferrovie dello Stato e presso le sedi dei compartimenti in cui non siano costituiti uffici dell'Avvocatura erariale sono distaccati funzionari dell'Avvocatura anzidetta per provvedere alla consulenza e all'assistenza immediata.
 Ai detti funzionari puo' anche essere affidata dai rispettivi capi dell'Avvocatura la trattazione consultiva o contenziosa di altri affari in materia ferroviaria. 

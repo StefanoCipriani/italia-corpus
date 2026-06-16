@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775);
+Visto il testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md);
 
 Visto il [regio decreto-legge 12 maggio 1938, n. 770](Concessione%20di%20un%20contributo%20statale%20nella%20spesa%20per%20la%20costruzione%20di%20serbatoi%20e%20laghi%20artificiali%20in%20Sicilia%20ed%20in%20Sardegna%20e%20per%20la%20regolazione%20del%20Lago%20Maggiore.%20038U0770.md);
 

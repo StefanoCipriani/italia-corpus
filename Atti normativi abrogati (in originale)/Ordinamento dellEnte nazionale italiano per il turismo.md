@@ -23,7 +23,7 @@ PROMULGA la seguente legge:
 L'Ente nazionale italiano per il turismo (ENIT) ha personalita' giuridica di diritto pubblico, e' dotato di autonomia statutaria e regolamentare, ha sede in Roma ed e' sottoposto alla vigilanza del Ministero del turismo e dello spettacolo.
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Statuto dell'Ente
@@ -93,7 +93,7 @@ Note all'art. 3:
  c) conoscenza di almeno due lingue straniere.
  Il rilascio dell'autorizzazione dovra', in ogni caso, essere subordinato al versamento di un congruo deposito cauzionale.
  Qualora la persona fisica titolare dell'autorizzazione non presti con carattere di continuita' ed esclusivita' la propria opera nella agenzia, i requisiti di cui al comma precedente dovranno essere posseduti dal direttore tecnico.
- L'autorizzazione regionale e' subordinata al nulla-osta della competente autorita' di pubblica sicurezza, per quanto attiene all'accertamento del possesso dei requisiti di cui agli articoli 11 e 12 del testo unico approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni.
+ L'autorizzazione regionale e' subordinata al nulla-osta della competente autorita' di pubblica sicurezza, per quanto attiene all'accertamento del possesso dei requisiti di cui agli articoli 11 e 12 del testo unico approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni.
  Lo Stato cura la tenuta e l'aggiornamento di un apposito elenco nazionale delle agenzie di viaggio sulla base delle comunicazioni relative alle autorizzazioni rilasciate dalle regioni. Tale elenco viene pubblicato annualmente nella Gazzetta Ufficiale della Repubblica italiana.
  L'elenco di cui al precedente comma, unitamente all'elenco degli uffici informazioni di cui all'art. 4, viene raccolto in una apposita pubblicazione dell'ENIT e diffuso in Italia ed all'estero.
  In occasione del rilascio delle autorizzazioni le regioni accerteranno l'inesistenza di agenzie con denominazione uguale o simile, gia' operanti sul territorio nazionale.
@@ -346,7 +346,7 @@ Il collegio dei revisori dei conti e' nominato con decreto del Ministro del turi
 
 2.
 
-I componenti effettivi del collegio dei revisori dei conti sono collocati fuori ruolo ai sensi dell'articolo 58 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni e integrazioni. Per ciascuno dei componenti del collegio e' nominato un membro supplente.
+I componenti effettivi del collegio dei revisori dei conti sono collocati fuori ruolo ai sensi dell'articolo 58 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni e integrazioni. Per ciascuno dei componenti del collegio e' nominato un membro supplente.
 
 3.
 
@@ -524,9 +524,9 @@ Nota all'art. 22:
  Per il triennio 1983-85 il conferimento di cui al primo comma e' determinato in complessive lire 300 miliardi, di cui lire 50 miliardi per l'anno 1983.
  Per gli anni 1984 e 1985 l'importo dei contributi sara' determinato con apposita norma da inserire nella legge finanziaria.
  Art. 14 (Ripartizione dei fondi). - Il 70% delle risorse di cui al precedente art. 13 e' ripartito annualmente, sentito il Comitato di coordinamento di cui all'art. 2, tra le regioni e le province autonome di Trento e Bolzano secondo i seguenti criteri: un terzo in base alla popolazione residente, quale risulta dai dati dell'ultimo censimento; un terzo in base alla superficie del territorio ed un terzo in base agli indici di utilizzazione del patrimonio ricettivo regionale.
- Il rimanente 30% e' ripartito con gli stessi criteri, tra le regioni che comprendono nel proprio territorio le aree del Mezzogiorno, come indicate dall'art. 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+ Il rimanente 30% e' ripartito con gli stessi criteri, tra le regioni che comprendono nel proprio territorio le aree del Mezzogiorno, come indicate dall'art. 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
  Per l'anno 1983 la ripartizione e' effettuata entro 60 giorni dall'entrata in vigore della presente legge.
- Restano ferme le procedure previste dall'art. 78 del testo unico approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), per l'erogazione di fondi a favore delle province autonome di Trento e Bolzano.
+ Restano ferme le procedure previste dall'art. 78 del testo unico approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), per l'erogazione di fondi a favore delle province autonome di Trento e Bolzano.
  I finanziamenti previsti dalla presente legge debbono risultare aggiuntivi rispetto ai finanziamenti ordinari a favore del turismo, previsti dalla legislazione regionale preesistente.
  Nel rispetto di quanto stabilito nel comma precedente, le regioni possono deliberare la gestione unitaria ed integrata dei finanziamenti, e procedere alla costituzione dei "fondi per lo sviluppo delle attivita' turistiche" o provvedere ad una gestione integrata delle disponibilita' attraverso le societa' finanziarie regionali".
 

@@ -18,7 +18,7 @@ Visto l'[art. 15 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarch
 
 Visti gli articoli 21 a 24 del [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
@@ -88,7 +88,7 @@ Nella determinazione dell'anzianita' di servizio richiesta per l'ammissione agli
  
  e) su aeronavi armate e presso squadriglie d'aviazione (limitatamente al personale di volo), sempre quando destinati normalmente a servizi bellici; 
  
- lontano da reparti combattenti, o dalle sopraindicate destinazioni, per ferite o malattie contratte a causa di servizio o per prigionia non dipendente da circostanze imputabili all'interessato e, per i mutilati ed invalidi di guerra ascritti alle prime sei categorie giusta la tabella annessa al [decreto Luogotenenziale 20 maggio 1917 n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), o alle prime due giusta l'art. 100 del testo unico di legge sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), dalla data della mutilazione o della invalidita' che determinarono l'allontanamento dai reparti medesimi alla data dell'armistizio. 
+ lontano da reparti combattenti, o dalle sopraindicate destinazioni, per ferite o malattie contratte a causa di servizio o per prigionia non dipendente da circostanze imputabili all'interessato e, per i mutilati ed invalidi di guerra ascritti alle prime sei categorie giusta la tabella annessa al [decreto Luogotenenziale 20 maggio 1917 n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), o alle prime due giusta l'art. 100 del testo unico di legge sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), dalla data della mutilazione o della invalidita' che determinarono l'allontanamento dai reparti medesimi alla data dell'armistizio. 
  
  I servizi indicati nel comma precedente non vengono valutati pero' per quegli impiegati che durante il servizio prestato presso l'Esercito o la Marina operante nel periodo dal 24 maggio 1915 alla data di armistizio sui vari fronti abbiano riportate condanne - anche se, per esse, sia successivamente intervenuta amnistia o indulto o commutazione - per delitti commessi nel periodo stesso, ovvero siano incorsi in uno dei provvedimenti contemplati nelle leggi sullo stato giuridico degli ufficiali e dei sottufficiali, a seguito di deferimento a Consiglio od a Commissione di disciplina, o che, comunque, siano stati sospesi dall'impiego, se ufficiali, o dispensati dal servizio, se sottufficiali, sempre quando non sia intervenuta reintegrazione nel grado o nell'anzianita', o non abbiano beneficiato dell'amnistia disciplinare concessa con [R. decreto 3 novembre 1920, n. 1514](Concernente%20provvedimenti%20di%20clemenza%20in%20ordine%20a%20talune%20mancanze%20disciplinari%20commesse%20da%20militari%20durante%20la%20guerra.%20020U1514.md). 
  
@@ -168,7 +168,7 @@ Gli esami di cui al presente decreto hanno luogo in Roma e gli impiegati che par
 
 ## Art. 13.
 
-Per quanto riguarda la compilazione dei temi da svolgere e la polizia nelle aule durante le prove scritte saranno applicate le disposizioni di cui al [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960). 
+Per quanto riguarda la compilazione dei temi da svolgere e la polizia nelle aule durante le prove scritte saranno applicate le disposizioni di cui al [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -32,7 +32,7 @@ Ai territori annessi al Regno in dipendenza delle [leggi 26 settembre 1920, n. 1
  
  c) il testo unico delle disposizioni di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 958](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;958); 
  
- d) il testo unico delle disposizioni di legge sulle opere marittime, approvato con [R. decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095), e la [legge 14 luglio 1907, n. 542](Autorizzazione%20di%20spese%20per%20esecuzione%20di%20nuove%20opere%20marittime.%20007U0542.md); 
+ d) il testo unico delle disposizioni di legge sulle opere marittime, approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), e la [legge 14 luglio 1907, n. 542](Autorizzazione%20di%20spese%20per%20esecuzione%20di%20nuove%20opere%20marittime.%20007U0542.md); 
  
  e) il testo unico delle disposizioni di legge sulle bonificazioni delle paludi e dei terreni paludosi, approvato con [R. decreto 22 marzo 1900, n. 195](Che%20approva%20il%20Testo%20unico%20della%20legge%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20000U0195.md); 
  

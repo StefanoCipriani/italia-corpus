@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana; Abbiamo d
 
 Le disposizioni del R. decreto 7 agosto 1936-XIV, n. 1531, sono estese all'Africa Orientale Italiana. 
  
- Le speciali norme sul procedimento d'ingiunzione contenute nel capo III, del titolo V, dell'ordinamento giudiziario per l'Eritrea, rimangono in vigore con riferimento al Regio decreto 7 agosto 1936-XIV, n. 1531, anziche' con riferimento all'abrogato [R. decreto 24 luglio 1922, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-07-24;1036); al richiamo degli articoli 1, 2, 4 e 8 di detto decreto, viene rispettivamente sostituito quello degli articoli 1, 7, 11 e 15 del suddetto R. decreto 7 agosto 1936-XIV, n. 1531. 
+ Le speciali norme sul procedimento d'ingiunzione contenute nel capo III, del titolo V, dell'ordinamento giudiziario per l'Eritrea, rimangono in vigore con riferimento al Regio decreto 7 agosto 1936-XIV, n. 1531, anziche' con riferimento all'abrogato [R. decreto 24 luglio 1922, n. 1036](../Regi%20decreti/Contenente%20le%20norme%20definitive%20e%20le%20disposizioni%20transitorie%20e%20di%20attuazione%20in%20applicazione%20della%20legge%209%20luglio%201922%20n.%201035%20sul%20Procedimento%20per%20ingiunzione.%20022U1036.md); al richiamo degli articoli 1, 2, 4 e 8 di detto decreto, viene rispettivamente sostituito quello degli articoli 1, 7, 11 e 15 del suddetto R. decreto 7 agosto 1936-XIV, n. 1531. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

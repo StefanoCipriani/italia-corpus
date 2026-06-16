@@ -14,7 +14,7 @@ La liquidazione della tassa per la rinnovazione straordinaria della licenza rela
 
 ## Art. 2.
 
-Non v'e' obbligo della rinnovazione straordinaria per gli esercizi, indicati nel precedente articolo pei quali sia stato dato all'autorita' locale di pubblica sicurezza l'avviso di chiusura, a norma dell'[art. 55 del testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_55) 30 giugno 1889, n. 6144.
+Non v'e' obbligo della rinnovazione straordinaria per gli esercizi, indicati nel precedente articolo pei quali sia stato dato all'autorita' locale di pubblica sicurezza l'avviso di chiusura, a norma dell'[art. 55 del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 30 giugno 1889, n. 6144.
 
 ## Art. 3.
 

@@ -26,7 +26,7 @@ EMANA il seguente decreto-legge:
 
 1.
 
-La realizzazione di opere di sbarramento che superano i 10 metri di altezza o che determinano un volume d'invaso superiore a 100.000 metri cubi, di seguito denominate dighe, e' soggetta, oltre che alla concessione per la derivazione e la utilizzazione dell'acqua pubblica, in quanto necessaria ai sensi del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive modificazioni, all'approvazione tecnica del progetto.
+La realizzazione di opere di sbarramento che superano i 10 metri di altezza o che determinano un volume d'invaso superiore a 100.000 metri cubi, di seguito denominate dighe, e' soggetta, oltre che alla concessione per la derivazione e la utilizzazione dell'acqua pubblica, in quanto necessaria ai sensi del testo unico delle disposizioni di legge sulle acque e impianti elettrici, approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive modificazioni, all'approvazione tecnica del progetto.
 
 2.
 
@@ -73,7 +73,7 @@ relativamente all'esecuzione delle opere ed alla conservazione e manutenzione de
 
 2.
 
-Fino alla data di entrata in vigore del regolamento di cui al comma 1, continuano ad avere applicazione il regolamento approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), e le disposizioni tecniche ed amministrative emanate sulla base di questo, salve le innovazioni apportate dalla legislazione successiva quanto al riparto di attribuzioni fra gli uffici statali e regionali.
+Fino alla data di entrata in vigore del regolamento di cui al comma 1, continuano ad avere applicazione il regolamento approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), e le disposizioni tecniche ed amministrative emanate sulla base di questo, salve le innovazioni apportate dalla legislazione successiva quanto al riparto di attribuzioni fra gli uffici statali e regionali.
 Nei casi di minore importanza il Servizio nazionale dighe puo' consentire l'applicazione parziale delle norme suddette.
 
 ## Art. 3.
@@ -92,7 +92,7 @@ Per le dighe di cui al comma 1, qualora non sia possibile determinare la quota d
 
 4.
 
-La domanda di approvazione in sanatoria deve essere presentata o inviata, nei modi previsti dall'[articolo 5 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), agli uffici periferici competenti per territorio del Servizio nazionale dighe, ovvero, ove questi ultimi non siano stati ancora insediati, agli uffici periferici del Ministero dei lavori pubblici, corredata della seguente documentazione, a firma, per quanto di rispettiva competenza, di ingegneri e geologi iscritti ai relativi albi professionali:
+La domanda di approvazione in sanatoria deve essere presentata o inviata, nei modi previsti dall'[articolo 5 del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), agli uffici periferici competenti per territorio del Servizio nazionale dighe, ovvero, ove questi ultimi non siano stati ancora insediati, agli uffici periferici del Ministero dei lavori pubblici, corredata della seguente documentazione, a firma, per quanto di rispettiva competenza, di ingegneri e geologi iscritti ai relativi albi professionali:
                         a)
                             relazione tecnica generale che riporti: i dati caratteristici della diga, delle opere accessorie e del serbatoio; volume d'invaso e modalita' di valutazione dello stesso; l'indicazione delle vie di accesso; i sistemi di allarme e di comunicazione installati; le fonti di energia per la manovra degli organi di intercettazione degli scarichi; le modalita' di vigilanza e controllo;
                         b)
@@ -150,7 +150,7 @@ Chiunque non adempia alle prescrizioni di cui all'articolo 3, comma 5, ovvero de
 
 5.
 
-L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+L'ingegnere firmatario della perizia giurata di cui all'articolo 3, commi 6 e 7, che affermi fatti non conformi al vero soggiace alle pene previste dall'[articolo 373 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 

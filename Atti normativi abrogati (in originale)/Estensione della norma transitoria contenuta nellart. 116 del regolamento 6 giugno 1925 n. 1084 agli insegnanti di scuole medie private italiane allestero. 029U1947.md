@@ -28,7 +28,7 @@ Su proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, 
 
 ## Articolo unico.
 
-Agli effetti dell'[art. 113 del R. decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_113), coloro che si trovino da non meno di un quadriennio ad insegnare in scuole medie private italiane all'estero materie per le quali non posseggano il titolo legale di abilitazione, possono essere autorizzati a continuare nell'insegnamento delle materie stesse cosi' all'estero come nel Regno, previo risultato favorevole di apposita ispezione, che sara' eseguita da persona idonea designata di concerto dal Ministero dell'educazione nazionale e da quello degli affari esteri. 
+Agli effetti dell'[art. 113 del R. decreto 6 maggio 1923, numero 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), coloro che si trovino da non meno di un quadriennio ad insegnare in scuole medie private italiane all'estero materie per le quali non posseggano il titolo legale di abilitazione, possono essere autorizzati a continuare nell'insegnamento delle materie stesse cosi' all'estero come nel Regno, previo risultato favorevole di apposita ispezione, che sara' eseguita da persona idonea designata di concerto dal Ministero dell'educazione nazionale e da quello degli affari esteri. 
  
  Le domande relative dovranno essere indirizzate al Ministero dell'educazione nazionale e presentate al medesimo entro il 31 dicembre 1932, ma sempre ed esclusivamente per il tramite del Ministero degli affari esteri che determinera' se le domande debbano essere prese in considerazione. 
  

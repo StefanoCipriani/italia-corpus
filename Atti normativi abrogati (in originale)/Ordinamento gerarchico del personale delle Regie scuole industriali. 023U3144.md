@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Vista la [legge 20 febbraio 1921, n. 175](Che%20reca%20provvedimenti%20economici%20a%20favore%20del%20personale%20delle%20Regie%20scuole%20industriali.%20021U0175.md), che reca provvedimenti economici a favore del personale delle scuole industriali;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), sul riordinamento dell'istruzione industriale;
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sul riordinamento dell'istruzione industriale;
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
 Considerato che il personale non parificato di cui all'articolo 24 del R. decreto 31 ottobre 1923, comprende il personale delle Regie stazioni sperimentali, dei laboratori-scuola, delle Regie scuole a orario ridotto e quello di officina o di laboratorio e di amministrazione delle Regie scuole di insegnamento industriale;
 
-Considerata la necessita' di riferire l'inquadramento del restante personale alla nuova denominazione assunta dalle scuole in applicazione del [R. decreto 31 ottobre 1923, numero 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523);
+Considerata la necessita' di riferire l'inquadramento del restante personale alla nuova denominazione assunta dalle scuole in applicazione del [R. decreto 31 ottobre 1923, numero 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 

@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[art. 59 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_59), e l'[art. 11 della legge 27 giugno 1907, n. 386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md); 
+ Veduto l'[art. 59 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e l'[art. 11 della legge 27 giugno 1907, n. 386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md); 
  
- Veduto l'[art. 4 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_4); 
+ Veduto l'[art. 4 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md); 
  
  Ritenuto che per ragioni di convenienza scientifica e' opportuno riunire il servizio delle antichita' laziali-umbro-sabine e marsiche, e che tale riunione, data la facilita' di rapporti e di comunicazione fra Roma ed il territorio suddetto, rende possibile una piu' efficace azione di tutela del patrimonio archeologico; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- La circoscrizione delle seguenti Soprintendenze alle antichita', gia' fissata dall'[art. 4 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_4), viene cosi' modificata: 
+ La circoscrizione delle seguenti Soprintendenze alle antichita', gia' fissata dall'[art. 4 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), viene cosi' modificata: 
  
  1° Soprintendenza di Firenze (Toscana, provincia della Spezia e il territorio della provincia di Perugia posto alla destra del Tevere); 
  

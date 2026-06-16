@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 6 del R. decreto 11 aprile 1935, n. 575](Norme%20relative%20alle%20Biblioteche%20pubbliche%20governative%20e%20alle%20Regie%20soprintendenze%20bibliografiche.%20035U0575.md), che per il personale femminile assunto nel gruppo A delle biblioteche pubbliche governative dopo l'entrata in vigore del decreto medesimo limita la carriera ai gradi dal decimo al settimo incluso, e' abrogato.
+L'[art. 6 del R. decreto 11 aprile 1935, n. 575](../Regi%20decreti/Norme%20relative%20alle%20Biblioteche%20pubbliche%20governative%20e%20alle%20Regie%20soprintendenze%20bibliografiche.%20035U0575.md), che per il personale femminile assunto nel gruppo A delle biblioteche pubbliche governative dopo l'entrata in vigore del decreto medesimo limita la carriera ai gradi dal decimo al settimo incluso, e' abrogato.
 
 ## Art. 2.
 

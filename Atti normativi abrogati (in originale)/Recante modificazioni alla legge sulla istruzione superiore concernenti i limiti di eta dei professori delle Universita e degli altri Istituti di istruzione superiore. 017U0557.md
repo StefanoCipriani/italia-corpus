@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 123 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' abrogato. 
+L'art. 123 del testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), e' abrogato. 
  
  Il professore che compia il 75° anno di eta' durante l'inno accademico, quando abbia effettivamente cominciato il corso, conservera' il grado e l'ufficio sino alla fine dall'anno medesimo.
 

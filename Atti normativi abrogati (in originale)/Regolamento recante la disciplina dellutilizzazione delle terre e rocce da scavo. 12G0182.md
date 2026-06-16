@@ -70,7 +70,7 @@ Ai fini del presente regolamento si applicano le definizioni di cui all'[articol
  r. «esecutore»: il soggetto che attua il Piano di Utilizzo.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
  Il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante: «Norme in materia ambientale», e' pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, (S.O.). 
@@ -268,7 +268,7 @@ Il Piano di Utilizzo del materiale da scavo e' presentato dal proponente all'Aut
 
 2.
 
-Il proponente trasmette il Piano di Utilizzo all'Autorita' competente redatto in conformita' all'Allegato 5. La trasmissione puo' avvenire, a scelta del proponente, anche solo per via telematica. La sussistenza dei requisiti di cui all'articolo 4, comma 1, del presente regolamento, e' attestata dal Legale rappresentante della persona giuridica o dalla persona fisica proponente l'opera mediante una dichiarazione sostitutiva dell'atto di notorieta' di cui all'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). L'Autorita' competente puo' chiedere, in un'unica soluzione entro trenta giorni dalla presentazione del Piano di Utilizzo, integrazioni alla documentazione presentata.
+Il proponente trasmette il Piano di Utilizzo all'Autorita' competente redatto in conformita' all'Allegato 5. La trasmissione puo' avvenire, a scelta del proponente, anche solo per via telematica. La sussistenza dei requisiti di cui all'articolo 4, comma 1, del presente regolamento, e' attestata dal Legale rappresentante della persona giuridica o dalla persona fisica proponente l'opera mediante una dichiarazione sostitutiva dell'atto di notorieta' di cui all'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). L'Autorita' competente puo' chiedere, in un'unica soluzione entro trenta giorni dalla presentazione del Piano di Utilizzo, integrazioni alla documentazione presentata.
 
 3.
 
@@ -304,7 +304,7 @@ Fatto salvo quanto previsto dall'articolo 8, il venir meno di una delle condizio
 L'Autorita' competente nel richiedere all'Agenzia regionale di protezione ambientale (ARPA) o all'Agenzia provinciale di protezione ambientale (APPA) le verifiche di cui al precedente comma 3, tenendo conto dei criteri di caratterizzazione adottati nel Piano di Utilizzo, dovra' motivare la sua richiesta con riferimento alla tipologia di area in cui viene realizzata l'opera e alla sua eventuale conoscenza di pregressi interventi antropici non sufficientemente indagati nell'area di intervento.
 
 Note all'art. 5: 
- - Si riporta il testo dell'[art. 47 del Decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante «[Testo Unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).», pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, (S.O.): 
+ - Si riporta il testo dell'[art. 47 del Decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante «[Testo Unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).», pubblicato nella Gazzetta Ufficiale 20 febbraio 2001, n. 42, (S.O.): 
  «Art. 47 (Dichiarazioni sostitutive dell'atto di notorieta'). - 1. L'atto di notorieta' concernente stati, qualita' personali o fatti che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo con la osservanza delle modalita' di cui all'art. 38. 
  2. La dichiarazione resa nell'interesse proprio del dichiarante puo' riguardare anche stati, qualita' personali e fatti relativi ad altri soggetti di cui egli abbia diretta conoscenza. 
  3. Fatte salve le eccezioni espressamente previste per legge, nei rapporti con la pubblica amministrazione e con i concessionari di pubblici servizi, tutti gli stati, le qualita' personali e i fatti non espressamente indicati nell'art. 46 sono comprovati dall'interessato mediante la dichiarazione sostitutiva di atto di notorieta'. 
@@ -316,7 +316,7 @@ Note all'art. 5:
 
 1.
 
-In deroga all'articolo 5, in situazioni di emergenza dovute a causa di forza maggiore, la sussistenza dei requisiti di cui all'articolo 4, comma 1, e' attestata all'Autorita' competente mediante una dichiarazione sostitutiva dell'atto di notorieta' di cui all'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), resa nella forma di cui all'allegato 7. Dalla data della predetta dichiarazione il materiale da scavo puo' essere gestito nel rispetto di quanto dichiarato. Entro quindici giorni dalla data di inizio lavori, il soggetto che ha rilasciato la dichiarazione di cui al precedente periodo deve comunque presentare il Piano di Utilizzo secondo le modalita' previste dall'articolo 5.
+In deroga all'articolo 5, in situazioni di emergenza dovute a causa di forza maggiore, la sussistenza dei requisiti di cui all'articolo 4, comma 1, e' attestata all'Autorita' competente mediante una dichiarazione sostitutiva dell'atto di notorieta' di cui all'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), resa nella forma di cui all'allegato 7. Dalla data della predetta dichiarazione il materiale da scavo puo' essere gestito nel rispetto di quanto dichiarato. Entro quindici giorni dalla data di inizio lavori, il soggetto che ha rilasciato la dichiarazione di cui al precedente periodo deve comunque presentare il Piano di Utilizzo secondo le modalita' previste dall'articolo 5.
 
 2.
 
@@ -326,8 +326,8 @@ E' facolta' dell'Autorita' competente eseguire controlli e richiedere verifiche 
 
 La deroga di cui al comma 1 non puo' essere applicata a quanto disciplinato all'articolo 5, comma 5.
 
-Note all'[art. 6](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md): 
- - L'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e' riportato nelle note all'art.
+Note all'[art. 6](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md): 
+ - L'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e' riportato nelle note all'art.
  5.
 
 ## Art. 7. — Obblighi generali
@@ -434,7 +434,7 @@ Note all'art. 11:
 
 1.
 
-L'avvenuto utilizzo del materiale escavato in conformita' al Piano di Utilizzo e' attestato dall'esecutore all'autorita' competente, mediante una dichiarazione sostitutiva dell'atto di notorieta' di cui all'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), in conformita' all'allegato 7 e corredata della documentazione completa richiamata al predetto allegato.
+L'avvenuto utilizzo del materiale escavato in conformita' al Piano di Utilizzo e' attestato dall'esecutore all'autorita' competente, mediante una dichiarazione sostitutiva dell'atto di notorieta' di cui all'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), in conformita' all'allegato 7 e corredata della documentazione completa richiamata al predetto allegato.
 
 2.
 
@@ -453,8 +453,8 @@ L'omessa dichiarazione di avvenuto utilizzo nel termine previsto dal precedente 
 
 Nel caso l'utilizzo avvenga non da parte del proponente o dell'esecutore, nella dichiarazione di avvenuto utilizzo deve essere riportato il periodo entro il quale il soggetto indicato deve completare l'utilizzo. Dell'avvenuto utilizzo deve comunque essere data comunicazione all'Autorita' competente. L'omessa dichiarazione di avvenuto utilizzo da parte del soggetto terzo indicato comporta la cessazione, con effetto immediato, della qualifica del materiale escavato come sottoprodotto.
 
-Note all'[art. 12](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md): 
- - L'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e' riportato nelle note all'art.
+Note all'[art. 12](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md): 
+ - L'[art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e' riportato nelle note all'art.
  5.
 
 ## Art. 13. — Gestione dei dati

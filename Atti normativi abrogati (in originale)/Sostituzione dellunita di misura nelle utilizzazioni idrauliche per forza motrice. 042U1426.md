@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nel [testo unico delle disposizioni sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) 11 dicembre 1933-XII, n. 1775, viene sostituita alla misura di potenza in cavalli dinamici la misura in chilowatt.
+Nel [testo unico delle disposizioni sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) 11 dicembre 1933-XII, n. 1775, viene sostituita alla misura di potenza in cavalli dinamici la misura in chilowatt.
 
 ## Art. 2.
 

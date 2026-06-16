@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 giugno 1924, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1217), concernente il riordinamento del Regio istituto industriale di Torino;
+Visto il [R. decreto 19 giugno 1924, n. 1217](../Regi%20decreti/Costituzione%20del%20Regio%20istituto%20industriale%20di%20Torino.%20024U1217.md), concernente il riordinamento del Regio istituto industriale di Torino;
 
 Visto il decreto Ministeriale 22 ottobre 1925, registrato alla Corte dei conti il 31 dicembre 1925, relativo ai contributi corrisposti dallo Stato e dagli enti al suddetto Regio istituto industriale;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-I contributi di cui all'[art. 3 del R. decreto 19 giugno 1924, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1217#art_3), a favore del Regio istituto industriale di Torino, sono modificati come appresso: 
+I contributi di cui all'[art. 3 del R. decreto 19 giugno 1924, n. 1217](../Regi%20decreti/Costituzione%20del%20Regio%20istituto%20industriale%20di%20Torino.%20024U1217.md), a favore del Regio istituto industriale di Torino, sono modificati come appresso: 
  
  il Ministero dell'economia nazionale . . . L. 899,000 
  il comune di Torino . . . . . . . . . . . » 433,480 

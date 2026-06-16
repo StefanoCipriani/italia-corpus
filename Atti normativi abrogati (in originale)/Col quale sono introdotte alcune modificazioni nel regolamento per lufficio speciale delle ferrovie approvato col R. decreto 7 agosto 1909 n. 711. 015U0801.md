@@ -34,7 +34,7 @@ Agli articoli 1, 2, 27, 30 e 31 del regolamento per l'Ufficio speciale delle fer
  
  Art. 1. - L'Ufficio speciale delle ferrovie costituisce una Direzione generale del Ministero dei lavori pubblici ed ha le attribuzioni stabilite dal [R. decreto 25 giugno 1905, n. 275](Relativo%20allordinamento%20e%20alle%20attribuzioni%20del%20Comitato%20superiore%20delle%20strade%20ferrate.%20005U0275.md), e dal testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447; 
  
- Art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447#art_2). - L'Ufficio speciale ha per capo un direttore generale che ha titolo di ispettore generale, e si compone: 
+ Art. 2](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md). - L'Ufficio speciale ha per capo un direttore generale che ha titolo di ispettore generale, e si compone: 
  
  di sei divisioni; 
  

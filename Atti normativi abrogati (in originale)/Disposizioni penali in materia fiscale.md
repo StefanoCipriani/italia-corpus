@@ -21,7 +21,7 @@ Sulla proposta del Ministro per le finanze, di concerto con i Ministri per l'int
 ## Art. 1.
 
 Chiunque con qualsiasi mezzo promuove ed organizza accordi o intese tra i contribuenti al fine di ritardare, sospendere o non effettuare il pagamento di imposte dirette o indirette, ordinarie e straordinarie in esazione, e' punito con la reclusione da sei mesi a cinque anni, salvo che il fatto non costituisca reato punibile con pena maggiore. 
- Alla stessa pena e' soggetto chiunque pubblicamente o in riunioni, da considerarsi pubbliche ai sensi dell'[articolo 18 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_18), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), istiga i contribuenti a ritardare, sospendere o non effettuare il pagamento di imposte in esazione. 
+ Alla stessa pena e' soggetto chiunque pubblicamente o in riunioni, da considerarsi pubbliche ai sensi dell'[articolo 18 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), istiga i contribuenti a ritardare, sospendere o non effettuare il pagamento di imposte in esazione. 
  Quando l'accordo o l'istigazione abbia conseguito il suo effetto, il minimo delle pene previste nei comma precedenti e' portato ad un anno.
 
 ## Art. 2.

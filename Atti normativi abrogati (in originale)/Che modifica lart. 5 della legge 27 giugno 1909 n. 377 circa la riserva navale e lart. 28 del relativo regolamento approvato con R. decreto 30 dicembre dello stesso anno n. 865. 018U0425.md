@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dei poteri straordinari conferiti al Governo del Re con la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md); 
  
- Vista la [legge 27 giugno 1909, n. 377](Disposizioni%20relative%20alla%20riserva%20navale.%20009U0377.md), ed il regolamento approvato con [R. decreto 30 dicembre 1909, numero 865](Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%20del%2027%20giugno%201909%20n.%20377%20sulla%20riserva%20navale.%20009U0865.md); 
+ Vista la [legge 27 giugno 1909, n. 377](Disposizioni%20relative%20alla%20riserva%20navale.%20009U0377.md), ed il regolamento approvato con [R. decreto 30 dicembre 1909, numero 865](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%20del%2027%20giugno%201909%20n.%20377%20sulla%20riserva%20navale.%20009U0865.md); 
  
  Sentito il Coniglio dei ministri; 
  
@@ -36,7 +36,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  «Tali titoli saranno conferiti con decreto Reale, sopra parete conforme della Commissione suprema di avanzamento pei corpi militari della R. marina e determinati dal regolamento di cui all'art. 22». 
  
- Per conseguenza, all'art. 28 del regolamento approvato con [R. decreto 30 dicembre 1909, n. 865](Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%20del%2027%20giugno%201909%20n.%20377%20sulla%20riserva%20navale.%20009U0865.md), alle parole: «su conforme parere del Comitato degli ammiragli» e' sostituito: «su conforme parere della Commissione suprema di avanzamento pei corpi militari della R.
+ Per conseguenza, all'art. 28 del regolamento approvato con [R. decreto 30 dicembre 1909, n. 865](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%20del%2027%20giugno%201909%20n.%20377%20sulla%20riserva%20navale.%20009U0865.md), alle parole: «su conforme parere del Comitato degli ammiragli» e' sostituito: «su conforme parere della Commissione suprema di avanzamento pei corpi militari della R.
 marina». 
  
  Il presente decreto entrera' in vigore dalla data della sua pubblicazione nella Gazzetta ufficiale del Regno. 

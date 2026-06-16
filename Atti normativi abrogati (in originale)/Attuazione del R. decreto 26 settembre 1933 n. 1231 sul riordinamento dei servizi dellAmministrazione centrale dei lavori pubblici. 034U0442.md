@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 26 settembre 1933, n. 1231](Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20del%20lavori%20pubblici.%20033U1231.md), sul riordinamento dei servizi dell'Amministrazione centrale dei lavori pubblici; 
  
- Visto l'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, che detta norme sulla composizione dei Consigli d'amministrazione presso i Ministeri; 
+ Visto l'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, che detta norme sulla composizione dei Consigli d'amministrazione presso i Ministeri; 
  
  Visto l'[art. 20 del R. decreto 28 agosto 1924, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1395#art_20), nel quale sono indicati i membri componenti il Consiglio d'amministrazione del personale del Real Corpo del genio civile e di quello di custodia delle opere idrauliche e di bonifica; 
  
@@ -38,7 +38,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- L'ispettore generale capo del Segretariato generale degli affari generali e del personale del Ministero dei lavori pubblici e' chiamato, a parita' di condizioni con tutti gli altri membri, a far parte del Consiglio d'amministrazione pel personale dell'Amministrazione centrale a tutti gli effetti dell'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11), nonche' del Consiglio d'amministrazione pel personale del Real Corpo del genio civile e per quello di custodia delle opere idrauliche e di bonifica. 
+ L'ispettore generale capo del Segretariato generale degli affari generali e del personale del Ministero dei lavori pubblici e' chiamato, a parita' di condizioni con tutti gli altri membri, a far parte del Consiglio d'amministrazione pel personale dell'Amministrazione centrale a tutti gli effetti dell'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), nonche' del Consiglio d'amministrazione pel personale del Real Corpo del genio civile e per quello di custodia delle opere idrauliche e di bonifica. 
  
  Lo stesso ispettore generale e' inoltre chiamato a far parte del Consiglio d'amministrazione del personale delle Nuove costruzioni ferroviarie al posto del direttore generale degli affari generali, previsto dall'[art. 6, lettera a), del R. decreto 25 marzo 1926, n. 548](Istituzione%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20della%20Direzione%20generale%20delle%20Nuove%20costruzioni%20ferroviarie.%20026U0548.md). 
  

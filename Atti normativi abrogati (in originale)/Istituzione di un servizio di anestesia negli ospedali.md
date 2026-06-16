@@ -22,13 +22,13 @@ Gli ospedali di prima categoria, quelli specializzati in branche chirurgiche a q
 ## Art. 2.
 
 Fermo restando l'obbligo di cui al primo comma dell'art. 1, le amministrazioni ospedaliere in relazione alle esigenze del servizio possono istituire nella pianta organica altri posti di medico anestesista.
- L'istituzione nella pianta organica di medici anestesisti e' fatta dall'amministrazione ospedaliera con l'osservanza delle modalita' previste dall'[art. 17 del regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631#art_17).
+ L'istituzione nella pianta organica di medici anestesisti e' fatta dall'amministrazione ospedaliera con l'osservanza delle modalita' previste dall'[art. 17 del regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md).
  La qualifica di medici anestesisti che possono essere primari, aiuti e assistenti e' disposta dalle amministrazioni in relazione alle esigenze ospedaliere e della effettiva consistenza per relativo servizio da disciplinarsi dagli enti con speciale regolamento.
  Per gli ospedali dipendenti da istituzioni pubbliche di assistenza e beneficenza la relativa relazione deve essere approvata dal Comitato provinciale di assistenza e beneficenza pubblica sentito il consiglio provinciale di sanita'.
 
 ## Art. 3.
 
-I medici anestesisti sono nominati in seguito a pubblico concorso, per titolo ed esame, ai sensi delle disposizioni del [regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631), salvo quanto dispongono il presente e i successivi articoli.
+I medici anestesisti sono nominati in seguito a pubblico concorso, per titolo ed esame, ai sensi delle disposizioni del [regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md), salvo quanto dispongono il presente e i successivi articoli.
  I concorsi vengono indetti ad iniziativa delle singole amministrazioni ospedaliere.
  L'Alto Commissario con proprio decreto stabilira' la modalita' e i programmi relativi.
 

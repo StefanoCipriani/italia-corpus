@@ -62,7 +62,7 @@ Alla copertura del trenta per cento dei posti di vigilatrice penitenziaria dispo
 
 2.
 
-La graduatoria sara' formata in base al punteggio conseguito dagli aventi diritto a seguito di un colloquio su materie attinenti alle mansioni proprie delle vigilatrici penitenziarie. A parita' di punteggio, avranno la precedenza coloro che vantano un numero maggiore globale di giornate di lavoro in qualita' di vigilatrici penitenziarie straordinarie; in caso di parita' di merito, si applica l'[articolo 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+La graduatoria sara' formata in base al punteggio conseguito dagli aventi diritto a seguito di un colloquio su materie attinenti alle mansioni proprie delle vigilatrici penitenziarie. A parita' di punteggio, avranno la precedenza coloro che vantano un numero maggiore globale di giornate di lavoro in qualita' di vigilatrici penitenziarie straordinarie; in caso di parita' di merito, si applica l'[articolo 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 3.
 

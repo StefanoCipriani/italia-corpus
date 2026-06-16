@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Considerata la necessita' di modificare la tabella del personale del ruolo diplomatico, in corrispondenza alle trasformazioni ed alle istituzioni di Regie rappresentanze all'estero;
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segret
 
 ## Articolo unico.
 
-Il numero dei posti stabiliti per il grado di Ambasciatore, per quello in Inviato straordinario e Ministro plenipotenziario di 1ª classe e per quello di Inviato straordinario e Ministro plenipotenziario di 2ª classe, con la tabella n. 20, allegato II, al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aumentato di due per ciascuo dei suindicati gradi. 
+Il numero dei posti stabiliti per il grado di Ambasciatore, per quello in Inviato straordinario e Ministro plenipotenziario di 1ª classe e per quello di Inviato straordinario e Ministro plenipotenziario di 2ª classe, con la tabella n. 20, allegato II, al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aumentato di due per ciascuo dei suindicati gradi. 
  
  Il presente decreto avra' effetto a decorrere dalla sua data e sara' presentato al Parlamento per essere convertito in legge. 
  

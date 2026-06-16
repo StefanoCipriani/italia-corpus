@@ -141,7 +141,7 @@ Per la finalita' di cui al presente articolo e' autorizzata, per l'anno 2005, la
 
 1.
 
-Con decorrenza dalla data di entrata nel territorio, nelle acque territoriali e nello spazio aereo dei Paesi interessati e fino alla data di uscita dagli stessi per il rientro nel territorio nazionale, al personale appartenente ai contingenti di cui agli articoli 1, commi 1, 2, 3, 4, 6 e 7, 2 e 7, comma 1, e' corrisposta per tutta la durata del periodo, in aggiunta allo stipendio o alla paga e agli altri assegni a carattere fisso e continuativo, l'indennita' di missione di cui al [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), nella misura del novantotto per cento, detraendo eventuali indennita' e contributi corrisposti agli interessati direttamente dagli organismi internazionali.
+Con decorrenza dalla data di entrata nel territorio, nelle acque territoriali e nello spazio aereo dei Paesi interessati e fino alla data di uscita dagli stessi per il rientro nel territorio nazionale, al personale appartenente ai contingenti di cui agli articoli 1, commi 1, 2, 3, 4, 6 e 7, 2 e 7, comma 1, e' corrisposta per tutta la durata del periodo, in aggiunta allo stipendio o alla paga e agli altri assegni a carattere fisso e continuativo, l'indennita' di missione di cui al [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), nella misura del novantotto per cento, detraendo eventuali indennita' e contributi corrisposti agli interessati direttamente dagli organismi internazionali.
 
 2.
 
@@ -181,7 +181,7 @@ Per i reati di cui al comma 2 la competenza territoriale e' del Tribunale di Rom
 
 4.
 
-Al personale militare impiegato nelle missioni di cui agli articoli 1, commi 3, 4, 5, 6, 7 e 8, 2, 3 e 7, commi 2, 3 e 4, si applicano il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
+Al personale militare impiegato nelle missioni di cui agli articoli 1, commi 3, 4, 5, 6, 7 e 8, 2, 3 e 7, commi 2, 3 e 4, si applicano il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
 
 ## Art. 12. — Disposizioni in materia contabile
 

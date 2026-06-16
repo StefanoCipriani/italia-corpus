@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alle marche doppie per la riscossione della tassa sui contratti di Borsa da cent. 60 e da L. 1,20, stabile col citato [R. decreto 19 giugno 1913, n. 745](Riguardante%20listituzione%20di%20nuovi%20valori%20bollati%20per%20contratti%20di%20borse.%20013U0745.md), ne sono sostituite altre del prezzo di cent. 70 e di L.1,35 aventi il formato, i disegni ed i colori identici a quelli delle marche ora esistenti, salvo l'indicazione del nuovo valore con le parole: «cent. settanta» e «lire una e cent. 35».
+Alle marche doppie per la riscossione della tassa sui contratti di Borsa da cent. 60 e da L. 1,20, stabile col citato [R. decreto 19 giugno 1913, n. 745](../Regi%20decreti/Riguardante%20listituzione%20di%20nuovi%20valori%20bollati%20per%20contratti%20di%20borse.%20013U0745.md), ne sono sostituite altre del prezzo di cent. 70 e di L.1,35 aventi il formato, i disegni ed i colori identici a quelli delle marche ora esistenti, salvo l'indicazione del nuovo valore con le parole: «cent. settanta» e «lire una e cent. 35».
 
 ## Art. 2.
 

@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 I sovrintendenti sanitari, i direttori sanitari, i primari, i direttori di farmacia, i vicedirettori sanitari e gli ispettori sanitari, gli aiuti, gli assistenti, i farmacisti e le ostetriche che all'entrata in vigore della presente legge prestino regolare servizio non di ruolo continuativo nei posti corrispondenti, sono nominati in ruolo dopo aver superato un concorso interno loro riservato.
- Detto concorso si deve svolgere a norma del [regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631), e successive modificazioni.
+ Detto concorso si deve svolgere a norma del [regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md), e successive modificazioni.
  I sanitari che abbiano conseguito l'idoneita' per il posto che occupano presso lo stesso ospedale o altro di pari o superiore categoria, sono esentati dalla prova scritta di esame.
 
 ## Art. 2.
@@ -41,7 +41,7 @@ Tutti i concorsi di cui ai precedenti articoli dovranno essere banditi entro ott
 
 ## Art. 5.
 
-I concorsi di cui alla [legge 9 agosto 1954, n. 653](Istituzione%20di%20un%20servizio%20di%20anestesia%20negli%20ospedali.md), si espletano a norma del [regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631), successivamente modificato dalle [leggi 10 marzo 1955, n. 97 e 17 ottobre 1964, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-17;1037).
+I concorsi di cui alla [legge 9 agosto 1954, n. 653](Istituzione%20di%20un%20servizio%20di%20anestesia%20negli%20ospedali.md), si espletano a norma del [regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md), successivamente modificato dalle [leggi 10 marzo 1955, n. 97 e 17 ottobre 1964, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-10-17;1037).
 
 ## Art. 6.
 

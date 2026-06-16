@@ -906,7 +906,7 @@ Al capitano giudicato non idoneo dalla detta commissione si applica il disposto 
 
 ## Art. 76.
 
-Nell'art. 138, dopo le parole «operazioni militari importanti nelle colonie», sono aggiunte le seguenti: «riconosciute tali con appositi decreti Reali, ai sensi del [R. decreto 18 marzo 1923, n. 621](Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md)».
+Nell'art. 138, dopo le parole «operazioni militari importanti nelle colonie», sono aggiunte le seguenti: «riconosciute tali con appositi decreti Reali, ai sensi del [R. decreto 18 marzo 1923, n. 621](../Regi%20decreti/Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md)».
 
 ## Art. 77.
 

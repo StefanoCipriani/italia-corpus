@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto l'art. 1 della legge 31 gennaio 1926-IV, n. 100; 
  
- Veduti gli [articoli 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_103), [139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_139), [358, testo unico leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_358), approvato con [R. decreto 27 luglio 1931, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-27;1265); 
+ Veduti gli [articoli 103](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [139](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [358, testo unico leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1931, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-27;1265); 
  
  Udito il Consiglio superiore di sanita'; 
  

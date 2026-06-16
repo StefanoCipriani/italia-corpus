@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Vista l'istanza in data 6 gennaio 1908 con la quale il comune di Intra chiede che quel porto lacuale, ora assimilato agli approdi marittimi di 2ª categoria, 2ª classe, 2ª serie sia parificato a quelli della 1ª serie della medesima categoria e classe; 
  
- Visto il [R. decreto 5 maggio 1887, n. 4508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-05-05;4508), col quale il porto suddetto fu parificato ai porti marittimi della 2ª classe (2ª serie) della seconda categoria; 
+ Visto il [R. decreto 5 maggio 1887, n. 4508](../Regi%20decreti/Che%20parifica%20ai%20porti%20marittimi%20della%202ª%20categoria%20e%20per%20le%20classi%202ª%20e%203ª%20i%20porti%20lacuali%20indicati%20negli%20annessi%20elenchi.%20087U4508.md), col quale il porto suddetto fu parificato ai porti marittimi della 2ª classe (2ª serie) della seconda categoria; 
  
  Ritenuto che dai dati statistici risulta che il tonnellaggio delle merci imbarcate e sbarcate nel porto suddetto supera le 100 mila tonnellate annue e che percio' al porto stesso puo' venire concessa la richiesta parificazione; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il porto lacuale di Intra e' parificato ai porti marittimi della 1ª serie, 2ª classe, 2ª categoria, ferme restando le aliquote di contributo degli enti interessati indicate nell'elenco approvato con [R. decreto 5 maggio 1887, n. 4508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-05-05;4508). 
+ Il porto lacuale di Intra e' parificato ai porti marittimi della 1ª serie, 2ª classe, 2ª categoria, ferme restando le aliquote di contributo degli enti interessati indicate nell'elenco approvato con [R. decreto 5 maggio 1887, n. 4508](../Regi%20decreti/Che%20parifica%20ai%20porti%20marittimi%20della%202ª%20categoria%20e%20per%20le%20classi%202ª%20e%203ª%20i%20porti%20lacuali%20indicati%20negli%20annessi%20elenchi.%20087U4508.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -20,7 +20,7 @@ Veduto l'[art.1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Veduti i [Regi decreti 6 luglio 1933, n. 1033](Ordinamento%20dellistituto%20nazionale%20fascista%20per%20lassicurazione%20contro%20gli%20infortuni%20sul%20lavoro.%20033U1033.md), e [24 ottobre 1935, n. 2250](Modificazioni%20allordinamento%20dellIstituto%20nazionale%20fascista%20per%20lassicurazione%20contro%20glinfortuni%20sul%20lavoro.%20035U2250.md), concernenti l'ordinamento dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro;
 
-Ritenuta l'opportunita', in seguito all'estensione del campo di applicazione dell'assicurazione obbligatoria contro gli infortuni sul lavoro sancita dal [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), di far partecipare al Comitato esecutivo dell'Istituto predetto una piu' equa rappresentanza delle categorie produttive soggette all'assicurazione predetta;
+Ritenuta l'opportunita', in seguito all'estensione del campo di applicazione dell'assicurazione obbligatoria contro gli infortuni sul lavoro sancita dal [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), di far partecipare al Comitato esecutivo dell'Istituto predetto una piu' equa rappresentanza delle categorie produttive soggette all'assicurazione predetta;
 
 Udito il Consiglio di Stato;
 

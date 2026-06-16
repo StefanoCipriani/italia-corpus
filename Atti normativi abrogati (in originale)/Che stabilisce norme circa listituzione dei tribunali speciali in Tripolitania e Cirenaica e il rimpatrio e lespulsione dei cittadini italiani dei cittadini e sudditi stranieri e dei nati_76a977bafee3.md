@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le colonie, di concer
 
 ## Art. 1.
 
-I tribunali speciali di cui all'[art. 11, secondo comma, del R. decreto 17 maggio 1919, n. 886](Relativo%20alla%20costituzione%20del%20Governo%20nella%20Tripolitania%20e%20nella%20Cirenaica.%20019U0886.md), saranno istituiti soltanto quando sia proclamato lo stato d'assedio e per il tempo della sua durata. Essi verranno formati e funzioneranno secondo le norme per i tribunali di guerra contenute nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e nelle altre leggi che regolano la materia.
+I tribunali speciali di cui all'[art. 11, secondo comma, del R. decreto 17 maggio 1919, n. 886](Relativo%20alla%20costituzione%20del%20Governo%20nella%20Tripolitania%20e%20nella%20Cirenaica.%20019U0886.md), saranno istituiti soltanto quando sia proclamato lo stato d'assedio e per il tempo della sua durata. Essi verranno formati e funzioneranno secondo le norme per i tribunali di guerra contenute nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e nelle altre leggi che regolano la materia.
 
 ## Art. 2.
 

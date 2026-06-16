@@ -10,19 +10,19 @@ vigente: true
 
 ## Art. 1.
 
-I condannati alla pena della reclusione possono essere assegnati, fin tanto che non esistano tutti gli stabilimenti preveduti nell'[articolo 13 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), a pubblici lavori di dissodamento e di bonifica, in conformita' alle disposizioni prevedute nell'articolo 5. 
+I condannati alla pena della reclusione possono essere assegnati, fin tanto che non esistano tutti gli stabilimenti preveduti nell'[articolo 13 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), a pubblici lavori di dissodamento e di bonifica, in conformita' alle disposizioni prevedute nell'articolo 5. 
  
  Si richiede pero' la domanda del condannato ov'esso sia maggiore degli anni sessanta, ovvero si tratti di un condannato a non oltre un anno di pena.
 
 ## Art. 2.
 
-I condannati alla reclusione, che scontino la pena o parte di essa nei lavori preveduti nell'articolo 1, sono ammessi al beneficio di cui nell'[articolo 14 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+I condannati alla reclusione, che scontino la pena o parte di essa nei lavori preveduti nell'articolo 1, sono ammessi al beneficio di cui nell'[articolo 14 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  A tal fine i terreni bonificati e ridotti a coltura mediante i detti lavori, quando non sieno ceduti a privati coltivatori, possono essere convertiti in stabilimenti intermedi giusta lo stesso articolo 14.
 
 ## Art. 3.
 
-I condannati alla pena della detenzione, che ne facciano domanda, possono esser ammessi tanto ai lavori preveduti nell'articolo 1, quanto negli stabilimenti preveduti nell'[articolo 14 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+I condannati alla pena della detenzione, che ne facciano domanda, possono esser ammessi tanto ai lavori preveduti nell'articolo 1, quanto negli stabilimenti preveduti nell'[articolo 14 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4.
 

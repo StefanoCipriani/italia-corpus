@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440); [22 maggio 1924, n. 786, ed il regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-05-22;786) approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), relativi all'amministrazione del patrimonio e alla contabilita' generale dello Stato;
+Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md); [22 maggio 1924, n. 786, ed il regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-05-22;786) approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), relativi all'amministrazione del patrimonio e alla contabilita' generale dello Stato;
 
 Visti il testo unico di leggi sui telefoni approvato col [R. decreto 3 maggio 1903, n. 196](Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md), ed il regolamento approvato con [R. decreto 21 maggio 1903, n. 253](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20di%20legge%20sui%20telefoni%20del%203%20maggio%201903%20n.%20196.%20003U0253.md), e rispettive modificazioni;
 

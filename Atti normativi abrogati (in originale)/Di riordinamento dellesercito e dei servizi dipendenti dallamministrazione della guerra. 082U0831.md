@@ -100,7 +100,7 @@ I militari dell'esercito sono classificati in due grandi categorie:
 
 ### Art. 6.
 
-Gli impiegati dei personali vari dipendenti dall'Amministrazione della Guerra, contemplati nel capo III di questa legge, non sono soggetti alla disciplina militare ed alla legge penale militare in tempo di pace. In tempo di guerra invece sono sottoposti alla giurisdizione militare nei termini stabiliti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+Gli impiegati dei personali vari dipendenti dall'Amministrazione della Guerra, contemplati nel capo III di questa legge, non sono soggetti alla disciplina militare ed alla legge penale militare in tempo di pace. In tempo di guerra invece sono sottoposti alla giurisdizione militare nei termini stabiliti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  A questi impiegati sono applicabili, quanto alle posizioni di disponibilita' ed aspettativa, e quanto alle pensioni, le leggi relative agl'impiegati civili dello Stato.
 
@@ -474,7 +474,7 @@ Ai servizi accessori dell'esercito provvedono i seguenti personali:
 
 ### Art. 52.
 
-Il personale della giustizia militare, di cui la tabella n. XIV determina il numero, il grado e le classi, e' ripartito in conformita' di quanto e' stabilito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e si compone di: 
+Il personale della giustizia militare, di cui la tabella n. XIV determina il numero, il grado e le classi, e' ripartito in conformita' di quanto e' stabilito dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e si compone di: 
  
  Un avvocato generale militare; 
  
@@ -688,7 +688,7 @@ Le compagnie di disciplina sono destinate ad incorporare i soldati dei vari corp
 
 ### Art. 71.
 
-Gli stabilimenti militari di pena sono di due specie, come e' stabilito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, cioe' la reclusione militare e le carceri militari, e sono luoghi di detenzione e di lavoro obbligatorio, retti da speciale disciplina.
+Gli stabilimenti militari di pena sono di due specie, come e' stabilito dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, cioe' la reclusione militare e le carceri militari, e sono luoghi di detenzione e di lavoro obbligatorio, retti da speciale disciplina.
 
 ### Art. 72.
 

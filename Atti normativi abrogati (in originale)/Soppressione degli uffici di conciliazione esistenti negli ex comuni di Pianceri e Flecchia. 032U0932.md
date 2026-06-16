@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 5 febbraio 1928, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;220), con il quale i comuni di Pianceri e Flecchia sono stati aggregati a quello di Pray; 
+ Visto il [R. decreto 5 febbraio 1928, n. 220](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Pianceri%20e%20Flecchia%20a%20quello%20di%20Pray.%20028U0220.md), con il quale i comuni di Pianceri e Flecchia sono stati aggregati a quello di Pray; 
  Vista la deliberazione del podesta' del comune di Pray, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Pianceri e Flecchia; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli articoli ? della legge 16 giugno 1592, n. 261, e ? del relativo regolamento 26 dicembre stesso anno, n. 728; 

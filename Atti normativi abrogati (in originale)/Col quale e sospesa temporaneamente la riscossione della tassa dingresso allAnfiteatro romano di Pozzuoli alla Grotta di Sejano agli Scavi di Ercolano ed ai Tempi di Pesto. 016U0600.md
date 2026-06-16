@@ -24,11 +24,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 27 maggio 1875, n. 2554](Sulla%20tassa%20di%20entrata%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20archeologici.%20075U2554.md) (serie 2ª), sulla tassa di entrata nei musei, gallerie, monumenti e scavi; 
  
- Visto il [R. decreto 10 giugno 1875, n. 2555](Che%20stabilisce%20la%20tassa%20di%20entrata%20in%20alcune%20gallerie%20e%20musei%20governativi.%20075U2555.md) (serie 2ª), che stabilisce la tassa di entrata negli scavi di Ercolano e nei monumenti di Pozzuoli e di Pesto; 
+ Visto il [R. decreto 10 giugno 1875, n. 2555](../Regi%20decreti/Che%20stabilisce%20la%20tassa%20di%20entrata%20in%20alcune%20gallerie%20e%20musei%20governativi.%20075U2555.md) (serie 2ª), che stabilisce la tassa di entrata negli scavi di Ercolano e nei monumenti di Pozzuoli e di Pesto; 
  
  Visti gli articoli 6, 14 e 17 del regolamento generale, approvato con decreto Reale 11 giugno 1885, n. 3191 (serie 3ª), per la riscossione e pel conteggio della tassa d'ingresso nei musei, gallerie, scavi e monumenti nazionali; 
  
- Visto il [R. decreto 2 novembre 1899, n. 408](Modificante%20la%20prima%20parte%20dellarticolo%2014%20del%20Regolamento%2011%20giugno%201885%20n.%203191%20per%20quanto%20concerne%20versamenti%20da%20farsi%20nella%20Tesoreria%20Provinciale%20dagli%20agenti%20di%20riscossione%20del%20Minis_1db17a8a8ed0.md), che modifica il predetto art. 14 del citato regolamento; 
+ Visto il [R. decreto 2 novembre 1899, n. 408](../Regi%20decreti/Modificante%20la%20prima%20parte%20dellarticolo%2014%20del%20Regolamento%2011%20giugno%201885%20n.%203191%20per%20quanto%20concerne%20versamenti%20da%20farsi%20nella%20Tesoreria%20Provinciale%20dagli%20agenti%20di%20riscossione%20del%20Minis_1db17a8a8ed0.md), che modifica il predetto art. 14 del citato regolamento; 
  
  Considerato che per le eccezionali circostanze che il paese attraversa, gl'incassi delle tasse d'ingresso all'Anfiteatro Romano in Pozzuoli, alla Grotta di Sejano in Pozzuoli, agli scavi di Ercolano e ai Tempi di Pesto sono talmente esigui da non compensare le spese occorrenti pel viaggio del funzionario che dalla soprintendenza agli scavi di Napoli si reca settimanalmente a ritirarli; 
  

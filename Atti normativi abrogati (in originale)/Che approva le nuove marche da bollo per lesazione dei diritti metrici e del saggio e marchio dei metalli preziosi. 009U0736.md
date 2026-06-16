@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il regolamento approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), per l'esecuzione della [legge 2 maggio 1872, n. 806](Sulla%20fabbricazione%20ed%20il%20commercio%20degli%20oggetti%20doro%20e%20dargento%20di%20qualunque%20titolo.%20072U0806.md), sulla fabbricazione e sul commercio degli oggetti d'oro e d'argento, e del testo unico delle leggi metriche, approvato col [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088);
+Visto il regolamento approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), per l'esecuzione della [legge 2 maggio 1872, n. 806](Sulla%20fabbricazione%20ed%20il%20commercio%20degli%20oggetti%20doro%20e%20dargento%20di%20qualunque%20titolo.%20072U0806.md), sulla fabbricazione e sul commercio degli oggetti d'oro e d'argento, e del testo unico delle leggi metriche, approvato col [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md);
 
 Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio, di concerto con quello delle finanze; Abbiamo decretato e decretiamo:
 

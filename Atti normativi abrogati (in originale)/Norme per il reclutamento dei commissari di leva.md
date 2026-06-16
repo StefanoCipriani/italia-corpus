@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Il personale civile del ruolo dei commissari di leva e' tratto per concorso per titoli dagli ufficiali dell'Esercito in servizio permanente o nelle posizioni di "ausiliaria" o della "riserva", aventi grado di capitano, maggiore, tenente colonnello e colonnello di tutte le armi e servizi, che non abbiano superato, alla data del decreto che bandisce il concorso, l'eta' di 58 anni.
- Al detto personale dipendente dal Ministero della difesa, sono applicabili le disposizioni del [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni, sullo stato giuridico degli impiegati civili dello Stato, salvo quanto appresso stabilito.
+ Al detto personale dipendente dal Ministero della difesa, sono applicabili le disposizioni del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, sullo stato giuridico degli impiegati civili dello Stato, salvo quanto appresso stabilito.
 
 ## Art. 2.
 

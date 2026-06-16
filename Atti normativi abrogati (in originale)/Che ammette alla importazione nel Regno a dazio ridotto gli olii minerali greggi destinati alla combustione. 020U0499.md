@@ -18,7 +18,7 @@ Vista la [legge 3 luglio 1904, n. 329](Riflettente%20agevolazioni%20alle%20indus
 
 Visto il nostro decreto 24 settembre 1914, n. 1032;
 
-Visto il testo unico della tariffa generale dei dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md);
+Visto il testo unico della tariffa generale dei dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md);
 
 Udito il Consiglio dei ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Alla voce n. 11 del testo unico della tariffa generale dei dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), e' aggiunta la seguente nota: 
+Alla voce n. 11 del testo unico della tariffa generale dei dazi doganali, approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), e' aggiunta la seguente nota: 
  
  «Gli olii minerali greggi e i residui della distillazione di olii minerali, destinati a essere impiegati esclusivamente e direttamente come combustibili, sono ammessi al dazio di L. 0,50 per quintale. 
  

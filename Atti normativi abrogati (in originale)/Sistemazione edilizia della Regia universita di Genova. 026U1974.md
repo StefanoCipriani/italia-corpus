@@ -58,7 +58,7 @@ La somma di L. 3,486,000, residuo del fondo autorizzato con la [legge 27 giugno 
 
 Ultimati i lavori si procedera' al loro collaudo da una Commissione composta dell'ispettore superiore compartimentale del Genio civile, di un ingegnere delegato dal Comune e di un terzo tecnico scelto d'accordo dai due precedenti. 
  
- I nuovi edifici che saranno costruiti con i fondi di cui agli articoli 1 e 4 del presente decreto saranno di proprieta' dello Stato e del comune di Genova proporzionalmente ai rispettivi contributi nella spesa di costruzione e saranno concessi in uso perpetuo alla Regia universita' di Genova a norma dell'[art. 67 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
+ I nuovi edifici che saranno costruiti con i fondi di cui agli articoli 1 e 4 del presente decreto saranno di proprieta' dello Stato e del comune di Genova proporzionalmente ai rispettivi contributi nella spesa di costruzione e saranno concessi in uso perpetuo alla Regia universita' di Genova a norma dell'[art. 67 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 6.
 

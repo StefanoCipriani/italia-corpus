@@ -132,7 +132,7 @@ Nessuna pubblicita' di medicinali presso il pubblico puo' essere effettuata senz
 
 2.
 
-L'autorizzazione e' rilasciata dal Ministero della sanita', sentita la Commissione di esperti prevista dall'[art. 201 del Testo Unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201) approvato con R.D. 27 luglio l934, n. 1265 e successive modificazioni.
+L'autorizzazione e' rilasciata dal Ministero della sanita', sentita la Commissione di esperti prevista dall'[art. 201 del Testo Unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R.D. 27 luglio l934, n. 1265 e successive modificazioni.
 
 3.
 
@@ -182,7 +182,7 @@ Qualora la pubblicita' presso il pubblico sia effettuata in violazione delle dis
 
 10.
 
-Chi effettua pubblicita' presso il pubblico in violazione delle disposizioni del presente decreto e' soggetto alle sanzioni penali previste dall'ultimo comma dell'[art. 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e suc- cessive modificazioni.
+Chi effettua pubblicita' presso il pubblico in violazione delle disposizioni del presente decreto e' soggetto alle sanzioni penali previste dall'ultimo comma dell'[art. 201 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e suc- cessive modificazioni.
 
 ## Art. 7. — Pubblicita' presso gli operatori sanitari
 
@@ -280,7 +280,7 @@ I medici e i farmacisti non possono sollecitare o accettare alcun incentivo viet
 
 3.
 
-In caso di violazione dei commi 1 e 2 si applicano le pene previste dagli [articoli 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_170), [171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_171) e [172 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_172) approvato con [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), come modificati dall'art. 16, comma 1, del presente decreto.
+In caso di violazione dei commi 1 e 2 si applicano le pene previste dagli [articoli 170](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [171](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [172 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R.D. 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), come modificati dall'art. 16, comma 1, del presente decreto.
 
 ## Art. 12. — Convegni o congressi riguardanti i medicinali
 
@@ -376,7 +376,7 @@ Tranne che nel caso di evidenti difficolta' tecniche, sull'imballaggio, sul cond
 
 9.
 
-Non puo' essere fornito alcun campione dei medicinali disciplinati dal [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
+Non puo' essere fornito alcun campione dei medicinali disciplinati dal [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 10.
 
@@ -432,7 +432,7 @@ Chi viola disposizioni del presente articolo soggiace alla sanzione amministrati
 
 1.
 
-La violazione delle disposizioni del presente decreto sulla pubblicita' presso gli operatori sanitari comporta l'irrogazione delle sanzioni penali previste dall'[articolo 201 del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201) approvato con [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e successive modificazioni. Il Ministero della sanita' adotta, se del caso, i 
+La violazione delle disposizioni del presente decreto sulla pubblicita' presso gli operatori sanitari comporta l'irrogazione delle sanzioni penali previste dall'[articolo 201 del T.U. delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R.D. 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e successive modificazioni. Il Ministero della sanita' adotta, se del caso, i 
 provvedimenti indicati all'art. 6, comma 9.
 
 2.
@@ -443,7 +443,7 @@ Per i medicinali inclusi nel prontuario terapeutico del Servizio sanitario nazio
 
 1.
 
-Agli [articoli 170, primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_170-com1) e [171, primo comma del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_171-com1) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e successive modificazioni, le parole "con l'arresto fino a un anno o con l'ammenda" sono sostituite dalle parole "con l'arresto fino a un anno e con l'ammenda". Il secondo comma dell'articolo 170 e il secondo comma dell'articolo 171 del citato [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) sono soppressi. Nel quarto comma dell'articolo 170 e nel quarto comma dell'articolo 171 dello stesso testo unico le parole "all'arresto" sono soppresse.
+Agli [articoli 170, primo comma](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [171, primo comma del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e successive modificazioni, le parole "con l'arresto fino a un anno o con l'ammenda" sono sostituite dalle parole "con l'arresto fino a un anno e con l'ammenda". Il secondo comma dell'articolo 170 e il secondo comma dell'articolo 171 del citato [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) sono soppressi. Nel quarto comma dell'articolo 170 e nel quarto comma dell'articolo 171 dello stesso testo unico le parole "all'arresto" sono soppresse.
 
 2.
 

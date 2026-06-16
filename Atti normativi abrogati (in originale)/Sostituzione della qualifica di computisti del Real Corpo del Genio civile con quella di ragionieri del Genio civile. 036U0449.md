@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni; 
  
- Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni; 
+ Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni; 
  
  Visto il [R. decreto 12 giugno 1931, n. 915](Approvazione%20dei%20ruoli%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20in%20applicazione%20dei%20Regi%20decreti%209%20agosto%201929%20n.%201457%20e%2024%20luglio%201930%20n.%201088.%20031U0915.md), che approva i ruoli del personale dell'Amministrazione dei lavori pubblici ed istituisce il ruolo dei computisti del Corpo Reale del Genio civile; 
  

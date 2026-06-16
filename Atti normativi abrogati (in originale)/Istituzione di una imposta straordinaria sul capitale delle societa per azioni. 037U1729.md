@@ -20,7 +20,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la urgente necessita' di provvedere ad assicurare, in relazione alle esigenze del bilancio, nuove entrate tributarie;
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni;
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 
@@ -50,7 +50,7 @@ Le societa' in accomandita per azioni sono tenute alla imposta per la sola quota
 
 ## Art. 4.
 
-Le societa' straniere operanti nel Regno sono tenute alla imposta straordinaria per il capitale valutato per l'anno 1937, con le norme stabilite dagli [articoli 10 e seguenti del R. decreto 30 dicembre 1923, n. 3280](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md).
+Le societa' straniere operanti nel Regno sono tenute alla imposta straordinaria per il capitale valutato per l'anno 1937, con le norme stabilite dagli [articoli 10 e seguenti del R. decreto 30 dicembre 1923, n. 3280](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md).
 
 ## Art. 5.
 
@@ -238,13 +238,13 @@ Il diritto di iscrivere a ruolo l'imposta si prescrive col 31 dicembre dell'anno
 
 ## Art. 26.
 
-Per le dichiarazioni e per l'accertamento dei capitali soggetti alla imposta straordinaria si applicano le norme e le penalita' del [R. decreto 17 settembre 1931 n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), con le variazioni seguenti: 
+Per le dichiarazioni e per l'accertamento dei capitali soggetti alla imposta straordinaria si applicano le norme e le penalita' del [R. decreto 17 settembre 1931 n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), con le variazioni seguenti: 
  
  La sopratassa per omessa dichiarazione e' stabilita nella misura di un terzo della imposta straordinaria che risultera' accertata, e quella per infedele dichiarazione nella misura di un terzo della differenza tra l'imposta dovuta e quella che sarebbe stata applicabile in base alla dichiarazione fatta. 
  
- Il limite massimo dell'ammenda di cui all'[art. 20 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_20), e' stabilito in L. 10.000, aumentabili fino al triplo ai sensi dell'[art. 26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Il limite massimo dell'ammenda di cui all'[art. 20 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), e' stabilito in L. 10.000, aumentabili fino al triplo ai sensi dell'[art. 26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Il limite massimo della multa prevista dall'articolo 18 del citato Regio decreto e' elevato a lire 50.000, aumentabile fino al triplo ai sensi dell'[articolo 24, terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed il presidente, l'amministratore delegato e i sindaci che siano incorsi in detta pena decadono dalla carica, e non possono coprire per un quinquennio cariche identiche od analoghe presso qualsiasi altra societa'.
+ Il limite massimo della multa prevista dall'articolo 18 del citato Regio decreto e' elevato a lire 50.000, aumentabile fino al triplo ai sensi dell'[articolo 24, terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ed il presidente, l'amministratore delegato e i sindaci che siano incorsi in detta pena decadono dalla carica, e non possono coprire per un quinquennio cariche identiche od analoghe presso qualsiasi altra societa'.
 
 ## Art. 27.
 

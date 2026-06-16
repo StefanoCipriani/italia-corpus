@@ -30,7 +30,7 @@ All'art. 21 del detto testo unico di legge sugli Istituti di emissione e' sostit
 
 ## Art. 3.
 
-E' convertito in legge il [R. decreto 16 settembre 1912, n. 1068](Col%20quale%20viene%20modificato%20il%201%20comma%20dellart.25%20del%20testo%20unico%20della%20legge%2028%20aprile%201910%20n.%20204%20sugli%20Istituti%20di%20emissione%20012U1068.md), col quale al primo comma dell'art. 25 del testo unico predetto e' sostituito il seguente: 
+E' convertito in legge il [R. decreto 16 settembre 1912, n. 1068](../Regi%20decreti/Col%20quale%20viene%20modificato%20il%201%20comma%20dellart.25%20del%20testo%20unico%20della%20legge%2028%20aprile%201910%20n.%20204%20sugli%20Istituti%20di%20emissione%20012U1068.md), col quale al primo comma dell'art. 25 del testo unico predetto e' sostituito il seguente: 
  
  La somma totale delle anticipazioni che gli Istituti di emissione debbono fare al tesoro e' fissata in 155 milioni, cosi' ripartita: 
  

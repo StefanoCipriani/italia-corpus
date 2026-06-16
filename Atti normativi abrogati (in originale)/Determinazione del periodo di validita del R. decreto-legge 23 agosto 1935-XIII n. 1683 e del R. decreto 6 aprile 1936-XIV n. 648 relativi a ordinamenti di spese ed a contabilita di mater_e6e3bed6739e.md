@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il decreto-legge 1 giugno 1936-XIV, n. 1019, sull'ordinamento organico e sull'amministrazione dell'Africa Orientale Italiana;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente l'amministrazione del patrimonio e la contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente l'amministrazione del patrimonio e la contabilita' generale dello Stato;
 
 Visto il R. decreto 24 luglio 1936-XIV, n. 1653, riguardante le norme per l'esecuzione di opere pubbliche di carattere generale nell'Africa Orientale;
 

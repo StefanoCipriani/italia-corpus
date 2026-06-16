@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Viste le norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
+Viste le norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
 
 Ritenuta la necessita' urgente ed assoluta di riservare allo Stato la fabbricazione, la distribuzione e la vendita delle targhe di riconoscimento degli autoveicoli appartenenti ai Membri del Corpo diplomatico;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per le comunicazioni, di concert
 
 ## Art. 1.
 
-La fabbricazione, la distribuzione e la vendita delle targhe di riconoscimento degli autoveicoli appartenenti ai Membri del Corpo diplomatico sono assoggettate alle disposizioni del 1°, 2°, 3° e 4° comma dell'art. 75 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
+La fabbricazione, la distribuzione e la vendita delle targhe di riconoscimento degli autoveicoli appartenenti ai Membri del Corpo diplomatico sono assoggettate alle disposizioni del 1°, 2°, 3° e 4° comma dell'art. 75 delle norme per la tutela delle strade e per la circolazione approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md).
 
 ## Art. 2.
 

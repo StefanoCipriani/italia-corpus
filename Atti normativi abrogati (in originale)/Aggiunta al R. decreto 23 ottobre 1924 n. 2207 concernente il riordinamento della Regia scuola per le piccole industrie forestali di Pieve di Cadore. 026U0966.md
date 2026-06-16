@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto il [R. decreto 23 ottobre 1924, n. 2207](Riordinamento%20della%20Regia%20scuola%20per%20le%20piccole%20industrie%20forestali%20in%20Pieve%20di%20Cadore.%20024U2207.md), concernente il riordinamento della Regia scuola per le piccole industrie forestali in Pieve di Cadore;
 
-Visto il [R. decreto 17 dicembre 1922, n. 1875](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-17;1875), concernente la istituzione della suddetta Scuola di Pieve di Cadore;
+Visto il [R. decreto 17 dicembre 1922, n. 1875](../Regi%20decreti/Riordinamento%20cambiamento%20di%20denominazione%20istituzione%20e%20classificazione%20di%20scuole.%20022U1875.md), concernente la istituzione della suddetta Scuola di Pieve di Cadore;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Il [terzo comma dell'art. 3 del R. decreto 23 ottobre 1924, n. 2207](Riordinamento%20della%20Regia%20scuola%20per%20le%20piccole%20industrie%20forestali%20in%20Pieve%20di%20Cadore.%20024U2207.md), viene completato con il seguente capoverso riportato nel [R. decreto 17 dicembre 1922, n. 1875](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-17;1875): 
+Il [terzo comma dell'art. 3 del R. decreto 23 ottobre 1924, n. 2207](Riordinamento%20della%20Regia%20scuola%20per%20le%20piccole%20industrie%20forestali%20in%20Pieve%20di%20Cadore.%20024U2207.md), viene completato con il seguente capoverso riportato nel [R. decreto 17 dicembre 1922, n. 1875](../Regi%20decreti/Riordinamento%20cambiamento%20di%20denominazione%20istituzione%20e%20classificazione%20di%20scuole.%20022U1875.md): 
  
  «Salvo discarico, anno per anno, di quelle somme che saranno elargite, dalla Provincia, dalla Camera di commercio e dai Comuni piu' interessati dei mandamenti di Pieve ed Auronzo». 
  

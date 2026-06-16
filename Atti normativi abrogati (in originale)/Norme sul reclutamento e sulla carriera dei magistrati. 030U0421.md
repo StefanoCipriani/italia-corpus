@@ -28,7 +28,7 @@ E' istituito il ruolo separato della magistratura delle preture.
 
 Per essere nominato uditore di pretura e' necessario aver vinto la prova di un concorso per esame teorico pratico secondo le norme da stabilire per Regio decreto, ai termini dell'art. 12, capoverso 1, della presente legge. Tuttavia nel classificare i vincitori del concorso si terra' conto altresi' del servizio eventualmente prestato in qualita' di vice pretore onorario. 
  
- Per le condizioni di ammissibilita' al concorso si applicano le disposizioni degli [articoli 10](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [103 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). 
+ Per le condizioni di ammissibilita' al concorso si applicano le disposizioni degli [articoli 10](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [103 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). 
  
  Gli uditori di pretura sono destinati con decreto Ministeriale alle preture, per compiervi il loro tirocinio, con la mensile indennita' di L. 600. 
  
@@ -62,7 +62,7 @@ Per essere ammesso a funzioni giudiziarie nei collegi o negli uffici del pubblic
  
  Per essere nominato uditore di tribunale occorre aver vinto la prova di un concorso per esame, secondo le norme da stabilire per Regio decreto, ai termini dell'art. 12, capoverso 1, della presente legge. 
  
- Per le condizioni di ammissibilita' al concorso si applicano le disposizioni degli [articoli 10](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [103 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). 
+ Per le condizioni di ammissibilita' al concorso si applicano le disposizioni degli [articoli 10](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [103 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). 
  
  Gli uditori di tribunale sono normalmente destinati con decreto Ministeriale ai collegi giudiziari o agli uffici del pubblico ministero per compiervi un tirocinio della durata di almeno tre anni; ma dopo i primi sei mesi possono anche, per necessita' di servizio, essere destinati alle preture, che hanno sede nei capoluoghi di Provincia, per esercitarvi, con giurisdizione piena, le funzioni di vice pretore. 
  
@@ -70,7 +70,7 @@ Per essere ammesso a funzioni giudiziarie nei collegi o negli uffici del pubblic
  
  Ove l'uditore venga destinato ad esercitare le funzioni di vice pretore, percepira' un'indennita' mensile di 900 lire. 
  
- L'uditore di tribunale che abbia compiuto il periodo di tirocinio puo' conseguire la nomina a giudice aggiunto, quando superi con buon esito la prova di esame prescritta dagli [articoli 109](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [110 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). A tale esame l'uditore puo' presentarsi dopo almeno due anni di tirocinio.
+ L'uditore di tribunale che abbia compiuto il periodo di tirocinio puo' conseguire la nomina a giudice aggiunto, quando superi con buon esito la prova di esame prescritta dagli [articoli 109](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [110 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). A tale esame l'uditore puo' presentarsi dopo almeno due anni di tirocinio.
 
 ### Art. 7.
 

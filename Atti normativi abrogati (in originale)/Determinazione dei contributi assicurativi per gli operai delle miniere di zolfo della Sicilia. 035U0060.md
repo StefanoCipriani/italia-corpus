@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'art. 150 regolamento approvato con [R. decreto 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1422), per l'esecuzione del decreto 30 dicembre 1923, n. 3184, sull'assicurazione per l'invalidita' e la vecchiaia;
+Veduto l'art. 150 regolamento approvato con [R. decreto 28 agosto 1924, n. 1422](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20linvalidita%20e%20la%20vecchiaia.%20024U1422.md), per l'esecuzione del decreto 30 dicembre 1923, n. 3184, sull'assicurazione per l'invalidita' e la vecchiaia;
 
-Veduto l'art. 74 del regolamento approvato con [R. decreto 7 dicembre 1924, n. 2270](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203158%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20024U2270.md), per l'esecuzione del [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), sull'assicurazione contro la disoccupazione involontaria;
+Veduto l'art. 74 del regolamento approvato con [R. decreto 7 dicembre 1924, n. 2270](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203158%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20024U2270.md), per l'esecuzione del [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), sull'assicurazione contro la disoccupazione involontaria;
 
 Veduto l'[art. 3 del R. decreto-legge 27 ottobre 1927, n. 2055](Assicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20027U2055.md), convertito, con modificazioni, nella [legge 20 maggio 1928, n. 1132](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20ottobre%201927%20n.%202055%20che%20istituisce%20lassicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20028U1132.md), sull'assicurazione obbligatoria contro la tubercolosi;
 

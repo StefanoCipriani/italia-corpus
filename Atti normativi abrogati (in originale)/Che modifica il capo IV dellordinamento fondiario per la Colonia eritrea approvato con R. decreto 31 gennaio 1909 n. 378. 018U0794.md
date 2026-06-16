@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md), sull'ordinamento della Colonia eritrea;
 
-Visto l'ordinamento fondiario per la Colonia eritrea approvato con [R. decreto 31 gennaio 1909, n. 378](Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md);
+Visto l'ordinamento fondiario per la Colonia eritrea approvato con [R. decreto 31 gennaio 1909, n. 378](../Regi%20decreti/Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md);
 
 Considerata l'opportunita' di modificare le disposizioni contenute nel capo IV del detto ordinamento fondiario in armonia alle esigenze dello sviluppo e dell'incremento dell'industria mineraria nella Eritrea;
 
@@ -36,7 +36,7 @@ Sulla proposta del ministro segretario di Stato per le colonie;
 
 Abbiamo decretato e decretiamo:
 
-Al capo IV del [R. decreto 31 gennaio 1909, n. 378](Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), e agli articoli in esso contenuti sono sostituiti i seguenti:
+Al capo IV del [R. decreto 31 gennaio 1909, n. 378](../Regi%20decreti/Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), e agli articoli in esso contenuti sono sostituiti i seguenti:
 
 CAPO IV.
 
@@ -346,7 +346,7 @@ Art. 152.
 
 Con decreto del governatore saranno emanate tutte le norme necessarie per l'attuazione delle disposizioni contenute nel presente capo, e particolarmente quelle riguardanti la polizia delle miniere, la disciplina dei lavori in rapporto alla pubblica incolumita' o all'interesse pubblico, e il controllo sulla estrazione e sulla circolazione dei prodotti della miniera, agli effetti delle prescrizioni contenute nell'art. 136.
 
-Con le dette norme saranno altresi' stabilite le penalita' pecuniarie per i contravventori fino a un massimo di lire diecimila, salvo le altre pene che siano applicabili a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Con le dette norme saranno altresi' stabilite le penalita' pecuniarie per i contravventori fino a un massimo di lire diecimila, salvo le altre pene che siano applicabili a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 Art. 153.
 
@@ -380,7 +380,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md), sull'ordinamento della Colonia eritrea; 
  
- Visto l'ordinamento fondiario per la Colonia eritrea approvato con [R. decreto 31 gennaio 1909, n. 378](Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md); 
+ Visto l'ordinamento fondiario per la Colonia eritrea approvato con [R. decreto 31 gennaio 1909, n. 378](../Regi%20decreti/Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md); 
  
  Considerata l'opportunita' di modificare le disposizioni contenute nel capo IV del detto ordinamento fondiario in armonia alle esigenze dello sviluppo e dell'incremento dell'industria mineraria nella Eritrea; 
  
@@ -394,7 +394,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Al capo IV del [R. decreto 31 gennaio 1909, n. 378](Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), e agli articoli in esso contenuti sono sostituiti i seguenti: 
+ Al capo IV del [R. decreto 31 gennaio 1909, n. 378](../Regi%20decreti/Che%20approva%20lordinamento%20fondiario%20per%20la%20Colonia%20Eritrea.%20009U0378.md), e agli articoli in esso contenuti sono sostituiti i seguenti: 
  
  CAPO IV. 
  
@@ -700,7 +700,7 @@ In tal caso compete allo scopritore un premio e il rimborso delle spese secondo 
  
  Con decreto del governatore saranno emanate tutte le norme necessarie per l'attuazione delle disposizioni contenute nel presente capo, e particolarmente quelle riguardanti la polizia delle miniere, la disciplina dei lavori in rapporto alla pubblica incolumita' o all'interesse pubblico, e il controllo sulla estrazione e sulla circolazione dei prodotti della miniera, agli effetti delle prescrizioni contenute nell'art. 136. 
  
- Con le dette norme saranno altresi' stabilite le penalita' pecuniarie per i contravventori fino a un massimo di lire diecimila, salvo le altre pene che siano applicabili a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Con le dette norme saranno altresi' stabilite le penalita' pecuniarie per i contravventori fino a un massimo di lire diecimila, salvo le altre pene che siano applicabili a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Art. 153. 
  

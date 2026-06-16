@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 18 maggio 1931, n. 648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;648), col quale il comune di Ioannis e' stato unito a quello di Aiello; 
+ Visto il [R. decreto 18 maggio 1931, n. 648](../Regi%20decreti/Unione%20del%20comune%20di%20Ioannis%20a%20quello%20di%20Aiello.%20031U0648.md), col quale il comune di Ioannis e' stato unito a quello di Aiello; 
  Vista la deliberazione del commissario prefettizio del comune di Aiello, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Ioannis; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Trieste; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

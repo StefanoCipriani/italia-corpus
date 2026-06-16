@@ -26,7 +26,7 @@ Sulla proposta dei Ministri segretari di Stato per i lavori pubblici e per l'int
 
 ## Articolo unico.
 
-Fermo restando quant'altro stabilito dal [regio decreto 25 agosto 1938, n. 2274](Estensione%20al%20comune%20di%20Reggio%20Emilia%20delle%20disposizioni%20dellart.%208%20della%20legge%2012%20luglio%201896%20n.%20303%20riguardante%20la%20fognatura%20della%20citta%20di%20Torino.%20038U2274.md), e' confermata la dichiarazione di pubblica utilita' dei lavori di costruzione della fognatura nella citta' di Reggio Emilia ed e' prorogato al 21 aprile 1951 il termine utile per l'ultimazione di tali opere e delle relative espropriazioni.
+Fermo restando quant'altro stabilito dal [regio decreto 25 agosto 1938, n. 2274](../Regi%20decreti/Estensione%20al%20comune%20di%20Reggio%20Emilia%20delle%20disposizioni%20dellart.%208%20della%20legge%2012%20luglio%201896%20n.%20303%20riguardante%20la%20fognatura%20della%20citta%20di%20Torino.%20038U2274.md), e' confermata la dichiarazione di pubblica utilita' dei lavori di costruzione della fognatura nella citta' di Reggio Emilia ed e' prorogato al 21 aprile 1951 il termine utile per l'ultimazione di tali opere e delle relative espropriazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

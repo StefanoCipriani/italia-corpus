@@ -101,7 +101,7 @@ Sono confermate le disposizioni attualmente in vigore:
  
  p) sugli assegni di posizione ausiliaria ordinaria o speciale; 
  
- q) sugli assegni al personale destinato al Museo storico della marina a Venezia, di cui al [R. decreto 8 febbraio 1923 n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;1065) e al decreto Ministeriale 18 ottobre 1923, con esclusione della parte che si riferisce al personale in servizio attivo o richiamato in servizio.
+ q) sugli assegni al personale destinato al Museo storico della marina a Venezia, di cui al [R. decreto 8 febbraio 1923 n. 1065](../Regi%20decreti/Relativo%20alla%20istituzione%20di%20un%20Museo%20storico%20navale.%20023U1065.md) e al decreto Ministeriale 18 ottobre 1923, con esclusione della parte che si riferisce al personale in servizio attivo o richiamato in servizio.
 
 ## Art. 8.
 
@@ -173,7 +173,7 @@ Ai sottufficiali della Regia marina e delle capitanerie di porto e ai militari d
  
  Ai militari richiamati dal congedo provvisti di pensione civile o militare e' dovuto lo stipendio o la paga militare, restando sospeso il pagamento della pensione. Detta pensione, pero', continua in luogo dello stipendio o paga militare se piu' favorevole. 
  
- Per gli impiegati civili dello Stato richiamati in servizio come sottufficiali, si applicano le disposizioni dell'[art. 81 del R. decreto 30 dicembre 1923 n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_81), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato.
+ Per gli impiegati civili dello Stato richiamati in servizio come sottufficiali, si applicano le disposizioni dell'[art. 81 del R. decreto 30 dicembre 1923 n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato.
 
 ## Art. 14.
 

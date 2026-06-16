@@ -86,7 +86,7 @@ L'organico dell'Istituto e' costituito dal direttore, da due assistenti, da pers
 
 Il direttore, gli assistenti e il personale amministrativo sono assicurati presso l'Istituto nazionale delle assicurazioni alle condizioni che saranno determinate nel regolamento dell'Istituto caseario zootecnico. 
  
- Il personale tecnico inferiore e di servizio sara' a cura dell'Istituto iscritto presso la Cassa nazionale delle assicurazioni sociali con le norme di cui al [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184).
+ Il personale tecnico inferiore e di servizio sara' a cura dell'Istituto iscritto presso la Cassa nazionale delle assicurazioni sociali con le norme di cui al [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md).
 
 ## Art. 7.
 

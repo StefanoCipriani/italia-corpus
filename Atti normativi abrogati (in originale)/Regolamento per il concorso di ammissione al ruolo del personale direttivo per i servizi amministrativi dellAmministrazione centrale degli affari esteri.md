@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 87, comma, quinto, della Costituzione;
 
-Visto l'[art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466](Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sulle attribuzioni del Consiglio dei Ministri;
+Visto l'[art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466](../Regi%20decreti/Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sulle attribuzioni del Consiglio dei Ministri;
 
-Visto l'art. 16, n. 1, del testo unico delle leggi sul Consiglio di Stato, approvato con il [regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054);
+Visto l'art. 16, n. 1, del testo unico delle leggi sul Consiglio di Stato, approvato con il [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
-Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
 Viste le norme di esecuzione del testo unico sopra indicato, contenute nel decreto del Presidente della.
 
@@ -35,7 +35,7 @@ I funzionari del ruolo del personale direttivo per i servizi amministrativi, ist
 
 ## Art. 2.
 
-Per l'ammissione alla carriera direttiva per i servizi amministrativi dell'Amministrazione centrale del Ministero degli affari esteri si osservano le norme del testo unico delle disposizioni concernenti lo statuto [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e quelle per l'esecuzione dello stesso testo unico, contenute nel [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), salvo quanto disposto nei successivi articoli.
+Per l'ammissione alla carriera direttiva per i servizi amministrativi dell'Amministrazione centrale del Ministero degli affari esteri si osservano le norme del testo unico delle disposizioni concernenti lo statuto [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e quelle per l'esecuzione dello stesso testo unico, contenute nel [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), salvo quanto disposto nei successivi articoli.
 
 ## Art. 3.
 
@@ -63,7 +63,7 @@ Costituzione fisica che permetta di affrontare qualsiasi clima.
 
 Il termine per la presentazione delle domande di ammissione al concorso non puo' essere inferiore a sessanta giorni dalla data di pubblicazione del decreto che lo bandisce.
  Nella domanda gli aspiranti debbono dichiarare le eventuali condanne penali riportate anche all'estero ed i procedimenti penali pendenti in Italia ed all'estero.
- La domanda deve essere corredata dal certificato medico attestante il possesso dei requisiti fisici di cui all'art. 2, n. 4, del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, ed all'art. 3, n. 4](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del presente decreto. Il possesso di tali requisiti puo' essere accertato con visita medica di controllo da parte dell'Amministrazione in qualsiasi momento.
+ La domanda deve essere corredata dal certificato medico attestante il possesso dei requisiti fisici di cui all'art. 2, n. 4, del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, ed all'art. 3, n. 4](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del presente decreto. Il possesso di tali requisiti puo' essere accertato con visita medica di controllo da parte dell'Amministrazione in qualsiasi momento.
  Qualora il candidato risieda all'estero, la firma in calce alla sua domanda deve essere autenticata dalla competente autorita' diplomatica o consolare.
 
 ## Art. 5.

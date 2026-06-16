@@ -20,7 +20,7 @@ Vista la [legge 24 giugno 1929, n. 1137](Disposizioni%20sulle%20concessioni%20di
 
 Vista la [legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1094.md), con la quale vengono estese ai lavori di competenza dell'Azienda autonoma statale della strada le norme vigenti per l'esecuzione delle opere pubbliche;
 
-Visto il testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), concernente la costruzione e l'esercizio di ferrovie concesse all'industria privata e le tramvie extraurbane, e le successive modificazioni;
+Visto il testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), concernente la costruzione e l'esercizio di ferrovie concesse all'industria privata e le tramvie extraurbane, e le successive modificazioni;
 
 Vista la [legge 5 marzo 1893, n. 125](Che%20approva%20la%20convenzione%20per%20la%20concessione%20del%20servizio%20di%20navigazione%20con%20piroscafi%20sul%20Lago%20di%20Garda.%20093U0125.md), concernente i pubblici servizi di navigazione lacuale, e le successive modificazioni;
 

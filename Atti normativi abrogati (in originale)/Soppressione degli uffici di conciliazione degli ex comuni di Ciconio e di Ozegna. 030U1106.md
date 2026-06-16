@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 732](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;732), col quale i comuni di Ciconio e di Ozegna sono stati soppressi ed i rispettivi territori aggregati a quello di Aglie'; 
+ Visto il [R. decreto 28 marzo 1929, n. 732](../Regi%20decreti/Modifica%20della%20denominazione%20del%20comune%20di%20Salvadera%20in%20quella%20di%20%20Capiago%20Intimiano%20.%20029U0732.md), col quale i comuni di Ciconio e di Ozegna sono stati soppressi ed i rispettivi territori aggregati a quello di Aglie'; 
  Vista la deliberazione del podesta' di Aglie' rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Ciconio e Ozegna; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

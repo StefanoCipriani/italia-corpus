@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni legislative sul reclutamento del regio esercito approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul reclutamento del regio esercito approvato con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la guerra, di concerto con i Ministri per gli af
 
 ## Articolo unico.
 
-L'art. 9 del testo unico delle disposizioni legislative sul reclutamento dell'esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e' sostituito dal seguente:
+L'art. 9 del testo unico delle disposizioni legislative sul reclutamento dell'esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e' sostituito dal seguente:
  "Gli iscritti di leva arruolati sono personalmente obbligati al servizio militare dal giorno dell'arruolamento sino al 31 dicembre dell'anno in cui compiono il 45° anno di eta', salvo, per gli ufficiali, sottufficiali e militari di truppa vincolati ad obblighi speciali, il disposto delle leggi che particolarmente li riguardano".
 
 Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

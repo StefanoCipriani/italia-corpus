@@ -12,7 +12,7 @@ vigente: true
 
 L'Amministrazione autonoma del Fondo per il culto e del Fondo di religione e beneficenza per la citta' di Roma e' diretta da un proprio amministratore generale, alla immediata dipendenza del Ministro per la giustizia e gli affari di culto. 
  
- Esso e' equiparato a tutti gli effetti ai direttori generali e la sua nomina e' fatta a norma dell'[art. 8 del R. decreto 2 dicembre 1925, n. 2572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-02;2572#art_8), salva la facolta' di cui all'[art. 19 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_19). 
+ Esso e' equiparato a tutti gli effetti ai direttori generali e la sua nomina e' fatta a norma dell'[art. 8 del R. decreto 2 dicembre 1925, n. 2572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-02;2572#art_8), salva la facolta' di cui all'[art. 19 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Lo stipendio e tutti gli altri assegni spettanti all'amministratore generale sono a carico del bilancio dell'Amministrazione del Fondo per il culto.
 
@@ -28,11 +28,11 @@ Con decreti Reali, da emanarsi ai sensi dell'[art. 1, n. 3, della legge 31 genna
 
 ## Art. 3.
 
-La tabella n. 16 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) per il personale del Ministero della giustizia e degli affari di culto, integrata dal [R. decreto legge 20 marzo 1924 n. 495](Sistemazione%20dei%20servizi%20e%20del%20personale%20della%20Direzione%20generale%20delle%20carceri%20e%20dei%20riformatori.%20024U0495.md), e' sostituita dalla tabella annessa alla presente legge, firmata, d'ordine Nostro, dal Ministro per la giustizia e da quello per le finanze.
+La tabella n. 16 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) per il personale del Ministero della giustizia e degli affari di culto, integrata dal [R. decreto legge 20 marzo 1924 n. 495](Sistemazione%20dei%20servizi%20e%20del%20personale%20della%20Direzione%20generale%20delle%20carceri%20e%20dei%20riformatori.%20024U0495.md), e' sostituita dalla tabella annessa alla presente legge, firmata, d'ordine Nostro, dal Ministro per la giustizia e da quello per le finanze.
 
 ## Art. 4.
 
-Il terzo comma dell'art. 158 del testo unico delle disposizioni sull'ordinamento degli uffici giudiziari e del personale della magistratura approvato con [R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), e' modificato come appresso: 
+Il terzo comma dell'art. 158 del testo unico delle disposizioni sull'ordinamento degli uffici giudiziari e del personale della magistratura approvato con [R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), e' modificato come appresso: 
  
  «I magistrati posti fuori del ruolo organico, in forza alla presente disposizione, non devono in ogni caso superare il numero di ventotto». 
  

@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 4 novembre 1932, n. 1423](Nuove%20disposizioni%20per%20la%20concessione%20delle%20medaglie%20e%20della%20croce%20di%20guerra%20al%20valor%20militare.%20032U1423.md), che disciplina la concessione delle medaglie e della croce di guerra al valor militare;
+Visto il [R. decreto 4 novembre 1932, n. 1423](../Regi%20decreti/Nuove%20disposizioni%20per%20la%20concessione%20delle%20medaglie%20e%20della%20croce%20di%20guerra%20al%20valor%20militare.%20032U1423.md), che disciplina la concessione delle medaglie e della croce di guerra al valor militare;
 
 Visto il [decreto legislativo Luogotenenziale 3 agosto 1944, n. 165](Revoca%20di%20benefici%20in%20materia%20di%20pensioni%20e%20di%20altre%20provvidenze%20accordate%20agi%20appartenenti%20alla%20disciolta%20M.V.S.N.%20e%20sue%20specialita%20e%20ai%20cittadini%20aventi%20benemerenze%20fasciste.%20044U0165.md), concernente la revoca di benefici in materia di Pensioni e di altre provvidenze accordate agli appartenenti alla disciolta milizia volontaria sicurezza nazionale e sue specialita' e ai cittadini aventi benemerenze fasciste;
 

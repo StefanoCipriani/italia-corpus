@@ -28,7 +28,7 @@ I dispensieri dei tabacchi nei territori annessi, i quali abbiano ottenuto la co
 
 La conferma alla titolarita' dello spaccio e' subordinata alla accettazione da parte dello spacciatore della indennita' di esercizio da fissarsi dall'Amministrazione ed al requisito di avere gestito lo spaccio con piena soddisfazione dell'Amministrazione stessa. 
  
- Il conferimento per conferma di cui sopra o le eventuali successive rinnovazioni, dovranno farsi risultare da regolare contratto di appalto, osservate le norme sul conferimento e gestione degli spacci di cui al [R. decreto 1° agosto 1901, n. 399](Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20001U0399.md), e del [R. decreto-legge 16 dicembre 1922, n. 1658](Che%20modifica%20lart.%202%20della%20legge%2012%20luglio%201908%20n.%20441%20circa%20il%20conferimento%20degli%20spacci%20allingrosso%20dei%20generi%20di%20privativa%20dello%20Stato.%20022U1658.md).
+ Il conferimento per conferma di cui sopra o le eventuali successive rinnovazioni, dovranno farsi risultare da regolare contratto di appalto, osservate le norme sul conferimento e gestione degli spacci di cui al [R. decreto 1° agosto 1901, n. 399](../Regi%20decreti/Che%20approva%20il%20nuovo%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20privativa%20dei%20sali%20e%20tabacchi.%20001U0399.md), e del [R. decreto-legge 16 dicembre 1922, n. 1658](Che%20modifica%20lart.%202%20della%20legge%2012%20luglio%201908%20n.%20441%20circa%20il%20conferimento%20degli%20spacci%20allingrosso%20dei%20generi%20di%20privativa%20dello%20Stato.%20022U1658.md).
 
 ## Art. 3.
 

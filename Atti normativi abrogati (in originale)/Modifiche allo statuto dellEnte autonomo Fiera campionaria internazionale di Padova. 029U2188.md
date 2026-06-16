@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 5 marzo 1924, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-05;356), che istituisce l'Ente autonomo «Fiera campionaria internazionale di Padova» e ne approva lo statuto;
+Visto il [R. decreto 5 marzo 1924, n. 356](../Regi%20decreti/Costituzione%20dellEnte%20autonomo%20Fiera%20campionaria%20di%20Padova%20in%20Padova.%20024U0356.md), che istituisce l'Ente autonomo «Fiera campionaria internazionale di Padova» e ne approva lo statuto;
 
 Visto il [R. decreto 5 aprile 1928, n. 934](Modificazione%20dello%20statuto%20dellEnte%20autonomo%20%20Fiera%20campionaria%20internazionale%20di%20Padova%20.%20028U0934.md), che modifica lo statuto suddetto;
 

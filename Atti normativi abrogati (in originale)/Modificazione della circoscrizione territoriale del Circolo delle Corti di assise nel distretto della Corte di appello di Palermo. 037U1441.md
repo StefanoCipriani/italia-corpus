@@ -20,7 +20,7 @@ Visto il [R. decreto 23 aprile 1931, n. 433](Determinazione%20della%20circoscriz
 
 Visto il R. decreto 99 ottobre 1931, n. 1394;
 
-Visto il [R. decreto 11 maggio 1933, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-11;451);
+Visto il [R. decreto 11 maggio 1933, n. 451](../Regi%20decreti/Modificazioni%20alla%20circoscrizione%20territoriale%20dei%20Circoli%20di%20Corte%20dassise%20nel%20distretto%20della%20Corte%20dappello%20di%20Palermo%20ed%20alle%20piante%20organiche%20della%20magistratura%20per%20i%20tribunali%20di%20Be_351f3e941060.md);
 
 Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-04;1899#art_1) e [3 del R. decreto 4 ottobre 1933, numero 1899](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-04;1899#art_3), che approva il testo unico delle disposizioni legislative riguardanti l'ordinamento delle Corti di assise;
 

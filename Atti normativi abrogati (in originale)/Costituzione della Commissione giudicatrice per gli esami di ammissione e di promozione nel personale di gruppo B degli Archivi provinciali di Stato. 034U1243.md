@@ -18,9 +18,9 @@ VITTORIO EMANUELE III
  
  Veduto il [R. decreto 22 settembre 1932, n. 1391](Inquadramento%20del%20personale%20degli%20Archivi%20di%20Stato%20delle%20Provincie%20napoletane%20e%20siciliane.%20032U1391.md); 
  
- Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960); 
+ Veduto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md); 
  
- Veduto il regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163); 
+ Veduto il regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md); 
  
  Veduto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Per la nomina e la composizione della Commissione esaminatrice degli esami, tanto di ammissione quanto di promozione, nel personale del gruppo B degli Archivi Provinciali di Stato, di cui al [R. decreto 22 settembre 1932, n. 1391](Inquadramento%20del%20personale%20degli%20Archivi%20di%20Stato%20delle%20Provincie%20napoletane%20e%20siciliane.%20032U1391.md), valgono le stesse norme stabilite nell'art. 36 del regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), per gli esami, rispettivamente di ammissione e di promozione nel personale di prima categoria degli Archivi di Stato. 
+ Per la nomina e la composizione della Commissione esaminatrice degli esami, tanto di ammissione quanto di promozione, nel personale del gruppo B degli Archivi Provinciali di Stato, di cui al [R. decreto 22 settembre 1932, n. 1391](Inquadramento%20del%20personale%20degli%20Archivi%20di%20Stato%20delle%20Provincie%20napoletane%20e%20siciliane.%20032U1391.md), valgono le stesse norme stabilite nell'art. 36 del regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), per gli esami, rispettivamente di ammissione e di promozione nel personale di prima categoria degli Archivi di Stato. 
  
  Della Commissione giudicatrice degli esami di ammissione di detto gruppo B sara', pero', chiamato a far parte, in luogo di uno dei due insegnanti nelle scuole medie, un insegnante di paleografia e dottrina archivistica. 
  

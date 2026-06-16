@@ -26,7 +26,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Per le ferrovie pubbliche, concesse all'industria privata entro due anni dalla data del presente decreto e per i tronchi di esse aperti all'esercizio entro il termine di sei anni dalla data medesima, i limiti della sovvenzione chilometrica, stabiliti dall'articolo 27 del testo unico approvato con [R. decreto 9 maggio 1912, num. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), in lire 5000, lire 5700 e lire 10,000, sono rispettivamente elevati a lire 7500, lire 8500 e lire 15,000. 
+Per le ferrovie pubbliche, concesse all'industria privata entro due anni dalla data del presente decreto e per i tronchi di esse aperti all'esercizio entro il termine di sei anni dalla data medesima, i limiti della sovvenzione chilometrica, stabiliti dall'articolo 27 del testo unico approvato con [R. decreto 9 maggio 1912, num. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), in lire 5000, lire 5700 e lire 10,000, sono rispettivamente elevati a lire 7500, lire 8500 e lire 15,000. 
  
  Puo' essere accordata la sovvenzione chilometrica fino al limite massimo di lire 15,000 anche alle ferrovie che mettano capo a localita' dotate di uno scalo marittimo, fluviale e lacuale, o che congiungano centri di notevole importanza agricola, industriale e commerciale all'esistente rete ferroviaria. 
  
@@ -38,7 +38,7 @@ Il Governo e' autorizzato ad aumentare, nei limiti fissati dall'articolo precede
 
 ## Art. 3.
 
-Per le tranvie extraurbane, concesse alla industria privata entro due anni dalla data del presente decreto e per i tronchi di esse aperti all'esercizio entro il termine di sei anni dalla data medesima, i limiti della sovvenzione chilometrica stabiliti dallo art. 258 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), in L. 1500 e L. 2000, per 50 anni, sono rispettivamente elevati a L. 4500 e 7500, per 35 anni. 
+Per le tranvie extraurbane, concesse alla industria privata entro due anni dalla data del presente decreto e per i tronchi di esse aperti all'esercizio entro il termine di sei anni dalla data medesima, i limiti della sovvenzione chilometrica stabiliti dallo art. 258 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), in L. 1500 e L. 2000, per 50 anni, sono rispettivamente elevati a L. 4500 e 7500, per 35 anni. 
  
  Si puo' accordare la sovvenzione fino al limite massimo di L. 7500 anche alle tranvie che sono destinate a servizi pubblici di viaggiatori e merci e inoltre: 
  
@@ -68,7 +68,7 @@ Per la elettrificazione delle ferrovie e delle tranvie a vapore esistenti, sempr
 
 ## Art. 6.
 
-Per le ferrovie e tranvie extra-urbane, contemplate negli articoli 1, 2, 3, 4, 5, potra' derogarsi all'applicazione degli articoli 48 e 260 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), per quanto riguarda la compartecipazione dello Stato ai prodotti lordi.
+Per le ferrovie e tranvie extra-urbane, contemplate negli articoli 1, 2, 3, 4, 5, potra' derogarsi all'applicazione degli articoli 48 e 260 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), per quanto riguarda la compartecipazione dello Stato ai prodotti lordi.
 
 ## Art. 7.
 

@@ -26,7 +26,7 @@ Per essere nominato ufficiale giudiziario e' necessario:
  
  5° avere superato con successo un esame di concorso sulla composizione italiana e sull'aritmetica e sulle nozioni di procedura civile e penale, sulla legge di ordinamento giudiziario, sulle leggi di bollo e registro e regolamenti relativi per la parte concernente il servizio degli uscieri; 
  
- 6° non trovarsi in alcuno dei casi per cui si e' esclusi o non si puo' essere assunto all'ufficio di giurato a termini degli [articoli 5](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md) e [6 della legge 8 giugno 1874, n. 1937](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md) (serie 3ª), modificati col [R. decreto 1° dicembre 1889, n. 6509](Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md); 
+ 6° non trovarsi in alcuno dei casi per cui si e' esclusi o non si puo' essere assunto all'ufficio di giurato a termini degli [articoli 5](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md) e [6 della legge 8 giugno 1874, n. 1937](Contenente%20alcune%20modificazioni%20allordinamento%20dei%20Giurati%20ed%20ai%20giudizi%20avanti%20le%20Corti%20dAssise.%20074U1937.md) (serie 3ª), modificati col [R. decreto 1° dicembre 1889, n. 6509](../Regi%20decreti/Contenente%20le%20disposizioni%20per%20lattuazione%20del%20Codice%20penale%20per%20il%20Regno%20dItalia.%20089U6509.md); 
  
  7° non essere in istato d'interdizione o di inabilitazione o di fallimento. 
  
@@ -56,9 +56,9 @@ Ai posti che si renderanno vacanti presso le Corti di appello saranno destinati 
 
 ## Art. 6.
 
-All'attuale titolo VII della tariffa civile approvata col [R. decreto 23 dicembre 1865, n. 2700](Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md), nei capi I a V sono sostituite le corrispondenti disposizioni contenute nell'allegato A. 
+All'attuale titolo VII della tariffa civile approvata col [R. decreto 23 dicembre 1865, n. 2700](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md), nei capi I a V sono sostituite le corrispondenti disposizioni contenute nell'allegato A. 
  
- La tariffa penale approvata col [R. decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), e' modificata negli articoli 89, 173, 175, 186 e 188 giusta l'allegato B. 
+ La tariffa penale approvata col [R. decreto 23 dicembre 1865, n. 2701](../Regi%20decreti/Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), e' modificata negli articoli 89, 173, 175, 186 e 188 giusta l'allegato B. 
  
  L'articolo 178 di detta tariffa e' abrogato.
 
@@ -120,7 +120,7 @@ Restano ferme tutte le disposizioni contenute nell'ordinamento giudiziario e nel
 
 ## Art. 15.
 
-Qualora i proventi annui di un ufficiale giudiziario superino le lire quattromila, la maggior somma, prelevati due quinti a favore del medesimo, sara' versata nel modo stabilio dal Regolamento per i sussidi di cui all'art. 177 della tariffa penale approvata col [R. decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md).
+Qualora i proventi annui di un ufficiale giudiziario superino le lire quattromila, la maggior somma, prelevati due quinti a favore del medesimo, sara' versata nel modo stabilio dal Regolamento per i sussidi di cui all'art. 177 della tariffa penale approvata col [R. decreto 23 dicembre 1865, n. 2701](../Regi%20decreti/Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md).
 
 ## Art. 16.
 

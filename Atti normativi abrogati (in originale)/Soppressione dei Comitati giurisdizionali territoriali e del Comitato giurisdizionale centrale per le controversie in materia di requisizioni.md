@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I Comitati giurisdizionali territoriali e il Comitato giurisdizionale centrale per le controversie in materia di requisizioni, istituiti ai sensi degli [articoli 77](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md) e [78 del regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), e successive modificazioni, sono soppressi.
+I Comitati giurisdizionali territoriali e il Comitato giurisdizionale centrale per le controversie in materia di requisizioni, istituiti ai sensi degli [articoli 77](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md) e [78 del regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), e successive modificazioni, sono soppressi.
 
 ## Art. 2.
 
@@ -37,7 +37,7 @@ Contro le decisioni dei Comitati giurisdizionali territoriali, tuttora soggette 
  Il termine per proporre tali impugnazioni e' di trenta giorni avanti l'autorita' giudiziaria ordinaria e di sessanta giorni per i giudizi avanti il Consiglio di Stato.
  Per le decisioni gia' notificate, il termine anzidetto decorre dalla data di ricevimento della lettera con la quale i Comitati avviseranno gli interessati che gli eventuali ricorsi dovranno essere presentati all'autorita' giurisdizionale indicata all'art. 2 della presente legge.
  Per gli altri giudizi innanzi all'autorita' giudiziaria si applicano i termini del [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443).
- Per il regime fiscale si osservano le disposizioni dell'[art. 87 del regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md).
+ Per il regime fiscale si osservano le disposizioni dell'[art. 87 del regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

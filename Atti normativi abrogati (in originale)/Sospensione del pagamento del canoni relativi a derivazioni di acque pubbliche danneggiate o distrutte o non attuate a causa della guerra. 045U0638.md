@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), approvato con [R. decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive disposizioni;
+Visto il [testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [R. decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive disposizioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 ## Art. 1.
 
-Quando, in conseguenza di distruzioni o gravi danni prodotti dalla guerra, un impianto per utilizzazione di grande e piccola derivazione, legittimamente costituita, sia nell'impossibilita' di funzionare in tutto od in parte, puo' essere concessa, a giudizio insindacabile dell'Amministrazione, la temporanea esenzione dal pagamento del canone annuo di cui al [testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) approvato con [R. decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), e successive disposizioni. 
+Quando, in conseguenza di distruzioni o gravi danni prodotti dalla guerra, un impianto per utilizzazione di grande e piccola derivazione, legittimamente costituita, sia nell'impossibilita' di funzionare in tutto od in parte, puo' essere concessa, a giudizio insindacabile dell'Amministrazione, la temporanea esenzione dal pagamento del canone annuo di cui al [testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con [R. decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e successive disposizioni. 
  
  L'esenzione decorrera' dalla data nella quale si e' verificata la cessazione di funzionamento ed il pagamento del canone sara' ripristinato improrogabilmente a partire dalla data di scadenza del termine che sara' fissato per la riattivazione dell'impianto stesso. 
  

@@ -20,9 +20,9 @@ Visto il [decreto-legge Luogotenenziale del 6 settembre 1917, n. 1451](Col%20qua
 
 Visto il [decreto Luogotenenziale 9 maggio 1918, n. 622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-09;622), approvante il regolamento di esecuzione del servizio stesso;
 
-Visti i [Regi decreti 7 gennaio 1923, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;86), e [n. 402; 28 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;402), [n. 199; 15 luglio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;199), [n. 1693; 2 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;1693), [n. 2967; 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2967), [n. 3021](Aumento%20dellinteresse%20annuo%20corrisposto%20sui%20fondi%20versati%20in%20conto%20corrente%20postale.%20023U3021.md), portanti modificazioni ed aggiunte nel servizio dei conti correnti postali;
+Visti i [Regi decreti 7 gennaio 1923, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-07;86), e [n. 402; 28 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-28;402), [n. 199; 15 luglio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-15;199), [n. 1693; 2 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;1693), [n. 2967; 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2967), [n. 3021](../Regi%20decreti/Aumento%20dellinteresse%20annuo%20corrisposto%20sui%20fondi%20versati%20in%20conto%20corrente%20postale.%20023U3021.md), portanti modificazioni ed aggiunte nel servizio dei conti correnti postali;
 
-Visto il testo unico delle leggi postali approvato con [Regio decreto 24 dicembre 1899, n.501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e successive modificazioni;
+Visto il testo unico delle leggi postali approvato con [Regio decreto 24 dicembre 1899, n.501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e successive modificazioni;
 
 Sentito il Consiglio di amministrazione delle poste e dei telegrafi;
 
@@ -144,7 +144,7 @@ Sono esenti da qualsiasi tassa:
 
 ## Art. 8.
 
-L'[art. 1 del R. decreto 7 gennaio 1923, n. 36](Che%20reca%20modificazioni%20ed%20aggiunte%20al%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20023U0036.md), sub articolo 10-bis e l'articolo unico del [R. decreto 30 dicembre 1923, n. 3021](Aumento%20dellinteresse%20annuo%20corrisposto%20sui%20fondi%20versati%20in%20conto%20corrente%20postale.%20023U3021.md), sono sostituiti dal seguente: 
+L'[art. 1 del R. decreto 7 gennaio 1923, n. 36](../Regi%20decreti/Che%20reca%20modificazioni%20ed%20aggiunte%20al%20servizio%20dei%20conti%20correnti%20ed%20assegni%20postali.%20023U0036.md), sub articolo 10-bis e l'articolo unico del [R. decreto 30 dicembre 1923, n. 3021](../Regi%20decreti/Aumento%20dellinteresse%20annuo%20corrisposto%20sui%20fondi%20versati%20in%20conto%20corrente%20postale.%20023U3021.md), sono sostituiti dal seguente: 
  
  «Il deposito di garanzia e' abolito. 
  
@@ -156,7 +156,7 @@ L'[art. 1 del R. decreto 7 gennaio 1923, n. 36](Che%20reca%20modificazioni%20ed%
 
 ## Art. 9.
 
-L'[art. 1 del R. decreto 15 luglio 1923, n. 1693](Aggiunte%20e%20modificazioni%20al%20decreto-legge%20Luogotenenziale%206%20settembre%201917%20n.%201451%20e%20al%20regolamento%20approvato%20con%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%20622%20sul%20servizio%20dei%20conti%20corre_7018d99da5b7.md), e' sostituito dal seguente: 
+L'[art. 1 del R. decreto 15 luglio 1923, n. 1693](../Regi%20decreti/Aggiunte%20e%20modificazioni%20al%20decreto-legge%20Luogotenenziale%206%20settembre%201917%20n.%201451%20e%20al%20regolamento%20approvato%20con%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%20622%20sul%20servizio%20dei%20conti%20corre_7018d99da5b7.md), e' sostituito dal seguente: 
  
  «Per la rinnovazione dei mandati di pagamento scaduti, sono dovute le seguenti tasse: 
  
@@ -172,7 +172,7 @@ L'[art. 1 del R. decreto 15 luglio 1923, n. 1693](Aggiunte%20e%20modificazioni%2
 
 ## Art. 10.
 
-E' abrogato l'[art. 2 del R. decreto 15 luglio 1923, n. 1693](Aggiunte%20e%20modificazioni%20al%20decreto-legge%20Luogotenenziale%206%20settembre%201917%20n.%201451%20e%20al%20regolamento%20approvato%20con%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%20622%20sul%20servizio%20dei%20conti%20corre_7018d99da5b7.md), concernente la duplicazione dei mandati di pagamento.
+E' abrogato l'[art. 2 del R. decreto 15 luglio 1923, n. 1693](../Regi%20decreti/Aggiunte%20e%20modificazioni%20al%20decreto-legge%20Luogotenenziale%206%20settembre%201917%20n.%201451%20e%20al%20regolamento%20approvato%20con%20decreto%20Luogotenenziale%209%20maggio%201918%20n.%20622%20sul%20servizio%20dei%20conti%20corre_7018d99da5b7.md), concernente la duplicazione dei mandati di pagamento.
 
 ## Art. 11.
 

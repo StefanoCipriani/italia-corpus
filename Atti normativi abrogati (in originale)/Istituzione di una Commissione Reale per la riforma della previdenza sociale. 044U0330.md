@@ -10,13 +10,13 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 1 del R. decreto 15 marzo 1944, n. 120](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), e' modificato come segue: 
+L'[art. 1 del R. decreto 15 marzo 1944, n. 120](../Regi%20decreti/Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), e' modificato come segue: 
  
  « E' istituita presso il Ministero dell'industria, del commercio e del lavoro una Commissione per l'esame delle forme di previdenza, assistenza ed assicurazioni sociali attualmente in vigore in Italia, ai fini di una riforma della legislazione vigente ispirata alle esigenze di un ordinamento piu' semplice, piu' uniforme, e che estenda i limiti dell'assistenza in favore delle classi lavoratrici.
 
 ## Art. 2.
 
-I [commi primo](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), [secondo](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md) e [terzo dell'art. 2 del R. decreto 15 marzo 1944, n. 120](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), sono sostituiti dai seguenti: 
+I [commi primo](../Regi%20decreti/Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), [secondo](../Regi%20decreti/Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md) e [terzo dell'art. 2 del R. decreto 15 marzo 1944, n. 120](../Regi%20decreti/Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), sono sostituiti dai seguenti: 
  
  « La Commissione e' costituita da un presidente, da un vice presidente e dai seguenti membri: 
  
@@ -44,13 +44,13 @@ I [commi primo](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20d
 
 ## Art. 3.
 
-All'[art. 3 del R. decreto 15 marzo 1944, n. 120](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), viene aggiunto il seguente comma: 
+All'[art. 3 del R. decreto 15 marzo 1944, n. 120](../Regi%20decreti/Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), viene aggiunto il seguente comma: 
  
  « Per l'espletamento delle mansioni affidategli e' posta alle dipendenze del presidente della Commissione una segreteria, alla quale saranno distaccati, dal Ministero dell'industria, del commercio e del lavoro, o da gli uffici periferici dipendenti, due impiegati di gruppo A, un archivista, ed un dattilografo ».
 
 ## Art. 4.
 
-Il [primo comma dell'art. 5 del R. decreto 15 marzo 1944, n. 120](Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), e' modificato come segue: 
+Il [primo comma dell'art. 5 del R. decreto 15 marzo 1944, n. 120](../Regi%20decreti/Nomina%20di%20una%20Commissione%20Reale%20per%20la%20riforma%20della%20Previdenza%20Sociale.%20044U0120.md), e' modificato come segue: 
  
  « Il Ministro per l'industria, il commercio ed il lavoro di concerto col Ministro pel tesoro, stabilisce con suo decreto i compensi da corrispondersi ai componenti della Commissione e della segreteria della presidenza ».
 

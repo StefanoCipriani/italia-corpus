@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' autorizzato il bando di un concorso nazionale per il conferimento di farmacie, riservato ai diplomati o laureati in farmacia o in chimica-farmacia condannati dal tribunale speciale istituito con [legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), o assegnati al confine di polizia ai sensi del [regio decreto 6 novembre 1926, n. 1848](Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), o che abbiano subito carcerazioni per attivita' antifascista.
+E' autorizzato il bando di un concorso nazionale per il conferimento di farmacie, riservato ai diplomati o laureati in farmacia o in chimica-farmacia condannati dal tribunale speciale istituito con [legge 25 novembre 1926, n. 2008](Provvedimenti%20per%20la%20difesa%20dello%20Stato.%20026U2008.md), o assegnati al confine di polizia ai sensi del [regio decreto 6 novembre 1926, n. 1848](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md), o che abbiano subito carcerazioni per attivita' antifascista.
 
 ## Art. 2.
 

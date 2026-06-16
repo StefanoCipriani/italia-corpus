@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Vista la [legge 7 aprile 1921, n. 456](Concernente%20provvedimenti%20per%20l%20Istituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U0456.md);
 
-Visti i [Regi decreti 31 luglio 1921, n. 1073](Che%20reca%20provvedimenti%20per%20lIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U1073.md) e [29 ottobre 1922, n. 1531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-29;1531);
+Visti i [Regi decreti 31 luglio 1921, n. 1073](../Regi%20decreti/Che%20reca%20provvedimenti%20per%20lIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U1073.md) e [29 ottobre 1922, n. 1531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-29;1531);
 
-Visto il testo unico approvato col [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md);
+Visto il testo unico approvato col [R. decreto 9 aprile 1922, n. 932](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md);
 
 Visto il [R. decreto 30 novembre 1919, n. 2318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-30;2318);
 
@@ -44,7 +44,7 @@ L'attuale Sezione autonoma di credito fondiario ed agraria e la Sezione autonoma
  
  a) le operazioni di prestito e di mutui ipotecari per costruzione ed acquisto di case popolari ed economiche ai termini del [R. decreto 30 novembre 1919, n. 2318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-30;2318), concernente provvedimenti per le case popolari e per l'industria edilizia, nonche' delle successive disposizioni in materia; 
  
- b) le operazioni di mutui ipotecari ai sensi dei capi IV e X del testo unico delle leggi e dei decreti sul credito agrario approvato con [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md). 
+ b) le operazioni di mutui ipotecari ai sensi dei capi IV e X del testo unico delle leggi e dei decreti sul credito agrario approvato con [R. decreto 9 aprile 1922, n. 932](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md). 
  
  I partecipanti delle due sezioni divengono partecipanti della Sezione autonoma di credito fondiario. 
  
@@ -124,11 +124,11 @@ La vigilanza sull'Istituto nazionale di credito per la cooperazione e sulla Sezi
 
 ## Art. 10.
 
-In quanto non sia diversamente disposto nel presente decreto rimangono in vigore le disposizioni del [R. decreto 31 luglio 1921, n. 1073](Che%20reca%20provvedimenti%20per%20lIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U1073.md), che reca provvedimenti per l'Istituto nazionale di credito per la cooperazione, nonche' quelle del [R. decreto 30 novembre 1919, n. 2318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-30;2318), e del testo unico approvato con [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), circa le operazioni di credito edilizio e di credito fondiario ed agrario.
+In quanto non sia diversamente disposto nel presente decreto rimangono in vigore le disposizioni del [R. decreto 31 luglio 1921, n. 1073](../Regi%20decreti/Che%20reca%20provvedimenti%20per%20lIstituto%20nazionale%20di%20credito%20per%20la%20cooperazione.%20021U1073.md), che reca provvedimenti per l'Istituto nazionale di credito per la cooperazione, nonche' quelle del [R. decreto 30 novembre 1919, n. 2318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-11-30;2318), e del testo unico approvato con [R. decreto 9 aprile 1922, n. 932](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md), circa le operazioni di credito edilizio e di credito fondiario ed agrario.
 
 ## Art. 11.
 
-Le operazioni di trasferimento o di diversa assegnazione di capitali dipendenti dalle disposizioni del presente decreto sono esenti da qualunque tassa od imposta, ferme restando le disposizioni del [R. decreto 11 febbraio 1923, n. 282](Col%20quale%20a%20decorrere%20dal%201%20marzo%201923%20cessano%20di%20avere%20effetto%20le%20esenzioni%20e%20privilegi%20vigenti%20in%20materia%20di%20tassa%20di%20bollo%20sulle%20cambiali.%20023U0282.md). 
+Le operazioni di trasferimento o di diversa assegnazione di capitali dipendenti dalle disposizioni del presente decreto sono esenti da qualunque tassa od imposta, ferme restando le disposizioni del [R. decreto 11 febbraio 1923, n. 282](../Regi%20decreti/Col%20quale%20a%20decorrere%20dal%201%20marzo%201923%20cessano%20di%20avere%20effetto%20le%20esenzioni%20e%20privilegi%20vigenti%20in%20materia%20di%20tassa%20di%20bollo%20sulle%20cambiali.%20023U0282.md). 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

@@ -18,7 +18,7 @@ Veduto il [R. decreto-legge 29 ottobre 1925, n. 1965](Passaggio%20dellUniversita
 
 Veduti gli [articoli 3](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [82 del R. decreto 30 settembre 1923 n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sull'ordinamento dell'istruzione superiore;
 
-Veduto il regolamento generale universitario approvati con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674);
+Veduto il regolamento generale universitario approvati con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md);
 
 Udito il Consiglio superiore della pubblica istruzione;
 

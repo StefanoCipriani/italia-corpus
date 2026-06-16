@@ -24,7 +24,7 @@ Il termine stabilito al 31 dicembre 1926 per gli incarichi previsti nell'[art. 5
 
 1928.
 
-Il termine stabilito al 31 dicembre 1927 per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_11), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), e' prorogato al 30 giugno 1929.
+Il termine stabilito al 31 dicembre 1927 per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), e' prorogato al 30 giugno 1929.
 
 ## Art. 4.
 
@@ -46,7 +46,7 @@ All'[art. 112 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri
 
 ## Art. 7.
 
-Per i servizi inerenti all'amministrazione degli archivi notarili, compreso quello dell'ufficio di segreteria della Commissione di cui negli [articoli 98 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_98), e 135 del [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), non possono essere chiamati a prestare servizio presso il Ministero della giustizia altri funzionari di amministrazioni dipendenti se non un funzionario del gruppo A e uno del gruppo C, appartenenti al personale degli archivi stessi. 
+Per i servizi inerenti all'amministrazione degli archivi notarili, compreso quello dell'ufficio di segreteria della Commissione di cui negli [articoli 98 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_98), e 135 del [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), non possono essere chiamati a prestare servizio presso il Ministero della giustizia altri funzionari di amministrazioni dipendenti se non un funzionario del gruppo A e uno del gruppo C, appartenenti al personale degli archivi stessi. 
  
  E' abrogato il [decreto luogotenenziale 18 gennaio 1917, numero 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-01-18;128).
 

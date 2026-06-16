@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
-Visto il regolamento per la fabbricazione metrica, approvato con [R. decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226);
+Visto il regolamento per la fabbricazione metrica, approvato con [R. decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md);
 
-Visto il regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto il regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
 Vista la domanda della Societa' italo-americana pel petrolio, del 23 marzo 1923, tendente ad ottenere l'ammissione, per gli usi del commercio, di pompe automisuratrici della benzina, tipi Gilbert e Barker, per il rifornimento diretto agli autoveicoli;
 

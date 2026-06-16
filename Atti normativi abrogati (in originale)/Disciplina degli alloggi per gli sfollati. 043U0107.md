@@ -110,7 +110,7 @@ In caso di necessita' e di urgenza il Prefetto puo' delegare ai podesta' la faco
 Per l'affitto o subaffitto di locali mobiliati destinati agli sfollati non sono richieste le licenze ed autorizzazioni previste dalle vigenti disposizioni. 
  
  Rimane fermo l'obbligo della denunzia all'autorita' di P. S. previsto dall'art. 109, 3° comma, del [testo unico delle leggi di P.
-S.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con R. decreto 18 giugno 1931-IX, n. 773.
+S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con R. decreto 18 giugno 1931-IX, n. 773.
 
 ## Art. 12.
 

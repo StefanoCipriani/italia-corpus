@@ -121,7 +121,7 @@ Le norme contenute negli articoli precedenti valgono indistintamente per tutti g
 
 ### Art. 14.
 
-Nei casi di violazione di cui all'[art. 117 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_117) il Provveditore agli studi denunzia i trasgressori all'autorita' di P. S. della sede dell'istituto.
+Nei casi di violazione di cui all'[art. 117 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) il Provveditore agli studi denunzia i trasgressori all'autorita' di P. S. della sede dell'istituto.
 
 ### Art. 15.
 
@@ -155,9 +155,9 @@ L'arredamento degli uffici (direzione biblioteca, sala dei professori, segreteri
 
 Nell'istituto deve essere compiutamente impartito l'insegnamento delle materie prescritte per i corrispondenti istituti Regi, secondo l'ordine e i limiti dei programmi ufficiali, nello stesso numero di anni e con identico orario. 
  
- Il personale insegnante deve essere stato assunto in uno dei modi previsti dall'[art. 106 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_106). 
+ Il personale insegnante deve essere stato assunto in uno dei modi previsti dall'[art. 106 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
- Per l'educazione fisica debbono osservarsi le norme stabilite dal Ministero dell'istruzione pubblica e dall'Ente nazionale, di cui al [R. decreto 15 marzo 1923, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684).
+ Per l'educazione fisica debbono osservarsi le norme stabilite dal Ministero dell'istruzione pubblica e dall'Ente nazionale, di cui al [R. decreto 15 marzo 1923, n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md).
 
 ### Art. 20.
 
@@ -169,7 +169,7 @@ Non puo' insegnare ne' come titolare ne' come supplente in un istituto medio par
 
 ### Art. 22.
 
-Il numero delle cattedre e conseguentemente il numero dei posti di ruolo devono essere uguali a quello dell'istituto regio d'identico tipo e grado, ed ogni insegnamento deve essere affidato ad up professore nominato secondo le disposizioni del presente regolamento, fatta eccezione per le scuole eventualmente sorte come private in sostituzione di scuole gia' pareggiate e limitatamente agl' insegnanti mantenuti in servizio in virtu' dell'[art. 43 del Regio decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_43).
+Il numero delle cattedre e conseguentemente il numero dei posti di ruolo devono essere uguali a quello dell'istituto regio d'identico tipo e grado, ed ogni insegnamento deve essere affidato ad up professore nominato secondo le disposizioni del presente regolamento, fatta eccezione per le scuole eventualmente sorte come private in sostituzione di scuole gia' pareggiate e limitatamente agl' insegnanti mantenuti in servizio in virtu' dell'[art. 43 del Regio decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md).
 
 ### Art. 23.
 
@@ -199,7 +199,7 @@ Se la scuola esista da piu' anni, alla relazione deve essere allegato l'elenco d
  
  9° la copia degli atti di nomina del personale della scuola da parte dell'Ente, con l'approvazione della competente autorita' scolastica; 
  
- 10° gli avvisi di concorso per le cattedre che nell'anno scolastico, in cui la domanda di pareggiamento e' presentata, non siano state conferite in uno dei modi previsti dal l'[art. 106 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_106), o, quanto meno, le deliberazioni approvate dall'autorita' tutoria con le quali l'Ente abbia stabilito di indire i concorsi per l'anno scolastico immediatamente successivo; 
+ 10° gli avvisi di concorso per le cattedre che nell'anno scolastico, in cui la domanda di pareggiamento e' presentata, non siano state conferite in uno dei modi previsti dal l'[art. 106 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), o, quanto meno, le deliberazioni approvate dall'autorita' tutoria con le quali l'Ente abbia stabilito di indire i concorsi per l'anno scolastico immediatamente successivo; 
  
  11° l'estratto del bilancio, nel quale siano indicati, singolarmente, gli stipendi e le rimunerazioni assegnate al preside ed a ciascun professore, e gli stanziamenti per il rimanente del personale e per la dotazione del materiale scolastico e scientifico.
 Nell'estratto debbono essere annotati gli estremi dell'approvazione da parte dell'autorita' tutoria; 
@@ -248,7 +248,7 @@ CAPO II.
 
 ### Art. 30.
 
-Per la nomina a professore di ruolo negli istituti medi pareggiati occorrono gli stessi requisiti richiesti per la nomina a professore di ruolo nei corrispondenti istituti regi in conformita' delle disposizioni del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054) e del [regolamento 4 settembre 1924, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-09-04;1533), salve le norme speciali di cui ai seguenti articoli.
+Per la nomina a professore di ruolo negli istituti medi pareggiati occorrono gli stessi requisiti richiesti per la nomina a professore di ruolo nei corrispondenti istituti regi in conformita' delle disposizioni del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e del [regolamento 4 settembre 1924, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-09-04;1533), salve le norme speciali di cui ai seguenti articoli.
 
 ### Art. 31.
 
@@ -256,7 +256,7 @@ Le amministrazioni degli enti, che mantengono istituti pareggiati, debbono notif
 
 ### Art. 32.
 
-Alle. cattedre vacanti le amministrazioni provvedono o per concorso per titoli ed esami o per chiamata a norma degli [articoli 106 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_106) e [64 del R. decreto 30 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;64), [n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
+Alle. cattedre vacanti le amministrazioni provvedono o per concorso per titoli ed esami o per chiamata a norma degli [articoli 106 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [64 del R. decreto 30 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;64), [n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ### Art. 33.
 
@@ -419,7 +419,7 @@ La chiamata di un professore da un istituto regio ad un istituto pareggiato o da
  
  Nel secondo caso contemplato dal precedente comma e' necessario inoltre che il professore sia stato assunto con regolare concorso per titoli e per esame nell'istituto pareggiato donde e' chiamato. 
  
- Agli effetti di cui all'art. 106, capoverso, del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), si considerano vincitori in attesa di nomina, quando si tratti di graduatorie, tuttora in vigore, di concorsi indetti per istituti pareggiati tutti coloro che nelle graduatorie stesse occupano, immediatamente dopo l'ultimo nominato, un numero di posti non eccedente quello delle cattedre messe a concorso. 
+ Agli effetti di cui all'art. 106, capoverso, del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), si considerano vincitori in attesa di nomina, quando si tratti di graduatorie, tuttora in vigore, di concorsi indetti per istituti pareggiati tutti coloro che nelle graduatorie stesse occupano, immediatamente dopo l'ultimo nominato, un numero di posti non eccedente quello delle cattedre messe a concorso. 
  
  Non possono essere chiamati in istituti pareggiati che si trovino in sede dichiarata di primaria importanza per istituti regi, i professori che non siano riusciti eleggibili in un concorso per istituto di sede di primaria importanza.
 
@@ -475,7 +475,7 @@ Le norme precedenti si applicano anche nel caso di soppressione di istituti pare
 
 ### Art. 72.
 
-Agli effetti di cui all'[art. 109 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_109), per le punizioni disciplinari a carico dei presidi e dei professori delle scuole pareggiate si applica la procedura stabilita per il personale dei Regi istituti medi d'istruzione, compreso il preventivo parere della II commissione per le punizioni di cui ai numeri 5, 6 e 7 dell'art.22 del citato decreto.
+Agli effetti di cui all'[art. 109 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), per le punizioni disciplinari a carico dei presidi e dei professori delle scuole pareggiate si applica la procedura stabilita per il personale dei Regi istituti medi d'istruzione, compreso il preventivo parere della II commissione per le punizioni di cui ai numeri 5, 6 e 7 dell'art.22 del citato decreto.
 
 ### Art. 73.
 
@@ -545,7 +545,7 @@ TITOLO III.
 
 ### Art. 84.
 
-I comuni e le provincie nel chiedere la creazione di regi istituti medi o la conversione in regi di istituti medi pareggiati debbono garantire, all'Erario, sul proprio bilancio, il contributo annuo nella misura indicata nella tabella A annessa al presente regolamento e assumere tutti gli obblighi prescritti dagli [articoli 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_97), [100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_100) e [103 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_103). 
+I comuni e le provincie nel chiedere la creazione di regi istituti medi o la conversione in regi di istituti medi pareggiati debbono garantire, all'Erario, sul proprio bilancio, il contributo annuo nella misura indicata nella tabella A annessa al presente regolamento e assumere tutti gli obblighi prescritti dagli [articoli 97](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), [100](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [103 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  La rappresentanza dell'ente deve autorizzare il capo dell'amministrazione interessata a rilasciare, a garanzia del pagamento del contributo annuo dovuto allo Stato, le delegazioni sulla sovrimposta in conformita' di quanto dispongono gli articoli del presente regolamento. 
  
@@ -625,7 +625,7 @@ Alla conversione in regi di istituti medi pareggiati si provvede con decreto Rea
 
 ### Art. 94.
 
-Alla creazione di nuovi istituti si provvede con decreto Reale su proposta degli stessi Ministri della pubblica istruzione e delle finanze, solo quando si traiti di scuole complementari, di licei scientifici e di licei femminili, osservato, per questi ultimi, il limite di cui all'[art. 69 del Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_69); negli altri casi non puo' provvedersi, a norma dell'art. 2 del decreto stesso, se non per legge. 
+Alla creazione di nuovi istituti si provvede con decreto Reale su proposta degli stessi Ministri della pubblica istruzione e delle finanze, solo quando si traiti di scuole complementari, di licei scientifici e di licei femminili, osservato, per questi ultimi, il limite di cui all'[art. 69 del Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md); negli altri casi non puo' provvedersi, a norma dell'art. 2 del decreto stesso, se non per legge. 
  
  All'istituzione della seconda sezione dell'istituto tecnici superiore si provvede con decreto Reale.
 
@@ -633,7 +633,7 @@ Alla creazione di nuovi istituti si provvede con decreto Reale su proposta degli
 
 Il Decreto Reale con cui si dispone la creazione di un nuovo istituito medio, nei casi previsti dal precedente articolo o la conversione in regio di un istituto pareggiato ha effetto dal 1° ottobre successivo alla sua data. 
  
- Ha egualmente effetto dal successivo 1° ottobre il decreto Reale col quale si provveda alla variazione di sede di un istituto magistrale regio, a sensi dell'[art. 58 del Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_58).
+ Ha egualmente effetto dal successivo 1° ottobre il decreto Reale col quale si provveda alla variazione di sede di un istituto magistrale regio, a sensi dell'[art. 58 del Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ### Art. 96.
 
@@ -659,7 +659,7 @@ In caso di conversione in regi di istituti medi pareggiati sono assunti in servi
  
  1° siano provveduti di regolare titolo di abilitazione, 
  
- 2° occupino una cattedra, che esista nella tabella organica del corrispondente istituto regio a norma del [Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), in relazione al numero dei corsi di cui sara' dotato il nuovo istituto. Ove per una disciplina o gruppo di discipline il numero delle cattedre della scuola medesima sia inferiore al numero dei professori che occupano le corrispondenti cattedre esistenti nell'istituto pareggiato, il diritto all'assunzione nei ruoli governativi sara' regolato dalla anzianita' del servizio di ruolo; 
+ 2° occupino una cattedra, che esista nella tabella organica del corrispondente istituto regio a norma del [Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), in relazione al numero dei corsi di cui sara' dotato il nuovo istituto. Ove per una disciplina o gruppo di discipline il numero delle cattedre della scuola medesima sia inferiore al numero dei professori che occupano le corrispondenti cattedre esistenti nell'istituto pareggiato, il diritto all'assunzione nei ruoli governativi sara' regolato dalla anzianita' del servizio di ruolo; 
  
  3° abbiano compiuto almeno un anno d'insegnamento di ruolo; 
  
@@ -680,7 +680,7 @@ I presidi di istituti medi pareggiati passano, come tali, nei ruoli governativi,
  
  4° siano stati nominati, con l'approvazione della competente autorita' scolastica locale, in seguito a regolare concorso o per chiamata da, altro istituto regio o pareggiato nel quale abbiano avuto nomina regolare. 
  
- I presidi di istituti pareggiati, esonerati dall'insegnamento, passano in tale qualita' nei ruoli governativi, solo quando concorrano al momento della conversione le condizioni prescritte dall'[art. 14 del Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_14). 
+ I presidi di istituti pareggiati, esonerati dall'insegnamento, passano in tale qualita' nei ruoli governativi, solo quando concorrano al momento della conversione le condizioni prescritte dall'[art. 14 del Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md). 
  
  In caso contrario, essi possono essere assunti come presidi con insegnamento nella cattedra per la quale posseggono il titolo, purche' abbiano gia' occupato tale cattedra nel passato per effetto di regolare concorso. Qualora poi tale cattedra sia occupata da un insegnante, sara' assunto quello dei due che ha maggiore anzianita' nella scuola che si regifica.
 
@@ -773,7 +773,7 @@ TITOLO V.
 
 ### Art. 116.
 
-Agli effetti dell'[art. 113, n. 1 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_113-num1), coloro che presentemente insegnino in scuole private, e non siano provveduti del titolo legale di abilitazione all'insegnamento, possono, entro un triennio dall'entrata in vigore del presente regolamento, essere autorizzati a continuare nell'insegnamento stesso dal Provveditore agli studi su conforme parere della Giunta per l'istruzione media. 
+Agli effetti dell'[art. 113, n. 1 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), coloro che presentemente insegnino in scuole private, e non siano provveduti del titolo legale di abilitazione all'insegnamento, possono, entro un triennio dall'entrata in vigore del presente regolamento, essere autorizzati a continuare nell'insegnamento stesso dal Provveditore agli studi su conforme parere della Giunta per l'istruzione media. 
  
  L'autorizzazione suddetta e' subordinata al risultato di una apposita ispezione da compiersi durante l'anno scolastico.
 
@@ -783,7 +783,7 @@ Negl'istituti medi, pareggiati prima della pubblicazione del presente regolament
 
 ### Art. 118.
 
-Negli istituti medi pareggiati non si fa luogo alla separazione degli insegnamenti delle cattedre abbinate prevista dall'[art. 45 del Regio decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_45), quando si tratti d'insegnamenti che prima dell'andata in vigore del nuovo ordinamento erano conferiti per semplice incarico.
+Negli istituti medi pareggiati non si fa luogo alla separazione degli insegnamenti delle cattedre abbinate prevista dall'[art. 45 del Regio decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), quando si tratti d'insegnamenti che prima dell'andata in vigore del nuovo ordinamento erano conferiti per semplice incarico.
 
 ### Art. 119.
 

@@ -14,7 +14,7 @@ Vista la [legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20co
 
 Vista la [legge 21 dicembre 1905, n. 590](Per%20ladottamento%20del%20sistema%20inglese%20Merchant%20Schipping%20Act%20per%20la%20misurazione%20del%20tonnellaggio%20di%20stazza%20delle%20navi.%20005U0590.md);
 
-Visto il [regio decreto 22 marzo 1923, n. 830](Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md);
+Visto il [regio decreto 22 marzo 1923, n. 830](../Regi%20decreti/Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md);
 
 Visto il [regio decreto-legge 28 dicembre 1924, n. 2284](Tasse%20di%20ancoraggio%20dovute%20dalle%20navi%20nazionali%20ed%20estere%20che%20approdino%20nei%20porti%20dello%20Stato.%20024U2284.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
@@ -69,11 +69,11 @@ Il diritto previsto dall'art. 23-bis aggiunto alla [legge 23 luglio 1896, n. 318
 
 ## Art. 6.
 
-La tassa annuale di ancoraggio stabilita dall'[art. 24 della legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), modificato dall'[art. 2 del regio decreto 22 marzo 1923, n. 830](Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md), per le navi nazionali a propulsione meccanica addette al servizio di rimorchio nei porti, nelle rade e nelle spiagge dello Stato e' aumentato a lire 15 per ogni cavallo indicato di forza sviluppata dalle rispettive macchine.
+La tassa annuale di ancoraggio stabilita dall'[art. 24 della legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), modificato dall'[art. 2 del regio decreto 22 marzo 1923, n. 830](../Regi%20decreti/Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md), per le navi nazionali a propulsione meccanica addette al servizio di rimorchio nei porti, nelle rade e nelle spiagge dello Stato e' aumentato a lire 15 per ogni cavallo indicato di forza sviluppata dalle rispettive macchine.
 
 ## Art. 7.
 
-I diritti previsti dall'[art. 30 della legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), modificato dall'[art. 2, secondo comma del regio decreto 22 marzo 1923, n. 830](Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md), per la concessione delle patenti di sanita', sono aumentati come segue:
+I diritti previsti dall'[art. 30 della legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), modificato dall'[art. 2, secondo comma del regio decreto 22 marzo 1923, n. 830](../Regi%20decreti/Che%20aumenta%20la%20misura%20dei%20diritti%20marittimi%20stabiliti%20dalla%20legge%2023%20luglio%201896%20n.%20318.%20023U0830.md), per la concessione delle patenti di sanita', sono aumentati come segue:
  a) a lire 20 per le navi a vela di stazza netta inferiore alle 51 tonnellate;
  b) a lire 50 per le navi a vela di stazza netta fra le 51 e le 100 tonnellate;
  c) a lire 150 per le navi a vela di stazza netta superiore alle 100 tonnellate e per le navi a propulsione meccanica di stazza netta inferiore alle 501 tonnellate;

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 27 maggio 1929, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;847);
 
-Visto il [R. decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), sull'ordinamento dello stato civile;
+Visto il [R. decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), sull'ordinamento dello stato civile;
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 

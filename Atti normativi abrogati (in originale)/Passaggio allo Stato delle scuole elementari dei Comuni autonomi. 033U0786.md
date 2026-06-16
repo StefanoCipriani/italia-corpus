@@ -22,9 +22,9 @@ Veduto il [R. decreto 31 dicembre 1931, n. 1804](Norme%20per%20la%20corresponsio
 
 Veduto l'[art. 7 del R. decreto-legge 20 aprile 1933, n. 372](Variazioni%20allo%20stato%20di%20previsione%20dellentrata%20ed%20a%20quelli%20della%20spesa%20di%20taluni%20Ministeri%20nonche%20ai%20bilanci%20di%20Aziende%20autonome%20per%20lesercizio%20finanziario%201932-33%20ed%20altri%20provvedimenti_e32a7e646505.md);
 
-Veduti il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Veduti il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Veduto il T.U. approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto il T.U. approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto l'[art. 1, numeri 1](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) e [3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -36,7 +36,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ### Art. 1.
 
-Il ruolo organico del personale ispettivo e direttivo delle scuole elementari, stabilito dalla tabella H, annessa al [R. decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690), e' sostituito da quello di cui alla tabella A, annessa al presente decreto, a decorrere dal 1° gennaio 1934. 
+Il ruolo organico del personale ispettivo e direttivo delle scuole elementari, stabilito dalla tabella H, annessa al [R. decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md), e' sostituito da quello di cui alla tabella A, annessa al presente decreto, a decorrere dal 1° gennaio 1934. 
  
  Gli ispettori scolastici e i direttori didattici hanno la direzione di un gruppo di classi, costituenti un circolo didattico. 
  
@@ -50,7 +50,7 @@ I posti di ispettore centrale per l'istruzione elementare sono conferiti a norma
  
  Le promozioni al grado di ispettore scolastico capo sono conferite a norma dell'[art. 6 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); quelle al grado di primo ispettore scolastico a norma dell'art. 7 dello stesso decreto. 
  
- Le promozioni al grado di ispettore scolastico sono conferite a norma dell'[art. 8 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e degli [articoli 21 e seguenti del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21), e successive modificazioni. Con decreto ministeriale sono stabiliti i programmi e le altre modalita' per gli esami di promozione. 
+ Le promozioni al grado di ispettore scolastico sono conferite a norma dell'[art. 8 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e degli [articoli 21 e seguenti del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni. Con decreto ministeriale sono stabiliti i programmi e le altre modalita' per gli esami di promozione. 
  
  Ai fini del compimento del periodo di servizio necessario per l'ammissione agli esami di promozione e' computato anche il servizio prestato con la qualifica di direttore didattico effettivo alla dipendenza dei Comuni. 
  
@@ -58,7 +58,7 @@ I posti di ispettore centrale per l'istruzione elementare sono conferiti a norma
 
 ### Art. 3.
 
-Il personale ispettivo e direttivo delle scuole elementari, appartenente al ruolo di cui alla tabella H, annessa al [R. decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690), si intende collocato, a decorrere dal 1° gennaio 1934, nel ruolo della tabella A, annessa al presente decreto, col proprio grado e con la propria anzianita'.
+Il personale ispettivo e direttivo delle scuole elementari, appartenente al ruolo di cui alla tabella H, annessa al [R. decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md), si intende collocato, a decorrere dal 1° gennaio 1934, nel ruolo della tabella A, annessa al presente decreto, col proprio grado e con la propria anzianita'.
 
 ### Art. 4.
 
@@ -287,9 +287,9 @@ Gli ispettori scolastici e i direttori didattici governativi hanno la sede del l
 
 ### Art. 35.
 
-I ruoli organici del personale dell'Amministrazione scolastica stabiliti dalla tabella D, annessa al [R. decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690), sono sostituiti da quelli di cui alla tabella C annessa al presente decreto. 
+I ruoli organici del personale dell'Amministrazione scolastica stabiliti dalla tabella D, annessa al [R. decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md), sono sostituiti da quelli di cui alla tabella C annessa al presente decreto. 
  
- Ai ruoli organici del personale dell'Amministrazione centrale stabiliti dalla tabella A annessa al [R. decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690), sono aggiunti i posti indicati nella tabella D annessa al presente decreto. 
+ Ai ruoli organici del personale dell'Amministrazione centrale stabiliti dalla tabella A annessa al [R. decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md), sono aggiunti i posti indicati nella tabella D annessa al presente decreto. 
  
  Il numero dei funzionari di ragioneria dei Regi provveditorati agli studi, che, a sensi dell'[art. 6 del R. decreto-legge 29 luglio 1925, n. 1286](Disposizioni%20concernenti%20il%20personale%20dipendente%20dallAmministrazione%20della%20pubblica%20Istruzione.%20025U1286.md), possono essere distaccati presso la Amministrazione centrale, e' elevato a dieci. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), concernente l'ordinamento dell'istruzione industriale, ed il relativo regolamento approvato con [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), concernente l'ordinamento dell'istruzione industriale, ed il relativo regolamento approvato con [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
 
 Visti i programmi d'insegnamento dei Regi istituti industriali;
 
@@ -34,7 +34,7 @@ Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato e Ministr
 
 Il [secondo comma dell'art. 1 del R. decreto-legge 9 marzo 1924, n. 417](Iscrizione%20esami%20e%20disciplina%20nei%20Regi%20istituti%20nautici.%20024U0417.md), convertito nella [legge 18 giugno 1925, numero 1092](Conversione%20in%20legge%20del%20R.%20decreto%209%20marzo%201924%20n.%20417%20circa%20liscrizione%20gli%20esami%20e%20la%20disciplina%20nei%20Regi%20istituti%20nautici%20con%20alcune%20varianti.%20025U1092.md), e modificato come segue: 
  
- «Alla prima classe delle sezioni macchinisti e costruttori possono accedere anche i giovani che hanno conseguito la promozione dalla 1ª alla 2ª classe di un Regio istituto industriale secondo l'ordinamento di cui al [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523)»
+ «Alla prima classe delle sezioni macchinisti e costruttori possono accedere anche i giovani che hanno conseguito la promozione dalla 1ª alla 2ª classe di un Regio istituto industriale secondo l'ordinamento di cui al [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md)»
 
 ## Art. 2.
 

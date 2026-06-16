@@ -35,7 +35,7 @@ Al grado di vice rettore si accede mediante concorso per titoli ed esame, cui po
 
 ## Art. 3.
 
-In conseguenza di quanto disposto nei precedenti articoli, i ruoli organici del personale direttivo, educativo e di economato di cui alla tabella G annessa al [regio decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690), sono sostituiti da quelli di cui alla tabella A, annessa al presente decreto, e vistata dai Ministri proponenti.
+In conseguenza di quanto disposto nei precedenti articoli, i ruoli organici del personale direttivo, educativo e di economato di cui alla tabella G annessa al [regio decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md), sono sostituiti da quelli di cui alla tabella A, annessa al presente decreto, e vistata dai Ministri proponenti.
 
 ## Art. 4.
 
@@ -46,7 +46,7 @@ Nella prima applicazione del presente decreto, gli attuali rettori di 1ª classe
 
 ## Art. 5.
 
-Restano ferme, per quanto riguarda il titolo di studio richiesto per le promozioni a vice rettore e a rettore di 2ª classe, le disposizioni di cui al [regio decreto 13 luglio 1933, n. 1000](Norme%20per%20le%20promozioni%20a%20rettore%20e%20a%20vice%20rettore%20nei%20Convitti%20nazionali.%20033U1000.md).
+Restano ferme, per quanto riguarda il titolo di studio richiesto per le promozioni a vice rettore e a rettore di 2ª classe, le disposizioni di cui al [regio decreto 13 luglio 1933, n. 1000](../Regi%20decreti/Norme%20per%20le%20promozioni%20a%20rettore%20e%20a%20vice%20rettore%20nei%20Convitti%20nazionali.%20033U1000.md).
 
 ## Art. 6.
 

@@ -18,7 +18,7 @@ Vista la [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%
 
 Visto il [R. decreto 6 agosto 1911, n. 1413](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20011U1413.md), che approva il regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari;
 
-Visto il [R. decreto 9 agosto 1914, n. 1419](Col%20quale%20e%20approvato%20lannesso%20nuovo%20regolamento%20per%20il%20servizio%20del%20materiale%20di%20artiglieria.%20014U1419.md), che approva il regolamento pel servizio del materiale di artiglieria;
+Visto il [R. decreto 9 agosto 1914, n. 1419](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20nuovo%20regolamento%20per%20il%20servizio%20del%20materiale%20di%20artiglieria.%20014U1419.md), che approva il regolamento pel servizio del materiale di artiglieria;
 
 Visto il [R. decreto 18 novembre 1923, n. 2240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2240), recante le nuove disposizioni sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato e il relativo regolamento approvato con [R. decreto 23 maggio 1924, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;287);
 

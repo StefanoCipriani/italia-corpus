@@ -263,7 +263,7 @@ Il personale del Corpo forestale dello Stato e l'altro personale addetto al cont
  L'opposizione si propone mediante ricorso. Il pretore fissa l'udienza di comparizione da tenersi nel termine di venti giorni, e dispone per la notifica del ricorso e del decreto, da attuarsi a cura della cancelleria.
  E' inappellabile la sentenza che decide la controversia.
  Salvo quanto previsto nei commi precedenti, decorso il termine
-prefissato per il pagamento, alla riscossione delle somme dovute si procede mediante l'esecuzione forzata con l'osservanza delle norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), sulla riscossione coattiva delle entrate patrimoniali dello Stato e degli altri enti pubblici. In ogni caso, alla riscossione coattiva delle somme dovute provvede l'ufficio del registro.
+prefissato per il pagamento, alla riscossione delle somme dovute si procede mediante l'esecuzione forzata con l'osservanza delle norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), sulla riscossione coattiva delle entrate patrimoniali dello Stato e degli altri enti pubblici. In ogni caso, alla riscossione coattiva delle somme dovute provvede l'ufficio del registro.
  L'obbligazione di pagare somme a titolo di sanzione amministrativa per le violazioni delle disposizioni contenute nella presente legge non si trasmette agli eredi.
 
 ### Art. 29.

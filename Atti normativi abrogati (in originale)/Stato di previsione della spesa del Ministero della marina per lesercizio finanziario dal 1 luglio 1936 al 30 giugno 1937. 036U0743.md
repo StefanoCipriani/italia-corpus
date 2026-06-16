@@ -26,7 +26,7 @@ La quota annua autorizzala con l'[art. 4 della legge 12 giugno 1936, n. 800](htt
 
 ## Art. 5.
 
-Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti Miliari, approvato col [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti per questo titolo non potranno eccedere durante l'esercizio 1936-37 complessivamente la somma di L. 3.000.000. 
+Le disposizioni dell'art. 20 del testo unico concernente l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti Miliari, approvato col [R. decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese, ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti per questo titolo non potranno eccedere durante l'esercizio 1936-37 complessivamente la somma di L. 3.000.000. 
  
  I capitoli a favore dei quali, nell'esercizio 1936-37, potranno operarsi prelevamenti dal fondo a disposizione di cui ai succitati articoli, sono descritti nell'elenco annesso alla presente legge.
 

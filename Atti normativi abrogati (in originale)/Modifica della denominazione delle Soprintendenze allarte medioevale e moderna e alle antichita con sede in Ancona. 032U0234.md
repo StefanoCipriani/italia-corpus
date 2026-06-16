@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  Sentito il parere del Consiglio superiore per le antichita' e belle arti; 
  Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; 
  Abbiamo decretato e decretiamo: 
- La denominazione delle seguenti Soprintendenze all'arte medioevale e moderna e alle antichita', fissata dagli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_4) e [5 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_5), viene modificata come segue: 
+ La denominazione delle seguenti Soprintendenze all'arte medioevale e moderna e alle antichita', fissata dagli [articoli 4](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md) e [5 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), viene modificata come segue: 
  «a) Soprintendenza all'arte medioevale e moderna delle Marche e della Dalmazia con sede in Ancona; 
 b) Soprintendenza alle antichita' delle Marche, degli Abruzzi e della Dalmazia con sede in Ancona». 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 

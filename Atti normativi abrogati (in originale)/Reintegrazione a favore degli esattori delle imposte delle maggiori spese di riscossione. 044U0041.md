@@ -56,6 +56,6 @@ Il Ministro per le Finanze e' autorizzato a emanare con propri decreti, le norme
  
  BADOGLIO - JUNG 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardarsigilli: BADOGLIO

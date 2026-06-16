@@ -26,7 +26,7 @@ I rettori delle Regie universita', i direttori dei Regi istituti superiori, i di
 
 ## Art. 2.
 
-L'[art. 9 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
+L'[art. 9 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  
  «Il Senato accademico delle universita' e' composto: 
  
@@ -38,7 +38,7 @@ L'[art. 9 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istru
 
 ## Art. 3.
 
-Per l'anno scolastico 1925-26, il Ministro per la pubblica istruzione potra' trasferire ai posti di professori istituiti presso la facolta' di lettere e filosofia della Regia universita' di Roma dal R. decreto 10 novembre 1924. n. 2359, e a quelli presso la facolta' di scienze politiche dell'Universita' stessa attualmente vacanti, prescindendo dalle disposizioni di cui all'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dal [R. decreto 4 settembre 1924, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-04;1).604, professori di qualsiasi universita' o istituto superiore per l'insegnamento della materia di cui sono titolari o di altra materia; alla predetta facolta' di scienze politiche potra' inoltre trasferire professori di istituti superiori dipendenti dal Ministero dell'economia nazionale, prescindendo anche dalle disposizioni di cui all'[art. 2 del R. decreto 9 dicembre 1923, n. 2892](Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md), ma previo concerto col Ministro competente. 
+Per l'anno scolastico 1925-26, il Ministro per la pubblica istruzione potra' trasferire ai posti di professori istituiti presso la facolta' di lettere e filosofia della Regia universita' di Roma dal R. decreto 10 novembre 1924. n. 2359, e a quelli presso la facolta' di scienze politiche dell'Universita' stessa attualmente vacanti, prescindendo dalle disposizioni di cui all'[art. 20 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dal [R. decreto 4 settembre 1924, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-04;1).604, professori di qualsiasi universita' o istituto superiore per l'insegnamento della materia di cui sono titolari o di altra materia; alla predetta facolta' di scienze politiche potra' inoltre trasferire professori di istituti superiori dipendenti dal Ministero dell'economia nazionale, prescindendo anche dalle disposizioni di cui all'[art. 2 del R. decreto 9 dicembre 1923, n. 2892](../Regi%20decreti/Trasferimenti%20di%20professori%20di%20ruolo%20dalluniversita%20e%20dagli%20istituti%20superiori%20dipendenti%20dal%20Ministero%20dellistruzione%20ai%20Regi%20istituti%20superiori%20di%20grado%20universitario%20dipendenti%20dal%20Min_fbd279dc28cc.md), ma previo concerto col Ministro competente. 
  
  Qualora al 15 dicembre 1925 rimangano disponibili dei posti, le facolta' predette potranno fare proposte di trasferimento o di apertura di concorsi, prescindendo dai termini di tempo stabiliti dagli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_10) e [46 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_46), dalla disposizione contenuta nell'ultimo comma dell'art. 10 del decreto stesso e dai termini di cui all'art. 5 del presente decreto.
 
@@ -62,11 +62,11 @@ Al [terzo comma dell'art. 2 del R. decreto 4 settembre 1925, n. 1604](https://ww
 
 Il [primo comma dell'art. 64 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_64-com1), e' sostituito dal seguente: 
  
- «Gli aiuti e gli assistenti in soprannumero e straordinari che, alla data del 30 settembre 1924, erano in servizio presso le Regie universita' e i Regi istituti superiori da almeno due anni solari, e gli aiuti e gli assistenti di ruolo, che, alla data del 30 novembre 1924, hanno cessato dal servizio per soppressione o riduzione di posti, possono essere nominati aiuti e assistenti effettivi senza concorso in qualunque universita' o istituto superiore, rispettate tutte le altre norme e condizioni contemplate dall'[art. 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md)».
+ «Gli aiuti e gli assistenti in soprannumero e straordinari che, alla data del 30 settembre 1924, erano in servizio presso le Regie universita' e i Regi istituti superiori da almeno due anni solari, e gli aiuti e gli assistenti di ruolo, che, alla data del 30 novembre 1924, hanno cessato dal servizio per soppressione o riduzione di posti, possono essere nominati aiuti e assistenti effettivi senza concorso in qualunque universita' o istituto superiore, rispettate tutte le altre norme e condizioni contemplate dall'[art. 64 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md)».
 
 ## Art. 8.
 
-A coloro che siano stati abilitati alla libera docenza anteriormente al 16 ottobre 1923, e' applicabile la disposizione di cui comma dell'[art. 39 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+A coloro che siano stati abilitati alla libera docenza anteriormente al 16 ottobre 1923, e' applicabile la disposizione di cui comma dell'[art. 39 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  Il quinquennio, dopo il quale potra' essere definitivamente confermata l'abilitazione, decorre dal 16 ottobre 1923.
 

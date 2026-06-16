@@ -29,7 +29,7 @@ Adotta il seguente regolamento:
 Il presente decreto, adottato ai sensi dell'[articolo 2, comma 4, della legge 5 ottobre 2004, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-10-05;255#art_2-com4), disciplina le modalita' e i criteri per l'assegnazione del Premio "Giacomo Matteotti", istituito presso la Presidenza del Consiglio dei Ministri.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Si riporta il testo dell'[art. 2, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-10-05;255#art_2-com3) e [4 della legge 5 ottobre 2004, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-10-05;255#art_2-com4) (Disposizioni per la commemorazione di Giacomo Matteotti e per la tutela della sua casa natale a Fratta Polesine):
  «3. E' istituito presso la Presidenza del Consiglio dei Ministri il premio intitolato a Giacomo Matteotti. Per le finalita' di cui al presente comma e' autorizzata la spesa di 50.000 euro a decorrere dall'anno 2005.
@@ -137,14 +137,14 @@ E' ammesso anche il formato su supporto informatico, ma in aggiunta ai cinque te
 
 2.
 
-Per le opere che concorrono alla sezione "tesi di laurea" alla domanda deve essere allegata una dichiarazione, resa ai sensi del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), nella quale il concorrente indichera' il diploma di laurea posseduto, la data di discussione della tesi e il punteggio conseguito.
+Per le opere che concorrono alla sezione "tesi di laurea" alla domanda deve essere allegata una dichiarazione, resa ai sensi del [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), nella quale il concorrente indichera' il diploma di laurea posseduto, la data di discussione della tesi e il punteggio conseguito.
 
 3.
 
 La domanda deve essere spedita con raccomandata con ricevuta di ritorno o consegnata a mano all'indirizzo pubblicato nel bando annuale, entro il termine indicato nel bando di concorso.
 
 Nota all'[art. 7:
- - Il decreto del Presidente della Repubblica 28 dicembre 2000 n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) reca: «[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). (Testo A)».
+ - Il decreto del Presidente della Repubblica 28 dicembre 2000 n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) reca: «[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). (Testo A)».
 
 ## Art. 8. — Composizione delle commissioni giudicatrici
 

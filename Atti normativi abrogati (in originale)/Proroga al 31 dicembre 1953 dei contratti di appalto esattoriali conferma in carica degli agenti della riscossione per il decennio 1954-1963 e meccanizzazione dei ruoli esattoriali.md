@@ -35,7 +35,7 @@ Gli esattori in carica che intendano chiedere la conferma per il decennio 1954-1
 ### Art. 3.
 
 Nel caso che la conferma venga chiesta con l'aggio contrattuale in corso ed in confronto del richiedente non sussistano motivi di incompatibilita' ai sensi delle leggi vigenti ed altri derivanti dalla carica di membri delle Assemblee regionali e non sia intervenuto, da parte del Ministro per le finanze, decreto di esclusione dal conferimento a mente dell'ultimo comma dell'[articolo 5 della legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), il prefetto, sentiti l'intendente di finanza, l'Ispettorato compartimentale delle imposte dirette, il Comune o la rappresentanza consorziale, emette il provvedimento motivato di conferma.
- Ove, peraltro, l'esattoria abbia raggiunto nel 1951 un incremento di carichi di almeno 40 volte rispetto a quelli del 1943, la conferma e' consentita con una riduzione dell'aggio contrattuale in corso, da determinare dal Ministero delle finanze, sentita la Commissione di cui agli [articoli 5](Norme%20per%20la%20integrazione%20di%20aggio%20a%20favore%20degli%20esattori%20e%20dei%20ricevitori%20provinciali%20delle%20imposte%20dirette.md) e [6 del regio decreto legislativo 2 giugno 1946, n. 587](Norme%20per%20la%20integrazione%20di%20aggio%20a%20favore%20degli%20esattori%20e%20dei%20ricevitori%20provinciali%20delle%20imposte%20dirette.md).
+ Ove, peraltro, l'esattoria abbia raggiunto nel 1951 un incremento di carichi di almeno 40 volte rispetto a quelli del 1943, la conferma e' consentita con una riduzione dell'aggio contrattuale in corso, da determinare dal Ministero delle finanze, sentita la Commissione di cui agli [articoli 5](../Regi%20decreti%20legislativi/Norme%20per%20la%20integrazione%20di%20aggio%20a%20favore%20degli%20esattori%20e%20dei%20ricevitori%20provinciali%20delle%20imposte%20dirette.md) e [6 del regio decreto legislativo 2 giugno 1946, n. 587](../Regi%20decreti%20legislativi/Norme%20per%20la%20integrazione%20di%20aggio%20a%20favore%20degli%20esattori%20e%20dei%20ricevitori%20provinciali%20delle%20imposte%20dirette.md).
  Nel caso previsto al comma precedente, l'esattore, che non intenda accettare la conferma, deve dichiararlo nel termine di trenta giorni dalla notifica del provvedimento.
 
 ### Art. 4.
@@ -130,7 +130,7 @@ Nei casi in cui l'aliquota complessiva per la tariffazione dei ruoli risulti for
 ### Art. 19.
 
 Le persone addette ai centri meccanizzati od al rilevamento statistico sono vincolate al segreto d'ufficio per ogni notizia di cui vengano a conoscenza in dipendenza dell'esercizio della propria funzione.
- In caso di violazione, si applica l'[art. 326 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di violazione, si applica l'[art. 326 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 20.
 

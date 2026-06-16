@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 25 marzo 1943, n. 315](Unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustria%20e%20nellagricoltura.%20043U0315.md), concernente l'unificazione dell'assicurazione obbligatoria contro gli infortuni sul lavoro nell'industria e nell'agricoltura:
 
-Visto il [regio decreto legislativo 20 maggio 1946, n. 394](Proroga%20del%20termine%20di%20cui%20allart.%205%20secondo%20comma%20del%20R.%20decreto-legge%2025%20marzo%201943%20n.%20315%20per%20la%20unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustr_a2de17f54c94.md), concernente la proroga del termine previsto dall'art. 5, secondo comma, del regio decreto-legge citato;
+Visto il [regio decreto legislativo 20 maggio 1946, n. 394](../Regi%20decreti%20legislativi/Proroga%20del%20termine%20di%20cui%20allart.%205%20secondo%20comma%20del%20R.%20decreto-legge%2025%20marzo%201943%20n.%20315%20per%20la%20unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustr_a2de17f54c94.md), concernente la proroga del termine previsto dall'art. 5, secondo comma, del regio decreto-legge citato;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-L'[art. 5 del regio decreto-legge 25 marzo 1943, n. 315](Unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustria%20e%20nellagricoltura.%20043U0315.md), modificato con [regio decreto legislativo 20 maggio 1946, n. 394](Proroga%20del%20termine%20di%20cui%20allart.%205%20secondo%20comma%20del%20R.%20decreto-legge%2025%20marzo%201943%20n.%20315%20per%20la%20unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustr_a2de17f54c94.md), e' sostituito dal seguente: 
+L'[art. 5 del regio decreto-legge 25 marzo 1943, n. 315](Unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustria%20e%20nellagricoltura.%20043U0315.md), modificato con [regio decreto legislativo 20 maggio 1946, n. 394](../Regi%20decreti%20legislativi/Proroga%20del%20termine%20di%20cui%20allart.%205%20secondo%20comma%20del%20R.%20decreto-legge%2025%20marzo%201943%20n.%20315%20per%20la%20unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustr_a2de17f54c94.md), e' sostituito dal seguente: 
  "Il personale in servizio presso le Casse mutue e la loro Federazione nel momento del trasferimento di cui agli articoli 3 e 4, e' assunto dall'Istituto nazionale infortuni con la posizione da esso raggiunta alla data del 1° aprile 1943". 
  Entro il 31 luglio 1947 una Commissione nominata dal Ministro per il lavoro e la previdenza sociale, provvedera' all'inquadramento del personale suddetto in base a norme da emanarsi entro il 30 aprile 1947 dal Ministro medesimo, di concerto con quello per le finanze ed il tesoro.
 

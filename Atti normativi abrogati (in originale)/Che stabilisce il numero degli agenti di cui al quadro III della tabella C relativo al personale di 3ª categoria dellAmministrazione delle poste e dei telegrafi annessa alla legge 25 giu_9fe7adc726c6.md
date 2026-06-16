@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 17, secondo comma, della legge 19 luglio 1907, n. 515](Riforma%20dellordinamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20007U0515.md) ed il quadro III della tabella C annessa alla [legge del 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), riguardante il personale di 3ª categoria dipendente dal Ministero delle poste e dei telegrafi; 
  
- Visto il [R. decreto del 15 marzo 1914, n. 329](Col%20quale%20viene%20aumentato%20il%20numero%20degli%20agenti%20di%203ª%20categoria%20dellAmministrazione%20delle%20poste%20e%20telegrafi%20nel%20quadro%20III%20della%20tabella%20C%20annessa%20alla%20legge%2025%20giugno%201911%20n.%20575.%20014U0329.md) col quale il numero degli agenti di manutenzione del quadro III, tabella C, venne portato da 1945 a 2090 dal 1° marzo 1914; 
+ Visto il [R. decreto del 15 marzo 1914, n. 329](../Regi%20decreti/Col%20quale%20viene%20aumentato%20il%20numero%20degli%20agenti%20di%203ª%20categoria%20dellAmministrazione%20delle%20poste%20e%20telegrafi%20nel%20quadro%20III%20della%20tabella%20C%20annessa%20alla%20legge%2025%20giugno%201911%20n.%20575.%20014U0329.md) col quale il numero degli agenti di manutenzione del quadro III, tabella C, venne portato da 1945 a 2090 dal 1° marzo 1914; 
  
  Sulla proposta del ministro segretario di Stato per le poste e per i telegrafi, di concerto con quello del tesoro; 
  

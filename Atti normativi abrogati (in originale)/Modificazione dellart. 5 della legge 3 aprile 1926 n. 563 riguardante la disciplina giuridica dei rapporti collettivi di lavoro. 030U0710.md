@@ -16,7 +16,7 @@ L'ultima parte del [2° comma dell'art. 5 della legge 3 aprile 1926, n. 563](Dis
 
 ## Art. 2.
 
-Ferme restando le disposizioni dell'[art. 18 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), almeno il sette per cento dei contributi sindacali obbligatori a carico dei datori di lavoro e dei lavoratori e' devoluto alle spese per l'educazione nazionale, per l'istruzione professionale, nonche' per l'assistenza sociale e tecnica, nella misura e con le modalita' che saranno fissate mediante decreto del Ministro per le corporazioni, sentito il parere delle Confederazioni interessate, previ accordi con i Ministri competenti. 
+Ferme restando le disposizioni dell'[art. 18 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), almeno il sette per cento dei contributi sindacali obbligatori a carico dei datori di lavoro e dei lavoratori e' devoluto alle spese per l'educazione nazionale, per l'istruzione professionale, nonche' per l'assistenza sociale e tecnica, nella misura e con le modalita' che saranno fissate mediante decreto del Ministro per le corporazioni, sentito il parere delle Confederazioni interessate, previ accordi con i Ministri competenti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

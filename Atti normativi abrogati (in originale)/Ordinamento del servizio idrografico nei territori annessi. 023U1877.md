@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 9 ottobre 1919, n. 2161](Che%20reca%20disposizioni%20
 
 Vieto il [R. decreto-legge 14 agosto 1920, n. 1286](Concernente%20il%20Servizio%20idrografico%20istituito%20alla%20dipendenza%20del%20Ministero%20dei%20lavori%20pubblici%20e%20presso%20il%20Consiglio%20superiore%20delle%20acque.%20020U1286.md), concernente la istituzione del servizio idrografico;
 
-Visto il regolamento per l'applicazione dei su citati decreti, approvato con il [R. decreto 14 agosto 1920, n. 1285, il cui art. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1285#art_45) prevede la possibile istituzione di nuovi uffici idrografici e la variazione delle diverse circoscrizioni;
+Visto il regolamento per l'applicazione dei su citati decreti, approvato con il [R. decreto 14 agosto 1920, n. 1285, il cui art. 45](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20derivazioni%20e%20utilizzazioni%20di%20acque%20pubbliche.%20020U1285.md) prevede la possibile istituzione di nuovi uffici idrografici e la variazione delle diverse circoscrizioni;
 
 Visto l'[art. 13 della legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), istitutiva del Magistrato alle acque per le provincie venete e di Mantova;
 

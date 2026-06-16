@@ -36,7 +36,7 @@ Per i lavori di sistemazione previsti nel precedente art. 2 e' autorizzata la sp
 
 ## Art. 5.
 
-Per la parte non regolata dalle norme del presente decreto si osservano, in quanto applicabili, le disposizioni relative ai cimiteri, stabilite dal [testo unico 27 luglio 1934, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-07-27;1263), dalle leggi sanitarie e dal regolamento di polizia mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md).
+Per la parte non regolata dalle norme del presente decreto si osservano, in quanto applicabili, le disposizioni relative ai cimiteri, stabilite dal [testo unico 27 luglio 1934, n. 1263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-07-27;1263), dalle leggi sanitarie e dal regolamento di polizia mortuaria approvato con [regio decreto 21 dicembre 1942, n. 1880](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md).
 
 ## Art. 6.
 

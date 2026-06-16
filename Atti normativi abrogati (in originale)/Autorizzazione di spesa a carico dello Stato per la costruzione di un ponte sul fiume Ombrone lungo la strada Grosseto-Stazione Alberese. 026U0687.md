@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il [decreto Luogotenenziale 25 maggio 1919, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-25;1175); 
  
- Visto il [R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506); 
+ Visto il [R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md); 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

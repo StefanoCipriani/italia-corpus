@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Visto il [R. decreto 6 ottobre 1911, n. 1326](Col%20quale%20vengono%20approvati%20gli%20annessi%20regolamenti%20relativi%20agli%20impiegati%20dipendenti%20dal%20ministero%20della%20guerra.%20011U1326.md), che approva i regolamenti speciali per i personali civili dipendenti dall'Amministrazione della guerra;
 

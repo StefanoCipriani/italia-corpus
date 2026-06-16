@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto-il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato;
+Visto-il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3137](Istituto%20pensioni%20per%20impiegati%20nella%20Venezia%20Giulia%20nella%20Venezia%20Tridentina%20e%20nella%20Dalmazia%20annessa.%20023U3137.md), concernente l'Istituto pensioni per gli impiegati nella Venezia Giulia, nella Venezia Tridentina e nella Dalmazia annessa;
+Visto il [R. decreto 30 dicembre 1923, n. 3137](../Regi%20decreti/Istituto%20pensioni%20per%20impiegati%20nella%20Venezia%20Giulia%20nella%20Venezia%20Tridentina%20e%20nella%20Dalmazia%20annessa.%20023U3137.md), concernente l'Istituto pensioni per gli impiegati nella Venezia Giulia, nella Venezia Tridentina e nella Dalmazia annessa;
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-E' approvata la tabella, annessa al presente decreto, vista e firmata, d'ordine Nostro, dai Ministri proponenti, la quale sostituisce la tabella n. 39 annessa all'allegato IV del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+E' approvata la tabella, annessa al presente decreto, vista e firmata, d'ordine Nostro, dai Ministri proponenti, la quale sostituisce la tabella n. 39 annessa all'allegato IV del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 
@@ -32,7 +32,7 @@ Il Ministro per l'economia nazionale e' autorizzato, nel limite di 83 posti, a p
  
  Gli avventizi suddetti, senza esperimento di concorso, saranno nominati, nel grado di sorvegliante, con decorrenza a tutti gli effetti dal 1° ottobre 1925, purche' abbiano disimpegnato, almeno dal 1° dicembre 1923, mansioni inerenti al ruolo del personale di custodia forestale e siano, a giudizio inappellabile e definitivo del Ministro per l'economia nazionale, riconosciuti particolarmente meritevoli per capacita', operosita', diligenza e disciplina. 
  
- La graduatoria dei prescelti sara' stabilita per ordine di merito e, a parita' di merito, verranno applicate, in quanto alle preferenze, le norme dell'[art. 21 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ La graduatoria dei prescelti sara' stabilita per ordine di merito e, a parita' di merito, verranno applicate, in quanto alle preferenze, le norme dell'[art. 21 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 3.
 
@@ -48,7 +48,7 @@ Ad essi verra' corrisposta, in relazione alla durata del servizio prestato alla 
 
 ## Art. 5.
 
-Il personale di cui al precedente art. 3, che era assicurato, per il trattamento di quiescenza, all' «Istituto pensioni per impiegati» di cui al [R. decreto 30 dicembre 1923, n. 3137](Istituto%20pensioni%20per%20impiegati%20nella%20Venezia%20Giulia%20nella%20Venezia%20Tridentina%20e%20nella%20Dalmazia%20annessa.%20023U3137.md), continuera' a rimanere iscritto all'Istituto stesso e il pagamento delle quote dei premi di assicurazione gia' dovuto dalla provincia di Trento passera' a carico dell'azienda del Demanio forestale di Stato.
+Il personale di cui al precedente art. 3, che era assicurato, per il trattamento di quiescenza, all' «Istituto pensioni per impiegati» di cui al [R. decreto 30 dicembre 1923, n. 3137](../Regi%20decreti/Istituto%20pensioni%20per%20impiegati%20nella%20Venezia%20Giulia%20nella%20Venezia%20Tridentina%20e%20nella%20Dalmazia%20annessa.%20023U3137.md), continuera' a rimanere iscritto all'Istituto stesso e il pagamento delle quote dei premi di assicurazione gia' dovuto dalla provincia di Trento passera' a carico dell'azienda del Demanio forestale di Stato.
 
 ## Art. 6.
 

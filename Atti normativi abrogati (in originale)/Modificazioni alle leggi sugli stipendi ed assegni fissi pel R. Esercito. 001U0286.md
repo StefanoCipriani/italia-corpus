@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Alla tabella II della legge sugli stipendi ed assegni fissi per il R. Esercito - testo unico approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md) - sono arrecate le seguenti modificazioni: 
+ Alla tabella II della legge sugli stipendi ed assegni fissi per il R. Esercito - testo unico approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md) - sono arrecate le seguenti modificazioni: 
  
  Nell'annotazione 2, dopo le parole: «e dei Reali Principi» sono inserite le altre: «ed il comandante dello squadrone Carabinieri Reali guardie del Re». 
  

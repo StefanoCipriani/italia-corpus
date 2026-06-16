@@ -90,7 +90,7 @@ Per l'ammissione ai primi due concorsi per impiegati ed agenti ausiliari che sar
 
 ## Art. 13.
 
-Gli ufficiali esecutivi di 2ª classe (grado 11°) invalidi di guerra, nominati in ruolo ai sensi dell'art. 133 del R. decreto 11 novembre 1923-II, n. 2395, i quali alla data del 1° gennaio 1925-III, non avevano raggiunto il grado 12°, possono essere promossi al grado superiore dalla data di entrata in vigore della presente legge per anzianita' congiunta al merito entro il numero dei posti che si conferiscono in base al [2° comma dell'art. 3 del R. decreto 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md).
+Gli ufficiali esecutivi di 2ª classe (grado 11°) invalidi di guerra, nominati in ruolo ai sensi dell'art. 133 del R. decreto 11 novembre 1923-II, n. 2395, i quali alla data del 1° gennaio 1925-III, non avevano raggiunto il grado 12°, possono essere promossi al grado superiore dalla data di entrata in vigore della presente legge per anzianita' congiunta al merito entro il numero dei posti che si conferiscono in base al [2° comma dell'art. 3 del R. decreto 17 settembre 1931, n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md).
 
 ## Art. 14.
 

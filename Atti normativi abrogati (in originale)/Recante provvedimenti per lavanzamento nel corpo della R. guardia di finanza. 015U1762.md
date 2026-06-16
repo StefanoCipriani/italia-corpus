@@ -20,7 +20,7 @@ I posti di maggiore, che cessata la guerra rimarranno ancora disponibili, potran
 
 ## Art. 3.
 
-Il conferimento dei posti di cui al precedente articolo 2 sara' deferito inappellabilmente alla Commissione centrale d'avanzamento istituita col [R. decreto 1° agosto 1913, n. 1002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-01;1002); alla quale saranno aggiunti due altri componenti scelti dal ministro delle finanze tra i colonnelli del corpo o i funzionari superiori dell'Amministrazione finanziaria. 
+Il conferimento dei posti di cui al precedente articolo 2 sara' deferito inappellabilmente alla Commissione centrale d'avanzamento istituita col [R. decreto 1° agosto 1913, n. 1002](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20norme%20per%20lavanzamento%20nei%20vari%20gradi%20della%20R.%20guardia%20di%20finanza.%20013U1002.md); alla quale saranno aggiunti due altri componenti scelti dal ministro delle finanze tra i colonnelli del corpo o i funzionari superiori dell'Amministrazione finanziaria. 
  
  Nel giudizio, la Commissione terra' speciale conto dei requisiti fisici, professionali e militari degli aspiranti.
 
@@ -35,7 +35,7 @@ Il giudizio sulla loro idoneita' all'avanzamento sara' pronunziato da una Commis
 
 ## Art. 6.
 
-Fino a nuova disposizione saranno ammessi al corso d'istruzione per l'avanzamento a sottobrigadiere anche gli appuntati e le gruardie che abbiano superato limite di eta' stabilito dal [R. decreto 22 maggio 1910, n. 329](Portante%20norme%20per%20lavanzamento%20al%20grado%20di%20sottobrigadiere%20nel%20corpo%20della%20guardia%20di%20finanza.%20010U0329.md), purche' sia accertata la loro idoneita' fisica a tutti i servizi del Corpo e siano di buona condotta. 
+Fino a nuova disposizione saranno ammessi al corso d'istruzione per l'avanzamento a sottobrigadiere anche gli appuntati e le gruardie che abbiano superato limite di eta' stabilito dal [R. decreto 22 maggio 1910, n. 329](../Regi%20decreti/Portante%20norme%20per%20lavanzamento%20al%20grado%20di%20sottobrigadiere%20nel%20corpo%20della%20guardia%20di%20finanza.%20010U0329.md), purche' sia accertata la loro idoneita' fisica a tutti i servizi del Corpo e siano di buona condotta. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

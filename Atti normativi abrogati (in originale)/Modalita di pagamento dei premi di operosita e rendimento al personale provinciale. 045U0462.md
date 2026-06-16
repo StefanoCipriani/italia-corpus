@@ -22,9 +22,9 @@ Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20
 
 Visto l'[art. 14 del decreto Luogotenenziale 14 settembre 1918, n. 1314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1314#art_14), che concede una indennita' mensile al personale di ruolo ed avventizio;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), che approva le disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), che approva le disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
-Visto il [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), recante norme per la concessione dei premi di operosita' e di rendimento al personale dell'Amministrazione dello Stato;
+Visto il [R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), recante norme per la concessione dei premi di operosita' e di rendimento al personale dell'Amministrazione dello Stato;
 
 Visto l'[art. 4 del decreto legislativo Luogotenenziale 30 settembre 1944, n. 299](Proroga%20al%2031%20dicembre%201944%20dellesercizio%20provvisorio%20del%20bilancio%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20044U0299.md), concernente proroga dell'esercizio provvisorio ed altri provvedimenti di carattere finanziario;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per il tesoro; Abbiamo sanzionato e promulghiamo qua
 
 ## Art. 1.
 
-Fino a sei mesi dopo la cessazione dello stato di guerra e' data facolta' alle Amministrazioni centrali dello Stato di provvedere al pagamento dei premi di operosita' e rendimento di cui al [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), a favore del personale dipendente in servizio presso gli unici periferici, mediante l'emissione di ordini di accreditamento. 
+Fino a sei mesi dopo la cessazione dello stato di guerra e' data facolta' alle Amministrazioni centrali dello Stato di provvedere al pagamento dei premi di operosita' e rendimento di cui al [R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), a favore del personale dipendente in servizio presso gli unici periferici, mediante l'emissione di ordini di accreditamento. 
  
  L'esercizio di tale facolta' e' subordinato al preventivo assenso del Ministro per il tesoro che lo concede una volta tanto per ciascuna categoria di personale. 
  
@@ -42,7 +42,7 @@ Fino a sei mesi dopo la cessazione dello stato di guerra e' data facolta' alle A
 
 ## Art. 2.
 
-L'importo dell'ordine di accreditamento per ciascun capitolo non potra' superare il limite stabilito dal penultimo comma dell'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), recante nuove disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato e successive modificazioni.
+L'importo dell'ordine di accreditamento per ciascun capitolo non potra' superare il limite stabilito dal penultimo comma dell'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante nuove disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato e successive modificazioni.
 
 ## Art. 3.
 

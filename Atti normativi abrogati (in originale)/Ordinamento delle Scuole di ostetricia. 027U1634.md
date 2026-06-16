@@ -97,7 +97,7 @@ Le tasse d'immatricolazione e d'inscrizione e le sopratasse di esami sono devolu
 
 ## Art. 11.
 
-Per gli atti di competenza delle Scuole di ostetricia sono dovuti i diritti di segreteria stabiliti dalla tabella H annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+Per gli atti di competenza delle Scuole di ostetricia sono dovuti i diritti di segreteria stabiliti dalla tabella H annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  
  I diritti di segreteria sono devoluti, per le Scuole annesse a Universita', all'Universita', e per le Scuole non annesse a Universita', alle Scuole stesse.
 

@@ -16,14 +16,14 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il secondo comma dell'articolo 159 del testo unico approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../DPR/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md) e' sostituito dai seguenti:
+Il secondo comma dell'articolo 159 del testo unico approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md) e' sostituito dai seguenti:
  "Per i primi cinque anni del decennio 1964-1973, l'aggio da attribuire in sede di conferma non puo' superare l'8 per cento.
 L'aggio che supera il limite massimo del 6,72 per cento stabilito dall'articolo 56, al termine del primo quinquennio e' ridotto del 5 per cento.
  L'aggio risultante non potra', comunque, essere inferiore, nel minimo, al 6,72 per cento, ne' superiore, nel massimo, al 7,50 per cento".
 
 ## Art. 2.
 
-Il quarto comma dell'articolo 161 del testo unico approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../DPR/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), e' sostituito dai seguenti:
+Il quarto comma dell'articolo 161 del testo unico approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), e' sostituito dai seguenti:
  "L'aggio base per l'asta non puo' essere fissato in misura superiore all'8 per cento e l'aggio di aggiudicazione che superi il limite massimo del 6,72 per cento stabilito dall'articolo 56, al termine del primo quinquennio e' ridotto del 5 per cento.
  L'aggio risultante non potra', comunque, essere inferiore, nel minimo, al 6,72 per cento ne' superiore, nel massimo, al 7,50 per cento.
  Gli stessi criteri si applicano alle esattorie conferite di ufficio per il decennio 1964-1973".

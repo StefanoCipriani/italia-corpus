@@ -20,13 +20,13 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata e dei poteri conferiti al Governo del Re dalla [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Visto il [R. decreto 26 settembre 1869, n. 5286](Col%20quale%20si%20istituiscono%20le%20Intendenze%20di%20Finanza.%20069U5286.md), col quale si istituirono le Intendenze di finanza;
+Visto il [R. decreto 26 settembre 1869, n. 5286](../Regi%20decreti/Col%20quale%20si%20istituiscono%20le%20Intendenze%20di%20Finanza.%20069U5286.md), col quale si istituirono le Intendenze di finanza;
 
-Visto il [R. decreto 3 novembre 1894, n. 468](Sulla%20riforma%20organica%20dei%20magazzinieri%20economi%20nelle%20Intendenze%20di%20finanza.%20094U0468.md);
+Visto il [R. decreto 3 novembre 1894, n. 468](../Regi%20decreti/Sulla%20riforma%20organica%20dei%20magazzinieri%20economi%20nelle%20Intendenze%20di%20finanza.%20094U0468.md);
 
 Visto l'art. 45 del regolamento per il personale degli uffici finanziari e per l'ordinamento degli uffici direttivi approvato con [R. decreto 29 agosto 1897, n. 512](Che%20approva%20il%20Regolamento%20per%20il%20personale%20degli%20Uffici%20finanziari%20e%20per%20lordinamento%20degli%20Uffici%20direttivi.%20097U0512.md);
 
-Visti gli articoli 25 e 84 del regolamento speciale per gli uffici e i personali dipendenti dal Ministero del tesoro approvato con [R. decreto 9 agosto 1910, n. 725](Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20uffici%20e%20i%20personali%20dipendenti%20dal%20Ministero%20del%20tesoro.%20010U0725.md);
+Visti gli articoli 25 e 84 del regolamento speciale per gli uffici e i personali dipendenti dal Ministero del tesoro approvato con [R. decreto 9 agosto 1910, n. 725](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20uffici%20e%20i%20personali%20dipendenti%20dal%20Ministero%20del%20tesoro.%20010U0725.md);
 
 Visto il ruolo organico del personale di ragioneria delle Intendenze di finanza approvato con la [legge 29 gennaio 1911, n. 10](Che%20apporta%20modificazioni%20ad%20alcuni%20ruoli%20organici%20del%20personale%20del%20Ministero%20del%20tesoro%20e%20di%20uffici%20e%20aziende%20dipendenti.%20011U0010.md);
 

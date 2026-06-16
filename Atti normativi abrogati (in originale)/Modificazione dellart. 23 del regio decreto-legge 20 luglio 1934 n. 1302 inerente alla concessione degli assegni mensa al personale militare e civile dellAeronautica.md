@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito, con modificazioni, nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md);
 
-Visto il [regio decreto 13 gennaio 1944, n. 12](Aumento%20dellindennita%20di%20trattamento%20tavola%20per%20il%20personale%20della%20R.%20Aeronautica.%20044U0012.md);
+Visto il [regio decreto 13 gennaio 1944, n. 12](../Regi%20decreti/Aumento%20dellindennita%20di%20trattamento%20tavola%20per%20il%20personale%20della%20R.%20Aeronautica.%20044U0012.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -33,7 +33,7 @@ L'[art. 23 del regio decreto-legge 20 luglio 1934, n. 1302](https://www.normatti
 
 ## Art. 2.
 
-La tabella 2, annessa al [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito nella [legge 4 aprile 1935, numero 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), e modificata dal [regio decreto 13 gennaio 1944, n. 12](Aumento%20dellindennita%20di%20trattamento%20tavola%20per%20il%20personale%20della%20R.%20Aeronautica.%20044U0012.md), e sostituita dalla seguente: 
+La tabella 2, annessa al [regio decreto-legge 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1302), convertito nella [legge 4 aprile 1935, numero 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), e modificata dal [regio decreto 13 gennaio 1944, n. 12](../Regi%20decreti/Aumento%20dellindennita%20di%20trattamento%20tavola%20per%20il%20personale%20della%20R.%20Aeronautica.%20044U0012.md), e sostituita dalla seguente: 
  
  
  Parte di provvedimento in formato grafico

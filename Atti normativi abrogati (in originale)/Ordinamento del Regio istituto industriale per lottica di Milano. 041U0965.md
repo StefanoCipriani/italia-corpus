@@ -54,7 +54,7 @@ Al primo anno dell'Istituto sono ammessi i licenziati dalla scuola secondaria di
 Al termine del corso triennale dell'Istituto gli allievi sostengono l'esame di licenza e al termine dell'ulteriore corso biennale l'esame di abilitazione. 
  Chi abbia superato l'esame di licenza consegue il diploma di tecnico per la specializzazione ottica. 
  Chi abbia superato l'esame di abilitazione consegue il diploma di perito industriale capo tecnico per le specializzazione ottica. 
- I diplomi rilasciati dall'Istituto non abilitano all'esercizio dell'arte ausiliaria dell'ottico, di cui all'[art. 99 del T. U. della legge sanitaria](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99), approvato con R. decreto 27 luglio 1934-XII, n. 1255.
+ I diplomi rilasciati dall'Istituto non abilitano all'esercizio dell'arte ausiliaria dell'ottico, di cui all'[art. 99 del T. U. della legge sanitaria](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1255.
 
 ## Art. 6.
 

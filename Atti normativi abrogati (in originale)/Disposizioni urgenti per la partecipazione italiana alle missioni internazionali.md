@@ -229,7 +229,7 @@ E' autorizzata, fino al 31 dicembre 2006, la spesa di euro 5.010.000 per interve
 
 1.
 
-Con decorrenza dalla data di entrata nel territorio, nelle acque territoriali e nello spazio aereo dei Paesi interessati e fino alla data di uscita dagli stessi per il rientro nel territorio nazionale, al personale che partecipa alle missioni di cui al presente decreto e' corrisposta per tutta la durata del periodo, in aggiunta allo stipendio o alla paga e agli altri assegni a carattere fisso e continuativo, l'indennita' di missione di cui al [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), nelle misure di seguito indicate, detraendo eventuali indennita' e contributi corrisposti agli interessati direttamente dagli organismi internazionali:
+Con decorrenza dalla data di entrata nel territorio, nelle acque territoriali e nello spazio aereo dei Paesi interessati e fino alla data di uscita dagli stessi per il rientro nel territorio nazionale, al personale che partecipa alle missioni di cui al presente decreto e' corrisposta per tutta la durata del periodo, in aggiunta allo stipendio o alla paga e agli altri assegni a carattere fisso e continuativo, l'indennita' di missione di cui al [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), nelle misure di seguito indicate, detraendo eventuali indennita' e contributi corrisposti agli interessati direttamente dagli organismi internazionali:
                             a)
                                 misura del 98 per cento, al personale militare che partecipa alle missioni MSU, Joint Enterprise, Albania 2 e ALTHEA, nei Balcani, TIPH 2 ed EUBAM Rafah, in Medio Oriente, nonche' al personale del Corpo della guardia di finanza e della Polizia di Stato che partecipa alla missione UNMIK in Kosovo;
                             b)
@@ -261,7 +261,7 @@ Al personale militare che partecipa alle missioni Antica Babilonia, Enduring Fre
 
 2.
 
-Al personale militare che partecipa alle missioni MSU, Joint Enterprise, CIU, Albania 2, ALTHEA, EUPT, UNMIK, ed EUPM, nei Balcani, TIPH 2 ed EUBAM Rafah, in Medio Oriente, AMIS II, EUPOL Kinshasa ed EUFOR RD CONGO, in Africa, UNFICYP, a Cipro, si applicano il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
+Al personale militare che partecipa alle missioni MSU, Joint Enterprise, CIU, Albania 2, ALTHEA, EUPT, UNMIK, ed EUPM, nei Balcani, TIPH 2 ed EUBAM Rafah, in Medio Oriente, AMIS II, EUPOL Kinshasa ed EUFOR RD CONGO, in Africa, UNFICYP, a Cipro, si applicano il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace e l'articolo 9, commi 3, 4, lettere a), b), c) e d), 5 e 6, del [decreto-legge n. 421 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;421), convertito, con modificazioni, dalla [legge n. 6 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;6).
 
 3.
 

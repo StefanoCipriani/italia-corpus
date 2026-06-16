@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 17 del regolamento approvato con il [R. decreto 6 aprile 1913, n. 512](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20dellart.%2047%20della%20legge%2013%20luglio%201910%20n.%20466%20e%20dellart.%2026%20del%20R.%20decreto%2024%20dicembre%201911%20n.%201479%20convertito%20in%20legge%20con%20la%20legge%206%20l_a2a04e9abeb6.md), e' sostituito il seguente: 
+All'art. 17 del regolamento approvato con il [R. decreto 6 aprile 1913, n. 512](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20dellart.%2047%20della%20legge%2013%20luglio%201910%20n.%20466%20e%20dellart.%2026%20del%20R.%20decreto%2024%20dicembre%201911%20n.%201479%20convertito%20in%20legge%20con%20la%20legge%206%20l_a2a04e9abeb6.md), e' sostituito il seguente: 
  
  «Gli onorari spettanti agli arbitri ed i compensi ai segretari saranno determinati complessivamente, per ciascun giudizio, in ragione dell'uno e cinquanta per cento sull'indennita' offerta dall'Amministrazione per quanto riguarda i Collegi di 1° grado, e dell'uno e cinquanta per cento sulla indennita' stabilita dalla sentenza dei primi giudici per quanto riguarda il Collegio di 2° grado. 
  

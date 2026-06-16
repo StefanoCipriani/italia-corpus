@@ -243,13 +243,13 @@ Anche ai fini del rispetto dell'obbligo di copertura minima del costo complessiv
 
 3.
 
-I comuni possono determinare le tariffe del servizio di trasporto funebre di cui all'[articolo 16 del decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../DPR/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), in misura non superiore al 100 per cento del costo complessivo di gestione, in deroga all'[articolo 17, comma 1, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md).
+I comuni possono determinare le tariffe del servizio di trasporto funebre di cui all'[articolo 16 del decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), in misura non superiore al 100 per cento del costo complessivo di gestione, in deroga all'[articolo 17, comma 1, della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md).
 
 ## Art. 9. — Disposizioni fiscali e tariffarie
 
 1.
 
-Il termine del 1' agosto previsto dall'articolo 273 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' fissato al 31 ottobre.
+Il termine del 1' agosto previsto dall'articolo 273 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' fissato al 31 ottobre.
 
 2.
 
@@ -261,7 +261,7 @@ Anche per far fronte ad eventuali maggiori spese di loro competenza in materia a
 
 4.
 
-Con effetto dall'anno 1992 sono abrogati l'[articolo 6 della legge 14 agosto 1991, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281#art_6), e l'articolo 136 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
+Con effetto dall'anno 1992 sono abrogati l'[articolo 6 della legge 14 agosto 1991, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281#art_6), e l'articolo 136 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
 
 5.
 
@@ -359,7 +359,7 @@ L'[articolo 3, primo comma, lettera l), del regio decreto-legge 8 maggio 1924, n
 
 10.
 
-Sono tenute al pagamento del diritto annuale, di cui all'[articolo 34 del decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786#art_34), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), le ditte iscritte o annotate nei registri delle ditte, di cui all'articolo 47 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
+Sono tenute al pagamento del diritto annuale, di cui all'[articolo 34 del decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786#art_34), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), le ditte iscritte o annotate nei registri delle ditte, di cui all'articolo 47 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
 
 11.
 

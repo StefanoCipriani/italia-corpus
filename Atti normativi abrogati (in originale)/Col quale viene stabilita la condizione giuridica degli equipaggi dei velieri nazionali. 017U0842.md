@@ -18,7 +18,7 @@ Durante la guerra e' data facolta' al ministro della marina di imbarcare su qual
  
  I militari componenti tali scorte saranno considerati a bordo, a tutti gli effetti, come sentinelle. 
  
- Qualsiasi atto di violenza contro i militari di scorta o qualsiasi rifiuto ad attenersi ai loro ordini inerenti al servizio speciale cui essi sono destinati, sara' ritenuto come violazione di consegna e verranno quindi applicate le sanzioni previste dagli [articoli 139 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+ Qualsiasi atto di violenza contro i militari di scorta o qualsiasi rifiuto ad attenersi ai loro ordini inerenti al servizio speciale cui essi sono destinati, sara' ritenuto come violazione di consegna e verranno quindi applicate le sanzioni previste dagli [articoli 139 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  Il presente decreto avra' vigore dal giorno della sua pubblicazione. 
  

@@ -26,9 +26,9 @@ Visto il [decreto Luogotenenziale 1° agosto 1918, numero 1072](https://www.norm
 
 Visto il regolamento generale per l'arma dei carabinieri Reali approvato con R. decreto 24 dicembre 1911;
 
-Visto il [R. decreto 10 marzo 1912, n. 370](Col%20quale%20viene%20concessa%20una%20indennita%20di%20tramutamento%20alle%20famiglie%20dei%20sottufficiali%20caporali%20e%20soldati%20012U0370.md), che stabilisce l'indennita' di trasferta per le famiglie dei sottufficiali, caporali e soldati;
+Visto il [R. decreto 10 marzo 1912, n. 370](../Regi%20decreti/Col%20quale%20viene%20concessa%20una%20indennita%20di%20tramutamento%20alle%20famiglie%20dei%20sottufficiali%20caporali%20e%20soldati%20012U0370.md), che stabilisce l'indennita' di trasferta per le famiglie dei sottufficiali, caporali e soldati;
 
-Visto il testo unico delle leggi sull'ordinamento della R. guardia di finanza approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), ed il regolamento di amministrazione pel corpo stesso, approvato con [R. decreto 23 giugno 1898, n. 437](Che%20approva%20il%20Regolamento%20di%20amministrazione%20per%20la%20R.%20Guardia%20di%20Finanza.%20098U0437.md);
+Visto il testo unico delle leggi sull'ordinamento della R. guardia di finanza approvato con [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), ed il regolamento di amministrazione pel corpo stesso, approvato con [R. decreto 23 giugno 1898, n. 437](../Regi%20decreti/Che%20approva%20il%20Regolamento%20di%20amministrazione%20per%20la%20R.%20Guardia%20di%20Finanza.%20098U0437.md);
 
 Udito il Consiglio dei ministri;
 
@@ -68,7 +68,7 @@ Il ministro della guerra, con decreto da emanarsi di concerto col ministro del t
 
 ## Art. 5.
 
-Ai sottufficiali, caporali e soldati contemplati dal [R. decreto 10 marzo 1912, n. 370](Col%20quale%20viene%20concessa%20una%20indennita%20di%20tramutamento%20alle%20famiglie%20dei%20sottufficiali%20caporali%20e%20soldati%20012U0370.md), i quali siano trasferiti da una ad altra sede permanente, nonche' a ciascuna persona da considerarsi facente parte della famiglia giusta il penultimo comma del presente artcolo, sono dovute, pel viaggio, le competenze stabilite nel precedente art. 2. 
+Ai sottufficiali, caporali e soldati contemplati dal [R. decreto 10 marzo 1912, n. 370](../Regi%20decreti/Col%20quale%20viene%20concessa%20una%20indennita%20di%20tramutamento%20alle%20famiglie%20dei%20sottufficiali%20caporali%20e%20soldati%20012U0370.md), i quali siano trasferiti da una ad altra sede permanente, nonche' a ciascuna persona da considerarsi facente parte della famiglia giusta il penultimo comma del presente artcolo, sono dovute, pel viaggio, le competenze stabilite nel precedente art. 2. 
  
  Sono dovuti inoltre: 
  
@@ -92,7 +92,7 @@ Ai sottufficiali, caporali e soldati contemplati dal [R. decreto 10 marzo 1912, 
  
  Per gli effetti delle indennita' di trasferimento sono considerati come facenti parte della famiglia: la moglie, i figli e figliastri di eta' non superiore ai venticinque anni compiuti, le figlie e figliastre nubili, i genitori, i fratelli minorenni e le sorelle nubili, le figlie, figliastre e sorelle rimaste vedove, quando tutte le predette persone siano conviventi abitualmente col capo di famiglia trasferito ed a suo carico. Per i sottufficiali di carriera e' ammessa anche una persona di servizio, ma per essa il rimborso delle spese di viaggio e' dato per la terza classe, salvo che debba viaggiare con la famiglia, in treni che non portino la terza classe o da essa siano escluse le persone viaggianti a tariffa militare. 
  
- Restano ferme le disposizioni del [R. decreto 10 marzo 1912, n. 370](Col%20quale%20viene%20concessa%20una%20indennita%20di%20tramutamento%20alle%20famiglie%20dei%20sottufficiali%20caporali%20e%20soldati%20012U0370.md), in quanto non siano modificate da quelle del presente articolo.
+ Restano ferme le disposizioni del [R. decreto 10 marzo 1912, n. 370](../Regi%20decreti/Col%20quale%20viene%20concessa%20una%20indennita%20di%20tramutamento%20alle%20famiglie%20dei%20sottufficiali%20caporali%20e%20soldati%20012U0370.md), in quanto non siano modificate da quelle del presente articolo.
 
 ## Art. 6.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Veduto il [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), che dispone il concentramento nel Ministero dei lavori pubblici dei servizi relativi all'esecuzione di opere pubbliche per conto dello Stato;
+Veduto il [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), che dispone il concentramento nel Ministero dei lavori pubblici dei servizi relativi all'esecuzione di opere pubbliche per conto dello Stato;
 
 Ritenuto che per effetto di tale concentramento di servizi occorre trasferire al predetto Ministero, con i relativi posti di organico, il personale del ruolo dell'Amministrazione civile dell'interno necessario per l'espletamento dei servizi gia' di pertinenza del Ministero dell'interno ed ora passati al Ministero dei lavori pubblici;
 
@@ -56,7 +56,7 @@ Ruolo della carriera d'ordine (gruppo C) grado 11° . . . . . » 1
 
 ## Art. 3.
 
-Nella prima attuazione del presente decreto i posti di cui al precedente art. 2 sono attribuiti a funzionari del personale dei ruoli indicati nell'art. 1 che ricoprano posti di gruppo e grado uguali a quelli da conferire scelti d'intesa fra i Ministri per l'interno e per i lavori pubblici fra quelli che si trovano addetti ai servizi di cui al [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), e che in atto sono comandati presso l'Amministrazione dei lavori pubblici. 
+Nella prima attuazione del presente decreto i posti di cui al precedente art. 2 sono attribuiti a funzionari del personale dei ruoli indicati nell'art. 1 che ricoprano posti di gruppo e grado uguali a quelli da conferire scelti d'intesa fra i Ministri per l'interno e per i lavori pubblici fra quelli che si trovano addetti ai servizi di cui al [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), e che in atto sono comandati presso l'Amministrazione dei lavori pubblici. 
  
  Detti funzionari verranno collocati col proprio grado, nei ruoli dell'Amministrazione centrale del Ministero dei lavori pubblici, prendendo fra il personale appartenente a tali ruoli, il posto che loro compete in base alla rispettiva anzianita' di grado alla data del trasferimento.
 

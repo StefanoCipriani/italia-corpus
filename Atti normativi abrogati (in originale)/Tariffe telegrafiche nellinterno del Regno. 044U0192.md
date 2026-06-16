@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 19 febbraio 1925, n. 196](Modificazioni%20alle%20vige
 
 Visto il [R. decreto-legge 5 agosto 1927, n. 1416](Riduzioni%20delle%20tariffe%20postali%20e%20telegrafiche.%20027U1416.md);
 
-Visti gli articoli 8 e 193 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visti gli articoli 8 e 193 del Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Visto il [R. decreto 30 ottobre 1943, n. 2/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;2), e successive modificazioni;
 

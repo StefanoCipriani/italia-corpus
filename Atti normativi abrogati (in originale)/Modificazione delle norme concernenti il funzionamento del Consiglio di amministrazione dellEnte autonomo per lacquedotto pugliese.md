@@ -12,14 +12,14 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [regio decreto 9 aprile 1931, n. 334](Disposizioni%20concernenti%20gli%20organi%20di%20amministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20031U0334.md);
+ Visto il [regio decreto 9 aprile 1931, n. 334](../Regi%20decreti/Disposizioni%20concernenti%20gli%20organi%20di%20amministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20031U0334.md);
  Vista, la [legge 24 dicembre 1925, n. 2299](Provvedimenti%20sullorganizzazione%20degli%20uffici%20per%20lesecuzione%20di%20opere%20pubbliche%20nel%20Mezzogiorno%20e%20nelle%20Isole.%20025U2299.md);
  Udito il Consiglio dei Ministri.
  Sulla proposta, del Ministro per i lavori pubblici, di concerto coi Ministri per l'interno, per il tesoro e per l'agricoltura e le foreste;
 
  Decreta:
 
- La prima parte del [7° comma dell'art. 1 del regio decreto 9 aprile 1931, n. 334](Disposizioni%20concernenti%20gli%20organi%20di%20amministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20031U0334.md), e' cosi' modificata:
+ La prima parte del [7° comma dell'art. 1 del regio decreto 9 aprile 1931, n. 334](../Regi%20decreti/Disposizioni%20concernenti%20gli%20organi%20di%20amministrazione%20dellEnte%20autonomo%20per%20lAcquedotto%20pugliese.%20031U0334.md), e' cosi' modificata:
  "Per la validita' delle adunanze del Consiglio di amministrazione e' necessaria la presenza della maggioranza dei componenti in carica con l'intervento di almeno un rappresentante governativo e due rappresentanti provinciali".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

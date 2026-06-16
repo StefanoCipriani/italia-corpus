@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per l'inscrizione nelle liste di leva marittima, il periodo di quattro mesi di esercizio della pesca costiera nei porti, nei laghi o nelle lagune, e del mestiere di barcaiolo o battellante di porti, spiaggie, laghi o lagune di cui all'art. 3, n. 1, del testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e' temporaneamente portato a sei mesi.
+Per l'inscrizione nelle liste di leva marittima, il periodo di quattro mesi di esercizio della pesca costiera nei porti, nei laghi o nelle lagune, e del mestiere di barcaiolo o battellante di porti, spiaggie, laghi o lagune di cui all'art. 3, n. 1, del testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), e' temporaneamente portato a sei mesi.
 
 ## Art. 2.
 

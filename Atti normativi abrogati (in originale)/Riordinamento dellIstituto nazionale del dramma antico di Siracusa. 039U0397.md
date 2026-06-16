@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Istituto nazionale del dramma antico di Siracusa, eretto in ente morale con il [R. decreto 7 agosto 1925, n. 1767](Erezione%20in%20Ente%20morale%20dellIstituto%20del%20Dramma%20Antico%20in%20Siracusa.%20025U1767.md), e' denominato «Istituto nazionale del dramma antico », ha personalita' giuridica ed e' posto sotto la diretta vigilanza del Ministero della cultura popolare che la esercitera' d'intesa con il Ministero dell'educazione nazionale per quanto rientra nella competenza di questo.
+L'Istituto nazionale del dramma antico di Siracusa, eretto in ente morale con il [R. decreto 7 agosto 1925, n. 1767](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellIstituto%20del%20Dramma%20Antico%20in%20Siracusa.%20025U1767.md), e' denominato «Istituto nazionale del dramma antico », ha personalita' giuridica ed e' posto sotto la diretta vigilanza del Ministero della cultura popolare che la esercitera' d'intesa con il Ministero dell'educazione nazionale per quanto rientra nella competenza di questo.
 
 ## Art. 2.
 

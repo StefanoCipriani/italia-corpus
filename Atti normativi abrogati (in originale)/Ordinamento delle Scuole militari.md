@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sul reclutamento dell'Esercito, approvato con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), e successive modificazioni;
 
 Vista la [legge 9 maggio 1940, n. 368](Ordinamento%20del%20Regio%20esercito.%20040U0368.md), sull'ordinamento dell'Esercito, e successive modificazioni;
 
@@ -113,7 +113,7 @@ Gli allievi delle Scuole militari che abbiano conseguito la maturita' classica o
 
 ## Art. 17.
 
-Gli allievi al compimento del 17° anno di eta' contraggono l'arruolamento volontario ai sensi dell'art. 107 del testo unico delle disposizioni legislative sul reclutamento dell'Esercito approvato con [regio decreto 24 febbraio 1938, n. 329](Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), quale integrato dall'[art. 2 della legge 22 dicembre 1939, n. 2184](Varianti%20al%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20039U2184.md).
+Gli allievi al compimento del 17° anno di eta' contraggono l'arruolamento volontario ai sensi dell'art. 107 del testo unico delle disposizioni legislative sul reclutamento dell'Esercito approvato con [regio decreto 24 febbraio 1938, n. 329](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito.%20038U0329.md), quale integrato dall'[art. 2 della legge 22 dicembre 1939, n. 2184](Varianti%20al%20testo%20unico%20delle%20disposizioni%20legislative%20sul%20reclutamento%20del%20Regio%20esercito%20approvato%20con%20Regio%20decreto%2024%20febbraio%201938-XVI%20n.%20329.%20039U2184.md).
 
 ## Art. 18.
 

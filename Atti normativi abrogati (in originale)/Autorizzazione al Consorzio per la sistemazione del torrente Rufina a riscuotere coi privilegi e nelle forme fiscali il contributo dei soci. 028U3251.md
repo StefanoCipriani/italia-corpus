@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la istanza in data 31 maggio 1928-VI e l'allegato statuto, con la quale il presidente del Consorzio chiede la facolta' di poter riscuotere, coi privilegi e le forme fiscali, il contributo dei soci, ai sensi dell'art. 83 del ricordato Regio decreto; 
  
- Viste le disposizioni contenute nell'[art. 84 del R. decreto 16 maggio 1926, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126#art_84), che approva il regolamento per l'applicazione del suddetto Nostro decreto 30 dicembre 1923; 
+ Viste le disposizioni contenute nell'[art. 84 del R. decreto 16 maggio 1926, n. 1126](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20dei%20R.%20decreto%2030%20dicembre%201923%20n.%203267%20concernente%20il%20riordinamento%20e%20la%20riforma%20della%20legislazione%20in%20materia%20di%20boschi%20e%20di%20terreni%20montani.%20026U1126.md), che approva il regolamento per l'applicazione del suddetto Nostro decreto 30 dicembre 1923; 
  
  Sulla proposta del Ministro Segretario di Stato per l'economia nazionale, di concerto con il Ministro per i lavori pubblici; 
  

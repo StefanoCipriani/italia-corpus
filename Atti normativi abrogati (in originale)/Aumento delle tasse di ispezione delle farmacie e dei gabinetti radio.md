@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Le tabelle n. 3 e n. 6 allegate al [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), per la parte riguardante le tasse d'ispezione delle farmacie e dei gabinetti radio, sono sostituite dalle seguenti:
+Le tabelle n. 3 e n. 6 allegate al [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), per la parte riguardante le tasse d'ispezione delle farmacie e dei gabinetti radio, sono sostituite dalle seguenti:
 
  TABELLA N. 3 
  TASSE D'ISPEZIONE DELLE FARMACIE

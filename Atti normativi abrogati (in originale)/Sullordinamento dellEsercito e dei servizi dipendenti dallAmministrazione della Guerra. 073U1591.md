@@ -80,7 +80,7 @@ I Militari dell'Esercito permanente e della Milizia sono classificati in due gra
 
 ### Art. 5.
 
-Gli Impiegati dei personali vari dipendenti dall'Amministrazione della Guerra, contemplati nel capo III di questa Legge, non sono soggetti alla disciplina ed alla Legge penale militare in tempo di pace. In tempo di guerra invece sono sottoposti alla giurisdizione militare nei termini stabiliti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito. 
+Gli Impiegati dei personali vari dipendenti dall'Amministrazione della Guerra, contemplati nel capo III di questa Legge, non sono soggetti alla disciplina ed alla Legge penale militare in tempo di pace. In tempo di guerra invece sono sottoposti alla giurisdizione militare nei termini stabiliti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito. 
  
  A questi Impiegati sono applicabili, quanto alle posizioni di disponibilita' ed aspettativa e quanto alle pensioni, le Leggi relative agli Impiegati civili dello Stato.
 
@@ -399,7 +399,7 @@ Ai servizi accessori dell'Esercito provvedono i seguenti personali:
 
 ### Art. 42.
 
-Il personale della Giustizia militare e' ripartito in conformita' di quanto e' stabilito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, e si compone di: 
+Il personale della Giustizia militare e' ripartito in conformita' di quanto e' stabilito dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, e si compone di: 
  
  Un Avvocato generale militare; 
  
@@ -611,7 +611,7 @@ Il numero di tali Compagnie e' indeterminato, e dipende da quello dei Soldati ch
 
 ### Art. 62.
 
-Gli Stabilimenti penali militari sono di due specie, com'e' stabilito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, cioe' la Reclusione militare e le Carceri militari; e sono luoghi di detenzione e di lavoro obbligatorio, retti da speciale disciplina.
+Gli Stabilimenti penali militari sono di due specie, com'e' stabilito dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, cioe' la Reclusione militare e le Carceri militari; e sono luoghi di detenzione e di lavoro obbligatorio, retti da speciale disciplina.
 
 ### Art. 63.
 

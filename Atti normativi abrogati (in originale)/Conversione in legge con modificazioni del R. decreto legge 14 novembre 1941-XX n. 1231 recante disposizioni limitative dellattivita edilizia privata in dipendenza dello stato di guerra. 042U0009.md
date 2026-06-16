@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  All'art. 2 e' aggiunto in fine il seguente comma: 
  
- " Parimenti potranno essere ammesse, in base a deroga da concedersi di volta in volta dal Ministro per i lavori pubblici, le costruzioni di case popolari da parte di privati o enti che esplichino attivita' industriale d'interesse nazionale e che per le condizioni locali dell'esercizio della loro industria si trovino nella necessita' di provvedere agli alloggi degli operai, e sempreche' le case abbiano le caratteristiche prescritte dal [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare approvato con R. decreto 28 aprile 1938-XVI, n. 1165 ". 
+ " Parimenti potranno essere ammesse, in base a deroga da concedersi di volta in volta dal Ministro per i lavori pubblici, le costruzioni di case popolari da parte di privati o enti che esplichino attivita' industriale d'interesse nazionale e che per le condizioni locali dell'esercizio della loro industria si trovino nella necessita' di provvedere agli alloggi degli operai, e sempreche' le case abbiano le caratteristiche prescritte dal [testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare approvato con R. decreto 28 aprile 1938-XVI, n. 1165 ". 
  
  L'articolo 7 e' soppresso. 
  

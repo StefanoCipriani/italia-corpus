@@ -112,7 +112,7 @@ Il personale dello stabilimento deve essere scelto con particolare riguardo alla
  
  Al concorso saranno, normalmente, ammessi i laureati in ingegneria industriale o meccanica, in chimica applicata, in fisica applicata, in agraria, in scienze commerciali, con il corso di merceologia, in uno degli istituti di istruzione superiore del Regno. 
  
- Al concorso suddetto potranno anche, secondo i casi, e ferma restando la preferenza per il titolo di studio superiore, essere ammessi i concorrenti in possesso del diploma di licenza di perito tecnico, tessile-tintore, tessile, o tintore, rilasciato dagli istituti tecnici industriali del Regno ordinati secondo la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), o dei titoli equipollenti rilasciati dai Regi istituti industriali ordinati secondo il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523) (Regi istituti d'istruzione tecnica industriale di Torino, Biella, Como, Bergamo, Prato, Napoli - Istituto Mussolini). 
+ Al concorso suddetto potranno anche, secondo i casi, e ferma restando la preferenza per il titolo di studio superiore, essere ammessi i concorrenti in possesso del diploma di licenza di perito tecnico, tessile-tintore, tessile, o tintore, rilasciato dagli istituti tecnici industriali del Regno ordinati secondo la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), o dei titoli equipollenti rilasciati dai Regi istituti industriali ordinati secondo il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md) (Regi istituti d'istruzione tecnica industriale di Torino, Biella, Como, Bergamo, Prato, Napoli - Istituto Mussolini). 
  
  La Commissione giudicatrice del concorso sara' composta: 
  
@@ -134,7 +134,7 @@ Gli stabilimenti di stagionatura e assaggio delle sete debbono eseguire tutte le
 
 La vigilanza ed il controllo affidati alla Regia stazione sperimentale per la seta in Milano sono esercitati dal Direttore o da chi ne fa le veci o dai funzionari da assumersi ai sensi dell'[art. 13 del R. decreto-legge 19 ottobre 1933, numero 1956](Disciplina%20della%20produzione%20e%20del%20commercio%20serico.%20033U1956.md). 
  
- L'assunzione dei funzionari di cui all'art. 13 del R. decreto-legge 19 ottobre 1933 e' fatta secondo le norme contenute nel [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e nel [R. decreto 9 giugno 1924, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-09;969). 
+ L'assunzione dei funzionari di cui all'art. 13 del R. decreto-legge 19 ottobre 1933 e' fatta secondo le norme contenute nel [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e nel [R. decreto 9 giugno 1924, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-09;969). 
  
  I concorrenti debbono essere in possesso di una delle seguenti lauree: ingegneria industriale o meccanica, chimica applicata, fisica applicata, agraria, scienze commerciali, con il corso di merceologia, rilasciata da uno degli istituti di istruzione superiore del Regno.
 

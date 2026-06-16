@@ -40,7 +40,7 @@ E' autorizzata, la spesa di L. 40.000.000 per l'impianto di vivai di viti americ
 
 ## Art. 2.
 
-Per la spesa prevista nel presente decreto, il Ministero dell'agricoltura e delle foreste e' autorizzato ad emettere ordini di accreditamento in eccedenza al limite previsto dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), recante disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato, modificato dal [decreto legislativo Luogotenenziale 30 settembre 1944, n. 299](Proroga%20al%2031%20dicembre%201944%20dellesercizio%20provvisorio%20del%20bilancio%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20044U0299.md).
+Per la spesa prevista nel presente decreto, il Ministero dell'agricoltura e delle foreste e' autorizzato ad emettere ordini di accreditamento in eccedenza al limite previsto dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato, modificato dal [decreto legislativo Luogotenenziale 30 settembre 1944, n. 299](Proroga%20al%2031%20dicembre%201944%20dellesercizio%20provvisorio%20del%20bilancio%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20044U0299.md).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

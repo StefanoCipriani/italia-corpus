@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 26 aprile 1928, n. 1058](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1058), in virtu' del quale il comune di Bagnasco d'Asti e' stato soppresso ed il relativo territorio aggregato a quello di Montafia; 
+ Visto il [R. decreto 26 aprile 1928, n. 1058](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Bagnasco%20dAsti%20a%20quello%20di%20Montafia.%20028U1058.md), in virtu' del quale il comune di Bagnasco d'Asti e' stato soppresso ed il relativo territorio aggregato a quello di Montafia; 
  
  Vista la deliberazione in data 8 giugno 1928 del podesta' di Montafia, tendente ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Bagnasco d'Asti; 
  

@@ -55,7 +55,7 @@ Con l'insediamento del Consiglio di amministrazione, costituito con il presente 
 All'avv. Salvatore Gatti, presidente del Consiglio di amministrazione, e' affidato altresi' l'incarico di direttore generale dell'Istituto nazionale delle assicurazioni. 
  
  Durante l'esercizio di detto incarico il consigliere di Stato avv.
-Salvatore Gatti e' collocato fuori ruolo secondo le norme di cui al [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md).
+Salvatore Gatti e' collocato fuori ruolo secondo le norme di cui al [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md).
 
 ## Art. 4.
 

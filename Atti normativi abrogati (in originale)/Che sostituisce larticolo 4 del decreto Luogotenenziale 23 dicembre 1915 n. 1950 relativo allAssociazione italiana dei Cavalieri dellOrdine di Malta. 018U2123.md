@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Viste le leggi di ordinamento del R. esercito, testo unico, approvato con [R. decreto 14 luglio 1898, numero 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md);
+Viste le leggi di ordinamento del R. esercito, testo unico, approvato con [R. decreto 14 luglio 1898, numero 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md);
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
 Visto il regolamento di disciplina militare, approvato con R. decreto del 25 luglio 1907;
 

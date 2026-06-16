@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il decreto 30 dicembre 1923, n. 3275;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3279](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md);
 
 Visto il [R. decreto-legge 29 dicembre 1926, n. 2191](Ritocchi%20alla%20tabella%20delle%20tasse%20sulle%20concessioni%20governative.%20026U2191.md), convertito nella [legge 5 febbraio 1928, n. 188](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20dicembre%201926%20n.%202191%20concernente%20alcuni%20ritocchi%20alla%20tabella%20delle%20tasse%20sulle%20concessioni%20governative.%20028U0188.md);
 
@@ -170,7 +170,7 @@ Il passeggero che non usufruisce di trasporto gratuito ai sensi del primo capove
 
 ## Art. 13.
 
-Per quanto concerne gli obblighi dei funzionari, la competenza e la procedura per la decisione delle controversie in materia di tasse di bollo sui trasporti aerei si applicano le norme dei titoli III e IV del [R. decreto 30 dicembre 1923, n. 3275](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md).
+Per quanto concerne gli obblighi dei funzionari, la competenza e la procedura per la decisione delle controversie in materia di tasse di bollo sui trasporti aerei si applicano le norme dei titoli III e IV del [R. decreto 30 dicembre 1923, n. 3275](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md).
 
 ## Art. 14.
 

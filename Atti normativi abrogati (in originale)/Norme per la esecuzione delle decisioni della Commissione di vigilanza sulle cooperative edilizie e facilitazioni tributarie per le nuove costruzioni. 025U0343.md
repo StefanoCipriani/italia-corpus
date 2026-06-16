@@ -66,7 +66,7 @@ Le assegnazioni fatte a termine del succitato [art. 10 del R. decreto-legge 7 ot
 
 ## Art. 6.
 
-All'ultimo comma dell'[art. 1 del R. decreto 13 gennaio 1924, n.142](Costituzione%20della%20Commissione%20di%20vigilanza%20sulledilizia%20popolare.%20024U0142.md), relativo alla costituzione della Commissione di vigilanza sull'edilizia popolare, alle parole: «all'infuori dei commissari di cui alle lettere a), c) ed e)» sono aggiunte le seguenti: «e del rappresentante della Cassa depositi e prestiti».
+All'ultimo comma dell'[art. 1 del R. decreto 13 gennaio 1924, n.142](../Regi%20decreti/Costituzione%20della%20Commissione%20di%20vigilanza%20sulledilizia%20popolare.%20024U0142.md), relativo alla costituzione della Commissione di vigilanza sull'edilizia popolare, alle parole: «all'infuori dei commissari di cui alle lettere a), c) ed e)» sono aggiunte le seguenti: «e del rappresentante della Cassa depositi e prestiti».
 
 ## Art. 7.
 

@@ -30,7 +30,7 @@ Nei casi di irregolare funzionamento delle societa' cooperative, di inosservanza
 
 ## Art. 2.
 
-E' istituito, a termine dell'[art. 34 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), tra le cooperative, le associazioni di cooperative ed enti mutualistici che vorranno aderire, l'Ente nazionale per la cooperazione che ha per iscopo l'assistenza, lo sviluppo ed il coordinamento delle societa' ed enti suddetti, salvo tutto cio' che concerne i rapporti sindacali.
+E' istituito, a termine dell'[art. 34 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), tra le cooperative, le associazioni di cooperative ed enti mutualistici che vorranno aderire, l'Ente nazionale per la cooperazione che ha per iscopo l'assistenza, lo sviluppo ed il coordinamento delle societa' ed enti suddetti, salvo tutto cio' che concerne i rapporti sindacali.
 
 ## Art. 3.
 

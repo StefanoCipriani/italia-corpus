@@ -44,7 +44,7 @@ Sono autorizzate le seguenti variazioni al bilancio definitivo di previsione del
  
  I. Bilancio definitivo dell'Entrata. 
  
- E' instituito un apposito capitolo col numero 96bis, con la intestazione: Prodotto della rendita consolidata 5 %, creata col [Regio decreto 30 settembre 1880, n. 5679](Che%20autorizza%20liscrizione%20nel%20gran%20libro%20del%20debito%20pubblico%20di%20una%20rendita%20di%20lire%20256230.%20080U5679.md) (Serie 2ª), in dipendenza della liquidazione dei conti, di cui all'articolo 11 della convenzione di Basilea del 17 novembre 1875 e degli articoli 5 e 8 del compromesso di Parigi dell'11 giugno 1876, approvati colla [legge 29 giugno 1876, n. 3181](Concernente%20il%20riscatto%20delle%20ferrovie%20dellAlta%20Italia.%20076U3181.md). 
+ E' instituito un apposito capitolo col numero 96bis, con la intestazione: Prodotto della rendita consolidata 5 %, creata col [Regio decreto 30 settembre 1880, n. 5679](../Regi%20decreti/Che%20autorizza%20liscrizione%20nel%20gran%20libro%20del%20debito%20pubblico%20di%20una%20rendita%20di%20lire%20256230.%20080U5679.md) (Serie 2ª), in dipendenza della liquidazione dei conti, di cui all'articolo 11 della convenzione di Basilea del 17 novembre 1875 e degli articoli 5 e 8 del compromesso di Parigi dell'11 giugno 1876, approvati colla [legge 29 giugno 1876, n. 3181](Concernente%20il%20riscatto%20delle%20ferrovie%20dellAlta%20Italia.%20076U3181.md). 
  
  A questo capitolo verra' assegnata la somma di lire 4,765,865. 
  

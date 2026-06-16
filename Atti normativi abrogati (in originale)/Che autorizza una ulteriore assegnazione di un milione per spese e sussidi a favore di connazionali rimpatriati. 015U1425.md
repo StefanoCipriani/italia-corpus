@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- In aggiunta alla somma di lire 2 milioni di cui al [R. decreto 9 maggio 1915, n. 607](Che%20autorizza%20una%20prelevazione%20di%20L.%201.000.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%201914-915%20a%20favore%20del%20Ministero%20degli%20affari%20esteri.%20015U0607.md), o al [decreto Luogotenenziale 8 luglio 1915, n. 1066](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-08;1066), e' autorizzata l'ulteriore assegnazione di lire un milione da corrispondersi al Commissariato per l'emigrazione onde provvedere al rimborso di spese ed a concessione di sussidi ai connazionali simpatriandi. 
+ In aggiunta alla somma di lire 2 milioni di cui al [R. decreto 9 maggio 1915, n. 607](../Regi%20decreti/Che%20autorizza%20una%20prelevazione%20di%20L.%201.000.000%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20per%20lesercizio%201914-915%20a%20favore%20del%20Ministero%20degli%20affari%20esteri.%20015U0607.md), o al [decreto Luogotenenziale 8 luglio 1915, n. 1066](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-08;1066), e' autorizzata l'ulteriore assegnazione di lire un milione da corrispondersi al Commissariato per l'emigrazione onde provvedere al rimborso di spese ed a concessione di sussidi ai connazionali simpatriandi. 
  
  La indicata somma viene inscritta al cap. n. 60-bis «Assegnazione a favore del Commissariato per l'emigrazione per rimborso di spese e per sussidi ai connazionali rimpatriandi» dello stato di previsione del Ministero degli affari esteri per l'esercizio finanziario 1915-916. 
  

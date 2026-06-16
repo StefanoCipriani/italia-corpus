@@ -40,7 +40,7 @@ All'applicazione del condono provvede l'autorita' giudiziaria secondo le norme o
 
 ## Art. 5.
 
-Non si applica il disposto dell'[art. 174, comma secondo, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in relazione all'art. 151 dello stesso Codice.
+Non si applica il disposto dell'[art. 174, comma secondo, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in relazione all'art. 151 dello stesso Codice.
 
 ## Art. 6.
 

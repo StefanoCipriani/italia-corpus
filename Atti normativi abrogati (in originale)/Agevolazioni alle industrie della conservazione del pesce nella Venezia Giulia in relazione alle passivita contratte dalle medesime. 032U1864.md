@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Ritenuta la necessita' urgente ed assoluta di agevolare le industrie accessorie della pesca nella Venezia Giulia in relazione alle passivita' contratte dalle medesime;
 
-Visto il testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), ed il [R. decreto-legge 28 gennaio 1932, n. 114](Credito%20a%20favore%20delle%20industrie%20della%20conservazione%20del%20pesce%20della%20Venezia%20Giulia.%20032U0114.md);
+Visto il testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), ed il [R. decreto-legge 28 gennaio 1932, n. 114](Credito%20a%20favore%20delle%20industrie%20della%20conservazione%20del%20pesce%20della%20Venezia%20Giulia.%20032U0114.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per l
 
 Alle ditte che abbiano fatto domanda ai sensi del [R. decreto-legge 28 gennaio 1932, n. 114](Credito%20a%20favore%20delle%20industrie%20della%20conservazione%20del%20pesce%20della%20Venezia%20Giulia.%20032U0114.md), sono accordati, entro il limite di operazioni determinato dal suddetto provvedimento, e sempreche' ricorrano le condizioni stabilite dal medesimo, diretti contributi, anziche' il concorso nel pagamento degli interessi per operazioni di credito. Tali contributi sono concessi per la durata di anni 8, nella misura del 2% sull'importo del debito quale risulta alla data dell'assegnazione del contributo. 
  
- La spesa relativa fara' carico al capitolo: «Concorso dello Stato, in misura del 2%, nel pagamento degli interessi per operazioni di credito stipulate ai sensi dell'[art. 3 del R. decreto 19 gennaio 1931, n. 149](Provvedimenti%20a%20favore%20dellindustria%20della%20pesca.%20031U0149.md), ecc.» del bilancio del Ministero dell'agricoltura e delle foreste per l'esercizio 1932-33, e corrispondente per gli esercizi successivi.
+ La spesa relativa fara' carico al capitolo: «Concorso dello Stato, in misura del 2%, nel pagamento degli interessi per operazioni di credito stipulate ai sensi dell'[art. 3 del R. decreto 19 gennaio 1931, n. 149](../Regi%20decreti/Provvedimenti%20a%20favore%20dellindustria%20della%20pesca.%20031U0149.md), ecc.» del bilancio del Ministero dell'agricoltura e delle foreste per l'esercizio 1932-33, e corrispondente per gli esercizi successivi.
 
 ## Art. 2.
 

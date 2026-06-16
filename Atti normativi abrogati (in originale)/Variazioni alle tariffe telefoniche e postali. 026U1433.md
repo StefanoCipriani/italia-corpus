@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
+Visto il testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
 
-Visto il regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
+Visto il regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
 Visto l'[art. 5 del R. decreto-legge 25 gennaio 1921, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-01-25;44#art_5), convertito con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 

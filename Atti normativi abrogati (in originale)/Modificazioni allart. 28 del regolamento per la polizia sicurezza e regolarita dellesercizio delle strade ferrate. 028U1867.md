@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687), col quale fu approvato il regolamento per la polizia, la sicurezza e la regolarita' dell'esercizio delle strade ferrate;
+Visto il [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md), col quale fu approvato il regolamento per la polizia, la sicurezza e la regolarita' dell'esercizio delle strade ferrate;
 
 Visto il [R. decreto 8 gennaio 1899, n. 4](Che%20approva%20lAppendice%20al%20Regolamento%20per%20la%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20strade%20ferrate%20relativa%20alla%20trazione%20elettrica%20dei%20convogli.%20099U0004.md), col quale fu approvata l'appendice n. 1 al suddetto regolamento che disciplina la condotta delle locomotive elettriche;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abb
 
 ## Articolo unico.
 
-L'art. 28 del regolamento circa la polizia, sicurezza e regolarita' dell'esercizio delle strade ferrate, approvato con [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687), e' sostituito dal seguente: 
+L'art. 28 del regolamento circa la polizia, sicurezza e regolarita' dell'esercizio delle strade ferrate, approvato con [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md), e' sostituito dal seguente: 
  
  « Art. 28. - Ogni locomotiva in servizio sara' affidata ad un macchinista e ad un fuochista o assistente che all'occorrenza sappia fermarla. 
  

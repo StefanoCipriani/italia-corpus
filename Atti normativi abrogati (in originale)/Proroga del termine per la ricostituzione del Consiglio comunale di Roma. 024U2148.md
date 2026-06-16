@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 2 marzo 1923, n. 591](Che%20scioglie%20il%20Consiglio%20comunale%20di%20Roma%20vi%20nomina%20temporaneamente%20un%20Regio%20commissario%20conferendogli%20anche%20i%20poteri%20del%20Consiglio%20stesso.%20023U0591.md), con il quale venne sciolto il Consiglio comunale di Roma e quello successivo in data 6 dicembre 1923, n. 2715, con cui i poteri del Commissario straordinario vennero prorogati al 31 dicembre 1924; 
+ Visto il [R. decreto 2 marzo 1923, n. 591](../Regi%20decreti/Che%20scioglie%20il%20Consiglio%20comunale%20di%20Roma%20vi%20nomina%20temporaneamente%20un%20Regio%20commissario%20conferendogli%20anche%20i%20poteri%20del%20Consiglio%20stesso.%20023U0591.md), con il quale venne sciolto il Consiglio comunale di Roma e quello successivo in data 6 dicembre 1923, n. 2715, con cui i poteri del Commissario straordinario vennero prorogati al 31 dicembre 1924; 
  
- Vista la legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md); 
+ Vista la legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), modificato con [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md); 
  
  Sentito il Consiglio dei Ministri; 
  

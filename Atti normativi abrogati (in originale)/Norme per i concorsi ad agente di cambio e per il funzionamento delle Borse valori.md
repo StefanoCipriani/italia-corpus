@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Vista la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Visto il [R. decreto-legge 7 marzo 1925, n. 222](Riordinamento%20per%20le%20Borse.%20025U0222.md);
 
-Visto il regolamento approvato con [R. decreto 9 aprile 1925, n. 376](Approvazione%20del%20regolamento%20sulle%20Borse.%20025U0376.md);
+Visto il regolamento approvato con [R. decreto 9 aprile 1925, n. 376](../Regi%20decreti/Approvazione%20del%20regolamento%20sulle%20Borse.%20025U0376.md);
 
 Visto il [R. decreto-legge 29 luglio 1925, n. 1261](Passaggio%20delle%20attribuzioni%20concernenti%20le%20Borse%20valori%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20delle%20finanze.%20025U1261.md);
 
@@ -51,7 +51,7 @@ Le domande di ammissione al concorso, indirizzate al Ministero del tesoro, dovra
  d) certificato di buona condotta, rilasciato dai sindaco del Comune di residenza;
  e) certificato di notoria moralita' e correttezza commerciale, rilasciato dalla competente Camera di commercio, industria e agricoltura;
  f) copia dello stato di servizio militare, o del foglio matricolare, o foglio di congedo illimitato, o certificato di esito di leva, debitamente vidimato, o di iscrizione nelle liste di leva;
- g) diploma, in originale, o copia autentica, di istituto medio di 2° grado o corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054) e della [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), ancorche' rilasciato da una scuola estera riconosciuta nel Regno;
+ g) diploma, in originale, o copia autentica, di istituto medio di 2° grado o corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e della [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), ancorche' rilasciato da una scuola estera riconosciuta nel Regno;
  h) certificato di tirocinio pratico compiuto per un triennio presso una banca che operi in Borsa o per un biennio almeno presso un agente di cambio;
  i) dichiarazione con la quale l'aspirante si impegna, in caso di nomina ad agente di cambio, a cessare dalle altre sue attivita' incompatibili con la professione di agente di cambio, e ad esercitare la professione medesima presso la Borsa nel cui ruolo verra' ad essere iscritto;
  l) tutti gli altri documenti cime, in aggiunta al precedenti, potranno costituire titolo valutabile per la formazione della graduatoria di merito dei candidati ammessi al concorso.

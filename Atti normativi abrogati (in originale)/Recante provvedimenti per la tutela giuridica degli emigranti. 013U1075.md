@@ -16,7 +16,7 @@ Capo I.
 
 Le controversie fra emigranti e vettori o loro rappresentanti, che nascano dal contratto di trasporto, o dagli atti preliminari di esso, o comunque siano al medesimo connesse o che insorgano nell'applicazione delle leggi sulla emigrazione, sono decise dalle Commissioni arbitrali per l'emigrazione, o dagli ispettori dell'emigrazione nei porti d'imbarco in ragione della rispettiva competenze, a norma della presente legge. 
  
- Alla stessa giurisdizione e' devoluta la decisione sulle azioni pel medesimo oggetto, che siano promosse dai passeggieri di 3ª classe, o di classe equivalente, di cui agli [articoli 18](Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md) e [19 del R. decreto 14 marzo 1909, n. 130](Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md). 
+ Alla stessa giurisdizione e' devoluta la decisione sulle azioni pel medesimo oggetto, che siano promosse dai passeggieri di 3ª classe, o di classe equivalente, di cui agli [articoli 18](../Regi%20decreti/Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md) e [19 del R. decreto 14 marzo 1909, n. 130](../Regi%20decreti/Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md). 
  
  Infine alla detta giurisdizione sono sottoposte le controversie dipendenti da arruolamenti autorizzati a norma dell'art. 18 della legge stessa, salvo i casi che siano stabiliti speciali arbitrati nel decreto di autorizzazione.
 
@@ -282,7 +282,7 @@ All'[art. 31 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.
  
  i) con l'ammenda da lire cinquanta a lire cinquecento per ogni biglietto d'imbarco, irregolarmente emesso, che non contenga tutte le indicazioni prescritte o le contenga in modo sostanzialmente inesatto, o che sia variato dopo la sua emissione senza che il vettore sia stato autorizzato dal Commissariato, o che sia intervenuto espresso consenso dell'emigrante; 
  
- m) con l'ammenda da lire cinquanta a lire cinquecento e con l'arresto fino a due mesi chiunque sia colto in possesso di passaporti ad altri rilasciati, dei quali non giustifichi l'attuale possesso medesimo; salva la disposizione dell'[art. 286 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ m) con l'ammenda da lire cinquanta a lire cinquecento e con l'arresto fino a due mesi chiunque sia colto in possesso di passaporti ad altri rilasciati, dei quali non giustifichi l'attuale possesso medesimo; salva la disposizione dell'[art. 286 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  n) con l'ammenda da lire cento a lire mille le altre contravvenzioni alle leggi e ai regolamenti sulla emigrazione, sia che trattisi di vettori, di loro rappresentanti, di imprese, di agenzie di affari o di altri privati, non compresi in questi gli emigranti. 
  
@@ -296,9 +296,9 @@ All'[art. 31 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.
 
 Al [primo](Disposizioni%20sullemigrazione.%20001U0023.md) e [secondo comma dell'articolo 17 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md) sono sostituiti i seguenti: 
  
- «Ferma la disposizione dell'[art. 416 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque a fine di lucro eccita ad emigrare e chiunque con manifesti, circolari, guide o con pubblicazioni di ogni genere concernenti l'emigrazione diffonde notizie o indicazioni false, o diffonde nel Regno notizie e indicazioni di tale natura stampate all'estero, e' punito con la reclusione fino a sei mesi e con la multa da L. 100 a L. 1000. 
+ «Ferma la disposizione dell'[art. 416 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque a fine di lucro eccita ad emigrare e chiunque con manifesti, circolari, guide o con pubblicazioni di ogni genere concernenti l'emigrazione diffonde notizie o indicazioni false, o diffonde nel Regno notizie e indicazioni di tale natura stampate all'estero, e' punito con la reclusione fino a sei mesi e con la multa da L. 100 a L. 1000. 
  
- «E' punito a norma dell'[art. 416 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) chiunque, a fine di lucro, ingannando un cittadino con l'addurre fatti insussistenti o col dare false notizie, lo avvii a paesi esteri diversi da quelli dove intendeva recarsi, o lo induca a prendere imbarco in porti esteri o clandestinamente sulla nave».
+ «E' punito a norma dell'[art. 416 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) chiunque, a fine di lucro, ingannando un cittadino con l'addurre fatti insussistenti o col dare false notizie, lo avvii a paesi esteri diversi da quelli dove intendeva recarsi, o lo induca a prendere imbarco in porti esteri o clandestinamente sulla nave».
 
 ## Disposizioni generali e transitorie
 

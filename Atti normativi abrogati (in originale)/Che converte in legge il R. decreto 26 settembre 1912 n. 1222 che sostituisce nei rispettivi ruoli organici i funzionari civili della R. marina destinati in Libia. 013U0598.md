@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 26 settembre 1912, n. 1222](Col%20quale%20vengono%20estese%20a%20tutti%20i%20funzionari%20civili%20dellAmministrazione%20della%20marina%20destinati%20in%20Libia%20le%20disposizioni%20di%20cui%20allart.%201%20del%20R.%20decreto%2025%20luglio%201912%20n.%20873.%20012U1222.md), che estende ai funzionari civili ed ai personali subalterni della marina le disposizioni di cui all'[art. 1 del R. decreto 25 luglio 1912, n. 873](Che%20sostituisce%20gli%20impiegati%20civili%20dellAmministrazione%20militare%20destinati%20in%20Libia%20e%20per%20laumento%20dei%20ruoli%20dei%20personali%20civili%20tecnici%20dartiglieria%20e%20genio%20in%20dipendenza%20dei%20nuovi%20ser_97a84c0a638a.md).
+E' convertito in legge il [R. decreto 26 settembre 1912, n. 1222](../Regi%20decreti/Col%20quale%20vengono%20estese%20a%20tutti%20i%20funzionari%20civili%20dellAmministrazione%20della%20marina%20destinati%20in%20Libia%20le%20disposizioni%20di%20cui%20allart.%201%20del%20R.%20decreto%2025%20luglio%201912%20n.%20873.%20012U1222.md), che estende ai funzionari civili ed ai personali subalterni della marina le disposizioni di cui all'[art. 1 del R. decreto 25 luglio 1912, n. 873](../Regi%20decreti/Che%20sostituisce%20gli%20impiegati%20civili%20dellAmministrazione%20militare%20destinati%20in%20Libia%20e%20per%20laumento%20dei%20ruoli%20dei%20personali%20civili%20tecnici%20dartiglieria%20e%20genio%20in%20dipendenza%20dei%20nuovi%20ser_97a84c0a638a.md).
 
 ## Art. 2.
 

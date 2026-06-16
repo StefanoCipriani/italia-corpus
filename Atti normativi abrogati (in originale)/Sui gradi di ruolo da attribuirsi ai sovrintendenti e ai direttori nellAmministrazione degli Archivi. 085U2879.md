@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [Regio decreto 26 marzo 1874, n. 1861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-03-26;1861);
+Veduto il [Regio decreto 26 marzo 1874, n. 1861](../Regi%20decreti/Relativo%20al%20riordinamento%20degli%20Archivi%20di%20Stato%20074U1861.md);
 
 Udito il Consiglio per gli Archivi;
 

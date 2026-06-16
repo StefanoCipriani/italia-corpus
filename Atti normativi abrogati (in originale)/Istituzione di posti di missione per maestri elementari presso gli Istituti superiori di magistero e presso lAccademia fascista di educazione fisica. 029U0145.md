@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la istruzione pubblic
 
 ## Articolo unico.
 
-L'art. 140 del testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere d'integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), e' sostituito dal seguente: 
+L'art. 140 del testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere d'integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' sostituito dal seguente: 
  
  «Art. 140. - Presso gli Istituti superiori di magistero e presso l'Accademia fascista di educazione fisica puo' essere tenuto per un biennio, in missione, un numero di maestri non superiore rispettivamente a trenta e a dieci, i quali conservano lo stipendio e la sede. 
  

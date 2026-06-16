@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Ritenuta la urgente necessita' di assicurare il normale funzionamento dei Regi riformatori, fino al loro assetto definitivo, in armonia con le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in corso di elaborazione;
+Ritenuta la urgente necessita' di assicurare il normale funzionamento dei Regi riformatori, fino al loro assetto definitivo, in armonia con le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in corso di elaborazione;
 
 Viste le [leggi 3 luglio 1904, n. 318, e 30 dicembre 1906, n. 649](Provvedimenti%20in%20favore%20del%20personale%20amministrativo%20e%20sanitario%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20del%20personale%20di%20custodia%20degli%20stabilimenti%20carcerari.%20006U0649.md);
 
@@ -22,7 +22,7 @@ Visto il [R. decreto 10 novembre 1905, n. 572](Che%20separa%20e%20distingue%20la
 
 Visti i regolamenti approvati coi [Regi decreti 22 dicembre 1904, n. 716](Che%20approva%20e%20contiene%20il%20regolamento%20par%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20dei%20riformatori%20governativi.%20004U0716.md); [14 luglio 1907, n. 606](Che%20approva%20lunito%20regolamento%20pei%20riformatori%20governativi.%20007U0606.md); [15 aprile 1909, n. 236](Che%20approva%20il%20regolamento%20speciale%20per%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20dei%20riformatori%20governativi.%20009U0236.md), e [15 luglio 1909, n. 541](Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

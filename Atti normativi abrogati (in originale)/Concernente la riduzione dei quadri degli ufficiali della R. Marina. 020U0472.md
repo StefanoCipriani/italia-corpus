@@ -86,7 +86,7 @@ Gli organici definitivi degli ufficiali della R. marina saranno stabiliti con R.
 
 ## Art. 7.
 
-In dipendenza delle riduzioni apportate al ruolo generale degli ufficiali di vascello, il ministro della marina ha facolta' di ridurre il numero degli ufficiali S. A. N. stabilito dall'[art. 2 del R. decreto 25 agosto 1919, n. 1513](Che%20stabilisce%20lordinamento%20degli%20ufficiali%20di%20vascello%20specialisti%20di%20armi%20navali.%20019U1513.md).
+In dipendenza delle riduzioni apportate al ruolo generale degli ufficiali di vascello, il ministro della marina ha facolta' di ridurre il numero degli ufficiali S. A. N. stabilito dall'[art. 2 del R. decreto 25 agosto 1919, n. 1513](../Regi%20decreti/Che%20stabilisce%20lordinamento%20degli%20ufficiali%20di%20vascello%20specialisti%20di%20armi%20navali.%20019U1513.md).
 
 ## Art. 8.
 

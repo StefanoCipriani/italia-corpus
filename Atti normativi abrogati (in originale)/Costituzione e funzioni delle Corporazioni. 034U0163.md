@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le Corporazioni, previste dalla dichiarazione VI della Carta del lavoro, dalla [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e dal [R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), sono istituite con decreto del Capo del Governo, su proposta del Ministro per le corporazioni, sentito il Comitato corporativo centrale.
+Le Corporazioni, previste dalla dichiarazione VI della Carta del lavoro, dalla [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e dal [R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), sono istituite con decreto del Capo del Governo, su proposta del Ministro per le corporazioni, sentito il Comitato corporativo centrale.
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ Le Associazioni collegate da una Corporazione diventano autonome nel campo sinda
 
 ## Art. 8.
 
-Oltre ad esercitare le attribuzioni ed i poteri di cui alla [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e al [R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), la Corporazione elabora le norme per il regolamento collettivo dei rapporti economici e per la disciplina unitaria della produzione 
+Oltre ad esercitare le attribuzioni ed i poteri di cui alla [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e al [R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), la Corporazione elabora le norme per il regolamento collettivo dei rapporti economici e per la disciplina unitaria della produzione 
  
  La Corporazione esercita detta funzione in seguito a proposta dei Ministri competenti o su richiesta di una delle Associazioni collegate, con l'assenso del Capo del Governo.
 

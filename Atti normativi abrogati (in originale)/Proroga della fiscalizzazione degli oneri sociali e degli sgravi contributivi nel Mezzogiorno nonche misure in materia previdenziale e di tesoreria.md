@@ -36,7 +36,7 @@ A decorrere dal periodo di paga in corso alla data del 1 giugno 1985 e fermo res
                         c)
                             per tutti i dipendenti delle imprese indicate nell'[articolo 1, primo comma, della legge 28 novembre 1980, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;782#art_1-com1), e nell'[articolo 1, terzo comma, del decreto-legge 24 marzo 1982, n. 91](Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estensione%20ad%20altri%20settori.md), convertito, con modificazioni, nella [legge 21 maggio 1982, n. 267](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20marzo%201982%20n.%2091%20concernente%20proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20per%20i%20mesi%20di%20febbraio%20e%20marzo%201982%20ed%20estension_3d538e8f99b7.md), ulteriori 5,24 punti;
                         d)
-                            per i dipendenti delle imprese che operano nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), lo sgravio aggiuntivo di 2,54 punti.
+                            per i dipendenti delle imprese che operano nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), lo sgravio aggiuntivo di 2,54 punti.
 
 3.
 
@@ -126,7 +126,7 @@ Non sono ammesse rateazioni superiori ai 48 mesi.
 
 12.
 
-Per la riscossione dei contributi, dei premi e dei relativi oneri accessori dovuti per le forme obbligatorie di previdenza e di assistenza si possono applicare le disposizioni del testo unico per la riscossione delle entrate patrimoniali dello Stato, approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Per la riscossione dei contributi, dei premi e dei relativi oneri accessori dovuti per le forme obbligatorie di previdenza e di assistenza si possono applicare le disposizioni del testo unico per la riscossione delle entrate patrimoniali dello Stato, approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 13.
 

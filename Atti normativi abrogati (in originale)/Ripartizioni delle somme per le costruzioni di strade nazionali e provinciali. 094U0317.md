@@ -43,7 +43,7 @@ La somma di lire 673,948.74, gia' vincolata al pagamento finale della quota di c
 
 ## Art. 7.
 
-L'[articolo 5 del R. decreto 15 novembre 1892 n. 674](Che%20aggiunge%20maggiore%20somma%20per%20la%20costruzione%20di%20strade%20nazionali%20e%20provinciali.%20092U0674.md), convalidato dalla [legge 30 dicembre 1892 n. 735](Che%20approva%20maggiori%20spese%20e%20una%20nuova%20ripartizione%20di%20fondi%20autorizzati%20per%20la%20costruzione%20di%20Strade%20nazionali%20e%20provinciali.%20092U0735.md), e' soppresso. 
+L'[articolo 5 del R. decreto 15 novembre 1892 n. 674](../Regi%20decreti/Che%20aggiunge%20maggiore%20somma%20per%20la%20costruzione%20di%20strade%20nazionali%20e%20provinciali.%20092U0674.md), convalidato dalla [legge 30 dicembre 1892 n. 735](Che%20approva%20maggiori%20spese%20e%20una%20nuova%20ripartizione%20di%20fondi%20autorizzati%20per%20la%20costruzione%20di%20Strade%20nazionali%20e%20provinciali.%20092U0735.md), e' soppresso. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

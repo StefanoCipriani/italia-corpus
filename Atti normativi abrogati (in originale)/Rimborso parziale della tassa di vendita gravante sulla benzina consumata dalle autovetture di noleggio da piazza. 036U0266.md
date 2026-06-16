@@ -48,7 +48,7 @@ Con decreto del Ministro per le finanze sara' istituito apposito capitolo nel bi
 
 ## Art. 4.
 
-Chiunque mediante inesatte dichiarazioni, o altrimenti, ottenga o tenti di ottenere un rimborso non dovuto, sara' punito con la multa da L. 500 a 5000, salve le altre pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi, per i fatti commessi. 
+Chiunque mediante inesatte dichiarazioni, o altrimenti, ottenga o tenti di ottenere un rimborso non dovuto, sara' punito con la multa da L. 500 a 5000, salve le altre pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi, per i fatti commessi. 
  
  Per la definizione delle infrazioni suddette e per la ripartizione delle multe saranno osservate le norme stabilite dalla legge doganale.
 

@@ -35,7 +35,7 @@ PROVVEDIMENTO
 
 ## Art. 2.
 
-Il termine per l'efficacia delle disposizioni di cui all'[art. 6 del R. decreto legge 17 ottobre 1941, n. 1159](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%20finanziario%201941-42%20per%20esigenze%20dipendenti%20dalla%20guerra.%20041U1159.md), all'[art. 5 del R. decreto-legge 28 maggio 1942, n. 633](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%201941-42%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20042U0633.md) ed all'[art. 1 del decreto legislativo Luogotenenziale 31 luglio 1945, n. 447](Deroga%20alle%20disposizioni%20vigenti%20della%20legge%20di%20contabilita%20generale%20per%20il%20pagamento%20della%20indennita%20per%20il%20maggior%20prezzo%20del%20pane%20e%20della%20pasta.%20045U0447.md), relativi a deroghe al limite fissato per le aperture di credito dal penultimo comma dell'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e' prorogato di un anno.
+Il termine per l'efficacia delle disposizioni di cui all'[art. 6 del R. decreto legge 17 ottobre 1941, n. 1159](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%20finanziario%201941-42%20per%20esigenze%20dipendenti%20dalla%20guerra.%20041U1159.md), all'[art. 5 del R. decreto-legge 28 maggio 1942, n. 633](Maggiori%20assegnazioni%20agli%20stati%20di%20previsione%20della%20spesa%20di%20taluni%20Ministeri%20per%20lesercizio%201941-42%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20042U0633.md) ed all'[art. 1 del decreto legislativo Luogotenenziale 31 luglio 1945, n. 447](Deroga%20alle%20disposizioni%20vigenti%20della%20legge%20di%20contabilita%20generale%20per%20il%20pagamento%20della%20indennita%20per%20il%20maggior%20prezzo%20del%20pane%20e%20della%20pasta.%20045U0447.md), relativi a deroghe al limite fissato per le aperture di credito dal penultimo comma dell'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e' prorogato di un anno.
 
 ## Art. 3.
 
@@ -51,7 +51,7 @@ La facolta' di emettere ordini di accreditamento per provvedere al pagamento di 
 
 ## Art. 6.
 
-Il termine previsto dall'[art. 8 del R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_8), e' prorogato al 31 dicembre 1947.
+Il termine previsto dall'[art. 8 del R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), e' prorogato al 31 dicembre 1947.
  E' ugualmente prorogato fino al 31 dicembre 1947 il termine indicato nei singoli provvedimenti emanati in applicazione dell'art. 14 del decreto di cui al precedente comma.
 
 ## Art. 7.

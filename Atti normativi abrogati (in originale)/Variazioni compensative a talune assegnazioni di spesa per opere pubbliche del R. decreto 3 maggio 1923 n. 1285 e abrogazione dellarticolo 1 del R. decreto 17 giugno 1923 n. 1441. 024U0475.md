@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 3 maggio 1923, n. 1285](Spesa%20di%20lire%20620440716
 
 Riconosciuta la necessita' di apportare alcune variazioni compensative alla tabella A annessa al R. decreto-legge suddetto;
 
-Visto il [R. decreto 17 giugno 1923, n. 1441](Storno%20di%20fondi%20concernenti%20opere%20pubbliche%20autorizzate%20col%20decreto%20Luogotenenziale%2017%20novembre%201918%20n.%201698%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20le_9a3f6b657c70.md);
+Visto il [R. decreto 17 giugno 1923, n. 1441](../Regi%20decreti/Storno%20di%20fondi%20concernenti%20opere%20pubbliche%20autorizzate%20col%20decreto%20Luogotenenziale%2017%20novembre%201918%20n.%201698%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20le_9a3f6b657c70.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -36,7 +36,7 @@ E' soppressa la distinzione in specie del gruppo «Sovvenzioni, sussidi ed antic
 
 ## Art. 3.
 
-E' abrogato l'[art. 1 del R. decreto 17 giugno 1923, n. 1441](Storno%20di%20fondi%20concernenti%20opere%20pubbliche%20autorizzate%20col%20decreto%20Luogotenenziale%2017%20novembre%201918%20n.%201698%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20le_9a3f6b657c70.md) concernente modificazioni alle assegnazioni di spesa del [decreto Luogotenenziale 7 febbraio 1919, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-07;150). 
+E' abrogato l'[art. 1 del R. decreto 17 giugno 1923, n. 1441](../Regi%20decreti/Storno%20di%20fondi%20concernenti%20opere%20pubbliche%20autorizzate%20col%20decreto%20Luogotenenziale%2017%20novembre%201918%20n.%201698%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20le_9a3f6b657c70.md) concernente modificazioni alle assegnazioni di spesa del [decreto Luogotenenziale 7 febbraio 1919, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-07;150). 
  
  Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, e sara' presentato al Parlamento per essere convertito in legge. 
  

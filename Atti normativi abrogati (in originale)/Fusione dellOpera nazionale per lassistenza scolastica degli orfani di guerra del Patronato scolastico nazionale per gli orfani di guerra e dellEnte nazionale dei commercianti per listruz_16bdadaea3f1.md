@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [R. decreto 19 giugno 1921, n. 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-19;943), ed i [decreti Luogotenenziali 6 luglio 1919, nn. 1197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-06;1197) e [1144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-06;1144), con cui l'Opera nazionale per l'assistenza scolastica degli orfani di guerra, il Patronato scolastico nazionale per gli orfani di guerra e l'Ente nazionale dei commercianti per l'istruzione
+Visti il [R. decreto 19 giugno 1921, n. 943](../Regi%20decreti/Erezione%20in%20Ente%20morale.%20021U0943.md), ed i [decreti Luogotenenziali 6 luglio 1919, nn. 1197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-06;1197) e [1144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-06;1144), con cui l'Opera nazionale per l'assistenza scolastica degli orfani di guerra, il Patronato scolastico nazionale per gli orfani di guerra e l'Ente nazionale dei commercianti per l'istruzione
 
 degli orfani di guerra furono rispettivamente eretti in enti morali;
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Ritenuta la necessita' urgente ed assoluta di provvedere a che non sia turbato il pacifico libero e secolare possesso ed esercizio del diritto riconosciuto a favore del Duomo di Milano di rifornirsi in perpetuo e gratuitamente dal monte di Candoglia del marmo occorrente per il Duomo stesso;
 
-Vista la legge 20 novembre 1859, n. 3755, e il [R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443);
+Vista la legge 20 novembre 1859, n. 3755, e il [R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md);
 
 Vista la [legge 25 giugno1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per causa di pubblica utilita', e successive modificazioni;
 

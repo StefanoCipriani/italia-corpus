@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere es2cutivo di emanare norme giuridiche;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Ritenuta la necessita' di meglio disciplinare le norme che regolano la costituzione del Consiglio di amministrazione per il Ministero dell'aeronautica;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-Il [comma terzo dell'art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11-com3), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e' sostituito, per il Ministero dell'aeronautica, dai seguenti: 
+Il [comma terzo dell'art. 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e' sostituito, per il Ministero dell'aeronautica, dai seguenti: 
  
  « Del Consiglio di amministrazione del Ministero dell'aeronautica fanno parte i direttori generali ed i funzionari di pari grado che abbiano la direzione effettiva di un servizio, nonche' gli ufficiali di grado non inferiore al 5°, preposti a Direzioni generali o servizi analoghi dell'Amministrazione centrale nominati alla carica con decreto Reale, sentito il Consiglio dei Ministri. 
  

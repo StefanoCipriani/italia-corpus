@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281), e successive modificazioni, sull'ordinamento della Regia guardia di finanza;
 
-Visto il regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126);
+Visto il regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md);
 
 Vista la tabella per le note caratteristiche approvata con R. decreto 10 agosto 1928;
 
@@ -80,7 +80,7 @@ Spettano al Comando generale della Regia guardia di finanza per i militari del C
 
 ## Art. 7.
 
-Gli articoli 65, 66, 67 e 68 del regolamento organico per, la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), sono abrogati. 
+Gli articoli 65, 66, 67 e 68 del regolamento organico per, la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), sono abrogati. 
  
  Il presente decreto entrera' in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

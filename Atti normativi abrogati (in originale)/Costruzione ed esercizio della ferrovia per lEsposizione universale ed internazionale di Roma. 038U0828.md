@@ -34,7 +34,7 @@ E' approvata e resa esecutoria la convenzione 23 maggio 1938-XVI, stipulata tra 
 
 L'esecuzione delle opere e' dichiarata urgente ed indifferibile agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificata dalla [legge 18 dicembre 1879, n. 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md). 
  
- Per le espropriazioni si applicano le norme degli articoli 57 e seguenti del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, approvato con [Regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447).
+ Per le espropriazioni si applicano le norme degli articoli 57 e seguenti del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, approvato con [Regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md).
 
 ## Art. 3.
 

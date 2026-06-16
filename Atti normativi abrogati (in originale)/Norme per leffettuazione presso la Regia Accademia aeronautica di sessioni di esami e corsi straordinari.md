@@ -46,7 +46,7 @@ Le materie di esame e di insegnamento relative sia alle sessioni straordinarie c
 
 ## Art. 4.
 
-Gli allievi della Regia Accademia aeronautica, che abbiano ottenuto il passaggio al terzo corso in base ad esami sostenuti nelle sessioni straordinarie di cui all'art. 1 ovvero in base ad esami sostenuti al termine dei corsi straordinari accelerati di cui all'art. 2, conseguiranno la nomina ad "aspirante ufficiale" previste dall'[art. 5 del R. Decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), con retrodatazione, ai soli effetti giuridici, all'epoca nella quale, presuntivamente, l'avrebbero conseguita, se cause di forza maggiore non avessero interrotto il normale andamento degli studi.
+Gli allievi della Regia Accademia aeronautica, che abbiano ottenuto il passaggio al terzo corso in base ad esami sostenuti nelle sessioni straordinarie di cui all'art. 1 ovvero in base ad esami sostenuti al termine dei corsi straordinari accelerati di cui all'art. 2, conseguiranno la nomina ad "aspirante ufficiale" previste dall'[art. 5 del R. Decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), con retrodatazione, ai soli effetti giuridici, all'epoca nella quale, presuntivamente, l'avrebbero conseguita, se cause di forza maggiore non avessero interrotto il normale andamento degli studi.
  La retrodatazione anzidetta sara' prorogata del periodo di tempo intercorso tra la chiusura della prima e della seconda sessione di esami, nel caso che il passaggio al terzo corso venga ottenuto in seconda sessione straordinaria.
 
 ## Art. 5.

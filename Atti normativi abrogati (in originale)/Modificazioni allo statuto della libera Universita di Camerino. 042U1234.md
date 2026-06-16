@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto lo statuto della libera Universita' di Camerino approvato con il R. decreto 13 ottobre 1927-V, n. 2838, e modificato con i Regi decreti 20 settembre 1928-VI, n. 2250; 31 ottobre 1929-VIII, n. 2386; 20 novembre 1930-IX, n. 1939; 27 ottobre 1932-X, n. 2066; 27 dicembre 1934-XIII, n. 2439; 1° ottobre 1936-XIV, n. 2037; 14 marzo 1938-XVI, n. 885; 5 maggio 1939, n. 1172 e 11 luglio 1942-XX, n. 936; 
  
- Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  
  Veduto il R. decreto-legge 20 giugno 1935-XIII, numero 1071; 
  

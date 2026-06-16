@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il Nostro decreto 11 novembre 1923, n. 2395, e le successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto il Nostro [decreto-legge 26 febbraio 1928, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1928-02-26;355);
 
@@ -56,7 +56,7 @@ Gli [articoli 1](Riordinamento%20del%20personale%20dellAmministrazione%20colonia
  
  Le funzioni di Governatore possono pero' essere affidate con decreto Reale emanato su proposta del Ministro per le colonie, sentito il Consiglio dei Ministri, a persone estranee al ruolo direttivo coloniale, sia che esse appartengano ad altri ruoli dell'Amministrazione dello Stato, sia che non appartengano ad alcun ruolo statale. In tal caso il trattamento economico dell'incaricato delle funzioni di Governatore e' stabilito con lo stesso decreto Reale. 
  
- Se l'incaricato sia dipendente statale di ruolo, per il periodo di durata dell'incarico egli e' considerato nella posizione di comandato ai sensi dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101). 
+ Se l'incaricato sia dipendente statale di ruolo, per il periodo di durata dell'incarico egli e' considerato nella posizione di comandato ai sensi dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  A coloro che siano incaricati delle funzioni di Governatore ai sensi del precedente comma, salvo quanto e' in esso espressamente stabilito, si applicano, per cio' che concerne il trattamento, le norme sancite per il trattamento dei governatori di ruolo, limitatamente alla durata dell'incarico 
  
@@ -95,7 +95,7 @@ Gli [articoli 1](Riordinamento%20del%20personale%20dellAmministrazione%20colonia
  
  Ai punti di esame e' attribuito il coefficiente due, a quelli di merito di servizio il coefficiente tre. 
  
- Per essere compresi nella graduatoria occorre aver ottenuto nell'esame le votazioni stabilite dai primi quattro comma dell'[art. 42 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_42). 
+ Per essere compresi nella graduatoria occorre aver ottenuto nell'esame le votazioni stabilite dai primi quattro comma dell'[art. 42 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Le promozioni al grado 9° e 10° sono conferite per anzianita' congiunta al merito. Salvo il disposto del successivo art. 23 nulla e' innovato per quanto riguarda le norme ed il programma per gli esami di promozione al grado di commissario regionale di 2ª classe (grado 8°). 
  
@@ -243,11 +243,11 @@ I primi segretari assunti in seguito all'esito del concorso per titoli ed esami 
 
 ### Art. 11.
 
-Nella prima attuazione del presente decreto il Ministero delle colonie e' autorizzato a bandire un concorso per merito distinto ed un esame per idoneita' alla promozione al grado 8° (commissario regionale di 2° classe) prescindendo dal termine previsto dall'art. 21, ultimo comma, del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960).
+Nella prima attuazione del presente decreto il Ministero delle colonie e' autorizzato a bandire un concorso per merito distinto ed un esame per idoneita' alla promozione al grado 8° (commissario regionale di 2° classe) prescindendo dal termine previsto dall'art. 21, ultimo comma, del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 12.
 
-Il termine del 31 dicembre 1931, di cui all'[art. 1 del Regio decreto 18 dicembre 1930, n. 1733](Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md), e' prorogato, per l'Amministrazione coloniale, al 30 settembre 1934.
+Il termine del 31 dicembre 1931, di cui all'[art. 1 del Regio decreto 18 dicembre 1930, n. 1733](../Regi%20decreti/Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md), e' prorogato, per l'Amministrazione coloniale, al 30 settembre 1934.
 
 ### Art. 13.
 

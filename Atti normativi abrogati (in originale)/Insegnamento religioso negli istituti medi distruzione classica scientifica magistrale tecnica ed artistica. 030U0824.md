@@ -42,7 +42,7 @@ Gli incaricati dell'insegnamento religioso hanno gli stessi diritti e doveri deg
 
 ## Art. 8.
 
-Agli incaricati dell'insegnamento religioso viene corrisposta, in ogni caso, la retribuzione nella misura stabilita dalla lettera a) della tabella 6 allegata al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), con l'aumento previsto dal [R. decreto-legge 31 marzo 1925, n. 363](Provvedimenti%20economici%20a%20favore%20del%20personale%20dipendente%20dalle%20Amministrazioni%20dello%20Stato.%20025U0363.md).
+Agli incaricati dell'insegnamento religioso viene corrisposta, in ogni caso, la retribuzione nella misura stabilita dalla lettera a) della tabella 6 allegata al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), con l'aumento previsto dal [R. decreto-legge 31 marzo 1925, n. 363](Provvedimenti%20economici%20a%20favore%20del%20personale%20dipendente%20dalle%20Amministrazioni%20dello%20Stato.%20025U0363.md).
 
 ## Art. 9.
 

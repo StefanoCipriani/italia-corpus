@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico della Amministrazione dello Stato, e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico della Amministrazione dello Stato, e successive modificazioni;
 
-Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), contenente le disposizioni sullo stato giuridico degli impiegati della Amministrazione dello Stato, e successive modificazioni;
+Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), contenente le disposizioni sullo stato giuridico degli impiegati della Amministrazione dello Stato, e successive modificazioni;
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), contenente disposizioni sull'Amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), contenente disposizioni sull'Amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per la difesa, di concerto col Ministro per il tesor
 
 ## Art. 1.
 
-I funzionari ai quali in applicazione dell'[art. 52 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52), puo' essere delegata la facolta' di assumere impegni sul bilancio del Ministero della difesa sono, nell'ambito dei servizi di propria competenza, i direttori generali ed i capi degli uffici autonomi dell'Amministrazione centrale, sia militari che civili, di grado non inferiore al 6°, anche se organicamente appartenenti a ruoli di altre Amministrazioni, nonche' il commissario generale per le onoranze ai Caduti.
+I funzionari ai quali in applicazione dell'[art. 52 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), puo' essere delegata la facolta' di assumere impegni sul bilancio del Ministero della difesa sono, nell'ambito dei servizi di propria competenza, i direttori generali ed i capi degli uffici autonomi dell'Amministrazione centrale, sia militari che civili, di grado non inferiore al 6°, anche se organicamente appartenenti a ruoli di altre Amministrazioni, nonche' il commissario generale per le onoranze ai Caduti.
  Ai funzionari ai quali viene delegata la facolta' di assumere impegni e' altresi' concessa, ai sensi dell'articolo 281 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), la facolta' di firmare i relativi titoli di spesa.
  In sostituzione dei funzionari innanzi indicati, in caso di loro assenza o impedimento, la delega di cui al presente articolo puo' essere conferita ad altri funzionari della stessa direzione generale od ufficio autonomo, sia militari che civili, purche' di grado non inferiore al 6°.
  Nell'esercizio delle facolta' suddette i funzionari firmano "per il Ministro".
@@ -76,7 +76,7 @@ I limiti di somma di cui all'art. 3 lettere a), b) e c) del presente decreto son
 
 ## Art. 7.
 
-Sono abrogati il regio decreto 17 agosto 1928, modificato con decreto del Capo provvisorio dello Stato luglio 1947, n. 1878, ed il [regio decreto 4 luglio 1935, n. 1466](Norme%20per%20le%20deleghe%20di%20firma.%20035U1466.md), nonche' il capo I del decreto interministeriale in data 4 marzo 1929 concernente "norme per la delega delle facolta' di assunzione di impegni a carico del bilancio della Marina e per la denuncia degli impegni medesimi".
+Sono abrogati il regio decreto 17 agosto 1928, modificato con decreto del Capo provvisorio dello Stato luglio 1947, n. 1878, ed il [regio decreto 4 luglio 1935, n. 1466](../Regi%20decreti/Norme%20per%20le%20deleghe%20di%20firma.%20035U1466.md), nonche' il capo I del decreto interministeriale in data 4 marzo 1929 concernente "norme per la delega delle facolta' di assunzione di impegni a carico del bilancio della Marina e per la denuncia degli impegni medesimi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

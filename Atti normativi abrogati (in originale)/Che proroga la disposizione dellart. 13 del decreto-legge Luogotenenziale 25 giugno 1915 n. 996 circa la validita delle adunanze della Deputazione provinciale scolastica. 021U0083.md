@@ -18,7 +18,7 @@ Veduta la [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20
 
 Veduto l'[art. 13 del decreto-legge Luogotenenziale 24 giugno 1915, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1915-06-24;996#art_13);
 
-Veduti gli [articoli 1](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md) e [2 del R. decreto 30 settembre 1920, n. 1389](Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md);
+Veduti gli [articoli 1](../Regi%20decreti/Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md) e [2 del R. decreto 30 settembre 1920, n. 1389](../Regi%20decreti/Contenente%20norme%20pel%20passaggio%20dallo%20stato%20di%20guerra%20allo%20stato%20di%20pace.%20020U1389.md);
 
 Udito il Consiglio dei ministri;
 

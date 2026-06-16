@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 53 del regolamento per l'esecuzione del Codice di commercio approvato con [R. decreto 27 dicembre 1882, n. 1139](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lesecuzione%20del%20codice%20di%20commercio.%20082U1139.md) (serie 3ª) e modicato col [R. decreto 4 agosto 1894, n. 416](Che%20modifica%20gli%20articoli%2052%20e%2053%20del%20regolamento%20per%20lesecuzione%20del%20Codice%20di%20commercio%20in%20ordine%20al%20Bollettino%20ufficiale%20delle%20Societa%20per%20azioni.%20094U0416.md), e' sostituito il seguente: 
+All'art. 53 del regolamento per l'esecuzione del Codice di commercio approvato con [R. decreto 27 dicembre 1882, n. 1139](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lesecuzione%20del%20codice%20di%20commercio.%20082U1139.md) (serie 3ª) e modicato col [R. decreto 4 agosto 1894, n. 416](../Regi%20decreti/Che%20modifica%20gli%20articoli%2052%20e%2053%20del%20regolamento%20per%20lesecuzione%20del%20Codice%20di%20commercio%20in%20ordine%20al%20Bollettino%20ufficiale%20delle%20Societa%20per%20azioni.%20094U0416.md), e' sostituito il seguente: 
  
  «A rimborso delle spese occorrenti per la pubblicazione del Bollettino ciascuna Societa' deve pagare un diritto fisso commisurato a seconda della diversa natura degli atti da pubblicare e l'ammontare del capitale, come segue. 
  

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
  
- Veduti il [R. decreto 2 settembre 1923, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1911), e il [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), convertito nella [legge 29 dicembre 1927, n. 2584](Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20027U2584.md); 
+ Veduti il [R. decreto 2 settembre 1923, n. 1911](../Regi%20decreti/Istituzione%20della%20provincia%20di%20Taranto.%20023U1911.md), e il [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), convertito nella [legge 29 dicembre 1927, n. 2584](Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20027U2584.md); 
  
  Veduti i progetti concordati fra i rappresentanti delle Amministrazioni provinciali di Lecce, Taranto e Brindisi per la separazione del patrimonio ed il reparto delle attivita' e passivita' fra le provincie di Lecce e Taranto e di Lecce e Brindisi; 
  

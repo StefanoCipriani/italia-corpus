@@ -56,7 +56,7 @@ L'Ente inoltre puo':
 
 Lo Stato cede all'Ente, per tutta la sua durata, l'uso gratuito delle aree, delle opere, degli edifici, dei macchinari, degli attrezzi e dei mobili di sua spettanza, che esistono nel territorio di giurisdizione dell'Ente, fatta eccezione di quanto occorre per i servizi esclusi dalla competenza dell'Ente medesimo. 
  
- L'Ente riscuote e percepisce, in luogo e coi privilegi dello Stato, e con le procedure di cui al [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), i canoni dovuti da terzi per concessione di beni demaniali e per concessioni di lavoro in porto; esso e' autorizzato sia a stipulare nuove concessioni, o locazioni, sia a mantenere, modificare, risolvere o riscattare quelle esistesti, ai termini delle condizioni dei rispettivi contratti. 
+ L'Ente riscuote e percepisce, in luogo e coi privilegi dello Stato, e con le procedure di cui al [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), i canoni dovuti da terzi per concessione di beni demaniali e per concessioni di lavoro in porto; esso e' autorizzato sia a stipulare nuove concessioni, o locazioni, sia a mantenere, modificare, risolvere o riscattare quelle esistesti, ai termini delle condizioni dei rispettivi contratti. 
  
  I contratti stipulati dall'Ente non possono avere durata ne' creare oneri od impegni oltre il termine stabilito per la durata dell'Ente, salva espressa autorizzazione del Ministero delle comunicazioni.
 
@@ -68,7 +68,7 @@ L'Ente, per disimpegnare i compiti e le attribuzioni di cui agli articoli 2 e 3 
  
  2° i proventi delle gestioni dirette; 
  
- 3° la speciale sopratassa di ancoraggio, istituita con l'[articolo 12 del decreto-legge luogotenenziale 10 marzo 1918, n. 448](Che%20dichiara%20di%20pubblica%20utilita%20le%20opere%20per%20lampliamento%20e%20sistemazione%20del%20porto%20di%20Napoli%20e%20ne%20approva%20e%20rende%20esecutoria%20la%20relativa%20convenzione%20in%20data%208%20febbraio%201918.%20018U0448.md), successivamente confermata con l'[art. 3 del R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md); 
+ 3° la speciale sopratassa di ancoraggio, istituita con l'[articolo 12 del decreto-legge luogotenenziale 10 marzo 1918, n. 448](Che%20dichiara%20di%20pubblica%20utilita%20le%20opere%20per%20lampliamento%20e%20sistemazione%20del%20porto%20di%20Napoli%20e%20ne%20approva%20e%20rende%20esecutoria%20la%20relativa%20convenzione%20in%20data%208%20febbraio%201918.%20018U0448.md), successivamente confermata con l'[art. 3 del R. decreto 25 marzo 1923, n. 1018](../Regi%20decreti/Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md); 
  
  4° i contributi obbligatori, che saranno stabiliti con decreto Reale, su proposta del Ministro per le comunicazioni, di concerto con i Ministri per le finanze, per le corporazioni e per la cultura popolare, a carico del Consiglio provinciale delle corporazioni di Napoli, del Banco di Napoli e dell'Ente provinciale per il turismo di Napoli; 
  

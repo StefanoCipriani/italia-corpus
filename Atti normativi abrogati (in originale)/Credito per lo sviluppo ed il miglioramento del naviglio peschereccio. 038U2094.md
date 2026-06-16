@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604);
+Visto il testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
 Visto il [R. decreto-legge 10 marzo 1938, n. 330](Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), che reca provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento;
 
@@ -40,7 +40,7 @@ In deroga a quanto e' disposto nel terzultimo capoverso dell'art. 45 del testo u
 
 ## Art. 2.
 
-Il Governo del Re e' autorizzato a riunire e coordinare in nuovo testo unico le presenti disposizioni con quelle del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), e dei provvedimenti successivi emessi a sua modifica ed integrazione. 
+Il Governo del Re e' autorizzato a riunire e coordinare in nuovo testo unico le presenti disposizioni con quelle del testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e dei provvedimenti successivi emessi a sua modifica ed integrazione. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

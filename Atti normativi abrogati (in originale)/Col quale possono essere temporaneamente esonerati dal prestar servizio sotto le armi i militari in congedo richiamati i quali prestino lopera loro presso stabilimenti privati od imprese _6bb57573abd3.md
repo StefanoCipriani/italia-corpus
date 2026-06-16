@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 125, ultimo comma, del testo unico delle leggi sul reclutamento del R. esercito, approvato con Nostro decreto 24 dicembre 1911, n. 1497;
 
-Visto il testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), nonche' le leggi che successivamente lo modificarono;
+Visto il testo unico delle leggi sulla leva marittima approvato con [R. decreto 16 dicembre 1888, n. 5860](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulla%20leva%20marittima.%20088U5860.md), nonche' le leggi che successivamente lo modificarono;
 
 Visto il regolamento sulle dispense dalle chiamate alle armi dei militari in congedo illimitato, approvato con Nostro decreto 13 aprile 1911, n. 374; ed il Nostro decreto 17 maggio 1914, n. 548;
 
@@ -82,7 +82,7 @@ Chiunque, per ragioni del suo ufficio, avendo facolta' di fare richieste di temp
 
 ## Art. 9.
 
-Il termine di tre mesi di permanenza degli operai negli stabilimenti militari in genere dell'esercito o della marina, di cui all'art. 1, comma d) e h) del [R. decreto 13 aprile 1911, n. 374](Che%20approva%20lannesso%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20dei%20militari%20in%20congedo%20illimitato%20che%20cuoprono%20determinali%20impieghi%20o%20si%20trovano%20in%20posizioni%20speciali.%20011U0374.md), e' ridotto ad un mese agli effetti delle esonerazioni temporanee.
+Il termine di tre mesi di permanenza degli operai negli stabilimenti militari in genere dell'esercito o della marina, di cui all'art. 1, comma d) e h) del [R. decreto 13 aprile 1911, n. 374](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sulle%20dispense%20dalle%20chiamate%20alle%20armi%20dei%20militari%20in%20congedo%20illimitato%20che%20cuoprono%20determinali%20impieghi%20o%20si%20trovano%20in%20posizioni%20speciali.%20011U0374.md), e' ridotto ad un mese agli effetti delle esonerazioni temporanee.
 
 ## Art. 10.
 

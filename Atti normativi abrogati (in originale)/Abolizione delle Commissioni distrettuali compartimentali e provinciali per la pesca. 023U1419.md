@@ -18,7 +18,7 @@ In virtu' della delegazione dei poteri conferita al Governo del Re con la [legge
 
 Visto l'articolo 15 del regolamento per la pesca marittima approvato con [R. decreto 13 novembre 1882, n. 1090](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20pesca%20marittima.%20082U1090.md);
 
-Visto l'articolo 25 del regolamento per la pesca lacuale e fluviale approvato con [R. decreto 22 novembre 1914, numero 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486);
+Visto l'articolo 25 del regolamento per la pesca lacuale e fluviale approvato con [R. decreto 22 novembre 1914, numero 1486](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20regolamento%20per%20la%20pesca%20fluviale%20e%20lacuale.%20014U1486.md);
 
 Visto l'articolo 72 del regolamento per l'esecuzione della [legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md), approvato con [R. decreto 29 ottobre 1922, n. 1647](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20lege%2024%20marzo%201921%20n.%20312%20sulla%20pesca%20e%20sui%20pescatori.%20022U1647.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura; Abbiam
 
 ## Art. 1.
 
-Le Commissioni distrettuali e compartimentali per la pesca marittima e quelle provinciali per la pesca fluviale e lacuale, create rispettivamente con gli articoli 15 del regolamento sulla pesca marittima, approvato con [R. decreto 13 novembre 1882, n. 1090](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20pesca%20marittima.%20082U1090.md), e 25 del regolamento sulla pesca lacuale e fluviale, approvato con [R. decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486), sono soppresse.
+Le Commissioni distrettuali e compartimentali per la pesca marittima e quelle provinciali per la pesca fluviale e lacuale, create rispettivamente con gli articoli 15 del regolamento sulla pesca marittima, approvato con [R. decreto 13 novembre 1882, n. 1090](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sulla%20pesca%20marittima.%20082U1090.md), e 25 del regolamento sulla pesca lacuale e fluviale, approvato con [R. decreto 22 novembre 1914, n. 1486](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20regolamento%20per%20la%20pesca%20fluviale%20e%20lacuale.%20014U1486.md), sono soppresse.
 
 ## Art. 2.
 

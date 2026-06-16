@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La tabella n. 41, allegata al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e variazioni successive, e' sostituita dalla seguente: 
+La tabella n. 41, allegata al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e variazioni successive, e' sostituita dalla seguente: 
  
  Magistratura. 
  
@@ -77,7 +77,7 @@ Le promozioni al grado di segretario di sezione di prima classe sono conferite, 
 
 ## Art. 4.
 
-Il terzo comma dell'art. 1 del testo unico della legge, approvato con [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054), e' sostituito dal seguente: «Le funzioni di segretario generale sono conferite, per incarico, con decreto del presidente del Consiglio di Stato, ad un referendario o ad un primo referendario. 
+Il terzo comma dell'art. 1 del testo unico della legge, approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), e' sostituito dal seguente: «Le funzioni di segretario generale sono conferite, per incarico, con decreto del presidente del Consiglio di Stato, ad un referendario o ad un primo referendario. 
  
  «Ove le esigenze del servizio lo richiedano, il presidente del Consiglio di Stato puo' conferire l'incarico ad un consigliere».
 
@@ -93,7 +93,7 @@ I segretari di sezione attualmente in servizio sono iscritti al gruppo B nel gra
 
 ### Art. 7.
 
-Gli impiegati di ruolo che ricoprivano il grado di segretario o di sottosegretario, secondo l'ordinamento vigente anteriormente al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), conservano ad personam la qualifica di segretario e di sottosegretario, ma non possono conseguire trattamento economico superiore a quello stabilito pel grado ottavo del gruppo C. 
+Gli impiegati di ruolo che ricoprivano il grado di segretario o di sottosegretario, secondo l'ordinamento vigente anteriormente al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), conservano ad personam la qualifica di segretario e di sottosegretario, ma non possono conseguire trattamento economico superiore a quello stabilito pel grado ottavo del gruppo C. 
  
  Tale trattamento non puo' essere contemporaneamente goduto da un numero di impiegati superiore a cinque, da designarsi, per merito comparativo, dal Consiglio di presidenza del Consiglio di Stato. 
  

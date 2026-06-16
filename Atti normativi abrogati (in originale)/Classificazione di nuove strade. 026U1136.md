@@ -74,7 +74,7 @@ Canicatti-Campobello-Licata.
 
 ## Art. 2.
 
-Con il decreto di approvazione dei tracciati delle strade di 1ª classe, di cui all'art. 13, 2° comma, del [R. decreto 15 novembre 1923, n. 2506, e all'art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506#art_6) del [R. decreto 13 ottobre 1924, n. 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-13;1994), verra' provveduto alla numerazione delle strade di cui al precedente articolo, coordinatamente con quella delle strade gia' classificate. 
+Con il decreto di approvazione dei tracciati delle strade di 1ª classe, di cui all'art. 13, 2° comma, del [R. decreto 15 novembre 1923, n. 2506, e all'art. 6](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md) del [R. decreto 13 ottobre 1924, n. 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-13;1994), verra' provveduto alla numerazione delle strade di cui al precedente articolo, coordinatamente con quella delle strade gia' classificate. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

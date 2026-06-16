@@ -18,7 +18,7 @@ In virtu' della delegazione di poteri conferiti al Governo col la [legge 3 dicem
 
 Visto il [R. decreto del 20 dicembre 1923, n. 2957](Ordinamento%20definitivo%20della%20Commissione%20Suprema%20di%20difesa.%20023U2957.md), che istituisce una Commissione suprema di difesa;
 
-Visto il [R. decreto del 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sulla contabilita' generale dello Stato;
+Visto il [R. decreto del 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato;
 
 Udito il Consiglio dei Ministri;
 

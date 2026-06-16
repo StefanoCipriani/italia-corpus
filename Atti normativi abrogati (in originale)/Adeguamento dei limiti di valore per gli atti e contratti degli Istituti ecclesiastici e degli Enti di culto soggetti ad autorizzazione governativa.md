@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848), per l'applicazione del Concordato con la Santa Sede;
 
-Visto il relativo regolamento, approvato con [regio decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262);
+Visto il relativo regolamento, approvato con [regio decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md);
 
 Visto il [regio decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per l'interno; Decreta:
 
 ## Articolo unico.
 
-I limiti di valore previsti dagli articoli 24 e 25 del regolamento per l'applicazione della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848) approvato con [regio decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262), quintuplicati. 
+I limiti di valore previsti dagli articoli 24 e 25 del regolamento per l'applicazione della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848) approvato con [regio decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md), quintuplicati. 
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

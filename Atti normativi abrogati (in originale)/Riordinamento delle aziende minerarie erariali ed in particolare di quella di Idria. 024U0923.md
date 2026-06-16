@@ -54,7 +54,7 @@ I gestori avranno facolta' di provvedere direttamente e senza alcuna preventiva 
 
 ## Art. 6.
 
-I gestori avranno obbligo di curare la vendita dei prodotti della gestione, sia allo stato naturale che elaborati, con facolta' di procedervi anche in forma commerciale in conformita' dell'ultimo comma, dell'[art. 17 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_17), sulla contabilita' dello Stato, nei limiti, circa i prezzi unitari e i quantitativi, e in conformita' ai criteri di massima, che vengano dati dal Ministero dell'economia nazionale. 
+I gestori avranno obbligo di curare la vendita dei prodotti della gestione, sia allo stato naturale che elaborati, con facolta' di procedervi anche in forma commerciale in conformita' dell'ultimo comma, dell'[art. 17 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' dello Stato, nei limiti, circa i prezzi unitari e i quantitativi, e in conformita' ai criteri di massima, che vengano dati dal Ministero dell'economia nazionale. 
  
  Tali contratti di vendita saranno, in deroga alle disposizioni vigenti in materia di contabilita' dello Stato, validi e definitivi, quando sia intervenuto il consenso fra il gestore venditore e l'acquirente, e sono esenti dall'obbligo della approvazione del Consiglio di Stato qualunque sia l'entita' della contrattazione,
 

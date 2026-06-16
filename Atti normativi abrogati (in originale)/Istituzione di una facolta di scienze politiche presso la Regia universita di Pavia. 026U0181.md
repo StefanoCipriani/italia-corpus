@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le successive variazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le successive variazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ La durata degli studi e' di anni quattro.
  
  L'ordinamento didattico della facolta' e' determinato nello statuto della Regia universita' di Pavia. 
  
- Le norme da inserirsi in detto statuto sono emanate in conformita' dell'[art. 80 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e udito, in luogo della facolta', un Comitato tecnico nominato a norma dell'[art. 3 del R. decreto 8 ottobre 1925, n. 1904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-08;1904#art_3).
+ Le norme da inserirsi in detto statuto sono emanate in conformita' dell'[art. 80 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e udito, in luogo della facolta', un Comitato tecnico nominato a norma dell'[art. 3 del R. decreto 8 ottobre 1925, n. 1904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-08;1904#art_3).
 
 ## Art. 3.
 
@@ -48,11 +48,11 @@ Il preside della facolta' di scienze politiche fa parte del Senato accademico.
 
 Sono assegnati alla facolta', per gl'insegnamenti che le sono propri, quattro posti di professore che ne costituiscono il ruolo organico. 
  
- Uno di questi posti sara' a carico degli Enti locali e verra' istituito a norma dell'[art. 2 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_2); uno e' detratto dal ruolo della facolta' di giurisprudenza della Regia universita' di Pavia, di cui alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), il quale in tal modo viene ridotto al numero di 13; gli altri due sono di nuova istituzione. 
+ Uno di questi posti sara' a carico degli Enti locali e verra' istituito a norma dell'[art. 2 del R. decreto 22 maggio 1924, n. 744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;744#art_2); uno e' detratto dal ruolo della facolta' di giurisprudenza della Regia universita' di Pavia, di cui alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), il quale in tal modo viene ridotto al numero di 13; gli altri due sono di nuova istituzione. 
  
- Il numero complessivo dei posti di professore delle universita' e degli istituti superiori di cui alla tabella 31 del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata con l'[articolo 21 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_21), e con l'[articolo 1 del R. decreto 27 dicembre 1925, n. 2382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-27;2382#art_1), e', di conseguenza, elevato a 760. 
+ Il numero complessivo dei posti di professore delle universita' e degli istituti superiori di cui alla tabella 31 del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata con l'[articolo 21 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_21), e con l'[articolo 1 del R. decreto 27 dicembre 1925, n. 2382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-27;2382#art_1), e', di conseguenza, elevato a 760. 
  
- Ai posti di ruolo della facolta' il Ministro potra', entro l'anno 1926, trasferire su domanda, e prescindendo dalle disposizioni dell'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), professori di qualsiasi universita' o istituto superiore di grado universitario per l'insegnamento della materia di cui sono titolari o di altra materia, salvo il disposto di cui all'[art. 52 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_52).
+ Ai posti di ruolo della facolta' il Ministro potra', entro l'anno 1926, trasferire su domanda, e prescindendo dalle disposizioni dell'[art. 20 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), professori di qualsiasi universita' o istituto superiore di grado universitario per l'insegnamento della materia di cui sono titolari o di altra materia, salvo il disposto di cui all'[art. 52 del R. decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_52).
 
 ## Art. 6.
 

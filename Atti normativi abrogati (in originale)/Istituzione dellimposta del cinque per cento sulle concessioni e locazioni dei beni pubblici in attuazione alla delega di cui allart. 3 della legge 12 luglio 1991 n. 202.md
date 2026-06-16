@@ -65,7 +65,7 @@ effetto dei [commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decre
 
 1.
 
-All'art. 10, comma 1, lettera a), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, in fine sono aggiunte le seguenti parole "nonche' l'imposta del cinque per cento sull'ammontare del canone annuale e dell'indennizzo di occupazione dovuto per l'utilizzazione di tutti i beni del demanio pubblico e del patrimonio inalienabile dello Stato, delle aziende autonome statali, delle regioni, delle province e dei comuni;".
+All'art. 10, comma 1, lettera a), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, in fine sono aggiunte le seguenti parole "nonche' l'imposta del cinque per cento sull'ammontare del canone annuale e dell'indennizzo di occupazione dovuto per l'utilizzazione di tutti i beni del demanio pubblico e del patrimonio inalienabile dello Stato, delle aziende autonome statali, delle regioni, delle province e dei comuni;".
 
 ## Art. 5.
 
@@ -83,7 +83,7 @@ Sempre per l'anno 1993, nei casi di utilizzazione senza titolo di beni venuta a 
 
 4.
 
-In caso di inosservanza, totale o parziale, dell'obbligo di versamento dell'imposta nei termini stabiliti, l'ufficio del registro procede alla liquidazione dell'imposta dovuta e applica gli interessi di mora nella misura prevista dall'[art. 1 della legge 26 gennaio 1961, n. 29](Norme%20per%20la%20disciplina%20della%20riscossione%20dei%20carichi%20in%20materia%20di%20tasse%20e%20di%20imposte%20indirette%20sugli%20affari.md), e successive modificazioni, nonche' la sopratassa prevista dall'[art. 70 del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md). Avverso il suddetto avviso di liquidazione e' ammesso il ricorso alle competenti commissioni tributarie ai sensi del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
+In caso di inosservanza, totale o parziale, dell'obbligo di versamento dell'imposta nei termini stabiliti, l'ufficio del registro procede alla liquidazione dell'imposta dovuta e applica gli interessi di mora nella misura prevista dall'[art. 1 della legge 26 gennaio 1961, n. 29](Norme%20per%20la%20disciplina%20della%20riscossione%20dei%20carichi%20in%20materia%20di%20tasse%20e%20di%20imposte%20indirette%20sugli%20affari.md), e successive modificazioni, nonche' la sopratassa prevista dall'[art. 70 del decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md). Avverso il suddetto avviso di liquidazione e' ammesso il ricorso alle competenti commissioni tributarie ai sensi del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
 
 ## Art. 6.
 

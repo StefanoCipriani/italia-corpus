@@ -102,7 +102,7 @@ Il segretario generale compie tutti gli atti di ordinaria amministrazione, che n
 
 Il personale occorrente all'Istituto e' assunto con contratto d'impiego privato, dal Comitato direttivo. 
  
- Funzionari di ruolo dipendenti dal Ministero dell'economia nazionale o da altre Amministrazioni dello Stato possono essere comandati presso l'Istituto nei casi e con le norme stabilite dall'[art. 101, comma 2°, del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101-com2), od anche, nei limiti di cui all'[art. 3 del R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_3), destinati a prestar servizio presso l'Istituto medesimo e collocati fuori ruolo. Le competenze di tali funzionari saranno a carico del bilancio dell'Istituto.
+ Funzionari di ruolo dipendenti dal Ministero dell'economia nazionale o da altre Amministrazioni dello Stato possono essere comandati presso l'Istituto nei casi e con le norme stabilite dall'[art. 101, comma 2°, del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), od anche, nei limiti di cui all'[art. 3 del R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387#art_3), destinati a prestar servizio presso l'Istituto medesimo e collocati fuori ruolo. Le competenze di tali funzionari saranno a carico del bilancio dell'Istituto.
 
 ## Art. 11.
 

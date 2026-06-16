@@ -42,7 +42,7 @@ Emana il seguente decreto-legge:
 
 In considerazione del perdurare degli effetti economici derivanti dall'eccezionale incremento dei prezzi dei prodotti energetici, a decorrere dal 4 novembre 2022 e fino al 18 novembre 2022:
                         a)
-                            le aliquote di accisa, di cui all'allegato I al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), dei sotto indicati prodotti sono rideterminate nelle seguenti misure: 
+                            le aliquote di accisa, di cui all'allegato I al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), dei sotto indicati prodotti sono rideterminate nelle seguenti misure: 
  1) benzina: 478,40 euro per mille litri; 
  2) oli da gas o gasolio usato come carburante: 367,40 euro per mille litri; 
  3) gas di petrolio liquefatti (GPL) usati come carburanti: 182,61 euro per mille chilogrammi; 

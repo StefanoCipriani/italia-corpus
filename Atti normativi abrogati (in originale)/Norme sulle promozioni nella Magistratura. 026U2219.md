@@ -65,7 +65,7 @@ Gli scrutini per le promozioni in Corte di appello hanno luogo in anticipazione 
  
  I promovibili sono classificati in tre categorie: promuovibili per merito distinto, promovibili per merito e promovibili per anzianita' congiunta al merito. 
  
- Gli scrutini in anticipazione hanno luogo per l'attribuzione della sola qualifica di merito distinto, secondo il bisogno, su richiesta del Ministro per la giustizia; sono ammessi allo scrutinio i giudici e i sostituti procuratori del Re, i quali abbiano almeno 17 anni di servizio effettivo, e che non siano stati ancora scrutinati in anticipazione, salvo il disposto del 2° comma dell'art. 6. Per l'ammissione a tali scrutini occorre una deliberazione motivata del Consiglio giudiziario presso la Corte di appello, giusta gli [articoli 116](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [117 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). L'ammissione puo' essere concessa solo ai magistrati che si distinguano per eminenti doti di cultura, diligenza e carattere. 
+ Gli scrutini in anticipazione hanno luogo per l'attribuzione della sola qualifica di merito distinto, secondo il bisogno, su richiesta del Ministro per la giustizia; sono ammessi allo scrutinio i giudici e i sostituti procuratori del Re, i quali abbiano almeno 17 anni di servizio effettivo, e che non siano stati ancora scrutinati in anticipazione, salvo il disposto del 2° comma dell'art. 6. Per l'ammissione a tali scrutini occorre una deliberazione motivata del Consiglio giudiziario presso la Corte di appello, giusta gli [articoli 116](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md) e [117 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). L'ammissione puo' essere concessa solo ai magistrati che si distinguano per eminenti doti di cultura, diligenza e carattere. 
  
  Gli scrutini per turno di anzianita' hanno luogo per l'attribuzione di qualunque delle tre qualifiche di promovibile, secondo il bisogno, su richiesta del Ministro per la giustizia, il quale determina, volta per volta, il numero dei magistrati da sottoporsi a scrutinio. 
  
@@ -75,7 +75,7 @@ Gli scrutini per le promozioni in Corte di appello hanno luogo in anticipazione 
 
 I vincitori del concorso di cui all'art. 3 sono promossi con precedenza su ogni altra categoria di promovibili. 
  
- Le alte promozioni hanno luogo, salvo il giudizio del Ministro, secondo l'ordine degli elenchi, che verra' osservato distintamente per le promozioni nella giudicante e per quelle nella requirente, ai sensi dell'[art. 123 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). 
+ Le alte promozioni hanno luogo, salvo il giudizio del Ministro, secondo l'ordine degli elenchi, che verra' osservato distintamente per le promozioni nella giudicante e per quelle nella requirente, ai sensi dell'[art. 123 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md). 
  
  Le promozioni in seguito a scrutinio, da disporre entro l'anno, sono riservate per un decimo ai promovibili per merito distinto, per sei decimi ai promovibili per merito e per due decimi ai promovibili per anzianita' congiunta al merito. 
  
@@ -208,7 +208,7 @@ A tutti gli effetti, le qualifiche di promovibile a scelta e di promovibile semp
  
  Ai vincitori del concorso ai posti di consigliere di Corte di cassazione e ai gradi parificati, indetto con decreto Ministeriale 15 aprile 1926, si applicano, per la promozione, le norme in vigore prima della pubblicazione del presente decreto. 
  
- Nella prima applicazione del presente decreto hanno, in ogni caso, diritto di partecipare allo scrutinio per la Cassazione, anche se non compresi entro il numero stabilito, ai termini dell'art. 8, i consiglieri di appello e parificati che, nei concorsi di merito per la Cassazione, indetti secondo il [R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), abbiano riportato dichiarazione di idoneita'.
+ Nella prima applicazione del presente decreto hanno, in ogni caso, diritto di partecipare allo scrutinio per la Cassazione, anche se non compresi entro il numero stabilito, ai termini dell'art. 8, i consiglieri di appello e parificati che, nei concorsi di merito per la Cassazione, indetti secondo il [R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), abbiano riportato dichiarazione di idoneita'.
 
 ## Art. 14.
 

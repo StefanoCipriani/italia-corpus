@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [Regio Decreto 15 gennaio 1871, n. 11](Che%20approva%20la%20Tabella%20dei%20Comuni%20isolati%20e%20dei%20Consorzi%20nella%20Provincia%20di%20Roma%20per%20lapplicazione%20della%20imposta%20sui%20redditi%20della%20ricchezza%20mobile.%20071U0011.md) (Serie 2ª), col quale fu approvata la Tabella dei Consorzi e Comuni isolati per l'applicazione della imposta sui redditi di ricchezza mobile nella Provincia di Roma;
 
-Visto il [Regio Decreto 24 febbraio 1871, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-02-24;83) (Serie 2ª), che rettifica la Tabella delle Preture della Provincia stessa;
+Visto il [Regio Decreto 24 febbraio 1871, n. 83](../Regi%20decreti/Col%20quale%20e%20rettificata%20la%20Tabella%20A%20annessa%20al%20Decreto%203%20dicembre%201870%20nella%20parte%20concernente%20le%20Preture%20ed%20i%20Comuni%20di%20Cori%20e%20Valmontone.%20071U0083.md) (Serie 2ª), che rettifica la Tabella delle Preture della Provincia stessa;
 
 Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 

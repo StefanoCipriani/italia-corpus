@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-A decorrere dal 1 ottobre 1956 gli assegni familiari per il settore dell'agricoltura, previsti dalla tabella B allegata al testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), sono aumentati di lire 30 per ciascun figlio, lire 15 per il coniuge e lire 10 per ciascun ascendente nei confronti dei lavoratori non aventi qualifica impiegatizia, e di lire 21 per ciascun figlio e lire 23 per il coniuge nei confronti dei lavoratori aventi qualifica impiegatizia.
+A decorrere dal 1 ottobre 1956 gli assegni familiari per il settore dell'agricoltura, previsti dalla tabella B allegata al testo unico delle norme sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), sono aumentati di lire 30 per ciascun figlio, lire 15 per il coniuge e lire 10 per ciascun ascendente nei confronti dei lavoratori non aventi qualifica impiegatizia, e di lire 21 per ciascun figlio e lire 23 per il coniuge nei confronti dei lavoratori aventi qualifica impiegatizia.
 
 ## Art. 2.
 

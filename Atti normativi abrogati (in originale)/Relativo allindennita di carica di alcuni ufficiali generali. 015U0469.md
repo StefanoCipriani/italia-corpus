@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
+Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e successive modificazioni;
 
-Visto il [R. decreto 28 giugno 1914, n. 635](Col%20quale%20viene%20apportata%20unaggiunta%20al%20R.%20decreto%2012%20agosto%201910%20n.%20600%20che%20stabilisce%20le%20cariche%20corrispondenti%20a%20quella%20di%20comandante%20di%20corpo%20darmata.%20014U0635.md), che aggiunge alle cariche corrispondenti a quella di comandante di corpo d'armata la carica di ispettore capo di sanita' militare ;
+Visto il [R. decreto 28 giugno 1914, n. 635](../Regi%20decreti/Col%20quale%20viene%20apportata%20unaggiunta%20al%20R.%20decreto%2012%20agosto%201910%20n.%20600%20che%20stabilisce%20le%20cariche%20corrispondenti%20a%20quella%20di%20comandante%20di%20corpo%20darmata.%20014U0635.md), che aggiunge alle cariche corrispondenti a quella di comandante di corpo d'armata la carica di ispettore capo di sanita' militare ;
 
 Visto lo stato di previsione della spesa per il Ministero della guerra, il cui esercizio provvisorio fu autorizzato con la [legge 26 giugno 1914, n. 578](Che%20autorizza%20ad%20esercitare%20in%20via%20provvisoria%20gli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201914-915%20che%20non%20fossero%20tradotti%20in%20legge%20entro%20il%2030%20giugno%201914.%20014U0578.md), e confermato con l'altra del 16 dicembre 1914, n. 1354 ;
 

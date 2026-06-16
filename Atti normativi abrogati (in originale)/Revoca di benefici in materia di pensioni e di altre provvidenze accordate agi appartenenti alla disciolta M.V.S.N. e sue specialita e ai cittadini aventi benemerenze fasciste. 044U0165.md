@@ -22,11 +22,11 @@ Vista la [legge 24 dicembre 1925, n. 2275](Pensioni%20alle%20famiglie%20dei%20ca
 
 Vista la [legge 24 marzo 1930, n. 454](Estensione%20ai%20cittadini%20divenuti%20invalidi%20per%20la%20causa%20nazionale%20delle%20disposizioni%20delle%20leggi%2025%20marzo%201917%20n.%20481%2021%20agosto%201921%20n.%201312%20e%203%20dicembre%201925%20n.%202151%20e%20di%20ogni%20altra%20dispo_3f26f1bd6bcc.md);
 
-Visto il [R. decreto 13 gennaio 1931, n. 62](Nuovo%20statuto%20dellOpera%20di%20previdenza%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20031U0062.md), e successive modificazioni;
+Visto il [R. decreto 13 gennaio 1931, n. 62](../Regi%20decreti/Nuovo%20statuto%20dellOpera%20di%20previdenza%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20031U0062.md), e successive modificazioni;
 
 Vista la [legge 12 giugno 1931, n. 777](Estensione%20agli%20orfani%20ed%20agli%20altri%20congiunti%20dei%20caduti%20per%20la%20causa%20nazionale%20di%20tutte%20le%20provvidenze%20emanate%20in%20favore%20degli%20orfani%20e%20dei%20congiunti%20dei%20caduti%20in%20guerra.%20031U0777.md);
 
-Visto il [R. decreto 15 luglio 1938, n. 1282](Approvazione%20del%20nuovo%20statuto%20della%20Sezione%20per%20assegni%20vitalizi%20dellOpera%20di%20previdenza%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20038U1282.md);
+Visto il [R. decreto 15 luglio 1938, n. 1282](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Sezione%20per%20assegni%20vitalizi%20dellOpera%20di%20previdenza%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20038U1282.md);
 
 Visto. il [R. decreto-legge 6 dicembre 1943, n. 16/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1943-12-06;16);
 
@@ -59,7 +59,7 @@ Le pensioni e gli assegni di guerra o privilegiati ordinari, diretti o indiretti
 
 ## Art. 3.
 
-L'Opera di previdenza della milizia, eretta in ente morale con [R. decreto 27 marzo 1924, n. 482](Erezione%20in%20Ente%20morale%20dellOpera%20di%20previdenza%20sociale%20a%20favore%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20024U0482.md), e' sciolta. La relativa liquidazione e' affidata al Ministero del tesoro. 
+L'Opera di previdenza della milizia, eretta in ente morale con [R. decreto 27 marzo 1924, n. 482](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellOpera%20di%20previdenza%20sociale%20a%20favore%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20024U0482.md), e' sciolta. La relativa liquidazione e' affidata al Ministero del tesoro. 
  
  Le operazioni di liquidazione della « Sezione per indennita' e sussidi » dell'ente suddetto devono tenersi distinte da quelle della « Sezione per assegni vitalizi » a carico della quale dovranno porsi i rimborsi di cui al successivo articolo quattro. Qualora il patrimonio della « Sezione assegni vitalizi » non risultasse sufficiente per effettuare i rimborsi predetti, potra' all'uopo essere utilizzato quello risultante dalla liquidazione dell'altra sezione. 
  

@@ -134,7 +134,7 @@ Capo IV.
 
 ### Art. 13. — Casi nei quali i testimoni possono, durante l'istruzione, essere sentiti con giuramento.
 
-Il pubblico ministero o il giudice istruttore, oltre che nei casi indicati nell'[art. 360 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito puo', in sede di istruzione, sentire con giuramento il testimone, quando ritenga che la comparizione di questo in giudizio possa incontrare gravi difficolta' per la distanza della sua residenza dal luogo dove dovrebbe svolgersi il dibattimento, o per ragioni di servizio, o per altro grave motivo, di cui deve essere dato atto nel processo verbale. 
+Il pubblico ministero o il giudice istruttore, oltre che nei casi indicati nell'[art. 360 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito puo', in sede di istruzione, sentire con giuramento il testimone, quando ritenga che la comparizione di questo in giudizio possa incontrare gravi difficolta' per la distanza della sua residenza dal luogo dove dovrebbe svolgersi il dibattimento, o per ragioni di servizio, o per altro grave motivo, di cui deve essere dato atto nel processo verbale. 
  
  I testi interrogati in tal modo, se compresi nelle liste, sono dispensati dal comparire al pubblico dibattimento, dandosi lettura in giudizio del processo verbale redatto in sede di istruzione.
 Tuttavia, il presidente puo' ordinarne la comparizione, se il pubblico ministero o l'imputato lo richiedano in tempo utile per motivi che egli reputi fondati.

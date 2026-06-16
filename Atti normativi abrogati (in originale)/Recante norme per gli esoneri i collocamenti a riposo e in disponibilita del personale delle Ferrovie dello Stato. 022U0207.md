@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[articolo 13 della legge 13 agosto 1921, numero 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md), recante provvedimenti per la riforma delle amministrazioni dello Stato, la semplificazione dei servizi e la riduzione del personale;
 
-Visto l'[articolo 4 del Regio decreto 20 ottobre 1921, n. 1533](Che%20estende%20alla%20Amministrazione%20delle%20ferrovie%20dello%20Stato%20lapplicazione%20della%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20della%20pubblica%20amministrazione.%20021U1533.md);
+Visto l'[articolo 4 del Regio decreto 20 ottobre 1921, n. 1533](../Regi%20decreti/Che%20estende%20alla%20Amministrazione%20delle%20ferrovie%20dello%20Stato%20lapplicazione%20della%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20della%20pubblica%20amministrazione.%20021U1533.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -64,7 +64,7 @@ Con decreto Ministeriale sara' costituita per ognuno dei seguenti servizi o grup
  
  una Commissione con l'incarico di formulare le proposte definitive di esonero pei funzionari ed agenti di grado dal 2° al 14°. 
  
- Ogni Commissione sara' composta di un consigliere di Stato, designato dal presidente del Consiglio medesimo, di tre funzionari di grado non inferiore al 3°, dei quali uno appartenente al servizio ed unita' da cui dipende il funzionario o l'agente, nonche' di un funzionario od agente dello stesso grado di quelli da esonerare; i quattro membri appartenenti al personale ferroviario saranno designati nel modo indicato dall'[art. 4 del R. decreto 20 ottobre 1921, n. 1411](Che%20reca%20le%20norme%20per%20gli%20esoneri%20degli%20impiegati%20ed%20agenti%20dello%20Stato%20in%20esecuzione%20della%20legge%2013%20agosto%201921%20n.%201080.%20021U1411.md). 
+ Ogni Commissione sara' composta di un consigliere di Stato, designato dal presidente del Consiglio medesimo, di tre funzionari di grado non inferiore al 3°, dei quali uno appartenente al servizio ed unita' da cui dipende il funzionario o l'agente, nonche' di un funzionario od agente dello stesso grado di quelli da esonerare; i quattro membri appartenenti al personale ferroviario saranno designati nel modo indicato dall'[art. 4 del R. decreto 20 ottobre 1921, n. 1411](../Regi%20decreti/Che%20reca%20le%20norme%20per%20gli%20esoneri%20degli%20impiegati%20ed%20agenti%20dello%20Stato%20in%20esecuzione%20della%20legge%2013%20agosto%201921%20n.%201080.%20021U1411.md). 
  
  Le funzioni di presidente saranno esercitate dal consigliere di Stato. 
  
@@ -104,7 +104,7 @@ I funzionari ed agenti esonerati dal servizio per i motivi e con la procedura in
 
 ## Art. 10.
 
-Dopo attuati gli esoneri e i collocamenti a riposo, qualora il personale in servizio risulti ancora in eccedenza al numero dei posti che saranno fissati come all'[art. 1 del R. decreto 20 ottobre 1921, n. 1533](Che%20estende%20alla%20Amministrazione%20delle%20ferrovie%20dello%20Stato%20lapplicazione%20della%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20della%20pubblica%20amministrazione.%20021U1533.md), per i diversi gradi e qualifiche, il Consiglio di amministrazione, su proposta del direttore generale, designera', non oltre dieci mesi dalla data della pubblicazione del presente decreto, per ciascun grado e qualifica, i funzionari ed agenti che, fino alla eliminazione dell'eccedenza, debbono essere collocati in disponibilita'. 
+Dopo attuati gli esoneri e i collocamenti a riposo, qualora il personale in servizio risulti ancora in eccedenza al numero dei posti che saranno fissati come all'[art. 1 del R. decreto 20 ottobre 1921, n. 1533](../Regi%20decreti/Che%20estende%20alla%20Amministrazione%20delle%20ferrovie%20dello%20Stato%20lapplicazione%20della%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20della%20pubblica%20amministrazione.%20021U1533.md), per i diversi gradi e qualifiche, il Consiglio di amministrazione, su proposta del direttore generale, designera', non oltre dieci mesi dalla data della pubblicazione del presente decreto, per ciascun grado e qualifica, i funzionari ed agenti che, fino alla eliminazione dell'eccedenza, debbono essere collocati in disponibilita'. 
  
  Il Consiglio di amministrazione provvedera' a tale designazione con deliberazione motivata, tenute conto dei vari elementi indicati nel [secondo comma dell'articolo 7 della legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md). 
  

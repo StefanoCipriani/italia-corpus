@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [R. decreto 16 dicembre 1940, n. 1729](Nomina%20di%20commissari%20commerciali%20allestero.%20040U1729.md), concernente la nomina dei commissari commerciali all'estero, e' abrogato dalla data di entrata in vigore della determinazione commissariale 22 settembre 1943, n. 753. 
+Il [R. decreto 16 dicembre 1940, n. 1729](../Regi%20decreti/Nomina%20di%20commissari%20commerciali%20allestero.%20040U1729.md), concernente la nomina dei commissari commerciali all'estero, e' abrogato dalla data di entrata in vigore della determinazione commissariale 22 settembre 1943, n. 753. 
  E' confermata con decorrenza dal 1° novembre 1943 la cessazione degli incarichi di commissario commerciale all'estero esistenti alla data medesima, disposta con la determinazione commissariale predetta.
 
 ## Art. 2.

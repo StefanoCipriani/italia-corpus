@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA.
 
-Veduto il [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle amministrazioni dello Stato, e successive estensioni e modificazioni;
+Veduto il [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle amministrazioni dello Stato, e successive estensioni e modificazioni;
 
 Veduto il testo unico di legge sul trattamento economico e giuridico dei salariati dello Stato approvato con [Regio decreto 21 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-21;2114);
 
@@ -24,7 +24,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro degli affari 
 
 ## Art. 1.
 
-Il supplemento di servizio attivo del personale fuori quadro e di quello appartenente ai gruppi A, B e C dell'ordinamento gerarchico, di cui al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e' aumentato, per i singoli gradi, delle somme di seguito indicate: 
+Il supplemento di servizio attivo del personale fuori quadro e di quello appartenente ai gruppi A, B e C dell'ordinamento gerarchico, di cui al [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e' aumentato, per i singoli gradi, delle somme di seguito indicate: 
  
  Grado 1° . . . L. 9,000 
  » 2° . . . » 8,000 
@@ -55,7 +55,7 @@ Il supplemento di servizio attivo del personale fuori quadro e di quello apparte
  
  4° le retribuzioni orarie per lezioni od esami, spettanti ai professori supplenti ed incaricati delle Regie scuole medie e degli altri istituti d'istruzione, dipendenti dalle amministrazioni dello Stato. 
  
- Gli aumenti di cui al primo comma del presente articolo sono estesi, in misura ridotta a tre quarti, agli ufficiali delle categorie in congedo di cui al [primo comma dell'art. 158 del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ Gli aumenti di cui al primo comma del presente articolo sono estesi, in misura ridotta a tre quarti, agli ufficiali delle categorie in congedo di cui al [primo comma dell'art. 158 del Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Gli aumenti concessi alla prima applicazione del presente decreto, nel grado ricoperto alla entrata in vigore del decreto medesimo, non sono calcolati ai fini del riassorbimento degli assegni personali. 
  
@@ -63,7 +63,7 @@ Il supplemento di servizio attivo del personale fuori quadro e di quello apparte
 
 ## Art. 2.
 
-Le disposizioni del presente decreto si applicano anche al personale appartenente ad istituzioni mantenute col concorso dello Stato e di Enti locali, compreso nell'allegato VIII al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni. 
+Le disposizioni del presente decreto si applicano anche al personale appartenente ad istituzioni mantenute col concorso dello Stato e di Enti locali, compreso nell'allegato VIII al [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni. 
  
  La maggiore spesa occorrente per l'applicazione del presente articolo e' ripartita tra i vari Enti in proporzione del contributo da essi corrisposto.
 

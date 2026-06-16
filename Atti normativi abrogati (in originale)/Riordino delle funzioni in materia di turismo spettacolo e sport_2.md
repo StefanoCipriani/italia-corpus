@@ -126,11 +126,11 @@ Il personale dipendente del soppresso Ministero del turismo e dello spettacolo, 
 
 2.
 
-I dipendenti di amministrazioni diverse, comandati presso il soppresso Ministero del turismo e dello spettacolo, possono chiedere l'inquadramento nei ruoli aggiunti di cui al comma 1, a norma dell'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+I dipendenti di amministrazioni diverse, comandati presso il soppresso Ministero del turismo e dello spettacolo, possono chiedere l'inquadramento nei ruoli aggiunti di cui al comma 1, a norma dell'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 3.
 
-Il personale del soppresso Ministero del turismo e dello spettacolo che, alla data di entrata in vigore del presente decreto, presta servizio presso altre amministrazioni in posizione di comando puo' richiedere di essere inquadrato nei ruoli dell'amministrazione ove presta servizio, con il consenso di quest'ultima, nei termini e con le modalita' di cui all'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Il personale del soppresso Ministero del turismo e dello spettacolo che, alla data di entrata in vigore del presente decreto, presta servizio presso altre amministrazioni in posizione di comando puo' richiedere di essere inquadrato nei ruoli dell'amministrazione ove presta servizio, con il consenso di quest'ultima, nei termini e con le modalita' di cui all'articolo 199 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 4.
 
@@ -162,7 +162,7 @@ Gli oneri derivanti dal presente decreto restano contenuti nei limiti delle riso
 
 1.
 
-Entro sei mesi dalla data di entrata in vigore del presente decreto il Governo e' tenuto ad adeguare la disciplina recata dall'[articolo 4 del regio decreto 24 maggio 1925, n. 1102](Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), alle disposizioni della vigente disciplina comunitaria.
+Entro sei mesi dalla data di entrata in vigore del presente decreto il Governo e' tenuto ad adeguare la disciplina recata dall'[articolo 4 del regio decreto 24 maggio 1925, n. 1102](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), alle disposizioni della vigente disciplina comunitaria.
 
 ## Art. 8. — Entrata in vigore
 

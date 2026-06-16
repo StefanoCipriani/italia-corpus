@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vedute le [leggi 18 agosto 1870 n. 5821 e 5 luglio 1882 n. 880](Sulla%20riforma%20della%20tariffa%20telegrafica%20082U0880.md) ed il [Regio decreto 11 aprile 1875 n. 2442](Col%20quale%20e%20approvato%20il%20regolamento%20pel%20servizio%20interno%20dei%20telegrafi.%20075U2442.md);
 
-Veduto il [Regio decreto 9 agosto 1876 n. 3296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-08-09;3296) col quale furono estese alla corrispondenza telegrafica nell'interno del Regno le norme pel servizio internazionale contenute nella convenzione telegrafica firmata a Pietroburgo;
+Veduto il [Regio decreto 9 agosto 1876 n. 3296](../Regi%20decreti/che%20estende%20alla%20corrispondenza%20telegrafica%20nellinterno%20del%20Regno%20le%20norme%20per%20servizio%20internazionale%20contenute%20nella%20convenzione%20telegrafica%20di%20Pietroburgo%20approvata%20con%20decreto%20del%201%20g_483dd9f3e906.md) col quale furono estese alla corrispondenza telegrafica nell'interno del Regno le norme pel servizio internazionale contenute nella convenzione telegrafica firmata a Pietroburgo;
 
 Veduto il [Regio decreto 20 giugno 1886 n. 3961](Che%20da%20piena%20ed%20intera%20esecuzione%20allannesso%20regolamento%20telegrafico%20internazionale%20firmato%20a%20Berlino%20il%2017%20settembre%201885.%20086U3961.md) col quale fu approvato e reso esecutorio il regolamento telegrafico internazionale firmato a Berlino;
 

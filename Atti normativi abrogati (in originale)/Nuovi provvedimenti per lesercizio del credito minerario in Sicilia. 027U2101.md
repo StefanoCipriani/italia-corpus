@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto-legge 26 maggio 1918, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1918-05-26;739), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), ed il [R. decreto 2 ottobre 1919, n. 1955](Che%20in%20esecuzione%20dellart.%2017%20del%20decreto-legge%20Luogotenenziale%2026%20maggio%201918%20n.%20739%20autorizza%20la%20Banca%20autonoma%20di%20credito%20agrario%20per%20la%20Sicilia%20a%20consentire%20prestiti%20agli%20esercenti%20ed_29fe755f4981.md);
+Visto il [R. decreto-legge 26 maggio 1918, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1918-05-26;739), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), ed il [R. decreto 2 ottobre 1919, n. 1955](../Regi%20decreti/Che%20in%20esecuzione%20dellart.%2017%20del%20decreto-legge%20Luogotenenziale%2026%20maggio%201918%20n.%20739%20autorizza%20la%20Banca%20autonoma%20di%20credito%20agrario%20per%20la%20Sicilia%20a%20consentire%20prestiti%20agli%20esercenti%20ed_29fe755f4981.md);
 
 Visto il [R. decreto-legge 25 marzo 1927, n. 435](Fusione%20della%20Banca%20autonoma%20di%20credito%20minerario%20per%20la%20Sicilia%20col%20Banco%20di%20Sicilia.%20027U0435.md);
 
@@ -72,7 +72,7 @@ Per il recupero dei propri crediti, l'Istituto ha altresi' il diritto di procede
 
 ## Art. 6.
 
-Quando il debitore distrae gli oggetti sottoposti a privilegio, incorre nel reato previsto dall'[art. 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Quando il debitore distrae gli oggetti sottoposti a privilegio, incorre nel reato previsto dall'[art. 203 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

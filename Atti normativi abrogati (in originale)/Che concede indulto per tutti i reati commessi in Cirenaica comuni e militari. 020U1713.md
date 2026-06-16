@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 20 marzo 1913, n. 289](Col%20quale%20vengono%20approvati%20gli%20annessi%20ordinamento%20giudiziario%20e%20disposizioni%20relative%20alle%20leggi%20da%20applicarsi%20in%20Libia.%20013U0289.md); 
  
- Visto l'[art. 87 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_590) e [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591); 
+ Visto l'[art. 87 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_590) e [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591); 
  
  Ritenuta l'opportunita' di solennizzare l'accordo intervenuto con la Senussia e di consacrare l'avvenuta pacificazione della Cirenaica, con la concessione di un indulto per i reati comuni e militari pei quali siano stati scontati due terzi della pena ed i condannati abbiano tenuta buona condotta; 
  

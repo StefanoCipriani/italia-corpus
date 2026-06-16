@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -24,7 +24,7 @@ Riconosciuta la necessita' di istituire un ruolo di architetti del Real corpo de
 
 Vista la [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395), concernente la tutela del titolo e dell'esercizio professionale degli ingegneri e degli architetti;
 
-Visto il [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537), con il quale e' stato approvato il regolamento per le professioni di ingegnere e di architetto;
+Visto il [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md), con il quale e' stato approvato il regolamento per le professioni di ingegnere e di architetto;
 
 Visto il [R. decreto 12 giugno 1931, n. 915](Approvazione%20dei%20ruoli%20del%20personale%20dellAmministrazione%20dei%20lavori%20pubblici%20in%20applicazione%20dei%20Regi%20decreti%209%20agosto%201929%20n.%201457%20e%2024%20luglio%201930%20n.%201088.%20031U0915.md), e successive variazioni, concernente i nuovi ruoli dell'Amministrazione dei lavori pubblici;
 
@@ -112,7 +112,7 @@ La Commissione esaminatrice, nominata per ogni concorso con decreto del Ministro
 
 ### Art. 11.
 
-Per quanto riguarda il procedimento degli esami devon essere osservate le disposizioni del capo 6° del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni.
+Per quanto riguarda il procedimento degli esami devon essere osservate le disposizioni del capo 6° del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
 
 ### Art. 12.
 
@@ -132,7 +132,7 @@ Nella prima attuazione del presente decreto i posti del ruolo organico degli arc
  
  1° essere forniti della laurea in architettura; 
  
- 2° avere ottenuto il titolo di architetto e il diritto all'iscrizione negli Albi degli architetti, ai sensi della [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395), e del regolamento approvato con il [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537). 
+ 2° avere ottenuto il titolo di architetto e il diritto all'iscrizione negli Albi degli architetti, ai sensi della [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395), e del regolamento approvato con il [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md). 
  
  Il concorso di cui al 1° comma del presente articolo avra' luogo per titoli e per esami. Gli esami consisteranno nelle seguenti prove: 
  
@@ -166,7 +166,7 @@ a) coloro che abbiano ottenuto la laurea in ingegneria non oltre il 1925, che si
  
  Per i concorrenti di cui sopra il limite di eta' e elevato ad anni 40: 
  
-b) coloro che, pur non essendo forniti della laurea in architettura, abbiano ottenuto il titolo di architetto ed il diritto all'iscrizione negli Albi in applicazione della [legge 21 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-21;1395), e del regolamento approvato con il [R. decreto 23 ottobre 1925, n. 2537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2537).
+b) coloro che, pur non essendo forniti della laurea in architettura, abbiano ottenuto il titolo di architetto ed il diritto all'iscrizione negli Albi in applicazione della [legge 21 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-21;1395), e del regolamento approvato con il [R. decreto 23 ottobre 1925, n. 2537](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20professioni%20dingegnere%20e%20di%20architetto.%20025U2537.md).
 
 ### Art. 17.
 

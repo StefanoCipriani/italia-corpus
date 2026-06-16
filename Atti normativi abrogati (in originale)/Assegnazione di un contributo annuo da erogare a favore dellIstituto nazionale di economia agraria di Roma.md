@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 10 maggio 1928, n. 1418](Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), contenente le disposizioni relative alla costituzione e all'ordinamento dell' Istituto nazionale di economia, agraria;
+Visto il [regio decreto 10 maggio 1928, n. 1418](../Regi%20decreti/Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), contenente le disposizioni relative alla costituzione e all'ordinamento dell' Istituto nazionale di economia, agraria;
 
-Visto il [regio decreto 20 ottobre 1932, n. 1548](Attribuzione%20allIstituto%20nazionale%20di%20economia%20agraria%20e%20allIstituto%20centrale%20di%20statistica%20del%20Regno%20di%20una%20parte%20del%20patrimonio%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20032U1548.md), riguardante l'attribuzione all'istituto medesimo di una parte del patrimonio per la sperimentazione e la ricerca, agraria;
+Visto il [regio decreto 20 ottobre 1932, n. 1548](../Regi%20decreti/Attribuzione%20allIstituto%20nazionale%20di%20economia%20agraria%20e%20allIstituto%20centrale%20di%20statistica%20del%20Regno%20di%20una%20parte%20del%20patrimonio%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20032U1548.md), riguardante l'attribuzione all'istituto medesimo di una parte del patrimonio per la sperimentazione e la ricerca, agraria;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 3, 4 (1° comma) e 5 del [R. decreto 31 dicembre 1923, n. 3224](Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md), sono sostituiti i seguenti: 
+Agli articoli 3, 4 (1° comma) e 5 del [R. decreto 31 dicembre 1923, n. 3224](../Regi%20decreti/Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md), sono sostituiti i seguenti: 
  Art. 3. - Gli arruolati, che, a senso dell'[art. 1 della legge 8 gennaio 1931, n. 3](Modificazioni%20al%20vigente%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20031U0003.md), sono ascritti alle ferme minori di primo e di secondo grado, sono tenuti a frequentare e a compiere per intero i corsi allievi ufficiali di complemento. 
  Di essi, quelli ascritti alla ferma minore di primo grado hanno altresi' l'obbligo di conseguire anche in tempo di pace il grado di sottotenente di complemento e completare con tale grado gli obblighi di servizio. 
  Gli arruolati, che, a senso del suddetto articolo, sono ascritti alla ferma minore di terzo grado, ove non vengano dispensati dal compiere la ferma, sono tenuti a frequentare i corsi allievi ufficiali di complemento fino al compimento della ferma. Ai giovani che lo desiderano e' fatta facolta' di completare i corsi fino agli esami a sottotenenti di complemento. 
@@ -19,11 +19,11 @@ Agli articoli 3, 4 (1° comma) e 5 del [R. decreto 31 dicembre 1923, n. 3224](Ob
 
 ## Art. 2.
 
-L'[articolo 9 del R. decreto 31 dicembre 1923, n. 3224](Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md), e' abrogato.
+L'[articolo 9 del R. decreto 31 dicembre 1923, n. 3224](../Regi%20decreti/Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md), e' abrogato.
 
 ### Art. 3.
 
-Gli arruolati, che, a senso dell'art. 83 (abrogato con l'[articolo 16 della legge 8 gennaio 1931, n. 3](Modificazioni%20al%20vigente%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20031U0003.md)) del testo unico delle leggi sul reclutamento del Regio esercito approvato con [R. decreto 5 agosto 1927, n. 1437](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), e successive varianti, sono stati ascritti alla ferma minima, ove non vengano dispensati dal compiere la ferma, sono tenuti a frequentare i corsi allievi ufficiali di complemento fino al compimento della ferma. Ai giovani che lo desiderano e' fatta facolta' di completare i corsi suddetti fino agli esami a sottotenente di complemento. 
+Gli arruolati, che, a senso dell'art. 83 (abrogato con l'[articolo 16 della legge 8 gennaio 1931, n. 3](Modificazioni%20al%20vigente%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20031U0003.md)) del testo unico delle leggi sul reclutamento del Regio esercito approvato con [R. decreto 5 agosto 1927, n. 1437](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), e successive varianti, sono stati ascritti alla ferma minima, ove non vengano dispensati dal compiere la ferma, sono tenuti a frequentare i corsi allievi ufficiali di complemento fino al compimento della ferma. Ai giovani che lo desiderano e' fatta facolta' di completare i corsi suddetti fino agli esami a sottotenente di complemento. 
  Gli arruolati con titolo riconosciuto a ferma minima, ma non ammessi a detta ferma per mancanza del requisito dell'istruzione premilitare, e gli arruolati ammessi a ferma riducibile a senso degli articoli 81 e 82 (abrogati con l'[articolo 16 della legge 8 gennaio 1931, n. 3](Modificazioni%20al%20vigente%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20031U0003.md)) del citato testo unico delle leggi sul reclutamento, sono tenuti a compiere per intero i corsi allievi ufficiali di complemento. Per essi pero' il conseguimento del grado di sottotenente e' obbligatorio solo in caso di mobilitazione.
 
 ### Art. 4.

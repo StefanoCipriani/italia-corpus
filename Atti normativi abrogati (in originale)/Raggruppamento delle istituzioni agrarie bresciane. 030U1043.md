@@ -26,7 +26,7 @@ Visto l'art. 7 del R. decreto-legge 17 giugno 1926-IV, numero 1187;
 
 Vista la legge 7 gennaio 1929-VII, n. 7;
 
-Visto il [R. decreto 24 gennaio 1886, n. 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-01-24;2011) (serie 3a), che eresse in ente morale la Scuola pubblica di agricoltura «G. Pastori» in Brescia, fondata dal fu cav. dott. Giuseppe Pastori;
+Visto il [R. decreto 24 gennaio 1886, n. 2011](../Regi%20decreti/Che%20costituisce%20in%20corpo%20morale%20la%20scuola%20pubblica%20di%20agricoltura%20Pastori%20in%20Brescia%20e%20ne%20approva%20lo%20statuto.%208602011R.md) (serie 3a), che eresse in ente morale la Scuola pubblica di agricoltura «G. Pastori» in Brescia, fondata dal fu cav. dott. Giuseppe Pastori;
 
 Visti i [Regi decreti 25 ottobre 1889, n. 6520](Che%20autorizza%20la%20R.%20Scuola%20pratica%20di%20agricoltura%20in%20Brescia%20ad%20assumere%20la%20denominazione%20di%20R.%20Scuola%20pratica%20di%20agricoltura%20Pastori%20ed%20apposta%20modificazioni%20al%20regolamento%20organico%20dell_564f871736cb.md), e [9 maggio 1926, n. 1009](Nuovi%20rapporti%20tra%20la%20fondazione%20Scuola%20pubblica%20di%20agricoltura%20Pastori%20di%20Brescia%20e%20la%20Regia%20scuola%20agraria%20media%20G.%20Pastori%20della%20citta%20stessa.%20026U1009.md), con i quali il detto ente, ferma restando la sua personalita', stipulo' con lo Stato una convenzione per la quale la Regia scuola agraria esistente in Brescia assunse il nome di «G. Pastori»
 

@@ -14,7 +14,7 @@ VITTORIO EMANUELE III
  PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
  RE D'ITALIA 
  
- Visto il [R. decreto 17 marzo 1930, n. 303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-17;303), col quale il comune di Vallenoncello e' stato soppresso ed il rispettivo territorio aggregato a quello di Pordenone; 
+ Visto il [R. decreto 17 marzo 1930, n. 303](../Regi%20decreti/Unione%20del%20comune%20di%20Vallenoncello%20a%20quello%20di%20Pordenone.%20030U0303.md), col quale il comune di Vallenoncello e' stato soppresso ed il rispettivo territorio aggregato a quello di Pordenone; 
  Vista la deliberazione del podesta' di Pordenone rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Vallenoncello; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte di appello di Trieste; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

@@ -66,7 +66,7 @@ Quando non fossero sufficienti le domande dei riconosciuti idonei per coprire i 
  
  Agli ufficiali trasferiti effettivi nel personale dei depositi d' allevamento, spetta una sola razione foraggio e l'indennita' cavalli di L. 280. 
  
- Nel suddetto senso sono modificate le tabelle II, III e IV annesse alla legge sugli stipendi e assegni fissi pel R. esercito (testo unico approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md)). 
+ Nel suddetto senso sono modificate le tabelle II, III e IV annesse alla legge sugli stipendi e assegni fissi pel R. esercito (testo unico approvato con [R. decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md)). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

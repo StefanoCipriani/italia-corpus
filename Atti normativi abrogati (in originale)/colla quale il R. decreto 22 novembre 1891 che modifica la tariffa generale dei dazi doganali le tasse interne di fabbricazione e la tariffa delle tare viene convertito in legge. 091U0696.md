@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [Regio decreto 22 novembre 1891 n. 635](Che%20modifica%20la%20tariffa%20generale%20dei%20dazi%20doganali%20le%20tasse%20interne%20di%20fabbricazione%20e%20la%20tariffa%20delle%20tare.%20091U0635.md).
+E' convertito in legge il [Regio decreto 22 novembre 1891 n. 635](../Regi%20decreti/Che%20modifica%20la%20tariffa%20generale%20dei%20dazi%20doganali%20le%20tasse%20interne%20di%20fabbricazione%20e%20la%20tariffa%20delle%20tare.%20091U0635.md).
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Agli articoli 26 e 28 del testo unico della legge sugli spiriti, approvato con [
  
  Art. 26. La liquidazione della tassa e' fatta dall'Ufficio tecnico di finanza alla fine di ogni mese. 
  
- La riscossione viene eseguita nei modi e con le forme stabilite dal [Regio decreto del 14 maggio 1882 n. 740](Che%20stabilisce%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20082U0740.md) (serie 3ª), in due eguali rate quindicinali, a scadenza rispettiva di 15 giorni l'una, di un mese l'altra, dal di' della liquidazione. 
+ La riscossione viene eseguita nei modi e con le forme stabilite dal [Regio decreto del 14 maggio 1882 n. 740](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20la%20riscossione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20082U0740.md) (serie 3ª), in due eguali rate quindicinali, a scadenza rispettiva di 15 giorni l'una, di un mese l'altra, dal di' della liquidazione. 
  
  I fabbricanti devono dare una cauzione corrispondente al presunto ammontare della tassa per una lavorazione di un bimestre. 
  

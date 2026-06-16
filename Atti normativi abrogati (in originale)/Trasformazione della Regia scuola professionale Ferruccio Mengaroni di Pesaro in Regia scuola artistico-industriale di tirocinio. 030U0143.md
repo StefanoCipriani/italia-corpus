@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 21 maggio 1924, n. 1200, art. 5, primo comma](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md);
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523);
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md);
 
 Visto l'art. 8, primo comma, del decreto predetto e l'articolo 4, secondo comma, del regolamento approvato con [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
 
@@ -40,7 +40,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-La Regia scuola professionale «Ferruccio Mengaroni» di Pesaro e' trasformata in Regia scuola artistico-industriale di tirocinio, con gli scopi e con l'ordinamento di cui all'[articolo 3 del R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_3).
+La Regia scuola professionale «Ferruccio Mengaroni» di Pesaro e' trasformata in Regia scuola artistico-industriale di tirocinio, con gli scopi e con l'ordinamento di cui all'[articolo 3 del R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md).
 
 ## Art. 2.
 

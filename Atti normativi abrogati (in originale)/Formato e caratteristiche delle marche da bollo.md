@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo della legge del bollo, e successive modificazioni;
+Visto il [regio decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo della legge del bollo, e successive modificazioni;
 
 Visto il [regio decreto-legge 11 maggio 1942, n. 501](Provvedimenti%20in%20materia%20di%20tasse%20di%20bollo.%20042U0501.md), convertito, con modificazioni, nella 26 novembre 1942, n. 1428;
 

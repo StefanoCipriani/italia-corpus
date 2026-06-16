@@ -20,7 +20,7 @@ Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Mi
 
 Visti i RR. decreti 2 luglio 1908, n. 325, 8 giugno 1911, n. 937, 20 marzo 1913, n. 289, coi quali furono approvati rispettivamente gli ordinamenti giudiziari dell'Eritrea, della Somalia e della Tripolitania e Cirenaica;
 
-Visti gli [articoli 86](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589) e [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591);
+Visti gli [articoli 86](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [87 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e gli [articoli 589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589) e [591 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_591);
 
 Sulla proposta del Nostro ministro segretario di Stato per le colonie, di concerto col Nostro ministro guardasigilli e con quelli della guerra e della marina;
 

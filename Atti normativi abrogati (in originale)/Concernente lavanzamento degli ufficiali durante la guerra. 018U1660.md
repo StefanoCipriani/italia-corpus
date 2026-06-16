@@ -12,7 +12,7 @@ vigente: true
 
 L'[art. 3 del decreto Luogotenenziale 11 luglio 1915, n. 1085](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1085#art_3), e' sostituito dal seguente: 
  
- Agli effetti del § 224 del regolamento approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), per l'applicazione della [legge 2 luglio 1896 n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), la Commissione compilatrice delle proposte d'avanzamento si comporra' delle autorita' gerarchiche, nel numero massimo di tre, dalle quali gli ufficiali dipendono all'atto del giudizio. Il numero di dette autorita' dovra' all'occorrenza ridursi in guisa da escludere: 
+ Agli effetti del § 224 del regolamento approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), per l'applicazione della [legge 2 luglio 1896 n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), la Commissione compilatrice delle proposte d'avanzamento si comporra' delle autorita' gerarchiche, nel numero massimo di tre, dalle quali gli ufficiali dipendono all'atto del giudizio. Il numero di dette autorita' dovra' all'occorrenza ridursi in guisa da escludere: 
  
  a) il comandante di divisione per le promozioni da sottotenente a tenente; 
  
@@ -49,7 +49,7 @@ Per il periodo della guerra il giudizio sull'idoneita' all'avanzamento degli uff
 ## Art. 3.
 
 Agli effetti delle disposizioni di cui ai precedenti articoli 1 e 2, le proposte di avanzamento debbono ritenersi valide anche quando le autorita' componenti la Commissione compilatrice non abbiano potuto riunirsi collegialmente per assoluti impedimenti di servizio.
-Il computo dei voti sara' in questo caso fatto con le norme di cui al n. 16 del regolamento per l'esecuzione della legge sull'avanzamento del R. esercito, approvato con [R. decreto 21 luglio 1907, numero 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md).
+Il computo dei voti sara' in questo caso fatto con le norme di cui al n. 16 del regolamento per l'esecuzione della legge sull'avanzamento del R. esercito, approvato con [R. decreto 21 luglio 1907, numero 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md).
 
 ## Art. 4.
 

@@ -34,7 +34,7 @@ Il termine di venti giorni stabilito dagli articoli 277 (5° comma), 282 (1° co
 
 ## Art. 2.
 
-Dopo l'art. 284 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' inserito un nuovo articolo «284-bis» del seguente tenore: 
+Dopo l'art. 284 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' inserito un nuovo articolo «284-bis» del seguente tenore: 
  
  «Contro le decisioni sulle controversie concernenti l'applicazione dei tributi locali omesse in sede di appello, dalla Giunta provinciale amministrativa, integrata ai sensi del precedente art. 283 (1° comma), salvo che non sia stabilito una speciale procedura nei capi riguardanti i singoli tributi predetti, e' ammesso ulteriore gravame, per soli motivi di legittimita', e nel termine di trenta giorni dalla notificazione delle decisioni stesse, alla Commissione centrale per le imposte dirette. 
  

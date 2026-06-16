@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il servizio prestato dagli appartenenti al Corpo degli agenti di custodia in qualita' di richiamato o di trattenuto nel Corpo stesso dal 10 giugno 1940 in poi, in base alla [legge 14 dicembre 1931, n. 1699](Disciplina%20di%20guerra.%20031U1699.md), sulla disciplina di guerra ed al regolamento approvato con [regio decreto 15 giugno 1933, n. 1176](Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2014%20dicembre%201931%20n.%201699%20sulla%20disciplina%20di%20guerra.%20033U1176.md), e' riconosciuto utile ai fini della pensione.
+Il servizio prestato dagli appartenenti al Corpo degli agenti di custodia in qualita' di richiamato o di trattenuto nel Corpo stesso dal 10 giugno 1940 in poi, in base alla [legge 14 dicembre 1931, n. 1699](Disciplina%20di%20guerra.%20031U1699.md), sulla disciplina di guerra ed al regolamento approvato con [regio decreto 15 giugno 1933, n. 1176](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2014%20dicembre%201931%20n.%201699%20sulla%20disciplina%20di%20guerra.%20033U1176.md), e' riconosciuto utile ai fini della pensione.
  Gli effetti economici di tale provvedimento decorrono dalla data di entrata in vigore della presente legge.
 
 ## Art. 2.

@@ -16,7 +16,7 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto fil [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+Visto fil [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Visto il [R. decreto-legge 13 gennaio 1938, n. 12](Nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0012.md), convertito nella [legge 31 marzo 1938, n. 543](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2013%20gennaio%201938-XVI%20n.%2012%20recante%20nuove%20assegnazioni%20finanziarie%20per%20la%20bonifica%20integrale.%20038U0543.md);
 

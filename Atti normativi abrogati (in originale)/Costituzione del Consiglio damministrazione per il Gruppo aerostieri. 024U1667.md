@@ -18,7 +18,7 @@ Vista la [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%
 
 Visto il regolamento per l'applicazione della predetta legge, approvato con [R. decreto 6 agosto 1911, n. 1413](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20011U1413.md);
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sulla contabilita' generale dello Stato ed il relativo regolamento approvato con [R. decreto 24 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-24;827);
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato ed il relativo regolamento approvato con [R. decreto 24 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-24;827);
 
 Sentito il Consiglio di Stato;
 

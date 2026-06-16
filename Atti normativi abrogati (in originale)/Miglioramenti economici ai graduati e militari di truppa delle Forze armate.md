@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), che approva il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi dell'Esercito e successive modificazioni;
+Visto il [regio decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), che approva il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi dell'Esercito e successive modificazioni;
 
 Visto il [regio decreto-legge 23 marzo 1944, n. 103](Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md), che stabilisce le paghe ordinarie dei militari di truppa dell' Esercito, della Marina e dell'Aeronautica, e successive modificazioni;
 
@@ -18,7 +18,7 @@ Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [regio decreto legislativo 31 maggio 1946, n. 489](Provvedimenti%20a%20favore%20dei%20sottocapi%20e%20comuni%20della%20Regia%20marina.md);
+Visto il [regio decreto legislativo 31 maggio 1946, n. 489](../Regi%20decreti%20legislativi/Provvedimenti%20a%20favore%20dei%20sottocapi%20e%20comuni%20della%20Regia%20marina.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 4 settembre 1946, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-04;239);
 
@@ -124,7 +124,7 @@ Le paghe ordinarie giornaliere dei sottocapi e comuni della Marina militare sono
 
 ## Art. 3.
 
-Ai graduati e militari di truppa delle Forze armate, vincolati a ferma speciale o raffermati, che siano ammogliati o vedovi con prole convivente ed a carico, minore ed inabile al lavoro, e' concessa dal 1° giugno 1947 una indennita' speciale di L. 1500 mensili nette oltre una indennita' complementare di L. 600 mensili nette, per la moglie e per ogni figlio convivente a carico, minore o inabile al lavoro, in sostituzione dell'indennita prevista dall'[art. 2 del regio decreto legislativo 31 maggio 1946, n. 489](Provvedimenti%20a%20favore%20dei%20sottocapi%20e%20comuni%20della%20Regia%20marina.md), dall'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 4 settembre 1946, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-04;239#art_2) e dall'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 6 settembre 1946, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;260#art_2).
+Ai graduati e militari di truppa delle Forze armate, vincolati a ferma speciale o raffermati, che siano ammogliati o vedovi con prole convivente ed a carico, minore ed inabile al lavoro, e' concessa dal 1° giugno 1947 una indennita' speciale di L. 1500 mensili nette oltre una indennita' complementare di L. 600 mensili nette, per la moglie e per ogni figlio convivente a carico, minore o inabile al lavoro, in sostituzione dell'indennita prevista dall'[art. 2 del regio decreto legislativo 31 maggio 1946, n. 489](../Regi%20decreti%20legislativi/Provvedimenti%20a%20favore%20dei%20sottocapi%20e%20comuni%20della%20Regia%20marina.md), dall'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 4 settembre 1946, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-04;239#art_2) e dall'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 6 settembre 1946, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;260#art_2).
  L'indennita' di cui sopra e' ridotta a L. 600 per i militari provvisti di alloggio in natura, ferme restando le indennita' complementari.
  Ai militari stessi e' concessa altresi' per la moglie ed i figli a carico, con decorrenza dal primo giorno del mese successivo a quello della pubblicazione del presente decreto, l'indennita' caro-pane prevista dal [decreto legislativo del Capo provvisorio dello Stato 6 maggio 1947, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-06;433) e successive modificazioni.
 

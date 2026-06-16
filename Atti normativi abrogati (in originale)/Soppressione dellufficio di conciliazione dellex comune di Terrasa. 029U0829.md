@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 4 ottobre 1928, n. 2409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-04;2409), col quale il comune di Terrasa e' stato soppresso ed il rispettivo territorio aggregato a quello di Candia Lomellina; 
+ Visto il [R. decreto 4 ottobre 1928, n. 2409](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Candia%20Lomellina%20o%20Terrasa%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Candia%20Lomellina%20.%20028U2409.md), col quale il comune di Terrasa e' stato soppresso ed il rispettivo territorio aggregato a quello di Candia Lomellina; 
  
  Vista la deliberazione del commissario prefettizio di Candia Lomellina, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Terrasa; 
  

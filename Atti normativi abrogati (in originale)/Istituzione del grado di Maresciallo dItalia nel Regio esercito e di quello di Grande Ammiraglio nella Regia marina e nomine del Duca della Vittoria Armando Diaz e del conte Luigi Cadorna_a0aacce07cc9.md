@@ -42,7 +42,7 @@ A senso dell'art. 2, all'ammiraglio duca Paolo Thaon di Revel, Collare della SS.
 
 Ila Governo del Re e' autorizzato ad emanare le disposizioni occorrenti per stabilire le insegne e le altre dignita' spettanti ai gradi istituiti col presente decreto. 
  
- Il presente decreto non innova all'ordinamento gerarchico dell'Amministrazione dello Stato, stabilito col [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ Il presente decreto non innova all'ordinamento gerarchico dell'Amministrazione dello Stato, stabilito col [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Il presente decreto entra in vigore dalla sua data e sara' presentato al Parlamento per la conversione in legge. 
  

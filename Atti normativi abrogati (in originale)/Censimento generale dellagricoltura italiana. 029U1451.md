@@ -74,7 +74,7 @@ Le notizie raccolte in occasione dei censimenti sono vincolate al piu' scrupolos
 
 ## Art. 7.
 
-Chiunque, essendo a conoscenza, per ragioni del proprio ufficio, di notizie di carattere individuale rilevate nei censimenti, le comunichi ad altri o se ne serva a scopi privati, e' punito con l'ammenda fino a L. 3000, senza pregiudizio delle maggiori pene in cui fosse incorso per reati previsti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque, essendo a conoscenza, per ragioni del proprio ufficio, di notizie di carattere individuale rilevate nei censimenti, le comunichi ad altri o se ne serva a scopi privati, e' punito con l'ammenda fino a L. 3000, senza pregiudizio delle maggiori pene in cui fosse incorso per reati previsti nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 

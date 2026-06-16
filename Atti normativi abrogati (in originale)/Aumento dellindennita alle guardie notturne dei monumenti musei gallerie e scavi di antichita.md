@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 7 agosto 1909, n. 668](Che%20approva%20lannesso%20regolamento%20per%20il%20servizio%20della%20guardia%20notturna%20nelle%20gallerie%20nei%20musei%20archeologici%20nei%20monumenti%20e%20negli%20scavi%20di%20antichita.%20009U0668.md);
+Visto il [regio decreto 7 agosto 1909, n. 668](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20servizio%20della%20guardia%20notturna%20nelle%20gallerie%20nei%20musei%20archeologici%20nei%20monumenti%20e%20negli%20scavi%20di%20antichita.%20009U0668.md);
 
 Visto il [regio decreto-legge 27 ottobre 1918, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1918-10-27;1868);
 
-Visto il [regio decreto 21 luglio 1921, n. 1262](Che%20aumenta%20la%20retribuzione%20per%20il%20servizio%20di%20guardia%20notturna%20a%20favore%20dei%20custodi%20delle%20antichita%20e%20belle%20arti.%20021U1262.md);
+Visto il [regio decreto 21 luglio 1921, n. 1262](../Regi%20decreti/Che%20aumenta%20la%20retribuzione%20per%20il%20servizio%20di%20guardia%20notturna%20a%20favore%20dei%20custodi%20delle%20antichita%20e%20belle%20arti.%20021U1262.md);
 
-Visto il [regio decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164);
+Visto il [regio decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

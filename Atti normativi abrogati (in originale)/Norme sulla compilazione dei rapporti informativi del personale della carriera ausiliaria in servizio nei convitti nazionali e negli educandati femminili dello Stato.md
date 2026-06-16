@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Articolo unico. — (Rapporto informativo per il personale della carriera ausiliaria)
 
-Il rapporto informativo per il personale della carriera ausiliaria in servizio nei convitti nazionali e negli educandati femminili dello Stato e' compilato in base agli elementi indicati nell'[art. 46 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), dal rettore o dalla direttrice, i quali esprimono anche il giudizio complessivo.
+Il rapporto informativo per il personale della carriera ausiliaria in servizio nei convitti nazionali e negli educandati femminili dello Stato e' compilato in base agli elementi indicati nell'[art. 46 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), dal rettore o dalla direttrice, i quali esprimono anche il giudizio complessivo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti, di osservarlo e di farlo osservare.
 

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato;
 
-Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), esteso alla Marina e alla Aeronautica con [decreto del Presidente della Repubblica 18 novembre 1965, n. 1482](Norme%20sullamministrazione%20e%20la%20contabilita%20degli%20Enti%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), esteso alla Marina e alla Aeronautica con [decreto del Presidente della Repubblica 18 novembre 1965, n. 1482](Norme%20sullamministrazione%20e%20la%20contabilita%20degli%20Enti%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Visto il decreto del Ministro per la difesa 7 agosto 1952, che ha approvato le condizioni generali d'oneri per l'appalto del servizio barbiere presso i corpi dell'Esercito;
 

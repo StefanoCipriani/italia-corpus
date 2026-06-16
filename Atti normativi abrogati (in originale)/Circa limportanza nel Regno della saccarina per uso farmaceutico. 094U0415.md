@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'art. 1° del [Regio decreto 29 settembre 1889, n. 6407](Che%20vieta%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinosi.%20089U6407.md) (serie 3ª), convalidato con la [legge del 15 maggio 1890, num. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md) (serie 3ª);
+Visto l'art. 1° del [Regio decreto 29 settembre 1889, n. 6407](../Regi%20decreti/Che%20vieta%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinosi.%20089U6407.md) (serie 3ª), convalidato con la [legge del 15 maggio 1890, num. 6858](Che%20converte%20il%20R.%20decreto%2029%20settembre%201889%20n.%206407%20Serie%203ª%20riguardante%20lintroduzione%20e%20la%20produzione%20nello%20Stato%20della%20saccarina%20e%20dei%20prodotti%20saccarinati.%20090U6858.md) (serie 3ª);
 
 Visto il decreto ministeriale del 5 ottobre 1889, numero 6416, (serie 3ª); Determina:
 

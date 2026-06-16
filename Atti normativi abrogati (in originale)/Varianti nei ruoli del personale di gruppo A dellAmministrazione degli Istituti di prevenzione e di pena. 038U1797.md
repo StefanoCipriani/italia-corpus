@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato ed il [R. decreto-legge 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato e successive variazioni;
 
-Visto il [R. decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497);
+Visto il [R. decreto 4 aprile 1935, n. 497](../Regi%20decreti/Modificazioni%20alle%20piante%20organiche%20dei%20personali%20amministrativo%20alienistico%20di%20educazione%20e%20sorveglianza%20tecnico%20industriale%20ed%20agricolo%20e%20del%20personale%20aggregato%20degli%20Istituti%20di%20preve_292b22be6329.md);
 
 Ritenuta la necessita' di apportare varianti ai ruoli del personale di gruppo A dell'Amministrazione degli Istituti di prevenzione e di pena;
 
@@ -32,11 +32,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la grazia e giustizia
 
 ## Art. 1.
 
-I ruoli di gruppo A dell'Amministrazione degli Istituti di prevenzione e di pena di cui ai nn. 1, 2 e 3 della tabella allegata al [R. decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497); sono sostituiti da quelli di cui ai nn. 1, 2 e 3 della tabella annessa al presente decreto, firmata, d'ordine Nostro, dai Ministri proponenti.
+I ruoli di gruppo A dell'Amministrazione degli Istituti di prevenzione e di pena di cui ai nn. 1, 2 e 3 della tabella allegata al [R. decreto 4 aprile 1935, n. 497](../Regi%20decreti/Modificazioni%20alle%20piante%20organiche%20dei%20personali%20amministrativo%20alienistico%20di%20educazione%20e%20sorveglianza%20tecnico%20industriale%20ed%20agricolo%20e%20del%20personale%20aggregato%20degli%20Istituti%20di%20preve_292b22be6329.md); sono sostituiti da quelli di cui ai nn. 1, 2 e 3 della tabella annessa al presente decreto, firmata, d'ordine Nostro, dai Ministri proponenti.
 
 ## Art. 2.
 
-Le promozioni al grado 5° dei ruoli di gruppo A amministrativo ed alienistico, sono conferite con l'osservanza delle norme generali vigenti per gli avanzamenti del personale dell'Amministrazione dello Stato, contenute nei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni.
+Le promozioni al grado 5° dei ruoli di gruppo A amministrativo ed alienistico, sono conferite con l'osservanza delle norme generali vigenti per gli avanzamenti del personale dell'Amministrazione dello Stato, contenute nei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
 
 ## Art. 3.
 

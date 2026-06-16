@@ -24,13 +24,13 @@ Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [R. decreto 31 dicembre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2523);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
+Visto il [R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
 
-Visto il [R. decreto 21 maggio 1924, n. 1200](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md);
+Visto il [R. decreto 21 maggio 1924, n. 1200](../Regi%20decreti/Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md);
 
-Visto il [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Visto il regolamento approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 

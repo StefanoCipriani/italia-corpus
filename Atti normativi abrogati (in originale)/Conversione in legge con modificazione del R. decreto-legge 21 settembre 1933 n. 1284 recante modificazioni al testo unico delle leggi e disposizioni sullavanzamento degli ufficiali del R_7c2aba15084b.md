@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1284](Modificazioni%20al%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20maggio%201933%20n.%20651.%20033U1284.md), recante modificazioni al testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md), con la seguente modificazione: 
+ E' convertito in legge il [R. decreto-legge 21 settembre 1933, n. 1284](Modificazioni%20al%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%208%20maggio%201933%20n.%20651.%20033U1284.md), recante modificazioni al testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con [R. decreto 8 maggio 1933, n. 651](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20disposizioni%20sullavanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20033U0651.md), con la seguente modificazione: 
  
  Il penultimo comma dell'articolo unico e' sostituito dal seguente:  
  «Le disposizioni del presente decreto si applicano con decorrenza dal 23 luglio 1930; il decreto stesso sara' presentato al Parlamento per la conversione in legge». 

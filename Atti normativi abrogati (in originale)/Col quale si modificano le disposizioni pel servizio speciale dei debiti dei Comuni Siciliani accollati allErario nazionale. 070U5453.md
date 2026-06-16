@@ -12,13 +12,13 @@ IL MINISTRO DELLE FINANZE
 
 Viste le disposizioni contenute nel [Decreto Ministeriale del 20 aprile 1867, n. 3673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1867-04-20;3673), per il servizio speciale dei debiti dei Comuni Siciliani accollati allo Stato;
 
-Considerando che la istituzione di una Intendenza di finanza in ogni Capoluogo di Provincia, avvenuta in virtu' del [Regio Decreto del 26 settembre 1869, n. 5286](Col%20quale%20si%20istituiscono%20le%20Intendenze%20di%20Finanza.%20069U5286.md), rende necessaria qualche modificazione in quelle disposizioni;
+Considerando che la istituzione di una Intendenza di finanza in ogni Capoluogo di Provincia, avvenuta in virtu' del [Regio Decreto del 26 settembre 1869, n. 5286](../Regi%20decreti/Col%20quale%20si%20istituiscono%20le%20Intendenze%20di%20Finanza.%20069U5286.md), rende necessaria qualche modificazione in quelle disposizioni;
 
 Sulla proposizione del Direttore generale del Tesoro, Determina quanto segue:
 
 ## Art. 1.
 
-La Commissione instituita in Palermo col [Regio Decreto del 29 aprile 1863, n. 1223](Che%20stabilisce%20le%20norme%20per%20liscrizione%20a%20carico%20dello%20Stato%20dei%20crediti%20verso%20i%20Comuni%20di%20Sicilia%20e%20pel%20pagamento%20dei%20relativi%20interessi.%20063U1223.md), e stata nominata con l'[art. 1 del Decreto Ministeriale del 20 aprile 1867, n. 3673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1867-04-20;3673#art_1), per la verificazione dei debiti dei Comuni Siciliani accollati all'Erario nazionale, e' soppressa e viene contemporaneamente costituita nei seguenti membri, a datare dal 1° gennaio 1870: 
+La Commissione instituita in Palermo col [Regio Decreto del 29 aprile 1863, n. 1223](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20liscrizione%20a%20carico%20dello%20Stato%20dei%20crediti%20verso%20i%20Comuni%20di%20Sicilia%20e%20pel%20pagamento%20dei%20relativi%20interessi.%20063U1223.md), e stata nominata con l'[art. 1 del Decreto Ministeriale del 20 aprile 1867, n. 3673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1867-04-20;3673#art_1), per la verificazione dei debiti dei Comuni Siciliani accollati all'Erario nazionale, e' soppressa e viene contemporaneamente costituita nei seguenti membri, a datare dal 1° gennaio 1870: 
  
  1° Prefetto di Palermo, pro-tempore, Presidente; 
  

@@ -365,7 +365,7 @@ Il termine di centottanta giorni per il rilascio del nulla-osta provvisorio di p
 
 1.
 
-Entro il 31 dicembre 1992 il Ministro dell'interno provvede, ai sensi del penultimo comma dell'[articolo 11 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../DPR/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), alla emanazione delle norme tecniche organiche e coordinate di prevenzione incendi per i luoghi di spettacolo e intrattenimento, cosi' come individuati dall'[articolo 17 della circolare del Ministro dell'interno n. 16 del 15 febbraio 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:circolare:1951-02-15;16#art_17), e successive modificazioni.
+Entro il 31 dicembre 1992 il Ministro dell'interno provvede, ai sensi del penultimo comma dell'[articolo 11 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), alla emanazione delle norme tecniche organiche e coordinate di prevenzione incendi per i luoghi di spettacolo e intrattenimento, cosi' come individuati dall'[articolo 17 della circolare del Ministro dell'interno n. 16 del 15 febbraio 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:circolare:1951-02-15;16#art_17), e successive modificazioni.
 
 2.
 

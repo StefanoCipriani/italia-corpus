@@ -14,7 +14,7 @@ N.
 
 2026.
 
-R. decreto 12 agosto 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Regio istituto tecnico commerciale ad indirizzo amministrativo e per geometri di Gorizia, eretta in ente morale con [R. decreto 7 ottobre 1926, n. 1861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;1861), viene trasferita, per effetto della cessazione dell'Istituto medesimo, al Regio istituto tecnico commerciale ad indirizzo mercantile e per geometri della medesima citta', e ne viene approvato il nuovo statuto. 
+R. decreto 12 agosto 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Regio istituto tecnico commerciale ad indirizzo amministrativo e per geometri di Gorizia, eretta in ente morale con [R. decreto 7 ottobre 1926, n. 1861](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Cassa%20scolastica%20del%20Regio%20istituto%20tecnico%20di%20Gorizia.%20026U1861.md), viene trasferita, per effetto della cessazione dell'Istituto medesimo, al Regio istituto tecnico commerciale ad indirizzo mercantile e per geometri della medesima citta', e ne viene approvato il nuovo statuto. 
  
  Visto, il Guardasigilli: Solmi. 
  

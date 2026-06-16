@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visti i pareri emessi dal Consiglio notarile e dalla Corte d'appello di Firenze per il trasferimento nel comune di Impruneta della sede notarile assegnata a Galluzzo con la tabella annessa al [R. decreto 9 luglio 1926, n. 1268](Revisione%20generale%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari%20nel%20Regno.%20026U1268.md); 
  
- Visto il [R. decreto 1° novembre 1928, n. 2562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-01;2562), col quale il detto comune di Galluzzo e' stato soppresso e col relativo territorio, meno la parte aggregata ad altri comuni, e' stato costituito il comune di Impruneta; 
+ Visto il [R. decreto 1° novembre 1928, n. 2562](../Regi%20decreti/Ampliamento%20del%20comune%20di%20Firenze%20e%20modifica%20delle%20circoscrizioni%20dei%20Comuni%20contermini.%20028U2562.md), col quale il detto comune di Galluzzo e' stato soppresso e col relativo territorio, meno la parte aggregata ad altri comuni, e' stato costituito il comune di Impruneta; 
  
  Visto l'[art. 4 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_4), sull'ordinamento del notariato e degli archivi notarili; 
  

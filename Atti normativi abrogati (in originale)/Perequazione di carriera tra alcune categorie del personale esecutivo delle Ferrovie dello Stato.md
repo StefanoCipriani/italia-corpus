@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il regolamento del personale delle Ferrovie dello Stato coi relativi allegati, approvato con [regio decretolegge 7 aprile 1925, n. 405](Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), e le successive modificazioni ed aggiunte;
 
-Visto il [regio decreto 12 ottobre 1942, n. 1210](Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md);
+Visto il [regio decreto 12 ottobre 1942, n. 1210](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, di concerto con
 
 ## Art. 1.
 
-A modificazione dell'allegato G annesso al [regio decreto 12 ottobre 1942, n. 1210](Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), le promozioni da macchinista di 2ª classe a macchinista di 1ª classe, da conduttore capo a conduttore capo di 1a classe, da sorvegliante della linea a sorvegliante della linea di 1a classe, vengono conferite per titolo di anzianita' ai meritevoli dopo cinque anni di anzianita' di grado.
+A modificazione dell'allegato G annesso al [regio decreto 12 ottobre 1942, n. 1210](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), le promozioni da macchinista di 2ª classe a macchinista di 1ª classe, da conduttore capo a conduttore capo di 1a classe, da sorvegliante della linea a sorvegliante della linea di 1a classe, vengono conferite per titolo di anzianita' ai meritevoli dopo cinque anni di anzianita' di grado.
  A tali effetti, con decorrenza dal 1° gennaio 1947, i posti di pianta rispettivamente per i macchinisti di 2ª classe e di 1ª classe, di conduttore capo e di conduttore capo di 1a classe, di sorvegliante della linea e di sorvegliante della linea di 1a classe, sono considerati cumulativamente.
 
 ## Art. 2.

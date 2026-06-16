@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 25 settembre 1921, n. 1607](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-09-25;1607);
 
-Visto il [R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md);
+Visto il [R. decreto 21 ottobre 1923, n. 2580](../Regi%20decreti/Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md);
 
 Visto il [R. decreto-legge 30 aprile 1924, n. 596](Istituzione%20del%20Ministero%20delle%20comunicazioni.%20024U0596.md);
 
@@ -30,7 +30,7 @@ Su proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di con
 
 ## Art. 1.
 
-L'[art. 13 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), e' sostituito dal seguente: 
+L'[art. 13 del R. decreto 21 ottobre 1923, n. 2580](../Regi%20decreti/Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), e' sostituito dal seguente: 
  
  «Art. 13, - L'applicazione del presente decreto e' devoluta al Ministro per le comunicazioni, il quale curera' le norme e le istruzioni occorrenti in sostituzione ed a complemento di quelle precedentemente emanate. 
  
@@ -40,7 +40,7 @@ L'[art. 13 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%2
 
 I passaggi di grado di cui all'art. 10 potranno aver luogo per le sole qualifiche di ingegnere, avvocato, medico, ispettore, segretario tecnico, segretario, disegnatore, assistente dei lavori di 1ª classe, aiutante disegnatore, assistente dei lavori, aiutante applicato, commesso, scritturale, assistente sale e frenatore, comprese nei quadri di classificazione approvati con [legge 7 aprile 1921, n. 368](Che%20stabilisce%20i%20nuovi%20quadri%20di%20classificazione%20degli%20stipendi%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20apporta%20altresi%20modificazioni%20alla%20legge%20organica%20delle%20ferrovie%20medesime.%20021U0368.md). 
  
- Per il passaggio alle qualifiche suddette i concorrenti dovranno trovarsi, a norma dell'[art. 10 del R. decreto 21 ottobre 1923, n. 2580](Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), in possesso al 21 ottobre 1923 di uno dei titoli di studio richiesti per ognuna delle qualifiche stesse dalla tabella allegata al [R. decreto 26 gennaio 1922, n. 212](Che%20reca%20disposizioni%20circa%20i%20nuovi%20quadri%20di%20classificazione%20del%20personale%20delle%20ferrovie%20dello%20Stato%20in%20applicazione%20della%20legge%207%20aprile%201921%20n.%20368.%20022U0212.md). 
+ Per il passaggio alle qualifiche suddette i concorrenti dovranno trovarsi, a norma dell'[art. 10 del R. decreto 21 ottobre 1923, n. 2580](../Regi%20decreti/Provvedimenti%20a%20favore%20degli%20agenti%20ex%20combattenti%20delle%20ferrovie%20dello%20Stato.%20023U2580.md), in possesso al 21 ottobre 1923 di uno dei titoli di studio richiesti per ognuna delle qualifiche stesse dalla tabella allegata al [R. decreto 26 gennaio 1922, n. 212](../Regi%20decreti/Che%20reca%20disposizioni%20circa%20i%20nuovi%20quadri%20di%20classificazione%20del%20personale%20delle%20ferrovie%20dello%20Stato%20in%20applicazione%20della%20legge%207%20aprile%201921%20n.%20368.%20022U0212.md). 
  
  Il conseguimento del paesaggio al grado superiore avverra' per concorso interno che sara' fatto in base ai titoli dei concorrenti ed al risultato di un periodo di prova nelle funzioni del grado cui i concorrenti aspirano, pel quale saranno date dal Ministero delle comunicazioni apposite norme. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi e delle norme giuridiche emanate in virtu' dell'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto il testo unico delle leggi e delle norme giuridiche emanate in virtu' dell'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Ritenuta la necessita' di portare alcune modificazioni alle disposizioni vigenti sui concorsi a posti di direttore didattico governativo contenute nel testo unico sopra citato;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Gli articoli 266 e 267 del testo unico delle leggi e delle norme giuridiche, emanate in virtu' della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), sono abrogati.
+Gli articoli 266 e 267 del testo unico delle leggi e delle norme giuridiche, emanate in virtu' della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), sono abrogati.
 
 ## Art. 2.
 
@@ -46,9 +46,9 @@ Tanto i candidati di cui all'articolo precedente quanto quelli provvisti dell'ab
 
 ## Art. 5.
 
-Sono abrogate le disposizioni degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-17;727#art_7) e [8 del R. decreto 17 marzo 1930, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-17;727#art_8), relative alla formazione di graduatorie provinciali nei concorsi magistrali per le scuole amministrate dai Regi provveditori agli studi e di conseguenza sono ripristinate le disposizioni degli [articoli 1](Norme%20per%20la%20compilazione%20delle%20graduatorie%20nei%20concorsi%20magistrali%20e%20per%20le%20nomine%20dei%20maestri%20elementari.%20028U2661.md) e [2 del R. decreto 15 novembre 1928, n. 2661](Norme%20per%20la%20compilazione%20delle%20graduatorie%20nei%20concorsi%20magistrali%20e%20per%20le%20nomine%20dei%20maestri%20elementari.%20028U2661.md). 
+Sono abrogate le disposizioni degli [articoli 7](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20integrative%20approvato%20con%20R.%20decreto%205%20febbraio%201928%20n.%20577.%20030U0727.md) e [8 del R. decreto 17 marzo 1930, n. 727](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20integrative%20approvato%20con%20R.%20decreto%205%20febbraio%201928%20n.%20577.%20030U0727.md), relative alla formazione di graduatorie provinciali nei concorsi magistrali per le scuole amministrate dai Regi provveditori agli studi e di conseguenza sono ripristinate le disposizioni degli [articoli 1](Norme%20per%20la%20compilazione%20delle%20graduatorie%20nei%20concorsi%20magistrali%20e%20per%20le%20nomine%20dei%20maestri%20elementari.%20028U2661.md) e [2 del R. decreto 15 novembre 1928, n. 2661](Norme%20per%20la%20compilazione%20delle%20graduatorie%20nei%20concorsi%20magistrali%20e%20per%20le%20nomine%20dei%20maestri%20elementari.%20028U2661.md). 
  
- Nei concorsi magistrali banditi per il biennio 1931-33, le cui graduatorie siano state prorogate per il biennio 1933-35 ai termini dell'[art. 9 del R. decreto 17 marzo 1930, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-17;727#art_9), i posti che si renderanno vacanti dopo la entrata in vigore del presente decreto saranno conferiti secondo graduatorie uniche ricostituite da ciascun provveditore agli studi in base alla votazione complessiva riportata nel concorso dai singoli vincitori.
+ Nei concorsi magistrali banditi per il biennio 1931-33, le cui graduatorie siano state prorogate per il biennio 1933-35 ai termini dell'[art. 9 del R. decreto 17 marzo 1930, n. 727](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20integrative%20approvato%20con%20R.%20decreto%205%20febbraio%201928%20n.%20577.%20030U0727.md), i posti che si renderanno vacanti dopo la entrata in vigore del presente decreto saranno conferiti secondo graduatorie uniche ricostituite da ciascun provveditore agli studi in base alla votazione complessiva riportata nel concorso dai singoli vincitori.
 
 ## Art. 6.
 

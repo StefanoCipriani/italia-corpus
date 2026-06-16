@@ -16,7 +16,7 @@ UMBERTO DI SAVOIA
 
  In virtu' dell'autorita' a Noi delegata;
  Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
- Visto l'[art. 41 - primo comma - del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 41 - primo comma - del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visti i [decreti legislativi Luogotenenziali 10 agosto 1945, nn. 490](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20per%20lesercizio%20finanziario%20dal%201%20luglio%201945%20al%2030%20giugno%201946.%20045U0490.md), [492](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20guerra%20per%20lesercizio%20finanziario%20dal%201%20luglio%201945%20al%2030%20giugno%201946.%20045U0492.md) e [493](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20marina%20per%20lesercizio%20finanziario%20dal%201%20luglio%201945%20al%2030%20giugno%201946.%20045U0493.md);
  Sentito il Consiglio dei Ministri;
  Sulla proposta del Ministro Segretario di Stato per il tesoro;

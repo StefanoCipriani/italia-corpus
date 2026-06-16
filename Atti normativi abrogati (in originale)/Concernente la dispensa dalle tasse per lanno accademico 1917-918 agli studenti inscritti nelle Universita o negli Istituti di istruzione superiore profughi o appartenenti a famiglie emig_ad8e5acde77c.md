@@ -18,7 +18,7 @@ Gli studenti appartenenti a famiglie che risiedevano nei territori occupati che 
 
 ## Art. 3.
 
-L'esonero dalle tasse non potra' essere concesso ne' a quelli studenti i quali, inscritti gia' per anni precedenti, non abbiano ottemperato alle norme dell'art. 107 del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), salvo il caso che trattisi di studenti in servizio militare, ne' a quelli che siano nelle condizioni previste dall'art. 125 di esso regolamento. 
+L'esonero dalle tasse non potra' essere concesso ne' a quelli studenti i quali, inscritti gia' per anni precedenti, non abbiano ottemperato alle norme dell'art. 107 del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), salvo il caso che trattisi di studenti in servizio militare, ne' a quelli che siano nelle condizioni previste dall'art. 125 di esso regolamento. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

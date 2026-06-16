@@ -215,7 +215,7 @@ Senza pregiudizio dell'applicazione delle norme di diritto comune sulla responsa
  
  I dirigenti delle associazioni legalmente riconosciute, che rifiutino di eseguire le decisioni del magistrato del lavoro, sono puniti con la detenzione da sei mesi a due anni e con la multa da lire duemila a diecimila, oltre la revoca dall'ufficio. 
  
- Ove alla mancata esecuzione delle decisioni del magistrato del lavoro, si aggiunga, da parte dei colpevoli, la serrata o lo sciopero, si applicano le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sul concorso dei reati e delle pene.
+ Ove alla mancata esecuzione delle decisioni del magistrato del lavoro, si aggiunga, da parte dei colpevoli, la serrata o lo sciopero, si applicano le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sul concorso dei reati e delle pene.
 
 ### Art. 23.
 

@@ -30,11 +30,11 @@ Il fondo di massa del corpo della Regia guardia di finanza e' sottoposto al risc
 
 La ragioneria centrale del Ministero delle finanze trasmette trimestralmente alla Corte dei conti, per il detto fondo di massa, le contabilita' delle riscossioni con le relative quietanze e quelle dei pagamenti corredate dai titoli estinti. 
  
- Alla Corte dei conti vengono pure trasmessi i rendiconti dei funzionari delegati ai sensi del [terzo comma dell'art. 60 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60-com3).
+ Alla Corte dei conti vengono pure trasmessi i rendiconti dei funzionari delegati ai sensi del [terzo comma dell'art. 60 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ## Art. 3.
 
-Il rendiconto di ciascun esercizio del fondo di massa del corpo delle guardie di finanza e' trasmesso alla Corte dei conti per la parificazione, entro i termini fissati dall'[art. 77 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_77).
+Il rendiconto di ciascun esercizio del fondo di massa del corpo delle guardie di finanza e' trasmesso alla Corte dei conti per la parificazione, entro i termini fissati dall'[art. 77 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 ## Art. 4.
 

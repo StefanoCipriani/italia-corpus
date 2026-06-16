@@ -66,7 +66,7 @@ Ai fini delle disposizioni contenute nel precedente art. 1, costituisce scambio 
 
 ## Art. 3.
 
-Agli effetti del presente decreto sono considerate specialita' medicinali le preparazioni ed i prodotti contemplati dal [R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), convertito nella [legge 9 gennaio 1927, n. 58](Conversione%20in%20legge%20del%20R.%20decreto%207%20agosto%201925%20n.%201732%20col%20quale%20vennero%20pubblicate%20le%20norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20027U0058.md), e dal relativo regolamento approvato con [R. decreto 3 marzo 1927, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-03;478).
+Agli effetti del presente decreto sono considerate specialita' medicinali le preparazioni ed i prodotti contemplati dal [R. decreto-legge 7 agosto 1925, n. 1732](Norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20025U1732.md), convertito nella [legge 9 gennaio 1927, n. 58](Conversione%20in%20legge%20del%20R.%20decreto%207%20agosto%201925%20n.%201732%20col%20quale%20vennero%20pubblicate%20le%20norme%20per%20la%20produzione%20e%20il%20commercio%20delle%20specialita%20medicinali.%20027U0058.md), e dal relativo regolamento approvato con [R. decreto 3 marzo 1927, n. 478](../Regi%20decreti/Approvazione%20del%20regolamento%20contenente%20norme%20per%20la%20produzione%20ed%20il%20commercio%20delle%20specialita%20medicinali.%20027U0478.md).
 
 ## Art. 4.
 

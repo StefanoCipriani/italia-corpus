@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 11 dicembre 1936, n. 2374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-12-11;2374), convertito nella [legge 10 giugno 1937, n. 1241](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20dicembre%201936-XV%20n.%202374%20riflettente%20lordinamento%20del%20personale%20per%20i%20servizi%20tecnici%20e%20speciali%20dellAmministrazione%20coloniale.%20037U1241.md), sulla costituzione dei ruoli tecnici coloniali;
 
-Visto il [R. decreto 10 giugno 1937, n. 1211](Regolamento%20organico%20del%20Corpo%20della%20polizia%20coloniale.%20037U1211.md), che approva il regolamento organico del Corpo della polizia coloniale;
+Visto il [R. decreto 10 giugno 1937, n. 1211](../Regi%20decreti/Regolamento%20organico%20del%20Corpo%20della%20polizia%20coloniale.%20037U1211.md), che approva il regolamento organico del Corpo della polizia coloniale;
 
 Visto il [R. decreto 6 giugno 1940, n. 754](Regolamento%20generale%20del%20Corpo%20di%20polizia%20dellAfrica%20Italiana.%20040U0754.md), che approva il regolamento generale del Corpo di polizia dell'Africa italiana;
 

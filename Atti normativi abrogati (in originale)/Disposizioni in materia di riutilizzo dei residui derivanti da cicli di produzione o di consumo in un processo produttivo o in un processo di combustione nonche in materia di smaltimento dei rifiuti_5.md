@@ -407,7 +407,7 @@ Le autorizzazioni rilasciate ai sensi del [decreto del Presidente della Repubbli
 
 2.
 
-E' differito al 1 giugno 1995, limitatamente a quanto disposto dall'articolo 11, comma 3, il termine di cui all'[articolo 12, comma 2, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../DPR/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md).
+E' differito al 1 giugno 1995, limitatamente a quanto disposto dall'articolo 11, comma 3, il termine di cui all'[articolo 12, comma 2, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md).
 
 3.
 
@@ -416,7 +416,7 @@ Avverso il provvedimento di reiezione della domanda l'interessato puo' proporre,
 
 4.
 
-Il [decreto del Presidente della Repubblica 9 maggio 1994, n. 407](../DPR/Regolamento%20recante%20modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20aprile%201992%20n.%20300%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20_f88bd2527513.md), non si applica alle domande di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti di cui al comma 1.
+Il [decreto del Presidente della Repubblica 9 maggio 1994, n. 407](../Regolamenti%20governativi/Regolamento%20recante%20modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20aprile%201992%20n.%20300%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20_f88bd2527513.md), non si applica alle domande di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti di cui al comma 1.
 
 5.
 
@@ -463,7 +463,7 @@ Le attivita' avviate o mantenute in esercizio nel rispetto delle norme dei [decr
 
 1.
 
-Le somme disponibili in conto residui per l'anno 1994 sul capitolo 2558 dello stato di previsione del Ministero dell'ambiente e sul capitolo 7911 dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato, non impegnate entro il medesimo anno possono esserlo nell'anno successivo. Per i residui dei capitoli 2556, 7603, 8001 e 8002 dello stato di previsione del Ministero dell'ambiente non operano, fino al 31 dicembre 1995, le disposizioni di cui all'[articolo 36, primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com1) e [terzo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com3), e successive modifiche ed integrazioni.
+Le somme disponibili in conto residui per l'anno 1994 sul capitolo 2558 dello stato di previsione del Ministero dell'ambiente e sul capitolo 7911 dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato, non impegnate entro il medesimo anno possono esserlo nell'anno successivo. Per i residui dei capitoli 2556, 7603, 8001 e 8002 dello stato di previsione del Ministero dell'ambiente non operano, fino al 31 dicembre 1995, le disposizioni di cui all'[articolo 36, primo](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [terzo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modifiche ed integrazioni.
 
 2.
 

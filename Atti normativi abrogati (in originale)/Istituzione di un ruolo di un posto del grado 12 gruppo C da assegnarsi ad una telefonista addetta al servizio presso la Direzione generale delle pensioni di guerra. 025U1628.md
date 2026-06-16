@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 25 settembre 1924, n. 1460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1460);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni ed estensioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni ed estensioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -28,7 +28,7 @@ E' istituito presso l'Amministrazione centrale delle finanze un ruolo comprenden
 
 ## Art. 2.
 
-Nel ruolo organico della carriera d'ordine dell'Amministrazione centrale e delle Intendenze di finanza di cui alla tabella n. 1 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' diminuito un posto del grado 12°.
+Nel ruolo organico della carriera d'ordine dell'Amministrazione centrale e delle Intendenze di finanza di cui alla tabella n. 1 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' diminuito un posto del grado 12°.
 
 ## Art. 3.
 

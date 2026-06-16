@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 22 marzo 1928, n. 802](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-22;802), col quale il Comune di Mondrone e' stato soppresso, ed il rispettivo territorio aggregato a quello di Ala di Stura; 
+ Visto il [R. decreto 22 marzo 1928, n. 802](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Mondrone%20a%20quello%20di%20Ala%20di%20Stura.%20028U0802.md), col quale il Comune di Mondrone e' stato soppresso, ed il rispettivo territorio aggregato a quello di Ala di Stura; 
  
  Vista la deliberazione del podesta' del comune di Ala di Stura, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Mondrone; 
  

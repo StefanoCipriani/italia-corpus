@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 19 luglio 1894, n. 356](Sulla%20fabbricazione%20e%20la%20vendita%20del%20burro%20artificiale.%20094U0356.md), che stabilisce le norme dirette ad impedire le frodi nel commercio del burro e disciplina la vendita del burro artificiale;
 
-Visto il regolamento speciale approvato con [R. decreto del 3 agosto 1890, n. 7045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-03;7045) (serie 3ª) per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico;
+Visto il regolamento speciale approvato con [R. decreto del 3 agosto 1890, n. 7045](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20per%20la%20vigilanza%20igienica%20sugli%20alimenti%20sulle%20bevande%20e%20sugli%20oggetti%20di%20uso%20domestico.%20090U7045.md) (serie 3ª) per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico;
 
 Udito il parere del Consiglio di Stato;
 

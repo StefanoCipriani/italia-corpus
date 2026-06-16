@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti gli [articoli 2 della legge 31 marzo 1904, n. 140 e 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;109#art_2) del relativo regolamento approvato con [R. decreto 26 marzo 1905, n. 173](Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2031%20marzo%201904%20n.%20140%20portante%20provvedimenti%20speciali%20a%20favore%20della%20provincia%20di%20Basilicata.%20005U0173.md); 
+ Visti gli [articoli 2 della legge 31 marzo 1904, n. 140 e 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;109#art_2) del relativo regolamento approvato con [R. decreto 26 marzo 1905, n. 173](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2031%20marzo%201904%20n.%20140%20portante%20provvedimenti%20speciali%20a%20favore%20della%20provincia%20di%20Basilicata.%20005U0173.md); 
  
  Sentito il Consiglio dei ministri; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Il rimborso da parte della Cassa di credito agrario della Basilicata della somma di lire duemilioni somministratale dallo Stato ai sensi dell'[art. 2 della legge 31 marzo 1904, n. 140](Che%20emana%20provvedimenti%20a%20favore%20della%20provincia%20di%20Basilicata.%20004U0140.md), incomincera' alla fine del ventunesimo anno dalla data dell'ultimo versamento della somma stessa, fermo rimanendo l'obbligo, da parte della Cassa, del pagamento degli interessi in ragione del 2 0/0 a decorrere dall'undecimo anno dalla data anzidetta. 
  
- Il rimborso della somma di lire duemilioni si effettuera' nel periodo di 40 anni, mediante annualita' che dovranno essere non inferiori ciascuna, nel primo decennio, a L. 40 000; nel secondo decennio a L. 45.000, nel terzo decennio a L. 55,000 e nell'ultimo decennio a L 60.000, nei modi stabiliti con l'art. 109 del regolamento approvato con [R. decreto 26 marzo 1905, numero 173](Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2031%20marzo%201904%20n.%20140%20portante%20provvedimenti%20speciali%20a%20favore%20della%20provincia%20di%20Basilicata.%20005U0173.md). 
+ Il rimborso della somma di lire duemilioni si effettuera' nel periodo di 40 anni, mediante annualita' che dovranno essere non inferiori ciascuna, nel primo decennio, a L. 40 000; nel secondo decennio a L. 45.000, nel terzo decennio a L. 55,000 e nell'ultimo decennio a L 60.000, nei modi stabiliti con l'art. 109 del regolamento approvato con [R. decreto 26 marzo 1905, numero 173](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2031%20marzo%201904%20n.%20140%20portante%20provvedimenti%20speciali%20a%20favore%20della%20provincia%20di%20Basilicata.%20005U0173.md). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

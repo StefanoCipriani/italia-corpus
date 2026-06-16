@@ -14,7 +14,7 @@ Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.i
 
 Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570);
 
-Visto il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699);
+Visto il [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md);
 
 Vista la [legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469);
 
@@ -65,11 +65,11 @@ Il personale volontario del Corpo nazionale dei vigili del fuoco e' costituito d
 Il personale volontario non e' vincolato da rapporto di impiego con l'amministrazione ed e' chiamato a svolgere temporaneamente i propri compiti ogni qualvolta se ne manifesti il bisogno, in conformita' a quanto disposto dall'[articolo 14 della legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_14).
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il [comma quinto dell'art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica italiana conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - La [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), reca: "Norme per l'organizzazione dei servizi antincendi".
- - Il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), reca: "Norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei Vigili del fuoco".
+ - Il [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), reca: "Norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei Vigili del fuoco".
  - La [legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469), reca: "Ordinamento dei servizi antincendi e del Corpo nazionale dei Vigili del fuoco e stato giuridico e trattamento economico del personale dei sottufficiali, vigili scelti e vigili del Corpo nazionale dei Vigili del fuoco".
  - Il testo dell'[art. 13, comma terzo, della legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996#art_13-com3) (Norme sul soccorso e l'assistenza delle popolazioni colpite da calamita') e' il seguente:
  "Le norme sull'avanzamento del personale volontario saranno stabilite dal regolamento del Corpo nazionale dei Vigili del fuoco".
@@ -80,7 +80,7 @@ Avvertenza:
  "Art. 35 (Disciplina per il personale volontario). - 1.
  Il personale volontario del Corpo nazionale dei Vigili del fuoco che viola i propri doveri e' soggetto alle seguenti sanzioni disciplinari:
  a) censura inflitta per lievi trasgressioni;
- b) sospensione dai richiami da 1 a 5 anni inflitta per le mancanze di cui agli articoli 80 e 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+ b) sospensione dai richiami da 1 a 5 anni inflitta per le mancanze di cui agli articoli 80 e 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
  c) radiazione inflitta:
  1) per maggiore gravita' delle infrazioni che danno luogo alla sospensione dai richiami;
  2) per le mancanze previste dall'art. 84 del citato testo unico.
@@ -112,7 +112,7 @@ Avvertenza:
  "Art. 13. Il Ministero dell'interno provvede al reclutamento del personale volontario fra i cittadini italiani che ne facciano domanda e che, oltre a tutti gli altri requisiti previsti dal regolamento del Corpo nazionale dei Vigili del fuoco, non abbiano superato gli anni 40 se ufficiali e gli anni 30 se vigili.
  Il personale volontario e' iscritto nei quadri dei comandi provinciali in ordine di grado e di anzianita'.
  Le norme sull'avanzamento del personale volontario saranno stabilite dal regolamento del Corpo nazionale dei Vigili del fuoco.
- Fino a quando non sara' emanato tale regolamento, continuano ad applicarsi, per il reclutamento e l'avanzamento del personale volontario, per quanto non in contrasto con le successive norme di legge, le disposizioni del [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699).
+ Fino a quando non sara' emanato tale regolamento, continuano ad applicarsi, per il reclutamento e l'avanzamento del personale volontario, per quanto non in contrasto con le successive norme di legge, le disposizioni del [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md).
  L'[articolo 69 della legge 13 maggio 1961, numero 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_69) e' abrogato.".
  - Si riporta il testo dell'art. 14 della citata [legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469):
  "Art. 14. Il personale del Corpo nazionale dei Vigili del fuoco si distingue in personale permanente e volontario.
@@ -548,7 +548,7 @@ Note all'art. 24:
  "Art. 35 (Disciplina per il personale volontario). - 1.
  Il personale volontario del Corpo nazionale dei Vigili del fuoco che viola i propri doveri e' soggetto alle seguenti sanzioni disciplinari:
  a) censura inflitta per lievi trasgressioni;
- b) sospensione dai richiami da 1 a 5 anni inflitta per le mancanze di cui agli articoli 80 e 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+ b) sospensione dai richiami da 1 a 5 anni inflitta per le mancanze di cui agli articoli 80 e 81 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
  c) radiazione inflitta:
  1) per maggiore gravita' delle infrazioni che danno luogo alla sospensione dai richiami;
  2) per le mancanze previste dall'articolo 84 del citato testo unico.
@@ -564,7 +564,7 @@ Note all'art. 24:
 
 1.
 
-Sono abrogate le norme contenute nella parte II del [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699).
+Sono abrogate le norme contenute nella parte II del [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

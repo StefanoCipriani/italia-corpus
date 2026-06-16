@@ -170,7 +170,7 @@ I licei-ginnasi e le scuole normali, che da un triennio almeno abbiano una popol
 
 ### Art. 20.
 
-I segretori di cui al primo comma dell'articolo precedente avranno lo stipendio di L. 1300, e avranno diritto agli aumenti sessennali in conformita' del [R. decreto 31 dicembre 1876, n. 3629](Col%20quale%20sono%20stabiliti%20i%20ruoli%20organici%20per%20il%20personale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20delle%20amministrazioni%20dipendenti.%20076U3629.md). 
+I segretori di cui al primo comma dell'articolo precedente avranno lo stipendio di L. 1300, e avranno diritto agli aumenti sessennali in conformita' del [R. decreto 31 dicembre 1876, n. 3629](../Regi%20decreti/Col%20quale%20sono%20stabiliti%20i%20ruoli%20organici%20per%20il%20personale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20delle%20amministrazioni%20dipendenti.%20076U3629.md). 
  
  Essi dovranno essere forniti di licenza del liceo o dell'istituto tecnico o della scuola normale, ma avranno la preferenza gli abilitati anche all'insegnamento secondario secondo l'ordine di merito. 
  
@@ -182,7 +182,7 @@ I segretori di cui al primo comma dell'articolo precedente avranno lo stipendio 
 
 Gli stipendi dei macchinisti, bidelli e inservienti-custodi dei licei-ginnasi sono determinati dalla tabella F. 
  
- A datare dalla loro nomina definitiva, i detti funzionari avranno diritto a due aumenti biennali consecutivi, ciascuno nella misura stabilita nella detta tabella, e successivamente avranno diritto agli aumenti sessennali a norma del [R. decreto 31 dicembre 1876, n. 3629](Col%20quale%20sono%20stabiliti%20i%20ruoli%20organici%20per%20il%20personale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20delle%20amministrazioni%20dipendenti.%20076U3629.md). 
+ A datare dalla loro nomina definitiva, i detti funzionari avranno diritto a due aumenti biennali consecutivi, ciascuno nella misura stabilita nella detta tabella, e successivamente avranno diritto agli aumenti sessennali a norma del [R. decreto 31 dicembre 1876, n. 3629](../Regi%20decreti/Col%20quale%20sono%20stabiliti%20i%20ruoli%20organici%20per%20il%20personale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20delle%20amministrazioni%20dipendenti.%20076U3629.md). 
  
  Le norme per la loro assunzione in servizio provvisorio o definitivo saranno determinate dal regolamento.
 

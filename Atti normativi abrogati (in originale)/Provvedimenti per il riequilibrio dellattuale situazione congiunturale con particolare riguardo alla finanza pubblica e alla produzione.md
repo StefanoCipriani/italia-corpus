@@ -174,13 +174,13 @@ Per gli atti economici relativi al commercio dei prodotti sottoelencati, l'impos
 
 ### Art. 27.
 
-E' soppressa la lettera i) dell'art. 17 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), concernente l'esenzione dalla tassa di circolazione per i motori fuori bordo di potenza non superiore ai 6 CV.
+E' soppressa la lettera i) dell'art. 17 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), concernente l'esenzione dalla tassa di circolazione per i motori fuori bordo di potenza non superiore ai 6 CV.
  E' soppresso, inoltre, l'art. 24 del suindicato testo unico, riguardante la riduzione della tassa sulla circolazione di prova.
  Le tasse di circolazioni per gli autoscafi, di cui alla tariffa e' annessa alla [legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463), sono aumentate del 50 per cento.
 
 ### Art. 28.
 
-Per il mancato pagamento delle tasse automobilistiche, di cui al testo unico approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e successive modificazioni il trasgressore e' soggetto, oltre alla corresponsione del tributo evaso, alla pena pecuniaria da una a sei volte l'ammontare della tassa annua.
+Per il mancato pagamento delle tasse automobilistiche, di cui al testo unico approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), e successive modificazioni il trasgressore e' soggetto, oltre alla corresponsione del tributo evaso, alla pena pecuniaria da una a sei volte l'ammontare della tassa annua.
  La pena pecuniaria non puo' essere, in ogni caso, inferiore a lire diecimila.
  Per la mancata apposizione del disco-contrassegno, prescritta dall'art. 12 del citato testo unico, il trasgressore incorre nella pena pecuniaria da un minimo di lire tremila ad un massimo di lire diciottomila.
 
@@ -194,7 +194,7 @@ I concessionari di autostrade sono tenuti a corrispondere all'erario un diritto 
  Le predette soprattasse sono ridotte al decimo del loro ammontare se la denunzia ed il pagamento abbiano luogo nei trenta giorni dai rispettivi termini.
  Sono applicabili le norme della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4).
  Per il ritardato od omesso pagamento del diritto speciale debbono, inoltre, corrispondersi gli interessi di mora previsti dalla [legge 26 gennaio 1961, n. 29](Norme%20per%20la%20disciplina%20della%20riscossione%20dei%20carichi%20in%20materia%20di%20tasse%20e%20di%20imposte%20indirette%20sugli%20affari.md).
- Per la riscossione di quanto dovuto ai sensi del presente articolo, si applicano le disposizioni contenute nel testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), e successive modificazioni ed integrazioni.
+ Per la riscossione di quanto dovuto ai sensi del presente articolo, si applicano le disposizioni contenute nel testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e successive modificazioni ed integrazioni.
 
 ### Art. 30.
 
@@ -339,7 +339,7 @@ Fino all'entrata in vigore della riforma sanitaria e dei provvedimenti di trasfe
  da due rappresentanti dell'Ente regione.
  Il comitato previsto dal precedente comma verifica altresi' la conformita' della misura delle rette di degenza gia' deliberate, ai criteri indicati dall'[art. 32 della legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132#art_32).
  Ove accerti che la retta di degenza sia stata fissata in misura superiore al costo effettivo della assistenza sanitaria ed ospedaliera invita l'ente a procedere, entro sessanta giorni, alla riduzione della retta stessa.
- Trascorso detto termine senza che l'ente abbia provveduto alla revisione della retta si applica la disposizione dell'art. 6 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+ Trascorso detto termine senza che l'ente abbia provveduto alla revisione della retta si applica la disposizione dell'art. 6 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
 
 ### Art. 46.
 

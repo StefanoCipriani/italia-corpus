@@ -55,7 +55,7 @@ L'omologazione di cui al presente regolamento riguarda ogni elemento di sistema 
 L'omologazione di cui al presente regolamento non riguarda le apparecchiature per i servizi di radiodiffusione sonora e televisiva.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [d.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [d.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) e' il seguente:
  "Art. 87. - Il Presidente della Repubblica .. (Omissis).
@@ -466,14 +466,14 @@ Il contrassegno e' apposto su una parte dell'apparecchiatura non intercambiabile
 
 ### Art. 18. — S p e s e
 
-1. Tutte le spese relative all'omologazione sono addebitate al richiedente nella misura stabilita ai sensi dell'[art. 19, comma 5, del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md). 
+1. Tutte le spese relative all'omologazione sono addebitate al richiedente nella misura stabilita ai sensi dell'[art. 19, comma 5, del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md). 
  2. Prima di iniziare l'approfondimento dell'esame di progetto o l'analisi tecnica preliminare o l'esame tecnico, l'ISPT comunica per iscritto al richiedente l'importo presunto delle spese di omologazione e contestualmente ne richiede un adeguato anticipo.
 Ulteriori anticipi possono essere richiesti nel corso del procedimento di omologazione. Se le spese effettive superano l'importo preventivato, l'ISPT ne informa il richiedente nel corso del procedimento di omologazione. 
  3. Se il richiedente non comunica il suo assenso al riguardo entro trenta giorni, il procedimento di omologazione e' sospeso. 
  4. Terminate le prove, l'ISPT chiede il versamento del conguaglio delle spese di omologazione.
 
 Nota all'art. 18:
- - Il testo dell'[articolo 19, comma 5, del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' il seguente:
+ - Il testo dell'[articolo 19, comma 5, del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' il seguente:
  "Art. 19 (Divieto di prestazioni gratuite).
  (Omissis).
  Per le prestazioni rese alle amministrazioni statali, enti diversi e privati, quando per esse non siano stabiliti appositi canoni, sono a carico dell'amministrazione, ente o privato, oltre alle spese richieste dalle prestazioni stesse, anche le quote di surrogazione del personale e la quota di spese generali stabilite con decreto del Ministro delle poste e delle telecomunicazioni, sentito il consiglio di amministrazione, di concerto con il Ministro del tesoro. (Omissis)".

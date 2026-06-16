@@ -35,7 +35,7 @@ VITTORIO EMANUELE III
  « Indennita' da corrispondersi al personale dei 
  Regi istituti nautici, dispensato dal servizio o 
  collocato a riposo in applicazione del [R. 
- decreto 12 luglio 1923, n. 1723](Norme%20per%20lesonero%20del%20personale%20insegnante%20dei%20Regi%20istituti%20nautici%20e%20della%20R.%20accademia%20navale.%20023U1723.md) » . . . . . . . . . + » 220,000 
+ decreto 12 luglio 1923, n. 1723](../Regi%20decreti/Norme%20per%20lesonero%20del%20personale%20insegnante%20dei%20Regi%20istituti%20nautici%20e%20della%20R.%20accademia%20navale.%20023U1723.md) » . . . . . . . . . + » 220,000 
  ----------  + L. 445,000 
  ----------  
  In diminuzione: 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 1 della legge 10 luglio 1930, n. 995](Disposizioni%20sul%20fallimento%20sul%20concordato%20preventivo%20e%20sui%20piccoli%20fallimenti.%20030U0995.md), contenente disposizioni sul fallimento e sugli amministratori giudiziari;
 
-Visto il [R. decreto 20 novembre 1930, n. 1595](Norme%20relative%20agli%20amministratori%20giudiziari.%20030U1595.md), relativo agli amministratori giudiziari;
+Visto il [R. decreto 20 novembre 1930, n. 1595](../Regi%20decreti/Norme%20relative%20agli%20amministratori%20giudiziari.%20030U1595.md), relativo agli amministratori giudiziari;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,9 +28,9 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-Ferme le disposizioni dell'[art. 1 del R. decreto 20 novembre 1930, n. 1595, con decreto](Norme%20relative%20agli%20amministratori%20giudiziari.%20030U1595.md) Reale, sulla proposta del Ministro per la grazia e giustizia, puo' essere aumentato il numero degli amministratori giudiziari stabilito con la tabella allegata al [R. decreto 11 dicembre 1930, n. 1635](Ruoli%20degli%20amministratori%20giudiziari%20presso%20i%20tribunali%20del%20Regno.%20030U1635.md), anche riguardo ai ruoli che non siano ancora entrati in attuazione. 
+Ferme le disposizioni dell'[art. 1 del R. decreto 20 novembre 1930, n. 1595, con decreto](../Regi%20decreti/Norme%20relative%20agli%20amministratori%20giudiziari.%20030U1595.md) Reale, sulla proposta del Ministro per la grazia e giustizia, puo' essere aumentato il numero degli amministratori giudiziari stabilito con la tabella allegata al [R. decreto 11 dicembre 1930, n. 1635](../Regi%20decreti/Ruoli%20degli%20amministratori%20giudiziari%20presso%20i%20tribunali%20del%20Regno.%20030U1635.md), anche riguardo ai ruoli che non siano ancora entrati in attuazione. 
  
- I posti in aumento, tanto per i ruoli gia' formati, quanto per quelli che non solo ancora in attuazione, possono essere coperti a termini dell'[art. 10, comma 3°, del R. decreto 20 novembre 1930, n. 1595](Norme%20relative%20agli%20amministratori%20giudiziari.%20030U1595.md).
+ I posti in aumento, tanto per i ruoli gia' formati, quanto per quelli che non solo ancora in attuazione, possono essere coperti a termini dell'[art. 10, comma 3°, del R. decreto 20 novembre 1930, n. 1595](../Regi%20decreti/Norme%20relative%20agli%20amministratori%20giudiziari.%20030U1595.md).
 
 ## Art. 2.
 

@@ -39,7 +39,7 @@ A D O T T A il seguente regolamento:
 E' autorizzata la produzione e l'immissione in commercio del sale alimentare (cloruro di sodio), destinato al consumo diretto, addizionato di ioduro di potassio, sale alimentare addizionato di iodato di potassio e sale alimentare addizionato di ioduro di potassio e iodato di potassio, per garantire un tenore di iodio ionico di 30 mg per kg di prodotto (+ 40% - 20%).
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo dell'[art. 7 della legge n. 283/1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962;283#art_7) e' il seguente:

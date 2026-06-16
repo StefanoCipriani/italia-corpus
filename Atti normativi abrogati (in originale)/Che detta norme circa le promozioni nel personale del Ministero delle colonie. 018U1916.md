@@ -24,7 +24,7 @@ Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20G
 
 Visto il [R. decreto 22 gennaio 1914, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;19);
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili approvato con [R decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili approvato con [R decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 
 Sentito il Consiglio dei ministri;
 

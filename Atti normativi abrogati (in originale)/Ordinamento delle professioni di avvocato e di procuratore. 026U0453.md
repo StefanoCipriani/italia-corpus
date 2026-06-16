@@ -18,7 +18,7 @@ Nessuno puo' assumere il titolo ne' esercitare le funzioni di avvocato o di proc
  
  Conservano tuttavia il titolo quegli avvocati e procuratori che, dopo acquisitone il diritto, siano stati cancellati dall'albo per una causa che non sia d'indegnita'. 
  
- Ogni infrazione alla presente disposizione, quando non costituisca piu' grave reato, e' punita a norma dell'[articolo 186 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Ogni infrazione alla presente disposizione, quando non costituisca piu' grave reato, e' punita a norma dell'[articolo 186 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 2.
 
@@ -602,7 +602,7 @@ Gli avvocati e procuratori attualmente iscritti in un albo conservano la facolta
 
 I procuratori laureati in giurisprudenza attualmente iscritti potranno ottenere, compiuto il sessennio di esercizio professionale, l'iscrizione nell'albo degli avvocati senza esame. I medesimi procuratori conservano la facolta' di patrocinare in materia penale dinanzi ai tribunali e alle Corti di appello e di assise del Regno. 
  
- Sono conservati i diritti riconosciuti in via transitoria dall'[art. 27, comma 4°, del R. decreto 24 marzo 1923, n. 602](Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md), ai procuratori inserirti negli albi delle citta', sedi di soppresse Corti o sezioni di Corte di appello.
+ Sono conservati i diritti riconosciuti in via transitoria dall'[art. 27, comma 4°, del R. decreto 24 marzo 1923, n. 602](../Regi%20decreti/Contenente%20norme%20processuali%20per%20lattuazione%20della%20nuova%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0602.md), ai procuratori inserirti negli albi delle citta', sedi di soppresse Corti o sezioni di Corte di appello.
 
 ### Art. 69.
 

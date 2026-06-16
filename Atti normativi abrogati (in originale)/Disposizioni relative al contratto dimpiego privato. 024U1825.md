@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [decreto Luogotenenziale 9 febbraio 1919, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-09;112), sul contratto d'impiego privato;
 
-Visto il [R. decreto 2 dicembre 1923, n. 2686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2686), modificato dal [R. decreto 8 agosto 1924, n. 1375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-08;1375), ed il [R. decreto 23 maggio 1924, n. 927](Estensione%20ai%20territori%20annessi%20dei%20Regi%20decreti%20del%209%20febbraio%201919%20n.%20112%20e%202%20dicembre%201923%20n.%202686%20concernenti%20rispettivamente%20il%20contratto%20dimpiego%20privato%20e%20la%20risoluzione%20delle%20cont_21633c08f1c9.md), che stabiliscono norme per la risoluzione delle controversie su diritti derivanti dal contratto d'impiego privato;
+Visto il [R. decreto 2 dicembre 1923, n. 2686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2686), modificato dal [R. decreto 8 agosto 1924, n. 1375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-08;1375), ed il [R. decreto 23 maggio 1924, n. 927](../Regi%20decreti/Estensione%20ai%20territori%20annessi%20dei%20Regi%20decreti%20del%209%20febbraio%201919%20n.%20112%20e%202%20dicembre%201923%20n.%202686%20concernenti%20rispettivamente%20il%20contratto%20dimpiego%20privato%20e%20la%20risoluzione%20delle%20cont_21633c08f1c9.md), che stabiliscono norme per la risoluzione delle controversie su diritti derivanti dal contratto d'impiego privato;
 
 Udito il Consiglio dei Ministri;
 

@@ -184,7 +184,7 @@ Alle facolta' attribuite all'Unione messinese con l'[art. 18 della legge 13 lugl
 
 ### Art. 21.
 
-Alla riscossione delle entrate patrimoniali dell'Unione messinese, sono estese le disposizioni del [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), per la riscossione delle entrate patrimoniali dello Stato.
+Alla riscossione delle entrate patrimoniali dell'Unione messinese, sono estese le disposizioni del [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), per la riscossione delle entrate patrimoniali dello Stato.
 
 ### Art. 22.
 

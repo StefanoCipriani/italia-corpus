@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto del 3 settembre 1906, n. 535](Approvazione%20delle%20annesse%20disposizioni%20relative%20ai%20servizi%20di%20meteorologia%20e%20di%20geodinamica.%20006U0535.md), che approva il testo unico delle disposizioni concernenti i servizi di meteorologia e geodinamica;
+Visto il [R. decreto del 3 settembre 1906, n. 535](../Regi%20decreti/Approvazione%20delle%20annesse%20disposizioni%20relative%20ai%20servizi%20di%20meteorologia%20e%20di%20geodinamica.%20006U0535.md), che approva il testo unico delle disposizioni concernenti i servizi di meteorologia e geodinamica;
 
 Visto il [decreto Luogotenenziale del 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625);
 

@@ -222,7 +222,7 @@ Quando vi sia denuncia di procurato aborto, sara' sospeso il pagamento del sussi
 
 ### Art. 30.
 
-Le operaie ed impiegate d'eta' dai 15 ai 50 anni, soggette all'obbligo dell'assicurazione contro la disoccupazione ai sensi del [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), che si assentano dal lavoro nei casi previsti dagli [articoli 1](Disposizioni%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20029U0850.md), [2](Disposizioni%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20029U0850.md) e [3 del R. decreto-legge 13 maggio 1929, n. 850](Disposizioni%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20029U0850.md), hanno diritto, per i periodi di astensione dal lavoro, al sussidio di disoccupazione, aumentato di L. 0,50 al giorno, secondo le norme del Regio decreto precitato, in quanto queste siano applicabili e non sia diversamente disposto dagli articoli seguenti.
+Le operaie ed impiegate d'eta' dai 15 ai 50 anni, soggette all'obbligo dell'assicurazione contro la disoccupazione ai sensi del [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), che si assentano dal lavoro nei casi previsti dagli [articoli 1](Disposizioni%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20029U0850.md), [2](Disposizioni%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20029U0850.md) e [3 del R. decreto-legge 13 maggio 1929, n. 850](Disposizioni%20per%20la%20tutela%20delle%20operaie%20ed%20impiegate%20durante%20lo%20stato%20di%20gravidanza%20e%20di%20puerperio.%20029U0850.md), hanno diritto, per i periodi di astensione dal lavoro, al sussidio di disoccupazione, aumentato di L. 0,50 al giorno, secondo le norme del Regio decreto precitato, in quanto queste siano applicabili e non sia diversamente disposto dagli articoli seguenti.
 
 ### Art. 31.
 
@@ -230,7 +230,7 @@ Il sussidio compete per i periodi di astensione dal lavoro previsti dal R. decre
  
  1° che la donna sia stata occupata in aziende soggette al R. decreto-legge almeno per venti giorni nel bimestre precedente i periodi predetti; 
  
- 2° che siano stati versati a favore della donna almeno la meta' dei contributi prescritti dal [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158).
+ 2° che siano stati versati a favore della donna almeno la meta' dei contributi prescritti dal [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md).
 
 ### Art. 32.
 
@@ -238,7 +238,7 @@ Il sussidio decorre dal primo giorno di astensione dal lavoro; qualora pero' la 
 
 ### Art. 33.
 
-Il periodo, per cui e' corrisposto alle operaie o impiegate il sussidio nei casi di astensione dal lavoro previsti dal Regio decreto-legge, sara' computato per la meta' ai fini della durata del sussidio, al quale le medesime potessero avere diritto per effetto del [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158).
+Il periodo, per cui e' corrisposto alle operaie o impiegate il sussidio nei casi di astensione dal lavoro previsti dal Regio decreto-legge, sara' computato per la meta' ai fini della durata del sussidio, al quale le medesime potessero avere diritto per effetto del [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md).
 
 ### Art. 34.
 
@@ -246,9 +246,9 @@ Il sussidio non compete alla donna per tutto il tempo in cui abbia diritto, in c
 
 ### Art. 35.
 
-L'aumento del sussidio di L. 0,50 al giorno, previsto dall'ultimo comma dell'art. 8 del Regio decreto-legge, compete alla donna anche nel caso che all'inizio dell'ultimo mese di gravidanza si trovi in istato di godimento del sussidio di disoccupazione a norma del [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158). 
+L'aumento del sussidio di L. 0,50 al giorno, previsto dall'ultimo comma dell'art. 8 del Regio decreto-legge, compete alla donna anche nel caso che all'inizio dell'ultimo mese di gravidanza si trovi in istato di godimento del sussidio di disoccupazione a norma del [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md). 
  
- Tale maggiorazione e' concessa, su richiesta della donna, dall'inizio dell'ultimo mese di gravidanza per il periodo di astensione dal lavoro prescritto dagli articoli 1, 2 e 3 del Regio decreto-legge e fino a esaurimento del periodo di sussidiabilita' stabilito del [R. decreto 30 dicembre 1923, numero 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158).
+ Tale maggiorazione e' concessa, su richiesta della donna, dall'inizio dell'ultimo mese di gravidanza per il periodo di astensione dal lavoro prescritto dagli articoli 1, 2 e 3 del Regio decreto-legge e fino a esaurimento del periodo di sussidiabilita' stabilito del [R. decreto 30 dicembre 1923, numero 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md).
 
 ### Art. 36.
 

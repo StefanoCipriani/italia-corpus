@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [Regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [Regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Visto il regolamento dei concorsi a posti di sanitari addetti ai servizi dei Comuni e delle Provincie 11 marzo 1935-XIII, n. 281;
 
@@ -38,7 +38,7 @@ Le disposizioni del R. decreto-legge 16 dicembre 1935-XIV, n. 2172, convertito n
 
 ## Art. 2.
 
-Fermi gli aumenti di limiti di eta' gia' previsti dalle disposizioni in vigore, il limite massimo di eta' per l'ammissione ai concorsi a posti di sanitari addetti ai servizi dei Comuni e delle Provincie, previsto dalle disposizioni del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' elevato ad anni trentaquattro fino al 31 dicembre 1937. 
+Fermi gli aumenti di limiti di eta' gia' previsti dalle disposizioni in vigore, il limite massimo di eta' per l'ammissione ai concorsi a posti di sanitari addetti ai servizi dei Comuni e delle Provincie, previsto dalle disposizioni del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' elevato ad anni trentaquattro fino al 31 dicembre 1937. 
  Tale disposizione si applica anche ai concorsi gia' indetti e non ancora espletati alla data dell'entrata in vigore del presente decreto.
 
 ## Art. 3.

@@ -72,7 +72,7 @@ Il Provveditore al porto e' nominato con decreto Reale su proposta del ministro 
  
  Coi decreti di nomina saranno stabiliti i rispettivi assegni. 
  
- Ai funzionari dello Stato che conseguissero dette nomine saranno applicate le disposizioni di cui all'[art. 1 del R. decreto 20 aprile 1913, n. 511](Che%20disciplina%20il%20collocamento%20fuori%20ruolo%20del%20personale%20del%20R.%20corpo%20del%20genio%20civile%20e%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20destinato%20nelle%20colonie.%20013U0511.md).
+ Ai funzionari dello Stato che conseguissero dette nomine saranno applicate le disposizioni di cui all'[art. 1 del R. decreto 20 aprile 1913, n. 511](../Regi%20decreti/Che%20disciplina%20il%20collocamento%20fuori%20ruolo%20del%20personale%20del%20R.%20corpo%20del%20genio%20civile%20e%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20destinato%20nelle%20colonie.%20013U0511.md).
 
 ## Art. 9.
 

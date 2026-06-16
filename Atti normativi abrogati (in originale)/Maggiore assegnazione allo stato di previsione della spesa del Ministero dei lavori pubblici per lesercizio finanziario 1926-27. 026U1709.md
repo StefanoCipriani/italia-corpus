@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 17 giugno 1926, n. 997](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%20finanziario%20dal%201%20luglio%201926%20al%2030%20giugno%201927.%20026U0997.md); 
  
- Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41); 
+ Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md); 
  
  Udito il Consiglio dei Ministri; 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convalidato il [Regio decreto del 9 dicembre 1894, n. 531](Che%20stabilisce%20le%20norme%20per%20limportazione%20e%20lesportazione%20temporanea%20del%20grano%20per%20la%20macinazione%20094U0531.md), col quale sono state modificate le discipline sull'importazione temporanea del grano per la macinazione, e dello zucchero per la raffinazione. 
+E' convalidato il [Regio decreto del 9 dicembre 1894, n. 531](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20limportazione%20e%20lesportazione%20temporanea%20del%20grano%20per%20la%20macinazione%20094U0531.md), col quale sono state modificate le discipline sull'importazione temporanea del grano per la macinazione, e dello zucchero per la raffinazione. 
  
  Col giorno in cui entrera' in vigore la presente legge, il decreto sopra indicato cessera' di avere effetto.
 
@@ -88,13 +88,13 @@ Per quanto non e' preveduto dalla presente legge saranno osservate le disposizio
 
 ## Art. 14.
 
-Gli zuccheri raffinati, ed i melazzi ottenuti dalla lavorazione di zuccheri greggi importati temporaneamente, ai sensi delle disposizioni contenute nel capitolo I, titolo II, del regolamento sulle importazioni ed esportazioni temporanee, approvato col [Regio decreto del 2 febbraio 1890, n. 6622](Che%20approva%20lunito%20regolamento%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20090U6622.md) (serie 3ª), si considerano come riesportati, anche quando siano introdotti come merce estera, in un deposito doganale, o in deposito franco. 
+Gli zuccheri raffinati, ed i melazzi ottenuti dalla lavorazione di zuccheri greggi importati temporaneamente, ai sensi delle disposizioni contenute nel capitolo I, titolo II, del regolamento sulle importazioni ed esportazioni temporanee, approvato col [Regio decreto del 2 febbraio 1890, n. 6622](../Regi%20decreti/Che%20approva%20lunito%20regolamento%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20090U6622.md) (serie 3ª), si considerano come riesportati, anche quando siano introdotti come merce estera, in un deposito doganale, o in deposito franco. 
  
  Le disposizioni della nota al n. 12 della tariffa dei dazi doganali, sono applicabili ai melazzi greggi, che escono dalle raffinerie nelle quali si lavorano gli zuccheri importati temporaneamente.
 
 ## Art. 15.
 
-E' abrogato l'[art. 19 del Regio decreto del 17 novembre 1887, n. 5084](Che%20approva%20il%20repertorio%20e%20le%20disposizioni%20speciali%20per%20lapplicazione%20della%20Tariffa%20generale%20dei%20dazi%20doganali.%20087U5084.md) (serie 3ª), riportato nell'articolo 22 della legge doganale. 
+E' abrogato l'[art. 19 del Regio decreto del 17 novembre 1887, n. 5084](../Regi%20decreti/Che%20approva%20il%20repertorio%20e%20le%20disposizioni%20speciali%20per%20lapplicazione%20della%20Tariffa%20generale%20dei%20dazi%20doganali.%20087U5084.md) (serie 3ª), riportato nell'articolo 22 della legge doganale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

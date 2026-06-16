@@ -30,7 +30,7 @@ L'esenzione concessa dall'[art. 1 del R. decreto-legge 9 aprile 1925, n. 380](Es
 
 ## Art. 2.
 
-E' soppressa la tassa sulla circolazione dei velocipedi, e sulle macchine ed apparecchi ad essi assimilabili, stabilita dall'[art. 1 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
+E' soppressa la tassa sulla circolazione dei velocipedi, e sulle macchine ed apparecchi ad essi assimilabili, stabilita dall'[art. 1 del R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
  
  La circolazione dei velocipedi muniti di piccoli motori ausiliari indicati nel secondo comma dell'art. 8 del R. decreto predetto, e' soggetta alla tassa annua fissa di L. 30. 
  
@@ -42,13 +42,13 @@ E' soppressa la tassa sulla circolazione dei velocipedi, e sulle macchine ed app
 
 Sono soppressi: 
  
- a) le tasse di bollo sulle note e conti degli alberghi, locande e pensioni di che al [R. decreto 30 dicembre 1923, numero 3274, e art. 1](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20conti%20degli%20alberghi%20ristoranti%20e%20caffe.%20023U3274.md) dell'annessa tariffa; 
+ a) le tasse di bollo sulle note e conti degli alberghi, locande e pensioni di che al [R. decreto 30 dicembre 1923, numero 3274, e art. 1](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20conti%20degli%20alberghi%20ristoranti%20e%20caffe.%20023U3274.md) dell'annessa tariffa; 
  
- b) i diritti erariali sui bagni e sulle cure fisiche, di che al titolo VI del [R. decreto 30 dicembre 1923, n. 3276](Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md); 
+ b) i diritti erariali sui bagni e sulle cure fisiche, di che al titolo VI del [R. decreto 30 dicembre 1923, n. 3276](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md); 
  
- c) il diritto erariale, di che all'[art. 16 del R. decreto 30 dicembre 1923, n. 3276](Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), relativo ai diritti erariali sugli spettacoli, sui versamenti che sotto i nomi di entrature, inscrizioni e simili, vengono fatti da coloro che partecipano alle gare di tiro al volo e alle altre gare ivi indicate. 
+ c) il diritto erariale, di che all'[art. 16 del R. decreto 30 dicembre 1923, n. 3276](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), relativo ai diritti erariali sugli spettacoli, sui versamenti che sotto i nomi di entrature, inscrizioni e simili, vengono fatti da coloro che partecipano alle gare di tiro al volo e alle altre gare ivi indicate. 
  
- Sulle note e conti di cui sopra alla lettera a) e sulle ricevute o quietanze od altro documento attestante l'introito di somme per biglietti d'ingresso negli stabilimenti balneari e termali e per cure fisiche, per entrature od iscrizioni di cui sopra alle lettere b) e c), in quanto vengano rilasciati, e' dovuta la ordinaria tassa di bollo di quietanza di che all'articolo 52 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md).
+ Sulle note e conti di cui sopra alla lettera a) e sulle ricevute o quietanze od altro documento attestante l'introito di somme per biglietti d'ingresso negli stabilimenti balneari e termali e per cure fisiche, per entrature od iscrizioni di cui sopra alle lettere b) e c), in quanto vengano rilasciati, e' dovuta la ordinaria tassa di bollo di quietanza di che all'articolo 52 della tariffa allegato A al [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md).
 
 ## Art. 4.
 
@@ -62,7 +62,7 @@ Le disposizioni di privilegio tributario recate dall'art. 25 del testo unico del
 
 Fino a che non sia entrato in attuazione il nuovo catasto, disposto dalla [legge 1° marzo 1886, n. 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md), continuano ad essere applicati nelle Provincie nelle quali ancora sono in vigore i catasti antichi, le norme regolanti i catasti stessi per quanto riflette gli sgravi dell'imposta fondiaria in caso di perdita del prodotto a causa di infortuni celesti o altri cataclismi. 
  
- Ove si faccia luogo allo sgravio parziale o totale della imposta fondiaria a norma della disposizione suindicata e di quelle della [legge 1° marzo 1886, n. 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md), e' ammessa anche la corrispondente revisione straordinaria del reddito agrario contemplato dal [R. decreto 4 gennaio 1923, n. 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md).
+ Ove si faccia luogo allo sgravio parziale o totale della imposta fondiaria a norma della disposizione suindicata e di quelle della [legge 1° marzo 1886, n. 3682](Riordinamento%20dellimposta%20fondiaria.%20086U3682.md), e' ammessa anche la corrispondente revisione straordinaria del reddito agrario contemplato dal [R. decreto 4 gennaio 1923, n. 16](../Regi%20decreti/Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md).
 
 ### Art. 6.
 
@@ -70,7 +70,7 @@ Per le denunzie tardive delle nuove costruzioni presentate fino al 31 agosto 192
 
 ### Art. 7.
 
-Le tassazioni eseguite agli effetti della imposta di ricchezza mobile, al nome delle societa' anonime ed in accomandita per azioni, degli istituti di credito e delle Casse di risparmio, con le norme dell'art. 25 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), hanno normalmente carattere definitivo. 
+Le tassazioni eseguite agli effetti della imposta di ricchezza mobile, al nome delle societa' anonime ed in accomandita per azioni, degli istituti di credito e delle Casse di risparmio, con le norme dell'art. 25 del testo unico approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), hanno normalmente carattere definitivo. 
  
  Quando pero' il bilancio di competenza risulti passivo, si fara' luogo al rimborso dell'imposta purche' gli enti presentino la richiesta di rimborso entro il termine loro imposto dall'[art. 3 della legge 2 maggio 1907, n. 222](Abolizione%20delle%20revisioni%20biennali%20dei%20redditi%20di%20ricchezza%20mobile%20ed%20altre%20modificazioni%20alla%20legge%20sulla%20imposta%20di%20ricchezza%20mobile.%20007U0222.md), per la presentazione del bilancio. 
  
@@ -130,7 +130,7 @@ Il presente decreto ha vigore dalla data di pubblicazione nella Gazzetta Ufficia
  
  a) per gli articoli 7, 8, 9, 12, 13, 14, che andranno in vigore dal 1° gennaio 1927; 
  
- b) per l'abolizione del diritto erariale di cui alla [lettera c) dell'art. 39 del R. decreto 30 dicembre 1923, n. 3276](Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), compresa nell'art. 3, lettera b) del presente decreto, abolizione efficace dal 1° gennaio 1926. 
+ b) per l'abolizione del diritto erariale di cui alla [lettera c) dell'art. 39 del R. decreto 30 dicembre 1923, n. 3276](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), compresa nell'art. 3, lettera b) del presente decreto, abolizione efficace dal 1° gennaio 1926. 
  
  Questo decreto sara' presentato al Parlamento per la conversione in legge e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

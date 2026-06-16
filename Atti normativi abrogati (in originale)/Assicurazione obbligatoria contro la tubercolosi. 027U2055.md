@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-E' obbligatoria l'assicurazione contro la tubercolosi per le persone di ambo i sessi, che sono assicurate contro la invalidita' e la vecchiaia a norma dell'[art. 1 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_1), e per le persone della gente di mare contribuenti alla Cassa degli invalidi della marina mercantile. 
+E' obbligatoria l'assicurazione contro la tubercolosi per le persone di ambo i sessi, che sono assicurate contro la invalidita' e la vecchiaia a norma dell'[art. 1 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), e per le persone della gente di mare contribuenti alla Cassa degli invalidi della marina mercantile. 
  
  Restano ferme, anche per l'assicurazione contro la tubercolosi, le eccezioni stabilite per l'assicurazione contro la invalidita' e la vecchiaia dai nn. 1 e 3 dell'art. 2 del predetto Regio decreto.
 
@@ -52,7 +52,7 @@ Si provvede agli scopi indicati nell'articolo precedente con il contributo degli
  1ª fino a L. 8 0,50 0,50 
  2ª oltre L. 8 1,00 1,00 
  
- Per la determinazione della retribuzione e per la riscossione dei contributi si applicano le stesse norme in vigore per l'assicurazione obbligatoria contro la invalidita' e la vecchiaia in base al [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), ed al [regolamento 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-08-28;1422).
+ Per la determinazione della retribuzione e per la riscossione dei contributi si applicano le stesse norme in vigore per l'assicurazione obbligatoria contro la invalidita' e la vecchiaia in base al [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), ed al [regolamento 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-08-28;1422).
 
 ## Art. 4.
 
@@ -140,13 +140,13 @@ Il Comitato speciale di cui all'articolo precedente e' composto come segue:
 
 ## Art. 12.
 
-Per la risoluzione di tutte le controversie concernenti l'assicurazione di cui al presente decreto si applicano le disposizioni di cui al titolo V del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184). 
+Per la risoluzione di tutte le controversie concernenti l'assicurazione di cui al presente decreto si applicano le disposizioni di cui al titolo V del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md). 
  
- Il regolamento stabilira' quali membri sanitari dovranno partecipare alla costituzione delle Commissioni arbitrali previste dal citato titolo V del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), per la risoluzione delle controversie predette.
+ Il regolamento stabilira' quali membri sanitari dovranno partecipare alla costituzione delle Commissioni arbitrali previste dal citato titolo V del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), per la risoluzione delle controversie predette.
 
 ## Art. 13.
 
-Le disposizioni di cui agli [articoli 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_39), [41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_41), [42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_42) e [43 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_43), relative alla vigilanza ed alle penalita', si applicano anche per l'assicurazione di cui al presente decreto. 
+Le disposizioni di cui agli [articoli 39](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), [41](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), [42](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md) e [43 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), relative alla vigilanza ed alle penalita', si applicano anche per l'assicurazione di cui al presente decreto. 
  
  Sono estese a tutti gli atti in dipendenza del presente decreto le esenzioni fiscali concesse da precedenti leggi e decreti per le assicurazioni gestite dalla Cassa nazionale per le assicurazioni sociali.
 

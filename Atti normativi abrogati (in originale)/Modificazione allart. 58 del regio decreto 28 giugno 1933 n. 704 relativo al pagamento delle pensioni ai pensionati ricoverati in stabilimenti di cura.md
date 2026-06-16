@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Articolo unico.
 
-All'[art. 58 del regio decreto 28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704#art_58), sono aggiunti i seguenti comma:
+All'[art. 58 del regio decreto 28 giugno 1933, n. 704](../Regi%20decreti/Norme%20per%20il%20funzionamento%20presso%20lAmministrazione%20dello%20Stato%20dei%20servizi%20inerenti%20alla%20liquidazione%20delle%20pensioni.%20033U0704.md), sono aggiunti i seguenti comma:
  "Qualora il pensionato si allontani temporaneamente della propria residenza per necessita' di ricovero in uno stabilimento di cura situato in Comune diverso, il pagamento della pensione puo' avvenire in tale Comune limitatamente alla durata della degenza, da accertarsi mediante attestazione del direttore dello stabilimento di cura.
  Nel caso prospettato nel comma che precede, non e' necessario il cambiamento di residenza del pensionato, e la relativa partita di pensione puo' essere trasferita anche d'ufficio ove la sede dello stabilimento di cura si trovi in differente Provincia".
 

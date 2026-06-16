@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md);
 
-Veduto il [R. decreto 20 agosto 1909, n. 687](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20assistente%20tecnico%20e%20subalterno%20delle%20Universita%20e%20degli%20Istituti%20di%20istruzione%20superiore.%20009U0687.md);
+Veduto il [R. decreto 20 agosto 1909, n. 687](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20assistente%20tecnico%20e%20subalterno%20delle%20Universita%20e%20degli%20Istituti%20di%20istruzione%20superiore.%20009U0687.md);
 
-Veduto il [R. decreto 23 aprile 1911, n. 584](Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20scientifico%20degli%20osservatori%20astronomici%20annessi%20alle%20RR.%20Universita%20ed%20agli%20studi%20superiori%20e%20di%20quelli%20di%20Milano%20Napoli%20e%20Roma.%20011U0584.md);
+Veduto il [R. decreto 23 aprile 1911, n. 584](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20personale%20scientifico%20degli%20osservatori%20astronomici%20annessi%20alle%20RR.%20Universita%20ed%20agli%20studi%20superiori%20e%20di%20quelli%20di%20Milano%20Napoli%20e%20Roma.%20011U0584.md);
 
 Veduta la [legge 22 giugno 1913, n. 780](Che%20proroga%20il%20termine%20fissato%20dallart.%2034%20della%20legge%2019%20luglio%201909%20n.%20496%20recante%20provvedimenti%20per%20listruzione%20superiore.%20013U0780.md);
 
@@ -173,7 +173,7 @@ Rimangono ferme le disposizioni del [decreto legge 14 settembre 1919, n. 1314](h
 
 ### Art. 24.
 
-Il personale assistente, tecnico e subalterno universitario, al quale si applicano le disposizioni del presente decreto, e' non solo quello compreso nelle tabelle I, L, M allegate a testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), con le successive variazioni apportate, ma anche tutto l'altro di uguali denominazioni istituito in virtu' di leggi e di decreti speciali.
+Il personale assistente, tecnico e subalterno universitario, al quale si applicano le disposizioni del presente decreto, e' non solo quello compreso nelle tabelle I, L, M allegate a testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 9 agosto 1910, n. 795](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20010U0795.md), con le successive variazioni apportate, ma anche tutto l'altro di uguali denominazioni istituito in virtu' di leggi e di decreti speciali.
 
 ### Art. 25.
 

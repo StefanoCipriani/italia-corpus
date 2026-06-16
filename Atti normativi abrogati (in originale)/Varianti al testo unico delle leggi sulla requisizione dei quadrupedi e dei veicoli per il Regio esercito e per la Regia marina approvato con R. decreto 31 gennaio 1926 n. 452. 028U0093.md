@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al primo comma dell'art. 1 del testo unico delle leggi sulla requisizione dei quadrupedi e dei veicoli per il Regio esercito e per la Regia marina, approvato col [R. decreto 31 gennaio 1926, n. 452](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md), dopo le parole: « Il Governo del Re, in caso di mobilitazione o nell'imminenza di mobilitazione totale o parziale o in altri casi di urgente necessita', e' autorizzato a requisire per i bisogni del Regio esercito e della Regia marina » si debbono aggiungere le seguenti: « e della Regia aeronautica ».
+Al primo comma dell'art. 1 del testo unico delle leggi sulla requisizione dei quadrupedi e dei veicoli per il Regio esercito e per la Regia marina, approvato col [R. decreto 31 gennaio 1926, n. 452](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md), dopo le parole: « Il Governo del Re, in caso di mobilitazione o nell'imminenza di mobilitazione totale o parziale o in altri casi di urgente necessita', e' autorizzato a requisire per i bisogni del Regio esercito e della Regia marina » si debbono aggiungere le seguenti: « e della Regia aeronautica ».
 
 ## Art. 2.
 
@@ -32,7 +32,7 @@ L'art. 28 del cennato testo unico e' sostituito dal seguente:
 
 ## Art. 5.
 
-Il Governo del Re e' autorizzato a riunire e coordinare in un nuovo testo unico, sentito il Consiglio di Stato, le disposizioni contenute nel [R. decreto 31 gennaio 1926, n. 452](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md), approvante il testo unico delle leggi sulle requisizioni dei quadrupedi e dei veicoli per il Regio esercito e per la Regia marina, colle disposizioni della presente legge. 
+Il Governo del Re e' autorizzato a riunire e coordinare in un nuovo testo unico, sentito il Consiglio di Stato, le disposizioni contenute nel [R. decreto 31 gennaio 1926, n. 452](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md), approvante il testo unico delle leggi sulle requisizioni dei quadrupedi e dei veicoli per il Regio esercito e per la Regia marina, colle disposizioni della presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  In virtu' dei poteri conferiti al Governo col [R. decreto-legge 17 marzo 1927, n. 383](Facolta%20al%20Governo%20del%20Re%20di%20provvedere%20ad%20una%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20027U0383.md); 
  
- Veduto il [R. decreto 2 giugno 1927, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-02;1032), con cui i comuni di Calco e Mondonico sono stati aggregati a quello di Olgiate Molgora; 
+ Veduto il [R. decreto 2 giugno 1927, n. 1032](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Calco%20e%20Mondonico%20a%20quello%20di%20Olgiate%20Molgora.%20027U1032.md), con cui i comuni di Calco e Mondonico sono stati aggregati a quello di Olgiate Molgora; 
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
  

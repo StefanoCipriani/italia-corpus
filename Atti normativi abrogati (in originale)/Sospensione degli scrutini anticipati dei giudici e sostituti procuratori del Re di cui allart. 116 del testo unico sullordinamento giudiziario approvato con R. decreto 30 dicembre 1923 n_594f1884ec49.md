@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 114 e seguenti del testo unico sull'ordinamento giudiziario approvato con [R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md);
+Visti gli articoli 114 e seguenti del testo unico sull'ordinamento giudiziario approvato con [R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la gius
 
 ## Articolo unico.
 
-Fino a nuova disposizione sono sospesi gli scrutini anticipati dei giudici e sostituti procuratori del Re di cui all'art. 116 del testo unico sull'ordinamento giudiziario approvato con [R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), e si fara' solamente luogo alla richiesta di scrutini a turno di anzianita' prevista dall'art. 114 del testo unico suddetto. 
+Fino a nuova disposizione sono sospesi gli scrutini anticipati dei giudici e sostituti procuratori del Re di cui all'art. 116 del testo unico sull'ordinamento giudiziario approvato con [R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md), e si fara' solamente luogo alla richiesta di scrutini a turno di anzianita' prevista dall'art. 114 del testo unico suddetto. 
  
  Il presente decreto avra' vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
  

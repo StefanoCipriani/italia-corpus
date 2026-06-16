@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Veduto l'[art. 73 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_73), portante disposizioni per l'assicurazione obbligatoria degli infortuni sul lavoro e delle malattie professionali;
+Veduto l'[art. 73 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), portante disposizioni per l'assicurazione obbligatoria degli infortuni sul lavoro e delle malattie professionali;
 
 Ritenuta la necessita' di stabilire le norme integrative per l'applicazione del cennato Regio decreto;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di c
 
 ### Art. 1.
 
-Per gli opifici nei quali si fa uso di macchina, di cui al [numero 1 dell'art. 1 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_1-num1), l'assicurazione contro gli infortuni sul lavoro comprende le persone addette a lavori complementari o sussidiari a quelli dell'industria principale anche quando lavorino in locali diversi e separati da quello in cui agisce la macchina.
+Per gli opifici nei quali si fa uso di macchina, di cui al [numero 1 dell'art. 1 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), l'assicurazione contro gli infortuni sul lavoro comprende le persone addette a lavori complementari o sussidiari a quelli dell'industria principale anche quando lavorino in locali diversi e separati da quello in cui agisce la macchina.
 
 ### Art. 2.
 
@@ -34,7 +34,7 @@ Si considerano come addetti a prestare servizio presso macchine mosse da agente 
 
 ### Art. 3.
 
-Sono compresi tra i lavori previsti nei [numeri da 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_1-num3) [a 19 dell'art. 1 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_1-num19), quelli relativi: 
+Sono compresi tra i lavori previsti nei [numeri da 3](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md) [a 19 dell'art. 1 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), quelli relativi: 
  
  1° alla messa in opera e modificazione degli impianti tecnici all'interno ed all'esterno di edifici ed in genere al montaggio e smontaggio di macchine e al collaudo di esse; 
  
@@ -49,25 +49,25 @@ Sono compresi tra i lavori previsti nei [numeri da 3](https://www.normattiva.it/
 
 ### Art. 4.
 
-Le lavorazioni delle materie estratte da miniere, cave, torbiere e saline, di cui al [numero 15 dell'art. 1 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_1-num15), sono comprese nell'assicurazione anche se sono effettuate iu luoghi di deposito.
+Le lavorazioni delle materie estratte da miniere, cave, torbiere e saline, di cui al [numero 15 dell'art. 1 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), sono comprese nell'assicurazione anche se sono effettuate iu luoghi di deposito.
 
 ### Art. 5.
 
-Al fini dell'ultimo [comma 6 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_com6), per i radiotelegrafisti di bordo non assunti direttamente dagli armatori si considera datore di lavoro la societa' concessionaria dei servizi radiotelegrafici di bordo. 
+Al fini dell'ultimo [comma 6 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), per i radiotelegrafisti di bordo non assunti direttamente dagli armatori si considera datore di lavoro la societa' concessionaria dei servizi radiotelegrafici di bordo. 
  
  Il personale predetto e' compreso tra le persone assicurate presso le Casse di cui al numero 1 dell'art. 48 del Regio decreto precitato.
 
 ### Art. 6.
 
-Nel caso di trapasso di una azienda da un datore di lavoro ad un altro, quest'ultimo, nonostante la denuncia effettuata ai sensi dell'[art. 8 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_8), e' solidalmente obbligato con il primo, salvo l'eventuale diritto di regresso del nuovo datore di lavoro verso il precedente, per tutto quanto risulta dovuto all'Istituto assicuratore per premi o contributi di assicurazione e relativi interessi e per somme supplementari a titolo di penale, riferentisi all'anno in corso e ai due antecedenti.
+Nel caso di trapasso di una azienda da un datore di lavoro ad un altro, quest'ultimo, nonostante la denuncia effettuata ai sensi dell'[art. 8 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), e' solidalmente obbligato con il primo, salvo l'eventuale diritto di regresso del nuovo datore di lavoro verso il precedente, per tutto quanto risulta dovuto all'Istituto assicuratore per premi o contributi di assicurazione e relativi interessi e per somme supplementari a titolo di penale, riferentisi all'anno in corso e ai due antecedenti.
 
 ### Art. 7.
 
-Coloro che eseguono lavori direttamente e per proprio conto non sono compresi tra i datori di lavoro tenuti all'obbligo della denuncia alla autorita' di pubblica sicurezza di cui al [quinto comma dell'art. 11 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_11-com5).
+Coloro che eseguono lavori direttamente e per proprio conto non sono compresi tra i datori di lavoro tenuti all'obbligo della denuncia alla autorita' di pubblica sicurezza di cui al [quinto comma dell'art. 11 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md).
 
 ### Art. 8.
 
-La procedura per la riscossione delle imposte dirette, prevista dall'[art. 17 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_17), si applica alla riscossione delle somme dovute secondo l'art. 16 dello stesso decreto dai datori di lavoro alle Casse mutue di cui al numero 1 dell'art. 48 e alle Sezioni su base mutua che fossero costituite presso l'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro a norma dell'art. 1 del R. decreto-leggo 23 marzo 1933. n. 264, convertito nella [legge 29 giugno 1933, n. 860, e dagli articoli 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20marzo%201933%20n.%20264%20concernente%20lunificazione%20degli%20Istituti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20033U0860.md), [11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20marzo%201933%20n.%20264%20concernente%20lunificazione%20degli%20Istituti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20033U0860.md) e [12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20marzo%201933%20n.%20264%20concernente%20lunificazione%20degli%20Istituti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20033U0860.md) del R. decreto 6 luglio 1933. n. 1033, sull'ordinamento dell'Istituto stesso. 
+La procedura per la riscossione delle imposte dirette, prevista dall'[art. 17 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), si applica alla riscossione delle somme dovute secondo l'art. 16 dello stesso decreto dai datori di lavoro alle Casse mutue di cui al numero 1 dell'art. 48 e alle Sezioni su base mutua che fossero costituite presso l'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro a norma dell'art. 1 del R. decreto-leggo 23 marzo 1933. n. 264, convertito nella [legge 29 giugno 1933, n. 860, e dagli articoli 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20marzo%201933%20n.%20264%20concernente%20lunificazione%20degli%20Istituti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20033U0860.md), [11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20marzo%201933%20n.%20264%20concernente%20lunificazione%20degli%20Istituti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20033U0860.md) e [12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20marzo%201933%20n.%20264%20concernente%20lunificazione%20degli%20Istituti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20033U0860.md) del R. decreto 6 luglio 1933. n. 1033, sull'ordinamento dell'Istituto stesso. 
  
  Per la riscossione delle somme dovute dai datori di lavoro non contemplati nel collimi, precedente l'istituto assicuratore potra' avvalersi del procedimento di ingiunzione, stabilito dal testo unico delle leggi relative alla riscossioneedelle entrate patrimoniali dello Stato e degli altri enti' pubblici, approvato con IL decreto 14 aprile 1910, n. 639.
 
@@ -77,7 +77,7 @@ Fermo restando il disposto dell'ultimo comma dell'[art. 18 del R. decreto 17 ago
 
 ### Art. 10.
 
-Si considerano compresi nell'assicurazione, agli effetti del [n. 1 dell'art. 18 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_18-num1), coloro che, prestando la loro opera alle dipendenze e sotto la direzione altrui, abbiano, per esigenze lavorative o per rapporti di parentela, abitazione nei locali in cui si svolge il lavoro.
+Si considerano compresi nell'assicurazione, agli effetti del [n. 1 dell'art. 18 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), coloro che, prestando la loro opera alle dipendenze e sotto la direzione altrui, abbiano, per esigenze lavorative o per rapporti di parentela, abitazione nei locali in cui si svolge il lavoro.
 
 ### Art. 11.
 
@@ -87,15 +87,15 @@ Nel caso di infortunio indennizzabile con una rendita di inabilita' permanente, 
 
 L'Istituto assicuratore ha il diritto di controllare l'andamento, mento delle cure in qualsiasi luogo esse siano praticate di disporre il trasferimento dell'infortunato in luogo di cura designato dall'Istituto medesimo. A tal fine i luoghi di cura presso i quali lo cure sono praticate e i medici privati devono permettere tutti gli accertamenti disposti dall'Istituto e fornire allo stesso tutte le notizie e gli elementi da esso richiesti. 
  
- In caso di contestazione si applicano le disposizioni di cui al [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_32-com2) e [quarto comma dell'art. 32 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_32-com4).
+ In caso di contestazione si applicano le disposizioni di cui al [secondo](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md) e [quarto comma dell'art. 32 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md).
 
 ### Art. 13.
 
-Se nel Comune o nella Provincia esistono medici e stabilimenti di cura preventivamente designati dall'Istituto assicuratore, e l'infortunato, tempestivamente avvertito, si avvale di altro medico o stabilimento di cura, le spese relative sono a carico dell'infortunato salvo quanto dispone il [secondo comma dell'art. 33 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_33-com2).
+Se nel Comune o nella Provincia esistono medici e stabilimenti di cura preventivamente designati dall'Istituto assicuratore, e l'infortunato, tempestivamente avvertito, si avvale di altro medico o stabilimento di cura, le spese relative sono a carico dell'infortunato salvo quanto dispone il [secondo comma dell'art. 33 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md).
 
 ### Art. 14.
 
-Gli albi speciali degli esperti medici, di cui all'[art. 51 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_51), sono formati per ciascun distretto di Corte di appello o di Sezione distaccata di Corte di appello, rispettivamente dal primo presidente o dal presidente della Sezione. 
+Gli albi speciali degli esperti medici, di cui all'[art. 51 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), sono formati per ciascun distretto di Corte di appello o di Sezione distaccata di Corte di appello, rispettivamente dal primo presidente o dal presidente della Sezione. 
  
  Possono essere iscritti negli albi, su designazione dei Sindacati provinciali medici della circoscrizione o su domanda, individuale oppure di ufficio, i medici appartenenti alle seguenti categorie: 
  
@@ -145,7 +145,7 @@ Il primo presidente ed il presidente della Sezione distaccata di Corte d'appello
 
 ### Art. 19.
 
-Nel caso in cui i medici chiamati ad esercitare le funzioni di esperti presso le Corti di appello, le Sezioni distaccate di Corte di appello o i Tribunali non risiedono nella citta' nella quale hanno sede la Corte di appello, la Sezione distaccata di Corte di appello o il Tribunale, e' dovuta ad essi, oltre la indennita' di cui nell'[art. 53 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_53), una indennita' di trasferta e il rimborso delle spese di viaggio nella misura stabilita per gli impiegati dello Stato di grado 7° salvo l'applicazione delle piu' favorevoli disposizioni in vigore per i dipendenti dello Stato, quando i medici predetti rivestano tale qualita'.
+Nel caso in cui i medici chiamati ad esercitare le funzioni di esperti presso le Corti di appello, le Sezioni distaccate di Corte di appello o i Tribunali non risiedono nella citta' nella quale hanno sede la Corte di appello, la Sezione distaccata di Corte di appello o il Tribunale, e' dovuta ad essi, oltre la indennita' di cui nell'[art. 53 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), una indennita' di trasferta e il rimborso delle spese di viaggio nella misura stabilita per gli impiegati dello Stato di grado 7° salvo l'applicazione delle piu' favorevoli disposizioni in vigore per i dipendenti dello Stato, quando i medici predetti rivestano tale qualita'.
 
 ### Art. 20.
 
@@ -157,7 +157,7 @@ Agli effetti della comparsa in giudizio di cui all'[art. 9 del R. decreto 31 mag
 
 ### Art. 21.
 
-Gli accertamenti di cui all'[art. 53 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_53), devono, sempreche' sia possibile, avere luogo all'udienza e, quando le parti ne facciano richiesta ed il presidente del collegio lo consenta, con l'assistenza di un medico di fiducia delle parti stesse.
+Gli accertamenti di cui all'[art. 53 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), devono, sempreche' sia possibile, avere luogo all'udienza e, quando le parti ne facciano richiesta ed il presidente del collegio lo consenta, con l'assistenza di un medico di fiducia delle parti stesse.
 
 ### Art. 22.
 
@@ -165,13 +165,13 @@ Ai fini dell'applicazione del [secondo comma dell'art. 370 del Codice di procedu
 
 ### Art. 23.
 
-Il procedimento contenzioso non puo' essere istituito se non dopo esaurite tutte le pratiche prescritte dal regolamento per la liquidazione amministrativa delle indennita'. La prescrizione prevista dal [primo comma dell'art. 67 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_67-com1) rimane sospesa durante la liquidazione in via amministrativa della indennita', la quale, per altro, deve essere esaurita nel termine di giorni novanta, da quello del ricevimento del certificato medico constatante l'esito definitivo della lesione. Trascorso tale termine senza che la liquidazione sia avvenuta, l'interessato ha facolta' di proporre l'azione giudiziaria. 
+Il procedimento contenzioso non puo' essere istituito se non dopo esaurite tutte le pratiche prescritte dal regolamento per la liquidazione amministrativa delle indennita'. La prescrizione prevista dal [primo comma dell'art. 67 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md) rimane sospesa durante la liquidazione in via amministrativa della indennita', la quale, per altro, deve essere esaurita nel termine di giorni novanta, da quello del ricevimento del certificato medico constatante l'esito definitivo della lesione. Trascorso tale termine senza che la liquidazione sia avvenuta, l'interessato ha facolta' di proporre l'azione giudiziaria. 
  
  
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [R.D. 16 giugno 1938, n. 1275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-16;1275), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [R.D. 16 giugno 1938, n. 1275](../Regi%20decreti/Norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20nei%20casi%20dinfortuni%20in%20servizio.%20038U1275.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 24.
 
@@ -185,15 +185,15 @@ L'Istituto nazionale fascista infortuni e le Casse previste nell'art. 48 del R. 
 
 ### Art. 26.
 
-Alle spese per gli esperti e per i periti nei procedimenti preveduti dal [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), e dal presente decreto e per la partecipazione degli uditori di Tribunali a speciali corsi di addestramento nella legislazione relativa agli infortuni sul lavoro e alle malattie professionali, concorrono gli Istituti assicuratori di cui al titolo V del citato [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765). 
+Alle spese per gli esperti e per i periti nei procedimenti preveduti dal [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), e dal presente decreto e per la partecipazione degli uditori di Tribunali a speciali corsi di addestramento nella legislazione relativa agli infortuni sul lavoro e alle malattie professionali, concorrono gli Istituti assicuratori di cui al titolo V del citato [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md). 
  
  Gli Istituti predetti verseranno annualmente nella Tesoreria dello Stato la somma occorsa per le spese di cui al precedente comma nell'ammontare liquidato dal Ministero delle corporazioni d'intesa con quello delle finanze, e ripartito tra gli Istituti stessi in proporzione dei premi e contributi assicurativi da, essi introitati. 
  
- Le spese indicate nel primo comma del presente articolo sono previste per il primo esercizio di attuazione del [Regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), nella somma di lire cinquecentomila che sara' inscritta in apposito capitolo del bilancio del Ministero di grazia e giustizia, e per gli esercizi successivi nella misura che sara' stabilita con la legge di bilancio.
+ Le spese indicate nel primo comma del presente articolo sono previste per il primo esercizio di attuazione del [Regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), nella somma di lire cinquecentomila che sara' inscritta in apposito capitolo del bilancio del Ministero di grazia e giustizia, e per gli esercizi successivi nella misura che sara' stabilita con la legge di bilancio.
 
 ### Art. 27.
 
-I contratti di assicurazione contro gli infortuni, stipulati anteriormente alla entrata in vigore del [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), da datori di lavoro a favore di prestatori di opera i quali in conseguenza del decreto predetto vengono ad essere compresi tra le persone soggette all'obbligo dell'assicurazione, sono, su richiesta del datore di lavoro contraente, risoluti con effetto dalla data di entrata in vigore del decreto medesimo. 
+I contratti di assicurazione contro gli infortuni, stipulati anteriormente alla entrata in vigore del [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), da datori di lavoro a favore di prestatori di opera i quali in conseguenza del decreto predetto vengono ad essere compresi tra le persone soggette all'obbligo dell'assicurazione, sono, su richiesta del datore di lavoro contraente, risoluti con effetto dalla data di entrata in vigore del decreto medesimo. 
  
  Le imprese assicuratrici hanno pero' facolta' di chiedere la restituzione proporzionale degli sconti poliennali concessi. 
  
@@ -201,11 +201,11 @@ I contratti di assicurazione contro gli infortuni, stipulati anteriormente alla 
 
 ### Art. 28.
 
-In relazione all'[art. 73 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_73), potranno, con successivi Regi decreti, essere emanate ulteriori disposizioni che, anche ad integrazione delle norme del citato e del presente decreto, potranno occorrere per l'attuazione di quanto e' disposto nell'art. 1 della. [legge 29 gennaio 1934, n. 333](Delegazione%20al%20Governo%20di%20riformare%20le%20disposizioni%20legislative%20sullassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20034U0333.md), concernente delegazione al Governo di riformare le disposizioni legislative sull'assicurazione obbligatoria degli infortuni sul lavoro.
+In relazione all'[art. 73 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), potranno, con successivi Regi decreti, essere emanate ulteriori disposizioni che, anche ad integrazione delle norme del citato e del presente decreto, potranno occorrere per l'attuazione di quanto e' disposto nell'art. 1 della. [legge 29 gennaio 1934, n. 333](Delegazione%20al%20Governo%20di%20riformare%20le%20disposizioni%20legislative%20sullassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20034U0333.md), concernente delegazione al Governo di riformare le disposizioni legislative sull'assicurazione obbligatoria degli infortuni sul lavoro.
 
 ### Art. 29.
 
-Le disposizioni del presente decreto entrano in vigore contemporaneamente a quelle del [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), salvo quanto sia diversamente disposto per le norme del titolo VI del citato Regio decreto e del capo II del presente decreto, dal Regio decreto di cui all'art. 75, secondo comma, dello stesso [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765). 
+Le disposizioni del presente decreto entrano in vigore contemporaneamente a quelle del [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), salvo quanto sia diversamente disposto per le norme del titolo VI del citato Regio decreto e del capo II del presente decreto, dal Regio decreto di cui all'art. 75, secondo comma, dello stesso [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

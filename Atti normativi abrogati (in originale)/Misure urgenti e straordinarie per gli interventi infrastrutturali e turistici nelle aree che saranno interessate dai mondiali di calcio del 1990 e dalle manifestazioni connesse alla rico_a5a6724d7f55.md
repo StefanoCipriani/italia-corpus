@@ -181,7 +181,7 @@ Le convenzioni sono soggette all'approvazione del comitato tecnico.
 
 1.
 
-Per gli interventi di competenza degli enti locali, l'approvazione dei progetti, da parte dei consigli comunali e provinciali e delle relative giunte con i poteri consiliari, ai sensi degli articoli 140 e 250 del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), costituisce, per quanto occorre, variante anche integrativa, degli strumenti urbanistici, salvo l'approvazione del comitato tecnico.
+Per gli interventi di competenza degli enti locali, l'approvazione dei progetti, da parte dei consigli comunali e provinciali e delle relative giunte con i poteri consiliari, ai sensi degli articoli 140 e 250 del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), costituisce, per quanto occorre, variante anche integrativa, degli strumenti urbanistici, salvo l'approvazione del comitato tecnico.
 Essa comporta la dichiarazione di pubblica utilita', indifferibilita' e urgenza dei relativi lavori.
 
 2.

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11), contenente disposizioni sullo stato giuridico degli impiegati civili; 
+ Visto l'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), contenente disposizioni sullo stato giuridico degli impiegati civili; 
  
  Visto l'[art. 1 del R. decreto-legge 24 gennaio 1924, n. 216](Composizione%20del%20Consiglio%20di%20amministrazione%20del%20Ministero%20delleconomia%20nazionale.%20024U0216.md); 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il capo dell'ufficio speciale di studi e propaganda del Ministero delle colonie fa parte del Consiglio di amministrazione del Ministero stesso, insieme agli altri componenti indicati dall'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11). 
+ Il capo dell'ufficio speciale di studi e propaganda del Ministero delle colonie fa parte del Consiglio di amministrazione del Ministero stesso, insieme agli altri componenti indicati dall'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Il presente decreto entrera' in vigore da oggi, e sara' presentato al Parlamento per la sua conversione in legge. 
  

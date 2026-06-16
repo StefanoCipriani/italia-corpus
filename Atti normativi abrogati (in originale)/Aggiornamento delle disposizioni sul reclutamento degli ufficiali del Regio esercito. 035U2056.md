@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
+Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 20 giugno 1935, n. 1257](Aumento%20degli%20organici%20degli%20ufficiali%20delle%20varie%20Armi%20del%20Regio%20esercito.%20035U1257.md), relativo all'aumento degli organici degli ufficiali delle varie armi del Regio esercito;
 
@@ -32,7 +32,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Nel testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629, all'art. 11](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), abrogato dall'[art. 1 del R. decreto-legge 13 maggio 1935, n. 850](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%2021%20marzo%201929%20n.%20629.%20035U0850.md), e' sostituito il seguente nuovo articolo 11: 
+Nel testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629, all'art. 11](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), abrogato dall'[art. 1 del R. decreto-legge 13 maggio 1935, n. 850](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%2021%20marzo%201929%20n.%20629.%20035U0850.md), e' sostituito il seguente nuovo articolo 11: 
  
  «Nel ruolo istituto geografico militare (I.G.M.) i subalterni da assegnare annualmente per completarne il ruolo sono tratti - con le norme, le modalita' e nella proporzione fissate dal Ministro per la guerra - in parte dai subalterni in servizio permanente effettivo delle armi di fanteria, cavalleria, artiglieria e genio, in parte dai sergenti maggiori e marescialli specializzati che prestino servizio presso l'Istituto geografico militare da almeno sette anni ed abbiano compiuto, con esito favorevole, un corso pratico presso il suddetto Istituto. 
  
@@ -40,7 +40,7 @@ Nel testo unico delle disposizioni sul reclutamento degli ufficiali del Regio es
 
 ## Art. 2.
 
-Nel testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629, all'art. 19](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), quale risulta sostituito dal [R. decreto-legge 28 gennaio 1935, n. 36](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%2021%20marzo%201929%20n.%20629.%20035U0036.md), sono aggiunti i seguenti commi: 
+Nel testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629, all'art. 19](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), quale risulta sostituito dal [R. decreto-legge 28 gennaio 1935, n. 36](Modificazioni%20al%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%2021%20marzo%201929%20n.%20629.%20035U0036.md), sono aggiunti i seguenti commi: 
  
  «Nel corpo automobilistico i posti annualmente vacanti nei gradi di subalterno sono devoluti - con le norme, le modalita' e nella proporzione fissate dal Ministro per la guerra - in parte ai subalterni in servizio permanente effettivo delle armi di fanteria, cavalleria, artiglieria e genio, in parte ai sottotenenti provenienti dai sottufficiali (sergenti maggiori e marescialli) in servizio presso i centri automobilistici. 
  

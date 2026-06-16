@@ -20,7 +20,7 @@ Veduto il Nostro decreto 30 dicembre 1920, n. 1890;
 
 Veduto l'art. 96 del testo unico delle leggi sulla istruzione superiore approvato col Nostro decreto 9 agosto 1910, n. 795;
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato col Nostro decreto 1° agosto 1907, n. 636;
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato col Nostro decreto 1° agosto 1907, n. 636;
 
 Veduta la [legge 10 luglio 1910, n. 455](Norme%20per%20gli%20ordini%20dei%20sanitari.%20010U0455.md), estesa alle nuove Provincie del Regno col Nostro decreto 25 settembre 1921, n. 1387;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-I diplomi per l'esercizio delle professioni di medico-chirurgo, veterinario, farmacista e levatrice conseguiti fino alla data dell'armistizio da persone che acquistano la cittadinanza italiana ai sensi degli articoli 70 a 82 del Trattato di S. Germano e dell'[art. 8 del R. decreto 30 dicembre 1920, n. 1890](Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), in un Istituto debitamente autorizzato del cessato Impero austriaco e, se conseguiti in Istituti di altri Stati, confermati (nostrificati) dall'Austria fino alla stessa data, sono equipollenti ai diplomi professionali rilasciati dagli Istituti del Regno.
+I diplomi per l'esercizio delle professioni di medico-chirurgo, veterinario, farmacista e levatrice conseguiti fino alla data dell'armistizio da persone che acquistano la cittadinanza italiana ai sensi degli articoli 70 a 82 del Trattato di S. Germano e dell'[art. 8 del R. decreto 30 dicembre 1920, n. 1890](../Regi%20decreti/Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), in un Istituto debitamente autorizzato del cessato Impero austriaco e, se conseguiti in Istituti di altri Stati, confermati (nostrificati) dall'Austria fino alla stessa data, sono equipollenti ai diplomi professionali rilasciati dagli Istituti del Regno.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ L'equipollenza di cui all'articolo precedente e' estesa ai diplomi per l'eserciz
 
 I diplomi per l'esercizio della professione di levatrice conseguiti dopo la data dell'armistizio nelle scuole d'ostetricia per le nuove Provincie, sono equipollenti ai diplomi rilasciati dalle altre scuole d'ostetricia del Regno. 
  
- Entro un anno dalla pubblicazione del presente decreto le scuole d'ostetricia per le nuove Provincie del Regno dovranno essere riordinate in conformita' del regolamento approvato con [R. decreto 9 agosto 1910, n. 808](Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md).
+ Entro un anno dalla pubblicazione del presente decreto le scuole d'ostetricia per le nuove Provincie del Regno dovranno essere riordinate in conformita' del regolamento approvato con [R. decreto 9 agosto 1910, n. 808](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20speciali%20per%20le%20Facolta%20di%20giurisprudenza%20di%20medicina%20e%20chirurgia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20lettere%20e%20filosofia%20e%20per%20le%20scuole%20di_ce454a6b881c.md).
 
 ## Art. 4.
 
@@ -58,7 +58,7 @@ Ai soli effetti del libero esercizio della professione, esclusa pertanto l'ammis
 
 ## Art. 5.
 
-Le persone fornite di un diploma di veterinario equipollente ai sensi degli articoli precedenti, ma prive del titolo di dottore in veterinaria, sono ammesse a fare gli esami di laurea in zooiatria di cui all'art. 69 del regolamento approvato con [R. decreto 29 gennaio 1891, n. 120](Che%20approva%20lannesso%20regolamento%20unico%20per%20le%20Regie%20Scuole%20superiori%20di%20Medicina%20veterinaria%20del%20Regno.%20091U0120.md).
+Le persone fornite di un diploma di veterinario equipollente ai sensi degli articoli precedenti, ma prive del titolo di dottore in veterinaria, sono ammesse a fare gli esami di laurea in zooiatria di cui all'art. 69 del regolamento approvato con [R. decreto 29 gennaio 1891, n. 120](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20unico%20per%20le%20Regie%20Scuole%20superiori%20di%20Medicina%20veterinaria%20del%20Regno.%20091U0120.md).
 
 ## Art. 6.
 
@@ -68,7 +68,7 @@ I chirurghi autorizzati a esercitare la professione ai termini della legge 17 fe
 
 ## Art. 7.
 
-Possono essere ammessi all'esercizio professionale, indipendentemente dall'acquisto della cittadinanza italiana, i pertinenti alla cessata monarchia austro-ungarica che abbiano esercitato legalmente nelle nuove Provincie del Regno una professione sanitaria da almeno dieci anni prima dell'entrata in vigore del [R. decreto 30 dicembre 1920, n. 1890](Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md). 
+Possono essere ammessi all'esercizio professionale, indipendentemente dall'acquisto della cittadinanza italiana, i pertinenti alla cessata monarchia austro-ungarica che abbiano esercitato legalmente nelle nuove Provincie del Regno una professione sanitaria da almeno dieci anni prima dell'entrata in vigore del [R. decreto 30 dicembre 1920, n. 1890](../Regi%20decreti/Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md). 
  
  Essi devono all'uopo produrre entro il 30 giugno 1922 regolare domanda documentata al Ministero dell'interno, il quale provvedera' con suo decreto sentita la competente autorita' politica provinciale. 
  
@@ -88,7 +88,7 @@ I medici-chirurghi, veterinari e farmacisti che abbiano conseguito l'autorizzazi
 
 ## Art. 9.
 
-Le persone che dichiarano di eleggere la cittadinanza italiana per diritto di opzione o presentano domande per acquistare la stessa ai termini del [R. decreto 30 dicembre 1920, n. 1890](Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), possono continuare ad esercitare le professioni indicate negli articoli precedenti fino a tanto che non sia avvenuta la decisione definitiva sulla dichiarazione o domanda predetta. 
+Le persone che dichiarano di eleggere la cittadinanza italiana per diritto di opzione o presentano domande per acquistare la stessa ai termini del [R. decreto 30 dicembre 1920, n. 1890](../Regi%20decreti/Che%20in%20esecuzione%20dei%20trattati%20di%20pace%20regola%20nei%20territori%20annessi%20al%20Regno%20il%20riconoscimento%20della%20cittadinanza%20di%20pieno%20diritto%20lesercizio%20del%20diritto%20di%20opzione%20e%20gli%20altri%20modi%20di%20ac_e512594be3b6.md), possono continuare ad esercitare le professioni indicate negli articoli precedenti fino a tanto che non sia avvenuta la decisione definitiva sulla dichiarazione o domanda predetta. 
  
  Le persone che si trovano nelle condizioni volute per chiedere l'autorizzazione di cui all'art. 7 del presente decreto possono continuare l'esercizio professionale fino al 30 giugno 1922, e, quando abbiano presentata la relativa richiesta, fino alla decisione del Ministero dell'interno sulla stessa.
 

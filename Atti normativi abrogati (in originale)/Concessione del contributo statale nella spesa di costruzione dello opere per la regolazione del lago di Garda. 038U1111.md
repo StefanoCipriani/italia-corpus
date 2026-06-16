@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Articolo unico.
 
-Il limite d'impegno per le annualita', relative a sovvensioni e contributi previsti da leggi speciali, che viene stabilito con la legge di approvazione dello stato di previsione della spesa del Ministero dei lavori pubblici, sara' integrato di L. 1.000.000 nell'esercizio 1938-39, per provvedere alla concessione del contributo statale, in base agli [articoli 73 e seguenti del testo unico sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_73) 11 dicembre 1933, n. 1775, nella spesa di costruzione delle opere per la regolazione del lago di Garda. 
+Il limite d'impegno per le annualita', relative a sovvensioni e contributi previsti da leggi speciali, che viene stabilito con la legge di approvazione dello stato di previsione della spesa del Ministero dei lavori pubblici, sara' integrato di L. 1.000.000 nell'esercizio 1938-39, per provvedere alla concessione del contributo statale, in base agli [articoli 73 e seguenti del testo unico sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) 11 dicembre 1933, n. 1775, nella spesa di costruzione delle opere per la regolazione del lago di Garda. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

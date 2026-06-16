@@ -113,7 +113,7 @@ Fra il primo ed il secondo comma dell'art. 11 del R. decreto-legge 4 marzo 1937-
 
 ## Art. 18.
 
-A decorrere dalla data di pubblicazione del presente decreto, e limitatamente ad un triennio, l'anzianita' di servizio prevista dall'[art. 11 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per l'ammissione all'esame di concorso per la promozione al grado di archivista della carriera d'ordine della Ragioneria generale dello Stato ed al grado di primo ufficiale ai ragioneria delle Intendenze di finanza, e' ridotta di un quarto. 
+A decorrere dalla data di pubblicazione del presente decreto, e limitatamente ad un triennio, l'anzianita' di servizio prevista dall'[art. 11 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), per l'ammissione all'esame di concorso per la promozione al grado di archivista della carriera d'ordine della Ragioneria generale dello Stato ed al grado di primo ufficiale ai ragioneria delle Intendenze di finanza, e' ridotta di un quarto. 
  
  E' del pari ridotta di un quarto l'anzianita' di servizio prevista per la promozione ai suindicati gradi col criterio della anzianita' congiunta al merito. 
  

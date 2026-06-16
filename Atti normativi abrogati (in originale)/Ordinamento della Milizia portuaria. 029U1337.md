@@ -14,7 +14,7 @@ Gli [articoli 2](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.m
  
  Art. 2. - E' istituita la Milizia portuaria, specialita' della Milizia volontaria per la sicurezza nazionale, che svolge la propria attivita' nell'ambito di alcuni porti principali ed in quei tratti del litorale del Regno, dove se ne dimostri la necessita', per i servizi di cui all'art. 10. 
  
- Art. 4. - Al personale della Milizia portuale spetta il trattamento di previdenza stabilito dalla convenzione 12 luglio 1928, stipulata con l'istituto nazionale delle assicurazioni e resa esecutiva con [R. decreto 24 dicembre 1928, n. 3408](Approvazione%20della%20Convenzione%20fra%20lIstituto%20nazionale%20delle%20assicurazioni%20ed%20il%20Comando%20della%20Milizia%20portuaria%20per%20assicurare%20il%20trattamento%20di%20previdenza%20al%20personale%20della%20Milizia%20stessa.%20028U3408.md). 
+ Art. 4. - Al personale della Milizia portuale spetta il trattamento di previdenza stabilito dalla convenzione 12 luglio 1928, stipulata con l'istituto nazionale delle assicurazioni e resa esecutiva con [R. decreto 24 dicembre 1928, n. 3408](../Regi%20decreti/Approvazione%20della%20Convenzione%20fra%20lIstituto%20nazionale%20delle%20assicurazioni%20ed%20il%20Comando%20della%20Milizia%20portuaria%20per%20assicurare%20il%20trattamento%20di%20previdenza%20al%20personale%20della%20Milizia%20stessa.%20028U3408.md). 
  
  Art. 5. - La Milizia portuaria dipende disciplinarmente dal Comando generale della Milizia volontaria per la sicurezza nazionale. Per l'impiego tecnico dipende dal Ministero delle comunicazioni o dalle competenti autorita' militari o di pubblica sicurezza, rispettivamente, secondo i criteri di massima fissati dai commi a) e b) dell'art. 10. 
  
@@ -87,7 +87,7 @@ Gli [articoli 2](Nuovo%20ordinamento%20della%20Milizia%20portuaria.%20027U2073.m
 
 Agli ufficiali della Milizia portuaria sono dovuti gli assegni e le competenze speciali, ordinarie ed eventuali, degli ufficiali della Milizia forestale, nella stessa misura e con le stesse modalita' di concessione per questi stabilite, ad eccezione dell'indennita' cavalli. 
  
- Agli ufficiali della Milizia portuaria si applicano le disposizioni contenute nel [R. decreto 3 agosto 1928, n. 1886](Revisione%20della%20indennita%20di%20alloggio%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20028U1886.md), riguardanti le indennita' di alloggio agli ufficiali dell'Arma dei Reali carabinieri.
+ Agli ufficiali della Milizia portuaria si applicano le disposizioni contenute nel [R. decreto 3 agosto 1928, n. 1886](../Regi%20decreti/Revisione%20della%20indennita%20di%20alloggio%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20028U1886.md), riguardanti le indennita' di alloggio agli ufficiali dell'Arma dei Reali carabinieri.
 
 ## Art. 3.
 
@@ -103,7 +103,7 @@ Al personale cui e' affidato speciale incarico di radiotelegrafista, conducente 
 
 ## Art. 5.
 
-Per le indennita' di viaggio, di missione e di trasferimento per i sottufficiali, militi scelti, militi ed allievi militi, si applicano le disposizioni degli [articoli 199](Approvazione%20del%20regolamento%20della%20Milizia%20nazionale%20forestale.%20026U1465.md) e [202 del Regio decreto 13 agosto 1926, n. 1465](Approvazione%20del%20regolamento%20della%20Milizia%20nazionale%20forestale.%20026U1465.md), intendendosi corrispondenti ai gradi di brigadiere e vice-brigadiere quelli di caposquadra e di vice-caposquadra.
+Per le indennita' di viaggio, di missione e di trasferimento per i sottufficiali, militi scelti, militi ed allievi militi, si applicano le disposizioni degli [articoli 199](../Regi%20decreti/Approvazione%20del%20regolamento%20della%20Milizia%20nazionale%20forestale.%20026U1465.md) e [202 del Regio decreto 13 agosto 1926, n. 1465](../Regi%20decreti/Approvazione%20del%20regolamento%20della%20Milizia%20nazionale%20forestale.%20026U1465.md), intendendosi corrispondenti ai gradi di brigadiere e vice-brigadiere quelli di caposquadra e di vice-caposquadra.
 
 ## Art. 6.
 

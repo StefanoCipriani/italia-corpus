@@ -44,7 +44,7 @@ E' autorizzato il ritiro dalla circolazione di monete di nichelio esuberanti da 
 
 ## Art. 5.
 
-Per l'esercizio 1935-36 il fondo da stanziare nel bilancio del Ministero dell'interno per diminuire le cause della malaria, ai sensi dell'[art. 328 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_328) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e' stabilito nella somma di L.
+Per l'esercizio 1935-36 il fondo da stanziare nel bilancio del Ministero dell'interno per diminuire le cause della malaria, ai sensi dell'[art. 328 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e' stabilito nella somma di L.
 5.000.000.
 
 ## Art. 6.

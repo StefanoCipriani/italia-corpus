@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Veduto il [R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413);
+Veduto il [R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md);
 
 Veduto il [R. decreto 22 dicembre 1932, n. 1854](Proroga%20dei%20termini%20per%20la%20sistemazione%20del%20personale%20insegnante%20fornito%20dellabilitazione%20allinsegnamento%20elementare%20appartenente%20al%20ruolo%20transitorio.%20032U1854.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Articolo unico.
 
-E' abrogata la disposizione dell'[art. 12 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_12), prorogata con successivi decreti, che faceva obbligo ai professori iscritti nel ruolo transitorio previsto dall'art. 11 stesso decreto, e forniti del diploma di abilitazione all'insegnamento elementare, di chiedere la sistemazione come insegnanti nelle scuole elementari. 
+E' abrogata la disposizione dell'[art. 12 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), prorogata con successivi decreti, che faceva obbligo ai professori iscritti nel ruolo transitorio previsto dall'art. 11 stesso decreto, e forniti del diploma di abilitazione all'insegnamento elementare, di chiedere la sistemazione come insegnanti nelle scuole elementari. 
  
  A compenso della conservazione nel ruolo transitorio di quelli dei suddetti professori, attualmente in numero di 38, ai quali non e' applicabile l'[art. 36, comma 2°, del R. decreto-legge 6 ottobre 1930, n. 1379](Riordinamento%20della%20Scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20030U1379.md), convertito in legge con la [legge 22 aprile 1932, n. 490](Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), saranno mantenuti vacanti nei ruoli ordinari del Ministero dell'educazione nazionale 38 posti di gruppo e grado non inferiori a quelli dai professori stessi occupati. Tale numero sara' diminuito a mano a mano che i suddetti professori cesseranno di appartenere al ruolo transitorio. 
  

@@ -34,7 +34,7 @@ a) il capitale ricavato dalla sottoscrizione effettuata fra il personale ferrovi
  
  b) il fondo costituito dalle trattenute effettuate al personale che partecipo' allo sciopero del gennaio 1920. 
  
- Le quote d'ammortamento maturate e maturande dei mutui concessi alle Societa' cooperative edilizie sulle somme di cui al precedente punto b) in forza del [R. decreto 10 maggio 1923, n. 1224](Che%20autorizza%20lAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20investire%20la%20somma%20di%20L.%208.305.000%20in%20mutui%20alle%20Cooperative%20edilizie%20fra%20il%20personale%20ferroviario.%20023U1224.md), restano devolute all'Opera di previdenza del personale delle ferrovie dello Stato.
+ Le quote d'ammortamento maturate e maturande dei mutui concessi alle Societa' cooperative edilizie sulle somme di cui al precedente punto b) in forza del [R. decreto 10 maggio 1923, n. 1224](../Regi%20decreti/Che%20autorizza%20lAmministrazione%20delle%20ferrovie%20dello%20Stato%20ad%20investire%20la%20somma%20di%20L.%208.305.000%20in%20mutui%20alle%20Cooperative%20edilizie%20fra%20il%20personale%20ferroviario.%20023U1224.md), restano devolute all'Opera di previdenza del personale delle ferrovie dello Stato.
 
 ## Art. 4.
 

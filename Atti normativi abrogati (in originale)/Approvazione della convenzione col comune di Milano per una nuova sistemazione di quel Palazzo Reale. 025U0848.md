@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 3 ottobre 1919, n. 1792](https://www.normattiva.it/ur
 
 Visto il decreto Presidenziale 30 aprile 1920, n: 882, pubblicato nella Gazzetta Ufficiale del Regno del 16 giugno 1920, n. 141;
 
-Visto il [R. decreto 11 maggio 1920, n. 614](Contenente%20le%20norme%20per%20il%20trasferimento%20dal%20Ministero%20dellistruzione%20pubblica%20al%20comune%20di%20Milano%20dellassegnazione%20in%20uso%20del%20Palazzo%20reale%20in%20quella%20citta.%20020U0614.md);
+Visto il [R. decreto 11 maggio 1920, n. 614](../Regi%20decreti/Contenente%20le%20norme%20per%20il%20trasferimento%20dal%20Ministero%20dellistruzione%20pubblica%20al%20comune%20di%20Milano%20dellassegnazione%20in%20uso%20del%20Palazzo%20reale%20in%20quella%20citta.%20020U0614.md);
 
 Visto il decreto Presidenziale 1° gennaio 1921, pubblicato nella Gazzetta Ufficiale del Regno del 26 gennaio 1921, n. 21;
 

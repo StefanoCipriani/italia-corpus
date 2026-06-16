@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' abrogato il [R. decreto 12 ottobre 1933, n. 1440](Istituzione%20del%20Capo%20del%20Littorio.%20033U1440.md), concernente la istituzione del «capo del littorio» ed e' conseguentemente revocata ogni relativa concessione. 
+E' abrogato il [R. decreto 12 ottobre 1933, n. 1440](../Regi%20decreti/Istituzione%20del%20Capo%20del%20Littorio.%20033U1440.md), concernente la istituzione del «capo del littorio» ed e' conseguentemente revocata ogni relativa concessione. 
  
  L'anzidetta figura araldica e' tolta dagli stemmi che la contengono, ed in essi il campo dello scudo e' ricoperto interamente dalle insegne del titolare dello stemma. 
  

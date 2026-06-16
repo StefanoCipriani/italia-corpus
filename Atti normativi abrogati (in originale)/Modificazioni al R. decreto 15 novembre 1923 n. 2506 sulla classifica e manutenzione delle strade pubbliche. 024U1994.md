@@ -44,17 +44,17 @@ Gli impegni di spesa per la manutenzione fino al 30 giugno 1925 delle strade di 
 
 ## Art. 5.
 
-Il contributo statale di cui all'[articolo 2 del R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506#art_2), verra' calcolato, per la manutenzione di cui all'art. 1, previo accertamento per parte del Genio civile della regolarita' dell'esecuzione e degli atti contabili, sull'importo netto effettivo dei lavori in appalto e su quello delle spese in economia, aumentato del 6 % per spese generali e di sorveglianza. 
+Il contributo statale di cui all'[articolo 2 del R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md), verra' calcolato, per la manutenzione di cui all'art. 1, previo accertamento per parte del Genio civile della regolarita' dell'esecuzione e degli atti contabili, sull'importo netto effettivo dei lavori in appalto e su quello delle spese in economia, aumentato del 6 % per spese generali e di sorveglianza. 
  
  Analogamente verra' calcolato il contributo delle Provincie nella spesa per quelle strade di 1ª classe gia' nazionali e provinciali, la cui manutenzione sia stata eseguita a cura dello Stato.
 
 ## Art. 6.
 
-Nella determinazione dei tracciati delle strade di 1ª classe di cui all'articolo 13, 2° comma, del [R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506), il Governo del Re e' autorizzato a rettificare le indicazioni dei punti estremi e di quelli intermedi delle singole strade risultanti dall'elenco annesso al detto decreto, quando il Consiglio superiore dei lavori pubblici, abbia riconosciuto erronee e non rispondenti alla continuita' e organicita' della rete tali indicazioni.
+Nella determinazione dei tracciati delle strade di 1ª classe di cui all'articolo 13, 2° comma, del [R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md), il Governo del Re e' autorizzato a rettificare le indicazioni dei punti estremi e di quelli intermedi delle singole strade risultanti dall'elenco annesso al detto decreto, quando il Consiglio superiore dei lavori pubblici, abbia riconosciuto erronee e non rispondenti alla continuita' e organicita' della rete tali indicazioni.
 
 ## Art. 7.
 
-Le strade nazionali non comprese nell'elenco delle strade di 1ª classe allegato al [R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506), si considereranno appartenenti alla classe seconda a decorrere dal 1° luglio 1924 fino alla loro definitiva classificazione. 
+Le strade nazionali non comprese nell'elenco delle strade di 1ª classe allegato al [R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md), si considereranno appartenenti alla classe seconda a decorrere dal 1° luglio 1924 fino alla loro definitiva classificazione. 
  
  Agli effetti dell'applicazione del precedente comma le strade erariali del cessato Impero austro-ungarico saranno considerate come nazionali.
 

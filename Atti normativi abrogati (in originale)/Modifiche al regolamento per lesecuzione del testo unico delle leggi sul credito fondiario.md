@@ -14,11 +14,11 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto il testo unico delle leggi sul credito fondiario, approvato
 
-con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modificazioni;
+con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modificazioni;
 
 Visto il regolamento per l'esecuzione del predetto testo unico,
 
-approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e successive modificazioni;
+approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), e successive modificazioni;
 
 Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
 
@@ -40,7 +40,7 @@ Lo stesso sistema puo' essere adottato anche per l'annullamento delle cedole del
 
 ## Art. 3.
 
-Il secondo comma dell'art. 79 del regolamento per la esecuzione del testo unico delle leggi sul credito fondiario approvato con [regio decreto 5 maggio 1910, numero 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e successive modificazioni, e' sostituito dal seguente: 
+Il secondo comma dell'art. 79 del regolamento per la esecuzione del testo unico delle leggi sul credito fondiario approvato con [regio decreto 5 maggio 1910, numero 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), e successive modificazioni, e' sostituito dal seguente: 
  "L'organo di vigilanza puo', con provvedimento motivato, nel termine di venti giorni successivi a quello in cui pervennero, dichiarare la nullita' delle deliberazioni adottate dai consigli di amministrazione e dagli altri organi deliberanti non conformi alle leggi, agli statuti ed ai regolamenti".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

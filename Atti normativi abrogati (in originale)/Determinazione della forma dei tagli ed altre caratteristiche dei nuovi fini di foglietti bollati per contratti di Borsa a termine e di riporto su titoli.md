@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), portante disposizioni in materia di tasse sui contratti di Borsa;
+Visto il [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), portante disposizioni in materia di tasse sui contratti di Borsa;
 
 Visti il [regio decreto-legge 20 dicembre 1932, n. 1607](Disposizioni%20per%20la%20tutela%20delle%20negoziazioni%20di%20titoli%20e%20valute.%20032U1607.md), portante norme per la tutela delle negoziazioni dei titoli e valute, ed il relativo decreto Ministeriale 27 dicembre 1932 per la sua applicazione;
 

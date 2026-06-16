@@ -20,7 +20,7 @@ Visto il regolamento per l'esecuzione di detto testo unico di legge, approvato c
 
 Visto il [R. decreto 22 settembre 1890, n. 7164](Che%20determina%20il%20numero%20e%20lampiezza%20delle%20zone%20di%20servitu%20militari%20da%20applicarsi%20alle%20proprieta%20fondiarie%20adiacenti%20alle%20opere%20di%20fortificazione%20e%20magazzini%20da%20polveri%20della%20piazza%20di%20Gaeta.%20090U7164.md), con il quale venivano imposte le zone di servitu' militari attorno alle opere fortificate della piazzaforte di Gaeta;
 
-Visti i [Regi decreti 1° giugno 1899, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-06-01;184); 12 ottobre 1905, 7 luglio 1.910, n. 266, 28 luglio 1921, n. 1172, con i quali venivano apportate modificazioni a dette zone di servitu' militari;
+Visti i [Regi decreti 1° giugno 1899, n. 184](../Regi%20decreti/Che%20modifica%20le%20zone%20di%20servitu%20militare%20attorno%20alla%20piazza%20di%20Gaeta.%209900184R.md); 12 ottobre 1905, 7 luglio 1.910, n. 266, 28 luglio 1921, n. 1172, con i quali venivano apportate modificazioni a dette zone di servitu' militari;
 
 Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Segretario di Stato per gli affari della guerra; Abbiamo decretato e decretiamo:
 

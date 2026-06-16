@@ -102,7 +102,7 @@ La provincia e la regione adottano direttamente, ovvero sollecitano presso le al
 
 4.
 
-Restano ferme le competenze delle provincie autonome di Trento e di Bolzano ai sensi del testo unico delle leggi sullo statuto speciale per il Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), e delle relative norme di attuazione.
+Restano ferme le competenze delle provincie autonome di Trento e di Bolzano ai sensi del testo unico delle leggi sullo statuto speciale per il Trentino-Alto Adige, approvato con [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), e delle relative norme di attuazione.
 
 ## Art. 6. — Scarichi diretti
 

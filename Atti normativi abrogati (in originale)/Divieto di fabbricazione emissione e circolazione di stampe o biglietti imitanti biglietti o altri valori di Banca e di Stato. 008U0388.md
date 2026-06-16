@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  E' proibita la fabbricazione, la emissione e la circolazione, per qualsiasi scopo, di qualunque genere di biglietti o stampati imitanti o simulanti, in tutto o in parte, nel recto o nel verso, sia i biglietti di Stato o di Banca nazionali o esteri, sia qualunque altra titolo rappresentante valori di Stato o di Banca. 
  
- Le contravvenzioni sono punite con la multa comminata nell'art. 141 del testo unico di legge sugli Istituti d'emissione approvato col [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md). 
+ Le contravvenzioni sono punite con la multa comminata nell'art. 141 del testo unico di legge sugli Istituti d'emissione approvato col [R. decreto 9 ottobre 1900, n. 373](../Regi%20decreti/Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md). 
  
  Gli stampati e le lastre relative saranno sempre confiscate, a chiunque appartengano, e dovranno essere distrutti. 
  

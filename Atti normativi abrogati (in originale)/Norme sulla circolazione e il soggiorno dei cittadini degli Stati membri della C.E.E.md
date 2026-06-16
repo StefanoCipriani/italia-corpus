@@ -71,7 +71,7 @@ I cittadini di uno degli Stati membri della Comunita' economica europea - divers
 
 Il soggiorno per i cittadini di uno Stato membro della Comunita' economica europea che si stabiliscono sul territorio della Repubblica per esercitarvi un'attivita' non subordinata ha la durata di cinque anni ed e' prorogabile automaticamente.
  Salvo misure giustificate da motivi di ordine pubblico o di pubblica sicurezza riferentisi al comportamento personale dell'individuo, le persone di cui agli articoli 1, 2, 3 e 4 possono soggiornare su tutto il territorio nazionale.
- Nei confronti delle stesse persone non si applica la disposizione di cui al [secondo comma dell'art. 142 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_142-com2) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773).
+ Nei confronti delle stesse persone non si applica la disposizione di cui al [secondo comma dell'art. 142 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ## Art. 6.
 
@@ -126,7 +126,7 @@ I passaporti e le carte d'identita' concessi o rinnovati ai cittadini che si rec
 
 ## Art. 14.
 
-Gli agenti, rappresentanti, commessi viaggiatori e piazzisti di cui all'[art. 127 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_127), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), nonche' gli istitutori ed i rappresentanti di case estere di cui all'art. 243 del regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), qualora siano cittadini di uno Stato membro della Comunita' economica europea, sono tenuti a munirsi della sola copia della licenza concessa alla ditta rappresentata provando la loro qualita' mediante certificato, rilasciato dalle competenti autorita' del luogo dove ha sede la ditta.
+Gli agenti, rappresentanti, commessi viaggiatori e piazzisti di cui all'[art. 127 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), nonche' gli istitutori ed i rappresentanti di case estere di cui all'art. 243 del regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), qualora siano cittadini di uno Stato membro della Comunita' economica europea, sono tenuti a munirsi della sola copia della licenza concessa alla ditta rappresentata provando la loro qualita' mediante certificato, rilasciato dalle competenti autorita' del luogo dove ha sede la ditta.
 
 ## Art. 15.
 

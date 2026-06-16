@@ -37,7 +37,7 @@ sensi dell'art. 10, comma 3, del testo unico delle
 disposizioni sulla promulgazione delle leggi, 
 sull'emanazione dei decreti del Presidente della Repubblica 
 e sulle pubblicazioni ufficiali della Repubblica italiana, 
-approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
+approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
 fine di facilitare le lettura delle disposizioni di legge 
 alle quali e' operativo il rinvio. Restano invariati il 
 valore e l'efficacia degli atti legislativi qui trascritti.
@@ -180,7 +180,7 @@ In tal caso, e' obbligo del responsabile del procedimento a cui la dichiarazione
 
 Nota all'art. 5:
  - Si trascrive il testo dell'[art. 26 della legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_26) gia' citata.
- "Art. 26 (Sanzioni penali). - Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
+ "Art. 26 (Sanzioni penali). - Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
  A tali effetti, l'esibizione di un atto contenente dati non piu' rispondenti a verita' equivale a uso di atto falso e le dichiarazioni rese ai sensi dei precedenti articoli 2, 3, 4, 8 e autenticate a norma dell'art. 20 sono considerate come fatte a pubblico ufficiale.
  Inoltre, ove i reati indicati nei precedenti commi siano commessi per ottenere la nomina ad un pubblico ufficio o l'autorizzazione all'esercizio di una professione o arte, il giudice, nei casi piu' gravi puo' applicare l'interdizione temporanea dai pubblici uffici o dalla professione o arte.
  Il pubblico ufficiale che autentica le sottoscrizioni o al quale sono esibiti gli atti ammonisce chi sottoscrive la dichiarazione o esibisce l'atto sulla responsabilita' penale cui puo' andare incontro in caso di dichiarazione mendace o di esibizione di atto falso o contenente dati non piu' rispondenti a verita'.

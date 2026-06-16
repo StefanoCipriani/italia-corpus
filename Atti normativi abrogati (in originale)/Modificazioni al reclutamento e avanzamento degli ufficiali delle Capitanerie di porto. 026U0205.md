@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), sull'ordinamento dei corpi militari della Regia marina e sue successive modificazioni;
 
-Visto i [Regi decreti 10 settembre 1923, n. 2068](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e [23 dicembre 1923, n. 2990](Modificazioni%20al%20R.%20decreto%2010%20settembre%201923%20n.%202068%20che%20porta%20varianti%20allordinamento%20dei%20corpi%20militari%20della%20Regia%20marina.%20023U2990.md);
+Visto i [Regi decreti 10 settembre 1923, n. 2068](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e [23 dicembre 1923, n. 2990](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2010%20settembre%201923%20n.%202068%20che%20porta%20varianti%20allordinamento%20dei%20corpi%20militari%20della%20Regia%20marina.%20023U2990.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato e Ministr
 
 ## Articolo unico.
 
-L'[art. 3 del R. decreto 10 settembre 1923, n. 2068](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), modificato con il [R. decreto 23 dicembre 1923, n. 2990](Modificazioni%20al%20R.%20decreto%2010%20settembre%201923%20n.%202068%20che%20porta%20varianti%20allordinamento%20dei%20corpi%20militari%20della%20Regia%20marina.%20023U2990.md), e' abrogato e sostituito dal seguente: 
+L'[art. 3 del R. decreto 10 settembre 1923, n. 2068](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), modificato con il [R. decreto 23 dicembre 1923, n. 2990](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2010%20settembre%201923%20n.%202068%20che%20porta%20varianti%20allordinamento%20dei%20corpi%20militari%20della%20Regia%20marina.%20023U2990.md), e' abrogato e sostituito dal seguente: 
  
  «Dopo l'[art. 16 della legge 29 giugno 1913, n. 797](Riguardante%20lordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20013U0797.md), e' inserito il seguente art. 16-bis: 
  
@@ -56,7 +56,7 @@ L'[art. 3 del R. decreto 10 settembre 1923, n. 2068](Modificazioni%20e%20aggiunt
  
  «I prescelti sono nominati sottotenenti di porto e seguono un corso d'istruzione teorico-pratico presso la Regia accademia navale ed un tirocinio pratico presso le Capitanerie di porto della durata complessiva di dodici mesi, dopo di che sono promossi tenenti secondo l'ordine di graduatoria del concorso, previo accertamento della idoneita' da parte della Commissione ordinaria di avanzamento. 
  
- «Ai sottotenenti di porto comunque reclutati si applicano analogamente le disposizioni dell'[art. 4 del R. decreto 23 dicembre 1923, n. 2866](Varianti%20al%20regolamento%20sullavanzamento%20dei%20corpi%20militari%20della%20Regia%20marina.%20023U2866.md)». 
+ «Ai sottotenenti di porto comunque reclutati si applicano analogamente le disposizioni dell'[art. 4 del R. decreto 23 dicembre 1923, n. 2866](../Regi%20decreti/Varianti%20al%20regolamento%20sullavanzamento%20dei%20corpi%20militari%20della%20Regia%20marina.%20023U2866.md)». 
  
  Il presente decreto andra' in vigore dal 1° gennaio 1926 e sara' presentato al Parlamento per la conversione in legge. 
  

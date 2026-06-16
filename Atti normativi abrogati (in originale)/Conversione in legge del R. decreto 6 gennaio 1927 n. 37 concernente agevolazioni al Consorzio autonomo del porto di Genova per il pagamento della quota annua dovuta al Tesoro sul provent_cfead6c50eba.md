@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 6 gennaio 1927, n. 37](Agevolazioni%20al%20Consorzio%20autonomo%20del%20porto%20di%20Genova%20per%20il%20pagamento%20della%20quota%20annua%20dovuta%20al%20Tesoro%20sul%20provento%20delle%20tasse%20portuali.%20027U0037.md), concernente agevolazioni al Consorzio autonomo del porto di Genova per il pagamento della quota annua dovuta al Tesoro sul provento delle tasse portuali. 
+ E' convertito in legge il [R. decreto 6 gennaio 1927, n. 37](../Regi%20decreti/Agevolazioni%20al%20Consorzio%20autonomo%20del%20porto%20di%20Genova%20per%20il%20pagamento%20della%20quota%20annua%20dovuta%20al%20Tesoro%20sul%20provento%20delle%20tasse%20portuali.%20027U0037.md), concernente agevolazioni al Consorzio autonomo del porto di Genova per il pagamento della quota annua dovuta al Tesoro sul provento delle tasse portuali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

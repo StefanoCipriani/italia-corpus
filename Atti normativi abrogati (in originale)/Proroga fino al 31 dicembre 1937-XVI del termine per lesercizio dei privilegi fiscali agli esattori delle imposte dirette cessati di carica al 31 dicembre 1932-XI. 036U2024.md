@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), che approva il testo unico delle leggi sulla riscossione delle imposte dirette, le successive modificazioni e la [legge 26 marzo 1930, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-26;159);
+Visto il [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), che approva il testo unico delle leggi sulla riscossione delle imposte dirette, le successive modificazioni e la [legge 26 marzo 1930, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-26;159);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1920, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-01-31;100#art_3-num2);
 

@@ -20,7 +20,7 @@ Al fine di evitare i danni dipendenti dalle piene, il Ministero dei lavori pubbl
 
 ## Art. 2.
 
-Al recupero delle quote a carico degli interessati si provvede con le norme di cui al testo unico delle leggi sulle opere idrauliche, approvato con [regio decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), e successive modificazioni.
+Al recupero delle quote a carico degli interessati si provvede con le norme di cui al testo unico delle leggi sulle opere idrauliche, approvato con [regio decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), e successive modificazioni.
 
 ## Art. 3.
 

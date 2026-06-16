@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 3 ottobre 1904, n. 579](Che%20fissa%20la%20indennita%20dovuta%20allufficiale%20di%20stato%20maggiore%20generale%20allatto%20della%20sua%20nomina%20ad%20addetto%20navale%20allestero.%20004U0579.md); 
+ Visto il [R. decreto 3 ottobre 1904, n. 579](../Regi%20decreti/Che%20fissa%20la%20indennita%20dovuta%20allufficiale%20di%20stato%20maggiore%20generale%20allatto%20della%20sua%20nomina%20ad%20addetto%20navale%20allestero.%20004U0579.md); 
  
  Udito il Consiglio superiore di marina; 
  
- Ritenuta l'opportunita' di prevedere nella tabella di cui all'art. 1 del citato [R decreto, n. 579, in data 3 ottobre 1904](Che%20fissa%20la%20indennita%20dovuta%20allufficiale%20di%20stato%20maggiore%20generale%20allatto%20della%20sua%20nomina%20ad%20addetto%20navale%20allestero.%20004U0579.md), anche l'ufficiale dello stato maggiore generale della R. marina col grado di contrammiraglio; 
+ Ritenuta l'opportunita' di prevedere nella tabella di cui all'art. 1 del citato [R decreto, n. 579, in data 3 ottobre 1904](../Regi%20decreti/Che%20fissa%20la%20indennita%20dovuta%20allufficiale%20di%20stato%20maggiore%20generale%20allatto%20della%20sua%20nomina%20ad%20addetto%20navale%20allestero.%20004U0579.md), anche l'ufficiale dello stato maggiore generale della R. marina col grado di contrammiraglio; 
  
  Sulla proposta del ministro della marina; 
  

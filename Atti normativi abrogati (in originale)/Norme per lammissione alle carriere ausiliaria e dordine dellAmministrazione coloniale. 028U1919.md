@@ -34,7 +34,7 @@ Alle carriere ausiliaria e d'ordine dell'Amministrazione coloniale si accede med
 
 ## Art. 2.
 
-Per l'ammissione ai concorsi il Ministro valuta, per ciascun concorrente, la condotta in relazione all'indirizzo politico del Fascismo e, riconosciuto il possesso dei requisiti indicati negli articoli seguenti, giudica con provvedimenti definitivi insindacabili ai sensi dell'ultimo comma dell'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1), e del [secondo comma dell'art. 8 del R. decreto-legge 26 febbraio 1928, n. 355](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md).
+Per l'ammissione ai concorsi il Ministro valuta, per ciascun concorrente, la condotta in relazione all'indirizzo politico del Fascismo e, riconosciuto il possesso dei requisiti indicati negli articoli seguenti, giudica con provvedimenti definitivi insindacabili ai sensi dell'ultimo comma dell'[art. 1 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e del [secondo comma dell'art. 8 del R. decreto-legge 26 febbraio 1928, n. 355](Riordinamento%20del%20personale%20dellAmministrazione%20coloniale.%20028U0355.md).
 
 ## Art. 3.
 
@@ -54,7 +54,7 @@ Gli aspiranti debbono provare con documenti legali:
 
 ## Art. 4.
 
-Coloro che aspirano alla carriera ausiliaria debbono documentare di aver conseguito il diploma di licenza di liceo classico o scientifico, d'istituto tecnico (sezione ragioneria), di scuole medie di commercio o di Regio istituto nautico (sezioni capitani); quelli che aspirano alla carriera d'ordine debbono documentare di aver conseguito il diploma di licenza di scuola media inferiore o alcuno dei corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure la licenza di scuola complementare o di scuola professionale di secondo grado.
+Coloro che aspirano alla carriera ausiliaria debbono documentare di aver conseguito il diploma di licenza di liceo classico o scientifico, d'istituto tecnico (sezione ragioneria), di scuole medie di commercio o di Regio istituto nautico (sezioni capitani); quelli che aspirano alla carriera d'ordine debbono documentare di aver conseguito il diploma di licenza di scuola media inferiore o alcuno dei corrispondenti diplomi, ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure la licenza di scuola complementare o di scuola professionale di secondo grado.
 
 ## Art. 5.
 
@@ -142,7 +142,7 @@ La Commissione nel giorno stabilito per ciascuna prova scritta prepara tre temi.
  
  I temi, appena stabiliti, sono chiusi in pieghi suggellati e firmati esteriormente, sui lembi di chiusura, dai membri della Commissione e dal segretario. 
  
- I pieghi sono conservati dal presidente della Commissione che provvede al sorteggio del tema da svolgere ed all'apertura del piego relativo, osservando le norme di cui all'[art. 35 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_35). 
+ I pieghi sono conservati dal presidente della Commissione che provvede al sorteggio del tema da svolgere ed all'apertura del piego relativo, osservando le norme di cui all'[art. 35 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Le prove scritte dovranno svolgersi con l'osservanza delle norme stabilite dagli articoli 36 e 37 del Regio decreto succitato.
 

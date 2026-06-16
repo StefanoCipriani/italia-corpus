@@ -14,7 +14,7 @@ E' convertito in legge il decreto Reale 20 novembre 1912, n. 1206, concernente p
 
 ## Art. 2.
 
-E' data facolta' al ministro del tesoro di impiegare una somma non superiore alla meta' degli stanziamenti annuali, di cui all'[art. 1, comma secondo, del R. decreto 20 novembre 1912, n. 1206](Riguardante%20provvedimenti%20sulla%20riserva%20metallica%20dei%20biglietti%20dello%20Stato.%20012U1206.md), in conti correnti fruttiferi all'estero, o in buoni fruttiferi del tesoro di Stati esteri, pagabili in oro, tanto gli uni che gli altri sottoposti al vincolo di riserva per i biglietti di Stato. 
+E' data facolta' al ministro del tesoro di impiegare una somma non superiore alla meta' degli stanziamenti annuali, di cui all'[art. 1, comma secondo, del R. decreto 20 novembre 1912, n. 1206](../Regi%20decreti/Riguardante%20provvedimenti%20sulla%20riserva%20metallica%20dei%20biglietti%20dello%20Stato.%20012U1206.md), in conti correnti fruttiferi all'estero, o in buoni fruttiferi del tesoro di Stati esteri, pagabili in oro, tanto gli uni che gli altri sottoposti al vincolo di riserva per i biglietti di Stato. 
  
  Gli interessi dei conti correnti e dei buoni fruttiferi di cui al presente articolo saranno devoluti ad accrescimento del fondo di riserva dei biglietti di Stato depositato presso la Cassa dei depositi e prestiti. 
  

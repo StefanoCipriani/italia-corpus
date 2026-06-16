@@ -48,7 +48,7 @@ Coloro che siano muniti di patenti provvisorie a norma del 1° comma (2ª parte)
 
 ## Art. 5.
 
-Il prefetto, su conforme parere del Consiglio di prefettura, puo' rilasciare patenti definitive, senza l'esperimento degli esami, a coloro che si trovino nelle condizioni dell'art. 162 della legge comunale e provinciale (T. U approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)) ed abbiano prestato non meno di due anni di lodevole servizio con funzioni di concetto presso segreterie di Comuni e Provincie.
+Il prefetto, su conforme parere del Consiglio di prefettura, puo' rilasciare patenti definitive, senza l'esperimento degli esami, a coloro che si trovino nelle condizioni dell'art. 162 della legge comunale e provinciale (T. U approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)) ed abbiano prestato non meno di due anni di lodevole servizio con funzioni di concetto presso segreterie di Comuni e Provincie.
 
 ## Art. 6.
 

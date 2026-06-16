@@ -65,7 +65,7 @@ Ai servizi del Ministero dell'assistenza post-bellica si provvede con personale 
 
 ## Art. 7.
 
-Per le aperture di credito il Ministero dell'assistenza post-bellica e' autorizzato a derogare alle limitazioni previste dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), sia per quanto riguarda la natura delle spese, sia per il limite della somma. Tali aperture di credito sono soggette a rendiconto per essere continuate, salvo casi eccezionali decisi dal Ministro. 
+Per le aperture di credito il Ministero dell'assistenza post-bellica e' autorizzato a derogare alle limitazioni previste dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sia per quanto riguarda la natura delle spese, sia per il limite della somma. Tali aperture di credito sono soggette a rendiconto per essere continuate, salvo casi eccezionali decisi dal Ministro. 
  
  Al Ministero dell'assistenza post-bellica si applicano le norme per la gestione patrimoniale finanziaria dello Stato in periodo di guerra, approvate con [R. decreto legge 21 giugno 1940, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1940-06-21;836), e successive modificazioni. 
  

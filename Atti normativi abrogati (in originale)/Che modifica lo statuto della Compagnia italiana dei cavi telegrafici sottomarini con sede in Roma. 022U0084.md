@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 29 settembre 1921, n. 2021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-09-29;2021), che approva e rende esecutiva la convenzione 12 settembre 1921 per la posa, l'esercizio e la manutenzione di un cavo telegrafico sottomarino tra l'Italia e l'America del Sud e di un altro tra l'Italia e la Grecia;
+Visto il [R. decreto 29 settembre 1921, n. 2021](../Regi%20decreti/Che%20approva%20e%20rende%20esecutiva%20la%20convenzione%2012%20settembre%201921%20per%20la%20posa%20lesercizio%20e%20la%20manutenzione%20di%20un%20cavo%20telegrafico%20sottomarino%20tra%20lItalia%20e%20lAmerica%20del%20Sud%20e%20di%20uno%20tra%20lIta_f9d02d3774d3.md), che approva e rende esecutiva la convenzione 12 settembre 1921 per la posa, l'esercizio e la manutenzione di un cavo telegrafico sottomarino tra l'Italia e l'America del Sud e di un altro tra l'Italia e la Grecia;
 
 Visto l'art. 16 della predetta convenzione il quale stabilisce che lo statuto della Compagnia concessionaria non possa essere modificato per 10 anni senza il preventivo consenso del Governo italiano;
 

@@ -14,7 +14,7 @@ Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie
 
 ## Art. 2.
 
-I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a disposizione, di cui all'art. 20 del testo unico approvato col [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono - per l'esercizio finanziario 1930-31 - quelli descritti nella tabella A, annessa alla presente legge.
+I capitoli a favore dei quali possono effettuarsi prelevamenti dal fondo a disposizione, di cui all'art. 20 del testo unico approvato col [R. decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono - per l'esercizio finanziario 1930-31 - quelli descritti nella tabella A, annessa alla presente legge.
 
 ## Art. 3.
 

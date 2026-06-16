@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[art. 15 del R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281#art_15), che rende applicabile agli ufficiali della Regia guardia di finanza la legge sullo stato degli ufficiali del Regio esercito e relativo regolamento, con le modificazioni rese necessarie dallo speciale ordinamento del Corpo;
 
-Visto l'[art. 3 del R. decreto 31 dicembre 1923, n. 3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_3);
+Visto l'[art. 3 del R. decreto 31 dicembre 1923, n. 3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md);
 
-Visto il [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), che approva il regolamento organico della Regia guardia di finanza;
+Visto il [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), che approva il regolamento organico della Regia guardia di finanza;
 
 Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), sullo stato degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica;
 

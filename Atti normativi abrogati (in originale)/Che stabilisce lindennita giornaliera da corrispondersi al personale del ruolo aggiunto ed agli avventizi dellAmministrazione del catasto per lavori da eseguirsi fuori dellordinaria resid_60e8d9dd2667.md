@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli ingegneri ed ai geometri del ruolo aggiunto dell'Amministrazione del catasto e dei servizi tecnici di finanza, per i lavori che eseguiscono fuori dell'ordinaria residenza, viene corrisposta l'indennita' giornaliera nella misura stabilita dal [R. decreto 14 settembre 1862, n. 840](Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md).
+Agli ingegneri ed ai geometri del ruolo aggiunto dell'Amministrazione del catasto e dei servizi tecnici di finanza, per i lavori che eseguiscono fuori dell'ordinaria residenza, viene corrisposta l'indennita' giornaliera nella misura stabilita dal [R. decreto 14 settembre 1862, n. 840](../Regi%20decreti/Che%20stabilisce%20le%20indennita%20da%20corrispondersi%20agli%20Impiegati%20di%20vari%20Dicasteri%20in%20missione%20per%20affari%20amministrativi.%20062U0840.md).
 
 ## Art. 2.
 

@@ -79,7 +79,7 @@ Contro tale liquidazione l'esercente potra' ricorrere secondo le norme generali 
  
  Alla riscossione sara' provveduto mediante iscrizione a ruolo in unica soluzione con le norme e i privilegi vigenti per la riscossione delle imposte dirette. 
  
- Nei riguardi della dichiarazione stabilita al 1° comma del presente articolo sono applicabili tutte le disposizioni contenute nel testo unico approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608).
+ Nei riguardi della dichiarazione stabilita al 1° comma del presente articolo sono applicabili tutte le disposizioni contenute nel testo unico approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md).
 
 ## Art. 5.
 

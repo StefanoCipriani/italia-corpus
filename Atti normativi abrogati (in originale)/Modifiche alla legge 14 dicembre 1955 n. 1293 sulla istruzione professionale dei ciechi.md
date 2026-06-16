@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 La tabella A annessa alla [legge 14 dicembre 1955, numero 1293](Norme%20sullistruzione%20professionale%20dei%20ciechi.md), e' sostituita dalla tabella A annessa alla presente legge.
- E' altresi' sostituita con le tabelle B e C annesse alla presente legge, la tabella A di cui al [regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449).
+ E' altresi' sostituita con le tabelle B e C annesse alla presente legge, la tabella A di cui al [regio decreto 29 agosto 1941, n. 1449](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md).
 
 ## Art. 2.
 

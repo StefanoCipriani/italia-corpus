@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il regolamento per i servizi degli arsenali, delle basi navali e degli altri stabilimenti di lavoro della Marina militare e per l'amministrazione e la contabilita' dei lavori e dei materiali, approvato con [regio decreto 23 novembre 1939, n. 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-11-23;1898), e successive modificazioni;
+Visto il regolamento per i servizi degli arsenali, delle basi navali e degli altri stabilimenti di lavoro della Marina militare e per l'amministrazione e la contabilita' dei lavori e dei materiali, approvato con [regio decreto 23 novembre 1939, n. 1898](../Regi%20decreti/Regolamento%20per%20i%20servizi%20degli%20Arsenali%20delle%20Basi%20navali%20e%20degli%20altri%20Stabilimenti%20di%20lavoro%20della%20Regia%20marina%20e%20per%20lamministrazione%20e%20la%20contabilita%20dei%20lavori%20e%20dei%20materiali.%20039U1898.md), e successive modificazioni;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e successive modificazioni;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa di concerto con il Ministro per il tes
 
 ## Articolo unico.
 
-Il secondo periodo del paragrafo 7 dell'art. 116 del regolamento approvato con [regio decreto 23 novembre 1939, n. 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-11-23;1898), e' sostituito come segue:
+Il secondo periodo del paragrafo 7 dell'art. 116 del regolamento approvato con [regio decreto 23 novembre 1939, n. 1898](../Regi%20decreti/Regolamento%20per%20i%20servizi%20degli%20Arsenali%20delle%20Basi%20navali%20e%20degli%20altri%20Stabilimenti%20di%20lavoro%20della%20Regia%20marina%20e%20per%20lamministrazione%20e%20la%20contabilita%20dei%20lavori%20e%20dei%20materiali.%20039U1898.md), e' sostituito come segue:
  "Il direttore dei lavori, qualora lo ritenga opportuno, puo' esonerarlo da quest'obbligo contro diminuzione del prezzo concordato, da effettuare all'atto della liquidazione, di una somma pari all'interesse del cinque per cento annuo sul decimo della fornitura per il tempo intercorrente dalla data dell'atto contrattuale a quella del verbale di accettazione definitiva, sempre che non sia stata prestabilita nell'atto contrattuale la somma da dedurre per quel titolo".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

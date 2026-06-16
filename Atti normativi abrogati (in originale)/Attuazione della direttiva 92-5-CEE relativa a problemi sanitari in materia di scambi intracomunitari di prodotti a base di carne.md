@@ -296,7 +296,7 @@ Gli stabilimenti di cui al comma 1, lettera b), devono essere in possesso dei re
 
 5.
 
-Per gli stabilimenti di cui al comma 4 si puo' prescindere dal possesso dei requisiti previsti dall'allegato A, capitolo I, punto 2, lettera g), solo per la parte relativa al comando manuale dei rubinetti, punto 3 e punto 11 e dell'allegato B, capitolo I, nei limiti in cui venga assicurato il rispetto delle norme regolamentari prescritte dal [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
+Per gli stabilimenti di cui al comma 4 si puo' prescindere dal possesso dei requisiti previsti dall'allegato A, capitolo I, punto 2, lettera g), solo per la parte relativa al comando manuale dei rubinetti, punto 3 e punto 11 e dell'allegato B, capitolo I, nei limiti in cui venga assicurato il rispetto delle norme regolamentari prescritte dal [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
 
 6.
 
@@ -521,7 +521,7 @@ Salvo che il fatto costituisca piu' grave reato, per le violazioni alle disposiz
 
 1.
 
-Sono abrogati gli articoli 50, 51, 52, 53, 54, i [commi 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298#art_55-com6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298#art_55-com7) e [8 dell'art. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298#art_55-com8) e gli [articoli 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298#art_56), [57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298#art_57) e [58 del regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298#art_58).
+Sono abrogati gli articoli 50, 51, 52, 53, 54, i [commi 6](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md), [7](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md) e [8 dell'art. 55](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md) e gli [articoli 56](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md), [57](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md) e [58 del regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md).
 
 2.
 

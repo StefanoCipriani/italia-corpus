@@ -22,7 +22,7 @@ Per l'organizzazione e l'attuazione delle celebrazioni del quarantesimo annivers
 
 2.
 
-La Presidenza del Consiglio dei Ministri provvede a somministrare le somme occorrenti per l'organizzazione e lo svolgimento delle celebrazioni, mediante aperture di credito, a favore di un funzionario delegato, di importo anche eccedente il limite previsto dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), come modificato dall'articolo unico della [legge 26 marzo 1975, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-26;92).
+La Presidenza del Consiglio dei Ministri provvede a somministrare le somme occorrenti per l'organizzazione e lo svolgimento delle celebrazioni, mediante aperture di credito, a favore di un funzionario delegato, di importo anche eccedente il limite previsto dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), come modificato dall'articolo unico della [legge 26 marzo 1975, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-26;92).
 
 3.
 

@@ -18,7 +18,7 @@ Le operazioni previste dal precedente articolo possono avere per oggetto tutte l
 
 ## Art. 3.
 
-Una Commissione presieduta dal presidente o dal vice presidente del Consiglio di amministrazione dell'Istituto nazionale delle assicurazioni e composta del consigliere delegato dell'Istituto stesso, del direttore generale del Credito della cooperazione e delle assicurazioni private, e dei rappresentanti dei Ministeri del tesoro, della marina, dell'industria, commercio e lavoro e dei trasporti, sovraintendera' a tutto quanto concerne l'andamento tecnico della nuova gestione, come pure di quella affidata all' Istituto nazionale in virtu' di [R. decreto 30 agosto 1914, n. 902](Col%20quale%20e%20autorizzato%20lIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20i%20rischi%20di%20guerra%20in%20navigazione.%20014U0902.md), per la sicurta' dei rischi di guerra in navigazione.
+Una Commissione presieduta dal presidente o dal vice presidente del Consiglio di amministrazione dell'Istituto nazionale delle assicurazioni e composta del consigliere delegato dell'Istituto stesso, del direttore generale del Credito della cooperazione e delle assicurazioni private, e dei rappresentanti dei Ministeri del tesoro, della marina, dell'industria, commercio e lavoro e dei trasporti, sovraintendera' a tutto quanto concerne l'andamento tecnico della nuova gestione, come pure di quella affidata all' Istituto nazionale in virtu' di [R. decreto 30 agosto 1914, n. 902](../Regi%20decreti/Col%20quale%20e%20autorizzato%20lIstituto%20nazionale%20delle%20assicurazioni%20ad%20assumere%20i%20rischi%20di%20guerra%20in%20navigazione.%20014U0902.md), per la sicurta' dei rischi di guerra in navigazione.
 
 ## Art. 4.
 

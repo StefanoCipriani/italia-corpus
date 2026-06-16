@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), convertito nella [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni ed aggiunte;
 
-Visto il [regio decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), con il quale venne approvato lo statuto della Banca d'Italia;
+Visto il [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), con il quale venne approvato lo statuto della Banca d'Italia;
 
 Visti i [decreti del Presidente della Repubblica 19 aprile 1948, n. 482](Modificazioni%20allo%20statuto%20della%20Banca%20dItalia.md) e [12 febbraio 1963, n. 369](Modifiche%20allo%20statuto%20della%20Banca%20dItalia.md), con i quali lo stesso statuto venne modificato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri di concerto con il Mini
 
 ## Art. 1.
 
-Allo statuto della Banca d'Italia, istituto di diritto pubblico con sede in Roma, approvato con il [regio decreto 11 giugno 1936, n. 1067](Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e modificato con i [decreti del Presidente della Repubblica 19 aprile 1948, n. 482](Modificazioni%20allo%20statuto%20della%20Banca%20dItalia.md) e [12 febbraio 1963, n. 369](Modifiche%20allo%20statuto%20della%20Banca%20dItalia.md), sono apportate le seguenti modificazioni:
+Allo statuto della Banca d'Italia, istituto di diritto pubblico con sede in Roma, approvato con il [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e modificato con i [decreti del Presidente della Repubblica 19 aprile 1948, n. 482](Modificazioni%20allo%20statuto%20della%20Banca%20dItalia.md) e [12 febbraio 1963, n. 369](Modifiche%20allo%20statuto%20della%20Banca%20dItalia.md), sono apportate le seguenti modificazioni:
  all'art. 5, lettera c) le parole "nel governatore, nel direttore generale e nel vice direttore generale" sono sostituite con le parole "nel direttorio, costituito dal governatore, dal direttore generale e da due vice direttori generali";
  all'art. 17 il testo dei commi sesto e settimo e' sostituito dal seguente: "I due vice direttori generali assistono alle riunioni del consiglio e uno di essi, su designazione del consiglio superiore, assume l'ufficio di segretario.
  I membri del consiglio superiore ed i componenti del direttorio debbono essere cittadini italiani";

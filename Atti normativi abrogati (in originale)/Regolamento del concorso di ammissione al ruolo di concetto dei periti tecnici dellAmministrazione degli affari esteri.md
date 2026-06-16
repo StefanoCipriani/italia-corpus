@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
+Visto il testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
 
@@ -28,11 +28,11 @@ Sulla proposta del Ministro degli affari esteri; Decreta:
 
 Per l'ammissione al concorso per il ruolo di concetto dei periti tecnici sono richiesti i seguenti requisiti:
  1) cittadinanza italiana;
- 2) eta' non inferiore ai diciotto anni e non superiore ai trentacinque, salvi i piu' elevati limiti massimi di eta' previsti dall'art. 2 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, per i candidati appartenenti alla categoria ivi indicate;
+ 2) eta' non inferiore ai diciotto anni e non superiore ai trentacinque, salvi i piu' elevati limiti massimi di eta' previsti dall'art. 2 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, per i candidati appartenenti alla categoria ivi indicate;
  3) diploma di abilitazione tecnica industriale con indirizzo in elettronica industriale, e in energia nucleare, o in elettronica, o in telecomunicazioni;
  4) buona condotta che sara' accertata d'ufficio ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md);
  5) costituzione fisica che permetta di affrontare qualsiasi clima ed assenza di imperfezioni fisiche che siano di impedimento o di pregiudizio all'esercizio delle funzioni proprie del ruolo.
- Si applicano le disposizioni del [quinto](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Si applicano le disposizioni del [quinto](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [settimo comma dell'art. 2 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 2. — Domande di ammissione
 
@@ -97,12 +97,12 @@ I programmi di esame sono stabiliti nel decreto che indice il concorso.
 
 ## Art. 8. — Graduatoria
 
-La graduatoria viene formata dalla commissione esaminatrice secondo l'ordine derivante dal punteggio complessivo conseguito da ciascun candidato, previa l'aggiunta dei centesimi eventualmente attribuiti ai sensi dell'art. 6. A parita' di punteggio vengono applicate le norme di cui all'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e le altre vigenti disposizioni in materia di preferenze.
+La graduatoria viene formata dalla commissione esaminatrice secondo l'ordine derivante dal punteggio complessivo conseguito da ciascun candidato, previa l'aggiunta dei centesimi eventualmente attribuiti ai sensi dell'art. 6. A parita' di punteggio vengono applicate le norme di cui all'[art. 5 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e le altre vigenti disposizioni in materia di preferenze.
  Il Ministro degli affari esteri, riconosciuta la regolarita' del procedimento del concorso, approva con proprio decreto, sotto condizione dell'accertamento dei requisiti per l'ammissione nel ruolo, la graduatoria di merito dei concorrenti risultati idonei nelle prove di esame.
 
 ## Art. 9. — Norme da applicare
 
-Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), e successive modificazioni.
+Ad integrazione della specifica disciplina dettata dagli articoli precedenti, si applicano le disposizioni del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), e successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

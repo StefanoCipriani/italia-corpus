@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- Agli [articoli 294](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [295](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [315](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [314 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'Esercito sono sostituiti i seguenti, i quali nelle edizioni ufficiali successive di esso Codice saranno stampati in luogo di quelli che presentemente vi si leggono, sotto i medesimi numeri. 
+ Agli [articoli 294](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [295](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [315](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [314 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'Esercito sono sostituiti i seguenti, i quali nelle edizioni ufficiali successive di esso Codice saranno stampati in luogo di quelli che presentemente vi si leggono, sotto i medesimi numeri. 
  
  «Art. 294. Le sedi e le circoscrizioni giurisdizionali dei Tribunali militari territoriali saranno stabilite con Decreto Reale. 
  

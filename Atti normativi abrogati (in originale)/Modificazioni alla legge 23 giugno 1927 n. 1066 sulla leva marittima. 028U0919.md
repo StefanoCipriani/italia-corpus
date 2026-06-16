@@ -76,7 +76,7 @@ Dopo l'art. 39 e' inserito il seguente art. 39-bis:
  
  « 3° - Gli inscritti che abbiano simulato infermita' od imperfezioni al fine di conseguire la riforma ; 
  
- « 4° - I militari che, a termini del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, siano incorsi nel reato di diserzione ».
+ « 4° - I militari che, a termini del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, siano incorsi nel reato di diserzione ».
 
 ## Art. 10.
 

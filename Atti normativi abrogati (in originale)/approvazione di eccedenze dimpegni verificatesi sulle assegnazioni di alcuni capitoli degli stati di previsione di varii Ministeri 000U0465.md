@@ -14,7 +14,7 @@ E' approvata l'eccedenza d'impegni di lire 4,684,35, verificatasi sull'assegnazi
 
 ## Art. 2.
 
-E' approvata l'eccedenza d'impegni di lire 252,68, verificatasi sull'assegnazione del capitolo n. 9 «Spese pel servizio araldico contemplate dall'[articolo 15 del R. decreto 2 luglio 1896, n. 313](Che%20stabilisce%20un%20nuovo%20ordinamento%20per%20la%20Consulta%20Araldica.%20096U0313.md)» dello stato di previsione della spesa del Ministero dell'Interno per l'esercizio finanziario 1898-99.
+E' approvata l'eccedenza d'impegni di lire 252,68, verificatasi sull'assegnazione del capitolo n. 9 «Spese pel servizio araldico contemplate dall'[articolo 15 del R. decreto 2 luglio 1896, n. 313](../Regi%20decreti/Che%20stabilisce%20un%20nuovo%20ordinamento%20per%20la%20Consulta%20Araldica.%20096U0313.md)» dello stato di previsione della spesa del Ministero dell'Interno per l'esercizio finanziario 1898-99.
 
 ## Art. 3.
 

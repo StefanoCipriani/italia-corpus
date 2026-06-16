@@ -20,7 +20,7 @@ Visto il Nostro decreto 22 agosto 1920, n. 1278, relativo ai lavori di rimboschi
 
 Vista la [deliberazione n. 19 in data 26 settembre 1939](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1939-09-26;19) dell'Amministrazione provinciale di Chieti, approvata con [decreto interministeriale in data 26 giugno 1940, n. 15200/24/11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1940-06-26;2011), con la quale viene aumentato fino a L. 20.000 (ventimila) annue il contributo della provincia di Chieti a decorrere dall'esercizio 1940-41;
 
-Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75), e l'[art. 99 del R. decreto 16 maggio 1926, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126#art_99);
+Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75), e l'[art. 99 del R. decreto 16 maggio 1926, n. 1126](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20dei%20R.%20decreto%2030%20dicembre%201923%20n.%203267%20concernente%20il%20riordinamento%20e%20la%20riforma%20della%20legislazione%20in%20materia%20di%20boschi%20e%20di%20terreni%20montani.%20026U1126.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste; Abbiamo decretato e decretiamo:
 

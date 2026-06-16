@@ -20,9 +20,9 @@ Vieto il [R. decreto-legge 10 luglio 1924, n. 1100](Norme%20sulla%20costituzione
 
 Visto l'art. 2 del R. decreto-leggo 15 ottobre 1925, n. 1791, convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md);
 
-Visto l'art. 7, comma ultimo, del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214);
+Visto l'art. 7, comma ultimo, del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
 
-Visto il testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato o sull'ordinamento dell'Avvocatura dello Stato, approvato con [R. decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611);
+Visto il testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato o sull'ordinamento dell'Avvocatura dello Stato, approvato con [R. decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

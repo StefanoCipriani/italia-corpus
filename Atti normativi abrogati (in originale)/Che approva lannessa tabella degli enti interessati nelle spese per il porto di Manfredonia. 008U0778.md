@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 30 luglio 1888, n. 5629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-30;5629), col quale il porto di Manfredonia fu inscritto nella 1ª categoria, nell'interesse della navigazione centrale nella 4ª classe della 2ª categoria nei riguardi del commercio; 
+ Visto il [R. decreto 30 luglio 1888, n. 5629](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%20prima%20e%20seconda%20categoria%20dei%20porti%20marittimi%20indicati%20negli%20annessi%20elenchi%20colla%20designazione%20degli%20Enti%20interessati%20nelle%20spese.%20088U5629.md), col quale il porto di Manfredonia fu inscritto nella 1ª categoria, nell'interesse della navigazione centrale nella 4ª classe della 2ª categoria nei riguardi del commercio; 
  
  Ritenuto che dagli elementi di istruttoria all'uopo raccolti e' risultato che il porto suddetti Puo' essere promosso dalla 4ª alla 3ª classe della 2ª categoria nei, riguardi commerciali avendo i requisiti di legge; 
  

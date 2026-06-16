@@ -51,7 +51,7 @@ Agli articoli 122, 123, 124 e 125 del testo unico delle leggi sul reclutamento d
 
 ## Art. 2.
 
-Agli articoli 137, 138 e 139 del testo unico delle leggi sul reclutamento del Regio esercito, stato approvato con [Regio decreto 17 agosto 1882, n. 956](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md), sono sostituiti i seguenti: 
+Agli articoli 137, 138 e 139 del testo unico delle leggi sul reclutamento del Regio esercito, stato approvato con [Regio decreto 17 agosto 1882, n. 956](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md), sono sostituiti i seguenti: 
  
  Art. 137. - Alla rafferma senza premio possono essere ammessi, sotto le condizioni determinate dal regolamento: 
  
@@ -83,7 +83,7 @@ Il caposoldo annuo di lire 150 stabilito dall'articolo 146 del testo unico delle
 
 ## Art. 4.
 
-All'art. 121 del testo unico delle leggi sul reclutamento del Regio esercito, stato approvato con [Regio decreto 17 agosto 1882, n. 956](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md), e' sostituito il seguente: 
+All'art. 121 del testo unico delle leggi sul reclutamento del Regio esercito, stato approvato con [Regio decreto 17 agosto 1882, n. 956](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md), e' sostituito il seguente: 
  
  Art. 121. Gli inscritti i quali precedentemente alla leva della loro classe siansi arruolati volontariamente nell'esercito o nell'armata di mare o vi servano in virtu' di Regio decreto, sono considerati aver soddisfatto all'obbligo di leva e calcolati numericamente in deduzione del contingente di 1ª categoria del rispettivo mandamento. 
  

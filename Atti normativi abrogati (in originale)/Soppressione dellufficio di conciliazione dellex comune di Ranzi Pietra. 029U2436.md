@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 6 dicembre 1928, n. 2979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-06;2979), col quale il comune di Ranzi Pietra e' stato soppresso ed il rispettivo territorio aggregato a quello di Pietra Ligure; 
+ Visto il [R. decreto 6 dicembre 1928, n. 2979](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Ranzi%20Pietra%20a%20quello%20di%20Pietra%20Ligure.%20028U2979.md), col quale il comune di Ranzi Pietra e' stato soppresso ed il rispettivo territorio aggregato a quello di Pietra Ligure; 
  
  Vista la deliberazione del podesta' di Pietra Ligure rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Ranzi Pietra; 
  

@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro della marina, di concerto con quello delle fi
 
 All'ufficiale ammiraglio comandante superiore del corpo Reale equipaggi spetta l'indennita' di carica di lire 1.500 annue e l'indennita' di alloggio di lire 2.400 annue. 
  
- Al capitano di vascello comandante il corpo Reale equipaggi, spetta l'indennita' di carica di lire 900 annue. Alla categoria 1ª dei capi servizio, ai quali spetta la precedenza nel conferimento dello alloggio erariale, di cui al [R. decreto n. 285 del 27 febbraio 1921](Concernente%20il%20conferimento%20degli%20alloggi%20erariali%20in%20consegna%20allAmministrazione%20militare%20marittima.%20021U0285.md), e' aggiunto - subito dopo il comandante la difesa - «comandante il corpo Reale equipaggi». 
+ Al capitano di vascello comandante il corpo Reale equipaggi, spetta l'indennita' di carica di lire 900 annue. Alla categoria 1ª dei capi servizio, ai quali spetta la precedenza nel conferimento dello alloggio erariale, di cui al [R. decreto n. 285 del 27 febbraio 1921](../Regi%20decreti/Concernente%20il%20conferimento%20degli%20alloggi%20erariali%20in%20consegna%20allAmministrazione%20militare%20marittima.%20021U0285.md), e' aggiunto - subito dopo il comandante la difesa - «comandante il corpo Reale equipaggi». 
  
  Ai capitani di fregata ed agli ufficiali di grado corrispondente, capi ufficio del Comando superiore del corpo Reale equipaggi, e' assegnata l'indennita' di carica di lire 500 annue ed ai capi reparto quella di lire 400 annue se ufficiali superiori (non comulabile con quella di capo ufficio) e di lire 300 annue se ufficiali inferiori.
 

@@ -20,7 +20,7 @@ Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
 Ritenuta la necessita' di urgenti misure di carattere tributario;
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni, e il relativo regolamento approvato con [R. decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni, e il relativo regolamento approvato con [R. decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Visto il R. decreto 17 settembre 1931-IX, n. 1608;
 

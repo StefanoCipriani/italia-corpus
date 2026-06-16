@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 21 maggio 1916, n. 640](Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), col quale venne istituito uno speciale distintivo d'onore per i mutilati di guerra;
+Visto il [regio decreto 21 maggio 1916, n. 640](../Regi%20decreti/Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), col quale venne istituito uno speciale distintivo d'onore per i mutilati di guerra;
 
 Visto il decreto Ministeriale 6 novembre 1916, relativo alla approvazione dell'istruzione per l'esecuzione del decreto 21 maggio 1916, n. 640;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la difesa; Decreta:
 
 ## Art. 1.
 
-Agli addetti alle operazioni di bonifica dei campi minati che siano divenuti inabili a proficuo lavoro o si trovino menomati nelle loro capacita' di lavoro, in seguito a lesioni o ad infermita' incontrate nell'espletamento delle operazioni di bonifica suddette, si applicano, per la concessione del distintivo d'onore per i mutilati ed invalidi di guerra prevista dall'ultimo comma dell'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), le norme dell'istruzione per l'esecuzione del [regio decreto 21 maggio 1916, n. 640](Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), approvata con il decreto Ministeriale 6 novembre 1916, salvo le modificazioni di cui agli articoli seguenti.
+Agli addetti alle operazioni di bonifica dei campi minati che siano divenuti inabili a proficuo lavoro o si trovino menomati nelle loro capacita' di lavoro, in seguito a lesioni o ad infermita' incontrate nell'espletamento delle operazioni di bonifica suddette, si applicano, per la concessione del distintivo d'onore per i mutilati ed invalidi di guerra prevista dall'ultimo comma dell'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 320](../Decreti%20legislativi%20luogotenenziali/Bonifica%20dei%20campi%20minati.md), le norme dell'istruzione per l'esecuzione del [regio decreto 21 maggio 1916, n. 640](../Regi%20decreti/Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), approvata con il decreto Ministeriale 6 novembre 1916, salvo le modificazioni di cui agli articoli seguenti.
 
 ## Art. 2.
 

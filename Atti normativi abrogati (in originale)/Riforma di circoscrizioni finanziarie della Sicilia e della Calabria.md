@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [regio decreto 1° luglio 1937, n. 1083](Riforma%20di%20alcune%20circoscrizioni%20finanziarie.%20037U1083.md);
+Visto il [regio decreto 1° luglio 1937, n. 1083](../Regi%20decreti/Riforma%20di%20alcune%20circoscrizioni%20finanziarie.%20037U1083.md);
 
 Visto il decreto ministeriale 26 luglio 1937, registrato alla Corte dei Conti il 3 novembre 1937, al n. 11, vol. 32;
 

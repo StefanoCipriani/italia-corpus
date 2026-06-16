@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 85 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_85);
+Veduto l'[art. 85 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Veduti i [Regi decreti 14 ottobre 1923, n. 2315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-14;2315); 20 aprile 1924; [23 maggio 1924, n. 858](Modificazioni%20al%20R.%20decreto%2014%20ottobre%201923%20n.%202345%20circa%20la%20durata%20delle%20prove%20orali%20di%20esami.%20024U0858.md); 16 ottobre 1921, u. 1923, e 4 maggio 1625, n. 653;
 
-Riconosciuta l'opportunita' di apportare alcune modificazioni nel testo dei programmi d'esame di ammissione, di licenza, di abilitazione e di maturita', di cui al capo 8° del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Riconosciuta l'opportunita' di apportare alcune modificazioni nel testo dei programmi d'esame di ammissione, di licenza, di abilitazione e di maturita', di cui al capo 8° del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Udito il Consiglio dei Ministri;
 

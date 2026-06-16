@@ -50,7 +50,7 @@ I servizi dell'Amministrazione centrale della guerra sono ripartiti nel modo seg
 
 ## Art. 2.
 
-Alla tabella n. 52, allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e' sostituita, per quanto riguarda il personale della carriera amministrativa (gruppo A) del Ministero della guerra, la tabella seguente:
+Alla tabella n. 52, allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, e' sostituita, per quanto riguarda il personale della carriera amministrativa (gruppo A) del Ministero della guerra, la tabella seguente:
 
 ===========================================================
      |                       |    Numero dei posti coperti     |
@@ -169,7 +169,7 @@ Presso il Comando del Corpo di Stato Maggiore prestano servizio:
 
 ## Art. 5.
 
-I funzionari di grado non inferiore al 7° destinati presso i Comandi di Corpo d'armata e presso il Comando generale dell'Arma dei carabinieri Reali con funzioni di ispettori amministrativi territoriali, a senso del [R. decreto-legge 15 ottobre 1925, n. 2353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2353), sono surrogati nel ruolo con le garanzie di cui al [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). 
+I funzionari di grado non inferiore al 7° destinati presso i Comandi di Corpo d'armata e presso il Comando generale dell'Arma dei carabinieri Reali con funzioni di ispettori amministrativi territoriali, a senso del [R. decreto-legge 15 ottobre 1925, n. 2353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2353), sono surrogati nel ruolo con le garanzie di cui al [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). 
  
  Ai funzionari del grado 7°, destinati come sopra, e' attribuito durante l'incarico il grado 6° della gerarchia. 
  
@@ -181,7 +181,7 @@ Per la prima applicazione della presente legge e' data facolta' al Ministro dell
 
 ## Art. 7.
 
-Alla tabella n. 56 allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita la seguente: 
+Alla tabella n. 56 allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita la seguente: 
  
  Personale dei commissari di leva. 
  
@@ -195,7 +195,7 @@ Alla tabella n. 56 allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinam
 
 ## Art. 8.
 
-La tabella n. 57 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue: 
+La tabella n. 57 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue: 
  
  Istituto geografico militare. 
  
@@ -250,7 +250,7 @@ La tabella n. 57 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordi
 
 ## Art. 9.
 
-La tabella n. 58 dell'allegato II al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue: 
+La tabella n. 58 dell'allegato II al [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue: 
  
  Personale tecnico civile d'artiglieria. 
  
@@ -272,7 +272,7 @@ La tabella n. 58 dell'allegato II al [Regio decreto 11 novembre 1923, n. 2395](O
 
 ## Art. 10.
 
-La tabella n. 59 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue: 
+La tabella n. 59 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue: 
  
  Personale tecnico civile per il servizio chimico militare. 
  
@@ -292,7 +292,7 @@ La tabella n. 59 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordi
 
 ## Art. 11.
 
-La tabella n. 60 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue: 
+La tabella n. 60 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue: 
  
  Personale tecnico civile del genio e del commissariato militare. 
  
@@ -348,7 +348,7 @@ La tabella n. 61 dell'allegato II al R. dereto 11 novembre 1923, n. 2395, e' mod
 
 ## Art. 13.
 
-La tabella n. 63 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue, per i personali appresso indicati: 
+La tabella n. 63 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' modificata come segue, per i personali appresso indicati: 
  
  Capi tecnici di artiglieria e genio. 
  
@@ -388,15 +388,15 @@ La tabella n. 63 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordi
 
 ## Art. 14.
 
-Entro i limiti dei posti vacanti nel grado iniziale dei ruoli del personale d'ordine di cui alle tabelle nn. 55 e 65 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e fino al massimo rispettivamente di 100 e di 40 posti, potranno riassumersi e mantenersi in servizio con le norme di cui all'[art. 21 del R. decreto 15 gennaio 1923, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-15;10#art_21), altrettanti sottufficiali collocati a riposo.
+Entro i limiti dei posti vacanti nel grado iniziale dei ruoli del personale d'ordine di cui alle tabelle nn. 55 e 65 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e fino al massimo rispettivamente di 100 e di 40 posti, potranno riassumersi e mantenersi in servizio con le norme di cui all'[art. 21 del R. decreto 15 gennaio 1923, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-15;10#art_21), altrettanti sottufficiali collocati a riposo.
 
 ### Art. 15.
 
-In analogia a quanto e' stabilito dall'[art. 148 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), al professore ordinario del ruolo ad esaurimento degli insegnanti dell'Amministrazione militare, incaricato dell'insegnamento della geometria analitica proiettiva presso la Regia Accademia militare di artiglieria e genio, e' conferito il grado 6°.
+In analogia a quanto e' stabilito dall'[art. 148 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), al professore ordinario del ruolo ad esaurimento degli insegnanti dell'Amministrazione militare, incaricato dell'insegnamento della geometria analitica proiettiva presso la Regia Accademia militare di artiglieria e genio, e' conferito il grado 6°.
 
 ### Art. 16.
 
-Ai commissari di leva provenienti dagli ufficiali, nominati prima del 1° gennaio 1925, non e' applicabile la disposizione del [secondo comma dell'art. 3 del R. decreto-legge 9 luglio 1925, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-09;1216#art_3-com2), rimanendo per essi in vigore quanto e' disposto dall'[art. 19 del R. decreto 27 maggio 1923, n. 1309](Che%20riforma%20il%20servizio%20della%20leva%20del%20Regio%20esercito.%20023U1309.md), senza pero' che, per effetto degli aumenti di stipendio di cui all'articolo stesso, possano oltrepassare, in nessun caso, gli assegni di colonnello. 
+Ai commissari di leva provenienti dagli ufficiali, nominati prima del 1° gennaio 1925, non e' applicabile la disposizione del [secondo comma dell'art. 3 del R. decreto-legge 9 luglio 1925, n. 1216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-09;1216#art_3-com2), rimanendo per essi in vigore quanto e' disposto dall'[art. 19 del R. decreto 27 maggio 1923, n. 1309](../Regi%20decreti/Che%20riforma%20il%20servizio%20della%20leva%20del%20Regio%20esercito.%20023U1309.md), senza pero' che, per effetto degli aumenti di stipendio di cui all'articolo stesso, possano oltrepassare, in nessun caso, gli assegni di colonnello. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

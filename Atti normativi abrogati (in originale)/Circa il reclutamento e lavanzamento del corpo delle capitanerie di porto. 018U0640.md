@@ -70,8 +70,8 @@ Gli allievi dell'Accademia navale che, avendo superati gli esami finali dell'ult
 
 ## Art. 7.
 
-Le disposizioni contenute nel [R. decreto 27 settembre 1914, n. 1090](Da%20convertirsi%20in%20legge%20relativo%20al%20collocamento%20fuori%20ruolo%20dei%20funzionari%20delle%20Amministrazioni%20centrali%20e%20dipendenti%20della%20guerra%20e%20della%20Regia%20marina%20inviati%20nelle%20colonie%20o%20in%20luoghi_1a5ff9157625.md), e nel [decreto-legge Luogotenenziale 20 maggio 1917, n. 865](Concernente%20il%20collocamento%20fuori%20ruolo%20del%20personale%20delle%20Amministrazioni%20dello%20Stato%20posto%20a%20disposizione%20del%20Ministero%20delle%20colonie.%20017U0865.md), continuano ad aver vigore per i personali delle capitanerie di porto.
-Rimangono del pari in vigore le disposizioni del [R. decreto 8 dicembre 1910, n. 857](Che%20approva%20le%20norme%20per%20lIspettorato%20delle%20capitanerie%20di%20porto%20con%20sede%20in%20Roma%20010U0857.md), e quelle emanate per la loro attuazione.
+Le disposizioni contenute nel [R. decreto 27 settembre 1914, n. 1090](../Regi%20decreti/Da%20convertirsi%20in%20legge%20relativo%20al%20collocamento%20fuori%20ruolo%20dei%20funzionari%20delle%20Amministrazioni%20centrali%20e%20dipendenti%20della%20guerra%20e%20della%20Regia%20marina%20inviati%20nelle%20colonie%20o%20in%20luoghi_1a5ff9157625.md), e nel [decreto-legge Luogotenenziale 20 maggio 1917, n. 865](Concernente%20il%20collocamento%20fuori%20ruolo%20del%20personale%20delle%20Amministrazioni%20dello%20Stato%20posto%20a%20disposizione%20del%20Ministero%20delle%20colonie.%20017U0865.md), continuano ad aver vigore per i personali delle capitanerie di porto.
+Rimangono del pari in vigore le disposizioni del [R. decreto 8 dicembre 1910, n. 857](../Regi%20decreti/Che%20approva%20le%20norme%20per%20lIspettorato%20delle%20capitanerie%20di%20porto%20con%20sede%20in%20Roma%20010U0857.md), e quelle emanate per la loro attuazione.
 
 ## Art. 8.
 

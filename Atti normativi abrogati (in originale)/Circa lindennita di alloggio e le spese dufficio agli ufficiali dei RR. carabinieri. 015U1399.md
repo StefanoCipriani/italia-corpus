@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli ufficiali dell'arma dei carabinieri reali, richiamati dal congedo ed assegnati alle legioni (tranne i consegnatari dei magazzini), qualora non possano godere dell'alloggio in natura o dell'assegno alloggio fornito dalla Provincia, perche' conservato - a norma dell'[art. 12 del R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md) - da altro ufficiale con famiglia destinato presso l'esercito in campagna, riceveranno l'alloggio in natura dall'Amministrazione militare, oppure - se questa non abbia locali adatti disponibili - una indennita' di alloggio fissa, a carico dell'Amministrazione medesima, nella misura di: 
+Gli ufficiali dell'arma dei carabinieri reali, richiamati dal congedo ed assegnati alle legioni (tranne i consegnatari dei magazzini), qualora non possano godere dell'alloggio in natura o dell'assegno alloggio fornito dalla Provincia, perche' conservato - a norma dell'[art. 12 del R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md) - da altro ufficiale con famiglia destinato presso l'esercito in campagna, riceveranno l'alloggio in natura dall'Amministrazione militare, oppure - se questa non abbia locali adatti disponibili - una indennita' di alloggio fissa, a carico dell'Amministrazione medesima, nella misura di: 
  
  L. 1000 annue per gli ufficiali superiori. 
  L. 800 annue per i capitani. 

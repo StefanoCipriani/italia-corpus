@@ -122,12 +122,12 @@ Salva l'applicazione delle norme penali, a coloro che effettuano operazioni in v
 ## Art. 16.
 
 Sono o rimangono abrogati:
- [regio decreto 11 settembre 1919, n. 1674](Che%20proibisce%20agli%20Istituti%20ed%20ai%20cittadini%20italiani%20di%20contrarre%20prestiti%20e%20di%20assumere%20partecipazione%20finanziaria%20fuori%20del%20Regno%20senza%20il%20consenso%20preventivo%20del%20ministro%20del%20tesoro.%20019U1674.md);
+ [regio decreto 11 settembre 1919, n. 1674](../Regi%20decreti/Che%20proibisce%20agli%20Istituti%20ed%20ai%20cittadini%20italiani%20di%20contrarre%20prestiti%20e%20di%20assumere%20partecipazione%20finanziaria%20fuori%20del%20Regno%20senza%20il%20consenso%20preventivo%20del%20ministro%20del%20tesoro.%20019U1674.md);
  [regio decreto-legge 24 novembre 1921, n. 1835](Che%20reca%20norme%20per%20disciplinare%20la%20eventuale%20cessione%20a%20stranieri%20di%20aziende%20partecipazioni%20finanziarie%20e%20ogni%20altra%20cointeressenza%20in%20imprese%20estere%20acquistate%20o%20in%20forza%20del%20R.%20decreto%20_1f9eb6008ca0.md);
  [regio decreto-legge 29 agosto 1925, n. 1508](Disciplina%20del%20commercio%20dei%20cambi.%20025U1508.md);
- [regio decreto 10 dicembre 1925, n. 2162](Norme%20che%20regolano%20la%20materia%20dei%20mutui%20allestero%20da%20parte%20di%20privati.%20025U2162.md);
- [regio decreto 10 giugno 1926, n. 942](Concessione%20di%20alcune%20agevolazioni%20nelle%20contrattazioni%20in%20cambi.%20026U0942.md);
- [regio decreto 5 gennaio 1928, n. 1](Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md);
+ [regio decreto 10 dicembre 1925, n. 2162](../Regi%20decreti/Norme%20che%20regolano%20la%20materia%20dei%20mutui%20allestero%20da%20parte%20di%20privati.%20025U2162.md);
+ [regio decreto 10 giugno 1926, n. 942](../Regi%20decreti/Concessione%20di%20alcune%20agevolazioni%20nelle%20contrattazioni%20in%20cambi.%20026U0942.md);
+ [regio decreto 5 gennaio 1928, n. 1](../Regi%20decreti/Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md);
  [regio decreto-legge 29 settembre 1931, n. 1207](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20031U1207.md);
  [legge 11 gennaio 1932, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20settembre%201931%20n.%201207%20che%20autorizza%20il%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20032U0018.md);
  [regio decreto-legge 21 dicembre 1931, n. 1680](Facolta%20al%20Governo%20di%20stabilire%20modalita%20per%20limportazione%20di%20merci%20di%20alcuni%20Paesi.%20031U1680.md);

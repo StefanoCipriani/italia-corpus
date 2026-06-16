@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'art. 59 del testo unico della legge di provvedimenti per la Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), e' cosi' rettificato: 
+ L'art. 59 del testo unico della legge di provvedimenti per la Sardegna, approvato con [R. decreto 10 novembre 1907, n. 844](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), e' cosi' rettificato: 
  
  «A cominciare dall'anno scolastico 1907-908 sara' estesa ai comuni e alle due provincie della Sardegna la disposizione del primo comma dell'art. 84 della legge per la Basilicata 31 marzo 1904, n. 140». 
  

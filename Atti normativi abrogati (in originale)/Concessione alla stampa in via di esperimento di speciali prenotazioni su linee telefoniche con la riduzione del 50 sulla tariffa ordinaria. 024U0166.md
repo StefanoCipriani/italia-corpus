@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico di legge sui telefoni, approvato con [R. decreto 3 maggio 1903, n. 196](Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md);
+Visto il testo unico di legge sui telefoni, approvato con [R. decreto 3 maggio 1903, n. 196](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sui%20telefoni.%20003U0196.md);
 
 Visti i [decreti Luogotenenziali 14 luglio 1918, n. 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-14;986), [26 gennaio 1919, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-26;68), e [27 febbraio 1919, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;320);
 
-Visti i [Regi decreti 11 marzo 1920, n. 316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-03-11;316); [25 gennaio 1921, n.44](recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md); [31 marzo 1921, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-03-31;507), e [23 novembre 1921, n. 1824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-23;1824);
+Visti i [Regi decreti 11 marzo 1920, n. 316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-03-11;316); [25 gennaio 1921, n.44](../Regi%20decreti/recante%20modificazioni%20alle%20tariffe%20postali%20telegrafiche%20e%20telefoniche%20interne.%20021U0044.md); [31 marzo 1921, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-03-31;507), e [23 novembre 1921, n. 1824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-23;1824);
 
 Inteso il Consiglio dei Ministri;
 

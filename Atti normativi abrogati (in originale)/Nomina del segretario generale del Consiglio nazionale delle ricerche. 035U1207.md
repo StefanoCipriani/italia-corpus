@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895), che istituisce il Consiglio nazionale delle ricerche; 
+ Veduto il [R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), che istituisce il Consiglio nazionale delle ricerche; 
  
  Veduto il [R. decreto-legge 31 marzo 1927, n. 638](Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20027U0638.md), che riordina il Consiglio anzidetto; 
  

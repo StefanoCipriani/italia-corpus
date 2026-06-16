@@ -16,7 +16,7 @@ Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 141 dello 
  
  Cap. 247. «Spese di qualsiasi natura per agevolare 
  i Consorzi provinciali di cui al [R. decreto 20 
- dicembre 1914, n. 1374](Relativo%20alla%20formazione%20di%20Consorzi%20provinciali%20per%20acquisto%20di%20grano.%20014U1374.md), nella loro azione di 
+ dicembre 1914, n. 1374](../Regi%20decreti/Relativo%20alla%20formazione%20di%20Consorzi%20provinciali%20per%20acquisto%20di%20grano.%20014U1374.md), nella loro azione di 
  approvvigionamento e di distribuzione di cereali 
  e di farina» . . . . . . . . . . . . . . . . . . . . 50,000-  
  Ministero delle poste e dei telegrafi: 

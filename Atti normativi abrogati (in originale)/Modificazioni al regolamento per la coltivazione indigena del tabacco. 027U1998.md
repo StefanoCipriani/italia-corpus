@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato coi [Regi decreti n. 1590 del 12 ottobre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590) e [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md);
+Visto il regolamento per la coltivazione indigena del tabacco, approvato coi [Regi decreti n. 1590 del 12 ottobre 1924](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md) e [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md);
 
 Visto il parere favorevole del Consiglio di Stato;
 
@@ -24,7 +24,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Gli articoli 82, 84, 86, 95, 102 e 105, del regolamento per la coltivazione indigena del tabacco, approvato con [R. decreto n. 1590 del 12 ottobre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590) e [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), vengono sostituiti dai seguenti: 
+Gli articoli 82, 84, 86, 95, 102 e 105, del regolamento per la coltivazione indigena del tabacco, approvato con [R. decreto n. 1590 del 12 ottobre 1924](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md) e [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), vengono sostituiti dai seguenti: 
  
  Art. 82. - Nei territori nei quali, per ripetute prove fatte, l'Amministrazione ha la sicurezza di poter ottenere buoni prodotti da fumo, puo' essere accordata la coltura del tabacco per le Manifatture dello Stato con concessioni speciali, comprendenti il periodo colturale e quello industriale e della durata normale di sette a nove anni, autorizzate durante tale periodo da una licenza iniziale, la cui scadenza coincida con quella del periodo triennale del Manifesto di cui all'art. 42, e da due successive licenze triennali. 
  

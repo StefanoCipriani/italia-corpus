@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Le disposizioni del [R. decreto 28 marzo 1915, n. 316](Che%20proroga%20a%20tutto%20il%2030%20giugno%201915%20le%20scadenze%20delle%20obbligazioni%20derivanti%20da%20operazioni%20a%20termine%20su%20valori%20mobiliari%20da%20riporti%20e%20da%20proroghe%20giornaliere.%20015U0316.md), circa le obbligazioni derivanti da operazioni a termine su valori mobiliari, da riporti e proroghe giornaliere (escluse quelle consentite dagli Istituti di emissione alle Stanze di compensazione) sono prorogate a tutto il 31 ottobre 1915, con le modificazioni ed aggiunte seguenti: 
+Le disposizioni del [R. decreto 28 marzo 1915, n. 316](../Regi%20decreti/Che%20proroga%20a%20tutto%20il%2030%20giugno%201915%20le%20scadenze%20delle%20obbligazioni%20derivanti%20da%20operazioni%20a%20termine%20su%20valori%20mobiliari%20da%20riporti%20e%20da%20proroghe%20giornaliere.%20015U0316.md), circa le obbligazioni derivanti da operazioni a termine su valori mobiliari, da riporti e proroghe giornaliere (escluse quelle consentite dagli Istituti di emissione alle Stanze di compensazione) sono prorogate a tutto il 31 ottobre 1915, con le modificazioni ed aggiunte seguenti: 
  
  Le decurtazioni mensili non potranno superare l'uno e mezzo per cento dell'ammontare del prezzo di compensazione di fine luglio 1914. 
  
- I certificati di credito di cui all'[art. 4 del R. decreto 28 marzo 1915, n. 316](Che%20proroga%20a%20tutto%20il%2030%20giugno%201915%20le%20scadenze%20delle%20obbligazioni%20derivanti%20da%20operazioni%20a%20termine%20su%20valori%20mobiliari%20da%20riporti%20e%20da%20proroghe%20giornaliere.%20015U0316.md), rilasciati dai sindacati di Borsa a carico di persone che si trovino sotto le armi, non avranno forza esecutiva prima del 60° giorno successivo a quello nel quale sara' pubblicata la pace.
+ I certificati di credito di cui all'[art. 4 del R. decreto 28 marzo 1915, n. 316](../Regi%20decreti/Che%20proroga%20a%20tutto%20il%2030%20giugno%201915%20le%20scadenze%20delle%20obbligazioni%20derivanti%20da%20operazioni%20a%20termine%20su%20valori%20mobiliari%20da%20riporti%20e%20da%20proroghe%20giornaliere.%20015U0316.md), rilasciati dai sindacati di Borsa a carico di persone che si trovino sotto le armi, non avranno forza esecutiva prima del 60° giorno successivo a quello nel quale sara' pubblicata la pace.
 
 ## Art. 2.
 

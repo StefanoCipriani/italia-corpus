@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 42 dello Statuto della Regione siciliana, approvato con [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), che reca norme per la prima elezione dei deputati all'Assemblea regionale siciliana,;
+Visto l'art. 42 dello Statuto della Regione siciliana, approvato con [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), che reca norme per la prima elezione dei deputati all'Assemblea regionale siciliana,;
 
 Visto l'[art. 13 del decreto legislativo luogotenenziale 10 marzo 1946, n. 74](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lelezione%20dei%20deputati%20allAssemblea%20Costituente.md), recante norme per le elezioni dei deputati all'Assemblea Costituente;
 

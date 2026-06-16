@@ -51,7 +51,7 @@ Sono escluse dal campo di applicazione della [legge 8 agosto 1991, n. 264](https
 
 2.
 
-E' differito al 1 ottobre 1995 il termine previsto dall'[articolo 16, comma 1, del decreto del Presidente della Repubblica 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), che ha emanato il regolamento recante la disciplina dei procedimenti per il rilascio e la duplicazione della patente di guida di veicoli.
+E' differito al 1 ottobre 1995 il termine previsto dall'[articolo 16, comma 1, del decreto del Presidente della Repubblica 19 aprile 1994, n. 575](../Regolamenti%20governativi/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), che ha emanato il regolamento recante la disciplina dei procedimenti per il rilascio e la duplicazione della patente di guida di veicoli.
 
 3.
 
@@ -59,7 +59,7 @@ I provvedimenti di sospensione e di revoca della patente di guida, conseguenti a
 
 4.
 
-E' prorogata al 31 dicembre 1997 la validita' dei certificati di abilitazione professionale di cui all'[articolo 126, comma 4, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, ed all'[articolo 313, comma 4, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), fermi restando i termini per i relativi versamenti.
+E' prorogata al 31 dicembre 1997 la validita' dei certificati di abilitazione professionale di cui all'[articolo 126, comma 4, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, ed all'[articolo 313, comma 4, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), fermi restando i termini per i relativi versamenti.
 
 ## Art. 3. — Proroga della legge 5 febbraio 1992, n. 68
 

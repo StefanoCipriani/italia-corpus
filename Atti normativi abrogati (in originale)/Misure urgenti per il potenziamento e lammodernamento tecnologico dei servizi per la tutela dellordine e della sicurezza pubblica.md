@@ -27,7 +27,7 @@ Il Ministro per l'interno, sentita la commissione di cui all'articolo 4, determi
 
 ## Art. 3.
 
-Per l'attuazione dei piani di cui al precedente articolo, il Ministero dell'interno e' autorizzato ad avvalersi, mediante contratti stipulati anche a trattativa privata, di enti ed imprese, eventualmente in deroga al disposto degli [articoli 43](../DPR/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md) e [80 del decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../DPR/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md), che abbiano particolare competenza ed idonei mezzi tecnici.
+Per l'attuazione dei piani di cui al precedente articolo, il Ministero dell'interno e' autorizzato ad avvalersi, mediante contratti stipulati anche a trattativa privata, di enti ed imprese, eventualmente in deroga al disposto degli [articoli 43](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md) e [80 del decreto del Presidente della Repubblica 30 giugno 1967, n. 1523](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sul%20Mezzogiorno.md), che abbiano particolare competenza ed idonei mezzi tecnici.
  Per i progetti, i contratti e le convenzioni per la esecuzione dei lavori, provviste e forniture inerenti alla attuazione dei piani medesimi, si deroga all'obbligo dei preventivi parere prescritti dalle norme vigenti.
  Il Ministro per l'interno puo' delegare al capo della polizia e al comandante generale dell'Arma dei carabinieri l'approvazione dei provvedimenti autorizzativi di spesa, nell'ambito dei piani di rispettiva competenza.
 

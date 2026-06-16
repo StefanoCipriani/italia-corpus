@@ -84,7 +84,7 @@ Coloro che producono un determinato vino tipico possono costituirsi in Consorzio
  
  Art. 10. 
  
- Coloro che, non appartenendo al Consorzio, si attribuiscano la qualita' di consorziati od usino il marchio o segno distintivo adottato e trascritto dal Consorzio medesimo, saranno puniti a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e della [legge 30 agosto 1868, n. 4577](Concernente%20i%20marchi%20ed%20i%20segni%20distintivi%20di%20fabbrica.%20068U4577.md), ed i loro nomi dovranno essere, a cura dei Ministeri dell'agricoltura e delle foreste e delle corporazioni, segnalati in pubblicazioni speciali da designarsi dal regolamento. 
+ Coloro che, non appartenendo al Consorzio, si attribuiscano la qualita' di consorziati od usino il marchio o segno distintivo adottato e trascritto dal Consorzio medesimo, saranno puniti a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e della [legge 30 agosto 1868, n. 4577](Concernente%20i%20marchi%20ed%20i%20segni%20distintivi%20di%20fabbrica.%20068U4577.md), ed i loro nomi dovranno essere, a cura dei Ministeri dell'agricoltura e delle foreste e delle corporazioni, segnalati in pubblicazioni speciali da designarsi dal regolamento. 
  
  Art. 11. 
  

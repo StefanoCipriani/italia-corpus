@@ -22,7 +22,7 @@ Vista la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%2
 
 Visto il decreto 1° luglio 1926, n. 1130, contenente norme per l'attuazione della [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), sulla disciplina giuridica dei rapporti collettivi del lavoro;
 
-Visto il [R. decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md), recante norme per la decisione delle controversie individuali del lavoro;
+Visto il [R. decreto 21 maggio 1934, n. 1073](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md), recante norme per la decisione delle controversie individuali del lavoro;
 
 Ritenuta la necessita' urgente ed assoluta di emanare norme per la decisione delle controversie in materia di cottimi nel campo del lavoro industriale, in conformita' delle analoghe deliberazioni del Comitato corporativo centrale;
 
@@ -44,7 +44,7 @@ Il Collegio tecnico ha facolta' di eseguire sopraluoghi, compiere accertamenti e
  
  Esso prescrive i termini e le forme da osservare nel corso del giudizio e prende la decisione a maggioranza di voti. 
  
- Il Collegio tecnico non e' tenuto ad osservare le forme e i termini stabiliti dal [R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), dal [R. decreto 21 maggio 1934, n. 1073](Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md).
+ Il Collegio tecnico non e' tenuto ad osservare le forme e i termini stabiliti dal [R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), dal [R. decreto 21 maggio 1934, n. 1073](../Regi%20decreti/Norme%20per%20la%20decisione%20delle%20controversie%20individuali%20del%20lavoro.%20034U1073.md).
 
 ## Art. 4.
 
@@ -56,7 +56,7 @@ Contro la decisione del Collegio tecnico e' ammesso ricorso al Collegio tecnico 
 
 ## Art. 5.
 
-Le decisioni del Collegio tecnico contro cui non sia stato prodotto ricorso nel termine previsto dall'art. 4 del presente decreto e quelle adottate dal Collegio tecnico superiore in sede di ricorso, sono obbligatorie per le parti, anche agli effetti dell'[art. 509 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Le decisioni del Collegio tecnico contro cui non sia stato prodotto ricorso nel termine previsto dall'art. 4 del presente decreto e quelle adottate dal Collegio tecnico superiore in sede di ricorso, sono obbligatorie per le parti, anche agli effetti dell'[art. 509 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 6.
 

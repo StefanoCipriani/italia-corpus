@@ -92,9 +92,9 @@ Agli articoli 3, 5, 10, 20, 25, 26, 29, 30, 39, 40, 62 e 65 dell'ordinamento giu
  
  «Nei casi previsti nell'ultimo capoverso dell'articolo precedente, l'appello delle sentenze del giudice puo' essere proposto con dichiarazione da presentare, per l'ulteriore suo corso, alla cancelleria del tribunale e della pretura, o al Consolato da cui l'appellante dipende, entro il termine prescritto». 
  
- «Art. 62. - E' devoluto al tribunale militare la conoscenza dei reati contemplati dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito commessi da soldati italiani, militari di truppa indigena e graduati nazionali e indigeni appartenenti sia al Regio corpo di truppe coloniali che al corpo di polizia. 
+ «Art. 62. - E' devoluto al tribunale militare la conoscenza dei reati contemplati dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per l'esercito commessi da soldati italiani, militari di truppa indigena e graduati nazionali e indigeni appartenenti sia al Regio corpo di truppe coloniali che al corpo di polizia. 
  
- «Sono pure rinviati al giudizio del tribunale militare gli indigeni appartenenti al corpo delle guardie doganali e delle guardie carcerarie che si rendano colpevoli dei seguenti reati contemplati dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito: 
+ «Sono pure rinviati al giudizio del tribunale militare gli indigeni appartenenti al corpo delle guardie doganali e delle guardie carcerarie che si rendano colpevoli dei seguenti reati contemplati dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito: 
  
  a) di diserzione commessa nei modi da esso previsti all'art. 142; 
  

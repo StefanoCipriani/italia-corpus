@@ -14,7 +14,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
  Vista la deliberazione 14 dicembre 1944, della Giunta municipale di Cagliari, con la quale si chiede che i due uffici di conciliazione di Cagliari centro siano riuniti in un unico ufficio con giurisdizione su tutto il territorio di detto Comune, escluso quello appartenente agli ex comuni di Monserrato, Selargius, Quartucciu ed Elmas, aggregati al capoluogo e dove esistono uffici distinti di giudice conciliatore;
  Visti i pareri favorevoli del primo presidente e del procuratore generale della Corte d'appello di Cagliari;
- Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20) e [1 del regio decreto 26 dicembre 1892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-26;1), [n. 728](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20) e [1 del regio decreto 26 dicembre 1892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-26;1), [n. 728](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli, Ministro Segretario di Staato per la grazia e giustizia;
 
  Decreta:

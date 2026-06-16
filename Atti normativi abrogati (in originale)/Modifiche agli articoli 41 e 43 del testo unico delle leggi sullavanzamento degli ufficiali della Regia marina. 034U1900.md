@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle leggi sull'avanzamento, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni;
+Visto il testo unico delle leggi sull'avanzamento, approvato con [R. decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni;
 
 Ritenuta la necessita' assoluta ed urgente di modificare gli articoli 41 e 43 del testo unico precitato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni, sono apportate le varianti di cui agli articoli seguenti.
+Al testo unico delle leggi sull'avanzamento degli ufficiali della Regia marina, approvato con [R. decreto 7 novembre 1929, n. 2007](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lavanzamento%20degli%20ufficiali%20dei%20Corpi%20militari%20della%20Regia%20marina.%20029U2007.md), e sue successive modificazioni, sono apportate le varianti di cui agli articoli seguenti.
 
 ## Art. 2.
 

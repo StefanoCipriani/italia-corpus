@@ -17,7 +17,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 E' istituito il ruolo della carriera di concetto - segretari di polizia - presso l'Amministrazione della pubblica sicurezza.
- Al personale della carriera di cui al presente articolo si applicano le norme del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), salvo quanto diversamente disposto nella presente legge.
+ Al personale della carriera di cui al presente articolo si applicano le norme del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), salvo quanto diversamente disposto nella presente legge.
 
 ## Art. 2.
 
@@ -52,7 +52,7 @@ Ai concorsi di ammissione nel ruolo di cui all'art. 3 e' ammesso, in esenzione d
 
 ## Art. 5.
 
-Al personale della carriera di cui all'art. 1 non sono applicabili le disposizioni di cui agli [articoli 56](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [58 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Al personale della carriera di cui all'art. 1 non sono applicabili le disposizioni di cui agli [articoli 56](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md) e [58 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 6.
 
@@ -61,11 +61,11 @@ I vice segretari di polizia iniziano il servizio di prova con il corso di formaz
 
 ## Art. 7.
 
-Agli esami per la promozione a primo segretario di polizia sono ammessi gli impiegati dello stesso ruolo che, oltre i requisiti di cui all'[art. 176 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), alla data di pubblicazione del decreto che indice l'esame, abbiano compiuto almeno anni tre di servizio effettivo presso una Questura o un Commissariato di pubblica sicurezza, compreso il servizio di prova.
+Agli esami per la promozione a primo segretario di polizia sono ammessi gli impiegati dello stesso ruolo che, oltre i requisiti di cui all'[art. 176 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), alla data di pubblicazione del decreto che indice l'esame, abbiano compiuto almeno anni tre di servizio effettivo presso una Questura o un Commissariato di pubblica sicurezza, compreso il servizio di prova.
 
 ## Art. 8.
 
-Il ruolo della carriera degli aiutanti di polizia, istituito con [decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-05;441), convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), di cui al quadro 48-a, allegato E, del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' soppresso, salvo quanto disposto nell'art. 9.
+Il ruolo della carriera degli aiutanti di polizia, istituito con [decreto-legge 5 aprile 1925, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-04-05;441), convertito nella [legge 16 giugno 1927, n. 985](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20di%20Regi%20decreti-legge%20emanati%20anteriormente%20alla%20pubblicazione%20della%20legge%2031%20gennaio%201926%20n.%20100.%20027U0985.md), di cui al quadro 48-a, allegato E, del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' soppresso, salvo quanto disposto nell'art. 9.
 
 Norme transitorie
 
@@ -89,7 +89,7 @@ Nei normali concorsi che saranno banditi per l'ammissione nel ruolo di cui all'a
 
 ### Art. 12.
 
-Nella prima attuazione della presente legge, l'anzianita' minima di servizio di cui all'[art. 176 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per la promozione a primo segretario di polizia e' ridotta alla meta'. 
+Nella prima attuazione della presente legge, l'anzianita' minima di servizio di cui all'[art. 176 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per la promozione a primo segretario di polizia e' ridotta alla meta'. 
  Per un periodo di anni cinque dall'entrata in vigore della presente legge e' sospesa l'efficacia della norma di cui all'art. 7.
 
 ### Art. 13.

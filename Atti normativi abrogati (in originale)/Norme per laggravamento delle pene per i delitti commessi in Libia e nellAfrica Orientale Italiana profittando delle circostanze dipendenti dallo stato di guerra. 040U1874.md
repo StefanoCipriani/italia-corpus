@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana, di concer
 
 ## Art. 1.
 
-Nella Libia e nell'Africa Orientale Italiana, quando la circostanza aggravante preveduta nell'[art. 61 n. 5, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ricorra in dipendenza dello stato di guerra: 
+Nella Libia e nell'Africa Orientale Italiana, quando la circostanza aggravante preveduta nell'[art. 61 n. 5, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ricorra in dipendenza dello stato di guerra: 
  
  a) per i delitti di violenza carnale (art. 519), di omicidio (art. 575), di rapina (art. 628), di estorsione (art. 629), di sequestro di persona a scopo di rapina o di estorsione (art. 630) e per tutti i delitti punibili con la pena dell'ergastolo, si applica la pena di morte; 
  

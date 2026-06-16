@@ -44,7 +44,7 @@ Alla tabella A, allegata al [R. decreto 21 ottobre 1923, n. 2367](Revisione%20de
 
 ## Art. 4.
 
-Gli strumenti per misurare automatici, aventi carattere di strumenti fissi, secondo la definizione di cui all'allegato A al [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), sono agli effetti dell'art. 20 del testo unico delle leggi metriche, approvato coi [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª) modificato col R. decreto predetto, assimilati ai pesi fissi.
+Gli strumenti per misurare automatici, aventi carattere di strumenti fissi, secondo la definizione di cui all'allegato A al [R. decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md), sono agli effetti dell'art. 20 del testo unico delle leggi metriche, approvato coi [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª) modificato col R. decreto predetto, assimilati ai pesi fissi.
 
 ## Art. 5.
 

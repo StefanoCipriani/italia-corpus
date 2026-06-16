@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
+ Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
  
  Sentito il Consiglio dei Ministri; 
  
@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Nei ruoli organici del Ministero delle colonie (tabella n. 25, allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md)) sono aggiunti un posto, di aiuto bibliotecario (gruppo B, grado 11°) e un posto di assistente dell'ufficio cartografico (gruppo C, grado 11°). 
+ Nei ruoli organici del Ministero delle colonie (tabella n. 25, allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md)) sono aggiunti un posto, di aiuto bibliotecario (gruppo B, grado 11°) e un posto di assistente dell'ufficio cartografico (gruppo C, grado 11°). 
  
  Nella prima attuazione della presente disposizione, i posti suddetti potranno essere conferiti ad ufficiali o applicati coloniali ausiliari, del personale straordinario della Tripolitania, in servizio del Ministero, che dal Consiglio di amministrazione vengano riconosciuti in possesso dei necessari requisiti e che siano stati gia' incaricati delle relative mansioni. 
  

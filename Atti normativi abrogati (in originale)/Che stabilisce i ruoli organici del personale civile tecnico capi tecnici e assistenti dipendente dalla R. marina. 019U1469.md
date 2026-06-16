@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 14 luglio 1907, n. 470; 5 luglio 1908, n. 366; 13 luglio 1910, n. 436, e 13 aprile 1911, n. 337](Per%20la%20istituzione%20di%20una%20categoria%20di%20impiegati%20civili%20con%20la%20denominazione%20di%20assistenti%20ai%20lavori%20darte%20muraria%20ed%20affini%20della%20R.%20marina.%20011U0337.md);
 
-Visto il [R. decreto 14 maggio 1908, n. 232](Che%20approva%20lannesso%20riordinamento%20dellIstituto%20idrografico%20della%20R.%20marina.%20008U0232.md);
+Visto il [R. decreto 14 maggio 1908, n. 232](../Regi%20decreti/Che%20approva%20lannesso%20riordinamento%20dellIstituto%20idrografico%20della%20R.%20marina.%20008U0232.md);
 
 Udito il Consiglio dei ministri;
 

@@ -12,13 +12,13 @@ vigente: true
 
 Sono convertiti in legge i seguenti decreti: 
  
- 1° [Regio decreto del 30 dicembre 1887, numero 5127](E%20annesso%20Protocollo%20che%20prorogano%20al%201%20marzo%201888%20il%20vigente%20trattato%20di%20commercio%20colla%20Svizzera.%20087U5127.md) (Serie 3ª), per la proroga del trattato di commercio del 22 marzo 1883 fra l'Italia e la Svizzera, fino al 1° marzo 1888; 
+ 1° [Regio decreto del 30 dicembre 1887, numero 5127](../Regi%20decreti/E%20annesso%20Protocollo%20che%20prorogano%20al%201%20marzo%201888%20il%20vigente%20trattato%20di%20commercio%20colla%20Svizzera.%20087U5127.md) (Serie 3ª), per la proroga del trattato di commercio del 22 marzo 1883 fra l'Italia e la Svizzera, fino al 1° marzo 1888; 
  
- 2° [Regio decreto del 30 dicembre 1887, numero 5128](E%20annesso%20Protocollo%20che%20prorogano%20al%201%20marzo%201888%20il%20vigente%20trattato%20di%20commercio%20colla%20Francia.%20087U5128.md) (Serie 3ª), per la proroga del trattato di commercio del 3 novembre 1881 fra l'Italia e la Francia fino al 1° marzo 1888; 
+ 2° [Regio decreto del 30 dicembre 1887, numero 5128](../Regi%20decreti/E%20annesso%20Protocollo%20che%20prorogano%20al%201%20marzo%201888%20il%20vigente%20trattato%20di%20commercio%20colla%20Francia.%20087U5128.md) (Serie 3ª), per la proroga del trattato di commercio del 3 novembre 1881 fra l'Italia e la Francia fino al 1° marzo 1888; 
  
- 3° [Regio decreto del 30 dicembre 1887, numero 5129](E%20relativo%20Protocollo%20che%20prorogano%20al%201%20marzo%201888%20il%20vigente%20trattato%20di%20commercio%20e%20di%20navigazione%20colla%20Spagna.%20087U5129.md) (Serie 3ª), per la proroga del trattato di commercio e di navigazione del 2 giugno 1884 fra l'Italia e la Spagna fino al 1° marzo 1888; 
+ 3° [Regio decreto del 30 dicembre 1887, numero 5129](../Regi%20decreti/E%20relativo%20Protocollo%20che%20prorogano%20al%201%20marzo%201888%20il%20vigente%20trattato%20di%20commercio%20e%20di%20navigazione%20colla%20Spagna.%20087U5129.md) (Serie 3ª), per la proroga del trattato di commercio e di navigazione del 2 giugno 1884 fra l'Italia e la Spagna fino al 1° marzo 1888; 
  
- 4° [Regio decreto del 30 dicembre 1887, numero 5130](Concernente%20il%20trattamento%20daziario%20speciale%20da%20applicarsi%20ai%20filati%20di%20cotone%20ed%20alle%20catene%20ordite%20warps%20di%20cotone%20ai%20rottami%20di%20ghisa%20e%20di%20acciaio.%20087U5130.md) (Serie 3ª), col quale si mantiene provvisoriamente in vigore per i filati e le catene ordite di cotone e i rottami di ferro e di acciaio il trattamento doganale stabilito dal testo unico della tariffa approvata con [Regio decreto del 9 agosto 1883, numero 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-08-09;1590) (Serie 3ª).
+ 4° [Regio decreto del 30 dicembre 1887, numero 5130](../Regi%20decreti/Concernente%20il%20trattamento%20daziario%20speciale%20da%20applicarsi%20ai%20filati%20di%20cotone%20ed%20alle%20catene%20ordite%20warps%20di%20cotone%20ai%20rottami%20di%20ghisa%20e%20di%20acciaio.%20087U5130.md) (Serie 3ª), col quale si mantiene provvisoriamente in vigore per i filati e le catene ordite di cotone e i rottami di ferro e di acciaio il trattamento doganale stabilito dal testo unico della tariffa approvata con [Regio decreto del 9 agosto 1883, numero 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-08-09;1590) (Serie 3ª).
 
 ## Art. 2.
 

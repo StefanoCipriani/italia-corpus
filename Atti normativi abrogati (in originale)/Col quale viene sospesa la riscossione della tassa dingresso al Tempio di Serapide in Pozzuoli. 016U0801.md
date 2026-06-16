@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 27 maggio 1875, n. 2554](Sulla%20tassa%20di%20entrata%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20archeologici.%20075U2554.md) (serie 2ª), sulla tassa di entrata nei musei, gallerie, monumenti e scavi; 
  
- Visto il [R. decreto 19 febbraio 1914, n. 110](Col%20quale%20viene%20stabilita%20una%20tassa%20dingresso%20alle%20Grotte%20di%20Seiano%20in%20Napoli%20ed%20al%20Tempio%20di%20Serapide%20in%20Pozzuoli.%20014U0110.md), col quale si stabilisce una tassa di entrata ai seguenti monumenti: Grotta di Seiano in Napoli e Tempio di Serapide in Pozzuoli; 
+ Visto il [R. decreto 19 febbraio 1914, n. 110](../Regi%20decreti/Col%20quale%20viene%20stabilita%20una%20tassa%20dingresso%20alle%20Grotte%20di%20Seiano%20in%20Napoli%20ed%20al%20Tempio%20di%20Serapide%20in%20Pozzuoli.%20014U0110.md), col quale si stabilisce una tassa di entrata ai seguenti monumenti: Grotta di Seiano in Napoli e Tempio di Serapide in Pozzuoli; 
  
  Visto il [decreto Luogotenenziale 30 marzo 1916, numero 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-03-30;600), col quale si sospende la riscossione della tassa d'ingresso all'Anfiteatro di Pozzuoli, ai Tempii di Pesto, agli scavi di Ercolano e alla grotta di Seiano in Napoli per tutta la durata della guerra e sino a sei mesi dopo la sua cessazione; 
  

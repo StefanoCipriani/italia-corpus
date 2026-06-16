@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai militari condannati alla pena dell'ergastolo, in conversione di quella dei lavori forzati a vita, pel reato di diserzione, puo' essere destinato uno degli stabilimenti penitenziari indicati nell'[art. 14 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889, n. 6133.
+Ai militari condannati alla pena dell'ergastolo, in conversione di quella dei lavori forzati a vita, pel reato di diserzione, puo' essere destinato uno degli stabilimenti penitenziari indicati nell'[art. 14 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) 30 giugno 1889, n. 6133.
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ Ritenuta la straordinaria necessita' e urgenza di provvedere alla modifica del s
 
 Visto il [regio decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), convertito nella [legge 1° maggio 1930, n. 611](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20febbraio%201930%20n.%20105%20relativo%20allaumento%20dei%20diritti%20erariali%20sugli%20apparecchi%20automatici%20di%20accensione.%20030U0611.md);
 
-Visto il [regio decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560);
+Visto il [regio decreto 11 marzo 1923, n. 560](../Regi%20decreti/Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -34,7 +34,7 @@ Per la detenzione di apparecchi capaci di produrre fiammella, scintilla od incan
 ## Art. 3.
 
 La riscossione del diritto annuale si effettua a mezzo di apposite marche contrassegno, che l'utente puo' apporre sull'apparecchio ovvero su qualsiasi documento di riconoscimento personale. 
- Finche' restano in vigore le convenzioni con il Consorzio Industrie Fiammiferi, annesse al [regio decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560), ed al [regio decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), successivamente rinnovate, la distribuzione primaria delle marche e' affidata al predetto Consorzio che e' tenuto a prestare per tale servizio idonea cauzione. 
+ Finche' restano in vigore le convenzioni con il Consorzio Industrie Fiammiferi, annesse al [regio decreto 11 marzo 1923, n. 560](../Regi%20decreti/Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), ed al [regio decreto-legge 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-26;105), successivamente rinnovate, la distribuzione primaria delle marche e' affidata al predetto Consorzio che e' tenuto a prestare per tale servizio idonea cauzione. 
  Le caratteristiche delle marche, le modalita' per la distribuzione e riscossione del diritto, l'aggio da corrispondere ai distributori e l'ammontare della cauzione di cui al precedente comma sono stabilite con decreto del Ministro per le finanze da pubblicare nella Gazzetta Ufficiale della Repubblica.
 
 ## Art. 4.

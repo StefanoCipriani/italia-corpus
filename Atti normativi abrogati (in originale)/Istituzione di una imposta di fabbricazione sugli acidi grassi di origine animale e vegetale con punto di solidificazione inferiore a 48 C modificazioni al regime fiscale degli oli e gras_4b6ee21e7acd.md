@@ -200,7 +200,7 @@ Le controversie sulla qualificazione dei prodotti, agli effetti del presente dec
 
 ## Art. 25.
 
-Le sono dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con le norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Le sono dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con le norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
  L'atto di opposizione alla ingiunzione di pagamento non e' valido se non e' preceduto dal versamento delle somme richieste.
 
 ## Art. 26.
@@ -217,7 +217,7 @@ Il credito dello Stato per le imposte e per i diritti previsti dal presente decr
 Chiunque fabbrica clandestinamente gli oli ed i grassi animali con punto di solidificazione superiore a 30° C nonche' i prodotti indicati all'art. 1 del presente decreto, e' punito, oltre che con la multa non minore del doppio ne' maggiore del decuplo della imposta corrispondente ai prodotti gia' ottenuti e ottenibili dalle materie rinvenute in fabbrica o nei locali annessi od attigui, con la reclusione fino a due anni.
  La multa non puo' essere in nessun caso inferiore ad un milione di lire.
  E' considerata fabbrica clandestina anche la sola esistenza nei locali di fabbrica o in locali annessi od attigui di apparecchi e meccanismi di produzione, di materie prime, ovvero di prodotti semilavorati o finiti, prima della prescritta denunzia.
- Gli apparecchi ed i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca, a termini della legge doganale 25 settembre 1940, n. 1424, ed in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Gli apparecchi ed i macchinari, i prodotti e le materie prime, oggetto della violazione di cui al primo comma del presente articolo, sono soggetti a confisca, a termini della legge doganale 25 settembre 1940, n. 1424, ed in deroga alle disposizioni dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 29.
 
@@ -225,7 +225,7 @@ Chiunque sottrae o tenta di sottrarre, con qualunque mezzo, i prodotti contempla
  Chiunque sottrae o tenta di sottrarre, con qualunque mezzo, gli oli e i grassi animali con punto di solidificazione superiore a 30° C agli obblighi previsti dal presente decreto, e' punito con la multa non minore del doppio ne' maggiore del decuplo dell'imposta corrispondente agli oli e grassi animali con punto di solidificazione non superiore a 30 ° C ottenibili dalle materie prime rinvenute in fabbrica, o nei locali annessi ed attigui.
  La multa non puo' essere, in nessun caso, inferiore a lire 500.000.
  I prodotti sottratti o che si tentasse di sottrarre e le cose
-adoperate per commettere la frode sono soggetti a confisca, a termini della legge doganale 25 settembre 1940, n. 1424, in deroga alle disposizioni dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+adoperate per commettere la frode sono soggetti a confisca, a termini della legge doganale 25 settembre 1940, n. 1424, in deroga alle disposizioni dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 30.
 
@@ -241,7 +241,7 @@ Chiunque ponga in circolazione i prodotti contemplati dal precedente art. 21 sen
 
 ## Art. 32.
 
-Chiunque manometta od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione, e' punito a termini dell'[art. 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque manometta od altera in qualsiasi modo i congegni, i bolli ed i sigilli posti dall'Amministrazione, e' punito a termini dell'[art. 349 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 33.
 
@@ -250,7 +250,7 @@ Per la violazione delle norme del presente decreto, per la quale dal decreto ste
 
 ## Art. 34.
 
-Le pene della multa e dell'ammenda non eseguite per insolvenza del condannato si convertono, rispettivamente, nella reclusione o nell'arresto per non oltre sei mesi e, se si tratta di recidivi, per non oltre un anno, in deroga all'[art. 136 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Le pene della multa e dell'ammenda non eseguite per insolvenza del condannato si convertono, rispettivamente, nella reclusione o nell'arresto per non oltre sei mesi e, se si tratta di recidivi, per non oltre un anno, in deroga all'[art. 136 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 35.
 
@@ -262,7 +262,7 @@ La ripartizione delle multe e delle ammende e' effettuata secondo le norme della
 
 ## Art. 37.
 
-Le disposizioni di cui agli articoli 29, 31, 33, 39, 40, 41 e 48 del presente decreto per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
+Le disposizioni di cui agli articoli 29, 31, 33, 39, 40, 41 e 48 del presente decreto per quanto concerne la misura delle pene della multa e dell'ammenda, sono adottate in deroga agli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
 
 ## Art. 38.
 

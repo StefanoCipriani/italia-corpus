@@ -19,7 +19,7 @@ Gli articoli 3, 4, 6 a 10, 14 a 18, 21 a 30, 32, 35, 37, 41, 43 a 53, 55 e 56, d
  
  3° in un fondo di utili da costituirsi a vantaggio degli insegnanti iscritti al Monte, quando sia raggiunto il limite massimo della riserva di garanzia. 
  
- Art. 4. - Gli insegnanti e i direttori delle scuole mantenute dai Comuni, dalle Provincie o dallo Stato, all'interno o all'estero, e degli asili infantili, nonche' i direttori e gli insegnanti elementari dei RR. educatori femminili, per venire ammessi al Monte delle pensioni hanno l'obbligo di presentare all'Amministrazione dell'Istituto il titolo di abilitazione, richiesto dalla legge per il rispettivo ufficio. Sono esenti da tale obbligo le maestre degli asili infantili nominate anteriormente all'andata in vigore del regolamento generale sull'istruzione primaria approvato con [R. decreto 9 ottobre 1895, n. 623](Che%20approva%20il%20regolamento%20per%20listruzione%20elementare.%20095U0623.md). 
+ Art. 4. - Gli insegnanti e i direttori delle scuole mantenute dai Comuni, dalle Provincie o dallo Stato, all'interno o all'estero, e degli asili infantili, nonche' i direttori e gli insegnanti elementari dei RR. educatori femminili, per venire ammessi al Monte delle pensioni hanno l'obbligo di presentare all'Amministrazione dell'Istituto il titolo di abilitazione, richiesto dalla legge per il rispettivo ufficio. Sono esenti da tale obbligo le maestre degli asili infantili nominate anteriormente all'andata in vigore del regolamento generale sull'istruzione primaria approvato con [R. decreto 9 ottobre 1895, n. 623](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20listruzione%20elementare.%20095U0623.md). 
  
  Gli insegnanti assunti in servizio senza titolo di abilitazione anteriormente all'andata in vigore della [legge 19 febbraio 1903, n. 53](Che%20modifica%20la%20legge%2030%20dicembre%201894%20n.%20597%20testo%20unico%20sul%20Monte%20pensioni%20dei%20maestri%20elementari%20003U0053.md), sono considerati regolarmente iscritti al Monte, quando dimostrino di essere stati nominati con deliberazioni consiglieri, approvate dal Consiglio scolastico provinciale. 
  
@@ -152,7 +152,7 @@ Le multe a carico degli esattori e dei ricevitori provinciali andranno a benefic
  
  Rimangono salve in ogni caso le speciali disposizioni o convenzioni piu' favorevoli agli insegnanti gia' fatte, o che si facessero dagli enti, presso i quali hanno prestato o prestano servizio. 
  
- I maestri e i direttori in servizio presso i Comuni, dove siano in vigore regolamenti speciali per assegnazione ii pensioni, hanno diritto di cumulare agli effetti dell'indennita' e della pensione il servizio compiuto in altri Comuni parimente non soggetti al Monte e presso lo Stato nelle condizioni di cui al 1° capoverso del presente articolo, secondo le norme del [R. decreto 3 gennaio 1904, n. 63](Che%20regola%20la%20pensione%20o%20lindennita%20a%20favore%20dellinsegnate%20che%20abbia%20prestato%20servizio%20in%20piu%20dun%20Comune.%20004U0063.md). 
+ I maestri e i direttori in servizio presso i Comuni, dove siano in vigore regolamenti speciali per assegnazione ii pensioni, hanno diritto di cumulare agli effetti dell'indennita' e della pensione il servizio compiuto in altri Comuni parimente non soggetti al Monte e presso lo Stato nelle condizioni di cui al 1° capoverso del presente articolo, secondo le norme del [R. decreto 3 gennaio 1904, n. 63](../Regi%20decreti/Che%20regola%20la%20pensione%20o%20lindennita%20a%20favore%20dellinsegnate%20che%20abbia%20prestato%20servizio%20in%20piu%20dun%20Comune.%20004U0063.md). 
  
  Tali indennita' o pensioni avranno carattere ed effetto di spesa obbligatoria. 
  
@@ -222,7 +222,7 @@ Le multe a carico degli esattori e dei ricevitori provinciali andranno a benefic
 
 ## Art. 2.
 
-Entro sei mesi dalla pubblicazione della presente legge, il Governo del Re provvedera' al coordinamento ed alla pubblicazione del testo unico delle leggi sul Monte pensioni ed alle necessarie modificazioni del regolamento approvato con [R. decreto 23 giugno 1904, n. 635](Che%20approva%20e%20contiene%20il%20regolamento%20per%20lapplicazione%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20dinfanzia%20e%20negli%20educatorii%20femminil_87971bf9e004.md).
+Entro sei mesi dalla pubblicazione della presente legge, il Governo del Re provvedera' al coordinamento ed alla pubblicazione del testo unico delle leggi sul Monte pensioni ed alle necessarie modificazioni del regolamento approvato con [R. decreto 23 giugno 1904, n. 635](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20lapplicazione%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20dinfanzia%20e%20negli%20educatorii%20femminil_87971bf9e004.md).
 
 ## Art. 3.
 

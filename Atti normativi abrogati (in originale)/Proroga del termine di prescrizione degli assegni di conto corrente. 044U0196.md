@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto il [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Visto l'[art. 8 della legge 22 luglio 1939, n. 1192](Provvedimenti%20relativi%20al%20servizio%20dei%20conti%20correnti%20postali.%20039U1192.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per le comunicazioni; di concert
 
 ## Art. 1.
 
-In caso di mancata riscossione gli assegni, cui sia stato apposto il visto dopo il 30 giugno 1942, si prescrivono a favore dell'Amministrazione, in deroga alle vigenti disposizioni, alla fine dell'esercizio finanziario successivo a quello durante il quale verra' a cessare lo stato di guerra, salvo che in base all'[art. 120 del R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645#art_120), la prescrizione abbia a verificarsi in periodo di tempo successivo.
+In caso di mancata riscossione gli assegni, cui sia stato apposto il visto dopo il 30 giugno 1942, si prescrivono a favore dell'Amministrazione, in deroga alle vigenti disposizioni, alla fine dell'esercizio finanziario successivo a quello durante il quale verra' a cessare lo stato di guerra, salvo che in base all'[art. 120 del R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), la prescrizione abbia a verificarsi in periodo di tempo successivo.
 
 ## Art. 2.
 

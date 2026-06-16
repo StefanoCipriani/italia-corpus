@@ -66,7 +66,7 @@ I materiali indicati ai nn. 4 e 5 dell'art. 1 devono essere immediatamente conse
 
 ## Art. 5.
 
-Ai contravventori all'obbligo della denunzia di che nei precedenti articoli sono applicabili le penalita' stabilite dall'[art.468 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Ai contravventori all'obbligo della denunzia di che nei precedenti articoli sono applicabili le penalita' stabilite dall'[art.468 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Chi non eseguisce la consegua prescritta negli articoli precedenti e nel termine stabilito, e' soggetto allo immediato arresto ed e' punito con la detenzione da tre mesi a due anni, secondo la quantita' e la qualita' degli oggetti non consegnati e incorre altresi' nella interdizione dai pubblici uffici per non meno di due anni e non piu' di cinque successivi alla espiazione della pena restrittiva della liberta' personale. 
  
@@ -74,7 +74,7 @@ Ai contravventori all'obbligo della denunzia di che nei precedenti articoli sono
 
 ## Art. 6.
 
-Le pene stabilite nel precedente articolo sono inflitte per la sola infrazione dell'obbligo sancito dagli articoli 1 e 2, senza pregiudizio di quelle maggiori, applicabili a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o di altre leggi speciali, se la detenzione illecita di armi, munizioni od esplosivi avesse relazione con reati nei medesimi preveduti e puniti. 
+Le pene stabilite nel precedente articolo sono inflitte per la sola infrazione dell'obbligo sancito dagli articoli 1 e 2, senza pregiudizio di quelle maggiori, applicabili a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o di altre leggi speciali, se la detenzione illecita di armi, munizioni od esplosivi avesse relazione con reati nei medesimi preveduti e puniti. 
  
  L'adempimento dell'obbligo della denunzia dei materiali indicati nell'art. 1 nel termine ivi prescritto esime il denunciante da qualsiasi responsabilita' nella quale, pel fatto della illecita detenzione, ponga essere incorso fino al momento della denunzia.
 

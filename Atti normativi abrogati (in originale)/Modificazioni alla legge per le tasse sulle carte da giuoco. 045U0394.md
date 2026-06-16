@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3277](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sulle%20carte%20da%20giuoco.%20023U3277.md), che approva il testo di legge delle tasse sulle carte da giuoco;
+Visto il [R. decreto 30 dicembre 1923, n. 3277](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sulle%20carte%20da%20giuoco.%20023U3277.md), che approva il testo di legge delle tasse sulle carte da giuoco;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, d'intesa con il Ministro per la graz
 
 ## Art. 1.
 
-Al [R. decreto 30 dicembre 1923, n. 3277](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sulle%20carte%20da%20giuoco.%20023U3277.md), riguardante le tasse sulle carte da giuoco sono apportate le seguenti modificazioni:
+Al [R. decreto 30 dicembre 1923, n. 3277](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sulle%20carte%20da%20giuoco.%20023U3277.md), riguardante le tasse sulle carte da giuoco sono apportate le seguenti modificazioni:
 
 1.
 

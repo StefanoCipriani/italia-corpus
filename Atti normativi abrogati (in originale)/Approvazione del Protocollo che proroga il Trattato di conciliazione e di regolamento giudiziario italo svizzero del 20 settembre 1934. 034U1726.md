@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 5 dello Statuto fondamentale del Regno;
 
-Visto il [R. decreto 15 gennaio 1925, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-15;23), col quale e' stato approvato il Trattato di conciliazione e di regolamento giudiziario stipulato fra l'Italia e la Svizzera il 20 settembre 1924;
+Visto il [R. decreto 15 gennaio 1925, n. 23](../Regi%20decreti/Esecuzione%20del%20Trattato%20di%20conciliazione%20e%20di%20regolamento%20giudiziario%20fra%20lItalia%20e%20la%20Svizzera%20stipulato%20in%20Roma%20il%2020%20settembre%201924.%20025U0023.md), col quale e' stato approvato il Trattato di conciliazione e di regolamento giudiziario stipulato fra l'Italia e la Svizzera il 20 settembre 1924;
 
 Udito il Consiglio dei Ministri;
 

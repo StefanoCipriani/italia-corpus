@@ -18,7 +18,7 @@ Per conseguire la sistemazione in ruolo, il personale di cui al precedente art. 
 
 ## Art. 3.
 
-In applicazione dell'[art. 20 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), il personale come sopra sistemato verra' collocato nel grado 13° del gruppo C.
+In applicazione dell'[art. 20 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), il personale come sopra sistemato verra' collocato nel grado 13° del gruppo C.
 
 ## Art. 4.
 

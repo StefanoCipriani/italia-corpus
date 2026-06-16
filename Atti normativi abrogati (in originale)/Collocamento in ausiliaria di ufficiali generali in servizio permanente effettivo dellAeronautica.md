@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20no
 
 Visto il [regio decreto-legge 27 luglio 1934, n. 1340](Trattamento%20di%20pensione%20al%20personale%20militare%20della%20Regia%20aeronautica.%20034U1340.md), convertito, con modificazioni, nella [legge 16 marzo 1935, n. 834](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-03-16;834);
 
-Visto il [regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto il [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-Ai soli effetti dell'applicazione delle norme contenute nell'[art. 5, lettera c), del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), per i generali dell'Aeronautica, ruolo naviganti, si applicano i seguenti limiti di eta':
+Ai soli effetti dell'applicazione delle norme contenute nell'[art. 5, lettera c), del regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), per i generali dell'Aeronautica, ruolo naviganti, si applicano i seguenti limiti di eta':
 
 generali di brigata aerea . . . . . . . . . . . . . . . . . . anni 58 generali di divisione aerea . . . . . . . . . . . . . . . . . anni 60 generali di squadra aerea . . . . . . . . . . . . . . . . . . anni 63 
  Il presente decreto ha effetto dal 16 giugno 1946.

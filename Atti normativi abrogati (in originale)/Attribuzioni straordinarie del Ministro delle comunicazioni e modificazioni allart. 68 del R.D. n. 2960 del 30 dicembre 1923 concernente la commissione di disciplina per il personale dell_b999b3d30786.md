@@ -20,7 +20,7 @@ Visto il [R.D.L. 2 luglio 1925, n. 1196](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto il [R.D.L. 10 luglio 1925, n. 1420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-07-10;1420);
 
-Visto il [R.D. 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R.D. 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto il [R D. 19 luglio 1924, n. 1357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1357);
 
@@ -42,7 +42,7 @@ Fino a contraria disposizione al Ministro per le Comunicazioni sono conferiti tu
 
 ## Art. 2.
 
-La Commissione di disciplina per il personale delle Poste e Telegrafi, istituita dal [R.D.L. 19 luglio 1924, n. 1357](Costituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20Commissione%20di%20disciplina%20presso%20lAmministrazione%20postale%20telegrafica%20telefonica.%20024U1357.md) e regolata dalle disposizioni di cui all'[art. 68 del R.D. n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_68), sara' presieduta dal Ministero delle Comunicazioni ed in sua assenza dal Sottosegretario di Stato per le Poste, Telegrafi e Radiocomunicazioni e sara' composta da tre impiegati dipendenti dallo stesso Ministero, di grado non inferiore al sesto, e da un impiegato di grado non inferiore al nono, con le funzioni di segretario. Per la validita' delle decisioni della Commissione stessa, in caso di parita' di voti, prevarra' quello del Presidente.
+La Commissione di disciplina per il personale delle Poste e Telegrafi, istituita dal [R.D.L. 19 luglio 1924, n. 1357](Costituzione%20del%20Consiglio%20di%20amministrazione%20e%20della%20Commissione%20di%20disciplina%20presso%20lAmministrazione%20postale%20telegrafica%20telefonica.%20024U1357.md) e regolata dalle disposizioni di cui all'[art. 68 del R.D. n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sara' presieduta dal Ministero delle Comunicazioni ed in sua assenza dal Sottosegretario di Stato per le Poste, Telegrafi e Radiocomunicazioni e sara' composta da tre impiegati dipendenti dallo stesso Ministero, di grado non inferiore al sesto, e da un impiegato di grado non inferiore al nono, con le funzioni di segretario. Per la validita' delle decisioni della Commissione stessa, in caso di parita' di voti, prevarra' quello del Presidente.
 
 ## Art. 3.
 
@@ -58,6 +58,6 @@ Il presente decreto, che entra in vigore dalla data della sua pubblicazione nell
  
  Badoglio - Di Raimondo 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: Badoglio

@@ -76,7 +76,7 @@ Gl'Ingegneri, gli Architetti ed i Periti incaricati della formazione del progett
 
 ### Art. 8.
 
-Chi si opponesse alle operazioni degli Ingegneri, Architetti o Periti nei casi previsti nell'articolo precedente, o che togliesse i picchetti, i paletti od altri segnali che fossero stati infissi per eseguire il tracciamento dei piani, incorrera' in un'ammenda o multa estensibile a lire 300, salvo le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in caso di reato maggiore. 
+Chi si opponesse alle operazioni degli Ingegneri, Architetti o Periti nei casi previsti nell'articolo precedente, o che togliesse i picchetti, i paletti od altri segnali che fossero stati infissi per eseguire il tracciamento dei piani, incorrera' in un'ammenda o multa estensibile a lire 300, salvo le maggiori pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in caso di reato maggiore. 
  
  Se la formazione dei piani fu ordinata dalla Amministrazione dello Stato, di una Provincia o di un Comune, la denuncia sara' fatta all'Autorita' giudiziaria competente dal Prefetto o dal Sotto-Prefetto, o dal Sindaco; negli altri casi, da chi avra' commessa la formazione dei suddetti piani.
 

@@ -39,7 +39,7 @@ Il Ministro per il tesoro provvedera' con propri decreti alle occorrenti variazi
 
 ## Art. 6.
 
-Per quanto non e' previsto nella presente legge si applicano gli articoli da 325 a 342 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modificazioni, e la [legge 29 luglio 1919, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-07-29;585).
+Per quanto non e' previsto nella presente legge si applicano gli articoli da 325 a 342 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e successive modificazioni, e la [legge 29 luglio 1919, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-07-29;585).
  Per gli edifici costruiti dall'Azienda di Stato per i servizi telefonici spettano a questa le stesse attribuzioni previste per l'Amministrazione autonoma delle poste e dei telegrafi dalle leggi richiamate nel comma precedente; le attribuzioni del direttore generale delle poste e dei telegrafi sono, pero', esercitate dall'Ispettore generale superiore delle telecomunicazioni.
 
 ## Art. 7.

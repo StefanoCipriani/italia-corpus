@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 27 maggio 1929, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;847);
 
-Visto il [R. Decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), sull'ordinamento dello stato civile;
+Visto il [R. Decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), sull'ordinamento dello stato civile;
 
 Visto il R. decreto-legge 30, marzo 1944, n. 94;
 

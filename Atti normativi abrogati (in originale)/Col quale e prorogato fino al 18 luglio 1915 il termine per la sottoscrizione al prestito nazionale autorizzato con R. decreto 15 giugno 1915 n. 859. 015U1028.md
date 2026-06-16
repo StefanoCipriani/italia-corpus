@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' prorogato fino a tutto il giorno diciotto del corrente luglio il termine per la sottoscrizione, dei residenti nel Regno, al Prestito nazionale autorizzato col [R. decreto 15 giugno 1915, n. 859](Col%20quale%20viene%20autorizzata%20lemissione%20di%20un%20nuovo%20prestito%20nazionale.%20015U0859.md). 
+E' prorogato fino a tutto il giorno diciotto del corrente luglio il termine per la sottoscrizione, dei residenti nel Regno, al Prestito nazionale autorizzato col [R. decreto 15 giugno 1915, n. 859](../Regi%20decreti/Col%20quale%20viene%20autorizzata%20lemissione%20di%20un%20nuovo%20prestito%20nazionale.%20015U0859.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

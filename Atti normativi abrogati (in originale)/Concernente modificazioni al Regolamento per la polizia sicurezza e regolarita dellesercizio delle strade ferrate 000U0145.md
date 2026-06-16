@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'articolo 317 della legge sulle opere pubbliche, 20 marzo 1865 (allegato F);
 
-Visto il [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687) (serie 2ª), col quale fu approvato il Regolamento circa la polizia, la sicurezza e la regolarita' dell'esercizio delle strade ferrate;
+Visto il [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md) (serie 2ª), col quale fu approvato il Regolamento circa la polizia, la sicurezza e la regolarita' dell'esercizio delle strade ferrate;
 
 Sentito il Comitato Superiore delle strade ferrate ed il Consiglio di Stato;
 

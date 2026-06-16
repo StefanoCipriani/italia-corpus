@@ -18,7 +18,7 @@ Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20d
 
 Udito il Consiglio dei Ministri;
 
-Ritenuta la necessita' urgente ed assoluta di modificare il [n. 4 dell'art. 35 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), per quanto concerne i titoli di studio per l'ammissione agli esami di abilitazione alle funzioni di segretario comunale, a seguito della riforma introdotta nell'ordinamento dell'istruzione tecnica media con la [legge 15 luglio 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-07-15;889);
+Ritenuta la necessita' urgente ed assoluta di modificare il [n. 4 dell'art. 35 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), per quanto concerne i titoli di studio per l'ammissione agli esami di abilitazione alle funzioni di segretario comunale, a seguito della riforma introdotta nell'ordinamento dell'istruzione tecnica media con la [legge 15 luglio 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-07-15;889);
 
 Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 

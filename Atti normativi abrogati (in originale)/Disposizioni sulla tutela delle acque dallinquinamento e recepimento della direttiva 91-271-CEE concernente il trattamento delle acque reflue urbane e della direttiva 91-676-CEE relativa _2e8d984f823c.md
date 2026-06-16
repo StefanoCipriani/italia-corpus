@@ -602,13 +602,13 @@ Per le finalita' di cui ai commi 1 e 2 le autorita' concedenti, a seguito del ce
 
 1.
 
-Il secondo comma dell'articolo 7 del testo unico delle disposizioni di legge sulle acque e impianti elettrici approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), introdotto dall'[articolo 3 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
+Il secondo comma dell'articolo 7 del testo unico delle disposizioni di legge sulle acque e impianti elettrici approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), introdotto dall'[articolo 3 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
 
  "Le domande di cui al primo comma relative sia alle grandi sia alle piccole derivazioni sono altresi' trasmesse alle Autorita' di bacino territorialmente interessate che, nel termine massimo di quaranta giorni dalla ricezione, comunicano il proprio parere all'ufficio istruttore in ordine alla compatibilita' della utilizzazione con le previsioni del piano di tutela e, anche in attesa di approvazione dello stesso, ai fini del controllo sull'equilibrio del bilancio idrico o idrologico. Decorso il predetto termine senza che sia intervenuta alcuna pronuncia, il parere si intende espresso in senso favorevole.".
 
 2.
 
-Il [comma 1 dell'articolo 9 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_9-com1), cosi' come sostituito dall'[articolo 4 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
+Il [comma 1 dell'articolo 9 del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), cosi' come sostituito dall'[articolo 4 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
 
  "1. Tra piu' domande concorrenti, completata l'istruttoria di cui agli articoli 7 e 8, e' preferita quella che da sola o in connessione con altre utenze concesse o richieste presenti la piu' razionale utilizzazione delle risorse idriche in relazione ai seguenti criteri:
 
@@ -624,7 +624,7 @@ Il [comma 1 dell'articolo 9 del regio decreto 11 dicembre 1933, n. 1775](https:/
 
 3.
 
-L'[articolo 12-bis del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_12bis), introdotto dall'[articolo 5 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
+L'[articolo 12-bis del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), introdotto dall'[articolo 5 del decreto legislativo 12 luglio 1993, n. 275](../Decreti%20Legislativi/Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' sostituito dal seguente:
 
  "Articolo 12-bis
 
@@ -636,7 +636,7 @@ L'[articolo 12-bis del regio decreto 11 dicembre 1933, n. 1775](https://www.norm
 
 4.
 
-L'[articolo 17 del regio decreto 11 dicembre 1933, n.1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_17) e' sostituito dal seguente:
+L'[articolo 17 del regio decreto 11 dicembre 1933, n.1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e' sostituito dal seguente:
 
  "Articolo 17
 
@@ -645,15 +645,15 @@ E' in ogni caso dovuta una somma pari ai canoni non corrisposti.".
 
 5.
 
-E' soppresso il [secondo comma dell'articolo 54 del regio decreto 11 dicembre 1933, n.1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_54-com2).
+E' soppresso il [secondo comma dell'articolo 54 del regio decreto 11 dicembre 1933, n.1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md).
 
 6.
 
-Fatta salva la normativa transitoria di attuazione dell'[articolo 1 della legge 5 gennaio 1994, n.36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_1), per le derivazioni o utilizzazioni di acqua pubblica, in tutto o in parte abusivamente in atto alla data di entrata in vigore del presente decreto, la sanzione di cui all'[articolo 17, del regio decreto 11 dicembre 1933 n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_17), come modificato dal presente articolo, e' ridotta ad un quinto qualora sia presentata domanda in sanatoria entro sei mesi dalla data di entrata in vigore del presente decreto. La concessione in sanatoria e' rilasciata nel rispetto della legislazione vigente e delle utenze regolarmente assentite. In pendenza del procedimento istruttorio della domanda di concessione in sanatoria, l'utilizzazione puo' proseguire, fermo restando l'obbligo del pagamento del canone per l'uso effettuato e il potere dell'autorita' concedente di sospendere in qualsiasi momento l'utilizzazione qualora in contrasto con i diritti di terzi o con il raggiungimento o il mantenimento degli obiettivi di qualita'.
+Fatta salva la normativa transitoria di attuazione dell'[articolo 1 della legge 5 gennaio 1994, n.36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_1), per le derivazioni o utilizzazioni di acqua pubblica, in tutto o in parte abusivamente in atto alla data di entrata in vigore del presente decreto, la sanzione di cui all'[articolo 17, del regio decreto 11 dicembre 1933 n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), come modificato dal presente articolo, e' ridotta ad un quinto qualora sia presentata domanda in sanatoria entro sei mesi dalla data di entrata in vigore del presente decreto. La concessione in sanatoria e' rilasciata nel rispetto della legislazione vigente e delle utenze regolarmente assentite. In pendenza del procedimento istruttorio della domanda di concessione in sanatoria, l'utilizzazione puo' proseguire, fermo restando l'obbligo del pagamento del canone per l'uso effettuato e il potere dell'autorita' concedente di sospendere in qualsiasi momento l'utilizzazione qualora in contrasto con i diritti di terzi o con il raggiungimento o il mantenimento degli obiettivi di qualita'.
 
 7.
 
-Il [primo comma dell'articolo 21 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_21-com1), come modificato dal [comma 1 dell'articolo 29 della legge 5 gennaio 1994, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_29-com1), e' sostituito dal seguente:
+Il [primo comma dell'articolo 21 del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), come modificato dal [comma 1 dell'articolo 29 della legge 5 gennaio 1994, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-05;36#art_29-com1), e' sostituito dal seguente:
 
  "Salvo quanto disposto dal secondo comma, tutte le concessioni di derivazione sono temporanee. La durata delle concessioni ad eccezione di quelle di grande derivazione idroelettrica, per le quali resta fermo quanto disposto dall'[art. 36 della legge del 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), e relativi decreti legislativi di attuazione della [direttiva 96/92/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;92), non puo' eccedere i trenta anni ovvero quaranta per uso irriguo.".
 
@@ -663,7 +663,7 @@ Il comma 7 si applica anche alle concessioni di derivazione gia' concesse. Ove l
 
 9.
 
-Dopo il [terzo comma dell'articolo 21 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_21-com3), e' inserito il seguente:
+Dopo il [terzo comma dell'articolo 21 del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), e' inserito il seguente:
 
  "Le concessioni di derivazioni per uso irriguo devono tener conto delle tipologie delle colture in funzione della disponibilita' della risorsa idrica, della quantita' minima necessaria' alla coltura stessa, prevedendo se necessario specifiche modalita' di irrigazione; le stesse sono assentite o rinnovate solo qualora non risulti possibile soddisfare la domanda d'acqua attraverso le strutture consortili gia' operanti sul territorio.".
 
@@ -1017,7 +1017,7 @@ Al fine di assicurare il mantenimento della capacita' di invaso e la salvaguardi
 
 3.
 
-Il progetto di gestione individua altresi' eventuali modalita' di manovra degli organi di scarico, anche al fine di assicurare la tutela del corpo ricettore. Restano valide in ogni caso le disposizioni fissate dal [decreto del Presidente della Repubblica 1o novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), volte a garantire la sicurezza di persone e cose.
+Il progetto di gestione individua altresi' eventuali modalita' di manovra degli organi di scarico, anche al fine di assicurare la tutela del corpo ricettore. Restano valide in ogni caso le disposizioni fissate dal [decreto del Presidente della Repubblica 1o novembre 1959, n. 1363](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), volte a garantire la sicurezza di persone e cose.
 
 4.
 
@@ -1025,7 +1025,7 @@ Il progetto di gestione di cui al comma 2, e' predisposto dal gestore sulla base
 
 5.
 
-Il progetto di gestione e' approvato dalle regioni, con eventuali prescrizioni, entro sei mesi dalla sua presentazione, sentiti, ove necessario, gli enti gestori delle aree protette direttamente interessate; e' trasmesso al Registro italiano dighe per l'inserimento come parte integrante del foglio condizioni per l'esercizio e la manutenzione di cui all'[articolo 6 del decreto del Presidente della Repubblica 1o novembre 1959, n. 1363](../DPR/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), e relative esposizioni di attuazione. Il progetto di gestione si intende approvato e diviene operativo trascorsi sei mesi dalla data di presentazione senza che sia intervenuta alcuna pronuncia da parte della regione competente, fermo restando il potere di tali enti di dettare eventuali prescrizioni, anche trascorso tale termine.
+Il progetto di gestione e' approvato dalle regioni, con eventuali prescrizioni, entro sei mesi dalla sua presentazione, sentiti, ove necessario, gli enti gestori delle aree protette direttamente interessate; e' trasmesso al Registro italiano dighe per l'inserimento come parte integrante del foglio condizioni per l'esercizio e la manutenzione di cui all'[articolo 6 del decreto del Presidente della Repubblica 1o novembre 1959, n. 1363](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.md), e relative esposizioni di attuazione. Il progetto di gestione si intende approvato e diviene operativo trascorsi sei mesi dalla data di presentazione senza che sia intervenuta alcuna pronuncia da parte della regione competente, fermo restando il potere di tali enti di dettare eventuali prescrizioni, anche trascorso tale termine.
 
 6.
 
@@ -1047,11 +1047,11 @@ Le operazioni di svaso, schiacciamento e sfangamento degli invasi non devono pre
 
 1.
 
-Ferme restando le disposizioni di cui al Capo VII del [regio decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), al fine di assicurare il mantenimento o il ripristino della vegetazione spontanea nella fascia. immediatamente adiacente i corpi idrici, con funzioni di filtro per i solidi sospesi e gli inquinanti di origine diffusa, di stabilizzazione delle sponde e di conservazione della biodiversita' da contemperarsi con le esigenze di funzionalita' dell'alveo, entro un anno dalla data di entrata in vigore del presente decreto, le regioni disciplinano gli interventi di trasformazione e di gestione del suolo e del soprassuolo previsti nella fascia di almeno 10 metri dalla sponda di fiumi, laghi, stagni e lagune comunque vietando la copertura dei corsi d'acqua, che non sia imposta da ragioni di tutela della pubblica incolumita' e la realizzazione di impianti di smaltimento dei rifiuti.
+Ferme restando le disposizioni di cui al Capo VII del [regio decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), al fine di assicurare il mantenimento o il ripristino della vegetazione spontanea nella fascia. immediatamente adiacente i corpi idrici, con funzioni di filtro per i solidi sospesi e gli inquinanti di origine diffusa, di stabilizzazione delle sponde e di conservazione della biodiversita' da contemperarsi con le esigenze di funzionalita' dell'alveo, entro un anno dalla data di entrata in vigore del presente decreto, le regioni disciplinano gli interventi di trasformazione e di gestione del suolo e del soprassuolo previsti nella fascia di almeno 10 metri dalla sponda di fiumi, laghi, stagni e lagune comunque vietando la copertura dei corsi d'acqua, che non sia imposta da ragioni di tutela della pubblica incolumita' e la realizzazione di impianti di smaltimento dei rifiuti.
 
 2.
 
-Gli interventi di cui al comma 1 sono comunque soggetti all'autorizzazione prevista dal [regio decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), salvo quanto previsto per gli interventi a salvaguardia della pubblica incolumita'.
+Gli interventi di cui al comma 1 sono comunque soggetti all'autorizzazione prevista dal [regio decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), salvo quanto previsto per gli interventi a salvaguardia della pubblica incolumita'.
 
 3.
 

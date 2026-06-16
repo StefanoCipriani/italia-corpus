@@ -20,7 +20,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-In deroga all'[art. 20 del R. decreto 7 luglio 1866, n. 3036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-07-07;3036#art_20), per la soppressione degli ordini religiosi, il fabbricato exmonastico di S.
+In deroga all'[art. 20 del R. decreto 7 luglio 1866, n. 3036](../Regi%20decreti/Per%20la%20soppressione%20delle%20Corporazioni%20religiose.%20066U3036.md), per la soppressione degli ordini religiosi, il fabbricato exmonastico di S.
 Chiara in Napoli con l'annessa chiesa e con i mobili e la suppellettile sacra ivi contenuta potra' essere affidato in custodia ed in uso all'Opera intitolata «La Custodia di Terra Santa», fino a nuova disposizione ed anche dopo che il detto fabbricato sia sgombro dalle religiose superstiti del convento soppresso. 
  
  La concessione sara' subordinata alle condizioni: che l'Opera suindicata provveda alla conservazione e decorosa manutenzione, sia ordinaria che straordinaria, degli edifici e di quanto in essi si contiene, sotto l'osservanza della legge sulla tutela delle opere d'arte; rispetti le istituzioni di beneficenza o che interessano l'arte, le quali gia' esistono nell'ex monastero ed accolga altresi' quelle che il Governo ritenga di istituire nei locali che si rendessero disponibili; curi l'ufficiatura della chiesa, come e' stata costantemente praticata; conservi l'alloggio gratuito alle religiose superstiti del convento soppresso, che al presente vi dimorano; e infine restituisca integralmente tutto quanto e' stato all'opera stessa affidato, qualora essa per qualsiasi motivo non potesse piu' conservare la custodia e l'usa dei locali suddetti.

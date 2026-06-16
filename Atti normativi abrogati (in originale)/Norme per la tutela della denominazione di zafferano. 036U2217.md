@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), concernente la repressione delle frodi nella preparazione e nel commercio di sostanze di uso agrario e di prodotti agrari;
 
-Visto il [R. decreto 1° luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361), contenente le norme di esecuzione della legge predetta;
+Visto il [R. decreto 1° luglio 1926, n. 1361](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto%2015%20ottobre%201925%20n.%202033%20convertito%20in%20legge%20con%20la%20legge%2018%20marzo%201926%20n.%20562%20concernente%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20co_4e929fa93522.md), contenente le norme di esecuzione della legge predetta;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

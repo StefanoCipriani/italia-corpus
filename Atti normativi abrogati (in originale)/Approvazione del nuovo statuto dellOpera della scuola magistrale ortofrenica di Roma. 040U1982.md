@@ -14,7 +14,7 @@ N.
 
 1982.
 
-R. decreto 3 dicembre 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, lo statuto dell'Opera della scuola magistrale ortofrenica di Roma, approvato col [R. decreto 24 febbraio 1927, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-24;318), viene sostituito con lo statuto annesso al presente R. decreto 3 dicembre 1940-XIX. 
+R. decreto 3 dicembre 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, lo statuto dell'Opera della scuola magistrale ortofrenica di Roma, approvato col [R. decreto 24 febbraio 1927, n. 318](../Regi%20decreti/Erezione%20in%20ente%20morale%20dell%20Opera%20della%20Scuola%20magistrale%20ortofrenica%20%20in%20Roma.%20027U0318.md), viene sostituito con lo statuto annesso al presente R. decreto 3 dicembre 1940-XIX. 
  
  Visto, il Guardasigilli: GRANDI 
  

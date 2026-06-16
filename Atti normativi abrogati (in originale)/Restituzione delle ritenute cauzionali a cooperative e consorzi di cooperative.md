@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Articolo unico.
 
-E' in facolta' dell'Amministrazione di provvedere, anche prima dell'ultimazione dei lavori, alla restituzione totale o parziale alle cooperative e ai loro consorzi delle ritenute operate, a termini dell'[art. 7, comma quinto, del regio decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), per la costituzione della cauzione a garanzia dei lavori appaltati.
+E' in facolta' dell'Amministrazione di provvedere, anche prima dell'ultimazione dei lavori, alla restituzione totale o parziale alle cooperative e ai loro consorzi delle ritenute operate, a termini dell'[art. 7, comma quinto, del regio decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), per la costituzione della cauzione a garanzia dei lavori appaltati.
  Il rimborso e' subordinato alla condizione che l'importo dei lavori gia' regolarmente eseguiti risulti superiore alla meta' dell'importo contrattuale di essi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

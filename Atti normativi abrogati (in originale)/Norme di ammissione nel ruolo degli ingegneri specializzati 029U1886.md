@@ -16,7 +16,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_4);
+Visto l'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visti i [Regi decreti 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e 5 gennaio
 

@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 22 giugno 1916, n. 755](Concernente%20listituzione%20del%20Ministero%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20016U0755.md);
+Visto il [R. decreto 22 giugno 1916, n. 755](../Regi%20decreti/Concernente%20listituzione%20del%20Ministero%20dellindustria%20del%20commercio%20e%20del%20lavoro.%20016U0755.md);
 
-Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md) e il regolamento relativo approvato con [R. decreto 24 novembre 1908, n. 756](Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
+Visto il testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md) e il regolamento relativo approvato con [R. decreto 24 novembre 1908, n. 756](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0756.md);
 
-Visto il regolamento organico per il personale dell'Amministrazione centrale dell'agricoltura, industria e commercio, approvato con [R. decreto 11 gennaio 1912, n. 138](Col%20quale%20viene%20approvato%20annesso%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20dellagricoltura%20industria%20e%20commercio.%20012U0138.md);
+Visto il regolamento organico per il personale dell'Amministrazione centrale dell'agricoltura, industria e commercio, approvato con [R. decreto 11 gennaio 1912, n. 138](../Regi%20decreti/Col%20quale%20viene%20approvato%20annesso%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20dellagricoltura%20industria%20e%20commercio.%20012U0138.md);
 
 Sentito il Consiglio dei ministri;
 

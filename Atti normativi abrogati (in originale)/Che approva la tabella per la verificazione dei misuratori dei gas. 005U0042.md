@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto in data 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto in data 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
-Visti gli articoli 6 e 7 del regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con [R. decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226);
+Visti gli articoli 6 e 7 del regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con [R. decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md);
 
 Sentito il parere conforme della Commissione superiore metrica e del saggio delle monete e dei metalli preziosi;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'indu
 
 ## Art. 1.
 
-Sono ammessi alla verificazione, con le norme e le prescrizioni stabilite dal regolamento approvato con [R. decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226), i misuratori dei gas che erogano 140 litri di gas all'ora (un becco) ed il diritto di verificazione da pagarsi per ciascuno di tali misuratori sara' quello di L. 1.60 fissato dalla tabella B annessa al predetto testo unico di legge sui pesi e sulle misure per un misuratore del gas illuminante che eroga 240 o 280 litri di gas all'ora (due becchi).
+Sono ammessi alla verificazione, con le norme e le prescrizioni stabilite dal regolamento approvato con [R. decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md), i misuratori dei gas che erogano 140 litri di gas all'ora (un becco) ed il diritto di verificazione da pagarsi per ciascuno di tali misuratori sara' quello di L. 1.60 fissato dalla tabella B annessa al predetto testo unico di legge sui pesi e sulle misure per un misuratore del gas illuminante che eroga 240 o 280 litri di gas all'ora (due becchi).
 
 ## Art. 2.
 

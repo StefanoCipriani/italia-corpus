@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il testo unico della legge elettorale politica, approvato col [R. decreto 13 dicembre 1923, n. 2694](Approvazione%20del%20testo%20unico%20della%20legge%20elettorale%20politica.%20023U2694.md), e' modificato come segue: 
+Il testo unico della legge elettorale politica, approvato col [R. decreto 13 dicembre 1923, n. 2694](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20elettorale%20politica.%20023U2694.md), e' modificato come segue: 
  
  Art. 40. 
  
@@ -372,7 +372,7 @@ S. N. che esplicano nel proprio Collegio funzioni territoriali in maniera effett
  
  Essi durante l'aspettativa conservano il diritto al loro grado nei ruoli delle rispettive amministrazioni, e i diritti di carriera e' di anzianita' limitatamente agli effetti degli aumenti di stipendio automatici e del trattamento di vecchiaia, per la cui liquidazione il tempo passato nella anzidetta aspettativa viene computato per intero quale servizio effettivo. 
  
- Tali effetti si produrranno soltanto in caso di proclamata candidatura e limitatamente ai sei mesi anteriori alla data dell'elezione stessa; altrimenti si applicano le norme dell'[art. 82, comma 3°, del R. decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_82-com3), sullo stato giuridico degli impiegati civili dello Stato. 
+ Tali effetti si produrranno soltanto in caso di proclamata candidatura e limitatamente ai sei mesi anteriori alla data dell'elezione stessa; altrimenti si applicano le norme dell'[art. 82, comma 3°, del R. decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato. 
  
  Alla cessazione del mandato politico e' in facolta' dei detti funzionari, impiegati od agenti di riscattare agli effetti della pensione gli anni passati in aspettativa, versando al Tesoro l'importo corrispondente alla ritenuta ordinaria di pensione che avrebbero dovuto rilasciare, se fossero stati in attivita' di servizio. 
  
@@ -380,7 +380,7 @@ S. N. che esplicano nel proprio Collegio funzioni territoriali in maniera effett
  
  Non saranno creati nuovi posti di ruolo in conseguenza delle vacanze provvisorie dovute al fatto dell'elezione, e le amministrazioni, occorrendo, provvederanno interinalmente con semplici, supplenti. 
  
- Agli impiegati in aspettativa sono inoltre applicabili le disposizioni dell'art. 26 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
+ Agli impiegati in aspettativa sono inoltre applicabili le disposizioni dell'art. 26 del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
  
  Art. 91. 
  
@@ -428,7 +428,7 @@ S. N. che esplicano nel proprio Collegio funzioni territoriali in maniera effett
 
 ### Art. 2.
 
-Le incompatibilita' ed ineleggibilita' stabilite per il presidente dell'Amministrazione provinciale si intendono applicabili, fin quando non sara' stato completamente attuato il nuovo ordinamento disposto col [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), al presidente della Deputazione provinciale.
+Le incompatibilita' ed ineleggibilita' stabilite per il presidente dell'Amministrazione provinciale si intendono applicabili, fin quando non sara' stato completamente attuato il nuovo ordinamento disposto col [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), al presidente della Deputazione provinciale.
 
 ### Art. 3.
 
@@ -440,7 +440,7 @@ La presente legge andra' in vigore il giorno successivo alla sua pubblicazione n
 
 ### Art. 5.
 
-Il Governo del Re e' autorizzato a coordinare in teste unico, sentite le Commissioni indicate nell'art. 40, le disposizioni della presente legge con quelle del testo unico approvato con [R. decreto del 13 dicembre 1923, n. 2694](Approvazione%20del%20testo%20unico%20della%20legge%20elettorale%20politica.%20023U2694.md), anche per quanto riguarda i termini e le dizioni «circoscrizioni, schede e rappresentanti di liste» da sostituire rispettivamente con le altre «Collegio, buste e rappresentanti di candidati». 
+Il Governo del Re e' autorizzato a coordinare in teste unico, sentite le Commissioni indicate nell'art. 40, le disposizioni della presente legge con quelle del testo unico approvato con [R. decreto del 13 dicembre 1923, n. 2694](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20elettorale%20politica.%20023U2694.md), anche per quanto riguarda i termini e le dizioni «circoscrizioni, schede e rappresentanti di liste» da sostituire rispettivamente con le altre «Collegio, buste e rappresentanti di candidati». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

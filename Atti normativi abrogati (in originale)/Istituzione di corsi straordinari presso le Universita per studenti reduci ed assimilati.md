@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sull'istruzione superiore approvato col [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e sue successive modificazioni;
+Visto il testo unico delle leggi sull'istruzione superiore approvato col [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e sue successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -86,7 +86,7 @@ Coloro che, essendo gia' iscritti quali studenti anche se fuori corso, presso le
 
 ## Art. 12.
 
-I cittadini italiani che a causa della situazione determinata dallo stato di guerra, abbiano seguito corsi regolari d'insegnamento presso Universita' o Istituti superiori di maggior fama delle Nazioni Unite o neutrali o corsi di insegnamento tenuti in campi di internamento o simili aggregati a dette Universita' o Istituti e vi abbiano sostenuto esami, compreso l'esame di laurea, possono ottenere il riconoscimento di detti insegnamenti ed esami nei modi previsti dall'art. 332 del testo unico delle leggi sull' istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+I cittadini italiani che a causa della situazione determinata dallo stato di guerra, abbiano seguito corsi regolari d'insegnamento presso Universita' o Istituti superiori di maggior fama delle Nazioni Unite o neutrali o corsi di insegnamento tenuti in campi di internamento o simili aggregati a dette Universita' o Istituti e vi abbiano sostenuto esami, compreso l'esame di laurea, possono ottenere il riconoscimento di detti insegnamenti ed esami nei modi previsti dall'art. 332 del testo unico delle leggi sull' istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
  Saranno riconosciuti di diritto gli insegnamenti seguiti e gli esami superati da cittadini italiani in corsi specialmente organizzati per essi durante la guerra presso Universita' o Istituti superiori di maggior fama delle Nazioni Unite o neutrali, quando tali corsi, per i programmi svolti, conformi a quelli italiani, per la partecipazione di insegnanti italiani all'insegnamento o agli esami, per la condizione giuridica e scolastica degli studenti, si possano considerare, a parere dei Consigli di facolta' italiani, completamente parificati a corsi di insegnamento e ad esami italiani.
 
 ## Art. 13.

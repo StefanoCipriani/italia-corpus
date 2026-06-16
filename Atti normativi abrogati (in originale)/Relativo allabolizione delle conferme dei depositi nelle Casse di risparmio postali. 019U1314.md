@@ -48,7 +48,7 @@ L'Amministrazione puo' non riconoscere quei depositi che non risultino accredita
 
 In conformita' di quanto precede sono, modificate e parzialmente abrogate, in quanto siano contrarie alle presenti disposizioni, le norme di cui agli articoli 24, 25, 26, 78, 80, 82 ed 83 del regolamento generale per il servizio delle Casse di risparmio postali, approvato con [R. decreto dell'11 giugno 1903, n. 394](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20casse%20di%20risparmio%20postali.%20003U0394.md). 
  
- Nulla e' innovato falle disposizioni speciali, di cui al [Regio decreto del 10 marzo 1910, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-03-10;149), per quanto concerne le somme versate nelle Casse di risparmio postali a titolo di deposito giudiziario.
+ Nulla e' innovato falle disposizioni speciali, di cui al [Regio decreto del 10 marzo 1910, n. 149](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20pel%20servizio%20dei%20depositi%20giudiziari.%20010U0149.md), per quanto concerne le somme versate nelle Casse di risparmio postali a titolo di deposito giudiziario.
 
 ## Art. 5.
 

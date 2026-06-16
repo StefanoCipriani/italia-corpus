@@ -304,7 +304,7 @@ L'impiego civile puo' anche essere concesso alle condizioni del presente decreto
 
 Tutti i sottufficiali godranno della indennita' mensile di L. 60 prevista dal [decreto Luogotenenziale n. 18 del 5 gennaio 1919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-05;18) fino a quando sara' corrisposta analoga indennita' agli ufficiali e agli impiegati civili dello Stato. 
  
- Tutti i sottufficiali continueranno inoltre a godere dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1140, del 10 luglio 1919](Che%20concede%20una%20indennita%20giornaliera%20straordinaria%20ai%20sottufficiali%20caporali%20e%20soldati%20del%20R.%20esercito.%20019U1140.md), sino a che questo avra' vigore.
+ Tutti i sottufficiali continueranno inoltre a godere dell'indennita' giornaliera straordinaria di cui al [R. decreto n. 1140, del 10 luglio 1919](../Regi%20decreti/Che%20concede%20una%20indennita%20giornaliera%20straordinaria%20ai%20sottufficiali%20caporali%20e%20soldati%20del%20R.%20esercito.%20019U1140.md), sino a che questo avra' vigore.
 
 ## Art. 38.
 

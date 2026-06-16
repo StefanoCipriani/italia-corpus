@@ -34,7 +34,7 @@ Fermi i divieti di cui nell'[articolo 4 della legge 21 marzo 1915, n. 273](Porta
  
  c) le previsioni sulle operazioni militari di terra e di mare. 
  
- I trasgressori sono puniti a termini dell'[art. 4 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), senza pregiudizio delle maggiori pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dal Codice militare marittimo.
+ I trasgressori sono puniti a termini dell'[art. 4 della legge 21 marzo 1915, n. 273](Portante%20provvedimenti%20per%20la%20difesa%20economica%20e%20militare%20dello%20Stato.%20015U0273.md), senza pregiudizio delle maggiori pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e dal Codice militare marittimo.
 
 ## Art. 2.
 

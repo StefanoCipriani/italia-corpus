@@ -59,7 +59,7 @@ Gli ufficiali anzidetti debbono esibire copia in carta da bollo della patente di
 
 ## Art. 8.
 
-Sono abrogati il [regio decreto 9 maggio 1929, n. 1013](Norme%20per%20conseguire%20labilitazione%20alle%20funzioni%20di%20ufficiale%20esattoriale.%20029U1013.md), e il [regio decreto 27 giugno 1935, n. 1424](Modifiche%20al%20R.%20decreto%209%20maggio%201929%20n.%201013%20circa%20la%20designazione%20dei%20componenti%20delle%20Commissioni%20desame%20per%20la%20abilitazione%20alle%20funzioni%20di%20ufficiale%20esattoriale.%20035U1424.md).
+Sono abrogati il [regio decreto 9 maggio 1929, n. 1013](../Regi%20decreti/Norme%20per%20conseguire%20labilitazione%20alle%20funzioni%20di%20ufficiale%20esattoriale.%20029U1013.md), e il [regio decreto 27 giugno 1935, n. 1424](../Regi%20decreti/Modifiche%20al%20R.%20decreto%209%20maggio%201929%20n.%201013%20circa%20la%20designazione%20dei%20componenti%20delle%20Commissioni%20desame%20per%20la%20abilitazione%20alle%20funzioni%20di%20ufficiale%20esattoriale.%20035U1424.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

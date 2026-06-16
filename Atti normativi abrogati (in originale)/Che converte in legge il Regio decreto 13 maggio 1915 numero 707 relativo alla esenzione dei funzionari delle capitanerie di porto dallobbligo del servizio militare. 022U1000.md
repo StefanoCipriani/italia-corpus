@@ -22,7 +22,7 @@ VITTORIO EMANUELE
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto in data 13 maggio 1915, n. 707](Relativo%20allesenzione%20dei%20funzionari%20delle%20Capitanerie%20di%20porto%20dallobbligo%20del%20servizio%20militare.%20015U0707.md), relativo alla esenzione dei funzionari dello Capitanerie di porto dall'obbligo del servizio. 
+ E' convertito in legge il [R. decreto in data 13 maggio 1915, n. 707](../Regi%20decreti/Relativo%20allesenzione%20dei%20funzionari%20delle%20Capitanerie%20di%20porto%20dallobbligo%20del%20servizio%20militare.%20015U0707.md), relativo alla esenzione dei funzionari dello Capitanerie di porto dall'obbligo del servizio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

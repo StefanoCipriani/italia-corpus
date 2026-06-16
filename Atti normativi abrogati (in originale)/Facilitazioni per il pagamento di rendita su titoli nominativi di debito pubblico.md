@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento generale sulle leggi del debito pubblico, approvato col [regio decreto 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
+Visto il regolamento generale sulle leggi del debito pubblico, approvato col [regio decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
 
 Visto il regolamento di contabilita' generale dello Stato, approvato col [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 

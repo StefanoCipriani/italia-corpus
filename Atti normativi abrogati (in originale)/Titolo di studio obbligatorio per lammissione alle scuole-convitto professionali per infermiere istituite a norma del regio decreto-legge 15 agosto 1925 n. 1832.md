@@ -21,7 +21,7 @@ All'[art. 8 del regio decreto-legge 15 agosto 1925, numero 1832](Facolta%20della
 
 ## Art. 2.
 
-Il Governo emanera', entro due mesi dalla entrata in vigore della presente legge, le norme regolamentari di applicazione del precedente art. 1, modificando in conseguenza il regolamento approvato con [regio decreto 21 novembre 1929, n. 2330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-21;2330).
+Il Governo emanera', entro due mesi dalla entrata in vigore della presente legge, le norme regolamentari di applicazione del precedente art. 1, modificando in conseguenza il regolamento approvato con [regio decreto 21 novembre 1929, n. 2330](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2015%20agosto%201925%20n.%201832%20riguardante%20le%20scuole-convitto%20professionali%20per%20infermiere%20e%20le%20scuole%20specializzate%20di%20medicina%20_bf0514cdb545.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti osservarla e di farla osservare come legge dello Stato.
 

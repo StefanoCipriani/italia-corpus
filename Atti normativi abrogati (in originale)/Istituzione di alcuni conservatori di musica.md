@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
+Visto il [regio decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
 
-Visto il [regio decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945);
+Visto il [regio decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md);
 
 Vista la [legge 13 marzo 1958, n. 165](Ordinamento%20delle%20carriere%20e%20trattamento%20economico%20del%20personale%20insegnante%20e%20direttivo%20degli%20istituti%20di%20istruzione%20elementare%20secondaria%20e%20artistica%20e%20disposizioni%20sulla%20carriera%20degli%20_a61f10ffe6f2.md);
 

@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico
 
-Al [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e' aggiunto il seguente articolo 12-bis: 
+Al [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e' aggiunto il seguente articolo 12-bis: 
  "Articolo 12-bis. - Per esigenze connesse con la situazione economica del Paese, con decreto del Ministro per il tesoro puo' consentirsi, per periodi di durata determinata, che le amministrazioni dello Stato, comprese quelle autonome, concedano a richiesta delle imprese appaltatrici o fornitrici di beni o di servizi, dopo l'ultimazione dei lavori, ovvero dopo la consegna dei beni o la prestazione dei servizi oggetto della fornitura, una anticipazione nel limite massimo del settantacinque per cento delle somme eventualmente ancora dovute - a norma di legge o di contratto - sui pagamenti in conto nonche' di quelle dovute dopo il collaudo, o l'atto a questo equivalente, dei lavori e delle forniture. 
  Per la concessione dell'anticipazione l'impresa contraente e' tenuta a prestare idonee garanzie bancarie o equivalenti. 
  Sull'importo dell'anticipazione concessa a norma del presente articolo sara' trattenuta l'eventuale somma da recuperare a saldo delle anticipazioni concesse ai sensi del precedente articolo 12. 

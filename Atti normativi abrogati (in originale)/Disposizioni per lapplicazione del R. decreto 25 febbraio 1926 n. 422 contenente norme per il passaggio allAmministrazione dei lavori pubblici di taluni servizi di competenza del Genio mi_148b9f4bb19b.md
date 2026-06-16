@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 15 ottobre 1925, n. 1934](Trasferimento%20allAmminist
 
 Visto il [R. decreto 25 febbraio 1926, n. 422](Norme%20per%20il%20trasferimento%20allAmministrazione%20dei%20lavori%20pubblici%20di%20taluni%20servizi%20di%20competenza%20del%20Genio%20militare.%20026U0422.md), contenente le norme per il trasferimento all'Amministrazione dei lavori pubblici di taluni servizi di competenza del Genio militare;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, ed il relativo regolamento approvato con [R. decreto 22 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;827);
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, ed il relativo regolamento approvato con [R. decreto 22 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;827);
 
 Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto con il Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 

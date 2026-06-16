@@ -34,11 +34,11 @@ Fino a sei mesi dalla cessazione dello stato di guerra, il pagamento delle cambi
  
  La garanzia si estende agli interessi sull'importo complessivo dei titoli, calcolati per un anno nella misura del tasso legale. 
  
- Le disposizioni precedenti si applicano anche per i titoli emessi con clausola «non trasferibile» dei quali l'[art. 97 del R. decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736#art_97), consente, in caso di smarrimento, sottrazione o distruzione, il pagamento senza la procedura di ammortamento.
+ Le disposizioni precedenti si applicano anche per i titoli emessi con clausola «non trasferibile» dei quali l'[art. 97 del R. decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md), consente, in caso di smarrimento, sottrazione o distruzione, il pagamento senza la procedura di ammortamento.
 
 ## Art. 2.
 
-Qualora, per mancata prestazione della garanzia di cui all'art. 1 non si faccia luogo al pagamento, il debitore, trascorsi trenta giorni dalla notifica del decreto di ammortamento o, se si tratti di titolo non trasferibile, dal compimento del termine di cui all'[art. 97 del R. decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736#art_97), deve versare l'importo dei titoli, in conto fruttifero di interessi bancari, a favore del creditore.
+Qualora, per mancata prestazione della garanzia di cui all'art. 1 non si faccia luogo al pagamento, il debitore, trascorsi trenta giorni dalla notifica del decreto di ammortamento o, se si tratti di titolo non trasferibile, dal compimento del termine di cui all'[art. 97 del R. decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md), deve versare l'importo dei titoli, in conto fruttifero di interessi bancari, a favore del creditore.
 
 ## Art. 3.
 

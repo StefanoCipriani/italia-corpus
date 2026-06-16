@@ -34,7 +34,7 @@ Sino a quando non saranno emanate le norme di cui all'articolo 3, il Ministero d
 
 ## Art. 5.
 
-Per il personale di cui all'art. 1 sono conferiti al Ministro per i lavori pubblici, i poteri di cui ai [Regi decreti 28 gennaio 1923, nn. 143](Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md) e [153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md), e successive proroghe che siano state o saranno disposte.
+Per il personale di cui all'art. 1 sono conferiti al Ministro per i lavori pubblici, i poteri di cui ai [Regi decreti 28 gennaio 1923, nn. 143](../Regi%20decreti/Recante%20provvedimenti%20per%20la%20dispensa%20dal%20servizio%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20023U0143.md) e [153](../Regi%20decreti/Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md), e successive proroghe che siano state o saranno disposte.
 
 ## Art. 6.
 

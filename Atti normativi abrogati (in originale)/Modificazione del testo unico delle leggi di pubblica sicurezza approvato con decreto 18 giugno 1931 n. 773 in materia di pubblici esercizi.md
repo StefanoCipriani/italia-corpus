@@ -12,7 +12,7 @@ IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
 
 In virtu' dei poteri di Capo provvisorio dello Stato, conferitigli dall'[art. 2, quarto comma, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto il [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+Visto il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,16 +22,16 @@ Sulla proposta del Ministro per l'interno, d'intesa col Ministro per la grazia e
 
 ## Art. 1.
 
-Non sono compresi nel rapporto limite, previsto dall'[art. 95 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_95), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), gli spacci annessi ai circoli degli enti di diritto pubblico che si propongano l'assistenza. 
+Non sono compresi nel rapporto limite, previsto dall'[art. 95 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), gli spacci annessi ai circoli degli enti di diritto pubblico che si propongano l'assistenza. 
  Negli spacci predetti e' pero' vietata la vendita delle sostanze contenenti piu' del 21 per cento del volume di alcool.
 
 ## Art. 2.
 
-alle cooperative di consumo, aventi non meno di cento soci e regolarmente costituite e funzionanti alla data di entrata in vigore del presente decreto, puo' essere, nel termine di mesi sei dalla data stessa, concessa licenza per la vendita al minuto di vino sul posto, limitatamente ai soci, anche in deroga alle disposizioni di cui all'[art. 95 dei testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_95).
+alle cooperative di consumo, aventi non meno di cento soci e regolarmente costituite e funzionanti alla data di entrata in vigore del presente decreto, puo' essere, nel termine di mesi sei dalla data stessa, concessa licenza per la vendita al minuto di vino sul posto, limitatamente ai soci, anche in deroga alle disposizioni di cui all'[art. 95 dei testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ## Art. 3.
 
-Ancorche' risulti raggiunto o superato il rapporto limite previsto dall'[art. 95 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_95), possono essere reintegrati nell' autorizzazione di polizia per l'esercizio di vendita e di consumo di bevande alcooliche coloro che, entro sei mesi dalla data di entrata in vigore del presente decreto, ne facciano richiesta, dando dimostrazione di esserne stati privati, dopo il 28 ottobre 1922, esclusivamente per motivi di carattere politico o razziale. 
+Ancorche' risulti raggiunto o superato il rapporto limite previsto dall'[art. 95 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), possono essere reintegrati nell' autorizzazione di polizia per l'esercizio di vendita e di consumo di bevande alcooliche coloro che, entro sei mesi dalla data di entrata in vigore del presente decreto, ne facciano richiesta, dando dimostrazione di esserne stati privati, dopo il 28 ottobre 1922, esclusivamente per motivi di carattere politico o razziale. 
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica:

@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Presso ogni Regio arsenale marittimo ed alla diretta dipendenza del direttore generale e' istituito un magazzino dei combustibili e materiali di consumo per le Regie navi, retto da un gestore di magazzino od in mancanza da un impiegato dei Regi arsenali della categoria di ragioneria o di quella d'ordine, purche' di grado non inferiore ad archivista, scelto dal ministro della marina e nominato con suo decreto. 
  
- Qualora il magazzino consumi sia retto da un impiegato del personale di ragioneria o d'ordine dei Regi arsenali, questi dovra' prestare la cauzione di L. 10,000 e ricevera' l'indennita' annua di responsabilita' di L. 750, l'una e l'altra stabilite per i gestori di magazzino dagli articoli 6 e 7 del regolamento approvato con [R. decreto 2 agosto 1912, n. 950](Che%20approva%20lannesso%20regolamento%20speciale%20per%20i%20personali%20di%20ragioneria%20di%20gestione%20e%20dordine%20dei%20RR.%20arsenali%20marittimi.%20012U0950.md). 
+ Qualora il magazzino consumi sia retto da un impiegato del personale di ragioneria o d'ordine dei Regi arsenali, questi dovra' prestare la cauzione di L. 10,000 e ricevera' l'indennita' annua di responsabilita' di L. 750, l'una e l'altra stabilite per i gestori di magazzino dagli articoli 6 e 7 del regolamento approvato con [R. decreto 2 agosto 1912, n. 950](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20i%20personali%20di%20ragioneria%20di%20gestione%20e%20dordine%20dei%20RR.%20arsenali%20marittimi.%20012U0950.md). 
  
  Il presente decreto decorrera' dal 1° luglio 1916. 
  

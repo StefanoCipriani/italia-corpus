@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che approva il testo unico di legge sulla finanza locale;
+Visto il [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), che approva il testo unico di legge sulla finanza locale;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -58,7 +58,7 @@ La Cassa depositi e prestiti, entro il 15 gennaio di ciascun anno a cominciare d
 
 ## Art. 7.
 
-I termini di cui agli articoli 319 e 344 del testo unico di leggi per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono prorogati fino al 30 giugno
+I termini di cui agli articoli 319 e 344 del testo unico di leggi per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono prorogati fino al 30 giugno
 
 1933.
 

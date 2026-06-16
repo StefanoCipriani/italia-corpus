@@ -14,7 +14,7 @@ Sono convertiti in legge i [Regi decreti 14 aprile 1927, n. 538](https://www.nor
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 7 aprile 1927, n. 505](38ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20per%20lesercizio%20finanziario%201926-27.%20027U0505.md); aprile 1927, n. 506; 14 aprile 1927, n. 537; 24 aprile 1927, n. 592, e 28 aprile 1927, n. 646. 
+Sono convalidati i [Regi decreti 7 aprile 1927, n. 505](../Regi%20decreti/38ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20inscritto%20nello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20per%20lesercizio%20finanziario%201926-27.%20027U0505.md); aprile 1927, n. 506; 14 aprile 1927, n. 537; 24 aprile 1927, n. 592, e 28 aprile 1927, n. 646. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di ossea varia e di farla osservare come legge dello Stato. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I termini fissati dagli articoli 37 e 38 del regolamento per l'esercizio della pesca marittima nella Tripolitania e nella Cirenaica, approvato con [R. decreto 27 marzo 1913, n. 312](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesercizio%20della%20pesca%20marittima%20nella%20Libia.%20013U0312.md), sono prorogati di due anni per gli attuali concessionari di zone di mare e spazi di demanio marittimo sulla costa della Tripolitania per l'impianto ed esercizio di tonnare. 
+I termini fissati dagli articoli 37 e 38 del regolamento per l'esercizio della pesca marittima nella Tripolitania e nella Cirenaica, approvato con [R. decreto 27 marzo 1913, n. 312](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesercizio%20della%20pesca%20marittima%20nella%20Libia.%20013U0312.md), sono prorogati di due anni per gli attuali concessionari di zone di mare e spazi di demanio marittimo sulla costa della Tripolitania per l'impianto ed esercizio di tonnare. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

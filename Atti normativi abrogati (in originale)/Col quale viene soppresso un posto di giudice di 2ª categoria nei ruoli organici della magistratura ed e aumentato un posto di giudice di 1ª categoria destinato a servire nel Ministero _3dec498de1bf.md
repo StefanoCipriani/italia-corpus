@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la tabella F allegata al decreto medesimo; 
  
- Visto il [R. decreto 15 marzo 1914, n. 274](Col%20quale%20viene%20aumentato%20un%20posto%20di%20giudice%20di%20seconda%20categoria%20nei%20ruoli%20organici%20della%20magistratura.%20014U0274.md), col quale per le esigenze dell'Amministrazione centrale delle colonie venne aumentato un posto di giudice di 2ª categoria nei ruoli organici della magistratura, approvati con la [legge 19 dicembre 1912, n. 1311](Portante%20modificazioni%20allordinamento%20giudiziario.%20012U1311.md); 
+ Visto il [R. decreto 15 marzo 1914, n. 274](../Regi%20decreti/Col%20quale%20viene%20aumentato%20un%20posto%20di%20giudice%20di%20seconda%20categoria%20nei%20ruoli%20organici%20della%20magistratura.%20014U0274.md), col quale per le esigenze dell'Amministrazione centrale delle colonie venne aumentato un posto di giudice di 2ª categoria nei ruoli organici della magistratura, approvati con la [legge 19 dicembre 1912, n. 1311](Portante%20modificazioni%20allordinamento%20giudiziario.%20012U1311.md); 
  
  Ritenuta la necessita', pel normale svolgimento dei ruoli della stessa magistratura, di sostituire al posto anzidetto quello di giudice di 1ª categoria; 
  
@@ -34,7 +34,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A decorrere dal 1° giugno 1916 e' soppresso il posto di giudice di 2ª categoria creato col [R. decreto 15 marzo 1914, n. 274](Col%20quale%20viene%20aumentato%20un%20posto%20di%20giudice%20di%20seconda%20categoria%20nei%20ruoli%20organici%20della%20magistratura.%20014U0274.md), nei ruoli organici della magistratura approvati con la [legge 19 dicembre 1912, n. 1311](Portante%20modificazioni%20allordinamento%20giudiziario.%20012U1311.md), ed in sua vece e' aumentato negli stessi ruoli un posto di giudice di prima categoria con lo stipendio annuo di L. 6000. 
+ A decorrere dal 1° giugno 1916 e' soppresso il posto di giudice di 2ª categoria creato col [R. decreto 15 marzo 1914, n. 274](../Regi%20decreti/Col%20quale%20viene%20aumentato%20un%20posto%20di%20giudice%20di%20seconda%20categoria%20nei%20ruoli%20organici%20della%20magistratura.%20014U0274.md), nei ruoli organici della magistratura approvati con la [legge 19 dicembre 1912, n. 1311](Portante%20modificazioni%20allordinamento%20giudiziario.%20012U1311.md), ed in sua vece e' aumentato negli stessi ruoli un posto di giudice di prima categoria con lo stipendio annuo di L. 6000. 
  
  La relativa spesa fara' carico al Ministero delle colonie. 
  

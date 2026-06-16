@@ -82,7 +82,7 @@ Con decreto del ministro dei lavori pubblici sara' costituita, presso il Ministe
 
 ## Art. 6.
 
-Al comma secondo dell'art. 6 del testo unico di legge, approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), modificato dall'[art. 45 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e' sostituito il seguente: 
+Al comma secondo dell'art. 6 del testo unico di legge, approvato con [R. decreto 3 settembre 1906, n. 522](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), modificato dall'[art. 45 della legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e' sostituito il seguente: 
  
  «Sono aggregati al Consiglio superiore un ispettore superiore del R. corpo delle miniere, il direttore generale delle foreste, due ispettori superiori forestali, tra cui quello addetto al Magistrato alle acque, un funzionario tecnico agrario, scelto fra i funzionari superiori del Ministero di agricoltura, e il direttore capo dell'Ufficio speciale delle acque».
 

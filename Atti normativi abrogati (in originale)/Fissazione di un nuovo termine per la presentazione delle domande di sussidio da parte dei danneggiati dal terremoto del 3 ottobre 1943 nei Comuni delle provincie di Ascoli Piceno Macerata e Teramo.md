@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 17 maggio 1946, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;516);
+Visto il [regio decreto legislativo 17 maggio 1946, n. 516](../Regi%20decreti%20legislativi/Disposizioni%20per%20la%20riparazione%20dei%20danni%20causati%20dal%20terremoto%20del%203%20ottobre%201943%20nei%20Comuni%20delle%20provincie%20di%20Ascoli%20Piceno%20Macerata%20e%20Teramo.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto coi Ministri per 
 
 ## Art. 1.
 
-Per la presentazione delle domande di sussidio di cui agli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;516#art_3) e [5 del regio decreto legislativo 17 maggio 1946, n. 516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;516#art_5), da parte dei danneggiati dal terremoto del 3 ottobre 1943 nei Comuni delle provincie di Ascoli Piceno, Macerata e Teramo, indicati nell'elenco approvato col decreto Ministeriale 12 agosto 1946, pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 19 agosto 1946, n. 185, 6 fissato un nuovo termine di novanta giorni a decorrere dall'entrata in vigore del presente decreto.
+Per la presentazione delle domande di sussidio di cui agli [articoli 3](../Regi%20decreti%20legislativi/Disposizioni%20per%20la%20riparazione%20dei%20danni%20causati%20dal%20terremoto%20del%203%20ottobre%201943%20nei%20Comuni%20delle%20provincie%20di%20Ascoli%20Piceno%20Macerata%20e%20Teramo.md) e [5 del regio decreto legislativo 17 maggio 1946, n. 516](../Regi%20decreti%20legislativi/Disposizioni%20per%20la%20riparazione%20dei%20danni%20causati%20dal%20terremoto%20del%203%20ottobre%201943%20nei%20Comuni%20delle%20provincie%20di%20Ascoli%20Piceno%20Macerata%20e%20Teramo.md), da parte dei danneggiati dal terremoto del 3 ottobre 1943 nei Comuni delle provincie di Ascoli Piceno, Macerata e Teramo, indicati nell'elenco approvato col decreto Ministeriale 12 agosto 1946, pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 19 agosto 1946, n. 185, 6 fissato un nuovo termine di novanta giorni a decorrere dall'entrata in vigore del presente decreto.
  Sono considerate valide le domande presentate dopo la scadenza del termine di cui ai sopraindicati articoli, purche' la presentazione sia avvenuta prima, dell'entrata in vigore del presente decreto.
 
 ## Art. 2.

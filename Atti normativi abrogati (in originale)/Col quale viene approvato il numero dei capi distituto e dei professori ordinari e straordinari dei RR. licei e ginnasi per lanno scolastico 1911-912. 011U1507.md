@@ -33,7 +33,7 @@ Per l'anno scolastico 1911-912 il numero complessivo dei capi d'istituto effetti
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 21 dicembre 1911, n. 1508](Col%20quale%20viene%20rettificato%20lart.%201%20del%20R.%20decreto%206%20agosto%201911%20n.%201507%20che%20fissa%20il%20numero%20complessivo%20dei%20capi%20distituto%20effettivi%20e%20dei%20professori%20ordinari%20e%20straordinari%20dei%20RR.%20lice_85031d6e78c0.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 21 dicembre 1911, n. 1508](../Regi%20decreti/Col%20quale%20viene%20rettificato%20lart.%201%20del%20R.%20decreto%206%20agosto%201911%20n.%201507%20che%20fissa%20il%20numero%20complessivo%20dei%20capi%20distituto%20effettivi%20e%20dei%20professori%20ordinari%20e%20straordinari%20dei%20RR.%20lice_85031d6e78c0.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

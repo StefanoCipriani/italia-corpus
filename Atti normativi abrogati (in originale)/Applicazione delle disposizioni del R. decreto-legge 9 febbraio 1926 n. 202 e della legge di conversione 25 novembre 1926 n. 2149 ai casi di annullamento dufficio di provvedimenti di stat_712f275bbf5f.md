@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054);
+Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
-Visto il regolamento di procedura dinanzi alle sezioni giurisdizionali del Consiglio di Stato, approvato con [R. decreto 17 agosto 1907, n. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-17;642);
+Visto il regolamento di procedura dinanzi alle sezioni giurisdizionali del Consiglio di Stato, approvato con [R. decreto 17 agosto 1907, n. 642](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0642.md);
 
-Visto il regolamento per l'esecuzione del suddetto testo unico, approvato con [R. decreto 26 giugno 1924, n. 1055](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md);
+Visto il regolamento per l'esecuzione del suddetto testo unico, approvato con [R. decreto 26 giugno 1924, n. 1055](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20024U1055.md);
 
 Visto il [R. decreto-legge 9 febbraio 1926, n. 202](Provvedimenti%20delle%20Amministrazioni%20militari%20in%20caso%20di%20accoglimento%20di%20ricorsi%20al%20Consiglio%20di%20Stato%20in%20sede%20giurisdizionale%20e%20in%20via%20straordinaria%20al%20Re%20prodotti%20da%20ufficiali%20del%20Regio%20_54c850a50e4c.md), convertito nella [legge 25 novembre 1926, n. 2149](Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20febbraio%201926%20n.%20202%20riguardante%20provvedimenti%20delle%20Amministrazioni%20militari%20in%20caso%20di%20accoglimento%20di%20ricorsi%20al%20Consiglio%20di%20Stato%20in%20sede%20_1c5964cb0cc9.md);
 

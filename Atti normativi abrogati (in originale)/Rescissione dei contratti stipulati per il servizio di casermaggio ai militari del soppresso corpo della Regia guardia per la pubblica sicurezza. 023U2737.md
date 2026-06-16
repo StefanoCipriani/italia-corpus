@@ -36,7 +36,7 @@ Al servizio di casermaggio per i carabinieri del ruolo specializzato, per i nucl
 
 ## Art. 3.
 
-Il servizio prestato dalle imprese gia' fornitrici, del corpo della Regia guardia in virtu' dell'[art. 26 del R. decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), e quello da prestarsi fino alla sistemazione dei nuovi appalti, dovra' considerarsi come gestite in economia, e il relativo compenso, costituito esclusivamente dalla diaria nella misura fissata dal contratto risoluto, dovra' essere commisurato alle presenze effettive verificatesi nei vari reparti.
+Il servizio prestato dalle imprese gia' fornitrici, del corpo della Regia guardia in virtu' dell'[art. 26 del R. decreto 31 dicembre 1922, n. 1680](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), e quello da prestarsi fino alla sistemazione dei nuovi appalti, dovra' considerarsi come gestite in economia, e il relativo compenso, costituito esclusivamente dalla diaria nella misura fissata dal contratto risoluto, dovra' essere commisurato alle presenze effettive verificatesi nei vari reparti.
 
 ## Art. 4.
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [R. decreto 25 luglio 1912, n. 873](Che%20sostituisce%20gli%20impiegati%20civili%20dellAmministrazione%20militare%20destinati%20in%20Libia%20e%20per%20laumento%20dei%20ruoli%20dei%20personali%20civili%20tecnici%20dartiglieria%20e%20genio%20in%20dipendenza%20dei%20nuovi%20ser_97a84c0a638a.md), che concerne la sostituzione nei corrispondenti ruoli organici degli impiegati civili dipendenti dall'Amministrazione militare inviati in Libia o nell'Egeo, nonche' l'aumento alle tabelle organiche dei personali civili tecnici di artiglieria e del genio del numero di impiegati occorrenti ai servizi dell'aereonautica militare.
+E' convertito in legge il [R. decreto 25 luglio 1912, n. 873](../Regi%20decreti/Che%20sostituisce%20gli%20impiegati%20civili%20dellAmministrazione%20militare%20destinati%20in%20Libia%20e%20per%20laumento%20dei%20ruoli%20dei%20personali%20civili%20tecnici%20dartiglieria%20e%20genio%20in%20dipendenza%20dei%20nuovi%20ser_97a84c0a638a.md), che concerne la sostituzione nei corrispondenti ruoli organici degli impiegati civili dipendenti dall'Amministrazione militare inviati in Libia o nell'Egeo, nonche' l'aumento alle tabelle organiche dei personali civili tecnici di artiglieria e del genio del numero di impiegati occorrenti ai servizi dell'aereonautica militare.
 
 ## Art. 2.
 

@@ -46,7 +46,7 @@ A decorrere dalla data di entrata in vigore del presente decreto il personale in
 
 L'Istituto nazionale fascista della previdenza sociale provvedera' al pagamento delle pensioni di invalidita' e vecchiaia e delle rendite vedovili ed orfanili maturatesi alla data di entrata in vigore del presente decreto, prelevando il capitale di copertura delle attivita' disponibili per ciascuna Cassa: 
  
- Nelle attivita' delle casse sara' compreso anche l'importo dei contributi per l'assicurazione invalidita' e vecchiaia riscossi - a favore degli iscritti alle Casse stesse - dal 1° marzo 1926 alla data di entrata in vigore del presente decreto, ai sensi dell'abrogato [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), e del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827). 
+ Nelle attivita' delle casse sara' compreso anche l'importo dei contributi per l'assicurazione invalidita' e vecchiaia riscossi - a favore degli iscritti alle Casse stesse - dal 1° marzo 1926 alla data di entrata in vigore del presente decreto, ai sensi dell'abrogato [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), e del [R. decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827). 
  
  Qualora le attivita' delle Casse non risultino sufficienti, in confronto al capitale di copertura, di cui al comma precedente, le relative pensioni che vi fanno carico sono proporzionalmente ridotte in relazione alle attivita' stesse. 
  

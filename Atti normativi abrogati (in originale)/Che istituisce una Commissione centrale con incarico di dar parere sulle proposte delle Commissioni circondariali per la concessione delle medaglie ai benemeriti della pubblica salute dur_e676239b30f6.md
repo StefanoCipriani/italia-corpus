@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Regio decreto 28 agosto 1867, n. 3872](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-08-28;3872);
+Visto il [Regio decreto 28 agosto 1867, n. 3872](../Regi%20decreti/Per%20la%20coniazione%20di%20una%20medaglia%20destinata%20a%20premiare%20le%20persone%20che%20si%20rendono%20in%20modo%20eminente%20benemerite%20in%20occasione%20di%20qualche%20morbo%20epidemico%20pericoloso.%20067U3872.md);
 
 Udito il Consiglio dei Ministri,
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Inter
 
 ## Art. 1.
 
-E' istituita presso il Ministero dell'Interno una Commissione centrale con incarico di dar parere intorno alle proposte che le Commissioni circondariali, stabilite con l'articolo 4 del suaccennato [Regio decreto 28 agosto 1867, n. 3872](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-08-28;3872), potranno fare per la concessione delle medaglie a coloro che si sono resi benemeriti della salute pubblica durante la invasione colerica del corrente anno. 
+E' istituita presso il Ministero dell'Interno una Commissione centrale con incarico di dar parere intorno alle proposte che le Commissioni circondariali, stabilite con l'articolo 4 del suaccennato [Regio decreto 28 agosto 1867, n. 3872](../Regi%20decreti/Per%20la%20coniazione%20di%20una%20medaglia%20destinata%20a%20premiare%20le%20persone%20che%20si%20rendono%20in%20modo%20eminente%20benemerite%20in%20occasione%20di%20qualche%20morbo%20epidemico%20pericoloso.%20067U3872.md), potranno fare per la concessione delle medaglie a coloro che si sono resi benemeriti della salute pubblica durante la invasione colerica del corrente anno. 
  
  Detta Commissione sara' composta: 
  

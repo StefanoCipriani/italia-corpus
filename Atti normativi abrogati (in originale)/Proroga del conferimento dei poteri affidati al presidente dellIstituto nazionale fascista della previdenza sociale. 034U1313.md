@@ -30,7 +30,7 @@ E' prorogato di mesi sei, a partire dal 2 agosto 1934-XII, il conferimento dei p
 
 ## Art. 2.
 
-Durante il periodo di tempo previsto nell'articolo precedente, il presidente continuera' ad essere coadiuvato dai funzionari rappresentanti dei Ministeri delle corporazioni e delle finanze, di cui all'[art. 15 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_15), modificato con il [R. decreto-legge 27 marzo 1933, n. 371](Coordinamento%20degli%20organi%20amministrativi%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20della%20previdenza%20sociale.%20033U0371.md).
+Durante il periodo di tempo previsto nell'articolo precedente, il presidente continuera' ad essere coadiuvato dai funzionari rappresentanti dei Ministeri delle corporazioni e delle finanze, di cui all'[art. 15 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), modificato con il [R. decreto-legge 27 marzo 1933, n. 371](Coordinamento%20degli%20organi%20amministrativi%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20della%20previdenza%20sociale.%20033U0371.md).
 
 ## Art. 3.
 

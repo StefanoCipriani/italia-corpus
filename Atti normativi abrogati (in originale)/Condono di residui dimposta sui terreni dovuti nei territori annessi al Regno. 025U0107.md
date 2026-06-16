@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-I residui d'imposta, con le relative addizionali, sui terreni, dovuti nei territori annessi al Regno e riferentisi al periodo anteriore al 1° gennaio 1924 a tenore della legge di riscossione e dei [Regi decreti 30 dicembre 1923, n. 2954](Riscossione%20di%20imposte%20e%20residui%20di%20imposte%20nei%20territori%20annessi.%20023U2954.md) e [2 ottobre 1924, n. 2192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-02;2192), sono condonati. 
+I residui d'imposta, con le relative addizionali, sui terreni, dovuti nei territori annessi al Regno e riferentisi al periodo anteriore al 1° gennaio 1924 a tenore della legge di riscossione e dei [Regi decreti 30 dicembre 1923, n. 2954](../Regi%20decreti/Riscossione%20di%20imposte%20e%20residui%20di%20imposte%20nei%20territori%20annessi.%20023U2954.md) e [2 ottobre 1924, n. 2192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-02;2192), sono condonati. 
  
  Resta fermo l'obbligo dei contribuenti di pagare, a norma di legge, i residui d'imposte inscritte a ruolo gia' esigibili al 31 dicembre 1924.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I compensi fissi ed addizionali per ricoveri ospedalieri, previsti dall'[articolo 82 del regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631#art_82), a carico degli enti mutualistici ed assicurativi, sono aboliti a decorrere dal 1 gennaio 1971.
+I compensi fissi ed addizionali per ricoveri ospedalieri, previsti dall'[articolo 82 del regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md), a carico degli enti mutualistici ed assicurativi, sono aboliti a decorrere dal 1 gennaio 1971.
 
 ## Art. 2.
 

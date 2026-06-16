@@ -14,7 +14,7 @@ E' approvata l'unita tabella dei salari medi giornalieri per la liquidazione del
 
 ## Art. 2.
 
-Ai sensi dell'[art. 39 del R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_39), il salario da assumere come base per la liquidazione delle indennita' per inabilita' temporanea e' uguale ai trecento trecentosessantesimi del salario medio giornaliero stabilito dalla tabella di cui all'articolo precedente ed il salario annuo da assumere per la liquidazione delle rendite di inabilita' permanente e delle rendite a superstiti si valuta uguale a trecento volte il predetto salario medio.
+Ai sensi dell'[art. 39 del R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), il salario da assumere come base per la liquidazione delle indennita' per inabilita' temporanea e' uguale ai trecento trecentosessantesimi del salario medio giornaliero stabilito dalla tabella di cui all'articolo precedente ed il salario annuo da assumere per la liquidazione delle rendite di inabilita' permanente e delle rendite a superstiti si valuta uguale a trecento volte il predetto salario medio.
 
 ## Art. 3.
 
@@ -22,11 +22,11 @@ La misura del contributo dovuto per l'esercizio 1945 per l'assicurazione contro 
 
 ## Art. 4.
 
-Gli uffici della dogana provvederanno alla riscossione del contributo previsto dall'art. 3 con le modalita' stabilite dal [R. decreto 27 marzo 1933, n. 299](Norme%20per%20la%20riscossione%20dei%20contributi%20di%20assicurazioni%20sociali%20dovuti%20dai%20concessionari%20ed%20esercenti%20le%20miniere%20di%20zolfo%20della%20Sicilia.%20033U0299.md).
+Gli uffici della dogana provvederanno alla riscossione del contributo previsto dall'art. 3 con le modalita' stabilite dal [R. decreto 27 marzo 1933, n. 299](../Regi%20decreti/Norme%20per%20la%20riscossione%20dei%20contributi%20di%20assicurazioni%20sociali%20dovuti%20dai%20concessionari%20ed%20esercenti%20le%20miniere%20di%20zolfo%20della%20Sicilia.%20033U0299.md).
 
 ## Art. 5.
 
-Il Banco di Sicilia - Sezione credito minerario - nell'effettuare ai termini dell'art. 2 ultimo comma del [R. decreto 27 marzo 1933, n. 299](Norme%20per%20la%20riscossione%20dei%20contributi%20di%20assicurazioni%20sociali%20dovuti%20dai%20concessionari%20ed%20esercenti%20le%20miniere%20di%20zolfo%20della%20Sicilia.%20033U0299.md), il versamento delle somme riscosse per contributi dagli uffici di dogana, rimettera' all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro - Sezione speciale Zolfare siciliane - una nota dimostrativa del quantitativo di zolfo cui si riferiscono gli stessi versamenti.
+Il Banco di Sicilia - Sezione credito minerario - nell'effettuare ai termini dell'art. 2 ultimo comma del [R. decreto 27 marzo 1933, n. 299](../Regi%20decreti/Norme%20per%20la%20riscossione%20dei%20contributi%20di%20assicurazioni%20sociali%20dovuti%20dai%20concessionari%20ed%20esercenti%20le%20miniere%20di%20zolfo%20della%20Sicilia.%20033U0299.md), il versamento delle somme riscosse per contributi dagli uffici di dogana, rimettera' all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro - Sezione speciale Zolfare siciliane - una nota dimostrativa del quantitativo di zolfo cui si riferiscono gli stessi versamenti.
 
 ## Art. 6.
 

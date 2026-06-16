@@ -16,7 +16,7 @@ RE D'ITALIA
 
 In virtu' dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Visto il Testo Unico delle Leggi sulle Pensioni Civili e Militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70) e successive disposizioni;
+Visto il Testo Unico delle Leggi sulle Pensioni Civili e Militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) e successive disposizioni;
 
 Vista la [legge 23 giugno 1912 n. 667](Che%20istituisce%20pensioni%20privilegiate%20di%20guerra%20per%20gli%20ufficiali%20e%20militari%20di%20truppa%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0667.md) che istituisce pensioni privilegiate di guerra per gli ufficiali e militari di truppa del R.
 
@@ -495,7 +495,7 @@ Il diritto a pensione, assegno o indennita', che sia stato perduto definitivamen
 
 Durante l'espiazione di qualsiasi pena restrittiva della liberta' personale per delitto, che non importi perdita della pensione o dell'assegno, per la durata superiore ad un anno, le pensioni o gli assegni gia' conseguiti dal militare sono soggetti alla ritenuta della meta'. 
  
- Se il condannato ha moglie, dalla quale non sia separato con sentenza passata in giudicato, ovvero ha figlie nubili o maschi minorenni a suo carico, la ritenuta e' soltanto di un terzo, e la pensione o gli assegni si devolvono a titolo di alimenti alla moglie ed figli suddetti, nelle proporzioni stabilite dall'art. 142 del Regolamento approvato con [R. D. 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603). 
+ Se il condannato ha moglie, dalla quale non sia separato con sentenza passata in giudicato, ovvero ha figlie nubili o maschi minorenni a suo carico, la ritenuta e' soltanto di un terzo, e la pensione o gli assegni si devolvono a titolo di alimenti alla moglie ed figli suddetti, nelle proporzioni stabilite dall'art. 142 del Regolamento approvato con [R. D. 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md). 
  
  Se il condannato e' il coniuge, o uno dei figli, dei genitori o dei collaterali, la pensione o l'assegno devolvono durante l'espiazione della pena, agli altri aventi diritto, ai quali spetterebbero, qualora egli fosse morto.
 

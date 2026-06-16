@@ -160,7 +160,7 @@ Gli insegnanti delle varie materie da svolgersi durante il tirocinio teorico-pra
 
 ## Art. 12.
 
-Ultimato il tirocinio teorico-pratico, i candidati che avranno dato prova di assiduita', capacita' e profitto, saranno ammessi a sostenere davanti alla Commissione superiore metrica l'esame d'idoneita' sulle materie loro insegnate, giusta l'articolo 25 (1º comma) del regolamento sul servizio metrico approvato dal [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242). 
+Ultimato il tirocinio teorico-pratico, i candidati che avranno dato prova di assiduita', capacita' e profitto, saranno ammessi a sostenere davanti alla Commissione superiore metrica l'esame d'idoneita' sulle materie loro insegnate, giusta l'articolo 25 (1º comma) del regolamento sul servizio metrico approvato dal [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md). 
  
  I candidati non dichiarati idonei a tale esame o quelli che non fossero stati in grado, per qualsiasi motivo, di sostenerlo, non hanno diritto di ripetere la prova. 
  

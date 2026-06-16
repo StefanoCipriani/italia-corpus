@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduti gli articoli 141, 144, 145, 146 e 147 del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tranvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Veduti gli articoli 141, 144, 145, 146 e 147 del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tranvie a trazione meccanica e gli automobili, approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Veduta la domanda in data 1° maggio 1913, numero 362/1070-48, della Societa' anonima per la ferrovia Napoli-Nola-Baiano, per essere autorizzata a ridurre dal 13 al 2 per cento la tassa erariale per i trasporti viaggiatori, bagagli, cani e biciclette sulla linea da essa esercitata;
 

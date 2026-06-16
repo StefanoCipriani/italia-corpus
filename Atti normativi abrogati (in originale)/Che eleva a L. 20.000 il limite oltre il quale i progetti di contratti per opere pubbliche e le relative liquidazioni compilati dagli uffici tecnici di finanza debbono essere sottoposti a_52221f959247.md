@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il testo unico della legge per l'amministrazione del patrimonio e da contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
+ Visto il testo unico della legge per l'amministrazione del patrimonio e da contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
  Visti gli articoli 67 e 68 del regolamento per l'esecuzione del detto testo unico di legge, approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md); 
  

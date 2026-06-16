@@ -46,7 +46,7 @@ Il Comitato di vigilanza e' composto dai seguenti membri:
 ## Art. 4.
 
 Sono soggetti all'obbligo dell'iscrizione al Fondo tutti i ministri di culto delle confessioni religiose diverse dalla cattolica, che siano cittadini italiani, regolarmente nominati da parte dei competenti organi delle rispettive confessioni, dall'inizio del loro ministero in Italia sino al compimento del 70° anno di eta' o fino alla liquidazione della pensione di invalidita'.
- Sono esenti dall'obbligo dell'iscrizione al Fondo i rabbini, i vice rabbini e gli altri funzionari di culto ai quali sia stato assicurato dalle comunita' israelitiche dalle quali dipendono il trattamento di quiescenza stabilito dall'[articolo 62 del regio decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md), con l'iscrizione, a termini dell'[articolo 39 della legge 11 aprile 1955, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-04-11;379#art_39), alla Cassa per le pensioni ai dipendenti degli enti locali.
+ Sono esenti dall'obbligo dell'iscrizione al Fondo i rabbini, i vice rabbini e gli altri funzionari di culto ai quali sia stato assicurato dalle comunita' israelitiche dalle quali dipendono il trattamento di quiescenza stabilito dall'[articolo 62 del regio decreto 30 ottobre 1930, n. 1731](../Regi%20decreti/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md), con l'iscrizione, a termini dell'[articolo 39 della legge 11 aprile 1955, n. 379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-04-11;379#art_39), alla Cassa per le pensioni ai dipendenti degli enti locali.
 
 ## Art. 5.
 

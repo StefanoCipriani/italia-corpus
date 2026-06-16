@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri, Ab
 
 ## Art. 1.
 
-Chiunque nel territorio della colonia di Assab, o sui confini della colonia e delle sue dipendenze, partecipera' direttamente od indirettamente al traffico degli schiavi negri od abissini, sara' reo di grassazione, e verra' punito secondo i casi, giusta gli [articoli 596](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [597 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859.
+Chiunque nel territorio della colonia di Assab, o sui confini della colonia e delle sue dipendenze, partecipera' direttamente od indirettamente al traffico degli schiavi negri od abissini, sara' reo di grassazione, e verra' punito secondo i casi, giusta gli [articoli 596](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [597 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859.
 
 ## Art. 2.
 

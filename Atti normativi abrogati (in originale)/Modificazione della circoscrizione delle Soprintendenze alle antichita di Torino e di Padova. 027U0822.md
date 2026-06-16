@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- La circoscrizione delle Soprintendenze alle antichita' istituite con l'art. 4 (numeri 1° e 2°) del [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), viene modificata come segue: 
+ La circoscrizione delle Soprintendenze alle antichita' istituite con l'art. 4 (numeri 1° e 2°) del [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), viene modificata come segue: 
  
  a) Soprintendenza del Piemonte e della Liguria (meno la provincia di Spezia) con sede a Torino; 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 agosto 1923, n. 2483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-19;2483), col quale si provvede alla istituzione di una Scuola superiore di telegrafia e telefonia presso l'Istituto superiore postale-telegrafico e telefonico;
+Visto il [R. decreto 19 agosto 1923, n. 2483](../Regi%20decreti/Istituzione%20presso%20lIstituto%20superiore%20postale%20telegrafico%20e%20telefonico%20di%20una%20scuola%20di%20telegrafia%20e%20telefonia.%20023U2483.md), col quale si provvede alla istituzione di una Scuola superiore di telegrafia e telefonia presso l'Istituto superiore postale-telegrafico e telefonico;
 
 Visto il [R. decreto 23 ottobre 1927, n. 2134](Istituzione%20di%20corsi%20di%20cultura%20professionale%20media%20ed%20inferiore%20in%20telegrafia%20e%20telefonia%20presso%20il%20Regio%20istituto%20sperimentale%20delle%20comunicazioni.%20027U2134.md), concernente la istituzione di corsi di coltura inedia ed inferiore in telegrafia e telefonia;
 
@@ -42,7 +42,7 @@ Presso il Regio istituto sperimentale delle comunicazioni - Sezione postale-tele
 
 Sono ammessi ai corsi come alunni ordinari i diplomati delle sezioni meccanici elettricisti degli istituti industriali e coloro che posseggono la licenza liceale o d'istituto tecnico superiore (sezione fisico-matematica) od altro titolo equipollente. 
  
- Gli alunni iscritti che alla fine dell'anno scolastico superano gli esami orali e pratici in tutte le materie indicate nel precedente articolo, conseguono un diploma di specializzazione in telegrafia e telefonia che, a parita' di altre condizioni, e' titolo di preferenza per i concorsi ai posti tecnici dell'Amministrazione postale telegrafica, in analogia a quanto dispone l'[art. 12 del R. decreto n. 2483 del 19 agosto 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-19;2483#art_12).
+ Gli alunni iscritti che alla fine dell'anno scolastico superano gli esami orali e pratici in tutte le materie indicate nel precedente articolo, conseguono un diploma di specializzazione in telegrafia e telefonia che, a parita' di altre condizioni, e' titolo di preferenza per i concorsi ai posti tecnici dell'Amministrazione postale telegrafica, in analogia a quanto dispone l'[art. 12 del R. decreto n. 2483 del 19 agosto 1923](../Regi%20decreti/Istituzione%20presso%20lIstituto%20superiore%20postale%20telegrafico%20e%20telefonico%20di%20una%20scuola%20di%20telegrafia%20e%20telefonia.%20023U2483.md).
 
 ## Art. 3.
 

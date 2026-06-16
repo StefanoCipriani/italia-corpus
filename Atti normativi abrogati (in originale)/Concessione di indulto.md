@@ -25,7 +25,7 @@ Sono condonate nella misura, di due anni le pene detentive inferiori a cinque an
 ## Art. 2. — (Esclusione dal condono)
 
 Il condono non si applica:
- a) a coloro che alla data del 15 dicembre 1949 abbiano riportato una o piu' condanne per delitto non colposo a pena, detentiva superiore nel complesso ad anni tre. Tuttavia non si tiene conto, nel computo dei precedenti penali, delle condanne per reati estinti per precedenti amnistie o per decorso, alla data di cui sopra, del termine della sospensione condizionale della pena ai sensi dell'[art. 167 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di quelle per le quali sia intervenuta la riabilitazione;
+ a) a coloro che alla data del 15 dicembre 1949 abbiano riportato una o piu' condanne per delitto non colposo a pena, detentiva superiore nel complesso ad anni tre. Tuttavia non si tiene conto, nel computo dei precedenti penali, delle condanne per reati estinti per precedenti amnistie o per decorso, alla data di cui sopra, del termine della sospensione condizionale della pena ai sensi dell'[art. 167 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di quelle per le quali sia intervenuta la riabilitazione;
  b) a coloro che alla, data del presente decreto si trovano in stato di latitanza, se non si costituiscono in carcere entro tre mesi dalla data stessa, salvo che la pena debba essere interamente condonata.
 
 ## Art. 3. — (Revoca del condono)

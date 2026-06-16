@@ -38,7 +38,7 @@ A decorrere dal 1° gennaio 1936, il trasporto marittimo delle banane, il commer
 
 I coltivatori di banane non possono cedere il prodotto che allo Stato. 
  
- I prezzi di cessione delle banane allo Stato sono concordati all'inizio annuale di ogni campagna bananiera tra il Consiglio di amministrazione dell'Azienda, di cui al successivo art. 4, ed i Consorzi di colonizzazione di cui al [R. decreto 29 dicembre 1932, n. 1935](Costituzione%20dei%20Consorzi%20di%20colonizzazione%20nellEritrea%20e%20nella%20Somalia%20italiana.%20032U1935.md). 
+ I prezzi di cessione delle banane allo Stato sono concordati all'inizio annuale di ogni campagna bananiera tra il Consiglio di amministrazione dell'Azienda, di cui al successivo art. 4, ed i Consorzi di colonizzazione di cui al [R. decreto 29 dicembre 1932, n. 1935](../Regi%20decreti/Costituzione%20dei%20Consorzi%20di%20colonizzazione%20nellEritrea%20e%20nella%20Somalia%20italiana.%20032U1935.md). 
  
  In caso di contestazione i prezzi sono stabiliti inappellabilmente da una Commissione arbitrale composta di un rappresentante del Ministero delle colonie, di un rappresentante dei cessionari e di un presidente nominato dal Presidente del Consiglio di Stato ovvero, se la contestazione ha luogo in Colonia, dal magistrato piu' elevato in grado della Colonia stessa.
 
@@ -46,7 +46,7 @@ I coltivatori di banane non possono cedere il prodotto che allo Stato.
 
 Chiunque eserciti il trasporto marittimo, il commercio, o la lavorazione industriale delle banane e loro sottoprodotti, in violazione alle norme del presente decreto, e' punito con un'ammenda d'importo variabile da 2 a 10 volte il prezzo di monopolio della merce, salva l'applicazione delle ulteriori pene previste dalle leggi penali. 
  
- La merce e' confiscata a norma dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La merce e' confiscata a norma dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4.
 
@@ -56,7 +56,7 @@ La gestione dell'Azienda e' affidata ad un Consiglio d'amministrazione presiedut
  
  b) un funzionario per ciascuno dei Ministeri delle finanze, delle comunicazioni o delle corporazioni designati dagli stessi; 
  
- c) un rappresentante dei consorzi di colonizzazione di cui al [R. decreto 29 dicembre 1932, n. 1935](Costituzione%20dei%20Consorzi%20di%20colonizzazione%20nellEritrea%20e%20nella%20Somalia%20italiana.%20032U1935.md). 
+ c) un rappresentante dei consorzi di colonizzazione di cui al [R. decreto 29 dicembre 1932, n. 1935](../Regi%20decreti/Costituzione%20dei%20Consorzi%20di%20colonizzazione%20nellEritrea%20e%20nella%20Somalia%20italiana.%20032U1935.md). 
  
  Per il funzionamento dell'Azienda stessa si provvedera': 
  

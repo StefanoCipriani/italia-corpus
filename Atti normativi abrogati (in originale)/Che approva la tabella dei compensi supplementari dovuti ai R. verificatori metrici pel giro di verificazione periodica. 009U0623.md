@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 139 (ultimo comma) del regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto l'art. 139 (ultimo comma) del regolamento sul servizio metrico, approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
 Sul parere conforme della Commissione superiore metrica e del saggio delle monete e dei metalli preziosi;
 

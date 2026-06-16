@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Gli articoli 93, 94, 96 e 109 del regolamento per l'esecuzione del [R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), che istituisce l'Associazione nazionale per il controllo sulla combustione, approvato con [R. decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), sono modificati come segue: 
+Gli articoli 93, 94, 96 e 109 del regolamento per l'esecuzione del [R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), che istituisce l'Associazione nazionale per il controllo sulla combustione, approvato con [R. decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), sono modificati come segue: 
  
  «Art. 93. - Il controllo della combustione sara' compiuto mediante indagini fisiche e chimiche e mediante prove di rendimento e di consumo. 
  

@@ -22,7 +22,7 @@ TITOLO I
 
 ### Art. 1.
 
-E' istituita, con decorrenza dal 1 gennaio 1954, una imposta sulle societa' e sugli enti tenuti a presentare il bilancio o il rendiconto a corredo della dichiarazione dei redditi ai sensi dell'[art. 8 del testo unico 5 luglio 1951, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1951-07-05;573#art_8), ancorche' esenti da imposta di ricchezza mobile in virtu' di speciali disposizioni o assoggettati a tributi sostitutivi. Alla imposta sono assoggettate anche le societa' ed associazioni estere, considerate nel titolo II del [regio decreto 30 dicembre 1923, n. 3280](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md), e successive modificazioni.
+E' istituita, con decorrenza dal 1 gennaio 1954, una imposta sulle societa' e sugli enti tenuti a presentare il bilancio o il rendiconto a corredo della dichiarazione dei redditi ai sensi dell'[art. 8 del testo unico 5 luglio 1951, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1951-07-05;573#art_8), ancorche' esenti da imposta di ricchezza mobile in virtu' di speciali disposizioni o assoggettati a tributi sostitutivi. Alla imposta sono assoggettate anche le societa' ed associazioni estere, considerate nel titolo II del [regio decreto 30 dicembre 1923, n. 3280](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md), e successive modificazioni.
 
 ### Art. 2.
 
@@ -217,7 +217,7 @@ TITOLO V.
 
 ### Art. 26.
 
-Dal 1 gennaio 1954 cessano di avere applicazione l'imposta di negoziazione, regolata dal [regio decreto-legge 15 dicembre 1938, n. 1975](Modificazioni%20al%20vigente%20regime%20dellimposta%20di%20negoziazione%20sui%20titoli%20delle%20societa.%20038U1975.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), con il [decreto legislativo 5 settembre 1947, n. 1173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-05;1173), e con la [legge 22 dicembre 1951, n. 1372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-22;1372), e l'imposta sul capitale delle societa' straniere, prevista nel titolo II del [regio decreto 30 dicembre 1923, n. 3280](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md), e nel [decreto legislativo 30 giugno 1947, n. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-06-30;609).
+Dal 1 gennaio 1954 cessano di avere applicazione l'imposta di negoziazione, regolata dal [regio decreto-legge 15 dicembre 1938, n. 1975](Modificazioni%20al%20vigente%20regime%20dellimposta%20di%20negoziazione%20sui%20titoli%20delle%20societa.%20038U1975.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), con il [decreto legislativo 5 settembre 1947, n. 1173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-05;1173), e con la [legge 22 dicembre 1951, n. 1372](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-22;1372), e l'imposta sul capitale delle societa' straniere, prevista nel titolo II del [regio decreto 30 dicembre 1923, n. 3280](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md), e nel [decreto legislativo 30 giugno 1947, n. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-06-30;609).
 
 ### Art. 27.
 
@@ -248,7 +248,7 @@ Le societa' cooperative di produzione, di lavoro e loro consorzi, le societa' co
 
 ### Art. 32.
 
-L'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di beni immobili o di altri diritti immobiliari, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni, e' dovuta nella misura seguente: a) per valori fino a lire un milione, 2 per cento;
+L'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' di beni immobili o di altri diritti immobiliari, stabilita dagli articoli 1 e 81, lettera c), e da quelli che vi fanno richiamo, della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni, e' dovuta nella misura seguente: a) per valori fino a lire un milione, 2 per cento;
  b) per la parte di valore che supera un milione di lire, 5 per cento;
  c) se il trasferimento avvenga entro tre anni da altro trasferimento a titolo oneroso dello stesso immobile o diritto immobiliare sul quale siasi pagata l'imposta normale di passaggio: le stesse imposte di cui alle lettere a) e b) ridotte di un quarto, fino a concorrenza del valore tassato nel precedente trasferimento;
  d) se il trasferimento riguarda beni immobili situati all'estero: per le prime lire 1000, lire 20; per ogni 1000 lire in piu', lire 10.
@@ -256,25 +256,25 @@ L'imposta per i trasferimenti a titolo oneroso e per i conferimenti in societa' 
 ### Art. 33.
 
 L'[articolo 3 della legge 23 marzo 1940, n. 283](Imposta%20di%20registro%20sui%20contratti%20di%20appalto%20sulle%20fusioni%20di%20societa%20e%20sulla%20liquidazione%20di%20societa%20immobiliari.%20040U0283.md), e' modificato come segue:
- "In deroga all'[articolo 94 del regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), i contratti con i quali le Amministrazioni dello Stato ed assimilate nel trattamento tributario si riforniscono, mediante compravendita oppure mediante appalto, di merci, derrate ed altre cose mobili sono soggetti all'imposta proporzionale uniforme di registro dell'1 per cento.
+ "In deroga all'[articolo 94 del regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), i contratti con i quali le Amministrazioni dello Stato ed assimilate nel trattamento tributario si riforniscono, mediante compravendita oppure mediante appalto, di merci, derrate ed altre cose mobili sono soggetti all'imposta proporzionale uniforme di registro dell'1 per cento.
  Tale imposta e' in ogni caso a carico del privato contraente.
  Si ha per non apposto qualunque patto diretto a derogare a questa disposizione".
 
 ### Art. 34.
 
-L'imposta proporzionale sul trasferimento di navi, di cui all'articolo 3 della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni, e' dovuta nella misura dello 0,50 per cento, in tutte le ipotesi contemplate nel predetto articolo.
+L'imposta proporzionale sul trasferimento di navi, di cui all'articolo 3 della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni, e' dovuta nella misura dello 0,50 per cento, in tutte le ipotesi contemplate nel predetto articolo.
 
 ### Art. 35.
 
-L'imposta proporzionale per il conferimento in societa' di denaro o di beni mobili o di contratti di locazione di cose o di opere, di cui all'articolo 81, lettera a), della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' dovuta nella misura dell'1 per cento.
- L'imposta proporzionale per il conferimento in societa' di stabilimenti od opifici industriali di cui al citato articolo 81, lettera b), della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' dovuta nella misura del 2,50 per cento.
+L'imposta proporzionale per il conferimento in societa' di denaro o di beni mobili o di contratti di locazione di cose o di opere, di cui all'articolo 81, lettera a), della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' dovuta nella misura dell'1 per cento.
+ L'imposta proporzionale per il conferimento in societa' di stabilimenti od opifici industriali di cui al citato articolo 81, lettera b), della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' dovuta nella misura del 2,50 per cento.
 
 ### Art. 36.
 
-Il testo dell'articolo 108 della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' sostituito dal seguente:
+Il testo dell'articolo 108 della tariffa allegato A al [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' sostituito dal seguente:
  "Atti pubblici o scritture private per la negoziazione di azioni ed obbligazioni di societa' nazionali ed estere, quando il prezzo sia pagato nell'atto stesso dall'acquirente o con denaro o con azioni ed obbligazioni - imposta fissa lire 200".
  Gli articoli 10 e 11 della tabella E allegata al [regio decreto 30
- dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sono sostituiti dai seguente testo unificato:
+ dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sono sostituiti dai seguente testo unificato:
 "Azioni, obbligazioni ed altri titoli di societa' nazionali ed
 estere e atti relativi alle operazioni per la negoziazione delle azioni, delle obbligazioni e dei titoli anzidetti.
  Se per la negoziazione fosse stipulato un atto pubblico o una scrittura privata separata dai detti titoli, l'atto o scrittura dovranno registrarsi ai sensi dell'articolo 108 della tariffa allegato A, modificato dal primo comma del presente articolo.

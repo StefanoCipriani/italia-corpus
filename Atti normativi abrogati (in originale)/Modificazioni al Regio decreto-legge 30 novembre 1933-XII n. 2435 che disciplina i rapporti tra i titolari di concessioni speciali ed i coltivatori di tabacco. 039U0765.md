@@ -14,7 +14,7 @@ Gli articoli 1, 2 e 4 del R. decreto-legge 30 novembre 1933-XII, n. 2435, sono c
  
  «Art. 1. - I rapporti fra i titolari di concessioni speciali di coltura del tabacco per le manifatture di Stato e per esportazione ed i coltivatori sono regolati da contratti di durata uguale a quella delle licenze di coltivazione, la efficacia dei quali rimane subordinata, ai sensi dell'art. 2, al nulla osta dell'Amministrazione dei monopoli di Stato per quanto riflette la persona del coltivatore. 
  
- «I contratti sono depositati con la domanda di concessione speciale di cui agli articoli 85 e 104 del regolamento per la coltivazione indigena del tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni». 
+ «I contratti sono depositati con la domanda di concessione speciale di cui agli articoli 85 e 104 del regolamento per la coltivazione indigena del tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni». 
  
  «Art. 2. - L'Amministrazione dei monopoli di Stato ha facolta' di comunicare al concessionario ed al coltivatore, prima che si inizino le operazioni di trapiantamento, quali tra coloro che sono stati designati per condurre la coltivazione, non soddisfino, a suo giudizio insindacabile, ai requisiti della buona condotta morale e politica e della necessaria capacita' tecnica. 
  

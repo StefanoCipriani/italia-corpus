@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 3 del R. decreto 27 settembre 1923, n. 2351](Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2014%20giugno%201923%20n.%201488%20relativi%20alle%20concessioni%20delle%20comunicazioni%20senza%20filo.%20023U2351.md), che stabilisce il canone erariale del 10 % sulle tasse di bordo dei radiotelegrammi delle navi mercantili italiane;
+Visto l'[art. 3 del R. decreto 27 settembre 1923, n. 2351](../Regi%20decreti/Modificazioni%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2014%20giugno%201923%20n.%201488%20relativi%20alle%20concessioni%20delle%20comunicazioni%20senza%20filo.%20023U2351.md), che stabilisce il canone erariale del 10 % sulle tasse di bordo dei radiotelegrammi delle navi mercantili italiane;
 
 Visto il decreto Ministeriale 4 ottobre 1927, che da' alla Societa' Italiana Radio Marittima la concessione del servizio radiotelegrafico a bordo delle navi mercantili italiane;
 

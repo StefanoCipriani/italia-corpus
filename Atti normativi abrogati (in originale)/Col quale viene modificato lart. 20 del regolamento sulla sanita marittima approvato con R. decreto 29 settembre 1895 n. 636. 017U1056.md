@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Al secondo ed al terzo comma dell'art. 20 del regolamento sulla sanita' marittima, approvato con [R. decreto 29 settembre 1895, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;636), sono sostituite le disposizioni seguenti: 
+Al secondo ed al terzo comma dell'art. 20 del regolamento sulla sanita' marittima, approvato con [R. decreto 29 settembre 1895, n. 636](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md), sono sostituite le disposizioni seguenti: 
  
  «Per questi servizi sono loro corrisposte le indennita' di visita e, all'occorrenza, di trasferta determinate per ciascun porto dal Ministero dell'interno. 
  

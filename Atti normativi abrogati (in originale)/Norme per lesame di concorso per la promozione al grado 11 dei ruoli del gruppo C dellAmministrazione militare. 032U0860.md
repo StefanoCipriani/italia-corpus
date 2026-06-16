@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e le successive modificazioni ed estensioni, sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato iuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato iuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Visto il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per la guerra; Abbiamo decretato
 
 ## Art. 1.
 
-L'esame di concorso per la promozione al grado undecimo dei ruoli appartenenti al gruppo C, dipendenti dal Ministero della guerra, di cui all'[art. 23 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_23), e' indetto con decreto ministeriale da pubblicarsi nel Giornale militare ufficiale non meno di due mesi prima della data d'inizio delle prove scritte. 
+L'esame di concorso per la promozione al grado undecimo dei ruoli appartenenti al gruppo C, dipendenti dal Ministero della guerra, di cui all'[art. 23 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' indetto con decreto ministeriale da pubblicarsi nel Giornale militare ufficiale non meno di due mesi prima della data d'inizio delle prove scritte. 
  
  All'esame stesso sono ammessi gli impiegati i quali, alla data del decreto che lo indice, abbiano compiuto almeno dieci anni di effettivo servizio complessivamente nei gradi dodicesimo e tredicesimo, tenuto altresi' conto dell'eventuale servizio di prova o di alunnato e del servizio di combattente di cui all'[art. 2 del R. decreto-legge 6 gennaio 1927, n. 27](Norme%20integrative%20di%20quelle%20stabilite%20a%20favore%20del%20personale%20statale%20ex%20combattente%20col%20R.%20decreto%203%20gennaio%201926%20n.%2048.%20027U0027.md), e sempre che, a giudizio del Consiglio d'amministrazione, abbiano dimostrato capacita', diligenza e buona condotta. 
  
@@ -78,7 +78,7 @@ Eccezione fatta per il concorso di cui al precedente art. 6, per il quale tutte 
  
  Le prove scritte di cui alle lettere a) e b) si svolgeranno in base ai temi formulati dalla rispettiva Commissione esaminatrice, i quali saranno, a cura del presidente della Commissione stessa, spediti, in pieghi sigillati ed assicurati, ai comandi anzidetti. 
  
- Ogni tema, chiuso in busta suggellata, portante sui lembi di chiusura le firme dei componenti la Commissione e del segretario, sara' aperto, alla presenza dei candidati, nel giorno e nell'ora stabilita per lo svolgimento della relativa prova. All'uopo, un apposito comitato di vigilanza, nominato, a seconda dei casi, dagli accennati comandi di divisione o del genio e composto di un colonnello o tenente colonnello, presidente, di un maggiore e di un capitano, quest'ultimo anche con funzioni di segretario del comitato stesso, assistera' allo svolgimento delle prove suaccennate e curera' inoltre la rigorosa osservanza delle norme di cui agli [articoli 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_35), [36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_36), [37 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_37). 
+ Ogni tema, chiuso in busta suggellata, portante sui lembi di chiusura le firme dei componenti la Commissione e del segretario, sara' aperto, alla presenza dei candidati, nel giorno e nell'ora stabilita per lo svolgimento della relativa prova. All'uopo, un apposito comitato di vigilanza, nominato, a seconda dei casi, dagli accennati comandi di divisione o del genio e composto di un colonnello o tenente colonnello, presidente, di un maggiore e di un capitano, quest'ultimo anche con funzioni di segretario del comitato stesso, assistera' allo svolgimento delle prove suaccennate e curera' inoltre la rigorosa osservanza delle norme di cui agli [articoli 35](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [36](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [37 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  I lavori dei candidati saranno, al termine di ogni prova spediti, dal presidente del comitato di vigilanza, al presidente della Commissione esaminatrice, in piego sigillato ed assicurato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di cui all'art. 9 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204), e' prorogato al 31 dicembre 1915. 
+ Il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli e del Banco di Sicilia, di cui all'art. 9 del testo unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), e' prorogato al 31 dicembre 1915. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

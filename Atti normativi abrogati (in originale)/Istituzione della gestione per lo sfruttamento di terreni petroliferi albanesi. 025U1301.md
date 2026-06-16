@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), e successive modificazioni;
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Udito il Consiglio dei Ministri;
 
@@ -44,7 +44,7 @@ Spetta al Ministro per le comunicazioni prendere i provvedimenti necessari a gar
  
  Fino al limite di L. 200,000 e di L. 50,000, rispettivamente, sono competenti ad ordinare spese ed approvare i relativi contratti il capo del Servizio approvvigionamenti ed il capo della Direzione dei lavori, quando questa sia istituita. 
  
- I contratti di cui il presente articolo, anche se stipulati in Italia, potranno farsi risultare mediante semplice corrispondenza, secondo gli usi del commercio e ad essi non sara' applicabile il disposto degli articoli 5, 6, 2° comma, e 19 del [R. decreto 18 novembre 1923, n. 2440, e dell'art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6) del [R. decreto 22 maggio 1924, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;861).
+ I contratti di cui il presente articolo, anche se stipulati in Italia, potranno farsi risultare mediante semplice corrispondenza, secondo gli usi del commercio e ad essi non sara' applicabile il disposto degli articoli 5, 6, 2° comma, e 19 del [R. decreto 18 novembre 1923, n. 2440, e dell'art. 6](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) del [R. decreto 22 maggio 1924, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;861).
 
 ## Art. 4.
 

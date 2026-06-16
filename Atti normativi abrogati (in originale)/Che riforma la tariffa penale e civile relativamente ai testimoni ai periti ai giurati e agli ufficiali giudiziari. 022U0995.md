@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli articoli 7, 1° comma, 8, 9, 13, 1° comma, 14, 15, 16, 1° comma, 18, 20, 21, 22, 23, 27, 29, 32, 1° comma, 35, 36, 37, 48, 115, nn. 2, 120, 137 e 149 del [Regio decreto 23 dicembre 1865, numero 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), che approva la tariffa in materia penale sono sostituiti dai seguenti: 
+Gli articoli 7, 1° comma, 8, 9, 13, 1° comma, 14, 15, 16, 1° comma, 18, 20, 21, 22, 23, 27, 29, 32, 1° comma, 35, 36, 37, 48, 115, nn. 2, 120, 137 e 149 del [Regio decreto 23 dicembre 1865, numero 2701](../Regi%20decreti/Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), che approva la tariffa in materia penale sono sostituiti dai seguenti: 
  
  «Art. 7 (1ª comma). - Tale indennita' pei minori di anni quattordici dell'uno o dell'altro sesso, sara' di lire 2 al giorno; per le donne non minori di anni 14 di lire 3; per tutti gli altri di L. 6, e dovra' ridursi alla meta' per coloro che non saranno trattenuti in ufficio a causa dell'esame per un tempo maggiore di ore tre. 
  
@@ -142,7 +142,7 @@ Gli articoli 7, 1° comma, 8, 9, 13, 1° comma, 14, 15, 16, 1° comma, 18, 20, 2
 
 ## Art. 2.
 
-I numeri 378, 390, 392, 393, 394, 395 e 396 del [Regio decreto 23 dicembre 1865, n. 2700](Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md), che approva la tariffa per gli atti giudiziari in materia civile, sono sostituiti dai seguenti: 
+I numeri 378, 390, 392, 393, 394, 395 e 396 del [Regio decreto 23 dicembre 1865, n. 2700](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md), che approva la tariffa per gli atti giudiziari in materia civile, sono sostituiti dai seguenti: 
  
  «378. - L'onorario dei periti per le operazioni ordinate dalle autorita' giudiziarie nelle materie civili sara' determinato con le stesse norme stabilite nel titolo II, capo II della tariffa penale. 
  
@@ -174,7 +174,7 @@ I diritti e le indennita' di trasferta spettanti agli ufficiali giudiziari secon
 
 ## Art. 5.
 
-Sono abrogati gli articoli 10, 19, 25, 26, 28, 30, 31, 33, 34, 38, 116 e 121 d. l. [R. decreto 23 dicembre 1865, n. 2701](Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), che approva la tariffa in materia penale, i numeri 379, 380, 381, 382, 383, 389 e 391 del [R. decreto 23 dicembre 1865, n. 2700](Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md), che approva la tariffa per gli atti giudiziari in materia civile, ed ogni altra disposizione contraria alla presente legge. 
+Sono abrogati gli articoli 10, 19, 25, 26, 28, 30, 31, 33, 34, 38, 116 e 121 d. l. [R. decreto 23 dicembre 1865, n. 2701](../Regi%20decreti/Che%20approva%20la%20Tariffa%20in%20materia%20penale.%20065U2701.md), che approva la tariffa in materia penale, i numeri 379, 380, 381, 382, 383, 389 e 391 del [R. decreto 23 dicembre 1865, n. 2700](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20Tariffa%20per%20gli%20atti%20giudiziari%20in%20materia%20civile.%20065U2700.md), che approva la tariffa per gli atti giudiziari in materia civile, ed ogni altra disposizione contraria alla presente legge. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

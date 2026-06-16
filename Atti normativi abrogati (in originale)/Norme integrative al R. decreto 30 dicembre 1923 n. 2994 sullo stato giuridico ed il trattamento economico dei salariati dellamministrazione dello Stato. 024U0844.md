@@ -22,7 +22,7 @@ Visto il [Regio decreto 19 aprile 1923, n. 945](Concernente%20la%20nuova%20organ
 
 della marina, e successive modificazioni;
 
-Visto il [Regio decreto 31 dicembre 1923, n. 3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170), che apporta integrazioni e modificazioni al Regio decreto 14 giugno 1923, n.
+Visto il [Regio decreto 31 dicembre 1923, n. 3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), che apporta integrazioni e modificazioni al Regio decreto 14 giugno 1923, n.
 
 1281;
 
@@ -216,7 +216,7 @@ La [legge 19 luglio 1862, n. 722](Che%20vieta%20il%20cumulo%20degli%20impieghi%2
 
 ## Art. 4.
 
-Sono apportate le seguenti modificazioni agli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_8) e [15 del Regio decreto 31 dicembre 1923, n. 3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_15): 
+Sono apportate le seguenti modificazioni agli [articoli 8](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md) e [15 del Regio decreto 31 dicembre 1923, n. 3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md): 
  
  a) nell'art. 8, l'elenco delle categorie del personale tecnico borghese ed il comma successivo sono cosi' modificati: 
  

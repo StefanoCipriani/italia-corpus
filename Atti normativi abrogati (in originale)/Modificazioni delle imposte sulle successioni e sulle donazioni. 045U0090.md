@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3270](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md);
 
 Visto il [R. decreto-legge 9 aprile 1925, n. 380](Esonero%20dalle%20tasse%20di%20registro%20e%20di%20successione%20e%20da%20quelle%20ipotecarie%20per%20le%20liberalita%20a%20favore%20di%20Enti%20morali%20italiani%20legalmente%20riconosciuti.%20025U0380.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
@@ -28,7 +28,7 @@ Visto il [R. decreto-legge 26 settembre 1935, n. 1749](Provvedimenti%20in%20mate
 
 Visto il [R. decreto-legge 7 agosto 1936, n. 1639](Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md), e successive modificazioni;
 
-Visto il [R. decreto 8 luglio 1937, n. 1516](Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md);
+Visto il [R. decreto 8 luglio 1937, n. 1516](../Regi%20decreti/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md);
 
 Visto il [R. decreto-legge 30 novembre 1937, n. 2145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-11-30;2145), convertito nella [legge 25 aprile 1938, n. 614](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2030%20novembre%201937-XVI%20n.%202145%20concernente%20listituzione%20di%20unaddizionale%20di%20due%20centesimi%20per%20ogni%20lira%20di%20vari%20tributi%20erariali%20comunali%20e%20prov_d55e2eb0bcff.md);
 
@@ -161,7 +161,7 @@ Capo III
 
 Ai fini dell'applicazione dell'imposta sulle successioni e' dedotto dall'imponibile l'ammontare dell'imposta sul valore globale dell'asse ereditario. 
  
-Per l'imposta sul valore globale prevista dal capo precedente valgono, in quanto applicabili e in quanto non sia diversamente stabilito dal presente decreto, tutte le disposizioni contenute nei [Regi decreti 30 dicembre 1923, nn. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e [3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md), e successive modificazioni e aggiunte.
+Per l'imposta sul valore globale prevista dal capo precedente valgono, in quanto applicabili e in quanto non sia diversamente stabilito dal presente decreto, tutte le disposizioni contenute nei [Regi decreti 30 dicembre 1923, nn. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e [3270](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md), e successive modificazioni e aggiunte.
 
 ### Art. 14.
 

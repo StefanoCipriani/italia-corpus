@@ -40,7 +40,7 @@ L'[art. 399 del testo unico 10 agosto 1917, n. 1399](https://www.normattiva.it/u
  
  un rappresentante per ciascuno dei Ministeri dell'interno, delle finanze e dei lavori pubblici, da nominarsi con decreti dei rispettivi Ministri. 
  
- « Le deliberazioni del Consiglio di amministrazione dell'Ente edilizio sono provvedimenti definitivi. Contro di essi e' solo ammesso il ricorso straordinario al Re ai termini dell'art. 16 del testo unico delle leggi sul Consiglio di Stato approvato con [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054). 
+ « Le deliberazioni del Consiglio di amministrazione dell'Ente edilizio sono provvedimenti definitivi. Contro di essi e' solo ammesso il ricorso straordinario al Re ai termini dell'art. 16 del testo unico delle leggi sul Consiglio di Stato approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md). 
  
  « Il Consiglio di amministrazione puo' essere sciolto con decreto Reale su proposta del Ministro per i lavori pubblici, sentiti i Ministri per l'interno e per le finanze, e l'amministrazione dell'Ente, in tal caso, viene affidata, con lo stesso decreto, ad un commissario governativo ». 
  

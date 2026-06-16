@@ -169,7 +169,7 @@ Per i singoli uffici mentovati nell'[art. 1 del R. decreto-legge 23 maggio 1924,
 
 ## Art. 19.
 
-Saranno osservate, in quanto applicabili, le norme contenute nei [Regi decreti 3 maggio 1923, n. 1042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1042), e [24 gennaio 1924, n. 37](Riscaldamento%20e%20illuminazione%20dei%20locali%20ad%20uso%20degli%20uffici%20giudiziari.%20024U0037.md), circa la scelta dei locali menzionati nell'articolo precedente, l'onere della spesa per il fitto, la riparazione e la manutenzione di essi, per l'acquisto e la riparazione dei mobili e per la illuminazione e il riscaldamento dei locali anzidetti.
+Saranno osservate, in quanto applicabili, le norme contenute nei [Regi decreti 3 maggio 1923, n. 1042](../Regi%20decreti/Che%20trasferisce%20a%20carico%20dei%20Comuni%20i%20servizi%20dei%20locali%20e%20dei%20mobili%20degli%20uffici%20giudiziari.%20023U1042.md), e [24 gennaio 1924, n. 37](Riscaldamento%20e%20illuminazione%20dei%20locali%20ad%20uso%20degli%20uffici%20giudiziari.%20024U0037.md), circa la scelta dei locali menzionati nell'articolo precedente, l'onere della spesa per il fitto, la riparazione e la manutenzione di essi, per l'acquisto e la riparazione dei mobili e per la illuminazione e il riscaldamento dei locali anzidetti.
 
 ## Art. 20.
 

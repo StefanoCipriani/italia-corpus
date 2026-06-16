@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[art. 114 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_114), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e' cosi' modificato:
+L'[art. 114 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e' cosi' modificato:
  "Le istituzioni pubbliche di assistenza e beneficenza, nel Caso in cui ne sia consentito l'esercizio dai fini dell'istituzione, sentiti il Consiglio provinciale di sanita' e il Comitato provinciale di assistenza e beneficenza, le Province per gli ospedali psichiatrici e per le altre istituzioni ospedaliere che da esse dipendono, sentito il Consiglio provinciale di sanita' e la Giunta provinciale amministrativa, possono essere autorizzate dal medico provinciale a gestire farmacie interne, esclusa qualsiasi facolta' di vendita di medicinali al pubblico.
  La decadenza dalla relativa autorizzazione e' pronunciata con decreto del medico provinciale:
  a) per la fine dell'ente e della istituzione;
@@ -26,7 +26,7 @@ L'[art. 114 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri
 
 ## Art. 2.
 
-Nel [primo comma dell'art. 121 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_121-com1), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), sono soppresse le parole "di assistenza e beneficenza".
+Nel [primo comma dell'art. 121 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), sono soppresse le parole "di assistenza e beneficenza".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

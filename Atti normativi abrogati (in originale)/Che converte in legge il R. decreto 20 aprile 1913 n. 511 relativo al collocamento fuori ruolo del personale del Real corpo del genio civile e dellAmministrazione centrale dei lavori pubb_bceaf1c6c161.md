@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 20 aprile 1913, n. 511](Che%20disciplina%20il%20collocamento%20fuori%20ruolo%20del%20personale%20del%20R.%20corpo%20del%20genio%20civile%20e%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20destinato%20nelle%20colonie.%20013U0511.md), relativo al collocamento fuori ruolo del personale del Real corpo del genio civile e dell'Amministrazione centrale dei lavori pubblici destinato alle colonie. 
+ E' convertito in legge il [R. decreto 20 aprile 1913, n. 511](../Regi%20decreti/Che%20disciplina%20il%20collocamento%20fuori%20ruolo%20del%20personale%20del%20R.%20corpo%20del%20genio%20civile%20e%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici%20destinato%20nelle%20colonie.%20013U0511.md), relativo al collocamento fuori ruolo del personale del Real corpo del genio civile e dell'Amministrazione centrale dei lavori pubblici destinato alle colonie. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

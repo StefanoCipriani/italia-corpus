@@ -54,7 +54,7 @@ Al personale dell'Amministrazione dell'agricoltura, di cui ai precedenti articol
 
 ### Art. 6.
 
-Le disposizioni del presente decreto hanno vigore dal 1° dicembre 1923, salve le disposizioni contenute nell'[art. 6 del R. decreto 4 maggio 1924, n. 903](Estensione%20alle%20nuove%20Provincie%20delle%20disposizioni%20relative%20alle%20Cattedre%20ambulanti%20di%20agricoltura%20ai%20Comizi%20agrari%20e%20alle%20Fondazioni%20per%20leconomia%20nazionale.%20024U0903.md), e nell'[art. 7 del R. decreto 22 maggio 1924, n. 1261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;1261#art_7). 
+Le disposizioni del presente decreto hanno vigore dal 1° dicembre 1923, salve le disposizioni contenute nell'[art. 6 del R. decreto 4 maggio 1924, n. 903](Estensione%20alle%20nuove%20Provincie%20delle%20disposizioni%20relative%20alle%20Cattedre%20ambulanti%20di%20agricoltura%20ai%20Comizi%20agrari%20e%20alle%20Fondazioni%20per%20leconomia%20nazionale.%20024U0903.md), e nell'[art. 7 del R. decreto 22 maggio 1924, n. 1261](../Regi%20decreti/Trasformazione%20dellIstituto%20sperimentale%20chimico%20-%20agrario%20governativo%20di%20Gorizia%20in%20Ente%20consorziale%20autonomo.%20024U1261.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

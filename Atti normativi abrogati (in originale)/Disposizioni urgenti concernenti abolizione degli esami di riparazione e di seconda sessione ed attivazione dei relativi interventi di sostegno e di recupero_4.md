@@ -32,7 +32,7 @@ A decorrere dall'anno scolastico 1994-1995, sono aboliti:
 
 2.
 
-Gli esami di idoneita' di cui all'articolo 192 del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si svolgono in un'unica sessione estiva.
+Gli esami di idoneita' di cui all'articolo 192 del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si svolgono in un'unica sessione estiva.
 
 3.
 
@@ -40,7 +40,7 @@ Gli studenti che, al termine delle lezioni, a giudizio del consiglio di classe n
 
 4.
 
-Nel testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), sono abrogati:
+Nel testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), sono abrogati:
                         a)
                             il comma 6 dell'articolo 74;
                         b)

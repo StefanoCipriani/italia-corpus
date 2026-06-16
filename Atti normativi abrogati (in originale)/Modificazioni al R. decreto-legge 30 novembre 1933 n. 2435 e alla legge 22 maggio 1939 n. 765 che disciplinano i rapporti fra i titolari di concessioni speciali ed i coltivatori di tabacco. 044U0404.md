@@ -36,7 +36,7 @@ Gli [articoli 2](Disciplina%20dei%20rapporti%20tra%20i%20titolari%20di%20concess
 
 ## Art. 2.
 
-Con successivo decreto sara' provveduto, in quanto occorra, alla emanazione di altre norme per il funzionamento e la procedura delle Commissioni arbitrali, in aggiunta od a modifica di quelle contenute nel [R. decreto 25 gennaio 1940, n. 107](Regolamento%20di%20procedura%20delle%20Commissioni%20arbitrali%20per%20la%20risoluzione%20delle%20controversie%20tra%20coltivatori%20o%20concessionari%20di%20coltivazioni%20di%20tabacco.%20040U0107.md).
+Con successivo decreto sara' provveduto, in quanto occorra, alla emanazione di altre norme per il funzionamento e la procedura delle Commissioni arbitrali, in aggiunta od a modifica di quelle contenute nel [R. decreto 25 gennaio 1940, n. 107](../Regi%20decreti/Regolamento%20di%20procedura%20delle%20Commissioni%20arbitrali%20per%20la%20risoluzione%20delle%20controversie%20tra%20coltivatori%20o%20concessionari%20di%20coltivazioni%20di%20tabacco.%20040U0107.md).
 
 ## Art. 3.
 

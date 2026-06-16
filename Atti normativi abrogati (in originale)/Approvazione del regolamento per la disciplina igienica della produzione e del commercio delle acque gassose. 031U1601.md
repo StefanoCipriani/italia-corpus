@@ -18,7 +18,7 @@ Premesso che la produzione e lo smercio delle acque gassose sono tuttora discipl
 
 Considerato che tali disposizioni non rispondono piu' in modo adeguato ai progressi dell'industria ed alle esigenze della vigilanza sempre piu' intensa richiesta da bevande di cosi' largo e generale consumo, di modo che e' reso necessario mediante nuove norme regolamentari dare a tale materia una disciplina piu' rigorosa ai fini igienico-sanitari;
 
-Visto l'[art. 218 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_218), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
+Visto l'[art. 218 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

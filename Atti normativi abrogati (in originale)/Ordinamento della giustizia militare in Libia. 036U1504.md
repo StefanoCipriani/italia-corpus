@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il R. decreto 23 dicembre 1929-VIII, n. 2377, che estende alle Colonie il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e le relative disposizioni complementari del Regno, salve le modificazioni ad essi apportate con speciali disposizioni legislative, emanate per le Colonie, ed approva l'ordinamento giudiziario militare per le Colonie;
+Visto il R. decreto 23 dicembre 1929-VIII, n. 2377, che estende alle Colonie il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito, il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e le relative disposizioni complementari del Regno, salve le modificazioni ad essi apportate con speciali disposizioni legislative, emanate per le Colonie, ed approva l'ordinamento giudiziario militare per le Colonie;
 
 Visto il R. decreto-legge 3 dicembre 1934-XIII, n. 2012, convertito nella legge 11 aprile 1935-XIII, n. 675, sull'ordinamento organico per la Libia;
 
@@ -126,7 +126,7 @@ Nelle localita' che non sono sedi di uffici giudiziari, il giudice per atti istr
 
 ## Art. 14.
 
-Il pubblico ministero o il giudice istruttore, oltre che nei casi indicati nell'[art. 360 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito puo', in sede di istruzione, sentire con giuramento i testimoni, quando ritenga che la comparizione di questi in giudizio potrebbe incontrare grave difficolta', per la distanza della sua residenza dal luogo dove dovrebbe svolgersi il dibattimento, o per ragioni di servizio, o per altro grave motivo, di cui deve esser dato atto nel processo verbale. 
+Il pubblico ministero o il giudice istruttore, oltre che nei casi indicati nell'[art. 360 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito puo', in sede di istruzione, sentire con giuramento i testimoni, quando ritenga che la comparizione di questi in giudizio potrebbe incontrare grave difficolta', per la distanza della sua residenza dal luogo dove dovrebbe svolgersi il dibattimento, o per ragioni di servizio, o per altro grave motivo, di cui deve esser dato atto nel processo verbale. 
  
  I testi interrogati in tal modo possono essere con decreto motivato del presidente, esonerati dal comparire al pubblico dibattimento, dandosi lettura in giudizio, del processo verbale redatto in sede d'istruzione, sempre che il pubblico ministero o l'imputato non richieda in tempo utile la citazione, o il giudice l'ordine d'ufficio. 
  
@@ -138,7 +138,7 @@ I comandanti di corpo e tutti gli altri ufficiali di polizia giudiziaria devono 
 
 ## Art. 16.
 
-Nei procedimenti avanti al Tribunale militare per la Libia e alla sezione, si osservano, in quanto applicabili, le disposizioni procedurali contenute nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e successive modificazioni.
+Nei procedimenti avanti al Tribunale militare per la Libia e alla sezione, si osservano, in quanto applicabili, le disposizioni procedurali contenute nel [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e successive modificazioni.
 
 ## Art. 17.
 

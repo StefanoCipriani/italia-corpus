@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, numero 1497](Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
+Visto il testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 24 dicembre 1911, numero 1497](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20nuovo%20testo%20unico%20sulle%20leggi%20sul%20reclutamento%20del%20R.%20esercito.%20011U1497.md);
 
-Visto il [R. decreto 14 gennaio 1923, n. 31](Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la M.V.S.N.;
+Visto il [R. decreto 14 gennaio 1923, n. 31](../Regi%20decreti/Col%20quale%20e%20istituita%20una%20milizia%20volontaria%20per%20la%20sicurezza%20nazionale.%20023U0031.md), col quale venne istituita la M.V.S.N.;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e le successive estensioni e modificazioni;
 
 Visto il [R. decreto-legge 14 giugno 1925, n. 1174](Funzionamento%20della%20Milizia%20ferroviaria%20per%20la%20sicurezza%20nazionale.%20025U1174.md), sul funzionamento della Milizia ferroviaria per la sicurezza nazionale;
 
@@ -26,7 +26,7 @@ Visto il [R. decreto-legge 14 giugno 1925, n. 1303](Funzionamento%20della%20Mili
 
 Visto il [R. decreto-legge 24 maggio 1925, n. 1031](Repressione%20della%20senseria%20in%20fatto%20di%20collocamento%20della%20gente%20di%20mare.%20025U1031.md), sulla repressione della senseria in fatto di collocamento della gente di mare;
 
-Visto il [R. decreto-legge 6 novembre 1926, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1848), col quale si approva il [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773);
+Visto il [R. decreto-legge 6 novembre 1926, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1848), col quale si approva il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Visto il [R. decreto-legge 17 febbraio 1927, n. 271](Istituzione%20di%20un%20reparto%20di%20Milizia%20portuaria%20a%20Livorno.%20027U0271.md), col quale si istituisce un reparto di Milizia, portuaria a Livorno;
 

@@ -24,11 +24,11 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-In deroga a quanto previsto nell'[articolo 5 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_5), i magistrati ordinari che cessano dalle funzioni per limiti di eta' sono trattenuti in servizio, a domanda, sino al compimento del settantaduesimo anno.
+In deroga a quanto previsto nell'[articolo 5 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), i magistrati ordinari che cessano dalle funzioni per limiti di eta' sono trattenuti in servizio, a domanda, sino al compimento del settantaduesimo anno.
 
 2.
 
-Salvo quanto previsto dall'[articolo 5- bis del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_5bis), introdotto dal successivo articolo 3, i magistrati trattenuti in servizio possono esercitare funzioni giurisdizionali soltanto in uffici collegiali, con possibilita' di assumere, ove occorra, la presidenza nei relativi collegi.
+Salvo quanto previsto dall'[articolo 5- bis del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), introdotto dal successivo articolo 3, i magistrati trattenuti in servizio possono esercitare funzioni giurisdizionali soltanto in uffici collegiali, con possibilita' di assumere, ove occorra, la presidenza nei relativi collegi.
 
 3.
 
@@ -48,17 +48,17 @@ Il Consiglio superiore provvede alla conferma della destinazione presso l'uffici
 
 1.
 
-Dopo l'[articolo 5 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_5), e' aggiunto il seguente: 
+Dopo l'[articolo 5 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), e' aggiunto il seguente: 
  "Art. 5- bis (Trattenimento in servizio). - I magistrati titolari di uffici direttivi che cessano dalle funzioni per il compimento del settantesimo anno di eta' sono trattenuti in servizio, con il loro consenso, fino alla immissione in possesso del nuovo titolare e comunque per un periodo non superiore a sei mesi a decorrere dal compimento del settantesimo anno. Il consenso deve essere comunicato al Consiglio superiore della magistratura almeno due mesi prima del compimento del settantesimo anno di eta'.".
 
 2.
 
-La mancata manifestazione del consenso di cui all'[articolo 5- bis del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_5bis), introdotto dal comma 1, priva di efficacia la domanda eventualmente proposta a norma dell'articolo 2, comma 1, ai fini della successiva permanenza in servizio con funzioni diverse.
+La mancata manifestazione del consenso di cui all'[articolo 5- bis del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), introdotto dal comma 1, priva di efficacia la domanda eventualmente proposta a norma dell'articolo 2, comma 1, ai fini della successiva permanenza in servizio con funzioni diverse.
 
 3.
 
 Dopo il [quarto comma dell'articolo 10 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_10-com4), e' aggiunto il seguente: 
- "Le disposizioni contenute nei commi primo, secondo e quarto si applicano in quanto compatibili con quelle di cui all'articolo 194, secondo comma. Le disposizioni contenute nel terzo comma continuano ad applicarsi, fermo il disposto dell'[articolo 5- bis del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_5bis).".
+ "Le disposizioni contenute nei commi primo, secondo e quarto si applicano in quanto compatibili con quelle di cui all'articolo 194, secondo comma. Le disposizioni contenute nel terzo comma continuano ad applicarsi, fermo il disposto dell'[articolo 5- bis del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md).".
 
 4.
 
@@ -70,7 +70,7 @@ Dopo il [primo comma dell'articolo 194 del regio decreto 30 gennaio 1941, n. 12]
 1.
 
 I magistrati che compiono il settantesimo anno di eta' nei quattro mesi successivi alla data di entrata in vigore del presente decreto sono trattenuti in servizio purche' inviino la domanda di cui all'articolo 2, comma 1, entro quindici giorni da tale data e comunque prima del compimento del settantesimo anno di eta'; essi, fino al provvedimento di conferma o di nuova destinazione, continuano a svolgere le funzioni che gia' esercitavano, fermo il disposto dell'[articolo 5- bis del regio decreto legislativo 31 maggio 1946, n. 
-511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_5bis). La delibera del Consiglio superiore della magistratura e il relativo decreto ministeriale devono intervenire entro il termine di trenta giorni dalla domanda.
+511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md). La delibera del Consiglio superiore della magistratura e il relativo decreto ministeriale devono intervenire entro il termine di trenta giorni dalla domanda.
 
 ## Art. 5.
 

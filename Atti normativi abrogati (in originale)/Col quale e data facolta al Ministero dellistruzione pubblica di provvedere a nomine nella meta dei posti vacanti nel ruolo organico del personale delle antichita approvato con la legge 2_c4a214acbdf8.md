@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 27 giugno 1907, n. 386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md), e il regolamento approvato con [R. decreto 1° agosto 1907, numero 608](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2027%20giugno%201907%20n.%20386%20sul%20Consiglio%20superiore%20sugli%20uffici%20e%20il%20personale%20delle%20Antichita%20e%20Belle%20arti.%20007U0608.md);
+Vista la [legge 27 giugno 1907, n. 386](Riguardante%20il%20Consiglio%20superiore%20gli%20uffici%20e%20il%20personale%20delle%20antichita%20e%20belle%20arti.%20007U0386.md), e il regolamento approvato con [R. decreto 1° agosto 1907, numero 608](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2027%20giugno%201907%20n.%20386%20sul%20Consiglio%20superiore%20sugli%20uffici%20e%20il%20personale%20delle%20Antichita%20e%20Belle%20arti.%20007U0608.md);
 
 Visto il [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625), convertito nella [legge 21 dicembre 1915, numero 1774](Concernente%20la%20proroga%20dellesercizio%20provvisorio%201915-916.%20015U1774.md);
 

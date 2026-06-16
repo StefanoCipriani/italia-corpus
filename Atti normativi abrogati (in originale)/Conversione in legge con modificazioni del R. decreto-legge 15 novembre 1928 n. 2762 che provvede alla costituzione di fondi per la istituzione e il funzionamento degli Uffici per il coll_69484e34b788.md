@@ -12,9 +12,9 @@ vigente: true
 
 Per provvedere alla spesa necessaria alla istituzione ed al funzionamento degli Uffici per il collocamento gratuito dei prestatori d'opera disoccupati, a norma del R. decreto 29 marzo 1928, e' costituito un apposito fondo dell'ammontare massimo di L. 20,000,000, a formare e mantenere il quale contribuiscono: 
  
- a) la gestione speciale per l'assicurazione obbligatoria contro la disoccupazione, di cui al [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), per i cinque decimi dell'annuo fabbisogno, fino ad un massimo di L. 10,000,000; 
+ a) la gestione speciale per l'assicurazione obbligatoria contro la disoccupazione, di cui al [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), per i cinque decimi dell'annuo fabbisogno, fino ad un massimo di L. 10,000,000; 
  
- b) il «Fondo speciale delle corporazioni» di cui all'[articolo 26 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per un decimo, Fino al massimo di L. 1,000,000; 
+ b) il «Fondo speciale delle corporazioni» di cui all'[articolo 26 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), per un decimo, Fino al massimo di L. 1,000,000; 
  
  c) per la meta' della residua somma occorrente, le Confederazioni nazionali dei Sindacati fascisti dell'industria, dell'agricoltura, del commercio, dei trasporti terrestri e della navigazione interna, dei bancari, della gente del mare e dell'aria; 
  
@@ -59,7 +59,7 @@ Per provvedere alla spesa necessaria alla istituzione ed al funzionamento degli 
  
  Art. 4. 
  
- Oltre i rappresentanti dei Ministeri indicati al [n. 4 dell'art. 11 del R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158#art_11-num4), fa parte del Comitato speciale per la disoccupazione un funzionario del Ministero delle corporazioni, in rappresentanza del Ministero stesso. 
+ Oltre i rappresentanti dei Ministeri indicati al [n. 4 dell'art. 11 del R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), fa parte del Comitato speciale per la disoccupazione un funzionario del Ministero delle corporazioni, in rappresentanza del Ministero stesso. 
  
  Art. 5. 
  

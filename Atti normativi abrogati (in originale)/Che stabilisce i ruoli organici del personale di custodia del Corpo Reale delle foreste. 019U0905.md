@@ -24,7 +24,7 @@ Viste le leggi 3 marzo e 16 giugno 1912, nn. 134 e 582, con le quali vengono sta
 
 Vista la [legge 2 giugno 1910, n. 277](Riguardante%20i%20provvedimenti%20per%20il%20demanio%20forestale%20di%20Stato%20e%20per%20la%20tutela%20e%20lincoraggiamento%20della%20silvicoltura.%20010U0277.md), sul demanio forestale di Stato;
 
-Visto il regolamento organico e disciplinare sul personale di custodia forestale approvato con [Regio decreto 7 febbraio 1915, n. 253](Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20il%20personale%20di%20custodia%20del%20R.%20corpo%20delle%20foreste.%20015U0253.md);
+Visto il regolamento organico e disciplinare sul personale di custodia forestale approvato con [Regio decreto 7 febbraio 1915, n. 253](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20il%20personale%20di%20custodia%20del%20R.%20corpo%20delle%20foreste.%20015U0253.md);
 
 Udito il Consiglio dei ministri;
 
@@ -50,7 +50,7 @@ L'aumento di spesa derivante dal presente decreto sara' a carico dello Stato per
 
 ## Art. 5.
 
-Il ministro per l'agricoltura, tenuto conto delle note informative del personale di custodia forestale, puo' derogare alle disposizioni di cui all'art. 53 del regolamento approvato con [Regio decreto 7 febbraio 1915, n. 253](Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20il%20personale%20di%20custodia%20del%20R.%20corpo%20delle%20foreste.%20015U0253.md).
+Il ministro per l'agricoltura, tenuto conto delle note informative del personale di custodia forestale, puo' derogare alle disposizioni di cui all'art. 53 del regolamento approvato con [Regio decreto 7 febbraio 1915, n. 253](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20organico%20e%20disciplinare%20per%20il%20personale%20di%20custodia%20del%20R.%20corpo%20delle%20foreste.%20015U0253.md).
 
 ## Art. 6.
 

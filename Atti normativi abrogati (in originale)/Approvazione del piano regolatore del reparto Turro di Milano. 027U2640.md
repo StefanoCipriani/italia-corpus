@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Un esemplare di questo piano, munito del visto del Ministro per i lavori pubblici, sara' depositato all'Archivio di Stato. 
  
- Sono estese al piano, in quanto applicabili, le disposizioni della [legge 12 luglio 1912, n. 866](Che%20approva%20il%20piano%20generale%20edilizio%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Milano.%20012U0866.md), e del regolamento approvato con [R. decreto 14 dicembre 1913, n. 1429](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2012%20luglio%201912%20n.%20866%20sul%20piano%20regolatore%20della%20citta%20di%20Milano.%20013U1429.md). 
+ Sono estese al piano, in quanto applicabili, le disposizioni della [legge 12 luglio 1912, n. 866](Che%20approva%20il%20piano%20generale%20edilizio%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Milano.%20012U0866.md), e del regolamento approvato con [R. decreto 14 dicembre 1913, n. 1429](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2012%20luglio%201912%20n.%20866%20sul%20piano%20regolatore%20della%20citta%20di%20Milano.%20013U1429.md). 
  
  Per l'esecuzione del piano suddetto e' assegnato lo stesso termine stabilito, per la terza zona del piano generale edilizio regolatore e di ampliamento della citta' di Milano, con la legge su citata e cioe' il 15 agosto 1942. 
  

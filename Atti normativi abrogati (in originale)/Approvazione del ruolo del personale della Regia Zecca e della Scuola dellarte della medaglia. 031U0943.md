@@ -18,7 +18,7 @@ Visto il [R. decreto 17 aprile 1921, n. 796](Che%20approva%20il%20regolamento%20
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati dello Stato;
 
 Visto il [R. decreto 21 marzo 1930, n. 219](Approvazione%20dei%20ruoli%20dei%20personali%20finanziari%20in%20applicazione%20del%20R.%20decreto%209%20agosto%201929%20n.%201457.%20030U0219.md), col quale furono approvati i ruoli dei personali finanziari in applicazione del [R. decreto 9 agosto 1929, n. 1457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1457);
 

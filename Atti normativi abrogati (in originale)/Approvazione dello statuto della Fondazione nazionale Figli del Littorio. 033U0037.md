@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 28 gennaio 1929, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;192), che istituisce la Fondazione nazionale Figli del Littorio e ne approva lo statuto;
+Veduto il [R. decreto 28 gennaio 1929, n. 192](../Regi%20decreti/Istituzione%20in%20Roma%20ed%20erezione%20in%20ente%20morale%20della%20%20Fondazione%20nazionale%20Figli%20del%20Littorio%20%20e%20approvazione%20del%20relativo%20statuto.%20029U0192.md), che istituisce la Fondazione nazionale Figli del Littorio e ne approva lo statuto;
 
 Ritenuta l'opportunita' di modificare lo statuto stesso, allo scopo di assicurare alla Fondazione un preciso e fattivo indirizzo, corrispondente agli interessi dei lavoratori italiani residenti all'estero e delle loro famiglie;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 E' approvato lo statuto della «Fondazione nazionale Figli del Littorio» annesso al presente decreto. 
  
- Detto statuto, che sostituisce quello approvato con [R. decreto 28 gennaio 1929, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-28;192), sara' munito di visto e sottoscritto, d'ordine Nostro, dal Ministro proponente. 
+ Detto statuto, che sostituisce quello approvato con [R. decreto 28 gennaio 1929, n. 192](../Regi%20decreti/Istituzione%20in%20Roma%20ed%20erezione%20in%20ente%20morale%20della%20%20Fondazione%20nazionale%20Figli%20del%20Littorio%20%20e%20approvazione%20del%20relativo%20statuto.%20029U0192.md), sara' munito di visto e sottoscritto, d'ordine Nostro, dal Ministro proponente. 
  
  Il Ministro proponente e' incaricato della esecuzione del presente decreto. 
  

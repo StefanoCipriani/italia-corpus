@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il conferimento della medaglia d'onore per lunga navigazione, istituita col [R. decreto del 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656), compete al ministro per le armi e i trasporti per quanto riguarda gli inscritti della gente di mare ed al ministro della marina per quanto riguarda i militari della R. marina.
+Il conferimento della medaglia d'onore per lunga navigazione, istituita col [R. decreto del 27 novembre 1904, n. 656](../Regi%20decreti/Che%20istituisce%20una%20medaglia%20donore%20per%20lunga%20navigazione%20compiuta.%20004U0656.md), compete al ministro per le armi e i trasporti per quanto riguarda gli inscritti della gente di mare ed al ministro della marina per quanto riguarda i militari della R. marina.
 
 ## Art. 2.
 

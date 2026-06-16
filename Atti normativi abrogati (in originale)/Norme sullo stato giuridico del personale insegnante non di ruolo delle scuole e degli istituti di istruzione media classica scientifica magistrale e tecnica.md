@@ -159,7 +159,7 @@ Il professore non di ruolo che riporti condanna definitiva alla reclusione, senz
 
 ### Art. 23.
 
-Nulla e' innovato alle disposizioni degli [articoli 88 e seguenti del regio decreto 9 dicembre 1926, n. 2480](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md), e degli [articoli 78 e seguenti del regio decreto 5 luglio 1934, n. 1185](Regolamento%20per%20i%20concorsi%20a%20cattedre%20nelle%20Regie%20scuole%20e%20nei%20Regi%20istituti%20distruzione%20media%20tecnica.%20034U1185.md), circa le sanzioni disciplinari dei professori iscritti nell'albo che non siano in servizio non di ruolo in istituti e scuole statali.
+Nulla e' innovato alle disposizioni degli [articoli 88 e seguenti del regio decreto 9 dicembre 1926, n. 2480](../Regi%20decreti/Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md), e degli [articoli 78 e seguenti del regio decreto 5 luglio 1934, n. 1185](../Regi%20decreti/Regolamento%20per%20i%20concorsi%20a%20cattedre%20nelle%20Regie%20scuole%20e%20nei%20Regi%20istituti%20distruzione%20media%20tecnica.%20034U1185.md), circa le sanzioni disciplinari dei professori iscritti nell'albo che non siano in servizio non di ruolo in istituti e scuole statali.
 
 ### Art. 24.
 

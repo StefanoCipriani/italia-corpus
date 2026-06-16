@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 3279](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), che approva il testo della legge sulle concessioni governative, modificato dal [regio decreto 26 marzo 1936, numero 1418](Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md);
+Visto il [regio decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), che approva il testo della legge sulle concessioni governative, modificato dal [regio decreto 26 marzo 1936, numero 1418](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md);
 
 Visto il [regio decreto-legge 26 settembre 1935, numero 1749](Provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20035U1749.md), allegato F, portante provvedimenti in materia di tasse sulle concessioni governative, convertito nella [legge 28 maggio 1936, n. 1027](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201749%20concernente%20provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20036U1027.md);
 
@@ -18,7 +18,7 @@ Visto il [regio decreto-legge 21 giugno 1942, n. 696](Provvedimenti%20in%20mater
 
 Vista la [legge 3 dicembre 1942, n. 1700](Norme%20sulla%20legalizzazione%20di%20firme.%20042U1700.md), sulla legalizzazione di firme;
 
-Visto il [regio decreto legislativo 7 giugno 1946, n. 581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-06-07;581), portante provvedimenti in materia di tasse sulle concessioni governative;
+Visto il [regio decreto legislativo 7 giugno 1946, n. 581](../Regi%20decreti%20legislativi/Norme%20tributarie%20sulle%20concessioni%20governative.md), portante provvedimenti in materia di tasse sulle concessioni governative;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

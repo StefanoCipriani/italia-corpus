@@ -22,11 +22,11 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'art. 56 del testo della legge sulla pubblica sicurezza, approvato con [R. decreto 30 giugno 1889, numero 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), e' modificato nel seguente modo: 
+ L'art. 56 del testo della legge sulla pubblica sicurezza, approvato con [R. decreto 30 giugno 1889, numero 6144](../Regi%20decreti/Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª), e' modificato nel seguente modo: 
  
  «L'orario, cosi' per l'apertura, come per la chiusura degli esercizi indicati nell'art. 50, e' fissato dall'autorita' di pubblica sicurezza del circondario, d'accordo con la Giunta municipale. 
  
- «In tutte le sale di bigliardo e di giuoco, sara' esposta una tabella, vidimata dall'autorita' di pubblica sicurezza del circondario, nella quale saranno indicati, oltre i giuochi d'azzardo proibiti a termine del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), anche quelli che l'autorita' stessa ritenga di vietare nel pubblico interesse. 
+ «In tutte le sale di bigliardo e di giuoco, sara' esposta una tabella, vidimata dall'autorita' di pubblica sicurezza del circondario, nella quale saranno indicati, oltre i giuochi d'azzardo proibiti a termine del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), anche quelli che l'autorita' stessa ritenga di vietare nel pubblico interesse. 
  
  «Senza speciale licenza della predetta autorita' e la osservanza delle prescrizioni ch'essa riterra' d'imporre nel pubblico interesse, non possono tenersi, a scopo di giuoco o di trattenimento, nei luoghi pubblici od aperti per qualsiasi ragione al pubblico, apparecchi, meccanismi o congegni automatici di qualsiasi foggia o specie. 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post elementare e sulle sue opere di integrazione, approvato col [Regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post elementare e sulle sue opere di integrazione, approvato col [Regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto il regolamento generale sui servizi dell'istruzione elementare, approvato col [Regio decreto 25 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-25;1297);
 
@@ -53,7 +53,7 @@ Le relative deliberazioni sono soggette alla approvazione del Ministro per l'edu
 
 ## Art. 4.
 
-L'art. 219 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), modificato con l'[art. 4 del R. decreto 17 marzo 1930, n. 394](Disposizioni%20per%20lamministrazione%20dei%20Patronati%20scolastici.%20030U0394.md), e' sostituito dal seguente: 
+L'art. 219 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), modificato con l'[art. 4 del R. decreto 17 marzo 1930, n. 394](Disposizioni%20per%20lamministrazione%20dei%20Patronati%20scolastici.%20030U0394.md), e' sostituito dal seguente: 
  
  « Il Patronato scolastico e' ente morale. Esso e' costituito da soci fondatori, benemeriti e annuali. 
  
@@ -61,7 +61,7 @@ L'art. 219 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](ht
  
  « Il Comune provvede all'ordinamento delle istituzioni ausiliarie della scuola elementare e alle nomine del personale addettovi, su parere conforme del locale Comitato dell'Opera nazionale Balilla ». 
  
- Sono abrogati gli articoli 220 e 224 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577).
+ Sono abrogati gli articoli 220 e 224 del testo unico approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md).
 
 ## Art. 5.
 

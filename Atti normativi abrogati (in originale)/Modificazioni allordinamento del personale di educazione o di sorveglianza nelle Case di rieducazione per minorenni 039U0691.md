@@ -16,9 +16,9 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato; il [R. decreto-legge 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato; il [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni, che approva il testo unico delle leggi sulle pensioni;
+Visto i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato; il [R. decreto-legge 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato; il [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, che approva il testo unico delle leggi sulle pensioni;
 
-Visti i [Regi decreti 15 aprile 1909, n. 236](Che%20approva%20il%20regolamento%20speciale%20per%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20dei%20riformatori%20governativi.%20009U0236.md), [15 luglio 1909, n. 541](Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md), [17 giugno 1929, n. 1066](Disposizioni%20relative%20ai%20Regi%20riformatori.%20029U1066.md), e [4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497), sul personale civile degli Istituti di prevenzione e di pena;
+Visti i [Regi decreti 15 aprile 1909, n. 236](Che%20approva%20il%20regolamento%20speciale%20per%20il%20personale%20di%20educazione%20e%20di%20sorveglianza%20dei%20riformatori%20governativi.%20009U0236.md), [15 luglio 1909, n. 541](Che%20approva%20il%20regolamento%20per%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20degli%20stabilimenti%20carcerari%20e%20dei%20riformatori%20governativi%20e%20per%20il%20personale%20ad%20essa%20aggregato.%20009U0541.md), [17 giugno 1929, n. 1066](Disposizioni%20relative%20ai%20Regi%20riformatori.%20029U1066.md), e [4 aprile 1935, n. 497](../Regi%20decreti/Modificazioni%20alle%20piante%20organiche%20dei%20personali%20amministrativo%20alienistico%20di%20educazione%20e%20sorveglianza%20tecnico%20industriale%20ed%20agricolo%20e%20del%20personale%20aggregato%20degli%20Istituti%20di%20preve_292b22be6329.md), sul personale civile degli Istituti di prevenzione e di pena;
 
 Ritenuta la necessita' di provvedere a nuova ripartizione del personale negli Istituti di rieducazione dei minorenni;
 
@@ -40,7 +40,7 @@ Il servizio di sorveglianza nelle Case di rieducazione per minorenni e' affidato
 
 ## Art. 3.
 
-Le disposizioni contenute negli articoli precedenti si applicano anche per i Centri di rieducazione per minorenni. Al servizio di custodia e sorveglianza dei minorenni detenuti nelle sezioni carcerarie puo' provvedersi a mezzo di agenti di custodia, specializzati, a norma dell'art. 17 del regolamento approvato con il [R. decreto 30 dicembre 1937, numero 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584), nei limiti stabiliti dagli organici in vigore per il detto personale.
+Le disposizioni contenute negli articoli precedenti si applicano anche per i Centri di rieducazione per minorenni. Al servizio di custodia e sorveglianza dei minorenni detenuti nelle sezioni carcerarie puo' provvedersi a mezzo di agenti di custodia, specializzati, a norma dell'art. 17 del regolamento approvato con il [R. decreto 30 dicembre 1937, numero 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md), nei limiti stabiliti dagli organici in vigore per il detto personale.
 
 ## Art. 4.
 
@@ -128,11 +128,11 @@ Le funzioni di segretario delle Commissioni anzidette saranno esercitate da un f
 
 ## Art. 12.
 
-I vincitori del concorso di cui ai precedenti articoli saranno rispettivamente nominati istitutori aggiunti in prova (gruppo B) ed assistenti di 4° classe (gruppo C) e conseguiranno la nomina in pianta stabile se riconosciuti idonei dal Consiglio di amministrazione dopo un periodo non inferiore a sei mesi, secondo le norme del [R. decreto 30 dicembre 1923 n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960).
+I vincitori del concorso di cui ai precedenti articoli saranno rispettivamente nominati istitutori aggiunti in prova (gruppo B) ed assistenti di 4° classe (gruppo C) e conseguiranno la nomina in pianta stabile se riconosciuti idonei dal Consiglio di amministrazione dopo un periodo non inferiore a sei mesi, secondo le norme del [R. decreto 30 dicembre 1923 n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 13.
 
-I candidati vincitori dei concorsi indicati nei precedenti articoli, all'atto della loro assunzione in servizio, dovranno frequentare in Roma un apposito corso di perfezionamento ai sensi dell'[art. 16 del R. decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497#art_16).
+I candidati vincitori dei concorsi indicati nei precedenti articoli, all'atto della loro assunzione in servizio, dovranno frequentare in Roma un apposito corso di perfezionamento ai sensi dell'[art. 16 del R. decreto 4 aprile 1935, n. 497](../Regi%20decreti/Modificazioni%20alle%20piante%20organiche%20dei%20personali%20amministrativo%20alienistico%20di%20educazione%20e%20sorveglianza%20tecnico%20industriale%20ed%20agricolo%20e%20del%20personale%20aggregato%20degli%20Istituti%20di%20preve_292b22be6329.md).
 
 ## Art. 14.
 
@@ -144,7 +144,7 @@ Per le promozioni nei diversi gradi si applicano le norme vigenti in materia per
 
 ## Art. 16.
 
-Con l'entrata in vigore del presente decreto viene soppressa la tabella n. 5 allegata al [R. decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497), che si intende sostituita con le tabelle. A. e B allegate al presento decreto.
+Con l'entrata in vigore del presente decreto viene soppressa la tabella n. 5 allegata al [R. decreto 4 aprile 1935, n. 497](../Regi%20decreti/Modificazioni%20alle%20piante%20organiche%20dei%20personali%20amministrativo%20alienistico%20di%20educazione%20e%20sorveglianza%20tecnico%20industriale%20ed%20agricolo%20e%20del%20personale%20aggregato%20degli%20Istituti%20di%20preve_292b22be6329.md), che si intende sostituita con le tabelle. A. e B allegate al presento decreto.
 
 ### Art. 17.
 

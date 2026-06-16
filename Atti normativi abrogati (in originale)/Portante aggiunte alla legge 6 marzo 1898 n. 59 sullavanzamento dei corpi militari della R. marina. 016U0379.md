@@ -16,7 +16,7 @@ Al titolo I, capitolo II, della legge sull'avanzamento dei corpi militari della.
  
  «Art. 23-bis. - I militari del C. R. E. in congedo se idonei, possono ottenere la promozione al solo grado superiore a quello coi quale furono licenziati dalle armi e limitatamente al grado di capo di 1ª classe incluso, purche' siano gia' stati promossi i pari grado della stessa categoria e specialita' in servizio attivo permanente di uguale anzianita' e secondo le norme dettate dal regolamento. 
  
- Quelli pero' che si trovano in possesso della patente di capitano marittimo, macchinista navale, costruttore navale, possono invece conseguire il grado di capo di 2ª classe in virtu' del [R. decreto n. 1247 del 24 settembre 1914](Da%20convertirsi%20in%20legge%20relativo%20alla%20abilitazione%20al%20grado%20di%20capo%20di%202ª%20classe%20ai%20militari%20del%20corpo%20R.%20equipaggi%20in%20congedo%20che%20si%20trovino%20in%20possesso%20di%20speciali%20titoli%20di%20studio.%20014U1247.md). 
+ Quelli pero' che si trovano in possesso della patente di capitano marittimo, macchinista navale, costruttore navale, possono invece conseguire il grado di capo di 2ª classe in virtu' del [R. decreto n. 1247 del 24 settembre 1914](../Regi%20decreti/Da%20convertirsi%20in%20legge%20relativo%20alla%20abilitazione%20al%20grado%20di%20capo%20di%202ª%20classe%20ai%20militari%20del%20corpo%20R.%20equipaggi%20in%20congedo%20che%20si%20trovino%20in%20possesso%20di%20speciali%20titoli%20di%20studio.%20014U1247.md). 
  
  L'avanzamento ha luogo coi criteri stabiliti per i singoli gradi, dalla tabella annessa all'art. 31 della presente legge». 
  

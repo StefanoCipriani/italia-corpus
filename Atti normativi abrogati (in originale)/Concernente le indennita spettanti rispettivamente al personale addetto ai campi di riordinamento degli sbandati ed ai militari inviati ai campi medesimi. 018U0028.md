@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al personale addetto ai campi di riordinamento degli sbandati pel servizio di inquadramento e di polizia spettano le indennita' di guerra di cui al [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md).
+Al personale addetto ai campi di riordinamento degli sbandati pel servizio di inquadramento e di polizia spettano le indennita' di guerra di cui al [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md).
 
 ## Art. 2.
 

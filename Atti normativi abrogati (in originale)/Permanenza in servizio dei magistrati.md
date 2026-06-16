@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Nell'[articolo 5 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_5), dopo il secondo comma e' aggiunto il seguente: 
+Nell'[articolo 5 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), dopo il secondo comma e' aggiunto il seguente: 
  "I magistrati sono trattenuti in servizio fino al compimento del settantaduesimo anno di eta', purche' comunichino il loro consenso al Consiglio superiore della magistratura almeno sei mesi prima del compimento del settantesimo anno.".
 
 ## Art. 2.

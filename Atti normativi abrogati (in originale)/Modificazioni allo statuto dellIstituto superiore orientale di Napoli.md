@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Veduto lo statuto dell'Istituto superiore orientale di Napoli, approvato con [regio decreto 29 aprile 1937, n. 792](Modificazioni%20allo%20statuto%20del%20Regio%20istituto%20superiore%20orientale%20di%20Napoli.%20037U0792.md), e modificato con i [regi decreti 30 marzo 1939, n. 1001](Approvazione%20di%20modificazioni%20allo%20statuto%20del%20Regio%20istituto%20superiore%20orientale%20di%20Napoli.%20039U1001.md), [26 ottobre 1940, n. 1922](Modificazioni%20allo%20statuto%20del%20Regio%20Istituto%20universitario%20orientale%20di%20Napoli.%20040U1922.md) e [24 ottobre 1941, n. 1616](Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20universitario%20orientale%20di%20Napoli.%20041U1616.md);
+Veduto lo statuto dell'Istituto superiore orientale di Napoli, approvato con [regio decreto 29 aprile 1937, n. 792](../Regi%20decreti/Modificazioni%20allo%20statuto%20del%20Regio%20istituto%20superiore%20orientale%20di%20Napoli.%20037U0792.md), e modificato con i [regi decreti 30 marzo 1939, n. 1001](../Regi%20decreti/Approvazione%20di%20modificazioni%20allo%20statuto%20del%20Regio%20istituto%20superiore%20orientale%20di%20Napoli.%20039U1001.md), [26 ottobre 1940, n. 1922](../Regi%20decreti/Modificazioni%20allo%20statuto%20del%20Regio%20Istituto%20universitario%20orientale%20di%20Napoli.%20040U1922.md) e [24 ottobre 1941, n. 1616](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20del%20Regio%20istituto%20universitario%20orientale%20di%20Napoli.%20041U1616.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1552);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
 
 Vedute le proposte relative allo statuto dell'Ateneo anzidetto;
 

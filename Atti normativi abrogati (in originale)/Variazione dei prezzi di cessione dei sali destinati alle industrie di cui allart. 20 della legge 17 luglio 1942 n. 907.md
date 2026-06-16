@@ -18,7 +18,7 @@ UMBERTO II
  Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151); 
  Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md); 
  Visto il [decreto legislativo Luogotenenziale 18 febbraio 1946, n. 113](Provvedimenti%20concernenti%20lAmministrazione%20dei%20monopoli%20di%20Stato.md); 
- Visto il [R. decreto legislativo 10 maggio 1946, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-10;262); 
+ Visto il [R. decreto legislativo 10 maggio 1946, n. 262](../Regi%20decreti%20legislativi/Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md); 
  Udito il Consiglio di amministrazione dei monopoli di Stato; 
  Sentito il Consiglio dei Ministri; 
  Sulla proposta del Ministro Segretario di Stato per le finanze; 

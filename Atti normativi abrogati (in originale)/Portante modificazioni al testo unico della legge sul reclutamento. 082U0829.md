@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 5, 8, 9, 10, 11, 18, 28, 43, 58, 60, 78, 80, 82, 86, 87, 89, 95, 96, 97, 101, 103, 111, 115, 116, 120, 121, 124, 125, 126, 128, 129, 130, 131, 133, 135, 136, 137, 138, 139, 140, 141, 144, 146, 147, 159, 160, 170, 173 e 174 del testo unico delle leggi sul reclutamento dell'esercito, approvato con [Regio decreto del 26 luglio 1876, n. 3260](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20076U3260.md) (Serie 2ª), sono rispettivamente sostituiti i seguenti: 
+Agli articoli 5, 8, 9, 10, 11, 18, 28, 43, 58, 60, 78, 80, 82, 86, 87, 89, 95, 96, 97, 101, 103, 111, 115, 116, 120, 121, 124, 125, 126, 128, 129, 130, 131, 133, 135, 136, 137, 138, 139, 140, 141, 144, 146, 147, 159, 160, 170, 173 e 174 del testo unico delle leggi sul reclutamento dell'esercito, approvato con [Regio decreto del 26 luglio 1876, n. 3260](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20076U3260.md) (Serie 2ª), sono rispettivamente sostituiti i seguenti: 
  
  «Art. 5. Tutti i cittadini dello Stato sono soggetti alla leva.
 Ciascuno fa parte della classe di leva dell'anno in cui nacque, e percio' ciascuna classe comprende tutti i maschi nati dal primo all'ultimo giorno di uno stesso anno. 
@@ -330,7 +330,7 @@ Questi diritti gli vengono sospesi qualora egli si renda disertore, sia condanna
 
 ## Art. 2.
 
-L'articolo 50 del testo unico delle leggi sul reclutamento dell'esercito, approvato con [R. decreto del 26 luglio 1876, n. 3260](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20076U3260.md) (Serie 2ª), e' abrogato.
+L'articolo 50 del testo unico delle leggi sul reclutamento dell'esercito, approvato con [R. decreto del 26 luglio 1876, n. 3260](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20076U3260.md) (Serie 2ª), e' abrogato.
 
 ## Art. 3.
 

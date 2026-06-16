@@ -78,7 +78,7 @@ Dopo il detto articolo sono aggiunti i seguenti, modificandosi in conseguenza la
 
 Art. 31. - «Il numero dei posti di lettore e del personale assistente e' determinato a seconda dei bisogni dal Consiglio d'amministrazione».
 
-Art. 32. - «I lettori, gli aiuti egli assistenti sono nominati, a norma dell'[art. 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e dell'art. 105 del Regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674 e degli articoli 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674#art_26) e [27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674#art_27) del R. decreto-legge 28 agosto 1931, 1227, nonche' secondo le modalita' stabilite negli articoli seguenti:
+Art. 32. - «I lettori, gli aiuti egli assistenti sono nominati, a norma dell'[art. 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e dell'art. 105 del Regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674 e degli articoli 26](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md) e [27](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md) del R. decreto-legge 28 agosto 1931, 1227, nonche' secondo le modalita' stabilite negli articoli seguenti:
 
 a) per concorso;
 
@@ -272,7 +272,7 @@ filologia slava. corsi di filologia slava».
  
  Art. 31. - «Il numero dei posti di lettore e del personale assistente e' determinato a seconda dei bisogni dal Consiglio d'amministrazione». 
  
- Art. 32. - «I lettori, gli aiuti egli assistenti sono nominati, a norma dell'[art. 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e dell'art. 105 del Regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674 e degli articoli 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674#art_26) e [27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674#art_27) del R. decreto-legge 28 agosto 1931, 1227, nonche' secondo le modalita' stabilite negli articoli seguenti: 
+ Art. 32. - «I lettori, gli aiuti egli assistenti sono nominati, a norma dell'[art. 64 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e dell'art. 105 del Regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674 e degli articoli 26](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md) e [27](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md) del R. decreto-legge 28 agosto 1931, 1227, nonche' secondo le modalita' stabilite negli articoli seguenti: 
  a) per concorso; 
  b) per trasferimento da altre Universita' o Istituti superiori; 
  c) e, per quanto riguarda gli aiuti, per promozione». 

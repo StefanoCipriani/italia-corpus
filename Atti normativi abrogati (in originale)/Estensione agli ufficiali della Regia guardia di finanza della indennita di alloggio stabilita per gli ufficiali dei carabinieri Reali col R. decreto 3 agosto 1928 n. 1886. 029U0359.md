@@ -20,7 +20,7 @@ Visto il testo unico delle leggi sull'ordinamento della Regia guardia di finanza
 
 Visto il [R. decreto-legge 9 novembre 1919, n. 2073](Contenente%20provvedimenti%20pel%20corpo%20della%20R.%20guardia%20di%20finanza.%20019U2073.md);
 
-Visti i [Regi decreti 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281), e [31 dicembre 1923, n. 3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170), portanti modificazioni all'ordinamento della Regia guardia di finanza;
+Visti i [Regi decreti 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281), e [31 dicembre 1923, n. 3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), portanti modificazioni all'ordinamento della Regia guardia di finanza;
 
 Visto il [R. decreto 3 agosto 1928, n. 1886](Revisione%20della%20indennita%20di%20alloggio%20agli%20ufficiali%20dellArma%20dei%20carabinieri%20Reali.%20028U1886.md), che reca nuove norme in materia di alloggi per gli ufficiali dell'Arma dei carabinieri Reali;
 

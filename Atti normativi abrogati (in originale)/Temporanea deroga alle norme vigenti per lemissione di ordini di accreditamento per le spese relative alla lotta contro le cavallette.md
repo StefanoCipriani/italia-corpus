@@ -17,9 +17,9 @@ UMBERTO DI SAVOIA
  In virtu' dell'autorita' a Noi delegata;
  Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
  Visto il decreto legislativo Luogotenenziale lo febbraio 1945, n. 58;
- Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante norme sull'amministrazione del patrimonio e la contabilita' generale dello Stato;
+ Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante norme sull'amministrazione del patrimonio e la contabilita' generale dello Stato;
  Visto il [R. decreto-legge 9 febbraio 1939, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-09;273) e sentita la Corte dei conti;
- Visto il [decreto legislativo Luogotenenziale 30 settembre 1944, n. 299, art. 4](Proroga%20al%2031%20dicembre%201944%20dellesercizio%20provvisorio%20del%20bilancio%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20044U0299.md), che eleva ad un milione il limite stabilito dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), concernente le aperture di credito a favore dei funzionari delegati, per ciascun capitolo di spesa;
+ Visto il [decreto legislativo Luogotenenziale 30 settembre 1944, n. 299, art. 4](Proroga%20al%2031%20dicembre%201944%20dellesercizio%20provvisorio%20del%20bilancio%20ed%20altri%20provvedimenti%20di%20carattere%20finanziario.%20044U0299.md), che eleva ad un milione il limite stabilito dall'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente le aperture di credito a favore dei funzionari delegati, per ciascun capitolo di spesa;
  Vista la deliberazione del Consiglio dei Ministri;
  Sulla proposta del Ministro per il tesoro, di concerto con quello per l'agricoltura e le foreste;
  Abbiamo sanzionato e promulghiamo quanto segue:

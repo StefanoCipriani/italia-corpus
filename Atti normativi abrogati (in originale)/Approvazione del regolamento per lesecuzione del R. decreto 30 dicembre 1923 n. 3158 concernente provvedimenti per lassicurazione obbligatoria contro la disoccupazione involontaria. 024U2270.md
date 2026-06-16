@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' approvato l'unito regolamento per l'esecuzione del [Regio decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), concernente provvedimenti per l'assicurazione obbligatoria contro la disoccupazione involontaria, visto, d'ordine Nostro, dal Ministro proponente. 
+E' approvato l'unito regolamento per l'esecuzione del [Regio decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), concernente provvedimenti per l'assicurazione obbligatoria contro la disoccupazione involontaria, visto, d'ordine Nostro, dal Ministro proponente. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

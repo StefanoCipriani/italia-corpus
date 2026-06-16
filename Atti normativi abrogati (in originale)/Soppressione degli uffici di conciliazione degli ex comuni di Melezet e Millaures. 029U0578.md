@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 16 giugno 1927, n. 1140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-16;1140), col quale i comuni di Melezet e Millaures sono stati soppressi, ed i rispettivi territori aggregati a quello di Bardonecchia; 
+ Visto il [R. decreto 16 giugno 1927, n. 1140](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bardonecchia%20Melezet%20Millaures%20e%20Rochemolles%20in%20un%20unico%20Comune%20denominato%20Bardonecchia.%20027U1140.md), col quale i comuni di Melezet e Millaures sono stati soppressi, ed i rispettivi territori aggregati a quello di Bardonecchia; 
  
  Vista la deliberazione del commissario prefettizio di Bardonecchia, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Melezet e Millaures; 
  

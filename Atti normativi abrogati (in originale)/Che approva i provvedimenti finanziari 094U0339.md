@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convertito in legge il [regio decreto 21 febbraio 1894, n. 51](Concernente%20laumento%20di%20alcuni%20dazi%20inscritti%20nella%20tariffa%20doganale%20del%20prezzo%20del%20sale%20e%20della%20tassa%20di%20vendita%20degli%20spiriti%20e%20labolizione%20di%20alcuni%20dazi%20governativi%20di%20consumo.%20094U0051.md), allegato A, con le modificazioni determinate nella legge che costituisce l'allegato B alla presente legge, per l'aumento di alcuni dazi inscritti nella tariffa generale per le dogane, del prezzo del sale e della tassa di vendita sugli spiriti e per l'abolizione di alcuni dazi governativi di consumo.
+E' convertito in legge il [regio decreto 21 febbraio 1894, n. 51](../Regi%20decreti/Concernente%20laumento%20di%20alcuni%20dazi%20inscritti%20nella%20tariffa%20doganale%20del%20prezzo%20del%20sale%20e%20della%20tassa%20di%20vendita%20degli%20spiriti%20e%20labolizione%20di%20alcuni%20dazi%20governativi%20di%20consumo.%20094U0051.md), allegato A, con le modificazioni determinate nella legge che costituisce l'allegato B alla presente legge, per l'aumento di alcuni dazi inscritti nella tariffa generale per le dogane, del prezzo del sale e della tassa di vendita sugli spiriti e per l'abolizione di alcuni dazi governativi di consumo.
 
 ## Art. 2.
 
@@ -78,11 +78,11 @@ L'annuo contributo che, ai termini delle [leggi 30 giugno 1892, n. 317, e 5 marz
 
 ## Art. 10.
 
-E' convertito in legge il [regio decreto 23 gennaio 1894, n. 9](relativo%20a%20modificazioni%20agli%20art.%2010%20e%2012%20della%20legge%2010%20agosto%201893%20n.%20449%20094U0009.md), allegato D, con le modificazioni determinate nella legge, che costituisce l'allegato E, per modificazioni agli [articoli 10](Sul%20riordinamento%20degli%20Istituti%20di%20emissione.%20093U0449.md) e [12 della legge 10 agosto 1893, n. 449](Sul%20riordinamento%20degli%20Istituti%20di%20emissione.%20093U0449.md), sul riordinamento degli Istituti di emissione.
+E' convertito in legge il [regio decreto 23 gennaio 1894, n. 9](../Regi%20decreti/relativo%20a%20modificazioni%20agli%20art.%2010%20e%2012%20della%20legge%2010%20agosto%201893%20n.%20449%20094U0009.md), allegato D, con le modificazioni determinate nella legge, che costituisce l'allegato E, per modificazioni agli [articoli 10](Sul%20riordinamento%20degli%20Istituti%20di%20emissione.%20093U0449.md) e [12 della legge 10 agosto 1893, n. 449](Sul%20riordinamento%20degli%20Istituti%20di%20emissione.%20093U0449.md), sul riordinamento degli Istituti di emissione.
 
 ## Art. 11.
 
-Sono convertiti in legge i [regi decreti 21 febbraio 1894, n. 50](Concernente%20lordinamento%20della%20circolazione%20cartacea.%20094U0050.md), allegato F; 28 marzo 1894, n. 111, allegato G, e 28 marzo 1894, n. 112, allegato H, con le modificazioni determinate dalla legge che costituisce l'allegato I per l'ordinamento della circolazione cartacea.
+Sono convertiti in legge i [regi decreti 21 febbraio 1894, n. 50](../Regi%20decreti/Concernente%20lordinamento%20della%20circolazione%20cartacea.%20094U0050.md), allegato F; 28 marzo 1894, n. 111, allegato G, e 28 marzo 1894, n. 112, allegato H, con le modificazioni determinate dalla legge che costituisce l'allegato I per l'ordinamento della circolazione cartacea.
 
 ## Art. 12.
 
@@ -94,7 +94,7 @@ E' approvata la legge che costituisce l'allegato M riguardante il rimborso del d
 
 ## Art. 14.
 
-Sono convertiti in legge i [regi decreti 4 agosto 1893, n. 451](Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20bronzo%20da%2010%20centesimi.%20093U0451.md) e [452](Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md) (allegati N, O), per la coniazione di 10 milioni di lire in monete di bronzo e per la emissione di 30 milioni di lire in buoni di Cassa da una lira, ed il [regio decreto 21 febbraio 1894, n. 49](Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md) (allegato P), riguardante l'emissione di buoni di Cassa da lire due e la coniazione di monete di nichelio. 
+Sono convertiti in legge i [regi decreti 4 agosto 1893, n. 451](../Regi%20decreti/Che%20autorizza%20la%20fabbricazione%20e%20lemissione%20di%20monete%20di%20bronzo%20da%2010%20centesimi.%20093U0451.md) e [452](../Regi%20decreti/Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md) (allegati N, O), per la coniazione di 10 milioni di lire in monete di bronzo e per la emissione di 30 milioni di lire in buoni di Cassa da una lira, ed il [regio decreto 21 febbraio 1894, n. 49](../Regi%20decreti/Concernente%20lemissione%20di%20Boni%20di%20Cassa%20da%20due%20lire%20e%20la%20coniazione%20di%20monete%20di%20nichelio.%20094U0049.md) (allegato P), riguardante l'emissione di buoni di Cassa da lire due e la coniazione di monete di nichelio. 
  
  Il ministro del Tesoro e' autorizzato ad emettere 20 milioni di lire in buoni di Cassa da una lira, in aggiunta dei 30 milioni gia' emessi, sotto l'osservanza di tutte le disposizioni che reggono presentetemente l'emissione dei buoni di Cassa. 
  

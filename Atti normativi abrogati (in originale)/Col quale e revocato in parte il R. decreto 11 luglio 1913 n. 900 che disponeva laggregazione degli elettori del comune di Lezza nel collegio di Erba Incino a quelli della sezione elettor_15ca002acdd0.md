@@ -28,13 +28,13 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la tabella delle circoscrizioni elettorali annessa al testo unico sopracitato; 
  
- Visto il [R. decreto 11 luglio 1913, n. 900](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), col quale fu disposto, fra l'altro, che gli elettori politici del comune di Lezza, nel collegio di Erba Incino, fossero aggregati alla sezione elettorale di Ponte Lambro; 
+ Visto il [R. decreto 11 luglio 1913, n. 900](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), col quale fu disposto, fra l'altro, che gli elettori politici del comune di Lezza, nel collegio di Erba Incino, fossero aggregati alla sezione elettorale di Ponte Lambro; 
  
  Vista le deliberazione della Commissione elettorale provinciale di Como del 15 marzo 1917, n. 278, con la quale, avendo il comune di Lezza un numero di elettori politici superiore a cento inscritti, si propone di costituire ivi una sezione elettorale autonoma; 
  
  Abbiamo decretato e decretiamo: 
  
- Il citato [R. decreto 11 luglio 1913, n. 900](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), e' revocato nella parte con cui disponeva che gli elettori del comune di Lezza, nel collegio di Erba Incino, venissero aggregati a quelli della sezione elettorale di Ponte Lambro. 
+ Il citato [R. decreto 11 luglio 1913, n. 900](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), e' revocato nella parte con cui disponeva che gli elettori del comune di Lezza, nel collegio di Erba Incino, venissero aggregati a quelli della sezione elettorale di Ponte Lambro. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

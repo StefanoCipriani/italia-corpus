@@ -104,7 +104,7 @@ E' fatto obbligo ai farmacisti di tenere in farmacia, in modo ostensibile al pub
 
 ## Art. 12.
 
-I prodotti opoterapici, i fermenti solubili od organizzati ed in genere tutti i prodotti biologici ed affini sono, d'ora in avanti, soggetti alle disposizioni di cui alla [legge 21 dicembre 1899, n. 472 (articoli 132](Sulla%20fabbricazione%20e%20vendita%20di%20vaccini%20virus%20sieri%20curativi%20e%20prodotti%20affini.%20099U0472.md)-[135](Sulla%20fabbricazione%20e%20vendita%20di%20vaccini%20virus%20sieri%20curativi%20e%20prodotti%20affini.%20099U0472.md) del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636) ed al relativo regolamento. 
+I prodotti opoterapici, i fermenti solubili od organizzati ed in genere tutti i prodotti biologici ed affini sono, d'ora in avanti, soggetti alle disposizioni di cui alla [legge 21 dicembre 1899, n. 472 (articoli 132](Sulla%20fabbricazione%20e%20vendita%20di%20vaccini%20virus%20sieri%20curativi%20e%20prodotti%20affini.%20099U0472.md)-[135](Sulla%20fabbricazione%20e%20vendita%20di%20vaccini%20virus%20sieri%20curativi%20e%20prodotti%20affini.%20099U0472.md) del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636) ed al relativo regolamento. 
  
  A tali prodotti ed ai vaccini, virus, sieri, tossine e prodotti affini contemplati dalla legge predetta sono applicabili le disposizioni del presente decreto, in quanto non contrastino con le norme in vigore. 
  
@@ -136,13 +136,13 @@ Il Governo del Re e' autorizzato a disporre le variazioni necessarie:
  
  b) nello stato di previsione della spesa del Ministero dell'interno per far fronte: 
  
- 1° alla maggiore spesa di L. 50,000 per il servizio di ispezione delle farmacie e delle officine di prodotti chimici, prescritto dagli [articoli 63 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_63) 1° agosto 1907, n. 636; 19 della [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e 53 del [regolamento 13 luglio 1914, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1914-07-13;829); 
+ 1° alla maggiore spesa di L. 50,000 per il servizio di ispezione delle farmacie e delle officine di prodotti chimici, prescritto dagli [articoli 63 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636; 19 della [legge 22 maggio 1913, n. 468](Recante%20disposizioni%20sulla%20autorizzazione%20allapertura%20ed%20allesercizio%20delle%20farmacie.%20013U0468.md), e 53 del [regolamento 13 luglio 1914, n. 829](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1914-07-13;829); 
  
  2° alle altre spese occorrenti per la esecuzione del presente decreto mediante la istituzione di apposito capitolo di L. 100,000 nello stato di previsione della spesa anzidetta.
 
 ## Art. 18.
 
-Il ruolo dei medici e quello del laboratorio di chimica, di cui alla tabella n. 42 del personale dell'Amministrazione della sanita' pubblica, contenuta nell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono modificati, il primo nel grado 10° ed il secondo nei gradi 7° e 9° in conformita' della annessa tabella B.
+Il ruolo dei medici e quello del laboratorio di chimica, di cui alla tabella n. 42 del personale dell'Amministrazione della sanita' pubblica, contenuta nell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sono modificati, il primo nel grado 10° ed il secondo nei gradi 7° e 9° in conformita' della annessa tabella B.
 
 ## Art. 19.
 

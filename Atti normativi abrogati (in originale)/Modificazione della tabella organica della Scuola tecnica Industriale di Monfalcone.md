@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 17 maggio 1937, n. 1007](Approvazione%20dello%20statuto%20della%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano%20di%20Monfalcone.%20037U1007.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Monfalcone;
+ Visto il [regio decreto 17 maggio 1937, n. 1007](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20scuola%20tecnica%20a%20indirizzo%20industriale%20e%20artigiano%20di%20Monfalcone.%20037U1007.md), con il quale viene approvata la tabella organica della Scuola tecnica industriale di Monfalcone;
  Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 

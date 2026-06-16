@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Uditi i pareri del Consiglio superiore di sanita', del Consiglio superiore del lavoro e del Consiglio di Stato; 
  
- Veduto il titolo IV, del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636, contenente le disposizioni sulla risicoltura ed i regolamenti generale e speciale per la esecuzione di dette disposizioni, approvati con RR. decreti 29 marzo 1908, n. 157, e 5 gennaio 1911, n. 41; 
+ Veduto il titolo IV, del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, contenente le disposizioni sulla risicoltura ed i regolamenti generale e speciale per la esecuzione di dette disposizioni, approvati con RR. decreti 29 marzo 1908, n. 157, e 5 gennaio 1911, n. 41; 
  
  Sulla proposta del Nostro ministro, segretario di Stato per gli affari dell'interno, presidente del Consiglio dei Ministri, di concerto col Nostro ministro, segretario di Stato per l'agricoltura, industria e commercio; 
  

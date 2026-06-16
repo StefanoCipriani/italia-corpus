@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
+Veduto il [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
 
@@ -22,7 +22,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Il [2° comma dell'art. 102 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' sostituito col seguente: 
+Il [2° comma dell'art. 102 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' sostituito col seguente: 
  
  «Quando sia necessario, il Prefetto ed il Sottoprefetto possono, secondo la rispettiva competenza, affidare provvisoriamente ad appositi Commissari la reggenza delle Amministrazioni provinciali, comunali o consorziali, salvo la rispettiva ratifica ai singoli provvedimenti adottati dai Commissari con i poteri del Consiglio. I provvedimenti, pero', in ordine ai quali la legge richiede un'approvazione speciale, non divengono esecutivi, se, oltre la ratifica, non ricorre anche l'approvazione suddetta. 
  

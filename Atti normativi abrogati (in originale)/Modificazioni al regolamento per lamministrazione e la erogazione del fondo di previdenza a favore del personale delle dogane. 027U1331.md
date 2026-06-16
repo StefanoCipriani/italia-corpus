@@ -44,7 +44,7 @@ Nel regolamento per l'amministrazione e la erogazione del Fondo di previdenza a 
  
  III. - L'ultimo comma dell'indicato art. 3 e' sostituito dai seguenti: 
  
- Tale disposizione non e' applicabile a quei funzionari che per effetto di disposizioni organiche sieno passati a far parte di ruoli speciali della Amministrazione delle dogane e che siano poi rientrati nel ruolo generale delle dogane in conseguenza di sopraggiunte disposizioni organiche, ed a quelli che sieno riammessi in servizio in virtu' dell'[art. 53 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_53), sullo stato giuridico degli impiegati civili. 
+ Tale disposizione non e' applicabile a quei funzionari che per effetto di disposizioni organiche sieno passati a far parte di ruoli speciali della Amministrazione delle dogane e che siano poi rientrati nel ruolo generale delle dogane in conseguenza di sopraggiunte disposizioni organiche, ed a quelli che sieno riammessi in servizio in virtu' dell'[art. 53 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili. 
  
  In tali casi, la somma precedentemente percetta dagli interessati sara' trattenuta all'atto della definitiva liquidazione dell'indennita'. 
  

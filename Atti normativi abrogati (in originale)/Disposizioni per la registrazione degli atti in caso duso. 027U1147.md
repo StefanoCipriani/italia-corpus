@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo di legge del registro;
+Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo di legge del registro;
 
 Ritenuta la necessita', urgente ed assoluta di apportare modifiche alla registrazione degli atti in caso d'uso;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-A deroga di quanto e' diversamente disposto dall'art. 2, n. 2, della legge del registro, approvata con [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), si ha caso d'uso degli atti quando essi siano riportati in tutto od in parte, ovvero inseriti, tanto negli atti pubblici o privati soggetti a registrazione, quanto negli atti delle cancellerie giudiziarie o delle pubbliche amministrazioni o degli enti pubblici.
+A deroga di quanto e' diversamente disposto dall'art. 2, n. 2, della legge del registro, approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), si ha caso d'uso degli atti quando essi siano riportati in tutto od in parte, ovvero inseriti, tanto negli atti pubblici o privati soggetti a registrazione, quanto negli atti delle cancellerie giudiziarie o delle pubbliche amministrazioni o degli enti pubblici.
 
 ## Art. 2.
 

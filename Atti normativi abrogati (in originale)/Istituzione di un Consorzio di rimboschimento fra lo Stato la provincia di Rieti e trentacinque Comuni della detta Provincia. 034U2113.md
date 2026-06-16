@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e fores
 
 ## Art. 1.
 
-Ai termini dell'[art. 75 del R. decreto-legge 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267#art_75), tra lo Stato, la Provincia e trentacinque Comuni della provincia di Rieti, in appresso specificati, e' costituito un Consorzio allo scopo di provvedere nella circoscrizione della detta Provincia al rimboschimento di terreni vincolati ed alla ricostituzione dei boschi estremamente deteriorati, anch'essi vincolati, secondo le norme contenute nel Regio decreto-legge sopra ricordato e nel relativo regolamento approvato con [R. decreto 16 maggio 1926, n. 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;1126).
+Ai termini dell'[art. 75 del R. decreto-legge 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3267#art_75), tra lo Stato, la Provincia e trentacinque Comuni della provincia di Rieti, in appresso specificati, e' costituito un Consorzio allo scopo di provvedere nella circoscrizione della detta Provincia al rimboschimento di terreni vincolati ed alla ricostituzione dei boschi estremamente deteriorati, anch'essi vincolati, secondo le norme contenute nel Regio decreto-legge sopra ricordato e nel relativo regolamento approvato con [R. decreto 16 maggio 1926, n. 1126](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20dei%20R.%20decreto%2030%20dicembre%201923%20n.%203267%20concernente%20il%20riordinamento%20e%20la%20riforma%20della%20legislazione%20in%20materia%20di%20boschi%20e%20di%20terreni%20montani.%20026U1126.md).
 
 ## Art. 2.
 

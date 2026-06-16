@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista, la [legge 2 giugno 1904, n. 218](Concernente%20lassegno%20a%20favore%20della%20casa%20Umberto%20I%20dei%20veterani%20ed%20invalidi%20delle%20guerre%20nazionali%20in%20Turate.%20004U0218.md), e successive modificazioni;
 
-Visto il [regio decreto 2 aprile 1943, n. 373](Modificazione%20della%20denominazione%20della%20Casa%20Umberto%20I%20dei%20veterani%20ed%20invalidi%20delle%20guerre%20nazionali%20in%20Turate.%20043U0373.md);
+Visto il [regio decreto 2 aprile 1943, n. 373](../Regi%20decreti/Modificazione%20della%20denominazione%20della%20Casa%20Umberto%20I%20dei%20veterani%20ed%20invalidi%20delle%20guerre%20nazionali%20in%20Turate.%20043U0373.md);
 
 Visto il [decreto legislativo 19 settembre 1946, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-19;319);
 

@@ -209,7 +209,7 @@ Ai fini del rispetto dell'obbligo di copertura minima del costo complessivo di g
 
 1.
 
-Il termine del 1' agosto previsto dall'articolo 273 del testo unico sulla finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' fissato al 31 ottobre.
+Il termine del 1' agosto previsto dall'articolo 273 del testo unico sulla finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e' fissato al 31 ottobre.
 
 2.
 
@@ -221,7 +221,7 @@ Anche per far fronte ad eventuali maggiori spese di loro competenza in materia a
 
 4.
 
-Con effetto dall'anno 1992 sono abrogati l'[articolo 6 della legge 14 agosto 1991, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281#art_6), e l'articolo 136 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
+Con effetto dall'anno 1992 sono abrogati l'[articolo 6 della legge 14 agosto 1991, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281#art_6), e l'articolo 136 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
 
 5.
 
@@ -253,7 +253,7 @@ Non sono soggette ad esecuzione forzata le somme dei comuni, delle province e de
 
 1.
 
-Fino alla data di entrata in vigore delle leggi regionali di disciplina dei servizi assistenziali, comunque almeno fino al 31 dicembre 1992, per le funzioni di assistenza ai ciechi e ai sordomuti non permanentemente inabili di cui all'[articolo 80 del regio decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), di assistenza agli infanti illegittimi o abbandonati di cui alle [legge 8 maggio 1927, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-05-08;798), nonche' di assistenza ai minori in stato di bisogno, di cui alla [legge 23 dicembre 1975, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-23;698), le amministrazioni provinciali promuovono e coordinano i relativi servizi a norma dell'[articolo 14 della legge n. 
+Fino alla data di entrata in vigore delle leggi regionali di disciplina dei servizi assistenziali, comunque almeno fino al 31 dicembre 1992, per le funzioni di assistenza ai ciechi e ai sordomuti non permanentemente inabili di cui all'[articolo 80 del regio decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), di assistenza agli infanti illegittimi o abbandonati di cui alle [legge 8 maggio 1927, n. 798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-05-08;798), nonche' di assistenza ai minori in stato di bisogno, di cui alla [legge 23 dicembre 1975, n. 698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-23;698), le amministrazioni provinciali promuovono e coordinano i relativi servizi a norma dell'[articolo 14 della legge n. 
 142 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;142#art_14) e sono tenute a garantirne l'espletamento in base a convenzioni con i comuni.
 
 2.
@@ -293,7 +293,7 @@ Il contributo nelle spese di funzionamento delle camere di commercio italiane al
 
 8.
 
-Sono tenute al pagamento del diritto annuale, di cui all'[articolo 34 del decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786#art_34), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), le ditte iscritte o annotate nei registri delle ditte, di cui all'articolo 47 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
+Sono tenute al pagamento del diritto annuale, di cui all'[articolo 34 del decreto-legge 22 dicembre 1981, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786#art_34), convertito, con modificazioni, dalla [legge 26 febbraio 1982, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20786%20recante%20disposizioni%20in%20materia%20di%20finanza%20locale.md), le ditte iscritte o annotate nei registri delle ditte, di cui all'articolo 47 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
 
 9.
 

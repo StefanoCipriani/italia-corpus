@@ -303,7 +303,7 @@ Gli armenti e le greggi di qualunque specie circolanti sulle strade debbono esse
  
  I prefetti delle Provincie interessate, d'accordo fra loro, stabiliscono, anno per anno, norme speciali per il passaggio di greggi od armenti trasmigranti periodicamente dalla pianura alla montagna e viceversa, determinando, ove occorra, gli itinerari e gli intervalli. 
  
- Salvo quanto e' disposto nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) circa l'omessa custodia ed il mal governo degli animali, e' vietato di lasciar vagare liberamente per le strade qualsiasi animale molesto per il pubblico transito e di lasciarvi abbandonate bestie da tiro, da soma o da sella. Gli animali indomiti e pericolosi per la sicurezza dei viandanti non possono essere fatti circolare lungo le strade se non a condizione che ciascuno di essi abbia almeno un conduttore. 
+ Salvo quanto e' disposto nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) circa l'omessa custodia ed il mal governo degli animali, e' vietato di lasciar vagare liberamente per le strade qualsiasi animale molesto per il pubblico transito e di lasciarvi abbandonate bestie da tiro, da soma o da sella. Gli animali indomiti e pericolosi per la sicurezza dei viandanti non possono essere fatti circolare lungo le strade se non a condizione che ciascuno di essi abbia almeno un conduttore. 
  
  Il contravventore alle norme contenute nella prima parte, nel primo e nel terzo capoverso del presente articolo e' punito con l'ammenda da lire venticinque a lire duecento.
 
@@ -403,7 +403,7 @@ Ogni veicolo deve essere guidato da un conducente idoneo per eta' e per condizio
  
  Nelle fermate necessarie il conducente o i conducenti non possono allontanarsi neppure per breve tempo senz'avere adottato le cautele necessarie, tra le quali la chiusura dei freni, per prevenire qualsiasi accidente, e senz'avere adottato, trattandosi di autoveicoli, le cautele atte ad impedire a persona inesperta di mettere in movimento l'autoveicolo. 
  
- Il contravventore, quando non ricorra l'applicazione dell'[art. 483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con l'ammenda da lire venticinque a lire duecento.
+ Il contravventore, quando non ricorra l'applicazione dell'[art. 483 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con l'ammenda da lire venticinque a lire duecento.
 
 ### Art. 32. — Obblighi dei conducenti verso i funzionari ed agenti incaricati della esecuzione del presente decreto.
 
@@ -420,11 +420,11 @@ Inoltre i conducenti sono tenuti ad esibire, a qualunque funzionario od agente c
 
 Il conducente che in caso di investimento di persona siasi dato alla fuga, ovvero abbia abbandonato senza soccorso la persona investita, e' punito con l'ammenda da lire cinquecento a lire tremila o con l'arresto fino a sei mesi, ovvero con entrambe le pene. E' in ogni caso disposto il ritiro della patente a condurre autoveicoli per un tempo corrispondente alla pena inflitta ed in misura non inferiore a un mese. 
  
- Negli stessi casi, se l'investimento abbia prodotto la morte o lesioni alla persona investita, le pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non potranno essere inferiori alla meta' del massimo. E' disposto inoltre il ritiro della patente a condurre autoveicoli per un tempo non inferiore ad un mese. Il giudice non puo' ordinare la sospensione condizionale dell'esecuzione della sentenza. 
+ Negli stessi casi, se l'investimento abbia prodotto la morte o lesioni alla persona investita, le pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non potranno essere inferiori alla meta' del massimo. E' disposto inoltre il ritiro della patente a condurre autoveicoli per un tempo non inferiore ad un mese. Il giudice non puo' ordinare la sospensione condizionale dell'esecuzione della sentenza. 
  
  Se si tratta di professione per l'esercizio della quale e' richiesta una licenza, quest'ultima, nel caso previsto nel precedente capoverso, e' ritirata per un periodo di tempo non inferiore a sei mesi. 
  
- Se il conducente si fermi ed occorrendo presti soccorso alla persona investita non e' soggetto all'arresto preventivo stabilito dalle vigenti leggi per il caso di flagranza di reato e le pene da infliggere a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) potranno essere ridotte di un terzo.
+ Se il conducente si fermi ed occorrendo presti soccorso alla persona investita non e' soggetto all'arresto preventivo stabilito dalle vigenti leggi per il caso di flagranza di reato e le pene da infliggere a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) potranno essere ridotte di un terzo.
 
 ### Art. 34.
 
@@ -542,11 +542,11 @@ Salve le disposizioni speciali per gli autoveicoli e per i velocipedi, ogni altr
  
  E' obbligatoria anche di giorno in caso di nebbia o di foschia. I fanali obbligatori devono rimanere accesi anche durante le fermate. 
  
- Il contravventore, quando non ricorra l'applicazione dell'[art. 483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con l'ammenda da lire venticinque a lire cento.
+ Il contravventore, quando non ricorra l'applicazione dell'[art. 483 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito con l'ammenda da lire venticinque a lire cento.
 
 ### Art. 42. — Incauto affidamento dei veicoli.
 
-Chi affida un veicolo a persona inesperta od incapace di guidarlo o non munita della speciale patente, qualora sia prescritta, ovvero permette o tollera che lo guidi, e' punito con l'ammenda da lire cinquanta a lire cinquecento o con l'arresto fino ad un mese, salvo quando siano applicabili le sanzioni dell'[art. 481 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e salve le responsabilita' penali per le contravvenzioni commesse dall'inesperto od incapace nelle ipotesi prevedute nella prima parte dell'[art. 60 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chi affida un veicolo a persona inesperta od incapace di guidarlo o non munita della speciale patente, qualora sia prescritta, ovvero permette o tollera che lo guidi, e' punito con l'ammenda da lire cinquanta a lire cinquecento o con l'arresto fino ad un mese, salvo quando siano applicabili le sanzioni dell'[art. 481 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e salve le responsabilita' penali per le contravvenzioni commesse dall'inesperto od incapace nelle ipotesi prevedute nella prima parte dell'[art. 60 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Se il veicolo sia un velocipede la pena e' dell'ammenda da lire venticinque a lire trecento, e il minimo non potra' essere inferiore a lire cento se la consegna o l'affidamento avvennero per motivi di lucro.
 
@@ -941,7 +941,7 @@ Per la circolazione delle motoleggere o per l'uso dei pattini a motore, che risp
 
 La licenza di circolazione e l'autorizzazione alla circolazione debbono portarsi sempre sul veicolo per essere esibite ad ogni richiesta dei funzionari ed agenti, incaricati della esecuzione del presente decreto. 
  
- Chi circoli con veicolo non accompagnato dalla licenza di circolazione, sebbene questa sia stata rilasciata, e' punito a termini dell'[art. 20, n. 2, lettera e), del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
+ Chi circoli con veicolo non accompagnato dalla licenza di circolazione, sebbene questa sia stata rilasciata, e' punito a termini dell'[art. 20, n. 2, lettera e), del R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md). 
  
  E' punito con l'ammenda da lire mille a lire cinquemila chi circola con veicolo, per il quale non sia stata rilasciata la licenza di circolazione o autorizzazione alla circolazione. Il veicolo e' soggetto a sequestro presso la depositeria comunale, e nel caso di condanna, quando sia stata soddisfatta la pena pecuniaria, il proprietario non potra' ottenerne la restituzione se non versando nelle casse del Comune la somma di lire duecentocinquanta per i motocicli o per le motoleggere e i pattini a motore, di lire cinquecento per gli autocarri, i compressori stradali con motore a scoppio, le trattrici stradali e simili, e di lire mille per le autovetture, oltre al rimborso delle spese di custodia. Le dette somme potranno tuttavia essere versate dal proprietario a titolo di cauzione per ottenere lo svincolo del veicolo anche prima che il pretore abbia pronunciato decreto o sentenza di condanna.
 
@@ -1000,7 +1000,7 @@ Gli autoveicoli che le fabbriche costruttrici, quelle di carrozzeria, i rapprese
  Chi circola senza avere ottenuto tale concessione e' punito con le pene e le altre sanzioni stabilite nel secondo capoverso dell'art.
 70. 
  
- I certificati del prefetto sono equiparati alle licenze, anche agli effetti dell'applicazione dell'[art. 286 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I certificati del prefetto sono equiparati alle licenze, anche agli effetti dell'applicazione dell'[art. 286 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 74. — Targhe per autoveicoli in collaudo o da esportare.
 
@@ -1120,7 +1120,7 @@ Il ritiro della licenza di circolazione deve essere ordinato dal prefetto:
  
  c) sia adibito ad uso pubblico diverso da quello per il quale la licenza era stata rilasciata. 
  
- In caso di rifiuto a restituire la licenza, questa e' sequestrata e sono applicabili le disposizioni dell'[art. 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di rifiuto a restituire la licenza, questa e' sequestrata e sono applicabili le disposizioni dell'[art. 434 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Conducenti.
 
@@ -1184,7 +1184,7 @@ Casi di indegnita'.
  
  3° coloro che siano stati condannati due volte per delitto a pena inferiore a quella indicata nel numero precedente, purche' la pena inflitta per ciascuna condanna sia superiore a sei mesi se si tratti di delitto contro la persona o contro la proprieta', ovvero sia superiore ad un anno se si tratti di altro delitto; 
  
- 4° coloro che siano stati condannati due volte per ubbriachezza o tre volte per le contravvenzioni prevedute negli [articoli 482](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o tre volte alla pena dell'arresto per contravvenzioni alle disposizioni del presente decreto. 
+ 4° coloro che siano stati condannati due volte per ubbriachezza o tre volte per le contravvenzioni prevedute negli [articoli 482](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [483 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o tre volte alla pena dell'arresto per contravvenzioni alle disposizioni del presente decreto. 
  
  L'indegnita' cessa quando sia intervenuto il provvedimento di riabilitazione.
 
@@ -1260,7 +1260,7 @@ Per essere abilitato a condurre autoveicoli in servizio da piazza o di noleggio 
  
  b) coloro che abbiano riportato condanna per delitto a pena restrittiva della liberta' personale superiore ad un mese; 
  
- c) coloro che siano stati condannati due volte per ubbriachezza o tre volte per le contravvenzioni prevedute negli [articoli 482](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o tre volte alla pena dell'arresto per contravvenzioni alle disposizioni del presente decreto.
+ c) coloro che siano stati condannati due volte per ubbriachezza o tre volte per le contravvenzioni prevedute negli [articoli 482](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [483 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o tre volte alla pena dell'arresto per contravvenzioni alle disposizioni del presente decreto.
 
 ### Art. 90. — Rilascio della patente di terzo grado a condurre autoveicoli in servizio pubblico.
 
@@ -1350,7 +1350,7 @@ Il conducente che circoli senza avere ottenuta la patente di abilitazione di pri
  
  Alla stessa pena alimentata di un terzo soggiace il conducente, il quale circoli quando la patente, la ricevuta od il certificato gli siano ritirati. 
  
- Quando nei casi preveduti dai due articoli precedenti egli si rifiuti di restituire la patente rispettivamente al prefetto od al Circolo ferroviario d'ispezione, e' punito a norma dell'[art. 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e la patente e' sequestrata.
+ Quando nei casi preveduti dai due articoli precedenti egli si rifiuti di restituire la patente rispettivamente al prefetto od al Circolo ferroviario d'ispezione, e' punito a norma dell'[art. 434 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e la patente e' sequestrata.
 
 ## Norme speciali per gli autoveicoli e loro conducenti.
 
@@ -1549,7 +1549,7 @@ I binari delle linee tramviarie urbane, per i tratti che non siano in sede propr
  
  Nei casi in cui concorrano speciali esigenze per la circolazione stradale ed i tipi del materiale mobile approvato lo consentano, il Ministro per le comunicazioni ha facolta' di prescrivere, su richiesta dell'Azienda autonoma statale della strada, delle Provincie o dei Comuni interessati, che le tramvie extraurbane e le ferrovie concesse, da costruire o gia' in esercizio nei tratti che si svolgono nell'interno degli abitati o su strade esterne di speciale importanza per il carreggio ordinario e per gli autoveicoli, sempreche' non siano in sede propria od in sede separata, abbiano i binari a perfetto livello del piano stradale, e che le relative rotaie siano del tipo a gola. 
  
- Le aziende dovranno provvedere a loro cura e spese a modificare gli impianti che saranno stabiliti, e nel caso di rifiuto o di ritardo si procedera' d'ufficio a cura del Circolo ferroviario d'ispezione ed a spese dell'azienda interessata, in conformita' alle disposizioni dell'art. 202 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447).
+ Le aziende dovranno provvedere a loro cura e spese a modificare gli impianti che saranno stabiliti, e nel caso di rifiuto o di ritardo si procedera' d'ufficio a cura del Circolo ferroviario d'ispezione ed a spese dell'azienda interessata, in conformita' alle disposizioni dell'art. 202 del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md).
 
 ### Art. 112.
 
@@ -1584,7 +1584,7 @@ La prevenzione e l'accertamento delle contravvenzioni prevedute nel presente dec
  
  4° agli ufficiali, sottufficiali e militi della Milizia della strada istituita con [legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1094.md); 
  
- 5° agli agenti giurati dello Stato, delle Provincie e dei Comuni e agli agenti ferroviari e tramviari indicati nell'articolo 27, ultimo capoverso, del [R. decreto 17 giugno 1900, n. 306, e nell'art. 166](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20n.%20561%20riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20le%20ferrovie%20economiche.%20000U0306.md) del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);  
+ 5° agli agenti giurati dello Stato, delle Provincie e dei Comuni e agli agenti ferroviari e tramviari indicati nell'articolo 27, ultimo capoverso, del [R. decreto 17 giugno 1900, n. 306, e nell'art. 166](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20n.%20561%20riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20le%20ferrovie%20economiche.%20000U0306.md) del testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);  
  6° agli ufficiali ed agenti della forza pubblica.
 
 ### Art. 115. — Conciliazioni.
@@ -1636,7 +1636,7 @@ La cognizione delle contravvenzioni stabilite nel presente decreto spetta in ogn
 
 ### Art. 120. — Massimo dell'ammenda.
 
-Agli effetti dell'applicazione della pena stabilita nel presente decreto e fino a quando non sara' pubblicato il nuovo [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il massimo della pena dell'ammenda a norma della prima parte dell'[art. 24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente non puo' essere superiore a lire diecimila.
+Agli effetti dell'applicazione della pena stabilita nel presente decreto e fino a quando non sara' pubblicato il nuovo [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il massimo della pena dell'ammenda a norma della prima parte dell'[art. 24 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) vigente non puo' essere superiore a lire diecimila.
 
 ### Art. 121. — Provento delle conciliazioni, oblazioni e condanne.
 
@@ -1646,7 +1646,7 @@ Il provento delle conciliazioni, oblazioni e condanne alle pene pecuniarie e' de
  
  Nella citta' di Roma il provento delle contravvenzioni accertate dai metropolitani e' devoluto per intero al Governatorato. 
  
- E' in facolta' dei Comuni stabilire che la riscossione delle ammende comminate per le contravvenzioni ai propri regolamenti abbia luogo con la procedura prescritta per la esazione dei tributi ed a mezzo degli organi a cio' destinati. In tal caso la lista dei contravventori insolvibili deve essere comunicata mensilmente al pretore per la conversione delle relative pene pecuniarie a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ E' in facolta' dei Comuni stabilire che la riscossione delle ammende comminate per le contravvenzioni ai propri regolamenti abbia luogo con la procedura prescritta per la esazione dei tributi ed a mezzo degli organi a cio' destinati. In tal caso la lista dei contravventori insolvibili deve essere comunicata mensilmente al pretore per la conversione delle relative pene pecuniarie a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il Ministro per i lavori pubblici determinera' ogni anno quale parte dei proventi delle contravvenzioni possa essere destinata per la concessione di premi di diligenza alla Milizia stradale, ai funzionari ed agenti indicati nell'art. 114, e per la concessione del premio di manutenzione ai capi cantonieri e cantonieri, e quale parte alla Cassa pensioni dei cantonieri stessi.
 
@@ -1670,7 +1670,7 @@ Le azioni per risarcimento dei danni prodotti a persone od a cose dai veicoli ci
 
 ### Art. 124. — Casi in cui le pene possono essere aumentate.
 
-Salva l'applicazione delle disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla recidiva, le pene possono essere aumentate fino al doppio: 
+Salva l'applicazione delle disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla recidiva, le pene possono essere aumentate fino al doppio: 
  
  1° in caso di recidiva specifica entro 12 mesi dalla precedente condanna; 
  
@@ -1680,7 +1680,7 @@ Salva l'applicazione delle disposizioni del [Codice penale](../Codici/Approvazio
  
  4° quando la contravvenzione sia connessa con quella preveduta nell'art. 32 del presente decreto per non avere il conducente ottemperato all'ordine di fermarsi o per avere reso impossibile, trasgredendo agli obblighi impostigli nel detto articolo, l'immediato accertamento della contravvenzione. 
  
- Nei casi contemplati nel presente articolo la sospensione dall'esercizio della professione, da infliggere a norma della prima parte dell'[art. 35 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non puo' essere inferiore ai mesi due.
+ Nei casi contemplati nel presente articolo la sospensione dall'esercizio della professione, da infliggere a norma della prima parte dell'[art. 35 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), non puo' essere inferiore ai mesi due.
 
 ### Art. 125.
 
@@ -1688,7 +1688,7 @@ Responsabilita' civile per le contravvenzioni.
  
  Per le contravvenzioni punibili con la sola pena dell'ammenda, il proprietario di un autoveicolo e' obbligato al pagamento di una somma pari all'ammontare dell'ammenda inflitta al conducente, a meno che egli provi che la circolazione del veicolo sia avvenuta contro la sua volonta'. 
  
- L'obbligo del proprietario al pagamento della detta somma e' subordinato alla condizione che il contravventore sia insolvente. Se anche il proprietario risulti insolvente, si procede contro il contravventore alla conversione della pena dell'ammenda in quella dell'arresto, a norma del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ L'obbligo del proprietario al pagamento della detta somma e' subordinato alla condizione che il contravventore sia insolvente. Se anche il proprietario risulti insolvente, si procede contro il contravventore alla conversione della pena dell'ammenda in quella dell'arresto, a norma del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Agli effetti delle disposizioni del presente articolo e dei successivi, quando si tratti di autoveicoli o di rimorchi, e' proprietario colui che e' inscritto per tale qualita' nei registri della Prefettura, quando non sia stato possibile identificarlo con sicurezza all'atto dell'accertamento della contravvenzione.
 
@@ -1777,7 +1777,7 @@ Il presente decreto entrera' in vigore il 1° febbraio
 
 1929.
 
-Sono abrogati il regolamento approvato con [R. decreto 8 gennaio 1905, n. 24](Che%20approva%20e%20contiene%20il%20regolamento%20di%20polizia%20stradale%20e%20per%20garantire%20la%20liberta%20della%20circolazione%20e%20la%20sicurezza%20del%20transito%20sulle%20strade%20pubbliche.%20005U0024.md), il [R. decreto 13 novembre 1921, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-13;1683), il [R. decreto 31 dicembre 1923, n. 3043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3043), il [R. decreto 4 agosto 1924, n. 1438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-04;1438), convertito in [legge 25 giugno 1926, n. 1213](Conversione%20in%20legge%20del%20R.%20decreto%204%20agosto%201924%20n.%201438%20recante%20disposizioni%20con%20le%20quali%20si%20modifica%20parzialmente%20il%20R.%20decreto-legge%2031%20dicembre%201923%20n.%203043%20per%20quanto%20riguarda%20la%20la_23489db23d53.md), il [R. decreto 18 settembre 1924, n. 1647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1647), convertito in [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), il [R. decreto 24 maggio 1925, n. 912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-24;912), convertito in [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), il [R. decreto 4 settembre 1925, n. 1751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1751), convertito in [legge 18 marzo 1926, numero 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), il [R. decreto 13 agosto 1926, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1479), convertito in [legge 18 dicembre 1927, n. 2590](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto%2013%20agosto%201926%20n.%201479%20concernente%20disposizioni%20sui%20cerchioni%20delle%20ruote%20dei%20veicoli.%20027U2590.md), il [R. decreto 13 marzo 1927, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-13;314), convertito in [legge 29 dicembre 1927, n. 2730](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2013%20marzo%201927%20n.%20314%20recante%20norme%20per%20limmatricolazione%20e%20lindividuazione%20degli%20autoveicoli.%20027U2730.md), il [Regio decreto 27 novembre 1927, n. 24-45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-27;24), ed ogni altra disposizione contraria al presente decreto, salvo quanto dispone la [legge 1° marzo 1928, n. 381](Provvedimenti%20per%20agevolare%20e%20diffondere%20la%20coltivazione%20del%20pioppo%20e%20di%20altre%20piante%20arboree.%20028U0381.md). 
+Sono abrogati il regolamento approvato con [R. decreto 8 gennaio 1905, n. 24](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20di%20polizia%20stradale%20e%20per%20garantire%20la%20liberta%20della%20circolazione%20e%20la%20sicurezza%20del%20transito%20sulle%20strade%20pubbliche.%20005U0024.md), il [R. decreto 13 novembre 1921, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-11-13;1683), il [R. decreto 31 dicembre 1923, n. 3043](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3043), il [R. decreto 4 agosto 1924, n. 1438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-04;1438), convertito in [legge 25 giugno 1926, n. 1213](Conversione%20in%20legge%20del%20R.%20decreto%204%20agosto%201924%20n.%201438%20recante%20disposizioni%20con%20le%20quali%20si%20modifica%20parzialmente%20il%20R.%20decreto-legge%2031%20dicembre%201923%20n.%203043%20per%20quanto%20riguarda%20la%20la_23489db23d53.md), il [R. decreto 18 settembre 1924, n. 1647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1647), convertito in [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md), il [R. decreto 24 maggio 1925, n. 912](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-24;912), convertito in [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), il [R. decreto 4 settembre 1925, n. 1751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1751), convertito in [legge 18 marzo 1926, numero 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), il [R. decreto 13 agosto 1926, n. 1479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1479), convertito in [legge 18 dicembre 1927, n. 2590](Conversione%20in%20legge%20con%20modifiche%20del%20R.%20decreto%2013%20agosto%201926%20n.%201479%20concernente%20disposizioni%20sui%20cerchioni%20delle%20ruote%20dei%20veicoli.%20027U2590.md), il [R. decreto 13 marzo 1927, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-13;314), convertito in [legge 29 dicembre 1927, n. 2730](Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2013%20marzo%201927%20n.%20314%20recante%20norme%20per%20limmatricolazione%20e%20lindividuazione%20degli%20autoveicoli.%20027U2730.md), il [Regio decreto 27 novembre 1927, n. 24-45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-27;24), ed ogni altra disposizione contraria al presente decreto, salvo quanto dispone la [legge 1° marzo 1928, n. 381](Provvedimenti%20per%20agevolare%20e%20diffondere%20la%20coltivazione%20del%20pioppo%20e%20di%20altre%20piante%20arboree.%20028U0381.md). 
  
  Nulla e' innovato alle disposizioni vigenti sulla circolazione delle ferrovie e tramvie nei tratti di strada ordinaria salvo che ne sia fatta espressa menzione nel presente decreto.
 

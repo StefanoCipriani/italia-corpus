@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [art. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_46) e [47 del R.D. 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_47), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visti gli [art. 46](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [47 del R.D. 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Visto il regolamento approvato con [R. D. 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
@@ -94,6 +94,6 @@ Il presente decreto che entra in vigore dal giorno della sua pubblicazione nella
  
  Badoglio - De Santis - Jung 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: Badoglio

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Veduto il [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), che dispone il concentramento nel Ministero dei lavori pubblici dei servizi relativi all'esecuzione di opere pubbliche per conto dello Stato;
+Veduto il [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), che dispone il concentramento nel Ministero dei lavori pubblici dei servizi relativi all'esecuzione di opere pubbliche per conto dello Stato;
 
 Ritenuto che, in conseguenza di tale concentramento dei servizi, e' necessario trasferire al predetto Ministero, con i relativi posti d'organico, il personale dei ruoli finanziari necessario per l'espletamento dei servizi di pertinenza del Ministero delle finanze passati alla dipendenza del Ministero dei lavori pubblici;
 
@@ -98,7 +98,7 @@ Nella prima attuazione del presente decreto, tutti i posti di cui al precedente 
  
  Tale collocamento in soprannumero e' compensato con corrispondenti vacanze di posti nel grado immediatamente inferiore. 
  
- Detto personale sara' scelto d'intesa fra i Ministri per le finanze e per i lavori pubblici preferibilmente fra quello che si trovi addetto ai servizi di cui al [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), e che abbia chiesto il trasferimento nell'Amministrazione dei lavori pubblici e verra' collocato, col proprio grado, nei ruoli di quest'ultimo Ministero interpolandosi col personale appartenente a detti ruoli, in base all'anzianita' di grado rispettivamente acquisita alla data di trasferimento.
+ Detto personale sara' scelto d'intesa fra i Ministri per le finanze e per i lavori pubblici preferibilmente fra quello che si trovi addetto ai servizi di cui al [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), e che abbia chiesto il trasferimento nell'Amministrazione dei lavori pubblici e verra' collocato, col proprio grado, nei ruoli di quest'ultimo Ministero interpolandosi col personale appartenente a detti ruoli, in base all'anzianita' di grado rispettivamente acquisita alla data di trasferimento.
 
 ## Art. 4.
 

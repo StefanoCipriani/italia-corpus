@@ -271,7 +271,7 @@ CAPO X
 
 ### Art. 43.
 
-Ai proprietari di navi mercantili a scafo metallico da carico secco e liquido iscritte alla, data del 1 gennaio 1959 nelle matricole o nei registri di cui all'[articolo 146 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e costruite in data anteriore al 1945, che procedano alla demolizione di tali navi ed alla costruzione di nuove unita' sono concessi i benefici nella misura, condizione e modalita' di cui alle presenti disposizioni.
+Ai proprietari di navi mercantili a scafo metallico da carico secco e liquido iscritte alla, data del 1 gennaio 1959 nelle matricole o nei registri di cui all'[articolo 146 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e costruite in data anteriore al 1945, che procedano alla demolizione di tali navi ed alla costruzione di nuove unita' sono concessi i benefici nella misura, condizione e modalita' di cui alle presenti disposizioni.
  Per aver titolo ai benefici previsti dalle presenti disposizioni i proprietari delle navi da demolire devono commettere la costruzione di nuovo naviglio a scafo metallico per un tonnellaggio corrispondente ad almeno il 75 per cento di quello da demolire.
  La demolizione del naviglio vetusto e la commessa del nuovo naviglio devono essere ritenute conformi agli interessi dell'economia nazionale a giudizio insindacabile del Ministro per la marina mercantile.
 
@@ -283,7 +283,7 @@ Nel periodo di due anni dall'entrata in vigore delle presenti disposizioni e con
 
 ### Art. 45.
 
-Salvo quanto previsto dall'[articolo 160 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e relative norme regolamentari, la demolizione delle navi di cui all'articolo 43 deve essere iniziata, dopo l'entrata in vigore delle presenti disposizioni e deve risultare, a termini dell'articolo 343 del regolamento per la esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), da apposito processo verbale da presentarsi ai Ministero della, marina mercantile.
+Salvo quanto previsto dall'[articolo 160 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e relative norme regolamentari, la demolizione delle navi di cui all'articolo 43 deve essere iniziata, dopo l'entrata in vigore delle presenti disposizioni e deve risultare, a termini dell'articolo 343 del regolamento per la esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), da apposito processo verbale da presentarsi ai Ministero della, marina mercantile.
 
 ### Art. 46.
 
@@ -293,7 +293,7 @@ Coloro che intendano demolire il naviglio di cui all'articolo 43 e sostituirlo c
 
 ### Art. 47.
 
-Qualora i singoli proprietari con le navi da demolire non raggiungano un tonnellaggio sufficiente per la costruzione di nuovo naviglio avente i requisiti di cui all'articolo 13, possono raggrupparsi con altri proprietari, assumendo la forma della comproprieta' prevista dall'[articolo 258 e seguenti del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o costituendo una delle societa' previste dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), con conferimento della caratura delle navi da demolire.
+Qualora i singoli proprietari con le navi da demolire non raggiungano un tonnellaggio sufficiente per la costruzione di nuovo naviglio avente i requisiti di cui all'articolo 13, possono raggrupparsi con altri proprietari, assumendo la forma della comproprieta' prevista dall'[articolo 258 e seguenti del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o costituendo una delle societa' previste dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), con conferimento della caratura delle navi da demolire.
  Gli atti e formalita' relativi alla costituzione dei raggruppamenti e delle societa' ed al conferimento della caratura delle navi, ai fini del comma precedente, sono esenti da ogni tributo.
 
 ### Art. 48.

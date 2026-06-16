@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 26 gennaio 1928, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-26;160), col quale i comuni di Rivera e Villardora sono stati soppressi, ed i rispettivi territori aggregati a quello di Almese; 
+ Visto il [R. decreto 26 gennaio 1928, n. 160](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Almese%20Rivera%20e%20Villar%20Dora%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Almese.%20028U0160.md), col quale i comuni di Rivera e Villardora sono stati soppressi, ed i rispettivi territori aggregati a quello di Almese; 
  
  Vista la deliberazione del commissario prefettizio di Almese, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Rivera e Villardora; 
  

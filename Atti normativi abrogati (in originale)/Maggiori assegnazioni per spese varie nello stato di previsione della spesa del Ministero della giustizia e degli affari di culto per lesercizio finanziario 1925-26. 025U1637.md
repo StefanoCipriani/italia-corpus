@@ -57,7 +57,7 @@ VITTORIO EMANUELE III
  Assegni integrativi a titolo di supplemento 
  agli ufficiali giudiziari (art. 1 del testo 
  organico, approvato con [R. decreto 28 
- dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md)) (Spesa obbligatoria) . . . . L. 1,000,000 
+ dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md)) (Spesa obbligatoria) . . . . L. 1,000,000 
  
  Questo decreto sara' presentato ad Parlamento per essere convertito in legge, ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

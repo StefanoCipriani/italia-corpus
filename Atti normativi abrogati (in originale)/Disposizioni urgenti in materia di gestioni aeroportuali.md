@@ -32,7 +32,7 @@ I termini di cui all'[articolo 10, commi 10](../Leggi%20finanziarie%20e%20di%20b
 
 2.
 
-L'affidamento alle societa' di cui all'[articolo 10, comma 13, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' effettuato con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro e il Ministro delle finanze, sulla base di un programma di interventi presentato dalla societa' di gestione, corredato dal relativo piano economico finanziario. La durata della concessione puo' superare i limiti temporali di cui all'[articolo 694 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in correlazione al piano degli investimenti presentato.
+L'affidamento alle societa' di cui all'[articolo 10, comma 13, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e' effettuato con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro e il Ministro delle finanze, sulla base di un programma di interventi presentato dalla societa' di gestione, corredato dal relativo piano economico finanziario. La durata della concessione puo' superare i limiti temporali di cui all'[articolo 694 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in correlazione al piano degli investimenti presentato.
 
 3.
 

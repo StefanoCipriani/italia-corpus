@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'art. 1 del decreto Reale 24 maggio 1925, n. 1409, concernente la pesca del pesce novello nel mare; 
  
- Visti gli articoli 20, ultimo comma, e 22 del regolamento per la pesca in acque dolci, approvato con [R. decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486); 
+ Visti gli articoli 20, ultimo comma, e 22 del regolamento per la pesca in acque dolci, approvato con [R. decreto 22 novembre 1914, n. 1486](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20regolamento%20per%20la%20pesca%20fluviale%20e%20lacuale.%20014U1486.md); 
  
  Visto il [R. decreto 20 novembre 1927, n. 2193](Divieto%20della%20pesca%20e%20del%20commercio%20del%20novellame%20di%20anguille%20cicche%20nella%20Toscana%20e%20nella%20Liguria.%20027U2193.md), che reca divieto della pesca e del commercio del novellame di anguille in Toscana e Liguria; 
  

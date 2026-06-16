@@ -42,7 +42,7 @@ L'ammontare delle somme spettanti al Ministero per l'agricoltura e al Ministero 
  
  Con decreto del ministro del tesoro, in base alla esibizione delle quietanze di eseguito versamento, la quota destinata a disposizione del Ministero per l'agricoltura sara' devoluta al capitolo 60 dello stato di previsione della spesa dello stesso Ministero ed ai corrispondenti capitoli degli esercizi successivi. 
  
- La quota destinata a disposizione del Ministero dell'interno sara' invece versata in aumento del fondo di riserva per le epizoozie di cui all'[art. 194 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_194) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md).
+ La quota destinata a disposizione del Ministero dell'interno sara' invece versata in aumento del fondo di riserva per le epizoozie di cui all'[art. 194 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md).
 
 ## Art. 4.
 

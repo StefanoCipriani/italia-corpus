@@ -32,7 +32,7 @@ Sono condonate le sopratasse e le pene pecuniarie per le infrazioni previste dal
  g) sulla finanza locale e sui prodotti tessili e dell'abbigliamento;
  h) sul catasto e sui servizi tecnici erariali;
  i) sulla nominativita' obbligatoria dei titoli azionari.
- Sono comprese nel condono le sopratasse previste dall'[art. 110 del regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sull'imposta di registro, fermo peraltro l'obbligo del pagamento delle imposte ordinarie.
+ Sono comprese nel condono le sopratasse previste dall'[art. 110 del regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sull'imposta di registro, fermo peraltro l'obbligo del pagamento delle imposte ordinarie.
 
 ## Art. 2.
 

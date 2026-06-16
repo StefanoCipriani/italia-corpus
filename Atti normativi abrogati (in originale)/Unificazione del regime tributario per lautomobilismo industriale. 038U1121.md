@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), che approva il testo di legge sulle tasse ciclistiche e automobilistiche e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), che approva il testo di legge sulle tasse ciclistiche e automobilistiche e successive modificazioni;
 
 Visto il [R. decreto-legge 29 dicembre 1927 n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md), convertito nella [legge 29 novembre 1928, n. 3421](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2029%20dicembre%201927%20n.%202446%20contenente%20provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20028U3421.md), che istitui' la tassa fissa sui rimorchi;
 
@@ -42,7 +42,7 @@ TITOLO I.
 
 ### Art. 1.
 
-In sostituzione della tassa di circolazione sugli autocarri, motocarri e motofurgoncini, di cui al [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive disposizioni, della tassa fissa e della sopratassa erariale di circolazione sui rimorchi trainati da autoveicoli, di cui rispettivamente ai [Regi decreti-legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md) e [28 novembre 1933, n. 1549](Sopratassa%20erariale%20di%20circolazione%20sui%20rimorchi%20trainati%20da%20autoveicoli.%20033U1549.md), e del contributo di utenza stradale di cui agli articoli 225 a 235 del [Testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175), per la Finanza locale e successive modificazioni, e' istituita, a decorrere dal 1° gennaio 1939-XVII, la tassa unica di circolazione sugli autocarri, motocarri, motofurgoncini e rimorchi in ragione di anno solare e per ogni quintale di portata utile, nella misura indicata nella tabella allegato A che, vista d'ordine Nostro dal Ministro Segretario di Stato per le finanze, forma parte integrale del presente decreto.
+In sostituzione della tassa di circolazione sugli autocarri, motocarri e motofurgoncini, di cui al [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive disposizioni, della tassa fissa e della sopratassa erariale di circolazione sui rimorchi trainati da autoveicoli, di cui rispettivamente ai [Regi decreti-legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md) e [28 novembre 1933, n. 1549](Sopratassa%20erariale%20di%20circolazione%20sui%20rimorchi%20trainati%20da%20autoveicoli.%20033U1549.md), e del contributo di utenza stradale di cui agli articoli 225 a 235 del [Testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175), per la Finanza locale e successive modificazioni, e' istituita, a decorrere dal 1° gennaio 1939-XVII, la tassa unica di circolazione sugli autocarri, motocarri, motofurgoncini e rimorchi in ragione di anno solare e per ogni quintale di portata utile, nella misura indicata nella tabella allegato A che, vista d'ordine Nostro dal Ministro Segretario di Stato per le finanze, forma parte integrale del presente decreto.
 
 ### Art. 2.
 
@@ -72,7 +72,7 @@ Per tutti indistintamente gli autocarri, motocarri, moto-furgoncini, rimorchi ed
 
 ### Art. 5.
 
-Alla tassa di cui al precedente art. 1 si estendono le esenzioni previste dagli [articoli 8](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), [14](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md) e [30 del R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), nonche' dall'[art. 1 del R. decreto-legge 19 dicembre 1936, n. 2168](Agevolazioni%20in%20materia%20di%20tassa%20di%20circolazione%20sugli%20autoveicoli.%20036U2168.md). 
+Alla tassa di cui al precedente art. 1 si estendono le esenzioni previste dagli [articoli 8](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), [14](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md) e [30 del R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), nonche' dall'[art. 1 del R. decreto-legge 19 dicembre 1936, n. 2168](Agevolazioni%20in%20materia%20di%20tassa%20di%20circolazione%20sugli%20autoveicoli.%20036U2168.md). 
  
  Sono ammesse inoltre le seguenti esenzioni temporanee dalla tassa anzidetta: 
  
@@ -92,7 +92,7 @@ Alla tassa di cui al precedente art. 1 si estendono le esenzioni previste dagli 
 
 La circolazione degli autocarri, motocarri, motofurgoncini e rimorchi senza il pagamento della tassa di cui all'articolo 1 e' punita coll'ammenda da L. 500 a L. 10.000 Sono altresi' dovute le tasse corrispondenti al quadrimestre in cui ha avuto luogo l'abusiva circolazione. 
  
- Per quanto altro riguarda l'applicazione della tassa unica di circolazione di cui all'art. 1 e per ogni altra infrazione alle disposizioni contenute negli articoli precedenti valgono le norme e le sanzioni stabilite in materia di tasse di circolazione dal [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive modificazioni.
+ Per quanto altro riguarda l'applicazione della tassa unica di circolazione di cui all'art. 1 e per ogni altra infrazione alle disposizioni contenute negli articoli precedenti valgono le norme e le sanzioni stabilite in materia di tasse di circolazione dal [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive modificazioni.
 
 ### Art. 7.
 
@@ -215,7 +215,7 @@ Sono esenti dal pagamento della tassa di cui all'art. 9:
 
 Le norme del titolo II del presente decreto non si applicano: 
  
- a) agli autoveicoli e rimorchi di proprieta' delle persone indicate dall'[art. 12, n. 1](Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md) e [n. 2, del R. decreto 28 giugno 1866, n. 3022](Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md); 
+ a) agli autoveicoli e rimorchi di proprieta' delle persone indicate dall'[art. 12, n. 1](../Regi%20decreti/Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md) e [n. 2, del R. decreto 28 giugno 1866, n. 3022](../Regi%20decreti/Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md); 
  
  b) agli autoveicoli e rimorchi iscritti nel registro autoveicoli Vaticani od intestati ad istituzioni ed Uffici della Santa Sede, nonche' agli autoveicoli e rimorchi che eseguono trasporti per conto della Santa Sede e sue istituzioni ed uffici purche' siano provvisti di un'attestazione del Governatore della Citta' del Vaticano da cui risulti che i singoli trasporti sono effettuati per conto della Santa Sede o delle predette istituzioni ed uffici; 
  
@@ -292,7 +292,7 @@ Indipendentemente dall'applicazione delle pene pecuniarie o delle ammende, di cu
 
 ### Art. 24.
 
-L'accertamento delle violazioni alle norme contenute nel Titolo II del presente decreto compete agli organi, cui a norma della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), e' devoluto l'accertamento delle violazioni alle leggi finanziarie, agli Ispettori ed ai Procuratori delle Tasse e delle Imposte indirette sugli affari, agli Uffici ed agenti incaricati della prevenzione e dell'accertamento delle contravvenzioni sulla circolazione stradale a termine dell'[art. 122 del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), nonche' agli ufficiali, sottufficiali e militi delle Milizie ferroviaria, postelegrafonica e portuaria. 
+L'accertamento delle violazioni alle norme contenute nel Titolo II del presente decreto compete agli organi, cui a norma della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), e' devoluto l'accertamento delle violazioni alle leggi finanziarie, agli Ispettori ed ai Procuratori delle Tasse e delle Imposte indirette sugli affari, agli Uffici ed agenti incaricati della prevenzione e dell'accertamento delle contravvenzioni sulla circolazione stradale a termine dell'[art. 122 del R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), nonche' agli ufficiali, sottufficiali e militi delle Milizie ferroviaria, postelegrafonica e portuaria. 
  
  Per l'applicazione delle penalita' stabilite dallo stesso Titolo si osservano le disposizioni della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4). 
  

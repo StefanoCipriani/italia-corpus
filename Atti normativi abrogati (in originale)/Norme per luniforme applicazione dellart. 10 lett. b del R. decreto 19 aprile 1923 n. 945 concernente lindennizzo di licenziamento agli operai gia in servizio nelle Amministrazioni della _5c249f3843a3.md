@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALLA
 
-Visto il [R. decreto 19 aprile 1923, n. 945](Concernente%20la%20nuova%20organizzazione%20della%20mano%20dopera%20dipendente%20dalle%20Amministrazioni%20militari.%20023U0945.md), e successive modificazioni;
+Visto il [R. decreto 19 aprile 1923, n. 945](../Regi%20decreti/Concernente%20la%20nuova%20organizzazione%20della%20mano%20dopera%20dipendente%20dalle%20Amministrazioni%20militari.%20023U0945.md), e successive modificazioni;
 
 Ritenuta la necessita' urgente ed assoluta di assicurare l'uniforme applicazione dell'art. 10 del decreto stesso;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Ministro Segretario di Stato per la guerra 
 
 ## Art. 1.
 
-La indennita' spettante, in base alla [lettera b) dell'art. 10 del R. decreto 19 aprile 1923, n. 945](Concernente%20la%20nuova%20organizzazione%20della%20mano%20dopera%20dipendente%20dalle%20Amministrazioni%20militari.%20023U0945.md), al personale provvisorio, straordinario, avventizio e giornaliero dipendente dai Ministeri della guerra e della marina, deve essere restituita all'Amministrazione nel caso che il salariato, assunto in servizio ad altro impiego di ruolo, ottenga la valutazione, ai fini di pensione, del servizio non di ruolo in relazione al quale l'indennita' suddetta venne corrisposta.
+La indennita' spettante, in base alla [lettera b) dell'art. 10 del R. decreto 19 aprile 1923, n. 945](../Regi%20decreti/Concernente%20la%20nuova%20organizzazione%20della%20mano%20dopera%20dipendente%20dalle%20Amministrazioni%20militari.%20023U0945.md), al personale provvisorio, straordinario, avventizio e giornaliero dipendente dai Ministeri della guerra e della marina, deve essere restituita all'Amministrazione nel caso che il salariato, assunto in servizio ad altro impiego di ruolo, ottenga la valutazione, ai fini di pensione, del servizio non di ruolo in relazione al quale l'indennita' suddetta venne corrisposta.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri, 
 
 ## Art. 1.
 
-E' abrogato l'articolo unico del [regio decreto 3 ottobre 1941, n. 1203](Sospensione%20della%20restituzione%20di%20diritti%20sul%20cotone%20contenuto%20nei%20manufatti%20che%20si%20esportano.%20041U1203.md), che sospese la restituzione dei diritti percepiti sul cotone contenuto nei manufatti che si esportano.
+E' abrogato l'articolo unico del [regio decreto 3 ottobre 1941, n. 1203](../Regi%20decreti/Sospensione%20della%20restituzione%20di%20diritti%20sul%20cotone%20contenuto%20nei%20manufatti%20che%20si%20esportano.%20041U1203.md), che sospese la restituzione dei diritti percepiti sul cotone contenuto nei manufatti che si esportano.
 
 ## Art. 2.
 

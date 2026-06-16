@@ -60,7 +60,7 @@ Tutte le contestazioni che potranno sorgere nella esecuzione del piano regolator
  
  Contro il lodo sara' ammesso, oltre all'opposizione per revocazione, il ricorso per cassazione. 
  
- La procedura innanzi al collegio arbitrale sara' quella determinata dal [R. decreto 24 marzo 1910, n. 158](Portante%20norme%20relative%20al%20funzionamento%20dei%20Collegi%20arbitrali%20per%20la%20determinazione%20delle%20indennita%20di%20espropriazione%20nei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908%20010U0158.md).
+ La procedura innanzi al collegio arbitrale sara' quella determinata dal [R. decreto 24 marzo 1910, n. 158](../Regi%20decreti/Portante%20norme%20relative%20al%20funzionamento%20dei%20Collegi%20arbitrali%20per%20la%20determinazione%20delle%20indennita%20di%20espropriazione%20nei%20Comuni%20colpiti%20dal%20terremoto%20del%2028%20dicembre%201908%20010U0158.md).
 
 ## Art. 10.
 

@@ -52,7 +52,7 @@ Le presenti disposizioni si applicano per i conti comunali e delle opere pie del
 
 Le disposizioni dell'[art. 2 della legge 29 dicembre 1901, n. 538](Modificante%20la%20pianta%20organica%20del%20personale%20di%20ragioneria%20dellAmministrazione%20provinciale%20dellInterno.%20001U0538.md), in quanto si riferiscono alla responsabilita' dei funzionari di prefettura revisori dei conti, si applicano per i conti, di cui agli articoli 1 e 4, ai soli casi di errori di calcolo. 
  
- Rimangono ferme, in quanto non sia diversamente stabilito dal presente decreto, le disposizioni del regolamento comunale e provinciale approvato con [Regio decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297);
+ Rimangono ferme, in quanto non sia diversamente stabilito dal presente decreto, le disposizioni del regolamento comunale e provinciale approvato con [Regio decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md);
 
 ## Art. 6.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 1 del R. decreto 3 maggio 1923, n. 1042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1042#art_1), che trasferisce a carico dei Comuni i servizi dei locali e dei mobili degli uffici giudiziari, e l'[art. 22 del R. decreto 30 dicembre 1923, n. 2785](Modifiche%20nelle%20circoscrizioni%20giudiziarie%20e%20istituzione%20di%20sedi%20distaccate%20di%20pretura.%20023U2785.md), concernente modifiche nelle circoscrizioni giudiziarie e la istituzione di sodi distaccate di pretura;
+Visto l'[art. 1 del R. decreto 3 maggio 1923, n. 1042](../Regi%20decreti/Che%20trasferisce%20a%20carico%20dei%20Comuni%20i%20servizi%20dei%20locali%20e%20dei%20mobili%20degli%20uffici%20giudiziari.%20023U1042.md), che trasferisce a carico dei Comuni i servizi dei locali e dei mobili degli uffici giudiziari, e l'[art. 22 del R. decreto 30 dicembre 1923, n. 2785](Modifiche%20nelle%20circoscrizioni%20giudiziarie%20e%20istituzione%20di%20sedi%20distaccate%20di%20pretura.%20023U2785.md), concernente modifiche nelle circoscrizioni giudiziarie e la istituzione di sodi distaccate di pretura;
 
 Ritenuto che le spese di riscaldamento e di illuminazione dei locali giudiziari costituiscono un accessorio del servizio dei locali, gia' trasferito a carico dei Comuni;
 
@@ -24,7 +24,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia 
 
 ## Art. 1.
 
-Le spese necessarie per il riscaldamento e la illuminazione dei locali ad uso degli uffici giudiziari, esclusi quelli contemplati nell'[art. 6 del R. decreto 3 maggio 1923, n. 1042](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1042#art_6), sono a carico dei Comuni componenti la circoscrizione territoriale dell'ufficio, al quale le spese si riferiscono. 
+Le spese necessarie per il riscaldamento e la illuminazione dei locali ad uso degli uffici giudiziari, esclusi quelli contemplati nell'[art. 6 del R. decreto 3 maggio 1923, n. 1042](../Regi%20decreti/Che%20trasferisce%20a%20carico%20dei%20Comuni%20i%20servizi%20dei%20locali%20e%20dei%20mobili%20degli%20uffici%20giudiziari.%20023U1042.md), sono a carico dei Comuni componenti la circoscrizione territoriale dell'ufficio, al quale le spese si riferiscono. 
  
  Alla ripartizione delle dette spese e al loro eventuale anticipo sono applicabili le norme contenute nell'art. 2 del suindicato R. decreto 3 maggio 1923.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 9 agosto 1929, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1744), che approva il regolamento sugli assegni speciali di bordo;
+Visto il [R. decreto 9 agosto 1929, n. 1744](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20029U1744.md), che approva il regolamento sugli assegni speciali di bordo;
 
 Sentito il Consiglio superiore di marina, il quale ad unanimita' ha dato parere favorevole;
 

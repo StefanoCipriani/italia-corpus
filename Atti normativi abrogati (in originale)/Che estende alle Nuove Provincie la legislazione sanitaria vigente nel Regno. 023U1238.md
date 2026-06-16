@@ -26,42 +26,42 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 Nei territori annessi in base agli [articoli 3 della legge 26 settembre 1920, n. 1322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-26;1322#art_3), e 2 della [legge 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), sono pubblicati, con le modificazioni e con le norme transitorie contenute nei successivi articoli: 
  
- - il [R. D. 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), che approva il [T. U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); 
+ - il [R. D. 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), che approva il [T. U. delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
  
  - il [R. D. 6 luglio 1890, n. 7042](Che%20approva%20lunito%20il%20regolamento%20speciale%20per%20i%20laboratori%20municipali%20di%20vigilanza%20igienica%20e%20sanitaria.%20090U7042.md), che approva il regolamento speciale per i laboratori municipali di vigilanza igienica e sanitaria, con relative istruzioni; 
  
- - il [R. D. 3 agosto 1890, n. 7045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-03;7045), che approva il regolamento speciale per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico; 
+ - il [R. D. 3 agosto 1890, n. 7045](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20per%20la%20vigilanza%20igienica%20sugli%20alimenti%20sulle%20bevande%20e%20sugli%20oggetti%20di%20uso%20domestico.%20090U7045.md), che approva il regolamento speciale per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico; 
  
- - il [R. D. 28 agosto 1867, n. 3872](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-08-28;3872), che istituisce le medaglie ai benemeriti della salute pubblica; 
+ - il [R. D. 28 agosto 1867, n. 3872](../Regi%20decreti/Per%20la%20coniazione%20di%20una%20medaglia%20destinata%20a%20premiare%20le%20persone%20che%20si%20rendono%20in%20modo%20eminente%20benemerite%20in%20occasione%20di%20qualche%20morbo%20epidemico%20pericoloso.%20067U3872.md), che istituisce le medaglie ai benemeriti della salute pubblica; 
  
  - il [R. D. 11 ottobre 1884, n. 2706](Che%20modifica%20il%20procedimento%20prescritto%20dallarticolo%204%20del%20R.%20decreto%2028%20agosto%201867%20pel%20conferimento%20della%20medaglia%20destinata%20a%20premiare%20le%20persone%20che%20si%20rendono%20in%20modo%20eminente%20beneme_90229bef07f9.md), che consente le concessioni motu proprio delle medaglie ai benemeriti della salute pubblica; 
  
- - il [R. D. 25 febbraio 1886, n. 3706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-02-25;3706), che alle ricompense ai benemeriti della salute pubblica aggiunge le attestazioni di benemerenza; 
+ - il [R. D. 25 febbraio 1886, n. 3706](../Regi%20decreti/Col%20quale%20si%20aggiunge%20lattestazione%20di%20benemerenza%20alle%20ricompense%20stabilite%20dal%20R.%20decreto%2028%20agosto%201867.%20086U3706.md), che alle ricompense ai benemeriti della salute pubblica aggiunge le attestazioni di benemerenza; 
  
  - [R. D. 31 marzo 1892, n. 328](Che%20autorizza%20la%20pubblicazione%20del%20regolamento%20speciale%20sulla%20conservazione%20del%20vaccino%20e%20sulla%20vaccinazione%20obbligatoria.%20092U0328.md), che pubblica il regolamento speciale sulla conservazione del vaccino e sulla vaccinazione obbligatoria, approvato con decreto del Ministero dell'interno in data 29 marzo 1892; 
  
  - il [R. D. 25 luglio 1892, n. 448](Che%20approva%20il%20regolamento%20di%20polizia%20mortuaria.%20092U0448.md), che approva il regolamento speciale di polizia mortuaria; 
  
- - il [R. D. 4 agosto 1895, n. 551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-08-04;551), contenente modifiche al regolamento speciale per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico approvato con [R. D. 3 agosto 1890, n. 7045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-03;7045); 
+ - il [R. D. 4 agosto 1895, n. 551](../Regi%20decreti/Che%20modifica%20larticolo%20167%20del%20regolamento%203%20agosto%201890%20per%20la%20vigilanza%20igienica%20sugli%20alimenti%20sulle%20bevande%20e%20sugli%20oggetti%20di%20uso%20domestico.%20095U0551.md), contenente modifiche al regolamento speciale per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico approvato con [R. D. 3 agosto 1890, n. 7045](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20per%20la%20vigilanza%20igienica%20sugli%20alimenti%20sulle%20bevande%20e%20sugli%20oggetti%20di%20uso%20domestico.%20090U7045.md); 
  
  - il [R. D. 10 settembre 1895, n. 625](Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%2019%20luglio%201894%20n.%20356%20che%20stabilisce%20le%20norme%20dirette%20ad%20impedire%20le%20frodi%20nel%20commercio%20del%20burro%20e%20disciplina%20la%20vendita%20del%20bur_348d9c01bb81.md), che approva il regolamento per l'esecuzione della [legge 19 luglio 1894, n. 356](Sulla%20fabbricazione%20e%20la%20vendita%20del%20burro%20artificiale.%20094U0356.md), circa le frodi nel commercio del burro e la vendita del burro artificiale; 
  
- - il [R. D. 29 settembre 1895, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;636), che approva il regolamento per la sanita' marittima, per la parte non pubblicata in base al [R.
-D. 11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;167); 
+ - il [R. D. 29 settembre 1895, n. 636](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md), che approva il regolamento per la sanita' marittima, per la parte non pubblicata in base al [R.
+D. 11 gennaio 1923, n. 167](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20vigente%20regolamento%20sulla%20sanita%20marittima.%20023U0167.md); 
  
- - il [R. D. 20 maggio 1897, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;178), che approva il regolamento relativo alle condizioni speciali delle navi addette al trasporto dei passeggieri; 
+ - il [R. D. 20 maggio 1897, n. 178](../Regi%20decreti/Che%20approva%20il%20Regolamento%20che%20stabilisce%20le%20condizioni%20speciali%20richieste%20nelle%20navi%20addette%20al%20trasporto%20dei%20passeggieri.%20097U0178.md), che approva il regolamento relativo alle condizioni speciali delle navi addette al trasporto dei passeggieri; 
  
  - il [R. D. 29 maggio 1898, n. 219](concernente%20disposizioni%20varie%20per%20linsegnamento%20delligiene%20098U0219.md), concernente disposizioni varie per l'insegnamento dell'igiene; 
  
- - il [R. D. 19 ottobre 1898, n. 454](Modificante%20alcuni%20articoli%20del%20Regolamento%20che%20stabilisce%20le%20condizioni%20speciali%20richieste%20nelle%20addette%20al%20trasporto%20dei%20passeggieri.%20098U0454.md), contenente modifiche al regolamento approvato con [R. D. 20 maggio 1897, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-05-20;178), circa le condizioni speciali delle navi addette al trasporto dei passeggeri; 
+ - il [R. D. 19 ottobre 1898, n. 454](Modificante%20alcuni%20articoli%20del%20Regolamento%20che%20stabilisce%20le%20condizioni%20speciali%20richieste%20nelle%20addette%20al%20trasporto%20dei%20passeggieri.%20098U0454.md), contenente modifiche al regolamento approvato con [R. D. 20 maggio 1897, n. 178](../Regi%20decreti/Che%20approva%20il%20Regolamento%20che%20stabilisce%20le%20condizioni%20speciali%20richieste%20nelle%20navi%20addette%20al%20trasporto%20dei%20passeggieri.%20097U0178.md), circa le condizioni speciali delle navi addette al trasporto dei passeggeri; 
  
  - il [R. D. 14 dicembre 1899, n. 476](Che%20approva%20il%20Regolamento%20per%20il%20servizio%20dei%20pompieri%20e%20per%20il%20materiale%20destinato%20alla%20estinzione%20degli%20incendii%20nei%20Regi%20arsenali%20e%20stabilimenti%20militari%20marittimi.%20099U0476.md), che stabilisce la dotazione di linfa vaccinica per i piroscafi addetti al trasporto dei passeggieri in viaggio di lunga navigazione; 
  
- - il [R. D. 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45), che approva il regolamento per l'esecuzione della legge sulla tutela dell'igiene e della sanita' pubblica; 
+ - il [R. D. 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md), che approva il regolamento per l'esecuzione della legge sulla tutela dell'igiene e della sanita' pubblica; 
  
  - il [R. D. 5 novembre 1903, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-11-05;431), che approva il regolamento per l'esecuzione della [legge 21 luglio 1902, n. 427](Sulla%20prevenzione%20e%20cura%20della%20pellagra.%20002U0427.md), per la prevenzione e la cura della pellagra; 
  
- - il [R. D. 3 giugno 1904, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-06-03;369), contenente modifiche al regolamento per l'esecuzione della legge sulla tutela dell'igiene e della sanita' pubblica, approvato con [R. D. 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45); 
+ - il [R. D. 3 giugno 1904, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-06-03;369), contenente modifiche al regolamento per l'esecuzione della legge sulla tutela dell'igiene e della sanita' pubblica, approvato con [R. D. 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md); 
  
  - il [R. D. 18 giugno 1905, n. 407](Approvazione%20e%20pubblicazione%20del%20regolamento%20per%20la%20vendita%20dei%20vaccini%20virus%20sieri%20curativi%20tossine%20e%20ogni%20altro%20prodotto%20affine.%20005U0407.md), che approva il regolamento per l'esecuzione della [legge 8 luglio 1904, n. 360](Sulla%20fabbricazione%20e%20vendita%20di%20vaccini%20virus%20sieri%20tossine%20e%20prodotti%20affini.%20004U0360.md), sulla fabbricazione e vendita di sieri, vaccini, virus, tossine e prodotti affini; 
  
@@ -71,9 +71,9 @@ D. 11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato
  
  - il R. D. 29 marzo 1908, che approva il regolamento generale per l'esecuzione della [legge 16 giugno 1907, n. 337](Norme%20e%20disposizioni%20sulla%20risicoltura.%20007U0337.md), sulla risicoltura; 
  
- - il [R. D. 7 luglio 1910, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-07;573), contenente modifiche al regolamento per la sanita' marittima 29 settembre 1895, n. 636, per la parte non pubblicata in base al [R. D. 11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;167); 
+ - il [R. D. 7 luglio 1910, n. 573](../Regi%20decreti/Che%20sostituisce%20le%20disposizioni%20contenute%20in%20vari%20articoli%20del%20regolamento%20sulla%20sanita%20marittima.%20010U0573.md), contenente modifiche al regolamento per la sanita' marittima 29 settembre 1895, n. 636, per la parte non pubblicata in base al [R. D. 11 gennaio 1923, n. 167](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20vigente%20regolamento%20sulla%20sanita%20marittima.%20023U0167.md); 
  
- - la [legge 17 luglio 1910, n. 487](Modificazione%20degli%20articoli%2098%2099%20e%20108%20del%20testo%20unico%20della%20legge%20sanitaria%201º%20agosto%201907%20n.%20636%20risicoltura.%20010U0487.md), portante modifiche agli [articoli 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_88), [99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99) e [108 del T. U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_108); 
+ - la [legge 17 luglio 1910, n. 487](Modificazione%20degli%20articoli%2098%2099%20e%20108%20del%20testo%20unico%20della%20legge%20sanitaria%201º%20agosto%201907%20n.%20636%20risicoltura.%20010U0487.md), portante modifiche agli [articoli 88](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [99](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [108 del T. U. delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
  
  - il [R. D. 5 gennaio 1911, n. 41](Che%20approva%20lannesso%20regolamento%20speciale%20per%20lelezione%20la%20nomina%20e%20la%20funzione%20delle%20Commissioni%20di%20conciliazione%20per%20le%20controversie%20relative%20al%20contratto%20di%20lavoro%20nelle%20risaie.%20011U0041.md), che approva il regolamento speciale per l'elezione, la nomina e la funzione delle Commissioni di conciliazione per le controversie relative al contratto di lavoro nelle risaie; 
  
@@ -85,7 +85,7 @@ D. 11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato
  
  - la [legge 12 maggio 1913, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-05-12;468), sull'esercizio delle farmacie; 
  
- - il [R. D. 25 luglio 1913, n. 998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-25;998), che approva il disciplinare contenente disposizioni per assicurare il buon governo igienico nei cantieri delle opere pubbliche e specialmente per i grandi lavori in galleria; 
+ - il [R. D. 25 luglio 1913, n. 998](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20unite%20norme%20per%20assicurare%20il%20buon%20governo%20igienico%20nei%20cantieri%20delle%20grandi%20opere%20pubbliche.%20013U0998.md), che approva il disciplinare contenente disposizioni per assicurare il buon governo igienico nei cantieri delle opere pubbliche e specialmente per i grandi lavori in galleria; 
  
  - il R. D. 5 marzo l914, n. 20172, che istituisce una Commissione centrale permanente per le ricompense ai benemeriti della salute pubblica; 
  
@@ -166,7 +166,7 @@ D. 29 maggio 1898, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:r
  
  - il decreto del Ministro dell'interno in data 13 maggio 1921, che approvai la tabella dei laboratori ai quali pessimo essere affidate le analisi sulle acque minerali, di cui agli articoli 56 e 11 del citato regolamento, e i successivi decreti ministeriali di modifica del 3 luglio 1922 e 10 gennaio 1923; 
  
- - il Decreto del Ministro dell'interno in data 25 aprile 1922, che comprende i composti arsenobenzolici fra i prodotti affini ai vaccini, virus, sieri curativi e tossine, contemplati all'[articolo 132 del Testo Unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_132) 1° agosto 1907, n. 636; 
+ - il Decreto del Ministro dell'interno in data 25 aprile 1922, che comprende i composti arsenobenzolici fra i prodotti affini ai vaccini, virus, sieri curativi e tossine, contemplati all'[articolo 132 del Testo Unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636; 
  
  - le ordinanze di sanita' marittima e di polizia veterinaria, che sono attualmente in vigore nelle antiche provincie del Regno.
 
@@ -309,7 +309,7 @@ Le disposizioni dell'[articolo 12, terzo](Recante%20disposizioni%20sulla%20autor
 
 ## Art. 22.
 
-Nulla e' innovato, fino a nuovi provvedimenti legislativi, alle disposizioni in atto vigenti nei territori annessi circa la destinazione delle tasse pel conferimento di concessione di farmacie e delle pene pecuniarie per contravvenzioni alle disposizioni sull'esercizio delle farmacie contemplate dalla [legge 22 maggio 1918, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-05-22;463), e dal [Testo Unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1. agosto 1907, n 636.
+Nulla e' innovato, fino a nuovi provvedimenti legislativi, alle disposizioni in atto vigenti nei territori annessi circa la destinazione delle tasse pel conferimento di concessione di farmacie e delle pene pecuniarie per contravvenzioni alle disposizioni sull'esercizio delle farmacie contemplate dalla [legge 22 maggio 1918, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-05-22;463), e dal [Testo Unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1. agosto 1907, n 636.
 
 ## Art. 23.
 

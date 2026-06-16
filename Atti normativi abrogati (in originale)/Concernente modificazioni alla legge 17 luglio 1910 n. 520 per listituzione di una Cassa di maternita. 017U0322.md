@@ -50,7 +50,7 @@ L'[art. 2 della legge 17 luglio 1910, n. 520](Per%20la%20istituzione%20di%20una%
 
 La prima parte dell'[art. 3 della legge 17 luglio 1910, n. 520](Per%20la%20istituzione%20di%20una%20Cassa%20di%20maternita.%20010U0520.md), e' cosi' modificata: 
  
- «Art. 3. - La Cassa corrisponde ad ogni operaia in occasione di parto o di aborto un sussidio di L. 40 alle condizioni che saranno determinate nel regolamento e fatta eccezione per il procurato aborto, preveduto nell'[art. 381 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per il quale il sussidio non e' dovuto: lo Stato rimborsa alla Cassa per ciascun parto o aborto sussidiato la quota di L. 12».
+ «Art. 3. - La Cassa corrisponde ad ogni operaia in occasione di parto o di aborto un sussidio di L. 40 alle condizioni che saranno determinate nel regolamento e fatta eccezione per il procurato aborto, preveduto nell'[art. 381 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per il quale il sussidio non e' dovuto: lo Stato rimborsa alla Cassa per ciascun parto o aborto sussidiato la quota di L. 12».
 
 ## Art. 3.
 

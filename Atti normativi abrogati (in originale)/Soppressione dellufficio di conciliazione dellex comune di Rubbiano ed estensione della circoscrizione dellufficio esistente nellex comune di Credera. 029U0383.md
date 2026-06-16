@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 7 giugno 1928, n. 1518](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-07;1518), col quale i comuni di Credera e di Rubbiano venivano riuniti in un solo Comune denominato Credera-Rubbiano, con capoluogo Credera; 
+ Visto il [R. decreto 7 giugno 1928, n. 1518](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Credera%20e%20Rubbiano%20in%20un%20unico%20Comune%20denominato%20Credera-Rubbiano%20con%20capoluogo%20Credera.%20028U1518.md), col quale i comuni di Credera e di Rubbiano venivano riuniti in un solo Comune denominato Credera-Rubbiano, con capoluogo Credera; 
  
  Vista la deliberazione del podesta' di detto Comune, con la quale si chiede che per tutto il territorio del comune di Credera-Rubbiano funzioni un solo ufficio di conciliazione; 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Allo statuto organico deliberato dal consiglio comunale di Sarzana per l'opera pia Fenucci, con la precitata deliberazione e' aggiunto il seguente articolo col numero d'ordine 26: «Per tuttocio' che non e' contemplato nel presente statuto organico si osserveranno le norme prescritte dalla [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), e dai relativi regolamenti approvati col [regio decreto 5 febbraio 1891, numero 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-05;99)».
+Allo statuto organico deliberato dal consiglio comunale di Sarzana per l'opera pia Fenucci, con la precitata deliberazione e' aggiunto il seguente articolo col numero d'ordine 26: «Per tuttocio' che non e' contemplato nel presente statuto organico si osserveranno le norme prescritte dalla [legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), e dai relativi regolamenti approvati col [regio decreto 5 febbraio 1891, numero 99](../Regi%20decreti/Che%20approva%20gli%20uniti%20regolamenti%20per%20la%20esecuzione%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20beneficenza.%20091U0099.md)».
 
 ## Art. 2.
 

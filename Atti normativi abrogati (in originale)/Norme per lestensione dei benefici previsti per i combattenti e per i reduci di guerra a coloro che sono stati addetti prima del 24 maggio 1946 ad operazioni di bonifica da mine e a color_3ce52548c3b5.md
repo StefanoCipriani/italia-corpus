@@ -48,7 +48,7 @@ Le Direzioni dei lavori del genio e le Direzioni di artiglieria accerteranno se 
 
 ## Art. 4.
 
-Agli sminatori dei campi minati ed ai rastrellatori di ordigni esplosivi diversi dalle mine, di cui al [terzo comma dell'art. 2 del decreto legislativo 1 novembre 1947, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-01;1815#art_2-com3), si applicano, per la concessione del distintivo d'onore per i mutilati ed invalidi di guerra, le norme dell'Istruzione per l'esecuzione del [regio decreto 21 maggio 1916, n. 640](Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), approvate con il decreto Ministeriale 6 novembre 1916.
+Agli sminatori dei campi minati ed ai rastrellatori di ordigni esplosivi diversi dalle mine, di cui al [terzo comma dell'art. 2 del decreto legislativo 1 novembre 1947, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-11-01;1815#art_2-com3), si applicano, per la concessione del distintivo d'onore per i mutilati ed invalidi di guerra, le norme dell'Istruzione per l'esecuzione del [regio decreto 21 maggio 1916, n. 640](../Regi%20decreti/Col%20quale%20viene%20istituito%20uno%20speciale%20distintivo%20donore%20per%20i%20mutilati%20nellattuale%20guerra.%20016U0640.md), approvate con il decreto Ministeriale 6 novembre 1916.
 
 ## Art. 5.
 

@@ -64,7 +64,7 @@ Chiunque fabbrichi, commerci, esponga in vendita o detenga nei magazzini o negoz
 
 ## Art. 7.
 
-Le contraffazioni ai marchi dei banchi di prova saranno punite a' sensi dell'[art. 266 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Le contraffazioni ai marchi dei banchi di prova saranno punite a' sensi dell'[art. 266 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 

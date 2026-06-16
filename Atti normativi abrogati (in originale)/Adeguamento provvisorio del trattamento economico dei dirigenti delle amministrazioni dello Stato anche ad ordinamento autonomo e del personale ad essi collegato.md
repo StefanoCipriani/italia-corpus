@@ -45,12 +45,12 @@ L'importo complessivo relativo a detti benefici si aggiunge allo stipendio inizi
 ## Art. 4.
 
 Nei casi di promozione o di nomina alla qualifica superiore del personale di cui ai precedenti articoli 2 e 3, lo stipendio iniziale spettante nella nuova posizione e incrementato della meta' dell'importo acquisito per classi o aumenti periodici derivanti dalla progressione economica relativa alla sola anzianita' di servizio effettivamente prestato nella qualifica di provenienza.
- Per il personale militare, in caso di promozione a colonnello o grado superiore, se piu' favorevole, continua ad applicarsi la norma di cui all'[articolo 156 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni ed integrazioni.
+ Per il personale militare, in caso di promozione a colonnello o grado superiore, se piu' favorevole, continua ad applicarsi la norma di cui all'[articolo 156 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni ed integrazioni.
  Si applica l'ultimo comma del precedente articolo 2.
 
 ## Art. 5.
 
-Le nuove misure degli stipendi di cui al presente decreto-legge hanno effetto sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sull'equo indennizzo, sull'indennita' di buonuscita e di licenziamento, sull'assegno alimentare previsto dall'[articolo 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), o da disposizioni analoghe, sulle ritenute previdenziali ed assistenziali e relativi contributi, compresa la ritenuta in conto entrate tesoro o altre analoghe, ed i contributi di riscatto.
+Le nuove misure degli stipendi di cui al presente decreto-legge hanno effetto sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sull'equo indennizzo, sull'indennita' di buonuscita e di licenziamento, sull'assegno alimentare previsto dall'[articolo 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), o da disposizioni analoghe, sulle ritenute previdenziali ed assistenziali e relativi contributi, compresa la ritenuta in conto entrate tesoro o altre analoghe, ed i contributi di riscatto.
 
 ## Art. 6.
 

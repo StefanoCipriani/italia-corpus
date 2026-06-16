@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto-legge 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-14;1281), e successive modificazioni;
 
-Visto il [R. decreto 10 settembre 1923, n. 2115](Trattamento%20di%20rafferma%20per%20la%20R.%20guardia%20di%20finanza.%20023U2115.md);
+Visto il [R. decreto 10 settembre 1923, n. 2115](../Regi%20decreti/Trattamento%20di%20rafferma%20per%20la%20R.%20guardia%20di%20finanza.%20023U2115.md);
 
 Visto il [R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), convertito nella [legge 15 dicembre 1927, n. 2329](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20282%20riguardante%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U2329.md);
 

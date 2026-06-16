@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Le disposizioni contenute nel [terzo comma dell'articolo 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11-com3), sulla composizione dei Consigli di amministrazione, e nel secondo comma dell'art. 68 dello stesso decreto, sulla composizione delle Commissioni di disciplina, presso i Ministeri, in caso di assenza o di impedimento dei direttori generali e dei funzionari dei gradi equiparati, si intendono applicabili anche nel caso di vacanza dei relativi posti. 
+Le disposizioni contenute nel [terzo comma dell'articolo 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sulla composizione dei Consigli di amministrazione, e nel secondo comma dell'art. 68 dello stesso decreto, sulla composizione delle Commissioni di disciplina, presso i Ministeri, in caso di assenza o di impedimento dei direttori generali e dei funzionari dei gradi equiparati, si intendono applicabili anche nel caso di vacanza dei relativi posti. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

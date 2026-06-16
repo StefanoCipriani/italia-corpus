@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1923, n. 3173](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), che autorizza il Commissario per i servizi della marina mercantile a determinare l'ordinamento definitivo dei servizi postali e commerciali marittimi sovvenzionati e ad affidare l'esercizio dei servizi medesimi all'industria privata anche a licitazione o trattativa privata;
+Visto il [R. decreto 31 dicembre 1923, n. 3173](../Regi%20decreti/Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), che autorizza il Commissario per i servizi della marina mercantile a determinare l'ordinamento definitivo dei servizi postali e commerciali marittimi sovvenzionati e ad affidare l'esercizio dei servizi medesimi all'industria privata anche a licitazione o trattativa privata;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3223](Concessione%20dei%20servizi%20di%20navigazione%20fra%20le%20isole%20ed%20il%20continente.%20023U3223.md), che autorizza il Ministro per i lavori pubblici a determinare l'ordinamento definitivo dei servizi postali marittimi fra le isole e il continente:
+Visto il [R. decreto 31 dicembre 1923, n. 3223](../Regi%20decreti/Concessione%20dei%20servizi%20di%20navigazione%20fra%20le%20isole%20ed%20il%20continente.%20023U3223.md), che autorizza il Ministro per i lavori pubblici a determinare l'ordinamento definitivo dei servizi postali marittimi fra le isole e il continente:
 
 Civitavecchia-Terranova; Terranova-Golfo Aranci-Maddalena;
 
@@ -58,7 +58,7 @@ Gli assuntori, che vogliano essere autorizzati a cedere la sovvenzione, dovranno
 
 L'autorizzazione di massima, di cui all'art. 1, constera' da decreto dei Ministri per le comunicazioni e per le finanze, nel quale, oltre agli elementi essenziali della convenzione stipulata con l'assuntore di servizi marittimi richiedente l'autorizzazione, sara' indicato l'ammontare massimo della sovvenzione che egli puo' cedere entro i limiti e con le garanzie stabilite dal presente decreto. 
  
- La cessione della sovvenzione dovra' dall'assuntore esser fatta e notificata in conformita' di quanto e' stabilito dall'[articolo 69, primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_69-com1) e [terzo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_69-com3), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. 
+ La cessione della sovvenzione dovra' dall'assuntore esser fatta e notificata in conformita' di quanto e' stabilito dall'[articolo 69, primo](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [terzo comma, del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. 
  
  La cessione effettiva delle quote di sovvenzione dovra' essere riconosciuta ed accettata di volta in volta mediante apposito decreto dei Ministri per le comunicazioni e per le finanze, portante il vincolo definitivo in favore dell'istituto cessionario e cio' dopo l'accertamento delle garanzie indicate all'art. 2.
 

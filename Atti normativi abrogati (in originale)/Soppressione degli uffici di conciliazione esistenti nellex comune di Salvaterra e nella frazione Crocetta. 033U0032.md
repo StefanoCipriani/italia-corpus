@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 19 febbraio 1928, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-19;481), col quale i comuni di Salvaterra e Villa d'Adige, nonche' la frazione Crocetta del comune omonimo, sono stati aggregati al comune di Badia Polesine; 
+ Visto il [R. decreto 19 febbraio 1928, n. 481](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Salvaterra%20e%20Villa%20dAdige%20nonche%20della%20frazione%20Crocetta%20del%20Comune%20omonimo%20al%20comune%20di%20Badia%20Polesine%20ed%20aggregazione%20della%20frazione%20Pissatola%20del%20comune%20di%20C_c08e878a6a8e.md), col quale i comuni di Salvaterra e Villa d'Adige, nonche' la frazione Crocetta del comune omonimo, sono stati aggregati al comune di Badia Polesine; 
  
  Vista la deliberazione del podesta' del detto comune di Badia Polesine, con la quale si chiede la soppressione degli uffici di conciliazione dell'ex comune di Salvaterra e della frazione Crocetta; 
  

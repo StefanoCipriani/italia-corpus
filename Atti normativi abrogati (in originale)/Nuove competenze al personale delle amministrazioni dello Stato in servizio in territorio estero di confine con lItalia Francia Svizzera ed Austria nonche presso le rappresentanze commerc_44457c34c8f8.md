@@ -43,7 +43,7 @@ A decorrere dal 1° gennaio 1977, al personale della amministrazione autonoma de
 
 ## Art. 6.
 
-I benefici corrisposti fino alla data dell'entrata in vigore della presente legge per il servizio prestato all'estero da parte del personale di cui ai precedenti articoli 1 e 5, ai sensi delle disposizioni contenute nella [legge 28 luglio 1961, n. 722](Determinazione%20delle%20competenze%20al%20personale%20delle%20Amministrazioni%20dello%20Stato%20in%20servizio%20in%20territorio%20estero%20di%20confine%20con%20lItalia%20Francia%20Svizzera%20ed%20Austria.md) e del [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), vanno recuperati rispettivamente sull'assegno di confine e sulla indennita' di sede dovuta per lo stesso periodo.
+I benefici corrisposti fino alla data dell'entrata in vigore della presente legge per il servizio prestato all'estero da parte del personale di cui ai precedenti articoli 1 e 5, ai sensi delle disposizioni contenute nella [legge 28 luglio 1961, n. 722](Determinazione%20delle%20competenze%20al%20personale%20delle%20Amministrazioni%20dello%20Stato%20in%20servizio%20in%20territorio%20estero%20di%20confine%20con%20lItalia%20Francia%20Svizzera%20ed%20Austria.md) e del [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), vanno recuperati rispettivamente sull'assegno di confine e sulla indennita' di sede dovuta per lo stesso periodo.
 
 ## Art. 7.
 

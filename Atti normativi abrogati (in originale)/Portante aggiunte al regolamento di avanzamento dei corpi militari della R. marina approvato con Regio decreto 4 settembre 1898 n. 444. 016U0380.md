@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al paragrafo 2° del regolamento per l'avanzamento dei corpi militari della R. marina, approvato con [Regio decreto 4 settembre 1898, n. 444](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md), e' aggiunto: 
+Al paragrafo 2° del regolamento per l'avanzamento dei corpi militari della R. marina, approvato con [Regio decreto 4 settembre 1898, n. 444](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%206%20marzo%201898%20n.%2059%20sullavanzamento%20nei%20Corpi%20militari%20della%20R.%20Marina.%20098U0444.md), e' aggiunto: 
  
  CAPO VI. 
  
@@ -22,7 +22,7 @@ Al paragrafo 2° del regolamento per l'avanzamento dei corpi militari della R. m
  
  I volontari di un anno che in relazione alle disposizioni emanate col decreto Ministeriale in data 7 gennaio 1913 sono inscritti nei ruoli all'atto del loro licenziamento dalle armi col grado di 2° capo, non potranno ottenere la promozione prevista dal 1° comma del presente articolo. 
  
- Tutti i militari in congedo muniti della patente di capitano marittimo, macchinista navale, costruttore navale, potranno pero' sempre conseguire il grado di capo di 2ª classe in virtu' del [R. decreto n. 1247 del 24 settembre 1914](Da%20convertirsi%20in%20legge%20relativo%20alla%20abilitazione%20al%20grado%20di%20capo%20di%202ª%20classe%20ai%20militari%20del%20corpo%20R.%20equipaggi%20in%20congedo%20che%20si%20trovino%20in%20possesso%20di%20speciali%20titoli%20di%20studio.%20014U1247.md), anche se avessero ottenuta la promozione prevista dal 1° comma del presente articolo. 
+ Tutti i militari in congedo muniti della patente di capitano marittimo, macchinista navale, costruttore navale, potranno pero' sempre conseguire il grado di capo di 2ª classe in virtu' del [R. decreto n. 1247 del 24 settembre 1914](../Regi%20decreti/Da%20convertirsi%20in%20legge%20relativo%20alla%20abilitazione%20al%20grado%20di%20capo%20di%202ª%20classe%20ai%20militari%20del%20corpo%20R.%20equipaggi%20in%20congedo%20che%20si%20trovino%20in%20possesso%20di%20speciali%20titoli%20di%20studio.%20014U1247.md), anche se avessero ottenuta la promozione prevista dal 1° comma del presente articolo. 
  
  Art. 50.-ter. - Ogni anno il Ministero determina e notifica per ciascun grado, categoria e specialita' il limite di anzianita' dei militari in congedo da sottoporsi allo scrutinio. 
  

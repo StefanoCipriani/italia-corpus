@@ -16,13 +16,13 @@ RE D'ITALIA
 
 In virtu' della delegazione dei poteri conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Visto il [R. decreto 9 ottobre 1921, n. 1473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-09;1473), arrecante variazioni ad alcune disposizioni di carattere economico e finanziario del regolamento pel servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto il [R. decreto 9 ottobre 1921, n. 1473](../Regi%20decreti/Che%20apporta%20variazioni%20ad%20alcune%20disposizioni%20di%20carattere%20economico%20e%20finanziario%20del%20regolamento%20pel%20servizio%20metrico%20approvato%20con%20Regio%20decreto%2031%20gennaio%201909%20n.%20242.%20021U1473.md), arrecante variazioni ad alcune disposizioni di carattere economico e finanziario del regolamento pel servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
-Visto il testo unico delle leggi metriche approvate con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi metriche approvate con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
-Visto il regolamento per il servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242);
+Visto il regolamento per il servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md);
 
-Visti i [Regi decreti 4 aprile 1912, n. 402](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-04-04;402) e [10 dicembre 1914, n. 1385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-10;1385), che modificano il regolamento predetto;
+Visti i [Regi decreti 4 aprile 1912, n. 402](../Regi%20decreti/Col%20quale%20viene%20modificato%20il%20regolamento%20sul%20servizio%20metrico%20approvato%20con%20R.%20decreto%2031%20gennaio%201909%20n.%20242.%20012U0402.md) e [10 dicembre 1914, n. 1385](../Regi%20decreti/Col%20quale%20viene%20modificato%20il%20regolamento%20del%20servizio%20metrico.%20014U1385.md), che modificano il regolamento predetto;
 
 Visto il [R. decreto 11 gennaio 1923, n. 221](Che%20proroga%20gli%20effetti%20delle%20variazioni%20a%20talune%20disposizioni%20di%20carattere%20economico%20e%20finanziario%20del%20regolamento%20sul%20servizio%20metrico.%20023U0221.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Salvo quanto e' disposto dal successivo art. 2, gli effetti delle disposizioni contenute negli articoli 55, 136, 139, 139-bis e 139-ter del regolamento per il servizio metrico di cui all'art. 1° del [R. decreto 9 ottobre 1921, n. 1473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-09;1473), gia' prorogati fino a tutto l'anno 1923, sono estesi fino a tutto il 31 dicembre 1924, restando abrogate le disposizioni contrarie contenute nell'art. 2 del decreto stesso.
+Salvo quanto e' disposto dal successivo art. 2, gli effetti delle disposizioni contenute negli articoli 55, 136, 139, 139-bis e 139-ter del regolamento per il servizio metrico di cui all'art. 1° del [R. decreto 9 ottobre 1921, n. 1473](../Regi%20decreti/Che%20apporta%20variazioni%20ad%20alcune%20disposizioni%20di%20carattere%20economico%20e%20finanziario%20del%20regolamento%20pel%20servizio%20metrico%20approvato%20con%20Regio%20decreto%2031%20gennaio%201909%20n.%20242.%20021U1473.md), gia' prorogati fino a tutto l'anno 1923, sono estesi fino a tutto il 31 dicembre 1924, restando abrogate le disposizioni contrarie contenute nell'art. 2 del decreto stesso.
 
 ## Art. 2.
 

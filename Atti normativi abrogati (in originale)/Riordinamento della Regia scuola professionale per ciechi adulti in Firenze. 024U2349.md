@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA DELLA NAZIONE
 
 RE D'ITALIA.
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), sul riordinamento dell'insegnamento industriale;
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sul riordinamento dell'insegnamento industriale;
 
 Visto il [R. decreto 24 gennaio 1914, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-24;179), concernente l'istruzione professionale nelle scuole annesse agli istituti di ricovero e di patronato dei ciechi:
 

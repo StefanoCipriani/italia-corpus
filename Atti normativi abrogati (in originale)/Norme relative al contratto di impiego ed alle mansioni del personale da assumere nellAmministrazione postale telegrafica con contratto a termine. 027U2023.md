@@ -46,7 +46,7 @@ Gli impiegati ausiliari saranno applicati a tutti i servizi attivi esecutivi e d
 
 ## Art. 5.
 
-Per partecipare ai concorsi che saranno banditi per impiegato od agente subalterno ausiliario, oltre a soddisfare alle condizioni stabilite dal [R. decreto 15 agosto 1926, numero 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), i concorrenti dovranno possedere il diploma di licenza di scuola media inferiore od alcuno dei corrispondenti diplomi ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), oppure la licenza di scuola complementare o di scuola professionale di 2° grado, se aspiranti ai posti di impiegato ausiliario, e la licenza di scuola elementare se aspiranti ai posti di agente subalterno ausiliario.
+Per partecipare ai concorsi che saranno banditi per impiegato od agente subalterno ausiliario, oltre a soddisfare alle condizioni stabilite dal [R. decreto 15 agosto 1926, numero 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), i concorrenti dovranno possedere il diploma di licenza di scuola media inferiore od alcuno dei corrispondenti diplomi ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), oppure la licenza di scuola complementare o di scuola professionale di 2° grado, se aspiranti ai posti di impiegato ausiliario, e la licenza di scuola elementare se aspiranti ai posti di agente subalterno ausiliario.
 
 ## Art. 6.
 

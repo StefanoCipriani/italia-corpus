@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'istruzione elementare approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md);
+Visto il testo unico delle leggi sull'istruzione elementare approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-In deroga alla disposizione di cui al 1° comma dell'art. 37 del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 22 gennaio 1925, n. 432](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), il comune di Napoli e' autorizzato a nominare direttrice dell'asilo infantile di quella citta', intitolato al valoroso capitano Aurelio Padovani, la signora Ida Archinard, vedova Padovani, col trattamento economico e giuridico del personale insegnante di quelle scuole elementari e con decorrenza dal 1° ottobre 1926.
+In deroga alla disposizione di cui al 1° comma dell'art. 37 del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 22 gennaio 1925, n. 432](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20dintegrazione.%20025U0432.md), il comune di Napoli e' autorizzato a nominare direttrice dell'asilo infantile di quella citta', intitolato al valoroso capitano Aurelio Padovani, la signora Ida Archinard, vedova Padovani, col trattamento economico e giuridico del personale insegnante di quelle scuole elementari e con decorrenza dal 1° ottobre 1926.
 
 ## Art. 2.
 

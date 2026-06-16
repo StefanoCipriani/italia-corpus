@@ -28,7 +28,7 @@ Ai territori annessi al Regno in virtu' delle [leggi 26 settembre 1920, n. 1332 
  
  2. i titoli I e II art. 1 a 19; 21 a 36; 37 a 67; 69 a 130 del Regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato col [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md) (Serie 3ª); 
  
- 3. la [legge 24 dicembre 1908, n. 783](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;783), con le modificazioni apportatevi dal [Decreto legge luogotenenziale 26 gennaio 1919, n. 123](che%20modifica%20la%20legge%2021%20dicembre%201908%20n.783%20riguardante%20lalienazione%20e%20lamministrazione%20dei%20beni%20patrimoniali%20dello%20Stato.%20019U0123.md), ed il relativo regolamento approvato col [R. decreto 17 giugno 1909, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-06-17;454).
+ 3. la [legge 24 dicembre 1908, n. 783](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;783), con le modificazioni apportatevi dal [Decreto legge luogotenenziale 26 gennaio 1919, n. 123](che%20modifica%20la%20legge%2021%20dicembre%201908%20n.783%20riguardante%20lalienazione%20e%20lamministrazione%20dei%20beni%20patrimoniali%20dello%20Stato.%20019U0123.md), ed il relativo regolamento approvato col [R. decreto 17 giugno 1909, n. 454](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20unificazione%20dei%20sistemi%20di%20alienazione%20e%20di%20amministrazione%20dei%20beni%20immobili%20patrimoniali%20dello%20Stato.%20009U0454.md).
 
 ## Art. 2.
 

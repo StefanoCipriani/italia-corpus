@@ -24,7 +24,7 @@ UMBERTO I
  
  Agli articoli 21 e 31 della legge sugli ufficiali ed agenti di Pubblica Sicurezza, modificati da quella del 31 marzo 1892, n. 173, sono sostituiti i seguenti: 
  
- Articolo 28. E' punita secondo il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e dai Tribunali militari: 
+ Articolo 28. E' punita secondo il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e dai Tribunali militari: 
  
  1° La diserzione qualificata cioe', con asportazione d'arma da fuoco del Corpo; 
  

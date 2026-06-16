@@ -32,7 +32,7 @@ Il concorso prescritto dal n° 2 dell'articolo 18 della Legge sull'Ordinamento g
  
  3° [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e di Procedura civile; 
  
- 4° [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di Procedura penale; 
+ 4° [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di Procedura penale; 
  
  5° Codice di commercio ed Ordinamento giudiziario. 
  

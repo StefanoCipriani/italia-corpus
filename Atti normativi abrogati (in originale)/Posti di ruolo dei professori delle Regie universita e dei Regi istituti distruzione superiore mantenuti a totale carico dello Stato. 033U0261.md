@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 giugno 1932, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-02;690);
+Visto il [R. decreto 2 giugno 1932, n. 690](../Regi%20decreti/Nuove%20tabelle%20organiche%20per%20lAmministrazione%20delleducazione%20nazionale.%20032U0690.md);
 
 Su proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 

@@ -24,19 +24,19 @@ Su proposta del Capo del Governo e del Ministro Segretario di Stato per le finan
 
 ## Art. 1.
 
-Sono esenti dalla sopratassa comminata dall'[art. 15 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_15), i contribuenti che non abbiano adempiuto all'obbligo di presentare la dichiarazione ai fini dell'applicazione delle imposte dirette ed ai quali non sia stato ancora notificato alcun accertamento d'ufficio, a condizione ch'essi presentino la dichiarazione stessa entro il termine di sessanta giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno. 
+Sono esenti dalla sopratassa comminata dall'[art. 15 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), i contribuenti che non abbiano adempiuto all'obbligo di presentare la dichiarazione ai fini dell'applicazione delle imposte dirette ed ai quali non sia stato ancora notificato alcun accertamento d'ufficio, a condizione ch'essi presentino la dichiarazione stessa entro il termine di sessanta giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno. 
  
- Sono del pari esenti dalla sopratassa comminata dall'[articolo 16 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_16), i contribuenti che abbiano presentata dichiarazione inesatta ed ai quali non sia stata ancora notificata alcuna rettifica d'ufficio, a condizione ch'essi completino la precedente dichiarazione entro il termine stabilito dal comma precedente. 
+ Sono del pari esenti dalla sopratassa comminata dall'[articolo 16 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), i contribuenti che abbiano presentata dichiarazione inesatta ed ai quali non sia stata ancora notificata alcuna rettifica d'ufficio, a condizione ch'essi completino la precedente dichiarazione entro il termine stabilito dal comma precedente. 
  
  Sono inoltre condonate, quando siano incorse prima della data del presente decreto: 
  
- a) la pena pecuniaria da lire 50 a lire 150 comminata dall'[art. 21 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_21), per i funzionari dello Stato, delle Provincie e dei Comuni che non abbiano adempiuto all'obbligo delle prescritte comunicazioni agli Uffici delle imposte; 
+ a) la pena pecuniaria da lire 50 a lire 150 comminata dall'[art. 21 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per i funzionari dello Stato, delle Provincie e dei Comuni che non abbiano adempiuto all'obbligo delle prescritte comunicazioni agli Uffici delle imposte; 
  
- b) la pena pecuniaria da lire 25 a lire 75, comminata dall'[art. 22 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_22), per chi, invitato a presentarsi all'Ufficio delle imposte, non abbia aderito all'invito.
+ b) la pena pecuniaria da lire 25 a lire 75, comminata dall'[art. 22 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per chi, invitato a presentarsi all'Ufficio delle imposte, non abbia aderito all'invito.
 
 ## Art. 2.
 
-Non si fa luogo all'applicazione delle sanzioni stabilite dagli articoli 25 e 26 del testo approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), in confronto dei contribuenti morosi che entro il termine di giorni centoventi dalla pubblicazione del presente decreto soddisfacciano per intero il debito di imposta.
+Non si fa luogo all'applicazione delle sanzioni stabilite dagli articoli 25 e 26 del testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), in confronto dei contribuenti morosi che entro il termine di giorni centoventi dalla pubblicazione del presente decreto soddisfacciano per intero il debito di imposta.
 
 ## Art. 3.
 
@@ -78,7 +78,7 @@ Restano in vigore le dilazioni gia' stipulate per il pagamento di tasse, soprata
 
 ## Art. 5.
 
-Sono esenti dal pagamento delle pene pecuniarie coloro che, anteriormente alla data del presente decreto, siano incorsi in violazioni agli articoli 111, esclusa la lettera e), 112, 113 e 114 del Regolamento per la coltivazione del tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), modificato con [R. decreto 24 novembre 1932, n. 1571](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md).
+Sono esenti dal pagamento delle pene pecuniarie coloro che, anteriormente alla data del presente decreto, siano incorsi in violazioni agli articoli 111, esclusa la lettera e), 112, 113 e 114 del Regolamento per la coltivazione del tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), modificato con [R. decreto 24 novembre 1932, n. 1571](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md).
 
 ## Art. 6.
 

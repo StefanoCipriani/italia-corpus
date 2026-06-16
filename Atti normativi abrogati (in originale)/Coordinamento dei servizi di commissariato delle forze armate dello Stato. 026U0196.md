@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante disposizioni sull'amministrazione del patrimonio e la contabilita' generale dello Stato;
 
 Considerata l'opportunita' di utilizzare l'organizzazione logistica amministrativa delle forze armate dello Stato nel comune interesse delle forze medesime e di unificare i criteri economici e tecnici da osservarsi per le provviste dei generi occorrenti ai servizi di vettovagliamento, vestiario, equipaggiamento, giacitura ed affini;
 

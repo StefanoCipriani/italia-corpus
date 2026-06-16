@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il testo unico di leggi sugli istituti di emissione approvato col [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204); 
+ Visto il testo unico di leggi sugli istituti di emissione approvato col [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md); 
  
  Visto il testo unico delle disposizioni statutarie del Banco di Sicilia, approvato col [R. decreto 14 maggio 1925, numero 818](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20statutarie%20del%20Banco%20di%20Sicilia.%20025U0818.md); 
  

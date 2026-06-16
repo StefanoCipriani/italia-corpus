@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto Luogotenenziale 12 luglio 1945, numero 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-12;417), che ha istituito l'Alto Commissariato per l'igiene e la sanita' pubblica;
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e viste le successive modificazioni;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e viste le successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -36,7 +36,7 @@ All'Alto Commissariato per l'igiene e la sanita' pubblica, istituito con [decret
 
 ## Art. 2.
 
-L'Alto Commissariato per l'igiene e la sanita' pubblica esercita tutte le attribuzioni spettanti al Ministero dell'interno in materia di igiene e sanita' pubblica, ai sensi del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 27 luglio 1934, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1205), e delle altre disposizioni vigenti. 
+L'Alto Commissariato per l'igiene e la sanita' pubblica esercita tutte le attribuzioni spettanti al Ministero dell'interno in materia di igiene e sanita' pubblica, ai sensi del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1205), e delle altre disposizioni vigenti. 
  
  Restano ferme le attribuzioni spettanti ai Prefetti in materia di igiene e sanita' pubblica, i quali, nella materia di competenza dell'Alto Commissario, riferiscono direttamente a questo e sono tenuti ad eseguirne le disposizioni. 
  
@@ -80,7 +80,7 @@ L'Istituto superiore di sanita', nella sua attuale organizzazione, passa alla di
 
 Sono demandate all'Alto Commissariato per l'igiene e la sanita' pubblica i poteri di vigilanza e tutela sull'Associazione italiana della croce rossa attribuiti al Ministero dell'interno ai sensi del [decreto legislativo Luogotenenziale 14 giugno 1945, n. 388](Passaggio%20dellAssociazione%20italiana%20della%20Croce%20Rossa%20alle%20dipendenze%20dei%20Ministeri%20dellinterno%20e%20della%20guerra.%20045U0388.md). 
  
- Sono del pari demandate all'Alto Commissariato per l'igiene e la sanita' pubblica i poteri di vigilanza e di tutela sull'Opera nazionale per la protezione della maternita' e dell'infanzia, attribuiti al [Ministero dell'interno con il R. decreto 24 dicembre 1934, n. 2316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-24;2316) e successive modificazioni, e sull'Istituto di malariologia «E. Marchiafava», gia' attribuiti al Ministero degli affari esteri con R. decreto 7 settembre 1933. n. 1185.
+ Sono del pari demandate all'Alto Commissariato per l'igiene e la sanita' pubblica i poteri di vigilanza e di tutela sull'Opera nazionale per la protezione della maternita' e dell'infanzia, attribuiti al [Ministero dell'interno con il R. decreto 24 dicembre 1934, n. 2316](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md) e successive modificazioni, e sull'Istituto di malariologia «E. Marchiafava», gia' attribuiti al Ministero degli affari esteri con R. decreto 7 settembre 1933. n. 1185.
 
 ## Art. 9.
 
@@ -102,7 +102,7 @@ Presso l'Alto Commissariato ha sede il Consiglio superiore di sanita' ed ogni al
 
 ## Art. 12.
 
-Le spese per il funzionamento dell'Alto Commissariato, dei suoi organi periferici e dell'Istituto superiore di sanita', sono a carico dello stato di previsione della spesa del Ministero del tesoro, « rubrica Presidenza del Consiglio dei Ministri », mediante appositi stanziamenti. Questi sono amministrati, con l'osservanza dello norme sulla contabilita' generale dello Stato, dall'Alto Commissario, al quale, a tali effetti, sono attribuiti i poteri preveduti dall'art. 49 della legge sulla contabilita' generale dello Stato ([R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440)). 
+Le spese per il funzionamento dell'Alto Commissariato, dei suoi organi periferici e dell'Istituto superiore di sanita', sono a carico dello stato di previsione della spesa del Ministero del tesoro, « rubrica Presidenza del Consiglio dei Ministri », mediante appositi stanziamenti. Questi sono amministrati, con l'osservanza dello norme sulla contabilita' generale dello Stato, dall'Alto Commissario, al quale, a tali effetti, sono attribuiti i poteri preveduti dall'art. 49 della legge sulla contabilita' generale dello Stato ([R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md)). 
  
  Agli stanziamenti suddetti sara' provveduto con lo storno dei fondi iscritti nello stato di previsione della spesa del Ministero dell'interno per l'esercizio 1945-46, relativi ai servizi passati alle dipendenze dell'Alto Commissariato. Saranno, altresi', trasferite dallo stato di previsione suddetto le somme iscritte per spese di carattere generale occorrenti per il personale e per il funzionamento dei servizi medesimi. 
  

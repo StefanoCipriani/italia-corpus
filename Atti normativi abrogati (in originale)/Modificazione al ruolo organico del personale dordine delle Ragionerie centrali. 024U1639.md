@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_12) e [15 del R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_15), concernente disposizioni per il funzionamento delle Ragionerie delle Amministrazioni centrali e per il passaggio del relativo personale alla dipendenza del Ministero delle finanze; 
+ Visti gli [articoli 12](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md) e [15 del R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), concernente disposizioni per il funzionamento delle Ragionerie delle Amministrazioni centrali e per il passaggio del relativo personale alla dipendenza del Ministero delle finanze; 
  
  Vista la tabella n. 2 dell'allegato II. al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il ruolo del personale d'ordine delle Ragionerie centrali e' aumentato di posti 27 e sono in corrispondenza diminuiti 16 posti nella tabella C annessa al [R. decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), e 11 posti nel ruolo di cui all'art. 14 del decreto Reale anzidetto. 
+ Il ruolo del personale d'ordine delle Ragionerie centrali e' aumentato di posti 27 e sono in corrispondenza diminuiti 16 posti nella tabella C annessa al [R. decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e 11 posti nel ruolo di cui all'art. 14 del decreto Reale anzidetto. 
  
  Al riparto, nei vari gradi, dei posti aumentati nel rublo del personale d'ordine delle Ragionerie centrali, sara' provveduto con decreto del Ministro per le finanze. 
  

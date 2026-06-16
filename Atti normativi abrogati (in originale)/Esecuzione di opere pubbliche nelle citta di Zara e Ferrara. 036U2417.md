@@ -94,7 +94,7 @@ Per la procedura abbreviata si seguiranno le seguenti norme:
 
 ## Art. 8.
 
-Il comune di Ferrara e' autorizzato ad imporre ai proprietari dei beni che siano avvantaggiati dalla esecuzione delle opere previste dal presente piano di risanamento, contributi di miglioria nei limiti e colle forme previste dal testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
+Il comune di Ferrara e' autorizzato ad imporre ai proprietari dei beni che siano avvantaggiati dalla esecuzione delle opere previste dal presente piano di risanamento, contributi di miglioria nei limiti e colle forme previste dal testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
 
 ## Art. 9.
 

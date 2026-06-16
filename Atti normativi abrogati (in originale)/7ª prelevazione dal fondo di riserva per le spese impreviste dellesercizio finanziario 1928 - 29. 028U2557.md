@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanziario 1928 - 29 sono disponibili L. 31.155,000;
 
@@ -39,7 +39,7 @@ Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 218 dello
  studio degli emendamenti da apportarsi al [codice
  civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), ecc. . . . . . . . . . . . . . . . . . . . . » 50,000- Cap. n. 66 (aggiunto - in conto competenza) - Spese
  pei servizi delle Commissioni incaricate degli
- studi legislativi per la riforma del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md),
+ studi legislativi per la riforma del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md),
  ecc. . . . . . . . . . . . . . . . . . . . . . . . . » 80,000- Cap. n. 67 (aggiunto - in conto competenza) - Spese
  per le Commissioni esaminatrici per l'abilitazione
  alle professioni di avvocato, procuratore e notaio. . L. 20,000- 

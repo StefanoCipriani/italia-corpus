@@ -52,7 +52,7 @@ Al grado di maresciallo potranno essere promossi a scelta assoluta i brigadieri 
 
 ## Art. 3.
 
-E' abrogata la disposizione di cui alla lettera e) dell'articolo 86 del regolamento approvato con [R. decreto 20 ottobre 1932, n. 1554](Approvazione%20del%20regolamento%20per%20la%20Milizia%20nazionale%20della%20strada.%20032U1554.md), concernente il requisito del celibato per la nomina a milite della Milizia nazionale della strada.
+E' abrogata la disposizione di cui alla lettera e) dell'articolo 86 del regolamento approvato con [R. decreto 20 ottobre 1932, n. 1554](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20Milizia%20nazionale%20della%20strada.%20032U1554.md), concernente il requisito del celibato per la nomina a milite della Milizia nazionale della strada.
 
 ## Art. 4.
 

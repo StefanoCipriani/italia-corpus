@@ -170,7 +170,7 @@ d) per le sete da collocare previo versamento all'Ente Nazionale Serico di una s
  
  Con le stesse pene sono puniti coloro che occultino con qualsiasi mezzo o non provvedano al deposito dei prodotti di cui agli articoli 1 e 4. 
  
- I prodotti eventualmente non denunciati o non depositati a norma degli articoli 1, 3 e 4 sono soggetti a confisca a termini dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I prodotti eventualmente non denunciati o non depositati a norma degli articoli 1, 3 e 4 sono soggetti a confisca a termini dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 17.
 

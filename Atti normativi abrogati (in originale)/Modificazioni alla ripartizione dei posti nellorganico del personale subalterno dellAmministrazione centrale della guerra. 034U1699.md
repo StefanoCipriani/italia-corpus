@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 21 giugno 1934, n. 1093](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%2015%20settembre%201932%20n.%201514%20e%20istituzione%20di%20un%20ruolo%20di%20impiegati%20dordine_32db7e4cf939.md), recante modificazioni al testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e l'istituzione di un ruolo di impiegati d'ordine del gruppo C per l'Amministrazione centrale della guerra;
+Vista la [legge 21 giugno 1934, n. 1093](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito%20approvato%20con%20R.%20decreto%2015%20settembre%201932%20n.%201514%20e%20istituzione%20di%20un%20ruolo%20di%20impiegati%20dordine_32db7e4cf939.md), recante modificazioni al testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con [R. decreto 15 settembre 1932, n. 1514](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e l'istituzione di un ruolo di impiegati d'ordine del gruppo C per l'Amministrazione centrale della guerra;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

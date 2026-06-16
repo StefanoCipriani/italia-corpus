@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente l'amministrazione del patrimonio e la contabilita' generale dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente l'amministrazione del patrimonio e la contabilita' generale dello Stato;
 
 Visto il [decreto interministeriale 28 luglio 1928, n. 4622](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1928-07-28;4622), emanato in forza dell'[art. 32 del R. decreto 28 giugno 1928, n. 1646](Applicazione%20dellordinamento%20amministrativo-contabile%20delle%20Colonie%20alla%20Colonia%20Eritrea%20ed%20alla%20Somalia%20Italiana.%20028U1646.md);
 

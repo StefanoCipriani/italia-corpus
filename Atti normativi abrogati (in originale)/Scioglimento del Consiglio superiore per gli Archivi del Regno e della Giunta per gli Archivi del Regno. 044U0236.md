@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), che approva il regolamento per gli Archivi di Stato;
+Visto il [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), che approva il regolamento per gli Archivi di Stato;
 
 Vista la [legge 22 dicembre 1939, n. 2006](Nuovo%20ordinamento%20degli%20Archivi%20del%20Regno.%20039U2006.md), sul nuovo ordinamento degli Archivi del Regno;
 

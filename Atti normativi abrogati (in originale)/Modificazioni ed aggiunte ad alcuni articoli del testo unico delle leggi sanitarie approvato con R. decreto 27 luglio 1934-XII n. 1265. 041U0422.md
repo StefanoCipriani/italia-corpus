@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'[art. 125 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_125), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' sostituito dal seguente: 
+L'[art. 125 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' sostituito dal seguente: 
  
  « Ogni anno, a cura del Ministero dell'interno, e' pubblicata la tariffa dei medicinali per la vendita al pubblico. 
  
@@ -30,7 +30,7 @@ L'[art. 125 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri
 
 ## Art. 2.
 
-L'[art. 144 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_144), approvato con Regio decreto 27 luglio 1931-XII, n. 1265, e' sostituito dal seguente: 
+L'[art. 144 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con Regio decreto 27 luglio 1931-XII, n. 1265, e' sostituito dal seguente: 
  
  « L'apertura di nuove officine di prodotti chimici usati in medicina e di preparati galenici e' sottoposta ad autorizzazione del Ministro per l'interno, il quale la concede sentito il parere del Consiglio superiore di sanita' e della Corporazione della chimica, tenuta presente l'opportunita' dell'apertura in rapporto alle esigenze del servizio. 
  
@@ -48,7 +48,7 @@ L'[art. 144 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri
 
 ## Art. 3.
 
-L'[art. 161 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_161), approvato con Regio decreto 27 luglio 1934-XII, n. 1265, e' sostituito dal seguente: 
+L'[art. 161 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con Regio decreto 27 luglio 1934-XII, n. 1265, e' sostituito dal seguente: 
  
  « Nessuna officina puo' produrre, a scopo di vendita, una specialita' medicinale senza l'autorizzazione del Ministro per l'interno, previo accertamento che l'officina sia fornita di adeguati mezzi tecnico-industriali per compiere direttamente tutte le operazioni essenziali per la preparazione di ciascuna specialita' medicinale, richiedente una competenza nel campo chimico, farmaceutico e biologico e che sia diretta in modo continuativo da persona munita di laurea in chimica, o in chimica e farmacia, o in farmacia, o di diploma in farmacia, e iscritta nell'albo professionale. 
  
@@ -63,7 +63,7 @@ L'[art. 161 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri
 
 ## Art. 4.
 
-L'[art. 162 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_162), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' sostituito dal seguente: 
+L'[art. 162 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' sostituito dal seguente: 
  
  « Nessuna specialita' medicinale puo' essere messa in commercio senza la registrazione da parte del Ministro per l'interno. 
  
@@ -86,7 +86,7 @@ c) se le eventuali indicazioni terapeutiche corrispondono alla reale composizion
 
 ## Art. 5.
 
-Dopo la sezione VI del capo V del titolo II del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con R. decreto 27 luglio 1934-X1I, n. 1265, e' inserita la seguente: 
+Dopo la sezione VI del capo V del titolo II del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-X1I, n. 1265, e' inserita la seguente: 
  
  « Sezione VI-bis. - Del commercio all'ingrosso di prodotti chimici e preparati farmaceutici. 
  
@@ -98,7 +98,7 @@ Dopo la sezione VI del capo V del titolo II del [testo unico delle leggi sanitar
 
 ## Art. 6.
 
-La sezione VII del capo V del titolo II del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' sostituito come segue: 
+La sezione VII del capo V del titolo II del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' sostituito come segue: 
  
  « Sezione VII. - Della fabbricazione e del commercio di presidii medici e chirurgici. 
  
@@ -116,7 +116,7 @@ La sezione VII del capo V del titolo II del [testo unico delle leggi sanitarie](
 
 ## Art. 7.
 
-L'[art. 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' sostituito dal seguente: 
+L'[art. 201 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265, e' sostituito dal seguente: 
  
  « E' necessaria la licenza del prefetto, per la pubblicita' a mezzo stampa, o in qualsiasi altro modo, concernente ambulatori o case o istituti di cura medico-chirurgica o di assistenza ostetrica, case o pensioni per gestanti, stabilimenti termali, idropinici, idroterapici e fisioterapici. 
  

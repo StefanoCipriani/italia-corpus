@@ -18,7 +18,7 @@ Vista l'istanza in data 30 giugno 1931, con la quale i reverendi Andrew Nisbet B
 
 Ritenuto che la Chiesa di Scozia, fino ad ora, non ha esplicato alcuna attivita' nel Regno;
 
-Visto l'[art. 2 della legge 24 giugno 1929, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1159#art_2), e l'[articolo 16 del R. decreto 28 febbraio 1930, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_16);
+Visto l'[art. 2 della legge 24 giugno 1929, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1159#art_2), e l'[articolo 16 del R. decreto 28 febbraio 1930, n. 289](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md);
 
 Udito il parere del Consiglio di Stato;
 

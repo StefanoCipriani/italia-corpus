@@ -72,7 +72,7 @@ All'[articolo 14 della legge 24 dicembre 1988, n. 542](https://www.normattiva.it
 1.
 
 Il [comma 2 dell'articolo 20 della legge 24 dicembre 1988, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-24;542#art_20-com2), e' sostituito dal seguente: 
- "2. Alle spese di cui ai capitoli numeri 1539 e 2547 dello stato di previsione del Ministero della sanita', si applicano, per l'anno finanziario 1989, le disposizioni contenute nel [secondo comma dell'articolo 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com2) e nell'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61bis), e successive modificazioni ed integrazioni, sulla contabilita' generale dello Stato".
+ "2. Alle spese di cui ai capitoli numeri 1539 e 2547 dello stato di previsione del Ministero della sanita', si applicano, per l'anno finanziario 1989, le disposizioni contenute nel [secondo comma dell'articolo 36](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e nell'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni ed integrazioni, sulla contabilita' generale dello Stato".
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

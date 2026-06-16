@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e i [regolamenti 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367), e [9 dicembre 1926, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-12-09;2480);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e i [regolamenti 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367), e [9 dicembre 1926, n. 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-12-09;2480);
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Sono abrogati l'[art. 4 del R. decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_4), che prevede la distinzione delle sedi dei Regi istituti medi d'istruzione in sedi di primaria importanza e sedi di secondaria importanza, e tutte le disposizioni che siano comunque connesse o dipendenti da tale distinzione. 
+Sono abrogati l'[art. 4 del R. decreto 6 maggio 1923, numero 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), che prevede la distinzione delle sedi dei Regi istituti medi d'istruzione in sedi di primaria importanza e sedi di secondaria importanza, e tutte le disposizioni che siano comunque connesse o dipendenti da tale distinzione. 
  
  E' data tuttavia facolta' al Ministro per la pubblica istruzione di bandire concorsi per determinate sedi o di indicare nominativamente nei comuni bandi di concorso alcune sedi che saranno riserbate alla scelta dei vincitori.
 

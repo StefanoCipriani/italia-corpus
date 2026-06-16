@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 10 febbraio 1926, n. 206](Provvedimenti%20economic
 
 Vista la [legge 16 giugno 1935, n. 1026](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20035U1026.md), e successive modificazioni;
 
-Visto il [regio decreto 17 settembre 1940, n. 1567](Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md);
+Visto il [regio decreto 17 settembre 1940, n. 1567](../Regi%20decreti/Norme%20per%20lesecuzione%20dellart.%203%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20convertito%20nella%20legge%207%20giugno%201937-XV%20n.%20993%20che%20reca%20modificazioni%20allordinamento%20della%20Regia%20guardia%20di_14063937e20d.md);
 
 Vista la [legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), e successive modificazioni;
 
@@ -45,7 +45,7 @@ Agli ufficiali della Guardia di finanza che siano dal servizio permanente effett
 
 L'indennita' di cui all'art. 1 compete, inoltre, agli ufficiali che siano dal servizio permanente effettivo direttamente, collocati a riposo, in riforma o in congedo assoluto per eta', o per ferite, lesioni od infermita' dipendenti da cause di servizio. 
  Detta indennita' va corrisposta anche agli ufficiali che abbiano diritto al trattamento di pensione di guerra ed al trattamento ordinario di quiescenza (od assegno integratore). 
- Qualora si tratti di ufficiali cessati dal servizio permanente, effettivo con diritto ad assegno integratore di cui all'[art. 19 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni, l'indennita' e' ragguagliata a tanti ventesimi della somma annua prevista per ciascun grado dal primo comma dell'art. 1 del presente decreto quanti sono gli anni di servizio utili a pensione aumentati di quattro anni; essa non puo', pero', in alcun caso superare tale somma.
+ Qualora si tratti di ufficiali cessati dal servizio permanente, effettivo con diritto ad assegno integratore di cui all'[art. 19 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni, l'indennita' e' ragguagliata a tanti ventesimi della somma annua prevista per ciascun grado dal primo comma dell'art. 1 del presente decreto quanti sono gli anni di servizio utili a pensione aumentati di quattro anni; essa non puo', pero', in alcun caso superare tale somma.
 
 ## Art. 3.
 

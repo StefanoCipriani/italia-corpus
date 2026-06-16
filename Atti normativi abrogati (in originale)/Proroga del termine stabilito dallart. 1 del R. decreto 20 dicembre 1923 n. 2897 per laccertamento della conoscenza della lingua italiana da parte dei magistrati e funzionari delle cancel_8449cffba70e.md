@@ -20,7 +20,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e
 
 ## Art. 1.
 
-Il termine stabilito dall'[art. 1 del R. decreto 20 dicembre 1923, n. 2897](Determinazione%20di%20un%20ulteriore%20periodo%20di%20servizio%20provvisorio%20per%20i%20magistrati%20e%20funzionari%20giudiziari%20provenienti%20dalla%20cessata%20Amministrazione%20austriaca%20per%20lacquisto%20di%20una%20sufficient_65f57ef50433.md), per l'accertamento definitivo della conoscenza della lingua italiana da parte dei magistrati provenienti dalla cessata Amministrazione austriaca mantenuti provvisoriamente in servizio, e' prorogato al 31 dicembre 1924. 
+Il termine stabilito dall'[art. 1 del R. decreto 20 dicembre 1923, n. 2897](../Regi%20decreti/Determinazione%20di%20un%20ulteriore%20periodo%20di%20servizio%20provvisorio%20per%20i%20magistrati%20e%20funzionari%20giudiziari%20provenienti%20dalla%20cessata%20Amministrazione%20austriaca%20per%20lacquisto%20di%20una%20sufficient_65f57ef50433.md), per l'accertamento definitivo della conoscenza della lingua italiana da parte dei magistrati provenienti dalla cessata Amministrazione austriaca mantenuti provvisoriamente in servizio, e' prorogato al 31 dicembre 1924. 
  
  La presente disposizione e' applicabile anche ai funzionari delle cancellerie e segreterie ed agli uscieri provenienti dalla cessata Amministrazione austriaca ed appartenenti agli uffici giudiziari delle nuove Provincie.
 

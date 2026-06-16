@@ -12,9 +12,9 @@ vigente: true
 
 Le disposizioni contenute negli articoli 1 (primo e quarto comma), 11 e 17 del Nostro decreto 14 settembre 1918, n. 1314, sono estese, in quanto applicabili: 
  
- 1° agli impiegati civili delle varie Amministrazioni del Regno, in servizio nella Tripolitania e nella Cirenaica, col trattamento economico stabilito dal [R. decreto 5 giugno 1913, n. 798](Col%20quale%20vengono%20disciplinate%20le%20norme%20per%20la%20scelta%20degli%20impiegati%20civili%20di%20ruolo%20da%20destinarsi%20in%20Tripolitania%20e%20nella%20Cirenaica%20e%20per%20il%20correlativo%20trattamento%20economico.%20013U0798.md); 
+ 1° agli impiegati civili delle varie Amministrazioni del Regno, in servizio nella Tripolitania e nella Cirenaica, col trattamento economico stabilito dal [R. decreto 5 giugno 1913, n. 798](../Regi%20decreti/Col%20quale%20vengono%20disciplinate%20le%20norme%20per%20la%20scelta%20degli%20impiegati%20civili%20di%20ruolo%20da%20destinarsi%20in%20Tripolitania%20e%20nella%20Cirenaica%20e%20per%20il%20correlativo%20trattamento%20economico.%20013U0798.md); 
  
- 2° agli interpreti disciplinati dalle norme approvate col [R. decreto 15 gennaio 1914, n. 88](Col%20quale%20vengono%20approvate%20le%20norme%20per%20il%20servizio%20di%20traduzione%20pel%20reclutamento%20e%20la%20disciplina%20degli%20interpreti%20nelle%20colonie%20in%20sostituzione%20di%20quelle%20approvate%20col%20R.decreto%201%20agos_3917f840a776.md); 
+ 2° agli interpreti disciplinati dalle norme approvate col [R. decreto 15 gennaio 1914, n. 88](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20norme%20per%20il%20servizio%20di%20traduzione%20pel%20reclutamento%20e%20la%20disciplina%20degli%20interpreti%20nelle%20colonie%20in%20sostituzione%20di%20quelle%20approvate%20col%20R.decreto%201%20agos_3917f840a776.md); 
  
  3° agli impiegati civili provvisori, straordinari, avventizi od assimilati, comunque assunti, in servizio nelle dette colonie presso i vari uffici, i Municipi e gli altri enti sovvenzionati a carico del bilancio delle colonie medesime. 
  

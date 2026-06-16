@@ -21,12 +21,12 @@ E' autorizzato il limite di impegno di lire 50.000.000 per la concessione in fav
 ## Art. 2.
 
 L'attivita' dell'Istituto nazionale per le case degli impiegati dello Stato, in ordine agli alloggi di cui all'articolo 1, e' considerata come gestione autonoma con bilancio distinto.
- Gli alloggi medesimi sono assimilati, a tutti gli effetti a quelli contemplati nel secondo comma dell'articolo 343 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modificazioni.
+ Gli alloggi medesimi sono assimilati, a tutti gli effetti a quelli contemplati nel secondo comma dell'articolo 343 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e successive modificazioni.
 
 ## Art. 3.
 
 Per la gestione degli alloggi costruiti ai sensi della presente legge, si applicano le norme contenute nel regolamento approvato con [decreto del Presidente della Repubblica 27 novembre 1954, n. 1406](../DPR/Norme%20regolamentari%20per%20lassegnazione%20e%20la%20gestione%20degli%20alloggi%20costruiti%20dallI.N.C.I.S.%20da%20assegnare%20in%20locazione%20al%20personale%20dipendente%20dallAmministrazione%20della%20pubblica%20sicurezza.md).
- I canoni di affitto sono determinati in conformita' alla norma di cui all'articolo 379 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modificazioni.
+ I canoni di affitto sono determinati in conformita' alla norma di cui all'articolo 379 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e successive modificazioni.
 
 ## Art. 4.
 

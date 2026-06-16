@@ -34,7 +34,7 @@ La Cassa nazionale per le assicurazioni sociali prelevera' dal fondo di previden
 
 ## Art. 2.
 
-Per gli inscritti di cui al precedente articolo, soggetti all'obbligo dell'assicurazione per l'invalidita' e la vecchiaia, a norma del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), l'intero contributo obbligatorio, dovuto ai sensi dell'art. 4 del citato Regio decreto, sara' prelevato dalle quote di contributo versate dagli appaltatori.
+Per gli inscritti di cui al precedente articolo, soggetti all'obbligo dell'assicurazione per l'invalidita' e la vecchiaia, a norma del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), l'intero contributo obbligatorio, dovuto ai sensi dell'art. 4 del citato Regio decreto, sara' prelevato dalle quote di contributo versate dagli appaltatori.
 
 ## Art. 3.
 

@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per il tesoro, di concert
 
 Per sopperire alle necessita' straordinarie dell'Amministrazione dello Stato, dipendenti dalla liquidazione dello stato di guerra, e fino a quando tali necessita' permangono, il ministro del tesoro e' autorizzato ad assumere fuori ruolo per il servizio della Regia avvocatura erariale funzionari in numero non superiore a dodici. 
  
- Le nomine saranno fatte, ai sensi dell'art. 8 del testo unico delle leggi sull'Avvocatura erariale approvato con [R. decreto 24 novembre 1913, n. 1303](Col%20quale%20e%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20sullAvvocatura%20erariale.%20013U1303.md), fra gli avvocati aventi i requisiti in detto articolo previsti e i funzionari di magistratura aventi almeno quattro anni di servizio a partire dalla data del decreto di nomina a uditore giudiziario. 
+ Le nomine saranno fatte, ai sensi dell'art. 8 del testo unico delle leggi sull'Avvocatura erariale approvato con [R. decreto 24 novembre 1913, n. 1303](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20testo%20unico%20delle%20leggi%20sullAvvocatura%20erariale.%20013U1303.md), fra gli avvocati aventi i requisiti in detto articolo previsti e i funzionari di magistratura aventi almeno quattro anni di servizio a partire dalla data del decreto di nomina a uditore giudiziario. 
  
  A parita' di merito, saranno preferiti coloro che siano invalidi o orfani di guerra o che abbiano riportato ferite in combattimento, oppure siano insigniti di decorazioni al valor militare ed infine chi abbia prestato servizio militare come combattente. 
  

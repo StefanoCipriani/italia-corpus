@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili delle Amministrazioni dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili delle Amministrazioni dello Stato;
 
-Visto il [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), che dispone il concentramento nel Ministero dei lavori pubblici dei servizi relativi alla esecuzione di opere pubbliche per conto dello Stato;
+Visto il [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), che dispone il concentramento nel Ministero dei lavori pubblici dei servizi relativi alla esecuzione di opere pubbliche per conto dello Stato;
 
-Ritenuto che per effetto di tale concentramento di servizi occorre trasferire al predetto Ministero il personale civile dei ruoli di gruppo A e B degli Istituti di prevenzione e di pena necessario per l'espletamento dei servizi passati dal Ministero di grazia e giustizia a quello dei lavori pubblici, e che occorre derogare alla disposizione dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101), per quanto riguarda in particolare e gli agenti di custodia delle carceri ed i cancellieri di tribunale in servizio temporaneo presso il predetto Ministero dei lavori pubblici;
+Ritenuto che per effetto di tale concentramento di servizi occorre trasferire al predetto Ministero il personale civile dei ruoli di gruppo A e B degli Istituti di prevenzione e di pena necessario per l'espletamento dei servizi passati dal Ministero di grazia e giustizia a quello dei lavori pubblici, e che occorre derogare alla disposizione dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), per quanto riguarda in particolare e gli agenti di custodia delle carceri ed i cancellieri di tribunale in servizio temporaneo presso il predetto Ministero dei lavori pubblici;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -52,7 +52,7 @@ I seguenti ruoli del personale del Ministero dei lavori pubblici sono aumentati 
 
 ## Art. 3.
 
-Nella prima attuazione del presente decreto i posti di cui alla lettera a) del precedente art. 2 sono attribuiti al personale dei ruoli indicati nell'art. 1 che ricopra posti di gruppo e grado eguali a quello da conferire, scelto d'intesa tra i Ministri per la grazia e giustizia e per i lavori pubblici, tra quello che si trova addetto ai servizi di cui al [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), e che in atto e' comandato presso l'Amministrazione dei lavori pubblici. 
+Nella prima attuazione del presente decreto i posti di cui alla lettera a) del precedente art. 2 sono attribuiti al personale dei ruoli indicati nell'art. 1 che ricopra posti di gruppo e grado eguali a quello da conferire, scelto d'intesa tra i Ministri per la grazia e giustizia e per i lavori pubblici, tra quello che si trova addetto ai servizi di cui al [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), e che in atto e' comandato presso l'Amministrazione dei lavori pubblici. 
  
  Nella prima attuazione del presente decreto il posto di cui alla lettera b) del precedente art. 2 e' attribuito ad un istitutore dei Regi riformatori che ricopra un posto di grado eguale a quello da conferire, scelto d'intesa tra i Ministri per la grazia e giustizia e per i lavori pubblici, tra quello che si trova addetto ai servizi di cui al citato R. decreto n. 544 e che in atto e' comandato presso l'Amministrazione dei lavori pubblici. 
  
@@ -60,7 +60,7 @@ Nella prima attuazione del presente decreto i posti di cui alla lettera a) del p
 
 ## Art. 4.
 
-A partire dalla data di entrata in vigore del presente decreto e' temporaneamente comandato, per non oltre tre anni, presso il Ministero dei lavori pubblici, in applicazione del [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), il seguente personale del Ministero di grazia e giustizia: 
+A partire dalla data di entrata in vigore del presente decreto e' temporaneamente comandato, per non oltre tre anni, presso il Ministero dei lavori pubblici, in applicazione del [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), il seguente personale del Ministero di grazia e giustizia: 
  
  
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Su confarme parere del Consiglio superiore dell'educazione nazionale:
 
@@ -44,7 +44,7 @@ b) dalla somma di L. 59.000, importo medio degli emolumenti relativi a due posti
 
 ## Art. 4.
 
-Al ruolo dei professori della Regia universita' di Sassari sono aggiunti, per la Facolta' di medicina veterinaria, i due posti assegnati al Regio istituto superiore di medicina veterinaria a norma della tabella D annessa al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), ed il posto istituito per effetto della convenzione approvata con decreto 26 ottobre 1933. n. 1401, ferme restando le condizioni stabilite dalla convenzione stessa circa il mantenimento del posto medesimo. 
+Al ruolo dei professori della Regia universita' di Sassari sono aggiunti, per la Facolta' di medicina veterinaria, i due posti assegnati al Regio istituto superiore di medicina veterinaria a norma della tabella D annessa al testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), ed il posto istituito per effetto della convenzione approvata con decreto 26 ottobre 1933. n. 1401, ferme restando le condizioni stabilite dalla convenzione stessa circa il mantenimento del posto medesimo. 
  
  Il ruolo del personale di segreteria, assistente, tecnico e subalterno della Regia universita' di Sassari verra' dalle Autorita' accademiche aumentato dei posti occorrenti per la detta Facolta', rimanendo eventualmente in soprannumero il personale assegnato ai sensi dell'art. 2, lettera a), il quale risultasse in eccedenza rispetto ai posti medesimi, salvo riassorbimento con le successive eliminazioni.
 

@@ -42,11 +42,11 @@ Il Ministero dell'agricoltura e delle foreste provvede ad organizzare corsi di i
 
 Le fascette e i dispositivi di etichettatura, previsti dall'articolo 17 del regolamento C.E.E. n. 1619/68 e dagli articoli 6, 7 e 8 del regolamento C.E.E. n. 95/69, sono predisposti dal Ministero dell'agricoltura e delle foreste e vengono forniti con l'indicazione del numero progressivo ai centri d'imballaggio, che versano il corrispettivo fissato nelle norme di cui al successivo articolo 9. I proventi vengono destinati al finanziamento dei controlli specifici per l'applicazione della presente legge.
  Per l'espletamento dei controlli di cui al comma precedente il Ministero dell'agricoltura e delle foreste puo' avvalersi anche di personale estraneo alla sua amministrazione.
- I centri d'imballaggio provvedono alla raccolta delle uova presso i produttori direttamente o avvalendosi di raccoglitori in possesso del certificato previsto dall'[articolo 121 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_121) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e autorizzati dal capo dell'ispettorato provinciale della agricoltura su proposta dei centri d'imballaggio per conto dei quali operano.
+ I centri d'imballaggio provvedono alla raccolta delle uova presso i produttori direttamente o avvalendosi di raccoglitori in possesso del certificato previsto dall'[articolo 121 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e autorizzati dal capo dell'ispettorato provinciale della agricoltura su proposta dei centri d'imballaggio per conto dei quali operano.
 
 ## Art. 5.
 
-Sempre che il fatto non sia previsto come reato dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi, si applica la sanzione amministrativa del pagamento di una somma:
+Sempre che il fatto non sia previsto come reato dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o da altre leggi, si applica la sanzione amministrativa del pagamento di una somma:
  1) da lire 300.000 a lire 800.000 a carico di chiunque effettui la classificazione di uova in categorie di qualita' e di peso senza l'autorizzazione di cui al precedente articolo 2, primo comma;
  2) da lire 100.000 a lire 500.000 nei confronti dei titolari dei centri d'imballaggio che classifichino le uova in violazione delle norme di cui agli articoli 6, punto 1), 7, punto 1), 8 e 10 del regolamento C.E.E. n. 1619/68;
  3) da lire 50.000 a lire 200.000 nei confronti:
@@ -80,7 +80,7 @@ Il personale addetto al controllo sull'osservanza delle disposizioni della prese
  L'opposizione si propone mediante ricorso. Il pretore fissa l'udienza di comparizione da tenersi nel termine di venti giorni, e dispone per la notifica del ricorso e del decreto, da attuarsi a cura della cancelleria.
  E' inappellabile la sentenza che decide la controversia.
  Salvo quanto previsto nei commi precedenti, decorso il termine
-prefissato per il pagamento, alla riscossione delle somme dovute si procede mediante esecuzione forzata con l'osservanza delle norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), sulla riscossione coattiva delle entrate patrimoniali dello Stato e degli altri enti pubblici.
+prefissato per il pagamento, alla riscossione delle somme dovute si procede mediante esecuzione forzata con l'osservanza delle norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), sulla riscossione coattiva delle entrate patrimoniali dello Stato e degli altri enti pubblici.
  L'obbligazione di pagare somme a titolo di sanzione amministrativa per la violazione delle disposizioni contenute nella presente legge non si trasmette agli eredi.
 
 ## Art. 7.

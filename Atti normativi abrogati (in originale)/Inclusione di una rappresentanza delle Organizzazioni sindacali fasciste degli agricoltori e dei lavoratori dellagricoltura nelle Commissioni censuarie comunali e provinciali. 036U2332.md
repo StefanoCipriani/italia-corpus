@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sul nuovo catasto, approvato con [R. decreto 8 ottobre 1931, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1572);
+Visto il testo unico delle leggi sul nuovo catasto, approvato con [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-All'art. 33 del testo unico delle leggi sul nuovo catasto, approvato col [R. decreto 8 ottobre 1931, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1572), e' sostituito il seguente: 
+All'art. 33 del testo unico delle leggi sul nuovo catasto, approvato col [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), e' sostituito il seguente: 
  
  «I componenti le Commissioni comunali saranno nominati uno dal prefetto della Provincia fra tre lavoratori dell'agricoltura, residenti nel Comune, designati dalla competente Unione provinciale sindacale, e gli altri, per meta' dal podesta' del Comune e per l'altra meta' dal prefetto stesso, fra i contribuenti l'iscritti nei ruoli dell'imposta fondiaria del Comune, designati, per quest'ultima meta' ed in numero triplo di quello dei commissari da eleggere, dall'Unione provinciale degli agricoltori. 
  

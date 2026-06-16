@@ -32,9 +32,9 @@ VITTORIO EMANUELE III
  
  Considerato che la variante proposta, mentre agevola la costruzione della chiesa e del convento, rende la configurazione di questa zona piu' somigliante e quasi simmetrica a quella dell'altro angolo del Cimitero; 
  
- Considerato che con tale modifica non viene ad essere rispettata la distanza di m. 200 dal perimetro del Cimitero prescritta dal [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 27 luglio 1934-XII, n. 1265; 
+ Considerato che con tale modifica non viene ad essere rispettata la distanza di m. 200 dal perimetro del Cimitero prescritta dal [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934-XII, n. 1265; 
  
- Che pertanto il comune di Milano, prima dell'attuazione della variante, dovra' ottenere dall'autorita' competente la deroga alle norme di cui al citato [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), deroga d'altronde facilitata, probabilmente, dal fatto che, antistanti all'ingresso principale del cimitero, esistono edifici a distanza minore di m. 200; 
+ Che pertanto il comune di Milano, prima dell'attuazione della variante, dovra' ottenere dall'autorita' competente la deroga alle norme di cui al citato [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), deroga d'altronde facilitata, probabilmente, dal fatto che, antistanti all'ingresso principale del cimitero, esistono edifici a distanza minore di m. 200; 
  
  Considerato che la variante puo' essere attuata nel periodo di validita' del piano di massima; 
  

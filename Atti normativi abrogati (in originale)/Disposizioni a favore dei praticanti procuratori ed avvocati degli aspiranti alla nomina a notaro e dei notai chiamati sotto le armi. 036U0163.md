@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1933-11-27;1578), convertito con modificazioni nella [legge 22 gennaio 1934, n. 36](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20riguardante%20lordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0036.md), ed il [R. decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37);
+Visto il [decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1933-11-27;1578), convertito con modificazioni nella [legge 22 gennaio 1934, n. 36](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20riguardante%20lordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0036.md), ed il [R. decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md);
 
 Viste le leggi 16 febbraio 1913, n, 89, e 6 agosto 1926, n. 1365;
 
 Visti il decreto-regge 27 maggio 1923, n. 1324, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), ed il [R. decreto-legge 5 luglio 1934, n. 1179](Riduzione%20degli%20onorari%20e%20dei%20diritti%20degli%20avvocati%20procuratori%20patrocinatori%20legali%20e%20notari.%20034U1179.md), convertito nella [legge 4 aprile 1935, n. 466](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20luglio%201934%20n.%201179%20concernente%20la%20riduzione%20degli%20onorari%20e%20dei%20diritti%20degli%20avvocati%20procuratori%20patrocinatori%20legali%20e%20no_72f2ed0ee010.md);
 
-Visto il [R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953);
+Visto il [R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la gra
 
 ## Art. 1.
 
-In deroga alla disposizione dell'[art. 4, comma terzo, del R. decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_4-com3), i praticanti procuratori, i quali abbiano interrotto la pratica perche' richiamati alle armi o comunque a causa del servizio militare, rimangono inseriti nel registro dei praticanti ancorche' la durata dell'interruzione sia superiore a sei mesi. 
+In deroga alla disposizione dell'[art. 4, comma terzo, del R. decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), i praticanti procuratori, i quali abbiano interrotto la pratica perche' richiamati alle armi o comunque a causa del servizio militare, rimangono inseriti nel registro dei praticanti ancorche' la durata dell'interruzione sia superiore a sei mesi. 
  
  Il periodo di pratica che essi abbiano gia' svolto e' computato ai fini del compimento della pratica.
 
@@ -56,7 +56,7 @@ Le disposizioni del precedente articolo si applicano anche ai candidati nei conc
 
 ## Art. 5.
 
-Il termine stabilito nell'[art. 24, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_24-com1) e [secondo, della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_24-com2), e nell'[art. 50 del Regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_50), rimane sospeso durante il periodo di permanenza dei notari sotto le armi nelle circostanze previste nell'art. 1 del R. decreto-legge 1° aprile 1935-XIII, n. 343, convertito nella [legge 3 giugno 1935, n. 1019](Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20aprile%201935-XIII%20n.%20343%20concernente%20il%20trattamento%20al%20personale%20statale%20e%20degli%20enti%20pubblici%20richiamato%20alle%20armi%20per%20mobilitazione.%20035U1019.md).
+Il termine stabilito nell'[art. 24, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_24-com1) e [secondo, della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_24-com2), e nell'[art. 50 del Regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), rimane sospeso durante il periodo di permanenza dei notari sotto le armi nelle circostanze previste nell'art. 1 del R. decreto-legge 1° aprile 1935-XIII, n. 343, convertito nella [legge 3 giugno 1935, n. 1019](Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20aprile%201935-XIII%20n.%20343%20concernente%20il%20trattamento%20al%20personale%20statale%20e%20degli%20enti%20pubblici%20richiamato%20alle%20armi%20per%20mobilitazione.%20035U1019.md).
 
 ## Art. 6.
 

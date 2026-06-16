@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'articolo 226 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), modificato dall'[art. 70 del R. decreto 30 dicembre 1923, numero 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' aggiunto il seguente capoverso: 
+ All'articolo 226 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), modificato dall'[art. 70 del R. decreto 30 dicembre 1923, numero 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), e' aggiunto il seguente capoverso: 
  
  «Per le contravvenzioni alle norme dei regolamenti edilizi la pena dell'arresto puo' essere elevata fino ad un mese e l'ammenda fino a lire duemila». 
  

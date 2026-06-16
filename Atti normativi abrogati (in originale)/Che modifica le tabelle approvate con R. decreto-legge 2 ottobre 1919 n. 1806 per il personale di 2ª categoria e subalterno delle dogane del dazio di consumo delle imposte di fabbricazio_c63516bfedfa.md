@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 2 ottobre 1919, n. 1806](Che%20approva%20le%20tabelle%20dei%20ruoli%20organici%20del%20personale%20dipendente%20dalla%20Direzione%20generale%20delle%20dogane%20ed%20imposte%20indirette.%20019U1806.md);
+Veduto il [R. decreto 2 ottobre 1919, n. 1806](../Regi%20decreti/Che%20approva%20le%20tabelle%20dei%20ruoli%20organici%20del%20personale%20dipendente%20dalla%20Direzione%20generale%20delle%20dogane%20ed%20imposte%20indirette.%20019U1806.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Alle tabelle dei gradi e degli stipendi dei personali di 2ª categoria e subalterno delle dogane, del dazio di consumo, delle imposte di fabbricazione e dei laboratori chimici, approvate con [R. decreto 2 ottobre 1919, n. 1806](Che%20approva%20le%20tabelle%20dei%20ruoli%20organici%20del%20personale%20dipendente%20dalla%20Direzione%20generale%20delle%20dogane%20ed%20imposte%20indirette.%20019U1806.md), da convertirsi in legge, sono sostituite con effetto dal 1° luglio 1920 le tabelle A, B, C, D, E ed F allegate al presente decreto.
+Alle tabelle dei gradi e degli stipendi dei personali di 2ª categoria e subalterno delle dogane, del dazio di consumo, delle imposte di fabbricazione e dei laboratori chimici, approvate con [R. decreto 2 ottobre 1919, n. 1806](../Regi%20decreti/Che%20approva%20le%20tabelle%20dei%20ruoli%20organici%20del%20personale%20dipendente%20dalla%20Direzione%20generale%20delle%20dogane%20ed%20imposte%20indirette.%20019U1806.md), da convertirsi in legge, sono sostituite con effetto dal 1° luglio 1920 le tabelle A, B, C, D, E ed F allegate al presente decreto.
 
 ## Art. 2.
 

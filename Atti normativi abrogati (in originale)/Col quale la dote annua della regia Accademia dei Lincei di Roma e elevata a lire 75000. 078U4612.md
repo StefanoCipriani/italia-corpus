@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 2 del Regio decreto 14 febbraio 1875, n. 2385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-02-14;2385#art_2) (Serie 2ª), col quale fu approvato il nuovo statuto dell'Accademia dei Lincei di Roma;
+Visto l'[art. 2 del Regio decreto 14 febbraio 1875, n. 2385](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20nuovo%20statuto%20dellAccademia%20dei%20Lincei%20in%20Roma.%20075U2385.md) (Serie 2ª), col quale fu approvato il nuovo statuto dell'Accademia dei Lincei di Roma;
 
 Visto l'altro [Regio decreto 17 luglio 1876, n. 3254](Col%20quale%20e%20riformato%20larticolo%202%20del%20precedente%20decreto%2014%20febbraio%201875%20che%20approvava%20lo%20statuto%20della%20Regia%20Accademia%20dei%20Lincei%20di%20Roma.%20076U3254.md) (Serie 2ª), col quale la dote della suddetta Accademia fu portata a lire cinquantamila;
 

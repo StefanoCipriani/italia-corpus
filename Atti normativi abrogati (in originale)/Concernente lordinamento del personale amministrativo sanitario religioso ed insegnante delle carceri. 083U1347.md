@@ -324,7 +324,7 @@ Il maximum dei punti da attribuirsi alla esposizione delle tesi in iscritto e' n
  Per gli aspiranti al posto di segretario dirigente: 
  
  Per l'Amministrazione carceraria . . . . . . . . . 200 
- Pel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di procedura . . . . . . . . . 120 
+ Pel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di procedura . . . . . . . . . 120 
  Per le nozioni relative ai sistemi penitenziari . . 80 
  Pel quesito (a scelta) sulle materie dell'esame 
  orale . . . . . . . . . . . . . . . . . . . . . . 80 
@@ -332,7 +332,7 @@ Il maximum dei punti da attribuirsi alla esposizione delle tesi in iscritto e' n
  Per gli aspiranti al posto di vicedirettore: 
  
  Per l'Amministrazione carceraria . . . . . . . . . 120 
- Pel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di procedura . . . . . . . . . 100 
+ Pel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di procedura . . . . . . . . . 100 
  Per l'Amministrazione di pubblica sicurezza . . . . 60 
  Per le attribuzioni della Corte dei conti . . . . . 60 
  Per l'Amministrazione provinciale e comunale . . . 60 

@@ -53,17 +53,17 @@ Gli attuali ufficiali d'ordine delle amministrazioni dipendenti, gli assistenti 
 
 ## Art. 8.
 
-Alla tabella II, che fa seguito al testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e' sostituita, per la parte che riguarda i sottufficiali, la seguente tabella: 
+Alla tabella II, che fa seguito al testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' sostituita, per la parte che riguarda i sottufficiali, la seguente tabella: 
  
  Parte di provvedimento in formato grafico
  
- N.B. - Le pensioni sopra indicate saranno aumentate di un quinto o di due quinti, a seconda che si tratti di sottufficiali con 12 anni di servizio effettivo nello stesso grado o di marescialli d'alloggio dei RR. carabinieri con 6 anni di servizio nel loro grado e 20 anni di permanenza nella loro arma, giusta il disposto dell'art. 90 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+ N.B. - Le pensioni sopra indicate saranno aumentate di un quinto o di due quinti, a seconda che si tratti di sottufficiali con 12 anni di servizio effettivo nello stesso grado o di marescialli d'alloggio dei RR. carabinieri con 6 anni di servizio nel loro grado e 20 anni di permanenza nella loro arma, giusta il disposto dell'art. 90 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Questi aumenti possono essere computati al disopra del massimo fissato dalla tabella.
 
 ## Art. 9.
 
-La liquidazione della pensione per i sottufficiali che vengono collocati a riposo per ferite od infermita' contratte per causa di servizio, giusta l'art. 100 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), sara' fatta ai termini dell'articolo stesso, eguagliando il massimo della pensione alla pensione massima fissata dalla tabella a 40 anni di servizio.
+La liquidazione della pensione per i sottufficiali che vengono collocati a riposo per ferite od infermita' contratte per causa di servizio, giusta l'art. 100 del testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), sara' fatta ai termini dell'articolo stesso, eguagliando il massimo della pensione alla pensione massima fissata dalla tabella a 40 anni di servizio.
 
 ## Art. 10.
 

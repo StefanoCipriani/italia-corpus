@@ -34,7 +34,7 @@ Nei bilanci dei Patrimoni riuniti ex economali e della Azienda di Stato per i se
 
 ## Art. 3.
 
-In dipendenza del [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), riguardante il concentramento nel Ministero dei lavori pubblici di servizi relativi alla esecuzione di lavori pubblici per conto dello Stato, il Ministro per le finanze e' autorizzato ad introdurre, con proprio decreto, nei vari bilanci, le ulteriori variazioni occorrenti, nonche' a provvedere, di concerto col Ministro per i lavori pubblici, alla determinazione delle autorizzazioni di spese corrispondenti alle somme trasferite.
+In dipendenza del [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), riguardante il concentramento nel Ministero dei lavori pubblici di servizi relativi alla esecuzione di lavori pubblici per conto dello Stato, il Ministro per le finanze e' autorizzato ad introdurre, con proprio decreto, nei vari bilanci, le ulteriori variazioni occorrenti, nonche' a provvedere, di concerto col Ministro per i lavori pubblici, alla determinazione delle autorizzazioni di spese corrispondenti alle somme trasferite.
 
 ## Art. 4.
 
@@ -42,7 +42,7 @@ Per tutto quanto riguarda la spesa per acquisto, costruzione e arredamento della
 
 ## Art. 5.
 
-Il fondo di L. 2.000.000 inscritto, col [R. decreto 24 settembre 1931, n. 1221](3ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U1221.md), nello stato di previsione della spesa del Ministero dell'educazione nazionale, per l'adattamento del Palazzo Reale di Napoli a residenza delle LL. AA. RR. i Principi di Piemonte, sara' versato all'Alto Commissariato per la citta' e provincia di Napoli, che lo gestira' secondo le norme che regolano il funzionamento dell'Alto Commissariato medesimo.
+Il fondo di L. 2.000.000 inscritto, col [R. decreto 24 settembre 1931, n. 1221](../Regi%20decreti/3ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201931-32.%20031U1221.md), nello stato di previsione della spesa del Ministero dell'educazione nazionale, per l'adattamento del Palazzo Reale di Napoli a residenza delle LL. AA. RR. i Principi di Piemonte, sara' versato all'Alto Commissariato per la citta' e provincia di Napoli, che lo gestira' secondo le norme che regolano il funzionamento dell'Alto Commissariato medesimo.
 
 ## Art. 6.
 

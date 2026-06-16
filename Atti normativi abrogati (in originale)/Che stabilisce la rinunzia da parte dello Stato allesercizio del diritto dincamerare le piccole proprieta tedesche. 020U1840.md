@@ -69,7 +69,7 @@ I provvedimenti emanati in esecuzione del presente decreto non sono impugnabili 
 
 ## Art. 9.
 
-Il ministro dell'industria e commercio dettera' le norme occorrenti per l'esecuzione del presente decreto, e con esse potra', fra l'altro, delegare ai prefetti una parte delle attribuzioni a lui dal medesimo demandate ed estendere a chi renda false dichiarazioni sui beni che possiede in Italia l'applicazione dell'[art. 221 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Il ministro dell'industria e commercio dettera' le norme occorrenti per l'esecuzione del presente decreto, e con esse potra', fra l'altro, delegare ai prefetti una parte delle attribuzioni a lui dal medesimo demandate ed estendere a chi renda false dichiarazioni sui beni che possiede in Italia l'applicazione dell'[art. 221 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Alle colonie si applicano le stesse disposizioni.
 

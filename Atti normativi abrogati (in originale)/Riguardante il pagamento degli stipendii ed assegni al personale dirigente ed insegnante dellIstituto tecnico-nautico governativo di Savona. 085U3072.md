@@ -16,7 +16,7 @@ UMBERTO I
  
  RE D'ITALIA 
  
- Visto il [Regio decreto 26 luglio 1883, n. 1558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-07-26;1558) (Serie 3ª), con cui l'Istituto tecnico comunale di Savona fu dichiarato governativo e riordinato in Istituto tecnico-nautico con le sezioni di commercio e ragioneria, dei macchinisti navali e dei capitani di lungo corso e gran cabotaggio; 
+ Visto il [Regio decreto 26 luglio 1883, n. 1558](../Regi%20decreti/Che%20dichiara%20governativo%20listituto%20tecnico%20comunale%20di%20Savona.%20083U1558.md) (Serie 3ª), con cui l'Istituto tecnico comunale di Savona fu dichiarato governativo e riordinato in Istituto tecnico-nautico con le sezioni di commercio e ragioneria, dei macchinisti navali e dei capitani di lungo corso e gran cabotaggio; 
  
  Visto l'articolo 2 del decreto medesimo, con cui la spesa annua di mantenimento dell'Istituto e' sostenuta per lire 15,598 dallo Stato e per il rimanente dal comune di Savona; 
  

@@ -14,7 +14,7 @@ E' convertito in legge il [decreto Luogotenenziale 8 ottobre 1916, n. 1336](http
  
  Art. 6. - L'Istituto mutuante potra' permettere la vendita di scorte vive e morte, a condizione che le cose vendute siano sostituite da altre della stessa specie e valore, sulle quali resta trasferito il privilegio. 
  
- Art. 12. - Il Governo del Re e' autorizzato a riunire e coordinare le disposizioni della presente legge con quelle del testo unico delle leggi e dei decreti sul credito agrario, approvato con il [Regio decreto 26 giugno 1921, n. 1048](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md). 
+ Art. 12. - Il Governo del Re e' autorizzato a riunire e coordinare le disposizioni della presente legge con quelle del testo unico delle leggi e dei decreti sul credito agrario, approvato con il [Regio decreto 26 giugno 1921, n. 1048](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

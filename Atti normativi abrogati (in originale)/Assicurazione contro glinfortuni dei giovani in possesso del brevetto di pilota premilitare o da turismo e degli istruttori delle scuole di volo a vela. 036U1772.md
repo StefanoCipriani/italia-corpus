@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 2 luglio 1931, n. 1125](Disposizioni%20per%20lallenamento%20dei%20giovani%20brevettati%20piloti%20di%20velivoli%20da%20turismo%20prima%20della%20chiamata%20alle%20armi.%20031U1125.md);
+Visto il [R. decreto 2 luglio 1931, n. 1125](../Regi%20decreti/Disposizioni%20per%20lallenamento%20dei%20giovani%20brevettati%20piloti%20di%20velivoli%20da%20turismo%20prima%20della%20chiamata%20alle%20armi.%20031U1125.md);
 
 Vista la leggo 22 dicembre 1932, n. 2021;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-I giovani in possesso del brevetto di pilota premilitare o del brevetto di pilota di velivolo da turismo, in attesa della chiamata alle armi, che compiono allenamenti di volo a norma del [R. decreto 2 luglio 1931, n. 1125](Disposizioni%20per%20lallenamento%20dei%20giovani%20brevettati%20piloti%20di%20velivoli%20da%20turismo%20prima%20della%20chiamata%20alle%20armi.%20031U1125.md), vengono a loro domanda assicurati presso un'impresa di assicurazione contro gli infortuni di volo da cui possono essere colpiti durante lo svolgimento degli allenamenti stessi. 
+I giovani in possesso del brevetto di pilota premilitare o del brevetto di pilota di velivolo da turismo, in attesa della chiamata alle armi, che compiono allenamenti di volo a norma del [R. decreto 2 luglio 1931, n. 1125](../Regi%20decreti/Disposizioni%20per%20lallenamento%20dei%20giovani%20brevettati%20piloti%20di%20velivoli%20da%20turismo%20prima%20della%20chiamata%20alle%20armi.%20031U1125.md), vengono a loro domanda assicurati presso un'impresa di assicurazione contro gli infortuni di volo da cui possono essere colpiti durante lo svolgimento degli allenamenti stessi. 
  
  Le spese inerenti a tale assicurazione sono a carico dell'Amministrazione aeronautica.
 

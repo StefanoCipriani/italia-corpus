@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Il fondo per il miglioramento dell'efficienza dei servizi, di cui all'[articolo 6, comma 2, del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20settembre%201989%20concernente%20il%20personale%20del%20comparto%20Ministeri%20ed%20altre%20categorie%20di%20cui_c6e7f9764299.md), per il settore giudiziario del Ministero di grazia e giustizia e' integrato, per l'anno 1992, della somma di L. 15.826.797.000 ai fini della erogazione di compensi diretti a retribuire la maggiore produttivita', nonche' le turnazioni, l'assistenza al magistrato e la reperibilita'.
+Il fondo per il miglioramento dell'efficienza dei servizi, di cui all'[articolo 6, comma 2, del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20settembre%201989%20concernente%20il%20personale%20del%20comparto%20Ministeri%20ed%20altre%20categorie%20di%20cui_c6e7f9764299.md), per il settore giudiziario del Ministero di grazia e giustizia e' integrato, per l'anno 1992, della somma di L. 15.826.797.000 ai fini della erogazione di compensi diretti a retribuire la maggiore produttivita', nonche' le turnazioni, l'assistenza al magistrato e la reperibilita'.
 
 ## Art. 2.
 

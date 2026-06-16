@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi pel Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e successive modificazioni;
+Visto il testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi pel Regio esercito, approvato con [R. decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), e successive modificazioni;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
 Ritenuta la necessita' urgente ed assoluta di eliminare la disparita' di trattamento economico esistente tra ufficiali in servizio permanente effettivo e ufficiali delle categorie in congedo, richiamati in servizio per mobilitazione, o per esigenze speciali a questa concesse, per quanto concerne lo stipendio, il supplemento di servizio attivo e l'indennita' militare;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato o Minist
 
 Agli ufficiali delle categorie in congedo del Regio esercito, richiamati in servizio, anche a domanda, per mobilitazione o per esigenze speciali a questa connesse, spettano lo stipendio, il supplemento di servizio attivo e l'indennita' militare nella stessa misura e con le modalita' e condizioni stesse dei pari grado del servizio permanente effettivo. 
  
- Agli ufficiali di complemento e della riserva, richiamati in servizio, anche a domanda, per mobilitazione o per esigenze speciali a questa connesse, che si trovino nelle condizioni di famiglia di cui all'art. 27 del testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi pel Regio esercito, approvato con [Regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), compete altresi' l'aumento di L. 2100 annue all'indennita' militare stabilita dalla tabella I annessa al testo unico medesimo. Tale aumento e' al lordo delle riduzioni sancite coi [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561).
+ Agli ufficiali di complemento e della riserva, richiamati in servizio, anche a domanda, per mobilitazione o per esigenze speciali a questa connesse, che si trovino nelle condizioni di famiglia di cui all'art. 27 del testo unico delle disposizioni sugli stipendi, sulle paghe giornaliere e sugli assegni fissi pel Regio esercito, approvato con [Regio decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), compete altresi' l'aumento di L. 2100 annue all'indennita' militare stabilita dalla tabella I annessa al testo unico medesimo. Tale aumento e' al lordo delle riduzioni sancite coi [Regi decreti-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491), e [14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561).
 
 ## Art. 2.
 

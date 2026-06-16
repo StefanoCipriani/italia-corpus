@@ -30,7 +30,7 @@ Visto il [regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imp
 
 Vista la [legge 4 marzo 1952, n. 110](Modificazioni%20ad%20alcune%20aliquote%20della%20imposta%20generale%20sullentrata.md), concernente modificazioni ad alcune aliquote della imposta generale sull'entrata;
 
-Visto il testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
+Visto il testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 29 marzo 1947, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;177), concernente provvedimenti finanziari a favore delle Province e dei Comuni;
 

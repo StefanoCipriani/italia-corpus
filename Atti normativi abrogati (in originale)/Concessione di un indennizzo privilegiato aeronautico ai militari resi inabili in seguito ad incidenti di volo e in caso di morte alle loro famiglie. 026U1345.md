@@ -30,7 +30,7 @@ Ai militari che prestano servizio di volo nella Regia aeronautica i quali in seg
 
 ## Art. 2.
 
-Ove dall'incidente di volo sia derivata la morte del militare, l'indennizzo, con i relativi aumenti da computarsi a norma del precedente art. 1, e' concesso alla vedova ed agli orfani, e, in mancanza, ai genitori ed ai collaterali, secondo le norme e con le condizioni stabilite, per la liquidazione delle pensioni, dal testo unico di leggi approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni.
+Ove dall'incidente di volo sia derivata la morte del militare, l'indennizzo, con i relativi aumenti da computarsi a norma del precedente art. 1, e' concesso alla vedova ed agli orfani, e, in mancanza, ai genitori ed ai collaterali, secondo le norme e con le condizioni stabilite, per la liquidazione delle pensioni, dal testo unico di leggi approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni.
 
 ## Art. 3.
 

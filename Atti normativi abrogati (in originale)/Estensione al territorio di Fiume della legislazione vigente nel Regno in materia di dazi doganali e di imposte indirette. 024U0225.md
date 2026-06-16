@@ -64,7 +64,7 @@ A partire dal giorno 27 febbraio 1924, sono estese alla citta' ed al porto di Fi
  
  11° Saponi. - [Decreto Luogotenenziale 13 maggio 1917, n. 736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-13;736) (allegato C), R. decreto 19 novembre 1921 (allegato 1), e successive norme modificatrici e complementari; 
  
- 12° Spiriti. - [Testo unico 16 settembre 1909, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1909-09-16;704), [R. decreto 25 novembre 1909, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-11-25;762), e successive norme modificatrici e complementari; 
+ 12° Spiriti. - [Testo unico 16 settembre 1909, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1909-09-16;704), [R. decreto 25 novembre 1909, n. 762](../Regi%20decreti/Che%20approva%20lannesso%20nuovo%20regolamento%20in%20sostituzione%20a%20quello%20per%20la%20esecuzione%20delle%20leggi%20sugli%20spiriti.%20009U0762.md), e successive norme modificatrici e complementari; 
  
  13° Zuccheri. - [Legge 2 giugno 1877, n. 3860](Che%20stabilisce%20una%20tassa%20di%20fabbricazione%20e%20di%20raffinazione%20degli%20zuccheri%20e%20varia%20i%20dazi%20dimportazione%20di%20alcuni%20articoli%20della%20tariffa%20doganale.%20077U3860.md), [legge 2 luglio 1902, n. 238](Regime%20fiscale%20degli%20zuccheri.%20002U0238.md), [R. decreto 2 luglio 1903, n. 347](Regolamento%20per%20la%20tassa%20sulla%20fabbricazione%20degli%20zuccheri%20003U0347.md), e successive norme modificatrici e complementari; 
  

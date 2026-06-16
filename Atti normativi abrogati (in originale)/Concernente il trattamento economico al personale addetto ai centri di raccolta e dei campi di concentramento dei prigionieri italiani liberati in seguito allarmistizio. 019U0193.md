@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al personale addetto, pel servizio di inquadramento e governo, ai centri istituiti alle dirette dipendenze del Comando supremo del R. esercito per raccogliere i prigionieri italiani liberati in seguito all'armistizio concluso con le potenze nemiche, spettano le indennita' di guerra di cui al [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), esclusa, sempre, quella di entrata in campagna. 
+Al personale addetto, pel servizio di inquadramento e governo, ai centri istituiti alle dirette dipendenze del Comando supremo del R. esercito per raccogliere i prigionieri italiani liberati in seguito all'armistizio concluso con le potenze nemiche, spettano le indennita' di guerra di cui al [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), esclusa, sempre, quella di entrata in campagna. 
  
  Le stesse indennita' spettano anche al personale proveniente dalla prigionia, che, dai Comandi dei centri di raccolta, sia destinato all'inquadramento e governo dei prigionieri, limitatamente, si intende, al periodo di tempo in cui e' effettivamente adibito a tale funzione.
 

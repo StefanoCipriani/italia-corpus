@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[articolo 164 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (Limiti entro i quali e' ammessa la sospensione condizionale della pena) e' sostituito dal seguente:
+L'[articolo 164 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (Limiti entro i quali e' ammessa la sospensione condizionale della pena) e' sostituito dal seguente:
  "La sospensione condizionale della pena e' ammessa soltanto se, avuto riguardo alle circostanze indicate nell'articolo 133, il giudice presume che il colpevole si asterra' dal commettere ulteriori reati.
  La sospensione condizionale della pena non puo' essere concessa:
  1) a chi ha riportato una precedente condanna a pena detentiva per delitto anche se e' intervenuta riabilitazione, ne' al delinquente o contravventore abituale o professionale e al delinquente per tendenza;
@@ -27,7 +27,7 @@ L'[articolo 164 del Codice penale](../Codici/Approvazione%20del%20testo%20defini
 
 ## Art. 2.
 
-L'[articolo 175 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (Non menzione della condanna nel certificato del casellario) e' sostituito dal seguente:
+L'[articolo 175 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (Non menzione della condanna nel certificato del casellario) e' sostituito dal seguente:
  "Se, con una prima condanna, e' inflitta una pena detentiva non superiore a due anni, ovvero una pena pecuniaria non superiore a un milione di lire, il giudice, avuto riguardo alle circostanze indicate nell'articolo 133, puo' ordinare in sentenza che non sia fatta menzione della condanna nel certificato del casellario giudiziale, spedito a richiesta di privati, non per ragione di diritto elettorale.
  La non menzione della condanna puo' essere altresi' concessa quando e' inflitta congiuntamente una pena detentiva non superiore a due anni ed una pena pecuniaria che, convertita a norma di legge e cumulata alla pena detentiva, priverebbe complessivamente il condannato della liberta' personale per un tempo non superiore a trenta mesi.
  Se il condannato commette successivamente un delitto, l'ordine di non far menzione della condanna precedente e' revocato.

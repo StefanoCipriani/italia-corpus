@@ -67,7 +67,7 @@ In ogni Comune a cura del sindaco sara' costituita una Commissione comunale di v
 
 ## Art. 9.
 
-I capi delle famiglie e convivenze, i proprietari, i conduttori, i dirigenti delle ditte, delle aziende e degli esercizi sottoposti ai censimenti e in generale coloro che essendovi obbligati non forniscono le notizie richieste, ovvero le forniscono incomplete o scientemente errate, sono soggetti ad una ammenda fino a lire 20.000, che potra' essere aumentata fino a lire 200.000 in caso di recidiva, senza pregiudizio delle sanzioni fissate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+I capi delle famiglie e convivenze, i proprietari, i conduttori, i dirigenti delle ditte, delle aziende e degli esercizi sottoposti ai censimenti e in generale coloro che essendovi obbligati non forniscono le notizie richieste, ovvero le forniscono incomplete o scientemente errate, sono soggetti ad una ammenda fino a lire 20.000, che potra' essere aumentata fino a lire 200.000 in caso di recidiva, senza pregiudizio delle sanzioni fissate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 10.
 
@@ -92,7 +92,7 @@ Dal 1 maggio al 31 dicembre 1951 non potranno essere attuate variazioni delle ci
 
 ## Art. 15.
 
-I prefetti, sentita la Commissione di vigilanza di cui all'art. 7, faranno eseguire di ufficio, ai sensi dell'articolo 91 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), le operazioni che risultassero omesse o irregolarmente eseguite, ponendo a carico dei Comuni le spese inerenti alle nuove operazioni resesi necessarie.
+I prefetti, sentita la Commissione di vigilanza di cui all'art. 7, faranno eseguire di ufficio, ai sensi dell'articolo 91 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), le operazioni che risultassero omesse o irregolarmente eseguite, ponendo a carico dei Comuni le spese inerenti alle nuove operazioni resesi necessarie.
 
 ## Art. 16.
 

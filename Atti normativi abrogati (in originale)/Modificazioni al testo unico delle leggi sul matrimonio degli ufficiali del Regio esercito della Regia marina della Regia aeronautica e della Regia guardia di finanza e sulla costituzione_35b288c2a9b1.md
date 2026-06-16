@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza e sulla costituzione della relativa dote, approvato con [R. decreto 9 febbraio 1928, n. 371](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e successive modificazioni;
+Visto il testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza e sulla costituzione della relativa dote, approvato con [R. decreto 9 febbraio 1928, n. 371](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Articolo unico.
 
-L'art. 8 del testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza e sulla costituzione della relativa dote, approvato con [R. decreto 9 febbraio 1928, n. 371](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e successive modificazioni, e' sostituito dal seguente: 
+L'art. 8 del testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza e sulla costituzione della relativa dote, approvato con [R. decreto 9 febbraio 1928, n. 371](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e successive modificazioni, e' sostituito dal seguente: 
  
  «Art. 8. - La rendita diviene interamente disponibile: 
  

@@ -12,11 +12,11 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visti i regi decreti-legge 18 e 19 novembre 1925, numeri 1964 e 1977, convertiti nella [legge 10 dicembre 1925, n. 2252](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti%2018%20novembre%201925%20n.%201964%20che%20autorizza%20lemissione%20di%20un%20prestito%20di%20cento%20milioni%20di%20dollari%20negli%20Stati%20Uniti%20dAmerica%20e%2019%20novembre%201925%20n.%201977%20ch_60d2b6c3855d.md);
 
-Visto il [regio decreto 10 dicembre 1925, n. 2162](Norme%20che%20regolano%20la%20materia%20dei%20mutui%20allestero%20da%20parte%20di%20privati.%20025U2162.md);
+Visto il [regio decreto 10 dicembre 1925, n. 2162](../Regi%20decreti/Norme%20che%20regolano%20la%20materia%20dei%20mutui%20allestero%20da%20parte%20di%20privati.%20025U2162.md);
 
-Visto il [regio decreto 18 febbraio 1926, n. 244](Disciplina%20della%20materia%20dei%20cambi%20nei%20riguardi%20dei%20mutui%20contratti%20allestero%20dallIstituto%20di%20credito%20per%20le%20imprese%20di%20pubblica%20utilita.%20026U0244.md);
+Visto il [regio decreto 18 febbraio 1926, n. 244](../Regi%20decreti/Disciplina%20della%20materia%20dei%20cambi%20nei%20riguardi%20dei%20mutui%20contratti%20allestero%20dallIstituto%20di%20credito%20per%20le%20imprese%20di%20pubblica%20utilita.%20026U0244.md);
 
-Visto il [regio decreto 14 novembre 1926, n. 1932](Operazioni%20finanziarie%20allestero.%20026U1932.md);
+Visto il [regio decreto 14 novembre 1926, n. 1932](../Regi%20decreti/Operazioni%20finanziarie%20allestero.%20026U1932.md);
 
 Visto il [regio decreto-legge 10 febbraio 1927, n. 200](Modificazioni%20al%20R.%20decreto-legge%2024%20maggio%201926%20n.%20945%20concernente%20la%20cessione%20della%20sovvenzione%20da%20parte%20degli%20assuntori%20dei%20servizi%20marittimi.%20027U0200.md), convertito nella [legge 22 dicembre 1927, n. 2253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-22;2253);
 
@@ -24,7 +24,7 @@ Visto il [regio decreto-legge 13 febbraio 1927, n. 187](Autorizzazione%20agli%20
 
 Visto il [regio decreto-legge 27 marzo 1927, n. 370](Consolidamento%20del%20contributo%20annuo%20dello%20Stato%20a%20favore%20del%20Governatorato%20di%20Roma%20ed%20autorizzazione%20a%20contrarre%20un%20mutuo.%20027U0370.md), convertito nella [legge 15 dicembre 1927, n. 2430](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20marzo%201927%20n.%20370%20concernente%20il%20consolidamento%20del%20contributo%20annuo%20dello%20Stato%20a%20favore%20del%20Governatorato%20di%20Roma%20lautorizzazione%20a%20contrarr_c9a7cbd03286.md);
 
-Visto il [regio decreto 5 gennaio 1928, n. 1](Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md), ed il [regio decreto-legge 28 marzo 1929, n. 529](Modifiche%20al%20R.%20decreto%205%20gennaio%201928%20n.%201%20relativo%20alle%20operazioni%20di%20credito%20allestero.%20029U0529.md), convertiti nella [legge 27 giugno 1929, n. 1166](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2028%20marzo%201929%20n.%20529%20recante%20modifiche%20al%20R.%20decreto%205%20gennaio%201928%20n.%201%20relativo%20alle%20operazioni%20di%20credito%20allestero.%20029U1166.md);
+Visto il [regio decreto 5 gennaio 1928, n. 1](../Regi%20decreti/Norme%20per%20la%20disciplina%20della%20contrattazione%20di%20operazioni%20di%20mutuo%20allestero.%20028U0001.md), ed il [regio decreto-legge 28 marzo 1929, n. 529](Modifiche%20al%20R.%20decreto%205%20gennaio%201928%20n.%201%20relativo%20alle%20operazioni%20di%20credito%20allestero.%20029U0529.md), convertiti nella [legge 27 giugno 1929, n. 1166](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%2028%20marzo%201929%20n.%20529%20recante%20modifiche%20al%20R.%20decreto%205%20gennaio%201928%20n.%201%20relativo%20alle%20operazioni%20di%20credito%20allestero.%20029U1166.md);
 
 Visto il [regio decreto-legge 29 settembre 1931, numero 1207](Autorizzazione%20al%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20031U1207.md), convertito nella [legge 11 gennaio 1932, numero 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20settembre%201931%20n.%201207%20che%20autorizza%20il%20Ministro%20per%20le%20finanze%20ad%20emanare%20norme%20per%20la%20disciplina%20del%20commercio%20dei%20cambi.%20032U0018.md), e successive modificazioni, integrazioni ed aggiunte;
 

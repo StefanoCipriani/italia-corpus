@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
- Ritenuta la necessita' assoluta ed urgente di adeguare quanto prima il testo unico delle leggi e decreti per la protezione della selvaggina e per l'esercizio della caccia, approvato con [R. decreto 15 gennaio 1931, n. 117](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20decreti%20per%20la%20protezione%20della%20selvaggina%20e%20per%20lesercizio%20della%20caccia.%20031U0117.md), alle esigenze che si sono venute presentando dal tempo della pubblicazione di esso; 
+ Ritenuta la necessita' assoluta ed urgente di adeguare quanto prima il testo unico delle leggi e decreti per la protezione della selvaggina e per l'esercizio della caccia, approvato con [R. decreto 15 gennaio 1931, n. 117](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20decreti%20per%20la%20protezione%20della%20selvaggina%20e%20per%20lesercizio%20della%20caccia.%20031U0117.md), alle esigenze che si sono venute presentando dal tempo della pubblicazione di esso; 
  
  Sentito il Consiglio dei Ministri; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' data facolta' al Governo del Re di provvedere alla revisione del testo unico delle leggi e decreti per la protezione della selvaggina e per l'esercizio della caccia, approvato con [R. decreto 15 gennaio 1931, n. 117](Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20decreti%20per%20la%20protezione%20della%20selvaggina%20e%20per%20lesercizio%20della%20caccia.%20031U0117.md), allo scopo di adeguarne le norme alle attuali esigenze. 
+ E' data facolta' al Governo del Re di provvedere alla revisione del testo unico delle leggi e decreti per la protezione della selvaggina e per l'esercizio della caccia, approvato con [R. decreto 15 gennaio 1931, n. 117](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20decreti%20per%20la%20protezione%20della%20selvaggina%20e%20per%20lesercizio%20della%20caccia.%20031U0117.md), allo scopo di adeguarne le norme alle attuali esigenze. 
  
  I relativi studi sono affidati a un Comitato il cui presidente e' nominato dal Ministro per l'agricoltura e le foreste. 
  

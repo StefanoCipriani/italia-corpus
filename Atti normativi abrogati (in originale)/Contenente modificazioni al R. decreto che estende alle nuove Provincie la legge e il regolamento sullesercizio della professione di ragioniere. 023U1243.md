@@ -18,7 +18,7 @@ Visto il [R. decreto 8 febbraio 1923, n. 279](Che%20estende%20alle%20nuove%20Pro
 
 Visto il [R. decreto 22 marzo 1923, n. 642](Che%20modifica%20la%20composizione%20della%20Commissione%20per%20la%20formazione%20dellalbo%20dei%20ragionieri%20per%20i%20territori%20della%20Venezia%20Giulia%20a%20norma%20del%20R.%20decreto%208%20febbraio%201923%20n.%20279.%20023U0642.md), che modifica il R. decreto precedente;
 
-Visti i [Regi decreti 18 gennaio 1923, nn. 53](Che%20istituisce%20le%20Provincie%20dellIstria%20con%20capoluogo%20Pola%20di%20Trieste%20con%20capoluogo%20Trieste%20e%20che%20modifica%20il%20territorio%20e%20la%20denominazione%20della%20Provincia%20di%20Udine.%20023U0053.md) e [54, e 21 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-21;54), [n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-21;93), che costituiscono le provincie dell'Istria, di Trieste, di Zara e di Trento;
+Visti i [Regi decreti 18 gennaio 1923, nn. 53](Che%20istituisce%20le%20Provincie%20dellIstria%20con%20capoluogo%20Pola%20di%20Trieste%20con%20capoluogo%20Trieste%20e%20che%20modifica%20il%20territorio%20e%20la%20denominazione%20della%20Provincia%20di%20Udine.%20023U0053.md) e [54, e 21 gennaio 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-21;54), [n. 93](../Regi%20decreti/Che%20istituisce%20la%20provincia%20di%20Trento%20con%20capoluogo%20Trento.%20023U0093.md), che costituiscono le provincie dell'Istria, di Trieste, di Zara e di Trento;
 
 Udito il Consiglio dei ministri;
 

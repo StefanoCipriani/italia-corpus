@@ -20,7 +20,7 @@ Le Commissioni giudicatrici degli esami di maturita', classica e scientifica, so
  
  a) di un professore di Universita' o di Istituto Superiore, presidente; 
  
- b) di un preside dei regi istituti medi di 2° grado indicati dall'[art. 1 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_1); 
+ b) di un preside dei regi istituti medi di 2° grado indicati dall'[art. 1 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md); 
  
  c) di quattro professori ordinari dei predetti Regi istituti medi di 2° grado; 
  
@@ -34,7 +34,7 @@ Le Commissioni giudicatrici degli esami di abilitazione magistrale sono nominate
  
  a) di un professore di Universita' o di Istituto superiore, presidente; 
  
- b) di un preside dei Regi istituti medi di 2° grado indicati dall'[art. 1 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_1); 
+ b) di un preside dei Regi istituti medi di 2° grado indicati dall'[art. 1 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md); 
  
  c) di quattro professori ordinari dei predetti Regi istituti medi di 2° grado. 
  
@@ -44,7 +44,7 @@ Le Commissioni giudicatrici degli esami di abilitazione magistrale sono nominate
 
 Le Commissioni giudicatrici degli esami di abilitazione tecnica sono nominate dal Ministro e composte: 
  
- a) di un professore di Universita' o di Istituto superiore, oppure di un preside dei Regi istituti medi di 2° grado indicati dall'[art. 1 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_1), presidente; 
+ a) di un professore di Universita' o di Istituto superiore, oppure di un preside dei Regi istituti medi di 2° grado indicati dall'[art. 1 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), presidente; 
  
  b) di tre professori ordinari dei predetti Regi istituti medi di 2° grado; 
  

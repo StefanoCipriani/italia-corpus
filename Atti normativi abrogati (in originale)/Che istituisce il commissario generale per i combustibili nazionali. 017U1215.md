@@ -22,7 +22,7 @@ Il commissario generale ha facolta' di autorizzare i Comuni, i Consorzi granari 
  
  Le autorizzazioni debbono essere regolate in modo che le anticipazioni non eccedano in nessun caso la somma complessiva di quaranta milioni di lire. 
  
- Le cambiali recanti la firma del presidente del Consorzio granario o del presidente della Federazione dei consorzi, con quella garanzia che all'occorrenza sara' prescritta dal commissario generale in sostituzione del pegno di cui all'art. 1° del [R. decreto 31 gennaio 1915, n. 52](Recante%20disposizioni%20per%20il%20finanziamento%20dei%20Consorzi%20granari%20provinciali.%20015U0052.md), saranno scontate dagli Istituti di emissione non oltre la scadenza del 28 febbraio 1918.
+ Le cambiali recanti la firma del presidente del Consorzio granario o del presidente della Federazione dei consorzi, con quella garanzia che all'occorrenza sara' prescritta dal commissario generale in sostituzione del pegno di cui all'art. 1° del [R. decreto 31 gennaio 1915, n. 52](../Regi%20decreti/Recante%20disposizioni%20per%20il%20finanziamento%20dei%20Consorzi%20granari%20provinciali.%20015U0052.md), saranno scontate dagli Istituti di emissione non oltre la scadenza del 28 febbraio 1918.
 
 ## Art. 3.
 

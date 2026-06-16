@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'Istituto italiano d'igiene, previdenza ed assistenza sociale, eretto in ente morale come istituzione pubblica di assistenza e beneficenza con [R. decreto 23 luglio 1922, n. 1110](Erezione%20in%20Ente%20morale.%20022U1110.md), e' trasferito alla dipendenza della Cassa nazionale per le assicurazioni sociali, come organo nazionale di studio, di documentazione e di propaganda per l'igiene del lavoro e la previdenza sociale, perdendo il carattere di istituzione pubblica di assistenza e beneficenza.
+L'Istituto italiano d'igiene, previdenza ed assistenza sociale, eretto in ente morale come istituzione pubblica di assistenza e beneficenza con [R. decreto 23 luglio 1922, n. 1110](../Regi%20decreti/Erezione%20in%20Ente%20morale.%20022U1110.md), e' trasferito alla dipendenza della Cassa nazionale per le assicurazioni sociali, come organo nazionale di studio, di documentazione e di propaganda per l'igiene del lavoro e la previdenza sociale, perdendo il carattere di istituzione pubblica di assistenza e beneficenza.
 
 ## Art. 2.
 

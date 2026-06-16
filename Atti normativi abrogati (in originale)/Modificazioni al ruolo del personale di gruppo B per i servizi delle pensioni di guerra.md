@@ -14,7 +14,7 @@ Visto il [decreto luogotenenziale 22 giugno 1944, numero 154](https://www.normat
 
 Visto il [regio decreto-legge 5 settembre 1938, n. 1447](Riordinamento%20del%20personale%20della%20Direzione%20generale%20delle%20pensioni%20di%20guerra.%20038U1447.md), convertito nella [legge 9 gennaio 1939, n. 50](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%205%20settembre%201938-XVI%20n.%201447%20concernente%20il%20riordinamento%20del%20personale%20della%20Direzione%20generale%20delle%20pensioni%20di%20guerra.%20039U0050.md);
 
-Visto il [regio decreto 16 maggio 1940, n. 904](Modificazioni%20alla%20tabella%20organica%20del%20ruolo%20del%20personale%20di%20gruppo%20B%20per%20i%20servizi%20delle%20pensioni%20di%20guerra.%20040U0904.md);
+Visto il [regio decreto 16 maggio 1940, n. 904](../Regi%20decreti/Modificazioni%20alla%20tabella%20organica%20del%20ruolo%20del%20personale%20di%20gruppo%20B%20per%20i%20servizi%20delle%20pensioni%20di%20guerra.%20040U0904.md);
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro segretario di Stato per il tesoro; Decreta:
 
 ## Art. 1.
 
-Il ruolo del personale di gruppo B della Direzione generale delle pensioni di guerra stabilito dal [regio decreto 16 maggio 1940, n. 904](Modificazioni%20alla%20tabella%20organica%20del%20ruolo%20del%20personale%20di%20gruppo%20B%20per%20i%20servizi%20delle%20pensioni%20di%20guerra.%20040U0904.md), e' sostituito dal ruolo di cui alla seguente tabella ed e' conservato come ruolo transitorio fino ad eliminazione del personale che attualmente vi e' iscritto o che lo sara' in dipendenza di concorsi gia' indetti alla data del presente decreto: 
+Il ruolo del personale di gruppo B della Direzione generale delle pensioni di guerra stabilito dal [regio decreto 16 maggio 1940, n. 904](../Regi%20decreti/Modificazioni%20alla%20tabella%20organica%20del%20ruolo%20del%20personale%20di%20gruppo%20B%20per%20i%20servizi%20delle%20pensioni%20di%20guerra.%20040U0904.md), e' sostituito dal ruolo di cui alla seguente tabella ed e' conservato come ruolo transitorio fino ad eliminazione del personale che attualmente vi e' iscritto o che lo sara' in dipendenza di concorsi gia' indetti alla data del presente decreto: 
  
  
 

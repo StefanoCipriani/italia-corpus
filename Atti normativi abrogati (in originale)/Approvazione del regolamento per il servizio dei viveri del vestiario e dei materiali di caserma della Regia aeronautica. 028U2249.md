@@ -18,7 +18,7 @@ Vista la [legge 11 luglio 1927, n. 256](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [R. decreto 10 maggio 1905, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-05-10;227);
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il decreto commissariale 28 aprile 1924, che approva il regolamento per i servizi dei viveri, del vestiario e dei materiali di caserma e successive modifiche;
 

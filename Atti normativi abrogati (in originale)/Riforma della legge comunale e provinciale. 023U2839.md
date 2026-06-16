@@ -328,7 +328,7 @@ L'art. 162 della legge e' sostituito dal seguente:
  
  «3° avere sempre tenuto buona condotta morale e civile; 
  
- «4° aver ottenuto la licenza liceale, o quella di istituto tecnico, o il diploma di scuola normale superiore, o quello di istituto medio di commercio, secondo le disposizioni anteriori al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), o aver superati gli esami di abilitazione o maturita' preveduti negli articoli 88 e 91 del R. decreto stesso, escluso qualsiasi titolo equipollente; 
+ «4° aver ottenuto la licenza liceale, o quella di istituto tecnico, o il diploma di scuola normale superiore, o quello di istituto medio di commercio, secondo le disposizioni anteriori al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), o aver superati gli esami di abilitazione o maturita' preveduti negli articoli 88 e 91 del R. decreto stesso, escluso qualsiasi titolo equipollente; 
  
  «5° aver pagata una tassa di L. 100».
 

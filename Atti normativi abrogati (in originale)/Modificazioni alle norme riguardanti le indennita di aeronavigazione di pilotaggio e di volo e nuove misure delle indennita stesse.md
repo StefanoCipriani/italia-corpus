@@ -104,7 +104,7 @@ durata superiore........ " 3.180 3.360
 
 ## Art. 9.
 
-Le indennita' previste dalla presente legge non sono cumulabili con gli assegni di cui al regolamento approvato con [regio decreto 15 luglio 1938, n. 1156](Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), e successive modificazioni. Qualora, pero', si tratti di personale che svolga attivita' aeronavigante con aerei imbarcati o che presti effettivo servizio presso comandi aerei o navali imbarcati, verranno corrisposti entrambi i suddetti trattamenti dei quali il piu' favorevole in misura intera e l'altro in misura ridotta alla meta'.
+Le indennita' previste dalla presente legge non sono cumulabili con gli assegni di cui al regolamento approvato con [regio decreto 15 luglio 1938, n. 1156](../Regi%20decreti/Regolamento%20sugli%20assegni%20dimbarco%20al%20personale%20della%20Regia%20marina.%20038U1156.md), e successive modificazioni. Qualora, pero', si tratti di personale che svolga attivita' aeronavigante con aerei imbarcati o che presti effettivo servizio presso comandi aerei o navali imbarcati, verranno corrisposti entrambi i suddetti trattamenti dei quali il piu' favorevole in misura intera e l'altro in misura ridotta alla meta'.
 
 ## Art. 10.
 

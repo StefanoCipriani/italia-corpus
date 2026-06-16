@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-All'[art. 3 del R. decreto 26 gennaio 1913, n. 81](Col%20quale%20viene%20istituito%20il%20Consiglio%20superiore%20del%20commercio.%20013U0081.md), col quale e' istituito il Consiglio superiore del commercio e' sostituito il seguente: 
+All'[art. 3 del R. decreto 26 gennaio 1913, n. 81](../Regi%20decreti/Col%20quale%20viene%20istituito%20il%20Consiglio%20superiore%20del%20commercio.%20013U0081.md), col quale e' istituito il Consiglio superiore del commercio e' sostituito il seguente: 
  
  Art. 3. - Fanno parte di diritto del Consiglio superiore del commercio: 
  

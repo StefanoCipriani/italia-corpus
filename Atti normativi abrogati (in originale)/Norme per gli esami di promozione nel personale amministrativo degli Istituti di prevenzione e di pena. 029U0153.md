@@ -82,7 +82,7 @@ Il programma di esame per la promozione a primo segretario e' il seguente:
 
 Ogni commissario dispone di dieci punti per ciascuna materia. 
  
- Per l'ammissione alla prova orale tanto degli esami di concorso che di quelli d'idoneita', si applicano le disposizioni contenute nell'[art. 42 del R. decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_42).
+ Per l'ammissione alla prova orale tanto degli esami di concorso che di quelli d'idoneita', si applicano le disposizioni contenute nell'[art. 42 del R. decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 4.
 

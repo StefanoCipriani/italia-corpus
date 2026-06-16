@@ -169,7 +169,7 @@ A tal fine i comuni interessati presentano domanda entro trenta giorni dalla dat
 
 3.
 
-Le iniziative produttive previste nei citati piani sono ammesse a contributo con le modalita' di cui al testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+Le iniziative produttive previste nei citati piani sono ammesse a contributo con le modalita' di cui al testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 4.
 
@@ -226,7 +226,7 @@ Il termine previsto dall'[articolo 3, commi 8](https://www.normattiva.it/uri-res
 
 1.
 
-Nelle aree terremotate delle regioni Basilicata e Campania, il limite di trenta miliardi di lire previsto per la concessione del finanziamento a tasso agevolato dall'articolo 63, secondo comma, del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive modificazioni e integrazioni, puo' essere elevato dal CIPE per le iniziative industriali sostitutive per le quali sia presentata la relativa domanda entro il termine di un anno dalla data di entrata in vigore della legge di conversione del presente decreto.
+Nelle aree terremotate delle regioni Basilicata e Campania, il limite di trenta miliardi di lire previsto per la concessione del finanziamento a tasso agevolato dall'articolo 63, secondo comma, del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive modificazioni e integrazioni, puo' essere elevato dal CIPE per le iniziative industriali sostitutive per le quali sia presentata la relativa domanda entro il termine di un anno dalla data di entrata in vigore della legge di conversione del presente decreto.
 
 2.
 

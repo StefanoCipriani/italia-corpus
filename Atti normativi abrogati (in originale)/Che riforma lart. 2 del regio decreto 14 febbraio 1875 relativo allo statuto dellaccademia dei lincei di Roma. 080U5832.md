@@ -16,7 +16,7 @@ UMBERTO I
  
  RE D'ITALIA 
  
- Visto l'[art. 2 del R. decreto 14 febbraio 1875, num. 2385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-02-14;2385#art_2) (Serio 2ª), col quale fu approvato il nuovo statuto dell'Accademia dei Lincei di Roma; 
+ Visto l'[art. 2 del R. decreto 14 febbraio 1875, num. 2385](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20nuovo%20statuto%20dellAccademia%20dei%20Lincei%20in%20Roma.%20075U2385.md) (Serio 2ª), col quale fu approvato il nuovo statuto dell'Accademia dei Lincei di Roma; 
  
  Visto l'altro [R. decreto 29 novembre 1878, n. 4612](Col%20quale%20la%20dote%20annua%20della%20regia%20Accademia%20dei%20Lincei%20di%20Roma%20e%20elevata%20a%20lire%2075000.%20078U4612.md) (Serie 2ª), col quale la dote della suddetta Accademia fu portata a lire 75 mila; 
  

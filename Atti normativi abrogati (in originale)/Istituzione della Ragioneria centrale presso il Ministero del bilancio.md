@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), concernente le ragionerie delle Amministrazioni centrali e successive disposizioni;
+Visto il [regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), concernente le ragionerie delle Amministrazioni centrali e successive disposizioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 4 giugno 1947, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-06-04;407), concernente l'istituzione del Ministero del bilancio;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-E' istituita la Ragioneria centrale presso il Ministero del bilancio ai sensi del [regio decreto 25 marzo 1923, n. 599, e degli articoli 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_22), [24 e seguenti](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_24) del [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440) e successive modificazioni.
+E' istituita la Ragioneria centrale presso il Ministero del bilancio ai sensi del [regio decreto 25 marzo 1923, n. 599, e degli articoli 22](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), [24 e seguenti](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md) del [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e successive modificazioni.
 
 ## Art. 2.
 

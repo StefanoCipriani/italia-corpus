@@ -28,7 +28,7 @@ Il trattamento economico ed assicurativo di cui all'[articolo 1 della legge 5 di
 
 2.
 
-Al personale militare di cui al comma 1 si applica il [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+Al personale militare di cui al comma 1 si applica il [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 ## Art. 2.
 

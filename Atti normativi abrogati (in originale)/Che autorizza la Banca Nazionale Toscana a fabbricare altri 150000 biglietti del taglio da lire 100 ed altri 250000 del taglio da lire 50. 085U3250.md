@@ -14,9 +14,9 @@ Veduto l'[articolo 19 della legge 7 aprile 1881, n 133](Che%20provvede%20per%20l
 
 Veduto l'[articolo 8 della legge 30 aprile 1874, n 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md), (serie 2ª);
 
-Veduto il regolamento approvato con [R. decreto 17 settembre 1876, n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md), (serie 2ª);
+Veduto il regolamento approvato con [R. decreto 17 settembre 1876, n. 3375](../Regi%20decreti/Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md), (serie 2ª);
 
-Veduto il [R. decreto 23 dicembre 1883, n. 1823](Sul%20nuovo%20riparto%20dei%20biglietti%20di%20diversi%20tagli%20della%20Banca%20Nazionale%20Toscana%20083U1823.md), (serie 3ª);
+Veduto il [R. decreto 23 dicembre 1883, n. 1823](../Regi%20decreti/Sul%20nuovo%20riparto%20dei%20biglietti%20di%20diversi%20tagli%20della%20Banca%20Nazionale%20Toscana%20083U1823.md), (serie 3ª);
 
 Veduta la [legge 28 giugno 1885, n. 3167](Che%20proroga%20il%20corso%20legale%20dei%20biglietti%20degli%20Istituti%20demissione.%20085U3167.md), (serie 3ª);
 
@@ -38,7 +38,7 @@ Art
 
 2.
 
-I biglietti da lire 100 avranno gli stessi segni e distintivi caratteristici di quelli presentemente in corso e gia' autorizzati col [Regio decreto 9 settembre 1869 n. 5268](Contenente%20disposizioni%20circa%20il%20ritiro%20dei%20biglietti%20della%20Banca%20Nazionale%20Toscana%20e%20la%20sostituzione%20di%20altri%20biglietti%20di%20nuovo%20modello.%20069U5268.md); col decreto Ministeriale 22 dicembre stesso anno e con la [legge 18 agosto 1870 n. 5801](Che%20autorizza%20il%20Governo%20a%20modificare%20alcuni%20articoli%20dello%20statuto%20della%20Banca%20Nazionale%20Toscana.%20070U5801.md). 
+I biglietti da lire 100 avranno gli stessi segni e distintivi caratteristici di quelli presentemente in corso e gia' autorizzati col [Regio decreto 9 settembre 1869 n. 5268](../Regi%20decreti/Contenente%20disposizioni%20circa%20il%20ritiro%20dei%20biglietti%20della%20Banca%20Nazionale%20Toscana%20e%20la%20sostituzione%20di%20altri%20biglietti%20di%20nuovo%20modello.%20069U5268.md); col decreto Ministeriale 22 dicembre stesso anno e con la [legge 18 agosto 1870 n. 5801](Che%20autorizza%20il%20Governo%20a%20modificare%20alcuni%20articoli%20dello%20statuto%20della%20Banca%20Nazionale%20Toscana.%20070U5801.md). 
  
  In luogo peraltro della indicazione delle date 9 settembre 1869, o 18 agosto 1870, porteranno quella del R. decreto 23 dicembre 1883; ed avranno la sola firma del cassiere della sede di Firenze «M.
 Gabbrielli» insieme a quella del delegato del Consiglio superiore «Giuseppe Chiocchini.» 

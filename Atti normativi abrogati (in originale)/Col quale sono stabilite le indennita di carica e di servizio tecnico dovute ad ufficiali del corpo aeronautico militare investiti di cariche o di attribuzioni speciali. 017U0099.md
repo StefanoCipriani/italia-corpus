@@ -54,7 +54,7 @@ Sono parimente istituite le seguenti indennita' annue di carica:
  
  Quelli che vengono destinati a surrogarli nel comando territoriale acquistano diritto alle indennita' ad esso inerenti dal giorno in cui ne assumono le funzioni. 
  
- Conservano invece anche sul piede di guerra la indennita' di carica, di cui sopra, i tenenti colonnelli investiti di alcuna delle dette funzioni, sempre che non abbiano diritto a quella assegnata ai colonnelli in base alla tabella I annessa al [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md). 
+ Conservano invece anche sul piede di guerra la indennita' di carica, di cui sopra, i tenenti colonnelli investiti di alcuna delle dette funzioni, sempre che non abbiano diritto a quella assegnata ai colonnelli in base alla tabella I annessa al [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md). 
  
  Le predette indennita' non sono cumulabili con quelle giornaliere stabilite per il personale investito di funzioni aeronautiche.
 

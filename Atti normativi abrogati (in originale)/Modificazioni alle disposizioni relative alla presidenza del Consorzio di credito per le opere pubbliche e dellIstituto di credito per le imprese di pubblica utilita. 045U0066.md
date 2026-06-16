@@ -22,7 +22,7 @@ Visto il [R. decreto-legge 20 maggio 1924, n. 731](Costituzione%20di%20un%20Ente
 
 Vista la [legge 21 maggio 1940, n. 657](Conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubblico%20e%20scioglimento%20dellIstituto%20per%20il%20credito%20navale.%20040U0657.md);
 
-Visti i [Regi decreti 25 novembre 1940, n. 1955](Norme%20di%20attuazione%20della%20legge%2021%20maggio%201940-XVIII%20n.%20657%20circa%20il%20conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubbli_9839ec8c461a.md), e [11 aprile 1941, n. 388](Modificazioni%20allo%20statuto%20del%20Consorzio%20di%20credito%20per%20lo%20opere%20pubbliche.%20041U0388.md);
+Visti i [Regi decreti 25 novembre 1940, n. 1955](../Regi%20decreti/Norme%20di%20attuazione%20della%20legge%2021%20maggio%201940-XVIII%20n.%20657%20circa%20il%20conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubbli_9839ec8c461a.md), e [11 aprile 1941, n. 388](../Regi%20decreti/Modificazioni%20allo%20statuto%20del%20Consorzio%20di%20credito%20per%20lo%20opere%20pubbliche.%20041U0388.md);
 
 Visto l'[art. 4 del decreto legislativo Luogotenenziale 4 gennaio 1945, n. 1](Sospensione%20fino%20allentrata%20in%20funzione%20del%20nuovo%20Parlamento%20della%20incompatibilita%20tra%20la%20carica%20di%20governatore%20della%20Banca%20dItalia%20e%20quella%20di%20membro%20del%20Parlamento%20e%20disciplina%20fino%20a%20n_14347eed0b2d.md);
 

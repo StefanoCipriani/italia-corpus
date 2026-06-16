@@ -14,7 +14,7 @@ Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/u
 
 Visto il [regio decreto-legge 9 gennaio 1940, n. 2](Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni ed integrazioni;
 
-Visto il [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), che approva il regolamento di esecuzione della detta legge;
+Visto il [regio decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), che approva il regolamento di esecuzione della detta legge;
 
 Ritenuta la straordinaria necessita' ed urgenza di ritoccare le aliquote dell'imposta generale sull'entrata Sentito il Consiglio dei Ministri;
 

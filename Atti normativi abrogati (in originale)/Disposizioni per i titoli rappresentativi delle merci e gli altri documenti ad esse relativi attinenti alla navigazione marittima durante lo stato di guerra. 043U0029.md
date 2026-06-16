@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- I titoli rappresentativi delle merci e gli altri documenti ad esse relativi, attinenti alla navigazione marittima, sono validi, anche se, in applicazione delle norme contenute nel R. decreto 11 luglio 1941-XIX, n. 1161, manchino di alcune delle indicazioni prescritte dal [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
+ I titoli rappresentativi delle merci e gli altri documenti ad esse relativi, attinenti alla navigazione marittima, sono validi, anche se, in applicazione delle norme contenute nel R. decreto 11 luglio 1941-XIX, n. 1161, manchino di alcune delle indicazioni prescritte dal [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
  
  Ogni patto contrario e' nullo. 
  

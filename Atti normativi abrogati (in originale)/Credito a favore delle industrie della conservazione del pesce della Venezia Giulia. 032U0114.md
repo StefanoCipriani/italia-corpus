@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Ritenuta la necessita' urgente ed assoluta di agevolare le operazioni di credito a favore di talune industrie accessorie della pesca nelle provincie di Trieste, Pola, Fiume e Zara;
 
-Visto il testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604);
+Visto il testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le fo
 
 ## Art. 1.
 
-Il concorso nel pagamento degli interessi per operazioni di credito, dirette agli scopi di cui alla lettera c) dell'art. 45 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), puo' essere accordato, secondo le norme del citato articolo, limitatamente, all'ammontare massimo complessivo di sette milioni di operazioni, quando queste ultime si riferiscano ad opere gia' eseguite, oppure in corso di esecuzione alla data di pubblicazione del presente provvedimento, nelle provincie di Trieste, Pola, Fiume e Zara, purche' l'inizio delle opere stesse non sia avvenuto in data anteriore al 1° gennaio 1926. 
+Il concorso nel pagamento degli interessi per operazioni di credito, dirette agli scopi di cui alla lettera c) dell'art. 45 del testo unico delle leggi sulla pesca, approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), puo' essere accordato, secondo le norme del citato articolo, limitatamente, all'ammontare massimo complessivo di sette milioni di operazioni, quando queste ultime si riferiscano ad opere gia' eseguite, oppure in corso di esecuzione alla data di pubblicazione del presente provvedimento, nelle provincie di Trieste, Pola, Fiume e Zara, purche' l'inizio delle opere stesse non sia avvenuto in data anteriore al 1° gennaio 1926. 
  Il concorso puo' essere accordato per mutui gia' stipulati oppure da stipulare per la sistemazione di precedenti passivita', purche' in ogni caso la operazione risulti conforme alle norme del citato articolo ed abbia una durata non superiore ad anni 10. 
  Al servizio del pagamento degli interessi si provvedera' con le disponibilita' indicate all'art. 93 del testo unico sopra menzionato.
 

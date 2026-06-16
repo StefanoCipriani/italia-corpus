@@ -28,9 +28,9 @@ Sulla proposta del Ministro della Guerra; Abbiamo decretato e decretiamo:
 
 Sono rese esecutorie nelle Provincie Venete le seguenti Leggi: 
  
- 1° [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare stato pubblicato il 1° ottobre 1859; 
+ 1° [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare stato pubblicato il 1° ottobre 1859; 
  
- 2° Legge portante modificazione al detto [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare in data dell'11 febbraio 1864; 
+ 2° Legge portante modificazione al detto [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare in data dell'11 febbraio 1864; 
  
  3° Legge sul reclutamento dell'Esercito in data del 20 marzo 1854, colle modificazioni delle Leggi successive 12 giugno e 15 luglio 1857, 24 agosto 1862, ed 8 agosto 1863. 
  

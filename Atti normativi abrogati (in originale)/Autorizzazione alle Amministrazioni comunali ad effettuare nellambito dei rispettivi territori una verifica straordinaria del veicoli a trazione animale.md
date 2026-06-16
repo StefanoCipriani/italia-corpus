@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), che detta norme per la tutela delle strade e per la circolazione;
+Visto il [regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), che detta norme per la tutela delle strade e per la circolazione;
 
 Ritenuta l'opportunita' che i Comuni procedano ad una verifica straordinaria dei veicoli a trazione animale al fine di ricondurre alla normalita' una, situazione gravemente alterata da sottrazioni, requisizioni e trasformazioni conseguenti alle vicende belliche;
 
@@ -28,7 +28,7 @@ Le Amministrazioni comunali sono autorizzate ad effettuare nell'ambito dei rispe
 
 ## Art. 2.
 
-In deroga a quanto disposto dall'art. 45 del vigente [regio decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e limitatamente alla verifica straordinaria di cui all'art. 1, i Comuni sono autorizzati a riscuotere per le relative operazioni di tassa di L. 20 per ciascun veicolo sottoposto alla verifica.
+In deroga a quanto disposto dall'art. 45 del vigente [regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e limitatamente alla verifica straordinaria di cui all'art. 1, i Comuni sono autorizzati a riscuotere per le relative operazioni di tassa di L. 20 per ciascun veicolo sottoposto alla verifica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle, leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

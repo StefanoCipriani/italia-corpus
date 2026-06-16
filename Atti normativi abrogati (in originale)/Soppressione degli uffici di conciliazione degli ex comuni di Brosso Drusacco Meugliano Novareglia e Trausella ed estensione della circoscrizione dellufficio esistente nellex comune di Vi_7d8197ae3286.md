@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 28 marzo 1929, n. 658](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;658), col quale i comuni di Brosso, Drusacco, Meugliano, Novareglia, Trausello e Vico Canavese venivano riuniti in un solo Comune denominato Valchiusa con sede e capoluogo a Vico Canavese; 
+ Visto il [R. decreto 28 marzo 1929, n. 658](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brosso%20Drusacco%20Meugliano%20Novareglia%20Trausella%20e%20Vico%20Canavese%20in%20un%20unico%20Comune%20con%20denominazione%20Valchiusa%20e%20capoluogo%20a%20Vico%20Canavese.%20029U0658.md), col quale i comuni di Brosso, Drusacco, Meugliano, Novareglia, Trausello e Vico Canavese venivano riuniti in un solo Comune denominato Valchiusa con sede e capoluogo a Vico Canavese; 
  
  Vista la deliberazione del podesta' di detto Comune con la quale si chiede che per tutto il territorio del comune di Valchiusa funzioni un solo ufficio di conciliazione; 
  

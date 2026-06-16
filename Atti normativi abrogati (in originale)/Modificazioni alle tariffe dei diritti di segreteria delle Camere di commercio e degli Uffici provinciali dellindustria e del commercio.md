@@ -19,7 +19,7 @@ PROMULGA la seguente legge:
 ## Art. 1.
 
 Le tariffe, in base alle quali le Camere di commercio, industria ed agricoltura e gli Uffici provinciali dell'industria e del commercio riscuotono i diritti di segreteria previsti dall'art. 52 lettere a) e b), del testo unico approvato con [regio decreto 20 settembre 1934, n. 
-2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), secondo la misura fissata dal [decreto legislativo 5 settembre 1946, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-05;149), sono aumentate di otto volte.
+2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), secondo la misura fissata dal [decreto legislativo 5 settembre 1946, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-05;149), sono aumentate di otto volte.
 
 ## Art. 2.
 

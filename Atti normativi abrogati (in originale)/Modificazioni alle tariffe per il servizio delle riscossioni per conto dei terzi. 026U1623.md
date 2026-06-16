@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
+Visto il testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md);
 
-Visto l'art. 197 del regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
+Visto l'art. 197 del regolamento generale sul servizio postale approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md);
 
-Visti i [Regi decreti 2 marzo 1911, n. 176](Che%20apporta%20modificazioni%20al%20regolamento%20generale%20intorno%20al%20servizio%20postale.%20011U0176.md), e [15 maggio 1913, n. 574](Col%20quale%20viene%20apportata%20una%20modificazione%20allart.%20197%20del%20regolamento%20generale%20sul%20servizio%20postale%20approvato%20col%20R.%20decreto%2010%20febbraio%201901%20n.%20120%20e%20modificato%20col%20R.%20decreto%202%20marzo%20_e9c871d9402e.md), che apportano modificazioni all'art. 197 del suddetto regolamento generale;
+Visti i [Regi decreti 2 marzo 1911, n. 176](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20regolamento%20generale%20intorno%20al%20servizio%20postale.%20011U0176.md), e [15 maggio 1913, n. 574](../Regi%20decreti/Col%20quale%20viene%20apportata%20una%20modificazione%20allart.%20197%20del%20regolamento%20generale%20sul%20servizio%20postale%20approvato%20col%20R.%20decreto%2010%20febbraio%201901%20n.%20120%20e%20modificato%20col%20R.%20decreto%202%20marzo%20_e9c871d9402e.md), che apportano modificazioni all'art. 197 del suddetto regolamento generale;
 
-Visto l'[art. 36 del R. decreto 13 febbraio 1921, n. 196](Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md);
+Visto l'[art. 36 del R. decreto 13 febbraio 1921, n. 196](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20ottobre%201919%20n.%202100%20modificato%20col%20R.%20decreto-legge%2030%20settembre%201920%20n.%201441%20riflettente%20lordinamento%20delle%20ricevitorie_1844c5b600cd.md);
 
-Visto il [R. decreto 17 dicembre 1922, n. 1638](Che%20apporta%20modificazioni%20alle%20vigenti%20tariffe%20postali.%20022U1638.md), che apporta modificazioni alle tariffe postali;
+Visto il [R. decreto 17 dicembre 1922, n. 1638](../Regi%20decreti/Che%20apporta%20modificazioni%20alle%20vigenti%20tariffe%20postali.%20022U1638.md), che apporta modificazioni alle tariffe postali;
 
 Visto il [R. decreto 23 aprile 1925, n. 520](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;520), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
@@ -38,11 +38,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Il limite massimo d'importo dei titoli da riscuotere compresi in ogni piego, di cui al [1° comma dell'art. 1 del R. decreto 15 maggio 1913, n. 574](Col%20quale%20viene%20apportata%20una%20modificazione%20allart.%20197%20del%20regolamento%20generale%20sul%20servizio%20postale%20approvato%20col%20R.%20decreto%2010%20febbraio%201901%20n.%20120%20e%20modificato%20col%20R.%20decreto%202%20marzo%20_e9c871d9402e.md), e' elevato a L. 5000; meno per le ricevitorie di 3ª classe, per le quali resta fissato in L. 1000.
+Il limite massimo d'importo dei titoli da riscuotere compresi in ogni piego, di cui al [1° comma dell'art. 1 del R. decreto 15 maggio 1913, n. 574](../Regi%20decreti/Col%20quale%20viene%20apportata%20una%20modificazione%20allart.%20197%20del%20regolamento%20generale%20sul%20servizio%20postale%20approvato%20col%20R.%20decreto%2010%20febbraio%201901%20n.%20120%20e%20modificato%20col%20R.%20decreto%202%20marzo%20_e9c871d9402e.md), e' elevato a L. 5000; meno per le ricevitorie di 3ª classe, per le quali resta fissato in L. 1000.
 
 ## Art. 2.
 
-Le tariffe per il servizio delle riscossioni per conto di terzi, di cui alla [lettera c) dell'art. 1 del R. decreto 17 dicembre 1922, n. 1638](Che%20apporta%20modificazioni%20alle%20vigenti%20tariffe%20postali.%20022U1638.md), sono modificate nel modo seguente: 
+Le tariffe per il servizio delle riscossioni per conto di terzi, di cui alla [lettera c) dell'art. 1 del R. decreto 17 dicembre 1922, n. 1638](../Regi%20decreti/Che%20apporta%20modificazioni%20alle%20vigenti%20tariffe%20postali.%20022U1638.md), sono modificate nel modo seguente: 
  
  c) riscossione per conto di terzi: 
  

@@ -46,7 +46,7 @@ Per il mese di aprile, in via di esperimento, i Consorzi granari dovranno cedere
 
 ## Art. 5.
 
-Il Governo del Re e' autorizzato a stabilire speciali sanzioni, senza pregiudizio delle maggiori pene sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per colpire le frodi nella confezione delle diverse forme di pane, nell'abburattamento, ed in genere nella macinazione e nella panificazione.
+Il Governo del Re e' autorizzato a stabilire speciali sanzioni, senza pregiudizio delle maggiori pene sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per colpire le frodi nella confezione delle diverse forme di pane, nell'abburattamento, ed in genere nella macinazione e nella panificazione.
 
 ## Art. 6.
 
@@ -97,7 +97,7 @@ Il Governo e' autorizzato a emanare, nell'interesse dell'erario e quando li cred
 
 ## Art. 13.
 
-E' devoluto al conto pane di cui nel successivo articolo 14 il maggiore provento netto derivante dall'aumento dei prezzi dei tabacchi, stabilito con i tre [Regi decreti 3 novembre 1920, nn. 1517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-03;1517), [1518](col%20quale%20viene%20modificato%20il%20prezzo%20di%20vendita%20al%20pubblico%20di%20alcune%20varieta%20di%20tabacchi%20da%20fumo%20nazionali%20020U1518.md), [1519](col%20quale%20viene%20elevato%20il%20prezzo%20di%20vendita%20al%20pubblico%20dellestratto%20di%20tabacco%20di%20tipo%20normale%20e%20della%20polvere%20insetticida.%20020U1519.md).
+E' devoluto al conto pane di cui nel successivo articolo 14 il maggiore provento netto derivante dall'aumento dei prezzi dei tabacchi, stabilito con i tre [Regi decreti 3 novembre 1920, nn. 1517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-03;1517), [1518](../Regi%20decreti/col%20quale%20viene%20modificato%20il%20prezzo%20di%20vendita%20al%20pubblico%20di%20alcune%20varieta%20di%20tabacchi%20da%20fumo%20nazionali%20020U1518.md), [1519](../Regi%20decreti/col%20quale%20viene%20elevato%20il%20prezzo%20di%20vendita%20al%20pubblico%20dellestratto%20di%20tabacco%20di%20tipo%20normale%20e%20della%20polvere%20insetticida.%20020U1519.md).
 
 ## Art. 14.
 

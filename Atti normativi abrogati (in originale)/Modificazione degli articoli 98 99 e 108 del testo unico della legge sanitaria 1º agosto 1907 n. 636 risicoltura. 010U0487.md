@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Gli [articoli 27](Norme%20e%20disposizioni%20sulla%20risicoltura.%20007U0337.md) e [28 della legge 16 giugno 1907, numero 337](Norme%20e%20disposizioni%20sulla%20risicoltura.%20007U0337.md) ([articoli 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_98) e [99 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99), 1° agosto 1907, n. 636), sono abrogati ed in loro vece sono sostituiti i seguenti: 
+Gli [articoli 27](Norme%20e%20disposizioni%20sulla%20risicoltura.%20007U0337.md) e [28 della legge 16 giugno 1907, numero 337](Norme%20e%20disposizioni%20sulla%20risicoltura.%20007U0337.md) ([articoli 98](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [99 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), 1° agosto 1907, n. 636), sono abrogati ed in loro vece sono sostituiti i seguenti: 
  
  Art. 27. «In ogni Comune dei territori coltivati a riso, ogni anno e fino alla istituzione dei probiviri agricoli, alle date, nei modi e nei termini fissati dal regolamento per l'esecuzione della presente legge e' eletta una Commissione di conciliazione. 
  
@@ -41,7 +41,7 @@ Nota redazionale
 
 ## Art. 2.
 
-Al [primo comma dell'art. 108 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_108-com1) 1° agosto 1907, n. 636, e' sostituito il seguente: 
+Al [primo comma dell'art. 108 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito il seguente: 
  
  «Le contravvenzioni agli articoli 77, 78, 80 e 81 e le contravvenzioni ai regolamenti previsti all'art. 72 sono punite con l'ammenda da L. 50 a L. 1500». 
  

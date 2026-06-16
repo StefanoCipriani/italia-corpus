@@ -42,7 +42,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 18 gennaio 1923, n. 94](Che%20istituisce%20presso%20il%20Ministero%20delle%20finanze%20un%20Provveditorato%20generale%20dello%20Stato.%20023U0094.md), che istituisce il Provveditorato generale dello Stato, e successive modificazioni; 
  
- Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e successive modificazioni; 
+ Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e successive modificazioni; 
  
  Visto il [R. decreto 18 novembre 1923, n. 2441](Modificazioni%20alla%20legge%20sulla%20Corte%20dei%20conti.%20023U2441.md), che approva modificazioni alla legge sulla Corte dei conti; 
  

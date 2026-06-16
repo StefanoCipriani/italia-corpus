@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 8 maggio 1927, n. 762](Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md);
+Visto il [regio decreto 8 maggio 1927, n. 762](../Regi%20decreti/Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md);
 
 Visto il decreto-legge luogotenenziale 25 giugno 1944, P. 151;
 
@@ -22,10 +22,10 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-L'indennita' mensile spettante al personale addetto al servizio di polizia lungo la linea di frontiera di terra, a termini dell'art. 1, capoverso, del [regio decreto 8 maggio 1927, n. 762](Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md), e' aumentata nella misura seguente: 
+L'indennita' mensile spettante al personale addetto al servizio di polizia lungo la linea di frontiera di terra, a termini dell'art. 1, capoverso, del [regio decreto 8 maggio 1927, n. 762](../Regi%20decreti/Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md), e' aumentata nella misura seguente: 
  
  funzionari . . . . . . . . . . . . . . . . . . . . . . . . .L. 1200 impiegati. . . . . . . . . . . . . . . . . . . . . . . . . .L. 750 ufficiali della forza pubblica . . . . . . . . . . . . . . .L. 1200 sottufficiali. . . . . . . . . . . . . . . . . . . . . . . .L. 450 agenti . . . . . . . . . . . . . . . . . . . . . . . . . . .L. 360  
- Le localita' particolarmente disagiate, per le quali l'art. 1, ultimo comma, del [regio decreto 8 maggio 1927, n. 762](Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md), prevede la corresponsione dell'indennita' di frontiera maggiorata di un terzo, saranno stabilite con decreto del Ministro per l'interno, di concerto con quello per il tesoro.
+ Le localita' particolarmente disagiate, per le quali l'art. 1, ultimo comma, del [regio decreto 8 maggio 1927, n. 762](../Regi%20decreti/Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md), prevede la corresponsione dell'indennita' di frontiera maggiorata di un terzo, saranno stabilite con decreto del Ministro per l'interno, di concerto con quello per il tesoro.
 
 ## Art. 2.
 
@@ -33,7 +33,7 @@ L'indennita' di cui all'articolo precedente e' cumulabile con quella di missione
 
 ## Art. 3.
 
-Sono soppresse le parole: "milizia volontaria sicurezza nazionale" contenute negli [articoli 1](Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md), [2](Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md) e [3 del regio decreto 8 maggio 1927, n. 762](Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md). 
+Sono soppresse le parole: "milizia volontaria sicurezza nazionale" contenute negli [articoli 1](../Regi%20decreti/Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md), [2](../Regi%20decreti/Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md) e [3 del regio decreto 8 maggio 1927, n. 762](../Regi%20decreti/Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md). 
  
  Il presente decreto entra, in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

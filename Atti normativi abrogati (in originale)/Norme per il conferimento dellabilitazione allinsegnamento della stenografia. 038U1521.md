@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-L'abilitazione all'insegnamento della stenografia nelle scuole pubbliche di ogni ordine e grado, si consegue per esami da chi possegga il diploma di maturita' classica o scientifica o quello di abilitazione magistrale o tecnica, oltre agli altri requisiti di cui all'[art. 5 del R. decreto 31 agosto 1910, n. 821](Che%20apporta%20modificazioni%20al%20regolamento%20per%20la%20abilitazione%20allinsegnamento%20della%20stenografia.%20010U0821.md), superando le prove stabilite nei programmi, firmati d'ordine Nostro, dal Nostro Ministro Segretario di Stato per l'educazione nazionale, per i sistemi stenografici Cima, Gabelsberger Noe' e Meschini (stenografia nazionale).
+L'abilitazione all'insegnamento della stenografia nelle scuole pubbliche di ogni ordine e grado, si consegue per esami da chi possegga il diploma di maturita' classica o scientifica o quello di abilitazione magistrale o tecnica, oltre agli altri requisiti di cui all'[art. 5 del R. decreto 31 agosto 1910, n. 821](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20regolamento%20per%20la%20abilitazione%20allinsegnamento%20della%20stenografia.%20010U0821.md), superando le prove stabilite nei programmi, firmati d'ordine Nostro, dal Nostro Ministro Segretario di Stato per l'educazione nazionale, per i sistemi stenografici Cima, Gabelsberger Noe' e Meschini (stenografia nazionale).
 
 ## Art. 2.
 

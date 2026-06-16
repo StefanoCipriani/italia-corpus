@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), e successive modificazioni;
+Visto il [R. decreto 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Art. 1.
 
-L'[art. 6 del R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), e' sostituito dal seguente: 
+L'[art. 6 del R. decreto 7 gennaio 1923, n. 12](../Regi%20decreti/Sullordinamento%20del%20R.%20esercito.%20023U0012.md), e' sostituito dal seguente: 
  
  Art. 6. - Fanno parte dello Stato Maggiore generale del Regio esercito: 
  
@@ -62,7 +62,7 @@ L'[art. 6 del R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20ese
 
 ## Art. 2.
 
-Transitoriamente, fino a che non siano stabilite le loro attribuzioni, il capo di Stato Maggiore generale e il sottocapo di Stato Maggiore generale eserciteranno le funzioni stabilite dal [R. decreto 11 gennaio 1923, n. 20](Che%20reca%20disposizioni%20relative%20allalto%20Comando%20e%20al%20Consiglio%20dellesercito.%20023U0020.md), e dalle altre disposizioni vigenti rispettivamente per l'ispettore generale del Regio esercito e per il capo dello Stato Maggiore centrale. 
+Transitoriamente, fino a che non siano stabilite le loro attribuzioni, il capo di Stato Maggiore generale e il sottocapo di Stato Maggiore generale eserciteranno le funzioni stabilite dal [R. decreto 11 gennaio 1923, n. 20](../Regi%20decreti/Che%20reca%20disposizioni%20relative%20allalto%20Comando%20e%20al%20Consiglio%20dellesercito.%20023U0020.md), e dalle altre disposizioni vigenti rispettivamente per l'ispettore generale del Regio esercito e per il capo dello Stato Maggiore centrale. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge ed entrera' in vigore dalla sua data. 
  

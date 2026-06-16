@@ -63,7 +63,7 @@ La inosservanza degli obblighi dello statuto e la contravvenzione alle norme del
 
 ## Art. 7.
 
-Per le contravvenzioni al disposto del presente decreto si procedera' a termini degli [articoli 122 e seguenti del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), per quanto applicabili.
+Per le contravvenzioni al disposto del presente decreto si procedera' a termini degli [articoli 122 e seguenti del R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), per quanto applicabili.
 
 ## Art. 8.
 

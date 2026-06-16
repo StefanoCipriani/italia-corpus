@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 25 maggio 1895, n. 350](Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md);
+Visto il [regio decreto 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md);
 
-Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
@@ -76,7 +76,7 @@ Il Ministero delle poste e delle telecomunicazioni puo' provvedere, con i mezzi 
 
 NOTE 
  AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - Il [R.D. n. 350/1895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895;350) reca il "Regolamento per la direzione, la contabilita' e la collaudazione dei lavori dello Stato che sono nelle attribuzioni del Ministero dei lavori pubblici". 
@@ -106,7 +106,7 @@ Capo II
 
 1.
 
-Il Ministero delle poste e delle telecomunicazioni, fatte salve le attribuzioni del Provveditorato generale dello Stato e dell'Istituto Poligrafico e Zecca dello Stato e del Ministero dei lavori pubblici, con l'osservanza delle disposizioni contenute nel presente capo, ai sensi dell'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), puo' provvedere:
+Il Ministero delle poste e delle telecomunicazioni, fatte salve le attribuzioni del Provveditorato generale dello Stato e dell'Istituto Poligrafico e Zecca dello Stato e del Ministero dei lavori pubblici, con l'osservanza delle disposizioni contenute nel presente capo, ai sensi dell'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), puo' provvedere:
                             a)
                                 nei casi di urgenza: 
  1) all'acquisto di gruppi elettrogeni e di gruppi statici di continuita' di piccola e media potenza, di complessi autonomi di illuminazione elettrica di emergenza, nel limite di importo inferiore alla soglia comunitaria; 
@@ -257,7 +257,7 @@ Al collaudo non puo' partecipare chi abbia provveduto all'ordinazione, alla dire
 
 3.
 
-E' consentito il collaudo parziale dei lavori, delle forniture e dei servizi secondo le disposizioni di cui ai commi 1 e 2. In tal caso i pagamenti in conto sono disposti nella misura di cui all'[art. 48 del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_48), cosi' come modificato dall'[art. 1 del decreto del Presidente della Repubblica 13 novembre 1976, n. 904](../DPR/Modificazioni%20agli%20articoli%2048%20primo%20comma%20250%20e%20420%20quarto%20comma%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto_78f444a457f6.md).
+E' consentito il collaudo parziale dei lavori, delle forniture e dei servizi secondo le disposizioni di cui ai commi 1 e 2. In tal caso i pagamenti in conto sono disposti nella misura di cui all'[art. 48 del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_48), cosi' come modificato dall'[art. 1 del decreto del Presidente della Repubblica 13 novembre 1976, n. 904](../Regolamenti%20governativi/Modificazioni%20agli%20articoli%2048%20primo%20comma%20250%20e%20420%20quarto%20comma%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto_78f444a457f6.md).
 
 Nota all'art. 10:
  - Si riporta il testo dell'art. 48 del sopracitato [R.D.
@@ -290,7 +290,7 @@ Nota all'art. 11:
 
 1.
 
-Le fatture e le note dei lavori, delle forniture e dei servizi non possono essere ammesse al pagamento se non sono corredate dell'autorizzazione di spesa, salvo il caso di cui al [quarto comma dell'art. 50 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_50-com4), nonche' della dichiarazione di collaudo ovvero dell'attestazione o della dichiarazione di regolare esecuzione di cui all'art. 10, e se non risultano munite del visto di liquidazione da parte del dirigente dell'ufficio committente.
+Le fatture e le note dei lavori, delle forniture e dei servizi non possono essere ammesse al pagamento se non sono corredate dell'autorizzazione di spesa, salvo il caso di cui al [quarto comma dell'art. 50 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), nonche' della dichiarazione di collaudo ovvero dell'attestazione o della dichiarazione di regolare esecuzione di cui all'art. 10, e se non risultano munite del visto di liquidazione da parte del dirigente dell'ufficio committente.
 
 2.
 
@@ -327,7 +327,7 @@ Gli uffici periferici provvedono al pagamento delle spese di cui al presente reg
 
 3.
 
-Per i rendiconti delle somme erogate sulle aperture di credito si applicano le norme contenute negli [articoli 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60) e [61 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61), e negli [articoli 333 e seguenti del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_333), e successive integrazioni e modificazioni.
+Per i rendiconti delle somme erogate sulle aperture di credito si applicano le norme contenute negli [articoli 60](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [61 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e negli [articoli 333 e seguenti del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_333), e successive integrazioni e modificazioni.
 
 Nota all'art. 13:
  - Si riporta il testo degli [articoli 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923;2440#art_60) e [61 del R.D. n. 2440/1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923;2440#art_61) e dell'[art. 333 del R.D. n. 827/1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923;827#art_333) (per i titoli v. nelle note alle premesse per il primo e nella nota all'art. 4 per il secondo): [R.D. n. 2440/1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923;2440):
@@ -367,7 +367,7 @@ I limiti di valore per provvedere alle spese di cui al presente regolamento, rel
 
 1.
 
-Per quanto non previsto dal presente regolamento, si applicano le disposizioni di cui al [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), ed al [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni ed integrazioni.
+Per quanto non previsto dal presente regolamento, si applicano le disposizioni di cui al [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), ed al [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni ed integrazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

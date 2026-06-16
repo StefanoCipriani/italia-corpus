@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La giurisdizione del tribunale militare per l'esercito in Vallone viene estesa a tutti i militari e militarizzati della R. marina, sia destinati a terra che a bordo di navi ivi dislocate, anche per i reati di cui nel capoverso dell'[art. 1 del decreto Luogotenenziale 10 gennaio 1918, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-10;90#art_1), applicandosi, in quest'ultimo caso, le pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e dal [decreto Luogotenenziale 4 febbraio 1917, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-04;196).
+La giurisdizione del tribunale militare per l'esercito in Vallone viene estesa a tutti i militari e militarizzati della R. marina, sia destinati a terra che a bordo di navi ivi dislocate, anche per i reati di cui nel capoverso dell'[art. 1 del decreto Luogotenenziale 10 gennaio 1918, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-10;90#art_1), applicandosi, in quest'ultimo caso, le pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e dal [decreto Luogotenenziale 4 febbraio 1917, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-04;196).
 
 ## Art. 2.
 

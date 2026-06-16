@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Gli [articoli 1](Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md) e [2 del R. decreto 31 dicembre 1923, n. 3125](Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), sono abrogati.
+Gli [articoli 1](../Regi%20decreti/Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md) e [2 del R. decreto 31 dicembre 1923, n. 3125](../Regi%20decreti/Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), sono abrogati.
 
 ## Art. 2.
 
-All'[art. 3 del R. decreto 31 dicembre 1923, n. 3125](Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), commi 1 e 2, e' sostituito il seguente: 
+All'[art. 3 del R. decreto 31 dicembre 1923, n. 3125](../Regi%20decreti/Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), commi 1 e 2, e' sostituito il seguente: 
  
  «Le spese per la costruzione e l'acquisto e per adattamento e riparazione degli edifici scolastici, sono a carico dei Comuni. 
  

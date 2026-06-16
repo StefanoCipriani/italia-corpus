@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 5 settembre 1904, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-09-05;596), col quale fu approvato lo statuto organico del R. Istituto dei sordo-muti in Roma; 
+ Veduto il [R. decreto 5 settembre 1904, n. 596](../Regi%20decreti/Che%20approva%20e%20contiene%20lo%20statuto%20organico%20col%20quale%20sara%20governato%20il%20R.%20Istituto%20dei%20sordomuti%20di%20Roma.%20004U0596.md), col quale fu approvato lo statuto organico del R. Istituto dei sordo-muti in Roma; 
  
  Riconosciuta la opportunita' di una parziale modificazione dell'art. 4 del predetto statuto; 
  

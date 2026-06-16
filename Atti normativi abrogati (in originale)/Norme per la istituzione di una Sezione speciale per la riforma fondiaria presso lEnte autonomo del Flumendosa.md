@@ -16,7 +16,7 @@ Vista la [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bon
 
 Visto il [decreto legislativo 10 aprile 1951, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1951-04-10;256), contenute norme per l'applicazione della predetta [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), a tutto il territorio della Sardegna;
 
-Visto il [regio decreto legislativo 17 maggio 1946, numero 498](Istituzione%20dellEnte%20autonomo%20del%20Flumendosa.md), che istituisce l'Ente autonomo del Flumendosa;
+Visto il [regio decreto legislativo 17 maggio 1946, numero 498](../Regi%20decreti%20legislativi/Istituzione%20dellEnte%20autonomo%20del%20Flumendosa.md), che istituisce l'Ente autonomo del Flumendosa;
 
 Vista la delega contenuta nell'art. 2 della predetta [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste, 
 
 ## Art. 1.
 
-Ai sensi dell'[art. 2 della legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e' costituita presso l'Ente autonomo del Flumendosa, istituito col [regio decreto legislativo 17 maggio 1946, n. 498](Istituzione%20dellEnte%20autonomo%20del%20Flumendosa.md), una Sezione speciale per la riforma fondiaria, con lo scopo di esercitare, nel territorio indicato nello art. 2 del presente decreto, le funzioni relative alla espropriazione, bonifica, trasformazione e assegnazione dei terreni ai contadini, nonche' le altre attribuzioni previste dalla citata [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e quelle che potranno essere conferite da successive disposizioni di legge in materia di riforma fondiaria o di bonifica.
+Ai sensi dell'[art. 2 della legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e' costituita presso l'Ente autonomo del Flumendosa, istituito col [regio decreto legislativo 17 maggio 1946, n. 498](../Regi%20decreti%20legislativi/Istituzione%20dellEnte%20autonomo%20del%20Flumendosa.md), una Sezione speciale per la riforma fondiaria, con lo scopo di esercitare, nel territorio indicato nello art. 2 del presente decreto, le funzioni relative alla espropriazione, bonifica, trasformazione e assegnazione dei terreni ai contadini, nonche' le altre attribuzioni previste dalla citata [legge 21 ottobre 1950, n. 841](Norme%20per%20la%20espropriazione%20bonifica%20trasformazione%20ed%20assegnazione%20dei%20terreni%20ai%20contadini.md), e quelle che potranno essere conferite da successive disposizioni di legge in materia di riforma fondiaria o di bonifica.
 
 ## Art. 2.
 

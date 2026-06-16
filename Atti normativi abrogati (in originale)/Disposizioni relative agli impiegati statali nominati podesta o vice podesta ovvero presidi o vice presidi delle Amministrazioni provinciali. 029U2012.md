@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Vista la [legge 4 febbraio 1926, n. 237](Istituzione%20del%20Podesta%20e%20della%20Consulta%20municipale%20nei%20Comuni%20con%20popolazione%20non%20eccedente%20i%205000%20abitanti.%20026U0237.md), istitutiva dei podesta', e successive modificazioni;
 
@@ -38,7 +38,7 @@ L'impiegato civile di ruolo non puo' rivestire la carica di podesta' o di vice p
 
 ## Art. 2.
 
-Le disposizioni dell'articolo precedente sono applicabili, oltre che ai personali civili dello Stato disciplinati dal [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), a tutti gli altri dipendenti statali di ruolo pei quali vigono speciali ordinamenti, nonche' ai maestri elementari inscritti nei ruoli dei Provveditorati regionali scolastici ed al personale delle scuole ed istituti d'istruzione mantenuti con concorso dello Stato.
+Le disposizioni dell'articolo precedente sono applicabili, oltre che ai personali civili dello Stato disciplinati dal [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), a tutti gli altri dipendenti statali di ruolo pei quali vigono speciali ordinamenti, nonche' ai maestri elementari inscritti nei ruoli dei Provveditorati regionali scolastici ed al personale delle scuole ed istituti d'istruzione mantenuti con concorso dello Stato.
 
 ## Art. 3.
 

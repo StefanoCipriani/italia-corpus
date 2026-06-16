@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022), e successive modificazioni;
+Visto l'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md), e successive modificazioni;
 
 Visto il decreto-legge Luogotenziale 25 giugno 1944, n. 151;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la guerra, d'intesa coi Ministri per la grazia e
 
 ## Art. 1.
 
-Gli ufficiali generali che devono essere designati mediante estrazione a sorte, ai sensi degli articoli 17 e 18 dell'Ordinamento giudiziario militare approvato col [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022), per la composizione del Collegio giudicante, nei casi previsti dall'articolo 16 dello stesso Ordinamento, sono compresi in apposita lista, formata annualmente dal Ministro per la guerra, di concerto con i Ministri per la marina, per l'aeronautica e per le finanze ed approvata con decreto Luogotenenziale. La lista comprende in ordine di grado e, a parita' di grado; di anzianita', ufficiali generali di tutte le Forze armate, in servizio od in congedo. Il numero degli ufficiali generali di ciascun grado 6 determinato di concerto fra gli stessi Ministri, tenuto conto delle esigenze del servizio della giustizia militare.
+Gli ufficiali generali che devono essere designati mediante estrazione a sorte, ai sensi degli articoli 17 e 18 dell'Ordinamento giudiziario militare approvato col [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md), per la composizione del Collegio giudicante, nei casi previsti dall'articolo 16 dello stesso Ordinamento, sono compresi in apposita lista, formata annualmente dal Ministro per la guerra, di concerto con i Ministri per la marina, per l'aeronautica e per le finanze ed approvata con decreto Luogotenenziale. La lista comprende in ordine di grado e, a parita' di grado; di anzianita', ufficiali generali di tutte le Forze armate, in servizio od in congedo. Il numero degli ufficiali generali di ciascun grado 6 determinato di concerto fra gli stessi Ministri, tenuto conto delle esigenze del servizio della giustizia militare.
  L'estrazione a sorte e' fatta in pubblica udienza dal presidente del Tribunale Supremo militare.
  Se il numero degli Ufficiali generali in servizio, del grado richiesto dalla tabella contenuta nell'art. 16,non e' sufficiente, tenuto anche presente il disposto dell'articolo 15, per la composizione del Collegio, si provvede al completamento con altri ufficiali generali iscritti nella lista, mediante successive estrazioni a, sorte fra gli appartenenti alle seguenti categorie:
  a) ufficiali generali dello stesso grado dell'imputato, di lui piu' anziani;

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le obbligazioni 5% del Tevere emesse in forza del [R. decreto 9 febbraio 1902, n. 43](Circa%20il%20cambio%20delle%20Obbligazioni%20del%20Tevere%20emesse%20in%20forza%20del%20R.%20decreto%2017%20novembre%201884%20n.%202779%20serie%203ª.%20002U0043.md), vigenti al 1° luglio 1919, saranno cambiate con nuove obbligazioni.
+Le obbligazioni 5% del Tevere emesse in forza del [R. decreto 9 febbraio 1902, n. 43](../Regi%20decreti/Circa%20il%20cambio%20delle%20Obbligazioni%20del%20Tevere%20emesse%20in%20forza%20del%20R.%20decreto%2017%20novembre%201884%20n.%202779%20serie%203ª.%20002U0043.md), vigenti al 1° luglio 1919, saranno cambiate con nuove obbligazioni.
 
 ## Art. 2.
 

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), recante provvedimenti regionali per la Sardegna;
 
-Visto il [regio decreto legislativo 14 maggio 1946, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;464), che modifica l'art. 36 del predetto [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md);
+Visto il [regio decreto legislativo 14 maggio 1946, n. 464](../Regi%20decreti%20legislativi/Modificazione%20dellart.%2036%20del%20decreto%20legislativo%20Luogotenenziale%2028%20dicembre%201944%20n.%20417%20che%20reca%20provvedimenti%20per%20la%20Sardegna.md), che modifica l'art. 36 del predetto [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 14 settembre 1946, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-14;621), che eleva a L. 300.000.000 il limite di finanziamento a favore della Societa' mineraria carbonifera sarda;
 

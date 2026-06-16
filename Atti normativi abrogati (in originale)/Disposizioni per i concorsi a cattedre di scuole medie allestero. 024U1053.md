@@ -18,7 +18,7 @@ Visto il decreto relativo ai concorsi a cattedre di scuole medie all'estero;
 
 Veduta la [legge 18 dicembre 1910, n. 867](Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md);
 
-Visto il [R. decreto 15 luglio 1923, n. 1659](Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md);
+Visto il [R. decreto 15 luglio 1923, n. 1659](../Regi%20decreti/Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri di 
 
 ## Art. 1.
 
-Ai concorsi che saranno banditi per le scuole medie all'estero, in conseguenza del [R. decreto 15 luglio 1923, numero 1659](Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md), saranno ammessi, anche se non ancora di ruolo, coloro che abbiano insegnato nelle scuole medie governative all'estero e, con regolare certificato, dimostrino o di aver preso parte ai concorsi banditi dal Ministero dell'istruzione col decreto dell' 8 marzo 1923 o con successivi decreti sino alla pubblicazione del presente decreto, oppure di aver presentato domanda al Ministero dell'istruzione per l'assunzione in ruolo entro il 10 gennaio 1924, qualora siano compresi nelle categorie indicate al secondo comma dell'art. 31 del R. decreto delegato 26 giugno 1923, n. 1413. 
+Ai concorsi che saranno banditi per le scuole medie all'estero, in conseguenza del [R. decreto 15 luglio 1923, numero 1659](../Regi%20decreti/Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md), saranno ammessi, anche se non ancora di ruolo, coloro che abbiano insegnato nelle scuole medie governative all'estero e, con regolare certificato, dimostrino o di aver preso parte ai concorsi banditi dal Ministero dell'istruzione col decreto dell' 8 marzo 1923 o con successivi decreti sino alla pubblicazione del presente decreto, oppure di aver presentato domanda al Ministero dell'istruzione per l'assunzione in ruolo entro il 10 gennaio 1924, qualora siano compresi nelle categorie indicate al secondo comma dell'art. 31 del R. decreto delegato 26 giugno 1923, n. 1413. 
  
  Detti concorrenti, se otterranno la classificazione necessaria potranno essere inclusi sub conditione nella graduatoria, ma non otterranno la nomina all'estero, perdendo ogni diritto agli effetti dei concorsi di cui al presente decreto, se, al momento in cui verra' loro fatta l'offerta per l'estero non saranno stati assunti nei ruoli del Regno, sebbene compresi fra i vincitori dei concorsi per le scuole del Regno.
 

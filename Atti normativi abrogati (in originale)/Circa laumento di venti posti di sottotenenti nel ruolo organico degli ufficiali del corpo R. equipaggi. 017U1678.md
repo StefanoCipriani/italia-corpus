@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti il [R. decreto 25 maggio 1915, n. 815](Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), nonche' i Nostri decreti 25 luglio 1915, n. 1181, 1° ottobre 1916, n. 1252 e 11 febbraio 1917, n. 290;
+Visti il [R. decreto 25 maggio 1915, n. 815](../Regi%20decreti/Col%20quale%20viene%20stabilito%20temporaneamente%20il%20ruolo%20organico%20degli%20ufficiali%20del%20corpo%20R.%20equipaggi.%20015U0815.md), nonche' i Nostri decreti 25 luglio 1915, n. 1181, 1° ottobre 1916, n. 1252 e 11 febbraio 1917, n. 290;
 
 Sento il Consiglio dei ministri;
 

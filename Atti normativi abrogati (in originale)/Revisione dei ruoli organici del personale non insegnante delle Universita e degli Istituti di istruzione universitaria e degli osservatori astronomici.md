@@ -162,11 +162,11 @@ Nella prima attuazione della presente legge i posti in aumento in ciascuno dei r
  Il servizio di ruolo in base al quale gli interessati saranno eventualmente ammessi ai concorsi, ai sensi del comma precedente, sara' in caso di nomina, valutato ai fini della progressione in carriera per non piu' di tre anni.
  In dipendenza delle unita' di personale che, effettuati i concorsi di cui al precedente comma, risultino ancora in servizio nei predetti ruoli aggiunti e nelle predette categorie d'impiego non di ruolo, saranno tenuti vacanti altrettanti posti in ciascuno dei corrispondenti ruoli organici.
  Per ammissione al concorso a posti di qualifica iniziale nella carriera direttiva sono considerate valide lauree diverse da quelle previste dall'[articolo 2 della legge 6 luglio 1940, n. 1038](Ordinamento%20delle%20Segreterie%20universitarie.%20040U1038.md).
- Per il ruolo di carriera esecutiva e' fatta salva la osservanza del disposto dell'[articolo 345 del decreto dei Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Per il ruolo di carriera esecutiva e' fatta salva la osservanza del disposto dell'[articolo 345 del decreto dei Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 21.
 
-La carriera del personale di ragioneria delle Segreterie universitarie e' compresa tra le carriere speciali previste dal titolo V del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+La carriera del personale di ragioneria delle Segreterie universitarie e' compresa tra le carriere speciali previste dal titolo V del [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  L'[articolo 2 della legge 6 luglio 1940, n. 1038](Ordinamento%20delle%20Segreterie%20universitarie.%20040U1038.md), e' sostituito dal seguente:
  "Per l'ammissione ai concorsi per la qualifica iniziale dei ruoli organici delle Segreterie universitarie sono richiesti i seguenti titoli di studio:
  a) per il ruolo della carriera direttiva: la laurea in giurisprudenza o in scienze politiche o in scienze coloniali o in lettere, o in filosofia o in materie letterarie o in pedagogia o in economia e commercio o in scienze economiche marittime, o altro titolo ad esse lauree riconosciuto equipollente;
@@ -261,7 +261,7 @@ Al personale ausiliario del ruolo aggiunto delle Universita' e degli Istituti d'
 
 ## Art. 29.
 
-Il passaggio degli ausiliari di ruolo aggiunto del corrispondente ruolo organico ai sensi dell'[articolo 346 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' disposto, presso ciascuna Universita' o Istituto superiore, nei limiti delle disponibilita' nei posti assegnati a ciascuna Universita' o Istituto medesimi.
+Il passaggio degli ausiliari di ruolo aggiunto del corrispondente ruolo organico ai sensi dell'[articolo 346 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' disposto, presso ciascuna Universita' o Istituto superiore, nei limiti delle disponibilita' nei posti assegnati a ciascuna Universita' o Istituto medesimi.
  Per le Universita' cui siano assegnati posti di portantino il passaggio predetto e' disposto separatamente per i posti di portantino e, rispettivamente, per quelli di bidello, custode, usciere.
 
 ## Art. 30.
@@ -365,7 +365,7 @@ Il Ministro per la pubblica istruzione puo', per esigenze di servizio, sentito i
 ## Art. 43.
 
 Il posto di ruolo di segretario contabile-economo del Giardino coloniale di Palermo di cui alla [legge 23 maggio 1952, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-23;632), e' soppresso.
- Nella prima applicazione della presente legge, il titolare del predetto posto sara' inquadrato nel ruolo della carriera di concetto del personale amministrativo delle Universita' e degli Istituti di istruzione superiore, alla qualifica che gli competera' in base alla anzianita' di ruolo maturata, anzianita' che e' utile per l'ulteriore progressione in carriera. La promozione del predetto titolare alla qualifica di primo segretario sara' disposta, in deroga all'[articolo 176 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per anzianita' congiunta al merito.
+ Nella prima applicazione della presente legge, il titolare del predetto posto sara' inquadrato nel ruolo della carriera di concetto del personale amministrativo delle Universita' e degli Istituti di istruzione superiore, alla qualifica che gli competera' in base alla anzianita' di ruolo maturata, anzianita' che e' utile per l'ulteriore progressione in carriera. La promozione del predetto titolare alla qualifica di primo segretario sara' disposta, in deroga all'[articolo 176 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per anzianita' congiunta al merito.
 
 ## Art. 44.
 

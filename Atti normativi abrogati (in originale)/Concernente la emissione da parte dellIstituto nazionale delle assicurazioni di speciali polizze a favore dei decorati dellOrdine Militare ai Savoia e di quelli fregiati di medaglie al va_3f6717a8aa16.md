@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il R. Viglietto 26 marzo 1833 per l'istituzione della medaglia in oro e in argento al valore militare;
 
-Visto il [R. decreto 8 dicembre 1887, n. 5100](Che%20instituisce%20una%20medaglia%20in%20bronzo%20al%20valor%20militare.%20087U5100.md) (serie 3ª), per la istituzione della medaglia di bronzo al valor militare;
+Visto il [R. decreto 8 dicembre 1887, n. 5100](../Regi%20decreti/Che%20instituisce%20una%20medaglia%20in%20bronzo%20al%20valor%20militare.%20087U5100.md) (serie 3ª), per la istituzione della medaglia di bronzo al valor militare;
 
 Vista la legge 31 dicembre 1848, circa il soprassoldo assegnato ai militari fregiati della medaglia d'oro e di argento al valore militare;
 
@@ -28,9 +28,9 @@ Visto il [decreto Luogotenenziale 10 febbraio 1918, num. 264](https://www.normat
 
 Visto il [decreto Luogotenenziale 7 aprile 1918, numero 644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-07;644);
 
-Visto il testo unico delle leggi sull'Amministrazione e sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª), e il regolamento approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md);
+Visto il testo unico delle leggi sull'Amministrazione e sulla contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª), e il regolamento approvato con [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md);
 
-Visti la [legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md), sull'Istituto nazionale delle assicurazioni ed il relativo regolamento approvato con [R. decreto 5 agosto 1912, n. 939](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%204%20aprile%201912%20n.%20305%20recante%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istitut_55af1202d9ed.md);
+Visti la [legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md), sull'Istituto nazionale delle assicurazioni ed il relativo regolamento approvato con [R. decreto 5 agosto 1912, n. 939](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%204%20aprile%201912%20n.%20305%20recante%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istitut_55af1202d9ed.md);
 
 Sentito il Consiglio dei ministri;
 

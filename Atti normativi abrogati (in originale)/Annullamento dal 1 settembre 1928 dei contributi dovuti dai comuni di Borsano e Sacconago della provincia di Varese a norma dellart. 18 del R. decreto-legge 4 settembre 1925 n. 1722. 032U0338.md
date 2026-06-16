@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 9 aprile 1928, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-09;891), col quale i comuni di Borsano e Sacconago sono stati aggregati al comune autonomo di Busto Arsizio, della provincia di Varese:
+Veduto il [R. decreto 9 aprile 1928, n. 891](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Sacconago%20e%20Borsano%20al%20comune%20di%20Busto%20Arsizio.%20028U0891.md), col quale i comuni di Borsano e Sacconago sono stati aggregati al comune autonomo di Busto Arsizio, della provincia di Varese:
 
 Veduto il [R. decreto 1° luglio 1926, n. 1392](Liquidazione%20dei%20contributi%20scolastici%20dovuti%20dai%20comuni%20delle%20provincie%20di%20Bergamo%20Brescia%20Como%20Cremona%20Mantova%20Milano%20Pavia%20e%20Sondrio%20per%20il%20quinquennio%201%20gennaio%201924-31%20dicembre%201928.%20026U1392.md), col quale furono determinati in L. 3200 e L. 8000 i contributi che i comuni di Borsano e Sacconago devono versare a norma dell'[art. 18 del R. decreto 4 settembre 1925, n. 1722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1722#art_18);
 

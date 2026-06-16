@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Veduti gli articoli 1 e 80 del Nostro decreto 30 settembre 1923, n. 2102; 
  
- Veduto il regolamento generale universitario approvato col [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674); 
+ Veduto il regolamento generale universitario approvato col [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md); 
  
  Udito il Consiglio superiore della pubblica istruzione; 
  

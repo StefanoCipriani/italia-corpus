@@ -26,7 +26,7 @@ Con decreti Reali si potranno estendere in tutto od in parte alle spedizioni da 
 
 ## Art. 3.
 
-In conformita' del [R. decreto 3 marzo 1881, n. 88](Che%20permette%20la%20importazione%20di%20magliuoli%20di%20viti%20americane%20resistenti%20alla%20fillossera.%20081U0088.md) (Serie 3ª), e' data facolta' al Ministero stesso di introdurre nell'Isola di Montecristo magliuoli di specie o varieta' di viti americane riconosciute resistenti alla fillossera, all'esclusivo scopo di formarvi un vivaio a spese e sotto la direzione dell'Amministrazione dell'agricoltura, e previo le cautele che, udito il parere della Commissione della fillossera, saranno riconosciute necessarie.
+In conformita' del [R. decreto 3 marzo 1881, n. 88](../Regi%20decreti/Che%20permette%20la%20importazione%20di%20magliuoli%20di%20viti%20americane%20resistenti%20alla%20fillossera.%20081U0088.md) (Serie 3ª), e' data facolta' al Ministero stesso di introdurre nell'Isola di Montecristo magliuoli di specie o varieta' di viti americane riconosciute resistenti alla fillossera, all'esclusivo scopo di formarvi un vivaio a spese e sotto la direzione dell'Amministrazione dell'agricoltura, e previo le cautele che, udito il parere della Commissione della fillossera, saranno riconosciute necessarie.
 
 ## Art. 4.
 

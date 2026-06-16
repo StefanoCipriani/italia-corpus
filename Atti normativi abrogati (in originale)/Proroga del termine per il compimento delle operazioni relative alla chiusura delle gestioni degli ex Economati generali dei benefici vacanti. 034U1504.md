@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 27 maggio 1929, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;545), sugli Enti ecclesiastici e sulle Amministrazioni civili dei patrimoni destinati a fini di culto; 
  
- Visto l'art. 53 del regolamento per l'esecuzione della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848), approvato con [R. decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262); 
+ Visto l'art. 53 del regolamento per l'esecuzione della [legge 27 maggio 1929, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;848), approvato con [R. decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md); 
  
  Visto il [R. decreto 31 dicembre 1931, n. 1844](Proroga%20del%20termine%20per%20il%20compimento%20delle%20operazioni%20relative%20alla%20chiusura%20delle%20gestioni%20degli%20ex%20Economati%20generali%20dei%20benefici%20vacanti.%20031U1844.md); 
  
@@ -34,7 +34,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- E' prorogato al 30 giugno 1937 il termine indicato nell'[art. 83 del R. decreto 2 dicembre 1929, n. 2262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-02;2262#art_83), e nel [R. decreto 31 dicembre 1931, n. 1844](Proroga%20del%20termine%20per%20il%20compimento%20delle%20operazioni%20relative%20alla%20chiusura%20delle%20gestioni%20degli%20ex%20Economati%20generali%20dei%20benefici%20vacanti.%20031U1844.md), per il compimento delle operazioni relative alla chiusura delle gestioni degli ex Economati generali dei Benefici vacanti. 
+ E' prorogato al 30 giugno 1937 il termine indicato nell'[art. 83 del R. decreto 2 dicembre 1929, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2027%20maggio%201929%20n.%20848%20sugli%20Enti%20ecclesiastici%20e%20sulle%20Amministrazioni%20civili%20dei%20patrimoni%20destinati%20a%20fini%20di%20culto.%20029U2262.md), e nel [R. decreto 31 dicembre 1931, n. 1844](Proroga%20del%20termine%20per%20il%20compimento%20delle%20operazioni%20relative%20alla%20chiusura%20delle%20gestioni%20degli%20ex%20Economati%20generali%20dei%20benefici%20vacanti.%20031U1844.md), per il compimento delle operazioni relative alla chiusura delle gestioni degli ex Economati generali dei Benefici vacanti. 
  
  L'efficacia di detta proroga si estende ai provvedimenti adottati nel periodo che intercede tra il 1° luglio 1934 e la data di entrata in vigore del presente decreto. 
  

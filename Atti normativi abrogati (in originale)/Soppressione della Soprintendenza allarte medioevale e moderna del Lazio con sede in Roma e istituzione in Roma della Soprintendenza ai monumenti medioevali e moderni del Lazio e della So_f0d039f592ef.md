@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-La Soprintendenza all'arte medioevale e moderna del Lazio, con sede in Roma, istituita con l'[art. 5 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_5), e' soppressa.
+La Soprintendenza all'arte medioevale e moderna del Lazio, con sede in Roma, istituita con l'[art. 5 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' soppressa.
 
 ## Art. 2.
 
@@ -38,9 +38,9 @@ Sono istituite in Roma le seguenti Soprintendenze:
 
 ## Art. 3.
 
-E' fissato in diciannove il numero dei posti di grado 6° del quadro del personale tecnico e scientifico di gruppo A dei monumenti, musei, gallerie e scavi di antichita', di cui alla tabella 39 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata dalla tabella A annessa al [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164). 
+E' fissato in diciannove il numero dei posti di grado 6° del quadro del personale tecnico e scientifico di gruppo A dei monumenti, musei, gallerie e scavi di antichita', di cui alla tabella 39 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificata dalla tabella A annessa al [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md). 
  
- Nella prima applicazione del presente decreto il Ministro per la pubblica istruzione ha facolta', di promuovere al grado di soprintendente di 2ª classe, in deroga alla disposizione del [1° comma dell'art. 18 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_18-com1), uno dei funzionari del grado inferiore. 
+ Nella prima applicazione del presente decreto il Ministro per la pubblica istruzione ha facolta', di promuovere al grado di soprintendente di 2ª classe, in deroga alla disposizione del [1° comma dell'art. 18 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), uno dei funzionari del grado inferiore. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto n. 1229 del 12 ottobre 1913](Col%20quale%20viene%20istituito%20il%20quadro%20del%20naviglio%20aereo.%20013U1229.md) che stabilisce l'equiparazione per ogni effetto delle aeronavi della R. marina alle RR. navi;
+Visto il [R. decreto n. 1229 del 12 ottobre 1913](../Regi%20decreti/Col%20quale%20viene%20istituito%20il%20quadro%20del%20naviglio%20aereo.%20013U1229.md) che stabilisce l'equiparazione per ogni effetto delle aeronavi della R. marina alle RR. navi;
 
-Visto l'[art. 4 del R. decreto n. 11 del 7 gennaio 1915](Da%20convertirsi%20in%20legge%20che%20costituisce%20un%20corpo%20aeronautico%20militare%20015U0011.md) che stabilisce per i militari del R. esercito il computo speciale del tempo trascorso al servizio delle aeronavi;
+Visto l'[art. 4 del R. decreto n. 11 del 7 gennaio 1915](../Regi%20decreti/Da%20convertirsi%20in%20legge%20che%20costituisce%20un%20corpo%20aeronautico%20militare%20015U0011.md) che stabilisce per i militari del R. esercito il computo speciale del tempo trascorso al servizio delle aeronavi;
 
 Visto il [decreto Luogotenenziale n. 1141 in data 3 settembre 1916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-09-03;1141), relativo alla condizione di navigazione per il personale della R. marina destinato ai servizi aerei;
 

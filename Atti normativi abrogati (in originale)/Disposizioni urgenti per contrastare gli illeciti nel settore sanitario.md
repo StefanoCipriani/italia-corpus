@@ -41,17 +41,17 @@ Il provvedimento che conclude il procedimento deve essere comunicato al competen
 
 1.
 
-Il [quinto comma dell'articolo 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201-com5), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e' sostituito dal seguente: "Il contravventore alle disposizioni contenute nel primo e terzo comma e' punito con la sanzione amministrativa pecuniaria da euro 5.000 ad euro 30.000.".
+Il [quinto comma dell'articolo 201 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e' sostituito dal seguente: "Il contravventore alle disposizioni contenute nel primo e terzo comma e' punito con la sanzione amministrativa pecuniaria da euro 5.000 ad euro 30.000.".
 
 2.
 
-La violazione delle disposizioni previste dall'[articolo 15 del decreto legislativo 30 dicembre 1992, n. 541](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md), sulla pubblicita' presso gli operatori sanitari, comporta la irrogazione delle sanzioni amministrative pecuniarie previste dall'[articolo 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), come modificato dal comma 1.
+La violazione delle disposizioni previste dall'[articolo 15 del decreto legislativo 30 dicembre 1992, n. 541](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md), sulla pubblicita' presso gli operatori sanitari, comporta la irrogazione delle sanzioni amministrative pecuniarie previste dall'[articolo 201 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), come modificato dal comma 1.
 
 ## Art. 3. — Modifiche all'articolo 640 del codice penale
 
 1.
 
-All'[articolo 640 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) dopo il secondo comma e', inserito il seguente:
+All'[articolo 640 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) dopo il secondo comma e', inserito il seguente:
  "Se il fatto e' commesso a danno del Servizio sanitario nazionale da professionisti sanitari dipendenti dal medesimo Servizio o con esso convenzionati, ovvero responsabili di strutture sanitarie accreditate per l'erogazione di prestazioni clinico-diagnostiche, la pena pecuniaria di cui al secondo comma e' decuplicata. E' sempre ordinata la confisca delle cose che servirono o furono destinate a commettere il reato o delle cose che ne sono il prodotto o il profitto. Il provvedimento che definisce il giudizio deve essere comunicato al competente ordine o collegio professionale di appartenenza che, valutati gli atti, dispone la radiazione dalla professione del responsabile.".
 
 ## Art. 4. — Attivita' ispettive

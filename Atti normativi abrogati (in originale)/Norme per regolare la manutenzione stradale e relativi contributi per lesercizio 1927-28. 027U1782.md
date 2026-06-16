@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506), [23 ottobre 1924, n. 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;1994), [9 giugno 1925, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-09;890), [31 dicembre 1925, n. 2541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-31;2541), e [20 maggio 1926, n. 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-20;943), sulla classificazione e manutenzione delle strade ordinarie;
+Visti i [Regi decreti 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md), [23 ottobre 1924, n. 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;1994), [9 giugno 1925, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-06-09;890), [31 dicembre 1925, n. 2541](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-31;2541), e [20 maggio 1926, n. 943](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-20;943), sulla classificazione e manutenzione delle strade ordinarie;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

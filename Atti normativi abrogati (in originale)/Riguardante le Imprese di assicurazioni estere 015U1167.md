@@ -14,7 +14,7 @@ Le Societa' di assicurazione sulla vita, le quali coprono il rischio di guerra m
  
  L'impiego in titoli dei detti soprapremi ed il deposito dei titoli stessi presso la Cassa dei depositi e prestiti debbono essere effettuati non oltre i primi cinque giorni di ciascun mese. 
  
- A tali depositi si applicano per ogni altro riguardo le disposizioni e le sanzioni degli articoli 55 a 60 del regolamento approvato col [R. decreto 27 dicembre 1882, n. 1139](Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lesecuzione%20del%20codice%20di%20commercio.%20082U1139.md), per l'esecuzione del Codice di commercio.
+ A tali depositi si applicano per ogni altro riguardo le disposizioni e le sanzioni degli articoli 55 a 60 del regolamento approvato col [R. decreto 27 dicembre 1882, n. 1139](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20regolamento%20per%20lesecuzione%20del%20codice%20di%20commercio.%20082U1139.md), per l'esecuzione del Codice di commercio.
 
 ## Art. 2.
 

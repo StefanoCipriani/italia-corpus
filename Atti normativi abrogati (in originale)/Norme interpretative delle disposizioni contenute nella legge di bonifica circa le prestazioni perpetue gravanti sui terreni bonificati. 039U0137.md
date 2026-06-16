@@ -14,7 +14,7 @@ L'estensione dei diritti di decima ed altri canoni sul maggiore prodotto derivan
 
 ## Art. 2.
 
-A tutti gli effetti contemplati dall'art. 101, primo capoverso del testo delle norme sulla bonifica integrale, approvato con [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), per ultimo decennio deve intendersi quello anteriore all'effettivo inizio dei lavori di bonifica, tanto se intrapresi posteriormente alla pubblicazione di detto decreto, quanto se intrapresi anteriormente ma non ancora compiuti alla data di tale pubblicazione. 
+A tutti gli effetti contemplati dall'art. 101, primo capoverso del testo delle norme sulla bonifica integrale, approvato con [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), per ultimo decennio deve intendersi quello anteriore all'effettivo inizio dei lavori di bonifica, tanto se intrapresi posteriormente alla pubblicazione di detto decreto, quanto se intrapresi anteriormente ma non ancora compiuti alla data di tale pubblicazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

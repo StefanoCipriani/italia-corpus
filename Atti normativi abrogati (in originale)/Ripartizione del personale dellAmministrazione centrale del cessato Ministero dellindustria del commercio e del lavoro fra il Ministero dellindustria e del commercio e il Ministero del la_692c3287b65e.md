@@ -14,7 +14,7 @@ I ruoli organici del personale di gruppo A, C e subalterno dell'Amministrazione 
 
 ## Art. 2.
 
-Fermo restando quanto disposto dall'art. 2, ultimo comma, del [R. decreto 9 dicembre 1941, n. 1402](Organizzazione%20dei%20servizi%20della%20distribuzione%20e%20del%20consumi%20dei%20prodotti%20industriali%20in%20tempo%20di%20guerra.%20041U1402.md), i posti di cui alla tabella A annessa allo stesso Regio decreto, sono ripartiti fra il Ministero dell'industria e del commercio ed il Ministero del lavoro e della previdenza sociale in conformita' dell'annessa tabella C firmata, d'ordine Nostro, dai Ministri per l'industria ed il commercio, per il lavoro e la previdenza sociale e per il tesoro.
+Fermo restando quanto disposto dall'art. 2, ultimo comma, del [R. decreto 9 dicembre 1941, n. 1402](../Regi%20decreti/Organizzazione%20dei%20servizi%20della%20distribuzione%20e%20del%20consumi%20dei%20prodotti%20industriali%20in%20tempo%20di%20guerra.%20041U1402.md), i posti di cui alla tabella A annessa allo stesso Regio decreto, sono ripartiti fra il Ministero dell'industria e del commercio ed il Ministero del lavoro e della previdenza sociale in conformita' dell'annessa tabella C firmata, d'ordine Nostro, dai Ministri per l'industria ed il commercio, per il lavoro e la previdenza sociale e per il tesoro.
 
 ## Art. 3.
 
@@ -43,11 +43,11 @@ Sono attribuiti al Ministero del lavoro e della previdenza sociale i seguenti ru
 
 ## Art. 5.
 
-I posti del personale non di ruolo dell'Amministrazione centrale del cessato Ministero dell'industria, del commercio e del lavoro, di cui al decreto interministeriale 21 maggio 1945, registrato alla Corte dei conti il 1° agosto 1945, registro 4, foglio 38, ed i posti del personale di commutazione telefonica di cui al [R. decreto 26 giugno 1928, n. 1838](Norme%20relative%20allassunzione%20allo%20stato%20ed%20al%20trattamento%20del%20personale%20di%20commutazione%20telefonica%20occorrente%20al%20Ministero%20delle%20corporazioni.%20028U1838.md), sono ripartiti fra il Ministero dell'industria e del commercio ed il Ministero del lavoro e della previdenza sociale; in conformita' delle annesse tabelle D ed E.
+I posti del personale non di ruolo dell'Amministrazione centrale del cessato Ministero dell'industria, del commercio e del lavoro, di cui al decreto interministeriale 21 maggio 1945, registrato alla Corte dei conti il 1° agosto 1945, registro 4, foglio 38, ed i posti del personale di commutazione telefonica di cui al [R. decreto 26 giugno 1928, n. 1838](../Regi%20decreti/Norme%20relative%20allassunzione%20allo%20stato%20ed%20al%20trattamento%20del%20personale%20di%20commutazione%20telefonica%20occorrente%20al%20Ministero%20delle%20corporazioni.%20028U1838.md), sono ripartiti fra il Ministero dell'industria e del commercio ed il Ministero del lavoro e della previdenza sociale; in conformita' delle annesse tabelle D ed E.
 
 ## Art. 6.
 
-La facolta' di assumere personale non di ruolo prevista dall'art. I del [R. decreto 9 dicembre 1941, n. 1402](Organizzazione%20dei%20servizi%20della%20distribuzione%20e%20del%20consumi%20dei%20prodotti%20industriali%20in%20tempo%20di%20guerra.%20041U1402.md), di assumere personale con contratto di lavoro od a cottimo, prevista dal [R. decreto 29 luglio 1923, n. 1970](Servizio%20delle%20privative%20industriali.%20023U1970.md), di assumere bollatori avventizi (categoria 4°) di cui ai decreto interministeriale 10 maggio 1945, registrato alla Corte dei conti il 19 luglio 1945, registro 3, foglio 361, e' attribuita al Ministero dell'industria e del commercio.
+La facolta' di assumere personale non di ruolo prevista dall'art. I del [R. decreto 9 dicembre 1941, n. 1402](../Regi%20decreti/Organizzazione%20dei%20servizi%20della%20distribuzione%20e%20del%20consumi%20dei%20prodotti%20industriali%20in%20tempo%20di%20guerra.%20041U1402.md), di assumere personale con contratto di lavoro od a cottimo, prevista dal [R. decreto 29 luglio 1923, n. 1970](../Regi%20decreti/Servizio%20delle%20privative%20industriali.%20023U1970.md), di assumere bollatori avventizi (categoria 4°) di cui ai decreto interministeriale 10 maggio 1945, registrato alla Corte dei conti il 19 luglio 1945, registro 3, foglio 361, e' attribuita al Ministero dell'industria e del commercio.
 
 ## Art. 7.
 
@@ -55,7 +55,7 @@ Con decreto del Ministro per l'industria e commercio e del Ministro per il lavor
 
 ## Art. 8.
 
-Il personale collocamento fuori ruolo, ai sensi del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), resta nella stessa posizione nel ruolo in cui viene inquadrato in dipendenza del presente decreto.
+Il personale collocamento fuori ruolo, ai sensi del [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), resta nella stessa posizione nel ruolo in cui viene inquadrato in dipendenza del presente decreto.
 
 ## Art. 9.
 

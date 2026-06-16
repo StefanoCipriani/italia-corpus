@@ -56,7 +56,7 @@ Agli articoli: 8, 9, 10, 11, 15, 22, 25, 30, 34, 35 38, 40, 42, 44, 46, 50, 56, 
  
  Potranno essere esclusi dall'esame di ammissione al corso preparatorio quei marescialli e brigadieri, che a giudizio della commissione di cui all'art. 41, siano ritenuti immeritevoli di concorrere al grado di comandante. 
  
- Detto esame di ammissione al corso preparatorio consistera' in una prova scritta in lingua italiana e in una prova orale, sulle nozioni elementari del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); legge e regolamento sulla pubblica sicurezza; legge e regolamento sul personale dei funzionari di pubblica sicurezza e del corpo, e sara' dato innanzi ad una commissione composta: del capo divisione del personale di pubblica sicurezza o di un ispettore generale di pubblica sicurezza, presidente, dell' ispettore comandante o di un vice ispettore comandante e di un professore di ginnasio o di scuola tecnica, membri. 
+ Detto esame di ammissione al corso preparatorio consistera' in una prova scritta in lingua italiana e in una prova orale, sulle nozioni elementari del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); legge e regolamento sulla pubblica sicurezza; legge e regolamento sul personale dei funzionari di pubblica sicurezza e del corpo, e sara' dato innanzi ad una commissione composta: del capo divisione del personale di pubblica sicurezza o di un ispettore generale di pubblica sicurezza, presidente, dell' ispettore comandante o di un vice ispettore comandante e di un professore di ginnasio o di scuola tecnica, membri. 
  
  Le funzioni di segretario saranno disimpegnate da un funzionario dipendente dall'amministrazione dell'interno, designato dal Ministero. 
  
@@ -380,7 +380,7 @@ Saranno ammessi a frequentare il corso coloro i quali avranno riportato non meno
  
  Art. 193. 
  
- Sono punite secondo il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e dai tribunali militari: 
+ Sono punite secondo il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e dai tribunali militari: 
  
  1° la diserzione qualificata, cioe' con asportazione di armi da fuoco appartenenti al corpo; 
  

@@ -35,7 +35,7 @@ Il termine previsto dagli [articoli 1, comma 1](https://www.normattiva.it/uri-re
 
 2.
 
-Limitatamente ai giorni di permanenza nel territorio ovvero nelle acque territoriali dei Paesi teatro delle operazioni, al personale di cui al comma 1 e' corrisposta l'indennita' di missione prevista dal [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), nella misura del 90 per cento per tutta la durata del periodo. Detta indennita' e' corrisposta dal 1 luglio al 31 dicembre 2001 in lire, sulla base dei cambi registrati nel periodo 1 gennaio-31 maggio 2001.
+Limitatamente ai giorni di permanenza nel territorio ovvero nelle acque territoriali dei Paesi teatro delle operazioni, al personale di cui al comma 1 e' corrisposta l'indennita' di missione prevista dal [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), nella misura del 90 per cento per tutta la durata del periodo. Detta indennita' e' corrisposta dal 1 luglio al 31 dicembre 2001 in lire, sulla base dei cambi registrati nel periodo 1 gennaio-31 maggio 2001.
 
 3.
 
@@ -49,7 +49,7 @@ Salvo quanto previsto dal comma 2, si applicano le seguenti disposizioni:
                         d)
                             gli [articoli 2](Disposizioni%20urgenti%20in%20materia%20di%20proroga%20della%20partecipazione%20militare%20italiana%20a%20missioni%20internazionali%20di%20pace.md) e [3 del decreto-legge 19 giugno 2000, n. 163](Disposizioni%20urgenti%20in%20materia%20di%20proroga%20della%20partecipazione%20militare%20italiana%20a%20missioni%20internazionali%20di%20pace.md), convertito, con modificazioni, dalla [legge 10 agosto 2000, n. 228](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202000%20n.%20163%20recante%20Disposizioni%20urgenti%20in%20materia%20di%20proroga%20della%20partecipazione%20militare%20italiana%20a%20missioni%20interna_80b3d400bbdc.md);
                         e)
-                            le disposizioni di cui alle lettere c) e d), fatto salvo quanto disposto dall'[articolo 6 del regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_6), in materia di riduzione delle indennita' nel caso di contributi e sovvenzioni da parte di organismi internazionali, al personale militare che partecipa alla missione internazionale di pace in Etiopia ed Eritrea.
+                            le disposizioni di cui alle lettere c) e d), fatto salvo quanto disposto dall'[articolo 6 del regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), in materia di riduzione delle indennita' nel caso di contributi e sovvenzioni da parte di organismi internazionali, al personale militare che partecipa alla missione internazionale di pace in Etiopia ed Eritrea.
 
 4.
 

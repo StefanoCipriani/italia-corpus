@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'art. 2 del Testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604);
+Visto l'art. 2 del Testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
 Visti i [Regi decreti 13 novembre 1931, n. 1526](Norme%20regolamentari%20per%20lesercizio%20della%20pesca%20nel%20lago%20di%20Garda.%20031U1526.md) e [11 ottobre 1934, n. 2060](Modificazioni%20al%20regolamento%20per%20lesercizio%20della%20pesca%20nel%20lago%20di%20Garda%20approvato%20con%20R.%20decreto%2013%20novembre%201931%20n.%201526.%20034U2060.md), e la tabella degli attrezzi annessa al secondo di detti decreti, che disciplinano la pesca nel lago di Garda;
 

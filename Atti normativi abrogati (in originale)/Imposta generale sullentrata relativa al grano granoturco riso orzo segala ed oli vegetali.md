@@ -31,7 +31,7 @@ Per gli atti economici relativi al commercio del risone l'imposta sull'entrata, 
 ## Art. 3.
 
 Quando la pileria impiega, il riso ottenuto dalla pilatura nella diretta fabbricazione di altri prodotti, l'imposta dovuta a norma del primo comma del precedente articolo, si corrisponde in occasione della destinazione del riso alle dette produzioni, in base ad apposito registro di carico e scarico. Sul detto registro debbono essere giornalmente annotate le singole partite di riso impiegate nella produzione industriale con indicazione dei prezzo all'ingrosso; entro il lunedi di ciascuna settimana devesi provvedere a riepilogare i totali delle partite annotate nelle singole giornate della settimana precedente ed a corrispondere sul totale complessivo l'imposta nei modi normali.
- Il registro, prescritto dal precedente comma prima dell'uso deve essere presentato al competente Ufficio del registro per l'espletamento delle formalita' richieste dall'art. 112 del regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md).
+ Il registro, prescritto dal precedente comma prima dell'uso deve essere presentato al competente Ufficio del registro per l'espletamento delle formalita' richieste dall'art. 112 del regolamento, approvato con [regio decreto 26 gennaio 1940, n. 10](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md).
 
 ## Art. 4.
 

@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- Chiunque faccia incetta, a danno della circolazione, di monete aventi corso legale nel Regno in misura eccedente i propri bisogni, o a scopo di lucro, incorre nelle pene comminate dall'[art. 293 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Chiunque faccia incetta, a danno della circolazione, di monete aventi corso legale nel Regno in misura eccedente i propri bisogni, o a scopo di lucro, incorre nelle pene comminate dall'[art. 293 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Il presente decreto andra' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale del Regno. 
  

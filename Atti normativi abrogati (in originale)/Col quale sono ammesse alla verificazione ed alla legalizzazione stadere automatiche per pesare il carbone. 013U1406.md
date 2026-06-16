@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
-Visto il regolamento per la fabbricazione dei pesi, delle misure, e degli strumenti per pesare e per misurare, approvato con [R. decreto 12 giugno 1902, numero 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226);
+Visto il regolamento per la fabbricazione dei pesi, delle misure, e degli strumenti per pesare e per misurare, approvato con [R. decreto 12 giugno 1902, numero 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md);
 
 Vista la domanda presentata dalla Societa' anglo-romana per l'illuminazione di Roma, con la quale si chiede che sia ammessa alla verificazione ed alla legalizzazione una stadera automatica, tipo Avery, per pesare il carbone;
 

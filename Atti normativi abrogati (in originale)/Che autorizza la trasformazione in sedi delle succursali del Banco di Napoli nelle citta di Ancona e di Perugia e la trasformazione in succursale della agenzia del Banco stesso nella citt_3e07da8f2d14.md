@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il T. U. di legge sugli Istituti di emissione, approvato col [R. D. 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204); 
+ Visto il T. U. di legge sugli Istituti di emissione, approvato col [R. D. 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md); 
  
  Visto l'art. 3 dello statuto del Banco di Napoli, approvato col [R.
 D. 2 agosto 1908, n. 506](Che%20approva%20lannesso%20statuto%20del%20Banco%20di%20Napoli.%20008U0506.md), e modificato col [decreto Luogotenenziale 8 settembre 1918, n. 1391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-08;1391); 

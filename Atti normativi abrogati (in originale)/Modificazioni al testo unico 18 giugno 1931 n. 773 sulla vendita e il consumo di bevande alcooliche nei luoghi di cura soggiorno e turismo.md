@@ -21,7 +21,7 @@ Nelle localita' riconosciute stazioni di cura, di soggiorno e di turismo, il num
 
 ## Art. 2.
 
-Nell'esercizio delle attribuzioni demandatele dall'[articolo 98 del testo unico di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_98) la Commissione provinciale puo' determinare, per le localita' di cui all'art. 1 distanze diverse da quelle fissate in linea generale per i Comuni di provincia, e puo' altresi' stabilire che, in caso di effettive esigenze turistiche, i limiti di distanza siano fissati soltanto con riferimento agli ospedali, alle chiese ed agli altri luoghi destinati al culto.
+Nell'esercizio delle attribuzioni demandatele dall'[articolo 98 del testo unico di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) la Commissione provinciale puo' determinare, per le localita' di cui all'art. 1 distanze diverse da quelle fissate in linea generale per i Comuni di provincia, e puo' altresi' stabilire che, in caso di effettive esigenze turistiche, i limiti di distanza siano fissati soltanto con riferimento agli ospedali, alle chiese ed agli altri luoghi destinati al culto.
 
 ## Art. 3.
 

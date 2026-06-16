@@ -90,7 +90,7 @@ Ogni cittadino, sia in occasione di censimenti generali, sia in occasione di alt
 
 Le notizie che si raccolgono in occasione di inchieste ordinate in base al presente decreto sono vincolate al piu' scrupoloso segreto di ufficio e non possono essere rese note, per nessun titolo, se non in forma collettiva, in modo che non se ne possa fare alcun riferimento individuale. 
  
- Coloro che per ragione del proprio ufficio, essendo venuti a conoscenza di notizie di carattere personale, le comunichino ad altri o se ne servano a scopi privati, sono passibili di un'ammenda fino a L. 1000, senza pregiudizio delle maggiori pene in cui fossero incorsi per reati previsti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Coloro che per ragione del proprio ufficio, essendo venuti a conoscenza di notizie di carattere personale, le comunichino ad altri o se ne servano a scopi privati, sono passibili di un'ammenda fino a L. 1000, senza pregiudizio delle maggiori pene in cui fossero incorsi per reati previsti nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 7.
 

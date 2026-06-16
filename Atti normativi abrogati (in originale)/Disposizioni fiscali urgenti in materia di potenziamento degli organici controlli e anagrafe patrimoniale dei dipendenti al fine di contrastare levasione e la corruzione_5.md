@@ -126,7 +126,7 @@ Con il decreto di cui all'articolo 4 sono dettate le modalita' di accesso ai sis
 
 7.
 
-Previa autorizzazione del comitato di cui all'articolo 2, comma 3, su proposta del direttore dello STAF, le indagini di cui all'articolo 1, comma 2, lettera c), e le richieste di cui alle successive lettere d), e) ed f), sono estese ai prossimi congiunti dei soggetti di cui all'articolo 1, comma 2, nonche' a terzi, persone fisiche e giuridiche, imprese, enti ed organismi, per i quali vi siano concreti elementi per ritenere che agiscano come prestanome dei soggetti indicati. Per prossimi congiunti si intendono quelli indicati nell'articolo 307, ultimo comma, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Previa autorizzazione del comitato di cui all'articolo 2, comma 3, su proposta del direttore dello STAF, le indagini di cui all'articolo 1, comma 2, lettera c), e le richieste di cui alle successive lettere d), e) ed f), sono estese ai prossimi congiunti dei soggetti di cui all'articolo 1, comma 2, nonche' a terzi, persone fisiche e giuridiche, imprese, enti ed organismi, per i quali vi siano concreti elementi per ritenere che agiscano come prestanome dei soggetti indicati. Per prossimi congiunti si intendono quelli indicati nell'articolo 307, ultimo comma, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 4. — Norme di attuazione
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Veduto l'[art. 19 del R. decreto-legge 4 febbraio 1926, numero 119](Disposizioni%20sul%20Consiglio%20superiore%20della%20pubblica%20istruzione%20ed%20altri%20provvedimenti%20sulla%20istruzione%20superiore.%20026U0119.md); 
  
- Veduto il Regolamento generale universitario approvato col [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674); 
+ Veduto il Regolamento generale universitario approvato col [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md); 
  
  Udito Consiglio Superiore della pubblica istruzione; 
  

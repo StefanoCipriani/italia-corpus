@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e successive modificazioni, relativo all'ordinamento della Istruzione media e dei Convitti Nazionali.
+Visto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e successive modificazioni, relativo all'ordinamento della Istruzione media e dei Convitti Nazionali.
 
-Visto il [R. decreto 30 aprile 1924, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-30;965), relativo all'ordinamento delle Giunte e dei Regi Istituti di istruzione media;
+Visto il [R. decreto 30 aprile 1924, n. 965](../Regi%20decreti/Ordinamento%20interno%20delle%20Giunte%20e%20dei%20Regi%20istituti%20di%20istruzione%20media.%20024U0965.md), relativo all'ordinamento delle Giunte e dei Regi Istituti di istruzione media;
 
 Visto il [R. decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), relativo allo stato dei presidi, dei professori e del personale assistente, di segreteria e subalterno dei Regi istituti medi di istruzione;
 

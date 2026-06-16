@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
-Visto il [R. decreto 5 luglio 1923, n. 1773](Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), relativo al passaggio alle Provincie del servizio di accasermamento ed alloggio dei carabinieri Reali;
+Visto il [R. decreto 5 luglio 1923, n. 1773](../Regi%20decreti/Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), relativo al passaggio alle Provincie del servizio di accasermamento ed alloggio dei carabinieri Reali;
 
 Visto l'[art. 23 del R. decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20corpo%20di%20agenti%20di%20pubblica%20sicurezza.%20025U0383.md), relativo alla costituzione di un Corpo di agenti di pubblica sicurezza:
 
@@ -54,7 +54,7 @@ Per la quota di spesa a carico dello Stato, il Ministero dell'interno e' autoriz
 
 ## Art. 4.
 
-Per l'esercizio finanziario 1930-31, gli acconti di cui al precedente art. 3 saranno commisurati al contributo annuale a carico dello Stato in base all'ultimo preventivo approvato a termine del [R. decreto 5 luglio 1923, n. 1773](Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md).
+Per l'esercizio finanziario 1930-31, gli acconti di cui al precedente art. 3 saranno commisurati al contributo annuale a carico dello Stato in base all'ultimo preventivo approvato a termine del [R. decreto 5 luglio 1923, n. 1773](../Regi%20decreti/Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md).
 
 ## Art. 5.
 
@@ -80,7 +80,7 @@ Il rendiconto, da redigere secondo il modello allegato, firmato d'ordine Nostro 
 
 Tutti gli aumenti dei canoni d'affitito per locali di Proprieta' privata, nei confronti di quelli inscritti nell'ultimo rendiconto approvato, devono essere preventivamente e singolarmente autorizzati dal Ministero dell'interno, previo parere degli Uffici tecnici di finanza. 
  
- Per l'esercito 1930-31, l'autorizziazione ministeriale dovra' essere richiesta limitatamente per quegli affitti che superano, nella loro misura, le corrispondenti somme inscritte nell'ultimo preventivo regolarmente approvato a norma del [R. decreto 5 luglio 1923, n. 1773](Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), e per i quali non sia gia' intervenuta l'autorizzazione a norma del [R. decreto-legge 15 febbraio 1925, n. 588](Carico%20delle%20nuove%20spese%20per%20laccasermamento%20dei%20carabinieri%20Reali.%20025U0588.md).
+ Per l'esercito 1930-31, l'autorizziazione ministeriale dovra' essere richiesta limitatamente per quegli affitti che superano, nella loro misura, le corrispondenti somme inscritte nell'ultimo preventivo regolarmente approvato a norma del [R. decreto 5 luglio 1923, n. 1773](../Regi%20decreti/Passaggio%20alle%20Provincie%20del%20servizio%20di%20accasermamento%20ed%20alloggio%20dei%20Reali%20carabinieri.%20023U1773.md), e per i quali non sia gia' intervenuta l'autorizzazione a norma del [R. decreto-legge 15 febbraio 1925, n. 588](Carico%20delle%20nuove%20spese%20per%20laccasermamento%20dei%20carabinieri%20Reali.%20025U0588.md).
 
 ## Art. 8.
 

@@ -14,7 +14,7 @@ E' convertito in legge il [R. decreto-legge 27 ottobre 1932, n. 1419](Variazioni
 
 ## Art. 2.
 
-E' convalidato il [R. decreto 27 ottobre 1932, n. 1420](6ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20imprevisto%20dellesercizio%20finanziario%201932-33.%20032U1420.md), col quale venne autorizzata una prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1932-33. 
+E' convalidato il [R. decreto 27 ottobre 1932, n. 1420](../Regi%20decreti/6ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20imprevisto%20dellesercizio%20finanziario%201932-33.%20032U1420.md), col quale venne autorizzata una prelevazione dal fondo di riserva per le spese impreviste, inscritto nel bilancio del Ministero delle finanze, per l'esercizio finanziario 1932-33. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

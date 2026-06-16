@@ -18,7 +18,7 @@ Visto il [R. decreto 21 ottobre 1926, n. 1889](https://www.normattiva.it/uri-res
 
 Visto il [R. decreto-legge 2 gennaio 1927, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), relativo al riordinamento delle circoscrizioni provinciali;
 
-Visto il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza approvato con [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690), ed il relativo regolamento approvato con [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666);
+Visto il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza approvato con [R. decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md), ed il relativo regolamento approvato con [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

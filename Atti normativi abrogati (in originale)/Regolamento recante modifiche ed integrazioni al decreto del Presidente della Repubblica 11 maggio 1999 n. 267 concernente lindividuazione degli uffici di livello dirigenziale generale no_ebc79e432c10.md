@@ -22,7 +22,7 @@ Visto l'[articolo 4, comma 5, del decreto legislativo 30 luglio 1999, n. 300](..
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md);
 
-Visto il [decreto del Presidente della Repubblica 24 maggio 2001, n. 233](../DPR/Regolamento%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20degli%20affari%20esteri.md), recante regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro degli affari esteri;
+Visto il [decreto del Presidente della Repubblica 24 maggio 2001, n. 233](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20degli%20affari%20esteri.md), recante regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro degli affari esteri;
 
 Sentite le organizzazioni sindacali in data 27 novembre 2001;
 
@@ -54,7 +54,7 @@ Nell'ambito delle funzioni previste dall'[articolo 6, comma 2, del decreto legis
  c) la "Unita' per le attivita' di rilievo internazionale delle regioni e degli altri enti territoriali italiani , la quale cura i rapporti con le regioni e gli altri enti territoriali italiani per quanto attiene alle loro attivita' di relazione con l'estero.".
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo del [comma quinto dell'art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) e' il seguente:
  "Il Presidente della Repubblica Promulga le leggi ed emana i decreti aventi valore di legge e i regolamenti.".

@@ -42,7 +42,7 @@ Sono approvati gli annessi regolamenti:
 
 ## Art. 2. — null
 
-Il regolamento del personale navigante sostituisce ed annulla quello approvato con [R. decreto 25 giugno 1914, n. 707](Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20navigante%20delle%20ferrovie%20dello%20Stato.%20014U0707.md).
+Il regolamento del personale navigante sostituisce ed annulla quello approvato con [R. decreto 25 giugno 1914, n. 707](../Regi%20decreti/Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20navigante%20delle%20ferrovie%20dello%20Stato.%20014U0707.md).
 
 ## Art. 3.
 
@@ -54,7 +54,7 @@ Per gli avanzamenti, che siano subordinati alla formazione dei ruoli, le disposi
  
  Le disposizioni relative al funzionamento dei Consigli di disciplina andranno, in vigore dopo che, in seguito alla pubblicazione dei ruoli, saranno stati eletti i rappresentanti del personale nei Consigli stessi. In ogni caso le elezioni non potranno aver luogo se non dopo la cessazione della guerra. 
  
- Gli avventizi stati assunti con regolare atto di sottomissione per funzioni continuative di operaio, aiutante operaio, manovale e cantoniere, di cui al punto 1° del secondo comma dell'art. 2 del regolamento approvato col [R. decreto 22 luglio 1906, n. 417](Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), saranno nominati in prova con decorrenza dal primo del mese successivo all'andata in vigore del presente decreto, se a quella data avranno compiuto o superato lodevolmente un anno di servizio ininterrotto da avventizio e purche' possiedano i requisiti richiesti per la nomina in prova. 
+ Gli avventizi stati assunti con regolare atto di sottomissione per funzioni continuative di operaio, aiutante operaio, manovale e cantoniere, di cui al punto 1° del secondo comma dell'art. 2 del regolamento approvato col [R. decreto 22 luglio 1906, n. 417](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), saranno nominati in prova con decorrenza dal primo del mese successivo all'andata in vigore del presente decreto, se a quella data avranno compiuto o superato lodevolmente un anno di servizio ininterrotto da avventizio e purche' possiedano i requisiti richiesti per la nomina in prova. 
  
  Le disposizioni relative agli esoneri degli agenti per il raggiungimento dei limiti massimi di eta', andranno in vigore non oltre sei mesi dalla pubblicazione del presente decreto. Pero', finche' rimane in vigore la disposizione del [decreto Luogotenenziale 18 novembre 1915, n. 1625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1625), in forza della quale sono sospese le nomine di nuovi impiegati ed agenti, l'Amministrazione potra' eccezionalmente mantenere in servizio, anche oltre i detti limiti di eta', gli agenti la cui opera sia ritenuta, a suo giudizio, necessaria.
 
@@ -94,19 +94,19 @@ Le norme per il trattamento del personale delle ferrovie secondarie a scartament
 
 I sottoindicati articoli della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), sono modificati come segue: 
  
- Art. 6. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
+ Art. 6. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
  
  Il n. 10 del primo comma e' modificato come segue: 
  
  10 - delibera le nomine, le promozioni, gli aumenti anticipati di stipendio o paga, i collocamenti in disponibilita' ed aspettativa e l'esonero definitivo. Per i funzionari di grado uguale o superiore al 1° le attribuzioni del Consiglio di disciplina sono esercitate dal Consiglio di amministrazione, salvo, per la revocazione e la destituzione, quanto e' disposto dall'art. 54. 
  
- Art. 25. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
+ Art. 25. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
  
  Fra il quarto ed il quinto comma viene inserito il seguente comma: 
  
  Le autorita' competenti a pronunciarsi in base alle suindicate norme e regolamentari possono, valutate le circostanze, ridurre, od anche non applicare, l'addebito per il danno dall'Amministrazione. 
  
- Art. 53. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
+ Art. 53. - (Modificato dal [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md)). 
  
  Al secondo comma viene sostituito il seguente comma: 
  
@@ -173,7 +173,7 @@ I sottoindicati articoli della [legge 9 luglio 1908, numero 418](Provvedimenti%2
 
 ## Art. 12.
 
-I sottoindicati articoli del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), sono modificati come segue: 
+I sottoindicati articoli del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), sono modificati come segue: 
  
  Art. 5. - Il paragrafo b) e' sostituito dal seguente: 
  
@@ -203,7 +203,7 @@ I sottoindicati articoli del testo unico approvato con [R. decreto 22 aprile 190
 
 ## Art. 13.
 
-Nel testo unico approvato col [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e' inserito, dopo l'art. 16, il seguente articolo: 
+Nel testo unico approvato col [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e' inserito, dopo l'art. 16, il seguente articolo: 
  
  Per gli agenti revocati, la pensione od il sussidio per una volta tanto saranno ridotti di un quarto senza che la pensione possa essere inferiore ai tre quarti di L. 400. 
  
@@ -241,7 +241,7 @@ E' abrogato l'[art. 11 della legge 23 luglio 1914, numero 742](Concernente%20dis
 
 ## Art. 17.
 
-Le disposizioni contenute nel presente decreto saranno contemplate nella formazione dei testi unici preveduti dagli [articoli 9 del R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e 26 della [legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md). 
+Le disposizioni contenute nel presente decreto saranno contemplate nella formazione dei testi unici preveduti dagli [articoli 9 del R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e 26 della [legge 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

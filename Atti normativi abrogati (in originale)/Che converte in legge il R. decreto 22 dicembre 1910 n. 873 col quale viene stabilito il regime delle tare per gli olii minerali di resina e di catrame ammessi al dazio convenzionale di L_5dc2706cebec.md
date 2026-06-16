@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 22 dicembre 1910, n. 873](Che%20stabilisce%20il%20regime%20delle%20tare%20per%20lo%20sdoganamento%20degli%20olii%20minerali%20di%20resina%20e%20di%20catrame%20010U0873.md), che stabilisce il regime delle tare per gli olii minerali, di resina e di catrame ammessi al dazio convenzionale di L. 16 il quintale. 
+ E' convertito in legge il [R. decreto 22 dicembre 1910, n. 873](../Regi%20decreti/Che%20stabilisce%20il%20regime%20delle%20tare%20per%20lo%20sdoganamento%20degli%20olii%20minerali%20di%20resina%20e%20di%20catrame%20010U0873.md), che stabilisce il regime delle tare per gli olii minerali, di resina e di catrame ammessi al dazio convenzionale di L. 16 il quintale. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

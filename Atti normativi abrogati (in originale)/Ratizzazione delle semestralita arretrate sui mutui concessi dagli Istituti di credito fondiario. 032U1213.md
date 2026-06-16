@@ -32,7 +32,7 @@ E' data facolta' agli Istituti di credito fondiario, in ordine ai mutui con gara
 ## Art. 2.
 
 Gli interessi di mora compresi nelle-Tate delle semestralita' dilazionate ai sensi dell'articolo primo sono esenti da imposta di ricchezza mobile. 
- Gli atti di consenso alle dilazioni di cui allo stesso articolo primo, e quelli con essi connessi, sono compresi nell'abbonamento alle tasse di registro, bollo ed ipotecarie, di cui all'art. 27 del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), riprodotto nell'art. 46, allegato B, della tariffa annessa alla legge di registro 30 dicembre 1923, n. 3269. 
+ Gli atti di consenso alle dilazioni di cui allo stesso articolo primo, e quelli con essi connessi, sono compresi nell'abbonamento alle tasse di registro, bollo ed ipotecarie, di cui all'art. 27 del testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), riprodotto nell'art. 46, allegato B, della tariffa annessa alla legge di registro 30 dicembre 1923, n. 3269. 
  Agli atti stessi si applica la riduzione dei diritti notarili a meta'. 
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 

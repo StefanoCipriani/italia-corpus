@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), che istituisce l'imposta complementare progressiva sul reddito;
+Visto il [R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), che istituisce l'imposta complementare progressiva sul reddito;
 
 Visto il [R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md);
 
-Visto il testo delle disposizioni riguardanti la dichiarazione dei redditi e le sanzioni in materia di imposte dirette, approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visto il testo delle disposizioni riguardanti la dichiarazione dei redditi e le sanzioni in materia di imposte dirette, approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Ritenute la necessita' e l'urgenza del provvedimento;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-I possessori di redditi mobiliari dipendenti da stipendi, pensioni ed altri assegni classificabili agli effetti della imposta di ricchezza mobile nella categoria C-2, i quali non abbiano finora presentata la dichiarazione ai fini dell'imposta complementare progressiva sul reddito, sono esenti dalla sopratassa e non sono punibili con l'ammenda, previste dal [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), a condizione che presentino la dichiarazione entro il 31 luglio 1933. 
+I possessori di redditi mobiliari dipendenti da stipendi, pensioni ed altri assegni classificabili agli effetti della imposta di ricchezza mobile nella categoria C-2, i quali non abbiano finora presentata la dichiarazione ai fini dell'imposta complementare progressiva sul reddito, sono esenti dalla sopratassa e non sono punibili con l'ammenda, previste dal [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), a condizione che presentino la dichiarazione entro il 31 luglio 1933. 
  
  I possessori dei redditi mobiliari indicati nel precedente comma, che li abbiano dichiarati in misura inferiore al loro reale ammontare, senza che sia stata ancora eseguita la rettifica dagli uffici delle imposte, sono esenti dalla sopratassa prevista dal citato Regio decreto, a condizione che integrino la dichiarazione gia' fatta entro la stessa data del 31 luglio 1933. 
  
@@ -38,11 +38,11 @@ I possessori di redditi mobiliari dipendenti da stipendi, pensioni ed altri asse
 
 ## Art. 2.
 
-In deroga alle disposizioni contenute nell'[art. 16, secondo comma, del R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), le variazioni permanenti in diminuzione dei redditi di cui al precedente articolo, hanno efficacia, per l'applicazione della imposta complementare, dal 1° gennaio dell'anno successivo a quello in cui esse si verificano. 
+In deroga alle disposizioni contenute nell'[art. 16, secondo comma, del R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), le variazioni permanenti in diminuzione dei redditi di cui al precedente articolo, hanno efficacia, per l'applicazione della imposta complementare, dal 1° gennaio dell'anno successivo a quello in cui esse si verificano. 
  
  Le domande degli interessati debbono essere presentate entro lo stesso termine del 31 gennaio di ciascun anno, stabilito per le denuncie dei datori di lavoro dall'[art. 3 del R. decreto-legge 30 gennaio 1933, n. 18](Provvedimenti%20per%20le%20dichiarazioni%20dei%20redditi%20di%20categoria%20C-2%20da%20parte%20degli%20enti%20societa%20e%20privati.%20033U0018.md). 
  
- La cessazione del rapporto di impiego da' diritto al rimborso proporzionale della imposta complementare, con decorrenza dal giorno dell'avvenimento, indipendentemente dalla riduzione alla meta' del reddito complessivo stabilita dall'art. 19 del citato [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md).
+ La cessazione del rapporto di impiego da' diritto al rimborso proporzionale della imposta complementare, con decorrenza dal giorno dell'avvenimento, indipendentemente dalla riduzione alla meta' del reddito complessivo stabilita dall'art. 19 del citato [R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md).
 
 ## Art. 3.
 

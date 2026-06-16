@@ -34,7 +34,7 @@ L'esperimento pratico avra' durata di quattro mesi almeno e sara' compiuto press
 
 Non sono ammesse le domande dei tenenti che abbiano un'anzianita' di grado maggiore di anni quattro, a meno che si tratti di tenenti che siano divenuti meno idonei al servizio nella propria arma per infermita', lesioni o ferite provenienti da causa di servizio. 
  
- In tal caso la domanda dev'essere accompagnata da copia del verbale prescritto all'articolo 34 del Regolamento approvato con [R. decreto 5 settembre 1895 n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603). 
+ In tal caso la domanda dev'essere accompagnata da copia del verbale prescritto all'articolo 34 del Regolamento approvato con [R. decreto 5 settembre 1895 n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

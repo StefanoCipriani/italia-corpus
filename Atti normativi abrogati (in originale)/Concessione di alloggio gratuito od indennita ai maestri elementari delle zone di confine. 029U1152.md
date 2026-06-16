@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai Comuni compresi nelle provincie di Zara, del Carnaro e dell'Istria e nei territori facenti parte dei cessati circondari di Gorizia, Gradisca d'Isonzo, Idria, Postumia, Bolzano, Bressanone, Merano, Cavalese e Tolmino, e' fatto obbligo, quando gia' non abbiano provveduto ai sensi dell'articolo 107, ultimo capoverso, del testo unico delle leggi e delle norme giuridiche sull'istruzione elementare e post-elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), di fornire ai maestri elementari di ruolo l'abitazione gratuita o, in mancanza di questa, di corrispondere loro l'indennita' d'alloggio. 
+Ai Comuni compresi nelle provincie di Zara, del Carnaro e dell'Istria e nei territori facenti parte dei cessati circondari di Gorizia, Gradisca d'Isonzo, Idria, Postumia, Bolzano, Bressanone, Merano, Cavalese e Tolmino, e' fatto obbligo, quando gia' non abbiano provveduto ai sensi dell'articolo 107, ultimo capoverso, del testo unico delle leggi e delle norme giuridiche sull'istruzione elementare e post-elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), di fornire ai maestri elementari di ruolo l'abitazione gratuita o, in mancanza di questa, di corrispondere loro l'indennita' d'alloggio. 
  
  L'abitazione deve per ampiezza e proprieta' essere adeguata alle esigenze personali e famigliari del maestro.
 
@@ -36,7 +36,7 @@ L'indennita' annua di alloggio di cui al precedente articolo e' fissata nella mi
 
 ## Art. 3.
 
-Ai maestri delle scuole elementari della provincia dell'Istria, ai quali l'alloggio e' fornito negli edifici scolastici costruiti a cura del Ministero della pubblica istruzione, il canone obbligatorio determinato ai sensi dell'art. 245, capoverso, del testo unico delle leggi e delle norme giuridiche sull'istruzione elementare e post-elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), e' rimborsato dal Comune nel cui territorio la scuola e' aperta.
+Ai maestri delle scuole elementari della provincia dell'Istria, ai quali l'alloggio e' fornito negli edifici scolastici costruiti a cura del Ministero della pubblica istruzione, il canone obbligatorio determinato ai sensi dell'art. 245, capoverso, del testo unico delle leggi e delle norme giuridiche sull'istruzione elementare e post-elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), e' rimborsato dal Comune nel cui territorio la scuola e' aperta.
 
 ## Art. 4.
 

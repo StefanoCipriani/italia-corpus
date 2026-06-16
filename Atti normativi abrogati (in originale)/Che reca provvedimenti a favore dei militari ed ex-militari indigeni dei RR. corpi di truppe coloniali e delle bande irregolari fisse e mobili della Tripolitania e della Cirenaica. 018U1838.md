@@ -12,7 +12,7 @@ vigente: true
 
 E' data facolta' al ministro segretario di Stato per le colonie per la durata della guerra: 
  
- a) di concedere una speciale indennita' giornaliera caroviveri ai militari indigeni dei RR. corpi di truppe coloniali della Tripolitania e della Cirenaica previsti dal [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), ed agli indigeni componenti le bande irregolari, fisse e mobili delle colonie suddette istituite in forza dei RR. decreti 2 agosto 1914, n. 965, e 22 aprile 1915, n. 609; 
+ a) di concedere una speciale indennita' giornaliera caroviveri ai militari indigeni dei RR. corpi di truppe coloniali della Tripolitania e della Cirenaica previsti dal [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), ed agli indigeni componenti le bande irregolari, fisse e mobili delle colonie suddette istituite in forza dei RR. decreti 2 agosto 1914, n. 965, e 22 aprile 1915, n. 609; 
  
  b) di provvedere all'assistenza economica e morale degli ex-militari indigeni bisognosi mutilati o comunque resi inabili al lavoro proficuo per cause dipendenti dal servizio prestato in favore della causa italiana ed alle famiglie indigenti dei militari indigeni morti combattendo o per cause comprovate dipendenti dal servizio militare prestato.
 

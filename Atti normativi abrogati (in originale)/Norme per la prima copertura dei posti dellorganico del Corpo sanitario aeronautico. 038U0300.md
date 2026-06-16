@@ -56,7 +56,7 @@ I trasferimenti di cui alla lettera a) del precedente articolo verranno effettua
  
  Gli ufficiali che nei ruoli di provenienza rivestono la qualifica di 1° capitano ed i capitani che godono del trattamento di cui all'[art. 182 della legge 7 giugno 1934, n. 899](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), saranno ammessi a conservare gli assegni di cui sono forniti all'atto del trasferimento. 
  
- Ugualmente conserveranno l'indennita' professionale di cui all'art. 178, 2° comma, del [R. decreto 11 novembre 1923, numero 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), quegli ufficiali che ne siano provvisti all'atto del trasferimento. 
+ Ugualmente conserveranno l'indennita' professionale di cui all'art. 178, 2° comma, del [R. decreto 11 novembre 1923, numero 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), quegli ufficiali che ne siano provvisti all'atto del trasferimento. 
  
  Agli effetti dell'ulteriore avanzamento degli ufficiali come sopra trasferiti, saranno ritenuti validi gli eventuali esami (sia obbligatori per l'avanzamento, sia facoltativi per l'avanzamento a scelta) da essi sostenuti nei ruoli di provenienza per la promozione al grado immediatamente superiore a quello rivestito all'atto del trasferimento. 
  

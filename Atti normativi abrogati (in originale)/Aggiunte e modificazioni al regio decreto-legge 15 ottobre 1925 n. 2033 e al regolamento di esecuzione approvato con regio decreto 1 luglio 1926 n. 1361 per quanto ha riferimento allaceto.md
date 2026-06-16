@@ -44,7 +44,7 @@ Negli esercizi per la vendita e nei locali annessi, anche se destinati ad abitaz
 
 ## Art. 5.
 
-Il secondo comma dell'art. 68 del regolamento di esecuzione del [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), approvato col [regio decreto 1 luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361), viene sostituito con il seguente:
+Il secondo comma dell'art. 68 del regolamento di esecuzione del [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), approvato col [regio decreto 1 luglio 1926, n. 1361](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto%2015%20ottobre%201925%20n.%202033%20convertito%20in%20legge%20con%20la%20legge%2018%20marzo%201926%20n.%20562%20concernente%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20co_4e929fa93522.md), viene sostituito con il seguente:
  "L'acido acetico che si trova nei locali in cui si produce o si detiene aceto, deve ritenersi come destinato alla preparazione di aceto commestibile o al taglio con l'aceto commestibile in contravvenzione al divieto dell'[art. 19 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_19), e del primo comma del presente articolo. Cosi' pure l'acido acetico che si trova nei locali in cui si producono conserve alimentari deve ritenersi come destinato alla fabbricazione di aceto per la preparazione di conserve alimentari, per il quale esiste il divieto di cui al citato art. 19".
 
 ## Art. 6.
@@ -65,7 +65,7 @@ La vigilanza amministrativa per quanto concerne la applicazione della presente l
 
 ## Art. 9.
 
-Ai trasgressori della presente legge si applicano le sanzioni previste nel [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), nel regolamento di applicazione approvato con il [regio decreto 1 luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361), e nelle successive disposizioni modificative o integrative.
+Ai trasgressori della presente legge si applicano le sanzioni previste nel [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), nel regolamento di applicazione approvato con il [regio decreto 1 luglio 1926, n. 1361](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto%2015%20ottobre%201925%20n.%202033%20convertito%20in%20legge%20con%20la%20legge%2018%20marzo%201926%20n.%20562%20concernente%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20co_4e929fa93522.md), e nelle successive disposizioni modificative o integrative.
 
 ## Art. 10.
 

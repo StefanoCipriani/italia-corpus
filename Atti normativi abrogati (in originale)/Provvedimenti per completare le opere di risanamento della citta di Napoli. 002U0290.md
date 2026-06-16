@@ -42,7 +42,7 @@ La Banca d'Italia ed il Banco di Napoli sono autorizzati a consentire alla Socie
 
 ## Art. 6.
 
-Nulla e' innovato circa la liquidazione delle operazioni di che all'articolo 50 del testo unico di legge sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), per il triennio scadente il 31 dicembre 1902 e per il triennio scadente il 31 dicembre 1905. 
+Nulla e' innovato circa la liquidazione delle operazioni di che all'articolo 50 del testo unico di legge sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](../Regi%20decreti/Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), per il triennio scadente il 31 dicembre 1902 e per il triennio scadente il 31 dicembre 1905. 
  
  Per il fatto dell'intervento finanziario, di cui all'articolo 4, la Banca d'Italia il Banco di Napoli sono autorizzati a dedurre dalle partite immobilizzate che, ai termini del citato articolo 50, si dovrebbero liquidare obbligatoriamente entro il 1908, le somme costituenti il rispettivo Credito, per capitali ed interesso, verso la Societa' predetta che non fossero realizzate a tutto l'anno 1908.
 

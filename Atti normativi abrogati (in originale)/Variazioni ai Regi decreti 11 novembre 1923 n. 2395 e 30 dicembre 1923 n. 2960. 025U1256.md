@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato o successive estensioni e modificazioni;
+Veduto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato o successive estensioni e modificazioni;
 
-Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Veduto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Sentito il Consiglio dei Ministri;
 
@@ -26,17 +26,17 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per le f
 
 Il personale salariato che ottenga il passaggio ad impiego nei ruoli dei personali appartenenti ai gruppi A, B e C o in quelli del personale subalterno, conserva a titolo di assegno personale, non utile a pensione da riassorbirsi nei successivi aumenti, l'eventuale eccedenza della retribuzione mensile o della paga giornaliera di cui sia provvisto all'atto del passaggio, valutata ad anno, in ragione rispettivamente di dodici mensualita' o di trecento giornate, ed aumentata delle eventuali indennita' temporanee mensili, sull'importo complessivo dello stipendio, del supplemento di servizio attivo e delle indennita' temporanee mensili inerenti al nuovo posto. 
  
- Nei casi di cui al precedente comma, durante il periodo di prova compete, a titolo di assegno personale, l'eventuale eccedenza del trattamento di salariato, goduto all'atto del passaggio, sull'assegno mensile spettante ai sensi del [secondo comma dell'art. 17 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ Nei casi di cui al precedente comma, durante il periodo di prova compete, a titolo di assegno personale, l'eventuale eccedenza del trattamento di salariato, goduto all'atto del passaggio, sull'assegno mensile spettante ai sensi del [secondo comma dell'art. 17 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 2.
 
-Agli effetti della determinazione del periodo prescritto per le promozioni al grado 9° del personale civile dei gruppi A e B il servizio prestato presso qualsiasi Amministrazione in ruoli di gruppi diversi da quello al quale l'impiegato appartiene, e' valutato nei modi indicati al [4° comma dell'articolo 21 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21-com4).
+Agli effetti della determinazione del periodo prescritto per le promozioni al grado 9° del personale civile dei gruppi A e B il servizio prestato presso qualsiasi Amministrazione in ruoli di gruppi diversi da quello al quale l'impiegato appartiene, e' valutato nei modi indicati al [4° comma dell'articolo 21 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 3.
 
-Il limite di cui all'[art. 99 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_99), e' elevato a L. 15,000. 
+Il limite di cui all'[art. 99 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' elevato a L. 15,000. 
  
- Il limite di cui al [secondo comma dell'art. 32 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' elevato a L. 10,000.
+ Il limite di cui al [secondo comma dell'art. 32 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' elevato a L. 10,000.
 
 ## Art. 4.
 
@@ -48,7 +48,7 @@ Le norme di cui ai precedenti articoli 1 e 4 si applicano, con effetto dalla dat
 
 ## Art. 6.
 
-L'[art. 200 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato con l'[art. 54 del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), e' sostituito dal seguente: 
+L'[art. 200 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato con l'[art. 54 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), e' sostituito dal seguente: 
  
  «I posti che dopo l'applicazione delle disposizioni in vigore comprese quelle del presente decreto, concernenti passaggi di ruolo e sistemazione di personale in ruolo, si renderanno vacanti nel grado iniziale dei ruoli del personale civile, saranno conferiti al personale straordinario, avventizio, diurnista, giornaliero, cottimista o altro personale non di ruolo comunque denominato, in servizio almeno dal 1° dicembre 1923 nella rispettiva Amministrazione, prescindendo dai limiti di eta': 
  
@@ -66,7 +66,7 @@ L'[art. 200 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%2
 
 ## Art. 7.
 
-L'ultimo comma dell'[art. 10 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_10), e' modificato come segue: 
+L'ultimo comma dell'[art. 10 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' modificato come segue: 
  
  «Tuttavia l'impiegato ha diritto di consegnare ai propri superiori pieghi suggellati diretti al Ministro, esclusivamente per questioni personali di particolare gravita' e delicatezza non estranee ai rapporti d'impiego. 
  

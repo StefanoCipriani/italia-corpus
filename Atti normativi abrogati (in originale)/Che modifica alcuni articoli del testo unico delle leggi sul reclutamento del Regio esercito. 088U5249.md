@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Agli articoli 82, 86, 93, 96, 158, 159 e 160 del testo unico delle leggi sul reclutamento del regio esercito approvato col [regio decreto del 17 agosto 1882, n. 956](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md) (serie 3ª), sono sostituiti i seguenti: 
+Agli articoli 82, 86, 93, 96, 158, 159 e 160 del testo unico delle leggi sul reclutamento del regio esercito approvato col [regio decreto del 17 agosto 1882, n. 956](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md) (serie 3ª), sono sostituiti i seguenti: 
  
  Art. 82. - Gli inscritti, di cui all'articolo precedente, qualora siano idonei, devono presentarsi al Consiglio di leva prima che proceda alla chiusura delle sue operazioni. 
  

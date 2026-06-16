@@ -482,7 +482,7 @@ Perche' sia ammessa la deduzione del passivo e' necessario che l'erede lo giusti
  
  Il creditore o suoi aventi causa non possono rifiutarsi a consegnare i titoli al debitore o permettergli che a sue spese senza che siano esportati, ne sia fatta copia autentica dal notaro o cancelliere, ne' ad emettere la dichiarazione sulla sussistenza di tutto o di parte del debito che dev'essere dedotto dall'asse ereditario, sotto pena dei danni. 
  
- Nel caso d'infedelta' nella dichiarazione, i soscrittori della medesima saranno tenuti solidalmente al pagamento di una pena pecuniaria uguale al quintuplo della tassa che colla dichiarazione infedele si tento' di defraudare, senza pregiudizio degli effetti del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi da esso previsti.
+ Nel caso d'infedelta' nella dichiarazione, i soscrittori della medesima saranno tenuti solidalmente al pagamento di una pena pecuniaria uguale al quintuplo della tassa che colla dichiarazione infedele si tento' di defraudare, senza pregiudizio degli effetti del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi da esso previsti.
 
 ### Art. 56.
 

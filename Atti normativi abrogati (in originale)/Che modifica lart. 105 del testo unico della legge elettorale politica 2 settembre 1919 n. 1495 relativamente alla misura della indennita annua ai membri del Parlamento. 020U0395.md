@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- All'articolo 105 del testo unico della legge elettorale politica, approvato con [R. decreto 2 settembre 1919, n. 1495](Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md), sostituire il seguente: 
+ All'articolo 105 del testo unico della legge elettorale politica, approvato con [R. decreto 2 settembre 1919, n. 1495](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md), sostituire il seguente: 
  
  «A ciascun deputato, senza alcuna distinzione, viene corrisposta, a decorrere dal giorno in cui entra in funzione; la somma di annue lire 15,000 a titolo di indennita' e rimborso spese di corrispondenza. 
  

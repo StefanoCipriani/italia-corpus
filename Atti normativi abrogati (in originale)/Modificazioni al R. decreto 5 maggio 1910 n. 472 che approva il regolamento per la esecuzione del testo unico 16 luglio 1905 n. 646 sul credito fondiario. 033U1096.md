@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472#art_14) e [88 del R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472#art_88), che approva il regolamento per l'esecuzione della legge ([testo unico) 16 luglio 1905, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;616), sul credito fondiario, e delle [leggi 22 dicembre 1905, n. 592 e 22 dicembre 1907, n. 794](Relativa%20allaggiunta%20alla%20legge%2022%20dicembre%201905%20n.%20592%20sul%20Credito%20fondiario%20007U0794.md);
+Visti gli [articoli 14](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md) e [88 del R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), che approva il regolamento per l'esecuzione della legge ([testo unico) 16 luglio 1905, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;616), sul credito fondiario, e delle [leggi 22 dicembre 1905, n. 592 e 22 dicembre 1907, n. 794](Relativa%20allaggiunta%20alla%20legge%2022%20dicembre%201905%20n.%20592%20sul%20Credito%20fondiario%20007U0794.md);
 
 Visto il [R. decreto 27 settembre 1929, n. 1663](Ripartizione%20dei%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20fra%20il%20Ministero%20dellagricoltura%20e%20delle%20foreste%20ed%20il%20Ministero%20delle%20corporazioni.%20029U1663.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Articolo unico.
 
-La facolta' di creare cartelle per serie distinte in ciascun saggio d'interesse, prevista per il solo Istituto italiano di credito fondiario dall'[art. 88 del R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472#art_88), e' estesa a tutti gli istituti autorizzati ad esercitare il credito fondiario. 
+La facolta' di creare cartelle per serie distinte in ciascun saggio d'interesse, prevista per il solo Istituto italiano di credito fondiario dall'[art. 88 del R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), e' estesa a tutti gli istituti autorizzati ad esercitare il credito fondiario. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-L'art. 128 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), e' sostituito dal seguente: 
+L'art. 128 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), e' sostituito dal seguente: 
  
  «I militari di truppa giudicati con le norme stabilite dall'articolo precedente inabili permanentemente o per un periodo superiore ad un anno al servizio speciale del Corpo, ma idonei a quello militare in genere, ed i militari di truppa giudicati inabili anche al servizio militare in genere, ma appartenenti a classi che non hanno ancora concorso alla leva, non sono riformati, bensi' prosciolti dalla ferma di servizio con le modalita' sotto indicate: 
  
@@ -29,13 +29,13 @@ e) se, infine, appartiene a classe che ha gia' soddisfatto gli
 
 ## Art. 2.
 
-Il primo comma dell'art. 148 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), e' sostituito dal seguente: 
+Il primo comma dell'art. 148 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), e' sostituito dal seguente: 
  
  «Il permesso di contrarre matrimonio e' rilasciato senza limitazione di numero ai marescialli, ai marescialli capi, ai marescialli maggiori, a i sottufficiali del contingente speciale ed ai vedovi con prole. Ai brigadieri e' rilasciato nella proporzione massima della meta' del loro numero complessivo ed agli appuntati nella proporzione di due quinti»,
 
 ## Art. 3.
 
-L'art. 209 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), e' sostituito dal seguente: 
+L'art. 209 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), e' sostituito dal seguente: 
  
  «La durata massima delle licenze ordinarie che possono essere concesse agli ufficiali nel periodo di un biennio - incominciando il biennio dal 1 gennaio di ogni anno dispari - e' la seguente: 
  
@@ -70,7 +70,7 @@ d) ai comandanti di compagnia, di tenenza e di plotone, dal
 
 ## Art. 4.
 
-L'art. 210 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), e' sostituito dal seguente: 
+L'art. 210 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), e' sostituito dal seguente: 
  
  «Brevi licenze. 
  
@@ -81,13 +81,13 @@ L'art. 210 del regolamento organico per la Regia guardia di finanza, approvato c
 
 ## Art. 5.
 
-Fra il primo ed il secondo comma dell'art. 216 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), e' aggiunto il seguente periodo: 
+Fra il primo ed il secondo comma dell'art. 216 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), e' aggiunto il seguente periodo: 
  
  «Il comandante generale puo' tuttavia concedere, in via eccezionale, che la licenza non fruita in un anno sia aggiunta a quella dell'anno successivo, purche' non venga superato in ogni caso il periodo di un biennio, incominciando il biennio dal 1 gennaio di ogni anno dispari».
 
 ## Art. 6.
 
-L'art. 217 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), e' sostituito dal seguente: 
+L'art. 217 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), e' sostituito dal seguente: 
  
  «Per infermita' si possono concedere, su proposta delle direzioni degli ospedali militari, delle infermerie legionali o degli ufficiali medici del reparto o su attestazioni di sanitari militari, ai sottufficiali e militari di truppa licenze di convalescenza fino alla complessiva durata di quattro mesi, computando in ogni caso anche il mese di licenza ordinaria che al militare puo' essere concessa nell'anno solare 
  
@@ -95,7 +95,7 @@ L'art. 217 del regolamento organico per la Regia guardia di finanza, approvato c
 
 ## Art. 7.
 
-L'ultimo comma dell'art. 218 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126), e' sostituito dal seguente: 
+L'ultimo comma dell'art. 218 del regolamento organico per la Regia guardia di finanza, approvato con [R. decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), e' sostituito dal seguente: 
  
  «Le licenze su proposta dei sanitari militari, quando non sia stata fruita nell'anno licenza ordinaria, sono concesse fino al compimento di un mese dalle autorita', di cui all'articolo 216; dal comandante di legione fino al compimento del quarto mese e dal Comando generale per il periodo successivo».
 

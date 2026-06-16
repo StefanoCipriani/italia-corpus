@@ -16,13 +16,13 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti i [Regi decreti del 18 settembre 1924, numeri dal 1767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1767) [al 1777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1777), in virtu' dei quali le Regie scuole pratiche di agricoltura di Scerni, Eboli, Fabriano, Caltagirone, Caluso, Cerignola, Cosenza, Piedimonte d'Alife, Pozzuolo del Friuli, San Placido Calonero' (Messina) e Sant'Ilario Ligure sono state trasformate in Enti consorziali autonomi con personalita' giuridica; 
+ Visti i [Regi decreti del 18 settembre 1924, numeri dal 1767](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Scerni%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1767.md) [al 1777](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20SantIlario%20Ligure%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1777.md), in virtu' dei quali le Regie scuole pratiche di agricoltura di Scerni, Eboli, Fabriano, Caltagirone, Caluso, Cerignola, Cosenza, Piedimonte d'Alife, Pozzuolo del Friuli, San Placido Calonero' (Messina) e Sant'Ilario Ligure sono state trasformate in Enti consorziali autonomi con personalita' giuridica; 
  
  Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; 
  
  Abbiamo decretato e decretiamo: 
  
- Gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1767#art_8) e [9 dei Regi decreti del 18 settembre 1924, numeri dal 1767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1767#art_9) [al 1777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1777), sono sostituiti dai seguenti: 
+ Gli [articoli 8](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Scerni%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1767.md) e [9 dei Regi decreti del 18 settembre 1924, numeri dal 1767](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Scerni%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1767.md) [al 1777](../Regi%20decreti/Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20SantIlario%20Ligure%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1777.md), sono sostituiti dai seguenti: 
  
  «Art. 8. - Il direttore e il vice-direttore sono nominati per pubblico concorso, secondo bandi da approvarsi dal Ministero. 
  

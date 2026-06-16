@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ferme restando le concessioni di cui ai [Regi decreti 31 luglio 1919, n 1304](Che%20stabilisce%20un%20assegno%20mensile%20di%20L.%2050%20e%20di%20L.%2030%20a%20favore%20rispettivamente%20di%20tutti%20i%20pensionati%20dello%20Stato%20e%20delle%20loro%20vedove%20orfani%20e%20genitori.%20019U1304.md), e 7 settembre stesso anno, n. 1730, sara' corrisposto un assegno mensile di L. 60: 
+Ferme restando le concessioni di cui ai [Regi decreti 31 luglio 1919, n 1304](../Regi%20decreti/Che%20stabilisce%20un%20assegno%20mensile%20di%20L.%2050%20e%20di%20L.%2030%20a%20favore%20rispettivamente%20di%20tutti%20i%20pensionati%20dello%20Stato%20e%20delle%20loro%20vedove%20orfani%20e%20genitori.%20019U1304.md), e 7 settembre stesso anno, n. 1730, sara' corrisposto un assegno mensile di L. 60: 
  
  a) ai funzionari, militari, agenti ed operai gia' appartenenti all'Amministrazione dello Stato, provvisti di pensione ordinaria, sia o no privilegiata, non superiore alle L. 8000 annue lorde; 
  

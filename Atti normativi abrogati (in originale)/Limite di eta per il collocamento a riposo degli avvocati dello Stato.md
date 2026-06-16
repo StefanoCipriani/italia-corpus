@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'art. 34 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato con l'[art. 1 del regio decreto 2 gennaio 1942, n. 117](Modificazione%20dellart.%2034%20del%20testo%20unico%20dalla%20leggi%20sullordinamento%20dellAvvocatura%20dello%20Stato%20circa%20il%20limite%20di%20eta%20per%20il%20collocamento%20a%20riposo%20dei%20vice%20avvocati%20dello%20Stato.%20042U0117.md), e' sostituito dal seguente:
+L'art. 34 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), modificato con l'[art. 1 del regio decreto 2 gennaio 1942, n. 117](../Regi%20decreti/Modificazione%20dellart.%2034%20del%20testo%20unico%20dalla%20leggi%20sullordinamento%20dellAvvocatura%20dello%20Stato%20circa%20il%20limite%20di%20eta%20per%20il%20collocamento%20a%20riposo%20dei%20vice%20avvocati%20dello%20Stato.%20042U0117.md), e' sostituito dal seguente:
  "Tutti gli avvocati dello Stato sono collocati a riposo al compimento del settantesimo anno di eta'".
 
 ## Art. 2.

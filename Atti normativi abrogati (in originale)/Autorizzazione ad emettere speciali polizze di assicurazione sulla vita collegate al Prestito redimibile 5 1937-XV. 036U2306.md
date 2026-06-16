@@ -20,7 +20,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Visto il [R. decreto-legge 5 ottobre 1936, n. 1743](Emissione%20di%20un%20prestito%20redimibile%205%20ed%20applicazione%20di%20una%20imposta%20straordinaria%20sulla%20proprieta%20immobiliare%20per%20il%20servizio%20del%20prestito%20medesimo.%20036U1743.md), relativo alla emissione di un Prestito redimibile 5% ed all'applicazione di una imposta straordinaria sulla proprieta' immobiliare per il servizio del prestito medesimo;
 
-Visto il [R. decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md), recante norme complementari integrative e regolamentari per l'attuazione del Regio decreto-legge predetto;
+Visto il [R. decreto 10 novembre 1936, n. 1933](../Regi%20decreti/Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md), recante norme complementari integrative e regolamentari per l'attuazione del Regio decreto-legge predetto;
 
 Ritenuta l'urgente necessita', per agevolare le sottoscrizioni al prestito, di autorizzarne il collegamento con una speciale forma assicurativa mista, dando all'Istituto nazionale delle assicurazioni ed alle imprese autorizzate ad esercitare l'assicurazione sulla durata della vita umana le facolta' all'uopo necessarie;
 
@@ -50,9 +50,9 @@ Per essere ammessi alle operazioni previste nel precedente articolo 1, gli inter
 
 ## Art. 4.
 
-La liberta' degli immobili per effetto della stipulazione della polizza puo' essere provata anche col certificato da rilasciarsi dalla Sezione di Regia tesoreria provinciale ai sensi dell'[art. 55, secondo comma, del R. decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md). 
+La liberta' degli immobili per effetto della stipulazione della polizza puo' essere provata anche col certificato da rilasciarsi dalla Sezione di Regia tesoreria provinciale ai sensi dell'[art. 55, secondo comma, del R. decreto 10 novembre 1936, n. 1933](../Regi%20decreti/Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md). 
  
- A tale effetto l'ente assicuratore, quando esegue il versamento di ciascuna rata, dovra' richiedere che nella quietanza rilasciata dall'esattore sia fatto risultare che il pagamento e' effettuato da esso ente in base a polizza stipulata coll'obbligato ai sensi del presente decreto e per il ritiro dei titoli potra' valersi della facolta' consentita dall'[art. 51 del R. decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md).
+ A tale effetto l'ente assicuratore, quando esegue il versamento di ciascuna rata, dovra' richiedere che nella quietanza rilasciata dall'esattore sia fatto risultare che il pagamento e' effettuato da esso ente in base a polizza stipulata coll'obbligato ai sensi del presente decreto e per il ritiro dei titoli potra' valersi della facolta' consentita dall'[art. 51 del R. decreto 10 novembre 1936, n. 1933](../Regi%20decreti/Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md).
 
 ## Art. 5.
 
@@ -60,7 +60,7 @@ I premi dovuti dai sottoscrittori in corrispondenza delle polizze stipulate a no
  
  Per la riscossione di tali ruoli spettano agli esattori a carico degli enti assicuratori gli aggi nella misura dei tre quarti di quelli risultanti dai contratti di appalto in corso, e, in caso di esecuzione, a carico degli assicurati, i normali compensi per gli atti esecutivi. Le indennita' di mora per il ritardo nel pagamento dei premi, da applicarsi nella misura del 3%, vanno a favore dell'ente assicuratore. 
  
- Nel caso di ritardo da parte degli esattori nel versamento dei premi riscossi, si applica il disposto dell'[art. 39 del Regio decreto 10 novembre 1936, n. 1933](Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md).
+ Nel caso di ritardo da parte degli esattori nel versamento dei premi riscossi, si applica il disposto dell'[art. 39 del Regio decreto 10 novembre 1936, n. 1933](../Regi%20decreti/Norme%20complementari%20integrative%20e%20regolamentari%20per%20lattuazione%20del%20R.%20decreto-legge%205%20ottobre%201936-XIV%20n.%201743%20concernente%20lemissione%20di%20un%20Prestito%20redimibile%205%20e%20la%20istituzione%20di%20una%20_a2dd9db1058e.md).
 
 ## Art. 6.
 

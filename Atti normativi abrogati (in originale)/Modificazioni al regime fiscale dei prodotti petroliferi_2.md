@@ -165,7 +165,7 @@ L'articolo 23-ter, inserito nel [regio decreto-legge 28 febbraio 1939, n. 334](I
  "La multa e' commisurata, oltre che ai prodotti complessivamente ultimati, anche a quelli che si sarebbero, potuti ottenere dalle materie prime in corso in attesa di lavorazione o comunque esistenti in fabbrica, nell'opificio o nel deposito e nei locali in genere in cui venne consumata la frode.
  "Il tentativo e' punito con la stessa pena stabilita per il reato consumato.
  "Le materie prime, i prodotti fabbricati ed i mezzi adoperati per commettere la frode sono soggetti a confisca a termini della legge doganale.
- "Le disposizioni dei commi quarto e quinto sono stabilite in deroga rispettivamente agli articoli 56; e 240 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ "Le disposizioni dei commi quarto e quinto sono stabilite in deroga rispettivamente agli articoli 56; e 240 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  "Qualora dalle operazioni di cui al primo comma si ottengano prodotti per i quali non e' dovuto supplemento d'imposta di fabbricazione si applica l'ammenda fino a lire ottantamila".
  Le disposizioni del presente articolo non si applicano nei confronti di coloro che miscelano i prodotti petroliferi di cui al comma terzo del precedente articolo 12 della presente legge.
 

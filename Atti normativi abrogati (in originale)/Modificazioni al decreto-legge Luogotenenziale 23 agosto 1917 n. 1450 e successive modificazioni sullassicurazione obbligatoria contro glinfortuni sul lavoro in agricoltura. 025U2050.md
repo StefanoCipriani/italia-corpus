@@ -44,7 +44,7 @@ Agli [articoli 4](Concernente%20provvedimenti%20per%20lassicurazione%20obbligato
  
  «Il fondo di riserva deve essere investito almeno per una meta' in titoli di Stato o garantiti dallo Stato. 
  
- «Il rimanente potra' essere impiegato in operazioni di mutui ipotecari ai sensi dei capi IV e X del testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md)».
+ «Il rimanente potra' essere impiegato in operazioni di mutui ipotecari ai sensi dei capi IV e X del testo unico delle leggi e dei decreti sul credito agrario, approvato con [R. decreto 9 aprile 1922, n. 932](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20sul%20credito%20agrario.%20022U0932.md)».
 
 ## Art. 2.
 

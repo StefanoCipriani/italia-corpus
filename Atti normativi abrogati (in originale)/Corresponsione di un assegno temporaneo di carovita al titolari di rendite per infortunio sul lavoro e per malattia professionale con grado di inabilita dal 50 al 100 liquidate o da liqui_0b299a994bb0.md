@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A decorrere dal 1° gennaio 1945 e fino a nuova disposizione, ai titolari di rendite per infortunio sul lavoro e per malattie professionali liquidate e da liquidarsi dall'Amministrazione delle ferrovie dello Stato, dalla Azienda di Stato per i servizi telefonici e dall'Amministrazione delle poste e dei telegrafi in base al [R. decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), e successive disposizioni, e' dovuto, qualora sia stato accertato nei loro confronti un grado di inabilita' permanente in forma definitiva dal 50 al 100%, un assegno temporaneo di carovita in aggiunta ad ogni altra prestazione. 
+A decorrere dal 1° gennaio 1945 e fino a nuova disposizione, ai titolari di rendite per infortunio sul lavoro e per malattie professionali liquidate e da liquidarsi dall'Amministrazione delle ferrovie dello Stato, dalla Azienda di Stato per i servizi telefonici e dall'Amministrazione delle poste e dei telegrafi in base al [R. decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), e successive disposizioni, e' dovuto, qualora sia stato accertato nei loro confronti un grado di inabilita' permanente in forma definitiva dal 50 al 100%, un assegno temporaneo di carovita in aggiunta ad ogni altra prestazione. 
  
  L'assegno temporaneo di carovita di cui al comma precedente e' fissato nella seguente misura: 
  

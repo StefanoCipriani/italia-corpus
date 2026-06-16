@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 9 agosto 1929, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1744), che approva il regolamento sugli assegni speciali di bordo, e sue successive modificazioni;
+Visto il [R. decreto 9 agosto 1929, n. 1744](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20029U1744.md), che approva il regolamento sugli assegni speciali di bordo, e sue successive modificazioni;
 
 Sentito il Consiglio superiore di marina, il quale ha dato parere ad unanimita' favorevole;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la marina, di concerto con quello per le finanze
 
 ## Art. 1.
 
-Nella tabella A annessa al [R. decreto 9 agosto 1929, numero 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-09;1744), che approva il regolamento sugli assegni speciali di bordo, al testo del n. 20 e' sostituito il seguente: 
+Nella tabella A annessa al [R. decreto 9 agosto 1929, numero 1744](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20029U1744.md), che approva il regolamento sugli assegni speciali di bordo, al testo del n. 20 e' sostituito il seguente: 
  
  «Agli allievi della Regia accademia navale, durante il periodo di imbarco compreso tra il termine degli studi a terra e la nomina ad aspiranti L. 6». 
  

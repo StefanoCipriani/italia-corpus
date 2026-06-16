@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai sottufficiali e militari di truppa in congedo delle varie armi, mutilati ed invalidi di guerra, sono estese le disposizioni del testo unico sul reclutamento degli ufficiali del Regio esercito approvato con [R. decreto n. 629 del 21 marzo 1929](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md).
+Ai sottufficiali e militari di truppa in congedo delle varie armi, mutilati ed invalidi di guerra, sono estese le disposizioni del testo unico sul reclutamento degli ufficiali del Regio esercito approvato con [R. decreto n. 629 del 21 marzo 1929](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md).
 
 ## Art. 2.
 

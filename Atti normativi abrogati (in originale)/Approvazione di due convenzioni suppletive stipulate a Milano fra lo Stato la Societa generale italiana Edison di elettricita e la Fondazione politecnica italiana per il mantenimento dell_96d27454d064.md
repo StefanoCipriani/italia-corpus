@@ -15,7 +15,7 @@ VITTORIO EMANUELE III
  RE D'ITALIA 
  
  Veduti gli [articoli 3](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [82 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md); 
- Veduto il regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674); 
+ Veduto il regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md); 
  Veduto il Nostro decreto 24 maggio 1925, n. 834, con il quale veniva approvata e resa esecutiva la convenzione stipulata in Milano in data 2 marzo 1925, fra lo Stato e gli altri enti e privati sovventori per il mantenimento della Regia scuola d'ingegneria di Milano; 
  Udito il Consiglio superiore della educazione nazionale; 
  Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; 

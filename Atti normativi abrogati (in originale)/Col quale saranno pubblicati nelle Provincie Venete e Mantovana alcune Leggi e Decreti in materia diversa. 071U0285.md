@@ -76,7 +76,7 @@ Saranno pubblicati ed avranno vigore dal 1° settembre 1871 nelle Provincie dell
  
  Contenzioso amministrativo. 
  
- 16° [Regio Decreto 25 giugno 1865, n. 2361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-06-25;2361), che approva il Regolamento per l'esecuzione della Legge sul contenzioso amministrativo, e Regi Decreti 13 gennaio e 28 luglio 1866, n. 2771 e 3112, contenenti norme per le notificazioni delle citazioni dirette contro l'Amministrazione centrale della Guerra e contro l'Amministrazione del Fondo per il culto. 
+ 16° [Regio Decreto 25 giugno 1865, n. 2361](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sul%20contenzioso%20amministrativo.%20065U2361.md), che approva il Regolamento per l'esecuzione della Legge sul contenzioso amministrativo, e Regi Decreti 13 gennaio e 28 luglio 1866, n. 2771 e 3112, contenenti norme per le notificazioni delle citazioni dirette contro l'Amministrazione centrale della Guerra e contro l'Amministrazione del Fondo per il culto. 
  
  Tariffe. 
  

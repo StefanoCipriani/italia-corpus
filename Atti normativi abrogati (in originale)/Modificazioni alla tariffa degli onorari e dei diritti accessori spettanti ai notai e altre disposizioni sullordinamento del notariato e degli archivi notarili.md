@@ -108,7 +108,7 @@ I diritti dovuti ai Consigli notarili a norma degli articoli 28, 29, 30 e 32 del
 
 ## Art. 18.
 
-Il diritto fisso stabilito dall'[art. 18 del regio decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_18), per la richiesta di ogni operazione, e' elevato a L. 15.
+Il diritto fisso stabilito dall'[art. 18 del regio decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), per la richiesta di ogni operazione, e' elevato a L. 15.
 
 ## Art. 19.
 
@@ -131,11 +131,11 @@ All'[art. 5 del regio decreto-legge 8 gennaio 1920, n. 81](Contenente%20norme%20
 
 ## Art. 23.
 
-Le tasse per i concorsi a posti di notaio e ad impieghi negli Archivi notarili, stabilite dagli [articoli 20 del regio decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_20), [1 del regio decreto 7 aprile 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-07;1), [n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-07;358) e [10 del decreto legislativo luogotenenziale 5 aprile 1946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;10), [n. 314](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md), sono aumentate del 200 per cento.
+Le tasse per i concorsi a posti di notaio e ad impieghi negli Archivi notarili, stabilite dagli [articoli 20 del regio decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), [1 del regio decreto 7 aprile 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-07;1), [n. 358](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20regolamentari%20sul%20conferimento%20dei%20posti%20di%20notaro.%20041U0358.md) e [10 del decreto legislativo luogotenenziale 5 aprile 1946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-05;10), [n. 314](Modificazioni%20alle%20norme%20sul%20conferimento%20dei%20posti%20di%20notaio_2.md), sono aumentate del 200 per cento.
 
 ## Art. 24.
 
-Le ammende stabilite dalla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), del regolamento approvato con [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), e dalle altre disposizioni concernenti l'ordinamento del notariato e degli Archivi notarili, sono aumentate ad otto volte la misura attuale.
+Le ammende stabilite dalla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), del regolamento approvato con [regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), e dalle altre disposizioni concernenti l'ordinamento del notariato e degli Archivi notarili, sono aumentate ad otto volte la misura attuale.
  Questa disposizione non si applica nel caso previsto dall'art. 80 della stessa [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89).
 
 ## Art. 25.

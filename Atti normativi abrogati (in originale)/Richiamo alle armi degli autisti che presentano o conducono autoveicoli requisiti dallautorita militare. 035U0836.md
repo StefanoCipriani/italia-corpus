@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulla requisizione dei quadrupedi e veicoli per il Regio esercito, per la Regia marina e per la Regia aeronautica, approvato con [R. decreto 31 gennaio 1926, n. 452](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md), e successive modificazioni;
+Visto il testo unico delle leggi sulla requisizione dei quadrupedi e veicoli per il Regio esercito, per la Regia marina e per la Regia aeronautica, approvato con [R. decreto 31 gennaio 1926, n. 452](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20Regio%20esercito%20e%20per%20la%20Regia%20marina.%20026U0452.md), e successive modificazioni;
 
 Considerata la necessita' urgente ed assoluta di consentire alle autorita' militari la possibilita' di richiamare alle armi i singoli conducenti di automezzi, contemporaneamente alla requisizione degli automezzi stessi;
 

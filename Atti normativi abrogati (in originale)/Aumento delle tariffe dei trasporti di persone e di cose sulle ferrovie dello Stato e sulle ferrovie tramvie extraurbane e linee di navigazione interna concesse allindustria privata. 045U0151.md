@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto l'[art. 40 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), contenente l'ordinamento dell'esercizio delle ferrovie dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), che approva il testo unico delle disposizioni di legge sulle ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, e successive modificazioni;
+Visto il [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), che approva il testo unico delle disposizioni di legge sulle ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, e successive modificazioni;
 
 Visto il [R. decreto-legge 11 ottobre 1934, n. 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-10-11;1948), convertito nella [legge 4 aprile 1935, n. 911](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20ottobre%201934%20n.%201948%20concernente%20lapprovazione%20di%20nuove%20Condizioni%20e%20tariffe%20per%20il%20trasporto%20delle%20persone%20sulle%20ferrovie%20dello%20Stato.%20035U0911.md), e successive modificazioni, con il quale sono state approvate le condizioni e le tariffe pel trasporto delle persone sulle ferrovie dello Stato;
 

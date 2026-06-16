@@ -14,7 +14,7 @@ Le disposizioni degli [articoli 14](Contenente%20disposizioni%20per%20lequo%20tr
 
 ## Art. 2.
 
-L'importo della tassa di bollo proporzionale e della sovrattassa stabilita a titolo di addizionale gia' a favore delle Provincie danneggiate dal terremoto, devoluta allo Stato giusta il [R. decreto 22 ottobre 1914, n. 1155](Riguardante%20laumento%20dal%20due%20al%20cinque%20per%20cento%20delladdizionale%20alle%20tasse%20sugli%20affari%20salve%20le%20esenzioni%20dichiarate%20e%20la%20devoluzione%20della%20addizionale%20stessa%20allo%20Stato.%20014U1155.md), sara' conglobato, agli effetti della rivalsa, nei proventi soggetti alla tassa erariale sui trasporti. 
+L'importo della tassa di bollo proporzionale e della sovrattassa stabilita a titolo di addizionale gia' a favore delle Provincie danneggiate dal terremoto, devoluta allo Stato giusta il [R. decreto 22 ottobre 1914, n. 1155](../Regi%20decreti/Riguardante%20laumento%20dal%20due%20al%20cinque%20per%20cento%20delladdizionale%20alle%20tasse%20sugli%20affari%20salve%20le%20esenzioni%20dichiarate%20e%20la%20devoluzione%20della%20addizionale%20stessa%20allo%20Stato.%20014U1155.md), sara' conglobato, agli effetti della rivalsa, nei proventi soggetti alla tassa erariale sui trasporti. 
  
  Ordiniamo che il presenze decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

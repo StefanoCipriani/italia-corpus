@@ -26,7 +26,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la legge sulle espropriazioni per pubblica utilita' 25 giugno 1865, n. 2359; 
  
- Visto il regolamento approvato con [R. decreto 6 aprile 1913, n. 512](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20dellart.%2047%20della%20legge%2013%20luglio%201910%20n.%20466%20e%20dellart.%2026%20del%20R.%20decreto%2024%20dicembre%201911%20n.%201479%20convertito%20in%20legge%20con%20la%20legge%206%20l_a2a04e9abeb6.md); 
+ Visto il regolamento approvato con [R. decreto 6 aprile 1913, n. 512](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20dellart.%2047%20della%20legge%2013%20luglio%201910%20n.%20466%20e%20dellart.%2026%20del%20R.%20decreto%2024%20dicembre%201911%20n.%201479%20convertito%20in%20legge%20con%20la%20legge%206%20l_a2a04e9abeb6.md); 
  
  Visto il [decreto Luogotenenziale 19 ottobre 1916, n. 1502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-10-19;1502); 
  

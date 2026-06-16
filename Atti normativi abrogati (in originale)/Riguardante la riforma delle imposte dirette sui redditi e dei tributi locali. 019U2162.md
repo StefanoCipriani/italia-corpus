@@ -204,7 +204,7 @@ Sono temporaneamente sottratti all'applicazione dell'imposta:
  1° l'aumento di reddito derivante dai terreni bonificati, per la durata di un ventenio a decorrere dalla data entro la quale, a norma del progetto di massima, la bonificazione dovrebbe essere compiuta, e, in ogni caso, dalla data in cui consti che, per effetto della bonifica, l'aumento siasi verificato in modo permanente: 
  
  2° il reddito dei fabbricati di nuova costruzione, per la durata di un biennio dalla data in cui il fabbricato si e' reso abitabile.
-La esenzione e' di un quindicennio pei redditi delle case popolari ed economiche, ferme le condizioni e le cautele di cui al testo unico, approvato con [Regio decreto 27 febbraio 1908 n. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md); 
+La esenzione e' di un quindicennio pei redditi delle case popolari ed economiche, ferme le condizioni e le cautele di cui al testo unico, approvato con [Regio decreto 27 febbraio 1908 n. 89](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md); 
  
  3 ºil reddito ricavato da nuovi stabilimenti industriali per ottenere prodotti non fabbricati nel territorio dello Stato e dovuti a nuove applicazioni industriali, per la durata di un quinquennio dall'inizio dell'effettivo esercizio degli stabilimenti medesimi.
 
@@ -1137,7 +1137,7 @@ Le pene pecuniarie contemplate dal presente decreto, non possono essere condonat
 
 ### Art. 122.
 
-I funzionari dell'Amministrazione delle imposte, i componenti delle Giunte di stima o dei Collegi giudicanti, e tutti coloro che, secondo le rispettive attribuzioni, intervengono nell'accertamento, nell'applicazione e nella riscossione della imposta, sono tenuti al segreto professionale a termini dell'[art. 177 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e sono passibili delle pene comminate dall'articolo medesimo.
+I funzionari dell'Amministrazione delle imposte, i componenti delle Giunte di stima o dei Collegi giudicanti, e tutti coloro che, secondo le rispettive attribuzioni, intervengono nell'accertamento, nell'applicazione e nella riscossione della imposta, sono tenuti al segreto professionale a termini dell'[art. 177 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e sono passibili delle pene comminate dall'articolo medesimo.
 
 ### Art. 123.
 

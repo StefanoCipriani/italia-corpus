@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e [3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), concernenti la legge e il regolamento sulle scuole industriali;
+Visti i [Regi decreti 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e [3 giugno 1924, n. 969](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), concernenti la legge e il regolamento sulle scuole industriali;
 
 Visto il [R. decreto-legge 15 maggio 1924, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-15;745), concernente l'ordinamento dell'istruzione media commerciale;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 Gli atti e i contratti delle Regie scuole e dei Regi istituti industriali per quanto concerne tasse di registro e bollo e le tasse ipotecarie e catastali sono sottoposti alle norme che valgono per gli atti e contratti delle Amministrazioni dello Stato. 
  
- Sono pure esenti da tassa di manomorta i proventi di cui ai [commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_10-com1), [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_10-com2) e [quarto dell'art. 10 del R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_10-com4), ad eccezione dei lasciti, delle donazioni e dei contributi privati. 
+ Sono pure esenti da tassa di manomorta i proventi di cui ai [commi primo](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), [secondo](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md) e [quarto dell'art. 10 del R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), ad eccezione dei lasciti, delle donazioni e dei contributi privati. 
  
  Questo decreto sara' presentato al Parlamento per la conversione in legge e i Ministri proponenti sono autorizzati alla presentazione del relativo disegno di legge. 
  

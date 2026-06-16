@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 marzo 1923, n. 596](Concernente%20il%20funzionamento%20degli%20stabilimenti%20postali%20telegrafici%20e%20telefonici.%20023U0596.md);
+Visto il [R. decreto 18 marzo 1923, n. 596](../Regi%20decreti/Concernente%20il%20funzionamento%20degli%20stabilimenti%20postali%20telegrafici%20e%20telefonici.%20023U0596.md);
 
-Visto il [R. decreto 3 maggio 1923, n. 1133](Che%20regola%20le%20norme%20per%20la%20istituzione%20e%20la%20concessione%20della%20titolarita%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici%20con%20speciale%20riguardo%20per%20i%20funzionari%20dellAmministrazione_fa74bd9cb8d6.md), e successive modificazioni;
+Visto il [R. decreto 3 maggio 1923, n. 1133](../Regi%20decreti/Che%20regola%20le%20norme%20per%20la%20istituzione%20e%20la%20concessione%20della%20titolarita%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici%20con%20speciale%20riguardo%20per%20i%20funzionari%20dellAmministrazione_fa74bd9cb8d6.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 23 maggio 1924, n. 1127](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-Gli uffici secondari postali, telegrafici e telefonici di cui all'[art. 3 del R. decreto 18 marzo 1923, n. 596](Concernente%20il%20funzionamento%20degli%20stabilimenti%20postali%20telegrafici%20e%20telefonici.%20023U0596.md), sono istituiti con decreto del Ministro per le comunicazioni in sostituzione di uffici principali o di ricevitorie. Ad essi possono essere affidati tutti i servizi che vengono disimpegnati dagli uffici principali e nei limiti stabiliti per gli uffici stessi.
+Gli uffici secondari postali, telegrafici e telefonici di cui all'[art. 3 del R. decreto 18 marzo 1923, n. 596](../Regi%20decreti/Concernente%20il%20funzionamento%20degli%20stabilimenti%20postali%20telegrafici%20e%20telefonici.%20023U0596.md), sono istituiti con decreto del Ministro per le comunicazioni in sostituzione di uffici principali o di ricevitorie. Ad essi possono essere affidati tutti i servizi che vengono disimpegnati dagli uffici principali e nei limiti stabiliti per gli uffici stessi.
 
 ## Art. 2.
 
@@ -54,7 +54,7 @@ Subordinatamente al possesso dei requisiti di cui all'articolo precedente, gli u
  
  Nella scelta tra gli aspiranti si terra' conto specialmente della loro capacita', dei loro titoli di studio, di servizio e di carriera, e delle benemerenze acquistate nell'Amministrazione delle poste, dei telegrafi e dei telefoni. 
  
- A parita' di condizioni costituisce titolo di preferenza la qualita' di ex-combattente secondo la graduatoria fissata dall'[art. 3](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md) ([lettera a) del R. decreto 28 gennaio 1923, n. 153](Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md).
+ A parita' di condizioni costituisce titolo di preferenza la qualita' di ex-combattente secondo la graduatoria fissata dall'[art. 3](../Regi%20decreti/Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md) ([lettera a) del R. decreto 28 gennaio 1923, n. 153](../Regi%20decreti/Autorizzazione%20della%20revisione%20delle%20assunzioni%20e%20sistemazioni%20fatte%20nel%20personale%20di%20ruolo%20ed%20avventizio%20delle%20Amministrazioni%20dello%20Stato%20posteriormente%20al%2024%20maggio%201915.%20023U0153.md).
 
 ## Art. 4.
 
@@ -68,7 +68,7 @@ Agli impiegati od ex-impiegati dell'Amministrazione postale telegrafica telefoni
 
 ## Art. 6.
 
-Per quanto non e' preveduto nel presente decreto si applicano ai titolari degli uffici secondari le norme riguardanti le ricevitorie postali, telegrafiche, telefoniche, comprese quelle relative alla Cassa mutua cauzioni di cui al [R. decreto n. 2225 del 27 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-27;2225), modificato col [R. decreto-legge n. 2293 del 28 dicembre 1924](Modificazioni%20ai%20Regi%20decreti%20n.%202225%20del%2027%20settembre%201923%20e%20n.%201127%20del%2023%20maggio%201924%20concernenti%20le%20cauzioni%20dei%20ricevitori%20postali%20telegrafici%20telefonici.%20024U2293.md). 
+Per quanto non e' preveduto nel presente decreto si applicano ai titolari degli uffici secondari le norme riguardanti le ricevitorie postali, telegrafiche, telefoniche, comprese quelle relative alla Cassa mutua cauzioni di cui al [R. decreto n. 2225 del 27 settembre 1923](../Regi%20decreti/Istituzione%20di%20una%20Cassa%20mutua%20per%20le%20cauzioni%20dei%20ricevitori%20postali-telegrafici.%20023U2225.md), modificato col [R. decreto-legge n. 2293 del 28 dicembre 1924](Modificazioni%20ai%20Regi%20decreti%20n.%202225%20del%2027%20settembre%201923%20e%20n.%201127%20del%2023%20maggio%201924%20concernenti%20le%20cauzioni%20dei%20ricevitori%20postali%20telegrafici%20telefonici.%20024U2293.md). 
  
  Pero' il diritto alla successione di cui all'[articolo 8 del R. decreto-legge n. 1127 del 23 maggio 1924](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%2016%20ottobre%201923%20n.%202428%20e%2020%20dicembre%201923%20n.%203034%20riguardanti%20lordinamento%20delle%20ricevitorie%20postali%20telegrafiche%20telefoniche%20e%20del%20relativo%20per_59fb22fbc7b4.md), non e' ammesso per volontaria rinuncia del titolare dell'ufficio secondario, ma solo in caso di morte o di sopravvenuta inabilita' fisica. 
  
@@ -81,7 +81,7 @@ Per quanto non e' preveduto nel presente decreto si applicano ai titolari degli 
 
 ## Art. 7.
 
-Il [R. decreto del 3 maggio 1923, n. 1133](Che%20regola%20le%20norme%20per%20la%20istituzione%20e%20la%20concessione%20della%20titolarita%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici%20con%20speciale%20riguardo%20per%20i%20funzionari%20dellAmministrazione_fa74bd9cb8d6.md), e successive modificazioni, e' abrogato, fatti pero' salvi i diritti di coloro che hanno gia' ottenuto l'assegnazione di uffici secondari in conformita' delle norme da esso stabilite. Gli interessati possono pero' rinunziare a tali diritti e chiedere invece l'applicazione del presente decreto entro tre mesi dal giorno in cui entrera' in vigore. 
+Il [R. decreto del 3 maggio 1923, n. 1133](../Regi%20decreti/Che%20regola%20le%20norme%20per%20la%20istituzione%20e%20la%20concessione%20della%20titolarita%20degli%20uffici%20secondari%20postali%20telegrafici%20e%20telefonici%20con%20speciale%20riguardo%20per%20i%20funzionari%20dellAmministrazione_fa74bd9cb8d6.md), e successive modificazioni, e' abrogato, fatti pero' salvi i diritti di coloro che hanno gia' ottenuto l'assegnazione di uffici secondari in conformita' delle norme da esso stabilite. Gli interessati possono pero' rinunziare a tali diritti e chiedere invece l'applicazione del presente decreto entro tre mesi dal giorno in cui entrera' in vigore. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

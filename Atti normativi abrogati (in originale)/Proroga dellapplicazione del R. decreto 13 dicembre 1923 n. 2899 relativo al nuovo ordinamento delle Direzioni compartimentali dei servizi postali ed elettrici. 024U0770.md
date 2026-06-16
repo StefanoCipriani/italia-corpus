@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 5 aprile 1923, n. 905](Che%20reca%20disposizioni%20per%20gli%20uffici%20del%20personale%20ed%20il%20Consiglio%20di%20amministrazione%20e%20di%20disciplina%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20023U0905.md), col quale gli uffici preposti al personale dell'Amministrazione delle poste, dei telegrafi e dei telefoni, allora esistenti presso le Direzioni generali dei servizi postali e dei servizi elettrici, cessarono di far parte delle predette Direzioni generali e costituirono una unita' organica alla dipendenza diretta del Ministro per le poste ed i telegrafi;
+Visto il [R. decreto 5 aprile 1923, n. 905](../Regi%20decreti/Che%20reca%20disposizioni%20per%20gli%20uffici%20del%20personale%20ed%20il%20Consiglio%20di%20amministrazione%20e%20di%20disciplina%20del%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20023U0905.md), col quale gli uffici preposti al personale dell'Amministrazione delle poste, dei telegrafi e dei telefoni, allora esistenti presso le Direzioni generali dei servizi postali e dei servizi elettrici, cessarono di far parte delle predette Direzioni generali e costituirono una unita' organica alla dipendenza diretta del Ministro per le poste ed i telegrafi;
 
-Visto il [R. decreto del 15 luglio 1923, n. 1747](Sistemazione%20organica%20degli%20uffici%20centrali%20del%20personale%20funzionamento%20del%20Consiglio%20di%20amministrazione%20e%20di%20disciplina%20sanzioni%20disciplinari%20a%20carico%20del%20personale%20di%203ª%20categoria%20fuor_35c4f44f34fb.md), col quale fu costituita nell'Amministrazione centrale postale, telegrafica e telefonica la Direzione generale del personale e degli affari generali;
+Visto il [R. decreto del 15 luglio 1923, n. 1747](../Regi%20decreti/Sistemazione%20organica%20degli%20uffici%20centrali%20del%20personale%20funzionamento%20del%20Consiglio%20di%20amministrazione%20e%20di%20disciplina%20sanzioni%20disciplinari%20a%20carico%20del%20personale%20di%203ª%20categoria%20fuor_35c4f44f34fb.md), col quale fu costituita nell'Amministrazione centrale postale, telegrafica e telefonica la Direzione generale del personale e degli affari generali;
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), concernenti l'ordinamento gerarchico dell'Amministrazione dello Stato;
+Visti i [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), concernenti l'ordinamento gerarchico dell'Amministrazione dello Stato;
 
-Visto il [R. decreto 13 dicembre 1923, n. 2899](Ordinamento%20delle%20Direzioni%20compartimentali%20dei%20servizi%20postali%20ed%20elettrici.%20023U2899.md), sull'ordinamento delle Direzioni compartimentali dei servizi postali ed elettrici;
+Visto il [R. decreto 13 dicembre 1923, n. 2899](../Regi%20decreti/Ordinamento%20delle%20Direzioni%20compartimentali%20dei%20servizi%20postali%20ed%20elettrici.%20023U2899.md), sull'ordinamento delle Direzioni compartimentali dei servizi postali ed elettrici;
 
 Ritenuto che nella traduzione pratica del nuovo ordinamento dell'Amministrazione centrale e di quella periferica delle poste e dei telegrafi sono sorte notevoli e gravi difficolta', per cui si rende necessario un completo e dettagliato studio;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per le poste ed i telegrafi, di 
 
 ## Articolo unico.
 
-Il termine stabilito dall'[art. 5 del R. decreto 13 dicembre 1923, n. 2899](Ordinamento%20delle%20Direzioni%20compartimentali%20dei%20servizi%20postali%20ed%20elettrici.%20023U2899.md), per l'attuazione del nuovo ordinamento delle Direzioni compartimentali dei servizi postali ed elettrici, e' prorogato al 1° gennaio 1925. 
+Il termine stabilito dall'[art. 5 del R. decreto 13 dicembre 1923, n. 2899](../Regi%20decreti/Ordinamento%20delle%20Direzioni%20compartimentali%20dei%20servizi%20postali%20ed%20elettrici.%20023U2899.md), per l'attuazione del nuovo ordinamento delle Direzioni compartimentali dei servizi postali ed elettrici, e' prorogato al 1° gennaio 1925. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

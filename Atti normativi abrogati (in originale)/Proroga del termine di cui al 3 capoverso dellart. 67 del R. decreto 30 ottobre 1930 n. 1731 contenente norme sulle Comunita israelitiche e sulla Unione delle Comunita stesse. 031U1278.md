@@ -19,12 +19,12 @@ VITTORIO EMANUELE III
  RE D'ITALIA 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
- Visto l'art. 67, 3° capoverso, del [R. decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md), contenente norme sulle Comunita' israelitiche e sulla Unione delle Comunita' stesse; 
+ Visto l'art. 67, 3° capoverso, del [R. decreto 30 ottobre 1930, n. 1731](../Regi%20decreti/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md), contenente norme sulle Comunita' israelitiche e sulla Unione delle Comunita' stesse; 
  Ritenuta la necessita' urgente ed assoluta di prorogare il termine entro il quale dovrebbero aver luogo le elezioni dei Consigli delle Comunita' israelitiche; 
  Udito il Consiglio dei Ministri; 
  Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto, di concerto col Ministro per l'interno; 
  Abbiamo decretato e decretiamo: 
- Il termine di cui al terzo capoverso dell'[art. 67 del R. decreto 30 ottobre 1930, n. 1731](Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md), e' prorogato di otto mesi. 
+ Il termine di cui al terzo capoverso dell'[art. 67 del R. decreto 30 ottobre 1930, n. 1731](../Regi%20decreti/Norme%20sulle%20Comunita%20israelitiche%20e%20sulla%20Unione%20delle%20Comunita%20medesime.%20030U1731.md), e' prorogato di otto mesi. 
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il predetto Guardasigilli resta autorizzato alla presentazione del relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a Roma, addi' 29 luglio 1931 - Anno IX 

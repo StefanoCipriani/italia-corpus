@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), e successive modificazioni;
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il [R. decreto-legge 8 luglio 1925, n. 1301](Istituzione%20della%20gestione%20per%20lo%20sfruttamento%20di%20terreni%20petroliferi%20albanesi.%20025U1301.md), riguardante l'istituzione, presso il Ministero delle comunicazioni (Direzione generale delle ferrovie dello Stato) di una gestione speciale per lo studio, le ricerche e le opere necessarie allo sfruttamento dei terreni petroliferi albanesi;
 

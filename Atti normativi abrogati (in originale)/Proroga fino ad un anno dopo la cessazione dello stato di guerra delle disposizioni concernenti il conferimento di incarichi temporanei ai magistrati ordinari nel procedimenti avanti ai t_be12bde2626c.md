@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
+Visto l'ordinamento giudiziario militare, approvato con [regio decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 
 Visto il [decreto legislativo luogotenenziale 18 gennaio 1945, n. 31](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20concernenti%20il%20personale%20della%20giustizia%20militare%20ed%20il%20conferimento%20di%20incarichi%20temporanei%20a%20magistrati%20ordinari%20nei%20procedimenti%20avanti%20i%20tribunali%20militari.%20045U0031.md);
 

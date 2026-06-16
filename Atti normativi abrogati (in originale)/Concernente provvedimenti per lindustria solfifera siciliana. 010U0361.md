@@ -282,7 +282,7 @@ Gl'Istituti di emissione hanno facolta' di fare anticipazioni sopra fedi di depo
  
  La misura dell'interesse su tali anticipazioni puo' essere di non oltre l'uno per cento inferiore a quella normale sulle anticipazioni indicate nell'articolo 31 del testo unico della legge sugli Istituti di emissione. 
  
- Per le operazioni di anticipazioni su fedi di deposito di zolfi e di sconto a saggio di favore delle note di pegno degli zolfi, depositati nei magazzini generali, il Banco di Sicilia e' autorizzato ad eccedere il limite normale della sua circolazione sino a L. 10 milioni, ai sensi dell'articolo 7 del testo unico di legge sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), e modificato con [legge 31 dicembre 1907, n. 804](Che%20approva%20le%20disposizioni%20per%20le%20modifiche%20di%20alcuni%20articoli%20della%20legge%20sugli%20Istituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20Banca%20007U0804.md).
+ Per le operazioni di anticipazioni su fedi di deposito di zolfi e di sconto a saggio di favore delle note di pegno degli zolfi, depositati nei magazzini generali, il Banco di Sicilia e' autorizzato ad eccedere il limite normale della sua circolazione sino a L. 10 milioni, ai sensi dell'articolo 7 del testo unico di legge sugli Istituti di emissione, approvato con [R. decreto 9 ottobre 1900, n. 373](../Regi%20decreti/Col%20quale%20si%20approva%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20riguardanti%20glIstituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20banca.%20000U0373.md), e modificato con [legge 31 dicembre 1907, n. 804](Che%20approva%20le%20disposizioni%20per%20le%20modifiche%20di%20alcuni%20articoli%20della%20legge%20sugli%20Istituti%20demissione%20e%20la%20circolazione%20dei%20biglietti%20di%20Banca%20007U0804.md).
 
 ## Art. 26.
 
@@ -316,7 +316,7 @@ La Banca ha facolta' di emettere obbligazioni per un ammontare non superiore al 
 
 Dal 1° agosto 1906, nella tassa speciale di abbonamento di cui all'[art. 2 della legge 22 luglio 1897, n. 317](Colla%20quale%20il%20R.%20decreto%2027%20luglio%201896%20n.%20356%20che%20approva%20la%20Convenzione%20stipulata%20fra%20il%20Governo%20italiano%20e%20la%20Societa%20anglo-siciliana%20degli%20zolfi%20per%20labbonamento%20delle%20tasse%20da%20quest_13e87e948fd4.md), sono comprese anche le tasse di registro eccettuate dal suddetto articolo e le tasse sulle polizze di carico di zolfo, prevedute dall'[art. 31 della legge 6 luglio 1862, n. 680](Legge%20per%20listituzione%20e%20lordinamento%20delle%20Camere%20di%20commercio.%20062U0680.md). 
  
- Con questa modificazione e' convertito in legge il [R. decreto 28 gennaio 1906, n. 11](Concernente%20la%20tassa%20speciale%20di%20abbonamento%20per%20gli%20zolfi%20delle%20miniere.%20006U0011.md), che estende agli zolfi delle miniere delle altre provincie del Regno le disposizioni della citata legge 22 luglio 1897. 
+ Con questa modificazione e' convertito in legge il [R. decreto 28 gennaio 1906, n. 11](../Regi%20decreti/Concernente%20la%20tassa%20speciale%20di%20abbonamento%20per%20gli%20zolfi%20delle%20miniere.%20006U0011.md), che estende agli zolfi delle miniere delle altre provincie del Regno le disposizioni della citata legge 22 luglio 1897. 
  
  Le industrie di molitura, molitura col solfato di rame per l'agricoltura, raffinazione e sublimazione dello zolfo nazionale, sono esenti dalle tasse, di cui lo zolfo e' stato sgravato merce' la tassa speciale di abbonamento. 
  
@@ -358,7 +358,7 @@ Quando ricorra l'assoluta urgenza di togliere l'Amministrazione al Consiglio per
 
 ### Art. 34.
 
-La ricostituzione del Consiglio di amministrazione e del Comitato dei delegati, sciolti col [R. decreto 7 febbraio 1909, n. 64](Che%20scioglie%20lAmministrazione%20del%20consorzio%20obbligatorio%20per%20lindustria%20solfifera%20siciliana%20e%20nomina%20il%20commissario%20straordinario%20per%20la%20gestione%20temporanea%20del%20Consorzio%20stesso.%20009U0064.md), e la nomina del direttore generale, secondo le norme della presente legge, avranno luogo entro due mesi dalla pubblicazione di essa nella Gazzetta ufficiale del Regno, senza pregiudizio di termini per le impugnative in via amministrativa che gli interessati potessero presentare.
+La ricostituzione del Consiglio di amministrazione e del Comitato dei delegati, sciolti col [R. decreto 7 febbraio 1909, n. 64](../Regi%20decreti/Che%20scioglie%20lAmministrazione%20del%20consorzio%20obbligatorio%20per%20lindustria%20solfifera%20siciliana%20e%20nomina%20il%20commissario%20straordinario%20per%20la%20gestione%20temporanea%20del%20Consorzio%20stesso.%20009U0064.md), e la nomina del direttore generale, secondo le norme della presente legge, avranno luogo entro due mesi dalla pubblicazione di essa nella Gazzetta ufficiale del Regno, senza pregiudizio di termini per le impugnative in via amministrativa che gli interessati potessero presentare.
 
 ### Art. 35.
 

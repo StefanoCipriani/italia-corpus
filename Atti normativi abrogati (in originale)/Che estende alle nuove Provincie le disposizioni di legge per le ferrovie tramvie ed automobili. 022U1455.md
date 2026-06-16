@@ -24,7 +24,7 @@ Sulla proposta del presidente del Consiglio dei ministri, di concerto col minist
 
 Ai territori annessi in base alle [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md) sono estesi: 
  
- Il testo unica delle disposizioni di legge par le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [Regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), col relativo [regolamento 17 giugno 1900, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1900-06-17;306); 
+ Il testo unica delle disposizioni di legge par le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [Regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), col relativo [regolamento 17 giugno 1900, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1900-06-17;306); 
  
  la [legge 30 giugno 1912, n. 739](Concernente%20la%20circolazione%20degli%20automobili.%20012U0739.md), sulla circolazione degli autoveicoli; 
  

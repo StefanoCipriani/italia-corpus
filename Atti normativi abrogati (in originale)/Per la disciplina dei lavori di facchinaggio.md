@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La presente legge regola i lavori dei facchini liberi esercenti per i quali e' prescritta l'iscrizione di cui allo [art. 121 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_121) 18 giugno 1931, n. 773.
+La presente legge regola i lavori dei facchini liberi esercenti per i quali e' prescritta l'iscrizione di cui allo [art. 121 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931, n. 773.
  Sono escluse dalla disciplina di cui alla presente legge le operazioni di facchinaggio inerenti al grano di ammasso della gestione statale, nonche' quelle che si eseguono nell'ambito dei porti e aeroporti, delle dogane, dei mercati all'ingrosso di prodotti ortofrutticoli, delle stazioni delle Ferrovie dello Stato per il trasporto di bagagli e colli a mano, in quanto dette operazioni risultino regolate con particolari norme di legge o di regolamento.
  Sono, inoltre, esclusi i lavori di facchinaggio eseguiti dagli imprenditori personalmente o a mezzo dei propri dipendenti con rapporto di lavoro di carattere stabile e continuativo, nonche' quelli eseguiti per esigenze di carattere domestico e familiare.
 

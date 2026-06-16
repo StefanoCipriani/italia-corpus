@@ -16,9 +16,9 @@ Ritenuto necessaria l'adozione, in tutto il territorio nazionale, di interventi 
 
 Visti gli articoli 6, lettera b), e 32 della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), concernente l'istituzione del Servizio sanitario nazionale;
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
-Visto il regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md);
+Visto il regolamento di polizia veterinaria approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md);
 
 Visto il decreto ministeriale 26 novembre 1969 che detta norme per la profilassi dell'afta epizootica da virus esotici, pubblicato nella Gazzetta Ufficiale n. 314 del 13 dicembre 1969;
 

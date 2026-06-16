@@ -40,7 +40,7 @@ Sono considerati nazionali, agli effetti della presente legge, i films prodotti 
 Una ulteriore quota del 6 per cento dell'introito suddetto e per lo stesso periodo di tempo verra' assegnata al titolo di premio ai films che ne siano riconosciuti meritevoli per il loro valore culturale ed artistico dal Comitato tecnico di cui al successivo art. 13.
  Le quote previste dai comma precedenti sono ridotte alla meta' se il film nazionale venga proiettato nello stesso spettacolo insieme ad altro film di lunghezza superiore ai 2000 metri. Sono ridotte del 40 per cento se venga proiettato con l'aggiunta di un avanspettacolo teatrale.
  L'introito sul quale vengono liquidati i contributi di cui al presente articolo e' determinato dalla Societa' italiana autori ed editori sulla base degli incassi accertati per il pagamento dei diritti erariali.
- Per le modalita' di pagamento dei contributi suddetti valgono le norme stabilite, dal [regio decreto 20 ottobre 1939, n. 2237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-20;2237).
+ Per le modalita' di pagamento dei contributi suddetti valgono le norme stabilite, dal [regio decreto 20 ottobre 1939, n. 2237](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20R.%20decreto%20legge%2017%20giugno%201938-XVI%20n.%201061%20contenente%20provvedimenti%20a%20favore%20della%20industria%20cinematografica%20nazionale.%20039U2237.md).
 
 ## Art. 5. — null
 

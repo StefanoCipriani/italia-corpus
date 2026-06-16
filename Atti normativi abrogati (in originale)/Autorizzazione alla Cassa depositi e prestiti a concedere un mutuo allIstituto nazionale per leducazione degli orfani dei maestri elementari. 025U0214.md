@@ -26,7 +26,7 @@ La Cassa depositi e prestiti e' autorizzata a concedere, secondo le norme dei su
 
 ## Art. 2.
 
-L'Istituto predetto e' autorizzato a contrarre, a norma dell'[art. 13 del R. decreto 16 agosto 1914, n. 998](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2026%20giugno%201913%20n.%20836%20che%20approva%20un%20nuovo%20ordinamento%20dellIstituto%20nazionale%20per%20leducazione%20degli%20orfani%20dei%20mae_99c3afbd44a6.md), il mutuo di cui all'art. 1.
+L'Istituto predetto e' autorizzato a contrarre, a norma dell'[art. 13 del R. decreto 16 agosto 1914, n. 998](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2026%20giugno%201913%20n.%20836%20che%20approva%20un%20nuovo%20ordinamento%20dellIstituto%20nazionale%20per%20leducazione%20degli%20orfani%20dei%20mae_99c3afbd44a6.md), il mutuo di cui all'art. 1.
 
 ## Art. 3. — null
 

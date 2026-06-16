@@ -54,7 +54,7 @@ Coloro che aspireranno ad essere nominati Agenti di cambio dovranno giustificare
  
  D. Di non trovarsi in istato di fallimento, salvo il caso di ottenuta riabilitazione; 
  
- E. Di non aver patito condanna per delitti puniti con una delle tre prime pene indicate nell'[art. 13 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) Toscano, ovvero per furto, truffa, baratteria, fraudata amministrazione, indebita appropriazione di cose trovate, frode, scrocchio, fallimento, e per qualunque delitto contro la fede pubblica e l'amministrazione dello Stato; 
+ E. Di non aver patito condanna per delitti puniti con una delle tre prime pene indicate nell'[art. 13 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) Toscano, ovvero per furto, truffa, baratteria, fraudata amministrazione, indebita appropriazione di cose trovate, frode, scrocchio, fallimento, e per qualunque delitto contro la fede pubblica e l'amministrazione dello Stato; 
  
  F. Capacita' comprovata merce' l'esame che vien subito nella forma voluta dall'apposito regolamento; 
  
@@ -80,7 +80,7 @@ La fissazione dei corsi si desume dalle risultanze delle dichiarazioni che gli A
 
 ## Art. 9.
 
-Gli Agenti di cambio che ometteranno di fare simili dichiarazioni, o le faranno infedeli, saranno esclusi dalla Borsa per un termine estensibile da uno a tre mesi, senza pregiudizio delle maggiori pene che fossero comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Gli Agenti di cambio che ometteranno di fare simili dichiarazioni, o le faranno infedeli, saranno esclusi dalla Borsa per un termine estensibile da uno a tre mesi, senza pregiudizio delle maggiori pene che fossero comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 10.
 

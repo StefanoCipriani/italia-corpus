@@ -26,7 +26,7 @@ Tale spesa sara' stanziata in apposito capitolo del bilancio del Ministero dei l
 
 ## Art. 3.
 
-A parziale deroga dell'art. 12, primo comma, del testo unico di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;959), si consente che l'assemblea del Consorzio sia costituita, oltre che da un delegato della provincia di Parma, da tanti delegati quanti sono i Comuni che compongono il Consorzio. 
+A parziale deroga dell'art. 12, primo comma, del testo unico di legge sulla navigazione interna e sulla fluitazione, approvato con [R. decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md), si consente che l'assemblea del Consorzio sia costituita, oltre che da un delegato della provincia di Parma, da tanti delegati quanti sono i Comuni che compongono il Consorzio. 
  
  I delegati suddetti come quelli delle altre persone giuridiche, chiamate a far parte del Consorzio in virtu' del secondo comma del citato art. 12, avranno diritto di voto proporzionale alle quote di concorso dell'Amministrazione che rappresentano secondo modalita' da stabilirsi nel regolamento Consorziale.
 

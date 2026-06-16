@@ -34,7 +34,7 @@ Sulla proposta del Nostro ministro segretario di Stato pei lavori pubblici; Abbi
 
 ## Art. 1.
 
-E' approvato con decorrenza dal 1° luglio 1905, ed a modificazione di quello approvato col [R. decreto 7 agosto 1887, n. 5053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-08-07;5053), l'elenco qui unito, vistato d'ordine Nostro dal ministro proponente, dei Comuni chiamati a contribuire nelle spese di manutenzione e di miglioramento del porto di Reggio Calabria, colla ripartizione delle quote ad essi rispettivamente spettanti per tale contributo.
+E' approvato con decorrenza dal 1° luglio 1905, ed a modificazione di quello approvato col [R. decreto 7 agosto 1887, n. 5053](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%201ª%20e%202ª%20categoria%20e%20nelle%20corrispondenti%20classi%20dei%20cinquanta%20porti%20indicati%20negli%20annessi%20elenchi.%20087U5053.md), l'elenco qui unito, vistato d'ordine Nostro dal ministro proponente, dei Comuni chiamati a contribuire nelle spese di manutenzione e di miglioramento del porto di Reggio Calabria, colla ripartizione delle quote ad essi rispettivamente spettanti per tale contributo.
 
 ## Art. 2.
 

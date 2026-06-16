@@ -16,7 +16,7 @@ RE D'ITALIA.
 
 Veduto il R. decreto 23 maggio 1924, n: 827, che approva il regolamento per l'amministrazione del patrimonio e la contabilita' generale dello Stato;
 
-Veduto il [R. decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677), contenente agevolazioni per il pagamento delle pensioni e degli altri assegni fissi ad esse assimilati;
+Veduto il [R. decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md), contenente agevolazioni per il pagamento delle pensioni e degli altri assegni fissi ad esse assimilati;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); Sentiti la Corte dei conti ed il Consiglio di Stato; Sentito il Consiglio dei Ministri;
 
@@ -24,8 +24,8 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-I certificati d'iscrizione dei pensionati ed altri assegnatari, i quali domandino di essere soddisfatti dei propri assegni mediante accreditamenti in conto corrente postale, oppure mediante vaglia postale e bancario, anziche' essere trattenuti dalla Sezione tesoro ai termini dell'[art. 12 del Regio decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677#art_12), possono, su domanda dei rispettivi titolari, essere restituiti ai titolari medesimi previo annullamento e perforazione del frontespizio e dei fogli a casellario, in tutto o in parte ancora in bianco. 
- Della avvenuta restituzione dei certificati predetti deve essere presa nota sulla rubrica di cui al citato [art. 12 del R. decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677#art_12):
+I certificati d'iscrizione dei pensionati ed altri assegnatari, i quali domandino di essere soddisfatti dei propri assegni mediante accreditamenti in conto corrente postale, oppure mediante vaglia postale e bancario, anziche' essere trattenuti dalla Sezione tesoro ai termini dell'[art. 12 del Regio decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md), possono, su domanda dei rispettivi titolari, essere restituiti ai titolari medesimi previo annullamento e perforazione del frontespizio e dei fogli a casellario, in tutto o in parte ancora in bianco. 
+ Della avvenuta restituzione dei certificati predetti deve essere presa nota sulla rubrica di cui al citato [art. 12 del R. decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md):
 
 ## Art. 2.
 

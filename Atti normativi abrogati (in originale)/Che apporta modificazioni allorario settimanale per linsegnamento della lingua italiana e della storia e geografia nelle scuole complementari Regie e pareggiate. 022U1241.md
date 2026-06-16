@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 3 dicembre 1896, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-12-03;592), col quale fu approvato il regolamento per le scuole normali e complementari per l'annesso orario; 
+ Veduto il [R. decreto 3 dicembre 1896, n. 592](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20le%20scuole%20normali%20e%20complementari.%20096U0592.md), col quale fu approvato il regolamento per le scuole normali e complementari per l'annesso orario; 
  
  Veduto l'[art. 8 della legge 16 luglio 1914, n. 679](Concernente%20provvedimenti%20per%20listruzione%20media%20classica%20tecnica%20nautica%20e%20normale%20014U0679.md), che fissa a 19 ore settimanali l'obbligo d'insegnamento nelle scuole medie di 1° grado; 
  

@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -34,7 +34,7 @@ Le promozioni ai posti di primo procuratore (grado 9°) del ruolo del personale 
  
  Per i procuratori provvisti di laurea il termine di cui sopra e' ridotto a quattro anni. 
  
- I vincitori del concorso suindicato conseguiranno la promozione solo al compimento della anzianita' di sei o otto anni, a seconda che siano o non provvisti di laurea, e coloro che non vincano il concorso ma vi riportino i punti richiesti per superare l'esame di idoneita' saranno collocati, secondo le norme dell'art. 42, ultimo somma, del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), nella graduatoria degli idonei del primo esame di idoneita' bandito dopo che essi abbiano raggiunto l'anzianita' richiesta per parteciparvi. 
+ I vincitori del concorso suindicato conseguiranno la promozione solo al compimento della anzianita' di sei o otto anni, a seconda che siano o non provvisti di laurea, e coloro che non vincano il concorso ma vi riportino i punti richiesti per superare l'esame di idoneita' saranno collocati, secondo le norme dell'art. 42, ultimo somma, del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), nella graduatoria degli idonei del primo esame di idoneita' bandito dopo che essi abbiano raggiunto l'anzianita' richiesta per parteciparvi. 
  
  Qualora in applicazione del precedente comma le promozioni al grado 9° dei vincitori del concorso non abbiano luogo nell'ordine della graduatoria dell'esame, le promozioni stesse saranno conferite con riserva di anzianita' rispetto agli altri vincitori che non abbiano ancora compiuto il termine necessario. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 29 marzo 1928, n. 621](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-29;621), che costituisce il comune di Pompei;
 
-Visto il [R. decreto 29 marzo 1928, n. 686](Aggregazione%20dei%20comuni%20di%20Boscoreale%20e%20Boscotrecase%20al%20comune%20di%20Torre%20Annunziata.%20028U0686.md), che aggrega i comuni di Boscoreale e Boscotrecase al comune di Torre Annunziata;
+Visto il [R. decreto 29 marzo 1928, n. 686](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Boscoreale%20e%20Boscotrecase%20al%20comune%20di%20Torre%20Annunziata.%20028U0686.md), che aggrega i comuni di Boscoreale e Boscotrecase al comune di Torre Annunziata;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

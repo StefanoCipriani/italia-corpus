@@ -48,7 +48,7 @@ L'organizzazione e il funzionamento della protezione antiaerea nel territorio de
 
 E' istituita, presso il Ministero dell'interno, la Direzione generale per i servizi di protezione antiaerea. 
  
- Un prefetto, scelto fra quelli a disposizione, a termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_102), sara' preposto alla Direzione generale predetta.
+ Un prefetto, scelto fra quelli a disposizione, a termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sara' preposto alla Direzione generale predetta.
 
 ## Art. 3.
 
@@ -59,7 +59,7 @@ E' istituito, presso il Ministero dell'interno, l'Ispettorato per i servizi di g
  c) all'assistenza straordinaria a favore dei danneggiati da azioni belliche, dei profughi, degli sfollati e dei rimpatriati; 
  d) ai servizi relativi alla raccolta di notizie per le famiglie dei richiamati; 
  e) alla disciplina della circolazione degli autoveicoli in tempo di guerra per quanto attiene alla competenza del Ministero dell'interno. 
- Un prefetto scelto fra quelli a disposizione, a termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_102), sara' preposto alla Direzione dell'ispettorato.
+ Un prefetto scelto fra quelli a disposizione, a termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sara' preposto alla Direzione dell'ispettorato.
 
 ## Art. 4.
 

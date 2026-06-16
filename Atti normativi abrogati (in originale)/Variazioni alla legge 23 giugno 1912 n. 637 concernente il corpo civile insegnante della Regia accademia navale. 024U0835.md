@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 23 giugno 1912, n. 637](Che%20porta%20provvedimenti%20riguardanti%20il%20corpo%20civile%20insegnante%20della%20R.%20Accademia%20navale.%20012U0637.md), riguardante il corpo civile insegnante della Regia accademia navale e successive varianti;
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visti i [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -66,9 +66,9 @@ L'art. 12 della citata [legge 23 giugno 1912, n. 637](Che%20porta%20provvediment
  
  «Per l'insubordinazione grave, per le abituali irregolarita' di condotta e per i fatti che compromettano l'onore e la dignita' si applicano, secondo la gravita' dei casi e delle circostanze, le altre punizioni disciplinari». 
  
- «Art. 12-ter. - Le punizioni di cui ai numeri 1 e 2 dell'art. 12 sono inflitte dal comandante della Regia accademia navale; le punizioni di cui ai numeri 3 e 4 dal Ministro per la marina; tutte le altre punizioni pure dal Ministro per la marina previo parere della Commissione di disciplina, di cui all'[art. 68 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_68), alla quale, in tal caso, viene aggregato, come membro, un professore designato dal Collegio dei professori della Regia accademia navale. 
+ «Art. 12-ter. - Le punizioni di cui ai numeri 1 e 2 dell'art. 12 sono inflitte dal comandante della Regia accademia navale; le punizioni di cui ai numeri 3 e 4 dal Ministro per la marina; tutte le altre punizioni pure dal Ministro per la marina previo parere della Commissione di disciplina, di cui all'[art. 68 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), alla quale, in tal caso, viene aggregato, come membro, un professore designato dal Collegio dei professori della Regia accademia navale. 
  
- «Per la punizione di cui al n. 7 deve richiedersi anche il parere della Commissione istituita in base al disposto dell'art. 183 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70)».
+ «Per la punizione di cui al n. 7 deve richiedersi anche il parere della Commissione istituita in base al disposto dell'art. 183 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md)».
 
 ## Art. 4.
 

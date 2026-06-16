@@ -32,7 +32,7 @@ DISPOSIZIONI PENALI E DISCIPLINARI RELATIVE AL PERSONALE (DIRIGENTE E DIPENDENTI
  
  Se il colpevole ha reagito in stato d'ira determinato da un fatto ingiusto del superiore, la pena e' diminuita da un terzo alla meta'. 
  
- Se la violenza consiste nell'omicidio, ancorche' tentato o preterintenzionale, o in una lesione personale gravissima o grave, si applicano le corrispondenti pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
+ Se la violenza consiste nell'omicidio, ancorche' tentato o preterintenzionale, o in una lesione personale gravissima o grave, si applicano le corrispondenti pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  Art. 33. - Minaccia ed ingiuria a superiori nella gerarchia tecnica od amministrativa. - Chiunque, appartenendo al personale di uno degli stabilimenti indicati nell'articolo 30, minaccia un ingiusto danno a un superiore nella gerarchia tecnica od amministrativa dello stabilimento stesso, ovvero ne offende, in sua presenza, l'onore o il decoro, e' punito con la reclusione sino a tre anni. 
  
@@ -54,17 +54,17 @@ DISPOSIZIONI PENALI E DISCIPLINARI RELATIVE AL PERSONALE (DIRIGENTE E DIPENDENTI
  
  Le stesse disposizioni si applicano se il fatto e' commesso da chi rappresenta l'Autorita' militare preposta alla sorveglianza disciplinare dello stabilimento, contro un appartenente allo stabilimento medesimo. 
  
- Se la violenza consiste nell'omicidio, ancorche' tentato o preterintenzionale, o in una lesione personale, si applicano le corrispondenti pene del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
+ Se la violenza consiste nell'omicidio, ancorche' tentato o preterintenzionale, o in una lesione personale, si applicano le corrispondenti pene del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  Art. 36-bis. - Minaccia a un inferiore. - Chiunque, appartenendo al personale di alcuno degli stabilimenti indicati nell'art. 30, minaccia un ingiusto danno a un inferiore nella gerarchia dello stabilimento stesso, e' punito con la reclusione fino a otto mesi. 
  
- La pena e' della reclusione fino a due anni se la minaccia e' grave o e' fatta in uno dei modi indicati nell'[art. 339 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ La pena e' della reclusione fino a due anni se la minaccia e' grave o e' fatta in uno dei modi indicati nell'[art. 339 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Si applicano le disposizioni del secondo e quarto comma dell'art. 33 e del terzo comma dell'articolo precedente. 
  
- Art. 37. - Ostruzionismo o sabotaggio nei lavori. - Chiunque, appartenendo al personale di uno degli stabilimenti indicati nell'art. 30, dolosamente ostacola il corso dei lavori o esegue lavorazione difettosa o deteriora il materiale di lavoro affidatogli, e' punito con le pene previste dalla prima parte dell'[art. 253 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Art. 37. - Ostruzionismo o sabotaggio nei lavori. - Chiunque, appartenendo al personale di uno degli stabilimenti indicati nell'art. 30, dolosamente ostacola il corso dei lavori o esegue lavorazione difettosa o deteriora il materiale di lavoro affidatogli, e' punito con le pene previste dalla prima parte dell'[art. 253 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Se il fatto e' diretto a menomare l'efficienza bellica dello Stato o se ricorrono le ipotesi previste nei numeri 1° e 2° del capoverso dell'[art. 253 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica la pena di morte. 
+ Se il fatto e' diretto a menomare l'efficienza bellica dello Stato o se ricorrono le ipotesi previste nei numeri 1° e 2° del capoverso dell'[art. 253 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica la pena di morte. 
  
  Se il fatto e' commesso per negligenza o imprudenza e' punito con la reclusione sino a due anni. 
  
@@ -97,9 +97,9 @@ DISPOSIZIONI PENALI E DISCIPLINARI RELATIVE AL PERSONALE (DIRIGENTE E DIPENDENTI
  
  Art. 38-bis. - Aggravamento di punizioni disciplinari per il mobilitato civile. - Le punizioni disciplinari per infrazioni ai regolamenti interni od ai contratti collettivi di lavoro, commesse dal personale di uno degli stabilimenti privati mobilitati, e per mancanze disciplinari, commesse da dipendenti di stabilimenti statali di produzione per la guerra sono aggravate nella misura fino al triplo e, nei casi piu' gravi, possono essere elevate di uno o piu' gradi. 
  
- Art. 38-ter. Applicazione delle pene militari a coloro che hanno obblighi militari. - La pena della reclusione, per quelle fra le persone indicate negli articoli 30 e 37-bis, prima parte, che abbiano obblighi di servizio militare, e' sostituita dalle corrispondenti pene militari secondo il conguaglio fissato dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
+ Art. 38-ter. Applicazione delle pene militari a coloro che hanno obblighi militari. - La pena della reclusione, per quelle fra le persone indicate negli articoli 30 e 37-bis, prima parte, che abbiano obblighi di servizio militare, e' sostituita dalle corrispondenti pene militari secondo il conguaglio fissato dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
- Alle persone di eta' inferiore ai 18 anni si applicano le disposizioni relative ai minori previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e contenute nel R. decreto-legge 20 luglio 1934-XII, n. 1404, convertito con modificazioni nella legge 27 maggio 1935-XIII, n. 835.
+ Alle persone di eta' inferiore ai 18 anni si applicano le disposizioni relative ai minori previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e contenute nel R. decreto-legge 20 luglio 1934-XII, n. 1404, convertito con modificazioni nella legge 27 maggio 1935-XIII, n. 835.
 La cognizione dei reati commessi da tali persone spetta alla giurisdizione ordinaria.
 
 ## Art. 2.

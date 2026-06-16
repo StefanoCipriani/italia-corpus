@@ -18,7 +18,7 @@ Visto il testo unico delle leggi sul reclutamento del R. esercito;
 
 Visto il regolamento di disciplina militare;
 
-Visto il [R. decreto 17 febbraio 1907, n. 141](Che%20accorda%20la%20permissione%20di%20contrarre%20matrimonio%20ai%20sottufficiali%20caporali%20e%20soldati%20in%20servizio.%20007U0141.md), relativo al matrimonio dei militari di truppa del R. esercito;
+Visto il [R. decreto 17 febbraio 1907, n. 141](../Regi%20decreti/Che%20accorda%20la%20permissione%20di%20contrarre%20matrimonio%20ai%20sottufficiali%20caporali%20e%20soldati%20in%20servizio.%20007U0141.md), relativo al matrimonio dei militari di truppa del R. esercito;
 
 Visto il regolamento organico ed il regolamento generale dell'arma dei carabinieri Reali;
 
@@ -40,7 +40,7 @@ Per ottenere il permesso di contrarre matrimonio i sottufficiali del R. esercito
 
 I sottufficiali e gli appuntati dell'arma dei carabinieri Reali ammogliati per i quali non esistano gli occorrenti alloggi nelle rispettive caserme, potranno essere autorizzati ad alloggiare fuori caserma solo pero' nel caso che il loro impiego e le esigenze del servizio e della disciplina, ad avviso del comando generale dell'arma, lo consentano. 
  
- Qualora fruiscano di tale autorizzazione non competera' ad essi il casermaggio per le famiglie: ed ai sottufficiali, in luogo della indennita' di cui all'[art. 12 del R. decreto n. 1802 del 2 ottobre 1919](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), sara' corrisposta quella di L. 93 mensili che sara' elevata a L. 115, se si trovano in citta' con popolazione di 250.000 abitanti e piu'. 
+ Qualora fruiscano di tale autorizzazione non competera' ad essi il casermaggio per le famiglie: ed ai sottufficiali, in luogo della indennita' di cui all'[art. 12 del R. decreto n. 1802 del 2 ottobre 1919](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), sara' corrisposta quella di L. 93 mensili che sara' elevata a L. 115, se si trovano in citta' con popolazione di 250.000 abitanti e piu'. 
  
  Uguali indennita' saranno corrisposte agli appuntati.
 

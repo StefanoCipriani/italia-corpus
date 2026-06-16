@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abb
 
 ## Articolo unico.
 
-Il Ministro per le comunicazioni ha facolta' di emanare, sentito il Consiglio superiore dei lavori pubblici, le norme di osservarsi sulle tramvie a trazione meccanica e sulle ferrovie economiche in materia di polizia, sicurezza e regolarita' dell'esercizio, anche a modificazione di quanto e' prescritto dal regolamento approvato con [R. decreto 17 giugno 1900, n. 306](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20n.%20561%20riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20le%20ferrovie%20economiche.%20000U0306.md). 
+Il Ministro per le comunicazioni ha facolta' di emanare, sentito il Consiglio superiore dei lavori pubblici, le norme di osservarsi sulle tramvie a trazione meccanica e sulle ferrovie economiche in materia di polizia, sicurezza e regolarita' dell'esercizio, anche a modificazione di quanto e' prescritto dal regolamento approvato con [R. decreto 17 giugno 1900, n. 306](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20n.%20561%20riflettente%20le%20tramvie%20a%20trazione%20meccanica%20e%20le%20ferrovie%20economiche.%20000U0306.md). 
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 

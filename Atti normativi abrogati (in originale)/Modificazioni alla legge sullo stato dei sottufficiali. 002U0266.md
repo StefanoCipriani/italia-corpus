@@ -106,7 +106,7 @@ La progressione dei gradi dei sottufficiali e' la seguente:
 
 L'assegno giornaliero del maresciallo e' di L. 3,15. 
  
- La pensione di riposo e' quella stessa stabilita per tale grado dalla tabella II annessa al testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70).
+ La pensione di riposo e' quella stessa stabilita per tale grado dalla tabella II annessa al testo unico delle leggi sulle pensioni, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ## Art. 12.
 

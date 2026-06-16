@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 6 aprile 1922, n. 471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-04-06;471), con la quale il Governo e' autorizzato a dare piena ed intera esecuzione ad alcune delle Convenzioni adottate a Washington nella prima sessione (29 ottobre-29 novembre 1919) della Conferenza internazionale del lavoro, fra le quali alla Convenzione relativa al lavoro notturno delle donne ed a quella relativa al lavoro notturno degli adolescenti nelle industrie;
 
-Visto il testo unico della legge sul lavoro delle donne e dei fanciulli, approvato con [R. decreto 10 novembre 1907, n. 818](Che%20approva%20lunito%20testo%20unico%20di%20legge%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20007U0818.md);
+Visto il testo unico della legge sul lavoro delle donne e dei fanciulli, approvato con [R. decreto 10 novembre 1907, n. 818](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20di%20legge%20sul%20lavoro%20delle%20donne%20e%20dei%20fanciulli.%20007U0818.md);
 
 Considerato che e' necessario apportare talune modificazioni alla legislazione nazionale sul lavoro delle donne e dei fanciulli perche' le predette Convenzioni internazionali possano avere piena ed intera esecuzione nel Regno;
 

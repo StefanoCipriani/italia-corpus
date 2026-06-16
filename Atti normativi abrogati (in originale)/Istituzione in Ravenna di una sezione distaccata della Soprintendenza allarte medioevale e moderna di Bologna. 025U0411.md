@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[art. 10 del R. decreto31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_10), sul nuovo ordinamento delle Soprintendenze alle opere di antichita' e d'arte; 
+ Veduto l'[art. 10 del R. decreto31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), sul nuovo ordinamento delle Soprintendenze alle opere di antichita' e d'arte; 
  
  Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione; 
  

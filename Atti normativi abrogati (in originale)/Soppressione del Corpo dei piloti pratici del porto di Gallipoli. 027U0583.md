@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 1 del regolamento generale per il servizio di pilotaggio nei porti del Regno, approvato col [R. decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778);
+Visto l'art. 1 del regolamento generale per il servizio di pilotaggio nei porti del Regno, approvato col [R. decreto 29 aprile 1926, n. 778](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20il%20servizio%20pilotaggio%20nei%20porti%20dello%20Stato.%20026U0778.md);
 
 Udito il Consiglio superiore della marina mercantile;
 

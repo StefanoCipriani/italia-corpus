@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 3 maggio 1914, n. 393](Col%20quale%20la%20Societa%20italiana%20ferroviaria%20anonima%20costruzioni%20ed%20esercizi%20con%20sede%20in%20Milano%20e%20autorizzata%20a%20costruire%20e%20ad%20esercitare%20la%20ferrovia%20a%20trazione%20a%20vapore%20da%20Massalombarda%20per_1074d6d5b3e3.md), col quale venne approvata e resa esecutoria la convenzione stipulata il 10 aprile 1914 con la «Societa' italiana ferroviaria anonima costruzioni ed esercizi» per la concessione della costruzione e dell'esercizio della ferrovia Massalombarda-Imola-Castel del Rio; 
+ Visto il [R. decreto 3 maggio 1914, n. 393](../Regi%20decreti/Col%20quale%20la%20Societa%20italiana%20ferroviaria%20anonima%20costruzioni%20ed%20esercizi%20con%20sede%20in%20Milano%20e%20autorizzata%20a%20costruire%20e%20ad%20esercitare%20la%20ferrovia%20a%20trazione%20a%20vapore%20da%20Massalombarda%20per_1074d6d5b3e3.md), col quale venne approvata e resa esecutoria la convenzione stipulata il 10 aprile 1914 con la «Societa' italiana ferroviaria anonima costruzioni ed esercizi» per la concessione della costruzione e dell'esercizio della ferrovia Massalombarda-Imola-Castel del Rio; 
  
  Sentito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato; 
  

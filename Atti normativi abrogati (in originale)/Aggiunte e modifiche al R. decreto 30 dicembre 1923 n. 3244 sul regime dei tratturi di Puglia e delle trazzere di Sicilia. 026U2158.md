@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta l'urgenza e l'assoluta necessita' di recare modifiche ed aggiunte al [R. decreto 30 dicembre 1923, n. 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), sul regime dei tratturi di Puglia e delle trazzere di Sicilia;
+Ritenuta l'urgenza e l'assoluta necessita' di recare modifiche ed aggiunte al [R. decreto 30 dicembre 1923, n. 3244](../Regi%20decreti/Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), sul regime dei tratturi di Puglia e delle trazzere di Sicilia;
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-L'[art. 7 del R. decreto 30 dicembre 1923, n. 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), e' modificato come segue : 
+L'[art. 7 del R. decreto 30 dicembre 1923, n. 3244](../Regi%20decreti/Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), e' modificato come segue : 
  
  « E' in facolta' del Ministero dell'economia nazionale di consentire la legittimazione dei possessi abusivi di quelle zone che risulteranno non necessarie all'uso pubblico e non trasformabili in strade, purche' le occupazioni siano di data anteriore al 30 dicembre 1923, e gli abusivi occupatori si obblighino di pagare un canone annuo affrancabile, se trattasi di zone occupate con fabbricati, od il prezzo di stima, se trattasi di occupazione di ogni altra natura, e salva sempre l'osservanza delle altre condizioni che saranno stabilite con successivo regolamento ».
 
@@ -38,13 +38,13 @@ Il 1° comma dell'art. 10 e' modificato nei seguenti termini :
 
 ## Art. 3.
 
-Le tabelle A e B, di cui all'art. 15, 1° comma, del [R. decreto 30 dicembre 1923, n. 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), ed annesse allo stesso, sono sostituite con le tabelle A e B annesse al presente decreto. 
+Le tabelle A e B, di cui all'art. 15, 1° comma, del [R. decreto 30 dicembre 1923, n. 3244](../Regi%20decreti/Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), ed annesse allo stesso, sono sostituite con le tabelle A e B annesse al presente decreto. 
  
  E' autorizzato il passaggio di un funzionario di grado 10° (primo archivista - gruppo C) dal ruolo dell'Amministrazione centrale e delle Intendenze di finanza, al ruolo centrale del Ministero dell'economia nazionale, nel quale sara' inquadrato, in base alla sua anzianita'.
 
 ## Art. 4.
 
-Oltre alle norme necessarie per la esecuzione del [R. decreto 30 dicembre 1923, n. 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), il regolamento di cui all'art. 19 del decreto stesso conterra' altresi' le disposizioni occorrenti per l'attuazione delle aggiunte e modifiche apportate col presente decreto.
+Oltre alle norme necessarie per la esecuzione del [R. decreto 30 dicembre 1923, n. 3244](../Regi%20decreti/Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), il regolamento di cui all'art. 19 del decreto stesso conterra' altresi' le disposizioni occorrenti per l'attuazione delle aggiunte e modifiche apportate col presente decreto.
 
 ## Art. 5.
 

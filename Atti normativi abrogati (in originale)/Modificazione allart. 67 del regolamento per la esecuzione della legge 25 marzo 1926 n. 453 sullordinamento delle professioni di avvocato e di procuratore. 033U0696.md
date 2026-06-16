@@ -28,7 +28,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la gra
 
 ## Art. 1.
 
-L'art. 67 del regolamento approvato col [R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683), e' cosi' modificato: 
+L'art. 67 del regolamento approvato col [R. decreto 26 agosto 1926, n. 1683](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20marzo%201926%20n.%20453%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U1683.md), e' cosi' modificato: 
  
  «La decisione e' pronunziata nel nome del Re. 
  

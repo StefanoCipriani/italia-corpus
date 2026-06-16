@@ -70,7 +70,7 @@ Agli effetti della formazione dei ruoli per la riscossione dei contributi assicu
 
 ## Art. 5.
 
-In caso di mancata o inesatta denuncia, ferma restando la possibilita' del procedimento contravvenzionale a carico degli inadempienti, a norma del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), e del [R. decreto-legge 27 ottobre 1927, n. 2055](Assicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20027U2055.md), la Cassa nazionale per le assicurazioni sociali, o, per essa, le Federazioni provinciali fasciste degli agricoltori, nel caso che ad esse sia attribuita per delega, a norma dell'art. 1, la formazione dei ruoli, possono procedere d'ufficio all'accertamento degli elementi indicati nei primi due commi dell'articolo 4, in base ai dati in loro possesso o desunti dai registri catastali. 
+In caso di mancata o inesatta denuncia, ferma restando la possibilita' del procedimento contravvenzionale a carico degli inadempienti, a norma del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), e del [R. decreto-legge 27 ottobre 1927, n. 2055](Assicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20027U2055.md), la Cassa nazionale per le assicurazioni sociali, o, per essa, le Federazioni provinciali fasciste degli agricoltori, nel caso che ad esse sia attribuita per delega, a norma dell'art. 1, la formazione dei ruoli, possono procedere d'ufficio all'accertamento degli elementi indicati nei primi due commi dell'articolo 4, in base ai dati in loro possesso o desunti dai registri catastali. 
  
  L'accertamento e le rettifiche d'ufficio sono notificati agli interessati a cura dell'Ente incaricato della formazione dei ruoli. 
  
@@ -84,7 +84,7 @@ In caso di mancata o inesatta denuncia, ferma restando la possibilita' del proce
  
  Contro la decisione amministrativa della Commissione predetta, e' ammesso, entro 20 giorni dalla notifica, il ricorso alla Commissione arbitrale di prima istanza di cui all'articolo 25 del decreto 30 dicembre 1923, n. 3184. 
  
- Contro la decisione della Commissione arbitrale di prima istanza e' ammesso il ricorso, entro 30 giorni dalla notifica, alla Commissione arbitrale centrale di cui all'[art. 26 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_26).
+ Contro la decisione della Commissione arbitrale di prima istanza e' ammesso il ricorso, entro 30 giorni dalla notifica, alla Commissione arbitrale centrale di cui all'[art. 26 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md).
 
 ## Art. 6.
 

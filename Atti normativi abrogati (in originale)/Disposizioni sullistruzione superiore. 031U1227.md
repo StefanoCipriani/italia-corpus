@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni;
 
-Veduto il [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e successive modificazioni;
+Veduto il [R. decreto 30 novembre 1924, n. 2172](../Regi%20decreti/Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e successive modificazioni;
 
-Veduto il [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md);
+Veduto il [R. decreto 28 agosto 1924, n. 1618](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md);
 
 Veduto il [R. decreto-legge 17 giugno 1928, n. 1314](Passaggio%20delle%20scuole%20e%20degli%20istituti%20distruzione%20tecnica%20professionale%20dalla%20dipendenza%20del%20Ministero%20delleconomia%20nazionale%20a%20quella%20del%20Ministero%20della%20pubblica%20istruzione.%20028U1314.md);
 
@@ -42,17 +42,17 @@ A ciascuna delle Facolta' o Scuole che costituiscono Universita' o Istituto supe
 
 ## Art. 2.
 
-Il [secondo comma dell'art. 101 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
+Il [secondo comma dell'art. 101 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  «Il Consiglio di amministrazione e' composto e si rinnova secondo norme che saranno determinate dallo statuto, tenuto conto delle particolari condizioni ed esigenze di ciascuna Universita' o Istituto libero. In seno al Consiglio possono essere rappresentati enti e privati, che contribuiscano con annui assegni al mantenimento dell'Universita' o Istituto; in ogni caso ne fa parte un rappresentante del Governo, scelto dal Ministro».
 
 ## Art. 3.
 
-L'[art. 63 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente ed e' esteso agl'Istituti superiori agrari, di medicina veterinaria e di scienze economiche e commerciali: 
+L'[art. 63 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente ed e' esteso agl'Istituti superiori agrari, di medicina veterinaria e di scienze economiche e commerciali: 
  «Ogni Universita' o Istituto superiore ha un regolamento interno, nel quale sono contenute le norme per il personale posto a carico del suo bilancio e quelle relative al funzionamento amministrativo, contabile e interno dell'Universita' o Istituto. 
  «Il regolamento e' emanato, ed occorrendo modificato, con decreto del rettore o direttore, previa deliberazione del Consiglio di amministrazione, udito il Consiglio dei professori delle Facolta', Scuole e Istituti interessati. 
  «Il regolamento e le sue eventuali modificazioni debbono essere, pubblicati nel Bollettino ufficiale del Ministero dell'educazione nazionale. 
  Il trattamento economico delle categorie di personale a carico dei vari Istituti, salvo per quanto concerne il personale aiuto o assistente, non potra' essere superiore a quello risultante dall'attuazione del [R. decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-20;1491). 
- «Rimangono in vigore per gl'Istituti superiori di scienze economiche e commerciali le disposizioni dei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [3 giugno 1926, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;1022), per il personale che vi e' contemplato».
+ «Rimangono in vigore per gl'Istituti superiori di scienze economiche e commerciali le disposizioni dei [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [3 giugno 1926, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;1022), per il personale che vi e' contemplato».
 
 ## Art. 4.
 
@@ -60,7 +60,7 @@ Al mantenimento dei Regi istituti superiori di scienze economiche e commerciali 
 
 ## Art. 5.
 
-Gli [articoli 77 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e 54. del [R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), sono sostituiti dal seguente e le disposizioni relative sono estese a tutti gl'Istituti d'istruzione superiore: 
+Gli [articoli 77 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e 54. del [R. decreto 30 novembre 1924, n. 2172](../Regi%20decreti/Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), sono sostituiti dal seguente e le disposizioni relative sono estese a tutti gl'Istituti d'istruzione superiore: 
  «Fino al limite di L. 30.000 le spese possono essere eseguite in economia, secondo le norme stabilite dal regolamento interno. 
  «Tutte le spese eccedenti il limite anzidetto sono effettuate in seguito a gara pubblica o a licitazione privata, su deliberazione del Consiglio di amministrazione. 
  «In casi eccezionali o di urgenza, il Consiglio puo', con deliberazione motivata, prescindere dalla gara o dalla licitazione anche per spese superiori alle L. 30.000, ma non eccedenti le L.
@@ -70,7 +70,7 @@ Gli [articoli 77 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%
 
 ## Art. 6.
 
-Gli [articoli 70 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [13 del R. decreto 25 settembre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;13), [n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1585), [11 del R. decreto-legge 4 febbraio 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-04;11), [n. 119](Disposizioni%20sul%20Consiglio%20superiore%20della%20pubblica%20istruzione%20ed%20altri%20provvedimenti%20sulla%20istruzione%20superiore.%20026U0119.md), [21 del R. decreto-legge 23 ottobre 1927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;21), [n. 2105](Disposizioni%20per%20listruzione%20superiore.%20027U2105.md), sono sostituiti dal seguente: 
+Gli [articoli 70 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [13 del R. decreto 25 settembre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;13), [n. 1585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-25;1585), [11 del R. decreto-legge 4 febbraio 1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-04;11), [n. 119](Disposizioni%20sul%20Consiglio%20superiore%20della%20pubblica%20istruzione%20ed%20altri%20provvedimenti%20sulla%20istruzione%20superiore.%20026U0119.md), [21 del R. decreto-legge 23 ottobre 1927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;21), [n. 2105](Disposizioni%20per%20listruzione%20superiore.%20027U2105.md), sono sostituiti dal seguente: 
  Il bilancio preventivo delle Regie universita' e dei Regi istituti superiori non e' soggetto all'approvazione del Ministero della educazione nazionale al quale sara' inviato per conoscenza un mese prima dell'inizio dell'esercizio finanziario. 
  «Il rendiconto consuntivo e i conti di tutte le gestioni speciali sono dal presidente del Consiglio di amministrazione trasmessi direttamente alla Corte dei conti per l'esame amministrativo e la dichiarazione di regolarita'. 
  «Copie del rendiconto consuntivo e dei conti speciali predetti sono trasmesse al Ministero dell'educazione nazionale per conoscenza. 
@@ -84,10 +84,10 @@ Il Ministro per l'educazione nazionale puo' consentire che il materiale scientif
 
 ## Art. 8.
 
-Sono estese agli Istituti superiori di scienze economiche e commerciali le disposizioni degli articoli 67, 68, 74 primo e secondo comma, 75, 79 del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+Sono estese agli Istituti superiori di scienze economiche e commerciali le disposizioni degli articoli 67, 68, 74 primo e secondo comma, 75, 79 del [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  Sono estese alle Universita' ed agli altri Istituti superiori le disposizioni dei tre ultimi commi dell'[art. 14 del R. decreto-legge 27 ottobre 1927, n. 2135](Provvedimenti%20in%20materia%20di%20istruzione%20superiore%20agraria%20forestale%20e%20di%20medicina%20veterinaria.%20027U2135.md). 
- E' abrogato l'[art. 135 del R. decreto 8 luglio 1925, n. 1227](Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md). 
- E' estesa alle Universita' ed a tutti gli altri Istituti superiori la disposizione del comma secondo dell'art. 40 del testo unico delle leggi sull'ordinamento degli Istituti superiori di scienze economiche e commerciali, approvato con [R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md).
+ E' abrogato l'[art. 135 del R. decreto 8 luglio 1925, n. 1227](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md). 
+ E' estesa alle Universita' ed a tutti gli altri Istituti superiori la disposizione del comma secondo dell'art. 40 del testo unico delle leggi sull'ordinamento degli Istituti superiori di scienze economiche e commerciali, approvato con [R. decreto 28 agosto 1924, n. 1618](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md).
 
 ## Art. 9.
 
@@ -101,13 +101,13 @@ Con decreto Reale, promosso dal Ministro per l'educazione nazionale di concerto 
 
 ## Art. 11.
 
-Le Scuole superiori di architettura istituite a Venezia con [R. decreto 2 dicembre 1926, n. 2358](Approvazione%20della%20convenzione%20per%20la%20istituzione%20della%20Scuola%20superiore%20di%20architettura%20in%20Venezia.%20026U2358.md), a Torino con [R. decreto 19 luglio 1929, n. 1578](Approvazione%20della%20convenzione%20per%20listituzione%20della%20Regia%20scuola%20superiore%20di%20architettura%20in%20Torino.%20029U1578.md), a Firenze con [R. decreto 26 giugno 1930, n. 1084](Approvazione%20della%20convenzione%20per%20la%20istituzione%20e%20il%20mantenimento%20della%20Scuola%20superiore%20di%20architettura%20di%20Firenze.%20030U1084.md), e a Napoli con [R. decreto 26 giugno 1930, n. 1085](Approvazione%20della%20convenzione%20per%20la%20istituzione%20ed%20il%20mantenimento%20della%20Regia%20scuola%20superiore%20di%20architettura%20in%20Napoli.%20030U1085.md), passano a far parte, a tutti gli effetti, degl'Istituti superiori di cui alla tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), nello stato di fatto e di diritto in cui si trovano. Al loro mantenimento si provvede con convenzione fra lo Stato, altri enti e privati. 
- La disposizione, di cui al [comma secondo dell'art. 3 del R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md), cessa di avere effetto per le Scuole superiori di architettura. 
+Le Scuole superiori di architettura istituite a Venezia con [R. decreto 2 dicembre 1926, n. 2358](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20la%20istituzione%20della%20Scuola%20superiore%20di%20architettura%20in%20Venezia.%20026U2358.md), a Torino con [R. decreto 19 luglio 1929, n. 1578](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20listituzione%20della%20Regia%20scuola%20superiore%20di%20architettura%20in%20Torino.%20029U1578.md), a Firenze con [R. decreto 26 giugno 1930, n. 1084](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20la%20istituzione%20e%20il%20mantenimento%20della%20Scuola%20superiore%20di%20architettura%20di%20Firenze.%20030U1084.md), e a Napoli con [R. decreto 26 giugno 1930, n. 1085](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20la%20istituzione%20ed%20il%20mantenimento%20della%20Regia%20scuola%20superiore%20di%20architettura%20in%20Napoli.%20030U1085.md), passano a far parte, a tutti gli effetti, degl'Istituti superiori di cui alla tabella B annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), nello stato di fatto e di diritto in cui si trovano. Al loro mantenimento si provvede con convenzione fra lo Stato, altri enti e privati. 
+ La disposizione, di cui al [comma secondo dell'art. 3 del R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), cessa di avere effetto per le Scuole superiori di architettura. 
  Quando sia richiesto il parere del Consiglio superiore dell'educazione nazionale per le questioni concernenti le Scuole superiori di architettura, alla Sezione prima vengono aggregati i membri della quinta.
 
 ## Art. 12.
 
-Gli [articoli 1](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md) e [2 del R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), sono sostituiti dal seguente: 
+Gli [articoli 1](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md) e [2 del R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), sono sostituiti dal seguente: 
  «Gl'Istituti superiori di magistero hanno funzione e grado di Istituti universitari. 
  «Ad essi spetta di compiere la cultura di coloro che hanno conseguito l'abilitazione magistrale, in relazione al conseguimento dei diplomi che gl'Istituti medesimi conferiscono. 
  «Tali diplomi sono di tre specie: 
@@ -115,7 +115,7 @@ a) di materie letterarie: italiano, latino, storia e geografia, lingue e lettera
 b) di filosofia e pedagogia; 
 c) di abilitazione alla vigilanza nelle scuole elementari. 
  «I diplomi di cui alle lettere a) e b) si conseguono dopo un corso di studi quadriennale, diviso in due bienni; il diploma di cui alla lettera c) dopo un corso triennale». 
- Il [comma secondo dell'art. 4 del R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), e' sostituito dal seguente: 
+ Il [comma secondo dell'art. 4 del R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md), e' sostituito dal seguente: 
  «Al concorso per l'iscrizione al primo anno del corso triennale per il diploma di abilitazione alla vigilanza nelle scuole elementari non puo' essere ammesso chi abbia superato il quarantesimo anno di eta'; sara' preferito chi abbia insegnato nelle pubbliche scuole elementari».
 
 ## Art. 13.
@@ -136,7 +136,7 @@ L'[art. 2 del R. decreto-legge 13 gennaio 1927, n. 38](Provvedimenti%20per%20lis
  «La prima sezione del Consiglio superiore dell'educazione nazionale designa sei professori di ruolo o cultori della materia messa a concorso. 
  «Il Ministro nomina la Commissione, scegliendo un commissario nel primo gruppo di designazioni, due nel secondo gruppo e due nel terzo. 
  «I professori di ruolo, che intendono prender parte ad un concorso, non possono partecipare alle designazioni per la costituzione della commissione giudicatrice. 
- «I professori o cultori, che fanno parte della prima sezione del Consiglio superiore, non possono essere compresi nelle designazioni.  «Le disposizioni di cui all'[art. 84 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e all'[art. 8 del R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md), completato dall'[art. 13 del R. decreto-legge 27 ottobre 1926, n. 1933](Disposizioni%20concernenti%20listruzione%20superiore.%20026U1933.md), concernenti le spese per, le commissioni giudicatrici, sono estese a tutti gli Istituti d'istruzione superiore, che hanno il personale insegnante a carico del proprio bilancio. 
+ «I professori o cultori, che fanno parte della prima sezione del Consiglio superiore, non possono essere compresi nelle designazioni.  «Le disposizioni di cui all'[art. 84 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e all'[art. 8 del R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md), completato dall'[art. 13 del R. decreto-legge 27 ottobre 1926, n. 1933](Disposizioni%20concernenti%20listruzione%20superiore.%20026U1933.md), concernenti le spese per, le commissioni giudicatrici, sono estese a tutti gli Istituti d'istruzione superiore, che hanno il personale insegnante a carico del proprio bilancio. 
  «E' abrogato l'ultimo comma dell'[art. 5 del R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md)».
 
 ## Art. 16.
@@ -158,7 +158,7 @@ I professori di ruolo e i professori incaricati nei Regi istituti d'istruzione s
 
 ## Art. 19.
 
-L'[art. 20 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dall'[art. 13 del R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md), e dell'[art. 4 del R. decreto-legge 27 ottobre 1926, n. 1933](Disposizioni%20concernenti%20listruzione%20superiore.%20026U1933.md), e' sostituito dal seguente: 
+L'[art. 20 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), modificato dall'[art. 13 del R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md), e dell'[art. 4 del R. decreto-legge 27 ottobre 1926, n. 1933](Disposizioni%20concernenti%20listruzione%20superiore.%20026U1933.md), e' sostituito dal seguente: 
  «I professori di ruolo possono col loro consenso essere trasferiti ad una cattedra della stessa materia. 
  «Essi possono inoltre essere trasferiti ad una cattedra di diversa materia, quando siano stati titolari della materia stessa, ovvero siano stati compresi da non oltre un biennio in una terna di concorso a cattedra di quella materia, ovvero quando dovrebbero assumere l'insegnamento di materia che costituisca una parte di quella da loro insegnata. 
  «I professori di ruolo, all'infuori dei casi contemplati nel comma precedente, possono essere trasferiti a cattedre di materia diversa quando siano professori ordinari, ovvero quando abbiano tenuto per almeno un triennio l'incarico di quella materia. 
@@ -176,7 +176,7 @@ Gli [articoli 5](Scambi%20di%20professori%20universitari%20con%20lestero.%20026U
 
 ## Art. 21.
 
-L'[art. 29 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
+L'[art. 29 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  «Le punizioni, di cui ai numeri 2, 3, 4 e 5 dell'art. 27, si applicano secondo i casi e le circostanze, per le seguenti mancanze: 
 a) grave insubordinazione; 
 b) abituale mancanza ai doveri di ufficio, 
@@ -195,7 +195,7 @@ La condizione giuridica ed economica dei professori di ruolo nei Regi istituti s
 
 ## Art. 23.
 
-I professori di ruolo, che non siano cittadini italiani, partecipano alle adunanze dei Consigli di Facolta' limitatamente alle deliberazioni per gli oggetti di cui ai numeri 1, 2, 3 e 4 dell'art. 10 del regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
+I professori di ruolo, che non siano cittadini italiani, partecipano alle adunanze dei Consigli di Facolta' limitatamente alle deliberazioni per gli oggetti di cui ai numeri 1, 2, 3 e 4 dell'art. 10 del regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md).
 
 ## Art. 24.
 
@@ -205,12 +205,12 @@ Ai professori ordinari, che siano stati collocati a riposo o dei quali siano sta
 
 ## Art. 25.
 
-Le disposizioni relative agl'incarichi d'insegnamento negl'Istituti di istruzione superiore di cui all'[art.1 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono estese agl'incarichi d'insegnamento negli altri Istituti d'istruzione superiore, salvi i diritti acquisiti in base alle norme vigenti e ferme restando le disposizioni per cui, in determinati casi e per determinati Istituti, gl'incarichi d'insegnamento sono a carico dello Stato. 
+Le disposizioni relative agl'incarichi d'insegnamento negl'Istituti di istruzione superiore di cui all'[art.1 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono estese agl'incarichi d'insegnamento negli altri Istituti d'istruzione superiore, salvi i diritti acquisiti in base alle norme vigenti e ferme restando le disposizioni per cui, in determinati casi e per determinati Istituti, gl'incarichi d'insegnamento sono a carico dello Stato. 
  A chiunque ricopra un ufficio retribuito ed abbia inoltre un incarico d'insegnamento in Istituti d'istruzione superiore, non potra' essere affidato un secondo incarico retribuito, se non in caso di assoluta necessita'.
 
 ## Art. 26.
 
-Le disposizioni vigenti per gli aiuti e assistenti dei Regi istituti di istruzione superiore, di cui all'[art. 1 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono estese agli aiuti e assistenti degli altri Istituti d'istruzione superiore. 
+Le disposizioni vigenti per gli aiuti e assistenti dei Regi istituti di istruzione superiore, di cui all'[art. 1 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono estese agli aiuti e assistenti degli altri Istituti d'istruzione superiore. 
  Ai posti di aiuto e assistente puo' provvedersi, oltre che per concorso, mediante trasferimento di aiuti e assistenti di ruolo appartenenti ad altri Istituti d'istruzione superiore, sempreche' trattisi di cattedra corrispondente a quella cui l'aiuto o assistente e' addetto o ad una parte di essa, e previa richiesta del professore interessato. Non sono dovute, in tal caso, indennita' di trasferimento. 
  Ai posti di aiuto puo' provvedersi, oltre che per concorso, mediante promozione degli assistenti, che abbiano prestato almeno tre anni di lodevole servizio; la promozione sara' deliberata su proposta o designazione del professore ufficiale della materia. 
  Gli aiuti e assistenti assunti in servizio in base alle vigenti disposizioni, oltre quanto e' stabilito per il loro passaggio nei ruoli dei professori degl'Istituti medi d'istruzione, possono, dopo cinque anni di lodevole servizio, ottenere il passaggio in altre carriere delle pubbliche amministrazioni: tali carriere, come pure le modalita' del passaggio, saranno determinate con decreto Reale, da emanarsi su proposta del Ministro per l'educazione nazionale, di concerto col Ministro per le finanze e con gli altri Ministri interessati. Il passaggio nei ruoli dei professori degl'Istituti medi d'istruzione puo' aver luogo indistintamente per tutti gl'Istituti medi dipendenti dal Ministero dell'educazione nazionale. 
@@ -229,7 +229,7 @@ Alle cattedre di lingue e letterature possono essere annessi lettorati, per le e
 
 ## Art. 29.
 
-Le disposizioni vigenti per il personale tecnico e subalterno dei Regi istituti d'istruzione superiore, di cui all'[articolo 1 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono estese al personale tecnico e subalterno dei Regi istituti superiori agrari e di medicina veterinaria.
+Le disposizioni vigenti per il personale tecnico e subalterno dei Regi istituti d'istruzione superiore, di cui all'[articolo 1 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), sono estese al personale tecnico e subalterno dei Regi istituti superiori agrari e di medicina veterinaria.
 
 ## Art. 30.
 
@@ -241,17 +241,17 @@ Le disposizioni, di cui all'[art. 6 del R. decreto-legge 13 gennaio 1927, n. 38]
 
 ## Art. 32.
 
-L'[art. 39 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
+L'[art. 39 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  «Per conseguire l'abilitazione alla libera docenza in una determinata materia il candidato deve: 
 a) possedere una laurea o un diploma ottenuti presso un Istituto d'istruzione superiore. In casi particolari, dei quali e' giudice la Commissione di cui all'articolo seguente, puo' essere ammesso al giudizio per il conseguimento della libera docenza chi sia sprovvisto di laurea o diploma o li abbia conseguiti in Istituti stranieri; 
 b) fornire con titoli, integrati da una conferenza sui titoli stessi, da prove didattiche, ed eventualmente da prove sperimentali, la dimostrazione del suo valore scientifico e della sua attitudine didattica rispetto alla materia che si propone d'insegnare. 
  «L'abilitazione e' conferita con decreto del Ministro per la durata di cinque anni. Puo', con decreto Ministeriale, essere definitivamente confermata su deliberazione della Facolta' o Scuola, che deve accertare e giudicare l'operosita' scientifica e didattica del libero docente durante il quinquennio. 
  «Il termine di cinque anni, di cui al precedente comma, puo' essere prorogato nel caso di mancato esercizio per legittimo impedimento, secondo norme che saranno stabilite nel regolamento generale universitario. 
- «L'abilitazione alla libera docenza, conferita ai sensi dell'[art. 41 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' definitiva».
+ «L'abilitazione alla libera docenza, conferita ai sensi dell'[art. 41 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' definitiva».
 
 ## Art. 33.
 
-Nelle Universita' e negli Istituti superiori contemplati dal [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), negl'Istituti superiori agrari, di medicina veterinaria e di scienze economiche e commerciali e nel Regio istituto superiore navale di Napoli si puo' ottenere l'iscrizione solo in qualita' di studenti.
+Nelle Universita' e negli Istituti superiori contemplati dal [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), negl'Istituti superiori agrari, di medicina veterinaria e di scienze economiche e commerciali e nel Regio istituto superiore navale di Napoli si puo' ottenere l'iscrizione solo in qualita' di studenti.
 
 ## Art. 34.
 
@@ -260,14 +260,14 @@ All'[art. 3 del R. decreto-legge 14 giugno 1928, n. 1590](Disposizioni%20relativ
 
 ## Art. 35.
 
-Coloro che hanno superato l'esame di maturita' classica o scientifica possono essere iscritti quali studenti presso le Regie scuole di architettura, indipendentemente dall'esame di ammissione previsto dall'art. 65, ultimo comma, del [Regio decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md).
+Coloro che hanno superato l'esame di maturita' classica o scientifica possono essere iscritti quali studenti presso le Regie scuole di architettura, indipendentemente dall'esame di ammissione previsto dall'art. 65, ultimo comma, del [Regio decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md).
 
 ## Art. 36.
 
-Il [primo comma dell'art. 25 del R. decreto 30 novembre 1924, n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dai seguenti: 
+Il [primo comma dell'art. 25 del R. decreto 30 novembre 1924, n. 2172](../Regi%20decreti/Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' sostituito dai seguenti: 
  «Possono essere ammessi agli Istituti superiori agrari e di medicina veterinaria coloro che hanno superato l'esame di maturita' classica o scientifica. 
  «Agli Istituti superiori agrari possono anche essere iscritti, previo esame di cultura generale, da sostenersi con le norme che saranno indicate dal regolamento generale universitario, coloro che sono forniti del diploma di abilitazione per i provenienti dagl'Istituti tecnici agrari». 
- L'ultimo comma dell'[art. 25 del R. decreto 30 novembre 1924; n. 2172](Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' soppresso.
+ L'ultimo comma dell'[art. 25 del R. decreto 30 novembre 1924; n. 2172](../Regi%20decreti/Ordinamento%20dellistruzione%20superiore%20agraria%20e%20di%20medicina%20veterinaria.%20024U2172.md), e' soppresso.
 
 ## Art. 37.
 
@@ -302,7 +302,7 @@ Le disposizioni di cui all'[art. 13 del R. decreto-legge 23 ottobre 1927, n. 210
 ## Art. 43.
 
 All'[art. 22 del R. decreto-legge 3 luglio 1930, n. 1176](Coordinamento%20delle%20norme%20relative%20agli%20Istituti%20di%20istruzione%20superiore.%20030U1176.md), e' sostituito il seguente: 
- «Alla tabella che determina le professioni per esercitare le quali e' necessario superare l'esame di Stato, annessa al [R. decreto 31 dicembre 1923, n. 2909](Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md), e' aggiunta l'indicazione di «professionista in materia di economia e commercio». 
+ «Alla tabella che determina le professioni per esercitare le quali e' necessario superare l'esame di Stato, annessa al [R. decreto 31 dicembre 1923, n. 2909](../Regi%20decreti/Disposizioni%20concernenti%20gli%20esami%20di%20Stato.%20023U2909.md), e' aggiunta l'indicazione di «professionista in materia di economia e commercio». 
  «All'esame di Stato per l'abilitazione all'esercizio della professione anzidetta sono ammessi i laureati in scienze economiche e commerciali (fatta eccezione per i laureati della sezione di magistero per le lingue estere dell'Istituto superiore di scienze economiche e commerciali di Venezia), i laureati in scienze economiche, politiche e sociali e i laureati in scienze economico-marittime».
 
 ## Art. 44.
@@ -316,13 +316,13 @@ La disposizione di cui al [R. decreto-legge 24 novembre 1930, n. 1734](Facolta%2
 
 ## Art. 46.
 
-A tutti coloro i quali, anteriormente all'entrata in vigore dell'ordinamento stabilito dal [R. decreto 30 settembre 1923 n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni, hanno conseguito pressa le Regie scuole d'ingegneria e presso la Regia scuola di architettura di Roma il diploma di architetto, compete la qualifica di «dottore in architettura». Restano ferme le disposizioni di cui all'art. 6 del R. decreto 31 dicembre 1923. n. 2909, e all'art. 31 del R. decreto-legge 25 settembre 1924. n. 1585.
+A tutti coloro i quali, anteriormente all'entrata in vigore dell'ordinamento stabilito dal [R. decreto 30 settembre 1923 n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e successive modificazioni, hanno conseguito pressa le Regie scuole d'ingegneria e presso la Regia scuola di architettura di Roma il diploma di architetto, compete la qualifica di «dottore in architettura». Restano ferme le disposizioni di cui all'art. 6 del R. decreto 31 dicembre 1923. n. 2909, e all'art. 31 del R. decreto-legge 25 settembre 1924. n. 1585.
 
 ## Art. 47.
 
 L'annessa tabella A determina le tasse e sopratasse per gli Istituti superiori di scienze economiche e commerciali. 
  Le tasse d'immatricolazione e iscrizione sono devolute agli Istituti, la tassa di laurea e' devoluta all'Erario, le sopratasse per esami sono erogate per propine ai componenti le commissioni esaminatrici. 
- I diritti di segreteria, dovuti per gli atti di competenza degli uffici degli Istituti anzidetti, sono quelli stabiliti dalla tabella H annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
+ I diritti di segreteria, dovuti per gli atti di competenza degli uffici degli Istituti anzidetti, sono quelli stabiliti dalla tabella H annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 48.
 
@@ -357,7 +357,7 @@ Al Regio istituto orientale di Napoli sono estese le disposizioni relative alla 
 
 ## Art. 54.
 
-L'[art. 58 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
+L'[art. 58 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' sostituito dal seguente: 
  «E' istituita una tassa per le Opere delle Universita' o Istituti superiori, cui sono soggetti tutti coloro che conseguono l'abilitazione all'esercizio professionale. 
  «L'ammontare della tassa e' di L. 250 e viene riscossa all'atto della consegna del titolo di abilitazione. 
  «All'Opera di ciascuna Universita' o Istituto, oltre alle elargizioni di enti e di privati ed alle somme con le quali l'amministrazione universitaria creda di concorrere a carico del suo bilancio o di quello della Cassa scolastica, e' devoluto il complessivo provento della tassa predetta pagata dai contribuenti provvisti di titolo accademico conferito dall'Universita' o Istituto medesimo. 
@@ -435,7 +435,7 @@ La spesa per il personale di qualsiasi categoria del Regio istituto orientale di
 L'annessa tabella B determina le tasse e sopratasse scolastiche dovute per il Regio istituto orientale di Napoli, per il Regio istituto superiore navale di Napoli e per la Regia accademia fascista di educazione fisica di Roma. 
  Le tasse d'immatricolazione e iscrizione sono devolute agli Istituti, la tassa di laurea o diploma e' devoluta all'Erario, le sopratasse per esami sono erogate per propine ai componenti le commissioni esaminatrici. 
  La Regia scuola normale superiore di Pisa accoglie soltanto alunni convittori a posto gratuito. 
- I diritti di segreteria, dovuti per gli atti di competenza degli uffici degli Istituti anzidetti, sono quelli stabiliti dalla tabella H annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
+ I diritti di segreteria, dovuti per gli atti di competenza degli uffici degli Istituti anzidetti, sono quelli stabiliti dalla tabella H annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md).
 
 ## Art. 66.
 
@@ -446,7 +446,7 @@ Ai Regi osservatori astronomici di Arcetri, Catania, Milano, Napoli, Padova, Pin
 
 ## Art. 67.
 
-Ai posti di assistente negli Osservatori astronomici possono concorrere, oltre quaanto e' previsto nell'[art. 5, comma primo, del R. decreto 31 dicembre 1923, n. 3160](Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md), i laureati in discipline nautiche presso il Regio istituto superiore navale di Napoli. 
+Ai posti di assistente negli Osservatori astronomici possono concorrere, oltre quaanto e' previsto nell'[art. 5, comma primo, del R. decreto 31 dicembre 1923, n. 3160](../Regi%20decreti/Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md), i laureati in discipline nautiche presso il Regio istituto superiore navale di Napoli. 
  Agli effetti dell'ammissione ai concorsi per i posti di astronomo e astronomo aggiunto, gli aiuti ed assistenti di ruolo, addetti a cattedre di astronomia negli Istituti d'istruzione superiore, sono equiparati agli assistenti degli Osservatori astronomici.
 
 ## Art. 68.
@@ -456,11 +456,11 @@ Nel bilancio del Ministero dell'educazione nazionale e' annualmente stanziata la
 
 ## Art. 69.
 
-Ferme restando le disposizioni contenute nel [secondo comma dell'art. 19 del R. decreto-legge 23 ottobre 1927, n. 2105](Disposizioni%20per%20listruzione%20superiore.%20027U2105.md) coloro i quali ottengano il riconoscimento della qualifica di specialista ai sensi dei [Regi decreti 29 agosto 1929, n. 1823](Disposizioni%20per%20il%20riconoscimento%20della%20qualifica%20di%20specialista%20agli%20effetti%20dellesercizio%20professionale.%20029U1823.md) e [15 maggio 1930, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-15;861), debbono versare all'Erario, per il rilascio del decreto relativo, la tassa di L. 500.
+Ferme restando le disposizioni contenute nel [secondo comma dell'art. 19 del R. decreto-legge 23 ottobre 1927, n. 2105](Disposizioni%20per%20listruzione%20superiore.%20027U2105.md) coloro i quali ottengano il riconoscimento della qualifica di specialista ai sensi dei [Regi decreti 29 agosto 1929, n. 1823](../Regi%20decreti/Disposizioni%20per%20il%20riconoscimento%20della%20qualifica%20di%20specialista%20agli%20effetti%20dellesercizio%20professionale.%20029U1823.md) e [15 maggio 1930, n. 861](../Regi%20decreti/Riconoscimento%20della%20qualifica%20di%20specialista%20nei%20vari%20rami%20dellesercizio%20professionale.%20030U0861.md), debbono versare all'Erario, per il rilascio del decreto relativo, la tassa di L. 500.
 
 ## Art. 70.
 
-Sono estese agli Istituti superiori agrari, di medicina veterinaria e di scienze economiche e commerciali le disposizioni dell'art. 1 comma secondo n. 2, dell'art. 3 comma terzo, del titolo IV (articoli da 97 a 112) e degli articoli 11? e 137 del [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+Sono estese agli Istituti superiori agrari, di medicina veterinaria e di scienze economiche e commerciali le disposizioni dell'art. 1 comma secondo n. 2, dell'art. 3 comma terzo, del titolo IV (articoli da 97 a 112) e degli articoli 11? e 137 del [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  Per quanto riguarda l'art. 137, alle date del 1° ottobri 1923 e 1° ottobre 1924 s'intendono sostituite rispettivamente quelle del 1° novembre 1931 e 1° novembre 1932. 
  Disposizioni transitorie.
 
@@ -474,7 +474,7 @@ La disposizione contenuta nell'[art. 15 del R. decreto-legge 4 febbraio 1926, n.
 
 ## Art. 73.
 
-Fino a quando non sia stipulata ed approvata, ai sentii dell'art. 62 comma secondo del presente decreto, la convenzione per il mantenimento del Regio istituto superiore navale di Napoli, restano fermi gli obblighi degli enti di cui all'art. 6 dello statuto dell'Istituto stesso, approvato con [R. decreto 27 novembre 1924, n. 1999](Erezione%20in%20Ente%20morale%20del%20Regio%20istituto%20superiore%20navale%20Vice%20ammiraglio%20Pasquale%20Leonardi%20Cattolica%20in%20Napoli.%20024U1999.md).
+Fino a quando non sia stipulata ed approvata, ai sentii dell'art. 62 comma secondo del presente decreto, la convenzione per il mantenimento del Regio istituto superiore navale di Napoli, restano fermi gli obblighi degli enti di cui all'art. 6 dello statuto dell'Istituto stesso, approvato con [R. decreto 27 novembre 1924, n. 1999](../Regi%20decreti/Erezione%20in%20Ente%20morale%20del%20Regio%20istituto%20superiore%20navale%20Vice%20ammiraglio%20Pasquale%20Leonardi%20Cattolica%20in%20Napoli.%20024U1999.md).
 
 ## Art. 74.
 
@@ -487,7 +487,7 @@ Il Ministro per l'educazione nazionale potra' valersi della facolta' di cui all'
 
 ## Art. 76.
 
-L'ultimo comma dell'[art. 33 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' da intendersi nel senso che la disposizione in esso contenuta e' applicabile ai professori trasferiti, in base alle norme transitorie dello stesso [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), alle Facolta' o Scuole di nuova istituzione.
+L'ultimo comma dell'[art. 33 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' da intendersi nel senso che la disposizione in esso contenuta e' applicabile ai professori trasferiti, in base alle norme transitorie dello stesso [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), alle Facolta' o Scuole di nuova istituzione.
 
 ## Art. 77.
 
@@ -499,7 +499,7 @@ Le disposizioni, di cui agli ultimi due commi dell'art. 20 del presente decreto,
 
 ## Art. 79.
 
-Ai professori attualmente incaricati di lingue straniere in un Regio istituto superiore di scienze economiche e commerciali, i quali alla data di applicazione della [legge 20 marzo 1913, n. 268](Riguardante%20lordinamento%20degli%20Istituti%20superiori%20distruzione%20commerciale%20013U0268.md), insegnavano a titolo pubblico e con effetti legali presso Universita' estere e siano cessati da tale ufficio per ragioni determinate dalla guerra 1915-1918, puo' esser fatto, su loro domanda e col parere favorevole del Consiglio accademico e del Consiglio d'amministrazione dell'Istituto, il trattamento di cui all'[art. 43, comma quarto, del R. decreto 28 agosto 1924, n. 1618](Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md). 
+Ai professori attualmente incaricati di lingue straniere in un Regio istituto superiore di scienze economiche e commerciali, i quali alla data di applicazione della [legge 20 marzo 1913, n. 268](Riguardante%20lordinamento%20degli%20Istituti%20superiori%20distruzione%20commerciale%20013U0268.md), insegnavano a titolo pubblico e con effetti legali presso Universita' estere e siano cessati da tale ufficio per ragioni determinate dalla guerra 1915-1918, puo' esser fatto, su loro domanda e col parere favorevole del Consiglio accademico e del Consiglio d'amministrazione dell'Istituto, il trattamento di cui all'[art. 43, comma quarto, del R. decreto 28 agosto 1924, n. 1618](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullordinamento%20degli%20Istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20024U1618.md). 
  Tuttavia, agli effetti degli aumenti periodici, la loro anzianita' decorrera' dal mese successivo alla data del provvedimento.
 
 ## Art. 80.
@@ -532,12 +532,12 @@ Agli studenti, che si siano immatricolati nelle Universita' e negli Istituti d'i
 
 ## Art. 86.
 
-I contribuenti iscritti nei ruoli; di cui all'[art. 8 del R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md), i quali siano altresi' iscritti negli albi degli esercenti una professione, dovranno, entro sei mesi dalla data di pubblicazione del presente decreto, provvedere a pagare alla cassa dell'Universita' o Istituto, presso cui conseguirono la laurea o il diploma, la differenza tra l'importo della tassa sull'Opera universitaria, stabilito col presente decreto, e l'importo complessivo delle somme da essi versate annualmente in applicazione dell'[art. 58 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
+I contribuenti iscritti nei ruoli; di cui all'[art. 8 del R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md), i quali siano altresi' iscritti negli albi degli esercenti una professione, dovranno, entro sei mesi dalla data di pubblicazione del presente decreto, provvedere a pagare alla cassa dell'Universita' o Istituto, presso cui conseguirono la laurea o il diploma, la differenza tra l'importo della tassa sull'Opera universitaria, stabilito col presente decreto, e l'importo complessivo delle somme da essi versate annualmente in applicazione dell'[art. 58 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md). 
  Nulla e' dovuto, invece, dai contribuenti i quali si giovarono della facolta' di riscatto, consentita dall'articolo medesimo.
 
 ## Art. 87.
 
-Gl'inscritti negli albi degli esercenti una professione, i quali, essendo tenuti alla denunzia di cui agli [articoli 1](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md) e [2 del R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md), omisero o ritardarono la presentazione della denunzia stessa, purche' versino, entro sei mesi dalla data della pubblicazione del presente decreto, l'importo della tassa sull'Opera universitaria, ovvero la differenza tra l'importo medesimo e la somma complessiva eventualmente pagata ai sensi dell'[art. 58 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), non incorreranno nella penalita' sancita dal [R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md). 
+Gl'inscritti negli albi degli esercenti una professione, i quali, essendo tenuti alla denunzia di cui agli [articoli 1](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md) e [2 del R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md), omisero o ritardarono la presentazione della denunzia stessa, purche' versino, entro sei mesi dalla data della pubblicazione del presente decreto, l'importo della tassa sull'Opera universitaria, ovvero la differenza tra l'importo medesimo e la somma complessiva eventualmente pagata ai sensi dell'[art. 58 del R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), non incorreranno nella penalita' sancita dal [R. decreto-legge 18 ottobre 1928, n. 2478](Disposizioni%20relative%20alla%20riscossione%20della%20tassa%20a%20favore%20delle%20Opere%20universitarie.%20028U2478.md). 
  Nessun rimborso e' peraltro ammesso a favore di coloro che pagarono tale penalita'.
 
 ## Art. 88.

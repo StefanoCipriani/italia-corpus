@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti gli articoli 58, 69, 70, 92, 108, 109, 112 e 117 (modificato col [R. decreto 18 marzo 1915, n. 317](Col%20quale%20sono%20date%20disposizioni%20per%20il%20trasporto%20in%20via%20di%20esperimento%20di%20alcune%20merci%20in%20carri%20aperti%20senza%20copertoni%20e%20per%20laumento%20dei%20diritti%20di%20deposito%20e%20di%20sosta.%20015U0317.md)) e l'allegato 8 delle tariffe e condizioni pei trasporti sulle ferrovie dello Stato, di cui l'allegato D, alla [legge 27 aprile 1885, n. 3048](Concernente%20lesercizio%20delle%20reti%20Mediterranea%20Adriatica%20e%20Sicula%20e%20costruzione%20delle%20strade%20ferrate%20complementari.%20085U3048.md);
+Visti gli articoli 58, 69, 70, 92, 108, 109, 112 e 117 (modificato col [R. decreto 18 marzo 1915, n. 317](../Regi%20decreti/Col%20quale%20sono%20date%20disposizioni%20per%20il%20trasporto%20in%20via%20di%20esperimento%20di%20alcune%20merci%20in%20carri%20aperti%20senza%20copertoni%20e%20per%20laumento%20dei%20diritti%20di%20deposito%20e%20di%20sosta.%20015U0317.md)) e l'allegato 8 delle tariffe e condizioni pei trasporti sulle ferrovie dello Stato, di cui l'allegato D, alla [legge 27 aprile 1885, n. 3048](Concernente%20lesercizio%20delle%20reti%20Mediterranea%20Adriatica%20e%20Sicula%20e%20costruzione%20delle%20strade%20ferrate%20complementari.%20085U3048.md);
 
 Visto l'art. 2 (5) della [legge 12 luglio 1906, n. 332](Provvedimenti%20per%20lesercizio%20delle%20ferrovie%20dello%20Stato.%20006U0332.md), concernente i provvedimenti per l'esercizio delle ferrovie dello Stato;
 

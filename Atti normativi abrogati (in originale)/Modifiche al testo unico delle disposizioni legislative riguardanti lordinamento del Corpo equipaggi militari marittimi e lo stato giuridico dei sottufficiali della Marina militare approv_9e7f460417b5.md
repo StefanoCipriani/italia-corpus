@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Al testo unico delle disposizioni legislative sull'ordinamento del Corpo equipaggi militari marittimi, approvato con [regio decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono apportate le ulteriori modificazioni di cui agli articoli dal 2 al 6 che seguono.
+Al testo unico delle disposizioni legislative sull'ordinamento del Corpo equipaggi militari marittimi, approvato con [regio decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono apportate le ulteriori modificazioni di cui agli articoli dal 2 al 6 che seguono.
 
 ## Art. 2.
 

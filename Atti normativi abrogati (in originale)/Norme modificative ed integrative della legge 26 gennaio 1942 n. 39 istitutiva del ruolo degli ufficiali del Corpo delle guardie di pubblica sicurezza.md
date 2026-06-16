@@ -47,7 +47,7 @@ La Commissione esaminatrice e' nominata con decreto del Ministro per l'interno e
 
 L'esame consta di prove scritte, orali e pratiche e si svolge secondo il seguente programma:
  a) [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) (disposizioni preliminari, libro I);
- b) [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) (libro I, disposizioni generali; libro II, dell'istruzione) Ordinamento giudiziario;
+ b) [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) (libro I, disposizioni generali; libro II, dell'istruzione) Ordinamento giudiziario;
  c) leggi e regolamenti di pubblica sicurezza;
  d) Codici penali militari di pace e di guerra;
  e) diritto amministrativo e principali leggi sulla pubblica amministrazione;
@@ -148,7 +148,7 @@ Agli allievi ufficiali di cui al 1° comma dell'art. 8 e' attribuito lo stesso t
 
 ### Art. 14.
 
-Per l'ammissione ai concorsi previsti dai precedenti articoli e per lo svolgimento delle prove di esame di cui al presente decreto si osservano, in quanto applicabili, le disposizioni del [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960).
+Per l'ammissione ai concorsi previsti dai precedenti articoli e per lo svolgimento delle prove di esame di cui al presente decreto si osservano, in quanto applicabili, le disposizioni del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
  I concorrenti dovranno possedere la statura minima di metri 1,68.
  In quanto non modificate ed innovate col presente decreto, e' mantenuta validita' alle disposizioni degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39#art_7) ed [8 della legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39#art_8).
 

@@ -18,9 +18,9 @@ IMPERATORE D'ETIOPIA
 
 Vista la [legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1094.md), con cui fu istituita l'Azienda autonoma statale della strada;
 
-Visto il [R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), con cui furono emanate norme relative all'ordinamento dei servizi della detta Azienda;
+Visto il [R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), con cui furono emanate norme relative all'ordinamento dei servizi della detta Azienda;
 
-Visto il [R. decreto 6 aprile 1933, n. 368](Denominazione%20dei%20Compartimenti%20della%20viabilita%20dellAzienda%20autonoma%20statale%20della%20strada.%20033U0368.md), relativo ai compartimenti della viabilita';
+Visto il [R. decreto 6 aprile 1933, n. 368](../Regi%20decreti/Denominazione%20dei%20Compartimenti%20della%20viabilita%20dellAzienda%20autonoma%20statale%20della%20strada.%20033U0368.md), relativo ai compartimenti della viabilita';
 
 Visti i [Regi decreti-legge 18 ottobre 1934, n. 1830](Modifiche%20alla%20formazione%20del%20Consiglio%20di%20amministrazione%20dellAzienda%20autonoma%20statale%20della%20strada.%20034U1830.md), e [16 dicembre 1935, n. 2477](Nomina%20del%20direttore%20generale%20per%20il%20turismo%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda%20a%20Membro%20del%20Consiglio%20di%20amministrazione%20dellAzienda%20autonoma%20statale%20della%20strada.%20035U2477.md), con cui furono introdotte variazioni nella composizione del Consiglio di amministrazione della Azienda autonoma statale della strada;
 
@@ -84,13 +84,13 @@ Gli organi periferici dell'Azienda sono costituiti, giusta l'annessa tabella A, 
  
  Tale competenza territoriale e le sedi degli Uffici potranno essere modificate con decreto Reale sentito il Consiglio dei Ministri. 
  
- Sono abrogati l'[art. 3 del R. decreto 1° giugno 1928, numero 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e il [R. decreto 6 aprile 1933, n. 368](Denominazione%20dei%20Compartimenti%20della%20viabilita%20dellAzienda%20autonoma%20statale%20della%20strada.%20033U0368.md).
+ Sono abrogati l'[art. 3 del R. decreto 1° giugno 1928, numero 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e il [R. decreto 6 aprile 1933, n. 368](../Regi%20decreti/Denominazione%20dei%20Compartimenti%20della%20viabilita%20dellAzienda%20autonoma%20statale%20della%20strada.%20033U0368.md).
 
 ## Art. 3.
 
-La tabella B e le tabelle C e D annesse al [R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), sono rispettivamente sostituite dalla tabella B e dalla tabella C annesse al presente decreto, vistate, d'ordine Nostro, dal Ministro per i lavori pubblici, presidente dell'Azienda autonoma statale della strada, e da quello per le finanze. 
+La tabella B e le tabelle C e D annesse al [R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), sono rispettivamente sostituite dalla tabella B e dalla tabella C annesse al presente decreto, vistate, d'ordine Nostro, dal Ministro per i lavori pubblici, presidente dell'Azienda autonoma statale della strada, e da quello per le finanze. 
  
- L'art. 9 del medesimo [R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' abrogato.
+ L'art. 9 del medesimo [R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' abrogato.
 
 ## Art. 4.
 
@@ -100,11 +100,11 @@ Il 3° e 4° comma dell'art. 4 del predetto Regio decreto sono sostituiti dall'a
  
  a) per i vice segretari amministrativi: laurea in giurisprudenza o in scienze politiche o politico-sociali; 
  
- b) per gli ingegneri: laurea conseguita o confermata in una facolta' di ingegneria o in un Politecnico del Regno; nonche' certificato comprovante di aver superato il prescritto esame di Stato per l'abilitazione all'esercizio professionale. Quest'ultimo certificato non e' necessario per coloro che si trovano nelle condizioni previste dall'art. 326 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ b) per gli ingegneri: laurea conseguita o confermata in una facolta' di ingegneria o in un Politecnico del Regno; nonche' certificato comprovante di aver superato il prescritto esame di Stato per l'abilitazione all'esercizio professionale. Quest'ultimo certificato non e' necessario per coloro che si trovano nelle condizioni previste dall'art. 326 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  
  c) per gli aiuti segretari amministrativi: diploma di maturita' classica o scientifica, conseguito a termini degli attuali ordinamenti scolastici oppure i titoli corrispondenti conseguiti secondo i precedenti ordinamenti scolastici; 
  
- d) per i geometri uno dei seguenti: diploma di abilitazione alla professione di geometra di cui agli [articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_51) e [65 della legge 25 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_65); diploma di abilitazione tecnica in agrimensura secondo l'ordinamento di cui al [Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054); diploma di perito agrimensore conseguito secondo l'ordinamento scolastico sancito dalle disposizioni di legge anteriori a quelle del 1923; diploma di abilitazione di perito edile conseguito secondo le norme del [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e relativo [regolamento 3 giugno 1924, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-06-03;969); diploma di perito industriale edile di cui agli [articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_51) e [65 della legge 25 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_65); 
+ d) per i geometri uno dei seguenti: diploma di abilitazione alla professione di geometra di cui agli [articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_51) e [65 della legge 25 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_65); diploma di abilitazione tecnica in agrimensura secondo l'ordinamento di cui al [Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md); diploma di perito agrimensore conseguito secondo l'ordinamento scolastico sancito dalle disposizioni di legge anteriori a quelle del 1923; diploma di abilitazione di perito edile conseguito secondo le norme del [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e relativo [regolamento 3 giugno 1924, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-06-03;969); diploma di perito industriale edile di cui agli [articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_51) e [65 della legge 25 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_65); 
  
  e) per gli aiuti segretari di ragioneria uno dei seguenti: diploma di abilitazione del corso superiore di Regio istituto tecnico (Sezione commercio e ragioneria); diploma di licenza rilasciato dai Regi istituti commerciali (perito e ragioniere commerciale); diploma di Regio istituto tecnico (sezione ragioneria) conseguito in base agli ordinamenti scolastici anteriori; 
  
@@ -112,7 +112,7 @@ Il 3° e 4° comma dell'art. 4 del predetto Regio decreto sono sostituiti dall'a
  
  g) per gli assistenti uno dei seguenti: licenza di scuola media di primo grado; diploma di computista commerciale; licenza di scuola ginnasiale o tecnica o altro titolo dichiarato equipollente dal Ministero dell'educazione nazionale; oltre ad uno dei titoli suddetti dovra' essere prodotto un certificato dell'opera prestata in qualita' di assistente presso altre Amministrazioni pubbliche od importanti ditte, od altro da cui risulti di avere l'aspirante frequentato una scuola autorizzata per assistenti stradali; 
  
- h) per il personale d'ordine e per i casellanti e bigliettai delle Autostrade uno dei seguenti: diploma di licenza di scuola media inferiore; alcuno dei corrispondenti diplomi ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), o della [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889); licenza da scuola complementare o da scuola professionale di primo grado; altro titolo che sia riconosciuto equipollente dal Ministero dell'educazione nazionale; oltre in ogni caso al diploma di dattilografia; 
+ h) per il personale d'ordine e per i casellanti e bigliettai delle Autostrade uno dei seguenti: diploma di licenza di scuola media inferiore; alcuno dei corrispondenti diplomi ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), o della [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889); licenza da scuola complementare o da scuola professionale di primo grado; altro titolo che sia riconosciuto equipollente dal Ministero dell'educazione nazionale; oltre in ogni caso al diploma di dattilografia; 
  
  i) per il personale subalterno: certificato di licenza elementare.
 In mancanza di tale titolo gli aspiranti saranno sottoposti ad un esame di cultura».
@@ -123,7 +123,7 @@ Nelle assunzioni di cui al precedente articolo sara' anche osservato il disposto
  
  Degli aspiranti ai posti che si renderanno vacanti nelle varie categorie del personale a contratto sara' fatta apposita graduatoria sulla base dei titoli di studio indicati al precedente art. 4, degli altri titoli determinati per legge, di quelli cui si riferisce il primo comma del presente articolo, nonche' di altre eventuali benemerenze. 
  
- Le assunzioni saranno disposte seguendo tale graduatoria. L'[art. 5 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' soppresso.
+ Le assunzioni saranno disposte seguendo tale graduatoria. L'[art. 5 del R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' soppresso.
 
 ## Art. 6.
 
@@ -173,7 +173,7 @@ L'impiegato di nuova assunzione e' sottoposto ad un periodo di prova che in ogni
 
 ## Art. 11.
 
-Il [secondo comma dell'art. 8 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' sostituito dal seguente: 
+Il [secondo comma dell'art. 8 del R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), e' sostituito dal seguente: 
  
  «Al personale a contratto comandato in missione fuori del Comune di residenza viene corrisposta la diaria di soggiorno fuori sede nonche' l'indennita' chilometrica previste dalle norme in vigore per i funzionari di ruolo del grado iniziale del gruppo al quale puo' assimilarsi l'impiegato contrattista. 
  
@@ -183,7 +183,7 @@ Il [secondo comma dell'art. 8 del R. decreto 1° giugno 1928, n. 1139](Ordinamen
 
 ## Art. 12.
 
-Il trattamento di cui all'[art. 7 del R. decreto 1° giugno 1928, n. 1139](Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), non puo' in ogni caso essere accordato se non a funzionari del grado immediatamente inferiore a quello direttivo o ispettivo di cui disimpegnano le funzioni entro i limiti delle vacanze esistenti nel grado superiore, ed esclusivamente per le funzioni connesse ai gradi quinto e sesto. 
+Il trattamento di cui all'[art. 7 del R. decreto 1° giugno 1928, n. 1139](../Regi%20decreti/Ordinamento%20dei%20servizi%20dellAzienda%20autonoma%20statale%20della%20strada.%20028U1139.md), non puo' in ogni caso essere accordato se non a funzionari del grado immediatamente inferiore a quello direttivo o ispettivo di cui disimpegnano le funzioni entro i limiti delle vacanze esistenti nel grado superiore, ed esclusivamente per le funzioni connesse ai gradi quinto e sesto. 
  
  Tale trattamento puo' essere accordato soltanto dopo che il funzionario abbia trascorso nel grado inferiore il tempo minimo richiesto per la promozione.
 

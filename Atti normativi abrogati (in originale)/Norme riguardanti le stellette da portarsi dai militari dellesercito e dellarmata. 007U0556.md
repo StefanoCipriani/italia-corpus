@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I militari dell'esercito e dell'armata in servizio attivo e quelli in congedo richiamati in servizio con decreto Reale o Ministeriale, debbono portare sul bavero dell'abito della rispettiva divisa le stellette a cinque punte come segno della soggezione alla giurisdizione militare, a mente dell'[art. 323 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e 362 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
+I militari dell'esercito e dell'armata in servizio attivo e quelli in congedo richiamati in servizio con decreto Reale o Ministeriale, debbono portare sul bavero dell'abito della rispettiva divisa le stellette a cinque punte come segno della soggezione alla giurisdizione militare, a mente dell'[art. 323 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e 362 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 2.
 
@@ -26,7 +26,7 @@ Il [R. decreto 29 gennaio 1903, n. 37](Disposizioni%20sulluso%20delle%20stellett
 
 ## Art. 5.
 
-Le autorita' militari di terra e di mare e quelle della guardia di finanza denunzieranno all'autorita' giudiziaria le contravvenzioni al presente decreto per l'applicazione delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
+Le autorita' militari di terra e di mare e quelle della guardia di finanza denunzieranno all'autorita' giudiziaria le contravvenzioni al presente decreto per l'applicazione delle pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- L'art. 108-A del vigente regolamento per l'avanzamento dei corpi militari della R. marina, nella dizione approvata coi [Regi decreti 29 giugno 1913, n. 880](Col%20quale%20vengono%20approvate%20le%20modificazioni%20ed%20aggiunte%20al%20regolamento%20approvato%20col%20R.%20decreto%204%20settembre%201898%20n.%20444%20riguardante%20lavanzamento%20nei%20corpi%20militari%20della%20R.%20marina.%20013U0880.md), e [5 marzo 1914, n. 207](Col%20quale%20vengono%20approvate%20alcune%20varianti%20al%20regolamento%20sullavanzamento%20dei%20corpi%20della%20R.%20marina.%20014U0207.md), e' sostituito dal seguente: 
+ L'art. 108-A del vigente regolamento per l'avanzamento dei corpi militari della R. marina, nella dizione approvata coi [Regi decreti 29 giugno 1913, n. 880](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20modificazioni%20ed%20aggiunte%20al%20regolamento%20approvato%20col%20R.%20decreto%204%20settembre%201898%20n.%20444%20riguardante%20lavanzamento%20nei%20corpi%20militari%20della%20R.%20marina.%20013U0880.md), e [5 marzo 1914, n. 207](../Regi%20decreti/Col%20quale%20vengono%20approvate%20alcune%20varianti%20al%20regolamento%20sullavanzamento%20dei%20corpi%20della%20R.%20marina.%20014U0207.md), e' sostituito dal seguente: 
  
  « La Commissione suprema di avanzamento si compone degli ufficiali aventi il grado di ammiraglio, di tutti i vice ammiragli aventi carica a bordo e dei vice ammiragli che ricoprono le cariche di presidente del Consiglio superiore di marina, di capo di stato maggiore della marina e di comandante in capo di dipartimento marittimo. 
  

@@ -42,7 +42,7 @@ Le macchine fornite alle societa', agli enti ed alle persone indicate nell'artic
 ## Art. 5.
 
 Il concessionario deve dare partecipazione all'Amministrazione finanziaria con lettera raccomandata di ogni vendita, locazione o cessione di macchine bollatrici indicando il nome ed il domicilio dell'acquirente, locatario o cessionario.
- Indipendentemente dalle pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il concessionario e' responsabile, in solido con l'utente, della imposta di bollo e delle sanzioni non aventi carattere penale conseguenti ad evasioni ed abusi resi possibili per difetti di costruzione o per imperfetto funzionamento delle macchine o per abusiva fornitura di punzoni in violazione al disposto del secondo comma dell'articolo 4 o per omissione della partecipazione di cui al primo comma del presente articolo.
+ Indipendentemente dalle pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il concessionario e' responsabile, in solido con l'utente, della imposta di bollo e delle sanzioni non aventi carattere penale conseguenti ad evasioni ed abusi resi possibili per difetti di costruzione o per imperfetto funzionamento delle macchine o per abusiva fornitura di punzoni in violazione al disposto del secondo comma dell'articolo 4 o per omissione della partecipazione di cui al primo comma del presente articolo.
 
 ## Art. 6.
 

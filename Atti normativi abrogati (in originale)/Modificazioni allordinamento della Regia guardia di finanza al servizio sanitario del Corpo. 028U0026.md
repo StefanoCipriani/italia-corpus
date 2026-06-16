@@ -12,7 +12,7 @@ vigente: true
 
 Il penultimo comma dell'[art. 2 del R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281#art_2), e' abrogato. 
  
- Il [Primo comma dell'art. 3 del R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281#art_3-com1), modificato dall'[art. 1 del R. decreto 31 dicembre 1923, n.3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_1), e dall'[art. 1 del R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), e' sostituito dal seguente: 
+ Il [Primo comma dell'art. 3 del R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281#art_3-com1), modificato dall'[art. 1 del R. decreto 31 dicembre 1923, n.3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), e dall'[art. 1 del R. decreto-legge 13 febbraio 1927, n. 282](Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20027U0282.md), e' sostituito dal seguente: 
  
  «Il comandante generale della Regia guardia di finanza risiede presso, il Ministero delle finanze, ed e' coadiuvato dal generale di divisione comandante in secondo, da un generale di brigata del Regio esercito a disposizione per la preparazione militare del Corpo, da un ufficio di segreteria, da un ufficio per la polizia tributaria e da un ufficio amministrativo. 
  
@@ -22,7 +22,7 @@ Il penultimo comma dell'[art. 2 del R. decreto 14 giugno 1923, n. 1281](https://
 
 ## Art. 2.
 
-Il [R. decreto 31 dicembre 1923, n. 3171](Ordinamento%20del%20servizio%20sanitario%20per%20il%20corpo%20della%20Regia%20guardia%20di%20finanza.%20023U3171.md), e' abrogato. 
+Il [R. decreto 31 dicembre 1923, n. 3171](../Regi%20decreti/Ordinamento%20del%20servizio%20sanitario%20per%20il%20corpo%20della%20Regia%20guardia%20di%20finanza.%20023U3171.md), e' abrogato. 
  
  L'assistenza sanitaria dei militari della Regia guardia di finanza, e' apprestata presso i reparti e nei luoghi di cura con le norme seguenti.
 
@@ -32,7 +32,7 @@ Un ufficiale Superiore Medico del Regio esercito e' addetto presso il Comando ge
  
  Nei reparti d'istruzione del Corpo il servizio sanitario sara' di massima disimpegnato da un capitano medico del Regio esercito. In via eccezionale il servizio potra' anche essere disimpegnato da un medico civile. Se in sede vi sono altri reparti del Corpo il servizio sanitario per essi sara' disimpegnato dallo stesso medico del reparto di istruzione. 
  
- Agli ufficiali medici del Regio esercito, messi a completa disposizione della Regia guardia di finanza, e' sospesa, per il tempo in cui restano in tale posizione, l'indennita', professionale di cui all'[art. 178 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ Agli ufficiali medici del Regio esercito, messi a completa disposizione della Regia guardia di finanza, e' sospesa, per il tempo in cui restano in tale posizione, l'indennita', professionale di cui all'[art. 178 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Art. 4.
 
@@ -79,7 +79,7 @@ Le spese di cura e' di mantenimento dei militari delle Regia guardia di finanza 
 
 ## Art. 13.
 
-Il [quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_3-com4), [quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_3-com5), [sesto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_3-com6) e [settimo comma dell'art. 3 del R. decreto 31 dicembre 1923, n. 3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_3-com7), sono abrogati e sostituiti dai seguenti tre: 
+Il [quarto](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), [quinto](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), [sesto](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md) e [settimo comma dell'art. 3 del R. decreto 31 dicembre 1923, n. 3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), sono abrogati e sostituiti dai seguenti tre: 
  
  «I sottobrigadieri sono tratti dai militari di truppa che abbiano frequentato con buon esito la Scuola allievi sottufficiali, alla quale potranno essere ammessi, in seguito ad esame, dopo due anni almeno di servizio nel Corpo. 
  
@@ -101,7 +101,7 @@ All'[art. 7 del R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/ur
 
 ## Art. 15.
 
-I due ultimi commi dell'[art. 15 del R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281#art_15) modificato dall'[art.7 del R. decreto 31 dicembre 1923, n. 3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_7), sono sostituiti dai seguenti: 
+I due ultimi commi dell'[art. 15 del R. decreto 14 giugno 1923, n. 1281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1281#art_15) modificato dall'[art.7 del R. decreto 31 dicembre 1923, n. 3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), sono sostituiti dai seguenti: 
  
  «I sottufficiali od i militari di truppa non aventi obblighi di leva, sottoposti a giudizio penale a piede libero, possono essere sospesi dal servizio, allorche' il reato di cui siano imputati offenda il loro decoro od il prestigio del Corpo. In questo caso essi sono considerati in licenza illimitata, col trattamento economico stabilito pei militari detenuti in attesa di giudizio. 
  
@@ -111,7 +111,7 @@ I due ultimi commi dell'[art. 15 del R. decreto 14 giugno 1923, n. 1281](https:/
 
 ## Art. 16.
 
-L'ultimo comma dell'[art. 8 del R. decreto 31 dicembre 1923, n. 3170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3170#art_8), e' sostituito dal seguente: 
+L'ultimo comma dell'[art. 8 del R. decreto 31 dicembre 1923, n. 3170](../Regi%20decreti/Modificazioni%20allordinamento%20della%20Regia%20guardia%20di%20finanza.%20023U3170.md), e' sostituito dal seguente: 
  
  «Per speciali servizi d'indole tecnica o militare possono essere comandati a prestare servizio nel corpo ufficiali o graduati del Regio esercito o della Regia marina di grado non superiore al sesto.
 Ad essi saranno corrisposte le indennita' militare speciale e di alloggio dovute ai pari grado del Corpo».

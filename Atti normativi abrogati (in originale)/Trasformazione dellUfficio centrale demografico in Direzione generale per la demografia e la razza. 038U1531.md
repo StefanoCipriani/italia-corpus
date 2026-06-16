@@ -32,7 +32,7 @@ Sulla proposta del DUCE, Primo Ministro Segretario di Stato, Ministro per l'inte
 
 L'Ufficio centrale demografico, istituito col [R. decreto 7 giugno 1937, n. 1128](Istituzione%20alla%20dipendenza%20del%20Ministero%20dellinterno%20dellUfficio%20centrale%20demografico.%20037U1128.md), e' trasformato in « Direzione generale per la demografia e la razza », costituente una delle ripartizioni organiche del Ministero dell'interno. 
  
- Alla Direzione generale predetta e' preposto un prefetto, scelto fra quelli a disposizione del Ministero dell'interno, a termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_102).
+ Alla Direzione generale predetta e' preposto un prefetto, scelto fra quelli a disposizione del Ministero dell'interno, a termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 2.
 

@@ -159,7 +159,7 @@ L'onere finanziario e' valutato per l'anno 1987 in lire 500 milioni.
 
 1.
 
-I soggetti non appartenenti alla pubblica amministrazione, di cui agli articoli 3, 5, 6 e 8, sono obbligati al segreto di ufficio ai sensi dell'[articolo 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per tutto cio' che venga a loro conoscenza a causa o nell'esercizio dell'attivita' di cui sono incaricati.
+I soggetti non appartenenti alla pubblica amministrazione, di cui agli articoli 3, 5, 6 e 8, sono obbligati al segreto di ufficio ai sensi dell'[articolo 326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per tutto cio' che venga a loro conoscenza a causa o nell'esercizio dell'attivita' di cui sono incaricati.
 
 ## Art. 10. — Tenuta dei registri in forma automatizzata
 

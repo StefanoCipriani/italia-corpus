@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della guer
 
 ## Articolo unico.
 
-All'[art. 9 del R. decreto 30 dicembre 1923, n. 2982](Ordinamento%20della%20Scuola%20di%20guerra%20e%20reclutamento%20degli%20ufficiali%20per%20il%20servizio%20di%20stato%20maggiore.%20023U2982.md), e' sostituito il seguente: 
+All'[art. 9 del R. decreto 30 dicembre 1923, n. 2982](../Regi%20decreti/Ordinamento%20della%20Scuola%20di%20guerra%20e%20reclutamento%20degli%20ufficiali%20per%20il%20servizio%20di%20stato%20maggiore.%20023U2982.md), e' sostituito il seguente: 
  
  «Gli ufficiali contemplati nell'[art. 1 del decreto Luogotenenziale 7 dicembre 1916, n. 1719](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-07;1719#art_1), anche se non trasferiti nel cessato corpo di Stato Maggiore, si considerano equiparati agli ufficiali aventi il titolo di cui all'art. 3. 
  

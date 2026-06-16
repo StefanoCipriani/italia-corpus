@@ -63,8 +63,8 @@ All'emanazione del relativo statuto ai sensi dell'[articolo 8, comma 4, del decr
 
 A V V E R T E N Z A
 
- I presenti regolamenti sono pubblicati, per motivi di massima urgenza, senza note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
- In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 5 giugno 2001 si procedera' alla ripubblicazione del testo dei presenti regolamenti corredati delle relative note, ai sensi dell'[art. 10, comma 3, del decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md).
+ I presenti regolamenti sono pubblicati, per motivi di massima urgenza, senza note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 5 giugno 2001 si procedera' alla ripubblicazione del testo dei presenti regolamenti corredati delle relative note, ai sensi dell'[art. 10, comma 3, del decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md).
 
 ### Art. 2. — Conferenza permanente dei capi dei Dipartimenti
 
@@ -468,7 +468,7 @@ Per l'organizzazione degli uffici di diretta collaborazione del Ministero si app
 
 2.
 
-Ove il suddetto regolamento non sia entrato in vigore alla data di cui all'[articolo 55, comma 1, del decreto legislativo n. 300 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;300#art_55-com1), si applicano le disposizioni di cui agli [articoli da 4](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md) [a 8 del decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md).
+Ove il suddetto regolamento non sia entrato in vigore alla data di cui all'[articolo 55, comma 1, del decreto legislativo n. 300 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;300#art_55-com1), si applicano le disposizioni di cui agli [articoli da 4](../Regolamenti%20governativi/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md) [a 8 del decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../Regolamenti%20governativi/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md).
 
 ### Art. 10. — Verifica dell'organizzazione del Ministero
 

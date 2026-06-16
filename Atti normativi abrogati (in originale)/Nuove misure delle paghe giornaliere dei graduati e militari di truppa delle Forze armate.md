@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 31 dicembre 1928, n. 3458](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), che approva il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi dell'Esercito, e successive modificazioni;
+Visto il [regio decreto 31 dicembre 1928, n. 3458](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md), che approva il testo unico delle disposizioni concernenti gli stipendi ed assegni fissi dell'Esercito, e successive modificazioni;
 
 Visto il [regio decreto-legge 23 marzo 1944, n. 103](Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md), che stabilisce le paghe ordinarie dei militari di truppa dell'Esercito, della Marina e dell'Aeronautica, e successive modificazioni.
 

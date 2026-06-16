@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 4 agosto 1913, n. 1100](Da%20convertirsi%20in%20legge%20concernente%20provvedimenti%20relativi%20alla%20sostituzione%20temporanea%20dei%20funzionari%20ed%20impiegati%20dellAmministrazione%20della%20pubblica%20sicurezza%20inviati%20in%20Libia.%20013U1100.md), relativo alla sostituzione nei corrispondenti ruoli organici dei funzionari ed impiegati dell'Amministrazione di pubblica sicurezza, nonche' degli ufficiali, graduati, guardie scelte, guardie ed agenti sedentari inviati in Libia. 
+ E' convertito in legge il [R. decreto 4 agosto 1913, n. 1100](../Regi%20decreti/Da%20convertirsi%20in%20legge%20concernente%20provvedimenti%20relativi%20alla%20sostituzione%20temporanea%20dei%20funzionari%20ed%20impiegati%20dellAmministrazione%20della%20pubblica%20sicurezza%20inviati%20in%20Libia.%20013U1100.md), relativo alla sostituzione nei corrispondenti ruoli organici dei funzionari ed impiegati dell'Amministrazione di pubblica sicurezza, nonche' degli ufficiali, graduati, guardie scelte, guardie ed agenti sedentari inviati in Libia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Il limite massimo delle annualita' per le pensioni da concedersi nell'esercizio finanziario 1909-910 per i collocamenti a riposo, sia d'autorita', sia per domanda determinata da invito d'ufficio, stabilito in L. 40,000 pel Ministero della marina coll'[art. 4 della legge 20 giugno 1909, n. 350](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20per%20il%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201909-910.%20009U0350.md), agli effetti dell'art. 173 del testo unico delle leggi sulle pensioni, approvato col [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e' aumentato da L. 40,000 a L. 100,000. 
+ Il limite massimo delle annualita' per le pensioni da concedersi nell'esercizio finanziario 1909-910 per i collocamenti a riposo, sia d'autorita', sia per domanda determinata da invito d'ufficio, stabilito in L. 40,000 pel Ministero della marina coll'[art. 4 della legge 20 giugno 1909, n. 350](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20per%20il%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201909-910.%20009U0350.md), agli effetti dell'art. 173 del testo unico delle leggi sulle pensioni, approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' aumentato da L. 40,000 a L. 100,000. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

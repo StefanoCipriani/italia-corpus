@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto del 9 agosto 1910, n. 594](Che%20apporta%20alcune%20modificazioni%20al%20testo%20unico%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20010U0594.md), portante l'aggiunta di una nota al testo unico della tariffa generale dei dazi doganali, e modificazioni al repertorio per l'applicazione della tariffa medesima. 
+ E' convertito in legge il [Regio decreto del 9 agosto 1910, n. 594](../Regi%20decreti/Che%20apporta%20alcune%20modificazioni%20al%20testo%20unico%20della%20tariffa%20generale%20dei%20dazi%20doganali.%20010U0594.md), portante l'aggiunta di una nota al testo unico della tariffa generale dei dazi doganali, e modificazioni al repertorio per l'applicazione della tariffa medesima. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

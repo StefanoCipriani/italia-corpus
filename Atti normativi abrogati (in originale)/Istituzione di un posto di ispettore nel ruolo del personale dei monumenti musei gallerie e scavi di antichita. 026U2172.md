@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto l'[art. 2 del R. decreto-legge 7 gennaio 1926, n. 133](Disposizioni%20relative%20al%20personale%20dei%20monumenti%20dei%20musei%20delle%20gallerie%20e%20degli%20scavi%20di%20antichita.%20026U0133.md); 
  
- Veduti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164) ; 
+ Veduti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md) ; 
  
  Udito il Consiglio di Stato; 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  L'[art. 2 del R. decreto-legge 7 gennaio 1926, n. 133](Disposizioni%20relative%20al%20personale%20dei%20monumenti%20dei%20musei%20delle%20gallerie%20e%20degli%20scavi%20di%20antichita.%20026U0133.md), e' sostituito dal seguente: 
  
- «Il ruolo del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita', di cui alla tabella A annessa al [Regio decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), e' aumentato di un posto di ispettore (gruppo A. - grado 9°). Tale posto potra', nella prima applicazione del presente decreto, essere conferito in seguito a concorso speciale per titoli, con particolare riguardo alle antichita' della Colonia libica. A tale concorso potranno partecipare coloro che prestano servizio nell'Amministrazione dello Stato e che siano in possesso del titolo di studio richesto dall'[art. 20, primo comma, del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_20-com1). 
+ «Il ruolo del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita', di cui alla tabella A annessa al [Regio decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' aumentato di un posto di ispettore (gruppo A. - grado 9°). Tale posto potra', nella prima applicazione del presente decreto, essere conferito in seguito a concorso speciale per titoli, con particolare riguardo alle antichita' della Colonia libica. A tale concorso potranno partecipare coloro che prestano servizio nell'Amministrazione dello Stato e che siano in possesso del titolo di studio richesto dall'[art. 20, primo comma, del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md). 
  
  «Il vincitore del concorso sara' esentato dal periodo di esperimento, ai sensi dell' [art. 2 del R. decreto 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46#art_2), qualora abbia esercitato, per almeno 6 mesi, le attribuzioni proprie del personale di gruppo A del ruolo dei monumenti, musei, gallerie e scavi di antichita'». 
  

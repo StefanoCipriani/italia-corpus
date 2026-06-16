@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164);
+Veduto il [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md);
 
 Ritenuta la necessita' di prendere misure eccezionali per la tutela degli oggetti d'arte medioevale e moderna della Sicilia e per il riordinamento dei servizi relativi;
 

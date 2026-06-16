@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il testo unico delle leggi sugli ufficiali ed agenti di P.
 
-S., approvato con [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690);
+S., approvato con [R. decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md);
 
 Vista la [legge 6 luglio 1911, n. 690](Che%20porta%20i%20provvedimenti%20per%20larma%20dei%20carabinieri%20reali.%20011U0690.md) con la quale si apportano variazioni all'organico ed agli stipendi dei funzionari di P. S., degli ufficiali e degli agenti del corpo delle guardie di citta';
 

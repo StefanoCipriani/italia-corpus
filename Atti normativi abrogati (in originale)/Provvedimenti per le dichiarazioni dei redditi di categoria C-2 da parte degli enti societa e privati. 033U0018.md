@@ -44,13 +44,13 @@ Gli enti, le societa' e le altre persone che, e sensi degli articoli 15, 16 e 17
 
 ## Art. 3.
 
-Gli enti, societa' e persone indicati nel precedente articolo, oltre all'obbligo della consueta dichiarazione dei redditi di categoria C-2, a' sensi del primo ed ultimo comma dell'articolo 3 del testo approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), sono tenuti a presentare, entro il 31 gennaio di ciascun anno, a partire dal 1934, un elenco completo degli emolumenti di qualsiasi natura corrisposti nel precedente anno, assoggettati a ritenuta di rivalsa, colla indicazione nominativa dei percipienti. 
+Gli enti, societa' e persone indicati nel precedente articolo, oltre all'obbligo della consueta dichiarazione dei redditi di categoria C-2, a' sensi del primo ed ultimo comma dell'articolo 3 del testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), sono tenuti a presentare, entro il 31 gennaio di ciascun anno, a partire dal 1934, un elenco completo degli emolumenti di qualsiasi natura corrisposti nel precedente anno, assoggettati a ritenuta di rivalsa, colla indicazione nominativa dei percipienti. 
  
  In base a tale dichiarazione, o di propria iniziativa, l'ufficio delle imposte, eseguiti i relativi controlli, procede annualmente alla tassazione di conguaglio, provvedendo, se richiesto, agli eventuali sgravi, oppure alla iscrizione a ruolo del supplemento d'imposta, da versarsi in unica soluzione alla scadenza normale della prima rata bimestrale successiva alla pubblicazione del ruolo.
 
 ## Art. 4.
 
-Le infrazioni all'obbligo della denuncia di cui al precedente art. 3 sono punite, a' sensi del citato testo approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), con la sovratassa e l'ammenda stabilite degli articoli 15 e 16 del testo stesso aumentate della meta', salve, se del caso, le piu' gravi sanzioni previste dal successivo art. 18. 
+Le infrazioni all'obbligo della denuncia di cui al precedente art. 3 sono punite, a' sensi del citato testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), con la sovratassa e l'ammenda stabilite degli articoli 15 e 16 del testo stesso aumentate della meta', salve, se del caso, le piu' gravi sanzioni previste dal successivo art. 18. 
  
  Il mancato pagamento del conguaglio d'imposta, trattenuta sui redditi di categoria C-2, e' immediatamente passibile delle sanzioni di cui agli articoli 25 a 31 del citato testo. 
  

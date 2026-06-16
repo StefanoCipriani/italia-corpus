@@ -20,7 +20,7 @@ E' modifica del Reale decreto 9 luglio 1914 n. 733, l'autorizzazione della rete 
 
 ## Art. 2.
 
-Tale autorizzazione e' subordinata all'osservanza delle leggi e del regolamento sopracitato, dell'appendice al disciplinare 25 giugno 1914, sottoscritta dal legale rappresentante della Societa' bresciana presso la R. prefettura di Cremona il 10 febbraio 1916, ed inoltre alle disposizioni contenute nello stesso disciplinare 25 giugno 1914, annesso al [R. decreto 9 luglio 1914, n. 733](Col%20quale%20la%20Societa%20elettrica%20bresciana%20e%20autorizzata%20a%20costruire%20e%20ad%20esercitare%20una%20rete%20di%20tramvie%20urbane%20in%20Cremona.%20014U0733.md), in quanto non vengano modificate dall'appendice sopracitata. 
+Tale autorizzazione e' subordinata all'osservanza delle leggi e del regolamento sopracitato, dell'appendice al disciplinare 25 giugno 1914, sottoscritta dal legale rappresentante della Societa' bresciana presso la R. prefettura di Cremona il 10 febbraio 1916, ed inoltre alle disposizioni contenute nello stesso disciplinare 25 giugno 1914, annesso al [R. decreto 9 luglio 1914, n. 733](../Regi%20decreti/Col%20quale%20la%20Societa%20elettrica%20bresciana%20e%20autorizzata%20a%20costruire%20e%20ad%20esercitare%20una%20rete%20di%20tramvie%20urbane%20in%20Cremona.%20014U0733.md), in quanto non vengano modificate dall'appendice sopracitata. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

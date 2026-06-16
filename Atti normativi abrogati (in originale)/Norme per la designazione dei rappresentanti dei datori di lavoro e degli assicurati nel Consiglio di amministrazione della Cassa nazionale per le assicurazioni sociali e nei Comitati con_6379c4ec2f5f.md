@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti gli articoli 6 e 8 del regolamento per l'esecuzione del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), concernente provvedimenti per l'assicurazione obbligatoria contro la invalidita' e la vecchiaia, approvato col [R. decreto 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1422);
+Veduti gli articoli 6 e 8 del regolamento per l'esecuzione del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), concernente provvedimenti per l'assicurazione obbligatoria contro la invalidita' e la vecchiaia, approvato col [R. decreto 28 agosto 1924, n. 1422](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20linvalidita%20e%20la%20vecchiaia.%20024U1422.md);
 
 Sentito il Consiglio di Stato;
 

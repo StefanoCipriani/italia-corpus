@@ -36,7 +36,7 @@ I dazi d'entrata stabiliti nell'annessa tariffa per le merci in essa specificate
 
 Restano in vigore, per la durata in ciascuno di essi indicata, il [R. decreto legge 9 giugno 1921, n.740](Che%20proroga%20fino%20a%20nuova%20disposizione%20labolizione%20temporanea%20del%20dazio%20sul%20frumento%20di%20cui%20al%20R.%20decreto%2031%20gennaio%201915%20n.%2050.%20021U0740.md), concernente la temporanea abolizione del dazio sul frumento e il [R. decreto-legge 3 aprile 1921, n. 430](Che%20proroga%20la%20validita%20delle%20disposizioni%20di%20cui%20allart.%201%20del%20Regio%20decreto-legge%2026%20settembre%201920%20n.%201343%20circa%20limportazione%20nel%20Regno%20in%20esenzione%20da%20dazio%20doganale%20della%20carta%20da%20g_2c88e45a49c0.md), relativo alla temporanea esenzione da dazio della carta da giornali. 
  
- Restano altresi' in vigore la disposizione dell'art. 6 lettera h), e quella dell'art. 11 delle disposizioni preliminari alla tariffa dei dazi doganali, approvate con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md).
+ Restano altresi' in vigore la disposizione dell'art. 6 lettera h), e quella dell'art. 11 delle disposizioni preliminari alla tariffa dei dazi doganali, approvate con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md).
 
 ## Art. 4.
 
@@ -44,7 +44,7 @@ Il trattamento dello zucchero, stabilito dall'annessa tariffa, s'intende fissato
 
 ## Art. 5.
 
-Sono approvati gli allegati B e C, firmati, d'ordine Nostro, dal ministro proponente, coi quali sono modificati, in relazione alla nuova tariffa dei dazi doganali, il testo unico delle disposizioni sulla tare approvato con [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), o le disposizioni sul diritto di statistica, approvate con R. decreto 22 novembre 1914, n, 1289, e successivamente modificate con l'allegato C al [R. decreto-legge 24 novembre 1919, n. 2165](Riguardante%20limposta%20sui%20tessuti%20di%20lusso%20sui%20guanti%20e%20provvedimenti%20relativi%20allimposta%20di%20fabbricazione%20della%20birra%20ecc.%20019U2165.md).
+Sono approvati gli allegati B e C, firmati, d'ordine Nostro, dal ministro proponente, coi quali sono modificati, in relazione alla nuova tariffa dei dazi doganali, il testo unico delle disposizioni sulla tare approvato con [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), o le disposizioni sul diritto di statistica, approvate con R. decreto 22 novembre 1914, n, 1289, e successivamente modificate con l'allegato C al [R. decreto-legge 24 novembre 1919, n. 2165](Riguardante%20limposta%20sui%20tessuti%20di%20lusso%20sui%20guanti%20e%20provvedimenti%20relativi%20allimposta%20di%20fabbricazione%20della%20birra%20ecc.%20019U2165.md).
 
 ## Art. 6.
 

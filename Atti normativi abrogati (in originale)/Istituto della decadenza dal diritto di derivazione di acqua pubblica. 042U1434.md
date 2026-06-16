@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- L'[art. 55 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_55), approvato con R. decreto 11 dicembre 1933-XII, n. 1775, e' sostituito dal seguente: 
+ L'[art. 55 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con R. decreto 11 dicembre 1933-XII, n. 1775, e' sostituito dal seguente: 
  
  «E' in facolta' del Ministro per i lavori pubblici e, nel caso contemplato dalla successiva lettera e) del Ministro per le finanze, di dichiarare la decadenza dal diritto di derivare ed utilizzare l'acqua pubblica: 
  

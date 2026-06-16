@@ -39,7 +39,7 @@ La misura del sussidio post-sanatoriale a favore dei familiari dei lavoratori as
 
 ## Art. 4.
 
-Il sussidio previsto agli articoli 1 e 3 del presente decreto assorbe il sussidio straordinario di disoccupazione previsto dal [regio decreto legislativo 20 maggio 1946, n. 373](Aumenta%20degli%20assegni%20integrativi%20della%20indennita%20di%20disoccupazione%20concessione%20di%20sussidi%20straordinari%20ai%20lavoratori%20involontariamente%20disoccupati%20non%20aventi%20diritto%20alla%20indennita%20predetta.md), e l'indennita' di caropane.
+Il sussidio previsto agli articoli 1 e 3 del presente decreto assorbe il sussidio straordinario di disoccupazione previsto dal [regio decreto legislativo 20 maggio 1946, n. 373](../Regi%20decreti%20legislativi/Aumenta%20degli%20assegni%20integrativi%20della%20indennita%20di%20disoccupazione%20concessione%20di%20sussidi%20straordinari%20ai%20lavoratori%20involontariamente%20disoccupati%20non%20aventi%20diritto%20alla%20indennita%20predetta.md), e l'indennita' di caropane.
 
 ## Art. 5.
 

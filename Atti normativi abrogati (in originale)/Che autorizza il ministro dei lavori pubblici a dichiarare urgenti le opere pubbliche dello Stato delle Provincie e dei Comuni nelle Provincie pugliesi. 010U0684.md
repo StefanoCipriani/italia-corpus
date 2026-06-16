@@ -38,7 +38,7 @@ E' avocata allo Stato la esecuzione delle opere di sistemazione idraulica e fore
 
 ## Art. 5.
 
-Le opere portuali autorizzate dalle [leggi 25 febbraio 1900, n. 56, e 13 marzo 1904, n. 102](Che%20autorizza%20la%20spesa%20straordinaria%20di%20L.%2032000000%20per%20lesecuzione%20di%20nuove%20opere%20marittime.%20004U0102.md), che saranno iniziate nelle Provincie pugliesi durante il corrente esercizio, sono dichiarate obbligatorie agli effetti dell'articolo 13, capoverso 1°, del testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato con [R. decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095).
+Le opere portuali autorizzate dalle [leggi 25 febbraio 1900, n. 56, e 13 marzo 1904, n. 102](Che%20autorizza%20la%20spesa%20straordinaria%20di%20L.%2032000000%20per%20lesecuzione%20di%20nuove%20opere%20marittime.%20004U0102.md), che saranno iniziate nelle Provincie pugliesi durante il corrente esercizio, sono dichiarate obbligatorie agli effetti dell'articolo 13, capoverso 1°, del testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md).
 
 ## Art. 6.
 

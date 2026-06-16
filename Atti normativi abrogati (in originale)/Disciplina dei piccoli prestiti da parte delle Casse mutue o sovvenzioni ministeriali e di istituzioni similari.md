@@ -35,7 +35,7 @@ La procedura di recupero mediante ritenuta diretta, di cui al precedente art. 1,
 
 ## Art. 5.
 
-Ai fini dell'applicazione della presente legge, i prestiti di cui al precedente art. 1, non sono cumulabili fra loro, ne' con quelli di cui all'art. 4 e possono essere cumulati solamente con la eventuale cessione del quinto dello stipendio o salario contratta con l'E.N.P.A.S. o con altro Istituto ammesso a concedere prestiti ai sensi dell'art. 15 del testo unico approvato con [decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md).
+Ai fini dell'applicazione della presente legge, i prestiti di cui al precedente art. 1, non sono cumulabili fra loro, ne' con quelli di cui all'art. 4 e possono essere cumulati solamente con la eventuale cessione del quinto dello stipendio o salario contratta con l'E.N.P.A.S. o con altro Istituto ammesso a concedere prestiti ai sensi dell'art. 15 del testo unico approvato con [decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md).
 
 ## Art. 6.
 
@@ -43,7 +43,7 @@ Il tasso d'interesse annuo per le operazioni di prestito di cui al precedente ar
 
 ## Art. 7.
 
-Sono altresi' ammessi a compiere operazioni di piccolo prestito ai dipendenti statali, di cui alla presente legge, gli enti, con le rispettive organizzazioni centrali, contemplati dall'[art. 15 del decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md), che approva il testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti delle pubbliche Amministrazioni.
+Sono altresi' ammessi a compiere operazioni di piccolo prestito ai dipendenti statali, di cui alla presente legge, gli enti, con le rispettive organizzazioni centrali, contemplati dall'[art. 15 del decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md), che approva il testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti delle pubbliche Amministrazioni.
  Gli enti suddetti possono delegare previa autorizzazione dei competenti organi di vigilanza, in quanto occorra, il compimento delle operazioni di piccoli prestiti ad enti fiduciari e commissionari.
  Il tasso annuo di interesse non potra' superare l'8,50 per cento comprensivo di ogni onere accessorio fiscale, assicurativo e di ogni spesa.
  Sono estese ai piccoli prestiti la procedura di recupero mediante ritenuta diretta di cui al precedente art. 1 e le disposizioni di cui agli articoli 3 e 5 della presente legge.

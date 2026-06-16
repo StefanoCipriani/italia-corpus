@@ -115,7 +115,7 @@ Per la esecuzione dei piani di ampliamento e costruzione di case popolari, la Ca
  
  La differenza tra il detto saggio d'interesse e quello normale stabilito annualmente per i mutui della Cassa depositi e prestiti, sara' corrisposta dallo Stato e fara' carico al bilancio del ministero dell'interno. 
  
- Tale contributo per quanto concerne la costruzione di case popolari, sostituisce quello di cui all'art. 18 del testo unico approvato con [regio decreto 27 febbraio 1908, n. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md). 
+ Tale contributo per quanto concerne la costruzione di case popolari, sostituisce quello di cui all'art. 18 del testo unico approvato con [regio decreto 27 febbraio 1908, n. 89](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md). 
  
  La somministrazione dei mutui sara' effettuata con le modalita' stabilite dalle leggi e dai regolamenti vigenti per le opere igieniche eseguite con il concorso dello Stato.
 
@@ -129,7 +129,7 @@ I piani di ampliamento dei nuovi quartieri operai saranno approvati nei modi ind
 
 ### Art. 11.
 
-Per quanto non sia diversamente stabilito si osserveranno le disposizioni relative alle case popolari ed economiche contenete nel tosto unico e nel regolamento, rispettivamente approvati con [regi decreti 27 febbraio 1908, n. 89](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md), e [12 agosto 1908, n. 528](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20testo%20unico%2027%20febbraio%201908%20n.%2089%20sulle%20case%20popolari%20o%20economiche.%20008U0528.md). 
+Per quanto non sia diversamente stabilito si osserveranno le disposizioni relative alle case popolari ed economiche contenete nel tosto unico e nel regolamento, rispettivamente approvati con [regi decreti 27 febbraio 1908, n. 89](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sulle%20case%20popolari%20o%20economiche.%20008U0089.md), e [12 agosto 1908, n. 528](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20testo%20unico%2027%20febbraio%201908%20n.%2089%20sulle%20case%20popolari%20o%20economiche.%20008U0528.md). 
  
  Tuttavia sara' in facolta' del ministro dell'industria, commercio e lavoro, di concerto col ministro dell'interno, di consentire deroghe alle disposizioni dell'articolo 18 - secondo capoverso - del testo unico o degli articoli 4, 5 e 15 del regolamento sopra citati.
 
@@ -205,7 +205,7 @@ Il Comune di Napoli e' autorizzato a richiedere l'approvazione di un nuovo piano
 
 Le norme del presente capo si applicheranno anche per la costruzione e per l'adattamento di edifici da destinarsi a sede di ospedali, sanatori e tubercolosari, dei quali venga promossa la istituzione, nel termine di tre anni dalla entrata in vigore del presente decreto, da enti morali debitamente riconosciuti. 
  
- L'approvazione data dal prefetto alla scelta dell'area o dell'edificio, o del progetto dei lavori, ai sensi dell'[art. 65 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_65) primo agosto 1907, n. 636 o del [decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910), equivale a dichiarazione di pubblica utilita'. 
+ L'approvazione data dal prefetto alla scelta dell'area o dell'edificio, o del progetto dei lavori, ai sensi dell'[art. 65 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) primo agosto 1907, n. 636 o del [decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910), equivale a dichiarazione di pubblica utilita'. 
  
  Il provvedimento del prefetto e' definitivo.
 
@@ -244,11 +244,11 @@ Il Governo del Re e' autorizzato ad istituire, con decorrenza dal primo ottobre 
 Il ministro della istruzione pubblica e' autorizzato a stipulare con l'amministrazione comunale di Napoli apposita convenzione per la assunzione da parte dello Stato dello cinque scuole tecniche pareggiate municipali attualmente esistenti in Napoli, cioe' la «G.
 B. Della Porta», la «F. Gioia», la «F. Caracciolo», la «R. Borghi», e la «F. De Santis» con effetto dal 1° ottobre 1919, verso il pagamento a carico del comune di Napoli di uri contributo di L. 130,000 senza alcuna detrazione per tasso scolastiche. 
  
- Il Comune di Napoli dovra' altresi' provvedere le predette scuole e quelle che si costituissero per il loro sdoppiamento, a termini del [regio decreto 25 luglio 1907, n. 645](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md), di locali idonei, curandone la manutenzione, di arredamento e suppellettile scolastica, del personale di segreteria e subalterno, di acqua, di illuminazione e di riscaldamento.
+ Il Comune di Napoli dovra' altresi' provvedere le predette scuole e quelle che si costituissero per il loro sdoppiamento, a termini del [regio decreto 25 luglio 1907, n. 645](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md), di locali idonei, curandone la manutenzione, di arredamento e suppellettile scolastica, del personale di segreteria e subalterno, di acqua, di illuminazione e di riscaldamento.
 
 ### Art. 30.
 
-Il personale di ruolo delle predette scuole tecniche pareggiate, avvenendo la regificazione di esse, sara' assunto dallo Stato, in seguito a risultato favorevole di una ispezione governativa, ed avra' la condizione giuridica indicata dall'art. 22 del regolamento approvato con [regio decreto 15 settembre 1907, n. 652](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20conversione%20in%20governative%20delle%20scuole%20medie%20dipendenti%20da%20Provincie%20Comuni%20ed%20altri%20enti%20morali%20e%20su_222f9a0b508d.md). 
+Il personale di ruolo delle predette scuole tecniche pareggiate, avvenendo la regificazione di esse, sara' assunto dallo Stato, in seguito a risultato favorevole di una ispezione governativa, ed avra' la condizione giuridica indicata dall'art. 22 del regolamento approvato con [regio decreto 15 settembre 1907, n. 652](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20conversione%20in%20governative%20delle%20scuole%20medie%20dipendenti%20da%20Provincie%20Comuni%20ed%20altri%20enti%20morali%20e%20su_222f9a0b508d.md). 
  
  Il predetto personale avra' gli obblighi d'orario prescritti dalle disposizioni vigenti nelle scuole tecniche governative e non mai inferiori a quelli contemplati dalla [legge 8 aprile 1900, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-04-08;142), qualora l'insegnante possa optare ed opti per la predetta legge. 
  

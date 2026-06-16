@@ -14,9 +14,9 @@ Veduta la [legge 30 maggio 1875, n. 2513](Che%20estende%20lobbligo%20della%20isc
 
 Veduto il [decreto Ministeriale 25 dicembre 1875, n. 2869](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1875-12-25;2869), col quale vennero stabilite le propine per gli esami nelle Universita' e negli Istituti superiori;
 
-Veduto il regolamento generale universitario ed i regolamenti speciali delle Facolta' e delle scuole di applicazione per gli ingegneri approvati col [R. decreto 8 ottobre 1876, n. 3434](Che%20approva%20il%20regolamento%20generale%20universitario%20ed%20i%20regolamenti%20speciali%20delle%20facolta%20e%20delle%20scuole%20di%20applicazione%20per%20gli%20ingegneri.%20076U3434.md);
+Veduto il regolamento generale universitario ed i regolamenti speciali delle Facolta' e delle scuole di applicazione per gli ingegneri approvati col [R. decreto 8 ottobre 1876, n. 3434](../Regi%20decreti/Che%20approva%20il%20regolamento%20generale%20universitario%20ed%20i%20regolamenti%20speciali%20delle%20facolta%20e%20delle%20scuole%20di%20applicazione%20per%20gli%20ingegneri.%20076U3434.md);
 
-Veduto il [Regio decreto 20 ottobre 1876, n. 3433](Contenente%20disposizioni%20varie%20sulle%20tasse%20universitarie.%20076U3433.md), che contiene le disposizioni relative alla distribuzione ed al pagamento delle tasse universitarie;
+Veduto il [Regio decreto 20 ottobre 1876, n. 3433](../Regi%20decreti/Contenente%20disposizioni%20varie%20sulle%20tasse%20universitarie.%20076U3433.md), che contiene le disposizioni relative alla distribuzione ed al pagamento delle tasse universitarie;
 
 Ritenuto che per le modificazioni portate dai nuovi regolamenti al sistema degli esami, e specialmente al modo onde si compongono le Commissioni esaminatrici, il decreto 25 dicembre 1875 sopra citato non e' piu' applicabile;
 

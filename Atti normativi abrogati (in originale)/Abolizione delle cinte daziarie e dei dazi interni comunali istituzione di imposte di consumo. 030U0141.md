@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e successive modificazioni;
+Visto il [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e successive modificazioni;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,12 +26,12 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-A decorrere dal primo aprile 1930 sono abolite le cinte daziarie dei Comuni chiusi e sono inoltre aboliti in tutti i Comuni del Regno, salvo il disposto dell'articolo seguente, i dazi di consumo istituiti dai Comuni, a termini dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e delle leggi e dei decreti successivamente emanati. 
+A decorrere dal primo aprile 1930 sono abolite le cinte daziarie dei Comuni chiusi e sono inoltre aboliti in tutti i Comuni del Regno, salvo il disposto dell'articolo seguente, i dazi di consumo istituiti dai Comuni, a termini dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e delle leggi e dei decreti successivamente emanati. 
  Dalla stessa data e' pure abolito l'addizionale comunale di cui ai [Regi decreti 13 febbraio 1925, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-13;117), [6 maggio 1926, n. 769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-06;769), e [24 settembre 1925, n. 2112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-24;2112).
 
 ## Art. 2.
 
-I Comuni sono autorizzati a riscuotere imposte di consumo sui seguenti generi: bevande vinose ed alcooliche, birra, acque minerali da tavola ed acque gassose, carni, gas-luce, energia elettrica, e materiali da costruzione, entro i limiti indicati nella tariffa annessa al presente decreto e con le modalita' stabilite nell'allegato A. al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), modificato coll'art. 16 del presente decreto. 
+I Comuni sono autorizzati a riscuotere imposte di consumo sui seguenti generi: bevande vinose ed alcooliche, birra, acque minerali da tavola ed acque gassose, carni, gas-luce, energia elettrica, e materiali da costruzione, entro i limiti indicati nella tariffa annessa al presente decreto e con le modalita' stabilite nell'allegato A. al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), modificato coll'art. 16 del presente decreto. 
  La deliberazione dell'Amministrazione comunale, con cui viene adottata la tariffa nei limiti predetti ovvero cogli aumenti previsti nell'art. 10, e' immediatamente esecutoria anche in pendenza dell'approvazione dell'autorita' di tutela. 
  In ogni caso, anche se non sia stata adottata alcuna deliberazione, la tariffa allegata al presente decreto entra in vigore di pieno diritto in tutti i Comuni e per tutti i generi dalla data indicata all'art. 1, e, per la riscossione delle imposte sulle bevande e sulle carni nei Comuni chiusi, dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno. 
  Sino a quando non sia approvata la nuova classificazione dei Comuni, rimane ferma la classificazione in vigore per la riscossione dei dazi di consumo.
@@ -44,16 +44,16 @@ L'addizionale governativa sulle bevande vinose ed alcooliche e sulla birra, isti
 
 ## Art. 4.
 
-Per la riscossione delle imposte di consumo, di cui all'art. 2, nei Comuni che erano chiusi sino all'entrata in vigore del presente decreto, dai commercianti all'ingrosso ed al minuto di bevande vinose ed alcooliche, di birra, di acque minerali e gassose, di carni, saranno presentate al competente ufficio, nel termine di otto giorni dalla data di pubblicazione del presente decreto, le dichiarazioni di esercizio e di rimanenze rispettivamente previste negli articoli 193 e 216 del regolamento approvato con [R. decreto 25 febbraio 1924, n. 540](Approvazione%20del%20regolamento%20per%20la%20riscossione%20dei%20dazi%20Interni%20di%20consumo.%20024U0540.md). 
+Per la riscossione delle imposte di consumo, di cui all'art. 2, nei Comuni che erano chiusi sino all'entrata in vigore del presente decreto, dai commercianti all'ingrosso ed al minuto di bevande vinose ed alcooliche, di birra, di acque minerali e gassose, di carni, saranno presentate al competente ufficio, nel termine di otto giorni dalla data di pubblicazione del presente decreto, le dichiarazioni di esercizio e di rimanenze rispettivamente previste negli articoli 193 e 216 del regolamento approvato con [R. decreto 25 febbraio 1924, n. 540](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20dei%20dazi%20Interni%20di%20consumo.%20024U0540.md). 
  Nei dieci giorni successivi per i Comuni di 3ª e 4ª classe e nei venti giorni successivi per quelli di 1ª e 2ª classe, l'Amministrazione procedera' alla ricognizione dei locali di esercizio ed all'accertamento delle rimanenze, sulle quali e' dovuta l'imposta limitatamente alla differenza tra l'imposta medesima ed il dazio preesistente. Dalla data indicata nel precedente comma e sino al compimento di dette operazioni, la riscossione dell'imposta sui generi sopraindicati sara' fatta col regime di Comune chiuso. 
  Nei predetti Comuni chiusi, che riscuotevano il dazio sui materiali da costruzione all'introduzione dei materiali stessi in cinta, per i lavori in corso alla data sopraindicata deve essere presentata, a cura degli interessati, nel termine indicato nel primo comma, denunzia dei lavori effettivamente compiuti, dei materiali esistenti in cantiere e dei lavori ancora da eseguire. Sui lavori compiuti e sui materiali in cantiere non e' dovuta imposta; sui lavori ancora da eseguire la imposta e' percetta a computo metrico, in base a liquidazione da farsi a fabbrica ultimata. 
  In caso di omessa presentazione delle dichiarazioni e delle denunzie prescritte dal presente articolo, l'Amministrazione procedera' di ufficio agli accertamenti necessari. 
- La detta omissione e' punibile con ammenda da lire cinquanta a lire cinquecento da applicarsi con le norme stabilite dagli articoli 54 e 55 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md).
+ La detta omissione e' punibile con ammenda da lire cinquanta a lire cinquecento da applicarsi con le norme stabilite dagli articoli 54 e 55 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md).
 
 ## Art. 5.
 
 Per la riscossione delle imposte di consumo, di cui all'articolo 2, nei Comuni che erano aperti anteriormente all'entrata in vigore del presente decreto, continueranno a rimanere valide le licenze di esercizio rilasciate precedentemente ai commercianti al minuto agli effetti del dazio consumo, e continueranno del pari a rimanere in vigore, sino alla scadenza convenuta, le convenzioni di abbonamento gia' stipulate. 
- Queste ultime dovranno essere rivedute in conseguenza dell'applicazione delle disposizioni del presente decreto, e per la definizione delle eventuali controversie tra l'Amministrazione ed i contribuenti sara' adottata la procedura stabilita nell'art. 29 dell'allegato A. al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md). 
+ Queste ultime dovranno essere rivedute in conseguenza dell'applicazione delle disposizioni del presente decreto, e per la definizione delle eventuali controversie tra l'Amministrazione ed i contribuenti sara' adottata la procedura stabilita nell'art. 29 dell'allegato A. al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md). 
  Ai commercianti all'ingrosso si applicano le disposizioni dell'articolo precedente per quanto si riferisce alle dichiarazioni di esercizio e di rimanenze, alla ricognizione dei locali ed all'accertamento delle rimanenze, sulle quali l'imposta e' percetta secondo le norme del presente decreto.
 
 ## Art. 6.
@@ -129,11 +129,11 @@ La Commissione centrale per la finanza locale, istituita dall'[art. 22 del R. de
 ## Art. 15.
 
 La Commissione, di cui all'articolo precedente, oltre le attribuzioni che le competono per legge, e' chiamata a dare parere su tutte le questioni relative alla finanza locale che siano sottoposte al suo esame dai Ministri per le finanze e per l'interno. 
- Sono inoltre trasferite alla Commissione stessa tutte le attribuzioni della Commissione istituita con l'art. 87 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), modificato col [R. decreto 24 maggio 1924, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-24;977). Per i Comuni danneggiati dal terremoto, l'Amministrazione provinciale di Zara e i Comuni di Zara e Lagosta le suddette attribuzioni saranno esercitate da una sottocommissione di tre membri da nominarsi dal presidente, alla quale sono aggregati due funzionari da designarsi rispettivamente dai Ministri per le finanze e dei lavori pubblici ed i capi dei servizi amministrativi e di ragioneria del terremoto al Ministero dell'interno: quest'ultimo funzionario avra' altresi' l'ufficio di segretario.
+ Sono inoltre trasferite alla Commissione stessa tutte le attribuzioni della Commissione istituita con l'art. 87 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), modificato col [R. decreto 24 maggio 1924, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-24;977). Per i Comuni danneggiati dal terremoto, l'Amministrazione provinciale di Zara e i Comuni di Zara e Lagosta le suddette attribuzioni saranno esercitate da una sottocommissione di tre membri da nominarsi dal presidente, alla quale sono aggregati due funzionari da designarsi rispettivamente dai Ministri per le finanze e dei lavori pubblici ed i capi dei servizi amministrativi e di ragioneria del terremoto al Ministero dell'interno: quest'ultimo funzionario avra' altresi' l'ufficio di segretario.
 
 ## Art. 16.
 
-Agli articoli 2, secondo comma, 5, secondo comma, 9, 15, 16, 22, 30, terzo comma, 31, 37, 39, primo comma, 40, 43, 46, 48, 59, 61, 69, 71, 73, 74, 75, primo comma, 81 e 86 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), sono sostituiti i seguenti: 
+Agli articoli 2, secondo comma, 5, secondo comma, 9, 15, 16, 22, 30, terzo comma, 31, 37, 39, primo comma, 40, 43, 46, 48, 59, 61, 69, 71, 73, 74, 75, primo comma, 81 e 86 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), sono sostituiti i seguenti: 
  Articolo 2 (secondo comma): 
  E' invece obbligatoria per i Comuni quando intendono applicare la sovrimposta ai tributi diretti fondiari. 
  Articolo 5 (secondo comma): 
@@ -214,7 +214,7 @@ Agli articoli 2, secondo comma, 5, secondo comma, 9, 15, 16, 22, 30, terzo comma
  Le Amministrazioni ferroviarie e tramviarie, i proprietari e conduttori delle merci sono obbligati, come civilmente responsabili al pagamento, oltre che della imposta, anche delle multe e delle spese processuali relative a contravvenzioni nelle quali sieno incorsi, nell'adempimento del proprio servizio, i loro agenti non solventi; e cosi' pure i capitani dei bastimenti per i loro equipaggi. 
  Articolo 59: 
  L'azione per le contravvenzioni in frode si prescrive entro tre anni dal giorno in cui fu commessa la contravvenzione; quella per le altre contravvenzioni si prescrive in due anni. 
- Gli atti giudiziari contemplati nell'[art. 93 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) interrompono la prescrizione. 
+ Gli atti giudiziari contemplati nell'[art. 93 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) interrompono la prescrizione. 
  Articolo 61: 
  I Comuni possono assumere la gestione diretta delle imposte di consumo. Per la gestione predetta i Comuni possono riunirsi in consorzio secondo le norme da stabilirsi nel regolamento. 
  Nei Comuni di quarta classe, con l'autorizzazione del prefetto, la riscossione delle imposte di consumo in economia puo' farsi mediante convenzioni di abbonamento obbligatorio con gli esercenti e con i privati, secondo le norme stabilite nel precedente articolo 29. 
@@ -257,13 +257,13 @@ Con decreto Reale, sulla proposta del Ministro per le finanze, saranno introdott
 
 ## Art. 18.
 
-Sono abrogati gli articoli 6, 8, 10, 11, 12, 13, 14, 18, 19, 20, 23, 24, 25, 26, 38, 64, 66, 82, 87 e 88 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e tutte le disposizioni di legge successivamente emanate per i dazi comunali di consumo che siano contrarie od incompatibili con quelle del presente decreto. 
+Sono abrogati gli articoli 6, 8, 10, 11, 12, 13, 14, 18, 19, 20, 23, 24, 25, 26, 38, 64, 66, 82, 87 e 88 dell'allegato A al [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), e tutte le disposizioni di legge successivamente emanate per i dazi comunali di consumo che siano contrarie od incompatibili con quelle del presente decreto. 
  Nulla e' innovato alle speciali disposizioni vigenti in materia daziaria per i Comuni di Zara, Lagosta, Fiume e per i Comuni della riviera del Carnaro. 
  Il Governo del Re e' autorizzato: 
  a) ad emanare norme integrative ed interpretative, anche in deroga a disposizioni in vigore, per la esecuzione del presente decreto; 
  b) a coordinare e riunire in testo unico le disposizioni del presente decreto con quelle ancora in vigore dell'allegato A sopra citato, con facolta' di modificarle e di integrarle per metterle in armonia con le norme ed i concetti informatori del presente decreto; 
  c) a pubblicare un regolamento generale per l'esecuzione del predetto testo unico. 
- Sino a quando non sia pubblicato il predetto regolamento, in quanto non siano contrarie od incompatibili con quelle del presente decreto, rimangono in vigore le disposizioni del regolamento approvate con [R. decreto 25 febbraio 1924, n. 540](Approvazione%20del%20regolamento%20per%20la%20riscossione%20dei%20dazi%20Interni%20di%20consumo.%20024U0540.md), che possono essere integrate con istruzioni provvisorie del Ministro per le finanze aventi carattere obbligatorio.
+ Sino a quando non sia pubblicato il predetto regolamento, in quanto non siano contrarie od incompatibili con quelle del presente decreto, rimangono in vigore le disposizioni del regolamento approvate con [R. decreto 25 febbraio 1924, n. 540](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20dei%20dazi%20Interni%20di%20consumo.%20024U0540.md), che possono essere integrate con istruzioni provvisorie del Ministro per le finanze aventi carattere obbligatorio.
 
 ## Art. 19.
 

@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 24 ottobre 1935-XIII, n. 2040, concernente le attribuzioni del Ministero per la stampa e la propaganda in materia di sequestri di stampati ([articolo 112 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_112) approvato con R. decreto 18 giugno 1931-IX, n. 773). 
+ E' convertito in legge il R. decreto-legge 24 ottobre 1935-XIII, n. 2040, concernente le attribuzioni del Ministero per la stampa e la propaganda in materia di sequestri di stampati ([articolo 112 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con R. decreto 18 giugno 1931-IX, n. 773). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

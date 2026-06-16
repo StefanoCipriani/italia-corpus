@@ -49,7 +49,7 @@ Le copie di atti o certificati, anche se ottenute con procedimenti meccanici o f
 ## Art. 7.
 
 In tutti i casi nei quali e' richiesto dalle disposizioni vigenti, l'atto di notorieta' puo' essere supplito da dichiarazione resa e sottoscritta dall'interessato dinanzi al notaio, al segretario comunale o al funzionario competente a ricevere la documentazione.
- In caso di mendaci dichiarazioni, si applicano le pene stabilite dall'[art. 496 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di mendaci dichiarazioni, si applicano le pene stabilite dall'[art. 496 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 
@@ -78,7 +78,7 @@ Nei casi previsti dagli articoli 9, 10 e 11 si applica al funzionario legalizzan
 
 ## Art. 13.
 
-Nulla e' innovato alle norme del [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), concernenti la presentazione dei documenti necessari per la celebrazione del matrimonio, nonche' alle norme del [decreto del Presidente della Repubblica 24 giugno 1954, n. 368](../DPR/Norme%20per%20la%20presentazione%20dei%20documenti%20nei%20concorsi%20per%20le%20carriere%20statali.md), e successive, sulla presentazione dei documenti nei concorsi per le carriere statali. 
+Nulla e' innovato alle norme del [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), concernenti la presentazione dei documenti necessari per la celebrazione del matrimonio, nonche' alle norme del [decreto del Presidente della Repubblica 24 giugno 1954, n. 368](../DPR/Norme%20per%20la%20presentazione%20dei%20documenti%20nei%20concorsi%20per%20le%20carriere%20statali.md), e successive, sulla presentazione dei documenti nei concorsi per le carriere statali. 
  Sono abrogate le disposizioni della [legge 3 dicembre 1942, n. 1700](Norme%20sulla%20legalizzazione%20di%20firme.%20042U1700.md), incompatibili con quelle del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

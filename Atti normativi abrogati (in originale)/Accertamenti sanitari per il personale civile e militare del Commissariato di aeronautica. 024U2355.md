@@ -18,7 +18,7 @@ Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissaria
 
 Visto il [R. decreto 24 gennaio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-24;70), che approva il testo unico delle leggi sulle pensioni civili e militari e le sue successive modificazioni;
 
-Visto il [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), che approva il regolamento per la esecuzione del testo unico predetto;
+Visto il [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), che approva il regolamento per la esecuzione del testo unico predetto;
 
 Udito il Consiglio dei Ministri;
 

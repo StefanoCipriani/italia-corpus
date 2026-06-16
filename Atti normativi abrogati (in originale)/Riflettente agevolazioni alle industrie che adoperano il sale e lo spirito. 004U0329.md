@@ -22,7 +22,7 @@ Nel caso di abusi o di violazione delle norme e condizioni stabilite per l'uso d
 
 ## Art. 3.
 
-In eccezione agli art. 1° del testo unico della legge sulle privative, approvato con [R. decreto 15 giugno 1865, n. 2397](Con%20cui%20si%20manda%20pubblicare%20una%20nuova%20edizione%20ufficiale%20della%20Legge%2013%20luglio%201862%20sulla%20privativa%20dei%20sali%20e%20tabacchi%20con%20le%20variazioni%20ed%20aggiunte%20sancite%20da%20quella%20del%2015%20giugno%201865%20_0bb9e8c24eaf.md), e 13 della [legge 6 luglio 1883, n. 1445](Riforma%20la%20tariffa%20doganale.%20083U1445.md), sara' permesso di estrarre dalle acque minerali saline, sempre quando il Consiglio superiore di sanita' le riconosca, caso per caso, di ineccepibile efficacia terapeutica, il sale o miscele saline, per essere venduti esclusivamente a scopo igienico e curativo. 
+In eccezione agli art. 1° del testo unico della legge sulle privative, approvato con [R. decreto 15 giugno 1865, n. 2397](../Regi%20decreti/Con%20cui%20si%20manda%20pubblicare%20una%20nuova%20edizione%20ufficiale%20della%20Legge%2013%20luglio%201862%20sulla%20privativa%20dei%20sali%20e%20tabacchi%20con%20le%20variazioni%20ed%20aggiunte%20sancite%20da%20quella%20del%2015%20giugno%201865%20_0bb9e8c24eaf.md), e 13 della [legge 6 luglio 1883, n. 1445](Riforma%20la%20tariffa%20doganale.%20083U1445.md), sara' permesso di estrarre dalle acque minerali saline, sempre quando il Consiglio superiore di sanita' le riconosca, caso per caso, di ineccepibile efficacia terapeutica, il sale o miscele saline, per essere venduti esclusivamente a scopo igienico e curativo. 
  
  Questo permesso non sara' accordato se non in quanto risulti che nelle vicinanze delle polle o sorgenti saline esista apposito stabilimento chiuso, ove possa esercitarsi permanentemente una speciale vigilanza da parte degli agenti di finanza, la cui spesa sara', a carico dei produttori.
 
@@ -36,7 +36,7 @@ Tanto il sale estratto dalle acque minerali, quanto le miscele saline contenenti
 
 ## Art. 5.
 
-All'articolo 13, del testo unico della legge sugli spiriti, approvato con [R. decreto del 30 gennaio 1896, n. 26](Che%20approva%20il%20Testo%20della%20legge%20sugli%20Spiriti.%20096U0026.md), e' aggiunto il seguente comma: 
+All'articolo 13, del testo unico della legge sugli spiriti, approvato con [R. decreto del 30 gennaio 1896, n. 26](../Regi%20decreti/Che%20approva%20il%20Testo%20della%20legge%20sugli%20Spiriti.%20096U0026.md), e' aggiunto il seguente comma: 
  
  «Con decreto Reale, udito il Consiglio di Stato, potranno essere ammessi altri prodotti a fruire, quando si esportano, della restituzione dell'intiera tassa di fabbricazione o della sopratassa sugli spiriti impiegati nella loro fabbricazione. La misura della restituzione e le norme da osservare saranno stabilite con lo stesso R. decreto».
 

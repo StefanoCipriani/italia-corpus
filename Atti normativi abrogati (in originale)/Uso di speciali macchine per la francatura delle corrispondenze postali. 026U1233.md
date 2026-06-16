@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il nuovo testo unico delle leggi postali, approvato col [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e le successive modificazioni;
+Visto il nuovo testo unico delle leggi postali, approvato col [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e le successive modificazioni;
 
 Visti la Convenzione e gli Accordi internazionali firmati a Stoccolma addi' 28 agosto 1924, mandati in vigore col [R. decreto-legge n. 1428 del 29 luglio 1925](Convenzione%20ed%20Accordi%20postali%20internazionali%20stipulati%20a%20Stoccolma%20il%2028%20agosto%201924.%20025U1428.md), approvato con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
@@ -42,7 +42,7 @@ La fabbricazione dei punzoni destinati a produrre le impronte affrancatrici e' r
 
 ## Art. 3.
 
-Le disposizioni degli [articoli dal 266](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [al 272](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 274 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche ove si tratti di bolli o di punzoni delle macchine affrancatrici o delle impronte relative.
+Le disposizioni degli [articoli dal 266](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [al 272](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dell'[articolo 274 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche ove si tratti di bolli o di punzoni delle macchine affrancatrici o delle impronte relative.
 
 ## Art. 4.
 

@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  Visto il [R. decreto 5 novembre 1931, n. 1439](Determinazione%20del%20numero%20degli%20assessori%20per%20i%20circoli%20di%20Corte%20di%20assise%20compresi%20nel%20distretto%20della%20Corte%20dappello%20di%20Palermo.%20031U1439.md), col quale e' stata approvata la nuova tabella, che determina il numero degli assessori per i circoli di Corte di assise compresi nel distretto della Corte di appello di Palermo; 
  
  
- Visto il [R. decreto 11 maggio 1933, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-11;451), col quale dal 1° giugno 1933 la sede di normale convocazione e la circoscrizione territoriale delle Sezioni della Corte di appello di Palermo in funzione di Corte di assise sono determinate dalla tabella A annessa a detto decreto; 
+ Visto il [R. decreto 11 maggio 1933, n. 451](../Regi%20decreti/Modificazioni%20alla%20circoscrizione%20territoriale%20dei%20Circoli%20di%20Corte%20dassise%20nel%20distretto%20della%20Corte%20dappello%20di%20Palermo%20ed%20alle%20piante%20organiche%20della%20magistratura%20per%20i%20tribunali%20di%20Be_351f3e941060.md), col quale dal 1° giugno 1933 la sede di normale convocazione e la circoscrizione territoriale delle Sezioni della Corte di appello di Palermo in funzione di Corte di assise sono determinate dalla tabella A annessa a detto decreto; 
  
  
  Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia; 

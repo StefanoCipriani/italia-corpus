@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto il [Regio decreto 14 giugno 1885 n. 3208](Sulle%20ammissioni%20e%20promozioni%20negli%20impieghi%20del%20Ministero%20di%20Agricoltura%20Industria%20e%20Commercio.%20085U3208.md) (serie 3ª), concernente il personale del Ministero di Agricoltura, Industria e Commercio;
 
-Visto il [Regio decreto 5 settembre 1895 n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), col quale fu approvato il regolamento per le pensioni;
+Visto il [Regio decreto 5 settembre 1895 n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), col quale fu approvato il regolamento per le pensioni;
 
 Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-La Commissione, di cui all'[articolo 11 del Regio decreto 14 giugno 1885 n. 3208](Sulle%20ammissioni%20e%20promozioni%20negli%20impieghi%20del%20Ministero%20di%20Agricoltura%20Industria%20e%20Commercio.%20085U3208.md) (serie 3ª), da' parere, agli effetti dell'articolo 12 del regolamento sulle pensioni approvato col [Regio decreto 5 settembre 1895 n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), sulla dispensa dal servizio, sia per inabilita', sia per ragioni di servizio, sia per motivi disciplinari: 
+La Commissione, di cui all'[articolo 11 del Regio decreto 14 giugno 1885 n. 3208](Sulle%20ammissioni%20e%20promozioni%20negli%20impieghi%20del%20Ministero%20di%20Agricoltura%20Industria%20e%20Commercio.%20085U3208.md) (serie 3ª), da' parere, agli effetti dell'articolo 12 del regolamento sulle pensioni approvato col [Regio decreto 5 settembre 1895 n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), sulla dispensa dal servizio, sia per inabilita', sia per ragioni di servizio, sia per motivi disciplinari: 
  
  a) del personale dell'Amministrazione centrale del Ministero di Agricoltura, Industria e Commercio; 
  

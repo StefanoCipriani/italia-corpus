@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto 26 febbraio 1928, n. 384](Norme%20per%20la%20istituzione%20dellalbo%20professionale%20dei%20giornalisti.%20028U0384.md), sulla professione di giornalista;
+Visto il [R. decreto 26 febbraio 1928, n. 384](../Regi%20decreti/Norme%20per%20la%20istituzione%20dellalbo%20professionale%20dei%20giornalisti.%20028U0384.md), sulla professione di giornalista;
 
 Vista la deliberazione del Consiglio dei Ministri;
 

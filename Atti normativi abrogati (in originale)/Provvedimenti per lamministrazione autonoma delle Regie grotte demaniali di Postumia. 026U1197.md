@@ -50,7 +50,7 @@ Il Consiglio di amministrazione e' composto di cinque membri, designati ciascuno
  
  Il segretario del Consiglio e' nominato dal Ministro per l'economia nazionale fra i funzionari della sua Amministrazione. 
  
- Le funzioni del presidente e dei consiglieri sono gratuite; spetta loro soltanto il rimborso delle spese di viaggio e le indennita' di trasferta a sensi degli articoli 180 a 183 del [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ Le funzioni del presidente e dei consiglieri sono gratuite; spetta loro soltanto il rimborso delle spese di viaggio e le indennita' di trasferta a sensi degli articoli 180 a 183 del [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Il presidente, i consiglieri e il segretario durano in carica tre anni e possono essere riconfermati.
 

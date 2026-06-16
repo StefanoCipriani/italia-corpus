@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 5 luglio 1882, n. 857](Concernente%20i%20provvedimenti%20per%20Assab.%20082U0857.md) (Serie 3ª), concernente i provvedimenti per Assab;
 
-Visto l'[art. 294 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, modificato dalla [legge 25 giugno 1871, n. 298](Portante%20alcune%20modificazioni%20agli%20articoli%20294%20295%20313%20e%20314%20del%20Codice%20penale%20per%20lEsercito.%20071U0298.md);
+Visto l'[art. 294 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, modificato dalla [legge 25 giugno 1871, n. 298](Portante%20alcune%20modificazioni%20agli%20articoli%20294%20295%20313%20e%20314%20del%20Codice%20penale%20per%20lEsercito.%20071U0298.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra, Abbiamo decretato e decretiamo quanto segue:
 

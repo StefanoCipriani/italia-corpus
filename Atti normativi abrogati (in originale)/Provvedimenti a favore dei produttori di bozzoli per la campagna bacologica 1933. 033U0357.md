@@ -44,7 +44,7 @@ I quantitativi di bozzoli freschi mercantili denunciati devono essere comprovati
  
  A tal fine ogni produttore di seme bachi ha obbligo di fornire, anche attraverso i propri rappresentanti, il documento cui sopra, restando responsabile della esattezza del quantitativo di seme o bacolini indicato come venduto. 
  
- Possono essere utilizzati allo scopo anche le bollette richieste all'art. 9, capoverso secondo, del regolamento approvato con [R. decreto 8 agosto 1930, n. 1799](Approvazione%20di%20un%20nuovo%20regolamento%20per%20lesecuzione%20della%20legge%2028%20giugno%201923%20n.%201512%20che%20stabilisce%20norme%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme%20bachi%20da%20seta.%20030U1799.md), e i certificati che debbono accompagnare il seme schiuso (bacolini nati) ai termini del capoverso 7 dell'art. 10 dell'anzidetto regolamento. 
+ Possono essere utilizzati allo scopo anche le bollette richieste all'art. 9, capoverso secondo, del regolamento approvato con [R. decreto 8 agosto 1930, n. 1799](../Regi%20decreti/Approvazione%20di%20un%20nuovo%20regolamento%20per%20lesecuzione%20della%20legge%2028%20giugno%201923%20n.%201512%20che%20stabilisce%20norme%20per%20la%20produzione%20ed%20il%20commercio%20del%20seme%20bachi%20da%20seta.%20030U1799.md), e i certificati che debbono accompagnare il seme schiuso (bacolini nati) ai termini del capoverso 7 dell'art. 10 dell'anzidetto regolamento. 
  
  Tali bollette devono essere completate con la indicazione della effettuata commissione. Sia esse che i certificati devono portare, in ogni caso, le indicazioni richieste nel primo comma della presente lettera a). 
  

@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato, per la pubblica istruzio
 
 ## Art. 1.
 
-Nei concorsi magistrali banditi dal Regio provveditore agli studi o dai Comuni, ai sensi degli articoli 116, comma primo, e seguenti, del testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), sono compilate due distinte graduatorie, una per i maestri e l'altra per le maestre che riescono vincitori nei concorsi medesimi. 
+Nei concorsi magistrali banditi dal Regio provveditore agli studi o dai Comuni, ai sensi degli articoli 116, comma primo, e seguenti, del testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), sono compilate due distinte graduatorie, una per i maestri e l'altra per le maestre che riescono vincitori nei concorsi medesimi. 
  
  Limitatamente ai concorsi indetti dai Comuni, la indicazione del numero dei posti destinati ai maestri e di quelli destinati alle maestre deve essere contenuta nel bando di concorso.
 

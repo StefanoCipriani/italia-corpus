@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il Ministro per l'interno e' autorizzato a procedere, mediante concorso, all'assunzione in servizio di 150 vice-commissari di pubblica sicurezza con le norme di cui agli articoli 10 a 13 compreso e 15 a 18 compreso del regolamento per gli ufficiali ed impiegati di pubblica sicurezza, approvato con [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666); 
+ Il Ministro per l'interno e' autorizzato a procedere, mediante concorso, all'assunzione in servizio di 150 vice-commissari di pubblica sicurezza con le norme di cui agli articoli 10 a 13 compreso e 15 a 18 compreso del regolamento per gli ufficiali ed impiegati di pubblica sicurezza, approvato con [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md); 
  
  La Commissione esaminatrice sara' composta da un consigliere di Stato, che la presiede, da un consigliere della Corte dei conti, da un sostituto procuratore generale presso la Corte d'appello di Roma, da un membro, avente grado di direttore capo di divisione, o ispettore generale amministrativo, o di pubblica sicurezza e, infine, dal capo del personale di pubblica sicurezza. 
  

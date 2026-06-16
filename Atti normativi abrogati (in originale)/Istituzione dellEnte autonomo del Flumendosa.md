@@ -72,7 +72,7 @@ Alla manutenzione e all'esercizio delle opere costruite dall'Ente autonomo provv
 
 ## Art. 10.
 
-Ultimata la esecuzione delle opere, al fine di mantenere il coordinamento che risultasse necessario fra i vari interessati, per la manutenzione e l'esercizio, delle opere di uso comune, l'Ente potra' trasformarsi in Consorzio di secondo grado, a termini dell'[art. 71 del R. decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_71), sulle acque.
+Ultimata la esecuzione delle opere, al fine di mantenere il coordinamento che risultasse necessario fra i vari interessati, per la manutenzione e l'esercizio, delle opere di uso comune, l'Ente potra' trasformarsi in Consorzio di secondo grado, a termini dell'[art. 71 del R. decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), sulle acque.
 
 ## Art. 11.
 
@@ -81,7 +81,7 @@ Le concessioni di derivazione di acque pubbliche accordate all'Ente autonomo pas
 ## Art. 12.
 
 Per la esecuzione delle opere, aventi carattere di interesse pubblico, lo Stato concorrera' nella misura dell'87,50% per quelle inerenti alla irrigazione, nella misura del 75 % per quelle inerenti alla costruzione degli acquedotti rurali e nella misura del 40 % per quelli inerenti alla costruzione di acquedotti per centri urbani.
- Oltre all'eventuale contributo nella spesa di costruzione dei serbatoi e laghi artificiali, in base agli [articoli 73 e seguenti del testo unico sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_73) 11 dicembre 1933, n. 1775, lo Stato potra' concorrere nella spesa delle opere principali degli impianti idroelettrici fino alla misura massima del 60 per cento.
+ Oltre all'eventuale contributo nella spesa di costruzione dei serbatoi e laghi artificiali, in base agli [articoli 73 e seguenti del testo unico sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) 11 dicembre 1933, n. 1775, lo Stato potra' concorrere nella spesa delle opere principali degli impianti idroelettrici fino alla misura massima del 60 per cento.
  Le somme a carico dello Stato saranno stanziate annualmente in apposito capitolo dello stato di previsione della spesa del Ministero dei lavori pubblici.
 
 ## Art. 13.

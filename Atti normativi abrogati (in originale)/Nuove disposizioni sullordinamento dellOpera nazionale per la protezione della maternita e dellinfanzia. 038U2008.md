@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo unico delle leggi sulla protezione ed assistenza della maternita' ed infanzia, approvato con [R. decreto 24 dicembre 1934, n. 2316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-24;2316);
+Visto il testo unico delle leggi sulla protezione ed assistenza della maternita' ed infanzia, approvato con [R. decreto 24 dicembre 1934, n. 2316](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20protezione%20ed%20assistenza%20della%20maternita%20ed%20infanzia%20034U2316.md);
 
 Ritenuta la necessita' ed urgenza di emanare nuove norme sull'ordinamento dell'Opera nazionale per la protezione della maternita' e dell'infanzia;
 

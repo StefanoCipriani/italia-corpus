@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le attribuzioni ed il funzionamento degli organi previsti dall'[art. 1 della legge 8 marzo 1951, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-08;122#art_1), sono regolati dalle norme del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, modificato col [regio decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), in quanto siano applicabili e non sia diversamente disposto con la legge medesima.
+Le attribuzioni ed il funzionamento degli organi previsti dall'[art. 1 della legge 8 marzo 1951, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-08;122#art_1), sono regolati dalle norme del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, modificato col [regio decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), in quanto siano applicabili e non sia diversamente disposto con la legge medesima.
  Alla denominazione di "Deputazione provinciale" s'intende sostituita quella di "Giunta provinciale".
 
 ## Art. 2.

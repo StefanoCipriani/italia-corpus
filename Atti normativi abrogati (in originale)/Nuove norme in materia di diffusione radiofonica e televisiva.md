@@ -321,14 +321,14 @@ I titolari degli impianti di cui all'art. 24, gia' installati sul territorio naz
 
 ### Art. 36.
 
-Le sanzioni previste dall'[art. 195 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), modificato dall'art. 46 del presente decreto, si applicano a chiunque stabilisce o esercita una rete televisiva via cavo e diffonde attraverso di essa programmi, senza aver ottenuto le autorizzazioni di cui ai precedenti articoli 26 e 30 ovvero stabilisce o esercita una rete televisiva via cavo e diffonde attraverso di essa programmi con modalita' e caratteristiche diverse da quelle indicate nelle autorizzazioni.
+Le sanzioni previste dall'[art. 195 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), modificato dall'art. 46 del presente decreto, si applicano a chiunque stabilisce o esercita una rete televisiva via cavo e diffonde attraverso di essa programmi, senza aver ottenuto le autorizzazioni di cui ai precedenti articoli 26 e 30 ovvero stabilisce o esercita una rete televisiva via cavo e diffonde attraverso di essa programmi con modalita' e caratteristiche diverse da quelle indicate nelle autorizzazioni.
  Le stesse sanzioni si applicano a chiunque, senza il preventivo assenso dell'Amministrazione, modifichi la rete o ne alteri le caratteristiche tecniche o la interconnetta ad altre reti ed impianti pubblici o privati di telecomunicazioni anche esteri ovvero la adibisca ad uso diverso da quello autorizzato.
 
 ### Art. 37.
 
 Non sono soggetti alle autorizzazioni previste dal presente decreto la installazione e l'esercizio degli impianti di cui ai precedenti articoli, che colleghino non piu' di 50 utenti, effettuati senza scopo di lucro. Per l'allacciamento ai predetti impianti e per la distribuzione di programmi mediante gli stessi, non puo' essere richiesto alcun canone. E' altresi' vietata la diffusione di programmi di pubblicita' commerciale.
  Chiunque intenda installare ed esercitare gli impianti di cui al comma precedente, e' tenuto a darne preventiva comunicazione al Ministero delle poste ed alle reti. Sono vietati per tali impianti l'interconnessione e l'allacciamento con qualsiasi altra rete pubblica o privata di telecomunicazione. Si applicano le norme di cui all'art. 31.
- Non sono infine soggetti all'autorizzazione prevista dal presente articolo gli impianti ad uso privato ed esclusivo del proprietario di cui all'[art. 183 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), cosi' come sostituito dall'art. 46 del presente decreto.
+ Non sono infine soggetti all'autorizzazione prevista dal presente articolo gli impianti ad uso privato ed esclusivo del proprietario di cui all'[art. 183 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), cosi' come sostituito dall'art. 46 del presente decreto.
 
 ### Art. 38.
 
@@ -363,7 +363,7 @@ L'autorizzazione di cui al precedente articolo e' rilasciata subordinatamente al
 ### Art. 41.
 
 L'autorizzazione di cui all'art. 39 obbliga il titolare ad eliminare dai programmi esteri tutte le parti aventi, sotto qualsiasi forma, carattere pubblicitario.
- In caso di inadempimento dell'obbligo indicato nel comma precedente, il titolare degli impianti ripetitori viene diffidato. In caso di recidiva, gli impianti ripetitori sono disattivati e sequestrati, in via amministrativa, con provvedimento del Ministro per le poste e le telecomunicazioni e l'autorizzazione viene revocata; si applicano inoltre le sanzioni di cui all'art. 195 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), come risulta modificato dall'art. 46 del presente decreto.
+ In caso di inadempimento dell'obbligo indicato nel comma precedente, il titolare degli impianti ripetitori viene diffidato. In caso di recidiva, gli impianti ripetitori sono disattivati e sequestrati, in via amministrativa, con provvedimento del Ministro per le poste e le telecomunicazioni e l'autorizzazione viene revocata; si applicano inoltre le sanzioni di cui all'art. 195 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), come risulta modificato dall'art. 46 del presente decreto.
  Le stesse sanzioni si applicano in caso di diffusione di programmi diversi da quelli per i quali e' stata specificamente rilasciata l'autorizzazione o di impiego degli impianti per scopi diversi da quelli di cui al precedente art. 39.
 
 ### Art. 42.
@@ -390,7 +390,7 @@ Il Ministero delle poste e delle telecomunicazioni assegna le frequenze di funzi
  Si applica, altresi', per gli impianti di cui al presente articolo, il disposto del precedente art. 42.
  Il titolare degli impianti risponde dei danni nei confronti di terzi, in dipendenza della realizzazione e dell'esercizio degli impianti stessi.
  L'autorizzazione e' revocata, senza indennizzo, quando la zona viene servita da impianti delle reti televisive nazionali.
- Ove gli impianti vengano utilizzati per scopi diversi da quelli indicati nel presente articolo, si applicano le sanzioni di cui all'art. 195 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), come risulta modificato dall'art. 46 del presente decreto, e l'autorizzazione viene revocata.
+ Ove gli impianti vengano utilizzati per scopi diversi da quelli indicati nel presente articolo, si applicano le sanzioni di cui all'art. 195 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), come risulta modificato dall'art. 46 del presente decreto, e l'autorizzazione viene revocata.
 
 ### Art. 45.
 
@@ -405,7 +405,7 @@ Titolo IV
 
 ### Art. 46.
 
-Gli articoli 1, 183 e 195 del testo unico in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), sono sostituiti dai seguenti:
+Gli articoli 1, 183 e 195 del testo unico in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), sono sostituiti dai seguenti:
 
  Art. 1 (Esclusivita' dei servizi postali e delle telecomunicazioni). - Appartengono in esclusiva allo Stato nei limiti previsti dal presente decreto:
  i servizi di raccolta, trasporto e distribuzione della corrispondenza epistolare;

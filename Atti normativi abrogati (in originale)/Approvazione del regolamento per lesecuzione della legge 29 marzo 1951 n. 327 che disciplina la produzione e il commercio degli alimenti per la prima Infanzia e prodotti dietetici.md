@@ -225,7 +225,7 @@ TITOLO IV
 
 ### Art. 26.
 
-Per la vigilanza ai fini della tutela della sanita' pubblica sui fabbricanti e commercianti di alimenti per la prima infanzia e di prodotti dietetici, si applicano le disposizioni contenute negli [articoli 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_242) e [243 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_243), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+Per la vigilanza ai fini della tutela della sanita' pubblica sui fabbricanti e commercianti di alimenti per la prima infanzia e di prodotti dietetici, si applicano le disposizioni contenute negli [articoli 242](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [243 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
  A tal fine le autorita' sanitarie possono fare eseguire ispezioni e prelievi di campioni ovunque si producano, si conservino in deposito, si trasportino o si smercino le predette sostanze.
 
 ### Art. 27.
@@ -241,7 +241,7 @@ Alla domanda con la quale si richiede l'analisi di revisione deve essere unita u
 
 ### Art. 29.
 
-Il personale in genere, adibito alla preparazione e manipolazione dei prodotti dietetici e degli alimenti per la prima infanzia, deve avere subito favorevolmente la visita medica di controllo prevista dall'[art. 262 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_262) 27 luglio 1934, n. 1265, completata delle opportune indagini intese ad escludere l'eventuale presenza di portatori di microbi patogeni con particolare riguardo agli enterobatteri patogeni ed agli stafilococchi enterotossici. La visita medica e gli eventuali controlli batteriologici devono essere ripetuti annualmente.
+Il personale in genere, adibito alla preparazione e manipolazione dei prodotti dietetici e degli alimenti per la prima infanzia, deve avere subito favorevolmente la visita medica di controllo prevista dall'[art. 262 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265, completata delle opportune indagini intese ad escludere l'eventuale presenza di portatori di microbi patogeni con particolare riguardo agli enterobatteri patogeni ed agli stafilococchi enterotossici. La visita medica e gli eventuali controlli batteriologici devono essere ripetuti annualmente.
 
 ## Disposizioni transitorie e finali.
 

@@ -28,7 +28,7 @@ E' approvato l'unito regolamento per l'esecuzione della legge 30 giugno 1889 sul
 
 ## Art. 2.
 
-La legge 30 giugno 1889 sulla pubblica sicurezza ed il presente regolamento entreranno in vigore, a termini dell'[art. 142 della legge 23 dicembre 1888, N. 5888](Sulla%20pubblica%20sicurezza.%20088U8010.md), contemporaneamente al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con Nostro decreto in data 30 giugno a. c. 
+La legge 30 giugno 1889 sulla pubblica sicurezza ed il presente regolamento entreranno in vigore, a termini dell'[art. 142 della legge 23 dicembre 1888, N. 5888](Sulla%20pubblica%20sicurezza.%20088U8010.md), contemporaneamente al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con Nostro decreto in data 30 giugno a. c. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

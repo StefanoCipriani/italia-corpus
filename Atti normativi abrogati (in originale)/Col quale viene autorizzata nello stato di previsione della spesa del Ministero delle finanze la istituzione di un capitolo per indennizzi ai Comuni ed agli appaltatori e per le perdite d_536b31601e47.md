@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La facolta' di provvedere con decreto Reale alla iscrizione nello stato di previsione della spesa del Ministero delle finanze dei fondi occorrenti per indennizzare i Comuni delle perdite dipendenti dall'applicazione dell'[art. 1 del R. decreto 25 maggio 1915, n. 728](Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md), e' estesa anche all'assegnazione dei fondi necessari per corrispondere analoghi indennizzi agli appaltatori.
+La facolta' di provvedere con decreto Reale alla iscrizione nello stato di previsione della spesa del Ministero delle finanze dei fondi occorrenti per indennizzare i Comuni delle perdite dipendenti dall'applicazione dell'[art. 1 del R. decreto 25 maggio 1915, n. 728](../Regi%20decreti/Col%20quale%20e%20concessa%20esenzione%20temporanea%20da%20ogni%20dazio%20interno%20di%20consumo%20per%20i%20viveri%20ed%20i%20foraggi%20destinati%20alle%20truppe%20di%20terra%20e%20di%20mare%20mobilizzate%20015U0728.md), e' estesa anche all'assegnazione dei fondi necessari per corrispondere analoghi indennizzi agli appaltatori.
 
 ## Art. 2.
 

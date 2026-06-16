@@ -16,7 +16,7 @@ Visto il [regio decreto 2 marzo 1933, n. 185](https://www.normattiva.it/uri-res/
 
 Vista la [legge 25 gennaio 1940, n. 4](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20040U0004.md);
 
-Visto il [regio decreto 29 agosto 1942, n. 1168](Nomina%20degli%20ispettori%20generali%20per%20i%20servizi%20delle%20Intendenze%20di%20finanza.%20042U1168.md);
+Visto il [regio decreto 29 agosto 1942, n. 1168](../Regi%20decreti/Nomina%20degli%20ispettori%20generali%20per%20i%20servizi%20delle%20Intendenze%20di%20finanza.%20042U1168.md);
 
 Ritenuta l'opportunita' di modificare, temporaneamente, per esigenze di servizio connesse allo stato di guerra le norme che regolano la nomina degli ispettori generali delle Intendenze di finanza;
 

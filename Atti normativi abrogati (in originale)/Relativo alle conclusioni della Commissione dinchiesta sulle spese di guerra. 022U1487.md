@@ -26,7 +26,7 @@ Sulla proposta del presidente del Consiglio dei ministri, ministro segretario di
 
 La relazione della Commissione d'inchiesta istituita con [legge 18 luglio 1920, n. 999](Che%20istituisce%20una%20Commissione%20parlamentare%20dinchiesta%20sulle%20spese%20di%20guerra.%20020U0999.md), con tutti gli atti e i documenti su cui si fonda, e tutti i provvedimenti di ricupero sara' presentata non oltre il termine gia' fissato al 31 dicembre 1922, al Governo del Re, che ne curera' la comunicazione alle due Camere. 
  
- Ogni pubblicazione parziale o totale della relazione e dei lavori della Commissione prima che la relazione sia comunicata alle due Camere e' vietata. I trasgressori saranno puniti con la detenzione non inferiore a sei mesi, e con la multa non inferiore a lire 5000, senza pregiudizio delle maggiori pene sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto contenga gli estremi di piu' grave reato. 
+ Ogni pubblicazione parziale o totale della relazione e dei lavori della Commissione prima che la relazione sia comunicata alle due Camere e' vietata. I trasgressori saranno puniti con la detenzione non inferiore a sei mesi, e con la multa non inferiore a lire 5000, senza pregiudizio delle maggiori pene sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove il fatto contenga gli estremi di piu' grave reato. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

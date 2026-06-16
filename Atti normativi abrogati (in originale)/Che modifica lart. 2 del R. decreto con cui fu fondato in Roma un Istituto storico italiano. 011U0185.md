@@ -16,9 +16,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 25 novembre 1883, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-11-25;1775) (serie 3ª), con cui fu fondato in Roma un Istituto storico italiano; 
+ Visto il [R. decreto 25 novembre 1883, n. 1775](../Regi%20decreti/Che%20fonda%20in%20Roma%20un%20istituto%20storico%20italiano.%20083U1775.md) (serie 3ª), con cui fu fondato in Roma un Istituto storico italiano; 
  
- Visto il [R. decreto 24 maggio 1896, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-05-24;191), con cui fu modificato l'art. 2 del R. decreto predetto; 
+ Visto il [R. decreto 24 maggio 1896, n. 191](../Regi%20decreti/Che%20modifica%20lart.%202%20di%20quello%20in%20data%2025%20novembre%201883%20n.1775%20col%20quale%20fu%20fondato%20in%20Roma%20un%20Istituto%20storico%20italiano.%20096U0191.md), con cui fu modificato l'art. 2 del R. decreto predetto; 
  
  Visto il Nostro decreto 16 gennaio 1910, n. 264, con cui fu costituita la R. Deputazione di storia patria negli Abruzzi, con sede in Aquila; 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- L'[art. 2 del R. decreto 25 novembre 1883, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-11-25;1775#art_2) (serie 3ª), modificato con il [R. decreto 24 maggio 1896, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-05-24;191), e' nuovamente modificato come segue: 
+ L'[art. 2 del R. decreto 25 novembre 1883, n. 1775](../Regi%20decreti/Che%20fonda%20in%20Roma%20un%20istituto%20storico%20italiano.%20083U1775.md) (serie 3ª), modificato con il [R. decreto 24 maggio 1896, n. 191](../Regi%20decreti/Che%20modifica%20lart.%202%20di%20quello%20in%20data%2025%20novembre%201883%20n.1775%20col%20quale%20fu%20fondato%20in%20Roma%20un%20Istituto%20storico%20italiano.%20096U0191.md), e' nuovamente modificato come segue: 
  
  «L'Istituto si compone di diciotto membri, quattro dei quali nominati dal ministro dell'istruzione pubblica e gli altri quattordici delegati singolarmente da ognuna delle nove Deputazioni e dello cinque Societa' di storia patria qui sotto indicate: 
  

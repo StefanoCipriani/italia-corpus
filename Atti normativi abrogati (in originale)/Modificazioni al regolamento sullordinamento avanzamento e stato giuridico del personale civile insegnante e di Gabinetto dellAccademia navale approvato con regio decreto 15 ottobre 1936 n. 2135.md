@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dai Consiglio dei Ministri c
 
 ## Art. 1.
 
-Al regolamento sull'ordinamento, avanzamento e stato giuridico del personale civile insegnante e di Gabinetto dell'Accademia navale, approvato con [regio decreto 15 ottobre 1936, n. 2135](Approvazione%20del%20regolamento%20sullordinamento%20avanzamento%20e%20stato%20giuridico%20del%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20accademia%20navale.%20036U2135.md), sono apportate le modifiche di cui ai successivi articoli.
+Al regolamento sull'ordinamento, avanzamento e stato giuridico del personale civile insegnante e di Gabinetto dell'Accademia navale, approvato con [regio decreto 15 ottobre 1936, n. 2135](../Regi%20decreti/Approvazione%20del%20regolamento%20sullordinamento%20avanzamento%20e%20stato%20giuridico%20del%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20accademia%20navale.%20036U2135.md), sono apportate le modifiche di cui ai successivi articoli.
 
 ## Art. 2.
 
@@ -34,7 +34,7 @@ Il secondo comma, dell'art. 16 e' sostituito dal seguente:
 
 ## Art. 3.
 
-Il testo dell'art. 17, quale risulta modificato dall'[art. 1 del regio decreto 24 maggio 1946, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-05-24;573#art_1), e' sostituito dal seguente:
+Il testo dell'art. 17, quale risulta modificato dall'[art. 1 del regio decreto 24 maggio 1946, n. 573](../Regi%20decreti/Modificazioni%20al%20regolamento%20sullordinamento%20avanzamento%20e%20stato%20giuridico%20del%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20accademia%20navale%20di%20Livorno.md), e' sostituito dal seguente:
  "Su proposta del Comando dell'Accademia navale, il Ministero puo' disporre il conferimento d'incarichi di insegnamento presso l'Accademia ai professori dell'Istituto stesso.
  Per incarico s'intende un complesso di lezioni ed esercitazioni avente un numero di sei ore settimanali d'insegnamento oltre quelle di obbligo.
  Il primo incarico e' retribuito con un assegno annuo che non puo' superare i due terzi dello stipendio iniziale, esclusa l'indennita' di carovita, previsto per i dipendenti statali di gruppo A, grado 8°; per ogni incarico successivo e' corrisposto un assegno pari alla meta' di quello previsto per il primo incarico.
@@ -54,7 +54,7 @@ Il testo dell'art. 20 e' sostituito dal seguente:
 
 ## Art. 6.
 
-Il testo dell'art. 21, quale risulta modificato dall'[art. 2 del regio decreto 24 maggio 1946, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-05-24;573#art_2), e' sostituito dal seguente:
+Il testo dell'art. 21, quale risulta modificato dall'[art. 2 del regio decreto 24 maggio 1946, n. 573](../Regi%20decreti/Modificazioni%20al%20regolamento%20sullordinamento%20avanzamento%20e%20stato%20giuridico%20del%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20accademia%20navale%20di%20Livorno.md), e' sostituito dal seguente:
  "Ai fini dei precedenti articoli 18 e 19, s'intende per incarico un complesso di lezioni e di esercitazioni avente un numero di sei ore settimanali di insegnamento.
  Per ogni ora d'insegnamento in meno delle sei sopraindicate, i relativi compensi d'incarico sono diminuiti di un sesto.
  Detti compensi, inoltre, sono divisi in dodicesimi e corrisposti in tale misura per i soli mesi di effettivo insegnamento, considerando il mese iniziato come compiuto, allorche' l'incarico abbia una durata non superiore a sei mesi.
@@ -83,7 +83,7 @@ Il terzo comma dell'art. 27, e' modificato come segue:
 
 ## Art. 11.
 
-L'art. 31, quale risulta modificato dall'[art. 3 del regio decreto 24 maggio 1946, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1946-05-24;573#art_3), e' sostituito dal seguente:
+L'art. 31, quale risulta modificato dall'[art. 3 del regio decreto 24 maggio 1946, n. 573](../Regi%20decreti/Modificazioni%20al%20regolamento%20sullordinamento%20avanzamento%20e%20stato%20giuridico%20del%20personale%20civile%20insegnante%20e%20di%20gabinetto%20della%20Regia%20accademia%20navale%20di%20Livorno.md), e' sostituito dal seguente:
  "Ripetizioni camerali correzione di compiti.
  Art. 31. - I professori civili di ruolo, incaricati e comandati, universitari o no, chiamati a norma del regolamento interno a prestare servizio quali ripetitori, hanno diritto, per ogni ora di assistenza allo studio camerale degli allievi, ad un compenso pari ad un cinquantesimo dello Stipendio iniziale mensile del grado 11°, esclusa l'indennita' di carovita.
  Nessun compenso spetta agli insegnanti per la correzione dei compiti scritti".

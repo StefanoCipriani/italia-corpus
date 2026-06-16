@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 29 luglio 1927, n. 1564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1564), col quale il comune di Arischia e' stato soppresso ed il rispettivo territorio aggregato a quello di Aquila; 
+ Visto il [R. decreto 29 luglio 1927, n. 1564](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Camarda%20Paganica%20Bagno%20Roio%20Piano%20Lucoli%20Sassa%20Preturo%20Arischia%20e%20della%20frazione%20San%20Vittorino%20del%20comune%20di%20Pizzoli%20al%20comune%20di%20Aquila%20degli%20Abruzzi.%20027U1564.md), col quale il comune di Arischia e' stato soppresso ed il rispettivo territorio aggregato a quello di Aquila; 
  
  Vista la deliberazione del podesta' di Aquila rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Arischia; 
  

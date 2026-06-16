@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 8 del decreto legislativo 21 maggio 1946, n. 465](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-05-21;465#art_8);
 
-Visto l'[art. 7 del regio decreto legislativo 30 maggio 1946, n. 538](Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md);
+Visto l'[art. 7 del regio decreto legislativo 30 maggio 1946, n. 538](../Regi%20decreti%20legislativi/Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

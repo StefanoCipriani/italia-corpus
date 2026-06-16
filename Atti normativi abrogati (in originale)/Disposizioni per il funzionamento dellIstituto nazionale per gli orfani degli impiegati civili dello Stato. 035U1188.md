@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 febbraio 1892, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-02-28;90), col quale venne eretto in ente morale l'Istituto nazionale per gli orfani degli impiegati civili dello Stato;
+Visto il [R. decreto 28 febbraio 1892, n. 90](../Regi%20decreti/Che%20costituisce%20in%20ente%20morale%20lIstituto%20nazionale%20per%20gli%20orfani%20degli%20impiegati%20civili%20dello%20Stato%20ed%20approva%20il%20relativo%20statuto%20organico.%20092U0090.md), col quale venne eretto in ente morale l'Istituto nazionale per gli orfani degli impiegati civili dello Stato;
 
 Vista la [legge 3 marzo 1904, n. 67](Concernente%20la%20tassa%20di%20bollo%20sulle%20ricevute%20di%20stipendio%20rilasciate%20dagli%20impiegati%20governativi%20e%20delle%20pubbliche%20Amministrazioni%20a%20favore%20dellIstituto%20Nazionale%20per%20gli%20orfani%20degli%20imp_b9bd21ab584c.md);
 
@@ -32,9 +32,9 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-L'Istituto nazionale per gli orfani degli impiegati civili dello Stato, eretto in ente morale col [R. decreto 28 febbraio 1892, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-02-28;90), assume la denominazione di «Istituto nazionale fascista per gli orfani e le orfane degli impiegati civili dello Stato». 
+L'Istituto nazionale per gli orfani degli impiegati civili dello Stato, eretto in ente morale col [R. decreto 28 febbraio 1892, n. 90](../Regi%20decreti/Che%20costituisce%20in%20ente%20morale%20lIstituto%20nazionale%20per%20gli%20orfani%20degli%20impiegati%20civili%20dello%20Stato%20ed%20approva%20il%20relativo%20statuto%20organico.%20092U0090.md), assume la denominazione di «Istituto nazionale fascista per gli orfani e le orfane degli impiegati civili dello Stato». 
  
- Esso ha per fine di conferire degli assegni mensili nei limiti dei fondi disponibili e di prestare l'assistenza educativa ed istruttiva nei propri convitti ad orfani ed orfane del personale civile di ruolo dello Stato, escluso quello dipendente dall'Amministrazione delle ferrovie, appartenente ai gruppi A, B e C, secondo la classificazione stabilita col [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni. In via subordinata l'assistenza puo' essere prestata anche a pagamento, ai figli dei funzionari civili dello Stato in servizio o in pensione. 
+ Esso ha per fine di conferire degli assegni mensili nei limiti dei fondi disponibili e di prestare l'assistenza educativa ed istruttiva nei propri convitti ad orfani ed orfane del personale civile di ruolo dello Stato, escluso quello dipendente dall'Amministrazione delle ferrovie, appartenente ai gruppi A, B e C, secondo la classificazione stabilita col [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni. In via subordinata l'assistenza puo' essere prestata anche a pagamento, ai figli dei funzionari civili dello Stato in servizio o in pensione. 
  
  L'Istituto ha la sua sede centrale a Roma.
 
@@ -97,11 +97,11 @@ La gestione dell'Istituto e' sottoposta alla vigilanza del Ministero delle finan
 
 E' data facolta' al Governo del Re, sentito il Consiglio di Stato, di emanare lo statuto dell'Istituto nazionale fascista per gli orfani e le orfane degli impiegati civili dello Stato. 
  
- Restano fermi gli obblighi e i diritti dei soci attualmente inscritti allo Istituto nazionale per gli orfani degli impiegati civili dello Stato, sanciti dallo statuto dell'Ente, approvato con [R. decreto 13 luglio 1914, n. 764](Approvazione%20di%20statuto%20organico.%20014U0764.md), nonche' i diritti assicurati dallo stesso statuto agli orfani ed alle famiglie dei soci defunti o dagli attuali soci che venissero a mancare dopo l'applicazione del presente decreto.
+ Restano fermi gli obblighi e i diritti dei soci attualmente inscritti allo Istituto nazionale per gli orfani degli impiegati civili dello Stato, sanciti dallo statuto dell'Ente, approvato con [R. decreto 13 luglio 1914, n. 764](../Regi%20decreti/Approvazione%20di%20statuto%20organico.%20014U0764.md), nonche' i diritti assicurati dallo stesso statuto agli orfani ed alle famiglie dei soci defunti o dagli attuali soci che venissero a mancare dopo l'applicazione del presente decreto.
 
 ## Art. 8.
 
-Fino all'entrata in vigore dello statuto di cui al primo comma dell'articolo precedente continueranno ad essere applicate le disposizioni dello statuto dell'Istituto nazionale per gli orfani degli impiegati civili dello Stato, approvato con [R. decreto 13 luglio 1914, n. 764](Approvazione%20di%20statuto%20organico.%20014U0764.md), ad eccezione di quelle riguardanti gli organi amministrativi dell'Istituto e le loro attribuzioni. 
+Fino all'entrata in vigore dello statuto di cui al primo comma dell'articolo precedente continueranno ad essere applicate le disposizioni dello statuto dell'Istituto nazionale per gli orfani degli impiegati civili dello Stato, approvato con [R. decreto 13 luglio 1914, n. 764](../Regi%20decreti/Approvazione%20di%20statuto%20organico.%20014U0764.md), ad eccezione di quelle riguardanti gli organi amministrativi dell'Istituto e le loro attribuzioni. 
  
  Tali attribuzioni, con decorrenza dall'entrata in vigore del presente provvedimento e fino all'entrata in vigore del nuovo statuto e all'insediamento del Consiglio d'amministrazione da nominarsi ai termini del precedente art. 5, sono conferite ad un commissario che sara' nominato dal Capo del Governo Primo Ministro Segretario di Stato. 
  

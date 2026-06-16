@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
+ Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
  
  Visto il [R. decreto-legge 20 marzo 1924, n. 495](Sistemazione%20dei%20servizi%20e%20del%20personale%20della%20Direzione%20generale%20delle%20carceri%20e%20dei%20riformatori.%20024U0495.md); 
  
@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- I posti di giudici e sostituti procuratori del Re e giudici aggiunti con funzioni di segretari e vice-segretari di cui alla tabella n. 16 allegata al [R. decreto 11 novembre 1923, numero 2395, e all'art. 1](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) del [R. decreto-legge 20 marzo 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-20;3084), sono ripartiti come segue: 
+ I posti di giudici e sostituti procuratori del Re e giudici aggiunti con funzioni di segretari e vice-segretari di cui alla tabella n. 16 allegata al [R. decreto 11 novembre 1923, numero 2395, e all'art. 1](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) del [R. decreto-legge 20 marzo 1923, n. 3084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-20;3084), sono ripartiti come segue: 
  
  Giudici e sostituti procuratori del Re e giudici aggiunti con funzioni di segretari - Posti 21. 
  

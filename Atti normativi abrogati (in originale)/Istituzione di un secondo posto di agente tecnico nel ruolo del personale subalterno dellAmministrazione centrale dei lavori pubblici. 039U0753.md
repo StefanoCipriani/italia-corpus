@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato;
 
 Visto il [R. decreto-legge 4 agosto 1924, n. 1262](Norme%20per%20il%20passaggio%20al%20Ministero%20dei%20lavori%20pubblici%20degli%20uffici%20e%20del%20personale%20delle%20nuove%20costruzioni%20ferroviarie.%20024U1262.md), riflettente il passaggio al Ministero dei lavori pubblici degli Uffici e del personale delle Nuove costruzioni ferroviarie;
 

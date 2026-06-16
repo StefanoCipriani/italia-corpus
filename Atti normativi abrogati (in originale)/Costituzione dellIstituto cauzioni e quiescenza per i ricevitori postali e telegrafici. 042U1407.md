@@ -194,7 +194,7 @@ Ai ricevitori postali e telegrafici, nominati anteriormente al 1° luglio 1936-X
  
  La vedova che, succeduta in una ricevitoria dopo il 1° luglio 1936-XIV, non acquisti il diritto al trattamento di quiescenza secondo le norme da emanarsi ai sensi dell'art. 21, avra' diritto, dalla data della cessazione del suo servizio, al sussidio che le sarebbe spettato se non fosse succeduta nella ricevitoria. 
  
- I sussidi non spettano ai ricevitori che siano incorsi nella risoluzione del rapporto di servizio ai sensi dell'art. 308 della legge postale e delle telecomunicazioni, testo unico, approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645).
+ I sussidi non spettano ai ricevitori che siano incorsi nella risoluzione del rapporto di servizio ai sensi dell'art. 308 della legge postale e delle telecomunicazioni, testo unico, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md).
 
 ### Art. 23.
 

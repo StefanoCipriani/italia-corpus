@@ -70,7 +70,7 @@ Il ruolo degli interpreti di 1ª categoria e' costituito da un solo grado oltre 
 
 ### Art. 8.
 
-Agli interpreti di 1ª categoria si applicano tutte le disposizioni delle leggi e dei regolamenti in vigore per i funzionari dipendenti dal Ministero degli affari esteri; cosi' pure sono applicabili a quelli di essi che abbiano compiuto dieci anni di servizio le disposizioni di cui all'[art. 68 del R. decreto 28 novembre 1889, n. 6581](Che%20approva%20lannesso%20regolamento%20sulle%20aspettative%20le%20disponibilita%20e%20le%20pensioni%20degli%20agenti%20diplomatici%20e%20consolari.%20089U6581.md), circa il collocamento a riposo per ragioni di servizio.
+Agli interpreti di 1ª categoria si applicano tutte le disposizioni delle leggi e dei regolamenti in vigore per i funzionari dipendenti dal Ministero degli affari esteri; cosi' pure sono applicabili a quelli di essi che abbiano compiuto dieci anni di servizio le disposizioni di cui all'[art. 68 del R. decreto 28 novembre 1889, n. 6581](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sulle%20aspettative%20le%20disponibilita%20e%20le%20pensioni%20degli%20agenti%20diplomatici%20e%20consolari.%20089U6581.md), circa il collocamento a riposo per ragioni di servizio.
 
 ### Art. 9.
 

@@ -91,7 +91,7 @@ I cittadini italiani che hanno conseguito un titolo di studio di scuola secondar
 
 1.
 
-Tra i requisiti culturali previsti nell'allegato C al decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1981, cosi' come richiamato dall'[articolo 22, comma 11, del decreto del Presidente della Repubblica 3 agosto 1990, n. 319](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2021%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20universita%20di%20cui%20allart.%209%20de_f82d8fcf6f26.md), e' compreso il titolo del diploma di laurea.
+Tra i requisiti culturali previsti nell'allegato C al decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1981, cosi' come richiamato dall'[articolo 22, comma 11, del decreto del Presidente della Repubblica 3 agosto 1990, n. 319](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2021%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20universita%20di%20cui%20allart.%209%20de_f82d8fcf6f26.md), e' compreso il titolo del diploma di laurea.
 
 ## Art. 8.
 
@@ -150,7 +150,7 @@ All'[articolo 25, comma 1, della legge 2 dicembre 1991, n. 390](https://www.norm
 1.
 
 Le commissioni giudicatrici nei concorsi a posti di professore universitario si riuniscono in Roma. Il Ministro dell'universita' e della ricerca scientifica e tecnologica puo' tuttavia autorizzare lo svolgimento delle riunioni in sede diversa in casi di comprovata ed eccezionale necessita', segnalati dal presidente della commissione.
-Tale disposizione si applica anche ai concorsi in via di espletamento alla data di entrata in vigore della legge di conversione del presente decreto. E' conseguentemente abrogato il [comma 5 dell'articolo 6 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608](../DPR/Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md).
+Tale disposizione si applica anche ai concorsi in via di espletamento alla data di entrata in vigore della legge di conversione del presente decreto. E' conseguentemente abrogato il [comma 5 dell'articolo 6 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md).
 
 ## Art. 11.
 

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), concernente l'assicurazione obbligatoria contro la disoccupazione involontaria.
+Visto il [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), concernente l'assicurazione obbligatoria contro la disoccupazione involontaria.
 
 Visto il [R. decreto-legge 27 ottobre 1927, n. 2055](Assicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20027U2055.md) concernente l'assicurazione obbligatoria contro la tubercolosi (convertito in legge, con modificazioni, con la [legge 20 maggio 1928, n. 1132](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2027%20ottobre%201927%20n.%202055%20che%20istituisce%20lassicurazione%20obbligatoria%20contro%20la%20tubercolosi.%20028U1132.md)) e successive modificazioni;
 
@@ -40,7 +40,7 @@ La Cassa nazionale per le assicurazioni sociali (gia' Cassa Nazionale di previde
 
 ## Art. 2.
 
-Il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia per le persone d'ambo i sessi, (modificato con la [legge 13 dicembre 1928, n. 2900](Modificazioni%20allarticolo%208%20del%20R.%20decreto-legge%2030%20dicembre%201923%20n.%203184%20sullassicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia.%20028U2900.md), col [R. decreto 13 maggio 1929, n. 928](Assicurazione%20obbligatoria%20contro%20le%20malattie%20professionali.%20029U0928.md), e col [R. decreto-legge 26 dicembre 1929, n. 2182](Riordinamento%20del%20Consiglio%20di%20amministrazione%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali.%20029U2182.md)), e' ulteriormente modificato come segue: 
+Il [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia per le persone d'ambo i sessi, (modificato con la [legge 13 dicembre 1928, n. 2900](Modificazioni%20allarticolo%208%20del%20R.%20decreto-legge%2030%20dicembre%201923%20n.%203184%20sullassicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia.%20028U2900.md), col [R. decreto 13 maggio 1929, n. 928](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20le%20malattie%20professionali.%20029U0928.md), e col [R. decreto-legge 26 dicembre 1929, n. 2182](Riordinamento%20del%20Consiglio%20di%20amministrazione%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali.%20029U2182.md)), e' ulteriormente modificato come segue: 
  
  I. - Al primo comma dell'art. 15 e' sostituito il seguente: 
  
@@ -120,7 +120,7 @@ Il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls
 
 ## Art. 3.
 
-Il [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), concernente l'assicurazione contro la disoccupazione involontaria, e' modificato come segue: 
+Il [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), concernente l'assicurazione contro la disoccupazione involontaria, e' modificato come segue: 
  
  I. - Art. 10. - L'organo dell'assicurazione obbligatoria, contro la disoccupazione involontaria, e' l'Istituto nazionale fascista della previdenza sociale, presso il quale e' istituita per tale assicurazione una gestione autonoma, amministrata dal Consiglio di amministrazione e dal Comitato esecutivo dell'Istituto predetto. 
  
@@ -179,7 +179,7 @@ Il [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls
  
  IV. - Gli articoli 13 e 14 sono soppressi. 
  
- V. - Art. 15. - Per la risoluzione di tutte le controversie concernenti l'assicurazione di cui al presente decreto, si applicano le disposizioni di cui al titolo V del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184). 
+ V. - Art. 15. - Per la risoluzione di tutte le controversie concernenti l'assicurazione di cui al presente decreto, si applicano le disposizioni di cui al titolo V del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md). 
  
  VI. - Al secondo comma, dell'art. 22 e' sostituito il seguente: 
  

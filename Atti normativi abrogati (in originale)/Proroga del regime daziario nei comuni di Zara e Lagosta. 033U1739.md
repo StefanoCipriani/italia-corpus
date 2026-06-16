@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3 della legge 27 dicembre 1928, n. 2887](Proroga%20della%20facolta%20temporanea%20di%20aumentare%20sino%20ad%20un%20quarto%20le%20aliquote%20normali%20sui%20dazi%20interni%20di%20consumo%20e%20revisione%20del%20regime%20daziario%20nei%20comuni%20di%20Roma%20Zara%20e%20Lagosta.%20028U2887.md);
 
-Visti gli [articoli 18 del R. decreto-legge 20 marzo 1930, n. 141](Abolizione%20delle%20cinte%20daziarie%20e%20dei%20dazi%20interni%20comunali%20istituzione%20di%20imposte%20di%20consumo.%20030U0141.md), e 342, n. 7, del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
+Visti gli [articoli 18 del R. decreto-legge 20 marzo 1930, n. 141](Abolizione%20delle%20cinte%20daziarie%20e%20dei%20dazi%20interni%20comunali%20istituzione%20di%20imposte%20di%20consumo.%20030U0141.md), e 342, n. 7, del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il R. decreto 21 maggio 1924, n. .1200, art. 5, 1° comma;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523);
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md);
 
 Visto l'art. 8, 1° comma, del decreto predetto e l'art. 4, 2° comma, del regolamento approvato con R. decreto 3 giugno 1924, n: 969;
 
@@ -40,7 +40,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-La Regia scuola professionale di Isernia e' trasformata in Regia scuola industriale, con gli scopi e con l'ordinamento di cui all'[art. 3 del R. decreto 31 ottobre 1923, numero 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_3).
+La Regia scuola professionale di Isernia e' trasformata in Regia scuola industriale, con gli scopi e con l'ordinamento di cui all'[art. 3 del R. decreto 31 ottobre 1923, numero 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md).
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 26 aprile 1928, n. 1060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1060), col quale i comuni di Ruinas, Sant'Antonio Ruinas e Mogorella venivano riuniti in un solo Comune denominato Mogorella Ruinas; 
+ Visto il [R. decreto 26 aprile 1928, n. 1060](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Mogorella%20Ruinas%20e%20SantAntonio%20Ruinas%20in%20un%20unico%20Comune%20denominato%20Mogorella-Ruinas%20con%20sede%20del%20capoluogo%20a%20Mogorella.%20028U1060.md), col quale i comuni di Ruinas, Sant'Antonio Ruinas e Mogorella venivano riuniti in un solo Comune denominato Mogorella Ruinas; 
  
  Vista la deliberazione del podesta' di detto Comune, con la quale si chiede che venga conservato, oltre all'ufficio di conciliazione del capoluogo (Mogorella), anche quello di Ruinas, e che venga invece soppresso quello di Sant'Antonio Ruinas; 
  

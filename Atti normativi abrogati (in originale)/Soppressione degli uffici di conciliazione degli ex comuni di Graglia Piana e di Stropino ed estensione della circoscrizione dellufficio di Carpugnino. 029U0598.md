@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 agosto 1928, n. 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1989), col quale i comuni di Brovello, Graglia Piana e Stropino venivano riuniti in un solo Comune denominato Brovello Carpugnino; 
+ Visto il [R. decreto 3 agosto 1928, n. 1989](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brovello%20Carpugnino%20Graglia%20Piana%20e%20Stropino%20in%20un%20unico%20Comune%20denominato%20Brovello-Carpugnino%20con%20capoluogo%20a%20Carpugnino.%20028U1989.md), col quale i comuni di Brovello, Graglia Piana e Stropino venivano riuniti in un solo Comune denominato Brovello Carpugnino; 
  
  Vista la deliberazione del commissario prefettizio di detto Comune, con la quale si chiede che per tutto il territorio del comune di Brovello Carpugnino funzioni un solo ufficio di conciliazione; 
  

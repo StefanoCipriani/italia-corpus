@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di 
 
 ## Art. 1.
 
-Il servizio prestato nei ruoli di cui alla [legge 3 marzo 1904, n. 66](Che%20stabilisce%20i%20ruoli%20organici%20del%20Ministero%20dei%20Lavori%20Pubblici.%20004U0066.md), e successive modificazioni, e' valutabile per la determinazione del periodo di servizio o di anzianita' richiesto per il collocamento nei singoli gradi dei ruoli di cui al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e, per le successive promozioni, secondo le norme in vigore al 30 novembre 1923 e con le limitazioni contenute nei successivi articoli 2 a 4.
+Il servizio prestato nei ruoli di cui alla [legge 3 marzo 1904, n. 66](Che%20stabilisce%20i%20ruoli%20organici%20del%20Ministero%20dei%20Lavori%20Pubblici.%20004U0066.md), e successive modificazioni, e' valutabile per la determinazione del periodo di servizio o di anzianita' richiesto per il collocamento nei singoli gradi dei ruoli di cui al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e, per le successive promozioni, secondo le norme in vigore al 30 novembre 1923 e con le limitazioni contenute nei successivi articoli 2 a 4.
 
 ## Art. 2.
 
@@ -30,7 +30,7 @@ I funzionari dei gradi decimo e undecimo appartenenti ai ruoli dell'Amministrazi
 
 ## Art. 3.
 
-Il servizio prestato nel soppresso ruolo transitorio aggiunto, dagli applicati e dagli archivisti trasferiti nei ruoli ordinari dell'Amministrazione centrale dei lavori pubblici e del Real corpo del Genio civile, gruppo C, in applicazione dell'[art. 6 del R. decreto 21 gennaio 1923, n. 238](Che%20approva%20le%20nuove%20tabelle%20per%20la%20sistemazione%20del%20personale%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20023U0238.md), e' valutato, ai fini del computo del servizio prescritto per le promozioni, soltanto per il tempo successivo alla data da cui decorse la nomina a detti gradi, degli impiegati i quali, al momento dei passaggi previsti dal citato articolo, erano collocati all'ultimo posto di applicato o di archivista nei ruoli ordinari.
+Il servizio prestato nel soppresso ruolo transitorio aggiunto, dagli applicati e dagli archivisti trasferiti nei ruoli ordinari dell'Amministrazione centrale dei lavori pubblici e del Real corpo del Genio civile, gruppo C, in applicazione dell'[art. 6 del R. decreto 21 gennaio 1923, n. 238](../Regi%20decreti/Che%20approva%20le%20nuove%20tabelle%20per%20la%20sistemazione%20del%20personale%20dellAmministrazione%20centrale%20dei%20lavori%20pubblici.%20023U0238.md), e' valutato, ai fini del computo del servizio prescritto per le promozioni, soltanto per il tempo successivo alla data da cui decorse la nomina a detti gradi, degli impiegati i quali, al momento dei passaggi previsti dal citato articolo, erano collocati all'ultimo posto di applicato o di archivista nei ruoli ordinari.
 
 ## Art. 4.
 
@@ -38,7 +38,7 @@ Il periodo di servizio prestato nei ruoli di cui alla [legge 3 marzo 1904, n. 66
 
 ## Art. 5.
 
-E' abrogato l'[art. 82 del R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md). 
+E' abrogato l'[art. 82 del R. decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md). 
  
  Nulla e' innovato per quanto riguarda il computo dei servizi prestati nei ruoli transitori aggiunti, di cui alla [legge 3 marzo 1904, n. 66](Che%20stabilisce%20i%20ruoli%20organici%20del%20Ministero%20dei%20Lavori%20Pubblici.%20004U0066.md), agli effetti dell'attribuzione dello stipendio.
 

@@ -30,7 +30,7 @@ E' autorizzata la spesa di L. 94.000.000 per lavori portuali interessanti il mig
 
 ## Art. 5.
 
-Le disposizioni di cui agli articoli 20 e 44 del testo unico concernente l'amministrazione e la contabilita' di Corpi, Istituti e Stabilimenti militari, approvato con [R. decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese, anche ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti per questo titolo non potranno eccedere durante l'esercizio 1937-38 complessivamente la somma di L.
+Le disposizioni di cui agli articoli 20 e 44 del testo unico concernente l'amministrazione e la contabilita' di Corpi, Istituti e Stabilimenti militari, approvato con [R. decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), sono estese, anche ai capitoli riguardanti le spese del materiale e della mano d'opera dei Regi arsenali militari marittimi; i relativi prelevamenti per questo titolo non potranno eccedere durante l'esercizio 1937-38 complessivamente la somma di L.
 3.000.000. 
  
  I capitoli, a favore dei quali, nell'esercizio 1937-38, potranno operarsi prelevamenti dal fondo a disposizione di cui ai succitati articoli, sono descritti nell'elenco annesso alla presente legge.

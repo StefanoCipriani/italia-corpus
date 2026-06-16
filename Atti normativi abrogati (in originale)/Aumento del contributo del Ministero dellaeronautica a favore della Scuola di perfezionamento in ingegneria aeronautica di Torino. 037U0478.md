@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 ottobre 1930, n. 1988](Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20dingegneria%20di%20Torino.%20030U1988.md), riguardante l'approvazione del nuovo statuto della Regia scuola d'ingegneria di Torino;
+Visto il [R. decreto 30 ottobre 1930, n. 1988](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20dingegneria%20di%20Torino.%20030U1988.md), riguardante l'approvazione del nuovo statuto della Regia scuola d'ingegneria di Torino;
 
 Visto il [decreto-legge 19 aprile 1934, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1934-04-19;844), convertito nella [legge 4 aprile 1935, n. 803](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20aprile%201934%20n.%20844%20che%20stabilisce%20lammontare%20del%20contributo%20annuale%20del%20Ministero%20dellaeronautica%20a%20favore%20della%20Scuola%20di%20p_d0a28d6dca57.md);
 

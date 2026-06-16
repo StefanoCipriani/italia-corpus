@@ -46,7 +46,7 @@ I regimi speciali previsti dalle disposizioni richiamate nei commi 1, 2 e 4 cess
 
 1.
 
-Ai lavoratori dipendenti, alla data di entrata in vigore del presente decreto, di imprese ubicate nei territori di cui all'articolo 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), per un massimo complessivo di 6.500 unita', delle quali 4.000 nella regione Campania e 2.500 nelle altre regioni, nonche' di imprese in amministrazione straordinaria, ubicate nei territori sopracitati, e' comunque riconosciuto, per un periodo massimo di un anno e non oltre il 31 dicembre 1987, il trattamento previsto dall'[articolo 2 della legge 5 novembre 1968, n. 1115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-11-05;1115#art_2), e successive modifiche ed integrazioni.
+Ai lavoratori dipendenti, alla data di entrata in vigore del presente decreto, di imprese ubicate nei territori di cui all'articolo 1 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), per un massimo complessivo di 6.500 unita', delle quali 4.000 nella regione Campania e 2.500 nelle altre regioni, nonche' di imprese in amministrazione straordinaria, ubicate nei territori sopracitati, e' comunque riconosciuto, per un periodo massimo di un anno e non oltre il 31 dicembre 1987, il trattamento previsto dall'[articolo 2 della legge 5 novembre 1968, n. 1115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-11-05;1115#art_2), e successive modifiche ed integrazioni.
 
 2.
 

@@ -18,7 +18,7 @@ Visto il Nostro [decreto-legge 2 settembre 1919, n. 1766](https://www.normattiva
 
 Visti gli articoli 10 e 22 dello stesso decreto-legge col quale fu autorizzato lo stanziamento nel bilancio dei lavori pubblici di cinquanta annualita' di L. 3,543,660 ognuna, per la spesa delle opere concesse all' Ente;
 
-Visto il [Regio decreto 30 gennaio 1921, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-30;212), che reca provvedimenti a favore degli Enti portuali per agevolare l'esecuzione delle opere marittime;
+Visto il [Regio decreto 30 gennaio 1921, n. 212](../Regi%20decreti/Che%20reca%20provvedimenti%20a%20favore%20degli%20Enti%20portuari%20per%20agevolare%20lesecuzione%20delle%20opere%20marittime.%20021U0212.md), che reca provvedimenti a favore degli Enti portuali per agevolare l'esecuzione delle opere marittime;
 
 Visto l'[art. 36 della legge 20 agosto 1921, n. 1171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-20;1171#art_36) ;
 

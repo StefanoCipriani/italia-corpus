@@ -38,7 +38,7 @@ Il [primo comma dell'articolo 53 della legge 26 luglio 1961, n. 709](https://www
 
 ## Art. 5.
 
-L'[articolo 8 del decreto del Presidente della Repubblica 26 agosto 1959, n. 1088](../DPR/Approvazione%20del%20regolamento%20per%20lavanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md), e' sostituito dal seguente:
+L'[articolo 8 del decreto del Presidente della Repubblica 26 agosto 1959, n. 1088](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lavanzamento%20dei%20sottufficiali%20e%20militari%20di%20truppa%20della%20Guardia%20di%20finanza.md), e' sostituito dal seguente:
  "I sottufficiali in aspettativa, sospesi dall'impiego, dal servizio o dalle attribuzioni del grado, i militari di truppa sospesi dal grado, i sottufficiali, i graduati e i militari di truppa imputati di procedimento penale per delitto non colposo o sottoposti a procedimento disciplinare non possono essere valutati per l'avanzamento e, se gia' valutati, conseguire la promozione.
  Nel caso di esito favorevole del procedimento i sottufficiali e militari, se gia' valutati o, nel caso che debbano ancora essere sottoposti a valutazione, se dichiarati idonei debbono essere promossi, anche in soprannumero, con la sede di anzianita' e la data di promozione che sarebbero loro spettate qualora la promozione non fosse stata per essi sospesa".
 

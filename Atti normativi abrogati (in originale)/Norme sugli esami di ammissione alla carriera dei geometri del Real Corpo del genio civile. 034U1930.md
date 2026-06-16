@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -34,7 +34,7 @@ Le ammissioni nel grado iniziale del ruolo organico dei geometri del Real-Corpo 
  a) di diploma di abilitazione alla professione di geometra di cui agli [articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_51) e [65 della legge 25 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_65); 
  b) di diploma di abilitazione tecnica in agrimensura secondo l'ordinamento di cui al R. decreto 6 maggio 1923, 1054: 
  c) di diploma di perito agrimensore conseguito secondo l'ordinamento scolastico sancito dalle disposizioni di legge anteriori a quelle del 1923; 
- d) di diploma di abilitazione di perito edile conseguito secondo le norme del [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e relativo [regolamento 3 giugno 1924, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-06-03;969); 
+ d) di diploma di abilitazione di perito edile conseguito secondo le norme del [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e relativo [regolamento 3 giugno 1924, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-06-03;969); 
  e) di diploma, di perito industriale edile di cui agli [articoli 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_51) e [65 della legge 25 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-25;889#art_65). 
  Non sono ammessi titoli di studio equipollenti, salvi i titoli riconosciuti corrispondenti a quelli avanti tassativamente indicati rilasciati dalle Scuole medie del cessato Impero austro-ungarico.
 
@@ -53,7 +53,7 @@ L'esame di concorso per l'ammissione a geometra aggiunto in prova (grado 11°, g
 
 ## Art. 3.
 
-Per quanto riguarda il procedimento degli esami saranno osservate le disposizioni del capo VI del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni.
+Per quanto riguarda il procedimento degli esami saranno osservate le disposizioni del capo VI del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
 
 ## Art. 4.
 

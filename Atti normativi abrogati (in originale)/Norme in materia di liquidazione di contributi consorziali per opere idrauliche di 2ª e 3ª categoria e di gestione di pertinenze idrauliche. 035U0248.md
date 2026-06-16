@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di
 
 ## Art. 1.
 
-La liquidazione biennale dei contributi per le opere idrauliche di 2ª e 3ª categoria, prescritta dall'[art. 3 del R. decreto 19 novembre 1921, n. 1688](Che%20recano%20modificazioni%20di%20testi%20unici%20di%20legge%2025%20luglio%201904%20n.%20523%20sulle%20opere%20idrauliche%20e%2011%20luglio%201913%20n.%20959%20sulla%20navigazione%20interna.%20021U1688.md), seguira' nei modi qui appresso indicati.
+La liquidazione biennale dei contributi per le opere idrauliche di 2ª e 3ª categoria, prescritta dall'[art. 3 del R. decreto 19 novembre 1921, n. 1688](../Regi%20decreti/Che%20recano%20modificazioni%20di%20testi%20unici%20di%20legge%2025%20luglio%201904%20n.%20523%20sulle%20opere%20idrauliche%20e%2011%20luglio%201913%20n.%20959%20sulla%20navigazione%20interna.%20021U1688.md), seguira' nei modi qui appresso indicati.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Ciascun Ufficio del Genio civile, accertato l'ammontare delle somme spese nei si
 
 ## Art. 3.
 
-Il contributo predetto sara' ammortizzato in un trentennio, con quote costanti comprensive di capitale e di interesse, al saggio vigente all'atto della liquidazione delle annualita', ai sensi dell'[art. 2 del R. decreto-legge 22 ottobre 1932, n. 1378](Determinazione%20del%20tasso%20dinteresse%20da%20adottare%20per%20il%20calcolo%20delle%20annualita%20per%20opere%20a%20pagamento%20differito.%20032U1378.md), e sara' corrisposto dai Consorzi o dai proprietari interessati, ove ancora non sia costituito il Consorzio, nel trentennio successivo alla liquidazione stessa, nei modi indicati dal citato [art. 3 del R. decreto 19 novembre 1921, n. 1688](Che%20recano%20modificazioni%20di%20testi%20unici%20di%20legge%2025%20luglio%201904%20n.%20523%20sulle%20opere%20idrauliche%20e%2011%20luglio%201913%20n.%20959%20sulla%20navigazione%20interna.%20021U1688.md).
+Il contributo predetto sara' ammortizzato in un trentennio, con quote costanti comprensive di capitale e di interesse, al saggio vigente all'atto della liquidazione delle annualita', ai sensi dell'[art. 2 del R. decreto-legge 22 ottobre 1932, n. 1378](Determinazione%20del%20tasso%20dinteresse%20da%20adottare%20per%20il%20calcolo%20delle%20annualita%20per%20opere%20a%20pagamento%20differito.%20032U1378.md), e sara' corrisposto dai Consorzi o dai proprietari interessati, ove ancora non sia costituito il Consorzio, nel trentennio successivo alla liquidazione stessa, nei modi indicati dal citato [art. 3 del R. decreto 19 novembre 1921, n. 1688](../Regi%20decreti/Che%20recano%20modificazioni%20di%20testi%20unici%20di%20legge%2025%20luglio%201904%20n.%20523%20sulle%20opere%20idrauliche%20e%2011%20luglio%201913%20n.%20959%20sulla%20navigazione%20interna.%20021U1688.md).
 
 ## Art. 4.
 

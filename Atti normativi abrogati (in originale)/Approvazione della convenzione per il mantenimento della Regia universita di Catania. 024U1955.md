@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Veduti gli [articoli 3](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [82 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md); 
  
- Veduto il Regolamento Generale Universitario approvato con [R. decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674); 
+ Veduto il Regolamento Generale Universitario approvato con [R. decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md); 
  
  Udito il Consiglio Superiore della pubblica istruzione; 
  

@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 3 agosto 1890, n. 7045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-03;7045);
+Visto il [R. decreto 3 agosto 1890, n. 7045](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20per%20la%20vigilanza%20igienica%20sugli%20alimenti%20sulle%20bevande%20e%20sugli%20oggetti%20di%20uso%20domestico.%20090U7045.md);
 
 Vista la [legge 29 marzo 1940, n. 295](Produzione%20nel%20Regno%20della%20saccarina.%20040U0295.md);
 

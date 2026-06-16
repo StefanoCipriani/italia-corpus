@@ -38,7 +38,7 @@ Sulla proposta del Ministro Segretario di Stato per le comunicazioni, di concert
 
 ## Art. 1.
 
-Le tabelle organiche dei gruppi A e C del personale civile dell'Amministrazione centrale della Marina mercantile di cui all'[art. 1 del R. decreto 19 ottobre 1933, n. 1390](Ordinamento%20degli%20organici%20della%20Marina%20mercantile.%20033U1390.md), sono sostituite dalle seguenti: 
+Le tabelle organiche dei gruppi A e C del personale civile dell'Amministrazione centrale della Marina mercantile di cui all'[art. 1 del R. decreto 19 ottobre 1933, n. 1390](../Regi%20decreti/Ordinamento%20degli%20organici%20della%20Marina%20mercantile.%20033U1390.md), sono sostituite dalle seguenti: 
  
  
 
@@ -151,7 +151,7 @@ Il ruolo Speciale delle telefoniste dell'Amministrazione centrale della Marina m
 
 ## Art. 6.
 
-Il Consiglio di amministrazione, di cui all'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11), per il personale civile dell'Amministrazione della Marina mercantile, e' presieduto dal Ministro per le comunicazioni o dal Sottosegretario di Stato della marina mercantile o dal direttore generale della marina mercantile. 
+Il Consiglio di amministrazione, di cui all'[art. 11 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), per il personale civile dell'Amministrazione della Marina mercantile, e' presieduto dal Ministro per le comunicazioni o dal Sottosegretario di Stato della marina mercantile o dal direttore generale della marina mercantile. 
  
  Del Consiglio stesso fanno parte, oltre al direttore generale della Marina mercantile, il generale ispettore delle Capitanerie di porto, un ispettore generale amministrativo, designato dal Ministro, ed il capo del personale.
 
@@ -167,7 +167,7 @@ Ai posti che rimangano scoperti nei vari gradi del gruppo A del ruolo amministra
  
  Il servizio gia' prestato da detti ufficiali nel Corpo delle capitanerie di porto o in altre Amministrazioni dello Stato sara' considerato nei limiti, alle condizioni e per gli effetti previsti dalle disposizioni vigenti in materia, come prestato nell'Amministrazione centrale della Marina mercantile. 
  
- Agli ufficiali delle Capitanerie di porto che siano stati trasferiti nel ruolo amministrativo in base alle norme del presente decreto ed a quelli che vi abbiano fatto passaggio in applicazione dell'art. 2 del R. decreto 19 ottobre 1933-XI, n. 1390, i quali abbiano superato nel Corpo di provenienza gli esami per la promozione da tenente a capitano o da capitano a maggiore, e' estesa l'applicabilita' dell'[art. 4 del R. decreto 20 novembre 1930, n. 1482](Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md).
+ Agli ufficiali delle Capitanerie di porto che siano stati trasferiti nel ruolo amministrativo in base alle norme del presente decreto ed a quelli che vi abbiano fatto passaggio in applicazione dell'art. 2 del R. decreto 19 ottobre 1933-XI, n. 1390, i quali abbiano superato nel Corpo di provenienza gli esami per la promozione da tenente a capitano o da capitano a maggiore, e' estesa l'applicabilita' dell'[art. 4 del R. decreto 20 novembre 1930, n. 1482](../Regi%20decreti/Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md).
 
 ### Art. 8.
 

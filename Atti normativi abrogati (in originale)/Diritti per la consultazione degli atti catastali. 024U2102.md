@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 4 luglio 1897, n. 276](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20conservazione%20dei%20catasti%20dei%20terreni%20e%20fabbricati.%20097U0276.md), che approva il testo unico delle disposizioni sulla conservazione del catasto;
+Veduto il [R. decreto 4 luglio 1897, n. 276](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20legislative%20sulla%20conservazione%20dei%20catasti%20dei%20terreni%20e%20fabbricati.%20097U0276.md), che approva il testo unico delle disposizioni sulla conservazione del catasto;
 
-Veduto il [R. decreto 26 gennaio 1902, n. 76](Approvazione%20del%20Regolamento%20per%20la%20conservazione%20del%20nuovo%20catasto.%20002U0076.md), che approva il regolamento per la conservazione del nuovo catasto;
+Veduto il [R. decreto 26 gennaio 1902, n. 76](../Regi%20decreti/Approvazione%20del%20Regolamento%20per%20la%20conservazione%20del%20nuovo%20catasto.%20002U0076.md), che approva il regolamento per la conservazione del nuovo catasto;
 
 Considerata la necessita' di disciplinare la consultazione degli atti del catasto dei terreni e dei fabbricati presso gli uffici distrettuali delle imposte e le sezioni tecniche catastali;
 
@@ -36,7 +36,7 @@ Per usufruire della facolta' concessa dal precedente articolo e' dovuto da parte
  
  Tale diritto sara' corrisposto all'ufficio presso il quale viene eseguito il lavoro mediante marche da bollo a tassa fissa. Una meta' del diritto medesimo e' devoluta a favore del pernale dell'ufficio stesso che ne otterra' il pagamento in base alla presentazione trimestrale, alla Intendenza di finanza della Provincia, delle marche da bollo riscosse ed annullate col timbro d'ufficio. 
  
- Per il pagamento al personale degli uffici del diritto come sopra stabilito sara' provveduto al necessario aumento del capitolo stanziato nel bilancio della spesa del Ministero delle finanze di cui all'[art. 3 del R. decreto 7 gennaio 1923, n. 18](Che%20reca%20modificazioni%20alla%20tariffa%20dei%20diritti%20catastali%20023U0018.md).
+ Per il pagamento al personale degli uffici del diritto come sopra stabilito sara' provveduto al necessario aumento del capitolo stanziato nel bilancio della spesa del Ministero delle finanze di cui all'[art. 3 del R. decreto 7 gennaio 1923, n. 18](../Regi%20decreti/Che%20reca%20modificazioni%20alla%20tariffa%20dei%20diritti%20catastali%20023U0018.md).
 
 ## Art. 3.
 

@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto 12 aprile 1888, N. 5331](Che%20modifica%20alcune%20voci%20della%20tariffa%20generale%20per%20le%20dogane%20a%20partire%20dal%201%20maggio%201888.%20088U5331.md) (Serie 3ª), che modifica la tariffa generale per le dogane rispetto ai dazii di entrata sui pesci marinati e sott'olio, compreso il tonno. 
+ E' convertito in legge il [Regio decreto 12 aprile 1888, N. 5331](../Regi%20decreti/Che%20modifica%20alcune%20voci%20della%20tariffa%20generale%20per%20le%20dogane%20a%20partire%20dal%201%20maggio%201888.%20088U5331.md) (Serie 3ª), che modifica la tariffa generale per le dogane rispetto ai dazii di entrata sui pesci marinati e sott'olio, compreso il tonno. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

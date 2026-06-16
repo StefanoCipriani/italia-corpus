@@ -18,7 +18,7 @@ Vista la domanda in data 11 dicembre 1921, con la quale il sindaco del comune di
 
 Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md);
 
-Visto il testo unico delle leggi sui consorzi ed opere d'irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-02;1747);
+Visto il testo unico delle leggi sui consorzi ed opere d'irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20Consorzi%20ed%20opere%20di%20irrigazione.%20022U1747.md);
 
 Visto l'[art. 4 della legge 20 agosto 1921, n. 1177](Che%20reca%20provvedimenti%20contro%20la%20disoccupazione.%20021U1177.md);
 

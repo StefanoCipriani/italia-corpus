@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3283](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvata la legge tributaria automobilistica;
+Visto il [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), col quale venne approvata la legge tributaria automobilistica;
 
 Visto il [R. decreto-legge 29 dicembre 1927, n. 2446](Provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20027U2446.md), convertito nella [legge 29 novembre 1928, n. 3421](Conversione%20in%20legge%20del%20R.%20decreto%20legge%2029%20dicembre%201927%20n.%202446%20contenente%20provvedimenti%20di%20finanza%20per%20lindustria%20automobilistica%20e%20per%20le%20strade.%20028U3421.md);
 

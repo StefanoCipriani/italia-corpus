@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive estensioni e modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive estensioni e modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -40,7 +40,7 @@ Con decreto Ministeriale sara' stabilita la data dalla quale cominceranno a funz
 
 ## Art. 3.
 
-Nel ruolo organico della carriera amministrativa dell'Amministrazione centrale e delle Intendenze di finanza, di cui alla tabella n. 1 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive variazioni, sono aggiunti i seguenti posti: 
+Nel ruolo organico della carriera amministrativa dell'Amministrazione centrale e delle Intendenze di finanza, di cui alla tabella n. 1 dell'allegato II al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive variazioni, sono aggiunti i seguenti posti: 
  
  Grado 6° - Intendenti di finanza di 2 classe, n. 16; 
  

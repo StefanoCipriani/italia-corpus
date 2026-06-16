@@ -16,7 +16,7 @@ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visto l' ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
 
-Visto il [regio decreto legislativo 31 maggio 1946 numero 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511);
+Visto il [regio decreto legislativo 31 maggio 1946 numero 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 

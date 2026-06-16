@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 3, comma terzo](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md), e [66, comma secondo, della legge 25 marzo 1926, n. 453](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md), e l'[art. 106, comma secondo, del R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683#art_106-com2);
+Visti gli [articoli 3, comma terzo](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md), e [66, comma secondo, della legge 25 marzo 1926, n. 453](Ordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U0453.md), e l'[art. 106, comma secondo, del R. decreto 26 agosto 1926, n. 1683](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20marzo%201926%20n.%20453%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U1683.md);
 
-Ritenuta la necessita' d'interpretare l'anzidetto [art. 106, comma secondo, del R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683#art_106-com2);
+Ritenuta la necessita' d'interpretare l'anzidetto [art. 106, comma secondo, del R. decreto 26 agosto 1926, n. 1683](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20marzo%201926%20n.%20453%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U1683.md);
 
 Visti gli [articoli 8 del R. decreto-legge 22 novembre 1928, n. 2580](Modificazione%20delle%20norme%20vigenti%20sui%20Consigli%20dei%20Collegi%20degli%20avvocati%20e%20dei%20procuratori%20e%20sulle%20rispettive%20assemblee%20nonche%20sul%20Consiglio%20superiore%20forense.%20028U2580.md), convertito nella [legge 24 dicembre 1928, n. 2943](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20novembre%201928%20n.%202580%20che%20modifica%20le%20norme%20vigenti%20sui%20Consigli%20dei%20Collegi%20degli%20avvocati%20e%20procuratori%20e%20sulle%20rispettive%20assemblee%20nonche%20_7c2fcbeaae6a.md), e 3, n. 1, della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Articolo unico.
 
-Al [secondo comma dell'art. 106 del R. decreto 26 agosto 1926, n. 1683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-26;1683#art_106-com2), e' sostituito il seguente: 
+Al [secondo comma dell'art. 106 del R. decreto 26 agosto 1926, n. 1683](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2025%20marzo%201926%20n.%20453%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20026U1683.md), e' sostituito il seguente: 
  
  «Ferma la dichiarazione prevista nell'art. 25 del presente regolamento, la retribuzione in misura fissa e periodica della prestazione professionale non basta, agli effetti del terzo comma dell'art. 3 della legge predetta, a costituire l'avvocato o il procuratore nella condizione di impiegato, quando dai regolamenti ovvero da dichiarazioni della societa' o dell'ente ai quali la prestazione e' data risulti esclusa la dipendenza gerarchica nei riguardi della societa' o dell'ente ovvero dei rispettivi rappresentanti od agenti». 
  

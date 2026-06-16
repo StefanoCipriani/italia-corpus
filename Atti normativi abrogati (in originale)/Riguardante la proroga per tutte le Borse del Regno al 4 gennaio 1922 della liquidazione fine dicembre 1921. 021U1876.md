@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti gli [articoli 17 della legge 26 marzo 1913, numero 272 e 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-26;33#art_17) del regolamento approvato con [R. decreto del 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068); 
+ Visti gli [articoli 17 della legge 26 marzo 1913, numero 272 e 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-26;33#art_17) del regolamento approvato con [R. decreto del 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md); 
  
  Visto il [R. decreto 30 settembre 1913, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-09-30;1110) con cui viene approvato l'orario unico delle Borse di commercio del Regno; 
  

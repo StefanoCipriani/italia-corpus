@@ -120,7 +120,7 @@ Nei bilanci dell'Amministrazione dei monopoli di Stato, dell'Azienda monopolio b
 
 ### Art. 22.
 
-Nell'elenco n. 1, annesso allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1960-61, concernente i capitoli per i quali e' concessa la facolta' di cui all'[articolo 40 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e' aggiunto il capitolo n. 436-bis "Somma da corrispondere all'Ufficio italiano dei cambi, ecc." dello stato di previsione del Ministero del tesoro.
+Nell'elenco n. 1, annesso allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1960-61, concernente i capitoli per i quali e' concessa la facolta' di cui all'[articolo 40 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e' aggiunto il capitolo n. 436-bis "Somma da corrispondere all'Ufficio italiano dei cambi, ecc." dello stato di previsione del Ministero del tesoro.
 
 ### Art. 23.
 

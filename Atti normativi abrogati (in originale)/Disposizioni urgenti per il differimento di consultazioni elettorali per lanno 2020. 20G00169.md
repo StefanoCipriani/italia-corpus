@@ -36,11 +36,11 @@ Emana il seguente decreto-legge:
 
 1.
 
-Le elezioni dei comuni i cui organi sono stati sciolti ai sensi dell'articolo 143 del testo unico delle leggi sull'ordinamento degli enti locali di cui al [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), gia' indette per le date del 22 e 23 novembre 2020, sono rinviate e si svolgono entro il 31 marzo 2021 mediante l'integrale rinnovo del procedimento di presentazione di tutte le liste e candidature a sindaco e a consigliere comunale.
+Le elezioni dei comuni i cui organi sono stati sciolti ai sensi dell'articolo 143 del testo unico delle leggi sull'ordinamento degli enti locali di cui al [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), gia' indette per le date del 22 e 23 novembre 2020, sono rinviate e si svolgono entro il 31 marzo 2021 mediante l'integrale rinnovo del procedimento di presentazione di tutte le liste e candidature a sindaco e a consigliere comunale.
 
 2.
 
-Fino al rinnovo degli organi di cui al comma 1 e' prorogata la durata della gestione della Commissione straordinaria di cui all'[articolo 144 del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md).
+Fino al rinnovo degli organi di cui al comma 1 e' prorogata la durata della gestione della Commissione straordinaria di cui all'[articolo 144 del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md).
 
 ## Art. 2. — Disposizioni d'urgenza per lo svolgimento delle elezioni dei consigli metropolitani, dei presidenti delle province e dei consigli provinciali
 

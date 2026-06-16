@@ -22,7 +22,7 @@ VITTORIO EMANUELE II
  
  Articolo unico. 
  
- Il fondo di lire 17,518,411, approvato al capitolo 38 del bilancio definitivo 1872 del Ministero dell'Interno, e' aumentato di lire 2,400,00, rimanendo annullato il prelevamento fatto di lire 600,000 sul fondo delle spese impreviste col [Regio Decreto 18 novembre 1872, n. 1105](Che%20dal%20fondo%20delle%20spese%20impreviste%20ordina%20una%20settima%20prelevazione%20nella%20somma%20di%20lire%20due%20milioni%20cento%20diecimila.%20072U1105.md). 
+ Il fondo di lire 17,518,411, approvato al capitolo 38 del bilancio definitivo 1872 del Ministero dell'Interno, e' aumentato di lire 2,400,00, rimanendo annullato il prelevamento fatto di lire 600,000 sul fondo delle spese impreviste col [Regio Decreto 18 novembre 1872, n. 1105](../Regi%20decreti/Che%20dal%20fondo%20delle%20spese%20impreviste%20ordina%20una%20settima%20prelevazione%20nella%20somma%20di%20lire%20due%20milioni%20cento%20diecimila.%20072U1105.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
  

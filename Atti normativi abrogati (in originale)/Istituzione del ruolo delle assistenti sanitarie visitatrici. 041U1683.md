@@ -50,7 +50,7 @@ Grado Qualifica Numero
 
 ## Art. 2.
 
-L'ammissione nel grado iniziale di gruppo C ha luogo mediante esame di concorso al quale possono adire coloro che siano in possesso del diploma di Stato di assistente sanitaria visitatrice conseguito a norma dell'[art. 136 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_136) approvato con R. decreto 27 luglio 1934-XII, n. 1265, o in applicazione della disposizione dell'art. 43 del R. decreto 21 novembre 1929-VIII, n. 2330, nonche' del titolo di studio di cui all'art. 16 lettera c) del R. decreto 11 novembre 1923-II, n. 2395.
+L'ammissione nel grado iniziale di gruppo C ha luogo mediante esame di concorso al quale possono adire coloro che siano in possesso del diploma di Stato di assistente sanitaria visitatrice conseguito a norma dell'[art. 136 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto 27 luglio 1934-XII, n. 1265, o in applicazione della disposizione dell'art. 43 del R. decreto 21 novembre 1929-VIII, n. 2330, nonche' del titolo di studio di cui all'art. 16 lettera c) del R. decreto 11 novembre 1923-II, n. 2395.
 
 ## Art. 3.
 

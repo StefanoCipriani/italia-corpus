@@ -18,7 +18,7 @@ Ritenuta la necessita' e l'urgenza di istituire un nuovo posto di presidente di 
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [2 dicembre 1923, n. 2596](Modificazioni%20al%20numero%20dei%20magistrati%20assegnati%20ai%20tribunali%20di%20Ferrara%20e%20di%20Forli.%20023U2596.md), [30 novembre 1924, n. 1962](Ripartizione%20nei%20vari%20gradi%20di%20cui%20alla%20tabella%20n.%2015%20dellallegato%20II%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20dei%20200%20posti%20aumentati%20nel%20ruolo%20organico%20della%20magistratura%20per%20effetto%20dell_dc1976f86830.md), e [3 giugno 1926, n. 954](Modificazioni%20alle%20piante%20organiche%20del%20personale%20della%20magistratura%20e%20delle%20cancellerie%20e%20segreterie%20giudiziarie%20in%20applicazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridi_30aa0d73a38f.md);
+Visti i [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), [2 dicembre 1923, n. 2596](../Regi%20decreti/Modificazioni%20al%20numero%20dei%20magistrati%20assegnati%20ai%20tribunali%20di%20Ferrara%20e%20di%20Forli.%20023U2596.md), [30 novembre 1924, n. 1962](../Regi%20decreti/Ripartizione%20nei%20vari%20gradi%20di%20cui%20alla%20tabella%20n.%2015%20dellallegato%20II%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20dei%20200%20posti%20aumentati%20nel%20ruolo%20organico%20della%20magistratura%20per%20effetto%20dell_dc1976f86830.md), e [3 giugno 1926, n. 954](../Regi%20decreti/Modificazioni%20alle%20piante%20organiche%20del%20personale%20della%20magistratura%20e%20delle%20cancellerie%20e%20segreterie%20giudiziarie%20in%20applicazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridi_30aa0d73a38f.md);
 
 Visto il [R. decreto-legge 11 novembre 1924, n. 1738](Modificazioni%20alla%20pianta%20organica%20del%20personale%20della%20magistratura%20e%20disposizioni%20varie%20di%20coordinamento%20col%20testo%20unico%20sullordinamento%20giudiziario.%20024U1738.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la gius
 
 ## Art. 1.
 
-La pianta organica della Corte di cassazione del Regno e' aumentata di un posto di presidente di sezione ed e' diminuita di un posto di consigliere di cassazione, fermo restando il numero complessivo di magistrati appartenenti al grado 4° dell'ordinamento gerarchico, stabilito nella tabella n. 15 allegata al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e nelle successive modificazioni.
+La pianta organica della Corte di cassazione del Regno e' aumentata di un posto di presidente di sezione ed e' diminuita di un posto di consigliere di cassazione, fermo restando il numero complessivo di magistrati appartenenti al grado 4° dell'ordinamento gerarchico, stabilito nella tabella n. 15 allegata al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e nelle successive modificazioni.
 
 ## Art. 2.
 

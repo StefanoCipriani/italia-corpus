@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
 Udito il Consiglio dei ministri;
 
@@ -28,11 +28,11 @@ Sulla proposta del ministro segretario di Stato per l'industria, il commercio e 
 
 ## Art. 1.
 
-La tariffa dei diritti da pagarsi per la verificazione prima dei pesi e delle misure e degli strumenti per pesare e per misurare e per ogni verificazione dei misuratori dei gas e dei manometri campioni (tabella B) annessa al testo unico delle leggi metriche, approvato con [Regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª) e' sostituita da quella annessa al presente decreto, vista, d'ordine Nostro, dai ministri proponenti, che andra' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale del Regno.
+La tariffa dei diritti da pagarsi per la verificazione prima dei pesi e delle misure e degli strumenti per pesare e per misurare e per ogni verificazione dei misuratori dei gas e dei manometri campioni (tabella B) annessa al testo unico delle leggi metriche, approvato con [Regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª) e' sostituita da quella annessa al presente decreto, vista, d'ordine Nostro, dai ministri proponenti, che andra' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale del Regno.
 
 ## Art. 2.
 
-Con decreto Reale, sentita la Commissione superiore metrica ed udito il Consiglio di Stato, saranno definiti gli strumenti per pesare fissi e gli strumenti per pesare automatici, anche agli effetti dell'art. 20 del testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª), e delle operazioni tecniche di collaudo.
+Con decreto Reale, sentita la Commissione superiore metrica ed udito il Consiglio di Stato, saranno definiti gli strumenti per pesare fissi e gli strumenti per pesare automatici, anche agli effetti dell'art. 20 del testo unico delle leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª), e delle operazioni tecniche di collaudo.
 
 ## Art. 3.
 

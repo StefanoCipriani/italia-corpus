@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visti i [Regi decreti 23 febbraio 1888, n. 5243](Che%20istituisce%20un%20Archivio%20notarile%20mandamentale%20nel%20comune%20di%20Chiusa%20Sclafani%20Palermo.%20088U5243.md), e [24 marzo 1923, n. 601](Riguardante%20la%20circoscrizione%20giudiziaria%20del%20Regno.%20023U0601.md), con i quali rispettivamente fu istituito l'archivio notarile mandamentale di Chiusa Sclafani e venne soppressa la pretura con sede in detto Comune; 
  
- Visto l'[art. 248, comma 1°, del R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326#art_248-com1); 
+ Visto l'[art. 248, comma 1°, del R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md); 
  
  Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la giustizia e gli affari di culto; 
  

@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 5 dello Statuto fondamentale del Regno;
 
-Visto il [R. decreto 16 agosto 1929, n. 1680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-16;1680);
+Visto il [R. decreto 16 agosto 1929, n. 1680](../Regi%20decreti/Esecuzione%20della%20Convenzione%20sanitaria%20internazionale%20firmata%20a%20Parigi%20il%2021%20giugno%201926.%20029U1680.md);
 
 Udito il Consiglio dei Ministri;
 

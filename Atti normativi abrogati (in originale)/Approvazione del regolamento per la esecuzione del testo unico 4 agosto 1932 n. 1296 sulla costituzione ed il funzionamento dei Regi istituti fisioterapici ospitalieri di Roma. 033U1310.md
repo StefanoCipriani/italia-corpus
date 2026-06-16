@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' approvato l'annesso speciale regolamento per l'esecuzione del testo unico, approvato con [R. decreto 4 agosto 1932, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-08-04;1296), contenente le disposizioni per la costituzione ed il funzionamento dei Regi istituti fisioterapici ospitalieri in Roma, che sara' vidimato e sottoscritto, d'ordine Nostro, dai Ministri proponenti. 
+E' approvato l'annesso speciale regolamento per l'esecuzione del testo unico, approvato con [R. decreto 4 agosto 1932, n. 1296](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20costituzione%20ed%20il%20funzionamento%20dei%20Regi%20istituti%20fisioterapici%20ospitalieri%20in%20Roma.%20032U1296.md), contenente le disposizioni per la costituzione ed il funzionamento dei Regi istituti fisioterapici ospitalieri in Roma, che sara' vidimato e sottoscritto, d'ordine Nostro, dai Ministri proponenti. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

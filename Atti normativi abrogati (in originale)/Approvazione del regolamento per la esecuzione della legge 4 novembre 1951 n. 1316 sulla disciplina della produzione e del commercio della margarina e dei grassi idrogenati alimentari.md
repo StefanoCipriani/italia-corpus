@@ -59,7 +59,7 @@ I locali destinati alla produzione, alla manipolazione ed al confezionamento dei
  Il pavimento e le pareti fino ad altezza non inferiore a m. 1,60 dei singoli reparti debbono essere costruiti in modo da permettere il lavaggio ed il rapido deflusso delle acque usate a tale scopo a mezzo di appropriati chiusini. L'attrezzatura dello stabilimento deve essere sistemata in modo da consentire una perfetta pulizia. 
  Sia l'impianto idrico che le fognature debbono rispondere alle norme igienico-sanitarie vigenti al riguardo. 
  I locali di deposito sia delle imprese produttrici sia delle imprese che esercitano il commercio all'ingrosso debbono essere rispondenti alle normali regole di igiene. 
- Al personale addetto alla preparazione, manipolazione e vendita della margarina e dei grassi idrogenati alimentari si applicano le disposizioni di cui all'[art. 262 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_262), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+ Al personale addetto alla preparazione, manipolazione e vendita della margarina e dei grassi idrogenati alimentari si applicano le disposizioni di cui all'[art. 262 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 ## Art. 6.
 

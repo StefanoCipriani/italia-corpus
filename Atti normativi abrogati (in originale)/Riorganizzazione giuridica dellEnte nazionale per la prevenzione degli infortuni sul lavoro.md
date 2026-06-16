@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'Ente nazionale di propaganda per la prevenzione degli infortuni, riconosciuto con [regio decreto 25 ottobre 1938, n. 2176](Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20Nazionale%20di%20Propaganda%20per%20la%20Prevenzione%20Infortuni%20E.N.P.I..%20038U2176.md), assume la denominazione di Ente nazionale per la prevenzione degli infortuni (E.N.P.I.).
+L'Ente nazionale di propaganda per la prevenzione degli infortuni, riconosciuto con [regio decreto 25 ottobre 1938, n. 2176](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20Nazionale%20di%20Propaganda%20per%20la%20Prevenzione%20Infortuni%20E.N.P.I..%20038U2176.md), assume la denominazione di Ente nazionale per la prevenzione degli infortuni (E.N.P.I.).
  Esso ha personalita' giuridica di diritto pubblico ed ha sede in Roma.
 
 ## Art. 2.

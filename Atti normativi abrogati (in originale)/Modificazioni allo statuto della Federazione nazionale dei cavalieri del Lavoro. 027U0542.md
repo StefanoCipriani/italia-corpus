@@ -14,7 +14,7 @@ N.
 
 542.
 
-R. decreto 7 aprile 1927, col quale, sulla proposta del Ministro per l'economia nazionale, vengono approvate alcune modificazioni allo statuto della Federazione nazionale dei cavalieri del Lavoro, eretta in ente morale col [R. decreto 26 febbraio 1925, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-26;263). 
+R. decreto 7 aprile 1927, col quale, sulla proposta del Ministro per l'economia nazionale, vengono approvate alcune modificazioni allo statuto della Federazione nazionale dei cavalieri del Lavoro, eretta in ente morale col [R. decreto 26 febbraio 1925, n. 263](../Regi%20decreti/Erezione%20in%20Ente%20morale%20della%20Federazione%20nazionale%20dei%20cavalieri%20del%20lavoro%20in%20Roma.%20025U0263.md). 
  
  Visto, il Guardasigilli: Rocco. 
  

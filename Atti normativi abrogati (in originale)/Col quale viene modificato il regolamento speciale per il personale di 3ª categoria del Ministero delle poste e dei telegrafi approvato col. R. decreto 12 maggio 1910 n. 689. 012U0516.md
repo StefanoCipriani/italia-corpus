@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Art. 6-bis. 
  
- 1. Allo scopo di facilitare agli agenti di manutenzione la sorveglianza delle linee telegrafiche e telefoniche, puo' essere ad essi conferita la qualita' di agente di P. S. mediante decreto (rilasciato sul modello 95) dal Ministero dell'interno, a termini dell'art. 43 del testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza, approvato con [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690). 
+ 1. Allo scopo di facilitare agli agenti di manutenzione la sorveglianza delle linee telegrafiche e telefoniche, puo' essere ad essi conferita la qualita' di agente di P. S. mediante decreto (rilasciato sul modello 95) dal Ministero dell'interno, a termini dell'art. 43 del testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza, approvato con [R. decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md). 
  
  2. Qualora l'Amministrazione ritenga opportuno che gli agenti di manutenzione riconosciuti, come sopra, quali agenti di P. S. abbiano anche l'autorizzazione di andare armati, essi potranno, agli effetti dell'art. 19 del regolamento per l'esecuzione della legge di P. S., approvato con [R. decreto 8 novembre 1889, n. 6517](Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md) (serie 3ª), portare in servizio la rivoltella. 
  

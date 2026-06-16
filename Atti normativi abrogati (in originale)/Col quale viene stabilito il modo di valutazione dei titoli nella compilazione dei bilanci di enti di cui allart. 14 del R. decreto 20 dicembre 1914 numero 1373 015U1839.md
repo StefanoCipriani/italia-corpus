@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Gli enti indicati nell'[art. 14 del R. decreto 20 dicembre 1914, n. 1373](Che%20concerne%20il%20rimborso%20dei%20depositi%20presso%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U1373.md), nella formazione dei loro bilanci al 31 dicembre 1915, hanno facolta' di valutare i titoli o valori di loro proprieta' ai prezzi di compenso del 30 giugno 1914, con una detrazione in misura non inferiore al tre per cento per i valori il cui prezzo corrente sia disceso a questo limite o al disotto. 
+Gli enti indicati nell'[art. 14 del R. decreto 20 dicembre 1914, n. 1373](../Regi%20decreti/Che%20concerne%20il%20rimborso%20dei%20depositi%20presso%20Istituti%20di%20varia%20natura%20e%20il%20pagamento%20delle%20cambiali.%20014U1373.md), nella formazione dei loro bilanci al 31 dicembre 1915, hanno facolta' di valutare i titoli o valori di loro proprieta' ai prezzi di compenso del 30 giugno 1914, con una detrazione in misura non inferiore al tre per cento per i valori il cui prezzo corrente sia disceso a questo limite o al disotto. 
  
  Per le Casse di risparmio e i Monti di pieta' autorizzati a ricevere depositi valgono le norme da emanare dal Ministero di agricoltura, industria e commercio, purche' la svalutazione sui titoli del debito pubblico consolidato non sia inferiore al tre per cento. 
  

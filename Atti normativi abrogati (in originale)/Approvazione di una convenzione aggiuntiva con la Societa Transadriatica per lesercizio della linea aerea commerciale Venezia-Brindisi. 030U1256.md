@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 20 agosto 1923, n. 2207](Norme%20per%20la%20navigazione%20aerea.%20023U2207.md), convertito nella [legge 31 gennaio 1926, n. 753](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), contenente provvedimenti per la navigazione aerea;
+Visto il [R. decreto 20 agosto 1923, n. 2207](../Regi%20decreti/Norme%20per%20la%20navigazione%20aerea.%20023U2207.md), convertito nella [legge 31 gennaio 1926, n. 753](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), contenente provvedimenti per la navigazione aerea;
 
 Visto il [R. decreto-legge 18 ottobre 1923, n. 3176](Concessione%20dei%20servizi%20di%20trasporto%20esercitati%20con%20aeromobili.%20023U3176.md), convertito nella [legge 31 gennaio 1926, n. 753](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), contenente norme per la concessione dei servizi di trasporti esercitati con aeromobili;
 

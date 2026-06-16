@@ -16,11 +16,11 @@ Visto il [decreto legislativo luogotenenziale 19 ottobre 1944, n. 301](../Decret
 
 Visto il [decreto legislativo luogotenenziale 30 novembre 1945, n. 880](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), concernente le norme integrative delle disposizioni sulla riammissione in servizio e sulla ricostruzione delle carriere dei pubblici impiegati perseguitati per motivi politici dal cessato regime;
 
-Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' dell'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 8 maggio 1933, n. 841](Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md);
+Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' dell'Amministrazione delle poste e dei telegrafi, approvato con [regio decreto 8 maggio 1933, n. 841](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md);
 
-Visto il Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e successive modificazioni;
+Visto il Codice postale e delle telecomunicazioni, approvato col [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e successive modificazioni;
 
-Visto il regolamento delle ricevitorie, delle agenzie e dei servizi rurali dell'Amministrazione postale telegrafica approvato col [regio decreto 5 novembre 1937, n. 2161](Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), e successive modificazioni;
+Visto il regolamento delle ricevitorie, delle agenzie e dei servizi rurali dell'Amministrazione postale telegrafica approvato col [regio decreto 5 novembre 1937, n. 2161](../Regi%20decreti/Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), e successive modificazioni;
 
 Visto l'[art. 1, numeri 1](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) e [3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e successive modificazioni;
 

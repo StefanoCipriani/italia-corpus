@@ -22,7 +22,7 @@ UMBERTO I
  
  Articolo unico. 
  
- E' convertito in legge il [Regio decreto del 1° aprile 1897 n. 127](Che%20da%20piena%20ed%20intera%20esecuzione%20allaccordo%20commerciale%20provvisorio%20fra%20lItalia%20e%20la%20Bulgaria.%20097U0127.md), col quale e' data esecuzione, a decorrere dal 13 di quello stesso mese, all'accordo commerciale provvisorio, fra l'Italia e la Bulgaria, del 12 marzo 1897. 
+ E' convertito in legge il [Regio decreto del 1° aprile 1897 n. 127](../Regi%20decreti/Che%20da%20piena%20ed%20intera%20esecuzione%20allaccordo%20commerciale%20provvisorio%20fra%20lItalia%20e%20la%20Bulgaria.%20097U0127.md), col quale e' data esecuzione, a decorrere dal 13 di quello stesso mese, all'accordo commerciale provvisorio, fra l'Italia e la Bulgaria, del 12 marzo 1897. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

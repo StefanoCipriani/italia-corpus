@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato; Abbiamo
 
 E' istituito, alla dipendenza del Ministero dell'interno, l'«Ufficio centrale demografico». 
  
- Alla direzione dell'Ufficio e' preposto un prefetto, scelto fra quelli a disposizione a termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_102).
+ Alla direzione dell'Ufficio e' preposto un prefetto, scelto fra quelli a disposizione a termini dell'[art. 102 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 2.
 

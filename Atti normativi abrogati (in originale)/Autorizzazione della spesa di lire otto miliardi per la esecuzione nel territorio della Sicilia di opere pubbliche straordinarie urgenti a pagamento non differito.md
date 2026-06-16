@@ -28,7 +28,7 @@ E' autorizzata la spesa di lire otto miliardi per l'esecuzione, nel territorio d
 
 A carico della somma autorizzata in base al precedente articolo, potranno essere assunti impegni per le seguenti categorie di opere:
  a) per la riparazione dei danni di guerra;
- b) per la costruzione di alloggi per dar ricovero alle persone rimaste senza tetto in seguito agli eventi bellici, in applicazione del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
+ b) per la costruzione di alloggi per dar ricovero alle persone rimaste senza tetto in seguito agli eventi bellici, in applicazione del [decreto legislativo luogotenenziale 9 giugno 1945, n. 305](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md);
  c) per l'esecuzione di opere pubbliche varie di carattere straordinario;
  d) per i lavori di completamento e di nuova costruzione di fabbricati di proprieta' dell'Incis e degli Istituti autonomi per le case popolari.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 30 dicembre 1923, n. 3203](Provvedimenti%20per%20le%20stazioni%20e%20gli%20istituti%20sperimentali%20agrari%20e%20per%20la%20creazione%20di%20un%20istituto%20di%20economia%20e%20statistica%20agraria.%20023U3203.md), relativo ai provvedimenti per le stazioni e gli istituti sperimentali agrari e per la creazione di un Istituto di economia e statistica agraria;
 
-Visto il [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), col quale viene istituita la fondazione per la sperimentazione e la ricerca agraria;
+Visto il [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), col quale viene istituita la fondazione per la sperimentazione e la ricerca agraria;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
@@ -69,7 +69,7 @@ I compiti del Comitato tecnico direttivo sono:
 
 Il personale tecnico occorrente all'Istituto sara' assunto con contratto di impiego privato, dal Comitato direttivo, nei limiti del bilancio. 
  
- Potranno comandarsi presso l'Istituto funzionari di ruolo dipendenti dal Ministero dell'economia nazionale o da altre Amministrazioni dello Stato nei casi e con le norme stabilite dall'[art. 101, comma 2° del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101-com2).
+ Potranno comandarsi presso l'Istituto funzionari di ruolo dipendenti dal Ministero dell'economia nazionale o da altre Amministrazioni dello Stato nei casi e con le norme stabilite dall'[art. 101, comma 2° del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 5.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 1, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 2 luglio 1891, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-07-02;435), che stabilisce il distintivo per i piroscafi postali addetti alle linee sovvenzionate dello Stato;
+Visto il [R. decreto 2 luglio 1891, n. 435](../Regi%20decreti/Che%20stabilisce%20che%20i%20piroscafi%20addetti%20alle%20linee%20sovvenzionate%20dallo%20Stato%20alzino%20in%20testa%20dalbero%20di%20trinchetto%20un%20guidone%20di%20modello%20speciale.%20091U0435.md), che stabilisce il distintivo per i piroscafi postali addetti alle linee sovvenzionate dello Stato;
 
 Visto il [R. decreto 30 aprile 1924, n. 596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-30;596), col quale i servizi della marina mercantile e delle poste e dei telegrafi vengono trasferiti al Ministero delle comunicazioni;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abb
 
 ## Art. 1.
 
-Il Ministro per le comunicazioni potra' concedere l'uso del guidone postale stabilito col [R. decreto 2 luglio 1891, numero 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-07-02;435), a societa' di navigazione od armatori, sia italiani che esteri, che si obblighino a trasportare con i propri piroscafi, adibiti a servizi permanenti o di carattere continuativo, periodici e regolari, gli effetti postali da e per gli uffici postali italiani. 
+Il Ministro per le comunicazioni potra' concedere l'uso del guidone postale stabilito col [R. decreto 2 luglio 1891, numero 435](../Regi%20decreti/Che%20stabilisce%20che%20i%20piroscafi%20addetti%20alle%20linee%20sovvenzionate%20dallo%20Stato%20alzino%20in%20testa%20dalbero%20di%20trinchetto%20un%20guidone%20di%20modello%20speciale.%20091U0435.md), a societa' di navigazione od armatori, sia italiani che esteri, che si obblighino a trasportare con i propri piroscafi, adibiti a servizi permanenti o di carattere continuativo, periodici e regolari, gli effetti postali da e per gli uffici postali italiani. 
  
  Il trasporto sara' gratuito, salvo speciali circostanze da valutarsi dal Ministro per le comunicazioni. 
  

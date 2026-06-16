@@ -18,9 +18,9 @@ IMPERATORE D'ETIOPIA
 
 Visto il R. decreto-legge 1° giugno 1936-XIV, n. 1019, sull'ordinamento e l'amministrazione dell'Africa Orientale Italiana, convertito nella legge 11 gennaio 1937-XV, n. 285;
 
-Visto il testo unico delle leggi sui pesi e sulle misure vigente nel Regno, approvato con il [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3a ) e successive modificazioni, e la [legge 7 luglio 1910, n. 480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-07;480), che stabilisce l'adozione del «carato metrico», del peso di 200 milligrammi, come unita' di massa nel commercio delle perle e delle pietre preziose;
+Visto il testo unico delle leggi sui pesi e sulle misure vigente nel Regno, approvato con il [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3a ) e successive modificazioni, e la [legge 7 luglio 1910, n. 480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-07;480), che stabilisce l'adozione del «carato metrico», del peso di 200 milligrammi, come unita' di massa nel commercio delle perle e delle pietre preziose;
 
-Visto il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con il [R. decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226);
+Visto il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con il [R. decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md);
 
 Visto il regolamento per il servizio metrico, approvato con il decreto 31 gennaio 1909, n. 242, e successive modificazioni;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana, di concer
 
 ## Art. 1.
 
-Al Governatore generale dell'Africa Orientale Italiana e' data facolta' di ordinare che nel territorio di ciascun Governo, ovvero di determinate circoscrizioni (Commissariati di Governo o Residenze) od anche soltanto di determinati centri urbani, di cui siano o vengano stabiliti i limiti, i pesi e le misure legali siano unicamente quelli indicati nel testo unico delle leggi sui pesi e sulle misure vigente nel Regno, approvato con il [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088), (serie 3a ), (in seguito chiamato «testo unico») e successive modificazioni, e nella [legge 7 luglio 1910, n. 480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-07;480). 
+Al Governatore generale dell'Africa Orientale Italiana e' data facolta' di ordinare che nel territorio di ciascun Governo, ovvero di determinate circoscrizioni (Commissariati di Governo o Residenze) od anche soltanto di determinati centri urbani, di cui siano o vengano stabiliti i limiti, i pesi e le misure legali siano unicamente quelli indicati nel testo unico delle leggi sui pesi e sulle misure vigente nel Regno, approvato con il [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), (serie 3a ), (in seguito chiamato «testo unico») e successive modificazioni, e nella [legge 7 luglio 1910, n. 480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-07;480). 
  
  Per i territori indicati nel primo comma, ciascun Governo cura la compilazione di tavole di ragguaglio dei pesi e delle misure locali con quelli del sistema metrico decimale da approvare con decreto del Governatore generale. 
  
@@ -58,11 +58,11 @@ Le ammende, prevedute nei numeri 1, 2 e 3 dell'art. 31 del testo unico sono stab
  
  1) da L. 50 a L. 200, per coloro che espongano in vendita o introducano in commercio pesi, misure e strumenti per pesare e misurare, mancanti del bollo di prima verificazione; 
  
- 2) da L. 25 a L. 100, per coloro che non adempiranno a quanto e' prescritto dall'art. 16 del testo unico o che abbiano omesso di domandare l'iscrizione nello stato degli utenti, a termini del n. 3 dell'art. 19 dello stesso testo unico, e per i contravventori a qualsiasi altra disposizione delle leggi sui pesi e sulle misure ed ai relativi regolamenti, quando non sia preveduta l'applicazione dell'[art. 692 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 2) da L. 25 a L. 100, per coloro che non adempiranno a quanto e' prescritto dall'art. 16 del testo unico o che abbiano omesso di domandare l'iscrizione nello stato degli utenti, a termini del n. 3 dell'art. 19 dello stesso testo unico, e per i contravventori a qualsiasi altra disposizione delle leggi sui pesi e sulle misure ed ai relativi regolamenti, quando non sia preveduta l'applicazione dell'[art. 692 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  3) L. 40, per i notai ed altri pubblici ufficiali che siano incorsi in contravvenzione alle disposizioni degli articoli 9, 10 e 11 del testo unico e per ogni altra persona che sia incorsa nella stessa contravvenzione. 
  
- Resta ferma l'ammenda preveduta nell'[art. 692 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) a carico di coloro che, in pubblico negozio, tengano misure e pesi diversi da quelli stabiliti dalla legge, salvo il disposto del terzo comma dell'art. 1 e del primo comma dell'art. 11 del presente decreto.
+ Resta ferma l'ammenda preveduta nell'[art. 692 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) a carico di coloro che, in pubblico negozio, tengano misure e pesi diversi da quelli stabiliti dalla legge, salvo il disposto del terzo comma dell'art. 1 e del primo comma dell'art. 11 del presente decreto.
 
 ## Art. 5.
 
@@ -81,7 +81,7 @@ Con decreto del Governatore puo' essere istituito un ufficio metrico con sede ne
 
 ## Art. 7.
 
-Nei territori compresi nella circoscrizione di un ufficio metrico, anche se in essi i pesi, le misure e gli strumenti del sistema metrico decimale non siano gli unici legali ai sensi dell'art. 1, i pesi, le misure e gli strumenti preveduti nel regolamento approvato con il [R. decreto 12 giugno 1902, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;266), nonche' quelli ammessi alla legalizzazione con successivi provvedimenti, posti in vendita od in uso di commercio, che siano sprovvisti dei bolli legali stabiliti dal regolamento approvato con il [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), e successive modificazioni, devono essere legalizzati entro tre mesi dall'emanazione del decreto governatoriale che determina la circoscrizione dell'ufficio metrico.
+Nei territori compresi nella circoscrizione di un ufficio metrico, anche se in essi i pesi, le misure e gli strumenti del sistema metrico decimale non siano gli unici legali ai sensi dell'art. 1, i pesi, le misure e gli strumenti preveduti nel regolamento approvato con il [R. decreto 12 giugno 1902, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;266), nonche' quelli ammessi alla legalizzazione con successivi provvedimenti, posti in vendita od in uso di commercio, che siano sprovvisti dei bolli legali stabiliti dal regolamento approvato con il [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), e successive modificazioni, devono essere legalizzati entro tre mesi dall'emanazione del decreto governatoriale che determina la circoscrizione dell'ufficio metrico.
 
 ## Art. 8.
 

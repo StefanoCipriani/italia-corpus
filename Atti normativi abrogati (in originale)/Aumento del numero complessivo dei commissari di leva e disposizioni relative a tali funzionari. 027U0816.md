@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 27 maggio 1923, n. 1309](Che%20riforma%20il%20servizio%20della%20leva%20del%20Regio%20esercito.%20023U1309.md), e successive modificazioni;
+Visto il [R. decreto 27 maggio 1923, n. 1309](../Regi%20decreti/Che%20riforma%20il%20servizio%20della%20leva%20del%20Regio%20esercito.%20023U1309.md), e successive modificazioni;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Vista la [legge 11 marzo 1926, n. 400](Nuovo%20ordinamento%20dellAmministrazione%20centrale%20della%20guerra%20e%20dei%20personali%20civili%20dipendenti.%20026U0400.md):
 
@@ -46,7 +46,7 @@ Agli uffici di leva delle Provincie che contano popolazione superiore ad un mili
 
 ## Art. 3.
 
-Ai concorsi per titoli ai posti di commissario di leva di cui al disposto dell'[art. 18 del R. decreto 27 maggio 1923, n. 1309](Che%20riforma%20il%20servizio%20della%20leva%20del%20Regio%20esercito.%20023U1309.md), possono essere ammessi anche gli ufficiali in aspettativa per riduzione di quadri senza richiamo in servizio, di cui al [R. decreto-legge 4 settembre 1925, n. 1600](Collocamento%20in%20aspettativa%20per%20riduzione%20di%20quadri%20degli%20ufficiali%20del%20Regio%20esercito%20in%20posizione%20ausiliaria%20speciale.%20025U1600.md). 
+Ai concorsi per titoli ai posti di commissario di leva di cui al disposto dell'[art. 18 del R. decreto 27 maggio 1923, n. 1309](../Regi%20decreti/Che%20riforma%20il%20servizio%20della%20leva%20del%20Regio%20esercito.%20023U1309.md), possono essere ammessi anche gli ufficiali in aspettativa per riduzione di quadri senza richiamo in servizio, di cui al [R. decreto-legge 4 settembre 1925, n. 1600](Collocamento%20in%20aspettativa%20per%20riduzione%20di%20quadri%20degli%20ufficiali%20del%20Regio%20esercito%20in%20posizione%20ausiliaria%20speciale.%20025U1600.md). 
  
  In caso di nomina si applicano ad essi tutte le disposizioni attualmente esistenti per i commissari di leva tratti dagli ufficiali della posizione ausiliaria. 
  

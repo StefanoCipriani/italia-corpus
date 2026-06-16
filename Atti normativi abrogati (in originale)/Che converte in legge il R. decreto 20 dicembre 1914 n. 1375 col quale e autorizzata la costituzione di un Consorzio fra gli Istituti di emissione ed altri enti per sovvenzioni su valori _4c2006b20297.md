@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 20 dicembre 1914, n. 1375](Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), che autorizza la costituzione di un Consorzio fra gli Istituti di emissione ed altri enti per sovvenzioni su valori industriali. 
+ E' convertito in legge il [R. decreto 20 dicembre 1914, n. 1375](../Regi%20decreti/Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), che autorizza la costituzione di un Consorzio fra gli Istituti di emissione ed altri enti per sovvenzioni su valori industriali. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

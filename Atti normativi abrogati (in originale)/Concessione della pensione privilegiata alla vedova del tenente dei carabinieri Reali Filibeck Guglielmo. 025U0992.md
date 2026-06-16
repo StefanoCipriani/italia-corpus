@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 ## Articolo unico.
 
-Alla signora Schwechla Maria Valeria, vedova del tenente dei carabinieri Reali Filibeck Guglielmo, spetta a decorrere dal 21 luglio 1922, la pensione privilegiata, in deroga a quanto stabilisce il terzo comma dell'art. 119 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+Alla signora Schwechla Maria Valeria, vedova del tenente dei carabinieri Reali Filibeck Guglielmo, spetta a decorrere dal 21 luglio 1922, la pensione privilegiata, in deroga a quanto stabilisce il terzo comma dell'art. 119 del testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Questo decreto sara' presentato al Parlamento per la conversione in legge. 
  

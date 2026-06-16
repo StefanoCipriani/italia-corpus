@@ -188,7 +188,7 @@ I datori di lavoro e i lavoratori devono fornire all'Istituto nazionale fascista
 
 ### Art. 27.
 
-Contro i morosi al pagamento dei contributi l'Istituto nazionale fascista della previdenza sociale puo' emettere ingiunzione di pagamento, comprensiva della quota dovuta, degli interessi di mora e delle eventuali spese. L'ingiunzione sara' resa esecutiva dal pretore del capoluogo della provincia ove e' la sede dell'azienda, osservate per il procedimento le norme stabilite dal [R. decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), che approva il testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato.
+Contro i morosi al pagamento dei contributi l'Istituto nazionale fascista della previdenza sociale puo' emettere ingiunzione di pagamento, comprensiva della quota dovuta, degli interessi di mora e delle eventuali spese. L'ingiunzione sara' resa esecutiva dal pretore del capoluogo della provincia ove e' la sede dell'azienda, osservate per il procedimento le norme stabilite dal [R. decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), che approva il testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato.
 L'ingiunzione costituisce titolo valido per l'iscrizione della ipoteca sugli immobili del datore di lavoro moroso, dopo la scadenza del termine per l'opposizione.
 
 ### Art. 28.
@@ -289,7 +289,7 @@ Coloro che conducono lavori in economia di natura industriale sono considerati d
 
 ### Art. 43.
 
-Per gli equipaggi arruolati con compartecipazione agli utili o al prodotto, la retribuzione e' determinata sulla base dei salari convenzionali previsti dall'art. 72 del regolamento per l'assicurazione obbligatoria degli infortuni sul lavoro e delle malattie professionali, approvato con [R. decreto 25 gennaio 1937, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-01-25;200).
+Per gli equipaggi arruolati con compartecipazione agli utili o al prodotto, la retribuzione e' determinata sulla base dei salari convenzionali previsti dall'art. 72 del regolamento per l'assicurazione obbligatoria degli infortuni sul lavoro e delle malattie professionali, approvato con [R. decreto 25 gennaio 1937, n. 200](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20dei%20Regi%20decreti%2017%20agosto%201935%20n.%201765%20e%2015%20dicembre%201936%20n.%202276%20sullassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20_1b7286f29503.md).
 
 ### Art. 44.
 

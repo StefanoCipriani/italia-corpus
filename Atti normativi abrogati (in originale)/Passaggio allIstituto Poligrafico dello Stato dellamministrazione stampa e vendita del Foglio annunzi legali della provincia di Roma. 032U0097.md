@@ -20,7 +20,7 @@ Visto il decreto Ministeriale 25 maggio 1895 che approvava le istruzioni special
 
 Visto l'[art. 9 della legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md);
 
-Visto l'art. 3 del regolamento approvato con [R. decreto 20 giugno 1929, n. 1058](Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md);
+Visto l'art. 3 del regolamento approvato con [R. decreto 20 giugno 1929, n. 1058](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

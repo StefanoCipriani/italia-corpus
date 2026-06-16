@@ -26,7 +26,7 @@ Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-I terreni coltivabili di proprieta' delle Provincie, dei Comuni e delle Istituzioni pubbliche di beneficenza, possono essere concessi in affitto mediante trattativa privata, previa autorizzazione prefettizia, a Societa' cooperative agricole, le quali siano legalmente costituite e si trovino nelle condizioni stabilite dal [R. decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md). 
+I terreni coltivabili di proprieta' delle Provincie, dei Comuni e delle Istituzioni pubbliche di beneficenza, possono essere concessi in affitto mediante trattativa privata, previa autorizzazione prefettizia, a Societa' cooperative agricole, le quali siano legalmente costituite e si trovino nelle condizioni stabilite dal [R. decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md). 
  
  Nel caso di pubbliche gare le suddette Societa' avranno diritto, a parita' di offerte, alla preferenza.
 

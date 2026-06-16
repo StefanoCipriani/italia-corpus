@@ -44,7 +44,7 @@ I posti di direttore di cui all'articolo 1 sono conferiti, salvo quanto disposto
 
 In deroga agli articoli precedenti:
  a) la direzione del complesso scolastico funzionante presso la scuola statale di metodo "Augusto Romagnoli" per gli educatori dei ciechi in Roma, compete al direttore della scuola statale medesima a norma dell'articolo 461 del regolamento generale, titolo VI, istruzione dei ciechi, approvato con [regio decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297);
- b) nulla e' innovato per quanto concerne i direttori degli Istituti di istruzione professionale per i ciechi (Firenze, Napoli "Colosimo") di cui all'[articolo 15 del regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449#art_15).
+ b) nulla e' innovato per quanto concerne i direttori degli Istituti di istruzione professionale per i ciechi (Firenze, Napoli "Colosimo") di cui all'[articolo 15 del regio decreto 29 agosto 1941, n. 1449](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md).
 
 ## Art. 6.
 

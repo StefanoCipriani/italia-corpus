@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md);
+Visto il [regio decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md);
 
 Visto il [regio decreto-legge 7 marzo 1926, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-03-07;412);
 
 Visto la [legge 6 dicembre 1928, n. 2744](Costituzione%20dellIstituto%20Poligrafico%20dello%20Stato.%20028U2744.md);
 
-Visto il [regio decreto 20 giugno 1929, n. 1058](Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md);
+Visto il [regio decreto 20 giugno 1929, n. 1058](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md);
 
 Vista la [legge 24 marzo 1932, n. 273](Modificazioni%20e%20chiarimenti%20alle%20disposizioni%20che%20disciplinano%20il%20funzionamento%20dellIstituto%20Poligrafico%20dello%20Stato.%20032U0273.md);
 
@@ -57,7 +57,7 @@ L'Istituto Poligrafico dello Stato gestisce, in Sezione autonoma speciale, per c
 ## Art. 3. — (Controllo sulla fabbricazione delle carte valori).
 
 Il Provveditorato generale dello Stato esercita, per mezzo di propri funzionari, il controllo sulla fabbricazione della carta da avvalorare e quello sulla stampa e distribuzione delle carte valori e degli stampati rappresentativi di valori, soggetti a rendiconto.
- Nulla e' innovato ai poteri di vigilanza e di controllo, spettanti, a norma del regolamento approvato con [regio decreto 30 ottobre 1896, n. 508](Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), e del [regio decreto-legge 20 maggio 1935, n. 874](Autorizzazione%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U0874.md), convertito nella [legge del 22 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-22;2393), rispettivamente alla Direzione generale del Tesoro per la fabbricazione dei biglietti di Stato ed alla Banca d'Italia per la fabbricazione dei biglietti di banca, commessi all'Istituto Poligrafico dello Stato.
+ Nulla e' innovato ai poteri di vigilanza e di controllo, spettanti, a norma del regolamento approvato con [regio decreto 30 ottobre 1896, n. 508](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20servizio%20dei%20biglietti%20e%20buoni%20di%20cassa%20a%20debito%20dello%20Stato%20e%20dei%20biglietti%20di%20banca.%20096U0508.md), e del [regio decreto-legge 20 maggio 1935, n. 874](Autorizzazione%20a%20ritirare%20dalla%20circolazione%20le%20attuali%20monete%20di%20argento%20e%20ad%20emettere%20biglietti%20di%20Stato.%20035U0874.md), convertito nella [legge del 22 dicembre 1935, n. 2393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-12-22;2393), rispettivamente alla Direzione generale del Tesoro per la fabbricazione dei biglietti di Stato ed alla Banca d'Italia per la fabbricazione dei biglietti di banca, commessi all'Istituto Poligrafico dello Stato.
 
 ## Art. 4. — (Esecuzione di forniture, lavori e servizi oltre
  quelli d'istituto - Esenzioni tributarie).

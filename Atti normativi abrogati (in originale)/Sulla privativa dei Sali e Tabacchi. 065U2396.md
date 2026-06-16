@@ -62,9 +62,9 @@ L'art. 17 della succitata Legge 13 luglio 1862, viene sostituito dal seguente:
 
 Saranno puniti col carcere da otto giorni a sei mesi, oltre alle pene stabilite nell'articolo precedente: 
  
- 1.° Coloro che avranno commesso il contrabbando a mano armata, od in riunione di piu' di tre persone quantunque non armate, ove pero' al fatto non sieno applicabili le disposizioni degli [articoli 247](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [254 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ 1.° Coloro che avranno commesso il contrabbando a mano armata, od in riunione di piu' di tre persone quantunque non armate, ove pero' al fatto non sieno applicabili le disposizioni degli [articoli 247](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [254 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
- 2.° Coloro che lo avranno commesso per mezzo di contraffazioni di marche d'uffizio e etichette, e di falsificazioni alle quali non sieno applicabili le disposizioni dell'[art. 363 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) suddetto; 
+ 2.° Coloro che lo avranno commesso per mezzo di contraffazioni di marche d'uffizio e etichette, e di falsificazioni alle quali non sieno applicabili le disposizioni dell'[art. 363 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) suddetto; 
  
  3.° Coloro che avranno commesso il contrabbando per mezzo di corruzione di pubblici agenti, ove al fatto non sieno applicabili le disposizioni dell'art. 225 del Codice suddetto. 
  
@@ -72,7 +72,7 @@ Saranno puniti col carcere da otto giorni a sei mesi, oltre alle pene stabilite 
 
 ## Art. 10.
 
-A coloro che saranno stati convinti di aver appartenuto a societa' istituite per il contrabbando, o di averne fatto parte si' per prestazione di opera e si' per somministrazione di capitali: a coloro che eseguiscono il contrabbando per conto di dette societa': ed a coloro che faranno atti di assicurazioni di contrabbando saranno inflitte le pene comminate dagli [articoli 428](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [430 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) colla diminuzione di uno a due gradi a seconda dei casi.
+A coloro che saranno stati convinti di aver appartenuto a societa' istituite per il contrabbando, o di averne fatto parte si' per prestazione di opera e si' per somministrazione di capitali: a coloro che eseguiscono il contrabbando per conto di dette societa': ed a coloro che faranno atti di assicurazioni di contrabbando saranno inflitte le pene comminate dagli [articoli 428](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [430 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) colla diminuzione di uno a due gradi a seconda dei casi.
 
 ## Art. 11.
 
@@ -86,11 +86,11 @@ I complici nel contrabbando saranno puniti con una multa da lire 51 a lire 1,000
 
 ## Art. 13.
 
-Le disposizioni dell'[art. 67 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono estese alle multe comminate colla presente Legge.
+Le disposizioni dell'[art. 67 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono estese alle multe comminate colla presente Legge.
 
 ## Art. 14.
 
-Agli articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) citati in questa Legge s'intenderanno per la Toscana sostituiti gli articoli del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano che contemplano gli stessi reati.
+Agli articoli del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) citati in questa Legge s'intenderanno per la Toscana sostituiti gli articoli del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano che contemplano gli stessi reati.
 
 ## Art. 15.
 

@@ -14,7 +14,7 @@ E' obbligatoria la vaccinazione contro la difterite per tutti i bambini dal seco
  
  Essa, di regola, si associa alla vaccinazione antivaiolosa ed e' eseguita nel secondo anno di eta'. 
  
- L'obbligo della vaccinazione antivaiolosa entro il primo semestre dalla nascita, prescritto dall'[art. 266 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_266), e' protratto al secondo anno di eta'.
+ L'obbligo della vaccinazione antivaiolosa entro il primo semestre dalla nascita, prescritto dall'[art. 266 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e' protratto al secondo anno di eta'.
 
 ## Art. 2.
 

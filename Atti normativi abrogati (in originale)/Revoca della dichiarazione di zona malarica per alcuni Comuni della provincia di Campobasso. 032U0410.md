@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157) approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; 
+ Veduto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; 
  Veduto il Nostro decreto 30 dicembre 1923, n. 2889, che apporta modifiche nell'ordinamento sanitario del Regno; 
  Veduti i Nostri decreti 2 aprile 1905, n. 163, 8 giugno 1905, n. 425, e 29 giugno 1905, n. 446, concernenti le dichiarazioni delle zone malariche dei territori dei comuni di Baranello, Boiano, Busso, Cantalupo del Sannio, Castel del Giudice, Castelmauro, Isernia, Petrella Tifernina, S. Massimo, Sessano, S. Elena Sannita della provincia di Campobasso; 
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno; 

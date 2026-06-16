@@ -18,11 +18,11 @@ Visto il testo unico di leggi per l'imposta di fabbricazione sugli spiriti, appr
 
 Visto il [R. decreto-legge 2 febbraio 1933, n. 23](Nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0023.md), convertito nella [legge 3 aprile 1933, n. 353](Conversione%20in%20legge%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U0353.md), che stabilisce nuove misure per ostacolare lo smercio di alcole di contrabbando;
 
-Visto il [R. decreto 27 novembre 1933, n. 1604](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md);
+Visto il [R. decreto 27 novembre 1933, n. 1604](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md);
 
-Visto il [R. decreto 20 dicembre 1934, n. 2454](Nuovi%20tipi%20di%20contrassegni%20per%20i%20recipienti%20contenenti%20liquori.%20034U2454.md);
+Visto il [R. decreto 20 dicembre 1934, n. 2454](../Regi%20decreti/Nuovi%20tipi%20di%20contrassegni%20per%20i%20recipienti%20contenenti%20liquori.%20034U2454.md);
 
-Visto il [R. decreto 14 marzo 1938, n. 423](Nuovo%20tipo%20di%20contrassegno%20per%20i%20recipienti%20contenenti%20liquori.%20038U0423.md);
+Visto il [R. decreto 14 marzo 1938, n. 423](../Regi%20decreti/Nuovo%20tipo%20di%20contrassegno%20per%20i%20recipienti%20contenenti%20liquori.%20038U0423.md);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
@@ -38,7 +38,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-In sostituzione del contrassegno previsto dall'[art. 1 del R. decreto 14 marzo 1938, n. 423](Nuovo%20tipo%20di%20contrassegno%20per%20i%20recipienti%20contenenti%20liquori.%20038U0423.md), da applicare ai recipienti contenenti liquori, e' istituito un nuovo tipo di contrassegno di Stato costituito, come da fac-simile allegato, da un bollino metallico recante impresso su di una faccia lo stemma Sabaudo e sull'altra la indicazione del quantitativo idrato minimo e massimo di prodotto cui ogni bollino si riferisce con la dicitura «Contrassegno di Stato - Liquori». 
+In sostituzione del contrassegno previsto dall'[art. 1 del R. decreto 14 marzo 1938, n. 423](../Regi%20decreti/Nuovo%20tipo%20di%20contrassegno%20per%20i%20recipienti%20contenenti%20liquori.%20038U0423.md), da applicare ai recipienti contenenti liquori, e' istituito un nuovo tipo di contrassegno di Stato costituito, come da fac-simile allegato, da un bollino metallico recante impresso su di una faccia lo stemma Sabaudo e sull'altra la indicazione del quantitativo idrato minimo e massimo di prodotto cui ogni bollino si riferisce con la dicitura «Contrassegno di Stato - Liquori». 
  
  L'[art. 6 del R. decreto-legge 31 gennaio 1944, n. 37](Sblocco%20degli%20alcoli%20e%20istituzione%20di%20un%20diritto%20erariale.%20044U0037.md), resta pertanto abrogato.
 
@@ -52,13 +52,13 @@ Il contrassegno di Stato di cui al precedente art. 1 di tipo unico e' distinto i
  e) oltre l. 1 a l. 1 e 1/2; 
  f) oltre l. 1 e 1/2 a l. 2. 
  
- Tale contrassegno di Stato sara' applicato a cura delle ditte interessate con le modalita' in uso osservate le disposizioni di cui agli [articoli 1](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md) e [2 del R. decreto 27 novembre 1933, n. 1604](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md). 
+ Tale contrassegno di Stato sara' applicato a cura delle ditte interessate con le modalita' in uso osservate le disposizioni di cui agli [articoli 1](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md) e [2 del R. decreto 27 novembre 1933, n. 1604](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md). 
  
  Il prezzo di ogni contrassegno e' fissato in L. 5.
 
 ## Art. 3.
 
-Per il deposito, l'applicazione e il movimento dei contrassegni di Stato si osserveranno le disposizioni di cui agli [articoli 7](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md) e [8 del R. decreto 27 novembre 1933, n. 1604](Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md). 
+Per il deposito, l'applicazione e il movimento dei contrassegni di Stato si osserveranno le disposizioni di cui agli [articoli 7](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md) e [8 del R. decreto 27 novembre 1933, n. 1604](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%202%20febbraio%201933%20n.%2023%20che%20stabilisce%20nuove%20misure%20per%20ostacolare%20lo%20spaccio%20di%20alcool%20di%20contrabbando.%20033U1604.md). 
  
  Il registro di carico e scarico (Serie C. mod. 47) previsto dall'art. 7 del sopracitato decreto deve essere preventivamente vidimato dalla competente sezione dell'Ufficio tecnico delle imposte di fabbricazione. 
  

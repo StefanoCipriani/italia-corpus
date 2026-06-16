@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Le indennita' per servizio notturno di cui al 1° comma dell'art. 117 g) del [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md), sono elevate rispettivamente da L. 2,50 a 4, da L. 4 a 5,50. 
+Le indennita' per servizio notturno di cui al 1° comma dell'art. 117 g) del [R. decreto 6 aprile 1913, n. 462](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md), sono elevate rispettivamente da L. 2,50 a 4, da L. 4 a 5,50. 
  
  Quella di cui al 2° comma dell'articolo stesso e' portata da centesimi 25 a 40 e quelle di cui al comma 3° da centesimi 15 a 30 e da centesimi 50 a 80. 
  
@@ -18,7 +18,7 @@ Le indennita' per servizio notturno di cui al 1° comma dell'art. 117 g) del [R.
 
 ## Art. 2.
 
-L'indennita', per servizio straordinario, di cui all'articolo 117 j) del [R. decreto 6 aprile 1913, n. 462](Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md), e' variata come appresso: 
+L'indennita', per servizio straordinario, di cui all'articolo 117 j) del [R. decreto 6 aprile 1913, n. 462](../Regi%20decreti/Col%20quale%20vengono%20introdotte%20aggiunte%20e%20varianti%20al%20regolamento%20per%20il%20personale%20dei%20telefoni%20approvato%20con%20R.%20decreto%2016%20maggio%201912%20n.%20574.%20013U0462.md), e' variata come appresso: 
  
  a) L. 1,25 per gli impiegati delle tabelle A e B annesse alla [legge 27 aprile 1916, n. 465](Che%20porta%20semplificazioni%20nel%20ruolo%20organico%20della%20Direzione%20generale%20dei%20telefoni.%20016U0465.md), per i telefonisti completivi, per le telefoniste e dattilografe completive ed avventizie, nonche' per gli operai telefonici dei quadri I e II della tabella C annessa alla [legge 19 luglio 1909, n. 528](Che%20approva%20lorganico%20della%20direzione%20generale%20dei%20telefoni.%20009U0528.md) modificata dalla [legge 25 giugno 1911, n. 575](Per%20i%20provvedimenti%20relativi%20agli%20anziani%20ed%20allelevazione%20dei%20minimi%20di%20stipendio%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20dei%20telegrafi.%20011U0575.md), i quali si trovino allo stipendio di L. 2000 o superiore; 
  
@@ -38,7 +38,7 @@ A modificazione degli [articoli 86](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 ## Art. 4.
 
-All'indennita' di soggiorno fuori residenza e a quella di pernottazione fissate dalla tabella approvata col [R. decreto 28 gennaio 1915, n. 135](Col%20quale%20e%20modificata%20la%20tabella%20delle%20indennita%20dovute%20per%20missioni%20o%20visite%20dispezioni%20ai%20funzionari%20dellAmministrazione%20dei%20telefoni.%20015U0135.md), per gli operai telefonici di ruolo, e' aggiunto un supplemento di una lira e di centesimi cinquanta rispettivamente; quelle corrispondenti fissate per gli operai telefonici fuori ruolo sono uguagliate a quelle degli operai di ruolo cosi' modificate. 
+All'indennita' di soggiorno fuori residenza e a quella di pernottazione fissate dalla tabella approvata col [R. decreto 28 gennaio 1915, n. 135](../Regi%20decreti/Col%20quale%20e%20modificata%20la%20tabella%20delle%20indennita%20dovute%20per%20missioni%20o%20visite%20dispezioni%20ai%20funzionari%20dellAmministrazione%20dei%20telefoni.%20015U0135.md), per gli operai telefonici di ruolo, e' aggiunto un supplemento di una lira e di centesimi cinquanta rispettivamente; quelle corrispondenti fissate per gli operai telefonici fuori ruolo sono uguagliate a quelle degli operai di ruolo cosi' modificate. 
  
  Per gli operai aventi funzioni di caposquadra, capo apparecchiatore, capo officina, il supplemento aggiuntivo delle indennita' di soggiorno fuori residenza, e' invece di lire una e cinquanta.
 

@@ -274,7 +274,7 @@ Il grado di ammiraglio e' abolito. Gli attuali ammiragli conserveranno ad person
 
 ### Art. 25.
 
-Il grado di Grande Ammiraglio, che puo' essere conferito esclusivamente per azioni di guerra, non e' compreso nelle tabelle organiche ed e' considerato fuori dei quadri di classificazione, ai termini dell'[art. 179 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+Il grado di Grande Ammiraglio, che puo' essere conferito esclusivamente per azioni di guerra, non e' compreso nelle tabelle organiche ed e' considerato fuori dei quadri di classificazione, ai termini dell'[art. 179 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ## Funzioni spettanti ai Corpi militari della Regia marina.
 
@@ -608,7 +608,7 @@ CAPO V.
 
 ### Art. 43.
 
-I militari del Corpo Reale equipaggi marittimi sono reclutati nei modi stabiliti dalle vigenti leggi sulla leva di mare e dal testo unico sull'ordinamento del Corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni.
+I militari del Corpo Reale equipaggi marittimi sono reclutati nei modi stabiliti dalle vigenti leggi sulla leva di mare e dal testo unico sull'ordinamento del Corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e sue successive modificazioni.
 
 ## Disposizioni transitorie.
 

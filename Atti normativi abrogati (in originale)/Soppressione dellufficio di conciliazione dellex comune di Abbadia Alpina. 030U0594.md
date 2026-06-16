@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 11 ottobre 1928, n. 2461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-11;2461), col quale il comune di Abbadia Alpina e' stato soppresso ed il rispettivo territorio aggregato a quello di Pinerolo; 
+ Visto il [R. decreto 11 ottobre 1928, n. 2461](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Abbadia%20Alpina%20a%20quello%20di%20Pinerolo.%20028U2461.md), col quale il comune di Abbadia Alpina e' stato soppresso ed il rispettivo territorio aggregato a quello di Pinerolo; 
  
  Vista la deliberazione del commissario prefettizio di Pinerolo rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Abbadia Alpina; 
  

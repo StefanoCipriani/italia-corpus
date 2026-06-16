@@ -36,7 +36,7 @@ Gli articoli 32 e 33 del regolamento per l'esecuzione della [legge 24 marzo 1921
  
  Decorso tale periodo, ed ove si riconoscano infondate le deduzioni eventualmente presentate dagli interessati, la decadenza viene dichiarata rispettivamente con decreto del DUCE del Fascismo, Capo del Governo, e del Ministro per le comunicazioni, previo parere del Consiglio di Stato. 
  
- Il termine per proporre reclamo in sede contenziosa contro il provvedimento di decadenza, a norma delle disposizioni contenute nel titolo IV del [testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) approvato con R. decreto 11 dicembre 1933-XII, n. 1775, e' di giorni 60 dalla data della notificazione. 
+ Il termine per proporre reclamo in sede contenziosa contro il provvedimento di decadenza, a norma delle disposizioni contenute nel titolo IV del [testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con R. decreto 11 dicembre 1933-XII, n. 1775, e' di giorni 60 dalla data della notificazione. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

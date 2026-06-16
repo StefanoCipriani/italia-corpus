@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nella tabella che stabilisce il numero ed il grado degli ufficiali rivestiti di carica direttiva presso l'ufficio di stato maggiore della marina, approvata col [R. decreto 29 luglio 1914, n. 809](Col%20quale%20viene%20fissato%20il%20numero%20ed%20il%20grado%20degli%20ufficiali%20rivestiti%20di%20carica%20direttiva%20presso%20lufficio%20di%20stato%20maggiore%20della%20marina.%20014U0809.md), alle parole: «1. Contrammiraglio - Sotto capo dello stato maggiore della marina» sono sostituite le altre: «1. Ufficiale ammiraglio - Sotto capo di stato maggiore della marina».
+Nella tabella che stabilisce il numero ed il grado degli ufficiali rivestiti di carica direttiva presso l'ufficio di stato maggiore della marina, approvata col [R. decreto 29 luglio 1914, n. 809](../Regi%20decreti/Col%20quale%20viene%20fissato%20il%20numero%20ed%20il%20grado%20degli%20ufficiali%20rivestiti%20di%20carica%20direttiva%20presso%20lufficio%20di%20stato%20maggiore%20della%20marina.%20014U0809.md), alle parole: «1. Contrammiraglio - Sotto capo dello stato maggiore della marina» sono sostituite le altre: «1. Ufficiale ammiraglio - Sotto capo di stato maggiore della marina».
 
 ## Art. 2.
 

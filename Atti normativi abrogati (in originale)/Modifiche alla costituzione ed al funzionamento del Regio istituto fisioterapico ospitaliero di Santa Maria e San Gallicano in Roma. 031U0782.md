@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La denominazione del «Regio istituto fisioterapico ospitaliero di Santa Maria e San Gallicano» istituito con [R. decreto 29 luglio 1926, n. 1619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1619), e' modificata in quella di «Regi istituti fisioterapici ospitalieri». 
+La denominazione del «Regio istituto fisioterapico ospitaliero di Santa Maria e San Gallicano» istituito con [R. decreto 29 luglio 1926, n. 1619](../Regi%20decreti/Istituzione%20in%20Roma%20del%20Regio%20istituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano.%20026U1619.md), e' modificata in quella di «Regi istituti fisioterapici ospitalieri». 
  
  Costituiscono detto ente: 
  
@@ -38,7 +38,7 @@ L'amministrazione dei Regi istituti fisioterapici ospitalieri e' affidata ad un 
 
 Il presidente delibera su tutti gli affari che interessano l'amministrazione dei Regi istituti. 
  
- Per gli affari soggetti all'approvazione della autorita' tutoria, a termini dell'[art. 6 del R. decreto 29 luglio 1926, n. 1619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1619#art_6), il presidente delibera sentito il parere di una Commissione di consulta, da lui presieduta e composta di sei membri da designarsi: 
+ Per gli affari soggetti all'approvazione della autorita' tutoria, a termini dell'[art. 6 del R. decreto 29 luglio 1926, n. 1619](../Regi%20decreti/Istituzione%20in%20Roma%20del%20Regio%20istituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano.%20026U1619.md), il presidente delibera sentito il parere di una Commissione di consulta, da lui presieduta e composta di sei membri da designarsi: 
  
  a) due dal Ministro per l'interno; 
  
@@ -54,7 +54,7 @@ Il presidente delibera su tutti gli affari che interessano l'amministrazione dei
 
 ## Art. 5.
 
-Ferme restando le altre disposizioni vigenti circa la tutela, a norma dell'[art. 6 del R. decreto 29 luglio 1926, n. 1619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1619#art_6), sono soggette alla approvazione della Commissione di tutela, di cui allo stesso art. 6, le deliberazioni del presidente relative a trasformazioni e diminuzioni di patrimonio per un valore superiore alla L. 10.000. 
+Ferme restando le altre disposizioni vigenti circa la tutela, a norma dell'[art. 6 del R. decreto 29 luglio 1926, n. 1619](../Regi%20decreti/Istituzione%20in%20Roma%20del%20Regio%20istituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano.%20026U1619.md), sono soggette alla approvazione della Commissione di tutela, di cui allo stesso art. 6, le deliberazioni del presidente relative a trasformazioni e diminuzioni di patrimonio per un valore superiore alla L. 10.000. 
  
  I contratti di locazione, alienazione, acquisti ed appalti di cose ed opere, devono, sotto pena di nullita', essere preceduti da pubblici incanti con le forme stabilite per i contratti dello Stato. 
  
@@ -68,23 +68,23 @@ Ferme restando le altre disposizioni vigenti circa la tutela, a norma dell'[art.
 
 ## Art. 6.
 
-Con speciale regolamento da approvarsi con Regio decreto, su proposta del Ministro per l'interno, di concerto col Ministro per le finanze, saranno stabilite: la pianta organica del personale per ciascuno de Regi istituti predetti e le norme occorrenti per l'esecuzione delle disposizioni del presente decreto e di quelle non abrogate del [R. decreto 29 luglio 1926, n. 1619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1619), modificato con [R. decreto 12 dicembre 1926, n. 2272](Modificazioni%20al%20R.%20decreto%2029%20luglio%201926%20n.%201619%20concernente%20lIstituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano%20in%20Roma.%20026U2272.md).
+Con speciale regolamento da approvarsi con Regio decreto, su proposta del Ministro per l'interno, di concerto col Ministro per le finanze, saranno stabilite: la pianta organica del personale per ciascuno de Regi istituti predetti e le norme occorrenti per l'esecuzione delle disposizioni del presente decreto e di quelle non abrogate del [R. decreto 29 luglio 1926, n. 1619](../Regi%20decreti/Istituzione%20in%20Roma%20del%20Regio%20istituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano.%20026U1619.md), modificato con [R. decreto 12 dicembre 1926, n. 2272](Modificazioni%20al%20R.%20decreto%2029%20luglio%201926%20n.%201619%20concernente%20lIstituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano%20in%20Roma.%20026U2272.md).
 
 ## Art. 7.
 
 Nella prima attuazione del presente decreto il direttore dell'Istituto per lo studio e la cura del cancro sara' nominato, a scelta, dal Ministro per l'interno. 
  
- L'attuale direttore e medico primario dermosifilografo del Regio istituto fisioterapico ospitaliero di Santa Maria e San Gallicano, di cui all'[art. 17 del R. decreto 29 luglio 1926, n. 1619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1619#art_17), continuera' a prestare servizio, con tale sua qualifica, nel Regio istituto ospitaliero dermosifilopatico di Santa Maria e San Gallicano. 
+ L'attuale direttore e medico primario dermosifilografo del Regio istituto fisioterapico ospitaliero di Santa Maria e San Gallicano, di cui all'[art. 17 del R. decreto 29 luglio 1926, n. 1619](../Regi%20decreti/Istituzione%20in%20Roma%20del%20Regio%20istituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano.%20026U1619.md), continuera' a prestare servizio, con tale sua qualifica, nel Regio istituto ospitaliero dermosifilopatico di Santa Maria e San Gallicano. 
  
  Il trattamento economico dei direttori dei due Istituti sara' stabilito nella pianta organica di cui al precedente articolo 6.
 
 ## Art. 8.
 
-Il Governo del Re e' autorizzato a provvedere al coordinamento delle disposizioni contenute nel presente decreto con quelle dei [Regi decreti 29 luglio 1926, n. 1619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1619), e [12 dicembre 1926, n. 2272](Modificazioni%20al%20R.%20decreto%2029%20luglio%201926%20n.%201619%20concernente%20lIstituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano%20in%20Roma.%20026U2272.md).
+Il Governo del Re e' autorizzato a provvedere al coordinamento delle disposizioni contenute nel presente decreto con quelle dei [Regi decreti 29 luglio 1926, n. 1619](../Regi%20decreti/Istituzione%20in%20Roma%20del%20Regio%20istituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano.%20026U1619.md), e [12 dicembre 1926, n. 2272](Modificazioni%20al%20R.%20decreto%2029%20luglio%201926%20n.%201619%20concernente%20lIstituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano%20in%20Roma.%20026U2272.md).
 
 ## Art. 9.
 
-Sono abrogate le disposizioni del [R. decreto 29 luglio 1926, n. 1619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1619), modificato dal [R. decreto 12 dicembre 1926, n. 2272](Modificazioni%20al%20R.%20decreto%2029%20luglio%201926%20n.%201619%20concernente%20lIstituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano%20in%20Roma.%20026U2272.md), che non siano in armonia con quelle del presente decreto.
+Sono abrogate le disposizioni del [R. decreto 29 luglio 1926, n. 1619](../Regi%20decreti/Istituzione%20in%20Roma%20del%20Regio%20istituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano.%20026U1619.md), modificato dal [R. decreto 12 dicembre 1926, n. 2272](Modificazioni%20al%20R.%20decreto%2029%20luglio%201926%20n.%201619%20concernente%20lIstituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano%20in%20Roma.%20026U2272.md), che non siano in armonia con quelle del presente decreto.
 
 ## Art. 10.
 

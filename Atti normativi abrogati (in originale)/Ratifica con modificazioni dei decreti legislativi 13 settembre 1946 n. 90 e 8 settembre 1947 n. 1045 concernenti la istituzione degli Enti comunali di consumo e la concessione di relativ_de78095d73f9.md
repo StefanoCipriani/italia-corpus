@@ -33,7 +33,7 @@ Il [decreto legislativo 8 settembre 1947, n. 1045](https://www.normattiva.it/uri
  "Al fine di esercitare azione moderatrice sui prezzi delle merci di generale consumo, i Comuni possono istituire Enti di consumo.
  L'istituzione di detti Enti e' disposta dal Consiglio comunale mediante deliberazione soggetta all'approvazione della Giunta provinciale amministrativa.
  Per il conseguimento dei fini istituzionali, gli Enti comunali di consumo provvedono, mediante reperimento diretto, all'approvvigionamento delle merci di piu' largo consumo ed alla loro distribuzione alla popolazione ai prezzi di costo maggiorati delle spese di gestione. Essi sono tenuti a prendere ogni utile iniziativa, compresa quella della gestione di spacci di paragone, sia nei mercati all'ingrosso per il rifornimento dei dettaglianti, sia nei mercati al minuto per la vendita diretta al pubblico.
- E' consentita l'istituzione di appositi consorzi fra Enti comunali di consumo con l'osservanza, in quanto applicabili, delle disposizioni contenute nel titolo 4° del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md)".
+ E' consentita l'istituzione di appositi consorzi fra Enti comunali di consumo con l'osservanza, in quanto applicabili, delle disposizioni contenute nel titolo 4° del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md)".
  Art. 2. - E' abrogato.
  Art. 3. - E' abrogato.
  Art. 4. - E' abrogato.
@@ -42,7 +42,7 @@ Il [decreto legislativo 8 settembre 1947, n. 1045](https://www.normattiva.it/uri
 
 ## Art. 3.
 
-A carico degli amministratori e dei dipendenti degli Enti comunali di consumo sono applicabili, senza pregiudizio delle sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le disposizioni concernenti le responsabilita' degli amministratori, degli impiegati e di chiunque maneggi denaro pubblico, previste dalla legge comunale e provinciale vigente.
+A carico degli amministratori e dei dipendenti degli Enti comunali di consumo sono applicabili, senza pregiudizio delle sanzioni previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le disposizioni concernenti le responsabilita' degli amministratori, degli impiegati e di chiunque maneggi denaro pubblico, previste dalla legge comunale e provinciale vigente.
 
 ## Art. 4.
 

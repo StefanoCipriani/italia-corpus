@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 31 marzo 1912, n. 369](Col%20quale%20vengono%20soppressi%20dal%201%20aprile%201912%20gli%20uffici%20di%20custodia%20dei%20valori%20di%20Messina%20e%20di%20Reggio%20Calabria.%20012U0369.md), riguardante la soppressione degli uffici di custodia dei valori istituiti nella citta' di Messina e di Reggio Calabria in seguito al terremoto del 28 dicembre 1908. 
+ E' convertito in legge il [R. decreto 31 marzo 1912, n. 369](../Regi%20decreti/Col%20quale%20vengono%20soppressi%20dal%201%20aprile%201912%20gli%20uffici%20di%20custodia%20dei%20valori%20di%20Messina%20e%20di%20Reggio%20Calabria.%20012U0369.md), riguardante la soppressione degli uffici di custodia dei valori istituiti nella citta' di Messina e di Reggio Calabria in seguito al terremoto del 28 dicembre 1908. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -18,7 +18,7 @@ Veduto il [R. decreto 17 novembre 1927, n. 2468](Determinazione%20dei%20contribu
 
 Veduto che a carico dei comuni di Calice al Cornoviglio e Rocchetta di Vara, come risulta dall'elenco annesso al citato R. decreto, furono rispettivamente stabiliti i contributi annui di lire 3200 e di lire 2000;
 
-Veduto il [R. decreto 18 aprile 1926, n. 790](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-18;790), col quale furono approvati il piano di delimitazione territoriale ed il progetto di separazione patrimoniale fra i comuni di Calice al Cornoviglio e Rocchetta di Vara, in seguito al passaggio della frazione Veppo dal primo al secondo di detti Enti;
+Veduto il [R. decreto 18 aprile 1926, n. 790](../Regi%20decreti/Delimitazione%20territoriale%20e%20reparto%20patrimoniale%20fra%20i%20comuni%20di%20Calice%20al%20Cornoviglio%20e%20Rocchetta%20Vara.%20026U0790.md), col quale furono approvati il piano di delimitazione territoriale ed il progetto di separazione patrimoniale fra i comuni di Calice al Cornoviglio e Rocchetta di Vara, in seguito al passaggio della frazione Veppo dal primo al secondo di detti Enti;
 
 Veduto il progetto degli spostamenti avvenuti dal 1° gennaio 1926 nelle scuole classificate dai Comuni sopracitati in seguito alla suindicata variazione territoriale: prospetto compilato dal Regio provveditore agli studi di Genova;
 

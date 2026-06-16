@@ -82,7 +82,7 @@ Il prelevamento del sangue umano per uso trasfusionale puo' essere eseguito solt
 
 ## Art. 10.
 
-Gli Ospedali di cui all'[articolo 1 del regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631#art_1), debbono provvedere all'impianto, al funzionamento ed alla gestione di un proprio Centro trasfusionale ed inserire nelle rispettive piante organiche l'occorrente personale.
+Gli Ospedali di cui all'[articolo 1 del regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md), debbono provvedere all'impianto, al funzionamento ed alla gestione di un proprio Centro trasfusionale ed inserire nelle rispettive piante organiche l'occorrente personale.
  Gli Ospedali possono essere autorizzati dal medico provinciale ad affidare, mediante apposita convenzione, agli enti di cui all'articolo 4 la gestione dei suddetti Centri che restano peraltro sotto la diretta vigilanza e controllo del direttore sanitario dell'Ospedale. La predetta Commissione deve provvedere che gli enti di cui all'articolo 4 tengano distinta la gestione del Centro trasfusionale da quella degli altri loro servizi.
  Gli ospedali di terza categoria, ove non possano provvedere agli adempimenti di cui sopra, debbono almeno assicurare un servizio di emoteca collegato con un Centro trasfusionale.
  Gli istituti privati di cura debbono essere forniti di emoteca anch'essa collegata con un Centro trasfusionale.
@@ -99,7 +99,7 @@ Il sangue umano, raccolto in modo atto alla conservazione ed alla trasfusione, e
 ## Art. 13.
 
 Le officine farmaceutiche possono essere autorizzate dal Ministro per la sanita' alla preparazione, a scopo di vendita, di derivati del sangue umano a lunga conservazione per uso terapeutico, profilattico e diagnostico.
- La produzione ed il commercio dei detti derivati destinati alla vendita sono soggetti alle disposizioni del capo V del titolo II del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e relativo regolamento.
+ La produzione ed il commercio dei detti derivati destinati alla vendita sono soggetti alle disposizioni del capo V del titolo II del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e relativo regolamento.
 
 ## Art. 14.
 

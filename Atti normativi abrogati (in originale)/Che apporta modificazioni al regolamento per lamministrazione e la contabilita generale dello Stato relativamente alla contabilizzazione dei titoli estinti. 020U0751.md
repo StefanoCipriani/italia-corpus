@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico della legge per l'amministrazione del patrimonio e la contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª);
+Visto il testo unico della legge per l'amministrazione del patrimonio e la contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª);
 
 Visto il regolamento approvato col [R. decreto 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md) (serie 3ª);
 
-Visto il regolamento approvato col [R. decreto 15 gennaio 1895, n. 16](Che%20approva%20il%20regolamento%20per%20il%20servizio%20di%20Tesoreria%20dello%20Stato.%20095U0016.md);
+Visto il regolamento approvato col [R. decreto 15 gennaio 1895, n. 16](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20servizio%20di%20Tesoreria%20dello%20Stato.%20095U0016.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -62,7 +62,7 @@ Il primo comma dell'art. 635 del regolamento per la contabilita' generale e' mod
 
 ## Art. 3.
 
-All'art. 11 del regolamento approvato col [R. decreto 15 gennaio 1895, n. 16](Che%20approva%20il%20regolamento%20per%20il%20servizio%20di%20Tesoreria%20dello%20Stato.%20095U0016.md), e' sostituito il seguente: 
+All'art. 11 del regolamento approvato col [R. decreto 15 gennaio 1895, n. 16](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20il%20servizio%20di%20Tesoreria%20dello%20Stato.%20095U0016.md), e' sostituito il seguente: 
  
  Art. 11. - Le sezioni, di tesoreria rendono conto delle operazioni di entrata e di uscita di tutte le contabilita', loro affidate, presentando, col mezzo del delegato del tesoro, i seguenti documenti: 
  

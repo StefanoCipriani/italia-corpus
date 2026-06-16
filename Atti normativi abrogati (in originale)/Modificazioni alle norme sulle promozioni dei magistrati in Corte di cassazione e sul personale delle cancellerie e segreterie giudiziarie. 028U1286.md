@@ -18,7 +18,7 @@ Visti gli [articoli 7](Norme%20sulle%20promozioni%20nella%20Magistratura.%20026U
 
 Visto l'[art. 7 del R. decreto-legge 14 novembre 1926, numero 1935](Modificazioni%20al%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20e%20al%20R.%20decreto-legge%206%20novembre%201924%20n.%201762%20riguardanti%20il%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20026U1935.md), convertito in legge con la [legge 16 giugno 1927, n. 989](Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20novembre%201926%20n.%201935%20contenente%20modificazioni%20al%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20e%20al%20R.%20decreto-legge%206%20novembre%201924%20n.%201762%20riguarda_dca2fdf235ad.md);
 
-Visto il [R. decreto 6 gennaio 1927, n. 57](Modificazioni%20agli%20articoli%2051%20e%2052%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20sullo%20stato%20giuridico%20degli%20impiegati%20dellAmministrazione%20dello%20Stato.%20027U0057.md);
+Visto il [R. decreto 6 gennaio 1927, n. 57](../Regi%20decreti/Modificazioni%20agli%20articoli%2051%20e%2052%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20sullo%20stato%20giuridico%20degli%20impiegati%20dellAmministrazione%20dello%20Stato.%20027U0057.md);
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -68,7 +68,7 @@ Al primo capoverso dell'[art. 7 del R. decreto-legge 14 novembre 1926, n. 1935](
 
 ## Art. 6.
 
-Sono estese al personale delle cancellerie e segreterie giudiziarie le disposizioni in vigore per gli impiegati dello Stato, contenute nel [R. decreto 6 gennaio 1927, n. 57](Modificazioni%20agli%20articoli%2051%20e%2052%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20sullo%20stato%20giuridico%20degli%20impiegati%20dellAmministrazione%20dello%20Stato.%20027U0057.md).
+Sono estese al personale delle cancellerie e segreterie giudiziarie le disposizioni in vigore per gli impiegati dello Stato, contenute nel [R. decreto 6 gennaio 1927, n. 57](../Regi%20decreti/Modificazioni%20agli%20articoli%2051%20e%2052%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202960%20sullo%20stato%20giuridico%20degli%20impiegati%20dellAmministrazione%20dello%20Stato.%20027U0057.md).
 
 ## Art. 7.
 

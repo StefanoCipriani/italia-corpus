@@ -42,7 +42,7 @@ Chiunque, sia singolarmente che in societa' con altri, esercita o intende eserci
  
  a) certificato di iscrizione nel registro delle ditte presso l'Ufficio provinciale dell'economia corporativa, per coloro per i quali tale iscrizione sia obbligatoria; 
  
- b) certificato dell'organizzazione sindacale competente da cui risulti che il richiedente ha effettuato la denuncia dell'attivita' industriale e commerciale e quella dei dipendenti, a termini del [R. decreto 1° dicembre 1930, n. 1644](Disciplina%20delle%20denunzie%20e%20dei%20contributi%20sindacali%20obbligatori%20per%20il%20periodo%20dal%201%20gennaio%201931%20al%2030%20giugno%201933.%20030U1644.md), e successive disposizioni; 
+ b) certificato dell'organizzazione sindacale competente da cui risulti che il richiedente ha effettuato la denuncia dell'attivita' industriale e commerciale e quella dei dipendenti, a termini del [R. decreto 1° dicembre 1930, n. 1644](../Regi%20decreti/Disciplina%20delle%20denunzie%20e%20dei%20contributi%20sindacali%20obbligatori%20per%20il%20periodo%20dal%201%20gennaio%201931%20al%2030%20giugno%201933.%20030U1644.md), e successive disposizioni; 
  
  c) licenza di commercio di cui al [R. decreto-legge 16 dicembre 1926, n. 2174](Disciplina%20del%20commercio%20di%20vendita%20al%20pubblico.%20026U2174.md), per coloro per i quali tale licenza sia obbligatoria; 
  
@@ -92,7 +92,7 @@ La Commissione di cui all'art. 6 ha il compito di valutare la capacita' economic
 
 ## Art. 8.
 
-Non potra' essere consentita la iscrizione o la reiscrizione nell'elenco autorizzato di chi, nel decennio precedente alla domanda di iscrizione, sia stato condannato per bancarotta fraudolenta o per uno dei reati previsti nel titolo VIII, capo 1° e 2°, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo che non sia intervenuta la riabilitazione. 
+Non potra' essere consentita la iscrizione o la reiscrizione nell'elenco autorizzato di chi, nel decennio precedente alla domanda di iscrizione, sia stato condannato per bancarotta fraudolenta o per uno dei reati previsti nel titolo VIII, capo 1° e 2°, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo che non sia intervenuta la riabilitazione. 
  
  Il condannato per bancarotta semplice non potra' essere iscritto o reiscritto se non siano trascorsi almeno tre anni dalla condanna, salvo che non sia intervenuta la riabilitazione. 
  

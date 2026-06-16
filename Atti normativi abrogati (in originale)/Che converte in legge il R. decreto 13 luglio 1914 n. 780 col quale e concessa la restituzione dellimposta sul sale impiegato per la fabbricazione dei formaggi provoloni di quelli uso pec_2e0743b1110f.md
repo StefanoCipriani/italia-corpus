@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 13 luglio 1914 n. 780](Col%20quale%20viene%20concessa%20la%20restituzione%20dellimposta%20sul%20sale%20impiegato%20per%20la%20fabbricazione%20di%20alcune%20varieta%20di%20formaggi.%20014U0780.md), col quale e' stata concessa la restituzione dell'imposta sul sale impiegato per la fabbricazione dei formaggi «provoloni», di quelli «uso pecorino» e di qualsiasi altra qualita' di formaggi salati «esclusi i margarinati» non classificati, prodotti nei luoghi ove vige la privativa del sale, ed esportati all'estero. 
+ E' convertito in legge il [R. decreto 13 luglio 1914 n. 780](../Regi%20decreti/Col%20quale%20viene%20concessa%20la%20restituzione%20dellimposta%20sul%20sale%20impiegato%20per%20la%20fabbricazione%20di%20alcune%20varieta%20di%20formaggi.%20014U0780.md), col quale e' stata concessa la restituzione dell'imposta sul sale impiegato per la fabbricazione dei formaggi «provoloni», di quelli «uso pecorino» e di qualsiasi altra qualita' di formaggi salati «esclusi i margarinati» non classificati, prodotti nei luoghi ove vige la privativa del sale, ed esportati all'estero. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -35,7 +35,7 @@ Vittorio Emanuele III.
 
 ## Art. 3.
 
-Nella parte anteriore le cartelle sono munite delle firme del direttore generale del debito pubblico, del direttore capo della divisione VI (Gran Libro) e del rappresentante l'ufficio di riscontro della Corte dei conti, prescritte dall'art. 5 del regolamento sul Debito pubblico, approvato con [R. decreto 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md). 
+Nella parte anteriore le cartelle sono munite delle firme del direttore generale del debito pubblico, del direttore capo della divisione VI (Gran Libro) e del rappresentante l'ufficio di riscontro della Corte dei conti, prescritte dall'art. 5 del regolamento sul Debito pubblico, approvato con [R. decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md). 
  
  Negli angoli superiori, rispettivamente a destra ed a sinistra, in appositi spazi bianchi, e' apposto il bollo demaniale di valore diverso secondo la serie di rendita e il bollo a secco di forma rotonda con lo stemma Reale contornato dalla leggenda «Debito pubblico del Regno d'Italia». 
  

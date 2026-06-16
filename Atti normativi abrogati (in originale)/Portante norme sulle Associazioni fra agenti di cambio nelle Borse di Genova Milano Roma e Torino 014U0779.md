@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli articoli 22, n. 5, e 63 della [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio, della mediazione e delle tasse sui contratti di Borsa;
 
-Visto l'art. 54 del regolamento per l'attuazione della legge anzidetta approvato col [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Visto l'art. 54 del regolamento per l'attuazione della legge anzidetta approvato col [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Visto il [R. decreto del 28 dicembre 1913, n. 1434](Col%20quale%20viene%20stabilita%20la%20cauzione%20degli%20agenti%20di%20cambio%20nelle%20Borse%20013U1434.md), col quale venne determinato il deposito cauzionale degli agenti di cambio nelle Borse;
 

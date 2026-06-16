@@ -16,7 +16,7 @@ Il ministro dell'interno e' autorizzato a regolare, con suoi decreti, la distrib
 
 ## Art. 2.
 
-Le contravvenzioni alle disposizioni come sopra emanate, oltre la generale applicazione dell'[art. 434 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), potranno dar luogo al ritiro della licenza di cui agli articoli 37 e 39 della legge di pubblica sicurezza. 
+Le contravvenzioni alle disposizioni come sopra emanate, oltre la generale applicazione dell'[art. 434 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), potranno dar luogo al ritiro della licenza di cui agli articoli 37 e 39 della legge di pubblica sicurezza. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

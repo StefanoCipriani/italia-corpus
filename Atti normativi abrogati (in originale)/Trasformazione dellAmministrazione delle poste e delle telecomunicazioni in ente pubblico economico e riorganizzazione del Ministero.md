@@ -156,7 +156,7 @@ postelegrafonici le competenze connesse alla liquidazione definitiva ed alla ges
 
 10.
 
-Resta ferma la competenza attribuita alle direzioni provinciali del tesoro ai sensi del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e del [decreto del Presidente della Repubblica 19 aprile 1986, n. 138](../DPR/Parziale%20attuazione%20della%20delega%20di%20cui%20alle%20lettere%20a%20b%20e%20d%20del%20secondo%20comma%20dellart.%201%20della%20legge%207%20agosto%201985%20n.%20428%20in%20materia%20di%20semplificazione%20delle%20procedure%20relative%20al%20pagame_d2a1a8c6c5c1.md), per il pagamento dei trattamenti di quiescenza indicati ai commi 5 e 9 e per la concessione dei relativi trattamenti di reversibilita'.
+Resta ferma la competenza attribuita alle direzioni provinciali del tesoro ai sensi del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e del [decreto del Presidente della Repubblica 19 aprile 1986, n. 138](../DPR/Parziale%20attuazione%20della%20delega%20di%20cui%20alle%20lettere%20a%20b%20e%20d%20del%20secondo%20comma%20dellart.%201%20della%20legge%207%20agosto%201985%20n.%20428%20in%20materia%20di%20semplificazione%20delle%20procedure%20relative%20al%20pagame_d2a1a8c6c5c1.md), per il pagamento dei trattamenti di quiescenza indicati ai commi 5 e 9 e per la concessione dei relativi trattamenti di reversibilita'.
 
 11.
 

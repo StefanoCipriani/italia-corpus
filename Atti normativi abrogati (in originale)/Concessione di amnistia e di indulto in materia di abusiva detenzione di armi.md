@@ -26,7 +26,7 @@ Fuori del caso di amnistia di cui all'art. 1, sono condonate di un terzo le pene
 
 ## Art. 3.
 
-L'amnistia si applica anche ai recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e ai delinquenti abituali o professionali o per tendenza.
+L'amnistia si applica anche ai recidivi nei casi preveduti dai capoversi dell'[art. 99 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e ai delinquenti abituali o professionali o per tendenza.
 
 ## Art. 4.
 

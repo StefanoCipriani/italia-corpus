@@ -16,11 +16,11 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il R. decreto 9 ottobre 192l, n. 1473, arrecante variazioni ad alcune disposizioni di carattere economico e finanziario del regolamento pel servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242); 
+ Visto il R. decreto 9 ottobre 192l, n. 1473, arrecante variazioni ad alcune disposizioni di carattere economico e finanziario del regolamento pel servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md); 
  
- Visto il testo unico delle leggi metriche approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª); 
+ Visto il testo unico delle leggi metriche approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª); 
  
- Visto il regolamento per il servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242); 
+ Visto il regolamento per il servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md); 
  
  Visti i RR. decreti 4 aprile 1912, n. 402, e 10 dicembre 1914, n. 1385, che modificano il regolamento predetto; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Gli effetti delle disposizioni contenute negli articoli 55, 136, 139, 139-bis, 139-ter del regolamento per il servizio metrico di cui all'[art. 1 del R. decreto 9 ottobre 1921, n. 1473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-09;1473#art_1), sono prorogati a tutto l'anno 1923 restando abrogate le disposizioni contrarie dell'art. 2 del decreto stesso; 
+ Gli effetti delle disposizioni contenute negli articoli 55, 136, 139, 139-bis, 139-ter del regolamento per il servizio metrico di cui all'[art. 1 del R. decreto 9 ottobre 1921, n. 1473](../Regi%20decreti/Che%20apporta%20variazioni%20ad%20alcune%20disposizioni%20di%20carattere%20economico%20e%20finanziario%20del%20regolamento%20pel%20servizio%20metrico%20approvato%20con%20Regio%20decreto%2031%20gennaio%201909%20n.%20242.%20021U1473.md), sono prorogati a tutto l'anno 1923 restando abrogate le disposizioni contrarie dell'art. 2 del decreto stesso; 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi e dei decreti sul credito agrario, approvato con il [R. decreto 26 giugno 1921, n. 1048](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md);
+Visto il testo unico delle leggi e dei decreti sul credito agrario, approvato con il [R. decreto 26 giugno 1921, n. 1048](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md);
 
 Sentito il consiglio dei ministri;
 
@@ -66,7 +66,7 @@ Gli Istituti di credito agrario Vittorio Emanuele III sono soggetti alla vigilan
 
 ## Art. 9.
 
-Il Governo del Re e' autorizzato ad emanare le norme per l'esecuzione del presente decreto-legge, nonche' a riunire e coordinare le disposizioni in esso contenute con quelle del testo unico delle leggi e dei decreti sul credito agrario, approvato con [Regio decreto 26 giugno 1921, n. 1048](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md).
+Il Governo del Re e' autorizzato ad emanare le norme per l'esecuzione del presente decreto-legge, nonche' a riunire e coordinare le disposizioni in esso contenute con quelle del testo unico delle leggi e dei decreti sul credito agrario, approvato con [Regio decreto 26 giugno 1921, n. 1048](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20contenenti%20provvedimenti%20in%20materia%20di%20credito%20agrario.%20021U1048.md).
 
 ## Art. 10.
 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 novembre 1926, n. 2481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;2481), che approva l'erezione in ente morale del Reale Automobile Club d'Italia:
+Visto il [R. decreto 14 novembre 1926, n. 2481](../Regi%20decreti/Erezione%20in%20ente%20morale%20ed%20approvazione%20dello%20statuto%20relativo%20dellAutomobile%20Club%20dItalia.%20026U2481.md), che approva l'erezione in ente morale del Reale Automobile Club d'Italia:
 
-Visto il [R. decreto 10 agosto 1928, n. 2029](Modifiche%20al%20R.%20decreto%2014%20novembre%201926%20n.%202481%20ed%20approvazione%20del%20nuovo%20statuto%20del%20Reale%20Automobile%20Club%20dItalia.%20028U2029.md), che approva lo statuto dell'Ente;
+Visto il [R. decreto 10 agosto 1928, n. 2029](../Regi%20decreti/Modifiche%20al%20R.%20decreto%2014%20novembre%201926%20n.%202481%20ed%20approvazione%20del%20nuovo%20statuto%20del%20Reale%20Automobile%20Club%20dItalia.%20028U2029.md), che approva lo statuto dell'Ente;
 
 Visto il R. decreto 24 novembre 1934-XIII, n. 2323, che approva il nuovo statuto dell'Ente;
 

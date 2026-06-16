@@ -18,7 +18,7 @@ Visto il R. decreto 10 febbraio 1907, che stabilisce il grado e le attribuzioni 
 
 Visto il R. decreto 25 luglio 1907, che stabilisce il numero e il grado degli ufficiali rivestiti di carica direttiva presso l'ufficio di stato maggiore della marina;
 
-Visto il [R. decreto 29 agosto 1913, n. 1123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-29;1123), che istituisce un ufficio storico presso l'ufficio di stato maggiore della marina;
+Visto il [R. decreto 29 agosto 1913, n. 1123](../Regi%20decreti/Col%20quale%20viene%20istituito%20lufficio%20storico%20presso%20lufficio%20di%20stato%20maggiore%20della%20R.%20marina.%20013U1123.md), che istituisce un ufficio storico presso l'ufficio di stato maggiore della marina;
 
 Sentito il Consiglio dei ministri;
 

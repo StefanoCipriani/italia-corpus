@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il R. decreto 5 novembre 1911, convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia per le persone di ambo i sessi;
+Visto il [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia per le persone di ambo i sessi;
 
 Ritenuto che sia necessario stabilire le modalita' occorrenti per l'applicazione di tale decreto ai cittadini italiani, residenti nelle Colonie, e disciplinare la composizione delle Commissioni arbitrali di prima istanza per la risoluzione delle controversie;
 
@@ -28,13 +28,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le colonie, di concer
 
 ## Art. 1.
 
-Gli istituti di previdenza sociale, dei quali tratta il titolo IV del citato [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), sono costituiti, con decreto del Ministro per le colonie, in numero di uno per ogni Colonia. 
+Gli istituti di previdenza sociale, dei quali tratta il titolo IV del citato [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), sono costituiti, con decreto del Ministro per le colonie, in numero di uno per ogni Colonia. 
  
  Presso ciascuno di essi e' istituito un Comitato consultivo composto di un funzionario dello Stato, presidente, di un datore di lavoro e di un assicurato obbligatorio, nominati dal Governatore.
 
 ## Art. 2.
 
-Per la risoluzione di tutte le controversie sorgenti dall'applicazione del [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), e' istituita, presso la sede di ciascuno istituto di previdenza sociale, una Commissione arbitrale di prima istanza, cosi' composta: 
+Per la risoluzione di tutte le controversie sorgenti dall'applicazione del [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), e' istituita, presso la sede di ciascuno istituto di previdenza sociale, una Commissione arbitrale di prima istanza, cosi' composta: 
  
  a) un giudice del Tribunale, presidente; 
  

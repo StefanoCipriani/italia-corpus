@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive variazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato, e il [R. decreto 30 ottobre 1924, n. 2042](Norme%20speciali%20per%20le%20ammissioni%20e%20la%20carriera%20del%20personale%20dellAmministrazione%20della%20sanita%20pubblica.%20024U2042.md), contenente norme speciali per l'ammissione e la carriera del personale dell'Amministrazione della sanita' pubblica;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato, e il [R. decreto 30 ottobre 1924, n. 2042](Norme%20speciali%20per%20le%20ammissioni%20e%20la%20carriera%20del%20personale%20dellAmministrazione%20della%20sanita%20pubblica.%20024U2042.md), contenente norme speciali per l'ammissione e la carriera del personale dell'Amministrazione della sanita' pubblica;
 
 Visto il [R. decreto 3 novembre 1927, n. 2208](Variazioni%20allordinamento%20dellAmministrazione%20della%20sanita%20pubblica.%20027U2208.md), circa l'ordinamento del personale dell'Amministrazione della sanita' pubblica;
 
@@ -43,7 +43,7 @@ Il personale che per effetto dell'attuazione dei ruoli di cui alle tabelle del p
 ## Art. 3.
 
 All'ultimo comma dell'[articolo 8 del R. decreto 3 novembre 1927, n. 2208](Variazioni%20allordinamento%20dellAmministrazione%20della%20sanita%20pubblica.%20027U2208.md), sono sostituiti i seguenti: 
- «Agli effetti di cui al precedente comma e' anche valutabile per non oltre quattro anni l'effettivo servizio prestato presso altra Amministrazione dello Stato, in ruolo di gruppo A o B. Tale servizio, se prestato in ruoli di gruppo B, sara' valutato nel modo indicato dall'[articolo 21, quarto comma, del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21-com4). 
+ «Agli effetti di cui al precedente comma e' anche valutabile per non oltre quattro anni l'effettivo servizio prestato presso altra Amministrazione dello Stato, in ruolo di gruppo A o B. Tale servizio, se prestato in ruoli di gruppo B, sara' valutato nel modo indicato dall'[articolo 21, quarto comma, del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  «La complessiva anzianita' di servizio, ai fini del conferimento dei posti di grado 8° di cui al 2° comma, e' valutata alla data di entrata in vigore del presente decreto».
 
 ## Art. 4.

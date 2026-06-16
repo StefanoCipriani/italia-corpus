@@ -27,9 +27,9 @@ Ai corsi di laurea possono essere iscritti tutti coloro che siano in possesso di
 
 ## Art. 3.
 
-Nell'elenco delle lauree e dei diplomi di cui alla tabella n. I annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), sono aggiunte la laurea in Scienze economiche e bancarie e la laurea in Scienze economiche.
- Nell'elenco delle Facolta' di cui alla tabella n. II annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la Facolta' di scienze economiche e bancarie che rilascia la laurea in scienze economiche e bancarie e la laurea in scienze economiche.
- Dopo la tabella n. VIII annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' inserita, col n. VIII-bis, la tabella annessa alla presente legge.
+Nell'elenco delle lauree e dei diplomi di cui alla tabella n. I annessa al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), sono aggiunte la laurea in Scienze economiche e bancarie e la laurea in Scienze economiche.
+ Nell'elenco delle Facolta' di cui alla tabella n. II annessa al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' aggiunta la Facolta' di scienze economiche e bancarie che rilascia la laurea in scienze economiche e bancarie e la laurea in scienze economiche.
+ Dopo la tabella n. VIII annessa al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' inserita, col n. VIII-bis, la tabella annessa alla presente legge.
 
 ## Art. 4.
 

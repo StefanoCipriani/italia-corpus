@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-A partire dal 1° gennaio 1916, la Commissione centrale dei porti, spiaggie e fari, di cui all'art. 102 del regolamento approvato con [R. decreto 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-09-26;713), con sede presso il Ministero dei lavori pubblici, sara' presieduta dal ministro, o da chi per esso, e ne faranno parte: 
+A partire dal 1° gennaio 1916, la Commissione centrale dei porti, spiaggie e fari, di cui all'art. 102 del regolamento approvato con [R. decreto 26 settembre 1904, n. 713](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%202%20aprile%201885%20testo%20unico%20n.%203095%20sui%20porti%20spiaggie%20e%20fari.%20004U0713.md), con sede presso il Ministero dei lavori pubblici, sara' presieduta dal ministro, o da chi per esso, e ne faranno parte: 
  
  Il direttore generale delle Opere marittime; 
  

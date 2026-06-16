@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Per gli agenti iscritti al Fondo pensioni per il personale delle ferrovie dello Stato esonerati dal servizio con decorrenza posteriore al 30 giugno 1913, la pensione e' elevata dai nove decimi all'intero ammontare dei versamenti utili calcolati in base al primo comma dell'art. 17 del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), tenuto conto dei soprassoldi di cui all'[art. 2 della legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md), e di quelli di cui all'art. 11 della presente legge, e non puo' mai essere inferiore a L. 400. 
+Per gli agenti iscritti al Fondo pensioni per il personale delle ferrovie dello Stato esonerati dal servizio con decorrenza posteriore al 30 giugno 1913, la pensione e' elevata dai nove decimi all'intero ammontare dei versamenti utili calcolati in base al primo comma dell'art. 17 del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), tenuto conto dei soprassoldi di cui all'[art. 2 della legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md), e di quelli di cui all'art. 11 della presente legge, e non puo' mai essere inferiore a L. 400. 
  
  Per le famiglie degli agenti morti in attivita' di servizio dopo la sopraindicata data 30 giugno 1913, o destituiti con effetto posteriore alla data medesima, la pensione e' commisurata al suddetto ammontare, ferme restando le norme di cui all'art. 20 del testo unico anzidetto.
 
@@ -26,7 +26,7 @@ Per la riversibilita' della pensione alle vedove ed ai figli degli agenti morti 
 
 ## Art. 4.
 
-Il servizio di avventizio prestato alle ferrovie dello Stato puo' essere riscattato, agli effetti della pensione, con le norme contenute nell'art. 37 del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), purche' risultino, da attendibili documenti, il tempo e le condizioni del servizio medesimo. 
+Il servizio di avventizio prestato alle ferrovie dello Stato puo' essere riscattato, agli effetti della pensione, con le norme contenute nell'art. 37 del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), purche' risultino, da attendibili documenti, il tempo e le condizioni del servizio medesimo. 
  
  Per i riscatti di servizio militare che saranno concessi all'attuazione della presente legge in poi, l'onere della riserva matematica, corrispondente all'aumento ed all'anticipazione della pensione, e' ripartito fra il fondo pensioni e l'agente nella misura rispettiva del 62 e del 38 per cento. Per quelli in corso di pagamento si continua la ritenuta stabilita all'atto del riscatto fino al saldo del debito. 
  
@@ -50,7 +50,7 @@ Le competenze accessorie ai macchinisti dei treni elettrici sono commisurate, ag
 
 ## Art. 7.
 
-I diritti degli agenti inscritti al fondo pensioni delle ferrovie dello Stato e delle loro famiglie sono esclusivamente determinati dal testo unico approvato con R, decreto 22 aprile 1909, n. 299, dalla [legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md), dal [R. decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), nonche' dalla presente legge, e nulla dal Fondo pensioni puo' essere concesso che non sia previsto dal detto testo unico e dalle altre disposizioni suindicate.
+I diritti degli agenti inscritti al fondo pensioni delle ferrovie dello Stato e delle loro famiglie sono esclusivamente determinati dal testo unico approvato con R, decreto 22 aprile 1909, n. 299, dalla [legge 13 aprile 1911, n. 310](Che%20approva%20le%20modificazioni%20allordinamento%20delle%20ferrovie%20dello%20Stato%20ed%20il%20miglioramento%20economico%20del%20personale.%20011U0310.md), dal [R. decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), nonche' dalla presente legge, e nulla dal Fondo pensioni puo' essere concesso che non sia previsto dal detto testo unico e dalle altre disposizioni suindicate.
 
 ## Art. 8.
 
@@ -84,7 +84,7 @@ Agli agenti stabili ed in prova addetti al servizio ferroviario di Stato provvis
  
  L'imposta di ricchezza mobile e' a carico degli agenti in quanto sia dovuta sul loro stipendio o paga. 
  
- Con decreto Reale su proposta del ministro dei lavori pubblici, di concerto col ministro del tesoro, sentito il Consiglio d'amministrazione delle ferrovie ed il Consiglio dei ministri, sara' provveduto alla revisione dei soprassoldi di localita' di 3ª e 4ª categoria di cui all'art. 142 (tabelle C e D) delle disposizioni sulle equipotenze accessorie per il personale ferroviario approvato con [Regio decreto 22 luglio 1906, n. 417](Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), al fine di metterli in relazione col nuovo trattamento. 
+ Con decreto Reale su proposta del ministro dei lavori pubblici, di concerto col ministro del tesoro, sentito il Consiglio d'amministrazione delle ferrovie ed il Consiglio dei ministri, sara' provveduto alla revisione dei soprassoldi di localita' di 3ª e 4ª categoria di cui all'art. 142 (tabelle C e D) delle disposizioni sulle equipotenze accessorie per il personale ferroviario approvato con [Regio decreto 22 luglio 1906, n. 417](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20pel%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20quello%20addetto%20alla%20navigazione%20sullo%20stretto%20di%20Messina.%20006U0417.md), al fine di metterli in relazione col nuovo trattamento. 
  
  Le presenti disposizioni andranno in vigore col 1° luglio 1914.
 Esse non riguardano il personale delle ferrovie complementari a scartamento ridotto della Sicilia classificate come secondario, ne' il personale, navigante.
@@ -206,7 +206,7 @@ Con decreto Reale, su proposta del ministro dei lavori pubblici, di concerto col
 
 ## Art. 26.
 
-Le disposizioni della presente legge saranno coordinate in testo unico con quelle di tutte le altre leggi emanate per le ferrovie dello Stato dall'anno 1905 in poi, che saranno ancora in vigore alla data di pubblicazione del testo unico, escluse quelle contemplate negli [articoli 9](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md) e [3, n. 21, del Regio decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e quelle della presente legge, riguardanti le pensioni. 
+Le disposizioni della presente legge saranno coordinate in testo unico con quelle di tutte le altre leggi emanate per le ferrovie dello Stato dall'anno 1905 in poi, che saranno ancora in vigore alla data di pubblicazione del testo unico, escluse quelle contemplate negli [articoli 9](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md) e [3, n. 21, del Regio decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e quelle della presente legge, riguardanti le pensioni. 
  
  Tale testo unico, nel quale potranno introdursi tutte le modificazioni di forma occorrenti ai fini del coordinamento, sara' approvato con decreto Reale, su proposta del ministro dei lavori pubblici, intesi il Consiglio di amministrazione delle ferrovie, il Consiglio di Stato ed il Consiglio dei ministri. Il decreto sara' poi presentato al Parlamento per la conversione in legge. 
  

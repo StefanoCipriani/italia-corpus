@@ -14,7 +14,7 @@ E' autorizzata la spesa di lire 460,000 per la esecuzione delle opere di sistema
 
 ## Art. 2.
 
-Tali opere sono dichiarate di pubblica utilita' ed obbligatorie, agli effetti dell'art. 13, capoverso primo, del testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato col [regio decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095).
+Tali opere sono dichiarate di pubblica utilita' ed obbligatorie, agli effetti dell'art. 13, capoverso primo, del testo unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), approvato col [regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md).
 
 ## Art. 3.
 

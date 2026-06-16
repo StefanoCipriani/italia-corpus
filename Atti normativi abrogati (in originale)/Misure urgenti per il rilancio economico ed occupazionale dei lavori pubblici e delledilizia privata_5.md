@@ -319,7 +319,7 @@ I creditori che richiedano ed ottengano il sequestro o il pignoramento delle som
 
 7.
 
-Rimangono salve le disposizioni del testo unico delle leggi concernenti il sequestro, il pignoramento e le cessioni degli stipendi, salari e pensioni dei dipendenti delle pubbliche amministrazioni, approvato con [decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md).
+Rimangono salve le disposizioni del testo unico delle leggi concernenti il sequestro, il pignoramento e le cessioni degli stipendi, salari e pensioni dei dipendenti delle pubbliche amministrazioni, approvato con [decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md).
 
 8.
 

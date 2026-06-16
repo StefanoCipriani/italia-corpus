@@ -20,7 +20,7 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Ritenuta la necessita' urgente ed assoluta di provvedere ad assicurare nuove entrate tributarie, in relazione alle esigenze del bilancio;
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni;
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -70,7 +70,7 @@ Nei casi in cui la ditta o la societa' non sia attualmente iscritta nei ruoli de
  
  Ove la determinazione dei redditi singoli sia mancata e si sia stabilita una cifra unica e complessiva di reddito per tutta la categoria, la cifra stessa sara' ripartita fra i singoli contribuenti della categoria in relazione alla quota di imposta che l'ente iscritto a ruolo riscuote a carico di ciascuna azienda compresa nella iscrizione collettiva. A tal fine l'ente suddetto e' tenuto a presentare all'Ufficio distrettuale, entro 30 giorni dalla pubblicazione del presente decreto, l'elenco dei singoli contribuenti compresi nella iscrizione collettiva con l'indicazione della rispettiva quota di imposta, munito della firma di ciascun contribuente. 
  
- In caso di omissione l'ente iscritto a ruolo incorre in una pena pecuniaria da lire 500 a lire 10.000 da applicarsi secondo le norme del [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608). 
+ In caso di omissione l'ente iscritto a ruolo incorre in una pena pecuniaria da lire 500 a lire 10.000 da applicarsi secondo le norme del [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md). 
  
  I redditi risultanti dalla ripartizione operata come sopra hanno valore di dichiarazione dei contribuenti.
 
@@ -209,7 +209,7 @@ L'azione della Finanza per gli accertamenti e per le rettifiche agli effetti del
 
 ## Art. 26.
 
-Per le dichiarazioni e per l'accertamento dei capitali soggetti alla imposta straordinaria si applicano le norme e le penalita' del [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), con le variazioni seguenti: 
+Per le dichiarazioni e per l'accertamento dei capitali soggetti alla imposta straordinaria si applicano le norme e le penalita' del [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), con le variazioni seguenti: 
  
  La sopratassa per omessa dichiarazione e' stabilita nella misura di un terzo della imposta straordinaria che risultera' accertata, e quella per infedele dichiarazione nella misura di un terzo della differenza tra l'imposta dovuta e quella che sarebbe stata applicabile in base alla dichiarazione fatta.
 
@@ -217,7 +217,7 @@ Per le dichiarazioni e per l'accertamento dei capitali soggetti alla imposta str
 
 Ove la societa' o la ditta, prima che sia saldato l'intero debito d'imposta straordinaria, cessi l'esercizio dell'azienda, l'Intendente di finanza dispone il riscatto d'ufficio dell'intero carico ancora da scadere e l'iscrizione del prezzo relativo in un ruolo straordinario riscuotibile in unica rata con i privilegi di cui all'art. 19. 
  
- Nel caso di cessazione previa liquidazione, i liquidatori devono, agli effetti della disposizione contenuta nel comma precedente, comunicare all'Intendente di finanza la messa in liquidazione entro tre giorni da quello in cui hanno assunto le loro funzioni, rimanendo obbligati in proprio, in caso di omissione, per l'imposta che, per effetto della omissione stessa, non siasi potuta riscuotere, e salva, in ogni caso, la disposizione contenuta nell'art. 45 del testo approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608).
+ Nel caso di cessazione previa liquidazione, i liquidatori devono, agli effetti della disposizione contenuta nel comma precedente, comunicare all'Intendente di finanza la messa in liquidazione entro tre giorni da quello in cui hanno assunto le loro funzioni, rimanendo obbligati in proprio, in caso di omissione, per l'imposta che, per effetto della omissione stessa, non siasi potuta riscuotere, e salva, in ogni caso, la disposizione contenuta nell'art. 45 del testo approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md).
 
 ## Art. 28.
 

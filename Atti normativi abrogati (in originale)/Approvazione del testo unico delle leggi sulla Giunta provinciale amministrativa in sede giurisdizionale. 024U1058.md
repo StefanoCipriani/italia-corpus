@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto l'[art. 29 del R. decreto 30 dicembre 1923, n. 2840](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2840#art_29), portante modificazioni alle leggi sulla Giunta provinciale amministrativa in sede giurisdizionale, che da' facolta' al Nostro Governo di riunire in testo unico le disposizioni del detto decreto con quelle rimaste in vigore alle leggi predette; 
+ Visto l'[art. 29 del R. decreto 30 dicembre 1923, n. 2840](../Regi%20decreti/Modificazioni%20allordinamento%20del%20Consiglio%20di%20Stato%20e%20della%20Giunta%20provinciale%20amministrativa%20in%20sede%20giurisdizionale.%20023U2840.md), portante modificazioni alle leggi sulla Giunta provinciale amministrativa in sede giurisdizionale, che da' facolta' al Nostro Governo di riunire in testo unico le disposizioni del detto decreto con quelle rimaste in vigore alle leggi predette; 
  
  Udito il parere del Consiglio di Stato in adunanza generale; 
  

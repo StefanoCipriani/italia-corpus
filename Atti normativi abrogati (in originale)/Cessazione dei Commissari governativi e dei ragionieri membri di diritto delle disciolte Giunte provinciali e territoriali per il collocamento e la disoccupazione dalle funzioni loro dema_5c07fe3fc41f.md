@@ -18,7 +18,7 @@ Visti il [decreto-legge 19 ottobre 1919, n. 2214](https://www.normattiva.it/uri-
 
 Visto il [R. decreto 4 febbraio 1923, n. 249](Concernente%20lo%20scioglimento%20delle%20Giunte%20provinciali%20e%20di%20determinate%20Giunte%20territoriali%20per%20il%20collocamento%20e%20la%20disoccupazione.%20023U0249.md), concernente lo scioglimento delle Giunte provinciali per il collocamento e la disoccupazione;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), concernente l'assicurazione obbligatoria contro la disoccupazione involontaria:
+Visto il [R. decreto 30 dicembre 1923, n. 3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), concernente l'assicurazione obbligatoria contro la disoccupazione involontaria:
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
@@ -30,7 +30,7 @@ A datare dal 16 ottobre 1924 i Commissari governativi di cui al [R. decreto 4 fe
 
 ## Art. 2.
 
-Finche' non saranno stati costituiti, presso gli istituti di previdenza sociale, i Comitati consultivi previsti dal [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), le funzioni che ai Comitati stessi sono affidate dal [R. decreto 30 dicembre 1923, n.3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158), saranno provvisoriamente esercitate dal Comitato speciale per l'assicurazione contro la disoccupazione, costituito ai termini dell'art. 11 del precitato [R. decreto 30 dicembre 1923, n.3158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3158). 
+Finche' non saranno stati costituiti, presso gli istituti di previdenza sociale, i Comitati consultivi previsti dal [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), le funzioni che ai Comitati stessi sono affidate dal [R. decreto 30 dicembre 1923, n.3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md), saranno provvisoriamente esercitate dal Comitato speciale per l'assicurazione contro la disoccupazione, costituito ai termini dell'art. 11 del precitato [R. decreto 30 dicembre 1923, n.3158](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20023U3158.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

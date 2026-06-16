@@ -16,9 +16,9 @@ RE D'ITALIA
 
 In virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Visto il [R. decreto 8 luglio 1923, n. 1726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-08;1726), che sopprime la circoscrizione circondariale di Robbio;
+Visto il [R. decreto 8 luglio 1923, n. 1726](../Regi%20decreti/Soppressione%20della%20circoscrizione%20circondariale%20di%20Bobbio%20ed%20aggregazione%20dei%20Comuni%20che%20ne%20fanno%20parte%20alle%20circoscrizioni%20territoriali%20delle%20provincie%20di%20Genova%20Piacenza%20e%20Pavia.%20023U1726.md), che sopprime la circoscrizione circondariale di Robbio;
 
-Visti i [Regi decreti 2 settembre 1923, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1911), e [n. 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1913), che istituiscono le provincie dell'Jonio e della Spezia;
+Visti i [Regi decreti 2 settembre 1923, n. 1911](../Regi%20decreti/Istituzione%20della%20provincia%20di%20Taranto.%20023U1911.md), e [n. 1913](../Regi%20decreti/Istituzione%20della%20provincia%20della%20Spezia.%20023U1913.md), che istituiscono le provincie dell'Jonio e della Spezia;
 
 Visto l'[art. 2 della legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), e il regolamento per l'attuazione di detta legge, approvato con il [R. decreto 19 febbraio 1911, n. 245](Che%20approva%20lannesso%20regolamento%20per%20lattuazione%20della%20legge%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria.%20011U0245.md);
 
@@ -44,7 +44,7 @@ La Camera di commercio e industria di Lecce ha giurisdizione sulla provincia di 
 
 ## Art. 3.
 
-Gli elettori camerali dei Comuni, per i quali, per effetto del presente decreto, e' modificata la circoscrizione camerale, saranno compresi nelle liste elettorali 1923, in base alle nuove circoscrizioni. Analogamente sara' disposto per gli elettori camerali, che per effetto del [R. decreto 8 luglio 1923, n. 1726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-08;1726), che sopprime la circoscrizione circondariale di Bobbio sono stati aggregati alle provincie di Genova e Piacenza.
+Gli elettori camerali dei Comuni, per i quali, per effetto del presente decreto, e' modificata la circoscrizione camerale, saranno compresi nelle liste elettorali 1923, in base alle nuove circoscrizioni. Analogamente sara' disposto per gli elettori camerali, che per effetto del [R. decreto 8 luglio 1923, n. 1726](../Regi%20decreti/Soppressione%20della%20circoscrizione%20circondariale%20di%20Bobbio%20ed%20aggregazione%20dei%20Comuni%20che%20ne%20fanno%20parte%20alle%20circoscrizioni%20territoriali%20delle%20provincie%20di%20Genova%20Piacenza%20e%20Pavia.%20023U1726.md), che sopprime la circoscrizione circondariale di Bobbio sono stati aggregati alle provincie di Genova e Piacenza.
 
 ## Art. 4.
 

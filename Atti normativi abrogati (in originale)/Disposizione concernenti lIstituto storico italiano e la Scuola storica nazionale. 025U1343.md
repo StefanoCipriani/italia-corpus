@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Veduto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -26,7 +26,7 @@ Il Ministro per la pubblica istruzione e' autorizzato a comandare un professore 
 
 ## Art. 2.
 
-Su proposta del Consiglio direttivo della Scuola storica nazionale, istituita presso l'Istituto storico italiano con il [R. decreto 31 dicembre 1923, n. 3011, il Ministro per la pubblica istruzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3011) potra' confermare per non oltre un biennio gli insegnanti di istituti medi d'istruzione comandati presso la Scuola stessa a norma dell'art. 2 del citato Regio decreto. 
+Su proposta del Consiglio direttivo della Scuola storica nazionale, istituita presso l'Istituto storico italiano con il [R. decreto 31 dicembre 1923, n. 3011, il Ministro per la pubblica istruzione](../Regi%20decreti/Istituzione%20in%20Roma%20di%20una%20Scuola%20storica%20nazionale%20presso%20lIstituto%20storico%20italiano.%20023U3011.md) potra' confermare per non oltre un biennio gli insegnanti di istituti medi d'istruzione comandati presso la Scuola stessa a norma dell'art. 2 del citato Regio decreto. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

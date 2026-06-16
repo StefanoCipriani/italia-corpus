@@ -20,9 +20,9 @@ Visto il [decreto-legge 26 maggio 1918, n. 739](https://www.normattiva.it/uri-re
 
 Visto il [decreto-legge 3 settembre 1926, n. 1698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-09-03;1698), convertito in legge con la [legge 16 giugno 1927, n. 1122](Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20settembre%201926%20n.%201698%20portante%20modificazioni%20al%20R.%20decreto-legge%2026%20maggio%201918%20n.%20739%20relativo%20al%20Consorzio%20obbligatorio%20per%20lindustria%20zolfi_af762cbd2138.md), e col quale si apportano modificazioni all'ordinamento amministrativo del Consorzio;
 
-Visto il [R. decreto 24 aprile 1927, n. 896](Approvazione%20delle%20norme%20per%20la%20elezione%20la%20rinnovazione%20ed%20il%20funzionamento%20del%20Comitato%20dei%20delegati%20e%20del%20Consiglio%20di%20amministrazione%20del%20Consorzio%20obbligatorio%20per%20lindustria%20zolfife_1e6b31e23037.md), col quale si approvano le norme per la elezione, la rinnovazione ed il funzionamento del Comitato dei delegati e del Consiglio di amministrazione del Consorzio;
+Visto il [R. decreto 24 aprile 1927, n. 896](../Regi%20decreti/Approvazione%20delle%20norme%20per%20la%20elezione%20la%20rinnovazione%20ed%20il%20funzionamento%20del%20Comitato%20dei%20delegati%20e%20del%20Consiglio%20di%20amministrazione%20del%20Consorzio%20obbligatorio%20per%20lindustria%20zolfife_1e6b31e23037.md), col quale si approvano le norme per la elezione, la rinnovazione ed il funzionamento del Comitato dei delegati e del Consiglio di amministrazione del Consorzio;
 
-Visto il [R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443), contenente norme di carattere legislativo per disciplinare la ricerca e la coltivazione delle miniere nel Regno;
+Visto il [R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), contenente norme di carattere legislativo per disciplinare la ricerca e la coltivazione delle miniere nel Regno;
 
 Considerata la necessita' urgente ed assoluta di adottare nuove disposizioni per la organizzazione amministrativa del Consorzio suddetto;
 
@@ -38,7 +38,7 @@ Il Consorzio obbligatorio per l'industria zolfifera siciliana istituito con la [
 
 Il Commissario governativo e' nominato con Regio decreto su proposta del Ministro per l'economia nazionale, di concerto con quello per le finanze, sentito il Consiglio dei Ministri. 
  
- La Consulta e' presieduta dal Commissario governativo e si compone di cinque membri nominati con decreto del Ministro per l'economia nazionale, tre dei quali scelti fra gli esercenti e due fra coloro che abbiano titolo ad ottenere la concessione perpetua di miniere di zolfo a norma dell'[art. 54 del R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_54).
+ La Consulta e' presieduta dal Commissario governativo e si compone di cinque membri nominati con decreto del Ministro per l'economia nazionale, tre dei quali scelti fra gli esercenti e due fra coloro che abbiano titolo ad ottenere la concessione perpetua di miniere di zolfo a norma dell'[art. 54 del R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md).
 
 ## Art. 3.
 
@@ -70,7 +70,7 @@ Il Consorzio e' sottoposto alla vigilanza del Ministero dell'economia nazionale,
 
 ## Art. 6.
 
-E' soppresso l'ufficio ed il posto di direttore generale del Consorzio e conseguentemente sono abrogati gli [articoli 12](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md), [13](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md) e [14 della legge 30 giugno 1910, n. 361](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md); 2, 3, 4 e 5 del [decreto-legge 26 maggio 1918, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-05-26;739); il [decreto-legge 3 settembre 1926, n. 1698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-09-03;1698), e il [R. decreto 24 aprile 1927, n. 896](Approvazione%20delle%20norme%20per%20la%20elezione%20la%20rinnovazione%20ed%20il%20funzionamento%20del%20Comitato%20dei%20delegati%20e%20del%20Consiglio%20di%20amministrazione%20del%20Consorzio%20obbligatorio%20per%20lindustria%20zolfife_1e6b31e23037.md), nonche' ogni altra disposizione contraria al presente decreto. 
+E' soppresso l'ufficio ed il posto di direttore generale del Consorzio e conseguentemente sono abrogati gli [articoli 12](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md), [13](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md) e [14 della legge 30 giugno 1910, n. 361](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md); 2, 3, 4 e 5 del [decreto-legge 26 maggio 1918, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-05-26;739); il [decreto-legge 3 settembre 1926, n. 1698](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-09-03;1698), e il [R. decreto 24 aprile 1927, n. 896](../Regi%20decreti/Approvazione%20delle%20norme%20per%20la%20elezione%20la%20rinnovazione%20ed%20il%20funzionamento%20del%20Comitato%20dei%20delegati%20e%20del%20Consiglio%20di%20amministrazione%20del%20Consorzio%20obbligatorio%20per%20lindustria%20zolfife_1e6b31e23037.md), nonche' ogni altra disposizione contraria al presente decreto. 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

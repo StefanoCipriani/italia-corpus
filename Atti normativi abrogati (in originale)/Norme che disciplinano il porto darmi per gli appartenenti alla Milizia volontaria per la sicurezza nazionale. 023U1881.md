@@ -24,7 +24,7 @@ Visto il [Regio decreto-legge 15 marzo 1923, n. 967](Che%20stabilisce%20i%20grad
 
 Visti i [Regi decreti-legge 28 dicembre 1922, n. 1676](Che%20aumenta%20le%20tasse%20di%20concessione%20governativa%20per%20il%20fucile%20rivoltella%20pistola%20automatica%20e%20bastone%20animato.%20022U1676.md) e [18 marzo 1923, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-18;549), che aumentano le tasse di concessione governativa per il porto d'armi;
 
-Visto l'art. 19 del regolamento per l'esecuzione della legge sulle contravvenzioni pel porto d'armi 2 luglio 1908, n. 319, approvato con [Regio decreto 10 gennaio 1915, n. 68](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%202%20luglio%201908%20n.%20319%20sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20015U0068.md);
+Visto l'art. 19 del regolamento per l'esecuzione della legge sulle contravvenzioni pel porto d'armi 2 luglio 1908, n. 319, approvato con [Regio decreto 10 gennaio 1915, n. 68](../Regi%20decreti/Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%202%20luglio%201908%20n.%20319%20sulle%20lesioni%20commesse%20con%20armi%20e%20sulle%20contravvenzioni%20per%20porto%20darmi.%20015U0068.md);
 
 Sentito il Consiglio dei Ministri;
 

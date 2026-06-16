@@ -32,7 +32,7 @@ Il numero massimo degli addetti rimane fissato come segue:
 
 8.
 
-Il maggior numero di addetti in confronto a quello di cui al [R. decreto 3 febbraio 1921, n. 122](Che%20stabilisce%20il%20numero%20massimo%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20Regie%20rappresentanze%20diplomatiche%20e%20determina%20le%20competenze%20loro%20spettanti.%20021U0122.md), non potra' essere portato in aumento negli organici del personale civile e militare delle rispettive Amministrazioni. 
+Il maggior numero di addetti in confronto a quello di cui al [R. decreto 3 febbraio 1921, n. 122](../Regi%20decreti/Che%20stabilisce%20il%20numero%20massimo%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20Regie%20rappresentanze%20diplomatiche%20e%20determina%20le%20competenze%20loro%20spettanti.%20021U0122.md), non potra' essere portato in aumento negli organici del personale civile e militare delle rispettive Amministrazioni. 
  
 --------------- 
 Nota redazionale 
@@ -61,9 +61,9 @@ Il presente decreto abroga quello in data 3 febbraio 1921 n. 122.
 
 ## Art. 7. — Disposizione transitoria.
 
-Agli addetti militari, navali ed aeronautici, gia' nominati in base al [R. decreto 3 febbraio 1921, n. 122](Che%20stabilisce%20il%20numero%20massimo%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20Regie%20rappresentanze%20diplomatiche%20e%20determina%20le%20competenze%20loro%20spettanti.%20021U0122.md), continuera' ad essere corrisposto il trattamento economico per essi attualmente in vigore, finche' non verra' emanato il Regio decreto di cui all'art. 4. 
+Agli addetti militari, navali ed aeronautici, gia' nominati in base al [R. decreto 3 febbraio 1921, n. 122](../Regi%20decreti/Che%20stabilisce%20il%20numero%20massimo%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20Regie%20rappresentanze%20diplomatiche%20e%20determina%20le%20competenze%20loro%20spettanti.%20021U0122.md), continuera' ad essere corrisposto il trattamento economico per essi attualmente in vigore, finche' non verra' emanato il Regio decreto di cui all'art. 4. 
  
- Per i nuovi addetti, di cui al precedente art. 2, comma 2°, il trattamento economico, in via provvisoria, e in attesa che sia emanato il predetto decreto Reale, verra' fissato nelle misure e con le modalita' di cui ai [Regi decreti 3 febbraio 1921, n. 122](Che%20stabilisce%20il%20numero%20massimo%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20Regie%20rappresentanze%20diplomatiche%20e%20determina%20le%20competenze%20loro%20spettanti.%20021U0122.md), e [8 febbraio 1923, n. 487](Che%20riduce%20le%20indennita%20giornaliere%20e%20quelle%20di%20residenza%20mensili%20stabilite%20per%20gli%20addetti%20militari%20navali%20ed%20areonautici.%20023U0487.md), a decorrere dalla data di arrivo in sede.
+ Per i nuovi addetti, di cui al precedente art. 2, comma 2°, il trattamento economico, in via provvisoria, e in attesa che sia emanato il predetto decreto Reale, verra' fissato nelle misure e con le modalita' di cui ai [Regi decreti 3 febbraio 1921, n. 122](../Regi%20decreti/Che%20stabilisce%20il%20numero%20massimo%20degli%20addetti%20militari%20navali%20ed%20aeronautici%20presso%20le%20Regie%20rappresentanze%20diplomatiche%20e%20determina%20le%20competenze%20loro%20spettanti.%20021U0122.md), e [8 febbraio 1923, n. 487](../Regi%20decreti/Che%20riduce%20le%20indennita%20giornaliere%20e%20quelle%20di%20residenza%20mensili%20stabilite%20per%20gli%20addetti%20militari%20navali%20ed%20areonautici.%20023U0487.md), a decorrere dalla data di arrivo in sede.
 
 ## Art. 8.
 

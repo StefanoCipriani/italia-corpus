@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzion
 
 ## Art. 1.
 
-Senza pregiudizio delle disposizioni contenute nella [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md) e nel [R. decreto 29 gennaio 1922, n. 92](Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%2021%20agosto%201921%20n.%201312%20concernente%20lassunzione%20obbligatoria%20al%20lavoro%20degli%20invalidi%20di%20guerra.%20022U0092.md). i mutilati ed invalidi di guerra, a qualunque categoria appartengano, che siano o saranno compresi in graduatorie di aventi diritto all'assunzione in ruolo nelle cattedre nei Regi istituti medi d'istruzione, saranno nominati, indipendentemente dall'ordine della graduatoria, con diritto assoluto di precedenza sugli altri graduati. 
+Senza pregiudizio delle disposizioni contenute nella [legge 21 agosto 1921, n. 1312](Concernente%20lassunzione%20obbligatoria%20degli%20invalidi%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20aziende%20private.%20021U1312.md) e nel [R. decreto 29 gennaio 1922, n. 92](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%2021%20agosto%201921%20n.%201312%20concernente%20lassunzione%20obbligatoria%20al%20lavoro%20degli%20invalidi%20di%20guerra.%20022U0092.md). i mutilati ed invalidi di guerra, a qualunque categoria appartengano, che siano o saranno compresi in graduatorie di aventi diritto all'assunzione in ruolo nelle cattedre nei Regi istituti medi d'istruzione, saranno nominati, indipendentemente dall'ordine della graduatoria, con diritto assoluto di precedenza sugli altri graduati. 
  
  La predetta disposizione si estende in favore delle vedove dei militari o assimilati morti in reparti combattenti nella guerra 1915-18 o a causa di ferite o malattie contratte nei reparti stessi. 
  
@@ -34,7 +34,7 @@ Per provvedere alle cattedre che sono rimaste o rimarranno vacanti nei Regi isti
  
  a) i mutilati ed invalidi di guerra, a qualunque categoria appartengono, e le vedove dei militari od assimilati morti in reparti combattenti nella guerra 1915-18 o a causa di ferite o malattie contratte nei reparti stessi; 
  
- b) gli ex combattenti che si trovino nelle condizioni di cui all'[art. 18, comma 1°, del R. decreto 8 maggio 1924, n. 843](Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), ed abbiano prestato, alla data di questo decreto, servizio di supplente con qualifica di buono nei Regi istituti medi d'istruzione per almeno due anni scolastici, computandosi l'anno scolastico, a tale effetto, della durata ininterrotta non minore di sette mesi.
+ b) gli ex combattenti che si trovino nelle condizioni di cui all'[art. 18, comma 1°, del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), ed abbiano prestato, alla data di questo decreto, servizio di supplente con qualifica di buono nei Regi istituti medi d'istruzione per almeno due anni scolastici, computandosi l'anno scolastico, a tale effetto, della durata ininterrotta non minore di sette mesi.
 
 ## Art. 3.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), [n. 1998 del 23 ottobre 1927](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md) e [n. 3191 del 5 dicembre 1928](Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20028U3191.md);
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), [n. 1998 del 23 ottobre 1927](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md) e [n. 3191 del 5 dicembre 1928](Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20028U3191.md);
 
 Sentito il parere del Consiglio di amministrazione dei monopoli di Stato e del Consiglio di Stato;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Gli articoli 20, 86 e 95 del regolamento per la coltivazione indigena del tabacco, approvato coi [Regi decreti n. 1590 del 12 ottobre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), [n. 1998 del 23 ottobre 1927](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md) e [n. 3191 del 5 dicembre 1928](Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20028U3191.md), sono sostituiti dai seguenti: 
+Gli articoli 20, 86 e 95 del regolamento per la coltivazione indigena del tabacco, approvato coi [Regi decreti n. 1590 del 12 ottobre 1924](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), [n. 1998 del 23 ottobre 1927](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md) e [n. 3191 del 5 dicembre 1928](Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20028U3191.md), sono sostituiti dai seguenti: 
  «Art. 20. - Nel corso della campagna si eseguiscono, previo invito da farsi almeno nel giorno precedente, due verifiche ordinarie: 
 a) la prima, dopo il trapiantamento, per accertare il numero delle piante e la superficie coltivata, che non possono superare le quantita' autorizzate per ogni coltivazione; 
 b) la seconda, dopo la cimatura, per stabilire il numero delle foglie. 

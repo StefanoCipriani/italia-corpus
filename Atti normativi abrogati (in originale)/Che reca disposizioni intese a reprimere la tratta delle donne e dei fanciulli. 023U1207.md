@@ -26,7 +26,7 @@ Capo I.
 
 ### Art. 1.
 
-Oltre quanto e' disposto dal capo III, titolo VIII, libro II, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque, per servire all'altrui libidine, ingaggia, sottrae, conduce o fa condurre fuori della propria dimora una persona minore degli anni 21 a scopo di prostituzione, e' punito con la reclusione da tre a trenta mesi e con la multa da lire cento a tremila, ancorche' consti del consenso della persona. 
+Oltre quanto e' disposto dal capo III, titolo VIII, libro II, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque, per servire all'altrui libidine, ingaggia, sottrae, conduce o fa condurre fuori della propria dimora una persona minore degli anni 21 a scopo di prostituzione, e' punito con la reclusione da tre a trenta mesi e con la multa da lire cento a tremila, ancorche' consti del consenso della persona. 
  
  Qualora il delitto sia commesso con violenza, minaccia, abuso di autorita', inganno o altro mezzo di coazione o di frode, ovvero sopra persona minore degli anni dodici la reclusione e' da uno a sei anni, e la multa non e' inferiore alle lire cinquecento. 
  
@@ -44,17 +44,17 @@ Il colpevole dei delitti preveduti nei precedenti articoli e' punito nel Regno a
  
  Il cittadino e' giudicato nel Regno, anche se il reato sia stato commesso o tutti gli atti di esecuzione siano stati iniziati all'estero. 
  
- Nei suddetti casi si procede di ufficio anche nella ipotesi prevista dall'[articolo 348 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); e non si applica al cittadino italiano, colpevole, la diminuzione di pena stabilita nella prima parte dell'art. 5 del Codice stesso. 
+ Nei suddetti casi si procede di ufficio anche nella ipotesi prevista dall'[articolo 348 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); e non si applica al cittadino italiano, colpevole, la diminuzione di pena stabilita nella prima parte dell'art. 5 del Codice stesso. 
  
- Restano salve in ogni caso le disposizioni degli [articoli 7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [8 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Restano salve in ogni caso le disposizioni degli [articoli 7](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [8 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 4.
 
-Le disposizioni del libro I, titolo VIII, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche nel caso di condanne pronunciate nel territorio degli Stati firmatari o aderenti alla Convenzione internazionale contro la tratta delle donne e dei fanciulli conclusa a Ginevra il 18 ottobre 1921, per i delitti indicati negli articoli precedenti.
+Le disposizioni del libro I, titolo VIII, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche nel caso di condanne pronunciate nel territorio degli Stati firmatari o aderenti alla Convenzione internazionale contro la tratta delle donne e dei fanciulli conclusa a Ginevra il 18 ottobre 1921, per i delitti indicati negli articoli precedenti.
 
 ### Art. 5.
 
-Le disposizioni del capo IV, titolo VIII, libro II del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), esclusa quella di cui all'art. 350 del detto Codice, si applicano anche nel caso di condanna per alcuno dei delitti preveduti negli articoli precedenti.
+Le disposizioni del capo IV, titolo VIII, libro II del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), esclusa quella di cui all'art. 350 del detto Codice, si applicano anche nel caso di condanna per alcuno dei delitti preveduti negli articoli precedenti.
 
 ## Delle agenzie di collocamento di donne.
 
@@ -64,7 +64,7 @@ Capo II.
 
 Non possono aprirsi od esercitarsi agenzie pubbliche o uffici pubblici di collocamento o di impiego di donne all'interno o all'estero per l'esercizio di qualsiasi arte, mestiere o professione, senza licenza dell'autorita' di pubblica sicurezza del circondario. 
  
- La licenza non puo' essere accordata a chi fu condannato a pena restrittiva della liberta' personale a tempo maggiore di un anno, per qualsiasi reato, o a chi fu condannato a pena anche per minore per alcuno dei delitti contemplati dal libro II, titolo VIII, IX e X del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o dal presente decreto, o a chi non possa provare la sua buona condotta. 
+ La licenza non puo' essere accordata a chi fu condannato a pena restrittiva della liberta' personale a tempo maggiore di un anno, per qualsiasi reato, o a chi fu condannato a pena anche per minore per alcuno dei delitti contemplati dal libro II, titolo VIII, IX e X del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o dal presente decreto, o a chi non possa provare la sua buona condotta. 
  
  Puo' essere rifiutata al coniuge della persona che si trovi in alcuna delle condizioni sovraindicate. 
  
@@ -82,7 +82,7 @@ La licenza puo' essere vincolala a speciali prescrizioni nell'interesse pubblico
 
 ### Art. 8.
 
-Sono applicabili alla gestione dell'agenzia o dell'ufficio le norme stabilite nell'[art. 70 del testo unico della legge sulla pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_70) approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª). 
+Sono applicabili alla gestione dell'agenzia o dell'ufficio le norme stabilite nell'[art. 70 del testo unico della legge sulla pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [R. decreto 30 giugno 1889, n. 6144](../Regi%20decreti/Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª). 
  
  L'agenzia o ufficio puo' essere condotto a mezzo di interposta persona, sempreche' questa abbia i requisiti a norma dell'art. 6 e si abbia la preventiva autorizzazione dell'autorita' di P. S. che rilascio' la licenza, e che dovra' constatare l'esistenza dei requisiti stessi nella persona del rappresentante. 
  
@@ -90,7 +90,7 @@ Sono applicabili alla gestione dell'agenzia o dell'ufficio le norme stabilite ne
 
 ### Art. 9.
 
-Il contravventore alle disposizioni contenute nei precedenti articoli del presente capo, e' punito a termini degli [articoli 449](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [450 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Il contravventore alle disposizioni contenute nei precedenti articoli del presente capo, e' punito a termini degli [articoli 449](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [450 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Dell'Ufficio centrale italiano.
 

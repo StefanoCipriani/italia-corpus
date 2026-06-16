@@ -22,7 +22,7 @@ Visto il [R. decreto 11 gennaio 1923, n. 113](Concernente%20lordinamento%20degli
 
 Visto il [R. decreto 18 gennaio 1923, n. 53](Che%20istituisce%20le%20Provincie%20dellIstria%20con%20capoluogo%20Pola%20di%20Trieste%20con%20capoluogo%20Trieste%20e%20che%20modifica%20il%20territorio%20e%20la%20denominazione%20della%20Provincia%20di%20Udine.%20023U0053.md), relativo alla istituzione della provincia dell'Istria con capoluogo Pola, ed all'aggregazione di parte del territorio della Venezia Giulia alla provincia del Friuli con capoluogo Udine;
 
-Visto il [R. decreto 21 gennaio 1923, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-21;93), relativo alla istituzione della provincia di Trento con capoluogo Trento e all'aggregazione di parte del territorio della Venezia Tridentina alla provincia di Belluno;
+Visto il [R. decreto 21 gennaio 1923, n. 93](../Regi%20decreti/Che%20istituisce%20la%20provincia%20di%20Trento%20con%20capoluogo%20Trento.%20023U0093.md), relativo alla istituzione della provincia di Trento con capoluogo Trento e all'aggregazione di parte del territorio della Venezia Tridentina alla provincia di Belluno;
 
 Udito il Consiglio dei ministri;
 
@@ -50,7 +50,7 @@ Il territorio della Venezia Giulia passato a far parte della provincia del Friul
 
 La Intendenza di finanza di Pola esercita nella rispettiva giurisdizione le funzioni demandate alle altre Intendenze di finanza del Regno dalle leggi e dai regolamenti gia' estesi ai territori annessi e che saranno ulteriormente estesi o comunque promulgati. 
  
- Salvo quanto e' disposto negli articoli seguenti la predetta Intendenza di finanza, quella di Udine per il territorio aggregato alla provincia del Friuli in virtu' del [R. decreto 18 gennaio 1923, n. 53](Che%20istituisce%20le%20Provincie%20dellIstria%20con%20capoluogo%20Pola%20di%20Trieste%20con%20capoluogo%20Trieste%20e%20che%20modifica%20il%20territorio%20e%20la%20denominazione%20della%20Provincia%20di%20Udine.%20023U0053.md), e quella di Belluno per il territorio ad essa aggregato in virtu' del [R. decreto 21 gennaio 1923, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-21;93), esercitano altresi' le funzioni di autorita' provinciale di finanza per l'applicazione delle norme del cessato regime ancora vigenti in quanto debbano, anche in avvenire, essere osservate.
+ Salvo quanto e' disposto negli articoli seguenti la predetta Intendenza di finanza, quella di Udine per il territorio aggregato alla provincia del Friuli in virtu' del [R. decreto 18 gennaio 1923, n. 53](Che%20istituisce%20le%20Provincie%20dellIstria%20con%20capoluogo%20Pola%20di%20Trieste%20con%20capoluogo%20Trieste%20e%20che%20modifica%20il%20territorio%20e%20la%20denominazione%20della%20Provincia%20di%20Udine.%20023U0053.md), e quella di Belluno per il territorio ad essa aggregato in virtu' del [R. decreto 21 gennaio 1923, n. 93](../Regi%20decreti/Che%20istituisce%20la%20provincia%20di%20Trento%20con%20capoluogo%20Trento.%20023U0093.md), esercitano altresi' le funzioni di autorita' provinciale di finanza per l'applicazione delle norme del cessato regime ancora vigenti in quanto debbano, anche in avvenire, essere osservate.
 
 ## Art. 5.
 

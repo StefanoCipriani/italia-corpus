@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435#art_2) e [5 del R. decreto 26 marzo 1911, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435#art_5), che regola le norme per la manutenzione e conservazione del Palazzo di giustizia in Roma; 
+ Visti gli [articoli 2](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20la%20concessione%20e%20lamministrazione%20del%20palazzo%20di%20giustizia%20in%20Roma%20011U0435.md) e [5 del R. decreto 26 marzo 1911, n. 435](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20la%20concessione%20e%20lamministrazione%20del%20palazzo%20di%20giustizia%20in%20Roma%20011U0435.md), che regola le norme per la manutenzione e conservazione del Palazzo di giustizia in Roma; 
  
  Ritenuta la necessita' di provvedere alla sostituzione dell'ingegnere direttore dell'ufficio tecnico per la conservazione e manutenzione del Palazzo di giustizia in Roma in tutte le mansioni stabilite negli articoli 2 e 5 del citato R. decreto per il caso di temporanea assenza del detto funzionario; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- A parziale deroga degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435#art_2) e [5 del R. decreto 26 marzo 1911, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435#art_5), in caso di temporanea assenza, l'ingegnere del genio civile che fa parte della Commissione per la manutenzione e conservazione del Palazzo di giustizia in Roma, potra' essere sostituito nel detto incarico e nella direzione dell'ufficio tecnico dipendente dalla Commissione suddetta dal piu' anziano dei funzionari del genio civile addetti all'ufficio medesimo. 
+ A parziale deroga degli [articoli 2](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20la%20concessione%20e%20lamministrazione%20del%20palazzo%20di%20giustizia%20in%20Roma%20011U0435.md) e [5 del R. decreto 26 marzo 1911, n. 435](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20la%20concessione%20e%20lamministrazione%20del%20palazzo%20di%20giustizia%20in%20Roma%20011U0435.md), in caso di temporanea assenza, l'ingegnere del genio civile che fa parte della Commissione per la manutenzione e conservazione del Palazzo di giustizia in Roma, potra' essere sostituito nel detto incarico e nella direzione dell'ufficio tecnico dipendente dalla Commissione suddetta dal piu' anziano dei funzionari del genio civile addetti all'ufficio medesimo. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

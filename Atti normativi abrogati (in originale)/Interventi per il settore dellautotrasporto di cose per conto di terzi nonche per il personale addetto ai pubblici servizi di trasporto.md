@@ -52,7 +52,7 @@ Sono escluse dal campo di applicazione della [legge 8 agosto 1991, n. 264](https
 
 2.
 
-E' differito al 1 ottobre 1995 il termine previsto dall'[articolo 16, comma 1, del decreto del Presidente della Repubblica 19 aprile 1994, n. 575](../DPR/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), che ha emanato il regolamento recante la disciplina dei procedimenti per il rilascio e la duplicazione della patente di guida di veicoli.
+E' differito al 1 ottobre 1995 il termine previsto dall'[articolo 16, comma 1, del decreto del Presidente della Repubblica 19 aprile 1994, n. 575](../Regolamenti%20governativi/Regolamento%20recante%20la%20disciplina%20dei%20procedimenti%20per%20il%20rilascio%20e%20la%20duplicazione%20della%20patente%20di%20guida%20di%20veicoli.md), che ha emanato il regolamento recante la disciplina dei procedimenti per il rilascio e la duplicazione della patente di guida di veicoli.
 
 ## Art. 3. — Proroga della legge 5 febbraio 1992, n. 68
 

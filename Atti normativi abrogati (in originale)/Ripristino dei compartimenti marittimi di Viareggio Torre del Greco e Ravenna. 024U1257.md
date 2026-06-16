@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 18 agosto 1908, n. 540](Che%20costituisce%20i%20nuovi%20compartimenti%20marittimi%20di%20Viareggio%20Torre%20del%20Greco%20Salerno%20Brindisi%20Chioggia%20e%20Siracusa.%20008U0540.md) e [23 agosto 1912, n. 1018](Col%20quale%20viene%20costituito%20il%20nuovo%20compartimento%20marittimo%20di%20Ravenna.%20012U1018.md), che istituiscono i compartimenti marittimi di Viareggio, Torre del Greco e Ravenna;
+Visti i [Regi decreti 18 agosto 1908, n. 540](../Regi%20decreti/Che%20costituisce%20i%20nuovi%20compartimenti%20marittimi%20di%20Viareggio%20Torre%20del%20Greco%20Salerno%20Brindisi%20Chioggia%20e%20Siracusa.%20008U0540.md) e [23 agosto 1912, n. 1018](../Regi%20decreti/Col%20quale%20viene%20costituito%20il%20nuovo%20compartimento%20marittimo%20di%20Ravenna.%20012U1018.md), che istituiscono i compartimenti marittimi di Viareggio, Torre del Greco e Ravenna;
 
-Visto il [R. decreto 20 dicembre 1923, n. 3235](Nuove%20circoscrizioni%20della%20marina%20mercantile.%20023U3235.md), col quale i compartimenti marittimi di Viareggio, Torre del Greco e Ravenna vennero ridotti ad uffici circondariali di porto;
+Visto il [R. decreto 20 dicembre 1923, n. 3235](../Regi%20decreti/Nuove%20circoscrizioni%20della%20marina%20mercantile.%20023U3235.md), col quale i compartimenti marittimi di Viareggio, Torre del Greco e Ravenna vennero ridotti ad uffici circondariali di porto;
 
 Visto il [R. decreto 30 aprile 1924, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-30;566), che istituisce il Ministero delle comunicazioni;
 

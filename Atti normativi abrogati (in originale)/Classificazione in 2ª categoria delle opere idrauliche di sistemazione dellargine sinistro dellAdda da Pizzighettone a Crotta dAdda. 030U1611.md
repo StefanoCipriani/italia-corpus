@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulle opere idrauliche delle diverse categorie, approvato con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523), modificato dalla [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e dal [R. decreto-legge 19 novembre 1921, n. 1688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-19;1688);
+Visto il testo unico delle leggi sulle opere idrauliche delle diverse categorie, approvato con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md), modificato dalla [legge 13 luglio 1911, n. 774](Recante%20provvedimenti%20per%20la%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani%20per%20le%20altre%20opere%20idrauliche%20e%20per%20le%20bonificazioni.%20011U0774.md), e dal [R. decreto-legge 19 novembre 1921, n. 1688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-11-19;1688);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

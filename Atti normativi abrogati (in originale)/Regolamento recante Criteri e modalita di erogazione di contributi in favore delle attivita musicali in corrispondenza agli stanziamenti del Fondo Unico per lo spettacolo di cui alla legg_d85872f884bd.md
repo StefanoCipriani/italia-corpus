@@ -73,7 +73,7 @@ Il Ministero per i beni e le attivita' culturali, di seguito definito "l'amminis
 Ai fini dell'intervento finanziario dello Stato, sono considerate le attivita' liriche, concertistiche, corali, di promozione e perfezionamento professionale, le rassegne e i festival, le attivita' di complessi bandistici.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  - Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17), recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", cosi' dispone:
@@ -265,7 +265,7 @@ Nota all'art. 6:
 
 1.
 
-Per l'attivita' di valutazione, i costi da valutare ai sensi dell'articolo 3, commi 1, lettera a) e dell'articolo 5 sono relativi all'attivita' svolta nel triennio immediatamente precedente a quello per il quale il contributo deve essere determinato. A tal fine l'amministrazione considera i dati risultanti dai bilanci consuntivi dei primi due anni e da quanto dichiarato dal soggetto richiedente, ai sensi degli [articoli 46](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), relativamente all'ultimo anno del triennio.
+Per l'attivita' di valutazione, i costi da valutare ai sensi dell'articolo 3, commi 1, lettera a) e dell'articolo 5 sono relativi all'attivita' svolta nel triennio immediatamente precedente a quello per il quale il contributo deve essere determinato. A tal fine l'amministrazione considera i dati risultanti dai bilanci consuntivi dei primi due anni e da quanto dichiarato dal soggetto richiedente, ai sensi degli [articoli 46](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), relativamente all'ultimo anno del triennio.
 
 2.
 
@@ -284,8 +284,8 @@ La valutazione qualitativa determina una parte del contributo che non puo' esser
 
 La variazione sostanziale di alcuni degli elementi artistici del programma, rispetto a quelli indicati nel progetto, preventivamente specificati dalla commissione, dovuta ad impedimenti non derivanti dalla volonta' del soggetto sovvenzionato, va previamente comunicata all'amministrazione, che provvede a sottoporre nuovamente, per tale solo aspetto, il progetto alla citata commissione ai fini della conferma o eventuale diminuzione del contributo.
 
-Note all'[art. 7](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md):
- - L'[art. 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante "[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md)" cosi' recita:
+Note all'[art. 7](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md):
+ - L'[art. 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante "[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md)" cosi' recita:
  "Art. 46 (Dichiarazioni sostitutive di certificazioni). - 1. Sono comprovati con dichiarazioni, anche contestuali all'istanza, sottoscritte dall'interessato e prodotte in sostituzione delle normali certificazioni i seguenti stati, qualita' personali e fatti:
  a) data e il luogo di nascita;
  b) residenza;
@@ -313,7 +313,7 @@ Note all'[art. 7](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%
  cc) qualita' di vivenza a carico;
  dd) tutti i dati a diretta conoscenza dell'interessato contenuti nei registri dello stato civile;
  ee) di non trovarsi in stato di liquidazione o di fallimento e di non aver presentato domanda di concordato.".
- - L'art. 47 del citato [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), cosi' recita:
+ - L'art. 47 del citato [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), cosi' recita:
  "Art. 47 (Dichiarazioni sostitutive dell'atto di notorieta). - 1. L'atto di notorieta' concernente stati, qualita' personali o fatti che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo con la osservanza delle modalita' di cui all'art. 38.
  2. La dichiarazione resa nell'interesse proprio del dichiarante puo' riguardare anche stati, qualita' personali e fatti relativi ad altri soggetti di cui egli abbia diretta conoscenza.
  3. Fatte salve le eccezioni espressamente previste per legge, nei rapporti con la pubblica amministrazione e con i concessionari di pubblici servizi, tutti gli stati, le qualita' personali e i fatti non espressamente indicati nell'art. 46 sono comprovati dall'interessato mediante la dichiarazione sostitutiva di atto di notorieta'.
@@ -327,7 +327,7 @@ La domanda di ammissione ai contributi, per uno solo dei settori di cui ai Capi 
                             a)
                                 copia conforme all'originale dell'atto costitutivo e dello statuto, nonche' elenco dei soci, qualora tali atti non siano gia' in possesso dell'amministrazione;
                             b)
-                                dichiarazione resa ai sensi dell'[articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), con la quale si rappresentano le variazioni ai dati risultanti dagli atti di cui alla lettera a);
+                                dichiarazione resa ai sensi dell'[articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), con la quale si rappresentano le variazioni ai dati risultanti dagli atti di cui alla lettera a);
                             c)
                                 progetto artistico, relativamente agli anni per i quali e' richiesto il contributo, comprendente i dati necessari ai sensi degli articoli 3, comma 1, 5, e 7 comma 1, mediante appositi modelli predisposti dall'amministrazione.
 
@@ -336,7 +336,7 @@ La domanda di ammissione ai contributi, per uno solo dei settori di cui ai Capi 
 Il termine per la presentazione delle domande e' fissato al 30 settembre dell'anno antecedente il periodo per il quale si chiede il contributo. Ai sensi dell'[articolo 7, comma 3, del decreto legislativo 8 gennaio 1998, n. 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20degli%20organi%20collegiali%20operanti%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20-%20Dipartimento%20dello%20spettacolo%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20a%20%20della%20legge%2015%20marzo%201997%20n.%2059.md), il termine e' perentorio. Nel caso di domanda spedita mediante il servizio postale, fa fede la data di spedizione.
 
 Note all'art. 8:
- - Per il testo dell'[art. 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), si veda in note all'art. 7.
+ - Per il testo dell'[art. 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), si veda in note all'art. 7.
  - Si riporta il testo del comma 3 dell'art. 7 del citato [decreto legislativo 8 gennaio 1998, n. 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20degli%20organi%20collegiali%20operanti%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20-%20Dipartimento%20dello%20spettacolo%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20a%20%20della%20legge%2015%20marzo%201997%20n.%2059.md):
  "3. - I termini previsti per la presentazione di domande di contributo o ausili finanziari di qualunque tipo presso il Dipartimento dello spettacolo sono perentori ed anche al fine della attribuzione di acconti sui medesimi si applicano gli [articoli 2](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md) e [3 della legge 4 gennaio 1968, n. 15](Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
@@ -353,7 +353,7 @@ Qualora ricorrano le condizioni di cui all'articolo 2, comma 3, il contributo de
 
 3.
 
-Ai fini dell'erogazione del saldo, i soggetti beneficiari di contributo devono dichiarare, ai sensi degli [articoli 46](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md):
+Ai fini dell'erogazione del saldo, i soggetti beneficiari di contributo devono dichiarare, ai sensi degli [articoli 46](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md):
                             a)
                                 il numero delle giornate lavorative;
                             b)
@@ -371,7 +371,7 @@ E' comunque in facolta' dei soggetti presentare documentazione idonea a comprova
 
 5.
 
-La documentazione prevista dal comma 3 costituisce autocertificazione della corrispondenza dei dati ivi contenuti con quelli di bilancio, ai sensi degli [articoli 46](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).
+La documentazione prevista dal comma 3 costituisce autocertificazione della corrispondenza dei dati ivi contenuti con quelli di bilancio, ai sensi degli [articoli 46](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).
 
 6.
 
@@ -382,7 +382,7 @@ L'amministrazione puo' procedere a verifiche amministrativo-contabili, anche a c
 Salvi i casi di errore materiale, e' vietato il riesame del provvedimento di cui al comma 1 o l'assegnazione di interventi integrativi, anche in presenza di maggiori costi per l'attivita' svolta. Resta fermo quanto previsto dall'articolo 2, comma 3, ultimo periodo.
 
 Nota all'art. 9:
- Per il testo degli [articoli 46](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), si veda in note all'art. 7.
+ Per il testo degli [articoli 46](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), si veda in note all'art. 7.
 
 ### Art. 10. — Decadenze e sanzioni
 

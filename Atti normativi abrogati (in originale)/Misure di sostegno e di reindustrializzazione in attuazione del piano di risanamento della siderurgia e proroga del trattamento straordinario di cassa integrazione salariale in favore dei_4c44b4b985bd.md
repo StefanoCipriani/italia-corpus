@@ -86,7 +86,7 @@ Il minore gettito contributivo derivante al Fondo pensioni dei lavoratori dipend
 
 3.
 
-Nel caso in cui i predetti lavoratori vengano assunti da datori di lavoro aventi titolo agli sgravi degli oneri sociali di cui al testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive modifica zioni ed integrazioni, ai datori di lavoro e' corrisposto, per ciascuno dei predetti lavoratori, per la durata di diciotto mesi e a carico della separata contabilita' di cui al comma 2, un contributo pari al 15 per cento della retribuzione.
+Nel caso in cui i predetti lavoratori vengano assunti da datori di lavoro aventi titolo agli sgravi degli oneri sociali di cui al testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive modifica zioni ed integrazioni, ai datori di lavoro e' corrisposto, per ciascuno dei predetti lavoratori, per la durata di diciotto mesi e a carico della separata contabilita' di cui al comma 2, un contributo pari al 15 per cento della retribuzione.
 
 4.
 
@@ -189,11 +189,11 @@ A tal fine:
                             b)
                                 il tasso di interesse, comprensivo di ogni onere accessorio e spese, dei finanziamenti agevolati e' determinato, per tutte le iniziative ammesse, nella misura di cui alla [lettera a), comma 9, dell'articolo 9 della legge 1 marzo 1986, n. 64](Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md);
                             c)
-                                alle predette iniziative si applica la maggiorazione di 1/5 del contributo in conto capitale, nei limiti e secondo le procedure di cui all'articolo 69, quarto comma, del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive integrazioni e modificazioni.
+                                alle predette iniziative si applica la maggiorazione di 1/5 del contributo in conto capitale, nei limiti e secondo le procedure di cui all'articolo 69, quarto comma, del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e successive integrazioni e modificazioni.
 
 3.
 
-Alle provvidenze di cui al presente articolo si applicano i limiti di cumulo previsti dall'[articolo 9, comma 2, della legge 1 marzo 1986, n. 64](Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md), e dall'articolo 63, quinto e sesto comma, del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), fermo restando il disposto di cui al settimo comma del medesimo articolo 63.
+Alle provvidenze di cui al presente articolo si applicano i limiti di cumulo previsti dall'[articolo 9, comma 2, della legge 1 marzo 1986, n. 64](Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md), e dall'articolo 63, quinto e sesto comma, del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), fermo restando il disposto di cui al settimo comma del medesimo articolo 63.
 
 ### Art. 10.
 

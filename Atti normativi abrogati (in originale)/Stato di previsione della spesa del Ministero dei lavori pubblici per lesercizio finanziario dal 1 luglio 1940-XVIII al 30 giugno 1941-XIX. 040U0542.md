@@ -32,7 +32,7 @@ E' autorizzata la spesa di L. 125.000.000 per provvedere al completamento di ope
 
 Sono stabiliti, per l'esercizio 1940-41, i seguenti limiti d'impegno; 
  
- L. 4.500.000 per le annualita' occorrenti per le sovvenzioni previste dal [testo unico sulle acque](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) e sugli impianti, approvato con R. decreto 11 dicembre 1933-XVII, n. 1775, e con le norme stabilite nelle relative leggi speciali che restano prorogate a tutti gli effetti fino al 30 giugno 1941-XIX per i contributi a favore di Comuni ed altri Enti interessati per l'edilizia scolastica, gli acquedotti e le opere igieniche e sanitarie; 
+ L. 4.500.000 per le annualita' occorrenti per le sovvenzioni previste dal [testo unico sulle acque](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) e sugli impianti, approvato con R. decreto 11 dicembre 1933-XVII, n. 1775, e con le norme stabilite nelle relative leggi speciali che restano prorogate a tutti gli effetti fino al 30 giugno 1941-XIX per i contributi a favore di Comuni ed altri Enti interessati per l'edilizia scolastica, gli acquedotti e le opere igieniche e sanitarie; 
  
  L. 16.000.000 per le annualita' occorrenti per i contributi a favore dell'Istituto nazionale per le case degli impiegati dello Stato e degli Istituti ed Enti autonomi per costruzione di case popolari. 
  

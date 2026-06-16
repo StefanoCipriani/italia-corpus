@@ -36,7 +36,7 @@ La inosservanza delle precedenti disposizioni sara' punita con multa di lire 200
 
 ## Art. 5.
 
-In quanto non siasi diversamente provveduto colla presente legge rimangono in vigore le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
+In quanto non siasi diversamente provveduto colla presente legge rimangono in vigore le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
 
 ## Art. 6.
 

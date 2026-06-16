@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 29 settembre 1927, n. 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-29;1908), col quale i comuni di Mentoulles e Usseaux sono stati soppressi, ed i rispettivi territori aggregati a quello di Fenestrelle; 
+ Visto il [R. decreto 29 settembre 1927, n. 1908](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Mentoulles%20e%20Usseaux%20al%20comune%20di%20Fenestrelle.%20027U1908.md), col quale i comuni di Mentoulles e Usseaux sono stati soppressi, ed i rispettivi territori aggregati a quello di Fenestrelle; 
  
  Vista la deliberazione del commissario prefettizio di Fenestrelle, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Mentoulles e Usseaux; 
  

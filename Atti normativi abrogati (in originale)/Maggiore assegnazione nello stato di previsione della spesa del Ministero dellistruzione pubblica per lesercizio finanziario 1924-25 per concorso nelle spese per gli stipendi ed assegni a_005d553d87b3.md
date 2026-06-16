@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 21 dicembre 1924, n. 2072](Proroga%20dellesercizio%20provvisorio%20fino%20a%20quando%20siano%20tradotti%20in%20legge%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201924-25%20non%20ancora%20approvati.%20024U2072.md); 
  
- Visto l'[art. 41 del Regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41), recante nuove norme sulla contabilita' generale dello Stato; 
+ Visto l'[art. 41 del Regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante nuove norme sulla contabilita' generale dello Stato; 
  
  Sentito il Consiglio dei Ministri; 
  

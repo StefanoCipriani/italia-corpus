@@ -22,7 +22,7 @@ Visto il [R. decreto-legge 29 luglio 1927, n. 1509](Provvedimenti%20per%20lordin
 
 Vista la [legge 18 luglio 1930, n. 1137](Costituzione%20di%20un%20Consorzio%20obbligatorio%20per%20la%20difesa%20e%20lincremento%20della%20produzione%20e%20del%20commercio%20delluva%20zibibbo%20e%20del%20vino%20tipico%20moscato%20di%20Pantelleria.%20030U1137.md), relativa alla costituzione di un Consorzio obbligatorio per la difesa e l'incremento della produzione e del commercio dell'uva zibibbo e del vino tipico moscato di Pantelleria;
 
-Visto il [R. decreto 26 novembre 1931, n. 1630](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2018%20luglio%201930%20n.%201137%20recante%20disposizioni%20per%20la%20costituzione%20di%20un%20Consorzio%20obbligatorio%20per%20la%20difesa%20e%20lincremento%20della%20p_60d3626c938f.md), che approva il regolamento per l'esecuzione della cennata legge;
+Visto il [R. decreto 26 novembre 1931, n. 1630](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2018%20luglio%201930%20n.%201137%20recante%20disposizioni%20per%20la%20costituzione%20di%20un%20Consorzio%20obbligatorio%20per%20la%20difesa%20e%20lincremento%20della%20p_60d3626c938f.md), che approva il regolamento per l'esecuzione della cennata legge;
 
 Ritenuta la necessita' urgente ed assoluta di emanare provvedimenti atti a favorire la ricostituzione dei vigneti distrutti dalla fillossera nell'Isola di Pantelleria;
 
@@ -42,7 +42,7 @@ Per la ricostituzione dei vigneti distrutti dalla fillossera nell'Isola di Pante
 
 Il Consorzio vitivinicolo provvedera' al riparto fra i consorziati dell'annualita' da corrispondere all'Istituto mutuante, proporzionalmente all'estensione dei vigneti fillosserati da ricostituire. 
  
- Il piano di riparto dovra' essere compilato con le modalita' previste dai commi 1° e 2° dell'art. 5 del regolamento per l'esecuzione della [legge 18 luglio 1930, n. 1137](Costituzione%20di%20un%20Consorzio%20obbligatorio%20per%20la%20difesa%20e%20lincremento%20della%20produzione%20e%20del%20commercio%20delluva%20zibibbo%20e%20del%20vino%20tipico%20moscato%20di%20Pantelleria.%20030U1137.md), approvato con [R. decreto 26 novembre 1931, n. 1630](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2018%20luglio%201930%20n.%201137%20recante%20disposizioni%20per%20la%20costituzione%20di%20un%20Consorzio%20obbligatorio%20per%20la%20difesa%20e%20lincremento%20della%20p_60d3626c938f.md), e dovra' essere reso definitivo all'entrata in ammortamento del mutuo.
+ Il piano di riparto dovra' essere compilato con le modalita' previste dai commi 1° e 2° dell'art. 5 del regolamento per l'esecuzione della [legge 18 luglio 1930, n. 1137](Costituzione%20di%20un%20Consorzio%20obbligatorio%20per%20la%20difesa%20e%20lincremento%20della%20produzione%20e%20del%20commercio%20delluva%20zibibbo%20e%20del%20vino%20tipico%20moscato%20di%20Pantelleria.%20030U1137.md), approvato con [R. decreto 26 novembre 1931, n. 1630](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2018%20luglio%201930%20n.%201137%20recante%20disposizioni%20per%20la%20costituzione%20di%20un%20Consorzio%20obbligatorio%20per%20la%20difesa%20e%20lincremento%20della%20p_60d3626c938f.md), e dovra' essere reso definitivo all'entrata in ammortamento del mutuo.
 
 ## Art. 3.
 

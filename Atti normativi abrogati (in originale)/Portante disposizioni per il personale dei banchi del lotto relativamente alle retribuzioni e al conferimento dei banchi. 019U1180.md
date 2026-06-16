@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi e dei decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n.152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md);
+Visto il testo unico delle leggi e dei decreti legislativi sul lotto, approvato con [R. decreto 19 marzo 1908, n.152](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md);
 
 Visti i Nostri decreti del 9 settembre 1917, n. 1608 e 23 maggio 1918, n. 777;
 
@@ -30,7 +30,7 @@ Sentito il Consiglio dei ministri; Abbiamo ordinato ed ordiniamo:
 
 ## Art. 1.
 
-L'art. 53 del testo unico, approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' modificato come segue: 
+L'art. 53 del testo unico, approvato con [R. decreto 19 marzo 1908, n. 152](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' modificato come segue: 
  
  Con effetto dal 1° gennaio 1919 i ricevitori e reggenti sono retribuiti con un aggio graduale sulle somme annualmente riscosse nella seguente misura: 
  
@@ -50,7 +50,7 @@ L'art. 53 del testo unico, approvato con [R. decreto 19 marzo 1908, n. 152](Che%
 
 ## Art. 2.
 
-Al comma 1° dell'art. 56 del testo unico, approvato con [R. decreto 19 marzo 1908, n. 152](Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' sostituito il seguente: 
+Al comma 1° dell'art. 56 del testo unico, approvato con [R. decreto 19 marzo 1908, n. 152](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20e%20dei%20decreti%20legislativi%20sul%20lotto%20pubblico.%20008U0152.md), e' sostituito il seguente: 
  
  «Il sesto degli aggi annualmente liquidati a ciascun banco del lotto, oltre le L. 2000, viene attribuito alla Cassa sovvenzioni per gli impiegati e i superstiti di impiegati civili dello Stato non aventi diritto a pensione di cui all'[art. 9 della legge 22 luglio 1906, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-22;623#art_9)».
 

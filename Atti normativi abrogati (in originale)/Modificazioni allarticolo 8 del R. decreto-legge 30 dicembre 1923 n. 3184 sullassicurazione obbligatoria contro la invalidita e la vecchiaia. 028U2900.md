@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al [secondo comma dell'art. 8 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_8-com2), sotto sostituiti i seguenti: 
+Al [secondo comma dell'art. 8 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), sotto sostituiti i seguenti: 
  
  La parte di pensione annua corrispondente ai contributi dell'assicurato e del datore di lavoro e costituita da: 
  

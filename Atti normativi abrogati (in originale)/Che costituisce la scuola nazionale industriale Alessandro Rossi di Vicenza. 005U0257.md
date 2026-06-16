@@ -18,7 +18,7 @@ Vista la legge 13 novembre 1859, n. 3725, sull'ordinamento dell'istruzione pubbl
 
 Visto il [R. decreto 8 settembre 1878, n. 4498](Col%20quale%20vengono%20fissate%20le%20attribuzioni%20del%20Ministero%20di%20agricoltura%20industria%20e%20commercio.%20078U4498.md), in esecuzione della [legge 30 giugno 1878, n. 4449](Che%20autorizza%20la%20spesa%20necessaria%20per%20la%20ricostituzione%20del%20Ministero%20di%20agricoltura%20industria%20e%20commercio.%20078U4449.md), nel quale sono fissate le attribuzioni del Ministero di agricoltura, industria e commercio;
 
-Visto il [R. decreto 1° marzo 1888, n. 5255](Che%20modifica%20lordinamento%20della%20Scuola%20Industriale%20di%20Vicenza.%20088U5255.md) (serie 3ª), con cui si diede un nuovo ordinamento alla scuola industriale di Vicenza modificando il [R. decreto 23 ottobre 1884, n. 2736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-10-23;2736) (serie 3ª);
+Visto il [R. decreto 1° marzo 1888, n. 5255](Che%20modifica%20lordinamento%20della%20Scuola%20Industriale%20di%20Vicenza.%20088U5255.md) (serie 3ª), con cui si diede un nuovo ordinamento alla scuola industriale di Vicenza modificando il [R. decreto 23 ottobre 1884, n. 2736](../Regi%20decreti/Sulla%20costituzione%20della%20Scuola%20Industriale%20di%20Vicenza.%20084U2736.md) (serie 3ª);
 
 Vista la deliberazione presa dalla Giunta di vigilanza della detta scuola nell'adunanza del 9 marzo 1905;
 

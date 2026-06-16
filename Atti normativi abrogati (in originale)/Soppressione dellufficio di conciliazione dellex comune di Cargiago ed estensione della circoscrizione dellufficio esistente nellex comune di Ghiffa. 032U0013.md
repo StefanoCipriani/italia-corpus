@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 6 settembre 1928, n. 2128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-06;2128), col quale i comuni di Cargiago e Ghiffa venivano riuniti in un solo comune denominato Ghiffa; 
+ Visto il [R. decreto 6 settembre 1928, n. 2128](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cargiago%20e%20Ghiffa%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Ghiffa.%20028U2128.md), col quale i comuni di Cargiago e Ghiffa venivano riuniti in un solo comune denominato Ghiffa; 
  
  Vista la deliberazione del podesta' del comune di Ghiffa, con la quale si chiede che per tutto il territorio del comune di Ghiffa funzioni un solo ufficio di conciliazione; 
  

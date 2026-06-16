@@ -16,7 +16,7 @@ Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md), recante provvedimenti regionali per la Sardegna;
 
-Visto il [regio decreto legislativo 14 maggio 1946, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;464), che modifica l'art. 36 del predetto [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md);
+Visto il [regio decreto legislativo 14 maggio 1946, n. 464](../Regi%20decreti%20legislativi/Modificazione%20dellart.%2036%20del%20decreto%20legislativo%20Luogotenenziale%2028%20dicembre%201944%20n.%20417%20che%20reca%20provvedimenti%20per%20la%20Sardegna.md), che modifica l'art. 36 del predetto [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sardegna.%20044U0417.md);
 
 Visti gli articoli e 6 del [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-La spesa di L. 150.000.000, prevista all'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 464](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-14;464#art_1), per il finanziamento a favore della Societa' mineraria carbonifera sarda, e' elevata a L. 300.000.000.
+La spesa di L. 150.000.000, prevista all'[art. 1 del regio decreto legislativo 14 maggio 1946, n. 464](../Regi%20decreti%20legislativi/Modificazione%20dellart.%2036%20del%20decreto%20legislativo%20Luogotenenziale%2028%20dicembre%201944%20n.%20417%20che%20reca%20provvedimenti%20per%20la%20Sardegna.md), per il finanziamento a favore della Societa' mineraria carbonifera sarda, e' elevata a L. 300.000.000.
 
 ## Art. 2.
 

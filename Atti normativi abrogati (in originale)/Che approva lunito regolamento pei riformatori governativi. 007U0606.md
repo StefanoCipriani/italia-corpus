@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Viste le disposizioni del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e della legge di pubblica sicurezza in materia del ricovero coattivo di minorenni; 
+ Viste le disposizioni del [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e della legge di pubblica sicurezza in materia del ricovero coattivo di minorenni; 
  
  Visto il [R. decreto 1° febbraio 1891, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-01;260) che approva il regolamento generale per gli stabilimenti carcerari e pei riformatori governativi; 
  

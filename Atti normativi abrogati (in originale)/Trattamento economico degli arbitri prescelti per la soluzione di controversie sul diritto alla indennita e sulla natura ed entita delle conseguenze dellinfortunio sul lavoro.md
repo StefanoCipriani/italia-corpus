@@ -14,7 +14,7 @@ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visto l'[articolo 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto l'[art. 60 del regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_60);
+Visto l'[art. 60 del regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il lavoro e della previdenza sociale, di concert
 
 ## Art. 1.
 
-Il compenso da liquidarsi dal presidente del tribunale agli arbitri previsti dall'[art. 60 del regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_60), non puo' essere inferiore, per i primi due, a lire duecentocinquanta e non superiore a lire cinquecento, e per il terzo arbitro non inferiore a lire trecento e non superiore a lire ottocento. 
+Il compenso da liquidarsi dal presidente del tribunale agli arbitri previsti dall'[art. 60 del regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), non puo' essere inferiore, per i primi due, a lire duecentocinquanta e non superiore a lire cinquecento, e per il terzo arbitro non inferiore a lire trecento e non superiore a lire ottocento. 
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

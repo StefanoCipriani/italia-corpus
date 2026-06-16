@@ -31,7 +31,7 @@ Per l'acquisizione delle aree occorrenti per la costruzione degli alloggi previs
 
 ## Art. 4.
 
-I mutui che l'Istituto autonomo per le case popolari di Trieste contrarra' con la Cassa depositi e prestiti a norma dell'articolo 1, sono garantiti dallo Stato secondo le norme di cui alla [legge 8 aprile 1954, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-08;144), ferma restando la prelazione dell'ente finanziatore prevista dall'articolo 359 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165).
+I mutui che l'Istituto autonomo per le case popolari di Trieste contrarra' con la Cassa depositi e prestiti a norma dell'articolo 1, sono garantiti dallo Stato secondo le norme di cui alla [legge 8 aprile 1954, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-08;144), ferma restando la prelazione dell'ente finanziatore prevista dall'articolo 359 del testo unico approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md).
 
 ## Art. 5.
 

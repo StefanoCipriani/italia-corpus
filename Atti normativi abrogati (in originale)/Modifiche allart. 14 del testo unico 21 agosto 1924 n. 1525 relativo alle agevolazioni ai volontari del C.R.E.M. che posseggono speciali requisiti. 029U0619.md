@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina, approvato col [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina, approvato col [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), e successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Il 1° comma dell'art. 14 del testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina, approvato col [R. decreto 21 agosto 1924, n. 1525](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), modificato con l'[art. 4 del R. decreto-legge 9 novembre 1924, n. 1992](Varianti%20allordinamento%20del%20corpo%20Reale%20equipaggi%20e%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1992.md), e' abrogato e sostituito dai seguenti: 
+Il 1° comma dell'art. 14 del testo unico delle disposizioni legislative riguardanti l'ordinamento del Corpo Reale equipaggi marittimi e lo stato giuridico dei sottufficiali della Regia marina, approvato col [R. decreto 21 agosto 1924, n. 1525](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1525.md), modificato con l'[art. 4 del R. decreto-legge 9 novembre 1924, n. 1992](Varianti%20allordinamento%20del%20corpo%20Reale%20equipaggi%20e%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20024U1992.md), e' abrogato e sostituito dai seguenti: 
  
  «Per meglio assicurare il reclutamento dei volontari occorrenti alle varie categorie del Corpo Reale equipaggi marittimi, il Ministro per la marina ha facolta' di assumere in servizio i giovanetti di eta' inferiore a quella che sara' normalmente stabilita per gli altri arruolamenti, accordando a tale riguardo una maggiore facilitazione ai figli di ufficiali e sottufficiali in servizio attivo o a riposo della Regia marina e di altri Corpi militari dello Stato ed agli orfani degli stessi, agli allievi delle Navi Scuola marinaretti e di altri Istituti aventi analoghe finalita', nonche' ai connazionali residenti all'estero. Questi ultimi potranno essere ammessi anche con eta' superiore di un anno a quella stabilita per gli altri candidati. 
  

@@ -18,7 +18,7 @@ Dette carte valori sono dichiarate non piu' in uso, agli effetti della francatur
 
 ## Art. 3.
 
-In eccezione a quanto dispone l'art. 137 del regolamento generale intorno al servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e' ammesso per lo stesso periodo di sospensione della vendita, su stabilita, e cioe' a partire dalla data del presente decreto fino al 1° giugno p. v. il cambio, al loro valore nominale, dei valori su indicati.
+In eccezione a quanto dispone l'art. 137 del regolamento generale intorno al servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e' ammesso per lo stesso periodo di sospensione della vendita, su stabilita, e cioe' a partire dalla data del presente decreto fino al 1° giugno p. v. il cambio, al loro valore nominale, dei valori su indicati.
 
 ## Art. 4.
 

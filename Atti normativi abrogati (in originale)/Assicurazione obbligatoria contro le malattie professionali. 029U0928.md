@@ -116,7 +116,7 @@ L'infezione carbonchiosa e' considerata infortunio sul lavoro agli effetti della
 
 ### Art. 15.
 
-L'art. 7, 4° comma, del [R. decreto 30 dicembre 1923,n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184) e' modificato come segue: 
+L'art. 7, 4° comma, del [R. decreto 30 dicembre 1923,n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md) e' modificato come segue: 
  
  « Se la invalidita' proviene da un infortunio sul lavoro o da una malattia professionale, e se si tratta di persone soggette all'assicurazione contro gli infortuni sul lavoro e contro le malattie professionali, la pensione assegnata in base al presente decreto sara' ridotta ad una misura tale che, sommata con la rendita corrispondente alla indennita' di infortunio o di malattia professionale, secondo l'eta' dell'invalido e calcolata con le norme stabilite dal regolamento, non superi la retribuzione annua dell'assicurato ».
 

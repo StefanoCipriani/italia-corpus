@@ -29,7 +29,7 @@ E M A N A il seguente decreto-legge:
 ## Art. 1. — null
 
 2. Nei confronti dei soggetti che, in qualsiasi modo, anche indirettamente, commettono le violazioni di cui al comma 1 si applica la sanzione amministrativa consistente nel pagamento di una somma di denaro non inferiore alla meta' del valore dell'attivita' economica svolta e non superiore al valore medesimo. 
- 3. Per l'accertamento delle violazioni delle disposizioni di cui al presente decreto e per l'irrogazione delle relative sanzioni si applicano le disposizioni del titolo II, capi I e II, del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md).
+ 3. Per l'accertamento delle violazioni delle disposizioni di cui al presente decreto e per l'irrogazione delle relative sanzioni si applicano le disposizioni del titolo II, capi I e II, del testo unico delle norme di legge in materia valutaria, approvato con [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md).
 
 ## Art. 2.
 

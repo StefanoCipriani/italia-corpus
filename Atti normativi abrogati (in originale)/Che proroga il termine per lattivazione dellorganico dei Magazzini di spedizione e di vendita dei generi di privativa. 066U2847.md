@@ -12,7 +12,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE 
  
- Visto il [R. Decreto 21 dicembre 1865, n° 2694](Col%20quale%20si%20provvede%20allordinamento%20uniforme%20in%20tutte%20le%20Provincie%20dello%20Stato%20del%20servizio%20di%20spedizione%20e%20di%20vendita%20dei%20generi%20di%20privativa.%20065U2694.md), sull'ordinamento dei Magazzini di spedizione e di vendita dei generi di privativa; 
+ Visto il [R. Decreto 21 dicembre 1865, n° 2694](../Regi%20decreti/Col%20quale%20si%20provvede%20allordinamento%20uniforme%20in%20tutte%20le%20Provincie%20dello%20Stato%20del%20servizio%20di%20spedizione%20e%20di%20vendita%20dei%20generi%20di%20privativa.%20065U2694.md), sull'ordinamento dei Magazzini di spedizione e di vendita dei generi di privativa; 
  
  DETERMINA QUANTO SEGUE: 
  

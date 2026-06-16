@@ -164,7 +164,7 @@ Ove medicinali immunologici o medicinali derivati dal sangue risultino prodotti 
 
 3.
 
-Restano ferme le disposizioni sul commercio all'ingrosso contenute nel testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
+Restano ferme le disposizioni sul commercio all'ingrosso contenute nel testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 ## Art. 9. — Individuazione dei canali di distribuzione dei medicinali
 
@@ -260,11 +260,11 @@ Chiunque viola le disposizioni del presente decreto diverse da quelle del comma 
 
 1.
 
-E' abrogato l'[art. 188-bis del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_188bis) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), modificato dalla [legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md).
+E' abrogato l'[art. 188-bis del T.U. delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), modificato dalla [legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md).
 
 2.
 
-Coloro che alla data di entrata in vigore del presente decreto svolgano le attivita' disciplinate dallo stesso in conformita' di quanto previsto dal richiamato [art. 188- bis del T.U. delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_188bis), possono continuare le medesime attivita' purche' presentino, entro sei mesi dalla data predetta, la domanda di autorizzazione prevista dall'art. 2.
+Coloro che alla data di entrata in vigore del presente decreto svolgano le attivita' disciplinate dallo stesso in conformita' di quanto previsto dal richiamato [art. 188- bis del T.U. delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), possono continuare le medesime attivita' purche' presentino, entro sei mesi dalla data predetta, la domanda di autorizzazione prevista dall'art. 2.
 
 3.
 

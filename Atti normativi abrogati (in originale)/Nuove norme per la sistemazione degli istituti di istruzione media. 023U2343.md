@@ -16,9 +16,9 @@ RE D'ITALIA
 
 In virtu' della delegazione dei poteri conferita al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Veduto il [R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413);
+Veduto il [R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -26,11 +26,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Al [R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413), sono apportate le seguenti modificazioni ed aggiunte: 
+Al [R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), sono apportate le seguenti modificazioni ed aggiunte: 
  
  All'art. 4, comma 1°, dopo le parole: «o insufficienza del titolo di abilitazione» sono aggiunte le seguenti: «o in altri casi eccezionali da valutarsi dal Ministro». 
  
- All'art. 4 e' aggiunta la seguente disposizione, che formera' l'ultimo comma dell'articolo stesso: «Alle cattedre dei licei scientifici, dei licei femminili, degli istituti tecnici di nuova istituzione e dei corsi completi di istituti magistrali istituiti a norma dell'[art. 56, comma 2°, del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_56-com2), potra' provvedersi, quando concorrano speciali circostanze, con insegnanti di ruolo di istituti di pari grado, indipendentemente dalle disposizioni della tabella annessa al presente decreto, purche' siano osservate le condizioni relative al titolo di abilitazione». 
+ All'art. 4 e' aggiunta la seguente disposizione, che formera' l'ultimo comma dell'articolo stesso: «Alle cattedre dei licei scientifici, dei licei femminili, degli istituti tecnici di nuova istituzione e dei corsi completi di istituti magistrali istituiti a norma dell'[art. 56, comma 2°, del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), potra' provvedersi, quando concorrano speciali circostanze, con insegnanti di ruolo di istituti di pari grado, indipendentemente dalle disposizioni della tabella annessa al presente decreto, purche' siano osservate le condizioni relative al titolo di abilitazione». 
  
  All'art. 5. Il primo comma dell'art. 5 e' cosi' modificato: «Le insegnanti di pedagogia e morale nelle scuole normali, non fornite di laurea in filosofia ed i capi d'istituto gia' insegnanti di pedagogia e morale che siano restituiti all'insegnamento e non siano forniti di laurea in filosofia, faranno passaggio nei ruoli degli insegnanti di lingua italiana, storia e geografia nelle scuole complementari.
 Qualora pero' dichiarino di essere disposti ad assumere l'insegnamento della filosofia e pedagogia nell'istituto magistrale potranno essere mantenuti nei ruoli di tale disciplina negli istituti magistrali stessi. In ogni caso, coloro che abbiano fatta la dichiarazione anzidetta saranno sottoposti entro il 30 settembre 1924 ad un esame per l'accertamento della loro idoneita' a tale insegnamento. L'esito dell'esame determinera' l'appartenenza definitiva all'uno o all'altro ruolo». 

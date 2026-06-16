@@ -43,15 +43,15 @@ E' autorizzato il pagamento delle spese ordinarie e straordinarie del Ministero 
 
 ## Art. 4.
 
-Per gli effetti di cui all'[art. 40 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_40), sulla contabilita' generale dello Stato, sono considerate spese obbligatorie e d'ordine quelle descritte nell'elenco n. 1, annesso al presente decreto.
+Per gli effetti di cui all'[art. 40 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato, sono considerate spese obbligatorie e d'ordine quelle descritte nell'elenco n. 1, annesso al presente decreto.
 
 ## Art. 5.
 
-Per il pagamento delle spese indicate nell'elenco n. 2, annesso al presente decreto, il Ministro per il tesoro potra' autorizzare aperture di credito a favore dei funzionari da esso dipendenti, ai termini dell'[art. 56 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), sulla contabilita' generale dello Stato.
+Per il pagamento delle spese indicate nell'elenco n. 2, annesso al presente decreto, il Ministro per il tesoro potra' autorizzare aperture di credito a favore dei funzionari da esso dipendenti, ai termini dell'[art. 56 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato.
 
 ## Art. 6.
 
-I capitoli della parte passiva del bilancio, a favore dei quali e' data facolta' al Governo di inscrivere somme con decreti da emanare in applicazione del disposto dell'[art. 41 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41), sulla contabilita' generale dello Stato,. sono quelli descritti, rispettivamente, negli elenchi numeri 3 e 4, annessi al presente decreto.
+I capitoli della parte passiva del bilancio, a favore dei quali e' data facolta' al Governo di inscrivere somme con decreti da emanare in applicazione del disposto dell'[art. 41 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato,. sono quelli descritti, rispettivamente, negli elenchi numeri 3 e 4, annessi al presente decreto.
 
 ## Art. 7.
 
@@ -77,9 +77,9 @@ Il Ministro per il tesoro ha facolta' di emettere buoni ordinari del Tesoro, sec
 
 ## Art. 12.
 
-I fondi inscritti ai normali capitoli per premi di operosita' e rendimento al personale potranno essere utilizzati soltanto per erogazioni da effettuare secondo le tariffe orarie stabilite col [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md) e successive modificazioni e secondo le norme dettate con circolari del 18 e 30 agosto 1942 della Presidenza del Consiglio dei Ministri, integrate dalla circolare 27 giugno 1944 del Ministro per il tesoro. 
+I fondi inscritti ai normali capitoli per premi di operosita' e rendimento al personale potranno essere utilizzati soltanto per erogazioni da effettuare secondo le tariffe orarie stabilite col [R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md) e successive modificazioni e secondo le norme dettate con circolari del 18 e 30 agosto 1942 della Presidenza del Consiglio dei Ministri, integrate dalla circolare 27 giugno 1944 del Ministro per il tesoro. 
  
- Per i premi da corrispondere, in deroga alle norme suddette, in base alle facolta' stabilite dalle disposizioni in vigore, le erogazioni relative dovranno essere. effettuate, sentito il Ministro per il tesoro, su separati stanziamenti, da inscrivere a capitoli appositi, a norma del [R. decreto 26 luglio 1925, n. 1237 e dell'art. 5](Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md) del decreto legislativo Luogotenenziale 30 settembre 1944 n, 299.
+ Per i premi da corrispondere, in deroga alle norme suddette, in base alle facolta' stabilite dalle disposizioni in vigore, le erogazioni relative dovranno essere. effettuate, sentito il Ministro per il tesoro, su separati stanziamenti, da inscrivere a capitoli appositi, a norma del [R. decreto 26 luglio 1925, n. 1237 e dell'art. 5](../Regi%20decreti/Stanziamento%20di%20fondi%20in%20relazione%20al%20R.%20decreto%2017%20febbraio%201924%20n.%20182.%20025U1237.md) del decreto legislativo Luogotenenziale 30 settembre 1944 n, 299.
 
 ## Art. 13.
 

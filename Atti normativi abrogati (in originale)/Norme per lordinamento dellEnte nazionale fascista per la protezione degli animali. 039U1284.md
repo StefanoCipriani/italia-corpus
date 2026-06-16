@@ -346,7 +346,7 @@ CAPO VII.
 
 Le guardie per la protezione degli animali sono nominate dai Comitati direttivi delle Delegazioni comunali nei limiti degli organici fissati dalla Giunta esecutiva. La loro nomina e' soggetta all'approvazione del Ministro per l'interno che vi provvede con suo decreto, sentito il presidente dell'Ente. Esse possono essere volontarie o permanenti seconda che il servizio sia gratuito o a pagamento. Queste ultime devono indossare di regola, la divisa stabilita dall'Ente. 
  
- Le guardie devono avere i requisiti previsti dall'art. 81 del regolamento per gli ufficiali e agenti di P. S., approvato con [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666). Esse prestano giuramento davanti al pretore. 
+ Le guardie devono avere i requisiti previsti dall'art. 81 del regolamento per gli ufficiali e agenti di P. S., approvato con [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md). Esse prestano giuramento davanti al pretore. 
  
  Le guardie sono munite di tessera di riconoscimento rilasciata dal Ministero dell'interno e sono autorizzate ad andare armate, in servizio, di rivoltella o di pistola o di fucile. Esse inoltre godono degli stessi benefici concessi agli agenti della forza pubblica circa l'uso dei pubblici trasporti statali, provinciali e comunali.
 

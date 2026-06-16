@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 17 marzo 1927, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;548), recante modificazioni ai [Regi decreti 30 dicembre 1923, numero 3167](Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md), [23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365), [3 gennaio 1926, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;20), riguardanti la decorazione della «Stella al Merito del Lavoro», con la seguente modificazione: 
+ E' convertito in legge il [R. decreto 17 marzo 1927, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;548), recante modificazioni ai [Regi decreti 30 dicembre 1923, numero 3167](../Regi%20decreti/Istituzione%20della%20decorazione%20della%20Stella%20al%20merito%20del%20lavoro.%20023U3167.md), [23 ottobre 1924, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-23;2365), [3 gennaio 1926, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;20), riguardanti la decorazione della «Stella al Merito del Lavoro», con la seguente modificazione: 
  
  All'art. 1 aggiungere: 
  

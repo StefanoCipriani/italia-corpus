@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'ultimo comma dell'[art. 1 del regio decreto 2 febbraio 1943, n. 127](Modificazioni%20alla%20legge%2013%20luglio%201939-XVII%20n.%201154%20che%20detta%20norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20043U0127.md), e' abrogato e sostituito dal seguente:
+L'ultimo comma dell'[art. 1 del regio decreto 2 febbraio 1943, n. 127](../Regi%20decreti/Modificazioni%20alla%20legge%2013%20luglio%201939-XVII%20n.%201154%20che%20detta%20norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20043U0127.md), e' abrogato e sostituito dal seguente:
  "Dal giorno in cui si e' verificato l'evento di guerra cui si riferisce il precedente comma al giorno in cui ha luogo la requisizione per acquisto, saranno corrisposte all'armatore o al proprietario della nave o del galleggiante le sole quote b) e c) della parte A) della indennita' di requisizione prevista dal seguente art. 30. Le predette quote b) e c) non potranno essere in ogni caso corrisposte per un periodo superiore ai 720 giorni a partire dalla data dell'evento di guerra, che ha determinato il sinistro, e dalla quale e' cessata la corresponsione della intera parte A) del compenso di requisizione".
 
 ## Art. 2.

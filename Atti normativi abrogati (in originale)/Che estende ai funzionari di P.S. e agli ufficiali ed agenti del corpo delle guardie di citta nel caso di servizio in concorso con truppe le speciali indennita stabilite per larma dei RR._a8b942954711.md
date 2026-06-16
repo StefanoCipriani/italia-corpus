@@ -30,11 +30,11 @@ Sulla proposta del Nostro Ministro per gli affari dell'interno presidente del Co
 
 ## Art. 1.
 
-Ai sottufficiali, agli appuntati, alle guardie ed allievi del corpo delle guardie di citta', impiegati in servizio di P.S. in concorso con truppe del R. esercito e della R. marina nella loro ordinaria resistenza, spettano le medesime indennita' stabilite per l'arma dei RR. carabinieri dai paragrafi 9 e 12 delle modificazioni al regolamento per le indennita' alle truppe in servizio di P.S. approvato con [R. decreto 19 gennaio 1911, numero 69](Che%20apporta%20modificazioni%20al%20capo%20II%20del%20regolamento%20per%20le%20indennita%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20011U0069.md).
+Ai sottufficiali, agli appuntati, alle guardie ed allievi del corpo delle guardie di citta', impiegati in servizio di P.S. in concorso con truppe del R. esercito e della R. marina nella loro ordinaria resistenza, spettano le medesime indennita' stabilite per l'arma dei RR. carabinieri dai paragrafi 9 e 12 delle modificazioni al regolamento per le indennita' alle truppe in servizio di P.S. approvato con [R. decreto 19 gennaio 1911, numero 69](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20capo%20II%20del%20regolamento%20per%20le%20indennita%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20011U0069.md).
 
 ## Art. 2.
 
-Ai funzionari di P.S. e agli ufficiali delle guardie di citta' spettano, nel caso contemplato nel precedente articolo, le indennita' stabilite per gli ufficiali dei Reali carabinieri dalla tabella annessa al [R. decreto 19 aprile 1907, n. 202](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20007U0202.md) (3ª categoria). La misura di tale indennita' sara' quella fissata per gli ufficiali dell'arma dei RR. carabinieri, cui essi sono equiparati per ragioni di stipendio. 
+Ai funzionari di P.S. e agli ufficiali delle guardie di citta' spettano, nel caso contemplato nel precedente articolo, le indennita' stabilite per gli ufficiali dei Reali carabinieri dalla tabella annessa al [R. decreto 19 aprile 1907, n. 202](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20007U0202.md) (3ª categoria). La misura di tale indennita' sara' quella fissata per gli ufficiali dell'arma dei RR. carabinieri, cui essi sono equiparati per ragioni di stipendio. 
  
  Il presente decreto entrera' in vigore dalla data della pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge. 
  

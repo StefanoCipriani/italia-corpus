@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 20 della legge 19 luglio 1907, n. 515](Riforma%20dellordinamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20007U0515.md); 
  
- Visto l'art. 3 delle disposizioni transitorie del [R. decreto 5 aprile 1908, n. 140](Che%20sostituisce%20taluni%20articoli%20del%20regolamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20008U0140.md); 
+ Visto l'art. 3 delle disposizioni transitorie del [R. decreto 5 aprile 1908, n. 140](../Regi%20decreti/Che%20sostituisce%20taluni%20articoli%20del%20regolamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20008U0140.md); 
  
  Visto l'odierno R. decreto col quale si provvede al passaggio alla prima categoria del personale postale-telegrafico dei capi d'ufficio Pisani Michele e Moscato Francesco a decorrere dal 1° luglio 1915, in applicazione del predetto art. 26; 
  

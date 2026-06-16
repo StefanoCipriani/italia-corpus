@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto lo statuto della libera Universita' di Urbino, approvato con [R. decreto 8 febbraio 1925, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con il decreto 31 ottobre 1929, 2475;
+Veduto lo statuto della libera Universita' di Urbino, approvato con [R. decreto 8 febbraio 1925, n. 230](../Regi%20decreti/Riconoscimento%20dellUniversita%20di%20Urbino%20come%20Universita%20libera%20cd%20approvazione%20del%20relativo%20statuto.%20025U0230.md), e modificato con il decreto 31 ottobre 1929, 2475;
 
 Vedute le nuove proposte di modifiche avanzate dalle autorita', accademiche della libera Universita' predetta;
 
@@ -192,7 +192,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto lo statuto della libera Universita' di Urbino, approvato con [R. decreto 8 febbraio 1925, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con il decreto 31 ottobre 1929, 2475; 
+ Veduto lo statuto della libera Universita' di Urbino, approvato con [R. decreto 8 febbraio 1925, n. 230](../Regi%20decreti/Riconoscimento%20dellUniversita%20di%20Urbino%20come%20Universita%20libera%20cd%20approvazione%20del%20relativo%20statuto.%20025U0230.md), e modificato con il decreto 31 ottobre 1929, 2475; 
  
  Vedute le nuove proposte di modifiche avanzate dalle autorita', accademiche della libera Universita' predetta; 
  

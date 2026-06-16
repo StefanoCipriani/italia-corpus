@@ -45,7 +45,7 @@ Le denominazioni del personale del Corpo delle foreste corrispondenti a quelle g
 ## Art. 4.
 
 I provvedimenti relativi all'amministrazione del personale del Corpo delle foreste, sono adottati sentito il parere di un Consiglio di amministrazione presieduto dal Ministro oppure dal Sottosegretario di Stato dell'agricoltura e delle foreste e composto dall'incaricato della direzione dei servizi amministrativi e del personale del Corpo delle foreste, dal capo della divisione del personale dello stesso Corpo, dall'incaricato della direzione generale del personale del Ministero dell'agricoltura e delle foreste e da due ispettori superiori del Corpo delle foreste, nominati per un biennio con decreto Ministeriale.
- I provvedimenti disciplinari relativi al personale del Corpo delle foreste sono adottati su parere di apposita Commissione di disciplina, costituita a norma dell'[articolo 68, comma 3ª, del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_68-com3).
+ I provvedimenti disciplinari relativi al personale del Corpo delle foreste sono adottati su parere di apposita Commissione di disciplina, costituita a norma dell'[articolo 68, comma 3ª, del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
  Le disposizioni di cui ai precedenti due commi avranno efficacia fino a quando non saranno costituiti i corrispondenti organi ai sensi delle norme da emanarsi per il ripristino del Corpo delle foreste.
 
 ## Art. 5.

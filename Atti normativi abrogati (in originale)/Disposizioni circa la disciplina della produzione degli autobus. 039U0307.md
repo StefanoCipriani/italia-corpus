@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Viste le norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
+Viste le norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
 
 Visto il R. decreto-legge 14 luglio 1937-XV, n. 1809, convertito in legge con la legge 23 dicembre 1937-XVI, n. 2561;
 

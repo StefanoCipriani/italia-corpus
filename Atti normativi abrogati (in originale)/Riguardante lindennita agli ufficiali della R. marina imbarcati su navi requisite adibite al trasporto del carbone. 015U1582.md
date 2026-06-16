@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 In calce alla tabella di cui all'[art. 2 del decreto Luogotenenziale n. 998 in data 30 maggio 1915](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-05-30;998#art_2), sia apposta la seguente annotazione:  
- «Agli ufficiali imbarcati sui piroscafi requisiti adibiti al trasporto del carbone e' esteso il soprassoldo previsto dal n. 4-A della tabella D), annessa al regolamento sugli assegni speciali di bordo, approvato con [R. decreto 16 maggio 1907, n. 406](Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md)».
+ «Agli ufficiali imbarcati sui piroscafi requisiti adibiti al trasporto del carbone e' esteso il soprassoldo previsto dal n. 4-A della tabella D), annessa al regolamento sugli assegni speciali di bordo, approvato con [R. decreto 16 maggio 1907, n. 406](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md)».
 
 ## Art. 2.
 

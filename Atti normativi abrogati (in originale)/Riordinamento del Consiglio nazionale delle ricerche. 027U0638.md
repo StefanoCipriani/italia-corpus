@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895), che istituisce il Consiglio nazionale delle ricerche e l'Unione accademica nazionale;
+Veduto il [R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), che istituisce il Consiglio nazionale delle ricerche e l'Unione accademica nazionale;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro, Segretario di Stato per gli
 
 ## Art. 1.
 
-Il Consiglio nazionale delle ricerche, istituito col [R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895), oltre che provvedere agli scopi indicati nell'art. 1 del decreto stesso e previsti dallo statuto del Consiglio internazionale delle ricerche, in seno al quale rappresenta l'Italia, deve in conformita' delle disposizioni e direttive del Capo del Governo: 
+Il Consiglio nazionale delle ricerche, istituito col [R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), oltre che provvedere agli scopi indicati nell'art. 1 del decreto stesso e previsti dallo statuto del Consiglio internazionale delle ricerche, in seno al quale rappresenta l'Italia, deve in conformita' delle disposizioni e direttive del Capo del Governo: 
  
  coordinare le attivita' nazionali nei vari rami della scienza e delle sue applicazioni anche nell'interesse della economia generale del Paese e a tal fine mantenersi in contatto con i diversi enti statali per tutte le questioni relative alle ricerche scientifiche ed alle loro applicazioni pratiche; 
  
@@ -61,7 +61,7 @@ Le Commissioni, gli istituti e gli enti creati presso le varie Amministrazioni c
 
 ## Art. 6.
 
-Il fondo di L. 175,000 gia' autorizzato dal [R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895), per il funzionamento del Consiglio nazionale delle ricerche, e' aumentato, a decorrere dall'esercizio 1927-28, della somma di L. 500,000. 
+Il fondo di L. 175,000 gia' autorizzato dal [R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), per il funzionamento del Consiglio nazionale delle ricerche, e' aumentato, a decorrere dall'esercizio 1927-28, della somma di L. 500,000. 
  
  I bilanci preventivi ed i conti consuntivi del Consiglio sono sottoposti all'esame ed all'approvazione del Ministero della pubblica istruzione.
 

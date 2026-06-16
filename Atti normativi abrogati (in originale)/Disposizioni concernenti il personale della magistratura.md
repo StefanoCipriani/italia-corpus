@@ -16,7 +16,7 @@ Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
-Visto l'[art. 5 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_5);
+Visto l'[art. 5 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,12 +24,12 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Minist
 
 ## Art. 1.
 
-Nel quinquennio successivo all'entrata in vigore del [regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511), i magistrati che, se non fosse intervenuta l'elevazione del limite di eta', disposta dall'art. 5 del decreto medesimo, sarebbero stati collocati a riposo ai sensi dell'Ordinamento giudiziario vigente alla data del decreto predetto, sono - durante il periodo compreso fra il precedente ed il nuovo limite di eta' - considerati in soprannumero ai ruoli organici dei rispettivi gradi.
+Nel quinquennio successivo all'entrata in vigore del [regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), i magistrati che, se non fosse intervenuta l'elevazione del limite di eta', disposta dall'art. 5 del decreto medesimo, sarebbero stati collocati a riposo ai sensi dell'Ordinamento giudiziario vigente alla data del decreto predetto, sono - durante il periodo compreso fra il precedente ed il nuovo limite di eta' - considerati in soprannumero ai ruoli organici dei rispettivi gradi.
  Detti magistrati possono partecipare ai concorsi ed agli scrutini a norma delle leggi vigenti.
 
 ## Art. 2.
 
-Il presente decreto ha efficacia dalla data di entrata in vigore del [regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511).
+Il presente decreto ha efficacia dalla data di entrata in vigore del [regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

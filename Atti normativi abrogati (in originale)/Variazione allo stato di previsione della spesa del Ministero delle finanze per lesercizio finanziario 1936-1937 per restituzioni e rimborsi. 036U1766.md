@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la legge 8 giugno 1936-XIV, n. 1087; 
  
- Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sulla contabilita' generale dello Stato; 
+ Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato; 
  
  Udito il Consiglio dei Ministri; 
  

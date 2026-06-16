@@ -58,7 +58,7 @@ b) il 75 per cento, se superi il predetto limite.
  
  All'art. 18, 2° comma, sono aggiunte in fine le seguenti parole: 
  
- « ed alle societa' esercenti pubblici servizi di trasporto concessi all'industria privata, di cui al testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), anche se aventi un capitale nominale inferiore al limite predetto ». 
+ « ed alle societa' esercenti pubblici servizi di trasporto concessi all'industria privata, di cui al testo unico approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), anche se aventi un capitale nominale inferiore al limite predetto ». 
  
  Nell'art. 22, comma 1°, alla data « 30 giugno 1938 », e' sostituita la data « 30 giugno 1939 ». 
  

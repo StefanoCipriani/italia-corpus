@@ -49,7 +49,7 @@ L'art. 32 del decreto commissariale 24 agosto 1924 e' sostituito dal seguente:
  
  h) rimozione dal grado; 
  
- i) perdita del grado in seguito a condanna ad una pena restrittiva della liberta' personale per un tempo superiore a tre anni od anche per una durata minore quando si tratti di delitto di peculato, o di delitti contro il buon costume, l'ordine delle famiglie, o contro la proprieta' (primi 6 capi del libro II, titolo X del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune). 
+ i) perdita del grado in seguito a condanna ad una pena restrittiva della liberta' personale per un tempo superiore a tre anni od anche per una durata minore quando si tratti di delitto di peculato, o di delitti contro il buon costume, l'ordine delle famiglie, o contro la proprieta' (primi 6 capi del libro II, titolo X del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune). 
  
  «I provvedimenti di cui sopra sono adottati con decreto Reale quando si tratti di marescialli, e con decreto Ministeriale quando si tratti di sergenti o sergenti maggiori, eccettuato per questi ultimi il caso d'invio in congedo per fine ferma o rafferma, per il quale si procede con determinazione Ministeriale. 
  
@@ -198,7 +198,7 @@ Il sottufficiale e il militare di truppa della Regia aeronautica che in accertam
 
 ## Art. 18.
 
-Sono applicabili ai militari della Regia aeronautica le disposizioni del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), e le successive modificazioni, purche' le disposizioni stesse non siano in contrasto con quelle particolari dei militari della Regia aeronautica. 
+Sono applicabili ai militari della Regia aeronautica le disposizioni del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto 5 agosto 1927, n. 1437](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20del%20Regio%20esercito.%20027U1437.md), e le successive modificazioni, purche' le disposizioni stesse non siano in contrasto con quelle particolari dei militari della Regia aeronautica. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [Regio decreto 18 marzo 1921, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-03-18;299);
 
-Visto il [Regio decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189);
+Visto il [Regio decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md);
 
 Udito il Consiglio dei ministri;
 

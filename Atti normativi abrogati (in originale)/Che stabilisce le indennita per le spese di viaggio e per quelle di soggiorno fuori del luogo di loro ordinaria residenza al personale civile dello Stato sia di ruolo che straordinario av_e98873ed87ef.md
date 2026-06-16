@@ -76,7 +76,7 @@ Qualora la missione nella stessa localita' duri oltre un mese, la misura dell'in
 
 ## Art. 7.
 
-La indennita' giornaliera spettante, a norma del presente decreto, al personale civile addetto - fuori dell'ordinaria sede - alle forze operanti e ad altri uffici di carattere militare, deve essere ridotta dopo il primo mese, in modo da renderla uguale al soprassoldo di guerra spettante agli ufficiali del grado cui detti impiegati sono pareggiati, giusta le disposizioni in vigore. Per coloro che non hanno assimilazione di rango a grado militare, la indennita' giornaliera dovuta dopo il primo mese e' fissata in base all'[art. 15 del R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), senza tener conto degli aumenti portati dal [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107).
+La indennita' giornaliera spettante, a norma del presente decreto, al personale civile addetto - fuori dell'ordinaria sede - alle forze operanti e ad altri uffici di carattere militare, deve essere ridotta dopo il primo mese, in modo da renderla uguale al soprassoldo di guerra spettante agli ufficiali del grado cui detti impiegati sono pareggiati, giusta le disposizioni in vigore. Per coloro che non hanno assimilazione di rango a grado militare, la indennita' giornaliera dovuta dopo il primo mese e' fissata in base all'[art. 15 del R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), senza tener conto degli aumenti portati dal [decreto Luogotenenziale 10 febbraio 1918, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;107).
 
 ## Art. 8.
 
@@ -140,19 +140,19 @@ Coloro che sono nominati volontari od alunni o ad un posto retribuito hanno diri
 
 ## Art. 18.
 
-E' mantenuto per gli ufficiali dell'esercito e della guardia di finanza l'assegno per le spese di trasporto del bagaglio di primo grado nei casi contemplati rispettivamente dal paragrafo 90 del regolamento per le indennita' eventuali, approvato col [R. decreto 19 aprile 1907, n. 201, e dall'art. 4](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md) del decreto del ministro delle finanze 31 agosto 1908. Quando tale assegno e' dovuto, non spettano l'aumento dei due decimi sul prezzo del biglietto di viaggio, e, pel bagaglio personale dell'ufficiale, i rimborsi e compensi stabiliti nell'art. 16. 
+E' mantenuto per gli ufficiali dell'esercito e della guardia di finanza l'assegno per le spese di trasporto del bagaglio di primo grado nei casi contemplati rispettivamente dal paragrafo 90 del regolamento per le indennita' eventuali, approvato col [R. decreto 19 aprile 1907, n. 201, e dall'art. 4](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md) del decreto del ministro delle finanze 31 agosto 1908. Quando tale assegno e' dovuto, non spettano l'aumento dei due decimi sul prezzo del biglietto di viaggio, e, pel bagaglio personale dell'ufficiale, i rimborsi e compensi stabiliti nell'art. 16. 
  
  Per gli ufficiali dell'esercito e per gli impiegati civili dipendenti dall'Amministrazione della guerra restano ferme: 
  
- a) la disposizione del paragrafo 2 del citato regolamento per le indennita' eventuali, per la quale nei trasferimenti temporanei e' dovuta la indennita' di trasferta, solo se essi importino allontanamento dalla residenza per non meno di 5 chilometri, salvo nei movimenti di presidio e adiacenze, da continuare a regolare a norma dell'[art. 3 del R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md);. 
+ a) la disposizione del paragrafo 2 del citato regolamento per le indennita' eventuali, per la quale nei trasferimenti temporanei e' dovuta la indennita' di trasferta, solo se essi importino allontanamento dalla residenza per non meno di 5 chilometri, salvo nei movimenti di presidio e adiacenze, da continuare a regolare a norma dell'[art. 3 del R. decreto 19 aprile 1907, n. 201](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md);. 
  
  b) tutte le disposizioni dei paragrafi 39 a 49, 51 a 53, 60, 63 a 101, 105 a 116 del regolamento suddetto, contenente le norme per la corresponsione della indennita' di trasferta e degli assegni di viaggio, per quanto non siano modificate dal presente decreto; 
  
- c) tutte le disposizioni del [R. decreto 19 aprile 1907, n. 201](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md) e del regolamento per le indennita' eventuali riguardanti le indennita' per servizi e posizioni speciali di cui allo specchio III annesso al R. decreto medesimo e quelle per i viaggi e servizi collettivi.
+ c) tutte le disposizioni del [R. decreto 19 aprile 1907, n. 201](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20al%20R.%20esercito.%20007U0201.md) e del regolamento per le indennita' eventuali riguardanti le indennita' per servizi e posizioni speciali di cui allo specchio III annesso al R. decreto medesimo e quelle per i viaggi e servizi collettivi.
 
 ## Art. 19.
 
-Per gli ufficiali della marina sono mantenute, nei casi di imbarco e sbarco e trasferimenti, rispettivamente, le indennita' di cui alle colonne 7 e 8 della tariffa approvata col [R. decreto 2 settembre 1912 n. 1008](Col%20quale%20vengono%20modificate%20le%20tariffe%20degli%20assegni%20di%20viaggio%20o%20missione%20per%20il%20personale%20della%20R.%20marina.%20012U1008.md). 
+Per gli ufficiali della marina sono mantenute, nei casi di imbarco e sbarco e trasferimenti, rispettivamente, le indennita' di cui alle colonne 7 e 8 della tariffa approvata col [R. decreto 2 settembre 1912 n. 1008](../Regi%20decreti/Col%20quale%20vengono%20modificate%20le%20tariffe%20degli%20assegni%20di%20viaggio%20o%20missione%20per%20il%20personale%20della%20R.%20marina.%20012U1008.md). 
  
  Quando sono dovute tali indennita', non spettano l'aumento del doppio decimo sul prezzo del biglietto di viaggio e, pel bagaglio personale dell'ufficiale, i rimborsi e compensi stabiliti nell'art.
 16. 

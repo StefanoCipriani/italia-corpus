@@ -16,11 +16,11 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti i [Regi decreti 3 agosto 1891, n. 510](Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md), e [6 agosto 1891, n. 518](Che%20sopprime%20larticolo%2015%20del%20regolamento%20vigente%20per%20la%20esecuzione%20della%20legge%2024%20giugno%201888%20n.%205489%20serie%203ª.%20091U0518.md);
+Visti i [Regi decreti 3 agosto 1891, n. 510](../Regi%20decreti/Che%20abolisce%20nellestensione%20e%20misura%20dellultimo%20possesso%20di%20fatto%20le%20servitu%20di%20pascolo%20di%20seminare%20di%20legnatico%20di%20vendere%20erbe%20di%20fidare%20o%20dimporre%20tassa%20a%20titolo%20di%20pascolo%20in%20alcuni%20c_e26ee4d2e86f.md), e [6 agosto 1891, n. 518](../Regi%20decreti/Che%20sopprime%20larticolo%2015%20del%20regolamento%20vigente%20per%20la%20esecuzione%20della%20legge%2024%20giugno%201888%20n.%205489%20serie%203ª.%20091U0518.md);
 
 Visti i [Regi decreti 22 maggio 1924, n. 751](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-22;751); [28 agosto 1924, n. 1484](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1484); [16 maggio 1926, n. 895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-16;895), convertiti in legge con modificazioni con la [legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md);
 
-Visto il [R. decreto 26 febbraio 1928; n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332), che approva il regolamento per la [legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md);
+Visto il [R. decreto 26 febbraio 1928; n. 332](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2016%20giugno%201927%20n.%201766%20sul%20riordinamento%20degli%20usi%20civici%20nel%20Regno.%20028U0332.md), che approva il regolamento per la [legge 16 giugno 1927, n. 1766](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2022%20maggio%201924%20n.%20751%20riguardante%20il%20riordinamento%20degli%20usi%20civici%20nel%20Regno%20del%20R.%20decreto%2028%20agosto%201924%20n.%201484%20che%20modifica%20lart.%2026%20del%20R.%20decret_728733510b66.md);
 
 Vista la leggo 16 marzo 1931, n. 377;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per l'interno, di concerto con i Ministri per la gra
 
 ## Art. 1.
 
-I commissari per la liquidazione degli usi civici, su richiesta dei Comuni e' delle Universita' o Associazioni agrarie, possono, per la durata della guerra e fino ad un anno dopo la conclusione della pace autorizzare, in deroga alle vigenti disposizioni della legge 16 giugno 1927, n, 1766, e del regolamento di esecuzione approvato con [R. decreto 26 febbraio 1928, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332). nonche' della [legge 16 marzo 1931 n. 377](Norme%20per%20la%20coordinazione%20della%20legge%20sugli%20usi%20civici%20con%20quelle%20sulla%20bonifica%20integrale.%20031U0377.md), la concessione all'utenza con l'obbligo di migliorare, delle terre convenientemente utilizzabili per la cultura agraria di cui al 1° comma dell'art. 11 della sopra detta legge 16 giugno 1927.
+I commissari per la liquidazione degli usi civici, su richiesta dei Comuni e' delle Universita' o Associazioni agrarie, possono, per la durata della guerra e fino ad un anno dopo la conclusione della pace autorizzare, in deroga alle vigenti disposizioni della legge 16 giugno 1927, n, 1766, e del regolamento di esecuzione approvato con [R. decreto 26 febbraio 1928, n. 332](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2016%20giugno%201927%20n.%201766%20sul%20riordinamento%20degli%20usi%20civici%20nel%20Regno.%20028U0332.md). nonche' della [legge 16 marzo 1931 n. 377](Norme%20per%20la%20coordinazione%20della%20legge%20sugli%20usi%20civici%20con%20quelle%20sulla%20bonifica%20integrale.%20031U0377.md), la concessione all'utenza con l'obbligo di migliorare, delle terre convenientemente utilizzabili per la cultura agraria di cui al 1° comma dell'art. 11 della sopra detta legge 16 giugno 1927.
 
 ## Art. 2.
 
@@ -50,13 +50,13 @@ Compilato il piano (di ripartizione, il sindaco od il presidente dell'Universita
 
 ## Art. 5.
 
-Agli atti di ripartizione sono applicabili le disposizioni degli articoli 49 ultimo comma (salvo per cio' che riguarda il termine ridotto dal precedente articolo) e degli articoli 50, 52, 53, 54, 55 del citato regolamento di esecuzione approvato con [R. decreto 26 febbraio 1928 n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332). 
+Agli atti di ripartizione sono applicabili le disposizioni degli articoli 49 ultimo comma (salvo per cio' che riguarda il termine ridotto dal precedente articolo) e degli articoli 50, 52, 53, 54, 55 del citato regolamento di esecuzione approvato con [R. decreto 26 febbraio 1928 n. 332](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2016%20giugno%201927%20n.%201766%20sul%20riordinamento%20degli%20usi%20civici%20nel%20Regno.%20028U0332.md). 
  
  Le domando per l'assegnazione delle quote ed il ricorso al commissario contro il deliberato della Commissione comunale sono pero' redatti in carta semplice.
 
 ## Art. 6.
 
-Scaduto il termine di cui all'art. 4 il sindaco o il presidente dell'Universita' o dell'Associazione agraria trasmette immediatamente le domande alla Commissione di cui all'art. 52 del regolamento approvato con [R. decreto 26 febbraio 1928, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;332), la quale forma l'elenco degli aventi diritto nel termine di giorni dieci dalla data di ricezione delle domando stesse. 
+Scaduto il termine di cui all'art. 4 il sindaco o il presidente dell'Universita' o dell'Associazione agraria trasmette immediatamente le domande alla Commissione di cui all'art. 52 del regolamento approvato con [R. decreto 26 febbraio 1928, n. 332](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2016%20giugno%201927%20n.%201766%20sul%20riordinamento%20degli%20usi%20civici%20nel%20Regno.%20028U0332.md), la quale forma l'elenco degli aventi diritto nel termine di giorni dieci dalla data di ricezione delle domando stesse. 
  
  Il sindaco o il presidente dell'Universita' o dell'Associazione agraria, alla sua volta, trasmette tutti gli atti ed i ricorsi al commissario per gli usi civici, il quale deve formare l'elenco definitivo entro il termine di giorni quindici dalla ricezione degli atti e dei ricorsi, 
  

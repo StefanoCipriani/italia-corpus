@@ -212,7 +212,7 @@ Il riconoscimento di un figlio naturale fatto dopo l'entrata in vigore del libro
 
 ### Art. 34.
 
-Nulla e' innovato alle disposizioni del [R. decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499), in vigore nelle provincie indicate nel decreto stesso, sia per quanto riguarda il sistema della pubblicita' immobiliare anche in relazione agli atti previsti dal libro delle successioni e dalle norme del presente decreto, sia per quanto riguarda il rilascio del certificato di eredita' e di legato.
+Nulla e' innovato alle disposizioni del [R. decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), in vigore nelle provincie indicate nel decreto stesso, sia per quanto riguarda il sistema della pubblicita' immobiliare anche in relazione agli atti previsti dal libro delle successioni e dalle norme del presente decreto, sia per quanto riguarda il rilascio del certificato di eredita' e di legato.
 
 ### Art. 35.
 

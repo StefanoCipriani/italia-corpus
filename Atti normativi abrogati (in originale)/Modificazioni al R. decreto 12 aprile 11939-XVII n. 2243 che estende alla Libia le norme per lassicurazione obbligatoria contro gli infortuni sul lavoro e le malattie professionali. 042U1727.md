@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana, di concer
 
 Il primo comma dell'art. 5 del R. decreto 12 aprile 1939-XVII, n. 2243, e' sostituito dal seguente: 
  
- «Ai fini dell'[art. 11 del R. decreto 17 agosto 1935 n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_11), il termine della denuncia per gli infortuni sul lavoro verificatisi in localita' ove non vi sia ufficio dell'Istituto assicuratore ne' ufficio postale entro un raggio di 50 chilometri, e' di 15 giorni».
+ «Ai fini dell'[art. 11 del R. decreto 17 agosto 1935 n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), il termine della denuncia per gli infortuni sul lavoro verificatisi in localita' ove non vi sia ufficio dell'Istituto assicuratore ne' ufficio postale entro un raggio di 50 chilometri, e' di 15 giorni».
 
 ## Art. 2.
 

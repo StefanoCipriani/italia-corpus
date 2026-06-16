@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 15 gennaio 1928, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-15;81), col quale i comuni di Dusino e di San Michele d'Asti venivano riuniti in un solo Comune denominato Dusino San Michele, con sede a Dusino; 
+ Visto il [R. decreto 15 gennaio 1928, n. 81](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Dusino%20e%20San%20Michele%20dAsti%20in%20un%20unico%20Comune%20denominato%20Dusino-San%20Michele.%20028U0081.md), col quale i comuni di Dusino e di San Michele d'Asti venivano riuniti in un solo Comune denominato Dusino San Michele, con sede a Dusino; 
  Vista la deliberazione del commissario prefettizio di detto Comune con la quale si chiede che per tutto il territorio del comune di Dusino San Michele funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

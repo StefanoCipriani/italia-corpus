@@ -36,7 +36,7 @@ I benefici previsti dall'[articolo 1 della legge 19 dicembre 1983, n. 696](https
 
 2.
 
-I contributi concessi ad ogni singola impresa ai sensi del comma 1 non possono superare l'importo di lire 350 milioni, elevato a 600 milioni nei territori di cui all'[articolo 1 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+I contributi concessi ad ogni singola impresa ai sensi del comma 1 non possono superare l'importo di lire 350 milioni, elevato a 600 milioni nei territori di cui all'[articolo 1 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 3.
 
@@ -147,7 +147,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 1.
 
 Gli [articoli 11](Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md) e [12 del decreto del Presidente della Repubblica 30 giugno 1972, n. 540](Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md), sono sostituiti dal seguente: 
- "Art. 11. - 1. La riproduzione della descrizione e dei disegni dei brevetti per invenzioni, prevista dal [secondo comma dell'articolo 38 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), puo' essere effettuata, anche direttamente a cura dell'Ufficio centrale brevetti, mediante microfilmatura ovvero acquisizione su supporto elettronico o optoelettronico, ed allo stesso modo puo' essere effettuata la riproduzione degli originali delle domande di brevetto, della documentazione relativa ai brevetti per modelli industriali e per marchi d'impresa, nonche' dei registri di cui agli articoli 5 e 10 del presente decreto. Previa tale riproduzione, dopo l'estinzione dei diritti di brevetto, l'Ufficio centrale brevetti puo' procedere, anche senza il parere dell'Archivio centrale dello Stato, alla distruzione dei registri dei brevetti, dei registri delle domande e dei fascicoli contenenti gli atti e documenti relativi alle domande di brevetto".
+ "Art. 11. - 1. La riproduzione della descrizione e dei disegni dei brevetti per invenzioni, prevista dal [secondo comma dell'articolo 38 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), puo' essere effettuata, anche direttamente a cura dell'Ufficio centrale brevetti, mediante microfilmatura ovvero acquisizione su supporto elettronico o optoelettronico, ed allo stesso modo puo' essere effettuata la riproduzione degli originali delle domande di brevetto, della documentazione relativa ai brevetti per modelli industriali e per marchi d'impresa, nonche' dei registri di cui agli articoli 5 e 10 del presente decreto. Previa tale riproduzione, dopo l'estinzione dei diritti di brevetto, l'Ufficio centrale brevetti puo' procedere, anche senza il parere dell'Archivio centrale dello Stato, alla distruzione dei registri dei brevetti, dei registri delle domande e dei fascicoli contenenti gli atti e documenti relativi alle domande di brevetto".
 
 ## Art. 9.
 

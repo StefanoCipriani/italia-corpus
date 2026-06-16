@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Veduta la legge 22 dicembre 1939-XVIII, n. 2006;
 
-Veduto il regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163), modificato con il R. decreto-legge 20 giugno 1935-XIII, n. 1137, convertito nella legge 19 marzo 1936-XIV, n. 624;
+Veduto il regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md), modificato con il R. decreto-legge 20 giugno 1935-XIII, n. 1137, convertito nella legge 19 marzo 1936-XIV, n. 624;
 
 Ritenuta la necessita' di modificare le disposizioni in vigore relative al personale degli Archivi di Stato;
 
@@ -130,7 +130,7 @@ Il giudizio sugli esami di cui al precedente articolo e' dato da una Commissione
 
 Gli impiegati che intendono partecipare agli esami di concorso per merito distinto debbono presentare, con la domanda di ammissione, una breve relazione circa gli studi compiuti, i lavori eseguiti e gli uffici esercitati negli Archivi e produrre le eventuali pubblicazioni e gli speciali titoli, che attestino della loro operosita' scientifica e tecnica nel campo storico-archivistico. 
  
- Per la formazione della graduatoria definitiva dei candidati che hanno riportato la votazione di cui all'[art. 42, primo comma, del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_42-com1), necessaria per conseguire la promozione per merito distinto, la Commissione giudicatrice dispone di un massimo di quindici punti, da aggiungere alla votazione complessiva stabilita a norma dell'art. 42 predetto, dei quali, dieci per la valutazione dei titoli di cui al precedente comma e cinque per la prova orale facoltativa sulla lingua straniera compresa nel programma di esame.
+ Per la formazione della graduatoria definitiva dei candidati che hanno riportato la votazione di cui all'[art. 42, primo comma, del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), necessaria per conseguire la promozione per merito distinto, la Commissione giudicatrice dispone di un massimo di quindici punti, da aggiungere alla votazione complessiva stabilita a norma dell'art. 42 predetto, dei quali, dieci per la valutazione dei titoli di cui al precedente comma e cinque per la prova orale facoltativa sulla lingua straniera compresa nel programma di esame.
 
 ### Art. 9.
 

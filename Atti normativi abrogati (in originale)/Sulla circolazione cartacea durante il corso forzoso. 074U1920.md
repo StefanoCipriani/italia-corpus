@@ -36,7 +36,7 @@ I sei istituti di credito sovranominati, riuniti in consorzio a questo scopo, so
 
 ### Art. 3.
 
-I biglietti consorziali somministrati al Tesoro dello Stato, giusta l'articolo precedente, avranno corso forzoso, a norma dell'[articolo 3 del Regio decreto 1° maggio 1866, num. 2873](Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md), salvo il disposto con l'articolo 18 di questa legge. 
+I biglietti consorziali somministrati al Tesoro dello Stato, giusta l'articolo precedente, avranno corso forzoso, a norma dell'[articolo 3 del Regio decreto 1° maggio 1866, num. 2873](../Regi%20decreti/Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md), salvo il disposto con l'articolo 18 di questa legge. 
  
  Dei biglietti medesimi risponderanno solidalmente gli istituti di emissione di cui all'articolo 1, mentre nei loro scambievoli rapporti, tale responsabilita' s'intendera' per ciascheduno proporzionata al proprio patrimonio, o capitale di che agli articoli 9 e 10, e nella proporzione stessa saranno ripartite le spese relative ai biglietti somministrati dal consorzio per mille milioni. 
  
@@ -140,7 +140,7 @@ I biglietti che gli istituti di credito sono autorizzati ad emettere e tenere in
 
 ### Art. 16.
 
-Le riserve metalliche possedute dagli istituti di credito autorizzati all'emissione di biglietti saranno progressivamente liberate da ogni vincolo d'immobilizzazione, con l'obbligo per gli altri istituti di rendere, nei termini e nei modi che saranno determinati dal regolamento di cui all'art. 28, alla Banca Nazionale nel Regno d'Italia, in biglietti della Banca medesima, la somma che essa ha loro somministrata sulle rispettive riserve metalliche immobilizzate in conseguenza del [Regio decreto 1° maggio 1866, n. 2873](Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md). 
+Le riserve metalliche possedute dagli istituti di credito autorizzati all'emissione di biglietti saranno progressivamente liberate da ogni vincolo d'immobilizzazione, con l'obbligo per gli altri istituti di rendere, nei termini e nei modi che saranno determinati dal regolamento di cui all'art. 28, alla Banca Nazionale nel Regno d'Italia, in biglietti della Banca medesima, la somma che essa ha loro somministrata sulle rispettive riserve metalliche immobilizzate in conseguenza del [Regio decreto 1° maggio 1866, n. 2873](../Regi%20decreti/Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md). 
  
  Questa liberazione avra' luogo per un quarto alla pubblicazione della presente legge, per un quarto non prima del termine di un anno, e per la restante meta' alla cessazione del corso legale. 
  
@@ -182,11 +182,11 @@ Agli articoli 67 e 68 e' surrogato il seguente:
 
 ### Art. 20.
 
-All'articolo 5 (ultimo alinea) dello statuto del Banco di Sicilia, approvato con [Regio decreto del 10 gennaio 1869, n. 2096](Che%20approva%20e%20rende%20esecutivo%20lo%20statuto%20del%20Banco%20di%20Sicilia.%206902096R.md), le parole «e' facoltato» sono surrogate con le seguenti: «e' tenuto,» e le parole «e secondo le norme e proporzioni fissate nel regolamento» sono soppresse.
+All'articolo 5 (ultimo alinea) dello statuto del Banco di Sicilia, approvato con [Regio decreto del 10 gennaio 1869, n. 2096](../Regi%20decreti/Che%20approva%20e%20rende%20esecutivo%20lo%20statuto%20del%20Banco%20di%20Sicilia.%206902096R.md), le parole «e' facoltato» sono surrogate con le seguenti: «e' tenuto,» e le parole «e secondo le norme e proporzioni fissate nel regolamento» sono soppresse.
 
 ### Art. 21.
 
-L'articolo 5 dello statuto della Banca Romana, approvato con [Regio decreto del 2 dicembre 1870, n. 6064](Concernente%20la%20ricostituzione%20della%20Banca%20Romana.%20070U6064.md), e' modificato come segue: 
+L'articolo 5 dello statuto della Banca Romana, approvato con [Regio decreto del 2 dicembre 1870, n. 6064](../Regi%20decreti/Concernente%20la%20ricostituzione%20della%20Banca%20Romana.%20070U6064.md), e' modificato come segue: 
  
  Alle parole «e della proroga successiva e' stabilita sino al 31 dicembre 1881» sono surrogate le seguenti: «e delle proroghe successive e' stabilita sino al 31 dicembre 1889.»
 
@@ -212,7 +212,7 @@ La tassa annuale di cui all'[articolo 24 della legge 19 luglio 1868, n. 4480](Co
 
 ### Art. 26.
 
-E' sciolto il vincolo stabilito coll'[articolo 9 del Regio decreto 1° maggio 1866, numero 2873](Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md), al saggio dello sconto delle cambiali quando esse siano pagabili in moneta metallica. 
+E' sciolto il vincolo stabilito coll'[articolo 9 del Regio decreto 1° maggio 1866, numero 2873](../Regi%20decreti/Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md), al saggio dello sconto delle cambiali quando esse siano pagabili in moneta metallica. 
  
  Rimangono di piena efficacia tutte le disposizioni ora in vigore, in quanto non siano contrarie al disposto con questa legge.
 
@@ -274,7 +274,7 @@ Le fedi di credito dei Banchi di Napoli e di Sicilia in nome del cassiere a somm
 
 ### Art. 35.
 
-Le fedi di credito in nome di terzi e le polizze dei Banchi di Napoli e di Sicilia continueranno a godere del corso legale loro accordato coll'[articolo 7 del Regio decreto del 1° maggio 1866, numero 2873](Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md), per un anno dalla data della pubblicazione di questa legge. Scorso tal termine i detti titoli rimarranno meramente fiduciari. 
+Le fedi di credito in nome di terzi e le polizze dei Banchi di Napoli e di Sicilia continueranno a godere del corso legale loro accordato coll'[articolo 7 del Regio decreto del 1° maggio 1866, numero 2873](../Regi%20decreti/Concernente%20la%20somma%20di%20duecento%20cinquanta%20milioni%20di%20lire%20che%20la%20Banca%20Nazionale%20nel%20Regno%20dItalia%20dara%20a%20mutuo%20al%20Tesoro%20dello%20Stato%20ed%20altre%20disposizioni%20concernenti%20la%20Banca%20stessa%20il_e74ae9656dff.md), per un anno dalla data della pubblicazione di questa legge. Scorso tal termine i detti titoli rimarranno meramente fiduciari. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

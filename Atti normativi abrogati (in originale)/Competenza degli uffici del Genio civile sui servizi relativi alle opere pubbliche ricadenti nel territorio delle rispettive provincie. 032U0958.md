@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti il testo unico delle leggi sull'ordinamento del Corpo Reale del genio civile, approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), ed il [R. decreto 2 marzo 1931, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-02;287), che approva il regolamento sul servizio del Genio civile; 
+ Visti il testo unico delle leggi sull'ordinamento del Corpo Reale del genio civile, approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), ed il [R. decreto 2 marzo 1931, n. 287](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20servizio%20del%20Genio%20civile.%20031U0287.md), che approva il regolamento sul servizio del Genio civile; 
  Ritenuta l'opportunita' che gli uffici del Genio civile abbiano competenza su tutti i servizi relativi alle opere pubbliche ricadenti nel territorio delle rispettive provincie, salvo che speciali ragioni non consiglino in una provincia anche l'esistenza di uffici o di sezioni autonome speciali del Genio civile; 
  Stilla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici: 
  Abbiamo decretato e decretiamo: 

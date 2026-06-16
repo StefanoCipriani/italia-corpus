@@ -150,17 +150,17 @@ CAPO IV
 
 ### Art. 21.
 
-Nell'art. 1 e nell'art. 3 del regolamento approvato con [regio decreto 24 maggio 1925, n. 1102](Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), alle parole:
+Nell'art. 1 e nell'art. 3 del regolamento approvato con [regio decreto 24 maggio 1925, n. 1102](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), alle parole:
  "Ente nazionale per le industrie turistiche" sono sostituite le parole: "Ente provinciale per il turismo".
 
 ### Art. 22.
 
-L'art. 17 del regolamento approvato con [regio decreto 24 maggio 1925, n. 1102](Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), e' modificato come segue:
+L'art. 17 del regolamento approvato con [regio decreto 24 maggio 1925, n. 1102](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), e' modificato come segue:
  "All'Ente provinciale per il turismo e' data ampia facolta' di vigilare, d'intesa col Prefetto, sull'osservanza delle prescrizioni del presente regolamento e di disporre, sempre d'intesa col Prefetto, e promuovere quelle ispezioni che riterra' all'uopo opportune".
 
 ### Art. 23.
 
-Nel [primo comma dell'art. 232 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_232-com1), approvato con il [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), le parole: "Ente nazionale per le industrie turistiche" sono sostituite con le parole:
+Nel [primo comma dell'art. 232 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con il [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), le parole: "Ente nazionale per le industrie turistiche" sono sostituite con le parole:
  "Ente provinciale per il turismo".
  Analogamente al secondo comma dello stesso arti<olo le parole: "Ente nazionale delle industrie turistiche" sono sostituite con le parole: "Ente provinciale per il turismo".
 
@@ -233,16 +233,16 @@ All'[art. 17 del regio decreto-legge 15 aprile 1926, n. 765](Provvedimenti%20per
 
 ### Art. 34.
 
-Nel terzo comma, dell'art. 12 del regolamento approvato con il [regio decreto 12 agosto 1927, n. 1615](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%201%20luglio%201926%20n.%201380%20sulle%20stazioni%20di%20cura%20soggiorno%20o%20turismo%20modificata%20col%20R.%20decreto-legge%2023%20giugno%201927%20n.%201193.%20027U1615.md), le parole "Giunta provinciale amministrativa" sono sostituite con le parole: "Ente provinciale per il turismo".
+Nel terzo comma, dell'art. 12 del regolamento approvato con il [regio decreto 12 agosto 1927, n. 1615](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%201%20luglio%201926%20n.%201380%20sulle%20stazioni%20di%20cura%20soggiorno%20o%20turismo%20modificata%20col%20R.%20decreto-legge%2023%20giugno%201927%20n.%201193.%20027U1615.md), le parole "Giunta provinciale amministrativa" sono sostituite con le parole: "Ente provinciale per il turismo".
 
 ### Art. 35.
 
-Il terzo comma dell'art. 17 del regolamento approvato con il [regio decreto 12 agosto 1927, n. 1615](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%201%20luglio%201926%20n.%201380%20sulle%20stazioni%20di%20cura%20soggiorno%20o%20turismo%20modificata%20col%20R.%20decreto-legge%2023%20giugno%201927%20n.%201193.%20027U1615.md), e' modificato come segue:
+Il terzo comma dell'art. 17 del regolamento approvato con il [regio decreto 12 agosto 1927, n. 1615](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%201%20luglio%201926%20n.%201380%20sulle%20stazioni%20di%20cura%20soggiorno%20o%20turismo%20modificata%20col%20R.%20decreto-legge%2023%20giugno%201927%20n.%201193.%20027U1615.md), e' modificato come segue:
  "Dopo la deliberazione, il bilancio deve essere trasmesso all'Ente provinciale per il turismo e depositato per la durata di 8 giorni consecutivi nell'ufficio comunale".
 
 ### Art. 36.
 
-All'art. 18 del regolamento approvato con il [regio decreto 12 agosto 1927, n. 1615](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%201%20luglio%201926%20n.%201380%20sulle%20stazioni%20di%20cura%20soggiorno%20o%20turismo%20modificata%20col%20R.%20decreto-legge%2023%20giugno%201927%20n.%201193.%20027U1615.md), e' aggiunto il seguente somma:
+All'art. 18 del regolamento approvato con il [regio decreto 12 agosto 1927, n. 1615](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%201%20luglio%201926%20n.%201380%20sulle%20stazioni%20di%20cura%20soggiorno%20o%20turismo%20modificata%20col%20R.%20decreto-legge%2023%20giugno%201927%20n.%201193.%20027U1615.md), e' aggiunto il seguente somma:
  "L'Ente provinciale per il turismo, nel termine di cui sopra, esprime alla Giunta provinciale amministrativa il proprio parere".
 
 ## Disposizioni comuni e finali

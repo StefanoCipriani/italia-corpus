@@ -22,7 +22,7 @@ Ai militari e alle altre persone appartenenti o addette al R. esercito italiano 
  
  e) se appartenenti alle Associazioni sanitarie di soccorso, od altri volontari riconosciuti dallo Stato, lo stipendio o assegno o la paga di cui godevano, a norma delle speciali disposizioni per essi in vigore, durante il servizio prestato per l'esercito nel Regno; 
  
- f) se appartenenti ai personali civili di cui allo [articolo 18 del R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), l'assegno per essi stabilito, durante il servizio presso l'esercito, in base all'articolo medesimo; 
+ f) se appartenenti ai personali civili di cui allo [articolo 18 del R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), l'assegno per essi stabilito, durante il servizio presso l'esercito, in base all'articolo medesimo; 
  
  g) se ecclesiastici, l'assegno che godevano in base alle disposizioni vigenti quando furono fatti prigionieri. 
  

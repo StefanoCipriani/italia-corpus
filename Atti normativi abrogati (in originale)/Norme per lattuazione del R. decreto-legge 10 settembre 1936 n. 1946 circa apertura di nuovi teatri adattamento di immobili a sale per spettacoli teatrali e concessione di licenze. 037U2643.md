@@ -64,7 +64,7 @@ Il Ministero della cultura popolare ove lo ritenga opportuno e le circostanze lo
 
 ## Art. 7.
 
-Restano ferme le disposizioni dell'[art. 80 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_80), approvato con il [R. decreto 18 giugno 1931, n. 773, e degli articoli 156 e seguenti](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_156) del relativo regolamento. 
+Restano ferme le disposizioni dell'[art. 80 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con il [R. decreto 18 giugno 1931, n. 773, e degli articoli 156 e seguenti](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del relativo regolamento. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il direttore generale delle poste e dei telegrafi e' classificato al grado 4° dell'ordinamento gerarchico delle Amministrazioni dello Stato, approvato con [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, col trattamento del grado stesso.
+Il direttore generale delle poste e dei telegrafi e' classificato al grado 4° dell'ordinamento gerarchico delle Amministrazioni dello Stato, approvato con [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, col trattamento del grado stesso.
 
 ## Art. 2.
 

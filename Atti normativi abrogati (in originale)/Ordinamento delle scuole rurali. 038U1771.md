@@ -79,7 +79,7 @@ All'insegnante di scuola rurale, anche se provvisorio, e' corrisposta, in base a
  
  L'insegnante ha l'obbligo di risiedere nella localita' dove funziona la scuola, e fruisce dell'alloggio gratuito, quando la scuola ne sia fornita. 
  
- Il contributo per l'iscrizione al Monte pensioni e' ripartito per meta' a carico dello Stato e per meta' a carico degli insegnanti, ai sensi dell'art. 17 del testo unico approvato con [R. decreto 23 marzo 1931, n. 707](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Monte%20pensioni%20per%20gli%20insegnanti%20elementari.%20031U0707.md).
+ Il contributo per l'iscrizione al Monte pensioni e' ripartito per meta' a carico dello Stato e per meta' a carico degli insegnanti, ai sensi dell'art. 17 del testo unico approvato con [R. decreto 23 marzo 1931, n. 707](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Monte%20pensioni%20per%20gli%20insegnanti%20elementari.%20031U0707.md).
 
 ## Art. 7.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente ed assoluta di apportare alcune modificazioni alle disposizioni del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), riguardanti il fondo per l'integrazione dei bilanci provinciali e le sovrimposte fondiarie al fine di porre in grado le Amministrazioni
+Ritenuta la necessita' urgente ed assoluta di apportare alcune modificazioni alle disposizioni del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), riguardanti il fondo per l'integrazione dei bilanci provinciali e le sovrimposte fondiarie al fine di porre in grado le Amministrazioni
 
 provinciali di assestare i bilanci stessi;
 
@@ -142,7 +142,7 @@ Entro il termine di quindici giorni dall'entrata in vigore del presente decreto 
 
 ## Art. 10.
 
-All'articolo unico del [R. decreto 3 novembre 1932, n. 1555](Norma%20integrativa%20dellart.%20314%20del%20testo%20unico%20per%20la%20finanza%20locale%20relativo%20alla%20contrattazione%20dei%20mutui%20da%20parte%20delle%20provincie%20che%20hanno%20gia%20delegata%20la%20sovrimposta%20compresa%20nel%20lim_dbf0211fac93.md), modificato con l'[art. 4 del R. decreto 3 maggio 1933, n. 626](Norme%20integrative%20degli%20articoli%20303%20307%20308%20309%20311%20313%20e%20315%20del%20testo%20unico%20per%20la%20finanza%20locale.%20033U0626.md), e' sostituito il seguente: 
+All'articolo unico del [R. decreto 3 novembre 1932, n. 1555](../Regi%20decreti/Norma%20integrativa%20dellart.%20314%20del%20testo%20unico%20per%20la%20finanza%20locale%20relativo%20alla%20contrattazione%20dei%20mutui%20da%20parte%20delle%20provincie%20che%20hanno%20gia%20delegata%20la%20sovrimposta%20compresa%20nel%20lim_dbf0211fac93.md), modificato con l'[art. 4 del R. decreto 3 maggio 1933, n. 626](../Regi%20decreti/Norme%20integrative%20degli%20articoli%20303%20307%20308%20309%20311%20313%20e%20315%20del%20testo%20unico%20per%20la%20finanza%20locale.%20033U0626.md), e' sostituito il seguente: 
  
  «Le deliberazioni concernenti operazioni di mutuo adottate dai Rettorati delle provincie i cui bilanci siano pareggiati con sovrimposte comprese nel limite normale sono soggette all'approvazione del Ministro per l'interno, su parere della Giunta provinciale amministrativa. 
  
@@ -150,11 +150,11 @@ All'articolo unico del [R. decreto 3 novembre 1932, n. 1555](Norma%20integrativa
  
  «Salvo i casi previsti da leggi speciali, nessun mutuo puo' essere contratto dalle Provincie se gli interessi e la rata di ammortamento, aggiunti a quelli dei debiti o mutui di qualsiasi natura precedentemente contratti, facciano ascendere le somme da iscriversi in bilancio per il servizio degli interessi e dell'ammortamento ad una cifra superiore ai due terzi del limite normale della sovrimposta fondiaria. 
  
- «Nulla e' innovato all'[art. 5 del R. decreto 3 maggio 1933, n. 626](Norme%20integrative%20degli%20articoli%20303%20307%20308%20309%20311%20313%20e%20315%20del%20testo%20unico%20per%20la%20finanza%20locale.%20033U0626.md)».
+ «Nulla e' innovato all'[art. 5 del R. decreto 3 maggio 1933, n. 626](../Regi%20decreti/Norme%20integrative%20degli%20articoli%20303%20307%20308%20309%20311%20313%20e%20315%20del%20testo%20unico%20per%20la%20finanza%20locale.%20033U0626.md)».
 
 ## Art. 11.
 
-Per le Provincie che non eccedono il limite normale delle sovrimposte fondiarie le attribuzioni riservate dagli [articoli 2](Norme%20integrative%20degli%20articoli%20303%20307%20308%20309%20311%20313%20e%20315%20del%20testo%20unico%20per%20la%20finanza%20locale.%20033U0626.md) e [3 del R. decreto 3 maggio 1933, n. 626, al Ministro per le finanze](Norme%20integrative%20degli%20articoli%20303%20307%20308%20309%20311%20313%20e%20315%20del%20testo%20unico%20per%20la%20finanza%20locale.%20033U0626.md) di concerto con il Ministro per l'interno, udita la Commissione centrale per la finanza locale, sono deferite al Ministro per l'interno, il quale provvede sentita la Giunta provinciale amministrativa.
+Per le Provincie che non eccedono il limite normale delle sovrimposte fondiarie le attribuzioni riservate dagli [articoli 2](../Regi%20decreti/Norme%20integrative%20degli%20articoli%20303%20307%20308%20309%20311%20313%20e%20315%20del%20testo%20unico%20per%20la%20finanza%20locale.%20033U0626.md) e [3 del R. decreto 3 maggio 1933, n. 626, al Ministro per le finanze](../Regi%20decreti/Norme%20integrative%20degli%20articoli%20303%20307%20308%20309%20311%20313%20e%20315%20del%20testo%20unico%20per%20la%20finanza%20locale.%20033U0626.md) di concerto con il Ministro per l'interno, udita la Commissione centrale per la finanza locale, sono deferite al Ministro per l'interno, il quale provvede sentita la Giunta provinciale amministrativa.
 
 ## Art. 12.
 

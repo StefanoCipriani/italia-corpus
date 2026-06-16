@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visti la [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), ed il [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visti la [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), ed il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,21 +28,21 @@ Sulla proposta del Capo del Governo e del Ministro Segretario di Stato per le fi
 
 ## Art. 1.
 
-Sono esenti dalla sopratassa comminata dall'[art. 15 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_15), i contribuenti che non abbiano adempiuto all'obbligo di presentare la dichiarazione ai fini dell'applicazione delle imposte dirette ed ai quali non sia stato ancora notificato alcun accertamento d'ufficio, a condizione che essi presentino la dichiarazione stessa entro il termine di 60 giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno. 
+Sono esenti dalla sopratassa comminata dall'[art. 15 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), i contribuenti che non abbiano adempiuto all'obbligo di presentare la dichiarazione ai fini dell'applicazione delle imposte dirette ed ai quali non sia stato ancora notificato alcun accertamento d'ufficio, a condizione che essi presentino la dichiarazione stessa entro il termine di 60 giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno. 
  
- Sono del pari esenti dalla sopratassa comminata dall'[articolo 16 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_16), i contribuenti che abbiano presentato dichiarazione inesatta ed ai quali non sia stata ancora notificata alcuna rettifica di ufficio, a condizione che essi completino la precedente dichiarazione entro il termine stabilito dal comma precedente. 
+ Sono del pari esenti dalla sopratassa comminata dall'[articolo 16 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), i contribuenti che abbiano presentato dichiarazione inesatta ed ai quali non sia stata ancora notificata alcuna rettifica di ufficio, a condizione che essi completino la precedente dichiarazione entro il termine stabilito dal comma precedente. 
  
  Sono inoltre condonate, quando siano incorse prima della data del presente decreto: 
  
- a) la pena pecuniaria da L. 50 a L. 150, comminata dall'[art. 21 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_21), per i funzionari dello Stato, delle Provincie e dei Comuni che non abbiano adempiuto all'obbligo delle prescritte comunicazioni agli uffici delle imposte; 
+ a) la pena pecuniaria da L. 50 a L. 150, comminata dall'[art. 21 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per i funzionari dello Stato, delle Provincie e dei Comuni che non abbiano adempiuto all'obbligo delle prescritte comunicazioni agli uffici delle imposte; 
  
- b) la pena pecuniaria da L. 25 a L. 75, comminata dall'[art. 22 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_22), per chi, invitato a presentarsi all'ufficio delle imposte, non abbia aderito all'invito. 
+ b) la pena pecuniaria da L. 25 a L. 75, comminata dall'[art. 22 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), per chi, invitato a presentarsi all'ufficio delle imposte, non abbia aderito all'invito. 
  
  Le disposizioni del comma primo e secondo del presente articolo si applicano anche per le sopratasse dovute per la omissione o la infedelta' delle dichiarazioni prescritte dal [R. decreto-legge 5 ottobre 1936, n. 1743](Emissione%20di%20un%20prestito%20redimibile%205%20ed%20applicazione%20di%20una%20imposta%20straordinaria%20sulla%20proprieta%20immobiliare%20per%20il%20servizio%20del%20prestito%20medesimo.%20036U1743.md), riguardante la emissione del prestito redimibile 5 per cento e la istituzione della imposta straordinaria immobiliare.
 
 ## Art. 2.
 
-Non si fara' luogo all'applicazione delle sanzioni stabilite dagli articoli 25 e 26 del testo unico approvato con [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608), in confronto dei contribuenti morosi che entro il termine di giorni 120 dalla pubblicazione del presente decreto soddisfino per intero il debito di imposte.
+Non si fara' luogo all'applicazione delle sanzioni stabilite dagli articoli 25 e 26 del testo unico approvato con [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md), in confronto dei contribuenti morosi che entro il termine di giorni 120 dalla pubblicazione del presente decreto soddisfino per intero il debito di imposte.
 
 ## Art. 3.
 
@@ -84,7 +84,7 @@ Restano in vigore le dilazioni gia' stipulate per il pagamento di tasse, soprata
 
 Sono esenti dal pagamento delle pene pecuniarie: 
  
- 1° coloro che anteriormente alla data del presente decreto siano incorsi in violazioni degli articoli 111, esclusa la lettera e), 112, 113 e 114 del regolamento per la coltivazione del tabacco, approvato con [R. decreto 12 ottobre 1924, numero 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), modificato con [R. decreto 24 novembre 1932, n.1571](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md); 
+ 1° coloro che anteriormente alla data del presente decreto siano incorsi in violazioni degli articoli 111, esclusa la lettera e), 112, 113 e 114 del regolamento per la coltivazione del tabacco, approvato con [R. decreto 12 ottobre 1924, numero 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), modificato con [R. decreto 24 novembre 1932, n.1571](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md); 
  
  2° i magazzinieri ed i rivenditori di generi di monopolio che siano incorsi in violazioni delle norme sull'ordinamento dei servizi.
 

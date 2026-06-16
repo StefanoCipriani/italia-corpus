@@ -93,7 +93,7 @@ Gli [articoli 7](Disposizioni%20sullemigrazione.%20001U0023.md), [11](Disposizio
  
  Art. 13-ter. 
  
- Le licenze consolari di cui all'[art. 19 del R. decreto 14 marzo 1909, n. 130](Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md), sono sottoposte alla tassa di centesimi dieci per ogni tonnellata di stazza netta: l'importo di tale tassa, come delle ammende previste dal presente articolo, sara' devoluto integralmente al fondo per l'emigrazione. 
+ Le licenze consolari di cui all'[art. 19 del R. decreto 14 marzo 1909, n. 130](../Regi%20decreti/Che%20modifica%20il%20titolo%20IV%20del%20regolamento%20sulla%20emigrazione.%20009U0130.md), sono sottoposte alla tassa di centesimi dieci per ogni tonnellata di stazza netta: l'importo di tale tassa, come delle ammende previste dal presente articolo, sara' devoluto integralmente al fondo per l'emigrazione. 
  
  Il capitano del piroscafo che, senza essere munito di licenza consolare, trasporti emigranti di ritorno al disopra di cinquanta, andra' soggetto ad un'ammenda di cento lire per ciascuno di essi. La stessa pena si applica anche al capitano che, in un porto non transoceanico, abbia ricevuto, per trasbordo da altri piroscafi sprovvisti di licenza consolare, emigranti di ritorno diretti nel Regno. 
  
@@ -202,7 +202,7 @@ Contravvenendo a queste prescrizioni, sono dichiarati disertori.
  
  Art. 33-ter. 
  
- L'inscritto che, per sottrarsi all'obbligo del servizio militare, commette in territorio estero dei reati preveduti nella legge sul reclutamento dell'esercito o nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana, ancorche' non si trovi nel Regno. 
+ L'inscritto che, per sottrarsi all'obbligo del servizio militare, commette in territorio estero dei reati preveduti nella legge sul reclutamento dell'esercito o nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana, ancorche' non si trovi nel Regno. 
  
  Il cittadino o lo straniero, che in territorio estero concorre in qualsiasi modo nel reato commesso dall'inscritto, soggiace alle pene stabilite dalla legge italiana ancorche' non si trovi nel territorio del Regno. Se sia stato giudicato all'estero pel medesimo fatto, puo' essere giudicato nel Regno se il ministro della giustizia ne faccia richiesta. 
  

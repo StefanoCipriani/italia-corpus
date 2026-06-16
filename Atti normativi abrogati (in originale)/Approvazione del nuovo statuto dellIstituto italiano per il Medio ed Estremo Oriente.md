@@ -14,7 +14,7 @@ N.
 
 1077.
 
-Decreto del Capo provvisorio dello Stato 2 luglio 1947, col quale, sulla proposta del Ministro per gli affari esteri, viene approvato in sostituzione di quello previsto dal [regio decreto 20 novembre 1939, n. 1987](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20italiano%20per%20il%20Medio%20ed%20Estremo%20Oriente.%20039U1987.md), il nuovo statuto dell'istituto italiano per il Medio ed Estremo Oriente, composto di 33 articoli.
+Decreto del Capo provvisorio dello Stato 2 luglio 1947, col quale, sulla proposta del Ministro per gli affari esteri, viene approvato in sostituzione di quello previsto dal [regio decreto 20 novembre 1939, n. 1987](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20dellIstituto%20italiano%20per%20il%20Medio%20ed%20Estremo%20Oriente.%20039U1987.md), il nuovo statuto dell'istituto italiano per il Medio ed Estremo Oriente, composto di 33 articoli.
 
 Visto, il Guardasigilli: GRASSI
  Registrato alla Corte dei Conti, addi' 7 ottobre 1947

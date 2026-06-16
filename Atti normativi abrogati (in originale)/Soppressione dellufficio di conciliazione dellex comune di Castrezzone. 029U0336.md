@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 31 maggio 1928, n. 1511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1511), col quale il comune di Castrezzone e' stato soppresso, ed il rispettivo territorio aggregato a quello di Muscoline; 
+ Visto il [R. decreto 31 maggio 1928, n. 1511](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Castrezzone%20a%20quello%20di%20Mascoline.%20028U1511.md), col quale il comune di Castrezzone e' stato soppresso, ed il rispettivo territorio aggregato a quello di Muscoline; 
  
  Vista la deliberazione del commissario prefettizio di Muscoline, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Castrezzone; 
  

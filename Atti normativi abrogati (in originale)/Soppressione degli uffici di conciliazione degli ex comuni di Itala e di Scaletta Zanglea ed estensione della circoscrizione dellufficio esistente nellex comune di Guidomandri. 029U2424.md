@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 agosto 1928, n. 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1975), col quale i comuni di Itala, Guidomandri e Scaletta Zanglea venivano riuniti in un solo Comune denominato Scaletta Zanglea con sede e capoluogo a Guidomandri; 
+ Visto il [R. decreto 3 agosto 1928, n. 1975](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Guidomandri%20Itala%20e%20Scaletta%20Zanglea%20in%20un%20unico%20Comune%20denominato%20Scaletta%20Zanglea%20con%20capoluogo%20Itala%20Marina.%20028U1975.md), col quale i comuni di Itala, Guidomandri e Scaletta Zanglea venivano riuniti in un solo Comune denominato Scaletta Zanglea con sede e capoluogo a Guidomandri; 
  Vista la deliberazione del podesta' di detto Comune con la quale si chiede che per tutto il territorio del comune di Scaletta Zanglea funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del presidente e dell'avvocato generale presso la sezione di Corte d'appello di Messina; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

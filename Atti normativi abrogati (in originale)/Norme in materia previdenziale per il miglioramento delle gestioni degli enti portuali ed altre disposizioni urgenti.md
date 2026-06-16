@@ -28,7 +28,7 @@ Titolo I
 
 1.
 
-Il personale supplente delle scuole di istruzione primaria e secondaria e degli istituti professionali e di istruzione artistica, di cui all'articolo 2, primo comma, punto b), del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e' assoggettato, a decorrere dal 1 gennaio 1988, alla ritenuta in conto entrata Tesoro nella misura e con le norme previste per i dipendenti civili e militari dello Stato. Dalla stessa data cessa per il personale medesimo l'iscrizione, ai fini di quiescenza, alla assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti.
+Il personale supplente delle scuole di istruzione primaria e secondaria e degli istituti professionali e di istruzione artistica, di cui all'articolo 2, primo comma, punto b), del [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e' assoggettato, a decorrere dal 1 gennaio 1988, alla ritenuta in conto entrata Tesoro nella misura e con le norme previste per i dipendenti civili e militari dello Stato. Dalla stessa data cessa per il personale medesimo l'iscrizione, ai fini di quiescenza, alla assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti.
 
 2.
 
@@ -59,7 +59,7 @@ Per i nuclei familiari che comprendono soggetti che si trovano a causa di inferm
 
 3.
 
-Si osservano, per quanto non previsto dal presente articolo, le norme contenute nel testo unico sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../DPR/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni e integrazioni, nonche' le norme che disciplinano nell'ambito dei rispettivi ordinamenti le materie delle quote di aggiunta di famiglia e di ogni altro trattamento di famiglia comunque denominato.
+Si osservano, per quanto non previsto dal presente articolo, le norme contenute nel testo unico sugli assegni familiari, approvato con [decreto del Presidente della Repubblica 30 maggio 1955, n. 797](../Testi%20Unici/Testo%20unico%20delle%20norme%20concernenti%20gli%20assegni%20familiari.md), e successive modificazioni e integrazioni, nonche' le norme che disciplinano nell'ambito dei rispettivi ordinamenti le materie delle quote di aggiunta di famiglia e di ogni altro trattamento di famiglia comunque denominato.
 
 4.
 

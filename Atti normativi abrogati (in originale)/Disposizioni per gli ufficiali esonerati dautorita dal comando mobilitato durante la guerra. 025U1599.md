@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del Regio esercito e della Regia marina ed il regolamento per la sua esecuzione approvato con [R. decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le loro successive modificazioni;
+Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del Regio esercito e della Regia marina ed il regolamento per la sua esecuzione approvato con [R. decreto 18 luglio 1912, n. 867](../Regi%20decreti/Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), e le loro successive modificazioni;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
-Visti i [Regi decreti 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e [30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), sulle pensioni normali del personale dell'Amministrazione dello Stato e successive modificazioni;
+Visti i [Regi decreti 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e [30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), sulle pensioni normali del personale dell'Amministrazione dello Stato e successive modificazioni;
 
 Visti i [decreti Luogotenenziali 17 gennaio 1918, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-17;62), e [15 giugno 1918, n. 806](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-15;806), relativi agli ufficiali esonerati dal comando durante la guerra;
 
-Visto il [R. decreto-legge 31 marzo 1925, n. 362](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20in%20posizione%20ausiliaria%20speciale%20esonerati%20e%20in%20congedo%20provvisorio.%20025U0362.md) ed il [R. decreto 31 marzo 1925, n. 684](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md), recanti disposizioni per gli ufficiali esonerati dal comando mobilitato durante la guerra:
+Visto il [R. decreto-legge 31 marzo 1925, n. 362](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20in%20posizione%20ausiliaria%20speciale%20esonerati%20e%20in%20congedo%20provvisorio.%20025U0362.md) ed il [R. decreto 31 marzo 1925, n. 684](../Regi%20decreti/Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md), recanti disposizioni per gli ufficiali esonerati dal comando mobilitato durante la guerra:
 
 Visti i [Regi decreti 20 aprile 1920, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-04-20;453), e [3 giugno 1920, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-03;710), relativi alla sistemazione degli ufficiali esuberanti per riduzione di ruoli organici e successive modificazioni;
 
@@ -38,13 +38,13 @@ Agli ufficiali che, in dipendenza di giudizi emessi dalle autorita' mobilitate p
 
 Quelli fra i detti ufficiali che al 1° aprile 1925 non avevano ancora compiuto il 4° anno dopo il raggiungimento del limite di eta' stabilito per il grado col quale cessarono dal servizio attivo permanente, potranno, a loro domanda, essere collocati a decorrere dalla data suindicata e fino al compimento del 4° anno suddetto, in posizione ausiliaria ordinaria. 
  
- Oltre al trattamento di cui attualmente fruiscono, essi conserveranno per tutto l'indicato periodo, a titolo di assegno personale, l'eventuale differenza in piu' fra il trattamento medesimo e quello che avrebbero conseguito, per effetto dell'applicazione, nei loro riguardi, delle disposizioni dei [Regi decreti 31 marzo 1925, nn. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;362) e [684](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md). 
+ Oltre al trattamento di cui attualmente fruiscono, essi conserveranno per tutto l'indicato periodo, a titolo di assegno personale, l'eventuale differenza in piu' fra il trattamento medesimo e quello che avrebbero conseguito, per effetto dell'applicazione, nei loro riguardi, delle disposizioni dei [Regi decreti 31 marzo 1925, nn. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;362) e [684](../Regi%20decreti/Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md). 
  
  Al compimento del 4° anno di cui sopra, essi saranno collocati a riposo e liquideranno una pensione non inferiore a quella che loro sarebbe spettata per effetto dell'applicazione, nei loro confronti, delle disposizioni dei Regi decreti 31 marzo 1925 sopracitati.
 
 ## Art. 3.
 
-Gli ufficiali di cui all'art. 1, che al 1° aprile 1925 avevano gia' compiuto il 4° anno dopo il raggiungimento del limite di eta', di cui all'articolo precedente, potranno a loro domanda ottenere, a decorrere dalla data suindicata, il trattamento di quiescenza che loro sarebbe derivato dall'applicazione, nei loro confronti, dei [Regi decreti 31 marzo 1925, nn. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;362) e [684](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md).
+Gli ufficiali di cui all'art. 1, che al 1° aprile 1925 avevano gia' compiuto il 4° anno dopo il raggiungimento del limite di eta', di cui all'articolo precedente, potranno a loro domanda ottenere, a decorrere dalla data suindicata, il trattamento di quiescenza che loro sarebbe derivato dall'applicazione, nei loro confronti, dei [Regi decreti 31 marzo 1925, nn. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;362) e [684](../Regi%20decreti/Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md).
 
 ## Art. 4.
 
@@ -63,7 +63,7 @@ Le disposizioni del presente decreto non sono applicabili agli ufficiali che ces
 
 ## Art. 6.
 
-Agli effetti del presente decreto saranno considerate valide soltanto le domande tempestivamente presentate a norma del [R. decreto 31 marzo 1925, n. 684](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md), comprese quelle delle vedove ed, in mancanza, degli orfani, salvo in ogni caso rimanendo agli interessati la facolta' di recedere dalle medesime con apposita dichiarazione inoltrata per via gerarchica. 
+Agli effetti del presente decreto saranno considerate valide soltanto le domande tempestivamente presentate a norma del [R. decreto 31 marzo 1925, n. 684](../Regi%20decreti/Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md), comprese quelle delle vedove ed, in mancanza, degli orfani, salvo in ogni caso rimanendo agli interessati la facolta' di recedere dalle medesime con apposita dichiarazione inoltrata per via gerarchica. 
  
  In merito all'accoglimento delle anzidette domande decidera' definitivamente il Ministero della guerra.
 
@@ -73,7 +73,7 @@ Ai generali d'armata che siano collocati in posizione ausiliaria ordinaria a sen
 
 ## Art. 8.
 
-Sono abrogati, con effetto dalla data gia' stabilita per la loro entrata in vigore, gli [articoli 2](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20in%20posizione%20ausiliaria%20speciale%20esonerati%20e%20in%20congedo%20provvisorio.%20025U0362.md) e [3 del R. decreto-legge 31 marzo 1925, n. 362](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20in%20posizione%20ausiliaria%20speciale%20esonerati%20e%20in%20congedo%20provvisorio.%20025U0362.md), nonche' il [R. decreto 31 marzo 1925, n. 684](Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md).
+Sono abrogati, con effetto dalla data gia' stabilita per la loro entrata in vigore, gli [articoli 2](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20in%20posizione%20ausiliaria%20speciale%20esonerati%20e%20in%20congedo%20provvisorio.%20025U0362.md) e [3 del R. decreto-legge 31 marzo 1925, n. 362](Provvedimenti%20economici%20a%20favore%20degli%20ufficiali%20in%20posizione%20ausiliaria%20speciale%20esonerati%20e%20in%20congedo%20provvisorio.%20025U0362.md), nonche' il [R. decreto 31 marzo 1925, n. 684](../Regi%20decreti/Disposizioni%20per%20gli%20ufficiali%20esonerati%20dautorita%20dal%20comando%20mobilitato%20durante%20la%20guerra.%20025U0684.md).
 
 ## Art. 9.
 

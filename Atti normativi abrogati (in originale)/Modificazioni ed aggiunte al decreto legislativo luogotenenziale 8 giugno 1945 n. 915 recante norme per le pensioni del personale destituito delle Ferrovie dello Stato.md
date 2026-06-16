@@ -28,7 +28,7 @@ L'[art. 2 del decreto legislativo luogotenenziale 8 giugno 1945, n. 915](Norme%2
 
 ## Art. 3.
 
-Le norme di cui all'art. 7 del testo unico approvato con [regio decreto 22 aprile 1909, n. 229](Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), si applicano altresi' ai casi di cessazione definitiva dal servizio per effetto di revoca o di destituzione senza esplicita dichiarazione di perdita del diritto a pensione.
+Le norme di cui all'art. 7 del testo unico approvato con [regio decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), si applicano altresi' ai casi di cessazione definitiva dal servizio per effetto di revoca o di destituzione senza esplicita dichiarazione di perdita del diritto a pensione.
 
  La presente legge, munita del sullo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

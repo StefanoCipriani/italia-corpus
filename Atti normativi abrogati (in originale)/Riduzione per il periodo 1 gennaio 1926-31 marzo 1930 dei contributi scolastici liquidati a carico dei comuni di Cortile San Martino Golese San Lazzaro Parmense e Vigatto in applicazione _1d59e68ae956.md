@@ -18,7 +18,7 @@ Veduto il [R. decreto 16 settembre 1926, n. 1886](Approvazione%20dei%20contribut
 
 Veduto che a carico dei comuni di Cortile San Martino, Golese, San Lazzaro Parmense e Vigatto furono rispettivamente liquidati i contributi annui di L. 6000, L. 4800, L. 10000 e L. 6000;
 
-Veduto il [R. decreto 23 dicembre 1923, n. 3096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-23;3096), per effetto del quale una parte dei territori degli Enti predetti fu aggregata al comune di Parma;
+Veduto il [R. decreto 23 dicembre 1923, n. 3096](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Parma%20di%20parte%20del%20territorio%20dei%20finitimi%20comuni%20di%20San%20Lazzaro%20Parmense%20Vigatto%20San%20Pancrazio%20Parmense%20Golese%20e%20Cortile%20San%20Martino.%20023U3096.md), per effetto del quale una parte dei territori degli Enti predetti fu aggregata al comune di Parma;
 
 Veduti i prospetti delle variazioni avvenute dal 1° gennaio 1926 nelle scuole classificate degli Enti predetti in conseguenza della citata variazione territoriale: prospetti compilati dal Regio provveditore agli studi di Bologna;
 

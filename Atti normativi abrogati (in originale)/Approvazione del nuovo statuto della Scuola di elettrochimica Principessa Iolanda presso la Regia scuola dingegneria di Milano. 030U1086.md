@@ -14,7 +14,7 @@ N.
 
 1086.
 
-R. decreto 25 giugno 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della Scuola di elettrochimica «Principessa Iolanda» presso la Regia scuola d'ingegneria di Milano, in sostituzione di quello approvato col [R. decreto 25 settembre 1902, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-09-25;428) (parte supplementare). 
+R. decreto 25 giugno 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della Scuola di elettrochimica «Principessa Iolanda» presso la Regia scuola d'ingegneria di Milano, in sostituzione di quello approvato col [R. decreto 25 settembre 1902, n. 428](../Regi%20decreti/Erezione%20in%20Ente%20morale%20e%20relativa%20approvazione%20di%20statuto.%200200428R.md) (parte supplementare). 
  
  Visto, il Guardasigilli: Rocco. 
  

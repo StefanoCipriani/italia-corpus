@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto l'[art. 7 del R. decreto 22 gennaio 1914, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-01-22;19#art_7) e la tabella F al decreto stesso allegata; 
  
- Visti: il [R. decreto 9 luglio 1914, n. 1074](Riguardanti%20un%20aumento%20nei%20ruoli%20organici%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20014U1074.md), nonche' i Nostri decreti 11 luglio 1915, n. 1460; 27 febbraio 1916, n. 290; 7 maggio 1916, n. 636; 25 maggio 1916, n. 1397, e 5 ottobre 1916, n. 1487, portanti aumento e soppressione di posti nei ruoli organici dell'Amministrazione delle poste e dei telegrafi per supplire alle speciali esigenze dei servizi postali ed elettrici nell'Amministrazione centrale delle colonie; 
+ Visti: il [R. decreto 9 luglio 1914, n. 1074](../Regi%20decreti/Riguardanti%20un%20aumento%20nei%20ruoli%20organici%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20014U1074.md), nonche' i Nostri decreti 11 luglio 1915, n. 1460; 27 febbraio 1916, n. 290; 7 maggio 1916, n. 636; 25 maggio 1916, n. 1397, e 5 ottobre 1916, n. 1487, portanti aumento e soppressione di posti nei ruoli organici dell'Amministrazione delle poste e dei telegrafi per supplire alle speciali esigenze dei servizi postali ed elettrici nell'Amministrazione centrale delle colonie; 
  
  Ritenuto che pel normale svolgimento dei ruoli dell'Amministrazione postale e telegrafica, sia ora necessario di sostituire alcuni posti con altri ai quali e' annesso uno stipendio annuo superiore; 
  

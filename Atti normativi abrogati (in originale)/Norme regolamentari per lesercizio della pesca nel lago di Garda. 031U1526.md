@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 4 marzo 1877, n. 3706, e 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md), sulla pesca;
 
-Visti il [R. decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486), che approva il regolamento per l'applicazione della [legge 4 marzo 1877, n. 3706](Sulla%20pesca.%20077U3706.md), nella parte riguardante la pesca fluviale e lacuale, ed il [R. decreto 29 ottobre 1922, n. 1647](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20lege%2024%20marzo%201921%20n.%20312%20sulla%20pesca%20e%20sui%20pescatori.%20022U1647.md), che approva il regolamento per l'esecuzione della [legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md);
+Visti il [R. decreto 22 novembre 1914, n. 1486](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20regolamento%20per%20la%20pesca%20fluviale%20e%20lacuale.%20014U1486.md), che approva il regolamento per l'applicazione della [legge 4 marzo 1877, n. 3706](Sulla%20pesca.%20077U3706.md), nella parte riguardante la pesca fluviale e lacuale, ed il [R. decreto 29 ottobre 1922, n. 1647](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20lege%2024%20marzo%201921%20n.%20312%20sulla%20pesca%20e%20sui%20pescatori.%20022U1647.md), che approva il regolamento per l'esecuzione della [legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md);
 
 Visto il [R. decreto-legge 20 novembre 1927, n. 2525](Modificazioni%20alle%20disposizioni%20in%20vigore%20sulla%20pesca.%20027U2525.md), che reca modificazioni alle disposizioni in vigore sulla pesca;
 
@@ -50,7 +50,7 @@ E' vietato di muovere il fondo del lago ed il letto dei fiumi e dei canali e di 
 
 La tabella annessa al presente regolamento, vistata dal Ministro proponente, stabilisce quali siano le reti e gli attrezzi permessi, e quali siano i periodi in cui il loro uso e' vietato. L'uso di ogni altra rete od attrezzo da pesca e' proibito in qualsiasi epoca dell'anno, salvo il disposto dell'articolo seguente. 
  
- E' fatta riserva al Ministero dell'agricoltura e delle foreste di disciplinare, con propri decreti, l'uso della fiocina, del forone e di attrezzi simili, nonche' le distanze fra l'uno e l'altro attrezzo o rete da pesca, anche in deroga all'art. 12 del regolamento generale per la pesca fluviale e lacuale, approvato col [R. decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486).
+ E' fatta riserva al Ministero dell'agricoltura e delle foreste di disciplinare, con propri decreti, l'uso della fiocina, del forone e di attrezzi simili, nonche' le distanze fra l'uno e l'altro attrezzo o rete da pesca, anche in deroga all'art. 12 del regolamento generale per la pesca fluviale e lacuale, approvato col [R. decreto 22 novembre 1914, n. 1486](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20regolamento%20per%20la%20pesca%20fluviale%20e%20lacuale.%20014U1486.md).
 
 ## Art. 5.
 

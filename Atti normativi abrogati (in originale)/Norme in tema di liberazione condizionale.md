@@ -35,7 +35,7 @@ Se la liberazione condizionale e' negata, la istanza non puo' essere rinnovata c
 
 ## Art. 5. — Revoca
 
-La liberazione condizionale nei casi previsti dall'[articolo 177 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' revocata, col procedimento previsto dal precedente articolo 2, dallo stesso giudice che l'ha concessa.
+La liberazione condizionale nei casi previsti dall'[articolo 177 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' revocata, col procedimento previsto dal precedente articolo 2, dallo stesso giudice che l'ha concessa.
 
 ## Art. 6. — Norma transitoria
 

@@ -20,7 +20,7 @@ L'amministrazione del Fondo di massa del corpo della R. guardia di finanza e' au
  
  b) a far pagare le proprie spese ordinarie e straordinarie relative all'esercizio finanziario dal 1° luglio 1912 al 30 giugno 1913, in conformita' dello stato di previsione annesso alla presente legge (tabella C). 
  
- Per gli effetti di che all'art. n. 38 del testo unico della legge sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), sono considerate spese obbligatorie e d'ordine dell'Amministrazione del fondo di massa del corpo della R. guardia di finanza quelle descritte nell'elenco n. 1, annesso alla presente legge. 
+ Per gli effetti di che all'art. n. 38 del testo unico della legge sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md), sono considerate spese obbligatorie e d'ordine dell'Amministrazione del fondo di massa del corpo della R. guardia di finanza quelle descritte nell'elenco n. 1, annesso alla presente legge. 
  
  Pel pagamento delle spese indicate nell'elenco n. 2, annesso alla presente legge, potra' l'Amministrazione del fondo di massa aprire crediti, mediante mandati a disposizione dei funzionari incaricati. 
  

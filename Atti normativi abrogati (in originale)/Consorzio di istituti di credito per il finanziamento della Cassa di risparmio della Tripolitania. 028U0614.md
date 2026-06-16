@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le colonie, di concer
 
 ## Art. 1.
 
-La Cassa di risparmio della Tripolitania e' autorizzata ad emettere, in aumento delle sue disponibilita' patrimoniali e del fondo mutuatole dal Governo coloniale giusta il [R. decreto 4 settembre 1925, n. 1825](Concessione%20di%20fondi%20per%20mutui%20agrari%20alla%20Cassa%20di%20risparmio%20della%20Tripolitania.%20025U1825.md), speciali obbligazioni, allo scopo di raccogliere fondi destinati all'esercizio del credito agrario e fondiario-agrario nella Colonia.
+La Cassa di risparmio della Tripolitania e' autorizzata ad emettere, in aumento delle sue disponibilita' patrimoniali e del fondo mutuatole dal Governo coloniale giusta il [R. decreto 4 settembre 1925, n. 1825](../Regi%20decreti/Concessione%20di%20fondi%20per%20mutui%20agrari%20alla%20Cassa%20di%20risparmio%20della%20Tripolitania.%20025U1825.md), speciali obbligazioni, allo scopo di raccogliere fondi destinati all'esercizio del credito agrario e fondiario-agrario nella Colonia.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Le obbligazioni saranno ripartite per serie, e saranno rimborsate dalla Cassa di
 
 ## Art. 4.
 
-I fondi derivanti dall'emissione delle obbligazioni considerate nel presente decreto saranno impiegati dalla Cassa di risparmio della Tripolitania soltanto in operazioni di credito agrario e fondiario-agrario, con le norme fissate dal [R. decreto 18 aprile 1926, n. 884](Norme%20in%20base%20alle%20quali%20dovranno%20essere%20eseguite%20le%20operazioni%20di%20credito%20agrario%20e%20fondiario-agrario%20in%20Tripolitania.%20026U0884.md). 
+I fondi derivanti dall'emissione delle obbligazioni considerate nel presente decreto saranno impiegati dalla Cassa di risparmio della Tripolitania soltanto in operazioni di credito agrario e fondiario-agrario, con le norme fissate dal [R. decreto 18 aprile 1926, n. 884](../Regi%20decreti/Norme%20in%20base%20alle%20quali%20dovranno%20essere%20eseguite%20le%20operazioni%20di%20credito%20agrario%20e%20fondiario-agrario%20in%20Tripolitania.%20026U0884.md). 
  
  La differenza fra l'interesse a carico dei mutuatari e quello dovuto ai portatori delle corrispondenti obbligazioni sara' rimborsata, insieme a una quota parte di spese da stabilirsi con le norme che saranno indicate nel regolamento di cui al successivo art. 9, alla Cassa di risparmio della Tripolitania dal Governo della Colonia, che, in tal fine, iscrivera' appositi stanziamenti in bilancio.
 

@@ -186,7 +186,7 @@ I funzionari di cancelleria non possono esercitare le loro funzioni in preture d
 
 ### Art. 20.
 
-Per le pene disciplinari e le forme dei procedimenti si applicano ai funzionari delle cancellerie e segreterie giudiziarie le disposizioni del testo unico delle leggi sullo stato degli impiegati civili approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
+Per le pene disciplinari e le forme dei procedimenti si applicano ai funzionari delle cancellerie e segreterie giudiziarie le disposizioni del testo unico delle leggi sullo stato degli impiegati civili approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md). 
  
  Le attribuzioni del Consiglio di amministrazione e di disciplina sono esercitate dalle Commissioni di vigilanza istituite presso le Corti di appello e di cassazione ai termini dell'[art. 17 della legge 18 luglio 1907, n. 512](Cancellerie%20e%20segreterie%20giudiziarie.%20007U0512.md), per i funzionari dipendenti dalle medesime; per quelli in servizio al Ministero e' competente il Consiglio di disciplina del Ministero medesimo. 
  
@@ -276,7 +276,7 @@ Agli articoli 248, 269, 275 e 280 della tariffa civile modificati dalla [legge 1
 
 ### Art. 30.
 
-I funzionari delle cancellerie e segreterie giudiziarie, per gli effetti non regolati nel presente decreto e nelle leggi sull'ordinamento giudiziario, sono assimilati ai funzionari di seconda categoria a norma del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
+I funzionari delle cancellerie e segreterie giudiziarie, per gli effetti non regolati nel presente decreto e nelle leggi sull'ordinamento giudiziario, sono assimilati ai funzionari di seconda categoria a norma del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ### Art. 31.
 

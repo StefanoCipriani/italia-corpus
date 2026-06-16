@@ -24,9 +24,9 @@ Sulla proposta del Nostro Ministro segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-A decorrere dal 1° gennaio 1923 gli impiegati del gia' Ministero del tesoro entrano a far parte del ruolo costituito con [Regio decreto 21 dicembre 1922, n.1652](Concernente%20la%20fusione%20dei%20ruoli%20tra%20gli%20impiegati%20dellAmministrazione%20centrale%20e%20quelli%20delle%20Intendenze%20di%20finanza.%20022U1652.md), fra gli impiegati dell'Amministrazione centrale del Ministero delle finanze e quelli delle Intendenze di finanza. 
+A decorrere dal 1° gennaio 1923 gli impiegati del gia' Ministero del tesoro entrano a far parte del ruolo costituito con [Regio decreto 21 dicembre 1922, n.1652](../Regi%20decreti/Concernente%20la%20fusione%20dei%20ruoli%20tra%20gli%20impiegati%20dellAmministrazione%20centrale%20e%20quelli%20delle%20Intendenze%20di%20finanza.%20022U1652.md), fra gli impiegati dell'Amministrazione centrale del Ministero delle finanze e quelli delle Intendenze di finanza. 
  
- L'inquadramento dei personali di ciascuna carriera in parziale deroga alle disposizioni del citato [R. decreto 21 dicembre 1922, n. 1652](Concernente%20la%20fusione%20dei%20ruoli%20tra%20gli%20impiegati%20dellAmministrazione%20centrale%20e%20quelli%20delle%20Intendenze%20di%20finanza.%20022U1652.md), avra' luogo secondo l'anzianita' di nomina ed in base alla tabella annessa al presente decreto, vista, d'ordine Nostro, dal Ministro delle finanze coll'osservanza delle norme di cui appresso. 
+ L'inquadramento dei personali di ciascuna carriera in parziale deroga alle disposizioni del citato [R. decreto 21 dicembre 1922, n. 1652](../Regi%20decreti/Concernente%20la%20fusione%20dei%20ruoli%20tra%20gli%20impiegati%20dellAmministrazione%20centrale%20e%20quelli%20delle%20Intendenze%20di%20finanza.%20022U1652.md), avra' luogo secondo l'anzianita' di nomina ed in base alla tabella annessa al presente decreto, vista, d'ordine Nostro, dal Ministro delle finanze coll'osservanza delle norme di cui appresso. 
  
  Tale anzianita', per i gradi corrispondenti a quelli in vigore nel precedente sistema dei ruoli chiusi, e' determinata dalla data dell'ultimo decreto di promozione di classe nei gradi medesimi.
 

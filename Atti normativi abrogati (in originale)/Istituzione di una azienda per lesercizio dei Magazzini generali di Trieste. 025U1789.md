@@ -248,7 +248,7 @@ Gli impiegati di ruolo che all'atto della cessazione del comando rimangono in se
  
  Se non raggiungano tale minimo di servizio, avranno diritto ad una indennita' una volta tanto pari a tanti dodicesimi dello stipendio annuale goduto all'atto della cessazione del comando, quanti sono gli anni utili ai sensi del comma precedente. 
  
- Il personale di ruolo, che all'atto della cessazione del comando avra' dichiarato di non voler rimanere alle dipendenze dell'azienda o che pure avendo chiesto di rimanervi non possa trovarvi sistemazione per eventuale insufficienza dei posti stabiliti ai sensi del precedente art. 19, verra' collocato in diponibilita' ai sensi del [R. decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960). 
+ Il personale di ruolo, che all'atto della cessazione del comando avra' dichiarato di non voler rimanere alle dipendenze dell'azienda o che pure avendo chiesto di rimanervi non possa trovarvi sistemazione per eventuale insufficienza dei posti stabiliti ai sensi del precedente art. 19, verra' collocato in diponibilita' ai sensi del [R. decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Trascorso il periodo massimo di due anni senza che avvenga il richiamo ad un servizio dell'Amministrazione dello Stato il personale in disponibilita' avra' il trattamento di cui appresso: 
  

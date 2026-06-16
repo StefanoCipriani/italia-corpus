@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visti il decreto 30 dicembre 1923, n. 3244, ed il relativo regolamento approvato con [R. decreto 29 dicembre 1927, n. 2801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-29;2801);
+Visti il decreto 30 dicembre 1923, n. 3244, ed il relativo regolamento approvato con [R. decreto 29 dicembre 1927, n. 2801](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lassetto%20definitivo%20dei%20tratturi%20di%20Puglia%20e%20delle%20trazzere%20di%20Sicilia.%20027U2801.md);
 
 Considerata l'assoluta ed urgente necessita' di provvedere al pagamento delle spese di funzionamento degli Uffici di reintegra dei demanio armentizio, nonche' degli assegni dovuti al personale straordinario addetto ai servizi relativi, mediante emissione di ordini di accreditamento a favore dei rispettivi capi degli Uffici stessi;
 
@@ -30,7 +30,7 @@ Su proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le fores
 
 ## Articolo unico.
 
-Al pagamento delle spese di funzionamento del servizi del Commissariato della reintegra dei Regi tratturi di Foggia e dell'Ufficio tecnico speciale delle Regie trazzere di Palermo, nonche' degli assegni al personale straordinario comunque denominato addetto ai servizi medesimi, potra' provvedersi mediante ordini di accreditamento a favore dei direttori dei detti Uffici ai sensi dell'[art. 56, n. 10, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56-num10), sull'amministrazione e contabilita' generale dello Stato. 
+Al pagamento delle spese di funzionamento del servizi del Commissariato della reintegra dei Regi tratturi di Foggia e dell'Ufficio tecnico speciale delle Regie trazzere di Palermo, nonche' degli assegni al personale straordinario comunque denominato addetto ai servizi medesimi, potra' provvedersi mediante ordini di accreditamento a favore dei direttori dei detti Uffici ai sensi dell'[art. 56, n. 10, del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione e contabilita' generale dello Stato. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. 
  

@@ -18,7 +18,7 @@ Visto il testo unico delle leggi sull'ordinamento degli Istituti superiori di sc
 
 Visto il regolamento generale degli Istituti superiori di scienze economiche e commerciali, approvato con [R. decreto 8 luglio 1925, n. 1227](Approvazione%20del%20regolamento%20generale%20degli%20istituti%20superiori%20di%20scienze%20economiche%20e%20commerciali.%20025U1227.md);
 
-Visto il [R. decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), col quale l'Universita' commerciale « Luigi Bocconi » di Milano venne riconosciuta quale Istituto superiore libero di scienze economiche e commerciali e ne venne approvato lo statuto;
+Visto il [R. decreto 8 marzo 1925, n. 547](../Regi%20decreti/Riconoscimento%20dellUniversita%20commerciale%20Luigi%20Bocconi%20in%20Milano%20quale%20Istituto%20superiore%20libero%20di%20scienze%20economiche%20e%20commerciali.%20025U0547.md), col quale l'Universita' commerciale « Luigi Bocconi » di Milano venne riconosciuta quale Istituto superiore libero di scienze economiche e commerciali e ne venne approvato lo statuto;
 
 Vista la proposta del Consiglio di amministrazione della predetta Universita' in data 19 maggio 1928;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'istruzione pubblica
 
 ## Articolo unico.
 
-L'art. 7 dello statuto dell'Universita' commerciale « Luigi Bocconi » di Milano, approvato con [R. decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e' modificato come appresso: 
+L'art. 7 dello statuto dell'Universita' commerciale « Luigi Bocconi » di Milano, approvato con [R. decreto 8 marzo 1925, n. 547](../Regi%20decreti/Riconoscimento%20dellUniversita%20commerciale%20Luigi%20Bocconi%20in%20Milano%20quale%20Istituto%20superiore%20libero%20di%20scienze%20economiche%20e%20commerciali.%20025U0547.md), e' modificato come appresso: 
  
  « Il ruolo organico dei professori di materie fondamentali comprende tre posti. Ai professori di ruolo spetta il trattamento economico dei professori di ruolo dei Regi istituti superiori di scienze economiche e commerciali. 
  

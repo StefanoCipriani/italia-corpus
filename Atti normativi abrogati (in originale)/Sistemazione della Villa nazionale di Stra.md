@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 23 giugno 1938, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-06-23;1110);
 
-Visto il regolamento approvato con il [regio decreto 8 giugno 1933, n. 889](Approvazione%20del%20regolamento%20per%20lingresso%20ai%20monumenti%20ai%20musei%20alle%20gallerie%20ed%20agli%20scavi%20di%20antichita%20dello%20Stato.%20033U0889.md);
+Visto il regolamento approvato con il [regio decreto 8 giugno 1933, n. 889](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lingresso%20ai%20monumenti%20ai%20musei%20alle%20gallerie%20ed%20agli%20scavi%20di%20antichita%20dello%20Stato.%20033U0889.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

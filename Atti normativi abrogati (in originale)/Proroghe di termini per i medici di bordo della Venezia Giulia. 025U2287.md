@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;167);
+Veduto il [R. decreto 11 gennaio 1923, n. 167](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20vigente%20regolamento%20sulla%20sanita%20marittima.%20023U0167.md);
 
 Veduto il parere del Consiglio superiore di sanita';
 
@@ -26,11 +26,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Sono prorogati di un anno a far tempo dal 4 luglio 1925, i termini indicati al 2° ed al [3° comma dell'art. 3 del R. decreto 11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;167#art_3-com3).
+Sono prorogati di un anno a far tempo dal 4 luglio 1925, i termini indicati al 2° ed al [3° comma dell'art. 3 del R. decreto 11 gennaio 1923, n. 167](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20vigente%20regolamento%20sulla%20sanita%20marittima.%20023U0167.md).
 
 ## Art. 2.
 
-Alle sessioni di esami di idoneita', previste nel [3° comma dell'art. 3 del R. decreto 11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;167#art_3-com3), che potranno essere bandite prima della scadenza del 4 luglio 1926, i sanitari della Venezia Giulia, autorizzati provvisoriamente a continuare nell'esercizio delle funzioni di medico di bordo, potranno partecipare, indipendentemente dal limite di eta' di anni 35, fissato per l'ammissione agli esami di che trattasi, dall'[art. 1 del R. decreto 11 gennaio 1923, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;167#art_1). 
+Alle sessioni di esami di idoneita', previste nel [3° comma dell'art. 3 del R. decreto 11 gennaio 1923, n. 167](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20vigente%20regolamento%20sulla%20sanita%20marittima.%20023U0167.md), che potranno essere bandite prima della scadenza del 4 luglio 1926, i sanitari della Venezia Giulia, autorizzati provvisoriamente a continuare nell'esercizio delle funzioni di medico di bordo, potranno partecipare, indipendentemente dal limite di eta' di anni 35, fissato per l'ammissione agli esami di che trattasi, dall'[art. 1 del R. decreto 11 gennaio 1923, n. 167](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20vigente%20regolamento%20sulla%20sanita%20marittima.%20023U0167.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -22,7 +22,7 @@ Nella dimensione, nella filigrana, nei distintivi del bollo, nel fregio di conto
 
 La vendita dei nuovi fogli di carta filigranata per cambiali avra' principio dopo il 31 dicembre 1916 a misura che gli uffici del registro ne saranno provvisti. Intanto continueranno ad impiegarsi i fogli bollati ora esistenti, integrando la maggior tassa dovuta in corrispondenza dei tagli di valore stabiliti dall'[art. 3 del decreto Luogotenenziale 31 agosto 1916, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-08-31;1090#art_3), allegato F, mediante applicazione di marche complementari a tassa graduale o fissa. 
  
- In complesso non potranno applicarsi piu' di quattro marche per ciascuna cambiale od effetto di commercio, ed il loro annullamento potra' farsi o dall'ufficio del registro o dallo stesso emittente o traente della cambiale nel modo stabilito dall'art. 2 del regolamento approvato col [R. decreto 7 settembre 1908, n. 557](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20riguardante%20la%20riduzione%20delle%20tasse%20di%20bollo%20sulle%20cambiali%20ed%20altri%20effetti%20di%20commercio.%20008U0557.md).
+ In complesso non potranno applicarsi piu' di quattro marche per ciascuna cambiale od effetto di commercio, ed il loro annullamento potra' farsi o dall'ufficio del registro o dallo stesso emittente o traente della cambiale nel modo stabilito dall'art. 2 del regolamento approvato col [R. decreto 7 settembre 1908, n. 557](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20riguardante%20la%20riduzione%20delle%20tasse%20di%20bollo%20sulle%20cambiali%20ed%20altri%20effetti%20di%20commercio.%20008U0557.md).
 
 ## Art. 4.
 

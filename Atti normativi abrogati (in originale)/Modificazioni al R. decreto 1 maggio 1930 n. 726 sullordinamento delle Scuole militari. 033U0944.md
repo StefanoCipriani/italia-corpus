@@ -20,7 +20,7 @@ Visto il [R. decreto 10 febbraio 1927, n. 443](Approvazione%20del%20regolamento%
 
 Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito approvato col [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md);
 
-Visto il [R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726), sull'ordinamento delle Scuole militari;
+Visto il [R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), sull'ordinamento delle Scuole militari;
 
 Udito il parere del Consiglio di Stato;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per la guerra, di concerto col M
 
 ## Art. 1.
 
-L'[art. 8 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726#art_8), e' sostituito dal seguente: 
+L'[art. 8 del R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), e' sostituito dal seguente: 
  
  «I corsi ordinari e speciali si svolgono in due anni scolastici; i corsi di abilitazione, in un anno scolastico. 
  
@@ -38,7 +38,7 @@ L'[art. 8 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-
 
 ## Art. 2.
 
-All'[art. 15 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726#art_15), e' sostituito il seguente: 
+All'[art. 15 del R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), e' sostituito il seguente: 
  
  «Salvo le facilitazioni e le dispense previste dai successivi articoli, le spese a carico delle famiglie degli allievi dei corsi ordinari delle Accademie militari, sono fissate nella misura seguente: 
  
@@ -50,13 +50,13 @@ All'[art. 15 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/u
 
 ## Art. 3.
 
-Al [comma 2, lettera b), dell'art. 18 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726#art_18-com2-letb), e' sostituito il seguente: 
+Al [comma 2, lettera b), dell'art. 18 del R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), e' sostituito il seguente: 
  
  «Ai figli degli ufficiali del Regio esercito, della Regia marina, della Regia», aeronautica, della Regia guardia di finanza, della M.V.S.N. e degli impiegati di ruolo delle Amministrazioni dello Stato in servizio o a riposo».
 
 ## Art. 4.
 
-Al [R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726), e' aggiunto il seguente articolo 18-bis: 
+Al [R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), e' aggiunto il seguente articolo 18-bis: 
  
  «E' in facolta' del Ministro per la guerra di assegnare ad allievi del 1° o del 2° anno dei corsi ordinari delle Accademie appartenenti a famiglie di disagiate condizioni economiche e che ne siano riconosciuti meritevoli, posti gratuiti comprendenti la esenzione dalla intera spesa di retta, prima vestizione o manutenzione corredo. 
  

@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), modificata dalla [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md);
 
-Visto il [regio decreto 23 marzo 1933, n. 185](Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), con il quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e successive modificazioni;
+Visto il [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), con il quale venne approvato il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e successive modificazioni;
 
 Visto il [regio decreto-legge 4 marzo 1937, n. 304](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20037U0304.md), nonche' la [legge 25 gennaio 1940, n. 4](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20040U0004.md), concernenti il riordinamento dei ruoli del personale dell'Amministrazione finanziaria;
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Qualora gli istituti ospedalieri di cui all'[art. 303 - comma secondo - del testo unico leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_303-com2), approvato con R. decreto 27 luglio 1934-XII, n. 1265, non siano in condizione, per deficienza di rendite, di assolvere interamente l'obbligo statutario del ricovero dei malati venerei in fase contagiante, le spese di degenza sono a carico dello Stato per la quota eccedente la media delle spese sostenute, allo stesso titolo, dai medesimi istituti, nel triennio precedente l'esercizio nel quale si verifica la deficienza predetta. 
+ Qualora gli istituti ospedalieri di cui all'[art. 303 - comma secondo - del testo unico leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265, non siano in condizione, per deficienza di rendite, di assolvere interamente l'obbligo statutario del ricovero dei malati venerei in fase contagiante, le spese di degenza sono a carico dello Stato per la quota eccedente la media delle spese sostenute, allo stesso titolo, dai medesimi istituti, nel triennio precedente l'esercizio nel quale si verifica la deficienza predetta. 
  
  Tale media e' accertata dal Ministero dell'interno di concerto con quello delle finanze. 
  

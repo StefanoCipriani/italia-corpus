@@ -10,11 +10,11 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e successive modificazioni;
 
 Visto il [regio decreto 14 luglio 1937, n. 1728](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-07-14;1728), convertito nella legge 23 dicembre detto anno, n. 2592, recante nuove disposizioni per agevolare la concessione delle filovie;
 
-Visto l'art. 4 della convenzione 30 maggio 1938, approvata con [regio decreto 23 giugno 1938, n. 1101](Approvazione%20della%20convenzione%20per%20la%20concessione%20alla%20Societa%20anonima%20tramvie%20elettriche%20liguri%20della%20filovia%20Taggia%20-%20Arma%20di%20Taggia%20-%20San%20Remo%20-%20Ospedaletti%20-%20Bordighera%20-%20Ventimiglia%20_0dd363941590.md), per la concessione alla Societa' anonima Tramvie Elettriche Liguri (S.T.E.L.) dell'impianto e dell'esercizio della filovia Taggia-Arma di Taggia-San Remo- Ospedaletti-Bordighera-Ventimiglia, con diramazione Arma di Taggia-Riva S. Stefano, col quale venne fissato in anni due - dalla data di approvazione del progetto esecutivo - la ultimazione dei lavori di impianto della linea;
+Visto l'art. 4 della convenzione 30 maggio 1938, approvata con [regio decreto 23 giugno 1938, n. 1101](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20la%20concessione%20alla%20Societa%20anonima%20tramvie%20elettriche%20liguri%20della%20filovia%20Taggia%20-%20Arma%20di%20Taggia%20-%20San%20Remo%20-%20Ospedaletti%20-%20Bordighera%20-%20Ventimiglia%20_0dd363941590.md), per la concessione alla Societa' anonima Tramvie Elettriche Liguri (S.T.E.L.) dell'impianto e dell'esercizio della filovia Taggia-Arma di Taggia-San Remo- Ospedaletti-Bordighera-Ventimiglia, con diramazione Arma di Taggia-Riva S. Stefano, col quale venne fissato in anni due - dalla data di approvazione del progetto esecutivo - la ultimazione dei lavori di impianto della linea;
 
 Visto il [decreto Ministeriale 20 giugno 1939, n. 2448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1939-06-20;2448), col quale venne approvato in linea tecnica il progetto di cui sopra, subordinatamente all'osservanza delle prescrizioni, osservazioni ed avvertenze contenute nel voto 19 maggio 1939, n. 772, del Consiglio superiore dei lavori pubblici;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per i trasporti; Decreta:
 
 ## Articolo unico.
 
-Il termine di ultimazione dei lavori per l'impianto della filovia Taggia-Arma di Taggia-San Remo-Ospedaletti-Bordighera-Ventimiglia con diramazione Arma di Taggia-Riva S. Stefano, concessa alla Societa' Tramvie Elettriche Liguri con atto 30 maggio 1938, approvato con [regio decreto 23 giugno 1938, n. 1101](Approvazione%20della%20convenzione%20per%20la%20concessione%20alla%20Societa%20anonima%20tramvie%20elettriche%20liguri%20della%20filovia%20Taggia%20-%20Arma%20di%20Taggia%20-%20San%20Remo%20-%20Ospedaletti%20-%20Bordighera%20-%20Ventimiglia%20_0dd363941590.md), viene ulteriormente fissato al 31 dicembre 1948.
+Il termine di ultimazione dei lavori per l'impianto della filovia Taggia-Arma di Taggia-San Remo-Ospedaletti-Bordighera-Ventimiglia con diramazione Arma di Taggia-Riva S. Stefano, concessa alla Societa' Tramvie Elettriche Liguri con atto 30 maggio 1938, approvato con [regio decreto 23 giugno 1938, n. 1101](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20la%20concessione%20alla%20Societa%20anonima%20tramvie%20elettriche%20liguri%20della%20filovia%20Taggia%20-%20Arma%20di%20Taggia%20-%20San%20Remo%20-%20Ospedaletti%20-%20Bordighera%20-%20Ventimiglia%20_0dd363941590.md), viene ulteriormente fissato al 31 dicembre 1948.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

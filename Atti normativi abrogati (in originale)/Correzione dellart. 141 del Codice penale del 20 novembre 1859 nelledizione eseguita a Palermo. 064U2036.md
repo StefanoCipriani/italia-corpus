@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la legge del 3 dicembre 1860, con cui fu data facolta' al Governo di accettare l'annessione di nuove Provincie;
 
-Visto il Decreto del Nostro Luogotenente Generale per le Provincie Siciliane del di' 17 febbraio 1861, con coi fu ordinata la pubblicazione nelle Provincie suddette del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con legge del 20 novembre 1859;
+Visto il Decreto del Nostro Luogotenente Generale per le Provincie Siciliane del di' 17 febbraio 1861, con coi fu ordinata la pubblicazione nelle Provincie suddette del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) approvato con legge del 20 novembre 1859;
 
 Considerando che nella edizione ufficiale del detto Codice eseguita in Palermo, nell'art. 141 e' corsa una menda tipografica tale da alterare la disposizione ivi contenuta, ed e' percio' necessario ristabilirne esattamente il tenore, riproducendo nella sua integrita' quello contenuto nella edizione ufficiale approvata e promulgata con la legge succennata;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato di Grazia 
 
 ## Articolo unico.
 
-L'[articolo 141 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859, nell'edizione eseguita a Palermo, rimane corretto e stabilito nel seguente modo: 
+L'[articolo 141 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859, nell'edizione eseguita a Palermo, rimane corretto e stabilito nel seguente modo: 
  
  «Art. 141. L'azione penale per le ingiurie verbali punibili in via correzionale si prescrive in sei mesi; se le ingiurie sono punibili con pena di polizia si prescrive in un mese; i sei mesi od il mese rispettivamente decorrono dal giorno del commesso reato, o, se vi fu processo, dall'ultimo atto del medesimo.» 
  

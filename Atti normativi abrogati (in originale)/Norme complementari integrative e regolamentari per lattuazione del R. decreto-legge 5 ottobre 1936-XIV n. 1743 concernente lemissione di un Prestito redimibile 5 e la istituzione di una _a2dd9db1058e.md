@@ -50,7 +50,7 @@ Gli interessi, relativi alle obbligazioni del nuovo prestito, decorreranno dal 1
 
 ### Art. 5.
 
-Tutte le operazioni, considerate nel [testo unico delle leggi sul debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536, e nel relativo [regolamento 19 febbraio 1911, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-19;298), sono ammesse, con l'osservanza delle medesime norme e con le medesime agevolezze, per i titoli al portatore o nominativi del nuovo prestito redimibile 5 per cento. 
+Tutte le operazioni, considerate nel [testo unico delle leggi sul debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536, e nel relativo [regolamento 19 febbraio 1911, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-19;298), sono ammesse, con l'osservanza delle medesime norme e con le medesime agevolezze, per i titoli al portatore o nominativi del nuovo prestito redimibile 5 per cento. 
  
  E' consentita la divisione dei titoli multipli al portatore, in altri di valore inferiore, nonche' la riunione dei tagli unitari o multipli, della medesima serie e dello stesso gruppo, con numerazione progressiva, in altri di valore maggiore.
 
@@ -413,7 +413,7 @@ Per quanto non sia diversamente stabilito nel presente titolo si osservano le di
  
  Le dichiarazioni, le domande di detrazione dei crediti ipotecari e le relative documentazioni possono essere presentate all'ufficio municipale nei Comuni ove manchi l'Ufficio delle imposte. 
  
- In ogni caso e' consentito l'invio di tali atti all'Ufficio delle imposte competente a mezzo lettera raccomandata con ricevuta di ritorno, ai sensi dell'[art. 12 del R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608#art_12).
+ In ogni caso e' consentito l'invio di tali atti all'Ufficio delle imposte competente a mezzo lettera raccomandata con ricevuta di ritorno, ai sensi dell'[art. 12 del R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md).
 
 ## Disposizioni concernenti la consegna dei titoli relativi alla sottoscrizione dei possessori di terreni e fabbricati.
 
@@ -537,7 +537,7 @@ TITOLO V.
 
 Non hanno efficacia alcuna i sequestri, i pignoramenti, le opposizioni o qualsiasi altro impedimento che vengano notificati alle Sezioni di Regia tesoreria provinciale, agli istituti di credito, alla Direzione generale del Debito pubblico o ad altri uffici della pubblica amministrazione, i quali stano incaricati dell'esecuzione delle operazioni considerate nel presente decreto, salvo rimanendo l'esperimento di tali atti presso qualsiasi altra persona od ente, che venga in possesso di detti titoli. 
  
- Gli intestatari dei certificati provvisori all'ordine, ovvero le persone che si siano avvalse della facolta' indicata nel precedente art. 51, potranno denunziare alla Direzione generale del Debito pubblico la distruzione, o lo smarrimento, o la sottrazione dei certificati o delle quietanze contenenti la delega, per conseguire, nel primo caso, l'emissione di duplicati e, nel secondo, la consegna dei noli definitivi senza la presentazione delle quietanze distrutte, smarrite o sottratte, previa l'osservanza delle disposizioni contenute nel [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [Regio decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e nel relativo [regolamento 19 febbraio 1911, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-19;298). 
+ Gli intestatari dei certificati provvisori all'ordine, ovvero le persone che si siano avvalse della facolta' indicata nel precedente art. 51, potranno denunziare alla Direzione generale del Debito pubblico la distruzione, o lo smarrimento, o la sottrazione dei certificati o delle quietanze contenenti la delega, per conseguire, nel primo caso, l'emissione di duplicati e, nel secondo, la consegna dei noli definitivi senza la presentazione delle quietanze distrutte, smarrite o sottratte, previa l'osservanza delle disposizioni contenute nel [testo unico delle leggi sul Debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [Regio decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), e nel relativo [regolamento 19 febbraio 1911, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-02-19;298). 
  
  Per contro i certificati provvisori al portatore e le quietanze, non munite di delega, sono a rischio e pericolo dei possessori o detentori di essi; e in nessun caso se ne potranno emettere duplicati.
 

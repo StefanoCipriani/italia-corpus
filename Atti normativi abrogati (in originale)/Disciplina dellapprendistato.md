@@ -190,7 +190,7 @@ svolto, con l'osservanza delle norme in vigore per la tenuta delle tessere assic
  d) per l'assicurazione contro la tubercolosi, lire 20. 
  Nessun onere contributivo grava sull'apprendista. 
  Nei casi in cui la misura delle prestazioni derivanti dalle 
-assicurazioni sociali, indicate nell'articolo precedente, e' determinata in relazione all'ammontare della retribuzione, questa in nessun caso potra' essere considerata in cifra inferiore alle lire 300 giornaliere. Resta ferma, nell'assicurazione contro gli infortuni sul lavoro e le malattie professionali, l'applicazione della disposizione contenuta nell'[art. 41, lettera b), del regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765#art_41-letb). 
+assicurazioni sociali, indicate nell'articolo precedente, e' determinata in relazione all'ammontare della retribuzione, questa in nessun caso potra' essere considerata in cifra inferiore alle lire 300 giornaliere. Resta ferma, nell'assicurazione contro gli infortuni sul lavoro e le malattie professionali, l'applicazione della disposizione contenuta nell'[art. 41, lettera b), del regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md). 
  Nel corso del primo quinquennio di applicazione della presente legge, se particolari esigenze lo richiedano a vantaggio della mutualita' o delle categorie interessate, il valore delle marche settimanali, previste nel primo comma e la misura minima di retribuzione, indicata nel comma precedente, possono essere modificati con decreto del Presidente della Repubblica su proposta del Ministro per il lavoro e la previdenza sociale.
 
 ## Sanzioni penali
@@ -202,7 +202,7 @@ TITOLO SETTIMO
 I datori di lavoro sono puniti:
  a) con l'ammenda da lire 2000 a lire 10 mila per ogni apprendista assunto in contravvenzione all'obbligo previsto dal secondo comma dell'art. 3;
  b) con l'ammenda da lire 1000 a lire 5000 per ogni violazione delle norme dell'art. 11.
- Nelle contravvenzioni previste dalla presente legge il contravventore, prima dell'apertura del dibattimento ovvero prima del decreto di condanna, puo' presentare domanda di oblazione all'Ispettorato del lavoro, che determinera' la somma da pagarsi entro i limiti minimo e massimo dell'ammenda stabilita, prefissando il termine per effettuare il pagamento, a norma dell'[art. 162 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Nelle contravvenzioni previste dalla presente legge il contravventore, prima dell'apertura del dibattimento ovvero prima del decreto di condanna, puo' presentare domanda di oblazione all'Ispettorato del lavoro, che determinera' la somma da pagarsi entro i limiti minimo e massimo dell'ammenda stabilita, prefissando il termine per effettuare il pagamento, a norma dell'[art. 162 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 24.
 

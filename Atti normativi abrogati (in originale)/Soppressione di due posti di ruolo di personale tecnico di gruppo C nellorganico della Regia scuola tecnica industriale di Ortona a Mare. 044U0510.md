@@ -15,13 +15,13 @@ UMBERTO DI SAVOIA
  LUOGOTENENTE GENERALE DEL REGNO 
  
  In virtu' dell'autorita' a Noi delegata; 
- Visto il [R. decreto 4 luglio 1941, n. 1073](Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), riguardante l'istituzione di nuove scuole medie e corsi di scuole medie; 
+ Visto il [R. decreto 4 luglio 1941, n. 1073](../Regi%20decreti/Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), riguardante l'istituzione di nuove scuole medie e corsi di scuole medie; 
  Vista la tabella D (prospetto n. 3) allegata al Predetto Regio decreto; 
  Considerata l'opportunita' di ridurre di due posti di ruolo di personale tecnico di gruppo C l'organico della Regia scuola tecnica industriale di Ortona a Mare previsto dalla citata tabella D; 
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno, per il tesoro e per l'industria, commercio e lavoro; 
  Abbiamo decretato e decretiamo; 
  
- Con decorrenza dal 16 ottobre 1940; sono soppressi due posti di ruolo di personale tecnico di gruppo previsti dalla tabella D (prospetto n. 3), dell'organico della Regia scuola tecnica industriale di Ortona a Mare, allegata al [R. decreto 4 luglio 1941, n. 1073](Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), concernente l'istituzione di nuove scuole medie e corsi di scuole medie. 
+ Con decorrenza dal 16 ottobre 1940; sono soppressi due posti di ruolo di personale tecnico di gruppo previsti dalla tabella D (prospetto n. 3), dell'organico della Regia scuola tecnica industriale di Ortona a Mare, allegata al [R. decreto 4 luglio 1941, n. 1073](../Regi%20decreti/Istituzione%20di%20nuove%20scuole%20medie%20e%20corsi%20di%20scuole%20medie.%20041U1073.md), concernente l'istituzione di nuove scuole medie e corsi di scuole medie. 
  
  Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare. 
  

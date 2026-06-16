@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 4 novembre 1926, n. 1858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;1858), col quale il comune di Sopramonte e' stato aggregato al comune di Trento e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Trento alla diretta amministrazione del comune autonomo di Trento, a decorrere dal 1 gennaio 1929; 
+ Visto il [R. decreto 4 novembre 1926, n. 1858](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Sopramonte%20a%20quello%20di%20Trento.%20026U1858.md), col quale il comune di Sopramonte e' stato aggregato al comune di Trento e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Trento alla diretta amministrazione del comune autonomo di Trento, a decorrere dal 1 gennaio 1929; 
  
  Visto l'[art. 11 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md), col quale le disposizioni contenute nel 3 e 4 comma dell'art. 1 della stessa legge, per quanto riguarda i concorsi e rimborsi scolastici dovuti dallo Stato ai Comuni che hanno la diretta amministrazione delle scuole elementari, si applicano anche per le scuole amministrate dai Regi provveditori agli studi nei Comuni aggregati ad altri che abbiano invece la diretta amministrazione delle scuole; 
  

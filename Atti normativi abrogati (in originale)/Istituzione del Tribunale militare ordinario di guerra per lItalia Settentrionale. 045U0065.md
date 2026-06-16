@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'ordinamento giudiziario militare approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022);
+Visto l'ordinamento giudiziario militare approvato con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -38,7 +38,7 @@ La competenza territoriale dei Tribunale di guerra per l'Italia Settentrionale s
 
 ## Art. 4.
 
-Il Tribunale militare di guerra per l'Italia Settentrionale puo' essere convocato come Tribunale di guerra straordinario nei casi previsti dall'[art. 283 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra e dall'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), per disposizione del Capo di Stato Maggiore Generale. 
+Il Tribunale militare di guerra per l'Italia Settentrionale puo' essere convocato come Tribunale di guerra straordinario nei casi previsti dall'[art. 283 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra e dall'[art. 4 del R. decreto-legge 29 luglio 1943, n. 668](Soppressione%20del%20Tribunale%20speciale%20per%20la%20difesa%20della%20Stato.%20043U0668.md), per disposizione del Capo di Stato Maggiore Generale. 
  
 La convocazione come Tribunale straordinario, quando eccezionali circostanze lo richiedano, puo' essere disposta anche per tutti i procedimenti da trattare in una determinata localita' e per un determinato periodo di tempo.
 

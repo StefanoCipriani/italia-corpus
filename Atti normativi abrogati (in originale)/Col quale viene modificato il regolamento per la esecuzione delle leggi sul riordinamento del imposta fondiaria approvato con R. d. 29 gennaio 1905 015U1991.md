@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Agli articoli 3, 20, 22 e 163 del regolamento per la esecuzione delle leggi sul riordinamento dell'imposta fondiaria, approvato con [R. decreto 26 gennaio 1905, n. 65](Che%20approva%20e%20contiene%20il%20regolamento%20per%20lesecuzione%20delle%20leggi%20sul%20riordinamento%20dellimposta%20fondiaria.%20005U0065.md), sono sostituiti i seguenti: 
+Agli articoli 3, 20, 22 e 163 del regolamento per la esecuzione delle leggi sul riordinamento dell'imposta fondiaria, approvato con [R. decreto 26 gennaio 1905, n. 65](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20lesecuzione%20delle%20leggi%20sul%20riordinamento%20dellimposta%20fondiaria.%20005U0065.md), sono sostituiti i seguenti: 
  
  Art. 3. - Il Consiglio si compone di un presidente e sei membri nominati con decreto del ministro delle finanze, tra le persone competenti nelle materie geodetiche, topografiche e di estimo rurale. 
  

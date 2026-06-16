@@ -20,9 +20,9 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 19 aprile 1868, n. 4349](Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), col quale venne stabilito l'ordine per le precedenze fra le varie cariche e dignita' a Corte e nelle pubbliche funzioni;
+Visto il [R. decreto 19 aprile 1868, n. 4349](../Regi%20decreti/Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), col quale venne stabilito l'ordine per le precedenze fra le varie cariche e dignita' a Corte e nelle pubbliche funzioni;
 
-Visto il [R. decreto 26 aprile 1914, n. 347](Col%20quale%20viene%20provveduto%20a%20diverse%20classificazioni%20nei%20riguardi%20delle%20precedenze%20a%20Corte%20e%20nelle%20pubbliche%20funzioni.%20014U0347.md);
+Visto il [R. decreto 26 aprile 1914, n. 347](../Regi%20decreti/Col%20quale%20viene%20provveduto%20a%20diverse%20classificazioni%20nei%20riguardi%20delle%20precedenze%20a%20Corte%20e%20nelle%20pubbliche%20funzioni.%20014U0347.md);
 
 Udito il Consiglio dei ministri;
 

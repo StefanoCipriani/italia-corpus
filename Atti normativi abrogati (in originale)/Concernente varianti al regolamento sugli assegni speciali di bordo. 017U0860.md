@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 16 maggio 1907, n. 406](Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), che approva il regolamento sugli assegni speciali di bordo ed i successivi decreti che lo modificano; 
+ Visto il [R. decreto 16 maggio 1907, n. 406](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sugli%20assegni%20speciali%20di%20bordo.%20007U0406.md), che approva il regolamento sugli assegni speciali di bordo ed i successivi decreti che lo modificano; 
  
  Sentito il Consiglio superiore di marina; 
  

@@ -61,7 +61,7 @@ Ai fini del presente regolamento si intendono:
                                 per "mutuo", il mutuo senza interessi a favore delle vittime dell'usura previsto dall'[articolo 14 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_14).
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unicodelle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alla quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unicodelle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alla quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Nota al titolo: 
  - Si riporta il testo dell'[art. 21 della legge 23 febbraio 1999, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-23;44#art_21) (Disposizioni concernenti il Fondo di solidarieta' per le vittime delle richieste estorsive e dell'usura): 
  "Art. 21 (Regolamento di attuazione). - 1. Con regolamento emanato entro il termine di sei mesi dalla data di entrata in vigoredella presente legge, ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), il Governo adotta norme per: 
@@ -92,7 +92,7 @@ Avvertenza:
  10. Le disposizioni di cui al presente articolo si applicano ai fattiverificatisi a partire dal 1 gennaio 1996. Le erogazioni di cui al presente articolo sono concesse nei limiti delle disponibilita' del fondo. 
  11. Il fondo e' alimentato: 
  a) da uno stanziamento a carico del bilancio dello Stato pari a lire 10 miliardi per l'anno 1996 e a lire 20 miliardi a decorrere dal 1997; al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro perl'anno 1996, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero di grazia e giustizia. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio; 
- b) dai beni rivenienti dalla confisca ordinaria ai sensi dell'[art. 644, sesto comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ b) dai beni rivenienti dalla confisca ordinaria ai sensi dell'[art. 644, sesto comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  c) da donazioni e lasciti da chiunque effettuati. 
  12. E' comunque fatto salvo il principio di unita' di bilancio di cui all'[art. 5, legge 5 agosto 1978, n. 468](Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni. 
  13. Il Governo adotta, ai sensi dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17), apposito regolamento di attuazione entro sei mesi dalla data di entrata in vigore della presente legge". 
@@ -110,7 +110,7 @@ Avvertenza:
  [legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108); 
  decreto del Ministro del tesoro 6 agosto 1996, pubblicato nella Gazzetta Ufficiale n. 189 del 13 agosto 1996; 
  [decreto del Presidente della Repubblica 29 gennaio 1997, n. 51](Regolamento%20di%20attuazione%20dellarticolo%2014%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20Fondo%20di%20solidarieta%20per%20le%20vittime%20dellusura.md); 
- [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](../DPR/Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md). 
+ [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md). 
  57) Procedimento di sostegno alle vittime del racket: 
  [decreto-legge 31 dicembre 1991, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-12-31;419), convertito, con modificazioni, dalla [legge 18 febbraio 1992, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%201991%20n.%20419%20recante%20istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md); 
  [decreto del Ministro dell'industria, del commercio e dell'artigianato 12 agosto 1992, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato:decreto:1992-08-12;396); 
@@ -449,7 +449,7 @@ Nei casi di lesioni personali o di decesso, ai fini dell'accertamento del nesso 
 
 2.
 
-Il prefetto, ai fini dell'accertamento indicato al comma 1, richiede immediatamente il giudizio sanitario della commissione medica ospedaliera di cui all'[articolo 165 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e successive modificazioni, trasmettendo la documentazione necessaria.
+Il prefetto, ai fini dell'accertamento indicato al comma 1, richiede immediatamente il giudizio sanitario della commissione medica ospedaliera di cui all'[articolo 165 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), e successive modificazioni, trasmettendo la documentazione necessaria.
 
 3.
 
@@ -461,7 +461,7 @@ La valutazione della commissone medica ospedaliera non e' richiesta in caso di d
 
 Note all'art. 12: 
  - Per l'argomento della [legge 20 ottobre 1990, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302), vedasi nelle note all'art. 9. 
- - Si riporta il testo vigente dell'[art. 165 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md) (Approvazione del testo unico delle norme sul trattamento di quiescenza dei dipendenti civili e militari dello Stato): 
+ - Si riporta il testo vigente dell'[art. 165 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md) (Approvazione del testo unico delle norme sul trattamento di quiescenza dei dipendenti civili e militari dello Stato): 
  "Art. 165 (Commissioni mediche ospedaliere). - Il giudizio sanitario sulle cause e sull'entita' delle menomazioni dell'integrita' fisica del dipendente ovvero sulle cause della sua morte e' espresso dalle commissioni mediche ospedaliere istituite: 
  a) presso gli ospedali militari principali o secondari dei comandi militari territoriali di regione; 
  b) presso gli ospedali militari marittimi e le infermerie autonome militari marittime; 

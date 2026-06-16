@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md);
+Visto il [R. decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md);
 
 Visti i [Regi decreti-legge 30 dicembre 1924, n. 2104](Disposizioni%20riguardanti%20la%20nuova%20imposta%20complementare%20sui%20redditi%20di%20categoria%20D.%20024U2104.md); [4 gennaio 1925, n. 2](Imposta%20complementare%20sul%20reddito.%20025U0002.md), e [26 febbraio 1925, n. 241](Norme%20per%20la%20denunzia%20e%20per%20il%20pagamento%20dellimposta%20complementare%20sui%20redditi%20di%20categoria%20D.%20025U0241.md);
 
-Visto il [R. decreto 19 febbraio 1925, n. 177](Aliquote%20dellimposta%20complementare%20sul%20reddito.%20025U0177.md);
+Visto il [R. decreto 19 febbraio 1925, n. 177](../Regi%20decreti/Aliquote%20dellimposta%20complementare%20sul%20reddito.%20025U0177.md);
 
-Visto il [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), che approva il testo unico per la riscossione delle imposte dirette;
+Visto il [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), che approva il testo unico per la riscossione delle imposte dirette;
 
 Udito il Consiglio dei Ministri;
 

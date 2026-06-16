@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 30 novembre 1919, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-30;23)l8, che approva il [testo unico delle leggi sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica e le successive disposizioni in materia;
+Visto il [R. decreto-legge 30 novembre 1919, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-30;23)l8, che approva il [testo unico delle leggi sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica e le successive disposizioni in materia;
 
 Considerata l'assoluta urgenza e necessita' che siano emanate norme dirette a disciplinare il condominio nelle cooperative edilizie a contributo statale e mutuo della Cassa depositi e prestiti;
 
@@ -310,7 +310,7 @@ La Cassa depositi e prestiti, in caso di inadempimento da parte dei condomini, p
 
 ### Art. 36.
 
-Contro il condomino di alloggio cooperativo che si renda moroso per due volte della quota di ammortamento e degli accessori, la Cassa depositi e prestiti e' autorizzata a eseguire la trattenuta sullo stipendio e sulla pensione con effetto continuativo per le rate scadute e da scadere a norma dell'[art. 65, secondo comma, del R. decreto 12 marzo 1908, n. 151](Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md). 
+Contro il condomino di alloggio cooperativo che si renda moroso per due volte della quota di ammortamento e degli accessori, la Cassa depositi e prestiti e' autorizzata a eseguire la trattenuta sullo stipendio e sulla pensione con effetto continuativo per le rate scadute e da scadere a norma dell'[art. 65, secondo comma, del R. decreto 12 marzo 1908, n. 151](../Regi%20decreti/Che%20approva%20il%20regolamento%20di%20esecuzione%20alla%20legge%2011%20luglio%201907%20n.%20502%20portante%20provvedimenti%20per%20la%20citta%20di%20Roma.%20008U0151.md). 
  
  Qualora l'assegnatario non sia provvisto di stipendio o di pensione, la Cassa depositi puo' eseguire la trattenuta sulla cauzione costituita a garanzia del pagamento delle quote obbligando l'assegnatario alla reintegrazione di detta cauzione.
 

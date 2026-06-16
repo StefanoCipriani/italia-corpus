@@ -124,7 +124,7 @@ Non potranno essere assunti all'ufficio di giurati:
  
  4° Gli avvocati e procuratori rimossi dallo esercizio della loro professione; 
  
- 5° Le persone sospette secondo il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ 5° Le persone sospette secondo il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 7.
 

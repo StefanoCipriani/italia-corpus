@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il R. decreto-legge 16 dicembre 1938-XVII, n. 1949;
 
-Visto il [testo unico delle leggi di P. S.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) approvato con R. decreto 18 giugno 1931-IX, n. 773, e il relativo regolamento;
+Visto il [testo unico delle leggi di P. S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con R. decreto 18 giugno 1931-IX, n. 773, e il relativo regolamento;
 
 Visto l'art. 1, n. 1, della legge 31 gennaio 1926-IV, n. 100;
 

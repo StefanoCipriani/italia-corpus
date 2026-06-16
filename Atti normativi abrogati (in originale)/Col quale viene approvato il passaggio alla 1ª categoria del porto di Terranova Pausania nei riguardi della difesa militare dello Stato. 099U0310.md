@@ -16,7 +16,7 @@ UMBERTO I
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 giugno 1888, n. 5477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-06-03;5477), mediante il quale il porto di Terranova Pausania, in provincia di Sassari, fu iscritto nella seconda classe (serie seconda) della seconda categoria; 
+ Visto il [R. decreto 3 giugno 1888, n. 5477](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20classificazione%20nella%202ª%20categoria%20e%20nelle%20classi%20rispettivamente%20indicate%20degli%2011%20porti%20marittimi%20compresi%20negli%20elenchi%20annessi.%20088U5477.md), mediante il quale il porto di Terranova Pausania, in provincia di Sassari, fu iscritto nella seconda classe (serie seconda) della seconda categoria; 
  
  Ritenuto che il detto porto, potendo servire di sicuro rifugio alle navi della marina militare, ha i requisiti voluti dalla legge per essere promosso alla prima categoria; 
  

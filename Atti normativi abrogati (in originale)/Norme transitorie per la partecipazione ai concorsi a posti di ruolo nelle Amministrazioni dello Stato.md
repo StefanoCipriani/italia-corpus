@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'[art. 5 del regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_5);
+Visto l'[art. 5 del regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926 n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Articolo unico.
 
-I candidati nei concorsi a posti di ruolo nelle Amministrazioni statali, la cui graduatoria sia stata approvata anteriormente alla data di pubblicazione del [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27), qualora, si trovino nelle condizioni previste dal primo comma dell'art. 7 del regio decreto-legge l° aprile 1935, n. 343, sono ammessi a sostenere le sole prove orali del primo concorso pubblico che venga bandito per il reclutamento nello stesso ruolo dopo la data di entrata in vigore del presente decreto e successivamente al loro congedamento.
+I candidati nei concorsi a posti di ruolo nelle Amministrazioni statali, la cui graduatoria sia stata approvata anteriormente alla data di pubblicazione del [regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), qualora, si trovino nelle condizioni previste dal primo comma dell'art. 7 del regio decreto-legge l° aprile 1935, n. 343, sono ammessi a sostenere le sole prove orali del primo concorso pubblico che venga bandito per il reclutamento nello stesso ruolo dopo la data di entrata in vigore del presente decreto e successivamente al loro congedamento.
  La votazione riportata dai candidati predetti nelle prove scritte del precedente concorso e' valutata ai fini della formazione della graduatoria dei candidati del concorso successivo cui partecipano ai sensi dei precedente comma.
  Il beneficio concesso al primo comma non compete a coloro i quali anteriormente alla data di entrata in vigore del presente decreto abbiano partecipato ad altro concorso per il reclutamento nel ruolo cui si riferiva il concorso cui parteciparono ottenendo l'ammissione alla prova orale.
 

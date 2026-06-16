@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 22 gennaio 1928, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-22;124), col quale i comuni di Mercurago e Dagnente sono stati soppressi, ed i rispettivi territori aggregati a quello di Arona; 
+ Visto il [R. decreto 22 gennaio 1928, n. 124](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Mercurago%20e%20Dagnente%20al%20comune%20di%20Arona.%20028U0124.md), col quale i comuni di Mercurago e Dagnente sono stati soppressi, ed i rispettivi territori aggregati a quello di Arona; 
  
  Vista la deliberazione del podesta' di Arona, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Mercurago e Dagnente; 
  

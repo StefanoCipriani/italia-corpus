@@ -18,7 +18,7 @@ Veduto l'art. 3, n, 2, della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20d
 
 Veduti gli [articoli 606 e seguenti del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_606);
 
-Veduto il [R. decreto 18 giugno 1931, n. 778](Disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20031U0778.md), recante disposizioni regolamentari per il servizio del casellario giudiziale;
+Veduto il [R. decreto 18 giugno 1931, n. 778](../Regi%20decreti/Disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20031U0778.md), recante disposizioni regolamentari per il servizio del casellario giudiziale;
 
 Ritenuta la necessita' urgente ed assoluta di agevolare il rilascio ai privati dei certificati del casellario nella stessa giornata della richiesta;
 

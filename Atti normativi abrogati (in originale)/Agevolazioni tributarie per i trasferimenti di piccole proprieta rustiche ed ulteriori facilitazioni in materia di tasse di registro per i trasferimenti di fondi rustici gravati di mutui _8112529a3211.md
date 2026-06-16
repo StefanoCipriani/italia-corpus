@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo
+Visto il [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), che approva il testo
 
 di legge del bollo;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo
+Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo
 
 di legge del registro;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3272](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approva il testo
+Visto il [R. decreto 30 dicembre 1923, n. 3272](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approva il testo
 
 di legge sulle tasse ipotecarie;
 
@@ -86,7 +86,7 @@ per marca voltura . . . . . . . . . . . . . . . . . . . . » 1 -
 
 
 Le riduzioni delle tasse di bollo sono estese alle domande, agli
-atti e ai documenti che a' sensi del [R. decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499), si presentano agli uffici dei libri fondiari, nonche' ai decreti dei giudici tavolari quando si riferiscono e ordinano solamente la intavolazione del diritto di proprieta', in ordine ai trasferimenti
+atti e ai documenti che a' sensi del [R. decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), si presentano agli uffici dei libri fondiari, nonche' ai decreti dei giudici tavolari quando si riferiscono e ordinano solamente la intavolazione del diritto di proprieta', in ordine ai trasferimenti
 di cui sopra.
  
  Diritti catastali: 

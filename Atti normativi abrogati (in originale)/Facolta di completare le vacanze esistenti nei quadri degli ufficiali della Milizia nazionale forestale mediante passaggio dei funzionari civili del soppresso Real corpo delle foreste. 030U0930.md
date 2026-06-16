@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 16 maggio 1926, n. 1066](Istituzione%20della%20Milizi
 
 Vista la [legge 13 dicembre 1928, n. 3141](Disposizioni%20sullAmministrazione%20forestale%20sullordinamento%20della%20Milizia%20nazionale%20forestale%20e%20sullAzienda%20delle%20foreste%20demaniali%20dello%20Stato.%20028U3141.md), concernente l'Amministrazione forestale, l'ordinamento della Milizia nazionale forestale e l'Azienda delle foreste demaniali;
 
-Visto il [R. decreto 3 ottobre 1929, n. 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1997), col quale fu provveduto all'approvazione del regolamento per l'applicazione della legge predetta;
+Visto il [R. decreto 3 ottobre 1929, n. 1997](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2013%20dicembre%201928%20n.%203141%20concernente%20lAmministrazione%20forestale%20lordinamento%20della%20Milizia%20nazionale%20forestale%20e%20lAzienda%20delle%20_45d3946a3615.md), col quale fu provveduto all'approvazione del regolamento per l'applicazione della legge predetta;
 
 Visto l'[art. 3 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

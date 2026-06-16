@@ -18,7 +18,7 @@ Agli articoli 2, 4, 5, 6, 8, 9, 10, 11, 12, 13 e 14 sono sostituiti i seguenti:
  
  Art. I. 
  
- A datare dal 1° gennaio 1901 le disposizioni contenute nei capi I e II della [legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), sui provvedimenti a favore della marina mercantile, sono modificate come negli articoli seguenti, restando con la stessa data abrogate quelle del [R. decreto 17 giugno 1900, n. 220](Circa%20modificazioni%20alle%20disposizioni%20legislative%20per%20la%20marina%20mercantile.%20000U0220.md). 
+ A datare dal 1° gennaio 1901 le disposizioni contenute nei capi I e II della [legge 23 luglio 1896, n. 318](Riflettente%20la%20concessione%20di%20compensi%20di%20costruzione%20e%20premi%20di%20navigazione%20ai%20piroscafi%20ed%20ai%20velieri%20nazionali%20096U0318.md), sui provvedimenti a favore della marina mercantile, sono modificate come negli articoli seguenti, restando con la stessa data abrogate quelle del [R. decreto 17 giugno 1900, n. 220](../Regi%20decreti/Circa%20modificazioni%20alle%20disposizioni%20legislative%20per%20la%20marina%20mercantile.%20000U0220.md). 
  
  Art. II. 
  

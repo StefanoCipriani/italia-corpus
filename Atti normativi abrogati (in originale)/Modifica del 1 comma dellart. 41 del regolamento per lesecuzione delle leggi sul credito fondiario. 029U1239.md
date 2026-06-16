@@ -16,7 +16,7 @@ RE D' ITALIA
 
 Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
-Visto l'art. 41 del regolamento per l'esecuzione del testo unico predetto, approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto l'art. 41 del regolamento per l'esecuzione del testo unico predetto, approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Sentito il Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Articolo unico.
 
-Il primo comma dell'art. 41 del regolamento per l'esenzione delle leggi sul credito fondiario, approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e' modificato come appresso: 
+Il primo comma dell'art. 41 del regolamento per l'esenzione delle leggi sul credito fondiario, approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), e' modificato come appresso: 
  
  «L'estrazione a sorte delle cartelle deve essere fatta ogni anno, pubblicamente, entro la prima quindicina dei mesi di febbraio e di agosto, in giorni non festivi, e con l'intervento di un delegato governativo il quale deve assistere anche all'imborsazione dei numeri. Il Ministero dell'economia naie fissera' entro la quindicina predetta il giorno dell'estrazione per i singoli istituti, ai quali e' fatto obbligo dei dare larga pubblicita' a tale data, con un congruo anticipo». 
  

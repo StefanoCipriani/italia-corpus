@@ -40,7 +40,7 @@ L'assunzione ha luogo in base a concorso per titoli, da bandirsi con decreto del
  
  Il matrimonio che le donne, assunte in servizio, contraggano posteriormente a tale assunzione, importa la risoluzione del contratto di impiego. 
  
- Non possono essere assunti i destituiti, revocati o licenziati per motivi disciplinari da qualsiasi Amministrazione pubblica, ne' i dispensati in applicazione dell'[art. 51 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_51). 
+ Non possono essere assunti i destituiti, revocati o licenziati per motivi disciplinari da qualsiasi Amministrazione pubblica, ne' i dispensati in applicazione dell'[art. 51 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Per poter essere ammesso al concorso, e' necessario soddisfare alle seguenti condizioni: 
  
@@ -48,7 +48,7 @@ L'assunzione ha luogo in base a concorso per titoli, da bandirsi con decreto del
  
  2° aver compiuto lodevolmente (per i maggiorenni) il servizio di leva, oppure esserne stato esonerato per motivi che non siano tali da influire sul rendimento del servizio; 
  
- 3° essere fornito degli altri requisiti generali indicati dall'[art. 1 del R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1); 
+ 3° essere fornito degli altri requisiti generali indicati dall'[art. 1 del R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md); 
  
  4° possedere la licenza di scuola elementare. 
  
@@ -74,7 +74,7 @@ Nella prima applicazione del presente ordinamento, il concorso per titoli sara' 
 
 Il personale telefonico di Stato che, all'atto dell'assunzione presso il Ministero delle corporazioni, si trovi ancora in posizione di disponibilita', percepira', sinche' resti in tale posizione, oltre all'assegno di disponibilita', una retribuzione non superiore alla differenza fra tale assegno e l'ultimo stipendio di servizio attivo e relativo supplemento goduti. Gli saranno altresi' corrisposte soltanto le eventuali indennita' temporanee mensili spettanti al personale di ruolo. Il Ministero delle corporazioni rimborsera' all'Azienda di Stato per i servizi telefonici le somme corrispondenti agli assegni di disponibilita' dovuti al personale stesso, e versera' direttamente a quest'ultimo la differenza sopra cennata, e le eventuali indennita' temporanee mensili. 
  
- Il personale in parola, che prestera' servizio presso il Ministero delle corporazioni durante il periodo di disponibilita', sara' disciplinato, a tutti gli effetti, dal [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato. 
+ Il personale in parola, che prestera' servizio presso il Ministero delle corporazioni durante il periodo di disponibilita', sara' disciplinato, a tutti gli effetti, dal [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato. 
  
  Cessato il periodo di disponibilita', la sua ulteriore permanenza in servizio, presso il Ministero delle corporazioni, sara' disciplinata col contratto a termine, e secondo le norme del presente ordinamento.
 
@@ -96,7 +96,7 @@ Al personale, di cui al presente ordinamento, finche' sara' in servizio presso i
 
 ## Art. 10.
 
-Per il personale di commutazione telefonica, saranno, entro il mese di gennaio di ogni anno, dal capo della divisione competente secondo la ripartizione organica dei servizi del Ministero delle corporazioni, compilate le note di qualifica, applicandosi al riguardo, in quanto sia possibile, e non sia diversamente disposto dal presente decreto, le norme degli [articoli 12 e seguenti del R. decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_12). 
+Per il personale di commutazione telefonica, saranno, entro il mese di gennaio di ogni anno, dal capo della divisione competente secondo la ripartizione organica dei servizi del Ministero delle corporazioni, compilate le note di qualifica, applicandosi al riguardo, in quanto sia possibile, e non sia diversamente disposto dal presente decreto, le norme degli [articoli 12 e seguenti del R. decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Le note di qualifica saranno rivedute e firmate dal direttore generale per le Associazioni professionali.
 
@@ -152,7 +152,7 @@ Sono applicabili al personale di commutazione le seguenti sanzioni disciplinari,
  
  4° licenziamento: per recidiva, o maggiore gravita' delle mancanze sopra indicate; per grave abuso di fiducia; per mancanza contro l'onore; per pubblica manifestazione di opinioni ostili alle vigenti istituzioni; e, in genere, per qualsiasi altro fatto o motivo grave, che, pur non essendo specificato nella presente elencazione, renda tuttavia incompatibile la ulteriore permanenza al posto. 
  
- In caso di rinvio a giudizio penale, saranno osservate, in quanto applicabili, le norme stabilite in materia dall'[art. 63 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_63). 
+ In caso di rinvio a giudizio penale, saranno osservate, in quanto applicabili, le norme stabilite in materia dall'[art. 63 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Le punizioni di cui ai nn. 1 e 2 sono inflitte direttamente dal capo della divisione competente. La punizione di cui al n. 3 e' inflitta dal direttore generale per le Associazioni professionali. La punizione di cui al n. 4 e' inflitta con decreto Ministeriale. 
  

@@ -99,7 +99,7 @@ Ai fini dell'adeguamento dei limiti di risarcibilita' di cui all'[articolo 1 del
 
 1.
 
-A decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, gli importi di lire 22.500 e di lire 45.000 previsti, a titolo di deduzione forfettaria di spese non documentate, dal comma 8 dell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono elevati rispettivamente a lire 25.000 ed a lire 50.000.
+A decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, gli importi di lire 22.500 e di lire 45.000 previsti, a titolo di deduzione forfettaria di spese non documentate, dal comma 8 dell'articolo 79 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono elevati rispettivamente a lire 25.000 ed a lire 50.000.
 
 ## Art. 9.
 

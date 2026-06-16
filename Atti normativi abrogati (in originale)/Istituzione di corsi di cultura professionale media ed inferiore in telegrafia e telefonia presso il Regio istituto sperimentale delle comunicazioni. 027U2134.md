@@ -14,15 +14,15 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 agosto 1923, n. 2483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-19;2483);
+Visto il [R. decreto 19 agosto 1923, n. 2483](../Regi%20decreti/Istituzione%20presso%20lIstituto%20superiore%20postale%20telegrafico%20e%20telefonico%20di%20una%20scuola%20di%20telegrafia%20e%20telefonia.%20023U2483.md);
 
 Visto il [R. decreto 11 novembre 1923, n. 3187](Istituzione%20di%20corsi%20di%20specializzazione%20in%20telegrafia%20e%20telefonia%20presso%20il%20Regio%20istituto%20nazionale%20distruzione%20professionale%20di%20Roma.%20023U3187.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 3240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;3240);
+Visto il [R. decreto 11 novembre 1923, n. 3240](../Regi%20decreti/Norme%20per%20il%20funzionamento%20della%20scuola%20superiore%20di%20telegrafia%20e%20telefonia%20istituita%20col%20R.%20decreto%2019%20agosto%201923%20n.%202483.%20023U3240.md);
 
 Visto il [R. decreto 4 novembre 1926, n. 1978](Costituzione%20di%20un%20Regio%20istituto%20sperimentale%20delle%20comunicazioni%20mediante%20il%20coordinamento%20dellIstituto%20sperimentale%20delle%20ferrovie%20dello%20Stato%20e%20dellIstituto%20superiore%20postale%20telegraf_27c3b3b1e9cd.md);
 
-Considerata la necessita' di emanare norme che autorizzino l'Amministrazione postale telegrafica a provvedere alla coltura professionale media ed inferiore del personale dipendente per mezzo di appositi corsi da istituirsi sia presso il Regio istituto sperimentale delle comunicazioni (Sezione postale-telegrafica-telefonica) che presso altre sedi, avvalendosi all'uopo delle somme disponibili sul fondo di lire 50,000 di cui alla tabella B annessa al precitato [R. decreto 19 agosto 1923, n. 2483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-19;2483);
+Considerata la necessita' di emanare norme che autorizzino l'Amministrazione postale telegrafica a provvedere alla coltura professionale media ed inferiore del personale dipendente per mezzo di appositi corsi da istituirsi sia presso il Regio istituto sperimentale delle comunicazioni (Sezione postale-telegrafica-telefonica) che presso altre sedi, avvalendosi all'uopo delle somme disponibili sul fondo di lire 50,000 di cui alla tabella B annessa al precitato [R. decreto 19 agosto 1923, n. 2483](../Regi%20decreti/Istituzione%20presso%20lIstituto%20superiore%20postale%20telegrafico%20e%20telefonico%20di%20una%20scuola%20di%20telegrafia%20e%20telefonia.%20023U2483.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -36,7 +36,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 Il Ministro per le comunicazioni e' autorizzato ad istituire dei corsi in telegrafia e telefonia, sia presso il Regio istituto sperimentale delle comunicazioni (Sezione postale-telegrafica-telefonica) sia presso altre sedi. 
  
- Ove presso dette altre sedi esistano Regie scuole o Regi istituti industriali, i corsi dovranno essere aggregati a tali scuole od istituti, in conformita' dei [Regi decreti 19 agosto 1923, n. 2483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-19;2483), e [11 novembre 1923, n. 3187](Istituzione%20di%20corsi%20di%20specializzazione%20in%20telegrafia%20e%20telefonia%20presso%20il%20Regio%20istituto%20nazionale%20distruzione%20professionale%20di%20Roma.%20023U3187.md). 
+ Ove presso dette altre sedi esistano Regie scuole o Regi istituti industriali, i corsi dovranno essere aggregati a tali scuole od istituti, in conformita' dei [Regi decreti 19 agosto 1923, n. 2483](../Regi%20decreti/Istituzione%20presso%20lIstituto%20superiore%20postale%20telegrafico%20e%20telefonico%20di%20una%20scuola%20di%20telegrafia%20e%20telefonia.%20023U2483.md), e [11 novembre 1923, n. 3187](Istituzione%20di%20corsi%20di%20specializzazione%20in%20telegrafia%20e%20telefonia%20presso%20il%20Regio%20istituto%20nazionale%20distruzione%20professionale%20di%20Roma.%20023U3187.md). 
  
  Per le spese occorrenti, il Ministro e' autorizzato ad avvalersi delle somme disponibili sul fondo stanziato al capitolo n. 87 del proprio bilancio per l'esercizio in corso e in quello corrispondente per l'esercizio successivo.
 

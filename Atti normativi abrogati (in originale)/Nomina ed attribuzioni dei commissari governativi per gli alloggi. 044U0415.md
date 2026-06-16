@@ -52,7 +52,7 @@ Si considerano disponibili ai fini del presente decreto gli immobili destinati o
  
  4) i locali non destinati ma destinabili anche provvisoriamente ad abitazione senza rilevanti modifiche al fabbricato, purche' essi non siano gia' effettivamente adibiti ad usi industriali e commerciali. 
  
- Si considerano «non disponibili» gli immobili che non possono essere requisiti ai sensi degli articoli 2 e 3 delle norme per la disciplina delle requisizioni approvate con [R. decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md).
+ Si considerano «non disponibili» gli immobili che non possono essere requisiti ai sensi degli articoli 2 e 3 delle norme per la disciplina delle requisizioni approvate con [R. decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md).
 
 ## Art. 4.
 

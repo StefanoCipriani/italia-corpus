@@ -22,7 +22,7 @@ Visto il R. decreto 12 dicembre 1920, relativo alla costituzione del Consiglio d
 
 Visto il [R. decreto 7 gennaio 1923, n. 12](Sullordinamento%20del%20R.%20esercito.%20023U0012.md), che approva l'ordinamento del Regio esercito;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sulla contabilita' generale dello Stato ed il relativo regolamento approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato ed il relativo regolamento approvato con [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
 Udito il Consiglio dei Ministri;
 

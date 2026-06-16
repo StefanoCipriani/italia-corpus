@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499); [9 ottobre 1924, n. 1765](Costituzione%20presso%20il%20Ministero%20delleconomia%20nazionale%20dellIstituto%20di%20economia%20e%20statistica%20agraria.%20024U1765.md); [2 giugno 1927, n. 1035](Trasferimento%20del%20servizio%20di%20statistica%20agraria%20e%20forestale%20allIstituto%20centrale%20di%20statistica.%20027U1035.md); [16 settembre 1927, n. 1943](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md), e [10 maggio 1928, n. 1418](Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), concernenti la Fondazione per la sperimentazione e la ricerca agraria e l'Istituto nazionale di economia agraria;
+Visti i [Regi decreti 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md); [9 ottobre 1924, n. 1765](Costituzione%20presso%20il%20Ministero%20delleconomia%20nazionale%20dellIstituto%20di%20economia%20e%20statistica%20agraria.%20024U1765.md); [2 giugno 1927, n. 1035](Trasferimento%20del%20servizio%20di%20statistica%20agraria%20e%20forestale%20allIstituto%20centrale%20di%20statistica.%20027U1035.md); [16 settembre 1927, n. 1943](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md), e [10 maggio 1928, n. 1418](Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), concernenti la Fondazione per la sperimentazione e la ricerca agraria e l'Istituto nazionale di economia agraria;
 
 Visto l'[art. 2 del R. decreto 20 ottobre 1932, n. 1548](Attribuzione%20allIstituto%20nazionale%20di%20economia%20agraria%20e%20allIstituto%20centrale%20di%20statistica%20del%20Regno%20di%20una%20parte%20del%20patrimonio%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20032U1548.md), per effetto del quale, fra l'altro, la suddetta Fondazione ha assunto la denominazione di «Fondazione per la sperimentazione agraria», nonche' l'art. 4 del decreto stesso, che demanda a successivo provvedimento le modificazioni da apportare allo statuto della Fondazione e al predetto [R. decreto 10 maggio 1928, n. 1418](Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md);
 
@@ -24,13 +24,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le fo
 
 ## Art. 1.
 
-All'art. 2 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), modificato con l'[art. 1 del R. decreto 16 settembre 1927, n. 1943](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md), e' sostituito il seguente: 
+All'art. 2 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), modificato con l'[art. 1 del R. decreto 16 settembre 1927, n. 1943](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md), e' sostituito il seguente: 
  
  «La Fondazione per la sperimentazione agraria ha per iscopo la concessione di contributi agli istituti di sperimentazione agraria, ai fini di un maggior sviluppo della loro attivita' e l'opportuno coordinamento dell'attivita' stessa».
 
 ## Art. 2.
 
-Agli articoli 5 e 6 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), modificati rispettivamente con gli [articoli 2](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md) e [3 del R. decreto 16 settembre 1927, n. 1943](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md), sono sostituite le seguenti disposizioni: 
+Agli articoli 5 e 6 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), modificati rispettivamente con gli [articoli 2](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md) e [3 del R. decreto 16 settembre 1927, n. 1943](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md), sono sostituite le seguenti disposizioni: 
  
  «Il Consiglio di amministrazione si compone del direttore generale dell'agricoltura, presidente, di un funzionario di grado 5° della Direzione generale dell'agricoltura, vice presidente, e di tre direttori di Regie stazioni sperimentali agrarie. 
  
@@ -38,7 +38,7 @@ Agli articoli 5 e 6 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499
 
 ## Art. 3.
 
-Alla disposizione della lettera b) dell'art. 11 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-15;1499), modificata con l'[art. 4 del R. decreto 16 settembre 1927, n. 1943](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md), e' sostituita la seguente: 
+Alla disposizione della lettera b) dell'art. 11 dello statuto annesso al [R. decreto 15 agosto 1924, n. 1499](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20024U1499.md), modificata con l'[art. 4 del R. decreto 16 settembre 1927, n. 1943](Modificazioni%20allo%20statuto%20della%20Fondazione%20per%20la%20sperimentazione%20e%20la%20ricerca%20agraria.%20027U1943.md), e' sostituita la seguente: 
  
  «b) deliberare sull'assegnazione di contributi annui o pluriannuali agli istituti di sperimentazione agraria, tenuto conto dei rispettivi programmi di attivita'».
 

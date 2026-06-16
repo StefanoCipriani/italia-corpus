@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli articoli 50, lettere a) e b) e 51 del [R. decreto-legge 8 maggio 1924, n. 750](Ordinamento%20delle%20Camere%20di%20commercio%20e%20industria%20del%20Regno.%20024U0750.md), sull'ordinamento delle Camere di commercio e industria del Regno nonche' il relativo regolamento approvato con [R. decreto 4 gennaio 1925, n. 29](Approvazione%20del%20regolamento%20generale%20per%20lattuazione%20del%20R.%20decreto-legge%208%20maggio%201924%20n.%20750%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria%20del%20Regno.%20025U0029.md);
 
-Visto l'[art. 10 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_10), sulle borse di commercio e l'art. 25 del relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Visto l'[art. 10 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_10), sulle borse di commercio e l'art. 25 del relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Vista la deliberazione 21 ottobre 1925 del Commissario governativo della Camera di commercio di Genova;
 

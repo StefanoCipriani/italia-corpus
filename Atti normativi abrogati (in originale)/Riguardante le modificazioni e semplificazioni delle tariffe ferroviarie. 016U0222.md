@@ -32,7 +32,7 @@ L'Amministrazione delle ferrovie dello Stato e' autorizzata:
 
 ## Art. 2.
 
-Il penultimo capoverso dell'[art. 50 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato col [Regio decreto 28 giugno 1912, n. 728](Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e' sostituito dal seguente: 
+Il penultimo capoverso dell'[art. 50 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato col [Regio decreto 28 giugno 1912, n. 728](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20leggi%20vigenti%20riguardanti%20le%20ferrovie%20dello%20Stato.%20012U0728.md), e' sostituito dal seguente: 
  
  «E' in facolta' dell'Amministrazione delle ferrovie dello Stato di escludere dalla composizione dei treni viaggiatori delle linee secondarie e dai treni accelerati, omnibus, misti e locali delle linee principali le vetture di 1ª o quelle di 2ª classe. I treni misti possono avere anche la sola 3ª classe».
 

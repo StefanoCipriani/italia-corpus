@@ -72,7 +72,7 @@ La retta giornaliera da corrispondersi dai personali militari e civili della Reg
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 3 aprile 1926, n. 820](Aggiunta%20allart.%201%20del%20R.%20decreto%2031%20gennaio%201926%20n.%20252%20concernente%20la%20retta%20da%20corrispondersi%20dai%20personali%20militari%20e%20civili%20della%20Regia%20marina%20ammessi%20a%20pagamento%20negli%20ospedali%20utili_3f751548b7d7.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 3 aprile 1926, n. 820](../Regi%20decreti/Aggiunta%20allart.%201%20del%20R.%20decreto%2031%20gennaio%201926%20n.%20252%20concernente%20la%20retta%20da%20corrispondersi%20dai%20personali%20militari%20e%20civili%20della%20Regia%20marina%20ammessi%20a%20pagamento%20negli%20ospedali%20utili_3f751548b7d7.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Art. 2.
 

@@ -14,7 +14,7 @@ Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%
 
 Vista la [legge 4 settembre 1940, n. 1547](Modificazione%20allart.%201%20della%20legge%2031%20gennaio%201926-VI%20n.%20100%20sulla%20facolta%20del%20Potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20040U1547.md), Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), contenente le nuove norme per l'organizzazione dei servizi antincendi;
 
-Visto il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), recante norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili del fuoco;
+Visto il [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), recante norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili del fuoco;
 
 Udito il parere del Consiglio di Stato;
 
@@ -51,8 +51,8 @@ Le promozioni al grado di brigadiere ed a ciascuno dei gradi di maresciallo sono
 
 ## Art. 6.
 
-Il Ministero dell'interno, entro il termine di cui all'art. 1, indice i concorsi per le promozioni, in ciascun Corpo, ai gradi di maresciallo di 1ª, 2ª e 3ª classe, di brigadiere e di vice brigadiere, per il conferimento dei posti che si siano resi vacanti negli organici dei Corpi dei vigili del fuoco e per i quali non siano ancora stati espletati i concorsi previsti dagli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_20) e [24 del regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_24), nonche' per i posti che si renderanno vacanti negli organici stessi entro i termini di cui agli articoli 1 e 7 del presente decreto. 
- Gli organici di cui sopra sono quelli riportati nella tabella allegato I al [regio decreto 16 marzo 1942, n. 700](Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md). 
+Il Ministero dell'interno, entro il termine di cui all'art. 1, indice i concorsi per le promozioni, in ciascun Corpo, ai gradi di maresciallo di 1ª, 2ª e 3ª classe, di brigadiere e di vice brigadiere, per il conferimento dei posti che si siano resi vacanti negli organici dei Corpi dei vigili del fuoco e per i quali non siano ancora stati espletati i concorsi previsti dagli [articoli 20](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md) e [24 del regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), nonche' per i posti che si renderanno vacanti negli organici stessi entro i termini di cui agli articoli 1 e 7 del presente decreto. 
+ Gli organici di cui sopra sono quelli riportati nella tabella allegato I al [regio decreto 16 marzo 1942, n. 700](../Regi%20decreti/Forza%20organica%20del%20Corpi%20dei%20vigili%20del%20fuoco.%20042U0700.md). 
  Il Ministero dell'interno stabilisce, altresi', il numero dei posti da mettere a concorso per ciascun grado in ciascun Corpo.
 
 ## Art. 7.
@@ -95,7 +95,7 @@ patriottiche.......................................... punti 4
 ## Art. 11.
 
 Agli aspiranti ammessi ai concorsi per la promozione a brigadiere ed ai vari gradi di maresciallo, dovranno presentarsi nel giorno e nell'ora stabiliti, muniti dei documenti d'identificazione, presso i Corpi appositamente prescelti dal Ministero, per lo svolgimento delle prove di esame. 
- Queste avranno luogo presso i Corpi anzidetti in base ai programmi di cui agli allegati B, C e D al [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699). 
+ Queste avranno luogo presso i Corpi anzidetti in base ai programmi di cui agli allegati B, C e D al [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md). 
  Le norme relative allo svolgimento delle prove di esame sono stabilite nel bando di concorso.
 
 ## Art. 12.
@@ -150,7 +150,7 @@ Nei Corpi, che si trovino in provincie non ancora restituite all'amministrazione
 
 ## Art. 17.
 
-Il termine previsto dall'[art. 49 della legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570#art_49), e quello stabilito nell'[art. 167 del regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_167), sono riaperti fino al 31 dicembre 1947.
+Il termine previsto dall'[art. 49 della legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570#art_49), e quello stabilito nell'[art. 167 del regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), sono riaperti fino al 31 dicembre 1947.
 
 ## Art. 18.
 

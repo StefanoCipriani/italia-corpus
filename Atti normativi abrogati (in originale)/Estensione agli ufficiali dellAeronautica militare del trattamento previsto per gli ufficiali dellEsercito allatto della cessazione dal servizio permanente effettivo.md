@@ -44,7 +44,7 @@ Agli ufficiali dell'Aeronautica militare che siano dal servizio permanente effet
 
 ## Art. 2.
 
-L'indennita' di cui all'art. 1 compete, inoltre, agli ufficiali che siano dai servizio permanente effettivo direttamente collocati a riposo, in riforma, o in congedo assoluto, per eta', o per ferite, lesioni od infermita' dipendenti da cause di servizio. Qualora si tratti di mutilati od invalidi di guerra, la concessione del trattamento e' subordinata alla condizione che gli ufficiali rinuncino alla pensione od all'assegno rinnovabile di guerra, ovvero all'assegno integratore, di cui all'[art. 19 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni.
+L'indennita' di cui all'art. 1 compete, inoltre, agli ufficiali che siano dai servizio permanente effettivo direttamente collocati a riposo, in riforma, o in congedo assoluto, per eta', o per ferite, lesioni od infermita' dipendenti da cause di servizio. Qualora si tratti di mutilati od invalidi di guerra, la concessione del trattamento e' subordinata alla condizione che gli ufficiali rinuncino alla pensione od all'assegno rinnovabile di guerra, ovvero all'assegno integratore, di cui all'[art. 19 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni.
 
 ## Art. 3.
 

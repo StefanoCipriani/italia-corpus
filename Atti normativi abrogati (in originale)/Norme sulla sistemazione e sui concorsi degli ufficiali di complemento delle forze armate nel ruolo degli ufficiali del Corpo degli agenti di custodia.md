@@ -32,7 +32,7 @@ L'esame speciale di cui al precedente articolo consiste in un colloquio, avente 
  1) nozioni di diritto e procedura penale con particolare riguardo alle disposizioni relative alla polizia giudiziaria, alla custodia
  preventiva ed alla esecuzione delle pene e delle misure di sicurezza; 2) regolamento per gli istituti di prevenzione e di pena;
  3) regolamento per il Corpo degli agenti di custodia;
- 4) regolamento di disciplina militare con riferimento alle ipotesi di reato previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
+ 4) regolamento di disciplina militare con riferimento alle ipotesi di reato previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace.
 
 ## Art. 4.
 

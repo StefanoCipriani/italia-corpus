@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Segretario di Stato pe
 
 ## Art. 1.
 
-Il termine del 31 dicembre 1924 stabilito con gli [articoli 5](Modifiche%20allordinamento%20degli%20organi%20e%20delle%20giurisdizioni%20istituite%20per%20la%20liquidazione%20delle%20gestioni%20transitorie%20di%20guerra%20e%20per%20il%20ricupero%20dei%20lucri%20indebiti%20od%20eccessivi.%20024U0234.md) e [6 del R. decreto 23 febbraio 1924, n. 234](Modifiche%20allordinamento%20degli%20organi%20e%20delle%20giurisdizioni%20istituite%20per%20la%20liquidazione%20delle%20gestioni%20transitorie%20di%20guerra%20e%20per%20il%20ricupero%20dei%20lucri%20indebiti%20od%20eccessivi.%20024U0234.md), gia' prorogato al 30 giugno 1925 con l'[art. 1 del R. decreto 21 dicembre 1924, n. 2095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-21;2095#art_1), e' ulteriormente prorogato al 31 dicembre 1925.
+Il termine del 31 dicembre 1924 stabilito con gli [articoli 5](../Regi%20decreti/Modifiche%20allordinamento%20degli%20organi%20e%20delle%20giurisdizioni%20istituite%20per%20la%20liquidazione%20delle%20gestioni%20transitorie%20di%20guerra%20e%20per%20il%20ricupero%20dei%20lucri%20indebiti%20od%20eccessivi.%20024U0234.md) e [6 del R. decreto 23 febbraio 1924, n. 234](../Regi%20decreti/Modifiche%20allordinamento%20degli%20organi%20e%20delle%20giurisdizioni%20istituite%20per%20la%20liquidazione%20delle%20gestioni%20transitorie%20di%20guerra%20e%20per%20il%20ricupero%20dei%20lucri%20indebiti%20od%20eccessivi.%20024U0234.md), gia' prorogato al 30 giugno 1925 con l'[art. 1 del R. decreto 21 dicembre 1924, n. 2095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-21;2095#art_1), e' ulteriormente prorogato al 31 dicembre 1925.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Nel procedere alla costituzione del Collegio il presidente del Collegio arbitral
 
 ## Art. 3.
 
-La disposizione contenuta nell'[art. 1, comma 1°, del R. decreto 22 agosto 1919, n. 2224](Che%20demanda%20alla%20speciale%20giurisdizione%20prevista%20dallart.%205%20del%20decreto%20Luogotenenziale%2017%20novembre%201918%20n.%201698%20le%20controversie%20dipendenti%20da%20cessioni%20di%20materie%20prime%20semilavorati%20e%20di%20_dfbc1f8d8b5c.md), deve intendersi nel senso che sono devolute alla competenza del Collegio arbitrale ricuperi spese di guerra tutte le controversie comunque concernenti cessioni di materiali residuati dalla guerra, compiute dalle Amministrazioni dello Stato, e sempre quando sia in giudizio una delle Amministrazioni stesse.
+La disposizione contenuta nell'[art. 1, comma 1°, del R. decreto 22 agosto 1919, n. 2224](../Regi%20decreti/Che%20demanda%20alla%20speciale%20giurisdizione%20prevista%20dallart.%205%20del%20decreto%20Luogotenenziale%2017%20novembre%201918%20n.%201698%20le%20controversie%20dipendenti%20da%20cessioni%20di%20materie%20prime%20semilavorati%20e%20di%20_dfbc1f8d8b5c.md), deve intendersi nel senso che sono devolute alla competenza del Collegio arbitrale ricuperi spese di guerra tutte le controversie comunque concernenti cessioni di materiali residuati dalla guerra, compiute dalle Amministrazioni dello Stato, e sempre quando sia in giudizio una delle Amministrazioni stesse.
 
 ## Art. 4.
 

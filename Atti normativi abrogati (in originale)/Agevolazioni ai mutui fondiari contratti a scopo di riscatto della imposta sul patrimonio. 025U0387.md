@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 Gli interessi dei mutui accordati dagli istituti di credito fondiario con l'esclusivo scopo di riscattare l'imposta sul patrimonio, sono esenti dall'imposta di ricchezza mobile durante l'intero periodo del graduale ammortamento. 
  
- L'ammontare del mutuo da dichiararsi inizialmente esente e' quello corrispondente al valore nominale delle cartelle fondiarie necessarie per ottenere, nel giorno della stipulazione del contratto di mutuo, al prezzo del listino di borsa del luogo ove l'istituto fondiario ha la sua sede, la somma liquida necessaria pel pagamento dell'imposta riscattata, da eseguirsi giusta il disposto dell'art. 7, 2° comma, del [R. decreto 10 agosto 1923, n. 1784](Norme%20per%20agevolare%20i%20concordati%20ed%20i%20riscatti%20dellimposta%20sul%20patrimonio.%20023U1784.md). 
+ L'ammontare del mutuo da dichiararsi inizialmente esente e' quello corrispondente al valore nominale delle cartelle fondiarie necessarie per ottenere, nel giorno della stipulazione del contratto di mutuo, al prezzo del listino di borsa del luogo ove l'istituto fondiario ha la sua sede, la somma liquida necessaria pel pagamento dell'imposta riscattata, da eseguirsi giusta il disposto dell'art. 7, 2° comma, del [R. decreto 10 agosto 1923, n. 1784](../Regi%20decreti/Norme%20per%20agevolare%20i%20concordati%20ed%20i%20riscatti%20dellimposta%20sul%20patrimonio.%20023U1784.md). 
  
  Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
  

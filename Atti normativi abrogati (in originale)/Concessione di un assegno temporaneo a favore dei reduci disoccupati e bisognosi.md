@@ -104,7 +104,7 @@ L'Ente comunale, di assistenza, non appena abbia ammesso il reduce al godimento 
 
 ## Art. 13.
 
-Chiunque indebitamente riscuote con alterazione dei dati, con false dichiarazioni e con altri mezzi fraudolenti l'assegno di cui al presente decreto, e' punito con la multa da L. 1000 a L. 15.000, salva l'applicazione delle piu' gravi sanzioni prevista dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque indebitamente riscuote con alterazione dei dati, con false dichiarazioni e con altri mezzi fraudolenti l'assegno di cui al presente decreto, e' punito con la multa da L. 1000 a L. 15.000, salva l'applicazione delle piu' gravi sanzioni prevista dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  E' punito con la stessa pena chiunque fa dichiarazioni false o compie altri fatti fraudolenti al fine di procurare indebitamente ad altri l'assegno.
 
 ## Art. 14.

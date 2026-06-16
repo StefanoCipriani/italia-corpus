@@ -57,7 +57,7 @@ Sui diritti erariali accertati sulle scommesse al totalizzatore e al libro, che 
 
 ## Art. 5.
 
-Le disposizioni di cui all'[art. 8 del regio decreto legislativo 30 maggio 1946, n. 538](Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), a favore dell'E.N.A.L. estese, con l'[art. 2 del decreto legislativo 18 gennaio 1948, n. 3](Provvedimenti%20in%20materia%20di%20diritti%20erariali%20sui%20pubblici%20spettacoli%20e%20sulle%20scommesse.md), agli iscritti del dopolavoro ferroviario, sono estese anche agli iscritti agli Enti a carattere nazionale, le cui finalita' assistenziali siano state riconosciute a termini del [decreto legislativo 10 luglio 1947, n. 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-10;705), con decreto del Ministro per l'interno, emesso su conforme parere del Ministero delle finanze.
+Le disposizioni di cui all'[art. 8 del regio decreto legislativo 30 maggio 1946, n. 538](../Regi%20decreti%20legislativi/Nuove%20norme%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli.md), a favore dell'E.N.A.L. estese, con l'[art. 2 del decreto legislativo 18 gennaio 1948, n. 3](Provvedimenti%20in%20materia%20di%20diritti%20erariali%20sui%20pubblici%20spettacoli%20e%20sulle%20scommesse.md), agli iscritti del dopolavoro ferroviario, sono estese anche agli iscritti agli Enti a carattere nazionale, le cui finalita' assistenziali siano state riconosciute a termini del [decreto legislativo 10 luglio 1947, n. 705](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-10;705), con decreto del Ministro per l'interno, emesso su conforme parere del Ministero delle finanze.
 
 ## Art. 6.
 

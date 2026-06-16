@@ -18,7 +18,7 @@ Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle
 
 Visto il [R. decreto 30 novembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-30;2960), sullo stato giuridico degli impiegati civili delle Amministrazioni dello Stato, e le successive modificazioni;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, il relativo regolamento approvato col [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e le successive modicazioni;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, il relativo regolamento approvato col [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e le successive modicazioni;
 
 Visto il [R. decreto 30 agosto 1925, n. 1513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-30;1513), sulla costituzione del Ministero dell'aeronautica, e le successive modificazioni;
 
@@ -38,7 +38,7 @@ I funzionari ai quali, in applicazione dell'[art. 52 del R. decreto-legge 18 nov
 
 Fermo restando, in ogni caso, il divieto di delega per l'approvazione dei contratti sul cui progetto e' necessario sentire l'avviso del Consiglio di Stato, giusta l'art. 103 del regolamento approvato col [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), la facolta' di assumere impegni sui capitoli del bilancio del Ministero dell'aeronautica, non puo', nelle seguenti materie, essere esercitata dai funzionari delegati di cui al primo comma del precedente art. 1: 
  
- a) approvazione di contratti di importo superiore a lire 300.000, se stipulati dopo pubblici incanti; ovvero superiore a L. 150.000 se stipulati dopo licitazione privata o nel modo previsto dall'[art. 4 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_4), o, infine, superiore a L. 75.000 se stipulati a trattativa privata; 
+ a) approvazione di contratti di importo superiore a lire 300.000, se stipulati dopo pubblici incanti; ovvero superiore a L. 150.000 se stipulati dopo licitazione privata o nel modo previsto dall'[art. 4 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), o, infine, superiore a L. 75.000 se stipulati a trattativa privata; 
  
  b) approvazione delle spese per forniture e lavorazioni il cui importo ecceda i limiti indicati alla precedente lettera a) e che, in base a speciali disposizioni legislative o regolamentari, possono essere disposte all'estero o nel Regno, prescindendo dalle forme ordinarie dei contratti; 
  

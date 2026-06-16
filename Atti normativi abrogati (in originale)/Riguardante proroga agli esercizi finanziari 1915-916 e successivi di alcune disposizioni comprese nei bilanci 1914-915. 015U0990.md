@@ -128,7 +128,7 @@ La Cassa dei depositi e prestiti e' autorizzata ad anticipare al Ministero delle
 
 I governatori dell'Eritrea e della Somalia italiana devono trasmettere al Ministero delle colonie, non oltre il mese di settembre di ciascun anno, il progetto di bilancio di previsione per l'esercizio successivo. 
  
- Sono abrogate le contrarie disposizioni contenute nella [legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), e nel [R. decreto 15 agosto 1913, n. 1161](Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md).
+ Sono abrogate le contrarie disposizioni contenute nella [legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), e nel [R. decreto 15 agosto 1913, n. 1161](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20della%20Colonia%20eritrea.%20013U1161.md).
 
 ## Art. 15.
 

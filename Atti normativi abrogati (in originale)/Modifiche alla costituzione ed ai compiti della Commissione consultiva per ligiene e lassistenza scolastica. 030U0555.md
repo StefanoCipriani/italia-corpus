@@ -16,11 +16,11 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA' 
  
- Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con. [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
+ Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con. [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
  
  Veduto il [R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), sulla riforma degli ordinamenti sanitari; 
  
- Veduto il regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45); 
+ Veduto il regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md); 
  
  Veduto il [R. decreto 24 maggio 1925, n. 958](Istituzione%20di%20una%20Commissione%20consultiva%20per%20ligiene%20e%20lassistenza%20scolastica%20e%20per%20ligiene%20pedagogica.%20025U0958.md), con cui si istituiva una Commissione consultiva per l'igiene e l'assistenza scolastica e per l'igiene pedagogica; 
  

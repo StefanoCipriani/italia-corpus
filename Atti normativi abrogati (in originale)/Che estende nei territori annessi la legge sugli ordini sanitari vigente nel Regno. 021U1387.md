@@ -57,7 +57,7 @@ In deroga all'art. 1 della legge, fino a tanto che non sia provveduto alla defin
 
 ## Art. 3.
 
-I presidenti degli Ordini che, a mente dell'articolo 7 della legge, fanno parte di diritto del Consiglio sanitario provinciale, vanno computati in aggiunti al numero dei membri del detto Consiglio quale risulta dal paragrafo 11 della legge 30 aprile 1870, B. L. I. n. 68, ma non hanno nello stesso, fino alla estensione alle nuove Provincie del Regno delle norme del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) relative alla costituzione dei Consigli provinciali di sanita', che voto consultivo.
+I presidenti degli Ordini che, a mente dell'articolo 7 della legge, fanno parte di diritto del Consiglio sanitario provinciale, vanno computati in aggiunti al numero dei membri del detto Consiglio quale risulta dal paragrafo 11 della legge 30 aprile 1870, B. L. I. n. 68, ma non hanno nello stesso, fino alla estensione alle nuove Provincie del Regno delle norme del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) relative alla costituzione dei Consigli provinciali di sanita', che voto consultivo.
 
 ## Art. 4.
 

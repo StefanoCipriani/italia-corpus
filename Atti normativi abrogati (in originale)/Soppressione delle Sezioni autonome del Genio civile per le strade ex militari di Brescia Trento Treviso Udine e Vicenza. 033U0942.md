@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento del Genio civile approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), ed il [R. decreto 2 marzo 1931, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-02;287), con cui fu approvato il regolamento sul servizio del Genio civile;
+Visto il testo unico delle leggi sull'ordinamento del Genio civile approvato con [R. decreto 3 settembre 1906, n. 522](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20corpo%20Reale%20del%20genio%20civile.%20006U0522.md), ed il [R. decreto 2 marzo 1931, n. 287](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20servizio%20del%20Genio%20civile.%20031U0287.md), con cui fu approvato il regolamento sul servizio del Genio civile;
 
 Visto il R. decreto 13 novembre 1930, col quale furono istituite le Sezioni autonome del Genio civile per le strade ex militari di Brescia, di Trento, di Treviso, di Udine e di Vicenza;
 

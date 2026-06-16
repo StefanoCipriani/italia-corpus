@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste lo [leggi 11 marzo 1926, nn. 396, 397, 398, 400 e 416](Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), sull'ordinamento del Regio esercito, sullo stato degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica, sull'avanzamento degli ufficiali del Regio esercito, sul nuovo ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, e sulle procedure da seguirsi negli accertamenti medico legali;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardante il reclutamento degli ufficiali in servizio permanente;
+Visto il [R. decreto 30 dicembre 1923, n. 2986](../Regi%20decreti/Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), riguardante il reclutamento degli ufficiali in servizio permanente;
 
 Ritenuta l'urgente necessita' di determinare la composizione o l'organico dell'arma dei carabinieri Reali e di stabilire le norme per l'accertamento, mediante il compimento di apposito corso tecnico professionale, dell'idoneita' dei subalterni al servizio dell'arma, nonche' di provvedere ad un reclutamento straordinario di capitani e tenenti nel Corpo di commissariato (ufficiali commissari), di apportare talune aggiunte e varianti alle citate leggi sull'avanzamento degli ufficiali del Regio esercito e sulle procedure da seguirsi negli accertamenti medico legali, e di stabilire la tabella organica dei commissari di leva del ruolo ad esaurimento;
 
@@ -93,7 +93,7 @@ La facolta' del Ministro per la guerra, prevista dall'[art. 53 della legge 11 ma
 
 ### Art. 7.
 
-Il comma a) 1° dell'[art. 2 del R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), e' sostituito dal seguente: 
+Il comma a) 1° dell'[art. 2 del R. decreto 30 dicembre 1923, n. 2986](../Regi%20decreti/Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), e' sostituito dal seguente: 
  
  «a)1° per l'arma dei CC. RR., dai tenenti in servizio permanente di fanteria, cavalleria, artiglieria e genio, che abbiano non meno di due anni di grado, che non provengano dalla categoria indicata al comma b) del presente articolo, e che, dopo il compimento di apposito corso tecnico professionale di abilitazione al servizio nell'arma dei CC. RR., vengano giudicati idonei».
 
@@ -109,7 +109,7 @@ E' data facolta' al Ministero della guerra di trasferire, a domanda, nel Corpo d
 
 ### Art. 10.
 
-Il periodo di tre anni, di cui all'art. 116 della legge 11 marzo 1926, m 398, sull'avanzamento degli ufficiali del Regio esercito, per la promozione a tenente dei sottotenenti dei carabinieri Reali provenienti dalla scuola allievi ufficiali dei carabinieri Reali decorre dalla data di ammissione, in qualita' di allievi, nella scuola predetta, dalla quale data essi assumono, a norma dell'[art. 12 del R. decreto 30 dicembre 1923, n. 2986](Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), l'anzianita' nel grado di sottotenente.
+Il periodo di tre anni, di cui all'art. 116 della legge 11 marzo 1926, m 398, sull'avanzamento degli ufficiali del Regio esercito, per la promozione a tenente dei sottotenenti dei carabinieri Reali provenienti dalla scuola allievi ufficiali dei carabinieri Reali decorre dalla data di ammissione, in qualita' di allievi, nella scuola predetta, dalla quale data essi assumono, a norma dell'[art. 12 del R. decreto 30 dicembre 1923, n. 2986](../Regi%20decreti/Reclutamento%20degli%20ufficiali%20in%20servizio%20attivo%20permanente.%20023U2986.md), l'anzianita' nel grado di sottotenente.
 
 ### Art. 11.
 

@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 29 aprile 1923, n 966](Concernente%20lesercizio%20delle%20assicurazioni%20private.%20023U0966.md), concernente l'esercizio delle assicurazioni private, convertito nella [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto il regolamento per l'esecuzione del predetto decreto-legge, approvato con [regio decreto 4 gennaio 1925, n. 63](Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
+Visto il regolamento per l'esecuzione del predetto decreto-legge, approvato con [regio decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
 
 Visto il [regio decreto-legge 27 ottobre 1927, n. 2100](Modificazioni%20al%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20027U2100.md), convertito nella [legge 20 maggio 1928, n. 1133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20ottobre%201927%20n.%202100%20che%20reca%20modificazioni%20al%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20028U1133.md);
 

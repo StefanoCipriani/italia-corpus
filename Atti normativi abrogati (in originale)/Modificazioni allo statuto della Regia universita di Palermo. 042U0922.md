@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto lo statuto della Regia universita' di Palermo, approvato con il R. decreto 14 ottobre 1926-IV, n. 2412, e modificato con i Regi decreti 13 ottobre 1927-V, n. 2240, 31 ottobre 1929-VIII, n. 2477, 30 ottobre 1930, n. 1844, 1° ottobre 1931-IX, n. 1379, 20 settembre 1932-X, n. 1806, 26 ottobre 1933-XI, n. 1991, 6 dicembre 1934-XIII, n. 2430, 1° ottobre 1936-XIV, n. 2449, 23 giugno 1939-XVII, n. 1167, 27 aprile 1942-XX, n. 485; 
  
- Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  
  Veduto il R. decreto-legge 20 giugno 1935-XIII, n. 1071; 
  

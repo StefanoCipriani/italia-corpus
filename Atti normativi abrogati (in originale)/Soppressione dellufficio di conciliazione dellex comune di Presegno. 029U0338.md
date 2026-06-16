@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 20 settembre 1928, n. 2283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;2283), col quale il comune di Presegno e' stato soppresso ed il rispettivo territorio aggregato a quello di Lavenone; 
+ Visto il [R. decreto 20 settembre 1928, n. 2283](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Lavenone%20e%20Presegno%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Lavenone.%20028U2283.md), col quale il comune di Presegno e' stato soppresso ed il rispettivo territorio aggregato a quello di Lavenone; 
  
  Vista la deliberazione del commissario prefettizio di Lavenone, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Presegno; 
  

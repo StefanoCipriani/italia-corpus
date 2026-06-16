@@ -18,7 +18,7 @@ UMBERTO DI SAVOIA
  
  Visto il [decreto legislativo Luogotenenziale, 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md); 
  
- Visto l'[art. 42 del R. decreto 18 novembre 1923, numero 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
+ Visto l'[art. 42 del R. decreto 18 novembre 1923, numero 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
  
  Visto il [decreto legislativo Luogotenenziale 28 giugno 1945, n. 323](Autorizzazione%20allesercizio%20provvisorio%20del%20bilancio%20per%20lesercizio%20finanziario%201945-46%20fino%20alla%20formale%20approvazione%20del%20bilancio%20stesso%20e%20non%20oltre%20il%2031%20agosto%201945.%20045U0323.md); 
  

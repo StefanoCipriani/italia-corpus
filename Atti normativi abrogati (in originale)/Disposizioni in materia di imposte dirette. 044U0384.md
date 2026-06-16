@@ -152,7 +152,7 @@ L'imposta complementare progressiva e' applicata sul reddito imponibile secondo 
 
 E' abolita l'imposta sui celibi istituita dal [R. decreto-legge 19 dicembre 1926, n. 2132](Imposta%20personale%20progressiva%20sui%20celibi.%20026U2132.md), convertito nella [legge 22 dicembre 1927, n. 2492](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20dicembre%201926%20n.%202132%20istitutivo%20dellimposta%20personale%20progressiva%20sui%20celibi.%20027U2492.md). 
  
- La quota integrativa prevista dal [secondo comma dell'art. 2 del R. decreto-legge 13 febbraio 1927, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;124#art_2-com2), e successive modificazioni, continua ad essere dovuta come addizionale all'imposta complementare con le aliquote della tabella approvata col [R. decreto 19 febbraio 1925, n. 177](Aliquote%20dellimposta%20complementare%20sul%20reddito.%20025U0177.md). 
+ La quota integrativa prevista dal [secondo comma dell'art. 2 del R. decreto-legge 13 febbraio 1927, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-13;124#art_2-com2), e successive modificazioni, continua ad essere dovuta come addizionale all'imposta complementare con le aliquote della tabella approvata col [R. decreto 19 febbraio 1925, n. 177](../Regi%20decreti/Aliquote%20dellimposta%20complementare%20sul%20reddito.%20025U0177.md). 
  
  L'addizionale e' liquidata sul reddito proprio del celibe accertato all'imposta complementare in applicazione degli articoli 14 e seguenti.
 

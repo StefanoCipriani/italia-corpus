@@ -13,7 +13,7 @@ vigente: true
 IL CAPO PROVVISORIO DELLO STATO
 
  Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
- Visto il [regio decreto 24 agosto 1939, n. 2199](Approvazione%20dello%20statuto%20della%20Regia%20scuola%20di%20magistero%20professionale%20per%20la%20donna%20di%20Roma.%20039U2199.md), con il quale viene approvata la tabella organica della Scuola di magistero professionale per la donna "Principessa di Piemonte" di Roma;
+ Visto il [regio decreto 24 agosto 1939, n. 2199](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Regia%20scuola%20di%20magistero%20professionale%20per%20la%20donna%20di%20Roma.%20039U2199.md), con il quale viene approvata la tabella organica della Scuola di magistero professionale per la donna "Principessa di Piemonte" di Roma;
  Visto il [decreto legislativo Presidenziale 27 giugno 1946, n. 107, art. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato, per il tesoro;
 

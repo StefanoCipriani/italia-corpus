@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 24 maggio 1906, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-05-24;229) (parte supplementare), con cui veniva approvato lo statuto del Reale Istituto veneto di scienze, lettere ed arti;
+Veduto il [R. decreto 24 maggio 1906, n. 229](../Regi%20decreti/Approvazione%20dello%20statuto%20del%20R.%20istituto%20veneto%20di%20scienze%20lettere%20ed%20arti%20di%20Venezia.%200600229R.md) (parte supplementare), con cui veniva approvato lo statuto del Reale Istituto veneto di scienze, lettere ed arti;
 
 Veduta la [legge 23 giugno 1910, n. 424](Modificazioni%20ai%20ruoli%20organici%20del%20personale%20del%20R.%20Istituto%20Lombardo%20di%20scienze%20e%20lettere%20di%20Milano%20e%20del%20R.%20Istituto%20Veneto%20di%20scienze%20lettere%20ed%20arti%20di%20Venezia.%20010U0424.md), che apportava modificazioni ai ruoli organici del personale di detto Istituto;
 
@@ -70,7 +70,7 @@ E' approvato il nuovo statuto del Reale Istituto veneto di scienze, lettere ed a
 
 ## Art. 7.
 
-E' abrogato lo statuto del Reale Istituto suddetto, approvato con [R. decreto 24 maggio 1906, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-05-24;229) (parte supplementare). 
+E' abrogato lo statuto del Reale Istituto suddetto, approvato con [R. decreto 24 maggio 1906, n. 229](../Regi%20decreti/Approvazione%20dello%20statuto%20del%20R.%20istituto%20veneto%20di%20scienze%20lettere%20ed%20arti%20di%20Venezia.%200600229R.md) (parte supplementare). 
  
  Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

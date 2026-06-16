@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 9 agosto 1914, n. 823](Che%20aumenta%20lo%20stanziamento%20stabilito%20nel%20bilancio%20della%20spesa%20del%20fondo%20per%20lemigrazione%20per%20lesercizio%201914-915.%20014U0823.md), che porta a lire ottocentomila lo stanziamento del capitolo 48: «Casi eccezionali di rimpatrio e di assistenza degli emigranti in Europa ed altri paesi - Ricerche di emigranti nell'interesse delle loro famiglie» del bilancio della spesa del fondo per l'emigrazione per l'esercizio finanziario 1914-915, ed autorizza, ove sia necessario, per pari somma la vendita di titoli di Stato e garantiti dallo Stato, di proprieta' del fondo per l'emigrazione. 
+ E' convertito in legge il [R. decreto 9 agosto 1914, n. 823](../Regi%20decreti/Che%20aumenta%20lo%20stanziamento%20stabilito%20nel%20bilancio%20della%20spesa%20del%20fondo%20per%20lemigrazione%20per%20lesercizio%201914-915.%20014U0823.md), che porta a lire ottocentomila lo stanziamento del capitolo 48: «Casi eccezionali di rimpatrio e di assistenza degli emigranti in Europa ed altri paesi - Ricerche di emigranti nell'interesse delle loro famiglie» del bilancio della spesa del fondo per l'emigrazione per l'esercizio finanziario 1914-915, ed autorizza, ove sia necessario, per pari somma la vendita di titoli di Stato e garantiti dallo Stato, di proprieta' del fondo per l'emigrazione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

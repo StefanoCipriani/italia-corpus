@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  «Il limite massimo per l'ammissione degli ex-combattenti, siano o non invalidi di guerra, e' di 40 anni. 
  
- «E' sospesa, fino a tutto il 1926, l'applicazione dell'ultimo capoverso dell'[art. 104 del R. decreto 30 dicembre 1923, n. 2786](Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md)». 
+ «E' sospesa, fino a tutto il 1926, l'applicazione dell'ultimo capoverso dell'[art. 104 del R. decreto 30 dicembre 1923, n. 2786](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sullordinamento%20degli%20uffici%20giudiziari%20e%20del%20personale%20della%20magistratura.%20023U2786.md)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

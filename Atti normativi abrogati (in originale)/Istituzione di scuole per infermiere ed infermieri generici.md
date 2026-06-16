@@ -65,7 +65,7 @@ Al termine del corso gli allievi sostengono una prova di esame orale e pratica p
 ## Art. 9.
 
 Ai candidati che superano gli esami viene rilasciato il certificato di abilitazione all'esercizio dell'arte ausiliaria di infermiere generico, previo pagamento della tassa di concessione governativa nella misura prevista dal n. 210, lettera b), della tabella allegato A al [decreto legislativo 30 maggio 1947, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-05-30;604), modificato con [legge 14 marzo 1952, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-14;128).
- Tale certificato abilita all'esercizio delle mansioni previste dall'[art. 4 del regio decreto 2 maggio 1940, n. 1310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-02;1310#art_4), entro i limiti indicati dallo stesso articolo.
+ Tale certificato abilita all'esercizio delle mansioni previste dall'[art. 4 del regio decreto 2 maggio 1940, n. 1310](../Regi%20decreti/Determinazione%20delle%20mansioni%20delle%20infermiere%20professionali%20e%20degli%20infermieri%20generici.%20040U1310.md), entro i limiti indicati dallo stesso articolo.
 
 ## Art. 10.
 
@@ -82,7 +82,7 @@ Le scuole autorizzate ai sensi della presente legge sono tenute ad istituire nel
  a) abbiano compiuto un tirocinio pratico nelle mansioni di infermiere generico presso pubblici ospedali civili o militari o cliniche universitarie, per almeno tre anni;
  b) abbiano frequentato i corsi per infermieri delle Forze armate ed abbiano superato i relativi esami finali;
  c) siano in possesso dell'attestato di abilitazione all'esercizio dell'arte infermieristica conseguito presso gli ospedali coloniali;
- d) siano in possesso dell'attestato di idoneita' conseguito ai sensi dell'art. 24 del regolamento per l'esecuzione della [legge 14 febbraio 1904, n. 36](Riguardante%20disposizioni%20sui%20manicomi%20e%20sugli%20alienati.%20004U0036.md), approvato con [regio decreto 16 agosto 1909, n. 615](Che%20approva%20lannesso%20regolamento%20sui%20manicomi%20e%20sugli%20alienati.%20009U0615.md);
+ d) siano in possesso dell'attestato di idoneita' conseguito ai sensi dell'art. 24 del regolamento per l'esecuzione della [legge 14 febbraio 1904, n. 36](Riguardante%20disposizioni%20sui%20manicomi%20e%20sugli%20alienati.%20004U0036.md), approvato con [regio decreto 16 agosto 1909, n. 615](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sui%20manicomi%20e%20sugli%20alienati.%20009U0615.md);
  e) siano in possesso del diploma d'infermiera volontaria della Croce Rossa italiana o di altri Enti o Associazioni similari, su parere favorevole, per questi ultimi, dell'Alto Commissariato;
  f) abbiano compiuto, per almeno quattro anni, un tirocinio pratico nelle mansioni di infermiere generico presso istituti privati di cura, riconosciuti all'uopo idonei dall'Alto Commissariato per l'igiene e la sanita' pubblica,.
  Per l'ammissione al corso previsto dal presente articolo gli aspiranti devono presentare, oltre alla domanda e al documento comprovante di trovarsi in una delle sopra indicate condizioni, anche tutti gli altri documenti di cui all'art. 6.

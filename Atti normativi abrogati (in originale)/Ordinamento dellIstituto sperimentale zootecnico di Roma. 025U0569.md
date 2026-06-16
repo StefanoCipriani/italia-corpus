@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), concernente provvedimenti per estendere il bonificamento e la colonizzazione all'Agro romano;
 
-Visto il [R. decreto 3 settembre 1911, n. 1041](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-09-03;1041), che approva lo statuto per l'Istituto zootecnico laziale;
+Visto il [R. decreto 3 settembre 1911, n. 1041](../Regi%20decreti/Col%20quale%20e%20costituito%20il%20Consorzio%20fra%20lo%20Stato%20la%20provincia%20e%20il%20comune%20di%20Roma%20per%20la%20fondazione%20e%20il%20funzionamento%20di%20un%20Istituto%20zootecnico%20laziale.%20011U1041.md), che approva lo statuto per l'Istituto zootecnico laziale;
 
 Visti i [decreti Luogotenenziali 4 agosto 1918, n. 1153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-08-04;1153); [2 gennaio 1919, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-02;46), e [2 gennaio 1919, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-02;47), che assegnano dotazioni annue continuative, a favore dell'Istituto zootecnico laziale, per il funzionamento delle sezioni zooprofilattica, zootecnica ed agricola sperimentale;
 

@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visti i [decreti Luogotenenziali 27 giugno 1915, numero 1103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;1103) e [12 novembre 1916, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-12;1598); 
  
- Visti i [Regi decreti 15 agosto 1919, n. 1467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-15;1467) e [11 gennaio 1920, n. 40](Che%20approva%20il%20regolamento%20in%20esecuzione%20dellarticolo%2020%20del%20decreto%20Luogotenenziale%2015%20agosto%201919%20n.%201467%20contenente%20norme%20circa%20la%20dichiarazione%20della%20morte%20presunta%20degli%20scomparsi%20du_da2bd55c6f80.md); 
+ Visti i [Regi decreti 15 agosto 1919, n. 1467](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-15;1467) e [11 gennaio 1920, n. 40](../Regi%20decreti/Che%20approva%20il%20regolamento%20in%20esecuzione%20dellarticolo%2020%20del%20decreto%20Luogotenenziale%2015%20agosto%201919%20n.%201467%20contenente%20norme%20circa%20la%20dichiarazione%20della%20morte%20presunta%20degli%20scomparsi%20du_da2bd55c6f80.md); 
  
  Ritenuta l'opportunita' di facilitare la liquidazione definitiva delle pensioni di guerra in favore dei congiunti di militari scomparsi, anche quando l'autorita' militare non sia in grado di rilasciare la dichiarazione di irreperibilita' a norma delle vigenti disposizioni; 
  

@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'[art. 3 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_3), sull'ordinamento del notariato e degli archivi notarili, e visto l'art. 3 del relativo regolamento approvato col [R. decreto 10 settembre 1926, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-10;1326); 
  
- Visto l'[art. 1 del R. decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_1), sul nuovo ordinamento degli archivi notarili; 
+ Visto l'[art. 1 del R. decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), sul nuovo ordinamento degli archivi notarili; 
  
  Visto il [R. decreto 11 gennaio 1925, n. 46](Riunione%20del%20distretto%20notarile%20di%20Massa%20al%20distretto%20limitrofo%20della%20Spezia.%20025U0046.md), col quale il distretto notarile di Massa, a decorrere dal 1° febbraio 1925, veniva riunito al distretto limitrofo della Spezia; 
  

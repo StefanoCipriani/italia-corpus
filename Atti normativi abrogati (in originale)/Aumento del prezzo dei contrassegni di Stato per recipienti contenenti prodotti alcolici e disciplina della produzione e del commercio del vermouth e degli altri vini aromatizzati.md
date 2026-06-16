@@ -14,11 +14,11 @@ Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/u
 
 Visto il [regio decreto-legge 9 novembre 1933, n. 1696](Disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20033U1696.md), convertito nella [legge 25 gennaio 1934, n. 224](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20novembre%201933%20n.%201696%20concernente%20la%20disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20034U0224.md), concernente la disciplina della produzione e del commercio del vermouth, e successive modificazioni;
 
-Visto il [regio decreto 8 aprile 1935, n. 745](Disciplina%20della%20produzione%20e%20del%20commercio%20degli%20aperitivi%20a%20base%20di%20vino.%20035U0745.md), riguardante la disciplina della produzione e del commercio degli aperitivi a base di
+Visto il [regio decreto 8 aprile 1935, n. 745](../Regi%20decreti/Disciplina%20della%20produzione%20e%20del%20commercio%20degli%20aperitivi%20a%20base%20di%20vino.%20035U0745.md), riguardante la disciplina della produzione e del commercio degli aperitivi a base di
 
 vino, e successive modificazioni;
 
-Visto il [regio decreto 4 ottobre 1935, n. 2164](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sui%20vermut%20e%20sugli%20aperitivi%20a%20base%20di%20vino.%20035U2164.md), di approvazione del regolamento per la esecuzione delle leggi sul vermouth e sugli aperitivi a base di vino, e successive modificazioni;
+Visto il [regio decreto 4 ottobre 1935, n. 2164](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sui%20vermut%20e%20sugli%20aperitivi%20a%20base%20di%20vino.%20035U2164.md), di approvazione del regolamento per la esecuzione delle leggi sul vermouth e sugli aperitivi a base di vino, e successive modificazioni;
 
 Visto il decreto Ministeriale 20 settembre 1950 che determina le caratteristiche e il prezzo del contrassegno di Stato per i condizionamenti per la minuta vendita degli estratti per la preparazione di liquori;
 
@@ -176,7 +176,7 @@ I trasporti dei prodotti di cui all'articolo precedente, comunque e da chiunque 
  La suddetta bolletta deve essere staccata dal bollettario rilasciato dalla autorita' finanziaria che, una volta esaurito, dovra' essere restituito a quest'ultima. 
  La bolletta che ha seguito il carico deve essere conservata dal destinatario a documentazione del registro di imbottigliamento di cui al comma successivo. 
  Con il decreto di cui all'art. 10 verranno stabilite norme circa la composizione, la distribuzione e la conservazione dei bollettari e delle bollette, e circa l'emissione delle bollette medesime. 
- Le violazioni delle disposizioni di cui al presente articolo ed a quello precedente sono punite con l'ammenda di L. 50.000 per ogni ettolitro o frazione di prodotto e si applica inoltre la confisca a norma dell'[articolo 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ Le violazioni delle disposizioni di cui al presente articolo ed a quello precedente sono punite con l'ammenda di L. 50.000 per ogni ettolitro o frazione di prodotto e si applica inoltre la confisca a norma dell'[articolo 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Nei casi piu' gravi ed in quelli di recidiva si applica l'arresto da cinque giorni a tre mesi.
 
 ### Art. 17.
@@ -207,18 +207,18 @@ E' in facolta' del Ministero dell'agricoltura e foreste, di concerto con quelli 
 ### Art. 21.
 
 Sono abrogati: 
- 1) la [lettera D) dell'art. 50 del regio decreto 1° luglio 1926, n. 1361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1361#art_50-letd); 
+ 1) la [lettera D) dell'art. 50 del regio decreto 1° luglio 1926, n. 1361](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20R.%20decreto%2015%20ottobre%201925%20n.%202033%20convertito%20in%20legge%20con%20la%20legge%2018%20marzo%201926%20n.%20562%20concernente%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20co_4e929fa93522.md); 
  2) il [regio decreto-legge 9 novembre 1933, n. 1696](Disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20033U1696.md), convertito in [legge 25 gennaio 1934, n. 224](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20novembre%201933%20n.%201696%20concernente%20la%20disciplina%20della%20preparazione%20e%20del%20commercio%20del%20vermut.%20034U0224.md), portante norme per la disciplina della preparazione e del commercio del vermouth; 
  3) il [regio decreto-legge 19 aprile 1934, n. 773](Disposizioni%20complementari%20al%20R.%20decreto-legge%209%20novembre%201933%20n.%201696%20convertito%20in%20legge%20con%20la%20legge%2025%20gennaio%201934%20n.%20224%20concernente%20la%20disciplina%20della%20preparazione%20e%20del%20commercio_40a4a3490804.md), recante disposizioni complementari del precedente; 
- 4) il [regio decreto 8 aprile 1935, n. 745](Disciplina%20della%20produzione%20e%20del%20commercio%20degli%20aperitivi%20a%20base%20di%20vino.%20035U0745.md), recante norme per la disciplina della produzione e del commercio degli aperitivi a base di vino; 
- 5) il [regio decreto 31 dicembre 1936, n. 2464](Disposizioni%20complementari%20al%20R.%20decreto%208%20aprile%201935-XIII%20n.%20745%20sulla%20disciplina%20della%20preparazione%20e%20del%20commercio%20degli%20aperitivi%20a%20base%20di%20vino.%20036U2464.md), portante disposizioni complementari al regio decreto precedente; 
- 6) il [regio decreto 4 ottobre 1935, n. 2164](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sui%20vermut%20e%20sugli%20aperitivi%20a%20base%20di%20vino.%20035U2164.md), portante norme per la esecuzione delle norme precedenti; 
- 7) il [regio decreto 15 dicembre 1936, n. 2287](Modificazioni%20ed%20aggiunte%20al%20regolamento%20approvato%20con%20R.%20decreto%204%20ottobre%201935-XIII%20n.%202164%20per%20lesecuzione%20delle%20leggi%20sul%20vermut%20e%20sugli%20aperitivi%20a%20base%20di%20vino.%20036U2287.md), portante modificazioni del precedente.
+ 4) il [regio decreto 8 aprile 1935, n. 745](../Regi%20decreti/Disciplina%20della%20produzione%20e%20del%20commercio%20degli%20aperitivi%20a%20base%20di%20vino.%20035U0745.md), recante norme per la disciplina della produzione e del commercio degli aperitivi a base di vino; 
+ 5) il [regio decreto 31 dicembre 1936, n. 2464](../Regi%20decreti/Disposizioni%20complementari%20al%20R.%20decreto%208%20aprile%201935-XIII%20n.%20745%20sulla%20disciplina%20della%20preparazione%20e%20del%20commercio%20degli%20aperitivi%20a%20base%20di%20vino.%20036U2464.md), portante disposizioni complementari al regio decreto precedente; 
+ 6) il [regio decreto 4 ottobre 1935, n. 2164](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sui%20vermut%20e%20sugli%20aperitivi%20a%20base%20di%20vino.%20035U2164.md), portante norme per la esecuzione delle norme precedenti; 
+ 7) il [regio decreto 15 dicembre 1936, n. 2287](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20approvato%20con%20R.%20decreto%204%20ottobre%201935-XIII%20n.%202164%20per%20lesecuzione%20delle%20leggi%20sul%20vermut%20e%20sugli%20aperitivi%20a%20base%20di%20vino.%20036U2287.md), portante modificazioni del precedente.
 
 ### Art. 22.
 
 Per quanto non e' espressamente previsto nel presente decreto si applicano le disposizioni contenute nel [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), convertito in [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni. 
- La misure delle ammende di cui agli articoli 4, 9, 12 e 17 e' stabilita in deroga alle norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successive modificazioni.
+ La misure delle ammende di cui agli articoli 4, 9, 12 e 17 e' stabilita in deroga alle norme del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successive modificazioni.
 
 ### Art. 23.
 

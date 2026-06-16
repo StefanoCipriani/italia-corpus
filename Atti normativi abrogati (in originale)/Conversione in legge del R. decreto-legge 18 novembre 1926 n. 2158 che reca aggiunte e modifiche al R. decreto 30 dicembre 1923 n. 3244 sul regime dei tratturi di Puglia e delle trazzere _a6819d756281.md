@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 18 novembre 1926, numero 2158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-18;2158), riguardante aggiunte e modifiche al [R. decreto 30 dicembre 1923, n. 3244](Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), sul regime dei tratturi di Puglia e delle trazzere di Sicilia. 
+ E' convertito in legge il [R. decreto 18 novembre 1926, numero 2158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-18;2158), riguardante aggiunte e modifiche al [R. decreto 30 dicembre 1923, n. 3244](../Regi%20decreti/Passaggio%20dei%20tratturi%20di%20Paglia%20e%20delle%20trazzere%20di%20Sicilia%20dalla%20dipendenza%20del%20Ministero%20delle%20finanze%20a%20quella%20del%20Ministero%20delleconomia%20nazionale.%20023U3244.md), sul regime dei tratturi di Puglia e delle trazzere di Sicilia. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

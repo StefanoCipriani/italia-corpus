@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di 
 
 Alla tabella A), allegata al [R. decreto 3 maggio 1923, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-03;1285), sono apportate le variazioni risultanti dal seguente prospetto, restando conseguentemente aumentata di lire 8,000,000 la somma complessiva autorizzata con l'art. 1 del R. decreto-legge suindicato, nonche' l'ammontare dei residui risultante dalla ripartizione di fondi di cui all'articolo stesso. 
  
- E' diminuita di L. 8,000,000 la spesa autorizzata per la «esecuzione dei piani regolatori degli abitati in tutto o per la maggior parte distrutti, nelle terre liberate e redente» trasportata al bilancio del Ministero dei lavori pubblici, in applicazione del [R. decreto 18 gennaio 1923, n. 106](Col%20quale%20vengono%20trasferiti%20dal%20Ministero%20delle%20terre%20liberate%20a%20quello%20dei%20lavori%20pubblici%20i%20compiti%20relativi%20alla%20ricostituzione%20dei%20beni%20degli%20Enti%20pubblici%20locali%20danneggiati%20dalla%20g_844a24dbcb26.md). 
+ E' diminuita di L. 8,000,000 la spesa autorizzata per la «esecuzione dei piani regolatori degli abitati in tutto o per la maggior parte distrutti, nelle terre liberate e redente» trasportata al bilancio del Ministero dei lavori pubblici, in applicazione del [R. decreto 18 gennaio 1923, n. 106](../Regi%20decreti/Col%20quale%20vengono%20trasferiti%20dal%20Ministero%20delle%20terre%20liberate%20a%20quello%20dei%20lavori%20pubblici%20i%20compiti%20relativi%20alla%20ricostituzione%20dei%20beni%20degli%20Enti%20pubblici%20locali%20danneggiati%20dalla%20g_844a24dbcb26.md). 
  
 
 

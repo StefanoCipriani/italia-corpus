@@ -18,13 +18,13 @@ Veduti gli articoli 3, n. 10, e 334 del testo unico per la finanza locale approv
 
 Veduto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Veduto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Veduti gli articoli 52 della parte 1a e 16 della parte 2a del [R. decreto 25 aprile 1926, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-25;679), convertito nella [legge 3 marzo 1927, n. 293](Conversione%20in%20legge%20del%20R.%20decreto%2015%20aprile%201926%20n.%20679%20relativo%20allordinamento%20delle%20Casse%20di%20previdenza%20per%20le%20pensioni%20degli%20impiegati%20e%20dei%20salariati%20degli%20enti%20locali.%20027U0293.md), nonche' il [R. decreto-legge 28 marzo 1929, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-28;519), convertito nella [legge 8 luglio 1929, n. 1368](Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20marzo%201929%20n.%20549%20in%20tema%20di%20liquidazione%20di%20assegni%20di%20quiescenza%20ad%20onere%20ripartito%20fra%20lo%20Stato%20e%20gli%20Istituti%20di%20previdenza%20amministrati%20d_5cfc49ff109e.md);
 
 Veduto l'[art. 4 del R. decreto 16 giugno 1932, n. 687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-06-16;687#art_4);
 
-Veduto il regolamento per gli Archivi di Stato approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163);
+Veduto il regolamento per gli Archivi di Stato approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md);
 
 Veduto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -76,7 +76,7 @@ I collocamenti nei gradi, di cui agli articoli 3, 4 e 5, avranno luogo con attri
 
 ## Art. 7.
 
-Il trattamento di quiescenza degli impiegati e subalterni predetti sara' regolato dall'[art. 48 del R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_48). 
+Il trattamento di quiescenza degli impiegati e subalterni predetti sara' regolato dall'[art. 48 del R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  Nel caso che l'importo della pensione sara' ripartito fra lo Stato e gli Istituti di previdenza amministrati dalla Direzione generale della Cassa depositi e prestiti, questa determinera' contabilmente la quota a suo carico secondo le proprie leggi e con la procedura di cui al [R. decreto-legge 28 marzo 1929, n. 519, e all'art. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-03-28;519#art_52) del [R. decreto 15 aprile 1926, n. 679](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-15;679).
 
 ## Art. 8.
@@ -109,7 +109,7 @@ Il personale subalterno che al 31 dicembre 1931 prestava servizio in qualita' di
 
 I programmi degli esami di ammissione al gruppo B, nonche' quelli di promozione nello stesso gruppo, sono allegati al presente decreto e vistati, d'ordine Nostro, dal Ministro proponente. 
  Il Ministro per l'interno ha, peraltro, facolta' di modificare, sentita la Giunta del Consiglio superiore per gli Archivi, i programmi stessi col decreto che indice gli esami di ammissione o di promozione sopra indicati. 
- I programmi per gli esami di promozione nel ruolo transitorio di gruppo C sono quelli allegati al vigente regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-10-02;1163).
+ I programmi per gli esami di promozione nel ruolo transitorio di gruppo C sono quelli allegati al vigente regolamento per gli Archivi di Stato, approvato con [R. decreto 2 ottobre 1911, n. 1163](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20gli%20archivi%20di%20Stato.%20011U1163.md).
 
 ## Art. 14.
 

@@ -18,7 +18,7 @@ Ad evitare i pericoli ed i danni cui puo' dar luogo il sistema in uso presso il 
 
 Visti i [Regi Decreti del 16 dicembre 1863, n. 1572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1863-12-16;1572), e del [16 luglio 1865, n. 2421](Col%20quale%20le%20disposizioni%20di%20quello%20del%206%20dicembre%201863%20sugli%20Archivi%20delle%20Provincie%20Napolitane%20sono%20estese%20alle%20Provincie%20Siciliane.%20065U2421.md), concernenti il Grande Archivio e gli Archivi provinciali di Napoli e di Sicilia;
 
-Visti gli articoli 22 e 23 del Regolamento per la esecuzione della Legge sul Contenzioso amministrativo, approvato col [Regio Decreto del 25 giugno 1865, n. 2361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-06-25;2361);
+Visti gli articoli 22 e 23 del Regolamento per la esecuzione della Legge sul Contenzioso amministrativo, approvato col [Regio Decreto del 25 giugno 1865, n. 2361](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%20sul%20contenzioso%20amministrativo.%20065U2361.md);
 
 Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo quanto segue:
 

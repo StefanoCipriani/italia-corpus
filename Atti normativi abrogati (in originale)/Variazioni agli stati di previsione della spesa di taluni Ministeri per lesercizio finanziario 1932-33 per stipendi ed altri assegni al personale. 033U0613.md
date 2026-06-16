@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 21 marzo 1932, n. 316, 19 maggio 1932, numero 366, e 26 maggio 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-05-26;366), un. 569 e 572;
 
-Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sulla contabilita' generale dello Stato;
+Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato;
 
 Sentito il Consiglio dei Ministri;
 

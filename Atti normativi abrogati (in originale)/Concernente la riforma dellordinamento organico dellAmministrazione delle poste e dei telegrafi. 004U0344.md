@@ -38,7 +38,7 @@ Sono pure abrogate tutte le altre disposizioni contrarie alla presente, che andr
 
 ### Art. 6.
 
-Agli ufficiali telegrafici, gia' telegrafisti, cui furono soppressi i punti di merito in seguito al [R. decreto 14 dicembre 1890, n. 7345](Che%20abroga%20diversi%20articoli%20del%20regolamento%20pel%20servizio%20interno%20dei%20telegrafi%20090U7345.md), e' concesso l'abbreviamento di due anni sopra un quadriennio od un quinquennio. Tale benefizio decorrera' dal 1° luglio 1905, senza effetto retroattivo. 
+Agli ufficiali telegrafici, gia' telegrafisti, cui furono soppressi i punti di merito in seguito al [R. decreto 14 dicembre 1890, n. 7345](../Regi%20decreti/Che%20abroga%20diversi%20articoli%20del%20regolamento%20pel%20servizio%20interno%20dei%20telegrafi%20090U7345.md), e' concesso l'abbreviamento di due anni sopra un quadriennio od un quinquennio. Tale benefizio decorrera' dal 1° luglio 1905, senza effetto retroattivo. 
  
  Se nel quadriennio o quinquennio - allora in corso - non potra' essere compensato l'intiero biennio, la differenza sara' compensata sul quadriennio o quinquennio successivo. 
  
@@ -62,9 +62,9 @@ I fattorini telegrafici, ammessi anteriormente al regolamento organico approvato
  
  Oltre lo stipendio, sara' loro concesso un assegno ad personam da essere gradatamente diminuito a misura degli aumenti per promozioni, a partire dallo stipendio iniziale di L. 900. 
  
- L'ammontare di detto assegno sara' corrispondente alla retribuzione fissa da loro attualmente goduta, e per quei fattorini che non godono di tale retribuzione, l'assegno sara' ragguagliato alla indennita' iniziale di L. 200 o L. 300, giusta il [R. decreto 10 ottobre 1890, n. 7283](Che%20determina%20lammissione%20e%20la%20retribuzione%20dei%20fattorini%20dellAmministrazione%20telegrafica.%20090U7283.md). 
+ L'ammontare di detto assegno sara' corrispondente alla retribuzione fissa da loro attualmente goduta, e per quei fattorini che non godono di tale retribuzione, l'assegno sara' ragguagliato alla indennita' iniziale di L. 200 o L. 300, giusta il [R. decreto 10 ottobre 1890, n. 7283](../Regi%20decreti/Che%20determina%20lammissione%20e%20la%20retribuzione%20dei%20fattorini%20dellAmministrazione%20telegrafica.%20090U7283.md). 
  
- Ai fattorini anziani che godono il compenso stabilito dal [R. decreto 15 febbraio 1885, n. 2997](Che%20modifica%20il%20Regolamento%20sel%20servizio%20telegrafico.%20085U2997.md), l'assegno ad personam sara' aumentato di L. 100 annue. 
+ Ai fattorini anziani che godono il compenso stabilito dal [R. decreto 15 febbraio 1885, n. 2997](../Regi%20decreti/Che%20modifica%20il%20Regolamento%20sel%20servizio%20telegrafico.%20085U2997.md), l'assegno ad personam sara' aumentato di L. 100 annue. 
  
  I fattorini telegrafici che verranno ammessi in servizio dopo la promulgazione della presente legge saranno retribuiti per ciascun mese, in ragione di centesimi 15 per telegramma fino ai primi 200 recapitati e centesimi 10 per numero ulteriore.
 
@@ -78,7 +78,7 @@ Il passaggio in pianta stabile del personale fuori ruolo, che avra' luogo con l'
 
 ### Art. 12.
 
-Per l'immediata applicazione dell'organico stabilito dalla presente legge si potra' derogare alle disposizioni che regolano le nomine e le promozioni di grado. Le promozioni di classe, che ne conseguono, si faranno pero' esclusivamente per anzianita', tenendo presente per gli ex aiutanti postali quanto dispone l'[articolo 5 del R. decreto 26 gennaio 1899, n. 43](Che%20provvede%20al%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20099U0043.md), in modo pero' che meta' dei posti sara' conferita all'anzianita' di classe, meta' all'anzianita' assoluta del servizio. 
+Per l'immediata applicazione dell'organico stabilito dalla presente legge si potra' derogare alle disposizioni che regolano le nomine e le promozioni di grado. Le promozioni di classe, che ne conseguono, si faranno pero' esclusivamente per anzianita', tenendo presente per gli ex aiutanti postali quanto dispone l'[articolo 5 del R. decreto 26 gennaio 1899, n. 43](../Regi%20decreti/Che%20provvede%20al%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20099U0043.md), in modo pero' che meta' dei posti sara' conferita all'anzianita' di classe, meta' all'anzianita' assoluta del servizio. 
  
  Per la suddetta immediata applicazione e' inoltre fin d'ora soppresso l'ordinario limite di eta' per l'ammissione in pianta degli agenti subalterni fuori ruolo, degli allievi guardafili che ne facciano domanda, e dei fattorini telegrafici. 
  

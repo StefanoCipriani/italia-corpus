@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono istituiti contributi a favore dei titolari dei permessi di ricerche minerarie accordati a termini degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_5) e [59 del R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_59), per l'impianto di cabine elettriche di trasformazione con relative linee di allacciamento e per l'impianto di compressori d'aria.
+Sono istituiti contributi a favore dei titolari dei permessi di ricerche minerarie accordati a termini degli [articoli 5](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md) e [59 del R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), per l'impianto di cabine elettriche di trasformazione con relative linee di allacciamento e per l'impianto di compressori d'aria.
 
 ## Art. 2.
 

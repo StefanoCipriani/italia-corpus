@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-In attesa di provvedimenti definitivi riguardo alla ferrovia Palermo-Corleone, concessa al Consorzio degli enti locali mediante convenzione 10 dicembre 1882 approvata con [R. decreto 7 gennaio 1883, n. 1196](Che%20approva%20la%20convenzione%20per%20la%20concessione%20di%20una%20ferrovia%20da%20Palermo%20per%20Misilmeri%20a%20Corleone.%20083U1196.md), e presentemente esercitata in via provvisoria, d'ufficio, per cura del Ministro dei lavori pubblici, l'esercizio della ferrovia stessa sara', dal giorno 1º marzo 1918, affidato, sempre in via provvisoria, all'Amministrazione delle ferrovie dello Stato.
+In attesa di provvedimenti definitivi riguardo alla ferrovia Palermo-Corleone, concessa al Consorzio degli enti locali mediante convenzione 10 dicembre 1882 approvata con [R. decreto 7 gennaio 1883, n. 1196](../Regi%20decreti/Che%20approva%20la%20convenzione%20per%20la%20concessione%20di%20una%20ferrovia%20da%20Palermo%20per%20Misilmeri%20a%20Corleone.%20083U1196.md), e presentemente esercitata in via provvisoria, d'ufficio, per cura del Ministro dei lavori pubblici, l'esercizio della ferrovia stessa sara', dal giorno 1º marzo 1918, affidato, sempre in via provvisoria, all'Amministrazione delle ferrovie dello Stato.
 
 ## Art. 2.
 

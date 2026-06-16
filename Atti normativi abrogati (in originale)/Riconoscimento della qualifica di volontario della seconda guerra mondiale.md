@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-La concessione della medaglia di benemerenza per i volontari di guerra, istituita per la guerra italoaustriaca 1915-18 con il [regio decreto 24 maggio 1923, n. 1163](Che%20istituisce%20una%20medaglia%20di%20benemerenza%20per%20i%20volontari%20della%20guerra%20italo-austriaca%201915-918.%20023U1163.md), e' estesa a coloro che, durante la seconda guerra mondiale (10 giugno 1940-8 maggio 1945) si siano trovati in entrambe le seguenti condizioni:
+La concessione della medaglia di benemerenza per i volontari di guerra, istituita per la guerra italoaustriaca 1915-18 con il [regio decreto 24 maggio 1923, n. 1163](../Regi%20decreti/Che%20istituisce%20una%20medaglia%20di%20benemerenza%20per%20i%20volontari%20della%20guerra%20italo-austriaca%201915-918.%20023U1163.md), e' estesa a coloro che, durante la seconda guerra mondiale (10 giugno 1940-8 maggio 1945) si siano trovati in entrambe le seguenti condizioni:
  a) aver chiesto ed ottenuto, senza esservi obbligati per legge o per disposizioni di richiamo, di arruolarsi in una delle Forze armate dello Stato o di essere incorporati in reparti ed unita' operanti;
  b) aver partecipato, presso reparti ed unita' operanti ad operazioni di guerra ed aver riportato una delle seguenti decorazioni o distinzioni:
  ricompense al valor militare;

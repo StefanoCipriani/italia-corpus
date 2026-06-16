@@ -38,7 +38,7 @@ Art
 
 2.
 
-Le assunzioni ai posti di grado iniziale dei ruoli del personale del Corpo Reale delle miniere si effettuano con l'osservanza delle norme contenute nei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni, e con le modalita' che verranno stabilite con i bandi di concorso.
+Le assunzioni ai posti di grado iniziale dei ruoli del personale del Corpo Reale delle miniere si effettuano con l'osservanza delle norme contenute nei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, e con le modalita' che verranno stabilite con i bandi di concorso.
 
 ## Art. 3.
 
@@ -68,7 +68,7 @@ I posti del grado iniziale del gruppo B, di cui alle tabelle A e B sono conferit
 
 ## Art. 5.
 
-Le promozioni nei ruoli del personale di cui al presente decreto sono conferiti con l'osservanza delle disposizioni generali vigenti per gli avanzamenti del personale delle Amministrazioni dello Stato, contenute nei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni.
+Le promozioni nei ruoli del personale di cui al presente decreto sono conferiti con l'osservanza delle disposizioni generali vigenti per gli avanzamenti del personale delle Amministrazioni dello Stato, contenute nei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
 
 ## Art. 6.
 

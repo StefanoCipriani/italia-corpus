@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560), e l'annessa convenzione fra lo Stato e il Consorzio industrie fiammiferi;
+Visto il [R. decreto 11 marzo 1923, n. 560](../Regi%20decreti/Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), e l'annessa convenzione fra lo Stato e il Consorzio industrie fiammiferi;
 
 Visto il [R. decreto 23 settembre 1923, n. 2030](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-23;2030), riguardante il riordinamento dei dazi interni di consumo;
 

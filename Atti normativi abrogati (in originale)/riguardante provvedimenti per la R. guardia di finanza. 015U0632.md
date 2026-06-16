@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
+Visto il testo unico delle leggi sull'ordinamento della R. guardia di finanza, approvato con [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
 
 Considerato che per la preparazione militare del corpo, prevista dagli articoli 1 e 8 dell'anzidetto testo unico, si presenta anche per la R. guardia di finanza il bisogno di provvedere con sicurezza e rapidita' alla formazione dei quadri ed alla provvista dei materiali occorrenti pei reparti eventualmente mobilitabili pei servizi territoriali e finanziari che non possono soffrire interruzioni;
 

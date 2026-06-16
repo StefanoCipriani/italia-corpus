@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Chiunque intende ottenere l'abbonamento ad una casella postale deve fare risultare la propria identita' personale nei modi indicati dall'articolo 172 del regolamento generale al servizio postale, approvato con [R. decreto del 10 febbraio 1901, n 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md). 
+Chiunque intende ottenere l'abbonamento ad una casella postale deve fare risultare la propria identita' personale nei modi indicati dall'articolo 172 del regolamento generale al servizio postale, approvato con [R. decreto del 10 febbraio 1901, n 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md). 
  
  Per le Societa' commerciali o industriali, per le amministrazioni dei giornali e per gli enti morali e per altre simili istituzioni, occorre comprovare mediante certificato della competente autorita', chi ne abbia la rappresentanza ai sensi degli [articoli 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_137) e [138 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_138).
 

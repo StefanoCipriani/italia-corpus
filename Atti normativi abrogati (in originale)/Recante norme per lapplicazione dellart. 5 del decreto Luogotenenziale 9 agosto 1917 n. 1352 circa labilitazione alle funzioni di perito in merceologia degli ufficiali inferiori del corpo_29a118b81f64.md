@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 L'abilitazione alle funzioni di perito in merceologia, stabilita per gli ufficiali inferiori di Commissariato dall'art. 5 del Nostro decreto 9 agosto 1917, n. 1352, sara' conseguita presso il R.
-Istituto superiore di studi commerciali e amministrativi di Roma, istituito con [R. decreto del 5 novembre 1906, n. 591](Approvazione%20dellannesso%20statuto%20organico%20del%20R.%20istituto%20di%20studi%20commerciali%20in%20Roma.%20006U0591.md), e trasformato con altro [R. decreto del 28 settembre 1911, n. 1109](Che%20porta%20norme%20sullordinamento%20del%20R.%20Istituto%20superiore%20di%20studi%20commerciali%20e%20amministrativi%20di%20Roma.%20011U1109.md), e di cui alla [legge 20 marzo 1913, n. 268](Riguardante%20lordinamento%20degli%20Istituti%20superiori%20distruzione%20commerciale%20013U0268.md), riguardante l'ordinamento degli Istituti superiori d'istruzione Commerciale.
+Istituto superiore di studi commerciali e amministrativi di Roma, istituito con [R. decreto del 5 novembre 1906, n. 591](../Regi%20decreti/Approvazione%20dellannesso%20statuto%20organico%20del%20R.%20istituto%20di%20studi%20commerciali%20in%20Roma.%20006U0591.md), e trasformato con altro [R. decreto del 28 settembre 1911, n. 1109](../Regi%20decreti/Che%20porta%20norme%20sullordinamento%20del%20R.%20Istituto%20superiore%20di%20studi%20commerciali%20e%20amministrativi%20di%20Roma.%20011U1109.md), e di cui alla [legge 20 marzo 1913, n. 268](Riguardante%20lordinamento%20degli%20Istituti%20superiori%20distruzione%20commerciale%20013U0268.md), riguardante l'ordinamento degli Istituti superiori d'istruzione Commerciale.
 
 ## Art. 2.
 

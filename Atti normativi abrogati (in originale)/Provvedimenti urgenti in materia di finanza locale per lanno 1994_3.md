@@ -106,7 +106,7 @@ Per le spese della liquidazione, l'organo straordinario di liquidazione degli en
 
 11.
 
-Ai componenti dell'organo straordinario di liquidazione e' consentito, per l'espletamento della propria funzione, l'uso del mezzo proprio, a condizione che essi stipulino la polizza assicurativa prevista daD'[articolo 16 del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20settembre%201989%20concernente%20il%20personale%20del%20comparto%20Ministeri%20ed%20altre%20categorie%20di%20cui_c6e7f9764299.md), con oneri a carico della liquidazione.
+Ai componenti dell'organo straordinario di liquidazione e' consentito, per l'espletamento della propria funzione, l'uso del mezzo proprio, a condizione che essi stipulino la polizza assicurativa prevista daD'[articolo 16 del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20settembre%201989%20concernente%20il%20personale%20del%20comparto%20Ministeri%20ed%20altre%20categorie%20di%20cui_c6e7f9764299.md), con oneri a carico della liquidazione.
 
 12.
 
@@ -118,7 +118,7 @@ Gli amministratori dell'ente locale dissestato sono tenuti a fornire all'organo 
 
 14.
 
-Nel caso in cui l'assegnazione di personale fosse documentatamente impossibile o il personale assegnato non idoneo ad insindacabile giudizio dell'organo straordinario di liquidazione, quest'ultimo puo' incaricare, anche ai fini del [comma 12 dell'articolo 6 del decreto del Presidente della Repubblica 24 agosto 1993, n. 378](../DPR/Regolamento%20recante%20norme%20sul%20risanamento%20degli%20enti%20locali%20dissestati.md), professionisti ovvero assumere persone idonee con contratto di lavoro a tempo determinato, avente la durata massima di un anno, autorizzato dal Ministro dell'interno con proprio decreto, con onere a carico della liquidazione. I trattamenti economici sono equiparati ai compensi spettanti all'organo straordinario di liquidazione.
+Nel caso in cui l'assegnazione di personale fosse documentatamente impossibile o il personale assegnato non idoneo ad insindacabile giudizio dell'organo straordinario di liquidazione, quest'ultimo puo' incaricare, anche ai fini del [comma 12 dell'articolo 6 del decreto del Presidente della Repubblica 24 agosto 1993, n. 378](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sul%20risanamento%20degli%20enti%20locali%20dissestati.md), professionisti ovvero assumere persone idonee con contratto di lavoro a tempo determinato, avente la durata massima di un anno, autorizzato dal Ministro dell'interno con proprio decreto, con onere a carico della liquidazione. I trattamenti economici sono equiparati ai compensi spettanti all'organo straordinario di liquidazione.
 
 15.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), che approva il testo delle norme sulla bonifica integrale;
+Visto il [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), che approva il testo delle norme sulla bonifica integrale;
 
 Visto il [R. decreto 5 giugno 1933, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-05;730), riguardante la formazione della piccola proprieta' e di organiche unita' rurali nelle Venezie;
 

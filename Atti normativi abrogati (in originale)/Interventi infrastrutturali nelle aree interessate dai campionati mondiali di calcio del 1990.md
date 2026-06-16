@@ -115,7 +115,7 @@ Per i progetti relativi agli inteventi di cui all'allegato elenco, per i quali s
 
 6.
 
-La Cassa depositi e prestiti e' autorizzata a concedere mutui per la realizzazione degli interventi di cui all'allegato elenco sulla base di deliberazione adottate dalla giunta municipale ai sensi dell'articolo 140 del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
+La Cassa depositi e prestiti e' autorizzata a concedere mutui per la realizzazione degli interventi di cui all'allegato elenco sulla base di deliberazione adottate dalla giunta municipale ai sensi dell'articolo 140 del testo unico della legge comunale e provinciale, approvato con [regio decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 7.
 

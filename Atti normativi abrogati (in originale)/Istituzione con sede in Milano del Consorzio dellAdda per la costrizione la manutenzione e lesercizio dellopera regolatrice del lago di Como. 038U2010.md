@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) approvato con [R. decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775);
+Visto il [testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con [R. decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -65,7 +65,7 @@ Il Consiglio di amministrazione del Consorzio ripartisce a carico di coloro che 
 
 ## Art. 5.
 
-I contributi a carico degli interessati costituiscono oneri reali gravanti sugli immobili degli utenti consorziati e sono riscossi con le forme e con la procedura privilegiata stabilite dalla legge per la riscossione delle imposte dirette. Detti contributi sono assistiti da privilegio, che prende grado dopo quello stabilito dall'[art. 39 del testo unico sulle acque](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_39) 11 dicembre 1933, n. 1775. Per il Demanio dello Stato resta fermo il disposto dell'art. 69 dello stesso testo unico.
+I contributi a carico degli interessati costituiscono oneri reali gravanti sugli immobili degli utenti consorziati e sono riscossi con le forme e con la procedura privilegiata stabilite dalla legge per la riscossione delle imposte dirette. Detti contributi sono assistiti da privilegio, che prende grado dopo quello stabilito dall'[art. 39 del testo unico sulle acque](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) 11 dicembre 1933, n. 1775. Per il Demanio dello Stato resta fermo il disposto dell'art. 69 dello stesso testo unico.
 
 ## Art. 6.
 

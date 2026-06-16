@@ -18,7 +18,7 @@ Visto il [R. decreto 11 novembre 1973, n. 2395](https://www.normattiva.it/uri-re
 
 Visto il R. decreto 30 dicembre 1923, n, 2960, recante disposizioni sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), relativa all'ordinamento della istruzione media e dei convitti nazionali;
+Visto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), relativa all'ordinamento della istruzione media e dei convitti nazionali;
 
 Visto il [R. decreto 27 novembre 1924, n. 2367](Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), sullo stato dei presidi, dei professori e del personale assistente, di segreteria e subalterno dei Regi istituti medi d'istruzione;
 

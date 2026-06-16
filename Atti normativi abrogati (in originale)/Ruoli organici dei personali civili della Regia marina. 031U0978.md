@@ -22,7 +22,7 @@ Vista la [legge 6 luglio 1911, n. 648](Che%20reca%20le%20disposizioni%20per%20al
 
 Visto il [R. decreto-legge 24 luglio 1930, n. 1088](Proroga%20del%20divieto%20di%20assunzione%20di%20nuovo%20personale%20nellAmministrazione%20dello%20Stato.%20030U1088.md), col quale si proroga la efficacia delle disposizioni del [R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387), concernente il divieto di assunzione di personale nell'Amministrazione dello Stato e norme per il riordinamento dei servizi;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), riguardante disposizioni sullo stato giuridico degli impiegati civili dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), riguardante disposizioni sullo stato giuridico degli impiegati civili dello Stato;
 
 Udito il Consiglio di Stato;
 

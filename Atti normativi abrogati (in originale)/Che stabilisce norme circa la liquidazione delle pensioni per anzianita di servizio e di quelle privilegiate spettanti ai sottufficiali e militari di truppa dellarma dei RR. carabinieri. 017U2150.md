@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), che approva il testo unico delle leggi sulle pensioni civili e militari;
+Visto il [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico delle leggi sulle pensioni civili e militari;
 
 Viste le [leggi 6 luglio 1911, n. 690 e 31 maggio 1913, n. 596](Che%20porta%20disposizioni%20relative%20alla%20legge%206%20luglio%201911%20n.%20690%20riguardanti%20larma%20dei%20RR.%20carabinieri%20013U0596.md);
 

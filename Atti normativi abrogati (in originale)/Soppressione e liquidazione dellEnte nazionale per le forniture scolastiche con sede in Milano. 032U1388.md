@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 8 dicembre 1927, n. 2386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-08;2386), col quale l'Ente nazionale per le forniture scolastiche, con sede in Milano, fu eretto in ente morale e ne fu approvato il relativo statuto;
+Veduto il [R. decreto 8 dicembre 1927, n. 2386](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellEnte%20nazionale%20per%20le%20forniture%20scolastiche%20in%20Milano.%20027U2386.md), col quale l'Ente nazionale per le forniture scolastiche, con sede in Milano, fu eretto in ente morale e ne fu approvato il relativo statuto;
 
 Considerata la necessita' urgente ed assoluta di procedere alla soppressione dell'Ente e alla sua liquidazione;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Dalla data del presente decreto, l'Ente nazionale per le forniture scolastiche, con sede in Milano, eretto in ente morale con [R. decreto 8 dicembre 1927, n. 2386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-08;2386), e' soppresso. Dalla stessa data si provvedera' alla sua liquidazione.
+Dalla data del presente decreto, l'Ente nazionale per le forniture scolastiche, con sede in Milano, eretto in ente morale con [R. decreto 8 dicembre 1927, n. 2386](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellEnte%20nazionale%20per%20le%20forniture%20scolastiche%20in%20Milano.%20027U2386.md), e' soppresso. Dalla stessa data si provvedera' alla sua liquidazione.
 
 ## Art. 2.
 

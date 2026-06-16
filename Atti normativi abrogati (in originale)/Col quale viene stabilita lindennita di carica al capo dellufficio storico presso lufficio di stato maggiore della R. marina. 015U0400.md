@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 7 giugno 1914, n. 494](Che%20approva%20maggiori%20assegnazioni%20e%20diminuzioni%20di%20stanziamento%20su%20alcuni%20capitoli%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20marina%20per%20lesercizio%20finanziario%201913-914.%20014U0494.md), che approva maggiori assegnazioni e diminuzioni di stanziamenti su alcuni capitoli dello stato di previsione della spesa del Ministero della marina per l'esercizio 1913-9l4; 
  
- Visto il [R. decreto 29 agosto 1913, n. 1123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-29;1123), che istituisce l'ufficio storico presso l'ufficio di stato maggiore della marina; 
+ Visto il [R. decreto 29 agosto 1913, n. 1123](../Regi%20decreti/Col%20quale%20viene%20istituito%20lufficio%20storico%20presso%20lufficio%20di%20stato%20maggiore%20della%20R.%20marina.%20013U1123.md), che istituisce l'ufficio storico presso l'ufficio di stato maggiore della marina; 
  
  Sentito il Consiglio superiore di marina; 
  

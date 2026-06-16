@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto coi Minist
 
 ## Art. 1.
 
-La Scuola pratica di meccanica agraria in Roma, istituita con i [Regi decreti 22 luglio 1923, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-07-22;1860), e [19 luglio 1924, n. 1229](Fondazione%20in%20Roma%20duna%20Scuola%20pratica%20di%20meccanica%20agraria%20consorziale%20autonoma.%20024U1229.md), impiantera' tre succursali permanenti: una in Sicilia, nella zona frumentaria dell'interno dell'Isola, una in Capitanata ed una in Ferrara. 
+La Scuola pratica di meccanica agraria in Roma, istituita con i [Regi decreti 22 luglio 1923, n. 1860](../Regi%20decreti/Fondazione%20di%20una%20scuola%20pratica%20di%20meccanica%20agraria%20in%20Roma.%20023U1860.md), e [19 luglio 1924, n. 1229](../Regi%20decreti/Fondazione%20in%20Roma%20duna%20Scuola%20pratica%20di%20meccanica%20agraria%20consorziale%20autonoma.%20024U1229.md), impiantera' tre succursali permanenti: una in Sicilia, nella zona frumentaria dell'interno dell'Isola, una in Capitanata ed una in Ferrara. 
  
  Compito principale delle dette succursali sara' di istruire praticamente gli operai rurali nell'uso razionale, nella manutenzione e nella riparazione delle macchine agrarie, con speciale riguardo alla motocoltura ed alle esigenze tecniche dell'agricoltura locale. 
  

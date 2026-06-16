@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per gli Affari di 
 
 ## Art. 1.
 
-La pena corporale col bastone per gli uomini, e colle verghe per le donne e pei minori degli anni diciotto, comminata dai §§ 19 e 240 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 maggio 1852, e dai §§ 91 e seguenti dell'Ordinanza del Ministero di Vienna 16 giugno 1854, si' come pena principale, che come inasprimento di pena, e' abolita.
+La pena corporale col bastone per gli uomini, e colle verghe per le donne e pei minori degli anni diciotto, comminata dai §§ 19 e 240 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco del 27 maggio 1852, e dai §§ 91 e seguenti dell'Ordinanza del Ministero di Vienna 16 giugno 1854, si' come pena principale, che come inasprimento di pena, e' abolita.
 
 ## Art. 2.
 

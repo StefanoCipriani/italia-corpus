@@ -27,7 +27,7 @@ Con effetto dal 1 luglio 1948, il [primo comma, dell'art. 8 del regio decreto-le
 
 ## Art. 2.
 
-Le disposizioni degli [articoli 1](Norme%20concernenti%20i%20titoli%20del%20prestito%20redimibile%20350%20per%20cento%20creato%20con%20R.%20decreto-legge%203%20febbraio%201934-XII%20n.%2060%20e%20la%20sostituzione%20di%20tali%20titoli%20a%20quelli%20dei%20consolidati%205%20per%20cent_51feab583e4b.md) e [2 del regio decreto 31 maggio 1934, n. 835](Norme%20concernenti%20i%20titoli%20del%20prestito%20redimibile%20350%20per%20cento%20creato%20con%20R.%20decreto-legge%203%20febbraio%201934-XII%20n.%2060%20e%20la%20sostituzione%20di%20tali%20titoli%20a%20quelli%20dei%20consolidati%205%20per%20cent_51feab583e4b.md), a decorrere dal 1 luglio 1948, sono sostituite dalle seguenti:
+Le disposizioni degli [articoli 1](../Regi%20decreti/Norme%20concernenti%20i%20titoli%20del%20prestito%20redimibile%20350%20per%20cento%20creato%20con%20R.%20decreto-legge%203%20febbraio%201934-XII%20n.%2060%20e%20la%20sostituzione%20di%20tali%20titoli%20a%20quelli%20dei%20consolidati%205%20per%20cent_51feab583e4b.md) e [2 del regio decreto 31 maggio 1934, n. 835](../Regi%20decreti/Norme%20concernenti%20i%20titoli%20del%20prestito%20redimibile%20350%20per%20cento%20creato%20con%20R.%20decreto-legge%203%20febbraio%201934-XII%20n.%2060%20e%20la%20sostituzione%20di%20tali%20titoli%20a%20quelli%20dei%20consolidati%205%20per%20cent_51feab583e4b.md), a decorrere dal 1 luglio 1948, sono sostituite dalle seguenti:
  "Per il Prestito redimibile 3,50% (1934) il taglio unitario dei titoli al portatore e' di lire 1000. Possono emettersi tagli multipli di quello unitario in lire 2000, 4000, 5000, 10.000, 20.000, 50.000 e 100.000, nonche' quando sia indispensabile, tagli sottomultipli in lire 100 e lire 500. Tutti i titoli hanno numerazione progressiva, per taglio.
  I certificati nominativi sono emessi senza alcuna indicazione dei titoli al portatore dai quali hanno origine".
 
@@ -43,7 +43,7 @@ I titoli al portatore del Prestito redimibile 3,50% (1934), in circolazione al 1
 
 ## Art. 5.
 
-L'[art. 3 del regio decreto 31 maggio 1934, n. 835](Norme%20concernenti%20i%20titoli%20del%20prestito%20redimibile%20350%20per%20cento%20creato%20con%20R.%20decreto-legge%203%20febbraio%201934-XII%20n.%2060%20e%20la%20sostituzione%20di%20tali%20titoli%20a%20quelli%20dei%20consolidati%205%20per%20cent_51feab583e4b.md), e' sostituito, con effetto dal 1 luglio 1948, dal seguente:
+L'[art. 3 del regio decreto 31 maggio 1934, n. 835](../Regi%20decreti/Norme%20concernenti%20i%20titoli%20del%20prestito%20redimibile%20350%20per%20cento%20creato%20con%20R.%20decreto-legge%203%20febbraio%201934-XII%20n.%2060%20e%20la%20sostituzione%20di%20tali%20titoli%20a%20quelli%20dei%20consolidati%205%20per%20cent_51feab583e4b.md), e' sostituito, con effetto dal 1 luglio 1948, dal seguente:
  "E' ammessa la riunione di titoli al portatore di taglio sottomultiplo, unitario e multiplo, nonche' la divisione di titoli di taglio multiplo in altri di valore nominale non inferiore a lire mille".
 
 ## Art. 6.

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [Regio decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md) che detta norme per la esecuzione delle opere pubbliche;
+Visto il [Regio decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md) che detta norme per la esecuzione delle opere pubbliche;
 
 Visto il [Regio decreto 28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro per i Lavori Pubblici, di concerto con i Mini
 
 ## Art. 1.
 
-All'[art. 19 del R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), modificato dall'[art. 3 del R. decreto 28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_3), e' sostituito il seguente: 
+All'[art. 19 del R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md), modificato dall'[art. 3 del R. decreto 28 agosto 1924, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1396#art_3), e' sostituito il seguente: 
  
  «Per i lavori di conto dello Stato che importino nel loro complesso definitivo, secondo le risultanze del conto finale una spesa non superiore alle lire 200.000,00 si puo' prescindere dall'atto formale di collaudo, che sara' sostituito da un certificato dell'Ingegnere Direttore, confermato dall'Ingegnere Capo del Genio Civile o di altro Ufficio Tecnico governativo dirigente che attesti la regolare esecuzione dei lavori. 
  

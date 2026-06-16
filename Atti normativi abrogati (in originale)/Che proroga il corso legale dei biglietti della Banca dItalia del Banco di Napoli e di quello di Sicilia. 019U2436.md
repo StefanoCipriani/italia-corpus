@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto l'art. 9 del testo unico di legge sugl'Istituti di emissione e sulla circolazione dei biglietti di banca, approvato con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);
+Veduto l'art. 9 del testo unico di legge sugl'Istituti di emissione e sulla circolazione dei biglietti di banca, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Udito il Consiglio dai ministri;
 
@@ -22,7 +22,7 @@ Sulla Proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato
 
 ## Art. 1.
 
-E' prorogato sino al 31 dicembre 1920 il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli, e del Banco di Sicilia di che all'articolo 9 del tento unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204).
+E' prorogato sino al 31 dicembre 1920 il corso legale dei biglietti della Banca d'Italia, del Banco di Napoli, e del Banco di Sicilia di che all'articolo 9 del tento unico delle leggi sugli Istituti di emissione, approvato con [R. decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md).
 
 ## Art. 2.
 

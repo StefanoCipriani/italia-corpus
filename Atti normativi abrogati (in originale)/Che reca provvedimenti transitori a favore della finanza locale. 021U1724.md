@@ -44,7 +44,7 @@ La tassa di esercizio, di cui all'[art. 8 del decreto Luogotenenziale 31 ottobre
 
 ## Art. 3.
 
-I ricorsi contro l'iscrizione nella matricola della tassa di famiglia sono decisi in primo grado dalla Commissione di cui al secondo comma dell'art. 117 del regolamento per l'esecuzione della legge comunale e provinciale approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297). 
+I ricorsi contro l'iscrizione nella matricola della tassa di famiglia sono decisi in primo grado dalla Commissione di cui al secondo comma dell'art. 117 del regolamento per l'esecuzione della legge comunale e provinciale approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md). 
  
  La Commissione puo' essere scelta per una meta' dei suoi componenti anche fuori del Cossiglio comunale, fra gli elettori del Comune.
 
@@ -106,11 +106,11 @@ Sono del pari prorogate sino alla detta data le disposizioni degli [articoli 6](
 
 ## Art. 12.
 
-Fino al 31 dicembre 1922 i mutui contratti dai Comuni con titoli cambiari giusta il terzo comma dello art. 191 della legge comunale e provinciale, testo unico, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), potranno essere autorizzati fino al limite di un quinto della rendita ordinaria del Comune valutata nei modi indicati dal citato articolo di legge.
+Fino al 31 dicembre 1922 i mutui contratti dai Comuni con titoli cambiari giusta il terzo comma dello art. 191 della legge comunale e provinciale, testo unico, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), potranno essere autorizzati fino al limite di un quinto della rendita ordinaria del Comune valutata nei modi indicati dal citato articolo di legge.
 
 ## Art. 13.
 
-Il ricorso alla V sezione del Consiglio di Stato, di cui al comma 8 dell'art. 310 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)) e' ammesso anche ad esercizio finanziario iniziato. 
+Il ricorso alla V sezione del Consiglio di Stato, di cui al comma 8 dell'art. 310 della legge comunale e provinciale (testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md)) e' ammesso anche ad esercizio finanziario iniziato. 
  
  La competenza della V sezione si estende anche al merito, a tutti gli effetti di legge.
 

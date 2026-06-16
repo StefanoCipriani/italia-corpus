@@ -18,7 +18,7 @@ Visti gli [articoli 4 della legge 26 settembre 1920, n. 1322, 3](https://www.nor
 
 Visto l'[art. 2 del R. decreto 4 novembre 1928, n. 2325](Disposizioni%20per%20lunificazione%20legislativa%20nei%20territori%20annessi%20al%20Regno.%20028U2325.md);
 
-Visto il [R. decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499), contenente disposizioni relative ai libri fondiari dei territori delle nuove provincie;
+Visto il [R. decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), contenente disposizioni relative ai libri fondiari dei territori delle nuove provincie;
 
 Ritenuta la necessita' di estendere ai territori annessi al Regno la legge italiana sulle tasse ipotecarie, con gli adattamenti opportuni in relazione al sistema di pubblicita' dei libri fondiari in vigore nei detti territori;
 
@@ -40,7 +40,7 @@ La liquidazione e percezione delle tasse ipotecarie di ogni specie saranno fatte
  
  In prova dell'avvenuta riscossione delle tasse ipotecarie l'ufficio del registro rilascia quietanza separata. 
  
- Qualora sia presentata domanda di iscrizione tavolare prima del pagamento delle tasse, nei casi indicati nell'articolo 91 del nuovo testo della legge generale sui libri fondiari, allegata al [Regio decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499), la domanda sara' annotata nel libro fondiario con l'aggiunta «fino alla presentazione della quietanza delle tasse ipotecarie», allo scopo di riservare il grado della iscrizione, a meno che non risulti dalla domanda che essa debba comunque essere respinta. Contemporaneamente verra' assegnato dal giudice tavolare all'istante un congruo termine per la presentazione della quietanza. Se la quietanza viene presentata nel termine assegnato, il giudice dovra' pronunciarsi sulla domanda; altrimenti questa sara' respinta e la annotazione sara' cancellata d'ufficio.
+ Qualora sia presentata domanda di iscrizione tavolare prima del pagamento delle tasse, nei casi indicati nell'articolo 91 del nuovo testo della legge generale sui libri fondiari, allegata al [Regio decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), la domanda sara' annotata nel libro fondiario con l'aggiunta «fino alla presentazione della quietanza delle tasse ipotecarie», allo scopo di riservare il grado della iscrizione, a meno che non risulti dalla domanda che essa debba comunque essere respinta. Contemporaneamente verra' assegnato dal giudice tavolare all'istante un congruo termine per la presentazione della quietanza. Se la quietanza viene presentata nel termine assegnato, il giudice dovra' pronunciarsi sulla domanda; altrimenti questa sara' respinta e la annotazione sara' cancellata d'ufficio.
 
 ## Art. 3.
 
@@ -73,7 +73,7 @@ Alla prenotazione e riscossione delle tasse ipotecarie a debito, di cui al titol
  
  I titoli quarto e quinto della legge sulle tasse ipotecarie 30 dicembre 1923, n. 3272, non sono applicabili alle provincie annesse. 
  
- Non e' applicabile nemmeno il titolo terzo; ma le iscrizioni tavolari dipendenti dagli atti indicati negli articoli 18 e 19 della legge medesima, in quanto non sia diversamente stabilito nel [R. decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499), e nella legge tavolare alligata al medesimo, sono eseguite ad istanza di chi vi abbia interesse. 
+ Non e' applicabile nemmeno il titolo terzo; ma le iscrizioni tavolari dipendenti dagli atti indicati negli articoli 18 e 19 della legge medesima, in quanto non sia diversamente stabilito nel [R. decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), e nella legge tavolare alligata al medesimo, sono eseguite ad istanza di chi vi abbia interesse. 
  
  Sono obbligati a chiedere senza ritardo la iscrizione tavolare, per gli atti che interessino incapaci, le persone indicate dell'[art. 1944 codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1944).
 

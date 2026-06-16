@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 giugno 1923 n. 1366](Che%20stabilisce%20i%20nuovi%20prezzi%20per%20gli%20annunzi%20gli%20abbonamenti%20e%20la%20vendita%20della%20Gazzetta%20ufficiale%20del%20Regno.%20023U1366.md);
+Visto il [R. decreto 28 giugno 1923 n. 1366](../Regi%20decreti/Che%20stabilisce%20i%20nuovi%20prezzi%20per%20gli%20annunzi%20gli%20abbonamenti%20e%20la%20vendita%20della%20Gazzetta%20ufficiale%20del%20Regno.%20023U1366.md);
 
 Ritenuta la necessita' di modificare il sistema vigente per la determinazione e la riscossione del prezzo delle inserzioni degli annunzi nella Gazzetta Ufficiale del Regno;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze; Abbiamo decretato e decretiamo
 
 ## Articolo unico.
 
-L'[art. 1 del R. decreto 28 giugno 1923, n. 1366](Che%20stabilisce%20i%20nuovi%20prezzi%20per%20gli%20annunzi%20gli%20abbonamenti%20e%20la%20vendita%20della%20Gazzetta%20ufficiale%20del%20Regno.%20023U1366.md), e' modificato come appresso: 
+L'[art. 1 del R. decreto 28 giugno 1923, n. 1366](../Regi%20decreti/Che%20stabilisce%20i%20nuovi%20prezzi%20per%20gli%20annunzi%20gli%20abbonamenti%20e%20la%20vendita%20della%20Gazzetta%20ufficiale%20del%20Regno.%20023U1366.md), e' modificato come appresso: 
  
  Il prezzo degli annunzi da inserire nella Gazzetta Ufficiale del Regno e' di L. 2 - per gli annunzi giudiziari - e di L. 3 - per ogni altro annunzio - per ciascuna linea di scrittura o di cifre dell'annunzio originale comunicato per la inserzione, esclusa l'intestazione, per la quale e' dovuto un diritto fisso di L. 20 per gli annunzi giudiziari e di L. 30 per gli altri annunzi. 
  

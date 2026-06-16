@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md) e successive modificazioni;
+Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md) e successive modificazioni;
 
-Visti il regolamento per l'esecuzione del predetto testo unico approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e successive modificazioni;
+Visti il regolamento per l'esecuzione del predetto testo unico approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), e successive modificazioni;
 
 Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), e successive modificazioni, nonche' il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Articolo unico.
 
-L'estrazione a sorte delle cartelle, per i sensi dello [art. 41 del regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472#art_41), puo' effettuarsi, a scelta degli enti emittenti, anziche' con le modalita' di cui ai commi secondo, terzo, quarto e quinto dell'articolo stesso, con le seguenti modalita'.
+L'estrazione a sorte delle cartelle, per i sensi dello [art. 41 del regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), puo' effettuarsi, a scelta degli enti emittenti, anziche' con le modalita' di cui ai commi secondo, terzo, quarto e quinto dell'articolo stesso, con le seguenti modalita'.
  Ogni estrazione viene effettuata in base ad elenchi (redatti separatamente secondo i tipi, saggi, serie e tagli dei titoli) ove saranno stati inseriti, giusta il succedersi della numerazione, i titoli validi, esclusi cioe' quelli gia' annullati per precedenti estrazioni o per consegne in anticipata restituzione di mutui.
  In ogni elenco i titoli si considerano distinti, ai fini della estrazione, da numeri d'ordine progressivi, cominciando da uno.
  Per ogni elenco viene estratto (entro il limite del numero d'ordine massimo di cui al comma precedente) un numero. I titoli da rimborsare saranno costituiti (sempre in base ai numeri d'ordine spettanti nell'elenco) da quello contrassegnato dal numero estratto e da tutti i successivi, fino a concorrenza della quantita' di titoli da rimborsare. Agli effetti della sequenza, il primo numero di ciascun elenco e' considerato come successivo all'ultimo numero dell'elenco stesso.

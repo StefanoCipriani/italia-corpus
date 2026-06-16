@@ -32,7 +32,7 @@ Intervenuto il «nulla osta» ministeriale, di cui all'art. 2, l'autorizzazione 
  
  c) del regolamento organico del personale e di quello di esercizio. 
  
- Il prefetto con lo stesso provvedimento, col quale concede l'autorizzazione, approva anche il progetto di cui alla lettera a), sentito l'ufficio del Genio civile, ed osservate le disposizioni contenute nell'[art. 228 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_228), approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265). 
+ Il prefetto con lo stesso provvedimento, col quale concede l'autorizzazione, approva anche il progetto di cui alla lettera a), sentito l'ufficio del Genio civile, ed osservate le disposizioni contenute nell'[art. 228 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md). 
  
  Quando per la esecuzione delle opere progettate si rendono necessarie espropriazioni di beni immobili o di diritti relativi ad immobili, ai sensi della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), l'approvazione del progetto, osservate le disposizioni degli articoli 4 e 5 della citata legge, equivale a dichiarazione di pubblica utilita'. 
  

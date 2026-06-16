@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia;
+Veduto il [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), concernente l'assicurazione obbligatoria contro la invalidita' e la vecchiaia;
 
 Sentito il Consiglio dei Ministri:
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Nel [R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184), al [n. 1 dell'articolo 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;1#art_15) e' sostituito il seguente: 
+Nel [R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), al [n. 1 dell'articolo 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;1#art_15) e' sostituito il seguente: 
  
  «otto rappresentanti dei datori di lavoro e otto rappresentanti degli assicurati obbligatori, scelti dal Ministro per l'economia nazionale di concerto con quello per le finanze, i primi fra i datori di lavoro appartenenti alla Confederazione generale dell'industria, alla Federazione italiana dei sindacati agricoli ed alla Confederazione generale del commercio rispettivamente in numero di cinque, due ed uno: ed i secondi fra gli appartenenti alle Corporazioni nazionali fasciste». 
  

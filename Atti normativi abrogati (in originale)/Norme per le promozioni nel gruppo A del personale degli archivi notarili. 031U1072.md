@@ -55,7 +55,7 @@ b) delle prove di cui alle lettere c) e d) del comma precedente.
 
 ## Art. 5.
 
-Nella formazione della graduatoria dei candidati dichiarati idonei sara' assegnato nella votazione complessiva un punto o frazione ai candidati che abbiano sostenuto con esito favorevole la prova in paleografia, diplomatica ed archivistica, un punto a quelli che abbiano conseguito il titolo dell'abilitazione al notariato in virtu' del [R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), e mezzo punto a quelli che abbiano conseguito tale titolo in virtu' di leggi anteriori.
+Nella formazione della graduatoria dei candidati dichiarati idonei sara' assegnato nella votazione complessiva un punto o frazione ai candidati che abbiano sostenuto con esito favorevole la prova in paleografia, diplomatica ed archivistica, un punto a quelli che abbiano conseguito il titolo dell'abilitazione al notariato in virtu' del [R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), e mezzo punto a quelli che abbiano conseguito tale titolo in virtu' di leggi anteriori.
 
 ## Art. 6.
 

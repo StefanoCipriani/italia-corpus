@@ -54,7 +54,7 @@ L'art. 226 del regolamento approvato con [R. decreto 3 giugno 1924, n. 969](Appr
  
  «Tale disposizione si applica anche in caso di trasformazione parziale di ordinamento e cioe' quando ad una scuola sia aggregata una sezione di grado superiore. 
  
- «Il personale titolare che non abbia i requisiti necessari ad occupare un posto nel ruolo organico della nuova scuola, sara' trasferito possibilmente ad altra corrispondente al primitivo ordinamento e intanto si applicheranno ad esso le disposizioni di cui all'[art. 34 del R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_34)». 
+ «Il personale titolare che non abbia i requisiti necessari ad occupare un posto nel ruolo organico della nuova scuola, sara' trasferito possibilmente ad altra corrispondente al primitivo ordinamento e intanto si applicheranno ad esso le disposizioni di cui all'[art. 34 del R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md)». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

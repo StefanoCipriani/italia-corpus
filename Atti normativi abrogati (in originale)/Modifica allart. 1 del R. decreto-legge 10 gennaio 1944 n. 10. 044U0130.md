@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto il R. 19 luglio 1924, n 1357;
 
 Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md);
 
-Visto il [R. decreto 2 luglio 1925, n. 1196](Attribuzioni%20del%20direttore%20generale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20relative%20allesercizio%20del%20bilancio.%20025U1196.md);
+Visto il [R. decreto 2 luglio 1925, n. 1196](../Regi%20decreti/Attribuzioni%20del%20direttore%20generale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20relative%20allesercizio%20del%20bilancio.%20025U1196.md);
 
 Visto il [R. decreto-legge 10 luglio 1925, n. 1424](Competenza%20del%20Consiglio%20di%20amministrazione%20delle%20poste%20e%20dei%20telegrafi%20per%20la%20trattazione%20di%20affari%20e%20di%20provvedimenti%20di%20secondaria%20importanza.%20025U1424.md);
 

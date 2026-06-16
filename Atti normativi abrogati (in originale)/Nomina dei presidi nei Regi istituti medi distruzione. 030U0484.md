@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e il [regolamento 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e il [regolamento 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367);
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,11 +26,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-I presidi dei Regi istituti medi d'istruzione sono nominati dal Ministro per l'educazione nazionale fra i professori aventi i requisiti di cui all'[art. 12 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_12), i quali appartengano al ruolo d'onore o siano compresi nell'elenco di cui all'articolo seguente.
+I presidi dei Regi istituti medi d'istruzione sono nominati dal Ministro per l'educazione nazionale fra i professori aventi i requisiti di cui all'[art. 12 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), i quali appartengano al ruolo d'onore o siano compresi nell'elenco di cui all'articolo seguente.
 
 ## Art. 2.
 
-Ogni anno, non piu' tardi del mese di maggio, il Ministro per l'educazione nazionale forma per i singoli tipi d'istituto un elenco dei professori, anche se temporaneamente posti a disposizione di altre Amministrazioni o addetti ad altri uffici, non compresi nel ruolo d'onore, i quali, trovandosi nelle condizioni previste nell'[art. 12 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_12), siano riconosciuti idonei all'ufficio direttivo. 
+Ogni anno, non piu' tardi del mese di maggio, il Ministro per l'educazione nazionale forma per i singoli tipi d'istituto un elenco dei professori, anche se temporaneamente posti a disposizione di altre Amministrazioni o addetti ad altri uffici, non compresi nel ruolo d'onore, i quali, trovandosi nelle condizioni previste nell'[art. 12 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), siano riconosciuti idonei all'ufficio direttivo. 
  
  Nel formare il detto elenco il Ministro avra' riguardo alla condotta politica, all'autorita' morale e ai requisiti culturali, didattici e amministrativi dei professori, nonche' alle loro benemerenze belliche e nazionali.
 

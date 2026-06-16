@@ -18,7 +18,7 @@ E' autorizzata la spesa di L. 104.800.000 per provvedere alle spese generali di 
 
 ## Art. 3.
 
-E' autorizzata li spesa di L. 14.255.000 per provvedere ai servizi di edilizia trasferiti in gestione del Ministero dei lavori pubblici, in virtu' del [R. decreto 18 maggio 1931, numero 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544).
+E' autorizzata li spesa di L. 14.255.000 per provvedere ai servizi di edilizia trasferiti in gestione del Ministero dei lavori pubblici, in virtu' del [R. decreto 18 maggio 1931, numero 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md).
 
 ## Art. 4.
 

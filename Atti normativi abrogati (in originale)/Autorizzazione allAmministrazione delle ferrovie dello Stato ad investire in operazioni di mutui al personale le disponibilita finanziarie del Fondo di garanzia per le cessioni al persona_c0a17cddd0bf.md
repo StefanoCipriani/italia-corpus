@@ -24,7 +24,7 @@ Sui finanziamenti ricevuti in conseguenza di quanto detto al precedente art. 1, 
 
 ## Art. 3.
 
-E' abolito il contributo che l'Amministrazione delle Ferrovie dello Stato preleva annualmente dal "Fondo di garanzia per le cessioni" ai sensi dell'art. 8 del "Regolamento sulla pignorabilita' e sulla sequestrabilita' degli stipendi, delle paglie e delle pensioni e sulla cessione degli stipendi e delle paghe degli agenti appartenenti all'Amministrazione delle ferrovie dello Stato", approvato con [regio decreto 29 luglio 1914, n. 850](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20sulla%20pignorabilita%20e%20sulla%20sequestrabilita%20degli%20stipendi%20delle%20paghe%20e%20delle%20pensioni%20e%20sulla%20cessione%20degli%20stipendi%20e%20delle%20paghe%20degli%20_6be1e51aa7f7.md).
+E' abolito il contributo che l'Amministrazione delle Ferrovie dello Stato preleva annualmente dal "Fondo di garanzia per le cessioni" ai sensi dell'art. 8 del "Regolamento sulla pignorabilita' e sulla sequestrabilita' degli stipendi, delle paglie e delle pensioni e sulla cessione degli stipendi e delle paghe degli agenti appartenenti all'Amministrazione delle ferrovie dello Stato", approvato con [regio decreto 29 luglio 1914, n. 850](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20sulla%20pignorabilita%20e%20sulla%20sequestrabilita%20degli%20stipendi%20delle%20paghe%20e%20delle%20pensioni%20e%20sulla%20cessione%20degli%20stipendi%20e%20delle%20paghe%20degli%20_6be1e51aa7f7.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

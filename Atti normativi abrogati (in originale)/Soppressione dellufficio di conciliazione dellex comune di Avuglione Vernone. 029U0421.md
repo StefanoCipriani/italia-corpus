@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 8 dicembre 1927, n. 2442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-08;2442), col quale il comune di Avuglione Vernone e' stato soppresso, ed il rispettivo territorio aggregato a quello di Marentino; 
+ Visto il [R. decreto 8 dicembre 1927, n. 2442](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Avuglione-Vernone%20e%20larenano%20in%20un%20unico%20Comune%20denominato%20Marentino.%20027U2442.md), col quale il comune di Avuglione Vernone e' stato soppresso, ed il rispettivo territorio aggregato a quello di Marentino; 
  
  Vista la deliberazione del commissario prefettizio di Marentino, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Avuglione Vernone; 
  

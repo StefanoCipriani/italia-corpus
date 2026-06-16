@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Il deposito centrale per le truppe coloniali in Napoli che era previsto nelle tabelle organiche del [R. decreto 2 ottobre 1911, n. 1136](Col%20quale%20sono%20approvate%20le%20nuove%20tabelle%20organiche%20del%20R.%20corpo%20di%20truppe%20coloniali%20dellEritrea.%20011U1136.md), e che e' stato soppresso nelle nuove tabelle organiche del R. corpo di truppe coloniali dell'Eritrea, approvate col [R. decreto 28 marzo 1915, n. 648](Col%20quale%20sono%20approvate%20le%20tabelle%20organiche%20del%20R.%20corpo%20di%20truppe%20coloniali%20dellEritrea%20in%20sostituzione%20di%20quelle%20approvate%20col%20R.%20decreto%202%20ottobre%201911%20n.%201136%20015U0648.md), viene istituito secondo la tabella annessa.
+Il deposito centrale per le truppe coloniali in Napoli che era previsto nelle tabelle organiche del [R. decreto 2 ottobre 1911, n. 1136](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20nuove%20tabelle%20organiche%20del%20R.%20corpo%20di%20truppe%20coloniali%20dellEritrea.%20011U1136.md), e che e' stato soppresso nelle nuove tabelle organiche del R. corpo di truppe coloniali dell'Eritrea, approvate col [R. decreto 28 marzo 1915, n. 648](../Regi%20decreti/Col%20quale%20sono%20approvate%20le%20tabelle%20organiche%20del%20R.%20corpo%20di%20truppe%20coloniali%20dellEritrea%20in%20sostituzione%20di%20quelle%20approvate%20col%20R.%20decreto%202%20ottobre%201911%20n.%201136%20015U0648.md), viene istituito secondo la tabella annessa.
 
 ## Art. 2.
 
-E' abrogata la tabella n. 27 annessa al [R. decreto 22 gennaio 1914, n. 147](Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), riguardante la sezione Libia presso il deposito centrale per le truppe coloniali in Napoli.
+E' abrogata la tabella n. 27 annessa al [R. decreto 22 gennaio 1914, n. 147](../Regi%20decreti/Relativo%20allordinamento%20militare%20della%20Tripolitania%20e%20della%20Cirenaica%20014U0147.md), riguardante la sezione Libia presso il deposito centrale per le truppe coloniali in Napoli.
 
 ## Art. 3.
 
@@ -76,7 +76,7 @@ Disposizioni transitorie.
  
  Gli ufficiali del R. esercito gia' facenti parte del deposito prima del 1° luglio 1915 e gli impiegati civili coloniali al medesimo comandati prima di tale data, continueranno a percepire ad personam gli assegni goduti fino al 30 giugno 1915. 
  
- I sottufficiali, caporali e soldati metropolitani che trovavansi alla data del 30 giugno gia' effettivi al deposito e che percepiscono gli assegni di cui al [R. decreto 6 marzo 1913, n. 390](Col%20quale%20vengono%20portate%20modificazioni%20alle%20parti%20seconda%20e%20terza%20dellordinamento%20amministrativo%20per%20la%20colonia%20Eritrea%20approvato%20con%20R.%20decreto%2022%20settembre%201905%20n.%20507.%20013U0390.md), continueranno a percepirli. 
+ I sottufficiali, caporali e soldati metropolitani che trovavansi alla data del 30 giugno gia' effettivi al deposito e che percepiscono gli assegni di cui al [R. decreto 6 marzo 1913, n. 390](../Regi%20decreti/Col%20quale%20vengono%20portate%20modificazioni%20alle%20parti%20seconda%20e%20terza%20dellordinamento%20amministrativo%20per%20la%20colonia%20Eritrea%20approvato%20con%20R.%20decreto%2022%20settembre%201905%20n.%20507.%20013U0390.md), continueranno a percepirli. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

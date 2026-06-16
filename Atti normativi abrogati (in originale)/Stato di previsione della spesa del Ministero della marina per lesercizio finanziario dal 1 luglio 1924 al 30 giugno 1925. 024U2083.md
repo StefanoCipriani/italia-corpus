@@ -36,7 +36,7 @@ Il Ministro per la marina, coi fondi assegnati per la costruzione di quattro pir
  
  a) dell'art. 5, aggiunto con nota di variazioni al disegno di legge sullo stato di previsione della spesa per l'esercizio finanziario 1920-21, reso esecutivo con la [legge 30 giugno 1920, n. 906](Che%20autorizza%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201920-921%20fino%20a%20quando%20sieno%20approvati%20per%20legge%20e%20non%20oltre%20il%2031%20dicembre%20_01e8b2349213.md) per l'esercizio provvisorio del bilancio; 
  
- b) dell'[art. 3 del R. decreto 19 aprile 1923, n. 1078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1078#art_3), e' autorizzato a provvedere alla ultimazione dei piroscafi anzidetti quali navi sussidiarie della Regia marina, ai sensi del [Regio decreto 27 maggio 1923, n. 1200](Che%20inscrive%20nel%20quadro%20del%20R.%20naviglio%20alcuni%20piroscafi%20in%20costruzione.%20023U1200.md). 
+ b) dell'[art. 3 del R. decreto 19 aprile 1923, n. 1078](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-19;1078#art_3), e' autorizzato a provvedere alla ultimazione dei piroscafi anzidetti quali navi sussidiarie della Regia marina, ai sensi del [Regio decreto 27 maggio 1923, n. 1200](../Regi%20decreti/Che%20inscrive%20nel%20quadro%20del%20R.%20naviglio%20alcuni%20piroscafi%20in%20costruzione.%20023U1200.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

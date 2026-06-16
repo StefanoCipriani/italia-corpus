@@ -126,7 +126,7 @@ Ai fini della graduatoria occorre comunque dichiarare la proprieta' di unita' im
 
 4.
 
-In caso di dichiarazioni mendaci si applica l'[articolo 495 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+In caso di dichiarazioni mendaci si applica l'[articolo 495 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 5.
 
@@ -284,7 +284,7 @@ Allo stesso fine, le regioni sono autorizzate a rilocalizzare i programmi di edi
 
 1.
 
-Per la concessione dei mutui integrativi, di cui allo [articolo 5-ter del decreto-legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9#art_5ter), convertito, con modificazioni, nella [legge 25 marzo 1982, n. 94, ed all'articolo 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20concernente%20norme%20per%20ledilizia%20residenziale%20e%20provvidenze%20in%20materia%20di%20sfratti.md) del [decreto-legge 12 settembre 1983, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;462), convertito, con modificazioni, nella [legge 10 novembre 1983, n. 637](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20462%20concernente%20modifiche%20agli%20articoli%2010%20e%2014%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20convertito%20con%20modific_caaa51e95453.md), il termine previsto dall'[articolo 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36), e successive modificazioni, e' prorogato al 31 dicembre 1986, per i fondi residui esistenti al 31 dicembre 1984 sul capitolo 8272 del bilancio di previsione del Ministero dei lavori pubblici.
+Per la concessione dei mutui integrativi, di cui allo [articolo 5-ter del decreto-legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9#art_5ter), convertito, con modificazioni, nella [legge 25 marzo 1982, n. 94, ed all'articolo 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20concernente%20norme%20per%20ledilizia%20residenziale%20e%20provvidenze%20in%20materia%20di%20sfratti.md) del [decreto-legge 12 settembre 1983, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;462), convertito, con modificazioni, nella [legge 10 novembre 1983, n. 637](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20462%20concernente%20modifiche%20agli%20articoli%2010%20e%2014%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20convertito%20con%20modific_caaa51e95453.md), il termine previsto dall'[articolo 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, e' prorogato al 31 dicembre 1986, per i fondi residui esistenti al 31 dicembre 1984 sul capitolo 8272 del bilancio di previsione del Ministero dei lavori pubblici.
 
 2.
 

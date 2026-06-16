@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 134 del regolamento generale sull'istruzione professionale, approvato con [R. decreto 22 giugno 1913, n. 1014](Col%20quale%20e%20approvato%20lannesso%20regolamento%20generale%20sullistruzione%20professionale%20scuole%20industriali%20e%20commerciali.%20013U1014.md);
 
-Tenuto conto che in applicazione degli [articoli 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_36) e [37 del R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_37), si e' provveduto al miglioramento del trattamento di riposo del personale direttivo, insegnante e di amministrazione delle scuole industriali e commerciali;
+Tenuto conto che in applicazione degli [articoli 36](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md) e [37 del R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), si e' provveduto al miglioramento del trattamento di riposo del personale direttivo, insegnante e di amministrazione delle scuole industriali e commerciali;
 
 Riconosciuta la necessita' di disciplinare con mia convenzione il trattamento di riposo del personale di servizio delle scuole predette;
 

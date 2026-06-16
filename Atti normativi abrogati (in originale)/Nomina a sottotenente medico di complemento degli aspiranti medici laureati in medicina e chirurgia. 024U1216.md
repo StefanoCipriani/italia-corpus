@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 25 maggio 1915, n. 767](Col%20quale%20viene%20istituita%20una%20speciale%20categoria%20di%20aspiranti%20medici.%20015U0767.md), relativo alla istituzione della categoria degli aspiranti medici, modificato con [decreto Luogotenenziale 20 novembre 1916, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-20;1652), e prorogato col [decreto Luogotenenziale 29 dicembre 1916, n. 1778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-29;1778);
+Visto il [R. decreto 25 maggio 1915, n. 767](../Regi%20decreti/Col%20quale%20viene%20istituita%20una%20speciale%20categoria%20di%20aspiranti%20medici.%20015U0767.md), relativo alla istituzione della categoria degli aspiranti medici, modificato con [decreto Luogotenenziale 20 novembre 1916, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-20;1652), e prorogato col [decreto Luogotenenziale 29 dicembre 1916, n. 1778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-29;1778);
 
 Vista la [legge 29 novembre 1923, n. 2591](Nomina%20a%20sottotenente%20medico%20di%20complemento%20di%20aspiranti%20medici%20laureati%20in%20medicina%20e%20chirurgia.%20023U2591.md), concernente la nomina a sottotenente medico di complemento di aspiranti medici laureati in medicina e chirurgia;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2997](Abolizione%20della%20categoria%20degli%20ufficiali%20di%20milizia%20territoriale%20e%20nuove%20norme%20relative%20al%20reclutamento%20agli%20obblighi%20di%20servizio%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento.%20023U2997.md), concernente le norme di reclutamento, gli obblighi di servizio e l'avanzamento degli ufficiali di complemento del Regio esercito;
+Visto il [R. decreto 30 dicembre 1923, n. 2997](../Regi%20decreti/Abolizione%20della%20categoria%20degli%20ufficiali%20di%20milizia%20territoriale%20e%20nuove%20norme%20relative%20al%20reclutamento%20agli%20obblighi%20di%20servizio%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento.%20023U2997.md), concernente le norme di reclutamento, gli obblighi di servizio e l'avanzamento degli ufficiali di complemento del Regio esercito;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3224](Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md), concernente la obbligatorieta' di frequenza dei corsi allievi ufficiali di complemento;
+Visto il [R. decreto 31 dicembre 1923, n. 3224](../Regi%20decreti/Obbligatorieta%20di%20frequenza%20dei%20corsi%20allievi%20ufficiali%20di%20complemento.%20023U3224.md), concernente la obbligatorieta' di frequenza dei corsi allievi ufficiali di complemento;
 
 Udito il Consiglio dei Ministri;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della guer
 
 Gli aspiranti medici, che, alla data del 31 dicembre 1923, abbiano conseguito la laurea in medicina e chirurgia, saranno nominati sottotenenti medici di complemento, purche' alla data stessa non abbiano superato il 39° anno di eta'. 
  
- Potranno ottenere la nomina a sottotenente medico anche gli aspiranti medici laureati in medicina e chirurgia, che al 31 dicembre 1923 abbiano superato il 39° anno di eta', purche' ne facciano domanda entro sei mesi dalla data di pubblicazione del presente decreto. Essi saranno inscritti nei ruoli degli ufficiali di complemento o di riserva, a loro scelta, osservata tuttavia la condizione di cui all'[art. 6 del R. decreto 30 dicembre 1923, n. 2997](Abolizione%20della%20categoria%20degli%20ufficiali%20di%20milizia%20territoriale%20e%20nuove%20norme%20relative%20al%20reclutamento%20agli%20obblighi%20di%20servizio%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento.%20023U2997.md).
+ Potranno ottenere la nomina a sottotenente medico anche gli aspiranti medici laureati in medicina e chirurgia, che al 31 dicembre 1923 abbiano superato il 39° anno di eta', purche' ne facciano domanda entro sei mesi dalla data di pubblicazione del presente decreto. Essi saranno inscritti nei ruoli degli ufficiali di complemento o di riserva, a loro scelta, osservata tuttavia la condizione di cui all'[art. 6 del R. decreto 30 dicembre 1923, n. 2997](../Regi%20decreti/Abolizione%20della%20categoria%20degli%20ufficiali%20di%20milizia%20territoriale%20e%20nuove%20norme%20relative%20al%20reclutamento%20agli%20obblighi%20di%20servizio%20e%20allavanzamento%20degli%20ufficiali%20di%20complemento.%20023U2997.md).
 
 ## Art. 2.
 

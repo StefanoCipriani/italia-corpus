@@ -47,7 +47,7 @@ La domanda e' redatta sul modulo a piu' fogli predisposto dall'Ufficio centrale 
  Il testo delle note qui pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 3, del testo unico approvato con 
  [decreto del Presidente della Repubblica 28 dicembre 1985, 
- n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
+ n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge alle quali e' operato il rinvio. 
  Restano invariati il valore e l'efficacia degli atti 
  legislativi qui trascritti.
@@ -155,7 +155,7 @@ Sugli attestati di registrazione sono riportati oltre ai dati indicati alle lett
 
 Sugli attestati sono anche indicati:
                         a)
-                            gli atti che devono essere resi pubblici per mezzo della trascrizione, ai sensi dell'[art. 66 del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), in conformita' a quanto stabilito dall'[art. 15 della legge 21 febbraio 1989, n. 70](Norme%20per%20la%20tutela%20giuridica%20delle%20topografie%20dei%20prodotti%20a%20semiconduttori.md);
+                            gli atti che devono essere resi pubblici per mezzo della trascrizione, ai sensi dell'[art. 66 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), in conformita' a quanto stabilito dall'[art. 15 della legge 21 febbraio 1989, n. 70](Norme%20per%20la%20tutela%20giuridica%20delle%20topografie%20dei%20prodotti%20a%20semiconduttori.md);
                         b)
                             i cambiamenti del nome o dell'indirizzo del titolare o del suo mandatario, nonche' i cambiamenti nell'elezione di domicilio;
                         c)
@@ -179,7 +179,7 @@ Note all'art. 6:
  10) le sentenze di cui all'art. 27- bis e le relative domande giudiziali;
  11) le sentenze di cui all'art. 59, terzo comma, e le relative domande giudiziali".
  - Il testo dell'[art. 15 della legge n. 70/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;70#art_15) e' il seguente:
- "Art. 15 (Trascrizioni). - 1. Alla materia regolata dalla presente legge si applicano le disposizioni del titolo VII del [regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), concernenti le trascrizioni.
+ "Art. 15 (Trascrizioni). - 1. Alla materia regolata dalla presente legge si applicano le disposizioni del titolo VII del [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), concernenti le trascrizioni.
  2. La costituzione e la modificazione dei diritti sulle topografie dei prodotti a semiconduttori intervenute prima della domanda di registrazione sono opponibili ai terzi dal giorno dei relativi atti, purche' questi abbiano data certa".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

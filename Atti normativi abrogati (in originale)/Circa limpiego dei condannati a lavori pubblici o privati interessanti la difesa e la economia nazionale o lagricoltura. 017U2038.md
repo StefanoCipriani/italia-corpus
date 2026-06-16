@@ -16,7 +16,7 @@ I condannati alla pena della reclusione o della detenzione possono essere assegn
 
 ## Art. 2.
 
-I condannati impiegati nei lavori preveduti dall'articolo precedente, anche dopo compiuti i lavori medesimi, seno ammessi al beneficio di cui all'[art. 14 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+I condannati impiegati nei lavori preveduti dall'articolo precedente, anche dopo compiuti i lavori medesimi, seno ammessi al beneficio di cui all'[art. 14 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 

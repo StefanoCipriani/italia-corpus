@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), che approva il testo unico delle leggi sulle pensioni civili e militari;
+Visto il [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), che approva il testo unico delle leggi sulle pensioni civili e militari;
 
 Visto il [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), e successive modificazioni;
 
@@ -74,13 +74,13 @@ Capo II.
 
 ### Art. 4.
 
-Il quarto comma dell'art. 65 e l'art. 68 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70, nonche' l'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_1) del [decreto-legge Luogotenenziale 13 marzo 1919, n. 565](Concernente%20il%20computo%20agli%20effetti%20della%20liquidazione%20delle%20pensioni%20del%20servizio%20prestato%20in%20Libia%20dal%20personale%20militare%20e%20civile%20dipendente%20dai%20Ministeri%20della%20guerra%20e%20della%20marina.%20019U0565.md), con le limitazioni prescritte dall'[art. 5 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e dall'[art. 3 del R. decreto 8 maggio 1924, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;779#art_3), sono applicabili ai militari della Regia aeronautica a decorrere dalle rispettive date di entrata in vigore.
+Il quarto comma dell'art. 65 e l'art. 68 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70, nonche' l'art. 1](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) del [decreto-legge Luogotenenziale 13 marzo 1919, n. 565](Concernente%20il%20computo%20agli%20effetti%20della%20liquidazione%20delle%20pensioni%20del%20servizio%20prestato%20in%20Libia%20dal%20personale%20militare%20e%20civile%20dipendente%20dai%20Ministeri%20della%20guerra%20e%20della%20marina.%20019U0565.md), con le limitazioni prescritte dall'[art. 5 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e dall'[art. 3 del R. decreto 8 maggio 1924, n. 779](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-08;779#art_3), sono applicabili ai militari della Regia aeronautica a decorrere dalle rispettive date di entrata in vigore.
 
 ### Art. 5.
 
 Il servizio di volo, con effettiva percezione delle relative regolamentari indennita' mensili, prestato dai militari di qualsiasi grado della Regia aeronautica, anche prima della costituzione del Commissariato, e' computato con l'aumento di un terzo della sua durata effettiva. 
  
- A tale aumento sono applicabili le limitazioni stabilite dai [commi 2°](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) e [3° dell'art. 5 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
+ A tale aumento sono applicabili le limitazioni stabilite dai [commi 2°](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md) e [3° dell'art. 5 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
 
 ## Misura delle pensioni.
 
@@ -112,7 +112,7 @@ La pensione annua spettante agli ufficiali e' eguale a tanti quarantesimi della 
 
 ### Art. 9.
 
-Agli ufficiali collocati a riposo per raggiunti limiti di eta' e che non contino gli anni di servizio richiesti per aver diritto a pensione, si applicano le disposizioni contenute nei commi 2° e 3° dell'art. 95 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70).
+Agli ufficiali collocati a riposo per raggiunti limiti di eta' e che non contino gli anni di servizio richiesti per aver diritto a pensione, si applicano le disposizioni contenute nei commi 2° e 3° dell'art. 95 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ### Art. 10.
 
@@ -152,9 +152,9 @@ Capo IV.
 
 ### Art. 13.
 
-Le pensioni privilegiate sono liquidate in base alle disposizioni del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e a quelle del [decreto-legge Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-05-20;876), e successive modificazioni. 
+Le pensioni privilegiate sono liquidate in base alle disposizioni del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e a quelle del [decreto-legge Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-05-20;876), e successive modificazioni. 
  
- L'art. 123 del testo unico e' applicabile ai genitori, ai fratelli ed alle sorelle dei militari della Regia aeronautica, aventi obbligo di volo, senza la limitazione stabilita dall'[art. 15 del R. decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
+ L'art. 123 del testo unico e' applicabile ai genitori, ai fratelli ed alle sorelle dei militari della Regia aeronautica, aventi obbligo di volo, senza la limitazione stabilita dall'[art. 15 del R. decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md).
 
 ## Disposizioni varie.
 
@@ -162,7 +162,7 @@ Capo V.
 
 ### Art. 14.
 
-Per tutto quello che non e' previsto dal presente R. decreto-legge valgono, per gli ufficiali, le norme stabilite per gli ufficiali del Regio esercito dal testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni; per i sottufficiali, i primi avieri, gli avieri scelti e gli avieri, le norme stabilite dallo stesso testo unico, e successive modificazioni, per i sottufficiali, sottocapi e comuni del Corpo Reale equipaggi marittimi.
+Per tutto quello che non e' previsto dal presente R. decreto-legge valgono, per gli ufficiali, le norme stabilite per gli ufficiali del Regio esercito dal testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni; per i sottufficiali, i primi avieri, gli avieri scelti e gli avieri, le norme stabilite dallo stesso testo unico, e successive modificazioni, per i sottufficiali, sottocapi e comuni del Corpo Reale equipaggi marittimi.
 
 ### Art. 15.
 

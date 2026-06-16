@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959), ed il regolamento approvato col [R. decreto 17 novembre 1913, n. 1514](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md);
+Visto il [testo unico 11 luglio 1913, n. 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-07-11;959), ed il regolamento approvato col [R. decreto 17 novembre 1913, n. 1514](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20opere%20concernenti%20la%20navigazione%20interna%20qualificate%20nuove%20ai%20sensi%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20_30558051ccd2.md);
 
 Sulla proposta del ministro segretario di Stato pei lavori pubblici, di concerto con quelli della guerra, di agricoltura, d'industria, commercio e lavoro, dei trasporti ferroviari e marittimi e del tesoro;
 

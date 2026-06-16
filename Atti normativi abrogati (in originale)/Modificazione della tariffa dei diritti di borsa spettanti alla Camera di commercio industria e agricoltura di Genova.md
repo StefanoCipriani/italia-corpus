@@ -10,13 +10,13 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 13 agosto 1926, n. 1488](Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Genova;
+Visto il [regio decreto 13 agosto 1926, n. 1488](../Regi%20decreti/Diritti%20e%20tasse%20della%20Camera%20di%20commercio%20e%20industria%20di%20Genova.%20026U1488.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla Camera di commercio, industria e agricoltura di Genova;
 
-Visti i [regi decreti 21 giugno 1934, n. 1113](Aggiunta%20di%20voce%20alla%20tariffa%20dei%20diritti%20di%20Borsa%20spettanti%20al%20Consiglio%20provinciale%20delleconomia%20corporativa%20di%20Genova.%20034U1113.md), e [9 dicembre 1935, n. 2386, e il decreto luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1935-12-09;2386) [23 marzo 1946, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-23;416), con i quali vennero apportate variazioni alla tariffa predetta;
+Visti i [regi decreti 21 giugno 1934, n. 1113](../Regi%20decreti/Aggiunta%20di%20voce%20alla%20tariffa%20dei%20diritti%20di%20Borsa%20spettanti%20al%20Consiglio%20provinciale%20delleconomia%20corporativa%20di%20Genova.%20034U1113.md), e [9 dicembre 1935, n. 2386, e il decreto luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1935-12-09;2386) [23 marzo 1946, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-23;416), con i quali vennero apportate variazioni alla tariffa predetta;
 
 Vista la [deliberazione in data 2 luglio 1946, n. 351, della Camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1946-07-02;351) predetta, con la quale sono state stabilite ulteriori modifiche alla tariffa in parola;
 
-Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce l'organo competente per la determinazione dei diritti di borsa;
+Visto l'[art. 53 del regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), col quale si stabilisce l'organo competente per la determinazione dei diritti di borsa;
 
 Sulla proposta del Ministro Segretario di Stato per le finanze e il tesoro; Decreta:
 

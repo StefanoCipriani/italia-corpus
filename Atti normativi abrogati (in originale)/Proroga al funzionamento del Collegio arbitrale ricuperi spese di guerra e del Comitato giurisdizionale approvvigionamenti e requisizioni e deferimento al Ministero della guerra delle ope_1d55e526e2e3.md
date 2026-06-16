@@ -20,11 +20,11 @@ Sulla preposta del Presidente del Consiglio dei Ministri, Ministro Segretario di
 
 ## Art. 1.
 
-Il termine del 31 dicembre 1924, stabilito con gli [articoli 5](Modifiche%20allordinamento%20degli%20organi%20e%20delle%20giurisdizioni%20istituite%20per%20la%20liquidazione%20delle%20gestioni%20transitorie%20di%20guerra%20e%20per%20il%20ricupero%20dei%20lucri%20indebiti%20od%20eccessivi.%20024U0234.md) e [6 del R. decreto 23 febbraio 1924, n. 234](Modifiche%20allordinamento%20degli%20organi%20e%20delle%20giurisdizioni%20istituite%20per%20la%20liquidazione%20delle%20gestioni%20transitorie%20di%20guerra%20e%20per%20il%20ricupero%20dei%20lucri%20indebiti%20od%20eccessivi.%20024U0234.md), e' prorogato al 30 giugno 1925.
+Il termine del 31 dicembre 1924, stabilito con gli [articoli 5](../Regi%20decreti/Modifiche%20allordinamento%20degli%20organi%20e%20delle%20giurisdizioni%20istituite%20per%20la%20liquidazione%20delle%20gestioni%20transitorie%20di%20guerra%20e%20per%20il%20ricupero%20dei%20lucri%20indebiti%20od%20eccessivi.%20024U0234.md) e [6 del R. decreto 23 febbraio 1924, n. 234](../Regi%20decreti/Modifiche%20allordinamento%20degli%20organi%20e%20delle%20giurisdizioni%20istituite%20per%20la%20liquidazione%20delle%20gestioni%20transitorie%20di%20guerra%20e%20per%20il%20ricupero%20dei%20lucri%20indebiti%20od%20eccessivi.%20024U0234.md), e' prorogato al 30 giugno 1925.
 
 ## Art. 2.
 
-Le operazioni di stralcio inerenti ai contratti per alienazioni di materiali residuati dalla guerra, stipulati dalla Direzione generale delle ferrovie dello Stato, in virtu' del [R. decreto 7 novembre 1920, n. 1635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-07;1635), e dal Commissariato straordinario delle ferrovie dello Stato, in virtu' del [R. decreto 4 marzo 1923, n. 552](Che%20reca%20disposizioni%20relative%20allAlienazione%20dei%20materiali%20residuati%20dalla%20guerra.%20023U0552.md), restano affidate al Ministero della guerra. 
+Le operazioni di stralcio inerenti ai contratti per alienazioni di materiali residuati dalla guerra, stipulati dalla Direzione generale delle ferrovie dello Stato, in virtu' del [R. decreto 7 novembre 1920, n. 1635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-07;1635), e dal Commissariato straordinario delle ferrovie dello Stato, in virtu' del [R. decreto 4 marzo 1923, n. 552](../Regi%20decreti/Che%20reca%20disposizioni%20relative%20allAlienazione%20dei%20materiali%20residuati%20dalla%20guerra.%20023U0552.md), restano affidate al Ministero della guerra. 
  
  Il presente decreto avra' vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, e sara' presentato al Parlamento per la conversione in legge. 
  

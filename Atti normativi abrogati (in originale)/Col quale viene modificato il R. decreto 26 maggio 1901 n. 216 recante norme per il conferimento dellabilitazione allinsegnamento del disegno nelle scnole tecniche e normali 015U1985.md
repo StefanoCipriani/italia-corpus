@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Articolo unico. 
  
- L'art. 3 del regolamento per il conferimento dell'abilitazione all'insegnamento del disegno nelle scuole tecniche e normali, approvato col [R. decreto 26 maggio 1901, n. 216](Modificante%20le%20norme%20pel%20conferimento%20dellabilitazione%20allinsegnamento%20del%20disegno%20nelle%20Scuole%20tecniche%20e%20normali.%20001U0216.md), e modificato successivamente col [R. decreto 6 marzo 1902, n. 99](Modificazioni%20da%20apportarsi%20al%20Regolamento%20per%20labilitazione%20allinsegnamento%20del%20disegno%20nelle%20Scuole%20tecniche%20e%20normali.%20002U0099.md), e' abrogato e sostituito dal seguente: 
+ L'art. 3 del regolamento per il conferimento dell'abilitazione all'insegnamento del disegno nelle scuole tecniche e normali, approvato col [R. decreto 26 maggio 1901, n. 216](../Regi%20decreti/Modificante%20le%20norme%20pel%20conferimento%20dellabilitazione%20allinsegnamento%20del%20disegno%20nelle%20Scuole%20tecniche%20e%20normali.%20001U0216.md), e modificato successivamente col [R. decreto 6 marzo 1902, n. 99](../Regi%20decreti/Modificazioni%20da%20apportarsi%20al%20Regolamento%20per%20labilitazione%20allinsegnamento%20del%20disegno%20nelle%20Scuole%20tecniche%20e%20normali.%20002U0099.md), e' abrogato e sostituito dal seguente: 
  
  «Ciascun candidato dovra' presentare, non piu' tardi del 30 settembre, regolare istanza al capo di uno degli Istituti designati come sede di esame, per essere ammesso all'esame stesso». 
  

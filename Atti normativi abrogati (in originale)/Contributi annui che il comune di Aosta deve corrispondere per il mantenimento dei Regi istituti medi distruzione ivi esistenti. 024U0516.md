@@ -41,7 +41,7 @@ I contributi annui che il comune di Aosta deve corrispondere allo Stato a decorr
 
 ## Art. 3.
 
-Restano a carico del Comune a norma del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), tutte le altre spese pel mantenimento dei suddetti tre istituti. 
+Restano a carico del Comune a norma del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), tutte le altre spese pel mantenimento dei suddetti tre istituti. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

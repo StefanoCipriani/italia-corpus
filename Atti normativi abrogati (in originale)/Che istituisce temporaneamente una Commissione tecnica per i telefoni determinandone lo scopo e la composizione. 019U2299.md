@@ -16,7 +16,7 @@ RI D'ITALIA
 
 Viste le [leggi 24 marzo 1907, n. 111; 15 luglio 1907, n. 506; 20 marzo 19i3, nn. 253 e 254; 3 aprile 1913, n. 271; 5 luglio 1917, n. 1072](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%2018%20novembre%201915%20n.%201653%20col%20quale%20viene%20abolito%20il%20Consiglio%20superiore%20dei%20telefoni.%20017U1072.md);
 
-Visto il [R. decreto 28 novembre 1907, n. 800](Che%20approva%20gli%20annessi%20regolamenti%20per%20lIstituto%20e%20per%20la%20scuola%20superiori%20postali-telegrafici%20007U0800.md);
+Visto il [R. decreto 28 novembre 1907, n. 800](../Regi%20decreti/Che%20approva%20gli%20annessi%20regolamenti%20per%20lIstituto%20e%20per%20la%20scuola%20superiori%20postali-telegrafici%20007U0800.md);
 
 Visto il [decreto Luogotenenziale 8 giugno 1919, numero 1109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-08;1109);
 

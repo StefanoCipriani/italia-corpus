@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), che istituisce il Commissariato per l'aeronautica;
+Visto il [R. decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), che istituisce il Commissariato per l'aeronautica;
 
-Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), concernente la costituzione della Regia aeronautica;
+Visto il [R. decreto 28 marzo 1923, n. 645](../Regi%20decreti/Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), concernente la costituzione della Regia aeronautica;
 
 Vista la [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del Regio esercito e della Regia marina e il regolamento relativo;
 
@@ -30,7 +30,7 @@ Commissario per l'aeronautica; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Le disposizioni della [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del Regio esercito e della Regia marina e del relativo regolamento approvato con [R. decreto 18 luglio 1912, n. 867](Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), nonche' tutte le successive modificazioni od aggiunte sono estese, ad ogni effetto, agli ufficiali dipendenti dal Commissariato per l'aeronautica con facolta' al Governo del Re di emanare per decreto Reale, inteso il parere del Consiglio di Stato, le norme di applicazione e coordinamento delle disposizioni suddette.
+Le disposizioni della [legge 18 luglio 1912, n. 806](Concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0806.md), sullo stato degli ufficiali del Regio esercito e della Regia marina e del relativo regolamento approvato con [R. decreto 18 luglio 1912, n. 867](../Regi%20decreti/Che%20approva%20le%20disposizioni%20per%20lapplicazione%20della%20legge%2018%20luglio%201912%20n.%20806%20concernente%20lo%20stato%20degli%20ufficiali%20del%20R.%20esercito%20e%20della%20R.%20marina.%20012U0867.md), nonche' tutte le successive modificazioni od aggiunte sono estese, ad ogni effetto, agli ufficiali dipendenti dal Commissariato per l'aeronautica con facolta' al Governo del Re di emanare per decreto Reale, inteso il parere del Consiglio di Stato, le norme di applicazione e coordinamento delle disposizioni suddette.
 
 ## Art. 2.
 

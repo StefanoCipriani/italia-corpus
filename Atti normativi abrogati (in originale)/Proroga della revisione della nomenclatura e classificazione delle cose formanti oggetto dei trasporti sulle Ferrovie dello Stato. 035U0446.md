@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto-legge 13 gennaio 1927, n. 39](Differimento%20della%20revisione%20della%20nomenclatura%20e%20classificazione%20delle%20cose%20formanti%20oggetto%20dei%20trasporti%20sulle%20Ferrovie%20dello%20Stato%20di%20cui%20allart.%2040%20della%20legge%207%20luglio%201907%20n.%20429.%20027U0039.md), convertito nella [legge 29 dicembre 1927, n. 2631](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20gennaio%201927%20n.%2039%20concernente%20il%20differimento%20della%20revisione%20della%20nomenclatura%20e%20classificazione%20delle%20cose%20formanti%20oggetto%20dei%20trasporti%20_1f22184e8200.md); 
  
- Visto il [R. decreto 30 dicembre 1929, n. 2484](Proroga%20della%20revisione%20della%20nomenclatura%20e%20classificazione%20delle%20cose%20trasportate%20per%20ferrovia.%20029U2484.md); 
+ Visto il [R. decreto 30 dicembre 1929, n. 2484](../Regi%20decreti/Proroga%20della%20revisione%20della%20nomenclatura%20e%20classificazione%20delle%20cose%20trasportate%20per%20ferrovia.%20029U2484.md); 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

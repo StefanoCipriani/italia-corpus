@@ -38,7 +38,7 @@ L'[art. 4 del R. decreto-legge 17 gennaio 1935, n. 42](Istituzione%20dellAlto%20
  
  « Il Vice governatore e' nominato con decreto Reale, su proposta del Ministro per le colonie, sentito il Consiglio dei Ministri, ed e' scelto fra gli ufficiali generali del Regio esercito di grado non inferiore a generale di divisione o tra i funzionari della carriera direttiva coloniale di grado non inferiore al quarto; egli ha rango corrispondente al gruppo 5° della categoria IV del [R. decreto 16 dicembre 1927, n. 2210](Ordine%20delle%20precedenze%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20027U2210.md), modificato dal [R. decreto 22 dicembre 1930, n. 1757](Modifiche%20allordine%20di%20precedenza%20a%20Corte%20e%20nelle%20pubbliche%20funzioni.%20030U1757.md), e in colonia segue immediatamente l'Alto commissario nell'ordine delle precedenze. I poteri e le attribuzioni del Vice governatore sono stabiliti dall'Alto commissario con suo decreto. 
  
- « Nel caso che il Vice governatore sia scelto tra gli ufficiali generali del Regio esercito, e', per il periodo di durata dell'incarico, considerato nella posizione di comandato, ai sensi dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101). 
+ « Nel caso che il Vice governatore sia scelto tra gli ufficiali generali del Regio esercito, e', per il periodo di durata dell'incarico, considerato nella posizione di comandato, ai sensi dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
  Per il trattamento del Vice governatore si applica l'art. 6 del presente decreto, di concerto col Ministro per le finanze. 
  
@@ -48,7 +48,7 @@ L'[art. 4 del R. decreto-legge 17 gennaio 1935, n. 42](Istituzione%20dellAlto%20
 
 Il [secondo comma dell'art. 5 del R. decreto-legge 17 gennaio 1935, n. 42](Istituzione%20dellAlto%20Commissario%20per%20le%20Colonie%20dellAfrica%20Orientale%20Italiana.%20035U0042.md), e' sostituito dal seguente: 
  
- « Il Capo di Gabinetto e' nominato con decreto del Ministro per le colonie ed e' scelto tra i funzionari del ruolo direttivo coloniale o tra i funzionari degli altri ruoli del gruppo A dell'Amministrazione statale; nel secondo caso e' considerato nella posizione di comandato ai sensi dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101), per il periodo di durata dell'incarico ».
+ « Il Capo di Gabinetto e' nominato con decreto del Ministro per le colonie ed e' scelto tra i funzionari del ruolo direttivo coloniale o tra i funzionari degli altri ruoli del gruppo A dell'Amministrazione statale; nel secondo caso e' considerato nella posizione di comandato ai sensi dell'[art. 101 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), per il periodo di durata dell'incarico ».
 
 ## Art. 3.
 

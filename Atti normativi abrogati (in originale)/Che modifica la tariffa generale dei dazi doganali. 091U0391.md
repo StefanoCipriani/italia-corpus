@@ -49,7 +49,7 @@ Chiunque intraprenda la rettificazione o la trasformazione degli olii minerali, 
 
 ## Art. 7.
 
-Per le contravvenzioni previste dal precedente articolo sono applicabili le disposizioni degli articoli 125, 127, 128, 129, 130, 131, 132, 133 e 134 del testo unico delle leggi doganali, approvato con [regio decreto 8 settembre 1889, n. 6387](Con%20cui%20e%20approvato%20lunito%20testo%20unico%20delle%20leggi%20doganali.%20089U6387.md) (serie 3ª).
+Per le contravvenzioni previste dal precedente articolo sono applicabili le disposizioni degli articoli 125, 127, 128, 129, 130, 131, 132, 133 e 134 del testo unico delle leggi doganali, approvato con [regio decreto 8 settembre 1889, n. 6387](../Regi%20decreti/Con%20cui%20e%20approvato%20lunito%20testo%20unico%20delle%20leggi%20doganali.%20089U6387.md) (serie 3ª).
 
 ## Art. 8.
 

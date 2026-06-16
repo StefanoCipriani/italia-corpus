@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 1.
 
-Le disposizioni del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), le successive modificazioni ed integrazioni nonche' le altre leggi riguardanti i territori meridionali, contenenti la indicazione del termine 31 dicembre 1980, prorogato, da ultimo, dall'[articolo 3 della legge 1 dicembre 1983, n. 651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-01;651#art_3), fino al 31 luglio 1984, sono ulteriormente prorogate di sette mesi. E' prorogata per lo stesso periodo la gestione commissariale istituita ai sensi dell'[articolo 15 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+Le disposizioni del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), le successive modificazioni ed integrazioni nonche' le altre leggi riguardanti i territori meridionali, contenenti la indicazione del termine 31 dicembre 1980, prorogato, da ultimo, dall'[articolo 3 della legge 1 dicembre 1983, n. 651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-01;651#art_3), fino al 31 luglio 1984, sono ulteriormente prorogate di sette mesi. E' prorogata per lo stesso periodo la gestione commissariale istituita ai sensi dell'[articolo 15 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
 
 2.
 
@@ -36,7 +36,7 @@ La Cassa per il Mezzogiorno, previa autorizzazione del Ministro del tesoro, per 
 
 4.
 
-Le agevolazioni previste dagli articoli 63 e 69 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), sono estese alle iniziative di ristrutturazione e di riconversione nonche' ai settori dei servizi di informatica, di telematica, delle biotecnologie e alle imprese che realizzano impianti nei settori della produzione di energia nei limiti di potenza di cui alla [legge 29 maggio 1982, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;308). Fra le spese ammissibili alle agevolazioni industriali sono comprese quelle relative all'acquisto di brevetti e licenze concernenti nuove tecnologie di prodotti e di processi produttivi.
+Le agevolazioni previste dagli articoli 63 e 69 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), sono estese alle iniziative di ristrutturazione e di riconversione nonche' ai settori dei servizi di informatica, di telematica, delle biotecnologie e alle imprese che realizzano impianti nei settori della produzione di energia nei limiti di potenza di cui alla [legge 29 maggio 1982, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;308). Fra le spese ammissibili alle agevolazioni industriali sono comprese quelle relative all'acquisto di brevetti e licenze concernenti nuove tecnologie di prodotti e di processi produttivi.
 
 5.
 

@@ -157,7 +157,7 @@ La mancata effettuazione del versamento, anche per una sola rata, determinata ai
 
 8.
 
-Nei casi di mancata tempestiva presentazione della richiesta di rateizzazione e in quelli di decadenza dal beneficio della dilazione, nonche' in caso di interruzione del pagamento anche di una sola rata, l'AGEA provvede alla riscossione coattiva ai sensi del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato di cui al [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Nei casi di mancata tempestiva presentazione della richiesta di rateizzazione e in quelli di decadenza dal beneficio della dilazione, nonche' in caso di interruzione del pagamento anche di una sola rata, l'AGEA provvede alla riscossione coattiva ai sensi del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato di cui al [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 5. — Disposizioni finali
 

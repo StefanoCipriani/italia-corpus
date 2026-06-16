@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 15 marzo 1928, n. 659](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-15;659), col quale il comune di Raccolana e' stato soppresso ed il rispettivo territorio aggregato a quello di Chiusaforte; 
+ Visto il [R. decreto 15 marzo 1928, n. 659](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Chiusaforte%20e%20Raccolana%20in%20un%20unico%20Comune%20denominato%20Chiusaforte.%20028U0659.md), col quale il comune di Raccolana e' stato soppresso ed il rispettivo territorio aggregato a quello di Chiusaforte; 
  
  Vista la deliberazione del podesta' di Chiusaforte rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Raccolana; 
  

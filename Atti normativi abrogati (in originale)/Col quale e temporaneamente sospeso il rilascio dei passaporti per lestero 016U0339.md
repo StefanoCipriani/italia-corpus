@@ -26,9 +26,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduto l'[art. 1 della legge 31 gennaio 1901, n. 23](Disposizioni%20sullemigrazione.%20001U0023.md), sull'emigrazione; 
  
- Veduto il [R. decreto 31 gennaio 1901, n. 36](Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md), per il rilascio di passaporti per l'estero; 
+ Veduto il [R. decreto 31 gennaio 1901, n. 36](../Regi%20decreti/Circa%20il%20rilascio%20dei%20passaporti%20per%20lestero.%20001U0036.md), per il rilascio di passaporti per l'estero; 
  
- Veduto il [R. decreto 6 agosto 1914, n. 803](Col%20quale%20viene%20sospesa%20la%20facolta%20di%20emigrare%20ai%20militari%20del%20R.%20esercito%20e%20della%20R.%20marina.%20014U0803.md); 
+ Veduto il [R. decreto 6 agosto 1914, n. 803](../Regi%20decreti/Col%20quale%20viene%20sospesa%20la%20facolta%20di%20emigrare%20ai%20militari%20del%20R.%20esercito%20e%20della%20R.%20marina.%20014U0803.md); 
  
  Veduto il [R. decreto 2 maggio 1915, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-02;635), prorogato col [decreto Luogotenenziale 23 dicembre 1915, n. 1825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-23;1825); 
  

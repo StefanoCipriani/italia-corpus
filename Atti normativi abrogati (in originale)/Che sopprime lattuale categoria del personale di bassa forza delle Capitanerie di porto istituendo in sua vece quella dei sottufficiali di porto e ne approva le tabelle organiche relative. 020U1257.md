@@ -36,7 +36,7 @@ L'attuale personale di bassa forza delle Capitanerie di porto e' soppresso, ed i
  
  I sottufficiali di porto imbarcano anche in qualita' di padroni e di macchinisti sulle imbarcazioni e sui rimorchiatori in dotazione degli uffici di porto e sono tenuti, in occasione di naufragi od altri sinistri marittimi, a prestare la loro opera per la salvezza delle persone e delle navi, agli ordini dell'ufficiale che dirige le operazioni di salvataggio. 
  
- I sott'ufficiali di porto concorrono, in caso di guerra, alla difesa marittima. Essi sono soggetti, anche in tempo di pace, alla giurisdizione e disciplina militare e ad essi si applicano le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e del regolamento di disciplina per i corpi militari della R. marina, in quanto non sia altrimenti disposto col presente decreto.
+ I sott'ufficiali di porto concorrono, in caso di guerra, alla difesa marittima. Essi sono soggetti, anche in tempo di pace, alla giurisdizione e disciplina militare e ad essi si applicano le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo e del regolamento di disciplina per i corpi militari della R. marina, in quanto non sia altrimenti disposto col presente decreto.
 
 ## Art. 2.
 

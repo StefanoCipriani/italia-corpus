@@ -16,7 +16,7 @@ LUOGOTENENZIALE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'ordinamento dello stato civile, approvato con [R. Decreto 9 Luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238);
+Visto l'ordinamento dello stato civile, approvato con [R. Decreto 9 Luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia, d'int
 
 ## Art. 1.
 
-Quando per circostanze dipendenti dallo stato di guerra sia stata omessa la redazione di atti di nascita, di matrimonio, o di morte e per il loro numero rilevante se ne presenti laboriosa e complessa la formazione, puo' essere disposto con decreto del Ministro per la grazia e giustizia che a tale formazione provvedano, entro un determinato periodo di tempo, speciali Commissioni comunali, composte nei modo indicato dall'articolo 39 dell' ordinamento dello stato civile approvato con [R. decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238). 
+Quando per circostanze dipendenti dallo stato di guerra sia stata omessa la redazione di atti di nascita, di matrimonio, o di morte e per il loro numero rilevante se ne presenti laboriosa e complessa la formazione, puo' essere disposto con decreto del Ministro per la grazia e giustizia che a tale formazione provvedano, entro un determinato periodo di tempo, speciali Commissioni comunali, composte nei modo indicato dall'articolo 39 dell' ordinamento dello stato civile approvato con [R. decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md). 
  Alle stesse Commissioni spettano, limitatamente agli atti suddetti, le attribuzioni dell'autorita' giudiziaria ai sensi dell'art. 38 del succitato R. Decreto 9 luglio 1939. 
  Esse, su domanda di parte o di ufficio, procedono agli accertamenti e alle indagini necessarie, richiedono atti e notizie, raccolgono documenti, informazioni ed ogni altro elemento occorrente ed hanno facolta' di sentire testimoni sotto il vincolo del giuramento; ed in seguito agli accertamenti fatti deliberano la formazione degli atti da trascrivere nei registri dello stato civile.
 
 ## Art. 2.
 
-Le Commissioni indicate nell'art 1 sono competenti altresi' a convalidare, nelle veci del tribunale, le tardive dichiarazioni di nascita qualora il loro numero sia rilevante e il ritardo nelle dichiarazioni sia stato cagionato da circostanze inerenti allo stato di guerra; in tal caso non si fa luogo al procedimento di rettificazione richiesto dal comma 1° dell'art. 68 dell'ordinamento dello stato civile, approvato con [R. decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238).
+Le Commissioni indicate nell'art 1 sono competenti altresi' a convalidare, nelle veci del tribunale, le tardive dichiarazioni di nascita qualora il loro numero sia rilevante e il ritardo nelle dichiarazioni sia stato cagionato da circostanze inerenti allo stato di guerra; in tal caso non si fa luogo al procedimento di rettificazione richiesto dal comma 1° dell'art. 68 dell'ordinamento dello stato civile, approvato con [R. decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md).
 
 ## Art. 3.
 
@@ -57,7 +57,7 @@ Per ogni atto formato o convalidato a norma del presente decreto e' corrisposto 
 
 ## Art. 7.
 
-Le disposizioni dell'art. 3 relative alla pubblicazione di un elenco degli atti e quelle degli articoli 5 e 6 circa l'esenzione da ogni diritto o tassa, i compensi ai componenti delle commissioni locali e le altre spese si applicano anche nel caso di distruzione dei registri dello stato civile, preveduto dall'art. 39 dell'ordinamento dello stato civile, approvato con [R. decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238).
+Le disposizioni dell'art. 3 relative alla pubblicazione di un elenco degli atti e quelle degli articoli 5 e 6 circa l'esenzione da ogni diritto o tassa, i compensi ai componenti delle commissioni locali e le altre spese si applicano anche nel caso di distruzione dei registri dello stato civile, preveduto dall'art. 39 dell'ordinamento dello stato civile, approvato con [R. decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md).
 
 ## Art. 8.
 

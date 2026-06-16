@@ -82,7 +82,7 @@ Negli aumenti di stipendio o di assegno risultanti dall'applicazione del present
 
 ## Art. 10.
 
-Ai capi tecnici, ai segretari economi ed ai prefetti di disciplina che, per effetto del presente decreto, beneficiano di miglioramenti in misura uguale o superiore alla indennita' determinata dall'[art. 1 del Regio decreto 20 luglio 1919, n. 1232](Che%20concede%20una%20nuova%20indennita%20mensile%20di%20caro-viveri%20al%20personale%20straordinario%20avventizio%20ed%20assimilato%20in%20servizio%20presso%20ciascuna%20amministrazione%20dello%20Stato.%20019U1232.md), non spetta indennita' stessa. Qualora, invece, essi conseguano un miglioramento inferiore a tale indennita', verra' loro concessa la differenza, a decorrere dal 1° luglio 1919.
+Ai capi tecnici, ai segretari economi ed ai prefetti di disciplina che, per effetto del presente decreto, beneficiano di miglioramenti in misura uguale o superiore alla indennita' determinata dall'[art. 1 del Regio decreto 20 luglio 1919, n. 1232](../Regi%20decreti/Che%20concede%20una%20nuova%20indennita%20mensile%20di%20caro-viveri%20al%20personale%20straordinario%20avventizio%20ed%20assimilato%20in%20servizio%20presso%20ciascuna%20amministrazione%20dello%20Stato.%20019U1232.md), non spetta indennita' stessa. Qualora, invece, essi conseguano un miglioramento inferiore a tale indennita', verra' loro concessa la differenza, a decorrere dal 1° luglio 1919.
 
 ## Art. 11.
 

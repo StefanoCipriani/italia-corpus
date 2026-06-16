@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 14 marzo 1929, n. 439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-14;439), con cui il territorio gia' pertinente al comune di Mutignano anteriormente all'emanazione del [R. decreto 24 novembre 1927, n. 2191](Riunione%20dei%20comuni%20di%20Mutignano%20Silvi%20ed%20Atri%20in%20un%20unico%20Comune%20denominato%20%20Atri%20.%20027U2191.md), e' stato ricostituito in comune autonomo denominato « Pineto »; 
+ Veduto il [R. decreto 14 marzo 1929, n. 439](../Regi%20decreti/Ricostituzione%20del%20comune%20di%20Silvi.%20029U0439.md), con cui il territorio gia' pertinente al comune di Mutignano anteriormente all'emanazione del [R. decreto 24 novembre 1927, n. 2191](Riunione%20dei%20comuni%20di%20Mutignano%20Silvi%20ed%20Atri%20in%20un%20unico%20Comune%20denominato%20%20Atri%20.%20027U2191.md), e' stato ricostituito in comune autonomo denominato « Pineto »; 
  
  Veduta la deliberazione 30 Maggio 1930, con cui il podesta' di Pineto ha stabilito di trasferire la sede municipale dalla frazione Mutignano a quella di Pineto ; 
  

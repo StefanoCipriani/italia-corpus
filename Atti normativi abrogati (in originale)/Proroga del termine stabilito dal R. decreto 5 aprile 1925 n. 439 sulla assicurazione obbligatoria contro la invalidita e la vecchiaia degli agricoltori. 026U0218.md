@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 46 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_46), concernente provvedimenti per l'assicurazione obbligatoria contro l'invalidita' e la vecchiaia;
+Veduto l'[art. 46 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), concernente provvedimenti per l'assicurazione obbligatoria contro l'invalidita' e la vecchiaia;
 
 Veduto il [R. decreto-legge 5 aprile 1925, n. 439](Proroga%20del%20termine%20di%20cui%20al%20primo%20comma%20dellart.%2046%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20contenente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20linvalidita%20e%20la%20vecchiaia.%20025U0439.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Articolo unico.
 
-Il termine previsto dal [primo comma dell'art. 46 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_46-com1), gia' prorogato al 31 dicembre 1925, per effetto del [R. decreto-legge 5 aprile 1925, n. 439](Proroga%20del%20termine%20di%20cui%20al%20primo%20comma%20dellart.%2046%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20contenente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20linvalidita%20e%20la%20vecchiaia.%20025U0439.md), e' ulteriormente prorogato al 31 dicembre 1926. 
+Il termine previsto dal [primo comma dell'art. 46 del R. decreto 30 dicembre 1923, n. 3184](../Regi%20decreti/Assicurazione%20obbligatoria%20contro%20la%20invalidita%20e%20la%20vecchiaia%20per%20le%20persone%20di%20ambo%20i%20sessi.%20023U3184.md), gia' prorogato al 31 dicembre 1925, per effetto del [R. decreto-legge 5 aprile 1925, n. 439](Proroga%20del%20termine%20di%20cui%20al%20primo%20comma%20dellart.%2046%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20contenente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20linvalidita%20e%20la%20vecchiaia.%20025U0439.md), e' ulteriormente prorogato al 31 dicembre 1926. 
  
  Il presente decreto sara' presentato al Parlamento per la sua conversione in legge, ed il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

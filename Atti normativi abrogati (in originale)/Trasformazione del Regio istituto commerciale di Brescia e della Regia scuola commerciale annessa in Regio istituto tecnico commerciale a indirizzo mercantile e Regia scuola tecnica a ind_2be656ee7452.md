@@ -24,7 +24,7 @@ Visto il [decreto Luogotenenziale 2 gennaio 1916, n. 127](https://www.normattiva
 
 Istituto commerciale «Marino Ballini» di Brescia;
 
-Visto il [R. decreto 10 giugno 1926, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-10;1265), col quale venne istituita in Brescia, annessa al predetto Istituto, una R. Scuola commerciale;
+Visto il [R. decreto 10 giugno 1926, n. 1265](../Regi%20decreti/Istituzione%20in%20Brescia%20di%20una%20Regia%20scuola%20commerciale%20annessa%20al%20Regio%20istituto%20commerciale%20Marino%20Ballini%20di%20quella%20citta.%20026U1265.md), col quale venne istituita in Brescia, annessa al predetto Istituto, una R. Scuola commerciale;
 
 Visto il decreto Ministeriale 30 luglio 1925, col quale venne approvata la tabella organica del personale del Regio Istituto commerciale «Marino Ballini» di Brescia;
 

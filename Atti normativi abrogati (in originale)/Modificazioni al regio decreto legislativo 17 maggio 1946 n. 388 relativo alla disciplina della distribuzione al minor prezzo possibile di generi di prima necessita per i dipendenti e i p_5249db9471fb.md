@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Al [regio decreto legislativo 17 maggio 1946, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;388), sono apportate le modificazioni di cui agli articoli seguenti.
+Al [regio decreto legislativo 17 maggio 1946, n. 388](../Regi%20decreti%20legislativi/Disciplina%20della%20distribuzione%20al%20minor%20prezzo%20possibile%20di%20generi%20di%20prima%20necessita%20per%20i%20dipendenti%20ed%20i%20pensionati%20statali.md), sono apportate le modificazioni di cui agli articoli seguenti.
 
 ## Art. 2.
 
@@ -29,10 +29,10 @@ All'art. 1, dopo il secondo comma, e' aggiunto il seguente:
 ## Art. 3.
 
 L'art. 5 e' sostituito dal seguente:
- "Le rate di estinzione degli speciali buoni emessi dal Comitato ed utilizzati dai dipendenti e pensionati diretti dello Stato per l'acquisto di generi di abbigliamento e biancheria, vengono trattenute sulle competenze fisse mensili dagli uffici che emettono i titoli di pagamento per gli stipendi, le retribuzioni o le pensioni, anche oltre il limite previsto dal [regio decreto 5 giugno 1941, n. 874](Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), che approva il testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche Amministrazioni.
+ "Le rate di estinzione degli speciali buoni emessi dal Comitato ed utilizzati dai dipendenti e pensionati diretti dello Stato per l'acquisto di generi di abbigliamento e biancheria, vengono trattenute sulle competenze fisse mensili dagli uffici che emettono i titoli di pagamento per gli stipendi, le retribuzioni o le pensioni, anche oltre il limite previsto dal [regio decreto 5 giugno 1941, n. 874](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.%20041U0874.md), che approva il testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche Amministrazioni.
  "Presso la Tesoreria centrale e' istituito un conto corrente infruttifero, intestato al Comitato interministeriale provvidenze agli statali, nel quale dovra' versarsi mensilmente l'ammontare delle rate che le varie Amministrazioni tratterranno sulle competenze dei beneficiari del buono-acquisto.
  "Dallo stesso conto corrente sono prelevate mensilmente, a cura della Segreteria del comitato e su ordine di pagamento firmato dal Ministro per il tesoro, le somme da versare agli Istituti di credito che svolgono il servizio di cassa per le societa' concessionarie.
- "Le anticipazioni statali, di cui all'[art. 2 del regio decreto legislativo 17 maggio 1946, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;388#art_2), hanno la durata, massima di tre anni e possono essere rinnovate alla loro scadenza per uguali periodi di tempo".
+ "Le anticipazioni statali, di cui all'[art. 2 del regio decreto legislativo 17 maggio 1946, n. 388](../Regi%20decreti%20legislativi/Disciplina%20della%20distribuzione%20al%20minor%20prezzo%20possibile%20di%20generi%20di%20prima%20necessita%20per%20i%20dipendenti%20ed%20i%20pensionati%20statali.md), hanno la durata, massima di tre anni e possono essere rinnovate alla loro scadenza per uguali periodi di tempo".
 
 ## Art. 4.
 
@@ -53,7 +53,7 @@ Il limite delle anticipazioni di lire 2 miliardi, previsto nel punto primo dell'
 
 ## Art. 8.
 
-All'onere derivante dall'applicazione della presente legge si provvedera' con la disponibilita' di trecento milioni esistente sul capitolo 716 aggiunto dello stato di previsione della spesa del Ministero del tesoro per lo esercizio finanziario 1950-51, iscritta in bilancio in dipendenza dell'[art. 2 del regio decreto legislativo 17 maggio 1946, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-17;388#art_2). La suddetta somma di lire 300 milioni sara' versata ad apposito capitolo di entrata del corrente esercizio finanziario da istituirsi nella categoria movimento di capitali.
+All'onere derivante dall'applicazione della presente legge si provvedera' con la disponibilita' di trecento milioni esistente sul capitolo 716 aggiunto dello stato di previsione della spesa del Ministero del tesoro per lo esercizio finanziario 1950-51, iscritta in bilancio in dipendenza dell'[art. 2 del regio decreto legislativo 17 maggio 1946, n. 388](../Regi%20decreti%20legislativi/Disciplina%20della%20distribuzione%20al%20minor%20prezzo%20possibile%20di%20generi%20di%20prima%20necessita%20per%20i%20dipendenti%20ed%20i%20pensionati%20statali.md). La suddetta somma di lire 300 milioni sara' versata ad apposito capitolo di entrata del corrente esercizio finanziario da istituirsi nella categoria movimento di capitali.
 
 ## Art. 9.
 

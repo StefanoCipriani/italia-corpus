@@ -158,9 +158,9 @@ Salvo i casi previsti nel secondo comma dell'art. 15, chiunque, mediante ritenut
  
  Fra tali cure non si intendono comprese le operazioni chirurgiche, salvo i minori atti operativi. In caso di ingiustificato rifiuto, puo' essere negata in tutto o in parte l'indennita' salvo, in caso di contestazione, il giudizio arbitrale. 
  
- Chiunque con false dichiarazioni simuli un infortunio e' punito con le stesse penalita' comminate dall'[art. 640 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ancorche' non possa conseguire il risarcimento. 
+ Chiunque con false dichiarazioni simuli un infortunio e' punito con le stesse penalita' comminate dall'[art. 640 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ancorche' non possa conseguire il risarcimento. 
  
- Soggiace alle penalita' comminate dall'[art. 642 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) chiunque simuli un infortunio producendo volontariamente lesioni alla propria persona o aggravando le conseguenze di un infortunio.
+ Soggiace alle penalita' comminate dall'[art. 642 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) chiunque simuli un infortunio producendo volontariamente lesioni alla propria persona o aggravando le conseguenze di un infortunio.
 
 ### Art. 15.
 

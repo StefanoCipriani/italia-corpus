@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 25 febbraio 1929, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-25;285), col quale il comune di Ginestreto e' stato aggregato al comune di Pesaro; 
+ Visto il [R. decreto 25 febbraio 1929, n. 285](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Candelara%20Fiorenzuola%20di%20Focara%20Ginestreto%20Novilara%20e%20Pozzo%20Alto%20al%20comune%20di%20Pesaro.%20029U0285.md), col quale il comune di Ginestreto e' stato aggregato al comune di Pesaro; 
  
  Visto che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Ancona alla diretta amministrazione del comune autonomo di Pesaro, a decorrere dal 1° agosto 1929; 
  

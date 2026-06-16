@@ -20,7 +20,7 @@ RE D' ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 19 novembre 1914, n. 1421](Col%20quale%20e%20data%20facolta%20al%20Governo%20di%20provvedere%20alla%20riunione%20ed%20al%20coordinamento%20in%20separati%20testi%20unici%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20tasse%20sugli%20affari.%20014U1421.md), col quale in virtu' della delegazione di poteri conferita al Governo con la [legge 19 luglio 1914, n. 694](Che%20autorizza%20il%20Governo%20ad%20applicare%20fino%20al%2030%20giugno%201915%20provvedimenti%20tributari.%20014U0694.md), e' stata autorizzata la formazione di cinque testi unici per le tasse sugli affari corredati di indici ed e' stato disposto che i regolamenti generali relativi seguano i testi unici;
+Visto il [R. decreto 19 novembre 1914, n. 1421](../Regi%20decreti/Col%20quale%20e%20data%20facolta%20al%20Governo%20di%20provvedere%20alla%20riunione%20ed%20al%20coordinamento%20in%20separati%20testi%20unici%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20tasse%20sugli%20affari.%20014U1421.md), col quale in virtu' della delegazione di poteri conferita al Governo con la [legge 19 luglio 1914, n. 694](Che%20autorizza%20il%20Governo%20ad%20applicare%20fino%20al%2030%20giugno%201915%20provvedimenti%20tributari.%20014U0694.md), e' stata autorizzata la formazione di cinque testi unici per le tasse sugli affari corredati di indici ed e' stato disposto che i regolamenti generali relativi seguano i testi unici;
 
 Sentito il Consiglio dei ministri;
 

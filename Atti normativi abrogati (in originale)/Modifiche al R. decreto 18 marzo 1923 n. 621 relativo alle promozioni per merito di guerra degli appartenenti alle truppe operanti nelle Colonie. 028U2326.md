@@ -16,11 +16,11 @@ RE D'ITALIA
 
 Vista la [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), sull'avanzamento degli ufficiali del Regio esercito;
 
-Visto il [R. decreto 18 marzo 1923, n. 621](Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), relativo all'avanzamento per merito di guerra degli appartenenti alle truppe che svolgono operazioni militari importanti nelle colonie;
+Visto il [R. decreto 18 marzo 1923, n. 621](../Regi%20decreti/Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), relativo all'avanzamento per merito di guerra degli appartenenti alle truppe che svolgono operazioni militari importanti nelle colonie;
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), e successive modificazioni;
 
-Riconosciuta la necessita' assoluta e urgente di aggiornare e integrare per i militari del Regio esercito le norme di cui al citato [R. decreto 18 marzo 1923, n. 621](Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md);
+Riconosciuta la necessita' assoluta e urgente di aggiornare e integrare per i militari del Regio esercito le norme di cui al citato [R. decreto 18 marzo 1923, n. 621](../Regi%20decreti/Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -28,13 +28,13 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al [1° comma dell'art. 1 del R. decreto 18 marzo 1923, numero 621](Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), e' sostituito il seguente: 
+Al [1° comma dell'art. 1 del R. decreto 18 marzo 1923, numero 621](../Regi%20decreti/Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), e' sostituito il seguente: 
  
  «Alle truppe che svolgono operazioni militari importanti nelle colonie sono applicabili le disposizioni degli [articoli 107](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), [109](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md) e [110 della legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md), sull'avanzamento degli ufficiali del Regio esercito».
 
 ## Art. 2.
 
-All'art. 2 del citato [R. decreto 18 marzo 1923, n. 621](Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), e' sostituito il seguente: 
+All'art. 2 del citato [R. decreto 18 marzo 1923, n. 621](../Regi%20decreti/Relativo%20alla%20estensione%20delle%20norme%20di%20avanzamento%20per%20le%20promozioni%20per%20merito%20di%20guerra%20alle%20truppe%20operanti%20nelle%20colonie.%20023U0621.md), e' sostituito il seguente: 
  
  «Le proposte di avanzamento ai gradi di ufficiale e di maresciallo (maggiore, capo, ordinario) del Regio esercito, ai sensi del precedente articolo, debbono pervenire al Ministero della guerra, per il tramite di quello delle colonie, annotate da tutte le autorita' gerarchiche militari e dal Governatore. 
  

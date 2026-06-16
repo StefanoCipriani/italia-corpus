@@ -76,7 +76,7 @@ La legge punisce i fabbricatori di biglietti falsi, chi li introduce e li usa ne
  
  A tergo e rasente al parapetto si erge ramoso e fronzuto l'albero d'alloro menzionato nel fondo; mentre in lontananza si delineano alcuni avanzi del Foro Romano ed i palazzi Capitolini. 
  
- In basso al primo dei medaglioni surriferiti si legge la dicitura di fabbrica: «Officina Gov. Carte-Valori. Torino», che riposa su di una targhetta punteggiata; in basso al secondo, e' disposta una simile targhetta occupata dalla leggenda «[R. decreto 7 ottobre 1904, n. 556](Che%20stabilisce%20le%20modalita%20per%20lemissione%20dei%20nuovi%20biglietti%20di%20Stato%20da%20lire%20cinque%20pel%20servizio%20di%20scorta%20in%20sostituzione%20di%20quelli%20logori%20e%20danneggiati%20dello%20stesso%20taglio%20che%20si%20riti_f9ee75dda339.md)», e da quella di registrazione «Registrato alla Corte dei conti il 19 ottobre 1904». 
+ In basso al primo dei medaglioni surriferiti si legge la dicitura di fabbrica: «Officina Gov. Carte-Valori. Torino», che riposa su di una targhetta punteggiata; in basso al secondo, e' disposta una simile targhetta occupata dalla leggenda «[R. decreto 7 ottobre 1904, n. 556](../Regi%20decreti/Che%20stabilisce%20le%20modalita%20per%20lemissione%20dei%20nuovi%20biglietti%20di%20Stato%20da%20lire%20cinque%20pel%20servizio%20di%20scorta%20in%20sostituzione%20di%20quelli%20logori%20e%20danneggiati%20dello%20stesso%20taglio%20che%20si%20riti_f9ee75dda339.md)», e da quella di registrazione «Registrato alla Corte dei conti il 19 ottobre 1904». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

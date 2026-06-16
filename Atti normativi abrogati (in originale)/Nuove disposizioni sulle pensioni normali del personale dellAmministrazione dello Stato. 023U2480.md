@@ -14,7 +14,7 @@ Capo I.
 
 ### Art. 1.
 
-I servizi prestati nella qualita' di straordinario, avventizio e simile, non sono equivalenti all'alunnato, ai sensi dell'articolo 26 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), neppure dopo affidamento di nomina ad impiego di ruolo. 
+I servizi prestati nella qualita' di straordinario, avventizio e simile, non sono equivalenti all'alunnato, ai sensi dell'articolo 26 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), neppure dopo affidamento di nomina ad impiego di ruolo. 
  
  Per l'impiegato civile o per il militare collocato a riposo o comunque dispensato dall'impiego, che venga di fatto, per qualsiasi causa, trattenuto in servizio, il tempo trascorso in tale condizione non e' valutato agli effetti di pensione. 
  
@@ -43,7 +43,7 @@ Il periodo di servizio prestato posteriormente al diciottesimo anno di eta', nel
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 3.
 
@@ -62,7 +62,7 @@ Le disposizioni del precedente articolo 2 sono applicabili a tutti gli impiegati
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 4.
 
@@ -84,7 +84,7 @@ Pero' all'anno della campagna di guerra non puo' aggiungersi alcun altro aumento
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 6.
 
@@ -109,7 +109,7 @@ Le pensioni normali e quelle dipendenti da inabilita' e morte a causa di servizi
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md) e del [Regio D.L. 8 maggio 1924, n. 779](Aggiunte%20al%20R.%20decreto%2021%20novembre%201923%20n.%202480%20e%20successive%20modificazioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20024U0779.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md) e del [Regio D.L. 8 maggio 1924, n. 779](Aggiunte%20al%20R.%20decreto%2021%20novembre%201923%20n.%202480%20e%20successive%20modificazioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20024U0779.md), convertito senza modificazioni dalla [L. 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 8.
 
@@ -128,7 +128,7 @@ Le aliquote di cui all'[art. 5 del Regio decreto 23 ottobre 1919, n. 1970](https
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 9.
 
@@ -174,7 +174,7 @@ Ai [numeri 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto
  
  «4° Quando la vedova viva separata da tutti o da qualcuno degli orfani, e, in ogni caso, quando vi siano orfani di precedente matrimonio del marito, la pensione viene ripartita nel modo seguente: il 40 per cento alla vedova e il rimanente, calcolato come al precedente n. 3, diviso in parti eguali fra tutti gli orfani». 
  
- Per le indennita' per una sola volta rimane in vigore la ripartizione stabilita dall'art. 106 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+ Per le indennita' per una sola volta rimane in vigore la ripartizione stabilita dall'art. 106 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
  Le disposizioni concernenti la misura e la ripartizione della pensione per le vedove o i figli dei militari sono applicabili anche alle pensioni di riversibilita', degli appartenenti al corpo della guardia di finanza. 
  
@@ -194,16 +194,16 @@ Le pensioni privilegiate per inabilita' o morte a causa di servizio, spettano so
 
 Al [primo comma dell'art. 6 del Regio decreto 23 ottobre 1919, n. 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-23;1970#art_6-com1), e' sostituito il seguente: 
  
- « Nel caso previsto dall'articolo 2 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), quando si tratti di infermita' o lesioni ascrivibili alla prima categoria secondo la tabella A, annessa al [Regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), la pensione sara' uguale ai quattro quinti della media degli stipendi dell'ultimo triennio o dell'eventuale minor periodo di servizio»
+ « Nel caso previsto dall'articolo 2 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), quando si tratti di infermita' o lesioni ascrivibili alla prima categoria secondo la tabella A, annessa al [Regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), la pensione sara' uguale ai quattro quinti della media degli stipendi dell'ultimo triennio o dell'eventuale minor periodo di servizio»
 
 ### Art. 15.
 
-Il diritto a pensione privilegiata normale, dei genitori, fratelli e sorelle dei militari, di cui all'art. 123 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni, e' limitato ai soli casi di morte avvenuta per causa di servizio dipendente dagli obblighi di leva o di servizio valido agli effetti dell'adempimento di tali obblighi. 
+Il diritto a pensione privilegiata normale, dei genitori, fratelli e sorelle dei militari, di cui all'art. 123 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, e' limitato ai soli casi di morte avvenuta per causa di servizio dipendente dagli obblighi di leva o di servizio valido agli effetti dell'adempimento di tali obblighi. 
  
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ## Disposizioni varie.
 
@@ -233,12 +233,12 @@ Sono abrogati l'[art. 3 della legge, 8 luglio 1912, n. 750](Che%20porta%20provve
  
  La predetta ritenuta potra' essere ripartita in rate mensili a decorrere dal 1° gennaio 1924 e fino al 31 dicembre 1929. Sono applicabili per la ritenuta stessa le norme del penultimo e terzultimo comma del precedente art. 2. 
  
- Il trattamento di quiescenza degli agenti subalterni del Ministero della guerra provenienti dagli operai a matricola assunti come tali dopo il 15 luglio 1906, ma prima della entrata in vigore della [legge 8 luglio 1912, n. 750](Che%20porta%20provvedimenti%20per%20il%20personale%20di%20servizio%20nelle%20Amministrazioni%20centrali.%20012U0750.md), si intende regolato dalle norme stabilite per gli impiegati civili dal testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni, restando per essi privo di ogni effetto, dalla stessa data della sua applicazione, l'art. 3 della citata [legge 8 luglio 1912, n. 750](Che%20porta%20provvedimenti%20per%20il%20personale%20di%20servizio%20nelle%20Amministrazioni%20centrali.%20012U0750.md). 
+ Il trattamento di quiescenza degli agenti subalterni del Ministero della guerra provenienti dagli operai a matricola assunti come tali dopo il 15 luglio 1906, ma prima della entrata in vigore della [legge 8 luglio 1912, n. 750](Che%20porta%20provvedimenti%20per%20il%20personale%20di%20servizio%20nelle%20Amministrazioni%20centrali.%20012U0750.md), si intende regolato dalle norme stabilite per gli impiegati civili dal testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni, restando per essi privo di ogni effetto, dalla stessa data della sua applicazione, l'art. 3 della citata [legge 8 luglio 1912, n. 750](Che%20porta%20provvedimenti%20per%20il%20personale%20di%20servizio%20nelle%20Amministrazioni%20centrali.%20012U0750.md). 
  
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifiche da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md) e del [Regio D.L. 25 settembre 1924, n. 1551](Estensione%20a%20favore%20del%20personale%20degli%20aiutanti%20tecnici%20del%20bonificamento%20agrario%20del%20normale%20trattamento%20di%20riposo.%20024U1551.md), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifiche da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md) e del [Regio D.L. 25 settembre 1924, n. 1551](Estensione%20a%20favore%20del%20personale%20degli%20aiutanti%20tecnici%20del%20bonificamento%20agrario%20del%20normale%20trattamento%20di%20riposo.%20024U1551.md), convertito senza modificazioni dalla [L. 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 19.
 
@@ -267,17 +267,17 @@ Capo V.
 
 ### Art. 20.
 
-Il primo comma dell'art. 25 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e' sostituito dal seguente: «Per l'applicazione, ai singoli casi, dell'articolo precedente, si seguiranno, tanto per i militari, quanto per i funzionari coloniali e gli altri impiegati civili dello Stato, da qualunque amministrazione dipendano, le stesse norme prescritte per l'accertamento delle altre infermita' da essi contratto per causa di servizio».
+Il primo comma dell'art. 25 del testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' sostituito dal seguente: «Per l'applicazione, ai singoli casi, dell'articolo precedente, si seguiranno, tanto per i militari, quanto per i funzionari coloniali e gli altri impiegati civili dello Stato, da qualunque amministrazione dipendano, le stesse norme prescritte per l'accertamento delle altre infermita' da essi contratto per causa di servizio».
 
 ### Art. 21.
 
 E' abrogato il [terzo comma dell'art. 10 della legge 11 giugno 1897, n. 182](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201896-97.%20097U0182.md), modificato con l'[art. 1 del decreto Luogotenenziale 3 luglio 1919, n. 1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-03;1161#art_1). 
  
- E' pure abrogato il secondo comma dell'art. 4 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70).
+ E' pure abrogato il secondo comma dell'art. 4 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md).
 
 ### Art. 22.
 
-Sono abrogati l'art. 173 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e le successive disposizioni, che vi si riferiscono. 
+Sono abrogati l'art. 173 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e le successive disposizioni, che vi si riferiscono. 
  
  I decreti per il collocamento a riposo di autorita' del personale civile o militare debbono essere emanati di concerto col ministro delle finanze.
 
@@ -296,7 +296,7 @@ Il decreto di cessazione dal servizio deve esplicitamente indicare la decorrenza
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 24.
 
@@ -312,12 +312,12 @@ Per le pensioni di reversibilita' l'acconto viene concesso del ministero delle f
 
 ### Art. 27.
 
-Il procedimento per la liquidazione degli assegni diretti di quiescenza puo', dalla Corte dei conti, iniziarsi d'ufficio appena avvenuta la registrazione dell'atto che dispone la cessazione dal servizio, ovvero la produzione di qualsiasi altro provvedimento che possa tenerne luogo, ai sensi dell'art. 174 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70). 
+Il procedimento per la liquidazione degli assegni diretti di quiescenza puo', dalla Corte dei conti, iniziarsi d'ufficio appena avvenuta la registrazione dell'atto che dispone la cessazione dal servizio, ovvero la produzione di qualsiasi altro provvedimento che possa tenerne luogo, ai sensi dell'art. 174 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md). 
  
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 28.
 
@@ -366,7 +366,7 @@ Il trattamento di quiescenza, diretto o di riversibilita' da liquidarsi dopo l'e
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 33.
 
@@ -389,11 +389,11 @@ Il personale collocato in posizione ausiliaria o a riposo prima dell'entrata in 
 ------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 30 dicembre 1923, n. 2835](../Regi%20decreti/Disposizioni%20interpretative%20ed%20integrative%20del%20R.%20decreto%2021%20novembre%201923%20n.%202480%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2835.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
 
 ### Art. 36.
 
-Nelle liquidazioni da farsi d'ufficio per le quali siasi gia' verificata la decadenza prevista dall'art. 182 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), la decorrenza della pensione verra' fissata dal 1° gennaio 1924.
+Nelle liquidazioni da farsi d'ufficio per le quali siasi gia' verificata la decadenza prevista dall'art. 182 del testo unico approvato con [Regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), la decorrenza della pensione verra' fissata dal 1° gennaio 1924.
 
 ### Art. 37.
 

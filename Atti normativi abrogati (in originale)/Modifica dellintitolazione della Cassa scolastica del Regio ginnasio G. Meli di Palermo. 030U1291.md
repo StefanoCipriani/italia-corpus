@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto il [R. decreto 11 ottobre 1928, n. 3022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-11;3022), con cui fu eretta in ente morale la Cassa scolastica del Regio ginnasio «G. Meli» di Palermo; 
+ Veduto il [R. decreto 11 ottobre 1928, n. 3022](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Cassa%20scolastica%20del%20Regio%20ginnasio%20G.%20Meli%20in%20Palermo.%20028U3022.md), con cui fu eretta in ente morale la Cassa scolastica del Regio ginnasio «G. Meli» di Palermo; 
  
  Veduto il [R. decreto 3 ottobre 1929, n. 1890](Istituzione%20in%20Palermo%20di%20un%20quarto%20Regio%20liceo-ginnasio.%20029U1890.md), con cui fu istituito a Palermo un Regio liceo classico, che, unito col suddetto Regio ginnasio, ha formato il Regio liceo-ginnasio «G. Meli»; 
  

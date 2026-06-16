@@ -62,7 +62,7 @@ Udito il parere del Consiglio per gli interessi serici, il Ministero di agricolt
 
 ## Art. 5.
 
-Per lo sconto diretto a saggio di favore delle note di pegno emesse da magazzini generali legalmente costituiti, sopra deposito di sete, bozzoli e cascami, gli Istituti di emissione possono eccedere i limiti fissati nell'art. 28 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con. [R. decreto del 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204), nelle misure seguenti: 
+Per lo sconto diretto a saggio di favore delle note di pegno emesse da magazzini generali legalmente costituiti, sopra deposito di sete, bozzoli e cascami, gli Istituti di emissione possono eccedere i limiti fissati nell'art. 28 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di Banca, approvato con. [R. decreto del 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), nelle misure seguenti: 
  
  la Banca d'Italia per L. 10.000.000; 
  

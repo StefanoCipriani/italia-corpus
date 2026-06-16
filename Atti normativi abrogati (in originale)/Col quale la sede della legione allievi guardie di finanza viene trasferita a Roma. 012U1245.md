@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Visto l'art. 4 dell'allegato A) alla [legge 19 luglio 1906, n. 367](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-19;367), sull'ordinamento della R. guardia di finanza; 
  
- Visto il [R. decreto 5 agosto 1906, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-08-05;421), che stabilisce le sedi e le circoscrizioni delle legioni del corpo anzidetto; 
+ Visto il [R. decreto 5 agosto 1906, n. 421](../Regi%20decreti/Che%20stabilisce%20le%20sedi%20e%20le%20circoscrizioni%20delle%20legioni%20territoriali%20e%20dei%20circoli%20in%20cui%20e%20ripartito%20il%20contingente%20della%20guardia%20di%20finanza.%20006U0421.md), che stabilisce le sedi e le circoscrizioni delle legioni del corpo anzidetto; 
  
  Sulla proposta del Nostro ministro, segretario di Stato per le finanze; 
  

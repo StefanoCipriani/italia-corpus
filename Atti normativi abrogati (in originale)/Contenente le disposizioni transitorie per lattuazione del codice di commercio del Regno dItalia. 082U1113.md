@@ -148,7 +148,7 @@ Le prescrizioni cominciate prima dell'attuazione del nuovo Codice si regolano se
 
 ## Art. 20.
 
-Nelle provincie ove e' in vigore il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano, le disposizioni del nuovo Codice di commercio, le quali si riferiscono al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859, si applicano colle norme seguenti: 
+Nelle provincie ove e' in vigore il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) toscano, le disposizioni del nuovo Codice di commercio, le quali si riferiscono al [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) del 20 novembre 1859, si applicano colle norme seguenti: 
  
  1° Alla pena della reclusione e dei lavori forzati a tempo e' surrogata la pena della casa di forza; 
  

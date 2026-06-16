@@ -18,9 +18,9 @@ VITTORIO EMANUELE III
  
  Visto il Nostro decreto 3 maggio 1923, n. 1188; 
  
- Viste le tabelle contenute negli allegati I e III del [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
+ Viste le tabelle contenute negli allegati I e III del [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md); 
  
- Visto il [R. decreto 30 dicembre 1923, n. 3024](Esecuzione%20dei%20rimborsi%20delle%20imposte%20dirette%20dichiarate%20indebite.%20023U3024.md); 
+ Visto il [R. decreto 30 dicembre 1923, n. 3024](../Regi%20decreti/Esecuzione%20dei%20rimborsi%20delle%20imposte%20dirette%20dichiarate%20indebite.%20023U3024.md); 
  
  Ritenuta l'opportunita' di accordare al personale gia' appartenente al ruolo del Genio civile, attualmente in pensione, incaricato delle mansioni relative all'Ispettorato superiore per le opere pubbliche delle Colonie una retribuzione corrispondente a quella istituita con le tabelle approvate col Nostro decreto gia' citato dell'11 novembre 1923; 
  
@@ -32,7 +32,7 @@ VITTORIO EMANUELE III
  
  Il Nostro decreto 3 maggio 1923, n. 1188, dove e' detto: 
  
- « a condizione che la retribuzione da corrispondersi a detto personale non superi la differenza tra il trattamento di quiescenza e quello di cui il personale stesso usufruiva all'atto del collocamento a riposo » va cosi' modificato: « a condizione che la retribuzione da corrispondersi a detto personale non superi la differenza tra il trattamento di quiescenza e quello di cui il personale di pari grado ed anzianita' rimasto in attivita' di servizio nel ruolo del Genio civile usufruisce in conseguenza delle tabelle approvate col [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) ». 
+ « a condizione che la retribuzione da corrispondersi a detto personale non superi la differenza tra il trattamento di quiescenza e quello di cui il personale stesso usufruiva all'atto del collocamento a riposo » va cosi' modificato: « a condizione che la retribuzione da corrispondersi a detto personale non superi la differenza tra il trattamento di quiescenza e quello di cui il personale di pari grado ed anzianita' rimasto in attivita' di servizio nel ruolo del Genio civile usufruisce in conseguenza delle tabelle approvate col [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) ». 
  
  Il presente decreto avra' vigore a decorrere dal 1° luglio fino al 31 dicembre 1924 e sara' presentato al Parlamento per essere convertito in legge. 
  

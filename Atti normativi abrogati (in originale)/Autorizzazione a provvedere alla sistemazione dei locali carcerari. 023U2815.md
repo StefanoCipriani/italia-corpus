@@ -20,7 +20,7 @@ Vista la [legge 14 luglio 1889, n. 6165](Che%20approva%20la%20riforma%20penitenz
 
 Visto il regolamento generale degli stabilimenti carcerari e dei riformatori governativi, approvato con [R. decreto 1° febbraio 1891, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-01;260);
 
-Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e il regolamento per l'esecuzione di detta legge, approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297);
+Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e il regolamento per l'esecuzione di detta legge, approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md);
 
 Sentito il Consiglio dei Ministri;
 

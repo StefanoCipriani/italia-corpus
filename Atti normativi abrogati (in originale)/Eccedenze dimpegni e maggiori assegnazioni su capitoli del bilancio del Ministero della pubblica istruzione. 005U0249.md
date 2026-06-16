@@ -23,13 +23,13 @@ E' approvata la maggiore assegnazione di L. 91.10, inscritta al cap. n. 187-octi
 
 ## Art. 4.
 
-E' approvata la maggiore assegnazione di L. 2,591, inscritta al cap. n. 187-novies: «Eccedenza d'impegni verificatasi al cap. n. 23 - Indennita' per una sola volta, invece di pensioni, ai termini degli articoli 3, 83 e 109 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), ed altri assegni congeneri legalmente dovuti (spesa obbligatoria) - dello stato di previsione della spesa per gli esercizi 1901-902 e 1900-901», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero della pubblica istruzione nell'esercizio finanziario 1903-904.
+E' approvata la maggiore assegnazione di L. 2,591, inscritta al cap. n. 187-novies: «Eccedenza d'impegni verificatasi al cap. n. 23 - Indennita' per una sola volta, invece di pensioni, ai termini degli articoli 3, 83 e 109 del testo unico delle leggi sulle pensioni civili e militari, approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), ed altri assegni congeneri legalmente dovuti (spesa obbligatoria) - dello stato di previsione della spesa per gli esercizi 1901-902 e 1900-901», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero della pubblica istruzione nell'esercizio finanziario 1903-904.
 
 ## Art. 5.
 
 E' approvata la maggiore assegnazione di L. 4400, inscritta al cap.
 n. 187-decies: «Eccedenza d'impegni verificatasi al cap. n. 27 - RR.
-Universita' ed altri istituti universitari - Personale (spese fisse) - Stipendi, assegni e retribuzioni per incarichi e supplenze a posti vacanti - Assegni e compensi al personale straordinario; indennita' e retribuzioni per eventuali servizi straordinari - Propine in supplemento della sopratassa di esame ([R. decreto 26 ottobre 1890, n. 7337](Che%20approva%20lannesso%20regolamento%20universitario.%20090U7337.md), serie 3ª) - dello stato di previsione della spesa per gli esercizi 1902-903 e retro», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero della pubblica istruzione nell'esercizio finanziario 1903-904.
+Universita' ed altri istituti universitari - Personale (spese fisse) - Stipendi, assegni e retribuzioni per incarichi e supplenze a posti vacanti - Assegni e compensi al personale straordinario; indennita' e retribuzioni per eventuali servizi straordinari - Propine in supplemento della sopratassa di esame ([R. decreto 26 ottobre 1890, n. 7337](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20universitario.%20090U7337.md), serie 3ª) - dello stato di previsione della spesa per gli esercizi 1902-903 e retro», per provvedere al saldo delle eccedenze d'impegni verificatesi nel conto consuntivo della spesa del Ministero della pubblica istruzione nell'esercizio finanziario 1903-904.
 
 ## Art. 6.
 

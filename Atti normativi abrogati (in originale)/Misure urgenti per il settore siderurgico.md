@@ -103,7 +103,7 @@ Il contributo e' concesso dal CIPI su proposta del Ministro dell'industria, del 
 
 5.
 
-La misura del contributo e' determinata tenendo conto dello stato degli impianti, dell'entita' della capacita' produttiva soppressa rispetto a quella totale posseduta dall'impresa, nonche' della localizzazione dei medesimi impianti nelle aree di cui al [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e dei relativi riflessi occupazionali.
+La misura del contributo e' determinata tenendo conto dello stato degli impianti, dell'entita' della capacita' produttiva soppressa rispetto a quella totale posseduta dall'impresa, nonche' della localizzazione dei medesimi impianti nelle aree di cui al [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), e dei relativi riflessi occupazionali.
 
 6.
 

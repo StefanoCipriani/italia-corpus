@@ -16,11 +16,11 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 26 agosto 1927, n. 1633](Ordinamento%20della%20Regia%20accademia%20aeronautica.%20027U1633.md), e successive modificazioni, riguardante l'ordinamento della Regia aeronautica;
+Visto il [R. decreto 26 agosto 1927, n. 1633](../Regi%20decreti/Ordinamento%20della%20Regia%20accademia%20aeronautica.%20027U1633.md), e successive modificazioni, riguardante l'ordinamento della Regia aeronautica;
 
 Visto il [R. decreto 20 luglio 1934, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1302), convertito nella [legge 4 aprile 1935, n. 808](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201302%20che%20approva%20le%20norme%20sulle%20indennita%20da%20corrispondere%20al%20personale%20militare%20e%20civile%20della%20Regia%20aeronau_4725ebca06cf.md), con le successive modificazioni, sulle indennita' dovute al personale dell'Amministrazione aeronautica;
 
-Visto il [R. decreto 28 febbraio 1935, n. 447](Costituzione%20della%20Scuola%20di%20guerra%20aerea.%20035U0447.md), relativo alla costituzione della scuola di guerra aerea;
+Visto il [R. decreto 28 febbraio 1935, n. 447](../Regi%20decreti/Costituzione%20della%20Scuola%20di%20guerra%20aerea.%20035U0447.md), relativo alla costituzione della scuola di guerra aerea;
 
 Ritenuta la necessita' urgente ed assoluta di provvedere in conseguenza delle attuali eccezionali e straordinarie condizioni;
 

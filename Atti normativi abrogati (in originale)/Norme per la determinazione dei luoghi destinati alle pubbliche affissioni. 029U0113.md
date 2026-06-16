@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il testo unico sull'assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato col [R. decreto 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578), e il [R. decreto 14 giugno 1928, n. 1399](Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), relativo ai servizi comunali delle pubbliche affissioni e della pubblicita' affine;
+Veduto il testo unico sull'assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato col [R. decreto 15 ottobre 1925, n. 2578](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md), e il [R. decreto 14 giugno 1928, n. 1399](Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), relativo ai servizi comunali delle pubbliche affissioni e della pubblicita' affine;
 
 Sentito il Consiglio di Stato e la Corte dei conti;
 

@@ -40,7 +40,7 @@ La Scuola di metodo Montessori e' retta da una direttrice nominata con decreto d
  
  Alla direttrice spetta il trattamento economico stabilito per il grado 7° del personale di gruppo A, secondo le norme del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), oltre l'indennita' di servizio attivo. 
  
- La direttrice esercita le mansioni attribuite dal [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e dalle altre disposizioni in vigore, ai presidi di scuola media, in quanto non ostino le disposizioni del presente decreto.
+ La direttrice esercita le mansioni attribuite dal [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e dalle altre disposizioni in vigore, ai presidi di scuola media, in quanto non ostino le disposizioni del presente decreto.
 
 ## Art. 4.
 
@@ -68,7 +68,7 @@ Al personale insegnante di cui all'articolo precedente spettano gli stipendi e l
  
  ordinario di prima classe: con piu' di 15 anni, stipendio stabilito per il 9° grado del personale appartenente al gruppo A. 
  
- Le ore di tirocinio impartite dagli insegnanti di cui all'articolo precedente sono retribuite nella misura stabilita dalla tabella 6 annessa al [R. decreto 6 maggio 1923, numero 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+ Le ore di tirocinio impartite dagli insegnanti di cui all'articolo precedente sono retribuite nella misura stabilita dalla tabella 6 annessa al [R. decreto 6 maggio 1923, numero 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 6.
 
@@ -112,7 +112,7 @@ La nomina degli insegnanti alle cattedre di ruolo e delle Maestre giardiniere e'
 
 Le eventuali supplenze ai posti di ruolo e gli incarichi sono conferiti annualmente con decreto Ministeriale. 
  
- Gli incarichi e le supplenze e le ore di tirocinio impartite dai supplenti e dagli incaricati saranno retribuiti nella misura di L. 330 annue per ogni ora settimanale, a norma della lettera b) della tabella annessa al [R. decreto 6 maggio 1923, n. 1054, e dell'art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_3) del [R. decreto 31 marzo 1925, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;363).
+ Gli incarichi e le supplenze e le ore di tirocinio impartite dai supplenti e dagli incaricati saranno retribuiti nella misura di L. 330 annue per ogni ora settimanale, a norma della lettera b) della tabella annessa al [R. decreto 6 maggio 1923, n. 1054, e dell'art. 3](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) del [R. decreto 31 marzo 1925, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-31;363).
 
 ## Art. 11.
 

@@ -32,10 +32,10 @@ NOTE
 
 ## Art. 2.
 
-I magistrati, che alla data di entrata in vigore della presente legge prestano servizio alla procura generale presso la Corte di cassazione con la qualifica di magistrato di tribunale applicato, continuano a prestare servizio nel medesimo ufficio con la qualifica di magistrato di appello, se a tale data abbiano conseguito detta qualifica; nel caso non l'abbiano conseguita, si applicano il penultimo e l'ultimo comma dell'[articolo 2 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_2).
+I magistrati, che alla data di entrata in vigore della presente legge prestano servizio alla procura generale presso la Corte di cassazione con la qualifica di magistrato di tribunale applicato, continuano a prestare servizio nel medesimo ufficio con la qualifica di magistrato di appello, se a tale data abbiano conseguito detta qualifica; nel caso non l'abbiano conseguita, si applicano il penultimo e l'ultimo comma dell'[articolo 2 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md).
 
 Nota all'art. 2:
- Gli ultimi due commi dell'[art. 2 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_2) (Guarentigie della magistratura) cosi' recitano:
+ Gli ultimi due commi dell'[art. 2 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md) (Guarentigie della magistratura) cosi' recitano:
  "Qualora venga ridotto l'organico di un ufficio giudiziario, i magistrati meno anziani che risultino in soprannumero, se non possono essere assegnati ad altro ufficio della stessa sede, sono destinati ai posti vacanti del loro grado in altra sede.
  Nei casi previsti dai due precedenti commi si tiene conto, in quanto possibile, delle aspirazioni dei magistrati da trasferire".
 

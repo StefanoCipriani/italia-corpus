@@ -14,7 +14,7 @@ Vista la [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizi
 
 Vista la [legge 7 agosto 1919, n. 1443](Che%20approva%20la%20diffida%20per%20il%20riscatto%20di%20tutte%20le%20linee%20e%20tronchi%20ferroviari%20tenuti%20dalla%20Compagnia%20Reale%20delle%20ferrovie%20sarde%20autorizzandone%20lesercizio%20da%20parte%20delle%20ferrovie%20dello%20Stato.%20019U1443.md);
 
-Visto il [regio decreto 21 dicembre 1919, n. 2550](Che%20stabilisce%20lassunzione%20da%20parte%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20dellesercizio%20delle%20linee%20ferroviarie%20gia%20concesse%20alla%20Compagnia%20Reale%20delle%20ferrovie%20sarde.%20019U2550.md);
+Visto il [regio decreto 21 dicembre 1919, n. 2550](../Regi%20decreti/Che%20stabilisce%20lassunzione%20da%20parte%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20dellesercizio%20delle%20linee%20ferroviarie%20gia%20concesse%20alla%20Compagnia%20Reale%20delle%20ferrovie%20sarde.%20019U2550.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

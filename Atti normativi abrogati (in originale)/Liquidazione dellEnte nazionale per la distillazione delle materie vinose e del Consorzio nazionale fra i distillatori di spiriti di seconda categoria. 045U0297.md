@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 10 giugno 1937, n. 1266](Provvedimenti%20per%20la%20viticoltura%20e%20la%20produzione%20vinicola.%20037U1266.md), recante provvedimenti per la viticoltura e la produzione vinicola;
 
-Visto il [R. decreto 12 dicembre 1938, n. 2273](Approvazione%20dello%20statuto-regolamento%20del%20Consorzio%20fra%20i%20distillatori%20di%20spiriti%20di%20seconda%20categoria.%20038U2273.md), relativo all'approvazione dello statuto regolamento del Consorzio nazionale fra i distillatori di spiriti di seconda categoria;
+Visto il [R. decreto 12 dicembre 1938, n. 2273](../Regi%20decreti/Approvazione%20dello%20statuto-regolamento%20del%20Consorzio%20fra%20i%20distillatori%20di%20spiriti%20di%20seconda%20categoria.%20038U2273.md), relativo all'approvazione dello statuto regolamento del Consorzio nazionale fra i distillatori di spiriti di seconda categoria;
 
 visto il [R. decreto-legge 13 agosto 1940, n. 1419](Modificazioni%20alla%20legge%2010%20giugno%201937-XV%20n.%201266%20recante%20provvedimenti%20per%20la%20viticoltura%20e%20la%20produzione%20vinicola.%20040U1419.md), recante modificazioni alla predetta legge, convertito, con modificazioni, nella [legge 13 marzo 1941, n. 383](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013-agosto%201940-XVIII%20n.%201419%20che%20porta%20modificazioni%20alla%20legge%2010%20giugno%201937-XV%20n.%201266%20recante%20provvedimenti%20per%20la%20viticolt_829a2e1919c2.md);
 

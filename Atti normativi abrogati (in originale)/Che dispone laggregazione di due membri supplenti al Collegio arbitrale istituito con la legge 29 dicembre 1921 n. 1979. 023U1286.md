@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 18 luglio 1920, nn. 999 e 1005](Che%20istituisce%20una%20Commissione%20parlamentare%20di%20inchiesta%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazioni%20e%20per%20la%20ricostituzione%20delle%20terre%20liberate.%20020U1005.md), e la [legge 29 dicembre 1921, n. 1979](Che%20proroga%20i%20poteri%20delle%20Commissioni%20parlamentari%20dinchiesta%20istituite%20rispettivamente%20con%20la%20legge%2018%20luglio%201920%20n.%20999%20e%20con%20quella%2018%20luglio%201920%20n.%201005.%20021U1979.md);
 
-Visto il [R. decreto 4 maggio 1922, n. 638](Contenente%20il%20regolamento%20per%20lesercizio%20delle%20azioni%20di%20recupero%20da%20parte%20delle%20Commissioni%20parlamentari%20dinchiesta%20sulle%20spese%20di%20guerra%20e%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazion_6110e8399dad.md);
+Visto il [R. decreto 4 maggio 1922, n. 638](../Regi%20decreti/Contenente%20il%20regolamento%20per%20lesercizio%20delle%20azioni%20di%20recupero%20da%20parte%20delle%20Commissioni%20parlamentari%20dinchiesta%20sulle%20spese%20di%20guerra%20e%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazion_6110e8399dad.md);
 
 Visto il [R. decreto 16 febbraio 1923, n. 294](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-16;294);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro delle finanze di concerto col Ministro della giustiz
 
 ## Art. 1.
 
-Al Collegio arbitrale istituito con la [legge 29 dicembre 1921, n 1979](Che%20proroga%20i%20poteri%20delle%20Commissioni%20parlamentari%20dinchiesta%20istituite%20rispettivamente%20con%20la%20legge%2018%20luglio%201920%20n.%20999%20e%20con%20quella%2018%20luglio%201920%20n.%201005.%20021U1979.md), saranno aggregati, per la eventuale sostituzione dei membri effettivi, due membri supplenti nominati, su designazione del primo presidente della Corte di Cassazione del Regno, nei modi stabiliti dall'[art. 13 del R. decreto 4 maggio 1922, n. 638](Contenente%20il%20regolamento%20per%20lesercizio%20delle%20azioni%20di%20recupero%20da%20parte%20delle%20Commissioni%20parlamentari%20dinchiesta%20sulle%20spese%20di%20guerra%20e%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazion_6110e8399dad.md), fra i magistrati aventi grado non inferiore a consigliere di Corte d'appello.
+Al Collegio arbitrale istituito con la [legge 29 dicembre 1921, n 1979](Che%20proroga%20i%20poteri%20delle%20Commissioni%20parlamentari%20dinchiesta%20istituite%20rispettivamente%20con%20la%20legge%2018%20luglio%201920%20n.%20999%20e%20con%20quella%2018%20luglio%201920%20n.%201005.%20021U1979.md), saranno aggregati, per la eventuale sostituzione dei membri effettivi, due membri supplenti nominati, su designazione del primo presidente della Corte di Cassazione del Regno, nei modi stabiliti dall'[art. 13 del R. decreto 4 maggio 1922, n. 638](../Regi%20decreti/Contenente%20il%20regolamento%20per%20lesercizio%20delle%20azioni%20di%20recupero%20da%20parte%20delle%20Commissioni%20parlamentari%20dinchiesta%20sulle%20spese%20di%20guerra%20e%20sulle%20gestioni%20per%20lassistenza%20alle%20popolazion_6110e8399dad.md), fra i magistrati aventi grado non inferiore a consigliere di Corte d'appello.
 
 ## Art. 2.
 

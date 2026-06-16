@@ -159,7 +159,7 @@ Le infrazioni alle disposizioni contenute nei decreti del Ministro per le finanz
 
 ## Art. 18.
 
-Le disposizioni di cui agli articoli 12, 13, 15, 16 e 17 del presente decreto, per quanto concerne la misura delle pene della multa e dell'ammenda sono adottate in deroga agli [articoli 24](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
+Le disposizioni di cui agli articoli 12, 13, 15, 16 e 17 del presente decreto, per quanto concerne la misura delle pene della multa e dell'ammenda sono adottate in deroga agli [articoli 24](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle loro successive modificazioni.
 
 ## Art. 19.
 

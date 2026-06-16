@@ -30,7 +30,7 @@ E' approvato il nuovo statuto della Reale Societa' geografica italiana annesso a
 
 ## Art. 2.
 
-E' abrogato lo statuto della Reale Societa' suddetta, approvato con [R. decreto 9 dicembre 1897, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-12-09;380), modificato con [R. decreto 3 luglio 1921, n. 1692](Modificazioni%20di%20statuto.%20021U1692.md). 
+E' abrogato lo statuto della Reale Societa' suddetta, approvato con [R. decreto 9 dicembre 1897, n. 380](../Regi%20decreti/Che%20approva%20un%20nuovo%20statuto%20della%20Societa%20geografica%20italiana%20con%20sede%20in%20Roma.%209700380R.md), modificato con [R. decreto 3 luglio 1921, n. 1692](Modificazioni%20di%20statuto.%20021U1692.md). 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  Dato a San Rossore, addi' 10 settembre 1931 - Anno IX 
  

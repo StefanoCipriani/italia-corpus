@@ -52,7 +52,7 @@ Se la sesta sezione riconosce che il punto di diritto sottoposto al suo esame ha
 
 ## Art. 4.
 
-I ricorsi fatti al Re (articoli 12 e 26 testo unico delle leggi sul Consiglio di Stato, approvato con [Regio decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md)) provenienti dalle nuove Provincie contro la legittimita' dei provvedimenti amministrativi, sui quali siano esaurite o non possono proporsi domande di riparazioni in via gerarchica, non saranno piu' ammessi dopo 180 giorni da quello, in cui il ricorrente ebbe comunicazione del provvedimento; e saranno notificati dal ricorrente tanto all'autorita' che abbia emesso il provvedimento quanto a chi vi abbia interesse diretto, mediante piego raccomandato spedito per posta con ricevuta di ritorno.
+I ricorsi fatti al Re (articoli 12 e 26 testo unico delle leggi sul Consiglio di Stato, approvato con [Regio decreto 17 agosto 1907, n. 638](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md)) provenienti dalle nuove Provincie contro la legittimita' dei provvedimenti amministrativi, sui quali siano esaurite o non possono proporsi domande di riparazioni in via gerarchica, non saranno piu' ammessi dopo 180 giorni da quello, in cui il ricorrente ebbe comunicazione del provvedimento; e saranno notificati dal ricorrente tanto all'autorita' che abbia emesso il provvedimento quanto a chi vi abbia interesse diretto, mediante piego raccomandato spedito per posta con ricevuta di ritorno.
 
 ## Art. 5.
 

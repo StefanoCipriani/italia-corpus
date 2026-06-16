@@ -16,7 +16,7 @@ PROMULGA r la seguente legge:
 
 ## Art. 1.
 
-L'[articolo 6 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_6), e' abrogato e sostituito dal seguente:
+L'[articolo 6 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), e' abrogato e sostituito dal seguente:
  "Presso ogni Corte di appello e' costituito un Consiglio giudiziario presieduto dal primo presidente della Corte d'appello e composto dal procuratore generale, della Repubblica nonche' da otto membri di cui tre con funzioni di supplenti, eletti ogni due anni da tutti i magistrati degli uffici giudiziari del distretto con voto personale e segreto nelle seguenti proporzioni: un magistrato effettivo ed uno supplente tra i magistrati di Cassazione; due effettivi ed uno supplente tra i magistrati di Corte d'appello; due effettivi ed uno supplente tra i magistrati di Tribunale. Nei distretti nei quali non e' possibile eleggere i magistrati di Cassazione, i posti sono attribuiti a magistrati di Corte di appello.
  In caso di mancanza o di impedimento, il primo presidente ed il procuratore generale sono sostituiti dal magistrato che ne esercita la funzione.
  I magistrati che, per il numero di suffragi raccolti, seguono quelli risultati eletti, vengono, nell'ordine ed in numero non superiore a tre per gli effettivi ed a due per i supplenti, chiamati a sostituire quelli che cessano dalla carica nel corso del biennio.

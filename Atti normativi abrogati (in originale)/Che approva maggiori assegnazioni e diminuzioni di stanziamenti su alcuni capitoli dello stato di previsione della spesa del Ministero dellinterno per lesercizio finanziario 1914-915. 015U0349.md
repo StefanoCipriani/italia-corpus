@@ -14,7 +14,7 @@ Sono approvate le maggiori assegnazioni di lire 2.324.063 e le diminuzioni di st
 
 ## Art. 2.
 
-E' autorizzata la maggiore assegnazione di L. 200.000 al capitolo n. 140 « Fondo di riserva per le spese impreviste ecc. », inscritto nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915, a titolo di reintegrazione di egual somma prelevata a favore di vari capitoli dello stato di previsione del Ministero dell'interno, per l'esercizio stesso con [R. decreto 24 gennaio 1915, n. 84](Col%20quale%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201914-915%20e%20autorizzata%20una%2020a%20prelevazion_51b1223c88d1.md). 
+E' autorizzata la maggiore assegnazione di L. 200.000 al capitolo n. 140 « Fondo di riserva per le spese impreviste ecc. », inscritto nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915, a titolo di reintegrazione di egual somma prelevata a favore di vari capitoli dello stato di previsione del Ministero dell'interno, per l'esercizio stesso con [R. decreto 24 gennaio 1915, n. 84](../Regi%20decreti/Col%20quale%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201914-915%20e%20autorizzata%20una%2020a%20prelevazion_51b1223c88d1.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

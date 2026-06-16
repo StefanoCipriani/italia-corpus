@@ -14,7 +14,7 @@ VITTORIO EMANUELE III
  PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
  RE D'ITALIA 
  
- Visto il [R. decreto 19 giugno 1924, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1217), concernente il riordinamento del Regio istituto industriale in Torino; 
+ Visto il [R. decreto 19 giugno 1924, n. 1217](../Regi%20decreti/Costituzione%20del%20Regio%20istituto%20industriale%20di%20Torino.%20024U1217.md), concernente il riordinamento del Regio istituto industriale in Torino; 
  Visto il decreto Ministeriale 22 ottobre 1925, relativo ai contributi corrisposti dallo Stato e dagli enti al predetto Istituto; 
  Visto il [R. decreto 5 agosto 1927, n. 1717](Modificazione%20dellimporto%20dei%20contributi%20del%20Ministero%20e%20degli%20enti%20locali%20per%20il%20mantenimento%20del%20Regio%20istituto%20industriale%20di%20Torino.%20027U1717.md), concernente le modificazioni apportate ai contributi di cui al precedente decreto Ministeriale; 
  Vista la deliberazione del Consiglio provinciale dell'economia in Torino in data 23 novembre 1928-VII, approvata dal Ministero dell'economia nazionale il 29 dicembre 1928; 

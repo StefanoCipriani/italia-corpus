@@ -30,7 +30,7 @@ Hanno diritto a conseguire la pensione gli impiegati civili contemplati dall'[ar
  
  b) siano divenuti per infermita' inabili a continuare o a riassumere il servizio; 
  
- c) siano cessati dalla disponibilita' a' termini dell'art. 25 del testo unico approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), o siano stati dispensati, revocati, destituiti senza perdita del diritto a pensione o comunque allontanati dal servizio per disposizione di ufficio; 
+ c) siano cessati dalla disponibilita' a' termini dell'art. 25 del testo unico approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), o siano stati dispensati, revocati, destituiti senza perdita del diritto a pensione o comunque allontanati dal servizio per disposizione di ufficio; 
  
  d) siano collocati a riposo su domanda o d'ufficio nei casi previsti dalla lettera a), articolo 1, del testo unico sulle pensioni 21 febbraio 1895, n. 70, o in altre leggi speciali.
 
@@ -40,7 +40,7 @@ Hanno diritto alla liquidazione di una indennita' per una volta tanto gli impieg
  
  a) dopo cinque anni di servizio utile e prima di venti anni di servizio utile siano divenuti, per cause diverse da quelle indicate nell'[art. 2 del testo unico 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-02-21;70#art_2), inabili a continuare o a riassumere il servizio stesso; 
  
- b) dopo dieci anni di servizio utile e prima di venti anni di servizio utile siano cessati dalla disponibilita' a' termini dell'art. 25 del testo unico approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md) o siano stati dispensati, revocati, destituiti senza perdita del diritto a pensione o comunque allontanati dal servizio per disposizioni di ufficio.
+ b) dopo dieci anni di servizio utile e prima di venti anni di servizio utile siano cessati dalla disponibilita' a' termini dell'art. 25 del testo unico approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md) o siano stati dispensati, revocati, destituiti senza perdita del diritto a pensione o comunque allontanati dal servizio per disposizioni di ufficio.
 
 ## Art. 4.
 
@@ -148,7 +148,7 @@ Sono abrogati per cio' che riguarda gli impiegati civili gli [articoli 74](https
 
 ## Art. 19.
 
-A coloro che liquideranno la pensione in base al presente decreto non e' dovuto l'assegno mensile stabilito col [Regio decreto 31 luglio 1919, n. 1304](Che%20stabilisce%20un%20assegno%20mensile%20di%20L.%2050%20e%20di%20L.%2030%20a%20favore%20rispettivamente%20di%20tutti%20i%20pensionati%20dello%20Stato%20e%20delle%20loro%20vedove%20orfani%20e%20genitori.%20019U1304.md). Nel caso che la maggiore pensione percepita rispetto a quella che sarebbe spettata in dipendenza delle disposizioni precedentemente in vigore risultasse inferiore al detto assegno, verra' corrisposta soltanto la differenza.
+A coloro che liquideranno la pensione in base al presente decreto non e' dovuto l'assegno mensile stabilito col [Regio decreto 31 luglio 1919, n. 1304](../Regi%20decreti/Che%20stabilisce%20un%20assegno%20mensile%20di%20L.%2050%20e%20di%20L.%2030%20a%20favore%20rispettivamente%20di%20tutti%20i%20pensionati%20dello%20Stato%20e%20delle%20loro%20vedove%20orfani%20e%20genitori.%20019U1304.md). Nel caso che la maggiore pensione percepita rispetto a quella che sarebbe spettata in dipendenza delle disposizioni precedentemente in vigore risultasse inferiore al detto assegno, verra' corrisposta soltanto la differenza.
 
 ## Art. 20.
 

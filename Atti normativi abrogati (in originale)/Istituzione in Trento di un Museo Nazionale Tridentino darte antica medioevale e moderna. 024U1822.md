@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Ritenuto che tale raccolta debba essere formata in Trento ed aver sede nel monumentale Castello del Buonconsiglio; 
  
- Visti la [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md) e il [Regio decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164); 
+ Visti la [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md) e il [Regio decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md); 
  
  Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione; 
  

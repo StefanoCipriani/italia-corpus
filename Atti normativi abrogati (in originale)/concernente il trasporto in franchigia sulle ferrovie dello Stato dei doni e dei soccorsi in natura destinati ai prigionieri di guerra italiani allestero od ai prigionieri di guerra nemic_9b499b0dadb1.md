@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per i trasporti marittimi e ferr
 
 I doni e i soccorsi in natura, destinati ai prigionieri di guerra italiani all'estero od ai prigionieri di guerra nemici nel Regno, saranno ammessi in franchigia delle tasse di trasporto sulle ferrovie esercitate dallo Stato. 
  
- La disposizione dell'art. 9, n. 18, delle disposizioni preliminari alla tariffa dei dazi doganali, approvata col [R. decreto 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md) che concede esenzione dai diritti di confine ai doni e soccorsi in natura sopra mentovati, e' estesa ai dazi interni di Consumo.
+ La disposizione dell'art. 9, n. 18, delle disposizioni preliminari alla tariffa dei dazi doganali, approvata col [R. decreto 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md) che concede esenzione dai diritti di confine ai doni e soccorsi in natura sopra mentovati, e' estesa ai dazi interni di Consumo.
 
 ## Art. 2.
 

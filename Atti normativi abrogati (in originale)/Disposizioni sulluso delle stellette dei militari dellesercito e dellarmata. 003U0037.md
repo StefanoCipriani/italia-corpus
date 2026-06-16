@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I militari dell'esercito e dell'armata in servizio attivo e quelli in congedo richiamati in servizio con decreto Reale o Ministeriale, debbono portare sul bavero dell'abito della rispettiva divisa le stellette a cinque punte come segno della loro soggezione alla giurisdizione militare, a mente dell'[articolo 323 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e 362 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
+I militari dell'esercito e dell'armata in servizio attivo e quelli in congedo richiamati in servizio con decreto Reale o Ministeriale, debbono portare sul bavero dell'abito della rispettiva divisa le stellette a cinque punte come segno della loro soggezione alla giurisdizione militare, a mente dell'[articolo 323 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e 362 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 2.
 
@@ -22,7 +22,7 @@ Il R. decreto 13 dicembre 1871 e' abrogato.
 
 ## Art. 4.
 
-Le Autorita' di terra e di mare denunzieranno all'Autorita' giudiziaria le contravvenzioni al presente decreto per l'applicazione delle pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
+Le Autorita' di terra e di mare denunzieranno all'Autorita' giudiziaria le contravvenzioni al presente decreto per l'applicazione delle pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -24,11 +24,11 @@ In virtu' delle facolta' conferite al R. Governo con la [legge 22 maggio 1915, n
 
 Visti gli [articoli 4](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), [17](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md) e [18 della legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), per l'ordinamento della Somalia italiana;
 
-Visto l'articolo 4 dell'ordinamento amministrativo per la Somalia, approvato con [R. decreto 4 luglio 1910, n. 562](Che%20approva%20lannesso%20regolamento%20amministrativo%20per%20la%20Somalia%20italiana.%20010U0562.md);
+Visto l'articolo 4 dell'ordinamento amministrativo per la Somalia, approvato con [R. decreto 4 luglio 1910, n. 562](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20amministrativo%20per%20la%20Somalia%20italiana.%20010U0562.md);
 
 Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md) che autorizza la istituzione del Ministero delle colonie;
 
-Visto il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md), che istituisce il Ministero delle colonie;
+Visto il [R. decreto 20 novembre 1912, n. 1205](../Regi%20decreti/riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md), che istituisce il Ministero delle colonie;
 
 Udito il governatore;
 

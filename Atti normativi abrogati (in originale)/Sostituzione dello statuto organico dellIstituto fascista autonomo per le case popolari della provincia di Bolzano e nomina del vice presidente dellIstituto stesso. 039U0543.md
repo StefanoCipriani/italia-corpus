@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con decreto 28 aprile 1938, numero 1165;
+Visto il [testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con decreto 28 aprile 1938, numero 1165;
 
 Visto il [decreto Ministeriale n. 3220, del 29 aprile 1937](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1937-04-29;3220), registrato alla Corte dei conti il 14 maggio 1937, registro 10, foglio 386, con il quale l'Istituto per le case popolari di Bolzano venne riconosciuto come Ente provinciale e ne fu approvato lo statuto organico;
 

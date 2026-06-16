@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3, n. 2 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3272](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approva il testo unico della legge sulle tasse ipotecarie;
+Visto il [R. decreto 30 dicembre 1923, n. 3272](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approva il testo unico della legge sulle tasse ipotecarie;
 
 Ritenuta l'urgente ed assoluta necessita' di impartire norme sostitutive del [R. decreto-legge 15 novembre 1937, n. 1994](Ricostituzione%20dellUfficio%20delle%20ipoteche%20di%20Catania.%20037U1994.md), la cui emanazione si rese indispensabile quando non si conosceva l'entita' dei danni prodotti dall'incendio del 7 aprile 1937 verificatosi nella Conservatoria delle ipoteche di Catania che risulta ormai quasi completamente ricostituita;
 

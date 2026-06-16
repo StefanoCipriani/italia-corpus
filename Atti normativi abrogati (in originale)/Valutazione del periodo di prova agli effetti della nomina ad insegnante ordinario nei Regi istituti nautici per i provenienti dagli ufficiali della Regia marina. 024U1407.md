@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 21 ottobre 1923, n. 2557](Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md);
+Visto il [R. decreto 21 ottobre 1923, n. 2557](../Regi%20decreti/Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md);
 
-Visto il [R. decreto 22 novembre 1923, n. 3174](Collocazione%20nei%20ruoli%20degli%20insegnanti%20dei%20Regi%20istituti%20nautici%20di%20determinate%20categorie%20di%20ufficiali%20della%20Regia%20marina.%20023U3174.md);
+Visto il [R. decreto 22 novembre 1923, n. 3174](../Regi%20decreti/Collocazione%20nei%20ruoli%20degli%20insegnanti%20dei%20Regi%20istituti%20nautici%20di%20determinate%20categorie%20di%20ufficiali%20della%20Regia%20marina.%20023U3174.md);
 
 Sentito i1 Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nastro Ministro per la marina, di concerto col Ministro per l
 
 ## Art. 1.
 
-Agli ufficiali dello Stato Maggiore generale della Regia marina. (ufficiali di vascello e macchinisti), che per l'[art. 10 del R. decreto 21 ottobre 1923, n. 2557](Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md), prendano parte con esito favorevole a concorsi a cattedre di materie professionali nei Regi istituti nautici, e' computato, agli effetti della nomina a professore ordinario, il periodo d'insegnamento che essi eventualmente dovessero compiere come supplenti, a decorrere dal 10 ottobre successivo all'approvazione ministeriale della graduatoria dei vincitori del concorso.
+Agli ufficiali dello Stato Maggiore generale della Regia marina. (ufficiali di vascello e macchinisti), che per l'[art. 10 del R. decreto 21 ottobre 1923, n. 2557](../Regi%20decreti/Nuovo%20ordinamento%20dei%20Regi%20istituti%20nautici.%20023U2557.md), prendano parte con esito favorevole a concorsi a cattedre di materie professionali nei Regi istituti nautici, e' computato, agli effetti della nomina a professore ordinario, il periodo d'insegnamento che essi eventualmente dovessero compiere come supplenti, a decorrere dal 10 ottobre successivo all'approvazione ministeriale della graduatoria dei vincitori del concorso.
 
 ## Art. 2.
 

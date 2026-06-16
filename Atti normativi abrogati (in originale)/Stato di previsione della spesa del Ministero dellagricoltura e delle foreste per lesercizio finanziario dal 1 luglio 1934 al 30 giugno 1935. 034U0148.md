@@ -23,13 +23,13 @@ L'assegnazione straordinaria per le spese di funzionamento delle commissioni pro
 
 ## Art. 4.
 
-L'assegnazione straordinaria, per incoraggiare pubblicazioni ai fini della propaganda tecnica e segnatamente frumentaria, disposta dall'[art. 2 del R. decreto 3 gennaio 1926, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;30#art_2), e dal [R. decreto 12 agosto 1927, n. 1719](Integrazione%20delle%20disposizioni%20dellart.%202%20del%20R.%20decreto-legge%203%20gennaio%201926%20n.%2030%20relativo%20ad%20incoraggiamenti%20per%20pubblicazioni%20di%20propaganda%20agraria%20e%20specialmente%20granaria.%20027U1719.md), e' aumentata di L. 75.000.
+L'assegnazione straordinaria, per incoraggiare pubblicazioni ai fini della propaganda tecnica e segnatamente frumentaria, disposta dall'[art. 2 del R. decreto 3 gennaio 1926, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;30#art_2), e dal [R. decreto 12 agosto 1927, n. 1719](../Regi%20decreti/Integrazione%20delle%20disposizioni%20dellart.%202%20del%20R.%20decreto-legge%203%20gennaio%201926%20n.%2030%20relativo%20ad%20incoraggiamenti%20per%20pubblicazioni%20di%20propaganda%20agraria%20e%20specialmente%20granaria.%20027U1719.md), e' aumentata di L. 75.000.
 
 ## Art. 5.
 
 L'assegnazione straordinaria di complessive L. 22.000.000 autorizzata dalla [legge 9 giugno 1927, n. 1125, dall'art. 5](Autorizzazione%20di%20spesa%20straordinaria%20per%20lesecuzione%20di%20lavori%20di%20sistemazione%20idraulico-forestale%20dei%20bacini%20montani.%20027U1125.md) della [legge 17 marzo 1932, n. 290, e dall'art. 4](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste%20per%20lesercizio%20finanziario%20dal%201%20luglio%201932%20al%2030%20giugno%201933.%20032U0290.md) della legge 3 aprile 1933, 354, per la sistemazione idraulico-forestale dei bacini montani, e' aumentata di L. 3.500.000. 
  
- L'assegnazione stabilita per l'esercizio 1934-35, ai sensi del [n. 2 dell'art. 121 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_121-num2), per le opere di bonifica di competenza statale a pagamento differito, e' ridotta di L. 1.500.000.
+ L'assegnazione stabilita per l'esercizio 1934-35, ai sensi del [n. 2 dell'art. 121 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), per le opere di bonifica di competenza statale a pagamento differito, e' ridotta di L. 1.500.000.
 
 ## Art. 6.
 

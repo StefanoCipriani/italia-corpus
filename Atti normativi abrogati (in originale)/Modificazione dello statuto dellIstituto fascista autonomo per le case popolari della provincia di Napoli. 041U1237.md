@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, n. 1165; 
+ Visto il [testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con R. decreto 28 aprile 1938-XVI, n. 1165; 
  
  Visto il R. decreto 17 luglio 1908, col quale l'Istituto per le case popolari di Napoli fu riconosciuto come corpo morale; 
  

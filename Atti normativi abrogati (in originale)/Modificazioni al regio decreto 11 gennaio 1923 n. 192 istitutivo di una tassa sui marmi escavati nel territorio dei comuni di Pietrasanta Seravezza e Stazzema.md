@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-L'[art. 1 del regio decreto 11 gennaio 1923, n. 192](Applicazione%20di%20tassa.%20023U0192.md), e' sostituito dal seguente:
+L'[art. 1 del regio decreto 11 gennaio 1923, n. 192](../Regi%20decreti/Applicazione%20di%20tassa.%20023U0192.md), e' sostituito dal seguente:
  "E' data facolta' ai comuni di Pietrasanta, Seravezza e Stazzema di applicare una tassa sui marmi escavati nel territorio rispettivo fino ai limiti massimi stabiliti dalla seguente tariffa:
  per tonnellata a) marmi greggi in blocchi........................ L. 180
  b) marmi segati in tavole e lastre................ " 144
@@ -29,7 +29,7 @@ L'[art. 1 del regio decreto 11 gennaio 1923, n. 192](Applicazione%20di%20tassa.%
 
 ## Art. 2.
 
-L'[art. 2 del regio decreto 11 gennaio 1923, n. 192](Applicazione%20di%20tassa.%20023U0192.md), e' sostituito dal seguente:
+L'[art. 2 del regio decreto 11 gennaio 1923, n. 192](../Regi%20decreti/Applicazione%20di%20tassa.%20023U0192.md), e' sostituito dal seguente:
  "Le modalita' di accertamento delle produzioni soggette alla tassa di cui al precedente articolo e la esazione della tassa medesima saranno disciplinate con apposito regolamento comunale, da approvarsi dalla Giunta provinciale amministrativa e dal Ministero delle finanze".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

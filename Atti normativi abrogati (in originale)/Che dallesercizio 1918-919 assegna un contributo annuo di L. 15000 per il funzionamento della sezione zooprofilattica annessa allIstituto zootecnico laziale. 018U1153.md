@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto il [R. decreto 3 settembre 1911, n. 1041](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-09-03;1041), che approva lo statuto per l'Istituto zootecnico laziale, in applicazione della [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), e del relativo [regolamento 22 gennaio 1911, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-01-22;248); 
+ Veduto il [R. decreto 3 settembre 1911, n. 1041](../Regi%20decreti/Col%20quale%20e%20costituito%20il%20Consorzio%20fra%20lo%20Stato%20la%20provincia%20e%20il%20comune%20di%20Roma%20per%20la%20fondazione%20e%20il%20funzionamento%20di%20un%20Istituto%20zootecnico%20laziale.%20011U1041.md), che approva lo statuto per l'Istituto zootecnico laziale, in applicazione della [legge 17 luglio 1910, n. 491](Provvedimenti%20per%20estendere%20il%20bonificamento%20e%20la%20colonizzazione%20dellAgro%20romano.%20010U0491.md), e del relativo [regolamento 22 gennaio 1911, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1911-01-22;248); 
  
  Vedute le relazioni della Commissione direttiva sul funzionamento della sezione zooprofilattica istituita in virtu' dell'art. 4 del predetto statuto; 
  

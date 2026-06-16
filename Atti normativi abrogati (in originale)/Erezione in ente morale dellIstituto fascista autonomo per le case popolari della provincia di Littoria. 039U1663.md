@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con decreto 28 aprile 1938-XVI, n. 1165;
+Visto il [testo unico delle disposizioni sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica approvato con decreto 28 aprile 1938-XVI, n. 1165;
 
 Visto lo statuto tipo approvato con R. decreto 25 maggio 1936-XIV, n. 1049;
 

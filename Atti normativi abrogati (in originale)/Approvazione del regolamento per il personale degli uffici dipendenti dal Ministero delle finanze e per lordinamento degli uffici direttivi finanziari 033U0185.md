@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive variazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
 
 Visto il [R. decreto 12 maggio 1930, n. 684](Norme%20per%20lassunzione%20del%20personale%20nei%20ruoli%20dei%20gruppi%20A%20B%20e%20C%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze.%20030U0684.md), col quale vennero approvate le norme per l'assunzione del personale nei ruoli dei gruppi A, B e C degli Uffici dipendenti dal Ministero delle finanze;
 

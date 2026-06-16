@@ -50,7 +50,7 @@ Le promozioni a ciascun grado nel ruolo di gruppo A dei Servizi speciali delle c
 
 ## Art. 3.
 
-Per i concorsi e per le promozioni nei ruoli dei Servizi speciali delle corporazioni, per tutto quanto non e' espressamente stabilito dagli articoli 1 e 2 delle presenti norme, valgono, in quanto applicabili, le disposizioni dei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili.
+Per i concorsi e per le promozioni nei ruoli dei Servizi speciali delle corporazioni, per tutto quanto non e' espressamente stabilito dagli articoli 1 e 2 delle presenti norme, valgono, in quanto applicabili, le disposizioni dei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili.
 
 ## Art. 4.
 

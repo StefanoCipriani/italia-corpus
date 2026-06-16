@@ -44,7 +44,7 @@ Alla riparazione delle somme autorizzate per le opere stradali nelle provincie c
 
 ## Art. 6.
 
-La ripartizione dei fondi per le opere stradali nelle provincie calabresi, stabilita con il [R. decreto 24 giugno 1920, n. 1051](Concernente%20la%20ripartizione%20tra%20le%20Provincie%20calabresi%20dei%20fondi%20assegnati%20per%20la%20esecuzione%20di%20opere%20stradali%20in%20quelle%20regioni.%20020U1051.md), e modificata parzialmente con il [R. decreto 16 marzo 1922, n. 415](Che%20modifica%20i%20riparti%20dei%20fondi%20autorizzati%20dagli%20art.%202%20e%203%20del%20R.%20decreto%2024%20giugno%201920%20n.%201051%20per%20la%20esecuzione%20di%20lavori%20stradali%20nelle%20provincie%20calabresi.%20022U0415.md), e' cosi' variata: 
+La ripartizione dei fondi per le opere stradali nelle provincie calabresi, stabilita con il [R. decreto 24 giugno 1920, n. 1051](../Regi%20decreti/Concernente%20la%20ripartizione%20tra%20le%20Provincie%20calabresi%20dei%20fondi%20assegnati%20per%20la%20esecuzione%20di%20opere%20stradali%20in%20quelle%20regioni.%20020U1051.md), e modificata parzialmente con il [R. decreto 16 marzo 1922, n. 415](../Regi%20decreti/Che%20modifica%20i%20riparti%20dei%20fondi%20autorizzati%20dagli%20art.%202%20e%203%20del%20R.%20decreto%2024%20giugno%201920%20n.%201051%20per%20la%20esecuzione%20di%20lavori%20stradali%20nelle%20provincie%20calabresi.%20022U0415.md), e' cosi' variata: 
  
  a) strade comunali obbligatorie gia' iniziate, da ultimare e sistemare nella provincia di Reggio Calabria e manutenzione delle strade stesse a termini dell'[articolo 32 della legge 25 giugno 1906, numero 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), lire + 10.000.000; 
  

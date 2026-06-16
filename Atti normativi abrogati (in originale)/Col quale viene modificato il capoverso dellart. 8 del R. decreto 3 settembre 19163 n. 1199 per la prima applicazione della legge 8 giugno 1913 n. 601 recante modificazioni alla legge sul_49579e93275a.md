@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-Il capoverso dell'[art. 8 del R. decreto 3 settembre 1913, n. 1199](Concernente%20la%20prima%20applicazione%20della%20legge%208%20giugno%201913%20n.%20601%20recante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U1199.md), per la prima applicazione della [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e' modificato come segue: 
+Il capoverso dell'[art. 8 del R. decreto 3 settembre 1913, n. 1199](../Regi%20decreti/Concernente%20la%20prima%20applicazione%20della%20legge%208%20giugno%201913%20n.%20601%20recante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U1199.md), per la prima applicazione della [legge 8 giugno 1913, n. 601](Portante%20modificazioni%20alla%20legge%20sullavanzamento%20nel%20R.%20esercito.%20013U0601.md), e' modificato come segue: 
  
  «Uguale concessione e' fatta agli ufficiali che ultimarono o ultimeranno con successo il corso di esperimento di cui al R. decreto 24 settembre 428, avendolo iniziato prima dell'entrata in vigore della [legge 8 giugno 1913, n. 601 (13 luglio 1913](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-13;601))». 
  

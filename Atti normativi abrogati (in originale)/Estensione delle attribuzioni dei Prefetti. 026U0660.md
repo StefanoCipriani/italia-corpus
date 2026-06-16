@@ -35,7 +35,7 @@ Ai fini dell'articolo precedente, il Prefetto convoca in riunione collegiale - d
 
 ## Art. 3.
 
-Egualmente, ai fini dell'art. 1, e salvo sempre le eccezioni in detto articolo contemplate, il Prefetto invigila - entro la circoscrizione della Provincia - su tutto il personale delle varie Amministrazioni statali, fermo restando il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), circa lo stato giuridico degli impiegati dello Stato. 
+Egualmente, ai fini dell'art. 1, e salvo sempre le eccezioni in detto articolo contemplate, il Prefetto invigila - entro la circoscrizione della Provincia - su tutto il personale delle varie Amministrazioni statali, fermo restando il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), circa lo stato giuridico degli impiegati dello Stato. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti, del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

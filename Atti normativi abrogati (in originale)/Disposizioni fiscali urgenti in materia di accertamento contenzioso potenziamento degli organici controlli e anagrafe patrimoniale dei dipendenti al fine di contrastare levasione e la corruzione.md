@@ -196,7 +196,7 @@ I soggetti di cui al comma 1, con dichiarazione scritta, comunicano al SIS i dat
 
 3.
 
-Con il decreto di cui all'articolo 9 sono stabilite le modalita' di attuazione delle disposizioni di cui al comma 2, la cui mancata osservanza costituisce grave contrasto con i doveri di fedelta' dell'impiegato ai sensi dell'articolo 84, comma 1, lettera b), del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Con il decreto di cui all'articolo 9 sono stabilite le modalita' di attuazione delle disposizioni di cui al comma 2, la cui mancata osservanza costituisce grave contrasto con i doveri di fedelta' dell'impiegato ai sensi dell'articolo 84, comma 1, lettera b), del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 4.
 

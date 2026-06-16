@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 10 settembre 1923, n. 2068](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e successive modificazioni;
+Visto il [R. decreto 10 settembre 1923, n. 2068](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -26,11 +26,11 @@ La disposizione transitoria di cui all'[art. 13 del R. decreto-legge 10 settembr
 
 ## Art. 2.
 
-Il servizio prestato anche anteriormente alla pubblicazione del presente decreto, dagli ufficiali del corpo delle Capitanerie di porto presso i Consorzi, Enti od altre speciali istituzioni portuali, in qualita' di capi di ufficio e con attribuzioni inerenti all'esercizio e alla polizia dei porti, e' valido per l'avanzamento, agli effetti di cui all'[art. 11 del Regio decreto n. 2068 del 10 settembre 1923](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md).
+Il servizio prestato anche anteriormente alla pubblicazione del presente decreto, dagli ufficiali del corpo delle Capitanerie di porto presso i Consorzi, Enti od altre speciali istituzioni portuali, in qualita' di capi di ufficio e con attribuzioni inerenti all'esercizio e alla polizia dei porti, e' valido per l'avanzamento, agli effetti di cui all'[art. 11 del Regio decreto n. 2068 del 10 settembre 1923](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md).
 
 ## Art. 3.
 
-All'ultimo comma dell'[art. 11 del R. decreto n. 2068 del 10 settembre 1923](Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), dopo la parola «Marina» sono aggiunte le parole «militare e mercantile».
+All'ultimo comma dell'[art. 11 del R. decreto n. 2068 del 10 settembre 1923](../Regi%20decreti/Modificazioni%20e%20aggiunte%20allordinamento%20dei%20corpi%20militari%20della%20R.%20marina.%20023U2068.md), dopo la parola «Marina» sono aggiunte le parole «militare e mercantile».
 
 ## Art. 4.
 

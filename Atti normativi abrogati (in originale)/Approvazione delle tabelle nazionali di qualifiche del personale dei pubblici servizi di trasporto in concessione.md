@@ -37,7 +37,7 @@ C) SERVIZI DI NAVIGAZIONE INTERNA:
  1) Aziende tipo A, aventi piu' di 800 agenti;
  2) Aziende tipo B, aventi da 46 a non piu' di 800 agenti;
  3) Aziende tipo C, aventi non piu' di 45 agenti.
- Alla distinzione delle Aziende, nei tipi di cui al precedente comma, si provvede previa applicazione, per tutto il complesso aziendale, del disposto dell'art. 8, penultimo comma, del [regio decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148).
+ Alla distinzione delle Aziende, nei tipi di cui al precedente comma, si provvede previa applicazione, per tutto il complesso aziendale, del disposto dell'art. 8, penultimo comma, del [regio decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md).
 
 ## Art. 3.
 
@@ -71,11 +71,11 @@ Per l'adozione di qualifiche delle tabelle nazionali non previste in quelle azie
 ## Art. 7.
 
 Entro trenta giorni dalla data in cui, in applicazione delle disposizioni di cui agli articoli precedenti, risulti definita la propria tabella aziendale ed effettuato l'inquadramento nella tabella stessa dei suoi dipendenti, dell'una e dell'altro ciascuna Azienda dovra' dare comunicazione al personale mediante ordine di servizio da affiggersi negli albi degli uffici, degli impianti e dei depositi.
- Resta salva la facolta' degli interessati di adire l'autorita' giudiziaria ai sensi dell'[art. 10 del regio decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148#art_10).
+ Resta salva la facolta' degli interessati di adire l'autorita' giudiziaria ai sensi dell'[art. 10 del regio decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md).
 
 ## Art. 8.
 
-Con decreto del Presidente della Repubblica, sentito il Consiglio dei Ministri, sara' provveduto, entro due anni dall'entrata in vigore della presente legge, all'approvazione delle tabelle nazionali delle qualifiche del personale dei servizi di navigazione interna lagunare e degli altri pubblici servizi di trasporto in concessione al cui personale siano rese applicabili le norme del [regio decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148).
+Con decreto del Presidente della Repubblica, sentito il Consiglio dei Ministri, sara' provveduto, entro due anni dall'entrata in vigore della presente legge, all'approvazione delle tabelle nazionali delle qualifiche del personale dei servizi di navigazione interna lagunare e degli altri pubblici servizi di trasporto in concessione al cui personale siano rese applicabili le norme del [regio decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md).
  Valgono per tali tabelle le disposizioni emanate con la presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

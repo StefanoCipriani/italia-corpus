@@ -275,7 +275,7 @@ Limitatamente alle aree del territorio nazionale, caratterizzate da uno scenario
 
 2.
 
-Per i periodi di congedo fruiti ai sensi del comma 1 e' riconosciuta, in luogo della retribuzione, un'indennita' pari al 50 per cento della retribuzione stessa, calcolata secondo quanto previsto dall'articolo 23 del Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', di cui al [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), ad eccezione del comma 2 del medesimo articolo 23. I suddetti periodi sono coperti da contribuzione figurativa.
+Per i periodi di congedo fruiti ai sensi del comma 1 e' riconosciuta, in luogo della retribuzione, un'indennita' pari al 50 per cento della retribuzione stessa, calcolata secondo quanto previsto dall'articolo 23 del Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', di cui al [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), ad eccezione del comma 2 del medesimo articolo 23. I suddetti periodi sono coperti da contribuzione figurativa.
 
 3.
 

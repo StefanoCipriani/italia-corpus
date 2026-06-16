@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604); 
+ Visto il testo unico delle leggi sulla pesca approvato con [R. decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md); 
  
  Visto il [R. decreto 22 dicembre 1932, n. 1802](Erezione%20in%20ente%20morale%20del%20Comitato%20nazionale%20per%20gli%20studi%20e%20la%20propaganda%20peschereccia%20ed%20approvazione%20del%20relativo%20statuto.%20032U1802.md), concernente l'erezione in ente morale del Comitato nazionale per gli studi e la propaganda peschereccia; 
  

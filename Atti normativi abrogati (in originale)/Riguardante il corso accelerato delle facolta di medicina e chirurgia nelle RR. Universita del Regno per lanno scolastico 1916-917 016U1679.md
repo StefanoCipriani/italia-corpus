@@ -12,7 +12,7 @@ vigente: true
 
 Per l'anno scolastico 1916-917 i corsi delle lezioni per il 3°, 4°, 5° e 6° anno delle Facolta' di medicina e chirurgia nelle Universita' del Regno, ai quali parteciperanno i militari studenti del 3° e 4° anno delle predette Facolta', che prestino servizio in zona territoriale, si svolgera' dal 4 dicembre 1916 al 1° aprile 1917. 
  
- In relazione a questo abbreviamento del corso sono abolite, soltanto rispetto ad esso, le vacanze di cui ai commi 2 e 3 del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md).
+ In relazione a questo abbreviamento del corso sono abolite, soltanto rispetto ad esso, le vacanze di cui ai commi 2 e 3 del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md).
 
 ## Art. 2.
 
@@ -22,7 +22,7 @@ Il l° aprile 1917 si iniziera' por i corsi del 3°, 4°, 5° e 6° anno delle F
 
 ## Art. 3.
 
-Per la sessione di esami predetta e' consentito di derogare circa l'ordine e la successione degli esami speciali alle disposizioni dell'art. 9 del regolamento speciale di Facolta' approvato con [R. decreto 9 agosto 1910, n.796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), e modificato con [R. decreto 10 novembre 1913, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-10;1437).
+Per la sessione di esami predetta e' consentito di derogare circa l'ordine e la successione degli esami speciali alle disposizioni dell'art. 9 del regolamento speciale di Facolta' approvato con [R. decreto 9 agosto 1910, n.796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), e modificato con [R. decreto 10 novembre 1913, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-11-10;1437).
 
 ## Art. 4.
 

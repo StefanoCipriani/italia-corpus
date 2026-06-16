@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 23 ottobre 1925, n. 1917](https://www.normattiva.i
 
 Visto il [regio decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), convertito nella [legge 17 marzo 1928, n. 1350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-17;1350);
 
-Visto il [regio decreto 3 agosto 1928, n. 2295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;2295);
+Visto il [regio decreto 3 agosto 1928, n. 2295](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20alle%20norme%20regolamentari%20sul%20servizio%20di%20radioaudizione%20circolare%20approvate%20coi%20Regi%20decreti%2010%20luglio%201924%20n.%201226%20e%2013%20agosto%201926%20n.%201559.%20028U2295.md);
 
 Visto il [regio decreto-legge 17 aprile 1931, n. 589](Disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radiodiffusione.%20031U0589.md), convertito nella [legge 21 dicembre 1931, n. 1823](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20-%20legge%2017%20aprile%201931%20n.%20589%20recante%20disposizioni%20aggiuntive%20alle%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20della%20radio-diffusione.%20031U1823.md);
 

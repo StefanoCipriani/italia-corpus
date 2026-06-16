@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189), che stabilisce il nuovo ordinamento dei servizi dipartimentali della Regia marina; 
+ Visto il [R. decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), che stabilisce il nuovo ordinamento dei servizi dipartimentali della Regia marina; 
  
  Visto il [decreto Luogotenenziale in data 13 settembre 1917, n. 1574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-13;1574), col quale era istituita una Sottodirezione del munizionamento presso ciascuna delle Direzioni di artiglieria ed armamenti di Taranto e Venezia; 
  

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 4 ottobre 1935, n. 1899](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md);
+Visto il [regio decreto 4 ottobre 1935, n. 1899](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20delle%20Corti%20di%20assise.%20035U1899.md);
 
 Visto il [decreto legislativo luogotenenziale 12 ottobre 1945, n. 715](../Decreti%20legislativi%20luogotenenziali/Aumento%20dellindennita%20giornaliera%20dovuta%20ai%20giudici%20popolari.%20045U0715.md);
 

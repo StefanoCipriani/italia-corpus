@@ -52,7 +52,7 @@ Rimangono ferme le disposizioni ora in vigore laddove la conservazione dei catas
 
 ## Art. 9.
 
-E' data facolta' al Governo del Re di raccogliere e pubblicare in testo unico le disposizioni di cui ai precedenti articoli, quelle rimaste in vigore delle [leggi 11 agosto 1870 n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), alleg. G, 3 maggio 1871 n. 202 e 30 giugno 1872 n. 878, nonche' quelle di carattere legislativo contenute nel regolamento approvato con [R. decreto 24 dicembre 1870 n. 6151](Che%20approva%20il%20Regolamento%20per%20la%20conservazione%20dei%20catasti%20dei%20terreni%20e%20dei%20fabbricati%20070U6151.md). Il Governo provvedera' pure con decreto Reale alla pubblicazione di un unico regolamento per l'esecuzione delle anzidette leggi e delle disposizioni di cui ai precedenti articoli, fissando anche la data in cui queste dovranno entrare in vigore.
+E' data facolta' al Governo del Re di raccogliere e pubblicare in testo unico le disposizioni di cui ai precedenti articoli, quelle rimaste in vigore delle [leggi 11 agosto 1870 n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), alleg. G, 3 maggio 1871 n. 202 e 30 giugno 1872 n. 878, nonche' quelle di carattere legislativo contenute nel regolamento approvato con [R. decreto 24 dicembre 1870 n. 6151](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20conservazione%20dei%20catasti%20dei%20terreni%20e%20dei%20fabbricati%20070U6151.md). Il Governo provvedera' pure con decreto Reale alla pubblicazione di un unico regolamento per l'esecuzione delle anzidette leggi e delle disposizioni di cui ai precedenti articoli, fissando anche la data in cui queste dovranno entrare in vigore.
 
 ## Art. 10.
 

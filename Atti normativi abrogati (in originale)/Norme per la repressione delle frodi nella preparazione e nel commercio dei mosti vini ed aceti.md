@@ -800,7 +800,7 @@ Il giudice, nel pronunciare la condanna per le infrazioni alle disposizioni del 
 
 ### Art. 109.
 
-Per la confisca si applicano le norme dell'[art. 240 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Per la confisca si applicano le norme dell'[art. 240 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 
@@ -850,7 +850,7 @@ Per quanto non e' espressamente previsto dal presente decreto, si applicano le d
 
 ### Art. 118.
 
-Restano ferme le disposizioni del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni e integrazioni nonche' le disposizioni dei relativi regolamenti in quanto non contrastanti con le norme del presente decreto.
+Restano ferme le disposizioni del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni e integrazioni nonche' le disposizioni dei relativi regolamenti in quanto non contrastanti con le norme del presente decreto.
  Al commercio dei prodotti disciplinati dal presente decreto non si applicano le norme relative alle indicazioni da apporre sui contenitori previste dalla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283) e successive modificazioni.
 
 ### Art. 119.

@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 27 novembre 1910, n. 871](Che%20istituisce%20la%20Commissione%20permanente%20per%20la%20illuminazione%20e%20il%20segnalamento%20delle%20coste.%20010U0871.md), che istituisce la Commissione permanente per l'illuminazione ed il segnalamento delle coste, ed il [regio decreto 9 novembre 1939, n. 2066](Composizione%20della%20Commissione%20permanente%20per%20lilluminazione%20ed%20il%20segnalamento%20delle%20coste.%20039U2066.md), che lo modifica nella parte riguardante la composizione della Commissione stessa;
+Visto il [regio decreto 27 novembre 1910, n. 871](../Regi%20decreti/Che%20istituisce%20la%20Commissione%20permanente%20per%20la%20illuminazione%20e%20il%20segnalamento%20delle%20coste.%20010U0871.md), che istituisce la Commissione permanente per l'illuminazione ed il segnalamento delle coste, ed il [regio decreto 9 novembre 1939, n. 2066](../Regi%20decreti/Composizione%20della%20Commissione%20permanente%20per%20lilluminazione%20ed%20il%20segnalamento%20delle%20coste.%20039U2066.md), che lo modifica nella parte riguardante la composizione della Commissione stessa;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), e successive modificazioni;
 
@@ -44,7 +44,7 @@ La composizione della Commissione permanente per l'illuminazione ed il segnalame
 
 ## Art. 2.
 
-E' abrogato il [regio decreto 9 novembre 1939, n. 2066](Composizione%20della%20Commissione%20permanente%20per%20lilluminazione%20ed%20il%20segnalamento%20delle%20coste.%20039U2066.md).
+E' abrogato il [regio decreto 9 novembre 1939, n. 2066](../Regi%20decreti/Composizione%20della%20Commissione%20permanente%20per%20lilluminazione%20ed%20il%20segnalamento%20delle%20coste.%20039U2066.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

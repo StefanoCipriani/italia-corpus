@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e successive modificazioni;
+Visto il testo unico delle leggi postali approvato con [R. decreto 24 dicembre 1899, n. 501](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20servizio%20postale.%20099U0501.md), e successive modificazioni;
 
-Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e successive moditicazioni;
+Visto il regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), e successive moditicazioni;
 
 Visto il [R. decreto-legge 1° maggio 1924, n. 768](Tariffe%20postali%20per%20la%20spedizione%20del%20materiale%20propagandistico.%20024U0768.md), convertito nella [legge 10 dicembre 1925, n. 2211](Conversione%20in%20legge%20del%20R.%20decreto%201%20maggio%201924%20n.%20768%20che%20stabilisce%20nuove%20tariffe%20per%20la%20spedizione%20del%20materiale%20di%20propaganda.%20025U2211.md);
 

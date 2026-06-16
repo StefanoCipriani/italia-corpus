@@ -36,7 +36,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Articolo unico.
 
-La Societa' anonima «La Ferroviaria Italiana» di Milano e' autorizzata ad applicare sulla ferrovia Arezzo-Sinalunga il regime economico di esercizio, a norma degli articoli 141 e seguenti del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata approvato con [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), ai trasporti dei viaggiatori, bagagli e merci a G. V. ed a ridurre, nella misura del 3 per cento l'imposta erariale sui prodotti dei detti trasporti che verranno effettuati sulla ferrovia In questione. 
+La Societa' anonima «La Ferroviaria Italiana» di Milano e' autorizzata ad applicare sulla ferrovia Arezzo-Sinalunga il regime economico di esercizio, a norma degli articoli 141 e seguenti del testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata approvato con [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), ai trasporti dei viaggiatori, bagagli e merci a G. V. ed a ridurre, nella misura del 3 per cento l'imposta erariale sui prodotti dei detti trasporti che verranno effettuati sulla ferrovia In questione. 
  
  L'applicazione dell'esercizio economico in base alle anzidette norme avra' decorrenza dal 1° marzo 1936-XIV. 
  

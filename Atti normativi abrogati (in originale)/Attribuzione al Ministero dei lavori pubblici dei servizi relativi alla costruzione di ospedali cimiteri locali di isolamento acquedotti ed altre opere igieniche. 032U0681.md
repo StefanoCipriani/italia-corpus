@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 18 maggio 1931, n. 544](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-18;544), relativo al concentramento nel Ministero dei lavori pubblici dei servizi relativi alla esecuzione di opere pubbliche;
+Veduto il [R. decreto 18 maggio 1931, n. 544](../Regi%20decreti/Concentramento%20nel%20Ministero%20dei%20lavori%20pubblici%20di%20servizi%20relativi%20alla%20esecuzione%20di%20lavori%20pubblici%20per%20conto%20dello%20Stato.%20031U0544.md), relativo al concentramento nel Ministero dei lavori pubblici dei servizi relativi alla esecuzione di opere pubbliche;
 
 Veduto l'[art. 4 della legge 24 dicembre 1925, n. 2263](Attribuzioni%20e%20prerogative%20del%20Capo%20del%20Governo%20Primo%20Ministro%20Segretario%20di%20Stato.%20025U2263.md);
 

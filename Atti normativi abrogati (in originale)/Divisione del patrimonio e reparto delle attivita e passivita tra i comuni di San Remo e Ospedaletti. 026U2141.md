@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno; 
  
- Veduti i [Regi decreti 6 dicembre 1923, n. 2769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2769), e [7 agosto 1925, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-07;1533), portanti modificazioni alle circoscrizioni comunali della provincia di Imperia; 
+ Veduti i [Regi decreti 6 dicembre 1923, n. 2769](../Regi%20decreti/Modificazioni%20alla%20circoscrizione%20di%20trenta%20comuni%20della%20provincia%20di%20Imperia.%20023U2769.md), e [7 agosto 1925, n. 1533](../Regi%20decreti/Modificazione%20ai%20Regi%20decreti%2021%20ottobre%201923%20n.%202360%20e%206%20dicembre%201923%20n.%202769%20riguardanti%20le%20circoscrizioni%20comunali%20della%20provincia%20di%20Imperia.%20025U1533.md), portanti modificazioni alle circoscrizioni comunali della provincia di Imperia; 
  
  Veduti i verbali in data 16 aprile, 20 maggio, 31 luglio, 6 e 11 agosto 1924 degli accordi conclusi fra i rappresentanti le Amministrazioni comunali di San Remo ed Ospedaletti, con l'intervento di rappresentanti delle frazioni Coldirodi ed Ospedaletti, per la divisione del patrimonio ed il reparto delle attivita' e passivita' del comune di Coldirodi; 
  

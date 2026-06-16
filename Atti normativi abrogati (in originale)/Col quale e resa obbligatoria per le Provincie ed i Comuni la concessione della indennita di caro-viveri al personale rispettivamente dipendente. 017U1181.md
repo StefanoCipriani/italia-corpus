@@ -32,7 +32,7 @@ Agli scopi pei quali le Provincie e i Comuni possono contrarre mutui, e' aggiunt
 
 Trascorsi trenta giorni dalla pubblicazione del presente decreto i Comuni, che non avessero ancora provveduto in conformita' a quanto esso dispone, saranno ritenuti inadempienti agli effetti dell'art. 220 della legge comunale e provinciale citata. 
  
- La Giunta provinciale amministrativa, in conseguenza, provvedera' d'ufficio alle necessarie variazioni nei bilanci dei Comuni predetti e, qualora occorra, potra' deliberare in sostituzione del Consiglio comunale, la contrattazione di un mutuo per la somma strettamente necessaria al pagamento della indennita'. Alla emissione dei relativi mandati si potra' procedere, nonostante gravame, in deroga al disposto dell'art. 128 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297).
+ La Giunta provinciale amministrativa, in conseguenza, provvedera' d'ufficio alle necessarie variazioni nei bilanci dei Comuni predetti e, qualora occorra, potra' deliberare in sostituzione del Consiglio comunale, la contrattazione di un mutuo per la somma strettamente necessaria al pagamento della indennita'. Alla emissione dei relativi mandati si potra' procedere, nonostante gravame, in deroga al disposto dell'art. 128 del regolamento approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md).
 
 ## Art. 4.
 

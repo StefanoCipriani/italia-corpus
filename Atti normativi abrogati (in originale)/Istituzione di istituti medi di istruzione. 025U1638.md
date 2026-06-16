@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), ed il [regolamento 6 giugno 1925, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1925-06-06;1084);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), ed il [regolamento 6 giugno 1925, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1925-06-06;1084);
 
 Riconosciuta la necessita' ed urgenza di provvedere alla creazione, a decorrere dal 1° ottobre 1925, di nuovi Regi istituti medi d'istruzione in alcuni Comuni del Regno e di un convitto nazionale in Sessa Aurunca;
 
@@ -36,7 +36,7 @@ A decorrere dal 1° ottobre 1925 sono istituiti i sottoindicati Regi istituti me
 
 ## Art. 2.
 
-A decorrere dal 1° ottobre 1925 e' istituito in Sessa Aurunca un convitto nazionale maschile da ordinarsi in conformita' del titolo II del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054).
+A decorrere dal 1° ottobre 1925 e' istituito in Sessa Aurunca un convitto nazionale maschile da ordinarsi in conformita' del titolo II del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 3.
 
@@ -44,7 +44,7 @@ L'istituzione di cui all'articolo precedente e' subordinata alla stipulazione di
 
 ## Art. 4.
 
-Entro un mese dalla pubblicazione del presente Regio decreto le Amministrazioni comunali e provinciali interessate alla creazione di nuovi Regi istituti medi d'istruzione faranno pervenire al Ministero della pubblica istruzione le regolari deliberazioni approvate dalle autorita' tutorie con le quali si obblighino al contributo annuo previsto dal [R. decreto 11 marzo 1923, n. 685](Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md), e per gli oneri accessori posti a loro carico dagli [articoli 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_97), [100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_100) e [103 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_103).
+Entro un mese dalla pubblicazione del presente Regio decreto le Amministrazioni comunali e provinciali interessate alla creazione di nuovi Regi istituti medi d'istruzione faranno pervenire al Ministero della pubblica istruzione le regolari deliberazioni approvate dalle autorita' tutorie con le quali si obblighino al contributo annuo previsto dal [R. decreto 11 marzo 1923, n. 685](../Regi%20decreti/Che%20stabilisce%20i%20contributi%20a%20carico%20di%20Provincie%20Comuni%20ed%20altri%20Enti%20per%20il%20mantenimento%20di%20RR.%20scuole%20medie%20e%20normali.%20023U0685.md), e per gli oneri accessori posti a loro carico dagli [articoli 97](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), [100](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [103 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 5.
 

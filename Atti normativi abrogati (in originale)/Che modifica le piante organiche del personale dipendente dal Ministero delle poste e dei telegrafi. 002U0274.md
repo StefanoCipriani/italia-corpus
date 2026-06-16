@@ -54,7 +54,7 @@ Allo stipendio massimo attuale degli ufficiali telegrafici, sono aggiunte due cl
  
  Fermi restando gli aumenti quadriennali di lire 250 fino a raggiungere lo stipendio massimo attuale di lire 2,700, i due aumenti ulteriori di lire 300 ciascuno verranno normalmente accordati alla maturazione di periodi quinquennali. 
  
- In analogia alle qualifiche di cui nel quadro primo della tabella B, annessa al [regio decreto n. 43, del 26 gennaio 1899](Che%20provvede%20al%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20099U0043.md), e' conferito il titolo di capo ufficio agli ufficiali telegrafici che raggiungeranno lo stipendio di lire 2,700.
+ In analogia alle qualifiche di cui nel quadro primo della tabella B, annessa al [regio decreto n. 43, del 26 gennaio 1899](../Regi%20decreti/Che%20provvede%20al%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20099U0043.md), e' conferito il titolo di capo ufficio agli ufficiali telegrafici che raggiungeranno lo stipendio di lire 2,700.
 
 ## Art. 4.
 
@@ -90,7 +90,7 @@ Gli assistenti hanno titolo, mediante esame di concorso, al passaggio in pianta 
 
 ## Art. 9.
 
-Sono modificati l'[art. 8 del regio decreto 26 gennaio 1899, n. 44](Che%20provvede%20al%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20099U0044.md), nonche' l'art. 314 del regolamento organico sovra citato, nel senso che la retribuzione dei vuotacassette, dei portapieghi e dei portalettere suburbani varia dal minimo lire 700 al massimo di lire 900. Questi agenti fuori ruolo sono inscritti d'ufficio, come sopra, alla cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai.
+Sono modificati l'[art. 8 del regio decreto 26 gennaio 1899, n. 44](../Regi%20decreti/Che%20provvede%20al%20riordinamento%20dellAmministrazione%20delle%20Poste%20e%20dei%20Telegrafi.%20099U0044.md), nonche' l'art. 314 del regolamento organico sovra citato, nel senso che la retribuzione dei vuotacassette, dei portapieghi e dei portalettere suburbani varia dal minimo lire 700 al massimo di lire 900. Questi agenti fuori ruolo sono inscritti d'ufficio, come sopra, alla cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai.
 
 ## Art. 10.
 

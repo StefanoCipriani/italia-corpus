@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 153](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md) e [240 del R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
+Visti gli [articoli 153](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md) e [240 del R. decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
 
 Poiche' e' opportuno prorogare a tutto il 1926 il termine stabilito per la prima revisione ed eventuale modificazione delle tabelle organiche degli uscieri ed ufficiali giudiziari, per coordinare la revisione stessa con l'attuazione delle norme sull'unificazione degli uffici di pretura;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la gius
 
 ## Art. 1.
 
-Il termine del 31 dicembre 1925 stabilito dagli [articoli 153](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md) e [240 del R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e' prorogato al 31 dicembre 1926.
+Il termine del 31 dicembre 1925 stabilito dagli [articoli 153](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md) e [240 del R. decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), e' prorogato al 31 dicembre 1926.
 
 ## Art. 2.
 

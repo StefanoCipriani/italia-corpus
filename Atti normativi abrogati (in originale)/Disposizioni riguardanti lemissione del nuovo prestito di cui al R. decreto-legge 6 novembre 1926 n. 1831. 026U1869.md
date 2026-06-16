@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [R. decreto-legge 6 novembre 1926, n. 1831](Autorizzazione%20dellemissione%20di%20un%20nuovo%20prestito%20nazionale%20in%20difesa%20della%20valuta.%20026U1831.md), col quale fu istituito il nuovo prestito consolidato 5 per cento, per provvedere al consolidamento del debito fruttifero, a breve termine, dello Stato;
 
-Veduto l'[art. 43 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_43), sulla contabilita' di Stato;
+Veduto l'[art. 43 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' di Stato;
 
 Ritenuta l'urgente necessita' di provvedere all'autorizzazione per le necessarie variazioni al bilancio dell'entrata e della spesa del Ministero delle finanze, in dipendenza della creazione di siffatto prestito;
 

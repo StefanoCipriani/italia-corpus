@@ -20,12 +20,12 @@ Presso ciascun Consorzio provinciale antitubercolare e' istituito un ruolo organ
 
 ## Art. 2.
 
-Il [primo comma dell'articolo 278 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_278-com1), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e' sostituito dal seguente:
+Il [primo comma dell'articolo 278 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e' sostituito dal seguente:
  "Il personale del Consorzio e' nominato in ruolo a seguito di pubblico concorso indetto dall'amministrazione del Consorzio".
 
 ## Art. 3.
 
-Il [terzo comma dell'articolo 278 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_278-com3), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e' sostituito dal seguente:
+Il [terzo comma dell'articolo 278 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e' sostituito dal seguente:
  "La nomina in ruolo e' fatta nella persona del vincitore del concorso".
 
 ## Art. 4.

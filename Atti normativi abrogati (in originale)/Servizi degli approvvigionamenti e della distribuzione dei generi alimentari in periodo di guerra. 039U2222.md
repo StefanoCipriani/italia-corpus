@@ -207,7 +207,7 @@ Salvo le sanzioni penali che potranno essere stabilite in tema di requisizioni i
  
  Se la violazione presenta carattere di particolare gravita', la pena dell'arresto e quella dell'ammenda possono essere applicate congiuntamente. 
  
- I Consorzi e gli organismi economici menzionati negli articoli 4 e 5 sono obbligati, giusta il disposto dell'[art. 197 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al pagamento dell'ammenda inflitta al proprio rappresentante, funzionario o impiegato.
+ I Consorzi e gli organismi economici menzionati negli articoli 4 e 5 sono obbligati, giusta il disposto dell'[art. 197 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al pagamento dell'ammenda inflitta al proprio rappresentante, funzionario o impiegato.
 
 ## Art. 13.
 
@@ -219,7 +219,7 @@ Chiunque per sottrarre, in tutto o in parte, alla precettazione o alla requisizi
 
 ## Art. 14.
 
-Chiunque sottrae, occulta, sostituisce, disperde, distrugge o altrimenti rende inservibili o deteriora i generi alimentari oggetto dell'incetta o della requisizione ed affidati alla sua custodia, e' punito secondo le disposizioni dell'[art. 334 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Chiunque sottrae, occulta, sostituisce, disperde, distrugge o altrimenti rende inservibili o deteriora i generi alimentari oggetto dell'incetta o della requisizione ed affidati alla sua custodia, e' punito secondo le disposizioni dell'[art. 334 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Se il fatto e' avvenuto o e' stato agevolato per colpa, si applica la reclusione fino a sei mesi e la multa fino a lire tremila.
 

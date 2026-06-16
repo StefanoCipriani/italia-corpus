@@ -184,7 +184,7 @@ Quando sia riconosciuto opportuno l'impianto di una stazione ad uso di una o piu
 
 ### Art. 19.
 
-Gli ufficiali ed agenti della forza pubblica, incaricati della prevenzione e dell'accertamento delle contravvenzioni sulla circolazione stradale a termini dell'[art. 122 del R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), sono anche incaricati della prevenzione e dell'accertamento di quelle di cui alla presente legge. 
+Gli ufficiali ed agenti della forza pubblica, incaricati della prevenzione e dell'accertamento delle contravvenzioni sulla circolazione stradale a termini dell'[art. 122 del R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), sono anche incaricati della prevenzione e dell'accertamento di quelle di cui alla presente legge. 
  
  Tra gli ufficiali ed agenti medesimi sono altresi' da comprendere gli ufficiali, sottufficiali e militi delle Milizie speciali ferroviaria, portuale e postale.
 

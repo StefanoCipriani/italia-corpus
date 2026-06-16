@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 settembre 1882, n. 1012](Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md) (serie 3ª), col quale sono coordinate in testo unico le [leggi 18 maggio 1882, n. 756](Che%20modifica%20la%20legge%2010%20agosto%201875%20sui%20diritti%20di%20autore.%20082U0756.md) (serie 3ª); 10 agosto 1875, n. 2652, e 25 giugno 1865, n. 2337, sul diritto di autore;
+Visto il [R. decreto 19 settembre 1882, n. 1012](../Regi%20decreti/Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md) (serie 3ª), col quale sono coordinate in testo unico le [leggi 18 maggio 1882, n. 756](Che%20modifica%20la%20legge%2010%20agosto%201875%20sui%20diritti%20di%20autore.%20082U0756.md) (serie 3ª); 10 agosto 1875, n. 2652, e 25 giugno 1865, n. 2337, sul diritto di autore;
 
 Sentito il Consiglio dei Ministri;
 
@@ -422,7 +422,7 @@ Capo V.
 
 ### Art. 61.
 
-Salve le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi e' punito con la multa da L. 500 a 10.000: 
+Salve le maggiori pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e da altre leggi e' punito con la multa da L. 500 a 10.000: 
  
  a) chiunque abusivamente, con qualsiasi scopo e in qualsiasi forma, riproduce, pubblica o diffonde, con o senza modificazioni, un'opera altrui, e chiunque introduce o mette in vendita nel Regno gli esemplari illecitamente prodotti; 
  
@@ -503,7 +503,7 @@ L'Ufficio della proprieta' intellettuale presso il Ministero dell'economia nazio
 
 ### Art. 73.
 
-Sono abrogate le [leggi 25 giugno 1865, n. 2337; 10 agosto 1875, n. 2652; 18 maggio 1882, n. 756](Che%20modifica%20la%20legge%2010%20agosto%201875%20sui%20diritti%20di%20autore.%20082U0756.md) (serie 3ª), nonche' il [R. decreto 19 settembre 1882, n. 1012](Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md) (serie 3ª) e tutte le altre disposizioni incompatibili con quelle del presente decreto.
+Sono abrogate le [leggi 25 giugno 1865, n. 2337; 10 agosto 1875, n. 2652; 18 maggio 1882, n. 756](Che%20modifica%20la%20legge%2010%20agosto%201875%20sui%20diritti%20di%20autore.%20082U0756.md) (serie 3ª), nonche' il [R. decreto 19 settembre 1882, n. 1012](../Regi%20decreti/Approva%20il%20testo%20unico%20delle%20leggi%20sui%20diritti%20dautore.%20082U1012.md) (serie 3ª) e tutte le altre disposizioni incompatibili con quelle del presente decreto.
 
 ### Art. 74.
 

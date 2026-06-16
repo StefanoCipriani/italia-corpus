@@ -16,7 +16,7 @@ UMBERTO I
  
  RE D'ITALIA 
  
- Visto il [R. decreto 23 ottobre 1884, n. 2736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-10-23;2736), concernente l'ordinamento della Scuola industriale di Vicenza; 
+ Visto il [R. decreto 23 ottobre 1884, n. 2736](../Regi%20decreti/Sulla%20costituzione%20della%20Scuola%20Industriale%20di%20Vicenza.%20084U2736.md), concernente l'ordinamento della Scuola industriale di Vicenza; 
  
  Vista la deliberazione della Giunta di vigilanza della Scuola stessa, in data 16 febbraio 1886; 
  
@@ -24,7 +24,7 @@ UMBERTO I
  
  Abbiamo decretato e decretiamo: 
  
- Il [primo comma dell'art. 3 del Regio decreto 23 ottobre 1884, n. 2736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-10-23;2736#art_3-com1), concernente l'ordinamento della Scuola industriale di Vicenza, e' modificato come segue: 
+ Il [primo comma dell'art. 3 del Regio decreto 23 ottobre 1884, n. 2736](../Regi%20decreti/Sulla%20costituzione%20della%20Scuola%20Industriale%20di%20Vicenza.%20084U2736.md), concernente l'ordinamento della Scuola industriale di Vicenza, e' modificato come segue: 
  
  «L'insegnamento e' diviso in due sezioni, una preparatoria di un anno, l'altra normale di tre anni.» 
  

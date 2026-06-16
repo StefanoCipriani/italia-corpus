@@ -36,7 +36,7 @@ Nota redazionale
 
 ## Art. 3.
 
-Coloro che intendono di ottenere l'assegno di che all'articolo 1 devono attestare ai sindaci dei rispettivi Comuni di residenza, con dichiarazioni giurate, di non godere, in aggiunta alla pensione, di alcuno dei proventi indicati nell'articolo precedente, ovvero di goderne in misura inferiore all'assegno massimo che potrebbe loro spettare, in base all'articolo 1, ai fini dell'assegnazione della differenza di che all'articolo 2. Le false attestazioni sono punite a norma dell'[art. 279 Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Coloro che intendono di ottenere l'assegno di che all'articolo 1 devono attestare ai sindaci dei rispettivi Comuni di residenza, con dichiarazioni giurate, di non godere, in aggiunta alla pensione, di alcuno dei proventi indicati nell'articolo precedente, ovvero di goderne in misura inferiore all'assegno massimo che potrebbe loro spettare, in base all'articolo 1, ai fini dell'assegnazione della differenza di che all'articolo 2. Le false attestazioni sono punite a norma dell'[art. 279 Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 

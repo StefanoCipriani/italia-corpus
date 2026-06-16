@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523);
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md);
 
-Visto il [R. decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
+Visto il [R. decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md);
 
-Visto il [R. decreto 21 maggio 1924, n. 1200](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md);
+Visto il [R. decreto 21 maggio 1924, n. 1200](../Regi%20decreti/Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md);
 
 Visto il [R. decreto-legge 7 gennaio 1926, n. 214](Disposizioni%20concernenti%20lordinamento%20dellistruzione%20artistica.%20026U0214.md), convalidato con la [legge 25 giugno 1926, n. 1262](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U1262.md);
 

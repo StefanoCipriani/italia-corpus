@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 agosto 1928, n. 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1990), col quale i comuni di Musellaro e di Bolognano sono stati riuniti in un solo Comune con denominazione e capoluogo Bolognano; 
+ Visto il [R. decreto 3 agosto 1928, n. 1990](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Musellaro%20e%20di%20Bolognano%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Bolognano.%20028U1990.md), col quale i comuni di Musellaro e di Bolognano sono stati riuniti in un solo Comune con denominazione e capoluogo Bolognano; 
  
  Vista la deliberazione del podesta' di Bolognano, con la quale si chiede che per tutto il territorio del Comune medesimo funzioni un solo ufficio di conciliazione; 
  

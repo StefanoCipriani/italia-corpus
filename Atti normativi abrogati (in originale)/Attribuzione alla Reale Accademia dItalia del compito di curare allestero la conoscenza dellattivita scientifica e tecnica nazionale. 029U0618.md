@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895), concernente l'istituzione e l'erezione in ente morale del Consiglio nazionale delle ricerche e dell'Unione Accademica Nazionale;
+Veduto il [R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), concernente l'istituzione e l'erezione in ente morale del Consiglio nazionale delle ricerche e dell'Unione Accademica Nazionale;
 
 Veduto il [R. decreto-legge 7 gennaio 1926, n. 87](Istituzione%20della%20Reale%20Accademia%20dItalia.%20026U0087.md), convertito nella [legge 25 marzo 1926, n. 496](Conversione%20in%20legge%20del%20R.%20decreto%207%20gennaio%201926%20n.%2087%20concernente%20la%20istituzione%20della%20Reale%20accademia%20dItalia.%20026U0496.md), concernente l'istituzione della Reale Accademia d'Italia;
 

@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- In deroga al disposto dell'[art. 8 del R. decreto 30 dicembre 1923, n. 3166](Gestione%20della%20azienda%20erariale%20delle%20Grotte%20di%20Postumia.%20023U3166.md), l'Amministrazione delle Reali grotte di Postumia e' autorizzata ad erogare in rinvestimenti patrimoniali tutti gli introiti dell'azienda realizzati nell'esercizio finanziario 1924-25. 
+ In deroga al disposto dell'[art. 8 del R. decreto 30 dicembre 1923, n. 3166](../Regi%20decreti/Gestione%20della%20azienda%20erariale%20delle%20Grotte%20di%20Postumia.%20023U3166.md), l'Amministrazione delle Reali grotte di Postumia e' autorizzata ad erogare in rinvestimenti patrimoniali tutti gli introiti dell'azienda realizzati nell'esercizio finanziario 1924-25. 
  
  Questo decreto sara' presentato al Parlamento per la conversione in legge ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

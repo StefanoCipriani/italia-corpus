@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
 Veduta la [legge 2 luglio 1929, n. 1272](Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md), recante provvedimenti per l'istruzione magistrale;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Alla tabella n. 14 (nelle parti indicate con i numeri 1°, 2°, 3° e 8°) annessa al [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e alla tabella B annessa alla [legge 2 luglio 1929, n. 1272](Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md), e' sostituita la tabella A annessa al presente decreto firmata, d'ordine Nostro, dal Ministro proponente.
+Alla tabella n. 14 (nelle parti indicate con i numeri 1°, 2°, 3° e 8°) annessa al [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e alla tabella B annessa alla [legge 2 luglio 1929, n. 1272](Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md), e' sostituita la tabella A annessa al presente decreto firmata, d'ordine Nostro, dal Ministro proponente.
 
 ## Art. 2.
 

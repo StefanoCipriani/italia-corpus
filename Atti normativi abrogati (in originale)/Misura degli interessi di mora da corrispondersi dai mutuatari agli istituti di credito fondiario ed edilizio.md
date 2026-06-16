@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), Visto il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), Visto il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
-Visto il [regio decreto 19 dicembre 1926, n. 2360](Determinazione%20dellinteresse%20di%20mora%20dovuto%20agli%20Istituti%20di%20credito%20fondiario.%20026U2360.md);
+Visto il [regio decreto 19 dicembre 1926, n. 2360](../Regi%20decreti/Determinazione%20dellinteresse%20di%20mora%20dovuto%20agli%20Istituti%20di%20credito%20fondiario.%20026U2360.md);
 
 Viste le [leggi 29 luglio 1949, n. 474 e 4 agosto 1955, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;683);
 

@@ -52,7 +52,7 @@ L'applicazione del contributo di miglioria e' disposta, salvo il caso del 5° co
  
  I contributi di miglioria, gia' disposti ma non effettuati in base alle disposizioni precedenti, saranno applicati secondo la presente legge. 
  
- Non si fa luogo all'applicazione del contributo di miglioria per le opere pubbliche, per le quali sia stato gia' applicato il contributo stesso in base al [R. decreto 18 novembre 1923, n. 2538](Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), o in base alla [legge 16 dicembre 1926, n. 2251](Applicazione%20del%20contributo%20di%20miglioria%20in%20dipendenza%20della%20esecuzione%20di%20opere%20pubbliche.%20026U2251.md), per le opere eseguite dallo Stato o da Enti pubblici col concorso dello Stato.
+ Non si fa luogo all'applicazione del contributo di miglioria per le opere pubbliche, per le quali sia stato gia' applicato il contributo stesso in base al [R. decreto 18 novembre 1923, n. 2538](../Regi%20decreti/Provvedimenti%20per%20le%20finanze%20locali.%20023U2538.md), o in base alla [legge 16 dicembre 1926, n. 2251](Applicazione%20del%20contributo%20di%20miglioria%20in%20dipendenza%20della%20esecuzione%20di%20opere%20pubbliche.%20026U2251.md), per le opere eseguite dallo Stato o da Enti pubblici col concorso dello Stato.
 
 ## Art. 7.
 
@@ -60,7 +60,7 @@ Con decreto Reale, su proposta del Ministro per i lavori pubblici, di concerto c
 
 ## Art. 8.
 
-Sono abrogati la [legge 16 dicembre 1926, n. 2251](Applicazione%20del%20contributo%20di%20miglioria%20in%20dipendenza%20della%20esecuzione%20di%20opere%20pubbliche.%20026U2251.md), e il [Regio decreto 16 febbraio 1928, n. 470](Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2016%20dicembre%201926%20n.%202251%20sul%20contributo%20di%20miglioria%20in%20dipendenza%20della%20esecuzione%20di%20opere%20pubbliche.%20028U0470.md), relativi al contributo di miglioria in dipendenza di opere pubbliche eseguite dallo Stato o da Enti pubblici col concorso dello Stato. 
+Sono abrogati la [legge 16 dicembre 1926, n. 2251](Applicazione%20del%20contributo%20di%20miglioria%20in%20dipendenza%20della%20esecuzione%20di%20opere%20pubbliche.%20026U2251.md), e il [Regio decreto 16 febbraio 1928, n. 470](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2016%20dicembre%201926%20n.%202251%20sul%20contributo%20di%20miglioria%20in%20dipendenza%20della%20esecuzione%20di%20opere%20pubbliche.%20028U0470.md), relativi al contributo di miglioria in dipendenza di opere pubbliche eseguite dallo Stato o da Enti pubblici col concorso dello Stato. 
  
  Nulla e' pero' innovato alle disposizioni del [R. decreto-legge 6 luglio 1931, n. 981](Approvazione%20del%20piano%20regolatore%20della%20citta%20di%20Roma%20e%20delle%20norme%20per%20la%20sua%20attuazione.%20031U0981.md), concernente il piano regolatore della citta' di Roma, e degli altri provvedimenti, concernenti l'approvazione di piani regolatovi con imposizione di contributo di miglioria. 
  

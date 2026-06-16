@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-I Comuni locali di Laurana e di S. Rocco Ligani, costituiti a sensi dell'[art. 1 del R. decreto 19 gennaio 1922, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-01-19;22#art_1), vengono ripristinati in unico Comune locale, con capoluogo Laurana. 
+I Comuni locali di Laurana e di S. Rocco Ligani, costituiti a sensi dell'[art. 1 del R. decreto 19 gennaio 1922, n. 22](../Regi%20decreti/Che%20modifica%20la%20circoscrizione%20di%20taluni%20comuni%20dellIstria.%20022U0022.md), vengono ripristinati in unico Comune locale, con capoluogo Laurana. 
  
  I Comuni censuari di Iessenovico e di Villanova vengono distaccati dal Comune locale di Fianona ed aggregati a quello di Susgnevizza. 
  

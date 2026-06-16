@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Allo statuto della Fondazione del Regio istituto internazionale e coloniale di Torino, approvato con [R. decreto 16 aprile 1925, n. 769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-16;769), e' sostituito lo statuto annesso al presente decreto e firmato, d'ordine Nostro, dai Ministri proponenti. 
+ Allo statuto della Fondazione del Regio istituto internazionale e coloniale di Torino, approvato con [R. decreto 16 aprile 1925, n. 769](../Regi%20decreti/Soppressione%20del%20Regio%20istituto%20internazionale%20e%20coloniale%20italiano%20di%20Torino%20ed%20istituzione%20in%20sua%20vece%20della%20Fondazione%20del%20Regio%20istituto%20internazionale%20e%20coloniale%20di%20Torino%20ed%20approv_e5bdeecdd4a7.md), e' sostituito lo statuto annesso al presente decreto e firmato, d'ordine Nostro, dai Ministri proponenti. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

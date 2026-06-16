@@ -22,7 +22,7 @@ La tassa camerale sara' riscossa con le forme ed i privilegi con cui si riscuoto
 
 ## Art. 4.
 
-E' abrogato il [R. decreto 4 febbraio 1906, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-02-04;67) (parte supplementare). 
+E' abrogato il [R. decreto 4 febbraio 1906, n. 67](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20e%20la%20riscossione%20della%20tassa%20camerale%20della%20Camera%20di%20commercio%20di%20Venezia.%200600067R.md) (parte supplementare). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

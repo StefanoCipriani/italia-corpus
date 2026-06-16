@@ -28,7 +28,7 @@ Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzio
 
 ## Art. 1.
 
-Sono abrogati gli articoli 77 e 78 del regolamento generale per le biblioteche approvato con [R. decreto 24 ottobre 1907, n. 733](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-10-24;733).
+Sono abrogati gli articoli 77 e 78 del regolamento generale per le biblioteche approvato con [R. decreto 24 ottobre 1907, n. 733](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20biblioteche%20pubbliche%20governative%20007U0733.md).
 
 ## Art. 2.
 

@@ -44,7 +44,7 @@ Sono di primaria importanza le sedi di Bologna, Firenze, Genova, Milano, Napoli,
 
 I concorsi generali e speciali hanno inoltre lo scopo di abilitare i concorrenti, che vi conseguano l'idoneita', all'esercizio professionale dell'insegnamento di materie che s'impartiscono nei Regi istituti medi d'istruzione, nei casi in cui il titolo di studio da essi posseduto non abbia pieno valore di titolo di abilitazione secondo le indicazioni contenute nella tabella di cui al seguente articolo. 
  
- L'abilitazione si consegue esclusivamente per esami, salvo quanto e' stabilito nell'[art. 113 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_113), per l'insegnamento negli istituti privati.
+ L'abilitazione si consegue esclusivamente per esami, salvo quanto e' stabilito nell'[art. 113 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), per l'insegnamento negli istituti privati.
 
 ### Art. 4.
 
@@ -448,7 +448,7 @@ Quando si tratti di concorso unico per cattedre di primaria e di secondaria impo
 
 ### Art. 70.
 
-Alla graduatoria dei vincitori, quando si tratti di concorso generale (isolato o riunito con concorso speciale), segue la graduatoria di tutti i concorrenti che, avendo riportato, nel modo prescritto dall'art. 68, la votazione complessiva di almeno sette decimi, si trovino nelle condizioni di cui all'[art. 30 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_30).
+Alla graduatoria dei vincitori, quando si tratti di concorso generale (isolato o riunito con concorso speciale), segue la graduatoria di tutti i concorrenti che, avendo riportato, nel modo prescritto dall'art. 68, la votazione complessiva di almeno sette decimi, si trovino nelle condizioni di cui all'[art. 30 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md).
 
 ### Art. 71.
 
@@ -552,7 +552,7 @@ Per essere inscritto nell'albo occorre:
  
  2° essere di condotta morale e civile irreprensibile; 
  
- 3° possedere il titolo d'abilitazione all'insegnamento medio, conseguito in base al [regolamento 4 settembre 1924, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-09-04;1533), o al presente regolamento o un antico titolo che conservi la sua originaria efficacia di abilitazione a norma delle disposizioni del precedente capo. Le persone provviste di titoli equipollenti, a norma dell'[art. 113 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_113), possono essere inscritte solo per l'insegnamento negli istituti privati pei quali conseguirono la dichiarazione di equipollenza.
+ 3° possedere il titolo d'abilitazione all'insegnamento medio, conseguito in base al [regolamento 4 settembre 1924, n. 1533](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-09-04;1533), o al presente regolamento o un antico titolo che conservi la sua originaria efficacia di abilitazione a norma delle disposizioni del precedente capo. Le persone provviste di titoli equipollenti, a norma dell'[art. 113 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), possono essere inscritte solo per l'insegnamento negli istituti privati pei quali conseguirono la dichiarazione di equipollenza.
 
 ### Art. 91.
 
@@ -600,7 +600,7 @@ L'avvertimento e la censura si infliggono: a) per irregolare condotta; b) per es
 
 ### Art. 96.
 
-Si fa luogo alla radiazione di diritto quando l'insegnante inscritto nell'albo sia incorso in alcuna delle condanne previste dall'[art. 66 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_66).
+Si fa luogo alla radiazione di diritto quando l'insegnante inscritto nell'albo sia incorso in alcuna delle condanne previste dall'[art. 66 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 97.
 

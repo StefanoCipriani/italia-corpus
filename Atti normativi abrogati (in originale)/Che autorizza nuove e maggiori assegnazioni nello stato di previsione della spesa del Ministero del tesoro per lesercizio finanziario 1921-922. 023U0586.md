@@ -28,7 +28,7 @@ Sono approvate le nuove e maggiori assegnazioni di L. 277.202.010,10 sui capitol
 
 Sono autorizzate le seguenti assegnazioni straordinarie inscritte agli appositi capitoli dello stato di previsione della spesa comprese nella tabella B, annessa al presente decreto, firmata, d'ordine Nostro, dal Ministro proponente: 
  
- a) L. 31.987.617,62 per saldo della gestione delle linee ferroviarie delle nuove Provincie ai sensi dell'[art. 2 del R. decreto 25 novembre 1920, n. 1726](Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md); 
+ a) L. 31.987.617,62 per saldo della gestione delle linee ferroviarie delle nuove Provincie ai sensi dell'[art. 2 del R. decreto 25 novembre 1920, n. 1726](../Regi%20decreti/Che%20manda%20allAmministrazione%20delle%20ferrovie%20dello%20Stato%20di%20continuare%20oltre%20il%2031%20ottobre%201920%20lesercizio%20delle%20linee%20ferroviarie%20comprese%20nelle%20nuove%20Provincie%20sia%20che%20esse%20appartenesser_cdfba4634ca8.md); 
  
  b) L. 526.261,09 per saldo da corrispondere all'Amministrazione delle ferrovie di Stato a pareggio del bilancio per l'esercizio finanziario 1920-921. 
  

@@ -119,7 +119,7 @@ Agli Uffiziali del personale di Commissariato, essendo assimilati a grado milita
  
  Essi sono soggetti alla subordinazione tra di loro, ed alle prescrizioni fatte dal regolamento di disciplina militare marittima. 
  
- Quando imbarcati, sono sottoposti al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
+ Quando imbarcati, sono sottoposti al [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 17.
 
@@ -224,7 +224,7 @@ Al Personale contabile dei magazzini sono applicate, fatta eccezione dallo avanz
 
 Nello esercizio delle loro funzioni e nei rapporti di servizio, gli Impiegati del Personale contabile dei magazzini andranno pero' soggetti alle regole della militare disciplina. 
  
- Laddove vengano eccezionalmente imbarcati, saranno soggetti al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
+ Laddove vengano eccezionalmente imbarcati, saranno soggetti al [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo. 
  
  In tal caso sono applicabili ai medesimi le disposizioni della legge 25 aprile 1861.
 
@@ -371,7 +371,7 @@ Per la prima attuazione del servizio dei magazzinieri potra' essere fatta eccezi
 ## Art. 60.
 
 I magazzinieri hanno assimilazione al grado di sotto-uffiziale.
-Come tali sono soggetti sempre al regolamento di disciplina militare marittimo, e quando imbarcati, anche al [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
+Come tali sono soggetti sempre al regolamento di disciplina militare marittimo, e quando imbarcati, anche al [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo.
 
 ## Art. 61.
 

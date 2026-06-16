@@ -16,17 +16,17 @@ RE D'ITALIA
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
-Visto il Testo Unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e relativo regolamento approvato con [R. decreto 11-7-1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il Testo Unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con [R. decreto 24 agosto 1877, n. 4021](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20dimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20077U4021.md), e relativo regolamento approvato con [R. decreto 11-7-1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
 Vista la [legge 2 maggio 1907, n. 222](Abolizione%20delle%20revisioni%20biennali%20dei%20redditi%20di%20ricchezza%20mobile%20ed%20altre%20modificazioni%20alla%20legge%20sulla%20imposta%20di%20ricchezza%20mobile.%20007U0222.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sulle tasse di registro e successive modificazicni;
+Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), sulle tasse di registro e successive modificazicni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3270](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md) sulle tasse di successione e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 3270](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20successioni.%20023U3270.md) sulle tasse di successione e successive modificazioni;
 
 Visto il [R. decreto-legge 17 ottobre 1925, n. 1875](Funzione%20di%20assistenza%20tributaria%20dinanzi%20agli%20uffici%20finanziari.%20025U1875.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
-Visto il [R. decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visto il [R. decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
 Visti i R.[R. decreti-legge 24 ottobre 1935, n. 1887](Interpretazioni%20e%20modifiche%20alle%20leggi%20sulle%20imposte%20dirette.%20035U1887.md) e [13 gennaio 1936, n. 120](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette.%20036U0120.md), convertiti nella [legge 8 giugno 1936, n. 1231](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201887%20concernente%20interpretazioni%20e%20modificazioni%20alle%20leggi%20sulle%20imposte%20dirette%20e%20del%20R.%20decreto-legg_b2b0dad11f30.md);
 

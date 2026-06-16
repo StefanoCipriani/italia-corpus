@@ -22,9 +22,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' delle facolta' a Noi delegate; 
  
- Visto l'articolo 28 del testo unico della legge sulla Amministrazione e sulla contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
+ Visto l'articolo 28 del testo unico della legge sulla Amministrazione e sulla contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md); 
  
- Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
+ Visto l'art. 51 del regolamento approvato con [R. decreto 16 maggio 1912, n. 556](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20gestione%20amministrativa%20e%20contabile%20del%20Fondo%20per%20lemigrazione.%20012U0556.md), per la gestione amministrativa e contabile del Fondo per l'emigrazione; 
  
  Ritenuta la necessita' di aumentare gli stanziamenti dei capitoli 13, 24, 37, 47 e 53 dello stato di previsione della spesa del Fondo per l'emigrazione per l'esercizio finanziario 1914-915 per la complessiva somma di L. 33,500; 
  

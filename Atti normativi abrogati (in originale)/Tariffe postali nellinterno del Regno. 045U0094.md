@@ -18,7 +18,7 @@ Le indennita' per corrispondenze e pacchi smarriti, nei casi in cui esse siano d
 
 ## Art. 3.
 
-Le esenzioni di tassa per il servizio dei conti correnti postali previste al n. 4 dell'art. 112 del Codice postale e delle telecomunicazioni approvato con [R. decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), sono abolite, e il n. 4 dell'articolo 112 medesimo e' abrogato.
+Le esenzioni di tassa per il servizio dei conti correnti postali previste al n. 4 dell'art. 112 del Codice postale e delle telecomunicazioni approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), sono abolite, e il n. 4 dell'articolo 112 medesimo e' abrogato.
 
 ## Art. 4.
 

@@ -32,7 +32,7 @@ Il Governo del Re autorizzato a concedere sussidi alla provincia del Friuli nell
 
 Le Amministrazioni provinciali e comunali, allo scopo di procurarsi i mezzi per far fronte alle quote di spesa che resteranno a loro carico potranno contrarre mutui estinguibili entro il termine massimo di 50 anni con la Cassa depositi e prestiti, delegando in garanzia anche i proventi del dazio consumo nella misura e a sensi del testo unico di leggi approvato con [R. decreto 13 gennaio 1923, n. 456](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-13;456). 
  
- I mutui saranno estinti e le delegazioni relative pagate nei modi e termini di cui al testo unico di legge approvato con [R. decreto 5 settembre 1907, n. 751](Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20prestiti%20della%20Cassa%20depositi%20e%20prestiti%20e%20della%20sezione%20autonoma%20di%20credito%20comunale%20e%20provinciale.%20007U0751.md). 
+ I mutui saranno estinti e le delegazioni relative pagate nei modi e termini di cui al testo unico di legge approvato con [R. decreto 5 settembre 1907, n. 751](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20prestiti%20della%20Cassa%20depositi%20e%20prestiti%20e%20della%20sezione%20autonoma%20di%20credito%20comunale%20e%20provinciale.%20007U0751.md). 
  
  Lo Stato concorrera' al pagamento degli interessi in misura della meta'.
 
@@ -42,7 +42,7 @@ L'approvazione dei progetti relativi a lavori che saranno eseguiti direttamente 
 
 ## Art. 4.
 
-Le domande per la concessione di sussidi corredate ai sensi del [R. decreto 23 ottobre 1904, n. 625](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-10-23;625), dovranno essere presentate al Ministero dei lavori pubblici entro il 30 giugno 1924.
+Le domande per la concessione di sussidi corredate ai sensi del [R. decreto 23 ottobre 1904, n. 625](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20concessione%20di%20sussidi%20pei%20lavori%20di%20difesa%20delle%20strade%20provinciali%20e%20comunali%20e%20degli%20abitati%20contro%20le%20frane%20e%20le%20corrosioni%20dei%20fiumi%20e%20to_caca810c91db.md), dovranno essere presentate al Ministero dei lavori pubblici entro il 30 giugno 1924.
 
 ## Art. 5.
 

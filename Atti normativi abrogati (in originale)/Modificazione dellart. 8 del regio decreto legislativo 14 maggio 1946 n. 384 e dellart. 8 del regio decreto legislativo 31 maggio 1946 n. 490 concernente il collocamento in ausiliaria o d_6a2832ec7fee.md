@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
+Visto il [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md);
 
-Visto il [regio decreto legislativo 31 maggio 1946, n. 490](Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
+Visto il [regio decreto legislativo 31 maggio 1946, n. 490](../Regi%20decreti%20legislativi/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md);
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-L'[art. 8 del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' abrogato e sostituito dal seguente:
+L'[art. 8 del regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' abrogato e sostituito dal seguente:
  "Le disposizioni del presente decreto non si applicano:
  a) all'ufficiale in attesa di giudizio o per il quale sia ordinata formale inchiesta disciplinare oppure iniziata azione penale, sino a quando non siano definiti i procedimenti disciplinari o penali;
  b) all'ufficiale proposto per la cessazione dal servizio permanente in base all'[art. 36 della legge 9 maggio 1940, n. 369](Stato%20degli%20ufficiali%20del%20Regio%20esercito.%20040U0369.md), ovvero in base agli [articoli 38](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md) e [38-bis della legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), e successive modificazioni, sino a quando non sia definita la sua posizione di stato.
@@ -35,7 +35,7 @@ L'[art. 8 del regio decreto legislativo 14 maggio 1946, n. 384](Collocamento%20n
 
 ## Art. 2.
 
-L'[art. 8 del regio decreto legislativo 31 maggio 1946, n. 490](Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md), e' abrogato e sostituito dal seguente:
+L'[art. 8 del regio decreto legislativo 31 maggio 1946, n. 490](../Regi%20decreti%20legislativi/Collocamento%20in%20ausiliaria%20o%20dispensa%20dal%20servizio%20a%20domanda%20o%20di%20autorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20e%20degli%20ufficiali%20del%20ruolo%20speciale%20di%20complemento%20d_a5ab4a4bd961.md), e' abrogato e sostituito dal seguente:
  "Le disposizioni del presente decreto non si applicano:
  a) all'ufficiale in attesa di giudizio o per il quale sia ordinata formale inchiesta disciplinare oppure iniziata azione penale, sino a quando non siano definiti i procedimenti disciplinari o penali;
  b) all'ufficiale proposto per la cessazione dal servizio permanente o dal ruolo speciale, rispettivamente in base agli [articoli 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-03-11;397#art_38) e [38-bis della legge 11 marzo 1925, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-03-11;397#art_38bis), e successive modificazioni, e all'[art. 5 lettera E, della legge 6 giugno 1935, n. 1098](Istituzione%20di%20un%20ruolo%20speciale%20di%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20035U1098.md), e successive modificazioni, sino a quando non sia definita la sua posizione di stato.

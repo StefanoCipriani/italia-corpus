@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
 Visto il [R. decreto 2 luglio 1925, n. 1221](Istituzione%20di%20un%20separato%20ufficio%20di%20conciliazione%20in%20San%20Pelino%20dei%20Marsi%20frazione%20del%20comune%20di%20Massa%20dAlbe.%20025U1221.md), col quale veniva istituito un separato Ufficio di conciliazione in San Pelino, frazione del comune di Massa d'Albe; 
  
-Visto il [R. decreto 7 dicembre 1939, n. 2055](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-12-07;2055), col quale la frazione San Pelino e' stata distaccata dal comune di Massa d'Albe ed aggregata a quello di Avezzano; 
+Visto il [R. decreto 7 dicembre 1939, n. 2055](../Regi%20decreti/Distacco%20della%20frazione%20San%20Pelino%20dal%20comune%20di%20Massa%20dAlbe%20e%20sua%20aggregazione%20a%20quello%20di%20Avezzano.%20039U2055.md), col quale la frazione San Pelino e' stata distaccata dal comune di Massa d'Albe ed aggregata a quello di Avezzano; 
  
 Vista la deliberazione in data 17 marzo 1941 del podesta' del comune di Avezzano, con la quale si chiede che venga soppresso l'anzidetto Ufficio di conciliazione; 
  

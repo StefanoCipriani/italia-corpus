@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' della facolta' a Noi delegata; 
  
- Ritenuta la necessita', ad assicurare il servizio di vigilanza igienica e di assistenze sanitaria sulle navi addette a viaggi di lunga navigazione, di derogare, in via transitoria ed eccezionale, alle norme che disciplinano il rilascio delle autorizzazioni a viaggiare come medico di bordo portate dal [R. decreto 7 luglio 1910, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-07;573); 
+ Ritenuta la necessita', ad assicurare il servizio di vigilanza igienica e di assistenze sanitaria sulle navi addette a viaggi di lunga navigazione, di derogare, in via transitoria ed eccezionale, alle norme che disciplinano il rilascio delle autorizzazioni a viaggiare come medico di bordo portate dal [R. decreto 7 luglio 1910, n. 573](../Regi%20decreti/Che%20sostituisce%20le%20disposizioni%20contenute%20in%20vari%20articoli%20del%20regolamento%20sulla%20sanita%20marittima.%20010U0573.md); 
  
  Inteso il parere del Consiglio superiore di sanita'; 
  

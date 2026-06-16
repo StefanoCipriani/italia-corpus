@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'[art. 19 del regio decreto-legge 21 luglio 1938, n. 1517](Nuovo%20ordinamento%20dellEsposizione%20biennale%20internazionale%20darte%20di%20Venezia.%20038U1517.md), sull'ordinamento della Biennale di Venezia;
 
-Visti i [regi decreti 11 novembre 1938, n. 1844](Determinazione%20dei%20contributi%20a%20favore%20della%20Biennale%20di%20Venezia.%20038U1844.md), e [11 marzo 1943, n. 274](Proroga%20dei%20contributi%20a%20favore%20dellEnte%20autonomo%20denominato%20La%20Biennale%20di%20Venezia%20Esposizione%20internazionale%20darte.%20043U0274.md), relativi alla determinazione dei contributi a favore della Biennale di Venezia;
+Visti i [regi decreti 11 novembre 1938, n. 1844](../Regi%20decreti/Determinazione%20dei%20contributi%20a%20favore%20della%20Biennale%20di%20Venezia.%20038U1844.md), e [11 marzo 1943, n. 274](../Regi%20decreti/Proroga%20dei%20contributi%20a%20favore%20dellEnte%20autonomo%20denominato%20La%20Biennale%20di%20Venezia%20Esposizione%20internazionale%20darte.%20043U0274.md), relativi alla determinazione dei contributi a favore della Biennale di Venezia;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

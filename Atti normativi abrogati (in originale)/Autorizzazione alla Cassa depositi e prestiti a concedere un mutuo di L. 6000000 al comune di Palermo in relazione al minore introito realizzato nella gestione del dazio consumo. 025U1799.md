@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Considerato che la riforma apportata alla gestione del dazio consumo del comune di Palermo, per effetto del [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), non ha, nell'attesa del definitivo riordinamento del servizio, consentito di realizzare, per tale cespite, un provento corrispondente alla previsione inscritta nel bilancio comunale;
+Considerato che la riforma apportata alla gestione del dazio consumo del comune di Palermo, per effetto del [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md), non ha, nell'attesa del definitivo riordinamento del servizio, consentito di realizzare, per tale cespite, un provento corrispondente alla previsione inscritta nel bilancio comunale;
 
 Sentito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro Segretario di Stato per l'interno di concerto con qu
 
 ## Art. 1.
 
-La Cassa depositi e prestiti e' autorizzata a concedere al comune di Palermo un mutuo di L. 6,000,009 ammortizzabile in cinquanta anni, al saggio del 4.50 per cento, di cui il 2 per cento a carico dello Stato, in dipendenza del minore introito realizzato nella gestione del dazio consumo in seguito alla riforma disposta col [R. decreto 24 settembre 1923, n. 2030](Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md).
+La Cassa depositi e prestiti e' autorizzata a concedere al comune di Palermo un mutuo di L. 6,000,009 ammortizzabile in cinquanta anni, al saggio del 4.50 per cento, di cui il 2 per cento a carico dello Stato, in dipendenza del minore introito realizzato nella gestione del dazio consumo in seguito alla riforma disposta col [R. decreto 24 settembre 1923, n. 2030](../Regi%20decreti/Riordinamento%20dei%20dazi%20interni%20di%20consumo.%20023U2030.md).
 
 ## Art. 2. — null
 

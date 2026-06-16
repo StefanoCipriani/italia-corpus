@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' convalidato il [R. decreto 26 giugno 1913, n. 839](Col%20quale%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201912-913%20e%20autorizzala%20una%2014ª%20prelevazio_f568ff32f13f.md), col quale venne autorizzato un prelevamento dal fondo di riserva per le spese impreviste, dell'esercizio 1912-1913 per la somma di L. 123,000 inscritte al capitolo n. 181-VI «Spese per le buste elettorali ed accessorie relative ([legge 30 giugno 1912, n. 665](Sulla%20riforma%20della%20legge%20elettorale%20politica.%20012U0665.md))» dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1912-913.
+E' convalidato il [R. decreto 26 giugno 1913, n. 839](../Regi%20decreti/Col%20quale%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dello%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201912-913%20e%20autorizzala%20una%2014ª%20prelevazio_f568ff32f13f.md), col quale venne autorizzato un prelevamento dal fondo di riserva per le spese impreviste, dell'esercizio 1912-1913 per la somma di L. 123,000 inscritte al capitolo n. 181-VI «Spese per le buste elettorali ed accessorie relative ([legge 30 giugno 1912, n. 665](Sulla%20riforma%20della%20legge%20elettorale%20politica.%20012U0665.md))» dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1912-913.
 
 ## Art. 2.
 

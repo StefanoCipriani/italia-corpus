@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili, e successive variazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili, e successive variazioni;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -36,7 +36,7 @@ Le promozioni ai posti di primo procuratore (grado 9°) e di archivista (grado 1
  
  Le norme relative ai concorsi indicati nel presente articolo e la composizione delle Commissioni esaminatrici saranno determinate col decreto Ministeriale di bande dei concorsi stessi. 
  
- Dal 1° luglio 1930 i posti dei gradi indicati, in qualunque data si siano resi vacanti, saranno conferiti coll'osservanza delle disposizioni del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili e successive variazioni. 
+ Dal 1° luglio 1930 i posti dei gradi indicati, in qualunque data si siano resi vacanti, saranno conferiti coll'osservanza delle disposizioni del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili e successive variazioni. 
  
  Nulla e' innovato alle disposizioni del [R. decreto 1° luglio 1926, n. 1228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1228), modificato coll'[art. 3 del R. decreto 6 gennaio 1927, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-06;27#art_3), riflettenti le promozioni degli invalidi di guerra al grado 11° dei ruoli di gruppo C. 
  

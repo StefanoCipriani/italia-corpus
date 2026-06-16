@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Visto il testo unico sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Visto al [decreto legislativo luogotenenziale 30 gennaio 1945, n. 41](../Decreti%20legislativi%20luogotenenziali/Revisione%20dal%20trattamento%20economico%20del%20personale%20in%20quiescenza.%20045U0041.md);
 
@@ -57,7 +57,7 @@ Le disposizioni di legge relative all'acquisto del diritto a pensione privilegia
 
 ## Art. 5.
 
-In tutti i casi in cui per un evento di guerra o attinente alla guerra non si faccia luogo a concessione di trattamento di pensione di guerra per il verificarsi delle condizioni previste dagli [articoli 46](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [47 del regio decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), o da altre disposizioni in cui comunque si sancisca la decadenza, la prescrizione o la perdita del diritto al suddetto trattamento, non si fa luogo, per qualsiasi ragione, a concessione di pensione privilegiata ordinaria.
+In tutti i casi in cui per un evento di guerra o attinente alla guerra non si faccia luogo a concessione di trattamento di pensione di guerra per il verificarsi delle condizioni previste dagli [articoli 46](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [47 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), o da altre disposizioni in cui comunque si sancisca la decadenza, la prescrizione o la perdita del diritto al suddetto trattamento, non si fa luogo, per qualsiasi ragione, a concessione di pensione privilegiata ordinaria.
 
 ## Art. 6.
 

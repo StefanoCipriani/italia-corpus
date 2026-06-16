@@ -82,7 +82,7 @@ Alla concessione delle opere sara' provveduto con decreto Reale, su proposta dei
  
  Nell'unico atto di concessione saranno determinati l'ammontare dei contributi, sovvenzioni e sussidi dovuti al concessionario dallo Stato e dagli altri contribuenti per ciascuna categoria di opere concesse, secondo le relative leggi speciali. 
  
- In relazione ai prevedibili risultati economici della trasformazione potra' l'assieme dei concorsi degli enti pubblici essere ridotto oppure integrato con una quota suppletiva di concorso governativo, anche in forma di contributo dello Stato negli interessi dei mutui, oltre il limite previsto dal [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md). 
+ In relazione ai prevedibili risultati economici della trasformazione potra' l'assieme dei concorsi degli enti pubblici essere ridotto oppure integrato con una quota suppletiva di concorso governativo, anche in forma di contributo dello Stato negli interessi dei mutui, oltre il limite previsto dal [R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md). 
  
  Il contributo totale, determinato nell'atto di concessione, sara' fisso e invariabile qualunque sia per risultare il costo effettivo delle opere e sara' liquidato a misura dell'avanzamento dei lavori.
 
@@ -98,7 +98,7 @@ Quando difficolta' tecniche finanziarie, inerenti alla trasformazione fondiaria,
 
 ## Art. 10.
 
-Chi si proponga di eseguire miglioramenti fondiari interessanti uno o piu' fondi del comprensorio potra' ottenere mutui di favore a termini del [R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), garantiti con ipoteca o con la cessione di contributi dello Stato ovvero con delegazioni sui tributi speciali di cui all'ultimo capoverso dell'art. 3 della presente legge, rilasciato dai mutuatari sugli agenti incaricati di riscuoterli. 
+Chi si proponga di eseguire miglioramenti fondiari interessanti uno o piu' fondi del comprensorio potra' ottenere mutui di favore a termini del [R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), garantiti con ipoteca o con la cessione di contributi dello Stato ovvero con delegazioni sui tributi speciali di cui all'ultimo capoverso dell'art. 3 della presente legge, rilasciato dai mutuatari sugli agenti incaricati di riscuoterli. 
  
  Ai mutui concessi con garanzia di delegazioni si applicheranno le disposizioni degli [articoli 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453#art_79), [80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453#art_80), [81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453#art_81) e [88 del testo unico 2 gennaio 1913, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-01-02;453#art_88), spettando al Prefetto di compilare d'ufficio i ruoli e di curarne la riscossione a mezzo degli esattori comunali o di esattore speciale, qualora il mutuatario non vi provveda. 
  
@@ -106,7 +106,7 @@ Chi si proponga di eseguire miglioramenti fondiari interessanti uno o piu' fondi
 
 ## Art. 11.
 
-Gli istituti autorizzati a concedere i mutui di favore potranno scontare le quote di concorso governativo di cui all'[art. 3 del R. decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), versando il capitale corrispondente a chi esegua le migliorie con mezzi propri. 
+Gli istituti autorizzati a concedere i mutui di favore potranno scontare le quote di concorso governativo di cui all'[art. 3 del R. decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md), versando il capitale corrispondente a chi esegua le migliorie con mezzi propri. 
  
  Il contributo capitalizzato sara' corrisposto in relazione al progresso dei lavori, nella medesima proporzione nella quale la somma dovuta sta all'ammontare totale previsto della spesa per le migliorie.
 
@@ -146,11 +146,11 @@ Con decreto Reale, su proposta dei Ministri per i lavori pubblici e per l'econom
  
  Sugli affari indicati ai nn. 5 e 8, il Comitato delibera in base a relazione di persona specialmente esperta delle condizioni del comprensorio di cui si tratta, nominata dal Comitato stesso, su designazione del Consiglio agrario provinciale, dove esista. 
  
- Alle adunanze del Comitato sara' chiamato ad intervenire, con voto consultivo, un rappresentante dell'istituto di credito autorizzato a concedere, nel comprensorio da trasformare, i mutui di favore previsti dal [Regio decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
+ Alle adunanze del Comitato sara' chiamato ad intervenire, con voto consultivo, un rappresentante dell'istituto di credito autorizzato a concedere, nel comprensorio da trasformare, i mutui di favore previsti dal [Regio decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
 
 ## Art. 15.
 
-La spesa a carico del Ministero dell'economia nazionale per il pagamento del contributo integrativo di cui all'art. 7, gravera' il fondo indicato all'[art. 4 del Regio decreto 30 dicembre 1923, n. 3139](Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
+La spesa a carico del Ministero dell'economia nazionale per il pagamento del contributo integrativo di cui all'art. 7, gravera' il fondo indicato all'[art. 4 del Regio decreto 30 dicembre 1923, n. 3139](../Regi%20decreti/Provvedimenti%20per%20il%20credito%20agrario.%20023U3139.md).
 
 ## Art. 16.
 

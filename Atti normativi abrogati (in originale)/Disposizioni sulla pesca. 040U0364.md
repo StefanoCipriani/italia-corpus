@@ -38,7 +38,7 @@ Al 1° comma dell'art. 7 ed al 2° comma dell'art. 83 del testo unico delle legg
  
  Art. 7, comma 1°. - «E' fatto divieto di collocare reti o apparecchi fissi o mobili di pesca attraverso fiumi, torrenti, canali ed altri corsi o bacini di acque dolci o salse, occupando piu' della meta' della larghezza del corso d'acqua o della meta del bacino. I corsi di acqua di larghezza inferiore a due metri dovranno lasciarsi liberi per un tratto in larghezza non inferiore ad un metro». 
  
- Art. 33, comma 2°. - «Incorre nel delitto di furto ai sensi degli [articoli 624 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) chiunque peschi in acque che, per disposizioni naturali o per opere manufatte, si trovino racchiuse, in modo da impedire l'uscita del pesce tenutovi in allevamento».
+ Art. 33, comma 2°. - «Incorre nel delitto di furto ai sensi degli [articoli 624 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) chiunque peschi in acque che, per disposizioni naturali o per opere manufatte, si trovino racchiuse, in modo da impedire l'uscita del pesce tenutovi in allevamento».
 
 ## Art. 5.
 

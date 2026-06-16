@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'[art. 121 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_121), relativo alle autorizzazioni di spesa per l'applicazione della legge sulla bonifica integrale;
+Visto l'[art. 121 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), relativo alle autorizzazioni di spesa per l'applicazione della legge sulla bonifica integrale;
 
 Visto il [R. decreto-legge 22 ottobre 1932, n. 1378](Determinazione%20del%20tasso%20dinteresse%20da%20adottare%20per%20il%20calcolo%20delle%20annualita%20per%20opere%20a%20pagamento%20differito.%20032U1378.md), convertito nella [legge 22 dicembre 1932, n. 1823](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20ottobre%201932%20n.%201378%20che%20reca%20norme%20per%20la%20determinazione%20del%20tasso%20di%20interesse%20da%20adottare%20per%20il%20calcolo%20delle%20annualita%20per%20opere%20a%20pagame_1c5aa06f0ed6.md);
 

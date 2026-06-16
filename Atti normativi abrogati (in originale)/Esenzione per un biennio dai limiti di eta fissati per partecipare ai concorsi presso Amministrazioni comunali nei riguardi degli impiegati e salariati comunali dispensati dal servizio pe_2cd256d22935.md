@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Ai segretari, impiegati, agenti e salariati comunali, che siano stati dispensati dal servizio per esuberanza di personale in virtu' di provvedimenti adottati in base al [R. decreto-legge 17 marzo 1927, n. 383](Facolta%20al%20Governo%20del%20Re%20di%20provvedere%20ad%20una%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20027U0383.md), e' applicabile, per il periodo di un biennio dalla data della dispensa, il disposto dell'art. 95, comma 1°, del regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;297), relativo alla esenzione dai limiti di eta' per partecipare ai concorsi o essere comunque assunti in servizio presso Amministrazioni comunali.
+Ai segretari, impiegati, agenti e salariati comunali, che siano stati dispensati dal servizio per esuberanza di personale in virtu' di provvedimenti adottati in base al [R. decreto-legge 17 marzo 1927, n. 383](Facolta%20al%20Governo%20del%20Re%20di%20provvedere%20ad%20una%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20027U0383.md), e' applicabile, per il periodo di un biennio dalla data della dispensa, il disposto dell'art. 95, comma 1°, del regolamento per l'esecuzione della legge comunale e provinciale, approvato con [R. decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md), relativo alla esenzione dai limiti di eta' per partecipare ai concorsi o essere comunque assunti in servizio presso Amministrazioni comunali.
 
 ## Art. 2.
 

@@ -25,7 +25,7 @@ E' vietato costruire o importare a scopo di commercio nel territorio nazionale, 
 
 Chiunque contravvenga alle disposizioni di cui al precedente articolo e' punito con l'ammenda da lire 5000 a lire 200.000.
  Qualora il contravventore appartenga alla categoria dei costruttori o importatori di apparati o impianti elettrici e radioelettrici si applica l'ammenda da lire 20.000 a lire 400.000.
- Per le contravvenzioni di cui al presente articolo si applicano le disposizioni dell'articolo 16 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645).
+ Per le contravvenzioni di cui al presente articolo si applicano le disposizioni dell'articolo 16 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md).
 
 ## Art. 3.
 
@@ -41,7 +41,7 @@ Le norme della presente legge si applicano anche nel caso di costruzione, uso ed
 
 ## Art. 6.
 
-Gli articoli 262, 263 e 264 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), sono abrogati.
+Gli articoli 262, 263 e 264 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), sono abrogati.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

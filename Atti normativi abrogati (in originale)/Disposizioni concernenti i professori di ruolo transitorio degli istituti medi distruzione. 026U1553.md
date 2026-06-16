@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Tutti i termini stabiliti dall'[art. 12 del R. decreto 26 giugno 1923, n. 1413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-26;1413#art_12), e prorogati di due anni dall'[art. 8 del R. decreto 31 dicembre 1923, n. 2977](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2026%20giugno%201923%20numero%201473%20relativo%20allattuazione%20del%20nuovo%20ordinamento%20dellistruzione%20media%20e%20dei%20convitti%20nazionali.%20023U2977.md), sono ulteriormente prorogati di cinque anni.
+Tutti i termini stabiliti dall'[art. 12 del R. decreto 26 giugno 1923, n. 1413](../Regi%20decreti/Norme%20per%20lapplicazione%20del%20R.%20decreto%206%20maggio%201923%20n.%201054%20relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20Convitti%20Nazionali.%20023U1413.md), e prorogati di due anni dall'[art. 8 del R. decreto 31 dicembre 1923, n. 2977](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%2026%20giugno%201923%20numero%201473%20relativo%20allattuazione%20del%20nuovo%20ordinamento%20dellistruzione%20media%20e%20dei%20convitti%20nazionali.%20023U2977.md), sono ulteriormente prorogati di cinque anni.
 
 ## Art. 2.
 

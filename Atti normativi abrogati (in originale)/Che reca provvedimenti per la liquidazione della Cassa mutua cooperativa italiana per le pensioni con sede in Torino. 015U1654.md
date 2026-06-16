@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduti la [legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md), ed il regolamento per la sua esecuzione approvato con [R. decreto 5 agosto 1912, n. 939](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%204%20aprile%201912%20n.%20305%20recante%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istitut_55af1202d9ed.md);
+Veduti la [legge 4 aprile 1912, n. 305](Che%20reca%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istituto%20nazionale%20di%20assicurazioni.%20012U0305.md), ed il regolamento per la sua esecuzione approvato con [R. decreto 5 agosto 1912, n. 939](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%204%20aprile%201912%20n.%20305%20recante%20provvedimenti%20per%20lesercizio%20delle%20assicurazioni%20sulla%20durata%20della%20vita%20umana%20da%20parte%20di%20un%20Istitut_55af1202d9ed.md);
 
 Esaminato lo stato delle operazioni di liquidazione della Cassa mutua cooperativa italiana per le pensioni, con sede in Torino;
 

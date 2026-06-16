@@ -42,7 +42,7 @@ Le indennita' mensili previste dagli [articoli 1](Indennita%20per%20i%20militari
 
 ## Art. 4.
 
-L'ultimo comma dell'[art. 11 del regio decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), nonche' l'[art. 1 del regio decreto 8 maggio 1927, n. 762](Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md), e successive modificazioni, sono abrogati.
+L'ultimo comma dell'[art. 11 del regio decreto-legge 9 gennaio 1927, n. 33](Riordinamento%20del%20personale%20dellAmministrazione%20della%20pubblica%20sicurezza%20e%20dei%20servizi%20di%20polizia.%20027U0033.md), nonche' l'[art. 1 del regio decreto 8 maggio 1927, n. 762](../Regi%20decreti/Speciale%20indennita%20per%20il%20personale%20di%20pubblica%20sicurezza%20e%20della%20Milizia%20volontaria%20per%20la%20sicurezza%20nazionale%20adibito%20al%20servizio%20di%20polizia%20di%20frontiera.%20027U0762.md), e successive modificazioni, sono abrogati.
 
 ## Art. 5.
 

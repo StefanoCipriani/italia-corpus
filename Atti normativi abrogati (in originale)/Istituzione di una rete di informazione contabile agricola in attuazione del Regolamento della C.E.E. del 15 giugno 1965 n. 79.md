@@ -47,7 +47,7 @@ Le deliberazioni del Comitato sono validamente adottate col voto unanime dei pre
 
 ## Art. 4.
 
-L'[istituto nazionale di economia agraria, di cui al regio decreto 10 maggio 1928, n. 1418](Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), e successive modificazioni, svolge, sotto la vigilanza del Ministero della agricoltura e delle foreste, i compiti di organo di collegamento previsti dal [Regolamento n. 79/65](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1965;79) della Comunita' economica europea e promuove l'impianto e la tenuta della contabilita' agraria.
+L'[istituto nazionale di economia agraria, di cui al regio decreto 10 maggio 1928, n. 1418](../Regi%20decreti/Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), e successive modificazioni, svolge, sotto la vigilanza del Ministero della agricoltura e delle foreste, i compiti di organo di collegamento previsti dal [Regolamento n. 79/65](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1965;79) della Comunita' economica europea e promuove l'impianto e la tenuta della contabilita' agraria.
  Il predetto Istituto assolve altresi' i compiti previsti dagli articoli 9 e 14 del citato Regolamento comunitario e provvede alla organizzazione e al funzionamento degli uffici di segreteria dei singoli Comitati regionali.
 
 ## Art. 5.

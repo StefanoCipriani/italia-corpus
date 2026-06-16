@@ -59,7 +59,7 @@ Sono applicabili all'esportazione dei prodotti accennati nel presente decreto le
 
 ## Art. 8.
 
-Agli impiegati ed agenti, che si rechino alle fabbriche per la verificazione dei prodotti da esportarsi competeranno le indennita' stabilite dal [R. decreto del 3 dicembre 1874, n. 2257](Col%20quale%20e%20aumentato%20il%20prezzo%20dei%20piombi%20lamine%20e%20polizzini%20doganali%20da%20corrispondersi%20dal%20Commercio.%20074U2257.md). 
+Agli impiegati ed agenti, che si rechino alle fabbriche per la verificazione dei prodotti da esportarsi competeranno le indennita' stabilite dal [R. decreto del 3 dicembre 1874, n. 2257](../Regi%20decreti/Col%20quale%20e%20aumentato%20il%20prezzo%20dei%20piombi%20lamine%20e%20polizzini%20doganali%20da%20corrispondersi%20dal%20Commercio.%20074U2257.md). 
  
  Il direttore generale delle Gabelle e' incaricato della esecuzione del presente decreto. 
  

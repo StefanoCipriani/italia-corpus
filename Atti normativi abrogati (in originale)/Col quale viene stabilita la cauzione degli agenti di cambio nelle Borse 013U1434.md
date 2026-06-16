@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli [articoli 22, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_22-num5), [63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_22-num63) e [64 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_22-num64), riguardante l'ordinamento delle Borse di commercio e della mediazione e la tassa sui contratti di Borsa;
 
-Visto l'art. 54 del regolamento esecutivo della legge predetta approvato con [R. decreto del 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Visto l'art. 54 del regolamento esecutivo della legge predetta approvato con [R. decreto del 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
 

@@ -32,7 +32,7 @@ E' approvata la spesa straordinaria di lire 500,000 da inscriversi al capitolo n
 
 ## Art. 5.
 
-Sotto l'alta vigilanza della Commissione governativa instituita col R. decreto del 30 marzo 1884, l'ufficio tecnico-amministrativo, di cui all'articolo 12 della legge 20 luglio 1890 precitata, provvedera' alla esecuzione delle opere relative al Policlinico, con le norme stabilite dal regolamento approvato per [R. decreto del 4 gennaio 1891, n. 1](Che%20approva%20lannesso%20regolamento%20riguardante%20le%20attribuzioni%20dellUfficio%20per%20le%20opere%20governative%20e%20edilizie%20di%20Roma.%20091U0001.md).
+Sotto l'alta vigilanza della Commissione governativa instituita col R. decreto del 30 marzo 1884, l'ufficio tecnico-amministrativo, di cui all'articolo 12 della legge 20 luglio 1890 precitata, provvedera' alla esecuzione delle opere relative al Policlinico, con le norme stabilite dal regolamento approvato per [R. decreto del 4 gennaio 1891, n. 1](../Regi%20decreti/Che%20approva%20il%20nuovo%20statuto%20della%20cassa%20di%20risparmio%20di%20Corleone.%209100001R.md).
 
 ## Art. 6.
 

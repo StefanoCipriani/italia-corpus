@@ -20,7 +20,7 @@ Vista la [legge 6 luglio 1933, n. 999](Ordinamento%20organico%20per%20lEritrea%2
 
 Visto il [R. decreto-legge 17 gennaio 1935, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-17;36), che ha istituito un Alto Commissario per le Colonie dell'Africa Orientale;
 
-Visto il [R. decreto 17 dicembre 1931, n. 1786](Ordinamento%20militare%20per%20il%20Regio%20corpo%20di%20truppe%20coloniali%20dellEritrea.%20031U1786.md), e successive modifiche, sull'ordinamento militare del Regio corpo di truppe coloniali dell'Eritrea;
+Visto il [R. decreto 17 dicembre 1931, n. 1786](../Regi%20decreti/Ordinamento%20militare%20per%20il%20Regio%20corpo%20di%20truppe%20coloniali%20dellEritrea.%20031U1786.md), e successive modifiche, sull'ordinamento militare del Regio corpo di truppe coloniali dell'Eritrea;
 
 Visto il [decreto Luogotenenziale 19 maggio 1918, n. 776](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-19;776), che approva le tabelle organiche del Regio corpo delle truppe coloniali della Somalia, e successive modifiche;
 

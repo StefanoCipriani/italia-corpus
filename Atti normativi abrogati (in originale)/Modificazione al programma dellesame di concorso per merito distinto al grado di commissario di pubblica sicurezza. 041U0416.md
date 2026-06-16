@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666), che approva il regolamento per gli ufficiali e gli impiegati di pubblica sicurezza;
+Visto il [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md), che approva il regolamento per gli ufficiali e gli impiegati di pubblica sicurezza;
 
 Visto il R. decreto 30 dicembre 1923-II, n. 2960;
 
@@ -30,7 +30,7 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di S
 
 ## Articolo unico.
 
-L'allegato B al regolamento per gli ufficiali ed impiegati di pubblica sicurezza approvato con [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666), e' sostituito dal seguente: 
+L'allegato B al regolamento per gli ufficiali ed impiegati di pubblica sicurezza approvato con [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md), e' sostituito dal seguente: 
  
  «Programma dell'esame di concorso per merito distinto al grado di commissario di pubblica sicurezza»: 
  

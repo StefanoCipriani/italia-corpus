@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti gli articoli 5 e 6 del Regolamento per la sanita' marittima, approvato col [Regio decreto del 29 settembre 1895 n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;636);
+Visti gli articoli 5 e 6 del Regolamento per la sanita' marittima, approvato col [Regio decreto del 29 settembre 1895 n. 636](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per la Marina, di concerto con quello dell'Interno; Abbiamo decretato e decretiamo:
 

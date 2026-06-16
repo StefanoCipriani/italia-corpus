@@ -26,7 +26,7 @@ Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-Con effetto dal 1° gennaio 1919 e' resa obbligatoria per tutti i comuni del Regno l'applicazione della tassa sui cani, di cui all'art. 193, n. 3, della legge comunale e provinciale, testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
+Con effetto dal 1° gennaio 1919 e' resa obbligatoria per tutti i comuni del Regno l'applicazione della tassa sui cani, di cui all'art. 193, n. 3, della legge comunale e provinciale, testo unico approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 febbraio 1927, n.97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-03;97), col quale i comuni di Stresa, Chignolo, Verbano e Brisino sono stati riuniti nell'unico comune di Stresa Borromeo; 
+ Visto il [R. decreto 3 febbraio 1927, n.97](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Stresa%20Chignolo%20Verbano%20e%20Brisino%20in%20un%20unico%20Comune%20con%20la%20denominazione%20Stresa-Borromeo.%20027U0097.md), col quale i comuni di Stresa, Chignolo, Verbano e Brisino sono stati riuniti nell'unico comune di Stresa Borromeo; 
  
  Vista la deliberazione della Commissione elettorale provinciale di Novara, con la quale si propone l'aggregazione alla seconda sezione (B) del comune di Stresa Borromeo degli elettori politici del comune di Magognino, gia' aggregati all'ex comune di Brisino e che dalle liste per il corrente anno risultano nel numero di 96, portando in tal modo a 682 il numero totale degli elettori politici inscritti nella sezione suddetta; 
  

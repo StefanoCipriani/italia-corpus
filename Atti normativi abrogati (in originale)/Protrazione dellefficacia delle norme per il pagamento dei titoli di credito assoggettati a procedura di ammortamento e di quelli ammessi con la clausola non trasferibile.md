@@ -16,7 +16,7 @@ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visto il [regio decreto 14 dicembre 1933, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-14;1669);
 
-Visto il [regio decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736);
+Visto il [regio decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md);
 
 Visto il [decreto legislativo luogotenenziale 11 gennaio 1945, n. 17](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20il%20pagamento%20dei%20titoli%20di%20credito%20assoggettati%20a%20procedura%20di%20ammortamento%20e%20di%20quelli%20rimessi%20con%20la%20clausola%20non%20trasferibile.%20045U0017.md);
 

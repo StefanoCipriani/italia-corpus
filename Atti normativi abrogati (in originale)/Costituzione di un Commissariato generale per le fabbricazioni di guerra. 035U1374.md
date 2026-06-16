@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 15 della legge 8 giugno 1925, n. 969](Organizzazione%20della%20Nazione%20per%20la%20guerra.%20025U0969.md);
 
-Visto il testo unico delle disposizioni riflettenti l'ordinamento della Commissione Suprema di difesa, approvato con [R. decreto 8 gennaio 1928, n. 165](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md);
+Visto il testo unico delle disposizioni riflettenti l'ordinamento della Commissione Suprema di difesa, approvato con [R. decreto 8 gennaio 1928, n. 165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20riflettenti%20lordinamento%20della%20Commissione%20Suprema%20di%20difesa%20ed%20il%20servizio%20degli%20osservatori%20industriali.%20028U0165.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

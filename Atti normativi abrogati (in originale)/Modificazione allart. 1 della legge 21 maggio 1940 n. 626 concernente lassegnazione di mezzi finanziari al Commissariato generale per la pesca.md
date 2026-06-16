@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste; HA SANZIONATO E 
 
 ## Articolo unico.
 
-Nell'[art. 1 della legge 21 maggio 1940, n. 626](Assegnazione%20di%20mezzi%20finanziari%20al%20Commissariato%20generale%20per%20la%20pesca.%20040U0626.md), in luogo delle parole "dall'art. 4 del R. decreto 15 aprile 1940-XVIII, n. 619" debbono leggersi le altre "dall'[art. 3 del regio decreto 15 aprile 1940, n. 619](Attribuzioni%20ed%20ordinamento%20del%20Commissariato%20generale%20per%20la%20pesca.%20040U0619.md)".
+Nell'[art. 1 della legge 21 maggio 1940, n. 626](Assegnazione%20di%20mezzi%20finanziari%20al%20Commissariato%20generale%20per%20la%20pesca.%20040U0626.md), in luogo delle parole "dall'art. 4 del R. decreto 15 aprile 1940-XVIII, n. 619" debbono leggersi le altre "dall'[art. 3 del regio decreto 15 aprile 1940, n. 619](../Regi%20decreti/Attribuzioni%20ed%20ordinamento%20del%20Commissariato%20generale%20per%20la%20pesca.%20040U0619.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

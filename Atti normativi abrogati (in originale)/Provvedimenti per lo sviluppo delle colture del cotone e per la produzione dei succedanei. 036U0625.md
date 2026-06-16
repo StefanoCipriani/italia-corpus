@@ -58,7 +58,7 @@ I coltivatori di canapa o di cotone sono tenuti alla provvista del seme necessar
 
 ## Art. 6.
 
-Gli impianti industriali per la cotonizzazione della canapa sono compresi tra quelli soggetti ad autorizzazione amministrativa, ai sensi del [R. decreto 15 maggio 1933, n. 590](Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md). 
+Gli impianti industriali per la cotonizzazione della canapa sono compresi tra quelli soggetti ad autorizzazione amministrativa, ai sensi del [R. decreto 15 maggio 1933, n. 590](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md). 
  
  L'autorizzazione e' data con decreto del Ministro per le corporazioni, di concerto col Ministro per l'agricoltura e per le foreste.
 

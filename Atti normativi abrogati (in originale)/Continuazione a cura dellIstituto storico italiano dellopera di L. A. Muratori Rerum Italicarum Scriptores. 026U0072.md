@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti i [Regi decreti 25 novembre 1883, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-11-25;1775) (serie 3ª); 24 maggio 1896, n. 191; 23 febbraio 1911, n. 185, e 19 giugno 1913, n. 975;
+Veduti i [Regi decreti 25 novembre 1883, n. 1775](../Regi%20decreti/Che%20fonda%20in%20Roma%20un%20istituto%20storico%20italiano.%20083U1775.md) (serie 3ª); 24 maggio 1896, n. 191; 23 febbraio 1911, n. 185, e 19 giugno 1913, n. 975;
 
 Udito il Consiglio dei Ministri;
 

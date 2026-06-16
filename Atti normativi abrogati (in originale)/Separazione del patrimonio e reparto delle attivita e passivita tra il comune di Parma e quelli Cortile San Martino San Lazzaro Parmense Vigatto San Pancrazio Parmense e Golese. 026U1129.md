@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno; 
  
- Veduto il [R. decreto 23 dicembre 1923, n. 3096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-23;3096), con il quale fu aggregata al comune di Parma parte del territorio dei finitimi comuni di Cortile San Martino, Lazzaro Parmense, Vigatto, San Pancrazio Parmense e Golese; 
+ Veduto il [R. decreto 23 dicembre 1923, n. 3096](../Regi%20decreti/Aggregazione%20al%20comune%20di%20Parma%20di%20parte%20del%20territorio%20dei%20finitimi%20comuni%20di%20San%20Lazzaro%20Parmense%20Vigatto%20San%20Pancrazio%20Parmense%20Golese%20e%20Cortile%20San%20Martino.%20023U3096.md), con il quale fu aggregata al comune di Parma parte del territorio dei finitimi comuni di Cortile San Martino, Lazzaro Parmense, Vigatto, San Pancrazio Parmense e Golese; 
  
  Veduto il [R. decreto 11 dicembre 1924, n. 2371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-11;2371), con cui fu stabilita la delimitazione territoriale fra i Comuni anzidetti; 
  

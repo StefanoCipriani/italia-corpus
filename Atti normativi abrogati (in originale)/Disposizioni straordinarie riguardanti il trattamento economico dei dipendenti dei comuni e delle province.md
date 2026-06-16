@@ -22,7 +22,7 @@ A decorrere dal 1 gennaio 1967 l'indennita' accessoria, anche se concessa con di
 
 ## Art. 2. — null
 
-Gli amministratori e i segretari comunali e provinciali non possono emettere i relativi titoli di spesa ed i tesorieri hanno comunque l'obbligo di non darvi corso. Gli amministratori e i segretari che, cio' nonostante, abbiano emesso i titoli di spesa e i tesorieri che abbiano effettuato i pagamenti sono personalmente e solidalmente responsabili delle somme conseguentemente erogate, e il prefetto ne promuove il recupero con ingiunzione emessa ai sensi del [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639), e con la procedura ivi stabilita.
+Gli amministratori e i segretari comunali e provinciali non possono emettere i relativi titoli di spesa ed i tesorieri hanno comunque l'obbligo di non darvi corso. Gli amministratori e i segretari che, cio' nonostante, abbiano emesso i titoli di spesa e i tesorieri che abbiano effettuato i pagamenti sono personalmente e solidalmente responsabili delle somme conseguentemente erogate, e il prefetto ne promuove il recupero con ingiunzione emessa ai sensi del [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e con la procedura ivi stabilita.
  Nella stessa responsabilita' incorrono i componenti degli organi di controllo che abbiano approvato le relative deliberazioni. Il Ministero dell'interno promuove il giudizio di responsabilita' innanzi alla Corte dei conti.
 
 ## Art. 3.

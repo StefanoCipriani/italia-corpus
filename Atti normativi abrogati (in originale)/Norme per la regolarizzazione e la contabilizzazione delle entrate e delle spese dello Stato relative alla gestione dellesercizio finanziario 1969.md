@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 77, comma secondo, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77-com2);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), relativo alla legge sull'amministrazione del patrimonio e la contabilita' generale dello Stato;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), relativo alla legge sull'amministrazione del patrimonio e la contabilita' generale dello Stato;
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare provvedimenti per la regolarizzazione e la contabilizzazione delle entrate e delle spese dello Stato relative alla gestione dell'esercizio finanziario 1969;
 
@@ -22,8 +22,8 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-Le entrate relative all'esercizio finanziario 1969, accertate entro i termini regolamentari s'intendono versate entro la data indicata dal [secondo comma dello art. 30 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_30-com2), purche' il loro versamento abbia luogo entro il 28 febbraio 1970.
- I titoli di spesa relativi all'esercizio finanziario 1969, emessi entro i termini regolamentari, s'intendono pagati entro la data indicata dal [secondo comma dell'articolo 30 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_30-com2), purche' il loro pagamento abbia luogo entro il 28 febbraio 1970. Entro la medesima data e' consentito il pagamento degli ordinativi e dei buoni tratti sugli ordini di accreditamento emessi nei termini regolamentari.
+Le entrate relative all'esercizio finanziario 1969, accertate entro i termini regolamentari s'intendono versate entro la data indicata dal [secondo comma dello art. 30 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), purche' il loro versamento abbia luogo entro il 28 febbraio 1970.
+ I titoli di spesa relativi all'esercizio finanziario 1969, emessi entro i termini regolamentari, s'intendono pagati entro la data indicata dal [secondo comma dell'articolo 30 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), purche' il loro pagamento abbia luogo entro il 28 febbraio 1970. Entro la medesima data e' consentito il pagamento degli ordinativi e dei buoni tratti sugli ordini di accreditamento emessi nei termini regolamentari.
  Nei casi di cui al comma precedente, per i pagamenti effettuati sulla base di elenchi nominativi, a seguito di autorizzazioni del Ministero del tesoro, gli uffici pagatori allegheranno ai titoli di spesa gli elenchi debitamente quietanzati.
 
 ## Art. 2.

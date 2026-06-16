@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli [articoli 48 e seguenti del Regio decreto-legge 9 ottobre 1919, n. 2161](Che%20reca%20disposizioni%20sulle%20derivazioni%20ed%20utilizzazioni%20dacque%20pubbliche%20stabilendo%20altresi%20le%20norme%20di%20giurisdizione%20e%20di%20procedura%20del%20contenzioso%20sulle%20acque%20pubbliche.%20019U2161.md), sulle derivazioni ed utilizzazioni d'acque pubbliche, che contengono provvedimenti per agevolare la costruzione di serbatoi e laghi artificiali e l'art. 126, ultimo comma, del decreto stesso, che deferi' al Governo di dettare le disposizioni transitorie occorrenti;
 
-Visto l'art 85 del regolamento approvato con [R. decreto 14 agosto 1920, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1285), che stabilisce, in via transitoria, il termine per la presentazione delle documentate domande per le concessioni delle agevolazioni di cui ai citati [articoli 48 e seguenti del R. decreto-legge 9 ottobre 1919, n. 2161](Che%20reca%20disposizioni%20sulle%20derivazioni%20ed%20utilizzazioni%20dacque%20pubbliche%20stabilendo%20altresi%20le%20norme%20di%20giurisdizione%20e%20di%20procedura%20del%20contenzioso%20sulle%20acque%20pubbliche.%20019U2161.md), con scadenza al 16 aprile 1921;
+Visto l'art 85 del regolamento approvato con [R. decreto 14 agosto 1920, n. 1285](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20derivazioni%20e%20utilizzazioni%20di%20acque%20pubbliche.%20020U1285.md), che stabilisce, in via transitoria, il termine per la presentazione delle documentate domande per le concessioni delle agevolazioni di cui ai citati [articoli 48 e seguenti del R. decreto-legge 9 ottobre 1919, n. 2161](Che%20reca%20disposizioni%20sulle%20derivazioni%20ed%20utilizzazioni%20dacque%20pubbliche%20stabilendo%20altresi%20le%20norme%20di%20giurisdizione%20e%20di%20procedura%20del%20contenzioso%20sulle%20acque%20pubbliche.%20019U2161.md), con scadenza al 16 aprile 1921;
 
 Udito il Consiglio dei ministri;
 
@@ -24,7 +24,7 @@ Su proposta del Nostro ministro segretario di Stato per i lavori pubblici, di co
 
 ## Art. 1.
 
-Il termine prescritto dell'art. 85 del regolamento sulle derivazioni ed utilizzazioni d'acque pubbliche, approvato col [R. decreto 14 agosto 1920, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1285), e' prorogato di un anno e verra' quindi a scadere addi' 16 aprile 1922.
+Il termine prescritto dell'art. 85 del regolamento sulle derivazioni ed utilizzazioni d'acque pubbliche, approvato col [R. decreto 14 agosto 1920, n. 1285](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20derivazioni%20e%20utilizzazioni%20di%20acque%20pubbliche.%20020U1285.md), e' prorogato di un anno e verra' quindi a scadere addi' 16 aprile 1922.
 
 ## Art. 2.
 

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il diritto all'indennita' di residenza previsto dalla [legge 22 novembre 1954, n. 1107](Adeguamento%20delle%20indennita%20di%20residenza%20per%20le%20farmacie%20rurali.md), decorre dalla data indicata nel provvedimento emanato dalla Commissione provinciale, contemplata nell'[articolo 105 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_105), e relative modificazioni.
+Il diritto all'indennita' di residenza previsto dalla [legge 22 novembre 1954, n. 1107](Adeguamento%20delle%20indennita%20di%20residenza%20per%20le%20farmacie%20rurali.md), decorre dalla data indicata nel provvedimento emanato dalla Commissione provinciale, contemplata nell'[articolo 105 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e relative modificazioni.
  Esso ha la durata massima di cinque anni e potra' essere rinnovato a domanda dell'interessato, nel qual caso la Commissione provinciale dovra' di nuovo pronunciarsi.
  Ai titolari delle farmacie situate nei Comuni con popolazione inferiore ai tremila abitanti l'indennita' di residenza puo' essere concessa fino alla misura di 400.000 lire annue purche' il loro reddito, tassabile agli effetti dell'imposta di ricchezza mobile, non superi le 800.000 lire annue.
 

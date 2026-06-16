@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 1, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945);
+Veduto il [R. decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la educazione naziona
 
 ## Art. 1.
 
-Alle scuole di cui all'[art. 1 del R. decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945#art_1), e' aggiunta, limitatamente al Regio conservatorio di musica di Milano, la «Scuola di musica e canto per la preparazione degli insegnanti medi». 
+Alle scuole di cui all'[art. 1 del R. decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md), e' aggiunta, limitatamente al Regio conservatorio di musica di Milano, la «Scuola di musica e canto per la preparazione degli insegnanti medi». 
  
  All'insegnamento di cui sopra si provvede entro il limite dei posti stabiliti dalla tabella organica degli insegnanti dei Regi conservatori di musica allegata al [R. decreto 26 maggio 1932, n. 835](Istituzione%20di%20un%20nuovo%20posto%20di%20ruolo%20negli%20organici%20degli%20insegnanti%20dei%20Regi%20conservatori%20di%20musica.%20032U0835.md).
 
@@ -36,7 +36,7 @@ Gli esami per il conseguimento del relativo diploma si sostengono dopo tre anni 
 
 ## Art. 3.
 
-Per l'iscrizione al corso e' richiesto l'attestato di compimento del periodo medio di una delle scuole di composizione, organo, pianoforte, violino, viola e violoncello, oppure del periodo inferiore della scuola di arpa, oppure la licenza normale di dette scuole, conseguita in base agli antichi ordinamenti ed equiparata ai predetti attestati di compimento dall'[art. 20 del R. decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945#art_20). 
+Per l'iscrizione al corso e' richiesto l'attestato di compimento del periodo medio di una delle scuole di composizione, organo, pianoforte, violino, viola e violoncello, oppure del periodo inferiore della scuola di arpa, oppure la licenza normale di dette scuole, conseguita in base agli antichi ordinamenti ed equiparata ai predetti attestati di compimento dall'[art. 20 del R. decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md). 
  
  E' altresi' titolo per l'ammissione il diploma di canto del ramo didattico. 
  

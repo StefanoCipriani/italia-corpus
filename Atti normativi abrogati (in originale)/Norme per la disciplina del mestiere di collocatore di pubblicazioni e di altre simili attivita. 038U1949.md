@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) 18 giugno 1931-IX, n. 773;
+Visto il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931-IX, n. 773;
 
 Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 
@@ -30,7 +30,7 @@ Sulla proposta del DUCE, Primo Ministro Segretario di Stato, Ministro per l'inte
 
 Non puo' essere esercitato il mestiere di collocatore di pubblicazioni, di procacciatore di abbonamenti a riviste o a periodici, ne' altre simili attivita', senza licenza del questore. 
  
- La licenza non puo' essere concessa alle persone che si trovino nelle condizioni di cui all'[art. 11 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_11) 18 giugno 1931-IX, n. 773. 
+ La licenza non puo' essere concessa alle persone che si trovino nelle condizioni di cui all'[art. 11 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931-IX, n. 773. 
  
  I trasgressori sono puniti con l'arresto fino a tre mesi e con l'ammenda sino a L. 2000. 
  

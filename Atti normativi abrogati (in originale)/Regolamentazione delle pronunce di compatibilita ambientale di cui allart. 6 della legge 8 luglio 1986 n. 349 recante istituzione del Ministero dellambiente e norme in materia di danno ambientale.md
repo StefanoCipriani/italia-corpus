@@ -65,7 +65,7 @@ Le disposizioni del presente articolo non si applicano alle opere destinate alla
 
 NOTE
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Nota al titolo:
  L'[art. 6 della legge n. 349/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;349#art_6) dispone quanto segue:
@@ -121,7 +121,7 @@ Si intendono per progetti delle opere di cui all'art. 1 i progetti di massima de
                         h)
                             per progetti dei porti commerciali marittimi, i progetti stessi devono essere inoltrati prima della concessione da parte dei Ministri competenti;
                         i)
-                            per progetti delle dighe e degli altri impianti destinati a trattenere, regolare o accumulare le acque, si intendono i progetti di massima allegati alla domanda di concessione di derivazione d'acqua cosi' come previsto all'[art. 9 del regio decreto del 14 agosto 1920, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1285#art_9), al [regio decreto 11 dicembre 1933, n. 1775, e all'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_1) del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363; gli stessi devono essere inoltrati prima della concessione alla derivazione, anche provvisoria, da parte del Ministro dei lavori pubblici.
+                            per progetti delle dighe e degli altri impianti destinati a trattenere, regolare o accumulare le acque, si intendono i progetti di massima allegati alla domanda di concessione di derivazione d'acqua cosi' come previsto all'[art. 9 del regio decreto del 14 agosto 1920, n. 1285](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20le%20derivazioni%20e%20utilizzazioni%20di%20acque%20pubbliche.%20020U1285.md), al [regio decreto 11 dicembre 1933, n. 1775, e all'art. 1](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) del decreto del Presidente della Repubblica 1 novembre 1959, n. 1363; gli stessi devono essere inoltrati prima della concessione alla derivazione, anche provvisoria, da parte del Ministro dei lavori pubblici.
 
 2.
 

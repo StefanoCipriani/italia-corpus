@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Ritenuto che le opposizioni dei comuni di Pellio e Ramponio risultano infondate, in quanto rilevasi dalla compiuta istruttoria che il primo e' interessato al mantenimento dell'approdo d'Argegno e che la quota di contributo imposta al secondo fu determinata applicando i criteri stabiliti dal regolamento portuale 26 settembre 1904, n. 713; 
  
- Visti il testo unico della legge sui porti 16 aprile 1884, n. 2518, approvato con [R. decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095), ed il relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713); 
+ Visti il testo unico della legge sui porti 16 aprile 1884, n. 2518, approvato con [R. decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), ed il relativo [regolamento 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1904-09-26;713); 
  
  Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici; 
  

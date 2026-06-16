@@ -47,7 +47,7 @@ Il risultato di questi questi sara' definitivo dopo che le Universita' di proven
 
 ## Art. 3.
 
-Le Autorita' Accademiche della Universita' di Bari sono facoltate, limitatamente alla predetta sessione straordinaria di esami, a nominare commissioni esaminatrici in maniera difforme da quella indicata dallo [art. 42 del R.D. 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269#art_42).
+Le Autorita' Accademiche della Universita' di Bari sono facoltate, limitatamente alla predetta sessione straordinaria di esami, a nominare commissioni esaminatrici in maniera difforme da quella indicata dallo [art. 42 del R.D. 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md).
 
 ## Art. 4.
 
@@ -67,6 +67,6 @@ Per essere ammessi alla sessione di esame e' necessario comprovare la qualita' d
  
  Badoglio - Cuomo - Jung 
  
- Visto: (ai sensi dei [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi dei [R.D. 30 ottobre 1943, n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: Badoglio

@@ -14,7 +14,7 @@ PEE GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento sul servizio automobilistico per l'Amministrazione dello Stato approvato con [R. decreto 3 aprile 1926, n. 746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-03;746);
+Visto il regolamento sul servizio automobilistico per l'Amministrazione dello Stato approvato con [R. decreto 3 aprile 1926, n. 746](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20automobilistico%20per%20le%20Amministrazioni%20dello%20Stato.%20026U0746.md);
 
 Udito il Consiglio di Stato;
 

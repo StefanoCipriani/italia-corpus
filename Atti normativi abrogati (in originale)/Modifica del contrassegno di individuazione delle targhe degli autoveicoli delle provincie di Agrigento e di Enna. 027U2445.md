@@ -18,7 +18,7 @@ Visto il [R. decreto 31 dicembre 1923, n. 3043](https://www.normattiva.it/uri-re
 
 Visto il [R. decreto 13 marzo 1927, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-13;314);
 
-Visti i [Regi decreti 16 giugno 1927, n. 1143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-16;1143), e [27 ottobre 1927, n. 2050](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-27;2050), con i quali i comuni di Girgenti e di Castrogiovanni sono stati autorizzati a mutare la loro denominazione rispettivamente in Agrigento ed in Enna;
+Visti i [Regi decreti 16 giugno 1927, n. 1143](../Regi%20decreti/Autorizzazione%20al%20comune%20di%20Girgenti%20a%20mutare%20la%20propria%20denominazione%20in%20Agrigento.%20027U1143.md), e [27 ottobre 1927, n. 2050](../Regi%20decreti/Autorizzazione%20al%20comune%20di%20Castrogiovanni%20a%20cambiare%20la%20propria%20denominazione%20in%20quella%20di%20%20Enna%20.%20027U2050.md), con i quali i comuni di Girgenti e di Castrogiovanni sono stati autorizzati a mutare la loro denominazione rispettivamente in Agrigento ed in Enna;
 
 Visto il [R. decreto 26 giugno 1927, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-26;1570);
 

@@ -64,11 +64,11 @@ Il medico che rilevi casi di saturnismo o casi di presunto saturnismo riguardant
 
 ## Art. 12.
 
-I casi di intossicazione saturnina notificati ai sensi dell'articolo precedente devono formare oggetto di una visita medica di controllo. Qualora il lavoratore sia soggetto all'assicurazione obbligatoria contro le malattie professionali, a norma del [regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), e successive modifiche, la visita e' eseguita dai medici dell'Istituto assicuratore, il quale ne comunichera' l'esito all'Ispettorato del lavoro competente. In tutti gli altri casi la visita e' eseguita direttamente dagli ispettori medici del lavoro.
+I casi di intossicazione saturnina notificati ai sensi dell'articolo precedente devono formare oggetto di una visita medica di controllo. Qualora il lavoratore sia soggetto all'assicurazione obbligatoria contro le malattie professionali, a norma del [regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), e successive modifiche, la visita e' eseguita dai medici dell'Istituto assicuratore, il quale ne comunichera' l'esito all'Ispettorato del lavoro competente. In tutti gli altri casi la visita e' eseguita direttamente dagli ispettori medici del lavoro.
 
 ## Art. 13.
 
-Salve le maggiori sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti per la inosservanza delle norme previste nella presente legge, con l'ammenda da lire 50.000 a lire 300.000, i datori di lavoro, i produttori e i commercianti.
+Salve le maggiori sanzioni previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono puniti per la inosservanza delle norme previste nella presente legge, con l'ammenda da lire 50.000 a lire 300.000, i datori di lavoro, i produttori e i commercianti.
 
 ## Art. 14.
 

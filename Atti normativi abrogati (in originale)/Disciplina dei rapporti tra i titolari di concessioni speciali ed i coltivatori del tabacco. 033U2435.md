@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 I rapporti fra i titolari di concessioni speciali di coltura del tabacco per le Manifatture di Stato ed i coltivatori sono regolati da contratti di durata uguale a quella delle licenze di coltivazione, la efficacia dei quali rimane subordinata, ai sensi dell'art. 2, al nulla osta dell'Amministrazione dei monopoli di Stato per quanto riflette la persona del coltivatore. 
  
- I contratti sono depositati con la domanda definitiva di concessione speciale di cui all'art. 85 del regolamento per la coltivazione indigena del tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni.
+ I contratti sono depositati con la domanda definitiva di concessione speciale di cui all'art. 85 del regolamento per la coltivazione indigena del tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni.
 
 ## Art. 2.
 

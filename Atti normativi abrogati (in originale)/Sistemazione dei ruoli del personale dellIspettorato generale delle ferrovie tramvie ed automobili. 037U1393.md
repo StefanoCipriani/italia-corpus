@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni ed integrazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato;
 
 Visto il [R. decreto-legge 26 giugno 1927, n. 1570](Passaggio%20dellIspettorato%20generale%20delle%20ferrovie%20tramvie%20ed%20automobili%20dal%20Ministero%20dei%20lavori%20pubblici%20a%20quello%20delle%20comunicazioni.%20027U1570.md), convertito in legge con la [legge 6 dicembre 1928, n. 3045](Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20giugno%201927%20n.%201570%20relativo%20al%20passaggio%20dellIspettorato%20generale%20delle%20ferrovie%20tramvie%20ed%20automobili%20dal%20Ministero%20dei%20lavori%20pubblici%20a%20qu_9e524e1a2629.md), concernente il passaggio dell'Ispettorato generale delle ferrovie, tramvie ed automobili dal Ministero dei lavori pubblici a quello delle comunicazioni;
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo di legge del registro;
+Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo di legge del registro;
 
 Visto il [R. decreto-legge 1° luglio 1926, n. 1157](Provvedimenti%20relativi%20agli%20atti%20di%20concessione%20concernenti%20acqua%20gas%20ed%20energia%20elettrica.%20026U1157.md), convertito nella [legge 9 giugno 1927, n. 878](Conversione%20in%20legge%20del%20R.%20decreto-legge%201%20luglio%201926%20n.%201157%20recante%20provvedimenti%20relativi%20agli%20atti%20di%20concessione%20concernenti%20acqua%20gas%20ed%20energia%20elettrica.%20027U0878.md);
 
@@ -44,7 +44,7 @@ Ai fini del conguaglio annuale, la denuncia dei proventi lordi effettivi, di cui
 
 ## Art. 4.
 
-Il testo dell'art. 4 della tariffa Allegato A alla legge del registro approvata con il [R. decreto 30 dicembre 1923, numero 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' sostituito dal testo seguente: 
+Il testo dell'art. 4 della tariffa Allegato A alla legge del registro approvata con il [R. decreto 30 dicembre 1923, numero 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e' sostituito dal testo seguente: 
  
  
  

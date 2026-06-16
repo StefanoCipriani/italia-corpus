@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Uditi i pareri del Consiglio superiore dell'economia nazionale e del Consiglio di Stato; 
  
- Veduto il titolo IV del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) agosto 1907, n. 630, contenente le disposizioni sulla risicoltura, ed i regolamenti relativi ; 
+ Veduto il titolo IV del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) agosto 1907, n. 630, contenente le disposizioni sulla risicoltura, ed i regolamenti relativi ; 
  
  Veduto il [R. decreto 30 dicembre 1923, n. 2589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2589); 
  

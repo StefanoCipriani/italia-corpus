@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento approvato con [R. decreto 25 novembre 1929, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-25;2365);
+Visto il regolamento approvato con [R. decreto 25 novembre 1929, n. 2365](../Regi%20decreti/Regolamento%20per%20lesercizio%20professionale%20dei%20periti%20agrari.%20029U2365.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la grazia e giustizia
 
 ## Art. 1.
 
-Coloro i quali, trovandosi nelle condizioni prevedute nell'art. 22 del regolamento approvato con [R. decreto 25 novembre 1929, n. 2365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-25;2365), presentarono regolarmente, nel termine prescritto, domanda per la iscrizione nell'Albo dei periti agrari, hanno facolta' di chiedere che la Commissione, di cui allo stesso art. 22, riprenda in esame la loro domanda sulla base dei titoli e documenti gia' presentati e di quegli altri che ritenessero opportuno di esibire per meglio dimostrare il lodevole esercizio professionale. 
+Coloro i quali, trovandosi nelle condizioni prevedute nell'art. 22 del regolamento approvato con [R. decreto 25 novembre 1929, n. 2365](../Regi%20decreti/Regolamento%20per%20lesercizio%20professionale%20dei%20periti%20agrari.%20029U2365.md), presentarono regolarmente, nel termine prescritto, domanda per la iscrizione nell'Albo dei periti agrari, hanno facolta' di chiedere che la Commissione, di cui allo stesso art. 22, riprenda in esame la loro domanda sulla base dei titoli e documenti gia' presentati e di quegli altri che ritenessero opportuno di esibire per meglio dimostrare il lodevole esercizio professionale. 
  
  La richiesta di riesame deve essere presentata, insieme con i documenti, al Ministero dell'educazione nazionale entro il termine perentorio di sei mesi dall'entrata in vigore del presente decreto anche se l'interessato abbia impugnato con ricorso al Consiglio di Stato o in altro modo la precedente deliberazione della Commissione.
 

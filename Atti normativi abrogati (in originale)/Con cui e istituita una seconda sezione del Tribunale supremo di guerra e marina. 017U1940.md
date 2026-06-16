@@ -22,7 +22,7 @@ Il numero dei giudici effettivi non militari di cui attualmente si compone il Tr
 
 ## Art. 3.
 
-Il numero dei giudici militari effettivi, dello stesso Tribunale supremo di guerra e marina, e' aumentato di un ufficiale generale del R. esercito che si trovi in una delle posizioni di cui all'[art. 318 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito.
+Il numero dei giudici militari effettivi, dello stesso Tribunale supremo di guerra e marina, e' aumentato di un ufficiale generale del R. esercito che si trovi in una delle posizioni di cui all'[art. 318 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito.
 
 ## Art. 4.
 

@@ -40,7 +40,7 @@ Il produttore, negoziante o rivenditore all'ingrosso o al minuto, il quale si co
 
 ## Art. 6.
 
-Salva la disposizione dell'[art. 326 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque accaparri o incetti o comunque sottragga al consumo normale materie prime, generi alimentari di prima necessita' o altra merce di uso popolare, e' punito con la reclusione sino a cinque anni e con la multa sino a L. 5000. 
+Salva la disposizione dell'[art. 326 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque accaparri o incetti o comunque sottragga al consumo normale materie prime, generi alimentari di prima necessita' o altra merce di uso popolare, e' punito con la reclusione sino a cinque anni e con la multa sino a L. 5000. 
  
  Le materie, generi e merci accaparrate, incettate o comunque sottratte al normale consumo, saranno sequestrate e immediatamente consegnate a Consorzi o Enti cooperativi di produzione o di vendita, all'uopo designati dal prefetto della Provincia, i quali ne curano la vendita a prezzi equi. Le somme ricavate sono devolute allo Stato e da questo destinate alla cooperazione. 
  
@@ -92,7 +92,7 @@ In ogni capoluogo di Provincia, a cura del prefetto, sara' costituita una Commis
  
  I provvedimenti della Commissione saranno esecutivi con le norme dell'[articolo 10 e seguenti del decreto Luogotenenziale 21 novembre 1918, n. 1745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-21;1745#art_10). 
  
- Contro i provvedimenti emanati dalle Commissioni e' ammesso ricorso alla Corte d'appello che ha giurisdizione sul territorio della Provincia. Essa procedera' all'istruzione e al giudizio con le norme del [Regio decreto 28 settembre 1919, n. 1822](Che%20sopprime%20il%20collegio%20giurisdizionale%20speciale%20denominato%20Comitato%20dei%20ricorsi%20penali%20istituito%20col%20decreto%20Luogotenenziale%2017%20giugno%201917%20n.%20978%20e%20ne%20deferisce%20le%20attribuzioni%20alle%20Co_7034a157a229.md).
+ Contro i provvedimenti emanati dalle Commissioni e' ammesso ricorso alla Corte d'appello che ha giurisdizione sul territorio della Provincia. Essa procedera' all'istruzione e al giudizio con le norme del [Regio decreto 28 settembre 1919, n. 1822](../Regi%20decreti/Che%20sopprime%20il%20collegio%20giurisdizionale%20speciale%20denominato%20Comitato%20dei%20ricorsi%20penali%20istituito%20col%20decreto%20Luogotenenziale%2017%20giugno%201917%20n.%20978%20e%20ne%20deferisce%20le%20attribuzioni%20alle%20Co_7034a157a229.md).
 
 ## Art. 11.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), modificato dalle [leggi 22 dicembre 1905, n. 592, 22 dicembre 1907, n. 794, e 6 luglio 1922, n. 1157](Che%20converte%20in%20legge%20il%20decreto%20Luogotenenziale%203%20settembre%201916%20n.%201158%20recante%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20022U1157.md);
 
-Veduto il regolamento per l'esecuzione del predetto testo unico, approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Veduto il regolamento per l'esecuzione del predetto testo unico, approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Veduto il [R. decreto 23 novembre 1924, n. 1941](Autorizzazione%20alla%20societa%20Credito%20Fondiario%20Latino%20con%20sede%20in%20Roma%20allesercizio%20del%20credito%20fondiario%20in%20tutto%20il%20Regno%20ed%20approvazione%20dello%20statuto%20relativo.%20024U1941.md), col quale la Societa' anonima «Credito fondiario latino», con sede in Roma, e' stata autorizzata ad esercitare il credito fondiario in tutto il Regno;
 

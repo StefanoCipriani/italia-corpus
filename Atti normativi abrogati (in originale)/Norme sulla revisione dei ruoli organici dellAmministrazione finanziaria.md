@@ -24,7 +24,7 @@ Presso il Ministero delle finanze sono istituite le seguenti direzioni generali:
 ## Art. 2.
 
 I ruoli organici del personale dipendente dal Ministero delle finanze sono stabiliti nei quadri annessi alla presente legge.
- Ai fini dell'applicazione delle norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, l'equiparazione fra le qualifiche contemplate nei predetti ruoli organici e quelle previste dagli articoli 153, 171, 180, 188 e 195 dello stesso testo unico e' effettuata, ove occorra, in base ai rispettivi coefficienti di stipendio.
+ Ai fini dell'applicazione delle norme contenute nel testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni, l'equiparazione fra le qualifiche contemplate nei predetti ruoli organici e quelle previste dagli articoli 153, 171, 180, 188 e 195 dello stesso testo unico e' effettuata, ove occorra, in base ai rispettivi coefficienti di stipendio.
 
 ## Art. 3.
 
@@ -43,16 +43,16 @@ L'indennita' di cui all'[articolo 15 della legge 27 maggio 1959, n. 324](https:/
 
 ## Art. 6.
 
-Gli ispettori superiori per i servizi della finanza locale sono nominati, a domanda, su conforme parere del Consiglio di amministrazione, tra gli impiegati che rivestono la qualifica di direttore di sezione ed equiparata nei ruoli delle carriere direttive dell'Amministrazione centrale delle finanze, dell'Amministrazione civile dell'interno, delle Intendenze di finanza, dell'Amministrazione centrale del tesoro e della Ragioneria generale dello Stato, nonche' tra gli impiegati che rivestono una corrispondente qualifica direttiva nelle carriere speciali dei Ministeri delle finanze, del tesoro e dell'interno. Si osservano le modalita' di cui all'articolo 199 del testo unico, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per la nomina degli impiegati appartenenti a ruoli di Amministrazioni diverse da quella finanziaria.
+Gli ispettori superiori per i servizi della finanza locale sono nominati, a domanda, su conforme parere del Consiglio di amministrazione, tra gli impiegati che rivestono la qualifica di direttore di sezione ed equiparata nei ruoli delle carriere direttive dell'Amministrazione centrale delle finanze, dell'Amministrazione civile dell'interno, delle Intendenze di finanza, dell'Amministrazione centrale del tesoro e della Ragioneria generale dello Stato, nonche' tra gli impiegati che rivestono una corrispondente qualifica direttiva nelle carriere speciali dei Ministeri delle finanze, del tesoro e dell'interno. Si osservano le modalita' di cui all'articolo 199 del testo unico, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), per la nomina degli impiegati appartenenti a ruoli di Amministrazioni diverse da quella finanziaria.
 
 ## Art. 7.
 
-All'articolo 255 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' aggiunto il seguente comma:
+All'articolo 255 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' aggiunto il seguente comma:
  "Lo statistico consegue la promozione a statistico superiore, a statistico capo e ad ispettore generale statistico, senza esami, previo giudizio favorevole del Consiglio di amministrazione, rispettivamente, dopo sei anni di effettivo servizio nella qualifica di statistico, sei anni di effettivo servizio nella qualifica di statistico superiore e sei anni di effettivo servizio nella qualifica di statistico capo".
 
 ## Art. 8.
 
-L'articolo 257 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e sostituito dal seguente:
+L'articolo 257 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e sostituito dal seguente:
  "La qualifica equiparata a direttore di divisione nel ruolo ad esaurimento della carriera direttiva del servizio tecnico agrario e' conferita, previo giudizio favorevole del Consiglio di amministrazione, al direttore agrario che abbia compiuto, in qualifiche equiparate a direttore di sezione, sei anni di effettivo servizio.
  La successiva qualifica equiparata ad ispettore generale e' conferita, con le stesse modalita', al direttore agrario che abbia compiuto nella qualifica equiparata a direttore di divisione otto anni di effettivo servizio".
 
@@ -69,11 +69,11 @@ Le funzioni di dirigenza dei compartimenti doganali di ispezione, degli ispettor
 ## Art. 11.
 
 Gli agenti tecnici capi e gli agenti tecnici provvedono alla manutenzione degli impianti, delle macchine e delle attrezzature d'ufficio, alla guida e manutenzione degli automezzi o alle altre incombenze previste dagli ordinamenti di servizio.
- La nomina ad agente tecnico si consegue esclusivamente mediante pubblico concorso ai sensi dell'articolo 190 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ La nomina ad agente tecnico si consegue esclusivamente mediante pubblico concorso ai sensi dell'articolo 190 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ## Art. 12.
 
-La nomina alla qualifica di custode di immobili demaniali si consegue con le modalita' stabilite dall'articolo 190 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+La nomina alla qualifica di custode di immobili demaniali si consegue con le modalita' stabilite dall'articolo 190 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  L'espletamento dei servizi di custodia e portierato degli stabili di proprieta' dello Stato e' regolato da appositi disciplinari di servizio stabiliti per ciascun immobile demaniale sottoposto a vigilanza o custodia.
  Il disciplinare regola fra l'altro;
  a) gli obblighi di servizio del custode;
@@ -104,7 +104,7 @@ Con effetto dalla data di entrata in vigore della presente legge:
 
 ## Art. 16.
 
-Gli impiegati con qualifica ad personam previsti dall'articolo 198 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), possono essere collocati, a domanda, da presentarsi entro 60 giorni dalla data di entrata in vigore della presente legge e previo parere favorevole del Consiglio di amministrazione, nei corrispondenti ruoli previsti dagli annessi quadri 6, 7 e 8, a decorrere dalla predetta data, conservando l'anzianita' di carriera e la qualifica acquisita e prendendo posto dopo l'ultimo degli impiegati appartenenti alla qualifica nella quale vengono inquadrati.
+Gli impiegati con qualifica ad personam previsti dall'articolo 198 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), possono essere collocati, a domanda, da presentarsi entro 60 giorni dalla data di entrata in vigore della presente legge e previo parere favorevole del Consiglio di amministrazione, nei corrispondenti ruoli previsti dagli annessi quadri 6, 7 e 8, a decorrere dalla predetta data, conservando l'anzianita' di carriera e la qualifica acquisita e prendendo posto dopo l'ultimo degli impiegati appartenenti alla qualifica nella quale vengono inquadrati.
  Il collocamento di cui al comma precedente si opera prescindendo dal parere del Consiglio di amministrazione se l'impiegato con qualifica ad personam ha riportato nell'ultimo triennio un giudizio complessivo di "ottimo".
  Gli impiegati di cui ai precedenti commi non possono essere scrutinati per la promozione alla qualifica superiore sino a quando non avranno raggiunto la anzianita' prescritta per la promozione medesima gli impiegati di pari qualifica che li precedono nell'ordine di ruolo.
 
@@ -134,7 +134,7 @@ Entro un anno dall'entrata in vigore della presente legge, i posti disponibili d
 
 ## Art. 20.
 
-Nella prima applicazione della presente legge i tre quarti dei posti complessivamente disponibili, dopo gli inquadramenti di cui agli articoli precedenti, in ciascuna delle carriere di concetto previste negli annessi quadri 9, 10 (ruolo del personale amministrativo-contabile), 11 (ruolo dei contabili degli uffici tecnici delle imposte di fabbricazione), 12 e 13 (ruolo dei cassieri degli uffici del registro) sono conferiti, in base a graduatoria di merito formata dal Consiglio di amministrazione, agli impiegati del ruolo organico della corrispondente carriera esecutiva dello stesso ramo della Amministrazione finanziaria, che siano provvisti di diploma di istituto di istruzione secondaria di secondo grado, ovvero siano in possesso dei requisiti stabiliti dal quarto comma dell'articolo 173 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Nella prima applicazione della presente legge i tre quarti dei posti complessivamente disponibili, dopo gli inquadramenti di cui agli articoli precedenti, in ciascuna delle carriere di concetto previste negli annessi quadri 9, 10 (ruolo del personale amministrativo-contabile), 11 (ruolo dei contabili degli uffici tecnici delle imposte di fabbricazione), 12 e 13 (ruolo dei cassieri degli uffici del registro) sono conferiti, in base a graduatoria di merito formata dal Consiglio di amministrazione, agli impiegati del ruolo organico della corrispondente carriera esecutiva dello stesso ramo della Amministrazione finanziaria, che siano provvisti di diploma di istituto di istruzione secondaria di secondo grado, ovvero siano in possesso dei requisiti stabiliti dal quarto comma dell'articolo 173 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
  La graduatoria di cui al comma precedente e' formata tenendo conto del titolo di studio, delle mansioni svolte dall'impiegato nell'ultimo triennio quali risultano dai relativi rapporti informativi, dei giudizi contenuti nei rapporti informativi stessi, nonche' dello esito di un esame consistente in un colloquio vertente su servizi d'istituto dell'Amministrazione di appartenenza. La Commissione esaminatrice e' composta da un impiegato della carriera direttiva con qualifica non inferiore ad ispettore generale o equiparata, che la presiede da quattro impiegati della carriera, direttiva con qualifica non inferiore a direttore di divisione o equiparata.
  Un impiegato della carriera direttiva dell'Amministrazione centrale con qualifica non inferiore a consigliere di 2ª classe assolve le funzioni di segretario.
  Per ottenere l'inquadramento previsto dal primo comma, gli interessati debbono produrre domanda, a pena di decadenza, entro sessanta giorni dalla data di entrata in vigore della presente legge; l'inquadramento decorre dalla data medesima.
@@ -255,7 +255,7 @@ I dipendenti in servizio alla data di entrata in vigore della presente legge ben
  Tale riduzione non si applica nel caso in cui i periodi minimi di
  anzianita' richiesti per le promozioni siano inferiori ad un biennio.
 Per la effettuazione degli scrutini e per la decorrenza delle
-relative promozioni, di cui agli articoli 166 e 187 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), si prescinde, sino alla suddetta data del 31 dicembre 1966, dai termini previsti dagli articoli medesimi.
+relative promozioni, di cui agli articoli 166 e 187 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), si prescinde, sino alla suddetta data del 31 dicembre 1966, dai termini previsti dagli articoli medesimi.
 
 ## Art. 40.
 

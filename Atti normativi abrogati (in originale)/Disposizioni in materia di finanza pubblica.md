@@ -28,7 +28,7 @@ La ritenuta in conto entrata Tesoro prevista dall'[articolo 13 della legge 29 ap
 
 2.
 
-Con le stesse decorrenze la ritenuta per il Fondo pensioni del personale dell'Ente ferrovie dello Stato, prevista dall'articolo 211, lettera a), del testo unico approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), come modificato dall'[articolo 21 della legge 29 aprile 1976, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177#art_21), e dall'[articolo 9 della legge 17 aprile 1985, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-17;141#art_9), e' fissata nelle misure, rispettivamente, del 6,75, 6,95 e 7,15 per cento.
+Con le stesse decorrenze la ritenuta per il Fondo pensioni del personale dell'Ente ferrovie dello Stato, prevista dall'articolo 211, lettera a), del testo unico approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), come modificato dall'[articolo 21 della legge 29 aprile 1976, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177#art_21), e dall'[articolo 9 della legge 17 aprile 1985, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-17;141#art_9), e' fissata nelle misure, rispettivamente, del 6,75, 6,95 e 7,15 per cento.
 
 3.
 
@@ -36,7 +36,7 @@ Per le domande di riscatto, presentate a decorrere dal 1 gennaio 1989, dal 1
 
 4.
 
-A decorrere dal 1 gennaio 1989, negli [articoli 13 della legge 29 aprile 1976, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177#art_13), e 211, lettera a), del testo unico approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), come modificato dall'[articolo 21 della legge 29 aprile 1976, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177#art_21), le parole: "dell'80 per cento" sono soppresse.
+A decorrere dal 1 gennaio 1989, negli [articoli 13 della legge 29 aprile 1976, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177#art_13), e 211, lettera a), del testo unico approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md), come modificato dall'[articolo 21 della legge 29 aprile 1976, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177#art_21), le parole: "dell'80 per cento" sono soppresse.
 
 5.
 
@@ -46,7 +46,7 @@ Il contributo personale dovuto dagli iscritti alla Cassa per le pensioni ai dipe
 
 1.
 
-Il [sesto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_12-com6) e [settimo comma dell'articolo 12 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_12-com7), e successive modificazioni, sono sostituiti dai seguenti: 
+Il [sesto](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [settimo comma dell'articolo 12 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, sono sostituiti dai seguenti: 
  "Con decreto del Ministro del tesoro puo' consentirsi, per periodi di durata determinata, che, in deroga a quanto disposto dal precedente quarto comma, le amministrazioni dello Stato, comprese quelle autonome, anticipino fino al 10 per cento del prezzo, a fronte della prestazione di idonee garanzie bancarie o equivalenti da parte del contraente; l'erogazione dell'anticipazione e' subordinata all'avvenuto inizio dei lavori, ovvero all'esecuzione della fornitura. La misura dell'anticipazione, il graduale recupero della medesima e il grado delle garanzie, sono stabiliti con il suddetto decreto. 
  Le anticipazioni sono revocate ove l'esecuzione del contratto non sia proseguita secondo gli obblighi contrattuali. In tal caso spettano all'Amministrazione anche gli interessi legali sulle somme anticipate".
 
@@ -56,7 +56,7 @@ Sono abrogate tutte le disposizioni incompatibili con il comma 1.
 
 3.
 
-Nei casi previsti dal [quinto comma dell'articolo 12 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_12-com5), l'anticipazione non puo' in ogni caso superare la misura del 25 per cento.
+Nei casi previsti dal [quinto comma dell'articolo 12 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), l'anticipazione non puo' in ogni caso superare la misura del 25 per cento.
 
 4.
 
@@ -68,7 +68,7 @@ Sono fatte salve le modalita' di anticipazione previste nei contratti gia' aggiu
 
 Il [secondo comma dell'art. 28 della legge 5 agosto 1981, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416#art_28-com2), e' sostituito dal seguente:
  "La stessa riduzione di cui al comma precedente si applica per la cessione in uso di circuiti telefonici per la utilizzazione telefotografica, telegrafica, fototelegrafica per trasmissioni in fac-simile a distanza delle pagine del giornale e delle telefoto per trasmissioni in simultanea, telegrafiche e fototelegrafiche con apparecchiature multiplex, nonche' alle tariffe telex e telegrafiche.
-Il Ministro delle poste e delle telecomunicazioni e' autorizzato a praticare in favore delle imprese di cui al primo comma riduzioni della tariffa ordinaria delle stampe periodiche spedite in abbonamento postale. La classificazione delle stampe ai fini dell'applicazione della tariffa ridotta prevista dall'articolo 56, primo comma, del testo unico approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), non puo' essere fatta in base ad elementi diversi da quello della periodicita' della loro pubblicazione, salvo per quelle di cui all'[articolo 10, comma 1, lettera c), della legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67#art_10-com1-letc), che saranno inserite nello stesso gruppo di spedizione in abbonamento postale dei giornali quotidiani, a condizione che abbiano effettiva natura informativa. I provvedimenti del Ministro delle poste e delle telecomunicazioni di cui al presente comma sono comunicati al Garante dell'editoria, che ne riferisce al Parlamento nell'ambito della relazione semestrale".
+Il Ministro delle poste e delle telecomunicazioni e' autorizzato a praticare in favore delle imprese di cui al primo comma riduzioni della tariffa ordinaria delle stampe periodiche spedite in abbonamento postale. La classificazione delle stampe ai fini dell'applicazione della tariffa ridotta prevista dall'articolo 56, primo comma, del testo unico approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), non puo' essere fatta in base ad elementi diversi da quello della periodicita' della loro pubblicazione, salvo per quelle di cui all'[articolo 10, comma 1, lettera c), della legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67#art_10-com1-letc), che saranno inserite nello stesso gruppo di spedizione in abbonamento postale dei giornali quotidiani, a condizione che abbiano effettiva natura informativa. I provvedimenti del Ministro delle poste e delle telecomunicazioni di cui al presente comma sono comunicati al Garante dell'editoria, che ne riferisce al Parlamento nell'ambito della relazione semestrale".
 
 2.
 

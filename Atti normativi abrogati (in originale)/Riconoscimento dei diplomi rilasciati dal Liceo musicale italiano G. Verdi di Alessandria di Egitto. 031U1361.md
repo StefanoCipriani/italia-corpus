@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 29 gennaio 1931, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-29;199); 
+ Visto il [R. decreto 29 gennaio 1931, n. 199](../Regi%20decreti/Norme%20per%20il%20riconoscimento%20degli%20studi%20compiuti%20in%20Istituti%20musicali%20italiani%20allestero.%20031U0199.md); 
  Vista la istanza presentata dal Liceo musicale italiano «G. Verdi» di Alessandria di Egitto; 
  Vista la relazione della Commissione incaricata di procedere all'accertamento dei requisiti tecnici didattici amministrativi del predetto Liceo musicale; 
  Sulla proposta del Nostro Ministro Segretario di Stato per la educazione nazionale, di concerto con quello per gli affari esteri; 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata ;
 
-Visto il testo unico delle leggi sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modifiche;
+Visto il testo unico delle leggi sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modifiche;
 
 Visto il R. decreto-legge 31. gennaio 1944, n. 41, concernente norme per la reintegrazione a favore degli esattori delle imposte, delle maggiori spese di riscossione;
 

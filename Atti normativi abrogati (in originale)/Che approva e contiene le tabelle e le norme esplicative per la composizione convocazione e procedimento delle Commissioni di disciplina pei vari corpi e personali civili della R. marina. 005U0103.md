@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 187 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70, e gli articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_12) e [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70#art_13) del regolamento per la sua esecuzione, approvato con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603), ove e' stabilito che la cessazione dal servizio disposta di autorita' non possa essere decretata se non dopo sentito il parere di un'apposita Commissione.
+Visto l'art. 187 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70, e gli articoli 12](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) e [13](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) del regolamento per la sua esecuzione, approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md), ove e' stabilito che la cessazione dal servizio disposta di autorita' non possa essere decretata se non dopo sentito il parere di un'apposita Commissione.
 
 Visti i RR. decreti 14 gennaio 1872 e 26 aprile 1875 relativi al personale dell'Amministrazione centrale della R. marina;
 

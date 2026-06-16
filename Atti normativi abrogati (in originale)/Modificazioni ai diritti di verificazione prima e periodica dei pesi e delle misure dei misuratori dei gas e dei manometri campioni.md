@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il testo unico delle leggi metriche 23 agosto 1890, n. 7088 (serie 3a);
 
-Visto il [regio decreto-legge 28 novembre 1938, numero 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), col quale vennero modificati i diritti metrici fissati dal [regio decreto 21 ottobre 1923, n. 2367](Revisione%20delle%20entrate%20minori.%20023U2367.md);
+Visto il [regio decreto-legge 28 novembre 1938, numero 1941](Modificazioni%20ai%20diritti%20metrici.%20038U1941.md), col quale vennero modificati i diritti metrici fissati dal [regio decreto 21 ottobre 1923, n. 2367](../Regi%20decreti/Revisione%20delle%20entrate%20minori.%20023U2367.md);
 
 Visto il [decreto legislativo luogotenenziale 10 agosto 1944, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;181), col quale detti diritti vennero ulteriormente modificati;
 

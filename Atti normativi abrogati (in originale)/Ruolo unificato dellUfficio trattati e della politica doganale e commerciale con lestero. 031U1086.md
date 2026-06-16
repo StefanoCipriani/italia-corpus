@@ -19,7 +19,7 @@ I funzionari dei ruoli soppressi dell'Ufficio trattati e degli addetti commercia
 
 ## Art. 3.
 
-Per i concorsi e per le promozioni nel ruolo dell'Ufficio trattati e della politica doganale e commerciale valgono le disposizioni dei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sull'ordinamento gerarchico e sullo stato giuridico degli impiegati civili e successive modificazioni.
+Per i concorsi e per le promozioni nel ruolo dell'Ufficio trattati e della politica doganale e commerciale valgono le disposizioni dei [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sull'ordinamento gerarchico e sullo stato giuridico degli impiegati civili e successive modificazioni.
 
 ## Art. 4.
 
@@ -44,7 +44,7 @@ Ai funzionari di cui all'art. 5 e' attribuita la qualifica di consigliere commer
 
 ## Art. 8.
 
-I posti che risulteranno disponibili nei gradi 9°, 10° ed 11° alla prima attuazione del presente decreto, dopo l'inquadramento del personale dei due soppressi ruoli, saranno conferiti, se di grado 11°, in base alle disposizioni del [R. decreto 18 dicembre 1930, n. 1733](Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md); se di grado 9° o 10°, mediante concorsi per titoli ed esami ai quali potranno essere ammessi i funzionari dello Stato, provvisti delle lauree richieste per la carriera amministrativa del Ministero delle corporazioni, che rivestano almeno il grado 10° di gruppo A - od il 9° di gruppo B, - o abbiano superato, se di grado 10° di gruppo B, l'esame di idoneita' per la promozione al grado 9°. 
+I posti che risulteranno disponibili nei gradi 9°, 10° ed 11° alla prima attuazione del presente decreto, dopo l'inquadramento del personale dei due soppressi ruoli, saranno conferiti, se di grado 11°, in base alle disposizioni del [R. decreto 18 dicembre 1930, n. 1733](../Regi%20decreti/Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md); se di grado 9° o 10°, mediante concorsi per titoli ed esami ai quali potranno essere ammessi i funzionari dello Stato, provvisti delle lauree richieste per la carriera amministrativa del Ministero delle corporazioni, che rivestano almeno il grado 10° di gruppo A - od il 9° di gruppo B, - o abbiano superato, se di grado 10° di gruppo B, l'esame di idoneita' per la promozione al grado 9°. 
  Il Ministro per le corporazioni e' autorizzato a bandire i relativi concorsi.
 
 ## Art. 9.

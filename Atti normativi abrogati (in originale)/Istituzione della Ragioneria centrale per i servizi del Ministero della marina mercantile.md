@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il proprio decreto in data 13 luglio 1946, n. 26, che istituisce il Ministero della marina mercantile Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, numero 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), concernente le ragionerie delle Amministrazioni centrali e successive disposizioni;
+Visto il [regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), concernente le ragionerie delle Amministrazioni centrali e successive disposizioni;
 
 Udito il parere del Consiglio di Stato;
 

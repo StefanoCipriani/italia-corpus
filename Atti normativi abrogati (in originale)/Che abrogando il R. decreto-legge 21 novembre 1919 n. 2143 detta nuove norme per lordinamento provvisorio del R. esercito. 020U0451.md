@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto n. 525, del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) e successive modificazioni;
+Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, approvato con [R. decreto n. 525, del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) e successive modificazioni;
 
 Udito il Consiglio dei ministri;
 
@@ -1029,7 +1029,7 @@ Questi vari personali seguono altrettante carriere distinte.
  
  Coloro fra i suddetti impiegati che coprono uffici estranei all'Amministrazione militare non sono compresi nelle tabelle della presente legge. 
  
- Gli impiegati dipendenti dall'Amministrazione della guerra non sono soggetti alla disciplina militare ed alla legge penale militare in tempo di pace. In tempo di guerra, invece, sono sottoposti alla giurisdizione militare, nei termini stabiliti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+ Gli impiegati dipendenti dall'Amministrazione della guerra non sono soggetti alla disciplina militare ed alla legge penale militare in tempo di pace. In tempo di guerra, invece, sono sottoposti alla giurisdizione militare, nei termini stabiliti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
  A questi impiegati sono applicabili quanto alle posizioni di disponibilita' e aspettativa e quanto alle pensioni, le leggi relative agli impiegati civili dello Stato.
 

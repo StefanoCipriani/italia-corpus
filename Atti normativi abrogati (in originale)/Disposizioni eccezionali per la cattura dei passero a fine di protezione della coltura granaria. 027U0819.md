@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 3 del R. decreto-legge 4 maggio 1924, numero 754](Modificazioni%20alla%20legge%2024%20giugno%201923%20n.%201420%20sulla%20caccia.%20024U0754.md), recante modifiche alla [legge 24 giugno 1923, numero 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), sulla caccia, e 44 del regolamento esecutivo della legge stessa, approvato con [R. decreto 24 settembre 1923, n. 2448](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20giugno%201923%20n.%201420%20recante%20provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U2448.md);
+Visti gli [articoli 3 del R. decreto-legge 4 maggio 1924, numero 754](Modificazioni%20alla%20legge%2024%20giugno%201923%20n.%201420%20sulla%20caccia.%20024U0754.md), recante modifiche alla [legge 24 giugno 1923, numero 1420](Provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U1420.md), sulla caccia, e 44 del regolamento esecutivo della legge stessa, approvato con [R. decreto 24 settembre 1923, n. 2448](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20giugno%201923%20n.%201420%20recante%20provvedimenti%20per%20la%20protezione%20della%20selvaggina%20e%20lesercizio%20della%20caccia.%20023U2448.md);
 
 Visto il precedente [R. decreto-legge 20 maggio 1926, numero 854](Disposizioni%20per%20la%20cattura%20del%20passero%20a%20fine%20di%20protezione%20della%20coltura%20granaria.%20026U0854.md), contenente disposizioni per la cattura del passero, a fine di protezione della coltura granaria;
 

@@ -46,7 +46,7 @@ Chiunque sottrae al consumo normale merci di rilevante entita' e' punito con la 
 
 ## Art. 4.
 
-La pena per i delitti preveduti dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' raddoppiata quando sono commessi con abuso della qualita' di addetto ad uffici o servizi gestiti dall'autorita' per l'approvvigionamento o per la distribuzione delle merci ovvero con abuso della qualita' di persona incaricata di vigilare sull'osservanza delle norme relative all'approvvigionamento o alla distribuzione delle merci.
+La pena per i delitti preveduti dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' raddoppiata quando sono commessi con abuso della qualita' di addetto ad uffici o servizi gestiti dall'autorita' per l'approvvigionamento o per la distribuzione delle merci ovvero con abuso della qualita' di persona incaricata di vigilare sull'osservanza delle norme relative all'approvvigionamento o alla distribuzione delle merci.
 
 ## Art. 5.
 
@@ -56,19 +56,19 @@ Se il delitto preveduto dall'art. 3 del R. decreto 31 ottobre 1941-XX, n. 1369, 
 
 ## Art. 6.
 
-Durante lo stato di guerra per i delitti preveduti dagli [articoli 438](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [439](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [440 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applica in ogni caso la pena di morte.
+Durante lo stato di guerra per i delitti preveduti dagli [articoli 438](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [439](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [440 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applica in ogni caso la pena di morte.
 
 ## Art. 7.
 
-Le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i delitti di falsita' in atti sono raddoppiate quando il fatto e' commesso su tessere o altri documenti consegnati agli interessati per la distribuzione o per il prelievo delle merci.
+Le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i delitti di falsita' in atti sono raddoppiate quando il fatto e' commesso su tessere o altri documenti consegnati agli interessati per la distribuzione o per il prelievo delle merci.
 
 ## Art. 8.
 
-Le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i delitti contro il patrimonio sono raddoppiate quando il fatto e' commesso su tessere o altri documenti prescritti per la distribuzione o per il prelievo delle merci.
+Le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i delitti contro il patrimonio sono raddoppiate quando il fatto e' commesso su tessere o altri documenti prescritti per la distribuzione o per il prelievo delle merci.
 
 ## Art. 9.
 
-Le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i delitti di malversazione, di violazione, sottrazione o soppressione di corrispondenza sono triplicate quando i delitti stessi hanno per oggetto pacchi o corrispondenza inviati a militari od a prigionieri di guerra, o dai medesimi spediti.
+Le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i delitti di malversazione, di violazione, sottrazione o soppressione di corrispondenza sono triplicate quando i delitti stessi hanno per oggetto pacchi o corrispondenza inviati a militari od a prigionieri di guerra, o dai medesimi spediti.
 
 ## Art. 10.
 

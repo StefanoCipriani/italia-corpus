@@ -34,7 +34,7 @@ L'art. 11 del regolamento organico per il personale della Amministrazione ventra
 
 All'art. 29 del regolamento di cui al precedente art. 2 viene aggiunto il comma seguente: 
  
- « Al conferimento dei due posti di ispettore superiore (grado 6°, gruppo A) e dei due posti di ispettore capo (grado 7°. gruppo A) del ruolo amministrativo, il Ministro puo' procedere mediante pubblico concorso anche soltanto per titoli, a termini dell'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_4)». 
+ « Al conferimento dei due posti di ispettore superiore (grado 6°, gruppo A) e dei due posti di ispettore capo (grado 7°. gruppo A) del ruolo amministrativo, il Ministro puo' procedere mediante pubblico concorso anche soltanto per titoli, a termini dell'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md)». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

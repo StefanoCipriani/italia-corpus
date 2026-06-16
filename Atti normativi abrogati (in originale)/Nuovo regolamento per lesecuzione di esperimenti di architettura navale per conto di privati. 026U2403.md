@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), che approva il Regolamento per l'Amministrazione del patrimonio e per la contabilita' generale delle Stato;
 
-Visto il [R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189)., relativo all'ordinamento dei servizi dipartimentali della Regia marina, e successive modificazioni ;
+Visto il [R. decreto 4 gennaio 1923, n. 189](../Regi%20decreti/Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md)., relativo all'ordinamento dei servizi dipartimentali della Regia marina, e successive modificazioni ;
 
 Visto il [R. decreto 20 giugno 1895, n. 431](Che%20approva%20il%20regolamento%20per%20il%20servizio%20delle%20direzioni%20dei%20lavori%20e%20per%20la%20contabilita%20del%20materiale%20nei%20regi%20arsenali%20e%20cantieri%20marittimi.%20095U0431.md), che approva il Regolamento sul servizio delle Direzioni dei lavori dei Regi arsenali e successive modificazioni;
 

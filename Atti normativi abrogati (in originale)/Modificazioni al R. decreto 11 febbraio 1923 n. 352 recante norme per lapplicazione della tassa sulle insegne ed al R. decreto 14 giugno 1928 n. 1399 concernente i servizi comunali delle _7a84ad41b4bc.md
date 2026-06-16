@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 4 del R. decreto 11 febbraio 1923, n. 352](Relativo%20allapplicazione%20della%20tassa%20sulle%20insegne.%20023U0352.md), recante norme per l'applicazione della tassa sulle insegne e l'[art. 16 del R. decreto 14 giugno 1928, n. 1399](Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), concernente i servizi comunali delle pubbliche affissioni e della pubblicita' affine;
+Visto l'[art. 4 del R. decreto 11 febbraio 1923, n. 352](../Regi%20decreti/Relativo%20allapplicazione%20della%20tassa%20sulle%20insegne.%20023U0352.md), recante norme per l'applicazione della tassa sulle insegne e l'[art. 16 del R. decreto 14 giugno 1928, n. 1399](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), concernente i servizi comunali delle pubbliche affissioni e della pubblicita' affine;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,13 +26,13 @@ Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 ## Art. 1.
 
-All'[art. 4 del R. decreto 11 febbraio 1923, n. 352](Relativo%20allapplicazione%20della%20tassa%20sulle%20insegne.%20023U0352.md), e' sostituito il seguente: 
+All'[art. 4 del R. decreto 11 febbraio 1923, n. 352](../Regi%20decreti/Relativo%20allapplicazione%20della%20tassa%20sulle%20insegne.%20023U0352.md), e' sostituito il seguente: 
  
  «Quando si tratti di insegne in lingua straniera l'applicazione della tassa e' obbligatoria ed e' fatta in misura quintupla di quella che, per ciascuna categoria di Comuni, e' indicata all'articolo precedente, con un minimo di L. 150 per insegna».
 
 ## Art. 2.
 
-All'[art. 16 del R. decreto 14 giugno 1928, n. 1399](Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), e' sostituito il seguente: 
+All'[art. 16 del R. decreto 14 giugno 1928, n. 1399](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20servizi%20comunali%20delle%20pubbliche%20affissioni%20e%20della%20pubblicita%20affine.%20028U1399.md), e' sostituito il seguente: 
  
  «Per i manifesti e le iscrizioni aventi scopo di pubblicita', redatti in lingua straniera, i diritti di tariffa sono quintuplicati». 
  

@@ -184,7 +184,7 @@ L'ispettore generale del ruolo del personale delle Ragionerie centrali si intend
  
  I funzionari promossi al grado di direttore capo di ragioneria di 1ª classe nel ruolo del personale di concetto delle Amministrazioni centrali debbono assumere la direzione di una ragioneria centrale, se gia' non vi siano preposti. 
  
- Sono emanati dal Ministero delle finanze, di concerto con i singoli ministri, ai sensi dell'[art. 24 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_24), i decreti con cui ai direttori capi di ragioneria, o, in via temporanea, ad altri funzionari dello stesso ruolo, di grado equiparato o inferiore, viene affidata la direzione delle rispettive ragionerie centrali. 
+ Sono emanati dal Ministero delle finanze, di concerto con i singoli ministri, ai sensi dell'[art. 24 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), i decreti con cui ai direttori capi di ragioneria, o, in via temporanea, ad altri funzionari dello stesso ruolo, di grado equiparato o inferiore, viene affidata la direzione delle rispettive ragionerie centrali. 
  
  I decreti di nomina ai posti dei gradi quinto e sesto nel ruolo del personale di concetto delle ragionerie centrali, anche se con qualifica di direttori capi di ragioneria, sono emanati dal ministro delle finanze.
 
@@ -216,7 +216,7 @@ Per la nomina dei Regi provveditori agli studi rimane in vigore il disposto dell
 
 Alla tabella n. 22 dell'allegato IV al [Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aggiunta la seguente annotazione: 
  
- «Il numero dei macchinisti e dei bidelli puo' essere variato con decreto del Ministro per l'istruzione pubblica, di concerto con quello per le finanze ([articoli 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_28) e [102 del Regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_102))».
+ «Il numero dei macchinisti e dei bidelli puo' essere variato con decreto del Ministro per l'istruzione pubblica, di concerto con quello per le finanze ([articoli 28](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e [102 del Regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md))».
 
 ### Art. 27.
 
@@ -273,7 +273,7 @@ Il capo garage del Ministero delle finanze, di cui alla annotazione apposta alla
 
 ### Art. 35.
 
-Il consiglio di amministrazione per il personale appartenente ai ruoli delle Ragionerie centrali, costituito ai sensi dell'[art. 23 del Regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599#art_23), e' mantenuto in carica, con i membri effettivi e supplenti nominati per l'anno 1923, fino a quando non sia provveduto alla costituzione del consiglio stesso nei modi stabiliti dalle disposizioni attualmente in vigore.
+Il consiglio di amministrazione per il personale appartenente ai ruoli delle Ragionerie centrali, costituito ai sensi dell'[art. 23 del Regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), e' mantenuto in carica, con i membri effettivi e supplenti nominati per l'anno 1923, fino a quando non sia provveduto alla costituzione del consiglio stesso nei modi stabiliti dalle disposizioni attualmente in vigore.
 
 ### Art. 36.
 
@@ -448,11 +448,11 @@ Al [terzo comma dell'art. 192 del Regio decreto 11 novembre 1923, n. 2395](Ordin
 
 Il Provveditore generale dello Stato interviene, con voto deliberativo, nel consiglio di amministrazione, presso il Ministero competente, quando il detto consiglio e' chiamato a dar parere o comunque a deliberare nei riguardi degli impiegati delle varie amministrazioni che, agli effetti del servizio e disciplinari, dipendono direttamente dal detto Provveditore generale, ai sensi dell'[art. 197 - comma primo - del Regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
- Qualora uno degli stessi impiegati sia sottoposto a procedimento disciplinare davanti alla commissione di cui all'[art. 68 del Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_68), questa deve sentire il Provveditore generale dello Stato, prima di adottare le sue deliberazioni.
+ Qualora uno degli stessi impiegati sia sottoposto a procedimento disciplinare davanti alla commissione di cui all'[art. 68 del Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), questa deve sentire il Provveditore generale dello Stato, prima di adottare le sue deliberazioni.
 
 ### Art. 60.
 
-Col foglio d'ordine mensile, di cui all'[art. 58 del Regio decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), sono rese esecutive le ritenute sullo stipendio e sul supplemento di servizio attivo, derivanti dai provvedimenti disciplinari previsti all'[art. 59 del Regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_59).
+Col foglio d'ordine mensile, di cui all'[art. 58 del Regio decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md), sono rese esecutive le ritenute sullo stipendio e sul supplemento di servizio attivo, derivanti dai provvedimenti disciplinari previsti all'[art. 59 del Regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 61.
 

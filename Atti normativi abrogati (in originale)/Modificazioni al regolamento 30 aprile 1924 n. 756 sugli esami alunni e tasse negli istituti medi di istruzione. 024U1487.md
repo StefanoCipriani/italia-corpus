@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 All'[art. 45 del regolamento 30 aprile 1924, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;756#art_45), e' sostituito il seguente: 
  
- «Art. 45. - Per gli effetti di cui all'[art. 83 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_83), si computano soltanto le seguenti materie o gruppi di materie, secondo il tipo e grado di istituto rispettivamente indicato: 
+ «Art. 45. - Per gli effetti di cui all'[art. 83 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), si computano soltanto le seguenti materie o gruppi di materie, secondo il tipo e grado di istituto rispettivamente indicato: 
  
  Ginnasio inferiore: italiano, latino, storia e geografia; 
  
@@ -58,7 +58,7 @@ Tra l'[art. 45 del regolamento 30 aprile 1924, n. 756](https://www.normattiva.it
  
  «Art. 45-bis. - Nelle classi che si chiudono con esame di ammissione o di licenza, gli alunni sono esclusi dalla sessione estiva soltanto per quelle materie o gruppi di materie nei quali abbiano riportato come voto di scrutinio finale meno di cinque decimi. 
  
- «Nelle classi di cui al precedente comma, gli alunni, a termini dell'[art. 83 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_83), sono esclusi dalla sessione di riparazione quando, per riprovazione nella sessione estiva o per esclusione dalla sessione stessa, debbano ripetere o sostenere piu' di due tra le materie o gruppi di materie indicati nell'art. 45».
+ «Nelle classi di cui al precedente comma, gli alunni, a termini dell'[art. 83 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sono esclusi dalla sessione di riparazione quando, per riprovazione nella sessione estiva o per esclusione dalla sessione stessa, debbano ripetere o sostenere piu' di due tra le materie o gruppi di materie indicati nell'art. 45».
 
 ## Art. 3.
 

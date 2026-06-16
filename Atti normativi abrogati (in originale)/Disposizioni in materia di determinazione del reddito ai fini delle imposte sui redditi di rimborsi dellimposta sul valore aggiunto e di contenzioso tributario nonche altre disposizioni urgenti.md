@@ -24,7 +24,7 @@ E M A N A il seguente decreto-legge:
 
 1.
 
-Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
+Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                         a)
                             nel comma 1, lettera b), dell'articolo 10 sono aggiunte, in fine, le seguenti parole: "; sono in ogni caso esclusi i contributi agricoli unificati;";
                         b)
@@ -41,13 +41,13 @@ nella ipotesi di beni gia' utilizzati da parte di altri soggetti, le quote di am
 
 2.
 
-Le costruzioni indicate nella lettera a) del comma 1 dell'articolo 39 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nonche' le altre costruzioni o porzioni di costruzioni destinate ad abitazione di persone devono essere iscritte al catasto edilizio urbano entro il 31 dicembre 1990. Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro novanta giorni dalla data di entrata in vigore del presente decreto, saranno emanate le norme per l'attuazione della disciplina dettata dalla lettera d) del comma 1 e per le procedure di iscrizione al catasto.
+Le costruzioni indicate nella lettera a) del comma 1 dell'articolo 39 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nonche' le altre costruzioni o porzioni di costruzioni destinate ad abitazione di persone devono essere iscritte al catasto edilizio urbano entro il 31 dicembre 1990. Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro novanta giorni dalla data di entrata in vigore del presente decreto, saranno emanate le norme per l'attuazione della disciplina dettata dalla lettera d) del comma 1 e per le procedure di iscrizione al catasto.
 
 ## Art. 2.
 
 1.
 
-Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
+Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), sono apportate le seguenti modificazioni:
                         a)
                             nel comma 2 dell'articolo 51 e' aggiunta la seguente lettera: " c) i redditi dei terreni, per la parte derivante dall'esercizio delle attivita' agricole di cui all'articolo 29, pur se nei limiti ivi stabiliti, ove spettino ai soggetti indicati nelle lettere a) e b) del comma 1 dell'articolo 87.";
                         b)
@@ -57,7 +57,7 @@ Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente 
 
 2.
 
-I soggetti indicati nell'articolo 51, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), che svolgono attivita' di allevamento, sono obbligati a tenere anche le scritture contabili previste dall'[articolo 18- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md).
+I soggetti indicati nell'articolo 51, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), che svolgono attivita' di allevamento, sono obbligati a tenere anche le scritture contabili previste dall'[articolo 18- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md).
 
 3.
 
@@ -281,7 +281,7 @@ Una quota pari al 40 per cento dei versamenti risultanti in sede consuntiva e' a
 
 1.
 
-Le modificazioni al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), disposte con l'articolo 1 hanno effetto dal periodo di imposta in corso alla data del 31 dicembre 1989, tuttavia, per tale periodo e per quello successivo, il limite di cui alla lettera c) dell'articolo 10 del predetto testo unico e' elevato rispettivamente della meta' e di un terzo se gli oneri indicati nella predetta lettera c) dipendono da mutui agrari di miglioramento a tasso non agevolato. Le disposizioni dell'articolo 2, commi 1 e 2, hanno effetto dal primo periodo di imposta che ha inizio dopo il 31 dicembre 1989; quelle dell'articolo 3, salvo quanto disposto nel comma 2 del presente articolo, e quelle dell'articolo 4, commi 5, 6 e 7, e degli articoli 5, commi 1 e 2, e 8 hanno effetto dal 1 gennaio 1990.
+Le modificazioni al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), disposte con l'articolo 1 hanno effetto dal periodo di imposta in corso alla data del 31 dicembre 1989, tuttavia, per tale periodo e per quello successivo, il limite di cui alla lettera c) dell'articolo 10 del predetto testo unico e' elevato rispettivamente della meta' e di un terzo se gli oneri indicati nella predetta lettera c) dipendono da mutui agrari di miglioramento a tasso non agevolato. Le disposizioni dell'articolo 2, commi 1 e 2, hanno effetto dal primo periodo di imposta che ha inizio dopo il 31 dicembre 1989; quelle dell'articolo 3, salvo quanto disposto nel comma 2 del presente articolo, e quelle dell'articolo 4, commi 5, 6 e 7, e degli articoli 5, commi 1 e 2, e 8 hanno effetto dal 1 gennaio 1990.
 
 2.
 

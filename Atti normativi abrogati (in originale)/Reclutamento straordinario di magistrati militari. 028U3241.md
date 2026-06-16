@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Entro il termine stabilito dall'[art. 1 del R. decreto-legge 16 agosto 1926, n. 1387, il Ministro per la guerra](Divieto%20di%20assunzione%20di%20nuovo%20personale%20nellAmministrazione%20dello%20Stato%20e%20norme%20per%20il%20riordinamento%20dei%20servizi.%20026U1387.md) ha facolta' quando non ritenga di attenersi al sistema di reclutamento stabilito col [1° comma dell'art. 12 del R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), di reclutare magistrati militari mediante concorso per esami fra gli impiegati di ruolo delle Amministrazioni dello Stato, laureati in giurisprudenza, di eta' non superiore ai 35 anni. 
+Entro il termine stabilito dall'[art. 1 del R. decreto-legge 16 agosto 1926, n. 1387, il Ministro per la guerra](Divieto%20di%20assunzione%20di%20nuovo%20personale%20nellAmministrazione%20dello%20Stato%20e%20norme%20per%20il%20riordinamento%20dei%20servizi.%20026U1387.md) ha facolta' quando non ritenga di attenersi al sistema di reclutamento stabilito col [1° comma dell'art. 12 del R. decreto 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), di reclutare magistrati militari mediante concorso per esami fra gli impiegati di ruolo delle Amministrazioni dello Stato, laureati in giurisprudenza, di eta' non superiore ai 35 anni. 
  
  Il limite di eta' e' elevato a 40 anni per coloro che abbiano prestato servizio militare durante la guerra 1915-18. 
  
@@ -32,13 +32,13 @@ Le funzioni giudiziarie non possono essere conferite se non dopo il tirocinio di
 
 ## Art. 4.
 
-L'ultimo capoverso dell'[art. 15 del R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e' sostituito dal seguente: 
+L'ultimo capoverso dell'[art. 15 del R. decreto 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e' sostituito dal seguente: 
  
  «Per urgenti ragioni di servizio i vice avvocati militari, i giudici relatori ed i sostituti avvocati militari possono temporaneamente, per disposizioni del Regio avvocato generale militare, assumere le funzioni di giudici istruttori e viceversa ma i detti magistrati non possono, con le nuove funzioni, partecipare ai procedimenti per i quali abbiano compiuto in precedenza atti del proprio ministero. La temporanea assunzione delle funzioni non puo' superare la data di tre mesi; rendendosi necessaria una maggiore durata, si provvede con decreto Ministeriale».
 
 ## Art. 5.
 
-Ferma rimanendo l'osservanza delle disposizioni del [R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387), e finche' i posti di cancelliere della giustizia militare di cui alla tabella B annessa al [Regio decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), non siano tutti ricoperti, possono essere assegnati ai tribunali militari, con funzione di cancellieri, ufficiali inferiori del Regio esercito tanto in servizio permanente effettivo che per le categorie in congedo o riassunti in servizio, i quali siano ritenuti idonei per lo speciale incarico. 
+Ferma rimanendo l'osservanza delle disposizioni del [R. decreto 16 agosto 1926, n. 1387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-16;1387), e finche' i posti di cancelliere della giustizia militare di cui alla tabella B annessa al [Regio decreto 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), non siano tutti ricoperti, possono essere assegnati ai tribunali militari, con funzione di cancellieri, ufficiali inferiori del Regio esercito tanto in servizio permanente effettivo che per le categorie in congedo o riassunti in servizio, i quali siano ritenuti idonei per lo speciale incarico. 
  
  L'assegnazione degli ufficiali alle funzioni di cancelliere e' fatta dal Ministero della guerra su proposta del Regio avvocato generale militare. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 6 agosto 1926, n. 1365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-08-06;1365), sul conferimento dei posti di notaro;
 
-Visto il [R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), sullo stesso oggetto;
+Visto il [R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), sullo stesso oggetto;
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 ## Art. 1.
 
-L'[art. 13 del R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_13), e' cosi' modificato: 
+L'[art. 13 del R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), e' cosi' modificato: 
  «La Commissione esaminatrice, da nominarsi con decreto del Ministro per la giustizia, e' composta: 
  a) di un magistrato, anche se trattenuto al Ministero, avente grado non inferiore a consigliere di Cassazione o equiparato, il quale la presiede; 
  b) di un professore di materie giuridiche in una Universita' o in un Istituto superiore di grado universitario; 
@@ -37,7 +37,7 @@ L'[art. 13 del R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/u
 
 ## Art. 2.
 
-L'art. 14 del cennato [R. decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), e' cosi' modificato: 
+L'art. 14 del cennato [R. decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), e' cosi' modificato: 
  «Il Ministro nomina pure un magistrato avente grado non inferiore a consigliere di Cassazione o equiparato, anche se trattenuto al Ministero della giustizia, per supplire il presidente in caso di assenza o di impedimento, e un commissario supplente per ciascuna delle tre categorie indicate nell'articolo precedente alle lettere b), c), d). A membro supplente della categoria d) puo' nominare un conservatore di archivio notarile distrettuale. Designa inoltre per le funzioni di segreteria, nel numero necessario, magistrati trattenuti al Ministero. 
  «L'ufficio di segreteria sara' coadiuvato da quel numero di impiegati che le necessita' del concorso richiederanno». 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 

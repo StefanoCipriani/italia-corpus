@@ -22,7 +22,7 @@ Visto il Regio decreto da convertirsi in [legge 20 aprile 1920, n. 452](https://
 
 Visto il [R. decreto 7 gennaio 1923, n. 3](Che%20apporta%20modificazioni%20alle%20vigenti%20disposizioni%20legislative%20sul%20reclutamento%20del%20R.%20esercito.%20023U0003.md), che apporta modificazioni alle vigenti disposizioni legislative sul reclutamento del Regio esercito;
 
-Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pel Regio esercito;
+Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pel Regio esercito;
 
 In virtu' dei pieni poteri conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
@@ -66,7 +66,7 @@ Chi per negligenza omette di denunciare i titoli di cui sopra, nel prescritto te
  
  Chi scientemente, al fine di sottrarre se' od altri all'obbligo di frequenza di detti corsi, abbia omesso di fare la prescritta denuncia, e chiunque abbia, in qualsiasi tempo, concorso ad occultarlo, e' punito, se militare, col carcere militare sino a sei mesi, e se estraneo alla milizia, con la detenzione fino a sei mesi e con la multa da L. 200 a L. 2000, senza pregiudizio delle pene incorse qualora il fatto, per gli elementi che lo costituiscono, e le circostanze che lo accompagnano, violi le altre leggi penali militari o comuni. 
  
- I militari, all'atto della chiamata e durante il servizio alle armi, saranno giudicati dai tribunali militari, fermo il disposto degli [articoli 337 e seguenti del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pel Regio esercito. 
+ I militari, all'atto della chiamata e durante il servizio alle armi, saranno giudicati dai tribunali militari, fermo il disposto degli [articoli 337 e seguenti del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pel Regio esercito. 
  
  Coloro che siano incorsi nel predetto reato saranno esclusi da qualsiasi beneficio relativo agli obblighi di servizio militare, che possa loro derivare dalle disposizioni legislative sul reclutamento.
 

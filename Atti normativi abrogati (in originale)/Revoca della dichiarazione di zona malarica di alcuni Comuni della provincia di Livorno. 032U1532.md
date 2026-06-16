@@ -14,7 +14,7 @@ VITTORIO EMANUELE III
  PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
  RE D'ITALIA 
  
- Visto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157), approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; 
+ Visto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; 
  Veduto il Nostro decreto 30 dicembre 1923, n. 2889, che apporta modifiche nell'ordinamento sanitario del Regno; 
  Veduti i Nostri decreti 25 agosto 1902, n. 398, 22 febbraio 1903, n. 188, e 14 giugno 1903, n. 303, con i quali fu provveduto rispettivamente alle delimitazioni delle zone malariche dei comuni di Livorno, Rio dell'Elba e Portolongone della provincia di Livorno e Cecina e Rosignano Marittimo, gia' della provincia di Pisa; 
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno; 

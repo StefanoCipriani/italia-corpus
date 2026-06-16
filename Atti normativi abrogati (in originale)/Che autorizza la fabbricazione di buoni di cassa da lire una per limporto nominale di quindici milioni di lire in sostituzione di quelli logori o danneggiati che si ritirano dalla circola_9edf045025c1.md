@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Veduto il [regio decreto 4 agosto 1893, n. 452](Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md), che autorizzo' la emissione temporanea di Buoni di cassa a corso legale del valore nominale di lire una per l'importare di 30 milioni di lire;
+Veduto il [regio decreto 4 agosto 1893, n. 452](../Regi%20decreti/Che%20autorizza%20lemissione%20di%20Buoni%20di%20Cassa%20a%20corso%20legale.%20093U0452.md), che autorizzo' la emissione temporanea di Buoni di cassa a corso legale del valore nominale di lire una per l'importare di 30 milioni di lire;
 
 Veduta la [legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), sui provvedimenti finanziari che convalido' il precitato decreto reale 4 agosto 1894, n. 452 (alleg. O all'art. 14), autorizzando ad un tempo la emissione di altri venti milioni di lire dei detti buoni di cassa da una lira, in aggiunta ai trenta milioni gia' emessi;
 

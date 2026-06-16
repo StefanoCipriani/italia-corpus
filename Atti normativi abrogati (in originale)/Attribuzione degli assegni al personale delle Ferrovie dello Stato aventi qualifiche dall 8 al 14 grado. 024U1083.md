@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
+Visto il [R. decreto 6 dicembre 1923, n. 2651](../Regi%20decreti/Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md);
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e
 
 ## Articolo unico.
 
-Per gli agenti che, anteriormente al 1° marzo 1924, avevano qualifiche dei gradi dall'8° al 14°, le somme di cui al comma c) del secondo alinea dell'[art. 9 del R. decreto 6 dicembre 1923, n. 2651](Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md), sono ridotte a L. 900. 
+Per gli agenti che, anteriormente al 1° marzo 1924, avevano qualifiche dei gradi dall'8° al 14°, le somme di cui al comma c) del secondo alinea dell'[art. 9 del R. decreto 6 dicembre 1923, n. 2651](../Regi%20decreti/Nuovi%20quadri%20di%20classificazione%20e%20nuove%20disposizioni%20sulle%20competenze%20accessorie%20pel%20personale%20delle%20ferrovie%20dello%20Stato.%20023U2651.md), sono ridotte a L. 900. 
  
  Tale riduzione vale anche ai fini dell'applicazione dell'articolo 14 del citato Regio decreto. 
  

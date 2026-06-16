@@ -20,7 +20,7 @@ Visto l'articolo 4 della legge 22 febbraio 994, n. 146;
 
 Vista la [direttiva 92/40/CEE, del Consiglio del 9 maggio 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;40), che istituisce delle misura comunitarie di lotta contro l'infuenza aviaria;
 
-Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
+Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
 
 Visto il [decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
 
@@ -42,7 +42,7 @@ Fatte salve le disposizioni che disciplinano gli scambi intracomunitari, il pres
 
 Gli allegati I, II, III, IV e V fanno parte integrante del presente regolamento.
  AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
@@ -56,7 +56,7 @@ Note alle premesse:
  - La [direttiva 92/40/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;40) e' pubblicata in G.U.C.E. L 167 del 22 giugno 1992.
  - La [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), concerne le disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1993. L'art. 4 della suddetta legge cosi' recita: "Art. 4. (Attuazione di direttive comunitarie in via regolamentare). - 1. Il Governo e' autorizzato ad attuare in via regolamentare, a norma degli articoli 3, comma 1, lettera c), e 4 della [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), le direttive comprese nell'elenco di cui all'allegato C, applicando anche il disposto dell'articolo 5, comma 1, della medesima [legge n. 86 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;86).
  2. Gli schemi di regolamento per l'attuazione delle direttive comprese nell'elenco di cui all'allegato D sono sottoposti al parere delle competenti Commissioni parlamentari ai sensi dell'[articolo 4, comma 4, della legge 9 marzo 1989, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;36#art_4-com4), come sostituito dall'articolo 3 della presente legge".
- - Il [D.P.R. 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), concerne il regolamento di polizia veterinaria.
+ - Il [D.P.R. 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), concerne il regolamento di polizia veterinaria.
  - Il [D.Lgs. 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), riguarda il riordinamento dell'Istituto superiore di sanita', a norma dell'[art. 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md).
 
 ## Art. 2.
@@ -94,10 +94,10 @@ Note all'[art. 2:
 
 1.
 
-La denuncia del sospetto o dell'accertamento della influenza aviaria e' obbligatoria ed immediata secondo le procedure di cui al [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche.
+La denuncia del sospetto o dell'accertamento della influenza aviaria e' obbligatoria ed immediata secondo le procedure di cui al [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche.
 
 Nota all'art. 3:
- - Per quanto riguarda il [D.P.R. 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), vedi nota alle premesse.
+ - Per quanto riguarda il [D.P.R. 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), vedi nota alle premesse.
 
 ## Art. 4.
 

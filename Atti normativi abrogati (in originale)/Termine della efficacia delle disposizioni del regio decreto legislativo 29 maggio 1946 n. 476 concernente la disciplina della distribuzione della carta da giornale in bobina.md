@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 29 maggio 1946, n. 476](Disciplina%20della%20distribuzione%20della%20carta%20da%20giornale%20in%20bobina.md), relativo alla disciplina della distribuzione della carta da giornale in bobina;
+Visto il [regio decreto legislativo 29 maggio 1946, n. 476](../Regi%20decreti%20legislativi/Disciplina%20della%20distribuzione%20della%20carta%20da%20giornale%20in%20bobina.md), relativo alla disciplina della distribuzione della carta da giornale in bobina;
 
 Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Articolo unico.
 
-Le disposizioni del [regio decreto legislativo 29 maggio 1946, n. 476](Disciplina%20della%20distribuzione%20della%20carta%20da%20giornale%20in%20bobina.md), che disciplina la distribuzione della carta da giornale in bobina, hanno efficacia fino a due mesi dopo l'entrata in vigore del presente decreto. 
+Le disposizioni del [regio decreto legislativo 29 maggio 1946, n. 476](../Regi%20decreti%20legislativi/Disciplina%20della%20distribuzione%20della%20carta%20da%20giornale%20in%20bobina.md), che disciplina la distribuzione della carta da giornale in bobina, hanno efficacia fino a due mesi dopo l'entrata in vigore del presente decreto. 
  Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

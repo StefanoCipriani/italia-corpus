@@ -12,7 +12,7 @@ vigente: true
 
 Il corso obbligatorio delle lezioni per il sesto anno della Facolta' di medicina e chirurgia nelle Universita' sara' iniziato nel corrente anno accademico 1915-916 il 6 dicembre si e chiudera' il 21 marzo 1916. 
  
- In relazione a questo abbreviamento del corso suddetto sono abolite, soltanto rispetto al corso medesimo, le vacanze di cui ai nn. 2 e 3 all'art. 4 del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md).
+ In relazione a questo abbreviamento del corso suddetto sono abolite, soltanto rispetto al corso medesimo, le vacanze di cui ai nn. 2 e 3 all'art. 4 del regolamento generale universitario, approvato con [R. decreto 9 agosto 1910, n. 796](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md).
 
 ## Art. 2.
 

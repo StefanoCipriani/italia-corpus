@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), concernente nuove norme per l'organizzazione dei servizi antincendi;
 
-Visto il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), concernente norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili dell fuoco;
+Visto il [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), concernente norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei vigili dell fuoco;
 
 Visto il [decreto-legge luogotenenziale 26 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-26;151);
 

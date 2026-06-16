@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 7 luglio 1907, n. 552](Che%20approva%20la%20tabella%20che%20stabilisce%20i%20ruoli%20organici%20di%20alcuni%20istituti%20di%20istruzione%20superiore.%20007U0552.md); 
+ Visto il [R. decreto 7 luglio 1907, n. 552](../Regi%20decreti/Che%20approva%20la%20tabella%20che%20stabilisce%20i%20ruoli%20organici%20di%20alcuni%20istituti%20di%20istruzione%20superiore.%20007U0552.md); 
  
  Vista la [legge 19 dicembre 1918, n. 1908](che%20proroga%20il%20termine%20indicato%20dalla%20legge%2023%20giugno%201918%20n.%20830%20circa%20lesercizio%20provvisorio%20degli%20stati%20di%20previsione%20per%20lanno%20finanziario%201918-919%20fino%20a%20quando%20i%20medesimi%20non%20siano%20_7c441eeabe94.md); 
  

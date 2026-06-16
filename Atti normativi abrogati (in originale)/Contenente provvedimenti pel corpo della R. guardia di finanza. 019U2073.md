@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi di ordinamento del corpo della R. guardia di finanza approvato con [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
+Visto il testo unico delle leggi di ordinamento del corpo della R. guardia di finanza approvato con [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md);
 
 Udito il Consiglio dei ministri;
 
@@ -100,7 +100,7 @@ Agli ufficiali della R. guardia di finanza spettano gli stipendi e l'attuale ind
 
 ## Art. 5.
 
-Agli articoli 6 e 7 del testo unico delle leggi sull'ordinamento della R. guardia di finanza, approvato col [R. decreto 26 novembre 1914, n. 1440](Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), sono apportate le seguenti aggiunte e varianti: 
+Agli articoli 6 e 7 del testo unico delle leggi sull'ordinamento della R. guardia di finanza, approvato col [R. decreto 26 novembre 1914, n. 1440](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20R.%20guardia%20di%20finanza.%20014U1440.md), sono apportate le seguenti aggiunte e varianti: 
  
  a) i posti di colonnello si conferiscono a scelta speciale ai tenenti colonnelli, mediante esime dopo un esperimento pratico di comando di legione; 
  

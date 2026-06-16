@@ -236,7 +236,7 @@ Ai costi relativi alle attivita' di smaltimento dei rifiuti tossici e nocivi si 
 
 ### Art. 21. — Disposizioni fiscali e finanziarie
 
-Con effetto dal primo gennaio dell'anno successivo a quello di entrata in vigore del presente decreto, la sezione II del capo XVIII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituita come appresso:
+Con effetto dal primo gennaio dell'anno successivo a quello di entrata in vigore del presente decreto, la sezione II del capo XVIII del titolo III del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituita come appresso:
 
  Sezione II
  TASSA PER LO SMALTIMENTO DEI RIFIUTI SOLIDI URBANI INTERNI
@@ -261,7 +261,7 @@ Con effetto dal primo gennaio dell'anno successivo a quello di entrata in vigore
 
 ### Art. 22. — Proroghe
 
-Nei riflessi della tassa per lo smaltimento dei rifiuti solidi urbani interni, per il primo anno di applicazione della tassa stessa sono prorogati di tre mesi i termini previsti dai primi commi degli articoli 273, 274, 276, 277 e 286 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
+Nei riflessi della tassa per lo smaltimento dei rifiuti solidi urbani interni, per il primo anno di applicazione della tassa stessa sono prorogati di tre mesi i termini previsti dai primi commi degli articoli 273, 274, 276, 277 e 286 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni.
 
 ### Art. 23. — Agevolazioni agli investimenti
 

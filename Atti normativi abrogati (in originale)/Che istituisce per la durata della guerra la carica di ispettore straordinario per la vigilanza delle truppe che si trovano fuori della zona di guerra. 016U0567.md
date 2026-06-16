@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-E' istituita per la durata della guerra la carica di ispettore straordinario a disposizione del ministro della guerra, con rango di comandante di armata e con i diritti e le prerogative inerenti, compresa la classificazione al n. 5 della categoria IV del [R. decreto 19 aprile 1868, n. 4349](Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), per l'ordine di precedenza fra le varie cariche e dignita' a Corte e nelle funzioni politiche, modificato coi RR. decreti 3 febbraio 1901, n. 33, e 5 maggio 1910, n. 292. 
+E' istituita per la durata della guerra la carica di ispettore straordinario a disposizione del ministro della guerra, con rango di comandante di armata e con i diritti e le prerogative inerenti, compresa la classificazione al n. 5 della categoria IV del [R. decreto 19 aprile 1868, n. 4349](../Regi%20decreti/Col%20quale%20e%20stabilito%20lordine%20per%20le%20precedenze%20tra%20le%20varie%20cariche%20e%20dignita%20a%20Corte%20e%20nelle%20funzioni%20pubbliche.%20068U4349.md), per l'ordine di precedenza fra le varie cariche e dignita' a Corte e nelle funzioni politiche, modificato coi RR. decreti 3 febbraio 1901, n. 33, e 5 maggio 1910, n. 292. 
  
  Egli ha per ufficio di vigilare sul buon andamento dei servizi presso le truppe dipendenti dai comandi di corpo d'armata territoriali e di eseguire ispezioni secondo le istruzioni che gli saranno impartite dal ministro della guerra. 
  

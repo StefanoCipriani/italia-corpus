@@ -53,13 +53,13 @@ L'istanza deve essere presentata all'autorita' presso cui pende il gravame, la q
 
 3.
 
-Per le controversie riguardanti le soppresse imposte di consumo di cui all'articolo 90 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), pendenti innanzi alle competenti autorita' amministrative alla data di entrata in vigore del presente decreto, il contribuente deve chiedere la trattazione del proprio ricorso con istanza da produrre entro 180 giorni dalla data suddetta all'autorita' competente a decidere, indicando la residenza o domicilio. In difetto di tale istanza il ricorso stesso e' definito per rinuncia. Nell'istanza il contribuente puo' chiedere di avvalersi della disposizione di cui al comma 1.
+Per le controversie riguardanti le soppresse imposte di consumo di cui all'articolo 90 del testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), pendenti innanzi alle competenti autorita' amministrative alla data di entrata in vigore del presente decreto, il contribuente deve chiedere la trattazione del proprio ricorso con istanza da produrre entro 180 giorni dalla data suddetta all'autorita' competente a decidere, indicando la residenza o domicilio. In difetto di tale istanza il ricorso stesso e' definito per rinuncia. Nell'istanza il contribuente puo' chiedere di avvalersi della disposizione di cui al comma 1.
 
 ## Art. 4.
 
 1.
 
-L'imposta di consumo sul gas metano usato come combustibile per impieghi diversi da quelli delle imprese industriali ed artigiane e' aumentata da lire 77 a lire 162,5 al metro cubo. Nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), l'imposta e' dovuta nella misura di lire 85,5 al metro cubo.
+L'imposta di consumo sul gas metano usato come combustibile per impieghi diversi da quelli delle imprese industriali ed artigiane e' aumentata da lire 77 a lire 162,5 al metro cubo. Nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), l'imposta e' dovuta nella misura di lire 85,5 al metro cubo.
 
 2.
 

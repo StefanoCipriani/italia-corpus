@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il testo unico delle leggi per la Sardegna approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), ed i regolamenti approvati con RR. decreti 9 febbraio 1908, n. 146 e 25 agosto 1908, n. 548;
+Veduto il testo unico delle leggi per la Sardegna approvato con [R. decreto 10 novembre 1907, n. 844](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), ed i regolamenti approvati con RR. decreti 9 febbraio 1908, n. 146 e 25 agosto 1908, n. 548;
 
 Vista la [legge 16 luglio 1914, n. 675](Che%20approva%20maggiori%20e%20nuove%20assegnazioni%20su%20alcuni%20capitoli%20dello%20stato%20di%20previsione%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201913-914%20per%20provvedere%20al%20saldo%20di_c25932519657.md), portante provvedimenti straordinari a favore della Sardegna;
 
@@ -50,7 +50,7 @@ Per l'esecuzione delle opere di che all'articolo precedente, l'Istituto e' ammes
 
 ## Art. 4.
 
-L'Istituto promuovera' la fondazione di una Cassa agraria e di un Consorzio agrario, a beneficio principalmente dei coloni, ai termini del testo unico delle leggi contenenti provvedimenti per la Sardegna approvato con [R. decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md). 
+L'Istituto promuovera' la fondazione di una Cassa agraria e di un Consorzio agrario, a beneficio principalmente dei coloni, ai termini del testo unico delle leggi contenenti provvedimenti per la Sardegna approvato con [R. decreto 10 novembre 1907, n. 844](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md). 
  
  Puo' altresi' promuovere Istituti cooperativi di consumo, di lavoro e di produzione, come latteria, oleificio, cantina sociale.
 
@@ -86,7 +86,7 @@ Il Ministero di agricoltura, mediante organo speciale, esercita la vigilanza e l
 
 ## Art. 9.
 
-Il Governo del Re ha facolta' di emanare un regolamento per disciplinare il funzionamento dell'Istituto e delle aziende annesse, anche in deroga del regolamento generale per la esecuzione del testo unico delle leggi per la Sardegna, approvato con [R. decreto 9 febbraio 1908, n. 146](Che%20approva%20lannesso%20regolamento%20per%20il%20credito%20agrario%20in%20Sardegna.%20008U0146.md).
+Il Governo del Re ha facolta' di emanare un regolamento per disciplinare il funzionamento dell'Istituto e delle aziende annesse, anche in deroga del regolamento generale per la esecuzione del testo unico delle leggi per la Sardegna, approvato con [R. decreto 9 febbraio 1908, n. 146](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20il%20credito%20agrario%20in%20Sardegna.%20008U0146.md).
 
 ## Art. 10.
 

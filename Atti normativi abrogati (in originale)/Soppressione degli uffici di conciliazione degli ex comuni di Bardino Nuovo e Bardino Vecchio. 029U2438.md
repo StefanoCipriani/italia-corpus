@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 6 dicembre 1928, n. 2971](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-06;2971), col quale i comuni di Bardino Nuovo e Bardino Vecchio sono stati soppressi ed i rispettivi territori aggregati a quello di Tovo San Giacomo; 
+ Visto il [R. decreto 6 dicembre 1928, n. 2971](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bardino%20Nuovo%20Bardino%20Vecchio%20e%20Tovo%20San%20Giacomo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Tovo%20San%20Giacomo%20.%20028U2971.md), col quale i comuni di Bardino Nuovo e Bardino Vecchio sono stati soppressi ed i rispettivi territori aggregati a quello di Tovo San Giacomo; 
  
  Vista la deliberazione del podesta' di Tovo San Giacomo rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Bardino Nuovo e Bardino Vecchio; 
  

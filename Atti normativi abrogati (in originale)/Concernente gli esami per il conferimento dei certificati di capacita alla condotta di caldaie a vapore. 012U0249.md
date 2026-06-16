@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 28 del testo della [legge 23 dicembre 1888, n. 5888](Sulla%20pubblica%20sicurezza.%20088U8010.md)-decies (serie 3ª), sulla pubblica sicurezza, coordinato col [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª);
+Visto l'art. 28 del testo della [legge 23 dicembre 1888, n. 5888](Sulla%20pubblica%20sicurezza.%20088U8010.md)-decies (serie 3ª), sulla pubblica sicurezza, coordinato col [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ed approvato con [R. decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª);
 
 Visti gli articoli 46, 47, 48 e 49 del regolamento per l'esercizio e per la sorveglianza delle caldaie e dei recipienti di vapore, approvato con il [R. decreto del 17 agosto 1907, n. 646](Che%20approva%20lunito%20regolamento%20per%20lesercizio%20e%20per%20la%20sorveglianza%20delle%20caldaie%20e%20recipienti%20di%20vapore.%20007U0646.md), e modificato con Nostro decreto del 26 febbraio 1911, n. 343;
 

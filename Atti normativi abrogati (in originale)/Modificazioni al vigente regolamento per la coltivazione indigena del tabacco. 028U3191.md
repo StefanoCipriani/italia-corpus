@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), [17 marzo 1927, n. 389](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), e [23 ottobre 1927, n. 1998](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md);
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), [17 marzo 1927, n. 389](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), e [23 ottobre 1927, n. 1998](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md);
 
 Vista la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), sulla disciplina giuridica dei rapporti collettivi del lavoro;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Gli articoli 58, 59 e 61 del regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md) e [n. 1998 del 23 ottobre 1927](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md), sono abrogati e sono sostituiti dai seguenti: 
+Gli articoli 58, 59 e 61 del regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md) e [n. 1998 del 23 ottobre 1927](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md), sono abrogati e sono sostituiti dai seguenti: 
  
  Art. 58. - Per ciascuna campagna, e' nominata una Commissione di perizia, la quale procede, nei magazzini di ricevimento, alla classificazione dei prodotti ed all'assegnazione delle tare. 
  

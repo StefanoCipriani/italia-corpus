@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), e [4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627), relativi alla costituzione ed all'ordinamento della Regia aeronautica;
+Visti i [Regi decreti 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), e [4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627), relativi alla costituzione ed all'ordinamento della Regia aeronautica;
 
 Visto il [R. decreto 14 maggio 1925, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-14;632), relativo alla istituzione del Sottosegretariato di Stato per l'aeronautica;
 
@@ -62,7 +62,7 @@ Il Ministro per l'aeronautica designa l'ufficiale od il funzionario civile incar
 
 I ruoli organici dei personali civili di cui all'[art. 44 del R. decreto 4 maggio 1925, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;627#art_44), sull'ordinamento della Regia aeronautica sono tutti unici, in quanto i personali medesimi provvedono promiscuamente ai servizi del Ministero e degli Enti periferici. 
  
- Con successivo decreto Reale, da emanarsi in conformita' di quanto e' prescritto dall'[art. 101, comma terzo, del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101-com3), saranno stabilite per tutti i sopra indicati personali le tabelle numeriche e di reparto, pei vari gradi, tra i servizi centrali e quelli dipendenti.
+ Con successivo decreto Reale, da emanarsi in conformita' di quanto e' prescritto dall'[art. 101, comma terzo, del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), saranno stabilite per tutti i sopra indicati personali le tabelle numeriche e di reparto, pei vari gradi, tra i servizi centrali e quelli dipendenti.
 
 ## Art. 6.
 
@@ -204,7 +204,7 @@ Con decreto Reale, sulla proposta del Ministro per le finanze sara' provveduto a
 
 ### Art. 10.
 
-Sono abrogati il [R. decreto 24 gennaio 1923, n. 62](Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), e qualsiasi altra disposizione contraria al presente decreto.
+Sono abrogati il [R. decreto 24 gennaio 1923, n. 62](../Regi%20decreti/Che%20istituisce%20il%20Commissariato%20per%20laeronautica.%20023U0062.md), e qualsiasi altra disposizione contraria al presente decreto.
 
 ### Art. 11.
 

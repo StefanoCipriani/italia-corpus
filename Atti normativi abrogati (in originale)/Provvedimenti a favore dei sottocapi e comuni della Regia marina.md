@@ -46,7 +46,7 @@ o in riserva:
 
 ## Art. 2.
 
-L'[art. 2 del R. decreto 23 dicembre 1920, n. 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1894#art_2), confermato dall'[art. 7 lettera m) del R. decreto 2 giugno 1924, n. 931](Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), e' sostituito dal seguente: 
+L'[art. 2 del R. decreto 23 dicembre 1920, n. 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1894#art_2), confermato dall'[art. 7 lettera m) del R. decreto 2 giugno 1924, n. 931](../Regi%20decreti/Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), e' sostituito dal seguente: 
  "Al sottocapi e comuni vincolati con rafferma o ferma speciale, ammogliati o vedovi con prole, e' concessa una indennita' speciale di L. 750 mensili nette, oltre una indennita' complementare di. L. 300 mensili netto per la moglie o per ogni figlio convivente ed a carico, minore o inabile al lavoro. 
  L'indennita' di cui sopra e' ridotta a L. 300, per i militari provvisti di alloggio in natura, ferme restando le indennita' complementari".
 

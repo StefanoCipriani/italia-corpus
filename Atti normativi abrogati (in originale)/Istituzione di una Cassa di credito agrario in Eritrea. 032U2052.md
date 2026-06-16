@@ -176,7 +176,7 @@ A garanzia delle operazioni contemplate dal presente decreto sono estesi, a favo
 
 ## Art. 17.
 
-Quando il debitore deteriora o distrae oggetti sottoposti al privilegio di cui al precedente articolo, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dagli [articoli 334](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [335 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Quando il debitore deteriora o distrae oggetti sottoposti al privilegio di cui al precedente articolo, oppure impiega in tutto o in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dagli [articoli 334](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [335 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Nei casi predetti, e allorche' il debitore abbandoni la coltivazione del fondo, o, in qualunque modo, per dolo o per colpa, diminuisca notevolmente la garanzia alla Cassa di credito agrario questa puo' chiedere la risoluzione del contratto, ai termini dell'[art. 1165 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1165).
 

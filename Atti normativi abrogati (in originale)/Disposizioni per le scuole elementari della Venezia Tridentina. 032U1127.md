@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto l'art. 1, n. 3. della [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -27,9 +27,9 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 ## Art. 1.
 
 II Regio provveditore agli studi per la Venezia Tridentina, per provvedere ai posti vacanti e che si rendano vacanti nelle scuole del territorio dei Comuni e delle frazioni di Comune indicati nell'allegato A, annesso al presente decreto e firmato, d'ordine Nostro, dal Ministro proponente, ha facolta' di accogliere le domande di trasferimento presentate dai maestri appartenenti ai ruoli regionali delle Amministrazioni scolastiche, indipendentemente dai limiti di cui all'ultimo comma dell'[art. 141 del testo unico 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1928-02-05;577#art_141). 
- I trasferimenti disposti ai sensi del precedente comma sono deliberati dal provveditore agli studi anche in deroga alle condizioni e norme dell'art. 144 e dell'ultimo comma dell'art. 146 (sostituito dall'[art. 12 del R. decreto 17 marzo 1930, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-17;727#art_12)) del citato testo unico e ad ogni altra disposizione vigente in merito ai trasferimenti per domanda. 
+ I trasferimenti disposti ai sensi del precedente comma sono deliberati dal provveditore agli studi anche in deroga alle condizioni e norme dell'art. 144 e dell'ultimo comma dell'art. 146 (sostituito dall'[art. 12 del R. decreto 17 marzo 1930, n. 727](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20integrative%20approvato%20con%20R.%20decreto%205%20febbraio%201928%20n.%20577.%20030U0727.md)) del citato testo unico e ad ogni altra disposizione vigente in merito ai trasferimenti per domanda. 
  Contro tali trasferimenti non e' ammesso che il ricorso straordinario al Re o alle Sezioni giurisdizionali del Consiglio di Stato. 
- Rimane ferma la disposizione dell'[art. 11 del R. decreto 17 marzo 1930, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-03-17;727#art_11), per quanto concerne i posti vacanti nelle scuole suddette, riservati ai trasferimenti per esigenze dell'Opera nazionale Balilla. 
+ Rimane ferma la disposizione dell'[art. 11 del R. decreto 17 marzo 1930, n. 727](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20sue%20opere%20integrative%20approvato%20con%20R.%20decreto%205%20febbraio%201928%20n.%20577.%20030U0727.md), per quanto concerne i posti vacanti nelle scuole suddette, riservati ai trasferimenti per esigenze dell'Opera nazionale Balilla. 
  Ai maestri trasferiti ai sensi del presente articolo e' dovuta l'indennita' di' trasferimento, stabilita dall'art. 344, ultimo comma, del [regolamento 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1928-04-26;1297).
 
 ## Art. 2.

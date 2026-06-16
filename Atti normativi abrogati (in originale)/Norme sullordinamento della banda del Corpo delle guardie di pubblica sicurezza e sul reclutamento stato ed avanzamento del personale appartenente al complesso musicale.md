@@ -96,7 +96,7 @@ La Commissione giudicatrice del concorso, di cui allo articolo 9, e' nominata co
 
 La Commissione giudicatrice, sulla base dei criteri di massima fissati nella, prima seduta, procede preliminarmente all'esame dei titoli, attribuendo a ciascun candidato un punteggio da 1 a 50.
  E' ammesso a sostenere gli esami il candidato che, per il complesso dei titoli presentati, abbia riportato almeno trenta cinquantesimi.
- Gli esami consistono in una prova scritta, una orale ed una pratica e per il loro svolgimento si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Gli esami consistono in una prova scritta, una orale ed una pratica e per il loro svolgimento si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 12.
 
@@ -172,7 +172,7 @@ La Commissione giudicatrice del concorso di cui allo articolo 20 e' nominata con
 
 ### Art. 22.
 
-Gli esami relativi al concorso di cui all'articolo 20 consistono in sei prove da svolgersi nel seguente ordine, osservando, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
+Gli esami relativi al concorso di cui all'articolo 20 consistono in sei prove da svolgersi nel seguente ordine, osservando, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
  prova pratica consistente nella esecuzione con strumento per posti della prima parte di un pezzo di concerto preparato e scelto dal candidato, con o senza accompagnamento di pianoforte, di un pezzo, a prima vista, scelto dalla Commissione e di uno o piu' brani, del pari scelti dalla Commissione, nell'insieme della banda;
  prova scritta consistente nell'armonizzazione a quattro parti per pianoforte di un basso dato, nel tempo massimo di otto ore;
  prova scritta consistente nella riduzione per banda di un brano di musica scelto dalla Commissione, scritto originariamente per pianoforte, nel tempo massimo di dodici ore;
@@ -216,7 +216,7 @@ Le Commissioni giudicatrici dei concorsi per esami di cui all'articolo precedent
  Essi devono inoltre rispondere ad interrogazioni inerenti alla tecnica dello strumento suonato e, se trattasi di concorrenti a posti della prima parte, anche degli strumenti congeneri.
  Per i concorrenti a posti della prima e seconda parte le suddette prove sono integrate dalla esecuzione, nello insieme della banda, di un importante brano scelto dalla Commissione esaminatrice dal repertorio lirico o sinfonico riguardante lo strumento suonato.
  Per i concorrenti per gli strumenti a percussione gli esami consistono in un esperimento di lettura musicale e nella dimostrazione di saper impiegare lo strumento ti gli strumenti per cui si concorre, sia isolatamente, sia in una esecuzione di insieme della banda e di conoscere teoricamente e praticamente gli altri strumenti a percussione.
- Per lo svolgimento degli esami si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+ Per lo svolgimento degli esami si osservano, in quanto applicabili, le disposizioni contenute nel [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 ### Art. 28.
 
@@ -280,7 +280,7 @@ Il tenente maestro direttore della banda, in servizio alla data di entrata in vi
 
 ### Art. 37.
 
-Sono abrogati i [regi decreti 7 maggio 1935, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-05-07;296), e [28 novembre 1938, n. 2090](Sistemazione%20organica%20della%20Banda%20musicale%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20038U2090.md), relativi alla sistemazione organica della banda del Corpo degli agenti di pubblica, sicurezza e tutte le altre disposizioni di legge o di regolamenti riguardanti la banda incompatibili con la presente legge.
+Sono abrogati i [regi decreti 7 maggio 1935, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-05-07;296), e [28 novembre 1938, n. 2090](../Regi%20decreti/Sistemazione%20organica%20della%20Banda%20musicale%20del%20Corpo%20degli%20agenti%20di%20pubblica%20sicurezza.%20038U2090.md), relativi alla sistemazione organica della banda del Corpo degli agenti di pubblica, sicurezza e tutte le altre disposizioni di legge o di regolamenti riguardanti la banda incompatibili con la presente legge.
  Per quanto non disposto dalla presente legge, all'ufficiale maestro direttore, al maresciallo vice direttore ed ai sottufficiali e militari di truppa musicanti della banda del Corpo delle guardie di pubblica sicurezza, si applicano rispettivamente le norme concernenti lo stato e l'avanzamento degli ufficiali, dei sottufficiali e dei militari di truppa del Corpo delle guardie di pubblica sicurezza.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

@@ -44,7 +44,7 @@ Il governo e la gestione economica e patrimoniale dell'Ente appartengono al Cons
 
 ### Art. 3.
 
-Il Consiglio amministrativo e' composto e si rinnova a norma dell'[art. 2 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_2). 
+Il Consiglio amministrativo e' composto e si rinnova a norma dell'[art. 2 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md). 
  
  Agli effetti del comma 2° del precitato articolo il Consiglio designa al Ministro, per la sua scelta, tre persone che godano di generale estimazione per autorita' morale e per competenza amministrativa, tecnica e in argomenti concernenti la scuola. Tale designazione e' fatta entro trenta giorni dalla vacanza col voto favorevole di almeno quattro membri del Consiglio. 
  
@@ -125,7 +125,7 @@ Il Consiglio amministrativo e il Comitato consultivo possono essere sciolti con 
 
 L'Ente ha un suo regolamento interno. 
  
- Esso determina le norme relative al funzionamento del Consiglio amministrativo, dell'ufficio di presidenza, degli uffici dell'Ente, del Comitato consultivo e dei Consigli di sezione di cui al capo III, allo stato giuridico e al trattamento economico e di quiescenza del personale di ogni categoria posto alle dipendenze dell'Ente e ai corsi pratici e teorici per la preparazione del personale insegnante previsti dall'[art. 8 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_8); stabilisce inoltre, nei limiti fissati dai [Regi decreti 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684) e [31 dicembre 1923 n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), dal presente regolamento e dal decreto da emanarsi in virtu' dell'art. 52, ogni altra norma concernente il funzionamento amministrativo, tecnico, didattico e disciplinare dei servizi dell'Ente.
+ Esso determina le norme relative al funzionamento del Consiglio amministrativo, dell'ufficio di presidenza, degli uffici dell'Ente, del Comitato consultivo e dei Consigli di sezione di cui al capo III, allo stato giuridico e al trattamento economico e di quiescenza del personale di ogni categoria posto alle dipendenze dell'Ente e ai corsi pratici e teorici per la preparazione del personale insegnante previsti dall'[art. 8 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md); stabilisce inoltre, nei limiti fissati dai [Regi decreti 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) e [31 dicembre 1923 n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), dal presente regolamento e dal decreto da emanarsi in virtu' dell'art. 52, ogni altra norma concernente il funzionamento amministrativo, tecnico, didattico e disciplinare dei servizi dell'Ente.
 
 ### Art. 13.
 
@@ -143,11 +143,11 @@ L'Ente provvede ai servizi di sua competenza:
  
  1) con le rendite del suo patrimonio; 
  
- 2) col provento delle tasse versate, a norma dell'[art. 7 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_7), dagli alunni degli istituti medi d'istruzione Regi e pareggiati e di scuola privata o paterna; 
+ 2) col provento delle tasse versate, a norma dell'[art. 7 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md), dagli alunni degli istituti medi d'istruzione Regi e pareggiati e di scuola privata o paterna; 
  
  3) coi contributi di carattere continuativo e con elargizioni di enti o di privati; 
  
- 4) coi mezzi previsti dall'art. 103 comma ultimo del [R. decreto 6 maggio 1923 n. 1054, dall'art. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_12) del [R. decreto 15 marzo 1923 n. 684 e dall'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_2) del [R. decreto 31 dicembre 1923 n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), stipulando, ove lo creda conveniente, particolari accordi o convenzioni con gli enti locali circa le modalita' per la somministrazione dei mezzi medesimi; 
+ 4) coi mezzi previsti dall'art. 103 comma ultimo del [R. decreto 6 maggio 1923 n. 1054, dall'art. 12](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) del [R. decreto 15 marzo 1923 n. 684 e dall'art. 2](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) del [R. decreto 31 dicembre 1923 n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), stipulando, ove lo creda conveniente, particolari accordi o convenzioni con gli enti locali circa le modalita' per la somministrazione dei mezzi medesimi; 
  
  5) con qualsiasi altro provento risultante dalla propria gestione ed attivita'.
 
@@ -263,7 +263,7 @@ Nelle sedi di istituti medi Regi e pareggiati l'Ente provvede all'educazione fis
  
  b) con corsi tenuti, in base ad opportuni accordi e per lo svolgimento integrale o parziale del programma, presso societa' ginnastiche o sportive e, in genere, istituti o enti della sede aventi per fine l'educazione fisica dei giovani, che offrano assoluta garanzia di serieta' e moralita' e dispongano di mezzi adeguati al raggiungimento dei fini prefissi. 
  
- Le disposizioni del precedente comma non si applicano nelle sedi ove esistano solo istituti i quali usufruiscano della facolta' di cui al [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_3-com2). 
+ Le disposizioni del precedente comma non si applicano nelle sedi ove esistano solo istituti i quali usufruiscano della facolta' di cui al [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md). 
  
  Nelle sedi, in cui sono tenuti, a norma del presente articolo, corsi per alunni di istituti medi Regi o pareggiati, gli alunni di scuola privata o paterna hanno facolta' di frequentarli.
 
@@ -275,7 +275,7 @@ I corsi di cui alla lett. b) del comma 1° dell'articolo precedente sono tenuti 
 
 ### Art. 28.
 
-Le disposizioni del [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_3-com2) si applicano anche agli istituti femminili di cui all'[art. 60 comma 1° del regolamento 30 aprile 1924 n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;756#art_60-com1).
+Le disposizioni del [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) si applicano anche agli istituti femminili di cui all'[art. 60 comma 1° del regolamento 30 aprile 1924 n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;756#art_60-com1).
 
 ### Art. 29.
 
@@ -287,11 +287,11 @@ L'Ente ha facolta' di compiere in qualsiasi tempo ispezioni negli istituti e scu
 
 Le disposizioni del precedente articolo non si applicano ai convitti nazionali. 
  
- Questi, a norma dell'[art. 141 del R. decreto 6 maggio 1923 n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_141), provvedono all'educazione fisica dei convittori con propri insegnanti; i convittori restano tuttavia soggetti, per quanto riguarda le prove e il pagamento della prescritta tassa e fino al compimento del sedicesimo anno di eta', alle disposizioni del [R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684) e del presente regolamento e ad ogni altra norma relativa al funzionamento dell'Ente.
+ Questi, a norma dell'[art. 141 del R. decreto 6 maggio 1923 n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), provvedono all'educazione fisica dei convittori con propri insegnanti; i convittori restano tuttavia soggetti, per quanto riguarda le prove e il pagamento della prescritta tassa e fino al compimento del sedicesimo anno di eta', alle disposizioni del [R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) e del presente regolamento e ad ogni altra norma relativa al funzionamento dell'Ente.
 
 ### Art. 31.
 
-Gli allievi dei collegi militari non sono soggetti alle disposizioni del [R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684) e del presente regolamento ne' alle altre norme relative al funzionamento dell'Ente. 
+Gli allievi dei collegi militari non sono soggetti alle disposizioni del [R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) e del presente regolamento ne' alle altre norme relative al funzionamento dell'Ente. 
  
  Per quanto concerne l'educazione fisica, valgono nei loro riguardi, a tutti gli effetti, le attestazioni rilasciate dai rispettivi comandanti.
 
@@ -303,7 +303,7 @@ La classificazione degli alunni, per quanto riguarda l'educazione fisica, e' com
 
 ### Art. 33.
 
-Ai sensi e agli effetti dell'[art. 6 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_6), in ogni sede nella quale esistano piu' istituti medi si tiene, all'inizio dell'anno scolastico, un'adunanza dei rispettivi presidi, con l'intervento del direttore locale per l'educazione fisica. 
+Ai sensi e agli effetti dell'[art. 6 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md), in ogni sede nella quale esistano piu' istituti medi si tiene, all'inizio dell'anno scolastico, un'adunanza dei rispettivi presidi, con l'intervento del direttore locale per l'educazione fisica. 
  
  All'adunanza partecipano i presidi di istituti pareggiati, i cui alunni frequentino i corsi tenuti dall'Ente. 
  
@@ -323,7 +323,7 @@ Capo V.
 
 ### Art. 36.
 
-Gli alunni degli istituti medi Regi e pareggiati si inscrivono all'Ente all'inizio di ciascun anno scolastico e prima della effettiva ammissione alle lezioni, ancorche' appartengano a convitti nazionali, salvo il disposto del comma 2° dell'art. 30 per quanto concerne l'eta' dei convittori, o a convitti con annessi istituti pareggiati che usufruiscano della facolta' concessa dal [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_3-com2). 
+Gli alunni degli istituti medi Regi e pareggiati si inscrivono all'Ente all'inizio di ciascun anno scolastico e prima della effettiva ammissione alle lezioni, ancorche' appartengano a convitti nazionali, salvo il disposto del comma 2° dell'art. 30 per quanto concerne l'eta' dei convittori, o a convitti con annessi istituti pareggiati che usufruiscano della facolta' concessa dal [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md). 
  
  Gli alunni di scuola privata o paterna e le alunne degli istituti di cui all'art. 28 si inscrivono ogni anno all'Ente non oltre il 15 novembre.
 
@@ -361,7 +361,7 @@ I giovani provenienti dall'estero sono soggetti alle norme relative all'educazio
 
 ### Art. 42.
 
-Gli alunni, che in base alle disposizioni di cui al [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_3-com2) non frequentano i corsi tenuti dall'Ente, debbono sostenere le prove di educazione fisica in ciascun anno del corso dei loro studi, salvo quanto verra' determinato, in relazione a gravi e giustificati motivi, dal decreto da emanarsi a norma dell'articolo 52.
+Gli alunni, che in base alle disposizioni di cui al [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) non frequentano i corsi tenuti dall'Ente, debbono sostenere le prove di educazione fisica in ciascun anno del corso dei loro studi, salvo quanto verra' determinato, in relazione a gravi e giustificati motivi, dal decreto da emanarsi a norma dell'articolo 52.
 
 ## Della frequenza e delle punizioni disciplinari.
 
@@ -369,7 +369,7 @@ Capo VI.
 
 ### Art. 43.
 
-Salvo il disposto del [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_3-com2), gli alunni degli istituti medi Regi e pareggiati hanno obbligo di frequentare con assiduita' e diligenza i corsi di educazione fisica tenuti dall'Ente a norma dell'art. 26. 
+Salvo il disposto del [comma 2° dell'art. 3 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md), gli alunni degli istituti medi Regi e pareggiati hanno obbligo di frequentare con assiduita' e diligenza i corsi di educazione fisica tenuti dall'Ente a norma dell'art. 26. 
  
  Valgono al riguardo le disposizioni di cui agli [articoli 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;756#art_17) e [18 del regolamento 30 aprile 1924 n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;756#art_18); le attribuzioni previste dai precitati articoli sono deferite all'insegnante di educazione fisica.
 
@@ -401,7 +401,7 @@ Capo VII.
 
 ### Art. 46.
 
-Non oltre il mese di luglio, il Consiglio amministrativo dell'Ente stabilisce, nei limiti di cui al [comma 1° dell'articolo 7 del R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684#art_7-com1), l'ammontare della tassa per l'educazione fisica, che gli alunni sono tenuti a versare all'Ente medesimo per l'anno scolastico successivo.
+Non oltre il mese di luglio, il Consiglio amministrativo dell'Ente stabilisce, nei limiti di cui al [comma 1° dell'articolo 7 del R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md), l'ammontare della tassa per l'educazione fisica, che gli alunni sono tenuti a versare all'Ente medesimo per l'anno scolastico successivo.
 
 ### Art. 47.
 
@@ -429,7 +429,7 @@ Capo VIII.
 
 ### Art. 51.
 
-I Comuni, a norma dell'[art. 103 del R. decreto 6 maggio 1923 n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_103) e dell'[art. 2 del R. decreto 31 dicembre 1923 n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), hanno obbligo di provvedere alla custodia, alla pulizia, al servizio, all'illuminazione e al riscaldamento degli stadi e delle palestre di proprieta' o in uso dell'Ente.
+I Comuni, a norma dell'[art. 103 del R. decreto 6 maggio 1923 n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) e dell'[art. 2 del R. decreto 31 dicembre 1923 n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), hanno obbligo di provvedere alla custodia, alla pulizia, al servizio, all'illuminazione e al riscaldamento degli stadi e delle palestre di proprieta' o in uso dell'Ente.
 
 ### Art. 52.
 
@@ -437,7 +437,7 @@ Con successivo decreto Reale verranno determinati i programmi e gli orari per le
 
 ### Art. 53.
 
-In materia di alunni, esami e tasse valgono, in quanto siano applicabili e non contrastino con le disposizioni dei [Regi decreti 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684) e [31 dicembre 1923 n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), del presente regolamento e del decreto da emanarsi a norma del precedente articolo, le disposizioni del [regolamento 30 aprile 1924 n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;756).
+In materia di alunni, esami e tasse valgono, in quanto siano applicabili e non contrastino con le disposizioni dei [Regi decreti 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) e [31 dicembre 1923 n. 3039](Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md), del presente regolamento e del decreto da emanarsi a norma del precedente articolo, le disposizioni del [regolamento 30 aprile 1924 n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-04-30;756).
 
 ## Disposizioni transitorie.
 
@@ -449,7 +449,7 @@ Il Comitato consultivo di cui all'art. 8 sara' costituito con l'inizio dell'anno
 
 ### Art. 55.
 
-Le palestre, i campi di giuoco e sportivi e, in genere, tutti i locali ed ambienti, eccezion fatta per quelli dei convitti nazionali, che all'atto della pubblicazione del [R. decreto 15 marzo 1923 n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-15;684) erano adibiti per l'educazione fisica degli alunni di istituti medi Regi e pareggiati, rimarranno, per lo stesso fine e debitamente forniti di attrezzi e arredamento, a disposizione dell'Ente per non oltre il decennio previsto dall'art. 12 del decreto medesimo. 
+Le palestre, i campi di giuoco e sportivi e, in genere, tutti i locali ed ambienti, eccezion fatta per quelli dei convitti nazionali, che all'atto della pubblicazione del [R. decreto 15 marzo 1923 n. 684](../Regi%20decreti/Che%20istituisce%20lEnte%20nazionale%20per%20leducazione%20fisica%20annesso%20ai%20Regi%20Istituti%20superiori%20di%20Milano%20e%20detta%20norme%20per%20leducazione%20fisica%20degli%20studenti%20delle%20scuole%20medie.%20023U0684.md) erano adibiti per l'educazione fisica degli alunni di istituti medi Regi e pareggiati, rimarranno, per lo stesso fine e debitamente forniti di attrezzi e arredamento, a disposizione dell'Ente per non oltre il decennio previsto dall'art. 12 del decreto medesimo. 
  
  Gli enti, a carico dei quali e' l'obbligo stabilito dal precitato art. 12, sono tenuti, per tutto il periodo di tempo sopra indicato, a provvedere alla custodia, pulizia, servizio, illuminazione e riscaldamento delle palestre, campi, locali ed ambienti di cui al comma 1° del presente articolo e a mantenerli in condizioni idonee allo scopo cui sono destinati; ma la custodia, il servizio e la pulizia delle palestre, locali ed ambienti annessi a Regi istituti medi, cui sono addetti bidelli a carico dello Stato, spettano a questi ultimi per lo stesso periodo di tempo e senza speciale compenso. 
  

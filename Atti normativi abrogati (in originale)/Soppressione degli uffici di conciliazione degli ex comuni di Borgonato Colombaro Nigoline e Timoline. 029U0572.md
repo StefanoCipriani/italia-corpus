@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 14 luglio 1928, n. 1837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-07-14;1837), col quale i comuni di Borgonato, Colombaro, Nigoline e Timoline venivano riuniti in un solo Comune denominato Corte Franca; 
+ Visto il [R. decreto 14 luglio 1928, n. 1837](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Borgonato%20Colombaro%20Nigoline%20e%20Timoline%20in%20un%20unico%20Comune%20denominato%20%20Corte%20Franca%20%20con%20capoluogo%20Timoline.%20028U1837.md), col quale i comuni di Borgonato, Colombaro, Nigoline e Timoline venivano riuniti in un solo Comune denominato Corte Franca; 
  
  Vista la deliberazione del commissario prefettizio di detto Comune, con la quale si chiede che per tutto il territorio del comune di Corte Franca funzioni un solo ufficio di conciliazione; 
  

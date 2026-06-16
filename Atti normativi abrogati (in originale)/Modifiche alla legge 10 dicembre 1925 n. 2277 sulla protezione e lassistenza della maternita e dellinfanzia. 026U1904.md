@@ -139,7 +139,7 @@ Tra il primo e il secondo comma dell'art. 21 della legge e' inserito il seguente
  
  Il penultimo comma dello stesso art. 21 e' cosi' modificato: 
  
- «I contravventori alle disposizioni dei primi tre commi del presente articolo sono puniti a termini dell'[art. 48, secondo comma, del testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_48-com2) 30 giugno 1889, n. 6144.
+ «I contravventori alle disposizioni dei primi tre commi del presente articolo sono puniti a termini dell'[art. 48, secondo comma, del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 30 giugno 1889, n. 6144.
 
 ## Art. 13.
 

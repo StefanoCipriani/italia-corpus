@@ -16,7 +16,7 @@ Vista la [legge 12 dicembre 1962, n. 1862](../Leggi%20delega%20e%20relativi%20pr
 
 Vista la [legge 9 ottobre 1964, n. 1058](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20della%20delega%20al%20Governo%20per%20lemanazione%20di%20norme%20relative%20al%20riordinamento%20del%20Ministero%20della%20difesa%20e%20degli%20Stati%20maggiori%20e%20delega%20per%20il%20riordinamento%20delle%20carriere%20e%20delle%20c_90e4698fc918.md), concernente rinnovo della delega predetta;
 
-Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e successive modificazioni;
 
 Udito il parere del Consiglio superiore delle Forze armate;
 

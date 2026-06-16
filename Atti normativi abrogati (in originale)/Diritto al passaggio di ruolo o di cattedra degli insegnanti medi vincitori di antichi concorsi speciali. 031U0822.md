@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e i [regolamenti 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367), e [9 dicembre 1926, numero 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-12-09;2480);
+Veduto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e i [regolamenti 27 novembre 1924, n. 2367](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1924-11-27;2367), e [9 dicembre 1926, numero 2480](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-12-09;2480);
 
 Veduto il [R. decreto 6 maggio 1929, n. 763](Abolizione%20della%20distinzione%20tra%20primaria%20e%20secondaria%20importanza%20delle%20sedi%20dei%20Regi%20istituti%20medi%20distruzione.%20029U0763.md);
 

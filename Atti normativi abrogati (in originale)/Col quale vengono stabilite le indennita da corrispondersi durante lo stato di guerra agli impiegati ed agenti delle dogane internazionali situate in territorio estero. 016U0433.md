@@ -24,7 +24,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Visto il ruolo organico del personale delle dogane approvato con la [legge 5 giugno 1913, n. 541](Che%20approva%20modificazioni%20ai%20ruoli%20organici%20del%20personale%20dellAmministrazione%20esterna%20delle%20gabelle%20degli%20uffici%20tecnici%20di%20finanza%20del%20personale%20tecnico%20ed%20amministrativo%20degli%20stabilime_df0a6fc0f2f8.md); 
  
- Visto l'art 56 del regolamento di servizio per il personale delle dogane approvato con il [R. decreto 30 giugno 1910, n. 459](Che%20approva%20lannesso%20regolamento%20di%20servizio%20del%20personale%20delle%20dogane.%20010U0459.md); 
+ Visto l'art 56 del regolamento di servizio per il personale delle dogane approvato con il [R. decreto 30 giugno 1910, n. 459](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20di%20servizio%20del%20personale%20delle%20dogane.%20010U0459.md); 
  
  Udito il Consiglio dei ministri; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- L'indennita' stabilita dall'art. 56, ultima parte, del regolamento di servizio per il personale delle dogane, approvato con [R. decreto 30 giugno 1910, n. 459](Che%20approva%20lannesso%20regolamento%20di%20servizio%20del%20personale%20delle%20dogane.%20010U0459.md), e' corrisposta agli impiegati ed agenti delle dogane internazionali situate in territorio estero, nella seguente misura annua: 
+ L'indennita' stabilita dall'art. 56, ultima parte, del regolamento di servizio per il personale delle dogane, approvato con [R. decreto 30 giugno 1910, n. 459](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20di%20servizio%20del%20personale%20delle%20dogane.%20010U0459.md), e' corrisposta agli impiegati ed agenti delle dogane internazionali situate in territorio estero, nella seguente misura annua: 
  
  L. 1080 al capo della dogana; 
  

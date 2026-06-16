@@ -18,7 +18,7 @@ Veduta la deliberazione presa nell'adunanza del 27 aprile 1926 del Consiglio d'a
 
 Vedute le tariffe per il calcolo delle semestralita' per l'estinzione dei mutui al 6 per cento presentate dal predetto Istituto;
 
-Veduto l'art. 78. penultimo capoverso, della legge ([testo unico) 16 luglio 1905, n. 646, e l'art. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646#art_82) del regolamento approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Veduto l'art. 78. penultimo capoverso, della legge ([testo unico) 16 luglio 1905, n. 646, e l'art. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1905-07-16;646#art_82) del regolamento approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Veduto il [R. decreto-legge 15 ottobre 1925, n. 1923](Modificazione%20del%20testo%20unico%2016%20luglio%201905%20n.%20646%20delle%20leggi%20sul%20credito%20fondiario%20e%20agevolazioni%20tributarie%20per%20le%20operazioni%20di%20credito%20fondiario.%20025U1923.md), convertito in legge con la [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), che modifica il testo unico predetto;
 

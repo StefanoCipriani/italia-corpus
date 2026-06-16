@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-I militari che, per essersi distinti con atti di valore personale nella guerra attuale, abbiano conseguito in conformita' delle disposizioni vigenti una promozione per merito di guerra o una medaglia al valore, sono riabilitati di diritto, nel caso preveduto nell'articolo 632, parte prima e capoverso, del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e possono, nel caso preveduto nell'[art. 100 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiedere la riabilitazione anche prima che siano trascorsi i termini ivi stabiliti per poter proporre l'istanza.
+I militari che, per essersi distinti con atti di valore personale nella guerra attuale, abbiano conseguito in conformita' delle disposizioni vigenti una promozione per merito di guerra o una medaglia al valore, sono riabilitati di diritto, nel caso preveduto nell'articolo 632, parte prima e capoverso, del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e possono, nel caso preveduto nell'[art. 100 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiedere la riabilitazione anche prima che siano trascorsi i termini ivi stabiliti per poter proporre l'istanza.
 
 ## Art. 2.
 
-Per i militari i quali, non avendo conseguito cuna delle distinzioni di valore personale indicato nell'articolo precedente, abbiano partecipato alla campagna servendo con fedelta' ed onore, i termini, rispettivamente stabiliti negli [articoli 190 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 632 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), si computano ragguagliando ad un anno ogni trimestre di campagna, compiuto o anche soltanto iniziato. Il ragguaglio della multa si fa a termini dell'[art. 19 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Per i militari i quali, non avendo conseguito cuna delle distinzioni di valore personale indicato nell'articolo precedente, abbiano partecipato alla campagna servendo con fedelta' ed onore, i termini, rispettivamente stabiliti negli [articoli 190 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 632 del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), si computano ragguagliando ad un anno ogni trimestre di campagna, compiuto o anche soltanto iniziato. Il ragguaglio della multa si fa a termini dell'[art. 19 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 3.
 
@@ -30,7 +30,7 @@ I militari i quali abbiano, per atti di valore personale compiuti nell'attuale c
 
 ## Art. 5.
 
-La disposizione dell'art. 4 si applica anche ai militari che si trovino sottoposti alla vigilanza speciale dell'autorita' di pubblica sicurezza. L'autorita' giudiziaria ordina, a norma dell'[art. 42 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la cessazione o la limitazione della vigilanza, secondo che ricorra la condizione indicata nella prima parte, o nel capoverso dell'articolo precedente.
+La disposizione dell'art. 4 si applica anche ai militari che si trovino sottoposti alla vigilanza speciale dell'autorita' di pubblica sicurezza. L'autorita' giudiziaria ordina, a norma dell'[art. 42 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la cessazione o la limitazione della vigilanza, secondo che ricorra la condizione indicata nella prima parte, o nel capoverso dell'articolo precedente.
 
 ## Art. 6.
 

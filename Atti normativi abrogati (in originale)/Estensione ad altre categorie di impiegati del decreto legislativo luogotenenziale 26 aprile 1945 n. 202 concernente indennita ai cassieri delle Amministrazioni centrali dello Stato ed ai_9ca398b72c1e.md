@@ -14,7 +14,7 @@ Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%2
 
 Visto il [regio decreto-legge 20 gennaio 1921, n. 22](Che%20modifica%20i%20ruoli%20organici%20del%20personale%20della%20R.%20Zecca%20e%20dell%20Officina%20governativa%20carte%20-%20valori.%20021U0022.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
 
-Visto l'art. 186, 2° comma, del [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto l'art. 186, 2° comma, del [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Vista la [legge 25 gennaio 1940, n. 4](Riordinamento%20dei%20ruoli%20del%20personale%20dellAmministrazione%20finanziaria.%20040U0004.md);
 

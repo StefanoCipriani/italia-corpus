@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 22 dicembre 1927, n. 2519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-22;2519), col quale i comuni di Cursolo e di Orasso venivano riuniti in un solo Comune denominato Cursolo Orasso con sede nella frazione Airetta gia' dipendente da Cursolo; 
+ Visto il [R. decreto 22 dicembre 1927, n. 2519](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cursolo%20ed%20Orasso%20in%20un%20unico%20Comune%20denominato%20Cursolo-Orasso.%20027U2519.md), col quale i comuni di Cursolo e di Orasso venivano riuniti in un solo Comune denominato Cursolo Orasso con sede nella frazione Airetta gia' dipendente da Cursolo; 
  
  Vista la deliberazione del podesta' di detto Comune con la quale si chiede che per tutto il territorio del comune di Cursolo Orasso funzioni un solo ufficio di conciliazione; 
  

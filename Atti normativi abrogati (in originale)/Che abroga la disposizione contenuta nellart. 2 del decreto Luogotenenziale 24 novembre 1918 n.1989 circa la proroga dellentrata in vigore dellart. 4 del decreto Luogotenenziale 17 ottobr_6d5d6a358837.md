@@ -24,9 +24,9 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md); 
  
- Visti la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), ed il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
+ Visti la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), ed il [R. decreto 20 novembre 1912, n. 1205](../Regi%20decreti/riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
  
- Visto il [R. decreto 15 gennaio 1914, n. 56](col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md), che approva l'ordinamento scolastico per la Tripolitania e per la Cirenaica, ed il Nostro decreto 17 ottobre 1915, n. 1809, col quale vennero stabilite le relative norme 
+ Visto il [R. decreto 15 gennaio 1914, n. 56](../Regi%20decreti/col%20quale%20viene%20approvato%20lordinamento%20scolastico%20della%20Tripolitana%20e%20della%20Cirenaica.%20014U0056.md), che approva l'ordinamento scolastico per la Tripolitania e per la Cirenaica, ed il Nostro decreto 17 ottobre 1915, n. 1809, col quale vennero stabilite le relative norme 
  
  regolamentari; 
  

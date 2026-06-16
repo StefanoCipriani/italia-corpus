@@ -61,7 +61,7 @@ Il Ministro per l'agricoltura e le foreste e' autorizzato ad emanare con proprio
 
 ## Art. 8.
 
-I contravventori alle disposizioni del presente decreto ed a quelle che saranno emanate in dipendenza del decreto stesso sono puniti con le penalita' previste dall'[art. 8 del R. decreto 10 giugno 1931, n. 723](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-10;723#art_8), modificato con l'art. 5 del presente decreto.
+I contravventori alle disposizioni del presente decreto ed a quelle che saranno emanate in dipendenza del decreto stesso sono puniti con le penalita' previste dall'[art. 8 del R. decreto 10 giugno 1931, n. 723](../Regi%20decreti/Obbligatorieta%20dellimpiego%20di%20una%20determinata%20percentuale%20di%20grano%20nazionale%20nella%20produzione%20di%20farine%20e%20di%20semolini%20per%20uso%20alimentare.%20031U0723.md), modificato con l'art. 5 del presente decreto.
 
 ## Art. 9.
 

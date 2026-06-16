@@ -16,7 +16,7 @@ UMBERTO I.
  
  RE D'ITALIA 
  
- Visto il [R. Decreto 24 settembre 1889 n. 6479](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-09-24;6479) (serie 3ª); 
+ Visto il [R. Decreto 24 settembre 1889 n. 6479](../Regi%20decreti/Che%20istituisce%20un%20ospedale%20succursale%20presso%20il%20R.%20arsenale%20marittimo%20di%20Taranto.%20089U6479.md) (serie 3ª); 
  
  Vista la [legge 28 giugno 1891 n. 309](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20marina%20per%20lesercizio%20finanziario%201891-92.%20091U0309.md) che approva lo stato di previsione della spesa del Ministero della Marina per l'esercizio finanziario 1891-92; 
  

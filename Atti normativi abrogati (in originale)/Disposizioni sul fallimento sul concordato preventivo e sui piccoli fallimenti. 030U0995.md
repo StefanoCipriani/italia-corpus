@@ -192,7 +192,7 @@ La durata dell'inabilitazione all'esercizio della professione di commerciante pr
  
  Tale inabilitazione importa, oltre al divieto di compiere professionalmente atti di commercio e di essere socio a responsabilita' illimitata di societa', commerciale, il divieto di esercitare l'ufficio di institore nonche' l'ufficio di amministratore, liquidatore o sindaco di societa' commerciale. 
  
- Il condannato che trasgredisca a questi divieti e' soggetto alla pena dell'[art. 234, n. 1, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Il condannato che trasgredisca a questi divieti e' soggetto alla pena dell'[art. 234, n. 1, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Disposizioni sul concordato preventivo e sui piccoli fallimenti.
 

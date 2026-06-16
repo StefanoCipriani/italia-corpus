@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 24 giugno 1923, n. 1395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-06-24;1395);
 
-Visto il regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-11;274);
+Visto il regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](../Regi%20decreti/Regolamento%20per%20la%20professione%20di%20geometra.%20029U0274.md);
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 I geometri, gli ingegneri e i dottori in scienze agrarie, i quali, trovandosi nelle condizioni prevedute dagli articoli 21, 22 e 23 del regolamento approvato con R decreto 11 febbraio 1929. n 274, intendono valersi della facolta' ivi stabilita, devono presentare domanda alla Regia prefettura del luogo di loro residenza nel termine perentorio di un anno dall'entrata in vigore del presente decreto. La domanda deve essere presentata pure nel caso in cui gli indicati professionisti abbiano in qualsiasi modo ottenuto dichiarazione o riconoscimento, anche' mediante iscrizione negli albi professionali, di potere esercitare l'anzidetta facolta'. 
  
- La domanda deve essere corredata con titoli e documenti particolareggiati comprovanti, per gli ingegneri ed i dottori in scienze agrarie, l'esercizio delle mansioni proprie dei geometri anteriormente al 30 marzo 1929, data di entrata in vigore del predetto [R. decreto 11 febbraio 1929, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-11;274), e, per i geometri, il lodevole esercizio, per un triennio anteriore alla data suindicata, della prestazione o delle prestazioni eccedenti l'oggetto della profesione di geometra, per le quali si chiede il riconoscimento. 
+ La domanda deve essere corredata con titoli e documenti particolareggiati comprovanti, per gli ingegneri ed i dottori in scienze agrarie, l'esercizio delle mansioni proprie dei geometri anteriormente al 30 marzo 1929, data di entrata in vigore del predetto [R. decreto 11 febbraio 1929, n. 274](../Regi%20decreti/Regolamento%20per%20la%20professione%20di%20geometra.%20029U0274.md), e, per i geometri, il lodevole esercizio, per un triennio anteriore alla data suindicata, della prestazione o delle prestazioni eccedenti l'oggetto della profesione di geometra, per le quali si chiede il riconoscimento. 
  
  Alla domanda deve unirsi la quietanza del procuratore del registro che attesti il versamento all'Erario dello Stato della somma di lire duecento.
 
@@ -52,7 +52,7 @@ Sulle domande indicate nell'articolo precedente decide una Commissione nominata 
 
 Per quanto concerne i geometri la Commissione, qualora il giudizio sulla domanda sia favorevole, precisa l'attivita' eccedente l'oggetto della professione di geometra che il richiedente e' stato autorizzato a compiere. 
  
- In nessun caso puo' essere riconosciuta al geometra la facolta' di compiere operazioni, le quali giusta l'art. 21 del regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-11;274), siano vietate ai geometri, a termini del [R. decreto-legge 29 luglio 1933, n. 1213](Norme%20per%20laccettazione%20dei%20leganti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20033U1213.md), convertito nella [legge 5 febbraio 1934, n. 313](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201933%20n.%201213%20recante%20norme%20per%20laccettazione%20dei%20leganti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20ce_0dd866a653f4.md), contenente norme per l'accettazione degli agglomerati idraulici e l'esecuzione di opere in conglomerato cementizio.
+ In nessun caso puo' essere riconosciuta al geometra la facolta' di compiere operazioni, le quali giusta l'art. 21 del regolamento approvato con [R. decreto 11 febbraio 1929, n. 274](../Regi%20decreti/Regolamento%20per%20la%20professione%20di%20geometra.%20029U0274.md), siano vietate ai geometri, a termini del [R. decreto-legge 29 luglio 1933, n. 1213](Norme%20per%20laccettazione%20dei%20leganti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20cementizio.%20033U1213.md), convertito nella [legge 5 febbraio 1934, n. 313](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201933%20n.%201213%20recante%20norme%20per%20laccettazione%20dei%20leganti%20idraulici%20e%20per%20la%20esecuzione%20delle%20opere%20in%20conglomerato%20ce_0dd866a653f4.md), contenente norme per l'accettazione degli agglomerati idraulici e l'esecuzione di opere in conglomerato cementizio.
 
 ## Art. 4.
 

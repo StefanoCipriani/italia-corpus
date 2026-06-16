@@ -30,7 +30,7 @@ E' istituita una Commissione di esperti con l'incarico di esaminare sopra luogo 
 
 ## Art. 2.
 
-Il contributo di cui al precedente articolo verra' annualmente stabilito con decreto Reale, promosso dal Presidente del Consiglio dei Ministri, di concerto con i Ministri per le finanze, per la guerra, per la marina e per l'economia nazionale, su proposta del presidente del Comitato per la preparazione della mobilitazione nazionale, di cui all'[art. 5 del R. decreto 11 gennaio 1923, n. 21](Relativo%20alla%20istituzione%20di%20una%20Commissione%20Suprema%20mista%20di%20difesa.%20023U0021.md), tenendo presente la reale utilita' degli immobili e degli altri beni da conservarsi, nonche' il valore della produzione di pace comunque effettuantesi. 
+Il contributo di cui al precedente articolo verra' annualmente stabilito con decreto Reale, promosso dal Presidente del Consiglio dei Ministri, di concerto con i Ministri per le finanze, per la guerra, per la marina e per l'economia nazionale, su proposta del presidente del Comitato per la preparazione della mobilitazione nazionale, di cui all'[art. 5 del R. decreto 11 gennaio 1923, n. 21](../Regi%20decreti/Relativo%20alla%20istituzione%20di%20una%20Commissione%20Suprema%20mista%20di%20difesa.%20023U0021.md), tenendo presente la reale utilita' degli immobili e degli altri beni da conservarsi, nonche' il valore della produzione di pace comunque effettuantesi. 
  
  Il predetto contributo dovra' essere abolito per i beni la cui conservazione non sia piu' ritenuta necessaria, nell'interesse della difesa nazionale, ed in tal caso i proprietari ne riacquisteranno la libera disponibilita'.
 

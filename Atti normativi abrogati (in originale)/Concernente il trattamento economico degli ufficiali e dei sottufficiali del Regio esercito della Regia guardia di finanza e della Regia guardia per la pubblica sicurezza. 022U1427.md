@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge sugli stipendi ed assegni fissi dal Regio esercito, testo unico, approvato con [Regio decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), o successive modificazioni;
+Vista la legge sugli stipendi ed assegni fissi dal Regio esercito, testo unico, approvato con [Regio decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), o successive modificazioni;
 
 Visto il regolamento sugli stipendi ed assegni fissi per il Regio esercito, approvato con Regio decreto 10 dicembre 1882 e successive modificazioni;
 
@@ -26,7 +26,7 @@ Visto il [R. decreto 16 ottobre 1919, n. 1986](https://www.normattiva.it/uri-res
 
 Visto il decreto Luogotenenziale 6 aprile 1919, n, 494, riguardante provvedimenti per l'arma dei carabinieri Reali;
 
-Visto il [R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), riguardante il riordinamento dell'arma dei carabinieri Reali;
+Visto il [R. decreto 2 ottobre 1919, n. 1802](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), riguardante il riordinamento dell'arma dei carabinieri Reali;
 
 Vista la [legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md), sulla riforma dell'Amministrazione dello Stato, la semplificazione dei servizi e la riduzione del personale;
 
@@ -95,7 +95,7 @@ Agli ufficiali (compresi quelli delle categorie in congedo) i quali durante la g
  
  Il tempo trascorso in prigionia, non dipendente da cause imputabili all'ufficiale, si considera pure come passato presso i reparti combattenti fino alla data del rimpatrio; e, in ogni caso, non oltre le date di armistizio sui vari fronti. 
  
- A favore dei mutilati ed invalidi di guerra, ascritti alle prime sei categorie, giusta la tabella annessa al [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), o alle prime due, giusta l'art. 100 del testo unico di legge sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e' computato come servizio prestato in reparti combattenti quello decorso dalla data della mutilazione o della invalidita' (che determinarono l'allontanamento dai reparti medesimi) alle date di armistizio su indicate. 
+ A favore dei mutilati ed invalidi di guerra, ascritti alle prime sei categorie, giusta la tabella annessa al [decreto Luogotenenziale 20 maggio 1917, n. 876](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;876), o alle prime due, giusta l'art. 100 del testo unico di legge sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' computato come servizio prestato in reparti combattenti quello decorso dalla data della mutilazione o della invalidita' (che determinarono l'allontanamento dai reparti medesimi) alle date di armistizio su indicate. 
  
 ------------ 
 Nota redazionale 
@@ -106,7 +106,7 @@ Nota redazionale
 
 Agli ufficiali (compresi quelli delle categorie in congedo) che si trovino nelle condizioni previste dal precedente art. 7, spetta agli effetti della determinazione dello stipendio, qualunque sia la durata del servizio prestato presso i reparti combattenti e indipendentemente dai benefici derivanti dall'articolo predetto: 
  
- a) l'abbreviazione di due anni, se abbiano conseguito ricompense al valore, ovvero siano mutilati o invalidi di guerra ascritti alle prime sei categorie, giusta la tabella Annessa al [decreto Luogotenenziale 20 maggio 1917, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;873), od alle prime due, giusta l'art. 100 del testo unico di legge sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70); 
+ a) l'abbreviazione di due anni, se abbiano conseguito ricompense al valore, ovvero siano mutilati o invalidi di guerra ascritti alle prime sei categorie, giusta la tabella Annessa al [decreto Luogotenenziale 20 maggio 1917, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-20;873), od alle prime due, giusta l'art. 100 del testo unico di legge sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md); 
  
  b) l'abbreviazione di un anno, se abbiano ottenuto la croce di guerra o abbiano riportate ferite, ovvero siano mutilati o invalidi di guerra ascritti alle ultime quattro categorie, giusta la tabella indicata alla precedente lettera a), e alla terza categoria giusta l'art. 101 del lesto unico predetto. 
  
@@ -410,7 +410,7 @@ Dalla stessa data resta abrogata la [legge 4 aprile 1922, n. 418](Che%20concede%
  
  E' abrogato l'[art. 3 della legge 18 giugno 1922, n. 828](Riflettente%20il%20computo%20del%20tempo%20trascorso%20in%20zona%20darmistizio%20o%20in%20luoghi%20di%20cura%20per%20ferite%20e%20malattie%20riportate%20in%20guerra.%20022U0828.md), dalla data della sua entrata in vigore. 
  
- Sono abrogati, a partire dal 1° aprile 1922, l'ultimo comma dell'art. 39 aggiunto al [R. decreto-legge del 16 ottobre 1919, numero 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), col [R. decreto-legge 10 febbraio 1921, n. 125](che%20apporta%20modificazioni%20a%20quello%2016%20ottobre%201919%20n.1936%20relativo%20allo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20021U0125.md), riguardante i sergenti maggiori maniscalchi; e le disposizioni contenute nel [decreto Luogotenenziale 6 aprile 1919, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;494), e nel [R. decreto 2 ottobre 1919, n. 1802](Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), relativo alle paghe, alle indennita' di grado, agli aumenti triennali di servizio ed aumenti quadriennali di grado per i sottufficiali dei carabinieri Reali. 
+ Sono abrogati, a partire dal 1° aprile 1922, l'ultimo comma dell'art. 39 aggiunto al [R. decreto-legge del 16 ottobre 1919, numero 1986](Che%20regola%20lo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20019U1986.md), col [R. decreto-legge 10 febbraio 1921, n. 125](che%20apporta%20modificazioni%20a%20quello%2016%20ottobre%201919%20n.1936%20relativo%20allo%20stato%20giuridico%20ed%20economico%20dei%20sottufficiali%20del%20R.%20esercito.%20021U0125.md), riguardante i sergenti maggiori maniscalchi; e le disposizioni contenute nel [decreto Luogotenenziale 6 aprile 1919, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-06;494), e nel [R. decreto 2 ottobre 1919, n. 1802](../Regi%20decreti/Che%20detta%20le%20norme%20per%20larma%20dei%20carabinieri%20Reali.%20019U1802.md), relativo alle paghe, alle indennita' di grado, agli aumenti triennali di servizio ed aumenti quadriennali di grado per i sottufficiali dei carabinieri Reali. 
  
  Rimangono in vigore tutte le altre disposizioni che non contrastano col presente decreto; e sono abrogate tutte quelle contrarie. 
  

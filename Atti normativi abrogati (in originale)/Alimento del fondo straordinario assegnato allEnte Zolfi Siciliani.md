@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto legislativo 1° giugno 1946, n. 606](Assegnazione%20allEnte%20Zolfi%20Siciliani%20di%20un%20fondo%20straordinario.md), concernente l'assegnazione all'Ente Zolfi Siciliani di L. 60.000.000;
+Visto il [regio decreto legislativo 1° giugno 1946, n. 606](../Regi%20decreti%20legislativi/Assegnazione%20allEnte%20Zolfi%20Siciliani%20di%20un%20fondo%20straordinario.md), concernente l'assegnazione all'Ente Zolfi Siciliani di L. 60.000.000;
 
 Visti gli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md) e [6 del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md), relativo all'assemblea per la nuova costituzione dello Stato, al giuramento dei membri del Governo ed alla facolta' del Governo di emanare norme giuridiche;
 

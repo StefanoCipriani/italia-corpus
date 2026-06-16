@@ -22,7 +22,7 @@ Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%
 
 Visto il [R. decreto-legge 29 maggio 1944, n. 141](Istituzione%20presso%20la%20Sede%20del%20Governo%20di%20una%20Sezione%20Speciale%20di%20Controllo%20della%20Corte%20dei%20Conti%20del%20Regno%20dItalia.%20044U0141.md);
 
-Visti la, [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068), sull'ordinamento delle Borse di commercio;
+Visti la, [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md), sull'ordinamento delle Borse di commercio;
 
 Visto il [R. decreto-legge 30 giugno 1932, n. 815](Modifiche%20di%20alcune%20disposizioni%20inerenti%20alle%20Borse%20valori%20ed%20agli%20agenti%20di%20cambio.%20032U0815.md), sulle Borse valori;
 
@@ -42,7 +42,7 @@ Ciascun agente di cambio scrive sulla scheda sei ovvero tre nomi di colleghi, se
 
 ## Art. 3.
 
-Per quanto riguarda le operazioni, la disciplina, la polizia dell'assemblea, elettorale, i reclami sollevati nel seno di essa, ]a formazione del verbale, i documenti da annettersi e le pene ai contravventori alla legge ed ai regolamenti in materia elettorale, si applicano le disposizioni del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, modificato con [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
+Per quanto riguarda le operazioni, la disciplina, la polizia dell'assemblea, elettorale, i reclami sollevati nel seno di essa, ]a formazione del verbale, i documenti da annettersi e le pene ai contravventori alla legge ed ai regolamenti in materia elettorale, si applicano le disposizioni del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, modificato con [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md).
 
 ## Art. 4.
 

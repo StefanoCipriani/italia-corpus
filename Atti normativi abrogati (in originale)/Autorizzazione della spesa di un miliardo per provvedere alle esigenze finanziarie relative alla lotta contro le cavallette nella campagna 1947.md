@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Vista la [legge 18 giugno 1931, n. 987](Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md) e successive modificazioni;
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Visto il [decreto legislativo luogotenenziale 26 marzo 1946, n. 172](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20del%20R.%20decreto-legge%2021%20giugno%201940%20n.%20856%20e%20temporaneo%20aumento%20dei%20limiti%20di%20Spesa%20previsti%20dalla%20legge%20e%20dal%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20e%20dallart.%2018%20de_b480d758d3e6.md);
 

@@ -72,7 +72,7 @@ Al personale, sia centrale, sia periferico addetto ai servizi di cui all'art. 3 
 
 ## Art. 6.
 
-Al personale di cui al 2° comma dell'art. 5 che, a causa del servizio di guerra ed attinente alla guerra, abbia riportato ferite o lesioni o contratto infermita' da cui sia derivata perdita o menomazione della capacita' di lavoro, nonche' alle famiglie del personale stesso quando da tali ferite, lesioni od infermita' sia derivata la morte, si applicano le disposizioni del [R. decreto 12 luglio 1923, n. 1491](Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni. 
+Al personale di cui al 2° comma dell'art. 5 che, a causa del servizio di guerra ed attinente alla guerra, abbia riportato ferite o lesioni o contratto infermita' da cui sia derivata perdita o menomazione della capacita' di lavoro, nonche' alle famiglie del personale stesso quando da tali ferite, lesioni od infermita' sia derivata la morte, si applicano le disposizioni del [R. decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni. 
  
  Alle famiglie del personale di cui al comma precedente che, a norma delle disposizioni ivi previste, hanno titolo a pensione privilegiata di guerra, e' esteso il trattamento stabilito dal R. decreto-legge 15 marzo 1943-XXI, n. 121.
 

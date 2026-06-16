@@ -107,7 +107,7 @@ Il credito dello Stato per l'imposta e per i diritti previsti dai presente decre
 
 ## Art. 14.
 
-Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con le norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Le somme dovute per effetto dell'applicazione del presente decreto e non pagate, sono riscosse dal Ricevitore doganale con le norme del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 15.
 
@@ -120,8 +120,8 @@ Chiunque, senza avere adempiuto alle condizioni stabilite dal presente decreto, 
 
 ## Art. 17.
 
-Chiunque manomette o altera in qualsiasi modo i congegni, i bolli ed i sigilli applicati o fatti applicare dall'Amministrazione e' punito a termini dell'[art. 349 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
- Qualora si verifichi il caso della agevolazione colposa, sono applicabili le pene previste dall'[art. 350 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Chiunque manomette o altera in qualsiasi modo i congegni, i bolli ed i sigilli applicati o fatti applicare dall'Amministrazione e' punito a termini dell'[art. 349 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Qualora si verifichi il caso della agevolazione colposa, sono applicabili le pene previste dall'[art. 350 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 18.
 
@@ -152,7 +152,7 @@ L'Amministrazione ha facolta' di negare o revocare la licenza di cui all'art. 4 
 
 ## Art. 24.
 
-Le pene di cui al presente decreto sono raddoppiate in caso di reiterazione della violazione in deroga all'[articolo 99 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Le pene di cui al presente decreto sono raddoppiate in caso di reiterazione della violazione in deroga all'[articolo 99 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 25.
 
@@ -161,7 +161,7 @@ Se il colpevole deve rispondere del pagamento dei tributi oltre che dei reati pr
 ## Art. 26.
 
 Per i reati previsti dal presente decreto, l'esercente e' tenuto al pagamento di una somma pari all'ammontare della multa o dell'ammenda inflitta, se il condannato e' persona da lui dipendente o sottoposta alla sua autorita', direzione o vigilanza e risulti insolvente.
- Se anche l'esercente e' insolvente, si procede, contro il condannato, alla conversione della pena della multa o dell'ammenda in quella della reclusione o dell'arresto, secondo le norme del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Se anche l'esercente e' insolvente, si procede, contro il condannato, alla conversione della pena della multa o dell'ammenda in quella della reclusione o dell'arresto, secondo le norme del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Si osservano, in quanto applicabili, le disposizioni del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e quelle della [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), relative alla citazione e all'intervento delle persone e degli enti civilmente obbligati per le pene inflitte a persone dipendenti.
 
 ## Art. 27.
@@ -180,7 +180,7 @@ La ripartizione delle multe e delle ammende e' effettuata secondo le norme della
 
 ## Art. 30.
 
-Le disposizioni degli articoli 25 e 26 sono stabilite a complemento degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_10) e [18 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_18). La misura delle multe di cui agli articoli 16, 18 e 19 e' stabilita in deroga all'[art. 24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successive modificazioni.
+Le disposizioni degli articoli 25 e 26 sono stabilite a complemento degli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_9), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_10) e [18 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_18). La misura delle multe di cui agli articoli 16, 18 e 19 e' stabilita in deroga all'[art. 24 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successive modificazioni.
 
 ## Art. 31.
 

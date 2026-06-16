@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio del Ministri c
 
 ## Art. 1.
 
-Per le contravvenzioni alle norme dell'[art. 109 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_109), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), qualora la persona cui viene dato alloggio sia di cittadinanza straniera ovvero apolide, la misura, delle pene previste dall'art. 665, ultimo comma, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successive modificazioni, e' raddoppiata e si applica la pena dell'arresto, cui puo' essere aggiunta quella dell'ammenda.
+Per le contravvenzioni alle norme dell'[art. 109 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), qualora la persona cui viene dato alloggio sia di cittadinanza straniera ovvero apolide, la misura, delle pene previste dall'art. 665, ultimo comma, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e successive modificazioni, e' raddoppiata e si applica la pena dell'arresto, cui puo' essere aggiunta quella dell'ammenda.
 
 ## Art. 2.
 

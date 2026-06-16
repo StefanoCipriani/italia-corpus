@@ -86,11 +86,11 @@ Il [comma 3 dell'articolo 5 del decreto legislativo 30 dicembre 1992, n. 539](..
 
 3.
 
-All'[articolo 123, comma primo, lettera c), del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_123-com1-letc), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni, le parole: "sia conservata copia di tutte le ricette e" sono soppresse.
+All'[articolo 123, comma primo, lettera c), del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni, le parole: "sia conservata copia di tutte le ricette e" sono soppresse.
 
 4.
 
-All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706), le parole: "i farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "i farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee".
+All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20servizio%20farmaceutico.%20038U1706.md), le parole: "i farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "i farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee".
 
 5.
 
@@ -115,17 +115,17 @@ Il farmacista che vende un medicinale disciplinato dagli [articoli 5](../Atti%20
 1.
 
 Il [comma 9 dell'articolo 5 del decreto legislativo 18 aprile 1994, n. 286](Attuazione%20delle%20direttive%2091-497-CEE%20e%2091-498-CEE%20concernenti%20problemi%20sanitari%20in%20materia%20di%20produzione%20ed%20emissione%20sul%20mercato%20di%20carni%20fresche.md), e' sostituito dal seguente: 
- " 9. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), agli impianti in attivita' alla data di entata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto; in sede di rinnovo viene assegnato all'impianto il numero di identificazione e viene indicata la potenzialita' oraria definita in rapporto ai requisiti igienici e funzionali presenti.".
+ " 9. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), agli impianti in attivita' alla data di entata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto; in sede di rinnovo viene assegnato all'impianto il numero di identificazione e viene indicata la potenzialita' oraria definita in rapporto ai requisiti igienici e funzionali presenti.".
 
 2.
 
 Il [comma 6 dell'articolo 6 del decreto legislativo 18 aprile 1994, n. 286](Attuazione%20delle%20direttive%2091-497-CEE%20e%2091-498-CEE%20concernenti%20problemi%20sanitari%20in%20materia%20di%20produzione%20ed%20emissione%20sul%20mercato%20di%20carni%20fresche.md), e' sostituito dal seguente: 
- " 6. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), ai laboratori in attivita' alla data di entrata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1994; in sede di rinnovo viene assegnato al laboratorio il numero di identificazione.".
+ " 6. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), ai laboratori in attivita' alla data di entrata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1994; in sede di rinnovo viene assegnato al laboratorio il numero di identificazione.".
 
 3.
 
 Il [comma 2 dell'articolo 19 del decreto legislativo 18 aprile 1994, n. 286](Attuazione%20delle%20direttive%2091-497-CEE%20e%2091-498-CEE%20concernenti%20problemi%20sanitari%20in%20materia%20di%20produzione%20ed%20emissione%20sul%20mercato%20di%20carni%20fresche.md), e' sostituito dal seguente: 
- " 2. Fatto salvo quanto stabilito agli articoli 5, 6 e 14, le autorizzazioni rilasciate ai sensi del [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), cessano di avere efficacia il 28 febbraio 1995, a meno che venga presentata entro tale termine domanda di riconoscimento CE ai sensi dell'articolo 13.".
+ " 2. Fatto salvo quanto stabilito agli articoli 5, 6 e 14, le autorizzazioni rilasciate ai sensi del [regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), cessano di avere efficacia il 28 febbraio 1995, a meno che venga presentata entro tale termine domanda di riconoscimento CE ai sensi dell'articolo 13.".
 
 ## Art. 6.
 

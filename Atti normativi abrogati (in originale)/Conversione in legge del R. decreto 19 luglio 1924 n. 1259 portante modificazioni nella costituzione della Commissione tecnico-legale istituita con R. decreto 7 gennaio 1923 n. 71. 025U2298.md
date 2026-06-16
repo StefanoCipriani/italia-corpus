@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' Convertito in legge il [R. decreto 19 luglio 1924, n. 1259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1259), portante modificazioni alla costituzione della Commissione consultiva tecnico-legale istituita con [R. decreto 7 gennaio 1923, n. 71](Che%20istituisce%20presso%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20una%20Commissione%20consultiva%20tecnico-legale%20chiamata%20ad%20esprimere%20il%20proprio%20parere%20sugli%20affari%20riflettenti%20lAmministrazione.%20023U0071.md). 
+ E' Convertito in legge il [R. decreto 19 luglio 1924, n. 1259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-19;1259), portante modificazioni alla costituzione della Commissione consultiva tecnico-legale istituita con [R. decreto 7 gennaio 1923, n. 71](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20delle%20poste%20e%20dei%20telegrafi%20una%20Commissione%20consultiva%20tecnico-legale%20chiamata%20ad%20esprimere%20il%20proprio%20parere%20sugli%20affari%20riflettenti%20lAmministrazione.%20023U0071.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la legge 3 giugno 1940-XVIII, n. 729, che regifica il Liceo musicale pareggiato «Benedetto Marcello» di Venezia e che dispone l'approvazione della convenzione; 
  
- Visto il [R. decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945), sull'ordinamento dell'istruzione musicale del Regno; 
+ Visto il [R. decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md), sull'ordinamento dell'istruzione musicale del Regno; 
  
  Visto l'art. 1, n. 3, della legge 31 gennaio 1926-IV, n. 100; 
  

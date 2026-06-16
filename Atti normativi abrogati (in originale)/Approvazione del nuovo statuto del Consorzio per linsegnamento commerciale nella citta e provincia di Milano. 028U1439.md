@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 26 marzo 1925, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-26;502), con il quale e' stato eretto in ente morale il Consorzio per l'insegnamento commerciale inferiore e medio nella citta' e nella provincia di Milano ed e' stato approvato il relativo statuto; 
+ Visto il [R. decreto 26 marzo 1925, n. 502](../Regi%20decreti/Erezione%20in%20Ente%20morale%20del%20Consorzio%20per%20linsegnamento%20commerciale%20inferiore%20e%20medio%20in%20Milano.%20025U0502.md), con il quale e' stato eretto in ente morale il Consorzio per l'insegnamento commerciale inferiore e medio nella citta' e nella provincia di Milano ed e' stato approvato il relativo statuto; 
  
  Vista la deliberazione in data 25 giugno 1927, con la quale il Consiglio di amministrazione del Consorzio predetto ha proposto un nuovo statuto dell'Ente; 
  

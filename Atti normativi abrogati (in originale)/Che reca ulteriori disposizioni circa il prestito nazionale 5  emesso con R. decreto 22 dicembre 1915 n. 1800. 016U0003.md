@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I possessori di obbligazioni al portatore del prestito nazionale 4,50 % emesso in virtu' del [R. decreto 15 giugno 1915, n. 859](Col%20quale%20viene%20autorizzata%20lemissione%20di%20un%20nuovo%20prestito%20nazionale.%20015U0859.md), che intendono di sostituirle con obbligazioni del prestito 5 % emesso per effetto del [R. decreto 22 dicembre 1915, n. 1800](Che%20da%20facolta%20al%20presidente%20del%20Consiglio%20dei%20ministri%20e%20al%20ministro%20del%20tesoro%20di%20effettuare%20una%20operazione%20di%20credito%20per%20raccogliere%20i%20mezzi%20occorrenti%20a%20fronteggiare%20le%20spese%20di%20guer_500dd5fac2df.md), dovranno esibire i loro titoli non piu' tardi del 10 luglio 1916 alle sedi o alle succursali dei tre Istituti di emissione, versando contemporaneamente L. 2,50 per ogni cento lire di capitale nominale. 
+I possessori di obbligazioni al portatore del prestito nazionale 4,50 % emesso in virtu' del [R. decreto 15 giugno 1915, n. 859](../Regi%20decreti/Col%20quale%20viene%20autorizzata%20lemissione%20di%20un%20nuovo%20prestito%20nazionale.%20015U0859.md), che intendono di sostituirle con obbligazioni del prestito 5 % emesso per effetto del [R. decreto 22 dicembre 1915, n. 1800](../Regi%20decreti/Che%20da%20facolta%20al%20presidente%20del%20Consiglio%20dei%20ministri%20e%20al%20ministro%20del%20tesoro%20di%20effettuare%20una%20operazione%20di%20credito%20per%20raccogliere%20i%20mezzi%20occorrenti%20a%20fronteggiare%20le%20spese%20di%20guer_500dd5fac2df.md), dovranno esibire i loro titoli non piu' tardi del 10 luglio 1916 alle sedi o alle succursali dei tre Istituti di emissione, versando contemporaneamente L. 2,50 per ogni cento lire di capitale nominale. 
  
  Per i titoli che verranno presentati col versamento di 2,50 ogni cento lire di capitale nominale non piu' tardi del 25 gennaio 1916, non sono dovuti interessi sul versamento stesso. 
  
@@ -46,7 +46,7 @@ L'autorizzazione data agli Istituti di emissione di fare anticipazioni sui titol
 
 ## Art. 6.
 
-All'atto della sottoscrizione saranno accettati in pagamento, fino a concorrenza della meta' della somma sottoscritta, i titoli del Prestito nazionale emessi in virtu' del [R. decreto 19 dicembre 1914, n. 1371](Col%20quale%20viene%20autorizzata%20lemissione%20di%20un%20prestito%20nazionale.%20014U1371.md). Questi titoli saranno valutati per L. 97,50, purche' all'atto della loro presentazione siano versate L. 5 per ogni cento lire di capitale nominale, e sulla somma corrispondente all'importo dei titoli stessi i sottoscrittori non sono obbligati a pagamento di interessi. 
+All'atto della sottoscrizione saranno accettati in pagamento, fino a concorrenza della meta' della somma sottoscritta, i titoli del Prestito nazionale emessi in virtu' del [R. decreto 19 dicembre 1914, n. 1371](../Regi%20decreti/Col%20quale%20viene%20autorizzata%20lemissione%20di%20un%20prestito%20nazionale.%20014U1371.md). Questi titoli saranno valutati per L. 97,50, purche' all'atto della loro presentazione siano versate L. 5 per ogni cento lire di capitale nominale, e sulla somma corrispondente all'importo dei titoli stessi i sottoscrittori non sono obbligati a pagamento di interessi. 
  
  I detti titoli dovranno essere presentati alle sedi e succursali degli Istituti di emissione incaricati di ricevere le sottoscrizioni, i quali ritireranno i titoli esibiti, annullandoli in presenza e previa firma dell'esibitore. 
  
@@ -58,7 +58,7 @@ All'atto della sottoscrizione saranno accettati in pagamento, fino a concorrenza
 
 ## Art. 7.
 
-Con decreti del ministro del tesoro sara' provveduto agli occorrenti stanziamenti negli stati di previsione dell'entrata e della spesa del Ministero del tesoro, in dipendenza del presente decreto e del [R. decreto 22 dicembre 1915, n. 1800](Che%20da%20facolta%20al%20presidente%20del%20Consiglio%20dei%20ministri%20e%20al%20ministro%20del%20tesoro%20di%20effettuare%20una%20operazione%20di%20credito%20per%20raccogliere%20i%20mezzi%20occorrenti%20a%20fronteggiare%20le%20spese%20di%20guer_500dd5fac2df.md), come pure a tutto quanto occorra per la esecuzione dei decreti stessi. 
+Con decreti del ministro del tesoro sara' provveduto agli occorrenti stanziamenti negli stati di previsione dell'entrata e della spesa del Ministero del tesoro, in dipendenza del presente decreto e del [R. decreto 22 dicembre 1915, n. 1800](../Regi%20decreti/Che%20da%20facolta%20al%20presidente%20del%20Consiglio%20dei%20ministri%20e%20al%20ministro%20del%20tesoro%20di%20effettuare%20una%20operazione%20di%20credito%20per%20raccogliere%20i%20mezzi%20occorrenti%20a%20fronteggiare%20le%20spese%20di%20guer_500dd5fac2df.md), come pure a tutto quanto occorra per la esecuzione dei decreti stessi. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

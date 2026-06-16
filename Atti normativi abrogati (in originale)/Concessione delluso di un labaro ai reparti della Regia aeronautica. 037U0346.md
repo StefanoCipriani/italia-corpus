@@ -58,7 +58,7 @@ Il drappo e' costituito da stoffa di seta, colore azzurro-cobalto; su di esso e'
 
 ## Art. 5.
 
-Sono estese ai labari, in quanto applicabili, le disposizioni di cui all'[art. 8 del R. decreto 30 novembre 1936, n. 2181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-30;2181#art_8).
+Sono estese ai labari, in quanto applicabili, le disposizioni di cui all'[art. 8 del R. decreto 30 novembre 1936, n. 2181](../Regi%20decreti/Concessione%20della%20bandiera%20agli%20stormi%20della%20Regia%20aeronautica.%20036U2181.md).
 
 ## Art. 6.
 

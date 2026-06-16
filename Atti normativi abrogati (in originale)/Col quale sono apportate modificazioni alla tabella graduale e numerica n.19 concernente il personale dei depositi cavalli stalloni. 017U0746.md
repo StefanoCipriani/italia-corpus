@@ -20,7 +20,7 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dal Ministero della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
+Visto il testo unico delle leggi sull'ordinamento del R. esercito e dei servizi dipendenti dal Ministero della guerra, approvato con [R. decreto 14 luglio 1898, n. 525](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e successive modificazioni;
 
 Visto il R. decreto 11 maggio 1911 col quale vennero approvate le tabelle graduali e numeriche di formazione del R. esercito;
 

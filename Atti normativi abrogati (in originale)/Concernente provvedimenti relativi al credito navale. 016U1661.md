@@ -20,7 +20,7 @@ RE D'ITALIA.
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti i [Regi decreti 20 dicembre 1914, n. 1375](Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), e [23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md);
+Visti i [Regi decreti 20 dicembre 1914, n. 1375](../Regi%20decreti/Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md), e [23 maggio 1915, n. 700](../Regi%20decreti/Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md);
 
 Visto il capo IV del titolo IX, libro II del Codice di commercio;
 
@@ -32,9 +32,9 @@ Sulla proposta del ministro per i trasporti marittimi e ferroviari, di concerto 
 
 ## Art. 1.
 
-I termini assegnati dall'[art. 2 del R. decreto 20 dicembre 1914, n. 1375](Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md) e dall'[art. 5 del R. decreto 23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), al Consorzio per sovvenzioni su valori industriali, sono rispettivamente prorogati al 31 dicembre 1918 e al 31 dicembre 1920. 
+I termini assegnati dall'[art. 2 del R. decreto 20 dicembre 1914, n. 1375](../Regi%20decreti/Che%20autorizza%20la%20costituzione%20di%20un%20Consorzio%20fra%20Istituti%20di%20emissione%20ed%20altri%20enti%20per%20sovvenzioni%20su%20valori%20industriali.%20014U1375.md) e dall'[art. 5 del R. decreto 23 maggio 1915, n. 700](../Regi%20decreti/Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), al Consorzio per sovvenzioni su valori industriali, sono rispettivamente prorogati al 31 dicembre 1918 e al 31 dicembre 1920. 
  
- La facolta', di che al secondo capoverso dell'[art. 5 del R. decreto 23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), per l'applicazione di un saggio di sconto ridotto, potra' essere estesa dal Comitato centrale amministrativo del Consorzio, anche ad operazioni presentate da ditte di primo ordine.
+ La facolta', di che al secondo capoverso dell'[art. 5 del R. decreto 23 maggio 1915, n. 700](../Regi%20decreti/Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), per l'applicazione di un saggio di sconto ridotto, potra' essere estesa dal Comitato centrale amministrativo del Consorzio, anche ad operazioni presentate da ditte di primo ordine.
 
 ## Art. 2.
 
@@ -70,7 +70,7 @@ Nessuna estinzione o decadenza potra' avvenire in pregiudizio dei crediti non so
 
 ## Art. 7.
 
-Nei limiti fissati dall'art. 6 e alle condizioni stabilite nell'[art. 7 del R. decreto 23 maggio 1915, n. 700](Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), gli Istituti di emissione potranno scontare i titoli cambiari del Consorzio a condizione che la somma complessiva destinata a siffatte operazioni non ecceda 50 milioni di lire. 
+Nei limiti fissati dall'art. 6 e alle condizioni stabilite nell'[art. 7 del R. decreto 23 maggio 1915, n. 700](../Regi%20decreti/Che%20stabilisce%20norme%20per%20il%20funzionamento%20del%20Consorzio%20fra%20gli%20Istituti%20di%20emissione%20ed%20altri%20enti%20du%20cio%20al%20R.%20decreto%2020%20dicembre%201914%20n.%201375.%20015U0700.md), gli Istituti di emissione potranno scontare i titoli cambiari del Consorzio a condizione che la somma complessiva destinata a siffatte operazioni non ecceda 50 milioni di lire. 
  
  A richiesta degli Istituti giratari, le autorita' marittime annoteranno di surroga a favore di essi le trascrizioni e le annotazioni, di che nel precedente articolo 5.
 

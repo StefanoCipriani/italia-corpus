@@ -14,7 +14,7 @@ E' convertito in legge il [R. decreto-legge 22 settembre 1932, n. 1288](Variazio
 
 ## Art. 2.
 
-Sono convalidati i [Regi decreti 22 settembre 1932, n. 1326](4ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201932-33.%20032U1326.md) e [1327](5ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201932-33.%20032U1327.md), autorizzanti prelevamenti dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero delle finanze, per l'esercizio finanziario 1932-33. 
+Sono convalidati i [Regi decreti 22 settembre 1932, n. 1326](../Regi%20decreti/4ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201932-33.%20032U1326.md) e [1327](../Regi%20decreti/5ª%20prelevazione%20dal%20fondo%20di%20riserva%20per%20le%20spese%20impreviste%20dellesercizio%20finanziario%201932-33.%20032U1327.md), autorizzanti prelevamenti dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero delle finanze, per l'esercizio finanziario 1932-33. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

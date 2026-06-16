@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Alla tabella lª allegata al [R. decreto 21 ottobre 1923, numero 2539](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), e' sostituita la seguente: 
+Alla tabella lª allegata al [R. decreto 21 ottobre 1923, numero 2539](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), e' sostituita la seguente: 
  
  Tabella dei contributi. 
  
@@ -24,13 +24,13 @@ Alla tabella lª allegata al [R. decreto 21 ottobre 1923, numero 2539](Contribut
 
 ## Art. 2.
 
-La maggiore spesa derivante alle rispettive Provincie dall'attribuzione dei contributi finanziari stabiliti all'articolo precedente per i Regi istituti nautici di Gaeta e di Trieste, in confronto a quelli risultanti dalla tabella 1ª del [R. decreto 21 ottobre 1923, n. 2539](Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), sara' ridotta ad un quarto nel primo anno a decorrere dalla data di cui all'art. 4. 
+La maggiore spesa derivante alle rispettive Provincie dall'attribuzione dei contributi finanziari stabiliti all'articolo precedente per i Regi istituti nautici di Gaeta e di Trieste, in confronto a quelli risultanti dalla tabella 1ª del [R. decreto 21 ottobre 1923, n. 2539](../Regi%20decreti/Contributo%20da%20corrispondere%20dagli%20Enti%20locali%20pel%20mantenimento%20dei%20Regi%20istituti%20nautici.%20023U2539.md), sara' ridotta ad un quarto nel primo anno a decorrere dalla data di cui all'art. 4. 
  
  In ciascuno dei seguenti tre anni il contributo cosi' risultante sara' accresciuto di una aliquota equivalente ad una quarta parte dell'intera maggiore spesa, fino a raggiungere, nel quarto anno, la somma totale.
 
 ## Art. 3.
 
-Nulla e' innovato, con la presente legge, alle disposizioni contenute nel [R. decreto 13 agosto 1926, n. 1617](Riduzione%20dei%20contributi%20degli%20enti%20locali%20per%20il%20mantenimento%20dei%20Regi%20istituti%20nautici%20di%20Lussimpiccolo%20e%20di%20Fiume.%20026U1617.md).
+Nulla e' innovato, con la presente legge, alle disposizioni contenute nel [R. decreto 13 agosto 1926, n. 1617](../Regi%20decreti/Riduzione%20dei%20contributi%20degli%20enti%20locali%20per%20il%20mantenimento%20dei%20Regi%20istituti%20nautici%20di%20Lussimpiccolo%20e%20di%20Fiume.%20026U1617.md).
 
 ## Art. 4.
 

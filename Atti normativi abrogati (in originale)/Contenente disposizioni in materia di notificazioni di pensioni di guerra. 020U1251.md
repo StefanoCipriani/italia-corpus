@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Viste le [leggi 14 agosto 1862, n. 800 e 26 luglio 1868, n. 4516](Colla%20quale%20e%20prefisso%20un%20termine%20pei%20richiami%20contro%20le%20decisioni%20della%20Corte%20dei%20conti%20in%20materia%20di%20pensioni.%20068U4516.md);
 
-Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto il testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md);
 
 Visto il regolamento per l'esecuzione del suddetto [testo unico 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-09-05;603), e viste le successive disposizioni;
 

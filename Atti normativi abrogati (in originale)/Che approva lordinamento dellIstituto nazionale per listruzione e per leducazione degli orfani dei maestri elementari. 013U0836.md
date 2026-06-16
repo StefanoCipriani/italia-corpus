@@ -58,7 +58,7 @@ Nel bilancio del Ministero della pubblica istruzione per il mantenimento dei pos
 
 ## Art. 6.
 
-La riscossione della giornata di stipendio e' fatta con le norme e condizioni di cui agli articoli 11 e 12 del testo unico delle leggi sul Monte pensioni, approvato con [R. decreto 31 gennaio 1909, n. 97](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20d%20infanzia%20e%20nei%20RR.%20educatori%20femminili%20a%20patrimonio%20sorveg_aa735f9be188.md), che per questa parte si estendono anche a Comuni che hanno regolamento speciale per le pensioni. 
+La riscossione della giornata di stipendio e' fatta con le norme e condizioni di cui agli articoli 11 e 12 del testo unico delle leggi sul Monte pensioni, approvato con [R. decreto 31 gennaio 1909, n. 97](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20Monte-pensioni%20per%20glinsegnanti%20nelle%20scuole%20pubbliche%20elementari%20negli%20asili%20d%20infanzia%20e%20nei%20RR.%20educatori%20femminili%20a%20patrimonio%20sorveg_aa735f9be188.md), che per questa parte si estendono anche a Comuni che hanno regolamento speciale per le pensioni. 
  
  Le relative multe e gli interessi di mora vanno pure a beneficio dell'Istituto.
 
@@ -145,7 +145,7 @@ Il ministro della pubblica istruzione, sentito il parere del Consiglio di Stato,
 
 ## Art. 17.
 
-I convitti «Principe di Napoli» in Assisi e «Regina Margherita» in Anagni, eretti in enti morali con [Regi decreti 18 febbraio 1875, n. 2388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-02-18;2388), e [31 ottobre 1888, n. 3141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-10-31;3141), cessano di far parte dell'Istituto nazionale.
+I convitti «Principe di Napoli» in Assisi e «Regina Margherita» in Anagni, eretti in enti morali con [Regi decreti 18 febbraio 1875, n. 2388](../Regi%20decreti/Col%20quale%20è%20dichiarato%20ente%20morale%20educativo%20il%20collegio-convitto%20di%20Assisi%20per%20i%20figli%20degli%20insegnanti.%20075U2388.md), e [31 ottobre 1888, n. 3141](../Regi%20decreti/Che%20istituisce%20in%20Anagni%20un%20istituto%20col%20titolo%20%20Regina%20Margherita%20%20per%20la%20educazione%20ed%20istruzione%20gratuita%20di%20fanciulle%20orfane%20di%20maestri%20elementari%20e%20lo%20erige%20in%20ente%20morale.%208803141R.md), cessano di far parte dell'Istituto nazionale.
 
 ## Art. 18.
 

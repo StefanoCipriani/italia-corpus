@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Al testo unico delle leggi sugli stipendi ed assegni fissi pel regio esercito approvato con [regio decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e modificato con [legge 7 luglio 1901, n. 286](Modificazioni%20alle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20Esercito.%20001U0286.md), sono apportate le seguenti modificazioni: 
+Al testo unico delle leggi sugli stipendi ed assegni fissi pel regio esercito approvato con [regio decreto 14 luglio 1898, n. 380](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), e modificato con [legge 7 luglio 1901, n. 286](Modificazioni%20alle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20Esercito.%20001U0286.md), sono apportate le seguenti modificazioni: 
  
  Alla tabella VI: 
  
@@ -54,7 +54,7 @@ Al testo unico delle leggi sugli stipendi ed assegni fissi pel regio esercito ap
 
 ## Art. 2.
 
-Agli articoli 58, lettera i, e 67 del testo unico delle leggi sull'ordinamento del regio esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [regio decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e modificato con [leggi n. 285, del 7 luglio 1901, e n. 303, del 21 luglio 1902](Che%20porta%20modificazioni%20allordinamento%20del%20R.%20Esercito.%20002U0303.md), e' apportata la seguente modificazione: 
+Agli articoli 58, lettera i, e 67 del testo unico delle leggi sull'ordinamento del regio esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [regio decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), e modificato con [leggi n. 285, del 7 luglio 1901, e n. 303, del 21 luglio 1902](Che%20porta%20modificazioni%20allordinamento%20del%20R.%20Esercito.%20002U0303.md), e' apportata la seguente modificazione: 
  
  Alla denominazione «ufficiali di scrittura» sostituire: «ufficiali d'ordine delle amministrazioni dipendenti.» Essi saranno nominati con decreto reale.
 

@@ -28,7 +28,7 @@ TITOLO I.
 
 ### Art. 1.
 
-All'[art. 1 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_1), approvato con [R. decreto 1°agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md) e' aggiunta la seguente disposizione: 
+All'[art. 1 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1°agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md) e' aggiunta la seguente disposizione: 
  
  I servizi di igiene scolastica, ferroviaria, del lavoro e coloniale, e in genere i servizi igienico sanitari, qualunque sia l'amministrazione pubblica che vi debba direttamente provvedere, devono, per quanto riguarda la tutela dell'igiene e della sanita' pubblica, essere coordinati ed uniformati alle istruzioni del Ministro dell'interno. 
  
@@ -44,7 +44,7 @@ Sono abrogati:
 
 ### Art. 3.
 
-All'ultimo comma dell'[art. 2 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_2), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono sostituiti i seguenti: 
+All'ultimo comma dell'[art. 2 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono sostituiti i seguenti: 
  
  In ogni circondario, alla dipendenza del Sottoprefetto, vi e' un medico circondariale. 
  
@@ -52,11 +52,11 @@ All'ultimo comma dell'[art. 2 del testo unico delle leggi sanitarie](https://www
  
  In ogni Comune vi e' un medico ufficiale sanitario. 
  
- E' abrogato l'ultimo comma dell'[art. 16 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_16), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md).
+ E' abrogato l'ultimo comma dell'[art. 16 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md).
 
 ### Art. 4.
 
-Dopo il [primo comma dell'art. 3 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_3-com1), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono aggiunti i seguenti comma: 
+Dopo il [primo comma dell'art. 3 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono aggiunti i seguenti comma: 
  
  «E' fatto divieto ai Comuni di istituire condotte sanitarie per la generalita' degli abitanti». 
  
@@ -70,7 +70,7 @@ Dopo il [primo comma dell'art. 3 del testo unico delle leggi sanitarie](https://
 
 ### Art. 5.
 
-All'[art. 42 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_42) 1° agosto 1907, n. 636, e' sostituito il seguente: 
+All'[art. 42 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito il seguente: 
  
  «In ogni capoluogo di Provincia sara' istituito, a cura dell'Amministrazione provinciale, un laboratorio di igiene e di profilassi. 
  
@@ -158,7 +158,7 @@ Sono soppresse:
  
  la Commissione consultiva presso la prefettura di Napoli e la Commissione centrale consultiva per il risanamento di Napoli, di cui agli articoli 3 e 7 del regolamento per l'esecuzione della [legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892), relativa al risanamento della citta' di Napoli, approvato con [R. decreto 12 marzo 1885, n. 3003](Che%20approva%20lannessovi%20Regolamento%20per%20la%20esecuzione%20della%20legge%20sulle%20opere%20da%20eseguirsi%20per%20il%20risanamento%20della%20citta%20di%20Napoli.%20085U3003.md), modificato col [R. decreto 29 maggio 1913, n. 828](Col%20quale%20viene%20modificalo%20lart.%207%20del%20regolamento%20approvato%20con%20R.%20decreto%2012%20marzo%201885%20n.%203003%20concernente%20il%20risanamento%20della%20citta%20di%20Napoli.%20013U0828.md); 
  
- la Commissione centrale consultiva per le acque minerali, di cui all'art. 37 del regolamento per l'esecuzione del capo IV della [legge 16 luglio 1916, n. 947](Contenente%20diposizioni%20varie%20sulla%20sanita%20pubblica.%20016U0947.md), approvato con [R. decreto 28 settembre 1919, n. 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1924). 
+ la Commissione centrale consultiva per le acque minerali, di cui all'art. 37 del regolamento per l'esecuzione del capo IV della [legge 16 luglio 1916, n. 947](Contenente%20diposizioni%20varie%20sulla%20sanita%20pubblica.%20016U0947.md), approvato con [R. decreto 28 settembre 1919, n. 1924](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20del%20capo%20IV%20della%20legge%2016%20luglio%201916%20n.%20947%20contenente%20disposizioni%20circa%20le%20acque%20minerali%20e%20gli%20stabilimenti%20termali%20idroterapici%20di%20cure%20fi_6e4da07dc5ad.md). 
  
  Le attribuzioni della Commissione consultiva presso la prefettura di Napoli e della Commissione centrale consultiva per il risanamento di Napoli sono abolite; le attribuzioni della Commissione centrale consultiva per le acque minerali sono demandate al Consiglio superiore di sanita'.
 
@@ -236,7 +236,7 @@ A partire dal 1° gennaio 1924, il Consiglio superiore di sanita' e' composto:
  
  i rappresentanti degli ordini dei sanitari, di cui all'articolo 50 del presente decreto. 
  
- Sono abrogati i primi tre comma lettera a) dell'art. 1° del [decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910), la seconda parte dell'art. 10 del regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45, e l'art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45#art_2) del [decreto Luogotenenziale 17 ottobre 1918, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-17;1691), modificato con [decreto Luogotenenziale 5 gennaio 1919, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-05;36). 
+ Sono abrogati i primi tre comma lettera a) dell'art. 1° del [decreto Luogotenenziale 31 dicembre 1915, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-31;1910), la seconda parte dell'art. 10 del regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45, e l'art. 2](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md) del [decreto Luogotenenziale 17 ottobre 1918, n. 1691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-17;1691), modificato con [decreto Luogotenenziale 5 gennaio 1919, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-01-05;36). 
  
  Gli attuali componenti del Consiglio superiore di sanita' scadranno dalla carica col 31 dicembre 1923.
 
@@ -248,11 +248,11 @@ All'ultimo comma dell'[art. 2 del decreto Luogotenenziale 31 dicembre 1915, n. 1
 
 ### Art. 18.
 
-Al quarto capoverso dell'[art. 8 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_8), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono sostituiti i seguenti: 
+Al quarto capoverso dell'[art. 8 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), sono sostituiti i seguenti: 
  
  «Dello stesso Consiglio il Prefetto e' presidente, e ne fanno parte il medico provinciale, il veterinario provinciale, l'ufficiale medico in attivita' di servizio di piu' alto grado residente nel capoluogo della Provincia, l'ufficiale sanitario del capoluogo stesso». 
  
- «Al detto ufficiale sanitario non e' applicabile l'art. 10 del regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45)». 
+ «Al detto ufficiale sanitario non e' applicabile l'art. 10 del regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md)». 
  
  «Gli attuali componenti dei Consigli provinciali di sanita' scadranno dalla carica il 31 dicembre 1923».
 
@@ -340,7 +340,7 @@ Il voto del Consiglio provinciale di sanita' deve domandarsi, per la parte igien
 
 ### Art. 23.
 
-All'[art. 17 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_17), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
+All'[art. 17 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
  
  «Il medico provinciale: 
  
@@ -394,7 +394,7 @@ Possono partecipare al concorso per il posto di ufficiale sanitario, indipendent
 
 ### Art. 27.
 
-All'[art. 19 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_19) 1° agosto 1907, n. 636, e' aggiunto il seguente comma: 
+All'[art. 19 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' aggiunto il seguente comma: 
  
  «Ove il bisogno lo richieda e torni piu' utile al servizio di vigilanza igienica e di profilassi, il Prefetto puo' nominare un ufficiale sanitario intercomunale, promuovendo di ufficio la costituzione del consorzio agli effetti della ripartizione della spesa».
 
@@ -408,13 +408,13 @@ L'ufficiale sanitario puo' essere dispensato dal Prefetto, con decreto motivato,
 
 ### Art. 29.
 
-All'[art. 20 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_20) l° agosto 1907, n. 636, e' sostituito il seguente: 
+All'[art. 20 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) l° agosto 1907, n. 636, e' sostituito il seguente: 
  
  «Gli ufficiali sanitari comunali sono considerati come ufficiali governativi e come tali dipendono direttamente, oltre che dal sindaco o presidente del consorzio, dalla autorita' sanitaria circondariale, della quale eseguiscono gli ordini».
 
 ### Art. 30.
 
-All'[art. 21 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_21) 1° agosto 1907, n. 636, e' sostituito il seguente: 
+All'[art. 21 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito il seguente: 
  
  «L'ufficiale sanitario comunale: 
  
@@ -434,7 +434,7 @@ All'ufficiale sanitario, per gli accertamenti ed il rilascio dei certificati che
 
 ### Art. 32.
 
-Dopo il [2° comma dell'art. 24 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_24-com2), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il seguente comma: 
+Dopo il [2° comma dell'art. 24 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il seguente comma: 
  
  «I Comuni hanno l'obbligo di procedere alla compilazione di uno speciale elenco degli aventi diritto alla assistenza medico-chirurgica ed ostetrica gratuita, secondo le norme fissate dal regolamento».
 
@@ -444,7 +444,7 @@ I medici condotti hanno l'obbligo di cooperare alla esecuzione dei provvedimenti
 
 ### Art. 34.
 
-All'[art. 26 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_26), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
+All'[art. 26 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
  
  «La Giunta provinciale amministrativa, sentito il Consiglio provinciale di sanita', fissa gli stipendi minimi dei sanitari condotti della Provincia, distribuendo all'uopo i Comuni in speciali categorie, in relazione all'importanza del servizio sanitario, al numero degli aventi diritto all'assistenza sanitaria gratuita, alle condizioni topografiche delle condotte ed alle presumibili fonti di reddito professionale di esse. 
  
@@ -452,7 +452,7 @@ All'[art. 26 del testo unico delle leggi sanitarie](https://www.normattiva.it/ur
 
 ### Art. 35.
 
-Il [comma 2° dell'art. 30 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_30-com2) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
+Il [comma 2° dell'art. 30 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
  
  «La Commissione giudicatrice del concorso e' nominata dal Prefetto ed e' composta nei modi da stabilirsi dal regolamento». 
  
@@ -462,13 +462,13 @@ Il [comma 2° dell'art. 30 del testo unico delle leggi sanitarie](https://www.no
 
 ### Art. 36.
 
-All'[art. 31 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_31) 1° agosto 1907, n. 636, e' aggiunto il seguente comma: 
+All'[art. 31 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' aggiunto il seguente comma: 
  
  «Il servizio interinale, seguito, senza interruzione, dalla nomina regolare in base a concorso, e' computato agli effetti del biennio di prova».
 
 ### Art. 37.
 
-All'[art. 32 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_32) 1° agosto 1907, n. 636, e' sostituito il seguente: 
+All'[art. 32 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito il seguente: 
  
  «La dimissione del medico, del veterinario, del farmacista e della levatrice condotti, per la fine del periodo di prova, deve essere deliberato, almeno tre mesi prima della scadenza del biennio, dal Consiglio comunale o dalla rappresentanza consorziale con l'intervento dei due terzi dei consiglieri o dei membri della rappresentanza suddetta. 
  
@@ -476,7 +476,7 @@ All'[art. 32 del testo unico delle leggi sanitarie](https://www.normattiva.it/ur
 
 ### Art. 38.
 
-All'[art. 34 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_34) 1° agosto 1907, n. 636, e' sostituito il seguente: 
+All'[art. 34 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito il seguente: 
  
  «Nessuna punizione disciplinare puo' essere inflitta al medico, al veterinario, al farmacista o alla levatrice condotti se non siano loro stati comunicati gli addebiti, con la prescrizione di un termine di almeno 10 giorni per le discolpe. 
  
@@ -530,13 +530,13 @@ La costituzione e' l'organizzazione dei consorzi sanitari, volontari e obbligato
 
 ### Art. 45.
 
-Dopo il [primo comma dell'art. 36 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_36-com1), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il seguente comma: 
+Dopo il [primo comma dell'art. 36 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il seguente comma: 
  
  «I Comuni hanno l'obbligo di procedere alla compilazione di uno speciale elenco degli aventi diritto a tale somministrazione gratuita, secondo le norme fissate dal regolamento».
 
 ### Art. 46.
 
-Dopo il primo capoverso dell'[art. 48 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_48) 1° agosto 1907, n. 636, sono aggiunti i seguenti commi: 
+Dopo il primo capoverso dell'[art. 48 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, sono aggiunti i seguenti commi: 
  
  «Il veterinario provinciale e' addetto all'Ufficio sanitario della Prefettura, come ispettore pel ramo zooiatrico. 
  
@@ -552,7 +552,7 @@ Dopo il primo capoverso dell'[art. 48 del testo unico delle leggi sanitarie](htt
 
 ### Art. 47.
 
-Dopo il [2° comma dell'art. 50 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_50-com2), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il seguente comma: 
+Dopo il [2° comma dell'art. 50 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il seguente comma: 
  
  «I Comuni hanno l'obbligo di procedere, secondo le norme fissate dal regolamento, alla compilazione di uno speciale elenco dei possessori di bestiame, che hanno diritto alle prestazioni gratuite da parte dei veterinari municipali». 
  
@@ -568,7 +568,7 @@ Al servizio di assistenza medico-chirurgica nei Comuni nei quali esso non possa 
  
  Il provvedimento del Prefetto e' definitivo e contro di esso e' ammesso ricorso straordinario al Re, ovvero, ricorso, per legittimita', al Consiglio di Stato, in sede giurisdizionale. 
  
- L'incarico e' obbligatorio per colui che ne e' investito e sono al medesimo applicabili le disposizioni e le penalita' dell'[art. 124 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_124) 1° agosto 1907, n. 636. 
+ L'incarico e' obbligatorio per colui che ne e' investito e sono al medesimo applicabili le disposizioni e le penalita' dell'[art. 124 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636. 
  
  Le stesse norme valgono per il servizio di assistenza e vigilanza zooiatrica.
 
@@ -656,7 +656,7 @@ TITOLO III.
 
 ### Art. 58.
 
-All'ultimo comma dell'[art. 71 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_71), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituita la seguente disposizione: 
+All'ultimo comma dell'[art. 71 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituita la seguente disposizione: 
  
  «Contro il provvedimento del Prefetto e' ammesso ricorso al Ministro dell'interno, che decide in via definitiva».
 
@@ -666,7 +666,7 @@ TITOLO IV.
 
 ### Art. 59.
 
-L'ultimo comma dell'[art. 79 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_79) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
+L'ultimo comma dell'[art. 79 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
  
  «In caso di mancato o di insufficiente adempimento del servizio di assistenza anzidetta, il Sottoprefetto emette i' provvedimenti di urgenza e la relativa spesa e' a carico del Comune. 
  
@@ -678,39 +678,39 @@ TITOLO V.
 
 ### Art. 60.
 
-All'[art. 114 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_114) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il seguente capoverso: 
+All'[art. 114 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il seguente capoverso: 
  
  «Il giudice competente puo', inoltre, aggiungere a tali pene la sospensione dall' esercizio della professione o della arte».
 
 ### Art. 61.
 
-Ai sensi e per gli effetti degli [articoli 114 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_114), approvato con R. decreto 1" agosto 1907, n. 636 e 114 del regolamento generale sanitario approvato con [R. decreto 3 febbraio 1901, n. 45](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45), e' da considerarsi adulterato il latte rigenerato per diluizione di quello condensato, il quale contenga meno del tre per cento di sostanza grassa.
+Ai sensi e per gli effetti degli [articoli 114 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 1" agosto 1907, n. 636 e 114 del regolamento generale sanitario approvato con [R. decreto 3 febbraio 1901, n. 45](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md), e' da considerarsi adulterato il latte rigenerato per diluizione di quello condensato, il quale contenga meno del tre per cento di sostanza grassa.
 
 ### Art. 62.
 
-Il [comma 2° dell'art. 116 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_116-com2) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
+Il [comma 2° dell'art. 116 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
  
  «Ove manchi, sia insalubre e sia insufficiente, ai bisogni della popolazione, il Comune puo' essere, per decreto del Prefetto, obbligato a provvedersene».
 
 ### Art. 63.
 
-Al [1° comma dell'art. 123 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_123-com1) 1° agosto 1907, n. 636, sono aggiunte in fine le seguenti parole: 
+Al [1° comma dell'art. 123 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, sono aggiunte in fine le seguenti parole: 
  
  «e, di regola, nelle cautele igieniche necessarie durante la malattia».
 
 ### Art. 64.
 
-Fermo rimanendo il disposto dell'[art. 124 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_124) 1° agosto 1907, n. 636, per prevenire o combattere la diffusione di malattie infettive, ogni medico chirurgo, inscritto nell'albo di un ordine del Regno, e' tenuto a prestare l'opera sua in qualsiasi Comune, al quale sia destinato rispettivamente dal Prefetto o dal Ministro dell'interno, a seconda che il Comune appartenga o non alla Provincia nella quale il sanitario risiede. 
+Fermo rimanendo il disposto dell'[art. 124 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, per prevenire o combattere la diffusione di malattie infettive, ogni medico chirurgo, inscritto nell'albo di un ordine del Regno, e' tenuto a prestare l'opera sua in qualsiasi Comune, al quale sia destinato rispettivamente dal Prefetto o dal Ministro dell'interno, a seconda che il Comune appartenga o non alla Provincia nella quale il sanitario risiede. 
  
- Il provvedimento di destinazione determina le condizioni di assunzione e dichiara la competenza passiva della relativa spesa, in applicazione dell'art. 201 del predetto [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265). 
+ Il provvedimento di destinazione determina le condizioni di assunzione e dichiara la competenza passiva della relativa spesa, in applicazione dell'art. 201 del predetto [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md). 
  
  Il provvedimento del Prefetto o del Ministro e' definitivo, e contro di esso e' ammesso ricorso straordinario al Re ovvero ricorso, per legittimita', al Consiglio di Stato, in sede giurisdizionale. 
  
- Sono applicabili al caso del presente articolo le disposizioni del secondo e del [terzo comma dell'art. 124 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_124-com3).
+ Sono applicabili al caso del presente articolo le disposizioni del secondo e del [terzo comma dell'art. 124 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
 
 ### Art. 65.
 
-Il procedimento di cui all'[art. 127 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_127) 1° agosto 1907, n. 636, e' applicabile in qualsiasi caso, anche all'infuori di quello di malattie epidemiche, in cui vi sia, nell'interesse della tutela della pubblica salute, necessita' assoluta ed urgente di occupare proprieta' particolari per servizi sanitari, compresa la protezione per le opere di presa e di conduttura delle acque potabili.
+Il procedimento di cui all'[art. 127 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' applicabile in qualsiasi caso, anche all'infuori di quello di malattie epidemiche, in cui vi sia, nell'interesse della tutela della pubblica salute, necessita' assoluta ed urgente di occupare proprieta' particolari per servizi sanitari, compresa la protezione per le opere di presa e di conduttura delle acque potabili.
 
 ### Art. 66.
 
@@ -720,17 +720,17 @@ Ogni cittadino, dimorante in un Comune in cui si sia manifestata una malattia in
  
  Contro il provvedimento del sindaco e' ammesso ricorso al Sottoprefetto ovvero alla Giunta provinciale amministrativa, a termini dell'articolo 1° del [testo unico 17 agosto 1907, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1907-08-17;639). 
  
- Al contravventore sono applicabili le penalita' dell'[articolo 124 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_124) 1° agosto 1907, n. 636.
+ Al contravventore sono applicabili le penalita' dell'[articolo 124 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636.
 
 ### Art. 67.
 
-All'[art. 130 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_130) 1° agosto 1907, n. 636, e' sostituito il seguente: 
+All'[art. 130 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito il seguente: 
  
  «La vaccinazione antivaiolosa e' obbligatoria entro il primo semestre successivo alla nascita, salve le eccezioni che saranno determinate dal regolamento, e dovra' essere ripetuta quando abbia avuto esito negativo. E', inoltre, obbligatoria la rivaccinazione all'ottavo anno di eta' ed ogni qualvolta sia ritenuto necessario dalle autorita' sanitarie per condizioni di pericolo di diffusione del vaiuolo».
 
 ### Art. 68.
 
-All'[art. 131 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_131) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
+All'[art. 131 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
  
  «Il vaccino antivaioloso si conserva in luogo idoneo a cura e sotto la responsabilita' del medico provinciale, per essere trasmesso gratuitamente in qualunque tempo ai sindaci ed ai medici liberi esercenti, ove ne facciano richiesta alla Prefettura. 
  
@@ -744,7 +744,7 @@ All'[art. 131 del testo unico delle leggi sanitarie](https://www.normattiva.it/u
 
 ### Art. 69.
 
-Al [1° comma dell'art. 158 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_158-com1) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
+Al [1° comma dell'art. 158 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' sostituito il seguente: 
  
  «Nelle zone, di cui al precedente art. 157, ai coloni ed agli operai impiegati in modo permanente od avventizio in qualsiasi lavoro con rimunerazione fissa o a cottimo, dove e in quanto le istituzioni pubbliche di' beneficenza non hanno mezzi per provvedervi, l'Amministrazione provinciale fornira' gratuitamente il chinino per tutta la durata del trattamento preventivo e curativo dell'infezione malarica secondo l'avviso del medico provinciale, sugli elementi fornitigli dal medico circondariale. I Comuni ne cureranno la distribuzione secondo le prescrizioni del medico comunale o del medico che ne ha l'incarico. 
  
@@ -760,11 +760,11 @@ La Provincia deve dar prova al Prefetto, entro il mese di febbraio di ciascun an
 
 ### Art. 72.
 
-Il riconoscimento delle circostanze determinanti l'obbligo dell'impianto dei mezzi di difesa contro la penetrazione degli insetti aerei, previsto dall'[art. 162 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_162), viene fatto dal medico provinciale con motivato rapporto e la dichiarazione e' fatta per decreto del Prefetto. Il provvedimento e' definitivo.
+Il riconoscimento delle circostanze determinanti l'obbligo dell'impianto dei mezzi di difesa contro la penetrazione degli insetti aerei, previsto dall'[art. 162 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), viene fatto dal medico provinciale con motivato rapporto e la dichiarazione e' fatta per decreto del Prefetto. Il provvedimento e' definitivo.
 
 ### Art. 73.
 
-L'[art. 188 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_188) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
+L'[art. 188 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
  
  «In caso di resistenza o di rifiuto da parte del Comune nell'adempimento degli obblighi derivanti dalle disposizioni contenute nella presente sezione V, provvedera' il Sottoprefetto, occorrendo anche per mezzo di apposito commissario. 
  
@@ -772,7 +772,7 @@ L'[art. 188 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri
 
 ### Art. 74.
 
-Nelle Provincie, che abbiano avuto endemia pellagrosa, continueranno ad avere vigore le disposizioni profilattiche dettate dagli articoli 182 a 192 del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), fino a tre anni dopo la revoca della dichiarazione di cui all'art. 181 del detto testo unico.
+Nelle Provincie, che abbiano avuto endemia pellagrosa, continueranno ad avere vigore le disposizioni profilattiche dettate dagli articoli 182 a 192 del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), fino a tre anni dopo la revoca della dichiarazione di cui all'art. 181 del detto testo unico.
 
 ### Art. 75.
 
@@ -798,7 +798,7 @@ Nella prima parte dell'art. 38 del regolamento di polizia veterinaria, pubblicat
 
 ### Art. 77.
 
-Dopo il [1° comma dell'art. 197 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_197-com1) 1° agosto 1907, n. 636, e' aggiunto il seguente: 
+Dopo il [1° comma dell'art. 197 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' aggiunto il seguente: 
  
  «Il Prefetto che autorizza il trasporto di un cadavere in un Comune appartenente ad un'altra Provincia del Regno, deve dare avviso dell'autorizzazione concessa al Prefetto della Provincia, cui appartiene il Comune nel quale lo stesso cadavere deve essere trasportato». 
  
@@ -810,7 +810,7 @@ TITOLO VI.
 
 ### Art. 78.
 
-L'[art. 200 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_200) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
+L'[art. 200 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
  
  «I regolamenti locali di igiene e gli altri regolamenti attribuiti da leggi sanitarie ai Comuni sono deliberati dai Consigli comunali e approvati dalla Giunta provinciale amministrativa, previo parere del Consiglio provinciale di sanita'. 
  
@@ -832,7 +832,7 @@ All'[art. 4 del decreto Luogotenenziale 1° agosto 1915, numero 1188](https://ww
 
 ### Art. 80.
 
-All'[art. 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_201) 1° agosto 1907, n. 636, sono aggiunte: 
+All'[art. 201 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, sono aggiunte: 
  
  alla lettera a), del 2° comma, le parole: «nonche' per i mezzi necessari ad assicurare la profilassi sanitaria, adeguati alle condizioni locali e all'importanza del Comune, a norma dell'art. 4 del presente decreto»; 
  
@@ -846,7 +846,7 @@ All'[art. 201 del testo unico delle leggi sanitarie](https://www.normattiva.it/u
 
 ### Art. 81.
 
-L'[art. 203 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_203) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
+L'[art. 203 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito dal seguente: 
  
  «In caso di contestazione circa la competenza passiva delle spese ritenute rispettivamente obbligatorie per la Provincia o per il Comune, il Prefetto decide definitivamente, sentito il parere della Giunta provinciale amministrativa».
 
@@ -854,11 +854,11 @@ L'[art. 203 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri
 
 Sono demandati al Sottoprefetto i provvedimenti del Prefetto, indicati: 
  
- all'art. 69, 71 1° comma, 155 e 183 del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [R. decreto 1° agosto 1907, n. 636; 
+ all'art. 69, 71 1° comma, 155 e 183 del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636; 
  
  agli articoli 92](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), [95](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), [103](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md) e [153](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md) del regolamento generale sanitario, approvato con [R. decreto 3 febbraio 1901, n. 45; 
  
- all'art. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45#art_102) del regolamento di polizia mortuaria, approvato con [R. decreto 25 luglio 1892, n. 488; 
+ all'art. 102](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md) del regolamento di polizia mortuaria, approvato con [R. decreto 25 luglio 1892, n. 488; 
  
  agli articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-07-25;488#art_7), ultimo comma e 22, 1° comma, della legge sulle farmacie 22 maggio 1913, n. 468, e all'art. 11 del regolamento per l'esecuzione della legge stessa, approvato con [R. decreto 13 luglio 1914, n. 829](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2022%20maggio%201913%20n.%20468%20sullesercizio%20delle%20farmacie.%20014U0829.md). 
  
@@ -868,11 +868,11 @@ Sono demandati al Sottoprefetto i provvedimenti del Prefetto, indicati:
 
 Sono definitivi i provvedimenti del Prefetto indicati: 
  
- agli [articoli 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_181), [193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_193) e [199 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_199) 1° agosto 1907, n. 636; 
+ agli [articoli 181](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [193](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [199 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636; 
  
  all'art. 87 del regolamento generale sanitario, approvato con [Regio decreto 3 febbraio 1901, n. 45; 
  
- all'art. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;45#art_36) del regolamento approvato con [Regio decreto 19 luglio 1906, n. 466; 
+ all'art. 36](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md) del regolamento approvato con [Regio decreto 19 luglio 1906, n. 466; 
  
  all'art. 4](Che%20approva%20il%20regolamento%20sulla%20assistenza%20sanitaria%20sulla%20vigilanza%20igienica%20e%20sulla%20igiene%20degli%20abitanti%20nei%20comuni%20del%20Regno.%20006U0466.md) del regolamento, approvato con [Regio decreto 28 febbraio 1907, n. 61; 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto del 16 novembre 1921, n. 1825](Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md), che reca norme per la franchigia postale e telegrafica ed il [R. decreto n. 424 del 26 marzo 1922](Che%20reca%20modificazioni%20ed%20aggiunte%20a%20quello%2016%20novembre%201921%20contenente%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20022U0424.md), che reca aggiunte e modificazioni al R. decreto precedente;
+Visto il [R. decreto del 16 novembre 1921, n. 1825](../Regi%20decreti/Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md), che reca norme per la franchigia postale e telegrafica ed il [R. decreto n. 424 del 26 marzo 1922](../Regi%20decreti/Che%20reca%20modificazioni%20ed%20aggiunte%20a%20quello%2016%20novembre%201921%20contenente%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20022U0424.md), che reca aggiunte e modificazioni al R. decreto precedente;
 
 Visto la necessita' di assicurare lo scambio di comunicazioni urgenti per i servizi elettorali politici e nei periodi delle elezioni;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le poste ed i telegra
 
 ## Art. 1.
 
-All'[art. 1 del R. decreto n. 1825 del 16 novembre 1921](Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md), che reca norme per la franchigia postale e telegrafica e' aggiunto il seguente comma: 
+All'[art. 1 del R. decreto n. 1825 del 16 novembre 1921](../Regi%20decreti/Che%20reca%20norme%20per%20la%20franchigia%20postale%20e%20telegrafica.%20021U1825.md), che reca norme per la franchigia postale e telegrafica e' aggiunto il seguente comma: 
  
  e) i telegrammi, relativi al servizio delle elezioni politiche, spediti dalle autorita', designate dal Ministero dell'interno, e per i periodi di tempo fissati dal Ministero medesimo.
 

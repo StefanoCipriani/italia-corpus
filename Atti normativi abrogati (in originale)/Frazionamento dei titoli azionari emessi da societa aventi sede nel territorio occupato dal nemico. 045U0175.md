@@ -22,7 +22,7 @@ Vista, la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [R. decreto-legge 29 luglio 1925, n. 1261](Passaggio%20delle%20attribuzioni%20concernenti%20le%20Borse%20valori%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20delle%20finanze.%20025U1261.md);
 
-Visto l'[art. 15 del R. decreto 29 marzo 1942, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-29;239#art_15);
+Visto l'[art. 15 del R. decreto 29 marzo 1942, n. 239](../Regi%20decreti/Norme%20interpretative%20integrative%20e%20complementari%20del%20R.%20decreto-legge%2025%20ottobre%201941-XIX%20n.%201148%20convertito%20nella%20legge%209%20febbraio%201942-XX%20n.%2096%20riguardante%20la%20nominativita%20obbligatoria%20_3a87db1041f4.md);
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 

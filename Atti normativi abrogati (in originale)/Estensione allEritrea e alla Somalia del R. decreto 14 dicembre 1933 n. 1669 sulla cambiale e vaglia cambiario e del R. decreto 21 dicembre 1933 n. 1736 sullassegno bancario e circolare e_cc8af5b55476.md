@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 6 luglio 1933, n. 999](Ordinamento%20organico%20per%20lEritrea%20e%20la%20Somalia.%20033U0999.md);
 
-Ritenuta la necessita' di estendere alla Eritrea e alla Somalia il [R. decreto 14 dicembre 1933, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-14;1669), che modifica le norme sulla cambiale e sul vaglia cambiario, e il [R. decreto 21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736), contenente disposizioni sull'assegno bancario, sull'assegno circolare e su alcuni titoli speciali dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia;
+Ritenuta la necessita' di estendere alla Eritrea e alla Somalia il [R. decreto 14 dicembre 1933, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-14;1669), che modifica le norme sulla cambiale e sul vaglia cambiario, e il [R. decreto 21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md), contenente disposizioni sull'assegno bancario, sull'assegno circolare e su alcuni titoli speciali dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia;
 
 Udito il parere del Consiglio superiore coloniale;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Articolo unico.
 
-I [Regi decreti 14 dicembre 1933, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-14;1669), e [21 dicembre 1933, n. 1736](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-21;1736), sono estesi all'Eritrea e alla Somalia. 
+I [Regi decreti 14 dicembre 1933, n. 1669](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-14;1669), e [21 dicembre 1933, n. 1736](../Regi%20decreti/Disposizioni%20sullassegno%20bancario%20sullassegno%20circolare%20e%20su%20alcuni%20titoli%20speciali%20dellIstituto%20di%20emissione%20del%20Banco%20di%20Napoli%20e%20del%20Banco%20di%20Sicilia.%20033U1736.md), sono estesi all'Eritrea e alla Somalia. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

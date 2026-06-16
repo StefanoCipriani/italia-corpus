@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 29 gennaio 1920, n. 145](Contenente%20norme%20per%20lapplicazione%20delle%20clausole%20finanziarie%20contenute%20nei%20trattati%20di%20pace%20con%20gli%20Stati%20nemici.%20020U0145.md), che detta norme per l'applicazione delle clausole finanziarie contenute nei trattati di pace con gli Stati nemici;
+Veduto il [R. decreto 29 gennaio 1920, n. 145](../Regi%20decreti/Contenente%20norme%20per%20lapplicazione%20delle%20clausole%20finanziarie%20contenute%20nei%20trattati%20di%20pace%20con%20gli%20Stati%20nemici.%20020U0145.md), che detta norme per l'applicazione delle clausole finanziarie contenute nei trattati di pace con gli Stati nemici;
 
-Veduto il trattato di pace con la Germania, firmato a Versailles il giorno 28 giugno 1919, approvato con [R. decreto 6 ottobre 1919, n. 1803](Che%20approva%20il%20trattato%20concluso%20fra%20lItalia%20e%20la%20Germania%20sottoscritto%20a%20Versaglia.%20019U1803.md) e reso esecutivo con l'altro decreto Reale 20 gennaio 1920, n. 51;
+Veduto il trattato di pace con la Germania, firmato a Versailles il giorno 28 giugno 1919, approvato con [R. decreto 6 ottobre 1919, n. 1803](../Regi%20decreti/Che%20approva%20il%20trattato%20concluso%20fra%20lItalia%20e%20la%20Germania%20sottoscritto%20a%20Versaglia.%20019U1803.md) e reso esecutivo con l'altro decreto Reale 20 gennaio 1920, n. 51;
 
 Udito il Consiglio dei ministri;
 
@@ -80,7 +80,7 @@ Il pagamento delle somme dovute ai creditori italiani sara' eseguito dall'Uffici
 
 ## Art. 9.
 
-Chiunque a mezzo di collusioni od altrimenti ottiene nell'Ufficio per se' o per altri il pagamento di somme che sa in tutto od in parte non dovute, ovvero sottrae se' od altri al pagamento di somme che sa di dovere, e' soggetto alla pena comminata dal capoverso dell'[art. 413 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) senza pregiudizio di maggiori pene qualora nel fatto concorra altro reato.
+Chiunque a mezzo di collusioni od altrimenti ottiene nell'Ufficio per se' o per altri il pagamento di somme che sa in tutto od in parte non dovute, ovvero sottrae se' od altri al pagamento di somme che sa di dovere, e' soggetto alla pena comminata dal capoverso dell'[art. 413 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) senza pregiudizio di maggiori pene qualora nel fatto concorra altro reato.
 
 ## Art. 10.
 
@@ -98,7 +98,7 @@ L'Ufficio potra' essere autorizzato a rilasciare agli aventi diritto titoli nomi
 
 ## Art. 13.
 
-Con decreto del ministro del tesoro, di concerto con quello dell'industria, commercio e lavoro, saranno emanate le altre norme occorrenti per la costituzione ed il funzionamento dell'ufficio di verifica e compensazione. Con lo stesso decreto potranno essere estese, in quanto applicabili alla riscossione dei crediti da riscuotere a mezzo di detto Ufficio, le disposizioni in vigore per la riscossione delle imposte dirette consacrate nel testo unico approvato con [R. decreto 29 giugno 1902, n. 281](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md).
+Con decreto del ministro del tesoro, di concerto con quello dell'industria, commercio e lavoro, saranno emanate le altre norme occorrenti per la costituzione ed il funzionamento dell'ufficio di verifica e compensazione. Con lo stesso decreto potranno essere estese, in quanto applicabili alla riscossione dei crediti da riscuotere a mezzo di detto Ufficio, le disposizioni in vigore per la riscossione delle imposte dirette consacrate nel testo unico approvato con [R. decreto 29 giugno 1902, n. 281](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20002U0281.md).
 
 ## Art. 14.
 

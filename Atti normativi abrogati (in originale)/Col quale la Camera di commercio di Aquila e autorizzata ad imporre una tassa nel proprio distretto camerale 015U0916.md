@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il R. decreto 18 agosto 1902, n. CCCXCVI che autorizza la Camera di commercio ed arti di Aquila ad imporre un'annua tassa sui commercianti e sugli industriali del distretto camerale e ne approva il relativo regolamento;
 
-Visti la [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md) sull'ordinamento delle Camere di commercio e industria e il regolamento approvato con il [R. decreto 19 febbraio 1911, n. 245](Che%20approva%20lannesso%20regolamento%20per%20lattuazione%20della%20legge%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria.%20011U0245.md), per l'attuazione della legge medesima;
+Visti la [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md) sull'ordinamento delle Camere di commercio e industria e il regolamento approvato con il [R. decreto 19 febbraio 1911, n. 245](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20lattuazione%20della%20legge%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria.%20011U0245.md), per l'attuazione della legge medesima;
 
 Viste le deliberazioni della Camera di commercio e industria di Aquila in data 16 giugno 1912, 15 febbraio 1914 e 16 marzo 1915;
 

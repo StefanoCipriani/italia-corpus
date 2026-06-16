@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni, sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni, sullo stato giuridico degli impiegati civili delle Amministrazioni dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, sullo stato giuridico degli impiegati civili delle Amministrazioni dello Stato;
 
 Visto il [R. decreto 20 novembre 1930, n. 1482](Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md), riguardante le promozioni nei ruoli dei personali civili di gruppo A.;
 

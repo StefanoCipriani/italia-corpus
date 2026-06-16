@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto il [R. decreto 4 agosto 1924, n. 1262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-04;1262), contenente le norme per il passaggio, al Ministero dei lavori pubblici, degli uffici e del personale delle Nuove costruzioni ferroviarie;
 
-Visto il [R. decreto 25 marzo 1926, n. 548](Istituzione%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20della%20Direzione%20generale%20delle%20Nuove%20costruzioni%20ferroviarie.%20026U0548.md), che istituisce presso il Ministero predetto, la Direzione generale delle Nuove costruzioni ferroviarie;
+Visto il [R. decreto 25 marzo 1926, n. 548](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20dei%20lavori%20pubblici%20della%20Direzione%20generale%20delle%20Nuove%20costruzioni%20ferroviarie.%20026U0548.md), che istituisce presso il Ministero predetto, la Direzione generale delle Nuove costruzioni ferroviarie;
 
 Visto il [R. decreto 7 aprile 1925, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-07;405), che approva il regolamento del personale ferroviario, le disposizioni sulle competenze accessorie e le piante organiche del personale degli uffici;
 
 Visto il [R. decreto 24 novembre 1930, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-24;1596), concernente l'esonero dal servizio degli agenti ferroviari;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), recante l'ordinamento gerarchico dell'Amministrazione dello Stato;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), recante l'ordinamento gerarchico dell'Amministrazione dello Stato;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

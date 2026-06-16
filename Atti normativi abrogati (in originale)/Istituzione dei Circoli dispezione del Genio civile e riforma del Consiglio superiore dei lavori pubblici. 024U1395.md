@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1922, n. 1809](Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md), concernente la riforma dei servizi nel Ministero dei lavori pubblici;
+Visto il [R. decreto 31 dicembre 1922, n. 1809](../Regi%20decreti/Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md), concernente la riforma dei servizi nel Ministero dei lavori pubblici;
 
 Udito il Consiglio dei Ministri;
 
@@ -28,11 +28,11 @@ L'alta sorveglianza su tutti i servizi affidati al corpo Reale del Genio civile 
 
 ## Art. 2.
 
-A ciascun Circolo e' preposto un ispettore superiore del Genio civile, il quale ha la vigilanza sul personale e sui servizi affidati agli uffici del Genio civile, nei limiti della propria competenza: da' le direttive pel coordinamento dei servizi medesimi, per lo studio dei progetti e per la esecuzione delle opere; esercita nell'esame dei progetti e sugli atti di gestione dei lavori le attribuzioni conferitegli dalle leggi e dai regolamenti, comprese quelle che spettavano agli ispettori superiori compartimentali soppressi con l'[art. 7 del R. decreto 31 dicembre 1922, n. 1809](Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md); da' parere sulle concessioni di piccole derivazioni di acque pubbliche, quando non vi siano domande concorrenti ed opposizioni, e sulle domande per proroghe, non oltre un anno, dei termini stabiliti nei disciplinari relativi a tali concessioni. 
+A ciascun Circolo e' preposto un ispettore superiore del Genio civile, il quale ha la vigilanza sul personale e sui servizi affidati agli uffici del Genio civile, nei limiti della propria competenza: da' le direttive pel coordinamento dei servizi medesimi, per lo studio dei progetti e per la esecuzione delle opere; esercita nell'esame dei progetti e sugli atti di gestione dei lavori le attribuzioni conferitegli dalle leggi e dai regolamenti, comprese quelle che spettavano agli ispettori superiori compartimentali soppressi con l'[art. 7 del R. decreto 31 dicembre 1922, n. 1809](../Regi%20decreti/Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md); da' parere sulle concessioni di piccole derivazioni di acque pubbliche, quando non vi siano domande concorrenti ed opposizioni, e sulle domande per proroghe, non oltre un anno, dei termini stabiliti nei disciplinari relativi a tali concessioni. 
  
  Per l'adempimento delle suddette attribuzioni possono essere messi a disposizione dell'ispettore di Circolo uno o piu' funzionari tecnici e d'ordine del Genio civile. 
  
- I limiti della competenza degli ispettori superiori, in rapporto con quella del Consiglio superiore, sono stabiliti, per le diverse specie di progetti di contratto, dal decreto in data odierna che modifica il [R. decreto 8 febbraio 1923, n. 423](Che%20estende%20ai%20territori%20della%20Venezia%20Giulia%20e%20della%20Venezia%20Tridentina%20le%20disposizioni%20relative%20allimposta%20generale%20sul%20consumo%20del%20vino.%20023U0423.md).
+ I limiti della competenza degli ispettori superiori, in rapporto con quella del Consiglio superiore, sono stabiliti, per le diverse specie di progetti di contratto, dal decreto in data odierna che modifica il [R. decreto 8 febbraio 1923, n. 423](../Regi%20decreti/Che%20estende%20ai%20territori%20della%20Venezia%20Giulia%20e%20della%20Venezia%20Tridentina%20le%20disposizioni%20relative%20allimposta%20generale%20sul%20consumo%20del%20vino.%20023U0423.md).
 
 ## Art. 3.
 
@@ -146,7 +146,7 @@ Dieci membri scelti fra funzionari superiori dell'Amministrazione dei lavori pub
 
 I direttori generali del Ministero delle colonie, a sensi del successivo articolo 9. 
  
- A tutti i membri suindicati si applica la disposizione dell'[articolo 3, n. 1, lettera c) del R. decreto 12 luglio 1923, n. 1536](Disposizioni%20per%20le%20carte%20di%20libera%20circolazione%20sulle%20ferrovie%20dello%20Stato%20per%20la%20concessione%20di%20biglietti%20di%20servizio%20gratuiti%20e%20per%20luso%20dei%20compartimenti%20riservati%20e%20delle%20carrozze-sa_16758169a473.md).
+ A tutti i membri suindicati si applica la disposizione dell'[articolo 3, n. 1, lettera c) del R. decreto 12 luglio 1923, n. 1536](../Regi%20decreti/Disposizioni%20per%20le%20carte%20di%20libera%20circolazione%20sulle%20ferrovie%20dello%20Stato%20per%20la%20concessione%20di%20biglietti%20di%20servizio%20gratuiti%20e%20per%20luso%20dei%20compartimenti%20riservati%20e%20delle%20carrozze-sa_16758169a473.md).
 
 ## Art. 7.
 
@@ -154,7 +154,7 @@ Il presidente del Consiglio superiore ed i presidenti di Sezione sono nominati p
  
  I presidenti di Sezione sono scelti fra gli ispettori superiori del Genio civile, pero' quello preposto alla IV sezione puo' essere anche scelto fra gli ispettori superiori dell'Ispettorato generale per le ferrovie, tramvie ed automobili. 
  
- L'incarico di presiedere le Sezioni per circostanze eccezionali puo' essere affidato a persone estranee all'Amministrazione dello Stato, ad esse, come pure al presidente del Consiglio superiore che fosse scelto fra persone estranee all'Amministrazione dello Stato sono applicabili le disposizioni contenute nell'[art. 188 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed inoltre viene corrisposta una indennita' di carica la cui misura e' da stabilirsi col decreto d'incarico, di concerto fra i Ministri per i lavori pubblici e per le finanze. 
+ L'incarico di presiedere le Sezioni per circostanze eccezionali puo' essere affidato a persone estranee all'Amministrazione dello Stato, ad esse, come pure al presidente del Consiglio superiore che fosse scelto fra persone estranee all'Amministrazione dello Stato sono applicabili le disposizioni contenute nell'[art. 188 del R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed inoltre viene corrisposta una indennita' di carica la cui misura e' da stabilirsi col decreto d'incarico, di concerto fra i Ministri per i lavori pubblici e per le finanze. 
  
  I componenti del Consiglio superiore, di cui ai numeri 10, 11, 12, 20, 21, 22 e 23 dell'articolo precedente, e quelli di cui ai numeri 15 e 16 dello stesso articolo, che non sono individuati dalla carica, sono nominati con decreto Reale su proposta del Ministro per i lavori pubblici. 
  
@@ -228,7 +228,7 @@ Le competenti Sezioni del Consiglio superiore dei lavori pubblici o i Comitati d
 
 1.
 
-Sui progetti esecutivi di opere di conto dello Stato o che si eseguono col concorso o col sussidio dello Stato, sulle variazioni od aggiunte a progetti gia' approvati, sulle proposte di esecuzione dei lavori a trattativa privata o in economia, sulle proposte di risoluzione o rescissione dei contratti, sulle questioni con le imprese per variazione dei prezzi, per maggiori compensi e per esonero di penalita', nei casi indicati dagli articoli 1, 5, 7 e 8 del R. decreto in data odierna che modifica il [R. decreto 8 febbraio 1923, n. 422](Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md) e dalle altre leggi e regolamenti in vigore;
+Sui progetti esecutivi di opere di conto dello Stato o che si eseguono col concorso o col sussidio dello Stato, sulle variazioni od aggiunte a progetti gia' approvati, sulle proposte di esecuzione dei lavori a trattativa privata o in economia, sulle proposte di risoluzione o rescissione dei contratti, sulle questioni con le imprese per variazione dei prezzi, per maggiori compensi e per esonero di penalita', nei casi indicati dagli articoli 1, 5, 7 e 8 del R. decreto in data odierna che modifica il [R. decreto 8 febbraio 1923, n. 422](../Regi%20decreti/Contenente%20emendamenti%20al%20D.%20L.%206%20febbraio%201919%20n.%20107%20recante%20norme%20per%20lesecuzione%20delle%20opere%20pubbliche%20e%20al%20R.%20decreto%2012%20febbraio%201922%20n.214%20che%20ebbe%20a%20modificarlo.%20023U0422.md) e dalle altre leggi e regolamenti in vigore;
 
 2.
 
@@ -312,7 +312,7 @@ Nulla e' innovato alle disposizioni relative alla costituzione od al funzionamen
 
 ## Art. 24.
 
-Sono abrogati l'art. 15 e il capoverso dell'[art. 21 del R. decreto 31 dicembre 1922, n. 1809](Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md), e tutte le disposizioni contrarie al presente decreto.
+Sono abrogati l'art. 15 e il capoverso dell'[art. 21 del R. decreto 31 dicembre 1922, n. 1809](../Regi%20decreti/Concernente%20la%20riforma%20dei%20servizi%20nel%20Ministero%20dei%20lavori%20pubblici.%20022U1809.md), e tutte le disposizioni contrarie al presente decreto.
 
 ## Art. 25.
 

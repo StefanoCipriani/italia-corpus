@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto l'art. 123 del regolamento speciale per il personale dei telefoni dello Stato, approvato col [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md); 
+ Visto l'art. 123 del regolamento speciale per il personale dei telefoni dello Stato, approvato col [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md); 
  
  Riconosciuta l'opportunita' di migliorare, nei limiti consentiti dalle assegnazioni del bilancio, le attuali retribuzioni giornaliere fissate dal citato regolamento per il personale operaio e subalterno fuori ruolo dei telefoni; 
  
@@ -30,7 +30,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Con effetto dal 1º maggio 1917 tutte le retribuzioni fissato dagli articoli 86, 90, 95 e 96 del regolamento speciale per il personale dei telefoni dello Stato, approvato col [R. decreto 16 maggio 1912, n. 574](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), sono elevate di centesimi cinquanta. 
+ Con effetto dal 1º maggio 1917 tutte le retribuzioni fissato dagli articoli 86, 90, 95 e 96 del regolamento speciale per il personale dei telefoni dello Stato, approvato col [R. decreto 16 maggio 1912, n. 574](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20speciale%20per%20il%20personale%20dellAmministrazione%20dei%20telefoni.%20012U0574.md), sono elevate di centesimi cinquanta. 
  
  Il periodo di tempo trascorso da ciascuno nella retribuzione goduta al 1° maggio 1917 e' valido per conseguire la successiva retribuzione, indipendentemente dall'aumento conseguito per effetto del presente decreto. 
  

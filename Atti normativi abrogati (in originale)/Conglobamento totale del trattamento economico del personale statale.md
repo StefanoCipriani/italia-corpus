@@ -33,7 +33,7 @@ Le tabelle allegate ai [decreti del Presidente della Repubblica 17 agosto 1955, 
 
 ## Art. 2.
 
-Gli aumenti periodici costanti dello stipendio degli ufficiali, degli aiutanti di battaglia e dei marescialli dell'Esercito, della Marina, dell'Aeronautica e dei Corpi della Guardia di finanza, delle Guardie di pubblica sicurezza e degli Agenti di custodia e dei marescialli del Corpo forestale dello Stato sono concessi considerando come periodo di permanenza nel grado, se piu' favorevole, l'anzianita' di servizio calcolata secondo i criteri stabiliti dall'[art. 156 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato dall'[art. 1 della legge 26 ottobre 1949, n. 915](Modificazioni%20dellarticolo%20156%20del%20regio%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20allordinamento%20gerarchico%20dellAmministrazione%20dello%20Stato.md), assimilando a tal fine i marescialli dell'Aeronautica ai capi della Marina, gli ufficiali ed i marescialli dei Corpi delle guardie di pubblica sicurezza e degli Agenti di custodia, i marescialli del Corpo forestale dello Stato ed i capi del Corpo equipaggi militari marittimi, categoria portuali, di cui all'[art. 102 del testo unico 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;914#art_102), ai pari grado dell'Arma dei carabinieri, e gli aiutanti di battaglia dell'Esercito, dell'Aeronautica e della Guardia di finanza ai marescialli maggiori e gradi corrispondenti delle rispettive Armi e Corpi. 
+Gli aumenti periodici costanti dello stipendio degli ufficiali, degli aiutanti di battaglia e dei marescialli dell'Esercito, della Marina, dell'Aeronautica e dei Corpi della Guardia di finanza, delle Guardie di pubblica sicurezza e degli Agenti di custodia e dei marescialli del Corpo forestale dello Stato sono concessi considerando come periodo di permanenza nel grado, se piu' favorevole, l'anzianita' di servizio calcolata secondo i criteri stabiliti dall'[art. 156 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), modificato dall'[art. 1 della legge 26 ottobre 1949, n. 915](Modificazioni%20dellarticolo%20156%20del%20regio%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20allordinamento%20gerarchico%20dellAmministrazione%20dello%20Stato.md), assimilando a tal fine i marescialli dell'Aeronautica ai capi della Marina, gli ufficiali ed i marescialli dei Corpi delle guardie di pubblica sicurezza e degli Agenti di custodia, i marescialli del Corpo forestale dello Stato ed i capi del Corpo equipaggi militari marittimi, categoria portuali, di cui all'[art. 102 del testo unico 18 giugno 1931, n. 914](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;914#art_102), ai pari grado dell'Arma dei carabinieri, e gli aiutanti di battaglia dell'Esercito, dell'Aeronautica e della Guardia di finanza ai marescialli maggiori e gradi corrispondenti delle rispettive Armi e Corpi. 
  Gli aumenti periodici costanti dello stipendio dei sergenti maggiori o della paga dei sergenti e gradi corrispondenti dell'Esercito (esclusi quelli dell'Arma dei carabinieri), della Marina e dell'Aeronautica sono concessi considerando come periodo di permanenza nel grado, se piu' favorevole, la differenza tra gli anni di effettivo servizio militare ed il numero di anni appresso indicato: 
  
 
@@ -161,7 +161,7 @@ Ai fini della determinazione degli scaglioni del trattamento economico complessi
 
 ## Art. 12.
 
-Salvo il disposto del successivo art. 13 del presente decreto, l'assegno personale previsto dall'[art. 4 del regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), o da disposizioni analoghe, e gli altri assegni personali che, ai sensi delle vigenti disposizioni, saranno riassorbibili con gli aumenti di stipendio o di paga, o di retribuzione, o competenze analoghe, non vengono ridotti o riassorbiti in sede di prima applicazione del precedente art. 1.
+Salvo il disposto del successivo art. 13 del presente decreto, l'assegno personale previsto dall'[art. 4 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), o da disposizioni analoghe, e gli altri assegni personali che, ai sensi delle vigenti disposizioni, saranno riassorbibili con gli aumenti di stipendio o di paga, o di retribuzione, o competenze analoghe, non vengono ridotti o riassorbiti in sede di prima applicazione del precedente art. 1.
 
 ## Art. 13.
 
@@ -179,11 +179,11 @@ L'ammontare dell'assegno di sede, stabilito, per il personale civile e militare 
 
 ## Art. 16.
 
-Il limite di cui all'[art. 99 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_99), e successive modificazioni, concernente il cumulo di stipendi, e' elevato da lire 650.000 a lire 750.000.
+Il limite di cui all'[art. 99 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni, concernente il cumulo di stipendi, e' elevato da lire 650.000 a lire 750.000.
 
 ## Art. 17.
 
-Ai fini dell'applicazione delle disposizioni concernenti trattamenti accessori, nelle quali sia fatto riferimento ai gradi gerarchici di cui al [regio decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), valgono i riferimenti ai gradi stessi in atto al 30 giugno 1956, salvo l'eventuale diversa classificazione derivante dalla tabella unica, allegata al presente decreto.
+Ai fini dell'applicazione delle disposizioni concernenti trattamenti accessori, nelle quali sia fatto riferimento ai gradi gerarchici di cui al [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), valgono i riferimenti ai gradi stessi in atto al 30 giugno 1956, salvo l'eventuale diversa classificazione derivante dalla tabella unica, allegata al presente decreto.
 
 ## Art. 18.
 

@@ -42,7 +42,7 @@ Per le promozioni dal grado 10° al grado 9° degli impiegati del ruolo del grup
  
  Qualora, per effetto della valutazione del servizio ai sensi del precedente comma, le promozioni al grado 9° non abbiano luogo nell'ordine di anzianita' del ruolo, le promozioni stesse sono conferite con riserva di anzianita' rispetto a coloro che non abbiano ancora compiuto il periodo di servizio necessario per conseguire la promozione. 
  
- Agli effetti della determinazione del periodo prescritto per le promozioni al grado 8° degli impiegati del ruolo del gruppo A delle biblioteche governative, il servizio prestato in ruoli di altri gruppi o in altri ruoli del medesimo gruppo e' valutato nei modi indicati rispettivamente al [comma quarto, lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_com4-leta), ed al [comma quinto dell'art. 21 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21-com5).
+ Agli effetti della determinazione del periodo prescritto per le promozioni al grado 8° degli impiegati del ruolo del gruppo A delle biblioteche governative, il servizio prestato in ruoli di altri gruppi o in altri ruoli del medesimo gruppo e' valutato nei modi indicati rispettivamente al [comma quarto, lettera a)](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), ed al [comma quinto dell'art. 21 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 3.
 

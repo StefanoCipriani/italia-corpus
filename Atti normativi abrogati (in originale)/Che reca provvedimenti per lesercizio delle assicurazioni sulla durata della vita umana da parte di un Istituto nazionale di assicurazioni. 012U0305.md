@@ -129,7 +129,7 @@ L'Istituto ha, nei limiti e colle modalita' determinate dallo statuto, impiegati
  
  Nell'assunzione del personale dell'Istituto saranno assunti di preferenza in servizio dallo Istituto stesso coloro che, all'atto dell'entrata in vigore della presente legge, prestino da non meno di tre anni servizio presso le imprese di assicurazione sulla durata della vita umana, e che siano riconosciuti idonei dal Consiglio di amministrazione. 
  
- Agli impiegati tutti dell'Istituto nazionale nei loro rapporti con l'Istituto si intendono estese le disposizioni del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) che riguardano i pubblici ufficiali.
+ Agli impiegati tutti dell'Istituto nazionale nei loro rapporti con l'Istituto si intendono estese le disposizioni del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) che riguardano i pubblici ufficiali.
 
 ### Art. 11.
 
@@ -191,7 +191,7 @@ Le norme tecniche per il calcolo della riserva matematica saranno determinate da
 
 Gli utili dell'Istituto nazionale di assicurazioni sono esenti dall'imposta di ricchezza mobile. 
  
- I contratti fra l'Istituto nazionale di assicurazioni e gli assicurati sono soggetti alla tassa speciale, in surrogazione delle ordinarie tasse di bollo e di registro, regolata dal testo unico della legge relativa alle tasse sulle assicurazioni e sui contratti vitalizi, approvato col [R. decreto 26 gennaio 1896, n. 44](Che%20approva%20il%20Testo%20unico%20delle%20leggi%20relative%20alle%20tasse%20sulle%20assicurazioni%20e%20sui%20contratti%20vitalizi.%20096U0044.md).
+ I contratti fra l'Istituto nazionale di assicurazioni e gli assicurati sono soggetti alla tassa speciale, in surrogazione delle ordinarie tasse di bollo e di registro, regolata dal testo unico della legge relativa alle tasse sulle assicurazioni e sui contratti vitalizi, approvato col [R. decreto 26 gennaio 1896, n. 44](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20delle%20leggi%20relative%20alle%20tasse%20sulle%20assicurazioni%20e%20sui%20contratti%20vitalizi.%20096U0044.md).
 
 ### Art. 17.
 
@@ -273,7 +273,7 @@ I soci delle imprese tontinarie o di ripartizione nazionali che, in virtu' della
 
 ### Art. 25.
 
-I provvedimenti del ministero, menzionati nel presente titolo, potranno essere esclusivamente impugnati con ricorso alla IV sezione del Consiglio di Stato, a norma dell'art. 22 della legge sul Consiglio di Stato, testo unico, approvato con [R. decreto 17 agosto 1907, n. 638](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md), senza che possa esserne sospesa l'esecuzione.
+I provvedimenti del ministero, menzionati nel presente titolo, potranno essere esclusivamente impugnati con ricorso alla IV sezione del Consiglio di Stato, a norma dell'art. 22 della legge sul Consiglio di Stato, testo unico, approvato con [R. decreto 17 agosto 1907, n. 638](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0638.md), senza che possa esserne sospesa l'esecuzione.
 
 ### Art. 26.
 

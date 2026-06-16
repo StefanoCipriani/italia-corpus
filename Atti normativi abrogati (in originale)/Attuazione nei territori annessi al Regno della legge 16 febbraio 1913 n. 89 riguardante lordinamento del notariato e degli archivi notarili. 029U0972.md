@@ -76,7 +76,7 @@ Per l'uso della lingua negli atti notarili si applicano le disposizioni della nu
 
 ## Art. 12.
 
-Gli archivi notarili distrettuali, oltre che nei Comuni sedi di Consigli notarili, sono istituiti anche nei comuni di Fiume, Pola e Zara. Al personale occorrente al loro funzionamento sara' provveduto mediante riduzione nel personale assegnato agli archivi gia' esistenti nel Regno. A tale effetto sara' modificata la tabella di ripartizione del personale nei modi stabiliti dall'[art. 3 del R. decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_3). 
+Gli archivi notarili distrettuali, oltre che nei Comuni sedi di Consigli notarili, sono istituiti anche nei comuni di Fiume, Pola e Zara. Al personale occorrente al loro funzionamento sara' provveduto mediante riduzione nel personale assegnato agli archivi gia' esistenti nel Regno. A tale effetto sara' modificata la tabella di ripartizione del personale nei modi stabiliti dall'[art. 3 del R. decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md). 
  
  Ove esigenze di servizio lo richiedano, il Ministro per la giustizia potra' assegnare ai nuovi archivi un numero maggiore di impiegati, non oltre il doppio di quello che sara' stabilito per ogni archivio. Tale facolta' cessera' col 31 dicembre 1930, alla quale data il personale dei nuovi archivi dovra' ridursi a quello che per ciascuno di essi verra' fissato dalla tabella di ripartizione.
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md);
+Visto il [R. decreto 28 marzo 1923, n. 645](../Regi%20decreti/Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md);
 
 Visto il decreto Commissariale 23 maggio 1923;
 
@@ -30,7 +30,7 @@ L'indennita' di L. 300, di cui all'art. 11 del decreto Commissariale 23 maggio 1
 
 ## Art. 2.
 
-L'indennita' di volo di L. 900 prevista dall'[art. 6 del R. decreto 28 marzo 1923, n. 645](Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), e' dovuta anche agli ufficiali del Regio esercito e della Regia marina che abbiano conseguita la qualifica di osservatore dall'aeroplano e siano comandati a prestare effettivo servizio di volo presso reparti della Regia aeronautica. 
+L'indennita' di volo di L. 900 prevista dall'[art. 6 del R. decreto 28 marzo 1923, n. 645](../Regi%20decreti/Concernente%20la%20costituzione%20della%20R.%20Aeronautica.%20023U0645.md), e' dovuta anche agli ufficiali del Regio esercito e della Regia marina che abbiano conseguita la qualifica di osservatore dall'aeroplano e siano comandati a prestare effettivo servizio di volo presso reparti della Regia aeronautica. 
  
  Detta indennita' non sara' piu' corrisposta quando gli ufficiali predetti cesseranno per qualsiasi motivo dal servizio di volo.
 

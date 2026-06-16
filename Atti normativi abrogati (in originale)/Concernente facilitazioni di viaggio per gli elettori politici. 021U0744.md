@@ -20,7 +20,7 @@ Visti gli articoli 39 e 62, ultimo capoverso della [legge 7 luglio 1907, n. 429]
 
 Visto il [R. decreto 27 novembre 1910 n. 953](Che%20approva%20gli%20annessi%20regolamento%20e%20tariffe%20pei%20trasporti%20interni%20sulle%20linee%20di%20navigazione%20esercitate%20dallo%20Stato%20e%20condizioni%20e%20tariffe%20pei%20trasporti%20fruenti%20di%20concessioni%20speciali%20_375783174628.md);
 
-Visto il [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+Visto il [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
 
 Visto il [R. decreto-legge 7 settembre 1920, n. 1299](Che%20aumenta%20le%20tariffe%20pei%20viaggi%20sulle%20ferrovie%20dello%20Stato%20nei%20giorni%20di%20domenica.%20020U1299.md);
 

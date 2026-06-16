@@ -48,15 +48,15 @@ L'attuale personale titolare dell'ex Regio istituto nazionale d'istruzione profe
  
  Il personale titolare gia' appartenente al Regio istituto d'istruzione professionale in Roma sara' destinato, con decreti del Ministro per l'economia nazionale, a posti di ruolo che siano o si rendano vacanti in Regi istituti e scuole professionali di uguale carattere e grado. 
  
- Il personale titolare gia' appartenente al Regio museo artistico industriale in Roma sara' destinato, con decreti del Ministro per la pubblica istruzione, a posti di ruolo che siano o si rendano vacanti in Regi istituti o scuole d'arte o nei Regi istituti e scuole per industrie artistiche di cui al [R. decreto 21 maggio 1924, n. 1200](Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md). 
+ Il personale titolare gia' appartenente al Regio museo artistico industriale in Roma sara' destinato, con decreti del Ministro per la pubblica istruzione, a posti di ruolo che siano o si rendano vacanti in Regi istituti o scuole d'arte o nei Regi istituti e scuole per industrie artistiche di cui al [R. decreto 21 maggio 1924, n. 1200](../Regi%20decreti/Passaggio%20di%20scuole%20per%20industrie%20artistiche%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20della%20pubblica%20istruzione.%20024U1200.md). 
  
  Sara' collocato in disponibilita' per un tempo non superiore a due anni il personale titolare stabile che, per mancanza di posti, non possa essere destinato a norma dei commi precedenti. 
  
- Gli assegni di disponibilita' a favore del personale anzidetto, nella misura di cui all'[art. 92 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_92), sono a carico dell'Istituto nazionale di San Michele. 
+ Gli assegni di disponibilita' a favore del personale anzidetto, nella misura di cui all'[art. 92 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sono a carico dell'Istituto nazionale di San Michele. 
  
  Il personale che entro il periodo di due anni non possa essere destinato o che non assuma servizio alla destinazione assegnata entro il termine prefissogli e' collocato a riposo ed e' ammesso al trattamento di quiescenza cui abbia diritto. 
  
- Al personale titolare in esperimento sara' applicato il disposto dell'[art. 34 del R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_34); tuttavia, entro due anni dalla data di pubblicazione del presente decreto, il personale medesimo potra' essere destinato a norma dei commi precedenti.
+ Al personale titolare in esperimento sara' applicato il disposto dell'[art. 34 del R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md); tuttavia, entro due anni dalla data di pubblicazione del presente decreto, il personale medesimo potra' essere destinato a norma dei commi precedenti.
 
 ## Art. 4.
 
@@ -68,7 +68,7 @@ Il personale dell'Istituto, salvo quanto e' disposto all'articolo 5, e' assunto 
 
 ## Art. 5.
 
-Su proposta della Commissione permanente dell'Istituto nazionale di San Michele, i competenti Ministeri possono distaccare presso l'Istituto medesimo a termini dell'[articolo 101, comma 1°, del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_101-com1), personale dei ruoli delle dipendenti Amministrazioni. 
+Su proposta della Commissione permanente dell'Istituto nazionale di San Michele, i competenti Ministeri possono distaccare presso l'Istituto medesimo a termini dell'[articolo 101, comma 1°, del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), personale dei ruoli delle dipendenti Amministrazioni. 
  
  La cessazione del distacco e' disposta in seguito a proposta della Commissione permanente. 
  

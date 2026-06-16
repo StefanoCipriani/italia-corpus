@@ -34,7 +34,7 @@ E' ridotta a L. 40,000, per l'esercizio finanziario 1924-25, la somma di L. 50,0
 
 ## Art. 7.
 
-E' ridotta a L. 1,000,000, per l'esercizio 1924-25, la somma di L. 3,000,000 fissata per premi ai carabinieri Reali per importante risultato di servizio, dall'[art. 29 del R. decreto 31 dicembre 1922, n. 1680](Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), concernente la riforma ed unificazione dei corpi armati di polizia.
+E' ridotta a L. 1,000,000, per l'esercizio 1924-25, la somma di L. 3,000,000 fissata per premi ai carabinieri Reali per importante risultato di servizio, dall'[art. 29 del R. decreto 31 dicembre 1922, n. 1680](../Regi%20decreti/Concernente%20la%20riforma%20ed%20unificazione%20dei%20Corpi%20armati%20di%20polizia.%20022U1680.md), concernente la riforma ed unificazione dei corpi armati di polizia.
 
 ## Art. 8.
 

@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato e successive variazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato e successive variazioni;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -34,11 +34,11 @@ Le promozioni ai posti di ispettore (grado 9°) del ruolo del personale provinci
  
  a) in primo luogo ai funzionari dello stesso ruolo che abbiano ottenuta l'idoneita' nei concorsi di merito distinto banditi rispettivamente con i decreti ministeriali 16 maggio 1936-XIV e 18 giugno 1938-XVI, in base alle rispettive graduatorie di merito; 
  
- b) in secondo luogo ai funzionari dello stesso ruolo che superino il primo esame di idoneita' che sara' bandito, dopo l'entrata in vigore del presente decreto, in base alle norme ordinarie, prescindendo dall'osservanza dell'ultimo comma dell'[art. 21 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_21); 
+ b) in secondo luogo ai funzionari dello stesso ruolo che superino il primo esame di idoneita' che sara' bandito, dopo l'entrata in vigore del presente decreto, in base alle norme ordinarie, prescindendo dall'osservanza dell'ultimo comma dell'[art. 21 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md); 
  
  c) infine, per il terzo dei posti che eventualmente rimangano disponibili, ai vincitori di un concorso per esami di merito distinto da indirsi fra i funzionari dei gradi 10° e 11° del ruolo stesso i quali abbiano, alla data del decreto che bandisce tale concorso, quattro o sei anni di effettivo servizio, computato a norma delle vigenti disposizioni, a seconda che siano o no provvisti di laurea. 
  
- I vincitori dell'esame di merito distinto da indirsi fra i funzionari con anzianita' ridotta, di cui alla lettera c) del comma precedente, conseguiranno la promozione solo al compimento dell'anzianita' di sei od otto anni, a seconda che siano o no provvisti di laurea; coloro, invece, che non vincano detto concorso, ma vi riportino i punti richiesti per superare l'esame di idoneita', saranno collocati secondo le norme di cui all'art. 42, ultimo comma, del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), nella graduatoria degli idonei del primo esame di idoneita' bandito dopo che essi abbiano raggiunta l'anzianita' richiesta per parteciparvi. 
+ I vincitori dell'esame di merito distinto da indirsi fra i funzionari con anzianita' ridotta, di cui alla lettera c) del comma precedente, conseguiranno la promozione solo al compimento dell'anzianita' di sei od otto anni, a seconda che siano o no provvisti di laurea; coloro, invece, che non vincano detto concorso, ma vi riportino i punti richiesti per superare l'esame di idoneita', saranno collocati secondo le norme di cui all'art. 42, ultimo comma, del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), nella graduatoria degli idonei del primo esame di idoneita' bandito dopo che essi abbiano raggiunta l'anzianita' richiesta per parteciparvi. 
  
  Qualora, in applicazione del precedente comma, le promozioni al grado 9° dei vincitori del concorso non abbiano avuto luogo nell'ordine della graduatoria d'esame, le promozioni stesse saranno conferite con riserva di anzianita' rispetto agli altri vincitori che non abbiano ancora compiuto il periodo necessario. 
  

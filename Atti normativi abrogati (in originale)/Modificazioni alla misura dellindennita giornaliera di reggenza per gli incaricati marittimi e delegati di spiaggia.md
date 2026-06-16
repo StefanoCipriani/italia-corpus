@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-A decorrere dal 1 luglio 1950 la misura delle indennita' giornaliere previste dal [primo comma dell'art. 8 del regio decreto 25 novembre 1937, n. 2360](Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md), e' elevata a lire 150 per i reggenti di un ufficio locale marittimo, e a lire 80 per i reggenti di una delegazione di spiaggia.
+A decorrere dal 1 luglio 1950 la misura delle indennita' giornaliere previste dal [primo comma dell'art. 8 del regio decreto 25 novembre 1937, n. 2360](../Regi%20decreti/Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md), e' elevata a lire 150 per i reggenti di un ufficio locale marittimo, e a lire 80 per i reggenti di una delegazione di spiaggia.
 
 ## Art. 2.
 

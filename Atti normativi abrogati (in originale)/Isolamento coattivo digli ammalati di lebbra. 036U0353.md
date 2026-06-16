@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Ritenuta la necessita' urgente ed assoluta di autorizzare l'isolamento coattivo degli ammalati di lebbra con manifestazioni contagiose in atto;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 ## Art. 1.
 
-All'[art. 286 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_286) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e' sostituito il seguente: 
+All'[art. 286 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e' sostituito il seguente: 
  «L'autorita' sanitaria che venga comunque a conoscenza di casi di lebbra con manifestazioni contagiose in atto deve disporre l'isolamento degli infermi nel modo che credera' piu' opportuno e finche' non sia scomparso ogni pericolo di contagio, provvedendo di ufficio quando gli interessati non ottemperino alle disposizioni impartite. 
  «Qualora per l'isolamento sia richiesto il ricovero, questo deve essere effettuato negli appositi reparti delle cliniche dermosifilopatiche o degli ospedali comuni. 
  «Le spese di spedalita' per gli ammalati poveri, limitatamente al periodo in cui la malattia e' contagiosa, sono a carico dello Stato e gravano sul bilancio del Ministero dell'interno. 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 In virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Visto il [R. decreto 19 agosto 1923, n. 2483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-08-19;2483), col quale si provvede alla istituzione di una scuola superiore di telegrafia e telefonia presso l'Istituto superiore postale e telegrafico;
+Visto il [R. decreto 19 agosto 1923, n. 2483](../Regi%20decreti/Istituzione%20presso%20lIstituto%20superiore%20postale%20telegrafico%20e%20telefonico%20di%20una%20scuola%20di%20telegrafia%20e%20telefonia.%20023U2483.md), col quale si provvede alla istituzione di una scuola superiore di telegrafia e telefonia presso l'Istituto superiore postale e telegrafico;
 
 Inteso il Consiglio dei Ministri;
 

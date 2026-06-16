@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Veduta la tabella delle circoscrizioni elettorali annessa al testo unico sopracitato; 
  
- Visto il [R. decreto 11 luglio 1913, n. 900](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), col quale gli elettori politici del comune di Urio, nel Collegio di Como, vennero aggregati alla sezione elettorale di Carate Lario, e gli elettori del comune di Piano Porlezza, nel Collegio di Menaggio, vennero aggregati alla sezione elettorale di Porlezza; 
+ Visto il [R. decreto 11 luglio 1913, n. 900](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), col quale gli elettori politici del comune di Urio, nel Collegio di Como, vennero aggregati alla sezione elettorale di Carate Lario, e gli elettori del comune di Piano Porlezza, nel Collegio di Menaggio, vennero aggregati alla sezione elettorale di Porlezza; 
  
  Vista la deliberazione della Commissione elettorale del comune di Urio, che approva la nuova lista per l'anno 1915, nel numero di 107 elettori e chiede che questi vengano costituiti in sezione autonoma; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' revocato il citato [R. decreto 11 luglio 1913, numero 900](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), in quanto esso disponeva che gli elettori del comune di Urio, nel Collegio politico di Como, venissero aggregati a quelli di Carate Lario, e gli elettori del comune di Piano Porlezza, nel Collegio di Menaggio, venissero aggregati agli elettori del comune di Porlezza. 
+ E' revocato il citato [R. decreto 11 luglio 1913, numero 900](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Como.%20013U0900.md), in quanto esso disponeva che gli elettori del comune di Urio, nel Collegio politico di Como, venissero aggregati a quelli di Carate Lario, e gli elettori del comune di Piano Porlezza, nel Collegio di Menaggio, venissero aggregati agli elettori del comune di Porlezza. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

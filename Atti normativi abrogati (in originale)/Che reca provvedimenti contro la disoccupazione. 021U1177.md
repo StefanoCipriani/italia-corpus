@@ -146,7 +146,7 @@ Con decreti Reali promossi dal ministro dei lavori pubblici di concerto con quel
 
 ### Art. 16.
 
-I sussidi a Comuni e consorzi di cui all'art. 321 della legge 20 marzo 1865 allegato f) ed al [R. decreto 16 giugno 1904, n. 445](Norme%20che%20stabiliscono%20i%20sussidi%20da%20concedersi%20ai%20comuni%20e%20ai%20consorzi%20per%20la%20esecuzione%20delle%20opere%20pubbliche.%20004U0445.md), per le costruzioni di strade esterne agli abitati che verranno iniziate entro il 31 dicembre 1921 e delle quali e' prevista la ultimazione per i1 31 dicembre 1922, e per la sistemazione di strade esterne ed interne, potranno raggiungere la misura del 40 per cento; tale misura non sara' conservata pei lavori fatti dopo la detta epoca. 
+I sussidi a Comuni e consorzi di cui all'art. 321 della legge 20 marzo 1865 allegato f) ed al [R. decreto 16 giugno 1904, n. 445](../Regi%20decreti/Norme%20che%20stabiliscono%20i%20sussidi%20da%20concedersi%20ai%20comuni%20e%20ai%20consorzi%20per%20la%20esecuzione%20delle%20opere%20pubbliche.%20004U0445.md), per le costruzioni di strade esterne agli abitati che verranno iniziate entro il 31 dicembre 1921 e delle quali e' prevista la ultimazione per i1 31 dicembre 1922, e per la sistemazione di strade esterne ed interne, potranno raggiungere la misura del 40 per cento; tale misura non sara' conservata pei lavori fatti dopo la detta epoca. 
  
  I sussidi concessi in virtu' del [R. decreto 13 aprile 1919, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-04-13;570), potranno essere corrisposti in misura non superiore al 40 per cento anche pei lavori eseguiti fino al 31 dicembre 1922. 
  

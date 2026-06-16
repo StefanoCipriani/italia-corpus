@@ -35,7 +35,7 @@ L'imposta di fabbricazione e la corrispondente sovrimposta di confine sulla benz
 
 ## Art. 2.
 
-L'art. 18 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), modificato con l'[articolo 14 della legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463#art_14), e' sostituito dal seguente:
+L'art. 18 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), modificato con l'[articolo 14 della legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463#art_14), e' sostituito dal seguente:
  "Le autovetture, i motocicli e gli autoscafi, ad uso privato, i rimorchi ad uso di applicazione di campeggio e simili, importati temporaneamente dall'estero, appartenenti e guidati da persone residenti stabilmente all'estero, sono esentati, a condizione di reciprocita' di trattamento, dal pagamento della tassa, di circolazione.
  L'esenzione e' accordata anche quando il proprietario ed un suo congiunto entro il terzo grado parimenti residente all'estero si trova a bordo del veicolo e questo e' guidato da altra persona, puro se residente in Italia".
 

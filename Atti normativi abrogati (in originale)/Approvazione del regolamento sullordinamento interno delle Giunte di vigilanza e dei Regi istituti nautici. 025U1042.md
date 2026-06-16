@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto 27 dicembre 1923, n. 3205](Istituzione%20di%20Regi%20commissari%20alla%20presidenza%20dei%20Regi%20istituti%20nautici.%20023U3205.md), che istituisce i Regi commissari alla presidenza dei Regi istituti nautici; 
  
- Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), che detta disposizioni sullo stato giuridico degli impiegati dell'Amministrazione dello Stato; 
+ Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), che detta disposizioni sullo stato giuridico degli impiegati dell'Amministrazione dello Stato; 
  
  Visto il [R. decreto-legge 9 marzo 1924, n. 417](Iscrizione%20esami%20e%20disciplina%20nei%20Regi%20istituti%20nautici.%20024U0417.md), che regola l'iscrizione, gli esami e la disciplina nei Regi istituti nautici; 
  

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto lo statuto dell'Universita' commerciale «Luigi Bocconi» di Milano, approvato con [R. decreto 8 marzo 1925, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-08;547), e modificato col [R. decreto 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md);
+Veduto lo statuto dell'Universita' commerciale «Luigi Bocconi» di Milano, approvato con [R. decreto 8 marzo 1925, n. 547](../Regi%20decreti/Riconoscimento%20dellUniversita%20commerciale%20Luigi%20Bocconi%20in%20Milano%20quale%20Istituto%20superiore%20libero%20di%20scienze%20economiche%20e%20commerciali.%20025U0547.md), e modificato col [R. decreto 2 dicembre 1928, n. 3108](Modificazione%20dellart.%207%20dello%20statuto%20dellUniversita%20commerciale%20%20Luigi%20Bocconi%20%20di%20Milano.%20028U3108.md);
 
 Vedute le nuove proposte di modifiche avanzate dalle autorita' accademiche dell'Universita' commerciale predetta;
 

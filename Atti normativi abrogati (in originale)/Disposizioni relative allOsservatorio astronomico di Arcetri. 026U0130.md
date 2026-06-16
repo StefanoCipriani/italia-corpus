@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 31 dicembre 1923, n. 3160](Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md), sull'ordinamento dei Regi osservatori astronomici, modificato dal [R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md);
+Veduto il [R. decreto 31 dicembre 1923, n. 3160](../Regi%20decreti/Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md), sull'ordinamento dei Regi osservatori astronomici, modificato dal [R. decreto-legge 4 settembre 1925, n. 1604](Disposizioni%20per%20listruzione%20superiore.%20025U1604.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-All'elenco dei Regi osservatori astronomici, di cui all'[articolo 1 del R. decreto 31 dicembre 1923, n. 3160](Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md), e' aggiunto l'Osservatorio astrofisica di Arcetri (Firenze).
+All'elenco dei Regi osservatori astronomici, di cui all'[articolo 1 del R. decreto 31 dicembre 1923, n. 3160](../Regi%20decreti/Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md), e' aggiunto l'Osservatorio astrofisica di Arcetri (Firenze).
 
 ## Art. 2.
 
@@ -36,7 +36,7 @@ Il titolare della cattedra di astronomia della Regia universita' di Firenze e' p
 
 ## Art. 3.
 
-La spesa per la dotazione dell'Osservatorio di Arcetri sara' imputata al fondo, gia' inscritto nello stato di previsione del Ministero dell'istruzione pubblica, pel mantenimento dei Regi osservatori, di cui all'[art. 1 del R. decreto 31 dicembre 1923, n. 3160](Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md).
+La spesa per la dotazione dell'Osservatorio di Arcetri sara' imputata al fondo, gia' inscritto nello stato di previsione del Ministero dell'istruzione pubblica, pel mantenimento dei Regi osservatori, di cui all'[art. 1 del R. decreto 31 dicembre 1923, n. 3160](../Regi%20decreti/Ordinamento%20dei%20Regi%20osservatori%20astronomici%20e%20del%20Regio%20osservatorio%20vesuviano.%20023U3160.md).
 
 ## Art. 4.
 

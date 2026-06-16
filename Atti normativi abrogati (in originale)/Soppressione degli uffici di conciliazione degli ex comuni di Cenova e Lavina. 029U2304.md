@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 1° marzo 1928, n. 535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-01;535), col quale i comuni di Cenova e di Lavina sono stati soppressi ed i rispettivi territori aggregati a quello di Rezzo; 
+ Visto il [R. decreto 1° marzo 1928, n. 535](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cenova%20Lavina%20e%20Rezzo%20in%20un%20unico%20Comune%20con%20capoluogo%20Rezzo.%20028U0535.md), col quale i comuni di Cenova e di Lavina sono stati soppressi ed i rispettivi territori aggregati a quello di Rezzo; 
  
  Vista la deliberazione del podesta' di Rezzo rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Cenova e di Lavina; 
  

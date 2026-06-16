@@ -30,7 +30,7 @@ Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decr
 
 ## Art. 2.
 
-Gli articoli 2, 4, 2° comma; 5, numeri 6, 11, 12, 13 e 14; 7, numeri 3, 4, 5, 6, e 9; 14, 1° e 2° comma; e 16 del [R. decreto 29 dicembre 1927, n. 2452](Determinazione%20delle%20facolta%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato%20e%20delle%20attribuzioni%20del%20Consiglio%20di%20amministrazione%20e%20del%20direttore%20generale%20dellAmministrazione%20stessa.%20027U2452.md), sono sostituiti dai seguenti: 
+Gli articoli 2, 4, 2° comma; 5, numeri 6, 11, 12, 13 e 14; 7, numeri 3, 4, 5, 6, e 9; 14, 1° e 2° comma; e 16 del [R. decreto 29 dicembre 1927, n. 2452](../Regi%20decreti/Determinazione%20delle%20facolta%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato%20e%20delle%20attribuzioni%20del%20Consiglio%20di%20amministrazione%20e%20del%20direttore%20generale%20dellAmministrazione%20stessa.%20027U2452.md), sono sostituiti dai seguenti: 
  
  « Art. 2. - Il Consiglio dura in carica tre anni. I suoi componenti possono essere riconfermati ». 
  

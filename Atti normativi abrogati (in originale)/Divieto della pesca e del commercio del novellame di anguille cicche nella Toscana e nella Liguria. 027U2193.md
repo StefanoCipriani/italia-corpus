@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 1 del decreto Reale 24 maggio 1925, n. 1409, concernente la pesca del pesce novello nel mare;
 
-Visti gli articoli 20, ultimo comma, e 22 del regolamento per la pesca in acque dolci approvato con [R. decreto 22 novembre 1914, n. 1486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-11-22;1486);
+Visti gli articoli 20, ultimo comma, e 22 del regolamento per la pesca in acque dolci approvato con [R. decreto 22 novembre 1914, n. 1486](../Regi%20decreti/Col%20quale%20e%20approvato%20un%20nuovo%20regolamento%20per%20la%20pesca%20fluviale%20e%20lacuale.%20014U1486.md);
 
 Sentito il Comitato permanente della pesca;
 

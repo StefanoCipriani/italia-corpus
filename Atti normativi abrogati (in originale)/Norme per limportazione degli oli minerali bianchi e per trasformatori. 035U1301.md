@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/u
 
 Visto il [R. decreto-legge 2 dicembre 1934, n. 1961](Modificazione%20degli%20articoli%201%20e%202%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20convertito%20nella%20legge%208%20febbraio%201934%20n.%20367%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20_43ae5981a28a.md), che modifica gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_1) e [2 del R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741#art_2);
 
-Visto l'art. 3 del regolamento d'esecuzione del [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), approvato con [R. decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303);
+Visto l'art. 3 del regolamento d'esecuzione del [R. decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), approvato con [R. decreto 20 luglio 1934, n. 1303](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20distribuzione%20degli%20oli%20minerali%20e%20d_bb2fb77a11e9.md);
 
 Su proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le corporazioni, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 

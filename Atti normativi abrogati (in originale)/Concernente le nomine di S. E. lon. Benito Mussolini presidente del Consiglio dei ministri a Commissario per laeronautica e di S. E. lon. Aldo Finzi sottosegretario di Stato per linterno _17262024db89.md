@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Visto il [R. decreto 24 gennaio 1923, n. 63](Concernente%20le%20nomine%20di%20S.%20E.%20lon.%20Benito%20Mussolini%20presidente%20del%20Consiglio%20dei%20ministri%20a%20Commissario%20per%20laeronautica%20e%20di%20S.%20E.%20lon.%20Aldo%20Finzi%20sottosegretario%20di%20Stato%20per%20linterno%20_17262024db89.md);
+Visto il [R. decreto 24 gennaio 1923, n. 63](../Regi%20decreti/Concernente%20le%20nomine%20di%20S.%20E.%20lon.%20Benito%20Mussolini%20presidente%20del%20Consiglio%20dei%20ministri%20a%20Commissario%20per%20laeronautica%20e%20di%20S.%20E.%20lon.%20Aldo%20Finzi%20sottosegretario%20di%20Stato%20per%20linterno%20_17262024db89.md);
 
 Udito il Consiglio dei ministri;
 

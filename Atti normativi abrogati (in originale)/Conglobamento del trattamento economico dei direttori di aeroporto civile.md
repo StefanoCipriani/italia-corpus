@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Lo stipendio annuo lordo dei direttori di aeroporto civile di 1ª, 2ª e 3ª classe, di cui alla [legge 20 aprile 1933, n. 467](Istituzione%20di%20una%20categoria%20di%20personale%20con%20le%20funzioni%20di%20direttore%20di%20aeroporto%20civile.%20033U0467.md), ed al [regio decreto 23 agosto 1934,n. 2366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-08-23;2366), e' fissato con effetto dal 1° luglio 1955 rispettivamente, in lire 780.000, 660.000 e 552.000.
+Lo stipendio annuo lordo dei direttori di aeroporto civile di 1ª, 2ª e 3ª classe, di cui alla [legge 20 aprile 1933, n. 467](Istituzione%20di%20una%20categoria%20di%20personale%20con%20le%20funzioni%20di%20direttore%20di%20aeroporto%20civile.%20033U0467.md), ed al [regio decreto 23 agosto 1934,n. 2366](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20direttori%20di%20aeroporto%20civile.%20034U2366.md), e' fissato con effetto dal 1° luglio 1955 rispettivamente, in lire 780.000, 660.000 e 552.000.
 
 ## Art. 2.
 

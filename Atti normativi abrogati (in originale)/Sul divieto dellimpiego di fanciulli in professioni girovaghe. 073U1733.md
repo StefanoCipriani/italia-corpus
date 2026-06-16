@@ -83,7 +83,7 @@ Qualora i minori, di cui e' parola negli articoli precedenti, non abbiano ne' ge
 
 L'azione penale per i fatti preveduti dalla presente Legge si esercita d'ufficio dal Pubblico Ministero ed anche in contumacia dell'imputato assente dal Regno. 
  
- Sono applicabili ai medesimi, in quanto la presente Legge non abbia altrimenti disposto, il libro primo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e le regole generali sulla competenza delle Autorita' giudiziarie. 
+ Sono applicabili ai medesimi, in quanto la presente Legge non abbia altrimenti disposto, il libro primo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e le regole generali sulla competenza delle Autorita' giudiziarie. 
  
  Potranno leggersi al dibattimento anche i verbali, rapporti, lettere ed altri documenti, benche' privati, provenienti dall'estero.
 
@@ -93,7 +93,7 @@ Le disposizioni della presente Legge avranno effetto dalla sua pubblicazione. Qu
 
 10.
 
-Cio' non pertanto, se siano commessi fatti che erano gia' punibili secondo il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le disposizioni di questo saranno applicate. 
+Cio' non pertanto, se siano commessi fatti che erano gia' punibili secondo il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le disposizioni di questo saranno applicate. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
  

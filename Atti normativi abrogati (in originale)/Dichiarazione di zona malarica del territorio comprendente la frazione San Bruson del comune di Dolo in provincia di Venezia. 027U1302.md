@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157) approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; nonche' gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1923-12-30;2889#art_20) e [22 del R. decreto legislativo 30 dicembre 1923, n. 2889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1923-12-30;2889#art_22), concernente la riforma degli ordinamenti sanitari; 
+ Veduto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria; nonche' gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1923-12-30;2889#art_20) e [22 del R. decreto legislativo 30 dicembre 1923, n. 2889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1923-12-30;2889#art_22), concernente la riforma degli ordinamenti sanitari; 
  
  Veduto il rapporto col quale il prefetto di Venezia ha inviato le proposte di quel medico provinciale per la dichiarazione di zona malarica del territorio comprendente la frazione San Bruson del comune di Dolo; 
  

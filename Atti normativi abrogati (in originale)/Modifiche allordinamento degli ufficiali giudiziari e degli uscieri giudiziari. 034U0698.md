@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
+Visto il [R. decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md);
 
 Vista la legge 22 dicembre 1932. n. 1675;
 
@@ -34,9 +34,9 @@ Agli ufficiali giudiziari per gli atti in materia civile e commerciale che debbo
 
 ## Art. 2.
 
-Il diritto di accesso e' corrisposto senza pregiudizio degli altri diritti stabiliti a favore degli ufficiali giudiziari; ma non spetta quando sia dovuta la indennita' di trasferta o il diritto fisso di cui all'art. 81 del testo organico approvata con il [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md). 
+Il diritto di accesso e' corrisposto senza pregiudizio degli altri diritti stabiliti a favore degli ufficiali giudiziari; ma non spetta quando sia dovuta la indennita' di trasferta o il diritto fisso di cui all'art. 81 del testo organico approvata con il [R. decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md). 
  
- Il diritto di accesso e' soggetto alla tassa del 10 per cento stabilita dall'[art. 2 della, legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), a quella del 10 per cento di cui all'[art. 57 del R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), nonche' alla riduzione del 12 per cento disposta dal [R. decreto 29 dicembre 1930, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-29;1780). 
+ Il diritto di accesso e' soggetto alla tassa del 10 per cento stabilita dall'[art. 2 della, legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), a quella del 10 per cento di cui all'[art. 57 del R. decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), nonche' alla riduzione del 12 per cento disposta dal [R. decreto 29 dicembre 1930, n. 1780](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-29;1780). 
  
  Tale diritto e' computabile per la determinazione del minimo dei proventi annualmente garantito agli ufficiali giudiziari ai sensi dell'[art. 1 della legge 22 dicembre 1932, n. 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), e dell'[art. 5 del R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561#art_5), ma e' escluso dal computo ai fini della disposizione dell'art. 3 della stessa legge.
 
@@ -56,13 +56,13 @@ Ferme le disposizioni vigenti per quanto si riferisce alla tassazione e ai versa
 
 ## Art. 5.
 
-Per essere nominato ufficiale giudiziario e' necessario essere iscritto al Partito Nazionale Fascista ed essere provvisti del diploma di licenza da scuola media inferiore o di alcuno dei corrispondenti diplomi ai termini del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), ovvero di licenza da scuola complementare o da scuola professionale di secondo grado. 
+Per essere nominato ufficiale giudiziario e' necessario essere iscritto al Partito Nazionale Fascista ed essere provvisti del diploma di licenza da scuola media inferiore o di alcuno dei corrispondenti diplomi ai termini del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), ovvero di licenza da scuola complementare o da scuola professionale di secondo grado. 
  
  Per la determinazione dei limiti massimi di eta' si applicano le norme vigenti in ordine alle speciali concessioni per i concorsi statali. 
  
  Peraltro nel primo concorso dopo l'entrata in vigore del presente decreto, non si applica alcun limite massimo di eta' nei riguardi degli aspiranti in possesso di tutti gli altri requisiti necessari per l'ammissione al concorso, che alla data del relativo bando prestino servizio presso un ufficiale giudiziario da almeno due anni in qualita' di commesso autorizzato. 
  
- Sono abrogati i nn. 4 e 5 dell'art. 5 del testo organico approvato con [R. decreto 28 dicembre 1924, n.2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md).
+ Sono abrogati i nn. 4 e 5 dell'art. 5 del testo organico approvato con [R. decreto 28 dicembre 1924, n.2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md).
 
 ## Art. 6.
 
@@ -98,7 +98,7 @@ Quando il numero degli aspiranti sia rilevante, il Ministro per la grazia e gius
  
  La prova orale ha sempre luogo in Roma e si svolge anche su nozioni di diritto corporativo. 
  
- All'esame suddetto si applicano le stesse norme stabilite negli [articoli 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_32), [34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_34), [35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_35), [36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_36), [37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_37) e [38 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_38).
+ All'esame suddetto si applicano le stesse norme stabilite negli [articoli 32](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [34](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [35](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [36](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [37](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [38 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 10.
 
@@ -158,7 +158,7 @@ La Commissione per l'esame dei documenti e dei titoli degli aspiranti ai posti d
 
 ## Art. 18.
 
-Sono abrogati l'[art. 13 della legge 22 dicembre 1932, numero 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), e gli articoli 7, 11, 12, dal 23 al 27, dal 32 al 38, dal 40 al 49, 187 del testo organico approvato con [R. decreto 28 dicembre 1924, n. 2271](Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), novelle tutte le altre disposizioni che siano contrarie o incompatibili con il presente decreto. 
+Sono abrogati l'[art. 13 della legge 22 dicembre 1932, numero 1675](Modificazioni%20allordinamento%20degli%20ufficiali%20giudiziari.%20032U1675.md), e gli articoli 7, 11, 12, dal 23 al 27, dal 32 al 38, dal 40 al 49, 187 del testo organico approvato con [R. decreto 28 dicembre 1924, n. 2271](../Regi%20decreti/Testo%20organico%20dellordinamento%20del%20personale%20degli%20ufficiali%20giudiziari%20del%20personale%20degli%20uscieri%20giudiziari%20e%20del%20personale%20addetto%20agli%20uffici%20di%20conciliazione.%20024U2271.md), novelle tutte le altre disposizioni che siano contrarie o incompatibili con il presente decreto. 
  
  Gli atti relativi ai concorsi per assegnazione di sede non ancora espletati alla data di pubblicazione del presente decreto saranno rimessi per l'ulteriore corso al Ministro, che provvedera' sui medesimi a norma delle disposizioni degli articoli 15 e 16 del presente decreto.
 

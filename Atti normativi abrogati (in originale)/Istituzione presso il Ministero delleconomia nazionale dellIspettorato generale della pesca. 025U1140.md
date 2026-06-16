@@ -38,7 +38,7 @@ L'Ispettorato generale della pesca potra' avvalersi, per il raggiungimento degli
 
 ## Art. 4.
 
-Presso l'Ispettorato generale della pesca e' mantenuto il Comitato consultivo per la pesca, istituito col [R. decreto 2 dicembre 1923, n. 2700](Provvedimenti%20per%20i%20corpi%20consultivi%20dei%20cessati%20Ministeri%20dellagricoltura%20dellindustria%20e%20il%20commercio%20del%20lavoro%20e%20la%20previdenza%20sociale.%20023U2700.md), che sara' composto e funzionera' in base alle norme stabilite negli articoli seguenti.
+Presso l'Ispettorato generale della pesca e' mantenuto il Comitato consultivo per la pesca, istituito col [R. decreto 2 dicembre 1923, n. 2700](../Regi%20decreti/Provvedimenti%20per%20i%20corpi%20consultivi%20dei%20cessati%20Ministeri%20dellagricoltura%20dellindustria%20e%20il%20commercio%20del%20lavoro%20e%20la%20previdenza%20sociale.%20023U2700.md), che sara' composto e funzionera' in base alle norme stabilite negli articoli seguenti.
 
 ## Art. 5.
 
@@ -78,7 +78,7 @@ Il Comitato e' presieduto dal Sottosegretario di Stato preposto ai servizi dell'
 
 ## Art. 7.
 
-Al Comitato sono devolute, in via consultiva, le attribuzioni spettanti alla Commissione consultiva ed al Comitato permanente per la pesca, di cui al [R. decreto 27 ottobre 1911, n. 1207](Col%20quale%20viene%20riformata%20la%20costituzione%20della%20commissione%20consultiva%20per%20la%20pesca.%20011U1207.md), nonche' al Comitato interministeriale, per la pesca, di cui all'[art. 34 della legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md). Esso, inoltre, potra' essere chiamato a dare parere su ogni altra questione attinente alla pesca, che il Ministro per l'economia nazionale creda di sottoporre al suo esame. 
+Al Comitato sono devolute, in via consultiva, le attribuzioni spettanti alla Commissione consultiva ed al Comitato permanente per la pesca, di cui al [R. decreto 27 ottobre 1911, n. 1207](../Regi%20decreti/Col%20quale%20viene%20riformata%20la%20costituzione%20della%20commissione%20consultiva%20per%20la%20pesca.%20011U1207.md), nonche' al Comitato interministeriale, per la pesca, di cui all'[art. 34 della legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md). Esso, inoltre, potra' essere chiamato a dare parere su ogni altra questione attinente alla pesca, che il Ministro per l'economia nazionale creda di sottoporre al suo esame. 
  
  Al Comitato saranno pure affidati i lavori per il coordinamento in testo unico delle disposizioni del presente decreto con quelle della [legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md), e delle leggi e dei decreti citati all'art. 42, comma A, della legge stessa, e con ogni altra disposizione concernente la pesca anche nei riguardi della legislazione sulla pesca che vigeva nella Venezia Giulia e nelle Colonie.
 
@@ -119,7 +119,7 @@ Per il funzionamento dei servizi affidati all'Ispettorato generale della pesca, 
 
 ## Art. 15.
 
-La tassa di licenza a carico dei pescatori dilettanti, per la pesca fluviale e lacuale ([art. 20 della legge 24 marzo 1921, n. 312 e n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;20#art_20), lettera b) cap. IV della tabella A annessa al [R. decreto 30 dicembre 1923, n. 3279](Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md)) e' aumentata di L. 5.
+La tassa di licenza a carico dei pescatori dilettanti, per la pesca fluviale e lacuale ([art. 20 della legge 24 marzo 1921, n. 312 e n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;20#art_20), lettera b) cap. IV della tabella A annessa al [R. decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md)) e' aumentata di L. 5.
 
 ## Art. 16.
 
@@ -127,7 +127,7 @@ In dipendenza della istituzione dell'Ispettorato generale della pesca, e' soppre
 
 ## Art. 17.
 
-L'Ispettorato generale del bonificamento e credito agrario, di cui al [R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), e' soppresso, ed i servizi relativi, finora non attribuiti all'Ispettorato generale del credito e delle assicurazioni private, sono attribuiti alla Direzione generale dell'agricoltura, nella attuale formazione di una divisione e di un ufficio tecnico.
+L'Ispettorato generale del bonificamento e credito agrario, di cui al [R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md), e' soppresso, ed i servizi relativi, finora non attribuiti all'Ispettorato generale del credito e delle assicurazioni private, sono attribuiti alla Direzione generale dell'agricoltura, nella attuale formazione di una divisione e di un ufficio tecnico.
 
 ## Art. 18.
 

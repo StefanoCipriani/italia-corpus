@@ -308,7 +308,7 @@ L'[articolo 11 della legge 27 dicembre 1973, n. 850](https://www.normattiva.it/u
  a) dirigenti e personale dei ruoli tecnici, sanitari, ginnico-sportivi e dei ruoli di supporto: anni 65;
  b) personale delle carriere dei capi reparti e dei capi squadra e dei vigili del fuoco: anni 57.
 Per il personale dei ruoli degli operai si applicano le norme vigenti in materia per gli operai dello Stato.
- 2. Restano salve le norme vigenti sul trattamento di quiescenza ordinario e privilegiato del personale predetto e le norme previste dall'[articolo 61 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md)".
+ 2. Restano salve le norme vigenti sul trattamento di quiescenza ordinario e privilegiato del personale predetto e le norme previste dall'[articolo 61 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20norme%20sul%20trattamento%20di%20quiescenza%20dei%20dipendenti%20civili%20e%20militari%20dello%20Stato.md)".
 
 ### Art. 15. — Dispensa dal servizio e trasferimento del personale inidoneo ai servizi di istituto
 

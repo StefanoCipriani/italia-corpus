@@ -20,7 +20,7 @@ Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili e successive modificazioni;
 
 Visto il [R. decreto 20 ottobre 1932, n. 1435](Approvazione%20dei%20ruoli%20organici%20del%20personale%20civile%20del%20Ministero%20dellaeronautica.%20032U1435.md), che approva i ruoli organici del personale civile del Ministero dell'aeronautica;
 

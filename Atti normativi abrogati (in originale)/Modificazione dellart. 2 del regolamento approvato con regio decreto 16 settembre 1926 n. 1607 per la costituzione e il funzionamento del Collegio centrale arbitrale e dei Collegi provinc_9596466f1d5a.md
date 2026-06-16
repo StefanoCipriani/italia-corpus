@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto l'art. 33 del regolamento legislativo, approvato con [regio decreto-legge 16 settembre 1926, n. 1606](Approvazione%20del%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20026U1606.md), per l'ordinamento e le funzioni dell'Opera nazionale per i combattenti;
 
-Visto il [regio decreto 16 settembre 1926, n. 1607](Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md) e l'annesso regolamento;
+Visto il [regio decreto 16 settembre 1926, n. 1607](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md) e l'annesso regolamento;
 
 Visto il [decreto legislativo 14 febbraio 1947, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-02-14;27);
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Articolo unico.
 
-L'art. 2 del regolamento approvato con [regio decreto 16 settembre 1926, n. 1607](Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), per la costituzione ed il funzionamento del Collegio centrale arbitrale e dei Collegi provinciali arbitrali per l'Opera nazionale per i combattenti, e' modificato come segue:
+L'art. 2 del regolamento approvato con [regio decreto 16 settembre 1926, n. 1607](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), per la costituzione ed il funzionamento del Collegio centrale arbitrale e dei Collegi provinciali arbitrali per l'Opera nazionale per i combattenti, e' modificato come segue:
  "Al presidente ed ai membri effettivi del Collegio centrale arbitrale e' corrisposto un compenso fisso annuo nella misura determinata dal Ministro per l'agricoltura e le foreste, il quale stabilisce anche il compenso dovuto al segretario e, eventualmente, agli altri funzionari di cancelleria giudiziaria addetti all'ufficio di segreteria.
  Ai componenti del Collegio e al segretario, inoltre, e' corrisposta, per ogni adunanza nella quale intervengono, un gettone di presenza nella misura che sara' determinata dal Ministro per l'agricoltura e le foreste.
  Il numero dei gettoni di presenza non puo' essere superiore a venti per ogni mese.

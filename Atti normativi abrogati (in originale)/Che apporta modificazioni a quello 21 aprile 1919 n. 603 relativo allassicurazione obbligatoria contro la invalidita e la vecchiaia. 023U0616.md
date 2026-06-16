@@ -42,7 +42,7 @@ Al [decreto-legge 21 aprile 1919, n. 603](https://www.normattiva.it/uri-res/N2Ls
 
 ## Art. 2.
 
-Entro un mese dalla pubblicazione del presente decreto sara' provveduto alla rinnovazione del Consiglio di amministrazione della Cassa nazionale per le assicurazioni sociali secondo le disposizioni del precedente articolo. Alla prima nomina dei rappresentanti dei datori di lavoro e degli assicurati sara' provveduto secondo le norme del [Regio decreto 11 gennaio 1923, numero 41](Che%20reca%20norme%20per%20la%20rinnovazione%20delle%20rappresentanze%20dei%20datori%20di%20lavoro%20e%20dei%20lavoratori.%20023U0041.md).
+Entro un mese dalla pubblicazione del presente decreto sara' provveduto alla rinnovazione del Consiglio di amministrazione della Cassa nazionale per le assicurazioni sociali secondo le disposizioni del precedente articolo. Alla prima nomina dei rappresentanti dei datori di lavoro e degli assicurati sara' provveduto secondo le norme del [Regio decreto 11 gennaio 1923, numero 41](../Regi%20decreti/Che%20reca%20norme%20per%20la%20rinnovazione%20delle%20rappresentanze%20dei%20datori%20di%20lavoro%20e%20dei%20lavoratori.%20023U0041.md).
 
 ## Art. 3.
 

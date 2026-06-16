@@ -28,11 +28,11 @@ sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, 
 
 ## Art. 1.
 
-Durante l'attuale stato di guerra, il Ministero dell'interno puo' disporre l'internamento delle persone contemplate dall'[art. 181 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_181), approvato con R. decreto 18 giugno 1931-IX, n. 773.
+Durante l'attuale stato di guerra, il Ministero dell'interno puo' disporre l'internamento delle persone contemplate dall'[art. 181 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773.
 
 ## Art. 2.
 
-Durante l'attuale stato di guerra, l'obbligo della presentazione degli stranieri all'autorita' di pubblica sicurezza, al loro ingresso nel territorio dello Stato ed in occasione del trasferimento da uno ad altro Comune dello Stato, previsto dall'art. 142 del citato [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), deve essere adempiuto entro le ventiquattro ore dall'ingresso o dal trasferimento. 
+Durante l'attuale stato di guerra, l'obbligo della presentazione degli stranieri all'autorita' di pubblica sicurezza, al loro ingresso nel territorio dello Stato ed in occasione del trasferimento da uno ad altro Comune dello Stato, previsto dall'art. 142 del citato [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), deve essere adempiuto entro le ventiquattro ore dall'ingresso o dal trasferimento. 
  
  E' sospesa l'applicazione dell'ultimo comma del predetto art. 142.
 

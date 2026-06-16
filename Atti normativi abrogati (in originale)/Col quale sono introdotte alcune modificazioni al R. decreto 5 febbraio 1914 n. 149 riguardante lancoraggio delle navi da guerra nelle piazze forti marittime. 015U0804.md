@@ -22,7 +22,7 @@ TOMASO DI SAVOIA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 5 febbraio 1914, n. 149](Col%20quale%20viene%20modificato%20quello%20del%2014%20maggio%201906%20n.%20243%20riguardante%20lancoraggio%20delle%20navi%20da%20guerra%20estere%20nelle%20piazze%20forti%20marittime.%20014U0149.md); che modifica l'altro in data 14 maggio 1906, n. 243, riguardante l'ancoraggio delle navi da guerra estere nelle piazze forti marittime; 
+ Visto il [R. decreto 5 febbraio 1914, n. 149](../Regi%20decreti/Col%20quale%20viene%20modificato%20quello%20del%2014%20maggio%201906%20n.%20243%20riguardante%20lancoraggio%20delle%20navi%20da%20guerra%20estere%20nelle%20piazze%20forti%20marittime.%20014U0149.md); che modifica l'altro in data 14 maggio 1906, n. 243, riguardante l'ancoraggio delle navi da guerra estere nelle piazze forti marittime; 
  
  Visti i RR. decreti 6 agosto 1914, n. 835, e 8 novembre 1914, n. 1346, coi quali Genova ed Ancona sono state radiate dal novero delle piazze forti; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA
  
  Abbiamo decretato e decretiamo: 
  
- Dalle localita' indicate come piazze forti marittime nell'articolo approvato dal [R. decreto 5 febbraio 1914, n. 149](Col%20quale%20viene%20modificato%20quello%20del%2014%20maggio%201906%20n.%20243%20riguardante%20lancoraggio%20delle%20navi%20da%20guerra%20estere%20nelle%20piazze%20forti%20marittime.%20014U0149.md), in sostituzione dell'[art. 3 del R. decreto 24 maggio 1906, n. 243](Concessione%20dellancoraggio%20in%20tutto%20il%20litorale%20italiano%20ai%20bastimenti%20da%20guerra%20appartenenti%20a%20nazioni%20amiche.%20006U0243.md), e' soppressa Genova. 
+ Dalle localita' indicate come piazze forti marittime nell'articolo approvato dal [R. decreto 5 febbraio 1914, n. 149](../Regi%20decreti/Col%20quale%20viene%20modificato%20quello%20del%2014%20maggio%201906%20n.%20243%20riguardante%20lancoraggio%20delle%20navi%20da%20guerra%20estere%20nelle%20piazze%20forti%20marittime.%20014U0149.md), in sostituzione dell'[art. 3 del R. decreto 24 maggio 1906, n. 243](../Regi%20decreti/Concessione%20dellancoraggio%20in%20tutto%20il%20litorale%20italiano%20ai%20bastimenti%20da%20guerra%20appartenenti%20a%20nazioni%20amiche.%20006U0243.md), e' soppressa Genova. 
  
  Dal novero degli ancoraggi che a tenore dello stesso articolo sono tenuti al saluto con le navi estere, sono soppressi Palermo ed Ancona. 
  

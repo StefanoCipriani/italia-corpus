@@ -36,7 +36,7 @@ Il personale di cui all'art. 1, che alla data del provvedimento di inquadramento
 
 ## Art. 5.
 
-Agli impiegati inquadrati nei ruoli ad esaurimento che, alla data del 1 luglio 1956, rivestivano qualifiche di cui all'[art. 9, secondo comma, della legge 6 marzo 1958, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-06;199#art_9-com2), equiparate o gerarchicamente corrispondenti al grado VIII di gruppo A, IX di gruppo 8 o XI di gruppo C del cessato ordinamento, si applicano le norme contenute negli articoli 368, 370 e 371 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Agli impiegati inquadrati nei ruoli ad esaurimento che, alla data del 1 luglio 1956, rivestivano qualifiche di cui all'[art. 9, secondo comma, della legge 6 marzo 1958, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-06;199#art_9-com2), equiparate o gerarchicamente corrispondenti al grado VIII di gruppo A, IX di gruppo 8 o XI di gruppo C del cessato ordinamento, si applicano le norme contenute negli articoli 368, 370 e 371 del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

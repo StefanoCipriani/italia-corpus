@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il primo comma dell'articolo 162 del testo unico per la finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituito dal seguente:
+Il primo comma dell'articolo 162 del testo unico per la finanza locale approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni, e' sostituito dal seguente:
  "L'imposta sulle industrie, i commerci, le arti e le professioni e' applicata al reddito assoggettato all'imposta di ricchezza mobile, con aliquota che puo' giungere fino al limite del 3,25 per cento se trattasi di redditi di categoria B e de 260 per cento se trattasi di categoria C-1, fermo sempre, tra l'una e l'altra aliquota, il rapporto indicato".
 
 ## Art. 2.

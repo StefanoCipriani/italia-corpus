@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visti gli [articoli 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_164) e [165 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_165), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
+ Visti gli [articoli 164](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [165 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md); 
  
  Sulla proposta del Nostro ministro, segretario di Stato per le finanze, di concerto col Nostro ministro, segretario di Stato per l'interno; 
  
@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Ai preparati chinacei che il Ministero delle finanze e' autorizzato a vendere, agli effetti degli [articoli 164 e seguenti del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_164), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il tannato di chinina sotto forma di cioccolatini, contenenti ciascuno centigrammi 12 di chinina anidra, e condizionati in astucci da 10 cioccolatini. 
+ Ai preparati chinacei che il Ministero delle finanze e' autorizzato a vendere, agli effetti degli [articoli 164 e seguenti del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e' aggiunto il tannato di chinina sotto forma di cioccolatini, contenenti ciascuno centigrammi 12 di chinina anidra, e condizionati in astucci da 10 cioccolatini. 
  
  I Nostri ministri proponenti sono incaricati dell'esecuzione del presente decreto, che sara' registrato alla Corte dei conti. 
  

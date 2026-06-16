@@ -199,7 +199,7 @@ I mutui di cui al presente articolo possono essere erogati anche col sistema dei
 
 6.
 
-Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, gli Enti, secondo i criteri di cui all'[articolo 8 del regio decreto 23 ottobre 1925, n. 2063](Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), possono provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
+Nel caso che i lavori per i quali e' concesso il mutuo siano ritardati o sospesi, gli Enti, secondo i criteri di cui all'[articolo 8 del regio decreto 23 ottobre 1925, n. 2063](../Regi%20decreti/Autorizzazione%20alla%20Societa%20anonima%20Istituto%20nazionale%20di%20credito%20edilizio%20con%20sede%20in%20Roma%20ad%20esercitare%20il%20credito%20edilizio.%20025U2063.md), possono provvedere alla vendita dell'edificio incompiuto, ovvero curarne il completamento per alienarlo successivamente.
 
 ## OPERAZIONI DI CREDITO ALLE OPERE PUBBLICHE
 
@@ -348,7 +348,7 @@ Il pagamento ritardato oltre i trenta giorni di almeno due rate consecutive ripe
 
 2.
 
-Nei confronti dei debitori morosi a fronte dei prestiti concessi ai sensi della presente legge, continuano ad applicarsi tutte le disposizioni disciplinanti il procedimento esecutivo di cui ai titoli VII e VIII del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modificazioni e integrazioni.
+Nei confronti dei debitori morosi a fronte dei prestiti concessi ai sensi della presente legge, continuano ad applicarsi tutte le disposizioni disciplinanti il procedimento esecutivo di cui ai titoli VII e VIII del testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e successive modificazioni e integrazioni.
 
 ### Art. 18.
 
@@ -414,7 +414,7 @@ Per effetto della cessione il credito deve ritenersi come se fosse stato diretta
 
 1.
 
-Anche in deroga a disposizioni di legge, per gli aumenti di capitale e dei fondi di dotazione degli Enti sono necessarie soltanto l'autorizzazione di cui all'[articolo 44 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_44), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni e integrazioni, e l'approvazione di cui all'articolo 3, commi 2 e 3, della presente legge. Resta fermo quanto previsto dall'articolo 4 della tariffa, parte I, allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md).
+Anche in deroga a disposizioni di legge, per gli aumenti di capitale e dei fondi di dotazione degli Enti sono necessarie soltanto l'autorizzazione di cui all'[articolo 44 del regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_44), convertito, con modificazioni, dalla [legge 7 marzo 1938, n. 141](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20difesa%20del%20risparmio%20e%20per%20la%20disciplina%20della%20funzione%20creditizia.%20038U0141.md), e successive modificazioni e integrazioni, e l'approvazione di cui all'articolo 3, commi 2 e 3, della presente legge. Resta fermo quanto previsto dall'articolo 4 della tariffa, parte I, allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del presidente della Repubblica 26 aprile 1986, n. 131](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md).
 
 ### Art. 23.
 

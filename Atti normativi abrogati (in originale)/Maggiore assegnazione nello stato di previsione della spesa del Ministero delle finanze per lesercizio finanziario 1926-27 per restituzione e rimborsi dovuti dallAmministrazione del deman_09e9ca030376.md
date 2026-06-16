@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Vista la legge 25 giugno 1926. n. 1065; 
  
- Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41), recante le norme sulla contabilita' generale dello Stato; 
+ Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante le norme sulla contabilita' generale dello Stato; 
  
  Udito il Consiglio dei Ministri; 
  

@@ -18,9 +18,9 @@ VITTORIO EMANUELE III
  
  Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno; 
  
- Visto il [R. decreto 19 ottobre 1922, n. 1439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-19;1439), col quale la frazione di Riccione venne staccata dal comune di Rimini e costituita in Comune autonomo; 
+ Visto il [R. decreto 19 ottobre 1922, n. 1439](../Regi%20decreti/Riflettente%20costituzione%20in%20Comune%20autonomo.%20022U1439.md), col quale la frazione di Riccione venne staccata dal comune di Rimini e costituita in Comune autonomo; 
  
- Visto il [R. decreto 1° marzo 1923, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-01;542), con cui venne provveduto alla delimitazione territoriale fra i comuni di Rimini e di Riccione; 
+ Visto il [R. decreto 1° marzo 1923, n. 542](../Regi%20decreti/Delimitazione%20di%20territorio.%20023U0542.md), con cui venne provveduto alla delimitazione territoriale fra i comuni di Rimini e di Riccione; 
  
  Visto il progetto di riparto patrimoniale predisposto di ufficio dal prefetto di Forli'; 
  

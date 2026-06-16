@@ -28,7 +28,7 @@ Le funzioni di consigliere relatore presso la sezione di Tribunale Supremo posso
 
 ## Art. 5.
 
-La composizione del collegio resta immutata anche quando giudica nei casi previsti dall'art. 45 dell'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022).
+La composizione del collegio resta immutata anche quando giudica nei casi previsti dall'art. 45 dell'ordinamento giudiziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md).
 
 ## Art. 6.
 
@@ -46,7 +46,7 @@ Gli eventuali spostamenti della sede della sezione di Tribunale Supremo Militare
 
 ## Art. 9.
 
-La sezione di Tribunale Supremo Militare per le terre liberate funziona anche come sezione del Tribunale Supremo Militare di guerra, ai sensi dell'art. 91 dell'ordinamento giudiliziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-09-09;1022).
+La sezione di Tribunale Supremo Militare per le terre liberate funziona anche come sezione del Tribunale Supremo Militare di guerra, ai sensi dell'art. 91 dell'ordinamento giudiliziario militare, approvato con [R. decreto 9 settembre 1941, n. 1022](../Regi%20decreti/Ordinamento%20giudiziario%20militare%20041U1022.md).
 
 ## Art. 10.
 
@@ -66,6 +66,6 @@ Il presente decreto entra in vigore il giorno successivo a quello della sua pubb
  
  BADOGLIO - DE COURTEN - SANDALLI -  DE SANTIS - JUNG - ORLANDO 
  
- Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](../Regi%20decreti/Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
  
  Il Guardasigilli: BADOGLIO

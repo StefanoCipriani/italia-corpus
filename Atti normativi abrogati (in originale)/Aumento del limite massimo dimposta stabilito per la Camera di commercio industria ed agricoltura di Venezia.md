@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il limite massimo dell'aliquota di imposta stabilito per la Camera di commercio industria ed agricoltura di Venezia dall'[art. 1 del regio decreto 31 ottobre 1941, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-31;1418#art_1), viene elevato a lire 1,075 per cento, per il periodo di 35 anni dal 1 gennaio 1959.
+Il limite massimo dell'aliquota di imposta stabilito per la Camera di commercio industria ed agricoltura di Venezia dall'[art. 1 del regio decreto 31 ottobre 1941, n. 1418](../Regi%20decreti/Determinazione%20della%20misura%20dellimposta%20dovuta%20ai%20Consigli%20provinciali%20delle%20Corporazioni.%20041U1418.md), viene elevato a lire 1,075 per cento, per il periodo di 35 anni dal 1 gennaio 1959.
 
  La presente legge munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

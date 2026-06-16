@@ -20,9 +20,9 @@ Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
-Visto il [R. decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), concernente il regolamento sugli alunni, gli esami e le tasse negli Istituti medi di istruzione;
+Visto il [R. decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), concernente il regolamento sugli alunni, gli esami e le tasse negli Istituti medi di istruzione;
 
-Visto il [R. decreto 18 aprile 1929, n. 673](Norme%20per%20gli%20esami%20di%20maturita%20classica%20e%20scientifica%20e%20per%20quelli%20di%20abilitazione%20magistrale%20e%20tecnica.%20029U0673.md), recante norme per gli esami di maturita' classica e scientifica e per quelli di abilitazione magistrale e tecnica;
+Visto il [R. decreto 18 aprile 1929, n. 673](../Regi%20decreti/Norme%20per%20gli%20esami%20di%20maturita%20classica%20e%20scientifica%20e%20per%20quelli%20di%20abilitazione%20magistrale%20e%20tecnica.%20029U0673.md), recante norme per gli esami di maturita' classica e scientifica e per quelli di abilitazione magistrale e tecnica;
 
 Visto il [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 360](Aumento%20del%20compenso%20giornaliero%20spettante%20ai%20componenti%20le%20Commissioni%20per%20gli%20esami%20di%20maturita%20e%20abilitazione.%20044U0360.md), il quale ha elevato da L. 25 a L. 50 al lordo del doppio 12% l'indennita' giornaliera spettante ai membri delle Commissioni di esami di maturita' e di abilitazione;
 
@@ -40,7 +40,7 @@ Oltre il compenso giornaliero anzidetto, a ciascun commissario e' dovuta una pro
 
 ## Art. 3.
 
-Il compenso giornaliero stabilito dal [4° comma dell'art. 74 del R decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), per i maestri elementari chiamati a far parte delle Commissioni di cui all'art. 62 dello stesso Regio decreto, e' elevato a L. 50 (cinquanta). 
+Il compenso giornaliero stabilito dal [4° comma dell'art. 74 del R decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), per i maestri elementari chiamati a far parte delle Commissioni di cui all'art. 62 dello stesso Regio decreto, e' elevato a L. 50 (cinquanta). 
  
  Su tale compenso non si applica la riduzione del doppio 12%.
 

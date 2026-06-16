@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'istruzione pubblica
 
 ## Art. 1.
 
-Il ruolo del personale tecnico e scientifico di gruppo A del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita', compreso nella tabella A annessa al [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), e modificato con i [Regi decreti 4 maggio 1925, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;604), [7 agosto 1925, n. 1649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-07;1649), [4 settembre 1925, n. 2336 (art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;2336#art_5)), 7 gennaio 1926; n. 133 (art. 2), 16 settembre 1926, n. 1738, 25 novembre 1926, numero 2172, e 30 giugno 1927, n. 1735, e' sostituito dal seguente ruolo:
+Il ruolo del personale tecnico e scientifico di gruppo A del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita', compreso nella tabella A annessa al [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e modificato con i [Regi decreti 4 maggio 1925, n. 604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-04;604), [7 agosto 1925, n. 1649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-08-07;1649), [4 settembre 1925, n. 2336 (art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;2336#art_5)), 7 gennaio 1926; n. 133 (art. 2), 16 settembre 1926, n. 1738, 25 novembre 1926, numero 2172, e 30 giugno 1927, n. 1735, e' sostituito dal seguente ruolo:
 
 ================================================================
   |Grado gerarchico| DENOMINAZIONE DEL GRADO | Numero dei posti  |
@@ -54,7 +54,7 @@ Il ruolo del personale tecnico e scientifico di gruppo A del personale dei monum
   |                |                         |    139 piu' 2     |
   +----------------+-------------------------+-------------------+
 
-La tabella C annessa al [R. decreto 31 dicembre 1923, numero 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), e' modificata nella parte 1ª per quanto riguarda i gradi: 7° e 8° nel modo seguente: 
+La tabella C annessa al [R. decreto 31 dicembre 1923, numero 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' modificata nella parte 1ª per quanto riguarda i gradi: 7° e 8° nel modo seguente: 
  
  Grado 7°: Direttori di 1ª classe (anziche': direttori). 
  
@@ -62,7 +62,7 @@ La tabella C annessa al [R. decreto 31 dicembre 1923, numero 3164](https://www.n
 
 ## Art. 2.
 
-L'[art. 18 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_18), e' sostituito dal seguente: 
+L'[art. 18 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' sostituito dal seguente: 
  
  «Le promozioni al grado di soprintendente di 1ª classe sono conferite a funzionari del grado inferiore, su parere del Consiglio d'amministrazione, col criterio del merito comparativo. 
  

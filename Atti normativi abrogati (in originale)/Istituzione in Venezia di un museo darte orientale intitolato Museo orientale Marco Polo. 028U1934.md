@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Ritenuta l'opportunita' che tale museo abbia sede in Venezia nel Palazzo Ca' Pesaro; 
  
- Visti la [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), e il [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164); 
+ Visti la [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), e il [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md); 
  
  Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione; 
  
@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  E' istituito in Venezia un museo d'arte orientale, inizialmente formato con le opere d'arte suaccennate, il quale avra' sede al terzo piano del Palazzo da' Pesaro e prendera' il titolo di «Museo orientale Marco Polo». 
  
- Al personale sara' provveduto con quello esistente nel ruolo organico approvato col [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164). 
+ Al personale sara' provveduto con quello esistente nel ruolo organico approvato col [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

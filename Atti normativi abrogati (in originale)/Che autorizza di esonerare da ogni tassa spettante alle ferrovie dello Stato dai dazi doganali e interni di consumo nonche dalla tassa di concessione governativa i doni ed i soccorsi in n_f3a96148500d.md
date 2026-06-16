@@ -22,7 +22,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
-Vista la disposizione dell'art. 9, paragrafo 18, dei preliminari della tariffa dei dazi doganali, approvata con [R. decreto il 28 luglio 1910, n. 577](Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), che stabilisce l'esenzione dei dazi di entrata per i doni e soccorsi in natura destinati ai prigionieri di guerra;
+Vista la disposizione dell'art. 9, paragrafo 18, dei preliminari della tariffa dei dazi doganali, approvata con [R. decreto il 28 luglio 1910, n. 577](../Regi%20decreti/Che%20approva%20i%20testi%20unici%20di%20talune%20disposizioni%20relative%20ai%20dazi%20doganali.%20010U0577.md), che stabilisce l'esenzione dei dazi di entrata per i doni e soccorsi in natura destinati ai prigionieri di guerra;
 
 Visto il [decreto Luogotenenziale 23 novembre 1916, n. 1696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-23;1696), relativo alla franchigia delle tasse di trasporto ed all'esenzione dei dazi interni di consumo per i doni e soccorsi agli anzidetti prigionieri di guerra;
 

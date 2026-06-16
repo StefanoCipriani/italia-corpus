@@ -27,7 +27,7 @@ Le opere straordinarie previste nel precedente articolo si intendono in aggiunta
 
 ## Art. 3.
 
-Ai fini dell'applicazione della presente legge, il territorio della Calabria situato al disopra di metri 300 di altitudine e' considerato comprensorio di bonifica montana, ai sensi della [legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991), e il territorio situato al disotto del suddetto limite di altitudine e' considerato comprensorio di bonifica integrale di prima categoria ai sensi del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215).
+Ai fini dell'applicazione della presente legge, il territorio della Calabria situato al disopra di metri 300 di altitudine e' considerato comprensorio di bonifica montana, ai sensi della [legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991), e il territorio situato al disotto del suddetto limite di altitudine e' considerato comprensorio di bonifica integrale di prima categoria ai sensi del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md).
 
 ## Art. 4.
 

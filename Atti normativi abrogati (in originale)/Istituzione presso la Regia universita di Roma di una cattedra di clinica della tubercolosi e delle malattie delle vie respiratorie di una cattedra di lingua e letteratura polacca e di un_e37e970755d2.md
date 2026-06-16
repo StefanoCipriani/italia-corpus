@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
+Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e le sue successive modificazioni;
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -35,7 +35,7 @@ La retribuzione per il relativo incarico, in ragione di L. 8000 annue, fara' car
 
 ## Art. 2.
 
-Alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e sue successive modificazioni, sono apportate le variazioni seguenti: 
+Alla tabella D annessa al [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e sue successive modificazioni, sono apportate le variazioni seguenti: 
  
  Pavia - Universita': Facolta' di medicina e chirurgia. .n. 17  Roma - Universita': Facolta' di medicina e chirurgia. . » 26  Roma - Universita': Facolta' di scienze politiche . . . » 8  Roma - Universita': Scuola di statistica . . . . . . . » 1  Roma - Universita': Facolta' di filosofia e lettere . . » 33  
  Conseguentemente il numero complessivo dei posti di professore delle Regie universita' e dei Regi istituti superiori di cui all'[art. 11 del R. decreto 23 ottobre 1927, n. 2105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-23;2105#art_11), convertito in legge con la [legge 14 giugno 1928, n. 1659](Conversione%20in%20legge%20del%20R.%20decreto-legge%2023%20ottobre%201927%20n.%202105%20contenente%20disposizioni%20per%20listruzione%20superiore.%20028U1659.md), e' portato a 767.

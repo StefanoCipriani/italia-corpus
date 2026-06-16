@@ -12,7 +12,7 @@ vigente: true
 
 All'[articolo 4 della legge 9 luglio 1911, n. 675](Che%20approva%20il%20nuovo%20ruolo%20organico%20del%20personale%20per%20lAmministrazione%20del%20dazio%20consumo%20governativo%20di%20Roma%20e%20di%20Napoli.%20011U0675.md), sul riordinamento delle Amministrazioni governative dei dazi di consumo di Roma e Napoli e' sostituito il seguente: 
  
- «I posti di commissario di 2ª classe sono conferiti, per una terza parte, ai vincitori di concorso mediante esame per merito distinto, al quale sono ammessi gli ufficiali ed i contabili di qualunque classe, che si trovino nelle condizioni volute dall'art. 5 secondo e terzo comma, del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md); e per le altre due parti, seguendo l'ordine di anzianita', a coloro fra i detti impiegati, che nello stesso concorso siano stati riconosciuti «idonei».
+ «I posti di commissario di 2ª classe sono conferiti, per una terza parte, ai vincitori di concorso mediante esame per merito distinto, al quale sono ammessi gli ufficiali ed i contabili di qualunque classe, che si trovino nelle condizioni volute dall'art. 5 secondo e terzo comma, del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md); e per le altre due parti, seguendo l'ordine di anzianita', a coloro fra i detti impiegati, che nello stesso concorso siano stati riconosciuti «idonei».
 
 ## Art. 2.
 

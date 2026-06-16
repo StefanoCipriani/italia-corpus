@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il [R. decreto 21 ottobre 1910, n. 735](Per%20la%20proroga%20delle%20scadenze%20delle%20cambiali%20e%20degli%20assegni%20bancari%20pagabili%20nel%20comune%20di%20Napoli.%20010U0735.md), riguardante la proroga delle scadenze delle cambiali e degli assegni bancari, pagabili nel comune di Napoli. 
+ E' convertito in legge il [R. decreto 21 ottobre 1910, n. 735](../Regi%20decreti/Per%20la%20proroga%20delle%20scadenze%20delle%20cambiali%20e%20degli%20assegni%20bancari%20pagabili%20nel%20comune%20di%20Napoli.%20010U0735.md), riguardante la proroga delle scadenze delle cambiali e degli assegni bancari, pagabili nel comune di Napoli. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

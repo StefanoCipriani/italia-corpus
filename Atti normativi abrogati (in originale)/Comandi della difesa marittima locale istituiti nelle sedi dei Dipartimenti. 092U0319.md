@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 gennaio 1887 n. 4273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-01-02;4273) (serie 3ª), che istituisce un comando della difesa marittima locale nelle sedi dei Dipartimenti e ne determina le attribuzioni;
+Visto il [R. decreto 2 gennaio 1887 n. 4273](../Regi%20decreti/Che%20istituisce%20un%20comando%20della%20difesa%20marittima%20locale%20presso%20ciascuna%20sede%20di%20dipartimento.%20087U4273.md) (serie 3ª), che istituisce un comando della difesa marittima locale nelle sedi dei Dipartimenti e ne determina le attribuzioni;
 
 Sentito il Consiglio Superiore di Marina;
 

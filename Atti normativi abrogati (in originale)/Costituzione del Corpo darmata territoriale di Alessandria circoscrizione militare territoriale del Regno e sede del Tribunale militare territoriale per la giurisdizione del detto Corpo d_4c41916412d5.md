@@ -18,7 +18,7 @@ Visto il [R. decreto 4 marzo 1923, n. 490](Che%20determina%20la%20circoscrizione
 
 Visto il [R. decreto 30 dicembre 1923, n. 2903](Norme%20di%20attuazione%20del%20R.%20decreto%2019%20ottobre%201923%20n.%202316%20e%20nuove%20disposizioni%20sullordinamento%20giudiziario%20militare.%20023U2903.md), che stabilisce le norme di attuazione del [R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), ed apporta nuove disposizioni sull'ordinamento giudiziario militare;
 
-Visto l'[art. 294 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per il Regio esercito;
+Visto l'[art. 294 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per il Regio esercito;
 
 Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md):
 

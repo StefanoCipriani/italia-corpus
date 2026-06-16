@@ -52,7 +52,7 @@ L'[art. 27 del R. decreto 15 marzo 1927, n. 436](https://www.normattiva.it/uri-r
 
 ## Art. 5.
 
-L'[art. 37 del R. decreto 29 luglio 1927, n. 1814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1814#art_37), e' modificato come segue: 
+L'[art. 37 del R. decreto 29 luglio 1927, n. 1814](../Regi%20decreti/Disposizioni%20di%20attuazione%20e%20transitorie%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20concernente%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20_9ce09a15aff5.md), e' modificato come segue: 
  
  « Il Governatore puo' ordinare ispezioni all'Ufficio del Reale Automobile Club incaricandone funzionari governativi ».
 

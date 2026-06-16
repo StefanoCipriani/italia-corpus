@@ -18,7 +18,7 @@ Veduta la legge (testo unico) sugli Istituti di emissione 28 aprile 1910, n. 204
 
 Veduto il [decreto Luogotenenziale 4 giugno 1916, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-06-04;675);
 
-Veduto il [R. decreto 28 settembre 1919, n. 1922](Che%20detta%20norme%20circa%20lemissione%20degli%20assegni%20circolari%20da%20parte%20degli%20Istituti%20ordinari%20e%20cooperativi%20di%20credito%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20stabilendo%20le%20penalita%20per_b5a5c20849f2.md);
+Veduto il [R. decreto 28 settembre 1919, n. 1922](../Regi%20decreti/Che%20detta%20norme%20circa%20lemissione%20degli%20assegni%20circolari%20da%20parte%20degli%20Istituti%20ordinari%20e%20cooperativi%20di%20credito%20delle%20Casse%20di%20risparmio%20e%20dei%20Monti%20di%20pieta%20stabilendo%20le%20penalita%20per_b5a5c20849f2.md);
 
 Udito il Consiglio dei ministri;
 

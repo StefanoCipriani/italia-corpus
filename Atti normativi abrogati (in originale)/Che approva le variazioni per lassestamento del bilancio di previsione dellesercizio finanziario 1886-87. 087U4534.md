@@ -22,7 +22,7 @@ E' approvato l'unito riepilogo del bilancio di previsione rettificato per l'eser
 
 Sono convalidati i decreti Reali, coi quali, durante l'esercizio, vennero autorizzate le prelevazioni dal fondo di riserva per le spese impreviste. 
  
- Sono quindi approvati i prelevamenti medesimi e quelli fatti sul fondo di riserva per le spese obbligatorie e d'ordine indicati nelle annesse tabelle C e D, per gli effetti di che agli articoli 29 e 38 del testo unico della legge sulla Contabilita' generale, approvato col [Regio decreto del 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (Serie 3ª). 
+ Sono quindi approvati i prelevamenti medesimi e quelli fatti sul fondo di riserva per le spese obbligatorie e d'ordine indicati nelle annesse tabelle C e D, per gli effetti di che agli articoli 29 e 38 del testo unico della legge sulla Contabilita' generale, approvato col [Regio decreto del 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (Serie 3ª). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

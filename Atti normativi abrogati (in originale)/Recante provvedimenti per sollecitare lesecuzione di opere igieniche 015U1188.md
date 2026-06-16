@@ -42,7 +42,7 @@ La concessione dei prestiti da parte della Cassa depositi e prestiti potra' fars
  
  c) decisione della Giunta provinciale amministrativa approvante il deliberato di cui alla precedente lettera b). 
  
- Se per garantire il mutuo occorrera' eccedere la sovrimposta sui terreni e sui fabbricati oltre il limite legale, la Giunta provinciale amministrativa, nella decisione di cui sopra, autorizzera' tale eccedenza. Agli effetti dell'art. 310 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), verra' pubblicata soltanto la decisione tutoria ed il termine per il ricorso alla quinta sezione del Consiglio di Stato sara' ridotto a quindici giorni; 
+ Se per garantire il mutuo occorrera' eccedere la sovrimposta sui terreni e sui fabbricati oltre il limite legale, la Giunta provinciale amministrativa, nella decisione di cui sopra, autorizzera' tale eccedenza. Agli effetti dell'art. 310 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), verra' pubblicata soltanto la decisione tutoria ed il termine per il ricorso alla quinta sezione del Consiglio di Stato sara' ridotto a quindici giorni; 
  
  d) l'attestazione prefettizia sulla consistenza della sovrimposta; 
  

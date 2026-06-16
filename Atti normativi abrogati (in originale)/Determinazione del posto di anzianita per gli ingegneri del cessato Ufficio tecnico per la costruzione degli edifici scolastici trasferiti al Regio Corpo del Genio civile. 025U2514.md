@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 26 giugno 1921, n. 1557](Concernente%20la%20soppressione%20del%20ruolo%20organico%20del%20personale%20dellufficio%20tecnico%20per%20la%20costruzione%20degli%20edifici%20scolastici%20alla%20dipendenza%20del%20Ministero%20dellistruzione.%20021U1557.md);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 

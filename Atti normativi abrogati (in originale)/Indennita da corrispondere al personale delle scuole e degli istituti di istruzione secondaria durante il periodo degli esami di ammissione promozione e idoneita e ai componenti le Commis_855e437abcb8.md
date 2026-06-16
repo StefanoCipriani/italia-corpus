@@ -30,7 +30,7 @@ I compensi giornalieri previsti dagli [articoli 1](Indennita%20da%20corrisponder
 
 ## Art. 4.
 
-E' abrogato l'[articolo 1 del decreto legislativo 7 maggio 1948, n. 1075](Compensi%20ai%20componenti%20delle%20Commissioni%20desami%20negli%20Istituti%20distruzione%20musicale%20e%20artistica%20nonche%20al%20personale%20tecnico%20di%20segreteria%20di%20economato%20e%20subalterno%20degli%20Istituti%20stessi.md), e sono soppresse le norme dell'[articolo 81 del decreto luogotenenziale 5 maggio 1918, numero 1852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-05;1852#art_81), dell'[articolo 74 del regio decreto 31 dicembre 1923, n. 3123](Ordinamento%20dellistruzione%20artistica.%20023U3123.md). Le tasse di esame indicate negli stessi articoli sono versate all'Erario per l'intero importo.
+E' abrogato l'[articolo 1 del decreto legislativo 7 maggio 1948, n. 1075](Compensi%20ai%20componenti%20delle%20Commissioni%20desami%20negli%20Istituti%20distruzione%20musicale%20e%20artistica%20nonche%20al%20personale%20tecnico%20di%20segreteria%20di%20economato%20e%20subalterno%20degli%20Istituti%20stessi.md), e sono soppresse le norme dell'[articolo 81 del decreto luogotenenziale 5 maggio 1918, numero 1852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-05;1852#art_81), dell'[articolo 74 del regio decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md). Le tasse di esame indicate negli stessi articoli sono versate all'Erario per l'intero importo.
 
 ## Art. 5.
 

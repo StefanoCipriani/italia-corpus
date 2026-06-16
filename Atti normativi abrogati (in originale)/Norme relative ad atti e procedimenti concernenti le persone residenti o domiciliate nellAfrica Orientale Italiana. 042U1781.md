@@ -182,7 +182,7 @@ Liberta' provvisoria.
  
  All'imputato che si trova nelle stato di custodia preventiva, nei casi di sospensione dei procedimenti preveduti dagli articoli 20 e 23, il giudice, d'ufficio, o su richiesta del pubblico ministero ovvero dell'imputato, puo' concedere la liberta' provvisoria anche in deroga alle disposizioni vigenti. 
  
- Con l'ordinanza che concede la liberta' provvisoria, o con altra successiva, il giudice puo' sottoporre l'imputato a cauzione o malleveria o alle prescrizioni indicate nell'[art. 282 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_282), ferma la disposizione dell'ultimo comma dell'[art. 323 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra.
+ Con l'ordinanza che concede la liberta' provvisoria, o con altra successiva, il giudice puo' sottoporre l'imputato a cauzione o malleveria o alle prescrizioni indicate nell'[art. 282 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_282), ferma la disposizione dell'ultimo comma dell'[art. 323 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra.
 
 ## DEI PROCEDIMENTI DISCIPLINARI.
 

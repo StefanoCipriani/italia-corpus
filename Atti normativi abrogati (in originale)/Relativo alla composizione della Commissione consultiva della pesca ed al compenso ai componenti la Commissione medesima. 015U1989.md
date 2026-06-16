@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il numero dei membri elettivi della Commissione consultiva della pesca, indicati nell'[art. 2 del R. decreto 27 ottobre 1911, n. 1207](Col%20quale%20viene%20riformata%20la%20costituzione%20della%20commissione%20consultiva%20per%20la%20pesca.%20011U1207.md), modificato dal [R. decreto 23 aprile 1914, n. 354](Col%20quale%20viene%20modificato%20il%20Regio%20decreto%2025%20ottobre%201911%20n.%201207%20concernente%20la%20Commissione%20consultiva%20sulla%20pesca.%20014U0354.md), e' ridotto da nove a sette. 
+Il numero dei membri elettivi della Commissione consultiva della pesca, indicati nell'[art. 2 del R. decreto 27 ottobre 1911, n. 1207](../Regi%20decreti/Col%20quale%20viene%20riformata%20la%20costituzione%20della%20commissione%20consultiva%20per%20la%20pesca.%20011U1207.md), modificato dal [R. decreto 23 aprile 1914, n. 354](../Regi%20decreti/Col%20quale%20viene%20modificato%20il%20Regio%20decreto%2025%20ottobre%201911%20n.%201207%20concernente%20la%20Commissione%20consultiva%20sulla%20pesca.%20014U0354.md), e' ridotto da nove a sette. 
  
  E' abrogato il decreto Luogotenenziale 31 ottobre 1915 (registrato alla Corte dei conti il 15 novembre 1915) concernente la nomina dei membri della Commissione predetta.
 

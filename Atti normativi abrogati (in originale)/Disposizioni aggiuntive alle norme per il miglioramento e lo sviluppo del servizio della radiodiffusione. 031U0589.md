@@ -84,7 +84,7 @@ Oltre agli impegni di cui all'art. 3 del capitolato d'oneri allegato al [R. decr
  Roma-Napoli; Genova-Torino; Roma-Firenze-Milano;
 Milano-Bologna-Trieste con derivazione Udine-Tarvisio; Napoli-Bari;
 Napoli -Palermo. 
- Le condizioni dell'anzidetta cessione verranno regolate da apposito contratto da stipularsi dall'Ente concessionario insieme con l'atto aggiuntivo alla convenzione vigente con l'E.I.A.R. (approvata con [R. decreto 29 dicembre 1927, n. 2526](Approvazione%20della%20Convenzione%20tra%20il%20Ministero%20delle%20comunicazioni%20e%20la%20Societa%20anonima%20Ente%20Italiano%20per%20le%20Audizioni%20Radiofoniche%20E.I.A.R.%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20027U2526.md)), di cui al seguente art. 13 del presente Regio decreto-legge. 
+ Le condizioni dell'anzidetta cessione verranno regolate da apposito contratto da stipularsi dall'Ente concessionario insieme con l'atto aggiuntivo alla convenzione vigente con l'E.I.A.R. (approvata con [R. decreto 29 dicembre 1927, n. 2526](../Regi%20decreti/Approvazione%20della%20Convenzione%20tra%20il%20Ministero%20delle%20comunicazioni%20e%20la%20Societa%20anonima%20Ente%20Italiano%20per%20le%20Audizioni%20Radiofoniche%20E.I.A.R.%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20027U2526.md)), di cui al seguente art. 13 del presente Regio decreto-legge. 
  La stazione di Trieste sara' attivata entro il 1° giugno 1931; l'aumento della potenza della stazione di Genova dovra', effettuarsi entro il 1° luglio 1931. 
  Le stazioni di Firenze e di Bolzano dovranno essere attivate entro l'ottobre 1931; la stazione di Milano da 50 Kw. entro il febbraio 1932; quella di Bari entro l'aprile 1932.
 
@@ -134,7 +134,7 @@ In caso di recidiva verra' ritirata la licenza ordinaria di vendita di materiali
 
 ## Art. 13.
 
-Le modifiche e aggiunte apportate col presente decreto al capitolato d'oneri annesso al [R. decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), dovranno essere oggetto di apposito atto aggiuntivo alla convenzione approvata con [R. decreto 29 dicembre 1927, n. 2526](Approvazione%20della%20Convenzione%20tra%20il%20Ministero%20delle%20comunicazioni%20e%20la%20Societa%20anonima%20Ente%20Italiano%20per%20le%20Audizioni%20Radiofoniche%20E.I.A.R.%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20027U2526.md), da stipularsi tra il Ministero delle comunicazioni, Direzione generale poste e telegrafi e l'Ente concessionario (E.I.A.R.).
+Le modifiche e aggiunte apportate col presente decreto al capitolato d'oneri annesso al [R. decreto-legge 17 novembre 1927, n. 2207](Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), dovranno essere oggetto di apposito atto aggiuntivo alla convenzione approvata con [R. decreto 29 dicembre 1927, n. 2526](../Regi%20decreti/Approvazione%20della%20Convenzione%20tra%20il%20Ministero%20delle%20comunicazioni%20e%20la%20Societa%20anonima%20Ente%20Italiano%20per%20le%20Audizioni%20Radiofoniche%20E.I.A.R.%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20027U2526.md), da stipularsi tra il Ministero delle comunicazioni, Direzione generale poste e telegrafi e l'Ente concessionario (E.I.A.R.).
 
 ## Art. 14.
 

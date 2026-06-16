@@ -76,7 +76,7 @@ Chiunque intenda esercitare un opificio per la fabbricazione della polvere da sp
  
  Il sindaco, udito l'avviso della Giunta municipale, trasmettera' al prefetto, con rapporto motivato, la dichiarazione. 
  
- Il prefetto provvedera' sulla domanda a termini della legge di pubblica sicurezza del 30 giugno 1889 n. 6144, testo unico e del relativo regolamento approvato con [regio decreto 8 novembre 1889 n. 6517](Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md).
+ Il prefetto provvedera' sulla domanda a termini della legge di pubblica sicurezza del 30 giugno 1889 n. 6144, testo unico e del relativo regolamento approvato con [regio decreto 8 novembre 1889 n. 6517](../Regi%20decreti/Che%20approva%20lunito%20regolamento%20per%20lesecuzione%20della%20legge%2030%20giugno%20sulla%20pubblica%20sicurezza.%20089U6517.md).
 
 ## Art. 10.
 
@@ -237,9 +237,9 @@ La recidiva in contravvenzione alla presente legge od al regolamento, da' luogo 
 
 ## Art. 32.
 
-Le multe sancite dalla presente legge vengono applicate indipendentemente dalle altre pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalla legge di pubblica sicurezza, e quando, col fatto che ha dato luogo alla contravvenzione, sia stata defraudata una tassa di fabbricazione o di vendita, il contravventore e' tenuto ad eseguirne il pagamento. 
+Le multe sancite dalla presente legge vengono applicate indipendentemente dalle altre pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalla legge di pubblica sicurezza, e quando, col fatto che ha dato luogo alla contravvenzione, sia stata defraudata una tassa di fabbricazione o di vendita, il contravventore e' tenuto ad eseguirne il pagamento. 
  
- Ove il fatto costituente la contravvenzione non cada sotto la sanzione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o della legge di pubblica sicurezza, e prima che il giudice ordinario abbia pronunziata la sentenza e questa sia divenuta definitiva, il contravventore puo' chiedere che l'applicazione della multa sia fatta in sede amministrativa.
+ Ove il fatto costituente la contravvenzione non cada sotto la sanzione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o della legge di pubblica sicurezza, e prima che il giudice ordinario abbia pronunziata la sentenza e questa sia divenuta definitiva, il contravventore puo' chiedere che l'applicazione della multa sia fatta in sede amministrativa.
 
 ## Art. 33.
 
@@ -318,7 +318,7 @@ La fabbricazione di polveri piriche e di altri prodotti esplodenti destinati all
 
 ## Art. 41.
 
-E' abrogato il testo unico delle leggi sulla tassa di fabbricazione delle polveri piriche e degli altri prodotti esplodenti, approvato col [regio decreto del 7 settembre 1887 n. 4934](Concernente%20la%20tassa%20di%20fabbricazione%20delle%20polveri%20piriche%20e%20degli%20altri%20prodotti%20esplodenti.%20087U4934.md) (serie 3ª). 
+E' abrogato il testo unico delle leggi sulla tassa di fabbricazione delle polveri piriche e degli altri prodotti esplodenti, approvato col [regio decreto del 7 settembre 1887 n. 4934](../Regi%20decreti/Concernente%20la%20tassa%20di%20fabbricazione%20delle%20polveri%20piriche%20e%20degli%20altri%20prodotti%20esplodenti.%20087U4934.md) (serie 3ª). 
  
  Con decreto reale, udito il parere del Consiglio di Stato, sara' provveduto, mediante regolamento, alla esecuzione della presente legge.
 

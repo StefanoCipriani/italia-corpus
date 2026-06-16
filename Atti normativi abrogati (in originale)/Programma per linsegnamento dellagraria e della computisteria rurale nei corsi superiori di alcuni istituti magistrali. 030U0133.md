@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  Veduta la disposizione dell'[art. 3 della legge 2 luglio 1929, n. 1272](Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md), concernente provvedimenti per l'istruzione magistrale; 
  
- Veduta la disposizione dell'[art. 53 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_53); 
+ Veduta la disposizione dell'[art. 53 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md); 
  
  Riconosciuta l'opportunita' di determinare il programma dell'insegnamento dell'agraria e della computisteria rurale da aggiungere, secondo la norma sopra citata, agli insegnamenti prescritti per gl'istituti magistrali; 
  

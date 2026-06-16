@@ -24,11 +24,11 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 ## Art. 1.
 
-Nei territori annessi al Regno con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), e' pubblicato il [R. decreto 10 marzo 1910, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-03-10;149), che approva l'annesso regolamento pel servizio dei depositi giudiziari, con le modificazioni indicate nell'articolo seguente.
+Nei territori annessi al Regno con le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](Che%20approva%20lannesso%20Trattato%20concluso%20fra%20il%20Regno%20dItalia%20e%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni.%20020U1778.md), e' pubblicato il [R. decreto 10 marzo 1910, n. 149](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20pel%20servizio%20dei%20depositi%20giudiziari.%20010U0149.md), che approva l'annesso regolamento pel servizio dei depositi giudiziari, con le modificazioni indicate nell'articolo seguente.
 
 ## Art. 2.
 
-Nelle disposizioni degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-03-10;149#art_2), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-03-10;149#art_7) e [10 del R. decreto 10 marzo 1910, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-03-10;149#art_10), sono introdotte le modificazioni seguenti: 
+Nelle disposizioni degli [articoli 2](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20pel%20servizio%20dei%20depositi%20giudiziari.%20010U0149.md), [7](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20pel%20servizio%20dei%20depositi%20giudiziari.%20010U0149.md) e [10 del R. decreto 10 marzo 1910, n. 149](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20pel%20servizio%20dei%20depositi%20giudiziari.%20010U0149.md), sono introdotte le modificazioni seguenti: 
  
  1° Nell'art. 2: 
  

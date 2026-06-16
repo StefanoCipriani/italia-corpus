@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti il [R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), e successive modificazioni, nonche' il [R. decreto 6 dicembre 1928, n. 3222](Norme%20per%20lattuazione%20del%20R.%20decreto%2029%20marzo%201928%20n.%201003%20sulla%20disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U3222.md), e successive modificazioni, concernenti la disciplina nazionale della domanda e dell'offerta di lavoro;
+Visti il [R. decreto 29 marzo 1928, n. 1003](../Regi%20decreti/Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md), e successive modificazioni, nonche' il [R. decreto 6 dicembre 1928, n. 3222](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto%2029%20marzo%201928%20n.%201003%20sulla%20disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U3222.md), e successive modificazioni, concernenti la disciplina nazionale della domanda e dell'offerta di lavoro;
 
 Visto il [R. decreto-legge 19 novembre 1931, n. 1615](Modifiche%20al%20R.%20decreto-legge%2015%20novembre%201928%20n.%202762%20sulla%20costituzione%20dei%20fondi%20per%20la%20istituzione%20ed%20il%20funzionamento%20degli%20uffici%20di%20collocamento%20gratuito%20dei%20prestatori%20dopera%20diso_e97c418a24c7.md), convertito in legge con la [legge 26 maggio 1932, n. 740](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20novembre%201931%20n.%201615%20che%20apporta%20modificazioni%20al%20R.%20decreto-legge%2015%20novembre%201928%20n.%202762%20sulla%20costituzione%20dei%20fondi%20per%20la%20istituzione%20e_961f566f6cce.md), relativo alla costituzione dei fondi per la istituzione ed il funzionamento degli uffici di collocamento;
 
@@ -188,21 +188,21 @@ Fino a quando non siano stabilite le eccezioni previste nel primo comma del prec
 
 Sono abrogate le leggi e i Regi decreti seguenti: 
  
- [R. decreto 29 marzo 1928, n. 1003](Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md); 
+ [R. decreto 29 marzo 1928, n. 1003](../Regi%20decreti/Disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U1003.md); 
  
- [R. decreto 6 dicembre 1928, n. 3222](Norme%20per%20lattuazione%20del%20R.%20decreto%2029%20marzo%201928%20n.%201003%20sulla%20disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U3222.md); 
+ [R. decreto 6 dicembre 1928, n. 3222](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto%2029%20marzo%201928%20n.%201003%20sulla%20disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20028U3222.md); 
  
  R. decreto-legge 15 novembre. 1928, n. 2762, convertito nella [legge 24 giugno 1929, n. 1181](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2015%20novembre%201928%20n.%202762%20che%20provvede%20alla%20costituzione%20di%20fondi%20per%20la%20istituzione%20e%20il%20funzionamento%20degli%20Uffici%20per%20il%20coll_69484e34b788.md); 
  
- [R. decreto 9 dicembre 1929, n. 2333](Modificazioni%20al%20R.%20decreto%2029%20marzo%201928%20n.%201003%20sulla%20disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20029U2333.md); 
+ [R. decreto 9 dicembre 1929, n. 2333](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%2029%20marzo%201928%20n.%201003%20sulla%20disciplina%20nazionale%20della%20domanda%20e%20dellofferta%20di%20lavoro.%20029U2333.md); 
  
  R. decreto 9 dicembre 1929. n. 2393; 
  
  [R. decreto-legge 19 novembre 1931, n. 1615](Modifiche%20al%20R.%20decreto-legge%2015%20novembre%201928%20n.%202762%20sulla%20costituzione%20dei%20fondi%20per%20la%20istituzione%20ed%20il%20funzionamento%20degli%20uffici%20di%20collocamento%20gratuito%20dei%20prestatori%20dopera%20diso_e97c418a24c7.md), convertito nella [legge 26 maggio 1932, n. 740](Conversione%20in%20legge%20del%20R.%20decreto-legge%2019%20novembre%201931%20n.%201615%20che%20apporta%20modificazioni%20al%20R.%20decreto-legge%2015%20novembre%201928%20n.%202762%20sulla%20costituzione%20dei%20fondi%20per%20la%20istituzione%20e_961f566f6cce.md); 
  
- [R. decreto 31 marzo 1932, n. 464](Modificazione%20allordinamento%20degli%20Uffici%20di%20collocamento%20istituiti%20in%20virtu%20del%20R.%20decreto%2029%20marzo%201928%20n.%201003.%20032U0464.md); 
+ [R. decreto 31 marzo 1932, n. 464](../Regi%20decreti/Modificazione%20allordinamento%20degli%20Uffici%20di%20collocamento%20istituiti%20in%20virtu%20del%20R.%20decreto%2029%20marzo%201928%20n.%201003.%20032U0464.md); 
  
- [R. decreto 18 ottobre 1934, n. 1978](Riordinamento%20degli%20Uffici%20provinciali%20di%20collocamento.%20034U1978.md). 
+ [R. decreto 18 ottobre 1934, n. 1978](../Regi%20decreti/Riordinamento%20degli%20Uffici%20provinciali%20di%20collocamento.%20034U1978.md). 
  
  E' abrogata altresi' ogni altra disposizione contraria o incompatibile con quelle del presente decreto.
 

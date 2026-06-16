@@ -18,13 +18,13 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il [R. decreto 30 luglio 1888, n. 5629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-30;5629), con il quale il porto di Napoli fu inscritto nella prima classe della seconda categoria dei porti del Regno; 
+ Visto il [R. decreto 30 luglio 1888, n. 5629](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%20prima%20e%20seconda%20categoria%20dei%20porti%20marittimi%20indicati%20negli%20annessi%20elenchi%20colla%20designazione%20degli%20Enti%20interessati%20nelle%20spese.%20088U5629.md), con il quale il porto di Napoli fu inscritto nella prima classe della seconda categoria dei porti del Regno; 
  
  Vista la deliberazione 16 febbraio 1940-XVIII con la quale il podesta' di Napoli ha chiesto che i porticciuoli di Santa Lucia e Sannazzaro siano considerati parti integranti del porto di Napoli; 
  
  Visti i pareri favorevoli 3 dicembre 1937-XVI, 18 ottobre 1938-XVI, 10 settembre 1940-XVIII e 14 settembre 1940-XVIII, espressi rispettivamente dal Consiglio provinciale delle corporazioni, dal Rettorato provinciale, dall'Ente autonomo del porto e dalla Capitaneria di porto di Napoli; 
  
- Visti il [testo unico 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1885-04-02;3095), ed il relativo regolamento approvato con [R. decreto 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-09-26;713); 
+ Visti il [testo unico 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1885-04-02;3095), ed il relativo regolamento approvato con [R. decreto 26 settembre 1904, n. 713](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%202%20aprile%201885%20testo%20unico%20n.%203095%20sui%20porti%20spiaggie%20e%20fari.%20004U0713.md); 
  
  Visto il parere del Consiglio superiore dei lavori pubblici; 
  

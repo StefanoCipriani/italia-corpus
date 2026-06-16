@@ -18,7 +18,7 @@ Visto il [R. decreto 5 novembre 1911, n. 1247](Che%20pone%20sotto%20la%20sovrani
 
 Visto il [R. decreto 16 settembre 1909, n. 704](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sugli%20spiriti.%20009U0704.md), che approva il testo unico delle leggi sugli spiriti nel Regno;
 
-Visto il [R. decreto 25 novembre 1909, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-11-25;762), che approva il nuovo regolamento per l'esecuzione del testo unico sopraindicato;
+Visto il [R. decreto 25 novembre 1909, n. 762](../Regi%20decreti/Che%20approva%20lannesso%20nuovo%20regolamento%20in%20sostituzione%20a%20quello%20per%20la%20esecuzione%20delle%20leggi%20sugli%20spiriti.%20009U0762.md), che approva il nuovo regolamento per l'esecuzione del testo unico sopraindicato;
 
 Visto l'art. 72 della tabella allegata alle norme relative alla tassa sugli affari in Tripolitania ed in Cirenaica approvato col [R. decreto 18 gennaio 1923, n. 150](Che%20approva%20le%20norme%20e%20la%20tariffa%20relative%20alla%20tassa%20sugli%20affari%20per%20la%20Tripolitania%20e%20la%20Cirenaica.%20023U0150.md);
 

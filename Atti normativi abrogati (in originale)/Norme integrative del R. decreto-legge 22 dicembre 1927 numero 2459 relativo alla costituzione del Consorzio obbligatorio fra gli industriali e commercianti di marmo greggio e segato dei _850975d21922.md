@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 1° luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;2290), relativo all'ordinamento dei Magazzini generali, e il regolamento di esecuzione approvato con [R. decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126);
+Visto il [R. decreto-legge 1° luglio 1926, n. 2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;2290), relativo all'ordinamento dei Magazzini generali, e il regolamento di esecuzione approvato con [R. decreto 16 gennaio 1927, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali%20e%20lapplicazione%20delle%20discipline%20doganali%20ai%20predetti%20Magazzini%20generali.%20027U0126.md);
 
 Ritenuta la necessita' assoluta ed urgente di completare le norme del [R. decreto-legge 22 dicembre 1927, n. 2459](Costituzione%20di%20un%20Consorzio%20obbligatorio%20fra%20gli%20industriali%20cavatori%20e%20fra%20i%20commercianti%20di%20marmo%20greggio%20e%20segato%20dei%20comuni%20di%20Carrara%20e%20Fivizzano.%20027U2459.md), con il quale e' stato costituito il Consorzio obbligatorio fra gli industriali ed i commercianti di marmo grezzo e segato dei comuni di Carrara e Fivizzano;
 
@@ -32,7 +32,7 @@ Il Consorzio obbligatorio tra gli industriali produttori ed i commercianti di ma
 
 ## Art. 2.
 
-L'istituzione e l'esercizio dei predetti Magazzini generali saranno disciplinati dalle norme del [R. decreto-legge 1° luglio 1926, n.2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;2290), e del regolamento approvato con [R. decreto 16 gennaio 1927, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-16;126). 
+L'istituzione e l'esercizio dei predetti Magazzini generali saranno disciplinati dalle norme del [R. decreto-legge 1° luglio 1926, n.2290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-01;2290), e del regolamento approvato con [R. decreto 16 gennaio 1927, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali%20e%20lapplicazione%20delle%20discipline%20doganali%20ai%20predetti%20Magazzini%20generali.%20027U0126.md). 
  
  Il Consorzio ha pero' facolta' di iniziare l'esercizio dei Magazzini generali prescindendo dalla procedura e dai termini di cui ai nn. 1, 2, 3 dell'art. 2 e agli articoli 3, 4, 5 e 7 del citato R. decreto-legge 1° luglio 1926. 
  

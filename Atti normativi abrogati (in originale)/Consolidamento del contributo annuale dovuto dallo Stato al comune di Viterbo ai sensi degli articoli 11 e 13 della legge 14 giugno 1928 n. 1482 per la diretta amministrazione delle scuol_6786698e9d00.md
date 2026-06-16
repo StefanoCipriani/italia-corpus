@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 9 aprile 1928, n. 866](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-09;866), col quale il comune di Grotte Santo Stefano e' stato aggregato al comune di Viterbo e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Roma alla diretta amministrazione del comune autonomo di Viterbo, a decorrere dal 1° giugno 1928; 
+ Visto il [R. decreto 9 aprile 1928, n. 866](../Regi%20decreti/Modificazioni%20di%20circoscrizioni%20comunali%20in%20provincia%20di%20Viterbo.%20028U0866.md), col quale il comune di Grotte Santo Stefano e' stato aggregato al comune di Viterbo e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Roma alla diretta amministrazione del comune autonomo di Viterbo, a decorrere dal 1° giugno 1928; 
  
  Visto l'[art. 11 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md), col quale le disposizioni contenute nel n. 3° e 4° comma dell'art. 1 della stessa legge, per quanto riguarda i concorsi e rimborsi scolastici dovuti dallo Stato ai Comuni che hanno la diretta amministrazione delle scuole elementari, si applicano anche per le scuole amministrate dai Regi provveditorati agli studi nei Comuni aggregati ad altri che abbiano invece la diretta amministrazione delle scuole; 
  

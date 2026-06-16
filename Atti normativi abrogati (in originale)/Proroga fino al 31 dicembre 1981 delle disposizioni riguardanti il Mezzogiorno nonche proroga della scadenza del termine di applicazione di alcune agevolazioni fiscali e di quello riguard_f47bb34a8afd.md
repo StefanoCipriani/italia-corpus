@@ -22,7 +22,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-L'efficacia del programma quinquennale di cui all'art. 2 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), viene prorogata al 31 dicembre 1981. 
+L'efficacia del programma quinquennale di cui all'art. 2 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), viene prorogata al 31 dicembre 1981. 
  La durata della Cassa per il Mezzogiorno e' prorogata fino al 31 dicembre 1981. 
  La validita' delle disposizioni del [testo unico 6 marzo 1978, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1978-03-06;218), e delle altre leggi riguardanti i territori meridionali, contenenti l'indicazione del termine del 31 dicembre 1980, e' prorogata al 31 dicembre 1981.
 

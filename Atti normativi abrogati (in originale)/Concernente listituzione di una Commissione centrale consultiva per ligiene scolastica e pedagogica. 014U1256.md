@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduti il [testo unico delle leggi sulla sanita'](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) pubblica, approvato col Nostro decreto del 1° agosto 1907, n. 636, e il regolamento generale sanitario, approvato col precedente Nostro decreto del 3 febbraio 1901, n. 45;
+Veduti il [testo unico delle leggi sulla sanita'](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) pubblica, approvato col Nostro decreto del 1° agosto 1907, n. 636, e il regolamento generale sanitario, approvato col precedente Nostro decreto del 3 febbraio 1901, n. 45;
 
 Vedute le leggi sugli ordinamenti scolastici del Regno;
 

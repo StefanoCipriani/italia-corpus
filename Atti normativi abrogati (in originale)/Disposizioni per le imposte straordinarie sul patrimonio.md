@@ -10,15 +10,15 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con regio decreto 24 agosto, n. 4021 e successive modificazioni e il relativo regolamento approvato con [regio decreto 11 luglio 1907, n. 560](Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
+Visto il testo unico delle leggi per l'imposta sui redditi di ricchezza mobile, approvato con regio decreto 24 agosto, n. 4021 e successive modificazioni e il relativo regolamento approvato con [regio decreto 11 luglio 1907, n. 560](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20lapplicazione%20dellimposta%20sui%20redditi%20della%20ricchezza%20mobile.%20007U0560.md);
 
-Visto il [regio decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608);
+Visto il [regio decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md);
 
-Visto il [regio decreto 8 luglio 1937, n. 1516](Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md);
+Visto il [regio decreto 8 luglio 1937, n. 1516](../Regi%20decreti/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md);
 
 Visto il [regio decreto-legge 12 ottobre 1939, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;152) convertito nella [legge 8 febbraio 1940, n. 100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2012%20ottobre%201939-XVII%20n.%201529%20concernente%20listituzione%20di%20una%20imposta%20Ordinarie%20sul%20patrimonio.%20040U0100.md), e successive modificazioni;
 
-Visto il [regio decreto 3 giugno 1943, n. 598](Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md) e successive modificazioni;
+Visto il [regio decreto 3 giugno 1943, n. 598](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20imposta%20straordinaria%20sui%20maggiori%20utili%20relativi%20allo%20stato%20di%20guerra.%20043U0598.md) e successive modificazioni;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 2 marzo 1947, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-02;143);
 
@@ -415,7 +415,7 @@ I notai e tutti coloro che, non esercitando l'industria del credito, abbiano, a 
 
 Le Commissioni giudicanti hanno tutte le facolta' conferite dall'articolo 46 ai funzionari delle imposte.
  Le Commissioni di prima istanza hanno, inoltre, la facolta' di eseguire d'ufficio accertamenti non proposti dagli Uffici distrettuali e di elevare le cifre di patrimonio fissate dagli Uffici, o concordate tra i contribuenti e l'Ufficio, anche se gia' inscritte a ruolo.
- Sono applicabili, ai fini del presente decreto, le disposizioni contenute negli [articoli 15](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md) e [21 del regio decreto legislativo 27 maggio 1946, n. 436](Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md).
+ Sono applicabili, ai fini del presente decreto, le disposizioni contenute negli [articoli 15](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md) e [21 del regio decreto legislativo 27 maggio 1946, n. 436](../Regi%20decreti%20legislativi/Avocazione%20allo%20Stato%20dei%20profitti%20di%20guerra%20e%20dei%20profitti%20eccezionali%20di%20speculazione.md).
  La facolta' concessa dal comma precedente alle Commissioni cessa col 31 dicembre dell'anno successivo a quello in cui si verifica la prescrizione dell'azione della finanza, a norma dell'articolo 63 del presente decreto.
 
 ## Riscossione.
@@ -522,8 +522,8 @@ L'azione della Finanza, per la rettifica delle dichiarazioni presentate dai cont
 
 ### Art. 64.
 
-I funzionari dell'Amministrazione delle imposte, i componenti dei Collegi giudicanti e tutti coloro che, secondo le rispettive attribuzioni, intervengono nello accertamento, nella applicazione e nella riscossione dell'imposta, sono tenuti al segreto d'ufficio e sono passibili delle pene comminate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la violazione del segreto stesso.
- Per quanto non e' previsto nel presente capo si applicano le disposizioni di cui al [regio decreto 17 settembre 1931, n. 1608](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-17;1608).
+I funzionari dell'Amministrazione delle imposte, i componenti dei Collegi giudicanti e tutti coloro che, secondo le rispettive attribuzioni, intervengono nello accertamento, nella applicazione e nella riscossione dell'imposta, sono tenuti al segreto d'ufficio e sono passibili delle pene comminate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la violazione del segreto stesso.
+ Per quanto non e' previsto nel presente capo si applicano le disposizioni di cui al [regio decreto 17 settembre 1931, n. 1608](../Regi%20decreti/Approvazione%20del%20Testo%20delle%20disposizioni%20riguardanti%20le%20dichiarazioni%20dei%20redditi%20e%20le%20sanzioni%20in%20materia%20di%20imposte%20dirette.%20031U1608.md).
 
 ## Cespiti danneggiati dalla guerra.
 

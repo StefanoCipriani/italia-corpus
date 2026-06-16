@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Veduto lo statuto della Regia universita' di Siena, approvato con il R. decreto 13 ottobre 1927-V, n. 2831, e modificato con il R. decreto 31 ottobre 1929-VIII, n. 2395, e successivi; 
  
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con il [R. decreto 31 agosto 1933-X1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1), [n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con il [R. decreto 31 agosto 1933-X1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1), [n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  
  Veduto il R. decreto-legge 20 giugno 1935-XIII, n. 1071; 
  

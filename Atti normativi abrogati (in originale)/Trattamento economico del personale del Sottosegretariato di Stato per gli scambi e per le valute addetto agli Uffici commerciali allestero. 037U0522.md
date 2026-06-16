@@ -94,7 +94,7 @@ I funzionari degli Uffici commerciali all'estero, chiamati per ragioni di serviz
  
  Nei casi indicati nel comma precedente, compete inoltre il rimborso dei biglietti di viaggio con l'aumento dei due decimi, da ridurre ai sensi del [decreto-legge 20 novembre 1930, n. 1491](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1930-11-20;1491), per i viaggi all'estero ed anche ai sensi del [R. decreto-legge 14 aprile 1934, n. 561](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-14;561), per i viaggi compiuti nel Regno. 
  
- Per le missioni nell'interno dello Stato dove ha sede l'Ufficio commerciale od in altro Stato all'estero, si applicano le disposizioni del [R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), tenuto conto delle riduzioni previste dall'art. 6 del decreto stesso. 
+ Per le missioni nell'interno dello Stato dove ha sede l'Ufficio commerciale od in altro Stato all'estero, si applicano le disposizioni del [R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), tenuto conto delle riduzioni previste dall'art. 6 del decreto stesso. 
  
  Per i viaggi compiuti nelle ore notturne e' consentito l'uso del vagone letto, purche' il viaggio si compia per intero in territorio estero, ovvero da una stazione del Regno ad una all'estero o viceversa. 
  

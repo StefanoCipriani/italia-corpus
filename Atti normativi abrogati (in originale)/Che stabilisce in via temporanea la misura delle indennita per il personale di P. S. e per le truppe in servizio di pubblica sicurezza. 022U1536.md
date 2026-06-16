@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-La misura dell'indennita' stabilita al quadro A (diarie personali) della tabella annessa al [R. D. 19 aprile 1907, n. 202](Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20007U0202.md), modificata dal [R. D. 19 gennaio 1911, n. 69](Che%20apporta%20modificazioni%20al%20capo%20II%20del%20regolamento%20per%20le%20indennita%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20011U0069.md), e' modificata, in via temporanea e fino a nuova disposizione, come segue: 
+La misura dell'indennita' stabilita al quadro A (diarie personali) della tabella annessa al [R. D. 19 aprile 1907, n. 202](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20le%20indennita%20eventuali%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20007U0202.md), modificata dal [R. D. 19 gennaio 1911, n. 69](../Regi%20decreti/Che%20apporta%20modificazioni%20al%20capo%20II%20del%20regolamento%20per%20le%20indennita%20alle%20truppe%20in%20servizio%20di%20pubblica%20sicurezza.%20011U0069.md), e' modificata, in via temporanea e fino a nuova disposizione, come segue: 
  
  A) per servizi che richiedano pernottamento fuori della residenza ordinaria (categoria 1ª); 
  

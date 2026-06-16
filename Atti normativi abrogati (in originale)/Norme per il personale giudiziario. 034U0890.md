@@ -26,7 +26,7 @@ Con decreti Reali, da emanarsi su proposta del Ministro per la grazia e giustizi
 
 ## Art. 3.
 
-A decorrere dall'esercizio 1934-1935, il Fondo speciale delle Corporazioni, istituito con l'[art. 26 del R. decreto 1° luglio 1926, n. 1130](Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), versera' all'Erario la somma annua di L. 700.000, restando soppresso lo stanziamento di cui al capitolo 40 (Contributo per compensi a funzionari dell'Ordine giudiziario chiamati a conoscere le vertenze individuali del lavoro) dello stato di previsione della spesa del fondo medesimo per l'indicato esercizio.
+A decorrere dall'esercizio 1934-1935, il Fondo speciale delle Corporazioni, istituito con l'[art. 26 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), versera' all'Erario la somma annua di L. 700.000, restando soppresso lo stanziamento di cui al capitolo 40 (Contributo per compensi a funzionari dell'Ordine giudiziario chiamati a conoscere le vertenze individuali del lavoro) dello stato di previsione della spesa del fondo medesimo per l'indicato esercizio.
 
 ## Art. 4.
 

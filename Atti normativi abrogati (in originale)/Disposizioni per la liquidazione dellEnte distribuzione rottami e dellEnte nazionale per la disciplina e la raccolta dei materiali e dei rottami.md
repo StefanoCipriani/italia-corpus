@@ -12,7 +12,7 @@ IL CAPO PROVVISORIO DELLO STATO
 
 Visto il [regio decreto-legge 28 giugno 1938, n. 1116](Costituzione%20dellEnte%20distribuzione%20rottami%20con%20sede%20in%20Roma.%20038U1116.md), convertito nella [legge 9 gennaio 1939, n. 207](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20giugno%201938-XVI%20n.%201116%20concernente%20la%20costituzione%20dellEnte%20distribuzione%20rottami%20con%20sede%20in%20Roma.%20039U0207.md), relativo alla costituzione dell'Ente distribuzione rottami;
 
-Visto il [regio decreto 27 dicembre 1938, n. 2100](Approvazione%20dello%20statuto%20dellEnte%20distribuzione%20rottami.%20038U2100.md), che approva lo statuto dell'Ente distribuzione rottami;
+Visto il [regio decreto 27 dicembre 1938, n. 2100](../Regi%20decreti/Approvazione%20dello%20statuto%20dellEnte%20distribuzione%20rottami.%20038U2100.md), che approva lo statuto dell'Ente distribuzione rottami;
 
 Vista l'ordinanza 17 ottobre 1945, n. 285, del Governo Militare Alleato, con la quale si conferma la soppressione e La messa in liquidazione dell'Ente distribuzione rottami, disposta con [decreto legislativo 1° settembre 1944, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-09-01;634), del sedicente governo della repubblica sociale, integrato dal decreto interministeriale 21 ottobre 1944 e si provvede alla nomina del commissario liquidatore e del vice liquidatore;
 

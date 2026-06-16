@@ -24,15 +24,15 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Il Ministro per la pubblica istruzione ha facolta' di trasferire in soprannumero nel grado di restauratore principale uno degli assistenti principali collocati in tale grado a norma dell'[art. 42 del R. decreto 31 dicembre 1923, numero 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_42), e di conferire il posto vacante assistente principale, su designazione del Consiglio di amministrazione, ad uno degli impiegati gia' collocati nel grado di primo assistente in base al citato articolo. 
+Il Ministro per la pubblica istruzione ha facolta' di trasferire in soprannumero nel grado di restauratore principale uno degli assistenti principali collocati in tale grado a norma dell'[art. 42 del R. decreto 31 dicembre 1923, numero 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e di conferire il posto vacante assistente principale, su designazione del Consiglio di amministrazione, ad uno degli impiegati gia' collocati nel grado di primo assistente in base al citato articolo. 
  
- Ai provvedimenti emanati in base al presente articolo e' applicabile il disposto dell'art. 62 del citato [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164). 
+ Ai provvedimenti emanati in base al presente articolo e' applicabile il disposto dell'art. 62 del citato [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md). 
  
  Il posto in soprannumero nel grado di restauratore principale sara' assorbito in occasione della prima vacanza che si verifichera' in tale grado.
 
 ## Art. 2.
 
-Il ruolo del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita', di cui alla tabella A annessa al [R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164), e' aumentato di un posto di ispettore aggiunto. Tale posto potra', nella prima applicazione del presente decreto, essere conferito, in deroga ad ogni contraria disposizione, in seguito a speciale concorso per titoli, con particolare riguardo alle antichita' della Colonia libica. A tale concorso potranno partecipare coloro che siano in possesso del titolo di studio richiesto dall'[art. 20, primo comma, del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_20-com1).
+Il ruolo del personale dei monumenti, dei musei, delle gallerie e degli scavi di antichita', di cui alla tabella A annessa al [R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e' aumentato di un posto di ispettore aggiunto. Tale posto potra', nella prima applicazione del presente decreto, essere conferito, in deroga ad ogni contraria disposizione, in seguito a speciale concorso per titoli, con particolare riguardo alle antichita' della Colonia libica. A tale concorso potranno partecipare coloro che siano in possesso del titolo di studio richiesto dall'[art. 20, primo comma, del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md).
 
 ## Art. 3.
 

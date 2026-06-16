@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Sono devolute al Sottosegretariato di Stato per la stampa e la propaganda tutte indistintamente le attribuzioni spettanti ai Ministeri dell'interno, delle corporazioni e dell'educazione nazionale in materia di censura teatrale, vigilanza, governativa e di provvidenze relative ad ogni forma di attivita' teatrale e musicale, ferme restando, salvo il disposto del successivo art. 6, le competenze attribuite al Ministero dell'interno dal titolo III, capo I del [testo unico delle leggi di P. S.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con R. decreto 18 giugno 1931-IX, n. 773.
+Sono devolute al Sottosegretariato di Stato per la stampa e la propaganda tutte indistintamente le attribuzioni spettanti ai Ministeri dell'interno, delle corporazioni e dell'educazione nazionale in materia di censura teatrale, vigilanza, governativa e di provvidenze relative ad ogni forma di attivita' teatrale e musicale, ferme restando, salvo il disposto del successivo art. 6, le competenze attribuite al Ministero dell'interno dal titolo III, capo I del [testo unico delle leggi di P. S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con R. decreto 18 giugno 1931-IX, n. 773.
 
 ## Art. 2.
 
@@ -56,7 +56,7 @@ Con separati provvedimenti del Ministro per le finanze sara' effettuato il trasp
 
 ## Art. 6.
 
-L'[art. 73 del testo unico della legge di P. S.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_73) approvato con R. decreto 18 giugno 1931-IX, n. 773, e' modificato come appresso: 
+L'[art. 73 del testo unico della legge di P. S.](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con R. decreto 18 giugno 1931-IX, n. 773, e' modificato come appresso: 
  
  « Non possono darsi o recitarsi in pubblico opere, drammi o ogni altra produzione teatrale che siano, dal Sottosegretariato di Stato per la stampa e la propaganda, a cui devono essere comunicati per l'approvazione, ritenuti contrari all'ordine pubblico, alla morale o ai buoni costumi. 
  

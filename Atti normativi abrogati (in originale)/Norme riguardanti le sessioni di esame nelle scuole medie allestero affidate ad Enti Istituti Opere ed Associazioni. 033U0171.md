@@ -34,7 +34,7 @@ Nelle scuole medie all'estero affidate ad Enti, Istituti, Opere ed Associazioni,
  
  La presidenza della Commissione spettera' in ogni caso al Regio agente diplomatico o consolare di cui sopra o a un suo sostituto. 
  
- Le spese per l'invio e per le competenze da liquidarsi ai commissari, a norma del [R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), sono a carico dell'Ente da cui dipende la scuola.
+ Le spese per l'invio e per le competenze da liquidarsi ai commissari, a norma del [R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), sono a carico dell'Ente da cui dipende la scuola.
 
 ## Art. 2.
 

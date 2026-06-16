@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [decreto legislativo Luogotenenziale 7 settembre 1945, n. 574](Aumento%20temporaneo%20della%20indennita%20militare%20per%20gli%20ufficiali%20e%20sottufficiali%20in%20servizio%20permanente%20effettivo%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20_fd707601dbac.md), relativo all'aumento dell'indennita' militare agli ufficiali e sottufficiali in servizio permanente del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza e alla concessione di una indennita' mensile ai graduati e militari di truppa delle Forze armate suddette;
 

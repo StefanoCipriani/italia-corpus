@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il [R. decreto 8 gennaio 1899, n. 5](Determinante%20lo%20Statuto%20del%20Regio%20Istituto%20internazionale%20italiano%20in%20Torino.%20099U0005.md), che approvo' lo statuto del R. Istituto internazionale italiano in Torino;
 
-Visto il [R. decreto 31 agosto 1907, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;387) - parte supplementare - che istitui' in Torino una scuola media di commercio;
+Visto il [R. decreto 31 agosto 1907, n. 387](../Regi%20decreti/Che%20istituisce%20e%20riordina%20scuole%20maschili%20di%20commercio%20ed%20industria%20in%20Torino.%200700387R.md) - parte supplementare - che istitui' in Torino una scuola media di commercio;
 
 Visto il progetto di modificazioni al suddetto statuto presentato alla nostra approvazione;
 

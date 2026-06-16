@@ -28,7 +28,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Gli articoli 2 e 4 del regolamento approvato con [R. decreto 6 agosto 1893, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-08-06;349) (parte supplementare) sono sostituiti dai seguenti: 
+ Gli articoli 2 e 4 del regolamento approvato con [R. decreto 6 agosto 1893, n. 349](../Regi%20decreti/Che%20approva%20il%20regolamento%20pel%20conferimento%20dei%20posti%20gratuiti%20nel%20convitto%20nazionale%20Cicognini%20di%20Prato.%209300349R.md) (parte supplementare) sono sostituiti dai seguenti: 
  
  «Art. 2. Le condizioni indispensabili per concorrere al godimento del legato sono: 
  

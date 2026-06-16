@@ -50,7 +50,7 @@ E' esclusa dall'applicazione della presente legge la disciplina della ricerca e 
 
 8.
 
-Nel caso che insieme al fluido geotermico siano presenti sostanze minerali industrialmente utilizzabili, le disposizioni della presente legge non si applicano qualora il valore economico dei KWh termici recuperabili da detto fluido risulti inferiore a quello delle sostanze minerali coesistenti. In tale caso si applicano le norme di cui al [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443).
+Nel caso che insieme al fluido geotermico siano presenti sostanze minerali industrialmente utilizzabili, le disposizioni della presente legge non si applicano qualora il valore economico dei KWh termici recuperabili da detto fluido risulti inferiore a quello delle sostanze minerali coesistenti. In tale caso si applicano le norme di cui al [regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md).
 
 9.
 
@@ -210,7 +210,7 @@ Qualora l'area della concessione interessi i territori di due o piu' Regioni con
 
 1.
 
-L'esecuzione dei pozzi di profondita' fino a 400 metri per ricerca, estrazione ed utilizzazione di acque calde, comprese quelle sgorganti da sorgenti per potenza termica complessiva non superiore a 2.000 chilowatt termici, e' autorizzata dalla Regione territorialmente competente con le modalita' di cui al [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775).
+L'esecuzione dei pozzi di profondita' fino a 400 metri per ricerca, estrazione ed utilizzazione di acque calde, comprese quelle sgorganti da sorgenti per potenza termica complessiva non superiore a 2.000 chilowatt termici, e' autorizzata dalla Regione territorialmente competente con le modalita' di cui al [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md).
 
 2.
 
@@ -341,8 +341,8 @@ Non sono soggette a concessioni ne' ad autorizzazioni del sindaco le opere tempo
 
 7.
 
-Qualora l'esercizio di una concessione demaniale marittima, rilasciata per aree comunque ricadenti in un permesso di ricerca o di concessione per l'utilizzo di risorse geotermiche, anche successivamente a detti permessi, risulti incompatibile o ostacoli l'attivita' di prospezione, ricerca e coltivazione, l'autorita' marittima, a richiesta del titolare del permesso o della concessione mineraria, procede alla revoca della concessione demaniale con le modalita' previste dall'[articolo 43 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
-L'indennizzo a favore del titolare della concessione revocata, nella misura determinata ai sensi dell'[articolo 42, quarto](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [quinto comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' a carico del titolare del permesso di ricerca e della concessione di coltivazione.
+Qualora l'esercizio di una concessione demaniale marittima, rilasciata per aree comunque ricadenti in un permesso di ricerca o di concessione per l'utilizzo di risorse geotermiche, anche successivamente a detti permessi, risulti incompatibile o ostacoli l'attivita' di prospezione, ricerca e coltivazione, l'autorita' marittima, a richiesta del titolare del permesso o della concessione mineraria, procede alla revoca della concessione demaniale con le modalita' previste dall'[articolo 43 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+L'indennizzo a favore del titolare della concessione revocata, nella misura determinata ai sensi dell'[articolo 42, quarto](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [quinto comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' a carico del titolare del permesso di ricerca e della concessione di coltivazione.
 
 Nota all'[art. 16, comma 1:
  La legge n. 2359/1865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865;2359#art_16-com1) reca norme sulle espropriazioni per causa di pubblica utilita'.
@@ -354,7 +354,7 @@ Nota all'[art. 16, comma 1:
  Uguale avviso deve inserirsi nel giornale destinato alle pubblicazioni ufficiali amministrative della provincia".
 
  Nota all'art. 16, comma 7:
- Il testo degli [articoli 42](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [43 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+ Il testo degli [articoli 42](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [43 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  "Art. 42 (Revoca delle concessioni). - Le concessioni di durata non superiore al quadriennio e che non importino impianti di difficile sgombero sono revocabili in tutto o in parte a giudizio discrezionale dell'amministrazione marittima.
  Le concessioni di durata superiore al quadriennio o che comunque importino impianti di difficile sgombero sono revocabili per specifici motivi inerenti al pubblico uso del mare o per altre ragioni di pubblico interesse, a giudizio discrezionale dell'amministrazione marittima.
  La revoca non da' diritto a indennizzo. Nel caso di revoca parziale si fa luogo ad un'adeguata riduzione del canone, salva la facolta' prevista dal primo comma dell'art. 44.
@@ -475,7 +475,7 @@ Con provvedimento del suo presidente, il Comitato e' integrato, altresi', da un 
 
 ### Art. 23. — (Norme applicabili)
 
-Alla materia oggetto della presente legge si applicano, in quanto compatibili, le disposizioni di cui al [regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443), della [legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6), nonche' della [legge 21 luglio 1967, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613).
+Alla materia oggetto della presente legge si applicano, in quanto compatibili, le disposizioni di cui al [regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), della [legge 11 gennaio 1957, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-01-11;6), nonche' della [legge 21 luglio 1967, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-21;613).
 
 Note all'art. 23:
  - Per il titolo del [R.D. n. 1443/1927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927;1443) si veda nella nota all'art. 1, comma 8.

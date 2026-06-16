@@ -14,7 +14,7 @@ Il contingente di 1ª categoria che dovra' essere somministrato dalla leva milit
 
 ## Art. 2.
 
-Per l'esecuzione di quanto prescrive l'art. 10 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto del 17 agosto 1882, n. 956](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md) (Serie 3ª), il contingente di 1ª categoria assegnato alle singole provincie della Venezia ed a quella di Mantova sara' suddiviso fra i distretti amministrativi che le compongono. 
+Per l'esecuzione di quanto prescrive l'art. 10 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con [R. decreto del 17 agosto 1882, n. 956](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sul%20reclutamento%20dellesercito.%20082U0956.md) (Serie 3ª), il contingente di 1ª categoria assegnato alle singole provincie della Venezia ed a quella di Mantova sara' suddiviso fra i distretti amministrativi che le compongono. 
  
  Il distretto amministrativo vi rappresenta il mandamento per gli effetti contemplati nel citato testo unico delle leggi sul reclutamento. 
  

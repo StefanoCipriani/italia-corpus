@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il testo unico di legge sulla navigazione interna e sulla fluitazione, approvato con R. decreto 11 luglio 1913, 959;
 
-Visto il [R. decreto 8 giugno 1911, n. 823](Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), modificato ed integrato dal [decreto Luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536), con i quali fu provveduto alla classifica delle linee navigabili di 2ª classe;
+Visto il [R. decreto 8 giugno 1911, n. 823](../Regi%20decreti/Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), modificato ed integrato dal [decreto Luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536), con i quali fu provveduto alla classifica delle linee navigabili di 2ª classe;
 
 Ritenuto che, in seguito alla concessione in corso al comune di Milano della copertura della Fossa Interna, rendesi indispensabile provvedere alla declassificazione di tale canale, compreso nella linea navigabile di 2ª classe «Lago di Mezzola-Lago di Como-Lecco-Trezzo-Milano-Pavia»;
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Ab
 
 ## Art. 1.
 
-Fermi restando gli estremi della linea navigabile di 2ª classe «Lago di Mezzola-Lago di Como-Lecco-Trezzo-Milano-Pavia» di cui al n. 6 dell'elenco approvato con [R. decreto 8 giugno 1911, n. 823](Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), modificato ed integrato col [decreto Luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536), e' declassificato il tratto di essa costituito dal canale denominato «Fossa Interna di Milano».
+Fermi restando gli estremi della linea navigabile di 2ª classe «Lago di Mezzola-Lago di Como-Lecco-Trezzo-Milano-Pavia» di cui al n. 6 dell'elenco approvato con [R. decreto 8 giugno 1911, n. 823](../Regi%20decreti/Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), modificato ed integrato col [decreto Luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536), e' declassificato il tratto di essa costituito dal canale denominato «Fossa Interna di Milano».
 
 ## Art. 2.
 

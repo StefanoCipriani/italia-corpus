@@ -24,7 +24,7 @@ Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
 Sono condonate le pene inflitte: 
  
- a) per le contravvenzioni prevedute e punite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal [testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [Regio decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª); 
+ a) per le contravvenzioni prevedute e punite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dal [testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [Regio decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md) (serie 3ª); 
  
  b) per i reati di diserzione dalle navi della marina mercantile nazionale, commessi da individui della marina mercantile, tanto cittadini che stranieri, preveduti dal capo I, titolo II, parte II, del Codice per la marina mercantile; 
  
@@ -34,7 +34,7 @@ Sono condonate le pene inflitte:
  
  e) per le contravvenzioni prevedute e punite dall'articolo 110 della legge notarile; 
  
- f) per le contravvenzioni alle leggi relative ai pesi ed alle misure, prevedute dal testo unico approvato col [Regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088); 
+ f) per le contravvenzioni alle leggi relative ai pesi ed alle misure, prevedute dal testo unico approvato col [Regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md); 
  
  g) per le contravvenzioni prevedute e punite dall'articolo 18 del Regolamento provvisorio, approvato con Sovrano rescritto del 5 marzo 1851 per la estrazione dello zolfo col sistema dei calcaroni in Sicilia; 
  

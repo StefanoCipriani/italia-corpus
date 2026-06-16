@@ -20,7 +20,7 @@ Veduto l'[art. 2 del R. decreto-legge 31 dicembre 1923, numero 2996](Provvedimen
 
 Visti i [commi 2°](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md), [3°](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md) e [4° dell'art. 2 del R. decreto-legge 31 marzo 1925, n. 360](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md);
 
-Veduto il [R. decreto 30 dicembre 1923, n. 2906](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2906), col quale i comuni di Burano e Murano furono aggregati al comune di Venezia;
+Veduto il [R. decreto 30 dicembre 1923, n. 2906](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Burano%20e%20di%20Murano%20a%20quello%20di%20Venezia.%20023U2906.md), col quale i comuni di Burano e Murano furono aggregati al comune di Venezia;
 
 Veduto l'[art. 1 del R. decreto 6 aprile 1924, n. 859](Annullamento%20delle%20partite%20relative%20ai%20comuni%20di%20Burano%20e%20di%20Murano%20nellelenco%20annesso%20al%20Regio%20decreto%2024%20settembre%201914%20n.%201181.%20024U0859.md), per effetto del quale le scuole dei detti Comuni cessarono di essere amministrate dal Regio provveditorato agli studi di Venezia a datare dal 1° marzo 1924;
 

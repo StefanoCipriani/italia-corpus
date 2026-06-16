@@ -14,7 +14,7 @@ Visto l'[articolo 19 della legge 7 aprile 1881, numero 133](Che%20provvede%20per
 
 Visto l'[articolo 8 della legge 30 aprile 1874, numero 1920](Sulla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20074U1920.md) (serie 2ª);
 
-Visto il regolamento approvato con [regio decreto 17 settembre 1876, n. 3375](Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (serie 2ª) che riguarda le modalita' e le forme dei biglietti che gli istituti di emissione sono autorizzati ad emettere per proprio conto;
+Visto il regolamento approvato con [regio decreto 17 settembre 1876, n. 3375](../Regi%20decreti/Che%20approva%20il%20regolamento%20riguardante%20le%20modalita%20e%20le%20forme%20dei%20biglietti%20che%20gli%20istituti%20di%20emissione%20sono%20autorizzati%20ad%20emettere%20per%20proprio%20conto.%20076U3375.md) (serie 2ª) che riguarda le modalita' e le forme dei biglietti che gli istituti di emissione sono autorizzati ad emettere per proprio conto;
 
 Visto il [decreto ministeriale 29 gennaio 1877, n. 3680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1877-01-29;3680) (serie 2ª), che stabili' la ripartizione nei diversi tagli consentiti dalla legge, dei biglietti al portatore ed a vista che il Banco di Napoli, nei limiti della sua circolazione permessa, puo' emettere in sostituzione delle fedi intestate al cassiere, e ne furono approvati e resi di pubblica ragione i segni ed i distintivi caratteristici;
 

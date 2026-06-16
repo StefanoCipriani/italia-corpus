@@ -32,7 +32,7 @@ I diplomi di benemerenza con medaglia, di cui agli articoli 1 e 2 del citato dec
 
 Le somme elargite al fine suddetto saranno versate all'Erario con imputazione ad uno speciale capitolo del bilancio generale delle entrate. 
  
- Le somme stesse saranno assegnate in un apposito capitolo dello stato di previsione della spesa del Ministero degli affari esteri, a norma del [2° comma dell'art. 39 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_39-com2). 
+ Le somme stesse saranno assegnate in un apposito capitolo dello stato di previsione della spesa del Ministero degli affari esteri, a norma del [2° comma dell'art. 39 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

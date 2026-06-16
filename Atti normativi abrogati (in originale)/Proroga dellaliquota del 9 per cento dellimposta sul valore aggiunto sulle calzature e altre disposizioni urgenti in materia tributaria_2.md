@@ -87,12 +87,12 @@ Alla [legge 29 dicembre 1990, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn
                         c)
                             all'articolo 8, nel comma 7, le parole "di cui al comma 6" sono sostituite con le parole "di cui ai commi 6 e 6-bis";
                         d)
-                            all'articolo 9, il comma 2 e' sostituito dal seguente comma:  " 2. Dopo la lettera e) del comma 2 dell'articolo 115 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' aggiunta la seguente: 
+                            all'articolo 9, il comma 2 e' sostituito dal seguente comma:  " 2. Dopo la lettera e) del comma 2 dell'articolo 115 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' aggiunta la seguente: 
  'e-bis) i redditi di impresa derivanti dall'esercizio di attivita' commerciali svolte da soggetti diversi da quelli indicati al comma 1 dell'articolo 87, a condizione che il numero complessivo delle persone addette, esclusi gli apprendisti fino ad un massimo di tre, compreso il titolare, ovvero compresi i soci, non sia superiore a tre.'".
 
 3.
 
-Le modificazioni all'articolo 51, comma 2, lettera a), e all'articolo 115 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), apportate con l'[articolo 9 della legge 29 dicembre 1990, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;408#art_9), e con il presente articolo si applicano ai redditi prodotti a partire dal 1' gennaio 1992.
+Le modificazioni all'articolo 51, comma 2, lettera a), e all'articolo 115 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), apportate con l'[articolo 9 della legge 29 dicembre 1990, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;408#art_9), e con il presente articolo si applicano ai redditi prodotti a partire dal 1' gennaio 1992.
 
 4.
 
@@ -100,7 +100,7 @@ I soggetti che alla data del 1' gennaio 1991 hanno gia' approvato il bilancio o 
 
 5.
 
-La disposizione di cui al [comma 2 dell'articolo 5 della legge 29 dicembre 1990, n. 405](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201991.md), deve intendersi applicabile anche ai fini del computo della riduzione di cui al comma 3 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). Con decreto del Ministro delle finanze saranno stabilite modalita' per l'applicazione della disposizione del presente comma.
+La disposizione di cui al [comma 2 dell'articolo 5 della legge 29 dicembre 1990, n. 405](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201991.md), deve intendersi applicabile anche ai fini del computo della riduzione di cui al comma 3 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). Con decreto del Ministro delle finanze saranno stabilite modalita' per l'applicazione della disposizione del presente comma.
 
 ## Art. 3.
 
@@ -164,7 +164,7 @@ Le disposizioni dell'[articolo 1 della legge 15 maggio 1986, n. 191](https://www
 
 1.
 
-L'Unione nazionale incremento razze equine (UNIRE), quando corrisponde i premi indicati nell'[articolo 3 della legge 24 marzo 1942, n. 315](Provvedimenti%20per%20la%20ippicoltura.%20042U0315.md), deve operare all'atto del pagamento una ritenuta alla fonte nella misura prevista dall'[articolo 28, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), con l'obbligo di rivalsa. La ritenuta e' operata a titolo d'acconto dell'imposta sul reddito delle persone fisiche o dell'imposta sul reddito delle persone giuridiche dovuta dal percipiente nei confronti dei soggetti che esercitano le attivita' commerciali indicate nell'articolo 51 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e a titolo di imposta nei confronti degli altri soggetti.
+L'Unione nazionale incremento razze equine (UNIRE), quando corrisponde i premi indicati nell'[articolo 3 della legge 24 marzo 1942, n. 315](Provvedimenti%20per%20la%20ippicoltura.%20042U0315.md), deve operare all'atto del pagamento una ritenuta alla fonte nella misura prevista dall'[articolo 28, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), con l'obbligo di rivalsa. La ritenuta e' operata a titolo d'acconto dell'imposta sul reddito delle persone fisiche o dell'imposta sul reddito delle persone giuridiche dovuta dal percipiente nei confronti dei soggetti che esercitano le attivita' commerciali indicate nell'articolo 51 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e a titolo di imposta nei confronti degli altri soggetti.
 
 2.
 
@@ -253,7 +253,7 @@ ogni tipo . . . . . . . . . . . . . . . . . . . . . 8
 2.
 
 Per i contratti pronti contro termine la tassa e' corrisposta mediante l'uso dei due corrispondenti foglietti bollati, da redigersi contestualmente, ciascuno per un importo pari alla meta' della tassa dovuta. Sui relativi foglietti bollati e' annotata la natura e gli estremi dell'operazione. Per contratti 'pronti contro termine' si intendono quei contratti che configurano una operazione a pronti ed una contrapposta operazione a termine, posti in essere sotto la stessa data, nei confronti della medesima controparte, sugli stessi titoli e valori e per pari importo nominale.". 
- 2. Per le violazioni alle disposizioni recate dal [regio decreto 30 dicembre 1923, n. 3278](Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.
+ 2. Per le violazioni alle disposizioni recate dal [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.
 
 3.
 

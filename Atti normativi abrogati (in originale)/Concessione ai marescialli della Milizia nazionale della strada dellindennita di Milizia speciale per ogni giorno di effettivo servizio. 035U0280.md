@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Visto il [R. decreto-legge 18 ottobre 1934, n. 1831](Ampliamento%20dellorganico%20nella%20Milizia%20nazionale%20della%20strada.%20034U1831.md), sull'ampliamento dell'organico della predetta Milizia, col quale furono anche istituiti i gradi di maresciallo capo e di maresciallo maggiore; 
  
- Visto il regolamento per la Milizia stessa emanato in applicazione della [legge 8 giugno 1931, n. 836](Estensione%20alla%20Milizia%20della%20strada%20del%20trattamento%20giuridico%20stabilito%20per%20la%20Milizia%20nazionale%20forestale.%20031U0836.md), ed approvato con [R. decreto 20 ottobre 1932, n. 1554](Approvazione%20del%20regolamento%20per%20la%20Milizia%20nazionale%20della%20strada.%20032U1554.md); 
+ Visto il regolamento per la Milizia stessa emanato in applicazione della [legge 8 giugno 1931, n. 836](Estensione%20alla%20Milizia%20della%20strada%20del%20trattamento%20giuridico%20stabilito%20per%20la%20Milizia%20nazionale%20forestale.%20031U0836.md), ed approvato con [R. decreto 20 ottobre 1932, n. 1554](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20Milizia%20nazionale%20della%20strada.%20032U1554.md); 
  
  Ritenuta l'assoluta ed urgente necessita' di assegnare ai marescialli, marescialli capi e marescialli maggiori, l'indennita' di Milizia speciale di cui all'art. 104 del regolamento predetto; 
  

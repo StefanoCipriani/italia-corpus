@@ -24,7 +24,7 @@ Sulla proposta del Ministro per l'interno, di concerto col Ministro per l'econom
 
 Nella citta' di Fiume e nel territorio annesso al Regno in virtu' del [R. decreto legge 22 febbraio 1924, n. 211](Approvazione%20dellAccordo%20concluso%20fra%20lItalia%20ed%20il%20Regno%20dei%20Serbi%20Croati%20e%20Sloveni%20sottoscritto%20a%20Roma%20il%2027%20gennaio%201924%20col%20quale%20si%20stabilisce%20che%20la%20citta%20di%20Fiume%20ed%20il%20territorio%20_db1707827c7e.md), sono pubblicati le leggi ed il regolamento sottoindicati, con la norma transitoria contenuta nell'art. 2: 
  
- a) il testo unico della legge sulla assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato con [R. decreto 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578); 
+ a) il testo unico della legge sulla assunzione diretta dei pubblici servizi da parte dei Comuni e delle Provincie, approvato con [R. decreto 15 ottobre 1925, n. 2578](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md); 
  
  b) il [R. decreto legge 26 settembre 1925, n. 1674](Norme%20circa%20lo%20scioglimento%20delle%20Commissioni%20amministratrici%20delle%20aziende%20municipalizzate.%20025U1674.md), che reca norme circa lo scioglimento delle Commissioni amministratrici delle aziende municipalizzate; 
  

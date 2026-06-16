@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 17 agosto 1919, n. 1568](Che%20indice%20tre%20sessioni%20straordinarie%20di%20esami%20e%20reca%20inoltre%20altri%20provvedimenti%20a%20favore%20di%20studenti%20di%20scuole%20medie%20militari%20o%20gia%20militari.%20019U1568.md);
+Visto il [R. decreto 17 agosto 1919, n. 1568](../Regi%20decreti/Che%20indice%20tre%20sessioni%20straordinarie%20di%20esami%20e%20reca%20inoltre%20altri%20provvedimenti%20a%20favore%20di%20studenti%20di%20scuole%20medie%20militari%20o%20gia%20militari.%20019U1568.md);
 
 Sentito il Consiglio dei ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Nostro ministro segretario di Stato per la istruzione pubblic
 
 ## Art. 1.
 
-Il [Regio decreto 17 agosto 1919, n. 1568](Che%20indice%20tre%20sessioni%20straordinarie%20di%20esami%20e%20reca%20inoltre%20altri%20provvedimenti%20a%20favore%20di%20studenti%20di%20scuole%20medie%20militari%20o%20gia%20militari.%20019U1568.md), e' modificato nel senso che coloro i quali, pur avendovi diritto, abbiano perduto almeno una delle tre sessioni indette col Regio decreto stesso, sono ammessi ad una nuova ed ultima sessione straordinaria di esami con le stesse norme e modalita' di quelle indette col citato decreto. 
+Il [Regio decreto 17 agosto 1919, n. 1568](../Regi%20decreti/Che%20indice%20tre%20sessioni%20straordinarie%20di%20esami%20e%20reca%20inoltre%20altri%20provvedimenti%20a%20favore%20di%20studenti%20di%20scuole%20medie%20militari%20o%20gia%20militari.%20019U1568.md), e' modificato nel senso che coloro i quali, pur avendovi diritto, abbiano perduto almeno una delle tre sessioni indette col Regio decreto stesso, sono ammessi ad una nuova ed ultima sessione straordinaria di esami con le stesse norme e modalita' di quelle indette col citato decreto. 
  
  La sessione avra' luogo nel marzo 1921 e i titoli di licenza di 2° grado in essa conseguiti saranno validi per l'inscrizione all'Universita' e degli Istituti d'istruzione superiore con effetto dall'inizio dell'anno scolastico corrente.
 

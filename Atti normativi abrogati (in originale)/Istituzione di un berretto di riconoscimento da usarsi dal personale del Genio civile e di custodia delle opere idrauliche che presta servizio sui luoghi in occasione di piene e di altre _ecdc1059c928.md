@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 giugno 1907, n. 667](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-06-30;667), che approva il regolamento per la tutela delle opere idrauliche di 1ª e 2ª categoria;
+Visto il [R. decreto 30 giugno 1907, n. 667](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sulla%20tutela%20delle%20opere%20idrauliche%20di%201ª%20e%202ª%20categoria.%20007U0667.md), che approva il regolamento per la tutela delle opere idrauliche di 1ª e 2ª categoria;
 
 Ritenuta la necessita' di dare un mezzo visibile di riconoscimento al personale del Genio civile che presta servizio sui luoghi in occasione di piene dei corsi d'acqua o di altre calamita' pubbliche;
 

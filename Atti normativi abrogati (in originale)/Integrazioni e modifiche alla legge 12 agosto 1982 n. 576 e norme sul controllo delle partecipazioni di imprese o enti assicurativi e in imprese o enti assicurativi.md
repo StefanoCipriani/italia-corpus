@@ -32,7 +32,7 @@ Il Ministro dell'industria, del commercio e dell'artigianato, nei casi di grave 
  Il testo delle note qui' pubblicato e' stato redatto ai 
  sensi dell'art. 10, commi 2 e 3, del testo unico approvato 
  con [decreto del Presidente della Repubblica 28 dicembre 
- 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
+ 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle 
  disposizioni di legge modificate o alle quali e' operato il 
  rinvio. Restano invariati il valore e l'efficacia degli 
  atti legislativi qui' trascritti.
@@ -445,7 +445,7 @@ Il [primo comma dell'articolo 21 della legge 24 dicembre 1969, n. 990](Assicuraz
 Nota all'[art. 19:
  - La legge n. 990/1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969;990#art_19) reca: "Assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti". Si trascrive il testo vigente dell'art. 21 della predetta legge, cosi' come modificato dalla legge qui pubblicata:
  "Art. 21. - Nel caso previsto dall'art. 19, primo comma, lettera a), il danno e' risarcito nei limiti dei minimi di garanzia previsti per ogni persona danneggiata e per ogni sinistro nella tabella A allegata alla presente legge relativamente alle autovetture ad uso privato.
- La percentuale di inabilita' permanente, la qualifica di vivente a carico e la percentuale di reddito del sinistrato da calcolare a favore di ciascuno dei viventi a carico sono determinate in base alle norme del [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), recante il testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali.
+ La percentuale di inabilita' permanente, la qualifica di vivente a carico e la percentuale di reddito del sinistrato da calcolare a favore di ciascuno dei viventi a carico sono determinate in base alle norme del [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), recante il testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali.
  Nei casi previsti dalle lettere b) e c) del primo comma dell'art. 19, il danno e' risarcito nei limiti dei massimali indicati nella tabella A allegata alla presente legge per i veicoli o i natanti della categoria cui appartiene il mezzo che ha causato il danno".
 
 ### Art. 20. — Modifica alla legge 22 ottobre 1986, n. 742

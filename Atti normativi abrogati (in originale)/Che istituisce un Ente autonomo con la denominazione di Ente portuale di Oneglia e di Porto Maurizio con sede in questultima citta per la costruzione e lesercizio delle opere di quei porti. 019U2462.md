@@ -120,7 +120,7 @@ Tutti i redditi di qualunque natura di pertinenza dell'Ente, nonche' gli interes
  
  L'Ente potra' delegare un suo funzionario, tra quelli appartenenti all'Amministrazione dello Stato a stendere e ricevere gli atti e contratti di cui sopra, a rilasciarne copia e ad autenticarne le firme, ed esso a tale uopo avra' le facolta' spettanti ai notai in base alla [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato. 
  
- I relativi diritti, da liquidarsi secondo la tabella annessa alla detta legge, saranno ripartiti nella misura stabilita dall'art. 169 del testo unico della legge comunale e provinciale, approvata con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
+ I relativi diritti, da liquidarsi secondo la tabella annessa alla detta legge, saranno ripartiti nella misura stabilita dall'art. 169 del testo unico della legge comunale e provinciale, approvata con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ## Art. 11.
 

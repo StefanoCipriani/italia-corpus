@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il regolamento per l'amministrazione degli enti aeronautici approvato con decreto commissariale 30 giugno 1923;
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), concernenti rispettivamente la legge ed il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato;
+Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), concernenti rispettivamente la legge ed il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

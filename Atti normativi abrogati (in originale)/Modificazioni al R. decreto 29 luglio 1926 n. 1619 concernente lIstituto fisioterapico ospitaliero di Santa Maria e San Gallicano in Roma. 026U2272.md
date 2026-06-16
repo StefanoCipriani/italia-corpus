@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Il [secondo comma dell'art. 12 del R. decreto 29 luglio 1926, n. 1619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-29;1619#art_12-com2), e' sostituito dal seguente: 
+Il [secondo comma dell'art. 12 del R. decreto 29 luglio 1926, n. 1619](../Regi%20decreti/Istituzione%20in%20Roma%20del%20Regio%20istituto%20fisioterapico%20ospitaliero%20di%20Santa%20Maria%20e%20San%20Gallicano.%20026U1619.md), e' sostituito dal seguente: 
  
  «Essa dovra' prevedere, nei riguardi del personale sanitario, oltre ai medici con qualifica di aiuto e di assistente, un posto di medico primario dermositilografo, con funzioni di direttore, un posto di medico primario radiologo con funzioni di vice-direttore, ed un posto di chirurgo primario».
 

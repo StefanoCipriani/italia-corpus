@@ -28,7 +28,7 @@ A decorrere dal 1° maggio 1924, alla provincia del Carnaro sara' preposto un Pr
  
  Predisporra' altresi' quanto occorre per l'esecuzione dell'art. 6 del decreto stesso e provvedera' all'erogazione dei fondi di cui all'art. 5 con le norme ivi indicate. 
  
- Il numero complessivo dei Prefetti indicato nella tabella n. 40 annessa al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aumentato di un Prefetto di 2ª classe. 
+ Il numero complessivo dei Prefetti indicato nella tabella n. 40 annessa al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' aumentato di un Prefetto di 2ª classe. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

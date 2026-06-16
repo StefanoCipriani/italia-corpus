@@ -20,7 +20,7 @@ I fiammiferi occorrenti per lo smercio in Tripolitania saranno somministrati al 
 
 ## Art. 3.
 
-Lo smercio al pubblico dei fiammiferi e' affidato esclusivamente ai rivenditori di generi di privativa ed agli esercizi muniti di speciale licenza, ai termini dell'[art. 30 del R. decreto 18 gennaio 1914, n. 91](Relativo%20allordinamento%20dei%20servizi%20delle%20privative%20in%20Tripolitania%20ed%20in%20Cirenaica.%20014U0091.md). 
+Lo smercio al pubblico dei fiammiferi e' affidato esclusivamente ai rivenditori di generi di privativa ed agli esercizi muniti di speciale licenza, ai termini dell'[art. 30 del R. decreto 18 gennaio 1914, n. 91](../Regi%20decreti/Relativo%20allordinamento%20dei%20servizi%20delle%20privative%20in%20Tripolitania%20ed%20in%20Cirenaica.%20014U0091.md). 
  
  Ai rivenditori verra' corrisposto un aggio nella misura da stabilirsi dal ministro delle colonie.
 

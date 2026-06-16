@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti la legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), i [Regi decreti 4 febbraio 1923, n. 335](Che%20stabilisce%20una%20procedura%20abbreviata%20per%20la%20revisione%20dei%20conti%20arretrati%20dei%20Comuni%20e%20delle%20Istituzioni%20pubbliche%20di%20beneficenza.%20023U0335.md), [29 aprile 1923, n. 1164](Concernente%20la%20sistemazione%20delle%20contabilita%20arretrate%20dei%20tesorieri%20delle%20Provincie.%20023U1164.md), [24 settembre 1923, n. 2242](Estensione%20delle%20disposizioni%20dellarticolo%205%201%20comma%20del%20R.%20decreto%2029%20aprile%201923%20n.%201164%20ai%20conti%20delle%20istituzioni%20di%20pubblica%20beneficenza%20non%20ancora%20deliberati%20dalle%20rispettive%20ammini_cb34167238f0.md), [30 dicembre 1923, nn. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [2841, nonche' il R. decreto-legge 23 ottobre 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;2841), [n. 2289](Disposizioni%20circa%20la%20responsabilita%20degli%20amministratori%20dei%20Comuni%20e%20delle%20Provincie%20e%20lapprovazione%20dei%20conti%20di%20detti%20Enti.%20025U2289.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
+Visti la legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), i [Regi decreti 4 febbraio 1923, n. 335](../Regi%20decreti/Che%20stabilisce%20una%20procedura%20abbreviata%20per%20la%20revisione%20dei%20conti%20arretrati%20dei%20Comuni%20e%20delle%20Istituzioni%20pubbliche%20di%20beneficenza.%20023U0335.md), [29 aprile 1923, n. 1164](../Regi%20decreti/Concernente%20la%20sistemazione%20delle%20contabilita%20arretrate%20dei%20tesorieri%20delle%20Provincie.%20023U1164.md), [24 settembre 1923, n. 2242](../Regi%20decreti/Estensione%20delle%20disposizioni%20dellarticolo%205%201%20comma%20del%20R.%20decreto%2029%20aprile%201923%20n.%201164%20ai%20conti%20delle%20istituzioni%20di%20pubblica%20beneficenza%20non%20ancora%20deliberati%20dalle%20rispettive%20ammini_cb34167238f0.md), [30 dicembre 1923, nn. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md) e [2841, nonche' il R. decreto-legge 23 ottobre 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-23;2841), [n. 2289](Disposizioni%20circa%20la%20responsabilita%20degli%20amministratori%20dei%20Comuni%20e%20delle%20Provincie%20e%20lapprovazione%20dei%20conti%20di%20detti%20Enti.%20025U2289.md), convertito nella [legge 24 maggio 1926, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0898.md);
 
 Ritenuta la necessita' urgente ed assoluta di estendere alle istituzioni pubbliche di assistenza e beneficenza le disposizioni vigenti circa la revisione ed approvazione dei conti dei Comuni e delle Provincie e di emanare disposizioni transitorie per la definizione dei conti arretrati dei detti enti;
 
@@ -26,7 +26,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-L'[art. 7 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' sostituito dal seguente: 
+L'[art. 7 del R. decreto 30 dicembre 1923, n. 2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' sostituito dal seguente: 
  
  «All'art. 21 della legge e' sostituito il seguente: 
  
@@ -54,7 +54,7 @@ Per l'esame dei conti delle istituzioni pubbliche di assistenza e beneficenza il
 
 ## Art. 3.
 
-L'[art. 17 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' sostituito dal seguente: 
+L'[art. 17 del R. decreto 30 dicembre 1923, n. 2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), e' sostituito dal seguente: 
  
  «Al secondo comma dell'art. 30 della legge sono sostituiti i seguenti: 
  
@@ -68,7 +68,7 @@ L'[art. 17 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%201
  
  c) quando abbiano proposto lo stanziamento di entrate puramente figurative dirette a pareggiare fittiziamente il bilancio, ancorche' le relative proposte siano state deliberate ed approvate nei modi di legge. 
  
- «Alla stessa responsabilita' soggiace chiunque, dall'esattore-tesoriere in fuori, s'inserisce, senza legale autorizzazione, nel maneggio di denari o di valori di un'istituzione pubblica di assistenza e beneficenza, e cio' senza pregiudizio delle pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) contro coloro che, senza titolo, s'ingeriscono in pubbliche funzioni. 
+ «Alla stessa responsabilita' soggiace chiunque, dall'esattore-tesoriere in fuori, s'inserisce, senza legale autorizzazione, nel maneggio di denari o di valori di un'istituzione pubblica di assistenza e beneficenza, e cio' senza pregiudizio delle pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) contro coloro che, senza titolo, s'ingeriscono in pubbliche funzioni. 
  
  «Le cause di responsabilita' di cui ai precedenti commi potranno essere iniziate di ufficio o su richiesta dell'autorita' di vigilanza o su istanza di qualsiasi cittadino e decise anche separatamente dall'esame e dal giudizio sul conto».
 
@@ -78,7 +78,7 @@ Si applica alle amministrazioni delle Provincie e dei consorzi il disposto dell'
 
 ## Art. 5.
 
-Sulla responsabilita' dei contabili di fatto contemplata dall'[art. 209 del testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148#art_209), e dal precedente articolo 4, come su quelle degli amministratori contemplate dall'[art. 100 del R. decreto 30 dicembre 1923, numero 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), modificato con l'[art. 3 del R. decreto-legge 23 ottobre 1925, n. 2289](Disposizioni%20circa%20la%20responsabilita%20degli%20amministratori%20dei%20Comuni%20e%20delle%20Provincie%20e%20lapprovazione%20dei%20conti%20di%20detti%20Enti.%20025U2289.md), e dall'art. 3 del presente decreto, pronuncia il Consiglio di prefettura. 
+Sulla responsabilita' dei contabili di fatto contemplata dall'[art. 209 del testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148#art_209), e dal precedente articolo 4, come su quelle degli amministratori contemplate dall'[art. 100 del R. decreto 30 dicembre 1923, numero 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), modificato con l'[art. 3 del R. decreto-legge 23 ottobre 1925, n. 2289](Disposizioni%20circa%20la%20responsabilita%20degli%20amministratori%20dei%20Comuni%20e%20delle%20Provincie%20e%20lapprovazione%20dei%20conti%20di%20detti%20Enti.%20025U2289.md), e dall'art. 3 del presente decreto, pronuncia il Consiglio di prefettura. 
  
  Contro la decisione di questo e' ammesso ricorso alla Corte dei conti. 
  
@@ -86,17 +86,17 @@ Sulla responsabilita' dei contabili di fatto contemplata dall'[art. 209 del test
 
 ## Art. 6.
 
-Per la revisione ed approvazione dei conti delle Provincie, dei Comuni e delle istituzioni pubbliche di assistenza e beneficenza, fino all'esercizio 1921 incluso, rimangono in vigore le disposizioni dei [Regi decreti 29 aprile 1923, n. 1164](Concernente%20la%20sistemazione%20delle%20contabilita%20arretrate%20dei%20tesorieri%20delle%20Provincie.%20023U1164.md), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-29;4) febbraio detto n. 335, e 24 settembre 1923, n. 2242.
+Per la revisione ed approvazione dei conti delle Provincie, dei Comuni e delle istituzioni pubbliche di assistenza e beneficenza, fino all'esercizio 1921 incluso, rimangono in vigore le disposizioni dei [Regi decreti 29 aprile 1923, n. 1164](../Regi%20decreti/Concernente%20la%20sistemazione%20delle%20contabilita%20arretrate%20dei%20tesorieri%20delle%20Provincie.%20023U1164.md), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-29;4) febbraio detto n. 335, e 24 settembre 1923, n. 2242.
 
 ## Art. 7.
 
-Le disposizioni dell'[art. 99 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), sono applicabili ai conti delle Provincie e dei Comuni pei quali gli accertamenti sommari di cui al comma settimo dell'articolo stesso siano gia' stati eseguiti all'entrata in vigore del [R. decreto-legge 23 ottobre 1925, n. 2289](Disposizioni%20circa%20la%20responsabilita%20degli%20amministratori%20dei%20Comuni%20e%20delle%20Provincie%20e%20lapprovazione%20dei%20conti%20di%20detti%20Enti.%20025U2289.md). 
+Le disposizioni dell'[art. 99 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), sono applicabili ai conti delle Provincie e dei Comuni pei quali gli accertamenti sommari di cui al comma settimo dell'articolo stesso siano gia' stati eseguiti all'entrata in vigore del [R. decreto-legge 23 ottobre 1925, n. 2289](Disposizioni%20circa%20la%20responsabilita%20degli%20amministratori%20dei%20Comuni%20e%20delle%20Provincie%20e%20lapprovazione%20dei%20conti%20di%20detti%20Enti.%20025U2289.md). 
  
- Le disposizioni dell'[art. 7 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), sono applicabili ai conti delle Opere pie pei quali gli accertamenti sommari di cui al comma nono dello stesso articolo siano gia' stati eseguiti all'entrata in vigore del presente decreto.
+ Le disposizioni dell'[art. 7 del R. decreto 30 dicembre 1923, n. 2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), sono applicabili ai conti delle Opere pie pei quali gli accertamenti sommari di cui al comma nono dello stesso articolo siano gia' stati eseguiti all'entrata in vigore del presente decreto.
 
 ## Art. 8.
 
-I conti delle Provincie che, prima dell'entrata in vigore del [R. decreto-legge 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2839), abbiano formato oggetto di decisione interlocutoria della Corte dei conti e quelli fino al 1921 che la Corte abbia avocato al suo giudizio a norma dell'[art. 3 del R. decreto 29 aprile 1923, numero 1164](Concernente%20la%20sistemazione%20delle%20contabilita%20arretrate%20dei%20tesorieri%20delle%20Provincie.%20023U1164.md), verranno decisi secondo le norme del [testo unico del 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148).
+I conti delle Provincie che, prima dell'entrata in vigore del [R. decreto-legge 30 dicembre 1923, n. 2839](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2839), abbiano formato oggetto di decisione interlocutoria della Corte dei conti e quelli fino al 1921 che la Corte abbia avocato al suo giudizio a norma dell'[art. 3 del R. decreto 29 aprile 1923, numero 1164](../Regi%20decreti/Concernente%20la%20sistemazione%20delle%20contabilita%20arretrate%20dei%20tesorieri%20delle%20Provincie.%20023U1164.md), verranno decisi secondo le norme del [testo unico del 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148).
 
 ## Art. 9.
 

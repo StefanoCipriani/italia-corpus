@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-L'[art. 229 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_229), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), sostituito dal seguente:
+L'[art. 229 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), sostituito dal seguente:
  "I progetti di opera per le provviste di acqua potabile alle popolazioni rurali e quelli per la costruzione di case, considerati nelle disposizioni sulla bonifica integrale e a favore dei territori montani, sono sottoposti al parere del medico provinciale qualora l'importo non superi i 50 milioni.
  I progetti di cui sopra, nonche' quelli di borgate rurali sono sottoposti al parere del Consiglio provinciale di sanita' quando il loro importo sia compreso tra i 50 e i 150 milioni.
  Per i progetti il cui importo superi i 150 milioni, o che interessino piu' Province, deve essere udito il Consiglio superiore di sanita'".

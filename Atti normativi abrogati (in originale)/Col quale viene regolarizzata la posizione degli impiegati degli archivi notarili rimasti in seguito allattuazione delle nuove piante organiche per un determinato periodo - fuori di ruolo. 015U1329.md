@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 9 marzo 1913, n. 249](Col%20quale%20viene%20stabilito%20che%20la%20legge%2016%20febbraio%201913%20n.%2089%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20andra%20in%20attuazione%20col%201%20luglio%201913%20013U0249.md), per effetto del quale la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e degli archivi notarili ebbe attuazione dal 1° luglio e l'altro dal 22 aprile 1915, col quale fu approvata la tabella delle piante organiche del personale degli archivi; 
+ Visto il [R. decreto 9 marzo 1913, n. 249](../Regi%20decreti/Col%20quale%20viene%20stabilito%20che%20la%20legge%2016%20febbraio%201913%20n.%2089%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili%20andra%20in%20attuazione%20col%201%20luglio%201913%20013U0249.md), per effetto del quale la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e degli archivi notarili ebbe attuazione dal 1° luglio e l'altro dal 22 aprile 1915, col quale fu approvata la tabella delle piante organiche del personale degli archivi; 
  
  Visti i decreti Ministeriali 27 maggio 1915 e il decreto Luogotenenziale 10 giugno 1915, coi quali in attuazione delle nuove piante organiche, si procedette alla sistemazione del personale e all'assegnazione dei nuovi stipendi; 
  

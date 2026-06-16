@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 6 del regolamento per la R. stazione sperimentale di granicoltura di Rieti, approvato con [Regio decreto 23 giugno 1912, n. 1048](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20R.%20stazione%20di%20granicultura%20di%20Rieti.%20012U1048.md) e modificato con il [Regio decreto 5 marzo 1914, n. 236](Col%20quale%20viene%20modificato%20lart.%206%20del%20regolamento%20per%20la%20Regia%20stazione%20di%20granicoltura%20di%20Rieti%20approvato%20col%20R.%20decreto%20del%2023%20giugno%201912%20n.%201018.%20014U0236.md), e' sostituito il seguente: 
+All'art. 6 del regolamento per la R. stazione sperimentale di granicoltura di Rieti, approvato con [Regio decreto 23 giugno 1912, n. 1048](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20R.%20stazione%20di%20granicultura%20di%20Rieti.%20012U1048.md) e modificato con il [Regio decreto 5 marzo 1914, n. 236](../Regi%20decreti/Col%20quale%20viene%20modificato%20lart.%206%20del%20regolamento%20per%20la%20Regia%20stazione%20di%20granicoltura%20di%20Rieti%20approvato%20col%20R.%20decreto%20del%2023%20giugno%201912%20n.%201018.%20014U0236.md), e' sostituito il seguente: 
  
  «Il Comitato amministrativo della stazione e' composto: 
  

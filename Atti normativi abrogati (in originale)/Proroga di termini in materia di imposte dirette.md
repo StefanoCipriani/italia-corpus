@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 3062](Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), istitutivo dell'imposta complementare progressiva sul reddito e successive modificazioni;
+Visto il [regio decreto 30 dicembre 1923, n. 3062](../Regi%20decreti/Istituzione%20della%20imposta%20complementare%20sul%20reddito.%20023U3062.md), istitutivo dell'imposta complementare progressiva sul reddito e successive modificazioni;
 
 Visto il [decreto legislativo luogotenenziale 19 ottobre 1944, n. 384](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20in%20materia%20di%20imposte%20dirette.%20044U0384.md), concernente disposizioni in materia di imposte dirette;
 

@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 gennaio 1923, n. 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md);
+Visto il [R. decreto 4 gennaio 1923, n. 16](../Regi%20decreti/Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2952](Applicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U2952.md);
+Visto il [R. decreto 30 dicembre 1923, n. 2952](../Regi%20decreti/Applicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U2952.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-A decorrere dal 1° gennaio 1925 l'aliquota dell'imposta istituita con [R. decreto 4 gennaio 1923, n. 16](Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md), e gravante sul reddito del colono e' fissata nella misura del 5 per cento, ferma restando l'aliquota del 10 per cento sul reddito agrario dei proprietari. 
+A decorrere dal 1° gennaio 1925 l'aliquota dell'imposta istituita con [R. decreto 4 gennaio 1923, n. 16](../Regi%20decreti/Concernente%20lapplicazione%20dellimposta%20di%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0016.md), e gravante sul reddito del colono e' fissata nella misura del 5 per cento, ferma restando l'aliquota del 10 per cento sul reddito agrario dei proprietari. 
  
  Le aliquote predette si applicano sull'ammontare netto del reddito, con le detrazioni spettanti ai redditi di cat. B a norma del [decreto Luogotenenziale 9 settembre 1917, n. 1546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-09-09;1546).
 
@@ -38,7 +38,7 @@ Gli accertamenti d'ufficio di redditi agrari e le rettifiche e controrettifiche 
 
 Il termine utile per la presentazione dei reclami da parte dei contribuenti contro le notificazioni eseguite a norma del precedente art. 2 scade col ventesimo giorno successivo a quello ultimo di pubblicazione della tabella. 
  
- Sulle controversie sollevate dinanzi alle Commissioni mandamentali e provinciali, le Commissioni stesse hanno facolta' di emettere una decisione unica per tutti i contribuenti dello stesso Comune, secondo le norme degli [articoli 21](Contenente%20le%20norme%20regolamentari%20per%20lapplicazione%20della%20imposta%20della%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0505.md) e [24 del R. decreto 12 marzo 1923, n. 505](Contenente%20le%20norme%20regolamentari%20per%20lapplicazione%20della%20imposta%20della%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0505.md).
+ Sulle controversie sollevate dinanzi alle Commissioni mandamentali e provinciali, le Commissioni stesse hanno facolta' di emettere una decisione unica per tutti i contribuenti dello stesso Comune, secondo le norme degli [articoli 21](../Regi%20decreti/Contenente%20le%20norme%20regolamentari%20per%20lapplicazione%20della%20imposta%20della%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0505.md) e [24 del R. decreto 12 marzo 1923, n. 505](../Regi%20decreti/Contenente%20le%20norme%20regolamentari%20per%20lapplicazione%20della%20imposta%20della%20ricchezza%20mobile%20sui%20redditi%20agrari.%20023U0505.md).
 
 ## Art. 4.
 

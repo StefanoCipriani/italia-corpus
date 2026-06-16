@@ -18,7 +18,7 @@ Sulla proposta del Presidente del Nostro Consiglio dei Ministri, Ministro Segret
 
 Visto l'[articolo 3 della legge 27 aprile 1865, num. 2255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-04-27;2255#art_3), col quale e' data facolta' al Governo del Re di comporre le parti residue dei comuni assegnati alla citta' di Firenze, secondo il voto espresso dal Consiglio compartimentale di Firenze nella sua adunanza del 20 febbraio 1865;
 
-Veduto l'[articolo 5 del Regio decreto 26 luglio 1865 numero 2412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-07-26;2412#art_5), col quale i residui del comune di Legnaia sono aggregati a quello di Casellina e Torri, rimanendo pero' da questo distaccato il Borgo della Romola colle sue adiacenze sino al borro contermine, che sara' unito al comune di S. Casciano in Val di Pesa;
+Veduto l'[articolo 5 del Regio decreto 26 luglio 1865 numero 2412](../Regi%20decreti/Che%20stabilisce%20i%20nuovi%20confini%20della%20Citta%20di%20Firenze%20e%20di%20alcuni%20Comuni%20finitimi.%20065U2412.md), col quale i residui del comune di Legnaia sono aggregati a quello di Casellina e Torri, rimanendo pero' da questo distaccato il Borgo della Romola colle sue adiacenze sino al borro contermine, che sara' unito al comune di S. Casciano in Val di Pesa;
 
 Visti i dissidi insorti fra i due comuni sulla determinazione dei confini;
 

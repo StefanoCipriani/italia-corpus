@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [R. decreto 6 dicembre 1934, n. 2135](Aggregazione%20del%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Pisa%20alla%20Regia%20universita%20della%20stessa%20sede.%20034U2135.md), con cui e' stata disposta l'aggregazione del Regio istituto superiore di medicina veterinaria di Pisa alla Regia universita' della stessa sede;
 
@@ -28,7 +28,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Pisa il 21 genn
 
 ## Art. 2.
 
-E' istituito nella Regia universita' di Pisa, in aggiunta ai posti di professori di ruolo assegnati alla Facolta' di medicina veterinaria e con decorrenza dal 1° novembre 1934-XIII, un posto di professore di ruolo per l'insegnamento di patologia e clinica chirurgica veterinaria, a norma degli articoli 63, 2° comma, e 100, 2° comma, del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). 
+E' istituito nella Regia universita' di Pisa, in aggiunta ai posti di professori di ruolo assegnati alla Facolta' di medicina veterinaria e con decorrenza dal 1° novembre 1934-XIII, un posto di professore di ruolo per l'insegnamento di patologia e clinica chirurgica veterinaria, a norma degli articoli 63, 2° comma, e 100, 2° comma, del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -10,9 +10,9 @@ vigente: true
 
 ## Art. 1.
 
-Durante la presente guerra, i militari del corpo Reale equipaggi destinati a terra in Albania, sono soggetti alla giurisdizione del tribunale militare per il R. esercito in Valona e alle pene portate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
+Durante la presente guerra, i militari del corpo Reale equipaggi destinati a terra in Albania, sono soggetti alla giurisdizione del tribunale militare per il R. esercito in Valona e alle pene portate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito. 
  
- Nondimeno i predetti militari permangono soggetti alla giurisdizione militare marittima se trattisi dei reati in servizio compresi nel Capo III, Titolo II, Libro I del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, ovvero dei reati non preveduti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e dei reati di cui nel [decreto Luogotenenziale 4 febbraio 1917, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-04;196).
+ Nondimeno i predetti militari permangono soggetti alla giurisdizione militare marittima se trattisi dei reati in servizio compresi nel Capo III, Titolo II, Libro I del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare marittimo, ovvero dei reati non preveduti nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, e dei reati di cui nel [decreto Luogotenenziale 4 febbraio 1917, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-04;196).
 
 ## Art. 2.
 

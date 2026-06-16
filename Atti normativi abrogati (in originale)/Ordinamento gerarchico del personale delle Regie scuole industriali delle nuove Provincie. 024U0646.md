@@ -18,7 +18,7 @@ Visto il decreto Reale 19 aprile 1923, n. 1185, concernente l'assimilazione del 
 
 Visto il [R. decreto 7 ottobre 1923, n. 3075](Insegnamento%20industriale.%20023U3075.md), sull'insegnamento industriale;
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), sul riordinamento dell'istruzione industriale;
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sul riordinamento dell'istruzione industriale;
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 

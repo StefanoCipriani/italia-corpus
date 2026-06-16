@@ -12,14 +12,14 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il testo unico dei provvedimenti sull'emigrazione e sulla tutela giuridica degli emigranti, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
- Visto il [regio decreto 12 luglio 1940, n. 1157](Modificazione%20della%20denominazione%20e%20dellordinamento%20degli%20Ispettorati%20ed%20Uffici%20dellemigrazione%20nel%20Regno.%20040U1157.md), concernente la modificazione della denominazione e dell'ordinamento degli Ispettorati ed Uffici dell'emigrazione nel territorio dello Stato;
+ Visto il testo unico dei provvedimenti sull'emigrazione e sulla tutela giuridica degli emigranti, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20dei%20provvedimenti%20sulla%20emigrazione%20e%20sulla%20tutela%20giuridica%20degli%20emigranti.%20019U2205.md), convertito in legge con la [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md);
+ Visto il [regio decreto 12 luglio 1940, n. 1157](../Regi%20decreti/Modificazione%20della%20denominazione%20e%20dellordinamento%20degli%20Ispettorati%20ed%20Uffici%20dellemigrazione%20nel%20Regno.%20040U1157.md), concernente la modificazione della denominazione e dell'ordinamento degli Ispettorati ed Uffici dell'emigrazione nel territorio dello Stato;
  Considerata la necessita' di istituire nelle citta' marittime di Venezia e di Brindisi gli Ispettorati di frontiera per gli italiani all'estero in base all'art. 5 del citato testo unico dei provvedimenti sull'emigrazione;
  Sulla proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro;
 
  Decreta:
 
- Le citta' marittime di Venezia e di Brindisi sono dichiarate porti di imbarco ai sensi dell'art. 5 del testo unico dei provvedimenti sull'emigrazione, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-13;2205).
+ Le citta' marittime di Venezia e di Brindisi sono dichiarate porti di imbarco ai sensi dell'art. 5 del testo unico dei provvedimenti sull'emigrazione, approvato con [regio decreto-legge 13 novembre 1919, n. 2205](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20dei%20provvedimenti%20sulla%20emigrazione%20e%20sulla%20tutela%20giuridica%20degli%20emigranti.%20019U2205.md).
  Sono istituiti nelle predette citta' gli Ispettorati di frontiera per gli italiani all'estero con la circoscrizione territoriale a fianco di ciascuno indicata:
  Ispettorato di Venezia - Province del Veneto, Trentino, Alto Adige.
  Ispettorato di Brindisi - Province delle Puglie, delle Marche, degli Abruzzi e Molise e della Basilicata.

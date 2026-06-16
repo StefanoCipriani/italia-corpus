@@ -68,7 +68,7 @@ Il bilancio di previsione per l'esercizio 1912-913, rettificato in conformita' a
 
 ## Art. 3.
 
-Sono convalidati i decreti Reali, coi quali vennero autorizzate le prelevazioni dal fondo di riserva per le spese impreviste indicate nell'annessa tabella D. Sono quindi approvate le prelevazioni medesime e quelle fatte sul fondo di riserva per le spese obbligatorie e d'ordine indicate nell'annessa tabella C, per gli effetti di che agli articoli 29 e 38 del testo unico della legge sulla contabilita' generale, approvato col [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª).
+Sono convalidati i decreti Reali, coi quali vennero autorizzate le prelevazioni dal fondo di riserva per le spese impreviste indicate nell'annessa tabella D. Sono quindi approvate le prelevazioni medesime e quelle fatte sul fondo di riserva per le spese obbligatorie e d'ordine indicate nell'annessa tabella C, per gli effetti di che agli articoli 29 e 38 del testo unico della legge sulla contabilita' generale, approvato col [R. decreto 17 febbraio 1884, n. 2016](../Testi%20Unici/Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md) (serie 3ª).
 
 ## Art. 4.
 

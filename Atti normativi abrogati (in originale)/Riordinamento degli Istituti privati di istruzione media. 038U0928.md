@@ -20,7 +20,7 @@ Veduto il R. decreto 6 maggio 1923-I, n. 1054, sull'ordinamento dell'istruzione 
 
 Veduto l'art. 51 del regolamento 4 maggio 1925-III, n. 653, sugli alunni e le tasse negli Istituti medi d'istruzione;
 
-Veduto il [R. decreto 27 ottobre 1932, n. 1451](Estensione%20ad%20alcuni%20istituti%20privati%20di%20istruzione%20delle%20disposizioni%20dellart.%2051%20del%20regolamento%204%20maggio%201925%20n.%20653%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20032U1451.md), col quale vengono estese ad alcuni Istituti privati d'istruzione le disposizioni del predetto art. 51;
+Veduto il [R. decreto 27 ottobre 1932, n. 1451](../Regi%20decreti/Estensione%20ad%20alcuni%20istituti%20privati%20di%20istruzione%20delle%20disposizioni%20dellart.%2051%20del%20regolamento%204%20maggio%201925%20n.%20653%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20032U1451.md), col quale vengono estese ad alcuni Istituti privati d'istruzione le disposizioni del predetto art. 51;
 
 Veduto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 

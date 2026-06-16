@@ -18,7 +18,7 @@ Visti gli [articoli 22](Ordinamento%20del%20personale%20delle%20cancellerie%20e%
 
 Visto l'art. 15 del R. decreto legge [l4 novembre 1926, numero 1935](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-11-04;1935);
 
-Visto l'art. 40, ultima parte, del [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto l'art. 40, ultima parte, del [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -46,7 +46,7 @@ I funzionari di gruppo C, gia' appartenenti al Ministero della giustizia e trasf
 
 ## Art. 4.
 
-In tutte le Commissioni d'esame relative al personale delle cancellerie e segreterie giudiziarie, e' applicabile il disposto dell'[art. 1 del R. decreto 21 gennaio 1929, n. 643](Modificazioni%20e%20completamento%20di%20alcune%20disposizioni%20del%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20concernenti%20lordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20029U0643.md). 
+In tutte le Commissioni d'esame relative al personale delle cancellerie e segreterie giudiziarie, e' applicabile il disposto dell'[art. 1 del R. decreto 21 gennaio 1929, n. 643](../Regi%20decreti/Modificazioni%20e%20completamento%20di%20alcune%20disposizioni%20del%20R.%20decreto-legge%208%20maggio%201924%20n.%20745%20concernenti%20lordinamento%20del%20personale%20delle%20cancellerie%20e%20segreterie%20giudiziarie.%20029U0643.md). 
  
  I supplenti, in numero non superiore a quello dei commissari effettivi, possono intervenire nelle Commissioni stesse in sostituzione di qualunque di costoro.
 

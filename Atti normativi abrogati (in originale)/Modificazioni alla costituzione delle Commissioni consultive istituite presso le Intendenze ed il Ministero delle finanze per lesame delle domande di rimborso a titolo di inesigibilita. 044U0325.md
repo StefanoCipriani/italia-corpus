@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modifiche;
+Visto il testo unico della legge sulla riscossione delle imposte dirette, approvato col [R. decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e le successive modifiche;
 
 Vista la [legge 16 giugno 1939, n. 942](Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md);
 

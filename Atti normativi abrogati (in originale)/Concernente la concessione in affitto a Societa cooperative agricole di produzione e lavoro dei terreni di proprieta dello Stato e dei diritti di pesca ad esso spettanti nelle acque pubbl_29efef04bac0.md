@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- I terreni di proprieta' dello Stato suscettibili di coltivazione ed i diritti di pesca spettanti allo Stato nelle acque pubbliche possono essere concessi in affitto mediante trattativa privata a Societa' cooperative agricole od a Societa' cooperative di produzione e lavoro, le quali siano legalmente costituite e si trovino nelle condizioni stabilite dal regolamento approvato col [R. decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md); 
+ I terreni di proprieta' dello Stato suscettibili di coltivazione ed i diritti di pesca spettanti allo Stato nelle acque pubbliche possono essere concessi in affitto mediante trattativa privata a Societa' cooperative agricole od a Societa' cooperative di produzione e lavoro, le quali siano legalmente costituite e si trovino nelle condizioni stabilite dal regolamento approvato col [R. decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md); 
  
  La durata dei contratti puo' giungere fino agli anni nove. Potra' pero' con deliberazione del Consiglio dei ministri essere estesa anche ad un numero maggiore di anni quando alla Societa' affittuaria siano imposti particolari obblighi di bonificamento, di miglioria o di esecuzione di lavori. 
  

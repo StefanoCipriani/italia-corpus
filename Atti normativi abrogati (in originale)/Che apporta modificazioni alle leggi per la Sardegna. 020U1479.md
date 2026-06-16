@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 1° del testo unico delle leggi contenenti provvedimenti per la Sardegna approvato con [Regio decreto 10 novembre 1907, n. 844](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), modificato col [decreto-legge Luogotenenziale 23 agosto 1917, n. 1592](Che%20modifica%20le%20disposizioni%20sul%20credito%20agrario%20in%20Sardegna%20contenute%20nella%20legge%20testo%20unico%2010%20novembre%201907%20n.%20844.%20017U1592.md), e' sostituito il seguente: 
+All'art. 1° del testo unico delle leggi contenenti provvedimenti per la Sardegna approvato con [Regio decreto 10 novembre 1907, n. 844](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20contenenti%20provvedimenti%20per%20la%20Sardegna.%20007U0844.md), modificato col [decreto-legge Luogotenenziale 23 agosto 1917, n. 1592](Che%20modifica%20le%20disposizioni%20sul%20credito%20agrario%20in%20Sardegna%20contenute%20nella%20legge%20testo%20unico%2010%20novembre%201907%20n.%20844.%20017U1592.md), e' sostituito il seguente: 
  
  Le Casse ademprivili istituite nelle provincie di Sassari e di Cagliari assumono il nome di Casse provinciali di credito agrario; esse costituiscono Enti morali autonomi ed hanno per oggetto: 
  
@@ -38,7 +38,7 @@ All'art. 1° del testo unico delle leggi contenenti provvedimenti per la Sardegn
  
  Gli stessi privilegi, di cui ai precedenti capoversi, garantiscono i prestiti fatti dai Monti frumentari, dalle Casse agrarie e dai Consorzi agrari. 
  
- Quando il debitore deteriora o distrugge gli oggetti sottoposti al privilegio, oppure impiega in tutto od in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), oltre la decadenza dal beneficio del termine ed il divieto di avvalersi della Cassa provinciale per un tempo non inferiore ai due anni. 
+ Quando il debitore deteriora o distrugge gli oggetti sottoposti al privilegio, oppure impiega in tutto od in parte la somma ricevuta a prestito per scopi diversi da quelli per i quali fu concessa, e' punito con le pene comminate dall'[art 203 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), oltre la decadenza dal beneficio del termine ed il divieto di avvalersi della Cassa provinciale per un tempo non inferiore ai due anni. 
  
  Sui mutui di cui al num. 1, lettere a) e b) e' corrisposto l'interesse del due e mezzo per cento. A compensare la differenza tra il tasso ordinario e quello del due e mezzo per cento, e' devoluto alle Casse provinciali il fondo stanziato nel bilancio del Ministero di agricoltura, a termini del penultimo capoverso dell'[articolo 1 del testo unico 10 novembre 1907, n. 844](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1907-11-10;844#art_1). Sugli altri prestiti e' corrisposto l'interesse che sara' fissato annualmente dal Ministero di agricoltura, intese le Casse provinciali, in misura non superiore al tasso ufficiale dello sconto.
 

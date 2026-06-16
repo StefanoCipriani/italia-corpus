@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sulle opere idrauliche delle diverse categorie, approvato con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523);
+Visto il testo unico delle leggi sulle opere idrauliche delle diverse categorie, approvato con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md);
 
 Vista la [legge 5 maggio 1907, n. 257](Concernente%20la%20istituzione%20del%20Magistrato%20alle%20acque%20per%20le%20provincie%20Venete%20e%20di%20Mantova.%20007U0257.md), modificata da quella 31 dicembre 1923, n. 3228;
 
-Visto il [R. decreto 19 novembre 1921, n. 1688](Che%20recano%20modificazioni%20di%20testi%20unici%20di%20legge%2025%20luglio%201904%20n.%20523%20sulle%20opere%20idrauliche%20e%2011%20luglio%201913%20n.%20959%20sulla%20navigazione%20interna.%20021U1688.md);
+Visto il [R. decreto 19 novembre 1921, n. 1688](../Regi%20decreti/Che%20recano%20modificazioni%20di%20testi%20unici%20di%20legge%2025%20luglio%201904%20n.%20523%20sulle%20opere%20idrauliche%20e%2011%20luglio%201913%20n.%20959%20sulla%20navigazione%20interna.%20021U1688.md);
 
-Visto il [R. decreto 25 marzo 1923, n. 913](Che%20estende%20ai%20territori%20annessi%20al%20Regno%20le%20disposizioni%20legislative%20e%20regolamentari%20sui%20lavori%20pubblici.%20023U0913.md), che estende ai territori annessi al Regno le disposizioni legislative e regolamentari sui lavori pubblici;
+Visto il [R. decreto 25 marzo 1923, n. 913](../Regi%20decreti/Che%20estende%20ai%20territori%20annessi%20al%20Regno%20le%20disposizioni%20legislative%20e%20regolamentari%20sui%20lavori%20pubblici.%20023U0913.md), che estende ai territori annessi al Regno le disposizioni legislative e regolamentari sui lavori pubblici;
 
 Visto il [R. decreto 6 novembre 1926, n. 1870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-06;1870), che reca provvedimenti per la sistemazione montana e valliva dell'Adige e suoi affluenti nella Venezia Tridentina;
 

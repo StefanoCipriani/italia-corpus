@@ -16,11 +16,11 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 18 aprile 1939, n. 624](Istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20del%20Sotto-segretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20039U0624.md), col quale venne istituito presso il Ministero degli affari esteri il Sottosegretariato di Stato per gli affari albanesi;
+Visto il [R. decreto 18 aprile 1939, n. 624](../Regi%20decreti/Istituzione%20presso%20il%20Ministero%20degli%20affari%20esteri%20del%20Sotto-segretariato%20di%20Stato%20per%20gli%20affari%20albanesi.%20039U0624.md), col quale venne istituito presso il Ministero degli affari esteri il Sottosegretariato di Stato per gli affari albanesi;
 
 Viste la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, e le successive disposizioni;
 
-Visti il [R. decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e le successive disposizioni;
+Visti il [R. decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e le successive disposizioni;
 
 Visto il [R. decreto 2 maggio 1920, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-05-02;597);
 
@@ -30,11 +30,11 @@ Vista la [legge 17 maggio 1928, n. 1094](Istituzione%20dellAzienda%20autonoma%20
 
 Vista la [legge 1° giugno 1931, n. 678](Ordinamento%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici%20e%20competenza%20degli%20organi%20consultivi%20in%20materia%20di%20opere%20pubbliche.%20031U0678.md);
 
-Visto il [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+Visto il [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
-Visto il [R. decreto 3 febbraio 1938, n. 591](Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20nellAfrica%20Italiana.%20038U0591.md);
+Visto il [R. decreto 3 febbraio 1938, n. 591](../Regi%20decreti/Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20nellAfrica%20Italiana.%20038U0591.md);
 
-Visto il [R. decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165);
+Visto il [R. decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md);
 
 Visto il [R. decreto 21 giugno 1938, n. 1296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-21;1296);
 
@@ -58,7 +58,7 @@ Tutte le opere pubbliche da eseguirsi dall'Italia in Albania sono di competenza 
  
  Sono ad esse applicabili, in quanto non siano in contrasto con il presente decreto, le norme attualmente vigenti per le opere che dipendono in Italia dal Ministero dei lavori pubblici. 
  
- Per le opere di bonifica, da eseguirsi a totale carico dello Stato e a sua cura diretta, o mediante concessione, sono applicabili le disposizioni del [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), compatibilmente con le situazioni di fatto e di diritto esistenti in Albania. 
+ Per le opere di bonifica, da eseguirsi a totale carico dello Stato e a sua cura diretta, o mediante concessione, sono applicabili le disposizioni del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), compatibilmente con le situazioni di fatto e di diritto esistenti in Albania. 
  
  Con successive disposizioni saranno introdotte nella legislazione italiana le modifiche o aggiunte necessarie al suo coordinamento con quella albanese.
 
@@ -150,7 +150,7 @@ Analoga a quella del Consiglio superiore dei lavori pubblici e' la competenza de
 
 ## Art. 9.
 
-Per i lavori da eseguirsi in Albania hanno vigore, in quanto attuabili, le norme previste, per la revisione dei prezzi, nel [R. decreto 3 febbraio 1938, n. 591](Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20nellAfrica%20Italiana.%20038U0591.md). 
+Per i lavori da eseguirsi in Albania hanno vigore, in quanto attuabili, le norme previste, per la revisione dei prezzi, nel [R. decreto 3 febbraio 1938, n. 591](../Regi%20decreti/Revisione%20dei%20prezzi%20degli%20appalti%20di%20lavori%20pubblici%20nellAfrica%20Italiana.%20038U0591.md). 
  
  La Commissione di cui all'art. 6 del citato decreto e' composta come indicato nell'art. 7 del presente decreto.
 

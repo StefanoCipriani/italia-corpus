@@ -92,7 +92,7 @@ Tutti i provvedimenti definitivi di riconoscimento della cittadinanza italiana i
 
 ## Art. 8.
 
-Le persone non pertinenti a Fiume, ma ivi residenti, potranno conseguire la cittadinanza italiana in base alla [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555), con la riserva contenuta nell'[articolo 1 del R. decreto 7 giugno 1923, n. 1245](Che%20estende%20alle%20nuove%20Provincie%20la%20legge%20ed%20il%20regolamento%20sulla%20cittadinanza.%20023U1245.md), esteso al territorio di Fiume col [R. decreto 30 marzo 1924, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-30;351).
+Le persone non pertinenti a Fiume, ma ivi residenti, potranno conseguire la cittadinanza italiana in base alla [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555), con la riserva contenuta nell'[articolo 1 del R. decreto 7 giugno 1923, n. 1245](../Regi%20decreti/Che%20estende%20alle%20nuove%20Provincie%20la%20legge%20ed%20il%20regolamento%20sulla%20cittadinanza.%20023U1245.md), esteso al territorio di Fiume col [R. decreto 30 marzo 1924, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-03-30;351).
 
 ## Art. 9.
 

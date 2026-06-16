@@ -43,7 +43,7 @@ Il programma di cui al precedente articolo 2, fatta eccezione per gli interventi
 ## Art. 5.
 
 Tutti i fabbricati realizzati, anche anteriormente alla data di entrata in vigore della presente legge, su aree ubicate all'interno di basi, impianti, installazioni militari o posti al loro diretto e funzionale servizio sono considerati, a tutti gli effetti di legge, infrastrutture militari.
- Fanno eccezione gli alloggi ex INCIS/militari ora IACP. Tali alloggi rimangono sottoposti al regime previsto dal [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165) e successive integrazioni e modificazioni, anche se costruiti in data anteriore all'entrata in vigore dello stesso.
+ Fanno eccezione gli alloggi ex INCIS/militari ora IACP. Tali alloggi rimangono sottoposti al regime previsto dal [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md) e successive integrazioni e modificazioni, anche se costruiti in data anteriore all'entrata in vigore dello stesso.
 
 ## Art. 6.
 

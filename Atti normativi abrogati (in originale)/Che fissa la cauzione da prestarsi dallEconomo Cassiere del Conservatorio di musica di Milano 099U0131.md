@@ -18,7 +18,7 @@ Visto l'[articolo 65 della legge 17 febbraio 1884, n. 2016](https://www.normatti
 
 Visto l'articolo 231 del relativo Regolamento approvato con [Regio decreto in data 4 maggio 1885, n. 3074](Che%20approva%20il%20Regolamento%20per%20lAmministrazione%20del%20patrimonio%20e%20la%20Contabilita%20generale%20dello%20Stato.%20085U3074.md) (serie 3ª);
 
-Visto l'articolo 56 dello Statuto per il Conservatorio di musica di Milano, approvato col [Regio decreto 25 settembre 1898, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-09-25;324) (Parte supplementare), col quale si fa obbligo all'Economo Cassiere di quell'Istituto di prestare cauzione;
+Visto l'articolo 56 dello Statuto per il Conservatorio di musica di Milano, approvato col [Regio decreto 25 settembre 1898, n. 324](../Regi%20decreti/Che%20approva%20il%20nuovo%20statuto%20del%20conservatorio%20di%20musica%20di%20Milano.%209800324R.md) (Parte supplementare), col quale si fa obbligo all'Economo Cassiere di quell'Istituto di prestare cauzione;
 
 Ritenuta l'opportunita' di proporzionare la detta cauzione all'importanza delle somme che normalmente vengono poste a disposizione di quel funzionario e del valore dei mobili di cui egli ha la consegna;
 

@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 Gli obbligati alla leva che dichiarino di essere contrari in ogni circostanza all'uso personale delle armi per imprescindibili motivi di coscienza, possono essere ammessi a soddisfare l'obbligo del servizio militare nei modi previsti dalla presente legge.
  I motivi di coscienza addotti debbono essere attinenti ad una concezione generale della vita basata su profondi convincimenti religiosi o filosofici o morali professati dal soggetto.
- Non sono comunque ammessi ad avvalersi della presente legge coloro che al momento della domanda risulteranno titolari di licenze o autorizzazioni relative alle armi indicate, rispettivamente, negli [articoli 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_28) e [30 del testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_30) o siano stati condannati per detenzione o porto abusivo di armi.
+ Non sono comunque ammessi ad avvalersi della presente legge coloro che al momento della domanda risulteranno titolari di licenze o autorizzazioni relative alle armi indicate, rispettivamente, negli [articoli 28](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [30 del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) o siano stati condannati per detenzione o porto abusivo di armi.
 
 ## Art. 2.
 
@@ -72,7 +72,7 @@ Chiunque, ammesso ai benefici della presente legge, rifiuta il servizio militare
 
 ## Art. 9.
 
-A coloro che siano stati ammessi a prestare servizio militare non armato o servizio sostitutivo civile e' permanentemente vietato detenere ed usare le armi e munizioni, indicate rispettivamente negli [articoli 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_28) e [30 del testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_30), nonche' fabbricare e commerciare, anche a mezzo di rappresentante, le armi e le munizioni predette.
+A coloro che siano stati ammessi a prestare servizio militare non armato o servizio sostitutivo civile e' permanentemente vietato detenere ed usare le armi e munizioni, indicate rispettivamente negli [articoli 28](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [30 del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), nonche' fabbricare e commerciare, anche a mezzo di rappresentante, le armi e le munizioni predette.
  E' fatto divieto alle autorita' di pubblica sicurezza di rilasciare o rinnovare ai medesimi alcuna autorizzazione relativa all'esercizio delle attivita' di cui al comma precedente.
  Chi trasgredisce ai divieti di cui al primo comma e' punito, qualora il fatto non costituisca reato piu' grave, con l'arresto da un mese a tre anni e con l'ammenda da lire 40 mila a lire 170 mila e, inoltre, decade dai benefici previsti dalla presente legge.
 

@@ -12,7 +12,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visti i [decreti legislativi del Capo provvisorio dello Stato 6 settembre 1946, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;125), [126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;126), [127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;127), [128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;128), [129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;129) e [130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-06;130);
  Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
  Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1946-47 sono disponibili lire 182.970.000;
@@ -29,7 +29,7 @@ Ministero del tesoro:
 
  Cap. n. 47. - Spese casuali della Presidenza del Consiglio del Ministri. L. 5.000.000
  Cap. n. 357-bis (di nuova istituzione).
- - Spese inerenti al funzionamento della Commissione paritetica di cui al [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), di approvazione dello statuto della regione siciliana...." 1.000.000
+ - Spese inerenti al funzionamento della Commissione paritetica di cui al [regio decreto legislativo 15 maggio 1946, n. 455](../Regi%20decreti%20legislativi/Approvazione%20dello%20statuto%20della%20Regione%20siciliana.md), di approvazione dello statuto della regione siciliana...." 1.000.000
  Cap. n. 325-ter (di nuova istituzione).
  - Contributo straordinario a favore dell'Istituto, di sanita' pubblica per spese relative a ricerche di carattere tecnico e scientifico...."13.000.000
 

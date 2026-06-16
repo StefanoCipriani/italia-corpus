@@ -20,7 +20,7 @@ Si autorizza il concorso dello Stato per la somma di L. 100.000 nella spesa per 
 
 Si autorizza l'assegnazione straordinaria di L. 100.000 nello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio 1912-913, quale contributo dello Stato nelle spese per la Esposizione verdiana e per le altre Esposizioni che si terranno in Parma nel 1913. 
  
- Il pagamento dell'anzidetta somma sara' effettuato in due rate semestrali anticipate di L. 50.000 ciascuna, a cominciare dal 1° marzo 1913, a favore del Comitato costituito in Parma per i festeggiamenti del primo centenario della nascita di Giuseppe Verdi, eretto in ente mora le con [R. decreto 4 aprile 1912, n. 600](Erezione%20in%20ente%20morale%20e%20approvazione%20di%20statuto.%20012U0600.md).
+ Il pagamento dell'anzidetta somma sara' effettuato in due rate semestrali anticipate di L. 50.000 ciascuna, a cominciare dal 1° marzo 1913, a favore del Comitato costituito in Parma per i festeggiamenti del primo centenario della nascita di Giuseppe Verdi, eretto in ente mora le con [R. decreto 4 aprile 1912, n. 600](../Regi%20decreti/Erezione%20in%20ente%20morale%20e%20approvazione%20di%20statuto.%20012U0600.md).
 
 ## Art. 3.
 

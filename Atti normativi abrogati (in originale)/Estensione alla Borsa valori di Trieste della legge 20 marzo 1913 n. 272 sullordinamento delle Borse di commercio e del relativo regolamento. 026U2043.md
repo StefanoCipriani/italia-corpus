@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 4 della legge 26 settembre 1920, n. 1322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-26;1322#art_4);
 
-Visti la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio ed il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Visti la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse di commercio ed il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Visto il [R. decreto-legge 29 luglio 1925, n. 1261](Passaggio%20delle%20attribuzioni%20concernenti%20le%20Borse%20valori%20dal%20Ministero%20delleconomia%20nazionale%20a%20quello%20delle%20finanze.%20025U1261.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 ## Art. 1.
 
-Sono estesi alla Borsa mercantile di Trieste, limitatamente alla Borsa dei valori, la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse del Regno ed il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, numero 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068), come attualmente modificati.
+Sono estesi alla Borsa mercantile di Trieste, limitatamente alla Borsa dei valori, la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sull'ordinamento delle Borse del Regno ed il regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, numero 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md), come attualmente modificati.
 
 ## Art. 2.
 

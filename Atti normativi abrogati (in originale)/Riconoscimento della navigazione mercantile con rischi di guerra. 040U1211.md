@@ -17,7 +17,7 @@ La navigazione compiuta dal 2 settembre 1939-XVII alla data che sara' stabilita 
 
 La navigazione compiuta nelle zone di mare indicate nell'art. 4 e' calcolata doppia: 
  a) agli effetti del conseguimento dei gradi marittimi; 
- b) agli effetti del conseguimento della medaglia di lunga navigazione di cui al [R. decreto 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656).
+ b) agli effetti del conseguimento della medaglia di lunga navigazione di cui al [R. decreto 27 novembre 1904, n. 656](../Regi%20decreti/Che%20istituisce%20una%20medaglia%20donore%20per%20lunga%20navigazione%20compiuta.%20004U0656.md).
 
 ## Art. 3.
 

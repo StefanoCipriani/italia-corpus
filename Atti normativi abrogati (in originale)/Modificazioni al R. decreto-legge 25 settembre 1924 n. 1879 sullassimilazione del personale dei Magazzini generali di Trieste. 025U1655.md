@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 25 settembre 1924, n. 1879](Assimilazione%20del%20personale%20dei%20Magazzini%20generali%20di%20Trieste.%20024U1879.md), concernente l'assimilazione del personale dei Magazzini generali di Trieste;
 
-Visto il [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), che approva il testo unico sullo stato giuridico e sul trattamento economico dei salariati dello Stato;
+Visto il [R. decreto 24 dicembre 1924, n. 2114](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), che approva il testo unico sullo stato giuridico e sul trattamento economico dei salariati dello Stato;
 
 Udito il Consiglio dei Ministri;
 
@@ -48,7 +48,7 @@ Sono approvate le seguenti sostituzioni e aggiunte al [Regio decreto-legge n. 18
  
  L'art. 8 e' sostituito dal seguente: 
  
- « Le funzioni del Consiglio di amministrazione stabilite dal [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sono esercitate fino a che duri l'attuale ordinamento dei Magazzini generali, da una Commissione presieduta dal Regio commissario e della quale fanno parte il direttore dei Magazzini generali, il comandante del porto di Trieste, il capo del Compartimento delle ferrovie dello Stato e l'intendente di finanza. 
+ « Le funzioni del Consiglio di amministrazione stabilite dal [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sono esercitate fino a che duri l'attuale ordinamento dei Magazzini generali, da una Commissione presieduta dal Regio commissario e della quale fanno parte il direttore dei Magazzini generali, il comandante del porto di Trieste, il capo del Compartimento delle ferrovie dello Stato e l'intendente di finanza. 
  
  « Finche' non abbia avuto luogo la nomina del direttore fara' parte della Commissione il funzionario che ne esercita le funzioni ». 
  
@@ -56,7 +56,7 @@ Sono approvate le seguenti sostituzioni e aggiunte al [Regio decreto-legge n. 18
  
  « Il Ministro per le comunicazioni designa quale tra gli impiegati del 7' grado deve surrogare il direttore, nel caso di assenza o di impedimento. 
  
- Art. 13. secondo comma: alle parole « non tenendo pero' conto delle campagne di guerra contro l'Italia » sono sostituite le seguenti: « salva l'applicazione del [2° comma dell'art. 17 del R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), per quanto riguarda le campagne di guerra ». 
+ Art. 13. secondo comma: alle parole « non tenendo pero' conto delle campagne di guerra contro l'Italia » sono sostituite le seguenti: « salva l'applicazione del [2° comma dell'art. 17 del R. decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), per quanto riguarda le campagne di guerra ». 
  
  Terzo, quarto e quinto comma, sono sostituiti dai seguenti: 
  
@@ -88,7 +88,7 @@ La scelta dei salariati da inquadrarsi nei gruppi e sottogruppi della tabella B 
  
  A tale scelta provvedera', con facolta' discrezionali, tenendo conto delle funzioni, degli incarichi e dei servizi disimpegnati, una Commissione composta del Regio commissario dei Magazzini generali, del funzionario che esercita le funzioni di direttore dei Magazzini stessi, e del comandante del porto. 
  
- I salariati, dei quali la Commissione avra' deliberata la scelta saranno inscritti, con effetto 1° aprile 1925, nella classe di ciascun gruppo e sottogruppo, la cui retribuzione giusta la tabella n. 6 allegata al [R. decreto 31 dicembre 1924, n. 2262](Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e' uguale o piu' si avvicina a quella di cui effettivamente fruivano al 15 dicembre 1924, calcolata nel modo indicato nella lettera g) dell'art. 269 del decreto stesso; l'eventuale differenza per eccesso sara' compensata da corrispondente riduzione dell'aumento del 10 % di cui all'ultimo comma del precedente art. 3 salvo il ripristino integrale del detto aumento in occasione di eventuali successivi aumenti periodici od avanzamento di classe. 
+ I salariati, dei quali la Commissione avra' deliberata la scelta saranno inscritti, con effetto 1° aprile 1925, nella classe di ciascun gruppo e sottogruppo, la cui retribuzione giusta la tabella n. 6 allegata al [R. decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e' uguale o piu' si avvicina a quella di cui effettivamente fruivano al 15 dicembre 1924, calcolata nel modo indicato nella lettera g) dell'art. 269 del decreto stesso; l'eventuale differenza per eccesso sara' compensata da corrispondente riduzione dell'aumento del 10 % di cui all'ultimo comma del precedente art. 3 salvo il ripristino integrale del detto aumento in occasione di eventuali successivi aumenti periodici od avanzamento di classe. 
  
  Per coloro, cui a mente del presente articolo dovesse assegnarsi una retribuzione superiore a quella massima del gruppo o sottogruppo cui verranno ascritti, si applichera' il quartultimo capoverso dell'[art. 92 del testo unico 24 dicembre 1924, n. 2114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1924-12-24;2114#art_92).
 

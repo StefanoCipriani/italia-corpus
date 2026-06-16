@@ -70,7 +70,7 @@ Le norme tecniche di edilizia di cui all'art. 3 del presente decreto sono applic
  
  La inclusione di un Comune, o frazione di Comune, come pure la esclusione, ovvero il passaggio da una categoria ad un'altra degli abitati compresi in detto elenco, viene fatta con decreto del Ministro per i lavori pubblici, di concerto col Ministro per l'interno, sentito il Consiglio superiore dei lavori pubblici. 
  
- Oltre alle norme di cui al presente decreto, in tutti indistintamente i Comuni del Regno debbono osservarsi: nelle costruzioni, ricostruzioni e possibilmente nelle riparazioni organiche le prescrizioni stabilite dal testo unico approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e per gli edifici scolastici quelle approvate con il decreto del Ministero dell'educazione nazionale 4 maggio 1925.
+ Oltre alle norme di cui al presente decreto, in tutti indistintamente i Comuni del Regno debbono osservarsi: nelle costruzioni, ricostruzioni e possibilmente nelle riparazioni organiche le prescrizioni stabilite dal testo unico approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e per gli edifici scolastici quelle approvate con il decreto del Ministero dell'educazione nazionale 4 maggio 1925.
 
 ### Art. 3. — Norme tecniche di buona costruzione.
 
@@ -517,7 +517,7 @@ Per gli edifici non interamente distrutti o demoliti sono applicabili le norme p
 
 ### Art. 38. — Edifici di speciale importanza artistica.
 
-Per l'esecuzione di qualsiasi lavoro in edifici o manufatti di carattere monumentale o aventi comunque interesse archeologico, storico o artistico, siano essi pubblici o di privata proprieta', restano ferme le disposizioni stabilite dalla [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), dalla [legge 23 giugno 1912, n. 688](Portante%20modificazioni%20alla%20legge%2020%20giugno%201909%20n.%20364%20per%20le%20antichita%20e%20belle%20arti.%20012U0688.md), dal regolamento approvato con il [R. decreto 30 gennaio 1913, n. 363](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e dalla [legge 11 giugno 1922, n. 778](Per%20la%20tutela%20delle%20bellezze%20naturali%20e%20degli%20immobili%20di%20particolare%20interesse%20storico.%20022U0778.md).
+Per l'esecuzione di qualsiasi lavoro in edifici o manufatti di carattere monumentale o aventi comunque interesse archeologico, storico o artistico, siano essi pubblici o di privata proprieta', restano ferme le disposizioni stabilite dalla [legge 20 giugno 1909, n. 364](Le%20antichita%20e%20le%20belle%20arti.%20009U0364.md), dalla [legge 23 giugno 1912, n. 688](Portante%20modificazioni%20alla%20legge%2020%20giugno%201909%20n.%20364%20per%20le%20antichita%20e%20belle%20arti.%20012U0688.md), dal regolamento approvato con il [R. decreto 30 gennaio 1913, n. 363](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), e dalla [legge 11 giugno 1922, n. 778](Per%20la%20tutela%20delle%20bellezze%20naturali%20e%20degli%20immobili%20di%20particolare%20interesse%20storico.%20022U0778.md).
 
 ## Sanzioni - Azioni - Procedimenti.
 

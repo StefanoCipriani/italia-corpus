@@ -65,7 +65,7 @@ Per le somme riscosse a partire dal 1 aprile 1987 mediante versamenti diretti, l
 
 2.
 
-Il primo comma dell'articolo 53 del testo unico delle leggi sui servizi della riscossione delle imposte dirette, approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../DPR/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), e' sostituito dal seguente:
+Il primo comma dell'articolo 53 del testo unico delle leggi sui servizi della riscossione delle imposte dirette, approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), e' sostituito dal seguente:
  "La cessione dell'esattoria deve essere approvata dal prefetto, sentiti i pareri del comune e dell'intendente di finanza, previo accertamento delle condizioni richieste dall'articolo 18.".
 
 3.
@@ -74,7 +74,7 @@ I titolari delle gestioni prorogate ai sensi del comma 1 dell'articolo 2 possono
 
 4.
 
-Alla Societa' esattorie vacanti sono conferite le esattorie comunque vacanti dal 1 gennaio 1987 e per le quali non e' effettuato il collocamento nei modi previsti dal [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../DPR/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md). Alla medesima societa' sono altresi' conferite quelle cessate dal servizio ai sensi del [comma 8 dell'articolo 1 del decreto-legge 6 gennaio 1986, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-01-06;2#art_1-com8), convertito, con modificazioni, dalla [legge 7 marzo 1986, n. 60](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20gennaio%201986%20n.%202%20recante%20disposizioni%20urgenti%20per%20assicurare%20la%20continuita%20della%20riscossione%20delle%20imposte%20dirette%20e%20per%20il%20dif_9de23634f49a.md); in tal caso l'aggio non puo' essere superiore a quello spettante al precedente titolare.
+Alla Societa' esattorie vacanti sono conferite le esattorie comunque vacanti dal 1 gennaio 1987 e per le quali non e' effettuato il collocamento nei modi previsti dal [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md). Alla medesima societa' sono altresi' conferite quelle cessate dal servizio ai sensi del [comma 8 dell'articolo 1 del decreto-legge 6 gennaio 1986, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-01-06;2#art_1-com8), convertito, con modificazioni, dalla [legge 7 marzo 1986, n. 60](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20gennaio%201986%20n.%202%20recante%20disposizioni%20urgenti%20per%20assicurare%20la%20continuita%20della%20riscossione%20delle%20imposte%20dirette%20e%20per%20il%20dif_9de23634f49a.md); in tal caso l'aggio non puo' essere superiore a quello spettante al precedente titolare.
 
 ## Art. 4.
 

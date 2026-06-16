@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I fondi individuali ed il fondo generale per gli appartenenti al Corpo degli agenti di custodia, previsti dagli articoli da 194 a 255 del regolamento approvato con [regio decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584), sono soppressi.
+I fondi individuali ed il fondo generale per gli appartenenti al Corpo degli agenti di custodia, previsti dagli articoli da 194 a 255 del regolamento approvato con [regio decreto 30 dicembre 1937, n. 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md), sono soppressi.
 
 ## Art. 2.
 

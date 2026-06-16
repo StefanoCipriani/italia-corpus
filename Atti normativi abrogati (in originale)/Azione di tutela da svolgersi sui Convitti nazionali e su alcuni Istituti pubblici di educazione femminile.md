@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-I Convitti nazionali e gli Istituti pubblici di educazione femminile di cui alle tabelle numeri 2, 3 e 4 annesse al [regio decreto 1 ottobre 1931, n. 1312](Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md), sono sottoposti alla tutela dei Provveditori agli studi.
+I Convitti nazionali e gli Istituti pubblici di educazione femminile di cui alle tabelle numeri 2, 3 e 4 annesse al [regio decreto 1 ottobre 1931, n. 1312](../Regi%20decreti/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md), sono sottoposti alla tutela dei Provveditori agli studi.
  Gli atti e le deliberazioni adottate dai Consigli di amministrazione degli Istituti sopra indicati, gia' di competenza delle soppresse Giunte provinciali per l'istruzione media, sono sottoposti all'esame e all'approvazione dei Provveditori agli studi.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

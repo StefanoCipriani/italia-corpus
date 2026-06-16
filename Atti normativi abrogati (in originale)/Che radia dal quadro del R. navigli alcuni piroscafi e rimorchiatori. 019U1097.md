@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il [R. decreto 16 maggio 1915, n. 725](Col%20quale%20alcuni%20piroscafi%20e%20rimorchiatori%20vengono%20trasformati%20in%20navi%20da%20guerra.%20015U0725.md), col quale venivano inscritti fra altri nel quadro del R. naviglio i rimorchiatori Calliope ed Alberoni; 
+ Visto il [R. decreto 16 maggio 1915, n. 725](../Regi%20decreti/Col%20quale%20alcuni%20piroscafi%20e%20rimorchiatori%20vengono%20trasformati%20in%20navi%20da%20guerra.%20015U0725.md), col quale venivano inscritti fra altri nel quadro del R. naviglio i rimorchiatori Calliope ed Alberoni; 
  
  Visti i Nostri decreti 5 marzo 1916, n. 302, 27 luglio 1916 n. 933, 1° marzo 1917, n. 367 e 2 febbraio 1919, n.247 coi quali venivano pure rispettivamente inscritti nel quadro del R. naviglio i piroscafi Guerrazzi, Sassari, Porto di Suez e Cervignano; 
  
@@ -32,7 +32,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- Il [R. decreto 16 maggio 1915, n. 725](Col%20quale%20alcuni%20piroscafi%20e%20rimorchiatori%20vengono%20trasformati%20in%20navi%20da%20guerra.%20015U0725.md) ed i Nostri decreti 5 marzo 1916, n. 302, 27 luglio 1916, n. 933 1° marzo 1917, n. 367 e 2 febbraio 1919 n 217, e quali venivano inscritti, fra altri, nel quadro del Regio naviglio i rimorchiatori Calliope ed Alberoni ed i piroscafi Guerrazzi, Sassari, Porto di Suez e Cervignano sono abrogati nei riguardi dei suddetti rimorchiatori e piroscafi colla data a fianco di ciascuno indicata: 
+ Il [R. decreto 16 maggio 1915, n. 725](../Regi%20decreti/Col%20quale%20alcuni%20piroscafi%20e%20rimorchiatori%20vengono%20trasformati%20in%20navi%20da%20guerra.%20015U0725.md) ed i Nostri decreti 5 marzo 1916, n. 302, 27 luglio 1916, n. 933 1° marzo 1917, n. 367 e 2 febbraio 1919 n 217, e quali venivano inscritti, fra altri, nel quadro del Regio naviglio i rimorchiatori Calliope ed Alberoni ed i piroscafi Guerrazzi, Sassari, Porto di Suez e Cervignano sono abrogati nei riguardi dei suddetti rimorchiatori e piroscafi colla data a fianco di ciascuno indicata: 
  
  Rimorchiatore Calliope a datare dal 28 marzo 1919, 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-E' istituito in Roma un Convitto nazionale femminile, gia' fondato a titolo di esperimento col [R. decreto 6 novembre 1911, n. 1394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-06;1394). 
+E' istituito in Roma un Convitto nazionale femminile, gia' fondato a titolo di esperimento col [R. decreto 6 novembre 1911, n. 1394](../Regi%20decreti/Col%20quale%20viene%20istituito%20in%20Roma%20un%20convitto%20nazionale%20femminile.%20011U1394.md). 
  
  Esso ha per iscopo di accogliere ed educare giovanette iscritte alle scuole medie governative, con preferenza quelle che frequentano le scuole complementari e normali.
 

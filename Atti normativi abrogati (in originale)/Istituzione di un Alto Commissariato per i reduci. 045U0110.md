@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 19 aprile 1923, n. 850](Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md), che ha istituito l'Ufficio per l'assistenza ai reduci di guerra e alle famiglie dei caduti, presso la Presidenza del Consiglio dei Ministri;
+Visto il [R. decreto 19 aprile 1923, n. 850](../Regi%20decreti/Concernente%20la%20sistemazione%20dei%20servizi%20di%20vigilanza%20protezione%20ed%20assistenza%20dei%20reduci%20validi%20ed%20invalidi%20della%20guerra%20nazionale%20e%20delle%20famiglie%20dei%20caduti.%20023U0850.md), che ha istituito l'Ufficio per l'assistenza ai reduci di guerra e alle famiglie dei caduti, presso la Presidenza del Consiglio dei Ministri;
 
 Visto il [R. decreto-legge 6 aprile 1944, n. 107](Istituzione%20di%20un%20Alto%20Commissariato%20per%20prigionieri%20di%20guerra.%20044U0107.md), concernente l'istituzione di un Alto Commissariato per i prigionieri di guerra;
 

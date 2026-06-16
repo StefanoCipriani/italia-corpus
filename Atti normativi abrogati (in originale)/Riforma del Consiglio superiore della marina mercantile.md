@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 8 novembre 1928, n. 2641](Riforma%20della%20costituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20028U2641.md), sulla riforma della costituzione del Consiglio superiore della marina mercantile, e successive modificazioni;
+Visto il [regio decreto 8 novembre 1928, n. 2641](../Regi%20decreti/Riforma%20della%20costituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20028U2641.md), sulla riforma della costituzione del Consiglio superiore della marina mercantile, e successive modificazioni;
 
 Visto il [decreto del Capo provvisorio dello Stato 13 luglio 1946, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-07-13;26), sulla istituzione del Ministero della marina mercantile;
 
@@ -127,7 +127,7 @@ CAPO IV.
 
 ### Art. 13.
 
-E' abrogato il [regio decreto 8 novembre 1928, n. 2641](Riforma%20della%20costituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20028U2641.md), ed ogni altra disposizione contraria al presente decreto.
+E' abrogato il [regio decreto 8 novembre 1928, n. 2641](../Regi%20decreti/Riforma%20della%20costituzione%20del%20Consiglio%20superiore%20della%20marina%20mercantile.%20028U2641.md), ed ogni altra disposizione contraria al presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

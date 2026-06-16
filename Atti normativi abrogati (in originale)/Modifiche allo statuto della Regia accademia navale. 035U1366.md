@@ -29,7 +29,7 @@ Allo statuto della Regia accademia navale, approvato con [R. decreto 16 agosto 1
 ## Art. 2.
 
 I commi 2 e 3 dell'art. 9 sono abrogati e sostituiti dal seguente:  
- «I titoli di studio valevoli per l'ammissione ai concorsi alla prima classe della Regia accademia navale sono quelli richiesti per l'ammissione alla facolta' di scienze matematiche, fisiche e naturali ed alle Scuole di ingegneria. Per i corsi allievi ufficiali di vascello valgono anche i titoli richiesti per l'ammissione alle facolta' di scienze economiche e commerciali a termini dell'art. 143 del testo unico delle leggi sull'istruzione superiore ([R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592))».
+ «I titoli di studio valevoli per l'ammissione ai concorsi alla prima classe della Regia accademia navale sono quelli richiesti per l'ammissione alla facolta' di scienze matematiche, fisiche e naturali ed alle Scuole di ingegneria. Per i corsi allievi ufficiali di vascello valgono anche i titoli richiesti per l'ammissione alle facolta' di scienze economiche e commerciali a termini dell'art. 143 del testo unico delle leggi sull'istruzione superiore ([R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md))».
 
 ## Art. 3.
 
@@ -39,7 +39,7 @@ All'art. 11 sono apportate le seguenti varianti:
  
  2ª variante. - L'ultimo comma e' abrogato e sostituito dal seguente: 
  
- «Gli allievi che, avendo conseguita la maturita' classica o scientifica, supereranno gli esami di profitto di cui ai precedenti nn. 1, 2, 3, 5, 6 e 10 potranno sostenere gli esami del biennio propedeutico previsti dall'art. 161 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592)». 
+ «Gli allievi che, avendo conseguita la maturita' classica o scientifica, supereranno gli esami di profitto di cui ai precedenti nn. 1, 2, 3, 5, 6 e 10 potranno sostenere gli esami del biennio propedeutico previsti dall'art. 161 del testo unico delle leggi sull'istruzione superiore, approvato con [R. decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md)». 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

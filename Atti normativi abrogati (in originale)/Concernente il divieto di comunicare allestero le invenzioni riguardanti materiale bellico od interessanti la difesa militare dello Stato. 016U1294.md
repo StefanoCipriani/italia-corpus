@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Chiunque, senza avere ottenuto una espressa autorizzazione dal Ministero della guerra o dal Ministero della marina, comunica, o tenta comunicare all'estero, direttamente o indirettamente, per qualsiasi ragione, e sotto qualsiasi forma, invenzioni anche non brevettate, che riguardino materiale bellico, o interessino comunque la difesa militare dello Stato, e' punito con l'ammenda fino a L. 1000 e con l'arresto fino a sei mesi, salvo che il fatto non costituisca un reato piu' grave a termine del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o di altre leggi speciali.
+Chiunque, senza avere ottenuto una espressa autorizzazione dal Ministero della guerra o dal Ministero della marina, comunica, o tenta comunicare all'estero, direttamente o indirettamente, per qualsiasi ragione, e sotto qualsiasi forma, invenzioni anche non brevettate, che riguardino materiale bellico, o interessino comunque la difesa militare dello Stato, e' punito con l'ammenda fino a L. 1000 e con l'arresto fino a sei mesi, salvo che il fatto non costituisca un reato piu' grave a termine del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o di altre leggi speciali.
 
 ## Art. 2.
 

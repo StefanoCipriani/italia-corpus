@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 9 aprile 1928, n. 891](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-09;891), col quale il comune di Borsano e' stato aggregato al comune di Busto Arsizio; 
+ Visto il [R. decreto 9 aprile 1928, n. 891](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Sacconago%20e%20Borsano%20al%20comune%20di%20Busto%20Arsizio.%20028U0891.md), col quale il comune di Borsano e' stato aggregato al comune di Busto Arsizio; 
  Visto che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Milano alla diretta amministrazione del comune autonomo di Busto Arsizio, a decorrere dal 1° settembre 1928; 
  Visto l'[art. 2 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md); 
  Visto l'[art. 11 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md), col quale le disposizioni contenute nel 3° e 4° comma dell'art. 1 della stessa legge, per quanto riguarda i concorsi e rimborsi scolastici dovuti dallo Stato ai Comuni che hanno la diretta amministrazione delle scuole elementari, si applicano anche per le scuole amministrate dai Regi provveditorati agli studi nei Comuni aggregati ad altri che abbiano invece la diretta amministrazione delle scuole; 

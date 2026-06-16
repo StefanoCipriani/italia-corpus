@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 18 ottobre 1928, n. 2496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-18;2496), col quale i comuni di Aurigo, Conio, Ville San Pietro, Ville San Sebastiano e San Lazzaro Reale sono stati riuniti in un unico Comune con sede e denominazione e capoluogo a Borgomaro; 
+ Visto il [R. decreto 18 ottobre 1928, n. 2496](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Aurigo%20Borgomaro%20Conio%20San%20Lazzaro%20Reale%20Ville%20San%20Pietro%20e%20Ville%20San%20Sebastiano%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Borgomaro%20.%20028U2496.md), col quale i comuni di Aurigo, Conio, Ville San Pietro, Ville San Sebastiano e San Lazzaro Reale sono stati riuniti in un unico Comune con sede e denominazione e capoluogo a Borgomaro; 
  Vista la deliberazione del podesta' di Borgomaro rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Ville San Sebastiano e San Lazzaro Reale e la conservazione degli altri uffici; 
  Visti i pareri del primo presidente e del procuratore generale presso la Corte d'appello di Genova sull'opportunita' della soppressione degli uffici di tutti gli ex Comuni; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

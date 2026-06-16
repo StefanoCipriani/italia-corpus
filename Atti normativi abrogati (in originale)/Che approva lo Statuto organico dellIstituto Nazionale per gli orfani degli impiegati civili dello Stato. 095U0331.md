@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA.
 
-Veduta l'istanza con la quale l'Istituto Nazionale per gli orfani degli impiegati civili dello Stato, con sede in Roma, eretto in ente morale con [R. decreto del 28 febbraio 1892, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-02-28;90), e sottoposto alla vigilanza del [Ministero di Agricoltura, Industria e Commercio, con R. decreto dell'11 settembre 1892, numero 493](Che%20sottopone%20lIstituto%20nazionale%20per%20gli%20orfani%20degli%20impiegati%20civili%20dello%20Stato%20alla%20vigilanza%20del%20Ministero%20di%20Agricoltura%20Industria%20e%20Commercio.%20092U0493.md), domanda l'approvazione del nuovo Statuto organico deliberato dal Comitato centrale nelle adunanze del 29 e 30 novembre 1894;
+Veduta l'istanza con la quale l'Istituto Nazionale per gli orfani degli impiegati civili dello Stato, con sede in Roma, eretto in ente morale con [R. decreto del 28 febbraio 1892, n. 90](../Regi%20decreti/Che%20costituisce%20in%20ente%20morale%20lIstituto%20nazionale%20per%20gli%20orfani%20degli%20impiegati%20civili%20dello%20Stato%20ed%20approva%20il%20relativo%20statuto%20organico.%20092U0090.md), e sottoposto alla vigilanza del [Ministero di Agricoltura, Industria e Commercio, con R. decreto dell'11 settembre 1892, numero 493](Che%20sottopone%20lIstituto%20nazionale%20per%20gli%20orfani%20degli%20impiegati%20civili%20dello%20Stato%20alla%20vigilanza%20del%20Ministero%20di%20Agricoltura%20Industria%20e%20Commercio.%20092U0493.md), domanda l'approvazione del nuovo Statuto organico deliberato dal Comitato centrale nelle adunanze del 29 e 30 novembre 1894;
 
 Veduto il predetto Statuto organico;
 

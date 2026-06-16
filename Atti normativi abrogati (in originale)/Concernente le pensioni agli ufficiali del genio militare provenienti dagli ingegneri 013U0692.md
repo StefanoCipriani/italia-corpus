@@ -26,7 +26,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- Al primo periodo dell'art. 67 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), modificato con la [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md), viene aggiunto il seguente comma: 
+ Al primo periodo dell'art. 67 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), modificato con la [legge 14 luglio 1907, n. 482](Portante%20aggiunte%20e%20modificazioni%20al%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari%20del%2021%20febbraio%201895%20n.%2070.%20007U0482.md), viene aggiunto il seguente comma: 
  
  «d) cinque anni antecedenti al conseguimento della laurea, per gli ufficiali nominati sottotenenti del genio in seguito a concorso indetto esclusivamente tra laureati in ingegneria». 
  

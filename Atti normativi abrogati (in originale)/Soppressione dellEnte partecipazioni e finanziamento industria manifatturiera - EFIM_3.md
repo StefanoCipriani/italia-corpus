@@ -116,7 +116,7 @@ Il commissario liquidatore e' autorizzato a rilasciare, a favore delle societa' 
 
 11.
 
-La procedura di sospensione dei pagamenti prevista nel presente decreto per l'ente soppresso e per le societa' controllate di cui all'articolo 2, comma 2, lettera b), e' considerata come procedura concorsuale agli effetti dell'articolo 66, comma 3, del testo unico delle imposte sui redditi approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni.
+La procedura di sospensione dei pagamenti prevista nel presente decreto per l'ente soppresso e per le societa' controllate di cui all'articolo 2, comma 2, lettera b), e' considerata come procedura concorsuale agli effetti dell'articolo 66, comma 3, del testo unico delle imposte sui redditi approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni.
 
 12.
 

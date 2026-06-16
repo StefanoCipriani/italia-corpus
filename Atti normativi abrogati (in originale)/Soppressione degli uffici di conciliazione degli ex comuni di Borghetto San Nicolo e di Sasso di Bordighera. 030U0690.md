@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 19 febbraio 1928, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-19;451), col quale i comuni di Borghetto San Nicolo' e di Sasso di Bordighera sono stati soppressi ed i rispettivi territori aggregati a quello di Bordighera; 
+ Visto il [R. decreto 19 febbraio 1928, n. 451](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Sasso%20di%20Bordighera%20e%20Borghetto%20San%20Niccolo%20a%20quello%20di%20Bordighera.%20028U0451.md), col quale i comuni di Borghetto San Nicolo' e di Sasso di Bordighera sono stati soppressi ed i rispettivi territori aggregati a quello di Bordighera; 
  
  Vista la deliberazione del podesta' di Bordighera rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Borghetto San Nicolo' e di Sasso di Bordighera; 
  

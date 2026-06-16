@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 18 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2895), e successive modificazioni;
+Veduto il [R. decreto 18 novembre 1923, n. 2895](../Regi%20decreti/Istituzione%20ed%20erezione%20in%20Ente%20morale%20del%20%20Consiglio%20nazionale%20di%20ricerche%20%20e%20della%20%20Unione%20accademica%20nazionale%20.%20023U2895.md), e successive modificazioni;
 
 Ritenuta la necessita' e l'urgenza di emanare norme per la costituzione in Torino di un Istituto elettrotecnico nazionale da intitolarsi al nome di « Galileo Ferraris »;
 

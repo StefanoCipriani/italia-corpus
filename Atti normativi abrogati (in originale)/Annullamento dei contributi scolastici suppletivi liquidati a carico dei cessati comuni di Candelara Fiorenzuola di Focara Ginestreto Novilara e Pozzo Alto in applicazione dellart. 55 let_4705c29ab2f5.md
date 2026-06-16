@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto il [R. decreto 6 marzo 1930, n. 492](Contributi%20scolastici%20suppletivi%20dovuti%20per%20il%20quinquennio%201929-1933%20dai%20Comuni%20delle%20provincie%20di%20Ancona%20Ascoli%20Piceno%20Macerata%20e%20Pesaro-Urbino.%20030U0492.md), col quale furono stabiliti i contributi scolastici suppletivi dovuti dai comuni delle provincie di Ancona, Ascoli Piceno, Macerata e Pesaro-Urbino per il quinquennio 1° gennaio 1929-31 dicembre 1933, in applicazione dell'art. 55, lettera b), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Veduto il [R. decreto 6 marzo 1930, n. 492](Contributi%20scolastici%20suppletivi%20dovuti%20per%20il%20quinquennio%201929-1933%20dai%20Comuni%20delle%20provincie%20di%20Ancona%20Ascoli%20Piceno%20Macerata%20e%20Pesaro-Urbino.%20030U0492.md), col quale furono stabiliti i contributi scolastici suppletivi dovuti dai comuni delle provincie di Ancona, Ascoli Piceno, Macerata e Pesaro-Urbino per il quinquennio 1° gennaio 1929-31 dicembre 1933, in applicazione dell'art. 55, lettera b), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Veduto che a carico dei comuni di Candelara, Fiorenzuola di Focara, Ginestreto, Novilara e Pozzo Alto furono rispettivamente liquidate le annue somme di L. 4800, L. 4000, L. 2400, L. 2400 e L. 2400;
 
-Veduto il [R. decreto 25 febbraio 1929, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-25;285), col quale gli enti predetti furono aggregati al comune di Pesaro;
+Veduto il [R. decreto 25 febbraio 1929, n. 285](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Candelara%20Fiorenzuola%20di%20Focara%20Ginestreto%20Novilara%20e%20Pozzo%20Alto%20al%20comune%20di%20Pesaro.%20029U0285.md), col quale gli enti predetti furono aggregati al comune di Pesaro;
 
 Considerato che, in conseguenza della citata variazione territoriale, gl'insegnanti elementari degli enti stessi passarono alla diretta dipendenza del comune di Pesaro a decorrere dal 1° agosto 1929;
 

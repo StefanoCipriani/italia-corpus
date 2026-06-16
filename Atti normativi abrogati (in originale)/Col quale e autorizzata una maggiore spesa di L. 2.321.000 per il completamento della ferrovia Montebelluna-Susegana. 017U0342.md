@@ -30,7 +30,7 @@ Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concer
 
 ## Articolo unico.
 
-In aggiunta alla somma di lire quindicimilioni seicentoquarantamila quattrocento. (L. 15.640.400,00) di cui ai [Regi decreti 1° novembre 1914, n.1244](Da%20convertirsi%20in%20legge%20col%20quale%20viene%20autorizzata%20la%20costruzione%20di%20ferrovie%20a%20cura%20diretta%20dello%20Stato.%20014U1244.md) e [1° aprile 1915, n.426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-01;426) ed ai Nostri decreti 12 settembre 1915 n.1503, 17 febbraio 1916, n. 225, 27 febbraio 1916, n. 308, 1° giugno 1916, n. 970 e 13 giugno 1916, n. 971, e' autorizzata la ulteriore spesa di lire duemilioni trecentoventunmila (L.
+In aggiunta alla somma di lire quindicimilioni seicentoquarantamila quattrocento. (L. 15.640.400,00) di cui ai [Regi decreti 1° novembre 1914, n.1244](../Regi%20decreti/Da%20convertirsi%20in%20legge%20col%20quale%20viene%20autorizzata%20la%20costruzione%20di%20ferrovie%20a%20cura%20diretta%20dello%20Stato.%20014U1244.md) e [1° aprile 1915, n.426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-04-01;426) ed ai Nostri decreti 12 settembre 1915 n.1503, 17 febbraio 1916, n. 225, 27 febbraio 1916, n. 308, 1° giugno 1916, n. 970 e 13 giugno 1916, n. 971, e' autorizzata la ulteriore spesa di lire duemilioni trecentoventunmila (L.
 2.321.000) da erogarsi per lire un milione (L. 1.000 000) nel corrente esercizio finanziario e per lire unmilione trecentoventunmila (L. 1.321.000) nel venturo esercizio per far fronte alla spesa occorrente per la completa ultimazione della ferrovia Montebelluna - Susegana. 
  
  La detta somma di lire duemilioni trecentoventunmila (L.

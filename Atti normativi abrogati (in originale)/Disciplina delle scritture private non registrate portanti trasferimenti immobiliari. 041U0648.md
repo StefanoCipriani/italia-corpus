@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto l'art. 18 della legge 19 gennaio 1939-XVII, n. 129;
 
-Visti i [Regi decreti 30 dicembre 1923, nn. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e [3272](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approvano il testo delle leggi sulle imposte di registro ed ipotecarie e successive disposizioni;
+Visti i [Regi decreti 30 dicembre 1923, nn. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md) e [3272](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), che approvano il testo delle leggi sulle imposte di registro ed ipotecarie e successive disposizioni;
 
 Visto il R. decreto-legge 14 giugno 1940-XVIII, n. 643, convertito, con modificazioni, nella [legge 21 ottobre 1940, n. 1511](Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20giugno%201940-XVIII%20n.%20643%20riguardante%20ladeguamento%20dellimposta%20di%20registro%20al%20plusvalore%20dei%20beni%20immobili%20nei%20trasferimenti%20_4497505da65d.md), concernente adeguamento dell'imposta di registro, al plusvalore dei beni immobili nei trasferimenti per atto tra vivi e modifiche di alcune aliquote della tariffa relative alle imposte di registro ed ipotecarie;
 
@@ -34,7 +34,7 @@ Gli atti per scrittura privata, portanti trasferimenti immobiliari posti in esse
  
  E' nullo qualunque patto diretto a derogare a questa disposizione. 
  
- La risoluzione puo' essere effettuata mediante notificazione di atto di recesso per ufficiale giudiziario, il quale e' esonerato dalla responsabilita' prevista dall'art. 118 della legge del registro approvata con [R. decreto 30 dicembre 1923, numero 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md). 
+ La risoluzione puo' essere effettuata mediante notificazione di atto di recesso per ufficiale giudiziario, il quale e' esonerato dalla responsabilita' prevista dall'art. 118 della legge del registro approvata con [R. decreto 30 dicembre 1923, numero 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md). 
  
  L'atto di risoluzione e' soggetto ad imposta fissa, comprensiva anche di quella che sarebbe dovuta per il trasferimento risoluto, salva l'applicazione del 2° comma dell'art. 64 della citata legge del registro. Allo stesso trattamento tributario e' soggetta la risoluzione consensuale fatta per contratto.
 

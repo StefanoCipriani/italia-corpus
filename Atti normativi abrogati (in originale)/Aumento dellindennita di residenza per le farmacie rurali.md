@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La misura massima dell'indennita', di residenza a favore delle farmacie rurali, prevista dall'[art. 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115), modificato dall'[art. 1 della legge 28 dicembre 1940, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-28;1868#art_1), e' elevata da. L. 4000 a L. 80.000 annue.
+La misura massima dell'indennita', di residenza a favore delle farmacie rurali, prevista dall'[art. 115 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), modificato dall'[art. 1 della legge 28 dicembre 1940, n. 1868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-28;1868#art_1), e' elevata da. L. 4000 a L. 80.000 annue.
  La predetta indennita', nel caso di farmacie non di nuova istituzione, puo' essere concessa qualora il reddito medio imponibile, accertato agli effetti dell'applicazione dell'imposta di ricchezza mobile nell'ultimo triennio, non sia superiore a L. 120.000.
 
 ## Art. 2.
@@ -31,9 +31,9 @@ Per il 1950, il contributo annuo da corrispondersi da tutte le farmacie, escluse
 
 ## Art. 3.
 
-Nei Comuni di cui all'art. 332 del testo unico della legge comunale e provinciale 3 marzo 1934, n. 383, il rimborso al Comune previsto dal [secondo comma dell'art. 115 del testo unico della legge sanitaria](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115-com2) 27 luglio 1934, n. 1265, puo' essere effettuato per l'intero ammontare dell'indennita' di residenza di cui all'art. 1. 
+Nei Comuni di cui all'art. 332 del testo unico della legge comunale e provinciale 3 marzo 1934, n. 383, il rimborso al Comune previsto dal [secondo comma dell'art. 115 del testo unico della legge sanitaria](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265, puo' essere effettuato per l'intero ammontare dell'indennita' di residenza di cui all'art. 1. 
  Rimane fermo, in ogni caso, il disposto del terzo comma del citato art. 115. 
- Ove i fondi del capitolo di bilancio previsto dall'[art. 2 del regio decreto 14 febbraio 1935, n. 344](Applicazione%20della%20tassa%20sulle%20farmacie.%20035U0344.md), non siano sufficienti ad una corresponsione integrale, l'indennita' di residenza verra' ridotta in misura uniforme per tutte le farmacie dei Comuni di cui al primo comma.
+ Ove i fondi del capitolo di bilancio previsto dall'[art. 2 del regio decreto 14 febbraio 1935, n. 344](../Regi%20decreti/Applicazione%20della%20tassa%20sulle%20farmacie.%20035U0344.md), non siano sufficienti ad una corresponsione integrale, l'indennita' di residenza verra' ridotta in misura uniforme per tutte le farmacie dei Comuni di cui al primo comma.
 
 ## Art. 4.
 

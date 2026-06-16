@@ -22,9 +22,9 @@ Visto il [R. decreto 15 luglio 1926, n. 1385](Riordinamento%20dei%20collegi%20mi
 
 Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
 
-Visto il [R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726), sull'ordinamento delle scuole militari, modificato dai [Regi decreti 29 giugno 1933, n. 944](Modificazioni%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20Scuole%20militari.%20033U0944.md), e [28 dicembre 1933, n. 1918](Modifica%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20scuole%20militari.%20033U1918.md),
+Visto il [R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), sull'ordinamento delle scuole militari, modificato dai [Regi decreti 29 giugno 1933, n. 944](Modificazioni%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20Scuole%20militari.%20033U0944.md), e [28 dicembre 1933, n. 1918](Modifica%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20scuole%20militari.%20033U1918.md),
 
-Visto il [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), sull'ordinamento della istruzione media e dei convitti nazionali, e successive modificazioni;
+Visto il [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sull'ordinamento della istruzione media e dei convitti nazionali, e successive modificazioni;
 
 Visto il regolamento sugli alunni, gli esami e le tasse negli istituti medi di istruzione, approvato con [R. decreto 4 maggio 1925, n. 653](Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), e successive modificazioni;
 
@@ -104,19 +104,19 @@ Il beneficio dell'abbreviazione di un anno rispetto all'intervallo prescritto pe
 
 ## Art. 7.
 
-All'[art. 7 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726#art_7), e' aggiunto il seguente comma: 
+All'[art. 7 del R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), e' aggiunto il seguente comma: 
  
  «Gli allievi dei collegi militari che abbiano conseguito la maturita' classica o scientifica, sempreche' riuniscano le condizioni prescritte, avranno la precedenza assoluta nell'ammissione ai corsi ordinari, salvo l'accertamento dell'idoneita' nell'esame di matematica se aspiranti all'Accademia di artiglieria e genio».
 
 ## Art. 8.
 
-All'[art. 17 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726#art_17), e' aggiunto il seguente comma: 
+All'[art. 17 del R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), e' aggiunto il seguente comma: 
  
  «Salvi i benefici cime possono loro competere a sensi dei successivi articoli, agli allievi provenienti dai collegi militari di cui all'ultimo comma del precedente art. 7 e' accordata la dispensa dalla meta' delle spese di prima vestizione».
 
 ## Art. 9.
 
-All'[art. 20 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726#art_20), e' sostituito il seguente: 
+All'[art. 20 del R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), e' sostituito il seguente: 
  
  «Il beneficio della retta gratuita (cumulo di due mezze rette), o della mezza retta gratuita, non si estende alle quote di prima vestizione e di manutenzione corredo, salvo, per i provenienti dai collegi militari, quanto e' previsto dall'ultimo comma dell'art. 17».
 

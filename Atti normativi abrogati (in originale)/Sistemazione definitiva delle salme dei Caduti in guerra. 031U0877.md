@@ -60,7 +60,7 @@ I progetti tecnici delle opere da eseguirsi nei cimiteri di guerra del Regno son
 
 ## Art. 10.
 
-I contratti stipulati dall'Ufficio centrale per lavori e forniture varie relativi alla sistemazione delle sepolture militari, nonche' quelli di locazione d'opera, saranno approvati e resi esecutivi dal commissario quando l'importo previsto non superi i limiti indicati negli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_5) e [6 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), sulla contabilita' generale dello Stato. 
+I contratti stipulati dall'Ufficio centrale per lavori e forniture varie relativi alla sistemazione delle sepolture militari, nonche' quelli di locazione d'opera, saranno approvati e resi esecutivi dal commissario quando l'importo previsto non superi i limiti indicati negli [articoli 5](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [6 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato. 
  Al commissario medesimo e' consentito di provvedere ai servizi ad economia quando l'importo previsto non superi il limite indicato nell'art. 8 del Regio decreto predetto.
 
 ## Art. 11.

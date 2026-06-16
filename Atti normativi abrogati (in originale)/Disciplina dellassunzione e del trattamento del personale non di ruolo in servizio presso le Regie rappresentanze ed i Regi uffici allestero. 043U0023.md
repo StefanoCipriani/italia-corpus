@@ -66,7 +66,7 @@ Nel caso che per esigenze di carattere eccezionale dipendenti da avvenimenti int
  a) per i primi due mesi, a partire dal giorno in cui il personale ha lasciato l'Ufficio, la retribuzione mensile base, e l'eventuale aggiunta di famiglia, oltre l'indennita' di sede e relative maggiorazioni in misura non superiore al 50 %; 
  b) per il periodo successivo la retribuzione mensile base e l'eventuale aggiunta di famiglia. 
  
- A detto personale in tali circostanze di rimpatrio, compete per i soli giorni di viaggio, trattamento di missione fissato dal [R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), per grado iniziale del groppo al quale e' stato assimilato. 
+ A detto personale in tali circostanze di rimpatrio, compete per i soli giorni di viaggio, trattamento di missione fissato dal [R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), per grado iniziale del groppo al quale e' stato assimilato. 
  
  Uguale trattamento di missione gli sara' fatto nel caso che, dopo detto rimpatrio, sempre per le stesse esigenze, sia destinato presso altra sede, o rientri nella sede. 
  

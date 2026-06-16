@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 1° luglio 1922, n. 919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-07-01;919), che istituisce l'Ente autonomo «Fiera campionaria internazionale di Milano»;
+Visto il [R. decreto 1° luglio 1922, n. 919](../Regi%20decreti/Che%20erige%20in%20Ente%20morale%20la%20Fiera%20di%20Milano%20campionaria%20internazionale.%20022U0919.md), che istituisce l'Ente autonomo «Fiera campionaria internazionale di Milano»;
 
 Ritenuta la opportunita' di modificare lo statuto dell'Ente suddetto;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale;
 
 ## Articolo unico.
 
-Lo statuto dell'Ente autonomo «Fiera campionaria internazionale di Milano» di cui all'art. 3 del. [R. decreto 1° luglio 1922, n. 919](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-07-01;919), e' modificato secondo l'unito testo, visto, d'ordine Nostro, ed approvato dal Ministro proponente. 
+Lo statuto dell'Ente autonomo «Fiera campionaria internazionale di Milano» di cui all'art. 3 del. [R. decreto 1° luglio 1922, n. 919](../Regi%20decreti/Che%20erige%20in%20Ente%20morale%20la%20Fiera%20di%20Milano%20campionaria%20internazionale.%20022U0919.md), e' modificato secondo l'unito testo, visto, d'ordine Nostro, ed approvato dal Ministro proponente. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

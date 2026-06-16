@@ -16,7 +16,7 @@ IL MINISTRO DEL TESORO
  
  Veduto il regolamento per la esecuzione della legge predetta, approvato con [R. decreto 16 giugno 1881, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-06-16;133) (Serie 3ª); 
  
- Veduto il [R. decreto 11 marzo 1883, n. 1231](Che%20stabilisce%20i%20distintivi%20dei%20biglietti%20di%20nuova%20forma%20da%20lire%2010.%20083U1231.md) (Serie 3ª) col quale furono pubblicati i distintivi ed i segni caratteristici dei biglietti di Stato da lire 10; 
+ Veduto il [R. decreto 11 marzo 1883, n. 1231](../Regi%20decreti/Che%20stabilisce%20i%20distintivi%20dei%20biglietti%20di%20nuova%20forma%20da%20lire%2010.%20083U1231.md) (Serie 3ª) col quale furono pubblicati i distintivi ed i segni caratteristici dei biglietti di Stato da lire 10; 
  
  Veduto l'altro R. decreto 5 febbraio corrente 1888, n. 5204 (Serie 3ª) che modifico' i distintivi ed i segni caratteristici del biglietto predetto; 
  

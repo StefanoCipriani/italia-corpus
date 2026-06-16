@@ -46,7 +46,7 @@ La Commissione chiamata ad esprimere il parere sulla revoca delle concessioni e'
 
 ## Art. 5.
 
-Contro il provvedimento di revoca e' ammesso soltanto ricorso al Consiglio di Stato a termini dell'art. 26 del testo unico di leggi, approvato con [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054).
+Contro il provvedimento di revoca e' ammesso soltanto ricorso al Consiglio di Stato a termini dell'art. 26 del testo unico di leggi, approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md).
 
 ## Art. 6.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 17 luglio 1910, n. 536](Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), che approva il [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md);
+Veduto il [R. decreto 17 luglio 1910, n. 536](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md), che approva il [testo unico delle leggi sul Debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md);
 
 Ritenuta l'urgente necessita' di far luogo all'operazione di conversione del debito fruttifero a breve termine dello Stato in un debito consolidato;
 

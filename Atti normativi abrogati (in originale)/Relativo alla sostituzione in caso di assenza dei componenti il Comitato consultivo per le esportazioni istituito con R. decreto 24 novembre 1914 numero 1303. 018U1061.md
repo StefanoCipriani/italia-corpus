@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-I componenti del Comitato consultivo per le esportazioni istituito con [R. decreto 24 novembre 1914, n. 1303](Col%20quale%20viene%20istituito%20un%20Comitato%20consultivo%20per%20lapplicazione%20delle%20disposizioni%20relative%20ai%20divieti%20di%20esportazione%20e%20di%20transito.%20014U1303.md), possono, in caso di loro assenza, essere sostituiti temporaneamente con altri funzionari o uffici di della stessa Amministrazione da essi rappresentata nel detto Comitato, designati al ministro delle finanze da quello che presiede all'Amministrazione medesima.
+I componenti del Comitato consultivo per le esportazioni istituito con [R. decreto 24 novembre 1914, n. 1303](../Regi%20decreti/Col%20quale%20viene%20istituito%20un%20Comitato%20consultivo%20per%20lapplicazione%20delle%20disposizioni%20relative%20ai%20divieti%20di%20esportazione%20e%20di%20transito.%20014U1303.md), possono, in caso di loro assenza, essere sostituiti temporaneamente con altri funzionari o uffici di della stessa Amministrazione da essi rappresentata nel detto Comitato, designati al ministro delle finanze da quello che presiede all'Amministrazione medesima.
 
 ## Art. 2.
 

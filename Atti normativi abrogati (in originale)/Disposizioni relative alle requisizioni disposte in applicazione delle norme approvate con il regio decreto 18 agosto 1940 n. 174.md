@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), con il quale sono state approvate le norme per la disciplina delle requisizioni, e successive aggiunte e modificazioni;
+Visto il [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), con il quale sono state approvate le norme per la disciplina delle requisizioni, e successive aggiunte e modificazioni;
 
 Visto il [decreto legislativo luogotenenziale 8 febbraio 1946, n. 49](../Decreti%20legislativi%20luogotenenziali/Cessazione%20dello%20stato%20di%20guerra%20e%20passaggio%20dalla%20legislazione%20di%20guerra%20a%20quella%20di%20pace.md), riguardante la cessazione dello stato di guerra ed il passaggio dalla stato di guerra a quello di pace;
 
@@ -24,14 +24,14 @@ sulla proposta del Presidente del Consiglio dei Ministri, di concerto con tutti 
 
 ## Art. 1.
 
-Le requisizioni dei beni immobili di aziende e stabilimenti, disposte in applicazione delle norme approvate con il [regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), conservano la loro efficacia per il termine fissato nell'ordine di requisizione e, in ogni caso, non oltre il termine, decorrente dall'entrata in vigore de presente decreto, di: 
+Le requisizioni dei beni immobili di aziende e stabilimenti, disposte in applicazione delle norme approvate con il [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), conservano la loro efficacia per il termine fissato nell'ordine di requisizione e, in ogni caso, non oltre il termine, decorrente dall'entrata in vigore de presente decreto, di: 
  a) sei mesi per gli immobili adibiti ad uso di abitazione; 
  b) quattro mesi per gli stabilimenti, le aziende e gli immobili adibiti ad uso diverso da quello di abitazione. 
  I beni mobili requisiti in uso ai sensi delle norme indicate nel precedente comma dovranno essere riconsegnati nel termine di tre mesi dalla data della requisizione.
 
 ## Art. 2.
 
-Resta ferma l'efficacia delle disposizioni relative alla liquidazione e pagamento delle indennita'; alla riconsegna dei beni requisiti; ai ricorsi ed alle decisioni delle controversie contenute nelle norme approvate con il [regio decreto 18 agosto 1940, n. 1741](Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), e successive aggiunte e modificazioni.
+Resta ferma l'efficacia delle disposizioni relative alla liquidazione e pagamento delle indennita'; alla riconsegna dei beni requisiti; ai ricorsi ed alle decisioni delle controversie contenute nelle norme approvate con il [regio decreto 18 agosto 1940, n. 1741](../Regi%20decreti/Norme%20per%20la%20disciplina%20delle%20requisizioni.%20040U1741.md), e successive aggiunte e modificazioni.
 
 ## Art. 3.
 

@@ -20,9 +20,9 @@ Visti i risultati del censimento della popolazione eseguito nel 1921 e tenuto co
 
 Visto il [R. decreto n. 544 del 4 marzo 1923](Che%20modifica%20le%20circoscrizioni%20delle%20provincie%20di%20Firenze%20e%20di%20Forli.%20023U0544.md);
 
-Visto il [R. decreto n. 1911 del 2 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1911);
+Visto il [R. decreto n. 1911 del 2 settembre 1923](../Regi%20decreti/Istituzione%20della%20provincia%20di%20Taranto.%20023U1911.md);
 
-Visto il [R. decreto n. 1913 del 2 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1913);
+Visto il [R. decreto n. 1913 del 2 settembre 1923](../Regi%20decreti/Istituzione%20della%20provincia%20della%20Spezia.%20023U1913.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della guerra; Abbiamo decretato e decretiamo:
 

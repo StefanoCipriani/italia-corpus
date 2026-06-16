@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md) sullo stato degli Ufficiali della R. Marina e successive modificazioni;
 
-Visto il T.U. delle leggi sull'avanzamento degli Ufficiali dei Corpi Militari della R. Marina approvato con [R.D. 1 agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
+Visto il T.U. delle leggi sull'avanzamento degli Ufficiali dei Corpi Militari della R. Marina approvato con [R.D. 1 agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md), e successive modificazioni;
 
 Visto il [R. decreto-legge n. 82 in data 2 marzo 1944](Variazione%20provvisoria%20degli%20organici%20degli%20Ufficiali%20dei%20vari%20Corpi%20Militari%20della%20R.%20Marina.%20044U0082.md) sulla facolta' data al Ministro della Marina di apportare variazioni provvisorie agli organici degli Ufficiali dei vari Corpi Militari della R.
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per la Marina di intesa col Mini
 
 ## Art. 1.
 
-In relazione al disposto dell'[art. 1 del R. decreto-legge 2 marzo 1944, n. 82](Variazione%20provvisoria%20degli%20organici%20degli%20Ufficiali%20dei%20vari%20Corpi%20Militari%20della%20R.%20Marina.%20044U0082.md), e per la durata della presente guerra, e' data facolta' al Ministro della Marina di dar corso alle promozioni, nei modi e nei termini previsti dal T.U. delle leggi sull'avanzamento degli Ufficiali della R. Marina, approvato con [R. decreto 1 agosto 1936, n. 1493](Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md) e successive modificazioni, considerando in soprannumero, rispetto a quadri organici formati in base al predetto [R. decreto legge 2 marzo1944, n. 82](Variazione%20provvisoria%20degli%20organici%20degli%20Ufficiali%20dei%20vari%20Corpi%20Militari%20della%20R.%20Marina.%20044U0082.md), gli Ufficiali rimasti in zona occupata dal nemico. 
+In relazione al disposto dell'[art. 1 del R. decreto-legge 2 marzo 1944, n. 82](Variazione%20provvisoria%20degli%20organici%20degli%20Ufficiali%20dei%20vari%20Corpi%20Militari%20della%20R.%20Marina.%20044U0082.md), e per la durata della presente guerra, e' data facolta' al Ministro della Marina di dar corso alle promozioni, nei modi e nei termini previsti dal T.U. delle leggi sull'avanzamento degli Ufficiali della R. Marina, approvato con [R. decreto 1 agosto 1936, n. 1493](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullavanzamento%20degli%20ufficiali%20della%20Regia%20marina.%20036U1493.md) e successive modificazioni, considerando in soprannumero, rispetto a quadri organici formati in base al predetto [R. decreto legge 2 marzo1944, n. 82](Variazione%20provvisoria%20degli%20organici%20degli%20Ufficiali%20dei%20vari%20Corpi%20Militari%20della%20R.%20Marina.%20044U0082.md), gli Ufficiali rimasti in zona occupata dal nemico. 
  
  Le promozioni verranno conferite con riserva di anzianita' nei confronti degli Ufficiali eventualmente compresi nei limiti di scrutinio considerato in virtu' del presente decreto.
 

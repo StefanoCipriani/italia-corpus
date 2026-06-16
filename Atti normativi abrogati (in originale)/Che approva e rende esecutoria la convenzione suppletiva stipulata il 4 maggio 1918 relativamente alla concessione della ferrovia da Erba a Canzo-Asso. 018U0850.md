@@ -22,7 +22,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto ii [R. decreto 5 ottobre 1913, n. 1350](Col%20quale%20e%20approvata%20la%20convenzione%20stipulata%20con%20la%20Societa%20anonima%20delle%20ferrovie%20Nord-Milano%20e%20per%20la%20costruzione%20e%20lesercizio%20della%20ferrovia%20a%20vapore%20Erba-Canzo-Asso%20013U1350.md), col quale venne approvata e resa esecutoria la convenzione stipulata il 30 agosto 1913 con la «Societa' anonima delle ferrovie Nord-Milano» per la concessione della costruzione e dell'esercizio della ferrovia da Erba a Canzo-Asso; 
+ Visto ii [R. decreto 5 ottobre 1913, n. 1350](../Regi%20decreti/Col%20quale%20e%20approvata%20la%20convenzione%20stipulata%20con%20la%20Societa%20anonima%20delle%20ferrovie%20Nord-Milano%20e%20per%20la%20costruzione%20e%20lesercizio%20della%20ferrovia%20a%20vapore%20Erba-Canzo-Asso%20013U1350.md), col quale venne approvata e resa esecutoria la convenzione stipulata il 30 agosto 1913 con la «Societa' anonima delle ferrovie Nord-Milano» per la concessione della costruzione e dell'esercizio della ferrovia da Erba a Canzo-Asso; 
  
  Vista l'istanza presentata dalla detta Societa' in data 3 giugno 1917; 
  

@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico sull'ordinamento del Corpo Reale Equipaggi Marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
+Visto il testo unico sull'ordinamento del Corpo Reale Equipaggi Marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
 Visto il regolamento di disciplina per i Corpi militari della Regia marina, approvato con R. decreto 13 novembre 1924, e successive modificazioni;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la marina, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-L'art. 89 del testo unico sull'ordinamento del Corpo Reale Equipaggi Marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, e' abrogato e sostituito dal seguente: 
+L'art. 89 del testo unico sull'ordinamento del Corpo Reale Equipaggi Marittimi e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, e' abrogato e sostituito dal seguente: 
  
 «Art. 89. - La sospensione dall'impiego puo' avere carattere precauzionale, disciplinare o penale. 
  
@@ -59,7 +59,7 @@ Il sottufficiale sospeso dall'impiego ha diritto alla meta' del solo stipendio o
 
 ## Art. 2.
 
-Dopo l'art. 89 del testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, e' aggiunto il seguente: 
+Dopo l'art. 89 del testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, e' aggiunto il seguente: 
  
 «Art. 89-bis - Ai sottufficiali volontari, di leva e del congedo puo' essere inflitta la sospensione dal grado, la quale e' regolata dalle stesse norme, in quanto applicabili, stabilite nel precedente art. 89 per la sospensione dall'impiego. 
  

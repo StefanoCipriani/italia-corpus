@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti i Regi decreti, nn. 1911 e [1913 del 2 settembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1913), coi quali sono state istituite le due nuove provincie del Jonio con capoluogo Taranto e della Spezia con capoluogo Spezia;
+Veduti i Regi decreti, nn. 1911 e [1913 del 2 settembre 1923](../Regi%20decreti/Istituzione%20della%20provincia%20della%20Spezia.%20023U1913.md), coi quali sono state istituite le due nuove provincie del Jonio con capoluogo Taranto e della Spezia con capoluogo Spezia;
 
 Veduto il [R. decreto 18 giugno 1908, n. 397](Che%20fissa%20le%20indennita%20di%20residenza%20ai%20prefetti%20del%20Regno.%20008U0397.md);
 

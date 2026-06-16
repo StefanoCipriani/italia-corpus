@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il collocamento a riposo degli insegnanti, i quali vengano a trovarsi nelle condizioni previste dal primo comma dell'art. 134 del testo unico delle leggi sull'istruzione elementare approvato con [regio decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), viene disposto con decorrenza dal 30 settembre successivo al giorno in cui si maturano le condizioni suddette.
+Il collocamento a riposo degli insegnanti, i quali vengano a trovarsi nelle condizioni previste dal primo comma dell'art. 134 del testo unico delle leggi sull'istruzione elementare approvato con [regio decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), viene disposto con decorrenza dal 30 settembre successivo al giorno in cui si maturano le condizioni suddette.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,9 +22,9 @@ In virtu' dell'autorita' a Noi delegata e delle facolta' conferite al Governo de
 
 Vista la [legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), sull'avanzamento nel R. esercito e successive modificazioni;
 
-Visto il regolamento per l'esecuzione della legge sull'avanzamento, approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e successive modificazioni;
+Visto il regolamento per l'esecuzione della legge sull'avanzamento, approvato con [R. decreto 21 luglio 1907, n. 626](../Regi%20decreti/Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md), e successive modificazioni;
 
-Visto il [R. decreto del 4 dicembre 1898, n. 507](Relativo%20alla%20nomina%20a%20sottotenenti%20nella%20milizia%20territoriale.%20098U0507.md);
+Visto il [R. decreto del 4 dicembre 1898, n. 507](../Regi%20decreti/Relativo%20alla%20nomina%20a%20sottotenenti%20nella%20milizia%20territoriale.%20098U0507.md);
 
 Visti i [decreti luogotenenziali dell'11 luglio 1915, n. 1084](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-11;1084); del [18 maggio 1916, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-05-18;666); del [20 novembre 1916, n. 1652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-20;1652), del [4 febbraio 1917, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-02-04;187);
 

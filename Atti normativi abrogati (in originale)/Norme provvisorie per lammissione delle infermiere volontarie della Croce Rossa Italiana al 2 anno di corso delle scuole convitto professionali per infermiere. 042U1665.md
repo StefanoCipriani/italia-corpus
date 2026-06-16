@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con R. decreto 27 luglio 1934-XII, n. 1265;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265;
 
 Visto il R. decreto 21 novembre 1929-VIII, n. 2330;
 
@@ -32,7 +32,7 @@ Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, 
 
 ## Articolo unico.
 
-Durante l'attuale stato di guerra, e sino a tre anni dopo la cessazione di esso, il Ministro per l'interno, di intesa can quello per l'educazione nazionale, puo' autorizzare l'ammissione, per esami, delle infermiere volontarie dell'Associazione italiana della Croce Rossa al secondo anno di corso presso le scuole convitto professionali per infermiere, previste dall'[art. 130 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_130) approvato con R. decreto 27 luglio 1934-XII, n. 1265, per il conseguimento del relativo diploma di Stato a tutti gli effetti dell'art. 1 della legge 19 luglio 1940-XVIII, n. 1098. 
+Durante l'attuale stato di guerra, e sino a tre anni dopo la cessazione di esso, il Ministro per l'interno, di intesa can quello per l'educazione nazionale, puo' autorizzare l'ammissione, per esami, delle infermiere volontarie dell'Associazione italiana della Croce Rossa al secondo anno di corso presso le scuole convitto professionali per infermiere, previste dall'[art. 130 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto 27 luglio 1934-XII, n. 1265, per il conseguimento del relativo diploma di Stato a tutti gli effetti dell'art. 1 della legge 19 luglio 1940-XVIII, n. 1098. 
  
 Il presente decreto, che entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato alle Assemblee legislative per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
  

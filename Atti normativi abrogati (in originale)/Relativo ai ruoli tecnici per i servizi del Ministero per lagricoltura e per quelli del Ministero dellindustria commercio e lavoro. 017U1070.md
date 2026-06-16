@@ -78,7 +78,7 @@ Economato generale.
 
 I posti dei ruoli allegati al presente decreto saranno coperti con l'inquadramento di tutti i funzionari dei ruoli tecnici dell'Amministrazione centrale e mediante nomina di persone che abbiano dimostrato speciali attitudini con servizi resi all'Amministrazione durante la guerra; queste ultime nomine possono essere fatte non oltre tre mesi dalla data di pubblicazione del presente decreto. 
  
- L'inquadramento dei funzionari dei ruoli tecnici attuali sara' fatto in base agli stipendi di ciascuno, sentito il Consiglio di amministrazione dei rispettivi Ministeri, con osservanza di tutte le norme del regolamento approvato con [R. decreto 11 gennaio 1912, numero 138](Col%20quale%20viene%20approvato%20annesso%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20dellagricoltura%20industria%20e%20commercio.%20012U0138.md). 
+ L'inquadramento dei funzionari dei ruoli tecnici attuali sara' fatto in base agli stipendi di ciascuno, sentito il Consiglio di amministrazione dei rispettivi Ministeri, con osservanza di tutte le norme del regolamento approvato con [R. decreto 11 gennaio 1912, numero 138](../Regi%20decreti/Col%20quale%20viene%20approvato%20annesso%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20dellagricoltura%20industria%20e%20commercio.%20012U0138.md). 
  
  Gli attuali ispettori ed assistenti saranno inquadrati nei posti di ispettori e di vice ispettori dei nuovi ruoli. 
  

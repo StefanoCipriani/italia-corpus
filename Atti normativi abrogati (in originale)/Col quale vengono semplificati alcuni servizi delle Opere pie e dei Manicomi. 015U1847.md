@@ -38,7 +38,7 @@ Gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:189
  
  D) Dopo il secondo comma dell'articolo 80 e' aggiunto il seguente: 
  
- «Nelle controversie di cui alla lettera a) la Giunta provinciale amministrativa si pronuncia con la composizione indicata nell'art. 13 del lesto unico delle leggi sulle attribuzioni giurisdizionali della Giunta provinciale amministrativa approvato con [R. decreto 17 agosto 1907, n. 639](Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0639.md), e con la procedura prescritta nell'art. 125 del regolamento amministrativo per l'esecuzione della presente legge. 
+ «Nelle controversie di cui alla lettera a) la Giunta provinciale amministrativa si pronuncia con la composizione indicata nell'art. 13 del lesto unico delle leggi sulle attribuzioni giurisdizionali della Giunta provinciale amministrativa approvato con [R. decreto 17 agosto 1907, n. 639](../Regi%20decreti/Col%20quale%20viene%20riunito%20in%20testo%20unico%20la%20disposizione%20della%20legge%20sulla%20riforma%20degli%20Istituti%20per%20la%20giustizia%20amministrativa.%20007U0639.md), e con la procedura prescritta nell'art. 125 del regolamento amministrativo per l'esecuzione della presente legge. 
  
  La decisione della Giunta e' omessa in Camera di Consiglio, senta ministero di avvocato, e viene redatta su carta libera». 
  
@@ -60,7 +60,7 @@ Gli articoli 82, 113 (lettera e) e 125 (6° comma) del regolamento amministrativ
 
 ## Art. 3.
 
-All'articolo 31 del regolamento di contabilita' delle Istituzioni pubbliche di beneficenza, approvato con [Regio decreto 5 febbraio 1891, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-05;99), e' aggiunto il seguente comma: 
+All'articolo 31 del regolamento di contabilita' delle Istituzioni pubbliche di beneficenza, approvato con [Regio decreto 5 febbraio 1891, n. 99](../Regi%20decreti/Che%20approva%20gli%20uniti%20regolamenti%20per%20la%20esecuzione%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20beneficenza.%20091U0099.md), e' aggiunto il seguente comma: 
  
  «In caso di constatata necessita', le prelevazioni possono farsi in misura superiore al limite sopra accennato; ma la relativa deliberazione motivata deve essere preventivamente sottoposta all'approvazione della Commissione provinciale di beneficenza ed assistenza pubblica».
 

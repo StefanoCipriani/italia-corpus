@@ -75,7 +75,7 @@ I rifiuti disciplinati dal presente regolamento sono:
                                 i rifiuti da esumazioni e da estumulazioni, nonche' i rifiuti derivanti da altre attivita' cimiteriali esclusi i rifiuti vegetali provenienti da aree cimiteriali.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
  - Per il testo dell'[art. 45 del decreto legislativo 5 febbraio 1997, n. 22](Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), si veda in note all'art. 2.
  Note alle premesse:
@@ -178,10 +178,10 @@ Note all'[art. 2:
 
 1.
 
-Le parti anatomiche riconoscibili, costituite da arti inferiori, superiori e parti di essi, nonche' i resti mortali derivanti dalle operazioni di esumazione ed estumulazione restano disciplinati dal [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../DPR/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), recante regolamento di polizia mortuaria, e successive modificazioni ed integrazioni.
+Le parti anatomiche riconoscibili, costituite da arti inferiori, superiori e parti di essi, nonche' i resti mortali derivanti dalle operazioni di esumazione ed estumulazione restano disciplinati dal [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), recante regolamento di polizia mortuaria, e successive modificazioni ed integrazioni.
 
 Nota all'[art. 3:
- - Il decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../DPR/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), reca: "Approvazione del regolamento di polizia mortuaria".
+ - Il decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md), reca: "Approvazione del regolamento di polizia mortuaria".
 
 ### Art. 4. — Gestione dei rifiuti sanitari, dei rifiuti da
  esumazioni ed estumulazioni e dei rifiuti
@@ -483,14 +483,14 @@ I rifiuti di cui all'articolo 2, comma 1, lettera h), devono essere smaltiti in 
 
 2.
 
-Le sostanze stupefacenti e le altre sostanze psicotrope devono essere avviate allo smaltimento in impianti di incenerimento autorizzati ai sensi del [decreto legislativo 5 febbraio 1997, n. 22](Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), secondo le modalita' e le procedure previste dal [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
+Le sostanze stupefacenti e le altre sostanze psicotrope devono essere avviate allo smaltimento in impianti di incenerimento autorizzati ai sensi del [decreto legislativo 5 febbraio 1997, n. 22](Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), secondo le modalita' e le procedure previste dal [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 3.
 
 I rifiuti di cui all'articolo 2, comma 1, lettera h), punti 2 e 3, devono essere gestiti con le stesse modalita' dei rifiuti sanitari pericolosi a rischio infettivo.
 
 Nota all'[art. 14:
- - Il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), reca: "Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza".
+ - Il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), reca: "Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza".
 
 ## Disposizioni finali
 

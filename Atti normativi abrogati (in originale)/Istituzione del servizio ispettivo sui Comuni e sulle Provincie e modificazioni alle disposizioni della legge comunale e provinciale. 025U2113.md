@@ -26,7 +26,7 @@ E' istituito il servizio degli ispettori provinciali, affidato a funzionari dei 
 
 ## Art. 2.
 
-E' data facolta' al Prefetto di adottare, col procedimento di cui all'[art. 43 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), sanzioni disciplinari a carico dei segretari, impiegati, agenti e salariati che svolgono azione incompatibile con le generali direttive politiche del Governo. 
+E' data facolta' al Prefetto di adottare, col procedimento di cui all'[art. 43 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), sanzioni disciplinari a carico dei segretari, impiegati, agenti e salariati che svolgono azione incompatibile con le generali direttive politiche del Governo. 
  
  La sanzione disciplinare applicata dal Prefetto in base al motivo previsto dal presente articolo costituisce provvedimento definitivo.
 
@@ -36,7 +36,7 @@ I requisiti di cui ai numeri 2, 3 e 4 dell'art. 162 della legge comunale e provi
  
  Non possono essere nominati ai posti di segretari, impiegati, agenti o salariati in servizio dei detti Enti coloro che risultano aderenti ad associazioni od organizzazioni tendenti a sovvertire l'ordinamento politico dello Stato o che svolgono notoriamente azione incompatibile con le generali direttive politiche del Governo. 
  
- Ai segretari e agli impiegati delle Provincie e dei Comuni e' esteso il disposto degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_5) e [6 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_6), circa l'obbligo del giuramento, che sara' prestato rispettivamente dinanzi al presidente della Deputazione provinciale e al sindaco. 
+ Ai segretari e agli impiegati delle Provincie e dei Comuni e' esteso il disposto degli [articoli 5](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [6 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), circa l'obbligo del giuramento, che sara' prestato rispettivamente dinanzi al presidente della Deputazione provinciale e al sindaco. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

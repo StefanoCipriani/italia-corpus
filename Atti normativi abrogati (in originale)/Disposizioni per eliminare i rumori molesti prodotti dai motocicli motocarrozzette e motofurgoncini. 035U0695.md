@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), che approva le norme per la tutela delle strade e per la circolazione;
+Visto il [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), che approva le norme per la tutela delle strade e per la circolazione;
 
 Ritenuta la necessita' urgente ed assoluta, nell'interesse della pubblica quiete, d'impedire i rumori eccessivi e molesti dovuti alla inefficienza dell'apparecchio silenziatore di cui debbono essere muniti i motocicli, le motocarrozzette ed i motofurgoncini;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per le comunicazioni, di concert
 
 ## Art. 1.
 
-I Circoli ferroviari d'ispezione nel rilasciare l'autorizzazione alla circolazione di cui all'art. 69 delle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), devono accertare anche la perfetta efficienza dell'apparecchio silenziatore di cui i motocicli, le motocarrozzette ed i motofurgoncini sono provvisti, rifiutando, in caso contrario, la detta autorizzazione.
+I Circoli ferroviari d'ispezione nel rilasciare l'autorizzazione alla circolazione di cui all'art. 69 delle norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), devono accertare anche la perfetta efficienza dell'apparecchio silenziatore di cui i motocicli, le motocarrozzette ed i motofurgoncini sono provvisti, rifiutando, in caso contrario, la detta autorizzazione.
 
 ## Art. 2.
 

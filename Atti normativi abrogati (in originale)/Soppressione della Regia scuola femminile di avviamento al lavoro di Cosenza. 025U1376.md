@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), e [3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), rispettivamente legge e regolamento sulla istruzione industriale;
+Visti i [Regi decreti 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), e [3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md), rispettivamente legge e regolamento sulla istruzione industriale;
 
 Visto il [R. decreto 30 ottobre 1924, n. 2221](Riordinamento%20della%20Regia%20scuola%20professionale%20femminile%20in%20Cosenza.%20024U2221.md), concernente il riordinamento della Regia scuola femminile di avviamento al lavoro di Cosenza;
 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-All'art. 4 lettera b) del regolamento sulla riserva navale approvato con [R. decreto 30 dicembre 1909, n. 865](Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%20del%2027%20giugno%201909%20n.%20377%20sulla%20riserva%20navale.%20009U0865.md), sono soppresse le parole «non computando il tempo trascorso tra la data della predetta cessazione dal servizio e quella della loro nomina nella riserva navale».
+All'art. 4 lettera b) del regolamento sulla riserva navale approvato con [R. decreto 30 dicembre 1909, n. 865](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lapplicazione%20della%20legge%20del%2027%20giugno%201909%20n.%20377%20sulla%20riserva%20navale.%20009U0865.md), sono soppresse le parole «non computando il tempo trascorso tra la data della predetta cessazione dal servizio e quella della loro nomina nella riserva navale».
 
 ## Art. 2.
 

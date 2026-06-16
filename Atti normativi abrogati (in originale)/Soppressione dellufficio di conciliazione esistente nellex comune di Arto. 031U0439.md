@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 29 gennaio 1928, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-29;174), col quale i comuni di Boleto e Arto' sono stati riuniti in un unico Comune denominato «Madonna del Sasso» con capoluogo Boleto; 
+ Visto il [R. decreto 29 gennaio 1928, n. 174](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Boleto%20e%20Arto%20in%20un%20unico%20Comune%20denominato%20Madonna%20del%20Sasso%20con%20capoluogo%20Boleto.%20028U0174.md), col quale i comuni di Boleto e Arto' sono stati riuniti in un unico Comune denominato «Madonna del Sasso» con capoluogo Boleto; 
  
  Vista la deliberazione del podesta' del comune di Madonna del Sasso, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Arto'; 
  

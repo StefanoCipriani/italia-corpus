@@ -93,7 +93,7 @@ Ferme restando le disposizioni penali di cui al [decreto legislativo 19 settembr
 
 1.
 
-Le disposizioni di cui all'[articolo 11, comma 3, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../DPR/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md), si applicano esclusivamente agli impianti termici di potenza nominale superiore a 600 kW, a decorrere dal 1 ottobre 1995, ed a quelli superiori a 350 kW, a decorrere dal 1 giugno 1996.
+Le disposizioni di cui all'[articolo 11, comma 3, del decreto del Presidente della Repubblica 26 agosto 1993, n. 412](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20progettazione%20linstallazione%20lesercizio%20e%20la%20manutenzione%20degli%20impianti%20termici%20degli%20edifici%20ai%20fini%20del%20contenimento%20dei%20consumi%20di%20energia%20in%20attuazio_9b3be45049cf.md), si applicano esclusivamente agli impianti termici di potenza nominale superiore a 600 kW, a decorrere dal 1 ottobre 1995, ed a quelli superiori a 350 kW, a decorrere dal 1 giugno 1996.
 
 ## Art. 5.
 

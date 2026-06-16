@@ -24,7 +24,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- - I sanitari delle Amministrazioni coloniali, in servizio, che abbiano compiuto un biennio in colonia, sono equiparati, agli effetti della partecipazione ai concorsi per sanitari condotti e per ufficiali sanitari, banditi nel Regno ai sensi del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con R. decreto 27 luglio 1934-XII, n. 1265, ai sanitari condotti ed agli ufficiali sanitari del Regno nominati in seguito a concorso, che alla data del bando si trovino tuttora in servizio. 
+ - I sanitari delle Amministrazioni coloniali, in servizio, che abbiano compiuto un biennio in colonia, sono equiparati, agli effetti della partecipazione ai concorsi per sanitari condotti e per ufficiali sanitari, banditi nel Regno ai sensi del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265, ai sanitari condotti ed agli ufficiali sanitari del Regno nominati in seguito a concorso, che alla data del bando si trovino tuttora in servizio. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

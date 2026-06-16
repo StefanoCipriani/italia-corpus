@@ -20,13 +20,13 @@ Tutti i protocolli, i registri, ed altri atti riguardanti le iscrizioni e trascr
 
 ## Art. 3.
 
-La frazione Pozzolo gia' aggregata al comune di Marmirolo ed all'ufficio ipotecario di Mantova, restituita al comune di Goito col [Regio decreto 14 ottobre 1871, n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-10-14;515), e' aggregata all'ufficio ipotecario di Castiglione delle Stiviere.
+La frazione Pozzolo gia' aggregata al comune di Marmirolo ed all'ufficio ipotecario di Mantova, restituita al comune di Goito col [Regio decreto 14 ottobre 1871, n. 515](../Regi%20decreti/Con%20cui%20alcuni%20Comuni%20delle%20Provincie%20di%20Mantova%20Verona%20e%20Brescia%20sono%20reintegrati%20nella%20rispettiva%20circoscrizione%20territoriale%20che%20avevano%20anteriormente%20al%20Trattato%20di%20Zurigo.%20071U0515.md), e' aggregata all'ufficio ipotecario di Castiglione delle Stiviere.
 
 ## Art. 4.
 
 La frazione Borghetto del comune di Valeggio Veronese, gia' aggregata a quello di Volta ed all'ufficio ipotecario di Castiglione delle Stiviere, e' restituita all'ufficio delle ipoteche di Verona. 
  
- La frazione alla sinistra del Mincio del comune di Monzambano, gia' aggregata allo stesso comune di Valeggio ed all'ufficio ipotecario di Verona, e poscia per l'[articolo 1 n. 2 del Regio decreto 14 ottobre 1871 n. 515](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-10-14;515#art_1-num2) restituita all'antico suo capoluogo di Monzambano, e' aggregata all'ufficio ipotecario di Castiglione delle Stiviere. 
+ La frazione alla sinistra del Mincio del comune di Monzambano, gia' aggregata allo stesso comune di Valeggio ed all'ufficio ipotecario di Verona, e poscia per l'[articolo 1 n. 2 del Regio decreto 14 ottobre 1871 n. 515](../Regi%20decreti/Con%20cui%20alcuni%20Comuni%20delle%20Provincie%20di%20Mantova%20Verona%20e%20Brescia%20sono%20reintegrati%20nella%20rispettiva%20circoscrizione%20territoriale%20che%20avevano%20anteriormente%20al%20Trattato%20di%20Zurigo.%20071U0515.md) restituita all'antico suo capoluogo di Monzambano, e' aggregata all'ufficio ipotecario di Castiglione delle Stiviere. 
  
  Lo stesso ha luogo per la frazione di Monzambano gia' aggregata al comune di Ponti sul Mincio, e per l'art. 1°, n. 1, dello stesso Regio decreto restituita a Monzambano.
 
@@ -54,7 +54,7 @@ Le inscrizioni e trascrizioni ipotecarie, i relativi annotamenti d'ogni specie, 
  
  In questo caso pero' gli effetti ipotecari incomincieranno dal giorno in cui le formalita' e le operazioni saranno state eseguite nei nuovi uffici. 
  
- Nulla viene mutato rispetto alla rinnovazione delle iscrizioni indicate nell'[articolo 34 del Regio decreto 25 giugno 1871, n. 284](Contenente%20disposizioni%20transitorie%20ed%20altre%20per%20lunificazione%20legislativa%20delle%20Provincie%20della%20Venezia%20e%20di%20Mantova.%20071U0284.md), serie 2ª.
+ Nulla viene mutato rispetto alla rinnovazione delle iscrizioni indicate nell'[articolo 34 del Regio decreto 25 giugno 1871, n. 284](../Regi%20decreti/Contenente%20disposizioni%20transitorie%20ed%20altre%20per%20lunificazione%20legislativa%20delle%20Provincie%20della%20Venezia%20e%20di%20Mantova.%20071U0284.md), serie 2ª.
 
 ## Art. 9.
 

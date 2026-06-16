@@ -24,7 +24,7 @@ Veduti il [Decreto-Legge Luogotenenziale 26 agosto 1917, n. 1343](Col%20quale%20
 
 Veduto il decreto 18 ottobre 1921 del Nostro Ministro Segretario di Stato per gli affari dell'Interno, registrato alla Corte dei Conti il 30 novembre 1921, registro 32, foglio 154, col quale furono fissati gli attuali prezzi di vendita e di abbonamento della «Gazzetta Ufficiale»;
 
-Veduto il [R. Decreto 7 giugno 1923, n. 1252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-07;1252);
+Veduto il [R. Decreto 7 giugno 1923, n. 1252](../Regi%20decreti/Che%20dispone%20il%20passaggio%20della%20Gazzetta%20ufficiale%20del%20Regno%20dalla%20dipendenza%20del%20Ministero%20dellinterno%20a%20quella%20del%20Ministero%20della%20giustizia%20e%20degli%20affari%20di%20culto%20e%20detta%20le%20norme%20per%20_1da86e0a2f37.md);
 
 Udito il Consiglio dei Ministri;
 

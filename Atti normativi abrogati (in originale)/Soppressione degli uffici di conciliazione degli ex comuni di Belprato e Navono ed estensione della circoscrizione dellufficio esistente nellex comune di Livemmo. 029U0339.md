@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 27 settembre 1928, n. 2371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-27;2371), col quale i comuni di Livemmo, Belprato e Navono venivano riuniti in un solo Comune denominato Pertica Alta, con sede a Livemmo; 
+ Visto il [R. decreto 27 settembre 1928, n. 2371](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bel%20Prato%20Livemmo%20e%20Navono%20in%20un%20unico%20Comune%20denominato%20Pertica%20Alta%20con%20capoluogo%20Livemmo.%20028U2371.md), col quale i comuni di Livemmo, Belprato e Navono venivano riuniti in un solo Comune denominato Pertica Alta, con sede a Livemmo; 
  
  Vista la deliberazione del podesta' di detto Comune, con la quale si chiede che per tutto il territorio del comune di Pertica Alta funzioni un solo ufficio di conciliazione; 
  

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Ai personali del R. esercito italiano, costituenti il corpo di spedizione militare italiano nella Russia settentrionale sono dovute le indennita' stabilite dal [R. decreto 23 maggio 1915, n. 677](Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), sotto l'osservanza delle disposizioni contenute nel decreto stesso e nelle norme annesse, nonche' degli altri decreti successivamente emanati circa le indennita' di guerra spettanti alle truppe in campagna, dal giorno della partenza per la Russia settentrionale fino al giorno dell'arrivo in Italia, per ritorno. 
+Ai personali del R. esercito italiano, costituenti il corpo di spedizione militare italiano nella Russia settentrionale sono dovute le indennita' stabilite dal [R. decreto 23 maggio 1915, n. 677](../Regi%20decreti/Concernente%20indennita%20speciali%20per%20le%20truppe%20in%20campagna.%20015U0677.md), sotto l'osservanza delle disposizioni contenute nel decreto stesso e nelle norme annesse, nonche' degli altri decreti successivamente emanati circa le indennita' di guerra spettanti alle truppe in campagna, dal giorno della partenza per la Russia settentrionale fino al giorno dell'arrivo in Italia, per ritorno. 
  
  Agli ufficiali del detto corpo di spedizione e' pure dovuta una indennita' di equipaggiamento nella misura di lire settecento per gli ufficiali superiori e di lire quattrocento per quelli inferiori. 
  

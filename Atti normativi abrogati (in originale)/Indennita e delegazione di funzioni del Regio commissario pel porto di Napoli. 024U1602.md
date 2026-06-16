@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 31 dicembre 1922, n. 1783](Che%20sopprime%20lEnte%20portuale%20di%20Napoli.%20022U1783.md), che sopprime l'Ente portuale di Napoli;
+Visto il [R. decreto 31 dicembre 1922, n. 1783](../Regi%20decreti/Che%20sopprime%20lEnte%20portuale%20di%20Napoli.%20022U1783.md), che sopprime l'Ente portuale di Napoli;
 
-Visto il [R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md), che stabilisce le attribuzioni del Regio commissario straordinario per il porto di Napoli;
+Visto il [R. decreto 25 marzo 1923, n. 1018](../Regi%20decreti/Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md), che stabilisce le attribuzioni del Regio commissario straordinario per il porto di Napoli;
 
 Sentito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri pe
 
 ## Art. 1.
 
-L'annua indennita' assegnata al Regio commissario straordinario per il porto di Napoli, da corrispondersi sui proventi della gestione a norma dell'[art. 8 del R. decreto 25 marzo 1923, n. 1018](Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md), e' stabilita nella misura di L. 60,000.
+L'annua indennita' assegnata al Regio commissario straordinario per il porto di Napoli, da corrispondersi sui proventi della gestione a norma dell'[art. 8 del R. decreto 25 marzo 1923, n. 1018](../Regi%20decreti/Che%20stabilisce%20le%20attribuzioni%20del%20R.%20commissario%20straordinario%20per%20il%20porto%20di%20Napoli.%20023U1018.md), e' stabilita nella misura di L. 60,000.
 
 ## Art. 2.
 

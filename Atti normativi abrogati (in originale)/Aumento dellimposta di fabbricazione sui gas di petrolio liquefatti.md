@@ -47,7 +47,7 @@ Le disposizioni di cui al [decreto-legge 5 maggio 1957, n. 271](Disposizioni%20p
 I veicoli funzionanti a gas di petrolio liquefatti entro la data del 31 dicembre 1960 dovranno essere dotati di serbatoi inamovibili.
  E' fatto divieto ai gestori degli impianti di distribuzione dei gas incondensabili di cui all'art. 1 di effettuare il rifornimento di serbatoi mobili di qualsiasi genere.
  Fino alla data del 31 dicembre 1960 i veicoli funzionanti a gas di petrolio liquefatti potranno continuare ad usufruire dei serbatoi mobili oggi in uso. Tali serbatoi dovranno essere riempiti presso le raffinerie e su di essi si dovra' applicare un apposito dispositivo fiscale.
- I proprietari o i conducenti di veicoli, i gestori degli impianti di distribuzione nonche' i titolari delle raffinerie e delle ditte esercenti il commercio di bombole per autotrazione che contravvengono alle norme di cui ai precedenti commi sono puniti con l'ammenda da lire 30.000 a lire 100.000 per ogni infrazione commisurata ad unita' di serbatoio, in deroga all'[art. 26 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ I proprietari o i conducenti di veicoli, i gestori degli impianti di distribuzione nonche' i titolari delle raffinerie e delle ditte esercenti il commercio di bombole per autotrazione che contravvengono alle norme di cui ai precedenti commi sono puniti con l'ammenda da lire 30.000 a lire 100.000 per ogni infrazione commisurata ad unita' di serbatoio, in deroga all'[art. 26 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 8.
 

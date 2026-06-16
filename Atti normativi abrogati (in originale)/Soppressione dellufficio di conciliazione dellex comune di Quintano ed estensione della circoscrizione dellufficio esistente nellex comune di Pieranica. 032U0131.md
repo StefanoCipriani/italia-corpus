@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 17 luglio 1931, n. 1080](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-17;1080), col quale i comuni di Pieranica e di Quintano venivano riuniti in unico Comune con denominazione e capoluogo «Pieranica»; 
+ Visto il [R. decreto 17 luglio 1931, n. 1080](../Regi%20decreti/Riunione%20in%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Pieranica%20dei%20comuni%20di%20Pieranica%20e%20di%20Quintano.%20031U1080.md), col quale i comuni di Pieranica e di Quintano venivano riuniti in unico Comune con denominazione e capoluogo «Pieranica»; 
  Vista la deliberazione del podesta' di Pieranica, in data 23 settembre 1931, con la quale si chiede che per tutto il territorio del nuovo comune di Pieranica funzioni un solo ufficio di conciliazione; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Brescia; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

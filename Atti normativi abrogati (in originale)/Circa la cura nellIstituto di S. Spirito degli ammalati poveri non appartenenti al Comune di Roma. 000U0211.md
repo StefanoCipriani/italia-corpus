@@ -52,7 +52,7 @@ Tutte le controversie che potessero sorgere in dipendenza della presente legge t
 
 ## Art. 6.
 
-Coll'attuazione della presente legge, cessa di avere vigore il [R. decreto 28 agosto 1896, n. 407](Che%20approva%20le%20disposizioni%20transitorie%20riguardanti%20le%20spedalita%20a%20favore%20degli%20Ospedali%20di%20Roma.%20096U0407.md). Per il rimborso delle spese di spedalita' prestate dall'Istituto di Santo Spirito ed Ospedali riuniti di Roma, ad infermi poveri non romani fino al giorno dell'attuazione della presente legge, si provvedera' con le norme stabilite nel detto decreto, ripartendo equamente in piu' esercizi l'ammontare del debito liquidato a carico degli Enti debitori. 
+Coll'attuazione della presente legge, cessa di avere vigore il [R. decreto 28 agosto 1896, n. 407](../Regi%20decreti/Che%20approva%20le%20disposizioni%20transitorie%20riguardanti%20le%20spedalita%20a%20favore%20degli%20Ospedali%20di%20Roma.%20096U0407.md). Per il rimborso delle spese di spedalita' prestate dall'Istituto di Santo Spirito ed Ospedali riuniti di Roma, ad infermi poveri non romani fino al giorno dell'attuazione della presente legge, si provvedera' con le norme stabilite nel detto decreto, ripartendo equamente in piu' esercizi l'ammontare del debito liquidato a carico degli Enti debitori. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge 
  

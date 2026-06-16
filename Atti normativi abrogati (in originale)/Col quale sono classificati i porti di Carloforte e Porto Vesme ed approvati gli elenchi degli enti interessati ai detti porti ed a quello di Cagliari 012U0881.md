@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 luglio 1888, n. 5629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-30;5629), col quale porto di Carloforte fu iscritto nella 3ª classe della seconda categoria e venne approvato l'elenco degli enti interessati al detto porto colle rispettive quote di contributo;
+Visto il [R. decreto 30 luglio 1888, n. 5629](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%20prima%20e%20seconda%20categoria%20dei%20porti%20marittimi%20indicati%20negli%20annessi%20elenchi%20colla%20designazione%20degli%20Enti%20interessati%20nelle%20spese.%20088U5629.md), col quale porto di Carloforte fu iscritto nella 3ª classe della seconda categoria e venne approvato l'elenco degli enti interessati al detto porto colle rispettive quote di contributo;
 
-Visto il [R. decreto 11 ottobre 1888, n. 5820](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-10-11;5820), con cui il porto di Cagliari fu inscritto nella 1ª classe della seconda categoria e fu approvato l'elenco degli enti interessati al porto stesso con le rispettive quote di contributo;
+Visto il [R. decreto 11 ottobre 1888, n. 5820](../Regi%20decreti/Che%20approva%20la%20classificazione%20di%20undici%20porti%20indicati%20negli%20annessi%20elenchi%20e%20la%20designazione%20degli%20Enti%20interessati%20nelle%20spese.%20088U5820.md), con cui il porto di Cagliari fu inscritto nella 1ª classe della seconda categoria e fu approvato l'elenco degli enti interessati al porto stesso con le rispettive quote di contributo;
 
 Vista l'istanza 5 novembre 1901, con cui il sindaco di Portoscuso, debitamente autorizzato con deliberazione consiliare 2 agosto stesso anno, chiese che il porto di Vesme fosse inscritto nella 2ª classe della seconda categoria;
 

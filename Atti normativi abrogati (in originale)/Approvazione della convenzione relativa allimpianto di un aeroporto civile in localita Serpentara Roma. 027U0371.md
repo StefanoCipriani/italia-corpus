@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il R. decreto 20 agosto 1923, convertito nella [legge 31 gennaio 1926, n. 753](Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), contenente provvedimenti per la navigazione aerea;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), che contiene le nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' dello Stato;
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), che contiene le nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' dello Stato;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

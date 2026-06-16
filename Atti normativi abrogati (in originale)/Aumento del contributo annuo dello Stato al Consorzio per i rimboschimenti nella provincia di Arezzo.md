@@ -10,11 +10,11 @@ vigente: true
 
 ## Art. 1.
 
-Il contributo annuo dello Stato al Consorzio per i rimboschimenti da eseguirsi nella provincia di Arezzo, determinato fino alla somma di L. 6100 col [R. decreto 4 dicembre 1927, n. 2774](Costituzione%20fra%20lo%20Stato%20e%20la%20provincia%20di%20Arezzo%20di%20un%20Consorzio%20per%20rimboschimento.%20027U2774.md), e' cosi' elevato: per l'esercizio 1945-46 a L. 45.000 e per gli esercizi futuri, fino al 1950-51 incluso, a L. 25.000.
+Il contributo annuo dello Stato al Consorzio per i rimboschimenti da eseguirsi nella provincia di Arezzo, determinato fino alla somma di L. 6100 col [R. decreto 4 dicembre 1927, n. 2774](../Regi%20decreti/Costituzione%20fra%20lo%20Stato%20e%20la%20provincia%20di%20Arezzo%20di%20un%20Consorzio%20per%20rimboschimento.%20027U2774.md), e' cosi' elevato: per l'esercizio 1945-46 a L. 45.000 e per gli esercizi futuri, fino al 1950-51 incluso, a L. 25.000.
 
 ## Art. 2.
 
-Fermo restando l'impegno assunto con [R. decreto 4 dicembre 1927, n. 2774](Costituzione%20fra%20lo%20Stato%20e%20la%20provincia%20di%20Arezzo%20di%20un%20Consorzio%20per%20rimboschimento.%20027U2774.md), per L. 6100, le occorrenti somme di L. 45.000 e L. 25.000 graveranno rispettivamente:
+Fermo restando l'impegno assunto con [R. decreto 4 dicembre 1927, n. 2774](../Regi%20decreti/Costituzione%20fra%20lo%20Stato%20e%20la%20provincia%20di%20Arezzo%20di%20un%20Consorzio%20per%20rimboschimento.%20027U2774.md), per L. 6100, le occorrenti somme di L. 45.000 e L. 25.000 graveranno rispettivamente:
  per L. 38.900 sul fondo stanziato sul capitolo 50 del bilancio passivo del Ministero dell'agricoltura e delle foreste per l'esercizio 1945-46 e
  per L. 18.900 sui corrispondenti capitoli per gli esercizi futuri.
 

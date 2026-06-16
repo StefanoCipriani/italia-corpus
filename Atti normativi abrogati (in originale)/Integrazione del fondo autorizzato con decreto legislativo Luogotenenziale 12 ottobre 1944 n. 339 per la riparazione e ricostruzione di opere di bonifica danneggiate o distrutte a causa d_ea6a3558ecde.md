@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+Visto il [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Visto il [decreto legislativo Luogotenenziale 12 ottobre 1944, n. 339](Disposizioni%20per%20da%20riparazione%20e%20ricostruzione%20delle%20opere%20pubbliche%20di%20bonifica%20danneggiate%20o%20distrutte%20a%20causa%20della%20guerra.%20044U0339.md), con il quale fu autorizzata un'assegnazione di 500 milioni per l'esecuzione di lavori di urgente riparazione e ricostruzione di opere pubbliche di bonifica danneggiate o distrutte in conseguenza di azioni belliche;
 

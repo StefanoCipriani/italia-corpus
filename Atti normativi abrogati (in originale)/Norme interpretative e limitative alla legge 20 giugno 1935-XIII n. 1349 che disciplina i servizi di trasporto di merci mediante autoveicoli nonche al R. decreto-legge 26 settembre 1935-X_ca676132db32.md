@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e dei No
 
 Non sono soggetti alle norme previste dalla legge 20 giugno 1935-XIII, n. 1349: 
  
- a) gli autoveicoli di proprieta' delle persone indicate all'[art. 12, nn. 1](Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md) e [2, del R. decreto 28 giugno 1866, n. 3022](Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md); 
+ a) gli autoveicoli di proprieta' delle persone indicate all'[art. 12, nn. 1](../Regi%20decreti/Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md) e [2, del R. decreto 28 giugno 1866, n. 3022](../Regi%20decreti/Che%20stabilisce%20la%20tariffa%20delle%20tasse%20sulle%20vetture%20pubbliche%20e%20private.%20066U3022.md); 
  
  b) gli autoveicoli, adibiti al trasporto di merci, in dotazione fissa dei Corpi armati dello Stato, purche' siano condotti da militari ed agenti, sia in divisa, sia muniti di apposito distintivo facilmente riconoscibile; 
  

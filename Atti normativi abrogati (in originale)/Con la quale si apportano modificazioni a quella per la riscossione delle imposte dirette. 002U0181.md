@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Nel testo unico delle leggi per la riscossione delle imposte dirette, approvato col [R. decreto 23 giugno 1897, n. 236](Che%20approva%20rispettivamente%20il%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20097U0236.md), sono sostituiti od aggiunti i seguenti articoli: 
+Nel testo unico delle leggi per la riscossione delle imposte dirette, approvato col [R. decreto 23 giugno 1897, n. 236](../Regi%20decreti/Che%20approva%20rispettivamente%20il%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20097U0236.md), sono sostituiti od aggiunti i seguenti articoli: 
  
  TITOLO I. 
  
@@ -354,11 +354,11 @@ Nel testo unico delle leggi per la riscossione delle imposte dirette, approvato 
 
 ## Art. 2.
 
-Il Governo del Re, previo parere della Corte dei conti e del Consiglio di Stato, ha facolta' di introdurre nel Regolamento per l'esecuzione delle leggi sulla riscossione delle imposte dirette, approvato con [R. decreto 23 giugno 1897, n. 237](Che%20approva%20rispettivamente%20il%20testo%20unico%20delle%20leggi%20e%20il%20regolamento%20sulla%20riscossione%20delle%20imposte%20dirette.%20097U0237.md), le modificazioni necessarie per l'esecuzione della presente legge.
+Il Governo del Re, previo parere della Corte dei conti e del Consiglio di Stato, ha facolta' di introdurre nel Regolamento per l'esecuzione delle leggi sulla riscossione delle imposte dirette, approvato con [R. decreto 23 giugno 1897, n. 237](../Regi%20decreti/Che%20approva%20rispettivamente%20il%20testo%20unico%20delle%20leggi%20e%20il%20regolamento%20sulla%20riscossione%20delle%20imposte%20dirette.%20097U0237.md), le modificazioni necessarie per l'esecuzione della presente legge.
 
 ## Art. 3.
 
-Gli articoli della presente legge sono sostituiti agli articoli corrispondenti del testo unico approvato con [R. decreto 23 giugno 1897, n. 236](Che%20approva%20rispettivamente%20il%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20097U0236.md), per formare il nuovo testo unico della legge sulla riscossione delle imposte dirette. 
+Gli articoli della presente legge sono sostituiti agli articoli corrispondenti del testo unico approvato con [R. decreto 23 giugno 1897, n. 236](../Regi%20decreti/Che%20approva%20rispettivamente%20il%20testo%20unico%20delle%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette.%20097U0236.md), per formare il nuovo testo unico della legge sulla riscossione delle imposte dirette. 
  
  Agli articoli 101, 102 e 103 del testo predetto e' assegnato rispettivamente il numero 102, 103 e 104.
 

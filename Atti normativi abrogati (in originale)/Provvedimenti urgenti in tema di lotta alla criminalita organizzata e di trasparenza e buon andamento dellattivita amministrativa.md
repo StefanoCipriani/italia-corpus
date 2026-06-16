@@ -30,13 +30,13 @@ Capo I
 
 L'affidamento in prova al servizio sociale, la detenzione domiciliare e la semiliberta' non possono essere concessi ai condannati per taluno dei seguenti delitti:
                             a)
-                                delitti di cui agli [articoli 285](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [286](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [416-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [422](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [630 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                delitti di cui agli [articoli 285](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [286](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [416-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [422](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [630 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             b)
                                 delitti commessi avvalendosi delle condizioni previste dal predetto articolo 416-bis;
                             c)
                                 delitti commessi per finalita' di terrorismo o di eversione dell'ordinamento costituzionale per i quali la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel minimo a cinque anni o nel massimo a dieci;
                             d)
-                                delitti di cui agli articoli 73, limitatamente alle ipotesi aggravate ai sensi dell'articolo 80, comma 2, e 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
+                                delitti di cui agli articoli 73, limitatamente alle ipotesi aggravate ai sensi dell'articolo 80, comma 2, e 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 2.
 
@@ -44,11 +44,11 @@ Le persone indicate nel comma 1 non possono essere ammesse al lavoro all'esterno
 
 3.
 
-I condannati per taluno dei delitti di cui agli [articoli 575](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [628, terzo comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e [629, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non possono essere affidati in prova al servizio sociale, salvo quanto previsto dall'[articolo 47- bis della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47bis), e la semiliberta' puo' essere loro concessa, in caso di condanna a pena temporanea, solo dopo l'espiazione di almeno due terzi della pena. Le stesse persone possono essere ammesse al lavoro all'esterno e possono usufruire dei permessi premio solo dopo aver scontato meta' della pena o, se condannate all'ergastolo, quindici anni di pena.
+I condannati per taluno dei delitti di cui agli [articoli 575](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [628, terzo comma](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e [629, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) non possono essere affidati in prova al servizio sociale, salvo quanto previsto dall'[articolo 47- bis della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47bis), e la semiliberta' puo' essere loro concessa, in caso di condanna a pena temporanea, solo dopo l'espiazione di almeno due terzi della pena. Le stesse persone possono essere ammesse al lavoro all'esterno e possono usufruire dei permessi premio solo dopo aver scontato meta' della pena o, se condannate all'ergastolo, quindici anni di pena.
 
 4.
 
-Salvo quanto previsto dal [secondo comma dell'articolo 176 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dall'[articolo 8 della legge 29 maggio 1982, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;304#art_8), il condannato alla pena della reclusione per taluno dei delitti indicati nei commi 1 e 3 non puo' essere ammesso alla liberazione condizionale se non ha scontato almeno due terzi della pena inflittagli.
+Salvo quanto previsto dal [secondo comma dell'articolo 176 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dall'[articolo 8 della legge 29 maggio 1982, n. 304](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-29;304#art_8), il condannato alla pena della reclusione per taluno dei delitti indicati nei commi 1 e 3 non puo' essere ammesso alla liberazione condizionale se non ha scontato almeno due terzi della pena inflittagli.
 
 ### Art. 2.
 
@@ -60,7 +60,7 @@ Fermo quanto previsto dall'[articolo 275, comma 4, del codice di procedura penal
 
 1.
 
-Per i reati commessi anteriormente alla data di entrata in vigore della [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162), i riferimenti ai delitti di cui agli articoli 73, 74 e 80 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), contenuti nel presente capo si intendono effettuati alle corrispondenti fattispecie della [legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685), nel testo vigente anteriormente alla data di entrata in vigore della [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162).
+Per i reati commessi anteriormente alla data di entrata in vigore della [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162), i riferimenti ai delitti di cui agli articoli 73, 74 e 80 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), contenuti nel presente capo si intendono effettuati alle corrispondenti fattispecie della [legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685), nel testo vigente anteriormente alla data di entrata in vigore della [legge 26 giugno 1990, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;162).
 
 2.
 
@@ -95,7 +95,7 @@ Capo III
 1.
 
 Il [primo comma dell'articolo 7 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20mafia.md), e' sostituito dal seguente: 
- "Le pene stabilite per i delitti previsti dagli articoli 336, 338, 353, 378, 379, 416, 416-bis, 424, 435, 513-bis, 575, 605, 610, 611, 612, 628, 629, 630, 632, 633, 634, 635, 636, 637, 638, 640- bis in relazione all'[articolo 640](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648- ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono aumentate da un terzo alla meta' e quelle stabilite per le contravvenzioni di cui agli articoli 695, primo comma, 696, 697, 698, 699 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono raddoppiate se il fatto e' commesso da persona sottoposta ad una misura di prevenzione.".
+ "Le pene stabilite per i delitti previsti dagli articoli 336, 338, 353, 378, 379, 416, 416-bis, 424, 435, 513-bis, 575, 605, 610, 611, 612, 628, 629, 630, 632, 633, 634, 635, 636, 637, 638, 640- bis in relazione all'[articolo 640](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648- ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono aumentate da un terzo alla meta' e quelle stabilite per le contravvenzioni di cui agli articoli 695, primo comma, 696, 697, 698, 699 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono raddoppiate se il fatto e' commesso da persona sottoposta ad una misura di prevenzione.".
 
 ### Art. 7.
 
@@ -108,11 +108,11 @@ L'[articolo 9 della legge 31 maggio 1965, n. 575](Disposizioni%20contro%20la%20m
 
 1.
 
-Per i delitti commessi per agevolare l'attivita' delle associazioni previste dall'[articolo 416- bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), punibili con pena diversa dall'ergastolo, la pena e' aumentata da un terzo alla meta'.
+Per i delitti commessi per agevolare l'attivita' delle associazioni previste dall'[articolo 416- bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), punibili con pena diversa dall'ergastolo, la pena e' aumentata da un terzo alla meta'.
 
 2.
 
-Le circostanze attenuanti, diverse da quella prevista dall'[articolo 98 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), concorrenti con l'aggravante di cui al comma 1 non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alla predetta aggravante.
+Le circostanze attenuanti, diverse da quella prevista dall'[articolo 98 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), concorrenti con l'aggravante di cui al comma 1 non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alla predetta aggravante.
 
 ## DISPOSIZIONI IN TEMA DI ARMI
 
@@ -130,7 +130,7 @@ Dopo l'[articolo 20 della legge 18 aprile 1975, n. 110](https://www.normattiva.i
 
 2.
 
-L'[articolo 702 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' abrogato.
+L'[articolo 702 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' abrogato.
 
 ### Art. 10.
 
@@ -152,7 +152,7 @@ La [lettera g) del comma 2 dell'articolo 380 del codice di procedura penale](htt
 
 1.
 
-All'[articolo 42 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_42), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e' aggiunto, in fine, il seguente comma: 
+All'[articolo 42 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' aggiunto, in fine, il seguente comma: 
  "La licenza di porto d'armi lunghe da fuoco puo' essere rilasciata per difesa nei casi di dimostrato bisogno ovvero di uso di caccia ovvero per uso di tiro o sportivo. Quando e' rilasciata la licenza per uso di caccia o quella per uso di tiro o sportivo, il porto dell'arma e' consentito nei luoghi predisposti per il tiro o in quelli in cui puo' svolgersi l'attivita' venatoria. Per il trasporto dell'arma lunga nei luoghi predetti non e' richiesto l'avviso di cui al secondo comma dell'articolo 34.".
 
 ## AGGRAVANTI PER LA DETERMINAZIONE O LA UTILIZZAZIONE DI MINORENNI E DI NON IMPUTABILI O NON PUNIBILI NELLA COMMISSIONE DI REATI.
@@ -163,13 +163,13 @@ Capo V
 
 1.
 
-All'[articolo 111 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto, in fine, il seguente periodo: "Se si tratta di delitti per i quali e' previsto l'arresto in flagranza, la pena e' aumentata da un terzo alla meta'.".
+All'[articolo 111 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto, in fine, il seguente periodo: "Se si tratta di delitti per i quali e' previsto l'arresto in flagranza, la pena e' aumentata da un terzo alla meta'.".
 
 ### Art. 14.
 
 1.
 
-All'[articolo 112, primo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il n. 4) e' sostituito dal seguente: 
+All'[articolo 112, primo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il n. 4) e' sostituito dal seguente: 
  "n. 4) per chi, fuori del caso preveduto dall'articolo precedente, ha determinato a commettere il reato un minore degli anni diciotto o una persona in stato d'infermita' o di deficienza psichica ovvero si e' comunque avvalso degli stessi, o di persona non imputabile o non punibile a cagione di una condizione o qualita' personale, nella commissione di un delitto per il quale e' previsto l'arresto in flagranza.".
 
 ## COORDINAMENTO E SPECIALIZZAZIONE DEI SERVIZI DI POLIZIA GIUDIZIARIA

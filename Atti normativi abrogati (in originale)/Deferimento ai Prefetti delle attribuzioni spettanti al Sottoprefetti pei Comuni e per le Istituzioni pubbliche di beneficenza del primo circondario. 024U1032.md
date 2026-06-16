@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduto l'[art. 3 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md); 
+ Veduto l'[art. 3 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md); 
  
  Udito il Consiglio dei Ministri; 
  
@@ -24,9 +24,9 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Finche' non saranno istituite le Sottoprefetture nei capoluoghi di provincia, le attribuzioni affidate ai Sottoprefetti dai [Regi decreti 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), [2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), [2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md) e [3047](Riforma%20della%20legge%2029%20marzo%201903%20n.%20103%20per%20lassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20023U3047.md), per i Comuni e per le Istituzioni pubbliche di assistenza, e beneficenza del primo circondario, continueranno ad essere esercitate dai Prefetti. 
+ Finche' non saranno istituite le Sottoprefetture nei capoluoghi di provincia, le attribuzioni affidate ai Sottoprefetti dai [Regi decreti 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), [2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), [2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md) e [3047](../Regi%20decreti/Riforma%20della%20legge%2029%20marzo%201903%20n.%20103%20per%20lassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20023U3047.md), per i Comuni e per le Istituzioni pubbliche di assistenza, e beneficenza del primo circondario, continueranno ad essere esercitate dai Prefetti. 
  
- Contro i provvedimenti, emanati dai Prefetti a norma del comma precedente, e' ammesso il ricorso previsto alla [lettera b) dell'articolo 113 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), al penultimo comma dell'[articolo 42 del R. decreto 30 dicembre 1923, n. 2841](Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), all'[articolo 86 lettera c) del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), ed all'ultima parte dell'[art. 15 del R. decreto 30 dicembre 1923, n. 3047](Riforma%20della%20legge%2029%20marzo%201903%20n.%20103%20per%20lassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20023U3047.md). 
+ Contro i provvedimenti, emanati dai Prefetti a norma del comma precedente, e' ammesso il ricorso previsto alla [lettera b) dell'articolo 113 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), al penultimo comma dell'[articolo 42 del R. decreto 30 dicembre 1923, n. 2841](../Regi%20decreti/Riforma%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20assistenza%20e%20beneficenza.%20023U2841.md), all'[articolo 86 lettera c) del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), ed all'ultima parte dell'[art. 15 del R. decreto 30 dicembre 1923, n. 3047](../Regi%20decreti/Riforma%20della%20legge%2029%20marzo%201903%20n.%20103%20per%20lassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20023U3047.md). 
  
  Il presente decreto avra' effetto a decorrere dal 1° luglio 1924 e sara' presentato al Parlamento per essere convertito in legge. 
  

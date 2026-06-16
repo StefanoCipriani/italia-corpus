@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D' ITALIA
 
-Visto il [R. decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), per il riordinamento dell'insegnamento industriale;
+Visto il [R. decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), per il riordinamento dell'insegnamento industriale;
 
 Visto il R. decreto 3 giugno 1924. n. 969, che approva il regolamento per l'applicazione del Regio decreto anzidetto;
 
@@ -22,7 +22,7 @@ Visto il R. decreto 29 settembre 1922. n. 1451, concernente l'ordinamento dell'i
 
 Visto il decreto Ministeriale 24 febbraio 1926, registrato alla Corte dei conti il 10 marzo 1926, registro n. 2, foglio n. 291, che fissa il contributo del Ministero e degli enti locali nella misura richiesta per l'applicazione al personale delle tabelle di stipendio previste dal [R. decreto 31 dicembre 1923, n. 3144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3144), e [R. decreto legge 31 marzo 1925, n. 363](Provvedimenti%20economici%20a%20favore%20del%20personale%20dipendente%20dalle%20Amministrazioni%20dello%20Stato.%20025U0363.md);
 
-Visto lo statuto della Fondazione per l'assistenza alle scuole industriali, commerciali, operaie in Biella e circondario, eretta in ente morale con [R. decreto 3 gennaio 1926, n. 649](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;649);
+Visto lo statuto della Fondazione per l'assistenza alle scuole industriali, commerciali, operaie in Biella e circondario, eretta in ente morale con [R. decreto 3 gennaio 1926, n. 649](../Regi%20decreti/Erezione%20in%20Ente%20morale%20della%20Fondazione%20per%20lassistenza%20alle%20scuole%20industriali%20commerciali%20e%20operaie%20di%20Biella%20e%20circondario%20in%20Biella.%20026U0649.md);
 
 Sentita la Sezione III del Consiglio superiore per l'istruzione agraria, industriale e commerciale;
 

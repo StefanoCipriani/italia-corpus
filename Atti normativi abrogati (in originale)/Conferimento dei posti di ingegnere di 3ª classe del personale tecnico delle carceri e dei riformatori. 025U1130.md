@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visti gli [articoli 15](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [19 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la giustizia e gli affari di culto, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
@@ -66,7 +66,7 @@ Le promozioni di una classe all'altra degli ingegneri si effettuano con l'osserv
 
 ## Art. 5.
 
-Si applicano al personale tecnico delle carceri e dei riformatori tutte le disposizioni concernenti l'ordinamento gerarchico delle Amministrazioni dello Stato approvato con R. decreto 11 novembre 1923, a. 2395, lo stato giuridico degli impiegati civili approvato con [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), le norme esecutive, interpretative e integrative di quelle concernenti il trattamento economico e di carriera del personale dell'Amministrazione dello Stato approvato con [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), nonche' quelle di carattere generale emanate in relazione alle suddette e non contrastanti a quelle del presente decreto. 
+Si applicano al personale tecnico delle carceri e dei riformatori tutte le disposizioni concernenti l'ordinamento gerarchico delle Amministrazioni dello Stato approvato con R. decreto 11 novembre 1923, a. 2395, lo stato giuridico degli impiegati civili approvato con [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), le norme esecutive, interpretative e integrative di quelle concernenti il trattamento economico e di carriera del personale dell'Amministrazione dello Stato approvato con [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), nonche' quelle di carattere generale emanate in relazione alle suddette e non contrastanti a quelle del presente decreto. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

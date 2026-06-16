@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-I provvedimenti che dispongono nomine a posto stabile di ruolo dopo il periodo di prova o simile negli impieghi statali devono contenere l'attestazione che l'impiegato abbia reso la dichiarazione prescritta dall'[art. 1 del regio decreto 28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704#art_1), circa i servizi di ruolo e non di ruolo eventualmente prestati in precedenza allo Stato, compresi i servizi militari, o ad altri enti. Agli effetti del trattamento di quiescenza saranno valutati soltanto i servizi denunziati con detta dichiarazione, alla quale l'impiegato deve allegare i documenti di cui dispone, salvo l'obbligo dell'Amministrazione di integrare la documentazione ai sensi del secondo comma dell'articolo citato. 
+I provvedimenti che dispongono nomine a posto stabile di ruolo dopo il periodo di prova o simile negli impieghi statali devono contenere l'attestazione che l'impiegato abbia reso la dichiarazione prescritta dall'[art. 1 del regio decreto 28 giugno 1933, n. 704](../Regi%20decreti/Norme%20per%20il%20funzionamento%20presso%20lAmministrazione%20dello%20Stato%20dei%20servizi%20inerenti%20alla%20liquidazione%20delle%20pensioni.%20033U0704.md), circa i servizi di ruolo e non di ruolo eventualmente prestati in precedenza allo Stato, compresi i servizi militari, o ad altri enti. Agli effetti del trattamento di quiescenza saranno valutati soltanto i servizi denunziati con detta dichiarazione, alla quale l'impiegato deve allegare i documenti di cui dispone, salvo l'obbligo dell'Amministrazione di integrare la documentazione ai sensi del secondo comma dell'articolo citato. 
  L'Amministrazione e' tenuta a comunicare all'interessato, entro un anno dalla sua nomina a stabile, il decreto Ministeriale di accertamento dei servizi di cui al primo comma. Avverso tale decreto e' ammesso ricorso alla Corte dei conti da parte dell'interessato e da parte del procuratore generale della Corte stessa entro novanta giorni, rispettivamente, dalla data di comunicazione o da quella di registrazione. Trascorso detto termine senza che sia stato proposto alcun ricorso, il provvedimento diventa inoppugnabile. 
  I dipendenti in servizio di ruolo alla data di entrata in vigore della presente legge, i quali non abbiano ancora effettuata la dichiarazione prevista dal primo comma del presente articolo, debbono effettuarla entro un anno dalla data stessa. L'Amministrazione e' tenuta a comunicare il decreto Ministeriale di accertamento dei servizi entro due anni dalla resa dichiarazione. 
  E' fatta salva per coloro che cessino dal servizio entro un anno dall'entrata in vigore della presente legge, la facolta' di denunziare, fino a novanta giorni dalla data di cessazione dal servizio, i servizi eventualmente prestati allo Stato o ad altro ente pubblico prima della nomina in ruolo. In tal caso l'accertamento e' operato col decreto di liquidazione definitiva della pensione. 
@@ -34,7 +34,7 @@ La domanda per ottenere il riscatto dei servizi non di ruolo accertati a norma d
 ## Art. 3.
 
 L'Amministrazione deve comunicare all'interessato copia dello stato di servizio, aggiornato alla data del rilascio, all'atto del compimento del periodo minimo di servizio effettivo occorrente per l'acquisto del diritto a pensione, nonche' tre anni prima del raggiungimento del limite di eta' per il collocamento a riposo.
- Lo stato di servizio deve contenere tutte le variazioni di cui all'[art. 2 del regio decreto 28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704#art_2), con l'indicazione dei singoli servizi che sono utili a pensione, ivi compresi gli aumenti di favore, della durata di essi, nonche' del complessivo periodo di servizio pensionabile.
+ Lo stato di servizio deve contenere tutte le variazioni di cui all'[art. 2 del regio decreto 28 giugno 1933, n. 704](../Regi%20decreti/Norme%20per%20il%20funzionamento%20presso%20lAmministrazione%20dello%20Stato%20dei%20servizi%20inerenti%20alla%20liquidazione%20delle%20pensioni.%20033U0704.md), con l'indicazione dei singoli servizi che sono utili a pensione, ivi compresi gli aumenti di favore, della durata di essi, nonche' del complessivo periodo di servizio pensionabile.
  Con decreto Ministeriale, da registrarsi alla Corte dei conti, viene approvato lo stato di servizio di cui al precedente comma.
 Contro detto decreto e' ammesso ricorso alla Corte stessa dall'interessato e dal procuratore generale entro novanta giorni, rispettivamente, dalla data della comunicazione o della registrazione.
 
@@ -49,7 +49,7 @@ L'Amministrazione deve disporre la concessione del trattamento definitivo di pen
 
 I Ministri possono delegare ai Sottosegretari di Stato, agli Alti Commissari e ai Commissari la firma dei provvedimenti di cessazione dal servizio.
  La delega puo' essere concessa al capo del personale o del servizio competente per i provvedimenti relativi al personale di grado inferiore al 6°, quando si tratti di cessazione dal servizio per raggiunti limiti di eta'.
- Sono abrogati l'[art. 22, secondo comma, del regio decreto 21 novembre 1923, n. 2480](Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e le successive disposizioni che prevedono il concerto con il Ministro per il tesoro, per la emanazione dei provvedimenti di collocamento a riposo.
+ Sono abrogati l'[art. 22, secondo comma, del regio decreto 21 novembre 1923, n. 2480](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20normali%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U2480.md), e le successive disposizioni che prevedono il concerto con il Ministro per il tesoro, per la emanazione dei provvedimenti di collocamento a riposo.
 
 ## Art. 6.
 
@@ -61,7 +61,7 @@ Nel caso di decesso del pensionato, l'Ufficio provinciale del tesoro, che ha in 
 
 ## Art. 8.
 
-Sono abrogati l'art. 125 del testo unico delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e le successive norme di estensione, riguardanti la perdita del diritto a pensione da parte della vedova nel caso che il matrimonio sia stato contratto senza il prescritto assentimento.
+Sono abrogati l'art. 125 del testo unico delle leggi sulle pensioni civili e militari, approvato con [regio decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e le successive norme di estensione, riguardanti la perdita del diritto a pensione da parte della vedova nel caso che il matrimonio sia stato contratto senza il prescritto assentimento.
  E' del pari abrogato l'art. 182 del testo unico di cui al precedente comma riguardante la decadenza dal diritto a pensione per coloro che lascino trascorrere piu' di un anno dal giorno in cui dovrebbe cominciare il godimento senza inoltrare la prescritta domanda o senza presentare i documenti giustificativi.
 
 ## Art. 9.
@@ -77,7 +77,7 @@ Quando vi siano fondati elementi per ritenere che siasi verificata decadenza dal
 
 ## Art. 11.
 
-Fermo l'obbligo della comunicazione previsto dall'[art. 23 del regio decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677#art_23), per il decesso di pensionati o per il matrimonio di vedove od orfane pensionate, gli ufficiali di stato civile e le autorita' anagrafiche sono tenute a dare comunicazioni agli Uffici provinciali del tesoro anche della perdita della cittadinanza italiana e dell'acquisto di cittadinanza straniera da parte dei titolari di pensioni o assegni continuativi, a carico del bilancio dello Stato o delle Amministrazioni autonome, che risultino iscritti nei registri anagrafici del Comune.
+Fermo l'obbligo della comunicazione previsto dall'[art. 23 del regio decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md), per il decesso di pensionati o per il matrimonio di vedove od orfane pensionate, gli ufficiali di stato civile e le autorita' anagrafiche sono tenute a dare comunicazioni agli Uffici provinciali del tesoro anche della perdita della cittadinanza italiana e dell'acquisto di cittadinanza straniera da parte dei titolari di pensioni o assegni continuativi, a carico del bilancio dello Stato o delle Amministrazioni autonome, che risultino iscritti nei registri anagrafici del Comune.
 
 ## Art. 12.
 

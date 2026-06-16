@@ -28,7 +28,7 @@ E' approvata la retrocessione al Demanio dello Stato dei seguenti immobili, ora 
 
 ## Art. 4.
 
-E' approvato il [Regio decreto 23 dicembre 1875, numero 2864](Che%20autorizza%20una%20trentaduesima%20prelevazione%20di%20lire%20500000%20dal%20fondo%20per%20le%20Spese%20impreviste%20con%20la%20denominazione%20Rimborso%20alla%20Lista%20civile.%20075U2864.md) (Serie 2ª). 
+E' approvato il [Regio decreto 23 dicembre 1875, numero 2864](../Regi%20decreti/Che%20autorizza%20una%20trentaduesima%20prelevazione%20di%20lire%20500000%20dal%20fondo%20per%20le%20Spese%20impreviste%20con%20la%20denominazione%20Rimborso%20alla%20Lista%20civile.%20075U2864.md) (Serie 2ª). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

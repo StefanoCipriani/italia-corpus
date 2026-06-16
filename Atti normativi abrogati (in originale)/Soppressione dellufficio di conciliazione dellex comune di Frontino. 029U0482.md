@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 3 agosto 1928, n. 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1976), col quale il comune di Frontino e' stato soppresso, ed il rispettivo territorio aggregato a quello di Carpegna; 
+ Visto il [R. decreto 3 agosto 1928, n. 1976](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Carpegna%20e%20Frontino%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Carpegna.%20028U1976.md), col quale il comune di Frontino e' stato soppresso, ed il rispettivo territorio aggregato a quello di Carpegna; 
  
  Vista la deliberazione del podesta' del comune di Carpegna, rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Frontino; 
  

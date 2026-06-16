@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 16 gennaio 1936, n. 801](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md), che approva, il testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
+Visto il [regio decreto 16 gennaio 1936, n. 801](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20di%20un%20Consorzio%20autonomo%20per%20lesecuzione%20delle%20opere%20e%20per%20lesercizio%20del%20porto%20di%20Genova.%20036U0801.md), che approva, il testo unico delle disposizioni legislative riguardanti la costituzione di un Consorzio autonomo per l'esecuzione delle opere e per l'esercizio del porto di Genova;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente la facolta' del Governo di emanare norme giuridiche;
 

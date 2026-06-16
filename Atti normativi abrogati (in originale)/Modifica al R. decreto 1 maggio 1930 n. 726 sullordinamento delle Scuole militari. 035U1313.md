@@ -20,7 +20,7 @@ Visto il regolamento per l'amministrazione e la contabilita' dei corpi, istituti
 
 Visto il testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con [R. decreto 21 marzo 1929, n. 629](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20029U0629.md), e successive modificazioni;
 
-Visto il [R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726), sull'ordinamento delle Scuole militari, e successive modificazioni;
+Visto il [R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), sull'ordinamento delle Scuole militari, e successive modificazioni;
 
 Udito il parere del Consiglio di Stato;
 
@@ -30,7 +30,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Al [comma 2° dell'art. 18 del R. decreto 1° maggio 1930, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-01;726#art_18-com2), quale risulta modificato dall'[art. 3 del R. decreto 29 giugno 1933, n. 944](Modificazioni%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20Scuole%20militari.%20033U0944.md), e dall'[art. 1 del R. decreto 28 dicembre 1933, n. 1918](Modifica%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20scuole%20militari.%20033U1918.md), e' aggiunta la seguente lettera e): 
+Al [comma 2° dell'art. 18 del R. decreto 1° maggio 1930, n. 726](../Regi%20decreti/Ordinamento%20delle%20scuole%20militari.%20030U0726.md), quale risulta modificato dall'[art. 3 del R. decreto 29 giugno 1933, n. 944](Modificazioni%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20Scuole%20militari.%20033U0944.md), e dall'[art. 1 del R. decreto 28 dicembre 1933, n. 1918](Modifica%20al%20R.%20decreto%201%20maggio%201930%20n.%20726%20sullordinamento%20delle%20scuole%20militari.%20033U1918.md), e' aggiunta la seguente lettera e): 
  
  « e) agli orfani dei militari del Regio esercito, della Regia marina, della Regia aeronautica, della Regia guardia di finanza, della Milizia volontaria per la sicurezza nazionale e agli orfani degli impiegati di ruolo delle Amministrazioni dello Stato ».
 

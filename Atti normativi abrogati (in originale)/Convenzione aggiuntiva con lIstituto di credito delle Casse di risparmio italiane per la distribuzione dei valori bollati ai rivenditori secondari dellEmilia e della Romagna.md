@@ -12,10 +12,10 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
- Visto il [regio decreto 14 luglio 1921, n. 1099](Che%20istituisce%20rispettivamente%20in%20Torino%20ed%20in%20Roma%20due%20depositi%20pei%20valori%20bollati.%20021U1099.md);
+ Visto il [regio decreto 14 luglio 1921, n. 1099](../Regi%20decreti/Che%20istituisce%20rispettivamente%20in%20Torino%20ed%20in%20Roma%20due%20depositi%20pei%20valori%20bollati.%20021U1099.md);
  Visto l'[art. 2 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
- Visto il [regio decreto 14 agosto 1931, n. 1031](Trasferimento%20da%20Torino%20a%20Roma%20del%20Deposito%20generale%20di%20valori%20bollati%20alla%20diretta%20dipendenza%20della%20Direzione%20generale%20delle%20tasse%20sugli%20affari.%20031U1031.md);
- Visto il [regio decreto 9 marzo 1942, n. 465](Convenzione%20con%20lIstituto%20delle%20Casse%20di%20risparmio%20per%20la%20distribuzione%20dei%20valori%20bollati%20nellEmilia%20Romagna.%20042U0465.md), che approvava la convenzione 28 dicembre 1941, con la quale veniva affidato per un biennio, dal 1° gennaio 1942 il servizio di distribuzione dei valori bollati nell' Emilia e Romagna all'Istituto di Credito delle Cassa di Risparmio Italiane;
+ Visto il [regio decreto 14 agosto 1931, n. 1031](../Regi%20decreti/Trasferimento%20da%20Torino%20a%20Roma%20del%20Deposito%20generale%20di%20valori%20bollati%20alla%20diretta%20dipendenza%20della%20Direzione%20generale%20delle%20tasse%20sugli%20affari.%20031U1031.md);
+ Visto il [regio decreto 9 marzo 1942, n. 465](../Regi%20decreti/Convenzione%20con%20lIstituto%20delle%20Casse%20di%20risparmio%20per%20la%20distribuzione%20dei%20valori%20bollati%20nellEmilia%20Romagna.%20042U0465.md), che approvava la convenzione 28 dicembre 1941, con la quale veniva affidato per un biennio, dal 1° gennaio 1942 il servizio di distribuzione dei valori bollati nell' Emilia e Romagna all'Istituto di Credito delle Cassa di Risparmio Italiane;
  Visto il [decreto legislativo luogotenenziale 8 marzo 1945, n. 72](../Decreti%20legislativi%20luogotenenziali/Fondo%20di%20solidarieta%20nazionale.%20045U0072.md);
  Considerato che la convenzione con l'Istituto di Credito delle Casse di Risparmio Italiane e stata tacitamente prorogata per un biennio e cioe' fino al 31 dicembre 1945;
  Considerato che l'Istituto anzidetto negli anni 1943, 1944 e 1945 ha dovuto sostenere maggiori spese per disimpegnare il servizio di distribuzione dei valori bollati nell'Emilia e nella Romagna in rapporto all'aumento degli stipendi al personale effettivamente addetto al servizi, al maggior costo dei trasporti, delle assicurazioni, ecc.;

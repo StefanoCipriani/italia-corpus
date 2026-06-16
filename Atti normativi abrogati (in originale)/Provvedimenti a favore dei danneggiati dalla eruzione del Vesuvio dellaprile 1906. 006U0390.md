@@ -82,7 +82,7 @@ La concessione dei sussidi di cui agli articoli 1, 3 e della presente legge verr
 
 ### Art. 8.
 
-Per i prestiti di cui agli articoli 2, 4 e 5 della presente legge non e' applicabile il limite del primo comma dell'art. 163 della legge comunale e provinciale, testo unico approvato con [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md). 
+Per i prestiti di cui agli articoli 2, 4 e 5 della presente legge non e' applicabile il limite del primo comma dell'art. 163 della legge comunale e provinciale, testo unico approvato con [R. decreto 4 maggio 1898, n. 164](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md). 
  
  Agli stessi prestiti sono applicabili, per quanto del caso, le disposizioni contenute negli [articoli 10](Provvedimenti%20a%20favore%20dei%20danneggiati%20dalle%20alluvioni%20e%20frane%20nel%201900%20e%20nel%20primo%20semestre%201901.%20001U0341.md) e [11 della legge 7 luglio 1901, n. 341](Provvedimenti%20a%20favore%20dei%20danneggiati%20dalle%20alluvioni%20e%20frane%20nel%201900%20e%20nel%20primo%20semestre%201901.%20001U0341.md).
 
@@ -125,7 +125,7 @@ Il Governo del Re e' autorizzato ad assumere a mezzo dei Regi commissari, invece
 
 ### Art. 13.
 
-I commissari straordinari nominati in virtu' della presente legge, oltre alle ordinarie attribuzioni di cui all'art. 296 del testo unico della legge comunale e provinciale, approvato con [Regio decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md), potranno in linea d'urgenza assumere tutti i poteri del Consiglio comunale, col parere consultivo di una Commissione di sei membri nominati dal prefetto della Provincia fra gli elettori del Comune. In tal caso le loro deliberazioni dovranno riportare l'approvazione della Giunta provinciale amministrativa per produrre tutti gli effetti di legge. 
+I commissari straordinari nominati in virtu' della presente legge, oltre alle ordinarie attribuzioni di cui all'art. 296 del testo unico della legge comunale e provinciale, approvato con [Regio decreto 4 maggio 1898, n. 164](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md), potranno in linea d'urgenza assumere tutti i poteri del Consiglio comunale, col parere consultivo di una Commissione di sei membri nominati dal prefetto della Provincia fra gli elettori del Comune. In tal caso le loro deliberazioni dovranno riportare l'approvazione della Giunta provinciale amministrativa per produrre tutti gli effetti di legge. 
  
  Le indennita' spettanti ai commissari suddetti saranno a carico dello Stato.
 
@@ -155,7 +155,7 @@ Le somme da stanziare in bilancio agli effetti degli articoli 14 e 15 della pres
 
 ### Art. 18.
 
-Alla manutenzione delle opere che saranno eseguite in base all'art. 15 della presente legge nella falda meridionale del Vesuvio provvedera' lo Stato per i primi due anni e successivamente il Consorzio degli interessati da costituirsi ad iniziativa del prefetto della Provincia in analogia a quanto e' prescritto dall'art. 38 del testo unico approvato con [R. decreto 25 luglio 1904, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-07-25;523).
+Alla manutenzione delle opere che saranno eseguite in base all'art. 15 della presente legge nella falda meridionale del Vesuvio provvedera' lo Stato per i primi due anni e successivamente il Consorzio degli interessati da costituirsi ad iniziativa del prefetto della Provincia in analogia a quanto e' prescritto dall'art. 38 del testo unico approvato con [R. decreto 25 luglio 1904, n. 523](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20intorno%20alle%20opere%20idrauliche%20delle%20diverse%20categorie.%20004U0523.md).
 
 ### Art. 19.
 
@@ -424,7 +424,7 @@ L'approvazione dei progetti delle opere contemplate nella presente legge sia che
 
 ### Art. 55.
 
-Ai corsi d'acqua nei quali verranno eseguiti i lavori di cui agli articoli 14 e 15 della presente legge, sono applicabili le disposizioni di cui all'art. 62 del testo unico di legge, decreto Reale 25 luglio 1904, n. 523, e per il servizio di piena sono ad essi applicabili norme analoghe a quelle stabilite dal regolamento approvato col [R. decreto 7 marzo 1895, n. 86](Che%20approva%20il%20regolamento%20per%20la%20custodia%20difesa%20e%20guardia%20dei%20corsi%20dacqua%20ed%20opere%20idrauliche%20annesse%20comprese%20nella%201.a%20e%202.a%20categoria%20e%20per%20laccertamento%20e%20la%20denunzia%20delle%20contrav_63645f2a305c.md).
+Ai corsi d'acqua nei quali verranno eseguiti i lavori di cui agli articoli 14 e 15 della presente legge, sono applicabili le disposizioni di cui all'art. 62 del testo unico di legge, decreto Reale 25 luglio 1904, n. 523, e per il servizio di piena sono ad essi applicabili norme analoghe a quelle stabilite dal regolamento approvato col [R. decreto 7 marzo 1895, n. 86](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20custodia%20difesa%20e%20guardia%20dei%20corsi%20dacqua%20ed%20opere%20idrauliche%20annesse%20comprese%20nella%201.a%20e%202.a%20categoria%20e%20per%20laccertamento%20e%20la%20denunzia%20delle%20contrav_63645f2a305c.md).
 
 ### Art. 56.
 

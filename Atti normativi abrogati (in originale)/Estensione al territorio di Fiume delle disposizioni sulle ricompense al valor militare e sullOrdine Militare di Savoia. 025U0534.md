@@ -44,7 +44,7 @@ Nel territorio annesso al Regno in virtu' del [R. decreto-legge 22 febbraio 1924
  
  l) il [R. decreto 7 gennaio 1922, n. 195](Che%20differenzia%20la%20croce%20di%20guerra%20al%20valor%20militare%20da%20quella%20concessa%20per%20i%20titoli%20comuni%20di%20cui%20al%20R.%20decreto%20n.%20205%20del%2019%20gennaio%201918.%20022U0195.md), che differenzia le croci di guerra concesse per titoli generici da quelle concesse per atti di valore; 
  
- m) il [R. decreto 27 novembre 1904, n. 656](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-11-27;656), che istituisce una medaglia d'onore per lunga navigazione compiuta; 
+ m) il [R. decreto 27 novembre 1904, n. 656](../Regi%20decreti/Che%20istituisce%20una%20medaglia%20donore%20per%20lunga%20navigazione%20compiuta.%20004U0656.md), che istituisce una medaglia d'onore per lunga navigazione compiuta; 
  
  n) le Reali Magistrali patenti 19 luglio 1839 con le quali venne istituita la medaglia Mauriziana per il merito militare di dieci lustri; 
  

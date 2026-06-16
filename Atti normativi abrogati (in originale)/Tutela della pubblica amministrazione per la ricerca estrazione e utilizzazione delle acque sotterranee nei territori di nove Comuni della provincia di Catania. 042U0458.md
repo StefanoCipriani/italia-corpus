@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Ritenuto che in detto elenco erano inclusi i territori di sedici Comuni della provincia di Catania; 
  
- Che successivamente con [R. decreto 22 febbraio 1940, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-02-22;311), furono dichiarati soggetti a tutela altri undici Comuni della suddetta Provincia; 
+ Che successivamente con [R. decreto 22 febbraio 1940, n. 311](../Regi%20decreti/Approvazione%20dellelenco%20suppletivo%20dei%20Comuni%20soggetti%20alla%20tutela%20per%20la%20ricerca%20lestrazione%20e%20lutilizzazione%20delle%20acque%20sotterranee.%20040U0311.md), furono dichiarati soggetti a tutela altri undici Comuni della suddetta Provincia; 
  
  Ritenuta la necessita' di estendere la detta tutela anche ai territori di altri nove Comuni della Provincia medesima; 
  

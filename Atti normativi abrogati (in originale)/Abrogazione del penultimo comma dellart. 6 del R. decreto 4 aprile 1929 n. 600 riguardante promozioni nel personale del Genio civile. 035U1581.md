@@ -18,7 +18,7 @@ Visto l'[art. 15 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarch
 
 Visti gli articoli 21 a 24 del [R. decreto 30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni;
 
 Visto il [R. decreto 4 aprile 1929, n. 600](Norme%20per%20le%20promozioni%20mediante%20esame%20ai%20gradi%20di%20ingegnere%20principale%20geometra%20principale%20primo%20disegnatore%20primo%20assistente%20del%20Real%20corpo%20del%20Genio%20civile%20primo%20ufficiale%20idraulico%20o%20_e08414d2ef61.md), con il quale vennero dettate le norme per le promozioni mediante esame ai gradi di ingegnere principale, geometra principale, primo disegnatore, primo assistente del Reale corpo del Genio civile e di primo ufficiale idraulico e di bonifica;
 

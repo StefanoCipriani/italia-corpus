@@ -12,9 +12,9 @@ IL MINISTRO DELLA DIFESA
 
 Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni, sull'ordinamento della Marina militare;
 
-Visto il [regio decreto 31 maggio 1943, n. 656](Modificazioni%20al%20R.%20decreto%207%20novembre%201942-XXI%20n.%201515%20sulla%20classificazione%20del%20Regio%20naviglio.%20043U0656.md), relativo alla classificazione del naviglio della Marina militare;
+Visto il [regio decreto 31 maggio 1943, n. 656](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%207%20novembre%201942-XXI%20n.%201515%20sulla%20classificazione%20del%20Regio%20naviglio.%20043U0656.md), relativo alla classificazione del naviglio della Marina militare;
 
-Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con il [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il [decreto del Presidente della Repubblica 18 novembre 1965, n. 1477](Ordinamento%20dello%20Stato%20Maggiore%20della%20difesa%20e%20degli%20Stati%20Maggiori%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20tempo%20di%20pace.md), e successive modificazioni, sull'ordinamento dello Stato maggiore della Difesa e degli Stati maggiori dell'Esercito, della Marina e dell'Aeronautica, in tempo di pace;
 
@@ -57,12 +57,12 @@ Le disposizioni contenute nel presente regolamento stabiliscono i principi fonda
 Nel presente regolamento per unita' navale si intende la nave secondo le norme nazionali ed internazionali di diritto marittimo.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo della [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md), concernente "Ordinamento della regia Marina", e' pubblicato nella Gazzetta Ufficiale 15 luglio 1926, n. 162.
- - Il testo del [regio decreto 31 maggio 1943, n. 656](Modificazioni%20al%20R.%20decreto%207%20novembre%201942-XXI%20n.%201515%20sulla%20classificazione%20del%20Regio%20naviglio.%20043U0656.md), concernente"Modificazioni al [regio decreto 7 novembre 1942, n. 1515](Classificazione%20del%20Regio%20naviglio.%20042U1515.md), sulla classificazione del regio naviglio", e' pubblicato nella Gazzetta Ufficiale 26 luglio 1943, n. 171.
- - Il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), reca "Approvazione del testo definitivo del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)".
+ - Il testo del [regio decreto 31 maggio 1943, n. 656](../Regi%20decreti/Modificazioni%20al%20R.%20decreto%207%20novembre%201942-XXI%20n.%201515%20sulla%20classificazione%20del%20Regio%20naviglio.%20043U0656.md), concernente"Modificazioni al [regio decreto 7 novembre 1942, n. 1515](../Regi%20decreti/Classificazione%20del%20Regio%20naviglio.%20042U1515.md), sulla classificazione del regio naviglio", e' pubblicato nella Gazzetta Ufficiale 26 luglio 1943, n. 171.
+ - Il [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), reca "Approvazione del testo definitivo del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)".
  - Il testo del [decreto del Presidente della Repubblica 18 novembre 1965, n. 1477](Ordinamento%20dello%20Stato%20Maggiore%20della%20difesa%20e%20degli%20Stati%20Maggiori%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20tempo%20di%20pace.md), e successive modificazioni, concernente "Ordinamento dello Stato maggiore della Difesa e degli Stati maggiori dell'Esercito, della Marina e dell'Aeronautica, in tempo di pace", e' pubblicato nella Gazzetta Ufficiale 15 gennaio 1966 - supplemento ordinario n. 11.
  - Il decreto ministeriale 15 febbraio 1971, e successive modificazioni, reca "Regolamento per il servizio a bordo delle navi della Marina militare".
  - Il testo della [legge 11 luglio 1978, n. 382](Norme%20di%20principio%20sulla%20disciplina%20militare.md), concernente "Norme di principio sulla disciplina militare", e' pubblicato nella Gazzetta Ufficiale 21 luglio 1978, n. 203.
@@ -170,7 +170,7 @@ Il comandante di nave:
                             rappresenta la nave;
                         b)
                             ha la responsabilita':
- 1) dell'esercizio del comando navale e di quantoprevisto dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e da altra legislazionevigente per i comandanti di navi da guerra;
+ 1) dell'esercizio del comando navale e di quantoprevisto dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e da altra legislazionevigente per i comandanti di navi da guerra;
  2) dell'organizzazione, dell'impiego e della direzione del personale dipendente;
  3) dell'efficienza e della sicurezza della nave;
  4) della conduzione della nave e del suo funzionamento;
@@ -180,7 +180,7 @@ Il comandante di nave:
  8) della gestione amministrativa della cassa di bordo sulle navi ove tali compiti non siano affidati ad ufficiali del Corpo di commissariato militare marittimo;
  9) dell'addestramento tecnicoprofessionale e generale dello stato maggiore e dell'equipaggio;
                         c)
-                            per gli aspetti disciplinari ha su tutto il personalemilitare imbarcato l'autorita' conferita, quale comandante di Corpo, dai regolamenti vigenti. Sui civili destinati a bordo esercita le funzioni di capo ufficio. Esercita le funzioni di polizia giudiziaria indicate dall'[art. 301 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace;
+                            per gli aspetti disciplinari ha su tutto il personalemilitare imbarcato l'autorita' conferita, quale comandante di Corpo, dai regolamenti vigenti. Sui civili destinati a bordo esercita le funzioni di capo ufficio. Esercita le funzioni di polizia giudiziaria indicate dall'[art. 301 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace;
                         d)
                             provvede ad assegnare gli incarichi agli ufficiali ed al personale imbarcato, quando gli incarichi stessi non siano definiti nel dispaccio di assegnazione alla destinazione; allorche' intervengano valutazioni di idoneita' per l'assolvimento di uno specifico compito, avanza motivate proposte di revoca e, in caso di urgenza, ha la facolta' di sostituire nell'incarico il soggetto inidoneo in attesa delle superiori determinazioni;
                         e)
@@ -197,7 +197,7 @@ Il comandante di nave:
                             esige che gli ufficiali dirigano con equilibrio il personale dipendente, si occupino di argomenti di organizzazione, logistica, studino sotto il profilotecnicoprofessionale l'utile impiego dei mezzi offensivi e difensivi della nave, si interessino preventivamente delle condizioni militari, politiche e commerciali dei Paesi di previsto scalo.
 
 Nota all'art. 7:
- - Il testo dell'[art. 301 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e' il seguente:
+ - Il testo dell'[art. 301 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare e' il seguente:
  "Art. 301 (Persone che esercitano le funzioni di polizia giudiziaria militare). - Per i reati soggetti alla giurisdizione militare, salva la disposizione dell'art. 415, le funzioni di polizia giudiziaria sono esercitate, nell'ordine seguente:
  1 dai comandanti di corpo, di distaccamento o di posto delle varie forze armate;
  2 dagli ufficiali e sottufficiali dei carabinieri Reali e dagli altri ufficiali di polizia giudiziaria indicati nell'[art. 221 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_221).

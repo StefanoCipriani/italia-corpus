@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto l'art. 246 p. p. del regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326), per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili; 
+ Visto l'art. 246 p. p. del regolamento approvato con [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md), per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili; 
  
  Viste la deliberazione 7 novembre 1936 e l'istanza 28 novembre 1936 con le quali il comune di Massafra, unico della circoscrizione dell'Archivio mandamentale di Massafra, ha chiesto la soppressione di detto ufficio; 
  

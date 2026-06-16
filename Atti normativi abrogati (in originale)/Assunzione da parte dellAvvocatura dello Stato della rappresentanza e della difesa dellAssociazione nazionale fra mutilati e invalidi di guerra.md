@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
+Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
 
-Visto il [regio decreto 16 dicembre 1929, n. 2162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-16;2162), con il quale l'Associazione nazionale mutilati ed invalidi di guerra viene eretta in ente morale;
+Visto il [regio decreto 16 dicembre 1929, n. 2162](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20fra%20mutilati%20ed%20invalidi%20di%20guerra.%20029U2162.md), con il quale l'Associazione nazionale mutilati ed invalidi di guerra viene eretta in ente morale;
 
 Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato, di concerto con il Ministro per la grazia e giustizia, il Ministro per il tesoro ed il Ministro per l'assistenza post-bellica; Decreta:
 

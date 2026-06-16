@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti l'[art. 17 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_17), e l'articolo 33 del regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Veduti l'[art. 17 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_17), e l'articolo 33 del regolamento per la sua esecuzione approvato con [R. decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md);
 
 Veduti il [R. decreto 11 giugno 1914, n. 582](Col%20quale%20viene%20modificato%20lart.%203%20del%20R.%20decreto%2020%20settembre%201913%20n.%201110%20riguardante%20la%20determinazione%20dellorario%20unico%20delle%20Borse%20di%20commercio.%20014U0582.md), e il [R. decreto 27 giugno 1920, n. 993](Che%20apporta%20modificazioni%20al%20R.%20decreto%2011%20giugno%201914%20n.%20582%20relativamente%20alla%20data%20per%20la%20risposta%20dei%20premi%20nelle%20Borse%20di%20commercio%20del%20regno.%20020U0993.md);
 

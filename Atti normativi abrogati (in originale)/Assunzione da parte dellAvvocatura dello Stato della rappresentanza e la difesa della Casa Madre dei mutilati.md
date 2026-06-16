@@ -10,9 +10,9 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
+Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
 
-Visto il [regio decreto 2 marzo 1939, n. 588](Erezione%20in%20ente%20morale%20della%20Casa%20Madre%20dei%20mutilati%20con%20sede%20in%20Roma%20ed%20approvazione%20del%20relativo%20statuto.%20039U0588.md), con il quale la "Casa Madre dei mutilati" venne eretta in ente morale;
+Visto il [regio decreto 2 marzo 1939, n. 588](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Casa%20Madre%20dei%20mutilati%20con%20sede%20in%20Roma%20ed%20approvazione%20del%20relativo%20statuto.%20039U0588.md), con il quale la "Casa Madre dei mutilati" venne eretta in ente morale;
 
 Visto il [decreto del Capo provvisorio dello Stato del 6 settembre 1946, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-09-06;172), per l'assunzione, da parte dell'Avvocatura dello Stato, della rappresentanza e della difesa dell'Associazione nazionale fra mutilati e invalidi di guerra;
 

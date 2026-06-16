@@ -28,7 +28,7 @@ Al fine di accertare la realizzazione delle condizioni previste dal comma 1 per 
 
 3.
 
-La Presidenza del Consiglio provvede a somministrare la somma di cui al primo comma mediante apertura di credito a favore di un funzionario delegato, anche eccedente il limite previsto dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), come modificato dalla [legge 26 marzo 1975, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-26;92).
+La Presidenza del Consiglio provvede a somministrare la somma di cui al primo comma mediante apertura di credito a favore di un funzionario delegato, anche eccedente il limite previsto dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), come modificato dalla [legge 26 marzo 1975, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-26;92).
 
 4.
 

@@ -24,7 +24,7 @@ La nomina al posto di ispettore e' fatta per merito fra i commissari della 1ª c
 
 ## Art. 4.
 
-I posti di commissario sono conferiti mediante esame d'idoneita', al quale sono ammessi gli ufficiali ed i contabili di qualunque classe (ricevitori e cassieri) che si trovino nelle condizioni volute dall'art. 5, secondo e terzo comma, del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
+I posti di commissario sono conferiti mediante esame d'idoneita', al quale sono ammessi gli ufficiali ed i contabili di qualunque classe (ricevitori e cassieri) che si trovino nelle condizioni volute dall'art. 5, secondo e terzo comma, del testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md).
 
 ## Art. 5.
 
@@ -51,7 +51,7 @@ I posti di ufficiale di ultima classe sono conferiti ai volontari che abbiano co
 
 ## Art. 8.
 
-I posti di volontario sono conferiti in seguito ad esame di concorso, al quale sono ammessi i giovani forniti di licenza ginnasiale o di scuola tecnica, che non abbiano superato l'eta' di 25 anni e che siano forniti dei requisiti prescritti dal testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), e dal relativo [regolamento del 24 novembre 1908, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-11-24;756). 
+I posti di volontario sono conferiti in seguito ad esame di concorso, al quale sono ammessi i giovani forniti di licenza ginnasiale o di scuola tecnica, che non abbiano superato l'eta' di 25 anni e che siano forniti dei requisiti prescritti dal testo unico delle leggi sullo stato degli impiegati civili, approvato con [R. decreto 22 novembre 1908, n. 693](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md), e dal relativo [regolamento del 24 novembre 1908, n. 756](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-11-24;756). 
  
  Al detto esame hanno diritto di concorrere, senza obbligo di titolo di studio, i sottufficiali della R. guardia di finanza (marescialli, brigadieri e sottobrigadieri) presenti al corpo, aventi non meno di 10 e non piu' di 20 anni di servizio e che siano riconosciuti fisicamente idonei e di buona condotta. 
  

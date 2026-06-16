@@ -18,7 +18,7 @@ Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20pot
 
 Visto il [R. decreto 23 luglio 1926, n. 1452](Erezione%20in%20Ente%20morale%20dellAero%20Club%20dItalia.%20026U1452.md);
 
-Visto il [R. decreto 16 gennaio 1930, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-01-16;833);
+Visto il [R. decreto 16 gennaio 1930, n. 833](../Regi%20decreti/Modifiche%20al%20R.%20decreto%2023%20luglio%201926%20n.%201452%20che%20costituisce%20in%20ente%20morale%20lAero%20Club%20dItalia.%20030U0833.md);
 
 Sentito il Consiglio di Stato:
 

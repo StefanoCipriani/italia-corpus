@@ -20,7 +20,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  RE D'ITALIA 
  
- Veduto lo statuto della biblioteca comunale di Salza Irpina approvato col [R. decreto 17 giugno 1875, n. 1069](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-06-17;1069); Veduto il voto espresso dal Consiglio comunale di Salza Irpina nella seduta del 31 dicembre 1914; 
+ Veduto lo statuto della biblioteca comunale di Salza Irpina approvato col [R. decreto 17 giugno 1875, n. 1069](../Regi%20decreti/Che%20modifica%20larticolo%202%20del%20precedente%20decreto%2023%20settembre%201874%20in%20ordine%20al%20numero%20degli%20articoli%20dello%20statuto%20organico%20della%20biblioteca%20Alessandro%20Manzoni%20nel%20comune%20di%20Salza%20Irpina.%207501069R.md); Veduto il voto espresso dal Consiglio comunale di Salza Irpina nella seduta del 31 dicembre 1914; 
  
  Sentito il parere del Consiglio di Stato; 
  

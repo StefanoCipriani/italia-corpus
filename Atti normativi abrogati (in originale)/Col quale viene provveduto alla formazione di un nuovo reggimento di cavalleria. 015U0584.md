@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico, approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) e modificato con leggi e Regi decreti successivi da convertirsi in leggi;
+Vista la legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra, testo unico, approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md) e modificato con leggi e Regi decreti successivi da convertirsi in leggi;
 
 Sentito il Consiglio dei ministri;
 

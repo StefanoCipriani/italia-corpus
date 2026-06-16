@@ -35,7 +35,7 @@ L'art. 6 e' abrogato e sostituito dal seguente:
 
 ## Art. 3.
 
-Alla tabella A annessa all'ordinamento dei servizi periferici della Regia marina quale risulta dal [R. decreto 4 agosto 1939, n. 1359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-08-04;1359), sono apportate le seguenti aggiunte: 
+Alla tabella A annessa all'ordinamento dei servizi periferici della Regia marina quale risulta dal [R. decreto 4 agosto 1939, n. 1359](../Regi%20decreti/Varianti%20al%20R.%20decreto%2016%20giugno%201932%20n.%20840.%20039U1359.md), sono apportate le seguenti aggiunte: 
  a) nella colonna relativa alla giurisdizione territoriale dei Comandi della Regia marina e in corrispondenza del Comando militare marittimo in Sicilia e' aggiunta l'indicazione seguente: «Piazza marittima di Messina-Reggio Calabria (9)»; 
  b) nella colonna «Comandi delle piazze marittime» in corrispondenza del Comando militare marittimo in Sicilia e' inserita l'indicazione seguente: «Comando della Piazza marittima, di Messina-Reggio Calabria (1)»; 
  c) in calce alla tabella e' aggiunta la seguente nota (9): 

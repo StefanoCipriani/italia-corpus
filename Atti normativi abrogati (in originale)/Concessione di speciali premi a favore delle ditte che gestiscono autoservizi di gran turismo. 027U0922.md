@@ -32,7 +32,7 @@ Con decreto del Ministro per i lavori pubblici saranno fissate le caratteristich
 
 ## Art. 3.
 
-La spesa occorrente per il conferimento dei premi di cui all'art. 1 sara' prelevata dalla speciale assegnazione accordata con il [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), per provvedere al pagamento di sussidi straordinari di esercizio, somministrazione di fondi per gestioni dirette a cura dello Stato, anticipazioni di spese per provvedimenti e spese diverse per ferrovie, tramvie, servizi automobilistici e navigazione interna. 
+La spesa occorrente per il conferimento dei premi di cui all'art. 1 sara' prelevata dalla speciale assegnazione accordata con il [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), per provvedere al pagamento di sussidi straordinari di esercizio, somministrazione di fondi per gestioni dirette a cura dello Stato, anticipazioni di spese per provvedimenti e spese diverse per ferrovie, tramvie, servizi automobilistici e navigazione interna. 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

@@ -30,7 +30,7 @@ EMANA il seguente decreto-legge:
 
 1.
 
-L'articolo 110, ultimo comma, e l'articolo 111, ultimo comma, del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati. Sono parimenti abrogati, a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto, gli articoli 108, 109, 110, commi primo, secondo, terzo e quarto, 111, commi primo, secondo e terzo, 112, 116, comma primo, n. 2), 1171, comma primo, n. 1) e 1172 del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), nonche' gli articoli contenuti nel libro I, titolo III, capo IV, del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), per le parti afferenti la navigazione marittima. E' altresi' abrogato l'[articolo 1279 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) a decorrere dal 1 gennaio 1995.
+L'articolo 110, ultimo comma, e l'articolo 111, ultimo comma, del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono abrogati. Sono parimenti abrogati, a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto, gli articoli 108, 109, 110, commi primo, secondo, terzo e quarto, 111, commi primo, secondo e terzo, 112, 116, comma primo, n. 2), 1171, comma primo, n. 1) e 1172 del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), nonche' gli articoli contenuti nel libro I, titolo III, capo IV, del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), per le parti afferenti la navigazione marittima. E' altresi' abrogato l'[articolo 1279 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) a decorrere dal 1 gennaio 1995.
 
 2.
 
@@ -106,7 +106,7 @@ Nell'assunzione di nuovo personale le imprese, a parita' di caratteristiche tecn
 
 1.
 
-Per la trasformazione in societa' delle compagnie e dei gruppi portuali, ivi compresi i gruppi ormeggiatori e barcaioli, si applica il disposto dell'articolo 122 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
+Per la trasformazione in societa' delle compagnie e dei gruppi portuali, ivi compresi i gruppi ormeggiatori e barcaioli, si applica il disposto dell'articolo 122 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md).
 
 2.
 
@@ -202,7 +202,7 @@ Il commissario liquidatore di cui all'[articolo 4 del decreto- legge 22 gennaio 
 
 3.
 
-Nel rispetto del limite massimo di ottocento unita' di personale, tra i lavoratori ammessi a fruire del beneficio di cui all'[articolo 6, comma 15, del decreto-legge 20 maggio 1993, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148#art_6-com15), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20148%20recante%20interventi%20urgenti%20a%20sostegno%20delloccupazione.md), e' ricompreso anche il personale addetto al servizio di rimorchio dei porti, di cui all'[articolo 101 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Nel rispetto del limite massimo di ottocento unita' di personale, tra i lavoratori ammessi a fruire del beneficio di cui all'[articolo 6, comma 15, del decreto-legge 20 maggio 1993, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148#art_6-com15), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20148%20recante%20interventi%20urgenti%20a%20sostegno%20delloccupazione.md), e' ricompreso anche il personale addetto al servizio di rimorchio dei porti, di cui all'[articolo 101 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 8. — Entrata in vigore
 

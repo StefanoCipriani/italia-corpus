@@ -10,19 +10,19 @@ vigente: true
 
 ## Art. 1.
 
-Ai concorsi riservati previsti dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_1) e [2 dei R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_2), oltre le persone ivi indicate, sono ammessi a partecipare, indipendentemente dalle condizioni previste nei detti articoli, i combattenti della guerra 1940-1943 e della guerra di liberazione, i mutilati e gli invalidi per la lotta di liberazione, i partigiani combattenti ed reduci dalla prigionia o deportazione.
+Ai concorsi riservati previsti dagli [articoli 1](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md) e [2 dei R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), oltre le persone ivi indicate, sono ammessi a partecipare, indipendentemente dalle condizioni previste nei detti articoli, i combattenti della guerra 1940-1943 e della guerra di liberazione, i mutilati e gli invalidi per la lotta di liberazione, i partigiani combattenti ed reduci dalla prigionia o deportazione.
 
 ## Art. 2.
 
-La meta' dei posti accantonati in ciascun ruolo, in applicazione del [R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27), puo' essere conferita, anche prima della data di cessazione dello stato di guerra, mediante concorsi riservati ai sensi di detto decreto.
+La meta' dei posti accantonati in ciascun ruolo, in applicazione del [R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), puo' essere conferita, anche prima della data di cessazione dello stato di guerra, mediante concorsi riservati ai sensi di detto decreto.
 
 ## Art. 3.
 
-Ferma restando la disposizione dell'ultimo comma dell'[art. 1 del R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27#art_1), coloro che abbiano partecipato ad un concorso riservato, senza riportarvi l'idoneita', non possono essere ammessi a successivi concorsi riservati per il medesimo ruolo.
+Ferma restando la disposizione dell'ultimo comma dell'[art. 1 del R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), coloro che abbiano partecipato ad un concorso riservato, senza riportarvi l'idoneita', non possono essere ammessi a successivi concorsi riservati per il medesimo ruolo.
 
 ## Art. 4.
 
-Le disposizioni dell'art. 3 del. [R. decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27), si applicano soltanto in favore di coloro che, ammessi a sostenere in un concorso riservato le sole prove orali ai sensi dell'art. 2 dello stesso decreto, siano dichiarati vincitori con una votazione complessiva non inferiore a quella riportata dall'ultimo dei vincitori del concorso originario nel quale essi superarono le prove scritte;
+Le disposizioni dell'art. 3 del. [R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), si applicano soltanto in favore di coloro che, ammessi a sostenere in un concorso riservato le sole prove orali ai sensi dell'art. 2 dello stesso decreto, siano dichiarati vincitori con una votazione complessiva non inferiore a quella riportata dall'ultimo dei vincitori del concorso originario nel quale essi superarono le prove scritte;
 
 ## Art. 5.
 
@@ -31,7 +31,7 @@ Nei concorsi per i gradi iniziali di ciascun ruolo, il numero dei posti puo' ess
 
 ## Art. 6.
 
-Salva l'applicazione dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_34), per le Amministrazioni aventi uffici periferici, nei bandi dei concorsi che saranno indetti non oltre il 31 dicembre 1946, potra' disporsi che le prove scritte dei concorsi stessi abbiano luogo in piu' sedi da determinarsi successivamente in relazione al numero dei concorrenti residenti in ciascuna provincia o regione.
+Salva l'applicazione dell'[art. 34 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), per le Amministrazioni aventi uffici periferici, nei bandi dei concorsi che saranno indetti non oltre il 31 dicembre 1946, potra' disporsi che le prove scritte dei concorsi stessi abbiano luogo in piu' sedi da determinarsi successivamente in relazione al numero dei concorrenti residenti in ciascuna provincia o regione.
  Con lo stesso provvedimento che determina le sedi di esami, saranno costituite apposite commissioni di vigilanza.
 
 ## Art. 7.

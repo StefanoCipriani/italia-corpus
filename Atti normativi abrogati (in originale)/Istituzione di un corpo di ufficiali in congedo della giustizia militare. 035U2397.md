@@ -46,7 +46,7 @@ Il corpo comprende:
 
 ### Art. 3.
 
-I gradi di ufficiale in congedo, che possono essere attribuiti ai singoli inscritti nei ruoli, sono i seguenti, rispettivamente corrispondenti ai gradi gerarchici di cui al [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), a fianco indicati: 
+I gradi di ufficiale in congedo, che possono essere attribuiti ai singoli inscritti nei ruoli, sono i seguenti, rispettivamente corrispondenti ai gradi gerarchici di cui al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), a fianco indicati: 
  
  a) Categoria magistrati: 
  
@@ -340,7 +340,7 @@ Gli ufficiali del corpo in congedo della giustizia militare sono provvisti, dist
 
 ### Art. 27.
 
-Ai cittadini gia' appartenenti al disciolto corpo della giustizia militare, che conservano il titolo onorario del grado rivestito nel corpo stesso, ai sensi dell'[art. 21 del R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e' esteso il trattamento previsto per coloro che a norma dell'art. 16 del presente decreto, conservano analogo titolo nel corpo in congedo della giustizia militare.
+Ai cittadini gia' appartenenti al disciolto corpo della giustizia militare, che conservano il titolo onorario del grado rivestito nel corpo stesso, ai sensi dell'[art. 21 del R. decreto 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e' esteso il trattamento previsto per coloro che a norma dell'art. 16 del presente decreto, conservano analogo titolo nel corpo in congedo della giustizia militare.
 
 ### Art. 28.
 
@@ -354,7 +354,7 @@ Quando, in conseguenza di collocamento fuori ruolo
 
 ### Art. 30.
 
-Salve le disposizioni del presente decreto, l'Amministrazione della giustizia militare conserva carattere di servizio civilmente ordinato, continuando lo stato e il trattamento del relativo personale ad essere regolati dalle disposizioni del [R. decreto 19 ottobre 1923, n. 2316](Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e del [R. decreto-legge 16 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-16;122), e relative modificazioni.
+Salve le disposizioni del presente decreto, l'Amministrazione della giustizia militare conserva carattere di servizio civilmente ordinato, continuando lo stato e il trattamento del relativo personale ad essere regolati dalle disposizioni del [R. decreto 19 ottobre 1923, n. 2316](../Regi%20decreti/Modificazioni%20allordinamento%20della%20giustizia%20militare.%20023U2316.md), e del [R. decreto-legge 16 gennaio 1931, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-16;122), e relative modificazioni.
 
 ### Art. 31.
 

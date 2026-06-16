@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
+Visto il testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni;
 
 Visto il [R. decreto-legge 30 ottobre 1943, n. 2/B](Sospensione%20delle%20norme%20relative%20alla%20emanazione%20promulgazione%20registrazione%20e%20pubblicazione%20dei%20RR.%20decreti%20e%20daltri%20provvedimenti.%20043U0002.md);
 
@@ -30,13 +30,13 @@ Sulla proposta del Ministro per la marina, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-E' istituito un premio di arruolamento di L. 3000 lorde da conferire al personale volontario che abbia superato il corso O. (ordinario), di cui all'art. 12 del testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni. 
+E' istituito un premio di arruolamento di L. 3000 lorde da conferire al personale volontario che abbia superato il corso O. (ordinario), di cui all'art. 12 del testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni. 
  
 E', altresi', istituito un premio di rendimento di L. 2500 lorde da assegnare al personale volontario, a fine ferma complementare biennale, se trasferito in carriera.
 
 ## Art. 2.
 
-I premi di congedamento e di rendimento, di cui al primo comma dell'art. 12 del testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono elevati, rispettivamente, a L. 4500 ed a L. 2500 lorde. 
+I premi di congedamento e di rendimento, di cui al primo comma dell'art. 12 del testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina, approvato con [R. decreto 18 giugno 1931, n. 914](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20lordinamento%20del%20Corpo%20Reale%20equipaggi%20marittimi%20e%20lo%20stato%20giuridico%20dei%20sottufficiali%20della%20Regia%20marina.%20031U0914.md), e successive modificazioni, sono elevati, rispettivamente, a L. 4500 ed a L. 2500 lorde. 
  
 Il premio di congedamento, di cui al quinto comma dell'art. 12 del su citato testo unico sull'ordinamento del C.R.E.M. e sullo stato giuridico dei sottufficiali della Regia marina e' elevato a L. 6500 lorde.
 

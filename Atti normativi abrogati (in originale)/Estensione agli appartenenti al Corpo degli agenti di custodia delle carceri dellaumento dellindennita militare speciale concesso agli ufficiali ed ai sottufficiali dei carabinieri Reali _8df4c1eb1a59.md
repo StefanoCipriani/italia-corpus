@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [decreto legislativo Luogotenenziale 21 agosto 1945, n. 589](Trattamento%20economico%20dei%20militari%20dellArma%20dei%20carabinieri%20Reali.%20045U0589.md), riguardante l'indennita' militare speciale spettante agli ufficiali ed ai sottufficiali dei carabinieri Reali, agli appuntati ed ai carabinieri raffermati;
 

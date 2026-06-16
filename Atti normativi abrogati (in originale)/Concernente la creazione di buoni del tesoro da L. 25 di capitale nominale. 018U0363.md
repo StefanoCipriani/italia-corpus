@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-In aggiunta alle serie dei buoni 5 0/0 con scadenza a cinque anni, di cui all'[art. 2 del R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), e' autorizzata la creazione di quelli da L. 25 di capitale nominale. 
+In aggiunta alle serie dei buoni 5 0/0 con scadenza a cinque anni, di cui all'[art. 2 del R. decreto 5 maggio 1916, n. 505](../Regi%20decreti/Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), e' autorizzata la creazione di quelli da L. 25 di capitale nominale. 
  
  Detti buoni saranno muniti di cinque cedole pagabili il 1° aprile di ciascun anno.
 
@@ -24,7 +24,7 @@ All'atto dell'acquisto sara' ad essi tenuto conto dello importo della cedola ann
 
 ## Art. 3.
 
-La valutazione dei buoni ordinari del tesoro alienati anteriormente alla data del presente decreto che, a mente dell'art. 8 del decreto Luogotenenziale 18 magio 1916 n. 568, possono essere accettati in versamento per acquisto di buoni triennali e quinquennali 5 %, creati col [R. decreto 5 maggio 1916, n. 505](Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), sara' fatta per ogni cento lire di capitale nominale come appresso: 
+La valutazione dei buoni ordinari del tesoro alienati anteriormente alla data del presente decreto che, a mente dell'art. 8 del decreto Luogotenenziale 18 magio 1916 n. 568, possono essere accettati in versamento per acquisto di buoni triennali e quinquennali 5 %, creati col [R. decreto 5 maggio 1916, n. 505](../Regi%20decreti/Riguardante%20lemissione%20di%20buoni%20del%20tesoro%20triennali%20e%20quinquennali.%20016U0505.md), sara' fatta per ogni cento lire di capitale nominale come appresso: 
  
  Per l'acquisto di buoni triennali: 
  

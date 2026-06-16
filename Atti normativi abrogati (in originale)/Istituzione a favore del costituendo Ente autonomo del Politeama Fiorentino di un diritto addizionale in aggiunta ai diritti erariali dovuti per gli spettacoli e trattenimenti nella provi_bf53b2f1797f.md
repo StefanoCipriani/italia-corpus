@@ -18,9 +18,9 @@ Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20de
 
 Vista la legge dei diritti erariali sugli spettacoli 30 dicembre 1923, n. 3276;
 
-Visto il [R. decreto 2 ottobre 1924, n. 1589](Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md);
+Visto il [R. decreto 2 ottobre 1924, n. 1589](../Regi%20decreti/Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md);
 
-Visto il [R. decreto 10 maggio 1925, n. 624](Riforma%20della%20tariffa%20dei%20diritti%20erariali%20sui%20cinematografi.%20025U0624.md);
+Visto il [R. decreto 10 maggio 1925, n. 624](../Regi%20decreti/Riforma%20della%20tariffa%20dei%20diritti%20erariali%20sui%20cinematografi.%20025U0624.md);
 
 Visto il [R. decreto-legge 18 luglio 1930, n. 1163](Devoluzione%20a%20favore%20dellEnte%20autonomo%20del%20Politeama%20Fiorentino%20del%20diritto%20erariale%20e%20del%20diritto%20demaniale.%20030U1163.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per le finanze, di concerto col Ministro per l'educa
 
 ## Art. 1.
 
-A favore del costituendo Ente autonomo del Politeama Fiorentino e' istituito un diritto addizionale in aggiunta ai diritti erariali dovuti nella provincia di Firenze per gli spettacoli e trattenimenti di che al titolo I della [legge 30 dicembre 1923, n. 3276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3276), ed al [R. decreto-legge 2 ottobre 1924, numero 1589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-02;1589), modificato dal [R. decreto 10 maggio 1925, n. 624](Riforma%20della%20tariffa%20dei%20diritti%20erariali%20sui%20cinematografi.%20025U0624.md). 
+A favore del costituendo Ente autonomo del Politeama Fiorentino e' istituito un diritto addizionale in aggiunta ai diritti erariali dovuti nella provincia di Firenze per gli spettacoli e trattenimenti di che al titolo I della [legge 30 dicembre 1923, n. 3276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3276), ed al [R. decreto-legge 2 ottobre 1924, numero 1589](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-02;1589), modificato dal [R. decreto 10 maggio 1925, n. 624](../Regi%20decreti/Riforma%20della%20tariffa%20dei%20diritti%20erariali%20sui%20cinematografi.%20025U0624.md). 
  
  Il diritto addizionale, di cui al precedente comma, e' determinato nella misura di L. 2 per ogni 100 lire dei prezzi e viene riscosso, per conto dell'Ente accennato, contemporaneamente ed in aggiunta al diritto erariale. 
  

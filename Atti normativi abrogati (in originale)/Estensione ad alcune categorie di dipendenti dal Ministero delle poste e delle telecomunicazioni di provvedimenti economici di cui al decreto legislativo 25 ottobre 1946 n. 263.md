@@ -16,7 +16,7 @@ convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversi
 
 Visto il [regio decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), costitutivo dell' Azienda di Stato per i servizi telefonici e successive modificazioni;
 
-Visto il regolamento delle ricevitorie, delle agenzie dei servizi rurali dell'Amministrazione postale telegrafica, approvato con [regio decreto 5 novembre 1937, n. 2161](Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md);
+Visto il regolamento delle ricevitorie, delle agenzie dei servizi rurali dell'Amministrazione postale telegrafica, approvato con [regio decreto 5 novembre 1937, n. 2161](../Regi%20decreti/Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md);
 
 Visto l'[art. 9 del decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;263#art_9), concernente provvedimenti economici a favore dei dipendenti statali;
 
@@ -78,7 +78,7 @@ A favore del personale indicato nei precedenti articoli si applicano, per quanto
 
 ## Art. 6.
 
-I provvedimenti economici disposti dal [decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;263), nei riguardi dei dipendenti statali indicati nell'art. 1 del decreto medesimo, sono applicabili, con le stesse norme e decorrenze stabilite per tali dipendenti, a tutto il personale dipendente dall'Azienda di Stato per i servizi telefonici di cui al [regio decreto 19 luglio 1941, n. 943](Modificazioni%20allordinamento%20degli%20uffici%20e%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20041U0943.md).
+I provvedimenti economici disposti dal [decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1946, n. 263](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-25;263), nei riguardi dei dipendenti statali indicati nell'art. 1 del decreto medesimo, sono applicabili, con le stesse norme e decorrenze stabilite per tali dipendenti, a tutto il personale dipendente dall'Azienda di Stato per i servizi telefonici di cui al [regio decreto 19 luglio 1941, n. 943](../Regi%20decreti/Modificazioni%20allordinamento%20degli%20uffici%20e%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20041U0943.md).
  A partire dal 1° settembre 1946, le distinzioni in relazione alla residenza di servizio agli effetti della paga, o retribuzione, stabilite dalla tabella n. 1 e dalla tabella n. 2 dell'allegato 3 al regio decreto n. 943 predetto, sono soppresse, e ai relativi personali e' in ogni caso assegnata la paga o retribuzione, gia' pertinente alle sedi con almeno 200.000 abitanti.
 
 ## Art. 7.

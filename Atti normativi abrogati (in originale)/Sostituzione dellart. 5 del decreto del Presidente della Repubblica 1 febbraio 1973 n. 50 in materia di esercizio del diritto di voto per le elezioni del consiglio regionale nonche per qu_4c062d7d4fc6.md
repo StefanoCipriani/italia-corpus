@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 107, primo comma, del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), che approva il testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige;
+Visto l'[art. 107, primo comma, del decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), che approva il testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige;
 
 Sentita la commissione paritetica per le norme di attuazione, prevista dal predetto art. 107;
 
@@ -32,7 +32,7 @@ L'art. 5 del decreto del Presidente della Repubblica 1 febbraio 1973, n. 50, e
  Gli elettori residenti in comuni della provincia di Bolzano che, nell'arco del quadriennio, abbiano maturato il maggior periodo di residenza nella provincia di Trento sono iscritti nelle liste elettorali aggiunte dei comuni di quest'ultima provincia, sino a quando non abbiano maturato, a norma del primo comma, il diritto di voto nella provincia di Bolzano".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
  - Il testo dell'art. 107 del D P.R. n. 670/1972 e' il seguente:

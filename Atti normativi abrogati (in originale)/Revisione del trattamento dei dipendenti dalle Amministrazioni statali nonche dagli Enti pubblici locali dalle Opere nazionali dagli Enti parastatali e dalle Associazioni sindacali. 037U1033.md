@@ -42,7 +42,7 @@ Gli aumenti spettanti in applicazione dei precedenti articoli 1 e 2, non sono co
 
 ## Art. 4.
 
-Le misure orarie del premi di operosita' e rendimento, previsti dal [R. decreto 17 febbraio 1924, n. 182](Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), sono fissate come appresso: 
+Le misure orarie del premi di operosita' e rendimento, previsti dal [R. decreto 17 febbraio 1924, n. 182](../Regi%20decreti/Norme%20per%20la%20concessione%20dei%20premi%20di%20operosita%20e%20di%20rendimento%20al%20personale%20dellAmministrazione%20dello%20Stato.%20024U0182.md), sono fissate come appresso: 
  
  L. 2,70, L. 2,50, L. 2,20 e L. 2 per il personale di ruolo appartenente, rispettivamente, ai gruppi A, B, C e subalterno; 
  
@@ -96,7 +96,7 @@ Gli aumenti stabiliti dall'art. 1 del presente decreto non hanno effetto sulle i
  
 a) ai premi per prolungamento di orario spettanti agli impiegati addetti a stabilimenti o servizi, in relazione all'orario di lavoro delle maestranze; 
  
- b) ai compensi per lavoro straordinario, festivo, notturno, ed a cottimo, nonche' ai premi di operosita' e di rendimento spettanti ai salariati con le norme del testo unico approvato con [R. decreto 24 dicembre 1924, n. 2114](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e successive modificazioni. 
+ b) ai compensi per lavoro straordinario, festivo, notturno, ed a cottimo, nonche' ai premi di operosita' e di rendimento spettanti ai salariati con le norme del testo unico approvato con [R. decreto 24 dicembre 1924, n. 2114](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) e successive modificazioni. 
  
  In ogni caso il compenso orario per lavoro straordinario, festivo e notturno, non puo' essere inferiore alla paga oraria ordinaria, diurna; 
  
@@ -122,7 +122,7 @@ Ai titolari di pensioni e di assegni che, in applicazione del [R. decreto-legge 
 
 Per ottenere gli aumenti di pensioni e di assegni di cui al precedente art. 9 gli interessati dovranno presentare domanda all'Ufficio provinciale del Tesoro presso l'Intendenza di finanza della Provincia ove riscuotono la pensione. 
  
- I provvedimenti con cui si neghi l'aumento, di pensione vengono comunicati agli interessati con le norme previste dall'[art. 13 del R. decreto 27 giugno 1933, n. 703](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-27;703#art_13). E' ammesso il ricorso alla Corte dei conti entro il termine perentorio di novanta giorni dalla data di comunicazione del provvedimento o dalla data del primo pagamento, se trattasi di provvedimenti concessivi di aumento per i quali non si fa luogo a comunicazione. 
+ I provvedimenti con cui si neghi l'aumento, di pensione vengono comunicati agli interessati con le norme previste dall'[art. 13 del R. decreto 27 giugno 1933, n. 703](../Regi%20decreti/Norme%20per%20la%20liquidazione%20delle%20pensioni%20presso%20lAmministrazione%20dello%20Stato%20e%20per%20il%20relativo%20controllo%20della%20Corte%20dei%20conti.%20033U0703.md). E' ammesso il ricorso alla Corte dei conti entro il termine perentorio di novanta giorni dalla data di comunicazione del provvedimento o dalla data del primo pagamento, se trattasi di provvedimenti concessivi di aumento per i quali non si fa luogo a comunicazione. 
  
  Sui ricorsi la Corte delibera nei modi previsti dal secondo comma dell'art. 16 del R. decreto n. 703, sopracitato. 
  

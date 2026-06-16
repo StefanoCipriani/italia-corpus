@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 10 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_10), che detta norme per la formazione del ruolo d'onore dei professori dei Regi istituti medi d'istruzione;
+Veduto l'[art. 10 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), che detta norme per la formazione del ruolo d'onore dei professori dei Regi istituti medi d'istruzione;
 
 Veduto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Sono iscritti nel ruolo d'onore previsto dall'[art. 10 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_10), i professori dei Regi istituti medi d'istruzione che abbiano ottenuto due aumenti anticipati di stipendio per merito e siano inoltre riconosciuti, a giudizio del Ministro per l'educazione nazionale, meritevoli di particolare distinzione per la loro opera di studiosi e di educatori e per speciali doti di carattere morale e patriottico. 
+Sono iscritti nel ruolo d'onore previsto dall'[art. 10 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), i professori dei Regi istituti medi d'istruzione che abbiano ottenuto due aumenti anticipati di stipendio per merito e siano inoltre riconosciuti, a giudizio del Ministro per l'educazione nazionale, meritevoli di particolare distinzione per la loro opera di studiosi e di educatori e per speciali doti di carattere morale e patriottico. 
  
  Il ruolo d'onore e' unico per tutti i professori medi.
 

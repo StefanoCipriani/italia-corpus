@@ -56,7 +56,7 @@ Agli operai ed ai coloni, addetti, in modo permanente od avventizio, a lavori in
  
  Le disposizioni, di cui al precedente comma, si applicano anche a favore degli impiegati e delle loro famiglie nei limiti previsti dalla legge sulle assicurazioni invalidita' e vecchiaia 30 dicembre 1923, n. 3184. 
  
- Quando la bonifica sia dichiarata ultimata, ai sensi delle disposizioni del [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e vi persistano le condizioni di malaricita' locale, la Provincia ha facolta' di integrare i servizi locali di assistenza e di profilassi sanitaria e puo' esservi chiamata obbligatoriamente con decreto del prefetto, ai termini dell'[art. 8 del R. decreto 30 dicembre 1923, n.2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md). 
+ Quando la bonifica sia dichiarata ultimata, ai sensi delle disposizioni del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e vi persistano le condizioni di malaricita' locale, la Provincia ha facolta' di integrare i servizi locali di assistenza e di profilassi sanitaria e puo' esservi chiamata obbligatoriamente con decreto del prefetto, ai termini dell'[art. 8 del R. decreto 30 dicembre 1923, n.2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md). 
  
  Per la adeguata integrazione di questi servizi il Ministero dell'interno puo' concedere sussidi nei limiti della disponibilita' dello speciale stanziamento del suo bilancio.
 
@@ -96,7 +96,7 @@ Nel caso previsto dall'art. 7, alla Provincia o all'ente designato per il disimp
  
  4° contributo da parte degli assuntori delle altre opere pubbliche, sulla base dell'importo che risultera' dai progetti approvati dalle autorita' competenti; 
  
- 5° eventuale contributo della Provincia, a norma dell'[art. 8 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md); 
+ 5° eventuale contributo della Provincia, a norma dell'[art. 8 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md); 
  
  6° eventuali contributi da parte di enti e di privati.
 
@@ -128,7 +128,7 @@ Il prefetto, quando accerti l'esecuzione di lavori ed opere che procurino ostaco
  
  Qualora trattisi di esecuzione di opere pubbliche statali, il prefetto promuovera' i provvedimenti dell'Amministrazione competente. 
  
- Il prefetto puo' anche rendere obbligatoria per i proprietari di terreni la esecuzione di lavori per eliminare le piccole raccolte di acqua, sempre quando non creda di promuovere l'intervento del Ministero dell'agricoltura e delle foreste, per i lavori e gli interventi antianofelici di cui al titolo IV del [R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215). 
+ Il prefetto puo' anche rendere obbligatoria per i proprietari di terreni la esecuzione di lavori per eliminare le piccole raccolte di acqua, sempre quando non creda di promuovere l'intervento del Ministero dell'agricoltura e delle foreste, per i lavori e gli interventi antianofelici di cui al titolo IV del [R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md). 
  
  I regolamenti locali di igiene dei Comuni aventi zone malariche devono contenere, ove del caso, le norme per la piccola bonifica e per la profilassi antianofelica, con particolare riguardo ai focolai urbani ed a quelli intorno ai centri abitati.
 
@@ -146,7 +146,7 @@ L'apertura di cave di prestito necessarie alla costruzione di strade, di canali 
  
  Gli imprenditori che contravvengano a questa disposizione sono puniti con l'ammenda da L. 100 a L. 2000, salvo al prefetto a provvedere di ufficio nei modi indicati dall'art. 13. 
  
- Restano ferme le disposizioni contemplate dagli [articoli 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_50) e [52 del R. decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_52), riflettente le nuove norme per la bonifica integrale.
+ Restano ferme le disposizioni contemplate dagli [articoli 50](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) e [52 del R. decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), riflettente le nuove norme per la bonifica integrale.
 
 ## Art. 16.
 
@@ -168,7 +168,7 @@ Con Regio decreto, da emanarsi su proposta dal Ministro per l'interno, di concer
 
 ## Art. 19.
 
-Sono abrogate le disposizioni per diminuire la cause della malaria contenute nel [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636 (titolo V, cap. 2°, sezione IV, paragrafo 1°) le disposizioni degli [articoli 69](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), [70](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), [71](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md) e [72 del R. decreto 30 dicembre 1923, n. 2889](Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e tutte le altre contrarie e, comunque, incompatibili con le norme contenute nella presente legge.
+Sono abrogate le disposizioni per diminuire la cause della malaria contenute nel [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636 (titolo V, cap. 2°, sezione IV, paragrafo 1°) le disposizioni degli [articoli 69](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), [70](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), [71](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md) e [72 del R. decreto 30 dicembre 1923, n. 2889](../Regi%20decreti/Riforma%20degli%20ordinamenti%20sanitari.%20023U2889.md), e tutte le altre contrarie e, comunque, incompatibili con le norme contenute nella presente legge.
 
 ## Art. 20.
 

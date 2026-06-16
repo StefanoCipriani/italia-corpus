@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Dal 21 febbraio al 27 aprile 1916 nelle scuole superiori di medicina veterinaria si svolgera' un corso comprendente le materie del quarto anno di esse scuole, giusta l'art. 14 del regolamento unico, per le predette scuole, approvato con [R. decreto 29 gennaio 1891, numero 120](Che%20approva%20lannesso%20regolamento%20unico%20per%20le%20Regie%20Scuole%20superiori%20di%20Medicina%20veterinaria%20del%20Regno.%20091U0120.md), corso che sara' seguito da tutti gli studenti inscritti al quarto anno, compresi quelli militari. 
+Dal 21 febbraio al 27 aprile 1916 nelle scuole superiori di medicina veterinaria si svolgera' un corso comprendente le materie del quarto anno di esse scuole, giusta l'art. 14 del regolamento unico, per le predette scuole, approvato con [R. decreto 29 gennaio 1891, numero 120](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20unico%20per%20le%20Regie%20Scuole%20superiori%20di%20Medicina%20veterinaria%20del%20Regno.%20091U0120.md), corso che sara' seguito da tutti gli studenti inscritti al quarto anno, compresi quelli militari. 
  
  Questo corso si svolgera' senza interruzione, essendo abolite, rispetto ad esso, le vacanze di cui al paragrafo n. 3 dell'art. 4 del citato regolamento unico.
 

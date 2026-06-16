@@ -20,7 +20,7 @@ Visto l'[art. 10 del R. decreto 30 dicembre 1923, n. 3245](https://www.normattiv
 
 Visti gli [articoli 15](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [19 del R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
@@ -34,7 +34,7 @@ I posti di capi circolo sono conferiti mediante concorsi per titoli agli ispetto
  
  Il posto di capo circolo medico e' conferito esclusivamente a laureati in medicina nei modi e con le condizioni previste dal comma precedente. 
  
- Nella prima applicazione del presente decreto, non piu' di due posti vacanti nel grado di capo circolo saranno conferiti mediante il concorso per titoli, al quale potranno prendere parte gli ispettori di qualunque grado ed anzianita' di servizio, purche' abbiano conseguito nell'ultimo quinquennio esclusivamente qualifiche di ottimo e di distinto, ed anche gli estranei i quali abbiano i requisiti richiesti per la nomina ad ispettori di cui all'art. 5 del presente decreto ed ai [numeri 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1-num1) e [5 dell'art. 1 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1-num5), abbiano compiuto almeno 25 anni e non abbiano superato 45 anni di eta'.
+ Nella prima applicazione del presente decreto, non piu' di due posti vacanti nel grado di capo circolo saranno conferiti mediante il concorso per titoli, al quale potranno prendere parte gli ispettori di qualunque grado ed anzianita' di servizio, purche' abbiano conseguito nell'ultimo quinquennio esclusivamente qualifiche di ottimo e di distinto, ed anche gli estranei i quali abbiano i requisiti richiesti per la nomina ad ispettori di cui all'art. 5 del presente decreto ed ai [numeri 1](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [5 dell'art. 1 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), abbiano compiuto almeno 25 anni e non abbiano superato 45 anni di eta'.
 
 ### Art. 3.
 

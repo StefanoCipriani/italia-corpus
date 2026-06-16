@@ -20,7 +20,7 @@ Vista la [legge 10 marzo 1911, n. 147](Concernente%20il%20nuovo%20organico%20per
 
 Vista la legge sugli stipendi ed assegni fissi per il R. esercito, testo unico approvato con [R. decreto 14 luglio 1898, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;38), e successive modificazioni;
 
-Vista la legge sulle pensioni civili e militari, testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e successive modificazioni;
+Vista la legge sulle pensioni civili e militari, testo unico approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e successive modificazioni;
 
 Vista la legge sullo stato degli impiegati civili, testo unico approvato con [R. decreto 22 novembre 1908, n. 693](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sullo%20stato%20degli%20impiegati%20civili.%20008U0693.md);
 

@@ -18,9 +18,9 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Veduto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato; 
+ Veduto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato; 
  
- Veduto l'[art. 52 del testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536; 
+ Veduto l'[art. 52 del testo unico delle leggi sul Debito pubblico](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md) 17 luglio 1910, n. 536; 
  
  Veduti gli articoli 1 e 2 del regolamento sul Debito pubblico, approvato con [R. decreto 19 febbraio 1911, n. 298](Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md); 
  

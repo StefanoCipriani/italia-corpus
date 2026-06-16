@@ -114,11 +114,11 @@ Capo II.
 
 ### Art. 17.
 
-La Regia stazione sperimentale per le industrie delle conserve alimentari istituita in Parma con [R. decreto 2 luglio 1922, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-07-02;1396), ha funzionamento autonomo ed esercita opera di controllo sulla produzione delle conserve tanto dei prodotti vegetali quanto dei prodotti animali. 
+La Regia stazione sperimentale per le industrie delle conserve alimentari istituita in Parma con [R. decreto 2 luglio 1922, n. 1396](../Regi%20decreti/Istituzione%20di%20stazione%20sperimentale.%20022U1396.md), ha funzionamento autonomo ed esercita opera di controllo sulla produzione delle conserve tanto dei prodotti vegetali quanto dei prodotti animali. 
  
  Con decreto Reale, su proposta del Ministro per l'economia nazionale, potra' essere trasportata in altra localita' la sede della Stazione e potranno essere istituite sezioni in determinate regioni a seconda della importanza della produzione dei diversi generi di conserve. 
  
- Oltre ai compiti assegnati dall'[art. 2 del R. decreto 2 luglio 1922, n. 1396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-07-02;1396#art_2), la Stazione procedera' agli studi ed alle indagini di carattere tecnico che l'Istituto nazionale per le conserve alimentari creda di istituire. In caso di disaccordo fra l'Istituto e la Stazione, decide il Ministro per l'economia nazionale.
+ Oltre ai compiti assegnati dall'[art. 2 del R. decreto 2 luglio 1922, n. 1396](../Regi%20decreti/Istituzione%20di%20stazione%20sperimentale.%20022U1396.md), la Stazione procedera' agli studi ed alle indagini di carattere tecnico che l'Istituto nazionale per le conserve alimentari creda di istituire. In caso di disaccordo fra l'Istituto e la Stazione, decide il Ministro per l'economia nazionale.
 
 ### Art. 18.
 

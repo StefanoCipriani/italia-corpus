@@ -76,7 +76,7 @@ All'[art. 3 della legge 10 agosto 1950, n. 646](Istituzione%20della%20Cassa%20pe
 
 Nei territori di cui all'[art. 3 della legge 10 agosto 1950, n. 646](Istituzione%20della%20Cassa%20per%20opere%20straordinarie%20di%20pubblico%20interesse%20nellItalia%20meridionale%20Cassa%20per%20il%20Mezzogiorno.md), e successive modificazioni e integrazioni, la Cassa per il Mezzogiorno puo' ammettere a contributo le spese da sostenersi dai proprietari interessati per promuovere la costruzione degli impianti di adduzione e distribuzione della energia elettrica, occorrenti per gli usi del comprensorio di bonifica o di una notevole parte di esso.
 Il contributo della Cassa non puo' superare le aliquote previste
-negli [articoli 7 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_7), e 1 della [legge 26 novembre 1955, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-26;1124), per le opere di cui alla lettera f) dell'art. 2 dello stesso decreto.
+negli [articoli 7 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e 1 della [legge 26 novembre 1955, n. 1124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-26;1124), per le opere di cui alla lettera f) dell'art. 2 dello stesso decreto.
  Nei casi in cui la Cassa per il Mezzogiorno e' autorizzata a costruire a totale suo carico le linee di adduzione, giusta l'[art. 9 della legge 9 aprile 1953, n. 297](Provvedimenti%20a%20favore%20della%20citta%20di%20Napoli.md), e' in facolta' dello stesso Ente di promuovere l'impianto di tali linee.
 
 ### Art. 10.
@@ -111,12 +111,12 @@ TITOLO II
 
 ### Art. 15.
 
-Il [terzo comma dell'art. 41 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_41-com3), e' modificato nel senso che il credito del Consorzio di bonifica verso i proprietari per la esecuzione di opere di competenza privata, siano esse comuni a piu' fondi o particolari a un dato fondo, e' equiparato ai contributi spettanti al Consorzio per la esecuzione, manutenzione ed esercizio delle opere di competenza statale, agli effetti della riscossione con le norme e i privilegi vigenti per la imposta fondiaria, secondo quanto e' stabilito nell'art. 21 dello stesso decreto.
- La disposizione del comma precedente si applica anche nel caso in cui i crediti dei Consorzi verso i proprietari dipendano dall'esecuzione di opere di competenza privata, assunta d'ufficio in base all'[art. 42 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_42).
+Il [terzo comma dell'art. 41 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' modificato nel senso che il credito del Consorzio di bonifica verso i proprietari per la esecuzione di opere di competenza privata, siano esse comuni a piu' fondi o particolari a un dato fondo, e' equiparato ai contributi spettanti al Consorzio per la esecuzione, manutenzione ed esercizio delle opere di competenza statale, agli effetti della riscossione con le norme e i privilegi vigenti per la imposta fondiaria, secondo quanto e' stabilito nell'art. 21 dello stesso decreto.
+ La disposizione del comma precedente si applica anche nel caso in cui i crediti dei Consorzi verso i proprietari dipendano dall'esecuzione di opere di competenza privata, assunta d'ufficio in base all'[art. 42 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md).
 
 ### Art. 16.
 
-Su richiesta dei proprietari interessati i Consorzi possono assumere la esecuzione delle opere di cui al precedente articolo anche in attesa della formazione e del completamento del piano generale di bonifica o della sua approvazione, sempre che le opere siano sussidiate in quanto necessarie ai fini della bonifica, a termini dell'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_2) e dell'[art. 8 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_8).
+Su richiesta dei proprietari interessati i Consorzi possono assumere la esecuzione delle opere di cui al precedente articolo anche in attesa della formazione e del completamento del piano generale di bonifica o della sua approvazione, sempre che le opere siano sussidiate in quanto necessarie ai fini della bonifica, a termini dell'[art. 2](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) e dell'[art. 8 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md).
  Ai crediti dei Consorzi verso i proprietari si applica il disposto del precedente articolo.
 
 ### Art. 17.
@@ -229,7 +229,7 @@ Le disposizioni di cui agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?
 
 ### Art. 30.
 
-I benefici previsti dalla [legge 17 luglio 1954, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;522), sono iscritti nello stato di previsione della spesa del Ministero della marina mercantile ai sensi dell'[art. 41 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41), per le commesse affidate ai cantieri costruttori e riparatori dell'Italia meridionale.
+I benefici previsti dalla [legge 17 luglio 1954, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;522), sono iscritti nello stato di previsione della spesa del Ministero della marina mercantile ai sensi dell'[art. 41 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), per le commesse affidate ai cantieri costruttori e riparatori dell'Italia meridionale.
 
 ## Agevolazioni fiscali e varie
 

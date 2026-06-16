@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 2 aprile 1925, n. 383](Costituzione%20di%20un%20co
 
 Visto il regolamento per il Corpo predetto, approvato con [regio decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629);
 
-Visto il [regio decreto 24 ottobre 1941, n. 1353](Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md), contenente modificazioni alle norme per l'avanzamento ai gradi di sottufficiale del Corpo medesimo;
+Visto il [regio decreto 24 ottobre 1941, n. 1353](../Regi%20decreti/Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md), contenente modificazioni alle norme per l'avanzamento ai gradi di sottufficiale del Corpo medesimo;
 
 Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.%20044U0365.md), relativo alla costituzione del Corpo delle guardie di pubblica sicurezza;
 
@@ -28,15 +28,15 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-Per i sottufficiali del Corpo delle guardie di pubblica sicurezza, che sono stati promossi al grado di brigadiere con decorrenza dal 1° luglio 1945, i periodi minimi di permanenza in detto grado previsti dall'[art. 15 del regio decreto 24 ottobre 1941, n. 1353](Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md), per la promozione a maresciallo di terza classe mediante esame di concorso e per anzianita' e merito sono ridotti, fino al 31 ottobre 1947, rispettivamente a un anno e a due anni.
+Per i sottufficiali del Corpo delle guardie di pubblica sicurezza, che sono stati promossi al grado di brigadiere con decorrenza dal 1° luglio 1945, i periodi minimi di permanenza in detto grado previsti dall'[art. 15 del regio decreto 24 ottobre 1941, n. 1353](../Regi%20decreti/Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md), per la promozione a maresciallo di terza classe mediante esame di concorso e per anzianita' e merito sono ridotti, fino al 31 ottobre 1947, rispettivamente a un anno e a due anni.
 
 ## Art. 2.
 
-Ai fini dell'ammissione al primo concorso per l'avanzamento al grado di vice brigadiere che verra' indetto dopo l'entrata in vigore del presente decreto, i limiti di eta' previsti dagli [articoli 4](Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md) e [5 del regio decreto 24 ottobre 1941, n. 1353](Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md), sono aumentati di quattro anni.
+Ai fini dell'ammissione al primo concorso per l'avanzamento al grado di vice brigadiere che verra' indetto dopo l'entrata in vigore del presente decreto, i limiti di eta' previsti dagli [articoli 4](../Regi%20decreti/Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md) e [5 del regio decreto 24 ottobre 1941, n. 1353](../Regi%20decreti/Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md), sono aumentati di quattro anni.
 
 ## Art. 3.
 
-Limitatamente agli aspiranti al concorso di cui all'articolo precedente, non si applica la disposizione dell'[art. 6 del regio decreto 24 ottobre 1941, n. 1353](Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md).
+Limitatamente agli aspiranti al concorso di cui all'articolo precedente, non si applica la disposizione dell'[art. 6 del regio decreto 24 ottobre 1941, n. 1353](../Regi%20decreti/Modificazioni%20alle%20norme%20di%20avanzamento%20al%20grado%20di%20vice%20brigadiere%20brigadiere%20e%20maresciallo%20del%20Corpo%20degli%20agenti%20di%20P.%20S.%20041U1353.md).
  Il presente decreto entrera' in Vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.

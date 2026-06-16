@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 6 settembre 1923, n. 2009](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), riguardante la istituzione del servizio degli osservatori industriali;
+Visto il [R. decreto 6 settembre 1923, n. 2009](../Regi%20decreti/Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), riguardante la istituzione del servizio degli osservatori industriali;
 
 Visto il [R. decreto 4 gennaio 1925, n. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-04;123), concernente l'ordinamento della Commissione suprema di difesa;
 
@@ -58,7 +58,7 @@ All'[art. 4 del R. decreto 4 gennaio 1925, n. 123](https://www.normattiva.it/uri
  
  a) il Consiglio dell'esercito (di cui all'[art. 11 della legge 8 giugno 1925, n. 969](Organizzazione%20della%20Nazione%20per%20la%20guerra.%20025U0969.md)); 
  
- b) il Comitato degli ammiragli (istituito con [R. decreto 1° febbraio 1920, n. 156](Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md)); 
+ b) il Comitato degli ammiragli (istituito con [R. decreto 1° febbraio 1920, n. 156](../Regi%20decreti/Relativo%20alla%20costituzione%20ed%20alle%20attribuzioni%20dei%20corpi%20consultivi%20della%20R.%20marina.%20020U0156.md)); 
  
  c) il Consiglio superiore della Regia aeronautica; 
  
@@ -96,7 +96,7 @@ All'[art. 5 del R. decreto 4 gennaio 1925, n. 123](https://www.normattiva.it/uri
  
  «Il personale occorrente per il servizio di segreteria del Comitato viene proposto dal suo presidente e comandato, a sua richiesta, dai Ministeri interessati. 
  
- «Il presidente del Comitato per la mobilitazione civile fa parte di diritto del Consiglio superiore dell'economia nazionale, di cui all'[art. 22 del R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md)».
+ «Il presidente del Comitato per la mobilitazione civile fa parte di diritto del Consiglio superiore dell'economia nazionale, di cui all'[art. 22 del R. decreto 6 settembre 1923, n. 2125](../Regi%20decreti/Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md)».
 
 ## Art. 4.
 
@@ -108,13 +108,13 @@ Il [2° comma dell'art. 6 del R. decreto 4 gennaio 1925, n. 123](https://www.nor
 
 ## Art. 5.
 
-All'[art. 3 del R. decreto 6 settembre 1923, n. 2009](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), e' sostituito il seguente: 
+All'[art. 3 del R. decreto 6 settembre 1923, n. 2009](../Regi%20decreti/Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), e' sostituito il seguente: 
  
  «Il servizio degli osservatori industriali fa parte del Ministero dell'economia nazionale ed e' alla diretta dipendenza del presidente del Comitato per la mobilitazione civile, per il suo speciale servizio».
 
 ## Art. 6.
 
-Al [3°](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md) e [4° comma dell'art. 5 del R. decreto 6 settembre 1923, n. 2009](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), sono sostituiti i seguenti: 
+Al [3°](../Regi%20decreti/Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md) e [4° comma dell'art. 5 del R. decreto 6 settembre 1923, n. 2009](../Regi%20decreti/Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), sono sostituiti i seguenti: 
  
  «I dati raccolti dovranno essere comunicati, in via riservatissima, esclusivamente alla segreteria del Comitato per la mobilitazione civile, alla quale pure incombe l'obbligo del segreto a norma del comma precedente. 
  
@@ -122,19 +122,19 @@ Al [3°](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023
 
 ## Art. 7.
 
-Al 2° comma. dell'[art. 6 del R. decreto 6 settembre 1923, n. 2009](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), e' sostituito il seguente: 
+Al 2° comma. dell'[art. 6 del R. decreto 6 settembre 1923, n. 2009](../Regi%20decreti/Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), e' sostituito il seguente: 
  
  «Salvo che il fatto costituisca altro piu' grave reato, l'osservatore industriale, od altri che, appartenendo al personale dipendente dal presidente del Comitato per la mobilitazione civile, comunichi, anche ad una sola persona, le notizie fornite dalle ditte industriali, e' punito con la detenzione fino a 30 mesi e con la multa sino a L. 3000».
 
 ## Art. 8.
 
-Al [1° comma dell'art. 7 del R. decreto 6 settembre 1923, n. 2009](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), e' sostituito il seguente: 
+Al [1° comma dell'art. 7 del R. decreto 6 settembre 1923, n. 2009](../Regi%20decreti/Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), e' sostituito il seguente: 
  
  «Gli osservatori industriali saranno scelti fra i tenenti colonnelli, maggiori e capitani del Regio esercito e gradi corrispondenti della Regia marina e della Regia aeronautica e fra i chimici delle suddette Amministrazioni militari; e saranno ammessi allo speciale servizio con le norme che verranno emanate dalle Amministrazioni militari interessate, di concerto col Ministero dell'economia nazionale».
 
 ## Art. 9.
 
-Al [2° comma dell'art. 10 del R. decreto 6 settembre 1923, n. 2009](Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), e' sostituito il seguente: 
+Al [2° comma dell'art. 10 del R. decreto 6 settembre 1923, n. 2009](../Regi%20decreti/Istituzione%20del%20servizio%20degli%20Osservatori%20industriali.%20023U2009.md), e' sostituito il seguente: 
  
  «Alle spese ordinarie di ufficio (escluse quelle relative all'ammobiliamento, riscaldamento ed illuminazione) provvedera' il Ministero dell'economia nazionale, sul cui bilancio sara' inscritta la somma di L. 60.000 che verra' erogata e ripartita secondo le norme da stabilirsi dal Ministero dell'economia nazionale di concerto con quello delle finanze».
 

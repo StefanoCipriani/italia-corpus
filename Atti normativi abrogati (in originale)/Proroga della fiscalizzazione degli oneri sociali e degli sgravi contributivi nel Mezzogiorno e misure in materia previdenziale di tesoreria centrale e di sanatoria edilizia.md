@@ -36,7 +36,7 @@ A decorrere dal periodo di paga in corso alla data del 1 giugno 1985 e fermo res
                         c)
                             per tutti i dipendenti delle imprese indicate nell'[articolo 1, primo comma, della legge 28 novembre 1980, n. 782](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-28;782#art_1-com1), ulteriori 5,24 punti;
                         d)
-                            per i dipendenti delle imprese che operano nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), lo sgravio aggiuntivo di 2,54 punti.
+                            per i dipendenti delle imprese che operano nei territori di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), lo sgravio aggiuntivo di 2,54 punti.
 
 3.
 
@@ -111,7 +111,7 @@ Non sono ammesse rateazioni superiori ai quarantotto mesi.
 
 7.
 
-Per la riscossione dei contributi dovuti per le forme obbligatorie di previdenza si applicano le disposizioni del testo unico per la riscossione delle entrate patrimoniali dello Stato approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Per la riscossione dei contributi dovuti per le forme obbligatorie di previdenza si applicano le disposizioni del testo unico per la riscossione delle entrate patrimoniali dello Stato approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 3.
 

@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
-Visto il [regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
+Visto il [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 1994;
 
@@ -37,9 +37,9 @@ E M A N A il seguente regolamento:
 Il presente regolamento disciplina il procedimento di concessione di licenza obbligatoria per uso non esclusivo di invenzione industriale.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposziioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposziioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota al titolo:
- - Il testo degli articoli 54/54-sexies del [regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md): "Testo delle disposizioni legislative in materia di brevetti per invenzioni industriali" (pubblicato nella Gazzetta Ufficiale n. 189 del 14 agosto 1939, e' il seguente:
+ - Il testo degli articoli 54/54-sexies del [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md): "Testo delle disposizioni legislative in materia di brevetti per invenzioni industriali" (pubblicato nella Gazzetta Ufficiale n. 189 del 14 agosto 1939, e' il seguente:
  "Art. 54 (art. 58, n. 3, della legge 30 ottobre 1859, n. 3731). - Trascorsi tre anni dalla data di rilascio del brevetto, o quattro anni dalla data di deposito della domanda se questo termine scade successivamente al precedente, qualora il titolare del brevetto o il suo avente causa, direttamente o a mezzo di uno o piu' licenziatari, non abbia attuato nel territorio dello Stato l'invenzione brevettata, o l'abbia attuata in misura tale da risultare in grave sproporzione con i bisogni del Paese, puo' essere concessa licenza obbligatoria per l'uso non esclusivo dell'invenzione medesima, a favore di ogni interessato che ne faccia richiesta.
  La licenza obbligatoria di cui al precedente comma puo' ugualmente venire concessa:
  1) qualora l'attuazione dell'invenzione sia stata, per oltre tre anni, sospesa o ridotta a una misura tale da risultare in grave sproporzione con i bisogni del Paese;
@@ -135,7 +135,7 @@ Il termine per la conclusione del procedimento e' di centottanta giorni, decorre
 
 1.
 
-Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento, sono abrogati gli [articoli 54-quater](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md) e [54-quinquies del regio decreto 29 giugno 1939, n. 1127](Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md).
+Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento, sono abrogati gli [articoli 54-quater](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md) e [54-quinquies del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md).
 
 Nota all'articolo 6:
  - Per il testo dell'[articolo 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

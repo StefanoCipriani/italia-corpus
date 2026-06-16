@@ -20,11 +20,11 @@ UMBERTO DI SAVOIA
  
  Visto il [R. decreto legge 26 luglio 1929, n. 1430](Modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali.%20029U1430.md), convertito in legge con la [legge 23 dicembre 1929, n. 2294](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%2026%20luglio%201929%20n.%201430%20recante%20modificazioni%20allordinamento%20e%20allorganico%20dellArma%20dei%20carabinieri%20Reali%20e%2026%20luglio%201929%20n.%201413%20recante%20modif_c7d0d2470189.md), e successive modificazioni; 
  
- Visto il [R. decreto 14 giugno 1934, n. 1169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-06-14;1169); 
+ Visto il [R. decreto 14 giugno 1934, n. 1169](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20larma%20dei%20carabinieri.%20034U1169.md); 
  
  Vista la [legge 2 giugno 1936, n. 1225](Provvedimenti%20per%20i%20sottufficiali%20e%20militari%20di%20truppa%20dei%20carabinieri%20Reali.%20036U1225.md); 
  
- Visto il [R. decreto 1° ottobre 1936, n. 2145](Modificazioni%20al%20regolamento%20organico%20per%20lArma%20dei%20carabinieri%20Reali.%20036U2145.md); 
+ Visto il [R. decreto 1° ottobre 1936, n. 2145](../Regi%20decreti/Modificazioni%20al%20regolamento%20organico%20per%20lArma%20dei%20carabinieri%20Reali.%20036U2145.md); 
  
  Visto il [R. decreto-legge 28 aprile 1937, n. 966](Aumento%20dellorganico%20degli%20appuntati%20dellArma%20dei%20carabinieri%20Reali.%20037U0966.md); 
  

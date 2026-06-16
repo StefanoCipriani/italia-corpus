@@ -20,7 +20,7 @@ Vista la [legge del 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Eserc
 
 Visto il regolamento per la esecuzione della predetta legge, approvato con [R. decreto 21 luglio 1907, n. 626](Approvazione%20dellannesso%20regolamento%20per%20la%20esecuzione%20della%20vigente%20legge%20sullavanzamento%20del%20R.%20esercito.%20007U0626.md);
 
-Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito del Regno d'Italia, approvato con R. decreto 28 novembre 1869;
+Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito del Regno d'Italia, approvato con R. decreto 28 novembre 1869;
 
 Visto il regolamento generale per l'arma dei carabinieri Reali, approvato con R. decreto 24 dicembre 1911;
 

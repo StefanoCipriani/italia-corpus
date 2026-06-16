@@ -40,7 +40,7 @@ Alle impiegate ed agli impiegati obbligati all'uso della divisa, indicati all'ar
 
 ## Art. 3.
 
-L'infrazione all'obbligo di indossare la divisa e' punibile con le sanzioni di cui al Cap. VIII del [R. decreto n. 2960 del 30 dicembre 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960).
+L'infrazione all'obbligo di indossare la divisa e' punibile con le sanzioni di cui al Cap. VIII del [R. decreto n. 2960 del 30 dicembre 1923](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 4.
 

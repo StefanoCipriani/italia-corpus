@@ -54,7 +54,7 @@ La sede d'ogni tribunale militare territoriale e' stabilita in:
 
 ## Art. 2.
 
-Il tribunale militare da eleggersi in conformita' della tabella annessa all'[articolo 312 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito siedera': 
+Il tribunale militare da eleggersi in conformita' della tabella annessa all'[articolo 312 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'Esercito siedera': 
  
  In Firenze per le Divisioni militari di Firenze, Roma e Perugia; 
  

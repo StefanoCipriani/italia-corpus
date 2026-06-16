@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Veduto l'[art. 157 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_157), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e il regolamento, approvato con [R. decreto 28 febbraio 1907, n. 61](Che%20approva%20lannesso%20regolamento%20unico%20per%20la%20esecuzione%20delle%20leggi%20per%20diminuire%20le%20cause%20della%20malaria%20e%20per%20la%20vendita%20del%20chinino%20di%20Stato.%20007U0061.md), che contengono disposizioni per diminuire le cause della malaria; 
+ Veduto l'[art. 157 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), e il regolamento, approvato con [R. decreto 28 febbraio 1907, n. 61](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20unico%20per%20la%20esecuzione%20delle%20leggi%20per%20diminuire%20le%20cause%20della%20malaria%20e%20per%20la%20vendita%20del%20chinino%20di%20Stato.%20007U0061.md), che contengono disposizioni per diminuire le cause della malaria; 
  
  Visto l'art. 7 del Nostro decreto 31 dicembre 1915, n. 1910; 
  
- Visto il [R. decreto 25 agosto 1904, n. 487](Che%20dichiara%20zone%20malariche%20talune%20porzioni%20di%20territorio%20in%20provincia%20di%20Sassari.%20004U0487.md), con cui, tra l'altro, a modificazione del precedente decreto 19 marzo 1903, n. 237, tutto il territorio del comune di Portotorres, in provincia di Sassari, venne dichiarato zona malarica, comprendendovi pertanto il territorio dell'isola dell'Asinara, che fa parte del detto Comune; 
+ Visto il [R. decreto 25 agosto 1904, n. 487](../Regi%20decreti/Che%20dichiara%20zone%20malariche%20talune%20porzioni%20di%20territorio%20in%20provincia%20di%20Sassari.%20004U0487.md), con cui, tra l'altro, a modificazione del precedente decreto 19 marzo 1903, n. 237, tutto il territorio del comune di Portotorres, in provincia di Sassari, venne dichiarato zona malarica, comprendendovi pertanto il territorio dell'isola dell'Asinara, che fa parte del detto Comune; 
  
  Visto il rapporto, col quale il prefetto della Provincia stessa ha inviato le proposte di quel medico provinciale per la modifica della zona malarica nel comune di Portotorres, nel senso di revocare la dichiarazione per la parte di territorio dell'isola dell'Asinara; 
  
@@ -38,7 +38,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- La circoscrizione della zona malarica, delimitata per tutto il territorio del comune di Portotorres con il [R. decreto 25 agosto 1904, n. 487](Che%20dichiara%20zone%20malariche%20talune%20porzioni%20di%20territorio%20in%20provincia%20di%20Sassari.%20004U0487.md), viene modificata ad ogni effetto di legge e di regolamento, nel senso che da tale zona viene tolto il territorio dell'isola dell'Asinara, che fa parte del comune di Portotorres. 
+ La circoscrizione della zona malarica, delimitata per tutto il territorio del comune di Portotorres con il [R. decreto 25 agosto 1904, n. 487](../Regi%20decreti/Che%20dichiara%20zone%20malariche%20talune%20porzioni%20di%20territorio%20in%20provincia%20di%20Sassari.%20004U0487.md), viene modificata ad ogni effetto di legge e di regolamento, nel senso che da tale zona viene tolto il territorio dell'isola dell'Asinara, che fa parte del comune di Portotorres. 
  
  L'isola dell'Asinara viene pertanto ritenuta immune da infezione malarica. 
  

@@ -70,7 +70,7 @@ In prima applicazione, per il conferimento dei posti con decorrenza 1° gennaio 
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
 
@@ -173,7 +173,7 @@ La valutazione dei titoli viene effettuata, sulla base dei criteri indicati all'
 
 9.
 
-Ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), ai titoli non puo' essere attribuito un punteggio complessivo superiore a punti 10.
+Ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), ai titoli non puo' essere attribuito un punteggio complessivo superiore a punti 10.
 
 10.
 
@@ -185,7 +185,7 @@ Il personale che, nell'ambito dei posti messi a concorso, risulta collocato util
 
 Note all'art. 3:
  - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
- - Il testo dell'[art. 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), concernente "Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento dei concorsi, dei concorsi unici e delle altre forme di assunzione nei pubblici impieghi", e' il seguente:
+ - Il testo dell'[art. 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), concernente "Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento dei concorsi, dei concorsi unici e delle altre forme di assunzione nei pubblici impieghi", e' il seguente:
  "Art. 8 (Concorso per titoli ed esami). - 1. Nei casi in cui l'assunzione a determinati profili avvenga mediante concorso per titoli e per esami, la valutazione dei titoli, previa individuazione dei criteri, e' effettuata dopo le prove scritte e prima che si proceda alla correzione dei relativi elaborati.
  2. Per i titoli non puo' essere attribuito un punteggio complessivo superiore a 10/30 o equivalente; il bando indica i titoli valutabili ed il punteggio massimo agli stessi attribuibile singolarmente e per categorie di titoli.
  3. Le prove di esame si svolgono secondo le modalita' previste dagli articoli 6 e 7 del presente regolamento.
@@ -221,11 +221,11 @@ I predetti titoli devono essere posseduti alla data di scadenza della presentazi
 
 3.
 
-Ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), ai titoli non puo' essere attribuito un punteggio complessivo superiore a punti 10.
+Ai sensi dell'[articolo 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), ai titoli non puo' essere attribuito un punteggio complessivo superiore a punti 10.
 
 Note all'art. 4:
  - Per il testo dell'[art. 12 del decreto legislativo n. 217 del 13 ottobre 2005](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
- - Per il testo dell'[art. 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), si veda la nota all'art. 3.
+ - Per il testo dell'[art. 8 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), si veda la nota all'art. 3.
 
 ## Norme comuni
 
@@ -310,11 +310,11 @@ Nota all'art. 8:
 
 1.
 
-Per quanto non previsto dal presente decreto, si applicano le disposizioni del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e, in quanto compatibili, quelle del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modificazioni.
+Per quanto non previsto dal presente decreto, si applicano le disposizioni del [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e, in quanto compatibili, quelle del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modificazioni.
 
 Note all'art. 9:
  - Per i riferimenti al [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si vedano le note alle premesse.
- - Il citato [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 9 agosto 1994, n. 185.
+ - Il citato [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 9 agosto 1994, n. 185.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

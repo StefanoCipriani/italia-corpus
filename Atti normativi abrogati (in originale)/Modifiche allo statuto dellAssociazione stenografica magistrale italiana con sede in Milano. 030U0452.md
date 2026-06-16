@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduta la domanda con la quale l'Associazione stenografica magistrale italiana, con sede in Milano, chiede che si apportino alcune modificazioni allo statuto organico approvato con [R. decreto 19 giugno 1924, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1044);
+Veduta la domanda con la quale l'Associazione stenografica magistrale italiana, con sede in Milano, chiede che si apportino alcune modificazioni allo statuto organico approvato con [R. decreto 19 giugno 1924, n. 1044](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellAssociazione%20stenografica%20magistrale%20italiana%20in%20Milano.%20024U1044.md);
 
-Veduto il [R. decreto 19 giugno 1924, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1044);
+Veduto il [R. decreto 19 giugno 1924, n. 1044](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellAssociazione%20stenografica%20magistrale%20italiana%20in%20Milano.%20024U1044.md);
 
 Veduta la legge 5 giugno 1850, n. 1037;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 Abbiamo decretato e decretiamo:
 
-Agli articoli 2, 8, 13, 15, 23 dello statuto dell'Associazione stenografica magistrale italiana, approvato con [R. decreto 19 giugno 1924, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1044), sono sostituiti i seguenti:
+Agli articoli 2, 8, 13, 15, 23 dello statuto dell'Associazione stenografica magistrale italiana, approvato con [R. decreto 19 giugno 1924, n. 1044](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellAssociazione%20stenografica%20magistrale%20italiana%20in%20Milano.%20024U1044.md), sono sostituiti i seguenti:
 
 «Art. 2. - L'Associazione ha lo scopo di tutelare gl'interessi dell'arte stenografica e quelli morali degli insegnanti di stenografia secondo il sistema Gabelsberger-Noe, e in modo speciale:
 
@@ -80,9 +80,9 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Veduta la domanda con la quale l'Associazione stenografica magistrale italiana, con sede in Milano, chiede che si apportino alcune modificazioni allo statuto organico approvato con [R. decreto 19 giugno 1924, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1044); 
+ Veduta la domanda con la quale l'Associazione stenografica magistrale italiana, con sede in Milano, chiede che si apportino alcune modificazioni allo statuto organico approvato con [R. decreto 19 giugno 1924, n. 1044](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellAssociazione%20stenografica%20magistrale%20italiana%20in%20Milano.%20024U1044.md); 
  
- Veduto il [R. decreto 19 giugno 1924, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1044); 
+ Veduto il [R. decreto 19 giugno 1924, n. 1044](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellAssociazione%20stenografica%20magistrale%20italiana%20in%20Milano.%20024U1044.md); 
  
  Veduta la legge 5 giugno 1850, n. 1037; 
  
@@ -94,7 +94,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Agli articoli 2, 8, 13, 15, 23 dello statuto dell'Associazione stenografica magistrale italiana, approvato con [R. decreto 19 giugno 1924, n. 1044](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1044), sono sostituiti i seguenti: 
+ Agli articoli 2, 8, 13, 15, 23 dello statuto dell'Associazione stenografica magistrale italiana, approvato con [R. decreto 19 giugno 1924, n. 1044](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellAssociazione%20stenografica%20magistrale%20italiana%20in%20Milano.%20024U1044.md), sono sostituiti i seguenti: 
  
  «Art. 2. - L'Associazione ha lo scopo di tutelare gl'interessi dell'arte stenografica e quelli morali degli insegnanti di stenografia secondo il sistema Gabelsberger-Noe, e in modo speciale: 
  

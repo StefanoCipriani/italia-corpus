@@ -32,7 +32,7 @@ E' annessa al Museo una «Mostra campionaria» di propaganda coloniale, intesa a
 
 ## Art. 3.
 
-Il Museo coloniale, in quanto non sia diversamente disposto col presente decreto, e' regolato dalle disposizioni del regolamento approvato con [R. decreto 26 agosto 1927, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-26;1917). 
+Il Museo coloniale, in quanto non sia diversamente disposto col presente decreto, e' regolato dalle disposizioni del regolamento approvato con [R. decreto 26 agosto 1927, n. 1917](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20custodia%20conservazione%20e%20contabilita%20del%20materiale%20artistico%20archeologico%20bibliografico%20e%20scientifico.%20027U1917.md). 
  
  La Mostra campionaria e' amministrata a parte, in base alle disposizioni del presente decreto.
 
@@ -96,7 +96,7 @@ Il registro di entrata delle cose, che entrano a far parte del Museo coloniale, 
 
 ### Art. 9.
 
-Il Museo coloniale si intende dato in consegna al direttore dell'Istituto, a norma dell'art. 18 del regolamento approvato con [R. decreto 26 agosto 1927, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-26;1917). 
+Il Museo coloniale si intende dato in consegna al direttore dell'Istituto, a norma dell'art. 18 del regolamento approvato con [R. decreto 26 agosto 1927, n. 1917](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20custodia%20conservazione%20e%20contabilita%20del%20materiale%20artistico%20archeologico%20bibliografico%20e%20scientifico.%20027U1917.md). 
  
  Il direttore, con il consenso del capo dell'Ufficio studi e propaganda, puo' tuttavia affidare, sotto la sua responsabilita', la custodia delle raccolte a funzionari dipendenti.
 
@@ -106,7 +106,7 @@ Il riscontro periodico, di cui all'art. 627 del regolamento di contabilita' gene
 
 ### Art. 11.
 
-Quando, per fine di propaganda, il Ministero delle colonie autorizzi a prelevare ed esporre altrove raccolte o parti di raccolte del Museo, il direttore ne cura personalmente il riscontro e i prelevamenti, ed, ove le cose debbano essere affidate ad altro ufficio o funzionario, ne fa particolareggiata consegna nei modi stabiliti dal 1 capoverso dell'[art. 20 del R. decreto 26 agosto 1927, n. 1917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-26;1917#art_20).
+Quando, per fine di propaganda, il Ministero delle colonie autorizzi a prelevare ed esporre altrove raccolte o parti di raccolte del Museo, il direttore ne cura personalmente il riscontro e i prelevamenti, ed, ove le cose debbano essere affidate ad altro ufficio o funzionario, ne fa particolareggiata consegna nei modi stabiliti dal 1 capoverso dell'[art. 20 del R. decreto 26 agosto 1927, n. 1917](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20custodia%20conservazione%20e%20contabilita%20del%20materiale%20artistico%20archeologico%20bibliografico%20e%20scientifico.%20027U1917.md).
 
 ### Art. 12.
 

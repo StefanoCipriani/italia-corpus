@@ -14,7 +14,7 @@ VITTORIO EMANUELE III
  PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
  RE D'ITALIA 
  
- Visto il [R. decreto 11 marzo 1928, n. 564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-11;564), con il quale i comuni di Castellone al Volturno, San Vincenzo al Volturno e Pizzone sono stati riuniti in unico comune denominato Castel San Vincenzo; 
+ Visto il [R. decreto 11 marzo 1928, n. 564](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Castellone%20al%20Volturno%20San%20Vincenzo%20a%20Volturno%20e%20Pizzone%20in%20un%20unico%20Comune%20denominato%20Castel%20San%20Vincenzo.%20028U0564.md), con il quale i comuni di Castellone al Volturno, San Vincenzo al Volturno e Pizzone sono stati riuniti in unico comune denominato Castel San Vincenzo; 
  Vista la deliberazione del commissario prefettizio di Castel San Vincenzo in data 23 giugno 1928 con la quale si chiede che per tutto il territorio degli ex comuni di Castellone al Volturno e San Vincenzo funzioni un solo ufficio di conciliazione: e che l'ufficio di conciliazione esistente nell'ex comune di Pizzone sia conservato come ufficio separato di conciliazione del comune di Castel San Vincenzo; 
  Visti i pareri favorevoli in data 4 aprile 1932 del primo presidente e del procuratore generale della Corte d'appello di Roma; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728: 

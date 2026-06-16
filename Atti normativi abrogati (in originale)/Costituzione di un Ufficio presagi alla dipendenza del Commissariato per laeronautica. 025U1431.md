@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 3 settembre 1906, n. 535](Approvazione%20delle%20annesse%20disposizioni%20relative%20ai%20servizi%20di%20meteorologia%20e%20di%20geodinamica.%20006U0535.md); 30 dicembre 1923, n, 3165, e 4 maggio 1924, n. 900, relativi all'ordinamento dei servizi di meteorologia e geofisica;
+Visti i [Regi decreti 3 settembre 1906, n. 535](../Regi%20decreti/Approvazione%20delle%20annesse%20disposizioni%20relative%20ai%20servizi%20di%20meteorologia%20e%20di%20geodinamica.%20006U0535.md); 30 dicembre 1923, n, 3165, e 4 maggio 1924, n. 900, relativi all'ordinamento dei servizi di meteorologia e geofisica;
 
 Ritenuta la opportunita' di riunire in un unico ufficio, alla dipendenza del Commissariato per l'aeronautica, il servizio scientifico-sperimentale di aerologia;
 

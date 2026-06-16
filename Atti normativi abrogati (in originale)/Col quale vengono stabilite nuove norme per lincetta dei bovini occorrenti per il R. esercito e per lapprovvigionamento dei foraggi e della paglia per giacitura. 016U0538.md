@@ -28,7 +28,7 @@ L'atto di impegno indica il peso vivo complessivo che il detentore si impegna a 
 
 ## Art. 4.
 
-L'atto d'impegno importa che la merce resta vincolata a favore dell'Amministrazione militare, ed a disposizione di essa, salva, nell'Amministrazione, la facolta' di cui all'ultimo comma dell' articolo 8 del citato decreto n. 1053. Il detentore e' costituito custode responsabile della merce stessa fino all'effettiva consegna, sotto le sanzioni recate dall'[articolo 203 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+L'atto d'impegno importa che la merce resta vincolata a favore dell'Amministrazione militare, ed a disposizione di essa, salva, nell'Amministrazione, la facolta' di cui all'ultimo comma dell' articolo 8 del citato decreto n. 1053. Il detentore e' costituito custode responsabile della merce stessa fino all'effettiva consegna, sotto le sanzioni recate dall'[articolo 203 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  In qualunque tempo le Commissioni hanno facolta' di procedere a verifiche del numero e delle qualita' degli animali vincolati. 
  
@@ -56,7 +56,7 @@ Al fine di assicurare all'approvvigionamento le necessarie quantita' dei generi 
 
 Le Commissioni provinciali hanno facolta' di richiedere ai sindaci i ruoli della tassa bestiame od altri elenchi, posseduti dal Comune, con le indicazioni necessarie. 
  
- I sindaci hanno l'obbligo di coadiuvare le Commissioni nell'applicazione delle disposizioni portate dal [decreto Luogotenenziale 10 luglio 1915, n. 1053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-10;1053) e dal presente decreto, sotto le sanzioni di cui all'[art. 178 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in caso di rifiuto o di inadempienza.
+ I sindaci hanno l'obbligo di coadiuvare le Commissioni nell'applicazione delle disposizioni portate dal [decreto Luogotenenziale 10 luglio 1915, n. 1053](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-07-10;1053) e dal presente decreto, sotto le sanzioni di cui all'[art. 178 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in caso di rifiuto o di inadempienza.
 
 ## Art. 8.
 

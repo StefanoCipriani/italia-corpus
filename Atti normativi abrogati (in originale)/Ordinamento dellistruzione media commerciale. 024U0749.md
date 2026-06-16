@@ -127,7 +127,7 @@ L'anno scolastico incomincia il 16 ottobre e finisce il 15 ottobre successivo. L
 
 ### Art. 19.
 
-L'ordinamento gerarchico del personale delle Regie scuole industriali stabilito con [R. decreto 30 dicembre 1923, n. 3144](Ordinamento%20gerarchico%20del%20personale%20delle%20Regie%20scuole%20industriali.%20023U3144.md) e' esteso al personale di ruolo dei Regi istituti e delle Regie scuole commerciali come e' indicato nelle tabelle A, B, C, D ed E, annesse al presente decreto. 
+L'ordinamento gerarchico del personale delle Regie scuole industriali stabilito con [R. decreto 30 dicembre 1923, n. 3144](../Regi%20decreti/Ordinamento%20gerarchico%20del%20personale%20delle%20Regie%20scuole%20industriali.%20023U3144.md) e' esteso al personale di ruolo dei Regi istituti e delle Regie scuole commerciali come e' indicato nelle tabelle A, B, C, D ed E, annesse al presente decreto. 
  
  Le retribuzioni ai professori incaricati sono indicate nell'allegata tabella G. 
  
@@ -384,7 +384,7 @@ Quando esse abbiano tutti gli anni di corso al completo e quando per numero di a
 
 Per l'inquadramento del personale, attualmente in servizio, nei nuovi ruoli, e per l'attribuzione degli stipendi fissati nelle tabelle, annesse al presente decreto, vale l'anzianita' conseguita alla data del presente decreto in base alle disposizioni delle precedenti leggi. 
  
- L'inquadramento del personale delle scuole esistenti nelle nuove provincie, agli effetti del [R. decreto 23 dicembre 1923, n. 2829](Estensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20023U2829.md), avra' luogo con le norme fissate dal presente decreto, secondo il grado e l'anzianita' di servizio, riconosciuti al personale stesso nei singoli decreti di assimilazione gia' emanati o da emanarsi.
+ L'inquadramento del personale delle scuole esistenti nelle nuove provincie, agli effetti del [R. decreto 23 dicembre 1923, n. 2829](../Regi%20decreti/Estensione%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20al%20personale%20proveniente%20dai%20ruoli%20della%20cessata%20Amministrazione%20austro-ungarica.%20023U2829.md), avra' luogo con le norme fissate dal presente decreto, secondo il grado e l'anzianita' di servizio, riconosciuti al personale stesso nei singoli decreti di assimilazione gia' emanati o da emanarsi.
 
 ### Art. 56.
 
@@ -430,7 +430,7 @@ Le scuole libere, che ottennero il pareggiamento con decreto Ministeriale, posso
 
 ### Art. 64.
 
-Le norme che riguardano lo stato giuridico ed economico del personale direttivo, insegnante, amministrativo e subalterno dei Regi istituti e delle Regie scuole commerciali si applicheranno con decorrenza dal 1° dicembre 1923, data fissata dal [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+Le norme che riguardano lo stato giuridico ed economico del personale direttivo, insegnante, amministrativo e subalterno dei Regi istituti e delle Regie scuole commerciali si applicheranno con decorrenza dal 1° dicembre 1923, data fissata dal [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Tutte le altre disposizioni andranno in vigore dall'inizio dell'anno scolastico 1924-25, eccettuate quelle relative agli esami di ammissione, che si applicheranno a partire dalle sessioni ordinarie di esami dell'anno scolastico 1923-24.
 

@@ -20,7 +20,7 @@ Invorio Superiore.
  
  RE D'ITALIA 
  
- Visto il [R. decreto 16 febbraio 1928, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-16;428), col quale il comune di Invorio Superiore e' stato soppresso ed il rispettivo territorio aggregato a quello di Invorio; 
+ Visto il [R. decreto 16 febbraio 1928, n. 428](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Invorio%20Superiore%20a%20quello%20di%20Invorio%20Inferiore%20che%20assume%20la%20denominazione%20di%20Invorio.%20028U0428.md), col quale il comune di Invorio Superiore e' stato soppresso ed il rispettivo territorio aggregato a quello di Invorio; 
  Vista la deliberazione del podesta' di Invorio rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Invorio Superiore; 
  Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
  Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 

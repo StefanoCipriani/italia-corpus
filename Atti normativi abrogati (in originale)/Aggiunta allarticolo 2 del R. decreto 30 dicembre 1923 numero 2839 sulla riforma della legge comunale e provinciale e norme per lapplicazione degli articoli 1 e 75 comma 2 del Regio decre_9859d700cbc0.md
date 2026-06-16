@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148);
 
-Veduto il [R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
+Veduto il [R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Per l'applicazione dell'art. 1 e per la prima applicazione del [2° comma dell'articolo 75 del R. decreto 30 dicembre 1923, n. 2839](Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), non e' richiesta la deliberazione di cui all'[art. 242, n. 1 del testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148#art_242-num1).
+Per l'applicazione dell'art. 1 e per la prima applicazione del [2° comma dell'articolo 75 del R. decreto 30 dicembre 1923, n. 2839](../Regi%20decreti/Riforma%20della%20legge%20comunale%20e%20provinciale.%20023U2839.md), non e' richiesta la deliberazione di cui all'[art. 242, n. 1 del testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148#art_242-num1).
 
 ## Art. 2.
 

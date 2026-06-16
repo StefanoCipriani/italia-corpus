@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il canale naviglio di Bereguardo, dell'estesa di chilometri 18,848, corrente fra Castelletto di Abbiategrasso e Bereguardo, di cui al [regio decreto 8 giugno 1911, n. 823](Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), figurante fra le linee navigabili di seconda classe al n. 4 dell'elenco, cessa di far parte delle linee navigabili medesime.
+Il canale naviglio di Bereguardo, dell'estesa di chilometri 18,848, corrente fra Castelletto di Abbiategrasso e Bereguardo, di cui al [regio decreto 8 giugno 1911, n. 823](../Regi%20decreti/Che%20approva%20lelenco%20delle%20linee%20navigabili%20dichiarate%20di%20seconda%20classe.%20011U0823.md), figurante fra le linee navigabili di seconda classe al n. 4 dell'elenco, cessa di far parte delle linee navigabili medesime.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

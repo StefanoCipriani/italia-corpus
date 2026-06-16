@@ -54,7 +54,7 @@ Per la validita' ed efficacia del privilegio e' necessario:
 
 ## Art. 4.
 
-Gli amministratori del Consorzio e in generale coloro che menomino o deteriorino le cose su cui grava il privilegio sono puniti con le pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la sottrazione di cose sottoposte a pignoramento o a sequestro.
+Gli amministratori del Consorzio e in generale coloro che menomino o deteriorino le cose su cui grava il privilegio sono puniti con le pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per la sottrazione di cose sottoposte a pignoramento o a sequestro.
 
 ## Art. 5.
 

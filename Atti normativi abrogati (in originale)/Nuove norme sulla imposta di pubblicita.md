@@ -169,7 +169,7 @@ TITOLO V
 
 ### Art. 18.
 
-Per la riscossione coattiva dell'imposta prevista dal presente decreto si applicano le disposizioni contenute nella legge sull'imposta di registro approvata con [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni.
+Per la riscossione coattiva dell'imposta prevista dal presente decreto si applicano le disposizioni contenute nella legge sull'imposta di registro approvata con [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), e successive modificazioni.
 
 ### Art. 19.
 
@@ -187,8 +187,8 @@ Chiunque affigga od esponga al pubblico avvisi, manifesti od altri mezzi pubblic
 
 ### Art. 21.
 
-Nei casi di falsificazione, di contraffazione e di alterazione delle marche, dei bolli a punzone e delle attestazioni di pagamento dell'imposta in modo virtuale, oltre le sanzioni previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in materia di valori bollati, si applicano la pena pecuniaria e le sopratasse stabilite nel precedente articolo per il mancato pagamento dell'imposta, ove questa sia dovuta.
- Le pene stabilite dall'[art. 466 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia valori bollati o contrassegni di bollo precedentemente usati.
+Nei casi di falsificazione, di contraffazione e di alterazione delle marche, dei bolli a punzone e delle attestazioni di pagamento dell'imposta in modo virtuale, oltre le sanzioni previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in materia di valori bollati, si applicano la pena pecuniaria e le sopratasse stabilite nel precedente articolo per il mancato pagamento dell'imposta, ove questa sia dovuta.
+ Le pene stabilite dall'[art. 466 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano anche a chi detiene per lo smercio ovvero usa o smercia valori bollati o contrassegni di bollo precedentemente usati.
 
 ### Art. 22.
 
@@ -227,7 +227,7 @@ I ricorsi in via amministrativa sulle questioni relative alla applicazione delle
 ### Art. 27.
 
 E' stabilito, a pena di decadenza, in sei mesi il termine per proporre innanzi all'autorita' giudiziaria le controversie riguardanti l'imposta sulla pubblicita' e le relative sopratasse, le quali abbiano formato oggetto di decisione amministrativa definitiva, ai sensi del precedente articolo.
- Il termine di sei mesi decorre dalla data in cui la decisione amministrativa definitiva, emessa a seguito dei ricorsi previsti nel precedente articolo, sia stata notificata al contribuente nelle forme prescritte dal [regio decreto 22 maggio 1910, n. 316](Che%20approva%20lannesso%20regolamento%20per%20la%20procedura%20dei%20ricorsi%20amministrativi%20sulle%20dilazioni%20a%20pagamento%20e%20sugli%20annullamenti%20di%20crediti%20in%20materia%20di%20tasse%20sugli%20affari.%20010U0316.md).
+ Il termine di sei mesi decorre dalla data in cui la decisione amministrativa definitiva, emessa a seguito dei ricorsi previsti nel precedente articolo, sia stata notificata al contribuente nelle forme prescritte dal [regio decreto 22 maggio 1910, n. 316](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20procedura%20dei%20ricorsi%20amministrativi%20sulle%20dilazioni%20a%20pagamento%20e%20sugli%20annullamenti%20di%20crediti%20in%20materia%20di%20tasse%20sugli%20affari.%20010U0316.md).
  Quando l'azione giudiziaria sia promossa senza che sia stato presentato ricorso in via amministrativa o prima che siano trascorsi novanta giorni dalla presentazione di questo, l'Amministrazione non puo' essere condannata al rimborso delle spese di lite neanche in caso di soccombenza.
 
 ### Art. 28.
@@ -247,7 +247,7 @@ Restano ferme, anche nei confronti della imposta sulla pubblicita' per le inserz
 
 ### Art. 30.
 
-Sono abrogate le disposizioni relative agli avvisi al pubblico in genere, alle inserzioni pubblicitarie sui giornali, riviste ed altre stampe, alle proiezioni pubblicitarie cinematografiche di cui al [regio decreto 30 dicembre 1923, n. 3268](Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni e disposizioni.
+Sono abrogate le disposizioni relative agli avvisi al pubblico in genere, alle inserzioni pubblicitarie sui giornali, riviste ed altre stampe, alle proiezioni pubblicitarie cinematografiche di cui al [regio decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni e disposizioni.
  Resta fermo peraltro l'obbligo della conservazione dei documenti posti in essere per l'applicazione delle dette disposizioni, per il periodo di tempo ivi stabilito.
  Per coloro che alla data di entrata in vigore del presente decreto fruiscono del pagamento della imposta di bollo in modo virtuale in base a denunzia od abbonamento, gli Uffici del registro, ferme restando per i rispettivi periodi di validita' le denunzie presentate e le convenzioni di abbonamento stipulate, procederanno ad una nuova liquidazione della imposta tenendo conto delle aliquote risultanti dalla precedente e dalla nuova tariffa per il periodo per il quale sono state rispettivamente in vigore. Il supplemento d'imposta sara' ripartito in parti uguali fra le rate ancora da scadere.
  Gli avvisi su carta o cartone esposti al pubblico entro il 31 luglio 1954, non potranno continuare a rimanere esposti se non venga pagato il complemento di imposta, entro il 31 agosto 1954, mediante applicazione di marche o bollo a punzone. Sono esclusi dall'obbligo dell'integrazione le decalcomanie, le vetrofanie ed i manifesti incollati.

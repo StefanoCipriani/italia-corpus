@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 4 maggio 1925, n. 627](Ordinamento%20della%20Regia%20
 
 Visto il [R. decreto-legge 25 giugno 1925, n. 1270](Concessione%20al%20Commissariato%20di%20aeronautica%20della%20facolta%20di%20collocare%20in%20congedo%20provvisorio%20speciale%20sottufficiali%20della%20Regia%20aeronautica%20appartenenti%20al%20personale%20navigante%20o%20speciali_b91bdb2a635f.md);
 
-Visto il [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70) che approva il testo unico sulle pensioni civili e militari e successive modificazioni;
+Visto il [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md) che approva il testo unico sulle pensioni civili e militari e successive modificazioni;
 
 Vista la [legge 11 marzo 1926, n. 397](Stato%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20e%20della%20Regia%20aeronautica.%20026U0397.md), sullo stato degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica;
 

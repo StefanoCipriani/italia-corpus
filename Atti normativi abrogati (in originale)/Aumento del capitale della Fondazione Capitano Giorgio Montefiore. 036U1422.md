@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto il [R. decreto 6 luglio 1933, n. 2422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-07-06;2422), riguardante il riconoscimento giuridico della «Fondazione Capitano Giorgio Montefiore» a favore di orfani di aviatori militari deceduti in servizio; 
+ Visto il [R. decreto 6 luglio 1933, n. 2422](../Regi%20decreti/Riconoscimento%20giuridico%20della%20Fondazione%20Capitano%20Giorgio%20Montefiore%20a%20favore%20di%20orfani%20di%20aviatori%20militari%20deceduti%20in%20servizio.%20033U2422.md), riguardante il riconoscimento giuridico della «Fondazione Capitano Giorgio Montefiore» a favore di orfani di aviatori militari deceduti in servizio; 
  
  Visto il decreto 6 settembre 1934, n. 1582, col quale viene stabilito che il patrimonio della Fondazione di cui sopra e' costituito da un certificato del Debito pubblico del Regno (Prestito della conversione) del capitale nominale di L. 52.600, per l'annua rendita di L. 1841, intestato al Ministero dell'aeronautica con l'annotazione che la rendita stessa dovra' essere esclusivamente erogata per i fini voluti dalla Fondazione ed, inoltre, che il capitale del certificato di cui trattasi potra' essere aumentato con altre elargizioni; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Il patrimonio della «Fondazione Capitano Giorgio Montefiore», riconosciuto come persona giuridica con l'[art. 1 del R. decreto 6 luglio 1933, n. 2422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-07-06;2422#art_1), e' costituito da due certificati del Debito pubblico del Regno (Prestito della conversione) del capitale nominale di L. 55.600, per l'annua rendita complessiva di lire 1946, intestati al Ministero dell'aeronautica e con l'annotazione che la rendita stessa dovra' essere esclusivamente erogata per i fini voluti dalla Fondazione Capitano Giorgio Montefiore. 
+ Il patrimonio della «Fondazione Capitano Giorgio Montefiore», riconosciuto come persona giuridica con l'[art. 1 del R. decreto 6 luglio 1933, n. 2422](../Regi%20decreti/Riconoscimento%20giuridico%20della%20Fondazione%20Capitano%20Giorgio%20Montefiore%20a%20favore%20di%20orfani%20di%20aviatori%20militari%20deceduti%20in%20servizio.%20033U2422.md), e' costituito da due certificati del Debito pubblico del Regno (Prestito della conversione) del capitale nominale di L. 55.600, per l'annua rendita complessiva di lire 1946, intestati al Ministero dell'aeronautica e con l'annotazione che la rendita stessa dovra' essere esclusivamente erogata per i fini voluti dalla Fondazione Capitano Giorgio Montefiore. 
  
  Il capitale della Fondazione potra', ove occorra, essere convenientemente investito, a cura e sotto la responsabilita' del Ministero dell'aeronautica, in altri titoli, purche' questi siano di Stato, intestati e vincolati come sopra, e potra', inoltre, essere aumentato con altre elargizioni. 
  

@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), convertito nella [legge 16 giugno 1927, n. 1132](Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20luglio%201926%20numero%201331%20relativo%20al%20controllo%20sulla%20combustione.%20027U1132.md), che istituisce l'Associazione nazionale per il controllo della combustione;
 
-Visto il [R. decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), che approva il regolamento per l'esecuzione della suddetta legge;
+Visto il [R. decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), che approva il regolamento per l'esecuzione della suddetta legge;
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) ;
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Vista la [Legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89);
 
-Visto il [R. decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+Visto il [R. decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
 
 Visto l'[art. 18 della legge 19 gennaio 1939, n. 129](Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 
@@ -34,7 +34,7 @@ I notai in esercizio, la cui sede trovasi in territorio occupato dal nemico, pot
  
  Tale autorizzazione dovra' intendersi revocata, di diritto, decorsi due mesi dalla data di pubblicazione nella Gazzeeta Ufficiale del Regno - serie speciale - del R. decreto col quale verra' riassunta dal Governo Italiano l'amministrazione del territorio in cui e' situata la sede originaria del notaro. 
  
- Entro il mese successivo i notai come sopra autorizzati dovranno riprendere l'esercizio professionale nella loro sede originaria. In mancanza saranno loro applicate le sanzioni di cui agli [artt. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_30) e [34 della Legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_34), e 58 del relativo regolamento approvato con [R. decreto 10 settembre 1914 n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326).
+ Entro il mese successivo i notai come sopra autorizzati dovranno riprendere l'esercizio professionale nella loro sede originaria. In mancanza saranno loro applicate le sanzioni di cui agli [artt. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_30) e [34 della Legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_34), e 58 del relativo regolamento approvato con [R. decreto 10 settembre 1914 n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md).
 
 ## Art. 2.
 

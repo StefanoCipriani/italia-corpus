@@ -40,7 +40,7 @@ Per gli anni 1969 e 1970, le compartecipazioni da attribuire ai comuni e alle pr
 
 ## Art. 5.
 
-I fondi necessari all'erogazione ai comuni e alle province dei contributi previsti dalla presente legge, sono forniti con ordini di accreditamento di ammontare anche superiore ai limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
+I fondi necessari all'erogazione ai comuni e alle province dei contributi previsti dalla presente legge, sono forniti con ordini di accreditamento di ammontare anche superiore ai limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
  Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio occorrenti per l'attuazione della presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

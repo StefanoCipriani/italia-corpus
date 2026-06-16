@@ -14,11 +14,11 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 aprile 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-23;827), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 aprile 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-23;827), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Ritenuta la necessita' di istituire in Oriente apposita agenzia del Monopolio italiano, incaricata dei servizi di informazione sulla coltura e sul commercio dei tabacchi, e degli acquisti diretti dei tabacchi stessi in quelle regioni;
 
-Visto il [R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), che stabilisce il trattamento economico da farsi al personale dell'Amministrazione dello Stato incaricato di missioni all'estero;
+Visto il [R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), che stabilisce il trattamento economico da farsi al personale dell'Amministrazione dello Stato incaricato di missioni all'estero;
 
 Considerato essere necessario di stabilire, per i funzionari in missione in Oriente, incaricati del funzionamento dell'accennata agenzia, un trattamento economico in armonia con le particolari condizioni di vita in cui essi si trovano;
 
@@ -42,9 +42,9 @@ A tale agenzia saranno adibiti al massimo tre funzionari dell'Amministrazione de
 
 Ai suddetti funzionari sara' corrisposta, oltre il rimborso delle spese di viaggio (aumentate dei due decimi) per spostamenti dall'una all'altra localita' in Oriente e per recarsi in Italia ogni qualvolta vi sieno chiamati per ragioni di servizio, una indennita' giornaliera di lire-oro 60 per quelli del ruolo tecnico gruppo A e di lire-oro 40 per quelli degli altri ruoli. 
  
- Su tali diarie non verra' applicata la riduzione di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_1), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_6) e [7 del R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_7). 
+ Su tali diarie non verra' applicata la riduzione di cui agli [articoli 1](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), [6](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md) e [7 del R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md). 
  
- Le diarie suindicate non sono dovute per i giorni di navigazione, durante i quali spettera' ai funzionari anzidetti il trattamento previsto dall'[art. 2 del R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_2); 
+ Le diarie suindicate non sono dovute per i giorni di navigazione, durante i quali spettera' ai funzionari anzidetti il trattamento previsto dall'[art. 2 del R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md); 
  
  Rimangono ferme, per i funzionari stessi, tutte le altre disposizioni contenute nell'accennato decreto 3 giugno 1926, n. 941.
 

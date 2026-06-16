@@ -54,4 +54,4 @@ L'[art. 2 del R. decreto 16 maggio 1926, n. 951](Autorizzazione%20a%20contrarre%
 --------------- 
 Nota redazionale 
  Il testo del presente articolo, mai entrato in vigore per effetto delle modifiche subite durante il periodo di "vacatio legis", viene riportato nella versione originariamente pubblicata in Gazzetta Ufficiale. 
- La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 3 agosto 1928, n. 1873](Autorizzazione%20a%20contrarre%20matrimonio%20per%20i%20sottufficiali%20e%20militari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20028U1873.md), e' visualizzabile nell'aggiornamento successivo dello stesso.
+ La prima versione in vigore dell'articolo, oggetto di modifica da parte del [Regio Decreto 3 agosto 1928, n. 1873](../Regi%20decreti/Autorizzazione%20a%20contrarre%20matrimonio%20per%20i%20sottufficiali%20e%20militari%20del%20Corpo%20Reale%20equipaggi%20marittimi.%20028U1873.md), e' visualizzabile nell'aggiornamento successivo dello stesso.

@@ -33,7 +33,7 @@ Pei procedimenti sospesi a norma dell'articolo precedente il giudice, d'ufficio 
 
 Le disposizioni degli articoli precedenti si applicano anche relativamente ai procedimenti soggetti alla giurisdizione penale militare.
  Per i procedimenti indicati nel comma precedente, la liberta' provvisoria puo' essere conceduta, per i reati preveduti dalla legge penale militare di guerra, commessi durante lo stato di guerra, purche' per essi non sia stabilita la pena di morte.
- Per i reati preveduti dalla legge penale militare commessi durante lo stato di pace, la liberta' provvisoria puo' essere conceduta a norma degli [articoli 322](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [323 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, anche nei casi preveduti dall'art. 313 stesso Codice, purche' nomi si tratti di reati che la legge punisce con la pena della reclusione superiore nel minimo a dieci anni.
+ Per i reati preveduti dalla legge penale militare commessi durante lo stato di pace, la liberta' provvisoria puo' essere conceduta a norma degli [articoli 322](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [323 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, anche nei casi preveduti dall'art. 313 stesso Codice, purche' nomi si tratti di reati che la legge punisce con la pena della reclusione superiore nel minimo a dieci anni.
 
 ## Art. 4.
 

@@ -18,7 +18,7 @@ Vista la [direttiva 93/53/CEE, del Consiglio del 24 giugno 1993](https://www.nor
 
 Visto il [decreto legislativo 14 dicembre 1992, n. 508](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2090-667-CEE%20del%20Consiglio%20del%2027%20novembre%201990%20che%20stabilisce%20le%20norme%20sanitarie%20per%20leliminazione%20la%20trasformazione%20e%20limmissione%20sul%20mercato%20di%20rifiuti%20di%20orig_d14f1b9da0b0.md), recante attuazione della [direttiva 90/667/CEE, del Consiglio del 27 novembre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;667), che stabilisce norme sanitarie per l'eliminazione, la trasformazione e l'immissione sul mercato dei rifiuti di origine animale o a base di pesce e che modifica la [direttiva 90/425/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;425);
 
-Visto il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), recante il regolamento di polizia veterinaria;
+Visto il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), recante il regolamento di polizia veterinaria;
 
 Visto il [decreto del Presidente della Repubblica 30 dicembre 1992, n. 555](Regolamento%20per%20lattuazione%20della%20direttiva%2091-67-CEE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20i%20prodotti%20di%20acquacoltura.md), recante il regolamento per l'attuazione della [direttiva 91/67/CEE, del Consiglio del 28 gennaio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;67), che stabilisce norme di polizia sanitaria per i prodotti di acquacoltura;
 
@@ -41,7 +41,7 @@ SEZIONE I
 Il presente regolamento stabilisce le misure di lotta contro le malattie dei pesci di cui all'allegato A, elenchi I e II, del regolamento approvato con il [decreto del Presidente della Repubblica 30 dicembre 1992, n. 555](Regolamento%20per%20lattuazione%20della%20direttiva%2091-67-CEE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20i%20prodotti%20di%20acquacoltura.md), e successive modifiche.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
@@ -59,7 +59,7 @@ Avvertenza:
  - Il [D.Lgs. 14 dicembre 1992, n. 508](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2090-667-CEE%20del%20Consiglio%20del%2027%20novembre%201990%20che%20stabilisce%20le%20norme%20sanitarie%20per%20leliminazione%20la%20trasformazione%20e%20limmissione%20sul%20mercato%20di%20rifiuti%20di%20orig_d14f1b9da0b0.md), reca: "Attuazione della [direttiva 90/667/CEE del Consiglio del 27 novembre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;667) che stabilisce le norme sanitarie per l'eliminazione, la trasformazione e l'immissione sul mercato di rifiuti di origine animale e la protezione dagli agenti patogeni degli alimenti per animali di origine animale o a base di pesce e che modifica la [direttiva 90/425/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;425)".
  - La [direttiva 90/667/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;667) e' pubblicata in GUCE n. L 363 del 27 dicembre 1990.
  - La [direttiva 90/425/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;425) e' pubblicata in GUCE n. L 224 del 18 agosto 1990.
- - Il [D.P.R. 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), reca il regolamento di polizia veterinaria.
+ - Il [D.P.R. 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), reca il regolamento di polizia veterinaria.
  - Il [D.P.R. 30 dicembre 1992, n. 555](Regolamento%20per%20lattuazione%20della%20direttiva%2091-67-CEE%20che%20stabilisce%20norme%20di%20polizia%20sanitaria%20per%20i%20prodotti%20di%20acquacoltura.md), approva il regolamento per l'attuazione della [direttiva 91/67/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;67) che stabilisce norme di polizia sanitaria per i prodotti di acquacoltura.
  - La [direttiva 91/67/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;67) e' pubblicata in GUCE n. L 46 del 19 febbraio 1991.
  Note all'[art. 1:
@@ -163,10 +163,10 @@ Il registro, di cui al comma 1, lettera b), deve essere costantemente aggiornato
 
 1.
 
-La denuncia al servizio ufficiale del sospetto o dell'accertamento di una delle malattie dell'elenco I o II e' obbligatoria e immediata secondo le procedure di cui al [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche. Tale denuncia deve essere trasmessa contestualmente al Ministero della sanita'.
+La denuncia al servizio ufficiale del sospetto o dell'accertamento di una delle malattie dell'elenco I o II e' obbligatoria e immediata secondo le procedure di cui al [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e successive modifiche. Tale denuncia deve essere trasmessa contestualmente al Ministero della sanita'.
 
 Nota all'[art. 4:
- - Per il D.P.R. 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), ved. note alle premesse.
+ - Per il D.P.R. 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), ved. note alle premesse.
 
 ## MISURE DI LOTTA CONTRO LE MALATTIE DELL'ELENCO I
 

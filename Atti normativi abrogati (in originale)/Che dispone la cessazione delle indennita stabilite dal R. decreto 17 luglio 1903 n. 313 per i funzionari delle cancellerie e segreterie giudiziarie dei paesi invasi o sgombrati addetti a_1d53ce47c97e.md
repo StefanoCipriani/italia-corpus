@@ -10,7 +10,7 @@ vigente: true
 
 ## Articolo unico.
 
-I funzionari delle cancellerie e segreterie giudiziarie, che sono in pianta negli uffici del territorio invaso dal nemico o sgombrato, cessano dal 1° marzo 1918 dal percepire le indennita' stabilite dall'[art. 3 del R. decreto 17 luglio 1903, n. 313](relativo%20al%20coordinamento%20della%20legge%20sulle%20cancellerie%20e%20segreterie%20giudiziarie%20003U0313.md), per il servizio che essi prestano nelle sedi cui sono stati applicati con decreto Ministeriale. 
+I funzionari delle cancellerie e segreterie giudiziarie, che sono in pianta negli uffici del territorio invaso dal nemico o sgombrato, cessano dal 1° marzo 1918 dal percepire le indennita' stabilite dall'[art. 3 del R. decreto 17 luglio 1903, n. 313](../Regi%20decreti/relativo%20al%20coordinamento%20della%20legge%20sulle%20cancellerie%20e%20segreterie%20giudiziarie%20003U0313.md), per il servizio che essi prestano nelle sedi cui sono stati applicati con decreto Ministeriale. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

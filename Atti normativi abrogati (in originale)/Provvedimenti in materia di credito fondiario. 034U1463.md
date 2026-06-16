@@ -16,13 +16,13 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
+Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Vista la [legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md), portante provvedimenti per agevolare i mutui fondiari;
 
 Vista la [legge 22 dicembre 1907, n. 794](Relativa%20allaggiunta%20alla%20legge%2022%20dicembre%201905%20n.%20592%20sul%20Credito%20fondiario%20007U0794.md), che modifica la [legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md);
 
-Visto il regolamento per la esecuzione delle leggi sul credito fondiario, approvato con [R. decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il regolamento per la esecuzione delle leggi sul credito fondiario, approvato con [R. decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Visti i [Regi decreti-legge 19 ottobre 1933, n. 1430](Provvedimenti%20per%20agevolare%20le%20riduzioni%20di%20interessi%20dei%20mutui%20fondiari.%20033U1430.md), e [12 febbraio 1934, n. 189](Nuovi%20provvedimenti%20per%20agevolare%20la%20trasformazione%20dei%20mutui%20fondiari.%20034U0189.md), contenenti norme per agevolare la riduzione degli interessi e la trasformazione dei mutui fondiari;
 

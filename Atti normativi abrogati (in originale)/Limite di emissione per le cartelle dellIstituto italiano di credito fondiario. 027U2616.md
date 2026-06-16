@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
+Visto il testo unico delle leggi sul credito fondiario, approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Vista la [legge 6 luglio 1922, n. 1158](Concernente%20la%20conversione%20in%20legge%20del%20R.%20decreto%202%20settembre%201919%20n.%201709%20che%20istituisce%20la%20sezione%20per%20il%20credito%20e%20il%20risparmio%20presso%20lIstituto%20italiano%20di%20credito%20fondiario.%20022U1158.md), che detta disposizioni sull'Istituto italiano di credito fondiario;
 

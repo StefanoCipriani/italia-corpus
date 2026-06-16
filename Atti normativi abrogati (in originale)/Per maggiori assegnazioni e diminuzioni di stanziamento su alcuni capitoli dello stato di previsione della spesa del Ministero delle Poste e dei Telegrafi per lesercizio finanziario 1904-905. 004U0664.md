@@ -14,7 +14,7 @@ Sono approvate le maggiori assegnazioni di L. 3,146,240 e la diminuzione di stan
 
 ## Art. 2.
 
-E' autorizzata la iscrizione di L. 350,000 al capitolo n. 116: «Fondo di riserva per le spese impreviste» dello stato di previsione della spesa del Ministero del tesoro per l'esercizio 1904-905, a reintegrazione di altrettante state prelevate dal capitolo medesimo col [R. decreto 20 ottobre 1904, n. 595](Che%20autorizza%20un%20prelevamento%20di%20somma%20dal%20fondo%20di%20riserva%20delle%20spese%20impreviste.%20004U0595.md), e portate in aumento al capitolo n. 5: «Compensi per lavoro straordinario ed a cottimo», dello stato di previsione della spesa del Ministero delle poste e dei telegrafi per l'esercizio predetto. 
+E' autorizzata la iscrizione di L. 350,000 al capitolo n. 116: «Fondo di riserva per le spese impreviste» dello stato di previsione della spesa del Ministero del tesoro per l'esercizio 1904-905, a reintegrazione di altrettante state prelevate dal capitolo medesimo col [R. decreto 20 ottobre 1904, n. 595](../Regi%20decreti/Che%20autorizza%20un%20prelevamento%20di%20somma%20dal%20fondo%20di%20riserva%20delle%20spese%20impreviste.%20004U0595.md), e portate in aumento al capitolo n. 5: «Compensi per lavoro straordinario ed a cottimo», dello stato di previsione della spesa del Ministero delle poste e dei telegrafi per l'esercizio predetto. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

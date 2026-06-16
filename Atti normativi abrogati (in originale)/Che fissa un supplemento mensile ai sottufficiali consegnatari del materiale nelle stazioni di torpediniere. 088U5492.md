@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [Regio decreto 20 luglio 1879, N. 5020](Che%20approva%20una%20nuova%20tabella%20delle%20paghe%20del%20corpo%20reale%20carabinieri.%20079U5020.md), (Serie 2ª), che stabilisce le competenze del Corpo Reale Equipaggi;
 
-Visto il [Regio decreto 16 gennaio 1887, N. 4282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-01-16;4282), (Serie 3ª), col quale s'instituiscono stazioni principali e secondarie di torpediniere lungo il litorale continentale ed insulare del Regno;
+Visto il [Regio decreto 16 gennaio 1887, N. 4282](../Regi%20decreti/Col%20quale%20sono%20istituite%20lungo%20il%20litorale%20continentale%20ed%20insulare%20del%20Regno%20stazioni%20principali%20ed%20altre%20secondarie%20di%20torpediniere%20destinate%20a%20concorrere%20alla%20difesa%20ravvicinata%20della%20_8d45b2cd2690.md), (Serie 3ª), col quale s'instituiscono stazioni principali e secondarie di torpediniere lungo il litorale continentale ed insulare del Regno;
 
 Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 

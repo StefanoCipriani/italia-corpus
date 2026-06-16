@@ -10,7 +10,7 @@ vigente: true
 
 IL CAPO PROVVISORIO DELLO STATO
 
-Visto il [regio decreto 30 dicembre 1923, n. 3269](Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo della legge sull'imposta, di registro e successive modificazioni;
+Visto il [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che approva il testo della legge sull'imposta, di registro e successive modificazioni;
 
 Visto il [regio decreto-legge 5 marzo 1942, n. 192](Provvedimenti%20tributari%20in%20materia%20di%20fusione%20concentrazione%20e%20trasformazione%20di%20societa.%20042U0192.md), recante provvedimenti tributari in materia di fusioni, concentrazioni e trasformazioni di societa', convertito, con modificazioni, nella [legge 21 giugno 1942, n. 830](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20marzo%201942-XX%20n.%20192%20recante%20provvedimenti%20tributari%20in%20materia%20di%20fusione%20concentrazione%20e%20trasformazione%20di%20societa.%20042U0830.md);
 

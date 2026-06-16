@@ -17,7 +17,7 @@ VITTORIO EMANUELE III
  RE D'ITALIA 
  
  Veduti la [legge 9 aprile 1931, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-09;427), con la quale la frazione S.
-Benedetto del Querceto fu staccata dal comune di Loiano ed aggregata a quello di Monterenzio, nonche' il [Regio decreto 17 maggio 1933, n. 950](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-17;950), col quale fu delimitato il territorio della frazione anzidetta; 
+Benedetto del Querceto fu staccata dal comune di Loiano ed aggregata a quello di Monterenzio, nonche' il [Regio decreto 17 maggio 1933, n. 950](../Regi%20decreti/Delimitazione%20del%20territorio%20della%20frazione%20S.%20Benedetto%20del%20Querceto%20del%20comune%20di%20Monterenzio.%20033U0950.md), col quale fu delimitato il territorio della frazione anzidetta; 
  
  Vedute le deliberazioni 15 marzo 1934 del podesta' di Monterenzio e 16 marzo 1934 del podesta' di Loiano, con le quali fu approvato il progetto predisposto dalla Prefettura di Bologna per il regolamento dei rapporti patrimoniali e finanziari fra i Comuni medesimi in dipendenza della variazione di circoscrizione disposta con [legge 9 aprile 1931, n. 427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-09;427); 
  

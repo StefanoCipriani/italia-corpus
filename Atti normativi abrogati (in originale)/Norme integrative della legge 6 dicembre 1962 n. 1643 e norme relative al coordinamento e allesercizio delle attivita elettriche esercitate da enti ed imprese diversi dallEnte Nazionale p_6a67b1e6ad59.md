@@ -70,7 +70,7 @@ L'[art. 1 del decreto del Presidente della Repubblica 22 maggio 1963, n. 729](No
 
 ## Art. 9.
 
-Le domande di concessione per derivazioni idroelettriche presentate dall'Ente Nazionale per l'Energia Elettrica si considerano dirette al soddisfacimento di uno speciale e prevalente interesse pubblico ai fini dell'ammissione alla concorrenza eccezionale di cui allo [art. 10 del testo unico sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_10) 11 dicembre 1933, n. 1775.
+Le domande di concessione per derivazioni idroelettriche presentate dall'Ente Nazionale per l'Energia Elettrica si considerano dirette al soddisfacimento di uno speciale e prevalente interesse pubblico ai fini dell'ammissione alla concorrenza eccezionale di cui allo [art. 10 del testo unico sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) 11 dicembre 1933, n. 1775.
  Le domande di concessione di cui sopra sono in ogni caso preferite nei confronti di altre domande di concessione a scopo idroelettrico presentate da enti ed imprese diversi dall'Ente Nazionale per l'Energia Elettrica.
  I decreti di autorizzazione all'inizio immediato dei lavori di cui all'art. 13 del citato testo unico hanno efficacia di dichiarazione di indifferibilita', ed urgenza.
  Le concessioni ed le autorizzazioni provvisorie rilasciate a enti e imprese diversi dall'Ente Nazionale per l'Energia Elettrica per le quali, alla data del presente decreto non siano ancora stati iniziati i lavori di costruzione degli impianti, cessano di avere efficacia.
@@ -139,7 +139,7 @@ Gli enti ed imprese di cui all'art. 10, devono comunicare all'Ente Nazionale per
 ## Art. 20.
 
 E' fatto divieto agli enti ed imprese diversi dallo Ente Nazionale per l'Energia Elettrica di effettuare importazioni, esportazioni e scambi di energia elettrica, nonche' vettoriamenti sui propri elettrodotti, oppure diversioni a mezzo di propri impianti, per conto di terzi, ad eccezione di vettoriamenti effettuati per conto e su disposizione dell'Ente Nazionale per l'Energia Elettrica.
- Le autorizzazioni ad importare ed esportare energia elettrica, rilasciate ai sensi dell'[art. 134 del testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_134), approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), cessano di avere efficacia.
+ Le autorizzazioni ad importare ed esportare energia elettrica, rilasciate ai sensi dell'[art. 134 del testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), cessano di avere efficacia.
  Le condizioni di carattere economico per i vettoriamenti effettuati dagli enti ed imprese suddetti per conto dell'Ente Nazionale per l'Energia Elettrica sono determinate di intesa fra le parti e in caso di mancato accordo sono stabilite dal Ministro per l'industria ed il commercio.
 
 ## Art. 21.

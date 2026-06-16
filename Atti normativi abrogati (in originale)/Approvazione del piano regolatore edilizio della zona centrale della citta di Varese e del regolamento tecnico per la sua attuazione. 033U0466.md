@@ -70,7 +70,7 @@ Tutte le costruzioni eseguite sia dai privati che dal Comune o suoi concessionar
 
 ## Art. 8.
 
-Il comune di Varese e' autorizzato ad imporre ai proprietari dei beni che siano avvantaggiati dalla esecuzione delle opere previste dal presente piano regolatore, contributi di miglioria nei limiti e con le forme previste dal testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
+Il comune di Varese e' autorizzato ad imporre ai proprietari dei beni che siano avvantaggiati dalla esecuzione delle opere previste dal presente piano regolatore, contributi di miglioria nei limiti e con le forme previste dal testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md).
 
 ## Art. 9.
 

@@ -42,7 +42,7 @@ Dopo l'art. 28 e' inserito un nuovo «Capo V» che tratta «Dei lettori» ed e' 
 
 Art. 30. - I posti di lettore sono determinati a seconda del bisogno dal Consiglio di amministrazione.
 
-Art. 31. - I lettori sono nominati, a norma dell'art. 105 del regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674 e dell'art. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674#art_28) del [R. decreto-legge 28 agosto 1931, n. 1227](Disposizioni%20sullistruzione%20superiore.%20031U1227.md), nonche' secondo le modalita' stabilite negli articoli seguenti:
+Art. 31. - I lettori sono nominati, a norma dell'art. 105 del regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674 e dell'art. 28](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md) del [R. decreto-legge 28 agosto 1931, n. 1227](Disposizioni%20sullistruzione%20superiore.%20031U1227.md), nonche' secondo le modalita' stabilite negli articoli seguenti:
 
 a) per concorso;
 
@@ -190,7 +190,7 @@ VITTORIO EMANUELE III
  
  Art. 30. - I posti di lettore sono determinati a seconda del bisogno dal Consiglio di amministrazione. 
  
- Art. 31. - I lettori sono nominati, a norma dell'art. 105 del regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674 e dell'art. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674#art_28) del [R. decreto-legge 28 agosto 1931, n. 1227](Disposizioni%20sullistruzione%20superiore.%20031U1227.md), nonche' secondo le modalita' stabilite negli articoli seguenti: 
+ Art. 31. - I lettori sono nominati, a norma dell'art. 105 del regolamento generale universitario, approvato con [R. decreto 6 aprile 1924, n. 674 e dell'art. 28](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md) del [R. decreto-legge 28 agosto 1931, n. 1227](Disposizioni%20sullistruzione%20superiore.%20031U1227.md), nonche' secondo le modalita' stabilite negli articoli seguenti: 
  a) per concorso; 
  b) per trasferimento da altre Universita' o Istituti superiori. 
  

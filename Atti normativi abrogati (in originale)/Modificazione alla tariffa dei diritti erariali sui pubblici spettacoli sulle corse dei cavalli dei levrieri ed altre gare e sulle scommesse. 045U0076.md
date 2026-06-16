@@ -16,9 +16,9 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 30 dicembre 1923, n. 3276](Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), che approva il testo delle disposizioni per i diritti erariali sugli spettacoli;
+Visto il [R. decreto 30 dicembre 1923, n. 3276](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), che approva il testo delle disposizioni per i diritti erariali sugli spettacoli;
 
-Visto il [R. decreto 2 ottobre 1924, n. 1589](Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md), contenente disposizioni per la riscossione del diritto erariale sugli spettacoli cinematografici;
+Visto il [R. decreto 2 ottobre 1924, n. 1589](../Regi%20decreti/Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md), contenente disposizioni per la riscossione del diritto erariale sugli spettacoli cinematografici;
 
 Visto il [R. decreto-legge 16 novembre 1931, n. 1471](Diritti%20erariali%20sugli%20spettacoli%20e%20trattenimenti%20sportivi%20e%20assegnazione%20della%20somma%20annua%20di%20L.%201.500.000%20a%20favore%20del%20C.O.N.I.%20031U1471.md), convertito nella [legge 6 giugno 1932, n. 671](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20novembre%201931%20n.%201471%20concernente%20i%20diritti%20erariali%20sugli%20spettacoli%20e%20trattenimenti%20sportivi%20e%20lassegnazione%20della%20somma%20annua%20di%20L.%201.500.0_83e664a2f6a1.md), contenente disposizioni sui diritti erariali sugli spettacoli e trattenimenti sportivi e assegnazione della somma annua di L. 1.500.000 a favore del Comitato Olimpico Nazionale Italiano (C.O.N.I.);
 

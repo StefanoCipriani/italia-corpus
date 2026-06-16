@@ -81,7 +81,7 @@ I cittadini italiani che hanno conseguito all'estero un titolo di studio di scuo
 
 1.
 
-Tra i requisiti culturali previsti nell'allegato C al decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1981, cosi' come richiamato dall'[articolo 22, comma 11, del decreto del Presidente della Repubblica 3 agosto 1990, n. 319](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2021%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20universita%20di%20cui%20allart.%209%20de_f82d8fcf6f26.md), e' compreso il titolo del diploma di laurea.
+Tra i requisiti culturali previsti nell'allegato C al decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, pubblicato nella Gazzetta Ufficiale n. 340 dell'11 dicembre 1981, cosi' come richiamato dall'[articolo 22, comma 11, del decreto del Presidente della Repubblica 3 agosto 1990, n. 319](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2021%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20universita%20di%20cui%20allart.%209%20de_f82d8fcf6f26.md), e' compreso il titolo del diploma di laurea.
 
 ## Art. 8.
 

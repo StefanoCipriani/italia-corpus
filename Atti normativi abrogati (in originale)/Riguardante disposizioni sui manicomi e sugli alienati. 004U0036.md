@@ -70,7 +70,7 @@ Nulla e' innovato alle disposizioni vigenti circa l'obbligo delle province di pr
  
  Le speso di qualunque genere per gli alienati esteri sono a carico dello Stato, salvo gli effetti delle relative Convenzioni internazionali. 
  
- Le spese per gli alienati condannati o giudicabili, ricoverati sia in manicomi giudiziari, sia in sezioni speciali di quelli comuni, sono a carico dello Stato, pei condannati fino al termine di espiazione della pena e pei giudicabili fino al giorno in cui l'Autorita' giudiziaria dichiari non farsi luogo a procedimento a carico di essi. Negli altri casi, compreso quello contemplato dall'[articolo 46 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la competenza della spesa e' regolata dalle norme comuni.
+ Le spese per gli alienati condannati o giudicabili, ricoverati sia in manicomi giudiziari, sia in sezioni speciali di quelli comuni, sono a carico dello Stato, pei condannati fino al termine di espiazione della pena e pei giudicabili fino al giorno in cui l'Autorita' giudiziaria dichiari non farsi luogo a procedimento a carico di essi. Negli altri casi, compreso quello contemplato dall'[articolo 46 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la competenza della spesa e' regolata dalle norme comuni.
 
 ### Art. 7.
 
@@ -114,7 +114,7 @@ Dal giorno dell'attuazione della presente legge e' abrogata ogni contraria dispo
  
  E' data facolta' al Governo del Re di provvedere all'ordinamento delle ispezioni periodiche a mezzo d'ispettori della pubblica beneficenza, e di determinare col Regolamento, sentito il Consiglio di Stato ed il Consiglio Superiore di Sanita', le norme per la esecuzione della presente legge e le penalita' per le contravvenzioni alla legge e al Regolamento medesimo. 
  
- Tali penalita' non potranno estendersi oltre le 1000 lire, senza pregiudizio delle pene maggiori sancite dal [Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati da essa previsti. 
+ Tali penalita' non potranno estendersi oltre le 1000 lire, senza pregiudizio delle pene maggiori sancite dal [Codice Penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) pei reati da essa previsti. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

@@ -42,7 +42,7 @@ La costituzione in bandita di cui al precedente articolo e' autorizzata con decr
  
  Tali targhe o tabelle potranno, tuttavia, essere anche apposte ad alberi, e l'altezza dei pali e la distanza fra di essi potranno anche essere, rispettivamente, minore di quattro o maggiore di 100 metri, quando la scritta risulti egualmente visibile in modo sufficiente a chi voglia accedere al fondo. 
  
- In difetto di quanto viene stabilito nel presente articolo, non si riterranno sussistere i segnali che rendano palese la inibizione agli effetti dell'[articolo 428 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ In difetto di quanto viene stabilito nel presente articolo, non si riterranno sussistere i segnali che rendano palese la inibizione agli effetti dell'[articolo 428 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  
  b) assunzione di guardie girate, autorizzate a termini dell' articolo 26 della presente legge, in numero sufficiente, fissato col decreto di concessione, per la continua ed efficace sorveglianza della zona bandita. 
  
@@ -261,7 +261,7 @@ Agli effetti della presente legge, e' considerato esercizio di caccia o di uccel
 
 ### Art. 25.
 
-La vigilanza sulla protezione della selvaggina e sull'esercizio della caccia e dell'aucupio, e' affidata ai funzionari, ufficiali e agenti di pubblica sicurezza e della forza pubblica e della milizia nazionale, alle guardie giurate comunali, campestri e forestali, alle guardie dei consorzi idraulici e forestali, agli speciali agenti giurati, appartenenti a corpi di guardie caccia riconosciuti ed autorizzati, a termini dell'articolo 43 del testo unico approvato con [R. decreto 31 agosto 1907, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-31;690), agli agenti giurati delle societa' dei cacciatori, e, per le bandite e le riserve, anche a guardie private, riconosciute a termini dell'articolo 44 del testo unico predetto, e a termini del [R. decreto 4 giugno 1914, n. 563](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20Istituti%20di%20vigilanza%20privata.%20014U0563.md). 
+La vigilanza sulla protezione della selvaggina e sull'esercizio della caccia e dell'aucupio, e' affidata ai funzionari, ufficiali e agenti di pubblica sicurezza e della forza pubblica e della milizia nazionale, alle guardie giurate comunali, campestri e forestali, alle guardie dei consorzi idraulici e forestali, agli speciali agenti giurati, appartenenti a corpi di guardie caccia riconosciuti ed autorizzati, a termini dell'articolo 43 del testo unico approvato con [R. decreto 31 agosto 1907, n. 690](../Regi%20decreti/Che%20approva%20lunito%20testo%20unico%20della%20legge%20sugli%20ufficiali%20ed%20agenti%20di%20pubblica%20sicurezza.%20007U0690.md), agli agenti giurati delle societa' dei cacciatori, e, per le bandite e le riserve, anche a guardie private, riconosciute a termini dell'articolo 44 del testo unico predetto, e a termini del [R. decreto 4 giugno 1914, n. 563](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20gli%20Istituti%20di%20vigilanza%20privata.%20014U0563.md). 
  
  Queste ultime, ed i corpi guardie caccia, di cui al precedente comma, debbono, altresi', ottenere il riconoscimento del Ministro per l'agricoltura, nei modi che saranno stabiliti dal regolamento che disciplinera' anche i servizi relativi alla vigilanza anzidetta.
 
@@ -289,7 +289,7 @@ Gli agenti che accertano le contravvenzioni, seguite da sentenza di condanna, pe
 
 ### Art. 30.
 
-Salvo l'applicabilita' delle pene previste dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi sulle concessioni governative, per le infrazioni alla presente legge si applicheranno le pene qui appresso indicate: 
+Salvo l'applicabilita' delle pene previste dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi sulle concessioni governative, per le infrazioni alla presente legge si applicheranno le pene qui appresso indicate: 
  
  a) l'ammenda da lire 100 a lire 1000, per le contravvenzioni alle norme contenute negli articoli 6, 17, 19, 21 e nella lettera a) dell'articolo 22; 
  
@@ -313,11 +313,11 @@ Ogni condanna per infrazione alle norme della presente legge importa la confisca
 
 ### Art. 32.
 
-Al Consiglio per i servizi dell'agricoltura. istituito col [Regio decreto 11 gennaio 1923, n. 25](Col%20quale%20si%20provvede%20nei%20riguardi%20delle%20funzioni%20consultive%20del%20Ministero%20per%20lagricoltura.%20023U0025.md), e' aggiunta una sezione, che avra' il compito di pronunciarsi sui ricorsi, di, cui all'articolo 36, e di dar parere sui provvedimenti da emanarsi in base agli articoli 2, 3, 4, 5, 7, 8, 12, 19 e 22 della presente legge, e sovra ogni questione in ordine alla quale il Ministro creda di udirla. 
+Al Consiglio per i servizi dell'agricoltura. istituito col [Regio decreto 11 gennaio 1923, n. 25](../Regi%20decreti/Col%20quale%20si%20provvede%20nei%20riguardi%20delle%20funzioni%20consultive%20del%20Ministero%20per%20lagricoltura.%20023U0025.md), e' aggiunta una sezione, che avra' il compito di pronunciarsi sui ricorsi, di, cui all'articolo 36, e di dar parere sui provvedimenti da emanarsi in base agli articoli 2, 3, 4, 5, 7, 8, 12, 19 e 22 della presente legge, e sovra ogni questione in ordine alla quale il Ministro creda di udirla. 
  
  Dei componenti della sezione, quattro saranno scelti tra i rappresentanti dei cacciatori, designati nei modi da stabilirsi nel regolamento, dalle rispettive associazioni registrate a norma della presente legge e facenti parte delle associazioni medesime. 
  
- Tranne quanto e' esplicitamente stabilito col presente articolo, valgono nei riguardi della sezione anzidetta tutte le disposizioni di cui al succitato [Regio decreto 11 gennaio 1923, n. 25](Col%20quale%20si%20provvede%20nei%20riguardi%20delle%20funzioni%20consultive%20del%20Ministero%20per%20lagricoltura.%20023U0025.md).
+ Tranne quanto e' esplicitamente stabilito col presente articolo, valgono nei riguardi della sezione anzidetta tutte le disposizioni di cui al succitato [Regio decreto 11 gennaio 1923, n. 25](../Regi%20decreti/Col%20quale%20si%20provvede%20nei%20riguardi%20delle%20funzioni%20consultive%20del%20Ministero%20per%20lagricoltura.%20023U0025.md).
 
 ### Art. 33.
 
@@ -391,7 +391,7 @@ Le tasse contemplate dalla presente legge e tutte le altre per l'esercizio della
 
 ### Art. 41.
 
-Salvo il disposto del 2° capoverso dell'articolo 8, sono abrogate le leggi speciali sull'esercizio della caccia, emanate dai cessati Stati italiani; il n. 18 dell'articolo 241 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e tutte le altre disposizioni oggi in vigore che disciplinano la protezione della selvaggina e l'esercizio della caccia, ad eccezione di quelle che concernono i privilegi delle Regie bandite e riserve. Sono altresi' abrogate tutte le norme vigenti, che siano in contrasto con quelle della presente legge.
+Salvo il disposto del 2° capoverso dell'articolo 8, sono abrogate le leggi speciali sull'esercizio della caccia, emanate dai cessati Stati italiani; il n. 18 dell'articolo 241 del testo unico della legge comunale e provinciale, approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), e tutte le altre disposizioni oggi in vigore che disciplinano la protezione della selvaggina e l'esercizio della caccia, ad eccezione di quelle che concernono i privilegi delle Regie bandite e riserve. Sono altresi' abrogate tutte le norme vigenti, che siano in contrasto con quelle della presente legge.
 
 ### Art. 42.
 

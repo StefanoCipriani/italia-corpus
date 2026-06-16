@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- Visto il [R. decreto 1° marzo 1928, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-01;536), col quale il comune di Ipplis e' stato soppresso, ed il rispettivo territorio aggregato a quello di Premariacco; 
+ Visto il [R. decreto 1° marzo 1928, n. 536](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ipplis%20e%20di%20Premariacco%20nellunico%20comune%20di%20Premariacco.%20028U0536.md), col quale il comune di Ipplis e' stato soppresso, ed il rispettivo territorio aggregato a quello di Premariacco; 
  
  Vista la deliberazione del commissario prefettizio di Premariacco rivolta ad ottenere la soppressione dell'ufficio di conciliazione dell'ex comune di Ipplis; 
  

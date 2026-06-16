@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Ritenuta la necessita' e l'urgenza di modificare la vigente convenzione 8 marzo 1926 con la Societa' anonima «Navigazione Libera Triestina» per l'esercizio delle linee Periplo Africano, Nord America (Pacifico), e Congo, aumentando il numero dei viaggi e migliorandone la rapidita'; 
  
- Ritenuto che in dipendenza del suaccennato provvedimento le spese autorizzate col suindicato [R. decreto-legge 23 giugno 1927, n. 1295](Variazioni%20nelle%20spese%20derivanti%20dalla%20proroga%20della%20durata%20di%20alcune%20convenzioni%20per%20i%20servizi%20marittimi.%20027U1295.md), per l'esercizio dei servizi marittimi sovvenzionati indispensabili ed utili, riordinati dal 1° gennaio 1926 in base al [R. decreto n. 3173 del 31 dicembre 1923](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), aumentano complessivamente di L. 4,322,500, di cui lire 682,500 per l'esercizio finanziario 1927-28; L. 1,137,500 per l'esercizio 1928-29; L. 1,592,500 per l'esercizio 1929-30, e L. 910,000 per l'esercizio 1930-31; 
+ Ritenuto che in dipendenza del suaccennato provvedimento le spese autorizzate col suindicato [R. decreto-legge 23 giugno 1927, n. 1295](Variazioni%20nelle%20spese%20derivanti%20dalla%20proroga%20della%20durata%20di%20alcune%20convenzioni%20per%20i%20servizi%20marittimi.%20027U1295.md), per l'esercizio dei servizi marittimi sovvenzionati indispensabili ed utili, riordinati dal 1° gennaio 1926 in base al [R. decreto n. 3173 del 31 dicembre 1923](../Regi%20decreti/Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), aumentano complessivamente di L. 4,322,500, di cui lire 682,500 per l'esercizio finanziario 1927-28; L. 1,137,500 per l'esercizio 1928-29; L. 1,592,500 per l'esercizio 1929-30, e L. 910,000 per l'esercizio 1930-31; 
  
  Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Le spese per l'esercizio dei servizi marittimi sovvenzionati, riordinati dal 1° gennaio 1926 in base al [R. decreto numero 3173 del 31 dicembre 1923](Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), di cui alla tabella riportata dal [R. decreto-legge 23 giugno 1927, n. 1295](Variazioni%20nelle%20spese%20derivanti%20dalla%20proroga%20della%20durata%20di%20alcune%20convenzioni%20per%20i%20servizi%20marittimi.%20027U1295.md), sono modificate come segue per gli esercizi finanziari dal 1927-28 al 1930-31:
+ Le spese per l'esercizio dei servizi marittimi sovvenzionati, riordinati dal 1° gennaio 1926 in base al [R. decreto numero 3173 del 31 dicembre 1923](../Regi%20decreti/Ordinamento%20dei%20servizi%20postali%20e%20commerciali%20marittimi.%20023U3173.md), di cui alla tabella riportata dal [R. decreto-legge 23 giugno 1927, n. 1295](Variazioni%20nelle%20spese%20derivanti%20dalla%20proroga%20della%20durata%20di%20alcune%20convenzioni%20per%20i%20servizi%20marittimi.%20027U1295.md), sono modificate come segue per gli esercizi finanziari dal 1927-28 al 1930-31:
 
 ESERCIZIO
                                 Pei servizi indispensabili a contratto di venti anni e di ventuno anni

@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-La concessione per l'impianto e l'esercizio delle stazioni radioelettriche fisse e terrestri di cui all'art. 251 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), puo' essere accordata dal Ministero delle poste e' delle telecomunicazioni, in caso eccezionale e secondo le disposizioni in materia, previo parere favorevole dei Ministeri degli affari esteri, della difesa, e dell'interno, ad aziende od istituzioni non in possesso del requisito della nazionalita' previsto dall'art. 173 del predetto Codice, a condizione di reciprocita' da parte degli Stati esteri di appartenenza.
+La concessione per l'impianto e l'esercizio delle stazioni radioelettriche fisse e terrestri di cui all'art. 251 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), puo' essere accordata dal Ministero delle poste e' delle telecomunicazioni, in caso eccezionale e secondo le disposizioni in materia, previo parere favorevole dei Ministeri degli affari esteri, della difesa, e dell'interno, ad aziende od istituzioni non in possesso del requisito della nazionalita' previsto dall'art. 173 del predetto Codice, a condizione di reciprocita' da parte degli Stati esteri di appartenenza.
  La concessione e' accordata per un periodo non superiore ad un anno, salvo rinnovo.
  Nulla e' innovato in merito a quanto disposto con il [decreto del Presidente della Repubblica 14 gennaio 1954, n. 598](Norme%20per%20la%20concessione%20dellimpianto%20ed%20esercizio%20di%20stazioni%20di%20radioamatori.md), contenente norme per la concessione di licenze per l'impianto e l'esercizio di stazioni di radioamatori.
 
@@ -40,7 +40,7 @@ La concessione di cui al precedente art. 2 puo' essere accordata alle seguenti c
 ## Art. 4.
 
 Per il rilascio della concessione di cui all'art. 2 le Rappresentanze interessate debbono avanzare domanda al Ministero degli affari esteri specificando la localita' di impianto, le caratteristiche tecniche e l'impiego delle apparecchiature.
- Il rilascio della concessione e' effettuato dal Ministero delle poste e delle telecomunicazioni di concerto con il Ministero degli affari esteri, con la procedura di cui agli articoli 169, lettera a), e 251 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645).
+ Il rilascio della concessione e' effettuato dal Ministero delle poste e delle telecomunicazioni di concerto con il Ministero degli affari esteri, con la procedura di cui agli articoli 169, lettera a), e 251 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md).
  L'atto di concessione deve specificare le condizioni alle quali e' subordinato l'impianto e l'esercizio degli apparati, il termine di scadenza e le modalita' per l'eventuale rinnovo.
 
 ## Art. 5.

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto l'[art. 2 del R. decreto 4 novembre 1928, n. 2325](Disposizioni%20per%20lunificazione%20legislativa%20nei%20territori%20annessi%20al%20Regno.%20028U2325.md), col quale per la pubblicita' dei diritti su beni immobili e' stato mantenuto in vigore nei territori annessi al Regno il sistema dei libri fondiari e ferroviari;
+Visto l'[art. 2 del R. decreto 4 novembre 1928, n. 2325](../Regi%20decreti/Disposizioni%20per%20lunificazione%20legislativa%20nei%20territori%20annessi%20al%20Regno.%20028U2325.md), col quale per la pubblicita' dei diritti su beni immobili e' stato mantenuto in vigore nei territori annessi al Regno il sistema dei libri fondiari e ferroviari;
 
-Visto il [R. decreto 28 marzo 1929, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;499), che contiene norme relative ai detti libri;
+Visto il [R. decreto 28 marzo 1929, n. 499](../Regi%20decreti/Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), che contiene norme relative ai detti libri;
 
 Ritenuta la necessita' assoluta e l'urgenza di prescrivere l'intavolazione nei libri fondiari dei beni immobili pervenuti al Demanio dello Stato, ramo Ferrovie, in deroga alle disposizioni vigenti, che ne dispongono l'intavolazione nei libri ferroviari;
 

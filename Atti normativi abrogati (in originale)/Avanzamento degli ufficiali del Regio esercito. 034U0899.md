@@ -1232,7 +1232,7 @@ PARTE III.
 
 ### Articolo 111.
 
-Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio si applicano le norme contenute nel [R. decreto 31 dicembre 1923, n. 3257](Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md) con le seguenti avvertenze: 
+Agli ufficiali mutilati ed invalidi di guerra riassunti in servizio si applicano le norme contenute nel [R. decreto 31 dicembre 1923, n. 3257](../Regi%20decreti/Stato%20avanzamento%20e%20trattamento%20di%20pensione%20degli%20ufficiali%20mutilati%20ed%20invalidi%20riassunti%20in%20servizio.%20023U3257.md) con le seguenti avvertenze: 
  
  a) per l'accertamento della promovibilita' l'ufficiale riassunto non e', in alcun caso, sottoposto ad esame od esperimento; mentre viene classificato con norme da stabilirsi con decreto Reale; 
  
@@ -1665,7 +1665,7 @@ e) a scelta speciale per avere ottenuto il trasferimento nel corpo di stato magg
 ### Articolo 155.
 
 Per concorrere agli esami per l'avanzamento anticipato stabilito dalla lettera a) del precedente articolo, i capitani di cui all'articolo 154 - ne facciano o no domanda - debbono essere designati dalle autorita' giudicatrici con le norme dell'articolo 59.
-I capitani designati, previa classifica, prima dell'entrata in vigore della presente legge, in base al [R.D. 4 gennaio 1934 n. 127](Modifiche%20al%20R.%20decreto%205%20gennaio%201933%20n.%201%20recante%20norme%20per%20lavanzamento%20anticipato%20dei%20capitani%20e%20dei%20tenenti%20del%20Regio%20esercito.%20034U0127.md), sosterranno senz'altro gli esami per l'avanzamento anticipato. Coloro che superino gli esami stessi potranno conseguire l'avanzamento anticipato solo nel caso in cui, in una nuova classifica, come da articolo 47, riportino i punti minimi parziali e totale prescritti. 
+I capitani designati, previa classifica, prima dell'entrata in vigore della presente legge, in base al [R.D. 4 gennaio 1934 n. 127](../Regi%20decreti/Modifiche%20al%20R.%20decreto%205%20gennaio%201933%20n.%201%20recante%20norme%20per%20lavanzamento%20anticipato%20dei%20capitani%20e%20dei%20tenenti%20del%20Regio%20esercito.%20034U0127.md), sosterranno senz'altro gli esami per l'avanzamento anticipato. Coloro che superino gli esami stessi potranno conseguire l'avanzamento anticipato solo nel caso in cui, in una nuova classifica, come da articolo 47, riportino i punti minimi parziali e totale prescritti. 
  
  Le norme ed i programmi di esame saranno stabiliti con decreto Reale. Punto minimo di idoneita' quello da stabilirsi nel predetto decreto. 
  

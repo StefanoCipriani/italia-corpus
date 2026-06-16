@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico approvato col [R. decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619);
+Visto il testo unico approvato col [R. decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md);
 
 Ritenuta la necessita' urgente ed assoluta di allargare la sfera di assistenza affidata all'Opera di previdenza dei personali civile e militare dello Stato in tema di cure climatiche;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-L'art. 45 del testo unico approvato con [R. decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), e' modificato come appresso: 
+L'art. 45 del testo unico approvato con [R. decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md), e' modificato come appresso: 
  
  « L'Opera di previdenza e' autorizzata ad inviare in colonie marine o montane i figli degli impiegati e dei militari iscritti all'Opera stessa, riconosciuti bisognosi di cure climatiche, purche' il padre sia in servizio attivo e di grado non superiore al settimo. 
  

@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- La circoscrizione delle seguenti Soprintendenze, gia' fissata dall'[art. 4 del R. decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_4), e dall'articolo unico del [R. decreto 19 giugno 1924, n. 1211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1211), viene cosi' modificata: 
+ La circoscrizione delle seguenti Soprintendenze, gia' fissata dall'[art. 4 del R. decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), e dall'articolo unico del [R. decreto 19 giugno 1924, n. 1211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1211), viene cosi' modificata: 
  
  1° Soprintendenza alle antichita' in Ancona 
  (Marche, Abruzzi (meno la provincia di Aquila) e Zara). 

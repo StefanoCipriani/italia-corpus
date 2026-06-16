@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), [n. 389 del 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;389) marzo 192, n. 1998 del 23 ottobre 1927, n. 3191 del 5 dicembre 1928 e n. 165 del 18 febbraio 1932;
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), [n. 389 del 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;389) marzo 192, n. 1998 del 23 ottobre 1927, n. 3191 del 5 dicembre 1928 e n. 165 del 18 febbraio 1932;
 
 Udito il Consiglio di amministrazione dell'Azienda dei monopoli di Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 ## Art. 1.
 
-Gli articoli 9, 46, 82 e 111 del regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), [n. 1998 del 23 ottobre 1927](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md), [n. 3191 del 5 dicembre 1928](Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20028U3191.md) e [n. 165 del 18 febbraio 1932](Modifiche%20al%20vigente%20regolamento%20sulla%20coltivazione%20indigena%20del%20tabacco.%20032U0165.md), sono modificati come appresso: 
+Gli articoli 9, 46, 82 e 111 del regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), [n. 389 del 17 marzo 1927](Modificazione%20al%20regolamento%2012%20ottobre%201924%20n.%201590%20sulla%20coltivazione%20indigena%20del%20tabacco.%20027U0389.md), [n. 1998 del 23 ottobre 1927](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20027U1998.md), [n. 3191 del 5 dicembre 1928](Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20028U3191.md) e [n. 165 del 18 febbraio 1932](Modifiche%20al%20vigente%20regolamento%20sulla%20coltivazione%20indigena%20del%20tabacco.%20032U0165.md), sono modificati come appresso: 
  «Art. 9. - Dopo il comma di cui alla lettera i), e' aggiunto il seguente capoverso: 
  «Sono esclusi altresi' i coltivatori che per due campagne consecutive abbiano coltivato una superficie superiore a quella rispettivamente autorizzata». 
  «Art. 40. - La licenza di coltivazione che comprende il solo periodo colturale ed ha la durata di una campagna, e' accordata esclusivamente ai proprietari od ai possessori a titolo di dominio utile, di usufrutto, di anticresi o di locazione del terreno da coltivare, purche' quest'ultimo non scada prima del termine stabilito per la raccolta e risulti da atto debitamente registrato, o salvo i casi di simulazione previsti dall'art. 49. 

@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-Sono approvate le seguenti varianti alla legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra: testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904, n. 347 del 9 luglio 1905, n. 305 dell' 8 luglio 1906, n. 343 del 12 luglio 1906, n. 372 del 19 luglio 1906, numero 647 del 30 dicembre 1906, n. 84 del 21 marzo 1907, n. 327 del 13 giugno 1907, nn. 479 e 484 del 14 luglio 1907, n. 7 del 5 gennaio 1908, n. 328 del 2 luglio 1908, n. 473 del 15 luglio 1909](Che%20porta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20di%20ordinamento%20del%20Regio%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra.%20009U0473.md). 
+Sono approvate le seguenti varianti alla legge di ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della guerra: testo unico approvato con [R. decreto n. 525 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904, n. 347 del 9 luglio 1905, n. 305 dell' 8 luglio 1906, n. 343 del 12 luglio 1906, n. 372 del 19 luglio 1906, numero 647 del 30 dicembre 1906, n. 84 del 21 marzo 1907, n. 327 del 13 giugno 1907, nn. 479 e 484 del 14 luglio 1907, n. 7 del 5 gennaio 1908, n. 328 del 2 luglio 1908, n. 473 del 15 luglio 1909](Che%20porta%20modificazioni%20al%20testo%20unico%20delle%20leggi%20di%20ordinamento%20del%20Regio%20esercito%20e%20dei%20servizi%20dipendenti%20dallAmministrazione%20della%20guerra.%20009U0473.md). 
  
  CAPO I. 
  
@@ -264,7 +264,7 @@ Sono approvate le seguenti varianti alla legge di ordinamento del R. esercito e 
  
  Art. 23. 
  
- Gli stabilimenti militari di pena sono di due specie, come e' stabilito dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, cioe' la reclusione militare e il carcere militare; essi sono luoghi di detenzione e di lavoro obbligatorio, retti da speciale disciplina. 
+ Gli stabilimenti militari di pena sono di due specie, come e' stabilito dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito, cioe' la reclusione militare e il carcere militare; essi sono luoghi di detenzione e di lavoro obbligatorio, retti da speciale disciplina. 
  
  E) Arma di cavalleria. 
  
@@ -758,7 +758,7 @@ Sono approvate le seguenti varianti alla legge di ordinamento del R. esercito e 
 
 ## Art. 2.
 
-Sono approvate le seguenti modificazioni alla legge sugli stipendi ed assegni fissi pel R. esercito testo unico, approvato con [R. decreto n. 380 del 14 luglio 1898](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md); modificato con [leggi n. 286 del 7 luglio 1901, n. 216 del 2 giugno 1904, nn. 300, 301 e 302 del 3 luglio 1904, n. 305 dell'8 luglio 1906, n. 372 del 19 luglio 1906, n. 647 del 30 dicembre 1906, n. 84 del 21 marzo 1907, n. 327 del 13 giugno 1907, nn. 479, 483, 494 e 495 del 14 luglio 1907, n. 7 del 5 gennaio 1908 e n. 362 del 7 luglio 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-07;362). 
+Sono approvate le seguenti modificazioni alla legge sugli stipendi ed assegni fissi pel R. esercito testo unico, approvato con [R. decreto n. 380 del 14 luglio 1898](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md); modificato con [leggi n. 286 del 7 luglio 1901, n. 216 del 2 giugno 1904, nn. 300, 301 e 302 del 3 luglio 1904, n. 305 dell'8 luglio 1906, n. 372 del 19 luglio 1906, n. 647 del 30 dicembre 1906, n. 84 del 21 marzo 1907, n. 327 del 13 giugno 1907, nn. 479, 483, 494 e 495 del 14 luglio 1907, n. 7 del 5 gennaio 1908 e n. 362 del 7 luglio 1908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-07;362). 
  
  I. 
  

@@ -20,7 +20,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-Il Ministro per l'interno ha facolta' di delegare al Sottosegretario di Stato, con suoi decreti da registrare alla Corte dei conti, la firma dei provvedimenti indicati all'art. 26 del regolamento approvato con [R. decreto 5 settembre 1895, n. 603](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-05;603).
+Il Ministro per l'interno ha facolta' di delegare al Sottosegretario di Stato, con suoi decreti da registrare alla Corte dei conti, la firma dei provvedimenti indicati all'art. 26 del regolamento approvato con [R. decreto 5 settembre 1895, n. 603](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0603.md).
 
 ## Art. 2.
 

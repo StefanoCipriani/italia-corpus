@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 novembre 1936, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-30;2125), pubblicato nella Gazzetta Ufficiale del 22 dicembre 1936, n. 295, col quale venne dichiarata di pubblica utilita' l'espropriazione a favore dello Stato degli immobili siti nella Collina di Baia uno scopo di procedere alla sistemazione degli avanzi delle antiche terme romane mediante la creazione di un Parco monumentale;
+Visto il [R. decreto 30 novembre 1936, n. 2125](../Regi%20decreti/Dichiarazione%20di%20pubblica%20utilita%20dellespropriazione%20di%20alcuni%20immobili%20siti%20nella%20collina%20di%20Baia%20per%20sistemare%20le%20antiche%20Terme%20Romane%20e%20crearvi%20un%20Parco%20monumentale.%20036U2125.md), pubblicato nella Gazzetta Ufficiale del 22 dicembre 1936, n. 295, col quale venne dichiarata di pubblica utilita' l'espropriazione a favore dello Stato degli immobili siti nella Collina di Baia uno scopo di procedere alla sistemazione degli avanzi delle antiche terme romane mediante la creazione di un Parco monumentale;
 
 Visto il decreto 19 settembre 1937, n. 1766, con cui e' stato prorogato al 21 aprile 1938-XVI il termine per i primi lavori di sistemazione del Parco monumentale di Baia;
 
@@ -34,7 +34,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Articolo unico.
 
-E' prorogato al 31 agosto 1938-XVI il termine, di cui all'[art. 2, primo comma, del R. decreto 30 novembre 1936, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-30;2125#art_2-com1), e al dispositivo, [primo comma, del R. decreto 19 settembre 1937, n. 1766](Proroga%20al%2021%20aprile%201938-XVI%20del%20termine%20per%20i%20primi%20lavori%20di%20sistemazione%20del%20Parco%20monumentale%20di%20Baia.%20037U1766.md), per l'espletamento dell'espropriazione e dei primi lavori di sistemazione del Parco monumentale di Baia. 
+E' prorogato al 31 agosto 1938-XVI il termine, di cui all'[art. 2, primo comma, del R. decreto 30 novembre 1936, n. 2125](../Regi%20decreti/Dichiarazione%20di%20pubblica%20utilita%20dellespropriazione%20di%20alcuni%20immobili%20siti%20nella%20collina%20di%20Baia%20per%20sistemare%20le%20antiche%20Terme%20Romane%20e%20crearvi%20un%20Parco%20monumentale.%20036U2125.md), e al dispositivo, [primo comma, del R. decreto 19 settembre 1937, n. 1766](Proroga%20al%2021%20aprile%201938-XVI%20del%20termine%20per%20i%20primi%20lavori%20di%20sistemazione%20del%20Parco%20monumentale%20di%20Baia.%20037U1766.md), per l'espletamento dell'espropriazione e dei primi lavori di sistemazione del Parco monumentale di Baia. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

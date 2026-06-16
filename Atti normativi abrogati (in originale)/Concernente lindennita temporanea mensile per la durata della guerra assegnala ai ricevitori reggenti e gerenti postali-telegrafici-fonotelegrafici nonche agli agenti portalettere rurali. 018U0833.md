@@ -20,7 +20,7 @@ A decorrere dal 1° febbraio 1918 la indennita' temporanea mensile per la durata
 
 ## Art. 2.
 
-Gli aumenti percentuali di cui al precedente articolo sono applicabili, per la durata della guerra, alla ragguagliata ad anno, concessa nella misura stabilita dall'art. 13 del regolamento approvato con [R. decreto 22 dicembre 1910, n. 936](Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), ai titolari, reggenti e gerenti delle ricevitorie state chiuse a cagiono della guerra, i quali prestino servizio negli Uffici principali o nelle ricevitorie del Regno, nonche' alla diaria pure ragguagliata ad anno, corrisposta ai supplenti in missione nelle ricevitorie medesime per conto dell'Amministrazione.
+Gli aumenti percentuali di cui al precedente articolo sono applicabili, per la durata della guerra, alla ragguagliata ad anno, concessa nella misura stabilita dall'art. 13 del regolamento approvato con [R. decreto 22 dicembre 1910, n. 936](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20il%20personale%20degli%20uffici%20postali%20telegrafici%20e%20fonotelegrafici%20di%202ª%20e%203ª%20classe%20e%20per%20gli%20agenti%20rurali.%20010U0936.md), ai titolari, reggenti e gerenti delle ricevitorie state chiuse a cagiono della guerra, i quali prestino servizio negli Uffici principali o nelle ricevitorie del Regno, nonche' alla diaria pure ragguagliata ad anno, corrisposta ai supplenti in missione nelle ricevitorie medesime per conto dell'Amministrazione.
 
 ## Art. 3.
 

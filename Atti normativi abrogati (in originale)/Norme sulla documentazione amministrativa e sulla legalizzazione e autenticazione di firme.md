@@ -143,7 +143,7 @@ Le pubbliche amministrazioni ed i privati hanno facolta' di sostituire, a tutti 
 
 ## Art. 26. — (Sanzioni penali)
 
-Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
+Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi previsti dalla presente legge sono puniti ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia.
  A tali effetti, l'esibizione di un atto contenente dati non piu' rispondenti a verita' equivale a uso di atto falso e le dichiarazioni rese ai sensi dei precedenti articoli 2, 3, 4, 8 e autenticate a norma dell'articolo 20 sono considerate come fatte a pubblico ufficiale.
  Inoltre, ove i reati indicati nei precedenti commi siano commessi per ottenere la nomina ad un pubblico ufficio o l'autorizzazione all'esercizio di una professione o arte, il giudice, nei casi piu' gravi, puo' applicare l'interdizione temporanea dai pubblici uffici o dalla professione o arte.
  Il pubblico ufficiale che autentica le sottoscrizioni o al quale sono esibiti gli atti ammonisce chi sottoscrive la dichiarazione o esibisce l'atto sulla responsabilita' penale cui puo' andare incontro in caso di dichiarazione mendace o di esibizione di atto falso o contenente dati non piu' rispondenti a verita'.
@@ -151,8 +151,8 @@ Le dichiarazioni mendaci, la falsita' negli atti e l'uso di atti falsi nei casi 
 
 ## Art. 27. — (Rinvio)
 
-Salvo quanto previsto negli articoli 7, 11, 12, 13, 14, 17, 18 e 19 nulla e' innovato alle norme del [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238), concernenti la presentazione dei documenti necessari per la celebrazione del matrimonio, nonche' alle norme del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), relative alla presentazione dei documenti nei concorsi per le carriere statali.
- Restano ferme le disposizioni del [regio decreto 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269), riguardanti il titolo originale di studi medi prescritto per ottenere l'ammissione ai corsi universitari.
+Salvo quanto previsto negli articoli 7, 11, 12, 13, 14, 17, 18 e 19 nulla e' innovato alle norme del [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), concernenti la presentazione dei documenti necessari per la celebrazione del matrimonio, nonche' alle norme del [decreto del Presidente della Repubblica 3 maggio 1957, n. 686](../DPR/Norme%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sullo%20statuto%20degli%20impiegati%20civili%20dello%20Stato%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2010%20gennaio%201957%20n.%203.md), relative alla presentazione dei documenti nei concorsi per le carriere statali.
+ Restano ferme le disposizioni del [regio decreto 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md), riguardanti il titolo originale di studi medi prescritto per ottenere l'ammissione ai corsi universitari.
 
 ## Art. 28. — (Norme abrogate)
 

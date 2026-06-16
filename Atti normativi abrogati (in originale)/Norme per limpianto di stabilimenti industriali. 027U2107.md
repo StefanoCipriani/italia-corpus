@@ -26,7 +26,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 Nei Comuni aventi un agglomerato urbano, con popolazione superiore ai 100,000 abitanti, l'impianto di nuovi stabilimenti industriali non potra' essere comunque effettuato, quando richieda l'impiego di una maestranza superiore ai 100 operai, senza il preventivo consenso del Ministro per l'economia nazionale, il quale provvedera' dopo aver sentito il parere dei Ministri per l'interno e per le corporazioni. 
  
- Contro il provvedimento del Ministro per l'economia nazionale e' ammesso ricorso al Consiglio di Stato, in sede giurisdizionale, nei casi preveduti dall'art. 26 del testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054).
+ Contro il provvedimento del Ministro per l'economia nazionale e' ammesso ricorso al Consiglio di Stato, in sede giurisdizionale, nei casi preveduti dall'art. 26 del testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md).
 
 ## Art. 2.
 

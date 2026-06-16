@@ -39,7 +39,7 @@ Gli alloggi costruiti ai sensi della presente legge sono trasferiti, dopo il col
 
 ## Art. 4.
 
-Salvo le piu' favorevoli agevolazioni fiscali consentite dalle leggi vigenti, agli alti e contratti occorrenti per l'attuazione delle costruzioni di cui alla presente legge sono estese le norme del [testo unico sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165). 
+Salvo le piu' favorevoli agevolazioni fiscali consentite dalle leggi vigenti, agli alti e contratti occorrenti per l'attuazione delle costruzioni di cui alla presente legge sono estese le norme del [testo unico sull'edilizia](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md). 
  Il godimento delle agevolazioni accordate dal presente articolo e' subordinato alla condizione che ogni singolo atto contenga la contestuale dichiarazione che esso e' stipulato ai sensi della presente legge.
 
 ## Art. 5.

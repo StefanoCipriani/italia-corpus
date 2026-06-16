@@ -14,9 +14,9 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il testo unico di leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico di leggi metriche, approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
-Visto il regolamento per il servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;242), il quale, all'art. 9 stabilisce che al laboratorio metrico dell'ufficio centrale metrico e del saggio delle monete e dei metalli preziosi, di cui all'art. 6, e' annessa un'officina meccanica;
+Visto il regolamento per il servizio metrico approvato con [R. decreto 31 gennaio 1909, n. 242](../Regi%20decreti/che%20approva%20il%20regolamento%20per%20il%20servizio%20metrico%20009U0242.md), il quale, all'art. 9 stabilisce che al laboratorio metrico dell'ufficio centrale metrico e del saggio delle monete e dei metalli preziosi, di cui all'art. 6, e' annessa un'officina meccanica;
 
 Vista la legge di bilancio con cui si accordano i fondi per acquisto, manutenzione e riparazioni di materiali, fabbricazioni di punzoni e di timbri; spese per i laboratori centrali, comparazione quinquennale ed aggiustamento di campioni metrici;
 

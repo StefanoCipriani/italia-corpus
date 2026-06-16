@@ -20,7 +20,7 @@ Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20
 
 Vista la [legge 8 luglio 1926, n. 1179](Avanzamento%20dei%20Corpi%20militari%20della%20Regia%20marina.%20026U1179.md), sull'avanzamento degli ufficiali della Regia marina, e sue successive modificazioni;
 
-Visto il [R. decreto 19 luglio 1924, n. 1521](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20corpi%20consultivi%20della%20Regia%20marina.%20024U1521.md), che approva il testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina, e sue successive modificazioni;
+Visto il [R. decreto 19 luglio 1924, n. 1521](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20costituzione%20e%20le%20attribuzioni%20dei%20corpi%20consultivi%20della%20Regia%20marina.%20024U1521.md), che approva il testo unico delle disposizioni legislative riguardanti la costituzione e le attribuzioni dei Corpi consultivi della Regia marina, e sue successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

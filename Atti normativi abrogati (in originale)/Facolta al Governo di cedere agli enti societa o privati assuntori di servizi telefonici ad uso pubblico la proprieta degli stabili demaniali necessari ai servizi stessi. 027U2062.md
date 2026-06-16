@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 febbraio 1923, n. 399](Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md);
+Visto il [R. decreto 8 febbraio 1923, n. 399](../Regi%20decreti/Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md);
 
 Visto il [R. decreto-legge 5 aprile 1925, n. 431](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti-legge%2025%20settembre%201924%20n.%201460%20e%204%20maggio%201924%20n.%20837%20riguardanti%20la%20cessione%20dei%20telefoni%20allindustria%20privata.%20025U0431.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Art. 1.
 
-A deroga di quanto dispone l'ultimo comma dell'[art. 2 del R. decreto 8 febbraio 1923, n. 399](Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md), e' data facolta' al Governo, tutte le volte che lo reputi conveniente, di cedere agli enti, societa' o privati assuntori di servizi telefonici ad uso pubblico, anche la proprieta' degli stabili statali necessari ai servizi stessi. 
+A deroga di quanto dispone l'ultimo comma dell'[art. 2 del R. decreto 8 febbraio 1923, n. 399](../Regi%20decreti/Che%20reca%20le%20disposizioni%20che%20conferiscono%20la%20facolta%20al%20Governo%20di%20concedere%20a%20Enti%20pubblici%20a%20Societa%20o%20a%20privati%20lesercizio%20di%20impianti%20telefonici%20di%20Stato.%20023U0399.md), e' data facolta' al Governo, tutte le volte che lo reputi conveniente, di cedere agli enti, societa' o privati assuntori di servizi telefonici ad uso pubblico, anche la proprieta' degli stabili statali necessari ai servizi stessi. 
  
  I decreti Ministeriali di approvazione dei relativi contratti di cessione saranno emessi dal Ministro per le finanze di concerto con quello per le comunicazioni, il quale ultimo provvedera' ad inserire nei contratti stessi quelle speciali clausole che ravvisera' necessarie per la tutela dei servizi da esso dipendenti.
 

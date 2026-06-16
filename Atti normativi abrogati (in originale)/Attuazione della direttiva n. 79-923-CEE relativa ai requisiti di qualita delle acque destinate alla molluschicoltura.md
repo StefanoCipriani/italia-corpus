@@ -162,7 +162,7 @@ Qualora sia richiesto da eccezionali ed urgenti necessita' di tutela delle acque
 
 2.
 
-Sono fatte salve le competenze dell'autorita' marittima, cosi' come previsto agli [articoli 68](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [81 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Sono fatte salve le competenze dell'autorita' marittima, cosi' come previsto agli [articoli 68](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [81 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 3.
 

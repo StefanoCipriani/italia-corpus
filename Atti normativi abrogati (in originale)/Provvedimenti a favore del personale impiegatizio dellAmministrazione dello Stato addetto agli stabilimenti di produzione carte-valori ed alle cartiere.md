@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALI DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 22 giugno 1924, n. 1063](Pagamento%20del%20premio%20per%20prolungamento%20dorario%20agli%20impiegati%20addetti%20agli%20stabilimenti%20monetari%20e%20alle%20cartiere.%20024U1063.md);
+Visto il [R. decreto 22 giugno 1924, n. 1063](../Regi%20decreti/Pagamento%20del%20premio%20per%20prolungamento%20dorario%20agli%20impiegati%20addetti%20agli%20stabilimenti%20monetari%20e%20alle%20cartiere.%20024U1063.md);
 
-Visto il [R. decreto 23 agosto 1929, n. 1892](Indennita%20per%20prolungamento%20di%20orario%20da%20corrispondersi%20agli%20impiegati%20ed%20agenti%20dipendenti%20dallAmministrazione%20dello%20Stato%20addetti%20agli%20stabilimenti%20delle%20carte-valori.%20029U1892.md);
+Visto il [R. decreto 23 agosto 1929, n. 1892](../Regi%20decreti/Indennita%20per%20prolungamento%20di%20orario%20da%20corrispondersi%20agli%20impiegati%20ed%20agenti%20dipendenti%20dallAmministrazione%20dello%20Stato%20addetti%20agli%20stabilimenti%20delle%20carte-valori.%20029U1892.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

@@ -25,7 +25,7 @@ Ciascuno fa parte della classe di leva dell'anno in cui nacque e percio' ciascun
 
 ### Art. 4.
 
-Sono esclusi dal servizio militare e non possono far parte del Regio esercito coloro che, in applicazione del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, sono incorsi nella interdizione perpetua dai pubblici uffici, anche in base a sentenza penale straniera alla quale sia stato dato riconoscimento nello Stato.
+Sono esclusi dal servizio militare e non possono far parte del Regio esercito coloro che, in applicazione del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) comune, sono incorsi nella interdizione perpetua dai pubblici uffici, anche in base a sentenza penale straniera alla quale sia stato dato riconoscimento nello Stato.
 
 ### Art. 5.
 
@@ -1022,7 +1022,7 @@ Perdono di pieno diritto i benefici della rafferma in corso:
 a) i retrocessi dal grado; 
 b) i trasferiti alle compagnie di correzione; 
 c) i condannati dai tribunali ordinari per reati che importino di pieno diritto la perdita del grado; 
-d) i condannati per reati previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
+d) i condannati per reati previsti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare; 
 e) coloro che contraggono matrimonio senza autorizzazione. 
  La retrocessione dal grado dei raffermati con premio deve essere sempre preceduta da parere di una commissione di disciplina.
 
@@ -1162,7 +1162,7 @@ Non possono essere ammessi all'eventuale congedo anticipato da cui all'art. 73 n
  
  2) gli inscritti che scientemente abbiano prodotto documenti falsi o infedeli, senza pregiudizio delle pene stabilite dalla legge qualora siano incorsi nel reato di falsita'; 
  
- 3) i militari che, a termine del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, siano incorsi nel reato di diserzione.
+ 3) i militari che, a termine del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, siano incorsi nel reato di diserzione.
 
 ### Art. 161.
 
@@ -1182,9 +1182,9 @@ I colpevoli di fraudolenta sostituzione di persone sono puniti con la reclusione
 
 ### Art. 164.
 
-Gli inscritti di leva che al fine di sottrarsi permanentemente o temporaneamente all'obbligo del servizio militare o ad un particolare servizio di corpo, di una arma o di una specialita', commettono alcuno dei reati previsti dagli [articoli 157](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [158](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [159 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, sono puniti in conformita' delle disposizioni dei detti articoli. 
+Gli inscritti di leva che al fine di sottrarsi permanentemente o temporaneamente all'obbligo del servizio militare o ad un particolare servizio di corpo, di una arma o di una specialita', commettono alcuno dei reati previsti dagli [articoli 157](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [158](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [159 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace, sono puniti in conformita' delle disposizioni dei detti articoli. 
  
- I pubblici ufficiali e gli esercenti una professione sanitaria che concorrono con gli inscritti di leva a commettere alcuno dei reati suindicati sono puniti in conformita' degli articoli 162 e 163 del detto codice. In tempo di guerra le suddette pene sono aumentate in conformita' dell'[art. 47 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra.
+ I pubblici ufficiali e gli esercenti una professione sanitaria che concorrono con gli inscritti di leva a commettere alcuno dei reati suindicati sono puniti in conformita' degli articoli 162 e 163 del detto codice. In tempo di guerra le suddette pene sono aumentate in conformita' dell'[art. 47 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di guerra.
 
 ### Art. 165.
 
@@ -1256,11 +1256,11 @@ I medici e chirurghi chiamati come periti nei casi preveduti da questa legge, i 
 
 ### Art. 173.
 
-Ogni pubblico ufficiale che sotto qualsiasi pretesto abbia, in opposizione al disposto della legge, autorizzato od ammesso assegnazioni ad eventuali congedi anticipati, riforma, dichiarazioni di idoneita' limitata od esclusione dal servizio militare, ovvero autorizzato od ammesso alle agevolazioni od ai benefici previsti nel capo IX o abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito come reo di abuso dei poteri inerenti alle sue funzioni con le pene previste dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle maggiori pene stabilite dallo stesso codice nel caso che altre circostanze aggravino la sua colpa.
+Ogni pubblico ufficiale che sotto qualsiasi pretesto abbia, in opposizione al disposto della legge, autorizzato od ammesso assegnazioni ad eventuali congedi anticipati, riforma, dichiarazioni di idoneita' limitata od esclusione dal servizio militare, ovvero autorizzato od ammesso alle agevolazioni od ai benefici previsti nel capo IX o abbia data arbitraria estensione sia alla durata, sia alle regole e condizioni della chiamata alla leva e degli arruolamenti volontari, e' punito come reo di abuso dei poteri inerenti alle sue funzioni con le pene previste dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), senza pregiudizio delle maggiori pene stabilite dallo stesso codice nel caso che altre circostanze aggravino la sua colpa.
 
 ### Art. 174.
 
-L'inscritto che, per sottrarsi all'obbligo del servizio militare, commette in territorio estero reati preveduti nella legge sul reclutamento dell'esercito o nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge albanese ancorche' non si trovi nel territorio dello Stato. 
+L'inscritto che, per sottrarsi all'obbligo del servizio militare, commette in territorio estero reati preveduti nella legge sul reclutamento dell'esercito o nel [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge albanese ancorche' non si trovi nel territorio dello Stato. 
  
  Il cittadino o lo straniero che in territorio estero concorra in qualsiasi modo nel reato commesso dall'inscritto, e' punito secondo la legge albanese ancorche' non si trovi nel territorio dello Stato.
 Se sia stato giudicato all'estero pel medesimo fatto, e' giudicato nuovamente nello Stato qualora il Ministro per la giustizia ne faccia richiesta.
@@ -1271,7 +1271,7 @@ Gli inscritti arruolati che senza legittimo impedimento non obbediscono all'ordi
 
 ### Art. 176.
 
-Nei casi di richiami alle armi indetti in applicazione dell'art. 154 per solo scopo di istruzione, i militari che senza giusti motivi non si presentino nel giorno fissato, vanno soggetti a punizioni disciplinari se si presentino prima dello spirare dell'ottavo giorno successivo; e sono puniti dai tribunali militari, ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, se non si presentino dentro tale termine.
+Nei casi di richiami alle armi indetti in applicazione dell'art. 154 per solo scopo di istruzione, i militari che senza giusti motivi non si presentino nel giorno fissato, vanno soggetti a punizioni disciplinari se si presentino prima dello spirare dell'ottavo giorno successivo; e sono puniti dai tribunali militari, ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare, se non si presentino dentro tale termine.
 
 ### Art. 177.
 
@@ -1297,7 +1297,7 @@ In caso di insolvibilita' del condannato, la pena della ammenda di cui al preced
 
 La cognizione delle contravvenzioni previste dal precedente articolo 178 appartiene ai Tribunali militari. 
  
- Nei procedimenti per detta contravvenzione puo', senza procedersi al dibattimento, pronunziarsi condanna, con decreto, secondo le norme stabilite dall'[articolo 382 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
+ Nei procedimenti per detta contravvenzione puo', senza procedersi al dibattimento, pronunziarsi condanna, con decreto, secondo le norme stabilite dall'[articolo 382 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare. 
  
  Il contravventore e' ammesso a pagare, a titolo di oblazione, prima dell'apertura del dibattimento ovvero prima del decreto di condanna, una somma pari alla terza parte del massimo dell'ammenda stabilita dalla legge per il reato commesso, oltre alla spesa del procedimento.
 

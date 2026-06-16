@@ -20,7 +20,7 @@ Ritenuta la convenienza di far cessare la raccolta da parte dello Stato dei mate
 
 Ritenuta l'assoluta necessita' e l'urgenza di disciplinare il passaggio dei diritti di raccolta dei materiali suddetti dallo Stato ai Comuni;
 
-Visto il [R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Sentito il Consiglio dei Ministri;
 

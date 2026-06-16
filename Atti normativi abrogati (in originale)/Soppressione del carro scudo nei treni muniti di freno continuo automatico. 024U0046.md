@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti il [R. decreto 31 ottobre 1873, n. 1687](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1873-10-31;1687) (2ª serie) approvante il regolamento per la polizia, sicurezza e regolarita' dell'esercizio delle Strade ferrate, e l'altro [Regio decreto 22 marzo 1900, n. 143](Concernente%20modificazioni%20al%20Regolamento%20per%20la%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20strade%20ferrate%20000U0143.md), approvante la 2a appendice al regolamento stesso;
+Visti il [R. decreto 31 ottobre 1873, n. 1687](../Regi%20decreti/Che%20approva%20il%20Regolamento%20circa%20la%20polizia%20la%20sicurezza%20e%20la%20regolarita%20dellesercizio%20delle%20strade%20ferrate.%20073U1687.md) (2ª serie) approvante il regolamento per la polizia, sicurezza e regolarita' dell'esercizio delle Strade ferrate, e l'altro [Regio decreto 22 marzo 1900, n. 143](Concernente%20modificazioni%20al%20Regolamento%20per%20la%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20strade%20ferrate%20000U0143.md), approvante la 2a appendice al regolamento stesso;
 
 Ritenuta la necessita' di provvedimenti intesi a conseguire economie sulle spese di esercizio delle Ferrovie dello Stato;
 

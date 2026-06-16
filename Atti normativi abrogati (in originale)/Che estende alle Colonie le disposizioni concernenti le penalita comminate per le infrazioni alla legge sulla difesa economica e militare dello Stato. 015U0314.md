@@ -38,7 +38,7 @@ Alle disposizioni dell'art. 12 sono sostituite le seguenti:
  
  La citazione in giudizio delle persone indicate nel penultimo capoverso dell'art. 1, e agli effetti di questo, e' fatta a cura del Pubblico Ministero, o di chi ne esercita le attribuzioni, nei modi e nei termini stabiliti per la citazione delle persone civilmente responsabili. 
  
- Per i delitti preveduti nella prima parte, nel primo e secondo capoverso dell'articolo 3 e negli articoli 4, 5, 6, 7, 8, della presente legge e 107, 108, 110 del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il giudice puo' sempre spedire mandato di cattura. 
+ Per i delitti preveduti nella prima parte, nel primo e secondo capoverso dell'articolo 3 e negli articoli 4, 5, 6, 7, 8, della presente legge e 107, 108, 110 del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il giudice puo' sempre spedire mandato di cattura. 
  
  I delitti preveduti nella prima parte e primo e secondo capoverso dell'art. 3 e negli articoli da 4 a 9 sono portati in Eritrea e in Somalia, per citazione diretta, alla cognizione della Corte d'Assise, e in Tripolitania e Cirenaica alla cognizione dei Tribunali militari secondo le disposizioni in esse vigenti. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la [legge 1° aprile 1915, n. 476](Che%20converte%20in%20legge%2017%20decreti%20Reali%20recanti%20provvedimenti%20a%20favore%20dei%20paesi%20danneggiati%20dal%20terremoto%20del%2013%20gennaio%201915%20e%20porta%20modificazioni%20ai%20decreti%20stessi%20con%20laggiunta%20di%20altr_f19f0a26f386.md);
 
-Veduto il [R. decreto 7 febbraio 1915, n. 72](Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20tutte%20le%20disposizioni%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027.%20015U0072.md);
+Veduto il [R. decreto 7 febbraio 1915, n. 72](../Regi%20decreti/Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20tutte%20le%20disposizioni%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027.%20015U0072.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'inter
 
 ## Art. 1.
 
-All'elenco dei Comuni colpiti dal terremoto del 13 gennaio 1915 approvato con [R. decreto 7 febbraio 1915, n. 72](Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20tutte%20le%20disposizioni%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027.%20015U0072.md), e' aggiunto, a tutti gli effetti, il comune di Turrivalignani.
+All'elenco dei Comuni colpiti dal terremoto del 13 gennaio 1915 approvato con [R. decreto 7 febbraio 1915, n. 72](../Regi%20decreti/Col%20quale%20e%20approvato%20lelenco%20dei%20Comuni%20colpiti%20dal%20terremoto%20del%2013%20gennaio%201915%20ai%20quali%20sono%20applicate%20tutte%20le%20disposizioni%20del%20R.%20decreto%2021%20gennaio%201915%20n.%2027.%20015U0072.md), e' aggiunto, a tutti gli effetti, il comune di Turrivalignani.
 
 ## Art. 2.
 

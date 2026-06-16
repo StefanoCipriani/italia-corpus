@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), sulla facolta' del potere esecutivo di emanare norme giuridiche;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138), e il [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), sul nuovo ordinamento degli archivi notarili;
+Visto il [R. decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e il [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), sul nuovo ordinamento degli archivi notarili;
 
 Udito il parere del Consiglio di Stato;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giu
 
 Il termine per gli incarichi previsti nell'art. 53 del R. decrerto-[legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1924-10-23;1737), stabilito al 31 dicembre 1928 dall'[art. 3 del R. decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e' prorogato al 31 dicembre 1931. 
  
- Il termine per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_11), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), stabilito al 30 giugno 1929 dal citato [art. 3 del R. decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e' prorogato al 30 giugno 1932.
+ Il termine per la nomina a posti inferiori prevista negli [articoli 11 del R. decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), e 54 del [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), stabilito al 30 giugno 1929 dal citato [art. 3 del R. decreto 12 dicembre 1926, n. 2143](Disposizioni%20sullordinamento%20degli%20archivi%20notarili.%20026U2143.md), e' prorogato al 30 giugno 1932.
 
 ## Art. 2.
 

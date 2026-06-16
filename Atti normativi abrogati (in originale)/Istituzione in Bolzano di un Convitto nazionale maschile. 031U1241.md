@@ -18,7 +18,7 @@ Veduto il Nostro decreto 6 maggio 1923, n. 1054;
 
 Veduto il regolamento per i Convitti nazionali 1° settembre 1925, n. 2009;
 
-Veduto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sulla contabilita' generale dello Stato;
+Veduto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla contabilita' generale dello Stato;
 
 Viste le [leggi 12 giugno 1931, nn. 751 e 752](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20e%20stato%20di%20previsione%20dellentrata%20per%20lesercizio%20finanziario%20dal%201%20luglio%201931%20al%2030%20giugno%201932.%20031U0752.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-A decorrere dal 1° ottobre 1931-IX e' istituito in Bolzano un Convitto nazionale maschile da ordinarsi in conformita' del titolo II del [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e dei [regolamenti 1° settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1925-09-01;2009), e [30 aprile 1931, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1931-04-30;854).
+A decorrere dal 1° ottobre 1931-IX e' istituito in Bolzano un Convitto nazionale maschile da ordinarsi in conformita' del titolo II del [R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e dei [regolamenti 1° settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1925-09-01;2009), e [30 aprile 1931, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1931-04-30;854).
 
 ## Art. 2.
 

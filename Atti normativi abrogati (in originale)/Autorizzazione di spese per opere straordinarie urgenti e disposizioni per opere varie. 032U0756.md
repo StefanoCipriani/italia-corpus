@@ -50,7 +50,7 @@ E' autorizzata la spesa per opere di costruzione, a cura dello Stato, del canale
  
  Il nuovo canale e' dichiarato linea navigabile di 2ª classe, a decorrere dalla data del presente decreto, in aggiunta e modifica al tracciato della linea principale n. 18 compresa nell'elenco annesso al [decreto Luogotenenziale 31 maggio 1917, n. 1536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-05-31;1536). 
  
- Le opere saranno eseguite a norma delle disposizioni sulla navigazione interna e sulla fluitazione, approvate col [R. decreto 11 luglio 1913, n 959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-11;959), e della [legge 7 aprile 1917, n. 599](Recante%20provvedimenti%20per%20la%20linea%20di%20seconda%20classe%20Milano-Venezia%20e%20per%20la%20navigazione%20interna.%20017U0599.md), ripartendosi il contributo tra i diversi enti, in via definitiva, a norma dell'art. 9 della legge stessa. 
+ Le opere saranno eseguite a norma delle disposizioni sulla navigazione interna e sulla fluitazione, approvate col [R. decreto 11 luglio 1913, n 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md), e della [legge 7 aprile 1917, n. 599](Recante%20provvedimenti%20per%20la%20linea%20di%20seconda%20classe%20Milano-Venezia%20e%20per%20la%20navigazione%20interna.%20017U0599.md), ripartendosi il contributo tra i diversi enti, in via definitiva, a norma dell'art. 9 della legge stessa. 
  
  Le opere di sistemazione del fiume Potenza, classificate idrauliche di 3ª categoria, in comune di Fiuminata, provincia di Macerata, saranno eseguite a totale carico dello Stato.
 

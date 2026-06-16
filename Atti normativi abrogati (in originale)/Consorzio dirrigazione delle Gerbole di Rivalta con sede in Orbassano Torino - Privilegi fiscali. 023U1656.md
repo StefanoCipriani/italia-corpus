@@ -22,7 +22,7 @@ Visto l'atto costitutivo del Consorzio, lo statuto e gli atti relativi;
 
 Visto il decreto 22 giugno 1923 del Ministro di agricoltura, col quale si rende esecutorio il catasto del Consorzio delle Gerbole di Rivalta, per l'estensione complessiva di ettari 533, are 61 e centiare 92;
 
-Visto l'art. 12 del testo unico delle leggi sui concorsi ed opere d'irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-02;1747);
+Visto l'art. 12 del testo unico delle leggi sui concorsi ed opere d'irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sui%20Consorzi%20ed%20opere%20di%20irrigazione.%20022U1747.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura; Abbiamo decretato e decretiamo:
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza e sulla costituzione della relativa dote, approvato con [R. decreto 9 febbraio 1928, n. 371](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e successive modificazioni;
+Visto il testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza e sulla costituzione della relativa dote, approvato con [R. decreto 9 febbraio 1928, n. 371](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e successive modificazioni;
 
 Vista la [legge 3 luglio 1930, n. 950](Estensione%20agli%20ufficiali%20della%20Milizia%20nazionale%20forestale%20delle%20disposizioni%20contenute%20nel%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20e%20sulla%20costituzione%20della%20relativa%20dote%20in%20vigore%20per%20_09ae451c5518.md), che estende agli ufficiali della Milizia nazionale forestale le disposizioni contenute nel testo unico suddetto;
 
@@ -28,7 +28,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 ## Art. 1.
 
-Sono dispensati, a domanda, dall'obbligo della costituzione della rendita dotale, di cui al testo unico approvato con [R. decreto 9 febbraio 1928, n. 371](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e successive modificazioni: 
+Sono dispensati, a domanda, dall'obbligo della costituzione della rendita dotale, di cui al testo unico approvato con [R. decreto 9 febbraio 1928, n. 371](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md), e successive modificazioni: 
  
 a) gli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica, della Regia guardia di finanza e della Milizia nazionale forestale, i quali facciano domanda di contrarre matrimonio entro due mesi dalla data di entrata in vigore del presente decreto; 
  
@@ -36,7 +36,7 @@ b) coloro che, entro lo stesso periodo di tempo, acquistino diritto alla nomina 
  
 c) i sottufficiali ammogliati che acquistino diritto alla nomina ad ufficiale in servizio permanente effettivo nel suindicato periodo di tempo. 
  
- La domanda di dispensa dall'obbligo della costituzione della rendita totale e' diretta al Ministero competente e su di essa provvede il Tribunale supremo militare nelle forme stabilite dall'art. 9 del testo unico approvato con [R. decreto 9 febbraio 1928, n. 371](Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md). 
+ La domanda di dispensa dall'obbligo della costituzione della rendita totale e' diretta al Ministero competente e su di essa provvede il Tribunale supremo militare nelle forme stabilite dall'art. 9 del testo unico approvato con [R. decreto 9 febbraio 1928, n. 371](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20matrimonio%20degli%20ufficiali%20del%20Regio%20esercito%20della%20Regia%20marina%20della%20Regia%20aeronautica%20e%20della%20Regia%20guardia%20di%20finanza%20e%20sulla%20costituzione_bdb64c4f9e06.md). 
  
  Il matrimonio non puo' effettuarsi se non dopo la concessione del Regio assentimento di cui al testo unico predetto. 
  

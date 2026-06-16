@@ -16,9 +16,9 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu dell'autorita', a Noi delegata;
 
-Visto il [R. decreto 29 giugno 1924, n. 1181](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20024U1181.md);
+Visto il [R. decreto 29 giugno 1924, n. 1181](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20024U1181.md);
 
-Visto il [R. decreto 15 novembre 1925, n. 2508](Norme%20regolamentari%20sul%20funzionamento%20dellIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20025U2508.md);
+Visto il [R. decreto 15 novembre 1925, n. 2508](../Regi%20decreti/Norme%20regolamentari%20sul%20funzionamento%20dellIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20025U2508.md);
 
 Vista la [legge 22 marzo 1928, n. 718](Modificazioni%20al%20testo%20unico%20delle%20leggi%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze%20approvato%20con%20il%20R.%20decreto%2029%20giugno%201924%20n.%201181.%20028U0718.md);
 
@@ -158,7 +158,7 @@ Le nomine elettive di cui agli articoli 9 e 13 del presente decreto avranno luog
 ## Art. 19.
 
 La disposizione di cui all'art. 8 del presente decreto avra' effetto dal mese successivo a quello della pubblicazione.
- Dalla entrata in vigore del presente provvedimento resta abrogato il testo unico approvato con [R. Decreto 29 giugno 1924, n. 1181](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20024U1181.md) e successive modificazioni.
+ Dalla entrata in vigore del presente provvedimento resta abrogato il testo unico approvato con [R. Decreto 29 giugno 1924, n. 1181](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20lIstituto%20di%20soccorso%20Giuseppe%20Kirner%20in%20Firenze.%20024U1181.md) e successive modificazioni.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

@@ -20,7 +20,7 @@ VITTORIO EMANUELE III
  
  Vista la [legge 6 luglio 1912, n. 749](Che%20autorizza%20listituzione%20del%20Ministero%20delle%20colonie.%20012U0749.md), e il [R. decreto 20 novembre 1912, n. 1205](riguardante%20le%20norme%20relative%20alla%20costituzione%20del%20Ministero%20delle%20Colonie%20012U1205.md); 
  
- Visto l'[art. 86 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e l'[art. 589 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589); 
+ Visto l'[art. 86 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e l'[art. 589 del Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_589); 
  
  Sentito il Consiglio dei ministri; 
  

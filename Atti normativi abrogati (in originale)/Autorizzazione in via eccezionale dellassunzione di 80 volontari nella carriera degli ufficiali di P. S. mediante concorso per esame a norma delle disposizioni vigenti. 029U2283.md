@@ -20,13 +20,13 @@ Visto il [R. decreto-legge 9 agosto 1929, n. 1457](Proroga%20della%20efficacia%2
 
 Ritenuto che inderogabili ed urgenti esigenze di servizio richiedono che si faccia luogo a nuova assunzione di personale nella carriera degli ufficiali di pubblica sicurezza;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [R. decreto 26 luglio 1929, n. 1425](Approvazione%20della%20tabella%20organica%20degli%20ufficiali%20ed%20impiegati%20di%20pubblica%20sicurezza.%20029U1425.md);
 
-Visto il regolamento per gli ufficiali ed impiegati di pubblica sicurezza approvato con [R. decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666);
+Visto il regolamento per gli ufficiali ed impiegati di pubblica sicurezza approvato con [R. decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md);
 
 Udito il Consiglio dei Ministri;
 

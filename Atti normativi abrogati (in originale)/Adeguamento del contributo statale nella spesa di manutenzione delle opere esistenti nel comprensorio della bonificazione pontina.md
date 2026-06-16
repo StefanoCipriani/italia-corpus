@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il contributo annuo dello Stato, previsto dall'[art. 103 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_103), per i lavori di manutenzione delle opere esistenti nel comprensorio della bonificazione pontina, e' stabilito in lire 125 milioni, a decorrere dall'anno 1966.
+Il contributo annuo dello Stato, previsto dall'[art. 103 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), per i lavori di manutenzione delle opere esistenti nel comprensorio della bonificazione pontina, e' stabilito in lire 125 milioni, a decorrere dall'anno 1966.
 
 ## Art. 2.
 

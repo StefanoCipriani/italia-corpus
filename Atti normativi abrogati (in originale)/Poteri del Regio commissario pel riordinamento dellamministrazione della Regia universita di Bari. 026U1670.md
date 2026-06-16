@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Veduto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto il [R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md);
+Veduto il [R. decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md);
 
-Veduto il [R. decreto 17 giugno 1926, n. 1086](Scioglimento%20del%20Consiglio%20di%20amministrazione%20della%20Regia%20universita%20di%20Bari.%20026U1086.md);
+Veduto il [R. decreto 17 giugno 1926, n. 1086](../Regi%20decreti/Scioglimento%20del%20Consiglio%20di%20amministrazione%20della%20Regia%20universita%20di%20Bari.%20026U1086.md);
 
 Ritenuta la necessita' assoluta ed urgente di ampliare i poteri del Regio commissario per il riordinamento dell'amministrazione della Regia universita' di Bari;
 
@@ -28,7 +28,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzion
 
 ## Art. 1.
 
-Il Regio commissario della Regia universita' di Bari, nominato ai sensi dell'[art. 2 del R. decreto 17 giugno 1926, n. 1086](Scioglimento%20del%20Consiglio%20di%20amministrazione%20della%20Regia%20universita%20di%20Bari.%20026U1086.md), potra' prescindere dalle proposte del Senato accademico e dei Consigli di facolta' e scuole per tutto quanto concerne l'assetto amministrativo e finanziario, la compilazione del regolamento interno, la determinazione e ripartizione del personale amministrativo, assistente, tecnico e subalterno.
+Il Regio commissario della Regia universita' di Bari, nominato ai sensi dell'[art. 2 del R. decreto 17 giugno 1926, n. 1086](../Regi%20decreti/Scioglimento%20del%20Consiglio%20di%20amministrazione%20della%20Regia%20universita%20di%20Bari.%20026U1086.md), potra' prescindere dalle proposte del Senato accademico e dei Consigli di facolta' e scuole per tutto quanto concerne l'assetto amministrativo e finanziario, la compilazione del regolamento interno, la determinazione e ripartizione del personale amministrativo, assistente, tecnico e subalterno.
 
 ## Art. 2.
 

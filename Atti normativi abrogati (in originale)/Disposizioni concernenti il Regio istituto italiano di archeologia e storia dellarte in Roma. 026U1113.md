@@ -92,9 +92,9 @@ Il presidente, entro i mesi di giugno e di dicembre di ciascun anno, rassegna al
 
 I membri ordinari dell'Istituto, che ripetutamente non si uniformino ai richiami dei dirigenti delle sezioni, possono, su proposta del Consiglio direttivo, udite le loro giustificazioni, essere esclusi dal novero di componenti dell'Istituto. 
  
- La loro radiazione viene promossa direttamente dal Ministro, quando essi incorrano nelle punizioni previste dagli [articoli 29](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [30](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [32 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e dagli articoli 62 a 66 del [R. decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960). 
+ La loro radiazione viene promossa direttamente dal Ministro, quando essi incorrano nelle punizioni previste dagli [articoli 29](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), [30](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md) e [32 del R. decreto 30 settembre 1923, n. 2102](Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e dagli articoli 62 a 66 del [R. decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md). 
  
- Per quei membri che non appartengano all'insegnamento o siano estranei all'Amministrazione dello Stato, la radiazione e' promossa ugualmente dal Ministro in tutti i casi previsti per la destituzione degli impiegati dall'[art. 66 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_66).
+ Per quei membri che non appartengano all'insegnamento o siano estranei all'Amministrazione dello Stato, la radiazione e' promossa ugualmente dal Ministro in tutti i casi previsti per la destituzione degli impiegati dall'[art. 66 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Governo e amministrazione.
 

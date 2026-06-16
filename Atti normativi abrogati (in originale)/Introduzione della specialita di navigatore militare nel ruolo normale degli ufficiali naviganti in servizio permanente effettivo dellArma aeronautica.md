@@ -90,7 +90,7 @@ Nota all'art. 7, comma quarto:
 
 ## Art. 8.
 
-Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della difesa, sono emanate, entro sei mesi dall'entrata in vigore della presente legge, norme dirette ad adeguare alla presente legge il [regio decreto 25 marzo 1941, n. 472](Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), concernente l'ordinamento della Accademia aeronautica ed ogni altra norma regolamentare.
+Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della difesa, sono emanate, entro sei mesi dall'entrata in vigore della presente legge, norme dirette ad adeguare alla presente legge il [regio decreto 25 marzo 1941, n. 472](../Regi%20decreti/Ordinamento%20della%20Regia%20Accademia%20aeronautica.%20041U0472.md), concernente l'ordinamento della Accademia aeronautica ed ogni altra norma regolamentare.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

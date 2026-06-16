@@ -32,7 +32,7 @@ Al capitolo n. 29 «Pensioni ordinarie» dello stato di previsione della spesa d
 
 ## Art. 2.
 
-Agli effetti dell'art. 173 del testo unico delle leggi sulle pensioni approvato col [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), il limito massimo dell'annualita' per le pensioni da concedersi nell'esercizio 1914-915, dal Ministero delle colonie pei collocamenti a riposo, sia d'autorita', sia per domanda determinata da invito di ufficio, e' stabilito, giusta l'art. 4 dell'allegato V alla [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), nella somma di lire quindicimila (L. 15.000). 
+Agli effetti dell'art. 173 del testo unico delle leggi sulle pensioni approvato col [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), il limito massimo dell'annualita' per le pensioni da concedersi nell'esercizio 1914-915, dal Ministero delle colonie pei collocamenti a riposo, sia d'autorita', sia per domanda determinata da invito di ufficio, e' stabilito, giusta l'art. 4 dell'allegato V alla [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), nella somma di lire quindicimila (L. 15.000). 
  
  Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
  

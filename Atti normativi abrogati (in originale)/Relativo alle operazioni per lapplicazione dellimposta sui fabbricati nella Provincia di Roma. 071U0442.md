@@ -10,9 +10,9 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto il regolamento approvato con [Regio decreto del 28 agosto 1870, n° 5832](Che%20approva%20il%20Regolamento%20per%20lapplicazione%20dellimposta%20sui%20fabbricati.%20070U5832.md) per l'applicazione dell'imposta sui fabbricati;
+Visto il regolamento approvato con [Regio decreto del 28 agosto 1870, n° 5832](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lapplicazione%20dellimposta%20sui%20fabbricati.%20070U5832.md) per l'applicazione dell'imposta sui fabbricati;
 
-Visto il [Regio decreto del 5 agosto 1871, n° 415](Col%20quale%20sono%20pubblicate%20nella%20Provincia%20di%20Roma%20le%20disposizioni%20concernenti%20limposta%20sui%20fabbricati%20e%20le%20volture%20catastali.%20071U0415.md), col quale fu esteso alla provincia di Roma il regolamento suddetto;
+Visto il [Regio decreto del 5 agosto 1871, n° 415](../Regi%20decreti/Col%20quale%20sono%20pubblicate%20nella%20Provincia%20di%20Roma%20le%20disposizioni%20concernenti%20limposta%20sui%20fabbricati%20e%20le%20volture%20catastali.%20071U0415.md), col quale fu esteso alla provincia di Roma il regolamento suddetto;
 
 Sulla proposta del Direttore Generale delle imposte dirette e del catasto, Determina quanto segue:
 

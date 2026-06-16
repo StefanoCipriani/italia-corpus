@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [R. decreto 8 maggio 1892, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-05-08;429) (parte supplementare), che approva lo statuto e il ruolo organico del personale del R.
+Veduto il [R. decreto 8 maggio 1892, n. 429](../Regi%20decreti/Che%20approva%20lo%20statuto%20organico%20ed%20il%20ruolo%20del%20personale%20del%20regio%20istituto%20dei%20sordo-muti%20di%20Milano.%209200429R.md) (parte supplementare), che approva lo statuto e il ruolo organico del personale del R.
 
 Istituto per sordomuti di Milano;
 
@@ -34,7 +34,7 @@ Le ritenute applicate sugli stipendi del personale del R. Istituto per sordomuti
 
 ## Art. 2.
 
-La nota apposta alla tabella del ruolo organico, annessa allo statuto approvato col [R. decreto 8 maggio 1892, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-05-08;429) (parte supplementare), resta modificata secondo quanto dispone l'art.
+La nota apposta alla tabella del ruolo organico, annessa allo statuto approvato col [R. decreto 8 maggio 1892, n. 429](../Regi%20decreti/Che%20approva%20lo%20statuto%20organico%20ed%20il%20ruolo%20del%20personale%20del%20regio%20istituto%20dei%20sordo-muti%20di%20Milano.%209200429R.md) (parte supplementare), resta modificata secondo quanto dispone l'art.
 
 1.
 

@@ -22,11 +22,11 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  In virtu' dell'autorita' a Noi delegata; 
  
- Visto il testo unico delle leggi sui pesi e sulle misure approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088); 
+ Visto il testo unico delle leggi sui pesi e sulle misure approvato con [R. decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md); 
  
- Visto il regolamento sulla fabbricazione dei pesi e delle misure e degli strumenti per pesare e per misurare approvato con [R. decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226); 
+ Visto il regolamento sulla fabbricazione dei pesi e delle misure e degli strumenti per pesare e per misurare approvato con [R. decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md); 
  
- Visto il [R. decreto 14 maggio 1908, n. 207](Ammissione%20alla%20verifica%20prima%20e%20periodica%20di%20stadere%20automatiche%20annesse%20ad%20elevatori%20008U0207.md), con cui vennero ammesse a verificazione speciali stadere automatiche annesse agli elevatori elettrici; 
+ Visto il [R. decreto 14 maggio 1908, n. 207](../Regi%20decreti/Ammissione%20alla%20verifica%20prima%20e%20periodica%20di%20stadere%20automatiche%20annesse%20ad%20elevatori%20008U0207.md), con cui vennero ammesse a verificazione speciali stadere automatiche annesse agli elevatori elettrici; 
  
  Vista la domanda presentata dal Ministero delle finanze (Direzione generale delle privative) con lettera in data 8 giugno 1916, n. 8087; 
  

@@ -14,4 +14,4 @@ N.
 
 577.
 
-Regio decreto 31 marzo 1921, col quale, sulla proposta del ministro dell'istruzione pubblica, vengono modificati alcuni articoli dello statuto della «Fondazione ad studia Manzoni» in Lugo, approvato con [R. decreto 18 agosto 1911, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-08-18;1064).
+Regio decreto 31 marzo 1921, col quale, sulla proposta del ministro dell'istruzione pubblica, vengono modificati alcuni articoli dello statuto della «Fondazione ad studia Manzoni» in Lugo, approvato con [R. decreto 18 agosto 1911, n. 1064](../Regi%20decreti/Approvazione%20di%20statuto%20di%20fondazione%20scolastica%20011U1064.md).

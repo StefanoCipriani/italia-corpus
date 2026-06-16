@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con Nostro decreto 1° agosto 1907, n. 636;
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con Nostro decreto 1° agosto 1907, n. 636;
 
 Veduto il regolamento generale sanitario, approvato con Nostro decreto 3 febbraio 1901, n. 45;
 
@@ -38,7 +38,7 @@ Le malattie, alle quali si applicano le disposizioni che seguono, sono:
  
  considerate nel periodo di loro contagiosita'. 
  
- Fermo restando l'obbligo delle denunzie portato dall'art. 4 del regolamento legislativo 4 agosto 1918, n. 1395, ed oltre alle denunzie rese obbligatorie dall'art. 15 del presente regolamento, e' fatto obbligo per i medici, agli effetti dell'[art. 123 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_123), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), della denuncia di qualunque caso di sifilide, con manifestazioni contagiose, riscontrato nelle scuole, negli Istituti di educazione e di cura, negli opifici industriali e, in genere, in tutte le collettivita', sia civili, sia militari.
+ Fermo restando l'obbligo delle denunzie portato dall'art. 4 del regolamento legislativo 4 agosto 1918, n. 1395, ed oltre alle denunzie rese obbligatorie dall'art. 15 del presente regolamento, e' fatto obbligo per i medici, agli effetti dell'[art. 123 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md), della denuncia di qualunque caso di sifilide, con manifestazioni contagiose, riscontrato nelle scuole, negli Istituti di educazione e di cura, negli opifici industriali e, in genere, in tutte le collettivita', sia civili, sia militari.
 
 ## Art. 2.
 
@@ -176,7 +176,7 @@ I medici visitatori hanno l'obbligo di denunziare immediatamente all'autorita' s
 
 Nessuna retribuzione o compenso di qualunque genere puo' essere offerto o corrisposto, dai tenutari dei locali di meretricio, ai medici visitatori e da questi accettato per nessun titolo. 
  
- La contravvenzione a questa disposizione e' punita, per i tenutari dei locali, coll'ammenda fino a L. 50 e colla eventuale chiusura del locale, da ordinarsi dal prefetto, per i medici visitatori con la sospensione o la revoca dall'ufficio da parte del prefetto stesso, salvo per gli uni e per gli altri le maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La contravvenzione a questa disposizione e' punita, per i tenutari dei locali, coll'ammenda fino a L. 50 e colla eventuale chiusura del locale, da ordinarsi dal prefetto, per i medici visitatori con la sospensione o la revoca dall'ufficio da parte del prefetto stesso, salvo per gli uni e per gli altri le maggiori pene stabilite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 17.
 

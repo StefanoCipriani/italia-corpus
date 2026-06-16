@@ -26,7 +26,7 @@ Il Ministero dei lavori pubblici, potra' provvedere, coi fondi di cui al [R. dec
 
 ## Art. 2.
 
-Nella tabella annessa al [R. decreto 19 marzo 1925, n. 266](Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), sono approvate le seguenti variazioni: 
+Nella tabella annessa al [R. decreto 19 marzo 1925, n. 266](../Regi%20decreti/Riparto%20fra%20i%20vari%20gruppi%20e%20specie%20di%20opere%20pubbliche%20della%20somma%20di%20L.%2015%20miliardi%20di%20cui%20al%20R.%20decreto%2011%20novembre%201924%20n.%201932.%20025U0266.md), sono approvate le seguenti variazioni: 
  
  Edifici pubblici governativi nell'Italia 
  Meridionale e Insulare esclusa la Sardegna. - 

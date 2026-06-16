@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
- Visti gli [articoli 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_189) e [358, secondo comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_358-com2), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
+ Visti gli [articoli 189](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [358, secondo comma, del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni;
  Visto l'art. 6, lettera, c), della [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833);
  Udito il parere del Consiglio superiore di sanita' e del Consiglio di stato;
  Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 1986;
@@ -23,12 +23,12 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 il seguente decreto:
 
- E' approvato l'unito regolamento di esecuzione delle norme contenute nell'[art. 189 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_189) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni, concernenti la produzione e il commercio dei presidi medico chirurgici.
+ E' approvato l'unito regolamento di esecuzione delle norme contenute nell'[art. 189 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni, concernenti la produzione e il commercio dei presidi medico chirurgici.
 
 NOTE
 
  Note alle premesse:
- - Il testo dell'art. 189 (come sostituito dall'[art. 6 della legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md)) e del [secondo comma dell'art. 358 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_358-com2) e' il seguente:
+ - Il testo dell'art. 189 (come sostituito dall'[art. 6 della legge 1 maggio 1941, n. 422](Modificazioni%20ed%20aggiunte%20ad%20alcuni%20articoli%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20R.%20decreto%2027%20luglio%201934-XII%20n.%201265.%20041U0422.md)) e del [secondo comma dell'art. 358 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e' il seguente:
  "Art. 189. - I presidi medici e chirurgici non possono essere prodotti, a scopo di vendita, se non da apposite officine autorizzate dal Ministro per l'interno.
  Parimenti il commercio di presidi medici e chirurgici e' sottoposto ad autorizzazione del Ministro per l'interno.
  Il regolamento determina i presidi ai quali debbono essere applicate le disposizioni del presente articolo, le modalita' da osservare nel commercio di essi, anche per quanto si riferisce al prezzo di vendita, nonche' i requisiti cui debbono rispondere le officine di produzione.

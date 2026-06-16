@@ -28,7 +28,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Vista la tabella delle circoscrizioni elettorali, annessa al citato testo unico; 
  
- Visto il [Regio decreto 13 luglio 1913, n. 897](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Cagliari.%20013U0897.md), relative alla costituzione di sezioni elettorali politiche intercomunali della provincia di Cagliari; 
+ Visto il [Regio decreto 13 luglio 1913, n. 897](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Cagliari.%20013U0897.md), relative alla costituzione di sezioni elettorali politiche intercomunali della provincia di Cagliari; 
  
  Viste le deliberazioni della Commissione provinciale elettorale di Cagliari in data 24 marzo 1919, con le quali si propone la costituzione di sezioni elettorali autonome nei seguenti Comuni, nei quali il numero degli elettori ha superato il centinaio; 
  
@@ -46,7 +46,7 @@ TOMASO DI SAVOIA DUCA DI GENOVA
  
  Abbiamo decretato e decretiamo: 
  
- E' revocato il citato [R. decreto 13 luglio 1913, n. 897](Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Cagliari.%20013U0897.md), in quanto esso disponeva che gli elettori dei comuni di Lasplassas, Soleminis, Palmas Arborea, Solamas, Siapiccia, fossero aggregati rispettivamente ai comuni di Barumini, Dollanova, Santa Giusta, Cabras, Siamanna. 
+ E' revocato il citato [R. decreto 13 luglio 1913, n. 897](../Regi%20decreti/Relativo%20alla%20costituzione%20di%20sezioni%20elettorali%20politiche%20di%20diversi%20comuni%20della%20provincia%20di%20Cagliari.%20013U0897.md), in quanto esso disponeva che gli elettori dei comuni di Lasplassas, Soleminis, Palmas Arborea, Solamas, Siapiccia, fossero aggregati rispettivamente ai comuni di Barumini, Dollanova, Santa Giusta, Cabras, Siamanna. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -14,7 +14,7 @@ Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[art. 5 della legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996#art_5);
 
-Visto l'[art. 17 del decreto del Presidente della Repubblica 6 febbraio 1981, n. 66](../DPR/Regolamento%20di%20esecuzione%20della%20legge%208%20dicembre%201970%20n.%20996%20recante%20norme%20sul%20soccorso%20e%20lassistenza%20alle%20popolazioni%20colpite%20da%20calamita.%20Protezione%20civile.md);
+Visto l'[art. 17 del decreto del Presidente della Repubblica 6 febbraio 1981, n. 66](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%208%20dicembre%201970%20n.%20996%20recante%20norme%20sul%20soccorso%20e%20lassistenza%20alle%20popolazioni%20colpite%20da%20calamita.%20Protezione%20civile.md);
 
 Visto il decreto del Presidente del Consiglio dei Ministri del 24 novembre 1980, pubblicato nella Gazzetta Ufficiale n. 322 del 24 novembre 1980, con il quale l'on. Giuseppe Zamberletti e' stato nominato commissario per le zone colpite dal terremoto del novembre 1980;
 

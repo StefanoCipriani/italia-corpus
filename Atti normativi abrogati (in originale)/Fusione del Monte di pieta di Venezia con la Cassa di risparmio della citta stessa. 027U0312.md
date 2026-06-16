@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduta la legge 15 luglio 1888, serie 3ª, n. 5546, sull'ordinamento delle Casse di risparmio ordinarie;
 
-Veduti il [R. decreto 14 giugno 1923, n. 1396](Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), e il [R. decreto 19 luglio 1924, n. 1305](Approvazione%20del%20regolamento%20sui%20Monti%20di%20pieta.%20024U1305.md), che modificano la [legge 4 maggio 1898, n. 169](Concernente%20disposizioni%20sui%20Monti%20di%20Pieta.%20098U0169.md), sui Monti di pieta', ed il regolamento per la sua applicazione;
+Veduti il [R. decreto 14 giugno 1923, n. 1396](../Regi%20decreti/Riforme%20alla%20legge%204%20maggio%201898%20sui%20Monti%20di%20Pieta.%20023U1396.md), e il [R. decreto 19 luglio 1924, n. 1305](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20Monti%20di%20pieta.%20024U1305.md), che modificano la [legge 4 maggio 1898, n. 169](Concernente%20disposizioni%20sui%20Monti%20di%20Pieta.%20098U0169.md), sui Monti di pieta', ed il regolamento per la sua applicazione;
 
 Veduto il [R. decreto-legge 6 novembre 1926, n. 1830](Norme%20regolamentari%20per%20la%20tutela%20del%20risparmio.%20026U1830.md), che reca norme per la tutela del risparmio;
 

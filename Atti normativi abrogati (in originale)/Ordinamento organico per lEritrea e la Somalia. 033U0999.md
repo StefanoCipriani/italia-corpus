@@ -48,7 +48,7 @@ Il Governatore e' nominato con decreto Reale su proposta del Ministro delle colo
 
 ### Art. 3.
 
-Per gravi motivi d'ordine pubblico o di sicurezza il Governatore puo' adottare, previa autorizzazione del Ministro delle colonie, i provvedimenti eccezionali che reputi necessari a seconda delle circostanze od istituire tribunali speciali con giurisdizione sull'intiero territorio della colonia o su parte di esso. Puo' inoltre decretare che alcuni reati che vengano commessi nella colonia siano giudicati dai tribunali speciali predetti secondo le norme ed applicando le pene fissate dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra.
+Per gravi motivi d'ordine pubblico o di sicurezza il Governatore puo' adottare, previa autorizzazione del Ministro delle colonie, i provvedimenti eccezionali che reputi necessari a seconda delle circostanze od istituire tribunali speciali con giurisdizione sull'intiero territorio della colonia o su parte di esso. Puo' inoltre decretare che alcuni reati che vengano commessi nella colonia siano giudicati dai tribunali speciali predetti secondo le norme ed applicando le pene fissate dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare per il tempo di guerra.
 
 ### Art. 4.
 
@@ -409,7 +409,7 @@ I regolamenti municipali e quelli comunque relativi a servizi urbani sono emanat
 
 ### Art. 47.
 
-Le trasgressioni alle norme di regolamenti locali, di cui agli articoli 44 o 46, sono punite con le pene previste dall'[articolo 650 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi ivi contemplati. 
+Le trasgressioni alle norme di regolamenti locali, di cui agli articoli 44 o 46, sono punite con le pene previste dall'[articolo 650 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nei casi ivi contemplati. 
  
  Quando non siano applicabili quelle sanzioni, l'autorita' da cui le norme stesse sono emanate ha facolta' di comminare l'arresto fino ad un mese o l'ammenda fino a lire cinquecento.
 
@@ -445,13 +445,13 @@ Gli individui nati nell'Eritrea e nella Somalia Italiana, i quali alla entrata i
 
 ### Art. 53.
 
-Con l'entrata in vigore della presente legge la competenza del Comitato Amministrativo di cui al [R. decreto 31 dicembre 1928, n. 3282](Istituzione%20di%20un%20Comitato%20amministrativo%20in%20Eritrea%20ed%20in%20Somalia.%20028U3282.md), passera' al Consiglio di Governo.
+Con l'entrata in vigore della presente legge la competenza del Comitato Amministrativo di cui al [R. decreto 31 dicembre 1928, n. 3282](../Regi%20decreti/Istituzione%20di%20un%20Comitato%20amministrativo%20in%20Eritrea%20ed%20in%20Somalia.%20028U3282.md), passera' al Consiglio di Governo.
 
 ### Art. 54.
 
 La presente legge entra in vigore alla data che sara' stabilita con decreto Reale, su proposta del Ministro delle colonie. 
  
- Con l'entrata in vigore della presente legge, sono abrogate la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md), il [R. decreto 26 giugno 1904, n. 411](Approvazione%20del%20regolamento%20per%20la%20legge%2024%20maggio%201903%20n.%20205%20sullordinamento%20della%20Colonia%20eritrea.%20004U0411.md), il [R. decreto 13 giugno 1918, n. 908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-06-13;908), la [legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), ed ogni altra contraria disposizione. 
+ Con l'entrata in vigore della presente legge, sono abrogate la [legge 24 maggio 1903, n. 205](Ordinamento%20della%20Colonia%20Eritrea.%20003U0205.md), il [R. decreto 26 giugno 1904, n. 411](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20legge%2024%20maggio%201903%20n.%20205%20sullordinamento%20della%20Colonia%20eritrea.%20004U0411.md), il [R. decreto 13 giugno 1918, n. 908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1918-06-13;908), la [legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), ed ogni altra contraria disposizione. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

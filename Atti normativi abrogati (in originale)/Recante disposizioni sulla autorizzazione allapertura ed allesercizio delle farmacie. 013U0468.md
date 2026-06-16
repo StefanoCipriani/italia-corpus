@@ -114,7 +114,7 @@ La decadenza dalla autorizzazione ad aprire ed esercitare una farmacia si verifi
  
  g) per condanna penale, passata in giudicato, per effetto della quale l'autorizzato sia stato punito con la sospensione dall'esercizio professionale per un tempo maggiore di un mese; 
  
- h) per la definitiva cancellazione dall'albo dell'ordine provinciale dei farmacisti pronunciata a norma dell'art. 5, lettere a e b, del regolamento approvato con [R. decreto 12 agosto 1911, n. 1022](Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2010%20luglio%201910%20n.%20455.%20011U1022.md); 
+ h) per la definitiva cancellazione dall'albo dell'ordine provinciale dei farmacisti pronunciata a norma dell'art. 5, lettere a e b, del regolamento approvato con [R. decreto 12 agosto 1911, n. 1022](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2010%20luglio%201910%20n.%20455.%20011U1022.md); 
  
  i) per la perdita della cittadinanza italiana. 
  
@@ -150,7 +150,7 @@ Salvo il disposto dell'art. 12, i Comuni rurali, nei quali non esista farmacia e
  
  La istituzione della farmacia municipale, comunale o consorziale, puo' essere resa obbligatoria con decreto del prefetto, sentiti il Consiglio provinciale di sanita' e la Giunta provinciale amministrativa, nei comuni nei quali, per le condizioni locali, per la speciale posizione topografica, per la difficolta' delle comunicazioni e per la lontananza dalle farmacie piu' vicine, sia altrimenti impossibile di provvedere all'assistenza farmaceutica locale. 
  
- Ai farmacisti condotti sono applicabili le disposizioni degli [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_30), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_31), [32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_32), [33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_33) e [34 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_34), eccezione fatta per quanto riguarda la Commissione giudicatrice del concorso di nomina, che e' quella indicata nell'articolo 3 della presente legge.
+ Ai farmacisti condotti sono applicabili le disposizioni degli [articoli 30](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [31](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [32](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [33](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [34 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), eccezione fatta per quanto riguarda la Commissione giudicatrice del concorso di nomina, che e' quella indicata nell'articolo 3 della presente legge.
 
 ## Disposizioni sull'esercizio della farmacia.
 
@@ -196,11 +196,11 @@ Ogni cinque anni sara', a cura del Ministero dell'interno, riveduta o pubblicata
  
  1° la tariffa dei medicinali per la vendita al pubblico; 
  
- 2° la tariffa dei medicinali per la somministrazione ai poveri prevista dall'[art. 36 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_36) 1° agosto 1907, n. 636.
+ 2° la tariffa dei medicinali per la somministrazione ai poveri prevista dall'[art. 36 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636.
 
 ### Art. 18.
 
-All'[art. 57 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_57) 1° agosto 1907, n. 636, e' sostituito il seguente: 
+All'[art. 57 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' sostituito il seguente: 
  
  «La vendita al pubblico di medicinali a dose o forma di medicamento non e' permessa che ai farmacisti, e deve effettuarsi nella farmacia, sotto la responsabilita' del titolare dell'esercizio. 
  
@@ -212,7 +212,7 @@ All'[art. 57 del testo unico delle leggi sanitarie](https://www.normattiva.it/ur
 
 ### Art. 19.
 
-All'[art. 64 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_64) 1° agosto 1907, n. 636, e' aggiunto il seguente comma: 
+All'[art. 64 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' aggiunto il seguente comma: 
  
  «Le officine indicate nel presente articolo sono sottoposte a vigilanza sanitaria da esercitarsi nei modi e colle forme stabilite dal regolamento». 
  
@@ -224,11 +224,11 @@ Per la vigilanza sull'esercizio farmaceutico sono istituiti due posti di ispetto
 
 ### Art. 21.
 
-Il provento annuo complessivo delle tasse previste dagli articoli 6 e 16 della presente legge e delle pene pecuniarie previste dagli articoli 2, 14, 15, 17 e 18 della presente legge e dagli [articoli 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_58), [59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_59), [60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_60), [61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_61), [62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_62) e [64 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_64) 1° agosto 1907, n. 636, e' destinato: 
+Il provento annuo complessivo delle tasse previste dagli articoli 6 e 16 della presente legge e delle pene pecuniarie previste dagli articoli 2, 14, 15, 17 e 18 della presente legge e dagli [articoli 58](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [59](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [60](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [61](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [62](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [64 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, e' destinato: 
  
  a) a far fronte alle spese per la istituzione del servizio speciale di vigilanza sull'esercizio farmaceutico previsto dal precedente art. 20, ed entro il limite risultante dalla tabella B, annessa alla presente legge; 
  
- b) alle spese per le ispezioni ordinarie delle farmacie a' termini dell'[art. 63 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_63) 1° agosto 1907, n. 636; 
+ b) alle spese per le ispezioni ordinarie delle farmacie a' termini dell'[art. 63 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636; 
  
  c) per tutta la rimanente parte, alla spesa pei sussidi alle condotte farmaceutiche indicate nell'art. 13, e con preferenza alle condotte delle quali sia stata dichiarata l'obbligatorieta', a sensi di detto articolo. 
  
@@ -302,7 +302,7 @@ Ai proprietari delle farmacie di antico diritto, considerate come privilegiate, 
 
 ### Art. 29.
 
-Tutte le disposizioni degli antichi Stati, riguardanti vincoli e privilegi nell'esercizio della farmacia, di cui all'[art. 215 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_215) 1° agosto 1907, n. 636 ([art. 68 della legge 22 dicembre 1888, n. 5849](Sullordinamento%20dellamministrazione%20e%20dellassistenza%20sanitaria%20del%20Regno.%20088U5849.md)), sono abrogate e cessano di aver vigore con la pubblicazione della presente legge.
+Tutte le disposizioni degli antichi Stati, riguardanti vincoli e privilegi nell'esercizio della farmacia, di cui all'[art. 215 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636 ([art. 68 della legge 22 dicembre 1888, n. 5849](Sullordinamento%20dellamministrazione%20e%20dellassistenza%20sanitaria%20del%20Regno.%20088U5849.md)), sono abrogate e cessano di aver vigore con la pubblicazione della presente legge.
 
 ### Art. 30.
 
@@ -328,7 +328,7 @@ Nel termine di 18 mesi dalla pubblicazione della presente legge, il prefetto, se
 
 ### Art. 33.
 
-Sono abrogati gli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_27), [28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_28), [29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_29) e [56 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_56) 1° agosto 1907, n. 636, nonche' tutte le altre disposizioni contrarie alla presente legge. Nulla pero' e' innovato alle disposizioni vigenti contro la malaria e sul chinino di Stato, di cui al titolo V del testo unico anzidetto. 
+Sono abrogati gli [articoli 27](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [28](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [29](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [56 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636, nonche' tutte le altre disposizioni contrarie alla presente legge. Nulla pero' e' innovato alle disposizioni vigenti contro la malaria e sul chinino di Stato, di cui al titolo V del testo unico anzidetto. 
  
  Nel termine di cinque anni dalla pubblicazione della presente legge sara' provveduto alla soppressione degli armadi farmaceutici comunali ed alla sostituzione di essi con regolare servizio farmaceutico, ai termini dell'art. 13 della presente legge. Il regolamento stabilira' le norme della relativa liquidazione.
 
@@ -336,7 +336,7 @@ Sono abrogati gli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 Le disposizioni occorrenti per l'esecuzione della presente legge saranno comprese nel regolamento generale sanitario. 
  
- E' data facolta' al Governo del Re di riunire e coordinare le disposizioni della presente legge con quelle del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) 1° agosto 1907, n. 636. 
+ E' data facolta' al Governo del Re di riunire e coordinare le disposizioni della presente legge con quelle del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636. 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

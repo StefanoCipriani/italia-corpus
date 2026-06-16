@@ -26,8 +26,8 @@ L'indirizzo "Orientale" del corso di laurea in lingue e letterature straniere mo
 
 ## Art. 3.
 
-La tabella I annessa al [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' integrata nel senso che nell'elenco delle lauree e dei diplomi viene inserita la "laurea in lingue e letterature straniere moderne". 
- E' del pari integrata la tabella II annessa al citato [regio decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), nel senso che fra le lauree che possono rilasciarsi dalla Facolta' di lettere e filosofia e' inserita quella di "Lingue e letterature straniere moderne".
+La tabella I annessa al [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e' integrata nel senso che nell'elenco delle lauree e dei diplomi viene inserita la "laurea in lingue e letterature straniere moderne". 
+ E' del pari integrata la tabella II annessa al citato [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), nel senso che fra le lauree che possono rilasciarsi dalla Facolta' di lettere e filosofia e' inserita quella di "Lingue e letterature straniere moderne".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

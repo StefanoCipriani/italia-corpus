@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3280](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md), contenente norme in materia di tassa di negoziazione e disposizioni successive;
+Visto il [R. decreto 30 dicembre 1923, n. 3280](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md), contenente norme in materia di tassa di negoziazione e disposizioni successive;
 
 Ritenuta la necessita' urgente ed assoluta di una nuova disciplina del tributo di negoziazione ai fini di una imposizione piu' adeguata all'effettivo valore di scambio dei titoli che vi sono soggetti;
 
@@ -38,7 +38,7 @@ Per la negoziazione di cui possono essere suscettibili le cartelle, i certificat
 
 La imposta stabilita dal precedente articolo non si applica: 
  
- a) alle azioni e alle obbligazioni delle societa' e associazioni estere soggette alla imposta sul capitale di cui al titolo II del [R. decreto 30 dicembre 1923, n. 3280](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md); 
+ a) alle azioni e alle obbligazioni delle societa' e associazioni estere soggette alla imposta sul capitale di cui al titolo II del [R. decreto 30 dicembre 1923, n. 3280](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md); 
  
  b) alle cartelle di credito fondiario per le quali l'imposta di negoziazione e' compenetrata in quella di abbonamento di cui al testo unico della [legge 16 luglio 1905, n. 646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-16;646), modificato dall'[art. 3 della legge 22 dicembre 1905, n. 592](Provvedimenti%20per%20agevolare%20i%20mutui%20fondiari.%20005U0592.md); 
  
@@ -193,7 +193,7 @@ Le disposizioni del presente decreto hanno effetto ai fini dell'applicazione del
 
 1939.
 
-Da tale data sono abrogate le disposizioni in materia di tassa di negoziazione contenute nel [R. decreto 30 dicembre 1923, n. 3280](Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md), e disposizioni successive. 
+Da tale data sono abrogate le disposizioni in materia di tassa di negoziazione contenute nel [R. decreto 30 dicembre 1923, n. 3280](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md), e disposizioni successive. 
  
  L'imposta di negoziazione per l'anno 1939 deve essere liquidata in base al valore dei titoli nell'anno 1938. 
  

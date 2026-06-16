@@ -190,7 +190,7 @@ La concessione e liquidazione dei contributi di cui agli articoli 3 e 4, corrisp
 
 1.
 
-Per i lavori relativi alla costruzione delle unita' di cui all'articolo 2 ed alla trasformazione delle medesime unita' alle condizioni di cui al comma 2 dell'articolo 4, sempreche' tali lavori siano effettuati nei cantieri nazionali iscritti negli albi di cui all'[articolo 19 della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_19), o nei cantieri dei Paesi membri della Comunita' economica europea, il Ministro della marina mercantile puo' concedere alle imprese aventi i requisiti per essere proprietarie di navi italiane ai sensi degli [articoli 143](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [144 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) un contributo inteso a ridurre i relativi oneri finanziari.
+Per i lavori relativi alla costruzione delle unita' di cui all'articolo 2 ed alla trasformazione delle medesime unita' alle condizioni di cui al comma 2 dell'articolo 4, sempreche' tali lavori siano effettuati nei cantieri nazionali iscritti negli albi di cui all'[articolo 19 della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_19), o nei cantieri dei Paesi membri della Comunita' economica europea, il Ministro della marina mercantile puo' concedere alle imprese aventi i requisiti per essere proprietarie di navi italiane ai sensi degli [articoli 143](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [144 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) un contributo inteso a ridurre i relativi oneri finanziari.
 
 2.
 
@@ -232,7 +232,7 @@ Se l'accertamento definitivo dell'ammontare del contributo da' luogo a differenz
 
 1.
 
-Il contributo di cui all'articolo 10 e' subordinato al mantenimento dell'iscrizione nei registri di cui all'[articolo 146 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) dell'unita' per la quale il contributo e' concesso per un periodo di quattro anni a decorrere dalla data di ultimazione dei relativi lavori di costruzione o trasformazione.
+Il contributo di cui all'articolo 10 e' subordinato al mantenimento dell'iscrizione nei registri di cui all'[articolo 146 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) dell'unita' per la quale il contributo e' concesso per un periodo di quattro anni a decorrere dalla data di ultimazione dei relativi lavori di costruzione o trasformazione.
 
 2.
 
@@ -308,7 +308,7 @@ Con decreto del Ministro della marina mercantile sono adottate eventuali limitaz
 
 5.
 
-I contributi di cui al presente decreto si considerano erogati in conto capitale e ad essi si applica la disposizione di cui alla lettera b) del comma 3 dell'articolo 55 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni.
+I contributi di cui al presente decreto si considerano erogati in conto capitale e ad essi si applica la disposizione di cui alla lettera b) del comma 3 dell'articolo 55 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni.
 
 ## Art. 19.
 
@@ -324,7 +324,7 @@ In caso di decadenza, di rinuncia totale o parziale o riduzione dei contributi d
 
 1.
 
-Restano applicabili, in quanto compatibili, le norme del regolamento recante disposizioni applicative della [legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234), in materia di interventi concernenti l'industria navalmeccanica, adottato con [decreto del Ministro della marina mercantile 8 novembre 1990, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.marina.mercantile:decreto:1990-11-08;373), pubblicato nella Gazzetta Ufficiale dell'11 dicembre 1990, n. 288, nonche' le disposizioni del decreto del Ministro del tesoro in data 11 marzo 1992 recante determinazione delle modalita' di corresponsione da parte dello Stato delle rate di ammortamento dei mutui previsti dalla [legge 31 dicembre 1991, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-31;431), concernente interventi a favore del settore navalmeccanico ed armatoriale ed individuazione degli istituti di credito che possono operare ai fini della legge stessa, pubblicato nella Gazzetta Ufficiale n. 106 dell'8 maggio 1992.
+Restano applicabili, in quanto compatibili, le norme del regolamento recante disposizioni applicative della [legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234), in materia di interventi concernenti l'industria navalmeccanica, adottato con [decreto del Ministro della marina mercantile 8 novembre 1990, n. 373](../Regolamenti%20ministeriali/Regolamento%20recante%20disposizioni%20applicative%20della%20legge%2014%20giugno%201989%20n.%20234%20in%20materia%20di%20interventi%20concernenti%20lindustria%20navalmeccanica.md), pubblicato nella Gazzetta Ufficiale dell'11 dicembre 1990, n. 288, nonche' le disposizioni del decreto del Ministro del tesoro in data 11 marzo 1992 recante determinazione delle modalita' di corresponsione da parte dello Stato delle rate di ammortamento dei mutui previsti dalla [legge 31 dicembre 1991, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-31;431), concernente interventi a favore del settore navalmeccanico ed armatoriale ed individuazione degli istituti di credito che possono operare ai fini della legge stessa, pubblicato nella Gazzetta Ufficiale n. 106 dell'8 maggio 1992.
 
 ## Art. 21.
 

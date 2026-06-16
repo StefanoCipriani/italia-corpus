@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Le disposizioni di cui all'[art. 28 della, legge 4 marzo 1952, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-04;137#art_28), s'intendono applicabili anche ai titolari di farmacie di diritto reale ai sensi degli articoli 375, n. 1, 376, n. 1, e 379 del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), che abbiano perduto la sede farmaceutica a seguito di eventi bellici e che non abbiano ancora ripreso la loro attivita' nel territorio della Repubblica, con assegnazione diretta di farmacie attualmente vacanti o che si rendano tali in seguito a revisione delle piante organiche.
+Le disposizioni di cui all'[art. 28 della, legge 4 marzo 1952, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-04;137#art_28), s'intendono applicabili anche ai titolari di farmacie di diritto reale ai sensi degli articoli 375, n. 1, 376, n. 1, e 379 del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), che abbiano perduto la sede farmaceutica a seguito di eventi bellici e che non abbiano ancora ripreso la loro attivita' nel territorio della Repubblica, con assegnazione diretta di farmacie attualmente vacanti o che si rendano tali in seguito a revisione delle piante organiche.
 
 ## Art. 2.
 

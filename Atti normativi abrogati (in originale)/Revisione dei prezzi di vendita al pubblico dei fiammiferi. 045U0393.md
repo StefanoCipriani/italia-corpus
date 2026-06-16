@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560), concernente l'abolizione del monopolio statale di vendita dei fiammiferi e l'istituzione in sua vece di un'imposta di fabbricazione;
+Visto il [R. decreto 11 marzo 1923, n. 560](../Regi%20decreti/Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), concernente l'abolizione del monopolio statale di vendita dei fiammiferi e l'istituzione in sua vece di un'imposta di fabbricazione;
 
 Visto il [R. decreto-legge 9 aprile 1925, n. 426](Nuova%20imposta%20sulla%20produzione%20dei%20fiammiferi.%20025U0426.md), concernente una nuova imposta sula produzione dei fiammiferi, convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per le finanze; Abbiamo sanzionato e promulghiamo qu
 
 ## Art. 1.
 
-Fino alla scadenza delle convenzioni stipulate fra lo Stato ed il Consorzio industrie fiammiferi, la revisione di cui all'[art. 6 del R. decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560#art_6), potra' essere fatta per periodi minori di quelli indicati dallo stesso articolo, quando il costo medio delle materie prime e della mano d'opera occorrenti per la lavorazione dei fiammiferi abbia subito, dall'ultima variazione effettuata, una diminuzione o un aumento non inferiore al 10 %.
+Fino alla scadenza delle convenzioni stipulate fra lo Stato ed il Consorzio industrie fiammiferi, la revisione di cui all'[art. 6 del R. decreto 11 marzo 1923, n. 560](../Regi%20decreti/Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), potra' essere fatta per periodi minori di quelli indicati dallo stesso articolo, quando il costo medio delle materie prime e della mano d'opera occorrenti per la lavorazione dei fiammiferi abbia subito, dall'ultima variazione effettuata, una diminuzione o un aumento non inferiore al 10 %.
 
 ## Art. 2.
 

@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Gli ufficiali della Milizia nazionale forestale, i quali siano comandati a prestare servizio presso l'Azienda foreste demaniali a termine dell'[art. 15 del R. decreto-legge 17 febbraio 1927, n. 324](Soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20ed%20istituzione%20dell%20Azienda%20Foreste%20Demaniali%20.%20027U0324.md), sono collocati fuori ruolo ai sensi e per gli effetti del [R. decreto 30 dicembre 1923, n. 2958](Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). 
+Gli ufficiali della Milizia nazionale forestale, i quali siano comandati a prestare servizio presso l'Azienda foreste demaniali a termine dell'[art. 15 del R. decreto-legge 17 febbraio 1927, n. 324](Soppressione%20della%20Direzione%20generale%20delle%20foreste%20e%20dei%20demani%20ed%20istituzione%20dell%20Azienda%20Foreste%20Demaniali%20.%20027U0324.md), sono collocati fuori ruolo ai sensi e per gli effetti del [R. decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md). 
  
  Sono parimenti collocati fuori del ruolo di cui all'art. 1, sub 2, del [R. decreto-legge 29 gennaio 1928, n. 162](Modificazioni%20allordinamento%20della%20Milizia%20nazionale%20forestale%20e%20dellAzienda%20foreste%20demaniali.%20028U0162.md), i sottufficiali ed i militi della Milizia nazionale forestale addetti ai servizi d'ordine negli uffici dell'Azienda foreste demaniali. 
  

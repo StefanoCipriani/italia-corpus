@@ -18,7 +18,7 @@ Visto l'[articolo 1, comma 1, lettera b), della legge 24 dicembre 1993, n. 537](
 
 Vista la [legge 18 marzo 1989, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-18;106), recante riordinamento dell'Istituto nazionale per il commercio estero;
 
-Visto il [decreto del Presidente della Repubblica 18 gennaio 1990, n. 49](../DPR/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), concernente lo statuto dell'Istituto nazionale per il commercio estero;
+Visto il [decreto del Presidente della Repubblica 18 gennaio 1990, n. 49](../Regolamenti%20governativi/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), concernente lo statuto dell'Istituto nazionale per il commercio estero;
 
 Ravvisata la necessita' ed urgenza di assicurare la gestione, in Italia e all'estero, dell'Istituto nazionale per il commercio estero, in attesa di procedere al riordinamento dello stesso;
 
@@ -54,7 +54,7 @@ Il presidente e i membri del comitato consultivo sono nominati con decreto del M
 
 4.
 
-Il comitato consultivo rende pareri all'amministratore straordinario, obbligatori nelle ipotesi previste all'articolo 10, comma 1, lettere a), b), c) ed e), ed all'articolo 11, comma 3, dello statuto approvato con [decreto del Presidente della Repubblica 18 gennaio 1990, n. 49](../DPR/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), nonche', ove richiesto, al Ministro del commercio con l'estero.
+Il comitato consultivo rende pareri all'amministratore straordinario, obbligatori nelle ipotesi previste all'articolo 10, comma 1, lettere a), b), c) ed e), ed all'articolo 11, comma 3, dello statuto approvato con [decreto del Presidente della Repubblica 18 gennaio 1990, n. 49](../Regolamenti%20governativi/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), nonche', ove richiesto, al Ministro del commercio con l'estero.
 
 ## Art. 3.
 
@@ -78,7 +78,7 @@ L'amministratore straordinario e gli altri soggetti investiti delle funzioni di 
 
 1.
 
-Le delibere dell'amministratore sono sottoposte al Ministero del commercio con l'estero che le approva secondo le modalita' previste dagli [articoli 10](../DPR/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md) e [11 del decreto del Presidente della Repubblica 18 gennaio 1990, n. 49](../DPR/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md).
+Le delibere dell'amministratore sono sottoposte al Ministero del commercio con l'estero che le approva secondo le modalita' previste dagli [articoli 10](../Regolamenti%20governativi/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md) e [11 del decreto del Presidente della Repubblica 18 gennaio 1990, n. 49](../Regolamenti%20governativi/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md).
 
 2.
 
@@ -86,7 +86,7 @@ I termini di approvazione delle delibere sono ridotti a trenta giorni. Trascorso
 
 3.
 
-I comitati consultivi previsti dall'[articolo 17 del decreto del Presidente della Repubblica 18 gennaio 1990, n. 49](../DPR/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), siedono presso il Ministero del commercio con l'estero, e formulano proposte in merito alle linee direttrici della politica promozionale ed esprimono valutazioni sulla realizzazione dei programmi dell'Istituto nazionale per il commercio estero.
+I comitati consultivi previsti dall'[articolo 17 del decreto del Presidente della Repubblica 18 gennaio 1990, n. 49](../Regolamenti%20governativi/Regolamento%20riguardante%20lo%20statuto%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), siedono presso il Ministero del commercio con l'estero, e formulano proposte in merito alle linee direttrici della politica promozionale ed esprimono valutazioni sulla realizzazione dei programmi dell'Istituto nazionale per il commercio estero.
 
 4.
 

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 20 novembre 1919, n. 2379](Che%20detta%20norme%20pel%20matrimonio%20dei%20sottufficiali%20del%20R.%20esercito%20e%20degli%20appuntati%20dei%20carabinieri%20Reali.%20019U2379.md), relativo al matrimonio dei sottufficiali del Regio esercito e degli appuntati dei carabinieri Reali, convertito in legge con la [legge 21 agosto 1922, n. 1264](Che%20converte%20in%20legge%20il%20R.%20decreto%2020%20novembre%201919%20n.%202379%20contenente%20disposizioni%20relative%20al%20matrimonio%20dei%20sottufficiali%20del%20R.%20esercito%20e%20degli%20appuntati%20dei%20carabinieri%20Reali.%20022U1264.md);
 
-Visto il [R. decreto 19 aprile 1923, n. 986](Relativo%20al%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20del%20Regio%20esercito%20e%20della%20Regia%20marina%20e%20dei%20sottufficiali%20e%20appuntati%20dei%20carabinieri%20Reali.%20023U0986.md), relativo al matrimonio dei sottufficiali e militari di truppa, del Regio esercito e della Regia marina;
+Visto il [R. decreto 19 aprile 1923, n. 986](../Regi%20decreti/Relativo%20al%20matrimonio%20dei%20sottufficiali%20e%20militari%20di%20truppa%20del%20Regio%20esercito%20e%20della%20Regia%20marina%20e%20dei%20sottufficiali%20e%20appuntati%20dei%20carabinieri%20Reali.%20023U0986.md), relativo al matrimonio dei sottufficiali e militari di truppa, del Regio esercito e della Regia marina;
 
 Vista la [legge 29 dicembre 1930, n. 1728](Aumento%20temporaneo%20dellaliquota%20dei%20brigadieri%20dei%20carabinieri%20Reali%20autorizzati%20a%20contrarre%20matrimonio.%20030U1728.md), relativa all'aumento temporaneo dell'aliquota dei brigadieri dei carabinieri Reali che possono essere autorizzati a contrarre matrimonio;
 

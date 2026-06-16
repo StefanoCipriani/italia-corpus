@@ -14,7 +14,7 @@ L'[art. 5 della legge 27 giugno 1909, n. 375](Disposizioni%20relative%20alle%20p
 
 ## Art. 2.
 
-All'art. 10 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70), e' sostituito il seguente: 
+All'art. 10 del testo unico delle leggi sulle pensioni civili e militari, approvato con [R. decreto 21 febbraio 1895, n. 70](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20leggi%20sulle%20pensioni%20civili%20e%20militari.%20095U0070.md), e' sostituito il seguente: 
  
  «Per gli ufficiali della R. marina l'eta' ed il servizio richiesti per esercitare il diritto a pensione per anzianita' di servizio sono ridotti, per tutti indistintamente, di una quantita' pari al terzo della navigazione compiuta su navi armate od in riserva; pero' in nessun caso potranno i limiti di eta' e di servizio stabiliti dal precedente articolo 9 essere ridotti di piu' di cinque anni. 
  

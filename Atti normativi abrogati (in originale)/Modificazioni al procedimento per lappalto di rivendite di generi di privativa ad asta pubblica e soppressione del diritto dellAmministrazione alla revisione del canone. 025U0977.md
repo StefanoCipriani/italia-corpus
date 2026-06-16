@@ -14,9 +14,9 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 16 dicembre 1922, n. 1650](Relativo%20allordinamento%20delle%20rivendite%20ai%20generi%20di%20privativa%20dello%20Stato.%20022U1650.md);
+Visto il [R. decreto 16 dicembre 1922, n. 1650](../Regi%20decreti/Relativo%20allordinamento%20delle%20rivendite%20ai%20generi%20di%20privativa%20dello%20Stato.%20022U1650.md);
 
-Visti i [Regi decreti 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+Visti i [Regi decreti 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e [23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
 Udito il Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Su proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decr
 
 ## Art. 1.
 
-Con effetto dalla data di pubblicazione di questo decreto i [comma 2°](Relativo%20allordinamento%20delle%20rivendite%20ai%20generi%20di%20privativa%20dello%20Stato.%20022U1650.md) e [3° dell'art. 7 del R. decreto 16 dicembre 1922, n. 1650](Relativo%20allordinamento%20delle%20rivendite%20ai%20generi%20di%20privativa%20dello%20Stato.%20022U1650.md), sono sostituiti dalle disposizioni seguenti: 
+Con effetto dalla data di pubblicazione di questo decreto i [comma 2°](../Regi%20decreti/Relativo%20allordinamento%20delle%20rivendite%20ai%20generi%20di%20privativa%20dello%20Stato.%20022U1650.md) e [3° dell'art. 7 del R. decreto 16 dicembre 1922, n. 1650](../Regi%20decreti/Relativo%20allordinamento%20delle%20rivendite%20ai%20generi%20di%20privativa%20dello%20Stato.%20022U1650.md), sono sostituiti dalle disposizioni seguenti: 
  
  « Nella scheda segreta l'Amministrazione ha facolta' di prefissare oltre il limite minimo anche quello massimo di aumento percentuale sul canone legale. 
  
@@ -34,7 +34,7 @@ Con effetto dalla data di pubblicazione di questo decreto i [comma 2°](Relativo
 
 ## Art. 2.
 
-Con effetto dal 1° luglio 1925 e' abrogato il [comma 3° dell'art. 17 del R. decreto 16 dicembre 1922, n. 1650](Relativo%20allordinamento%20delle%20rivendite%20ai%20generi%20di%20privativa%20dello%20Stato.%20022U1650.md). 
+Con effetto dal 1° luglio 1925 e' abrogato il [comma 3° dell'art. 17 del R. decreto 16 dicembre 1922, n. 1650](../Regi%20decreti/Relativo%20allordinamento%20delle%20rivendite%20ai%20generi%20di%20privativa%20dello%20Stato.%20022U1650.md). 
  
  Il presente decreto sara' comunicato al Parlamento per la conversione in legge. 
  

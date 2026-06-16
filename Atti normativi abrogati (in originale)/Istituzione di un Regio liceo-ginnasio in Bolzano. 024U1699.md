@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto il Nostro decreto 6 maggio 1923, n. 1054, relativo all'ordinamento dell'istruzione media e dei convitti nazionali;
 
-Veduto l'altro Nostro decreto in data 11 marzo 1923, n. 685, e l'art. 2 del [R. decreto 9 novembre 1923, n. 2974](Convenzioni%20per%20il%20mantenimento%20degli%20istituti%20medi%20distruzione%20nelle%20nuove%20Provincie.%20023U2974.md), relativi ai contributi a carico delle Provincie, dei Comuni e di altri Enti per il mantenimento di Regie scuole medie;
+Veduto l'altro Nostro decreto in data 11 marzo 1923, n. 685, e l'art. 2 del [R. decreto 9 novembre 1923, n. 2974](../Regi%20decreti/Convenzioni%20per%20il%20mantenimento%20degli%20istituti%20medi%20distruzione%20nelle%20nuove%20Provincie.%20023U2974.md), relativi ai contributi a carico delle Provincie, dei Comuni e di altri Enti per il mantenimento di Regie scuole medie;
 
 Veduto il voto presentato dall'Amministrazione comunale di Bolzano per l'istituzione di un Regio liceo-ginnasio in detta citta' a decorrere dal 1° ottobre 1924;
 
@@ -32,7 +32,7 @@ A decorrere dal 1º ottobre 1924 e' istituito in Bolzano un Regio liceo-ginnasio
 
 ## Art. 2.
 
-Il comune di Bolzano versera' allo Stato per il mantenimento di tale Regio liceo-ginnasio un contributo annuo di L. 20,000, e assumera' a suo carico gli altri oneri previsti dall'[articolo 103 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_103).
+Il comune di Bolzano versera' allo Stato per il mantenimento di tale Regio liceo-ginnasio un contributo annuo di L. 20,000, e assumera' a suo carico gli altri oneri previsti dall'[articolo 103 del R. decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
 
 ## Art. 3.
 

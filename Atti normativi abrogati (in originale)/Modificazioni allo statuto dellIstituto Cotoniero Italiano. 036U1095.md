@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto-legge 3 marzo 1934, n. 291](Conferimento%20della%20personalita%20giuridica%20allIstituto%20Cotoniero%20Italiano%20e%20determinazione%20dei%20suoi%20compiti%20e%20degli%20organi%20e%20dei%20mezzi%20occorrenti%20per%20il%20suo%20funzionamento.%20034U0291.md), con cui e' stata conferita la personalita' giuridica all'Istituto Cotoniero Italiano e sono stati determinati i suoi compiti, gli organi e i mezzi occorrenti per il suo funzionamento;
 
-Visto il [R. decreto 29 marzo 1934, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-29;512), concernente l'approvazione dello statuto del suddetto Istituto;
+Visto il [R. decreto 29 marzo 1934, n. 512](../Regi%20decreti/Approvazione%20dello%20statuto%20dellistituto%20Cotoniero%20Italiano.%20034U0512.md), concernente l'approvazione dello statuto del suddetto Istituto;
 
 Visto il [R. decreto-legge 16 dicembre 1935, n. 2344](Modificazioni%20al%20R.%20decreto-legge%203%20marzo%201934%20n.%20291%20concernente%20il%20conferimento%20della%20personalita%20giuridica%20allIstituto%20Cotoniero%20Italiano%20e%20la%20determinazione%20dei%20suoi%20compiti%20degli%20org_b74fa9cbd441.md), recante modificazioni al citato R. decreto-legge 3 marzo 1934, n, 291;
 
@@ -26,7 +26,7 @@ Sulla proposta, del Capo del Governo, Primo Ministro Segretario di Stato, Minist
 
 ## Articolo unico.
 
-Allo statuto dell'Istituto Cotoniero approvato con [R. decreto 29 marzo 1934, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-29;512), sono apportate la seguenti modificazioni: 
+Allo statuto dell'Istituto Cotoniero approvato con [R. decreto 29 marzo 1934, n. 512](../Regi%20decreti/Approvazione%20dello%20statuto%20dellistituto%20Cotoniero%20Italiano.%20034U0512.md), sono apportate la seguenti modificazioni: 
  
  1) L'art. 2, primo comma, e' sostituito dal seguente: 
  

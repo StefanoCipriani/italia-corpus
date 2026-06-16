@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che approva l'ordinamento gerarchico delle pubbliche Amministrazioni, e sue successive modificazioni;
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), che approva l'ordinamento gerarchico delle pubbliche Amministrazioni, e sue successive modificazioni;
 
 Udito il Consiglio dei Ministri;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro ad interim pe
 
 ## Art. 1.
 
-Alla tabella n. 35 dell'allegato IV del [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita la seguente: 
+Alla tabella n. 35 dell'allegato IV del [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e' sostituita la seguente: 
  
  Personale per il servizio dei fari e del segnalamento marittimo. 
  
@@ -34,7 +34,7 @@ Alla tabella n. 35 dell'allegato IV del [R. decreto 11 novembre 1923, n. 2395](O
 
 ## Art. 2.
 
-Fino a che si troveranno in servizio agenti provenienti dal cessato regime, saranno lasciati vacanti tanti posti di capo fanalisti e di fanalista quanti saranno gli agenti dello stesso grado in servizio, compresi negli elenchi di cui all'[art. 9 del R. decreto 18 febbraio 1923, n. 440](Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), ed all'[articolo 10 del R. decreto 30 ottobre 1924, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-30;1842#art_10).
+Fino a che si troveranno in servizio agenti provenienti dal cessato regime, saranno lasciati vacanti tanti posti di capo fanalisti e di fanalista quanti saranno gli agenti dello stesso grado in servizio, compresi negli elenchi di cui all'[art. 9 del R. decreto 18 febbraio 1923, n. 440](../Regi%20decreti/Con%20cui%20si%20provvede%20alla%20sistemazione%20giuridica%20degli%20impiegati%20ed%20agenti%20del%20cessato%20regime%20provvisoriamente%20in%20servizio%20presso%20lAmministrazione%20italiana.%20023U0440.md), ed all'[articolo 10 del R. decreto 30 ottobre 1924, n. 1842](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-30;1842#art_10).
 
 ## Art. 3.
 

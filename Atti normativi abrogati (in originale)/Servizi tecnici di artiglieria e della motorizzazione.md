@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Fino a quando non sara' provveduto al riassetto organico dei servizi tecnici, nel quadro del nuovo ordinamento dell'esercito, il reclutamento degli ufficiali dei servizi tecnici di artiglieria e della motorizzazione e' effettuato, in deroga all'art. 16 del testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni, con le norme contenute negli articoli che seguono.
+Fino a quando non sara' provveduto al riassetto organico dei servizi tecnici, nel quadro del nuovo ordinamento dell'esercito, il reclutamento degli ufficiali dei servizi tecnici di artiglieria e della motorizzazione e' effettuato, in deroga all'art. 16 del testo unico delle leggi sul reclutamento degli ufficiali dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), e successive modificazioni, con le norme contenute negli articoli che seguono.
 
 ## Art. 2.
 
@@ -73,7 +73,7 @@ Sono convalidati i corsi superiori tecnici di artiglieria e quello della motoriz
 
 ## Art. 10.
 
-Nella prima applicazione della presente legge possono essere trasferiti, a domanda, nel servizio tecnico di artiglieria o nel servizio tecnico della motorizzazione i capitani, i maggiori e i tenenti colonnelli che, pur avendo superato il corso superiore tecnico di artiglieria o quello della motorizzazione, non furono a suo tempo trasferiti in uno dei servizi stessi perche' non in possesso di tutti i requisiti prescritti dall'articolo 16 del testo unico delle leggi sul reclutamento dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md).
+Nella prima applicazione della presente legge possono essere trasferiti, a domanda, nel servizio tecnico di artiglieria o nel servizio tecnico della motorizzazione i capitani, i maggiori e i tenenti colonnelli che, pur avendo superato il corso superiore tecnico di artiglieria o quello della motorizzazione, non furono a suo tempo trasferiti in uno dei servizi stessi perche' non in possesso di tutti i requisiti prescritti dall'articolo 16 del testo unico delle leggi sul reclutamento dell'Esercito, approvato con [regio decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md).
  Il trasferimento nel servizio tecnico di artiglieria o nel servizio tecnico della motorizzazione per gli ufficiali di cui al comma precedente ha la decorrenza che avrebbe avuto se a suo tempo gli ufficiali medesimi si fossero trovati in possesso dei requisiti richiesti dall'art. 16 del testo unico richiamato nel comma precedente.
 
 ## Art. 11.

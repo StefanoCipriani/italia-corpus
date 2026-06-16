@@ -22,7 +22,7 @@ Visto il [R. decreto 27 dicembre 1923, n. 3205](Istituzione%20di%20Regi%20commis
 
 Visto il [R. decreto 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato;
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), relativo allo stato giuridico ed economico degli impiegati civili;
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), relativo allo stato giuridico ed economico degli impiegati civili;
 
 Udito il Consiglio dell'istruzione nautica;
 

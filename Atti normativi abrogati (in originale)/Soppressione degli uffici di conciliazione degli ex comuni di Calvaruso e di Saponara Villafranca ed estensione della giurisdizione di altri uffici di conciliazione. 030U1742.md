@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 28 marzo 1929, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;727), col quale fu costituito il nuovo comune di Villafranca Tirrena, con capoluogo Bauso, riunendo gli ex comuni di Bauso, Calvaruso e Saponara Villafranca, nonche' le frazioni Divieto e Serro, gia' dipendenti dal comune di Messina;
+Visto il [R. decreto 28 marzo 1929, n. 727](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bauso%20Calvaruso%20e%20Saponara%20Villafranca%20nonche%20delle%20frazioni%20Divieto%20e%20Serro%20del%20comune%20di%20Messina%20in%20un%20unico%20Comune%20con%20capoluogo%20Bauso%20e%20denominazione%20%20Villafran_4bee491a59dc.md), col quale fu costituito il nuovo comune di Villafranca Tirrena, con capoluogo Bauso, riunendo gli ex comuni di Bauso, Calvaruso e Saponara Villafranca, nonche' le frazioni Divieto e Serro, gia' dipendenti dal comune di Messina;
 
 Vista la deliberazione del podesta' di Villafranca Tirrena, con la quale si chiede la soppressione degli uffici di conciliazione degli ex comuni di Calvaruso e Saponara Villafranca, e l'estensione della giurisdizione dell'ufficio esistente nell'ex comune di Bauso a tutto il territorio dell'attuale comune di Villafranca Tirrena, la sottrazione dalla giurisdizione dell'ufficio di conciliazione nella frazione Gesso del territorio delle sotto frazioni di Serro e Divieto, l'estensione della giurisdizione dell'ufficio di conciliazione di Villafranca Tirrena al territorio delle sotto frazioni di Serro e Divieto;
 

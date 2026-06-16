@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443);
+Visto il [R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md);
 
 Visto il [R. decreto-legge 1° novembre 1935, n. 2154](Istituzione%20di%20un%20Ufficio%20speciale%20per%20lapprovvigionamento%20dei%20prodotti%20minerari.%20035U2154.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per le corporazioni, di concerto
 
 ## Art. 1.
 
-Senza pregiudizio di quanto dispongono il [R. decreto 27 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-27;1443), in ordine alla ricerca e coltivazione delle miniere, ed [decreto-legge 1° novembre 1935, n. 2154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1935-11-01;2154), sull'approvvigionamento dei prodotti minerari, i permessi di ricerca e le concessioni, di coltivazione, per i quali i lavori non siano stati iniziati nei termini prescritti, o siano sospesi senza l'autorizzazione ministeriale preveduta dall'art. 26 del suddetto [R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443), o non siano condotti con mezzi adeguati alla natura ed importanza del giacimento, cessano di avere vigore. 
+Senza pregiudizio di quanto dispongono il [R. decreto 27 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-27;1443), in ordine alla ricerca e coltivazione delle miniere, ed [decreto-legge 1° novembre 1935, n. 2154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1935-11-01;2154), sull'approvvigionamento dei prodotti minerari, i permessi di ricerca e le concessioni, di coltivazione, per i quali i lavori non siano stati iniziati nei termini prescritti, o siano sospesi senza l'autorizzazione ministeriale preveduta dall'art. 26 del suddetto [R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), o non siano condotti con mezzi adeguati alla natura ed importanza del giacimento, cessano di avere vigore. 
  
  La dichiarazione di decadenza relativa e' fatta, entro il termine massimo di un anno dalla pubblicazione del presente decreto, con decreto del Ministro per le corporazioni, sentito il Consiglio superiore delle Miniere.
 
@@ -46,7 +46,7 @@ Entro l'ultimo trimestre di ciascun anno, deve essere inviato al distretto miner
 
 ## Art. 3.
 
-Ai provvedimenti di revoca dei permessi di ricerca si applica la disposizione dell'[art. 9, comma 4, del R. decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_9-com4), ed a quelli di revoca delle concessioni la disposizione dell'art. 41, comma 2, dello stesso Regio decreto. 
+Ai provvedimenti di revoca dei permessi di ricerca si applica la disposizione dell'[art. 9, comma 4, del R. decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), ed a quelli di revoca delle concessioni la disposizione dell'art. 41, comma 2, dello stesso Regio decreto. 
  
  Il presente decreto, che sara' presentato al Parlamento per la sua conversione in legge, entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  

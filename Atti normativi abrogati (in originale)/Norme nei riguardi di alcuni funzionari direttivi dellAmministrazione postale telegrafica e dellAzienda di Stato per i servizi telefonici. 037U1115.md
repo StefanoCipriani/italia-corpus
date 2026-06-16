@@ -20,19 +20,19 @@ Visto il [R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmm
 
 nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), e successive modificazioni;
 
-Visto il [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), che approva
+Visto il [R. decreto 15 agosto 1926, n. 1733](../Regi%20decreti/Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), che approva
 
 l'ordinamento del personale dell'Amministrazione delle poste
 
 e dei telegrafi, e successive modificazioni;
 
-Visto il [R. decreto 17 settembre 1931, n. 1345](Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), riguardante le nuove tabelle organiche del personale postale e telegrafico, e successive modificazioni;
+Visto il [R. decreto 17 settembre 1931, n. 1345](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20postale%20e%20telegrafico.%20031U1345.md), riguardante le nuove tabelle organiche del personale postale e telegrafico, e successive modificazioni;
 
 Visto il [R. decreto-legge 14 giugno 1925, n. 884](Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), riguardante la costituzione dell'Azienda di Stato per i servizi telefonici, e successive modificazioni;
 
-Visto il [R. decreto 3 gennaio 1926, n. 88](Trattamento%20economico%20del%20personale%20dellAzienda%20per%20i%20servizi%20telefonici.%20026U0088.md), e successive modificazioni;
+Visto il [R. decreto 3 gennaio 1926, n. 88](../Regi%20decreti/Trattamento%20economico%20del%20personale%20dellAzienda%20per%20i%20servizi%20telefonici.%20026U0088.md), e successive modificazioni;
 
-Visto il [R. decreto 15 ottobre 1931, n. 1474](Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), riguardante le nuove tabelle organiche del personale dell'Azienda di Stato anzidetta, e successive modificazioni;
+Visto il [R. decreto 15 ottobre 1931, n. 1474](../Regi%20decreti/Nuove%20tabelle%20organiche%20del%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.%20031U1474.md), riguardante le nuove tabelle organiche del personale dell'Azienda di Stato anzidetta, e successive modificazioni;
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

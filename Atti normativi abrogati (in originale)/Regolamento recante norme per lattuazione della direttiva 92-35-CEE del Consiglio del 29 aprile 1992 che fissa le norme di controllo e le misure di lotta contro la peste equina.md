@@ -20,9 +20,9 @@ Visto l'[art. 4 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazion
 
 Vista la [direttiva 92/35/CEE, del Consiglio del 29 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;35), che fissa le norme di controllo e le misure di lotta contro la peste equina;
 
-Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
+Visto il regolamento di polizia veterinaria, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), e successive modificazioni;
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e successive modificazioni;
 
 Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), e successive modificazioni;
 
@@ -75,7 +75,7 @@ La vaccinazione contro la peste equina e' ammessa soltanto nei casi e nei limiti
  disposizioni sulla promulgazione, delle leggi, 
  sull'emanazione dei decreti del Presidente della Repubblica 
  e sulle pubblicazioni ufficiali della Repubblica italiana, 
- approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
+ approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo 
  fine di facilitare la lettura delle disposizioni di legge 
  alle quali e' operato il rinvio. Restano invariati il 
  valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -176,10 +176,10 @@ La vaccinazione contro la peste equina e' ammessa soltanto nei casi e nei limiti
  presente legge". 
  - La [direttiva 92/35/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;35) e' pubblicata nella G.U.C.E. n. 
  L. 157 del 10 giugno 1992. 
- - Il [D.P.R. 8 febbraio 1954 n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md) riguarda il 
+ - Il [D.P.R. 8 febbraio 1954 n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md) riguarda il 
  regolamento di polizia veterinaria. 
- - Il [R.D. 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) riguarda 
- l'approvazione del [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265). 
+ - Il [R.D. 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) riguarda 
+ l'approvazione del [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md). 
  - La [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), riguarda 
  l'istituzione del servizio sanitario nazionale. 
  - Il [D.Lgs. 14 dicembre 1992, n. 508](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2090-667-CEE%20del%20Consiglio%20del%2027%20novembre%201990%20che%20stabilisce%20le%20norme%20sanitarie%20per%20leliminazione%20la%20trasformazione%20e%20limmissione%20sul%20mercato%20di%20rifiuti%20di%20orig_d14f1b9da0b0.md), concerne 

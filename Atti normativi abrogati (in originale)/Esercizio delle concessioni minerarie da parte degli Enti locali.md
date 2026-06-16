@@ -22,7 +22,7 @@ Le Province, i Comuni e le istituzioni pubbliche di assistenza e beneficenza, ti
  Fermi restando i controlli previsti dalla legge comunale e provinciale, i contratti di cui al precedente comma debbono essere approvati dal Ministero dell'industria e del commercio.
 L'approvazione deve essere richiesta entro il termine perentorio di un mese dalla data della deliberazione favorevole degli organi di controllo. 
  Il Ministero provvede sulla richiesta di approvazione entro tre mesi dalla presentazione della domanda; trascorso detto termine senza che il Ministero stesso si sia espresso, l'approvazione si intende data. 
- Nei casi di inadempienza previsti dall'[articolo 10 del regio decreto 29 luglio 1927, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1443#art_10), dovuta ad eccessiva responsabilita' dell'esercente la miniera, il Ministero dell'industria e commercio puo', con la misura prevista dal successivo articolo 41, revocare l'approvazione del contratto, che e' risoluto di diritto.
+ Nei casi di inadempienza previsti dall'[articolo 10 del regio decreto 29 luglio 1927, n. 1443](../Regi%20decreti/Norme%20di%20carattere%20legislativo%20per%20disciplinare%20la%20ricerca%20e%20la%20coltivazione%20delle%20miniere%20nel%20Regno.%20027U1443.md), dovuta ad eccessiva responsabilita' dell'esercente la miniera, il Ministero dell'industria e commercio puo', con la misura prevista dal successivo articolo 41, revocare l'approvazione del contratto, che e' risoluto di diritto.
 
 ## Art. 2.
 

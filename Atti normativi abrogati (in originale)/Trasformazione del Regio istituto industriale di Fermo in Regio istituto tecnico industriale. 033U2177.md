@@ -18,7 +18,7 @@ Visto il [R. decreto-legge 31 ottobre 1923, n. 2523](https://www.normattiva.it/u
 
 Visto il [R. decreto 3 giugno 1924, n. 969](Approvazione%20del%20regolamento%20per%20listruzione%20industriale%20in%20applicazione%20del%20R.%20decreto%2031%20ottobre%201923%20n.%202523.%20024U0969.md);
 
-Visto il [R. decreto 19 settembre 1907, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-19;403), riguardante il riordinamento del R. Istituto industriale nazionale di Fermo con annesso Convitto;
+Visto il [R. decreto 19 settembre 1907, n. 403](../Regi%20decreti/Che%20approva%20lo%20statuto%20pel%20riordinamento%20dellIstituto%20darti%20e%20mestieri%20per%20le%20Marche%20fondato%20in%20Fermo.%200700403R.md), riguardante il riordinamento del R. Istituto industriale nazionale di Fermo con annesso Convitto;
 
 Visto il R. decreto 22 maggio 1918, n. CCVI, che modifica la tabella organica dell'Istituto predetto;
 

@@ -18,7 +18,7 @@ Visto il [R. decreto 2 ottobre 1897, n. 492](Che%20istituisce%20in%20New-York%20
 
 Visto il [R. decreto legge 22 gennaio 1922, n. 91](Che%20reca%20provvedimenti%20intesi%20a%20regolare%20la%20corresponsione%20del%20cambio%20sulle%20competenze%20spettanti%20al%20personale%20delle%20Amministrazioni%20dello%20Stato%20che%20presta%20servizio%20allEstero.%20022U0091.md), che regola la corresponsione del prezzo del cambio nel pagamento delle competenze al personale delle Amministrazioni dello Stato in Servizio all'estero;
 
-Visto il [R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), che stabilisce il trattamento economico da farsi al personale dell'Amministrazione dello Stato incaricato di missione all'estero;
+Visto il [R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), che stabilisce il trattamento economico da farsi al personale dell'Amministrazione dello Stato incaricato di missione all'estero;
 
 Ritenuta la necessita' di stabilire, per i funzionari in missione permanente presso la suddetta Agenzia del monopolio in New York, un trattamento economico in armonia con le particolari condizioni di vita in cui essi si trovano;
 
@@ -34,11 +34,11 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo d
 
 Ai funzionari dell'Amministrazione delle privative, in missione permanente presso l'Agenzia del monopolio in New York, e' corrisposta una indennita' giornaliera di lire oro 85 se con famiglia convivente, e di lire oro 57 se senza famiglia convivente. 
  
- Su tali diarie non verra' applicata la riduzione di cui agli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_6) e [7 del R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_7). 
+ Su tali diarie non verra' applicata la riduzione di cui agli [articoli 6](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md) e [7 del R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md). 
  
  Ai suddetti funzionari sara' inoltre corrisposta, sul solo stipendio netto mensile - esclusi gli assegni e te indennita' di qualsiasi natura - la differenza del cambio fra la valuta cartacea italiana e quella cartacea degli Stati Uniti d'America, prevista dall'art. 1 del R. decreto-legge 22 gennaio 1922 per il personale delle Amministrazioni dello Stato in missione permanente in quella Nazione; cambio che verra' calcolato in base alle quotazioni ufficiali italiane dei primi venti giorni del mese cui si riferisce il pagamento dello stipendio. 
  
- Rimangono ferme, per i detti funzionari in missione presso l'Agenzia del monopolio in New York, tutte le altre disposizioni contenute nel [R. decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941). 
+ Rimangono ferme, per i detti funzionari in missione presso l'Agenzia del monopolio in New York, tutte le altre disposizioni contenute nel [R. decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -16,9 +16,9 @@ RE D'ITALIA
 
 Visto R. decreto aprile 1885, n. 3095, che approva il tetto unico della [legge 16 luglio 1884, n. 2518](Sulla%20classificazione%20dei%20porti%20sulle%20spese%20per%20i%20medesimi%20e%20sulla%20designazione%20delle%20opere%20marittime.%20084U2518.md), con le disposizioni del titolo IV, porti, spiaggie e fari, della preesistente legge sui lavori pubblici 20 marzo 1865, n. 2248, allegato F;
 
-Visto il [R. decreto 31 dicembre 1923, n. 3125](Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md);
+Visto il [R. decreto 31 dicembre 1923, n. 3125](../Regi%20decreti/Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md);
 
-Visto il [R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506);
+Visto il [R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md);
 
 Visti i Regi decreti 6 e 11 novembre 1924, n. 1931 e numero 1932;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di 
 
 Per la esecuzione delle opere di carattere igienico, di cui all'[articolo 1 del R. decreto 6 novembre 1924, n. 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-06;1931#art_1), sara' corrisposto il contributo dello Stato nella misura massima del 40 per cento della spesa relativa, entro i limiti stabiliti dalle singole leggi speciali, fermo restando il contributo del 50 per cento della spesa, per quanto riguarda gli acquedotti, a termini delle [leggi 14 luglio 1907, n. 562, e 10 luglio 1914, n. 665](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-10;665). 
  
- Per gli edifici scolastici, il concorso dello Stato di cui all'[articolo 11 del R. decreto 31 dicembre 1923, n. 3125](Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), potra' giungere fino a un massimo di L. 50,000, per le sedi rurali di non piu' di due aule, con annessa abitazione per l'insegnante, e di L. 150,000 per gli altri edifici, qualunque sia il numero delle aule, ferma restando la precedenza alle sedi rurali.
+ Per gli edifici scolastici, il concorso dello Stato di cui all'[articolo 11 del R. decreto 31 dicembre 1923, n. 3125](../Regi%20decreti/Agevolazioni%20per%20la%20costruzione%20di%20edifici%20scolastici.%20023U3125.md), potra' giungere fino a un massimo di L. 50,000, per le sedi rurali di non piu' di due aule, con annessa abitazione per l'insegnante, e di L. 150,000 per gli altri edifici, qualunque sia il numero delle aule, ferma restando la precedenza alle sedi rurali.
 
 ## Art. 2.
 
@@ -42,7 +42,7 @@ Il Ministero dei lavori pubblici potra' provvedere, coi fondi di cui al [R. decr
 
 ## Art. 4.
 
-Lo Stato provvedera' a totale sue spese alla costruzione di una strada litoranea da Terranova Pausania per Palau e Santa Teresa di Gallura a Castelsardo, utilizzando i tratti di strada esistenti o in corso di costruzione e completando o sistemando tali tratti con le maggiori opere riconosciute necessarie, salva la definitiva classificazione ad ogni altro effetto dei tratti non compresi nella strada di 1ª classe n. 115, di cui all'elenco annesso al [R. decreto 15 novembre 1923, n. 2506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-15;2506).
+Lo Stato provvedera' a totale sue spese alla costruzione di una strada litoranea da Terranova Pausania per Palau e Santa Teresa di Gallura a Castelsardo, utilizzando i tratti di strada esistenti o in corso di costruzione e completando o sistemando tali tratti con le maggiori opere riconosciute necessarie, salva la definitiva classificazione ad ogni altro effetto dei tratti non compresi nella strada di 1ª classe n. 115, di cui all'elenco annesso al [R. decreto 15 novembre 1923, n. 2506](../Regi%20decreti/Norme%20per%20la%20classifica%20e%20manutenzione%20delle%20strade%20pubbliche.%20023U2506.md).
 
 ## Art. 5.
 

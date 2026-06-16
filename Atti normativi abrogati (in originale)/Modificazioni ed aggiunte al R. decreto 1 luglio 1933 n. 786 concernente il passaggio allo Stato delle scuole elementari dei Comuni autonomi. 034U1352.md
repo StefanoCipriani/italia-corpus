@@ -16,15 +16,15 @@ RE D'ITALIA
 
 Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md);
+Visto il [R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md);
 
-Visto il [R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+Visto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare e sulle sue opere di integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md);
 
 Visto il [R. decreto-legge 13 dicembre 1933, n. 1706](Provvedimenti%20a%20favore%20delle%20famiglie%20dei%20caduti%20per%20la%20causa%20fascista%20dei%20mutilati%20e%20feriti%20per%20la%20causa%20stessa%20nonche%20degli%20inscritti%20ai%20Fasci%20di%20combattimento%20anteriormente%20al%2028%20ottob_2ee4f6577cd7.md);
 
-Ritenuta la urgente ed assoluta necessita' di emanare norme integrative al [R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sul passaggio allo Stato delle scuole elementari dei Comuni autonomi, e di estendere il [R. decreto-legge 13 dicembre 1933, n. 1706](Provvedimenti%20a%20favore%20delle%20famiglie%20dei%20caduti%20per%20la%20causa%20fascista%20dei%20mutilati%20e%20feriti%20per%20la%20causa%20stessa%20nonche%20degli%20inscritti%20ai%20Fasci%20di%20combattimento%20anteriormente%20al%2028%20ottob_2ee4f6577cd7.md), ai maestri elementari;
+Ritenuta la urgente ed assoluta necessita' di emanare norme integrative al [R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sul passaggio allo Stato delle scuole elementari dei Comuni autonomi, e di estendere il [R. decreto-legge 13 dicembre 1933, n. 1706](Provvedimenti%20a%20favore%20delle%20famiglie%20dei%20caduti%20per%20la%20causa%20fascista%20dei%20mutilati%20e%20feriti%20per%20la%20causa%20stessa%20nonche%20degli%20inscritti%20ai%20Fasci%20di%20combattimento%20anteriormente%20al%2028%20ottob_2ee4f6577cd7.md), ai maestri elementari;
 
 Udito il Consiglio dei Ministri;
 
@@ -32,29 +32,29 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazional
 
 ## Art. 1.
 
-Al [comma terzo dell'art. 1 del R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), e' sostituito il seguente: 
+Al [comma terzo dell'art. 1 del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), e' sostituito il seguente: 
  
  «Nei Comuni capoluoghi di provincia, che non costituiscono una circoscrizione scolastica e in cui siano istituite piu' direzioni didattiche, una di queste e' affidata di regola a un ispettore scolastico».
 
 ## Art. 2.
 
-Nella formazione della graduatoria dei candidati approvati nell'esame di idoneita' per le promozioni al grado di ispettore scolastico, secondo l'[art. 2, comma terzo, del R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), la Commissione esaminatrice aggiungera' alle votazioni previste dall'[art. 42 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_42), un coefficiente espresso in ventesimi relativo al diploma di abilitazione allo ispettorato didattico conseguito ai sensi dell'[art. 2, lettera b), del R. decreto 13 marzo 1923, n. 736](Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md).
+Nella formazione della graduatoria dei candidati approvati nell'esame di idoneita' per le promozioni al grado di ispettore scolastico, secondo l'[art. 2, comma terzo, del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), la Commissione esaminatrice aggiungera' alle votazioni previste dall'[art. 42 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), un coefficiente espresso in ventesimi relativo al diploma di abilitazione allo ispettorato didattico conseguito ai sensi dell'[art. 2, lettera b), del R. decreto 13 marzo 1923, n. 736](../Regi%20decreti/Che%20detta%20norme%20per%20il%20riordinamento%20degli%20Istituti%20superiori%20di%20magistero.%20023U0736.md).
 
 ## Art. 3.
 
-Al [comma quinto dell'art. 5 del R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sono sostituiti i seguenti comma: 
+Al [comma quinto dell'art. 5 del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sono sostituiti i seguenti comma: 
  
- «I direttori didattici comunali, alle dipendenze dei Comuni che erano tenuti ad avere, oltre il posto di direttore didattico comunale, uno o piu' posti di direttore didattico sezionale ai sensi dell'art. 20 del testo unico, approvato con [R. decreto 5 febbraio 1928, n. 577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), o che di fatto hanno tali posti in organico, sono collocati nel grado di ispettore scolastico. 
+ «I direttori didattici comunali, alle dipendenze dei Comuni che erano tenuti ad avere, oltre il posto di direttore didattico comunale, uno o piu' posti di direttore didattico sezionale ai sensi dell'art. 20 del testo unico, approvato con [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), o che di fatto hanno tali posti in organico, sono collocati nel grado di ispettore scolastico. 
  
  «Ai direttori didattici comunali, che al 31 dicembre 1932 non avevano alle dipendenze direttori sezionali, pur essendo i Comuni tenuti all'istituzione delle direzioni, sara' computato, agli effetti dell'iscrizione nel ruolo degli ispettori scolastici, il servizio prestato come direttori comunali dal 1° gennaio 1932».
 
 ## Art. 4.
 
-Ai direttori didattici comunali e sezionali, che ai sensi dell'[art. 5, comma sesto, del R. decreto 1° luglio 1933, numero 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), siano collocati nel grado decimo, sara' computato agli effetti del collocamento nel grado stesso anche l'eventuale servizio precedentemente prestato nel ruolo del personale di vigilanza dell'istruzione elementare.
+Ai direttori didattici comunali e sezionali, che ai sensi dell'[art. 5, comma sesto, del R. decreto 1° luglio 1933, numero 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), siano collocati nel grado decimo, sara' computato agli effetti del collocamento nel grado stesso anche l'eventuale servizio precedentemente prestato nel ruolo del personale di vigilanza dell'istruzione elementare.
 
 ## Art. 5.
 
-All'[art. 5 del R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sono aggiunti i seguenti comma: 
+All'[art. 5 del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), sono aggiunti i seguenti comma: 
  
  «Coloro che in un Comune furono nominati direttori didattici sezionali con la stessa decorrenza, in seguito ai risultati di un unico concorso, sono inscritti nel ruolo governativo dei direttori in base alla graduatoria di merito del concorso stesso. 
  
@@ -66,13 +66,13 @@ All'[art. 5 del R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20d
 
 ## Art. 6.
 
-Al [primo comma dell'art. 7 del R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), e' sostituito il seguente: 
+Al [primo comma dell'art. 7 del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), e' sostituito il seguente: 
  
  «Il personale di ruolo che, con la qualifiche di ispettore o di sopraintendente scolastico o con qualifica consimile, in effetti esercitava al 31 dicembre 1932 mansioni di vigilanza, sulle direzioni comunali, e' inscritto nel grado di ispettore scolastico ed e' collocato nel ruolo dopo gli ispettori scolastici, di cui al precedente art. 3 e prima dei direttori comunali, di cui al comma quinto dell'art. 5. Esso prende posto in ruolo secondo la rispettiva anzianita' determinata a norma del precedente art. 5».
 
 ## Art. 7.
 
-Al [primo comma dell'art. 13 del R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), e' sostituito il seguente: 
+Al [primo comma dell'art. 13 del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), e' sostituito il seguente: 
  
  «Con decreto del Ministro per l'educazione nazionale gli ispettori centrali per le scuole elementari possono essere destinati, fino al limite di tre, alla direzione dei servizi scolastici dei maggiori Comuni, intendendosi, a tale scopo; assegnati, per la durata dell'incarico, alla circoscrizione, che comprende le scuole del Comune delle quali assumono la vigilanza».
 
@@ -102,13 +102,13 @@ L'aumento della pensione dipendente dall'attribuzione dei benefici riconosciuti 
 
 ### Art. 13.
 
-Il Ministro per l'educazione nazionale e' autorizzato ad emanare con proprie ordinanze, di concerto col Ministro per le finanze, le norme necessarie per l'esecuzione del [R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md). 
+Il Ministro per l'educazione nazionale e' autorizzato ad emanare con proprie ordinanze, di concerto col Ministro per le finanze, le norme necessarie per l'esecuzione del [R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md). 
  
  All'emanazione delle disposizioni regolamentari con le forme e ai sensi dell'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md), dovra' provvedersi entro il 31 marzo 1935.
 
 ### Art. 14.
 
-Nella prima applicazione dell'[art. 2 del R. decreto 1° luglio 1933, n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), i posti che risulteranno disponibili nel grado di ispettore scolastico, dopo il collocamento dei funzionari contemplati all'art. 5, comma quinto, nello stesso R. decreto, saranno conferiti in primo luogo in base a scrutinio dei Consiglio di amministrazione, da eseguirsi ai sensi dell'[art. 28 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_28), fra i direttori didattici governativi che, avendo tenuto l'ufficio ispettivo in dipendenza del [decreto-legge Luogotenenziale 27 aprile 1919, n. 771](Che%20determina%20lordinamento%20del%20servizio%20di%20vigilanza%20sullistruzione%20primaria%20e%20popolare%20stabilendo%20altresi%20le%20norme%20pel%20conferimento%20dellufficio%20di%20provveditore%20agli%20studi%20e%20dei%20posti%20nei_a1b8c49d1b8c.md), passarono poi nel ruolo direttivo per effetto della riduzione di organico attuata dall'[art. 1 del R. decreto 31 dicembre 1922, n. 1679](Che%20stabilisce%20le%20nuove%20tabelle%20organiche%20dellAmministrazione%20centrale%20e%20regionale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20del%20personale%20ispettivo%20e%20didattico%20delle%20scuole%20elementari.%20022U1679.md), e per forza dell'[art. 15 del R. decreto 11 marzo 1923, n. 640](Che%20dispone%20il%20passaggio%20di%20funzionari%20dellAmministrazione%20centrale%20dellistruzione%20pubblica%20e%20dellAmministrazione%20scolastica%20provinciale%20in%20altri%20ruoli%20delle%20Amministrazioni%20medesime.%20023U0640.md). 
+Nella prima applicazione dell'[art. 2 del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), i posti che risulteranno disponibili nel grado di ispettore scolastico, dopo il collocamento dei funzionari contemplati all'art. 5, comma quinto, nello stesso R. decreto, saranno conferiti in primo luogo in base a scrutinio dei Consiglio di amministrazione, da eseguirsi ai sensi dell'[art. 28 del R. decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), fra i direttori didattici governativi che, avendo tenuto l'ufficio ispettivo in dipendenza del [decreto-legge Luogotenenziale 27 aprile 1919, n. 771](Che%20determina%20lordinamento%20del%20servizio%20di%20vigilanza%20sullistruzione%20primaria%20e%20popolare%20stabilendo%20altresi%20le%20norme%20pel%20conferimento%20dellufficio%20di%20provveditore%20agli%20studi%20e%20dei%20posti%20nei_a1b8c49d1b8c.md), passarono poi nel ruolo direttivo per effetto della riduzione di organico attuata dall'[art. 1 del R. decreto 31 dicembre 1922, n. 1679](../Regi%20decreti/Che%20stabilisce%20le%20nuove%20tabelle%20organiche%20dellAmministrazione%20centrale%20e%20regionale%20del%20Ministero%20della%20pubblica%20istruzione%20e%20del%20personale%20ispettivo%20e%20didattico%20delle%20scuole%20elementari.%20022U1679.md), e per forza dell'[art. 15 del R. decreto 11 marzo 1923, n. 640](../Regi%20decreti/Che%20dispone%20il%20passaggio%20di%20funzionari%20dellAmministrazione%20centrale%20dellistruzione%20pubblica%20e%20dellAmministrazione%20scolastica%20provinciale%20in%20altri%20ruoli%20delle%20Amministrazioni%20medesime.%20023U0640.md). 
  
  Ai predetti funzionari, all'atto della promozione ad ispettore scolastico, sara' computato, agli effetti dell'anzianita', il servizio prestato nel grado di ispettore scolastico per effetto del citato [decreto-legge Luogotenenziale 27 aprile 1919, numero 771](Che%20determina%20lordinamento%20del%20servizio%20di%20vigilanza%20sullistruzione%20primaria%20e%20popolare%20stabilendo%20altresi%20le%20norme%20pel%20conferimento%20dellufficio%20di%20provveditore%20agli%20studi%20e%20dei%20posti%20nei_a1b8c49d1b8c.md). 
  
