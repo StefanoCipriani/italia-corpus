@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 68 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto l'art. 68 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati alla Facolta' di scienze politiche, alla Facolta' di lettere e filosofia, alla Facolta' di magistero e alla Facolta' di medicina e chirurgia dell'Universita' di Padova di cui alla tabella D annessa al [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1933-08-31;1592), al [regio decreto-legge 17 agosto 1941, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto.legge:1941-08-17;1064), e al [decreto del Presidente della Repubblica 25 luglio 1952, n. 1373](Approvazione%20della%20Convenzione%20per%20il%20funzionamento%20della%20Facolta%20di%20magistero%20dellUniversita%20di%20Padova.md), e successive modificazioni;
  Visto il parere espresso dal Consiglio superiore della pubblica istruzione nell'adunanza del 13 maggio 1955;
  Sulla proposta del Ministro per la pubblica istruzione;

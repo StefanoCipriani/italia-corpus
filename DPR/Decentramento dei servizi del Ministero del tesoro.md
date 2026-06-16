@@ -134,7 +134,7 @@ Le funzioni di controllo preventivo di competenza delle ragionerie centrali per 
 ### Art. 16.
 
 Alle ragionerie regionali dello Stato sono deferite le funzioni di riscontro amministrativo contabile
- a) sui rendiconti dei funzionari delegati di cui all'[art. 60 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60), esclusi quelli delle Amministrazioni degli esteri, delle finanze, del tesoro, dell'interno e della difesa:
+ a) sui rendiconti dei funzionari delegati di cui all'[art. 60 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), esclusi quelli delle Amministrazioni degli esteri, delle finanze, del tesoro, dell'interno e della difesa:
  b) sui conti giudiziali degli agenti contabili dello Stato di cui all'art. 623 del regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), esclusi quelli delle Amministrazioni delle finanze, del tesoro, dell'interno e della difesa.
 
 ### Art. 17.
@@ -148,7 +148,7 @@ Le disposizioni di cui ai precedenti articoli 16,17 non si applicano ai rendicon
  ((...))
  Ragionerie provinciali dello Stato;
  Ragioneria, presso il Magistrato per il Po.
- Nei confronti dei suddetti funzionari delegati ed agenti contabili continuano a trovare attuazione le disposizioni del [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440) e del Regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827) e successive modifiche. (5)
+ Nei confronti dei suddetti funzionari delegati ed agenti contabili continuano a trovare attuazione le disposizioni del [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e del Regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827) e successive modifiche. (5)
 
 ---------------
 
@@ -187,7 +187,7 @@ E' demandata agli Uffici provinciali del tesoro la liquidazione definitiva delle
 
 ### Art. 24.
 
-Nell'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e' inserito il seguente numero: 
+Nell'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e' inserito il seguente numero: 
  11°) spese per restituzione di tributi e di diritti o di somme indebitamente percette e di somme anticipate da altre Amministrazioni.
 
 ### Art. 25.

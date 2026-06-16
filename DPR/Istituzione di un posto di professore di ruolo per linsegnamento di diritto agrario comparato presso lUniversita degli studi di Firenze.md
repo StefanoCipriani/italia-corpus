@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni;
+Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni;
 
 Veduta la [legge 13 febbraio 1957, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20dellOsservatorio%20italiano%20di%20diritto%20agrario%20in%20Istituto%20di%20diritto%20agrario%20internazionale%20e%20comparato%20con%20sede%20in%20Firenze.md), relativa alla trasformazione dell'Osservatorio italiano di diritto agrario in Istituto di diritto agrario internazionale e comparato con sede in Firenze;
 
@@ -22,7 +22,7 @@ E' approvata, e resa esecutiva l'annessa convenzione stipulata in Firenze in dat
 
 ## Art. 2.
 
-E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo riservato all'insegnamento di diritto agrario comparato in aggiunta a quelli indicati, per la Facolta' di giurisprudenza dell'Universita' di Firenze, nella tabella D annessa al predetto testo unico, e successive modificazioni e integrazioni.
+E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo riservato all'insegnamento di diritto agrario comparato in aggiunta a quelli indicati, per la Facolta' di giurisprudenza dell'Universita' di Firenze, nella tabella D annessa al predetto testo unico, e successive modificazioni e integrazioni.
 
 ## Art. 3.
 

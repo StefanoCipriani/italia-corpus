@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni;
+Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni;
 
 Veduta la [legge 26 luglio 1957, n. 741](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20didattico%20universitario%20approvato%20con%20regio%20decreto%2030%20settembre%201938%20n.%201652%20concernente%20listituzione%20del%20corso%20di%20laurea%20in%20lingue%20e%20letterature%20straniere%20moder_7fbd1541b013.md);
 
@@ -22,7 +22,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Pavia in data 2
 
 ## Art. 2.
 
-E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo riservato all'insegnamento di lingua e letteratura inglese in aggiunta a quelli indicati per la Facolta' di lettere e filosofia dell'Universita' di Pavia nella tabella D annessa al predetto testo unico e successive modificazioni e integrazioni.
+E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo riservato all'insegnamento di lingua e letteratura inglese in aggiunta a quelli indicati per la Facolta' di lettere e filosofia dell'Universita' di Pavia nella tabella D annessa al predetto testo unico e successive modificazioni e integrazioni.
 
 ## Art. 3.
 

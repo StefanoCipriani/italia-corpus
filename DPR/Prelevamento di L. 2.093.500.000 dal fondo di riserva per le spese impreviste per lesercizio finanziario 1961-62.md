@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), 
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), 
  sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
  Visto l'[art. 87, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com4) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della  Repubblica; 
  Viste le [leggi 27 giugno 1961, numeri 543 e 544; 3 agosto 1961,  n. 908; 23 ottobre 1961, numeri 1114 e 1117; 31 ottobre 1961, numeri 1115, 1119 e 1121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-10-31;1121); 

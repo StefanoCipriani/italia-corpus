@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
  Vista la [legge 13 giugno 1952, n. 694](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-13;694), concernente l'istituzione della Facolta' di agraria presso l'Universita' degli studi di Catania;
  Vista la convenzione per il funzionamento della Facolta' predetta, stipulata in Palermo il giorno 19 maggio 1953 tra lo Stato, la Regione siciliana e l'Universita' di Catania;
  Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro;

@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 1, commi secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_1-com2) e [terzo del regio decreto 31 dicembre 1923, n. 3138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3138#art_1-com3);
+ Visto l'[art. 1, commi secondo](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md) e [terzo del regio decreto 31 dicembre 1923, n. 3138](../Regi%20decreti/Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md);
  Visto il decreto Presidenziale 1 novembre 1959, registrato alla Corte dei conti il 25 gennaio 1960, con il quale il distretto notarile di Castrovillari e' stato riunito a quelli di Cosenza e Rossano con capoluogo nel comune di Cosenza;
  Ritenuta la conseguente necessita' di procedere alla riunione dell'Archivio notarile distrettuale di Castrovillari a quello di Cosenza;
  Ritenuta altresi' l'opportunita' di disporre che, fino a quando non sara' possibile la effettiva riunione dei due uffici, l'Archivio notarile di Castrovillari continui a funzionare per le operazioni attinenti agli atti che gia' vi si trovano depositati;

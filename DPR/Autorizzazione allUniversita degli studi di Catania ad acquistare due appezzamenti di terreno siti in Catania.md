@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto il [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni;
+ Veduto il [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni;
  Veduta la domanda con la quale il rettore della Universita' degli studi di Catania, in esecuzione della deliberazione del Consiglio di amministrazione in data 16 maggio 1959 ha chiesto di essere autorizzato ad acquistare da Enrico Luigi Rosso due appezzamenti di terreno siti in Catania, contrada S. Sofia Petraro, di complessivi mq. 79.200 al prezzo risultante dalla relazione di stima dell'Ufficio tecnico erariale di Catania in data 23 maggio 1959 e alle condizioni e modalita' stabilite con i contratti condizionati di compra-vendita stipulati in Catania in data 16 giugno 1959 a rogito del dott.
 Rosario Aloisio, nn. 54 e 55 di repertorio;
  Veduta la legge 5 giugno 1850, n. 1037, sugli acquisti dei corpi morali;

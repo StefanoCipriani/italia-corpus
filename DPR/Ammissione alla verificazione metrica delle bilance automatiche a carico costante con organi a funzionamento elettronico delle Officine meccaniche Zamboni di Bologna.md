@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3a);
+Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3a);
 
-Visto il regolamento per la fabbricazione dei pesi e delle misure, approvato con [regio decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226);
+Visto il regolamento per la fabbricazione dei pesi e delle misure, approvato con [regio decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md);
 
 Vista la [legge 17 luglio 1954, n. 600](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;600), con la quale sono state approvate variazioni ai diritti metrici;
 

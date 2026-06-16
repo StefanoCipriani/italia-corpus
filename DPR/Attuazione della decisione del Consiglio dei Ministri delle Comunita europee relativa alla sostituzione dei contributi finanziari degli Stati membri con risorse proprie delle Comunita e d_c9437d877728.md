@@ -32,7 +32,7 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per le fin
 
 ## Art. 1.
 
-Le somme da corrispondere alla commissione delle Comunita' europee, in relazione alla decisione del 21 aprile 1970 del Consiglio delle Comunita' europee, per le quali si rendono applicabili, le disposizioni dell'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), non impegnate al termine di ogni anno finanziario, debbono essere versate entro la data del 31 dicembre ad apposito conto corrente infruttifero di tesoreria e da questo prelevate nell'esercizio successivo, per essere fatte affluire ad apposito capitolo dello stato di previsione dell'entrata, ai fini della riassegnazione ai competenti capitoli degli stati di previsione della spesa.
+Le somme da corrispondere alla commissione delle Comunita' europee, in relazione alla decisione del 21 aprile 1970 del Consiglio delle Comunita' europee, per le quali si rendono applicabili, le disposizioni dell'[art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), non impegnate al termine di ogni anno finanziario, debbono essere versate entro la data del 31 dicembre ad apposito conto corrente infruttifero di tesoreria e da questo prelevate nell'esercizio successivo, per essere fatte affluire ad apposito capitolo dello stato di previsione dell'entrata, ai fini della riassegnazione ai competenti capitoli degli stati di previsione della spesa.
 
 ## Art. 2.
 

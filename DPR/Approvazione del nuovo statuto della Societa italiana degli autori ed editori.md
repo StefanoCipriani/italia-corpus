@@ -932,7 +932,7 @@ Assolve, infine, ogni altro compito attribuitole da questo statuto e dai regolam
 
 1.
 
-Il comitato indicato all'art. 50 del regolamento per l'esecuzione della legge sul diritto di autore, approvato con [regio decreto 18 maggio 1942, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-18;1369), avente il compito di determinare l'ammontare del diritto demaniale sulla esecuzione dei pezzi staccati di opere musicali o di brevi composizioni, e' costituito in seno alla consulta legale ed e' composto dei rappresentanti dei Ministeri di Grazia e Giustizia e delle Finanze, di due giuristi designati dal consiglio di amministrazione e del consigliere giuridico che ha anche funzioni di segretario.
+Il comitato indicato all'art. 50 del regolamento per l'esecuzione della legge sul diritto di autore, approvato con [regio decreto 18 maggio 1942, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2022%20aprile%201941-XIX%20n.%20633%20per%20la%20protezione%20del%20diritto%20di%20autore%20e%20di%20altri%20diritti%20connessi%20al%20suo%20esercizio.%20042U1369.md), avente il compito di determinare l'ammontare del diritto demaniale sulla esecuzione dei pezzi staccati di opere musicali o di brevi composizioni, e' costituito in seno alla consulta legale ed e' composto dei rappresentanti dei Ministeri di Grazia e Giustizia e delle Finanze, di due giuristi designati dal consiglio di amministrazione e del consigliere giuridico che ha anche funzioni di segretario.
 
 ### Art. 46.
 

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375), modificato con le [leggi 7 marzo 1938, n. 141; 7 aprile 1938, n. 636; 10 giugno 1940, n. 933 e 3 dicembre 1942, n. 1752](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%2012%20della%20legge%207%20marzo%201938-XVI%20n.%20141%20che%20ha%20convertito%20in%20legge%20con%20modificazioni%20il%20R.%20decreto-legge%2012%20marzo%201936-XIV%20n.%20375%20contenente%20disposizioni%20per%20la%20dife_383c722bbb98.md);
- Vista la [legge 10 maggio 1938, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745), ed il [regio decreto 25 maggio 1939, n. 1279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-25;1279);
+ Vista la [legge 10 maggio 1938, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-10;745), ed il [regio decreto 25 maggio 1939, n. 1279](../Regi%20decreti/Attuazione%20della%20legge%2010%20maggio%201938-XVI%20n.%20745%20sullordinamento%20dei%20Monti%20di%20credito%20su%20pegno.%20039U1279.md);
  Visto il [decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691);
  Viste le deliberazioni del Consiglio di amministrazione del Monte di credito su pegno di Avellino, in data 19 aprile 1948 e del commissario del Monte di credito su pegno di Solofra, in data 24 aprile 1948;
  Sentito il Comitato interministeriale per il credito ed il risparmio;

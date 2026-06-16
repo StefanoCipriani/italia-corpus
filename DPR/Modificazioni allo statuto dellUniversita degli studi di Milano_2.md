@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' degli studi di Milano approvato con [regio decreto 22 maggio 1939, numero 1166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Milano.%20039U1166.md), e modificato con [legge 1 giugno 1939, n. 872](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20presso%20la%20Regia%20universita%20di%20Milano%20per%20linsegnamento%20della%20Tecnica%20delle%20operazioni%20chirurgiche.%20039U0872.md), con [regi decreti 26 ottobre 1940, n. 2056](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056), [26 aprile 1942, n. 423 e con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-04-26;423) [27 luglio 1947, n. 1138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138);
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md);
 

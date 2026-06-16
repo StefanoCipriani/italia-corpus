@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' successive modificazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e' successive modificazioni;
 
-Veduto il [decreto del Presidente della Repubblica in data 18 ottobre 1955, n. 915](Istituzione%20di%20un%20posto%20convenzionato%20di%20professore%20di%20ruolo%20presso%20la%20Facolta%20di%20medicina%20e%20chirurgia%20dellUniversita%20di%20Genova.md), col quale venne istituito un posto di professore di ruolo per l'insegnamento di microbiologia presso la Facolta' di medicina e chirurgia dell'Universita' di Genova, ai sensi e per gli effetti degli articoli 63, secondo comma, e 100, secondo comma del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il [decreto del Presidente della Repubblica in data 18 ottobre 1955, n. 915](Istituzione%20di%20un%20posto%20convenzionato%20di%20professore%20di%20ruolo%20presso%20la%20Facolta%20di%20medicina%20e%20chirurgia%20dellUniversita%20di%20Genova.md), col quale venne istituito un posto di professore di ruolo per l'insegnamento di microbiologia presso la Facolta' di medicina e chirurgia dell'Universita' di Genova, ai sensi e per gli effetti degli articoli 63, secondo comma, e 100, secondo comma del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduta la convenzione aggiuntiva, stipulata in Genova in data 5 novembre 1957 per il tramutamento della destinazione originaria del posto di professore di ruolo per l'insegnamento di microbiologia in quello di semeiotica medica;
 

@@ -37,7 +37,7 @@ All'[art. 79 della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-r
 
 ## Art. 4.
 
-L'art. 23 del regolamento per l'esecuzione della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), approvato con [regio decreto 18 maggio 1942, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-18;1369), e' sostituito dal seguente:
+L'art. 23 del regolamento per l'esecuzione della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), approvato con [regio decreto 18 maggio 1942, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2022%20aprile%201941-XIX%20n.%20633%20per%20la%20protezione%20del%20diritto%20di%20autore%20e%20di%20altri%20diritti%20connessi%20al%20suo%20esercizio.%20042U1369.md), e' sostituito dal seguente:
  "La misura del compenso dovuto, ai sensi dell'art. 73 della legge, da chi utilizza a scopo di lucro il disco o altro apparecchio analogo riproduttore di suoni o di voci e' determinata con decreto del Presidente del Consiglio dei Ministri, su proposta del comitato consultivo permanente per il diritto d'autore, in adunanza generale.
  Con la stessa procedura sono determinate le quote e le modalita' di ripartizione con gli artisti interpreti o esecutori del suddetto compenso.
  Le norme di cui sopra sono applicabili in quanto non diversamente stabilito tra le parti".

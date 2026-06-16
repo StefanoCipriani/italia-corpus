@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati, ai sensi del citato testo unico n. 1592, e successive modificazioni, alle Facolta' di Scienze matematiche, fisiche e naturali e di Ingegneria dell'Universita' di Cagliari;
  Visto il parere del Consiglio superiore della pubblica istruzione nella seduta del 19 ottobre 1961;
  Sulla proposta del Ministro per la pubblica istruzione;

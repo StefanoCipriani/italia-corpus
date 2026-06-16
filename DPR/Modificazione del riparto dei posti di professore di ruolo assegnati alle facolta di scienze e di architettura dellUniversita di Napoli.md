@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati alle Facolta' di scienze ed architettura dell'Universita' di Napoli di cui al [regio decreto 29 luglio 1933, n. 1079](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20del%20riparto%20dei%20posti%20di%20professori%20di%20ruolo%20assegnati%20alla%20Facolta%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20alla%20Facolta%20di%20medicina%20e%20chirurgia%20della%20Regia%20universita%20di%20Napoli.%20033U1079.md) ed alla [legge 17 agosto 1941, n. 1064](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20nuovi%20posti%20di%20professore%20di%20ruolo%20presso%20le%20Regie%20universita%20e%20i%20Regi%20istituti%20universitari.%20041U1064.md);
  Visto il parere espresso dal Consiglio superiore della pubblica istruzione nell'adunanza del 29 novembre 1949;
  Sulla proposta del Ministro per la pubblica istruzione;

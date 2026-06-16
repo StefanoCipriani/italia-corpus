@@ -413,7 +413,7 @@ La definizione dei procedimenti amministrativi che hanno comportato assunzione d
 
 2.
 
-Resta, altresi', fino alla data del 31 dicembre 1988, di competenza degli organi statali la definizione dei provvedimenti che trovano il loro finanziamento in somme mantenute nel conto dei residui ai termini del [secondo comma dell'art. 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com2), come modificato dall'[art. 39 della legge 7 agosto 1982, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526#art_39), o di altre disposizioni che ad esso fanno riferimento, ovvero in forza di particolari norme. ((3))
+Resta, altresi', fino alla data del 31 dicembre 1988, di competenza degli organi statali la definizione dei provvedimenti che trovano il loro finanziamento in somme mantenute nel conto dei residui ai termini del [secondo comma dell'art. 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), come modificato dall'[art. 39 della legge 7 agosto 1982, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526#art_39), o di altre disposizioni che ad esso fanno riferimento, ovvero in forza di particolari norme. ((3))
 
 ---------------
 

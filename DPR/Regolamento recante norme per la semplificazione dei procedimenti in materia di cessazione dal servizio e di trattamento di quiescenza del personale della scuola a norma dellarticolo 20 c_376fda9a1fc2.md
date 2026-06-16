@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 20, comma 8, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), allegato 1, n. 35;
 
-Visti gli articoli 509, comma 1, 510, comma 1, e 580, comma 1, del testo unico approvato con [decreto legislativo del 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md);
+Visti gli articoli 509, comma 1, 510, comma 1, e 580, comma 1, del testo unico approvato con [decreto legislativo del 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md);
 
 Visto l'[articolo 1, comma 74, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
 
@@ -48,7 +48,7 @@ La domanda di collocamento a riposo per compimento del quarantesimo anno di serv
 
 4.
 
-Le disposizioni di cui ai commi 2 e 3 si applicano anche alle domande di trattenimento in servizio presentate ai sensi dell'articolo 509, commi 2, 3 e 5, del testo unico approvato con [decreto legislativo del 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), nonche' alle domande di cessazione dal servizio presentate dal personale che abbia ottenuto il predetto trattenimento.
+Le disposizioni di cui ai commi 2 e 3 si applicano anche alle domande di trattenimento in servizio presentate ai sensi dell'articolo 509, commi 2, 3 e 5, del testo unico approvato con [decreto legislativo del 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), nonche' alle domande di cessazione dal servizio presentate dal personale che abbia ottenuto il predetto trattenimento.
 
 5.
 
@@ -94,7 +94,7 @@ Il personale della scuola che abbia gia' presentato la dichiarazione dei servizi
 
 1.
 
-Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), dalla data di entrata in vigore del presente regolamento si intendono abrogate le seguenti disposizioni: articoli 509, ((commi 1 e 4)), 510 e 580 del testo unico, approvato con [decreto legislativo 16 aprile 1994, n. 297, e l'articolo 1, comma 74](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), della [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md).
+Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), dalla data di entrata in vigore del presente regolamento si intendono abrogate le seguenti disposizioni: articoli 509, ((commi 1 e 4)), 510 e 580 del testo unico, approvato con [decreto legislativo 16 aprile 1994, n. 297, e l'articolo 1, comma 74](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), della [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md).
 
 ## Art. 5. — Entrata in vigore
 

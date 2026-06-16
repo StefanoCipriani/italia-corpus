@@ -133,7 +133,7 @@ COMMA ABROGATO DAL [D. LGS. 7 NOVEMBRE 2006, N.289](../Decreti%20Legislativi/Nor
 
 13.
 
-((...)) al concessionario uscente spetta un'indennita' stabilita con le modalita' e i criteri di cui all'[articolo 25 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_25).
+((...)) al concessionario uscente spetta un'indennita' stabilita con le modalita' e i criteri di cui all'[articolo 25 del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md).
 
 14.
 

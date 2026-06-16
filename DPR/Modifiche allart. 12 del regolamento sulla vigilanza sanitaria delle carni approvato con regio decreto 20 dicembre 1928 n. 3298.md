@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), che approva il regolamento sulla, vigilanza sanitaria delle carni;
+Visto il [regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md), che approva il regolamento sulla, vigilanza sanitaria delle carni;
 
 Sentito il Consiglio superiore di sanita';
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la sanita', di concerto con i Ministri per la gr
 
 ## Articolo unico
 
-L'articolo 12 del regolamento sulla vigilanza sanitaria delle carni, approvato con [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e' sostituito dal seguente:
+L'articolo 12 del regolamento sulla vigilanza sanitaria delle carni, approvato con [regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md), e' sostituito dal seguente:
  "L'ispezione sanitaria delle carni deve essere metodica, accurata e minuziosa: tutte le parti dell'animale ivi compreso il sangue, devono essere sottoposte ad ispezione e non possono essere asportate dai locali di macellazione prima che il veterinario abbia emesso il suo giudizio.
  L'ispezione post mortem deve comprendere:
  1) l'esame visivo dell'animale macellato;

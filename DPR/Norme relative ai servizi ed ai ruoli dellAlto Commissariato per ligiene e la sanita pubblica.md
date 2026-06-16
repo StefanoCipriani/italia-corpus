@@ -25,7 +25,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 Ferme restando le attribuzioni dell'Alto Commissariato per l'igiene e la sanita' pubblica, previste dalle disposizioni vigenti, in luogo della Direzione generale dei servizi medici, di cui all'[art. 1 del decreto legislativo 8 maggio 1948, n. 1204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ai%20ruoli%20tecnici%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), sono istituite presso l'Alto Commissariato per l'igiene e la sanita' pubblica:
  1) una Direzione generale dei servizi medici;
  2) una Direzione generale dei servizi veterinari.
- I direttori generali sono nominati nei modi previsti dall'[art. 19 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_19).
+ I direttori generali sono nominati nei modi previsti dall'[art. 19 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Art. 2.
 
@@ -48,7 +48,7 @@ Il Consiglio di amministrazione dell'Alto Commissariato per l'igiene e la sanita
  b) dai direttori generali dell'Alto Commissariato;
  c) dal direttore generale dell'Istituto superiore di sanita';
  d) dal capo del personale.
- Salvo quanto disposto dal precedente comma, si applicano le disposizioni contenute nell'[art. 11 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_11), e successive modificazioni.
+ Salvo quanto disposto dal precedente comma, si applicano le disposizioni contenute nell'[art. 11 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
 
 ## Art. 6.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Veduto il decreto del Presidente della Repubblica 19 maggio 1964, n. 585, con il quale e' stata istituita la Facolta' di scienze matematiche, fisiche e naturali presso l'Universita' di Siena Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro; Decreta:
 
@@ -20,7 +20,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Siena in data 1
 
 ## Art. 2.
 
-E' istituito ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo da destinare all'insegnamento di "Petrografia" in aggiunta a quelli indicati per la Facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Siena nella tabella d) annessa al predetto testo unico e successive modificazioni.
+E' istituito ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo da destinare all'insegnamento di "Petrografia" in aggiunta a quelli indicati per la Facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Siena nella tabella d) annessa al predetto testo unico e successive modificazioni.
 
 ## Art. 3.
 

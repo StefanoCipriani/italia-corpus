@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), che costituisce l'Associazione nazionale per il controllo della combustione;
 
-Visti gli articoli 29 e 30 del regolamento per l'esecuzione del regio decreto-legge suddetto, approvato con [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824);
+Visti gli articoli 29 e 30 del regolamento per l'esecuzione del regio decreto-legge suddetto, approvato con [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md);
 
 Visto il [decreto luogotenenziale 10 agosto 1945, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-10;474), concernente la ripartizione delle attribuzioni e del personale fra il Ministero dell'industria e del commercio ed il Ministero del lavoro e della previdenza sociale;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Gli articoli 29 e 30 del regolamento per l'esecuzione del [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), che costituisce l'Associazione nazionale per il controllo della combustione, approvato con [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), sono sostituiti dai seguenti:
+Gli articoli 29 e 30 del regolamento per l'esecuzione del [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), che costituisce l'Associazione nazionale per il controllo della combustione, approvato con [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), sono sostituiti dai seguenti:
 
  Art. 29. - Il certificato di abilitazione 6 rilasciato dagli uffici dell'Ispettorato del lavoro, in base ai risultati di esami sostenuti dinanzi ad apposita Commissione, nominata dal Ministro per il lavoro e la previdenza sociale e composta:
  1) da un ispettore del lavoro, laureato in ingegneria, di grado non inferiore all'ottavo, appartenente all'ufficio dell'Ispettorato del lavoro nella cui circoscrizione si svolge la sessione di esami, con funzioni di presidente;

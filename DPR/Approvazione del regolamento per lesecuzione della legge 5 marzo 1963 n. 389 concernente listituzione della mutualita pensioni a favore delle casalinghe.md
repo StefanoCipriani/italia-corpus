@@ -175,7 +175,7 @@ Nei casi di soppressione della pensione, l'Istituto procede alla ricostituzione 
 
 ### Art. 26.
 
-Il pagamento delle pensioni viene disposto dall'Istituto con l'osservanza delle norme dell'art. 14 della legge, nonche' delle disposizioni, in quanto applicabili, di cui al titolo VII, capo III, del regolamento approvato con [regio decreto 28 agosto 1924, n. 1422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-28;1422), e successive modificazioni.
+Il pagamento delle pensioni viene disposto dall'Istituto con l'osservanza delle norme dell'art. 14 della legge, nonche' delle disposizioni, in quanto applicabili, di cui al titolo VII, capo III, del regolamento approvato con [regio decreto 28 agosto 1924, n. 1422](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203184%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20linvalidita%20e%20la%20vecchiaia.%20024U1422.md), e successive modificazioni.
 
 ### Art. 27.
 

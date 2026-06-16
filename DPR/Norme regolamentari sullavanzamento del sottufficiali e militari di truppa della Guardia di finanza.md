@@ -126,11 +126,11 @@ I giudizi sulle prove scritte ed orali degli esami per l'avanzamento a scelta al
 
 ### Art. 18.
 
-Per lo svolgimento delle prove scritte si osserveranno, in quanto applicabili, le norme di cui agli [articoli 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_35), [36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_36), [37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_37) e [38 del regio decreto 30 dicembre 1923, numero 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_38), con le deroghe ed integrazioni risultanti dagli articoli seguenti.
+Per lo svolgimento delle prove scritte si osserveranno, in quanto applicabili, le norme di cui agli [articoli 35](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [36](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [37](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [38 del regio decreto 30 dicembre 1923, numero 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), con le deroghe ed integrazioni risultanti dagli articoli seguenti.
 
 ### Art. 19.
 
-Apposite commissioni di vigilanza nominate dal comandante generale e composte di ufficiali del Corpo provvedono a regolare ed a sorvegliare lo svolgimento delle prove scritte e ad adottare i provvedimenti di esclusione dalle prove stesse, di cui all'[art. 36 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_36).
+Apposite commissioni di vigilanza nominate dal comandante generale e composte di ufficiali del Corpo provvedono a regolare ed a sorvegliare lo svolgimento delle prove scritte e ad adottare i provvedimenti di esclusione dalle prove stesse, di cui all'[art. 36 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 20.
 

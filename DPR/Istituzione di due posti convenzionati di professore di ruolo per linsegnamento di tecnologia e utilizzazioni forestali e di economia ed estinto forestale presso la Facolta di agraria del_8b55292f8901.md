@@ -20,7 +20,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Firenze il 27 o
 
 ## Art. 2.
 
-Sono istituiti, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), due posti di professore di ruolo riservati, uno all'insegnamento di tecnologia e utilizzazione forestali (compresa meccanica applicata) e l'altro all'insegnamento di economia ed estimo forestale, in aggiunta a quelli indicati, per la Facolta' di agraria della Universita' di Firenze, nella tabella D annessa al predetto testo unico, e successive modificazioni e integrazioni.
+Sono istituiti, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), due posti di professore di ruolo riservati, uno all'insegnamento di tecnologia e utilizzazione forestali (compresa meccanica applicata) e l'altro all'insegnamento di economia ed estimo forestale, in aggiunta a quelli indicati, per la Facolta' di agraria della Universita' di Firenze, nella tabella D annessa al predetto testo unico, e successive modificazioni e integrazioni.
 
 ## Art. 3.
 

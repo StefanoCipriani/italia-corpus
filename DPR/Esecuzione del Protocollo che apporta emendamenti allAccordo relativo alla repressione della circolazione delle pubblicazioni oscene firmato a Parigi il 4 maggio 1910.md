@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 25 marzo 1911, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-25;855), che da' esecuzione all'Accordo internazionale per la repressione della Circolazione delle pubblicazioni oscene, firmato a Parigi il 4 maggio 1910;
+Visto il [regio decreto 25 marzo 1911, n. 855](../Regi%20decreti/Che%20da%20esecuzione%20allaccordo%20internazionale%20per%20la%20repressione%20della%20circolazione%20delle%20pubblicazioni%20oscene.%20011U0855.md), che da' esecuzione all'Accordo internazionale per la repressione della Circolazione delle pubblicazioni oscene, firmato a Parigi il 4 maggio 1910;
 
 Sentito il Consiglio dei Ministri;
 

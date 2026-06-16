@@ -292,7 +292,7 @@ Il [D.Lgs. 27 dicembre 2019, n. 172](../Decreti%20Legislativi/Disposizioni%20int
 ### Art. 17.
 
 I documenti caratteristici sono compilati dall'autorita' dalla quale il sottufficiale dipende per il servizio e sono sottoposti alla revisione di non piu' di due autorita' gerarchiche superiori nella stessa linea di servizio. 
- COMMA SOPPRESSO DAL [D.P.R. 18 APRILE 2008, N. 91](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2013%20febbraio%201967%20n.%20429%20in%20materia%20di%20documenti%20caratteristici%20degli%20ufficiali%20dei%20sottoufficiali%20e%20dei%20militari%20d_322de4df5e90.md). 
+ COMMA SOPPRESSO DAL [D.P.R. 18 APRILE 2008, N. 91](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2013%20febbraio%201967%20n.%20429%20in%20materia%20di%20documenti%20caratteristici%20degli%20ufficiali%20dei%20sottoufficiali%20e%20dei%20militari%20d_322de4df5e90.md). 
  La revisione del documento caratteristico compete agli ufficiali o funzionari civili dell'organizzazione della guardia di finanza diretti superiori in carica. 
  Non si fa luogo a revisione o a seconda revisione nei casi in cui il compilatore o il primo revisore siano il comandante di corpo o, comunque, ufficiali che rivestano il grado di colonnello o generale, ovvero autorita' civili che rivestano qualifica di direttore di divisione o qualifiche superiori. 
  ((7))

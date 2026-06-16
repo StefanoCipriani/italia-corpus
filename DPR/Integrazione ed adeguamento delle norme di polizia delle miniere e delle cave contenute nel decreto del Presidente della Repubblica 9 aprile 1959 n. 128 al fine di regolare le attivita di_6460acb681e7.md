@@ -671,7 +671,7 @@ Le piattaforme fisse di produzione e strutture assimilabili gia' installate devo
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 14 maggio 2007, n.78](Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20dello%20sviluppo%20economico%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazio_c9fc371d5802.md) ha disposto (con l'art. 1, comma 1) che "E' istituita, presso la Direzione generale per l'energia e le risorse minerarie, la Commissione per gli idrocarburi e le risorse minerarie," nella quale e' accorpata la Commissione Consultiva di cui al presente articolo.
+Il [D.P.R. 14 maggio 2007, n.78](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20dello%20sviluppo%20economico%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazio_c9fc371d5802.md) ha disposto (con l'art. 1, comma 1) che "E' istituita, presso la Direzione generale per l'energia e le risorse minerarie, la Commissione per gli idrocarburi e le risorse minerarie," nella quale e' accorpata la Commissione Consultiva di cui al presente articolo.
 
 ## DIFFIDE - DENUNCE INTERVENTI AMMINISTRATIVI VARI - RICORSI
 

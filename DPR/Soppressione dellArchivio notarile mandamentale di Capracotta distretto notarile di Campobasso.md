@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [regio decreto 9 agosto 1898, n. 377](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20archivio%20notarile%20mandamentale%20nel%20Comune%20di%20Capracotta%20capoluogo%20del%20mandamento%20distretto%20dIsernia.%20098U0377.md), con il quale venne istituito l'Archivio notarile mandamentale di Capracotta (distretto notarile di Campobasso);
- Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili, approvato con [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+ Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili, approvato con [regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
  Viste le deliberazioni dei comuni di Capracotta, Sant'Angelo del Pesco, Pescopennataro, Castel del Giudice, rispettivamente in data 7 aprile 1959, 23 ottobre 1958, 2 novembre 1958, 24 ottobre 1958;
  Visto il parere del conservatore dell'Archivio notarile distrettuale di Campobasso in data 25 luglio 1959;
  Visto il parere del procuratore della Repubblica di Isernia in data 28 luglio 1959;

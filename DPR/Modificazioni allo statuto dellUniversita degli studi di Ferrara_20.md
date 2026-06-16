@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Ferrara_2.md), e modificato con [decreto del Presidente della repubblica 25 luglio 1952, n. 1207](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Ferrara_3.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -74,7 +74,7 @@ Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzio
 
 Scuola speciale per ortottiste
 
-Art. 108. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una Scuola speciale per ortottiste. La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita'.
+Art. 108. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), una Scuola speciale per ortottiste. La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita'.
 
 Essa ha lo scopo di dare una preparazione completa, teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, della ambliopia in genere, per avviarle all'attivita' di ortottiste.
 
@@ -165,7 +165,7 @@ Registrato alla Corte dei conti, addi' 7 novembre 1964 Atti del Governo, registr
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Ferrara_2.md), e modificato con [decreto del Presidente della repubblica 25 luglio 1952, n. 1207](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Ferrara_3.md), e successive modificazioni;
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
@@ -202,7 +202,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Scuola speciale per ortottiste
 
- Art. 108. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una Scuola speciale per ortottiste. La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita'.
+ Art. 108. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), una Scuola speciale per ortottiste. La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita'.
 Essa ha lo scopo di dare una preparazione completa, teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, della ambliopia in genere, per avviarle all'attivita' di ortottiste.
  Art. 100. - La durata del corso degli studi per il conseguimento del diploma di ortottiste e' di due anni.
  Possono essere ammesse alla Scuola allievi dell'eta' non inferiore ai 17 anni, di sana costituzione, rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o del diploma di abilitazione magistrale.

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 2 del regio decreto 3 aprile 1926, n. 746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-03;746#art_2), recante approvazione del regolamento sul servizio automobilistico delle amministrazioni dello Stato, modificato con [decreti del Presidente della Repubblica 9 novembre 1952, n. 1503](Modificazione%20dellart.%202%20del%20regolamento%20sul%20servizio%20automobilistico%20delle%20Amministrazioni%20dello%20Stato%20approvato%20con%20regio%20decreto%203%20aprile%201926%20n.%20746.md), e [31 ottobre 1968, n. 1206](Modifiche%20allart.%202%20del%20regolamento%20sul%20servizio%20automobilistico%20delle%20amministrazioni%20dello%20Stato%20approvato%20con%20regio%20decreto%203%20aprile%201926%20n.%20746.md);
+Visto l'[art. 2 del regio decreto 3 aprile 1926, n. 746](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20automobilistico%20per%20le%20Amministrazioni%20dello%20Stato.%20026U0746.md), recante approvazione del regolamento sul servizio automobilistico delle amministrazioni dello Stato, modificato con [decreti del Presidente della Repubblica 9 novembre 1952, n. 1503](Modificazione%20dellart.%202%20del%20regolamento%20sul%20servizio%20automobilistico%20delle%20Amministrazioni%20dello%20Stato%20approvato%20con%20regio%20decreto%203%20aprile%201926%20n.%20746.md), e [31 ottobre 1968, n. 1206](Modifiche%20allart.%202%20del%20regolamento%20sul%20servizio%20automobilistico%20delle%20amministrazioni%20dello%20Stato%20approvato%20con%20regio%20decreto%203%20aprile%201926%20n.%20746.md);
 
 Udito il parere del Consiglio di Stato;
 

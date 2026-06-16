@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto il [decreto legislativo del Presidente della Repubblica in data 25 marzo 1948, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1948-03-25;195);
  Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1947-1948, esiste la necessaria disponibilita';
  Sentito il Consiglio dei Ministri;

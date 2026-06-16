@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto l'art. 5, ultimo comma, di detto atto 10 luglio 1926;
  Visto l'[art. 5 del decreto legislativo del Capo provvisorio dello Stato 29 novembre 1946, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-29;457#art_5);
  Visto il [decreto legislativo del Presidente della Repubblica 27 marzo 1948, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1948-03-27;396);
- Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
  Sentiti il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato;
  Udito il Consiglio dei Ministri;
  Sulla proposta dei Ministri per i trasporti e per il tesoro, di concerto col Ministro per le finanze;

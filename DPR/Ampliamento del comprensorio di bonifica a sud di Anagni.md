@@ -26,7 +26,7 @@ il parere del provveditorato regionale alle opere pubbliche per il Lazio in data
 
 il voto del Consiglio superiore dell'agricoltura in data 18 luglio 1968;
 
-Che, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215, il Ministero dei lavori pubblici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3) con nota 18 ottobre 1968, n. 1171 e il Ministero del tesoro con nota n. 167278 del 16 novembre 1968, hanno espresso il proprio assenso per la classifica della zona di che trattasi in comprensorio di bonifica di seconda categoria;
+Che, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215, il Ministero dei lavori pubblici](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) con nota 18 ottobre 1968, n. 1171 e il Ministero del tesoro con nota n. 167278 del 16 novembre 1968, hanno espresso il proprio assenso per la classifica della zona di che trattasi in comprensorio di bonifica di seconda categoria;
 
 Ritenuto pertanto che ricorrono le condizioni per far luogo alla occorrente classifica;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le fores
 
 ## Articolo unico.
 
-Il comprensorio di bonifica a sud di Anagni e' ampliato, previa classifica ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), in comprensorio di bonifica di seconda categoria, sulla zona limitrofa al comprensorio stesso, e ricadente nei comuni di Anagni, Ceccano, Morolo, Paliano, Patrica, Sgurgola, Supino e Frosinone, dell'estensione di ha. 14.400, il cui perimetro e' distinto con linea rossa sulla corografia in scala 1: 100.000, che munita del visto del Ministro proponente forma parte integrante del presente decreto.
+Il comprensorio di bonifica a sud di Anagni e' ampliato, previa classifica ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), in comprensorio di bonifica di seconda categoria, sulla zona limitrofa al comprensorio stesso, e ricadente nei comuni di Anagni, Ceccano, Morolo, Paliano, Patrica, Sgurgola, Supino e Frosinone, dell'estensione di ha. 14.400, il cui perimetro e' distinto con linea rossa sulla corografia in scala 1: 100.000, che munita del visto del Ministro proponente forma parte integrante del presente decreto.
 
 Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

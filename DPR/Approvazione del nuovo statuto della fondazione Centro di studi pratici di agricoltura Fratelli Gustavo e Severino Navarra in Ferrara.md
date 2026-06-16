@@ -14,7 +14,7 @@ N.
 
 594.
 
-Decreto del Presidente della Repubblica 5 maggio 1981, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvato il nuovo statuto della fondazione "Centro di studi pratici di agricoltura Fratelli Gustavo e Severino Navarra", in Ferrara, eretta in ente morale con [regio decreto 8 marzo 1923, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-08;726).
+Decreto del Presidente della Repubblica 5 maggio 1981, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvato il nuovo statuto della fondazione "Centro di studi pratici di agricoltura Fratelli Gustavo e Severino Navarra", in Ferrara, eretta in ente morale con [regio decreto 8 marzo 1923, n. 726](../Regi%20decreti/Erezioni%20in%20ente%20morale.%20023U0726.md).
 
 Visto, il Guardasigilli: DARIDA
  Registrato alla Corte dei conti, addi' 17 ottobre 1981

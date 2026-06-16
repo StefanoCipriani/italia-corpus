@@ -60,13 +60,13 @@ nessa con le recenti avverse con-
 dizioni atmosferiche)
  ------------ L. 1.395.000.000 
 
- Poiche', per le assegnazioni predette ricorrono le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede ad esse mediante prelevamento dall'indicato fondo di riserva, in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
+ Poiche', per le assegnazioni predette ricorrono le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede ad esse mediante prelevamento dall'indicato fondo di riserva, in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
 
  Il Ministro per il tesoro: TAVIANI 
 
  IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto l'[art. 87, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com4) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
  Vista la [legge 30 giugno 1960, n. 587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-06-30;587);
  Considerato che sul fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro per l'esercizio finanziario 1960-61, esiste la necessaria disponibilita';

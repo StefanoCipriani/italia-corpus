@@ -59,7 +59,7 @@ Le tasse per gli atti occorrenti nei procedimenti interessanti l'amministrazione
 
 ## Art. 7. — Riscossione coattiva
 
-Per la riscossione coattiva delle tasse e delle relative soprattasse si applicano e disposizioni del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639).
+Per la riscossione coattiva delle tasse e delle relative soprattasse si applicano e disposizioni del testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 8. — Effetti del mancato o ritardato pagamento delle tasse
 

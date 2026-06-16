@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 3 gennaio 1929, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-03;56), con il quale i comuni di Valverde e di Zavattarello (Pavia), furono riuniti in unico Comune denominato "Zavattarello Valverde" con capoluogo a Zavattarello;
+Visto il [regio decreto 3 gennaio 1929, n. 56](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Valverde%20e%20Zavattarello%20in%20un%20solo%20Comune%20con%20denominazione%20Zavattarello-Valverde%20e%20capoluogo%20a%20Zavattarello.%20029U0056.md), con il quale i comuni di Valverde e di Zavattarello (Pavia), furono riuniti in unico Comune denominato "Zavattarello Valverde" con capoluogo a Zavattarello;
 
 Vista l'istanza 25 marzo 1946, con la quale la maggioranza qualificata dei contribuenti del cessato comune di Valverde ne ha chiesto la ricostituzione in Comune autonomo;
 

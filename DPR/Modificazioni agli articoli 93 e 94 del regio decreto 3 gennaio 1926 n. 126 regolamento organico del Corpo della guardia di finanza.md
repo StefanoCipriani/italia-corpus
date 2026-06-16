@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli [articoli 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126#art_93) e [94 del regio decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126#art_94);
+Visti gli [articoli 93](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md) e [94 del regio decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md);
 
 Vista la [legge 23 aprile 1959, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189), recante ordinamento del Corpo della guardia di finanza, e successive modificazioni;
 
@@ -26,7 +26,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-Gli [articoli 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126#art_93) e [94 del regio decreto 3 gennaio 1926, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-03;126#art_94), sono cosi' modificati:
+Gli [articoli 93](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md) e [94 del regio decreto 3 gennaio 1926, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20la%20Regia%20guardia%20di%20finanza.%20026U0126.md), sono cosi' modificati:
  "Art. 93. - I sottufficiali e i militari di truppa del contingente ordinario possono essere trasferiti al contingente di mare, quando ne facciano domanda e provino di possedere l'idoneita' voluta per lo speciale servizio mediante esperimento da compiersi presso la legione allievi od una capitaneria di porto.
  Sono dispensati dall'esperimento gli aspiranti che abbiano i requisiti di cui all'art. 27.
  Il passaggio dal contingente ordinario a quello di mare e' disposto dal comandante generale o, per delega, dal comandante in seconda della Guardia di finanza.

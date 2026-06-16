@@ -18,7 +18,7 @@ Visti i commi 1 e 3 dellarticolo 9 del [decreto-legge 30 dicembre 1993, n. 557](
 
 Visto larticolo [3, comma 154, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), con il quale e' stata disposta la revisione generale delle zone censuarie, delle tariffe destimo, della qualificazione, classificazione e classamento delle unita' immobiliari e dei relativi criteri, nonche' delle commissioni censuarie;
 
-Visto il regolamento per la conservazione del nuovo catasto terreni, approvato con [regio decreto 8 dicembre 1938, n. 2153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-08;2153);
+Visto il regolamento per la conservazione del nuovo catasto terreni, approvato con [regio decreto 8 dicembre 1938, n. 2153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20conservazione%20del%20nuovo%20Catasto%20dei%20terreni.%20038U2153.md);
 
 Visto il regolamento per la formazione del nuovo catasto edilizio urbano, approvato con [decreto del Presidente della Repubblica 1 dicembre 1949, n. 1142](Approvazione%20del%20Regolamento%20per%20la%20formazione%20del%20nuovo%20catasto%20edilizio%20urbano.md);
 
@@ -52,11 +52,11 @@ Emana il seguente regolamento:
 
 1.
 
-Per l'accatastamento delle nuove costruzioni e delle variazioni di costruzioni preesistenti, rurali ai sensi dei criteri previsti dall'articolo 2, ovvero per le costruzioni gia' censite al catasto dei terreni, per le quali vengono meno i requisiti per il riconoscimento della ruralita, si applicano le disposizioni di cui all'[articolo 5 del decreto del Ministro delle finanze 2 gennaio 1998, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1998-01-02;28#art_5).
+Per l'accatastamento delle nuove costruzioni e delle variazioni di costruzioni preesistenti, rurali ai sensi dei criteri previsti dall'articolo 2, ovvero per le costruzioni gia' censite al catasto dei terreni, per le quali vengono meno i requisiti per il riconoscimento della ruralita, si applicano le disposizioni di cui all'[articolo 5 del decreto del Ministro delle finanze 2 gennaio 1998, n. 28](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20tema%20di%20costituzione%20del%20catasto%20dei%20fabbricati%20e%20modalita%20di%20produzione%20ed%20adeguamento%20della%20nuova%20cartografia%20catastale.md).
 
 2.
 
-COMMA SOPPRESSO DAL [D.P.R. 30 DICEMBRE 1999, N. 536](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2023%20marzo%201998%20n.%20139%20concernente%20la%20revisione%20dei%20criteri%20di%20accatastamento%20dei%20fabbricati%20rurali.md).
+COMMA SOPPRESSO DAL [D.P.R. 30 DICEMBRE 1999, N. 536](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2023%20marzo%201998%20n.%20139%20concernente%20la%20revisione%20dei%20criteri%20di%20accatastamento%20dei%20fabbricati%20rurali.md).
 
 3.
 
@@ -72,7 +72,7 @@ Le costruzioni strumentali all'esercizio dell'attivita' agricola diverse dalle a
 
 6.
 
-Fino al 31 dicembre 2000, in deroga a quanto previsto dal comma 1, per le costruzioni rurali, ai sensi dei criteri previsti dallarticolo 2, non denunciate al catasto terreni alla data dell11 marzo 1998, ma preesistenti alla suddetta data, e' consentita la presentazione delle denunce di accatastamento secondo le modalita' previste dallarticolo 114 del regolamento per la conservazione del nuovo catasto dei terreni, approvato con [regio decreto 8 dicembre 1938, n. 2153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-12-08;2153), e dal partagrafo 184 della istruzione XIV (modificata) per la conservazione del nuovo catasto dei terreni, emanata con decreto ministeriale 1 marzo 1949. ((2))
+Fino al 31 dicembre 2000, in deroga a quanto previsto dal comma 1, per le costruzioni rurali, ai sensi dei criteri previsti dallarticolo 2, non denunciate al catasto terreni alla data dell11 marzo 1998, ma preesistenti alla suddetta data, e' consentita la presentazione delle denunce di accatastamento secondo le modalita' previste dallarticolo 114 del regolamento per la conservazione del nuovo catasto dei terreni, approvato con [regio decreto 8 dicembre 1938, n. 2153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20conservazione%20del%20nuovo%20Catasto%20dei%20terreni.%20038U2153.md), e dal partagrafo 184 della istruzione XIV (modificata) per la conservazione del nuovo catasto dei terreni, emanata con decreto ministeriale 1 marzo 1949. ((2))
 
 ----------------
 

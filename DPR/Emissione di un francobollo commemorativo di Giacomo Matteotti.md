@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 21 dei Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 21 dei Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1941, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-04-18;689);
 

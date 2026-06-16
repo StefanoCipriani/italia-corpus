@@ -102,7 +102,7 @@ Avvertenza:
  "29) Procedimento per l'immatricolazione, i passaggi di proprieta' e la reimmatricolazione:
  [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), capo III, sezione III;
  [regio decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436), convertito dalla [legge 19 febbraio 1928, n. 510](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20riguardante%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20registro%20automobilis_468c3b2ba2d0.md);
- [regio decreto 29 luglio 1927, n. 1814](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1814);
+ [regio decreto 29 luglio 1927, n. 1814](../Regi%20decreti/Disposizioni%20di%20attuazione%20e%20transitorie%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20concernente%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20_9ce09a15aff5.md);
  [legge 23 dicembre 1977, n. 952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-23;952);
  [legge 9 luglio 1990, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-09;187);
  [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).".

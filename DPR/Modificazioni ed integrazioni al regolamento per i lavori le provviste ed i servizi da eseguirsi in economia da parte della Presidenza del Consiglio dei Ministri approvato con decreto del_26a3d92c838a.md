@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), di approvazione del relativo regolamento;
+Visti l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), di approvazione del relativo regolamento;
 
 Visto il [decreto del Presidente della Repubblica 5 giugno 1985, n. 359](Regolamento%20per%20i%20lavori%20le%20provviste%20e%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri.md), concernente approvazione del regolamento per i lavori, le provviste ed i servizi da eseguirsi in economia da parte della Presidenza del Consiglio dei Ministri;
 
@@ -37,7 +37,7 @@ AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il [quinto comma dell'art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) stabilisce che il Presidente della Repubblica promulga le leggi ed emana i decreti aventi valore di legge e i regolamenti.
- - Il testo vigente dell'[art. 8 del R.D. 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), e' il seguente:
+ - Il testo vigente dell'[art. 8 del R.D. 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e' il seguente:
  "Art. 8. - I servizi che per la loro natura debbono farsi in economia sono determinati e retti da speciali regolamenti approvati con decreto del Presidente della Repubblica previo parere del Consiglio di Stato.
  Quando ricorrano speciali circostanze potranno eseguirsi in economia, in base ad autorizzazione data con decreto motivato del Ministro, servizi non preveduti dai regolamenti. Sara' in tal caso sentito il Consiglio di Stato, ove l'importo superi le L. 7.200.000".
  Nota all'art. 1:

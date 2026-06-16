@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27), col quale venne istituita presso il Ministero del tesoro una Commissione permanente tecnico-artistica per l'esame dei coni delle monete e per lo studio delle questioni affini o attinenti alla monetazione;
+Visto il [regio decreto 29 gennaio 1905, n. 27](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md), col quale venne istituita presso il Ministero del tesoro una Commissione permanente tecnico-artistica per l'esame dei coni delle monete e per lo studio delle questioni affini o attinenti alla monetazione;
 
 Ritenuta la opportunita' di avvalersi dell'opera della predetta Commissione nei riguardi dell'allestimento della nuova monetazione metallica;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il tesoro; Decreta
 
 ## Art. 1.
 
-La Commissione permanente tecnico-artistica di cui al [regio decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27), con l'incarico di esaminare i tipi delle nuove monete metalliche nazionali ed i relativi coni e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, allo scopo di mantenere intatte le tradizioni artistico-monetarie nazionali, e' composta come appresso: 
+La Commissione permanente tecnico-artistica di cui al [regio decreto 29 gennaio 1905, n. 27](../Regi%20decreti/Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md), con l'incarico di esaminare i tipi delle nuove monete metalliche nazionali ed i relativi coni e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, allo scopo di mantenere intatte le tradizioni artistico-monetarie nazionali, e' composta come appresso: 
  presidente: 
  il Sottosegretario di Stato per il tesoro; 
  vice presidente: 

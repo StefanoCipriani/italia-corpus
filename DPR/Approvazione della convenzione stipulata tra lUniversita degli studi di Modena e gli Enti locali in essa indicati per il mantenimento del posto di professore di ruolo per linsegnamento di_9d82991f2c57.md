@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Veduto il [regio decreto 28 maggio 1936, n. 1162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%20stipulata%20fra%20la%20Regia%20universita%20ed%20alcuni%20enti%20locali%20della%20provincia%20di%20Modena%20per%20linsegnamento%20della%20radiologia%20e%20terapia%20fisica%20presso%20la%20Facolta%20di%20m_01036be292a0.md), in virtu' del quale fu approvata e resa esecutiva la convenzione stipulata in Modena in data 20 marzo 1936 tra l'Universita' di Modena e gli Enti locali in essa indicati, per la istituzione di un posto di professore di ruolo convenzionato presso la Facolta' di medicina e chirurgia dell'Universita' medesima, da destinarsi all'insegnamento di radiologia;
 

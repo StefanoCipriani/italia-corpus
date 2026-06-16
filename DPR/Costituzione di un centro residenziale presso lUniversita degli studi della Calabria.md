@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;442#art_1), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;442#art_11) e [15 della legge 12 marzo 1968, n. 442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;442#art_15), con i quali, considerato il carattere residenziale della Universita' degli studi della Calabria, e' prevista la realizzazione di un centro residenziale, dotato delle necessarie attrezzature, ricreative, associative e sanitarie, destinato ad accogliere il personale insegnante e non insegnante, al quale incombe l'obbligo della stabile residenza in sede, nonche' una quota non inferiore al 70% degli studenti iscritti ai corsi di laurea e di specializzazione;
 

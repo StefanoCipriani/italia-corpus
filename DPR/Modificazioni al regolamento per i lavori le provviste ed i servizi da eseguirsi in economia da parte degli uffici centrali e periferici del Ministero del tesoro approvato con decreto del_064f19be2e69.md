@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), concernente: "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato";
+Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente: "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato";
 
 Visto il regolamento per i lavori, le provviste ed i servizi da eseguirsi in economia da parte degli uffici centrali e periferici del Ministero del tesoro, approvato con [decreto del Presidente della Repubblica 11 gennaio 1977, n. 359](Approvazione%20del%20regolamento%20per%20i%20lavori%20le%20provviste%20ed%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20degli%20uffici%20centrali%20e%20periferici%20del%20Ministero%20del%20tesoro.md);
 

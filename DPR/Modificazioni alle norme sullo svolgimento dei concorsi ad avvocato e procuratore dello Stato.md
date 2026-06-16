@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il regolamento per l'esecuzione del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612);
+Visto il regolamento per l'esecuzione del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md);
 
 Visto il [decreto del Presidente della Repubblica 31 marzo 1972, n. 211](Modifiche%20alle%20disposizioni%20per%20la%20esecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20d_1d0e8601812a.md);
 
@@ -28,7 +28,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-L'[art. 21 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_21), e' sostituito dal seguente:
+L'[art. 21 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e' sostituito dal seguente:
  "A ciascun candidato sono consegnate due buste di uguale colore, una grande munita di un tagliando con numero progressivo ed una piccola contenente un cartoncino bianco. Sul tagliando deve essere scritto il numero corrispondente a quello segnato sulla tessera di riconoscimento inviata al candidato.
  Il candidato, compiuto il proprio lavoro senza apporre sottoscrizioni od altro contrassegno, lo inserisce nella busta grande, in minuta ed in copia, o soltanto in minuta se la copia non sia stata fatta. Il candidato scrive sul cartoncino il proprio nome, cognome, data e luogo di nascita; quindi, messo il cartoncino nella busta piccola, la suggella e la inserisce nella busta grande, che richiude e rimette al presidente della commissione o a chi, nel momento, ne fa le veci.
  Il presidente o commissario, dopo aver accertato che il numero segnato sul tagliando corrisponde a quello della tessera, appone la firma trasversalmente sulla busta, in modo che vi resti compreso il lembo di chiusura e la restante parte della busta stessa.
@@ -37,7 +37,7 @@ L'[art. 21 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it
 
 ## Art. 2.
 
-L'[art. 24 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_24), e' sostituito dal seguente:
+L'[art. 24 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e' sostituito dal seguente:
  "Nel giorno e nell'ora che saranno comunicati ai candidati dal presidente all'inizio dell'ultima prova, la commissione in seduta pubblica, constatata l'integrita' dei sigilli e delle firme, apre i pieghi contenenti i lavori, raggruppa le buste aventi lo stesso numero e, dopo aver staccato i tagliandi, le chiude in una unica busta piu' grande. Su questa viene apposto un numero progressivo soltanto quando e' ultimata l'operazione di raggruppamento per tutti i lavori, avendo cura di rimescolare le buste prima di apporre il numero.
  Tutte le buste, debitamente numerate, sono poi raccolte in uno o piu' pieghi suggellati dal presidente e firmati dal presidente medesimo, da un altro membri della commissione e dal segretario.
  Compiute le operazioni di cui sopra, la commissione e' convocata nel termine di giorni cinque per iniziare lo esame dei lavori.
@@ -51,7 +51,7 @@ L'[art. 24 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it
 
 ## Art. 3.
 
-Il [secondo comma dell'art. 11 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_11-com2), e' sostituito dal seguente:
+Il [secondo comma dell'art. 11 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e' sostituito dal seguente:
  "Si considerano presentate in tempo utile anche le domande di ammissione spedite a mezzo raccomandata con avviso di ricevimento entro il termine di cui al precedente comma. Non sono prese in considerazione le domande presentate oltre il termine stabilito o non regolarmente documentate".
 
 ## Art. 4.

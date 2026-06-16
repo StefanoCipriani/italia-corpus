@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la richiesta dell'Ente di colonizzazione del lati fondo siciliano per la classifica tra i comprensori di bonifica, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), della zona situata a nord-est e sudest di Canicattini Bagni, in provincia di Siracusa, della superficie di circa 500 Ha., suscettibile di essere irrigata con le acque del torrente Cardinali;
+Vista la richiesta dell'Ente di colonizzazione del lati fondo siciliano per la classifica tra i comprensori di bonifica, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), della zona situata a nord-est e sudest di Canicattini Bagni, in provincia di Siracusa, della superficie di circa 500 Ha., suscettibile di essere irrigata con le acque del torrente Cardinali;
 
 Sentito il Comitato speciale per la bonifica;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con 
 
 ## Articolo unico.
 
-Il territorio, costituito dalle contrade Pignati, Cugno Pignati, Pozzillo, Scala Bagni, Pastochito, Balatazza, Palombara, Bosco di sopra, Bosco di sotto, in agro di Canicattini Bagni, in provincia di Siracusa, della superficie di circa 500 Ha., suscettibile di essere irrigato con le acque del torrente Cardinali, delimitato a nord ed a nord-est con la Cava, a sud e sud-ovest con il confine territoriale dei comuni di Floridia e di Siracusa, con il vallone Cugno di Lupo, con l'abitato di Canicattini Bagni e con la strada comunale che da tale abitato conduce al macello, e' classificato tra i comprensori di bonifica, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), in base alla corografia che, vistata dal Ministro proponente, forma parte integrante del presente decreto.
+Il territorio, costituito dalle contrade Pignati, Cugno Pignati, Pozzillo, Scala Bagni, Pastochito, Balatazza, Palombara, Bosco di sopra, Bosco di sotto, in agro di Canicattini Bagni, in provincia di Siracusa, della superficie di circa 500 Ha., suscettibile di essere irrigato con le acque del torrente Cardinali, delimitato a nord ed a nord-est con la Cava, a sud e sud-ovest con il confine territoriale dei comuni di Floridia e di Siracusa, con il vallone Cugno di Lupo, con l'abitato di Canicattini Bagni e con la strada comunale che da tale abitato conduce al macello, e' classificato tra i comprensori di bonifica, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), in base alla corografia che, vistata dal Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

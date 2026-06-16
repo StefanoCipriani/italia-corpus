@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [regio decreto-legge 8 ottobre 1925, n. 2500](../Atti%20normativi%20abrogati%20%28in%20originale%29/Quota%20a%20carico%20degli%20interessati%20nei%20lavori%20che%20il%20servizio%20telegrafico%20eseguisce%20a%20totale%20rimborso%20di%20spese%20a%20richiesta%20e%20per%20conto%20di%20altre%20Amministrazioni%20statali%20Societa%20Enti%20diversi%20_5f2bda8be08b.md);
 
-Visto l'[art. 8 del regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645#art_8);
+Visto l'[art. 8 del regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Visto il [regio decreto 10 luglio 1941, n. 1198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-07-10;1198);
 

@@ -34,7 +34,7 @@ il parere del provveditorato regionale alle opere pubbliche di Campobasso n. 921
 
 il parere del Consiglio superiore dell'agricoltura del 27 febbraio 1969;
 
-le note n. 1477 del 23 maggio 1969 e 8 settembre 1969, n. 132656, con le quali rispettivamente il Ministero dei lavori pubblici ed il Ministero del tesoro, hanno espresso, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3), il proprio assenso per la classifica della zona di che trattasi in comprensorio di bonifica di seconda categoria;
+le note n. 1477 del 23 maggio 1969 e 8 settembre 1969, n. 132656, con le quali rispettivamente il Ministero dei lavori pubblici ed il Ministero del tesoro, hanno espresso, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), il proprio assenso per la classifica della zona di che trattasi in comprensorio di bonifica di seconda categoria;
 
 Considerato che, in relazione anche al parere favorevole espresso dal consorzio di bonifica Larinese circa la richiesta formulata con le due opposizioni, la corografia in scala 1: 100.000 e' stata opportunamente rettificata come risulta dalla nota 1529 del 17 dicembre 1969, per cui il perimetro esterno della zona da classificare e' quello indicato con linea a tratti e due punti e quello interno con linea tratteggiata di coloritura nera, il tutto racchiuso dalla linea continua rossa;
 
@@ -48,7 +48,7 @@ In conformita' delle premesse, le opposizioni presentate dall'ispettorato ripart
 
 ## Art. 2.
 
-La zona comprendente i territori dei comuni di Montorio dei Frentani, Montelongo di Bonefro, Colletorto e San Giuliano di Puglia, dell'estensione complessiva di ha. 12.818 circa, e' classificata, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), in comprensorio di bonifica di seconda categoria, il cui perimetro esterno e' distinto con linea a tratti e due punti e quello interno con linea tratteggiata di coloritura nera, il tutto racchiuso da linea continua rossa nell'allegata corografia in scala 1: 100.000, che, vistata dal Ministro proponente, forma parte integrante del presente decreto.
+La zona comprendente i territori dei comuni di Montorio dei Frentani, Montelongo di Bonefro, Colletorto e San Giuliano di Puglia, dell'estensione complessiva di ha. 12.818 circa, e' classificata, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), in comprensorio di bonifica di seconda categoria, il cui perimetro esterno e' distinto con linea a tratti e due punti e quello interno con linea tratteggiata di coloritura nera, il tutto racchiuso da linea continua rossa nell'allegata corografia in scala 1: 100.000, che, vistata dal Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

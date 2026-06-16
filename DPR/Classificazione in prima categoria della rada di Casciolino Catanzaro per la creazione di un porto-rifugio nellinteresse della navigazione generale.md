@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095), sui porti, spiagge e fari ed il relativo regolamento approvato con [regio decreto 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-09-26;713);
+ Visto il [regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), sui porti, spiagge e fari ed il relativo regolamento approvato con [regio decreto 26 settembre 1904, n. 713](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%202%20aprile%201885%20testo%20unico%20n.%203095%20sui%20porti%20spiaggie%20e%20fari.%20004U0713.md);
  Considerato che lungo il tratto di litorale jonico tra Reggio Calabria e Crotone non esiste alcun rifugio in cui il naviglio, sorpreso dal maltempo, possa ricoverarsi;
  Ritenuta la necessita' di provvedere, nell'interesse della navigazione generale, alla creazione di un porto rifugio lungo il tratto di litorale suddetto;
  Considerato che la rada di "Casciolino" nel comune di Catanzaro Marina, ha i necessari requisiti per la creazione di un porto-rifugio;

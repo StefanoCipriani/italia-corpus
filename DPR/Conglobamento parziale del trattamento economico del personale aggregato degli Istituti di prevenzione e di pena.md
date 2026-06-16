@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Le tabelle delle retribuzioni spettanti al personale aggregato degli Istituti di prevenzione e di pena (sanitari, cappellani, suore, maestri e insegnanti diversi, farmacisti e veterinari), disciplinato dal [regio decreto-legge 30 ottobre 1924, n. 1758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-30;1758), e dal [regio decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497), sono sostituite con quelle annesse al presente decreto.
+Le tabelle delle retribuzioni spettanti al personale aggregato degli Istituti di prevenzione e di pena (sanitari, cappellani, suore, maestri e insegnanti diversi, farmacisti e veterinari), disciplinato dal [regio decreto-legge 30 ottobre 1924, n. 1758](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-30;1758), e dal [regio decreto 4 aprile 1935, n. 497](../Regi%20decreti/Modificazioni%20alle%20piante%20organiche%20dei%20personali%20amministrativo%20alienistico%20di%20educazione%20e%20sorveglianza%20tecnico%20industriale%20ed%20agricolo%20e%20del%20personale%20aggregato%20degli%20Istituti%20di%20preve_292b22be6329.md), sono sostituite con quelle annesse al presente decreto.
 
 ## Art. 2.
 

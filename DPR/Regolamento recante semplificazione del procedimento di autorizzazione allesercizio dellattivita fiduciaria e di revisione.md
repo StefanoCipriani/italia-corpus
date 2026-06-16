@@ -20,7 +20,7 @@ Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bila
 
 Vista la [legge 23 novembre 1939, n. 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1966);
 
-Visto il [regio decreto 22 aprile 1940, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-22;531);
+Visto il [regio decreto 22 aprile 1940, n. 531](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2023%20novembre%201939-XVIII%20n.%201966%20circa%20la%20disciplina%20delle%20societa%20fiduciarie%20e%20di%20revisione.%20040U0531.md);
 
 Vista la [legge 2 gennaio 1991, n. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellattivita%20di%20intermediazione%20mobiliare%20e%20disposizioni%20sullorganizzazione%20dei%20mercati%20mobiliari.md), e, in particolare, gli articoli 17 e 18;
 
@@ -113,7 +113,7 @@ L'esercizio dell'attivita' fiduciaria e l'esercizio dell'attivita' di revisione 
 
 2.
 
-La domanda di autorizzazione deve essere presentata al Ministero e deve essere corredata dei documenti richiesti dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-22;531#art_1) e [2 del regio decreto 22 aprile 1940, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-22;531#art_2) e degli elementi informativi da determinare con decreto del Ministero entro trenta giorni dalla data di entrata in vigore del presente regolamento.
+La domanda di autorizzazione deve essere presentata al Ministero e deve essere corredata dei documenti richiesti dagli [articoli 1](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2023%20novembre%201939-XVIII%20n.%201966%20circa%20la%20disciplina%20delle%20societa%20fiduciarie%20e%20di%20revisione.%20040U0531.md) e [2 del regio decreto 22 aprile 1940, n. 531](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2023%20novembre%201939-XVIII%20n.%201966%20circa%20la%20disciplina%20delle%20societa%20fiduciarie%20e%20di%20revisione.%20040U0531.md) e degli elementi informativi da determinare con decreto del Ministero entro trenta giorni dalla data di entrata in vigore del presente regolamento.
 
 3.
 
@@ -123,7 +123,7 @@ Con dichiarazione sostitutiva, sottoscritta dall'interessato ai sensi dell'[art.
                         b)
                             per il personale della societa', il possesso del titolo di studio idoneo all'iscrizione in uno degli albi professionali, il possesso della cittadinanza e moralita', richieste per l'iscrizione negli albi medesimi;
                         c)
-                            per i componenti del collegio sindacale, l'iscrizione negli albi professionali ai sensi dell'art. 2, comma 1, punto 3, [lettera c), del regio decreto 22 aprile 1940, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-22;531#art_letc).
+                            per i componenti del collegio sindacale, l'iscrizione negli albi professionali ai sensi dell'art. 2, comma 1, punto 3, [lettera c), del regio decreto 22 aprile 1940, n. 531](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2023%20novembre%201939-XVIII%20n.%201966%20circa%20la%20disciplina%20delle%20societa%20fiduciarie%20e%20di%20revisione.%20040U0531.md).
 
 4.
 
@@ -197,7 +197,7 @@ Entro novanta giorni dall'entrata in vigore del presente regolamento, il Ministr
 
 2.
 
-Dall'entrata in vigore del presente regolamento sono abrogate le seguenti norme: [art. 2, comma 1, della legge 23 novembre 1939, n. 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1966#art_2-com1), nella parte in cui prevede il concerto del Ministro di grazia e giustizia; [art. 4 del regio decreto 22 aprile 1940, n. 531](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-22;531#art_4).
+Dall'entrata in vigore del presente regolamento sono abrogate le seguenti norme: [art. 2, comma 1, della legge 23 novembre 1939, n. 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-23;1966#art_2-com1), nella parte in cui prevede il concerto del Ministro di grazia e giustizia; [art. 4 del regio decreto 22 aprile 1940, n. 531](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2023%20novembre%201939-XVIII%20n.%201966%20circa%20la%20disciplina%20delle%20societa%20fiduciarie%20e%20di%20revisione.%20040U0531.md).
 
 Note all'[art. 4:
  - Il decreto del Ministro dell'industria, del commercio e dell'artigianato n. 329/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato:decreto:1993;329#art_4) reca: "Regolamento di attuazione degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_2) e [4 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_4), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi, relativamente alla determinazione dei termini entro i quali debbono essere adottati i provvedimenti di competenza dell'Amministrazione dell'industria, del commercio e dell'artigianato e degli uffici responsabili della relativa istruttoria ed emanazione" (pubblicato nella Gazzetta Ufficiale n. 81 del 28 agosto 1993).

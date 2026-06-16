@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
  Vista la [legge 26 dicembre 1960, n. 1581](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-26;1581);
  Visto il [decreto del Presidente della Repubblica 31 dicembre 1960, n. 1890](Assegnazione%20ad%20Universita%20ed%20Istituti%20di%20istruzione%20superiore%20del%20quattro%20posti%20di%20professore%20di%20ruolo%20istituiti%20con%20la%20legge%2026%20dicembre%201960%20n.%201581.md), con il quale sono stati assegnati alle Universita' i quattro posti di professore di ruolo istituiti con la legge sopra indicata;
  Considerato che la Facolta' di Lettere e filosofia della Universita' di Napoli ha ritenuto di non poter avvalersi della cattedra di Letteratura anglo-americana assegnata col [decreto del Presidente della Repubblica 31 dicembre 1960, n. 1890](Assegnazione%20ad%20Universita%20ed%20Istituti%20di%20istruzione%20superiore%20del%20quattro%20posti%20di%20professore%20di%20ruolo%20istituiti%20con%20la%20legge%2026%20dicembre%201960%20n.%201581.md);

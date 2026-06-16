@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-17;726), ed il relativo regolamento di esecuzione, approvato con [regio decreto 17 giugno 1935, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-17;856);
+Visti il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](../Testi%20Unici/Testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0726.md), ed il relativo regolamento di esecuzione, approvato con [regio decreto 17 giugno 1935, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-17;856);
 
 Vista la [legge 25 settembre 1940, n. 1424](../Atti%20normativi%20abrogati%20%28in%20originale%29/Legge%20doganale.%20040U1424.md);
 

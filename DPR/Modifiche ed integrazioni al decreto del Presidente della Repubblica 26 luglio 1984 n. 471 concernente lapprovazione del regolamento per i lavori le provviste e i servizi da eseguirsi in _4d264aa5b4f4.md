@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato e il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), di approvazione del relativo regolamento;
+Visti l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato e il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), di approvazione del relativo regolamento;
 
 Visto il [decreto del Presidente della Repubblica 30 novembre 1979, n. 718](Approvazione%20del%20regolamento%20per%20le%20gestioni%20dei%20cassieri%20e%20dei%20consegnatari%20delle%20amministrazioni%20dello%20Stato.md), di approvazione del regolamento per le gestioni affidate ai consegnatari-cassieri delle amministrazioni dello Stato;
 
-Visto il testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214);
+Visto il testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
 
 Vista la [legge 21 dicembre 1961, n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-21;1345);
 
@@ -35,7 +35,7 @@ EMANA il seguente decreto:
 ## Art. 1.
 
 L'art. 1 del regolamento approvato con [decreto del Presidente della Repubblica 26 luglio 1984, n. 471](Approvazione%20del%20regolamento%20per%20i%20lavori%20le%20provviste%20e%20i%20servizi%20da%20eseguirsi%20in%20economia%20da%20parte%20degli%20uffici%20centrali%20e%20regionali%20della%20Corte%20dei%20conti.md), e' sostituito dal seguente:
- "Art. 1. - I lavori, le provviste e i servizi che, ai sensi dell'[art. 8 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), e successive modificazioni, per la loro natura debbono farsi in economia, sempre che la competenza non spetti per legge al Provveditorato generale dello Stato, sono i seguenti:
+ "Art. 1. - I lavori, le provviste e i servizi che, ai sensi dell'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, per la loro natura debbono farsi in economia, sempre che la competenza non spetti per legge al Provveditorato generale dello Stato, sono i seguenti:
  1) lavori di riparazione, adattamento e manutenzione dei locali demaniali con i relativi impianti, infissi e manufatti adibiti ad uso degli uffici centrali e regionali della Corte dei conti, salva la competenza degli uffici del genio civile per i lavori di straordinaria manutenzione;
  2) lavori ordinari di manutenzione, adattamento e riparazione di locali con i relativi impianti, infissi e manufatti, presi in affitto ad uso degli uffici centrali e regionali della Corte dei conti, nei casi in cui per legge o per contratto le spese siano a carico del locatario;
  3) pulizia, illuminazione e riscaldamento dei locali adibiti a sede degli uffici regionali a carico della Corte dei conti per legge o per contratto;

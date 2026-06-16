@@ -12,8 +12,8 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
- Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati, ai sensi del [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni, alla Facolta' di ingegneria dell'Universita' di Roma ed alla Facolta' di ingegneria dell'Universita' di Pisa;
+ Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
+ Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati, ai sensi del [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni, alla Facolta' di ingegneria dell'Universita' di Roma ed alla Facolta' di ingegneria dell'Universita' di Pisa;
  Visto il parere espresso dal Consiglio superiore della pubblica istruzione nella seduta del 31 ottobre 1959;
  Sulla proposta del Ministro per la pubblica istruzione;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 25 marzo 1923, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;599), concernente le Ragionerie delle amministrazioni centrali e successive disposizioni;
+Visto il [regio decreto 25 marzo 1923, n. 599](../Regi%20decreti/Concernente%20disposizioni%20per%20il%20funzionamento%20delle%20ragionerie%20delle%20Amministrazioni%20centrali%20e%20per%20il%20passaggio%20del%20relativo%20personale%20alla%20dipendenza%20del%20Ministero%20delle%20finanze.%20023U0599.md), concernente le Ragionerie delle amministrazioni centrali e successive disposizioni;
 
 Visto il [decreto del Capo provvisorio dello Stato 22 settembre 1947, n. 1288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-09-22;1288), concernente la conservazione - in via transitoria - della Ragioneria centrale del soppresso Ministero dell'assistenza post-bellica, presso la Direzione generale dell'assistenza post-bellica dell'interno;
 

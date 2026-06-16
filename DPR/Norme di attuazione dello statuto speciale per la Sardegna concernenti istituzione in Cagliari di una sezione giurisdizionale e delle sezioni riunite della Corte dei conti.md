@@ -60,8 +60,8 @@ La Corte Costituzionale, con sentenza 12-18 luglio 1984, n. 212 (in G.U. 1a s.s.
 
 ## Art. 4.
 
-Contro le decisioni della sezione giurisdizionale nei giudizi di cui all'art. 2, lettere a), b) e d), limitatamente alla materia di contabilita' pubblica, e' ammesso l'appello alle sezioni riunite della Corte dei conti, ai sensi dell'art. 67 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214).
- Le sezioni riunite regionali di cui al successivo art. 8 deliberano in conformita' degli articoli 40 e 41 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), sul rendiconto generale della regione verificato dalla sezione di controllo. La deliberazione e la relazione sul rendiconto sono trasmesse contemporaneamente al presidente del consiglio regionale e al presidente della giunta regionale. ((1))
+Contro le decisioni della sezione giurisdizionale nei giudizi di cui all'art. 2, lettere a), b) e d), limitatamente alla materia di contabilita' pubblica, e' ammesso l'appello alle sezioni riunite della Corte dei conti, ai sensi dell'art. 67 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md).
+ Le sezioni riunite regionali di cui al successivo art. 8 deliberano in conformita' degli articoli 40 e 41 del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), sul rendiconto generale della regione verificato dalla sezione di controllo. La deliberazione e la relazione sul rendiconto sono trasmesse contemporaneamente al presidente del consiglio regionale e al presidente della giunta regionale. ((1))
 
 ---------------
 
@@ -82,7 +82,7 @@ La Corte Costituzionale, con sentenza 12-18 luglio 1984, n. 212 (in G.U. 1a s.s.
 
 ## Art. 6.
 
-I giudizi indicati nell'art. 2 sono regolati, per quanto non previsto nel presente decreto, dalle norme del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), da quelle del regolamento di procedura, approvato con [regio decreto 13 agosto 1933, n. 1038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md), nonche' dalle successive modificazioni e integrazioni e dalle altre norme che saranno emanate per regolare i giudizi dinanzi alla Corte dei conti.
+I giudizi indicati nell'art. 2 sono regolati, per quanto non previsto nel presente decreto, dalle norme del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), da quelle del regolamento di procedura, approvato con [regio decreto 13 agosto 1933, n. 1038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md), nonche' dalle successive modificazioni e integrazioni e dalle altre norme che saranno emanate per regolare i giudizi dinanzi alla Corte dei conti.
  Fatto salvo il disposto di cui all'art. 3, fino a quando la regione non avra' disciplinato con proprie norme il rendimento dei conti dei propri tesorieri ed agenti contabili, si osservano, in quanto applicabili, le disposizioni vigenti in tema di contabilita' generale dello Stato. ((1))
 
 ---------------
@@ -132,7 +132,7 @@ La Corte Costituzionale, con sentenza 12-18 luglio 1984, n. 212 (in G.U. 1a s.s.
 
 ## Art. 9.
 
-((ARTICOLO ABROGATO DAL [D.P.R. 30 MAGGIO 2002, N. 115](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md) ))
+((ARTICOLO ABROGATO DAL [D.P.R. 30 MAGGIO 2002, N. 115](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md) ))
 
 ## Art. 10.
 

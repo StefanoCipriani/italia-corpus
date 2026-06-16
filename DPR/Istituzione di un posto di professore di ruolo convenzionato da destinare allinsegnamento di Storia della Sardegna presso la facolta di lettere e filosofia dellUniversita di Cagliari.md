@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Veduta la legge della Regione autonoma della Sardegna 15 maggio 1959, n. 12 e la successiva modificazione in data 21 giugno 1967, n. 7;
 
@@ -22,7 +22,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Cagliari in dat
 
 ## Art. 2.
 
-E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo da destinare all'insegnamento di "Storia della Sardegna" in aggiunta a quelli indicati per la facolta' di lettere e filosofia dell'Universita' di Cagliari nella tabella d) annessa al predetto testo unico e successive modificazioni.
+E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo da destinare all'insegnamento di "Storia della Sardegna" in aggiunta a quelli indicati per la facolta' di lettere e filosofia dell'Universita' di Cagliari nella tabella d) annessa al predetto testo unico e successive modificazioni.
 
 ## Art. 3.
 

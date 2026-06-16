@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-17;726) ed il regolamento di esecuzione approvato con [regio decreto 17 giugno 1938, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-17;856);
+Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](../Testi%20Unici/Testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0726.md) ed il regolamento di esecuzione approvato con [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md);
 
 Vista la determinazione n. 29166, rep. 2° in data 20 settembre 1949, della Direzione superiore doganale di Napoli, che autorizza la Societa' magazzini generali, silos e frigoriferi di Napoli a gestire provvisoriamente un deposito franco nel porto di Napoli;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Visto il [regio decreto 6 novembre 1940, n. 1605](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20riservato%20allinsegnamento%20della%20medicina%20del%20lavoro%20presso%20la%20Facolta%20di%20medicina%20e%20chirurgia%20della%20Regia%20universita%20di%20Padova.%20040U1605.md), con il quale venne approvata e resa esecutiva la convenzione stipulata in Padova il 29 ottobre 1940 tra quella Universita' e l'Ente nazionale di propaganda per la prevenzione degli infortuni di Roma per il finanziamento di un posto di professore di ruolo di medicina del lavoro, convenzione tacitamente prorogata fino al 31 ottobre 1960;
 

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto il [regio decreto 4 aprile 1938, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-04;417);
+Visto il [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20per%20il%20personale%20dellAmministrazione%20civile%20dellinterno.%20038U0417.md);
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per l'interno, di concerto col Ministro per il tesor
 
 ## Art. 1.
 
-E' aggiunto al regolamento del personale dell'Amministrazione civile dell'interno, approvato con [regio decreto 4 aprile 1938, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-04;417), il seguente art. 48, preceduto dal titolo "Disposizione transitoria":
+E' aggiunto al regolamento del personale dell'Amministrazione civile dell'interno, approvato con [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20per%20il%20personale%20dellAmministrazione%20civile%20dellinterno.%20038U0417.md), il seguente art. 48, preceduto dal titolo "Disposizione transitoria":
  "Per i concorsi banditi fino al 31 dicembre 1950, qualora il numero dei concorrenti sia rilevante, le Commissioni esaminatrici previste dal precedente art. 11 potranno essere ampliate fino a raggiungere il numero di non oltre nove membri, con la nomina di altre persone aventi qualifiche comprese tra quelle previste per la normale composizione delle Commissioni medesime.
  Ciascuna Commissione, ampliata nel modo indicato nel precedente comma, dovra' essere composta, in modo che i membri, aventi una stessa qualifica o uno stesso gruppo di qualifiche, non siano piu' del doppio di quelli anteriormente previsti.
  Il presidente della Commissione, sentiti i commissari, puo' suddividere la Commissione in Sottocommissioni incaricate della revisione dei lavori scritti, ciascuna delle quali deve essere composta di non meno di tre membri.

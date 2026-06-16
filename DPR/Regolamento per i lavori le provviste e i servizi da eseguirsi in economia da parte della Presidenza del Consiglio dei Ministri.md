@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
- Visti l'[art. 8 del regio decreto 18 novembre 1923, numero 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), di approvazione del relativo regolamento;
+ Visti l'[art. 8 del regio decreto 18 novembre 1923, numero 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), di approvazione del relativo regolamento;
  Udito il parere del Consiglio di Stato;
  Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 maggio 1985;
  Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro;

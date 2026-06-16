@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto in data 6 giugno 1939, n. 1305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-06;1305), con il quale e' stato concesso il riconoscimento giuridico all'Ente nazionale assistenza agenti e rappresentanti di commercio e ne e' stato approvato lo statuto;
+ Visto il [regio decreto in data 6 giugno 1939, n. 1305](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20nazionale%20fascista%20di%20assistenza%20per%20gli%20agenti%20e%20rappresentanti%20di%20commercio.%20039U1305.md), con il quale e' stato concesso il riconoscimento giuridico all'Ente nazionale assistenza agenti e rappresentanti di commercio e ne e' stato approvato lo statuto;
  Visto il proprio decreto in data 22 giugno 1940, n. 388, con il quale sono state approvate modifiche agli articoli 3, 4, 9 e 15 e sono stati soppressi gli articoli 7, 8 ed il secondo comma dell'art. 10 dello statuto medesimo;
  Visto il proprio decreto in data 24 dicembre 1965, n. 1649, con il quale sono state approvate ulteriori modifiche all'art. 9 di detto statuto;
  Vista la [deliberazione in data 9 aprile 1970, n. 100/70](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-04-09;100) di repertorio, con la quale il consiglio di amministrazione dell'Ente nazionale assistenza agenti e rappresentanti di commercio ha deliberato l'integrale revisione dello statuto, tenendo presenti, per quanto applicabili, i criteri desumibili dall'[art. 27 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_27), concernenti il riordinamento degli organi dell'Istituto nazionale della previdenza sociale;

@@ -22,7 +22,7 @@ Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-re
 
 Visto il regolamento approvato con [regio decreto 13 agosto 1933, n. 1038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md);
 
-Visto il testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214);
+Visto il testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 agosto 1997;
 

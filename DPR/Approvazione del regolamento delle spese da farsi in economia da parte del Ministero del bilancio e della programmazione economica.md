@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni, concernente "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato" e il relativo regolamento di esecuzione;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, concernente "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato" e il relativo regolamento di esecuzione;
 
-Considerata la necessita' di disciplinare con regolamento, da emanarsi ai sensi dell'art. 8 del sopra citato [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni, le spese da farsi in economia da parte del Ministero del bilancio e della programmazione economica;
+Considerata la necessita' di disciplinare con regolamento, da emanarsi ai sensi dell'art. 8 del sopra citato [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, le spese da farsi in economia da parte del Ministero del bilancio e della programmazione economica;
 
 Udito il parere del Consiglio di Stato;
 

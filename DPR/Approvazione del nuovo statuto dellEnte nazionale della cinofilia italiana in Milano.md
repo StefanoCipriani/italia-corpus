@@ -14,7 +14,7 @@ N.
 
 693.
 
-Decreto del Presidente della Repubblica 8 giugno 1982, col quale, sulla proposta del Ministro dell'agricoltura e delle foreste, viene approvato il nuovo statuto dell'Ente nazionale della cinofilia italiana (E.N.C.I.), in Milano, riconosciuto giuridicamente con [regio decreto 13 giugno 1940, n. 1051](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-13;1051).
+Decreto del Presidente della Repubblica 8 giugno 1982, col quale, sulla proposta del Ministro dell'agricoltura e delle foreste, viene approvato il nuovo statuto dell'Ente nazionale della cinofilia italiana (E.N.C.I.), in Milano, riconosciuto giuridicamente con [regio decreto 13 giugno 1940, n. 1051](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20nazionale%20della%20cinofilia%20italiana.%20040U1051.md).
 
 Visto, il Guardasigilli: DARIDA
  Registrato alla Corte dei conti, addi' 16 settembre 1982

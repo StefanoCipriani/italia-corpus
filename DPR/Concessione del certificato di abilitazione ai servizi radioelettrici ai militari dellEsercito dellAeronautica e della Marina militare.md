@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 6 febbraio 1942, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-06;128);
 
-Visto il regolamento approvato con [regio decreto 17 luglio 1942, n. 1003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-17;1003);
+Visto il regolamento approvato con [regio decreto 17 luglio 1942, n. 1003](../Regi%20decreti/Regolamento%20di%20applicazione%20della%20legge%206%20febbraio%201942-XX%20n.%20128%20concernente%20nuove%20norme%20per%20la%20concessione%20dei%20certificati%20di%20abilitazione%20ai%20servizi%20radioelettrici%20a%20bordo%20delle%20navi%20m_90d44d451625.md);
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Il [n. 1 dell'art. 4 del regio decreto 17 luglio 1942, n. 1003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-17;1003#art_4-num1), che approva il regolamento per l'applicazione della [legge 6 febbraio 1942, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-06;128), concernente nuove norme per la concessione dei certificati di abilitazione ai servizi radioelettrici a bordo delle navi mercantili, e' sostituito dal seguente:
+Il [n. 1 dell'art. 4 del regio decreto 17 luglio 1942, n. 1003](../Regi%20decreti/Regolamento%20di%20applicazione%20della%20legge%206%20febbraio%201942-XX%20n.%20128%20concernente%20nuove%20norme%20per%20la%20concessione%20dei%20certificati%20di%20abilitazione%20ai%20servizi%20radioelettrici%20a%20bordo%20delle%20navi%20m_90d44d451625.md), che approva il regolamento per l'applicazione della [legge 6 febbraio 1942, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-02-06;128), concernente nuove norme per la concessione dei certificati di abilitazione ai servizi radioelettrici a bordo delle navi mercantili, e' sostituito dal seguente:
  "1. Licenza di scuola media inferiore o titolo equipollente, con la debita legalizzazione per i candidati al certificato di 1ª, 2ª e 3ª classe (o speciale) di radiotelegrafista; licenza elementare parimenti legalizzata per i candidati al certificato generale o a quello limitato di radiotelefonista.
  In sostituzione della licenza di scuola media inferiore puo' essere prodotto dai militari in servizio o in congedo, un certificato, vidimato dal Ministero della difesa, comprovante:
  se appartenenti all'Esercito, di avere conseguito le qualifiche di capo radiotelegrafista di 1ª, 2ª o 3ª classe;
@@ -50,7 +50,7 @@ L'art. 15 del regolamento per l'esecuzione del [regio decreto 8 febbraio 1923, n
 
 ## Art. 3.
 
-I sottufficiali dell'Esercito, della Marina e dell'Aeronautica, dimessi dal servizio, in applicazione delle vigenti disposizioni sullo sfollamento dei quadri, prima dell'andata in vigore del presente decreto, i quali non abbiano conseguito le qualifiche o frequentato i corsi di cui all'[art. 4 del regio decreto 17 luglio 1942, n. 1003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-17;1003#art_4), quale risulta modificato dal precedente art. 1, potranno, in sostituzione del prescritto titolo di studio, produrre un certificato, rilasciato dal Ministero della difesa, comprovante che il mancato conseguimento delle predette qualifiche o la mancata frequenza dei cennati corsi sono stati determinati dalla sospensione dei relativi corsi durante il periodo bellico e che, inoltre, l'aspirante ha acquistato la preparazione corrispondente a quella inerente alle qualifiche di capo radiotelegrafista di 1ª, 2ª o 3ª classe per l'Esercito od a quella di licenziati dei corsi stessi per la Marina e per l'Aeronautica.
+I sottufficiali dell'Esercito, della Marina e dell'Aeronautica, dimessi dal servizio, in applicazione delle vigenti disposizioni sullo sfollamento dei quadri, prima dell'andata in vigore del presente decreto, i quali non abbiano conseguito le qualifiche o frequentato i corsi di cui all'[art. 4 del regio decreto 17 luglio 1942, n. 1003](../Regi%20decreti/Regolamento%20di%20applicazione%20della%20legge%206%20febbraio%201942-XX%20n.%20128%20concernente%20nuove%20norme%20per%20la%20concessione%20dei%20certificati%20di%20abilitazione%20ai%20servizi%20radioelettrici%20a%20bordo%20delle%20navi%20m_90d44d451625.md), quale risulta modificato dal precedente art. 1, potranno, in sostituzione del prescritto titolo di studio, produrre un certificato, rilasciato dal Ministero della difesa, comprovante che il mancato conseguimento delle predette qualifiche o la mancata frequenza dei cennati corsi sono stati determinati dalla sospensione dei relativi corsi durante il periodo bellico e che, inoltre, l'aspirante ha acquistato la preparazione corrispondente a quella inerente alle qualifiche di capo radiotelegrafista di 1ª, 2ª o 3ª classe per l'Esercito od a quella di licenziati dei corsi stessi per la Marina e per l'Aeronautica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -31,7 +31,7 @@ La quota della indennita' alle farmacie rurali da corrispondersi da parte dell'A
 
 ## Art. 3.
 
-I titolari di farmacie rurali aspiranti all'indennita' di residenza prevista dall'[art. 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115) 27 luglio 1934, n. 1265, e successive modificazioni, debbono presentare domanda al prefetto entro il 31 marzo di ogni anno.
+I titolari di farmacie rurali aspiranti all'indennita' di residenza prevista dall'[art. 115 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265, e successive modificazioni, debbono presentare domanda al prefetto entro il 31 marzo di ogni anno.
  La domanda redatta in competente bollo deve essere accompagnata:
  1) da un certificato del sindaco attestante che la farmacia e' aperta;
  2) da un certificato dell'Ufficio distrettuale delle imposte dirette rilasciato in data anteriore al 1 marzo di ogni anno, dal quale risulti il reddito di ricchezza mobile accertato a carico della farmacia negli ultimi tre anni o, in mancanza del triennio, in quel minore periodo per cui fu effettuato l'accertamento.
@@ -40,13 +40,13 @@ Non si terra' pertanto conto del maggiore o minore reddito risultante da rettifi
 
 ## Art. 4.
 
-Il prefetto cura la trasmissione alla Commissione provinciale di cui all'[art. 105 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_105) 27 luglio 1934, n. 1265, delle domande presentate ai sensi dell'articolo precedente.
+Il prefetto cura la trasmissione alla Commissione provinciale di cui all'[art. 105 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265, delle domande presentate ai sensi dell'articolo precedente.
  La Commissione esamina tali domande e, ove riscontri la sussistenza dei requisiti prescritti, determina entro il 30 giugno di ogni anno, sentita l'Amministrazione comunale, se l'indennita' possa essere concessa e, in caso affermativo, ne stabilisce l'ammontare.
  Delle determinazioni della Commissione viene data notizia, a cura del prefetto, al titolare della farmacia richiedente, al Comune e all'Alto Commissariato per l'igiene e la sanita' pubblica.
 
 ## Art. 5.
 
-Per le farmacie rurali di nuova istituzione per le quali sia dovuta l'indennita' di residenza in applicazione del [primo comma dell'art. 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115-com1) 27 luglio 1934, n. 1265, il prefetto promuove la determinazione dell'ammontare dell'indennita' da parte della Commissione di cui all'articolo precedente che vi provvede sentita l'Amministrazione comunale.
+Per le farmacie rurali di nuova istituzione per le quali sia dovuta l'indennita' di residenza in applicazione del [primo comma dell'art. 115 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265, il prefetto promuove la determinazione dell'ammontare dell'indennita' da parte della Commissione di cui all'articolo precedente che vi provvede sentita l'Amministrazione comunale.
  Della determinazione della Commissione viene data notizia a cura del prefetto, al Comune e all'Alto Commissariato per l'igiene e la sanita' pubblica.
 
 ## Art. 6.
@@ -56,7 +56,7 @@ I provvedimenti adottati dalla Commissione, ai sensi dei due precedenti articoli
 ## Art. 7.
 
 Il Comune deve corrispondere entro il 31 agosto al titolare della farmacia ammessa al godimento dell'indennita' di residenza la somma determinata a norma degli articoli precedenti.
- La richiesta del Comune per ottenere il rimborso di cui all'[art. 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115) 27 luglio 1934, n. 1265, o dell'[art. 3 della legge 20 febbraio 1950, n. 54](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20dellindennita%20di%20residenza%20per%20le%20farmacie%20rurali.md), deve essere presentata all'Alto Commissariato per l'igiene e la sanita' pubblica, per tramite della Prefettura, entro il 15 ottobre successivo.
+ La richiesta del Comune per ottenere il rimborso di cui all'[art. 115 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265, o dell'[art. 3 della legge 20 febbraio 1950, n. 54](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20dellindennita%20di%20residenza%20per%20le%20farmacie%20rurali.md), deve essere presentata all'Alto Commissariato per l'igiene e la sanita' pubblica, per tramite della Prefettura, entro il 15 ottobre successivo.
 
 ## Art. 8.
 

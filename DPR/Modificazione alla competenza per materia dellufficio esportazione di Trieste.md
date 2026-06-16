@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli [articoli 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_26), [27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_27) e [28 del regio decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_28), concernenti l'ordinamento degli uffici di esportazione per gli oggetti di antichita' e d'arte e per gli oggetti di arte contemporanea;
+Visti gli [articoli 26](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), [27](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md) e [28 del regio decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), concernenti l'ordinamento degli uffici di esportazione per gli oggetti di antichita' e d'arte e per gli oggetti di arte contemporanea;
 
 Visto il [decreto del Presidente della Repubblica 28 luglio 1967, n. 865](Riordinamento%20delle%20sedi%20degli%20Uffici%20di%20esportazione%20degli%20oggetti%20di%20antichita%20e%20darte.md), che ha riordinato le sedi dell'ufficio esportazione per gli oggetti di antichita' e gli uffici di esportazione per gli oggetti di arte contemporanea, fissandone la sede;
 

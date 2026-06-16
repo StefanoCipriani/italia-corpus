@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Ritenuto la necessita' di modificare alcune norme del regolamento per il concorso in magistratura, approvato con [regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860);
+Ritenuto la necessita' di modificare alcune norme del regolamento per il concorso in magistratura, approvato con [regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -20,7 +20,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-L'art. 8 del regolamento per il concorso in magistratura, approvato con [regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860), e' sostituito dal seguente:
+L'art. 8 del regolamento per il concorso in magistratura, approvato con [regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md), e' sostituito dal seguente:
  "Al candidato sono consegnate in ciascuno dei giorni di esame due buste di eguale colore, una grande munita di un tagliando con numero progressivo ed una piccola contenente un cartoncino bianco. Sul tagliando deve essere scritto il numero corrispondente a quello segnato sulla tessera di riconoscimento inviata al candidato.
  Le buste residue, oltre quelle consegnate ai candidati, sono chiuse in piego suggellato con il bollo dell'ufficio.
  Sul piego appongono la firma il presidente o chi ne fa le veci, un componente della Commissione ed il segretario.

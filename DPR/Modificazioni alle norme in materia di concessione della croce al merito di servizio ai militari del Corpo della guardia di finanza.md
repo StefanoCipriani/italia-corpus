@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 26 agosto 1905, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-08-26;489), istitutivo della croce al merito di servizio per i militari di ogni grado della guardia di finanza, quale risulta modificato dai [regi decreti 16 maggio 1907, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1907-05-16;283), [24 febbraio 1910, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1910-02-24;120), [8 aprile 1929, n. 739 e dal decreto del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1929-04-08;739) [27 gennaio 1968, n. 734](Norme%20in%20materia%20di%20concessione%20della%20croce%20al%20merito%20di%20servizio%20ai%20militari%20del%20Corpo%20della%20guardia%20di%20finanza.md);
+Visto il [regio decreto 26 agosto 1905, n. 489](../Regi%20decreti/Concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20servizio%20per%20le%20guardie%20di%20finanza.%20005U0489.md), istitutivo della croce al merito di servizio per i militari di ogni grado della guardia di finanza, quale risulta modificato dai [regi decreti 16 maggio 1907, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1907-05-16;283), [24 febbraio 1910, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1910-02-24;120), [8 aprile 1929, n. 739 e dal decreto del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1929-04-08;739) [27 gennaio 1968, n. 734](Norme%20in%20materia%20di%20concessione%20della%20croce%20al%20merito%20di%20servizio%20ai%20militari%20del%20Corpo%20della%20guardia%20di%20finanza.md);
 
 Ritenuta la necessita', ai fini della concessione dell'anzidetta onorificenza, di prevedere norme comuni per gli ufficiali, sottufficiali e militari di truppa;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro delle finanze; Decreta:
 
 ## Articolo unico
 
-L'[art. 3 del regio decreto 26 agosto 1905, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-08-26;489#art_3), quale risulta da ultimo modificato dall'[art. 2 del decreto del Presidente della Repubblica 27 gennaio 1968, n. 734](Norme%20in%20materia%20di%20concessione%20della%20croce%20al%20merito%20di%20servizio%20ai%20militari%20del%20Corpo%20della%20guardia%20di%20finanza.md), e' sostituito dal seguente:
+L'[art. 3 del regio decreto 26 agosto 1905, n. 489](../Regi%20decreti/Concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20servizio%20per%20le%20guardie%20di%20finanza.%20005U0489.md), quale risulta da ultimo modificato dall'[art. 2 del decreto del Presidente della Repubblica 27 gennaio 1968, n. 734](Norme%20in%20materia%20di%20concessione%20della%20croce%20al%20merito%20di%20servizio%20ai%20militari%20del%20Corpo%20della%20guardia%20di%20finanza.md), e' sostituito dal seguente:
  "Avranno titolo a conseguirla ed a fregiarsene anche dopo la cessazione dal servizio, gli ufficiali, i sottufficiali ed i militari di truppa che abbiano compiuto i seguenti periodi minimi di servizio: croce d'oro: 25 anni;
  croce d'argento: 16 anni.
  E' computato, ai fini della concessione, il servizio prestato nelle altre Forze armate dello Stato, anteriormente all'arruolamento nella guardia di finanza.

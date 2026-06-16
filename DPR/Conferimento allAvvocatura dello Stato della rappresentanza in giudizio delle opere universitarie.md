@@ -12,13 +12,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
+ Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), modificato dall'[art. 1 della legge 16 novembre 1939, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-11-16;1889#art_1);
  Considerata la opportunita' di autorizzare l'Avvocatura dello Stato ad assumere il patrocinio delle opere universitarie;
  Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per la pubblica istruzione, per la grazia e giustizia e per il tesoro;
 
  Decreta:
 
- L'Avvocatura dello Stato e' autorizzata ad assumere la rappresentanza e la difesa nei giudizi attivi e passivi avanti le autorita' giudiziarie, i collegi arbitrali, le giurisdizioni amministrative e speciali, delle opere universitarie, costituite ai sensi dell'[art. 189 del regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_189), presso le Universita' degli studi e gli Istituti di istruzione universitaria statali.
+ L'Avvocatura dello Stato e' autorizzata ad assumere la rappresentanza e la difesa nei giudizi attivi e passivi avanti le autorita' giudiziarie, i collegi arbitrali, le giurisdizioni amministrative e speciali, delle opere universitarie, costituite ai sensi dell'[art. 189 del regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), presso le Universita' degli studi e gli Istituti di istruzione universitaria statali.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

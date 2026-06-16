@@ -152,7 +152,7 @@ Non sono considerati incarichi continuativi quelli di partecipazione ad organi g
 
 1.
 
-Il collocamento fuori ruolo, a qualsiasi titolo venga disposto, e' consentito solo nei casi espressamenti previsti dalla legge entro i limiti numerici di cui all'art. 3, penultimo comma, del [regio decreto 13 gennaio 1941, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-13;120), modificato dall'[art. 20 della legge 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;103#art_20).
+Il collocamento fuori ruolo, a qualsiasi titolo venga disposto, e' consentito solo nei casi espressamenti previsti dalla legge entro i limiti numerici di cui all'art. 3, penultimo comma, del [regio decreto 13 gennaio 1941, n. 120](../Regi%20decreti/Modificazioni%20allordinamento%20dellAvvocatura%20dello%20Stato.%20041U0120.md), modificato dall'[art. 20 della legge 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;103#art_20).
 
 2.
 

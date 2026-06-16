@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 14 novembre 1926, n. 2481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;2481), con il quale fu eretto in ente morale il R. Automobile Club d'Italia e ne fu approvato lo statuto, e successive modificazioni;
+Visto il [regio decreto 14 novembre 1926, n. 2481](../Regi%20decreti/Erezione%20in%20ente%20morale%20ed%20approvazione%20dello%20statuto%20relativo%20dellAutomobile%20Club%20dItalia.%20026U2481.md), con il quale fu eretto in ente morale il R. Automobile Club d'Italia e ne fu approvato lo statuto, e successive modificazioni;
 
 Visto il decreto luogotenenziale 6 novembre 1944, con il quale fu nominato un commissario straordinario all'A.C.I., con il compito anche di studiare e proporre le modifiche da apportarsi allo statuto dell'Ente;
 
@@ -26,8 +26,8 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-L'Automobile Club d'Italia "A.C.I." con sede in Roma, eretto in ente morale con il [regio decreto 14 novembre 1926, n. 2481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;2481), e' posto sotto la vigilanza della Presidenza del Consiglio dei Ministri - Commissariato per il turismo.
- Ferme le disposizioni degli articoli 1, primo comma, 2, 3 e 4 del [regio decreto 14 novembre 1926, n. 2481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;2481), sono abrogate tutte le altre norme del citato regio decreto e successive modificazioni.
+L'Automobile Club d'Italia "A.C.I." con sede in Roma, eretto in ente morale con il [regio decreto 14 novembre 1926, n. 2481](../Regi%20decreti/Erezione%20in%20ente%20morale%20ed%20approvazione%20dello%20statuto%20relativo%20dellAutomobile%20Club%20dItalia.%20026U2481.md), e' posto sotto la vigilanza della Presidenza del Consiglio dei Ministri - Commissariato per il turismo.
+ Ferme le disposizioni degli articoli 1, primo comma, 2, 3 e 4 del [regio decreto 14 novembre 1926, n. 2481](../Regi%20decreti/Erezione%20in%20ente%20morale%20ed%20approvazione%20dello%20statuto%20relativo%20dellAutomobile%20Club%20dItalia.%20026U2481.md), sono abrogate tutte le altre norme del citato regio decreto e successive modificazioni.
 
 ## Art. 2.
 

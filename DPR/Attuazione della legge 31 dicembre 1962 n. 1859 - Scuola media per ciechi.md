@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449);
+Visto il [regio decreto 29 agosto 1941, n. 1449](../Regi%20decreti/Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md);
 
 Vista la [legge 14 dicembre 1955, n. 1293](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sullistruzione%20professionale%20dei%20ciechi.md);
 

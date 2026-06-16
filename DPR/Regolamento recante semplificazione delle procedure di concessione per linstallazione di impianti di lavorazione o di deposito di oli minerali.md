@@ -20,7 +20,7 @@ Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bila
 
 Vista la [legge 9 gennaio 1991, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;9), ed in particolare gli articoli 16 e 17;
 
-Visto il [regio decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), convertito dalla [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), e successive modificazioni, nonche' il relativo regolamento di esecuzione, approvato con [regio decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303);
+Visto il [regio decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), convertito dalla [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), e successive modificazioni, nonche' il relativo regolamento di esecuzione, approvato con [regio decreto 20 luglio 1934, n. 1303](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20distribuzione%20degli%20oli%20minerali%20e%20d_bb2fb77a11e9.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
@@ -125,7 +125,7 @@ Il Ministero delle finanze emette un parere circa gli aspetti fiscali connessi c
 
 3.
 
-Il Ministero dei trasporti e della navigazione esprime il proprio parere in merito alla installazione e all'ampliamento degli impianti di cui all'art. 2 qualora gli stessi siano costieri secondo la definizione dell'[art. 44 del regio decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303#art_44).
+Il Ministero dei trasporti e della navigazione esprime il proprio parere in merito alla installazione e all'ampliamento degli impianti di cui all'art. 2 qualora gli stessi siano costieri secondo la definizione dell'[art. 44 del regio decreto 20 luglio 1934, n. 1303](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20distribuzione%20degli%20oli%20minerali%20e%20d_bb2fb77a11e9.md).
 
 4.
 
@@ -147,7 +147,7 @@ In caso di impianti destinati al contenimento delle emissioni inquinanti in atmo
 8.
 
 Il comune esprime una valutazione di conformita' dei progetti di costruzione degli impianti alle previsioni dei piani regolatori.
-Nelle opere previste dall'art. 2, lettere b) e d), il parere di conformita' verra' richiesto qualora le stesse comportino occupazione di nuove aree. L'eventuale temporanea indisponibilita' del suolo non costituisce pregiudizio nel proseguimento dell'iter istruttorio. La concessione verra' tuttavia rilasciata solo quando sia comprovata la disponibilita' del suolo stesso. Il parere del comune costituisce valutazione preliminare ai fini del rilascio delle autorizzazioni previste dall'[art. 216 del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_216) ([testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)) e dalla [legge 10 maggio 1976, n. 319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni.
+Nelle opere previste dall'art. 2, lettere b) e d), il parere di conformita' verra' richiesto qualora le stesse comportino occupazione di nuove aree. L'eventuale temporanea indisponibilita' del suolo non costituisce pregiudizio nel proseguimento dell'iter istruttorio. La concessione verra' tuttavia rilasciata solo quando sia comprovata la disponibilita' del suolo stesso. Il parere del comune costituisce valutazione preliminare ai fini del rilascio delle autorizzazioni previste dall'[art. 216 del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) ([testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)) e dalla [legge 10 maggio 1976, n. 319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e successive modificazioni.
 
 9.
 
@@ -277,7 +277,7 @@ Restano fermi i controlli ed i collaudi delle altre autorita' competenti in base
 
 Note all'art. 11:
  - Il testo dell'[art. 4 della legge n. 61/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;61#art_4) e' il seguente:
- "Art. 4. - Alle verifiche ed ai collaudi previsti dal [regio decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), e dal relativo regolamento di esecuzione approvato con [regio decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), provvede il Ministro dell'industria, del commercio e dell'artigianato, con onere a carico degli interessati, secondo modalita' che saranno stabilite con decreto da emanarsi da parte del Ministro dell'industria, del commercio e dell'artigianato.
+ "Art. 4. - Alle verifiche ed ai collaudi previsti dal [regio decreto-legge 2 novembre 1933, n. 1741](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-02;1741), e dal relativo regolamento di esecuzione approvato con [regio decreto 20 luglio 1934, n. 1303](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20distribuzione%20degli%20oli%20minerali%20e%20d_bb2fb77a11e9.md), provvede il Ministro dell'industria, del commercio e dell'artigianato, con onere a carico degli interessati, secondo modalita' che saranno stabilite con decreto da emanarsi da parte del Ministro dell'industria, del commercio e dell'artigianato.
  La disciplina di cui al comma precedente si applica anche alle verifiche ed agli accertamenti in ordine alla progettazione, alla realizzazione ed al regolare esercizio di impianti che usufruiscono dei contributi ai sensi degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-19;308#art_10), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-19;308#art_11) e [12 della legge 19 maggio 1982, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-19;308#art_12)".
 
 ## Art. 12. — Competenza dei prefetti
@@ -305,7 +305,7 @@ Ai fini dell'attuazione del comma 1, il riesame dei procedimenti istruttori anco
 
 1.
 
-Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento sono da intendersi abrogati gli articoli 13, 14, 16 comma 1, 19, 22 commi 1, 2, 3, 4 e 6, 23, 28, 41 commi 1 e 2, e 46 del [regio decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), in quanto risultino incompatibili con le disposizioni del presente decreto in relazione alle materie da esso disciplinate.
+Ai sensi dell'[art. 2, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), dalla data di entrata in vigore del presente regolamento sono da intendersi abrogati gli articoli 13, 14, 16 comma 1, 19, 22 commi 1, 2, 3, 4 e 6, 23, 28, 41 commi 1 e 2, e 46 del [regio decreto 20 luglio 1934, n. 1303](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20distribuzione%20degli%20oli%20minerali%20e%20d_bb2fb77a11e9.md), in quanto risultino incompatibili con le disposizioni del presente decreto in relazione alle materie da esso disciplinate.
 
 2.
 
@@ -313,7 +313,7 @@ Il [comma 2 dell'art. 17 del decreto del Presidente della Repubblica 24 maggio 1
 
 3.
 
-Limitatamente alle procedure di concessione e di autorizzazione disciplinate dal presente regolamento, non si applicano le norme che prevedono l'acquisizione del parere della Commissione consultiva per le sostanze esplosive ed infiammabili del Ministero dell'interno, di cui all'[art. 49 del regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_49).
+Limitatamente alle procedure di concessione e di autorizzazione disciplinate dal presente regolamento, non si applicano le norme che prevedono l'acquisizione del parere della Commissione consultiva per le sostanze esplosive ed infiammabili del Ministero dell'interno, di cui all'[art. 49 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 Note all'art. 14:
  - Per il testo dell'[art. 2, comma 8, della legge n. 537/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537#art_2-com8), si vedano le precedenti note alle premesse.

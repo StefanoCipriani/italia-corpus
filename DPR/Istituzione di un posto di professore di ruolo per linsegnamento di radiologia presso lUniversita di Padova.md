@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 
@@ -20,7 +20,7 @@ E' approvata e resa esecutiva, con effetto dal 1 dicembre 1950, l'annessa conven
 
 ## Art. 2.
 
-E' istituito, ai sensi dell'art. 63, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo, riservato all'insegnamento di radiologia, in aggiunta a quelli indicati nel n. 5 della tabella D annessa al predetto testo unico per la Facolta' di medicina e chirurgia della Universita' di Padova e successive modificazioni.
+E' istituito, ai sensi dell'art. 63, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo, riservato all'insegnamento di radiologia, in aggiunta a quelli indicati nel n. 5 della tabella D annessa al predetto testo unico per la Facolta' di medicina e chirurgia della Universita' di Padova e successive modificazioni.
 
 ## Art. 3.
 

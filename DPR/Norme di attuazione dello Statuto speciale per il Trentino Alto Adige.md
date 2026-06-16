@@ -273,11 +273,11 @@ Contro i provvedimenti dei questori, dei presidenti delle Giunte provinciali e d
 
 ### Art. 51.
 
-Nella Commissione di vigilanza sui locali di pubblico spettacolo istituita per l'applicazione dell'[art. 80 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_80) e prevista dall'art. 141 del regolamento, al questore e' sostituito un funzionario di pubblica sicurezza di grado non inferiore all'80, designato dal questore insieme ad un supplente.
+Nella Commissione di vigilanza sui locali di pubblico spettacolo istituita per l'applicazione dell'[art. 80 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e prevista dall'art. 141 del regolamento, al questore e' sostituito un funzionario di pubblica sicurezza di grado non inferiore all'80, designato dal questore insieme ad un supplente.
 
 ### Art. 52.
 
-Nella Commissione per gli esercizi pubblici e nella Commissione esaminatrice delle guide e dei portatori alpini, corrieri e interpreti, istituite per l'applicazione, rispettivamente, degli [articoli 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_91) e [123 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_123) e previste dagli articoli 163 e 236 del relativo regolamento, al consigliere di prefettura e' sostituito un funzionario di pubblica sicurezza di grado non inferiore all'80.
+Nella Commissione per gli esercizi pubblici e nella Commissione esaminatrice delle guide e dei portatori alpini, corrieri e interpreti, istituite per l'applicazione, rispettivamente, degli [articoli 91](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [123 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e previste dagli articoli 163 e 236 del relativo regolamento, al consigliere di prefettura e' sostituito un funzionario di pubblica sicurezza di grado non inferiore all'80.
  I funzionari di pubblica sicurezza e i loro supplenti sono designati dal questore.
 
 ### Art. 53.

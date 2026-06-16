@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 71 dei regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_71), che reca nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto l'[art. 71 dei regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), che reca nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita generale dello Stato;
 
@@ -48,7 +48,7 @@ Gli articoli 547, 548, 551, 552, 554, 555, 575 del regolamento per l'amministraz
  P " " 500.000.000
  Q " " 1.000.000.000
 
- Art. 548. - Salvo il disposto dell'[art. 71 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_71), le caratteristiche, la durata in mesi, sino ad un massimo di 12, e la misura degli interessi dei buoni del Tesoro ordinari sono stabiliti con decreti del Ministro per il tesoro.
+ Art. 548. - Salvo il disposto dell'[art. 71 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), le caratteristiche, la durata in mesi, sino ad un massimo di 12, e la misura degli interessi dei buoni del Tesoro ordinari sono stabiliti con decreti del Ministro per il tesoro.
  Quando viene variata la misura dell'interesse, la variazione non e' applicabile alle somme gia' versate per acquisto dei buoni.
  Nel computo degli interessi il mese si considera di 30 giorni e le scadenze sono sempre a mesi interi a decorrere dal giorno in cui la somma e' versata nelle Tesorerie o negli uffici postali.
  Il calcolo degli interessi viene arrotondato con l'osservanza delle norme che regolano l'arrotondamento dei pagamenti delle pubbliche Amministrazioni.

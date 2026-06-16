@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584);
+Visto il regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md);
 
 Visto il [decreto legislativo luogotenenziale 21 agosto 1945, n. 508](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20del%20Corpo%20degli%20agenti%20di%20custodia%20delle%20carceri.%20045U0508.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro di grazia e giustizia, di concerto con il Ministro d
 
 ## Art. 1.
 
-L'art. 3 del regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584), e' sostituito dal seguente:
+L'art. 3 del regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md), e' sostituito dal seguente:
  "E' costituita presso il Ministero di grazia e giustizia, per le funzioni indicate nel presente regolamento, la commissione centrale per il personale del Corpo degli agenti di custodia.
  La commissione e' nominata con decreto del Ministro di grazia e giustizia ed e' composta da un magistrato, designato dal direttore generale per gli istituti di prevenzione e di pena, che la presiede, dal direttore dell'ufficio per il personale del Corpo degli agenti di custodia, da un impiegato del ruolo amministrativo della carriera direttiva dell'Amministrazione degli istituti di prevenzione e di pena con qualifica di dirigente superiore e da un ufficiale superiore del Corpo degli agenti di custodia.
  Espleta le mansioni di segretario un cancelliere.
@@ -39,7 +39,7 @@ L'art. 3 del regolamento per il Corpo degli agenti di custodia, approvato con [r
 
 ## Art. 2.
 
-L'art. 88 del regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584), e' sostituito dal seguente:
+L'art. 88 del regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md), e' sostituito dal seguente:
  "La commissione locale di disciplina e' costituita presso gli istituti di prevenzione e di pena ed e' composta dal direttore dell'istituto, che la presiede, da un impiegato del ruolo di ragioneria della carriera di concetto dell'Amministrazione degli istituti di prevenzione e di pena e dal sottufficiale del Corpo degli agenti di custodia piu' elevato in grado in servizio nell'istituto.
  Le mansioni di segretario sono espletate da un impiegato della direzione nominato dal direttore.
  In caso di giudizio a carico del sottufficiale componente, interviene nella commissione un ufficiale del Corpo degli agenti di custodia in servizio nella regione dell'istituto.
@@ -47,7 +47,7 @@ L'art. 88 del regolamento per il Corpo degli agenti di custodia, approvato con [
 
 ## Art. 3.
 
-L'art. 89 del regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-12-30;2584), e' sostituito dal seguente:
+L'art. 89 del regolamento per il Corpo degli agenti di custodia, approvato con [regio decreto 30 dicembre 1937, n. 2584](../Regi%20decreti/Regolamento%20per%20il%20Corpo%20degli%20agenti%20di%20custodia%20degli%20istituti%20di%20prevenzione%20e%20di%20pena.%20037U2584.md), e' sostituito dal seguente:
  "La commissione distrettuale di disciplina e' costituita presso la procura generale della corte d'appello ed e' composta dal procuratore generale o da un sostituto da lui delegato, che la presiede, dal procuratore della Repubblica o da un altro magistrato da lui delegato, da un direttore degli istituti di prevenzione e di pena residente nel distretto, designato dal procuratore generale e da un ufficiale del Corpo degli agenti di custodia designato dal Ministero di grazia e giustizia tra gli ufficiali in servizio nel distretto.
  Le mansioni di segretario sono espletate da un segretario della procura generale designato dal procuratore generale.
  Non possono far parte della commissione il direttore e l'ufficiale che hanno elevato il rapporto da cui e' scaturita il procedimento disciplinare.

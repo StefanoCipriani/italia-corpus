@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la richiesta dell'Ente di colonizzazione del latifondo siciliano per la classifica tra i comprensori di bonifica, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), della zona situata a sud-ovest della citta' di Siracusa, della superficie di circa 2000 ettari suscettibile di essere irrigata con le acque del torrente Ciane;
+Vista la richiesta dell'Ente di colonizzazione del latifondo siciliano per la classifica tra i comprensori di bonifica, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), della zona situata a sud-ovest della citta' di Siracusa, della superficie di circa 2000 ettari suscettibile di essere irrigata con le acque del torrente Ciane;
 
 Sentito il Comitato speciale per la bonifica;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con 
 
 ## Articolo unico.
 
-Il territorio, costituito dalle contrade Carrozzeri, Fanusa, Milocca, Santa Teresa, Mottava, Renella e Cuba in comune di Siracusa, della superficie di circa 2000 ettari, suscettibile di essere irrigato con le acque del torrente Ciane, delimitato a nord del canale Mammaiabica, ad ovest da un tratto della ferrovia Siracusa-Noto fino al traverso della Masseria Rovelli e quindi dalla strada Luogo di Maria-Mottava-Caradone-Satalia e dalla curva di livello 20, a sud della strada Spatronato, da un tratto della ferrovia Siracusa-Noto fino all'attraversamento della curva di livello 20, di dove raggiunge il mare a meta' del tratto compreso tra Scoglio Imbiancato e Punto del Corvo, a sud-est dal mare fino alla Tonnara di Terragozza, ad ovest della strada Terragozza, dal mare e dalle Saline di Siracusa, e' classificato tra i comprensori di bonifica, ai sensi ed agli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), in base alla corografia che, vistata dal Ministro proponente, forma parte integrante del presente decreto.
+Il territorio, costituito dalle contrade Carrozzeri, Fanusa, Milocca, Santa Teresa, Mottava, Renella e Cuba in comune di Siracusa, della superficie di circa 2000 ettari, suscettibile di essere irrigato con le acque del torrente Ciane, delimitato a nord del canale Mammaiabica, ad ovest da un tratto della ferrovia Siracusa-Noto fino al traverso della Masseria Rovelli e quindi dalla strada Luogo di Maria-Mottava-Caradone-Satalia e dalla curva di livello 20, a sud della strada Spatronato, da un tratto della ferrovia Siracusa-Noto fino all'attraversamento della curva di livello 20, di dove raggiunge il mare a meta' del tratto compreso tra Scoglio Imbiancato e Punto del Corvo, a sud-est dal mare fino alla Tonnara di Terragozza, ad ovest della strada Terragozza, dal mare e dalle Saline di Siracusa, e' classificato tra i comprensori di bonifica, ai sensi ed agli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), in base alla corografia che, vistata dal Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

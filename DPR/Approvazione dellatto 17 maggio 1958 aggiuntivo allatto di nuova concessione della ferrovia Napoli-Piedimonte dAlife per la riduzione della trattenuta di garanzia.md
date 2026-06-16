@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
  Visto il [decreto Presidenziale 22 dicembre 1954, n. 1459](Approvazione%20dellatto%207%20ottobre%201954%20di%20nuova%20concessione%20della%20ferrovia%20Napoli-Piedimonte%20dAlife.md), con il quale e' stato approvato e reso esecutorio l'atto 7 ottobre 1954 per la nuova concessione alla Compagnie des Chemins de Fer du Midi de l'Italie della ferrovia Napoli-Piedimonte d'Alife;
  Ritenuto che, in dipendenza dell'accordata proroga al termine di ultimazione dei lavori oggetto del suindicato atto 7 ottobre 1954, la predetta Compagnia ha chiesto la riduzione da un decimo ad un ventesimo della percentuale trattenuta a garanzia sull'ammontare degli stati di avanzamento;
  Udita la Commissione interministeriale per la riattivazione dei pubblici servizi di trasporto in concessione, di cui all'[art. 12 della legge 14 giugno 1949, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-14;410#art_12);

@@ -127,11 +127,11 @@ La retribuzione e gli altri assegni cui ha titolo il docente esonerato dal servi
 
 2.
 
-Sono altresi' a carico dell'amministrazione scolastica sia il rimborso delle spese di viaggio che le indennita' di missione cui il docente in scambio ha titolo. Le spese di viaggio sono rimborsate limitatamente ad un viaggio annuale di andata e ritorno dal luogo in cui l'insegnante ha svolto le attivita' conseguenti allo scambio. La diaria di missione, ai sensi dell'[art. 7 del regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_7), va ridotta a tre quarti, qualora la permanenza all'estero si protragga oltre i centottanta giorni.
+Sono altresi' a carico dell'amministrazione scolastica sia il rimborso delle spese di viaggio che le indennita' di missione cui il docente in scambio ha titolo. Le spese di viaggio sono rimborsate limitatamente ad un viaggio annuale di andata e ritorno dal luogo in cui l'insegnante ha svolto le attivita' conseguenti allo scambio. La diaria di missione, ai sensi dell'[art. 7 del regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), va ridotta a tre quarti, qualora la permanenza all'estero si protragga oltre i centottanta giorni.
 
 3.
 
-La diaria e' ridotta, ai sensi dell'[art. 6 del regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_6), nel caso in cui il progetto di scambio implichi un trattamento gratuito.
+La diaria e' ridotta, ai sensi dell'[art. 6 del regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), nel caso in cui il progetto di scambio implichi un trattamento gratuito.
 
 Nota all'art. 6:
  Il testo degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926;941#art_6) e [7 del R.D. n. 941/1926](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926;941#art_7) (Indennita' al personale dell'Amministrazione dello Stato incaricato di missione all'estero) e' il seguente:

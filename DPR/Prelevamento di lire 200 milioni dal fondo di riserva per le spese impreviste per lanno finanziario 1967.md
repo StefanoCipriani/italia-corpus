@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto l'art. 1 - ultimo comma - della [legge 5 novembre 1964, n. 1172](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20iscrizione%20in%20bilancio%20delle%20somme%20occorrenti%20per%20far%20fronte%20agli%20impegni%20di%20carattere%20finanziario%20derivanti%20dallapplicazione%20dellarticolo%2056%20del%20Trattato%20che%20istituisce%20la%20C_87bdd8b50ae6.md);
  Visto l'[art. 87, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com4) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
  Vista la [legge 29 aprile 1967, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-04-29;230);

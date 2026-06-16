@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto il [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduta la domanda in data 22 dicembre 1954, con la quale il rettore della Universita' degli studi di Cagliari, in esecuzione della deliberazione del Consiglio di amministrazione in data 30 ottobre 1954, ha chiesto di essere autorizzato ad acquistare il palazzo del Seminario Tridentino, di proprieta' dell'Ente Seminario Tridentino, Ente di culto non congruabile, rappresentato dall'Arcivescovo pro tempore dell'Archidiocesi di Cagliari, edificio sito nella stessa citta' ai civici numeri 32, 34, 36 con tutte le adiacenze e pertinenze, compresi due cortili, al prezzo risultante dalla relazione di stima dell'Ufficio tecnico erariale di Cagliari in data 24 aprile 1953;
  Veduta la legge 5 giugno 1850, n. 1037, sugli acquisti dei corpi morali;
  Veduto il [regio decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);

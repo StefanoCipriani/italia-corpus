@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 8 febbraio 1923, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;1065), relativo alla istituzione del museo storico-navale di Venezia;
+Visto il [regio decreto 8 febbraio 1923, n. 1065](../Regi%20decreti/Relativo%20alla%20istituzione%20di%20un%20Museo%20storico%20navale.%20023U1065.md), relativo alla istituzione del museo storico-navale di Venezia;
 
 Visto il [regio decreto 19 aprile 1925, n. 659](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Museo%20tecnico%20navale%20nella%20piazza%20marittima%20di%20Spezia.%20025U0659.md), relativo alla istituzione del museo tecnico-navale di La Spezia;
 

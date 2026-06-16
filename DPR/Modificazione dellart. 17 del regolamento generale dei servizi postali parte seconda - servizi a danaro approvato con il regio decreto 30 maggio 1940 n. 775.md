@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), concernente l'approvazione del Codice postale e delle telecomunicazioni;
+Visto il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), concernente l'approvazione del Codice postale e delle telecomunicazioni;
 
 Visto il [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), che approva il regolamento generale dei servizi postali (parte seconda - servizi a danaro) Ritenuta l'opportunita' di modificare l'art. 17 del sopradetto regolamento generale dei servizi postali (parte seconda - servizi a danaro);
 

@@ -14,7 +14,7 @@ N.
 
 549.
 
-Decreto del Presidente della Repubblica 13 agosto 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene approvato il nuovo statuto dell'Associazione nazionale fra mutilati ed invalidi di guerra, in Roma, eretto in ente morale con [regio decreto 16 dicembre 1929, n. 2162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-16;2162).
+Decreto del Presidente della Repubblica 13 agosto 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene approvato il nuovo statuto dell'Associazione nazionale fra mutilati ed invalidi di guerra, in Roma, eretto in ente morale con [regio decreto 16 dicembre 1929, n. 2162](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20fra%20mutilati%20ed%20invalidi%20di%20guerra.%20029U2162.md).
 
 Visto, il Guardasigilli: DARIDA
  Registrato alla Corte dei conti, addi' 28 settembre 1981

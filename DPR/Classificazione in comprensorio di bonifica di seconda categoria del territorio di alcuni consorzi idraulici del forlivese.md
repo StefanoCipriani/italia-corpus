@@ -12,19 +12,19 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Vista la domanda 6 marzo 1968, n. 494, con la quale il Consorzio di bonifica di secondo grado per il canale emiliano romagnolo, con sede in Bologna, ha chiesto la classifica fra i comprensori di bonifica, ai sensi dello [art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3), di alcuni territori del forlivese, dell'estesa complessiva di ettari 62.858;
+ Vista la domanda 6 marzo 1968, n. 494, con la quale il Consorzio di bonifica di secondo grado per il canale emiliano romagnolo, con sede in Bologna, ha chiesto la classifica fra i comprensori di bonifica, ai sensi dello [art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), di alcuni territori del forlivese, dell'estesa complessiva di ettari 62.858;
  Ritenuto che detti territori, coincidenti con quelli del Consorzio idraulico Savio, del Consorzio idraulico di Farli, del Consorzio idraulico Aria, del Consorzio idraulico Rigossa e rio Salto, del Consorzio idraulico riminese, del Consorzio idraulico Ausa, ricadono nella sfera di attivita' del Consorzio di bonifica di secondo grado predetto e, pertanto, si rende necessario ed urgente ammettere detti territori alle agevolazioni normative gia' operanti per la restante parte del comprensorio gia' classificato;
  che la mancanza di detta classifica ostacolerebbe o impedirebbe la realizzazione integrale del programma irriguo, con documento anche per le zone servite;
  che ricorrono le condizioni per procedere alla richiesta classifica;
  Visto il parere in data 25 giugno 1962, n. 10, del Consiglio superiore dell'agricoltura e delle foreste, in assemblea generale;
  Visto il [parere in data 5 giugno 1965, n. 1185, del Ministero dei lavori pubblici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici:parere:1965-06-05;1185);
  Visto il parere del [Ministero del tesoro del 17 giugno 1968, n. 134868](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro::1968-06-17;134868);
- Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+ Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
  Sulla proposta del Ministro Segretario di Stato per l'agricoltura e le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici;
 
  Decreta:
 
- Ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3), il territorio dei consorzi idraulici del forlivese indicati in narrativa, della superficie complessiva di ettari 62.858, e' classificato in comprensorio di bonifica di seconda categoria giusta corografia che, munita del "visto" del Ministro proponente, forma parte integrante del presente decreto.
+ Ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), il territorio dei consorzi idraulici del forlivese indicati in narrativa, della superficie complessiva di ettari 62.858, e' classificato in comprensorio di bonifica di seconda categoria giusta corografia che, munita del "visto" del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

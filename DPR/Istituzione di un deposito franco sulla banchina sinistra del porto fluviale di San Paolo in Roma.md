@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-17;726), ed il relativo regolamento di esecuzione approvato con [regio decreto 17 giugno 1938, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-17;856);
+ Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](../Testi%20Unici/Testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0726.md), ed il relativo regolamento di esecuzione approvato con [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md);
  Vista l'istanza in data 15 febbraio 1960, con la quale la S.p.A.
 Magazzini generali in Roma, con sede in Roma, chiede di essere autorizzata ad istituire e gestire un deposito franco nel porto fluviale di San Paolo in Roma;
  Visti i pareri favorevoli espressi, in merito, dal comune di Roma, con [deliberazione n. 2038 del 18 aprile 1961, e dalla Camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1961-04-18;2038), industria e agricoltura di Roma, con [deliberazione n. 800 del 15 settembre 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1959-09-15;800);

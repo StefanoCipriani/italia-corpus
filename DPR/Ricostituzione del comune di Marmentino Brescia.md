@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 17 novembre 1927, n. 2275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-17;2275), con il quale i comuni di Marmentino e di Pezzoro furono soppressi ed aggregati al comune di Tavernole-Cimmo, che assunse la denominazione di Tavernole sul Mella;
+Visto il [regio decreto 17 novembre 1927, n. 2275](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Marmentino%20e%20di%20Pezzoro%20a%20quello%20di%20Tavernole-Cimmo%20che%20assume%20la%20denominazione%20di%20Tavernole%20sul%20Mella.%20027U2275.md), con il quale i comuni di Marmentino e di Pezzoro furono soppressi ed aggregati al comune di Tavernole-Cimmo, che assunse la denominazione di Tavernole sul Mella;
 
 Vista l'istanza in data 18 maggio 1946, con la quale oltre i tre quinti degli elettori del cessato comune di Marmentino ne hanno chiesto la ricostituzione in Comune autonomo;
 

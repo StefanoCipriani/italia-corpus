@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto il [decreto legislativo 8 aprile 1948, n. 274](../Decreti%20Legislativi/Sistemazione%20del%20servizi%20stampa%20spettacolo%20e%20del%20Commissariato%20del%20turismo%20nonche%20dei%20relativi%20ruoli%20organici.md), e successive modificazioni e integrazioni;
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), contenente disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e successive modificazioni;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), contenente disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md), e successive modificazioni;
 
@@ -65,7 +65,7 @@ Le fatture delle forniture dovranno essere esibite in duplice copia, di cui una 
 ## Art. 6.
 
 Al pagamento dei corrispettivi delle provviste in economia si procede con ordinativi diretti ovvero, se le esigenze dell'amministrazione lo richiedano, mediante aperture di credito a favore del consegnatario cassiere.
- Per i rendiconti delle somme erogate sulle aperture di credito si applicano le norme contenute negli [articoli 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60) e [61 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_61) e negli [articoli 333 e seguenti del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_333), e successive modificazioni.
+ Per i rendiconti delle somme erogate sulle aperture di credito si applicano le norme contenute negli [articoli 60](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [61 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e negli [articoli 333 e seguenti del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_333), e successive modificazioni.
 
 ## Art. 7.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 21 giugno 1928, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-21;1602), con il quali i comuni di Cecima, San Ponzo Semola, Trebbiano Nizza e Pizzocorno, in provincia di Pavia, furono riuniti in unico Comune denominato "Ponte Nizza" e con sede nella frazione omonima gia' appartenente alla circoscrizione territoriale di San Ponzo Semola;
+Visto il [regio decreto 21 giugno 1928, n. 1602](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cecima%20Pizzocorno%20San%20Ponzo%20Semola%20e%20Trebbiano%20Nizza%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Ponte%20Nizza.%20028U1602.md), con il quali i comuni di Cecima, San Ponzo Semola, Trebbiano Nizza e Pizzocorno, in provincia di Pavia, furono riuniti in unico Comune denominato "Ponte Nizza" e con sede nella frazione omonima gia' appartenente alla circoscrizione territoriale di San Ponzo Semola;
 
 Vista l'istanza 8 dicembre 1946, con la quale la maggioranza qualificata dei contribuenti del cessato comune di Cecima ne ha chiesto la ricostituzione in Comune autonomo;
 

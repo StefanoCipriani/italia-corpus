@@ -20,7 +20,7 @@ Considerato che il detto comune di Fonni, per le caratteristiche economico socia
 
 Viste le lettere n. 5289 del 4 dicembre 1957 del [Ministero dei lavori pubblici e n. 154505 in data 12 novembre 1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavori.pubblici::1957-11-12;154505) del Ministero del tesoro;
 
-Visti il [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e la [legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991);
+Visti il [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e la [legge 25 luglio 1952, n. 991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991);
 
 Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto con i Ministri per i lavori pubblici e per il tesoro; Decreta:
 

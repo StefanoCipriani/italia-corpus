@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 16 luglio 1936, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-07-16;1560), che istituisce per gli ufficiali della Guardia di finanza la medaglia al merito di lungo comando;
+Visto il [regio decreto 16 luglio 1936, n. 1560](../Regi%20decreti/Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando%20per%20ufficiali%20e%20sottufficiali%20della%20Regia%20guardia%20di%20finanza.%20036U1560.md), che istituisce per gli ufficiali della Guardia di finanza la medaglia al merito di lungo comando;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Articolo unico.
 
-I periodi minimi di comando di reparto previsti dall'[art. 3 del regio decreto 16 luglio 1936, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-07-16;1560#art_3), per il conferimento agli ufficiali della Guardia di finanza della "Medaglia militare al merito di lungo comando" sono cosi' modificati: 
+I periodi minimi di comando di reparto previsti dall'[art. 3 del regio decreto 16 luglio 1936, n. 1560](../Regi%20decreti/Istituzione%20della%20Medaglia%20militare%20al%20merito%20di%20lungo%20comando%20per%20ufficiali%20e%20sottufficiali%20della%20Regia%20guardia%20di%20finanza.%20036U1560.md), per il conferimento agli ufficiali della Guardia di finanza della "Medaglia militare al merito di lungo comando" sono cosi' modificati: 
  
 Medaglia d'oro. . . . . . . . . . . . . . . . . . . . . . . . 20 anni Medaglia d'argento. . . . . . . . . . . . . . . . . . . . . . 15 anni Medaglia di bronzo. . . . . . . . . . . . . . . . . . . . . . 10 anni
 

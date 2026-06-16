@@ -313,7 +313,7 @@ Rimane parimenti di competenza dei medesimi organi, con oneri a carico del bilan
 
 2.
 
-Resta altresi', sino alla data del 31 dicembre, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai sensi dell'[art. 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36), o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme. ((2)) 
+Resta altresi', sino alla data del 31 dicembre, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai sensi dell'[art. 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme. ((2)) 
  
 ------------------
 

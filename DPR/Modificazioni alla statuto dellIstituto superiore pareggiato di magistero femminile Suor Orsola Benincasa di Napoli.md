@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto lo statuto dell'Istituto superiore pareggiato di magistero femminile "Suor Orsola Benincasa" di Napoli, approvato con il [regio decreto 8 dicembre 1927, n. 2305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20dellIstituto%20superiore%20di%20magistero%20femminile%20%20Suor%20Orsola%20Benincasa%20%20in%20Napoli.%20027U2305.md), e modificato con i [regi decreti 1 ottobre 1936, n. 2442](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20pareggiato%20di%20magistero%20femminile%20Suor%20Orsola%20Benincasa%20di%20Napoli.%20036U2442.md) e [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;20) aprile 1039, n. 1052;
- Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Visto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md);
  Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Istituto predetto;
  Sentito il parere del Consiglio superiore della pubblica istruzione;
@@ -42,7 +42,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Per la validita' delle adunanze del Consiglio di amministrazione e' necessaria la presenza di almeno quattro dei suoi componenti.
  Agli articoli 11 e 12, viene soppresso l'insegnamento di "biologia delle razze umane".
  All'art. 16, al primo comma, vanno soppresse le parole: "e risultano dalla tabella A annessa al presente statuto"; all'art. 17, secondo comma, e' aggiunto: "forniti di libera docenza universitaria".
- All'art. 21, nel secondo comma le parole: "dal Consiglio di amministrazione, sentito il Consiglio direttivo" vanno sostituite con le parole: "a norma del disposto dell'[art. 17 del regio decreto 4 giugno 1938, numero 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269#art_17)".
+ All'art. 21, nel secondo comma le parole: "dal Consiglio di amministrazione, sentito il Consiglio direttivo" vanno sostituite con le parole: "a norma del disposto dell'[art. 17 del regio decreto 4 giugno 1938, numero 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md)".
  Agli articoli 16, 18, 33 e 35, la parola "regie" e' sostituita con la parola "governative".
  All'art. 36, al secondo comma, le parole "nella apposita tabella annessa al presente statuto" vanno sostituite con le parole "dal Consiglio di amministrazione".
  All'art. 39, le parole "dell'educazione nazionale" vanno sostituite con le parole "della pubblica istruzione".

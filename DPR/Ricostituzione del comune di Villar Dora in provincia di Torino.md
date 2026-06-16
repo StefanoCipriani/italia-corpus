@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 26 gennaio 1928, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-26;160), con il quale i comuni di Almese, Rivera e Villar Dora, in Provincia di Torino, furono riuniti in unico Comune con denominazione e capoluogo "Almese";
+Visto il [regio decreto 26 gennaio 1928, n. 160](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Almese%20Rivera%20e%20Villar%20Dora%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Almese.%20028U0160.md), con il quale i comuni di Almese, Rivera e Villar Dora, in Provincia di Torino, furono riuniti in unico Comune con denominazione e capoluogo "Almese";
 
 Vista l'istanza 7 settembre 1947, con la quale la maggioranza dei contribuenti del cessato comune di Villar Dora ne ha chiesto la ricostituzione in Comune autonomo;
 

@@ -48,7 +48,7 @@ Nel territorio della Regione Friuli-Venezia Giulia i prefetti provvedono all'app
 
 ## Art. 6.
 
-Nulla e' innovato alle competenze attribuite agli organi dello Stato dagli articoli 1, 2 e 3 del regolamento amministrativo approvato con [regio decreto 5 febbraio 1891, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-02-05;99).
+Nulla e' innovato alle competenze attribuite agli organi dello Stato dagli articoli 1, 2 e 3 del regolamento amministrativo approvato con [regio decreto 5 febbraio 1891, n. 99](../Regi%20decreti/Che%20approva%20gli%20uniti%20regolamenti%20per%20la%20esecuzione%20della%20legge%2017%20luglio%201890%20n.%206972%20sulle%20istituzioni%20pubbliche%20di%20beneficenza.%20091U0099.md).
 
 ## Art. 7.
 

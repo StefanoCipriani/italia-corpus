@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Veduto il [decreto del Presidente della Repubblica 20 aprile 1965, n. 915](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20e%20di%20due%20posti%20di%20assistente%20ordinario%20convenzionati%20da%20destinare%20allinsegnamento%20di%20Puericultura%20presso%20la%20Facolta%20di%20medicina%20e%20chirurgia%20_b7660b689033.md);
 

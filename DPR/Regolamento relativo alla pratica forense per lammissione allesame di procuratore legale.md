@@ -118,7 +118,7 @@ Il provvedimento di iscrizione nel registro speciale e' immediatamente comunicat
 
 3.
 
-Il periodo di pratica svolto presso lo studio di un professionista diverso da quello precedentemente indicato al consiglio dell'Ordine, senza la previa comunicazione scritta al consiglio medesimo, non e' riconosciuto efficace ai fini del compimento della pratica stessa e del rilascio del relativo certificato a norma dell'[art. 10 del regio decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_10).
+Il periodo di pratica svolto presso lo studio di un professionista diverso da quello precedentemente indicato al consiglio dell'Ordine, senza la previa comunicazione scritta al consiglio medesimo, non e' riconosciuto efficace ai fini del compimento della pratica stessa e del rilascio del relativo certificato a norma dell'[art. 10 del regio decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md).
 
 Note all'art. 5:
  - Il testo dell'[art. 8 del R.D.L. n. 1578/1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933;1578#art_8) (per il titolo si veda nelle note alle premesse), come sostituito dall'[art. 1 della legge 24 luglio 1985, n. 406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-07-24;406#art_1), poi modificato dall'[art. 10 della legge 27 giugno 1988, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-06-27;242#art_10), e' il seguente:
@@ -189,7 +189,7 @@ Nota all'[art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:198
 
 1.
 
-Il certificato di compiuta pratica di cui all'[articolo 10 del regio decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_10), viene rilasciato dal consiglio dell'ordine del luogo ove il praticante ha svolto la maggior parte della pratica ovvero, in caso di parita', del luogo in cui la pratica e' stata iniziata. Il certificato di compiuta pratica non puo' essere rilasciato piu' di una volta.
+Il certificato di compiuta pratica di cui all'[articolo 10 del regio decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), viene rilasciato dal consiglio dell'ordine del luogo ove il praticante ha svolto la maggior parte della pratica ovvero, in caso di parita', del luogo in cui la pratica e' stata iniziata. Il certificato di compiuta pratica non puo' essere rilasciato piu' di una volta.
 
 2.
 
@@ -203,7 +203,7 @@ In caso di trasferimento del praticante, il consiglio dell'ordine di provenienza
 
 1.
 
-Le norme di cui al presente regolamento sostituiscono quelle di cui agli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_5), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_7), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_9) e [71 del regio decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_71), relative alle modalita' di svolgimento della pratica forense.
+Le norme di cui al presente regolamento sostituiscono quelle di cui agli [articoli 5](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), [6](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), [7](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), [9](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md) e [71 del regio decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), relative alle modalita' di svolgimento della pratica forense.
 
 Nota all'art. 10:
  - Per il titolo del [R.D. n. 37/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;37) si veda nelle note all'art. 5. Il testo delle disposizioni abrogate (articoli 5, 6, 7, 9 e 71) era il seguente:

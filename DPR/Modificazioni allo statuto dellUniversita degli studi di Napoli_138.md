@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Napoli.%20039U1162.md) e modificato con [regio decreto 26 ottobre 1940, n. 1904](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Napoli.%20040U1904.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -130,7 +130,7 @@ Dopo l'art. 580, e con il conseguente spostamento della numerazione degli artico
 
 Scuola diretta a fini speciali di preparazione per tecnici di audiometria
 
-Art. 581. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), la scuola di preparazione per tecnici di audiometria che ha lo scopo di preparare tecnici idonei a collaborare con il medico audiologo.
+Art. 581. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), la scuola di preparazione per tecnici di audiometria che ha lo scopo di preparare tecnici idonei a collaborare con il medico audiologo.
 
 Art. 582. - La sede della scuola e' presso l'istituto di clinica otorinolaringoiatrica della prima facolta' di medicina e chirurgia dell'Universita' di Napoli. L'indirizzo e' teorico-pratico.
 
@@ -196,7 +196,7 @@ Tale diploma non permette l'esercizio autonomo professionale, ma solo la collabo
 
 Scuola diretta a fini speciali di preparazione per tecnici di foniatria
 
-Art. 591. - E' istituita ai sensi dell'art. 20 del testo unico sulle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), la scuola di preparazione per tecnici di foniatria (logoterapisti) che ha lo scopo di preparare rieducatori in grado di collaborare con il medico foniatra al trattamento ortofonico dei minorati dell'udito, della voce, della parola e del linguaggio.
+Art. 591. - E' istituita ai sensi dell'art. 20 del testo unico sulle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), la scuola di preparazione per tecnici di foniatria (logoterapisti) che ha lo scopo di preparare rieducatori in grado di collaborare con il medico foniatra al trattamento ortofonico dei minorati dell'udito, della voce, della parola e del linguaggio.
 
 Art. 592. La scuola ai fini speciali per tecnici di foniatria e' istituita presso la clinica otorinolaringoiatrica della prima facolta' di medicina e chirurgia dell'Universita' di Napoli.
 
@@ -270,7 +270,7 @@ Dopo l'art. 652, e con il conseguente spostamento della numerazione degli artico
 
 Scuola diretta a fini speciali di preparazione per tecnici di foniatria
 
-Art. 653. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto del 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), la scuola di preparazione per tecnici di foniatria (logopedisti) della durata di tre anni che ha lo scopo di preparare rieducatori in grado di collaborare con il medico foniatra al trattamento ortofonico dei minorati dell'udito, della voce, della parola e del linguaggio.
+Art. 653. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto del 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), la scuola di preparazione per tecnici di foniatria (logopedisti) della durata di tre anni che ha lo scopo di preparare rieducatori in grado di collaborare con il medico foniatra al trattamento ortofonico dei minorati dell'udito, della voce, della parola e del linguaggio.
 
 Art. 654. - La sede della scuola e' presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Napoli, seconda facolta' di medicina e chirurgia. L'indirizzo e' teorico-pratico.
 
@@ -363,7 +363,7 @@ Registrato alla Corte dei conti, addi' 31 gennaio 1978 Registro n. 12 Istruzione
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Napoli.%20039U1162.md) e modificato con [regio decreto 26 ottobre 1940, n. 1904](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Napoli.%20040U1904.md), e successive modificazioni; 
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md); 
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; 
  Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md); 
@@ -427,7 +427,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
 Scuola diretta a fini speciali di preparazione per tecnici di audiometria 
  
- Art. 581. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), la scuola di preparazione per tecnici di audiometria che ha lo scopo di preparare tecnici idonei a collaborare con il medico audiologo. 
+ Art. 581. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), la scuola di preparazione per tecnici di audiometria che ha lo scopo di preparare tecnici idonei a collaborare con il medico audiologo. 
  Art. 582. - La sede della scuola e' presso l'istituto di clinica otorinolaringoiatrica della prima facolta' di medicina e chirurgia dell'Universita' di Napoli. L'indirizzo e' teorico-pratico. 
  Al funzionamento della scuola si provvedera' con i proventi delle tasse e soprattasse dovute dagli iscritti e con eventuali contributi di enti pubblici e privati. 
  Le tasse e soprattasse-annuali a carico degli iscritti restano cosi' suddivise: 
@@ -464,7 +464,7 @@ Scuola diretta a fini speciali di preparazione per tecnici di audiometria
  
 Scuola diretta a fini speciali di preparazione per tecnici di foniatria 
  
- Art. 591. - E' istituita ai sensi dell'art. 20 del testo unico sulle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), la scuola di preparazione per tecnici di foniatria (logoterapisti) che ha lo scopo di preparare rieducatori in grado di collaborare con il medico foniatra al trattamento ortofonico dei minorati dell'udito, della voce, della parola e del linguaggio. 
+ Art. 591. - E' istituita ai sensi dell'art. 20 del testo unico sulle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), la scuola di preparazione per tecnici di foniatria (logoterapisti) che ha lo scopo di preparare rieducatori in grado di collaborare con il medico foniatra al trattamento ortofonico dei minorati dell'udito, della voce, della parola e del linguaggio. 
  Art. 592. La scuola ai fini speciali per tecnici di foniatria e' istituita presso la clinica otorinolaringoiatrica della prima facolta' di medicina e chirurgia dell'Universita' di Napoli. 
  Art. 593. - La durata del corso della scuola e' di tre anni.
 L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di quindici. 
@@ -505,7 +505,7 @@ L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti all
  
 Scuola diretta a fini speciali di preparazione per tecnici di foniatria 
  
- Art. 653. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto del 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), la scuola di preparazione per tecnici di foniatria (logopedisti) della durata di tre anni che ha lo scopo di preparare rieducatori in grado di collaborare con il medico foniatra al trattamento ortofonico dei minorati dell'udito, della voce, della parola e del linguaggio. 
+ Art. 653. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto del 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), la scuola di preparazione per tecnici di foniatria (logopedisti) della durata di tre anni che ha lo scopo di preparare rieducatori in grado di collaborare con il medico foniatra al trattamento ortofonico dei minorati dell'udito, della voce, della parola e del linguaggio. 
  Art. 654. - La sede della scuola e' presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Napoli, seconda facolta' di medicina e chirurgia. L'indirizzo e' teorico-pratico. 
  Al funzionamento della scuola si provvedera' con i proventi delle tasse e soprattasse dovute dagli iscritti e con eventuali contributi di enti pubblici e privati. 
  Le tasse e soprattasse annuali a carico degli iscritti restano cosi' suddivise: 

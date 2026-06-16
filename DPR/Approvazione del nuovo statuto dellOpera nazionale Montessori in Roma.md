@@ -14,7 +14,7 @@ N.
 
 1006.
 
-Decreto del Presidente della Repubblica 25 novembre 1983, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvato il nuovo statuto dell'Opera nazionale Montessori, in Roma, eretta in ente morale con [regio decreto 8 agosto 1924, n. 1534](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-08-08;1534).
+Decreto del Presidente della Repubblica 25 novembre 1983, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvato il nuovo statuto dell'Opera nazionale Montessori, in Roma, eretta in ente morale con [regio decreto 8 agosto 1924, n. 1534](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellOpera%20Montessori%20in%20Roma.%20024U1534.md).
 
 Visto, il Guardasigilli: MARTINAZZOLI
  Registrato alla Corte dei conti, addi' 8 marzo 1984

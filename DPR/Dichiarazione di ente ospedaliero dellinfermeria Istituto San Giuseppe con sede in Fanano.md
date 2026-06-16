@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), recante norme sugli enti ospedalieri e sull'assistenza ospedaliera;
- Visto il decreto del prefetto della provincia di Modena, in data 25 agosto 1939, con il quale l'ospedale "Istituto San Giuseppe" di Fanano, e' stato classificato "infermeria" ai sensi del [regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631);
+ Visto il decreto del prefetto della provincia di Modena, in data 25 agosto 1939, con il quale l'ospedale "Istituto San Giuseppe" di Fanano, e' stato classificato "infermeria" ai sensi del [regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md);
  Visto il provvedimento del medico provinciale di Modena, in data 25 novembre 1969, con il quale si attesta che l'infermeria "Istituto San Giuseppe" di Fanano non e', allo stato attuale, in possesso dei requisiti per essere classificata tra gli ospedali previsti dal titolo III della [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132);
  Considerato che l'ente anzidetto alla data di entrata in vigore della [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), provvedeva esclusivamente al ricovero ed alla cura degli infermi, in conformita' dell'art. 2 dello statuto approvato con regio decreto 28 agosto 1924;
  Visti gli articoli 3, 4, 9, 54 e 65 della legge stessa;

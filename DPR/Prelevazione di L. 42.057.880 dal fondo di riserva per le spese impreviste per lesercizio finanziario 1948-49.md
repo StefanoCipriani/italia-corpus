@@ -63,13 +63,13 @@ pubblico in talune zone del territorio nazionale " 5.600.000
  Totale... L. 42.057.880
  ----------
 
- Poiche' ricorrono le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, si fa luogo a tale assegnazione mediante prelevazione dal tondo di riserva per le spese impreviste, in base alla facolta' recata dall'art. 42 della legge di contabilita', approvata con [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440).
+ Poiche' ricorrono le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, si fa luogo a tale assegnazione mediante prelevazione dal tondo di riserva per le spese impreviste, in base alla facolta' recata dall'art. 42 della legge di contabilita', approvata con [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
  Il Ministro per il tesoro: PELLA 
 
  IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto l'[art. 87, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com4) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
  Viste le [leggi 26 ottobre 1948, n. 1256 e 30 ottobre 1948, nn. 1262 e 1271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-10-30;1271);
  Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1948-1949 esiste la necessaria disponibilita';

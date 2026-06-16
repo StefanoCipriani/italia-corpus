@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il testo unico delle leggi sull'assunzione diretta dei pubblici servizi, approvato con [regio decreto 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578), e successive modificazioni, nonche', in particolare, gli articoli 23 e 31 del predetto testo unico;
+Visto il testo unico delle leggi sull'assunzione diretta dei pubblici servizi, approvato con [regio decreto 15 ottobre 1925, n. 2578](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md), e successive modificazioni, nonche', in particolare, gli articoli 23 e 31 del predetto testo unico;
 
 Visto l'[articolo 4 della legge 23 aprile 1981, n. 153](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201981%20n.%2038%20recante%20provvedimenti%20finanziari%20per%20gli%20enti%20locali%20per%20lanno%201981.md);
 
@@ -20,7 +20,7 @@ Visti gli [articoli 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ri
 
 Visto il regolamento emanato con [regio decreto 10 marzo 1904, n. 108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%2029%20marzo%201903%20sulla%20assunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20004U0108.md), per l'esecuzione della [legge 29 marzo 1903, n. 103](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni.%20003U0103.md);
 
-Ritenuta l'opportunita' di procedere all'emanazione di un regolamento di esecuzione del testo unico delle leggi sull'assunzione diretta dei pubblici servizi da parte dei comuni e delle province di cui al [regio decreto 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578), che tenga conto di quanto disposto dall'[articolo 4 della legge 23 aprile 1981, n. 153](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201981%20n.%2038%20recante%20provvedimenti%20finanziari%20per%20gli%20enti%20locali%20per%20lanno%201981.md), in materia di amministrazione e contabilita' per le aziende di servizi degli enti locali;
+Ritenuta l'opportunita' di procedere all'emanazione di un regolamento di esecuzione del testo unico delle leggi sull'assunzione diretta dei pubblici servizi da parte dei comuni e delle province di cui al [regio decreto 15 ottobre 1925, n. 2578](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md), che tenga conto di quanto disposto dall'[articolo 4 della legge 23 aprile 1981, n. 153](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201981%20n.%2038%20recante%20provvedimenti%20finanziari%20per%20gli%20enti%20locali%20per%20lanno%201981.md), in materia di amministrazione e contabilita' per le aziende di servizi degli enti locali;
 
 Sentite l'Associazione nazionale dei comuni d'Italia (ANCI) e la Confederazione italiana dei servizi pubblici degli enti locali (CISPEL);
 
@@ -36,7 +36,7 @@ EMANA il seguente decreto:
 
 1.
 
-E' approvato, in esecuzione degli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578#art_23) e [31, del regio decreto 15 ottobre 1925, n. 2578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;2578#art_31), e dell'[articolo 4 della legge 23 aprile 1981, n. 153](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201981%20n.%2038%20recante%20provvedimenti%20finanziari%20per%20gli%20enti%20locali%20per%20lanno%201981.md), l'annesso regolamento delle aziende di servizi dipendenti dagli enti locali, vistato dal Ministro proponente.
+E' approvato, in esecuzione degli [articoli 23](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md) e [31, del regio decreto 15 ottobre 1925, n. 2578](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20sullassunzione%20diretta%20dei%20pubblici%20servizi%20da%20parte%20dei%20Comuni%20e%20delle%20Provincie.%20025U2578.md), e dell'[articolo 4 della legge 23 aprile 1981, n. 153](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201981%20n.%2038%20recante%20provvedimenti%20finanziari%20per%20gli%20enti%20locali%20per%20lanno%201981.md), l'annesso regolamento delle aziende di servizi dipendenti dagli enti locali, vistato dal Ministro proponente.
 
 2.
 

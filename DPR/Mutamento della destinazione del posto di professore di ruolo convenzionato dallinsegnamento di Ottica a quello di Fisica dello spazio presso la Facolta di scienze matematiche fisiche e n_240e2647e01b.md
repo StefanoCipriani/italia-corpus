@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Veduto il [decreto del Presidente della Repubblica 8 novembre 1957, n. 1235](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20convenzionato%20da%20assegnare%20allinsegnamento%20di%20ottica%20presso%20lUniversita%20degli%20studi%20di%20Firenze.md), con il quale venne istituito un posto di professore di ruolo convenzionato destinato all'insegnamento di "Ottica" presso la Facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Firenze;
 

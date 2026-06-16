@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pisa.%20026U2278.md), e modificato con [regio decreto 13 ottobre 1927, n. 2225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pisa.%20027U2225.md), o successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -34,7 +34,7 @@ Dopo l'art. 163 e con il conseguente spostamento della successiva numerazione so
 
 Scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici
 
-Art. 164. - La scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici e' istituita presso l'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle vigenti leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+Art. 164. - La scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici e' istituita presso l'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle vigenti leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
 
 La scuola ha per scopo di formare il personale scientificamente, tecnicamente e professionalmente preparato per la conservazione e il restauro del patrimonio artistico italiano, e per le funzioni della carriera direttiva e di concetto dell'amministrazione delle antichita' e belle arti.
 
@@ -107,7 +107,7 @@ Registrato alla Corte dei conti, addi' 9 marzo 1968 Atti del Governo, registro n
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pisa.%20026U2278.md), e modificato con [regio decreto 13 ottobre 1927, n. 2225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pisa.%20027U2225.md), o successive modificazioni;
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), a successive modificazioni;
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
@@ -121,7 +121,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Dopo l'art. 163 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici annessa alla facolta' di lettere e filosofia.
  Scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici
- Art. 164. - La scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici e' istituita presso l'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle vigenti leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+ Art. 164. - La scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici e' istituita presso l'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle vigenti leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
  La scuola ha per scopo di formare il personale scientificamente, tecnicamente e professionalmente preparato per la conservazione e il restauro del patrimonio artistico italiano, e per le funzioni della carriera direttiva e di concetto dell'amministrazione delle antichita' e belle arti.
  Art. 165. - La scuola speciale cura la preparazione professionale dei conservatori delle opere d'arte.
  Art. 166. - I corsi hanno insegnamenti teorici e sperimentali ed esercitazioni speciali, hanno la durata di un biennio e danno adito al conferimento del diploma di conservatore delle opere d'arte. Ogni anno di corso ha la durata di un anno accademico.

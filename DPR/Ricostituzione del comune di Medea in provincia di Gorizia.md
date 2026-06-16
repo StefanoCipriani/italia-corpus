@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 3 agosto 1928, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1933), con il quale i comuni di Brazzano, Cormons e Medea furono riuniti in unico Comune, con denominazione e capoluogo "Corinons";
+Visto il [regio decreto 3 agosto 1928, n. 1933](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brazzano%20Cormons%20e%20Medea%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Cormons%20.%20028U1933.md), con il quale i comuni di Brazzano, Cormons e Medea furono riuniti in unico Comune, con denominazione e capoluogo "Corinons";
 
 Viste le istanze 16 novembre e 9 dicembre 1947, con le quali la maggioranza dei contribuenti del cessato comune di Medea ne ha chiesto la ricostituzione in Comune autonomo;
 

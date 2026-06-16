@@ -464,7 +464,7 @@ A decorrere dall'anno accademico 2025/2026 e fino all'entrata in vigore del rego
 
 2.
 
-L'autorizzazione e' concessa, su parere del CNAM, in ordine alla qualificazione dell'istituzione e alla conformita' dell'ordinamento didattico per i corsi proposti, e dell'ANVUR, in ordine all'adeguatezza delle strutture, delle risorse finanziarie e del personale alla tipologia dei corsi da attivare. A tale fine l'ANVUR puo' avvalersi di esperti della valutazione ai sensi e nei limiti di cui all'[articolo 12, comma 4, lettera d, del decreto del Presidente della Repubblica 1° febbraio 2010, n. 76](Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR%20adottato%20ai%20sensi%20dellarticolo%202%20comma%20140%20de_9466d9d65f54.md).
+L'autorizzazione e' concessa, su parere del CNAM, in ordine alla qualificazione dell'istituzione e alla conformita' dell'ordinamento didattico per i corsi proposti, e dell'ANVUR, in ordine all'adeguatezza delle strutture, delle risorse finanziarie e del personale alla tipologia dei corsi da attivare. A tale fine l'ANVUR puo' avvalersi di esperti della valutazione ai sensi e nei limiti di cui all'[articolo 12, comma 4, lettera d, del decreto del Presidente della Repubblica 1° febbraio 2010, n. 76](../Regolamenti%20governativi/Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR%20adottato%20ai%20sensi%20dellarticolo%202%20comma%20140%20de_9466d9d65f54.md).
 
 ))
 
@@ -524,7 +524,7 @@ Dall'attuazione del presente provvedimento non derivano nuovi o maggiori oneri p
 
 1.
 
-Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico ((generale)) di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico ((generale)) di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

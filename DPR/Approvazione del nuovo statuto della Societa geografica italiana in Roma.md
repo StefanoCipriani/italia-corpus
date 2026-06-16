@@ -14,7 +14,7 @@ N.
 
 908.
 
-Decreto del Presidente della Repubblica 3 ottobre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto della Societa' geografica italiana, in Roma, eretta in ente morale con [regio decreto 21 marzo 1869, n. 2119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1869-03-21;2119).
+Decreto del Presidente della Repubblica 3 ottobre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto della Societa' geografica italiana, in Roma, eretta in ente morale con [regio decreto 21 marzo 1869, n. 2119](../Regi%20decreti/Che%20costituisce%20in%20Corpo%20mortale%20la%20Societa%20Geografica%20Italiana%20residente%20in%20Firenze.%206902119R.md).
 
 Visto, il Guardasigilli: BONIFACIO
  Registrato alla Corte dei conti, addi' 28 dicembre 1978

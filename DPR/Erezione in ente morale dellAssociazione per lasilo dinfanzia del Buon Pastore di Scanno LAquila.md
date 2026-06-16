@@ -14,7 +14,7 @@ N.
 
 1188.
 
-Decreto del Presidente della Repubblica 20 settembre 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, viene revocato il [regio decreto 8 luglio 1929, n. 1277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-07-08;1277), con il quale l'Asilo infantile di Scanno (L'Aquila) veniva eretto in ente morale e ne veniva approvato il relativo statuto. Viene quindi eretta in ente morale l'Associazione per l'asilo d'infanzia del "Buon Pastore" di Scanno (L'Aquila) e ne viene approvato lo statuto.
+Decreto del Presidente della Repubblica 20 settembre 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, viene revocato il [regio decreto 8 luglio 1929, n. 1277](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAsilo%20infantile%20di%20Scanno.%20029U1277.md), con il quale l'Asilo infantile di Scanno (L'Aquila) veniva eretto in ente morale e ne veniva approvato il relativo statuto. Viene quindi eretta in ente morale l'Associazione per l'asilo d'infanzia del "Buon Pastore" di Scanno (L'Aquila) e ne viene approvato lo statuto.
 
 Visto, il Guardasigilli: MORO
  Registrato alla Corte dei conti, addi' 9 dicembre 1955

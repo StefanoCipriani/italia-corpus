@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 9 maggio 1929, n. 994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-09;994), che approva il regolamento sulla vigilanza igienica del latte destinato al consumo diretto;
+Visto il [regio decreto 9 maggio 1929, n. 994](../Regi%20decreti/Approvazione%20del%20regolamento%20sulla%20vigilanza%20igienica%20del%20latte%20destinato%20al%20consumo%20diretto.%20029U0994.md), che approva il regolamento sulla vigilanza igienica del latte destinato al consumo diretto;
 
 Udito il parere del Consiglio superiore di sanita';
 
@@ -24,12 +24,12 @@ Sulla proposta del Ministro per la sanita', di concerto con i Ministri per la gr
 
 ## Art. 1.
 
-La lettera c) dell'art. 16 del regolamento, approvato con [regio decreto 9 maggio 1929, n. 994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-09;994), e' cosi' modificata: 
+La lettera c) dell'art. 16 del regolamento, approvato con [regio decreto 9 maggio 1929, n. 994](../Regi%20decreti/Approvazione%20del%20regolamento%20sulla%20vigilanza%20igienica%20del%20latte%20destinato%20al%20consumo%20diretto.%20029U0994.md), e' cosi' modificata: 
  "c) residuo secco magro non inferiore all'8,70% E' ammesso un residuo secco magro sino al limite dello 8,30%, purche' il tasso di grasso sia superiore al 3,15%.
 
 ## Art. 2.
 
-L'art. 45 del regolamento approvato con [regio decreto 9 maggio 1929, n. 994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-05-09;994), e' sostituito dal seguente:
+L'art. 45 del regolamento approvato con [regio decreto 9 maggio 1929, n. 994](../Regi%20decreti/Approvazione%20del%20regolamento%20sulla%20vigilanza%20igienica%20del%20latte%20destinato%20al%20consumo%20diretto.%20029U0994.md), e' sostituito dal seguente:
  "E' consentita la produzione e la vendita del latte scremato, e del latte parzialmente scremato.
  Il latte scremato e quello parzialmente scremato, sottoposti a trattamento di pastorizzazione presso le Centrali o Centri debitamente autorizzati, devono essere venduti soltanto nelle "latterie" aventi i requisiti di cui al Titolo V del presente regolamento.
  Il latte scremato e quello parzialmente scremato, sottoposti a sterilizzazione o altri analoghi procedimenti che ne assicurino l'indefinita conservazione, possono essere venduti sia nelle latterie che nei negozi di generi alimentari.

@@ -12,16 +12,16 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Vista la domanda 24 gennaio 1951, con la quale il Consorzio idraulico e di miglioramento fondiario del Basso Pavese, con sede in Chignolo Po, ha chiesto la classifica del proprio comprensorio fra quelli di bonifica ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+ Vista la domanda 24 gennaio 1951, con la quale il Consorzio idraulico e di miglioramento fondiario del Basso Pavese, con sede in Chignolo Po, ha chiesto la classifica del proprio comprensorio fra quelli di bonifica ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
  Ritenuto che il territorio si estende per ettari 6144 fra i fiumi Lambro, Po, Olona e l'altipiano di Gronda di Santa Cristina-Miradolo-Chignolo Po e comprende terreni alluvionali, ove si riscontrano sia depressioni, che formano vaste paghe permanentemente paludose, sia zone siccitose di scarsa fertilita' per mancanza di irrigazioni;
  Che ricorrono le condizioni per procedere alla richiesta classifica;
  Visto il parere n. 266 espresso dal Comitato speciale per la bonifica nell'adunanza del 29 febbraio 1952;
- Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+ Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
  Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro (ad interim) e per i lavori pubblici;
 
  Decreta:
 
- Il territorio del Basso Pavese in provincia di Pavia, della estensione di ettari 6144 delimitato ad est dalle arginature dei fiumi Lambro e Po, a sud dall'arginatura del Po, ad ovest dall'arginatura del fiume Olona, a nord dall'altipiano di Gronda di Santa Cristina-Miradolo-Chignolo Po, e' classificato ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), fra i comprensori di bonifica di 2ª categoria sulla base della corografia, che munita del "Visto" del Ministro proponente, forma parte integrante del presente decreto.
+ Il territorio del Basso Pavese in provincia di Pavia, della estensione di ettari 6144 delimitato ad est dalle arginature dei fiumi Lambro e Po, a sud dall'arginatura del Po, ad ovest dall'arginatura del fiume Olona, a nord dall'altipiano di Gronda di Santa Cristina-Miradolo-Chignolo Po, e' classificato ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), fra i comprensori di bonifica di 2ª categoria sulla base della corografia, che munita del "Visto" del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

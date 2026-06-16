@@ -14,9 +14,9 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Visto l'[articolo 62 del regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611#art_62), recante approvazione del T.U. delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato;
+Visto l'[articolo 62 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), recante approvazione del T.U. delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato;
 
-Visto il [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), recante approvazione del regolamento per la esecuzione del T.U. delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato;
+Visto il [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), recante approvazione del regolamento per la esecuzione del T.U. delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato;
 
 Visto l'[articolo 3, comma 6, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3-com6);
 
@@ -38,7 +38,7 @@ Emana il seguente regolamento:
 
 1.
 
-L'[articolo 13 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_13), e successive modificazioni, e' sostituito dal seguente: 
+L'[articolo 13 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e successive modificazioni, e' sostituito dal seguente: 
  «Art. 13. - 1. L'esame per l'accesso alla qualifica di procuratore dello Stato consta di tre prove scritte e di una prova orale. 
  2. Le prove scritte hanno luogo nella provincia di Roma e consistono: 
  a) nello svolgimento di un tema teorico-pratico di diritto privato e/o di diritto processuale civile; 
@@ -56,9 +56,9 @@ Avvertenza:
  b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale; 
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge; 
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge.». 
- - Il testo dell'[art. 62 del regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611#art_62) (Approvazione del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato), pubblicato nella Gazzetta Ufficiale 12 dicembre 1933, n. 286, e' il seguente: 
+ - Il testo dell'[art. 62 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md) (Approvazione del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato), pubblicato nella Gazzetta Ufficiale 12 dicembre 1933, n. 286, e' il seguente: 
  «Art. 62. - Con decreto reale, su proposta del Capo del Governo, di concerto col Ministro per le finanze, saranno emanate le norme occorrenti per l'attuazione del presente testo unico.». 
- - Il [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612) (Approvazione del regolamento per la esecuzione del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato), pubblicato nella Gazzetta Ufficiale 12 dicembre 1933, n. 286. 
+ - Il [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md) (Approvazione del regolamento per la esecuzione del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato), pubblicato nella Gazzetta Ufficiale 12 dicembre 1933, n. 286. 
  - Il testo dell'[art. 3, comma 6, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3-com6) (Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo), e' il seguente: 
  «Art. 3 (Disposizioni in materia di dichiarazioni sostitutive e di semplificazione delle domande di ammissione agli impieghi). - (Omissis). 
  6. La partecipazione ai concorsi indetti da pubbliche amministrazioni non e' soggetta a limiti di eta', salvo deroghe dettate da regolamenti delle singole amministrazioni connesse alla natura del servizio o ad oggettive necessita' dell'amministrazione. 
@@ -71,7 +71,7 @@ Avvertenza:
 
 1.
 
-Gli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_16) e [17 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_17), sono sostituiti dai seguenti: 
+Gli [articoli 16](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md) e [17 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), sono sostituiti dai seguenti: 
  «Art. 16. - 1. La commissione giudicatrice di concorsi a posti di procuratore dello Stato e' composta da un avvocato dello Stato alla quarta classe di stipendio, con funzioni di Presidente, da due avvocati dello Stato a classe di stipendio non inferiore alla terza, nonche' da un magistrato di Corte d'appello, designato dal presidente della Corte di appello di Roma, e da un avvocato o da un professore ordinario, designati rispettivamente dal presidente del Consiglio nazionale forense tra gli avvocati iscritti all'albo da almeno dieci anni, e dal rettore di una universita' statale tra i professori di ruolo in discipline giuridiche. Trascorsi trenta giorni dalla richiesta delle designazioni senza che esse siano pervenute, anche i componenti estranei all'Avvocatura dello Stato sono scelti dall'avvocato generale dello Stato. 
  2. Le funzioni di segretario della commissione giudicatrice sono espletate da un avvocato dello Stato alla prima classe di stipendio o da un procuratore dello Stato. 
  3. I componenti della commissione e il segretario sono nominati dall'avvocato generale dello Stato. 
@@ -83,7 +83,7 @@ Gli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.dec
 
 1.
 
-Al [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), e successive modificazioni, dopo il terzo comma dell'articolo 18, sono inseriti i seguenti: 
+Al [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e successive modificazioni, dopo il terzo comma dell'articolo 18, sono inseriti i seguenti: 
  «Nell'ipotesi di cui al comma 1, dell'articolo 17, la Commissione, nel giorno stabilito per l'espletamento della prova da svolgersi anticipatamente, procede preliminarmente alla individuazione della materia su cui vertera' la prova mediante sorteggio tra le categorie di prove scritte di cui all'articolo 13, comma 2, lettere a), b) e c). 
  A tale fine, la commissione predispone tre distinte buste perfettamente uguali, che sono dal presidente chiuse e suggellate, ciascuna contenente l'indicazione di una di tali prove. Dopo aver proceduto all'appello dei concorrenti, all'estrazione si procede con le modalita' di cui al terzo comma. Si applica la disposizione del terzo periodo del terzo comma. 
  Di seguito, si procede agli adempimenti relativi al sorteggio dei temi della prova prescelta, secondo le modalita' di cui al secondo e terzo comma.».
@@ -101,7 +101,7 @@ Note all'art. 3:
 
 1.
 
-Dopo l'[articolo 24 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_24), sono inseriti i seguenti: 
+Dopo l'[articolo 24 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), sono inseriti i seguenti: 
  «Art. 24-bis - 1. Nel concorso per l'accesso alla qualifica di procuratore dello Stato, la commissione, subito dopo la lettura di ciascun elaborato assegna al medesimo il relativo punteggio secondo quanto previsto dall'articolo 25 e procede all'esame dei successivi elaborati solo se ai precedenti sia stato attribuito almeno il punteggio di sei decimi. 
  Art. 24-ter - 1. Qualora una delle prove si svolga anticipatamente secondo quanto previsto dall'articolo 17, la prima commissione procede alla correzione dell'elaborato secondo le modalita' indicate dall'articolo 25. 
  2. All'esito della correzione, la commissione procede al riconoscimento dei nomi di tutti i candidati ai sensi del decimo comma dell'articolo 24. 
@@ -116,7 +116,7 @@ Note all'art. 4:
 
 1.
 
-L'[articolo 26 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_26) e' sostituito dal seguente: 
+L'[articolo 26 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md) e' sostituito dal seguente: 
  «Art. 26. - 1. Per l'ammissione alle prove orali, i candidati devono aver conseguito nel concorso ad avvocato dello Stato non meno di otto decimi in media nelle prove scritte e non meno di sette decimi in ciascuna di esse e, nel concorso a procuratore dello Stato, non meno di sei decimi in ciascuna delle tre prove, anche nel caso di cui all'articolo 17, comma 1. In ogni caso la valutazione e' espressa unicamente mediante punteggio numerico.».
 
 Note all'art. 5: 
@@ -146,19 +146,19 @@ Note all'art. 7:
 
 1.
 
-Gli articoli 10, primo comma, 12, 18, dal settimo al quindicesimo comma, nonche' 30 del [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), sono abrogati.
+Gli articoli 10, primo comma, 12, 18, dal settimo al quindicesimo comma, nonche' 30 del [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), sono abrogati.
 
 2.
 
-All'articolo 15, primo comma, primo periodo del [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), le parole: «da un avvocato dello Stato alla quarta classe di stipendio» sono sostituite dalle seguenti: «da un vice avvocato generale» e le parole: «o straordinario» sono soppresse.
+All'articolo 15, primo comma, primo periodo del [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), le parole: «da un avvocato dello Stato alla quarta classe di stipendio» sono sostituite dalle seguenti: «da un vice avvocato generale» e le parole: «o straordinario» sono soppresse.
 
 3.
 
-All'[articolo 28, secondo comma , del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_28-com2), le parole: «sostituto avvocato dello Stato» e «aggiunto di procura» sono sostituite, rispettivamente, dalle seguenti: «avvocato dello Stato» e «procuratore dello Stato».
+All'[articolo 28, secondo comma , del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), le parole: «sostituto avvocato dello Stato» e «aggiunto di procura» sono sostituite, rispettivamente, dalle seguenti: «avvocato dello Stato» e «procuratore dello Stato».
 
 4.
 
-All'[articolo 33, primo comma, del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_33-com1), nel primo e nel secondo periodo, le parole: «gli aggiunti di procura» sono sostituite dalle seguenti: «i procuratori dello Stato».
+All'[articolo 33, primo comma, del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), nel primo e nel secondo periodo, le parole: «gli aggiunti di procura» sono sostituite dalle seguenti: «i procuratori dello Stato».
 
 Note all'art. 8: 
  - Il testo dell'art. 10 del citato [regio decreto n. 1612 del 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933;1612), come modificato dal presente regolamento, e' il seguente: 
@@ -172,7 +172,7 @@ Note all'art. 8:
  Sono dichiarati idonei i candidati che nella prova orale abbiano conseguito non meno di otto punti nel concorso ai posti di avvocato dello Stato e non meno di sei nel concorso ai posti di procuratore dello Stato. 
  (Omissis).». 
  - Il testo dell'art. 33, primo comma, del citato [regio decreto n. 1612 del 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933;1612), come modificato dal presente regolamento, e' il seguente: 
- «Art. 33. - Gli avvocati dello Stato e i procuratori dello Stato destinati all'Avvocatura generale nonche' gli avvocati distrettuali dello Stato nominati a tenore dell'art. 31 del testo unico prestano il giuramento prescritto dall'[art. 6 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_6), avanti all'Avvocato generale dello Stato o a chi lo sostituisce. Gli avvocati dello Stato e i procuratori dello Stato destinati alle Avvocature distrettuali prestano il giuramento avanti il rispettivo avvocato distrettuale o a chi lo sostituisce.».
+ «Art. 33. - Gli avvocati dello Stato e i procuratori dello Stato destinati all'Avvocatura generale nonche' gli avvocati distrettuali dello Stato nominati a tenore dell'art. 31 del testo unico prestano il giuramento prescritto dall'[art. 6 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), avanti all'Avvocato generale dello Stato o a chi lo sostituisce. Gli avvocati dello Stato e i procuratori dello Stato destinati alle Avvocature distrettuali prestano il giuramento avanti il rispettivo avvocato distrettuale o a chi lo sostituisce.».
 
 ## Art. 9.
 

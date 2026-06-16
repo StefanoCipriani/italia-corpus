@@ -250,7 +250,7 @@ In attuazione dell'[articolo 1, comma 404, lettera a), della legge 27 dicembre 2
 
 2.
 
-Corrispondentemente, le dotazioni organiche delle qualifiche di prefetto, di viceprefetto e di viceprefetto aggiunto, previste nella tabella B allegata al [decreto legislativo 19 maggio 2000, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md), come modificata dal [decreto del Ministro dell'interno 4 ottobre 2002, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:2002-10-04;243), sono ridotte rispettivamente di dodici, sette e sessanta unita'.
+Corrispondentemente, le dotazioni organiche delle qualifiche di prefetto, di viceprefetto e di viceprefetto aggiunto, previste nella tabella B allegata al [decreto legislativo 19 maggio 2000, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md), come modificata dal [decreto del Ministro dell'interno 4 ottobre 2002, n. 243](../Regolamenti%20ministeriali/Regolamento%20concernente%20la%20modifica%20delle%20dotazioni%20organiche%20della%20carriera%20prefettizia%20ai%20sensi%20dellarticolo%207%20del%20decreto-legge%206%20maggio%202002%20n.%2083%20convertito%20nella%20legge%202%20luglio%202002%20n.%20133.md), sono ridotte rispettivamente di dodici, sette e sessanta unita'.
 
 3.
 

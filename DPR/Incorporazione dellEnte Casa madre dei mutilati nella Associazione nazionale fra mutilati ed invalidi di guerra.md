@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 16 dicembre 1929, n. 2162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-16;2162), con il quale l'Associazione nazionale fra mutilati e invalidi di guerra, con sede in Roma, venne eretta in Ente morale;
+ Visto il [regio decreto 16 dicembre 1929, n. 2162](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20fra%20mutilati%20ed%20invalidi%20di%20guerra.%20029U2162.md), con il quale l'Associazione nazionale fra mutilati e invalidi di guerra, con sede in Roma, venne eretta in Ente morale;
  Visto il vigente nuovo testo di statuto dell'Associazione allegato al [decreto del Presidente della Repubblica 11 giugno 1963, n. 978](Approvazione%20di%20talune%20modifiche%20dello%20statuto%20della%20Associazione%20nazionale%20fra%20mutilati%20ed%20invalidi%20di%20guerra.md), con il quale sono state approvate le modifiche statutarie di cui e' cenno nello stesso decreto;
  Visto il [regio decreto 2 marzo 1939, n. 588](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Casa%20Madre%20dei%20mutilati%20con%20sede%20in%20Roma%20ed%20approvazione%20del%20relativo%20statuto.%20039U0588.md), con il quale l'Ente Casa madre dei mutilati, con sede in Roma, costituito ad iniziativa dell'Associazione suindicata, venne eretto in Ente morale;
  Visto il vigente statuto dell'Ente Casa madre dei mutilati, approvato con decreto del Presidente della Repubblica 27 novembre 1951 (registrato alla Corte dei conti l'11 gennaio 1952);

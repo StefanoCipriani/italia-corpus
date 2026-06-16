@@ -14,13 +14,13 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), convertito nella [legge 16 giugno 1927, n. 1132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20luglio%201926%20numero%201331%20relativo%20al%20controllo%20sulla%20combustione.%20027U1132.md);
 
-Visto il [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), concernente l'approvazione del regolamento per l'esecuzione del regio decreto-legge n. 1331 suddetto;
+Visto il [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), concernente l'approvazione del regolamento per l'esecuzione del regio decreto-legge n. 1331 suddetto;
 
 Visto il decreto ministeriale 10 dicembre 1927, concernente norme sull'impiego della ghisa nei recipienti di vapore e per il calcolo delle parti degli apparecchi a pressione;
 
-Visto il decreto ministeriale 20 agosto 1933, concernente norme integrative per l'applicazione degli articoli 43, 44 del regolamento approvato con [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), sui recipienti contenenti gas compressi, liquefatti o disciolti;
+Visto il decreto ministeriale 20 agosto 1933, concernente norme integrative per l'applicazione degli articoli 43, 44 del regolamento approvato con [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), sui recipienti contenenti gas compressi, liquefatti o disciolti;
 
-Visto il decreto ministeriale 22 aprile 1935, recante norme integrative del regolamento approvato con [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), sugli apparecchi a pressione;
+Visto il decreto ministeriale 22 aprile 1935, recante norme integrative del regolamento approvato con [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), sugli apparecchi a pressione;
 
 Sentito il Consiglio tecnico dell'Associazione nazionale per il controllo della combustione;
 

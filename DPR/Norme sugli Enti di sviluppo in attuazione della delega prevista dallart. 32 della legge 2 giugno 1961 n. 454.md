@@ -89,7 +89,7 @@ Il piano preliminare e' depositato nella segreteria dei Comuni interessati per 3
  Fino a 30 giorni dopo la scadenza del periodo di deposito, gli interessati possono presentare reclami alla segretaria del Comune, che ne rilascia ricevuta e li rimette agli enti.
  Gli enti trasmettono il piano con i reclami, le proprie controdeduzioni ed una relazione generale al Ministero dell'agricoltura e delle foreste.
  Il Ministro, sentito il Consiglio superiore dell'agricoltura e delle foreste, autorizza gli enti alla redazione del piano definitivo di riordinamento, decidendo in pari tempo sui reclami, ovvero indica le modifiche da apportare al piano preliminare. che restituisce agli enti, per la rielaborazione e per la nuova pubblicazione, ove necessaria.
- Gli enti, ottenuta l'autorizzazione da parte del Ministro per l'agricoltura e le foreste, provvedono al riordinamento secondo le norme e con gli effetti di cui al Capo IV del Titolo II del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), assumendo le funzioni dei Consorzi di bonifica.
+ Gli enti, ottenuta l'autorizzazione da parte del Ministro per l'agricoltura e le foreste, provvedono al riordinamento secondo le norme e con gli effetti di cui al Capo IV del Titolo II del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), assumendo le funzioni dei Consorzi di bonifica.
 
 ### Art. 8. — Assistenza per la ricomposizione
 

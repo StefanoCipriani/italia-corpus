@@ -18,7 +18,7 @@ Vista la [legge 20 maggio 1985, n. 222](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto del Presidente della Repubblica 13 febbraio 1987, n. 33](Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2020%20maggio%201985%20n.%20222%20recante%20disposizioni%20sugli%20enti%20e%20beni%20ecclesiastici%20in%20Italia%20e%20per%20il%20sostentamento%20del%20clero%20cattolico%20in%20s_24692bc371c6.md), recante approvazione del regolamento di esecuzione della [legge 20 maggio 1985, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), recante regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato;
 
@@ -81,7 +81,7 @@ Avvertenza:
  «Art. 58. - I proventi del patrimonio del Fondo edifici di culto, integrati nella misura di cui al terzo comma dell'art. 50, sono utilizzati per la conservazione, il restauro, la tutela e la valorizzazione degli edifici di culto appartenenti al Fondo, nonche' per gli altri oneri posti a carico del Fondo stesso.
  La progettazione e l'esecuzione delle relative opere edilizie sono affidate, salve le competenze del Ministero per i beni culturali e ambientali, al Ministero dei lavori pubblici.».
  - Il [decreto del Presidente della Repubblica 13 febbraio 1987, n. 33](Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2020%20maggio%201985%20n.%20222%20recante%20disposizioni%20sugli%20enti%20e%20beni%20ecclesiastici%20in%20Italia%20e%20per%20il%20sostentamento%20del%20clero%20cattolico%20in%20s_24692bc371c6.md), reca: «Approvazione del regolamento di esecuzione della [legge 20 maggio 1985, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222), recante disposizioni sugli enti e beni ecclesiastici in Italia e per il sostentamento del clero cattolico in servizio nelle diocesi».
- - Il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), reca: «Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato».
+ - Il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), reca: «Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato».
  - Il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), reca: «Regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato».
  - La [legge 9 dicembre 1988, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-09;431), reca: «Disciplina delle locazioni e del rilascio degli immobili adibiti ad uso abitativo».
  Nota all'art. 1:

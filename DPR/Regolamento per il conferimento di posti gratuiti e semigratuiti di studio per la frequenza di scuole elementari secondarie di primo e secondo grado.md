@@ -10,17 +10,17 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054);
+Veduto il [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Veduto il [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009);
+Veduto il [regio decreto 1 settembre 1925, n. 2009](../Regi%20decreti/Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md);
 
 Veduto il [regio decreto 23 dicembre 1929, n. 2392](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20029U2392.md);
 
 Veduto il [regio decreto 1 ottobre 1931, n. 1312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md);
 
-Veduto il [regio decreto 27 ottobre 1932, n. 1437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;1437);
+Veduto il [regio decreto 27 ottobre 1932, n. 1437](../Regi%20decreti/Modificazione%20dellart.%20174%20del%20regolamento%201%20settembre%201925%20n.%202009%20per%20i%20Convitti%20nazionali.%20032U1437.md);
 
-Veduto il [regio decreto 30 aprile 1931, n. 854](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-04-30;854);
+Veduto il [regio decreto 30 aprile 1931, n. 854](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20Convitti%20nazionali.%20031U0854.md);
 
 Veduto il [regio decreto-legge 18 maggio 1924, n. 848](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20sessanta%20posti%20gratuiti%20presso%20il%20convitto%20Dante%20Alighieri%20di%20Gorizia.%20024U0848.md), modificato con [legge 1 dicembre 1971, n. 1081](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-01;1081);
 

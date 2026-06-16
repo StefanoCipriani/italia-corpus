@@ -25,7 +25,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  
  E' approvato l'annesso regolamento concernente lo affidamento del servizio di pulizia nelle sedi dei comandi provinciali dei vigili del fuoco. 
- L'[art. 36 del regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699#art_36), e' abrogato.
+ L'[art. 36 del regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

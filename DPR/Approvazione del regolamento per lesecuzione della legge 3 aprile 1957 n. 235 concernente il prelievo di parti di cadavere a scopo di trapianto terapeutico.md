@@ -51,7 +51,7 @@ Il Ministero della sanita', puo' concedere, su domanda, agli Istituti universita
 ## Art. 3.
 
 Ogni Istituto autorizzato a tali prelievi deve avere personale qualificato, per titoli e per capacita', ad eseguire l'accertamento della realta' della morte.
- L'esito dell'accertamento deve essere riferito al direttore dell'Istituto universitario o al primario dell'ospedale o al capo del reparto ospedaliero, i quali, a norma dell'[art. 4 della legge 3 aprile 1957, n. 235](../Atti%20normativi%20abrogati%20%28in%20originale%29/Prelievo%20di%20parte%20del%20cadavere%20a%20scopo%20di%20trapianto%20terapeutico.md), provvederanno a redigere l'apposito certificato previsto dall'art. 141 dell'ordinamento dello stato civile, approvato con [regio decreto 9 luglio 1939, n. 1238](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-09;1238).
+ L'esito dell'accertamento deve essere riferito al direttore dell'Istituto universitario o al primario dell'ospedale o al capo del reparto ospedaliero, i quali, a norma dell'[art. 4 della legge 3 aprile 1957, n. 235](../Atti%20normativi%20abrogati%20%28in%20originale%29/Prelievo%20di%20parte%20del%20cadavere%20a%20scopo%20di%20trapianto%20terapeutico.md), provvederanno a redigere l'apposito certificato previsto dall'art. 141 dell'ordinamento dello stato civile, approvato con [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md).
  Il direttore dell'Istituto universitario o il primario dell'ospedale o il capo reparto ospedaliero assumono le responsabilita' dell'accertamento unitamente al medico che ha effettuato la diagnosi.
 
 ## Art. 4.

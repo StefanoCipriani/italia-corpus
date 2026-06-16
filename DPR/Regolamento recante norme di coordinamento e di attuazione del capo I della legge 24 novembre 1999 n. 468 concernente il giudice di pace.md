@@ -318,7 +318,7 @@ Nota all'art. 15:
 
 1.
 
-Al fine di individuare il rappresentante dei giudici di pace previsto dal comma 2-bis dell'articolo 7 e dal comma 4 dell'articolo 9 della legge, i giudici di pace di ciascun distretto, in occasione delle elezioni del consiglio giudiziario e, in quanto compatibili, con le modalita' di cui all'[articolo 6 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_6), designano tre loro rappresentanti, uno dei quali con funzione di componente effettivo e gli altri di supplente, eleggendoli tra i giudici di pace che hanno giurisdizione nel distretto.
+Al fine di individuare il rappresentante dei giudici di pace previsto dal comma 2-bis dell'articolo 7 e dal comma 4 dell'articolo 9 della legge, i giudici di pace di ciascun distretto, in occasione delle elezioni del consiglio giudiziario e, in quanto compatibili, con le modalita' di cui all'[articolo 6 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), designano tre loro rappresentanti, uno dei quali con funzione di componente effettivo e gli altri di supplente, eleggendoli tra i giudici di pace che hanno giurisdizione nel distretto.
 
 2.
 
@@ -332,7 +332,7 @@ Note all'art. 16:
  3. Nei confronti del giudice di pace possono essere disposti l'ammonimento, la censura, o, nei casi piu' gravi, la revoca se non e' in grado di svolgere diligentemente e proficuamente il proprio incarico ovvero in caso di comportamento negligente o scorretto.
  4. Nei casi indicati dal comma 1, con esclusione delle ipotesi di dimissioni volontarie, e in quelli indicati dai commi 2 e 3, il presidente della corte d'appello propone al consiglio giudiziario, integrato ai sensi del comma 2 dell'art. 4, nonche' da un rappresentante dei giudici di pace del distretto, la dichiarazione di decadenza, la dispensa, l'ammonimento, la censura o la revoca. Il consiglio giudiziario, sentito l'interessato e verificata la fondatezza della proposta, trasmette gli atti al Consiglio superiore della magistratura affinche' provveda sulla dichiarazione di decadenza, sulla dispensa, sull'ammonimento, sulla censura o sulla revoca.
  5. I provvedimenti di cui ai commi 1, 2 e 3 sono adottati con decreto del Ministro della giustizia".
- - Il testo dell'[art. 6, regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_6) (Guarentigie della magistratura), e' il seguente:
+ - Il testo dell'[art. 6, regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md) (Guarentigie della magistratura), e' il seguente:
  "[Art. 6 (Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_6) dei Consigli giudiziari). - Presso ogni corte di appello e' costituito un consiglio giudiziario presieduto dal primo presidente della corte d'appello e composto dal procuratore generale della Repubblica nonche' da otto membri di cui tre con funzioni di supplenti, eletti ogni due anni da tutti i magistrati degli uffici giudiziari del distretto con voto personale e segreto nelle seguenti proporzioni: un magistrato effettivo ed uno supplente tra i magistrati di Cassazione; due effettivi ed uno supplente tra i magistrati di corte d'appello; due effettivi ed uno supplente tra i magistrati di tribunale. Nei distretti nei quali non e' possibile eleggere i magistrati di Cassazione, i posti sono attribuiti a magistrati di corte d'appello.
  In caso di mancanza o di impedimento, il primo presidente ed il procuratore generale sono sostituiti dal magistrato che ne esercita la funzione.
  I magistrati che, per il numero di suffragi raccolti, seguono quelli risultati eletti, vengono, nell'ordine ed in numero non superiore a tre per gli effettivi ed a due per i supplenti chiamati a sostituire quelli che cessano dalla carica nel corso del biennio.
@@ -396,14 +396,14 @@ Il Consiglio superiore della magistratura, adottato il provvedimento di cui al c
 
 4.
 
-Il giudice di pace puo' essere sospeso dalle funzioni anche quando ricorrano i casi di cui agli [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_30) e [31, comma 2, regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_31-com2). Si applicano le disposizioni di cui ai commi 2 e 3.
+Il giudice di pace puo' essere sospeso dalle funzioni anche quando ricorrano i casi di cui agli [articoli 30](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md) e [31, comma 2, regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md). Si applicano le disposizioni di cui ai commi 2 e 3.
 
 5.
 
 Quando l'azione penale e' esercitata nei confronti di un giudice di pace, il pubblico ministero ne informa il presidente della corte d'appello del distretto nel quale il giudice esercita la giurisdizione, dando notizia dell'imputazione.
 
 Note all'art. 18:
- - Il testo degli articoli 30 e 31, comma 2, del citato [regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511), e' il seguente:
+ - Il testo degli articoli 30 e 31, comma 2, del citato [regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), e' il seguente:
  "Art. 30 (Sospensione del magistrato sottoposto a procedimento disciplinare). - All'inizio o nel corso del procedimento, il tribunale disciplinare, su richiesta del Ministro o del pubblico Ministero presso il tribunale stesso, puo', sentito l'incolpato, disporne la sospensione provvisoria dalle funzioni e dallo stipendio.
  Al magistrato sospeso, od alla moglie ed ai figli minorenni, puo' essere attribuito un assegno alimentare non eccedente i due terzi dello stipendio e delle altre competenze di carattere continuativo.
  In caso di urgenza, i provvedimenti di cui ai precedenti commi possono essere adottati con decreto del Ministro, il quale pero' deve richiedere contemporaneamente il giudizio disciplinare.

@@ -14,7 +14,7 @@ Visto il [regio decreto 24 agosto 1933, n. 1277](../Atti%20normativi%20abrogati%
 
 Vista l'istanza presentata dalla societa' concessionaria di detta funicolare, tendente ad ottenere la declassificazione in urbana della funicolare stessa;
 
-Ritenuto che il servizio che si effettua sulla funicolare anzidetta presenta carattere di servizio urbano, Visto il testo unico delle disposizioni di legge sulle ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni;
+Ritenuto che il servizio che si effettua sulla funicolare anzidetta presenta carattere di servizio urbano, Visto il testo unico delle disposizioni di legge sulle ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e successive modificazioni;
 
 Sulla proposta del Ministro Segretario di Stato per i trasporti, di concerto con i Ministri per il tesoro e per le finanze; Decreta:
 

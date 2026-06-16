@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 12 luglio 1934, n. 2312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;2312);
+Visto il [regio decreto 12 luglio 1934, n. 2312](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20degli%20ufficiali%20giudiziari.%20034U2312.md);
 
 Visto il [regio decreto-legge 3 marzo 1938, n. 680](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-03;680), convertito nella, [legge 9 gennaio 1939, n. 41](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%203%20marzo%201938-XVI%20n.%20680%20che%20approva%20lordinamento%20della%20Cassa%20di%20previdenza%20per%20le%20pensioni%20agli%20impiegati%20degli%20Enti%20locali.%20039U0041.md);
 

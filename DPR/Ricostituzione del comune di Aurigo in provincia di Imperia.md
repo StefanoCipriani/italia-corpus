@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 18 ottobre 1928, n. 2496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-18;2496), con il quale i comuni di Aurigo, Borgomaro, Conio, San Lazzaro Reale, Ville San Pietro e Ville San Sebastiano, in provincia di Imperia, vennero riuniti in un unico Comune con capoluogo e denominazione "Borgomaro";
+Visto il [regio decreto 18 ottobre 1928, n. 2496](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Aurigo%20Borgomaro%20Conio%20San%20Lazzaro%20Reale%20Ville%20San%20Pietro%20e%20Ville%20San%20Sebastiano%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Borgomaro%20.%20028U2496.md), con il quale i comuni di Aurigo, Borgomaro, Conio, San Lazzaro Reale, Ville San Pietro e Ville San Sebastiano, in provincia di Imperia, vennero riuniti in un unico Comune con capoluogo e denominazione "Borgomaro";
 
 Vista la istanza 14 maggio 1953, con la quale oltre i tre quinti degli elettori del cessato comune di Aurigo ne hanno chiesto la ricostituzione in Comune autonomo;
 

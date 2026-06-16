@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 26 gennaio 1928, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-26;161), con il quale i comuni di Cipressa, Costarainera e Lingueglietta, in provincia di Imperia, vennero riuniti in unico Comune con denominazione "Cipressa";
+Visto il [regio decreto 26 gennaio 1928, n. 161](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cipressa%20Costarainera%20e%20Lingueglietta%20in%20un%20unico%20Comune%20denominato%20Cipressa.%20028U0161.md), con il quale i comuni di Cipressa, Costarainera e Lingueglietta, in provincia di Imperia, vennero riuniti in unico Comune con denominazione "Cipressa";
 
 Vista la istanza 28 agosto 1949, con la quale la maggioranza dei contribuenti del cessato comune di Costarainera ne ha chiesto la ricostituzione in Comune autonomo;
 

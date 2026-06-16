@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista l'istanza in data 27 gennaio 1946, intesa ad ottenere la ricostituzione del comune di Mesenzana (provincia di Varese), soppresso con [regio decreto 1 dicembre 1927, n. 2343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-01;2343), e fuso, con i soppressi comuni di Brissago e di Roggiano Valtravaglia, in unico Comune denominato Brissago Valtravaglia;
+Vista l'istanza in data 27 gennaio 1946, intesa ad ottenere la ricostituzione del comune di Mesenzana (provincia di Varese), soppresso con [regio decreto 1 dicembre 1927, n. 2343](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brissago%20Mesenzana%20e%20Reggiano%20Valtravaglia%20in%20un%20unico%20Comune%20denominato%20Brissago-Valtravaglia.%20027U2343.md), e fuso, con i soppressi comuni di Brissago e di Roggiano Valtravaglia, in unico Comune denominato Brissago Valtravaglia;
 
 Ritenuto che l'istanza e' sottoscritta dalla maggioranza qualificata dei contribuenti di cui all'art. 33 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 

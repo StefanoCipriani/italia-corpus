@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
  Visto il [decreto del Presidente della Repubblica 27 ottobre 1969, n. 823](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Pisa_59.md), ed in particolare l'art. 2, con il quale alla facolta' di lingue e letterature straniere dell'Universita' di Pisa e' stato trasferito, tra gli altri, il posto di professore di ruolo gia' assegnato alla facolta' di economia e commercio della stessa universita', per il raddoppiamento della cattedra di lingua e letteratura latina, con [decreto del Presidente della Repubblica 9 maggio 1968, n. 704](Ripartizione%20di%20194%20nuovi%20posti%20di%20professore%20universitario%20di%20ruolo%20istituiti%20con%20lart.%201%20della%20legge%2024%20febbraio%201967%20n.%2062%20per%20lanno%20accademico%201968-69.md);
  Vista la deliberazione in data 3 febbraio 1970 della facolta' di lingue e letterature straniere della predetta universita', con la quale e' stato chiesto che il predetto posto riservato al raddoppiamento di "Lingua e letteratura latina" venga trasferito al raddoppiamento della cattedra di "Lingua e letteratura francese";
  Sulla proposta del Ministro per la pubblica istruzione;

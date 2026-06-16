@@ -358,7 +358,7 @@ Per la destinazione alla Delegazione regionale della Corte dei conti e' collocat
 
 ### Art. 51.
 
-Per quanto non previsto dal presente decreto si applicano alla Delegazione della Corte dei conti in Sardegna le norme del testo unico delle leggi sull'ordinamento della corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e le altre disposizioni relative alla Corte medesima.
+Per quanto non previsto dal presente decreto si applicano alla Delegazione della Corte dei conti in Sardegna le norme del testo unico delle leggi sull'ordinamento della corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e le altre disposizioni relative alla Corte medesima.
 
 ### Art. 52.
 
@@ -378,7 +378,7 @@ Le attivita' svolte dalla Regione con speciali contributi dello Stato saranno so
 ### Art. 55.
 
 Le funzioni dell'Avvocatura dello Stato nei riguardi delle Amministrazioni statali sono estese all'Amministrazione regionale sarda.
- Nei confronti della suddetta Amministrazione si applicano le disposizioni del testo unico e del regolamento approvate rispettivamente con [regi decreti 30 ottobre 1933, nn. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611) e [1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), e successive modificazioni, nonche' gli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_25) e [144 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_144).
+ Nei confronti della suddetta Amministrazione si applicano le disposizioni del testo unico e del regolamento approvate rispettivamente con [regi decreti 30 ottobre 1933, nn. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md) e [1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e successive modificazioni, nonche' gli [articoli 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_25) e [144 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_144).
  Le disposizioni dei commi precedenti non si applicano nei giudizi in cui sono parte l'Amministrazione dello Stato e le Amministrazioni regionali, eccettuato il caso di litisconsorzio attivo.
  Nel caso di litisconsorzio passivo, qualora non vi sia conflitto d'interessi tra lo Stato e la Regione, questa puo' avvalersi del patrocinio dell'Avvocatura dello Stato.
 

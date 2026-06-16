@@ -14,13 +14,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto il [decreto del Presidente della Repubblica 5 novembre 1967, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-11-05;1037), istitutivo del corso di laurea in chimica e tecnologie farmaceutiche;
  Veduto il [decreto del Presidente della Repubblica 18 luglio 1972, n. 523](Modificazione%20allordinamento%20del%20corso%20di%20laurea%20in%20chimica%20e%20tecnologia%20farmaceutiche.md);
- Veduto l'art. 173 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto l'art. 173 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Sentito il parere del Consiglio superiore della pubblica istruzione espresso nell'adunanza del 26 febbraio 1971;
  Sulla proposta del Ministro per la pubblica istruzione;
 
  Decreta:
 
- La tabella L annessa al testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' modificata nel senso che alle lauree gia' indicate per l'ammissione all'esame di abilitazione all'esercizio della professione di farmacista e' aggiunta quella di:
+ La tabella L annessa al testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e' modificata nel senso che alle lauree gia' indicate per l'ammissione all'esame di abilitazione all'esercizio della professione di farmacista e' aggiunta quella di:
 
  Chimica e tecnologie farmaceutiche.
 

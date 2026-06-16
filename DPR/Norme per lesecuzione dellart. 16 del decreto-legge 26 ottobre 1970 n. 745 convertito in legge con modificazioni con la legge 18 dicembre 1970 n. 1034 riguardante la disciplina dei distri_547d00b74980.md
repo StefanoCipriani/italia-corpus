@@ -242,7 +242,7 @@ Per l'anno 1971 il provvedimento di cui all'art. 3 del presente regolamento e' e
 
 ## Art. 28.
 
-All'installazione degli impianti per la distribuzione dei carburanti per uso di autotrazione si applicano lo art. 43 e gli altri articoli del regolamento approvato con [regio decreto 20 luglio 1934, n. 1303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-20;1303), compatibili con le norme del presente decreto.
+All'installazione degli impianti per la distribuzione dei carburanti per uso di autotrazione si applicano lo art. 43 e gli altri articoli del regolamento approvato con [regio decreto 20 luglio 1934, n. 1303](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%202%20novembre%201933%20n.%201741%20che%20disciplina%20limportazione%20la%20lavorazione%20il%20deposito%20e%20la%20distribuzione%20degli%20oli%20minerali%20e%20d_bb2fb77a11e9.md), compatibili con le norme del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

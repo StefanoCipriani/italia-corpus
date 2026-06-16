@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 12 febbraio 1928, n. 418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-12;418), con il quale i comuni di Brusasco, Brozolo, Cavagnolo e Marcorengo, in provincia di Torino, furono riuniti in unico Comune denominato "Brusasco Cavagnolo";
+Visto il [regio decreto 12 febbraio 1928, n. 418](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brusasco%20Cavagnolo%20Marcorengo%20e%20Brozolo%20in%20un%20unico%20Comune%20denominato%20Brusasco-Cavagnolo.%20028U0418.md), con il quale i comuni di Brusasco, Brozolo, Cavagnolo e Marcorengo, in provincia di Torino, furono riuniti in unico Comune denominato "Brusasco Cavagnolo";
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 21 gennaio 1947, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-21;85), con il quale il comune di Brozolo e' stato ricostituito;
 

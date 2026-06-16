@@ -28,7 +28,7 @@ E' istituita presso la Direzione generale dell'assistenza pubblica del Ministero
 
 Alle dipendenze della Direzione generale dell'assistenza pubblica e' istituito il magazzino centrale per la custodia, la conservazione e la distribuzione dei materiali di cui all'art. 1.
  Agli stessi fini possono essere istituiti, ove occorra, mediante decreto ministeriale, magazzini periferici.
- La gestione dei magazzini, previsti ai precedenti commi, e' sottoposta al riscontro della Corte dei conti a norma del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e successive modificazioni, nonche' al controllo del Ministero del tesoro - Ragioneria generale dello Stato, ai sensi dell'[art. 3 della legge 26 luglio 1939, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-26;1037#art_3).
+ La gestione dei magazzini, previsti ai precedenti commi, e' sottoposta al riscontro della Corte dei conti a norma del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni, nonche' al controllo del Ministero del tesoro - Ragioneria generale dello Stato, ai sensi dell'[art. 3 della legge 26 luglio 1939, n. 1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-26;1037#art_3).
  I consegnatari dei magazzini rendono il conto giudiziale della loro gestione secondo le disposizioni di cui al [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827).
 
 ## Art. 3.

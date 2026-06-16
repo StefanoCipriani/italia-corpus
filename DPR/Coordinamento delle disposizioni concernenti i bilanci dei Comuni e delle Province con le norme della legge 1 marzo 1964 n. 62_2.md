@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 10 marzo 1964, n. 02](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-03-10;02), recante modificazioni al [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), per quanto concerne il bilancio dello Stato, e norme relative ai bilanci degli Enti pubblici;
+Vista la [legge 10 marzo 1964, n. 02](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-03-10;02), recante modificazioni al [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), per quanto concerne il bilancio dello Stato, e norme relative ai bilanci degli Enti pubblici;
 
 Visto il [decreto del Presidente della Repubblica 8 marzo 1965, n. 670](Coordinamento%20delle%20disposizioni%20concernenti%20i%20bilanci%20dei%20Comuni%20e%20delle%20Province%20con%20le%20norme%20della%20legge%201%20marzo%201964%20n.%2062.md), riguardante il coordinamento delle disposizioni concernenti i bilanci dei Comuni e delle Province con le norme della [legge 1 marzo 1964, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-03-01;62);
 

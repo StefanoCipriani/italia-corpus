@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94), approvato con decreto reale 11 dicembre 1933, n. 1775, col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica Amministrazione;
+ Visto l'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con decreto reale 11 dicembre 1933, n. 1775, col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica Amministrazione;
  Ritenuta la necessita' di dichiarare soggetti alla tutela della pubblica Amministrazione i territori dei Comuni indicati nella parte dispositiva del presente decreto;
  Visto il voto n. 1311 emesso nella adunanza del 16 settembre 1965 dal Consiglio superiore dei lavori pubblici;
  Sentito il Consiglio dei Ministri;
@@ -20,7 +20,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- Ai sensi e per gli effetti dell'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94), approvato con decreto reale 11 dicembre 1933, n. 1775, sono soggette alla tutela della pubblica Amministrazione la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee del territorio dei seguenti Comuni della provincia di Vercelli: Albino Vercellese, Arborio, Balocco, Benna, Borriana, Brusnengo, Buronzo, Candelo, Carisio, Casanova Elvo, Castelletto Cervo, Cavaglia', Cerrione, Collobiano, Costato, Dorzano, Formigliana, Gattinara, Ghislarengo, Giffenga, Greggio, Lenta, Lessona, Lozzolo, Masserano, Massazza, Mollalciata, Odenico, Quinto Vercellese, Roasio, Rovasenda, Salussola, Sandigliano, Santhia', Cascine San Giacomo, Verrone, Villanova Biellese e Villarboit.
+ Ai sensi e per gli effetti dell'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con decreto reale 11 dicembre 1933, n. 1775, sono soggette alla tutela della pubblica Amministrazione la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee del territorio dei seguenti Comuni della provincia di Vercelli: Albino Vercellese, Arborio, Balocco, Benna, Borriana, Brusnengo, Buronzo, Candelo, Carisio, Casanova Elvo, Castelletto Cervo, Cavaglia', Cerrione, Collobiano, Costato, Dorzano, Formigliana, Gattinara, Ghislarengo, Giffenga, Greggio, Lenta, Lessona, Lozzolo, Masserano, Massazza, Mollalciata, Odenico, Quinto Vercellese, Roasio, Rovasenda, Salussola, Sandigliano, Santhia', Cascine San Giacomo, Verrone, Villanova Biellese e Villarboit.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -79,7 +79,7 @@ Le assunzioni nel ruolo del personale degli uffici copia della carriera esecutiv
 
 ## Art. 12.
 
-Il presente decreto ha effetto dal 1 luglio 1965 e da tale data ((sono abrogate le norme del titolo I, capi I, II, III, IV, V e VI, e del titolo II)) del [regio decreto 4 aprile 1938, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-04;417).
+Il presente decreto ha effetto dal 1 luglio 1965 e da tale data ((sono abrogate le norme del titolo I, capi I, II, III, IV, V e VI, e del titolo II)) del [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20per%20il%20personale%20dellAmministrazione%20civile%20dellinterno.%20038U0417.md).
  In deroga a quanto previsto dal precedente comma, l'art. 4 del presente decreto ha effetto per i concorsi di ammissione e per i concorsi ed esami di promozione, che saranno banditi dal 1 gennaio 1966.
  L'allegato al presente decreto sara' munito di visto e sottoscritto dal Ministro proponente.
 

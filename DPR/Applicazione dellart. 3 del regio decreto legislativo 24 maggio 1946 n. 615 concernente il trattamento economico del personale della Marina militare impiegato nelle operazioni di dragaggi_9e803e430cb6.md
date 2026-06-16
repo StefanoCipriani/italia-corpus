@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto legislativo 24 maggio 1946, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-24;615), che stabilisce il trattamento economico del personale della Marina militare impiegato nelle operazioni di dragaggio, disattivazione o distruzione delle mine marine e di altri ordigni esplosivi in mare, ed in particolare l'art. 3 di esso;
+Visto il [regio decreto legislativo 24 maggio 1946, n. 615](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20della%20Regia%20marina%20impiegato%20nelle%20operazioni%20di%20dragaggio%20disattivazione%20o%20distruzione%20delle%20mine%20marine%20e%20di%20altri%20ordigni%20esplosivi%20in%20mare.md), che stabilisce il trattamento economico del personale della Marina militare impiegato nelle operazioni di dragaggio, disattivazione o distruzione delle mine marine e di altri ordigni esplosivi in mare, ed in particolare l'art. 3 di esso;
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la, difesa, di concerto con i Ministri per il te
 
 ## Art. 1.
 
-Il personale della Marina militare addetto alle operazioni di dragaggio, disattivazione o distruzione delle mine marine o di altri ordigni esplosivi in mare per acquistare, ai sensi dell'[art. 3 del regio decreto legislativo 24 maggio 1946, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-24;615#art_3), il diritto ai benefici previsti dalle disposizioni vigenti a favore dei combattenti e reduci di guerra, deve risultare in possesso dei seguenti requisiti:
+Il personale della Marina militare addetto alle operazioni di dragaggio, disattivazione o distruzione delle mine marine o di altri ordigni esplosivi in mare per acquistare, ai sensi dell'[art. 3 del regio decreto legislativo 24 maggio 1946, n. 615](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20della%20Regia%20marina%20impiegato%20nelle%20operazioni%20di%20dragaggio%20disattivazione%20o%20distruzione%20delle%20mine%20marine%20e%20di%20altri%20ordigni%20esplosivi%20in%20mare.md), il diritto ai benefici previsti dalle disposizioni vigenti a favore dei combattenti e reduci di guerra, deve risultare in possesso dei seguenti requisiti:
  a) aver prestato servizi particolarmente rischiosi, intendendosi come tali quelli compiuti dai componenti gli stati maggiori o gli equipaggi delle navi adibite al dragaggio delle mine in mare e dagli appartenenti, come elementi costitutivi, ai "Nuclei sminamento porti" od ai "Gruppi disattivazione mine" costituiti presso i Comandi marittimi costieri della, Marina militare;
  b) aver prestato tali servizi per un periodo non inferiore a giorni novanta, anche se non consecutivi.
  Tale periodo minimo non e' richiesto per coloro che siano rimasti feriti, mutilati o invalidi per cause inerenti allo espletamento dei servizi predetti.

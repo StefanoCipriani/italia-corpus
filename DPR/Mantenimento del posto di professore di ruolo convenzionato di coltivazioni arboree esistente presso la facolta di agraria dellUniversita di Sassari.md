@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 5 giugno 1961, n. 892](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20presso%20la%20Facolta%20di%20agraria%20dellUniversita%20degli%20studi%20di%20Sassari.md), con il quale venne istituito un posto di professore di ruolo convenzionato destinato all'insegnamento di "coltivazioni arboree" presso la facolta' di agraria dell'Universita' di Sassari;
 

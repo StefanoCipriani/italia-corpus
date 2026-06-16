@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 9 aprile 1905, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-04-09;171), che da' esecuzione all'Accordo internazionale sulla tratta delle bianche del 18 maggio 1904;
+Visto il [regio decreto 9 aprile 1905, n. 171](../Regi%20decreti/Che%20da%20piena%20ed%20intera%20esecuzione%20allaccordo%20internazionale%20per%20la%20repressione%20della%20tratta%20delle%20bianche.%20005U0171.md), che da' esecuzione all'Accordo internazionale sulla tratta delle bianche del 18 maggio 1904;
 
-Visto il [regio decreto 31 ottobre 1923, n. 2749](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2749), che da' esecuzione alla Convenzione internazionale per la repressione della tratta delle bianche;
+Visto il [regio decreto 31 ottobre 1923, n. 2749](../Regi%20decreti/Accordi%20stipulati%20fra%20lItalia%20ed%20altri%20Stati%20per%20la%20repressione%20della%20tratta%20delle%20bianche%20e%20per%20la%20soppressione%20di%20quella%20delle%20donne%20e%20dei%20fanciulli.%20023U2749.md), che da' esecuzione alla Convenzione internazionale per la repressione della tratta delle bianche;
 
 Sentito il Consiglio dei Ministri;
 

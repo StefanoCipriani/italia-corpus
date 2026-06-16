@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, numero 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, numero 230](../Regi%20decreti/Riconoscimento%20dellUniversita%20di%20Urbino%20come%20Universita%20libera%20cd%20approvazione%20del%20relativo%20statuto.%20025U0230.md), e modificato con [regio decreto 31 ottobre 1929, n. 2475](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -98,7 +98,7 @@ Il direttore, puo', altresi', ammettere studenti laureandi in Giurisprudenza del
 
 Art. 26. - Le tasse annuali di iscrizione e contributi accessori sono stabiliti da norme interne.
 
-Art. 27. - Agli iscritti che abbiano frequentato il corso con diligenza e con profitto, viene rilasciato un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_6), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578#art_18). Il rilascio di tale diploma e' soggetto al pagamento di un diritto fisso stabilito da norme interne.
+Art. 27. - Agli iscritti che abbiano frequentato il corso con diligenza e con profitto, viene rilasciato un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578#art_18). Il rilascio di tale diploma e' soggetto al pagamento di un diritto fisso stabilito da norme interne.
 
 Art. 28. - Il funzionamento dell'Istituto e' regolato da apposite norme deliberate dal Consiglio direttivo ed approvate dalla Facolta' di giurisprudenza e dal rettore.
 
@@ -146,8 +146,8 @@ Registrato alla Corte dei conti, addi' 21 agosto 1967 Atti del Governo, registro
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, numero 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md), e successive modificazioni;
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, numero 230](../Regi%20decreti/Riconoscimento%20dellUniversita%20di%20Urbino%20come%20Universita%20libera%20cd%20approvazione%20del%20relativo%20statuto.%20025U0230.md), e modificato con [regio decreto 31 ottobre 1929, n. 2475](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allo%20statuto%20della%20libera%20Universita%20di%20Urbino.%20029U2475.md), e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
  Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
@@ -198,7 +198,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Art. 25. - Possono iscriversi all'Istituto, in qualita' di praticanti, i laureati in Giurisprudenza in qualunque Universita' italiana e straniera.
  Il direttore, puo', altresi', ammettere studenti laureandi in Giurisprudenza dell'Universita' di Urbino, nonche' laureati di altra Facolta', ad assistere, come uditori, ai singoli corsi di esercitazione.
  Art. 26. - Le tasse annuali di iscrizione e contributi accessori sono stabiliti da norme interne.
- Art. 27. - Agli iscritti che abbiano frequentato il corso con diligenza e con profitto, viene rilasciato un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_6), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578#art_18). Il rilascio di tale diploma e' soggetto al pagamento di un diritto fisso stabilito da norme interne.
+ Art. 27. - Agli iscritti che abbiano frequentato il corso con diligenza e con profitto, viene rilasciato un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578#art_18). Il rilascio di tale diploma e' soggetto al pagamento di un diritto fisso stabilito da norme interne.
  Art. 28. - Il funzionamento dell'Istituto e' regolato da apposite norme deliberate dal Consiglio direttivo ed approvate dalla Facolta' di giurisprudenza e dal rettore.
  Art. 36 (gia' 27). - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
  12) Psicologia pedagogica;

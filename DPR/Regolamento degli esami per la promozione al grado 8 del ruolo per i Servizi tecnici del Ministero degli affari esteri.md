@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
-Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sillo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
+Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sillo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
 
 Visto il [regio decreto-legge 27 ottobre 1937, n. 1931](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20di%20gruppo%20A%20del%20soppresso%20Commissariato%20generale%20dellemigrazione.%20037U1931.md), relativo al riordinamento dei ruoli di gruppo A. del soppresso Commissariato generale dell'emigrazione;
 
@@ -29,7 +29,7 @@ Sulla proposta del Ministro per gli affari esteri; Decreta:
 ## Art. 1.
 
 Gli esami di concorso per merito distinto e quelli di idoneita' per la promozione al grado 5° del ruolo per i servizi tecnici del Ministero degli affari esteri sono banditi con appositi decreti Ministeriali da registrarsi alla Corte dei conti.
- Essi si svolgono secondo le disposizioni di cui al capo VI del [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni.
+ Essi si svolgono secondo le disposizioni di cui al capo VI del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive modificazioni.
 
 ## Art. 2.
 
@@ -74,7 +74,7 @@ Per le prove di lingua straniera la durata massima e' fissata in sei ore.
 
 ## Art. 7.
 
-Il coefficiente relativo all'anzianita', agli effetti della formazione della graduatoria di cui all'[art. 42 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_42), e' fissato dal Consiglio di amministrazione in base alle informazioni ed agli atti comunicati al Consiglio dall'Ufficio del personale.
+Il coefficiente relativo all'anzianita', agli effetti della formazione della graduatoria di cui all'[art. 42 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' fissato dal Consiglio di amministrazione in base alle informazioni ed agli atti comunicati al Consiglio dall'Ufficio del personale.
  Per la valutazione del coefficiente di anzianita' di cui al presente articolo si aggiungono, ai punti ottenuti negli esami, tante unita' quanti sono gli anni di anzianita' computabili, calcolando per anno intero la frazione superiore a sei mesi.
  Qualora, peraltro, l'anzianita' di grado di alcuno dei candidati risultasse superiore ai venti anni, sara' attribuito al candidato avente la maggiore anzianita' di grado il coefficiente venti, riducendo proporzionalmente il coefficiente di anzianita' di grado degli altri candidati.
 

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
- Visti il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato", in particolare l'art. 8 ed il relativo regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+ Visti il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato", in particolare l'art. 8 ed il relativo regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
  Visto l'[art. 7 della legge 13 giugno 1962, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-13;855#art_7);
  Visto l'[art. 20 della legge 26 luglio 1965, n. 965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-26;965#art_20);
  Considerata la necessita' di disciplinare con regolamento i lavori, le provviste ed i servizi da eseguire in economia da parte della Direzione generale degli istituti di previdenza del Ministero del tesoro o da questa delegati ad altre amministrazioni periferiche statali per la manutenzione e la gestione del patrimonio immobiliare delle casse pensioni amministrate;

@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE NELLA REPUBBLICA
 
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni:
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni:
  Veduto il [decreto del Presidente della Repubblica 8 dicembre 1961, n. 1305](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20presso%20la%20Facolta%20di%20medicina%20e%20chirurgia%20dellUniversita%20di%20Sassari.md), Con il quale venne approvata e resa esecutiva la convenzione stipulata in Sassari in data 17 novembre 1961 per il finanziamento e l'istituzione di un posto di professore di ruolo convenzionato destinato all'insegnamento di "Patologia speciale chirurgica e propedeutica clinica" presso la Facolta' di medicina e chirurgia dell'Universita' di Sassari:
 
  Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro;

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto della libera Universita', di Urbino;
 
-Veduto il [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni;
+Veduto il [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni;
 
 Veduta la richiesta del Rettore dell'Universita' di Urbino intesa ad ottenere l'istituzione presso l'Universita' libera di una nuova Facolta' di economia e commercio, in aggiunta alle Facolta' universitarie esistenti, con sede distaccata nella citta' di Ancona;
 

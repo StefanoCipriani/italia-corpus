@@ -420,8 +420,8 @@ Note all'art. 3, comma 1, lettera b) :
  [legge 21 febbraio 1990, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-21;36)). - La detenzione di armi
  comuni da sparo per fini diversi da quelli previsti
  dall'[art. 31 del testo unico delle leggi di pubblica
- sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_31), approvato con [regio decreto 18 giugno 1931, n.
- 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e' consentita nel numero di tre per le armi comuni da sparo, di sei per le armi da caccia previste dall'[art. 9,
+ sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n.
+ 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' consentita nel numero di tre per le armi comuni da sparo, di sei per le armi da caccia previste dall'[art. 9,
  primo](../Atti%20normativi%20abrogati%20%28in%20originale%29/Principi%20generali%20e%20disposizioni%20per%20la%20protezione%20e%20la%20tutela%20della%20fauna%20e%20la%20disciplina%20della%20caccia.md) e [secondo comma, della legge 27 dicembre 1977, n.
  968](../Atti%20normativi%20abrogati%20%28in%20originale%29/Principi%20generali%20e%20disposizioni%20per%20la%20protezione%20e%20la%20tutela%20della%20fauna%20e%20la%20disciplina%20della%20caccia.md), e di sei per le armi per uso sportivo. La detenzione
  di armi comuni da sparo in misura superiore e' subordinata al rilascio di apposita licenza di collezione da parte del questore, nel limite di un esemplare per ogni modello del

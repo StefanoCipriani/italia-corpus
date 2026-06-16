@@ -34,7 +34,7 @@ TITOLO II
 
 ### Art. 2.
 
-L'art. 16 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e' sostituito dal seguente:
+L'art. 16 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e' sostituito dal seguente:
  "Chiunque voglia ottenere il permesso di fare sul terreno gli studi di un progetto di ferrovia pubblica deve presentare all'Ispettorato compartimentale od ufficio distaccato della motorizzazione civile e dei trasporti in concessione, nella cui circoscrizione devono essere eseguiti gli studi, apposita domanda accompagnata da un piano o abbozzo di massima della linea sulla quale intende fare i detti studi, ed indicare il tempo entro il quale egli si propone di cominciarli e compierli.
  Il permesso di cui al precedente comma e' rilasciato direttamente dall'Ispettorato compartimentale od ufficio distaccato presso cui e' stata presentata la domanda".
 
@@ -78,7 +78,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%2
 
 ### Art. 7.
 
-L'art. 108 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e' sostituito dal seguente:
+L'art. 108 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e' sostituito dal seguente:
  "Chi esercita una ferrovia pubblica deve tenersi provvisto dei mezzi di soccorso necessari nei casi di sinistri ((...))". ((1))
 
 -----------------
@@ -181,7 +181,7 @@ Il [D.P.R. 11 luglio 1980, n. 753](Nuove%20norme%20in%20materia%20di%20polizia%2
 
 ### Art. 17.
 
-L'art. 256 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e' sostituito dal seguente:
+L'art. 256 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e' sostituito dal seguente:
  "Le concessioni di tramvie a trazione meccanica extraurbane sono accordate:
  a) dall'Ispettorato compartimentale od ufficio distaccato della motorizzazione civile e dei trasporti in concessione, quando trattisi di tramvie il cui percorso si svolga integralmente nell'ambito di una stessa Provincia, o che colleghino un Comune con il proprio scalo ferroviario o con un aeroporto vicino, anche se situati in Province diverse;
  b) dal Ministero dei trasporti negli altri casi.
@@ -189,7 +189,7 @@ L'art. 256 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](
 
 ### Art. 18.
 
-All'art. 273 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e' aggiunto il seguente comma:
+All'art. 273 del testo unico approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e' aggiunto il seguente comma:
  "Ai fini dell'applicazione di tali disposizioni, alla competenza dell'Amministrazione centrale dei trasporti s'intende sostituita la competenza dell'Ispettorato compartimentale od ufficio distaccato della motorizzazione civile e dei trasporti in concessione per i casi in cui e' ad essi attribuito il potere di concessione".
 
 ## Filovie
@@ -556,7 +556,7 @@ TITOLO VIII
 
 ### Art. 65.
 
-Nell'art. 10, primo comma, punto 2° dell'allegato A) al [regio decreto 8 gennaio 1931, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;148), alla frase "con l'approvazione governativa", e' sostituita la frase "con l'approvazione dell'Ispettorato compartimentale o ufficio distaccato della motorizzazione civile e dei trasporti in concessione".
+Nell'art. 10, primo comma, punto 2° dell'allegato A) al [regio decreto 8 gennaio 1931, n. 148](../Regi%20decreti/Coordinamento%20delle%20norme%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro%20con%20quelle%20sul%20trattamento%20giuridico-economico%20del%20personale%20delle%20ferrovie%20tranvie%20e%20linee%20di%20navi_3d5b7c8a1823.md), alla frase "con l'approvazione governativa", e' sostituita la frase "con l'approvazione dell'Ispettorato compartimentale o ufficio distaccato della motorizzazione civile e dei trasporti in concessione".
 
 ### Art. 66.
 

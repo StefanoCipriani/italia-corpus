@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 26 agosto 1905, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-08-26;489), e successive modificazioni, istitutivo della croce al merito di servizio per i militari di ogni grado della Guardia di finanza;
+Visto il [regio decreto 26 agosto 1905, n. 489](../Regi%20decreti/Concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20servizio%20per%20le%20guardie%20di%20finanza.%20005U0489.md), e successive modificazioni, istitutivo della croce al merito di servizio per i militari di ogni grado della Guardia di finanza;
 
 Ritenuta la necessita' di modificare le disposizioni vigenti in materia di concessione della croce al merito di servizio ai militari della Guardia di finanza;
 
@@ -30,7 +30,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-La croce al merito di servizio istituita con [regio decreto 26 agosto 1905, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-08-26;489), e successive modificazioni, assume la denominazione di croce per anzianita' di servizio.
+La croce al merito di servizio istituita con [regio decreto 26 agosto 1905, n. 489](../Regi%20decreti/Concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20servizio%20per%20le%20guardie%20di%20finanza.%20005U0489.md), e successive modificazioni, assume la denominazione di croce per anzianita' di servizio.
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
@@ -123,7 +123,7 @@ Con decreto del Ministro delle finanze verranno emesse apposite disposizioni cir
 
 1.
 
-Il [regio decreto 26 agosto 1905, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-08-26;489), e successive modificazioni, e' abrogato, fatta salva la disposizione istitutiva dell'onorificenza.
+Il [regio decreto 26 agosto 1905, n. 489](../Regi%20decreti/Concernente%20la%20istituzione%20di%20una%20croce%20al%20merito%20di%20servizio%20per%20le%20guardie%20di%20finanza.%20005U0489.md), e successive modificazioni, e' abrogato, fatta salva la disposizione istitutiva dell'onorificenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

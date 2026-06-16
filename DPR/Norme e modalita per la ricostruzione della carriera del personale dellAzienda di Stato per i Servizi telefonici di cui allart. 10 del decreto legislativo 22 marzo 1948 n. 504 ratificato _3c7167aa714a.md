@@ -100,7 +100,7 @@ Ai soli fini della ricostruzione di carriera, l'eventuale periodo intercorso fra
 
 ### Art. 15.
 
-Gli intercalamenti nel ruolo del personale cui sara' stata ricostruita la carriera al 1 giugno 1948, saranno effettuati in relazione al grado ed all'anzianita' a ciascuno attribuiti a tale data, applicandosi, per quanto riguarda l'anzianita', le norme dell'[art. 8 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_8).
+Gli intercalamenti nel ruolo del personale cui sara' stata ricostruita la carriera al 1 giugno 1948, saranno effettuati in relazione al grado ed all'anzianita' a ciascuno attribuiti a tale data, applicandosi, per quanto riguarda l'anzianita', le norme dell'[art. 8 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ## Personale proveniente dal gruppo A
 
@@ -137,7 +137,7 @@ Il personale telefonico gia' inquadrato nel ruolo di gruppo B a norma del [regio
 
 ### Art. 20.
 
-Il personale proveniente dal ruolo di gruppo B di cui al [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed avente diritto alla ricostruzione, che alla data del 1 maggio 1940 risulti coprire, sia per ricostruzione di carriera sia per posizione raggiunta nell'Azienda, un grado inferiore al 9°, sara' preso in esame e, se riconosciuto meritevole, promosso al grado 90 del gruppo B con effetto da data non anteriore a quella di entrata in vigore del [regio decreto 6 gennaio 1942, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-01-06;27), partecipando poi agli scrutini per le eventuali ulteriori promozioni unitamente al personale di cui ai successivi articoli 21 e 22.
+Il personale proveniente dal ruolo di gruppo B di cui al [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), ed avente diritto alla ricostruzione, che alla data del 1 maggio 1940 risulti coprire, sia per ricostruzione di carriera sia per posizione raggiunta nell'Azienda, un grado inferiore al 9°, sara' preso in esame e, se riconosciuto meritevole, promosso al grado 90 del gruppo B con effetto da data non anteriore a quella di entrata in vigore del [regio decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), partecipando poi agli scrutini per le eventuali ulteriori promozioni unitamente al personale di cui ai successivi articoli 21 e 22.
 
 ### Art. 21.
 

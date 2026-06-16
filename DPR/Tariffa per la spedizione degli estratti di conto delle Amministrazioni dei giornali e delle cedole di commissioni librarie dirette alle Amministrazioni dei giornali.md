@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 8 del Codice postale e delle telecomunicazioni approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 8 del Codice postale e delle telecomunicazioni approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1099](Modificazioni%20ad%20alcune%20voci%20delle%20tariffe%20postali%20ed%20ai%20limiti%20di%20peso%20dimensione%20valore%20e%20assegno%20per%20gli%20oggetti%20affidati%20allAmministrazione%20delle%20poste%20e%20per%20le%20operazioni%20ad%20essa%20richieste.md);
 

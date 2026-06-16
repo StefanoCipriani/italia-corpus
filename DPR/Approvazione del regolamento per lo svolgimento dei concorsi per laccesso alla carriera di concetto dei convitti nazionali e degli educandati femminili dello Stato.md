@@ -28,7 +28,7 @@ La nomina in prova a vice ragioniere economo nel ruolo della carriera di concett
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 22 maggio 1973, n. 550](Norme%20regolamentari%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20statali.md) ha disposto (con l'articolo unico, comma 2) che "Sono abrogate le disposizioni dell'[art. 1 del decreto del Presidente della Repubblica 27 giugno 1962, n. 1437](Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md), nella, parte relativa al titolo di studio richiesto per l'ammissione ai concorsi di cui al precedente comma".
+Il [D.P.R. 22 maggio 1973, n. 550](Norme%20regolamentari%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20statali.md) ha disposto (con l'articolo unico, comma 2) che "Sono abrogate le disposizioni dell'[art. 1 del decreto del Presidente della Repubblica 27 giugno 1962, n. 1437](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md), nella, parte relativa al titolo di studio richiesto per l'ammissione ai concorsi di cui al precedente comma".
 
 ## Art. 2. — Prove del concorso
 
@@ -66,7 +66,7 @@ Al primo concorso a posti di vice ragioniere economo, che sara' bandito dopo la 
 
 ## Art. 6. — Abrogazione
 
-Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali.
+Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](../Regi%20decreti/Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali.
  Sono abrogati gli [articoli 23](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md) e [24 e il secondo comma](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md) dell'[art. 26 del regio decreto 1 ottobre 1931, n. 1312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md).
 
 ## Art. 7. — Rinvio

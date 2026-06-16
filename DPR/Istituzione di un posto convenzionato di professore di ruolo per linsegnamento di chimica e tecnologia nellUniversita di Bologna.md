@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Veduto il [decreto Presidenziale 30 giugno 1954, numero 742](Modificazione%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Bologna.md);
 
@@ -22,7 +22,7 @@ Sono approvati e resi esecutivi l'annessa convenzione stipulata in Bologna il 25
 
 ## Art. 2.
 
-E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo riservato all'insegnamento di chimica e tecnologia, dei prodotti ceramici in aggiunta a quelli indicati, per la Facolta' di ingegneria dell'Universita' di Bologna, nella tabella D annessa al predetto testo unico, e successive modificazioni e integrazioni.
+E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo riservato all'insegnamento di chimica e tecnologia, dei prodotti ceramici in aggiunta a quelli indicati, per la Facolta' di ingegneria dell'Universita' di Bologna, nella tabella D annessa al predetto testo unico, e successive modificazioni e integrazioni.
 
 ## Art. 3.
 

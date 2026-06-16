@@ -168,7 +168,7 @@ disposizione del servizio medico scolastico, nelle proprie sedi, locali idonei, 
 ### Art. 14.
 
 L'Amministrazione provinciale puo' istituire od integrare i servizi medico-scolastici, qualora i Comuni ed i Consorzi di comuni non siano in condizioni di provvedervi totalmente o parzialmente.
- La ripartizione delle spese e' fatta in conformita' del disposto del [terzo comma dell'art. 92 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_92-com3) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265).
+ La ripartizione delle spese e' fatta in conformita' del disposto del [terzo comma dell'art. 92 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md).
  Il Ministero della sanita', per favorire l'impianto e concedere contributi finanziari ai Comuni con popolazione inferiore ai 25 mila abitanti ed ai Consorzi di comuni.
 
 ### Art. 15.

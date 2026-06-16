@@ -14,7 +14,7 @@ Veduto lo statuto dell'Istituto universitario di magistero "G.
 
 Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 ottobre 1951, n. 1300](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20universitario%20di%20magistero%20G.%20Cuomo%20di%20Salerno.md), e modificato con [decreto del Presidente della Repubblica 4 febbraio 1955, n. 124](Modificazioni%20allo%20statuto%20dellIstituto%20universitario%20di%20magistero%20G.%20Cuomo%20di%20Salerno.md) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -70,7 +70,7 @@ Art. 12, il primo comma e' abrogato e sostituito dal seguente:
 
 Art. 15, relativo alle attribuzioni del Consiglio direttivo e' modificato nel senso che il comma distinto dalla lettera 1) e' abrogato e sostituito dal seguente:
 
-I) "esercita tutte le altre attribuzioni che gli sono riferite dal presente statuto, nonche' quelle demandate ai Consigli di facolta' dal testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni".
+I) "esercita tutte le altre attribuzioni che gli sono riferite dal presente statuto, nonche' quelle demandate ai Consigli di facolta' dal testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni".
 
 Art. 23, relativo agli insegnamenti fondamentali e complementari dei corsi di laurea e' modificato nel senso che per il punto c) laurea in Lingue e letterature straniere, gli ultimi quattro comma sono abrogati e sostituiti dai seguenti:
 
@@ -232,7 +232,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto lo statuto dell'Istituto universitario di magistero "G.
 Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 ottobre 1951, n. 1300](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20universitario%20di%20magistero%20G.%20Cuomo%20di%20Salerno.md), e modificato con [decreto del Presidente della Repubblica 4 febbraio 1955, n. 124](Modificazioni%20allo%20statuto%20dellIstituto%20universitario%20di%20magistero%20G.%20Cuomo%20di%20Salerno.md) e successive modificazioni;
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
  Vedute le proposte di modifiche dello statuto formulate, dalle autorita' accademiche dell'Istituto anzidetto;
@@ -266,7 +266,7 @@ Cuomo" di Salerno, approvato con [decreto del Presidente della Repubblica 9 otto
  "Il direttore dell'istituto e' nominato dal Consiglio di amministrazione su proposta del Consiglio direttivo, che lo designa a maggioranza assoluta dei voti, scegliendolo tra i professori di ruolo o fuori ruolo dell'Istituto".
 
  Art. 15, relativo alle attribuzioni del Consiglio direttivo e' modificato nel senso che il comma distinto dalla lettera 1) e' abrogato e sostituito dal seguente:
- I) "esercita tutte le altre attribuzioni che gli sono riferite dal presente statuto, nonche' quelle demandate ai Consigli di facolta' dal testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni".
+ I) "esercita tutte le altre attribuzioni che gli sono riferite dal presente statuto, nonche' quelle demandate ai Consigli di facolta' dal testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni".
 
  Art. 23, relativo agli insegnamenti fondamentali e complementari dei corsi di laurea e' modificato nel senso che per il punto c) laurea in Lingue e letterature straniere, gli ultimi quattro comma sono abrogati e sostituiti dai seguenti:
  "Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina (dal latino in italiano) ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.

@@ -12,16 +12,16 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Vista la domanda 20 settembre 1947 corredata dalla delibera 7 agosto stesso anno n. 279, con la quale la Camera di commercio, industria e agricoltura di Bergamo ha chiesto la classifica, fra i comprensori di bonifica ai sensi dell'art. 3 del testo delle norme sulla bonifica integrale, approvato con [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), del territorio della Media pianura bergamasca;
+ Vista la domanda 20 settembre 1947 corredata dalla delibera 7 agosto stesso anno n. 279, con la quale la Camera di commercio, industria e agricoltura di Bergamo ha chiesto la classifica, fra i comprensori di bonifica ai sensi dell'art. 3 del testo delle norme sulla bonifica integrale, approvato con [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), del territorio della Media pianura bergamasca;
  Ritenuto che la zona comprende terreni sciolti e ghiaiosi ove si riscontrano paghe siccitose di scarsa fertilita' per mancanza di irrigazioni soprattutto nella parte piu' alta della pianura e in quella denominata dell'"Isola" posta tra i fiumi Adda e Brembo;
  Che ricorrono le condizioni per procedere alla richiesta classifica;
  Visti i pareri 10 febbraio e 13 maggio 1949, nn. 109 e 171 e 25 maggio 1951, n. 255, del Comitato speciale della bonifica;
- Visto l'art. 3 del testo delle norme sulla bonifica integrale, approvato con [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+ Visto l'art. 3 del testo delle norme sulla bonifica integrale, approvato con [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
  Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto col Ministro per il tesoro e col Ministro per i lavori pubblici;
 
  Decreta:
 
- Il territorio della Media pianura bergamasca, in provincia di Bergamo, e' classificato ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), fra i comprensori di bonifica di 2ª categoria sulla base della corografia, che munita dal "visto" del Ministro proponente, forma parte integrante del presente decreto.
+ Il territorio della Media pianura bergamasca, in provincia di Bergamo, e' classificato ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), fra i comprensori di bonifica di 2ª categoria sulla base della corografia, che munita dal "visto" del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

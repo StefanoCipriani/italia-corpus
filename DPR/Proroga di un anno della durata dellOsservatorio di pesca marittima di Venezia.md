@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il testo unico sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604);
+ Visto il testo unico sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
  Visto il [regio decreto 8 aprile 1939, n. 844](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Osservatorio%20di%20pesca%20marittima%20in%20Venezia.%20039U0844.md), che istituisce l'Osservatorio di pesca marittima in Venezia;
  Udito il parere del Consiglio di Stato emesso nell'adunanza del 23 febbraio 1949;
  Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto col Ministro per il tesoro;

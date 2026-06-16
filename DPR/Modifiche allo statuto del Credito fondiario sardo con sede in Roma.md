@@ -16,7 +16,7 @@ Visto il [decreto legislativo del Capo provvisorio dello Stato 12 agosto 1946, n
 
 Visto il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
-Visto il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472);
+Visto il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md);
 
 Viste le [leggi 29 luglio 1949, n. 474 e 4 agosto 1955, n. 683](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;683);
 
@@ -63,7 +63,7 @@ L'Istituto potra' istituire una Sezione autonoma per il finanziamento di opere p
  In particolare delibera:
  a) sulla concessione dei mutui e sulle loro modalita';
  b) sulla formazione del bilancio annuale;
- c) salvo il disposto dell'art. 18 lettere c) e d), sulle iscrizioni, rinunzie, surroghe e cancellazioni di ipoteche; le azioni giudiziarie; le eventuali compere e aggiudicazioni dei beni immobili, nei limiti e sotto le condizioni stabilite dal regolamento al testo unico delle leggi sul credito fondiario approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472); le cessioni, i trasferimenti, le Vendite di immobili con rinuncia all'ipoteca legale, le transazioni e, in genere, tutti gli atti giudiziari inerenti all'amministrazione dell'Istituto;
+ c) salvo il disposto dell'art. 18 lettere c) e d), sulle iscrizioni, rinunzie, surroghe e cancellazioni di ipoteche; le azioni giudiziarie; le eventuali compere e aggiudicazioni dei beni immobili, nei limiti e sotto le condizioni stabilite dal regolamento al testo unico delle leggi sul credito fondiario approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md); le cessioni, i trasferimenti, le Vendite di immobili con rinuncia all'ipoteca legale, le transazioni e, in genere, tutti gli atti giudiziari inerenti all'amministrazione dell'Istituto;
  d) sulla ripartizione per l'impiego del capitale, giusta quanto previsto nella seconda parte del precedente art. 7 e l'impiego dei fondi di riserva statutaria e speciale;
  e) stabilisce la provvigione dei mutui;
  f) delibera la creazione delle cartelle secondo diversi tassi di interesse;

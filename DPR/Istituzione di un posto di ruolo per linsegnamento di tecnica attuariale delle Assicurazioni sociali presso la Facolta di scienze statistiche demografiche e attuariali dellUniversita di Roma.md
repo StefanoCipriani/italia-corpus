@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni Veduto il [decreto del Presidente della Repubblica 22 dicembre 1958, n. 1150](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20convenzionato%20per%20linsegnamento%20di%20assicurazioni%20sociali%20presso%20la%20Facolta%20di%20scienze%20statistiche%20demografiche%20ed%20attuariali%20dellUniversita%20di%20Roma.md);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni Veduto il [decreto del Presidente della Repubblica 22 dicembre 1958, n. 1150](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20convenzionato%20per%20linsegnamento%20di%20assicurazioni%20sociali%20presso%20la%20Facolta%20di%20scienze%20statistiche%20demografiche%20ed%20attuariali%20dellUniversita%20di%20Roma.md);
 
 Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro; Decreta:
 

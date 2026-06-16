@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 gennaio 1929, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-31;205), con il quale i comuni di Borgarello, Torre del Mangano e Torriano furono riuniti in unico Ente, denominato "Certosa di Pavia";
+Visto il [regio decreto 31 gennaio 1929, n. 205](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Borgarello%20Torre%20del%20Mangano%20e%20Torriano%20in%20un%20unico%20Comune%20denominato%20%20Certosa%20di%20Pavia%20%20con%20la%20sede%20municipale%20a%20Torre%20del%20Mangano.%20029U0205.md), con il quale i comuni di Borgarello, Torre del Mangano e Torriano furono riuniti in unico Ente, denominato "Certosa di Pavia";
 
 Viste le istanze in data 8, 10, 11, 12, 14 e 15 febbraio 1955, con le quali la maggioranza qualificata degli elettori del soppresso comune di Borgarello ne ha chiesta la ricostituzione in comune autonomo;
 

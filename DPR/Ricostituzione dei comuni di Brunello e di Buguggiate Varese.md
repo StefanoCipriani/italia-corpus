@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 22 settembre 1927, n. 2396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-22;2396), con il quale i comuni di Azzate, Brunello e Buguggiate, in provincia di Varese, furono riuniti in unico Comune denominato "Azzate";
+Visto il [regio decreto 22 settembre 1927, n. 2396](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Azzate%20Brunello%20e%20Buguggiate%20in%20un%20unico%20Comune%20denominato%20Azzate.%20027U2396.md), con il quale i comuni di Azzate, Brunello e Buguggiate, in provincia di Varese, furono riuniti in unico Comune denominato "Azzate";
 
 Viste le istanze 14 maggio 1953 e 25 ottobre 1954, con le quali, rispettivamente, la maggioranza qualificata degli elettori dei cessati comuni di Brunello e di Buguggiate ne ha chiesto la ricostituzione in Comuni autonomi;
 

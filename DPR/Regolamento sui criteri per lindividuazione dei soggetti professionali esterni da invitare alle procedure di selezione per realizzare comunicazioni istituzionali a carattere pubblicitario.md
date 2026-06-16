@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 6 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), recante nuove disposizioni generali sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto l'[articolo 6 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante nuove disposizioni generali sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -58,7 +58,7 @@ Avvertenza:
 
  Note alle premesse:
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - L'[art. 6 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), recante: "Nuove disposizioni generali sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato" e' il seguente:
+ - L'[art. 6 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), recante: "Nuove disposizioni generali sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato" e' il seguente:
  "Art. 6. - Qualora, per speciali ed eccezionali circostanze, che dovranno risultare nel decreto di approvazione del contratto, non possano essere utilmente seguite le forme indicate negli articoli 3 e 4, il contratto potra' essere concluso a trattativa privata.
  Se l'importo previsto superi le L. 150.000.000 il progetto di contratto o, nel caso di cui al precedente art. 5, comma ultimo, lo schema di contratto firmato dalla ditta contraente sara', ai sensi dell'articolo medesimo, comunicato al Consiglio di Stato per il parere".
  - L'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), recante: "Disciplina dell'attivita' di governo e ordinamento della Presidenza del Consiglio dei Ministri" e' il seguente:
@@ -70,7 +70,7 @@ Avvertenza:
  e) (lettera soppressa).".
  - Il [decreto legislativo 17 marzo 1995, n. 157](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-50-CEE%20in%20materia%20di%20appalti%20pubblici%20di%20servizi.md), reca: "Attuazione della [direttiva 92/50/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;50) in materia di appalti pubblici di servizi, e successive modificazioni".
  - L'[art. 15 della legge 7 giugno 2000, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-06-07;150#art_15), recante: "Disciplina delle attivita' di informazione e di comunicazione delle pubbliche amministrazioni" e' il seguente:
- "Art. 15 (Procedure di gara). - 1. Per la realizzazione delle iniziative di comunicazione istituzionale a carattere pubblicitario la scelta dei soggetti professionali esterni e' effettuata, anche in deroga ai limiti previsti dall'[art. 6 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), nel rispetto delle disposizioni del [decreto legislativo 17 marzo 1995, n. 157](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-50-CEE%20in%20materia%20di%20appalti%20pubblici%20di%20servizi.md). A tali fini, con regolamento da emanare, su proposta del Presidente del Consiglio dei Ministri, ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e successive modificazioni, entro quarantacinque giorni dalla data di entrata in vigore della presente legge, sono stabiliti i criteri per la individuazione dei soggetti professionali da invitare alle procedure di selezione, nonche' per la determinazione delle remunerazioni per i servizi prestati. A tali fini si tiene conto anche dei criteri stabiliti in materia dall'Autorita' per le garanzie nelle comunicazioni".
+ "Art. 15 (Procedure di gara). - 1. Per la realizzazione delle iniziative di comunicazione istituzionale a carattere pubblicitario la scelta dei soggetti professionali esterni e' effettuata, anche in deroga ai limiti previsti dall'[art. 6 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), nel rispetto delle disposizioni del [decreto legislativo 17 marzo 1995, n. 157](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-50-CEE%20in%20materia%20di%20appalti%20pubblici%20di%20servizi.md). A tali fini, con regolamento da emanare, su proposta del Presidente del Consiglio dei Ministri, ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e successive modificazioni, entro quarantacinque giorni dalla data di entrata in vigore della presente legge, sono stabiliti i criteri per la individuazione dei soggetti professionali da invitare alle procedure di selezione, nonche' per la determinazione delle remunerazioni per i servizi prestati. A tali fini si tiene conto anche dei criteri stabiliti in materia dall'Autorita' per le garanzie nelle comunicazioni".
  - La direttiva del Presidente del Consiglio dei Ministri sul programma delle iniziative di informazione e comunicazione istituzionale delle amministrazioni dello Stato e' pubblicata nella Gazzetta Ufficiale del 30 ottobre 2000, n. 254.
 
  Note all'[art. 1](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md):
@@ -152,7 +152,7 @@ Note all'art. 4:
 
 1.
 
-Le iniziative di cui all'articolo 2, di importo inferiore a 130.000 DSP, possono essere affidate, in deroga alla disposizione di cui all'[articolo 6 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), mediante la procedura negoziata di cui al presente articolo.
+Le iniziative di cui all'articolo 2, di importo inferiore a 130.000 DSP, possono essere affidate, in deroga alla disposizione di cui all'[articolo 6 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), mediante la procedura negoziata di cui al presente articolo.
 
 2.
 
@@ -205,7 +205,7 @@ Sono invitati a partecipare alla procedura di selezione almeno tre imprese media
                             indirizzo, numero di telefono e di fax del servizio cui possono essere richieste le informazioni necessarie alla selezione.
 
 Nota all'art. 5:
- - Per il testo dell'[art. 6 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_6), vedi note alle premesse.
+ - Per il testo dell'[art. 6 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), vedi note alle premesse.
 
 ## Art. 6. — Criteri di aggiudicazione
 

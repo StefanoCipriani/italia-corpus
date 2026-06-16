@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Veduto il [regio decreto 12 dicembre 1938, n. 1964](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20di%20radiologia%20presso%20la%20Regia%20universita%20di%20Bologna.%20038U1964.md), col quale venne approvata la convenzione, stipulata a Bologna il 18 novembre 1938 per l'istituzione di un posto di professore di ruolo destinato all'insegnamento di "Radiologia" presso la regia Universita' di Bologna;
 
@@ -26,7 +26,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Bologna in data
 
 ## Art. 2.
 
-E' istituito, ai sensi degli articoli 63, comma secondo, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo da destinare all'insegnamento della "Radiologia" in aggiunta a quelli indicati per la Facolta' di medicina e chirurgia dell'Universita' di Bologna nella tabella D) annessa al predetto testo unico e successive modificazioni.
+E' istituito, ai sensi degli articoli 63, comma secondo, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo da destinare all'insegnamento della "Radiologia" in aggiunta a quelli indicati per la Facolta' di medicina e chirurgia dell'Universita' di Bologna nella tabella D) annessa al predetto testo unico e successive modificazioni.
 
 ## Art. 3.
 

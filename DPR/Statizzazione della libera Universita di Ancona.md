@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il [decreto del Presidente della Repubblica 10 dicembre 1969, n. 1321](Istituzione%20della%20libera%20Universita%20di%20Ancona.md), con il quale e' stata riconosciuta la libera Universita' degli studi di Ancona, costituita dalla facolta' di ingegneria (limitatamente al I biennio) e dalla facolta' di medicina e chirurgia (limitatamente al I triennio);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Minis
 
 ## Art. 1.
 
-A decorrere dall'anno accademico 1970-71 la libera Universita' degli studi di Ancona, riconosciuta con [decreto del Presidente della Repubblica 10 dicembre 1969, n. 1321](Istituzione%20della%20libera%20Universita%20di%20Ancona.md), passa a carico dello Stato, per cui e' compresa fra quelle previste al n. 1 dell'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni.
+A decorrere dall'anno accademico 1970-71 la libera Universita' degli studi di Ancona, riconosciuta con [decreto del Presidente della Repubblica 10 dicembre 1969, n. 1321](Istituzione%20della%20libera%20Universita%20di%20Ancona.md), passa a carico dello Stato, per cui e' compresa fra quelle previste al n. 1 dell'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni.
  L'universita' di cui al precedente comma assume la denominazione di Universita' degli studi di Ancona.
  Il [decreto del Presidente della Repubblica 10 dicembre 1969, n. 1321](Istituzione%20della%20libera%20Universita%20di%20Ancona.md), e' revocato.
 

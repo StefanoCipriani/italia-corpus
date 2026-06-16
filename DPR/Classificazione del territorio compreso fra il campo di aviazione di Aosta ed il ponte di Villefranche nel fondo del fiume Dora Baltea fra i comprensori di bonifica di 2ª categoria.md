@@ -14,13 +14,13 @@ Ritenuto che il territorio paludoso e insalubre, dell'estensione di circa 600 et
 
 Visto il voto del Comitato speciale per la bonifica 9 gennaio 1948, n. 43;
 
-A termini del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+A termini del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 
 ## Articolo unico.
 
-Il territorio compreso fra il campo di aviazione di Aosta e il ponte di Villefranche, nel fondo valle del fiume Dora Baltea, ricadente nei comuni di Quart, Pollein, S. Cristophe e Brissogne, dell'estensione di circa 600 ettari, nella valle di Aosta, e' classificato fra i comprensori di bonifica di seconda categoria, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215).
+Il territorio compreso fra il campo di aviazione di Aosta e il ponte di Villefranche, nel fondo valle del fiume Dora Baltea, ricadente nei comuni di Quart, Pollein, S. Cristophe e Brissogne, dell'estensione di circa 600 ettari, nella valle di Aosta, e' classificato fra i comprensori di bonifica di seconda categoria, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

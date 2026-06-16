@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), e successive modificazioni;
+Visto il testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md), e successive modificazioni;
 
-Visto il relativo regolamento approvato con [regio decreto 7 giugno 1928, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-07;1369), e successive modificazioni;
+Visto il relativo regolamento approvato con [regio decreto 7 giugno 1928, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2026%20febbraio%201928%20n.%20619%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti.%20028U1369.md), e successive modificazioni;
 
 Visto il [regio decreto legislativo 20 maggio 1946, n. 395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20alle%20prestazioni%20dellex%20Opera%20di%20previdenza%20per%20i%20personali%20civile%20e%20militare%20dello%20Stato%20e%20modificazioni%20al%20testo%20unico%2026%20febbraio%201928%20n.%20619.md);
 
@@ -30,7 +30,7 @@ Sulla proposta dei Ministri per il tesoro e per il lavoro e la previdenza social
 
 ## Art. 1.
 
-L'aliquota di un centesimo dell'ultimo stipendio annuo, da prendersi a base per il calcolo dell'indennita' di buonuscita ai sensi dell'art. 48 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), e' elevata ad un cinquantesimo per i casi di cessazione dal servizio non anteriori al 1 luglio 1947. 
+L'aliquota di un centesimo dell'ultimo stipendio annuo, da prendersi a base per il calcolo dell'indennita' di buonuscita ai sensi dell'art. 48 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md), e' elevata ad un cinquantesimo per i casi di cessazione dal servizio non anteriori al 1 luglio 1947. 
  Rimangono fermi gli aumenti di un decimo, due decimi o tre decimi previsti dal terzo comma del suddetto art. 48. 
  Per i casi di cessazione dal servizio contemplati dal primo comma del presente articolo l'indennita' di buonuscita non puo' essere inferiore a L. 10.000. 
  (2) ((3))
@@ -40,7 +40,7 @@ L'aliquota di un centesimo dell'ultimo stipendio annuo, da prendersi a base per 
 AGGIORNAMENTO (2)
 
 La [L. 25 novembre 1957, n. 1139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-25;1139) ha disposto (con l'art. 12, commi 1 e 2) che "Il periodo minimo di iscrizione al Fondo di previdenza per il personale civile e militare dello Stato previsto dagli articoli 48 e 52 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 
-619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), per il conseguimento del diritto all'indennita' di buonuscita, e' ridotto ad un biennio compiuto per i casi di cessazione dal servizio a decorrere dal 1 luglio 1956. 
+619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md), per il conseguimento del diritto all'indennita' di buonuscita, e' ridotto ad un biennio compiuto per i casi di cessazione dal servizio a decorrere dal 1 luglio 1956. 
  L'aliquota di cui all'[art. 1 del decreto del Presidente della Repubblica 26 gennaio 1948, n. 127](Miglioramenti%20alle%20prestazioni%20concesse%20dalla%20ex%20Opera%20di%20previdenza%20per%20i%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dalla%20ex%20Cassa%20sovvenzioni.md), da prendersi a base per la determinazione della misura dell'indennita' e', nei casi suddetti, elevata ad un venticinquesimo dell'ultima retribuzione annua contributiva, restando soppresse le maggiorazioni previste dal terzo comma dell'art. 48 del citato testo unico".
 
 ---------------
@@ -51,7 +51,7 @@ Il [D.P.R. 21 aprile 1965, n. 373](Conglobamento%20dellassegno%20temporaneo%20ne
 
 ## Art. 2.
 
-Per i casi di cessazione dal servizio non anteriori al 1 luglio 1947, l'aliquota di un sessantesimo dell'ultimo stipendio annuo, da prendersi a base per il calcolo dell'assegno vitalizio diretto ai sensi dell'art. 22 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619), e' elevata ad un cinquantesimo, restando abrogati il limite minimo di L. 1200 e quello massimo di un terzo dell'ultimo stipendio annuo previsti dello stesso art. 22. In nessun caso l'assegno da liquidarsi all'iscritto puo' essere minore di quello che spetterebbe alla vedova in base ai successivi articoli 3 e 4. ((2))
+Per i casi di cessazione dal servizio non anteriori al 1 luglio 1947, l'aliquota di un sessantesimo dell'ultimo stipendio annuo, da prendersi a base per il calcolo dell'assegno vitalizio diretto ai sensi dell'art. 22 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md), e' elevata ad un cinquantesimo, restando abrogati il limite minimo di L. 1200 e quello massimo di un terzo dell'ultimo stipendio annuo previsti dello stesso art. 22. In nessun caso l'assegno da liquidarsi all'iscritto puo' essere minore di quello che spetterebbe alla vedova in base ai successivi articoli 3 e 4. ((2))
 
 ---------------
 
@@ -65,7 +65,7 @@ Per i casi in cui gli assegni vitalizi indiretti hanno decorrenza non anteriore 
 
 ## Art. 4.
 
-Per gli assegni vitalizi indiretti con decorrenza non anteriore al 1 luglio 1947, l'aumento di L. 360 annue previsto dall'[art. 6 del regio decreto legislativo 20 maggio 1946, n. 395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20alle%20prestazioni%20dellex%20Opera%20di%20previdenza%20per%20i%20personali%20civile%20e%20militare%20dello%20Stato%20e%20modificazioni%20al%20testo%20unico%2026%20febbraio%201928%20n.%20619.md) - che ha sostituito l'art. 24 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619) - e' elevato a L. 3000 annue sia per gli assegni dovuti alle vedove per ciascun orfano minorenne o maggiorenne inabile a proficuo lavoro a loro carico, sia per gli assegni dovuti a gruppi di orfani, di fratelli o di sorelle per ciascun compartecipe oltre il primo. (2) ((4))
+Per gli assegni vitalizi indiretti con decorrenza non anteriore al 1 luglio 1947, l'aumento di L. 360 annue previsto dall'[art. 6 del regio decreto legislativo 20 maggio 1946, n. 395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20alle%20prestazioni%20dellex%20Opera%20di%20previdenza%20per%20i%20personali%20civile%20e%20militare%20dello%20Stato%20e%20modificazioni%20al%20testo%20unico%2026%20febbraio%201928%20n.%20619.md) - che ha sostituito l'art. 24 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md) - e' elevato a L. 3000 annue sia per gli assegni dovuti alle vedove per ciascun orfano minorenne o maggiorenne inabile a proficuo lavoro a loro carico, sia per gli assegni dovuti a gruppi di orfani, di fratelli o di sorelle per ciascun compartecipe oltre il primo. (2) ((4))
 
 ---------------
 
@@ -81,7 +81,7 @@ Il [D.P.R. 5 giugno 1965, n. 759](Nuove%20norme%20sui%20trattamenti%20previdenzi
 
 ## Art. 5.
 
-Le misure degli assegni vitalizi a carico dei fondi dell'ex Cassa sovvenzioni previste dall'[art. 11 del regio decreto legislativo 20 maggio 1946, n. 395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20alle%20prestazioni%20dellex%20Opera%20di%20previdenza%20per%20i%20personali%20civile%20e%20militare%20dello%20Stato%20e%20modificazioni%20al%20testo%20unico%2026%20febbraio%201928%20n.%20619.md) - che ha sostituito l'art. 72 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-26;619) sono elevate, tanto per gli assegni gia' conferiti quanto per quelli da conferire, agli importi appresso indicati: 
+Le misure degli assegni vitalizi a carico dei fondi dell'ex Cassa sovvenzioni previste dall'[art. 11 del regio decreto legislativo 20 maggio 1946, n. 395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20alle%20prestazioni%20dellex%20Opera%20di%20previdenza%20per%20i%20personali%20civile%20e%20militare%20dello%20Stato%20e%20modificazioni%20al%20testo%20unico%2026%20febbraio%201928%20n.%20619.md) - che ha sostituito l'art. 72 del testo unico approvato con [regio decreto 26 febbraio 1928, n. 619](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20unico%20delle%20disposizioni%20legislative%20sullOpera%20di%20previdenza%20dei%20personali%20civile%20e%20militare%20dello%20Stato%20e%20dei%20loro%20superstiti%20amministrata%20dalla%20Direzione%20ge_2da4e1a03353.md) sono elevate, tanto per gli assegni gia' conferiti quanto per quelli da conferire, agli importi appresso indicati: 
  a) lire 18.000 annue per gli impiegati; 
  b) lire 16.800 annue per le vedove con prole minorenne o con prole maggiorenne inabile a proficuo lavoro; 
  c) lire 14.400 annue per le vedove senza prole o con prole maggiorenne non inabile a proficuo lavoro, nonche' per gli orfani; 

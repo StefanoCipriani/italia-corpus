@@ -157,7 +157,7 @@ L'art. 15 e' sostituito dal seguente:
 ## Art. 14.
 
 Art. 16 e' sostituito dal seguente:
- "Riscossione coattiva. - Per la riscossione coattiva delle imposte, delle soprattasse e delle pene pecuniarie si applicano le disposizioni degli [articoli da 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639#art_5) [a 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639#art_29) e [31 del regio decreto 14 aprile 1910, n. 639](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-14;639#art_31).
+ "Riscossione coattiva. - Per la riscossione coattiva delle imposte, delle soprattasse e delle pene pecuniarie si applicano le disposizioni degli [articoli da 5](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md) [a 29](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md) e [31 del regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
  Per l'imposta dovuta sulle sentenze e i decreti penali si applica l'art. 36 della tariffa allegata al presente decreto".
 
 ## Art. 15.

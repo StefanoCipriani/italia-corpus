@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md);
- Visto il [regio decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945);
+ Visto il [regio decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md);
  Vista la istanza con cui in data 31 gennaio 1951 il commissario prefettizio dell'Orfanotrofio "Umberto I" di Salerno ha chiesto il pareggiamento della scuola interna di musica ai Conservatori di musica di Stato;
  Vista la relazione della Commissione tecnico-amministrativa, incaricata dal Ministro per la pubblica istruzione di procedere presso la predetta scuola di musica agli accertamenti di cui al [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md);
  Considerato che il predetto Orfanotrofio ha adempiuto alle richieste formulate dal Ministero della pubblica istruzione in ordine all'espletamento dei concorsi per il personale direttivo ed insegnante e all'emanazione di un nuovo regolamento interno della scuola suddetta aggiornato di tutte le disposizioni concernenti l'organizzazione degli istituti d'istruzione musicale;

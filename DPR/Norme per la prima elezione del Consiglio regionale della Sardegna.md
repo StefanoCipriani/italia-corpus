@@ -123,7 +123,7 @@ Costituito l'ufficio definitivo di presidenza, il Consiglio procede, a norma del
 ## Art. 19.
 
 Le spese per la prima elezione del Consiglio regionale della Sardegna sono a carico dello Stato.
- Per le aperture di credito inerenti al pagamento delle spese di cui al comma precedente e' autorizzata la deroga alle limitazioni previste dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56).
+ Per le aperture di credito inerenti al pagamento delle spese di cui al comma precedente e' autorizzata la deroga alle limitazioni previste dall'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
  Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti alle variazioni da introdurre in bilancio in dipendenza delle disposizioni del presente decreto.
 
 ## Art. 20.

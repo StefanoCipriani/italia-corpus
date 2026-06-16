@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni;
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni;
 
 Udito il Consiglio di amministrazione dei monopoli di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-La disposizione contenuta nella lettera h) dell'art. 111 del regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), sostituita dall'[art. 1 del decreto Presidenziale 14 settembre 1948, n. 1350](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.md), e' sostituita dalla seguente:
+La disposizione contenuta nella lettera h) dell'art. 111 del regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), sostituita dall'[art. 1 del decreto Presidenziale 14 settembre 1948, n. 1350](Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.md), e' sostituita dalla seguente:
  "h) di lire dieci per ciascuna pianta riscontrata, a norma dell'art. 20, in piu' della quantita' permessa o comunque esistente in area che eccede la superficie autorizzata, sempreche' non venga superata la misura del tre per cento delle piante autorizzate per ogni coltivazione.
  Oltre tale limite la penalita' viene portata, per ciascuna pianta, a lire venti.
  Le suddette penalita' sono rispettivamente ridotte a lire due e a lire quattro, quando si tratti di varieta' levantine.

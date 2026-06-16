@@ -130,7 +130,7 @@ Il parere previsto al comma 3 e' espresso dal presidente della corte d'appello s
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 18 agosto 2015, n. 133](Regolamento%20sulle%20misure%20organizzative%20a%20livello%20centrale%20e%20periferico%20per%20lattuazione%20delle%20disposizioni%20dei%20commi%20527%20528%20529%20e%20530%20dellarticolo%201%20della%20legge%2023%20dicembre%202014%20n.%20190.%2015G00148.md) ha disposto (con l'art. 3, comma 7) che per effetto di quanto disposto dall'[articolo 1, comma 526, della legge 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), sono soppresse, a far data dal 1° settembre 2015, le Commissioni di manutenzione di cui al presente articolo.
+Il [D.P.R. 18 agosto 2015, n. 133](../Regolamenti%20governativi/Regolamento%20sulle%20misure%20organizzative%20a%20livello%20centrale%20e%20periferico%20per%20lattuazione%20delle%20disposizioni%20dei%20commi%20527%20528%20529%20e%20530%20dellarticolo%201%20della%20legge%2023%20dicembre%202014%20n.%20190.%2015G00148.md) ha disposto (con l'art. 3, comma 7) che per effetto di quanto disposto dall'[articolo 1, comma 526, della legge 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), sono soppresse, a far data dal 1° settembre 2015, le Commissioni di manutenzione di cui al presente articolo.
 
 ## Art. 4. — Disposizioni transitorie
 

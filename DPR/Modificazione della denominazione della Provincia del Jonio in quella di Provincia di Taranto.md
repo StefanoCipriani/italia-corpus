@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 2 settembre 1923, n. 1911](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-02;1911), con il quale venne istituita la "Provincia del Jonio", con capoluogo Taranto;
+ Visto il [regio decreto 2 settembre 1923, n. 1911](../Regi%20decreti/Istituzione%20della%20provincia%20di%20Taranto.%20023U1911.md), con il quale venne istituita la "Provincia del Jonio", con capoluogo Taranto;
  Ritenuta l'opportunita' di modificare tale denominazione in quella di "Provincia di Taranto";
  Visto il parere favorevole della Deputazione provinciale di Taranto, espresso con [deliberazione n. 844, in data 12 giugno 1950](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1950-06-12;844);
  Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);

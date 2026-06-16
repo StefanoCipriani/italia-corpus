@@ -61,7 +61,7 @@ In aggiunta alle lingue francese e inglese, il concorrente puo' chiedere di esse
 
 ## Art. 6.
 
-Lo svolgimento degli esami e la formazione della graduatoria avviene secondo le disposizioni generali stabilite dal [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato.
+Lo svolgimento degli esami e la formazione della graduatoria avviene secondo le disposizioni generali stabilite dal [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato.
  Le determinazioni della Commissione che non concernono la valutazione dei candidati sono adottate a maggioranza di voti. In caso di parita' prevale il voto del presidente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

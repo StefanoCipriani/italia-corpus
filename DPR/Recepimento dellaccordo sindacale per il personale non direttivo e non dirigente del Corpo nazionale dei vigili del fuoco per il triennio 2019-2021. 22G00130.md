@@ -1019,7 +1019,7 @@ Il trattamento di trasferta cessa di essere corrisposto dopo i primi duecentoqua
 
 11.
 
-Per quanto non previsto dai precedenti commi, il trattamento di trasferta, ivi compreso quello relativo alle missioni all'estero, rimane disciplinato dal [regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941), dalla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836), dalla [legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417), e dal [decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](Trattamento%20economico%20di%20missione%20e%20di%20trasferimento%20dei%20dipendenti%20civili%20dello%20Stato.md), e successive modifiche e integrazioni.
+Per quanto non previsto dai precedenti commi, il trattamento di trasferta, ivi compreso quello relativo alle missioni all'estero, rimane disciplinato dal [regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), dalla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836), dalla [legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417), e dal [decreto del Presidente della Repubblica 16 gennaio 1978, n. 513](Trattamento%20economico%20di%20missione%20e%20di%20trasferimento%20dei%20dipendenti%20civili%20dello%20Stato.md), e successive modifiche e integrazioni.
 
 12.
 
@@ -1396,7 +1396,7 @@ I permessi di cui al comma 1, sono assimilati alle assenze per malattia ai fini 
 
 3.
 
-I permessi orari di cui al comma 1 non sono fruibili per meno di un'ora; non possono essere utilizzati nella stessa giornata consecutivamente ad altre tipologie di permessi fruibili ad ore, previsti dalla normativa, nonche' con i riposi compensativi di maggiori prestazioni lavorative. Fanno eccezione i permessi di cui all'[articolo 33 della legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104#art_33), e i permessi e congedi disciplinati dal [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md).
+I permessi orari di cui al comma 1 non sono fruibili per meno di un'ora; non possono essere utilizzati nella stessa giornata consecutivamente ad altre tipologie di permessi fruibili ad ore, previsti dalla normativa, nonche' con i riposi compensativi di maggiori prestazioni lavorative. Fanno eccezione i permessi di cui all'[articolo 33 della legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104#art_33), e i permessi e congedi disciplinati dal [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md).
 
 4.
 
@@ -1459,7 +1459,7 @@ Note all'art. 28:
  7. Le disposizioni di cui ai commi 1, 2, 3, 4 e 5 si applicano anche agli affidatari di persone handicappate in situazione di gravita'. 
  7-bis. Ferma restando la verifica dei presupposti per l'accertamento della responsabilita' disciplinare, il lavoratore di cui al comma 3 decade dai diritti di cui al presente articolo, qualora il datore di lavoro o l'INPS accerti l'insussistenza o il venir meno delle condizioni richieste per la legittima fruizione dei medesimi diritti.
  Dall'attuazione delle disposizioni di cui al presente comma non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.» 
- - Il [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), recante «Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[articolo 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15)» e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 26 aprile 2001, n. 96.
+ - Il [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), recante «Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[articolo 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15)» e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 26 aprile 2001, n. 96.
 
 ### Art. 29. — Personale convocato per controlli sanitari
 

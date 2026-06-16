@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 10 dicembre 1953, n. 1101](Istituzione%20di%20un%20posto%20di%20ruolo%20convenzionato%20di%20professore%20per%20linsegnamento%20della%20radioattivita%20nellUniversita%20degli%20studi%20di%20Milano.md), con il quale venne istituito un posto di professore di ruolo destinato all'insegnamento di "Radioattivita'" presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Milano;
 

@@ -1851,7 +1851,7 @@ TITOLO VII
  Gli aiuti dirigenti di ruolo che siano in possesso dei requisiti di ammissione all'esame di idoneita' a primario possono partecipare ai concorsi di assunzione in detta qualifica della stessa disciplina a prescindere dal possesso dell'idoneita' nazionale.
  Il Ministro per la sanita' predispone distinti elenchi dei sanitari di cui ai precedenti commi secondo la qualifica e la disciplina.
 All'uopo i sanitari interessati devono presentare documentata domanda di inclusione negli elenchi predetti)).
- I servizi prestati dai sanitari ospedalieri in dipendenza di nomina conseguita a seguito di pubblico concorso ai sensi del [regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631), e della [legge 9 agosto 1954, n. 653](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20servizio%20di%20anestesia%20negli%20ospedali.md), sono considerati a tutti gli effetti servizi di ruolo, ancorche' non siano stati istituiti i ruoli relativi.
+ I servizi prestati dai sanitari ospedalieri in dipendenza di nomina conseguita a seguito di pubblico concorso ai sensi del [regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md), e della [legge 9 agosto 1954, n. 653](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20servizio%20di%20anestesia%20negli%20ospedali.md), sono considerati a tutti gli effetti servizi di ruolo, ancorche' non siano stati istituiti i ruoli relativi.
  I servizi prestati presso ospedali gia' classificati di prima, seconda e terza categoria, sono equiparati a quelli prestati rispettivamente negli ospedali regionali, provinciali e di zona.
 
 ### Art. 127.
@@ -1890,7 +1890,7 @@ Fino a quando non saranno emanate norme legislative riguardanti l'ordinamento de
  diploma di infermiere specializzato in dietetica ai sensi della [legge 19 luglio 1940, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-19;1090);
  3) tecnico di laboratorio medico:
  diploma di scuola speciale universitaria alla quale si accede con diploma di scuola media di secondo grado;
- titolo acquisito a seguito di concorso ospedaliero svolto ai sensi dell'[art. 88 del regio decreto 30 settembre 1938, n. 1631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1631#art_88);
+ titolo acquisito a seguito di concorso ospedaliero svolto ai sensi dell'[art. 88 del regio decreto 30 settembre 1938, n. 1631](../Regi%20decreti/Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md);
  titolo di perito chimico ad orientamento analitico integrato da certificato di corso ospedaliero di perfezionamento in tecnico di laboratorio medico;
  titolo di istituto tecnico femminile ad orientamento specifico;
  4) assistente sociale:

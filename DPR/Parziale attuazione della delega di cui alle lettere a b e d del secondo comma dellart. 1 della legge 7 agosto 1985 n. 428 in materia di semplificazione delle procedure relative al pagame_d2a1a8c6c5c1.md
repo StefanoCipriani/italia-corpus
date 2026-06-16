@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[art. 1 della legge 7 agosto 1985, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428#art_1), con il quale il Governo della Repubblica e' delegato all'emanazione di norme aventi valore di legge ordinaria per provvedere alla revisione, integrazione e coordinamento delle disposizioni e degli ordinamenti contabili attualmente vigenti in materia di procedure di ordinazione e pagamento di stipendi, pensioni ed altri assegni;
 
-Visti il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato ed il relativo regolamento di esecuzione, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+Visti il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato ed il relativo regolamento di esecuzione, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
 Vista la [legge 3 febbraio 1951, n. 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Emissione%20meccanografica%20dei%20titoli%20di%20spesa%20afferenti%20le%20pensioni%20ed%20il%20pagamento%20del%20debito%20vitalizio%20dello%20Stato%20a%20mezzo%20di%20assegni%20di%20conto%20corrente%20postale%20di%20serie%20speciale.md);
 

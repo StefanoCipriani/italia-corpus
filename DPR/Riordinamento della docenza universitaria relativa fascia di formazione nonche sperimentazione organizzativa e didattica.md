@@ -469,7 +469,7 @@ TITOLO II
 
 ### Art. 41.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ## RECLUTAMENTO DI PROFESSORI ASSOCIATI
 
@@ -481,7 +481,7 @@ Capo II
 
 ### Art. 43.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 44.
 
@@ -489,11 +489,11 @@ Capo II
 
 ### Art. 45.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 46.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 47.
 
@@ -502,11 +502,11 @@ Capo II
 
 ### Art. 48.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 49.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 50. — Inquadramento nella fascia dei professori associati
 
@@ -638,15 +638,15 @@ PRESENTE ARTICOLO)).
 
 ### Art. 55.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 56.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 57.
 
-((IL [D.P.R. 23 MARZO 2000, N.117](Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
+((IL [D.P.R. 23 MARZO 2000, N.117](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2019%20ottobre%201998%20n.%20390%20concernente%20le%20modalita%20di%20espletamento%20delle%20procedure%20per%20il%20reclutamento%20dei%20professori%20_3901e530ab7e.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
 ### Art. 58. — Inquadramento nel ruolo dei ricercatori universitari
 

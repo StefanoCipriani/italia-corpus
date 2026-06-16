@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 12 dicembre 1964, n. 1458](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20convenzionato%20da%20destinare%20allinsegnamento%20di%20Petrografia%20presso%20la%20Facolta%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20dellUniversita%20di%20Siena.md), con il quale venne approvata e resa esecutiva la convenzione stipulata in Siena il 13 giugno 1962 per l'istituzione ed il finanziamento di un posto di professore di ruolo destinato all'insegnamento di "petrografia" presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Siena;
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Catania.%20039U1073.md) e modificato con [regio decreto 16 ottobre 1940, n. 1527](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Catania.%20040U1527.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -92,7 +92,7 @@ Se il numero delle domande e' superiore al numero dei posti disponibili, stabili
  La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore della scuola, e' costituita dal direttore che la presiede e da altri quattro docenti della scuola stessa. 
  Relazioni e dissertazioni di particolare valore scientifico vengono pubblicate. 
  Art. 160. - Tutti gli atti e i documenti relativi alla scuola sono conservati dalla segreteria dell'Universita' di Catania che, con la procedura normale, rilascia i certificati e il diploma di perfezionamento; quest'ultimo dovra' essere munito della firma del rettore, di quella del direttore della seconda e del direttore amministrativo, oltre che del timbro a secco dell'Universita'. 
- Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili e per quanto non prescritto dal presente statuto, le disposizioni del regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269). 
+ Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili e per quanto non prescritto dal presente statuto, le disposizioni del regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md). 
  Gli iscritti debbono pagare per tassa di immatricolazione L. 2.000 e per tassa annuale di iscrizione L. 8.000. 
  I diplomati devono inoltre pagare L. 3.000 per soprattassa di diploma; coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento della tassa di diploma in L. 50.000. 
  Tasse, soprattasse e contributi sono versati alla Cassa dell'Universita'; la tassa di diploma va invece all'erario. 

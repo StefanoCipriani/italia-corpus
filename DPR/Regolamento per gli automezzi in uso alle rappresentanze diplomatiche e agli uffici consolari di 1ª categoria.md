@@ -63,7 +63,7 @@ Le disposizioni del presente regolamento non incidono sulla possibilita' di prov
 
 ## Art. 8.
 
-Sono abrogati gli articoli dal 57 al 61 del regolamento per gli immobili ed i mobili patrimoniali dello Stato adibiti ad uso delle rappresentanze all'estero, approvato con [regio decreto 6 gennaio 1928, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-06;113).
+Sono abrogati gli articoli dal 57 al 61 del regolamento per gli immobili ed i mobili patrimoniali dello Stato adibiti ad uso delle rappresentanze all'estero, approvato con [regio decreto 6 gennaio 1928, n. 113](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20gli%20immobili%20ed%20i%20mobili%20patrimoniali%20dello%20Stato%20adibiti%20ad%20uso%20delle%20Regie%20rappresentanze%20allestero.%20028U0113.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

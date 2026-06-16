@@ -18,7 +18,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il [decreto del Presidente della Repubblica 28 giugno 1955, n. 771](Decentramento%20dei%20servizi%20del%20Ministero%20dei%20trasporti%20Ispettorato%20generale%20della%20motorizzazione%20civile%20e%20dei%20trasporti%20in%20concessione.md);
  Visto il [decreto del Presidente della Repubblica 18 ottobre 1957, n. 1367](Regolamento%20generale%20per%20le%20funicolari%20aeree%20in%20servizio%20pubblico%20destinate%20al%20trasporto%20di%20persone.md);
  Visto il [decreto ministeriale 19 febbraio 1958, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1958-02-19;341);
- Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e successive modificazioni ed aggiunte;
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e successive modificazioni ed aggiunte;
  Visti i pareri della Commissione per le funicolari aeree e terrestri;
  Visto il conforme parere del Consiglio di Stato;
  Sulla proposta del Ministro per i trasporti di concerto con il Ministro per il tesoro;

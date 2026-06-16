@@ -95,7 +95,7 @@ Il personale che abbia conseguito la predetta qualifica e' autorizzato a portare
 
 ### Art. 13.
 
-Sono attribuite ai comuni le seguenti funzioni di cui al [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni:
+Sono attribuite ai comuni le seguenti funzioni di cui al [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni:
  1) il rilascio della licenza prevista dall'art. 60 e dalle altre disposizioni speciali vigenti in materia di impianto ed esercizio di ascensori per il trasporto di persone o di materiali;
  2) il rilascio della licenza per l'esercizio del mestiere di guida, interprete, corriere o portatore alpino e per l'insegnamento dello sci, di cui all'art. 123;
  3) la ricezione dell'avviso preventivo per le riprese cinematografiche in luogo pubblico o aperto al pubblico, previsto dall'art. 76;
@@ -299,7 +299,7 @@ Restano ferme le competenze degli organi scolastici in merito alla scelta dei li
 ### Art. 33.
 
 E' delegato alla regione l'esercizio delle funzioni amministrative esercitate dallo Stato in materia di assistenza scolastica a favore degli studenti universitari.
- I beni ed il personale delle opere universitarie di cui all'[art. 189 del regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_189), e successive modificazioni, sono trasferiti alla regione.
+ I beni ed il personale delle opere universitarie di cui all'[art. 189 del regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni, sono trasferiti alla regione.
  Il trasferimento e' disciplinato dalla legge di riforma dell'ordinamento universitario e, in mancanza, a decorrere dal 1 novembre 1979. In tale ipotesi al trasferimento dei beni e del personale delle opere universitarie provvede con decreto il Ministro della pubblica istruzione, sentita la regione.
 
 ### Art. 34.
@@ -597,9 +597,9 @@ Sono trasferite alla regione le funzioni amministrative statali concernenti la p
 
 ### Art. 71.
 
-Sono inoltre trasferite alla regione le funzioni amministrative esercitate dall'amministrazione centrale e periferica dei lavori pubblici, in base al [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), e successive modificazioni.
+Sono inoltre trasferite alla regione le funzioni amministrative esercitate dall'amministrazione centrale e periferica dei lavori pubblici, in base al [regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e successive modificazioni.
  E' trasferita la funzione relativa alla determinazione dei requisiti e dei prezzi massimi delle abitazioni, ai sensi dell'[art. 8 del decreto-legge 6 settembre 1965, n. 1022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-09-06;1022#art_8), convertito nella [legge 10 novembre 1965, n. 1179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-11-10;1179), e successive modificazioni.
- Sono altresi' trasferite le funzioni amministrative svolte dalle commissioni di vigilanza per l'edilizia economica e popolare previste dall'[art. 129 del regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165#art_129), e dagli [articoli 19 e seguenti del decreto del Presidente della Repubblica 23 maggio 1964, n. 655](Norme%20concernenti%20la%20disciplina%20delle%20assegnazioni%20degli%20alloggi%20economici%20e%20popolari.md). Le commissioni continuano a svolgere tali funzioni nell'attuale composizione, fino a diversa disciplina della materia nell'ambito di apposita normativa statale di principio.
+ Sono altresi' trasferite le funzioni amministrative svolte dalle commissioni di vigilanza per l'edilizia economica e popolare previste dall'[art. 129 del regio decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md), e dagli [articoli 19 e seguenti del decreto del Presidente della Repubblica 23 maggio 1964, n. 655](Norme%20concernenti%20la%20disciplina%20delle%20assegnazioni%20degli%20alloggi%20economici%20e%20popolari.md). Le commissioni continuano a svolgere tali funzioni nell'attuale composizione, fino a diversa disciplina della materia nell'ambito di apposita normativa statale di principio.
  Sono infine trasferite, nei limiti di cui all'[art. 109 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), le funzioni dirette ad agevolare l'accesso al credito nella materia di cui ai precedenti articoli, ivi comprese quelle concernenti l'erogazione di contributi in conto capitale o nel pagamento degli interessi, la prestazione delle garanzie ed i rapporti con gli istituti di credito.
 
 ### Art. 72.

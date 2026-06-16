@@ -28,7 +28,7 @@ Il Consorzio provinciale antitubercolare e' amministrato da un Comitato composto
 
 ### Art. 2.
 
-Il [terzo comma dell'art. 314 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_314-com3), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e' sostituito "Il Comitato e' presieduto dal presidente della Giunta provinciale o da un assessore provinciale da lui delegate. Ne fanno parte di diritto un funzionario appartenente al ruolo dei medici del Ministero della sanita', l'ingegnere capo del Genio civile, l'ispettore provinciale dell'agricoltura ed il direttore provinciale dell'Istituto nazionale della previdenza sociale.
+Il [terzo comma dell'art. 314 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e' sostituito "Il Comitato e' presieduto dal presidente della Giunta provinciale o da un assessore provinciale da lui delegate. Ne fanno parte di diritto un funzionario appartenente al ruolo dei medici del Ministero della sanita', l'ingegnere capo del Genio civile, l'ispettore provinciale dell'agricoltura ed il direttore provinciale dell'Istituto nazionale della previdenza sociale.
 
 ### Art. 3.
 

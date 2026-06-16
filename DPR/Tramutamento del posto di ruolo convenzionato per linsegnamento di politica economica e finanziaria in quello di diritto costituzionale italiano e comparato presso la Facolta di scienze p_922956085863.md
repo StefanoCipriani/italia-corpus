@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592) e successive modificazioni ed integrazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md) e successive modificazioni ed integrazioni;
 
 Veduti i [decreti del Presidente della Repubblica 17 giugno 1953, n. 539](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20per%20linsegnamento%20di%20storia%20dei%20trattati%20e%20politica%20internazionale%20presso%20la%20Facolta%20di%20scienze%20politiche%20dellUniversita%20di%20Roma.md) e [30 agosto 1956, n. 1311](Tramutamento%20della%20destinazione%20del%20posto%20di%20professore%20di%20ruolo%20convenzionato%20per%20linsegnamento%20di%20storia%20dei%20trattati%20e%20politica%20internazionale%20in%20quello%20di%20politica%20economica%20e%20finanzi_aa0a4d20e135.md);
 

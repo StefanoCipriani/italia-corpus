@@ -16,13 +16,13 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il [decreto del Presidente della Repubblica 1 dicembre 1971, n. 1329](Approvazione%20dello%20statuto%20dellUniversita%20degli%20studi%20della%20Calabria.md), con il quale e' stato approvato lo statuto dell'Universita' degli studi della Calabria;
  Visto il [decreto del Presidente della Repubblica 31 ottobre 1975, n. 1001](Modificazioni%20allo%20statuto%20dellUniversita%20commerciale%20Luigi%20Bocconi%20di%20Milano_4.md), con il quale e' stato istituito presso l'Universita' L.
 Bocconi di Milano, il corso di laurea in discipline economiche e sociali;
- Visto l'art. 173 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto l'art. 173 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Sentiti i pareri del Consiglio universitario nazionale espressi nelle adunanze del 24 novembre 1979, dell'11 aprile e 11 ottobre 1980, il cui testo e' allegato al presente decreto e le cui considerazioni si intendono integralmente qui riprodotte;
  Sulla proposta del Ministro della pubblica iscrizione;
 
  Decreta:
 
- La tabella L annessa al testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' modificata nel senso che alle lauree gia' indicate per l'ammissione all'esame di abilitazione all'esercizio della professione di dottore commercialista sono aggiunte quelle di:
+ La tabella L annessa al testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e' modificata nel senso che alle lauree gia' indicate per l'ammissione all'esame di abilitazione all'esercizio della professione di dottore commercialista sono aggiunte quelle di:
  laurea in scienze economiche e sociali;
  laurea in discipline economiche e sociali.
 

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054), con il quale e' stato approvato il testo unico delle leggi sul Consiglio di Stato;
+Visto il [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), con il quale e' stato approvato il testo unico delle leggi sul Consiglio di Stato;
 
-Visto il [regio decreto 21 aprile 1942, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-21;444), concernente il regolamento per l'esecuzione delle leggi sul Consiglio di Stato;
+Visto il [regio decreto 21 aprile 1942, n. 444](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md), concernente il regolamento per l'esecuzione delle leggi sul Consiglio di Stato;
 
 Riconosciuta la necessita' di modificare e di integrare il predetto regolamento;
 
@@ -30,7 +30,7 @@ E M A N A il seguente decreto:
 
 1.
 
-Il [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-21;444#art_56-com2) e [terzo comma dell'art. 56 del regio decreto 21 aprile 1942, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-21;444#art_56-com3), sono sostituiti dai seguenti:
+Il [secondo](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md) e [terzo comma dell'art. 56 del regio decreto 21 aprile 1942, n. 444](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md), sono sostituiti dai seguenti:
  "E' consentito il rilascio di copia di ogni parere se il Ministro competente non abbia fatto pervenire al Consiglio di Stato, entro il termine di novanta giorni dalla ricezione del parere stesso, comunicazione che quest'ultimo deve restare riservato.
  E' sempre consentita, indipendentemente dall'assenso del Ministro competente, la pubblicazione di massime, prive di riferimento ai nomi delle parti, estratte dai pareri sui ricorsi straordinari".
 
@@ -46,7 +46,7 @@ AVVERTENZA:
 
 1.
 
-Dopo l'[art. 88 del regio decreto 21 aprile 1942, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-21;444#art_88), e' aggiunto il seguente:
+Dopo l'[art. 88 del regio decreto 21 aprile 1942, n. 444](../Regi%20decreti/Regolamento%20per%20lesecuzione%20della%20legge%20sul%20Consiglio%20di%20Stato.%20042U0444.md), e' aggiunto il seguente:
  "Art. 88- bis. - I registri contemplati nel presente regolamento possono essere tenuti anche in forma automatizzata, utilizzando modelli da determinarsi con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro e udito il parere del Consiglio di Stato".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

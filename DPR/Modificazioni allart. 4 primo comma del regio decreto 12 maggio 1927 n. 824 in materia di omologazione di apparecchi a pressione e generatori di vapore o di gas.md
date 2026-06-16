@@ -14,7 +14,7 @@ Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.i
 
 Visto il [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), che costituisce l'Associazione nazionale per il controllo della combustione;
 
-Visto l'articolo 4, primo comma, n. 11, del regolamento per l'esecuzione del regio decreto-legge suddetto, approvato con [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), con il quale sono esclusi dal campo di applicazione delle norme regolamentari i generatori e i recipienti a pressione di vapore o di gas, nei quali la pressione massima effettiva di funzionamento non superi un ventesimo di Kg/cm quadri;
+Visto l'articolo 4, primo comma, n. 11, del regolamento per l'esecuzione del regio decreto-legge suddetto, approvato con [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), con il quale sono esclusi dal campo di applicazione delle norme regolamentari i generatori e i recipienti a pressione di vapore o di gas, nei quali la pressione massima effettiva di funzionamento non superi un ventesimo di Kg/cm quadri;
 
 Ravvisata la necessita' di elevare il limite di pressione sopraindicato allo 0,5 Kg/cm quadri, al fine di adeguare la norma alle esigenze del progresso tecnico;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro del lavoro e della previdenza sociale di concerto co
 
 ## Articolo unico
 
-Il n. 11 dell'art. 4, primo comma, del regolamento approvato con [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), per l'esecuzione del [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), di costituzione dell'Associazione nazionale per il controllo della combustione e' sostituito per i motivi esposti in premessa dai seguenti:
+Il n. 11 dell'art. 4, primo comma, del regolamento approvato con [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), per l'esecuzione del [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), di costituzione dell'Associazione nazionale per il controllo della combustione e' sostituito per i motivi esposti in premessa dai seguenti:
  11) i generatori e i recipienti di vapore o di gas aventi pressione massima effettiva di funzionamento non superiore a 0,5 Kg/cm quadri e rispettivamente producibilita' non superiore a 50 Kg/h ovvero capacita' non superiore a 2000 litri;
  11-bis) i generatori di vapore aventi pressione massima effettiva di funzionamento non superiore a 0,5 Kg/cm quadri e producibilita' superiore a 50 Kg/h, purche' soddisfino alle seguenti condizioni:
  a) risultino stabili per la pressione di progetto e siano sottoposti, in sede di costruzione, alla prova idraulica che verra' eseguita secondo le modalita' previste ai primi due commi del successivo art. 62;

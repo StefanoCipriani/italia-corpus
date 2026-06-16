@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il regolamento per la sanita' marittima, approvato con [regio decreto 29 settembre 1895, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;636), modificato con [regio decreto 7 luglio 1910, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-07;573), e con [regio decreto 29 novembre 1925, n. 2288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-29;2288);
+Visto il regolamento per la sanita' marittima, approvato con [regio decreto 29 settembre 1895, n. 636](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md), modificato con [regio decreto 7 luglio 1910, n. 573](../Regi%20decreti/Che%20sostituisce%20le%20disposizioni%20contenute%20in%20vari%20articoli%20del%20regolamento%20sulla%20sanita%20marittima.%20010U0573.md), e con [regio decreto 29 novembre 1925, n. 2288](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20vigente%20regolamento%20sulla%20Sanita%20marittima.%20025U2288.md);
 
 Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
@@ -74,8 +74,8 @@ Avvertenza:
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica.".
  - Il [regio decreto 29 settembre 1985, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1985-09-29;636), concerne "Approvazione del regolamento sulla sanita' marittima".
- - Il [regio decreto 7 luglio 1910, n. 573](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-07-07;573), concerne "Sostituzione delle disposizioni in vari articoli del regolamento sulla sanita' marittima".
- - Il [regio decreto 29 novembre 1925, n. 2288](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-29;2288), concerne "Modificazioni ed aggiunte al vigente regolamento sulla sanita' marittima".
+ - Il [regio decreto 7 luglio 1910, n. 573](../Regi%20decreti/Che%20sostituisce%20le%20disposizioni%20contenute%20in%20vari%20articoli%20del%20regolamento%20sulla%20sanita%20marittima.%20010U0573.md), concerne "Sostituzione delle disposizioni in vari articoli del regolamento sulla sanita' marittima".
+ - Il [regio decreto 29 novembre 1925, n. 2288](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20vigente%20regolamento%20sulla%20Sanita%20marittima.%20025U2288.md), concerne "Modificazioni ed aggiunte al vigente regolamento sulla sanita' marittima".
  - Il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), concerne "[Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)".
  - Il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), concerne "Approvazione del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (Navigazione marittima)".
  - La [legge 31 luglio 1954, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-31;861), reca: "Esecuzione del Regolamento sanitario internazionale approvato dall'Assemblea dell'Organizzazione mondiale della sanita' il 25 maggio 1951".
@@ -230,7 +230,7 @@ La possibilita' della concessione della libera pratica via telegramma, telefax o
 
 1.
 
-Sono abrogate le disposizioni di cui all'[articolo 70, primo comma, numeri 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;636#art_70-com1-num2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;636#art_70-com1-num3) e [4 del regio decreto 29 settembre 1895, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-09-29;636#art_70-com1-num4), nonche' quelle contenute nei decreti del Ministro della sanita', di concerto col Ministro della marina mercantile, del 24 giugno 1959, 3 giugno 1963, 29 luglio 1970, 22 ottobre 1976, 25 maggio 1983, 30 ottobre 1984 e 2 ottobre 1987.
+Sono abrogate le disposizioni di cui all'[articolo 70, primo comma, numeri 2](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md), [3](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md) e [4 del regio decreto 29 settembre 1895, n. 636](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md), nonche' quelle contenute nei decreti del Ministro della sanita', di concerto col Ministro della marina mercantile, del 24 giugno 1959, 3 giugno 1963, 29 luglio 1970, 22 ottobre 1976, 25 maggio 1983, 30 ottobre 1984 e 2 ottobre 1987.
 
 Note all'art. 11:
  - Il decreto del Ministro della sanita' 3 giugno 1963, concerne: "Autorizzazione all'Ufficio di sanita' marittima del porto di Piombino a concedere la libera pratica via radio alle navi".

@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
- Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, emanato con [decreto legislativo 20 dicembre 1993, n. 533](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md);
+ Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, emanato con [decreto legislativo 20 dicembre 1993, n. 533](../Testi%20Unici/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md);
  Visto il testo unico delle leggi per l'elezione della Camera dei deputati, approvato con [decreto del presidente della Repubblica 30 marzo 1957, n. 361](Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), e successive modificazioni e integrazioni;
  Vista la comunicazione del Presidente del Senato n. 711/S in data 16 giugno 1994, relativa alla vacanza di un seggio attribuito con sistema maggioritario nel collegio n. 6 della regione Toscana;
  Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 giugno 1994;

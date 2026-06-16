@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590) e successive modificazioni;
+Visto il [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md) e successive modificazioni;
 
 Visto il [decreto luogotenenziale 22 febbraio 1945, numero 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-22;96);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Gli articoli 111, 112, e 113 del regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590) e successive modificazioni, sono sostituiti dai seguenti:
+Gli articoli 111, 112, e 113 del regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md) e successive modificazioni, sono sostituiti dai seguenti:
  "Art. 111. - Si applica la penalita':
  a) di lire millecinquecento ai concessionari ed ai coltivatori che abbiano effettuato il cambio dei locali di cura o di custodia, od abbiano trasportato il tabacco in locali diversi da quelli prima dichiarati, senza averne avuta la prescritta autorizzazione, oppure trasportino il tabacco senza i prescritti documenti di legittimazione;
  b) di lire milleduecento per ogni ettaro e proporzionalmente per ogni frazione di ettaro, a coloro che, anche dopo la regolare intimazione ricevuta, non abbiano disposto le piante secondo le norme di cui all'art. 19;

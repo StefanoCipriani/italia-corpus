@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 2 del decreto legislativo Presidenziale 22 giugno 1946, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-22;40#art_2);
 
-Ritenuta l'opportunita' di procedere alla classifica del territorio dell'Agro palermitano tra i comprensori di bonifica di seconda categoria, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+Ritenuta l'opportunita' di procedere alla classifica del territorio dell'Agro palermitano tra i comprensori di bonifica di seconda categoria, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Visti gli atti predisposti dall'Ente di colonizzazione del latifondo siciliano;
 

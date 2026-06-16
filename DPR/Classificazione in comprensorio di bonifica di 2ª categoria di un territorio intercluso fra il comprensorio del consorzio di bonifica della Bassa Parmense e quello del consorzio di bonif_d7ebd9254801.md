@@ -14,11 +14,11 @@ Viste le [deliberazioni n. 2400 in data 27 ottobre 1962](https://www.normattiva.
 
 Vista la [deliberazione n. 392 del 13 settembre 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1963-09-13;392) del presidente straordinario del consorzio di bonifica montana Appennino Parmense, relativa alla proposta di ampliamento del proprio comprensorio per la restante parte del territorio intercluso sopraindicato;
 
-Ritenuto che detta zona interclusa fra i due enti di bonifica, della estesa di ettari 58.909, non risulta classificato fra i comprensori di bonifica ai sensi del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+Ritenuto che detta zona interclusa fra i due enti di bonifica, della estesa di ettari 58.909, non risulta classificato fra i comprensori di bonifica ai sensi del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Viste le note n. 10556 del 23 aprile 1963 e n. 19410 del 29 luglio 1963 e n. 10695 del 13 maggio 1964, con le quali l'ispettorato compartimentale dell'agricoltura per l'Emilia si esprime in senso favorevole alle proposte di ampliamento avanzate dai due consorzi;
 
-Ritenuta la necessita' di provvedere preliminarmente alla classifica in bonifica di seconda categoria, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3), del territorio di ettari 58.909 sopraindicato, rinviando a successivo provvedimento le determinazioni da adottare, ai sensi dell'[art. 62 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_62), in merito all'ampliamento dei confini territoriali dei due enti di bonifica;
+Ritenuta la necessita' di provvedere preliminarmente alla classifica in bonifica di seconda categoria, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), del territorio di ettari 58.909 sopraindicato, rinviando a successivo provvedimento le determinazioni da adottare, ai sensi dell'[art. 62 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), in merito all'ampliamento dei confini territoriali dei due enti di bonifica;
 
 Vista la corografia in scala 1: 100.000 nella quale risulta indicato in tinta gialla il territorio da classificare;
 
@@ -32,13 +32,13 @@ Visto il parere favorevole espresso nell'adunanza del 13 marzo 1968, n. 272 del 
 
 Ritenuto che la classifica di che trattasi appare indispensabile per dare modo di attuare una radicale trasformazione dell'ordinamento produttivo in un esteso territorio, sia mediante la rimozione delle cause di ordine fisico e strutturale che ne ostacolano l'utilizzazione intensiva che mediante l'estensione e la razionale regolamentazione della pratica irrigua;
 
-Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Sulla proposta del Ministro per l'agricoltura e per le foreste di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 
 ## Articolo unico.
 
-Ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3), e' classificata in comprensorio di bonifica di 2ª categoria il territorio della superficie di ettari 58.909, quale risulta indicato in tinta gialla nella corografia in scala 1: 100.000 che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
+Ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' classificata in comprensorio di bonifica di 2ª categoria il territorio della superficie di ettari 58.909, quale risulta indicato in tinta gialla nella corografia in scala 1: 100.000 che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

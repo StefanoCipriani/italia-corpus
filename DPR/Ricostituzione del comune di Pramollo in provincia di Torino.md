@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 15 aprile 1928, n. 971](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20San%20Germano-Chisono%20Pramollo%20e%20Inverso-Porte%20in%20un%20unico%20Comune%20con%20capoluogo%20%20Germano-Chisone%20.%20028U0971.md), con i] quale i comuni di San Germano Chisone, Pramollo e inverso Porte furono soppressi e fusi in Comune unico con denominazione Germano Chisone, mutata successivamente con [regio decreto 25 ottobre 1928, n. 2490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-25;2490), in San Germano Chisone;
+Visto il [regio decreto 15 aprile 1928, n. 971](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20San%20Germano-Chisono%20Pramollo%20e%20Inverso-Porte%20in%20un%20unico%20Comune%20con%20capoluogo%20%20Germano-Chisone%20.%20028U0971.md), con i] quale i comuni di San Germano Chisone, Pramollo e inverso Porte furono soppressi e fusi in Comune unico con denominazione Germano Chisone, mutata successivamente con [regio decreto 25 ottobre 1928, n. 2490](../Regi%20decreti/Modifica%20della%20denominazione%20del%20comune%20di%20Germano%20Chisone%20in%20%20San%20Germano%20Chisone%20.%20028U2490.md), in San Germano Chisone;
 
 Vista l'istanza 16 settembre 1946, con la quale la maggioranza dei contribuenti del cessato comune di Pramollo ne ha chiesto la ricostituzione in Comune autonomo;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 16 giugno 1927, n. 1141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-16;1141), con il quale i comuni di Barasso e di Luvinate, in provincia di Varese, furono aggregati al comune di Comerio;
+Visto il [regio decreto 16 giugno 1927, n. 1141](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Comerio%20Barasso%20e%20Luvinate%20in%20un%20unico%20Comune%20denominato%20Comerio.%20027U1141.md), con il quale i comuni di Barasso e di Luvinate, in provincia di Varese, furono aggregati al comune di Comerio;
 
 Viste le istanze in data 20 maggio 1956, con le quali la rispettiva maggioranza qualificata degli elettori dei cessati comuni di Barasso e di Luvinate ne ha chiesto la ricostituzione in Comuni autonomi;
 

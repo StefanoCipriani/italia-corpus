@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 4 aprile 1939, n. 721](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-04;721), che approva il regolamento per le Case di rieducazione;
+Visto il [regio decreto 4 aprile 1939, n. 721](../Regi%20decreti/Regolamento%20per%20il%20funzionamento%20delle%20Case%20di%20rieducazione%20per%20minorenni.%20039U0721.md), che approva il regolamento per le Case di rieducazione;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -22,7 +22,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-L'[art. 4 del regio-decreto 4 aprile 1939, n. 721](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-04;721#art_4), che approva il regolamento per le Case di rieducazione e' modificato nel modo seguente:
+L'[art. 4 del regio-decreto 4 aprile 1939, n. 721](../Regi%20decreti/Regolamento%20per%20il%20funzionamento%20delle%20Case%20di%20rieducazione%20per%20minorenni.%20039U0721.md), che approva il regolamento per le Case di rieducazione e' modificato nel modo seguente:
  "Art. 4. - Decreti di internamento e loro esecuzione.
  L'internamento nelle case di rieducazione e' ordinato dal tribunale per i minorenni nei modi indicati dall'[art. 25 della legge 27 maggio 1935, n. 835](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201404%20riguardante%20la%20istituzione%20e%20il%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20035U0835.md).
  Il pubblico ministero competente per l'esecuzione richiede l'assegnazione al Ministero di grazia e giustizia e unisce alla richiesta una copia del provvedimento da eseguire e il foglietto informativo mod. 1030.
@@ -30,7 +30,7 @@ L'[art. 4 del regio-decreto 4 aprile 1939, n. 721](https://www.normattiva.it/uri
 
 ## Art. 2.
 
-L'[art. 13 del regio decreto 4 aprile 1939, n. 721](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-04;721#art_13), che approva il regolamento per le Case di rieducazione, e' modificato nel modo seguente:
+L'[art. 13 del regio decreto 4 aprile 1939, n. 721](../Regi%20decreti/Regolamento%20per%20il%20funzionamento%20delle%20Case%20di%20rieducazione%20per%20minorenni.%20039U0721.md), che approva il regolamento per le Case di rieducazione, e' modificato nel modo seguente:
  "Art. 13. - Comitato di assistenza.
  In ogni capoluogo di mandamento e' costituito un Comitato di assistenza minorile.
  Il Comitato si compone:

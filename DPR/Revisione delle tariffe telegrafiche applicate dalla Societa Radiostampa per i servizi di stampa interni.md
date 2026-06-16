@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato e reso esecutivo con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato e reso esecutivo con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Vista la convenzione stipulata in data 11 aprile 1957 fra il Ministero delle poste e delle telecomunicazioni e la Radiostampa, societa' per azioni, approvata e resa esecutiva con decreto del Presidente della Repubblica 4 maggio 1957, con la quale e' stato concesso alla suddetta Societa' l'esercizio di servizi telegrafici e radiotelegrafici per lo scambio dei telegrammi stampa con l'estero, nonche' l'atto aggiuntivo 23 settembre 1963, approvato e reso esecutivo con decreto del Presidente della Repubblica 2 febbraio 1964, concernente la maggiorazione del canone di concessione dal 3,50% al 4%;
 

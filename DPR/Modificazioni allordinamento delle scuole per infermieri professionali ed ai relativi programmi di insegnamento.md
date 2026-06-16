@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 132 e seguenti del regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_132);
+Visti gli [articoli 132 e seguenti del regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
-Visto il [regio decreto 21 novembre 1929, n. 2330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-21;2330);
+Visto il [regio decreto 21 novembre 1929, n. 2330](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2015%20agosto%201925%20n.%201832%20riguardante%20le%20scuole-convitto%20professionali%20per%20infermiere%20e%20le%20scuole%20specializzate%20di%20medicina%20_bf0514cdb545.md);
 
 Visto il decreto ministeriale in data 30 settembre 1938, con il quale e' stato determinato il programma di insegnamento nelle scuole convitto professionali per infermiere;
 
@@ -50,7 +50,7 @@ I corsi iniziatisi con l'anno scolastico 1974-75 mantengono la loro durata bienn
 
 ## Art. 4.
 
-E' fatta salva l'applicazione delle norme regolamentari di cui al [regio decreto 21 novembre 1929, n. 2330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-21;2330), in quanto applicabili.
+E' fatta salva l'applicazione delle norme regolamentari di cui al [regio decreto 21 novembre 1929, n. 2330](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2015%20agosto%201925%20n.%201832%20riguardante%20le%20scuole-convitto%20professionali%20per%20infermiere%20e%20le%20scuole%20specializzate%20di%20medicina%20_bf0514cdb545.md), in quanto applicabili.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -14,13 +14,13 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), sulla costituzione della Associazione nazionale per il controllo della combustione;
 
-Visto il [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824), con il quale e' stato approvato il regolamento per l'esecuzione del citato regio decreto-legge n. 1331;
+Visto il [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), con il quale e' stato approvato il regolamento per l'esecuzione del citato regio decreto-legge n. 1331;
 
 Visto l'art. 21 del suddetto regolamento concernente gli impianti di alimentazione dei generatori di vapore;
 
 Visti i decreti ministeriali 10 gennaio 1950 e 2 agosto 1956 concernenti esoneri dall'osservanza delle norme per la prevenzione degli infortuni in materia di apparecchi di alimentazione dei generatori di vapore;
 
-Ritenuta l'opportunita' di modificare il regime stabilito dal suddetto [articolo 21 del regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824#art_21), in materia di apparecchi di alimentazione per generatori di vapore aventi la potenzialita' specifica superiore ai 20 kg/m quadri h, ferma restando la rimanente regolamentazione fissata dal regio decreto precitato;
+Ritenuta l'opportunita' di modificare il regime stabilito dal suddetto [articolo 21 del regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), in materia di apparecchi di alimentazione per generatori di vapore aventi la potenzialita' specifica superiore ai 20 kg/m quadri h, ferma restando la rimanente regolamentazione fissata dal regio decreto precitato;
 
 Udito il parere del Consiglio di Stato;
 
@@ -32,8 +32,8 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale e del Ministro
 
 ## Art. 1.
 
-Per la tutela dell'incolumita' dei lavoratori e per la prevenzione degli infortuni, agli apparecchi di alimentazione dei generatori di vapore aventi potenzialita' specifica di vapore superiore a 20 chilogrammi per metro quadrato e per ora, si applicano le norme contenute nell'allegato al presente decreto, in luogo di quelle stabilite all'art. 21 del regolamento, approvato con [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824).
- Resta ferma la rimanente regolamentazione stabilita nel citato [regio decreto 12 maggio 1927, n. 824](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-12;824).
+Per la tutela dell'incolumita' dei lavoratori e per la prevenzione degli infortuni, agli apparecchi di alimentazione dei generatori di vapore aventi potenzialita' specifica di vapore superiore a 20 chilogrammi per metro quadrato e per ora, si applicano le norme contenute nell'allegato al presente decreto, in luogo di quelle stabilite all'art. 21 del regolamento, approvato con [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md).
+ Resta ferma la rimanente regolamentazione stabilita nel citato [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md).
 
 ## Art. 2.
 

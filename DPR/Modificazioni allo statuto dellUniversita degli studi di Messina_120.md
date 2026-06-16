@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Messina.%20036U1923.md) e modificato con [regio decreto 20 aprile 1939, n. 1090](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Messina.%20039U1090.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -40,7 +40,7 @@ Dopo l'art. 186, e con il conseguente spostamento della numerazione dei successi
  
  Scuola di preparazione per tecnici di oto-neurologia 
  (scuola diretta a fini speciali) 
- Art. 187. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di oto-neurologia che ha sede presso la clinica otorinolaringoiatrica dell'Universita'. 
+ Art. 187. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), una scuola speciale di preparazione per tecnici di oto-neurologia che ha sede presso la clinica otorinolaringoiatrica dell'Universita'. 
  Art. 188. - La durata del corso di studi della scuola di preparazione per tecnici di oto-neurologia e' di tre anni.
 L'indirizzo e' teorico-pratico. 
  Il numero complessivo degli iscritti alla scuola e' di quindici (cinque per ogni anno di corso). 
@@ -95,7 +95,7 @@ fuori corso. . . . . . . . . . . . . . . . . . . . . . . . . L. 3.000
  Scuola di preparazione per tecnici di ortofonia 
  (logopedisti) 
  (diretta a fini speciali) 
- Art. 198. - E' istituita, ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di ortofonia (logopedisti) che ha sede presso la clinica otorinolaringoiatrica dell'Universita'. 
+ Art. 198. - E' istituita, ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), una scuola speciale di preparazione per tecnici di ortofonia (logopedisti) che ha sede presso la clinica otorinolaringoiatrica dell'Universita'. 
  Art. 199. - La durata del corso degli studi della scuola di preparazione per tecnici di ortofonia (logopedisti) e' di tre anni.
 L'indirizzo e' teorico-pratico. 
  Il numero complessivo degli iscritti e' di quindici (cinque per ogni anno di corso). 

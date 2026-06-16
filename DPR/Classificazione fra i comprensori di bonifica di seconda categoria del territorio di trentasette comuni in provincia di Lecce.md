@@ -20,7 +20,7 @@ Vista la domanda in data 25 marzo 1965 con la quale il consorzio anzidetto ha ch
 
 Ritenuto, per quanto riguarda la preliminare classifica, che sussistono i requisiti previsti dalla legge e che il territorio da classificare puo' essere delimitato secondo le indicazioni risultanti dalla acclusa corografia in scala 1: 100.000;
 
-Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Considerato, in ordine alla proposta di ampliamento, che l'anzidetto territorio, del quale il consorzio ha chiesto l'aggregazione, presenta caratteristiche fisiche ed economiche analoghe a quelle zone consorziate, per cui e' opportuno, ai fini di una organica soluzione dei problemi di bonifica, estendere l'attivita' del consorzio stesso anche a tale territorio;
 
@@ -28,13 +28,13 @@ Che in sede di pubblicazione degli atti non sono stati presentati opposizioni o 
 
 Visti il voto del comitato tecnico per la bonifica della provincia di Lecce, il parere 13 luglio 1969, numero 15388/13538, dell'ispettorato compartimentale agrario di Bari, il voto 13 settembre 1968, n. 697, del comitato tecnico amministrativo del provveditorato regionale alle opere pubbliche per la Puglia ed il parere n. 70 espresso dalla assemblea generale del Consiglio superiore della agricoltura e delle foreste nell'adunanza del 27 febbraio 1969;
 
-Visto l'[art. 62 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_62), modificato dall'[art. 6 del decreto del Presidente della Repubblica 23 giugno 1962, n. 947](Norme%20sui%20Consorzi%20di%20bonifica%20in%20attuazione%20della%20delega%20prevista%20dallart.%2031%20della%20legge%202%20giugno%201961%20n.%20454.md);
+Visto l'[art. 62 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), modificato dall'[art. 6 del decreto del Presidente della Repubblica 23 giugno 1962, n. 947](Norme%20sui%20Consorzi%20di%20bonifica%20in%20attuazione%20della%20delega%20prevista%20dallart.%2031%20della%20legge%202%20giugno%201961%20n.%20454.md);
 
 Sulla proposta del Ministro per l'agricoltura e le foreste di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 
 ## Art. 1.
 
-Il territorio di Ha 42.670, interessante trentasette comuni della provincia di Lecce, risultante dalla corografia 1/100.000 che, munita del visto del Ministro proponente, forma parte integrante del presente decreto, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), fra i comprensori di bonifica di seconda categoria.
+Il territorio di Ha 42.670, interessante trentasette comuni della provincia di Lecce, risultante dalla corografia 1/100.000 che, munita del visto del Ministro proponente, forma parte integrante del presente decreto, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), fra i comprensori di bonifica di seconda categoria.
 
 ## Art. 2.
 

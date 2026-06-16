@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Sulla proposta del Ministro per la pubblica istruzione; Decreta:
 
@@ -20,7 +20,7 @@ Sono approvati e resi esecutivi l'annessa convenzione e l'atto aggiuntivo stipul
 
 ## Art. 2.
 
-E' istituito, ai sensi dell'art. 63, secondo comma, del testa unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo, a decorrere dall'anno accademico 1956-57 e per la durata di anni dieci, riservato all'insegnamento di ebraico e lingue semitiche comparate, in aggiunta a quelli stabiliti per la Facolta' di lettere e filosofia dell'Universita' cattolica di Milano.
+E' istituito, ai sensi dell'art. 63, secondo comma, del testa unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo, a decorrere dall'anno accademico 1956-57 e per la durata di anni dieci, riservato all'insegnamento di ebraico e lingue semitiche comparate, in aggiunta a quelli stabiliti per la Facolta' di lettere e filosofia dell'Universita' cattolica di Milano.
 
 ## Art. 3.
 

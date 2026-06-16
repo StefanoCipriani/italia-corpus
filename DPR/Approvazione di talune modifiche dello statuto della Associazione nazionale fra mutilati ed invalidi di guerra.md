@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 16 dicembre 1929, n. 2162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-16;2162), con il quale l'Associazione nazionale fra mutilati ed invalidi di guerra, con sede in Roma, venne eretta in ente morale;
+ Visto il [regio decreto 16 dicembre 1929, n. 2162](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20fra%20mutilati%20ed%20invalidi%20di%20guerra.%20029U2162.md), con il quale l'Associazione nazionale fra mutilati ed invalidi di guerra, con sede in Roma, venne eretta in ente morale;
  Visto il decreto del Presidente della Repubblica in data 30 maggio 1950, registrato alla Corte dei conti il 7 luglio 1950, con il quale e' stato approvato il nuovo testo dello statuto dell'Associazione;
  Visto il [decreto del Presidente della Repubblica in data 22 novembre 1953, n. 1005](Modificazioni%20al%20testo%20unico%20dello%20statuto%20vigente%20dellAssociazione%20nazionale%20fra%20mutilati%20ed%20invalidi%20di%20guerra.md), apportate modificazioni al testo dello statuto anzidetto;
  Vista la richiesta presentata il 7 marzo 1963 dal Presidente della Associazione nazionale fra mutilati ed invalidi di guerra per ottenere l'approvazione di talune modifiche al suindicato testo di statuto;

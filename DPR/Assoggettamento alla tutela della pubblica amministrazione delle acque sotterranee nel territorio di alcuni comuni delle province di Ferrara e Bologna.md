@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94) approvato con decreto reale 11 dicembre 1933, n. 1775, col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e l'utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione;
+ Visto l'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con decreto reale 11 dicembre 1933, n. 1775, col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e l'utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione;
  Ritenuta la necessita' di dichiarare soggetto alla tutela della pubblica amministrazione il territorio dei seguenti comuni:
  provincia di Ferrara: Cento, Sant'Agostino e Poggio Renatico;
  provincia di Bologna: Pieve di Cento, Galliera, Argelato, San Pietro in Casale, Castel d'Argile, San Giorgio di Piano, Malalbergo, Minerbio, Molinella, Bentivoglio e Baricella;

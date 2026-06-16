@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la domanda con la quale la maggioranza dei contribuenti delle frazioni Induno e Olona, gia' facenti parte del Comune omonimo, aggregato a quello di Varese col [regio decreto 24 novembre 1927, n. 2247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-24;2247), chiede la ricostituzione del Comune suddetto, con circoscrizione territoriale limitata alle frazioni suindicate;
+Vista la domanda con la quale la maggioranza dei contribuenti delle frazioni Induno e Olona, gia' facenti parte del Comune omonimo, aggregato a quello di Varese col [regio decreto 24 novembre 1927, n. 2247](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Bizzozero%20Capolago%20Bobbiate%20Lissago%20Masnago%20SantAmbrogio%20Olona%20Velate%20Santa%20Maria%20del%20Monte%20e%20Induno%20Olona%20al%20comune%20di%20Varese.%20027U2247.md), chiede la ricostituzione del Comune suddetto, con circoscrizione territoriale limitata alle frazioni suindicate;
 
 Visti gli atti relativi;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'interno; Decreta:
 
 ## Art. 1.
 
-Il comune di Induno Olona, aggregato a quello di Varese col [regio decreto 24 novembre 1927, n. 2247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-24;2247), e' ricostituito con la circoscrizione territoriale risultante dall'annessa pianta planimetrica.
+Il comune di Induno Olona, aggregato a quello di Varese col [regio decreto 24 novembre 1927, n. 2247](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Bizzozero%20Capolago%20Bobbiate%20Lissago%20Masnago%20SantAmbrogio%20Olona%20Velate%20Santa%20Maria%20del%20Monte%20e%20Induno%20Olona%20al%20comune%20di%20Varese.%20027U2247.md), e' ricostituito con la circoscrizione territoriale risultante dall'annessa pianta planimetrica.
 
 ## Art. 2.
 

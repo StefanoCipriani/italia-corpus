@@ -14,13 +14,13 @@ Relazione del Ministro per il tesoro al Presidente della Repubblica sul decreto 
 
  Signor Presidente,
  il decreto che si sottopone alla firma della S. V. On.le, concerne il prelevamento di L. 3.300.000 dal fondo ai riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro per l'esercizio 1959-60, onde provvedere, in relazione a straordinarie esigenze di servizio dell'Ufficio per l'organizzazione amministrativa e per gli affari costituzionali, prima non prevedibili, all'integrazione degli stanziamenti dei capitoli n. 465 (compensi speciali al personale in eccedenza ai muniti stabiliti per lavoro straordinario e n. 469-bis (spese per la manutenzione dei locali) rispettivamente di L. 3.000.000 e di L. 300.000.
- Poiche' per le assegnazioni predette ricorrono le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede ad esse in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
+ Poiche' per le assegnazioni predette ricorrono le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede ad esse in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
 
  Il Ministro per il tesoro: TAMBRONI 
 
  IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto l'[art. 87, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com4) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
  Vista, la [legge 3 giugno 1959, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-06-03;412);
  Considerato che sul fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1959-60, esiste la necessaria disponibilita';

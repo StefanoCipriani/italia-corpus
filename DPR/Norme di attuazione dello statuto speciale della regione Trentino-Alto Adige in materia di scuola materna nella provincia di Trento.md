@@ -63,7 +63,7 @@ Alla data di entrata in vigore del presente decreto la provincia di Trento succe
 ## Art. 8.
 
 La definizione dei procedimenti amministrativi che abbiano comportato assunzioni di impegni ai sensi dell'art. 49 della legge di contabilita' dello Stato, prima della data di trasferimento alla provincia di Trento delle funzioni amministrative contemplate dal presente decreto, rimane di competenza degli organi statali. Rimane, parimenti, di competenza degli organi dello Stato con oneri a carico del bilancio statale, la liquidazione delle ulteriori annualita' di spese pluriennali a carico di esercizi successivi a quello di trasferimento delle funzioni alla suddetta provincia qualora l'impegno relativo alla prima annualita' abbia fatto carico di esercizi anteriori al detto trasferimento.
- Resta, altresi', sino alla data del 31 dicembre 1976, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai sensi dell'[art. 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36), o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme.
+ Resta, altresi', sino alla data del 31 dicembre 1976, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai sensi dell'[art. 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme.
 
 ## Art. 9.
 

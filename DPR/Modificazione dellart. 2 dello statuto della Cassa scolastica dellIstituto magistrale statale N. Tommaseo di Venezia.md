@@ -14,7 +14,7 @@ N.
 
 1031.
 
-Decreto del Presidente della Repubblica 26 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'art. 2 dello statuto della Cassa scolastica dell'Istituto magistrale statale "N. Tommaseo" di Venezia, approvato con [regio decreto 19 giugno 1924, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1077), viene modificato.
+Decreto del Presidente della Repubblica 26 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'art. 2 dello statuto della Cassa scolastica dell'Istituto magistrale statale "N. Tommaseo" di Venezia, approvato con [regio decreto 19 giugno 1924, n. 1077](../Regi%20decreti/Erezione%20in%20Ente%20morale%20della%20cassa%20scolastica%20del%20Regio%20istituto%20magistrale%20Niccolo%20Tommaseo%20in%20Venezia.%20024U1077.md), viene modificato.
 
 Visto, il Guardasigilli: MORO
  Registrato alla Corte dei conti, addi' 5 novembre 1955

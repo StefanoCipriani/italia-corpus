@@ -124,7 +124,7 @@ Per gli enti locali che nell'anno precedente a quello di entrata in vigore del p
 
 ### Art. 13. — Somministrazione dei fondi
 
-I fondi occorrenti per i pagamenti previsti dal presente decreto sono stanziati su apposito capitolo dello stato di previsione della spesa del Ministero delle finanze e vengono somministrati alle intendenze di finanza mediante ordini di accreditamento, anche in deroga all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56), e successive modificazioni.
+I fondi occorrenti per i pagamenti previsti dal presente decreto sono stanziati su apposito capitolo dello stato di previsione della spesa del Ministero delle finanze e vengono somministrati alle intendenze di finanza mediante ordini di accreditamento, anche in deroga all'[art. 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni.
 
 ### Art. 14. — Erogazione provvisoria di somme
 

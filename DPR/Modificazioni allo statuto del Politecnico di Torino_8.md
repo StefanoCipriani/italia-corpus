@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20del%20Regio%20politecnico%20di%20Torino.%20042U0923.md), e modificato con [regio decreto 3 settembre 1942, n. 1391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-03;1391) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -86,7 +86,7 @@ TITOLO I Ordinamento generale didattico
  Art. 36. - Al primo anno della Scuola possono essere iscritti quali studenti coloro che gia' siano forniti di una laurea in Ingegneria. 
  Per gli allievi muniti della laurea in Ingegneria aeronautica la durata degli studi presso la Scuola e' annuale, con gli obblighi di frequenza e di esame che saranno stabiliti dal Consiglio della Facolta'. 
  Potranno altresi' essere ammessi: 
- 1) gli ufficiali del Genio aeronautico secondo quanto e' disposto dall'art. 146 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). 
+ 1) gli ufficiali del Genio aeronautico secondo quanto e' disposto dall'art. 146 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md). 
  2) gli stranieri, provvisti di titoli conseguiti presso scuole estere, ritenuti sufficienti dal Consiglio di Facolta'. 
  Art. 37. - Per il superamento degli esami di profitto e di laurea valgono le norme contenute nel titolo V del presente statuto. 
  Art. 38. - La distinzione fra le due Sezioni sul diploma di laurea sara' limitata ad un sottotitolo. Agli allievi non precedentemente laureati in una Facolta' di ingegneria italiana ammessi ai sensi dell'ultimo comma dell'art. 36, sara' rilasciato al termine un certificato degli esami superati.

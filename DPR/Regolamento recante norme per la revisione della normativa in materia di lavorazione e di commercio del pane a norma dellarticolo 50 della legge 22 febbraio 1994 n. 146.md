@@ -214,12 +214,12 @@ Dalla data di entrata in vigore del presente regolamento cessano di avere effica
                         b)
                             l'[articolo 31 del regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033#art_31), convertito dalla [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
                         c)
-                            l'[articolo 124 del regio decreto 3 agosto 1890, n. 7045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-03;7045#art_124).
+                            l'[articolo 124 del regio decreto 3 agosto 1890, n. 7045](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20per%20la%20vigilanza%20igienica%20sugli%20alimenti%20sulle%20bevande%20e%20sugli%20oggetti%20di%20uso%20domestico.%20090U7045.md).
 
 Note all'art. 10:
  - Per quanto concerne la [legge 4 luglio 1967, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-04;580), vedi nelle note all' art. 1.
  - Il [regio decreto-legge 15 ottobre 1925, n. 2033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-10-15;2033), convertito dalla [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), reca: "Repressione delle frodi nella preparazione e nel commercio di sostanze di uso agrario e di prodotti agrari".
- - Il [regio decreto 3 agosto 1890, n. 7045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-03;7045), reca: "Regolamento speciale per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico".
+ - Il [regio decreto 3 agosto 1890, n. 7045](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20per%20la%20vigilanza%20igienica%20sugli%20alimenti%20sulle%20bevande%20e%20sugli%20oggetti%20di%20uso%20domestico.%20090U7045.md), reca: "Regolamento speciale per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico".
 
 ## Art. 11. — Norme transitorie
 

@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Vista la [legge 20 febbraio 1958, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;93), concernente l'assicurazione obbligatoria dei medici contro le malattie e le lesioni causate dall'azione dei raggi X e delle sostanze radioattive;
 
-Visto il [regio decreto 17 agosto 1935, n. 1765](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-08-17;1765), e successive aggiunte, integrazioni e modifiche, nonche' le relative norme regolamentari;
+Visto il [regio decreto 17 agosto 1935, n. 1765](../Regi%20decreti/Disposizioni%20per%20lassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20professionali.%20035U1765.md), e successive aggiunte, integrazioni e modifiche, nonche' le relative norme regolamentari;
 
 Udito il parere del Consiglio di Stato;
 

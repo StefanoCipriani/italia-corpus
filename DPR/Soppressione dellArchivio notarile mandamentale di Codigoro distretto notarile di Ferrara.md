@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Viste le deliberazioni dei comuni di Codigoro, Mesola, Massafiscaglia, Lagosanto e Migliarino, intese ad ottenere la soppressione del predetto Archivio notarile mandamentale;
  Considerato che il medesimo da tempo non svolge piu' alcuna attivita', ne' risponde ad una concreta utilita' della popolazione di quel mandamento;
  Visti i pareri del procuratore della Repubblica presso il tribunale e del conservatore dell'Archivio notarile distrettuale di Ferrara;
- Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e degli archivi notarili e l'art. 248, ultimo capoverso, del relativo regolamento approvato con [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+ Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), sull'ordinamento del notariato e degli archivi notarili e l'art. 248, ultimo capoverso, del relativo regolamento approvato con [regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
  Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

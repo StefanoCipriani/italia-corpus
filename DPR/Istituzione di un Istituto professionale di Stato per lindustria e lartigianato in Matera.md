@@ -136,7 +136,7 @@ Il posto di preside e' conferito mediante pubblico concorso per titoli e per esa
 ## Art. 19.
 
 Il personale direttivo, insegnante e tecnico di ruolo che, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, trovasi in servizio nell'Istituto professionale e che, per l'attivita' svolta, abbia dimoesercitate, puo' essere inquadrato nell'organico dello Istituto professionale su proposta del Consiglio di amministrazione, previo parere di una Commissione tecnica nominata dal Ministero della pubblica istruzione, la quale sottoporra' il suddetto personale ad un apposito colloquio su argomenti attinenti al posto da ricoprire.
- Il personale ritenuto meritevole di inquadramento e' collocato nel posto previsto nell'annessa tabella organica, conservando i diritti acquisiti di carriera e di stipendio previsti dall'[art. 6 del regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_6).
+ Il personale ritenuto meritevole di inquadramento e' collocato nel posto previsto nell'annessa tabella organica, conservando i diritti acquisiti di carriera e di stipendio previsti dall'[art. 6 del regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md).
  La tabella organica annessa, al presente decreto, vista e firmata d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro, indica le qualifiche e i posti del personale strato particolare competenza e perizia nelle mansioni di ruolo e incaricato.
 
 ## Art. 20.

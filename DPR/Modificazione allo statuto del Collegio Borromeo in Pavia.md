@@ -14,7 +14,7 @@ N.
 
 1090.
 
-Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvata la sostituzione dell'art. 4 dello statuto del Collegio Borromeo, in Pavia, approvato con [regio decreto 2 ottobre 1940, n. 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1598).
+Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvata la sostituzione dell'art. 4 dello statuto del Collegio Borromeo, in Pavia, approvato con [regio decreto 2 ottobre 1940, n. 1598](../Regi%20decreti/Abrogazione%20dello%20statuto%20del%20Collegio%20Borromeo%20in%20Pavia%20e%20approvazione%20di%20un%20nuovo%20statuto.%20040U1598.md).
 
 Visto, il Guardasigilli: BONIFACIO
  Registrato alla Corte dei conti, addi' 27 giugno 1979

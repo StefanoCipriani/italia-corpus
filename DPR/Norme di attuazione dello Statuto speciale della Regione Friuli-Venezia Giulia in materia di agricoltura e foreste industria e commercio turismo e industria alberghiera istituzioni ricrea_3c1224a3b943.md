@@ -45,7 +45,7 @@ I certificati fitopatologici, rilasciati dagli uffici trasferiti alla Regione a 
 
 ### Art. 5.
 
-Le disposizioni, di cui al [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215) e seguenti, e le altre norme di favore in materia di agricoltura e foreste riguardanti la Venezia Giulia vengono estese a tutto il territorio della Regione.
+Le disposizioni, di cui al [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) e seguenti, e le altre norme di favore in materia di agricoltura e foreste riguardanti la Venezia Giulia vengono estese a tutto il territorio della Regione.
 
 ### Art. 6.
 

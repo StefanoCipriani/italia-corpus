@@ -16,7 +16,7 @@ Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.
 
 Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), allegato 1, n. 6;
 
-Viste le disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvate con [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440);
+Viste le disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, approvate con [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
 Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
@@ -88,12 +88,12 @@ Avvertenza:
  e) procedure per l'accettazione da parte delle universita' di eredita', donazioni e legati, prescindendo da ogni autorizzazione preventiva, ministeriale o prefettizia".
  "Allegato 1 (previsto dall'art. 20, comma 8) (Omissis).
  6. Presa in consegna di immobili e compiti di sorveglianza sugli immobili demaniali;
- - [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni;
+ - [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni;
  - [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni;
  - [legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358), e successive modificazioni;
  - [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md);
  - legge 23 dicembre 1994, n, 724, e successive modificazioni".
- - Il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), reca: "Disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato".
+ - Il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), reca: "Disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato".
  - Il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), reca: "[Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)".
  - Il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), reca: "Regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato".
  - Il [decreto ministeriale 24 agosto 1940, n. 2984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1940-08-24;2984), approva le istruzioni generali sui servizi del Provveditorato generale dello Stato.

@@ -52,7 +52,7 @@ Per le persone giuridiche, per i minori e gli interdetti il diritto di voto e' e
 Entro un anno dalla data di entrata in vigore del presente decreto, i Consigli dei delegati dei Consorzi di bonifica debbono, ove occorra, adeguare gli statuti alle disposizioni del presente decreto. 
  In ogni caso, entro lo stesso termine, tutti i Consorzi debbono inviare i loro statuti per il riscontro al Ministero dell'agricoltura e delle foreste, il quale potra' disporre le modificazioni occorrenti. 
  Il Ministro per l'agricoltura e per le foreste puo' invitare i Consorzi a predisporre gli statuti sulla base di apposito schema. 
- Trascorso l'anzidetto termine senza che le delibere consorziali di modifica degli statuti siano state trasmesse al Ministero dell'agricoltura e delle foreste per l'approvazione ai sensi dell'art. 60, secondo comma, del testo delle norme sulla bonifica integrale, approvato con [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), il Ministero medesimo interviene nominando un commissario straordinario con il compito di adottare le necessarie modifiche dello statuto.
+ Trascorso l'anzidetto termine senza che le delibere consorziali di modifica degli statuti siano state trasmesse al Ministero dell'agricoltura e delle foreste per l'approvazione ai sensi dell'art. 60, secondo comma, del testo delle norme sulla bonifica integrale, approvato con [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), il Ministero medesimo interviene nominando un commissario straordinario con il compito di adottare le necessarie modifiche dello statuto.
 
 ### Art. 4. — Interventi per irregolarita' nelle operazioni elettorali
 
@@ -65,14 +65,14 @@ CAPO II
 
 ### Art. 5. — Organi consorziali - Nomine e proroghe
 
-Il secondo e terzo comma dell'art. 61 delle norme sulla bonifica integrale, approvate con [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), sono modificati come segue:
+Il secondo e terzo comma dell'art. 61 delle norme sulla bonifica integrale, approvate con [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), sono modificati come segue:
  Il Ministro per l'agricoltura e per le foreste puo' nominare un suo delegato a far parte dei Consiglio dei delegati e delle deputazioni amministrative ovvero delle Consulte dei consorzi. Puo' inoltre chiamare a far parte degli organi suddetti anche un membro designato dalla Cassa per il Mezzogiorno, quando i Consorzi eseguono opere finanziate dalla Cassa; medesima.
  Per assicurare la continuita' dell'indirizzo amministrativo dei Consorzi, il Ministro predetto puo' prorogare i termini per la rinnovazione delle cariche consorziali, per un tempo non superiore a quello previsto dallo statuto per la durata delle cariche stesse.
 
 ### Art. 6. — Raggruppamento di uffici - Fusione, scissione e soppressione
  dei consorzi - Modifiche dei confini territoriali
 
-Il primo comma dell'art. 62 delle norme sulla bonifica integrale approvate con il [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e' modificato come segue:
+Il primo comma dell'art. 62 delle norme sulla bonifica integrale approvate con il [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' modificato come segue:
  Con decreto del Presidente della Repubblica, su proposta del Ministro per l'agricoltura e per le foreste, sentiti i Consorzi interessati, si provvede al raggruppamento degli uffici, alla fusione, alla scissione alla soppressione dei Consorzi ed alla modifica dei loro confini territoriali.
 
 ### Art. 7. — Scioglimento degli organi di ordinaria
@@ -87,7 +87,7 @@ In caso di scioglimento degli organi di amministrazione ordinaria dei Consorzi e
  e) regolamento e norme sul funzionamento dei servizi e sull'ordinamento organico e disciplinare dei dipendenti;
  f) piano generale di bonifica e progetti di massima delle opere che non siano comprese nello stesso piano;
  g) programmi di attivita' del Consorzio
- h) modalita' relative all'esecuzione ed alla manutenzione delle opere di bonifica di competenza privata da attuarsi dal Consorzio ai sensi degli [articoli 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_41) e [42 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_42) e successive modificazioni;
+ h) modalita' relative all'esecuzione ed alla manutenzione delle opere di bonifica di competenza privata da attuarsi dal Consorzio ai sensi degli [articoli 41](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) e [42 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md) e successive modificazioni;
  i) criteri di classifica dei comprensorio per il riparto degli oneri a carico della proprieta' consorziata;
  l) bilancio preventivo e variazioni
  m) bilancio consuntivo
@@ -97,10 +97,10 @@ In caso di scioglimento degli organi di amministrazione ordinaria dei Consorzi e
 
 ### Art. 8. — Piano di riporto delle spese consortili
 
-Il riporto delle spese consortili per la determinazione dei contributi a carico della proprieta' interessa fa, pel l'adempimento dei fini istituzionali del Consorzio di bonifica, ai sensi del secondo comma dell'art. 59 delle norme sulla bonifica integrale, approvato con il [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e' effettuato sulla basi della spesa prevista nei bilanci preventivi.
+Il riporto delle spese consortili per la determinazione dei contributi a carico della proprieta' interessa fa, pel l'adempimento dei fini istituzionali del Consorzio di bonifica, ai sensi del secondo comma dell'art. 59 delle norme sulla bonifica integrale, approvato con il [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e' effettuato sulla basi della spesa prevista nei bilanci preventivi.
  Il piano di riparto e' sottoposto al visto di legittimita' di cui all'art. 63, comma secondo, delle norme approvate con il regio decreto sopracitato.
  Qualora il piano di riparto tra i consorziati delle somme anticipate ai sensi dell'[art. 24, secondo comma, della legge 2 giugno 1961, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454#art_24-com2), non sia compilato entro sei mesi dalla data di collaudo delle opere vi provvede in via surrogatoria il Ministero dell'agricoltura e delle foreste anche nominando un apposito commissario.
- Il Ministero dell'agricoltura e delle foreste puo' affidare ad istituti di credito il compito di curare il ricupero delle somme anticipate, secondo la disciplina di cui all'art. 21, ultimo comma, del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215),
+ Il Ministero dell'agricoltura e delle foreste puo' affidare ad istituti di credito il compito di curare il ricupero delle somme anticipate, secondo la disciplina di cui all'art. 21, ultimo comma, del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md),
 
 ### Art. 9. — Bilanci consortili
 
@@ -136,7 +136,7 @@ CAPO V
 
 ### Art. 13. — Tutela e vigilanza
 
-Restano fermi i poteri di tutela e di vigilanza sui Consorzi attribuiti alla pubblica Amministrazione delle norme sulla bonifica integrale approvate con il [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), e successive modifiche ed integrazioni. 
+Restano fermi i poteri di tutela e di vigilanza sui Consorzi attribuiti alla pubblica Amministrazione delle norme sulla bonifica integrale approvate con il [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), e successive modifiche ed integrazioni. 
  Restano ferme altresi' le competenze dei Consorzi contemplate dalle vigenti disposizioni.
 
 ### Art. 14. — Disposizioni finali

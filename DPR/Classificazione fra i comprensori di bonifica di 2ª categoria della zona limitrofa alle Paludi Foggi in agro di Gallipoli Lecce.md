@@ -20,13 +20,13 @@ Viste le lettere 14 settembre 1951, n. 3183, del [Ministero dei lavori pubblici 
 
 Ritenuto che sussistono le condizioni per procedere alla richiesta classifica;
 
-Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto coi Ministri per il tesoro e per i lavori pubblici; Decreta:
 
 ## Articolo unico.
 
-Il territorio limitrofo al comprensorio di bonifica e Paludi Foggi in agro di Gallipoli" provincia di Lecce, delimitato secondo la linea segnata nella citata corografia su scala 1: 50.000 che, vistata dal Ministro proponente forma parte integrante del presente decreto, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), fra i comprensori di bonifica di 2ª categoria.
+Il territorio limitrofo al comprensorio di bonifica e Paludi Foggi in agro di Gallipoli" provincia di Lecce, delimitato secondo la linea segnata nella citata corografia su scala 1: 50.000 che, vistata dal Ministro proponente forma parte integrante del presente decreto, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), fra i comprensori di bonifica di 2ª categoria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

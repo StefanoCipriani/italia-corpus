@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la necessita' di apportare alcune modificazioni al regolamento contenente disposizioni per il conferimento dei posti di notaio, approvato con [regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953);
+Ritenuta la necessita' di apportare alcune modificazioni al regolamento contenente disposizioni per il conferimento dei posti di notaio, approvato con [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,13 +22,13 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-L'[art. 14 del regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_14), modificato dall'[art. 2 del regio decreto 2 maggio 1932, n. 496](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20Commissione%20esaminatrice%20dei%20concorsi%20per%20posti%20di%20notaro%20modificazioni%20al%20R.%20decreto%2014%20novembre%201926%20n.%201953.%20032U0496.md), e' sostituito dal seguente:
+L'[art. 14 del regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), modificato dall'[art. 2 del regio decreto 2 maggio 1932, n. 496](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20Commissione%20esaminatrice%20dei%20concorsi%20per%20posti%20di%20notaro%20modificazioni%20al%20R.%20decreto%2014%20novembre%201926%20n.%201953.%20032U0496.md), e' sostituito dal seguente:
  "Il Ministro nomina pure un magistrato avente grado non inferiore a consigliere di Cassazione o equiparato, anche se trattenuto al Ministero di grazia e giustizia, per supplire il presidente in caso di assenza o di impedimento, e un commissario supplente per ciascun commissario effettivo tra gli appartenenti alle corrispondenti categorie.
  Il Ministro designa inoltre per le funzioni di segreteria nel numero necessario magistrati trattenuti al Ministero. L'ufficio di segreteria sara' coadiuvato da quel numero di impiegati che le necessita' del concorso richiederanno".
 
 ## Art. 2.
 
-L'[art. 19 del regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_19), e' sostituito dal seguente:
+L'[art. 19 del regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), e' sostituito dal seguente:
  "Al candidato sono consegnate in ciascuno dei giorni di esame due buste di eguale colore, una grande munita di un tagliando con numero progressivo ed una piccola contenente un cartoncino bianco. Sul tagliando deve essere scritto il numero corrispondente a quello segnato sulla tessera di riconoscimento inviata al candidato.
  Le buste residue, oltre quelle consegnate ai candidati sono chiuse in piego suggellato con il bollo dell'ufficio.
  Sul piego appongono la firma il presidente o chi ne fa le veci, un componente della Commissione ed il segretario.

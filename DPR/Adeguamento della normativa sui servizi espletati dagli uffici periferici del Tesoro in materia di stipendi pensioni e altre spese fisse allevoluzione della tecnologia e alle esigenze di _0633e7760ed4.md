@@ -20,7 +20,7 @@ Visto il decreto del Presidente della Repubblica 26 settembre 1985, pubblicato n
 
 Visto il [decreto del Presidente della Repubblica 19 aprile 1986, n. 138](Parziale%20attuazione%20della%20delega%20di%20cui%20alle%20lettere%20a%20b%20e%20d%20del%20secondo%20comma%20dellart.%201%20della%20legge%207%20agosto%201985%20n.%20428%20in%20materia%20di%20semplificazione%20delle%20procedure%20relative%20al%20pagame_d2a1a8c6c5c1.md), concernente la parziale attuazione della delega di cui alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428#art_1-com2-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428#art_1-com2-letb) e [d) del secondo comma dell'art. 1 della legge 7 agosto 1985, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428#art_1-com2-letd);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato ed il relativo regolamento di esecuzione approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato ed il relativo regolamento di esecuzione approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
 Vista la [legge 3 febbraio 1951, n. 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Emissione%20meccanografica%20dei%20titoli%20di%20spesa%20afferenti%20le%20pensioni%20ed%20il%20pagamento%20del%20debito%20vitalizio%20dello%20Stato%20a%20mezzo%20di%20assegni%20di%20conto%20corrente%20postale%20di%20serie%20speciale.md), sull'emissione meccanografica dei titoli di spesa afferenti le pensioni ed il pagamento del debito vitalizio dello Stato a mezzo di assegni di conto corrente postale di serie speciale nonche' il relativo regolamento di attuazione approvato con [decreto del Presidente della Repubblica 31 maggio 1951, n. 362](Approvazione%20del%20regolamento%20contenente%20norme%20per%20il%20funzionamento%20dei%20Centri%20meccanografici%20istituiti%20con%20la%20legge%203%20febbraio%201951%20n.%2038%20e%20per%20i%20pagamento%20del%20debito%20vitalizio%20mediante%20a_b9741d9b63fb.md);
 
@@ -351,13 +351,13 @@ Le procedure da seguire per l'attuazione di quanto disposto dal presente articol
 
 AGGIORNAMENTO (6)
 
-Il [D.P.R. 15 dicembre 2001, n. 482](Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md) ha disposto (con l'art. 9) che "sono soppressi nelle disposizioni normative i riferimenti al contabile del portafoglio".
+Il [D.P.R. 15 dicembre 2001, n. 482](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md) ha disposto (con l'art. 9) che "sono soppressi nelle disposizioni normative i riferimenti al contabile del portafoglio".
 
 ### Art. 23. — Opposizioni al pagamento
 
 1.
 
-Non sono ammesse opposizioni al pagamento degli assegni di conto corrente postale di serie speciale e di eventuali altri titoli emessi in base alle disposizioni contenute nel presente decreto, giusta quanto disposto dall'[art. 69 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_69).
+Non sono ammesse opposizioni al pagamento degli assegni di conto corrente postale di serie speciale e di eventuali altri titoli emessi in base alle disposizioni contenute nel presente decreto, giusta quanto disposto dall'[art. 69 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 2.
 
@@ -664,7 +664,7 @@ I predetti uffici segnalano ai centri del sistema informativo i dati riguardanti
 
 3.
 
-Per quanto non previsto dal presente decreto in materia di ordinazione e pagamento degli stipendi a favore dei dipendenti statali in attivita' di servizio, si applicano le disposizioni di cui al [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440) e al regolamento di esecuzione approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827).
+Per quanto non previsto dal presente decreto in materia di ordinazione e pagamento degli stipendi a favore dei dipendenti statali in attivita' di servizio, si applicano le disposizioni di cui al [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e al regolamento di esecuzione approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827).
 
 Nota all'art. 38:
  Per gli argomenti del [R.D. n. 2440/1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923;2440) e del [R.D. n. 827/1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924;827) v. nelle premesse del presente decreto.
@@ -757,7 +757,7 @@ Nota all'art. 42:
 
 1.
 
-Sono abrogate le seguenti disposizioni: l'[art. 4, terzo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677#art_4-com3), e gli [articoli da 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677#art_8) [a 19 del regio decreto 24 aprile 1927, n. 677](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-24;677#art_19);
+Sono abrogate le seguenti disposizioni: l'[art. 4, terzo comma](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md), e gli [articoli da 8](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md) [a 19 del regio decreto 24 aprile 1927, n. 677](../Regi%20decreti/Norme%20per%20lattuazione%20del%20R.%20decreto-legge%2013%20febbraio%201927%20n.%20165%20relativo%20a%20facilitazioni%20per%20il%20pagamento%20delle%20pensioni%20ed%20altri%20assegni%20a%20carico%20dello%20Stato.%20027U0677.md);
 l'art. 1 ed i [commi primo](../Atti%20normativi%20abrogati%20%28in%20originale%29/Facilitazioni%20per%20il%20pagamento%20delle%20pensioni.%20030U1209.md) e [terzo dell'art. 2 del regio decreto 3 luglio 1930, n. 1209](../Atti%20normativi%20abrogati%20%28in%20originale%29/Facilitazioni%20per%20il%20pagamento%20delle%20pensioni.%20030U1209.md); l'[art. 1 del decreto legislativo del Capo provvisorio dello Stato 23 agosto 1946, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-23;166#art_1); la [legge 3 febbraio 1951, n. 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Emissione%20meccanografica%20dei%20titoli%20di%20spesa%20afferenti%20le%20pensioni%20ed%20il%20pagamento%20del%20debito%20vitalizio%20dello%20Stato%20a%20mezzo%20di%20assegni%20di%20conto%20corrente%20postale%20di%20serie%20speciale.md); il [decreto del Presidente della Repubblica 31 maggio 1951, n. 362](Approvazione%20del%20regolamento%20contenente%20norme%20per%20il%20funzionamento%20dei%20Centri%20meccanografici%20istituiti%20con%20la%20legge%203%20febbraio%201951%20n.%2038%20e%20per%20i%20pagamento%20del%20debito%20vitalizio%20mediante%20a_b9741d9b63fb.md) e il [decreto del Presidente della Repubblica 26 maggio 1956, n. 653](Disposizioni%20per%20lordinazione%20con%20il%20sistema%20meccanografico%20e%20per%20il%20pagamento%20degli%20stipendi%20e%20degli%20altri%20assegni%20fissi%20personali%20ai%20dipendenti%20dello%20Stato.md).
 
 Note all'[art. 43:

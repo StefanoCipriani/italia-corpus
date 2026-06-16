@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Padova.%20039U1058.md), modificato con [regio decreto 3 ottobre 1939, n. 1847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-03;1847) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
 
@@ -34,7 +34,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in data 27 novembr
 
 ## Art. 2.
 
-In aggiunta alle Facolta' dell'Universita' di Padova, indicate nella tabella A annessa al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni, e' istituita la Facolta' di economia e commercio che viene mantenuta con i mezzi forniti secondo la convenzione di cui al precedente articolo.
+In aggiunta alle Facolta' dell'Universita' di Padova, indicate nella tabella A annessa al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni, e' istituita la Facolta' di economia e commercio che viene mantenuta con i mezzi forniti secondo la convenzione di cui al precedente articolo.
 
 ## Art. 3.
 

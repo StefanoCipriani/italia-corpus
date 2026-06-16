@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87); 
- Visto il regolamento speciale per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico approvato con [regio decreto 3 agosto 1890, n. 7045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-03;7045); 
+ Visto il regolamento speciale per la vigilanza igienica sugli alimenti, sulle bevande e sugli oggetti di uso domestico approvato con [regio decreto 3 agosto 1890, n. 7045](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20per%20la%20vigilanza%20igienica%20sugli%20alimenti%20sulle%20bevande%20e%20sugli%20oggetti%20di%20uso%20domestico.%20090U7045.md); 
  Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande; 
  Vista la [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441), che reca modifiche alla predetta legge; 
  Sentito il Consiglio superiore di sanita'; 

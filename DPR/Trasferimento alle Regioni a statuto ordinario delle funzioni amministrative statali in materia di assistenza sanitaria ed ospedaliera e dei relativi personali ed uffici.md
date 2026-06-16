@@ -106,7 +106,7 @@ Sotto la data in cui si effettua il trasferimento alle regioni delle funzioni am
 ## Art. 10.
 
 La definizione dei procedimenti amministrativi che abbiano comportato assunzioni di impegni, ai sensi dell'art. 49 della legge di contabilita' di Stato, prima della data del trasferimento alle regioni delle funzioni amministrative oggetto del presente decreto, rimane di competenza degli organi statali. Rimane, parimenti, di competenza degli organi dello Stato, con oneri a carico del bilancio statale, la liquidazione delle ulteriori annualita' di spese pluriennali a carico di esercizi successivi a quello di trasferimento delle funzioni alle regioni, qualora l'impegno relativo alla prima annualita' abbia fatto carico ad esercizi finanziari anteriori al detto trasferimento.
- Resta altresi', fino alla data del 31 dicembre 1972, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai termini del [secondo comma dell'art. 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com2), o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme. Le somme che, alla data predetta, non risultino ancora impegnate, saranno portate in aumento del fondo per il finanziamento dei programmi regionali di sviluppo di cui all'[art. 9 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_9). Il Ministro per il tesoro provvedera', con propri decreti, alle conseguenti variazioni compensative nel conto dei residui delle amministrazioni interessate. Le somme trasferite al fondo, saranno assegnate, entro un biennio, alle amministrazioni regionali sulla base dei criteri che il Comitato interministeriale per la programmazione economica determinera', in relazione a quanto previsto nel secondo comma del predetto art. 9 della legge n. 281 e tenuto anche conto dell'originaria destinazione delle somme medesime.
+ Resta altresi', fino alla data del 31 dicembre 1972, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai termini del [secondo comma dell'art. 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme. Le somme che, alla data predetta, non risultino ancora impegnate, saranno portate in aumento del fondo per il finanziamento dei programmi regionali di sviluppo di cui all'[art. 9 della legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281#art_9). Il Ministro per il tesoro provvedera', con propri decreti, alle conseguenti variazioni compensative nel conto dei residui delle amministrazioni interessate. Le somme trasferite al fondo, saranno assegnate, entro un biennio, alle amministrazioni regionali sulla base dei criteri che il Comitato interministeriale per la programmazione economica determinera', in relazione a quanto previsto nel secondo comma del predetto art. 9 della legge n. 281 e tenuto anche conto dell'originaria destinazione delle somme medesime.
 
 ## Art. 11.
 
@@ -127,7 +127,7 @@ Sono trasferiti alle Regioni a statuto ordinario, nel cui territorio hanno sede,
  f) dispensari antivenerei;
  g) ogni altro organismo avente sede presso gli uffici trasferiti alle regioni con il primo comma del presente articolo e la cui attivita' sia attinente alle funzioni amministrative trasferite alle regioni con il presente decreto.
  Gli ufficiali sanitari del comune dei consorzi comunali cessano di essere organi periferici del Ministero della sanita' e divengono organismi periferici della regione nel cui territorio operano.
- Fino a quando non sara' provveduto ai sensi della [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), al riordinamento dei servizi del Ministero della sanita' ed in particolare degli uffici speciali di sanita' di cui agli articoli 28 e seguenti del testo unico approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); e successive modificazioni, i medici e i veterinari provinciali continueranno ad esercitare, quali organi dello Stato, le attribuzioni ad essi attualmente spettanti qualora preposti ad uffici speciali di sanita' marittima, aerea e di confine, ai fini della profilassi internazionale delle malattie infettive e diffusive.
+ Fino a quando non sara' provveduto ai sensi della [legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775), al riordinamento dei servizi del Ministero della sanita' ed in particolare degli uffici speciali di sanita' di cui agli articoli 28 e seguenti del testo unico approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); e successive modificazioni, i medici e i veterinari provinciali continueranno ad esercitare, quali organi dello Stato, le attribuzioni ad essi attualmente spettanti qualora preposti ad uffici speciali di sanita' marittima, aerea e di confine, ai fini della profilassi internazionale delle malattie infettive e diffusive.
 
 ## Art. 13.
 
@@ -135,7 +135,7 @@ Ai sensi dell'[art. 17, lettera b), della legge 16 maggio 1970, n. 281](https://
  La delega riguarda, in particolare, le funzioni amministrative concernenti:
  1) la profilassi delle malattie infettive e diffusive di cui al precedente art. 6, n. 3); le vaccinazioni obbligatorie tranne che nei porti, aeroporti e posti di confine;
  2) l'assistenza sanitaria agli invalidi civili ed agli altri soggetti di cui alla [legge 30 marzo 1971, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20gennaio%201971%20n.%205%20e%20nuove%20norme%20in%20favore%20dei%20mutilati%20ed%20invalidi%20civili.md), fino all'entrata in vigore della riforma sanitaria;
- 3) la imposizione dell'obbligo per le province di istituire i servizi integrativi previsti dall'[art. 92, primo comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_92-com1) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), qualora sussistano le particolari condizioni di cui al secondo comma dell'articolo stesso;
+ 3) la imposizione dell'obbligo per le province di istituire i servizi integrativi previsti dall'[art. 92, primo comma, del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), qualora sussistano le particolari condizioni di cui al secondo comma dell'articolo stesso;
  4) i servizi di vigilanza igienica e di profilassi negli enti locali e loro consorzi;
  5) i concorsi e lo stato giuridico degli ufficiali sanitari, dei veterinari addetti alla vigilanza, ispezione e polizia veterinaria, dei veterinari comunali capo e dei direttori di pubblico macello;
  6) le tariffe concernenti le prestazioni a privati da parte dei laboratori di igiene e profilassi delle province, nonche' quelle concernenti le: prestazioni eseguite nell'interesse privato da parte degli ufficiali sanitari e dei veterinari comunali;
@@ -233,17 +233,17 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  nori. . . . . . . . . . . . . . . . . . . . . . . 100 1182 - Spese per cura e mantenimento dei malati ve-
  nerei, per la fornitura di medicinali speci-
  fici e per esami sierologici ed altri accer-
- tamenti ([articoli 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_300), [303](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_303) e [304 del testo
- unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_304), approvato con
- [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e arti-
+ tamenti ([articoli 300](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [303](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [304 del testo
+ unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con
+ [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e arti-
  coli 8, 16 e 19 della [legge 25 luglio 1956,
  n. 837](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20della%20legislazione%20vigente%20per%20la%20profilassi%20delle%20malattie%20veneree.md)) (Spese obbligatorie). . . . . . . . . . . 600 1183 - Spese di spedalita per ammalati affetti da
  lebbra ([articolo 2 della legge 27 giugno
  1967, n. 533](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20dellarticolo%201%20della%20legge%2026%20aprile%201964%20n.%20308%20concernente%20la%20misura%20dellaiuto%20economico%20ai%20lebbrosi%20e%20relativi%20familiari%20a%20carico%20e%20per%20la%20modifica%20del%20terzo%20comma%20dellarticol_7d095952a653.md)) (Spese obbligatorie). . . . . . . . 650 1201 - Concorsi per l'istituzione, l'arredamento e
  il funzionamento dei dispensari antivenerei . . . 400 1207 - Interventi per la lotta contro il tracoma
- ([art. 285 del testo unico delle leggi sanita](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_285)-
+ ([art. 285 del testo unico delle leggi sanita](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)-
  rie, approvato con [regio decreto 27 luglio
- 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)). . . . . . . . . . . . . . . . . . 396 1250 - Indennita di residenza a favore dei titolari
+ 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)). . . . . . . . . . . . . . . . . . 396 1250 - Indennita di residenza a favore dei titolari
  di farmacie rurali, indennita di gestione
  dei dispensari farmaceutici e contributi a
  favore dei comuni gestori di farmacie rurali
@@ -284,16 +284,16 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  14 febbraio 1904, n. 36](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riguardante%20disposizioni%20sui%20manicomi%20e%20sugli%20alienati.%20004U0036.md) e [art. 3 del decreto
  del Presidente della Repubblica 11 febbraio
  1961, n. 249](Disposizioni%20relative%20agli%20enti%20operanti%20nel%20settore%20sanitario.md)) . . . . . . . . . . . . . . . . . . 20.2 1141 - Acquisto, conservazione e distribuzione di
- materiale profilattico ([articoli 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_183) e [34 del
- testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_34), approvato
+ materiale profilattico ([articoli 183](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [34 del
+ testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato
  con [regio decreto 27 luglio 1934, n. 1265 e
- art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_2) della [legge 4 febbraio 1966, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-02-04;51)). . . . 2.000 1144 - Spese per l'acquisto di materiale per la lot-
+ art. 2](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) della [legge 4 febbraio 1966, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-02-04;51)). . . . 2.000 1144 - Spese per l'acquisto di materiale per la lot-
  ta contro la malaria, contro le mosche e gli
  altri artropodi vettori di agenti patogeni. -
  Spese per la profilassi e l'assistenza sani-
  taria antimalarica ([art. 328 del testo unico
- delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_328), approvato con [regio
- decreto 27 luglio 1934, numero 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)). . . . . . . 175 1148 - Spese per la lotta contro le parassitosi,
+ delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio
+ decreto 27 luglio 1934, numero 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)). . . . . . . 175 1148 - Spese per la lotta contro le parassitosi,
  nonche per l'assistenza degli affetti da
  tali malattie . . . . . . . . . . . . . . . . . . 0.4 1150 - Compensi ai medici incaricati di coadiuvare
  temporaneamente il medico provinciale nella
@@ -308,10 +308,10 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  te e dell'abitato, per la profilassi e l'as-
  sistenza sanitaria antimalarica e perla lotta
  contro le mosche e gli altri artropodi vetto-
- ri di agenti patogeni ([articoli 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_317), [321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_321), [322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_322)
- e [328 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_328),
+ ri di agenti patogeni ([articoli 317](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [321](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [322](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)
+ e [328 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md),
  approvato con [regio decreto 27 luglio 1934,
- n. 1265 e articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_4) e [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_5) della [legge 20 marzo
+ n. 1265 e articoli 4](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [5](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) della [legge 20 marzo
  1941, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Raccolta%20trasporto%20e%20smaltimento%20dei%20rifiuti%20solidi%20urbani.%20041U0366.md)) . . . . . . . . . . . . . . . . . . 200 1167 - Contributi per la lotta contro le parassi-
  tosi, nonche per l'assistenza degli affetti
  da tali malattie. . . . . . . . . . . . . . . . . 40 1168 - Contributi ai comuni con popolazione inferio-
@@ -321,31 +321,31 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  14 del decreto del Presidente della Repub-
  blica 11 febbraio 1961, n. 264) . . . . . . . . . 285 1181 - Spese per l'acquisto di radium ed isotopi
  radioattivi ([art. 336, lettera a) del testo
- unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_336-leta), approvato con
- [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)). . . . . . 16 1188 - Spese per la profilassi delle malattie vene-
+ unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con
+ [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)). . . . . . 16 1188 - Spese per la profilassi delle malattie vene-
  ree. Competenze agli ispettori dermosifilo-
  grafi. Premi ai sanitari per l'attivita nel-
  la lotta antivenerea (art. 306 del testo uni-
  co delle leggi sanitarie, approvato con [regio
- decreto 27 luglio 1934, n. 1265 e art. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_10)
+ decreto 27 luglio 1934, n. 1265 e art. 10](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)
  della [legge 25 luglio 1956, n. 837](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20della%20legislazione%20vigente%20per%20la%20profilassi%20delle%20malattie%20veneree.md)) . . . . . . . 75 1202 - Sussidi per la lotta contro la lebbra (arti-
  coli 289 e 290 del [testo unico delle leggi
- sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con regio decreto 27 lu-
+ sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con regio decreto 27 lu-
  glio 1934, n. 1265) . . . . . . . . . . . . . . . 65 1203 - Sussidi a titolo di soccorso giornaliero agli
  infermi affetti da lebbra ed ai loro fami-
  liari a carico ([legge 3 giugno 1971, n. 404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-06-03;404))
  (Spese obbligatorie) a) . . . . . . . . . . . . . 473 1204 - Contributi e sussidi per la lotta contro la
  tubercolosi ([art. 282 del testo unico delle
- leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_282), approvato con [regio decreto
- 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)). . . . . . . . . . . . . 17.500 1205 - Assegni post-sanatoriali agli infermi tuber-
+ leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto
+ 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)). . . . . . . . . . . . . 17.500 1205 - Assegni post-sanatoriali agli infermi tuber-
  colotici assistiti dai consorzi provinciali
  antitubercolari e relative maggiorazioni per
  i familiari a carico ([art. 5 della legge
  14 dicembre 1970, n. 1088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-14;1088#art_5)) (Spese obbligato-
  rie) c) . . . . . . . . . . . . . . . . . . . . . 3.900 1208 - Interventi nel settore della puericultura
- ([art. 311 del testo unico delle leggi sanita](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_311)-
+ ([art. 311 del testo unico delle leggi sanita](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)-
  rie, approvato con [regio decreto 27 luglio
- 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265)) e sussidi alle ostetriche con-
+ 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)) e sussidi alle ostetriche con-
  dotte che abbiano coperato alla tutela della
  salute dei bambini (art. 6 del regolamento
  approvato con decreto luogotenenziale 4 ago-
@@ -366,13 +366,13 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  n. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramento%20delle%20prestazioni%20in%20favore%20dei%20tubercolotici%20assistiti%20dai%20Consorzi%20provinciali%20antitubercolari.md), modificato dall'[articolo 3 della legge
  21 febbraio 1969, numero 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20alla%20legge%2011%20gennaio%201967%20n.%201%20riguardante%20miglioramenti%20economici%20a%20favore%20dei%20tubercolotici%20non%20assistiti%20dallIstituto%20nazionale%20della%20previdenza%20sociale.md)) (Spese obbliga-
  torie) c) . . . . . . . . . . . . . . . . . . . . 2.975 1242 - Spese per le ispezioni alle farmacie ed alle
- officine farmaceutiche ([articoli 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_127), [128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_128),
- [145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_145), [161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_161), [180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_180) e [189 del testo unico delle
- leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_189), approvato con [regio decreto
- 27 luglio 1934, n. 1265, nonche articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_13)
- e [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_14) dei regolamenti approvati rispetti-
+ officine farmaceutiche ([articoli 127](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [128](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md),
+ [145](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [161](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [180](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [189 del testo unico delle
+ leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto
+ 27 luglio 1934, n. 1265, nonche articoli 13](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)
+ e [14](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) dei regolamenti approvati rispetti-
  vamente con [regi decreti 6 dicembre 1928,
- n. 3112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201070%20contenente%20disposizioni%20varie%20sulla%20sanita%20pubblica.%20028U3112.md) e [3 marzo 1927, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-03;478)) . . . . . . . . . 25 
+ n. 3112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201070%20contenente%20disposizioni%20varie%20sulla%20sanita%20pubblica.%20028U3112.md) e [3 marzo 1927, n. 478](../Regi%20decreti/Approvazione%20del%20regolamento%20contenente%20norme%20per%20la%20produzione%20ed%20il%20commercio%20delle%20specialita%20medicinali.%20027U0478.md)) . . . . . . . . . 25 
  b) Spese di personale ed accessorie:
 
  STATO DI PREVISIONE

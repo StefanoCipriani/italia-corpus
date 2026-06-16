@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 29 gennaio 1934, n. 454](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20disciplinamento%20delle%20mostre%20fiere%20ed%20esposizioni.%20034U0454.md), convertito nella [legge 5 luglio 1934, n. 1607](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20gennaio%201934%20n.%20454%20contenente%20norme%20per%20il%20disciplinamento%20delle%20Mostre%20Fiere%20ed%20Esposizioni.%20034U1607.md), sulla disciplina delle mostre, fiere ed esposizioni;
 
-Visto il [regio decreto 3 ottobre 1929, n. 1874](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1874), col quale viene costituito, con sede in Bari, l'Ente autonomo "Fiera del Levante" e se ne approva lo statuto;
+Visto il [regio decreto 3 ottobre 1929, n. 1874](../Regi%20decreti/Costituzione%20con%20sede%20in%20Bari%20di%20un%20Ente%20autonomo%20denominato%20Fiera%20del%20Levante.%20029U1874.md), col quale viene costituito, con sede in Bari, l'Ente autonomo "Fiera del Levante" e se ne approva lo statuto;
 
 Visto il [regio decreto 19 maggio 1938, n. 704](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20dellEnte%20autonomo%20Fiera%20del%20Levante%20in%20Bari.%20038U0704.md), con cui viene approvato un nuovo statuto dell'Ente sopraindicato, modificato con [regio decreto 6 luglio 1940, n. 931](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dello%20statuto%20dellEnte%20autonomo%20Fiera%20del%20Levante%20di%20Bari.%20040U0931.md);
 

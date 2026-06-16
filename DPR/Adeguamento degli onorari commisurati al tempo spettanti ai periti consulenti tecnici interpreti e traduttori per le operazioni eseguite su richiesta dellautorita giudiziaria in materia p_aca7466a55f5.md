@@ -10,4 +10,4 @@ vigente: true
 
 ## Art. 1.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 30 MAGGIO 2002, N. 115](Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 30 MAGGIO 2002, N. 115](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md)))

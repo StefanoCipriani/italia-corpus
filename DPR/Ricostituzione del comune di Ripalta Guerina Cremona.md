@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 15 aprile 1928, n. 951](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;951), con il quale i comuni di Ripalta Guerina, Zappello ed alcune zone del territorio di Ripalta Nuova furono riuniti in Comune unico con denominazione Ripalta Cremasca;
+Visto il [regio decreto 15 aprile 1928, n. 951](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ripalta%20Guerina%20Zappello%20e%20Ripalta%20Nuova%20in%20un%20unico%20comune%20denominato%20%20Ripalta%20Cremasca%20%20e%20aggregazione%20al%20comune%20di%20Crema%20dei%20comuni%20di%20San%20Bernardino%20Santa%20Maria_5a6e3ffecb9d.md), con il quale i comuni di Ripalta Guerina, Zappello ed alcune zone del territorio di Ripalta Nuova furono riuniti in Comune unico con denominazione Ripalta Cremasca;
 
 Vista l'istanza 21 dicembre 1946, con la quale la maggioranza dei contribuenti del cessato comune di Ripalta Guerina ne ha chiesto la ricostituzione in Comune autonomo;
 

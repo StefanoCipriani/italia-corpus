@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il decreto reale 6 luglio 1911, n. 1258, con il quale fu approvato e reso esecutorio l'atto 7 giugno 1911 per la concessione di costruzione e di esercizio della ferrovia Agnone-Pescolanciano alla Societa' per la ferrovia Agnone-Pietrabbondanza-Pescolanciano;
  Visto il decreto reale 29 agosto 1942, n. 1183, con il quale la Societa' Automobilistica Molisana fu riconosciuta, con effetto dal 1 luglio 1942, titolare della concessione della ferrovia, in luogo e vece della fallita, Societa' per la ferrovia Agnone-Pescolanciano;
- Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447), e le successive aggiunte e modificazioni;
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e le successive aggiunte e modificazioni;
  Vista la [legge 14 giugno 1949, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-14;410);
  Visto il voto 19 luglio 1951, n. 200, della Commissione interministeriale di cui all'[art. 12 della legge 14 luglio 1949, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-14;410#art_12);
  Udito il parere del Consiglio di Stato;

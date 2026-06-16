@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-08;1604), e successive modificazioni ed aggiunte;
+Visto il testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md), e successive modificazioni ed aggiunte;
 
 Vista la Convenzione italo-elvetica 13 giugno 1906 resa esecutiva con [regio decreto 17 gennaio 1907, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20Convenzione%20fra%20lItalia%20e%20la%20Svizzera%20per%20disposizioni%20uniformi%20sulla%20pesca%20nelle%20acque%20comuni%20ai%20due%20Stati.%20007U0013.md), modificata dall'atto addizionale 8 febbraio 1911, reso esecutivo con [regio decreto 22 marzo 1911, n. 292](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20da%20piena%20ed%20intera%20esecuzione%20allannesso%20atto%20addizionale%20alla%20Convenzione%20italo-elvetica%20per%20la%20pesca%20nelle%20acque%20comuni%20ai%20due%20Stati.%20011U0292.md), sulla pesca nelle acque comuni ai due Stati;
 

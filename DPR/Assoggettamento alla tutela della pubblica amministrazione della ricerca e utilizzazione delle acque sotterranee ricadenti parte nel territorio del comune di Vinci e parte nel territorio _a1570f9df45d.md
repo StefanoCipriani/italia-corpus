@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94) approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), col quale il Governo e' autorizzato a stabilire i comprensori nei quali la ricerca, la estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica amministrazione;
+ Visto l'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), col quale il Governo e' autorizzato a stabilire i comprensori nei quali la ricerca, la estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica amministrazione;
  Ritenuta la necessita' di dichiarare soggette alla tutela della pubblica amministrazione due zone appartenenti l'una al territorio del comune di Vinci e l'altra al territorio del comune di Cerreto Guidi (provincia di Firenze) delimitate come nella parte dispositiva del presente decreto;
  Visto il voto 16 ottobre 1959, n. 1831, del Consiglio superiore dei lavori pubblici;
  Sentito il Consiglio dei Ministri;

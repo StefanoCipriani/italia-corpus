@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto 26 marzo 1911, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435), con il quale sono state stabilite norme per la conservazione e l'amministrazione del palazzo di giustizia di Roma, piazza Cavour;
+Visto il [regio decreto 26 marzo 1911, n. 435](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20la%20concessione%20e%20lamministrazione%20del%20palazzo%20di%20giustizia%20in%20Roma%20011U0435.md), con il quale sono state stabilite norme per la conservazione e l'amministrazione del palazzo di giustizia di Roma, piazza Cavour;
 
 Considerata la necessita' di apportare modifiche alla disposizione contenuta nel secondo comma dell'art. 2 del citato regolamento per quanto attiene alla presidenza della commissione cui e' devoluta l'amministrazione e manutenzione di detto edificio, in maniera da renderla automaticamente corrispondente alla reale utilizzazione dell'immobile medesimo;
 
@@ -30,7 +30,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il [secondo comma dell'art. 2 del regio decreto 26 marzo 1911, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-03-26;435#art_2-com2), e' sostituito dal seguente:
+Il [secondo comma dell'art. 2 del regio decreto 26 marzo 1911, n. 435](../Regi%20decreti/Che%20stabilisce%20le%20norme%20per%20la%20concessione%20e%20lamministrazione%20del%20palazzo%20di%20giustizia%20in%20Roma%20011U0435.md), e' sostituito dal seguente:
  "La commissione e' presieduta dal presidente della Corte di cassazione o dal magistrato da lui delegato; l'ufficio di segreteria e' disimpegnato dal funzionario di cancelleria o di segreteria.".
 
 Note alle premesse:

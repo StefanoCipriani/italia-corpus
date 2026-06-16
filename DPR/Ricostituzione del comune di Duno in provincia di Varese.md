@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 12 gennaio 1928, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-12;63), con il quale i comuni di Cuvio, Cavona, Cuveglio in Valle, Duno e Vergobbio, in provincia di Varese, furono soppressi e fusi in Comune unico con denominazione Cuvio e con capoluogo Cuvio;
+Visto il [regio decreto 12 gennaio 1928, n. 63](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cuvio%20Cuveglio%20in%20Valle%20Vergobbio%20Cavona%20e%20Duno%20in%20un%20unico%20Comune%20denominato%20Cuvio.%20028U0063.md), con il quale i comuni di Cuvio, Cavona, Cuveglio in Valle, Duno e Vergobbio, in provincia di Varese, furono soppressi e fusi in Comune unico con denominazione Cuvio e con capoluogo Cuvio;
 
 Vista l'istanza 9 marzo 1947, con la quale la maggioranza dei contribuenti del cessato comune di Duno ne ha chiesto la ricostituzione in Comune autonomo;
 

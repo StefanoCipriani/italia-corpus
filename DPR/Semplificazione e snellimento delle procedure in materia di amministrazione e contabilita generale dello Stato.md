@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 4 della legge 18 marzo 1968, n. 249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordinamento%20dellAmministrazione%20dello%20Stato%20per%20il%20decentramento%20delle%20funzioni%20e%20per%20il%20riassetto%20delle%20carriere%20e%20delle%20retribuzioni%20dei%20dipendenti%20statali.md), concernente delega al Governo per il riordinamento della amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali, sostituito dall'[art. 6 della legge 28 ottobre 1970, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-28;775#art_6), riguardante proroga, modifiche e integrazioni della predetta delega;
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni, concernente "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato";
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, concernente "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato";
 
 Ritenuta la necessita' di provvedere, in attuazione della delega sopra indicata, alla semplificazione ed allo snellimento delle procedure in materia di amministrazione e contabilita' generale dello Stato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-Gli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_10), [52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_52), [59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_59) e [74 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_74), e successive modificazioni, sono sostituiti dai seguenti:
+Gli [articoli 10](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), [52](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), [59](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [74 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, sono sostituiti dai seguenti:
 
  Art. 10, primo comma. - Per l'acquisto all'estero di combustibili, di tabacchi, di beni la cui produzione e' garantita da privativa industriale, di macchinari, di strumenti ed oggetti di precisione che solo ditte straniere possono fornire con i requisiti tecnici ed il grado di perfezione richiesti, nonche' per l'esecuzione allo estero di lavori relativi ai beni predetti e per il noleggio delle navi destinate ai trasporti di combustibili, l'amministrazione puo' provvedere direttamente nei luoghi di produzione e nei principali mercati stranieri a trattativa privata.
  Ai relativi contratti non sono applicabili le norme contenute negli articoli 5, 6, secondo comma, e 19 del presente decreto.
@@ -40,7 +40,7 @@ Gli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.dec
 
 ## Art. 2.
 
-Gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_3), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_12), [36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36), [49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_49), [50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_50) e [51 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_51), e successive modificazioni, sono modificati come segue:
+Gli [articoli 3](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), [12](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), [36](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), [49](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), [50](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e [51 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, sono modificati come segue:
 
  Art. 3. - Il primo comma e' sostituito dai seguenti:
  "I contratti dai quali derivi un'entrata per lo Stato debbono essere preceduti da pubblici incanti, salvo che per particolari ragioni, delle quali dovra' farsi menzione nel decreto di approvazione del contratto, e limitatamente ai casi da determinare con il regolamento, l'amministrazione non intenda far ricorso alla licitazione ovvero nei casi di necessita' alla trattativa privata.
@@ -61,7 +61,7 @@ Gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decr
 
 ## Art. 3.
 
-Al [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), sono aggiunti i seguenti articoli: 5-bis, 59-bis, 61-bis, 67-bis e 68-bis.
+Al [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sono aggiunti i seguenti articoli: 5-bis, 59-bis, 61-bis, 67-bis e 68-bis.
  Art. 5-bis. - Per l'acquisto di autoveicoli, motoveicoli, mezzi di trasporto in genere e loro parti di ricambio, prodotti dall'industria nazionale, nonche' per l'acquisto di carburanti e lubrificanti destinati alle forze armate e forniti dall'industria nazionale, non si applica il disposto del precedente art. 5 e quello del successivo articolo 6, secondo comma.
  Art. 59-bis. - I funzionari delegati hanno l'obbligo di utilizzare interamente i fondi di ciascuna apertura di credito prima di emettere ordinativi o buoni sulle successive aperture di credito.
  I medesimi funzionari delegati, qualora accertino al 20 gennaio una rimanenza di importi non superiore alle lire 10.000 su singoli ordini di accreditamento relativi all'anno decorso, provvedono entro il 31 dello stesso mese ad estinguere tali ordini mediante versamento della detta rimanenza in apposito capitolo dello stato di previsione dell'entrata.
@@ -75,7 +75,7 @@ L'accreditamento al conto corrente postale deve essere eseguito non oltre il qui
 
 ## Art. 4.
 
-L'[art. 38-bis del regio decreto 18 novembre 1923, numero 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_38bis), e successive modificazioni, e' soppresso.
+L'[art. 38-bis del regio decreto 18 novembre 1923, numero 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, e' soppresso.
 
 ## Art. 5.
 

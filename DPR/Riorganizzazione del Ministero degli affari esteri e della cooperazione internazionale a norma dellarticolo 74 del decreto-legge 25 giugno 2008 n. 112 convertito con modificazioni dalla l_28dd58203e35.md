@@ -222,9 +222,9 @@ La Direzione generale per ((l'Africa subsahariana, l'America latina, l'Asia e l'
                         d-bis)
                             tratta le questioni relative alle organizzazioni e istituzioni internazionali competenti per le materie di cui alle lettere ((a), c) e d);))
                         e)
-                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
+                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
                         f)
-                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
+                            LETTERA NON PIU' PREVISTA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md);
                         g)
                             promuove, d'intesa con le altre Direzioni generali competenti, le relazioni bilaterali di natura politica, economica, culturale e in ogni altro settore, attende ai relativi negoziati, cura l'analisi, la definizione e l'attuazione dell'azione diplomatica con i Paesi dell'Asia centro - meridionale e sud-orientale, dell'Estremo Oriente e Oceania, dell'America centrale e meridionale, dell'Africa sub-sahariana, salve ((le competenze della Direzione generale di cui al comma 1 e)) le modifiche che potranno essere disposte con riguardo a singoli Paesi o gruppi di Paesi individuati con decreto ministeriale;
                         h)
@@ -274,11 +274,11 @@ La Direzione generale per la ((crescita e la promozione delle esportazioni)) att
                         f)
                             adotta le opportune iniziative per agevolare l'attivita' presso universita' ed enti di ricerca italiani di docenti e ricercatori stranieri, nonche' l'attivita' presso universita' ed enti di ricerca straniera di docenti e ricercatori italiani;
                         g)
-                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
+                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
                         h)
                             promuove, d'intesa con le competenti amministrazioni pubbliche, la collaborazione internazionale e bilaterale nel settore dello sport;
                         i)
-                            LETTERA SOPPRESSA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md).
+                            LETTERA SOPPRESSA DAL [D.P.R. 29 DICEMBRE 2016, N. 260](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2020%20della%20legge%2011%20agosto%202014%20n.%20125%20nonche%20altre%20modifiche%20allorganizzazione%20e%20ai%20posti%20di%20funzione%20di%20livello%20dirigenziale%20del%20Ministero%20degli%20aff_597b2e583bdb.md).
 
 6.
 
@@ -369,7 +369,7 @@ La Direzione generale per le risorse e ((la formazione)) attende ai seguenti com
                         m)
                             cura le relazioni sindacali e la contrattazione collettiva integrativa;
                         n)
-                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
+                            LETTERA ABROGATA DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md);
                         o)
                             provvede alla formazione ed al perfezionamento professionale del personale del Ministero degli affari esteri, avvalendosi d'intesa con la Scuola nazionale dell'amministrazione con cui segue la preparazione degli aspiranti alla carriera diplomatica.
 
@@ -397,7 +397,7 @@ La Direzione generale per ((il patrimonio e l'amministrazione)) attende ai segue
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md).
+COMMA ABROGATO DAL [D.P.R. 19 NOVEMBRE 2021, N. 211](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20ai%20regolamenti%20di%20cui%20ai%20decreti%20del%20Presidente%20della%20Repubblica%2019%20maggio%202010%20n.%2095%20e%201%20febbraio%202010%20n.%2054.%2021G00232.md).
 
 2.
 
@@ -566,7 +566,7 @@ Fermo restando quanto previsto dal [decreto legislativo 30 marzo 2001, n. 165](.
 
 AGGIORNAMENTO (9)
 
-Il [D.P.R. 3 settembre 2025, n. 160](Regolamento%20concernente%20modifiche%20al%20regolamento%20di%20organizzazione%20del%20Ministero%20degli%20affari%20esteri%20e%20della%20cooperazione%20internazionale%20di%20cui%20al%20decreto%20del%20Presidente%20della%20Repubblica%20_0d49561ded3a.md), ha disposto (con l'art. 1, comma 1, lettera g)) che al comma 2 del presente articolo "alla lettera b), numero 2), le parole: «l'innovazione e la Direzione generale l'amministrazione, l'informatica e le comunicazioni» sono sostituite dalle seguenti: «la formazione e la Direzione generale per il patrimonio e l'amministrazione»".
+Il [D.P.R. 3 settembre 2025, n. 160](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20di%20organizzazione%20del%20Ministero%20degli%20affari%20esteri%20e%20della%20cooperazione%20internazionale%20di%20cui%20al%20decreto%20del%20Presidente%20della%20Repubblica%20_0d49561ded3a.md), ha disposto (con l'art. 1, comma 1, lettera g)) che al comma 2 del presente articolo "alla lettera b), numero 2), le parole: «l'innovazione e la Direzione generale l'amministrazione, l'informatica e le comunicazioni» sono sostituite dalle seguenti: «la formazione e la Direzione generale per il patrimonio e l'amministrazione»".
 
 ## Art. 10.
 

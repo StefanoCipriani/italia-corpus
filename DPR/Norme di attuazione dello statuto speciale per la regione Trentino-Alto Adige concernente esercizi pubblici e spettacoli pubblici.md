@@ -65,7 +65,7 @@ Nell'ambito dei poteri di vigilanza dello Stato di cui all'[art. 9, n. 7), del d
 
 ## Art. 9.
 
-Sino a quando le province non disporranno diversamente la commissione di vigilanza sui locali di pubblico spettacolo e quella per gli esercizi pubblici, previste rispettivamente dagli [articoli 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_80) e [91 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_91) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), conservano la composizione originaria prevista dalle disposizioni in vigore e sono nominate dalla giunta provinciale competente.
+Sino a quando le province non disporranno diversamente la commissione di vigilanza sui locali di pubblico spettacolo e quella per gli esercizi pubblici, previste rispettivamente dagli [articoli 80](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [91 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), conservano la composizione originaria prevista dalle disposizioni in vigore e sono nominate dalla giunta provinciale competente.
 
 ## Art. 10.
 

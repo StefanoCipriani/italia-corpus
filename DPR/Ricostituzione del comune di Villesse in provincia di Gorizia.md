@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 1 marzo 1928, n. 678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-01;678), con il quale i comuni di Romans, Versa e Villesse furono soppressi e riuniti in Comune unico con denominazione e capoluogo "Romans d'Isonzo";
+Visto il [regio decreto 1 marzo 1928, n. 678](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Romans%20Versa%20e%20Villesse%20in%20un%20unico%20Comune%20denominato%20Romans%20dIsonzo.%20028U0678.md), con il quale i comuni di Romans, Versa e Villesse furono soppressi e riuniti in Comune unico con denominazione e capoluogo "Romans d'Isonzo";
 
 Vista l'istanza 11 settembre 1949, con la quale la maggioranza dei contribuenti del cessato comune di Villesse ne ha chiesto la ricostituzione in Comune autonomo;
 

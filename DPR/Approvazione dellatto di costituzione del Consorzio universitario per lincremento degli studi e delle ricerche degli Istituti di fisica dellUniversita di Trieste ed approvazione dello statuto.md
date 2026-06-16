@@ -16,7 +16,7 @@ Veduto lo statuto del Consorzio predetto annesso all'atto stesso di costituzione
 
 Veduta la domanda del rettore della Universita' di Trieste in data 12 novembre 1964, per la erezione del Consorzio in ente morale;
 
-Veduto l'[art. 61 del regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_61), e successive modificazioni e integrazioni;
+Veduto l'[art. 61 del regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni;
 
 Udito il parere del Consiglio di Stato;
 

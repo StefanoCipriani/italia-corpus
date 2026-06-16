@@ -16,7 +16,7 @@ Vista la delibera emessa il 27 luglio 1966 dal comitato speciale del Fondo di pr
 
 Ritenuta la necessita' di provvedere in conformita' alla suddetta delibera del comitato speciale del fondo di previdenza;
 
-Visti la [legge 31 gennaio 1926, n. 100, nonche' l'art. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) del [regio decreto 26 giugno 1924, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-26;1054);
+Visti la [legge 31 gennaio 1926, n. 100, nonche' l'art. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md) del [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
 Udito il parere del Consiglio di Stato;
 

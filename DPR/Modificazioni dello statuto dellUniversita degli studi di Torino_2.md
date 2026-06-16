@@ -14,7 +14,7 @@ Veduto lo statuto dell'Universita' degli studi di Torino, approvato con il [regi
 
 n. 34; 27 aprile 1942, n. 571; 5 settembre 1942, n. 1237 e 24 ottobre 1942, n. 1438, e con i [decreti del Capo provvisorio dello Stato del 4 febbraio 1947, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1947-03-07;1727) [21 febbraio 1949, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-02-21;43), e [21 aprile 1949, n. 613](Modificazioni%20dello%20statuto%20dellUniversita%20degli%20studi%20di%20Torino.md);
 
-Veduto l'art. 15 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto l'art. 15 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
 

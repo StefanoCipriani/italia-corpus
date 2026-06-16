@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la pubblica istruzione di concerto col Ministro 
 
 ## Articolo unico.
 
-E' istituita in Lecce una libera Universita', costituita dalle Facolta' di lettere e filosofia e di magistero mantenuta a totale carico del Consorzio anzidetto, appartenente alla categoria di cui al n. 2 dell'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+E' istituita in Lecce una libera Universita', costituita dalle Facolta' di lettere e filosofia e di magistero mantenuta a totale carico del Consorzio anzidetto, appartenente alla categoria di cui al n. 2 dell'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
  E' approvato il relativo statuto annesso al presente decreto e firmato d'ordine del Presidente della Repubblica dal Ministro per la pubblica istruzione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

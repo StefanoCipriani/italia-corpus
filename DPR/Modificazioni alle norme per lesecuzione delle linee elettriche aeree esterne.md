@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 4 del decreto legislativo luogotenenziale 1 marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md);
 
-Visto il [regio decreto 25 novembre 1940, n. 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-11-25;1969), con il quale sono state approvate e rese obbligatorie le Norme per l'esecuzione delle linee elettriche aeree esterne;
+Visto il [regio decreto 25 novembre 1940, n. 1969](../Regi%20decreti/Norme%20per%20lesecuzione%20delle%20linee%20elettriche%20aeree%20esterne%20040U1969.md), con il quale sono state approvate e rese obbligatorie le Norme per l'esecuzione delle linee elettriche aeree esterne;
 
 Viste le varianti predisposte, per le norme predette, dal Consiglio nazionale delle ricerche, a mezzo del Comitato elettrotecnico italiano;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, d'intesa con i Ministr
 
 ## Art. 1.
 
-Tra il secondo ed il terzo comma dell'art. 9 delle Norme per l'esecuzione delle linee elettriche aeree esterne, approvate e rese obbligatorie con [regio decreto 25 novembre 1940, n. 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-11-25;1969), e' inserito il seguente comma:
+Tra il secondo ed il terzo comma dell'art. 9 delle Norme per l'esecuzione delle linee elettriche aeree esterne, approvate e rese obbligatorie con [regio decreto 25 novembre 1940, n. 1969](../Regi%20decreti/Norme%20per%20lesecuzione%20delle%20linee%20elettriche%20aeree%20esterne%20040U1969.md), e' inserito il seguente comma:
  "Quando il calcolo delle fondazioni venga eseguito con un metodo suffragato dall'esperienza e con formule che tengano conto, anche implicitamente, del necessario grado di sicurezza, non e' necessario procedere alla verifica secondo il comma precedente".
  Il terzo comma dell'art. 9 e' modificato come segue:
  "Nel caso di sostegni infissi nella roccia o in casi analoghi non si richiede l'osservanza di alcuna particolare prescrizione di calcolo".

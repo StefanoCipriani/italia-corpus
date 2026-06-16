@@ -20,7 +20,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- In attesa della emanazione del regolamento per l'esecuzione della [legge 17 luglio 1954, n. 522, l'articolo 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;522#art_16) del [regio decreto 13 aprile 1939, n. 1101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-13;1101), e' modificato nel modo seguente:
+ In attesa della emanazione del regolamento per l'esecuzione della [legge 17 luglio 1954, n. 522, l'articolo 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-17;522#art_16) del [regio decreto 13 aprile 1939, n. 1101](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U1101.md), e' modificato nel modo seguente:
 
  I lavori di costruzione di navi mercantili destinate alla navigazione marittima si intendono iniziati quando sia stata impostata la chiglia sullo scalo o, in mancanza, quando lo stato di avanzamento dello scafo nudo abbia raggiunto le seguenti percentuali: 5% per navi fino a 6000 tonnellate di stazza lorda;
  4% per navi da 6001 a 8000 tonnellate di stazza lorda;

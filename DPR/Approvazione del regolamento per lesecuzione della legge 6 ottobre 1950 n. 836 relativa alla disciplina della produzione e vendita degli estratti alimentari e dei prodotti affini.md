@@ -61,7 +61,7 @@ La Commissione deve accertare che gli stabilimenti si trovino in condizioni igie
  c) apparecchi di riscaldamento a vapore o elettrici per la preparazione ed il confezionamento;
  d) ambienti destinati a contenere gli apparecchi di produzione di vapore, distinti da quelli di lavorazione;
  e) impianti adeguati per una razionale lavorazione dei prodotti, rispondenti ai moderni requisiti tecnologici ed igienici.
- I macelli annessi alle fabbriche di estratti di carne, brodi concentrati e dadi debbono corrispondere ai requisiti voluti dal [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298).
+ I macelli annessi alle fabbriche di estratti di carne, brodi concentrati e dadi debbono corrispondere ai requisiti voluti dal [regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md).
 
 ### Art. 4.
 
@@ -75,7 +75,7 @@ E' vietato tenere, nei locali adibiti alla produzione e alla confezione degli es
 
 ### Art. 6.
 
-Le disposizioni contenute nell'[art. 262 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_262), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), si applicano anche alle persone addette alla produzione, manipolazione e confezione dei prodotti disciplinati dalla [legge 6 ottobre 1950, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-06;836), e dal presente regolamento.
+Le disposizioni contenute nell'[art. 262 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), si applicano anche alle persone addette alla produzione, manipolazione e confezione dei prodotti disciplinati dalla [legge 6 ottobre 1950, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-06;836), e dal presente regolamento.
 
 ### Art. 7.
 
@@ -91,7 +91,7 @@ Gli estratti, i brodi concentrati, i dadi, ed i prodotti affini di origine anima
 
 AGGIORNAMENTO (2)
 
-La [L. 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) ha disposto (con l'art. 31) che "Entro centoventi giorni dalla data di entrata in vigore della presente legge, il Ministro della sanita' adotta con decreti le disposizioni di attuazione delle direttive comunitarie in materia di additivi alimentari. A decorrere dalla data di entrata in vigore dei suddetti decreti, cessa il corrispondente divieto di impiego negli alimenti e nelle bevande degli additivi" previsto dall'articolo 7, primo comma, lettera c), del regolamento di cui al [decreto del Presidente della Repubblica 30 maggio 1953, n. 567](Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%206%20ottobre%201950%20n.%20836%20relativa%20alla%20disciplina%20della%20produzione%20e%20vendita%20degli%20estratti%20alimentari%20e%20dei%20prodotti%20affini.md)".
+La [L. 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) ha disposto (con l'art. 31) che "Entro centoventi giorni dalla data di entrata in vigore della presente legge, il Ministro della sanita' adotta con decreti le disposizioni di attuazione delle direttive comunitarie in materia di additivi alimentari. A decorrere dalla data di entrata in vigore dei suddetti decreti, cessa il corrispondente divieto di impiego negli alimenti e nelle bevande degli additivi" previsto dall'articolo 7, primo comma, lettera c), del regolamento di cui al [decreto del Presidente della Repubblica 30 maggio 1953, n. 567](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%206%20ottobre%201950%20n.%20836%20relativa%20alla%20disciplina%20della%20produzione%20e%20vendita%20degli%20estratti%20alimentari%20e%20dei%20prodotti%20affini.md)".
 
 ### Art. 8.
 

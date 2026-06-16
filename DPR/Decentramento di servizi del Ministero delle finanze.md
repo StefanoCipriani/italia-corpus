@@ -22,14 +22,14 @@ TITOLO II
 
 ### Art. 2.
 
-PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)
+PROVVEDIMENTO ABROGATO DAL [D.P.R. 26 MARZO 2001, N. 107](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20finanze.md)
 ((3))
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 13 febbraio 2001, n. 189](Regolamento%20di%20semplificazione%20del%20procedimento%20relativo%20allalienazione%20di%20beni%20mobili%20dello%20Stato%20n.%2034%20allegato%201%20legge%208%20marzo%201999%20n.%2050.md) ha disposto (con l'art. 12, comma 1) che "Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), dalla data di entrata in vigore del presente regolamento sono abrogati [...] nonche' le disposizioni riguardanti l'alienazione di beni mobili dello Stato, contenute nell'[articolo 2 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 72](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decentramento%20di%20servizi%20del%20Ministero%20delle%20finanze.md)"
+Il [D.P.R. 13 febbraio 2001, n. 189](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20del%20procedimento%20relativo%20allalienazione%20di%20beni%20mobili%20dello%20Stato%20n.%2034%20allegato%201%20legge%208%20marzo%201999%20n.%2050.md) ha disposto (con l'art. 12, comma 1) che "Ai sensi dell'[articolo 20, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), dalla data di entrata in vigore del presente regolamento sono abrogati [...] nonche' le disposizioni riguardanti l'alienazione di beni mobili dello Stato, contenute nell'[articolo 2 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 72](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decentramento%20di%20servizi%20del%20Ministero%20delle%20finanze.md)"
 
 ### Art. 3.
 

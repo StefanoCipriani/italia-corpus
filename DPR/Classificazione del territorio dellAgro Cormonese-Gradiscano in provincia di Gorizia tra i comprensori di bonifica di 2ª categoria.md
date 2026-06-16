@@ -16,13 +16,13 @@ Considerato che detto territorio della estensione di 8670 ettari, ricade nella p
 
 Sentito il Comitato speciale per la bonifica;
 
-Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 
 ## Articolo unico.
 
-Il territorio dell'Agro Cormonese-Gradiscano, della estensione di ettari 8670, ricadente nella parte sudoccidentale della provincia di Gorizia e delimitato come nelle premesse, e' classificato, ai sensi e per gli effetti dell'[art. 2 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_2), tra i comprensori di bonifica di seconda categoria sulla base della corografia che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
+Il territorio dell'Agro Cormonese-Gradiscano, della estensione di ettari 8670, ricadente nella parte sudoccidentale della provincia di Gorizia e delimitato come nelle premesse, e' classificato, ai sensi e per gli effetti dell'[art. 2 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), tra i comprensori di bonifica di seconda categoria sulla base della corografia che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

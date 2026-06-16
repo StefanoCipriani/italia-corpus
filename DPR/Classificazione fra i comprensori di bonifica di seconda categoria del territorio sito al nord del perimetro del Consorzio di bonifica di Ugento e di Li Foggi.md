@@ -14,7 +14,7 @@ Vista la domanda in data 30 maggio 1960, con la quale il Consorzio di bonifica d
 
 Ritenuto che sussistono i requisiti previsti dalla legge per procedere alla richiesta classifica e che il territorio da classificare puo' essere delimitato secondo le indicazioni risultanti dalla acclusa corografia in scala 1: 100.000;
 
-Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+Visto l'[art. 3 del regio decreto 13 febbraio 1933, numero 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Sentito il parere del Consiglio superiore dell'agricoltura;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con 
 
 ## Articolo unico.
 
-Il territorio a nord dell'attuale perimetro del Consorzio sopracitato e quello intercluso tra i due originari comprensori classificati di Ugento e di Li Foggi, della estensione di circa 10.728 ettari, e classificato ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), fra i comprensori di bonifica di seconda categoria, sulla base della corografia indicativa che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
+Il territorio a nord dell'attuale perimetro del Consorzio sopracitato e quello intercluso tra i due originari comprensori classificati di Ugento e di Li Foggi, della estensione di circa 10.728 ettari, e classificato ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), fra i comprensori di bonifica di seconda categoria, sulla base della corografia indicativa che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
 
  Il presente decreto, munito del sigillo di Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti, di osservarlo e di farlo osservare.
 

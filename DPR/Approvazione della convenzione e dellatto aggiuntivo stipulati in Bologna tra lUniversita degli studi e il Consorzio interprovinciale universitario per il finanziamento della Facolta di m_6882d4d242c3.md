@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni;
+Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -22,7 +22,7 @@ Sono approvati e resi esecutivi l'annessa convenzione e l'atto aggiuntivo stipul
 
 ## Art. 2.
 
-In aggiunta alle Facolta' della Universita' di Bologna indicate nella tabella A annessa al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni, e' istituita la Facolta' di magistero, la quale viene mantenuta con i mezzi forniti, secondo la convenzione e l'atto aggiuntivo di cui al precedente articolo, dall'ente sovventore.
+In aggiunta alle Facolta' della Universita' di Bologna indicate nella tabella A annessa al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni, e' istituita la Facolta' di magistero, la quale viene mantenuta con i mezzi forniti, secondo la convenzione e l'atto aggiuntivo di cui al precedente articolo, dall'ente sovventore.
 
 ## Art. 3.
 

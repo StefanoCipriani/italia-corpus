@@ -250,10 +250,10 @@ E' vietata ogni gestione di fondi al di fuori del bilancio.
 
 3.
 
-Le norme del presente regolamento non si applicano alle entrate di pertinenza dello Stato di cui all'[articolo 46 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_46), cui continua ad applicarsi la normativa vigente. Tali entrate sono pertanto iscritte in bilancio, in entrata ed in uscita, come una specifica voce delle partite di giro.
+Le norme del presente regolamento non si applicano alle entrate di pertinenza dello Stato di cui all'[articolo 46 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), cui continua ad applicarsi la normativa vigente. Tali entrate sono pertanto iscritte in bilancio, in entrata ed in uscita, come una specifica voce delle partite di giro.
 
 Note all'art. 7: 
- - Si riporta l'[art. 46 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_46) recante «Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato», pubblicato nella Gazzetta Ufficiale 23 novembre 1923, n. 275: 
+ - Si riporta l'[art. 46 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) recante «Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato», pubblicato nella Gazzetta Ufficiale 23 novembre 1923, n. 275: 
  «Art. 46. - Le somme di spettanza dello Stato introitate per qualsivoglia titolo dagli incaricati della riscossione debbono essere integralmente versate nelle casse dello Stato, nei termini stabiliti dalle leggi e dai regolamenti».
 
 ### Art. 8. — Classificazione delle entrate e delle spese
@@ -512,7 +512,7 @@ Il controllo di cui al comma 6 e' esercitato con la collaborazione dell'esperto 
 
 8.
 
-Fermo restando quanto previsto dall'articolo 13, comma 2, il titolare della gestione ((, il dirigente preposto al centro interservizi e il coordinatore del settore amministrativo-contabile che non osservino i termini stabiliti dal presente regolamento per la presentazione del conto consuntivo possono)) incorrere, indipendentemente dagli eventuali provvedimenti disciplinari, nel giudizio della Corte dei conti ai termini dell'[articolo 83 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_83).
+Fermo restando quanto previsto dall'articolo 13, comma 2, il titolare della gestione ((, il dirigente preposto al centro interservizi e il coordinatore del settore amministrativo-contabile che non osservino i termini stabiliti dal presente regolamento per la presentazione del conto consuntivo possono)) incorrere, indipendentemente dagli eventuali provvedimenti disciplinari, nel giudizio della Corte dei conti ai termini dell'[articolo 83 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md).
 
 9.
 
@@ -556,7 +556,7 @@ Le entrate e le uscite ad esse relative sono iscritte nel bilancio degli uffici 
 
 3.
 
-Le somme di cui al comma 1 sono giustificate mediante rendiconti, predisposti sulla base degli appositi registri e da trasmettersi entro sessanta giorni dalla chiusura del periodo da rendicontare ai competenti uffici del Ministero, dandone comunicazione, anche mediante evidenze informatiche all'ufficio centrale del bilancio presso il Ministero degli affari esteri ed alla Corte dei conti. In caso di ritardo nella presentazione dei rendiconti imputabile al funzionario delegato, quest'ultimo e' passibile delle penalita' previste dall'[articolo 60 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_60), nonche' dall'[articolo 337 del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_337), come modificato dal [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md).
+Le somme di cui al comma 1 sono giustificate mediante rendiconti, predisposti sulla base degli appositi registri e da trasmettersi entro sessanta giorni dalla chiusura del periodo da rendicontare ai competenti uffici del Ministero, dandone comunicazione, anche mediante evidenze informatiche all'ufficio centrale del bilancio presso il Ministero degli affari esteri ed alla Corte dei conti. In caso di ritardo nella presentazione dei rendiconti imputabile al funzionario delegato, quest'ultimo e' passibile delle penalita' previste dall'[articolo 60 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), nonche' dall'[articolo 337 del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_337), come modificato dal [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md).
 
 4.
 
@@ -568,7 +568,7 @@ I rendiconti di cui al comma 3 sono resi dal titolare dell'ufficio all'estero, n
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera g)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- g) l'articolo 25 del regolamento di cui al [decreto del Presidente della Repubblica 1º febbraio 2010, n. 54](Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md)". 
+ g) l'articolo 25 del regolamento di cui al [decreto del Presidente della Repubblica 1º febbraio 2010, n. 54](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ### Art. 26. — Erogazione di spese su finanziamenti 

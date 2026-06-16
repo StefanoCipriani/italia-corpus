@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 1 dicembre 1927, n. 2344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-01;2344), con il quale i comuni di Arolo, Ballarate, Cellina, Leggiuno e Sangiano (Varese) furono riuniti in un unico Comune con la denominazione di "Leggiuno-Sangiano";
+Visto il [regio decreto 1 dicembre 1927, n. 2344](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Leggiuno%20Sangiano%20Cellina%20Ballarate%20ed%20Arolo%20in%20un%20unico%20Comune%20denominato%20Leggiuno-Sangiano.%20027U2344.md), con il quale i comuni di Arolo, Ballarate, Cellina, Leggiuno e Sangiano (Varese) furono riuniti in un unico Comune con la denominazione di "Leggiuno-Sangiano";
 
 Viste le istanze in data 30 ottobre 21, 27 novembre e 5 dicembre 1960, con le quali la maggioranza qualificata degli elettori del soppresso comune di Sangiano ne ha chiesto la ricostituzione in Comune autonomo;
 

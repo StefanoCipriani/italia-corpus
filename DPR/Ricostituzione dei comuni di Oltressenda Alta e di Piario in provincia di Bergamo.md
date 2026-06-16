@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 25 marzo 1929, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-25;559), con il quale i comuni di Oltressenda Alta e di Piario furono riuniti con quello di Oltressenda Bassa ed al nuovo Comune venne attribuita la denominazione di Villa d'Ogna;
+Visto il [regio decreto 25 marzo 1929, n. 559](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Oltressenda%20Alta%20Oltressenda%20Bassa%20e%20Piario%20in%20un%20unico%20Comune%20denominato%20Villa%20dOgna%20con%20sede%20del%20capoluogo%20nella%20frazione%20omonima.%20029U0559.md), con il quale i comuni di Oltressenda Alta e di Piario furono riuniti con quello di Oltressenda Bassa ed al nuovo Comune venne attribuita la denominazione di Villa d'Ogna;
 
 Viste le istanze in data 19 aprile, 10 e 12 maggio 1953, con le quali la maggioranza qualificata degli elettori dei soppressi comuni di Oltressenda Alta e di Piario, rispettivamente, ne ha chiesto la ricostituzione in Comuni autonomi;
 

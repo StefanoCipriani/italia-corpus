@@ -15,13 +15,13 @@ Relazione del Ministro Segretario di Stato per il tesoro al Presidente della Rep
  Signor Presidente,
 
  Il decreto che si sottopone alla firma della S.V. On.le, concerne l'assegnazione di L. 500 milioni allo stato di previsione del Ministero dell'interno per l'anno finanziario 1966, per provvedere ad interventi assistenziali in dipendenza dei recenti eventi riguardanti l'abitato di Agrigento.
- Alle integrazioni predette, ricorrendo le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede mediante prelevamento dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro per l'anno finanziario 1965, in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione dei patrimonio e sulla contabilita', generale dello Stato.
+ Alle integrazioni predette, ricorrendo le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede mediante prelevamento dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro per l'anno finanziario 1965, in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione dei patrimonio e sulla contabilita', generale dello Stato.
 
  Il Ministro: COLOMBO 
 
  IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto l'[art. 87, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com4) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
  Vista la [legge 23 aprile 1966, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-04-23;218);
  Considerato che sul fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro per l'anno finanziario 1966, esiste la necessaria disponibilita';

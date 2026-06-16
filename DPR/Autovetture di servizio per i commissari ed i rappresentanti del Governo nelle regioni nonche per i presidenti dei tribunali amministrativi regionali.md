@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 3 aprile 1926, n. 746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-03;746), che approva il regolamento sul servizio automobilistico delle amministrazioni dello Stato;
+Visto il [regio decreto 3 aprile 1926, n. 746](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20automobilistico%20per%20le%20Amministrazioni%20dello%20Stato.%20026U0746.md), che approva il regolamento sul servizio automobilistico delle amministrazioni dello Stato;
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-All'art. 2 del regolamento sul servizio automobilistico delle amministrazioni dello Stato, approvato con [regio decreto 3 aprile 1926, n. 746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-03;746), e' aggiunto il seguente comma:
+All'art. 2 del regolamento sul servizio automobilistico delle amministrazioni dello Stato, approvato con [regio decreto 3 aprile 1926, n. 746](../Regi%20decreti/Approvazione%20del%20regolamento%20sul%20servizio%20automobilistico%20per%20le%20Amministrazioni%20dello%20Stato.%20026U0746.md), e' aggiunto il seguente comma:
  "Puo' essere assegnata una vettura automobile ai commissari o rappresentanti del Governo nelle regioni, nonche' ai presidenti dei tribunali amministrativi regionali e delle loro sezioni staccate, che risultino istituite, a termini della [legge 6 dicembre 1971, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1034), e del relativo regolamento di esecuzione. In considerazione delle caratteristiche lagunari del capoluogo della Regione veneta, gli automezzi di servizio assegnati in uso alle suindicate autorita', con sede in Venezia, sono rappresentati da una vettura-motoscafo e da una automobile. Le predette assegnazioni sono autorizzate dal Presidente del Consiglio dei Ministri, sempre che le cennate autorita' non risultino gia' fornite di automezzi di servizio per altro incarico ricoperto".
 
 ## Art. 2.

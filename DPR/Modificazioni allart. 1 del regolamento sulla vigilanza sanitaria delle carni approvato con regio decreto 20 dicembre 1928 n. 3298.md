@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il regolamento sulla vigilanza sanitaria delle carni approvato con [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298);
+Visto il regolamento sulla vigilanza sanitaria delle carni approvato con [regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md);
 
 Vista la [legge 13 marzo 1958, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-13;296);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la sanita' di concerto con i Ministri per la gra
 
 ## Articolo unico
 
-Il secondo e il terzo comma dell'art. 1 del regolamento per la vigilanza sanitaria delle carni, approvato con [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), sono sostituiti dai seguenti commi:
+Il secondo e il terzo comma dell'art. 1 del regolamento per la vigilanza sanitaria delle carni, approvato con [regio decreto 20 dicembre 1928, n. 3298](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20vigilanza%20sanitaria%20delle%20carni.%20028U3298.md), sono sostituiti dai seguenti commi:
  "Solo in via eccezionale, e quando fondati motivi giustificano il provvedimento, puo' essere consentita dalla autorita' comunale, previa approvazione del veterinario provinciale, la macellazione per uso privato od a scopo industriale anche fuori del pubblico macello con l'osservanza delle disposizioni di cui agli articoli 9, 10, 11, 12, 13 e 16 del presente regolamento.
  Puo' essere altresi' consentito dall'autorita' comunale, previa approvazione del veterinario provinciale, che, nei comuni sprovvisti di pubblico macello, la macellazione si esegua in appositi locali riconosciuti idonei, con l'osservanza delle disposizioni di cui agli articoli del presente regolamento richiamati nel comma precedente.
 Per detti locali deve essere anche stabilita l'entita' delle macellazioni, in rapporto ai requisiti di funzionalita'".

@@ -13,10 +13,10 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
- Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440) e relativo regolamento, e successive modificazioni;
+ Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md) e relativo regolamento, e successive modificazioni;
  Vista la [legge 22 dicembre 1956, n. 1589](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20delle%20partecipazioni%20statali.md);
  Visto il [decreto del Presidente della Repubblica 31 marzo 1971, n. 282](Revisione%20dei%20ruoli%20organici%20del%20personale%20del%20Ministero%20delle%20partecipazioni%20statali%20e%20della%20relativa%20struttura.md);
- Considerata la necessita' di disciplinare con regolamento da emanarsi ai sensi dell'art. 8 del sopracitato [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), i lavori, le provviste e i servizi da eseguirsi in economia da parte degli uffici del Ministero delle partecipazioni statali;
+ Considerata la necessita' di disciplinare con regolamento da emanarsi ai sensi dell'art. 8 del sopracitato [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), i lavori, le provviste e i servizi da eseguirsi in economia da parte degli uffici del Ministero delle partecipazioni statali;
  Udito il parere del Consiglio di Stato;
  Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 marzo 1984;
  Sulla proposta del Ministro delle partecipazioni statali di concerto con il Ministro del tesoro;

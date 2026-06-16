@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [testo Unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto il [testo Unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
-Visto l'art. 358 del citato [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto l'art. 358 del citato [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
-Visto il regolamento dei concorsi a posti di sanitari addetti ai servizi dei Comuni e delle Province approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281);
+Visto il regolamento dei concorsi a posti di sanitari addetti ai servizi dei Comuni e delle Province approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md);
 
 Visto il [decreto Presidente della Repubblica 10 giugno 1955, n. 854](Decentramento%20dei%20servizi%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), sui decentramento dei servizi dell'Alto Commissariato per l'igiene e la sanita' pubblica;
 
@@ -24,7 +24,7 @@ Vista la [legge 13 marzo 1958, n. 296](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto l'art. 6 della citata [legge 13 marzo 1958, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-13;296);
 
-Considerata la necessita' di apportare modifiche agli articoli 7, 8, 9, 12, 23, 32, 43, 44, 45, 47, 48, 50, 62, 63, 64, 65 e 66 del regolamento dei concorsi a posti di sanitari addetti ai servizi dei Comuni e delle Province approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281);
+Considerata la necessita' di apportare modifiche agli articoli 7, 8, 9, 12, 23, 32, 43, 44, 45, 47, 48, 50, 62, 63, 64, 65 e 66 del regolamento dei concorsi a posti di sanitari addetti ai servizi dei Comuni e delle Province approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md);
 
 Udito il Consiglio superiore di sanita';
 
@@ -36,13 +36,13 @@ Sulla proposta del Ministro per la sanita' di concerto con il Ministro per l'int
 
 ## Art. 1.
 
-L'art. 7 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 7 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "L'esclusione dal concorso puo' essere disposta soltanto per difetto dei requisiti prescritti e con decreto motivato del medico provinciale.
  Il provvedimento e' definitivo".
 
 ## Art. 2.
 
-L'art. 8 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 8 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "La Commissione giudicatrice del concorso e' presieduta da un funzionario della carriera direttiva amministrativa del Ministero della sanita' o dell'Amministrazione civile dell'interno, con qualifica non inferiore a direttore di divisione o equiparata, ed e' composta:
  a) di un funzionario della carriera direttiva della Amministrazione civile dell'interno con qualifica non inferiore a direttore di sezione;
  b) di due docenti universitari, di ruolo o fuori ruolo, dei quali uno di igiene e uno di clinica o patologia medica; uno di essi e' scelto su terna proposta dall'ordine dei medici chirurghi;
@@ -53,14 +53,14 @@ L'art. 8 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](htt
 
 ## Art. 3.
 
-L'art. 9 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 9 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "Il medico provinciale, con il decreto di nomina della, Commissione giudicatrice del concorso, stabilisce anche la sede e la data di inizio delle prove di esame.
  Il provvedimento del medico provinciale e' pubblicato nella Gazzetta Ufficiale della Repubblica e, per otto giorni consecutivi, all'albo dell'ufficio del medico provinciale stesso, all'albo pretorio della Prefettura e all'albo pretorio dei Comuni interessati.
  Le prove di esame non possono aver luogo se non sia trascorso un mese dalla pubblicazione del provvedimento nella Gazzetta Ufficiale".
 
 ## Art. 4.
 
-Il primo comma dell'art. 12 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+Il primo comma dell'art. 12 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "Sono da prendere in considerazione, secondo l'ordine di preferenza sottoindicato, i seguenti titoli:
  a) servizio di ruolo prestato in qualita' di ufficiale sanitario;
  b) docenza in igiene pubblica;
@@ -76,13 +76,13 @@ Il primo comma dell'art. 12 del regolamento approvato con [regio decreto 11 marz
 
 ## Art. 5.
 
-L'art. 23 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 23 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "Il medico provinciale approva, la graduatoria dei candidati idonei e ne dispone la inserzione e la pubblicazione nella Gazzetta Ufficiale della Repubblica, nel Foglio annunzi della Provincia e, per otto giorni consecutivi, all'albo del proprio ufficio, all'albo pretorio della Prefettura ed a quello dei Comuni interessati.
  Il termine per la presentazione dei ricorsi avverso il provvedimento del medico provinciale decorre, nei confronti delle persone non direttamente contemplate nel provvedimento, dalla data di pubblicazione di esso nella Gazzetta Ufficiale della Repubblica".
 
 ## Art. 6.
 
-L'art. 32 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 32 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "Nei concorsi per soli titoli, la Commissione giudicatrice e' presieduta da un consigliere di Stato, ed e' composta:
  a) di due docenti universitari, di ruolo o fuori ruolo, dei quali uno di igiene ed uno di clinica o patologia medica; uno di essi e' scelto su terna proposta dalla Federazione nazionale degli Ordini dei medici;
  b) di un funzionario appartenente alla carriera direttiva amministrativa del Ministero della sanita' con qualifica non inferiore a direttore di divisione;
@@ -93,13 +93,13 @@ L'art. 32 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](ht
 
 ## Art. 7.
 
-L'art. 43 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 43 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "L'esclusione dal concorso puo' essere disposta soltanto per difetto dei requisiti prescritti e con decreto motivato del medico o veterinario provinciale secondo le rispettive competenze.
  Il provvedimento e' definitivo".
 
 ## Art. 8.
 
-L'art. 44 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 44 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "La Commissione giudicatrice del concorso a posti di medico condotto e' presieduta da un funzionario della carriera, direttiva amministrativa del Ministero della sanita' o dell'Amministrazione civile dell'interno con qualifica non inferiore a direttore di divisione o equiparata, ed e' composta:
  a) di un funzionario della carriera direttiva della Amministrazione civile dell'interno con qualifica non inferiore a direttore di sezione;
  b) di un funzionario appartenente alla carriera direttiva dei medici del Ministero della sanita', con qualifica non inferiore a medico provinciale superiore, escluso il medico provinciale della Provincia in cui e' stato bandito il concorso;
@@ -109,7 +109,7 @@ L'art. 44 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](ht
 
 ## Art. 9.
 
-L'art. 45 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente: 
+L'art. 45 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente: 
  "Nel concorso predetto sono da prendere in considerazione, secondo l'ordine di preferenza sottoindicato, i seguenti titoli: 
  a) servizio di medico condotto di ruolo; 
  b) servizio di ruolo prestato in ospedale di prima o di seconda categoria o di terza categoria con almeno cento letti; 
@@ -126,7 +126,7 @@ L'art. 45 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](ht
 
 ## Art. 10.
 
-L'art. 47 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 47 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "La Commissione giudicatrice del concorso a posti di veterinario condotto e' presieduta da un funzionario della carriera, direttiva amministrativa del Ministero della sanita' o dell'Amministrazione civile dell'interno, con qualifica non inferiore a direttore di divisione o equiparata, ed e' composta:
  a) di un funzionario della carriera direttiva della Amministrazione civile dell'interno con qualifica non inferiore a direttore di sezione;
  b) di un funzionario appartenente alla carriera direttiva dei veterinari del Ministero della sanita', con qualifica non inferiore a veterinario provinciale superiore, escluso il veterinario provinciale della Provincia in cui e' stato bandito il concorso;
@@ -136,7 +136,7 @@ L'art. 47 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](ht
 
 ## Art. 11.
 
-L'art. 48 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente: 
+L'art. 48 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente: 
  "Nel concorso a posti di veterinario condotto sono da prendere in considerazione, secondo l'ordine di preferenza sottoindicato, i seguenti titoli; 
  a) servizio di veterinario condotto di ruolo; 
  b) docenza in materie attinenti al posto messo a concorso; 
@@ -150,7 +150,7 @@ L'art. 48 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](ht
 
 ## Art. 12.
 
-L'art. 50 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente: 
+L'art. 50 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente: 
  "La Commissione giudicatrice del concorso a posti di ostetrica condotta e' presieduta da un funzionario della carriera direttiva amministrativa del Ministero della sanita' o dell'Amministrazione civile dell'interno, con qualifica non inferiore a direttore di sezione ed e' composta: 
  a) di un funzionario della carriera direttiva della Amministrazione civile dell'interno con qualifica non inferiore a consigliere di la classe; 
  b) di un funzionario appartenente alla carriera direttiva dei medici del Ministero della sanita', escluso il medico provinciale della Provincia in cui e' stato bandito il concorso; 
@@ -160,7 +160,7 @@ L'art. 50 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](ht
 
 ## Art. 13.
 
-L'art. 62 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente: 
+L'art. 62 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente: 
  "I posti per veterinario addetto ai servizi di polizia, vigilanza ed ispezione veterinaria sono conferiti per pubblico concorso, per titoli ed esami. 
  La Commissione giudicatrice del concorso e' presieduta da un funzionario della carriera, direttiva amministrativa del Ministero della sanita' o della Amministrazione civile dell'interno con qualifica non inferiore a direttore di divisione o equiparata, ed e' composta: 
  a) di un funzionario della carriera direttiva della Amministrazione civile dell'interno con qualifica non interiore a direttore di sezione; 
@@ -173,7 +173,7 @@ L'art. 62 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](ht
 
 ## Art. 14.
 
-All'art. 63 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), sono aggiunti i seguenti commi: 
+All'art. 63 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), sono aggiunti i seguenti commi: 
  "I posti per veterinario comunale capo sono conferiti per pubblico concorso per titoli ed esami. 
  La Commissione giudicatrice del concorso e' presieduta da un funzionario della carriera direttiva amministrativa del Ministero della sanita' o della Amministrazione civile dell'interno con qualifica non inferiore a direttore di divisione o equiparato, ed e' composta: 
  a) di un funzionario della carriera direttiva della Amministrazione civile dell'interno con qualifica non inferiore a direttore di sezione; 
@@ -198,17 +198,17 @@ All'art. 63 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](
 
 ## Art. 15.
 
-Il primo comma dell'art. 64 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' cosi' modificato:
+Il primo comma dell'art. 64 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' cosi' modificato:
  "Se i concorsi preveduti nei precedenti articoli 61 e 63, primo e secondo comma, diano esito negativo, i posti relativi sono conferiti per pubblico concorso per titoli ed esami bandito dal medico o veterinario provinciale secondo le rispettive competenze".
 
 ## Art. 16.
 
-L'art. 65, secondo comma, del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente:
+L'art. 65, secondo comma, del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente:
  "Sono ammessi al concorso, indipendentemente dal limite di eta' i veterinari condotti o gli altri veterinari comunali di ruolo, i veterinari appartenenti ai ruoli del Ministero della sanita' e dell'Istituto superiore di sanita' nonche' quelli della Facolta' di medicina veterinaria e degli Istituti zooprofilattici che prestino da almeno tre anni servizio effettivo".
 
 ## Art. 17.
 
-L'art. 66 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-03-11;281), e' sostituito dal seguente: 
+L'art. 66 del regolamento approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md), e' sostituito dal seguente: 
  "La Commissione giudicatrice del concorso indicato nell'articolo precedente e' presieduta da un funzionario della carriera direttiva amministrativa, del Ministero della sanita' o dell'Amministrazione civile dell'interno con qualifica non inferiore a direttore di divisione o equiparata, ed e' composta: 
  a) di un funzionario della carriera direttiva dell'Amministrazione civile dell'interno con qualifica non inferiore a direttore di sezione; 
  b) di un funzionario appartenente alla carriera direttiva dei veterinari del Ministero della sanita', con qualifica non inferiore a veterinario provinciale superiore, escluso il veterinario provinciale della Provincia in cui e' stato bandito il concorso; 

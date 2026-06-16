@@ -23,7 +23,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Il consiglio di amministrazione dell'ente ospedaliero suddetto, e' composto come segue:
  cinque membri eletti dal consiglio provinciale di Frosinone;
  due membri eletti dal consiglio comunale di Frosinone;
- due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con regio decreto 16 febbraio 1890, modificato con [regio decreto 25 agosto 1938, numero 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-25;1471).
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con regio decreto 16 febbraio 1890, modificato con [regio decreto 25 agosto 1938, numero 1471](../Regi%20decreti/Autorizzazione%20al%20comune%20di%20Bari%20a%20modificare%20la%20denominazione%20della%20frazione%20Torre%20Pelosa%20in%20Torre%20a%20Mare.%20038U1471.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

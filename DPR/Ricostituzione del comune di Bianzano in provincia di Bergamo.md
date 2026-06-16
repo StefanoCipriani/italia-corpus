@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 7 giugno 1928, n. 1521](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-07;1521), con il quale i comuni di Bianzano Monasterolo del Castello e Spinone, in provincia di Bergamo, furono riuniti in unico Comune denominato "Spinone dei Castelli", con capoluogo Vista l'istanza 29 marzo 1953, con la quale la maggioranza dei tre quinti degli elettori del cessato comune di Bianzano ne ha chiesto la ricostituzione in Comune autonomo;
+Visto il [regio decreto 7 giugno 1928, n. 1521](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bianzano%20Monasterolo%20del%20Castello%20e%20Spinone%20in%20un%20unico%20Comune%20denominato%20Spinone%20dei%20Castelli%20con%20capoluogo%20Spinone.%20028U1521.md), con il quale i comuni di Bianzano Monasterolo del Castello e Spinone, in provincia di Bergamo, furono riuniti in unico Comune denominato "Spinone dei Castelli", con capoluogo Vista l'istanza 29 marzo 1953, con la quale la maggioranza dei tre quinti degli elettori del cessato comune di Bianzano ne ha chiesto la ricostituzione in Comune autonomo;
 
 Viste le deliberazioni del Consiglio comunale di Spinone dei Castelli in data 13 settembre 1953, n. 61, e dei Consiglio provinciale di Bergamo in data 16 gennaio 1954, n. 22, con le quali fu espresso parere in ordine alla, ricostituzione di cui trattasi;
 

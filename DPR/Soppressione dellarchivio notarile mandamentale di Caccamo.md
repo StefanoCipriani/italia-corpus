@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
  Visto il [regio decreto 19 marzo 1882, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20sono%20istituiti%20alcuni%20archivi%20notarili%20mandamentali%20nei%20distretti%20di%20Termini-Imerese%20SantAngelo%20dei%20Lombardi%20e%20Vercelli.%20082U0669.md), con il quale venne istituito l'archivio notarile mandamentale di Caccamo;
- Visto l'[art. 248, terzo comma, del regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326#art_248-com3);
+ Visto l'[art. 248, terzo comma, del regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
  Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) (tabella B), e successive modificazioni, col quale venne determinata la circoscrizione territoriale del mandamento di Caccamo;
  Visto l'[art. 3, primo comma, della legge 17 maggio 1952, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-17;629#art_3-com1);
  Visti gli [articoli 23](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md) e [73 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md);

@@ -45,7 +45,7 @@ A decorrere dall'anno accademico 1977-78 e' istituita, in conformita' di quanto 
  architettonici, archeologici e dell'ambiente;
  mobili e artistici.
  L'ordinamento didattico del corso di laurea terra' conto dei filoni originali della cultura, della lingua, delle tradizioni e della storia del Friuli.
- L'Universita' e' compresa tra quelle previste dall'art. 1, n. 1), del testo delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni.
+ L'Universita' e' compresa tra quelle previste dall'art. 1, n. 1), del testo delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni.
  La facolta' di lingue e letterature straniere della Universita' di Trieste funzionante in. Udine, passa dall'Universita' di Trieste alla Universita' di Udine. Le relative dotazioni didattiche e i rapporti connessi sono trasferiti all'Universita' di Udine.
  I corsi sdoppiati del biennio propedeutico della facolta' di ingegneria dell'Universita' di Trieste, funzionanti in Udine, autorizzati limitatamente all'anno accademico 1977-78 dall'[art. 26, quinto comma, della legge 8 agosto 1977, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;546#art_26-com5), cessano di funzionare come corsi sdoppiati e costituiscono corsi normali della facolta' di ingegneria dell'Universita' di Udine di cui al primo comma, n. 2), del presente art. 1.
  In attesa della riforma dell'ordinamento universitario e della facolta' di medicina, l'Universita' degli studi di Trieste e' autorizzata a stipulare una convenzione con l'ospedale civile di Udine per la istituzione in Udine, mediante sdoppiamento, dei corsi di insegnamenti attinenti al triennio clinico e di scuole di specializzazione della facolta' di medicina e chirurgia della stessa Universita' di Trieste.
@@ -83,7 +83,7 @@ Nella prima applicazione del presente decreto, il rettore dell'Universita' di Ud
 
 ### Art. 6.
 
-Entro centottanta giorni dalla data del decreto di nomina dei comitati ordinatori sara' emanato, nelle forme e con le modalita' previste dall'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni, lo statuto dell'Universita' di cui al presente decreto.
+Entro centottanta giorni dalla data del decreto di nomina dei comitati ordinatori sara' emanato, nelle forme e con le modalita' previste dall'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni, lo statuto dell'Universita' di cui al presente decreto.
 
 ### Art. 7.
 
@@ -196,7 +196,7 @@ Capo III
 
 ### Art. 19.
 
-Con effetto dalla data di entrata in vigore del presente decreto, e' istituita presso l'Universita' degli studi di Trieste la Scuola internazionale superiore di studi avanzati, quale istituto scientifico speciale, dotata di personalita' giuridica ed autonomia amministrativa, didattica e disciplinare entro i limiti stabiliti dal presente decreto e dalle norme di cui al testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni.
+Con effetto dalla data di entrata in vigore del presente decreto, e' istituita presso l'Universita' degli studi di Trieste la Scuola internazionale superiore di studi avanzati, quale istituto scientifico speciale, dotata di personalita' giuridica ed autonomia amministrativa, didattica e disciplinare entro i limiti stabiliti dal presente decreto e dalle norme di cui al testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni.
 
 ### Art. 20.
 
@@ -290,7 +290,7 @@ La Scuola superiore di lingue moderne per interpreti e traduttori assorbe la scu
 
 ### Art. 33.
 
-La scuola superiore ha autonomia amministrativa, didattica e disciplinare, nei limiti stabiliti dal presente decreto e dalle norme di cui al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni.
+La scuola superiore ha autonomia amministrativa, didattica e disciplinare, nei limiti stabiliti dal presente decreto e dalle norme di cui al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni.
 
 ### Art. 34.
 
@@ -355,7 +355,7 @@ Sono riconosciuti ai fini della stabilizzazione dell'incarico ai sensi e alle co
 
 ### Art. 43.
 
-L'Universita' degli studi di Trieste puo' istituire, ai sensi dell'art. 20 del testo unico approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), con le necessarie modifiche del proprio statuto, una scuola di specializzazione in tecnologie biomediche presso la facolta' di medicina e chirurgia e la facolta' di ingegneria.
+L'Universita' degli studi di Trieste puo' istituire, ai sensi dell'art. 20 del testo unico approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), con le necessarie modifiche del proprio statuto, una scuola di specializzazione in tecnologie biomediche presso la facolta' di medicina e chirurgia e la facolta' di ingegneria.
 
 ### Art. 44.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Pisa.%20026U2278.md), e modificato con [regio decreto 13 ottobre 1927, n. 2225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Pisa.%20027U2225.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -96,7 +96,7 @@ tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annu
 ## Art. 2.
 
 Dopo l'art. 411, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale di preparazione per tecnici di audiometria e fonologopedia, annessa alla facolta' di medicina e chirurgia. 
- Scuola di preparazione per tecnici di audiometria e fonologopedia  Art. 412. - E' istituita una scuola di preparazione per tecnici di audiometria e fonologopedia annessa alla facolta' di medicina e chirurgia dell'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). 
+ Scuola di preparazione per tecnici di audiometria e fonologopedia  Art. 412. - E' istituita una scuola di preparazione per tecnici di audiometria e fonologopedia annessa alla facolta' di medicina e chirurgia dell'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md). 
  Art. 413. - La scuola ha la durata di 3 anni, ha sede presso l'istituto di otorinolaringoiatria dell'Universita'. 
  L'indirizzo della scuola e' teorico-pratico. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima. 
  Art. 414. - Possono iscriversi alla scuola i diplomati degli istituti di istruzione secondaria di secondo grado, di durata quinquennale, ivi compresi i licei linguistici riconosciuti per legge, nonche' i diplomati degli istituti magistrali e dei licei artistici. 
@@ -146,7 +146,7 @@ tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annu
 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . L. 5.000 sopratassa annuale di esami. . . . . . . . . . . . . . . . . L. 7.000 
  
  Art. 427. - Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, sopratasse e contributi dovuti dagli iscritti. 
- Art. 428. - Per quanto non previsto nel presente ordinamento della scuola si rinvia alle norme contenute nel regolamento generale ([regio decreto 6 aprile 1924, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674)).
+ Art. 428. - Per quanto non previsto nel presente ordinamento della scuola si rinvia alle norme contenute nel regolamento generale ([regio decreto 6 aprile 1924, n. 674](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20universitario.%20024U0674.md)).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

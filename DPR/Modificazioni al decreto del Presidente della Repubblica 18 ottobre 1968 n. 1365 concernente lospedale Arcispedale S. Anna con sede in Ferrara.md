@@ -25,7 +25,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  "Il consiglio di amministrazione dell'ente ospedaliero suddetto e' composto come segue: 
  sei membri eletti dal consiglio provinciale di Ferrara; 
  un membro eletto dal consiglio comunale di Ferrara; 
- due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con [regio decreto 3 aprile 1930, n. 551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-04-03;551), modificato con decreto del Presidente della Repubblica 21 marzo 1949".
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con [regio decreto 3 aprile 1930, n. 551](../Regi%20decreti/Fusione%20dellOpera%20pia%20Ospizio%20di%20maternita%20con%20sede%20in%20Ferrara%20con%20lArcispedale%20di%20SantAnna%20dello%20stesso%20Comune.%20030U0551.md), modificato con decreto del Presidente della Repubblica 21 marzo 1949".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

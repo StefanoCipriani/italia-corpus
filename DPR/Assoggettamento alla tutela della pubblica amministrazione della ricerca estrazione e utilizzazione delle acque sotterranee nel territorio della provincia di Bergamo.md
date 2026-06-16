@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94) approvato con decreto reale 11 dicembre 1933, n. 1775, col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e l'utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione;
+ Visto l'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con decreto reale 11 dicembre 1933, n. 1775, col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e l'utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione;
  Ritenuta la necessita' di dichiarare soggetto alla tutela della pubblica amministrazione l'intero territorio della provincia di Bergamo;
  Visto il voto 20 gennaio 1972, n. 1951/71, del Consiglio superiore dei lavori pubblici;
  Sentita la regione Lombardia ai sensi del [secondo comma dell'art. 8 del decreto del Presidente della Repubblica 15 gennaio 1972, n. 8](Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20urbanistica%20e%20di%20viabilita%20acquedotti%20e%20lavori%20pubblici%20di%20interesse%20regionale%20e%20dei%20rel_c64d06b61fb2.md), giusta delibera 10 maggio 1973;

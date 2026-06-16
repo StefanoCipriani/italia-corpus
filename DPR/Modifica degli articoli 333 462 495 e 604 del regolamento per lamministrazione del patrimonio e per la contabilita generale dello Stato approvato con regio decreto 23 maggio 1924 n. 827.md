@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
-Visto l'[art. 1 del regio decreto 9 dicembre 1935, numero 2211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-09;2211#art_1), recante modifiche all'art. 333 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+Visto l'[art. 1 del regio decreto 9 dicembre 1935, numero 2211](../Regi%20decreti/Modificazione%20degli%20articoli%20333%20e%20334%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato.%20035U2211.md), recante modifiche all'art. 333 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
 Visti gli articoli 462, 495 e 604 del predetto regolamento;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Articolo unico.
 
-L'art. 333, modificato con l'[art. 1 del regio decreto 9 dicembre 1935, n. 2211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-12-09;2211#art_1), e gli articoli 462, 495 e 604 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sono sostituiti dai seguenti:
+L'art. 333, modificato con l'[art. 1 del regio decreto 9 dicembre 1935, n. 2211](../Regi%20decreti/Modificazione%20degli%20articoli%20333%20e%20334%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato.%20035U2211.md), e gli articoli 462, 495 e 604 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), sono sostituiti dai seguenti:
  Art. 333. - "Oltre che nei casi previsti dagli articoli 60 e 61 della legge, il funzionario delegato deve trasmettere i conti delle somme erogate, salve le disposizioni dei regolamenti speciali delle Amministrazioni militari, quando sia esaurita l'apertura di credito o quando cessino le sue facolta' ed anche quando ad esso subentri altro funzionario ai termini del precedente articolo 331.
  I rendiconti debbono presentarsi entro i venticinque giorni successivi al termine del periodo cui essi si riferiscono, alla Amministrazione centrale od agli uffici periferici cui spetta, in base alle norme vigenti, di esercitarne il riscontro di competenza.
  Tale termine e' portato al giorno quarantesimo successivo al trimestre per le prefetture.

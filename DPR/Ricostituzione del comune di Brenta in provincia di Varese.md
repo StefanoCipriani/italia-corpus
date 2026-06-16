@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista l'istanza in data 19 febbraio 1950, intesa ad ottenere la ricostituzione del comune di Brenta (provincia di Varese, soppresso con [regio decreto 12 agosto 1927, n. 2443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-12;2443), ed aggregato, unitamente al comune di Vararo, a quello di Cittiglio;
+Vista l'istanza in data 19 febbraio 1950, intesa ad ottenere la ricostituzione del comune di Brenta (provincia di Varese, soppresso con [regio decreto 12 agosto 1927, n. 2443](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Brenta%20e%20Vararo%20al%20comune%20di%20Cittiglio.%20027U2443.md), ed aggregato, unitamente al comune di Vararo, a quello di Cittiglio;
 
 Ritenuto che l'istanza e' sottoscritta dalla maggioranza qualificata dei contribuenti di cui all'art. 33 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 

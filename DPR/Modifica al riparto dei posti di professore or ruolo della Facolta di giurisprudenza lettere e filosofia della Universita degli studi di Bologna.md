@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Visto il decreto del Presidente della Repubblica 4 novembre 1960, n. 1473, pubblicato nella Gazzetta Ufficiale n. 305 del 14 dicembre 1960, con il quale sono state apportate modificazioni ai ruoli organici dei posti di professore di ruolo delle Facolta' di giurisprudenza e di lettere e filosofia dell'Universita' di Bologna, indicandosi in numero di tredici posti di professore di ruolo l'organico della Facolta' di giurisprudenza ed in numero di diciassette posti di professore di ruolo l'organico della Facolta' di lettere e filosofia;
  Riconosciuta opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati, con il predetto decreto del Presidente della Repubblica n. 1473, alle Facolta' di giurisprudenza e di lettere e filosofia dell'Universita' di Bologna;
  Visto il parere espresso dal Consiglio superiore della pubblica istruzione;

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 22 settembre 1927, n. 1905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-22;1905), con il quale i comuni di Cesana Brianza e di Suello, in provincia di Corno, furono riuniti in unico Comune denominato "Cesello Brianza" con capoluogo Suello;
+Visto il [regio decreto 22 settembre 1927, n. 1905](../Regi%20decreti/Unione%20dei%20comuni%20di%20Cesana%20Brianza%20e%20di%20Suello%20in%20un%20unico%20Comune%20denominato%20Cesello%20Brianza.%20027U1905.md), con il quale i comuni di Cesana Brianza e di Suello, in provincia di Corno, furono riuniti in unico Comune denominato "Cesello Brianza" con capoluogo Suello;
 
 Vista l'istanza 6 settembre 1953, con la quale la maggioranza dei tre quinti degli elettori del cessato comune di Cesana Brianza ne ha chiesto la ricostituzione in Comune autonomo;
 

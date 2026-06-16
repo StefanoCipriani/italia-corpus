@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), e successive modifiche ed integrazioni, sulla disciplina dei concorsi ad avvocato e procuratore dello Stato;
+Visto il [regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e successive modifiche ed integrazioni, sulla disciplina dei concorsi ad avvocato e procuratore dello Stato;
 
 Considerata l'esigenza di un adeguamento della disciplina anzidetta, allo scopo di assicurare una maggiore speditezza ai procedimenti concorsuali;
 
@@ -24,26 +24,26 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-All'[art. 13 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_13) e' aggiunto il seguente comma: 
+All'[art. 13 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md) e' aggiunto il seguente comma: 
  "Le prove scritte possono aver luogo anche nelle altre sedi indicate nel decreto che indice il concorso o in successivo atto da comunicare ai partecipanti del concorso. A questi sara' segnalata la sede di partecipazione alla prova cui saranno assegnati in relazione alla residenza indicata nella domanda di partecipazione al concorso, mediante pubblicazione di apposito atto in Gazzetta Ufficiale".
 
 ## Art. 2.
 
-L'[art. 15 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_15), e' sostituito dalla seguente disposizione:
+L'[art. 15 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e' sostituito dalla seguente disposizione:
  "La commissione giudicatrice dei concorsi ai posti di avvocato dello Stato e' composta da un avvocato dello Stato alla quarta classe di stipendio, con funzioni di presidente, e da un avvocato dello Stato alla terza classe di stipendio, nonche' da un magistrato della Corte di cassazione, da un avvocato iscritto all'albo speciale dei patrocinanti dinanzi alle giurisdizioni superiori, da un professore ordinario o straordinario in materie giuridiche nelle universita', designati rispettivamente dal primo presidente della Corte di cassazione, dal presidente del Consiglio nazionale forense, dal competente rettore, entro il termine di trenta giorni dalla data della richiesta. Trascorso il termine suddetto senza che siano pervenute le designazioni, anche i componenti estranei l'Avvocatura dello Stato sono scelti dall'avvocato generale.
  Un avvocato dello Stato alla seconda o alla prima classe di stipendio disimpegna le funzioni di segretario della commissione e redige i verbali delle adunanze, che sono firmati dal presidente e dal segretario.
  I componenti la commissione ed il segretario sono nominati dall'avvocato generale dello Stato".
 
 ## Art. 3.
 
-L'[art. 16 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_16), e' sostituito dalla seguente disposizione:
+L'[art. 16 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), e' sostituito dalla seguente disposizione:
  "La commissione giudicatrice dei concorsi a posti di procuratore dello Stato e' composta da un avvocato dello Stato con classe di stipendio non inferiore alla terza, con funzioni di presidente, e da due avvocati dello Stato alla terza o alla seconda classe di stipendio, nonche' da un magistrato di corte d'appello, da un avvocato o da un professore ordinario o straordinario in materie giuridiche nelle universita', designati rispettivamente dal presidente della corte d'appello, dal presidente del Consiglio nazionale forense, dal competente rettore, nel termine di trenta giorni dalla data della richiesta. Trascorso il termine suddetto senza che siano pervenute le designazioni, anche i componenti estranei all'Avvocatura dello Stato sono scelti dall'avvocato generale.
  Un procuratore dello Stato disimpegna le funzioni di segretario della commissione e redige i verbali delle adunanze, che sono firmati dal presidente e dal segretario.
  I componenti la commissione ed il segretario sono nominati dall'avvocato generale dello Stato".
 
 ## Art. 4.
 
-All'[art. 18 del regio decreto 30 ottobre 1933, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612#art_18), sono aggiunti i seguenti commi:
+All'[art. 18 del regio decreto 30 ottobre 1933, n. 1612](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20de_d5942397a5e9.md), sono aggiunti i seguenti commi:
  "Quando le prove scritte abbiano luogo in piu' sedi, si costituisce per ciascuna sede, esclusa quella della commissione esaminatrice, un comitato di vigilanza, presieduto da un avvocato dello Stato alla terza classe di stipendio e costituito da altri due avvocati o procuratori dello Stato e da un segretario scelto tra gli impiegati della carriera di concetto dell'Avvocatura dello Stato, nominati con provvedimento dell'avvocato generale dello Stato.
  Nel caso previsto dal comma precedente, la commissione esaminatrice, in una seduta da tenersi non prima di due giorni precedenti a quello di inizio dello svolgimento della prima delle prove scritte, formula i tre distinti temi per ciascuna delle prove.
  Di ciascun tema sono fatte tante copie quante sono le sedi delle prove scritte diverse da quella della commissione esaminatrice.

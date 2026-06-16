@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2034), modificato con [regio decreto 13 ottobre 1927, n. 2516](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2516), e successivi;
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Vedute le proposte di modifiche dello statuto formula e dalle autorita' accademiche dell'Universita' anzidetta T Riconosciuta, la particolare necessita' di approvare le nuoce modifiche proposte;
@@ -34,7 +34,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Art. 89. - La Scuola di perfezionamento filosofia rilascia un diploma.
  Gli studi per il conseguimento dei diplomi di perfezionamento durano due anni.
  Art. 90. - L'esame di diploma di perfezionamento consiste nella presentazione di un lavoro serio avente carattere di originalita', seguita dalla discussione orale intorno a detto lavoro.
- Per la composizione della Commissione di esame si osservano le norme stabilite con il regolamento approvato con [regio decreto del 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).
+ Per la composizione della Commissione di esame si osservano le norme stabilite con il regolamento approvato con [regio decreto del 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md).
  Art. 91. - Le materie costitutive per conseguire il diploma di perfezionamento in filosofia sono cinque, tre biennali e due annuali.
  Sono obbligatori come biennali gli esami di:
  Filosofia teoretica;

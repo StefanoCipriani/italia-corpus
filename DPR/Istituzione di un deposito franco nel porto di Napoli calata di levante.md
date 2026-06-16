@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-17;726), ed il relativo regolamento di esecuzione, approvato con il [regio decreto 17 giugno 1938, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-17;856);
+Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](../Testi%20Unici/Testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0726.md), ed il relativo regolamento di esecuzione, approvato con il [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md);
 
 Visto il testo unico delle disposizioni legislative in materia doganale approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
@@ -20,7 +20,7 @@ Magazzini tirreni, con sede in Napoli, ha chiesto di essere autorizzata ad istit
 
 Visti i pareri favorevoli espressi in merito dalla camera di commercio, industria, artigianato e agricoltura di Napoli con la [deliberazione n. 520 del 12 luglio 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1971-07-12;520) e dal comune di Napoli con la [deliberazione n. 215 del 5 agosto 1971](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1971-08-05;215);
 
-Considerato che il Ministero delle finanze ha prescritto, ai sensi dell'art. 3 del suindicato [regio decreto 17 giugno 1938, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-17;856), l'esecuzione di alcuni lavori di adattamento, per rendere idonei, ai fini dell'esercizio della vigilanza e della tutela degli interessi erariali, i locali suddetti;
+Considerato che il Ministero delle finanze ha prescritto, ai sensi dell'art. 3 del suindicato [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md), l'esecuzione di alcuni lavori di adattamento, per rendere idonei, ai fini dell'esercizio della vigilanza e della tutela degli interessi erariali, i locali suddetti;
 
 Sentito il Consiglio dei Ministri;
 

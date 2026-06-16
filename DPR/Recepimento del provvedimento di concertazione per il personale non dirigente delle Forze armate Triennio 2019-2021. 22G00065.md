@@ -723,7 +723,7 @@ Tutela della genitorialita'
 
 1.
 
-Oltre a quanto previsto dal [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), al personale delle Forze armate si applicano le seguenti disposizioni:
+Oltre a quanto previsto dal [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), al personale delle Forze armate si applicano le seguenti disposizioni:
                             a)
                                 esonero dalla sovrapposizione completa dell'orario di servizio, a richiesta degli interessati, tra genitori, dipendenti dalla stessa Amministrazione, con figli fino a sei anni di eta' per provvedere alle materiali esigenze del minore;
                             b)
@@ -741,7 +741,7 @@ Oltre a quanto previsto dal [decreto legislativo 26 marzo 2001, n. 151](../Decre
                             g)
                                 possibilita' per le lavoratrici madri e per i lavoratori padri vincitori di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge;
                             h)
-                                divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli [articoli 39](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) e [40 del decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) in servizi continuativi articolati sulle 24 ore.
+                                divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli [articoli 39](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) e [40 del decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) in servizi continuativi articolati sulle 24 ore.
 
 2.
 

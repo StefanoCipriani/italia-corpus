@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il regolamento sul servizio metrico, approvato con [regio decreto 31 gennaio 1909, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-01-31;292);
 
-Visto il [regio decreto 31 dicembre 1914, n. 1491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20approvati%20nuovi%20metodi%20di%20bollatura%20delle%20misure%20di%20vetro.%20014U1491.md), e il [regio decreto 21 novembre 1929, n. 2164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-11-21;2164), concernenti le impronte dei bolli da apporre sulle misure di capacita' di vetro;
+Visto il [regio decreto 31 dicembre 1914, n. 1491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20approvati%20nuovi%20metodi%20di%20bollatura%20delle%20misure%20di%20vetro.%20014U1491.md), e il [regio decreto 21 novembre 1929, n. 2164](../Regi%20decreti/Approvazione%20del%20sistema%20a%20stampa%20per%20la%20legalizzazione%20delle%20misure%20di%20capacita%20di%20vetro%20per%20i%20liquidi.%20029U2164.md), concernenti le impronte dei bolli da apporre sulle misure di capacita' di vetro;
 
 Udito il parere del Consiglio di Stato;
 

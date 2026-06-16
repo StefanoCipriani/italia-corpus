@@ -312,7 +312,7 @@ Il dipendente osserva il segreto d'ufficio e la normativa in materia di tutela e
 
 1.
 
-Ferma restando l'applicazione delle altre disposizioni del Codice, le norme del presente articolo si applicano ai dirigenti, ivi compresi i titolari di incarico ai sensi dell'[articolo 19, comma 6, del decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165#art_19-com6) e dell'[articolo 110 del decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), ai soggetti che svolgono funzioni equiparate ai dirigenti operanti negli uffici di diretta collaborazione delle autorita' politiche, nonche' ai funzionari responsabili di posizione organizzativa negli enti privi di dirigenza.
+Ferma restando l'applicazione delle altre disposizioni del Codice, le norme del presente articolo si applicano ai dirigenti, ivi compresi i titolari di incarico ai sensi dell'[articolo 19, comma 6, del decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165#art_19-com6) e dell'[articolo 110 del decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), ai soggetti che svolgono funzioni equiparate ai dirigenti operanti negli uffici di diretta collaborazione delle autorita' politiche, nonche' ai funzionari responsabili di posizione organizzativa negli enti privi di dirigenza.
 
 2.
 

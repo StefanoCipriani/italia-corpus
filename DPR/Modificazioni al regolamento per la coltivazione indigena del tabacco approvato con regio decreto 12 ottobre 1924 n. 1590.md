@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni;
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni;
 
 Considerato la necessita' e l'urgenza di adeguare alcune norme che disciplinano la coltivazione del tabacco alle prescrizioni di difesa contro la peronospora;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Articolo unico.
 
-All'art. 15 del regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni, sono aggiunti i seguenti commi:
+All'art. 15 del regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni, sono aggiunti i seguenti commi:
 
  I semenzai di tabacco dovranno essere costituiti con tecnica razionale e raggruppati in appositi centri di produzione di piantine, dichiarati idonei ed autorizzati dalla competente Direzione compartimentale per la coltivazione dei tabacchi.
  Le superfici, investite a semenzaio per ciascun, centro, non possono, di regola, essere inferiori a metri quadrati 500 per la varieta' Kentucky e similari, Beneventano e Nostrano; a metri quadrati 1000 per le varieta' Bright, Burley, Maryland, Sub-tropicali, Resistente, Samsum, Porsucian ed Erzegovina; a metri quadrati 2000 per le varieta' Perustitza e Nanthy.

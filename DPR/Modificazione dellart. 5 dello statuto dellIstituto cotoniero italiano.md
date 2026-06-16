@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [regio decreto-legge 3 marzo 1934, n. 291](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conferimento%20della%20personalita%20giuridica%20allIstituto%20Cotoniero%20Italiano%20e%20determinazione%20dei%20suoi%20compiti%20e%20degli%20organi%20e%20dei%20mezzi%20occorrenti%20per%20il%20suo%20funzionamento.%20034U0291.md), e successive modificazioni, con il quale fu conferita la personalita' giuridica all'Istituto cotoniero italiano;
- Visto il [regio decreto 29 marzo 1934, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-29;512), e successive modificazioni, con il quale fu approvato lo statuto del predetto Istituto;
+ Visto il [regio decreto 29 marzo 1934, n. 512](../Regi%20decreti/Approvazione%20dello%20statuto%20dellistituto%20Cotoniero%20Italiano.%20034U0512.md), e successive modificazioni, con il quale fu approvato lo statuto del predetto Istituto;
  Considerata la necessita' di modificare l'art. 5 dello statuto medesimo, ai fini della ricostituzione dell'amministrazione ordinario dell'Ente;
  Udito il Consiglio di Stato;
  Sentito il Consiglio dei Ministri;
@@ -21,7 +21,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- L'art. 5 dello statuto dell'Istituto cotoniero italiano, approvato con [regio decreto 29 marzo 1934, n. 512](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-29;512), e successive modificazioni, e' sostituito dal seguente:
+ L'art. 5 dello statuto dell'Istituto cotoniero italiano, approvato con [regio decreto 29 marzo 1934, n. 512](../Regi%20decreti/Approvazione%20dello%20statuto%20dellistituto%20Cotoniero%20Italiano.%20034U0512.md), e successive modificazioni, e' sostituito dal seguente:
  "Il Consiglio direttivo e' composto di quindici membri, oltre che dal presidente ove questi sia scelto fuori del Consiglio stesso.
  "Il Consiglio, e' nominato con decreto del Ministro per l'industria e commercio ed e' composto di:
  a) 11 rappresentanti degli industriali cotonieri designati, a seguito di elezione, dall'assemblea dei partecipanti all'Istituto, con riguardo alla distribuzione geografica delle aziende;

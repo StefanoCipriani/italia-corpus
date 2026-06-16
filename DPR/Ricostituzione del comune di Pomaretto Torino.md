@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 15 aprile 1928, n. 974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;974), con il quale i comuni di Meano e di Pomaretto furono aggregati al comune di Perosa Argentina;
+Visto il [regio decreto 15 aprile 1928, n. 974](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Meano%20e%20di%20Pomaretto%20al%20comune%20di%20Perosa%20Argentina.%20028U0974.md), con il quale i comuni di Meano e di Pomaretto furono aggregati al comune di Perosa Argentina;
 
 Vista l'istanza 15 aprile 1946, con la quale la maggioranza dei contribuenti del cessato comune di Pomaretto ne ha chiesto la ricostituzione in Comune autonomo;
 

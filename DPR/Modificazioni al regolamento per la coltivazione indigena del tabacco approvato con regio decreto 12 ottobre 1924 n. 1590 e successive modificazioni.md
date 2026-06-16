@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni;
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni;
 
 Udito il Consiglio di amministrazione dei monopoli di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Le disposizioni contenute negli articoli 9, lettera f), 9, ultimo comma, n. 1, 10, 42, 45, 46, 47, 48, 49, 50, 52 e 55 del regolamento per la coltivazione indigena del tabacco approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni, sono sostituite dalle seguenti: 
+Le disposizioni contenute negli articoli 9, lettera f), 9, ultimo comma, n. 1, 10, 42, 45, 46, 47, 48, 49, 50, 52 e 55 del regolamento per la coltivazione indigena del tabacco approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni, sono sostituite dalle seguenti: 
  Art. 9, lettera f): 
  "se per due successive campagne abbiano consegnato tabacco che per qualita' intrinseche o per lavorazione, cura o conservazione risulti non idoneo, a giudizio dell'Amministrazione, alle lavorazioni del Monopolio;". 
  Art. 9, ultimo comma, n. 1: 
@@ -84,7 +84,7 @@ Nota redazionale
 
 ## Art. 2.
 
-Sono abrogate le disposizioni degli articoli articoli 53, 54 e 83 del regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni.
+Sono abrogate le disposizioni degli articoli articoli 53, 54 e 83 del regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni.
 
 ## Art. 3.
 

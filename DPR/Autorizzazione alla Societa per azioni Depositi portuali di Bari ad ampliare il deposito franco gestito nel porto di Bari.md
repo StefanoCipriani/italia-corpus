@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-17;726), ed il regolamento di esecuzione approvato con [regio decreto 17 giugno 1938, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-17;856);
+Visto il testo unico delle leggi sui depositi franchi, approvato con [regio decreto 17 marzo 1938, n. 726](../Testi%20Unici/Testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0726.md), ed il regolamento di esecuzione approvato con [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md);
 
 Visto il [decreto del Presidente della Repubblica 9 gennaio 1957, n. 365](Autorizzazione%20alla%20Societa%20per%20azioni%20Depositi%20portuali%20di%20Bari%20ad%20istituire%20e%20gestire%20un%20deposito%20franco%20nel%20porto%20di%20Bari.md), con il quale la Societa', per azioni "Depositi portuali" di Bari e' stata autorizzata ad istituire e gestire un deposito franco nel porto di Bari;
 

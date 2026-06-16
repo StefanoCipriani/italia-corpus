@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 1 del regio decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778#art_1), che approva il regolamento generale per il servizio di pilotaggio nei porti dello Stato;
+ Visto l'[art. 1 del regio decreto 29 aprile 1926, n. 778](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20il%20servizio%20pilotaggio%20nei%20porti%20dello%20Stato.%20026U0778.md), che approva il regolamento generale per il servizio di pilotaggio nei porti dello Stato;
  Vista la tabella A unita al prefatto regolamento che dichiara costituite, tra le altre, le corporazioni dei piloti dei porti di Trapani e Marsala;
  Visto l'[art. 86 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  Ritenuta la necessita' di unificare, per un migliore assetto del servizio, le suddette corporazioni;
@@ -21,7 +21,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- A modifica della tabella dei corpi dei piloti costituente allegato A al [regio decreto 29 aprile 1926, n. 778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-29;778), sul regolamento generale per il servizio di pilotaggio nei porti dello Stato, la corporazione dei piloti del porto di Trapani e la corporazione dei piloti del porto di Marsala sono unificate nell'unica corporazione dei piloti dei porti di Trapani e Marsala, cui e' attribuita la prima categoria.
+ A modifica della tabella dei corpi dei piloti costituente allegato A al [regio decreto 29 aprile 1926, n. 778](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20il%20servizio%20pilotaggio%20nei%20porti%20dello%20Stato.%20026U0778.md), sul regolamento generale per il servizio di pilotaggio nei porti dello Stato, la corporazione dei piloti del porto di Trapani e la corporazione dei piloti del porto di Marsala sono unificate nell'unica corporazione dei piloti dei porti di Trapani e Marsala, cui e' attribuita la prima categoria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

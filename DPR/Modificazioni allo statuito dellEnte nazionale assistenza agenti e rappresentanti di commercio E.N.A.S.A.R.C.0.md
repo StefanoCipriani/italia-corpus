@@ -28,7 +28,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
 
 ## Articolo unico.
 
-E' approvata la [delibera n. 66 del 15 novembre 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1948-11-15;66) del commissario straordinario dell'Ente nazionale assistenza agenti e rappresentanti di commercio (E.N.A.S.A.R.C.O.), nel testo allegato al presente decreto, visto dal Ministro proponente, con la quale sono apportate modifiche agli articoli 3, 4, 9 e 15 e sono soppressi gli articoli 7 ed 8 ed il secondo comma dell'art. 10 dello statuto dell'E.N.A.S.A.R.C.O., approvato con [regio decreto 6 giugno 1939, n. 1305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-06-06;1305).
+E' approvata la [delibera n. 66 del 15 novembre 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1948-11-15;66) del commissario straordinario dell'Ente nazionale assistenza agenti e rappresentanti di commercio (E.N.A.S.A.R.C.O.), nel testo allegato al presente decreto, visto dal Ministro proponente, con la quale sono apportate modifiche agli articoli 3, 4, 9 e 15 e sono soppressi gli articoli 7 ed 8 ed il secondo comma dell'art. 10 dello statuto dell'E.N.A.S.A.R.C.O., approvato con [regio decreto 6 giugno 1939, n. 1305](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20nazionale%20fascista%20di%20assistenza%20per%20gli%20agenti%20e%20rappresentanti%20di%20commercio.%20039U1305.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

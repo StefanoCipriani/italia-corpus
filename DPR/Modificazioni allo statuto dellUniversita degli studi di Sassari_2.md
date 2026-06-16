@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1804) e modificato con [regio decreto 17 ottobre 1941, n. 1217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allo%20statuto%20della%20Regia%20universita%20di%20Sassari.%20041U1217.md), e coi [decreti del Presidente della Repubblica 28 aprile 1951, n. 769](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Sassari.md) e [27 ottobre 1951, n. 1848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1951-10-27;1848);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -82,7 +82,7 @@ Art. 15. - Agli insegnamenti complementari del corso di laurea in giurisprudenza
  Art. 53. - Per l'iscrizione di coloro che siano provveduti di altra laurea, valgono le seguenti norme:
  a) i laureati in scienze naturali possono essere iscritti al quarto anno del corso;
  b) per la iscrizione di coloro che siano provvisti di laurea diversa da quella suddetta, come per gli esami e i corsi che possono essere convalidati, il Consiglio di Facolta' decidera' caso per caso.
- Art. 54. - Il professore di ruolo di chimica, farmaceutica e tossicologica della Facolta' di farmacia e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali, a norma dell'ultimo capoverso dell'art. 15 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+ Art. 54. - Il professore di ruolo di chimica, farmaceutica e tossicologica della Facolta' di farmacia e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali, a norma dell'ultimo capoverso dell'art. 15 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni;
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni;
 
 Vista la legge sul monopolio dei sali e dei tabacchi 17 luglio 1942, n. 907, e successive modificazioni;
 

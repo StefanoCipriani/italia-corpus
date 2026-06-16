@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visti gli [articoli 15](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [138 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visto il [regio decreto 5 aprile 1928, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-05;929), concernente disposizioni per le operazioni di stazzatura delle navi;
+Visto il [regio decreto 5 aprile 1928, n. 929](../Regi%20decreti/Disposizioni%20relative%20alle%20operazioni%20ed%20alle%20tariffe%20di%20stazzatura%20delle%20navi%20e%20dei%20galleggianti.%20028U0929.md), concernente disposizioni per le operazioni di stazzatura delle navi;
 
 Visto l'[art. 2, lettera c), del regio decreto 20 dicembre 1923, n. 3235](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20circoscrizioni%20della%20marina%20mercantile.%20023U3235.md);
 

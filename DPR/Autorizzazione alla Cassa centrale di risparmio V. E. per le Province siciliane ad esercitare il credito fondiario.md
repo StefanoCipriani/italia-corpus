@@ -14,7 +14,7 @@ Visti il [regio decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/u
 
 Visti il testo unico delle leggi sul credito fondiario, approvato con [regio decreto 16 luglio 1905, n. 646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md), e le successive modificazioni;
 
-Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-05-05;472), e le successive modificazioni;
+Visti il regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 5 maggio 1910, n. 472](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20delle%20leggi%20sul%20Credito%20fondiario.%20010U0472.md), e le successive modificazioni;
 
 Visto lo statuto della Cassa centrale di risparmio V. E. per le Province siciliane, con sede in Palermo, approvato con decreto del Presidente della Regione siciliana 28 febbraio 1958, n. 150;
 

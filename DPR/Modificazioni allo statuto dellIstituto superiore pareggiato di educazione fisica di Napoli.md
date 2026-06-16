@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Istituto superiore pareggiato di educazione fisica di Napoli, approvato con [decreto del Presidente della Repubblica 1 febbraio 1960, n. 476](Pareggiamento%20dellistituto%20superiore%20di%20educazione%20fisica%20di%20Napoli.md);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduta la [legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88);
 
@@ -249,7 +249,7 @@ Registrato alla Corte dei conti, addi' 6 dicembre 1977 Registro n. 137 Istruzion
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto lo statuto dell'Istituto superiore pareggiato di educazione fisica di Napoli, approvato con [decreto del Presidente della Repubblica 1 febbraio 1960, n. 476](Pareggiamento%20dellistituto%20superiore%20di%20educazione%20fisica%20di%20Napoli.md);
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduta la [legge 7 febbraio 1958, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-07;88);
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592#art_17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto superiore pareggiato di educazione fisica di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;

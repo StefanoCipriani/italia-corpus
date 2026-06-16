@@ -93,7 +93,7 @@ Il giudizio sulle prove scritte ed orali e' demandato ad una Commissione esamina
 
 ### Art. 9.
 
-Una Commissione di vigilanza nominata dal Ministro per le finanze e composta di un generale di brigata, presidente, di due ufficiali superiori, membri, dei quali il meno elevato in grado od il meno anziano funge da segretario, provvede a regolare ed a sorvegliare lo svolgimento delle prove scritte e ad adottare i provvedimenti di esclusione dalle prove di cui all'[art. 36 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_36).
+Una Commissione di vigilanza nominata dal Ministro per le finanze e composta di un generale di brigata, presidente, di due ufficiali superiori, membri, dei quali il meno elevato in grado od il meno anziano funge da segretario, provvede a regolare ed a sorvegliare lo svolgimento delle prove scritte e ad adottare i provvedimenti di esclusione dalle prove di cui all'[art. 36 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
  Gli ufficiali che nel corso delle prove intendano non proseguirle debbono rilasciare dichiarazione scritta al presidente della Commissione di vigilanza di cui al precedente comma.
 
 ### Art. 10.
@@ -105,7 +105,7 @@ Ciascun membro assegna quindi per proprio conto su apposita scheda firmata, un p
 
 ### Art. 11.
 
-Per le altre modalita' di svolgimento delle prove scritte, non previste dai precedenti articoli, si osserveranno le norme di cui agli [articoli 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_35), [36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_36), [37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_37) e [38 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_38).
+Per le altre modalita' di svolgimento delle prove scritte, non previste dai precedenti articoli, si osserveranno le norme di cui agli [articoli 35](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [36](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), [37](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [38 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md).
 
 ### Art. 12.
 

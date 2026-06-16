@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto il testo unico delle leggi sull'istruzione universitaria approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Visto il testo unico delle leggi sull'istruzione universitaria approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito in legge. 2 gennaio 1936, n. 73; 
  Vista la convenzione in data 23 aprile 1959 stipulata tra l'Universita' di Palermo e la regione siciliana per il funzionamento di sette posti di professore di ruolo e di sette posti di assistente di ruolo per l'istituzione della facolta' di magistero dell'Universita' di Palermo; 
  Visto il [decreto del Presidente della Repubblica 26 agosto 1959, n. 1341](Istituzione%20della%20Facolta%20di%20magistero%20presso%20lUniversita%20degli%20studi%20di%20Palermo.md), che, approvando e rendendo esecutiva detta convenzione, istituisce la facolta' di magistero e ne dispone l'inclusione tra le facolta' dell'Universita' di Palermo; 

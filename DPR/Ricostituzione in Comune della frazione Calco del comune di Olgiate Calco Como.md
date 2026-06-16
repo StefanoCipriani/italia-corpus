@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 2 giugno 1927, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-02;1032), con il quale i comuni di Calco e di Mondonico, in provincia di Como, venivano soppressi ed aggregati al comune di Olgiate Molgora;
+Visto il [regio decreto 2 giugno 1927, n. 1032](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Calco%20e%20Mondonico%20a%20quello%20di%20Olgiate%20Molgora.%20027U1032.md), con il quale i comuni di Calco e di Mondonico, in provincia di Como, venivano soppressi ed aggregati al comune di Olgiate Molgora;
 
 Visto il [regio decreto 15 gennaio 1928, n. 79](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20della%20denominazione%20del%20comune%20di%20Olgiate%20Molgora%20in%20Olgiate%20Calco.%20028U0079.md), con il quale la denominazione del comune di Olgiate Molgora era mutata in quella di Olgiate Calco;
 

@@ -25,7 +25,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 ## Art. 1.
 
 Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;540#art_2) e [3 del decreto luogotenenziale 21 agosto 1945, n. 540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;540#art_3), sono sostituiti con il seguente:
- "Le indennita' giornaliere spettanti per gli incarichi di missione all'estero, sostitutive di quelle previste dallo [art. 1 del regio decreto 3 giugno 1926, n. 941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-03;941#art_1), sono stabilite paese per paese, direttamente in valuta locale o in altra valuta, al netto delle ritenute erariali, e, ove necessario, modificate in rapporto alle variazioni delle condizioni valutarie o del costo della vita di ciascun paese, dal Ministro per il tesoro con propri decreti.
+ "Le indennita' giornaliere spettanti per gli incarichi di missione all'estero, sostitutive di quelle previste dallo [art. 1 del regio decreto 3 giugno 1926, n. 941](../Regi%20decreti/Indennita%20al%20personale%20dellAmministrazione%20dello%20Stato%20incaricato%20di%20missione%20allestero.%20026U0941.md), sono stabilite paese per paese, direttamente in valuta locale o in altra valuta, al netto delle ritenute erariali, e, ove necessario, modificate in rapporto alle variazioni delle condizioni valutarie o del costo della vita di ciascun paese, dal Ministro per il tesoro con propri decreti.
  Gli incarichi di missione all'estero sono conferiti dal Ministro competente entro i limiti degli stanziamenti di bilancio".
 
 ## Art. 2.

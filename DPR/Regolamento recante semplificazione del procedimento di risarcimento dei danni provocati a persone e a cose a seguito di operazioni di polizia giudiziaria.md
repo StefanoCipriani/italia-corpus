@@ -16,9 +16,9 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ed in particolare l'articolo 2, commi 7, 8 e 9;
 
-Visto l'[articolo 14 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_14);
+Visto l'[articolo 14 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
-Visto l'[articolo 7 del regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_7);
+Visto l'[articolo 7 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 1994;
 
@@ -118,7 +118,7 @@ In caso di transazione, la prefettura provvede alla stipula dell'atto, alla regi
 
 3.
 
-In deroga a quanto previsto dall'[art. 14 regio decreto 18 novembre 1923 n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_14), il prescritto parere al Consiglio di Stato sullo schema di transazione deve essere richiesto solo se il danno da liquidare ammonta ad una somma superiore a lire cinquanta milioni. Il detto limite viene annualmente elevato in riferimento ai parametri ISTAT relativi al costo della lira dei lavoratori dell'industria.
+In deroga a quanto previsto dall'[art. 14 regio decreto 18 novembre 1923 n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), il prescritto parere al Consiglio di Stato sullo schema di transazione deve essere richiesto solo se il danno da liquidare ammonta ad una somma superiore a lire cinquanta milioni. Il detto limite viene annualmente elevato in riferimento ai parametri ISTAT relativi al costo della lira dei lavoratori dell'industria.
 
 Nota all'art. 4:
  - Per il testo dell'[articolo 14 del Regio decreto n. 2240/1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923;2240#art_14), si vedano le precedenti note alle premesse.

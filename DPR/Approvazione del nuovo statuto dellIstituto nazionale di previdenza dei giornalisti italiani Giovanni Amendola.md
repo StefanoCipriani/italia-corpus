@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto lo statuto, approvato col [decreto del Presidente della Repubblica 1 ottobre 1951, n. 1576](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani.md), dell'Istituto nazionale di previdenza dei giornalisti italiani "Giovanni Amendola", eretto in ente morale col [regio decreto 25 marzo 1926, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-25;838);
+ Visto lo statuto, approvato col [decreto del Presidente della Repubblica 1 ottobre 1951, n. 1576](Approvazione%20del%20nuovo%20statuto%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani.md), dell'Istituto nazionale di previdenza dei giornalisti italiani "Giovanni Amendola", eretto in ente morale col [regio decreto 25 marzo 1926, n. 838](../Regi%20decreti/Riconoscimento%20giuridico%20dellIstituto%20nazionale%20di%20previdenza%20dei%20giornalisti%20italiani%20in%20Roma.%20026U0838.md);
  Visto il decreto ministeriale 7 agosto 1952, con il quale e' stato nominato il Consiglio generale dell'istituto predetto, modificato con i decreti Ministeriali 24 ottobre 1953, 23 marzo 1954 e 1 febbraio 1955;
  Viste la delibera adottata dallo stesso Consiglio nelle riunioni del 29-30 novembre 1955, con la quale e' stato approvato il nuovo statuto, e la nota del 7 marzo 1956 del presidente dell'Istituto suddetto;
  Udito il parere del Consiglio di Stato;

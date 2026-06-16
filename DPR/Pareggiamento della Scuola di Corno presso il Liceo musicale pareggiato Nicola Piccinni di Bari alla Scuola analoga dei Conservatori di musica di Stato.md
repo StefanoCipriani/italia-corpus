@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md);
- Visto il [regio decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945);
+ Visto il [regio decreto 11 dicembre 1930, n. 1945](../Regi%20decreti/Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md);
  Visto il [regio decreto 23 settembre 1937, n. 2138](../Atti%20normativi%20abrogati%20%28in%20originale%29/Pareggiamento%20del%20Liceo%20musicale%20consorziale%20Nicolo%20Piccinni%20di%20Bari%20ai%20Conservatori%20musicali%20governativi.%20037U2138.md);
  Vista la lettera con cui in data 23 aprile 1955 il presidente del Liceo musicale consorziale "Nicolo' Piccinni" di Bari ha chiesto il pareggiamento della Scuola di Corno;
  Vista la relazione della Commissione tecnica amministrativa incaricata dal Ministero della pubblica istruzione di procedere, presso il predetto Liceo musicale pareggiato, agli accertamenti di cui al citato [regio decreto 15 maggio 1930, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20degli%20Istituti%20musicali.%20030U1170.md);

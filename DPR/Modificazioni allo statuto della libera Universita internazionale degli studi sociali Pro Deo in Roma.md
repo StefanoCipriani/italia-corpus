@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto della libera Universita' internazionale degli studi sociali "Pro Deo" in Roma, approvato con [decreto del Presidente della Repubblica 5 maggio 1966, n. 436](Istituzione%20dellUniversita%20internazionale%20degli%20studi%20sociali%20Pro%20Deo%20con%20sede%20in%20Roma.md) e modificato con [decreto del Presidente della Repubblica 31 maggio 1967, n. 482](Istituzione%20della%20Facolta%20di%20scienze%20politiche%20presso%20la%20libera%20Universita%20internazionale%20degli%20studi%20sociali%20Pro%20Deo%20con%20sede%20in%20Roma.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -41,7 +41,7 @@ L'Universita' si propone di formare giovani idonei ad affrontare responsabilita'
  Per raggiungere questo obiettivo, l'Universita' ritiene di doversi definire come luogo aperto a tutti coloro che, a prescindere dalla loro ispirazione ideologica, siano disponibili per un lavoro culturale coerente con tale impostazione.
  Art. 2. - L'Universita' e' promossa dall'associazione per l'Universita' internazionale degli studi sociali, che ne assicura il perseguimento dei fini istituzionali e provvede ai servizi e mezzi necessari.
  Art. 3. - La libera Universita' internazionale degli studi sociali in Roma e' autonoma, ai sensi dell'[art. 33 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_33) italiana.
- Essa ha personalita' giuridica a norma dell'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+ Essa ha personalita' giuridica a norma dell'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md).
  La vigilanza dello Stato sull'Universita' e' esercitata dal Ministero della pubblica istruzione.
  Dopo l'art. 13, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle norme per l'immatricolazione e per gli esami di laurea.
  Art. 14. - La popolazione studentesca e' programmata in maniera da non superare le condizioni di ricettivita' funzionale della struttura edilizia e didattica dell'Universita'.

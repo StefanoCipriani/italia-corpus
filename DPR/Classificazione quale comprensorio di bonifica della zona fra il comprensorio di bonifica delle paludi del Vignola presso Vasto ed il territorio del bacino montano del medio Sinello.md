@@ -17,7 +17,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visti gli atti posti a corredo della domanda stessa;
  Considerato che la bassa Valle del Sinello presenta le caratteristiche volute dalla legge per la sua inclusione fra i comprensori di bonifica, ricadendo in essa terre paludose, terreni dissestati nei riguardi idrogeologici e zone coltivate estensivamente e suscettibili di una trasformazione dell'ordinamento produttivo;
  Visto il voto 2 aprile 1948, n. 56, del Comitato speciale per la bonifica;
- A termini dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+ A termini dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
  Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici;
 
  Decreta:

@@ -116,7 +116,7 @@ Il Ministero dell'Interno somministra, altresi', in tempo utile, ai predetti fun
 Per le spese indicate dai commi 1 e 3, le aperture di credito per ciascun capitolo di spesa sono disposte senza limiti di importo.
 
 Nota all'art. 3:
- - Si trascrive il testo dell'[art. 56, primo comma, n. 8), del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_56-com1-num8), concernente: "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato":
+ - Si trascrive il testo dell'[art. 56, primo comma, n. 8), del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente: "Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato":
  "Art. 56. - Possono essere autorizzate, presso l'istituto incaricato del servizio di tesoreria, nel caso in cui l'adozione di altra forma di pagamento sia incompatibile con la necessita' dei servizi, aperture di credito a favore di funzionari delegati, per il pagamento delle seguenti spese, sia in conto della competenza dell'esercizio che in conto residui:
  1)-7)(omissis);
  8) paghe ed assegni ai Corpi organizzati militarmente al servizio dello Stato".
@@ -273,7 +273,7 @@ Per il pagamento dei fitti di detti immobili, possono essere autorizzate apertur
 L'Amministrazione della pubblica sicurezza provvede, in economia, ai lavori, alle provviste ed ai servizi di cui all'apposito regolamento del Ministero dell'interno, predisposto ai sensi dell'art. 8 della legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
 
 Nota all'art. 14:
- - Si trascrive il testo dell'[art. 8 del R.D. 18 novembre 1923, n.2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_8):
+ - Si trascrive il testo dell'[art. 8 del R.D. 18 novembre 1923, n.2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md):
  "Art. 8. - I servizi che per la loro natura debbono farsi in economia sono determinati e retti da speciali regolamenti approvati con decreto del Presidente della Repubblica, previo parere del Consiglio di Stato.
  Quando ricorrano speciali circostanze potranno eseguirsi in economia, in base ad autorizzazione data con decreto motivato del Ministro, servizi non preveduti dai regolamenti. Sara' in tal caso sentito il Consiglio di Stato, ove l'importo superi le lire 7.200.000".
 
@@ -446,7 +446,7 @@ Nota all'art. 24:
 Per l'acquisto di autoveicoli, motoveicoli, aeromobili, natanti, mezzi di trasporto in genere e loro parti di ricambio, prodotti dall'industria nazionale, nonche' per l'acquisto di carburanti e lubrificanti, destinati alla Polizia di Stato e forniti dall'industria nazionale, si applica il disposto dell'art. 5-bis della legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
 
 Nota all'art. 25:
- - Si trascrive il testo dell'[art. 5-bis del R.D. 18 novembre 1923,n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_5bis):
+ - Si trascrive il testo dell'[art. 5-bis del R.D. 18 novembre 1923,n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md):
  "Art. 5-bis. - Per l'acquisto di autoveicoli, motoveicoli, mezzi di trasporto in genere e loro parti di ricambio, prodotti dall'industria nazionale, nonche' per l'acquisto di carburanti e lubrificanti destinati alle Forze armate e forniti dall'industria nazionale, non si applicano il disposto del precedente art. 5 e quello del successivo art. 6, secondo comma".
 
 ### Art. 26. — Collaudi
@@ -817,7 +817,7 @@ I materiali affluiti nei predetti centri vengono dati in consegna ad agenti cont
 
 3.
 
-I centri di cui al comma 1 sono sottoposti al controllo del Ministero del tesoro - Ragioneria generale dello Stato, ai sensi dell'[art. 3 della legge 26 luglio 1939, n.1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-26;1037#art_3), nonche' al riscontro della Corte dei conti, a norma del testo unico approvato con [regio decreto 12 luglio 1934, n.1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e successive modificazioni.
+I centri di cui al comma 1 sono sottoposti al controllo del Ministero del tesoro - Ragioneria generale dello Stato, ai sensi dell'[art. 3 della legge 26 luglio 1939, n.1037](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-07-26;1037#art_3), nonche' al riscontro della Corte dei conti, a norma del testo unico approvato con [regio decreto 12 luglio 1934, n.1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni.
 
 4.
 
@@ -838,7 +838,7 @@ Note all'[art. 52:
  3 a curare l'esatta ed uniforme interpretazione ed applicazione delle disposizioni della contabilita' generale dello Stato;
  4 ad accertare il regolare adempimento delle funzioni sindacali e di revisione presso enti, istituti o societa', da parte dei designati dal Ministro del tesoro, e a riassumerne e coordinarne i risultati.
  Il ragioniere generale dello Stato sottopone al Ministro del Tesoro le proposte per le designazioni alle funzioni sindacali e di revisione predette".
- - Il [R.D. 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), approva il testo unico delle leggi sulla Corte dei conti.
+ - Il [R.D. 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), approva il testo unico delle leggi sulla Corte dei conti.
 
 ### Art. 53. — Attribuzioni dei direttori dei centri
 
@@ -1157,7 +1157,7 @@ Nota all'art. 76:
  Il periodo di congedo sraordinario o di aspettativa per motivi di salute puo' essere fruito anche fuori sede, pre- via comunicazione del recapito all'ufficio.
  Art. 62. - Al termine di malattie con prognosi superiori a trenta giorni il dipendente viene visitato anche dal sanitario della Polizia di Stato per il giudizio di idoneita' al servizio.
  Ove il sanitario lo ritenga necessario, in relazione al tipo ed alla durata della malattia, tale giudizio puo' essere demandato alla commissione medica ospedaliera.
- Gli accertamenti relativi vengono effettuati in conformita' delle disposizioni della [legge 11 marzo 1926, n.416](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), e suc- cessive modifiche, e del regolamento approvato con [regio decreto 15 aprile 1928, n. 1024](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;1024).
+ Gli accertamenti relativi vengono effettuati in conformita' delle disposizioni della [legge 11 marzo 1926, n.416](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20sulle%20procedure%20da%20seguirsi%20negli%20accertamenti%20medico-legali%20delle%20ferite%20lesioni%20ed%20infermita%20dei%20personali%20dipendenti%20dalle%20Amministrazioni%20militari%20e%20da%20altre%20Ammini_859b71684ddf.md), e suc- cessive modifiche, e del regolamento approvato con [regio decreto 15 aprile 1928, n. 1024](../Regi%20decreti/Sostituzione%20di%20un%20nuovo%20regolamento%20a%20quello%20approvato%20con%20R.%20decreto%2022%20giugno%201926%20n.%201067%20per%20la%20esecuzione%20della%20legge%2011%20marzo%201926%20n.%20416%20sulle%20procedure%20da%20seguirsi%20negli%20accertam_431e98b73093.md).
  Il ricovero in un ospedale militare puo' essere disposto dal sanitario della Polizia di Stato, qualora sia necessario per gli accertamenti medico-legali o a richiesta dell'interessato, in conformita' alle norme sul Servizio sanitario nazionale.
  Art. 63. - Il dipendente della Polizia di Stato ha l'obbligo di sottoporsi alle misure profilattiche generali o specifiche e agli accertamenti sanitari che l'amministrazione stessa ritenga di disporre in relazione al possibile insorgere di fenomeni di tipo infettivo o epidermico.
  Art. 64. - Fermo restando quanto previsto dall'[art. 9 del decreto del Presidente della Repubblica 23 dicembre 1983, n. 904](Approvazione%20del%20regolamento%20sui%20requisiti%20psico-fisici%20e%20attitudinali%20di%20cui%20devono%20essere%20in%20possesso%20gli%20appartenenti%20ai%20ruoli%20della%20Polizia%20di%20Stato%20che%20espletano%20funzioni%20di%20polizia%20_6272c5391ef4.md), per l'impiego in particolari settori di attivita', il dipendente puo' essere sottoposto ad accertamenti psicofisici ed attitudinali.

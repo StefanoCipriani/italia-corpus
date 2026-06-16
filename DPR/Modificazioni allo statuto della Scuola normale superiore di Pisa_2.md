@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [regio decreto 21 ottobre 1938, numero 2216](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20normale%20superiore%20di%20Pisa.%20038U2216.md), e modificato con [regio decreto 21 ottobre 1940, n. 1654](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allo%20statuto%20della%20Regia%20scuola%20normale%20superiore%20di%20Pisa.%20040U1654.md), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduta la proposta di modifica dello statuto formulata dal le autorita' accademiche della predetta scuola;
 
@@ -223,7 +223,7 @@ Registrato alla Corte dei conti, addi' 23 ottobre 1963 Atti del Governo, registr
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [regio decreto 21 ottobre 1938, numero 2216](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20normale%20superiore%20di%20Pisa.%20038U2216.md), e modificato con [regio decreto 21 ottobre 1940, n. 1654](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allo%20statuto%20della%20Regia%20scuola%20normale%20superiore%20di%20Pisa.%20040U1654.md), e successivi;
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduta la proposta di modifica dello statuto formulata dal le autorita' accademiche della predetta scuola;
  Sentito il parere del Consiglio superiore della pubblica istruzione;
  Sulla proposta del Ministro per la pubblica istruzione;

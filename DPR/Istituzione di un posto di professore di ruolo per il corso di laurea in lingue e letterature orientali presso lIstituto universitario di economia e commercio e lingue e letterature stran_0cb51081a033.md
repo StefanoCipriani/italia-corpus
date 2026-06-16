@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni ed integrazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
 Veduto il [decreto del Presidente della Repubblica 22 maggio 1964, n. 1236](Istituzione%20del%20corso%20di%20laurea%20in%20lingue%20e%20letterature%20orientali%20presso%20la%20Facolta%20di%20lingue%20e%20letterature%20straniere%20dellIstituto%20universitario%20di%20economia%20e%20commercio%20e%20di%20lingue%20e%20lett_d8d0acf2a264.md), con il quale e' stato istituito un corso di laurea in lingue e letterature orientali presso l'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia;
 
@@ -22,7 +22,7 @@ E' approvata e resa esecutiva l'annessa convenzione, stipulata in data 19 settem
 
 ## Art. 2.
 
-E' istituito ai sensi degli articoli 63 secondo comma e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo da destinare all'insegnamento di una delle lingue e letterature orientali per il corso di laurea in lingue e letterature orientali presso l'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia.
+E' istituito ai sensi degli articoli 63 secondo comma e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo da destinare all'insegnamento di una delle lingue e letterature orientali per il corso di laurea in lingue e letterature orientali presso l'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia.
 
 ## Art. 3.
 

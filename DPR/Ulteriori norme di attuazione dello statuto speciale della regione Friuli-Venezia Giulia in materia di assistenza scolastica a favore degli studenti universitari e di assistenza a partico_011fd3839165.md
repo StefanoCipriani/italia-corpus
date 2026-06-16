@@ -34,7 +34,7 @@ Sono trasferite alla regione Friuli-Venezia Giulia, relativamente al suo territo
 
 2.
 
-Le opere universitarie, di cui all'[art. 189 del regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592#art_189), e successive modificazioni, relative alle Universita' degli studi di Trieste e di Udine assumono la posizione giuridica di enti dipendenti dalla regione, agli effetti dell'art. 4, n. 1, dello statuto speciale, continuando a svolgere i compiti loro attribuiti sino a quando non sara' diversamente disposto con legge regionale.
+Le opere universitarie, di cui all'[art. 189 del regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni, relative alle Universita' degli studi di Trieste e di Udine assumono la posizione giuridica di enti dipendenti dalla regione, agli effetti dell'art. 4, n. 1, dello statuto speciale, continuando a svolgere i compiti loro attribuiti sino a quando non sara' diversamente disposto con legge regionale.
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.

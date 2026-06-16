@@ -119,7 +119,7 @@ Fino a quando non sara' diversamente disposto con legge provinciale anche in ord
 ## Art. 13.
 
 La definizione dei procedimenti amministrativi che abbiano comportato assunzione di impegni, ai sensi dell'art. 49 della legge di contabilita' di Stato, prima della data di entrata in vigore del presente decreto, rimane di competenza degli organi statali. Rimane, parimenti, di competenza degli organi dello Stato, con oneri a carico del bilancio statale, la liquidazione delle ulteriori annualita' di spese pluriennali a carico di esercizi successivi a quello in corso, qualora l'impegno relativo alla prima annualita' abbia fatto carico ad esercizi finanziari anteriori.
- Resta altresi', fino alla data del 31 dicembre 1978, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai termini del [secondo comma dell'art. 36 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_36-com2), o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme.
+ Resta altresi', fino alla data del 31 dicembre 1978, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai termini del [secondo comma dell'art. 36 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme.
 
 ## Art. 14.
 

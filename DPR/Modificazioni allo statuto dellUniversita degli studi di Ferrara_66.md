@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Ferrara_2.md) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Ferrara_3.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -108,7 +108,7 @@ Gli articoli da 157 a 164, relativi alla scuola diretta a fini speciali per orto
 
 Scuola speciale per ortottisti-assistenti di oftalmologia
 
-Art. 157. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia, che ha sede presso la clinica oculistica della facolta' di medicina e chirurgia dell'Universita' di Ferrara.
+Art. 157. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia, che ha sede presso la clinica oculistica della facolta' di medicina e chirurgia dell'Universita' di Ferrara.
 
 Art. 158. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e postoperatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.
 
@@ -207,7 +207,7 @@ Registrato alla Corte dei conti, addi' 21 gennaio 1978 Registro n. 6 Istruzione,
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Ferrara_2.md) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Ferrara_3.md), e successive modificazioni;
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
@@ -260,7 +260,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Scuola speciale per ortottisti-assistenti di oftalmologia
 
- Art. 157. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia, che ha sede presso la clinica oculistica della facolta' di medicina e chirurgia dell'Universita' di Ferrara.
+ Art. 157. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia, che ha sede presso la clinica oculistica della facolta' di medicina e chirurgia dell'Universita' di Ferrara.
  Art. 158. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e postoperatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.
  La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.
  Sono titoli di ammissione i diplomi di istruzione secondaria di secondo grado di durata quinquennale ivi compresi i licei linguistici riconosciuti per legge, il diploma di maturita' professionale ai sensi della [legge 27 ottobre 1969, n. 754](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-27;754) e i diplomi di istituti magistrali e dei licei artistici integrati dai corsi annuali previsti dalla [legge 11 dicembre 1969, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910).

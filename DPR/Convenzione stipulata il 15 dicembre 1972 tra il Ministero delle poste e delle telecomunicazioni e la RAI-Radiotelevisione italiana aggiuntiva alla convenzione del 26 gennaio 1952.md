@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'art. 168 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
+Visto l'art. 168 del codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
 Vista la convenzione stipulata il 26 gennaio 1952, tra il Ministero delle poste e delle telecomunicazioni e la RAI - Radiotelevisione italiana, approvata e resa esecutiva con il [decreto del Presidente della Repubblica 26 gennaio 1952, n. 180](Approvazione%20ed%20esecutorieta%20della%20Convenzione%20per%20la%20concessione%20alla%20Radio%20Audizioni%20Italia%20Societa%20per%20azioni%20del%20servizio%20di%20radioaudizioni%20e%20televisione%20circolare%20e%20del%20servizio%20di%20t_1991fe0575ba.md), per la concessione alla RAI dei servizi di radioaudizione, televisione, telediffusione e radiofotografia circolari, e successive modificazioni;
 

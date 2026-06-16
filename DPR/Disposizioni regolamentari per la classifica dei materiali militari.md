@@ -16,7 +16,7 @@ Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' 
 
 Visto il regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con [regio decreto 10 febbraio 1927, n. 443](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20027U0443.md), e successive modificazioni;
 
-Visto il regolamento per il servizio degli arsenali, delle basi navali e degli altri stabilimenti di lavoro e per l'amministrazione e contabilita' dei lavori e dei materiali, approvato con [regio decreto 23 novembre 1939, n. 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-11-23;1898);
+Visto il regolamento per il servizio degli arsenali, delle basi navali e degli altri stabilimenti di lavoro e per l'amministrazione e contabilita' dei lavori e dei materiali, approvato con [regio decreto 23 novembre 1939, n. 1898](../Regi%20decreti/Regolamento%20per%20i%20servizi%20degli%20Arsenali%20delle%20Basi%20navali%20e%20degli%20altri%20Stabilimenti%20di%20lavoro%20della%20Regia%20marina%20e%20per%20lamministrazione%20e%20la%20contabilita%20dei%20lavori%20e%20dei%20materiali.%20039U1898.md);
 
 Visto il regolamento per la gestione del materiale speciale aeronautico, approvato con [regio decreto 6 aprile 1923, n. 729](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-04-06;729), e successive modificazioni;
 

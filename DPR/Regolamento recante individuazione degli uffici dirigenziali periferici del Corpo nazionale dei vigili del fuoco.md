@@ -197,7 +197,7 @@ Con successivo decreto del Ministro dell'interno di natura non regolamentare, da
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 21 MARZO 2005, N. 85](Regolamento%20recante%20rideterminazione%20delle%20dotazioni%20organiche%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md).
+COMMA ABROGATO DAL [D.P.R. 21 MARZO 2005, N. 85](../Regolamenti%20governativi/Regolamento%20recante%20rideterminazione%20delle%20dotazioni%20organiche%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md).
 
 3.
 

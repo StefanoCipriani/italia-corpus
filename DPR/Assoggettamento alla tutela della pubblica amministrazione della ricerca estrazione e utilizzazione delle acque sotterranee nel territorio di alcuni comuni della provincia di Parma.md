@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94) approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e la utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione;
+ Visto l'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e la utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione;
  Ritenuta la necessita' di dichiarare soggetto alla tutela della pubblica amministrazione il territorio dei seguenti comuni della provincia di Parma: Langhirano, Sala Baganza, Fornovo di Taro, Medesano, Salsomaggiore, Busseto, Soragna, San Secondo Parmense, Trecasali, Torrile, Colorno, Mezzani e Sorbolo;
  Visto il voto 19 gennaio 1967, n. 70/1863 del Consiglio superiore dei lavori pubblici;
  Sentito il Consiglio dei Ministri;

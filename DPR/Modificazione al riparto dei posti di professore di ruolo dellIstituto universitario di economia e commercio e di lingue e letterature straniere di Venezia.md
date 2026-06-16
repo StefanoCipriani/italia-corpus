@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati alla Facolta' di economia e commercio e alla Facolta' di lingue e letterature straniere nell'Istituto universitario di economia e commercio e di lingue e letterature straniere di Venezia, di cui alla [legge 11 giugno 1954, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-06-11;360), e successive modificazioni, allo scopo di consentire la restituzione, da parte della Facolta' di lingue e letterature straniere del posto di ruolo ceduto dalla Facolta' di economia e commercio nell'anno 1952;
  Visto il parere espresso dal Consiglio superiore della pubblica istruzione del 14 maggio 1955;
  Sulla proposta del Ministro per la pubblica istruzione;

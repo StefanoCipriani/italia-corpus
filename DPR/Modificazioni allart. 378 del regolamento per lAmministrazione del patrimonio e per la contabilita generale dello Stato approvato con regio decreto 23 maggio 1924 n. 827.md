@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni, contenente disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni, contenente disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827) che approva il relativo regolamento;
 
-Visto il [regio decreto 28 giugno 1933, n. 704](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-06-28;704), recante norme per il funzionamento presso l'Amministrazione dello Stato dei Servizi inerenti alla liquidazione delle pensioni;
+Visto il [regio decreto 28 giugno 1933, n. 704](../Regi%20decreti/Norme%20per%20il%20funzionamento%20presso%20lAmministrazione%20dello%20Stato%20dei%20servizi%20inerenti%20alla%20liquidazione%20delle%20pensioni.%20033U0704.md), recante norme per il funzionamento presso l'Amministrazione dello Stato dei Servizi inerenti alla liquidazione delle pensioni;
 
 Vista la [legge 10 agosto 1950, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;618), concernente il riordinamento delle disposizioni sulle pensioni di guerra;
 

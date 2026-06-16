@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Visto il [regio decreto 26 ottobre 1933, n. 1401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%20per%20listituzione%20di%20un%20nuovo%20posto%20di%20professore%20di%20ruolo%20presso%20il%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Sassari.%20033U1401.md);
 

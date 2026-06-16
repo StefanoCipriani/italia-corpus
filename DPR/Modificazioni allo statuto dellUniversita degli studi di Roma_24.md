@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Roma.%20039U1350.md), e modificato con [regio decreto 26 ottobre 1939, n. 1734](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20039U1734.md), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -78,7 +78,7 @@ c) Possono iscriversi alla scuola i laureati in giurisprudenza da non piu' di tr
 
 d) Le tasse annuali di iscrizione e i contributi accessori sono stabiliti in L. 10.000 (diecimila);
 
-e) Agli iscritti, di cui possa essere documentata la frequenza ad almeno due terzi delle esercitazioni svoltesi durante l'anno, viene rilasciato, a loro richiesta, dal direttore della scuola, un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_6), in relazione all'[art. 18 del regio decreto 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1578#art_18).
+e) Agli iscritti, di cui possa essere documentata la frequenza ad almeno due terzi delle esercitazioni svoltesi durante l'anno, viene rilasciato, a loro richiesta, dal direttore della scuola, un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), in relazione all'[art. 18 del regio decreto 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1578#art_18).
 
 Il rilascio di tale certificato e' soggetto al pagamento di un diritto fisso stabilito da norme interne;
 
@@ -947,7 +947,7 @@ Registrato alla Corte dei conti, addi' 28 ottobre 1957 Atti del Governo, registr
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Roma.%20039U1350.md), e modificato con [regio decreto 26 ottobre 1939, n. 1734](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20039U1734.md), e successivi; 
- Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592); 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md); 
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md); 
  Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni; 
  Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md); 
@@ -984,7 +984,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Le esercitazioni saranno affidate a docenti ed assistenti universitari, magistrati, avvocati, funzionari, notai e verranno tenute, di regola, nelle ore serali; 
  c) Possono iscriversi alla scuola i laureati in giurisprudenza da non piu' di tre anni; 
  d) Le tasse annuali di iscrizione e i contributi accessori sono stabiliti in L. 10.000 (diecimila); 
- e) Agli iscritti, di cui possa essere documentata la frequenza ad almeno due terzi delle esercitazioni svoltesi durante l'anno, viene rilasciato, a loro richiesta, dal direttore della scuola, un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37#art_6), in relazione all'[art. 18 del regio decreto 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1578#art_18). 
+ e) Agli iscritti, di cui possa essere documentata la frequenza ad almeno due terzi delle esercitazioni svoltesi durante l'anno, viene rilasciato, a loro richiesta, dal direttore della scuola, un certificato agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](../Regi%20decreti/Norme%20integrative%20e%20di%20attuazione%20del%20R.%20decreto-legge%2027%20novembre%201933%20n.%201578%20sullordinamento%20delle%20professioni%20di%20avvocato%20e%20di%20procuratore.%20034U0037.md), in relazione all'[art. 18 del regio decreto 27 novembre 1933, n. 1578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1578#art_18). 
  Il rilascio di tale certificato e' soggetto al pagamento di un diritto fisso stabilito da norme interne; 
  f) La scuola e' diretta da un direttore eletto dal Consiglio della Facolta' di giurisprudenza a maggioranza assoluta fra i professori ordinari di materie privatistiche o pubblicistiche, e da due consiglieri, uno dei quali e' il preside della Facolta' e l'altro e' eletto dal Consiglio di facolta' tra i professori, anche fuori ruolo, delle materie di cui sopra, a maggioranza assoluta. 
  Alle adunanze del Consiglio puo' essere invitato dal direttore un alto magistrato o funzionario o il presidente dell'Ordine degli avvocati e procuratori di Roma. 

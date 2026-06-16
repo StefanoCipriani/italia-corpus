@@ -26,7 +26,7 @@ Emana il seguente regolamento:
 
 1.
 
-All'[articolo 13 del regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_13), sono apportate le seguenti modificazioni:
+All'[articolo 13 del regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), sono apportate le seguenti modificazioni:
                         a)
                             al primo comma, lettera a), le parole: «, anche se trattenuto al Ministero, avente grado non inferiore a consigliere di Cassazione o equiparato» sono sostituite dalle seguenti: «con funzioni di legittimita»;
                         b)
@@ -47,7 +47,7 @@ Avvertenza:
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
  e) lettera soppressa.».
  Nota all'art. 1:
- - Si riporta il testo dell'[art. 13 del regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_13) (Disposizioni sul conferimento dei posti di notaro.), come modificato dal regolamento qui pubblicato:
+ - Si riporta il testo dell'[art. 13 del regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md) (Disposizioni sul conferimento dei posti di notaro.), come modificato dal regolamento qui pubblicato:
  «Art. 13. - La commissione esaminatrice, da nominarsi con decreto del Ministro per la giustizia, e' composta:
  a) di un magistrato, con funzioni di legittimita', il quale la presiede;
  b) di un professore di materie giuridiche in una universita' o istituto superiore di grado universitario;
@@ -60,14 +60,14 @@ Avvertenza:
 
 1.
 
-All'[articolo 14 del regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953#art_14), sono apportate le seguenti modificazioni:
+All'[articolo 14 del regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), sono apportate le seguenti modificazioni:
                         a)
                             al primo comma, le parole: «avente grado non inferiore a consigliere di Cassazione o equiparato, anche se trattenuto al Ministero di grazia e giustizia», sono sostituite dalle parole: «con funzioni di legittimita', avente minore anzianita' di ruolo del titolare»;
                         b)
                             il secondo comma e' sostituito dal seguente: «Il Ministro designa inoltre, per le funzioni di segreteria, un coordinatore ed un supplente tra i magistrati trattenuti al Ministero della giustizia e personale amministrativo di area C, come delineata dal contratto collettivo nazionale di lavoro del comparto Ministeri del 16 febbraio 1999, dipendente dall'Amministrazione centrale.».
 
 Nota all'art. 2:
- - Si riporta il testo dell'art. 14 del citato [regio decreto 14 novembre 1926, n. 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;1953), come modificato dal regolamento qui pubblicato:
+ - Si riporta il testo dell'art. 14 del citato [regio decreto 14 novembre 1926, n. 1953](../Regi%20decreti/Disposizioni%20sul%20conferimento%20dei%20posti%20di%20notaro.%20026U1953.md), come modificato dal regolamento qui pubblicato:
  «Art. 14. - Il Ministro nomina pure un magistrato con funzioni di legittimita', avente minore anzianita' di ruolo del titolare, per supplire il presidente in caso di assenza o di impedimento, e un commissario supplente per ciascun commissario effettivo fra gli appartenenti alle corrispondenti categorie.
  Il Ministro designa inoltre per le funzioni di segreteria, un coordinatore ed un supplente tra i magistrati trattenuti al Ministero della giustizia e personale amministrativo di area C, come delineata dal contratto collettivo nazionale di lavoro del comparto Ministeri del 16 febbraio 1999, dipendente dall'Amministrazione centrale.».
 

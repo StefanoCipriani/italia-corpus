@@ -12,8 +12,8 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 22 del regio decreto 31 ottobre 1923, n. 2523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523#art_22), sul riordinamento dell'istruzione industriale;
- Visto l'art. 43 del testo unico delle leggi sulla rappresentanza, e difesa in giudizio delle Amministrazioni statali, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), e successive modifiche;
+ Visto l'[art. 22 del regio decreto 31 ottobre 1923, n. 2523](../Regi%20decreti/Riordinamento%20dellistruzione%20industriale.%20023U2523.md), sul riordinamento dell'istruzione industriale;
+ Visto l'art. 43 del testo unico delle leggi sulla rappresentanza, e difesa in giudizio delle Amministrazioni statali, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e successive modifiche;
  Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per la grazia e giustizia, per l'industria e commercio, per il tesoro e per le finanze;
 
  Decreta:

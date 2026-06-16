@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Veduto il [decreto del Presidente della Repubblica 2 novembre 1952, n. 1381](Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20per%20linsegnamento%20di%20tecnica%20commerciale%20delle%20imprese%20di%20navigazione%20e%20di%20assicurazione%20presso%20lIstituto%20universitario%20navale%20di%20Napoli.md);
 

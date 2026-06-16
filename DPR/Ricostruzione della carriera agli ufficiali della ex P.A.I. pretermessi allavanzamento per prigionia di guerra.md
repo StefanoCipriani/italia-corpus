@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza 31 agosto 1907, n. 690, ed il relativo regolamento approvato con [regio decreto 20 agosto 1909, n. 666](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-20;666);
+Visto il testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza 31 agosto 1907, n. 690, ed il relativo regolamento approvato con [regio decreto 20 agosto 1909, n. 666](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20speciale%20per%20gli%20ufficiali%20ed%20impiegati%20di%20P.%20S.%20009U0666.md);
 
 Visto il [regio decreto 9 gennaio 1927, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-01-09;33), sul riordinamento del personale della pubblica sicurezza e dei servizi di polizia;
 

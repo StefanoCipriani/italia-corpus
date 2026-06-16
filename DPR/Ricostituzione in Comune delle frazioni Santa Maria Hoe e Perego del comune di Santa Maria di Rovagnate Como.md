@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 8 dicembre 1927, n. 2571](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-08;2571), con il quale i comuni di Rovagnate, Perego e Bagaggera, in provincia di Como, venivano soppressi e fusi in unico Comune denominato Rovagnate;
+Visto il [regio decreto 8 dicembre 1927, n. 2571](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Rovagnate%20Perego%20e%20Bagaggera%20in%20un%20unico%20Comune%20con%20capoluogo%20Rovagnate.%20027U2571.md), con il quale i comuni di Rovagnate, Perego e Bagaggera, in provincia di Como, venivano soppressi e fusi in unico Comune denominato Rovagnate;
 
 Visto il [regio decreto 25 ottobre 1928, n. 2522](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Rovagnate%20e%20Santa%20Maria%20Hoe%20in%20un%20unico%20Comune%20denominato%20%20Santa%20Maria%20di%20Rovagnate%20.%20028U2522.md), con il quale i comuni di Rovagnate e di Santa Maria Hoe' venivano soppressi e fusi in unico Comune denominato Santa Maria di Rovagnate;
 

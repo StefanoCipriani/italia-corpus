@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Regia%20universita%20di%20Padova.%20026U2133.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -81,7 +81,7 @@ citoistologia
  L'esame di diploma consiste nella discussione di una dissertazione scritta su tema preventivamente assegnato dal direttore della scuola e in una prova pratica di citoistologia stabilita dalla commissione esaminatrice. 
  L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, scelti fra i docenti della scuola, nominata dal rettore su proposta del direttore della scuola. 
  Ogni commissario ha a disposizione dieci punti. 
- Per quanto non previsto dal presente statuto in materia di costituzione e composizione delle commissioni degli esami di profitto e di diploma si fa rinvio al R.S. ([regio decreto 4 giugno 1938, n. 1269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269)). 
+ Per quanto non previsto dal presente statuto in materia di costituzione e composizione delle commissioni degli esami di profitto e di diploma si fa rinvio al R.S. ([regio decreto 4 giugno 1938, n. 1269](../Regi%20decreti/Approvazione%20del%20regolamento%20sugli%20studenti%20i%20titoli%20accademici%20gli%20esami%20di%20Stato%20e%20lassistenza%20scolastica%20nelle%20Universita%20o%20negli%20Istituti%20superiori.%20038U1269.md)). 
  I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza. A coloro che avranno superato l'esame verra' rilasciato il diploma di "tecnico di anatomia patologica e citoistologia". 
  Le tasse sono quelle previste dalle vigenti disposizioni di legge. 
  I contributi vanno deliberati dal consiglio di amministrazione sentito il consiglio della scuola. 

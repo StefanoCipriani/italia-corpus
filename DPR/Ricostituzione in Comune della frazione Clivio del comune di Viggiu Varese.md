@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 4 settembre 1927, n. 2389](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Viggiu%20Saltrio%20e%20Clivio%20in%20un%20unico%20Comune%20denominato%20Viggiu%20ed%20Uniti.%20027U2389.md), con il quale i comuni di Clivio, Saltrio e Viggiu', in provincia di Varese, furono soppressi e fusi in unico Comune denominato Viggiu' ed Uniti;
 
-Visto il [regio decreto 4 ottobre 1934, n. 2353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-04;2353), con il quale la denominazione del comune di Viggiu' ed Uniti era mutata in quella di Viggiu';
+Visto il [regio decreto 4 ottobre 1934, n. 2353](../Regi%20decreti/Modificazione%20della%20denominazione%20del%20comune%20di%20Viggiu%20ed%20Uniti%20in%20provincia%20di%20Varese%20in%20Viggiu.%20034U2353.md), con il quale la denominazione del comune di Viggiu' ed Uniti era mutata in quella di Viggiu';
 
 Vista l'istanza in data 1 giugno 1947, intesa ad ottenere la ricostituzione del comune di Clivio;
 

@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
-Visto il [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960);
+Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto il [regio decreto 4 aprile 1938, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-04;417);
+Visto il [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20per%20il%20personale%20dellAmministrazione%20civile%20dellinterno.%20038U0417.md);
 
 Visto l'[art. 4 della legge 16 giugno 1940, n. 721](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellinterno.%20040U0721.md);
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per l'interno, di concerto col Ministro per il tesor
 
 L'esame di concorso per il conferimento dei posti di grado 8° del ruolo di gruppo A nella carriera di ragioneria dell'Amministrazione civile dell'interno consta di quattro prove scritte e di una orale.
 Esse hanno luogo in Roma, secondo il programma allegato al presente decreto.
- Per l'esame contemplato nel precedente comma si osservano le disposizioni di cui al capo 6° del [regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni ed integrazioni, nonche' quelle contenute nel capo 2° del [regio decreto 4 aprile 1938, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-04;417), in quanto siano applicabili.
+ Per l'esame contemplato nel precedente comma si osservano le disposizioni di cui al capo 6° del [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni ed integrazioni, nonche' quelle contenute nel capo 2° del [regio decreto 4 aprile 1938, n. 417](../Regi%20decreti/Regolamento%20per%20il%20personale%20dellAmministrazione%20civile%20dellinterno.%20038U0417.md), in quanto siano applicabili.
 
 ## Art. 2.
 

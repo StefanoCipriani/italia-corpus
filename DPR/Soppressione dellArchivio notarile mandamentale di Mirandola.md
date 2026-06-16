@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto il [regio decreto 11 maggio 1879, n. 4874](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20si%20provvede%20alla%20sistemazione%20degli%20archivi%20notarili%20subalterni%20delle%20provincie%20gia%20estensi.%20079U4874.md), con il quale venne istituito l'Archivio notarile mandamentale di Mirandola;
- Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili approvato con [regio decreto 10 settembre 1914, n. 1326](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-10;1326);
+ Visto l'art. 248 del regolamento per l'esecuzione della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), riguardante l'ordinamento del notariato e degli archivi notarili approvato con [regio decreto 10 settembre 1914, n. 1326](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20regolamento%20per%20lesecuzione%20della%20legge%2016%20febbraio%201913%20n.%2089%20riguardante%20lordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.%20014U1326.md);
  Viste le deliberazioni dei comuni di Cavezzo, Concordia sulla Secchia, Medolla, Mirandola, San Possidonio, San Prospero rispettivamente in data 2 maggio 1958, 22 luglio 1958, 13 giugno 1958, 14 gennaio 1953, 12 giugno 1958, 11 luglio 1958;
  Visto il parere del conservatore dell'Archivio notarile distrettuale di Modena in data 11 marzo 1958;
  Visto il parere del Procuratore della Repubblica presso il Tribunale di Modena in data 17 dicembre 1958;

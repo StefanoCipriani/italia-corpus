@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 6 dicembre 1923, n. 2769](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-06;2769), con il quale il comune di Lucinasco fu soppresso ed aggregato al comune di Chiusavecchia;
+Visto il [regio decreto 6 dicembre 1923, n. 2769](../Regi%20decreti/Modificazioni%20alla%20circoscrizione%20di%20trenta%20comuni%20della%20provincia%20di%20Imperia.%20023U2769.md), con il quale il comune di Lucinasco fu soppresso ed aggregato al comune di Chiusavecchia;
 
 Viste le istanze in data 22 e 28 gennaio 1956, con le quali la maggioranza qualificata degli elettori del soppresso comune di Lucinasco ne ha chiesto la ricostituzione in comune autonomo;
 

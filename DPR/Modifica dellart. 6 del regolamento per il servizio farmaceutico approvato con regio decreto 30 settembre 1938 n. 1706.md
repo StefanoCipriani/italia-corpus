@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 105 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_105), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visto l'[art. 105 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Visto il regio (decreto 30 settembre 1938, n. 1706, che approva il regolamento per il servizio farmaceutico;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la sanita'; Decreta:
 
 ## Articolo unico.
 
-L'ultimo comma dell'[art. 6 del regio decreto 30 settembre 1938, n. 1706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706#art_6), e' sostituito dal seguente:
+L'ultimo comma dell'[art. 6 del regio decreto 30 settembre 1938, n. 1706](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20servizio%20farmaceutico.%20038U1706.md), e' sostituito dal seguente:
  "Un funzionario della carriera direttiva amministrativa del Ministero della sanita' esercita le funzioni di segretario".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -82,7 +82,7 @@ Ministero dei lavori pubblici:
  verificatisi in varie zone del
  territorio nazionale)
  ---------------- 
-Alle integrazioni predette, ricorrendo le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede mediante prelevamento dell'indicato fondo di riserva per le spese impreviste in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
+Alle integrazioni predette, ricorrendo le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede mediante prelevamento dell'indicato fondo di riserva per le spese impreviste in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
 
  Il Ministro per il tesoro: COLOMBO 
  IL PRESIDENTE DELLA REPUBBLICA

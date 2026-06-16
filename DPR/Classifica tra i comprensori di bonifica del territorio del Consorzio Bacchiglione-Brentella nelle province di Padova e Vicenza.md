@@ -12,11 +12,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Vista la domanda 6 marzo 1947, con la quale il Consorzio Bacchiglione-Brentella, con sede in Padova, ha chiesto, la classifica del proprio comprensorio, della superficie di ettari 10.237.71 fra quelli di bonifica ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215);
+ Vista la domanda 6 marzo 1947, con la quale il Consorzio Bacchiglione-Brentella, con sede in Padova, ha chiesto, la classifica del proprio comprensorio, della superficie di ettari 10.237.71 fra quelli di bonifica ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
  Vista la corografia 1: 25.000 del comprensorio da classificare suddiviso in 10 bacini e delimitato a nord dalla strada comunale del Borghetto; ad ovest: dai fiumi Ceresone Nuovo e Tesina; a sud: dal fiume Bacchiglione; ad est: dal canale Brentella, dalla strada Padova Villafranca e dalla roggia Contarina;
  Ritenuto che e' stata compiuta la pubblicazione degli atti senza opposizioni o reclami;
  Sentito il Comitato speciale per la bonifica;
- Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+ Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
  Sulla proposta del Ministro per l'agricoltura e per le foreste di concerto con i Ministri per il tesoro e per i lavori pubblici;
 
  Decreta:

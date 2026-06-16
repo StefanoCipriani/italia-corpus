@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[articolo 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[articolo 41, primo comma, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
  Viste le [leggi 18 ottobre 1960, nn. 1198, 1200, 1205, 1206 e 1211, 19 ottobre 1960, n. 1197, 21 ottobre 1960, n. 1209; 25 ottobre 1960, nn. 1210 e 1214; 26 ottobre 1960, nn. 1201, 1202, 1203 e 1204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-10-26;1204);
  Sentito il Consiglio dei Ministri;

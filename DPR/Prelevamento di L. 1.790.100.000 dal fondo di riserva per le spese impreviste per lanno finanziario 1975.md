@@ -35,14 +35,14 @@ Spese per la tutela e l'assistenza delle collettivita' italiane all'estero (cap.
  
  . . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.790.100.000 
  
- Alle integrazioni predette, ricorrendo le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede mediante prelevamento dall'indicato fondo di riserva per le spese impreviste in base alla facolta' di cui all'[art. 4, del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_4), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. 
+ Alle integrazioni predette, ricorrendo le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede mediante prelevamento dall'indicato fondo di riserva per le spese impreviste in base alla facolta' di cui all'[art. 4, del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. 
  
  Il Ministro per il tesoro: COLOMBO 
  
  
  IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) della Repubblica; 
  Vista la [legge 21 dicembre 1974, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-12-21;692); 
  Considerato che sul fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro per l'anno finanziario 1975, esiste la necessaria disponibilita'; 

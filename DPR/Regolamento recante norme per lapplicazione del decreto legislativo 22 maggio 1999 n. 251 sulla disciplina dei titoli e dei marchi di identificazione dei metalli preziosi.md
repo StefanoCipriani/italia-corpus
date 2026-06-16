@@ -515,7 +515,7 @@ Nota all'[art. 20:
  h) gli oggetti usati in possesso delle aziende commerciali;
  i) i residui di lavorazione;
  j) le leghe saldanti a base argento, platino o palladio.
- 2. La prova di oggetto usato deve essere data dalla descrizione dell'oggetto riportata nel registro delle operazioni previsto dall'[art. 128 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_128), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e dalla corrispondente fattura redatta dal commerciante acquirente.
+ 2. La prova di oggetto usato deve essere data dalla descrizione dell'oggetto riportata nel registro delle operazioni previsto dall'[art. 128 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e dalla corrispondente fattura redatta dal commerciante acquirente.
  3. L'autenticita' degli oggetti di antiquariato di cui alla lettera c) deve essere riconosciuta da esperti, iscritti nei ruoli dei periti e degli esperti, presso le camere di commercio.".
 
 ### Art. 21.
@@ -662,7 +662,7 @@ Detta domanda contiene le seguenti indicazioni:
                             a)
                                 la denominazione dell'azienda e la sua sede legale;
                             b)
-                                le generalita' del titolare della licenza, ove prevista, di cui all'[articolo 127 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_127) di cui al [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) e la sua posizione in seno all'azienda. Nel caso di ditte individuali o di imprese artigiane, le generalita' del titolare della ditta o dell'impresa medesima;
+                                le generalita' del titolare della licenza, ove prevista, di cui all'[articolo 127 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e la sua posizione in seno all'azienda. Nel caso di ditte individuali o di imprese artigiane, le generalita' del titolare della ditta o dell'impresa medesima;
                             c)
                                 l'attivita' o le attivita' esercitate dall'azienda, ai sensi dell'articolo 26;
                             d)
@@ -685,7 +685,7 @@ Per le aziende industriali, la documentazione da allegare alla domanda di conces
 In detto numero sono inclusi tutti i prestatori di lavoro subordinato dell'azienda, indipendentemente dalle rispettive qualifiche, operai, impiegati, dirigenti amministrativi o tecnici, e dal loro eventuale impiego in settori dell'impresa anche non direttamente connessi con la lavorazione dei metalli preziosi.
 
 Note all'[art. 27:
- - Il regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_27), reca approvazione del [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773). L'art. 127, cosi' recita:
+ - Il regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), reca approvazione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md). L'art. 127, cosi' recita:
  "Art. 127 (art. 128 testo unico 1926). - I fabbricanti, i commercianti, i mediatori di oggetti preziosi, hanno l'obbligo di munirsi di licenza del questore.
  Chi domanda la licenza deve provare d'essere iscritto, per l'industria o il commercio di oggetti preziosi, nei ruoli della imposta di ricchezza mobile ed in quelli delle tasse di esercizio e rivendita ovvero deve dimostrare il motivo della mancata iscrizione in tali ruoli. La licenza dura fino al 31 dicembre dell'anno in cui e' stata rilasciata.
  Essa e' valida per tutti gli esercizi di vendita di oggetti preziosi appartenenti alla medesima persona o alla medesima ditta, anche se si trovino in localita' diverse.
@@ -831,12 +831,12 @@ Note all'[art. 31:
 
 1.
 
-Oltre che per il caso previsto dall'articolo 7, comma 4, del decreto, si procede al ritiro del marchio e alla cancellazione dal registro, per decadenza della licenza, di cui all'[articolo 127 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_127) di cui al [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773).
+Oltre che per il caso previsto dall'articolo 7, comma 4, del decreto, si procede al ritiro del marchio e alla cancellazione dal registro, per decadenza della licenza, di cui all'[articolo 127 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 Note all'[art. 32:
  - Il decreto legislativo 22 maggio 1999, n. 251](../Decreti%20Legislativi/Disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi%20in%20attuazione%20dellarticolo%2042%20della%20legge%2024%20aprile%201998%20n.%20128.md), reca disciplina dei titoli e dei marchi di identificazione dei metalli preziosi, in attuazione dell'[art. 42 della legge 24aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md).
  - Per l'art. 7 vedi note all'art. 1.
- - Per l'[art. 127 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_127) vedi note all'art. 27.
+ - Per l'[art. 127 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) vedi note all'art. 27.
 
 ## Marchi tradizionali di fabbrica, marchio per il saggio facoltativo
 
@@ -971,7 +971,7 @@ La denominazione "gioielleria" "oreficeria" e "argenteria" non sono applicabili 
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 26 novembre 2014, n. 195](Regolamento%20recante%20ulteriori%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20maggio%202002%20n.%20150%20concernente%20norme%20per%20lapplicazione%20del%20decreto%20legislativo%2022%20maggio%201999%20n.%20251%20_fc97a7217da8.md) ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al [comma 1 dell'articolo 36 del decreto del Presidente della Repubblica n. 150 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;150#art_36-com1), come modificate dalla lettera l) del comma 1 del presente articolo, si applicano a decorrere dal centoventesimo giorno successivo alla data di entrata in vigore del presente regolamento. Gli oggetti realizzati in conformita' alle norme anteriormente vigenti possono essere commercializzati per ulteriori 12 mesi".
+Il [D.P.R. 26 novembre 2014, n. 195](../Regolamenti%20governativi/Regolamento%20recante%20ulteriori%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20maggio%202002%20n.%20150%20concernente%20norme%20per%20lapplicazione%20del%20decreto%20legislativo%2022%20maggio%201999%20n.%20251%20_fc97a7217da8.md) ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al [comma 1 dell'articolo 36 del decreto del Presidente della Repubblica n. 150 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;150#art_36-com1), come modificate dalla lettera l) del comma 1 del presente articolo, si applicano a decorrere dal centoventesimo giorno successivo alla data di entrata in vigore del presente regolamento. Gli oggetti realizzati in conformita' alle norme anteriormente vigenti possono essere commercializzati per ulteriori 12 mesi".
 
 ### Art. 37.
 
@@ -1178,7 +1178,7 @@ Nota all'[art. 47:
  L'art. 26 cosi' recita:
  "Art. 26. - 1. Salvo i casi di particolare tenuita', qualora il fatto costituisca reato, alla condanna penale consegue la pubblicazione della sentenza a norma dell'[art. 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  2. In caso di recidiva, ferme restando le disposizioni di cui agli [articoli 99 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ove applicabili, alla sanzione consegue la sospensione dall'esercizio della attivita' di produzione o commercio di materie prime od oggetti di metalli preziosi per un periodo da un minimo di quindici giorni ad un massimo di sei mesi.
- Nella determinazione del periodo di sospensione dall'esercizio dell'attivita' si tiene conto del periodo di sospensione eventualmente eseguito, per i medesimi fatti, a norma dell'[art. 10 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_10), approvato con regio decreto 18 giugno 193 1, n. 773.".
+ Nella determinazione del periodo di sospensione dall'esercizio dell'attivita' si tiene conto del periodo di sospensione eventualmente eseguito, per i medesimi fatti, a norma dell'[art. 10 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con regio decreto 18 giugno 193 1, n. 773.".
 
 ## Sistemi di certificazione, laboratori di analisi
 

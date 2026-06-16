@@ -136,7 +136,7 @@ Il [D.P.R. 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20orig
 
 ## Art. 9. — Conto giudiziale dei versamenti diretti
 
-Nel trimestre successivo alla chiusura dell'esercizio finanziario o alla cessazione delle funzioni, se avvenga prima, l'esattore rende il conto giudiziale della gestione relativa ai versamenti diretti a norma dell'[art. 74 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_74), per l'amministrazione del patrimonio e per la contabilita' generale dello Stato e dell'art. 610 del relativo regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni. Agli adempimenti previsti dall'art. 618 di detto regolamento provvede l'intendente di finanza.((4))
+Nel trimestre successivo alla chiusura dell'esercizio finanziario o alla cessazione delle funzioni, se avvenga prima, l'esattore rende il conto giudiziale della gestione relativa ai versamenti diretti a norma dell'[art. 74 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), per l'amministrazione del patrimonio e per la contabilita' generale dello Stato e dell'art. 610 del relativo regolamento approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni. Agli adempimenti previsti dall'art. 618 di detto regolamento provvede l'intendente di finanza.((4))
 
 ---------------
 

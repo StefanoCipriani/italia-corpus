@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94), approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), col quale il Governo fu autorizzato a stabilire i comprensori nei quali la ricerca, la estrazione e la utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica Amministrazione;
+ Visto l'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), col quale il Governo fu autorizzato a stabilire i comprensori nei quali la ricerca, la estrazione e la utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica Amministrazione;
  Ritenuto la necessita' di dichiarare soggetti a tutela della pubblica Amministrazione i territori indicati nella parte dispositiva del presente decreto;
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Visto il voto 18 dicembre 1953, n. 2647, del Consiglio superiore dei lavori pubblici;

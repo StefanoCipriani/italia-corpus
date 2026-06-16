@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [regio decreto-legge 16 giugno 1938, n. 1061](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1061), convertito nella [legge 18 gennaio 1939, n. 458](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20giugno%201938-XVI%20n.%201061%20recante%20provvedimenti%20a%20favore%20dellindustria%20cinematografica%20nazionale.%20039U0458.md);
 
-Visto il [regio decreto 20 ottobre 1939, n. 2237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-20;2237);
+Visto il [regio decreto 20 ottobre 1939, n. 2237](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20R.%20decreto%20legge%2017%20giugno%201938-XVI%20n.%201061%20contenente%20provvedimenti%20a%20favore%20della%20industria%20cinematografica%20nazionale.%20039U2237.md);
 
 Visto l'[art. 103 della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_103);
 
@@ -28,13 +28,13 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1.
 
-Il [primo comma dell'art. 11 del regio decreto 20 ottobre 1939, n. 2237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-20;2237#art_11-com1), e' sostituito dal seguente:
+Il [primo comma dell'art. 11 del regio decreto 20 ottobre 1939, n. 2237](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20R.%20decreto%20legge%2017%20giugno%201938-XVI%20n.%201061%20contenente%20provvedimenti%20a%20favore%20della%20industria%20cinematografica%20nazionale.%20039U2237.md), e' sostituito dal seguente:
  "Nel pubblico registro cinematografico devono essere annotate per ciascun film le indicazioni contenute nella relativa denuncia. I fogli del registro devono essere conformi al modello allegato II-A, per i film di lungometraggio, al modello allegato II-B, per i film di cortometraggio, al modello allegato II-C, per i film di attualita'".
 
 ## Art. 2.
 
 I fogli del pubblico registro cinematografico, compresi i fogli di seguito eventualmente occorrenti per i dati suppletivi e per le annotazioni degli atti riguardanti i singoli film, devono essere impaginati a registro e rilegati in volume, devono essere progressivamente numerati e preventivamente sottoposti al visto dell'Ufficio della proprieta' letteraria, artistica e scientifica della Presidenza del Consiglio dei Ministri. All'atto della apposizione di tale visto, sara' redatto apposito verbale nel quale dovranno essere indicati il tipo e il quantitativo dei fogli sottoposti al visto, con la specifica della numerazione progressiva dei fogli stessi.
- La Societa' italiana degli Autori ed Editori cura la tenuta di uno schedario, costituito da schede mobili nelle quali vengono trascritti, su copia conforme e aventi il valore risultante dall'[art. 30 del regio decreto 18 maggio 1942, n. 1369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-18;1369#art_30), tutti i dati contenuti nei fogli del pubblico registro cinematografico relativi ai singoli film.
+ La Societa' italiana degli Autori ed Editori cura la tenuta di uno schedario, costituito da schede mobili nelle quali vengono trascritti, su copia conforme e aventi il valore risultante dall'[art. 30 del regio decreto 18 maggio 1942, n. 1369](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2022%20aprile%201941-XIX%20n.%20633%20per%20la%20protezione%20del%20diritto%20di%20autore%20e%20di%20altri%20diritti%20connessi%20al%20suo%20esercizio.%20042U1369.md), tutti i dati contenuti nei fogli del pubblico registro cinematografico relativi ai singoli film.
 
 ## Art. 3.
 

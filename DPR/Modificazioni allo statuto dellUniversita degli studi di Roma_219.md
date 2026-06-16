@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20Universita%20di%20Roma.%20039U1350.md) e modificato con [regio decreto 26 ottobre 1939, n. 1734](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20della%20Regia%20universita%20di%20Roma.%20039U1734.md), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -34,7 +34,7 @@ Decreta: Lo statuto dell'Universita' degli studi di Roma, approvato e modificato
 
 Gli articoli da 916 a 928, relativi alla scuola speciale per tecnici di audiometria, sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
  Scuola speciale di preparazione per tecnici di audiometria
- Art. 916. - E' istituita, ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale per tecnici di audiometria che ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita'.
+ Art. 916. - E' istituita, ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), una scuola speciale per tecnici di audiometria che ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita'.
  Art. 917. - La durata del corso degli studi della scuola per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico pratico.
  Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).
  Art. 918. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio di durata quinquennale o quadriennale integrato con il corso di cui all'[art. 1 della legge 11 dicembre 1969, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910#art_1), previsto per l'ammissione all'Universita' o Istituto di istruzione universitaria.

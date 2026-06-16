@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_1) e [32 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_32), sullo stato giuridico degli impiegati civili dello Stato;
+Visti gli [articoli 1](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [32 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -36,7 +36,7 @@ Per l'ammissione ai concorsi per le carriere civili dello Stato, gli aspiranti d
 
 ## Art. 2.
 
-La graduatoria di cui all'[art. 44 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_44), e' approvata con decreto Ministeriale sotto condizione dell'accertamento dei requisiti per l'ammissione all'impiego. A tal fine i concorrenti utilmente collocati nella graduatoria sono invitati dall'Amministrazione a presentare, nel termine e con le modalita' stabiliti nel bando di concorso, a pena di decadenza:
+La graduatoria di cui all'[art. 44 del regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e' approvata con decreto Ministeriale sotto condizione dell'accertamento dei requisiti per l'ammissione all'impiego. A tal fine i concorrenti utilmente collocati nella graduatoria sono invitati dall'Amministrazione a presentare, nel termine e con le modalita' stabiliti nel bando di concorso, a pena di decadenza:
  a) l'originale diploma del titolo di studio o una copia autentica, ovvero il documento rilasciato dalla competente autorita' scolastica in sostituzione del diploma;
  b) il certificato generale del casellario giudiziale;
  c) il certificato medico attestante la sana e robusta costituzione e la idoneita' fisica all'impiego;

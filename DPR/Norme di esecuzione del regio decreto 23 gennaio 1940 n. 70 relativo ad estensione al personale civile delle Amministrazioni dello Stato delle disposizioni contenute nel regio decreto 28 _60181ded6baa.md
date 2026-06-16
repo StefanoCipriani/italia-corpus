@@ -57,7 +57,7 @@ La concessione del distintivo d'onore non ha luogo, e, se disposta, e' revocata,
 
 ## Art. 8.
 
-Le disposizioni del presente decreto non si applicano nei casi per i quali e' prevista la concessione del distintivo d'onore istituito con [regio decreto 17 marzo 1938, n. 255](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-17;255).
+Le disposizioni del presente decreto non si applicano nei casi per i quali e' prevista la concessione del distintivo d'onore istituito con [regio decreto 17 marzo 1938, n. 255](../Regi%20decreti/Istituzione%20di%20uno%20speciale%20distintivo%20di%20onore%20per%20i%20cittadini%20Italiani%20che%20in%20seguito%20ad%20infortuni%20sul%20lavoro%20o%20a%20malattia%20professionale%20abbiano%20riportato%20ferite%20o%20lesioni%20con%20esiti%20gra_eee3f8d10cbc.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -25,7 +25,7 @@ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di c
 Sono istituiti, a decorrere dal 1 ottobre 1952:
  a) un Istituto tecnico nautico statale per macchinisti e capitani in Brindisi;
  b) un Istituto tecnico nautico statale per macchinisti in Riposto;
- c) la sezione "capitani" presso l'Istituto tecnico nautico statale di Procida, istituito con [regio decreto 16 ottobre 1940, n. 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1973).
+ c) la sezione "capitani" presso l'Istituto tecnico nautico statale di Procida, istituito con [regio decreto 16 ottobre 1940, n. 1973](../Regi%20decreti/Istituzione%20trasformazione%20e%20soppressione%20di%20Scuole%20e%20Istituti%20di%20istruzione%20tecnica%20a%20decorrere%20dal%2016%20ottobre%201939-XVII.%20040U1973.md).
  I posti di ruolo e quelli da conferirsi per incarico presso ciascuno dei suddetti Istituti sono indicati nelle tabelle A, B, C, allegate al presente decreto, firmate, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
 
 ## Art. 2.

@@ -22,13 +22,13 @@ Viste le lettere 15 e 23 gennaio 1951, n. 4 e 170829 dei Ministeri dei lavori pu
 
 Ritenuto che sussistono le circostanze per procedere alla richiesta classifica, allo scopo anche di armonizzare l'attivita' bonificatrice da svolgere nella intera zona, che presenta identita' di caratteristiche e di esigenze ai fini della trasformazione dell'ordinamento produttivo;
 
-Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3);
+Visto l'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md);
 
 Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
 
 ## Art. 1.
 
-Il territorio lungo il litorale jonico della provincia di Taranto e ricadente fra i comprensori di bonifica della Stornara e di "Pantano e Caggiuni" dell'estensione di circa 6000 ettari, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), fra i comprensori di bonifica di seconda categoria, sulla base della corografia che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
+Il territorio lungo il litorale jonico della provincia di Taranto e ricadente fra i comprensori di bonifica della Stornara e di "Pantano e Caggiuni" dell'estensione di circa 6000 ettari, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), fra i comprensori di bonifica di seconda categoria, sulla base della corografia che, munita del visto del Ministro proponente, forma parte integrante del presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

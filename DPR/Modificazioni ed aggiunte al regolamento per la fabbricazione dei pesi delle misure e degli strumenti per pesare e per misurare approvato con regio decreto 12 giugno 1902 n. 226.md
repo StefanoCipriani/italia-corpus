@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª);
+Visto il testo unico delle leggi sui pesi e sulle misure, approvato con [regio decreto 23 agosto 1890, n. 7088](../Regi%20decreti/Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª);
 
-Visto il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con [regio decreto 12 giugno 1902, numero 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226);
+Visto il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con [regio decreto 12 giugno 1902, numero 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md);
 
 Sentito il parere del Comitato centrale metrico;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per l'industria e per il commercio Decreta:
 
 ## Art. 1.
 
-Al regolamento per la fabbricazione dei pesi e delle misure e degli strumenti per pesare e per misurare, approvato Con [regio decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226), sono aggiunti i seguenti articoli:
+Al regolamento per la fabbricazione dei pesi e delle misure e degli strumenti per pesare e per misurare, approvato Con [regio decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md), sono aggiunti i seguenti articoli:
  Art. 31-bis. - Apparecchi automatici e semi-automatici per misurare liquidi.
  Gli apparecchi automatici e semi-automatici, per misurare liquidi in genere e carburanti inispecie, saranno ammessi alla verificazione metrica caso per caso, sentito il parere del Comitato centrale metrico, con le norme stabilite dagli articoli 6 e 7. Il provvedimento di ammissione ne definira' le caratteristiche costruttive ed indichera' le norme per la loro verificazione e legalizzazione.
  La denominazione dello strumento, la marca di fabbrica, la ragione sociale del fabbricante, gli estremi del provvedimento, le indicazioni delle portate massima e minima, il numero di matricola e l'anno di fabbricazione dovranno essere riportati, in modo indelebile sui quadranti indicatori o su altra parte dello strumento stesso, ben visibile all'acquirente e non rimovibile.
@@ -199,7 +199,7 @@ Bilance a nastro trasportatore:
 
 ## Art. 5.
 
-Le disposizioni emanate a norma degli articoli 6 e 7 del regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con [regio decreto 12 giugno 1902, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-06-12;226), che siano contrastanti o incompatibili con le disposizioni del presente decreto, sono abrogate.
+Le disposizioni emanate a norma degli articoli 6 e 7 del regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con [regio decreto 12 giugno 1902, n. 226](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20fabbricazione%20dei%20pesi%20delle%20misure%20e%20degli%20strumenti%20per%20pesare%20e%20misurare.%20002U0226.md), che siano contrastanti o incompatibili con le disposizioni del presente decreto, sono abrogate.
  Gli strumenti per pesare, gli apparecchi automatici e semi-automatici per misurare liquidi, le misure di capacita', che non abbiano i requisiti di cui ai precedenti articoli 1, 2, 3 e 4, ma che siano stati costruiti secondo le norme anteriormente vigenti, saranno ancora ammessi alla verificazione purche' presentati entro un anno dalla entrata in vigore del presente decreto.
  Gli strumenti per pesare, gli apparecchi automatici e semi-automatici per misurare liquidi e le misure di capacita' che alla data di entrata in vigore del presente decreto siano muniti dei bolli di verificazione prima e quelli di cui al comma precedente, continueranno ad essere ammessi, fino ad esaurimento, alle verificazioni periodiche successive.
 

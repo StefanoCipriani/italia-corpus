@@ -20,7 +20,7 @@ Visto il [decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-re
 
 Visto il piano programmatico predisposto dal Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze, ai sensi dell'articolo 64, comma 3, del citato [decreto-legge n. 112 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008;112), convertito, con modificazioni, dalla [legge n. 133 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008;133);
 
-Visto il testo unico delle leggi in materia di istruzione approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e successive modificazioni;
+Visto il testo unico delle leggi in materia di istruzione approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e successive modificazioni;
 
 Visto il [decreto legislativo 15 aprile 2005, n. 76](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20delle%20norme%20generali%20sul%20diritto-dovere%20allistruzione%20e%20alla%20formazione%20a%20norma%20dellarticolo%202%20comma%201%20lettera%20c%20della%20legge%2028%20marzo%202003%20n.%2053.md), recante definizione delle norme generali sul diritto-dovere all'istruzione e alla formazione, a norma dell'[articolo 2, comma 1, lettera c), della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md);
 
@@ -46,7 +46,7 @@ Visto il [decreto del Presidente della Repubblica 22 giugno 2009, n. 122](Regola
 
 Visto il decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 del'11 aprile 2008, recante linee guida per la riorganizzazione del sistema dell'istruzione e formazione tecnica superiore e costituzione degli istituti tecnici superiori;
 
-Visto il [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione:decreto:2007-08-22;139), relativo al regolamento recante norme in materia di adempimento dell'obbligo di istruzione;
+Visto il [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20materia%20di%20adempimento%20dellobbligo%20di%20istruzione%20ai%20sensi%20dellarticolo%201%20comma%20622%20della%20legge%2027%20dicembre%202006%20n.%20296.md), relativo al regolamento recante norme in materia di adempimento dell'obbligo di istruzione;
 
 Vista la Raccomandazione del Parlamento europeo e del Consiglio 18 dicembre 2006, relativa alle competenze chiave per l'apprendimento permanente;
 
@@ -97,7 +97,7 @@ A partire dall'anno scolastico 2010/2011 le classi seconde, terze e quarte prose
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 2. — Identita' degli istituti tecnici
 
@@ -122,7 +122,7 @@ Agli istituti tecnici si riferiscono gli istituti tecnici superiori secondo quan
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 3. — Istituti tecnici per il settore economico
 
@@ -139,7 +139,7 @@ I percorsi degli istituti tecnici del settore economico di cui all'Allegato B) s
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 4. — Istituti tecnici per il settore tecnologico
 
@@ -179,7 +179,7 @@ Per i relativi posti, si fa riferimento a quelli gia' previsti, secondo il previ
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 5. — Organizzazione dei percorsi
 
@@ -221,7 +221,7 @@ L'orario annuale complessivo, come determinato dal comma 1, lettera b), e' defin
 
 I percorsi di cui al comma 1 hanno la seguente struttura:
                         a)
-                            un primo biennio articolato, per ciascun anno, in 660 ore di attivita' e insegnamenti di istruzione generale e in 396 ore di attivita' e insegnamenti obbligatori di indirizzo, ai fini dell'assolvimento dell'obbligo di istruzione di cui al regolamento adottato con [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.pubblica.istruzione:decreto:2007-08-22;139) e dell'acquisizione dei saperi e delle competenze di indirizzo in funzione orientativa, anche per favorire la reversibilita' delle scelte degli studenti;
+                            un primo biennio articolato, per ciascun anno, in 660 ore di attivita' e insegnamenti di istruzione generale e in 396 ore di attivita' e insegnamenti obbligatori di indirizzo, ai fini dell'assolvimento dell'obbligo di istruzione di cui al regolamento adottato con [decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20in%20materia%20di%20adempimento%20dellobbligo%20di%20istruzione%20ai%20sensi%20dellarticolo%201%20comma%20622%20della%20legge%2027%20dicembre%202006%20n.%20296.md) e dell'acquisizione dei saperi e delle competenze di indirizzo in funzione orientativa, anche per favorire la reversibilita' delle scelte degli studenti;
                         b)
                             un secondo biennio articolato, per ciascun anno, in 495 ore di attivita' e insegnamenti di istruzione generale e in 561 ore di attivita' e insegnamenti obbligatori di indirizzo;
                         c)
@@ -250,7 +250,7 @@ Ai fini di cui al comma 1, gli istituti tecnici:
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 6. — Valutazione e titoli finali
 
@@ -275,7 +275,7 @@ Al superamento dell'esame di Stato conclusivo dei percorsi degli istituti tecnic
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 7. — Monitoraggio, valutazione di sistema e aggiornamento dei percorsi
 
@@ -296,7 +296,7 @@ I risultati di apprendimento sono oggetto di valutazione periodica da parte dell
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 8. — Passaggio al nuovo ordinamento
 
@@ -332,7 +332,7 @@ In fase di prima applicazione del presente regolamento, le ore di compresenza in
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 9. — Disposizioni finali
 
@@ -357,13 +357,13 @@ Il presente regolamento entra in vigore il giorno successivo a quello della sua 
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 ## Art. 10. — Abrogazioni
 
 1.
 
-A decorrere dalla data di entrata in vigore del presente regolamento, all'[articolo 191, comma 3, del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni, sono soppressi:
+A decorrere dalla data di entrata in vigore del presente regolamento, all'[articolo 191, comma 3, del decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni, sono soppressi:
                         a)
                             al primo periodo, le parole: «gli istituti tecnici hanno per fine precipuo quello di preparare all'esercizio di funzioni tecniche od amministrative, nonche' di alcune professioni, nei settori commerciale e dei servizi, industriale, delle costruzioni, agrario, nautico ed aeronautico»;
                         b)
@@ -375,7 +375,7 @@ A decorrere dalla data di entrata in vigore del presente regolamento, all'[artic
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
+Il [D.L. 23 settembre 2022, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-09-23;144) ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel [decreto del Presidente della Repubblica 15 marzo 2010, n. 88](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20tecnici%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20agosto%20_e319bce97a5f.md).
 
 Il presente decreto, munito di sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

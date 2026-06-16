@@ -15,14 +15,14 @@ Relazione del Ministro Segretario di Stato per il tesoro al Presidente della Rep
  Signor Presidente,
 
  il decreto che si sottopone alla firma della S. V. On.le, concerne l'assegnazione di L. 500 milioni allo stato di previsione del Ministero della sanita' per l'anno finanziario 1967, per provvedere alla corresponsione di indennizzi per l'abbattimento dei suini affetti di peste e sospetti di contagio.
- Alle integrazioni predette, ricorrendo le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede mediante prelevamento dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro per l'anno finanziario 1967, in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato.
+ Alle integrazioni predette, ricorrendo le condizioni di cui all'art. 136 del vigente regolamento di contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), si provvede mediante prelevamento dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro per l'anno finanziario 1967, in base alla facolta' di cui all'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato.
 
  Il Ministro: COLOMBO 
 
 
  IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'[art. 42 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
  Visto l'[art. 87, quarto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com4) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) della Repubblica;
  Vista la [legge 23 dicembre 1966, n. 1122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1122);
  Considerato che sul fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero del tesoro, per l'anno finanziario 1967 esiste la necessaria disponibilita';
@@ -31,7 +31,7 @@ Relazione del Ministro Segretario di Stato per il tesoro al Presidente della Rep
 
  Decreta:
 
- Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 3522 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1967, e' autorizzato il prelevamento di L. 500.000.000 che si inscrivono al capitolo n. 1281 "Indennita' per l'abbattimento degli animali ([art. 265 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_265) sostituito per effetto della [legge 24 febbraio 1965, n. 108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20alle%20norme%20contro%20la%20diffusione%20delle%20malattie%20infettive%20degli%20animali%20contenute%20nel%20titolo%20V%20capo%20III%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20regio%20decreto%2027%20lugli_054e3bfd22c2.md))" dello stato di previsione del Ministero della sanita' per il medesimo anno finanziario.
+ Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 3522 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1967, e' autorizzato il prelevamento di L. 500.000.000 che si inscrivono al capitolo n. 1281 "Indennita' per l'abbattimento degli animali ([art. 265 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) sostituito per effetto della [legge 24 febbraio 1965, n. 108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20alle%20norme%20contro%20la%20diffusione%20delle%20malattie%20infettive%20degli%20animali%20contenute%20nel%20titolo%20V%20capo%20III%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20regio%20decreto%2027%20lugli_054e3bfd22c2.md))" dello stato di previsione del Ministero della sanita' per il medesimo anno finanziario.
  Questo decreto sara' presentato al Parlamento per la sua convalidazione.
  Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.
 

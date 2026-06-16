@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni;
+Veduto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni;
 
 Veduto il [decreto del Presidente della Repubblica 29 maggio 1954, n. 752](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Cagliari_6.md);
 
@@ -28,7 +28,7 @@ Sono approvate e rese esecutive le annesse convenzioni stipulate in Cagliari in 
 
 ## Art. 2.
 
-Sono istituiti, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), tre posti di professore di ruolo destinati agli insegnamenti di linguistica sarda, puericultura e diritto costituzionale regionale in aggiunta a quelli indicati per le Facolta' di cui al precedente articolo, nella tabella D annessa al predetto testo unico e successive modificazioni e integrazioni.
+Sono istituiti, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), tre posti di professore di ruolo destinati agli insegnamenti di linguistica sarda, puericultura e diritto costituzionale regionale in aggiunta a quelli indicati per le Facolta' di cui al precedente articolo, nella tabella D annessa al predetto testo unico e successive modificazioni e integrazioni.
 
 ## Art. 3.
 

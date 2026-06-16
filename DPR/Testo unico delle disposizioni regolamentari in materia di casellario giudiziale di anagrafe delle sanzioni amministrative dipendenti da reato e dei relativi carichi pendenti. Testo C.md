@@ -654,7 +654,7 @@ Dalla data di entrata in vigore del presente testo unico sono o restano abrogate
 - decreto del Ministro di grazia e giustizia 30 novembre 1988, pubblicato nella Gazzetta Ufficiale n. 296 del 19 dicembre 1988;
 - decreto del Ministro della giustizia 10 novembre 1999, pubblicato nel Bollettino Ufficiale del [Ministero della giustizia n. 2 del 31 gennaio 2000;
 - all'articolo 107, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia::2000-01-31;2#art_107-com1), del [decreto del Presidente della Repubblica 30 giugno 2000, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-30;230), sono soppresse le parole: "al casellario giudiziale e,";
-- gli [articoli da 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2001-04-06;204#art_19) [a 21 del decreto del Ministro della giustizia 6 aprile 2001, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.giustizia:decreto:2001-04-06;204#art_21).
+- gli [articoli da 19](../Regolamenti%20ministeriali/Regolamento%20di%20esecuzione%20del%20decreto%20legislativo%2028%20agosto%202000%20n.%20274%20recante%20disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace.md) [a 21 del decreto del Ministro della giustizia 6 aprile 2001, n. 204](../Regolamenti%20ministeriali/Regolamento%20di%20esecuzione%20del%20decreto%20legislativo%2028%20agosto%202000%20n.%20274%20recante%20disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace.md).
 
 ### Art. 55.
 

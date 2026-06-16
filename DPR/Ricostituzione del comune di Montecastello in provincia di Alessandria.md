@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 24 agosto 1928, n. 2108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-24;2108), con il quale i comuni di Montecastello, Pavone d'Alessandria e Pietra Marazzi furono riuniti in unico Comune con denominazione e capoluogo Pietra Marazzi;
+Visto il [regio decreto 24 agosto 1928, n. 2108](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Montecastello%20Pavone%20dAlessandria%20e%20Pietra%20Marazzi%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Pietra%20Marazzi.%20028U2108.md), con il quale i comuni di Montecastello, Pavone d'Alessandria e Pietra Marazzi furono riuniti in unico Comune con denominazione e capoluogo Pietra Marazzi;
 
-Visto il [regio decreto 31 dicembre 1928, n. 3312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3312), con il quale una parte del territorio del comune di Pietra Marazzi, facente parte del comune di Montecastello anteriormente alla sua soppressione, fu aggregata al contermine comune di Bassignana;
+Visto il [regio decreto 31 dicembre 1928, n. 3312](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Rivarone%20nonche%20della%20parte%20della%20frazione%20Fiondi%20dipendente%20dal%20comune%20di%20Pietra%20Marazzi%20al%20comune%20di%20Bassignana.%20028U3312.md), con il quale una parte del territorio del comune di Pietra Marazzi, facente parte del comune di Montecastello anteriormente alla sua soppressione, fu aggregata al contermine comune di Bassignana;
 
 Viste le istanze 20 ottobre 1945, 8 dicembre 1946 e 13 febbraio 1947, con le quali la maggioranza qualificata dei contribuenti del cessato comune di Montecastello ne ha chiesto la ricostituzione in Comune autonomo;
 

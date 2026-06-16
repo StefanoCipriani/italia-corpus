@@ -374,7 +374,7 @@ La Corte Costituzionale con sentenza 16 - 30 aprile 1973, n. 51 (in G.U. 1a s.s.
 
 ### Art. 55. — Provvedimenti in materia di inamovibilita'
 
-I provvedimenti previsti negli articoli 2, secondo comma, e 3 del [regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511), sulle guarentigie della Magistratura, sono adottati in conformita' di deliberazione motivata del Consiglio superiore, osservate le formalita' prescritte dall'articolo 4 dello stesso decreto.
+I provvedimenti previsti negli articoli 2, secondo comma, e 3 del [regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), sulle guarentigie della Magistratura, sono adottati in conformita' di deliberazione motivata del Consiglio superiore, osservate le formalita' prescritte dall'articolo 4 dello stesso decreto.
  Nei casi previsti nei quarto e quinto comma dell'art. 3 sopra citato non e' richiesto il parere del Consiglio giudiziario.
 
 ### Art. 56. — Poteri di sorveglianza del Ministro
@@ -428,7 +428,7 @@ TITOLO SECONDO
 Nella prima attuazione della legge:
  a) le attribuzioni di cui all'art. 18, numeri 1 e 2, della legge sono esercitate dal Ministro per la grazia e giustizia;
  b) la comunicazione prescritta dagli articoli 22, secondo comma, lettera b), e 24, secondo comma, lettera b), e' fatta al Presidente della Repubblica;
- c) l'esemplare del verbale da trasmettersi alla segreteria del Consiglio superiore della magistratura a norma degli articoli 22, secondo comma, lettera a), e 24, secondo comma, lettera c), e' inviato alla segreteria del Consiglio superiore della magistratura costituito a norma del [regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511), che ne curera' la trasmissione alla nuova segreteria.
+ c) l'esemplare del verbale da trasmettersi alla segreteria del Consiglio superiore della magistratura a norma degli articoli 22, secondo comma, lettera a), e 24, secondo comma, lettera c), e' inviato alla segreteria del Consiglio superiore della magistratura costituito a norma del [regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), che ne curera' la trasmissione alla nuova segreteria.
 
 ### Art. 67. — Segreteria
 
@@ -451,11 +451,11 @@ La cognizione dei procedimenti disciplinari in corso alla data di insediamento d
 
 ### Art. 71. — Ricorsi in materia disciplinare
 
-Se alla data dell'insediamento del nuovo Consiglio superiore non e' stato proposto ricorso contro le decisioni dei Consigli giudiziari costituiti in tribunali disciplinari e non sono scaduti i termini previsti nell'[articolo 37 del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_37), il ricorso puo' essere proposto alla sezione disciplinare del nuovo Consiglio superiore.
+Se alla data dell'insediamento del nuovo Consiglio superiore non e' stato proposto ricorso contro le decisioni dei Consigli giudiziari costituiti in tribunali disciplinari e non sono scaduti i termini previsti nell'[articolo 37 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), il ricorso puo' essere proposto alla sezione disciplinare del nuovo Consiglio superiore.
 
 ### Art. 72. — Revisione del procedimento disciplinare
 
-I giudizi di revisione previsti nell'[art. 37, sesto comma, del regio decreto legislativo 31 maggio 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-31;511#art_37-com6), sono devoluti alla sezione disciplinare del nuovo Consiglio superiore.
+I giudizi di revisione previsti nell'[art. 37, sesto comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), sono devoluti alla sezione disciplinare del nuovo Consiglio superiore.
 
 ### Art. 73. — Esecuzione dei provvedimenti disciplinari
 

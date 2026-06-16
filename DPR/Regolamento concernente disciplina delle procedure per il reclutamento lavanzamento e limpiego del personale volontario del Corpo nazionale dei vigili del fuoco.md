@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570);
 
-Visto il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699);
+Visto il [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md);
 
 Vista la [legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469);
 
@@ -80,7 +80,7 @@ Avvertenza:
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge».
  - La [legge 27 dicembre 1941, n. 1570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-27;1570), reca: «Norme per l'organizzazione dei servizi antincendi».
- - Il [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), reca: «Norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei Vigili del fuoco».
+ - Il [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), reca: «Norme sullo stato giuridico e sul trattamento economico del personale non statale del Corpo nazionale dei Vigili del fuoco».
  - La [legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469), reca: «Ordinamento dei servizi antincendi e del Corpo nazionale dei Vigili del fuoco e stato giuridico e trattamento economico del personale dei sottufficiali, vigili scelti e vigili del Corpo nazionale dei Vigili del fuoco».
  - Si riporta il testo dell'[art. 13, terzo comma, della legge 8 dicembre 1970, n. 996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-12-08;996#art_13-com3) (Norme sul soccorso e l'assistenza delle popolazioni colpite da calamita):
  «Le norme sull'avanzamento del personale volontario saranno stabilite dal regolamento del Corpo nazionale dei Vigili del fuoco».
@@ -115,7 +115,7 @@ Avvertenza:
  «Art. 13. - Il Ministero dell'interno provvede al reclutamento del personale volontario fra i cittadini italiani che ne facciano domanda e che, oltre a tutti gli altri requisiti previsti dal regolamento del Corpo nazionale dei Vigili del fuoco, non abbiano superato gli anni 40 se ufficiali e gli anni 30 se vigili.
  Il personale volontario e' iscritto nei quadri dei comandi provinciali in ordine di grado e di anzianita'.
  Le norme sull'avanzamento del personale volontario saranno stabilite dal regolamento del Corpo nazionale dei Vigili del fuoco.
- Fino a quando non sara' emanato tale regolamento, continuano ad applicarsi, per il reclutamento e l'avanzamento del personale volontario, per quanto non in contrasto con le successive norme di legge, le disposizioni del [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699)».
+ Fino a quando non sara' emanato tale regolamento, continuano ad applicarsi, per il reclutamento e l'avanzamento del personale volontario, per quanto non in contrasto con le successive norme di legge, le disposizioni del [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md)».
  - Si riporta il testo degli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_14) e [70 della legge 13 maggio 1961, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469#art_70):
  «Art. 14. - 1. Il personale del Corpo nazionale dei Vigili del fuoco si distingue in personale permanente e volontario.
  2. Il personale permanente dedica la propria attivita' in modo esclusivo e continuativo al servizio.
@@ -632,7 +632,7 @@ Note all'art. 26:
 
 1.
 
-L'abrogazione della parte seconda del [regio decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), disposta dall'[articolo 25 del decreto del Presidente della Repubblica 2 novembre 2000, n. 362](Regolamento%20recante%20norme%20sul%20reclutamento%20avanzamento%20ed%20impiego%20del%20personale%20volontario%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md), in materia di reclutamento, avanzamento ed impiego del personale volontario si intende riferita esclusivamente agli articoli in contrasto con le disposizioni introdotte dal citato [decreto del Presidente della Repubblica n. 362 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000;362).
+L'abrogazione della parte seconda del [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), disposta dall'[articolo 25 del decreto del Presidente della Repubblica 2 novembre 2000, n. 362](Regolamento%20recante%20norme%20sul%20reclutamento%20avanzamento%20ed%20impiego%20del%20personale%20volontario%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md), in materia di reclutamento, avanzamento ed impiego del personale volontario si intende riferita esclusivamente agli articoli in contrasto con le disposizioni introdotte dal citato [decreto del Presidente della Repubblica n. 362 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000;362).
 
 2.
 

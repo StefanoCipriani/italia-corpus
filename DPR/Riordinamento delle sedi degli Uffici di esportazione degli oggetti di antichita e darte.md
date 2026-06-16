@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visti gli [articoli 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_26), [27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_27) e [28 del regio decreto 31 dicembre 1923, n. 3164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3164#art_28), concernenti l'ordinamento degli Uffici di esportazione degli oggetti di antichita' e d'arte;
+ Visti gli [articoli 26](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), [27](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md) e [28 del regio decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md), concernenti l'ordinamento degli Uffici di esportazione degli oggetti di antichita' e d'arte;
  Ritenuta l'opportunita' di determinare le sedi dei predetti Uffici in conformita' del nuovo ordinamento delle Soprintendenze, attuato con la [legge 7 dicembre 1961, n. 1264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-07;1264);
  Sulla proposta del Ministro per la pubblica istruzione;
 

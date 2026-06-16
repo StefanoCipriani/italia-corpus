@@ -13,14 +13,14 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
- Visti gli [articoli 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99), [137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_137) e [140 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_140), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+ Visti gli [articoli 99](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [137](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [140 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
  Vista la [legge 19 luglio 1940, n. 1008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-19;1008);
  Visto l'[art. 1 della legge 27 febbraio 1971, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-27;124#art_1);
  Visto l'[art. 6 del decreto del Presidente della Repubblica 14 gennaio 1972, n. 4](Trasferimento%20alle%20Regioni%20a%20statuto%20ordinario%20delle%20funzioni%20amministrative%20statali%20in%20materia%20di%20assistenza%20sanitaria%20ed%20ospedaliera%20e%20dei%20relativi%20personali%20ed%20uffici.md);
  Sentito il Consiglio superiore di sanita';
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;
- Riconosciuta la opportunita' di aggiornare l'elenco delle mansioni di rispettiva competenza degli infermieri professionali e degli infermieri generici di cui al [regio decreto 2 maggio 1940, n. 1310](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-02;1310);
+ Riconosciuta la opportunita' di aggiornare l'elenco delle mansioni di rispettiva competenza degli infermieri professionali e degli infermieri generici di cui al [regio decreto 2 maggio 1940, n. 1310](../Regi%20decreti/Determinazione%20delle%20mansioni%20delle%20infermiere%20professionali%20e%20degli%20infermieri%20generici.%20040U1310.md);
  Riconosciuta la opportunita' di aggiungere a tale mansionario anche indicazioni relative alle competenze degli infermieri professionali specializzati in anestesia e rianimazione, delle vigilatrici di infanzia e degli assistenti sanitari;
  Sulla proposta del Ministro per la sanita' di concerto con quello per la pubblica istruzione;
 

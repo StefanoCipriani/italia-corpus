@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Veduto il [regio decreto 27 ottobre 1935, n. 2123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20Regio%20istituto%20superiore%20dingegneria%20di%20Padova%20alla%20Regia%20universita%20della%20stessa%20sede%20come%20Facolta%20dingegneria.%20035U2123.md);
 
@@ -24,7 +24,7 @@ E' approvata e resa esecutiva, con effetto dal 1 novembre 1952, l'annessa conven
 
 ## Art. 2.
 
-In aggiunta alle Facolta' dell'Universita' di Padova, indicate nella tabella A) annessa al testo unico approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni, e' costituita, a decorrere dal 1 novembre 1952, la Facolta' di magistero, la quale viene mantenuta, presso l'Universita' medesima, con i mezzi forniti, secondo la convenzione di cui al precedente articolo, dagli Enti sovventori, ed escluso, comunque, qualsiasi onere a carico del bilancio dell'Universita' e dello Stato.
+In aggiunta alle Facolta' dell'Universita' di Padova, indicate nella tabella A) annessa al testo unico approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni, e' costituita, a decorrere dal 1 novembre 1952, la Facolta' di magistero, la quale viene mantenuta, presso l'Universita' medesima, con i mezzi forniti, secondo la convenzione di cui al precedente articolo, dagli Enti sovventori, ed escluso, comunque, qualsiasi onere a carico del bilancio dell'Universita' e dello Stato.
 
 ## Art. 3.
 

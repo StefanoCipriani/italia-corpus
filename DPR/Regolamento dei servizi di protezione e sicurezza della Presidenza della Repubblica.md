@@ -18,13 +18,13 @@ Vista la [legge 23 luglio 1985, n. 372](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la legge 1 aprile 1981, n. 121, recante il nuovo ordinamento dell'Amministrazione della pubblica sicurezza;
 
-Visto il [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni ed integrazioni;
+Visto il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni ed integrazioni;
 
 Visto l'art. 19 del testo unico delle leggi provinciali e comunali, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), sull'ordinamento del personale e l'organizzazione degli uffici dell'amministrazione civile del Ministero dell'interno;
 
-Visto il regolamento organico per l'Arma dei carabinieri, approvato con [regio decreto 14 giugno 1934, n. 1169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-06-14;1169), e successive modificazioni;
+Visto il regolamento organico per l'Arma dei carabinieri, approvato con [regio decreto 14 giugno 1934, n. 1169](../Regi%20decreti/Approvazione%20del%20regolamento%20organico%20per%20larma%20dei%20carabinieri.%20034U1169.md), e successive modificazioni;
 
 Visto il decreto del Presidente della Repubblica 30 ottobre 1985, sull'ordinamento degli uffici e dei servizi del Segretariato generale della Presidenza della Repubblica, e successive modificazioni ed integrazioni;
 
@@ -216,7 +216,7 @@ Il regolamento di cui al comma 2 si applica anche agli altri reparti ed unita' m
 
 1.
 
-Nei casi previsti e disciplinati dagli [articoli 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_217), [218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_218) e [219 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_219), approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni ed integrazioni, il Ministro dell'interno, d'intesa con il Segretario generale, puo' stabilire che l'esercizio delle attribuzioni e l'espletamento dei compiti previsti dal presente regolamento per la protezione e la sicurezza della Presidenza della Repubblica ed in genere per la tutela dell'ordine e della sicurezza in relazione ad essa possa essere affidato alla piu' alta autorita' militare in servizio alla Presidenza della Repubblica, per quanto attiene il presidio e la difesa del palazzo del Quirinale e degli altri immobili della dotazione.
+Nei casi previsti e disciplinati dagli [articoli 217](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), [218](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [219 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni ed integrazioni, il Ministro dell'interno, d'intesa con il Segretario generale, puo' stabilire che l'esercizio delle attribuzioni e l'espletamento dei compiti previsti dal presente regolamento per la protezione e la sicurezza della Presidenza della Repubblica ed in genere per la tutela dell'ordine e della sicurezza in relazione ad essa possa essere affidato alla piu' alta autorita' militare in servizio alla Presidenza della Repubblica, per quanto attiene il presidio e la difesa del palazzo del Quirinale e degli altri immobili della dotazione.
 
 2.
 

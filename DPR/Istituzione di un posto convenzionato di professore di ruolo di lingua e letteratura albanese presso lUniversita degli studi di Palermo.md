@@ -14,7 +14,7 @@ Veduta la legge della Regione siciliana 11 dicembre 1953, n. 63;
 
 Veduta la legge della Regione siciliana 22 giugno 1956, n. 35;
 
-Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni;
+Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni;
 
 Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
 
@@ -24,7 +24,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Palermo in data
 
 ## Art. 2.
 
-E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo riservato all'insegnamento di lingua e letteratura albanese in aggiunta a quelli indicati, per la Facolta' di lettere e filosofia dell'Universita' di Palermo nella tabella D annessa al predetto testo unico e successive modificazioni e integrazioni.
+E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo riservato all'insegnamento di lingua e letteratura albanese in aggiunta a quelli indicati, per la Facolta' di lettere e filosofia dell'Universita' di Palermo nella tabella D annessa al predetto testo unico e successive modificazioni e integrazioni.
 
 ## Art. 3.
 

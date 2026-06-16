@@ -12,8 +12,8 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94), approvato con [regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775);
- Visto il [regio decreto 18 ottobre 1934, n. 2174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-18;2174), che ha approvato l'elenco dei Comuni per i cui territori la ricerca, la estrazione e la utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica Amministrazione;
+ Visto l'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md);
+ Visto il [regio decreto 18 ottobre 1934, n. 2174](../Regi%20decreti/Disciplina%20delle%20acque%20sotterranee.%20034U2174.md), che ha approvato l'elenco dei Comuni per i cui territori la ricerca, la estrazione e la utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica Amministrazione;
  Ritenuta la necessita' di dichiarare soggetti a tutela anche i territori dei comuni di Afragola, Casalnuovo, San Sebastiano e Casoria;
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Sentito il Consiglio dei Ministri;

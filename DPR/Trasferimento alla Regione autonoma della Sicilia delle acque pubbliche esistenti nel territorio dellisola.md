@@ -14,7 +14,7 @@ Visto l'art. 32 dello statuto della Regione siciliana approvato con [decreto leg
 
 Visti gli [articoli 3](Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20di%20demanio%20e%20patrimonio.md) e [5 del decreto presidenziale 1 dicembre 1961, n. 1825](Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20di%20demanio%20e%20patrimonio.md);
 
-Visto l'[art. 6 del regio decreto 11 dicembre 1933, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_6), che approva il testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici;
+Visto l'[art. 6 del regio decreto 11 dicembre 1933, n. 1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), che approva il testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici;
 
 Visto l'[art. 3, lettere h)](Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20di%20opere%20pubbliche.md) ed [i) del decreto del Presidente della Repubblica 30 luglio 1950, n. 878](Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20di%20opere%20pubbliche.md), recante le norme di attuazione dello statuto della Regione siciliana in materia di opere pubbliche;
 

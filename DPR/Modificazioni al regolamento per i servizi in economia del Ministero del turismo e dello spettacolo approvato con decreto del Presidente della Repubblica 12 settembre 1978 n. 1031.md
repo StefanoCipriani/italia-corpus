@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440), e successive modificazioni concernenti "Nuove disposizioni sull'Amministrazione del patrimonio e sulla contabilita' generale dello Stato" e relativo regolamento;
+Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni concernenti "Nuove disposizioni sull'Amministrazione del patrimonio e sulla contabilita' generale dello Stato" e relativo regolamento;
 
 Vista la [legge 31 luglio 1959, n. 617](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Ministero%20del%20turismo%20e%20dello%20spettacolo.md);
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Veduto il [regio decreto 29 luglio 1937, n. 1438](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20nei%20riguardi%20della%20Regia%20Universita%20di%20Catania.%20037U1438.md);
 
@@ -22,7 +22,7 @@ E' approvata e resa esecutiva l'annessa convenzione stipulata in Catania il 26 m
 
 ## Art. 2.
 
-E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), un posto di professore di ruolo riservato all'insegnamento di radiologia in aggiunta a quelli indicati, per la Facolta' di medicina e chirurgia dell'Universita' di Catania, nella tabella D annessa al predetto testo unico e successive modificazioni e integrazioni.
+E' istituito, ai sensi degli articoli 63, secondo comma, e 100, secondo comma, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), un posto di professore di ruolo riservato all'insegnamento di radiologia in aggiunta a quelli indicati, per la Facolta' di medicina e chirurgia dell'Universita' di Catania, nella tabella D annessa al predetto testo unico e successive modificazioni e integrazioni.
 
 ## Art. 3.
 

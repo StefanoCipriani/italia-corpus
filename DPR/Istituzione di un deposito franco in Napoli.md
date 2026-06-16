@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sui depositi franchi, approvato con il [regio decreto 17 marzo 1938, n. 726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-03-17;726), ed il relativo regolamento di esecuzione, approvato con il [regio decreto 17 giugno 1938, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-17;856);
+Visto il testo unico delle leggi sui depositi franchi, approvato con il [regio decreto 17 marzo 1938, n. 726](../Testi%20Unici/Testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0726.md), ed il relativo regolamento di esecuzione, approvato con il [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md);
 
 Vista la [legge 25 settembre 1940, n. 1424](../Atti%20normativi%20abrogati%20%28in%20originale%29/Legge%20doganale.%20040U1424.md);
 
@@ -18,7 +18,7 @@ Vista l'istanza in data 27 marzo 1961, con la quale la Compagnia Marittima Merid
 
 Visti i pareri favorevoli espressi in merito dalla Camera di commercio, industria ed agricoltura di Napoli con la [deliberazione n. 31 del 5 gennaio 1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1961-01-05;31) e dal comune di Napoli con la nota n. 291904 del 19 dicembre 1960, che accompagnano la suddetta istanza;
 
-Considerato che il Ministero delle finanze ha prescritto, ai sensi dell'art. 3 del suindicato [regio decreto 17 giugno 1938, n. 856](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-17;856), la esecuzione di alcuni lavori di adattamento da effettuare entro un termine massimo di mesi sei, per rendere idoneo il suddetto edificio ai fini dell'esercizio della vigilanza e della tutela degli interessi erariali;
+Considerato che il Ministero delle finanze ha prescritto, ai sensi dell'art. 3 del suindicato [regio decreto 17 giugno 1938, n. 856](../Regi%20decreti/Nuovo%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20di%20leggi%20sui%20Depositi%20franchi.%20038U0856.md), la esecuzione di alcuni lavori di adattamento da effettuare entro un termine massimo di mesi sei, per rendere idoneo il suddetto edificio ai fini dell'esercizio della vigilanza e della tutela degli interessi erariali;
 
 Sentito il Consiglio dei Ministri;
 

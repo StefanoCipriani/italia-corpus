@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto l'art. 258 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto l'art. 258 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto 25 marzo 1926, n. 680](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%20e%20dello%20statuto%20pel%20funzionamento%20della%20Regia%20universita%20italiana%20per%20stranieri%20in%20Perugia.%20026U0680.md);
 

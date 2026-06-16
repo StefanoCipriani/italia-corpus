@@ -46,7 +46,7 @@ I ruoli debbono indicare:
  b) ramo o rami di mediazione da questo esercitati;
  c) data dell'iscrizione ed estremi della relativa deliberazione camerale.
  Nei ruoli dovranno essere successivamente annotati i provvedimenti di cancellazione, sospensione; disciplinari e penali.
- Nel ruolo speciale dovranno inoltre essere riportate le indicazioni relative alla cauzione prestata ai sensi della [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272) e del regolamento approvato con [regio decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068).
+ Nel ruolo speciale dovranno inoltre essere riportate le indicazioni relative alla cauzione prestata ai sensi della [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272) e del regolamento approvato con [regio decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md).
  In base ai ruoli le Camere di commercio, industria e agricoltura istituiscono uno schedario degli iscritti, secondo la specie del ruolo ed i rami di mediazione esercitati.
 
 ## Art. 5.
@@ -68,12 +68,12 @@ In luogo della documentazione di cui all'articolo precedente e' sufficiente la e
 
 La prova pratica di esame che gli aspiranti all'iscrizione nei ruoli debbono sostenere, verte sui seguenti argomenti:
  1) per gli aspiranti alla iscrizione nel ruolo ordinario:
- a) principali nozioni sulle norme che regolano l'esercizio della mediazione in affari, stabilite dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), dalla [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), dal regolamento per la sua esecuzione approvato con [regio decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068), dalla [legge 21 marzo 1958, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20professione%20di%20mediatore.md), nonche' dalle altre disposizioni vigenti sulla mediazione in genere;
+ a) principali nozioni sulle norme che regolano l'esercizio della mediazione in affari, stabilite dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), dalla [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), dal regolamento per la sua esecuzione approvato con [regio decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md), dalla [legge 21 marzo 1958, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20professione%20di%20mediatore.md), nonche' dalle altre disposizioni vigenti sulla mediazione in genere;
  b) cognizione merceologica pratica delle merci per le quali e' richiesta la iscrizione nel ruolo;
  c) conoscenza dell'andamento dei vari mercati e dei prezzi relativi alle merci stesse, nonche' degli usi e delle consuetudini locali inerenti al commercio delle medesime;
  d) conoscenza delle caratteristiche dei servizi per i quali e' richiesta l'iscrizione nel ruolo, e delle norme che li regolano;
  2) per gli aspiranti all'iscrizione nel ruolo speciale:
- a) norme che regolano la mediazione stabilite dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), dalla [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), dal regolamento per la sua esecuzione approvato con [regio decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068), dalla [legge 21 marzo 1958, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20professione%20di%20mediatore.md), nonche' dalle altre disposizioni vigenti sulla mediazione in genere;
+ a) norme che regolano la mediazione stabilite dal [Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), dalla [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), dal regolamento per la sua esecuzione approvato con [regio decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md), dalla [legge 21 marzo 1958, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20professione%20di%20mediatore.md), nonche' dalle altre disposizioni vigenti sulla mediazione in genere;
  b) procedura, relativa alle compere e vendite coattive, con dimostrazione pratica;
  c) principali nozioni merceologiche teorico-pratiche sulle merci per le quali e' richiesta l'iscrizione nel ruolo speciale;
  d) cognizione dell'andamento dei prezzi di mercato delle merci prescelte e conoscenza generica di quanto riguarda la produzione ed il commercio relativi;
@@ -164,7 +164,7 @@ L'iscrizione nei ruoli e' fatta a titolo personale; lo iscritto non puo' delegar
 
 ## Art. 24.
 
-Per quanto concerne la cauzione da versare dagli iscritti nei ruoli speciali valgono, in quanto applicabili, le norme di cui agli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_23) e [25 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_25) ed agli articoli 55, 58 e 59 del regolamento approvato con [regio decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068).
+Per quanto concerne la cauzione da versare dagli iscritti nei ruoli speciali valgono, in quanto applicabili, le norme di cui agli [articoli 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_23) e [25 della legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272#art_25) ed agli articoli 55, 58 e 59 del regolamento approvato con [regio decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md).
 
 ## Art. 25.
 
@@ -184,7 +184,7 @@ L'esercizio della mediazione nelle borse merci, nelle sale di contrattazione, ne
 
 ## Art. 29.
 
-Per tutti i casi non contemplati nel presente regolamento si osservano, in quanto applicabili, le disposizioni contenute nel regolamento per l'esecuzione della [legge 20 marzo 1943, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-20;272), approvato con [regio decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068).
+Per tutti i casi non contemplati nel presente regolamento si osservano, in quanto applicabili, le disposizioni contenute nel regolamento per l'esecuzione della [legge 20 marzo 1943, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-20;272), approvato con [regio decreto 4 agosto 1913, n. 1068](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20della%20legge%2020%20marzo%201913%20n.%20272%20riguardante%20lordinamento%20delle%20Borse%20di%20commercio.%20013U1068.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

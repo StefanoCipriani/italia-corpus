@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 18 del testo unico sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento della Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), come modificato dall'[art. 7 della legge 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;103#art_7);
+Visto l'art. 18 del testo unico sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento della Avvocatura dello Stato, approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), come modificato dall'[art. 7 della legge 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;103#art_7);
 
-Visto l'[art. 25 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_25), in relazione all'art. 6 del citato testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611);
+Visto l'[art. 25 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_25), in relazione all'art. 6 del citato testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md);
 
 Vista la [legge 7 maggio 1986, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-07;151), con la quale viene istituita la corte di appello di Campobasso;
 
@@ -36,7 +36,7 @@ E' istituita l'avvocatura distrettuale dello Stato di Campobasso, con circoscriz
 
 1.
 
-L'avvocatura dello Stato di Campobasso entra in funzione per gli effetti di cui all'[art. 25 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_25) e al capo II del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611), e successive modifiche, e per le notifiche alle pubbliche amministrazioni dalla data in cui entrera' in funzione la corte di appello di Campobasso, che sara' stabilita con decreto del Ministro di grazia e giustizia ai sensi dell'[art. 4 della legge 7 maggio 1986, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-07;151#art_4).
+L'avvocatura dello Stato di Campobasso entra in funzione per gli effetti di cui all'[art. 25 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_25) e al capo II del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e successive modifiche, e per le notifiche alle pubbliche amministrazioni dalla data in cui entrera' in funzione la corte di appello di Campobasso, che sara' stabilita con decreto del Ministro di grazia e giustizia ai sensi dell'[art. 4 della legge 7 maggio 1986, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-07;151#art_4).
 
 2.
 

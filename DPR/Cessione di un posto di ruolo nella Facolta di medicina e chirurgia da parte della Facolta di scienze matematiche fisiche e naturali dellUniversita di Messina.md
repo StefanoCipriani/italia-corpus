@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+ Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati alla Facolta' di scienze matematiche, fisiche e naturali e alla Facolta' di medicina e chirurgia dell'Universita' di Messina di cui al [regio decreto 9 settembre 1937, n. 1758](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20nei%20riguardi%20della%20Regia%20universita%20di%20Messina%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071.%20037U1758.md), e successive modificazioni;
  Visto il parere espresso dal Consiglio superiore della pubblica istruzione nella adunanza del 1 dicembre 1950;
  Sulla proposta del Ministro per la pubblica istruzione;

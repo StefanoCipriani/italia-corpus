@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il [regio decreto 28 agosto 1924, n. 1588](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20gli%20istituti%20superiori%20di%20magistero.%20024U1588.md);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni;
 
 Veduta la domanda presentata dal sindaco dell'Aquila, nella sua qualita' di presidente del Consorzio dell'Istituto superiore di magistero dell'Aquila, per ottenere il pareggiamento dell'Istituto universitario di magistero, con sede in Aquila;
 

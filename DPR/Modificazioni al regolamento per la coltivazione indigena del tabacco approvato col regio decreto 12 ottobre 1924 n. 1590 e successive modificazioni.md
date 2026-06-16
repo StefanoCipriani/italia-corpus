@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni;
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni;
 
 Ritenuta la necessita' di provvedere alla modifica di alcuni articoli del regolamento suddetto;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Gli articoli 18, 19, 20, 21, 22, 23, 25, 30, 32, 37, 44, 64, 88, 105 e 111 del regolamento approvato col [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590) e successive modificazioni, sono modificati come segue:
+Gli articoli 18, 19, 20, 21, 22, 23, 25, 30, 32, 37, 44, 64, 88, 105 e 111 del regolamento approvato col [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md) e successive modificazioni, sono modificati come segue:
 
  Art. 18. - E' sostituito dal seguente:
  "Almeno due giorni prima d'iniziare il trapiantamento, se ne deve dare denunzia all'incaricato della vigilanza, provvedendo a contrassegnare ciascun appezzamento secondo le istruzioni della direzione compartimentale.
@@ -75,7 +75,7 @@ Gli articoli 18, 19, 20, 21, 22, 23, 25, 30, 32, 37, 44, 64, 88, 105 e 111 del r
 
 ## Art. 2.
 
-Gli articoli 24, 33, 34, 35 e 71 del regolamento approvato col [regio decreto 12 ottobre 1924, n. 1590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), e successive modificazioni, sono abrogati.
+Gli articoli 24, 33, 34, 35 e 71 del regolamento approvato col [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), e successive modificazioni, sono abrogati.
  Il presente decreto sara' trasmesso alla Corte dei conti per la registrazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

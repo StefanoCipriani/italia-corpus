@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il [decreto del Presidente della Repubblica 17 giugno 1968, n. 1543](Istituzione%20del%20libero%20Istituto%20universitario%20di%20architettura%20con%20sede%20in%20Reggio%20Calabria.md), con il quale e' stato istituito il libero Istituto universitario di architettura, con sede in Reggio Calabria;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la pubblica istruzione di concerto con il Minist
 
 ## Art. 1.
 
-A decorrere dall'anno accademico 1969-70 il libero Istituto universitario di architettura di Reggio Calabria, riconosciuto con il [decreto del Presidente della Repubblica 17 giugno 1968, n. 1543](Istituzione%20del%20libero%20Istituto%20universitario%20di%20architettura%20con%20sede%20in%20Reggio%20Calabria.md), passa a carico dello Stato, per cui e' compreso fra quelli previsti al n. 1 dell'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e integrazioni. 
+A decorrere dall'anno accademico 1969-70 il libero Istituto universitario di architettura di Reggio Calabria, riconosciuto con il [decreto del Presidente della Repubblica 17 giugno 1968, n. 1543](Istituzione%20del%20libero%20Istituto%20universitario%20di%20architettura%20con%20sede%20in%20Reggio%20Calabria.md), passa a carico dello Stato, per cui e' compreso fra quelli previsti al n. 1 dell'art. 1 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e integrazioni. 
  L'istituto di cui al precedente comma assume la denominazione di Istituto universitario statale di architettura. 
  Il [decreto del Presidente della Repubblica 17 giugno 1968, n. 1543](Istituzione%20del%20libero%20Istituto%20universitario%20di%20architettura%20con%20sede%20in%20Reggio%20Calabria.md), e' revocato.
 

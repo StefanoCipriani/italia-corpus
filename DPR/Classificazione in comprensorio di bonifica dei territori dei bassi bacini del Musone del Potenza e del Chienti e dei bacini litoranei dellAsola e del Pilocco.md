@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la domanda in data 2 agosto 1963, con la quale la Camera di commercio, industria e agricoltura ha chiesto la classifica in comprensorio di bonifica, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215#art_3), del territorio dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini dell'Asola e del Pilocco dell'estensione complessiva di ha. 113.731, di cui ha. 94.500 in provincia di Macerata ed ha. 19.231 in provincia di Ancona;
+Vista la domanda in data 2 agosto 1963, con la quale la Camera di commercio, industria e agricoltura ha chiesto la classifica in comprensorio di bonifica, ai sensi dell'[art. 3 del regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), del territorio dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini dell'Asola e del Pilocco dell'estensione complessiva di ha. 113.731, di cui ha. 94.500 in provincia di Macerata ed ha. 19.231 in provincia di Ancona;
 
 Visti sulla proposta:
 
@@ -34,7 +34,7 @@ Visto l'art. 3 del regio decreto 13 febbraio 1933, n. 215; Decreta:
 
 ## Art. 1.
 
-Il territorio dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini litoranei dell'Asola e del Pilocco, dell'estensione complessiva di ha. 113.731, di cui ha. 94.500 in provincia di Macerata e ha. 19.231 in provincia di Ancona, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-02-13;215), comprensorio di bonifica di seconda categoria, il cui perimetro e' distinto in linea continua gialla affiancata da altra a linee e punti in nero nella corografia in scala 1: 100.000, che, vistata dal Ministro proponente forma parte integrante del presente decreto.
+Il territorio dei bassi bacini del Musone, del Potenza e del Chienti e dei bacini litoranei dell'Asola e del Pilocco, dell'estensione complessiva di ha. 113.731, di cui ha. 94.500 in provincia di Macerata e ha. 19.231 in provincia di Ancona, e' classificato, ai sensi e per gli effetti del [regio decreto 13 febbraio 1933, n. 215](../Regi%20decreti/Nuove%20norme%20per%20la%20bonifica%20integrale.%20033U0215.md), comprensorio di bonifica di seconda categoria, il cui perimetro e' distinto in linea continua gialla affiancata da altra a linee e punti in nero nella corografia in scala 1: 100.000, che, vistata dal Ministro proponente forma parte integrante del presente decreto.
 
 ## Art. 2.
 

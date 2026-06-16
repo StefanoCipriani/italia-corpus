@@ -12,8 +12,8 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il testo unico delle leggi sui porti, spiagge e fari, approvato con [regio decreto 2 aprile 1885, numero 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095);
- Visto il regolamento per l'esecuzione del testo unito predetto, approvato con [regio decreto 26 settembre 1904, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-09-26;713);
+ Visto il testo unico delle leggi sui porti, spiagge e fari, approvato con [regio decreto 2 aprile 1885, numero 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md);
+ Visto il regolamento per l'esecuzione del testo unito predetto, approvato con [regio decreto 26 settembre 1904, n. 713](../Regi%20decreti/Che%20approva%20e%20contiene%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%202%20aprile%201885%20testo%20unico%20n.%203095%20sui%20porti%20spiaggie%20e%20fari.%20004U0713.md);
  Ritenuto che lungo il tratto di litorale tirrenico fra Palinuro e Vibo Valentia non esiste alcuni rifugio in cui il naviglio sorpreso dal maltempo, possa ricoverarsi;
  Considerata la necessita' di provvedere, nell'interesse della navigazione generale, alla creazione di un portorifugio lungo il tratto di litorale suddetto;
  Considerato che la rada di San Nicola in Arcella in provincia di Cosenza ha i necessari requisiti per la creazione di un porto-rifugio;
@@ -24,7 +24,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- La rada di San Nicola in Arcella (Cosenza) ai fini della creazione di un porto-rifugio nell'interesse della navigazione generale, e' iscritta ai sensi e per gli effetti del testo unico approvato con [regio decreto 2 aprile 1885, n. 3095](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-04-02;3095), nella 1ª categoria.
+ La rada di San Nicola in Arcella (Cosenza) ai fini della creazione di un porto-rifugio nell'interesse della navigazione generale, e' iscritta ai sensi e per gli effetti del testo unico approvato con [regio decreto 2 aprile 1885, n. 3095](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%2016%20luglio%201884%20n.%202518%20risguardante%20i%20porti%20fari%20e%20spiaggie.%20085U3095.md), nella 1ª categoria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

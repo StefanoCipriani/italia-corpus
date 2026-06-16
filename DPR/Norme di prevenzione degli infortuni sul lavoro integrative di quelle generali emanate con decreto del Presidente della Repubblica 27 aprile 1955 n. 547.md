@@ -46,8 +46,8 @@ TITOLO II
 ### Art. 4. — Campo di applicazione
 
 Le Imprese che provvedono alla fabbricazione, alla manipolazione, al recupero, alla conservazione, alla distribuzione, al trasporto o alla utilizzazione di esplosivi, devono applicare le norme del presente titolo. 
- Restano ferme le disposizioni contenute nel [testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), approvato con [regio decreto 18 giugno 1931, n. 
-773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e quelle del relativo regolamento di esecuzione, approvato con regio (decreto 6 maggio 1940, n. 635, e successive modificazioni.
+ Restano ferme le disposizioni contenute nel [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 
+773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e quelle del relativo regolamento di esecuzione, approvato con regio (decreto 6 maggio 1940, n. 635, e successive modificazioni.
 
 ### Art. 5. — Eta' minima dei lavoratori
 

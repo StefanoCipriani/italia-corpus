@@ -21,7 +21,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto l'[art. 10 del decreto legislativo 5 marzo 1948, n. 121](../Decreti%20Legislativi/Provvedimenti%20a%20favore%20di%20varie%20regioni%20dellItalia%20meridionale%20e%20delle%20Isole.md);
  Vista la [legge 15 dicembre 1949, n. 967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-15;967);
  Vista la [legge 21 novembre 1950, n. 1007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-11-21;1007);
- Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md);
  Udito il parere del Consiglio superiore dei lavori pubblici;
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;

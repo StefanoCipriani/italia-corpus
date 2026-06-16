@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
@@ -34,7 +34,7 @@ E' approvata e resa, esecutiva l'annessa convenzione, stipulata in data 3 agosto
 
 ## Art. 2.
 
-In aggiunta alle Facolta' dell'Universita' di Bologna indicate nella tabella A annessa al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni e' costituita, a decorrere dal 1 novembre 1964, la Facolta' di scienze politiche, la quale viene mantenuta, presso l'Universita' medesima con i mezzi indicati nella Convenzione di cui al precedente art. 1.
+In aggiunta alle Facolta' dell'Universita' di Bologna indicate nella tabella A annessa al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni e' costituita, a decorrere dal 1 novembre 1964, la Facolta' di scienze politiche, la quale viene mantenuta, presso l'Universita' medesima con i mezzi indicati nella Convenzione di cui al precedente art. 1.
 
 ## Art. 3.
 

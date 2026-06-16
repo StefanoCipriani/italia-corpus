@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 8 aprile 1940, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-08;830), contenente l'ordinamento dell'Ufficio legislativo del Ministero di grazia e giustizia;
+Visto il [regio decreto 8 aprile 1940, n. 830](../Regi%20decreti/Ordinamento%20dellUfficio%20legislativo%20del%20Ministero%20di%20grazia%20e%20giustizia.%20040U0830.md), contenente l'ordinamento dell'Ufficio legislativo del Ministero di grazia e giustizia;
 
 Udito il parere del Consiglio di Stato;
 
@@ -24,7 +24,7 @@ EMANA il seguente decreto:
 
 ## Articolo unico
 
-L'[art. 3 del regio decreto 8 aprile 1940, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-08;830#art_3), e' sostituito dal seguente:
+L'[art. 3 del regio decreto 8 aprile 1940, n. 830](../Regi%20decreti/Ordinamento%20dellUfficio%20legislativo%20del%20Ministero%20di%20grazia%20e%20giustizia.%20040U0830.md), e' sostituito dal seguente:
  "L'Ufficio legislativo e' diretto da un magistrato di cassazione nominato alle funzioni superiori. Fanno parte dell'Ufficio un magistrato di cassazione e sei magistrati di qualifica non superiore a magistrato di corte d'appello, appartenenti al personale addetto al Ministero. L'assegnazione all'Ufficio e' disposta con decreto del Ministro. Il decreto di assegnazione all'Ufficio puo' essere in ogni tempo revocato.
  In caso di assenza o impedimento del magistrato dirigente l'Ufficio, le funzioni vicarie sono esercitate dal magistrato di cassazione o da uno dei magistrati di appello designati dal Ministro".
 
