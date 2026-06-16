@@ -12,7 +12,7 @@
 
 | 📄 Atti   | 🗂️ Collezioni     | 💾 Dimensione | 🔄 Aggiornamenti |
 | --------- | ------------------ | ------------- | ---------------- |
-| > 250.000 | 23 (sync completo) | GBs           | Ogni 24 ore      |
+| > 280.000 | 23 (sync completo) | GBs           | Ogni 24 ore      |
 
 
 [🇬🇧 English](#english) · [🇮🇹 Italiano](#italiano)
