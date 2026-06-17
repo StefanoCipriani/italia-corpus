@@ -14,7 +14,7 @@ Viste le istanze in data 26, 27 aprile e 2 maggio 1953 e 16 maggio e 7 giugno 19
 
 Viste le deliberazioni: del Consiglio comunale di Arta in data 28 dicembre 1953, n. 78; del Consiglio comunale di Zuglio in data 20 marzo 1954, n. 8, e del Consiglio provinciale di Udine in data 25 maggio e 14 dicembre 1957, numeri 3159 e 18635, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima Sezione del Consiglio di Stato nell'adunanza del 14 ottobre 1958 n. 1682:
 

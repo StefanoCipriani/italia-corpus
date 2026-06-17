@@ -22,7 +22,7 @@ Sulla proposta del Ministro per i trasporti, di concerto con il Ministro per il 
 
 ## Articolo unico.
 
-Le piante organiche del personale degli uffici delle Ferrovie dello Stato, stabilite dall'allegato n. 1 al [regio decreto 12 ottobre 1942, n. 1210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), vengono modificate come all'unita tabella, firmata dal Ministro per il tesoro e dal Ministro per i trasporti, fermo restando l'aumento transitorio di cui al [decreto legislativo 19 marzo 1948, n. 178](../Decreti%20Legislativi/Modificazioni%20di%20carattere%20transitorio%20alle%20piante%20organiche%20del%20personale%20di%20gruppo%20A%20degli%20uffici%20delle%20Ferrovie%20dello%20Stato.md).
+Le piante organiche del personale degli uffici delle Ferrovie dello Stato, stabilite dall'allegato n. 1 al [regio decreto 12 ottobre 1942, n. 1210](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md), vengono modificate come all'unita tabella, firmata dal Ministro per il tesoro e dal Ministro per i trasporti, fermo restando l'aumento transitorio di cui al [decreto legislativo 19 marzo 1948, n. 178](../Decreti%20Legislativi/Modificazioni%20di%20carattere%20transitorio%20alle%20piante%20organiche%20del%20personale%20di%20gruppo%20A%20degli%20uffici%20delle%20Ferrovie%20dello%20Stato.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

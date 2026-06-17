@@ -14,7 +14,7 @@ Viste le istanze in data 29 ottobre, 1°, 16, 19, 21, 29 novembre, 2 dicembre 11
 
 Viste le deliberazioni: del Consiglio comunale di Sorbolo in data 18 luglio 1961, n. 50, e 16 gennaio 1962, n. 8; del Consiglio comunale di Mezzani in data 19 aprile 1960, n. 10; del Consiglio provinciale di Parma in data 10 febbraio 1962, n. 6/46, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 9 settembre 1964 numero 2126;
 

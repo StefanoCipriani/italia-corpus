@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 2 aprile 1925, n. 383](../Atti%20normativi%20abrog
 
 Visto il [regio decreto-legge 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-30;1629), con il quale venne approvato il regolamento per il Corpo predetto;
 
-Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.%20044U0365.md), concernente l'istituzione del Corpo delle guardie di pubblica sicurezza;
+Visto il [decreto legislativo luogotenenziale 2 novembre 1944, n. 365](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Corpo%20delle%20guardie%20di%20pubblica%20sicurezza.%20044U0365.md), concernente l'istituzione del Corpo delle guardie di pubblica sicurezza;
 
 Visto il [decreto legislativo 6 settembre 1946, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-09-06;105), relativo all'organico del Corpo delle guardie di pubblica sicurezza;
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), e successive modificazioni;
+Visto il [decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20e%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), e successive modificazioni;
 
 Visto l'[art. 2 della legge 22 novembre 1949, n. 861](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-22;861#art_2);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-I contributi dovuti per l'anno 1951 al "Fondo di integrazione per le assicurazioni sociali", istituito col [decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), sono fissati nelle seguenti aliquote della retribuzione calcolata nei limiti stabiliti dal secondo comma dell'art. 9 del citato decreto legislativo:
+I contributi dovuti per l'anno 1951 al "Fondo di integrazione per le assicurazioni sociali", istituito col [decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20e%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), sono fissati nelle seguenti aliquote della retribuzione calcolata nei limiti stabiliti dal secondo comma dell'art. 9 del citato decreto legislativo:
  1) 1,97 per cento per i lavoratori soggetti all'obbligo della assicurazione per l'invalidita', la vecchiaia ed i superstiti;
  2) 0,56 per cento per i lavoratori che siano soggetti all'obbligo della iscrizione al Fondo di previdenza per il personale addetto ai pubblici servizi di telefonia e ai quali non siano applicabili le norme di cui alla [legge 7 dicembre 1949, n. 904](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-07;904);
  3) 0,46 per cento per i lavoratori soggetti all'obbligo della iscrizione al Fondo di previdenza per il personale addetto alle gestioni delle imposte di consumo;

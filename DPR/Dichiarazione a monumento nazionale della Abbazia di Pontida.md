@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 1 giugno 1939, n. 1089](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), sulla tutela delle cose d'interesse artistico o storico;
- Visto il [regio decreto 30 gennaio 1913, n. 363](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), che approva il regolamento per l'esecuzione delle leggi relative alle antichita' e belle arti;
+ Visto il [regio decreto 30 gennaio 1913, n. 363](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20lesecuzione%20delle%20leggi%2020%20giugno%201909%20n.%20364%20e%2023%20giugno%201912%20n.%20688%20relative%20alle%20antichita%20e%20belle%20arti.%20013U0363.md), che approva il regolamento per l'esecuzione delle leggi relative alle antichita' e belle arti;
  Considerata l'opportunita' che l'Abbazia di Pontida sia conservata ed additata al rispetto della Nazione per l'interesse storico che si collega al ricordo del giuramento ivi prestato nel 1164 da parte dei gloriosi Comuni componenti la Lega Lombarda;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
 

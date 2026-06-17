@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), recante norme sugli enti ospedalieri e sull'assistenza ospedaliera;
  Visto il decreto del medico provinciale di Verona in data 24 giugno 1968, con il quale, sentito il consiglio provinciale di sanita', l'ospedale "Massolongo" di Tregnago, e' stato classificato ospedale generale di zona a norma degli articoli 19, 20, 21 e 54 della citata legge n. 132;
- Considerato che l'ente anzidetto alla data di entrata in vigore della [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), provvedeva esclusivamente al ricovero ed alla cura degli infermi, in conformita' dell'art. 2 dello statuto approvato con [regio decreto 17 ottobre 1930, n. 1646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Fondazione%20Ospedale%20Massalongo%20con%20sede%20in%20Tregnago.%20030U1646.md);
+ Considerato che l'ente anzidetto alla data di entrata in vigore della [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), provvedeva esclusivamente al ricovero ed alla cura degli infermi, in conformita' dell'art. 2 dello statuto approvato con [regio decreto 17 ottobre 1930, n. 1646](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Fondazione%20Ospedale%20Massalongo%20con%20sede%20in%20Tregnago.%20030U1646.md);
  Visti gli articoli 3, 4, 9 e 54 della legge stessa;
  Sulla proposta del Ministro per la sanita', di concerto con il Ministro per l'interno;
 

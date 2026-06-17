@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 dicembre 1923, n. 3123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), concernente l'ordinamento dell'istruzione artistica;
+Visto il [regio decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), concernente l'ordinamento dell'istruzione artistica;
 
 Vista la [legge 9 agosto 1951, n. 651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-08-09;651), concernente la classifica e trasformazione di Istituti e Scuole d'arte;
 

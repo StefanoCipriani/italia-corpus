@@ -68,7 +68,7 @@ Nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 601](Discipli
 
 ## Art. 6.
 
-A norma dell'[art. 48 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), le indennita' di cui all'[art. 907 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), concorrono a formare il reddito nella misura del quaranta per cento del loro ammontare.
+A norma dell'[art. 48 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), le indennita' di cui all'[art. 907 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), concorrono a formare il reddito nella misura del quaranta per cento del loro ammontare.
  A norma dell'[art. 47 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), se l'ammontare complessivo dei compensi, interessi e altre somme dichiarati dal sostituto d'imposta e' inferiore a quello definitivamente accertato, si applica la pena pecuniaria da due a quattro volte la differenza delle relative ritenute.
 
 ## Art. 7.

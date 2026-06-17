@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Vista la [deliberazione n. 38 del 21 dicembre 1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-12-21;38), con la quale il consiglio comunale di Osmate-Lentate (Varese) ha chiesto che l'attuale denominazione del comune sia mutata in quella piu' appropriata di "Osmate", in quanto la frazione Lentate e' stata da tempo aggregata al comune di Sesto Calende;
  Vista la [deliberazione n. 21 del 30 gennaio 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-01-30;21), con la quale il consiglio comunale di Sesto Calende esprime parere favorevole al riguardo;
  Vista la [deliberazione n. 2 del 14 marzo 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-03-14;2), con la quale anche il consiglio provinciale di Varese esprime parere favorevole in merito al proposto cambio di denominazione;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

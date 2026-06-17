@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), emanata in esecuzione di essa;
+Vista la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il regolamento approvato con [regio decreto 12 febbraio 1911, n. 278](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md), emanata in esecuzione di essa;
 
 Visto il [decreto del Presidente della Repubblica 23 agosto 1949, n. 759](Costituzione%20del%20Consorzio%20napoletano%20cooperative%20lavoro%20con%20sede%20in%20Napoli%20ed%20approvazione%20del%20relativo%20statuto.md), con il quale fu costituito il Consorzio napoletano cooperative lavoro, con sede in Napoli; e ne fu approvato il relativo statuto;
 

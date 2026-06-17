@@ -203,7 +203,7 @@ In caso di modificazione con legge provinciale della disciplina contenuta nel de
 
 1.
 
-Al fine di assicurare la reciproca informazione sulle attivita' di competenza rispettivamente della provincia autonoma di Trento e dell'Amministrazione statale, a supporto delle forme di coordinamento previste dal presente decreto tra gli organi competenti della Provincia stessa e quelli dello Stato, il dirigente preposto alla struttura provinciale competente in materia di istruzione ha titolo a partecipare alla Conferenza permanente dei dirigenti generali di cui all'[articolo 7 del decreto del Presidente della Repubblica 6 novembre 2000, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+Al fine di assicurare la reciproca informazione sulle attivita' di competenza rispettivamente della provincia autonoma di Trento e dell'Amministrazione statale, a supporto delle forme di coordinamento previste dal presente decreto tra gli organi competenti della Provincia stessa e quelli dello Stato, il dirigente preposto alla struttura provinciale competente in materia di istruzione ha titolo a partecipare alla Conferenza permanente dei dirigenti generali di cui all'[articolo 7 del decreto del Presidente della Repubblica 6 novembre 2000, n. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 ))
 
@@ -355,7 +355,7 @@ L'insegnamento di cui al comma 2 e' impartito, secondo le norme stabilite dal vi
 
 5.
 
-Il ruolo istituito con l'[art. 5 del regio decreto 27 agosto 1932, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20le%20scuole%20elementari%20della%20Venezia%20Tridentina.%20032U1127.md), integrato dall'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 16 maggio 1947, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-16;555#art_11), e' trasformato in ruolo ad esaurimento. I relativi posti sono soppressi con la cessazione, per qualsiasi causa, dal servizio dei docenti ad essi assegnati alla data di entrata in vigore del presente decreto.
+Il ruolo istituito con l'[art. 5 del regio decreto 27 agosto 1932, n. 1127](../Regi%20decreti/Disposizioni%20per%20le%20scuole%20elementari%20della%20Venezia%20Tridentina.%20032U1127.md), integrato dall'[art. 11 del decreto legislativo del Capo provvisorio dello Stato 16 maggio 1947, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-16;555#art_11), e' trasformato in ruolo ad esaurimento. I relativi posti sono soppressi con la cessazione, per qualsiasi causa, dal servizio dei docenti ad essi assegnati alla data di entrata in vigore del presente decreto.
 
 ## Art. 22.
 

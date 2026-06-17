@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 1 del decreto legislativo 7 maggio 1948, n. 810](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20in%20ausiliaria%20e%20dispensa%20dal%20servizio%20a%20domanda%20o%20dautorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20dellAeronautica.md);
+Visto l'[art. 1 del decreto legislativo 7 maggio 1948, n. 810](../Decreti%20Legislativi/Collocamento%20in%20ausiliaria%20e%20dispensa%20dal%20servizio%20a%20domanda%20o%20dautorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20dellAeronautica.md);
 
 Sulla proposta del Ministro per la difesi, di concerto con il Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-L'aliquota per ciascun ruolo degli ufficiali inferiori in servizio permanente effettivo del Aeronautica, che possono essere collocati in ausiliaria o dispensati dal servizio in applicazione del [decreto legislativo 7 maggio 1948, n. 810](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20in%20ausiliaria%20e%20dispensa%20dal%20servizio%20a%20domanda%20o%20dautorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20dellAeronautica.md), e' fissata come segue:
+L'aliquota per ciascun ruolo degli ufficiali inferiori in servizio permanente effettivo del Aeronautica, che possono essere collocati in ausiliaria o dispensati dal servizio in applicazione del [decreto legislativo 7 maggio 1948, n. 810](../Decreti%20Legislativi/Collocamento%20in%20ausiliaria%20e%20dispensa%20dal%20servizio%20a%20domanda%20o%20dautorita%20degli%20ufficiali%20inferiori%20in%20servizio%20permanente%20effettivo%20dellAeronautica.md), e' fissata come segue:
  Arma aeronautica - ruolo naviganti...................... n. 205 Arma aeronautica - ruolo servizi........................ " 353 Arma aeronautica - ruolo specialisti:
  categoria motoristi................................... " 58 " montatori................................... " 29 " marconisti.................................. " 31 " armieri..................................... " 17 " elettricisti................................ " 3 " fotografi................................... " 12 " automobilisti............................... " 41 Corpo del Genio aeronautico - ruolo ingegneri........... " 9 Corpo del Genio aeronautico - ruolo assistenti tecnici -
 categoria assistenti alle costruzioni....................... " 30 Corpo di Commissariato aeronautico ruolo commissariato.. " 31 Corpo di Commissariato aeronautica - ruolo amministra

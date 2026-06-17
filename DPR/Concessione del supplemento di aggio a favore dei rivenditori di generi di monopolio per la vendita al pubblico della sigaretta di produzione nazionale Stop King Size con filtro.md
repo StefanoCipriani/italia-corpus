@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 72 dei regio decreto 14 giugno 1941, n. 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
+Visto l'[art. 72 dei regio decreto 14 giugno 1941, n. 577](../Regi%20decreti/Ordinamento%20dei%20servizi%20di%20distribuzione%20e%20vendita%20dei%20generi%20di%20monopolio.%20041U0577.md);
 
 Visto il [decreto del Presidente della Repubblica 1 gennaio 1949, n. 757](Misura%20dellaggio%20a%20favore%20dei%20rivenditori%20di%20generi%20di%20monopolio.md), registrato alla Corte dei conti il 14 ottobre 1949, Atti del Governo, registro n. 30, foglio n. 39, con il quale e' stata fissata la misura dell'aggio a favore dei rivenditori di generi di monopolio;
 

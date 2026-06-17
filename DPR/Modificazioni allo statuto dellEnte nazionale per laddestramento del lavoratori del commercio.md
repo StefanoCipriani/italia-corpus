@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 4 giugno 1938, n. 936](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20Nazionale%20Fascista%20di%20Addestramento%20al%20Lavoro%20Commerciale%20E.N.F.A.L.C..%20038U0936.md), col quale e' stato giuridicamente riconosciuto l'Ente nazionale per l'addestramento dei lavoratori del commercio;
+Visto il [regio decreto 4 giugno 1938, n. 936](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20Nazionale%20Fascista%20di%20Addestramento%20al%20Lavoro%20Commerciale%20E.N.F.A.L.C..%20038U0936.md), col quale e' stato giuridicamente riconosciuto l'Ente nazionale per l'addestramento dei lavoratori del commercio;
 
 Visto il [regio decreto-legge 21 giugno 1938, n. 1380](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20038U1380.md), convertito nella legge 16 gennaio 1939, a. 290, concernente l'istituzione dei corsi per la, formazione ed 1, perfezionamento, dei lavoratori;
 
-Visto il [regio decreto 9 maggio 1939, n. 946](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revoca%20del%20riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20di%20addestramento%20per%20i%20lavoratori%20dalbergo%20Enfala%20e%20approvazione%20di%20un%20nuovo%20statuto%20dellEnte%20nazionale%20fascista%20di%20addestr_297ddc0e11a9.md), che ha approvato lo statuto dell'Ente nazionale per l'addestramento dei lavoratori del commercio, modificato con [regio decreto 24 luglio 1940, n. 1327](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20dellEnte%20Nazionale%20Fascista%20di%20Addestramento%20al%20Lavoro%20Commerciale%20E.N.F.A.L.C..%20040U1327.md);
+Visto il [regio decreto 9 maggio 1939, n. 946](../Regi%20decreti/Revoca%20del%20riconoscimento%20giuridico%20dellEnte%20nazionale%20fascista%20di%20addestramento%20per%20i%20lavoratori%20dalbergo%20Enfala%20e%20approvazione%20di%20un%20nuovo%20statuto%20dellEnte%20nazionale%20fascista%20di%20addestr_297ddc0e11a9.md), che ha approvato lo statuto dell'Ente nazionale per l'addestramento dei lavoratori del commercio, modificato con [regio decreto 24 luglio 1940, n. 1327](../Regi%20decreti/Modificazioni%20allo%20statuto%20dellEnte%20Nazionale%20Fascista%20di%20Addestramento%20al%20Lavoro%20Commerciale%20E.N.F.A.L.C..%20040U1327.md);
 
 Visto il decreto Ministeriale 27 marzo 1945, relativo alla nomina del commissario straordinario dell'Ente nazionale per l'addestramento dei lavoratori del commercio;
 

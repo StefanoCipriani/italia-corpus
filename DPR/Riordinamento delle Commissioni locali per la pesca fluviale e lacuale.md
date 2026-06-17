@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri
 
 Visto il testo unico delle leggi sulla pesca, approvato con [regio decreto 8 ottobre 1931, n. 1604](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20pesca.%20031U1604.md);
 
-Visto il [regio decreto 2 marzo 1931, n. 600](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20Commissioni%20locali%20di%20pesca.%20031U0600.md), con cui fu istituita in ciascun capoluogo di Provincia una Commissione locale per la pesca fluviale e lacuale;
+Visto il [regio decreto 2 marzo 1931, n. 600](../Regi%20decreti/Riordinamento%20delle%20Commissioni%20locali%20di%20pesca.%20031U0600.md), con cui fu istituita in ciascun capoluogo di Provincia una Commissione locale per la pesca fluviale e lacuale;
 
 Visto l'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 31 marzo 1947, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-31;396#art_2), con il quale furono devolute al Ministero della marina mercantile le attribuzioni in materia di pesca, gia' spettanti al Ministero dell'agricoltura e delle foreste, ad esclusione di quelle relative alle acque interne;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con 
 
 ## Art. 1.
 
-Le Commissioni locali per la pesca fluviale e lacuale di cui al [regio decreto 2 marzo 1931, n. 600](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20Commissioni%20locali%20di%20pesca.%20031U0600.md), assumono la denominazione di "Commissioni provinciali consultive per la pesca nelle acque dolci".
+Le Commissioni locali per la pesca fluviale e lacuale di cui al [regio decreto 2 marzo 1931, n. 600](../Regi%20decreti/Riordinamento%20delle%20Commissioni%20locali%20di%20pesca.%20031U0600.md), assumono la denominazione di "Commissioni provinciali consultive per la pesca nelle acque dolci".
 
 ## Art. 2.
 

@@ -15,7 +15,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Vista la [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), recante norme sugli enti ospedalieri e sull'assistenza ospedaliera; 
  Visto il decreto del medico provinciale di Roma in data 28 gennaio 1970, con il quale, sentito il consiglio provinciale di sanita', il complesso ospedaliero denominato "Pio istituto di S. Spirito ed ospedali riuniti" di Roma, comprendente gli ospedali S. Filippo, S.
 Eugenio, S. Giacomo, S. Spirito, S. Camillo, S. Giovanni e Policlinico, e' stato classificato ospedale generale regionale a norma degli articoli 19, 20, 23 e 54 della citata legge n. 132; 
- Considerato che l'ente anzidetto alla data di entrata in vigore della [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), provvedeva esclusivamente al ricovero ed alla cura degli infermi, in conformita' del [regio decreto 24 maggio 1896, n. 196](../Atti%20normativi%20abrogati%20%28in%20originale%29/Portante%20la%20fusione%20degli%20istituti%20ospitalieri%20di%20Roma.%209600196R.md), e successive modificazioni; 
+ Considerato che l'ente anzidetto alla data di entrata in vigore della [legge 12 febbraio 1968, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), provvedeva esclusivamente al ricovero ed alla cura degli infermi, in conformita' del [regio decreto 24 maggio 1896, n. 196](../Regi%20decreti/Portante%20la%20fusione%20degli%20istituti%20ospitalieri%20di%20Roma.%209600196R.md), e successive modificazioni; 
  Visti gli articoli 3, 4, 9 e 54, della legge medesima; 
  Sulla proposta del Ministro per la sanita', di concerto con il Ministro per l'interno; 
  

@@ -28,7 +28,7 @@ Spese per servizi speciali ed uffici esterni
 dell'Amministrazione del tesoro - Servizi del tesoro: 
 Cap. n. 337 - Compensi per lavoro a cottimo 
 ([regio decreto 24 dicembre 1924, n. 2114, 
-art. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) del [decreto legislativo del Capo 
+art. 4](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md) del [decreto legislativo del Capo 
 provvisorio dello Stato 12 dicembre 1946, 
 n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-12;585) e successive modificazioni). . . . . . . . . . . L. 10.000.000 
  

@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93);
 
-Vista la [legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1983), la quale allo art. 9, tra l'altro, stabilisce in lire 1.350 miliardi il limite massimo di spesa per l'anno 1983 relativo ai rinnovi contrattuali del personale delle amministrazioni dello Stato, compreso quello delle aziende autonome;
+Vista la [legge 26 aprile 1983, n. 130](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 1983), la quale allo art. 9, tra l'altro, stabilisce in lire 1.350 miliardi il limite massimo di spesa per l'anno 1983 relativo ai rinnovi contrattuali del personale delle amministrazioni dello Stato, compreso quello delle aziende autonome;
 
 Vista la [legge 28 aprile 1983, n. 133](../Atti%20normativi%20abrogati%20%28in%20originale%29/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201983%20e%20bilancio%20pluriennale%20per%20il%20triennio%201983-85.md), concernente approvazione del bilancio di previsione dello Stato per l'anno finanziario 1983 e bilancio pluriennale per il triennio 1983-1985;
 

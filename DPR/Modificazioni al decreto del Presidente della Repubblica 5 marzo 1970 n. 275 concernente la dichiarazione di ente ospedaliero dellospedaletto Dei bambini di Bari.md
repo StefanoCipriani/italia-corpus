@@ -26,7 +26,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  "Il consiglio di amministrazione dell'ente ospedaliero suddetto e' composto come segue:
  sei membri eletti dal consiglio regionale delle Puglie;
  un membro eletto dal consiglio comunale di Bari;
- due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con [regio decreto 7 marzo 1929, n. 406](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20dellOspedaletto%20dei%20bambini%20poveri%20di%20Bari.%20029U0406.md)".
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con [regio decreto 7 marzo 1929, n. 406](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellOspedaletto%20dei%20bambini%20poveri%20di%20Bari.%20029U0406.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

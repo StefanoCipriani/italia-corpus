@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni, che approva le tabelle delle circoscrizioni territoriali della Marina mercantile;
 
-Visto l'[art. 16 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[art. 16 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Attesa la necessita' di apportare alcune modifiche alle circoscrizioni territoriali della Marina mercantile;
 

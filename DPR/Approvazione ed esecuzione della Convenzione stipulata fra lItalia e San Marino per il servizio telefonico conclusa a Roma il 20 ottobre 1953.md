@@ -18,7 +18,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- E' approvata e resa esecutiva la Convenzione stipulata a Roma il 20 ottobre 1953 fra il Ministero delle poste e delle telecomunicazioni della Repubblica italiana e l'Amministrazione delle poste, telegrafi e telefoni della Repubblica di San Marino, in sostituzione della Convenzione stipulata il 14 luglio 1940 ed approvata con [regio decreto 19 maggio 1941, n. 869](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20Convenzione%20tra%20lItalia%20e%20la%20Repubblica%20di%20S.%20Marino%20per%20i%20servizi%20telefonici.%20041U0869.md).
+ E' approvata e resa esecutiva la Convenzione stipulata a Roma il 20 ottobre 1953 fra il Ministero delle poste e delle telecomunicazioni della Repubblica italiana e l'Amministrazione delle poste, telegrafi e telefoni della Repubblica di San Marino, in sostituzione della Convenzione stipulata il 14 luglio 1940 ed approvata con [regio decreto 19 maggio 1941, n. 869](../Regi%20decreti/Approvazione%20della%20Convenzione%20tra%20lItalia%20e%20la%20Repubblica%20di%20S.%20Marino%20per%20i%20servizi%20telefonici.%20041U0869.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

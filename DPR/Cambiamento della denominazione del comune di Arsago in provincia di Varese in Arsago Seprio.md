@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda con la quale il sindaco del comune di Arsago, in provincia di Varese, chiede l'autorizzazione a modificare la denominazione del comune in quella di "Arsago Seprio";
  Ritenuto che la Deputazione provinciale di Varese, nell'adunanza, del 31 marzo 1947, ha espresso parere favorevole al cambiamento di denominazione del comune di Arsago;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

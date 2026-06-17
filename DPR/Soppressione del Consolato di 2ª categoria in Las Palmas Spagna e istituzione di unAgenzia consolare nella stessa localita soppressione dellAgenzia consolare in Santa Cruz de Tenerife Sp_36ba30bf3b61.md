@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 28 gennaio 1866, n. 2804](../Atti%20normativi%20abrogati%20%28in%20originale%29/Con%20cui%20e%20promulgata%20e%20resa%20esecutoria%20in%20tutte%20le%20Provincie%20del%20Regno%20con%20alcune%20modificazioni%20la%20Legge%20consolare%20del%2015%20agosto%201858.%20066U2804.md);
+Visto il [regio decreto 28 gennaio 1866, n. 2804](../Regi%20decreti/Con%20cui%20e%20promulgata%20e%20resa%20esecutoria%20in%20tutte%20le%20Provincie%20del%20Regno%20con%20alcune%20modificazioni%20la%20Legge%20consolare%20del%2015%20agosto%201858.%20066U2804.md);
 
 Visto il [regio decreto 7 agosto 1866, n. 2996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-08-07;2996);
 

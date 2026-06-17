@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 gennaio 1929, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dei%20Consorzi%20per%20le%20Stazioni%20razionali%20di%20alpeggio.%20029U0200.md), che prevede la costituzione di Consorzi per le Stazioni razionali di alpeggio;
+Visto il [regio decreto 31 gennaio 1929, n. 200](../Regi%20decreti/Costituzione%20dei%20Consorzi%20per%20le%20Stazioni%20razionali%20di%20alpeggio.%20029U0200.md), che prevede la costituzione di Consorzi per le Stazioni razionali di alpeggio;
 
 Visto il decreto Ministeriale 20 novembre 1934, col quale venne costituito un Consorzio per l'istituzione ed il funzionamento di una Stazione razionale di alpeggio in provincia di Cosenza;
 

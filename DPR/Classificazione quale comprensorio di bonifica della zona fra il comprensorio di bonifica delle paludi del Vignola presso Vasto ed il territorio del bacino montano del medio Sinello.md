@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto in data 9 novembre 1923, n. 2658](../Atti%20normativi%20abrogati%20%28in%20originale%29/Opere%20di%20bonifica%20della%20zona%20Vignola%20in%20comune%20di%20Vasto.%20023U2658.md), con il quale fu classificato il comprensorio di bonifica idraulica delle paludi del Vignola, in provincia di Chieti;
+ Visto il [regio decreto in data 9 novembre 1923, n. 2658](../Regi%20decreti/Opere%20di%20bonifica%20della%20zona%20Vignola%20in%20comune%20di%20Vasto.%20023U2658.md), con il quale fu classificato il comprensorio di bonifica idraulica delle paludi del Vignola, in provincia di Chieti;
  Vista la domanda 16 marzo 1947, con la quale il presidente del Consorzio stradale fra i comuni della Valle del Sinello ha chiesto l'ampliamento del comprensorio di bonifica delle paludi del Vignola a tutta la parte bassa della Valle del Sinello, fino a raggiungere il territorio del medio Sinello, gia' incluso fra i bacini montani da sistemare ai sensi del [testo unico 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3267);
  Visti gli atti posti a corredo della domanda stessa;
  Considerato che la bassa Valle del Sinello presenta le caratteristiche volute dalla legge per la sua inclusione fra i comprensori di bonifica, ricadendo in essa terre paludose, terreni dissestati nei riguardi idrogeologici e zone coltivate estensivamente e suscettibili di una trasformazione dell'ordinamento produttivo;

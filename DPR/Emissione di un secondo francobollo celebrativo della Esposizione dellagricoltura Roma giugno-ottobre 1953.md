@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con regio decreto 27 febbraio 1936, Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con regio decreto 27 febbraio 1936, Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Visto il [decreto del Presidente della Repubblica 25 giugno 1953, n. 571](Emissione%20di%20un%20francobollo%20celebrativo%20dellEsposizione%20dellagricoltura%20Roma%20giugno-ottobre%201953.md), col quale e' stata autorizzata l'emissione di un francobollo celebrativo della Esposizione dell'agricoltura, che si tiene in Roma dal giugno all'ottobre del corrente anno 1953;
 

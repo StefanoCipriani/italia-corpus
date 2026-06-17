@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 86 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;237);
+ Visto l'[art. 86 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;237);
  Ritenuta la necessita' di provvedere all'istituzione di una corporazione di piloti nell'approdo di Sarroch per garantire la sicurezza della navigazione dati i rapidi sviluppi del movimento delle navi nella rada antistante lo stesso approdo;
  Udito il parere del Consiglio di Stato;
  Sulla proposta del Ministro per la marina mercantile;

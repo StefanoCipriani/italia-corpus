@@ -14,7 +14,7 @@ Viste le istanze in data 4 marzo e 23 novembre 1957, con le quali la maggioranza
 
 Viste le deliberazioni: del Consiglio comunale di Massa d'Albe in data 7 giugno 1959, n. 21; del commissario prefettizio del comune di Avezzano in data 17 marzo 1958, n. 99; del Consiglio provinciale dell'Aquila in data 16 maggio 1959, numeri 28/4 e 27/3, con le quali e' stato espresso parere in ordine alla variazione territoriale in parola;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima Sezione del Consiglio di Stato nell'adunanza del 1 marzo 1960, n. 229;
 

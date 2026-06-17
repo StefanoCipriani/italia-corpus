@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 47 della legge 31 luglio 1954, n. 599](../Atti%20normativi%20abrogati%20%28in%20originale%29/Stato%20dei%20sottufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), sullo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica;
 
-Visto l'art. 78 del testo unico delle disposizioni legislative riguardanti la leva marittima, approvato con [regio decreto 28 luglio 1932, n. 1365](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), e successive modificazioni;
+Visto l'art. 78 del testo unico delle disposizioni legislative riguardanti la leva marittima, approvato con [regio decreto 28 luglio 1932, n. 1365](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20la%20leva%20marittima.%20032U1365.md), e successive modificazioni;
 
 Ritenuta la necessita' di effettuare richiami di sottufficiali, graduati e comuni del C.E.M.M. della forza in congedo allo scopo di aggiornare la preparazione dei riservisti nell'uso delle piu' recenti armi e apparecchiature;
 

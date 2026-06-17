@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del Consiglio comunale di Livorno in data 14 giugno 1947, con la quale si chiede che i due uffici di conciliazione ivi esistenti siano riuniti in unico ufficio con giurisdizione su tutto il territorio del Comune medesimo;
  Visto il rapporto 30 luglio 1947, n. 1840, del Primo presidente della Corte di appello di Firenze, il quale, su conforme parere del Procuratore generale, propone l'accoglimento della detta richiesta;
- Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20), e 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
+ Visti gli [articoli 20 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_20), e 1 del regolamento approvato con [regio decreto 26 dicembre 1892, n. 728](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20conciliatori.%20092U0728.md);
  Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
 
  Decreta:

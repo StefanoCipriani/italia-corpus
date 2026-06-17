@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 1 maggio 1925, n. 707](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20tariffa%20dei%20diritti%20per%20la%20quotazione%20dei%20titoli%20presso%20la%20Borsa%20di%20Napoli.%20025U0707.md), con il quale venne approvata la tariffa dei diritti per la quotazione dei titoli presso la borsa valori di Napoli, spettanti alla locale camera di commercio e industria;
+Visto il [regio decreto 1 maggio 1925, n. 707](../Regi%20decreti/Approvazione%20della%20tariffa%20dei%20diritti%20per%20la%20quotazione%20dei%20titoli%20presso%20la%20Borsa%20di%20Napoli.%20025U0707.md), con il quale venne approvata la tariffa dei diritti per la quotazione dei titoli presso la borsa valori di Napoli, spettanti alla locale camera di commercio e industria;
 
 Visti il [decreto del Capo provvisorio dello Stato 18 marzo 1947, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-03-18;205) e il [decreto del Presidente della Repubblica 8 settembre 1950, n. 811](Modificazione%20della%20tariffa%20dei%20diritti%20di%20Borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Napoli.md), con i quali vennero approvate variazioni alla tariffa suddetta;
 
 Vista la [deliberazione in data 26 giugno 1969, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-06-26;592), della giunta della camera di commercio, industria, artigianato ed agricoltura di Napoli, con la quale sono state, tra l'altro, proposte ulteriori modificazioni dei diritti ad essa dovuti per la quotazione dei titoli presso la borsa valori di detta citta';
 
-Visto l'articolo 53 del testo unico approvato con il [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stati stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti i diritti di borsa;
+Visto l'articolo 53 del testo unico approvato con il [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale sono stati stabiliti la forma e l'organo competente per l'emanazione dei provvedimenti inerenti i diritti di borsa;
 
 Sulla proposta del Ministro per il tesoro; Decreta:
 

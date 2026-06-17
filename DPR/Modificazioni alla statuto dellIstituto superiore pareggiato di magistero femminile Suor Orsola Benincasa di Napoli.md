@@ -12,9 +12,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto lo statuto dell'Istituto superiore pareggiato di magistero femminile "Suor Orsola Benincasa" di Napoli, approvato con il [regio decreto 8 dicembre 1927, n. 2305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20dellIstituto%20superiore%20di%20magistero%20femminile%20%20Suor%20Orsola%20Benincasa%20%20in%20Napoli.%20027U2305.md), e modificato con i [regi decreti 1 ottobre 1936, n. 2442](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20pareggiato%20di%20magistero%20femminile%20Suor%20Orsola%20Benincasa%20di%20Napoli.%20036U2442.md) e [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;20) aprile 1039, n. 1052;
+ Visto lo statuto dell'Istituto superiore pareggiato di magistero femminile "Suor Orsola Benincasa" di Napoli, approvato con il [regio decreto 8 dicembre 1927, n. 2305](../Regi%20decreti/Approvazione%20dello%20statuto%20dellIstituto%20superiore%20di%20magistero%20femminile%20%20Suor%20Orsola%20Benincasa%20%20in%20Napoli.%20027U2305.md), e modificato con i [regi decreti 1 ottobre 1936, n. 2442](../Regi%20decreti/Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20pareggiato%20di%20magistero%20femminile%20Suor%20Orsola%20Benincasa%20di%20Napoli.%20036U2442.md) e [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;20) aprile 1039, n. 1052;
  Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
- Visto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md);
+ Visto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md);
  Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Istituto predetto;
  Sentito il parere del Consiglio superiore della pubblica istruzione;
  Sulla proposta del Ministro per la pubblica istruzione;
@@ -27,7 +27,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  All'art. 5, le parole "dalla direttrice" vanno sostituite con le parole "dal direttore"; cosi' pure agli articoli 6, 7, 22, 23, 28, 36 e 40.
  All'art. 6, il primo e secondo comma vanno cosi' sostituiti: "Il direttore dell'Istituto di magistero e' il direttore dell'Istituto "Suor Orsola Benincasa", ed e' nominato dal Consiglio di amministrazione tra i professori di ruolo dell'Istituto, ovvero tra i professori ordinari di universita' che abbiano nell'Istituto un incarico d'insegnamento.
  Il direttore dura in carica un triennio e puo' essere confermato.
- Al medesimo compete, oltre lo stipendio, o la retribuzione di cui ai successivi articoli 16 e 18, una indennita' di carica non inferiore a quella stabilita dal [secondo comma dell'art. 2 del decreto legislativo 7 maggio 1948, n. 1003](../Atti%20normativi%20abrogati%20%28in%20originale%29/Indennita%20accademica%20ai%20professori%20universitari%20ed%20indennita%20di%20carica%20ai%20rettori%20delle%20Universita%20e%20degli%20Istituti%20di%20istruzione%20universitaria.md)".
+ Al medesimo compete, oltre lo stipendio, o la retribuzione di cui ai successivi articoli 16 e 18, una indennita' di carica non inferiore a quella stabilita dal [secondo comma dell'art. 2 del decreto legislativo 7 maggio 1948, n. 1003](../Decreti%20Legislativi/Indennita%20accademica%20ai%20professori%20universitari%20ed%20indennita%20di%20carica%20ai%20rettori%20delle%20Universita%20e%20degli%20Istituti%20di%20istruzione%20universitaria.md)".
  Art. 7. - Le lettere a) e b) sono rispettivamente cosi' sostituite:
  a) dal direttore che lo presiede;
  b) dai professori di ruolo dell'Istituto ed, in mancanza, da due professori ordinari di universita', designati dal Consiglio di amministrazione.

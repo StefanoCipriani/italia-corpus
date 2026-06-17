@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 28 gennaio 1866, n. 2804](../Atti%20normativi%20abrogati%20%28in%20originale%29/Con%20cui%20e%20promulgata%20e%20resa%20esecutoria%20in%20tutte%20le%20Provincie%20del%20Regno%20con%20alcune%20modificazioni%20la%20Legge%20consolare%20del%2015%20agosto%201858.%20066U2804.md);
+ Visto il [regio decreto 28 gennaio 1866, n. 2804](../Regi%20decreti/Con%20cui%20e%20promulgata%20e%20resa%20esecutoria%20in%20tutte%20le%20Provincie%20del%20Regno%20con%20alcune%20modificazioni%20la%20Legge%20consolare%20del%2015%20agosto%201858.%20066U2804.md);
  Visto il [decreto del Capo provvisorio dello Stato 18 aprile 1947, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-18;266), e successive modificazioni;
  Vista la [legge 4 gennaio 1951, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20economico%20del%20personale%20diplomatico-consolare%20in%20servizio%20allestero.md);
  Udito il parere del Consiglio di Stato;

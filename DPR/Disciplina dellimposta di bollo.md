@@ -381,7 +381,7 @@ Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimen
 ### Art. 27. — Violazioni costituenti reati
 
 ((COMMA ABROGATO DAL D.LGS. 18 DICEMBRE 1997, N. 473)). 
- Chi detiene per lo smercio ovvero smercia carta bollata, marche od altri valori di bollo precedentemente usati e' punito con le pene stabilite dall'[art. 466 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Chi detiene per lo smercio ovvero smercia carta bollata, marche od altri valori di bollo precedentemente usati e' punito con le pene stabilite dall'[art. 466 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 28.
 
@@ -435,7 +435,7 @@ La Corte costituzionale, con sentenza 5 - 23 novembre 1993, n. 406 (in G.U. 1ª 
 
 AGGIORNAMENTO (33)
 
-Il [D.Lgs. 18 dicembre 1997, n. 473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md) ha disposto (con l'art. 5, comma 1, lettera a)) che "Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md), recante disciplina dell'imposta di bollo, sono apportate le seguenti modificazioni: 
+Il [D.Lgs. 18 dicembre 1997, n. 473](../Decreti%20Legislativi/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md) ha disposto (con l'art. 5, comma 1, lettera a)) che "Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](Disciplina%20dellimposta%20di%20bollo.md), recante disciplina dell'imposta di bollo, sono apportate le seguenti modificazioni: 
  a) nell'articolo 20, secondo comma, nell'articolo 34, primo comma, e nell'articolo 38, primo comma, le parole "pene pecuniarie" sono sostituite dalle seguenti: "sanzioni amministrative"".
 
 ### Art. 35. — Organi competenti all'accertamento delle violazioni

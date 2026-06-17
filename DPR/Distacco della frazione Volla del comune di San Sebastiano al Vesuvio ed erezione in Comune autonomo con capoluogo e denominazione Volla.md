@@ -14,7 +14,7 @@ Vista l'istanza in data 12 luglio 1946, con la quale la maggioranza dei contribu
 
 Viste le [deliberazioni 4 aprile 1947, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1947-04-04;11), [3 febbraio 1952, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1952-02-03;1) e [3 luglio 1952, n. 7, del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1952-07-03;7) di San Sebastiano al Vesuvio: 16 giugno 1947, n. 1 e 3 aprile 1952, n. 6, della Deputazione provinciale, e 5 agosto 1952, n. 5, del Consiglio provinciale di Napoli, esprimenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

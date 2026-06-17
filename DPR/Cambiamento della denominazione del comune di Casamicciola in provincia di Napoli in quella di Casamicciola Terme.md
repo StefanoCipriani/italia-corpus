@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del Consiglio comunale di Casamicciola (Napoli) in data 21 novembre 1954, n. 32, con la quale e' stato chiesto che l'attuale denominazione del Comune sia mutata in quella di "Casamicciola Terme";
  Vista la deliberazione del Consiglio provinciale di Napoli in data 21 gennaio 1955, n. 7, con la, quale e' stato espresso parere favorevole in ordine al cambiamento di denominazione di cui trattasi;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

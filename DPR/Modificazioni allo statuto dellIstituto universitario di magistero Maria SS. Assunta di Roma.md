@@ -12,10 +12,10 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto dell'istituto universitario di Magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1760](../Atti%20normativi%20abrogati%20%28in%20originale%29/Pareggiamento%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.%20Assunta%20in%20Roma%20e%20approvazione%20del%20relativo%20statuto.%20039U1760.md) e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.ma%20Assunta%20di%20Roma.md) e successive modificazioni;
+ Veduto lo statuto dell'istituto universitario di Magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1760](../Regi%20decreti/Pareggiamento%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.%20Assunta%20in%20Roma%20e%20approvazione%20del%20relativo%20statuto.%20039U1760.md) e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](Modificazioni%20allo%20statuto%20dellIstituto%20superiore%20di%20magistero%20Maria%20SS.ma%20Assunta%20di%20Roma.md) e successive modificazioni;
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
  Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 7 gennaio 1936, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-07;73);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) e successive modificazioni;
  Veduta la [legge 11 aprile 1953, n. 312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Libera%20inclusione%20di%20nuovi%20insegnamenti%20complementari%20negli%20statuti%20delle%20Universita%20e%20degli%20Istituti%20distruzione%20superiore.md);
  Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
@@ -26,7 +26,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Lo statuto dell'Istituto universitario di Magistero "Ma SS Assunta", di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
  L'art. 1 e' abrogato e sostituito dal seguente:
- "E' istituito in Roma l'Istituto universitario di Magistero "Maria SS. Assunta", il quale ha lo scopo di conferire alle religiose e alle appartenenti ad associazioni religiose, in possesso di uno dei titoli di studio richiesti per l'ammissione alle Facolta' di magistero, le lauree e il diploma, di cui ai numeri 11, 12, 13 e 14 della tabella F delle disposizioni sull'ordinamento didattico universitario ([regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md)) e precisamente:
+ "E' istituito in Roma l'Istituto universitario di Magistero "Maria SS. Assunta", il quale ha lo scopo di conferire alle religiose e alle appartenenti ad associazioni religiose, in possesso di uno dei titoli di studio richiesti per l'ammissione alle Facolta' di magistero, le lauree e il diploma, di cui ai numeri 11, 12, 13 e 14 della tabella F delle disposizioni sull'ordinamento didattico universitario ([regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md)) e precisamente:
  Laurea in materie letterarie;
  Laurea in pedagogia;
  Laurea in lingue e letterature straniere;

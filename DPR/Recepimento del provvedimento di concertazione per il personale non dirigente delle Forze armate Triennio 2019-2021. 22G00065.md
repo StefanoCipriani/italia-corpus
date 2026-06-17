@@ -204,7 +204,7 @@ Note all'art. 2:
 
 1.
 
-Fermo restando quanto previsto dall'articolo 2, commi 4 e 5, le nuove misure degli stipendi risultanti dall'applicazione del presente decreto hanno effetto sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sull'indennita' di buonuscita, sull'assegno alimentare per il dipendente sospeso, come previsto dall'[articolo 920 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), o da disposizioni analoghe, sull'equo indennizzo, sulle ritenute previdenziali ed assistenziali e relativi contributi, compresi la ritenuta in conto entrata INPS, o altre analoghe, ed i contributi di riscatto.
+Fermo restando quanto previsto dall'articolo 2, commi 4 e 5, le nuove misure degli stipendi risultanti dall'applicazione del presente decreto hanno effetto sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sull'indennita' di buonuscita, sull'assegno alimentare per il dipendente sospeso, come previsto dall'[articolo 920 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), o da disposizioni analoghe, sull'equo indennizzo, sulle ritenute previdenziali ed assistenziali e relativi contributi, compresi la ritenuta in conto entrata INPS, o altre analoghe, ed i contributi di riscatto.
 
 2.
 
@@ -215,7 +215,7 @@ I benefici economici risultanti dall'applicazione del presente decreto sono corr
 La corresponsione dei nuovi stipendi, derivanti dall'applicazione del presente decreto, avviene in via provvisoria e salvo conguaglio, ai sensi dell'[articolo 172 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_172), in materia di sollecita liquidazione del nuovo trattamento economico.
 
 Note all'art. 3: 
- - Si riporta il testo dell'[articolo 920 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), recante «[Codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)»: 
+ - Si riporta il testo dell'[articolo 920 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), recante «[Codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)»: 
  «Art. 920. Norme comuni in materia di sospensione dall'impiego 
  1. Al militare durante la sospensione dall'impiego compete la meta' degli assegni a carattere fisso e continuativo. Agli effetti della pensione, il tempo trascorso in sospensione dal servizio e' computato per meta'. 
  2. La sospensione dall'impiego e' disposta con decreto ministeriale e puo' essere applicata anche nei confronti del militare in aspettativa, trasferendolo dalla posizione in cui si trova in quella di sospensione dall'impiego. 
@@ -491,7 +491,7 @@ Al personale militare non in possesso di abilitazione anfibia e in servizio pres
 
 10.
 
-A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare in servizio presso il 32° Stormo, il ((41° Reggimento IMINT Cordenons)), i Gruppi di Volo, i Reparti e i Servizi con sede nelle stazioni di Luni, Catania e Grottaglie, in possesso della qualifica di operatore sensori APR, facenti parte degli equipaggi operanti nell'ambito di una stazione remota di controllo e comando per l'impiego degli aeromobili a pilotaggio remoto, di peso superiore ai venti chilogrammi, di cui all'[articolo 246 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), l'indennita' mensile di impiego operativo di cui all'[articolo 3, comma 1, della legge 23 marzo 1983, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;78#art_3-com1), e' elevata al 170 per cento dell'indennita' di impiego operativo di base. ((1))
+A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare in servizio presso il 32° Stormo, il ((41° Reggimento IMINT Cordenons)), i Gruppi di Volo, i Reparti e i Servizi con sede nelle stazioni di Luni, Catania e Grottaglie, in possesso della qualifica di operatore sensori APR, facenti parte degli equipaggi operanti nell'ambito di una stazione remota di controllo e comando per l'impiego degli aeromobili a pilotaggio remoto, di peso superiore ai venti chilogrammi, di cui all'[articolo 246 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), l'indennita' mensile di impiego operativo di cui all'[articolo 3, comma 1, della legge 23 marzo 1983, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-23;78#art_3-com1), e' elevata al 170 per cento dell'indennita' di impiego operativo di base. ((1))
 
 11.
 

@@ -31,7 +31,7 @@ L'Automobile Club d'Italia "A.C.I." con sede in Roma, eretto in ente morale con 
 
 ## Art. 2.
 
-Le sedi provinciali dell'A.C.I. assumono la denominazione di Automobile Club "A.C." seguito dal nome del rispettivo capoluogo e conservano la personalita' giuridica ad esse riconosciuta con il [regio decreto 24 novembre 1934, n. 2323](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20del%20Reale%20Automobile%20Club%20dItalia.%20034U2323.md).
+Le sedi provinciali dell'A.C.I. assumono la denominazione di Automobile Club "A.C." seguito dal nome del rispettivo capoluogo e conservano la personalita' giuridica ad esse riconosciuta con il [regio decreto 24 novembre 1934, n. 2323](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20del%20Reale%20Automobile%20Club%20dItalia.%20034U2323.md).
 
 ## Art. 3.
 

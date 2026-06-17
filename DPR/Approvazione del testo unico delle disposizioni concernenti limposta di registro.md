@@ -397,7 +397,7 @@ L'imposta dovuta per la registrazione dei contratti di locazione e affitto di be
 
 1-bis.
 
-Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risoluzioni e proroghe anche tacite dei contratti di cui al comma 1 e' sanzionato ai sensi dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md). (62) (63)
+Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risoluzioni e proroghe anche tacite dei contratti di cui al comma 1 e' sanzionato ai sensi dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md). (62) (63)
 
 2.
 
@@ -808,7 +808,7 @@ La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bila
 
 L'ammontare dell'imposta principale non puo` essere in nessun caso inferiore alla misura fissa indicata nell'articolo 11 della tariffa, parte prima, salvo quanto disposto dagli articoli 5 e 7 della tariffa stessa.
 
-((2-bis. L'ufficio, per gli atti per i quali non si applicano le disposizioni di cui all'[articolo 3-ter del decreto legislativo 18 dicembre 1997, n. 463](../Decreti%20Legislativi/Semplificazione%20in%20materia%20di%20versamenti%20unitari%20per%20tributi%20determinati%20dagli%20enti%20impositori%20e%20di%20adempimenti%20connessi%20agli%20uffici%20del%20registro%20a%20norma%20dellarticolo%203%20comma%20134%20lettere%20_bf381b036b31.md), anche avvalendosi di procedure automatizzate, controlla, sulla base degli elementi desumibili dall'atto, la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risulti dovuta una maggiore imposta, l'ufficio notifica apposito avviso di liquidazione al contribuente con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dell'imposta versata nonche' della sanzione amministrativa di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e degli interessi di mora decorrenti dalla data in cui l'imposta medesima avrebbe dovuto essere pagata. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
+((2-bis. L'ufficio, per gli atti per i quali non si applicano le disposizioni di cui all'[articolo 3-ter del decreto legislativo 18 dicembre 1997, n. 463](../Decreti%20Legislativi/Semplificazione%20in%20materia%20di%20versamenti%20unitari%20per%20tributi%20determinati%20dagli%20enti%20impositori%20e%20di%20adempimenti%20connessi%20agli%20uffici%20del%20registro%20a%20norma%20dellarticolo%203%20comma%20134%20lettere%20_bf381b036b31.md), anche avvalendosi di procedure automatizzate, controlla, sulla base degli elementi desumibili dall'atto, la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risulti dovuta una maggiore imposta, l'ufficio notifica apposito avviso di liquidazione al contribuente con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dell'imposta versata nonche' della sanzione amministrativa di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e degli interessi di mora decorrenti dalla data in cui l'imposta medesima avrebbe dovuto essere pagata. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
 
 ((93))
 
@@ -1297,7 +1297,7 @@ Il pagamento delle imposte, di cui al comma 1,richieste in relazione alle decisi
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997, N. 473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md).
+COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997, N. 473](../Decreti%20Legislativi/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md).
 
 4.
 
@@ -1393,7 +1393,7 @@ Si registrano a debito, cioe` senza contemporaneo pagamento delle imposte dovute
 
 AGGIORNAMENTO (100)
 
-La [L. 2 dicembre 2025, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;181) ha disposto (con l'art. 11, comma 3) che la presente modifica "si applica anche ai procedimenti pendenti alla data del 1° gennaio 2025 volti a dare esecuzione alla condanna al risarcimento del danno prodotto dai fatti di cui agli [articoli 575](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [577, primo comma, numero 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
+La [L. 2 dicembre 2025, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;181) ha disposto (con l'art. 11, comma 3) che la presente modifica "si applica anche ai procedimenti pendenti alla data del 1° gennaio 2025 volti a dare esecuzione alla condanna al risarcimento del danno prodotto dai fatti di cui agli [articoli 575](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [577, primo comma, numero 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
 
 ### Art. 60. — Modalita' per la registrazione a debito
 
@@ -1689,7 +1689,7 @@ Chi dichiara di non possedere, rifiuta di esibire o sottrae comunque all'ispezio
 
 1-bis.
 
-Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis, si applicano le disposizioni di cui al [decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
+Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis, si applicano le disposizioni di cui al [decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
 
 --------------
 
@@ -1822,7 +1822,7 @@ La disposizione del comma 3 dell'art. 21, relativa agli accolli di debiti e oner
 
 2.
 
-L'imposta relativa alla riunione dell'usufrutto alla nuda proprieta' trasferita a titolo oneroso con atti posti in essere quando era in vigore il [regio decreto 30 dicembre 1923, n. 3269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), si applica solo se la consolidazione dell'usufrutto si e' verificata anteriormente alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 634](Disciplina%20dellimposta%20di%20registro.md). Non si fa luogo a rimborso delle imposte gia' pagate, salvo i casi in cui alla data del 20 novembre 1985 risultasse presentato il ricorso.
+L'imposta relativa alla riunione dell'usufrutto alla nuda proprieta' trasferita a titolo oneroso con atti posti in essere quando era in vigore il [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), si applica solo se la consolidazione dell'usufrutto si e' verificata anteriormente alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 634](Disciplina%20dellimposta%20di%20registro.md). Non si fa luogo a rimborso delle imposte gia' pagate, salvo i casi in cui alla data del 20 novembre 1985 risultasse presentato il ricorso.
 
 3.
 

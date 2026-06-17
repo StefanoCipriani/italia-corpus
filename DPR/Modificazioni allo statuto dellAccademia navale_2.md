@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 8 luglio 1926, n. 1178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20Regia%20marina.%20026U1178.md), e successive modificazioni, sull'ordinamento della Marina militare;
 
-Visto il testo unico delle disposizioni legislativa riguardanti gli ufficiali di complemento della Marina militare, approvato con [regio decreto 16 maggio 1932, numero 819](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislativa riguardanti gli ufficiali di complemento della Marina militare, approvato con [regio decreto 16 maggio 1932, numero 819](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20riguardanti%20gli%20ufficiali%20di%20complemento%20della%20Regia%20marina.%20032U0819.md), e successive modificazioni;
 
 Visto lo statuto dell'Accademia navale, approvato con [decreto del Presidente della Repubblica 11 marzo 1953, n. 412](Approvazione%20del%20nuovo%20statuto%20dellAccademia%20navale.md), e successive modificazioni;
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), relativo alla corresponsione di assegni integrativi delle pensioni di invalidita', vecchiaia e per i superstiti e delle altre prestazioni delle assicurazioni sociali, e successive modificazioni;
+Visto il [decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20e%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), relativo alla corresponsione di assegni integrativi delle pensioni di invalidita', vecchiaia e per i superstiti e delle altre prestazioni delle assicurazioni sociali, e successive modificazioni;
 
 Visto il [decreto del Capo provvisorio dello Stato 22 aprile 1947, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-22;426), concernente la determinazione dei contributi dovuti per l'anno 1947 al "Fondo di integrazione per le assicurazioni sociali";
 

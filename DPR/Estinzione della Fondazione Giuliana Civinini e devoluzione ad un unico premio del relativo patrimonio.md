@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 dicembre 1928, n. 3320](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Fondazione%20Giuliana%20Civinini%20per%20lassegnazione%20di%20un%20premio%20biennale%20perpetuo%20alla%20migliore%20opera%20di%20letteratura%20coloniale.%20028U3320.md), che erige in ente morale la Fondazione "Giuliana Civinini", avente lo scopo di promuovere la pubblicazione di opere artistiche e di letteratura coloniale premiandole con la assegnazione di premi biennali perpetui di L. 5000, e ne approva il relativo statuito;
+Visto il [regio decreto 27 dicembre 1928, n. 3320](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Fondazione%20Giuliana%20Civinini%20per%20lassegnazione%20di%20un%20premio%20biennale%20perpetuo%20alla%20migliore%20opera%20di%20letteratura%20coloniale.%20028U3320.md), che erige in ente morale la Fondazione "Giuliana Civinini", avente lo scopo di promuovere la pubblicazione di opere artistiche e di letteratura coloniale premiandole con la assegnazione di premi biennali perpetui di L. 5000, e ne approva il relativo statuito;
 
-Visto il [regio decreto 24 settembre 1940, n. 1533](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%201%20dello%20statuto%20della%20Fondazione%20Giuliana%20Civinini.%20040U1533.md), che modifica detto statuto, ed il [decreto del Capo provvisorio dello Stato 5 gennaio 1947, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-01-05;549), che apporta ulteriori modifiche allo statuto stesso;
+Visto il [regio decreto 24 settembre 1940, n. 1533](../Regi%20decreti/Modificazione%20dellart.%201%20dello%20statuto%20della%20Fondazione%20Giuliana%20Civinini.%20040U1533.md), che modifica detto statuto, ed il [decreto del Capo provvisorio dello Stato 5 gennaio 1947, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-01-05;549), che apporta ulteriori modifiche allo statuto stesso;
 
 Vista la lettera 16 marzo 1950 del fondatore gr. uff. Guelfo Civinini;
 
@@ -34,7 +34,7 @@ L'ammontare del premio sara' costituito dall'intero patrimonio della Fondazione,
 
 ## Art. 3.
 
-Il premio verra' conferito il 14 luglio 1952 a giudizio della Commissione istituita secondo le norme del [regio decreto 24 settembre 1940, n. 1533](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%201%20dello%20statuto%20della%20Fondazione%20Giuliana%20Civinini.%20040U1533.md).
+Il premio verra' conferito il 14 luglio 1952 a giudizio della Commissione istituita secondo le norme del [regio decreto 24 settembre 1940, n. 1533](../Regi%20decreti/Modificazione%20dellart.%201%20dello%20statuto%20della%20Fondazione%20Giuliana%20Civinini.%20040U1533.md).
 
 ## Art. 4.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Viste le [leggi 24 dicembre 1949, n. 993; 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1967, n. 68; 24 luglio 1959, n. 693; 20 dicembre 1960, n. 1527 e 26 gennaio 1962, n. 6](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20delega%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20doganali%20e%20di%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattat_2f87548f03a1.md);
+Viste le [leggi 24 dicembre 1949, n. 993; 7 dicembre 1952, n. 1846; 3 novembre 1954, n. 1077; 6 marzo 1967, n. 68; 24 luglio 1959, n. 693; 20 dicembre 1960, n. 1527 e 26 gennaio 1962, n. 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20della%20delega%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20doganali%20e%20di%20emanare%20provvedimenti%20per%20accelerare%20il%20ritmo%20delle%20modificazioni%20delle%20tariffe%20doganali%20stabilite%20dal%20Trattat_2f87548f03a1.md);
 
 Visto il [decreto presidenziale 5 giugno 1962, n. 530](Istituzione%20a%20non%20oltre%20il%207%20agosto%201962%20di%20una%20tassa%20di%20compensazione%20in%20aggiunta%20al%20dazio%20doganale%20e%20agli%20altri%20diritti%20in%20vigore%20per%20il%20solfuro%20di%20carbonio.md), concernente l'istituzione di una tassa di compensazione in aggiunta al dazio doganale ed agli altri diritti in vigore per il solfuro di carbonio;
 
@@ -42,7 +42,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Ritenuta la necessita' di mantenere la tassa di compensazione sul solfuro di carbonio;
 
-Sentita la Commissiones parlamentare, costituita, a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md) e successive aggiunte e modificazioni;
+Sentita la Commissiones parlamentare, costituita, a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md) e successive aggiunte e modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

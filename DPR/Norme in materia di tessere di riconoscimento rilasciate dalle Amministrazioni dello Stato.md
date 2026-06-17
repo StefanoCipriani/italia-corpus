@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'art. 420 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni;
 
-Visto l'art. 9 del regolamento generale dei servizi postali (parte seconda - servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
+Visto l'art. 9 del regolamento generale dei servizi postali (parte seconda - servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
 
 Visti gli articoli 289 e 292 del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
 

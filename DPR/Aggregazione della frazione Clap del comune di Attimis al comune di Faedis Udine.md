@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Faedis, espresso con [deliber
 
 Viste le [deliberazioni 8 dicembre 1951, n. 54/B](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1951-12-08;54), e [30 novembre 1952, n. 64 del Consiglio comunale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.comune.:delibera:1952-11-30;64) di Attimis; 5 luglio 1952, n. 12, del Consiglio provinciale di Udine, esprimenti il rispettivo parere in ordine alla citata istanza;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

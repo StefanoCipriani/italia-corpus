@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), modificata con le [leggi 21 marzo 1967, n. 151; 19 ottobre 1970, n. 802; 15 febbraio 1973, n. 25; 14 dicembre 1976, n. 847, e 21 dicembre 1978, n. 838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20delle%20deleghe%20al%20Governo%20di%20cui%20alla%20legge%2014%20dicembre%201976%20n.%20847%20in%20materia%20di%20tariffa%20dei%20dazi%20di%20importazione%20e%20di%20legislazione%20doganale.md);
+Vista la [legge 1 febbraio 1965, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), modificata con le [leggi 21 marzo 1967, n. 151; 19 ottobre 1970, n. 802; 15 febbraio 1973, n. 25; 14 dicembre 1976, n. 847, e 21 dicembre 1978, n. 838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20delle%20deleghe%20al%20Governo%20di%20cui%20alla%20legge%2014%20dicembre%201976%20n.%20847%20in%20materia%20di%20tariffa%20dei%20dazi%20di%20importazione%20e%20di%20legislazione%20doganale.md);
 
 Visto il testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e successive modificazioni;
 
@@ -32,7 +32,7 @@ Viste le [direttive 78/1032/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 Ritenuta la necessita' di apportare ulteriori modificazioni ed integrazioni al soprarichiamato testo unico ed alle anzidette disposizioni preliminari della tariffa dei dazi doganali di importazione;
 
-Udito il parere della commissione parlamentare istituita a norma dell'art. 4 della predetta [legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), e successive modificazioni;
+Udito il parere della commissione parlamentare istituita a norma dell'art. 4 della predetta [legge 1 febbraio 1965, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

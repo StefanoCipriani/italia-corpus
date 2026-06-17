@@ -14,7 +14,7 @@ N.
 
 1310.
 
-Decreto del Presidente della Repubblica 2 ottobre 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, viene revocata la dichiarazione di monumentalita' della casa natale di Francesco Crispi, in Ribera (Agrigento), dichiarata con il [regio decreto 22 settembre 1927, n. 1942](../Atti%20normativi%20abrogati%20%28in%20originale%29/Dichiarazione%20di%20monumento%20nazionale%20della%20casa%20in%20Ribera%20ove%20nacque%20Francesco%20Crispi.%20027U1942.md).
+Decreto del Presidente della Repubblica 2 ottobre 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, viene revocata la dichiarazione di monumentalita' della casa natale di Francesco Crispi, in Ribera (Agrigento), dichiarata con il [regio decreto 22 settembre 1927, n. 1942](../Regi%20decreti/Dichiarazione%20di%20monumento%20nazionale%20della%20casa%20in%20Ribera%20ove%20nacque%20Francesco%20Crispi.%20027U1942.md).
 
 Visto, il Guardasigilli: GONELLA
  Registrato alla Corte dei conti, addi' 24 dicembre 1968

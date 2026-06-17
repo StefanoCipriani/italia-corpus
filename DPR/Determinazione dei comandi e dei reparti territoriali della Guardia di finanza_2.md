@@ -14,4 +14,4 @@ vigente: true
 
 ## Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 LUGLIO 1991, N. 283](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20determinazione%20dei%20comandi%20e%20dei%20reparti%20territoriali%20della%20Guardia%20di%20finanza.md) ))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 29 LUGLIO 1991, N. 283](../Regolamenti%20governativi/Regolamento%20concernente%20determinazione%20dei%20comandi%20e%20dei%20reparti%20territoriali%20della%20Guardia%20di%20finanza.md) ))

@@ -18,7 +18,7 @@ Viste le deliberazioni consiliari n. 5 in data 28 febbraio 1965 e n. 43 in data 
 
 Vista la [deliberazione n. 6 in data 6 maggio 1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1965-05-06;6), con la quale il consiglio provinciale di Varese ha espresso al riguardo il suo parere favorevole;
 
-Visti gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 25 luglio 1969;
 

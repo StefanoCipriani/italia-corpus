@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto luogotenenziale 3 luglio 1919, n. 1439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-07-03;1439), che erige in ente morale la Fondazione "Elena di Savoia" per i figli dei ferrovieri morti o resi invalidi in dipendenza della guerra 1915-18;
 
-Visto il [regio decreto 19 febbraio 1922, n. 321](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20di%20statuto%20022U0321.md), che ne approva il nuovo statuto organico;
+Visto il [regio decreto 19 febbraio 1922, n. 321](../Regi%20decreti/Approvazione%20di%20statuto%20022U0321.md), che ne approva il nuovo statuto organico;
 
 Considerato che l'ente ha adempito ai fini fondamentali per i quali venne costituito, previsti dall'art. 2 dello statuto organico, e che, per l'esiguita' del patrimonio residuo, risulta impossibile il proseguimento dello scopo subordinato previsto dall'art. 18 dello statuto medesimo;
 

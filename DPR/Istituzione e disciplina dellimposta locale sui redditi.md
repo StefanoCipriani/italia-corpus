@@ -88,7 +88,7 @@ Nei confronti delle persone fisiche e' dedotta, dal reddito d'impresa, dal reddi
 
 ## Art. 8. — Accertamento, riscossione e attribuzione dell'imposta
 
-L'imposta locale sui redditi e' accertata a cura degli uffici delle imposte secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, numero 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), ed e' riscossa secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
+L'imposta locale sui redditi e' accertata a cura degli uffici delle imposte secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, numero 600](Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), ed e' riscossa secondo le disposizioni del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
  Il gettito dell'imposta e' attribuito direttamente ai comuni, alle province, alle regioni, alle camere di commercio, industria, agricoltura e artigianato ed alle aziende autonome di cura, soggiorno o turismo nella cui circoscrizione il reddito e' prodotto. Si applicano le disposizioni del testo unico delle leggi sui servizi per la riscossione delle imposte dirette, approvato con [decreto del Presidente della Repubblica 15 maggio 1963, n. 858](Testo%20unico%20delle%20leggi%20sui%20servizi%20della%20riscossione%20delle%20imposte%20dirette.md), e successive modificazioni e integrazioni.
 
 ## Art. 9. — Aliquote

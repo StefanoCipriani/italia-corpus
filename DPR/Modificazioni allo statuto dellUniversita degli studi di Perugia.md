@@ -12,9 +12,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Perugia.%20039U1107.md), e modificato con [regi decreti 7 ottobre 1940, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-07;1471), [17 ottobre 1941, n. 1205 e con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-10-17;1205) [5 ottobre 1946, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-05;309);
+ Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Perugia.%20039U1107.md), e modificato con [regi decreti 7 ottobre 1940, n. 1471](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-07;1471), [17 ottobre 1941, n. 1205 e con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-10-17;1205) [5 ottobre 1946, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-05;309);
  Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
  Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
  Sentito il parere del Consiglio superiore della pubblica istruzione;

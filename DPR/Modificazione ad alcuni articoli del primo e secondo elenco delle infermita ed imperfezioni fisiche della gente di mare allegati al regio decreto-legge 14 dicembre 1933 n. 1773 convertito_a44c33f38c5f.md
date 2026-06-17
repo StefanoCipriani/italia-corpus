@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 14 dicembre 1933, n. 1773](https://www.normattiva.
 
 Vista la Convenzione internazionale del lavoro n. 73, stipulata a Seattle il 29 giugno 1946 e resa esecutiva in Italia con la [legge 2 agosto 1952, n. 1305](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md);
 
-Visto l'[articolo 323 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[articolo 323 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Riconosciuta la necessita' di modificare i criteri valutativi per alcune particolari infermita' ed imperfezioni fisiche della gente di mare;
 

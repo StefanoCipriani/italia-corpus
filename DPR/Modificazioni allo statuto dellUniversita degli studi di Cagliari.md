@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Cagliari.%20039U1098.md), e modificato con [regi decreti 5 ottobre 1939, n. 1743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328, e con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;398);
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20Universita%20di%20Cagliari.%20039U1098.md), e modificato con [regi decreti 5 ottobre 1939, n. 1743](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328, e con decreto del Capo provvisorio dello Stato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;398);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 

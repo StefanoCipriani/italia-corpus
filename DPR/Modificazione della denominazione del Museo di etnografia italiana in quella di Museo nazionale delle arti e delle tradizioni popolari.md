@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 10 settembre 1923, n. 2111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Regio%20museo%20detnografia%20in%20Tivoli.%20023U2111.md), con il quale, allo scopo di raccogliere ed ordinare sistematicamente i documenti delle molteplici manifestazioni d'indole intellettuale, morale, artistica e pratica delle popolazioni italiche, veniva istituito un Museo nazionale con la denominazione di "R. Museo di etnografia italiana", con sede nella Villa d'Este in Tivoli;
+ Visto il [regio decreto 10 settembre 1923, n. 2111](../Regi%20decreti/Istituzione%20del%20Regio%20museo%20detnografia%20in%20Tivoli.%20023U2111.md), con il quale, allo scopo di raccogliere ed ordinare sistematicamente i documenti delle molteplici manifestazioni d'indole intellettuale, morale, artistica e pratica delle popolazioni italiche, veniva istituito un Museo nazionale con la denominazione di "R. Museo di etnografia italiana", con sede nella Villa d'Este in Tivoli;
  Considerato che il Museo e' stato recentemente trasferito nel Palazzo delle tradizioni popolari nella zona dell'E.U.R. a Roma e che nella nuova sede viene esposto unicamente il materiale relativo ai prodotti tradizionali ed artistici del popolo italiano, pur restando immutati i principi fondamentali in base ai quali venne istituito il Museo stesso;
  Considerato pertanto che il termine "etnografia" meno risponde ai criteri scientifici cui e' ispirato l'ordinamento attuale del Museo;
  Considerata l'opportunita' di modificare la denominazione dell'Istituto in quella di "Museo nazionale delle arti e delle tradizioni popolari";

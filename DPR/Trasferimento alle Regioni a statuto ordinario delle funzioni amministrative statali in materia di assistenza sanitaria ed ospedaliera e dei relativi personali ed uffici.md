@@ -269,7 +269,7 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  ed altre manifestazioni . . . . . . . . . . . . . 10 1078 - Spese per la fornitura di uniformi alle guar-
  die di sanita (art. 85 del regolamento ap-
  provato con [regio decreto 25 giugno 1914,
- n. 702](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20e%20dellAmministrazione%20provinciale%20della%20sanita%20pubblica.%20014U0702.md)) . . . . . . . . . . . . . . . . . . . . . 13 1102 - Contributi per la propaganda sanitaria e la
+ n. 702](../Regi%20decreti/Col%20quale%20e%20approvato%20lunito%20regolamento%20per%20il%20personale%20dellAmministrazione%20centrale%20e%20dellAmministrazione%20provinciale%20della%20sanita%20pubblica.%20014U0702.md)) . . . . . . . . . . . . . . . . . . . . . 13 1102 - Contributi per la propaganda sanitaria e la
  educazione igienica e per l'organizzazione e
  la partecipazione a convegni, congressi, mo-
  stre ed altre manifestazioni. . . . . . . . . . . 10 1125 - Spese per le ispezioni degli istituti di ra-
@@ -372,7 +372,7 @@ Le soppressioni e le riduzioni da apportare, ai sensi dell'[art. 18 della legge 
  27 luglio 1934, n. 1265, nonche articoli 13](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md)
  e [14](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) dei regolamenti approvati rispetti-
  vamente con [regi decreti 6 dicembre 1928,
- n. 3112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201070%20contenente%20disposizioni%20varie%20sulla%20sanita%20pubblica.%20028U3112.md) e [3 marzo 1927, n. 478](../Regi%20decreti/Approvazione%20del%20regolamento%20contenente%20norme%20per%20la%20produzione%20ed%20il%20commercio%20delle%20specialita%20medicinali.%20027U0478.md)) . . . . . . . . . 25 
+ n. 3112](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2023%20giugno%201927%20n.%201070%20contenente%20disposizioni%20varie%20sulla%20sanita%20pubblica.%20028U3112.md) e [3 marzo 1927, n. 478](../Regi%20decreti/Approvazione%20del%20regolamento%20contenente%20norme%20per%20la%20produzione%20ed%20il%20commercio%20delle%20specialita%20medicinali.%20027U0478.md)) . . . . . . . . . 25 
  b) Spese di personale ed accessorie:
 
  STATO DI PREVISIONE

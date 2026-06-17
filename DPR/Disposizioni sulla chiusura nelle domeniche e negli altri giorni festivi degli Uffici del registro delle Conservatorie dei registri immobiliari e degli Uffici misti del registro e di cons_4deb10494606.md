@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze, approvato con [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
+Visto il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze, approvato con [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
 
 Visto l'articolo unico del [decreto luogotenenziale 12 ottobre 1945, n. 681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-10-12;681), modificativo dell'art. 140 del predetto regolamento;
 

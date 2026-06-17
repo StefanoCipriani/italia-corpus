@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 29 giugno 1879, n. 4949](../Atti%20normativi%20abrogati%20%28in%20originale%29/col%20quale%20si%20provvede%20per%20la%20sistemazione%20degli%20archivi%20notarili%20attualmente%20esistenti%20nelle%20provincie%20gia%20pontificie%20079U4949.md), con il quale venne istituito l'Archivio notarile mandamentale di Codigoro;
+ Visto il [regio decreto 29 giugno 1879, n. 4949](../Regi%20decreti/col%20quale%20si%20provvede%20per%20la%20sistemazione%20degli%20archivi%20notarili%20attualmente%20esistenti%20nelle%20provincie%20gia%20pontificie%20079U4949.md), con il quale venne istituito l'Archivio notarile mandamentale di Codigoro;
  Viste le deliberazioni dei comuni di Codigoro, Mesola, Massafiscaglia, Lagosanto e Migliarino, intese ad ottenere la soppressione del predetto Archivio notarile mandamentale;
  Considerato che il medesimo da tempo non svolge piu' alcuna attivita', ne' risponde ad una concreta utilita' della popolazione di quel mandamento;
  Visti i pareri del procuratore della Repubblica presso il tribunale e del conservatore dell'Archivio notarile distrettuale di Ferrara;

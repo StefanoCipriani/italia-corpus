@@ -16,7 +16,7 @@ Considerato che, nel tratto anzidetto, e' stata apportata alla strada una varian
 
 Vista la deliberazione n. 121/4421 in data 29 aprile 1967, con la quale il consiglio provinciale di Savona ha espresso al riguardo il suo parere favorevole;
 
-Visti gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 32 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere espresso dalla prima sezione del Consiglio di Stato nell'adunanza del 12 settembre 1969;
 

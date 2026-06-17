@@ -69,7 +69,7 @@ Fino alla istituzione della pianta organica di cui all'[art. 14 della legge 11 m
 
 ### Art. 10.
 
-Restano salve le norme relative al collocamento fuori ruolo di cui al testo unico delle norme sulle scuole italiane all'estero, approvato con [regio decreto 12 febbraio 1940, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md) e successive modificazioni, osservate, per il personale non insegnante, le modalita' di cui al terzo comma dell'art. 58 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
+Restano salve le norme relative al collocamento fuori ruolo di cui al testo unico delle norme sulle scuole italiane all'estero, approvato con [regio decreto 12 febbraio 1940, n. 740](../Testi%20Unici/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md) e successive modificazioni, osservate, per il personale non insegnante, le modalita' di cui al terzo comma dell'art. 58 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

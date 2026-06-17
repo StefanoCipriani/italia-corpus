@@ -14,7 +14,7 @@ Vista la [legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2L
 
 Visto il [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md);
 
-Visto il [regio decreto 4 maggio 1925, n. 653](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md) e successive modificazioni e integrazioni;
+Visto il [regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md) e successive modificazioni e integrazioni;
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

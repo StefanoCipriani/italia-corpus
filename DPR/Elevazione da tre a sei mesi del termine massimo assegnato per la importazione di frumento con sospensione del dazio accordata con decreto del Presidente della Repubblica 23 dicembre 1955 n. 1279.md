@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Vista la [legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Vista la [legge 7 dicembre 1952, n. 1846](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dellautorizzazione%20al%20Governo%20di%20sospendere%20o%20ridurre%20i%20dazi%20della%20vigente%20tariffa%20doganale%20prevista%20dallart.%202%20della%20legge%2024%20dicembre%201949%20n.%20993.md);
 
@@ -34,7 +34,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Ritenuta la necessita' di elevare da tre a sei mesi il termine massimo assegnato per la importazione di frumento con sospensione del dazio accordata col [decreto Presidenziale 23 dicembre 1955, n. 1279](Sospensione%20dellapplicazione%20del%20dazio%20sul%20frumento%20importato%20a%20reintegro%20di%20quello%20impiegato%20nella%20lavorazione%20delle%20farine%20dei%20semolini%20e%20delle%20paste%20nonche%20dei%20prodotti%20secondari%20e%20sot_7f061261d7a5.md);
 
-Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n. 1846, e 3 novembre 1954, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1077);
+Sentita la Commissione parlamentare, costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md), e confermata con le [leggi 7 dicembre 1952, n. 1846, e 3 novembre 1954, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1077);
 
 Sentito il Consiglio dei Ministri;
 

@@ -33,7 +33,7 @@ Coloro che provvedono alla trasformazione delle uve e dei mosti in vino hanno l'
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 12 febbraio 1965, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md) ha disposto (con l'art. 21, comma 3) che "La denuncia prevista dal presente articolo sostituisce l'esemplare della denuncia di cui all'[art. 2 del decreto del Presidente della Repubblica 14 dicembre 1961, numero 1315](Norme%20di%20attuazione%20dellart.%208%20della%20legge%2018%20dicembre%201959%20n.%201079%20concernente%20labolizione%20dellimposta%20comunale%20di%20consumo%20sul%20vino.md), destinato al competente Istituto di vigilanza del Ministero dell'agricoltura e delle foreste".
+Il [D.P.R. 12 febbraio 1965, n. 162](Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md) ha disposto (con l'art. 21, comma 3) che "La denuncia prevista dal presente articolo sostituisce l'esemplare della denuncia di cui all'[art. 2 del decreto del Presidente della Repubblica 14 dicembre 1961, numero 1315](Norme%20di%20attuazione%20dellart.%208%20della%20legge%2018%20dicembre%201959%20n.%201079%20concernente%20labolizione%20dellimposta%20comunale%20di%20consumo%20sul%20vino.md), destinato al competente Istituto di vigilanza del Ministero dell'agricoltura e delle foreste".
 
 ## Art. 3.
 

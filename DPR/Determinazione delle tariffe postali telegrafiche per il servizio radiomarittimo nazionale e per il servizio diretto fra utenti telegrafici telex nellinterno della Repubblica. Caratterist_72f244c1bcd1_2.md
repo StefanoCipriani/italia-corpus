@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 9 dicembre 1980, n. 878](Deter
 
 Visto il [decreto del Presidente della Repubblica 12 marzo 1982, n. 73](Istituzione%20di%20una%20voce%20tariffaria%20nel%20servizio%20dei%20conti%20correnti%20postali.md), che prevede l'istituzione di una voce tariffaria nel servizio dei conti correnti postali;
 
-Visto il regolamento generale dei servizi postali (parte seconda - servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
+Visto il regolamento generale dei servizi postali (parte seconda - servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
 
 Visto l'[art. 2 del decreto del Presidente della Repubblica 28 aprile 1981, n. 336](Integrazioni%20e%20modificazioni%20al%20regolamento%20generale%20dei%20servizi%20postali%20parte%20seconda%20-%20servizi%20a%20danaro.md), che prevede l'istituzione di uno speciale documento di riconoscimento, denominato "carta del correntista postale";
 

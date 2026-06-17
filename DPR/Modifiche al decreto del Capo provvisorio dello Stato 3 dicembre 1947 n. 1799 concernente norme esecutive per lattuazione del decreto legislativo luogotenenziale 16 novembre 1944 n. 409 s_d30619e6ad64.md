@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto legislativo luogotenenziale 16 novembre 1944, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-16;40);
 
-Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 605](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2016%20novembre%201944%20n.%20409%20concernente%20lo%20scioglimento%20del%20Corpo%20e%20del%20Servizio%20di%20Stato%20Maggiore.md);
+Visto il [decreto legislativo luogotenenziale 12 aprile 1946, n. 605](../Decreti%20legislativi%20luogotenenziali/Modificazione%20al%20decreto%20legislativo%20Luogotenenziale%2016%20novembre%201944%20n.%20409%20concernente%20lo%20scioglimento%20del%20Corpo%20e%20del%20Servizio%20di%20Stato%20Maggiore.md);
 
 Visto il [decreto del Capo provvisorio dello Stato 3 dicembre 1947 n. 1799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-03;1799);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la difesa di concerto con il Ministro per il tes
 
 ## Articolo unico.
 
-Il [primo comma dell'art. 5 del decreto del Capo provvisorio dello Stato 3 dicembre 1947, n. 1799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-03;1799#art_5-com1), recante norme esecctive per l'attuazione del [decreto legislativo luogotenenziale 16 novembre 1944 n. 409](../Atti%20normativi%20abrogati%20%28in%20originale%29/Scioglimento%20del%20Corpo%20di%20Stato%20Maggiore%20e%20del%20Servizio%20di%20Stato%20Maggiore.%20044U0409.md), sullo scioglimento del Corpo e del Servizio di Stato Maggiore e' sostituito dal seguente:
+Il [primo comma dell'art. 5 del decreto del Capo provvisorio dello Stato 3 dicembre 1947, n. 1799](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-03;1799#art_5-com1), recante norme esecctive per l'attuazione del [decreto legislativo luogotenenziale 16 novembre 1944 n. 409](../Decreti%20legislativi%20luogotenenziali/Scioglimento%20del%20Corpo%20di%20Stato%20Maggiore%20e%20del%20Servizio%20di%20Stato%20Maggiore.%20044U0409.md), sullo scioglimento del Corpo e del Servizio di Stato Maggiore e' sostituito dal seguente:
  "Nella valutazione di ciascun ufficiale si tendera' a riconoscere che questi sia in possesso di elevate qualita' morali, intellettuali e di attitudine allo speciale servizio, oltreche' dei necessari requisiti di comando effettivo di reparto e di eventuali benemeranze di guerra".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

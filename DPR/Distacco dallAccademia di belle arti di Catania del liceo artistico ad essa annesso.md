@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 31 dicembre 1923, n. 3123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), sull'ordinamento dell'istruzione artistica;
+Visto il [regio decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md), sull'ordinamento dell'istruzione artistica;
 
 Visto il [regio decreto 7 gennaio 1926, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-07;214), che detta nuove disposizioni sull'ordinamento dell'istruzione artistica;
 

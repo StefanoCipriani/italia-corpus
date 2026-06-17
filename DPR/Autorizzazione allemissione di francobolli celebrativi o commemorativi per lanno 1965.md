@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' di emettere nell'anno 1965 le seguenti serie di francobolli: celebrativi del XX anniversario della resistenza; commemorativi di Dante Alighieri nel VII centenario della nascita; celebrativi dell'istituzione della rete aerea postale notturna italiana; celebrativi dei Campionati mondiali di vela; celebrativi del centenario dell'Unione Internazionale delle Telecomunicazioni (U.I.T.); commemorativi di Alessandro Tassoni nel IV centenario della nascita; celebrativi della Giornata nazionale del risparmio; celebrativi della Idea Europea; celebrativi della VII Giornata del francobollo; celebrativi del Traforo del Monte Bianco;
 

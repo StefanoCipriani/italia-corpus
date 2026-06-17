@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto legislativo 14 maggio 1946, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concernente il collocamento nella riserva o nell'ausiliaria di ufficiali generali e superiori dell'Esercito, della Marina e della Aeronautica;
+Visto il [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), concernente il collocamento nella riserva o nell'ausiliaria di ufficiali generali e superiori dell'Esercito, della Marina e della Aeronautica;
 
 Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il tesoro; Decreta:
 
 ## Articolo unico.
 
-L'aliquota degli ammiragli di armata che possono essere collocati in ausiliaria ai sensi del [regio decreto legislativo 14 maggio 1946, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' stabilita come segue: ammiragli di armata: n. 1.
+L'aliquota degli ammiragli di armata che possono essere collocati in ausiliaria ai sensi del [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), e' stabilita come segue: ammiragli di armata: n. 1.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

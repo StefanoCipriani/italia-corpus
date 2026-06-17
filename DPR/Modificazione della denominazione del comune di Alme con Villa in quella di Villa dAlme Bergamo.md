@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione in data 20 gennaio 1951, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1951-01-20;1), con la quale il Consiglio comunale di Alme' con Villa (provincia di Bergamo) ha chiesto che l'attuale denominazione del comune sia cambiata in quella di Villa d'Alme';
  Visto il parere favorevole della Deputazione provinciale di Bergamo, espresso con [deliberazione n. 39, in data 16 febbraio 1951](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1951-02-16;39);
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

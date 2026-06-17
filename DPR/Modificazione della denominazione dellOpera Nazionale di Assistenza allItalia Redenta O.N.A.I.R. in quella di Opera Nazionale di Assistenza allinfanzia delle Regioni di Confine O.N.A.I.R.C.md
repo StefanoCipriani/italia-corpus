@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 23 ottobre 1924, n. 1803](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20in%20Ente%20morale%20dellOpera%20nazionale%20di%20assistenza%20allItalia%20Redenta.%20024U1803.md), col quale l'Opera Nazionale di Assistenza all'Italia Redenta (O.N.A.I.R.) e' stata eretta in ente morale;
+Visto il [regio decreto 23 ottobre 1924, n. 1803](../Regi%20decreti/Costituzione%20in%20Ente%20morale%20dellOpera%20nazionale%20di%20assistenza%20allItalia%20Redenta.%20024U1803.md), col quale l'Opera Nazionale di Assistenza all'Italia Redenta (O.N.A.I.R.) e' stata eretta in ente morale;
 
 Visto lo statuto dell'anzidetta Opera approvato con [decreto del Presidente della Repubblica 16 gennaio 1951, n. 1830](Approvazione%20dello%20statuto%20dellOpera%20nazionale%20di%20assistenza%20allItalia%20redenta.md);
 

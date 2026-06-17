@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 86 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ Visto l'[art. 86 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  Ritenuta la necessita' di provvedere all'organizzazione del servizio di pilotaggio nel porto di Lipari con l'istituzione di una corporazione di piloti;
  Udito il parere del Consiglio di Stato;
  Sulla proposta del Ministro per la marina mercantile;

@@ -16,7 +16,7 @@ Visto il voto favorevole del Consiglio comunale di Aviano, espresso con [deliber
 
 Viste le deliberazioni 16 febbraio 19-17, n. 23, 2 luglio 1949, n. 54 e 20 gennaio 1952, numeri 15 e 16, del Consiglio comunale di Montereale Cellina; 14 febbraio 1950, n. 1704, della Deputazione provinciale e 13 ottobre 1952, n. 18.112, del Consiglio provinciale di Udine, esprimenti il rispettivo parere in ordine alle citate istanze;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

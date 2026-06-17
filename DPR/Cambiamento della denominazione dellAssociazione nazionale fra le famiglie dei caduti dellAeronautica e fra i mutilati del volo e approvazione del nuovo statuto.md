@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 ottobre 1937, n. 2226](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20famiglie%20caduti%20dellAeronautica%20con%20sede%20in%20Roma.%20037U2226.md), che erige in ente morale l'Associazione nazionale fra le famiglie dei caduti dell'Aeronautica e ne approva lo statuto;
+Visto il [regio decreto 27 ottobre 1937, n. 2226](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20famiglie%20caduti%20dellAeronautica%20con%20sede%20in%20Roma.%20037U2226.md), che erige in ente morale l'Associazione nazionale fra le famiglie dei caduti dell'Aeronautica e ne approva lo statuto;
 
 Visto il [regio decreto 11 agosto 1939, n. 1629](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20famiglie%20caduti%20dellAeronautica.%20039U1629.md), che modifica la denominazione dell'Ente in Associazione nazionale fra le famiglie dei caduti dell'Aeronautica e fra i mutilati del volo e ne approva un nuovo statuto;
 

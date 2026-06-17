@@ -14,14 +14,14 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87, comma quinto della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
  Visto l'[art. 4 del regio decreto-legge 15 marzo 1923, n. 692](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-15;692#art_4), relativo alla limitazione dell'orario di lavoro per gli operai ed impiegati delle aziende industriali o commerciali di qualunque natura;
- Visto il [regio decreto 10 settembre 1923, n. 1957](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20tabella%20indicante%20le%20industrie%20e%20le%20lavorazioni%20per%20le%20quali%20e%20consentita%20la%20facolta%20di%20superare%20le%208%20ore%20giornaliere%20o%20le%2048%20settimanali%20di%20lavoro.%20023U1957.md), e successive modificazioni, concernenti la tabella indicante le industrie e le lavorazioni per le quali e' consentita la facolta' di superare le 8 ore giornaliere o le 48 ore settimanali di lavoro;
+ Visto il [regio decreto 10 settembre 1923, n. 1957](../Regi%20decreti/Approvazione%20della%20tabella%20indicante%20le%20industrie%20e%20le%20lavorazioni%20per%20le%20quali%20e%20consentita%20la%20facolta%20di%20superare%20le%208%20ore%20giornaliere%20o%20le%2048%20settimanali%20di%20lavoro.%20023U1957.md), e successive modificazioni, concernenti la tabella indicante le industrie e le lavorazioni per le quali e' consentita la facolta' di superare le 8 ore giornaliere o le 48 ore settimanali di lavoro;
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;
  Sulla proposta del Ministro per il lavoro e la previdenza sociale, uditi il Ministro per l'agricoltura e per le foreste e il Ministro per l'industria e commercio;
 
  Decreta:
 
- Alla tabella indicante le industrie e le lavorazioni per le quali e' consentita la facolta' di superare le 8 ore giornaliere o le 48 ore settimanali di lavoro, approvata con [regio decreto 10 settembre 1923, n. 1957](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20tabella%20indicante%20le%20industrie%20e%20le%20lavorazioni%20per%20le%20quali%20e%20consentita%20la%20facolta%20di%20superare%20le%208%20ore%20giornaliere%20o%20le%2048%20settimanali%20di%20lavoro.%20023U1957.md), e successivamente modificata, e' aggiunta la seguente voce:
+ Alla tabella indicante le industrie e le lavorazioni per le quali e' consentita la facolta' di superare le 8 ore giornaliere o le 48 ore settimanali di lavoro, approvata con [regio decreto 10 settembre 1923, n. 1957](../Regi%20decreti/Approvazione%20della%20tabella%20indicante%20le%20industrie%20e%20le%20lavorazioni%20per%20le%20quali%20e%20consentita%20la%20facolta%20di%20superare%20le%208%20ore%20giornaliere%20o%20le%2048%20settimanali%20di%20lavoro.%20023U1957.md), e successivamente modificata, e' aggiunta la seguente voce:
 
  TABELLA
 

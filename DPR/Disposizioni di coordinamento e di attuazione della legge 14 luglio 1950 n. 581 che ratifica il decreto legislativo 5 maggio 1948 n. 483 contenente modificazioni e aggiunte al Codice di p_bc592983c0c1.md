@@ -135,7 +135,7 @@ TITOLO II.
 
 ### Art. 14. — (Richiamo delle disposizioni del Codice)
 
-Il Codice, richiamato senz'altra indicazione nelle norme del presente titolo, e' quello di procedura civile approvato con [regio decreto 28 ottobre 1940, n. 1443](../Codici/Codice%20di%20procedura%20civile.%20040U1443.md), modificato dal [regio decreto 20 aprile 1942, n. 504](../Regi%20decreti/Norme%20per%20il%20coordinamento%20del%20Codice%20di%20procedura%20civile%20con%20il%20Codice%20civile.%20042U0504.md) e dalla [legge 14 luglio 1950, n. 581](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%205%20maggio%201948%20n.%20483%20contenente%20modificazioni%20e%20aggiunte%20al%20Codice%20di%20procedura%20civile.md), nonche' dalle disposizioni contenute nel titolo I del presente decreto.
+Il Codice, richiamato senz'altra indicazione nelle norme del presente titolo, e' quello di procedura civile approvato con [regio decreto 28 ottobre 1940, n. 1443](../Regi%20decreti/Codice%20di%20procedura%20civile.%20040U1443.md), modificato dal [regio decreto 20 aprile 1942, n. 504](../Regi%20decreti/Norme%20per%20il%20coordinamento%20del%20Codice%20di%20procedura%20civile%20con%20il%20Codice%20civile.%20042U0504.md) e dalla [legge 14 luglio 1950, n. 581](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%205%20maggio%201948%20n.%20483%20contenente%20modificazioni%20e%20aggiunte%20al%20Codice%20di%20procedura%20civile.md), nonche' dalle disposizioni contenute nel titolo I del presente decreto.
 
 ### Art. 15. — (Intervento del pubblico ministero davanti all'istruttore)
 

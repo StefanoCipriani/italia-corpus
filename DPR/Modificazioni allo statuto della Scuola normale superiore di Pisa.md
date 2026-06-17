@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [regio decreto 21 ottobre 1938, numero 2216](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20normale%20superiore%20di%20Pisa.%20038U2216.md), e modificato con i [regi decreti 21 ottobre 1940, n. 1654](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-21;1654), [17 ottobre 1941, n. 1214 e con decreto del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1941-10-17;1214) [30 luglio 1950, n. 1303](Modificazione%20allo%20statuto%20della%20Scuola%20normale%20superiore%20di%20Pisa.md);
+Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [regio decreto 21 ottobre 1938, numero 2216](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Regia%20scuola%20normale%20superiore%20di%20Pisa.%20038U2216.md), e modificato con i [regi decreti 21 ottobre 1940, n. 1654](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-21;1654), [17 ottobre 1941, n. 1214 e con decreto del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1941-10-17;1214) [30 luglio 1950, n. 1303](Modificazione%20allo%20statuto%20della%20Scuola%20normale%20superiore%20di%20Pisa.md);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 

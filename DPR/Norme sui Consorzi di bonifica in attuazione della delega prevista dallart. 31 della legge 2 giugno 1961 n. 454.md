@@ -117,7 +117,7 @@ CAPO III
 
 ### Art. 11. — Esecuzione dei lavori
 
-Per l'esecuzione di opere pubbliche di bonifica nei modi previsti dall'[art. 67 del regio decreto 25 maggio 1895, n. 350, il Ministero dell'agricoltura e delle foreste](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md) puo' prescrivere ai Consorzi di bonifica di esperire una gara per l'appalto dei lavori tra ditte, da essi ritenute particolarmente idonee alle speciali categorie di opere da eseguire, scelte fra ditte di provata capacita'. L'elenco delle ditte e' comunicato per il parere al competente Ufficio dei genio civile.
+Per l'esecuzione di opere pubbliche di bonifica nei modi previsti dall'[art. 67 del regio decreto 25 maggio 1895, n. 350, il Ministero dell'agricoltura e delle foreste](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md) puo' prescrivere ai Consorzi di bonifica di esperire una gara per l'appalto dei lavori tra ditte, da essi ritenute particolarmente idonee alle speciali categorie di opere da eseguire, scelte fra ditte di provata capacita'. L'elenco delle ditte e' comunicato per il parere al competente Ufficio dei genio civile.
  L'Ufficio del genio civile ha facolta' di inviare un proprio rappresentante ad assistere alle gare.
 
 ## ASSISTENZA Al CONSORZIATI

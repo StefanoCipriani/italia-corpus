@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la deliberazione del consiglio comunale di Santa Maria (Cosenza) in data 13 settembre 1959, n. 23, con la quale e' stato chiesto che l'attuale denominazione del comune stesso sia mutata in quella di "Santa Maria del Cedro";
  Vista la deliberazione del consiglio provinciale di Cosenza in data 20 settembre 1960, n. 54, con la quale detto consesso ha espresso il richiesto parere;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari per l'interno;
 
  Decreta:

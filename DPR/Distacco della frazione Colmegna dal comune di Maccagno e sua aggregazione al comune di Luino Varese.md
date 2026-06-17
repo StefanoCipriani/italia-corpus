@@ -14,7 +14,7 @@ Vista la istanza in data 29 luglio 1951, con la quale la maggioranza dei contrib
 
 Viste le deliberazioni del Consiglio comunale di Maccagno, n. 27 in data 13 ottobre 1951, del Consiglio comunale di Luino, n. 1 in data 20 gennaio 1952, del Consiglio provinciale di Varese, n. 243 in data 14 febbraio 1953, con le quali venne espresso parere in ordine alla variazione territoriale di cui trattasi;
 
-Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 34 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Udito il parere del Consiglio di Stato;
 

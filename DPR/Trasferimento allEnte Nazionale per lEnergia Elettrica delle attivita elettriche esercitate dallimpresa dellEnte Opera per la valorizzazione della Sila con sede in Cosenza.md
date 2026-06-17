@@ -53,7 +53,7 @@ Il rappresentante dell'Ente Nazionale per l'Energia Elettrica ha diritto di pren
 
 ## Art. 5.
 
-L'indennizzo e' determinato e corrisposto dall'Ente Nazionale per l'Energia Elettrica secondo le disposizioni della [legge 6 dicembre 1962, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1613), e del [decreto del Presidente della Repubblica 25 febbraio 1963, n. 138](Norme%20relative%20agli%20indennizzi%20da%20corrispondere%20alle%20imprese%20assoggettate%20a%20trasferimento%20allEnel.md), e della [legge 27 giugno 1964, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md).
+L'indennizzo e' determinato e corrisposto dall'Ente Nazionale per l'Energia Elettrica secondo le disposizioni della [legge 6 dicembre 1962, n. 1613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-06;1613), e del [decreto del Presidente della Repubblica 25 febbraio 1963, n. 138](Norme%20relative%20agli%20indennizzi%20da%20corrispondere%20alle%20imprese%20assoggettate%20a%20trasferimento%20allEnel.md), e della [legge 27 giugno 1964, n. 452](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20di%20delega%20al%20Governo%20per%20la%20emanazione%20di%20norme%20relative%20allorganizzazione%20e%20al%20trattamento%20tributario%20dellEnte%20nazionale%20per%20lenergia%20elettrica%20e%20norme%20integrative%20della%20legge%206%20_d24ae857abef.md).
 
 ## Art. 6.
 

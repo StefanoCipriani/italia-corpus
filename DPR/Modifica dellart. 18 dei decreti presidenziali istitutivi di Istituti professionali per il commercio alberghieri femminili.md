@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sull'ordinamento dell'istruzione media;
 
-Veduto il [regio decreto 27 novembre 1924, n. 2367](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), recante norme sullo stato dei presidi degli Istituti medi;
+Veduto il [regio decreto 27 novembre 1924, n. 2367](../Regi%20decreti/Regolamento%20sullo%20stato%20dei%20presidi%20dei%20professori%20e%20del%20personale%20assistente%20di%20segreteria%20e%20subalterno%20dei%20Regi%20istituti%20medi%20distruzione.%20024U2367.md), recante norme sullo stato dei presidi degli Istituti medi;
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
 Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Veduto il [regio decreto 11 febbraio 1941, n. 397](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allart.%204%20del%20R.%20decreto%2028%20settembre%201934-XII%20n.%201680%20relativo%20alla%20nomina%20dei%20presidi%20e%20dei%20direttori%20del%20Regi%20istituti%20e%20delle%20Regie%20scuole%20di%20istruzione%20media%20tecnica.%20041U0397.md), recante norme relative alla nomina dei presidi e dei direttori degli Istituti e Scuole di istruzione media tecnica;
+Veduto il [regio decreto 11 febbraio 1941, n. 397](../Regi%20decreti/Modificazione%20allart.%204%20del%20R.%20decreto%2028%20settembre%201934-XII%20n.%201680%20relativo%20alla%20nomina%20dei%20presidi%20e%20dei%20direttori%20del%20Regi%20istituti%20e%20delle%20Regie%20scuole%20di%20istruzione%20media%20tecnica.%20041U0397.md), recante norme relative alla nomina dei presidi e dei direttori degli Istituti e Scuole di istruzione media tecnica;
 
 Veduto il [decreto del Capo provvisorio dello Stato 21 aprile 1947, n. 629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-21;629), recante norme sulla nomina dei capi di Istituto;
 

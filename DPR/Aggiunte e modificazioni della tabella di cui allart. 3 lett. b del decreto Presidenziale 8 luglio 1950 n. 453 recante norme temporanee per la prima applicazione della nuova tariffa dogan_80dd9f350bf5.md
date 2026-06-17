@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Vista la [legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Vista la tariffa generale dei dazi doganali di importazione, approvata con [decreto Presidenziale 7 luglio 1950, n. 442](Approvazione%20della%20nuova%20tariffa%20doganale%20dei%20dazi%20di%20importazione.md);
 
@@ -18,7 +18,7 @@ Visto il [decreto Presidenziale 8 luglio 1950, n. 453](Norme%20temporanee%20per%
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Sentita la Commissione Parlamentare costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
+Sentita la Commissione Parlamentare costituita a norma dell'[art. 3 della legge 24 dicembre 1949, n. 993](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20emanare%20una%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.md);
 
 Sentito il Consiglio dei Ministri;
 

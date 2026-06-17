@@ -36,7 +36,7 @@ Con provvedimento del Ministro per la marina mercantile saranno stabilite la dat
 ## Art. 3.
 
 La Direzione marittima di Venezia risulta composta come dalla tabella allegata.
- Nella tabella A, annessa al [regio decreto 25 novembre 1937, n. 2360](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md), e' soppressa la indicazione dell'Ufficio locale marittimo di 1ª classe di Grado.
+ Nella tabella A, annessa al [regio decreto 25 novembre 1937, n. 2360](../Regi%20decreti/Conferimento%20dei%20posti%20di%20incaricato%20marittimo%20e%20di%20delegato%20di%20spiaggia.%20037U2360.md), e' soppressa la indicazione dell'Ufficio locale marittimo di 1ª classe di Grado.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei #decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

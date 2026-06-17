@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 29 marzo 1928, n. 850](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tariffa%20dei%20diritti%20di%20borsa%20spettanti%20al%20Consiglio%20provinciale%20delleconomia%20di%20Roma.%20028U0850.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di Borsa spettanti al Consiglio provinciale dell'economia, ora Camera di commercio, industria e agricoltura di Roma;
+Visto il [regio decreto 29 marzo 1928, n. 850](../Regi%20decreti/Tariffa%20dei%20diritti%20di%20borsa%20spettanti%20al%20Consiglio%20provinciale%20delleconomia%20di%20Roma.%20028U0850.md), col quale venne approvata e resa esecutiva la tariffa dei diritti di Borsa spettanti al Consiglio provinciale dell'economia, ora Camera di commercio, industria e agricoltura di Roma;
 
 Visti i [regi decreti 12 marzo 1931, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-03-12;281), [28 gennaio 1932, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-01-28;58) e [29 marzo 1934, n. 47; il decreto luogotenenziale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo.luogotenenziale:1934-03-29;47) [4 marzo 1946, n. 415, e il decreto del Presidente della Repubblica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-03-04;415) [21 febbraio 1948, n. 152](Modificazione%20alla%20tariffa%20dei%20diritti%20di%20Borsa%20spettanti%20alla%20Camera%20di%20commercio%20industria%20e%20agricoltura%20di%20Roma.md), con i quali vennero apportate delle variazioni alla predetta tariffa;
 

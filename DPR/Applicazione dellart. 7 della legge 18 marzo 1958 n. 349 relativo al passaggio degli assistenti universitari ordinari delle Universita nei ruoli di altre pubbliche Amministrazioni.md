@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 8 aprile 1939, n. 2241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Passaggio%20degli%20aiuti%20e%20assistenti%20universitari%20nei%20ruoli%20di%20altre%20Amministrazioni.%20039U2241.md), concernente il passaggio degli aiuti ed assistenti universitari ordinari nei ruoli di altre Amministrazioni;
+Visto il [regio decreto 8 aprile 1939, n. 2241](../Regi%20decreti/Passaggio%20degli%20aiuti%20e%20assistenti%20universitari%20nei%20ruoli%20di%20altre%20Amministrazioni.%20039U2241.md), concernente il passaggio degli aiuti ed assistenti universitari ordinari nei ruoli di altre Amministrazioni;
 
 Vista la [legge 18 marzo 1958, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349), contenente norme sullo stato giuridico ed economico degli assistenti universitari;
 

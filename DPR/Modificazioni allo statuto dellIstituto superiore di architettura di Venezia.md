@@ -12,9 +12,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto lo statuto dell'Istituto superiore di architettura di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1030](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20del%20Regio%20Istituto%20superiore%20di%20architettura%20di%20Venezia.%20039U1030.md);
+ Veduto lo statuto dell'Istituto superiore di architettura di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1030](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20del%20Regio%20Istituto%20superiore%20di%20architettura%20di%20Venezia.%20039U1030.md);
  Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
- Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
  Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
  Sentito il parere del Consiglio superiore della pubblica istruzione;
  Sulla proposta del Ministro per la pubblica istruzione;

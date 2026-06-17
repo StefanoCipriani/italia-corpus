@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la, deliberazione 24 ottobre 1946, con la quale il Consiglio comunale di Piedimonte San Germano ha chiesto il trasferimento della sede municipale dall'antico abitato, quasi completamente distrutto dalla guerra, nel nuovo centro in via di costruzione, lungo la via Casilina, dove la grande maggioranza della popolazione del Comune si e' sistemata;
  Veduta la deliberazione 4 luglio 1947, con la quale la Deputazione provinciale di Frosinone ha espresso al riguardo parere favorevole;
- Veduto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Veduto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

@@ -14,7 +14,7 @@ Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio
 
 Visto il [regio decreto-legge 20 giugno 1935, n. 1071](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) (Modifiche ed aggiornamento al testo unico delle leggi sull'istruzione superiore), convertito nella [legge 2 gennaio 1936, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20contenente%20modifiche%20ed%20aggiornamenti%20al%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20036U0073.md);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) (Disposizioni sull'ordinamento didattico universitario), e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md) (Disposizioni sull'ordinamento didattico universitario), e successive modificazioni;
 
 Vista la nuova tabella XXXIII dell'ordinamento didattico universitario, relativa all'ordinamento didattico del corso di laurea in medicina veterinaria, approvata con [decreto del Presidente della Repubblica 29 agosto 1986, n. 947](Modificazioni%20allordinamento%20didattico%20universitario%20relativamente%20al%20corso%20di%20laurea%20in%20medicina%20veterinaria.md);
 

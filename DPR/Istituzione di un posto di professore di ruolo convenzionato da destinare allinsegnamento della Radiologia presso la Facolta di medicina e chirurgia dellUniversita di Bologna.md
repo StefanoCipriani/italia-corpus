@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md), e successive modificazioni ed integrazioni;
 
-Veduto il [regio decreto 12 dicembre 1938, n. 1964](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20di%20radiologia%20presso%20la%20Regia%20universita%20di%20Bologna.%20038U1964.md), col quale venne approvata la convenzione, stipulata a Bologna il 18 novembre 1938 per l'istituzione di un posto di professore di ruolo destinato all'insegnamento di "Radiologia" presso la regia Universita' di Bologna;
+Veduto il [regio decreto 12 dicembre 1938, n. 1964](../Regi%20decreti/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20di%20radiologia%20presso%20la%20Regia%20universita%20di%20Bologna.%20038U1964.md), col quale venne approvata la convenzione, stipulata a Bologna il 18 novembre 1938 per l'istituzione di un posto di professore di ruolo destinato all'insegnamento di "Radiologia" presso la regia Universita' di Bologna;
 
 Considerato che l'Universita' di Bologna con le delibere del proprio Consiglio d'amministrazione in data 1 marzo 1960 e 22 luglio 1961 ha denunciato la convenzione sopra citata;
 
@@ -50,7 +50,7 @@ I versamenti dei contributi previsti dalla convenzione verranno fatti affluire a
 
 ## Art. 8.
 
-La convenzione stipulata dall'Universita' di Bologna il 18 novembre 1938, approvata e resa esecutiva con il [regio decreto 12 dicembre 1938, n. 1964](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20di%20radiologia%20presso%20la%20Regia%20universita%20di%20Bologna.%20038U1964.md), e' dichiarata decaduta.
+La convenzione stipulata dall'Universita' di Bologna il 18 novembre 1938, approvata e resa esecutiva con il [regio decreto 12 dicembre 1938, n. 1964](../Regi%20decreti/Istituzione%20di%20un%20posto%20di%20professore%20di%20ruolo%20di%20radiologia%20presso%20la%20Regia%20universita%20di%20Bologna.%20038U1964.md), e' dichiarata decaduta.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

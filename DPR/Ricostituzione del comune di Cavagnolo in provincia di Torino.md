@@ -18,7 +18,7 @@ Viste le istanze 15, 29 maggio e 5 giugno 1955, con le quali la maggioranza qual
 
 Viste le deliberazioni del Consiglio comunale di Brusasco Cavagnolo in data 30 ottobre 1955, n. 222, 28 ottobre 1956, n. 78 e 17 febbraio 1957, n. 10; del Consiglio provinciale di Torino in data 31 gennaio 1956, n. 8/836 e 1° aprile 1957, n. 5/3831, con le quali e' stato espresso parere in ordine alla ricostituzione in parola;
 
-Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visti gli articoli 33 e 35 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Vista la [legge 15 febbraio 1953, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-15;71);
 
@@ -34,7 +34,7 @@ E' ricostituito il comune di Cavagnolo, in provincia di Torino, con la circoscri
 ## Art. 2.
 
 Il Prefetto di Torino, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari tra il comune di Brusasco ed il ricostituito comune di Cavagnolo, nonche' alla ripartizione fra gli stessi, previo parere delle rispettive Amministrazioni, del personale in servizio presso il comune di Brusasco Cavagnolo alla data del presente decreto. 
- E' fatto salvo l'esercizio successivo, da parte dei comuni predetti, della facolta' di revisione degli organici secondo le norme di cui al [decreto legislativo luogotenenziale 18 gennaio 1945, n. 48](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20modificazione%20delle%20piante%20organiche%20del%20personale%20degli%20Enti%20locali.%20045U0048.md), e successive modificazioni, con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'[art. 228 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_228), della legge comunale e provinciale, e successive modifiche. 
+ E' fatto salvo l'esercizio successivo, da parte dei comuni predetti, della facolta' di revisione degli organici secondo le norme di cui al [decreto legislativo luogotenenziale 18 gennaio 1945, n. 48](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20per%20la%20modificazione%20delle%20piante%20organiche%20del%20personale%20degli%20Enti%20locali.%20045U0048.md), e successive modificazioni, con l'osservanza, per quanto concerne il trattamento economico, delle disposizioni contenute nell'[art. 228 del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_228), della legge comunale e provinciale, e successive modifiche. 
  Al personale in servizio presso il comune di Brusasco Cavagnolo, che sara' inquadrato negli organici del comune di Cavagnolo sara' mantenuto ad personam il trattamento economico fruito all'atto dell'inquadramento.
 
 Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

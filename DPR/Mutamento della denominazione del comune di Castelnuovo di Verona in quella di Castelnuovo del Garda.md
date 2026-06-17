@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione n. 72 del 1 ottobre 1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1963-10-01;72), con la quale il consiglio comunale di Castelnuovo di Verona (Verona) ha chiesto che l'attuale denominazione del comune sia mutata in quella geograficamente piu' appropriata di "Castelnuovo del Garda";
  Vista la [deliberazione n. 16 del 6 marzo 1964](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1964-03-06;16), con la quale il consiglio provinciale di Verona ha espresso parere favorevole in merito al proposto cambio di denominazione;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

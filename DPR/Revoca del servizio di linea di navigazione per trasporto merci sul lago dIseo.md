@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA 
  
- Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md); 
+ Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md); 
  Visto il regolamento per la navigazione interna approvato con [decreto del Presidente della Repubblica 28 giugno 1949, n. 631](Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md); 
  Visto il [decreto del Presidente della Repubblica 1° febbraio 1957, n. 181](Approvazione%20dellatto%20di%20concessione%20del%20servizio%20di%20linea%20di%20navigazione%20per%20trasporto%20merci%20sul%20lago%20dIseo.md), con il quale e' stato approvato e reso esecutorio l'atto stipulato in data 22 novembre 1956 tra il Ministro per i trasporti e il rappresentante legale della societa' Impresa Sebina di navigazione per la concessione definitiva del servizio di linea di navigazione per trasporto merci sul lago d'Iseo; 
  Vista l'istanza in data 15 gennaio 1970, presentata dalla societa' Impresa Sebina di navigazione, con la quale la societa' stessa, nel far presente che la costante riduzione del traffico di trasporto merci ha reso insostenibili gli oneri di gestione del servizio di cui e' concessionaria, rendendone passivo l'esercizio, ha chiesto la revoca della concessione stessa; 

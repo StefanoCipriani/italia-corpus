@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 776 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[art. 776 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Vista la [legge 30 gennaio 1963, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-30;141), concernente la modifica della denominazione del Ministero dei trasporti in Ministero dei trasporti e dell'aviazione civile ed istituzione dell'Ispettorato generale dell'aviazione civile presso il suddetto Ministero;
 

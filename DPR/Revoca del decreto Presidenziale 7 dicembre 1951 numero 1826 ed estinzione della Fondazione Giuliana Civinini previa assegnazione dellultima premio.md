@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 dicembre 1928, n. 3320](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20Fondazione%20Giuliana%20Civinini%20per%20lassegnazione%20di%20un%20premio%20biennale%20perpetuo%20alla%20migliore%20opera%20di%20letteratura%20coloniale.%20028U3320.md), che erige in ente morale la Fondazione "Giuliana Civinini" avente lo scopo di promuovere, mediante l'assegnazione di premi biennali perpetui, la pubblicazione di opere artistiche di letteratura coloniale, e ne approva lo statuto;
+Visto il [regio decreto 27 dicembre 1928, n. 3320](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20Fondazione%20Giuliana%20Civinini%20per%20lassegnazione%20di%20un%20premio%20biennale%20perpetuo%20alla%20migliore%20opera%20di%20letteratura%20coloniale.%20028U3320.md), che erige in ente morale la Fondazione "Giuliana Civinini" avente lo scopo di promuovere, mediante l'assegnazione di premi biennali perpetui, la pubblicazione di opere artistiche di letteratura coloniale, e ne approva lo statuto;
 
-Visto il [regio decreto 24 settembre 1940, n. 1533](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%201%20dello%20statuto%20della%20Fondazione%20Giuliana%20Civinini.%20040U1533.md), che modifica lo statuto dell'Ente predetto;
+Visto il [regio decreto 24 settembre 1940, n. 1533](../Regi%20decreti/Modificazione%20dellart.%201%20dello%20statuto%20della%20Fondazione%20Giuliana%20Civinini.%20040U1533.md), che modifica lo statuto dell'Ente predetto;
 
 Visto il [decreto dei Capo provvisorio dello Stato 5 gennaio 1947, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-01-05;549), che apporta ulteriori modifiche allo statuto della predetta Fondazione;
 

@@ -14,9 +14,9 @@ Vista la [legge 12 agosto 1957, n. 799](../DL%20e%20leggi%20di%20conversione/Con
 
 Vista la [legge 9 aprile 1962, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-09;163), concernente l'ordinamento amministrativo e didattico degli istituti e scuole d'arte;
 
-Visto il [regio decreto 14 marzo 1929, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20del%20Regio%20istituto%20darte%20Bernardino%20di%20Betto%20annesso%20allAccademia%20di%20belle%20arti%20di%20Perugia.%20029U0426.md), con il quale e' stata approvata la pianta organica dell'Istituto d'arte di Perugia;
+Visto il [regio decreto 14 marzo 1929, n. 426](../Regi%20decreti/Approvazione%20dello%20statuto%20del%20Regio%20istituto%20darte%20Bernardino%20di%20Betto%20annesso%20allAccademia%20di%20belle%20arti%20di%20Perugia.%20029U0426.md), con il quale e' stata approvata la pianta organica dell'Istituto d'arte di Perugia;
 
-Visto il [regio decreto 22 aprile 1943, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md), con il quale la pianta organica dell'Istituto d'arte di Perugia e' stata integrata con una cattedra di plastica decorativa ed una di decorazione pittorica;
+Visto il [regio decreto 22 aprile 1943, n. 490](../Regi%20decreti/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md), con il quale la pianta organica dell'Istituto d'arte di Perugia e' stata integrata con una cattedra di plastica decorativa ed una di decorazione pittorica;
 
 Ritenuta l'opportunita' di adeguare la pianta organica dell'istituto stesso alle attuali esigenze dell'insegnamento, con decorrenza dal 1 ottobre 1964, in quanto funziona di fatto da tale data;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-A decorrere dal 1 ottobre 1964 la pianta organica dell'Istituto d'arte di Perugia, allegata al [regio decreto 14 marzo 1929, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20del%20Regio%20istituto%20darte%20Bernardino%20di%20Betto%20annesso%20allAccademia%20di%20belle%20arti%20di%20Perugia.%20029U0426.md), e successivamente integrata col [regio decreto 22 aprile 1943, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md), e' sostituita da quella annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+A decorrere dal 1 ottobre 1964 la pianta organica dell'Istituto d'arte di Perugia, allegata al [regio decreto 14 marzo 1929, n. 426](../Regi%20decreti/Approvazione%20dello%20statuto%20del%20Regio%20istituto%20darte%20Bernardino%20di%20Betto%20annesso%20allAccademia%20di%20belle%20arti%20di%20Perugia.%20029U0426.md), e successivamente integrata col [regio decreto 22 aprile 1943, n. 490](../Regi%20decreti/Variazioni%20agli%20organici%20del%20Regi%20Istituti%20e%20delle%20Regie%20scuole%20darte.%20043U0490.md), e' sostituita da quella annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
 
 ## Art. 2.
 

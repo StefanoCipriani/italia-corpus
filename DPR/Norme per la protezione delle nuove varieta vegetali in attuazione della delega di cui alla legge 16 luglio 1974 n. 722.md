@@ -20,15 +20,15 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato, di co
 
 ## Art. 1.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 2.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 3.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 4.
 
@@ -36,23 +36,23 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato, di co
 
 ## Art. 5.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 6.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 7.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 8.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 9.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 10.
 
@@ -60,15 +60,15 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato, di co
 
 ## Art. 11.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 12.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 13.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 14.
 
@@ -96,23 +96,23 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato, di co
 
 ## Art. 20.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 21.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 22.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 22-bis.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 23.
 
-((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D. LGS. 10 FEBBRAIO 2005, N. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 24.
 

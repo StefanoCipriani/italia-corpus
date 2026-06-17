@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 luglio 1924, n. 1268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla camera di commercio e industria di Firenze;
+Visto il [regio decreto 27 luglio 1924, n. 1268](../Regi%20decreti/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di borsa spettanti alla camera di commercio e industria di Firenze;
 
 Visto il [decreto del Presidente della Repubblica 5 agosto 1969, n. 776](Modifica%20alla%20tariffa%20dei%20diritti%20di%20borsa%20spettanti%20alla%20camera%20di%20commercio%20industria%20artigianato%20e%20agricoltura%20di%20Firenze.md), con il quale sono state apportate variazioni alla precedente tariffa;
 
 Vista la [deliberazione n. 45 del 27 gennaio 1977, con cui la camera di commercio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:camera.commercio:delibera:1977-01-27;45), industria, artigianato e agricoltura di Firenze ha richiesto la fissazione dei diritti di quotazione per le azioni di risparmio e per taluni titoli ammessi di diritto alla quotazione ufficiale presso la locale borsa valori;
 
-Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recanti norme in materia di diritti di borsa;
+Visti gli articoli 32 e 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recanti norme in materia di diritti di borsa;
 
 Sulla proposta del Ministro del tesoro; Decreta:
 

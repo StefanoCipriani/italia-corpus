@@ -20,7 +20,7 @@ Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Con
 
 Vista la [legge 1 luglio 1940, n. 899](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Scuola%20media.%20040U0899.md);
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 816](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20della%20scuola%20media%20Istituzione%20di%20classi%20di%20collegamento%20col%20liceo%20scientifico%20con%20listituito%20magistrale%20e%20con%20gli%20istituti%20tecnici%20e%20disposizioni%20per%20il%20pers_9814349c1e47.md);
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 816](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allordinamento%20della%20scuola%20media%20Istituzione%20di%20classi%20di%20collegamento%20col%20liceo%20scientifico%20con%20listituito%20magistrale%20e%20con%20gli%20istituti%20tecnici%20e%20disposizioni%20per%20il%20pers_9814349c1e47.md);
 
 Vista la [legge 13 marzo 1958, n. 165](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20carriere%20e%20trattamento%20economico%20del%20personale%20insegnante%20e%20direttivo%20degli%20istituti%20di%20istruzione%20elementare%20secondaria%20e%20artistica%20e%20disposizioni%20sulla%20carriera%20degli%20_a61f10ffe6f2.md);
 

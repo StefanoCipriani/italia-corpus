@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 27 del regio decreto 31 dicembre 1923, n. 3164](../Regi%20decreti/Nuovo%20ordinamento%20delle%20Soprintendenze%20alle%20opere%20di%20antichita%20e%20darte.%20023U3164.md);
- Visto il [regio decreto 15 febbraio 1940, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20in%20Bolzano%20di%20un%20Ufficio%20di%20esportazioni%20per%20gli%20oggetti%20di%20antichita%20ed%20arte.%20040U0163.md), con il quale fu istituito in Bolzano un Ufficio di esportazione degli oggetti di antichita' e d'arte, per il trasferimento di allogeni e cittadini germanici in quella localita';
+ Visto il [regio decreto 15 febbraio 1940, n. 163](../Regi%20decreti/Istituzione%20in%20Bolzano%20di%20un%20Ufficio%20di%20esportazioni%20per%20gli%20oggetti%20di%20antichita%20ed%20arte.%20040U0163.md), con il quale fu istituito in Bolzano un Ufficio di esportazione degli oggetti di antichita' e d'arte, per il trasferimento di allogeni e cittadini germanici in quella localita';
  Considerato che, essendo venute meno le esigenze che avevano richiesto l'istituzione di tale Ufficio, se ne ravvisa opportuna la soppressione;
  Sulla proposta del Ministro per la pubblica istruzione;
 

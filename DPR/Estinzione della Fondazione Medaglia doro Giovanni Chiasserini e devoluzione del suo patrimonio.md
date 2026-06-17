@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_27) e [31 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_31);
 
-Visto il [regio decreto 29 agosto 1942, n. 1264](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20%20Fondazione%20medaglia%20doro%20Giovanni%20Chiasserini%20.%20042U1264.md), con il quale e' stata eretta, in ente morale la Fondazione Medaglia d'oro Giovanni Chiasserini ed e' stato approvato il relativo statuto;
+Visto il [regio decreto 29 agosto 1942, n. 1264](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20%20Fondazione%20medaglia%20doro%20Giovanni%20Chiasserini%20.%20042U1264.md), con il quale e' stata eretta, in ente morale la Fondazione Medaglia d'oro Giovanni Chiasserini ed e' stato approvato il relativo statuto;
 
 Visto il [decreto del Presidente della Repubblica 11 febbraio 1952, n. 179](Approvazione%20del%20nuovo%20statuto%20della%20Fondazione%20Caduti%20dellAeronautica.md), che approva il nuovo statuto della Fondazione Caduti dell'aeronautica, istituita dalla Banca d'Italia;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per la difesa; Decreta:
 
 ## Art. 1.
 
-La Fondazione Medaglia d'oro Giovanni Chiasserini, eretta in ente morale con [regio decreto 29 agosto 1942, n. 1264](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20della%20%20Fondazione%20medaglia%20doro%20Giovanni%20Chiasserini%20.%20042U1264.md), e' estinta.
+La Fondazione Medaglia d'oro Giovanni Chiasserini, eretta in ente morale con [regio decreto 29 agosto 1942, n. 1264](../Regi%20decreti/Erezione%20in%20ente%20morale%20della%20%20Fondazione%20medaglia%20doro%20Giovanni%20Chiasserini%20.%20042U1264.md), e' estinta.
 
 ## Art. 2.
 

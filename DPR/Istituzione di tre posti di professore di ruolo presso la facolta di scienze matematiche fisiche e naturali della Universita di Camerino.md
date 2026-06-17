@@ -14,7 +14,7 @@ Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decre
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](../Regi%20decreti/Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), e successive modificazioni;
 
 Veduto il [decreto del Presidente della Repubblica 5 giugno 1968, n. 902](Modificazioni%20allo%20statuto%20dellUniversita%20degli%20studi%20di%20Camerino_17.md), con il quale fu istituito presso la suddetta universita' il corso di laurea in matematica;
 

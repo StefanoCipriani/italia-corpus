@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vista la [legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), che delega il Governo ad emanare una nuova tariffa dei dazi doganali;
+Vista la [legge 1 febbraio 1965, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), che delega il Governo ad emanare una nuova tariffa dei dazi doganali;
 
 Vista la [legge 31 ottobre 1952, n. 1976](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20seguenti%20Convenzioni%20internazionali%20firmate%20dallItalia%20a%20Bruxelles%20l11%20gennaio%201951%20Convenzione%20sulla%20nomenclatura%20per%20la%20classificazione%20delle%20merci%20nelle%20ta_7f39e6d213de.md), che ratifica e da' esecuzione, tra l'altro, alla Convenzione sulla Nomenclatura per la classificazione delle merci nelle tariffe doganali e relativo annesso, firmata dall'Italia a Bruxelles l'11 gennaio 1951;
 

@@ -23,7 +23,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 ritardata resa di spedizioni e passivita per
 tasse di trasporto, rimaste totalmente o par-
 zialmente scoperte.............................. L. 37.023.854 Cap. n. 33. - Spese per prestazioni sanitarie
-([regio decreto 31 dicembre 1923, n. 2918](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esonero%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20dallobbligo%20di%20prestazioni%20sanitarie%20per%20alcune%20categorie%20di%20personale.%20023U2918.md) e [regio
+([regio decreto 31 dicembre 1923, n. 2918](../Regi%20decreti/Esonero%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato%20dallobbligo%20di%20prestazioni%20sanitarie%20per%20alcune%20categorie%20di%20personale.%20023U2918.md) e [regio
 decreto-legge 8 gennaio 1925, n. 34](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allart.%2082%20della%20legge%207%20luglio%201907%20n.%20429%20circa%20il%20servizio%20sanitario%20nelle%20Ferrovie%20dello%20Stato.%20025U0034.md), convertito
 nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md)).............. " 20.008.877
  ---------- L. 57.032.731

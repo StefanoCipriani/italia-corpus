@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 4 settembre 1931, n. 1213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20In%20ente%20morale%20dellEnte%20autonomo%20magazzini%20generali%20di%20Padova%20con%20sede%20In%20Padova%20ed%20approvazione%20del%20relativo%20statuto.%20031U1213.md), con cui fu riconosciuta la personalita' giuridica dell'Ente autonomo Magazzini generali di Padova, con sede in Padova, e ne fu approvato lo statuto;
+Visto il [regio decreto 4 settembre 1931, n. 1213](../Regi%20decreti/Erezione%20In%20ente%20morale%20dellEnte%20autonomo%20magazzini%20generali%20di%20Padova%20con%20sede%20In%20Padova%20ed%20approvazione%20del%20relativo%20statuto.%20031U1213.md), con cui fu riconosciuta la personalita' giuridica dell'Ente autonomo Magazzini generali di Padova, con sede in Padova, e ne fu approvato lo statuto;
 
 Vista la deliberazione adottata in data 30 giugno 1966 dall'assemblea dei fondatori e degli aderenti all'Ente predetto, concernente la modifica degli articoli 6 e 10 dello statuto;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per l'industria, il commercio e l'artigianato;
 
 Decreta:
 
-Lo statuto dell'Ente autonomo Magazzini generali di Padova, con sede in Padova, approvato con [regio decreto 4 settembre 1931, n. 1213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20In%20ente%20morale%20dellEnte%20autonomo%20magazzini%20generali%20di%20Padova%20con%20sede%20In%20Padova%20ed%20approvazione%20del%20relativo%20statuto.%20031U1213.md), e' modificato come appresso.
+Lo statuto dell'Ente autonomo Magazzini generali di Padova, con sede in Padova, approvato con [regio decreto 4 settembre 1931, n. 1213](../Regi%20decreti/Erezione%20In%20ente%20morale%20dellEnte%20autonomo%20magazzini%20generali%20di%20Padova%20con%20sede%20In%20Padova%20ed%20approvazione%20del%20relativo%20statuto.%20031U1213.md), e' modificato come appresso.
 
 Gli articoli 8 e 10 sono abrogati e sostituiti dai seguenti:
 
@@ -44,14 +44,14 @@ Registrato alla Corte dei conti, addi' 26 luglio 1967 Atti del Governo, registro
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 4 settembre 1931, n. 1213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20In%20ente%20morale%20dellEnte%20autonomo%20magazzini%20generali%20di%20Padova%20con%20sede%20In%20Padova%20ed%20approvazione%20del%20relativo%20statuto.%20031U1213.md), con cui fu riconosciuta la personalita' giuridica dell'Ente autonomo Magazzini generali di Padova, con sede in Padova, e ne fu approvato lo statuto;
+ Visto il [regio decreto 4 settembre 1931, n. 1213](../Regi%20decreti/Erezione%20In%20ente%20morale%20dellEnte%20autonomo%20magazzini%20generali%20di%20Padova%20con%20sede%20In%20Padova%20ed%20approvazione%20del%20relativo%20statuto.%20031U1213.md), con cui fu riconosciuta la personalita' giuridica dell'Ente autonomo Magazzini generali di Padova, con sede in Padova, e ne fu approvato lo statuto;
  Vista la deliberazione adottata in data 30 giugno 1966 dall'assemblea dei fondatori e degli aderenti all'Ente predetto, concernente la modifica degli articoli 6 e 10 dello statuto;
  Udito il parere del Consiglio di Stato;
  Sulla proposta del Ministro per l'industria, il commercio e l'artigianato;
 
  Decreta:
 
- Lo statuto dell'Ente autonomo Magazzini generali di Padova, con sede in Padova, approvato con [regio decreto 4 settembre 1931, n. 1213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20In%20ente%20morale%20dellEnte%20autonomo%20magazzini%20generali%20di%20Padova%20con%20sede%20In%20Padova%20ed%20approvazione%20del%20relativo%20statuto.%20031U1213.md), e' modificato come appresso.
+ Lo statuto dell'Ente autonomo Magazzini generali di Padova, con sede in Padova, approvato con [regio decreto 4 settembre 1931, n. 1213](../Regi%20decreti/Erezione%20In%20ente%20morale%20dellEnte%20autonomo%20magazzini%20generali%20di%20Padova%20con%20sede%20In%20Padova%20ed%20approvazione%20del%20relativo%20statuto.%20031U1213.md), e' modificato come appresso.
  Gli articoli 8 e 10 sono abrogati e sostituiti dai seguenti:
  "Art. 8. - I consiglieri durano in carica 4 anni e sono rieleggibili.
  Art. 10. - La rinnovazione del Consiglio ha luogo alla fine del quarto anno di gestione. In caso di morte, rinuncia o decadenza di singoli membri si provvede alla loro sostituzione ed i nuovi eletti restano in carica quanto vi sarebbero rimasti i loro predecessori".

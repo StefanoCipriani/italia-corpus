@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392), e successive modificazioni;
 
-Veduto il [regio decreto 29 luglio 1937, n. 1438](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20nei%20riguardi%20della%20Regia%20Universita%20di%20Catania.%20037U1438.md);
+Veduto il [regio decreto 29 luglio 1937, n. 1438](../Regi%20decreti/Attuazione%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20nei%20riguardi%20della%20Regia%20Universita%20di%20Catania.%20037U1438.md);
 
 Veduta la [legge 13 giugno 1952, n. 694](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-13;694);
 

@@ -10,12 +10,12 @@ vigente: true
 
 ## Art. 1.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 2 SETTEMBRE 1997, N. 511](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20dellAccademia%20navale.md)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 2 SETTEMBRE 1997, N. 511](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20dellAccademia%20navale.md)))
 
 ## Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 2 SETTEMBRE 1997, N. 511](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20dellAccademia%20navale.md)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 2 SETTEMBRE 1997, N. 511](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20dellAccademia%20navale.md)))
 
 ## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 2 SETTEMBRE 1997, N. 511](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20dellAccademia%20navale.md)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 2 SETTEMBRE 1997, N. 511](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20dellAccademia%20navale.md)))

@@ -12,8 +12,8 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto l'[art. 86 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1912, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-30;327);
- Visto l'art. 98, primo comma, del regolamento per la esecuzione del [Codice della (navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+ Visto l'[art. 86 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1912, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-30;327);
+ Visto l'art. 98, primo comma, del regolamento per la esecuzione del [Codice della (navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
  Ritenuta la necessita' di provvedere alla organizzazione del servizio di pilotaggio, attraverso la istituzione di corporazioni dei piloti, in quei porti nei quali l'aumentato traffico impone specifiche garanzie per la sicurezza della navigazione;
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;

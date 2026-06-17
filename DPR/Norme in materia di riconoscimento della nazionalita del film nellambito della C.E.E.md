@@ -20,9 +20,9 @@ Vista la direttiva del Consiglio della Comunita' Economica Europea del 15 ottobr
 
 Vista la raccomandazione della Commissione della Comunita' Economica Europea n. 124 dell'8 aprile 1964;
 
-Vista la [legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), con la quale il Governo e' delegato ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' Economica Europea (C.E.E.) e della Comunita' Europea dell'Energia Atomica (C.E.E.A.);
+Vista la [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md), con la quale il Governo e' delegato ad emanare provvedimenti nelle materie previste dai Trattati della Comunita' Economica Europea (C.E.E.) e della Comunita' Europea dell'Energia Atomica (C.E.E.A.);
 
-Sentita la Commissione parlamentare di cui all'articolo 3 della menzionata [legge 13 luglio 1965, n. 871](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
+Sentita la Commissione parlamentare di cui all'articolo 3 della menzionata [legge 13 luglio 1965, n. 871](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20provvedimenti%20nelle%20materie%20previste%20dai%20Trattati%20della%20Comunita%20Economica%20Europea%20C.E.E.%20e%20della%20Comunita%20Europea%20dellEnergia%20Atomica%20C.E.E.A.md);
 
 Sentito il Consiglio dei Ministri;
 

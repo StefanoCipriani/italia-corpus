@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la domanda del sindaco di Frignano Maggiore il quale, in esecuzione a deliberazione 11 dicembre 1950 del Consiglio comunale, ha chiesto che sia modificata la denominazione di quel comune in "Frignano";
  Visto il parere favorevole espresso dalla Deputazione provinciale di Caserta, con deliberazione 31 gennaio 1951;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro per l'interno;
 
  Decreta:

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Veduto il [regio decreto 30 dicembre 1893, n. 731](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20erige%20in%20ente%20morale%20il%20consorzio%20universitario%20di%20Pisa%20e%20ne%20approva%20lo%20statuto.%209300731R.md) (parte supplementare), con il quale il Consorzio universitario di Pisa fu eretto in Ente morale e ne fu approvato lo statuti organico;
+Veduto il [regio decreto 30 dicembre 1893, n. 731](../Regi%20decreti/Che%20erige%20in%20ente%20morale%20il%20consorzio%20universitario%20di%20Pisa%20e%20ne%20approva%20lo%20statuto.%209300731R.md) (parte supplementare), con il quale il Consorzio universitario di Pisa fu eretto in Ente morale e ne fu approvato lo statuti organico;
 
-Veduto il [regio decreto 16 maggio 1900, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20modifica%20alcuni%20articoli%20dello%20statuto%20organico%20del%20Consorzio%20universitario%20di%20Pisa.%200000163R.md) (parte supplementare), che apporto' alcune modifiche al regio decreto n. 731 predetto;
+Veduto il [regio decreto 16 maggio 1900, n. 163](../Regi%20decreti/Che%20modifica%20alcuni%20articoli%20dello%20statuto%20organico%20del%20Consorzio%20universitario%20di%20Pisa.%200000163R.md) (parte supplementare), che apporto' alcune modifiche al regio decreto n. 731 predetto;
 
-Veduto il [regio decreto 29 gennaio 1931, n. 135](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20del%20Consorzio%20universitario%20di%20Pisa%20in%20Consorzio%20interprovinciale%20per%20la%20Regia%20universita%20e%20gli%20altri%20Istituti%20superiori%20di%20Pisa%20ed%20approvazione%20del%20nuovo%20statuto.%20031U0135.md), con il quale il Consorzio universitario di Pisa venne trasformato in Consorzio interprovinciale per la Universita' e gli altri Istituti superiori di Pisa e ne fu approvato il nuovo statuto organico;
+Veduto il [regio decreto 29 gennaio 1931, n. 135](../Regi%20decreti/Trasformazione%20del%20Consorzio%20universitario%20di%20Pisa%20in%20Consorzio%20interprovinciale%20per%20la%20Regia%20universita%20e%20gli%20altri%20Istituti%20superiori%20di%20Pisa%20ed%20approvazione%20del%20nuovo%20statuto.%20031U0135.md), con il quale il Consorzio universitario di Pisa venne trasformato in Consorzio interprovinciale per la Universita' e gli altri Istituti superiori di Pisa e ne fu approvato il nuovo statuto organico;
 
 Veduto il [decreto del Presidente della Repubblica 21 agosto 1919, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1919-08-21;800);
 

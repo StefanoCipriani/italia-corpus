@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visti il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), ed il [regio decreto 2 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-02;827), e successive modificazioni;
 
-Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il [decreto-legge 28 febbraio 1974, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-02-28;47), convertito, con modificazioni, nella [legge 16 aprile 1974, n. 117](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201974%20n.%2047%20concernente%20istituzione%20di%20una%20tassa%20di%20sbarco%20e%20imbarco%20sulle%20merci%20trasportate%20per%20via%20aerea%20e%20per%20via%20marittima.md), concernente la istituzione di una tassa di sbarco ed imbarco sulle merci trasportate per via aerea e per via marittima;
 

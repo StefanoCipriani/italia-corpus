@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con il regio decreto 27 febbraio 1936, Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visto l'art. 21 del Codice postale e delle telecomunicazioni, approvato con il regio decreto 27 febbraio 1936, Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con il [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Riconosciuta l'opportunita' di emettere un francobollo speciale avente il fine di affiancare, in occasione della quinta dichiarazione annuale dei redditi, la campagna condotta dal Governo ad incitamento dei cittadini perche' adempiano all'obbligo che ad essi deriva dalla Costituzione, di concorrere nelle spese pubbliche in ragione della loro capacita' contributiva;
 

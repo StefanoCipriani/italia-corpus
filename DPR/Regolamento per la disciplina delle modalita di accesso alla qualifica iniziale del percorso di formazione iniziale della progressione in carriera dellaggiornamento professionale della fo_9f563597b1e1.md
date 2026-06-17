@@ -221,7 +221,7 @@ Note all'art. 3:
  2. Se, in relazione a tale limite, sia necessaria una riduzione dei posti da riservare secondo la legge, essa si attua in misura proporzionale per ciascuna delle categorie delle riserve previste dal bando. 
  3. Qualora tra i concorrenti dichiarati idonei nella graduatoria di merito ve ne siano alcuni che appartengono a piu' categorie che danno titolo a differenti riserve di posti, si tiene conto prima del titolo che da' diritto ad una maggiore riserva nel seguente ordine: 
  a) riserva di posti a favore di coloro che appartengono alle categorie di cui alla [legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), o equiparate; 
- b) riserva di posti ai sensi degli [articoli 1014](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [678 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md). 
+ b) riserva di posti ai sensi degli [articoli 1014](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [678 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md). 
  4. A parita' di titoli e di merito, e in assenza di ulteriori benefici previsti da leggi speciali, l'ordine di preferenza dei titoli e' il seguente: 
  a) gli insigniti di medaglia al valor militare e al valor civile, qualora cessati dal servizio; 
  b) i mutilati e gli invalidi per servizio nel settore pubblico e privato; 

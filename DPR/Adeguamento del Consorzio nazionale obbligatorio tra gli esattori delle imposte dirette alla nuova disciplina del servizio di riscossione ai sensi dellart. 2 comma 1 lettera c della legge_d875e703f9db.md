@@ -123,10 +123,10 @@ Le persone addette ai centri elettrocontabili o al rilevamento dei dati per la f
 
 2.
 
-In caso di violazione, si applica l'[articolo 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+In caso di violazione, si applica l'[articolo 326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 Nota all'art. 8:
- Il testo dell'[art. 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ Il testo dell'[art. 326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 326 (Rilevazione dei segreti d'ufficio) - Il pubblico ufficiale o la persona incaricata di un pubblico servizio che, violando i doveri inerenti alle funzioni o al servizio, o comunque abusando della sua qualita', rileva notizie d'ufficio, le quali debbano rimanere segrete, o ne agevola in qualsiasi modo la conoscenza, e' punito con la reclusione da sei mesi a tre anni.
  Se l'agevolazione e' soltanto colposa, si applica la reclusione fino ad un anno".
 
@@ -224,7 +224,7 @@ Nota A all'art. 13:
  La somma dovuta dall'esattore moroso e' aumentata dall'aggio del 2% (due per cento) per il ricevitore provinciale e della indennita' di mora
  La differenza in piu' o meno fra il carico totale del ruolo risultante, nella liquidazione del frontespizio, dell'applicazione integrale delle aliquote ed il carico totale dato dalla tariffazione dei singoli articoli, va in aumento o in diminuzione del carico dell'unico ente impositore, del solo carico erariale quando il ruolo riguarda gli altri enti, impositori oltre lo Stato dell'ente impositore che il carico piu' elevato, quando tra piu' enti impositori, non figura lo Stato.
  Art. 19 - Le persone addette ai centri meccanizzati od al rilevamento statistico sono vincolate al segreto d'ufficio per ogni notizia, di cui vengano a conoscenza in dipendenza dell'esercizio della propria funzione.
- In caso di violazione, si applica l'[art. 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ In caso di violazione, si applica l'[art. 326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Art. 20 - Per le vertenze, che dovessero sorgere tra enti impositori e Consorzio circa l'applicazione delle norme contenute nello statuto di cui al precedente art. 12, in genere, per quanto concerne la meccanizzazione dei ruoli, affidata al Consorzio stesso, sono applicabili la norma dell'articolo 100 del testo unico sulla riscossione 17 ottobre 1922, n. 1401".
 
 ## Art. 14. — Entrata in vigore

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 3 della legge 15 febbraio 1973, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md), modificate con l'[art. 1 della legge 14 dicembre 1976, n. 847](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013%20e%20delega%20al%20G_a0eac3bdb9e2.md);
+Visto l'[art. 3 della legge 15 febbraio 1973, n. 25](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013.md), modificate con l'[art. 1 della legge 14 dicembre 1976, n. 847](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriore%20proroga%20della%20delega%20al%20Governo%20ad%20apportare%20modificazioni%20alla%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20prevista%20dallarticolo%203%20della%20legge%201%20febbraio%201965%20n.%2013%20e%20delega%20al%20G_a0eac3bdb9e2.md);
 
 Vista la direttiva del Consiglio dei Ministri delle Comunita' europee n. 76/308/CEE in data 15 marzo 1976, relativa all'assistenza reciproca in materia di ricupero dei crediti risultanti da operazioni che fanno parte del sistema di finanziamento del Fondo europeo agricolo di orientamento di garanzia, nonche' dei prelievi agricoli e dei dazi doganali;
 
@@ -20,7 +20,7 @@ Visto il testo unico delle disposizioni legislative in materia doganale, approva
 
 Ritenuta la necessita' di inserire nel testo unico anzidetto le disposizioni necessarie per dare attuazione alla citata [direttiva n. 76/308/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;308);
 
-Udito il parere della Commissione parlamentare istituita a norma dell'[art. 4 della legge 1 febbraio 1965, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), e successive modificazioni;
+Udito il parere della Commissione parlamentare istituita a norma dell'[art. 4 della legge 1 febbraio 1965, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20una%20nuova%20tariffa%20dei%20dazi%20doganali.md), e successive modificazioni;
 
 Sentito il Consiglio dei Ministri;
 

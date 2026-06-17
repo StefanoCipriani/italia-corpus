@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento della istruzione media tecnica;
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della, legge comunale e provinciale;
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della, legge comunale e provinciale;
 
 Veduto l'art. 9 del regio decreto-legge 21 settembre 1938, n. 2038, convertito nella legge 2 giugno 1939, Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro; Decreta:
 
@@ -152,7 +152,7 @@ Alle spese di mantenimento dell'Istituto si provvede:
 
 ## Art. 23.
 
-Per quanto riguarda gli oneri a carico degli enti locali, all'Istituto professionale si applicano le disposizioni dell'art. 91, lettera f) del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+Per quanto riguarda gli oneri a carico degli enti locali, all'Istituto professionale si applicano le disposizioni dell'art. 91, lettera f) del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  Per quanto non e' previsto dal presente decreto, si applicano le disposizioni vigenti per gli Istituti di istruzione tecnica.
 
 Il presente decreto munito del sigillo dello Stato sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

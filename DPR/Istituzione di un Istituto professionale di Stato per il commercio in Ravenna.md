@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), su ordinamento della istruzione media tecnica;
 
-Veduto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Veduto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
 Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella, [legge 21 giugno 1939, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-21;739);
 
@@ -154,7 +154,7 @@ Alle spese di mantenimento dell'Istituto si provvede:
 
 ## Art. 23.
 
-Per quanto riguarda gli oneri a carico degli Enti locali, all'Istituto professionale si applicano le disposizioni dell'art. 91, lett. f) del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+Per quanto riguarda gli oneri a carico degli Enti locali, all'Istituto professionale si applicano le disposizioni dell'art. 91, lett. f) del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  Per quanto non e' previsto dal presente decreto, si applicano le disposizioni vigenti per gli Istituti d'istruzione tecnica.
  L'onere della spesa a carico del Ministero della pubblica istruzione, derivante dall'attuazione del presente decreto, gravera' sul cap. 117 dello stato di previsione della spesa del Ministero stesso per l'esercizio 1961-62 e sui capitoli corrispondenti, per gli esercizi successivi.
 

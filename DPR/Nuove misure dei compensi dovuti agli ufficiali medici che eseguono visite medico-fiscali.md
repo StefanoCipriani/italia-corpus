@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il regio decreto 17 novembre 1932, che approva il regolamento sul servizio sanitario militare territoriale;
 
-Visto il [decreto luogotenenziale 26 aprile 1945, n. 339](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20paragrafo%20717%20del%20regolamento%20sul%20servizio%20sanitario%20militare%20territoriale.%20045U0339.md), contenente modificazioni al paragrafo 717 del regolamento sul servizio militare territoriale;
+Visto il [decreto luogotenenziale 26 aprile 1945, n. 339](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20paragrafo%20717%20del%20regolamento%20sul%20servizio%20sanitario%20militare%20territoriale.%20045U0339.md), contenente modificazioni al paragrafo 717 del regolamento sul servizio militare territoriale;
 
 Visto il [decreto del Presidente della Repubblica 16 novembre 1948, n. 1647](Modificazioni%20al%20regolamento%20sul%20servizio%20sanitario%20militare%20territoriale.md), recante modificazioni al regolamento sul servizio sanitario militare territoriale;
 

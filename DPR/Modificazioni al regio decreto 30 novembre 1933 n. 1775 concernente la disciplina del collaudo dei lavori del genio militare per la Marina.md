@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 30 novembre 1933, n. 1755](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20collaudo%20dei%20lavori%20del%20Genio%20militare%20per%20la%20Regia%20marina.%20033U1755.md), concernente la disciplina del collaudo dei lavori del genio militare per la Marina;
+Visto il [regio decreto 30 novembre 1933, n. 1755](../Regi%20decreti/Disciplina%20del%20collaudo%20dei%20lavori%20del%20Genio%20militare%20per%20la%20Regia%20marina.%20033U1755.md), concernente la disciplina del collaudo dei lavori del genio militare per la Marina;
 
 Udito il parere del Consiglio Superiore di marina;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-In mancanza dell'ufficiale generale del genio militare previsto dall'[art. 1 del regio decreto 30 novembre 1933, n. 1755](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20collaudo%20dei%20lavori%20del%20Genio%20militare%20per%20la%20Regia%20marina.%20033U1755.md), il direttore generale del genio militare per la Marina puo' delegare al collaudo di tutti i lavori del genio militare per la Marina l'ufficiale superiore piu' elevato in grado o piu' anziano alle sue dipendenze.
+In mancanza dell'ufficiale generale del genio militare previsto dall'[art. 1 del regio decreto 30 novembre 1933, n. 1755](../Regi%20decreti/Disciplina%20del%20collaudo%20dei%20lavori%20del%20Genio%20militare%20per%20la%20Regia%20marina.%20033U1755.md), il direttore generale del genio militare per la Marina puo' delegare al collaudo di tutti i lavori del genio militare per la Marina l'ufficiale superiore piu' elevato in grado o piu' anziano alle sue dipendenze.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

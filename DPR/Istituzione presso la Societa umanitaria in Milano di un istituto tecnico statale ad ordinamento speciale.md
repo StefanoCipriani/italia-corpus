@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Visto il [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
+Visto il [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), che approva il testo unico della legge comunale e provinciale;
 
 Visto l'[art. 9 del regio decreto 21 settembre 1938, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-21;2038#art_9), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
-Vista la deliberazione in data 15 maggio 1973, con la quale la Societa' umanitaria di Milano assume a proprio carico, in sostituzione dell'amministrazione provinciale di Milano, gli obblighi previsti dall'[art. 144, lettera e), n. 3, del regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), per il funzionamento, presso - la societa' stessa, di un istituto tecnico statale ad ordinamento speciale;
+Vista la deliberazione in data 15 maggio 1973, con la quale la Societa' umanitaria di Milano assume a proprio carico, in sostituzione dell'amministrazione provinciale di Milano, gli obblighi previsti dall'[art. 144, lettera e), n. 3, del regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), per il funzionamento, presso - la societa' stessa, di un istituto tecnico statale ad ordinamento speciale;
 
 Ritenuto che occorre regolarizzare formalmente il funzionamento del menzionato istituto tecnico statale ad ordinamento speciale, gia' in atto dal 1° ottobre 1971;
 
@@ -50,7 +50,7 @@ Al termine del corso quinquennale si consegue, in relazione agli insegnamenti fr
 ## Art. 5.
 
 L'istituto tecnico di cui all'art. 1 e' dotato di personalita' giuridica e di autonomia di funzionamento ed e' sottoposto alla vigilanza del Ministero della pubblica istruzione. 
- All'adempimento degli obblighi previsti dall'[art. 144, lettera e), n. 3, del regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), provvede, in sostituzione dell'amministrazione provinciale, la Societa' umanitaria di Milano, la quale mette, altresi', a disposizione dell'istituto i laboratori e le attrezzature didattiche di cui e' provvista. Quanto agli altri oneri, saranno applicate le disposizioni vigenti per gli istituti tecnici industriali. 
+ All'adempimento degli obblighi previsti dall'[art. 144, lettera e), n. 3, del regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), provvede, in sostituzione dell'amministrazione provinciale, la Societa' umanitaria di Milano, la quale mette, altresi', a disposizione dell'istituto i laboratori e le attrezzature didattiche di cui e' provvista. Quanto agli altri oneri, saranno applicate le disposizioni vigenti per gli istituti tecnici industriali. 
  Il governo amministrativo e' affidato ad un consiglio di amministrazione cosi' costituito: 
  tre rappresentanti della Societa' umanitaria, fra i quali il Ministro per la pubblica istruzione nomina il presidente; 
  il direttore generale dell'istruzione tecnica o un suo delegato;  il direttore generale dell'istruzione professionale o un suo delegato; 

@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [deliberazione n. 46 dell'8 novembre 1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1968-11-08;46), con la quale il consiglio comunale di Camporosso (Imperia) ha chiesto che l'attuale denominazione della frazione "Piani" sia mutata in quella piu' appropriata di "Camporosso Mare";
  Vista la [deliberazione n. 87 del 13 aprile 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1970-04-13;87), con la quale il consiglio provinciale di Imperia ha espresso parere favorevole in merito al proposto cambio di denominazione;
- Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
 
  Decreta:

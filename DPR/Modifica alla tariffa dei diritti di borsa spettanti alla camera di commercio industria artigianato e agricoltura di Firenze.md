@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 27 luglio 1924, n. 1268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di quotazione ufficiale dei titoli alla borsa valori dovuti alla camera di commercio, industria, artigianato e agricoltura di Firenze;
+Visto il [regio decreto 27 luglio 1924, n. 1268](../Regi%20decreti/Approvazione%20delle%20tariffe%20dei%20diritti%20di%20borsa%20per%20la%20borsa%20di%20commercio%20di%20Firenze.%20024U1268.md), con il quale venne approvata e resa esecutiva la tariffa dei diritti di quotazione ufficiale dei titoli alla borsa valori dovuti alla camera di commercio, industria, artigianato e agricoltura di Firenze;
 
 Visti i decreti del Presidente della Repubblica, rispettivamente del 17 dicembre 1953, n. 1058, del 7 dicembre 1960, n. 1747 e del 16 aprile 1964, n. 413, con i quali vennero approvate variazioni alla precedente tariffa;
 
 Vista la [deliberazione in data 8 aprile 1969, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1969-04-08;268), della giunta della camera di commercio, industria, artigianato e agricoltura di Firenze, con la quale sono state proposte ulteriori modificazioni alla tariffa medesima;
 
-Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di borsa;
+Visto l'art. 53 del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), con il quale si stabilisce la forma e l'organo competente per la emanazione dei provvedimenti riguardanti i diritti di borsa;
 
 Sulla proposta del Ministro Segretario di Stato per il tesoro; Decreta:
 

@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 25 maggio 1936, n. 1049](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto-tipo%20contenente%20le%20norme%20fondamentali%20che%20dovranno%20essere%20riportate%20negli%20statuti%20organici%20dei%20singoli%20Istituti%20autonomi%20provinciali%20per%20le%20case%20popolari.%20036U1049.md), con il quale venne approvato lo statuto-tipo degli istituti autonomi provinciali per le case popolari;
+ Visto il [regio decreto 25 maggio 1936, n. 1049](../Regi%20decreti/Approvazione%20dello%20statuto-tipo%20contenente%20le%20norme%20fondamentali%20che%20dovranno%20essere%20riportate%20negli%20statuti%20organici%20dei%20singoli%20Istituti%20autonomi%20provinciali%20per%20le%20case%20popolari.%20036U1049.md), con il quale venne approvato lo statuto-tipo degli istituti autonomi provinciali per le case popolari;
  Visto il [testo unico 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1938-04-28;1165);
  Vista la [legge 22 ottobre 1971, n. 865](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865);
  Ritenuta l'opportunita' di procedere ad una nuova formulazione dello statuto-tipo;

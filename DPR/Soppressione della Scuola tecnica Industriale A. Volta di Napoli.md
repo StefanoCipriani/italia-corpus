@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
 
-Veduto il [regio decreto 23 novembre 1924, n. 2383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20del%20Regio%20istituto%20industriale%20%20Alessandro%20Volta%20%20di%20Napoli.%20024U2383.md), riguardante l'istituzione della Scuola tecnica industriale "A. Volta" di Napoli;
+Veduto il [regio decreto 23 novembre 1924, n. 2383](../Regi%20decreti/Riordinamento%20del%20Regio%20istituto%20industriale%20%20Alessandro%20Volta%20%20di%20Napoli.%20024U2383.md), riguardante l'istituzione della Scuola tecnica industriale "A. Volta" di Napoli;
 
 Considerato che la Scuola predetta ha cessato di funzionare di fatto dal 10 ottobre 1965;
 

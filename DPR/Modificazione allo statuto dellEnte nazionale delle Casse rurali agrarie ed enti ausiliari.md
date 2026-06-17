@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 19 novembre 1936, n. 2122](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20nazionale%20delle%20Casse%20rurali%20agrarie%20ed%20enti%20ausiliari.%20036U2122.md), con il quale e' stato riconosciuto giuridicamente l'Ente nazionale delle Casse rurali, agrarie ed enti ausiliari e ne e' stato approvato il relativo statuto;
+Visto il [regio decreto 19 novembre 1936, n. 2122](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20nazionale%20delle%20Casse%20rurali%20agrarie%20ed%20enti%20ausiliari.%20036U2122.md), con il quale e' stato riconosciuto giuridicamente l'Ente nazionale delle Casse rurali, agrarie ed enti ausiliari e ne e' stato approvato il relativo statuto;
 
-Visto il [regio decreto 26 agosto 1937, n. 1706](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20leggi%20sulle%20Casse%20rurali%20ed%20artigiane.%20037U1706.md), recante il testo unico delle leggi sulle Casse rurali ed artigiane;
+Visto il [regio decreto 26 agosto 1937, n. 1706](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20Casse%20rurali%20ed%20artigiane.%20037U1706.md), recante il testo unico delle leggi sulle Casse rurali ed artigiane;
 
 Visto il [decreto del Presidente della Repubblica 18 luglio 1949, n. 492](Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20casse%20rurali%20agrarie%20ed%20enti%20ausiliari.md), con il quale e' stato approvato il nuovo statuto del predetto Ente;
 
@@ -54,8 +54,8 @@ Registrato alla Corte dei conti, addi' 13 marzo 1967 Atti del Governo, registro 
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto 19 novembre 1936, n. 2122](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20nazionale%20delle%20Casse%20rurali%20agrarie%20ed%20enti%20ausiliari.%20036U2122.md), con il quale e' stato riconosciuto giuridicamente l'Ente nazionale delle Casse rurali, agrarie ed enti ausiliari e ne e' stato approvato il relativo statuto;
- Visto il [regio decreto 26 agosto 1937, n. 1706](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20leggi%20sulle%20Casse%20rurali%20ed%20artigiane.%20037U1706.md), recante il testo unico delle leggi sulle Casse rurali ed artigiane;
+ Visto il [regio decreto 19 novembre 1936, n. 2122](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellEnte%20nazionale%20delle%20Casse%20rurali%20agrarie%20ed%20enti%20ausiliari.%20036U2122.md), con il quale e' stato riconosciuto giuridicamente l'Ente nazionale delle Casse rurali, agrarie ed enti ausiliari e ne e' stato approvato il relativo statuto;
+ Visto il [regio decreto 26 agosto 1937, n. 1706](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20Casse%20rurali%20ed%20artigiane.%20037U1706.md), recante il testo unico delle leggi sulle Casse rurali ed artigiane;
  Visto il [decreto del Presidente della Repubblica 18 luglio 1949, n. 492](Approvazione%20del%20nuovo%20statuto%20dellEnte%20nazionale%20casse%20rurali%20agrarie%20ed%20enti%20ausiliari.md), con il quale e' stato approvato il nuovo statuto del predetto Ente;
  Vista la [legge 4 agosto 1955, n. 707](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;707), recante modifiche ed innovazioni al sopra citato testo unico;
  Vista la deliberazione adottata dal Consiglio dell'Ente nazionale in data 28 maggio 1965;

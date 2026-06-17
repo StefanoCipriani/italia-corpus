@@ -12,17 +12,17 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md);
 
-Visto il [regio decreto 26 ottobre 1933, n. 1401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%20per%20listituzione%20di%20un%20nuovo%20posto%20di%20professore%20di%20ruolo%20presso%20il%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Sassari.%20033U1401.md);
+Visto il [regio decreto 26 ottobre 1933, n. 1401](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20listituzione%20di%20un%20nuovo%20posto%20di%20professore%20di%20ruolo%20presso%20il%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Sassari.%20033U1401.md);
 
 Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-Sono approvati e resi esecutivi gli atti aggiuntivi stipulati in Sassari rispettivamente in data 13 maggio 1960 e 12 dicembre 1960 per l'adeguamento dei contributi finanziari previsti dalla convenzione stipulata in data 31 marzo 1933 ed approvata con [regio decreto 26 ottobre 1933, n. 1401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%20per%20listituzione%20di%20un%20nuovo%20posto%20di%20professore%20di%20ruolo%20presso%20il%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Sassari.%20033U1401.md), per la istituzione di un posto di professore di ruolo presso la Facolta' di medicina veterinaria dell'Universita' di Sassari.
+Sono approvati e resi esecutivi gli atti aggiuntivi stipulati in Sassari rispettivamente in data 13 maggio 1960 e 12 dicembre 1960 per l'adeguamento dei contributi finanziari previsti dalla convenzione stipulata in data 31 marzo 1933 ed approvata con [regio decreto 26 ottobre 1933, n. 1401](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20listituzione%20di%20un%20nuovo%20posto%20di%20professore%20di%20ruolo%20presso%20il%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Sassari.%20033U1401.md), per la istituzione di un posto di professore di ruolo presso la Facolta' di medicina veterinaria dell'Universita' di Sassari.
 
 ## Art. 2.
 
-Qualora la convenzione e gli atti aggiuntivi alla medesima non siano rinnovati alla scadenza, oppure vengano meno, per qualsiasi motivo i contributi in essi previsti il posto di professore di ruolo istituito in virtu' del citato [regio decreto 26 ottobre 1933, n. 1401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20convenzione%20per%20listituzione%20di%20un%20nuovo%20posto%20di%20professore%20di%20ruolo%20presso%20il%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Sassari.%20033U1401.md), sara' senz'altro soppresso con la conseguente cessazione dal servizio del titolare e con l'obbligo degli Enti finanziatori di corrispondere al titolare stesso il trattamento economico di cessazione che possa eventualmente spettargli.
+Qualora la convenzione e gli atti aggiuntivi alla medesima non siano rinnovati alla scadenza, oppure vengano meno, per qualsiasi motivo i contributi in essi previsti il posto di professore di ruolo istituito in virtu' del citato [regio decreto 26 ottobre 1933, n. 1401](../Regi%20decreti/Approvazione%20della%20convenzione%20per%20listituzione%20di%20un%20nuovo%20posto%20di%20professore%20di%20ruolo%20presso%20il%20Regio%20istituto%20superiore%20di%20medicina%20veterinaria%20di%20Sassari.%20033U1401.md), sara' senz'altro soppresso con la conseguente cessazione dal servizio del titolare e con l'obbligo degli Enti finanziatori di corrispondere al titolare stesso il trattamento economico di cessazione che possa eventualmente spettargli.
 
 ## Art. 3.
 

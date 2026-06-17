@@ -23,7 +23,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Il consiglio di amministrazione dell'ente ospedaliero suddetto e' composto come segue:
  un membro eletto dal consiglio provinciale di Salerno;
  tre membri eletti dal consiglio comunale di Cava dei Tirreni;
- due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente approvato con [regio decreto 23 ottobre 1930, n. 1639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Scissione%20in%20due%20distinti%20enti%20del%20Comitato%20cittadino%20di%20carita%20in%20Cava%20dei%20Tirreni.%20030U1639.md).
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente approvato con [regio decreto 23 ottobre 1930, n. 1639](../Regi%20decreti/Scissione%20in%20due%20distinti%20enti%20del%20Comitato%20cittadino%20di%20carita%20in%20Cava%20dei%20Tirreni.%20030U1639.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
